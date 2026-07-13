@@ -8,17 +8,19 @@ source: gmassist
 ## Scene summary (from gm-assist, verbatim)
 
 #### Kalan Strongbranch, hidden outside the room, Thorin and Zalthir alone interview Alkrist. Under the influence of a zone of truth cast by Kalan Strongbranch, Alkrist is compelled to reveal his full involvement in the plot against Janussi. Alkrist routinely struggles to lie. And shows increasing frustration as he tries to lie and then is forced to say the truth.
+
+*(Note: [Grygum]-tagged lines appear in the verbatim below despite Grygum not being physically present in the room — confirmed as questions/prompts relayed through Thorin and Zalthir rather than an in-fiction presence. Canon has only Thorin and Zalthir in the room with Alkrist.)*
 - Alkrist greets the party with an elaborate performance of grief, claiming "I had a fantastic, superb relationship with the man" and thanking them for stepping in. He misses Thorin's snark about working "for the right remuneration" and takes it as sincere.
 - Kalan Strongbranch casts a zone of truth (which the party kept confusing with a "cone of silence," prompting a *Get Smart* tangent), and Alkrist fails his saving throw, rendering him unable to lie.
 - Alkrist reveals that on the day of the murder, he spoke first with Bookwyrm — his "beloved aunt" — who was distraught that Janussi planned to name A'lai as his successor rather than her.
 - Alkrist then met with Janussi for his own performance review at 9:30 AM (the day everyone receives annual reviews — "your career is made or broken on this day"), during which Janussi said he was "happy with my work" but saw "no leadership potential in me" and dismissed his research into germ warfare as dangerous, ordering him to abandon it.
 - Alkrist insists his germ warfare research is "highly valued and respected" and "game-changing" — "this is not about killing people, this is about understanding the process of using germs to cause death and destruction so that we can heal people."
 - Alkrist subsequently met with A'lai at the baths at 11:45 AM to discuss their 'mutual problem' with Janussi, and together they devised a plan to murder him. He learned from A'lai that A'lai "was more likely to be exiled than named Keeper of the Tomes."
-- Alkrist admits to finding the method of murder in a book in his own chambers — the party identifies it as '1001 Tashalan Nights,' which falls open naturally to a bookmarked section on Midnight Tears poison. He insists "A'lai was the real brains of the operation."
+- Alkrist admits to finding the method of murder in a book in his own chambers — the party identifies it as '1001 Tashalian Nights,' which falls open naturally to a bookmarked section on Midnight Tears poison. He insists "A'lai was the real brains of the operation."
 - Zalthir dramatically shows the section of the book. He had discovered it earlier in his searches.
 - Alkrist confesses to visiting the Oak Tree Apothecary with A'lai, where he stole a vial of poison and spilled ground peppermint on the floor in the process.
 - He describes how he intercepted a gift intended for Janussi (Daral's present), unwrapped it, coated the book inside with Midnight Tears, and carefully re-wrapped it.
-- Alkrist reveals he tore the label off the empty poison vial, tied it to the back of the Dead Winter tree as decoration, and was burning the label using a candle when "Irony" arrived carrying a basin of water to lay the table for supper — Alkrist washed his hands in it "in case I got any midnight tears about them."
+- Alkrist reveals he tore the label off the empty poison vial, tied it to the back of the Dead Winter tree as decoration, and was burning the label using a candle when "Irony" and Orrin Glass arrived carrying a basin of water to lay the table for supper — Alkrist washed his hands in it "in case I got any midnight tears about them."
 - Alkrist admits that after midnight he went to Bookwyrm's chambers with two bottles of the finest wine and two glasses to celebrate, telling her "all of our problems have been solved with respect to Janussi" — specifically that Janussi "was poisoned."
 - He reveals that Bookwyrm was appalled and the two argued loudly before she stormed off sometime after 12 and 12:30; he was left alone, drank some wine, and headed back to his room. He carefully maintains he only said he "had solved the problem," not that he poisoned anyone.
 - When asked about Janussi's heart being removed, Alkrist is genuinely shocked — "Ripped out his heart? What? His heart was ripped out?" — and the party turns suspicion toward Bookwyrm, who would have known about the chalice where the heart was hidden.
@@ -44,7 +46,7 @@ source: gmassist
 
 **[Thorin]** — *snark Alkrist misses as sincere*
 > "So yeah, we just have a few questions for you, if you don't mind, and yeah, we're happy to help for, you know, of course, the right remuneration. We are nothing if not,"
-> "You know, citizens of the world, unlike those of you that exist in this temple to higher learning, not concerned with such race matters."
+> "You know, citizens of the world, unlike those of you that exist in this temple to higher learning, not concerned with such [inaudible — possibly "base matters" or "petty matters"; VTT: "race matters"]."
 
 **[GM]** — *Alkrist takes it at face value*
 > "He, like, he misses the snark in that, and thinks you're being serious."
@@ -280,7 +282,7 @@ source: gmassist
 > "I mean, Yay or nay, it's like a scale of 0 to 4, but really it's yay or nay."
 
 **[GM]**
-> "At this point, Alkrist goes, you understand, foreign."
+> "At this point, Alkrist goes, you understand, [inaudible — possibly "foregone (conclusion)"; VTT: "foreign"]."
 
 **[Thorin]**
 > "Been there, buddy, been there."
@@ -325,14 +327,14 @@ source: gmassist
 **[GM]**
 > "The last night, Tashalian Nights."
 > "He goes, yes, yes, yes, that would, that would exactly…"
-> "And remember, he's bookmarked the exact paragraph with the burger."
+> "And remember, he's bookmarked the exact paragraph. [inaudible; VTT: "with the burger"]"
 
 **[Zalthir]** — *opening the book*
 > "Right, right, the part you bookmarked, is that right? So I can just look?"
 > "Dramatically flip it open."
 
 **[GM]** — *Alkrist panicking*
-> "Oh, yes, that's the part, that's support! Don't look, don't look, don't look!"
+> "Oh, yes, that's the part, [inaudible — possibly "that's it" or "that's the spot"; VTT: "that's support"]! Don't look, don't look, don't look!"
 > "Yes, and so he breaks down."
 
 **[Grygum]**

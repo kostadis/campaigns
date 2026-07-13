@@ -1,0 +1,212 @@
+[
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz determined that the bioluminescent crystals provide protection against harmful gaze attacks when viewed through them, functioning like magical sunglasses against a Medusa.",
+    "source_quote": "With a brilliant flash of insight, Daz determined that the crystals provided protection against creatures with harmful gaze attacks when viewed through them, like magical sunglasses against a Medusa.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir engaged the ghost of Udhask with his fists, landing powerful blows that caused the ghost to shout 'They're coming! Everyone must hide!' before becoming visibly frightened.",
+    "source_quote": "Zalthir engaged the spirit with his fists, landing powerful blows that caused the ghost to shout \"They're coming! Everyone must hide!\" before becoming visibly frightened.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin threw darts at the flying gargoyle, finishing it off despite its supernatural resistance to mundane weapons.",
+    "source_quote": "Thorin moved closer and threw darts at the flying creature, finishing it off despite its supernatural resistance to mundane weapons.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum was bitten and clawed viciously by the second gargoyle, suffering significant wounds.",
+    "source_quote": "The second gargoyle charged at Grygum, biting and clawing him viciously for significant wounds.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool was sent to 'clean' the winged statues, which animated into gargoyles; his appearance with googly eyes confused their master plan of lying in wait.",
+    "source_quote": "They sent Glabbagool to \"clean\" the statues, suspecting they might be more than simple decorations... The gargoyles' master plan of lying in wait was thoroughly confused by the appearance of a friendly gelatinous cube with googly eyes.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Udhask",
+    "fact": "Udhask was a deep gnome whose skeletal remains were found in a hidden compartment beneath a stone bed; his bones showed no signs of violent death, suggesting a peaceful or natural demise.",
+    "source_quote": "They identified the skeletal remains as belonging to Udhask, one of the ghosts that Burrow Warden Jadger had asked them to rescue. Notably, the bones showed no signs of violent death, suggesting Udhask's demise had been peaceful or natural.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Burrow Warden Jadger",
+    "fact": "Burrow Warden Jadger encouraged Glabbagool, Eldeth, Jimjar, and Spiderbait to tackle the ghost problem and asked the party to rescue Udhask and other ghosts.",
+    "source_quote": "Glabbagool, Eldeth, Jimjar, and Spiderbait volunteered to tackle the ghost problem, receiving encouragement from the Burrow Warden Jadger... They identified the skeletal remains as belonging to Udhask, one of the ghosts that Burrow Warden Jadger had asked them to rescue.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Stone Heart Enclave",
+    "fact": "The Stone Heart Enclave provided fresh fungi supplies to the party as they prepared to enter the rock blight caverns.",
+    "source_quote": "They then traveled to the cultivation cave, where a member of the Stone Heart Enclave greeted them warmly and provided fresh fungi supplies for their quest.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh is a city experiencing a strange peace, marked by paranoia about the Ember Vanguard and recent mass hangings and executions.",
+    "source_quote": "A merchant from Gracklstugh who described the city's strange peace. He mentioned the paranoia about the Ember Vanguard and even had a wanted poster. The merchant also noted that there had been some mass hangings and executions.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Crazed Earth Elemental",
+    "fact": "A crazed earth elemental erupted from the ground during the battle with the gargoyles, confirming earlier warnings that earth elementals in the area had been driven mad.",
+    "source_quote": "Just as the party was gaining the upper hand, a crazed earth elemental suddenly erupted from the ground, confirming the earlier warnings that earth elementals in the area had been driven mad.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Gargoyles",
+    "fact": "Two winged statues animated into gargoyles that attacked the party; one was defeated by Thorin's darts, the other by Grygum's wounds before the elemental's arrival.",
+    "source_quote": "The statues animated into gargoyles that immediately attacked... Thorin... finishing it off... The second gargoyle charged at Grygum, biting and clawing him viciously for significant wounds.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Ghost of Udhask",
+    "fact": "The ghost of Udhask attacked the party in a pissed-off fury, shouted a warning, and fled into a burrow after becoming visibly frightened.",
+    "source_quote": "A ghost of a deep gnome appeared and attacked them in a pissed-off fury... shouted \"They're coming! Everyone must hide!\" before becoming visibly frightened... The ghost turned ethereal and fled into a burrow.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Dancing Myconoids",
+    "fact": "Dancing myconoids were encountered by a deep gnome scout who spoke of attending a wedding celebration \u2014 an unusual behavior since myconoids don't typically marry or celebrate.",
+    "source_quote": "A deep gnome scout shared a bizarre tale of encountering dancing myconoids who spoke of attending a wedding celebration, which was highly unusual since myconoids don't typically marry or celebrate.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Protective Crystals",
+    "fact": "The party collected several protective crystals of different colors that guard against harmful gaze attacks when viewed through them, though the colors themselves do not affect magical properties.",
+    "source_quote": "The party collected several protective crystals of different colors for potential future use, though they learned the colors themselves didn't affect the magical properties.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Potion of Invisibility",
+    "fact": "A potion of invisibility was found in a hidden compartment beneath a stone bed in Udhask\u2019s burrow, alongside six valuable gems.",
+    "source_quote": "They discovered a hidden compartment beneath the bed containing six valuable gems worth six hundred gold pieces each and a potion of invisibility.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Six Valuable Gems",
+    "fact": "Six gems, each worth six hundred gold pieces, were found in a hidden compartment beneath a stone bed in Udhask\u2019s burrow.",
+    "source_quote": "They discovered a hidden compartment beneath the bed containing six valuable gems worth six hundred gold pieces each and a potion of invisibility.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Spoiled Booze Barrels",
+    "fact": "The party negotiated with Tappy Foamstrap to acquire barrels of spoiled booze to use as weapons against oozes, with the condition that the tavern's reputation would be protected.",
+    "source_quote": "The party negotiated with Tappy Foamstrap to acquire barrels of spoiled booze to use as weapons against oozes, with the condition that the tavern's reputation would be protected.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Rock Blight Caverns",
+    "fact": "The rock blight caverns were the party\u2019s ultimate destination, reached after extensive excavation and exploration, and were illuminated by bioluminescent fungi and crystal formations.",
+    "source_quote": "They successfully reached the entrance to the rock blight caverns... The party entered a dark cavern illuminated by bioluminescent fungi that refracted through large crystal formations...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Blingdenstone-Mirrored Caverns",
+    "fact": "The caverns mirrored Blingdenstone\u2019s residential areas but were filled with signs of carnage, including ghostly activity and skeletal remains.",
+    "source_quote": "As they explored deeper into the caverns that mirrored Blingdenstone's residential areas but were filled with signs of carnage...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Burrow of Udhask",
+    "fact": "The burrow of Udhask contained his skeletal remains, a hidden compartment with treasure, and was the site where the ghost fled after being frightened.",
+    "source_quote": "The ghost turned ethereal and fled into a burrow... Inside the burrow, the ghost disappeared, but skeletal remains were found next to a stone bed... hidden compartment beneath the bed...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Stone Ledge with Winged Statues",
+    "fact": "A barren stone ledge thirty feet above a crystalline stream held two winged statues that animated into gargoyles upon contact.",
+    "source_quote": "They reached a shallow, swiftly flowing stream with crystalline formations and rough-hewn staircases leading thirty feet up to a barren stone ledge. Two winged statues perched atop the ledge caught their attention...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Discovery of Crystal Protection",
+    "fact": "The party discovered that viewing the crystals through their refracted light provides protection against gaze attacks, like magical sunglasses.",
+    "source_quote": "With a brilliant flash of insight, Daz determined that the crystals provided protection against creatures with harmful gaze attacks when viewed through them, like magical sunglasses against a Medusa.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Rescue of Udhask's Remains",
+    "fact": "The party recovered the skeletal remains of Udhask, fulfilling their quest to rescue ghosts from Burrow Warden Jadger.",
+    "source_quote": "The party carefully collected the bones to fulfill their quest.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Battle with Gargoyles and Earth Elemental",
+    "fact": "The party fought and defeated two gargoyles, only to be confronted by a newly erupted crazed earth elemental, escalating the battle.",
+    "source_quote": "A fierce battle erupted... The second gargoyle charged at Grygum... Just as the party was gaining the upper hand, a crazed earth elemental suddenly erupted from the ground...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Ember Vanguard Paranoia",
+    "fact": "The Ember Vanguard is a feared entity in Gracklstugh, associated with paranoia and mass executions, but its true nature and goals remain unknown.",
+    "source_quote": "He mentioned the paranoia about the Ember Vanguard and even had a wanted poster.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Mad Earth Elementals",
+    "fact": "Earth elementals in the area have been driven mad, and their origin and cause remain unexplained, posing a growing threat.",
+    "source_quote": "Confirming the earlier warnings that earth elementals in the area had been driven mad.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Dancing Myconoid Wedding",
+    "fact": "Dancing myconoids speaking of attending a wedding is an unprecedented phenomenon, suggesting a radical shift in myconoid behavior or a hidden cultural development.",
+    "source_quote": "Dancing myconoids who spoke of attending a wedding celebration, which was highly unusual since myconoids don't typically marry or celebrate.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Gelatinous Cube Ghost Possibility",
+    "fact": "Glabbagool\u2019s question about becoming the first gelatinous cube ghost hung in the air with curious sincerity, implying potential for undead ooze phenomena.",
+    "source_quote": "When Glabbagool asked if he would be the first gelatinous cube ghost, the question hung in the air with curious sincerity.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Evening at Foaming Mug Tavern",
+    "fact": "The party gathered valuable intelligence from patrons at the Foaming Mug Tavern during the evening, including details about Gracklstugh and the Ember Vanguard.",
+    "source_quote": "That evening, the party rested at the Foaming Mug Tavern... The party gathered valuable intelligence from various patrons...",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Next Morning Negotiation",
+    "fact": "The next morning, the party negotiated with Tappy Foamstrap to acquire spoiled booze barrels for use as weapons against oozes.",
+    "source_quote": "The next morning, the party negotiated with Tappy Foamstrap to acquire barrels of spoiled booze to use as weapons against oozes...",
+    "quote_verified": false
+  }
+]

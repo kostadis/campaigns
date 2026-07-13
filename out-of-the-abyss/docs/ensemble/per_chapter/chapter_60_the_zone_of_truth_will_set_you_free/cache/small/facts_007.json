@@ -1,0 +1,114 @@
+[
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi was a scholar and Keeper of Candlekeep who was murdered after opening a gift-wrapped book laced with poison. The murder was premeditated, not opportunistic, and the perpetrator planned for Janussi's death and its aftermath.",
+    "source_quote": "The gift wrap for the deadly book. Someone had planned this: got the poison, picked the target, wrapped it up clean enough that a Keeper of Candlekeep... never noticed. Had opened it. Had thanked whoever sent it, maybe. Had been pleased.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "gift-wrapped book",
+    "fact": "The book was wrapped in reused paper with a deliberate straight cut, concealing lethal poison. The wrapping was designed to appear innocuous to a careful reader, ensuring Janussi would not suspect the contents.",
+    "source_quote": "A clean cut, straight as a rule, separate from all the ragged tears. Someone had taken something sharp to this paper, and then wrapped it back around the contents, and tied the bow, and handed it to Janussi, or left it on a table, or had it carried by someone who had no idea what they were carrying.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "wrapping paper",
+    "fact": "The wrapping paper was discarded in the dining hall trash after being used to conceal the poisoned book. It bore two sets of tears \u2014 one deliberate (from unwrapping), one incidental (from disposal) \u2014 and had been reused, suggesting the perpetrator was methodical and frugal.",
+    "source_quote": "Torn in several places, the way paper tears when you're unwrapping something with reasonable enthusiasm. But there was something else. A straight edge where there shouldn't be one.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "poison",
+    "fact": "The poison was applied to the book with precision, calibrated to kill a scholar who read carefully. It was not a crude toxin, but one designed to evade detection by someone accustomed to examining texts.",
+    "source_quote": "Wrapped it up clean enough that a Keeper of Candlekeep, a scholar who'd spent a lifetime reading things carefully, never noticed.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Alkrist",
+    "fact": "Alkrist is a bronze-scaled individual who publicly expressed grief over Janussi\u2019s death, but his rehearsed demeanor and access to Janussi\u2019s chambers suggest possible involvement. He is unaware that a truth spell is active, and his statements are being scrutinized for hidden intent.",
+    "source_quote": "He entered Janussi's chambers with the careful energy of a man who had rehearsed his arrival, and then deployed grief the same way: deliberately, as an announcement he wanted witnessed.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "1001 Tashalian Nights",
+    "fact": "A copy of the 1001 Tashalian Nights was found in Alkrist\u2019s chambers, bookmarked to a specific passage. The book\u2019s location and the bookmark suggest it was either a personal interest, a distraction, or a clue tied to the murder.",
+    "source_quote": "The book was on a shelf, bookmarked. I had read the section it was bookmarked to.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is the investigator handling the case, motivated by remuneration and pragmatic in approach. He is unaware of the full extent of the evidence but is facilitating the interrogation of Alkrist under the influence of a truth spell.",
+    "source_quote": "Thorin responded with something about being happy to help for the right remuneration. Citizens of the world, not concerned with petty matters.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan",
+    "fact": "Kalan is a spellcaster positioned outside the interrogation room, actively maintaining a truth spell on Alkrist. His presence ensures Alkrist cannot lie, though Alkrist is currently unaware of this.",
+    "source_quote": "Kalan was outside the door. As of right now, Alkrist could not lie. He didn't know that yet.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a silent observer present throughout the interrogation. He does not speak or act on command but observes with unnerving attention, suggesting he may perceive hidden truths others miss.",
+    "source_quote": "Glabbagool was in the room with us, settled near the far wall. He had been there since the beginning. I had not asked him to pay attention. He simply did.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "poisoned book delivery",
+    "fact": "The delivery and opening of the poisoned book was a carefully orchestrated act of assassination. The perpetrator planned for Janussi\u2019s death and the subsequent disposal of evidence, indicating deep forethought and emotional detachment.",
+    "source_quote": "That is not a crime of opportunity. That is a crime of preparation. They had planned for what happened after the gift was opened, which means they had planned for what happened after Janussi was dead.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "identity of the assassin",
+    "fact": "The assassin remains unidentified. They did not enter Janussi\u2019s rooms directly, discarded evidence in a high-traffic area, and may be someone who had access to Janussi\u2019s personal effects or was trusted enough to send a gift. The straight cut in the paper and the reuse of wrapping suggest a meticulous, possibly frugal individual.",
+    "source_quote": "Someone had walked out of Janussi's rooms, or never entered them at all, carrying discarded wrapping paper they felt was safe to throw away in the dining hall, because who looks at trash?",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Candlekeep Keepers",
+    "fact": "The Candlekeep Keepers are scholars entrusted with safeguarding knowledge. Janussi\u2019s murder represents a violation of their sanctum and a failure of their protective protocols, suggesting an external threat with intimate knowledge of their culture.",
+    "source_quote": "a scholar who'd spent a lifetime reading things carefully, never noticed.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "the narrator",
+    "fact": "The narrator is an investigator with expertise in forensic observation, magic, and psychological profiling. They rely on physical evidence, divine cantrips, and behavioral analysis to reconstruct events. They are deeply suspicious of convenience and prefer singular explanations over multiple possibilities.",
+    "source_quote": "I don't like having three different stories when I should have one. I took notes either way. The notes say: whoever did this was calm, prepared, and patient.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "truth spell activation",
+    "fact": "A truth spell was cast on Alkrist prior to interrogation, ensuring his statements are compelled to be factual. This creates a critical vulnerability for the suspect and shifts the interrogation\u2019s dynamic from suspicion to revelation.",
+    "source_quote": "As of right now, Alkrist could not lie. He didn't know that yet.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Bahamut's domain",
+    "fact": "Bahamut\u2019s domain includes the preservation of truth and the restoration of things to their original state. The narrator invoked a cantrip from this domain to reveal the hidden history of the wrapping paper, confirming the presence of a deliberate cut.",
+    "source_quote": "Bahamut's domain is, among other things, the preservation of truth, and a cantrip that restores things to their original state is, when you think about it, a pretty good way to find out what a thing used to be.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "bookmark in 1001 Tashalian Nights",
+    "fact": "The bookmark in Alkrist\u2019s copy of the book indicates a specific passage of interest. It may contain a coded message, a reference to poison, or a personal obsession \u2014 its significance is currently unknown but actively being investigated.",
+    "source_quote": "I had read the section it was bookmarked to.",
+    "quote_verified": true
+  }
+]

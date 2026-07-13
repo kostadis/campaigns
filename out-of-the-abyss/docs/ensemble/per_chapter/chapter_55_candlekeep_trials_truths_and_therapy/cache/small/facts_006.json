@@ -1,0 +1,128 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a combat-optimized individual who ignored the manual, built an unconventional shadow technique through improvisation, and impressed the blind monk Khell-Vire with a 29-to-hit strike that shattered a thrown brick \u2014 demonstrating that his unorthodox approach is more effective than traditional training.",
+    "source_quote": "I rolled a 29 to hit. The brick did not survive.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Khell-Vire",
+    "fact": "Khell-Vire is a blind monk who initially judged Zalthir\u2019s skills as weak and untrained, but ultimately recognized that Zalthir\u2019s combination of shadow step and strike \u2014 not his individual mechanics \u2014 revealed a deeper, forgotten lineage of shadow monks, and awarded him a specialized technique as a result.",
+    "source_quote": "There is something special about how you hit. The way of the Shadow is not about hitting. It is about discrete movement.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a companion who advocates for Dawnbringer\u2019s personhood, insists on using gendered pronouns for a sentient blade, and seeks validation for the emotional bond formed through shared trauma \u2014 challenging institutional dehumanization of magical artifacts.",
+    "source_quote": "What do you mean, specimen? This is my friend Dawnbringer.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is a sentient, late Netherese-era blade forged in sun-worship, subjected to three to four millennia of darkness, and now recognized by Thorin as a person \u2014 capable of companionship, identity, and emotional reciprocity despite lacking a conventional body.",
+    "source_quote": "I don't know what to call her, but... we've gotten to know each other pretty well over the last stressful ordeals.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Philemon",
+    "fact": "Philemon is an archivist trained to view magical artifacts as specimens, but he paused and reset his assumptions when confronted with Thorin\u2019s insistence on Dawnbringer\u2019s personhood \u2014 indicating a latent openness to redefining classification beyond institutional norms.",
+    "source_quote": "He looked up. There was a pause. The kind where someone resets the question in their head before they say the next thing.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Shadow Monks",
+    "fact": "The Shadow Monks are an ancient, possibly lost lineage of warriors who mastered discrete movement over brute strikes \u2014 their methods forgotten until Zalthir\u2019s untrained combination of shadow step and attack inadvertently resurrected their principles.",
+    "source_quote": "You are beginning to remember, I think, all those shadow monks that drove you nuts.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Gelatinous Cube Collective",
+    "fact": "The Gelatinous Cube Collective is a newly emerging sentient entity \u2014 once dismissed as mindless \u2014 now recognized as a student of the monk path, capable of walking, torturing drows, and learning shadow techniques, with a growing reputation that defies xenobiological assumptions.",
+    "source_quote": "She's by no means mindless \u2014 she's a student. He's learning the ways of the monk. He's already walking.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Gelatinous Cube",
+    "fact": "The Gelatinous Cube is a once-mindless ooze now trained in shadow techniques, capable of movement, emotional expression, and recursive learning \u2014 its transformation from hazard to student marked by the approval of sages and the production of Resonant Slime.",
+    "source_quote": "Glabbagool was very pleased.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Drow Overseer",
+    "fact": "The Drow Overseer is a captive or subordinate drow being 'tortured' by the Gelatinous Cube \u2014 not as a victim, but as part of its training process \u2014 indicating a reversal of power dynamics and the emergence of non-traditional mentorship in the Underdark.",
+    "source_quote": "He's already torturing this poor drow.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Resonant Slime",
+    "fact": "Resonant Slime is a rare alchemical substance produced by the Gelatinous Cube Collective, used to affirm its sentience and legitimacy \u2014 its presence signifies institutional recognition of non-human intelligence.",
+    "source_quote": "The sage... produced a vial of Resonant Slime.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Shadow Tentacles",
+    "fact": "Shadow Tentacles are an unrecorded, self-developed ability of Zalthir, grown from his eldritch tattoo \u2014 a technique outside official manuals, born of improvisation and later validated by Khell-Vire as a legitimate expression of shadow mastery.",
+    "source_quote": "I learned how to grow shadow tentacles.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Brick-Shattering Strike",
+    "fact": "Zalthir\u2019s 29-to-hit strike on a thrown brick resulted in its complete destruction \u2014 an unprecedented physical manifestation of shadow power that silenced skepticism and forced reevaluation of combat doctrine.",
+    "source_quote": "The brick did not survive.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Shadow Step + Strike Combination",
+    "fact": "Zalthir\u2019s synchronized use of shadow step and melee strike \u2014 though individually flawed \u2014 produced a result that resonated with ancient shadow monk principles, triggering Khell-Vire\u2019s recognition and the award of a new technique.",
+    "source_quote": "It is your combination of the shadow step and the hit that redeems your lack of skills in all other possible areas.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Pronoun of Dawnbringer",
+    "fact": "The question of whether Dawnbringer is 'he,' 'she,' or 'they' remains unresolved in institutional records \u2014 but Thorin\u2019s insistence on personhood has turned it into a living, unresolved ethical thread that challenges archival norms.",
+    "source_quote": "I don't know what to call her, but... we've gotten to know each other pretty well.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Manual vs. Improvisation",
+    "fact": "The ongoing conflict between official combat manuals and Zalthir\u2019s self-built techniques continues to produce results that invalidate the manuals \u2014 a thread that redefines mastery as creation rather than conformity.",
+    "source_quote": "The manual was still wrong about him. But what he'd built in spite of it was genuinely his.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Master Archivist Philemon's Study",
+    "fact": "Philemon\u2019s study is a space of traditional scholarship \u2014 smelling of ink and mineral residue \u2014 that became the site of a paradigm shift when a sentient blade was recognized not as a specimen but as a person.",
+    "source_quote": "Smelled like old ink and something faintly mineral, which I appreciated.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep Libraries",
+    "fact": "The Candlekeep Libraries are a repository of knowledge that failed to record Zalthir\u2019s innovations or the Gelatinous Cube\u2019s sentience \u2014 yet became the destination where these unrecorded phenomena arrived, forcing expansion of the canon.",
+    "source_quote": "We had not brought a gelatinous cube this far \u2014 through the Underdark, through Waterdeep, into the libraries of Candlekeep \u2014 to have him dismissed as a mindless digestive system before lunch.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Session Date",
+    "fact": "The events described occurred during a session where unrecorded character development, improvised mechanics, and emergent sentience were validated by narrative and mechanical outcomes \u2014 marking a turning point in how power, identity, and mastery are defined.",
+    "source_quote": "I filed it under 'Zalthir: things that are not in the records but will be.'",
+    "quote_verified": false
+  }
+]

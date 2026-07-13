@@ -1,0 +1,359 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a monk who dispelled magical darkness, sensed supernatural presence, and retrieved the statue of Demogorgon from an alcove in the northeast corner of the mesa.",
+    "source_quote": "Zalthir tenses. 'The ghost,' he thinks. ... Zalthir jumps off the mesa and heads to an alcove in the northeast corner. There, he picks up the statue of Demogorgon.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth is a voice recognized by Zalthir, who shouted to confirm everyone's safety near the tunnel entrance, and is accompanied by a creature similar to but different from a beholder.",
+    "source_quote": "Zalthir recognizes the voice; it\u2019s Eldeth. ... Where Eldeth is, near the tunnel entrance is a spectator, a creature similar to but different from a beholder.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is the one who retrieved the Red Dragon Egg and later confirmed possession of it when questioned by Grygum.",
+    "source_quote": "Daz shouts, 'I have the egg.' ... Then Daz shouts back, 'I have it.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Pelek",
+    "fact": "Pelek is a Derro who has occupied a body, expressed discomfort with the new form, and identified himself as 'the ghost' to Zalthir.",
+    "source_quote": "And then an unfamiliar voice of a Derro shouts, 'My goodness, this body is uncomfortable.' ... 'Oh, yes, I am Pelek. I seem to have occupied this body.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a cleric of Bahamut who questioned the location of the egg and searched the bodies of dead Derro for clues.",
+    "source_quote": "Grygum shouts, 'Where is the egg?' ... while Grygum searches the bodies he heads to the northwest corner...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Pliinki",
+    "fact": "Pliinki is a Derro alchemist and fanatic who conducted macabre experiments on the Red Dragon Egg, sought to harness the Obelisk of Diirinka, and planned to offer a two-headed wyrmling as a mount for Demogorgon.",
+    "source_quote": "Pliinki's Journal ... Letter 1: From Pliinki to Uskvil (Gray Ghosts Leader)",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Gray Ghosts",
+    "fact": "The Gray Ghosts are a thieves' organization that delivered the Red Dragon Egg to Pliinki under the guise of a simple retrieval, unaware of its true purpose as a vessel for Demogorgon\u2019s ascension.",
+    "source_quote": "The Gray Ghosts delivered it! ... Letter 1: From Pliinki to Uskvil (Gray Ghosts Leader)",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Keepers of the Flame",
+    "fact": "The Keepers of the Flame are a ruling faction in Gracklstugh who are in panic over the loss of the Red Dragon Egg, believing it to be merely a 'replacement' and unaware of its transformation into a demonic vessel.",
+    "source_quote": "The Keepers are in a panic over its loss, believing it merely a 'replacement' for their bloated wyrm.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Deep King",
+    "fact": "The Deep King is a ruler of Gracklstugh who is being deliberately misled by Pliinki, kept 'delighted' in his ignorance while his city is destabilized for the coming demonic ascension.",
+    "source_quote": "Keep the Deep King 'delighted' in his ignorance.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Red Dragon Egg",
+    "fact": "The Red Dragon Egg is a magical artifact that has been mutated by Pliinki's experiments to become a two-headed wyrmling intended as a mount for Demogorgon, disguised by the Keepers as a mere 'replacement'.",
+    "source_quote": "The Red Dragon Egg! What a marvel! ... The egg pulses with new life ... a two-headed wyrmling, a perfect 'Prince's gift' for Demogorgon.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Obelisk of Diirinka",
+    "fact": "The Obelisk of Diirinka is a black-metal artifact humming with quasi-magical energy, hidden in the mesa and sought by Pliinki to be used as an instrument of conquest and sacrifice to Demogorgon.",
+    "source_quote": "The Obelisk. Such a magnificent, fractured thing! ... Its black metal hums with quasi-magical energy ... It will be the instrument of our ascension.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Statue of Demogorgon",
+    "fact": "The statue of Demogorgon is a physical representation of the Prince of Demons, retrieved by Zalthir from an alcove in the northeast corner of the mesa, signaling the culmination of Pliinki\u2019s ritual design.",
+    "source_quote": "Zalthir jumps off the mesa and heads to an alcove in the northeast corner. There, he picks up the statue of Demogorgon.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Journal of Pliinki",
+    "fact": "The Journal of Pliinki details her experiments on the Red Dragon Egg, her attempts to empower the Obelisk of Diirinka, and her fanatical devotion to Demogorgon\u2019s ascension.",
+    "source_quote": "Pliinki's Journal ... Here are some journal entries from the perspective of Pliinki, detailing her macabre experiments and fervent beliefs.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Letter from Pliinki to Uskvil",
+    "fact": "The letter from Pliinki to Uskvil, leader of the Gray Ghosts, confirms the successful delivery of the egg, the failure of Thrazgad ore to mend the Obelisk, and the ongoing destabilization of Gracklstugh for Demogorgon\u2019s coming reign.",
+    "source_quote": "Letter 1: From Pliinki to Uskvil (Gray Ghosts Leader)",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Dead Derro",
+    "fact": "Multiple dead Derro lie broken across the upper levels of the mesa, victims of violent conflict, their corpses searched by Grygum and others.",
+    "source_quote": "The upper levels of the mesa are covered in blood and the broken bodies of the derro. ... There are two dead derro.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Beholder-like Spectator",
+    "fact": "A creature similar to but different from a beholder stands near Eldeth at the tunnel entrance, its presence unexplained but ominous.",
+    "source_quote": "Where Eldeth is, near the tunnel entrance is a spectator, a creature similar to but different from a beholder.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Mutation of the Red Dragon Egg",
+    "fact": "The Red Dragon Egg has undergone magical mutation under Pliinki\u2019s experiments, transforming into a two-headed wyrmling destined to serve as Demogorgon\u2019s mount.",
+    "source_quote": "The egg pulses with new life ... the mutations are taking hold ... a two-headed wyrmling, a perfect 'Prince's gift' for Demogorgon.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Activation of the Obelisk of Diirinka",
+    "fact": "The Obelisk of Diirinka has responded to Pliinki\u2019s will, flashing with energy and now hungering for more chaos to herald Demogorgon\u2019s arrival and the genocidal cleansing of Gracklstugh.",
+    "source_quote": "It flashed! A mere flicker, but a sign! ... It didn't just flash this time; the very air around it flared! It hungers for more power, more chaos!",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Missing Egg",
+    "fact": "The Red Dragon Egg was reported missing by Grygum, though Daz later claimed possession \u2014 creating uncertainty about its true location and whether it has already hatched or been concealed.",
+    "source_quote": "Grygum shouts, 'Where is the egg?' ... Then Daz shouts back, 'I have it.'",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Identity of the Ghost",
+    "fact": "Pelek\u2019s occupation of a body and declaration as 'the ghost' introduces supernatural ambiguity \u2014 whether this is possession, a spirit, or a magical phenomenon tied to the Obelisk\u2019s energy.",
+    "source_quote": "'Oh, yes, I am Pelek. I seem to have occupied this body.' ... 'The ghost,' he thinks.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Day 17\u201354",
+    "fact": "The journal entries span from Day 17 to Day 54, documenting the progression of Pliinki\u2019s experiments and the accelerating collapse of Gracklstugh\u2019s political order.",
+    "source_quote": "Pliinki's Journal \u2014 Day 17 ... Day 25 ... Day 38 ... Day 47 ... Day 54",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Upper Levels of the Mesa",
+    "fact": "The upper levels of the mesa are a battlefield littered with the blood and broken bodies of Derro, and the site where Zalthir retrieved the statue of Demogorgon and where Eldeth stands with the beholder-like spectator.",
+    "source_quote": "The upper levels of the mesa are covered in blood and the broken bodies of the derro.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Northeast Alcove",
+    "fact": "The northeast alcove is where Zalthir found and retrieved the statue of Demogorgon, marking it as a locus of ritual significance in Pliinki\u2019s plan.",
+    "source_quote": "Zalthir jumps off the mesa and heads to an alcove in the northeast corner. There, he picks up the statue of Demogorgon.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Northwest Desk",
+    "fact": "The northwest desk holds Pliinki\u2019s journal and letters, serving as the primary archive of her conspiracy and the key to understanding the true nature of the egg and the Obelisk.",
+    "source_quote": "He heads to the northwest corner where there is a desk with some papers. ... He finds a journal by Pliinki.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Tunnel Entrance",
+    "fact": "The tunnel entrance is where Eldeth stands beside the beholder-like spectator, possibly a point of entry or exit for the Gray Ghosts or the Deep King\u2019s forces.",
+    "source_quote": "Where Eldeth is, near the tunnel entrance is a spectator, a creature similar to but different from a beholder.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum has concluded that the egg is no longer a dragon but a demonic abomination, and that it must be destroyed to break the dark design of its creators and affirm Bahamut\u2019s cherishing of freedom.",
+    "source_quote": "When the egg, crimson-hued, promises but a shadow's ride, does one mend the shell, or seek to free the spark within? The true wyrm's form is not etched by fate's first breath, nor by sorcerous hand. It is the choices that twist the spirit, or set it soaring.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "baby dragon rattle",
+    "fact": "A giant rattle, marked 'made by clan Thrazgad,' was found by Thorin and is physically identical to the ore used in the Obelisk's failed repair, suggesting a deeper, possibly magical connection between the Thrazgad Clan, the egg, and draconic manipulation.",
+    "source_quote": "It says made by clan Thrazgad.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "the egg",
+    "fact": "The egg has transcended its original form as a dragon egg and is now a physical manifestation of demonic essence, bound to hatch as a creature of Demogorgon\u2019s design, posing an existential threat to Gracklstugh and its inhabitants.",
+    "source_quote": "The egg is no longer a dragon. It is a physical manifestation of a demon.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Clan Thrazgad",
+    "fact": "Clan Thrazgad is implicated in the creation of both the demonic egg and the dragon rattle, suggesting they are not merely ore-miners but active participants in arcane, possibly blasphemous experiments involving draconic and demonic hybridization.",
+    "source_quote": "It says made by clan Thrazgad.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the fate of the egg",
+    "fact": "Grygum has declared the egg must be returned to Gartokkar to trigger Themberchaud\u2019s vengeance upon its captors \u2014 a move that may fulfill prophecy, unleash destruction, or break the cycle of control \u2014 but its outcome remains unknown and dangerously volatile.",
+    "source_quote": "When this abomination hatches, the dragon Themberchaud will have its revenge on those who would think to control it.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir, a dragonborn, is deeply unsettled by Thorin\u2019s innocent words and Grygum\u2019s condemnation of the egg, as his own identity is implicitly called into question by the moral and metaphysical framing of purity and abomination.",
+    "source_quote": "Zalthir stares at him, confused, 'What?'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin, unaware of the weight of his words, remains fixated on the idea of owning a dragon, revealing a childlike innocence that contrasts sharply with the dark machinations surrounding the egg and the city\u2019s fate.",
+    "source_quote": "We should get a baby dragon. I would like to have a dragon. It would be so cool if we had a dragon.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "the return of the egg to Gartokkar",
+    "fact": "Grygum\u2019s decision to return the egg to Gartokkar is an act of defiance against the cults and manipulators who seek to weaponize it \u2014 but it may also be the catalyst for Themberchaud\u2019s return, the collapse of Gracklstugh, or the birth of a new demonic sovereign.",
+    "source_quote": "We shall return the egg to Gartokkar.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Bahamut\u2019s silence",
+    "fact": "Grygum recalls that Bahamut\u2019s clerics never gave him a straight answer \u2014 suggesting that divine will in this matter is not to be commanded, but discerned through action, and that the true test lies not in destroying evil, but in choosing freedom over control.",
+    "source_quote": "Bahamut\u2019s clerics never gave him a straight answer.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh is no longer merely a city under siege \u2014 it is a crucible of conflicting destinies: a cult\u2019s sacrificial offering to Demogorgon, a dragon\u2019s long-delayed vengeance, a child\u2019s innocent desire, and a god\u2019s unspoken command \u2014 all converging on a single, cursed egg.",
+    "source_quote": "The city spirals precisely as we planned, preparing for the true glory that awaits it.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Ember Vanguard",
+    "fact": "The Ember Vanguard is a feared group of mercenaries led by Thorin, composed of Daz, Zalthir, Grygum, and others, who have claimed identity as a powerful raiding force \u2014 notably including Drow and Duergar-aligned elements \u2014 and are now recognized by Derro as agents of Menzoberranzan.",
+    "source_quote": "The Ember Vanguard, Onwards!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is the charismatic and determined leader of The Ember Vanguard who imposed the faction's name against hesitation, believes in the power of mythic identity, and leads the group with conviction despite mockery.",
+    "source_quote": "We need a name! Like the First Faction was the legendary heroes that saved the North!",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is the mage of The Ember Vanguard who found purpose in the faction's feared identity, excels in illusion and evocation magic (dancing lights, silvery barbs, toll the dead), and takes pride in his tactical brilliance during encounters with Derro and Trappers.",
+    "source_quote": "I have it \u2014 The Ember Vanguard.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a member of The Ember Vanguard who initially advocated for discretion, later accepted the faction\u2019s identity, and now operates under its banner \u2014 though he remains wary of the dangers they face, including the Empty Scabbard Killers.",
+    "source_quote": "The Empty Scabbard Killers might want to kill us.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is the scribe and strategist of The Ember Vanguard who drafted the faction\u2019s original plan to manipulate Gartokkar and the Stone Guards, survived a Trapper attack, and is now burdened by the acid slime and emotional weight of their violent path.",
+    "source_quote": "I\u2019ve been taking notes on all of the deals we have made.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Diirdeklin the Derro",
+    "fact": "Diirdeklin is a Derro guard stationed at a northern post who has been promised liberation from Duergar bondage, witnessed the arrival of The Ember Vanguard, recognized them as Drow agents of Menzoberranzan, and chose survival over resistance after seeing a meteor swarm summoned by a Drow Archmage.",
+    "source_quote": "The people you are trying to warn are dead.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Diinarnnmyr",
+    "fact": "Diinarnnmyr is a Derro who fears a Drow incursion and believes The Ember Vanguard are working with the Duergar to subdue their people, having heard rumors that Pliinki was killed and interpreting the group\u2019s arrival as the start of a larger conquest.",
+    "source_quote": "The Ember Vanguard \u2014 the Drow are now working with the Duergar to subdue us!",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Trapper",
+    "fact": "A manta ray-like creature that attacked Grygum in a 20-foot-wide cavern, coated him in acid slime, and was ultimately slain by Zalthir\u2019s blows before Grygum could exploit the spell effects \u2014 its presence indicates the region is infested with dangerous fauna.",
+    "source_quote": "Grygum shouts in pain.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Derro Squad",
+    "fact": "A small squad of Derro stationed before double doors in a cave system, who were poised to raise an alarm against The Ember Vanguard but were silenced by the sight of a Drow Archmage and meteor swarm, revealing the group\u2019s overwhelming power.",
+    "source_quote": "Do we attack?",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Cave of the Obelisk",
+    "fact": "The starting chamber from which The Ember Vanguard departed, marked by the group\u2019s decision to adopt a new identity, and now abandoned as they moved through a network of tunnels toward double doors and deeper into the underground.",
+    "source_quote": "They are ready to leave the chamber of the Obelisk.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Double Doors Beyond the Cave",
+    "fact": "A fortified entrance guarded by a squad of Derro, located after a long tunnel, which The Ember Vanguard passed without conflict after demonstrating overwhelming magical power.",
+    "source_quote": "In front of those double doors is a small squad of derro.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "20-Foot-Wide Cavern",
+    "fact": "A vast subterranean passage where Grygum was attacked by a Trapper, and where Daz executed precise spellcasting to aid in its defeat \u2014 now a site of violence and survival.",
+    "source_quote": "After walking in the enormous 20-foot-wide cavern for a few minutes, Thorin hears a yelp.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Scrap of Paper",
+    "fact": "A piece of paper used by Grygum to record all faction deals and strategies, later referenced to justify the plan to manipulate Gartokkar and the Stone Guards \u2014 a physical artifact of the group\u2019s cunning.",
+    "source_quote": "Grygum pulls out a scrap of paper, 'I\u2019ve been taking notes\u2026'",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Drow-Duergar Alliance Rumor",
+    "fact": "A growing belief among Derro that The Ember Vanguard represents a secret alliance between Drow of Menzoberranzan and Duergar forces \u2014 a threat that could destabilize the entire Underdark hierarchy.",
+    "source_quote": "The Ember Vanguard \u2014 the Drow are now working with the Duergar to subdue us!",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Pliinki\u2019s Fate",
+    "fact": "The disappearance or death of Pliinki, a Derro who promised Diirdeklin liberation from Duergar bondage, now interpreted as evidence of a larger Drow operation \u2014 a mystery that fuels Derro paranoia.",
+    "source_quote": "And if they killed Pliinki, that means that they have bigger plans.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Session Date",
+    "fact": "The events occur during a single continuous session of exploration and confrontation, beginning with the formation of The Ember Vanguard and ending with the group\u2019s passage into unknown depths.",
+    "source_quote": "And so they are ready to leave the chamber of the Obelisk.",
+    "quote_verified": true
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a cleric of Bahamut, committed to the principle that dragons have free will and that scale pigmentation does not determine personality. He believes the notion that chromatic dragons are evil is the greatest evil. He is determined to save the egg, even at great personal risk.",
+    "source_quote": "Bahamut commands that I save the egg.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a pragmatic individual who seeks magical equipment and has no interest in grand missions. He initially dismisses saving the duergar Werz or defeating a cult of Demogorgon as irrelevant to his goals, but is willing to engage when prompted by evidence or logic.",
+    "source_quote": "Saving the Duergar from a mad king and defeating another cult of Demogorgon is not what I am here for.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a thoughtful magician and long-time student of magic who practices daily journaling inspired by Milo Goodbarrel. He analyzes factional motivations and strategic opportunities with precision, and has deduced a profitable path forward involving evidence-based persuasion rather than direct confrontation.",
+    "source_quote": "The path forward was clear, and indeed, it was very profitable.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a hardened warrior who distrusts frontal assaults and prefers stealth or unconventional escapes. He favors fleeing on the back of Thermbachaud and is skeptical of the value of gathering evidence unless it avoids war.",
+    "source_quote": "We don\u2019t have the resources to mount a full frontal assault. So we could just return, give the information, and then boogie out of here.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Flumph",
+    "fact": "The Flumph is a psychic energy feeder who experiences trauma dumps as emotional release. It has knowledge of hidden factions \u2014 including the Council of Savants, Grey Ghosts, assassins, and mind flayers \u2014 but cannot read minds directly. It feeds on psychic energy and is emotionally bonded to the memory of its deceased friend Buppido.",
+    "source_quote": "Ever since my friend Buppido went stark raving mad\u2026",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Council of Savants",
+    "fact": "The Council of Savants was once a benevolent group but became corrupted after the blink. They are now working with Plinki to summon Demogorgon or turn him into a two-headed dragon mount. They are psychics who emit psychic energy, which the Flumph feeds on. They are the primary enemy of the Keepers of the Flame.",
+    "source_quote": "After the blink, they became crazy. And now they are working with Plinki to try to summon Demogorgon or make him a two-headed dragon mount!",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Grey Ghosts",
+    "fact": "The Grey Ghosts are an elusive organization suspected of engaging in evil activities. Evidence of their actions has been found, but it is not yet physical. They are believed to be connected to the city\u2019s growing madness and are a target of Errde\u2019s investigation.",
+    "source_quote": "We found evidence of the Grey Ghosts doing something evil.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Assassin\u2019s Guild",
+    "fact": "The Assassin\u2019s Guild operates in the shadows and has targeted key figures, including the duergar Werz, using magical light blades. Their involvement is known through secondhand testimony, but physical proof is lacking. They are also suspected of working with the Council of Savants.",
+    "source_quote": "The assassins are also there. The ones you said had a magical light blade that tried to kill that duergar Werz.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Keepers of the Flame",
+    "fact": "Gartokkar Xundorn leads the Keepers of the Flame, a secretive order engaged in a hidden war with the Council of Savants. Their primary objective is to secure the egg as insurance against Themberchaud. They seek exposure of the Council\u2019s corruption and consider them their worst enemies.",
+    "source_quote": "The egg is their insurance policy against Themberchaud.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Stone Guards (Errde)",
+    "fact": "Errde, leader of the Stone Guards, publicly believes the Council of Savants and Grey Ghosts are responsible for the city\u2019s madness. She secretly avoids acknowledging that assassins have targeted her clan. She demands physical evidence of the Council\u2019s corruption and proof of the Empty Scabbard Killers\u2019 involvement.",
+    "source_quote": "She wants proof of the Council of Savants' involvement with the corruption in the city. She also wants any actual evidence about the Empty Scabbard Killers.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud, the red dragon, is insecure about his authority and suspects the Keepers of the Flame have plans against him. He desires intelligence on the inner workings of the Council of Savants and the egg\u2019s significance, though he does not directly engage with the party.",
+    "source_quote": "He\u2019s not sure that he\u2019s in charge. And he wants information about what\u2019s going on.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "the egg",
+    "fact": "The egg is a powerful artifact of immense strategic value. It serves as insurance for the Keepers of the Flame against Themberchaud. Grygum, as a cleric of Bahamut, believes it must be saved, though its nature and origin remain unexplained.",
+    "source_quote": "As a cleric of Bahamut, I must save the egg.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "psychic energy",
+    "fact": "Psychic energy is emitted by psychics such as the Council of Savants and mind flayers. The Flumph feeds on this energy, which causes it to experience trauma dumps. This energy is the key to its knowledge, but not its direct perception.",
+    "source_quote": "They are psychics, and they use psychic energy, and I feed on it.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "mind flayer",
+    "fact": "A mind flayer is a psychic predator that releases powerful energy detectable by the Flumph. It is known to reside down a hallway and has been indirectly observed through the Flumph\u2019s trauma dumps. It is dangerous and connected to the broader conspiracy.",
+    "source_quote": "The Flumph had found a tasty snack in the psychic energy released by a mind flayer.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Demogorgon",
+    "fact": "Demogorgon is a primordial demon lord sought to be summoned by the Council of Savants and Plinki. They aim to turn it into a two-headed dragon mount, indicating a blasphemous fusion of psionics and demonic power.",
+    "source_quote": "They are working with Plinki to try to summon Demogorgon or make him a two-headed dragon mount!",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Whorlstone Caves",
+    "fact": "The Whorlstone Caves are a contested location where key factions hide. Gartokkar and Errde cannot enter without triggering war \u2014 Gartokkar because it would reveal his power\u2019s fragility, and Errde because it would expose her incompetence as city guardian.",
+    "source_quote": "Gartokkar and Errde can\u2019t get into the Whorlstone Caves without triggering a war.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Derro hovels",
+    "fact": "The Derro hovels are a place recently departed from, marking the transition back into the city of blades. Their atmosphere is oppressive and tied to the broader decay of the city.",
+    "source_quote": "As we leave the Derro hovels and re-enter the city of blades...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "seedy bar",
+    "fact": "The seedy bar is where the rest of the crew is currently holed up. It serves as their base of operations and potential recruitment point for weapons from Errde.",
+    "source_quote": "We have the rest of the crew holed up in a seedy bar.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "obelisk room",
+    "fact": "The obelisk room contains papers with critical information, but the Flumph cannot recall their contents. Their text is a potential source of physical evidence, but remains inaccessible.",
+    "source_quote": "What was written on the papers in the obelisk room? ... No.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "physical evidence gap",
+    "fact": "The party possesses testimonial knowledge about the Council of Savants, Grey Ghosts, assassins, and the egg \u2014 but lacks physical proof. Daz has determined that without tangible evidence, factions like Errde and Gartokkar will not act.",
+    "source_quote": "Without physical evidence, the word of a Flumph won\u2019t be taken seriously.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "strategy for persuasion",
+    "fact": "Daz has deduced that the path forward lies not in combat or direct confrontation, but in leveraging existing factional rivalries and presenting verifiable, contextual evidence \u2014 such as the Flumph\u2019s trauma-dumped knowledge \u2014 to convince Errde and Gartokkar to act.",
+    "source_quote": "The path forward was clear, and indeed, it was very profitable.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Thermbachaud escape plan",
+    "fact": "Thorin advocates escaping on the back of Thermbachaud as an alternative to confronting factions or gathering evidence. This plan remains unconfirmed but represents a high-risk, high-reward option.",
+    "source_quote": "I still like the plan of escaping on the back of Thermbachaud.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occur during a session of play following the party\u2019s departure from the Derro hovels and re-entry into the city of blades. The timeline is fluid but anchored by Daz\u2019s journaling practice and the sequence of factional revelations.",
+    "source_quote": "As we leave the Derro hovels and re-enter the city of blades...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "trauma dump",
+    "fact": "A trauma dump is an emotional release experienced by the Flumph after absorbing psychic energy. Each dump reveals fragmented knowledge about factions, locations, and threats. Multiple dumps are now required to build sufficient narrative weight for persuasion.",
+    "source_quote": "Flumph, I\u2019ll need you to trauma dump on someone. ... Make that two trauma dumps.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "blink",
+    "fact": "The blink is a pivotal, unexplained event that caused the Council of Savants to transform from benevolent to corrupt. It is referenced as the origin of their current madness and their alliance with Plinki.",
+    "source_quote": "After the blink, they became crazy.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Buppido\u2019s madness",
+    "fact": "Buppido, the Flumph\u2019s friend, went stark raving mad \u2014 an event that deeply affected the Flumph and may be linked to the increased psychic energy in the region. This trauma underpins the Flumph\u2019s emotional state and its knowledge.",
+    "source_quote": "Ever since my friend Buppido went stark raving mad\u2026",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "empty scabbard killings",
+    "fact": "The Empty Scabbard Killers are assassins whose identities and motives are unknown. Errde seeks physical evidence of their involvement, but none has been presented yet.",
+    "source_quote": "She also wants any actual evidence about the Empty Scabbard Killers.",
+    "quote_verified": true
+  }
+]

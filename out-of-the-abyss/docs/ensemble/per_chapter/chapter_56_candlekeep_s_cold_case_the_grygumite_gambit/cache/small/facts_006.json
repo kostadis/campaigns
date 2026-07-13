@@ -1,0 +1,149 @@
+[
+  {
+    "type": "npc",
+    "subject": "Tadric",
+    "fact": "Tadric is a young human guard with a bowl-cut, assigned to crowd control at the tower entrance; he admitted his role was not observational and felt embarrassment upon realizing his job was insufficient for the scale of the event; he confirmed the timeline of arrivals and departures around the death of Janussi.",
+    "source_quote": "I was told to make sure only the right people came in and out.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan",
+    "fact": "Kalan was the previous guard at the tower door, relieved before the party\u2019s arrival; Tadric noted he looked more determined leaving than entering, suggesting he had encountered something significant before being removed from duty.",
+    "source_quote": "Kalan looked more determined coming out than going in.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi was found dead by the Great Reader A'lai Aivenmore and housekeeper Miss Hollypocket around 7:30 a.m.; the cause and circumstances of death remain unexamined by the party, though a death rite was already performed by the Gate Warden.",
+    "source_quote": "Janussi found dead by the Great Reader and the housekeeper, one Miss Hollypocket, around half past seven in the morning.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Gate Warden",
+    "fact": "The Gate Warden arrived at 8 a.m., spoke briefly with the discoverers, returned alone at 11 a.m. for a full inspection, and exited with an expression of discovery; he was removed from duty before being questioned, and his findings remain undisclosed.",
+    "source_quote": "The Gate Warden again at eleven, alone, for a full inspection \u2014 careful, deliberate, left to make his report to the Council.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kazryn Nyantani",
+    "fact": "Kazryn Nyantani arrived shortly after 8 a.m., distraught, and was permitted only a doorway view of the body; no further interaction occurred.",
+    "source_quote": "Kazryn Nyantani, distraught, shortly after eight \u2014 allowed to see the body but only from the doorway.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Fheminor Scrivenbark",
+    "fact": "Fheminor Scrivenbark arrived at 8:30 a.m., appeared shocked, and requested to inspect the chamber but was turned away.",
+    "source_quote": "Fheminor Scrivenbark at half past eight, appearing shocked, wanting to inspect the chamber, turned away.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm arrived at 9 a.m. from the baths and was granted a brief look at the body before confirming the existing orders; she later provided theological commentary on the cat.",
+    "source_quote": "Bookwyrm at nine, arriving from the baths, allowed a brief look before confirming the existing orders.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Fembris",
+    "fact": "Fembris is a dwarf who became increasingly agitated after the second landing; he insists the cat is not a supernatural entity but a normal cat, despite evidence suggesting otherwise; he later revised his definition of 'anything' to include legal boundaries.",
+    "source_quote": "These Avowed had taken a cat sitting wherever it liked and turned it into an interstellar, interspatial, interdimensional horror \u2014 that's just what cats do.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a drow who quietly questioned whether the cat might be something more than it appears; his single word \u2014 'Is it?' \u2014 caused Fembris to reconsider his position.",
+    "source_quote": "Is it?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a dragonborn investigator who consistently focuses on structural truths: he identifies testimony as evidence, proposes examining people as objects of inquiry, and notes the fragility of the corpse due to elapsed time since death.",
+    "source_quote": "But your testimony is evidence. Maybe you are evidence, and we should examine you.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm is a half-orc who offered a theological disclaimer regarding the cat, asserting that no one has conclusively proven it is or is not a power that lives here; she later stepped around the cat without fear.",
+    "source_quote": "Nobody had been able to conclusively prove the cat was some kind of power that lived here, and nobody had been able to conclusively prove that it was not.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "The Cat",
+    "fact": "The cat is gray, with yellow eyes, motionless until approached, then tracks movement without needing to move itself; it has been observed multiple times by different individuals; its nature is debated as either mundane or supernatural; it has been described as a familiar, shapeshifter, or interdimensional entity, though no proof exists either way.",
+    "source_quote": "Gray. Motionless. Yellow eyes that opened the moment we got close. The cat had decided it need not move for anyone, and tracked us anyway.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Tower",
+    "fact": "The tower contains a spiraling staircase with key locations on each landing: a reception chamber on the first, a shrine of Oghma on the second, and a large apartment with its door left conspicuously ajar on the third; the apartment has not yet been entered by the party.",
+    "source_quote": "Reception chamber at the first landing, a shrine of Oghma at the second, a large apartment at the third with its door left conspicuously ajar.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "The Third-Floor Apartment",
+    "fact": "The third-floor apartment\u2019s door is left open, a deliberate anomaly in an otherwise controlled environment; it has been noted and filed for later examination, as it is the only unsecured interior space in the tower.",
+    "source_quote": "I noted the apartment. Noted that the door was open. Filed it for later.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "The Death Rite",
+    "fact": "A death rite has already been performed on Janussi\u2019s corpse by the Gate Warden prior to the party\u2019s arrival; this renders the rite unusable for another attempt for a significant duration, delaying any spiritual inquiry.",
+    "source_quote": "Someone \u2014 presumably the Gate Warden, before his removal \u2014 had already used the rite on the corpse, which meant we'd be waiting if we wanted to try again.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Removal of the Gate Warden",
+    "fact": "The Gate Warden was removed from duty after conducting a full inspection of the crime scene and before being questioned; his removal suggests an attempt to suppress or control the flow of information regarding his findings.",
+    "source_quote": "The Gate Warden removed before he could be asked what he'd found.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Open Door",
+    "fact": "The open door of the third-floor apartment is an unexplained anomaly in a highly controlled environment; its purpose and contents are unknown, but its existence implies a deliberate act or hidden evidence.",
+    "source_quote": "A door left ajar on the third floor landing.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Cat's Nature",
+    "fact": "The cat\u2019s behavior and the conflicting interpretations of it by the party suggest a hidden supernatural truth; its persistence, indifference, and the theological debate surrounding it imply it is more than it appears \u2014 or that someone wants others to believe it is.",
+    "source_quote": "That's kind of how cats always are, I think,\" I said, because it is.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Gate Warden's Discovery",
+    "fact": "The Gate Warden exited the crime scene after his inspection with a demeanor of discovery, yet was removed before reporting; his findings remain unknown, making him the most critical unspoken witness.",
+    "source_quote": "Tadric noted that Kalan looked more determined coming out than going in.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Unobserved Gap",
+    "fact": "Tadric admitted he was not observing, only controlling; the Gate Warden\u2019s movements inside the chamber during his inspection were unrecorded; this gap in observation is the most significant vulnerability in the timeline.",
+    "source_quote": "He had not been watching closely enough to track what he'd done in there.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Need to Enter",
+    "fact": "The party has not yet entered the third-floor apartment; its open door, proximity to the crime scene, and lack of documentation make it the next logical point of inquiry \u2014 the place where answers may be hidden.",
+    "source_quote": "I hadn't been inside yet. That was where I needed to be.",
+    "quote_verified": true
+  }
+]

@@ -1,0 +1,420 @@
+[
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is referenced as the authority who reserves genuine surprise for things like demon princes and sentient oozes, and who arrives at conclusions with a tone of processed judgment.",
+    "source_quote": "Daz made a noise of genuine surprise \u2014 the kind he usually reserves for things like demon princes and sentient oozes. \"Oh!\" And then, with that particular tone he uses when he's already processed something and moved to judgment: \"We're gonna level up.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced as the authority who operates in private tactical spaces behind his eyes, builds narrow and sharp, and concludes that obscure specializations can break the universe.",
+    "source_quote": "Zalthir looked at me with that particular expression that meant he'd thought four moves ahead already. \"I find it more fun to double down with some sort of obscure specialization and then try to break the universe with it.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Underdark",
+    "fact": "The Underdark is tight and low, a dangerous world where enemies get bigger and ranged weapons are absent, forcing combatants to adapt to proximity and geometry.",
+    "source_quote": "The Underdark is tight and low. But we're almost out. And this is a dangerous world, and we have a dangerous job, and we none of us have ranged weapons, which means there will absolutely be something that needs hitting from a distance.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Neverlight Grove",
+    "fact": "Neverlight Grove is one of the places the party crawled through, fought through, and negotiated their way past on their path to the surface.",
+    "source_quote": "Neverlight Grove. Blingdenstone. The Pudding King. Ilvara. Everything we'd crawled through, fought through, negotiated and lied and burned our way through.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Blingdenstone",
+    "fact": "Blingdenstone is one of the places the party crawled through, fought through, and negotiated their way past on their path to the surface.",
+    "source_quote": "Neverlight Grove. Blingdenstone. The Pudding King. Ilvara. Everything we'd crawled through, fought through, negotiated and lied and burned our way through.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Pudding King's Lair",
+    "fact": "The Pudding King's lair is a place the party fought through, and where Zalthir pulled the creature out by sheer force of tactical geometry.",
+    "source_quote": "I'd watched him pull the Pudding King out of its lair by sheer force of tactical geometry.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Menzoberranzan",
+    "fact": "Menzoberranzan trained Daz to read the moment before decision with surgical attention, emphasizing the importance of knowing what options are held before committing.",
+    "source_quote": "Menzoberranzan trained me to read that moment with surgical attention. *Know what you hold before you commit to playing it.*",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Monastery",
+    "fact": "The monastery taught a class on battlefield geometry and the difference between control and proximity, though Zalthir cannot recall the instructor\u2019s name.",
+    "source_quote": "There was a class on this. At the monastery. Something about battlefield geometry and the difference between control and proximity. I think it was Brother Heslin \u2014 or possibly that was the one who taught falling. I'm genuinely uncertain.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Ebonmire's Spellbook",
+    "fact": "Ebonmire's Spellbook is a promissory note Daz has not fully read, containing prepared spells that unlock the potential of Fey Touched and Sculpt Spells.",
+    "source_quote": "The spellbook we'd taken from Princess Ebonmire had been sitting in my pack like a promissory note I hadn't finished reading.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is a blade that does not cut but burns with clean, divine radiant damage, arguing with darkness on a philosophical level.",
+    "source_quote": "Dawnbringer is not slashing, right? It's actually\u2026 Radiant damage. Confirmed. The blade doesn't cut so much as it burns \u2014 clean, divine, the kind of light that argues with darkness on a philosophical level.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Rope",
+    "fact": "Rope is a tool Zalthir uses to bind enemies after grappling them, transforming a temporary hold into a sustained control mechanism.",
+    "source_quote": "Rope is slower. Tying something takes focus, takes both hands, takes the better part of a turn spent crouching over a target that is probably trying to bite you.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Potion of Giant Strength",
+    "fact": "The Potion of Giant Strength is a resource the party considers saving for later, despite the understanding that unspent potions are the ones you die holding.",
+    "source_quote": "The logic: skip the investment, drink the potion of giant strength when it matters. Which \u2014 I recognized, even as I thought it \u2014 had given me one more bad habit to account for. The potion you don't drink is the potion you die holding.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Zhentarim",
+    "fact": "The Zhentarim are a ruthless faction that survive by doing what others won't, and whose tactics represent a dark transition the party is now considering adopting.",
+    "source_quote": "There's a school of thought \u2014 brutal, efficient, not entirely reputable \u2014 that goes by the name Zhentarim Tactics. Ruthless by design. Effective in ways that decent people find uncomfortable. The Zhentarim have survived by being willing to do what others won't.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Hill Giants",
+    "fact": "The hill giants are the party's former mentors, whose lessons in combat and protection are carried in the shape of every fight won, despite their moral ambiguity.",
+    "source_quote": "The hill giants weren't always good people either, and I carry their lessons in the shape of every fight I've won.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Leveling Up",
+    "fact": "The party collectively levels up after surviving the Underdark, triggering a reckoning with their identities, abilities, and the cost of survival.",
+    "source_quote": "Alright, so the first thing is that we're all leveled up. I heard myself think it before I quite understood it. Leveled up. Which meant \u2014 I ran the count back.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grapple + Cloud of Daggers Synergy",
+    "fact": "Zalthir and Daz develop a tactical synergy where a grapple fixes an enemy in place, allowing Cloud of Daggers to persistently damage it without requiring repositioning.",
+    "source_quote": "If you hold one in place,\" Daz said, \"the daggers keep finding them.\" A grapple keeps the target where I put them, but I am not inside them \u2014 I am beside them, adjacent, occupying my own space while they occupy theirs.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Fey Touched Selection",
+    "fact": "Daz selects Fey Touched as his feat, unlocking additional prepared spells and free castings, tied to the potential of Ebonmire's Spellbook and the need for spatial control.",
+    "source_quote": "Fey Touched gives me two additional spells to prepare. Plus free castings... Fey Touched. That was the one. I wrote it down with the quiet satisfaction of a calculation that checks out.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Telekinetic Feat Consideration",
+    "fact": "Daz considers Telekinetic as a geometry tool to reposition allies, recognizing that moving Zalthir five feet can be more valuable than a Scorching Ray.",
+    "source_quote": "Telekinetic... I can aim this at allies and do things like get them out of a grapple. Move them five feet... moving Zalthir five feet in the right direction is more valuable than a Scorching Ray.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Warcaster Selection",
+    "fact": "Daz selects Warcaster to improve concentration checks, ensuring sustained spells like Hypnotic Pattern and Maximilian's Grasp persist through enemy attacks.",
+    "source_quote": "Warcaster was the obvious answer... the ability to hold that concentration when something lands a hit is not decorative. It is the difference between the spell persisting and the spell dissolving at precisely the wrong moment.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Street Justice Feat Discovery",
+    "fact": "Zalthir discovers Street Justice, which allows him to bind grappled enemies with rope, transforming his grappling into sustained control.",
+    "source_quote": "I found the Street Justice feat on his behalf \u2014 the one that let him use rope to bind enemies he'd already grappled. The monk whose hands were already his primary weapon, now with a formal mechanism for making staying as interesting as hitting.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Darkness Spell Conflict Resolution",
+    "fact": "Zalthir and Daz resolve the longstanding conflict between Darkness and fire spells by using grapples to fix targets in place, allowing Daz\u2019s spells to function without interference.",
+    "source_quote": "We talked through the geometry of it... Daz could put his cloud directly on the grappled target and I would walk away without a scratch.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Sculpt Spells + Cloud of Daggers Integration",
+    "fact": "Daz integrates Sculpt Spells with Cloud of Daggers to create safe zones for allies within area effects, turning spellcasting into spatial architecture.",
+    "source_quote": "Sculpt Spells lets me carve exclusions into area effects... The Evoker's toolkit is not a collection of separate spells; it is an interlocking argument about where enemies should be, where allies should be, and which parts of a room I am willing to set on fire.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Misty Step Free Casting Utilization",
+    "fact": "Daz utilizes Misty Step as a free casting to escape grapples and avoid attacks of opportunity, responding to his instinctive objection to being restrained.",
+    "source_quote": "Being able to cast it without expending a spell slot is extremely useful. Because if you're in combat, it allows you to get out without incurring attacks of opportunity. It allows you to get out of a grappled situation.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Dark Transition",
+    "fact": "The party undergoes a dark transition from hopeful adventurers to pragmatic survivors who accept morally ambiguous tactics as necessary for survival.",
+    "source_quote": "The happy-go-lucky kid who went underground expecting something survivable has spent months watching demon lords and eating mushrooms and coming to understand that the Underdark doesn't care what kind of person you want to be.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Action Economy Optimization",
+    "fact": "Zalthir optimizes his action economy by using a grapple as a bonus action and binding with rope as a main action, creating a full-turn control loop on a single enemy.",
+    "source_quote": "Grapple is a quick thing \u2014 one motion... The binding would consume the action itself. The whole turn \u2014 both pieces of it \u2014 spent on one enemy, pinned to the floor...",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Pudding King",
+    "fact": "The Pudding King is a creature that Zalthir pulled from its lair by sheer force of tactical geometry, demonstrating mastery of spatial control.",
+    "source_quote": "I'd watched him pull the Pudding King out of its lair by sheer force of tactical geometry.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Demon Lords",
+    "fact": "Demon lords are entities the party has watched and survived, contributing to their dark transition and acceptance of ruthless tactics.",
+    "source_quote": "I've spent months watching demon lords and eating mushrooms and coming to understand that the Underdark doesn't care what kind of person you want to be.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Sentient Oozes",
+    "fact": "Sentient oozes are creatures that provoke genuine surprise in Daz, indicating their danger and unpredictability in combat.",
+    "source_quote": "Daz made a noise of genuine surprise \u2014 the kind he usually reserves for things like demon princes and sentient oozes.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Demon Princes",
+    "fact": "Demon princes are entities so terrifying that Daz reserves his most genuine surprise for them, marking them as apex threats.",
+    "source_quote": "Daz made a noise of genuine surprise \u2014 the kind he usually reserves for things like demon princes and sentient oozes.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Tactical Geometry",
+    "fact": "Tactical geometry is the recurring theme that battles are won by positioning, not power, and that control over space matters more than raw damage.",
+    "source_quote": "The Underdark had taught me repeatedly that battles are often decided by who is standing where... Zalthir builds narrow and builds sharp. Everything pointing in one direction, so that in exactly the right situation, he becomes something close to impossible.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Long Arrangement",
+    "fact": "The Long Arrangement is the philosophy that preparation, positioning, and spell selection are the truest parts of combat, not the moment of casting.",
+    "source_quote": "Milo Goodbarrel had a chapter about this. He called it \"the long arrangement\" \u2014 the idea that the fight before the fight, the positioning, the preparation, is actually most of the fight.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Dark Transition",
+    "fact": "Dark Transition is the irreversible shift from idealistic adventurer to pragmatic survivor who adopts morally compromised tactics for survival.",
+    "source_quote": "I've had what you might call a dark transition. The happy-go-lucky kid who went underground expecting something survivable has spent months watching demon lords and eating mushrooms and coming to understand that the Underdark doesn't care what kind of person you want to be.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Potion Hoarding",
+    "fact": "Potion Hoarding is the bad habit of saving potent resources for a future that may never come, leading to death with unspent power.",
+    "source_quote": "The potion you don't drink is the potion you die holding.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Geometry Over Power",
+    "fact": "Geometry Over Power is the principle that precise spatial control \u2014 grapples, repositioning, area effect sculpting \u2014 defeats brute force in the Underdark\u2019s confined spaces.",
+    "source_quote": "The Evoker's toolkit is not a collection of separate spells; it is an interlocking argument about where enemies should be, where allies should be, and which parts of a room I am willing to set on fire.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Conservation of Action",
+    "fact": "Conservation of Action is the discipline of using bonus actions, free castings, and multi-step sequences to maximize control per turn in high-stakes combat.",
+    "source_quote": "Grapple is a quick thing \u2014 one motion... The binding would consume the action itself. The whole turn \u2014 both pieces of it \u2014 spent on one enemy...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Divine Radiance as Philosophy",
+    "fact": "Divine Radiance as Philosophy is the idea that radiant damage is not merely a damage type but a metaphysical assertion against darkness, requiring belief as much as spellcasting.",
+    "source_quote": "The blade doesn't cut so much as it burns \u2014 clean, divine, the kind of light that argues with darkness on a philosophical level.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Legacy of Giants",
+    "fact": "Legacy of Giants is the inherited combat doctrine that protection, proximity, and brute force replace ranged capability, rooted in the training of hill giants.",
+    "source_quote": "Being a dwarf raised by giants means I don't have to have any range. Giants toss rocks. Those rocks go far and hurt. My job was to be there and protect the giants from anything that came too close.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Sculpting the Battlefield",
+    "fact": "Sculpting the Battlefield is the art of using spells not to destroy, but to define safe and lethal zones, turning the environment into a weapon.",
+    "source_quote": "Sculpt Spells lets me carve exclusions into area effects... The Evoker's toolkit is not a collection of separate spells; it is an interlocking argument about where enemies should be, where allies should be...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Weight of Choice",
+    "fact": "The Weight of Choice is the burden of knowing that every feat, spell, and tactic chosen is not just mechanical, but existential \u2014 it defines who you become.",
+    "source_quote": "I knew it was wrong when I said it. It's always wrong... I could. It would be honest, even. Not the honesty I prefer \u2014 I've always liked honesty you can stand behind without flinching \u2014 but there are things you absorb down here whether you mean to or not.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "The Day the Party Leveled Up",
+    "fact": "The day the party leveled up marked the end of their initial phase of survival and the beginning of their transformation into tactical architects of the Underdark.",
+    "source_quote": "Alright, so the first thing is that we're all leveled up. I heard myself think it before I quite understood it. Leveled up. Which meant \u2014 I ran the count back.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "The Day Zalthir Learned Grapple-Spell Synergy",
+    "fact": "The day Zalthir learned grapple-spell synergy was when he stopped apologizing for Darkness and started commanding the battlefield with control.",
+    "source_quote": "We talked through the geometry of it... Daz could put his cloud directly on the grappled target and I would walk away without a scratch.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "The Day Daz Chose Fey Touched",
+    "fact": "The day Daz chose Fey Touched was when he stopped seeing spells as tools and began seeing them as keys to unlock potential he hadn't yet accessed.",
+    "source_quote": "Fey Touched. That was the one. I wrote it down with the quiet satisfaction of a calculation that checks out.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "The Day the Party Realized They Had No Ranged Weapons",
+    "fact": "The day the party realized they had no ranged weapons was the day they understood the Underdark would not change its nature for them.",
+    "source_quote": "We none of us have ranged weapons, which means there will absolutely be something that needs hitting from a distance. The universe is that kind of petty.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir ties things to the ground for Daz to cook",
+    "source_quote": "Zalthir ties things to the ground for Daz to cook",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum made a sound",
+    "source_quote": "Grygum made a sound",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin said something about \"the Ember Grapple.\"",
+    "source_quote": "Thorin said something about \"the Ember Grapple.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin mentioned javelins. He had apparently acquired some facility with thrown weapons \u2014 a Sharpshooter's instinct, trained in, applied to range \u2014 and he wanted something with reach for the next engagement.",
+    "source_quote": "Thorin mentioned javelins. He had apparently acquired some facility with thrown weapons \u2014 a Sharpshooter's instinct, trained in, applied to range \u2014 and he wanted something with reach for the next engagement.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin wanted something to hold the gap while I was busy tying knots and Daz was busy making things into fire.",
+    "source_quote": "Thorin wanted something to hold the gap while I was busy tying knots and Daz was busy making things into fire.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin noted it and moved on.",
+    "source_quote": "Thorin noted it and moved on.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin had run the tunnels in his head \u2014 the distance we had traveled, the pace, the absence of obvious threats immediately ahead.",
+    "source_quote": "Thorin had run the tunnels in his head \u2014 the distance we had traveled, the pace, the absence of obvious threats immediately ahead.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin turned that over the way he turns most things over: once, completely, and then he put it down.",
+    "source_quote": "Thorin turned that over the way he turns most things over: once, completely, and then he put it down.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin let it settle. As names go, he has heard worse.",
+    "source_quote": "Thorin let it settle. As names go, he has heard worse.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "The Ember Vanguard",
+    "fact": "The Ember Vanguard charges in with fire and flash and the announcement of itself.",
+    "source_quote": "The Ember Vanguard charges in with fire and flash and the announcement of itself.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Ember Grapple",
+    "fact": "The Ember Grapple holds something still until there is nothing left to hold.",
+    "source_quote": "The Ember Grapple holds something still until there is nothing left to hold.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "I killed an ettin with my hands.",
+    "source_quote": "I have killed an ettin with my hands.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "I dragged the Pudding King through his own throne room.",
+    "source_quote": "I dragged the Pudding King through his own throne room.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "the throne room",
+    "fact": "The Pudding King was dragged through his own throne room.",
+    "source_quote": "I dragged the Pudding King through his own throne room.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "the Ember Grapple",
+    "fact": "The Ember Grapple is a name that was noted and accepted.",
+    "source_quote": "The Ember Grapple.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "the Ember Vanguard",
+    "fact": "The Ember Vanguard is a name that was noted and accepted as accurate.",
+    "source_quote": "The Ember Vanguard charges in with fire and flash and the announcement of itself.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "the tunnels",
+    "fact": "The tunnels were run through in the mind \u2014 the distance traveled, the pace, the absence of obvious threats immediately ahead.",
+    "source_quote": "Thorin had run the tunnels in his head \u2014 the distance we had traveled, the pace, the absence of obvious threats immediately ahead.",
+    "quote_verified": false
+  }
+]

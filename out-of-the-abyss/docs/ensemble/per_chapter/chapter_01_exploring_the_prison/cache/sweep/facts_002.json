@@ -1,0 +1,170 @@
+[
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith nods in response to the wager offer.",
+    "source_quote": "Sarith nods.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir observes that the speaker seems confident they will escape and live.",
+    "source_quote": "Zalthir says, \u201cYou seem to be confident we will escape and live.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum asks where they will find safety.",
+    "source_quote": "Gyrgum asks, \u201cWhere will we find safety?\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth states that there is not enough resources or space for anyone in the Underdark.",
+    "source_quote": "Eldeth laughs, \u201cSafety? This is the Underdark.  There is not enough resources or space for anyone.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth says survival in the Underdark depends on wits.",
+    "source_quote": "Survival depends on your wits.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth says people in the Underdark distrust outsiders and view them as a resource to be used.",
+    "source_quote": "People tend to distrust outsiders and view them as a resource to be used.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin remembers that their stuff is in the chest in Ilvara\u2019s room.",
+    "source_quote": "I know where our stuff is. It\u2019s in the chest in Ilvara\u2019s room.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin believes the Drow leader keeps all the loot for herself.",
+    "source_quote": "The Drow leader probably keeps all the loot for herself.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin says if any other Drow had their stuff, they would taunt them.",
+    "source_quote": "And if any other Drow had our stuff, they would taunt us.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin turns to the Drow and says their deal is accepted.",
+    "source_quote": "The dwarf turns to the Drow and says, \u201cYour deal is accepted. When?\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara",
+    "fact": "Ilvara is the Drow leader who keeps loot in her room.",
+    "source_quote": "It\u2019s in the chest in Ilvara\u2019s room. The Drow leader probably keeps all the loot for herself.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Ilvara\u2019s room",
+    "fact": "Ilvara\u2019s room contains a chest where the prisoners\u2019 stuff is stored.",
+    "source_quote": "It\u2019s in the chest in Ilvara\u2019s room.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "chest",
+    "fact": "The chest is located in Ilvara\u2019s room and contains the prisoners\u2019 belongings.",
+    "source_quote": "It\u2019s in the chest in Ilvara\u2019s room.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "accepting the deal",
+    "fact": "The Drow accept Thorin\u2019s deal to collect the wager after a long rest.",
+    "source_quote": "\u201cAfter a long rest, before you go on your assigned tasks.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "sleep in slave pen",
+    "fact": "Everyone sleeps in the slave pen with troubled and fitful sleep.",
+    "source_quote": "Everyone\u2019s sleep in the slave pen is troubled and fitful, filled with strange dreams and disturbing images.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "dark shadows",
+    "fact": "Dark shadows move and reach out toward prisoners during their nightmares in the slave pen.",
+    "source_quote": "Dark shadows seem to move and reach out toward them",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "oily tentacles",
+    "fact": "Oily tentacles slide and brush against prisoners during their nightmares in the slave pen.",
+    "source_quote": "Oily tentacles slide to brush up against them",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "great buzzing and howling",
+    "fact": "A great buzzing and howling rises in the distance during prisoners\u2019 nightmares in the slave pen.",
+    "source_quote": "a great buzzing and howling rises in the distance.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "suppurating wounds",
+    "fact": "Suppurating wounds burst open in clouds of spores or crawling masses of maggots or insects during prisoners\u2019 nightmares in the slave pen.",
+    "source_quote": "Suppurating wounds burst open in clouds of spores or crawling masses of maggots or insects.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz wakes up and remembers Sethir mentioned a grey ooze in the pool.",
+    "source_quote": "Daz wakes up and remembers, \u201cRight, Sethir said there is a grey ooze in the pool.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sethir",
+    "fact": "Sethir is referenced as having mentioned a grey ooze in the pool.",
+    "source_quote": "Sethir said there is a grey ooze in the pool.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "grey ooze",
+    "fact": "A grey ooze exists in the pool and is used to process waste.",
+    "source_quote": "Sethir said there is a grey ooze in the pool. That\u2019s how the waste gets processed.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "wager",
+    "fact": "A wager is made about escaping and living, to be collected after a long rest.",
+    "source_quote": "\u201cWanna bet?\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "wager",
+    "fact": "The wager will be collected after a long rest, before assigned tasks.",
+    "source_quote": "\u201cAfter a long rest, before you go on your assigned tasks.\u201d",
+    "quote_verified": true
+  }
+]

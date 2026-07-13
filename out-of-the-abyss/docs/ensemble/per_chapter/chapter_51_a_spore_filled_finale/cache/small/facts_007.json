@@ -1,0 +1,93 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a monk bound by the self-administered discipline of avoiding Ilvara despite his training and instincts, having been affected by a Zuggtmoy-deep fear that overrides his combat judgment.",
+    "source_quote": "I am supposed to be trying to not be near her. Right.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara",
+    "fact": "Ilvara is a dying but prophetic figure, channeling Zuggtmoy\u2019s will through her, filling the battlefield with chaotic prophecy rather than plea or surrender, even as she is physically broken.",
+    "source_quote": "Vengeance. Zuggtmoy. The bride.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Eldritch Claw Tattoo",
+    "fact": "The Eldritch Claw Tattoo manifests as fifteen feet of tentacular reach, used by Zalthir to restrain and assault Ilvara, but its power is nullified by the psychological fear it triggers in him.",
+    "source_quote": "Used the Eldritch Claw Tattoo to wrap tentacles around her, hauled her forty feet into the air.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Insect Swarm",
+    "fact": "An insect swarm occupies the cavern entrance, now being dealt with by an unseen ally as the battle contracts toward resolution.",
+    "source_quote": "Someone else was dealing with the insect swarm at the entrance.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "T'sarran Mage",
+    "fact": "The T'sarran Mage was a combatant who entered the fight with overconfidence, delivered a dramatic lightning bolt that missed, and was killed by Zalthir\u2019s single teleporting strike after being weakened by a fireball.",
+    "source_quote": "Daz had already run an empowered fireball through him; the man was singed at the edges and blinking with the stunned expression of someone who had entered this fight expecting an easy kill and received instead a detailed education in why that assumption was wrong.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is moving forward after the primary threats have fallen, contributing to the final contraction of the battle.",
+    "source_quote": "Behind Zalthir, someone \u2014 Grygum, probably \u2014 was already moving forward.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's strike on the mage",
+    "fact": "Zalthir teleported via shadow-step and delivered a single decisive blow to the T'sarran Mage, killing him instantly after the mage had already been weakened.",
+    "source_quote": "He teleported across the battlefield \u2014 shadow-step, the distance closing in the space between one breath and the next \u2014 and hit the mage once, and that was enough.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Fear's resolution",
+    "fact": "The fear affecting Zalthir lifted cleanly at the end of his turn, as promised, without fanfare or relief.",
+    "source_quote": "The fear cleared at the end of his turn, the way it had been promised to.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Zuggtmoy's presence",
+    "fact": "Zuggtmoy is manifesting through Ilvara, turning her into a vessel of prophecy rather than a mere combatant, suggesting an ongoing demonic influence beyond the current battle.",
+    "source_quote": "Something Zuggtmoy-deep, something that had nothing to do with Ilvara Mizzrym's personal opinion of Zalthir and everything to do with the demon lord wearing her face.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Cavern",
+    "fact": "The cavern is the site of a closing battle, with threats resolving from the periphery inward, the space shrinking as combatants fall and allies move to secure the remaining objectives.",
+    "source_quote": "The fight was contracting toward its end the way fights do, the radius shrinking as each threat resolved.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Shadow-step",
+    "fact": "Shadow-step is a teleportation ability used by Zalthir to close distance instantly, enabling him to strike the mage with precision and finality.",
+    "source_quote": "He teleported across the battlefield \u2014 shadow-step, the distance closing in the space between one breath and the next.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "one turn",
+    "fact": "One turn is the duration Zalthir must wait to overcome the fear, a period described as long and empty when there is nothing to do.",
+    "source_quote": "One turn is a long time when you have nothing to do in it.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Zuggtmoy",
+    "fact": "Zuggtmoy is an ancient demon lord whose influence has taken hold of Ilvara, transforming her into a mouthpiece of chaos and prophecy, and whose presence has altered the psychological dynamics of the entire encounter.",
+    "source_quote": "Something Zuggtmoy-deep, something that had nothing to do with Ilvara Mizzrym's personal opinion of Zalthir and everything to do with the demon lord wearing her face.",
+    "quote_verified": false
+  }
+]

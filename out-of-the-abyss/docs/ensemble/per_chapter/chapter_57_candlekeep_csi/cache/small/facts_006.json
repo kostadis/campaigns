@@ -1,0 +1,219 @@
+[
+  {
+    "type": "npc",
+    "subject": "Queenie",
+    "fact": "Queenie is a five-year-old, sleet-grey housecat who refuses to be disturbed, observes human behavior with precision, and communicates through cryptic declarations about tickles, beauty sleep, and the habits of two-leggers. She is a witness to key events and has settled into Janussi's armchair for naps. She claims to have seen Sylvira Savikas blast the armchamber with force light, Daral carry away a book that induces stillness, and a figure wearing Sylvira's shape but not her scent.",
+    "source_quote": "I did not order any more ticklers! Any good ticklers are the only good\u2026 and good ticklers are\u2026 tickles are only the good reason for disturbing my beauty sleep.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is rarely surprised, keeps a private tally of rare moments of astonishment, and is fascinated by the idea of talking to cats. He makes intuitive leaps that sometimes misfire but arrive at correct conclusions \u2014 such as equating a book with a TV. He is engaged in the investigation and prompts Queenie for details, especially about the candle and the shapeshifter.",
+    "source_quote": "Oh, it's a TV!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is methodical, notices when descriptions are doing unacknowledged work, and presses witnesses with precise questions. He connects the dots between force bolts, the missing book, and the shapeshifter. He confirms the timeline: the victim was alive when Daral left. He identifies the shapeshifter situation and links it to the candle.",
+    "source_quote": "That explains the candle.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is cost-conscious, tracks expenses on his account, and is relieved when others absorb costs. He is pragmatic, noticing the locket\u2019s absence and prompting the narrator to ask Queenie about it. He holds the key to the Hightower Library\u2019s other lock.",
+    "source_quote": "Daz, why don't you ask the cat anyway? It's gonna be a weird description from a cat, but\u2026",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi was an on-again, off-again lover of Sylvira Savikas, carried a locket at all times, and held one of the two keys to the Hightower Library. He was killed after being awakened from a nap by Sylvira\u2019s force light attack. His body was found with the locket missing.",
+    "source_quote": "She had settled into Janussi's armchair for a nap, she said, 'only to be rudely awakened some thirty minutes later by our Sylvira Savikas, this is in the morning, blasting the armchamber with a lance of unerring force light.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sylvira Savikas",
+    "fact": "Sylvira Savikas is a tiefling with a volatile relationship to Janussi. She attacked him with force light during a lover\u2019s quarrel. A figure wearing her shape but not her scent was seen later \u2014 suggesting she was impersonated or replaced by a shapeshifter.",
+    "source_quote": "But she didn't smell like the demon lady, though.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daral",
+    "fact": "Daral is associated with a book \u2014 'The Golden Ass' \u2014 that he carried away from the scene. This book, not a device, induces stillness and uninterest. He shouted excessively, prompting Queenie to retreat. He left the scene while the victim was still alive.",
+    "source_quote": "when I later saw him run downstairs with a hypnotic block.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan",
+    "fact": "Kalan is the gate warden and holds the second key to the Hightower Library. His possession of the key makes him a potential suspect or player in the theft of the book and the deletion of its contents.",
+    "source_quote": "The other key, I learned, rested with Kalan, the gate warden.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Fheminor",
+    "fact": "Fheminor is referred to by Queenie as 'the short-legged one.' He was among the first evening guests to arrive, noted for his gait. His relevance is observational, not causal.",
+    "source_quote": "first Fheminor, *the short-legged one*,",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Fembris",
+    "fact": "Fembris supplies the missing piece: Janussi held one of the two keys to the Hightower Library. His contribution enables the narrator to connect the book\u2019s deletion to unauthorized access.",
+    "source_quote": "Janussi held one of the two keys to the Hightower Library.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Clerics of Bahamut",
+    "fact": "The clerics of Bahamut operate on tighter margins than their theatrics suggest \u2014 a remark made by Queenie\u2019s observer to explain Grygum\u2019s inability to afford a potion. This reflects a cultural observation about their order\u2019s austerity.",
+    "source_quote": "clerics of Bahamut, it turns out, run on a tighter margin than their theatrics suggest.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Stonespeaker Crystal Users",
+    "fact": "Users of the Stonespeaker crystal have the ability to communicate with beasts. The narrator is one such user, and the crystal \u2014 once a curiosity \u2014 is now a witness to events and a tool of investigation.",
+    "source_quote": "the stone speaker crystal grants me.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "attack on Janussi",
+    "fact": "Janussi was violently awakened from his afternoon nap by Sylvira Savikas, who blasted the armchamber with a lance of unerring force light. This occurred approximately thirty minutes before his death and initiated the chain of events leading to his murder.",
+    "source_quote": "She had settled into Janussi's armchair for a nap, she said, 'only to be rudely awakened some thirty minutes later by our Sylvira Savikas, this is in the morning, blasting the armchamber with a lance of unerring force light.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "theft of 'The Golden Ass'",
+    "fact": "The book 'The Golden Ass' was removed from the scene by Daral. It is not a magical device but a mundane object capable of inducing stillness and disinterest \u2014 effectively a 'hypnotic block.' Its removal coincides with the deletion of content from a restricted book in the Hightower Library.",
+    "source_quote": "The Golden Ass, the missing volume, walking out of the room under Daral's arm.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "shapeshifter impersonation",
+    "fact": "A figure wearing Sylvira Savikas\u2019s shape but lacking her scent was seen descending the steps after her attack. This indicates a shapeshifter was active, impersonating her to mislead observers and conceal true intentions.",
+    "source_quote": "But she didn't smell like the demon lady, though.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "deletion from Hightower Library book",
+    "fact": "Content was deleted from a book in the Hightower Library that no one should have accessed. This was made possible by unauthorized entry using Janussi\u2019s key, likely by the shapeshifter or Daral, who then used 'The Golden Ass' to induce stillness during the act.",
+    "source_quote": "Someone snuck in. That might explain why that stuff got deleted off that book that no one should have touched.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "The Golden Ass",
+    "fact": "A physical book, dull and unremarkable, capable of rendering a person motionless and uninterested \u2014 referred to by Queenie as a 'hypnotic block.' It was carried away by Daral and is linked to the deletion of content from the restricted Hightower Library book.",
+    "source_quote": "Every time they open that block,\" Queenie said, \"they just sit there and don't tickle!",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Stonespeaker Crystal",
+    "fact": "A magical artifact that enables communication with beasts. The narrator carries it as a curiosity that has become a critical investigative tool. It is the reason the narrator can speak with Queenie.",
+    "source_quote": "the stone speaker crystal grants me.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Locket",
+    "fact": "A personal item carried by Janussi at all times, never removed. Its absence after his death suggests it was taken by the killer \u2014 possibly as a token or to conceal identity. Queenie cannot describe its appearance, only its habitual presence.",
+    "source_quote": "The locket itself is intimate. He carried it all the time. He never took it off.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Hightower Library Keys",
+    "fact": "Two keys exist: one held by Janussi, the other by Kalan, the gate warden. Access to the library\u2019s restricted materials requires both. Janussi\u2019s key was used to access the book that was later deleted, suggesting internal betrayal.",
+    "source_quote": "Janussi held one of the two keys to the Hightower Library. The other key, I learned, rested with Kalan, the gate warden.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Janussi's Armchair",
+    "fact": "The location where Janussi was napping when attacked. Queenie observed the entire event from this spot. It is the epicenter of the initial violence and the origin of the timeline.",
+    "source_quote": "She had settled into Janussi's armchair for a nap...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Hightower Library",
+    "fact": "A restricted repository where a book was altered or had content deleted. Access requires two keys \u2014 one held by Janussi, the other by Kalan. The theft of 'The Golden Ass' is linked to unauthorized access here.",
+    "source_quote": "Someone snuck in. That might explain why that stuff got deleted off that book that no one should have touched.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Corridor",
+    "fact": "The location where Queenie retreated after Daral began shouting. She later observed him running downstairs with the book \u2014 'hypnotic block' \u2014 from this vantage point.",
+    "source_quote": "she retreated to the corridor \u2014 'when I later saw him run downstairs with a hypnotic block.'",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the shapeshifter\u2019s identity",
+    "fact": "A figure wearing Sylvira Savikas\u2019s form but lacking her scent is active. The true identity of this shapeshifter remains unknown. The candle mentioned by Zalthir may be a clue to their method or origin.",
+    "source_quote": "That explains the candle.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the candle\u2019s significance",
+    "fact": "Zalthir connects the candle to the shapeshifter, suggesting it may be a magical tool, a focus, or a decoy. Its exact role in the deception is unconfirmed, but its mention by Zalthir implies it was present during the impersonation.",
+    "source_quote": "That explains the candle.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the locket\u2019s destination",
+    "fact": "The locket taken from Janussi\u2019s neck has not been recovered. Its contents or symbolic meaning are unknown. It may hold evidence, a key, or a magical component tied to the killer\u2019s motive.",
+    "source_quote": "I don't know what it was.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the deletion\u2019s purpose",
+    "fact": "Why was content deleted from the Hightower Library book? Was it to erase evidence of the keys\u2019 use, the shapeshifter\u2019s identity, or the book\u2019s true nature? The connection to 'The Golden Ass' suggests the deletion was enabled by the book\u2019s stillness-inducing property.",
+    "source_quote": "That might explain why that stuff got deleted off that book that no one should have touched.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "afternoon nap",
+    "fact": "Janussi was awakened from his afternoon nap approximately thirty minutes before his death. This establishes the critical timeline for the attack.",
+    "source_quote": "some thirty minutes later by our Sylvira Savikas, this is in the morning",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "evening arrival",
+    "fact": "Queenie observed guests arriving in order after supper \u2014 Fheminor first, Daral later \u2014 placing the events in the evening, shortly before the discovery of the body.",
+    "source_quote": "She woke from her afternoon nap around eight, after supper, and watched the evening's guests arrive in order \u2014 first Fheminor... and later Daral...",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "the torn demon lady",
+    "fact": "A figure resembling Sylvira Savikas \u2014 referred to by Queenie as 'the torn demon lady' \u2014 was seen descending the steps. But she did not smell like Sylvira, indicating a shapeshifter impersonation. The term 'torn' may refer to a physical or magical distortion.",
+    "source_quote": "coming down the steps \u2014 Sylvira's shape \u2014 'But she didn't smell like the demon lady, though.'",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the two-leggers\u2019 hygiene",
+    "fact": "Queenie\u2019s final assessment \u2014 that two-leggers rarely lick themselves \u2014 is an insult that doubles as a narrative clue. It may imply the killer is not human, or that hygiene is a marker of identity in this world.",
+    "source_quote": "It's clear that you hardly ever lick yourselves at all. I've met cleaner dogs in my time.",
+    "quote_verified": true
+  }
+]

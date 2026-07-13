@@ -1,0 +1,163 @@
+[
+  {
+    "type": "npc",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum is a prisoner who does not speak Undercommon but relies on others to translate; he is assigned to cook with Shuushar, Topsy, and Turvy under Imbros's command; he attempts to steal a knife and is warned of severe consequences by Guldor and Shuushar; he is aware that Shuushar omits many details in translation.",
+    "source_quote": "I don\u2019t speak Undercommon, but he used many more words.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Shuushar",
+    "fact": "Shuushar is an Awakened Kuo-Toan who communicates through gestures and partial translation; he claims to have chosen spiritual balance by avoiding offensive language but translates every insult; he smiles in a way that may be a smile; he is assigned to cook with Gyrgum and the others under Imbros; he mediates between prisoners and Drow, and attempts to orchestrate distractions for food theft.",
+    "source_quote": "I have chosen not to repeat offensive words.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a prisoner who notices environmental details such as spider webs, water pools, and a paper with names of debtors; he pockets the paper after noticing it in the basket; he observes Elspeth taking a comb and realizes he has little use for it; he is assigned to clean and unload cargo with Balok's group; he is aware of the lethal drop from the outpost and the danger of the winch system.",
+    "source_quote": "It\u2019s unclear where, which city, what favor, and why.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Balok",
+    "fact": "Balok is a Drow overseer who manages the winch-and-basket cargo system; he commands prisoners to clean and unload cargo, warns them of consequences for theft, and laughs as the basket is dropped; he is the one who pulls the stopper to launch the basket across the chasm.",
+    "source_quote": "You will clean and unload. If you steal anything, then there will be consequences.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Guldor",
+    "fact": "Guldor is a prisoner assigned to clean chamber pots; he is present at the mess hall and sits with Jaezred and Kalannar; he notices Gyrgum attempting to steal a knife and takes it, delivering a clear threat; he is familiar with the consequences of theft and enforces discipline among prisoners.",
+    "source_quote": "They will do awful things to you if you steal a knife.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is a prisoner who constantly tries to make bets about the dangers of the outpost; he speculates on who will die first when falling, how many buckets will be filled, and how many times the basket will be dropped; he is assigned to the winch crew with Zalthir and others; he mutters darkly about the risks and engages others in morbid wagers.",
+    "source_quote": "Wanna bet on who would die first when we splat on the ground?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ront",
+    "fact": "Ront is a deluded Quaggoth referred to as 'the Prince'; he is seen filling buckets of water alongside Thorin; he is under the command of a Drow and participates in daily labor; his delusion is acknowledged by the prisoners.",
+    "source_quote": "Ront and Prince Derendil, the deluded Quaggoth, are to follow this Drow.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a Quaggoth referred to alongside Ront as 'the Prince'; he is seen filling buckets of water; he is under Drow command and participates in labor; his identity as a deluded figure is noted by the prisoners.",
+    "source_quote": "As the four prisoners enter the basket, Balok pulls a stopper, and the basket flies over the chasm. The two quahogs let it drop. ... Jimjar turns to anyone, 'Wanna get some action on how many buckets will be filled?'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Elspeth",
+    "fact": "Elspeth is a prisoner who notices Zalthir pocketing a paper with names of debtors; she subsequently finds and pockets a comb; she is assigned to the cargo crew with Zalthir, Buppido, and Jimjar; her actions suggest she is observant and opportunistic.",
+    "source_quote": "He notices that Elspeth sees him pocket the paper. He notices that she finds a comb. She pockets the comb.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Imbros",
+    "fact": "Imbros is a Drow overseer who commands Gyrgum, Shuushar, Topsy, and Turvy to cook; his authority is recognized by the prisoners; he is referenced but not directly seen in the scene.",
+    "source_quote": "Excellent, Imbros wants us to cook.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Beremil",
+    "fact": "Beremil is a Drow who commands the water-carrying group including Ront and Derendil; she is referenced as the one who assigned the labor; her authority is acknowledged by the prisoners.",
+    "source_quote": "The Drow who took them is Beremil.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Drow Outpost",
+    "fact": "The Drow Outpost is a floating facility 100\u2019 in the sky, accessible only by winch and basket systems; it includes a mess hall with zurkhwood tables, a food storage area, and a cave used for gathering; it is staffed by Drow overseers, Quaggoth and Kuo-Toan prisoners, and maintains strict control over labor and punishment.",
+    "source_quote": "The Drow outpost was 100\u2019 in the sky. A direct drop would be suicidal.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Mess Hall",
+    "fact": "The Mess Hall is a cave serving as the dining and gathering space for Drow warriors; it contains four circular zurkhwood tables with five chairs each; it has a food preparation and storage area with dried fungi, fruits, cheeses, preserved meat, and clay jars of spices; it is lit by a heavy iron brazier and often serves cold food.",
+    "source_quote": "The cave serves as a gathering and eating place for the drow warriors of the outpost.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Winch-and-Basket System",
+    "fact": "The winch-and-basket system is a mechanical cargo lift suspended in the air; it consists of a giant swinging arm, a thin cord of strong spider silk, multiple pulleys, and a hand-cranked horizontal spool; it carries a heavy woven basket used to transport goods and prisoners across a chasm; it is operated by Balok and controlled by stoppers and signals from below.",
+    "source_quote": "Attached to the edge of the barracks platform is a winch-and-basket device consisting of a giant swinging arm that carries a thin cord of strong spider silk.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Paper with Names of Debtors",
+    "fact": "A piece of paper found in the basket lists names of individuals who owe favors to its holder; the location, nature of the favors, and reason for the list are unknown; Zalthir pockets it despite not understanding its full context.",
+    "source_quote": "A piece of paper with some names of people who owe a favor to the person who has the paper.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Comb",
+    "fact": "A comb is found and pocketed by Elspeth after Zalthir takes the paper; it has no apparent utility to the prisoners; its origin and purpose are unclear.",
+    "source_quote": "She pockets the comb. He has little use for combs.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Knife",
+    "fact": "A knife is present in the kitchen area; Gyrgum attempts to steal it to sharpen it; Guldor takes it and delivers a clear threat of punishment; it is a tool of utility and potential rebellion.",
+    "source_quote": "They will do awful things to you if you steal a knife.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Quaggoth",
+    "fact": "Quaggoths, including Ront and Derendil, are prisoners under Drow command; they are referred to as 'the Prince' and are deluded; they are assigned to labor such as filling water buckets; they are physically present and observed by other prisoners.",
+    "source_quote": "Ront and Prince Derendil, the deluded Quaggoth, are to follow this Drow.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Kuo-Toan",
+    "fact": "Kuo-Toans, including Shuushar, are prisoners assigned to cooking and communication roles; they are described as Awakened and use gestures and partial translation; they are physically present and interact with Drow and other prisoners.",
+    "source_quote": "The Kuo-Toan Shuushar the Awakened notices and tells him to relax.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Paper of Debtors",
+    "fact": "The paper with names of debtors is an unresolved plot thread; its origin, the identity of the holder, the nature of the favors owed, and the location of the debts are unknown; Zalthir has pocketed it, suggesting future relevance.",
+    "source_quote": "It\u2019s unclear where, which city, what favor, and why.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Spiritual Balance of Shuushar",
+    "fact": "Shuushar's claim of spiritual balance through avoiding offensive language is a recurring thread; his selective translation and moral posturing suggest deeper psychological conflict and potential betrayal or manipulation.",
+    "source_quote": "As part of my attempt to find spiritual balance and cope with the madness of my race, I have chosen not to repeat offensive words.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Basket Drop Ritual",
+    "fact": "The ritualistic dropping of the basket by the Quahogs, accompanied by laughter from Balok and expected reactions from prisoners, suggests a pattern of psychological torture or control; its frequency and purpose are unexplained.",
+    "source_quote": "The two quahogs let it drop. The other prisoners are startled but seem to have been expecting this. Balok is laughing.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "1492, Taraskh, 2nd tenday, 3rd day",
+    "fact": "The events occur on the third day of the second tenday of Taraskh in the year 1492; this is the canonical temporal anchor for the prison narrative.",
+    "source_quote": "3rd day of the 2nd tenday of Taraskh, 1492",
+    "quote_verified": true
+  }
+]

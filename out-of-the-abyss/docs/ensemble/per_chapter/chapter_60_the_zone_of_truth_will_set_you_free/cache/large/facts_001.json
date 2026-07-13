@@ -1,0 +1,156 @@
+[
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a methodical investigator who values empirical convergence over magical shortcuts, carries deep institutional memory from the Underdark, and privately recognizes emotional authenticity in others \u2014 especially in Glabbagool \u2014 despite his own stoicism.",
+    "source_quote": "I have carried this cube from the Underdark through several extremely dangerous situations, and his feelings about cheese are among the most consistent things about him.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a meticulous puzzle-solver who specializes in forensic contradictions, particularly those involving physical impossibilities and misattributed evidence, and refuses to accept magical explanations that bypass logical constraints.",
+    "source_quote": "You can't steal a locket off someone who's alive and holding it. You need the sapphire to find a locket that's already lost.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a patient, observant strategist who notices temporal and magical inconsistencies others overlook, and understands that magic often creates contradictions rather than resolving them.",
+    "source_quote": "The Sylvira lookalike had been seen in the kitchens around one in the morning. She'd been seen coming down the stairs between two and three. That's a minimum two-hour gap. A polymorph spell lasts an hour.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a gelatinous cube with profound, unperformed emotional depth \u2014 particularly regarding food, especially cheese \u2014 and possesses an unerring, literal capability to consume nearly any solid material, including walls and safes, which he states with calm, unshakable authority.",
+    "source_quote": "Walls don't stop us. I can eat through walls. ... I remember when there was cheese. Perhaps if we had some cheese.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Fembris Lancer",
+    "fact": "Fembris Lancer is an ambitious academic who seeks institutional validation through co-authored monographs, misreads the nature of scholarly contribution, and is visibly disoriented when his intellectual labor is handed to non-human entities.",
+    "source_quote": "He suggested a duograph. I allowed that this was possible: a dual log, perhaps, something in that register.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Elian",
+    "fact": "Elian is a Candlekeep scholar who champions epistemological rigor in criminal investigation, rejects the myth of the dead as transparent narrators, and seeks academic prestige through association with figures of stature \u2014 even if it means misrepresenting the nature of authorship.",
+    "source_quote": "Too many people, if you ask me, think: cast a spell, find the murderer. It doesn't work that way.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep operates as an academic ecosystem where scholarly credit is currency, monographs are status symbols, and intellectual contributions are measured by attribution rather than truth, creating a culture that incentivizes collaboration for prestige over clarity for discovery.",
+    "source_quote": "Two men after a monograph in one afternoon. That told me something about how this library keeps score.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "apothecary intrusion",
+    "fact": "At half past two on the day of the murder, A'lai arrived at the Oak Tree Apothecary requesting fennel, creating a distraction while a dragonborn entered and collected poison \u2014 a separate act from the later theft of the heart and looting of the safe.",
+    "source_quote": "Alkrist was a dragonborn. Zalthir had caught that this referred to the apothecary intrusion, not whoever had later removed the heart and looted the safe: two separate acts, two separate threads.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "safe unopened",
+    "fact": "Alkrist's safe remains unopened despite multiple opportunities for access, with Glabbagool revealing \u2014 after the fact \u2014 that he could have consumed it, but the team chose stealth over brute force.",
+    "source_quote": "I guess I could have eaten through the safe. It would have taken a while.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Sylvira lookalike",
+    "fact": "A figure resembling Sylvira was observed in the kitchens at 1 AM and on the stairs between 2\u20133 AM, creating a temporal contradiction that cannot be explained by a standard polymorph spell, suggesting either repeated casting, a more potent illusion, or an entirely unknown magical phenomenon.",
+    "source_quote": "A polymorph spell lasts an hour. Something more is going on here.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "poisoned book",
+    "fact": "The poisoned book was used as a frame against a colleague, designed to appear as an elaborate act of sabotage, but its complexity was precisely why it succeeded \u2014 it exploited the assumption that only a skilled conspirator would devise such a convoluted trap.",
+    "source_quote": "Poisoned book, frames a colleague, and disappears the evidence. Too elaborate. Which is exactly why it worked.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "sapphire and locket",
+    "fact": "The sapphire and locket are mutually exclusive in their utility \u2014 one finds a lost locket, the other is only removable from a living person \u2014 suggesting two distinct perpetrators or a single perpetrator who misunderstood the nature of the evidence.",
+    "source_quote": "You can't steal a locket off someone who's alive and holding it. You need the sapphire to find a locket that's already lost.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Oak Tree Apothecary",
+    "fact": "The Oak Tree Apothecary is the site of the initial crime \u2014 a distraction-based poisoning \u2014 and remains a critical location for understanding the timeline and the perpetrator's method of misdirection.",
+    "source_quote": "A'lai had shown up at the Oak Tree Apothecary at half past two on the day of the murder, asking Leuwin for fresh fennel.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "myth of the person",
+    "fact": "The myth of the person is the false assumption that death strips away deception, bias, and self-interest \u2014 but the dead retain their motivations, memories, and distortions, making magical interrogation unreliable without corroborating evidence.",
+    "source_quote": "The assumption that death is a transparency, that the dead have shed their performances and will now simply tell you what's true. They don't. They're still themselves.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "unidentified magical phenomenon",
+    "fact": "The temporal discrepancy surrounding the Sylvira lookalike suggests the use of a magical effect beyond polymorph \u2014 possibly repeated casting, a permanent illusion, or an unknown spell \u2014 and remains unresolved.",
+    "source_quote": "Something more is going on here.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "monograph pursuit",
+    "fact": "Multiple scholars (Fembris, Elian) are attempting to co-opt the investigation for academic credit through monographs, revealing a systemic prioritization of publication over truth \u2014 and creating tension between scholarly ambition and investigative integrity.",
+    "source_quote": "Two men after a monograph in one afternoon.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "day of the murder",
+    "fact": "The murder occurred on a single, well-documented day, with precise witness timings (1 AM, 2\u20133 AM, 2:30 PM) allowing for a clean, if complex, timeline \u2014 though magical interference complicates its interpretation.",
+    "source_quote": "A'lai had shown up at the Oak Tree Apothecary at half past two on the day of the murder.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Alkrist's chambers",
+    "fact": "Alkrist's chambers contain the unopened safe and a narrow crack that Glabbagool evaluated for passage \u2014 a location that became unexpectedly relevant when his latent capability to consume solid matter was recalled.",
+    "source_quote": "Zalthir had been in Alkrist's chambers. He'd asked Glabbagool whether Glabbagool could squeeze through the crack.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Glabbagool's attention",
+    "fact": "Glabbagool's focused, acidic evaluation \u2014 reserved for objects he assesses for nutritional content \u2014 is the only consistent, non-deceptive form of scrutiny in the investigation, functioning as an implicit standard of truth.",
+    "source_quote": "Glabbagool examined them with professional detachment: the focused, slightly acidic attention he gives to anything he's evaluating for nutritional content.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "continuity of the party's past",
+    "fact": "The group recognizes a pattern in themselves \u2014 a member who, once healed or restored, vanished and became unreachable \u2014 suggesting a recurring behavioral flaw that may mirror the current suspect's actions.",
+    "source_quote": "Didn't we have somebody like that with our party anyhow? Did we already send him away? ... Oh, that's the same guy.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum's revelation of the principle",
+    "fact": "Grygum claims authorship of the principle 'Once you have eliminated the impossible, whatever remains, however unlikely, must be the truth' \u2014 though it is not his original \u2014 and this act of intellectual ownership becomes a symbolic anchor for the team\u2019s methodology.",
+    "source_quote": "I made it up myself.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool\u2019s emotional authenticity \u2014 particularly his grief over lost cheese \u2014 is more reliable than any testimony or magical detection, and his physical capabilities are absolute: walls, safes, and doors are merely temporary barriers to his nature.",
+    "source_quote": "I remember when there was cheese. Perhaps if we had some cheese.",
+    "quote_verified": true
+  }
+]

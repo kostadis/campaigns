@@ -1,0 +1,93 @@
+[
+  {
+    "type": "npc",
+    "subject": "Asha Vandree",
+    "fact": "Asha Vandree is a cleric of Lolth who declared herself in charge after surviving chaos, and was subdued by a grapple before being silenced by lethal strikes. Even restrained, she was observed composing a prayer.",
+    "source_quote": "I am blessed by Lolth!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin attempted to subdue Asha Vandree with a grapple, clamping his hand over her mouth to prevent spellcasting. His method was ineffective as a long-term solution, and he later claimed he could have killed her if he'd wanted to.",
+    "source_quote": "I could have taken her out if I wanted to.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Nym",
+    "fact": "Nym criticized Thorin's grapple as inadequate against a Lolth cleric, asserting that the only proper response is to cut off the cleric's head. She made 'grapple' sound like a mild obscenity and questioned Thorin's competence.",
+    "source_quote": "When attacking a cleric of Lolth, one does not just simply grapple them. One takes your blade and cuts their heads off.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum attempted to incapacitate Asha with a burst of divine light, which missed. He later expressed reluctance to kill and sought alternatives, maintaining a moral stance against unnecessary violence.",
+    "source_quote": "I don't like killing people if I don't have to.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz remained expressionless while calculating rapidly, observing the confrontation without intervention. His neutrality and deliberation marked him as a silent strategist.",
+    "source_quote": "(no direct quote \u2014 his silence was his statement)",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Kaelira",
+    "fact": "Kaelira clapped slowly and deliberately after Asha's death, applauding the lethal action as a demonstration of capability. Her praise carried an undertone of critique and implied disbelief in the group's prior hesitation.",
+    "source_quote": "Well done, well done, well done! See, he wasn't completely defenseless.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Asha Vandree (as Lolth cleric)",
+    "fact": "Asha Vandree, as a cleric of Lolth, could cast divine spells, command, and curse even when restrained. A grapple does not prevent prayer \u2014 only death does. Her mouth being covered was insufficient to neutralize her threat.",
+    "source_quote": "A Lolth cleric with her mouth uncovered is a Lolth cleric who can pray, command, curse \u2014 and a grapple, however competent, doesn't hold forever.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Narrator",
+    "fact": "The narrator, bearing an Eldritch Claw Tattoo, acted decisively when others hesitated. They moved unseen, delivered precise lethal strikes, and silenced Asha before she could speak again. They acknowledged their action as irreversible and refused to look at the body.",
+    "source_quote": "I made it. That's all. I didn't look at the body.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "silencing of Asha Vandree",
+    "fact": "Asha Vandree was rendered permanently silent by a swift, precise lethal strike from the narrator's Eldritch Claw Tattoo. The silence that followed was the kind that follows a decision you can't walk back.",
+    "source_quote": "Asha Vandree did not get another word out.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "moral uncertainty in decisive action",
+    "fact": "The group grappled with the ethics of necessary violence: Thorin's reluctance, Grygum's alternatives, Daz's neutrality, Nym's pragmatism, and Kaelira's cold approval. The narrator's action resolved the tension \u2014 not by consensus, but by finality.",
+    "source_quote": "All of it was reasonable. All of it was true. I just happened to also be true.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "the room where Asha was subdued",
+    "fact": "The room was charged with tension, observation, and unspoken calculations. It was a space where decisions were made not by words but by movement \u2014 grapples, strikes, silence, and applause.",
+    "source_quote": "I was watching Asha. I've read rooms like this before.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Eldritch Claw Tattoo",
+    "fact": "The Eldritch Claw Tattoo does not announce itself. It allows its bearer to move with supernatural precision, delivering strikes that are faster and more accurate than trained combat drills. It was used to silence Asha Vandree permanently.",
+    "source_quote": "One moment I was behind her, the next my hands were something else \u2014 longer, reaching \u2014 and the strikes came in sequence...",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Lolth's clergy",
+    "fact": "Clerics of Lolth are feared for their ability to curse, command, and pray even under physical restraint. Their survival depends on vocal invocation \u2014 meaning silence is the only true neutralization.",
+    "source_quote": "A Lolth cleric with her mouth uncovered is a Lolth cleric who can pray, command, curse \u2014 and a grapple, however competent, doesn't hold forever.",
+    "quote_verified": true
+  }
+]

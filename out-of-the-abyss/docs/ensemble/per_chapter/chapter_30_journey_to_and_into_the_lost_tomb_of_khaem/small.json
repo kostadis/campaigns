@@ -1,0 +1,394 @@
+[
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a former Drow of Menzoberranzan, trapped by ritual and noble house machinations, now seeking to escape a worldview and explore the Underdark. He has joined a group of wanderers and is actively collecting Faerzress crystals as tools of discovery.",
+    "source_quote": "I never saw the Underdark for what it is, a place to explore and learn. And now I know this journey not as an escape to another place, but instead as an escape from a previous worldview.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth has been hiding the group's tracks for two days in the Underdark, moving through dark passages while avoiding detection. She is cautious about environmental changes that might reveal their path to the Drow.",
+    "source_quote": "For two days, Eldeth has been hiding our tracks for two days, where all we could see when we could see was the dark passages.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith claims to know the group's destination in the Underdark and is guiding them through passageways toward areas of Faerzress activity. His confidence contrasts with others' uncertainty.",
+    "source_quote": "Sarith insisted he knew where we were going.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Fuurm Coppernose",
+    "fact": "Fuurm Coppernose, or 'Copper', is a former farmer from the surface who entered the Underdark searching for his lost sister. He is starving, dressed in rags, and now carries a crystal as a weapon. He has no combat or magical skills, only survival instinct.",
+    "source_quote": "His name is Fuurm Coppernose, or Copper to his friends, who had lost his sister and went looking for her in the Underdark.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Baedora",
+    "fact": "Baedora is a starving woman in rags who escaped the Drow and demons in the Underdark. She believes staying away from both Drow and demons increases survival odds. She is now joining the group as a fellow escapee.",
+    "source_quote": "That it was demons that attacked. The Drow fought back. We ran. Figured we were more likely to stay alive away from Drow and Demons.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is curiously unobservant, failing to notice key details about newcomers or environmental shifts. He scoughs when confronted with evidence of escapees, suggesting detachment or denial.",
+    "source_quote": "I concur, but Zalthir, who is curiously unobservant, scoughs.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Stool",
+    "fact": "Stool is a myconid who has bonded with Thorin, riding on his back and relishing the experience. He is content and contributes to a moment of rare peace in the group\u2019s journey.",
+    "source_quote": "Stool, my new myconid friend, was curled up contentedly against Thorin's back, probably still reliving his 'good idea' to ride on the dwarf.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is a member of the group who initiates a bet about the utility of Faerzress crystals, showing a pragmatic, gambling nature uncommon among the others.",
+    "source_quote": "Jimjar shouts, 'Want to make a bet?' ... 'Yes, I do.'",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Drow of Menzoberranzan",
+    "fact": "The Drow of Menzoberranzan are a rigid, ritual-bound society dominated by noble houses and the Cult of Lolth, from which Daz and others have fled. They are hunters in the Underdark, tracking escapees and altering environments to reassert control.",
+    "source_quote": "Trapped in the formalities of ritual and expectations, trying to avoid the predations of the Cult of Lolth and the machinations of the Noble Houses.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Cult of Lolth",
+    "fact": "The Cult of Lolth is a powerful, predatory religious order among the Drow, exerting control through fear and ritual violence. It is one of the forces Daz escaped.",
+    "source_quote": "trying to avoid the predations of the Cult of Lolth",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Shriekers",
+    "fact": "Shriekers are subterranean creatures whose piercing, collective screams serve as alarms for larger predators. Their noise is not magically affected by the group\u2019s Faerzress crystals, indicating they are biological, not arcane, hazards.",
+    "source_quote": "A sudden, piercing shriek that ripped through the heavy air... Shriekers. The kind of noise that sends a jolt of adrenaline... screaming 'danger!' and 'dinner is served!'",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Demons",
+    "fact": "Demons have attacked in the Underdark, engaging in combat with Drow forces. Their presence creates zones of extreme danger, forcing survivors like Baedora and Fuurm to flee.",
+    "source_quote": "That it was demons that attacked. The Drow fought back.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Faerzress Crystal Cave",
+    "fact": "A cavern filled with glowing quartz crystals that emit a dim, ten-foot radiance due to the Faerzress arcane energy. The group collected crystals here, then smashed the cavern to disguise their escape as a monster attack.",
+    "source_quote": "An area suffused with the arcane glowing magic of the Faerzress. Fist-sized chunks of quartz crystals erupted from the wall... We smashed the cavern and the crystals, as if some monster had attacked.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Fungal Forest",
+    "fact": "A vast subterranean forest of towering fungi with bioluminescent caps and earthy brown stalks. The air is heavy with a sweet, damp loam scent. It is a natural habitat that emits no harmful spores but is infested with shriekers that act as alarm systems.",
+    "source_quote": "The air grew heavy with the subtle, earthy scent of the damp loam and something indescribably sweeter... a veritable forest of the subterranean. Mushrooms of all kinds... glowing faintly with a soft, bioluminescent light.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Faerzress Crystals",
+    "fact": "Glowing quartz crystals formed by the Faerzress arcane energy, emitting a dim radiance. The group collects them for exploration, uses them as tools, and later destroys them to conceal their trail. Their magical properties do not affect shriekers or fungi.",
+    "source_quote": "Fist-sized chunks of quartz crystals erupted from the wall, shedding a dim ten-foot radiance... We have collected so many strays that one more won\u2019t harm us. And so I invite them to join our group. Before we leave the cave, we take as many crystals as we can.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Smashing the Crystal Cavern",
+    "fact": "The group destroyed the Faerzress crystal cavern after collecting crystals, smashing the walls and crystals to simulate a monster attack and obscure their escape route from Drow trackers.",
+    "source_quote": "To hide our tracks, we smash the cavern and the crystals, as if some monster had attacked, not escaped slaves who took crystals that shone in the darkness.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Crystal Test Against Shriekers",
+    "fact": "The group threw a Faerzress crystal at a shrieker, expecting a magical reaction, but the shrieking continued unaltered, revealing the creature\u2019s biological nature and the crystals\u2019 lack of offensive power.",
+    "source_quote": "The crystal sailed through the air... and clattered against a broad fungal cap. And the shrieking... didn't change. It was a bit of an anticlimax, really. Just shrieking.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Recruiting Escapees",
+    "fact": "After encountering Fuurm and Baedora, the group decided to accept them as members, recognizing their survival and the group\u2019s growing size as a sign of resilience rather than burden.",
+    "source_quote": "We have collected so many strays that one more won\u2019t harm us. And so I invite them to join our group.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Fuurm\u2019s Missing Sister",
+    "fact": "Fuurm Coppernose entered the Underdark searching for his sister, whose fate remains unknown. Her disappearance is the driving motivation behind his survival and current presence in the group.",
+    "source_quote": "who had lost his sister and went looking for her in the Underdark.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Drow Tracking",
+    "fact": "The group fears that each environmental alteration \u2014 collecting or destroying crystals \u2014 makes them easier to track by the Drow. Eldeth is increasingly anxious, but others dismiss her concerns.",
+    "source_quote": "Eldeth is worried; she\u2019s reasonably convinced we have thrown the Drow off our tracks, but every time we mess with the environment, we make it easier for them.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Jimjar\u2019s Crystal Bet",
+    "fact": "Jimjar has made a bet with Grygum that the collected Faerzress crystals will prove useful \u2014 a wager whose outcome remains unresolved and may shape future decisions.",
+    "source_quote": "Jimjar shouts, 'Want to make a bet?' ... 'Yes, I do.'",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "2nd day of the 2nd tenday of Myrkhul, 1495",
+    "fact": "The day the group entered the fungal forest, encountered shriekers, and tested the Faerzress crystals against them. A day of revelation and anticlimax.",
+    "source_quote": "2nd day of the 2nd tenday of Myrkhul, 1495",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "3rd day of the 2nd tenday of Myrkhul, 1495",
+    "fact": "The day the group discovered another crystal-rich cave and Jimjar initiated a bet about the crystals\u2019 utility.",
+    "source_quote": "3rd day of the 2nd tenday of Myrkhul",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "5th day of the 2nd tenday of Myrkhul, 1495",
+    "fact": "The day Zalthir\u2019s narrative begins, marking a shift in perspective and potentially the start of internal group tension.",
+    "source_quote": "5th day of the 2nd tenday of Myrkhul",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith confirms the direction of the trapped voice leads to The Lost Tomb of Khaem, aligning with the party\u2019s intended path.",
+    "source_quote": "Sarith nods yes, this is the way. Of course, it does.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum leads the descent with keen perception, notes recent damage but no fresh tracks in the dust, and recalls tales of floating undead that rest in tombs.",
+    "source_quote": "Grygum, with his keen perception, takes the lead... He notes recent damage but no tracks... recalls old tales of 'floating undead creatures that typically rest in tombs'.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz checks the altar and finds no arcane significance, and later enters the magical darkness to observe the emerging undead, unable to cast Magic Missile within it.",
+    "source_quote": "Daz checks an altar, finding nothing of arcane significance... Daz won't be able to cast Magic Missile within it.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin leverages the magical darkness to physically push aside the northeast sarcophagus, revealing a hidden hole leading to the true tomb.",
+    "source_quote": "Thorin, strong as an ox, leverages the darkness, pushing the heavy sarcophagus aside... revealing... a hole.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir casts a sphere of magical darkness over the sarcophagus area, disabling ranged spellcasting within it and enabling Thorin\u2019s physical maneuver.",
+    "source_quote": "Zalthir, ever the master of shadow, had just blanketed the area in his magical darkness.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Undead Wraith",
+    "fact": "A weightless, formless undead entity detaches from the shadows, gliding toward the party with a pained moan, emanating intense cold and rime.",
+    "source_quote": "I see a figure detach itself from the shadows and glide toward me\u2014weightless, formless, undead... A chill emanates from everywhere at once. Rime creeps across surfaces...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "The Lost Tomb of Khaem",
+    "fact": "An ancient, subterranean tomb beneath the Underdark, marked by Netherese iconography, hidden passages, and a trapped voice guiding intruders to its heart.",
+    "source_quote": "The Lost Tomb of Khaem... We arrive at a large double door... The stone is ancient, hinting at a lost era... revealing... a hole. The true tomb, perhaps.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Shrine of the Netherese Noble",
+    "fact": "A chamber within the tomb housing a stone diorama of Brysis of Khaem and a mural of floating cities, now cold and littered with dust-tattered tapestries.",
+    "source_quote": "A stone diorama stands to the right, depicting a Netherese noble, Brysis of Khaem... To the left, a sprawling mural covers the wall, illustrating fantastic floating cities... floor littered with shreds of dusty tapestries.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Netherese Calendar Stone",
+    "fact": "A relic found on a landing of the staircase, bearing markings of a bygone Netherese temporal system, its purpose now obscure.",
+    "source_quote": "I note a Netherese Calendar Stone, a relic of a time long gone, its purpose unclear.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Northeast Sarcophagus",
+    "fact": "A stone coffin resting on hidden rollers, concealing a passage to the true tomb, adorned with markings of robed human figures in repose.",
+    "source_quote": "The northeast sarcophagus rests on hidden stone rollers. A possible secret, a hidden passage. This is it.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Netheril Empire",
+    "fact": "An ancient civilization of immensely powerful magic users whose cities defied gravity, ultimately collapsing when a leader sought to seize all magical power and tore reality.",
+    "source_quote": "I know the lore of the Netheril Empire \u2013 a civilization of immensely powerful magic users, whose cities defied gravity, only to fall catastrophically when one of their leaders tried to seize all magical power, tearing the very fabric of reality.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Revelation of the True Tomb",
+    "fact": "The northeast sarcophagus is moved aside in magical darkness, revealing a hidden hole that leads to the true tomb, triggering the emergence of a wraith.",
+    "source_quote": "Thorin... pushing the heavy sarcophagus aside. The stone grinds, revealing... a hole. The true tomb, perhaps. We are finally here... A moan... rises with the wind, and I see a figure detach itself from the shadows...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Trapped Voice",
+    "fact": "A distant, feminine voice calling for help echoes in the minds of the party, leading them to the tomb\u2014its origin and nature remain unexplained.",
+    "source_quote": "A soft, feminine voice, distant yet clear, rings out in my mind, 'Hello? Is someone there? Oh, please, I need your help! I have been trapped in the dark for so long...'",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Fargas Rumblefoot\u2019s Secret Room Warning",
+    "fact": "A prior warning about a 'secret room' or 'false tomb' in this location suggests deception and layered treachery within the tomb\u2019s structure.",
+    "source_quote": "I remember Fargas Rumblefoot's warning about a 'secret room' or 'false tomb' here, adding another layer of treachery to this place.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Brysis of Khaem\u2019s Fate",
+    "fact": "The identity and fate of Brysis of Khaem, the Netherese noble depicted in the diorama, remain unknown\u2014her tomb suggests she may be the source of the undead presence.",
+    "source_quote": "A stone diorama... depicting a Netherese noble, Brysis of Khaem... I wonder what kind of sorceress Brysis was to be buried here.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Session Date",
+    "fact": "The events occur during a session of exploration in the Underdark, following a long descent and sustained vigilance.",
+    "source_quote": "We descend a dusty staircase... We arrive at a large double door... The stairs finally give way to a shrine...",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Spectre",
+    "fact": "Four Spectres coalesced from the gloom, incorporeal and menacing, each capable of draining life force with necrotic damage and resisting most physical attacks; they were destroyed by Magic Missile strikes from the caster and Zalthir's physical assaults.",
+    "source_quote": "A Spectre. My instincts... scream danger. Then, another, and another. My mind quickly registers the threat: four Spectres now hover, incorporeal and menacing.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Wraith",
+    "fact": "A Wraith emerged from the gilded sarcophagus, radiating ancient malice and declaring its intent to turn victims into Spectres; it resisted fire magic, was immune to physical strikes due to its ethereal nature, and retreated into its sarcophagus after failing to harm Thorin.",
+    "source_quote": "From the sarcophagus, a figure rises, ethereal and malicious. A Wraith. Its voice... fills our minds... 'Your deaths will free me from this prison, and how my victims will serve me even in death!'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum attempted to turn the undead with his holy symbol but failed, as the Spectres' wills were too strong or their existence too ancient; he later observed the Wraith's behavior with dry amusement and noted the hidden stone chest near the sarcophagus.",
+    "source_quote": "Grygum, in his devotion, tries to turn them, his holy symbol raised, but the Spectres resist, their wills too strong, or perhaps their existence too ancient to be swayed.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir used his sphere of darkness to engulf the chamber, then moved the sarcophagus lid, triggering the voice of the trapped entity; he physically destroyed two Spectres with blurring punches and declared 'I will punch the ghost!'",
+    "source_quote": "Zalthir, ever the whirlwind, moves his sphere of darkness, then his fists become blurs in the gloom, punching and pummeling. He kills one, then another. 'I will punch the ghost!' he declares.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin led the party through the confined passage and was targeted by the Wraith's attack, but his armor and divine protection from Bahamut caused the blow to miss, allowing him to remain unharmed.",
+    "source_quote": "We descend, Thorin taking the lead... The Wraith... attacks Thorin. But the dwarf's armor and the grace of Bahamut protect him; the attack misses.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz considered casting Fireball against the Wraith but recalled its fire resistance and instead opted for Magic Missile, recognizing the need for precise magical force over area damage.",
+    "source_quote": "Daz contemplates a Fireball, but then remembers that they are resistant to fire. 'Magic missiles it is,' and the bolts of power are precise and undeniable...",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Trapped Entity",
+    "fact": "A soft, feminine voice, identical to the one heard earlier in the tomb, emanated from within the gilded sarcophagus, claiming it could help \u2014 suggesting it is not the Wraith but a separate, possibly benevolent or imprisoned spirit tied to Brysis's tomb.",
+    "source_quote": "Just as the lid creaks aside, the soft, feminine voice from earlier... speaks again, 'In the sarcophagus! I can help you!'",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Invisible Stone Chest",
+    "fact": "An invisible stone chest was noted near the foot of the gilded sarcophagus, consistent with the pattern of hidden Netherese treasures and likely containing additional valuables or artifacts.",
+    "source_quote": "I notice the subtle shimmer of an invisible stone chest near its foot. Predictable. An actual tomb wouldn't be without its grand pronouncements and its hidden treasures.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Netherese Sarcophagi",
+    "fact": "Each sarcophagus contained mummified remains, tattered ancient burial garments, and treasure of Netherese origin \u2014 valuable as gold and potentially more so to collectors or scholars.",
+    "source_quote": "Each sarcophagus contains mummified remains, the tattered remnants of ancient burial garments, and treasure of Netherese origin. They are worth a great deal as gold, and perhaps even more to the right collector.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Chamber of Brysis",
+    "fact": "A tomb chamber adorned with murals of Brysis of Khaem and her lost cities, housing a gilded sarcophagus, an invisible stone chest, and the source of spectral and wraithish undead; the air was thick with ancient stillness and undeath.",
+    "source_quote": "The air grows heavier, thick with an ancient stillness. We enter a new chamber, and the faint light catches murals on the walls, depicting grand scenes, probably of the Netherese sorceress Brysis of Khaem and her lost cities.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Spectre Destruction",
+    "fact": "The four Spectres were destroyed by a combination of Magic Missile spells and Zalthir's physical attacks, ending their immediate threat but leaving behind the lingering danger of their potential return if Brysis's evil remains unbroken.",
+    "source_quote": "With the last Spectre vanquished by Zalthir's relentless strikes, a momentary quiet descends...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Wraith Retreat",
+    "fact": "The Wraith retreated into its sarcophagus after failing to harm Thorin, a tactical withdrawal that suggested cunning or a dependency on its resting place, raising questions about its true nature and vulnerability.",
+    "source_quote": "Then, in a move I find utterly infuriating, the Wraith hovers back into its sarcophagus. 'Coward,' I think...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "True Owner of the Voice",
+    "fact": "The feminine voice calling for help from within the sarcophagus is distinct from the Wraith \u2014 implying a trapped, possibly sentient entity tied to Brysis's legacy, whose identity and intentions remain unresolved.",
+    "source_quote": "In the sarcophagus! I can help you!' So, the trapped entity, the true owner of the voice, is inside this sarcophagus. Is it the Wraith or is it something else?",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Return of the Undead",
+    "fact": "The party recalls that undead like Spectres and Wraiths often return if the central evil force that created them \u2014 here, likely Brysis \u2014 remains unextinguished, meaning a long rest may invite their resurgence.",
+    "source_quote": "I remember that many such creatures will return after being destroyed when the central evil force that created them remains. If we rest, we will find them here when we come back.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Pursuit Beyond the Passageway",
+    "fact": "The party fears that even if they defeat the undead in the tomb, they may be pursued if they venture down the dark passageway, as the evil may extend beyond the tomb's boundaries.",
+    "source_quote": "And although they may just stay here, they may also pursue us. Before we go down the dark passageway, we open the sarcophagi.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session time",
+    "fact": "The events occur after a prolonged dungeon delve, with the party now at a critical juncture requiring rest, investigation, and decision-making before proceeding further into the Underdark.",
+    "source_quote": "I'm gonna need a long rest here pretty soon... 'Is this, would this be a good time for us to take a\u2026 Long rest. By chance?' I inquire, hopefully.",
+    "quote_verified": false
+  }
+]

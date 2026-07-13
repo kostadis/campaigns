@@ -1,0 +1,135 @@
+[
+  {
+    "type": "npc",
+    "subject": "Sprig",
+    "fact": "Sprig is the designated poison taster who volunteered to sample all twelve dishes served at the meal, despite the chefs insisting it was unnecessary. She later helped Sylvira Savikas find honey after Sylvira became hoarse and could not speak. Sprig is unaware that Janussi was poisoned.",
+    "source_quote": "She insisted. The chefs told her it wasn't necessary. She insisted.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sylvira Savikas",
+    "fact": "Sylvira Savikas, a tiefling, was seen searching the kitchens by candlelight at 1 a.m., pointing to her throat in silence when asked what she sought. Sprig assisted her in finding honey. Her inability to speak and use of a lantern contradict the assumption that she was merely ill \u2014 suggesting she was hiding something or being impersonated.",
+    "source_quote": "The tiefling just pointed at her throat, too hoarse to talk. Sprig helped her find a pot of honey and said goodnight.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Irony",
+    "fact": "Irony is a truth-bound individual who cannot lie but skillfully redirects inquiries. She steered the investigation toward Sprig and away from her own involvement with Teles Ahvoste. She has been the target of romantic advances from Teles, and may have deliberately avoided answering questions about him.",
+    "source_quote": "She steered us rather than speak false. Can't lie well is the honest version.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi was poisoned during the meal, but her death was not publicly known. As the poison taster, Sprig was meant to die first \u2014 making Janussi\u2019s death either a failure of the plan or evidence of deliberate misdirection. Her death is being treated as collateral damage, not the primary target.",
+    "source_quote": "If the only mark was Janussi, the taster's just collateral: she tastes the poisoned dish, she's dead at midnight too, and nobody ties the two deaths together.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Teles Ahvoste",
+    "fact": "Teles Ahvoste is one of the great readers who has been making romantic advances toward Irony. His behavior is noted by Orrin Glass and suspected as a motive for interference in the poisoning plot, possibly to remove Irony from the path of his pursuit.",
+    "source_quote": "Teles Ahvoste. One of the other great readers, making passes at Irony.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Orrin Glass",
+    "fact": "Orrin Glass is the third waiter, deaf in one ear, and unusually observant. He is the only one who noticed the dynamic between Irony and Teles Ahvoste. He is the key source for information about their interactions, despite his oddity.",
+    "source_quote": "I should go to Orrin, the man who notices everything, even if he hears nothing.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daral",
+    "fact": "Daral is a well-meaning but fearful administrator who reacts emotionally to the investigation. He is terrified of Dawnbringer and lacks the cunning of a killer. He supports Sprig\u2019s initiative and is unaware of the poisoning, making him an unreliable source of hidden motives.",
+    "source_quote": "The man was scared out of his skin, kept eyeing Dawnbringer like he wanted to kiss the blade's feet and beg it off him.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Candlekeep Avowed",
+    "fact": "The Candlekeep Avowed are a structured order where junior members like Sprig are often the subject of undue attention from senior figures like Teles Ahvoste. The culture permits romantic entanglements but discourages open discussion, leading to covert manipulation and misdirection.",
+    "source_quote": "These avowed, sometimes they're a little bit too interested in the junior avowed.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "poisoning at the meal",
+    "fact": "A poison was administered during a meal where Sprig, the poison taster, sampled all twelve dishes. Janussi was poisoned instead, suggesting the poisoner either misdirected the dose or intended for the taster to survive. The method exploited shared food, making targeted delivery difficult unless a server was complicit.",
+    "source_quote": "All the food was shared, so it'd be hard to target the delivery unless a server was in on it.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Sylvira's hoarseness and honey incident",
+    "fact": "Sylvira Savikas was found at 1 a.m. in the kitchens, unable to speak and using a lantern. She was given honey by Sprig. Her tiefling physiology makes the use of a lantern suspicious \u2014 tieflings do not need light. This suggests either she was impersonated or she was hiding evidence.",
+    "source_quote": "A tiefling doesn't need the light.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the poisoned book",
+    "fact": "The primary method of assassination appears to be a tampered book, not the food. The book was likely unwrapped, poisoned, and rewrapped. The food poisoning was a decoy or misdirection. The killer chose the book because it allowed them to avoid killing the poison taster \u2014 suggesting the taster was meant to live.",
+    "source_quote": "Alkrist's point led to the book. There were a dozen ways to kill the man. They picked the book.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the honey cover-up",
+    "fact": "The honey given to Sylvira may not have been an act of kindness, but a cover for her being discovered in the kitchens. The timing, her silence, and the lantern suggest she was searching for or planting something \u2014 and the honey was the distraction when Irony arrived.",
+    "source_quote": "The honey was the cover for when Irony walked in. I didn't say that last part out loud. I kept it.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "the wrapped book",
+    "fact": "The book was the weapon used to kill the target. It was unwrapped, poisoned, and rewrapped \u2014 likely by someone who had access to the gift pile beneath the non-Christmas Christmas tree. The wrapping paper was later found in Janussi's office.",
+    "source_quote": "Somebody could've unwrapped it and rewrapped it. I wanted to ask whether anybody'd seen a person messing with the pile under the \u2014 the non-Christmas Christmas Christmas tree.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "the lantern",
+    "fact": "Sylvira Savikas used a lantern while searching the kitchens at 1 a.m. This is physically impossible for a tiefling, whose night vision renders light unnecessary. The lantern is evidence of impersonation, deception, or an attempt to appear human.",
+    "source_quote": "A tiefling doesn't need the light.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "the pot of honey",
+    "fact": "The pot of honey given to Sylvira was likely not a gesture of care, but a deliberate misdirection. It served to explain her hoarseness and mask her true purpose in the kitchens \u2014 possibly to plant or retrieve something.",
+    "source_quote": "The honey was the cover for when Irony walked in.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "the non-Christmas Christmas tree",
+    "fact": "The non-Christmas Christmas tree is the designated location where all gifts \u2014 primarily books \u2014 were stacked before the meal. It is the suspected site where the poisoned book was tampered with, as the wrapping paper was later found in Janussi\u2019s office.",
+    "source_quote": "The pile under the \u2014 the non-Christmas Christmas Christmas tree.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Janussi's office",
+    "fact": "Janussi's office is where the wrapping paper from the poisoned book was found. This links her to the tampering, either as victim, accomplice, or unwitting carrier of evidence.",
+    "source_quote": "The wrapping paper turned up in Janussi's office, not here.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "the kitchens",
+    "fact": "The kitchens are the site of the post-meal honey incident involving Sylvira Savikas. The timing (1 a.m.) and Sylvira\u2019s behavior suggest this was not a random encounter but a deliberate, covert operation.",
+    "source_quote": "Going to the kitchens for cookies, she'd run into Sylvira Savikas hunting for something by candlelight.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "1 a.m. on the night of the meal",
+    "fact": "At 1 a.m., Sylvira Savikas was observed in the kitchens by candlelight, hoarse and silent. This timing is critical \u2014 it occurred after the poisoning and before any public discovery, suggesting the killer or an accomplice was active.",
+    "source_quote": "One in the morning.",
+    "quote_verified": true
+  }
+]

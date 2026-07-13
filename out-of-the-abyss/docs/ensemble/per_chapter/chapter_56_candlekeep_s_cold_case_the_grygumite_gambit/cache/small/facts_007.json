@@ -1,0 +1,219 @@
+[
+  {
+    "type": "npc",
+    "subject": "Tadric",
+    "fact": "Tadric was standing guard at the door when the party arrived, young and human, trying to appear composed despite being rattled. He provided timeline details and confirmed protocol adherence. He admitted his role was crowd control, not surveillance, and showed regret over the oversight. He is a decent person who recognized the gap in procedure but felt powerless to fix it.",
+    "source_quote": "Tadric admitted his job had been crowd control, not surveillance \u2014 watching who came in and out, not watching what they did once they were inside.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "A'lai Aivenmore",
+    "fact": "A'lai Aivenmore discovered Janussi's body around half past seven in the morning alongside a servant named Miss Hollypocket. They were the first to find the victim and initiated the chain of events leading to the gate warden\u2019s involvement.",
+    "source_quote": "A'lai Aivenmore and a servant called Miss Hollypocket found Janussi dead around half past seven in the morning.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Miss Hollypocket",
+    "fact": "Miss Hollypocket was the servant who found Janussi\u2019s body alongside A'lai Aivenmore. She is described as rigidly protocol-bound \u2014 she would never have allowed candles to burn down to nothing, implying Janussi had been dead before the candles extinguished.",
+    "source_quote": "Miss Hollypocket would never have allowed the Keeper to let candles burn down to nothing. Full stop. It wasn't her way.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kazryn",
+    "fact": "Kazryn, described as a weeping woman, arrived shortly after the body was found and demanded to see it. Her emotional state and timing suggest personal connection to the victim, though her actions did not interfere with the crime scene.",
+    "source_quote": "Then the weeping woman \u2014 Kazryn, apparently \u2014 showed up shortly after, wanting to see the body.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Fheminor Scrivenbark",
+    "fact": "Fheminor Scrivenbark arrived at half past eight, stern and shocked, and attempted to inspect the chamber but was turned away. His demeanor indicates authority and interest in the investigation, though he was denied access.",
+    "source_quote": "Then Fheminor Scrivenbark at half past eight, stern, shocked, wanting to inspect the chamber but turned away.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Bookwyrm",
+    "fact": "The Bookwyrm arrived at nine, fresh from the baths, took a brief look at the scene, and confirmed the gate warden\u2019s orders. Their presence was observational and authoritative, lending weight to procedural compliance.",
+    "source_quote": "Then the Bookwyrm at nine, in from the baths, taking a brief look before confirming the gate warden's orders.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Gate Warden",
+    "fact": "The Gate Warden arrived at eight with Tadric and returned at eleven for a full investigation. He was described as careful not to disturb evidence. His demeanor shifted to determination after inspecting the scene, suggesting he identified something significant \u2014 possibly a clue \u2014 that he had not yet decided how to act upon.",
+    "source_quote": "He definitely looked more determined after he walked out. Determined means he found something and hadn't decided what to do with it yet.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi, around seventy, was found dead in white robes soaked dark around the torso, his rib cage caved in and a hollow in his chest where something had been removed. He was a scholar engaged in research on unfamiliar magical workings, annotated in multiple ink layers \u2014 Celestial, midnight blue, and purple \u2014 suggesting a progression of thought. His final notes, written in the freshest ink, were missing. He was likely murdered hours before discovery.",
+    "source_quote": "Janussi \u2014 around seventy, white robes, vacant eyes aimed at nothing. The robes were soaked dark around the torso. His rib cage had been caved in. There was a hollow in his chest where something used to be.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Fembris",
+    "fact": "Fembris reacted violently upon seeing the body, vomiting out an open window. He did not return to the room. His reaction underscores the grotesque nature of the crime and his unpreparedness for such a sight.",
+    "source_quote": "Fembris took one look at the body, crossed the room in four steps, flung a window open, and vomited out of it.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Keeper",
+    "fact": "The Keeper is an institutional figure associated with candle maintenance and room protocol. Miss Hollypocket's adherence to standards implies the Keeper enforces strict rules against allowing candles to burn out, indicating a culture of order and oversight.",
+    "source_quote": "Miss Hollypocket would never have allowed the Keeper to let candles burn down to nothing.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "murder of Janussi",
+    "fact": "Janussi was murdered sometime before seven-thirty a.m., likely several hours before discovery. The murder involved blunt force trauma that caved in his rib cage and removed an object from his chest. The crime scene remained undisturbed for hours, with candles burning out and tobacco smoke lingering \u2014 evidence that the room was sealed and no one entered or exited until discovery.",
+    "source_quote": "The murder happened well before anyone found him. The candles told the same story. The smoke was old.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "discovery of the body",
+    "fact": "The body was discovered at 7:30 a.m. by A'lai Aivenmore and Miss Hollypocket. The scene was preserved until the gate warden\u2019s arrival at 8 a.m. and subsequent investigations. No one disturbed the evidence, and the room remained sealed for hours.",
+    "source_quote": "A'lai Aivenmore and a servant called Miss Hollypocket found Janussi dead around half past seven in the morning.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "candle burnout",
+    "fact": "The seven-arm bronze candelabra burned its candles entirely to wax puddles, indicating the room had been sealed and unattended for several hours \u2014 long enough for the candles to extinguish naturally. This implies Janussi was dead before the candles finished burning.",
+    "source_quote": "The candelabra \u2014 seven arms, bronze \u2014 had burned its candles entirely to wax puddles.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "ink spill",
+    "fact": "A pot of midnight blue ink was spilled on the desk, accompanied by a quill with a nib covered in the same ink. Neither the quill nor the ink had been moved since the spill, suggesting the incident occurred at the moment of death or immediately before \u2014 and that the killer did not clean up.",
+    "source_quote": "A quill on the floor. Nib covered in midnight blue. A wicker basket nearby holding a linen ink carrier, slightly damp, which had been the vessel for the ink now pooling from the spilled pot.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "missing notes",
+    "fact": "The freshest set of notes \u2014 written in midnight blue ink on the subject of The Golden Ass \u2014 were missing from the desk. Their removal was deliberate, indicating the killer sought to conceal Janussi\u2019s most recent research, likely the motive for the murder.",
+    "source_quote": "The book the blue ink was annotating \u2014 The Golden Ass \u2014 wasn't in the room. Whatever Janussi had been working on most recently... was gone. That felt deliberate.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "tobacco smoke linger",
+    "fact": "Tobacco smoke filled the room, lingering despite the windows being shut. The smoke was old and not recent, indicating the room had been sealed for hours \u2014 consistent with the candle burnout and the timeline of death preceding discovery.",
+    "source_quote": "The room was circular, ringed with lancet windows... full of pale morning light that had gone slightly yellow and hazy from something I placed almost immediately: tobacco smoke. Lingering.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "the study chamber",
+    "fact": "The study chamber was circular, with lancet windows that were shut, filled with lingering tobacco smoke and pale morning light. The desk was neat, the chair overturned, a marble statue and pedestal on the floor, and a candelabra reduced to wax. The safe on the far wall was open, with blue gems and empty pouches scattered. The environment was preserved, untouched since the murder.",
+    "source_quote": "The room was circular, ringed with lancet windows... The desk was neatly kept... The safe on the far wall had been opened. Blue gems and empty pouches scattered on the floor.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "The Discoveries (spellbook)",
+    "fact": "A spellbook titled The Discoveries lay open on the desk, annotated in Celestial script with academic musings on unfamiliar magical workings \u2014 likely Janussi\u2019s own research. It was undisturbed and central to the scene.",
+    "source_quote": "A spellbook sat open in the center of the desk: The Discoveries. To one side, notes in Celestial, generic academic work, someone musing on unfamiliar workings and how they might be performed.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "midnight blue ink notes",
+    "fact": "A pile of notes in midnight blue ink, pinned under a quartz weight, contained recent annotations on top of older purple notes. These were the freshest writings in the room and likely related to The Golden Ass \u2014 the subject of Janussi\u2019s final research. The notes are now missing.",
+    "source_quote": "To the other side, a larger pile of notes pinned under a quartz weight, with more annotations on top in midnight blue ink \u2014 and below those, older notes in purple.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "quill with midnight blue nib",
+    "fact": "A quill lay on the floor with its nib coated in midnight blue ink, matching the spilled ink pot. It had not been moved since the spill, indicating it fell during the attack or shortly after.",
+    "source_quote": "A quill on the floor. Nib covered in midnight blue.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "linen ink carrier",
+    "fact": "A wicker basket held a linen ink carrier, slightly damp \u2014 the vessel that had contained the spilled midnight blue ink. It had not been cleaned or moved, preserving evidence of the spill\u2019s timing.",
+    "source_quote": "A wicker basket nearby holding a linen ink carrier, slightly damp, which had been the vessel for the ink now pooling from the spilled pot.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "candelabra (seven-arm, bronze)",
+    "fact": "A seven-arm bronze candelabra had burned all its candles to wax puddles, indicating the room had been sealed and unattended for hours \u2014 confirming the murder occurred long before discovery.",
+    "source_quote": "The candelabra \u2014 seven arms, bronze \u2014 had burned its candles entirely to wax puddles.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "marble statue and pedestal",
+    "fact": "The marble statue and its pedestal were found on the floor, suggesting a struggle or disturbance near the desk \u2014 possibly during the attack on Janussi.",
+    "source_quote": "The marble statue and its pedestal were on the floor.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "The Golden Ass (missing book)",
+    "fact": "The book The Golden Ass, which was being annotated in the freshest ink, was missing from the room. Its removal indicates the killer sought to conceal Janussi\u2019s final research \u2014 the likely motive for the murder.",
+    "source_quote": "The book the blue ink was annotating \u2014 The Golden Ass \u2014 wasn't in the room.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "motive for murder",
+    "fact": "The murder appears to have been motivated by the theft of Janussi\u2019s most recent research \u2014 specifically the notes on The Golden Ass, written in midnight blue ink. The victim\u2019s chest was hollowed out, suggesting the object removed was not jewelry but something tied to his research \u2014 possibly a magical artifact or component.",
+    "source_quote": "Whatever he took, it wasn't jewelry... That felt deliberate in the way that things feel deliberate when you stop trying to find an innocent explanation for them.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "identity of the killer",
+    "fact": "The killer was likely someone familiar with the chamber\u2019s protocols, able to enter without raising suspicion, and knew to preserve the scene. The absence of forced entry, the timing of the smoke and candles, and the deliberate removal of the notes suggest an insider \u2014 possibly someone who had access to the study and knew Janussi\u2019s work.",
+    "source_quote": "Nobody smokes in a sealed room and leaves smoke that lingers for hours unless the room has been sealed for hours.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "nature of the stolen object",
+    "fact": "The object removed from Janussi\u2019s chest was not jewelry \u2014 it was likely a magical artifact or component tied to his research on The Golden Ass. The hollow in his chest and the missing notes together suggest the killer sought a physical manifestation of the magic he was studying \u2014 perhaps a soul-bound glyph, a spell core, or a living inscription.",
+    "source_quote": "There was a hollow in his chest where something used to be... Whatever he took, it wasn't jewelry.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "time of discovery",
+    "fact": "Janussi\u2019s body was discovered at 7:30 a.m. The gate warden arrived at 8 a.m., the Bookwyrm at 9 a.m., Fheminor Scrivenbark at 8:30 a.m., and the gate warden returned at 11 a.m. for a full investigation.",
+    "source_quote": "A'lai Aivenmore... found Janussi dead around half past seven in the morning... Tadric himself arrived with the gate warden at eight... Fheminor Scrivenbark at half past eight... The Bookwyrm at nine... the gate warden himself back at eleven.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "time of death",
+    "fact": "Janussi was murdered well before 7:30 a.m. \u2014 likely between midnight and 4 a.m. \u2014 as evidenced by the fully burned candles and lingering tobacco smoke, both of which require hours to develop under sealed conditions.",
+    "source_quote": "The murder happened well before anyone found him... The candles told the same story.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "none",
+    "fact": "No monster or supernatural creature was observed or implied in the scene. The violence was physical, not arcane or bestial. The caved-in rib cage suggests human or humanoid force.",
+    "source_quote": "Was this cut neatly with a sharp scalpel-like thing, or was it, like, torn out with somebody's bare hands?",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "protocol failure",
+    "fact": "Tadric\u2019s admission that his role was crowd control, not surveillance, reveals a critical failure in crime scene protocol. No one was monitoring what individuals did once inside \u2014 allowing the killer to remove the notes and the object without detection.",
+    "source_quote": "Tadric admitted his job had been crowd control, not surveillance \u2014 watching who came in and out, not watching what they did once they were inside.",
+    "quote_verified": true
+  }
+]

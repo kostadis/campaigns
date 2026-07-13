@@ -1,0 +1,520 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 7th day of the 1st tenday of Myrkhul, 1495 DR.",
+    "source_quote": "7th day of 1st tenday of Myrkhul, 1495",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 9th day of the 1st tenday of Myrkhul, 1495 DR.",
+    "source_quote": "9th day of 1st tenday of Myrkhul, 1495",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 2nd day of the 2nd tenday of Myrkhul, 1495 DR.",
+    "source_quote": "2nd day of the 2nd tenday of Myrkhul, 1495",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 3rd day of the 2nd tenday of Myrkhul, 1495 DR.",
+    "source_quote": "3rd day of the 2nd tenday of Myrkhul, 1495",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 5th day of the 2nd tenday of Myrkhul, 1495 DR.",
+    "source_quote": "5th day of the 2nd tenday of Myrkhul, 1495",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Fist-sized chunks of quartz crystals erupted from the wall, shedding a dim ten-foot radiance.",
+    "source_quote": "Fist-sized chunks of quartz crystals erupted from the wall, shedding a dim ten-foot radiance",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "shrieker count",
+    "fact": "Shriekers. The kind of noise that sends a jolt of adrenaline through any sane creature, screaming 'danger!' and 'dinner is served!' to anything else that might be lurking in the tunnels.",
+    "source_quote": "Shriekers. The kind of noise that sends a jolt of adrenaline through any sane creature, screaming 'danger!' and 'dinner is served!'",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "spectre count",
+    "fact": "Four Spectres now hover, incorporeal and menacing.",
+    "source_quote": "Four Spectres now hover, incorporeal and menacing",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "wraith appearance",
+    "fact": "A Wraith. Its voice, resonant with ancient menace, fills our minds, not with the pleas of the previous Spectres, but with a chilling declaration: 'Your deaths will free me from this prison, and how my victims will serve me even in death!'",
+    "source_quote": "A Wraith. Its voice, resonant with ancient menace, fills our minds, not with the pleas of the previous Spectres, but with a chilling declaration: 'Your deaths will free me from this prison, and how my victims will serve me even in death!'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "travel to the Lost Tomb of Khaem",
+    "fact": "We arrive at a large double door. The stone is ancient, hinting at a lost era, a common theme in this alien landscape.",
+    "source_quote": "We arrive at a large double door. The stone is ancient, hinting at a lost era, a common theme in this alien landscape.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "discovery of hidden passage",
+    "fact": "The northeast sarcophagus rests on hidden stone rollers. A possible secret, a hidden passage. This is it.",
+    "source_quote": "The northeast sarcophagus rests on hidden stone rollers. A possible secret, a hidden passage. This is it.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "The Drow outpost was 100' in the sky.",
+    "source_quote": "Drow outpost was 100' in the sky",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Underdark terrain",
+    "fact": "The air grew heavy with the subtle, earthy scent of the damp loam and something indescribably sweeter.",
+    "source_quote": "The air grew heavy with the subtle, earthy scent of the damp loam and something indescribably sweeter.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Faerzress cave",
+    "fact": "The air grew thick with a familiar, subtle hum, the Faerzress.",
+    "source_quote": "The air grew thick with a familiar, subtle hum, the Faerzress.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "quartz crystal value",
+    "fact": "They are worth a great deal as gold, and perhaps even more to the right collector.",
+    "source_quote": "They are worth a great deal as gold, and perhaps even more to the right collector.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Netherese Calendar Stone",
+    "fact": "A Netherese Calendar Stone, a relic of a time long gone, its purpose unclear.",
+    "source_quote": "A Netherese Calendar Stone, a relic of a time long gone, its purpose unclear.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "invisible stone chest",
+    "fact": "I notice the subtle shimmer of an invisible stone chest near its foot.",
+    "source_quote": "I notice the subtle shimmer of an invisible stone chest near its foot.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "crystal weapon",
+    "fact": "He holds a crystal as a weapon. It\u2019s too pathetic.",
+    "source_quote": "He holds a crystal as a weapon. It\u2019s too pathetic.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "bet on crystal utility",
+    "fact": "Jimjar shouts, 'Want to make a bet?' And so I turn to him, 'Wanna bet that these crystals will be useful?'",
+    "source_quote": "Jimjar shouts, 'Want to make a bet?' And so I turn to him, 'Wanna bet that these crystals will be useful?'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "plea from trapped voice",
+    "fact": "A soft, feminine voice, distant yet clear, rings out in my mind, 'Hello? Is someone there? Oh, please, I need your help! I have been trapped in the dark for so long... so very long. Please, won't you help me? Won't your help to free me?'",
+    "source_quote": "A soft, feminine voice, distant yet clear, rings out in my mind, 'Hello? Is someone there? Oh, please, I need your help! I have been trapped in the dark for so long... so very long. Please, won't you help me? Won't your help to free me?'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "arrival at tomb entrance",
+    "fact": "Sarith nods yes, this is the way. Of course, it does. Nothing in the Underdark is ever truly straightforward, yet here, a trapped voice leads us exactly where we intended to go, The Lost Tomb of Khaem.",
+    "source_quote": "Sarith nods yes, this is the way. Of course, it does. Nothing in the Underdark is ever truly straightforward, yet here, a trapped voice leads us exactly where we intended to go, The Lost Tomb of Khaem.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Netherese tomb interior",
+    "fact": "Inside, a chill descends, and my eyes adjust to a faded grandeur. A stone diorama stands to the right, depicting a Netherese noble, Brysis of Khaem, surrounded by her retinue, flaunting wealth and power. To the left, a sprawling mural covers the wall, illustrating fantastic floating cities.",
+    "source_quote": "Inside, a chill descends, and my eyes adjust to a faded grandeur. A stone diorama stands to the right, depicting a Netherese noble, Brysis of Khaem, surrounded by her retinue, flaunting wealth and power. To the left, a sprawling mural covers the wall, illustrating fantastic floating cities.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "shrine chamber",
+    "fact": "The stairs finally give way to a shrine, its floor littered with shreds of dusty tapestries.",
+    "source_quote": "The stairs finally give way to a shrine, its floor littered with shreds of dusty tapestries.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "final chamber",
+    "fact": "We enter a new chamber, and the faint light catches murals on the walls, depicting grand scenes, probably of the Netherese sorceress Brysis of Khaem and her lost cities. A gilded sarcophagus gleams against one wall, clearly the focal point, and I notice the subtle shimmer of an invisible stone chest near its foot.",
+    "source_quote": "We enter a new chamber, and the faint light catches murals on the walls, depicting grand scenes, probably of the Netherese sorceress Brysis of Khaem and her lost cities. A gilded sarcophagus gleams against one wall, clearly the focal point, and I notice the subtle shimmer of an invisible stone chest near its foot.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "long rest consideration",
+    "fact": "I inquire, hopefully, 'Is this, would this be a good time for us to take a\u2026 Long rest. By chance?'",
+    "source_quote": "I inquire, hopefully, 'Is this, would this be a good time for us to take a\u2026 Long rest. By chance?'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "opening sarcophagi",
+    "fact": "Before we go down the dark passageway, we open the sarcophagi. Each sarcophagus contains mummified remains, the tattered remnants of ancient burial garments, and treasure of Netherese origin.",
+    "source_quote": "Before we go down the dark passageway, we open the sarcophagi. Each sarcophagus contains mummified remains, the tattered remnants of ancient burial garments, and treasure of Netherese origin.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Netherese treasure value",
+    "fact": "They are worth a great deal as gold, and perhaps even more to the right collector.",
+    "source_quote": "They are worth a great deal as gold, and perhaps even more to the right collector.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "smashing crystals to hide tracks",
+    "fact": "To hide our tracks, we smash the cavern and the crystals, as if some monster had attacked, not escaped slaves who took crystals that shone in the darkness.",
+    "source_quote": "To hide our tracks, we smash the cavern and the crystals, as if some monster had attacked, not escaped slaves who took crystals that shone in the darkness.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Drow outpost elevation",
+    "fact": "Drow outpost was 100' in the sky.",
+    "source_quote": "Drow outpost was 100' in the sky",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "magic missile cast",
+    "fact": "Magic Missile. Two bolts streak through the darkness, finding their mark on one Spectre. Another bolt follows, striking a second Spectre.",
+    "source_quote": "Magic Missile. Two bolts streak through the darkness, finding their mark on one Spectre. Another bolt follows, striking a second Spectre.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "spectre attack",
+    "fact": "One Spectre lunges at me, its chilling form passing through my defenses. A jolt of cold, raw energy courses through me, necrotic damage, and I feel my very life force diminish.",
+    "source_quote": "One Spectre lunges at me, its chilling form passing through my defenses. A jolt of cold, raw energy courses through me, necrotic damage, and I feel my very life force diminish.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "zalthir's punch",
+    "fact": "He kills one, then another. 'I will punch the ghost!' he declares.",
+    "source_quote": "He kills one, then another. 'I will punch the ghost!' he declares.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "wraith's declaration",
+    "fact": "Its voice, resonant with ancient menace, fills our minds, not with the pleas of the previous Spectres, but with a chilling declaration: 'Your deaths will free me from this prison, and how my victims will serve me even in death!'",
+    "source_quote": "Its voice, resonant with ancient menace, fills our minds, not with the pleas of the previous Spectres, but with a chilling declaration: 'Your deaths will free me from this prison, and how my victims will serve me even in death!'",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "crystal weapon value",
+    "fact": "He holds a crystal as a weapon. It\u2019s too pathetic.",
+    "source_quote": "He holds a crystal as a weapon. It\u2019s too pathetic.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "escapee identification",
+    "fact": "I stare at them and quickly surmise they are escapees from the Drow.",
+    "source_quote": "I stare at them and quickly surmise they are escapees from the Drow.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "escapee origin",
+    "fact": "He explains that his name is Fuurm Coppernose, or Copper to his friends, who had lost his sister and went looking for her in the Underdark.",
+    "source_quote": "He explains that his name is Fuurm Coppernose, or Copper to his friends, who had lost his sister and went looking for her in the Underdark.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "escapee survival",
+    "fact": "Baedora explains, 'That it was demons that attacked. The Drow fought back. We ran. Figured we were more likely to stay alive away from Drow and Demons.'",
+    "source_quote": "Baedora explains, 'That it was demons that attacked. The Drow fought back. We ran. Figured we were more likely to stay alive away from Drow and Demons.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "invitation to join",
+    "fact": "And so I invite them to join our group.",
+    "source_quote": "And so I invite them to join our group.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Underdark fungal forest",
+    "fact": "There were the towering stalks and caps of fungi, a veritable forest of the subterranean. Mushrooms of all kinds and of all types, stretching up into the unseen ceiling, some glowing faintly with a soft, bioluminescent light, others a muted, earthy brown.",
+    "source_quote": "There were the towering stalks and caps of fungi, a veritable forest of the subterranean. Mushrooms of all kinds and of all types, stretching up into the unseen ceiling, some glowing faintly with a soft, bioluminescent light, others a muted, earthy brown.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "crystal collection",
+    "fact": "We have collected so many strays that one more won\u2019t harm us.",
+    "source_quote": "We have collected so many strays that one more won\u2019t harm us.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "crystal collection",
+    "fact": "Before we leave the cave, we take as many crystals as we can.",
+    "source_quote": "Before we leave the cave, we take as many crystals as we can.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "drow origin",
+    "fact": "My whole life, I was a Drow of Menzoberranzan. Trapped in the formalities of ritual and expectations, trying to avoid the predations of the Cult of Lolth and the machinations of the Noble Houses.",
+    "source_quote": "My whole life, I was a Drow of Menzoberranzan. Trapped in the formalities of ritual and expectations, trying to avoid the predations of the Cult of Lolth and the machinations of the Noble Houses.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "underdark realization",
+    "fact": "I never saw the Underdark for what it is, a place to explore and learn. And now I know this journey not as an escape to another place, but instead as an escape from a previous worldview.",
+    "source_quote": "I never saw the Underdark for what it is, a place to explore and learn. And now I know this journey not as an escape to another place, but instead as an escape from a previous worldview.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "eldeth's track hiding",
+    "fact": "For two days, Eldeth has been hiding our tracks for two days, where all we could see when we could see was the dark passages.",
+    "source_quote": "For two days, Eldeth has been hiding our tracks for two days, where all we could see when we could see was the dark passages.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "sarith's confidence",
+    "fact": "Sarith insisted he knew where we were going.",
+    "source_quote": "Sarith insisted he knew where we were going.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "zalthir's unobservant nature",
+    "fact": "Zalthir, who is curiously unobservant, scoughs.",
+    "source_quote": "Zalthir, who is curiously unobservant, scoughs.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "furm's profession",
+    "fact": "He explains that he is just a farmer.",
+    "source_quote": "He explains that he is just a farmer.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "baedora's survival",
+    "fact": "Baedora explains, 'That it was demons that attacked. The Drow fought back. We ran. Figured we were more likely to stay alive away from Drow and Demons.'",
+    "source_quote": "Baedora explains, 'That it was demons that attacked. The Drow fought back. We ran. Figured we were more likely to stay alive away from Drow and Demons.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "grygum's perception",
+    "fact": "Grygum, with his keen perception, takes the lead, carefully testing each step.",
+    "source_quote": "Grygum, with his keen perception, takes the lead, carefully testing each step.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "zalthir's monk discipline",
+    "fact": "I focus, drawing on my monk's discipline, seeking patterns, anomalies in the dust, and then I speak, 'Proof here of a lower power.'",
+    "source_quote": "I focus, drawing on my monk's discipline, seeking patterns, anomalies in the dust, and then I speak, 'Proof here of a lower power.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "grygum's memory",
+    "fact": "He then recalls old tales of 'floating undead creatures that typically rest in tombs'.",
+    "source_quote": "He then recalls old tales of 'floating undead creatures that typically rest in tombs'.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "fargas' warning",
+    "fact": "I remember Fargas Rumblefoot's warning about a 'secret room' or 'false tomb' here, adding another layer of treachery to this place.",
+    "source_quote": "I remember Fargas Rumblefoot's warning about a 'secret room' or 'false tomb' here, adding another layer of treachery to this place.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "daz's magic missile",
+    "fact": "Magic Missile. Two bolts streak through the darkness, finding their mark on one Spectre. Another bolt follows, striking a second Spectre.",
+    "source_quote": "Magic Missile. Two bolts streak through the darkness, finding their mark on one Spectre. Another bolt follows, striking a second Spectre.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "daz's necrotic damage",
+    "fact": "A jolt of cold, raw energy courses through me, necrotic damage, and I feel my very life force diminish. Before I can fully process it, another Spectre attacks, a more potent drain this time, twice as much necrotic damage, and my strength wanes further.",
+    "source_quote": "A jolt of cold, raw energy courses through me, necrotic damage, and I feel my very life force diminish. Before I can fully process it, another Spectre attacks, a more potent drain this time, twice as much necrotic damage, and my strength wanes further.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "daz's long rest plea",
+    "fact": "'I'm gonna need a long rest here pretty soon,' I mutter, the words barely audible, a desperate plea for recovery.",
+    "source_quote": "'I'm gonna need a long rest here pretty soon,' I mutter, the words barely audible, a desperate plea for recovery.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "grygum's turn undead attempt",
+    "fact": "Grygum, in his devotion, tries to turn them, his holy symbol raised, but the Spectres resist, their wills too strong, or perhaps their existence too ancient to be swayed.",
+    "source_quote": "Grygum, in his devotion, tries to turn them, his holy symbol raised, but the Spectres resist, their wills too strong, or perhaps their existence too ancient to be swayed.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "zalthir's shadow sphere",
+    "fact": "I move into position, my hands forming the familiar gestures. I call forth the shadows, plunging the area around the sarcophagus into a sphere of magical darkness.",
+    "source_quote": "I move into position, my hands forming the familiar gestures. I call forth the shadows, plunging the area around the sarcophagus into a sphere of magical darkness.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "thorin's push",
+    "fact": "Thorin, strong as an ox, leverages the darkness, pushing the heavy sarcophagus aside.",
+    "source_quote": "Thorin, strong as an ox, leverages the darkness, pushing the heavy sarcophagus aside.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "chill and moan",
+    "fact": "A chill emanates from everywhere at once. Rime creeps across surfaces, and my breath plumes before me in the suddenly frigid air. A moan, pained and distant, rises with the wind.",
+    "source_quote": "A chill emanates from everywhere at once. Rime creeps across surfaces, and my breath plumes before me in the suddenly frigid air. A moan, pained and distant, rises with the wind.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "spectre emergence",
+    "fact": "From the newly opened space, a form coalesces from the gloom \u2013 translucent, malevolent, undeniably undead. A Spectre.",
+    "source_quote": "From the newly opened space, a form coalesces from the gloom \u2013 translucent, malevolent, undeniably undead. A Spectre.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "spectre voice",
+    "fact": "'No, you must save me!' a soft, feminine voice cries out in my mind.",
+    "source_quote": "'No, you must save me!' a soft, feminine voice cries out in my mind.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "zalthir's punch",
+    "fact": "'I will punch the ghost!' he declares.",
+    "source_quote": "'I will punch the ghost!' he declares.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "wraith rise",
+    "fact": "From the sarcophagus, a figure rises, ethereal and malicious. A Wraith.",
+    "source_quote": "From the sarcophagus, a figure rises, ethereal and malicious. A Wraith.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "wraith's threat",
+    "fact": "Your deaths will free me from this prison, and how my victims will serve me even in death!",
+    "source_quote": "Your deaths will free me from this prison, and how my victims will serve me even in death!",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
+    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "An hour passes between two events in the session.",
+    "source_quote": "An hour later",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "wraith count",
+    "fact": "The wraith glides forward, a silent, menacing presence, and attacks Thorin.",
+    "source_quote": "The wraith glides forward, a silent, menacing presence, and attacks Thorin.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "travel to sarcophagus",
+    "fact": "The sarcophagus is approximately eight days away via the Darklake.",
+    "source_quote": "the town of Sloopdopblop is just eight days away",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "sarcophagus elevation",
+    "fact": "The sarcophagus sits 100 feet above the cavern floor.",
+    "source_quote": "Drow outpost was 100' in the sky",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "the true owner",
+    "fact": "The trapped entity, the true owner of the voice, is inside this sarcophagus.",
+    "source_quote": "So, the trapped entity, the true owner of the voice, is inside this sarcophagus.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "voice recurrence",
+    "fact": "The soft, feminine voice from earlier, the one that first called to us, speaks again.",
+    "source_quote": "the soft, feminine voice from earlier, the one that first called to us, speaks again",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "sarcophagus interior",
+    "fact": "The sarcophagus is a stone box into which the Wraith hovers back.",
+    "source_quote": "Retreating into a stone box is hardly a display of power.",
+    "quote_verified": true
+  }
+]

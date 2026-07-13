@@ -1,0 +1,247 @@
+[
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is researching in the Flora Theca after being led by librarian Fembris, seeking botanical sources of poison and access to a laboratory.",
+    "source_quote": "Poison is just botany with intent.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Fembris",
+    "fact": "Fembris is the librarian who guided Grygum to the Flora Theca; he walks as if noise has consequences and confirmed the absence of a dedicated poison section.",
+    "source_quote": "There wasn't, exactly. What there was... was the Flora Theca.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Flora Theca",
+    "fact": "The Flora Theca is a subsection of the Pavilion Naturalis within the Great Library, dedicated to plants, herbs, and other flora \u2014 the closest available resource for studying poisons.",
+    "source_quote": "Poison is just botany with intent.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Pavilion Naturalis",
+    "fact": "The Pavilion Naturalis is a division of the Great Library that contains the Flora Theca and other naturalistic collections.",
+    "source_quote": "The Flora Theca... inside the Great Library.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Great Library",
+    "fact": "The Great Library is the overarching structure housing the Pavilion Naturalis and its subsections, including the Flora Theca, where Grygum conducts research.",
+    "source_quote": "The Flora Theca... inside the Great Library.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "locket",
+    "fact": "The locket, once containing the key, was worn around the keeper\u2019s neck and is now missing \u2014 its absence undermines the assumption that the safe was breached by the same person who stole the key.",
+    "source_quote": "The key was in the locket. The locket was around the keeper's neck. The locket was gone.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Janussi's key",
+    "fact": "Janussi's key is a possible object that could have been handed off by someone constructing a clean narrative \u2014 its identity is unverified and the locket holding it is empty.",
+    "source_quote": "The thing he was holding up as proof could just as easily be Janussi's key, handed off by a man building a clean story.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "shapeshifter",
+    "fact": "A shapeshifter \u2014 capable of altering form \u2014 is implied to be active; someone may have impersonated Sylvira Savikas on the night of the murder.",
+    "source_quote": "Keep in mind there are people who can change their form. Shapeshift. Whatever you want to call it.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "magic user",
+    "fact": "The murderer is a magic user capable of bypassing arcane and mundane locks \u2014 magic that can 'talk any lock open,' of the highest order.",
+    "source_quote": "Magic that could talk any lock open, arcane or iron, the very highest order of that art.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Great Readers",
+    "fact": "The Great Readers are a collective suspected of involvement in the murder; Grygum believes one of them is the killer and that Bookwyrm may be protecting them.",
+    "source_quote": "One of the Great Readers was the murderer... Bookwyrm was protecting them.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm is an entity suspected of either protecting the murderer or having been manipulated into firing Grygum to conceal the truth.",
+    "source_quote": "Bookwyrm was protecting them or someone had convinced her to fire him to protect themselves.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "murder investigation",
+    "fact": "The murder investigation involved conflicting assumptions about the safe, the locket, and the identity of the killer \u2014 later revised after new evidence emerged.",
+    "source_quote": "Two hands had searched that apartment \u2014 one that knew exactly where to look, one that didn't.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "impersonation of Sylvira Savikas",
+    "fact": "Someone impersonated Sylvira Savikas on the night of the murder \u2014 a revelation that contradicted Grygum\u2019s timeline and exposed a critical blind spot.",
+    "source_quote": "Is he aware that someone was pretending to be Sylvira Savikas the night of the murder?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "eight o'clock meeting with Janussi",
+    "fact": "Grygum met with Janussi at eight o\u2019clock to request more watchers and was refused \u2014 a key point in his alibi and timeline.",
+    "source_quote": "The eight o'clock meeting where he'd pressed Janussi for more watchers and been refused.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "quarter-past-ten visit to Sylvira Savikas",
+    "fact": "Grygum visited Sylvira Savikas at quarter-past-ten to discuss a cosmological question \u2014 later revealed to have been an impersonation.",
+    "source_quote": "The quarter-past-ten visit to Sylvira Savikas over some cosmological question.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "inspection after eight on day of murder",
+    "fact": "Grygum conducted an inspection just after eight on the day of the murder, followed by cordon, posted watcher, and doubled guard at the High Tower Library.",
+    "source_quote": "The morning of the murder: the inspection just after eight, the cordon, the posted watcher, the state of emergency, the doubled guard.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "true identity of the murderer",
+    "fact": "The true identity of the murderer remains unresolved; multiple suspects and false assumptions have been introduced, including shapeshifters, magic users, and the Great Readers.",
+    "source_quote": "I don't know. What I thought \u2014 but now that you bring it up, perhaps I was a little bit too hasty.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "purpose of the team's employment",
+    "fact": "The team\u2019s employment is suspected to be a setup \u2014 they were hired to bungle the case or remain silent if they uncover the truth.",
+    "source_quote": "You're only being employed so you're likely to bungle the case, or else be silent if you do happen upon the right scent.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "fate of the missing key",
+    "fact": "The key\u2019s current location is unknown; it was in the locket, which is now missing \u2014 its disappearance undermines all prior assumptions about the crime\u2019s mechanics.",
+    "source_quote": "The key was in the missing locket. None of it forced his conclusion.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Grygum's dismissal",
+    "fact": "Grygum was fired from the case \u2014 he believes it was to protect someone, and he now suspects the dismissal itself was part of the cover-up.",
+    "source_quote": "He had been wanted off the case... reminded us, twice.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "day of the murder",
+    "fact": "The murder occurred on a specific day referenced by Grygum\u2019s timeline \u2014 including events from eight o\u2019clock onward, and the morning inspection.",
+    "source_quote": "The morning of the murder: the inspection just after eight...",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "eight o'clock",
+    "fact": "Eight o\u2019clock is a critical temporal anchor \u2014 marking Grygum\u2019s meeting with Janussi and the initial inspection on the day of the murder.",
+    "source_quote": "The eight o'clock meeting... the inspection just after eight.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "quarter-past-ten",
+    "fact": "Quarter-past-ten is the time Grygum claims to have met Sylvira Savikas \u2014 later revealed to be a deception.",
+    "source_quote": "The quarter-past-ten visit to Sylvira Savikas...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "empty locket",
+    "fact": "The empty locket is a physical artifact that once held the key; its emptiness renders it useless as proof and suggests deliberate tampering.",
+    "source_quote": "Which is now empty... and therefore doesn't prove anything.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "research notes",
+    "fact": "Grygum\u2019s research notes in the Flora Theca are being compiled to identify possible poisons \u2014 though no dedicated poison section exists.",
+    "source_quote": "I asked if there was a poison section. There wasn't, exactly.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "collaboration proposal",
+    "fact": "Grygum proposed an offline, private collaboration \u2014 syncing up with the team to examine all evidence together \u2014 signaling a shift from isolation to cooperation.",
+    "source_quote": "Offline chat, private work streams, a meeting to examine everything one by one...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan",
+    "fact": "Kalan demonstrated the method of carrying the key by pulling out his own locket \u2014 proving the technique, though his locket is now empty.",
+    "source_quote": "Kalan pulled out his own locket to demonstrate the method of carry.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin asked the right small question \u2014 how did we know the key had ever been in the locket? \u2014 challenging assumptions and advancing the investigation.",
+    "source_quote": "Thorin asked the right small question: how did we know the key had ever been in the locket?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi refused Grygum\u2019s request for more watchers at eight o\u2019clock \u2014 a moment that may have triggered the events leading to the murder.",
+    "source_quote": "Pressed Janussi for more watchers and been refused.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sylvira Savikas",
+    "fact": "Sylvira Savikas was impersonated on the night of the murder \u2014 the real Sylvira was not visited at quarter-past-ten as Grygum believed.",
+    "source_quote": "Someone was pretending to be Sylvira Savikas the night of the murder.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Chamber of Lost Lore",
+    "fact": "The Chamber of Lost Lore is where Grygum conducted private research \u2014 part of his documented timeline on the day of the murder.",
+    "source_quote": "The return to the Chamber of Lost Lore for private research.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "High Tower Library",
+    "fact": "The High Tower Library was under doubled guard after the murder \u2014 a security measure Grygum noted in his timeline.",
+    "source_quote": "The doubled guard at the High Tower Library.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum's timeline reconstruction",
+    "fact": "Grygum reconstructed his movements on the day of the murder to establish an alibi \u2014 including meetings, visits, and inspections.",
+    "source_quote": "He gave us his timeline \u2014 the eight o'clock meeting... the quarter-past-ten visit... the return to the Chamber...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "poison sample",
+    "fact": "A poison sample is being sought in the Flora Theca \u2014 though none is cataloged separately, Grygum believes botany holds the answer.",
+    "source_quote": "I asked if there was a poison section... Poison is just botany with intent.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "who set this up?",
+    "fact": "The mastermind behind the setup is unknown \u2014 they may have named Grygum to the wrong people, leading to his dismissal and the murder.",
+    "source_quote": "Whoever set this up, he said \u2014 naming him to the wrong people, perhaps \u2014 would be very disappointed in him.",
+    "quote_verified": true
+  }
+]

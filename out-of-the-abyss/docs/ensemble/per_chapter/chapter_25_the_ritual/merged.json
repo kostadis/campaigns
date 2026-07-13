@@ -1,0 +1,2312 @@
+[
+  {
+    "type": "date",
+    "subject": "2nd day of the 2nd tenday of Myrtul",
+    "fact": "The date marks the second day of the party\u2019s operation against the cult. It is when Pelek remains tied, the ritual resumes, and the Ember Vanguard launches their attack. It is the temporal anchor for the battle\u2019s events.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "2nd day of the 2nd tenday of Myrtul",
+    "fact": "The second day of the second tenday of Myrtul is when the group awakens to find Pelek still tied up. Grygum collects his winnings from JimJar\u2019s bet. Pelek reflects on sleep and death. The group then departs from Buppido\u2019s lair to re-infiltrate the cultist cavern, where they observe a distracted Derro and a new two-headed stone giant statue.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 2nd day of the 2nd tenday of Myrtul.",
+    "source_quote": "2nd day of the 2nd tenday of Myrtul",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "This sequence occurs during an active dungeon session, with events unfolding in real-time as the party engages in combat, ritual disruption, and tactical magic use.",
+    "source_quote": "I raise an eyebrow.\", \"I nod.\", \"Finally, Narrak emerges...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "acid vomit from Grygum",
+    "fact": "Grygum vomits a wave of acid after an incantation, a side effect of his magic that is not a spell he wishes to cast.",
+    "source_quote": "I look at him as he straightens and vomits forth a wave of acid. This is not a spell I wish to cast.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Acid Vomiting Ritual",
+    "fact": "Grygum undergoes a violent physical transformation after being struck, vomiting a wave of acid\u2014a non-spell, ritualistic manifestation of inner corruption or divine perversity tied to the cult\u2019s influence.",
+    "source_quote": "Grygum moaning in pain, then in incantation. There is a violent heaving. I look at him as he straightens and vomits forth a wave of acid.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "acid vomit spell",
+    "fact": "Grygum vomits forth a wave of acid after a violent heaving.",
+    "source_quote": "vomits forth a wave of acid",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "attack on the cult",
+    "fact": "The Ember Vanguard launches a coordinated assault using Zalthir\u2019s darkness, Daz\u2019s Scorching Rays, Grygum\u2019s acid vomiting and guiding bolt, Thorin\u2019s melee strikes, and Maximilian\u2019s Earthen Grasp. The Ettin survives, Narrak is trapped, and the ritual is halted mid-incantation.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "curse spreading claim",
+    "fact": "Narrak claims, 'You cannot stop the inevitable... the curse spreads!'",
+    "source_quote": "You cannot stop the inevitable... the curse spreads!",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Darkness Ambush",
+    "fact": "Zalthir casts a magical darkness over the Derro and Ettin, obscuring vision and enabling surprise attacks; the environment becomes chaotic, with combatants striking blindly and magical effects interfering with perception.",
+    "source_quote": "Zalthir and I had discussed what we should do. He plans to use his darkness...\", \"From inside it, Narrak shouts...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz cast Maximillian\u2019s Earthen Grasp on where he thought Narrak was.",
+    "source_quote": "I could keep them there with a spell. And so I cast Maximillian\u2019s Earthen Grasp on where I think he is.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz cast scorching rays \u2014 three spears of flame \u2014 toward the Ettin, feeling invigorated and empowered.",
+    "source_quote": "Three spears of flame, raging hues of orange and red, appear above me. My skin prickles and sweats under their intense heat\u2014but I am not frightened. I feel invigorated. Empowered. These are the vessels of my inner fury.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz explained that there is no danger from Pelek/Derro and that tying him up would make them safer, referencing the past death of a group member at Buppido's hands.",
+    "source_quote": "Daz, however, explains that there is no such danger. And that they would all be safer with the ghost tied up. The last time they trusted someone, Buppido killed one of their group.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz realized the Derro avoided noticing them because they were trying to avoid being seen by Narrak, like how Priestesses of Lolth made others invisible out of fear.",
+    "source_quote": "I finally understand why that Derro, who should have seen us, has not noticed us. He\u2019s trying to avoid being seen by Narrak. I\u2019ve seen that before, when the various Priestesses of Lolth would get angry, and everyone tried hard to be invisible.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz whispered to the Ember Vanguard that the Derro are performing a summoning ritual to make the Stone Giants sprout a second head, which probably explains what happened to the Stone Giant that fought them in the Dark Lake District.",
+    "source_quote": "I turn and whisper to the Ember Vanguard, \"They are performing some kind of summoning ritual to make the Stone Giants sprout a second head. This probably explains what happened to the Stone Giant that fought us in the Dark Lake District.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz\u2019s recognition of Lolth\u2019s Priestesses",
+    "fact": "Daz recognizes the Derro\u2019s behavior of hiding from Narrak as identical to how subordinates hide from Priestesses of Lolth.",
+    "source_quote": "I\u2019ve seen that before, when the various Priestesses of Lolth would get angry, and everyone tried hard to be invisible. A high-level cleric can kill you very easily.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz\u2019s scorching rays",
+    "fact": "Daz casts three spears of scorching flame, describing them as roaring beasts and vessels of his inner fury.",
+    "source_quote": "Three spears of flame, raging hues of orange and red, appear above me. My skin prickles and sweats under their intense heat\u2014but I am not frightened. I feel invigorated. Empowered. These are the vessels of my inner fury. They roar like fierce beasts as I hurl them toward the Ettin.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz\u2019s scorching rays as expression of inner fury",
+    "fact": "Daz describes his scorching rays as vessels of his inner fury, roaring like beasts, indicating emotional investment in his magic.",
+    "source_quote": "These are the vessels of my inner fury. They roar like fierce beasts as I hurl them toward the Ettin.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz\u2019s scorching rays strike",
+    "fact": "Daz hurls three spears of scorching flame at the Ettin, feeling empowered and invigorated as the flames roar like beasts.",
+    "source_quote": "Three spears of flame, raging hues of orange and red, appear above me. My skin prickles and sweats under their intense heat\u2014but I am not frightened. I feel invigorated. Empowered. These are the vessels of my inner fury. They roar like fierce beasts as I hurl them toward the Ettin.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz\u2019s targeting",
+    "fact": "Daz selects the Ettin as his primary target during the ambush.",
+    "source_quote": "He plans to use his darkness, and wants to know who I will target. I say the Ettin.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz\u2019s targeting of Ettin",
+    "fact": "Daz selects the Ettin as his primary target during the ambush, indicating strategic priority.",
+    "source_quote": "He plans to use his darkness, and wants to know who I will target. I say the Ettin.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "death as sleep debate",
+    "fact": "Pelek/Derro muses on whether death is a form of sleep.",
+    "source_quote": "There is this whole question about whether death is a form of sleep.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "derro avoidance behavior",
+    "fact": "A Derro avoids being seen by Narrak, as high-level clerics can kill easily.",
+    "source_quote": "He\u2019s trying to avoid being seen by Narrak... A high-level cleric can kill you very easily.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Derro\u2019s chant variation",
+    "fact": "The Derro perform a second chant during the ritual, with altered lines about the Deepking falling and Narrak\u2019s vision, after being corrected by Narrak.",
+    "source_quote": "Two heads! Two heads! A glorious sight! The Deepking falls into endless night! Narrak's vision, sharp and keen! The Prince of Chaos, always unseen!",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Derro\u2019s failed coordination",
+    "fact": "The Derro repeatedly fail to coordinate their chant and attacks, leading to missed strikes and ritual failure.",
+    "source_quote": "But the Derro only do so half heartedly... ... Another Derro rushes out of Zalthir\u2019s darkness and attacks Grygum, missing.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Derro\u2019s failed ritual",
+    "fact": "The Derro\u2019s ritual fails due to lack of vigor, mispronunciation, and interruption by the Ember Vanguard, despite Narrak\u2019s repeated commands for more passion.",
+    "source_quote": "But the Derro only do so half heartedly, at which point the one I assume is Narrak, like every choir director ever shouts, \u201cSilence, you blithering half-wits! More vigor! This city's doom, a ritual! Dig it!\"",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Derro\u2019s failed ritual",
+    "fact": "The Derro\u2019s ritual fails due to lack of vigor, poor coordination, and interruption by the Ember Vanguard.",
+    "source_quote": "But the Derro only do so half heartedly... ... You cannot stop the inevitable... the curse spreads!",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Derro\u2019s missed attacks",
+    "fact": "Two Derro attack Grygum and Zalthir in the darkness but miss their targets, indicating poor combat coordination.",
+    "source_quote": "One of the Derro rushes out of Zalthir\u2019s darkness, notices Grygum, and strikes him while chanting, \u201cYou shall die! You shall die!\u201d ... Another creature attacks Zalthir in the darkness. It took shrieks something intelligible. I don\u2019t hear the sound of weapons making contact with flesh...",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Derro\u2019s preoccupation with death dog",
+    "fact": "One Derro is distracted by a death dog, allowing the Ember Vanguard to infiltrate undetected.",
+    "source_quote": "There is a derro who, by all rights, should see us, but he seems to be preoccupied with a death dog, desperately trying hard not to be noticed.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Derro\u2019s preoccupation with death dog",
+    "fact": "One Derro is so preoccupied with avoiding a death dog that he fails to notice the Ember Vanguard\u2019s infiltration.",
+    "source_quote": "There is a derro who, by all rights, should see us, but he seems to be preoccupied with a death dog, desperately trying hard not to be noticed.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Ettin\u2019s resilience",
+    "fact": "The Ettin survives multiple attacks and smiles after being hit, suggesting it is corrupted or unnaturally resilient.",
+    "source_quote": "A guiding bolt from Grygum strikes the Ettin, and it groans and then smiles.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Ettin\u2019s survival despite damage",
+    "fact": "The Ettin survives multiple attacks, including a guiding bolt and Thorin\u2019s strike, and smiles after being hit, suggesting resilience or corruption.",
+    "source_quote": "A guiding bolt from Grygum strikes the Ettin, and it groans and then smiles. ... But Thorin has a better chance to strike the creature, and he does.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "fear dispelling method",
+    "fact": "Zalthir moves the darkness over Narrak, removing the source of fear and dispelling its effect.",
+    "source_quote": "He moves the darkness over Narrak. As the source of the Ember Vanguard\u2019s fear is no longer visible, they are no longer affected by it.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Fear Spell Activation",
+    "fact": "Narrak casts a fear spell using a white feather, inducing paralyzing terror in the Ember Vanguard; the spell\u2019s effect is broken when the caster is obscured by darkness, demonstrating dependency on line of sight.",
+    "source_quote": "He takes a white feather and points at Thorin, Grygum, and Zalthir, says the magic words, and the three members of the Ember Vanguard look terrified.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "fear spell cast by Narrak",
+    "fact": "Narrak casts a fear spell using a white feather, affecting Thorin, Grygum, and Zalthir, until Zalthir moves the darkness over him, breaking the effect.",
+    "source_quote": "He takes a white feather and points at Thorin, Grygum, and Zalthir, says the magic words, and the three members of the Ember Vanguard look terrified. ... I move the darkness over Narrak. As the source of the Ember Vanguard\u2019s fear is no longer visible, they are no longer affected by it.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "fear spell cast by Narrak",
+    "fact": "Narrak casts a fear spell using a white feather, affecting Thorin, Grygum, and Zalthir. The spell is negated when Zalthir moves his darkness over Narrak, removing the visual source of fear. The Ettin capitalizes on the fear to strike Thorin.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "fear spell effect",
+    "fact": "Narrak uses a white feather to cast fear on Thorin, Grygum, and Zalthir, causing them to become terrified.",
+    "source_quote": "says the magic words, and the three members of the Ember Vanguard look terrified.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum cast a guiding bolt that struck the Ettin, which groaned and then smiled.",
+    "source_quote": "A guiding bolt from Grygum strikes the Ettin, and it groans and then smiles.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum collected his winnings after Pelek/Derro remained tied up overnight.",
+    "source_quote": "And when we wake up, Pelek/Derro is still tied up. And I collect my winnings.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum told Daz that they want to stop the ritual, but their spells are almost finished.",
+    "source_quote": "Grygum turns to me, \"I know we want to stop this ritual, but my spells are almost finished.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum vomited forth a wave of acid after a violent heaving.",
+    "source_quote": "I look at him as he straightens and vomits forth a wave of acid.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum\u2019s acid vomit",
+    "fact": "Grygum vomits acid after casting a spell, an unintended and repulsive side effect.",
+    "source_quote": "I look at him as he straightens and vomits forth a wave of acid. This is not a spell I wish to cast.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum\u2019s acid vomit as magical side effect",
+    "fact": "Grygum\u2019s acid vomit is not a spell he casts, but an involuntary side effect of his incantation, which he finds repulsive.",
+    "source_quote": "I look at him as he straightens and vomits forth a wave of acid. This is not a spell I wish to cast.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum\u2019s divine insight",
+    "fact": "Grygum receives divine insight that Hgraam can reverse the ill effects on the Stone Giants, guiding his decision-making.",
+    "source_quote": "We are told that Hgraam should be able to reverse whatever ill effects on the Stone Giants.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum\u2019s guiding bolt",
+    "fact": "Grygum casts a guiding bolt at the Ettin, which groans and smiles, suggesting it is not as effective as intended.",
+    "source_quote": "A guiding bolt from Grygum strikes the Ettin, and it groans and then smiles. I don\u2019t think the spell hurt him as badly as we need.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "infiltration of cult cavern",
+    "fact": "The Ember Vanguard sneaks into the cultist cavern undetected, exploiting a Derro\u2019s distraction by a death dog. They observe the ritual setup, including the two-headed stone giant statue and the Ettin guard, before initiating their assault.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "JimJar",
+    "fact": "JimJar bet Grygum that his knots wouldn\u2019t hold.",
+    "source_quote": "JimJar again offers one of his silly bets. He bets me that my knots won\u2019t hold.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "JimJar\u2019s bet loss",
+    "fact": "JimJar bets Grygum his knots won\u2019t hold on Pelek, but loses when Pelek remains bound overnight.",
+    "source_quote": "JimJar again offers one of his silly bets. He bets me that my knots won\u2019t hold. ... And when we wake up, Pelek/Derro is still tied up. And I collect my winnings.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "knot wager",
+    "fact": "JimJar bets Grygum that his knots won\u2019t hold on Pelek/Derro.",
+    "source_quote": "He bets me that my knots won\u2019t hold.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Maximillian\u2019s Earthen Grasp",
+    "fact": "The caster uses Maximillian\u2019s Earthen Grasp to trap Narrak in the darkness, attempting to sever the ritual\u2019s source; the spell triggers a final curse declaration, confirming the ritual\u2019s inevitability.",
+    "source_quote": "I cast Maximillian\u2019s Earthen Grasp on where I think he is.\", \"Narrak screams in rage - 'You cannot stop the inevitable... the curse spreads!'",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Maximillian\u2019s Earthen Grasp on Narrak",
+    "fact": "Daz casts Maximillian\u2019s Earthen Grasp on Narrak while he is hidden in darkness, trapping him and causing him to scream about an inevitable curse.",
+    "source_quote": "And so I cast Maximillian\u2019s Earthen Grasp on where I think he is. ... Narrak screams in rage - \u201cYou cannot stop the inevitable... the curse spreads!\u201d",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "maximillian\u2019s earthen grasp spell",
+    "fact": "Daz casts Maximillian\u2019s Earthen Grasp on where he thinks Narrak is.",
+    "source_quote": "I cast Maximillian\u2019s Earthen Grasp on where I think he is.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "myconid communication method",
+    "fact": "The Myconid communicates through spores, allowing silent communication in certain tactical situations.",
+    "source_quote": "The spores allow us to communicate in certain tactical situations silently",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Myconid\u2019s emotional manipulation",
+    "fact": "The Myconid uses emotional appeals and guilt to pressure Zalthir into helping Rump-a-dump, claiming he doesn\u2019t listen to her.",
+    "source_quote": "You don\u2019t want to help my friends, and so why should I help you? ... Zalthir, you never listen to anything I say. It\u2019s not fair.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Myconid\u2019s emotional manipulation",
+    "fact": "The Myconid uses guilt and emotional appeals to pressure Zalthir into helping Rump-a-dump.",
+    "source_quote": "You don\u2019t want to help my friends, and so why should I help you? ... Zalthir, you never listen to anything I say. It\u2019s not fair.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Myconid\u2019s plea for Rump-a-dump",
+    "fact": "The Myconid repeatedly pleads with Zalthir to help Rump-a-dump, insisting the group is not an enemy and that killing is unnecessary. Zalthir grows exasperated and silences her by invoking parental advice, leading her to fall asleep.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Myconid\u2019s sleep",
+    "fact": "The Myconid falls asleep after Zalthir\u2019s frustration and reference to parental advice, ending her persistent interruptions.",
+    "source_quote": "And the creature falls asleep.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Myconid\u2019s sleep",
+    "fact": "The Myconid falls asleep after Zalthir\u2019s frustration and reference to parental advice.",
+    "source_quote": "And the creature falls asleep.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Myconid\u2019s zombie conversion claim",
+    "fact": "The Myconid claims they convert dead enemies into zombies, and insists Rump-a-dump would never allow such a fate for allies.",
+    "source_quote": "We have this process that allows us to convert our dead enemies into zombies. ... Rump-a-dump would never let them do that!",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Narrak",
+    "fact": "Narrak screamed in rage, \"You cannot stop the inevitable... the curse spreads!\" as he was trapped.",
+    "source_quote": "Narrak screams in rage - \"You cannot stop the inevitable... the curse spreads!\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Narrak",
+    "fact": "Narrak shouted at the Derro to chant with more vigor, insisting the ritual would not work without passion and correct delivery.",
+    "source_quote": "Silence, you blithering half-wits! More vigor! This city's doom, a ritual! Dig it!",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Narrak",
+    "fact": "Narrak shouted, \"Demogorgon\u2019s madness flows through me! You will embrace it or break trying!\" as the battle began.",
+    "source_quote": "From inside it, Narrak shouts - Demogorgon\u2019s madness flows through me! You will embrace it or *break *trying!",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Narrak",
+    "fact": "Narrak shouted, \"What\u2019s going on here!\" as the battle erupted.",
+    "source_quote": "Narrak shouts, \"What\u2019s going on here!\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Narrak",
+    "fact": "Narrak used a white feather to cast fear on Thorin, Grygum, and Zalthir, causing them to look terrified.",
+    "source_quote": "He takes a white feather and points at Thorin, Grygum, and Zalthir, says the magic words, and the three members of the Ember Vanguard look terrified.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Narrak\u2019s curse declaration",
+    "fact": "Narrak declares that the curse spreads despite being trapped, implying the ritual\u2019s effects are irreversible.",
+    "source_quote": "You cannot stop the inevitable... the curse spreads!",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Narrak\u2019s emergence from darkness",
+    "fact": "Narrak emerges from Zalthir\u2019s darkness and casts fear, then is re-trapped by Daz\u2019s Maximillian\u2019s Earthen Grasp.",
+    "source_quote": "And then Narrak emerges and shouts, \u201cI will use fear!\u201d ... And so I cast Maximillian\u2019s Earthen Grasp on where I think he is. ... Narrak screams in rage...",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Narrak\u2019s fear spell",
+    "fact": "Narrak casts fear using a white feather, affecting Thorin, Grygum, and Zalthir.",
+    "source_quote": "He takes a white feather and points at Thorin, Grygum, and Zalthir, says the magic words, and the three members of the Ember Vanguard look terrified.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Narrak\u2019s fear spell cast",
+    "fact": "Narrak casts fear using a white feather, affecting three members of the Ember Vanguard until the source is obscured.",
+    "source_quote": "He takes a white feather and points at Thorin, Grygum, and Zalthir, says the magic words, and the three members of the Ember Vanguard look terrified.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "narrak\u2019s leadership style",
+    "fact": "Narrak behaves like a choir director, demanding vigor and passion in ritual chanting.",
+    "source_quote": "like every choir director ever shouts, 'Silence, you blithering half-wits! More vigor!'",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Narrak\u2019s ritual chant repeated",
+    "fact": "The ritual chant is repeated in two forms: the original Demogorgon invocation and a later variation with new lines about the Deepking and Narrak\u2019s vision.",
+    "source_quote": "Hear me, you two-headed fools! ... Two heads! Two heads! A glorious sight! The Deepking falls into endless night! Narrak's vision, sharp and keen!",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Narrak\u2019s ritual chant variation",
+    "fact": "The ritual chant is repeated in two forms: the original Demogorgon invocation and a later variation with new lines.",
+    "source_quote": "Hear me, you two-headed fools! ... Two heads! Two heads! A glorious sight! The Deepking falls into endless night! Narrak's vision, sharp and keen!",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Narrak\u2019s ritual failure",
+    "fact": "Narrak\u2019s ritual fails due to Derro incompetence, magical interference, and physical attack, despite his repeated commands for vigor.",
+    "source_quote": "But the Derro only do so half heartedly... ... You cannot stop the inevitable... the curse spreads!",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Narrak\u2019s running commentary",
+    "fact": "Narrak provides continuous running commentary during the battle, even as the ritual collapses, declaring the power of Demogorgon and mocking the attacks.",
+    "source_quote": "Fire is nothing compared to the awesome power of Demogorgon! ... What\u2019s going on here! ... More vigor! This city's doom needs a ritual. Dig it!",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Narrak\u2019s running commentary during battle",
+    "fact": "Narrak continues to speak in a theatrical, dramatic tone even during active combat, undermining the seriousness of the situation.",
+    "source_quote": "Fire is nothing compared to the awesome power of Demogorgon! ... What\u2019s going on here! ... More vigor! This city's doom needs a ritual. Dig it!",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Narrak\u2019s running commentary during battle",
+    "fact": "Narrak continues to speak in a theatrical, dramatic tone even during active combat.",
+    "source_quote": "Fire is nothing compared to the awesome power of Demogorgon! ... What\u2019s going on here! ... More vigor! This city's doom needs a ritual. Dig it!",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Pelek/Derro",
+    "fact": "Pelek/Derro muttered about not having had a good night's sleep and questioned whether death is a form of sleep.",
+    "source_quote": "I haven\u2019t had a good night's sleep in ages. Although it\u2019s unclear I if I am sleeping \u2026 There is this whole question about whether death is a form of sleep. I suppose I will find out.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Pelek/Derro restraint",
+    "fact": "The party ties up Pelek/Derro after Daz warns that trusting him could lead to betrayal, referencing Buppido\u2019s past murder. The restraint is successful, and Pelek remains bound overnight, muttering on death and sleep.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Pelek\u2019s binding",
+    "fact": "Pelek is bound by the group after concern he might lose control of the Derro body, and remains tied up overnight.",
+    "source_quote": "Daz, however, explains that there is no such danger. And that they would all be safer with the ghost tied up. ... And when we wake up, Pelek/Derro is still tied up.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Pelek\u2019s binding confirmed",
+    "fact": "Pelek remains bound overnight, confirming the effectiveness of Grygum\u2019s knots and the success of the group\u2019s precaution.",
+    "source_quote": "And when we wake up, Pelek/Derro is still tied up. And I collect my winnings.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Pelek\u2019s binding confirmed",
+    "fact": "Pelek remains bound overnight, confirming the effectiveness of Grygum\u2019s knots.",
+    "source_quote": "And when we wake up, Pelek/Derro is still tied up. And I collect my winnings.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Pelek\u2019s existential reflection",
+    "fact": "Pelek reflects on whether death is a form of sleep, introducing philosophical ambiguity about his state of being.",
+    "source_quote": "There is this whole question about whether death is a form of sleep. I suppose I will find out.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Pelek\u2019s existential uncertainty",
+    "fact": "Pelek expresses uncertainty about whether he is sleeping or dead, blurring the line between life, death, and possession.",
+    "source_quote": "Although it\u2019s unclear if I am sleeping \u2026 There is this whole question about whether death is a form of sleep. I suppose I will find out.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Pelek\u2019s sleep debate",
+    "fact": "Pelek reflects on whether death is a form of sleep while being untied, introducing philosophical uncertainty.",
+    "source_quote": "There is this whole question about whether death is a form of sleep. I suppose I will find out.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "ritual chant content",
+    "fact": "The chant includes: 'Hear me, you two-headed fools! His madness flows, our city drools! From Whorlstone's depths, the spirals turn! For Demogorgon, the city will burn! More heads for grafting! More for the pile! Gracklstugh trembles, defiled.'",
+    "source_quote": "\u201cHear me, you two-headed fools! His madness flows, our city drools! From Whorlstone's depths, the spirals turn! For Demogorgon, the city will burn! More heads for grafting! More for the pile! Gracklstugh trembles, defiled",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "ritual chant origin",
+    "fact": "The ritual chant was taken from the book in the chief cultist's hands.",
+    "source_quote": "the book in the chief cultist's hands.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "ritual chant performed by Derro",
+    "fact": "The Derro chant a ritual invoking Demogorgon, with lines about madness, city drooling, spirals turning, and grafting more heads, as part of a failed ritual interrupted by the Ember Vanguard.",
+    "source_quote": "Hear me, you two-headed fools! His madness flows, our city drools! From Whorlstone's depths, the spirals turn! For Demogorgon, the city will burn! More heads for grafting! More for the pile!",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "ritual chant variation",
+    "fact": "The chant includes: 'Two heads! Two heads! A glorious sight! The Deepking falls into endless night! Narrak's vision, sharp and keen! The Prince of Chaos, always unseen!'",
+    "source_quote": "Two heads! Two heads! A glorious sight! The Deepking falls into endless night! Narrak's vision, sharp and keen! The Prince of Chaos, always unseen!",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "ritual failure condition",
+    "fact": "The ritual will not work if the Derro cannot say their lines with fervor.",
+    "source_quote": "the ritual will not work if we can\u2019t say our lines. And with fervor.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Ritual of Demogorgon",
+    "fact": "The cult performs a ritual invoking Demogorgon using a chant that demands the grafting of additional heads onto Stone Giants. The ritual\u2019s effects are believed to have altered a Stone Giant in the Dark Lake District. The chant is sourced from a book, and its success is implied by the presence of the statue and the Derro\u2019s chanting. The group observes the ritual but delays intervention, trusting Hgraam to reverse its effects.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Ritual of the Two-Headed",
+    "fact": "A cult ritual is being performed to transform giants into two-headed monsters, involving synchronized chanting, positional alignment, and the accumulation of severed heads; failure to perform with vigor risks collapse of the ritual\u2019s power.",
+    "source_quote": "We have successfully converted another of Hgraam\u2019s giants to a two-headed monster.\", \"Now we shall convert one more, and by golly, they will lay waste to Gracklstugh!",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "ritual performance",
+    "fact": "The cult performs a ritual to graft a second head onto a Stone Giant, using a chanted incantation, Derro acolytes, and a stone statue as a focus. The ritual is disrupted by the Ember Vanguard\u2019s attack, causing confusion and failure in performance. Narrak blames the Derro\u2019s lack of vigor.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "scorching rays spell",
+    "fact": "Daz casts three spears of flame, raging hues of orange and red, toward the Ettin.",
+    "source_quote": "Three spears of flame, raging hues of orange and red, appear above me... I hurl them toward the Ettin .",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "summoning ritual effect",
+    "fact": "They are performing some kind of summoning ritual to make the Stone Giants sprout a second head.",
+    "source_quote": "They are performing some kind of summoning ritual to make the Stone Giants sprout a second head.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin growled that they need to protect the giants.",
+    "source_quote": "Thorin growls, \"We need to protect the giants.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin struck the Ettin with his weapon after it had been weakened.",
+    "source_quote": "But Thorin has a better chance to strike the creature, and he does.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin\u2019s successful strike",
+    "fact": "Thorin strikes the Ettin with success after the fear spell is broken, contributing to the creature\u2019s defeat.",
+    "source_quote": "But Thorin has a better chance to strike the creature, and he does.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin\u2019s successful strike on Ettin",
+    "fact": "Thorin lands a successful strike on the Ettin after the fear spell is broken, contributing to its defeat.",
+    "source_quote": "But Thorin has a better chance to strike the creature, and he does.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin\u2019s successful strike on Ettin",
+    "fact": "Thorin lands a successful strike on the Ettin after the fear spell is broken.",
+    "source_quote": "But Thorin has a better chance to strike the creature, and he does.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir asked Daz how they would carry the giant statue, and Daz showed him it was only two feet tall.",
+    "source_quote": "Zalthir turns to me and asks, \"But how will we carry the giant statue? That\u2019s massive.\" I look at him confused, and I show him the statue on the platform.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir moved the darkness over Narrak, removing the source of the fear effect and freeing the Ember Vanguard.",
+    "source_quote": "Zalthir has a brilliant ploy. He moves the darkness over Narrak. As the source of the Ember Vanguard\u2019s fear is no longer visible, they are no longer affected by it.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir shouted that the circle had a madness effect on those who entered it, which his monk training allowed him to resist.",
+    "source_quote": "There\u2019s some kind of effect that the circle has on those who enter it. Some kind of madness gripped my mind, but my monk training allowed me to stop it. Be careful!",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir told the Ember Vanguard that the Derro were bunched up and it was time to attack.",
+    "source_quote": "Zalthir turns to the Ember Vanguard, \"They are bunched up; it\u2019s time to attack.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir used his darkness to cover all the Derro and asked Daz who to target.",
+    "source_quote": "He plans to use his darkness, and wants to know who I will target. I say the Ettin. He nods and soon all the derro are covered in his magical darkness.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s darkness concealment",
+    "fact": "Zalthir casts darkness over the Derro, concealing them from view and enabling the Ember Vanguard to launch a surprise attack.",
+    "source_quote": "He plans to use his darkness, and wants to know who I will target. I say the Ettin. He nods and soon all the derro are covered in his magical darkness.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s darkness manipulation",
+    "fact": "Zalthir manipulates his darkness spell to counter Narrak\u2019s fear spell by obscuring the caster\u2019s visibility.",
+    "source_quote": "I move the darkness over Narrak. As the source of the Ember Vanguard\u2019s fear is no longer visible, they are no longer affected by it.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s darkness used tactically",
+    "fact": "Zalthir uses darkness not only for concealment but as a tactical tool to disrupt Narrak\u2019s fear spell by moving it over the caster.",
+    "source_quote": "I move the darkness over Narrak. As the source of the Ember Vanguard\u2019s fear is no longer visible, they are no longer affected by it.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s final realization",
+    "fact": "Zalthir realizes the statue is only two feet tall after being shown it, correcting his initial assumption of its size.",
+    "source_quote": "I look at him confused, and I show him the statue on the platform. He sighs as he realizes it is only 2 feet tall.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s fire breath",
+    "fact": "Zalthir breathes fire into his darkness, but is disappointed with the outcome.",
+    "source_quote": "Zalthir rushes into his darkness and breathes fire. He seems disappointed with the outcome.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s fire breath disappointment",
+    "fact": "Zalthir is disappointed with the outcome of his fire breath in the darkness, suggesting it was ineffective against the Derro.",
+    "source_quote": "Zalthir rushes into his darkness and breathes fire. He seems disappointed with the outcome.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s fire breath in darkness",
+    "fact": "Zalthir breathes fire into his magical darkness, targeting the concealed Derro, but is disappointed with the outcome.",
+    "source_quote": "Zalthir rushes into his darkness and breathes fire. He seems disappointed with the outcome.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s meditation interrupted",
+    "fact": "Zalthir attempts to meditate but is interrupted by the Myconid, who insists on talking about Rump-a-dump and the nature of myconid-zombie conversion.",
+    "source_quote": "I look forward to meditating when my thoughts are interrupted. ... \u201cZalthir, you never listen to anything I say. It\u2019s not fair. Why don\u2019t you listen to me!\u201d",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s meditation interrupted by Myconid",
+    "fact": "Zalthir\u2019s attempt at meditation is persistently interrupted by the Myconid\u2019s emotional demands about Rump-a-dump and non-violence.",
+    "source_quote": "I look forward to meditating when my thoughts are interrupted. ... \u201cZalthir, you never listen to anything I say. It\u2019s not fair. Why don\u2019t you listen to me!\u201d",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s monk training",
+    "fact": "Zalthir\u2019s monk training allows him to resist the madness induced by the ritual circle.",
+    "source_quote": "There\u2019s some kind of effect that the circle has on those who enter it. Some kind of madness gripped my mind, but my monk training allowed me to stop it. Be careful!",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s monk training against madness",
+    "fact": "Zalthir\u2019s monk training allows him to resist the madness induced by the ritual circle\u2019s effect.",
+    "source_quote": "There\u2019s some kind of effect that the circle has on those who enter it. Some kind of madness gripped my mind, but my monk training allowed me to stop it. Be careful!",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s realization of statue size",
+    "fact": "Zalthir initially believes the statue of the stone giant is massive, but is corrected when shown it is only two feet tall.",
+    "source_quote": "I look at him confused, and I show him the statue on the platform. He sighs as he realizes it is only 2 feet tall.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s statue realization",
+    "fact": "Zalthir realizes the statue is only two feet tall after being shown it.",
+    "source_quote": "I look at him confused, and I show him the statue on the platform. He sighs as he realizes it is only 2 feet tall.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "zombie conversion process",
+    "fact": "The Myconids have a process that allows them to convert their dead enemies into zombies.",
+    "source_quote": "we have this process that allows us to convert our dead enemies into zombies.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Cult of Demogorgon",
+    "fact": "The Cult of Demogorgon, led by Narrak, performs rituals to graft second heads onto Stone Giants using Derro acolytes. Their goal is to empower Demogorgon by creating monstrous avatars to destroy Gracklstugh. They rely on chanted incantations, fear magic, and ritual precision, and are deeply hierarchical with Narrak as an authoritarian choir director.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Derro",
+    "fact": "The Derro are a subterranean cult faction devoted to Demogorgon, performing ritualistic transformations and chants to empower their city\u2019s doom; they are obedient to Narrak but lack discipline, requiring constant correction.",
+    "source_quote": "He motions to all of the Derro to surround him...\", \"The Derro groan and gather around him.\", \"The Derro only do so half heartedly...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Ember Vanguard",
+    "fact": "The Ember Vanguard is a cohesive adventuring group focused on infiltrating and destroying the Demogorgon-worshipping cult. They use stealth, magic, and coordinated attacks. Members include Daz, Zalthir, Grygum, Thorin, and JimJar. They are distrustful of past betrayals and rely on divine intervention (Hgraam) and tactical patience.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Ember Vanguard",
+    "fact": "The Ember Vanguard is a group of warriors bound by magical fear and ritual alignment with Narrak\u2019s cult; they are susceptible to psychological manipulation and serve as both targets and unwitting enforcers of the ritual\u2019s power.",
+    "source_quote": "the three members of the Ember Vanguard look terrified.\", \"They are bunched up; it\u2019s time to attack.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Myconid Circle",
+    "fact": "A group of sentient fungi led by the Myconid who communicate via spores. They convert dead enemies into zombie-like entities and view themselves as nonviolent. They are emotionally invested in Rump-a-dump and seek reconciliation, but are misunderstood and feared by the Ember Vanguard.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Buppido\u2019s Lair",
+    "fact": "Buppido\u2019s Lair is a grim, bone-strewn site where the Ember Vanguard has previously faced betrayal. It serves as their base of operations and is referenced as the origin of past trauma, particularly the death of a party member by Buppido.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Buppido\u2019s lair",
+    "fact": "Buppido\u2019s lair is the group\u2019s former base, now abandoned and grim, filled with dead bones and an altar to a demonic power. It is referenced as the site of a past betrayal where Buppido killed one of their group. The group departs from here to return to the cultist cavern.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Buppido\u2019s lair",
+    "fact": "Buppido\u2019s lair is the previous stronghold of the cult, from which the Ember Vanguard departs before returning to the cultist cavern.",
+    "source_quote": "And so we head out from Buppido\u2019s lair and find ourselves once again outside of the cultist cavern.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Cultist Cavern",
+    "fact": "The Cultist Cavern is a hidden chamber beneath Buppido\u2019s lair where the Demogorgon cult performs its rituals. It contains a platform with a stone giant statue, a group of chanting Derro, an Ettin guard, and a head cultist named Narrak. The cavern is poorly lit and filled with the stench of brimstone.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Cultist Cavern",
+    "fact": "The cultist cavern is the site of repeated ritual activity targeting Demogorgon and the grafting of heads onto Stone Giants. It contains a central platform with a two-headed stone giant statue, five chanting Derro, an Ettin, a death dog, and a chief cultist holding the ritual book. The party has infiltrated it stealthily multiple times, with Derro often distracted or preoccupied. It is the focal point of the current mission to end the cult.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "cultist cavern",
+    "fact": "The cultist cavern is the site of the ritual, where Derro chant around a platform with a two-headed stone giant statue, and where the Ember Vanguard sneaks in undetected.",
+    "source_quote": "And so we head out from Buppido\u2019s lair and find ourselves once again outside of the cultist cavern. And once again, we have managed to sneak into the room.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "cultist cavern location",
+    "fact": "The cultist cavern is located outside of Buppido\u2019s lair.",
+    "source_quote": "outside of the cultist cavern",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "darkness effect zone",
+    "fact": "Zalthir\u2019s magical darkness envelops the Derro and obscures Narrak\u2019s vision.",
+    "source_quote": "all the derro are covered in his magical darkness",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "derro distraction target",
+    "fact": "A Derro is preoccupied with a death dog, desperately trying hard not to be noticed.",
+    "source_quote": "preoccupied with a death dog, desperately trying hard not to be noticed",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "final resting place",
+    "fact": "The final resting place is Buppido\u2019s lair, a grim place full of dead bones and an altar to some demonic power.",
+    "source_quote": "We are once again at the final resting place of Buppido. It\u2019s a grim place, full of dead bones, and an altar to some demonic power or some mad idea.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh is the cult city targeted for destruction by the ritual; it is the ultimate goal of the two-headed transformation and the locus of the cult\u2019s apocalyptic ambitions.",
+    "source_quote": "they will lay waste to Gracklstugh!",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Monastery",
+    "fact": "The monastery is referenced by Zalthir as a place where children were taught silence. He uses it as a metaphor to express his frustration with the Myconid\u2019s incessant chatter and his desire for peace.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "platform",
+    "fact": "The platform holds a statue of a stone giant with a second head emerging from it, and is surrounded by Derro during the ritual.",
+    "source_quote": "There is a statue of another two-headed stone giant. ... They all move to their positions. ... A statue of a stone giant with a second head emerging from it.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "stone giant statue height",
+    "fact": "The statue of a stone giant with a second head emerging from it is only 2 feet tall.",
+    "source_quote": "it is only 2 feet tall",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Whorlstone's Depths",
+    "fact": "Whorlstone's Depths is the mythic source of Demogorgon\u2019s power, where spiraling rituals originate and madness flows upward into the cult\u2019s city; it is referenced in chant as the origin of corruption.",
+    "source_quote": "From Whorlstone's depths, the spirals turn!",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "death dog",
+    "fact": "A death dog is present in the cultist cavern, and one Derro is preoccupied with trying not to be noticed by it.",
+    "source_quote": "There is a derro who, by all rights, should see us, but he seems to be preoccupied with a death dog, desperately trying hard not to be noticed.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Death Dog",
+    "fact": "A death dog is present in the cultist cavern, distracting a Derro who is desperately trying not to be noticed. The party successfully sneaks past because the Derro is occupied with the creature, allowing them to enter undetected.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Demogorgon\u2019s Influence",
+    "fact": "Demogorgon\u2019s presence manifests as madness, spiraling rituals, and physical corruption; its influence warps perception, causes acid vomiting, and empowers the cult\u2019s rituals with terrifying, reality-bending effects.",
+    "source_quote": "His madness flows, our city drools!\", \"Demogorgon\u2019s madness flows through me!\", \"the curse spreads!",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Derro",
+    "fact": "Derro are the chanting cultists who perform the ritual, are concealed by Zalthir\u2019s darkness, attack Grygum and Zalthir, and are berated by Narrak for lack of vigor.",
+    "source_quote": "Five Derro are chanting. ... One of the Derro raises a hand, and asks where, and the head cultist shouts, \u201cOVER THERE!!!\u201d ... Another Derro rushes out of Zalthir\u2019s darkness and attacks Grygum, missing.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "derro count",
+    "fact": "Five Derro are chanting.",
+    "source_quote": "five Derro are chanting",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Ettin",
+    "fact": "An Ettin is present near the cult\u2019s central platform, positioned next to the obvious boss. It is observed by Daz and mentioned as part of the ritual\u2019s defensive or symbolic arrangement. It is not directly engaged but is noted as a significant threat in the chamber.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Ettin",
+    "fact": "The Ettin is a two-headed creature targeted by Daz, struck by Thorin and Grygum, and attacks the frightened Thorin with its morning star.",
+    "source_quote": "I say the Ettin. ... The Ettin raises his battle axe and strikes the frightened Thorin, and misses, but the morning star hits. ... A guiding bolt from Grygum strikes the Ettin, and it groans and then smiles.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "ettin count",
+    "fact": "An Ettin is present next to the obvious boss.",
+    "source_quote": "an Ettin .",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Stone Giant (two-headed statue)",
+    "fact": "A statue of a two-headed stone giant, two feet tall, stands at the center of the ritual platform. It is the focal point of the cult\u2019s summoning ritual, which seeks to graft additional heads onto Stone Giants. Daz and Grygum link it to a prior encounter with a Stone Giant in the Dark Lake District. It is not alive but represents the ritual\u2019s intended effect.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a cleric of the Ember Vanguard who understands cult tactics from Lolth's priesthood and targets the Ettin during the ritual assault. He casts Scorching Rays and Maximilian\u2019s Earthen Grasp, and recognizes the Derro's fear of Narrak as analogous to Lolth's priestess dynamics.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is leading the group through another ritual targeting a demon, having witnessed the successful use of the ritual by the Drow. He observes the acrid stench of brimstone, eerie campfire atmosphere, and five Derro chanting in harmony. He identifies the central statue as a two-headed stone giant and correctly links it to a prior encounter with a Stone Giant in the Dark Lake District. He cautions Thorin against rushing in and notes the ritual\u2019s source: a book in the chief cultist\u2019s hands. He later hears the chant invoking Demogorgon and recognizes the ritual\u2019s intent: grafting additional heads. He is aware that Grygum\u2019s spells are nearly ready and that Hgraam may reverse the effects on Stone Giants. He is amused when Zalthir misunderstands the size of the statue, realizing it is only two feet tall.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is the one who targets the Ettin during the ambush, and recognizes the behavior of Derro avoiding Narrak as similar to Priestesses of Lolth silencing their subordinates.",
+    "source_quote": "I finally understand why that Derro, who should have seen us, has not noticed us. He\u2019s trying to avoid being seen by Narrak. I\u2019ve seen that before, when the various Priestesses of Lolth would get angry, and everyone tried hard to be invisible.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Demogorgon",
+    "fact": "Demogorgon is the demon invoked in the ritual chant, described as the Prince of Chaos whose madness flows through the cultists.",
+    "source_quote": "For Demogorgon, the city will burn! ... Demogorgon\u2019s madness flows through me!",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Derro",
+    "fact": "A Derro is present in the cultist cavern, preoccupied with a death dog and failing to notice the party\u2019s infiltration. He is possessed by Pelek, a ghost who fears losing control of him. The Derro\u2019s body is used as a vessel, and his actions are under the influence of Pelek\u2019s consciousness. He is restrained with knots that hold, as confirmed the next day.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Derro",
+    "fact": "A group of Derro chant the ritual incantation for Demogorgon, fail to perform with vigor, and are controlled by Narrak. They are blinded by Zalthir\u2019s darkness, attack Grygum and Zalthir, miss their strikes, and are overwhelmed by the Ember Vanguard\u2019s assault. One Derro is preoccupied avoiding Narrak\u2019s notice.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Ettin",
+    "fact": "The Ettin is a two-headed monstrosity guarding the ritual platform, targeted by Daz during the attack. It wields a battle axe and morning star, is struck by Grygum\u2019s guiding bolt and Thorin\u2019s attack, and survives the initial assault with a smile after being damaged.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh is the city targeted by the cult\u2019s ritual, which they intend to lay waste to after converting more Stone Giants.",
+    "source_quote": "Now we shall convert one more, and by golly, they will lay waste to Gracklstugh!",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a cleric of the Ember Vanguard who prepares spells to counter the cult\u2019s effects, ties up Pelek/Derro, and later vomits acid in a violent reaction to ritual magic. He casts a guiding bolt at the Ettin, is affected by Narrak\u2019s fear spell, and is the target of multiple Derro attacks. He collects a bet win from JimJar over knot durability.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a cleric or divine caster who channels acid through violent ritual vomiting after being attacked; he survives lethal trauma and responds with potent, unorthodox magic, suggesting deep ties to chaotic or necrotic forces.",
+    "source_quote": "Grygum moaning in pain, then in incantation. There is a violent heaving. I look at him as he straightens and vomits forth a wave of acid.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is struck by a Derro, vomits acid after incantation, casts a guiding bolt at the Ettin, and is affected by Narrak\u2019s fear spell before being freed by Zalthir\u2019s darkness.",
+    "source_quote": "One of the Derro rushes out of Zalthir\u2019s darkness, notices Grygum, and strikes him while chanting, \u201cYou shall die! You shall die!\u201d ... I look at him as he straightens and vomits forth a wave of acid. A guiding bolt from Grygum strikes the Ettin, and it groans and then smiles.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is the one who notices the need to stop the ritual, but his spells are almost finished, and he later receives divine insight that Hgraam can reverse the ill effects on the Stone Giants.",
+    "source_quote": "Grygum turns to me, \u201cI know we want to stop this ritual, but my spells are almost finished.\u201d ... We are told that Hgraam should be able to reverse whatever ill effects on the Stone Giants.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is uncertain about the safety of Pelek/Derro and questions whether the ghost is a threat.",
+    "source_quote": "At first, I am confused and uncertain. More to the point, are we safe with this ghost?",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum prepares to pray when Pelek, now possessing a Derro body, asks to be tied up out of fear he might lose control and the Derro might kill them. Grygum is uncertain of their safety with the ghost. Daz reassures him, citing past betrayal by Buppido that resulted in a group member\u2019s death. As they tie Pelek up, JimJar makes a bet that the knots won\u2019t hold. The next day, Pelek remains tied, and Grygum collects his winnings. Upon untying him, Pelek reflects on the ambiguity of death and sleep, sparking a philosophical impulse in Grygum that is cut short by the need to prepare for battle. Grygum later reassures Thorin that Hgraam can handle the new two-headed stone giant statue, and their mission remains to end the cult.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Hgraam",
+    "fact": "Hgraam is a divine agent of the Ember Vanguard believed capable of reversing the ill effects of the cult\u2019s ritual on Stone Giants. Grygum and the party rely on Hgraam\u2019s potential to undo the grafting magic, though Hgraam does not appear directly.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Hgraam",
+    "fact": "Hgraam is a member of the group with the ability to reverse the ill effects inflicted upon Stone Giants by the cult\u2019s ritual. Daz and Grygum both recognize this ability, and it is cited as the reason they can delay immediate action against the statue. It is implied Hgraam\u2019s magic will mitigate the ritual\u2019s grafting of additional heads.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Hgraam",
+    "fact": "Hgraam is referenced as a divine entity who can reverse the ill effects on the Stone Giants, invoked by Grygum\u2019s divine insight.",
+    "source_quote": "We are told that Hgraam should be able to reverse whatever ill effects on the Stone Giants.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "JimJar",
+    "fact": "JimJar bets Grygum that his knots on Pelek will not hold, and later loses the bet when Pelek remains tied up the next day.",
+    "source_quote": "JimJar again offers one of his silly bets. He bets me that my knots won\u2019t hold. ... And when we wake up, Pelek/Derro is still tied up. And I collect my winnings.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "JimJar",
+    "fact": "JimJar is a member of the Ember Vanguard who places bets on mundane outcomes, including whether Grygum\u2019s knots will hold. He is the source of comic relief and distraction during tense moments.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "JimJar",
+    "fact": "JimJar is a recurring member of the group who makes frivolous bets. He bets Grygum that the knots restraining Pelek/Derro will not hold. His behavior is described as silly, and he is present during the tying of Pelek. Grygum wins the bet the next day.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Myconid",
+    "fact": "A Myconid communicates telepathically with Zalthir about Rump-a-dump, a dissatisfied member of her circle. She insists on nonviolence, equates her kind with zombies, and claims the group can convert enemies into undead. Zalthir grows frustrated with her persistence and eventually silences her by invoking parental advice.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Myconid",
+    "fact": "The Myconid is a persistent, emotionally driven creature who communicates through spores. She insists on resolving the matter of Rump-a-dump, a dissatisfied member of her circle whom she believes is being mistreated. She claims no one should be killed because the targets are like her, and reveals her kind\u2019s ability to convert dead enemies into zombies. She becomes upset when Zalthir expresses fear of becoming one, accusing him of not helping her friends. She eventually falls asleep after Zalthir invokes parental wisdom, leaving him to reflect on her behavior.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Myconid",
+    "fact": "The Myconid speaks to Zalthir about Rump-a-dump, insists on non-violence toward her kind, and claims they convert enemies into zombies, before falling asleep after Zalthir\u2019s frustration.",
+    "source_quote": "The childlike voice of the Myconid. ... \u201cRump-a-dump would never let them do that! You don\u2019t want to help my friends, and so why should I help you?\u201d ... And the creature falls asleep.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Narrak",
+    "fact": "Narrak is the choir-like head cultist who directs the Derro\u2019s ritual, uses fear magic, and is ultimately trapped by Daz\u2019s spell.",
+    "source_quote": "Silence, you blithering half-wits! More vigor! This city's doom, a ritual! Dig it! ... I will use fear! ... You cannot stop the inevitable... the curse spreads!",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Narrak",
+    "fact": "Narrak is the head cultist leading a ritual to transform giants into two-headed monsters, demanding fervor and precision in chant and movement; he is the emotional and magical core of the Derro cult, and his madness drives their actions.",
+    "source_quote": "Hear me, you two-headed fools! His madness flows, our city drools! From Whorlstone's depths, the spirals turn! For Demogorgon, the city will burn! More heads for grafting! More for the pile!",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Narrak",
+    "fact": "Narrak is the head cultist leading the ritual to graft second heads onto Stone Giants for Demogorgon. He is obsessed with ritual precision, shouts motivational commands, and is the source of a fear spell that affects the Ember Vanguard. He emerges from Zalthir\u2019s darkness and screams about the inevitable spread of the curse after being trapped by Maximilian\u2019s Earthen Grasp.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Narrak",
+    "fact": "Narrak is the head cultist who leads the ritual chant, berates the Derro for lack of vigor, casts fear using a white feather, and is trapped in Zalthir\u2019s darkness after being targeted by Maximillian\u2019s Earthen Grasp.",
+    "source_quote": "Silence, you blithering half-wits! More vigor! This city's doom, a ritual! Dig it! ... I will use fear! He takes a white feather and points at Thorin, Grygum, and Zalthir, says the magic words, and the three members of the Ember Vanguard look terrified. ... You cannot stop the inevitable... the curse spreads!",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Pelek",
+    "fact": "Pelek is a Derro possessed by a ghost who is tied up after concern he might lose control, and later speaks about death as a form of sleep while being untied.",
+    "source_quote": "I haven\u2019t had a good night's sleep in ages. Although it\u2019s unclear if I am sleeping \u2026 There is this whole question about whether death is a form of sleep. I suppose I will find out.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Pelek",
+    "fact": "Pelek is a ghost possessing the body of a Derro. He fears losing control of the Derro host and requests to be restrained. He acknowledges uncertainty about whether he is truly sleeping or dead. After being tied up, he expresses relief at having had a restful night \u2014 unusual for him \u2014 and muses on the philosophical question of whether death is a form of sleep.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Pelek/Derro",
+    "fact": "Pelek is a ghost possessing the body of a Derro, feared for losing control and potentially killing the party. He is tied up by the group after Daz reassures them that restraint is safer than trust, referencing past betrayal by Buppido. He mutters on the nature of death as sleep upon being untied.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "The Ettin",
+    "fact": "The Ettin is a two-headed monstrosity serving as a frontline combatant for the Derro cult; it is resistant to magical damage, capable of wielding dual weapons, and is the primary target of the party\u2019s assault.",
+    "source_quote": "The Ettin points at the three of us outside of the darkness...\", \"The Ettin raises his battle axe and strikes the frightened Thorin...\", \"A guiding bolt from Grygum strikes the Ettin, and it groans and then smiles.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a member of the Ember Vanguard rendered terrified by Narrak\u2019s fear spell; he is struck by the Ettin\u2019s morning star while incapacitated, indicating vulnerability to psychological magic.",
+    "source_quote": "the three members of the Ember Vanguard look terrified.\", \"The Ettin raises his battle axe and strikes the frightened Thorin, and misses, but the morning star hits. Thorin looks battered.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a warrior of the Ember Vanguard who is cautious about rushing into battle, listens to Zalthir\u2019s warnings, and is targeted by Narrak\u2019s fear spell. He is struck by the Ettin\u2019s morning star, survives the encounter, and expresses concern for the Stone Giants\u2019 fate.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is eager to rush into the cultist chamber upon seeing the two-headed stone giant statue and later the Ettin. He is repeatedly cautioned by Daz and Zalthir, and he listens. He expresses concern for the safety of the giants, believing they need protection. He is displeased when told the effects on the Stone Giants might be reversed, but ultimately understands the need for patience. He points out the statue to Grygum, who reassures him Hgraam can handle it.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is targeted by Narrak\u2019s fear spell, is struck by the Ettin\u2019s morning star while frightened, and attempts to strike the Ettin with success after the fear is broken.",
+    "source_quote": "The Ettin raises his battle axe and strikes the frightened Thorin, and misses, but the morning star hits. Thorin looks battered. ... But Thorin has a better chance to strike the creature, and he does.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Whorlstone",
+    "fact": "Whorlstone is the location from whose depths the spirals turn, referenced in the ritual chant as the origin of the magic.",
+    "source_quote": "From Whorlstone's depths, the spirals turn!",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir casts darkness to conceal the Derro, breathes fire into it, warns of a madness-inducing effect from the ritual circle, and later moves the darkness over Narrak to break the fear spell.",
+    "source_quote": "There\u2019s some kind of effect that the circle has on those who enter it. Some kind of madness gripped my mind, but my monk training allowed me to stop it. Be careful! I move the darkness over Narrak. As the source of the Ember Vanguard\u2019s fear is no longer visible, they are no longer affected by it.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a member of the Ember Vanguard who uses darkness magic to obscure the battlefield, coordinates attacks with the party, and employs tactical repositioning to counter magical effects; he is observant and decisive in combat.",
+    "source_quote": "I want to watch!\", \"Let\u2019s attack now.\", \"They are bunched up; it\u2019s time to attack.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a monk of the Ember Vanguard who uses magical darkness to conceal the party during the ritual attack. He breathes fire, detects madness effects within the ritual circle, and misjudges the size of the stone giant statue as 2 feet tall. He is impatient with the Myconid\u2019s persistent chatter and struggles to distinguish friend from foe among the undead myconids.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is impatient with the Myconid's persistent demands and has worn thin on his patience.",
+    "source_quote": "My patience has worn thin. And at this time, in the monastery, the young children would have learned to be silent, I wonder if this creature can learn to be quiet.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is meditating when interrupted by a Myconid who insists on talking to Rump-a-dump, a dissatisfied member of her circle. The Myconid claims Rump-a-dump is connected to a prior group of ape-like creatures and insists no one should be killed because they are like her. Zalthir feigns ignorance, attempts to postpone the matter, and grows frustrated as the Myconid persists, claiming he never listens. The Myconid reveals their ability to convert dead enemies into zombies, alarming Zalthir. He warns he does not wish to become one. The Myconid becomes emotional, accusing him of not helping her friends. Zalthir, seeking quiet, invokes parental wisdom to calm the situation, and the Myconid falls asleep. He reflects on parental complaints while observing her slumber.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "acid vomit",
+    "fact": "A violent, non-magical reaction experienced by Grygum after exposure to ritual magic. He vomits a wave of acid, which is not a spell he chose to cast but a consequence of the cult\u2019s influence.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Book in chief cultist\u2019s hands",
+    "fact": "A book held by the chief cultist is the source of the ritual chant used to summon Demogorgon and graft additional heads onto Stone Giants. Daz identifies it as the origin of the incantation, and Grygum later confirms its role in the cult\u2019s magic.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "book in chief cultist's hands",
+    "fact": "The book in the chief cultist's hands contains the ritual chant used by the Derro, and is referenced as the source of the incantation.",
+    "source_quote": "Ah, the book in the chief cultist's hands.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Maximilian\u2019s Earthen Grasp",
+    "fact": "A spell cast by Daz to trap Narrak in earthy tendrils. It successfully immobilizes the cult leader mid-ritual, causing him to scream about the inevitable spread of the curse.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Maximillian\u2019s Earthen Grasp",
+    "fact": "Maximillian\u2019s Earthen Grasp is cast by Daz to trap Narrak in the darkness, causing him to scream in rage.",
+    "source_quote": "And so I cast Maximillian\u2019s Earthen Grasp on where I think he is. ... Narrak screams in rage - \u201cYou cannot stop the inevitable... the curse spreads!\u201d",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "scorching rays",
+    "fact": "A spell cast by Daz that summons three spears of flame to attack the Ettin. The spell is described as roaring like beasts and is fueled by Daz\u2019s inner fury.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "scorching rays",
+    "fact": "Daz casts three spears of flame as scorching rays, roaring with orange and red hues, aimed at the Ettin.",
+    "source_quote": "Three spears of flame, raging hues of orange and red, appear above me. My skin prickles and sweats under their intense heat\u2014but I am not frightened. I feel invigorated. Empowered. These are the vessels of my inner fury. They roar like fierce beasts as I hurl them toward the Ettin.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "statue of stone giant",
+    "fact": "The statue is a two-headed stone giant, two feet tall, located on the platform, and is mistaken by Zalthir as being massive until he realizes its true size.",
+    "source_quote": "I look at him confused, and I show him the statue on the platform. He sighs as he realizes it is only 2 feet tall.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "stone giant statue",
+    "fact": "A two-headed stone statue of a Stone Giant, 2 feet tall, serves as the ritual focus for the cult\u2019s grafting magic. Zalthir initially believes it to be massive, but realizes its true size, causing him to sigh in disbelief.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "white feather",
+    "fact": "A white feather used by Narrak to cast a fear spell on the Ember Vanguard. It is the focus of the spell that induces terror in Thorin, Grygum, and Zalthir until Narrak is obscured by darkness.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "White Feather",
+    "fact": "The white feather is a ritual focus used by Narrak to cast fear magic; it is a symbolic tool of control, linking the caster\u2019s will to the emotional state of the Ember Vanguard.",
+    "source_quote": "He takes a white feather and points at Thorin, Grygum, and Zalthir...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "white feather",
+    "fact": "The white feather is used by Narrak to cast a fear spell on Thorin, Grygum, and Zalthir.",
+    "source_quote": "He takes a white feather and points at Thorin, Grygum, and Zalthir, says the magic words, and the three members of the Ember Vanguard look terrified.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Hgraam",
+    "fact": "It is told that Hgraam should be able to reverse whatever ill effects on the Stone Giants, but the nature or source of this ability is not explained.",
+    "source_quote": "We are told that Hgraam should be able to reverse whatever ill effects on the Stone Giants.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Hgraam\u2019s reversal capability",
+    "fact": "The party\u2019s belief that Hgraam can reverse the grafting magic on Stone Giants is an unconfirmed thread. No one has seen Hgraam, and the ritual\u2019s damage remains unaddressed, leaving the fate of the giants uncertain.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Invisibility to Derro",
+    "fact": "The Derro fail to notice the party because they are actively avoiding detection by Narrak; this reveals a hierarchy of fear within the cult, where subordinates prioritize appeasing their leader over battlefield awareness.",
+    "source_quote": "I finally understand why that Derro, who should have seen us, has not noticed us. He\u2019s trying to avoid being seen by Narrak.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "nature of death and sleep",
+    "fact": "A philosophical thread introduced by Pelek/Derro, who questions whether death is a form of sleep. The party does not resolve it, but it lingers as an existential undercurrent, especially as Pelek is bound and half-dead.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Nature of death and sleep",
+    "fact": "Pelek muses on whether death is a form of sleep, sparking philosophical interest in Grygum. The thread remains open, as no definitive answer is provided, and the group must continue their mission. The question lingers as a thematic undercurrent, especially given Pelek\u2019s ghostly nature and the Myconid\u2019s zombie conversion process.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Pelek\u2019s identity and control",
+    "fact": "Pelek is a ghost possessing a Derro body and fears losing control of the host. The group ties him up as a precaution after a past betrayal led to a member\u2019s death. Pelek questions whether death is a form of sleep, and his true intentions remain ambiguous. The thread remains open: is Pelek a trustworthy ally, a hidden threat, or something beyond comprehension?",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Rump-a-dump",
+    "fact": "The Myconid insists Rump-a-dump is an unhappy sprout from their circle who needs to be brought back, but the reason for their unhappiness and connection to the ape-like creatures remains unresolved.",
+    "source_quote": "Rump-a-dump is a sprout from my circle who is unhappy. We need to go talk to Rump-a-dump, find out what\u2019s going on, and bring them back.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Rump-a-dump\u2019s fate",
+    "fact": "The Myconid insists that Rump-a-dump, a member of her circle, is unhappy and needs to be retrieved. She claims Rump-a-dump is connected to a prior group of ape-like creatures and that no one should be killed because the targets are like her. Zalthir postpones the matter, but the Myconid remains emotionally fixated. The thread remains unresolved, with Zalthir uncertain whether the Myconids are friends or foes, and whether Rump-a-dump is a victim, a traitor, or something else.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Rump-a-dump\u2019s fate",
+    "fact": "The Myconid\u2019s unresolved plea about Rump-a-dump creates a narrative thread about nonviolence, conversion of enemies, and whether the myconids are allies or threats. Zalthir dismisses it, but the question remains open.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "the curse spreading",
+    "fact": "Narrak\u2019s final scream \u2014 'The curse spreads!' \u2014 introduces a looming threat beyond the immediate battle. The nature of the curse is undefined, but its inevitability is emphasized, leaving the party to wonder what comes next.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Curse Spreads",
+    "fact": "A lingering, inevitable curse tied to Demogorgon is spreading through the ritual; despite attempts to disrupt it, the curse persists, suggesting the cult\u2019s doom is not just planned but predestined.",
+    "source_quote": "Narrak screams in rage - 'You cannot stop the inevitable... the curse spreads!'",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  }
+]

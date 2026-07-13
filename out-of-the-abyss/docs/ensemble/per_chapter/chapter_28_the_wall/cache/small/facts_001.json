@@ -1,0 +1,114 @@
+[
+  {
+    "type": "npc",
+    "subject": "Grogluk",
+    "fact": "Grogluk is a 4-foot-tall Duergar with ashen grey skin, scars, tattoos, and a crude clenched-fist pendant, serving the Deepking. He pretends to be alone but is surrounded by invisible and visible guards. His demeanor is defiant and proud, but he demands proof of identity, bribes, and controls access to the city of Gracklstugh.",
+    "source_quote": "Yes, I do. And are you the Ember Vanguard or are you its prey?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a Dragonborne whose scales are not red, contradicting the Duergar\u2019s mistaken belief that scale color defines morality. He is falsely implicated in the Ember Vanguard\u2019s wanted poster and carries Stone Guard passes. He is observant, calm under pressure, and recognizes the Duergar\u2019s reliance on magic and propaganda.",
+    "source_quote": "Then you must not be,\" and points at the picture of the Ember Vanguard, \"the Ember Vanguard.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a perceptive member of the party who recognizes the pattern of despotic Drow and Duergar guards demanding bribes. He is always prepared for contingency, readying spells when others negotiate. He understands the psychology of power and corruption in the Underdark.",
+    "source_quote": "I have seen so many guards of despotic rulers living among the Drow, and they all want the same thing, a bribe.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Deepking",
+    "fact": "The Deepking is the ruling sovereign of Gracklstugh, exerting control through Grogluk and a network of guards, propaganda, and fear. His authority is symbolized by the clenched-fist pendant, and he maintains strict identity verification to suppress the Ember Vanguard and maintain order.",
+    "source_quote": "This Duergar works for the Deepking.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Ember Vanguard",
+    "fact": "The Ember Vanguard is a wanted group, falsely depicted in Duergar posters with exaggerated and inaccurate features. They are believed to be dangerous revolutionaries, though their true nature is unknown. The Duergar use them as a tool of fear, conflating them with outsiders like the party. Their name is misspelled and their appearance distorted to incite paranoia.",
+    "source_quote": "The Ember Vanguard, wanted dead as long as we can raise them or aliave.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Derro",
+    "fact": "The Derro are on edge, exhibiting signs of pre-revolutionary violence. They are oppressed by the Duergar and likely planning rebellion. Their presence is felt in the slums and at the edges of the city, where they watch and wait. They are known to misidentify details, such as the color of scales or the appearance of the Ember Vanguard.",
+    "source_quote": "The Derro are particularly on edge. If I could express it, it would be a sense of pre-revolutionary violence.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Stone Guard",
+    "fact": "The Stone Guard is an authoritative organization whose passes are recognized as legitimate but easily forged in the eyes of the Duergar. They are a counterbalance to the Deepking\u2019s power and represent an external legitimacy that Grogluk distrusts but cannot outright deny.",
+    "source_quote": "I show him the passes of the Stone Guard.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "identity verification at West Cleft District",
+    "fact": "The party undergoes intense scrutiny at the gate to Gracklstugh, where Duergar guards demand proof of identity, inspect weapons, and attempt to classify each member by race and affiliation. The process escalates from questioning to bribery and ritual testing, culminating in Grogluk\u2019s reluctant acceptance after payment and performance of the Bahamut salute.",
+    "source_quote": "You are a Drow.\" Turning to Thorin, then Grygum he says, \"You are a dwarf and you are an orc!",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "bribery and passage granted",
+    "fact": "After Grygum pays Grogluk 20 gold and performs the ritual salute, the guard declares the party cleared to enter. This reveals the corruption at the heart of Duergar governance \u2014 authority is for sale, and legitimacy is performative.",
+    "source_quote": "I size him up and give him 20 gold. He smiles and shouts to the others here that we are to pass through.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh is the capital city of the Duergar, ruled by the Deepking. Its outer defenses are heavily guarded, its slums are tense with Derro unrest, and its inner district, Laduguer\u2019s Furrow, is where the wealthiest and most powerful Duergar reside. The city is a fortress of paranoia, propaganda, and magical surveillance.",
+    "source_quote": "We stand in Laduguer\u2019s Furrow. Here\u2019s where the richest and most powerful of the Duergar live.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "West Cleft District",
+    "fact": "The West Cleft District is the fortified entrance to Gracklstugh, guarded by a newly manned guardhouse that was previously abandoned. It features wanted posters, invisible and visible Duergar sentries, and a gauntlet-like atmosphere where power, politics, and peril converge.",
+    "source_quote": "This is no mere checkpoint. It\u2019s a gauntlet where power, politics, and peril converge.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Passageway to Grogluk\u2019s chamber",
+    "fact": "A 10\u2019 wide, 30\u2019 long corridor with 20\u2019 side walls, lined with visible and invisible Duergar guards. It leads to Grogluk\u2019s chamber and demonstrates the Duergar\u2019s use of magic and layered security to intimidate visitors and conceal their true strength.",
+    "source_quote": "There are at least five more invisible guards we can\u2019t see in this hallway.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "clenched-fist pendant",
+    "fact": "A crude, familiar Underdark token worn by Grogluk, symbolizing loyalty to the Deepking. It is a mark of allegiance used by Duergar enforcers and is recognized by Zalthir as a sign of servitude to the ruling power.",
+    "source_quote": "It\u2019s a familiar token of the Underdark, a clenched fist that expresses loyalty to the ruler.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "wanted poster of the Ember Vanguard",
+    "fact": "A Duergar propaganda poster depicting the Ember Vanguard with glaring inaccuracies: a red Dragonborne instead of gold, an ancient Drow wizard, and an exaggeratedly fierce Grygum. The poster contains spelling and grammar errors, revealing the Duergar\u2019s ignorance and fear-driven misinformation.",
+    "source_quote": "The Ember Vanguard, wanted dead as long as we can raise them or aliave.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Grogluk\u2019s hidden agenda",
+    "fact": "Grogluk\u2019s demand for proof, his acceptance of bribes, and his sudden shift from hostility to compliance suggest he is acting under orders from the Deepking. His true intentions \u2014 whether to eliminate the party, recruit them, or test them \u2014 remain unclear, and his mention of Grogluk\u2019s superior, Grogluk, implies deeper machinations.",
+    "source_quote": "Grogluk will wish to speak to you. Follow me.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occur during a single session of travel and confrontation in the Underdark, following the party\u2019s recovery of their senses and departure from the Whorlstone caves. The timeline is continuous, with no temporal gaps between encounters.",
+    "source_quote": "after recovering their senses, to the extent that is possible for the dwarf",
+    "quote_verified": true
+  }
+]

@@ -1,0 +1,303 @@
+[
+  {
+    "type": "npc",
+    "subject": "Asha Vandree",
+    "fact": "Asha Vandree is a drow who has seen through deception and constructed a coherent belief system around delusion, accepting a spore-maddened wizard with followers and a gelatinous familiar as the best available instrument to kill Ilvara. She remains uninfected through devotion and maintains a 20-foot distance from corrupted allies. Her hatred for Ilvara is genuine, not tactical, and she offers magical items \u2014 possibly contaminated \u2014 as payment.",
+    "source_quote": "Ilvara, who was once a high priestess of Lolth, has become seduced by this abomination, this idea that Lolth wishes to be married. There is something foul and stinking about her, and then all of those allies she seems to covet have turned into fungal creatures that are mindless. We need to kill her. We need to butcher her! We need to send her to an unearthly grave! I fear that her disease will spread.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a wizard who attempted to pass as a divinely touched follower of Lolth but was exposed as a con artist. He pivoted to playing a deluded, spore-infected mage with genuine but misunderstood power, successfully convincing Asha Vandree that his madness is a viable asset. He retains the persona with steadiness, not eloquence, and has recruited followers and bound a gelatinous familiar, Glabbagool, as part of his performance.",
+    "source_quote": "Perhaps my prayers have been answered through this\u2026 confused vessel\u2026 Perhaps there are some spores within me, but I\u2026 it feels\u2026 I feel it. And by the way, I've convinced others to join me.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a gelatinous ooze familiar bound to Daz, whose attempts to pass as a rock during negotiations failed due to untrained eye movements. Asha Vandree accepts him as part of the deluded-mage archetype \u2014 strange, uncategorizable, and fitting the profile of a mage with unusual, nontraditional power. He is not a combatant but a living symbol of the madness Daz projects.",
+    "source_quote": "Glabbagool attempted to pass for a rock. The eyes gave him away. They drifted left. They drifted right. They did this with the unhurried curiosity of a creature that has never needed to pretend to be geological before.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jorlan",
+    "fact": "Jorlan is uninfected by the fungal corruption, sustained by hatred \u2014 which Asha Vandree identifies as its own kind of immunological theory. He is positioned on the bridge, inscribing a Glyph of Warding, and is perceived by Thorin as a predictable threat: a clear location to target. He is not part of the deception but a fixed variable in the tactical equation.",
+    "source_quote": "Jorlan's side. He moved to the crossing and started inscribing the Glyph of Warding into the stone itself\u2026 Jorlan is not complicated. Jorlan is a threat with a location, which is the best kind of threat because it tells you exactly where to aim.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara",
+    "fact": "Ilvara is a former high priestess of Lolth who has become corrupted by the Big Heart Fungus, believing Lolth wishes to be married. Her influence has turned allies into mindless fungal creatures. She is the target of Asha Vandree\u2019s vendetta and the central threat of the operation. Her corruption is not merely magical but spiritual, and her transformation is irreversible without destruction.",
+    "source_quote": "Ilvara, who was once a high priestess of Lolth, has become seduced by this abomination, this idea that Lolth wishes to be married. There is something foul and stinking about her\u2026 all of those allies she seems to covet have turned into fungal creatures that are mindless.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "The Fungal Cult of Ilvara",
+    "fact": "The Fungal Cult of Ilvara is a splinter group that worships the Big Heart Fungus as a divine manifestation of Lolth\u2019s will. It spreads through spores, transforms followers into mindless fungal entities, and operates in close proximity to corrupted sites. Its members are not willingly loyal but biologically compromised. The cult is the primary adversary in this operation.",
+    "source_quote": "All of those allies she seems to covet have turned into fungal creatures that are mindless. We need to kill her. We need to butcher her! We need to send her to an unearthly grave! I fear that her disease will spread.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Big Heart Fungus",
+    "fact": "The Big Heart Fungus is a sentient, massive fungal organism that serves as the source of Ilvara\u2019s corruption and the primary weapon of the Fungal Cult. It emits a persistent, non-dispersing spore cloud, infects creatures on contact, and regenerates slowly. It cannot be killed quickly or easily. It is not merely a hazard \u2014 it is an active, territorial entity that views intruders as invaders.",
+    "source_quote": "The mushroom artifact from Neverlight Grove was the mechanism of corruption. The Big Heart Fungus was the primary weapon, would need sustained damage, would not die quickly or easily.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Fungal Creatures",
+    "fact": "Fungal Creatures are mindless, infected beings transformed by the Big Heart Fungus. They are former allies of Ilvara, now reduced to biological extensions of the fungus. They lack individuality, act on instinct, and serve as both guards and vectors of corruption. They are not enemies of choice but consequences of exposure.",
+    "source_quote": "All of those allies she seems to covet have turned into fungal creatures that are mindless.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Mushroom Artifact from Neverlight Grove",
+    "fact": "The Mushroom Artifact from Neverlight Grove is the original vector of corruption that enabled Ilvara\u2019s transformation and the spread of the Big Heart Fungus. It is the catalyst, not the source, and remains a dangerous relic that must be contained or destroyed to halt the infection.",
+    "source_quote": "The mushroom artifact from Neverlight Grove was the mechanism of corruption.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Glyph of Warding (on the bridge)",
+    "fact": "A Glyph of Warding has been inscribed into the stone of the bridge by Jorlan, triggered by any hostile creature crossing. It is invisible once active, patient, and designed to serve as a perimeter defense. It is a tactical tool meant to delay or eliminate threats approaching from Jorlan\u2019s side, and is understood by Thorin as a fixed variable in the battlefield geometry.",
+    "source_quote": "Jorlan... started inscribing the Glyph of Warding into the stone itself... The trigger: any hostile creature crossing. Invisible once finished. Patient in the way only traps can be patient.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Dust of Suleiman",
+    "fact": "Dust of Suleiman is a magical substance available to the party, capable of disintegrating organic matter. It is intended as a weapon against Ilvara, with the plan to force her into its area of effect. Its use is calculated and economical, meant to let the battlefield do the killing. It is not yet deployed but is a critical component of the tactical plan.",
+    "source_quote": "I looked at the cavern floor. At the Dust of Suleiman area. At the rough arithmetic of: priestess plus that zone equals someone else's problem.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Cavern of the Big Heart Fungus",
+    "fact": "The Cavern of the Big Heart Fungus is a subterranean chamber where Ilvara resides, saturated with spores and dominated by the massive fungal organism. The air is thick with persistent poison, the floor is partially liquefied by fungal growth, and the space is saturated with unnatural stillness. It is a hostile environment where movement is dangerous, perception is distorted, and the fungus itself is an active participant in combat.",
+    "source_quote": "The cloud didn't drift. That was the first thing I noticed. Normal smoke drifts. Normal gas disperses. This hung in the cavern air like it had decided to stay \u2014 twenty feet of spore-thick poison, sitting in the middle of the battlefield as if it belonged there.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Bridge of the Glyph of Warding",
+    "fact": "The Bridge of the Glyph of Warding is a narrow crossing over the cavern, inscribed with an invisible trap triggered by hostile movement. It is the only direct path to Ilvara\u2019s platform and is guarded by Jorlan. Its placement defines the tactical axis of the battle, and its invisibility makes it a psychological weapon as much as a physical one.",
+    "source_quote": "Jorlan... started inscribing the Glyph of Warding into the stone itself... The bridge looked like a bridge again.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Elevated Platform (Ilvara's Position)",
+    "fact": "The Elevated Platform is the raised dais where Ilvara stands, offering her sightlines and authority over the cavern. It is the primary objective of the assault. Zalthir\u2019s teleportation brought him directly into this space, disrupting Ilvara\u2019s command presence and triggering the confrontation. The platform is now a zone of intense tactical pressure.",
+    "source_quote": "One moment I was reading the geometry of the space \u2014 the elevated platform, the sightlines, the gap between us and her \u2014 and the next I was already there, adjacent, inside the radius where a priestess stops being an authority and becomes a target.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's Teleport and Grapple",
+    "fact": "Zalthir teleported directly onto Ilvara\u2019s platform, grappled her, and delivered two devastating strikes totaling 31 damage. He attempted to drag her into the Dust of Suleiman zone, but she dissolved into fungal matter and reappeared elsewhere, escaping his grasp. The event revealed Ilvara\u2019s ability to merge with the fungus and her psychological unraveling \u2014 she screamed at herself, not at Zalthir.",
+    "source_quote": "I drove the weapon in. Sixteen... The second strike came with her pinned... Thirty-one total... She screamed... at herself... Between one heartbeat and the next, she came apart into the fungal matter beneath her feet... My hands closed on nothing.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Big Heart Fungus Spore Cloud Detonation",
+    "fact": "The Big Heart Fungus detonated a persistent, non-dispersing spore cloud across the cavern floor, filling twenty feet of space with lethal poison. This was not an accident but a deliberate defensive response, confirming the fungus\u2019s sentience and territorial nature. Grygum recognized it immediately as an active threat, not scenery, and the party now operates within a zone of constant biological danger.",
+    "source_quote": "The cloud didn't drift... This hung in the cavern air like it had decided to stay... The moment it detonated that cloud across the cavern floor, every instinct I had confirmed the notation.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Asha's Frame Reconstruction",
+    "fact": "Asha Vandree discarded Daz\u2019s attempt at divine possession and reconstructed a new, more coherent frame: that he is a deluded, spore-infected wizard with followers and a gelatinous familiar. She accepted this version not because it was true, but because it was workable. This act of narrative adaptation allowed her to maintain the alliance despite the deception, demonstrating her pragmatism over dogma.",
+    "source_quote": "She had discarded my lie and replaced it with a different explanation that she found more coherent... A deluded magic user was more believable to her than a divinely-touched wizard. Fine. I could work with deluded.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Ilvara's Corruption and the Spread of the Fungus",
+    "fact": "The central unresolved thread is whether Ilvara\u2019s corruption is reversible, and whether the Big Heart Fungus will continue to spread beyond the cavern. Asha fears the disease will spread, and the party must kill Ilvara before she can infect more of the Underdark. The fungal artifact and the spore cloud suggest this is not a localized event but an emerging plague.",
+    "source_quote": "I fear that her disease will spread.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Fate of Glabbagool",
+    "fact": "Glabbagool\u2019s nature remains ambiguous: is he a bound familiar, a sentient fungal offshoot, or an independent entity masquerading as a pet? His presence defies categorization, and his role in the mission is unspoken. He may be a liability, a weapon, or a harbinger \u2014 his true origin is a thread left deliberately unresolved.",
+    "source_quote": "Glabbagool attempted to pass for a rock... He looked at me. Or at least, several of his eyes moved in my general direction.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Nature of Daz's Connection to Lolth",
+    "fact": "Daz claims to feel Lolth\u2019s gratitude \u2014 but whether he truly does, or is simply performing a delusion that has become real through belief, is unknown. His steadiness suggests internal conviction. Is he a fraud who became a prophet? Or a prophet who was mistaken for a fraud? This thread underlies the entire negotiation and may determine the party\u2019s spiritual fate.",
+    "source_quote": "I already feel the gratitude of Lolth. I have that... It's the kind of conviction this follower of Lolth shows.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Session date",
+    "fact": "The events described occurred during the session following the infiltration of the Cavern of the Big Heart Fungus, after the party had gathered intelligence from Asha Vandree and prepared for the assault on Ilvara. The timeline is compressed \u2014 negotiations, tactical planning, and the opening of combat occurred within a single, high-stakes sequence.",
+    "source_quote": "I am adding one mentally, in real time.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is hovering above the battlefield, poisoned and frustrated, having disengaged after losing his tactical advantage over Ilvara; he is acutely aware of the repurposed guards and reflects silently on Valen's potential fate.",
+    "source_quote": "Those poor guards. They've been through quite a lot.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara",
+    "fact": "Ilvara is the orchestrator of the fungal corruption, having raised four former Velkynvelve guards as directed weapons under Zuggtmoy\u2019s influence; she is targeted by Daz\u2019s Fireball and absorbs significant damage but remains standing.",
+    "source_quote": "Then Ilvara called them up.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jorlan",
+    "fact": "Jorlan is a drow who charges recklessly into Grygum\u2019s Glyph of Warding, trusting his own certainty over tactical awareness; he takes full damage from the explosion and is later struck by Thorin\u2019s Dawnbringer, leaving him compromised and off-balance.",
+    "source_quote": "Come get it, idiot.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin exploits the chaos following the Glyph\u2019s detonation to close on Jorlan, landing a critical Dawnbringer strike and a Sap to impose disadvantage; he notes the fragility of the spore servants and remains focused on the larger threat.",
+    "source_quote": "Kaboom! I didn't expect it to work.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz executes a precisely sculpted Fireball at fourth level, simultaneously striking Ilvara and the Zuggtmoy icon while sparing Zalthir and Thorin; he calculates target priority with clinical precision and views tactical success as a matter of measurable change on the board.",
+    "source_quote": "That worked better than I had any right to expect.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum laid the Glyph of Warding on the bridge as a bait trap, anticipating ego-driven aggression; he calls out to Jorlan with deliberate provocation and expresses genuine surprise when the trap succeeds.",
+    "source_quote": "Come get it, idiot.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Velkynvelve Guards",
+    "fact": "Former guards of Velkynvelve, now repurposed as mindless weapons by Ilvara\u2019s fungal corruption under Zuggtmoy\u2019s influence; they are no longer choosing to move but are directed, their identities erased by colonization.",
+    "source_quote": "Former Velkynvelve guards. I recognized the posture of soldiers whose bodies had been repurposed...",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Spore Servants",
+    "fact": "Fungal reanimated drow warriors, corrupted by Zuggtmoy\u2019s influence and controlled by Ilvara; they stagger after the Glyph and Fireball, one destroyed outright, others barely holding together, demonstrating vulnerability to area effects.",
+    "source_quote": "One servant came apart completely. Just gone.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Big Heart Fungus",
+    "fact": "The central anchor of the battlefield, still standing after multiple assaults; it is the root cause of the conflict, responsible for Zalthir\u2019s aerial position and the need for decisive resource expenditure.",
+    "source_quote": "The Big Heart Fungus. Still standing. Still anchoring the far end of the battlefield.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Glyph of Warding",
+    "fact": "A magically activated ward placed on the bridge by the party to exploit overconfidence; it detonates with force and light, dealing 21 damage in a sphere and destroying one spore servant while crippling Jorlan.",
+    "source_quote": "The Glyph fired.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Dust of Suleiman",
+    "fact": "A rare and costly resource cast directly onto the Big Heart Fungus to neutralize its anchoring power; its use signals a commitment to decisive action despite the risk of resource depletion.",
+    "source_quote": "I committed the Dust of Suleiman and cast it directly onto the fungus.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Fireball (Daz\u2019s Sculpted)",
+    "fact": "A fourth-level Fireball cast with Sculpt Spells to precisely target Ilvara and the Zuggtmoy icon while sparing allies; it deals 12 damage to each, altering the battlefield\u2019s tactical calculus.",
+    "source_quote": "Eight dice. I carve them out. The fire will know the shape of them...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Glyph Detonation",
+    "fact": "The Glyph of Warding detonates, destroying one spore servant, severely damaging Jorlan, and staggering the remaining enemies; it is the pivotal moment that shifts momentum in the party\u2019s favor.",
+    "source_quote": "The Glyph fired.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sculpted Fireball Strike",
+    "fact": "Daz\u2019s Fireball simultaneously damages Ilvara and the Zuggtmoy icon while sparing Zalthir and Thorin; the overlapping effects with the Dust of Suleiman create a compounded disruption in the enemy\u2019s coordination.",
+    "source_quote": "The two effects overlapped in a way that exceeded what either spell would have done alone.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Valen\u2019s Fate",
+    "fact": "Zalthir silently reflects on Valen \u2014 who was once like the repurposed guards \u2014 and the thin line between identity and corruption; this unresolved emotional thread haunts the party\u2019s understanding of the enemy\u2019s humanity.",
+    "source_quote": "Valen, who had been one of them. Who could have been one of them, differently categorized.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Floor as Enemy",
+    "fact": "The party realizes the battlefield itself \u2014 the cavern floor and its fungal growth \u2014 is an active, sentient threat, not just terrain; this shifts their tactical paradigm from fighting enemies to fighting the environment.",
+    "source_quote": "You plan for the drow commander. You don't always plan for the floor itself to become an enemy.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Ego vs. Tactical Awareness",
+    "fact": "The success of the Glyph and Fireball depends on exploiting enemy overconfidence; this pattern is noted as a repeatable tactical lever, though its reliability remains uncertain.",
+    "source_quote": "You call a man an idiot and invite him toward an explosive ward and you are making a bet on ego overriding tactical awareness...",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session timestamp",
+    "fact": "The events described occur during a single, intense combat encounter that spans approximately ten minutes, beginning with Zalthir\u2019s poisoning and ending with the overlapping spell effects on the Big Heart Fungus.",
+    "source_quote": "Ten minutes ago, the space had merely been dangerous.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Cavern Floor",
+    "fact": "The cavern floor is not passive terrain but an active conduit of Zuggtmoy\u2019s corruption, capable of raising and directing the spore servants; its fungal network is the hidden engine of the enemy\u2019s power.",
+    "source_quote": "Rising from the cavern floor with the patient, purposeless movement of things that are no longer choosing to move...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Bridge",
+    "fact": "The bridge is the site of the Glyph of Warding and Jorlan\u2019s fatal charge; it is a chokepoint where tactical misjudgment leads to catastrophic consequences.",
+    "source_quote": "We'd laid it on the bridge like a welcome mat...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Far End of Battlefield",
+    "fact": "The location of the Big Heart Fungus, which remains untouched and central to the conflict; it is the anchor point that defines the battlefield\u2019s geometry and the party\u2019s strategic imperative.",
+    "source_quote": "Still anchoring the far end of the battlefield.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Things Not to Dwell On Mid-Combat",
+    "fact": "The party recognizes the emotional weight of repurposed enemies and fallen allies as dangerous distractions; these thoughts are filed away as 'not to dwell on' to preserve combat effectiveness.",
+    "source_quote": "I filed that thought away under *things not to dwell on mid-combat*.",
+    "quote_verified": true
+  }
+]

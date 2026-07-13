@@ -1,0 +1,142 @@
+[
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a seasoned observer of Drow politics, deeply familiar with the cycles of betrayal, paranoia, and power grabs among the Cult of Lolth, and now applies that knowledge to the Duergar leadership under Errde.",
+    "source_quote": "Being a Drow, you pick some stuff up.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Errde",
+    "fact": "Errde is a Duergar leader consumed by paranoia and megalomania, convinced that the Council of Savants is corrupting the Deepking and must be destroyed, despite lacking evidence and ignoring her own ambitions.",
+    "source_quote": "The stench of paranoia runs deep. And the desire for power is palpable.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a survivor of the War of the Giants who rejects subterfuge and deception, advocating for radical transparency and direct action after witnessing endless cycles of manipulation among the Duergar and Drow.",
+    "source_quote": "I want to be radically transparent, to say it as it is.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir was trained by monks to value discretion, shadowcraft, and avoidance of confrontation, making him instinctively wary of open conflict and prone to strategic silence.",
+    "source_quote": "The monks who taught Zalthir the importance of being discreet, of hiding in the shadows, and of avoiding frontal conflict.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Cult of Lolth",
+    "fact": "The Cult of Lolth is a Drow theocratic organization founded on betrayal and subterfuge, worshipping a goddess who usurped power from Correlon and turned elves into Drow through deception.",
+    "source_quote": "Lolth became Lolth through betrayal and subterfuge. Correlon, the chief elvish god, was her consort, or she was his, it\u2019s unclear...",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Duergar",
+    "fact": "The Duergar are a subterranean dwarven faction characterized by prolonged internal conflict, rigid hierarchy, and a culture of suspicion, where noble houses compete ruthlessly and failure is met with extermination.",
+    "source_quote": "Unlike the Drow's swift executions, conflict here is protracted.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Council of Savants",
+    "fact": "The Council of Savants are Derro scholars accused by Errde of corrupting the Deepking, though Daz believes they are innocent victims manipulated by greater powers.",
+    "source_quote": "The Council of Savants is innocent, thinks Daz, or worse, they are victims of the machinations of yet another power.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Keepers of the Flame and Stone Guard",
+    "fact": "The Keepers of the Flame and Stone Guard are Duergar militant factions aligned with Errde\u2019s paranoia, seeking the annihilation of the Derro as a means to consolidate power.",
+    "source_quote": "He knows what she wants... to kill as many Derro as possible.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Grey Ghosts",
+    "fact": "The Grey Ghosts are a rumored Derro faction believed by Errde to be allied with the Council of Savants, though their existence may be a fabrication used to justify purges.",
+    "source_quote": "She wants proof of the Grey Ghosts' alliance with the Council of Savants.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Empty Scabbard Killers",
+    "fact": "The Empty Scabbard Killers are an alleged Derro assassin group whose existence is questioned by Daz, who suspects they are a scapegoat created to deflect blame from Duergar internal power struggles.",
+    "source_quote": "He knows what she wants, not evidence that the Empty Scabbard Killers exist, but who has decided her clan members must die.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Underdark in the Feywild",
+    "fact": "The Underdark in the Feywild is the mythical origin point of the Drow\u2019s banishment, where Lolth\u2019s followers fled across the multiverse, becoming both strands and webs of intrigue.",
+    "source_quote": "According to the clerics of Lolth, the banishment occurred in the Feywild, and from the Underdark in the Feywild, the Drow fled to every part of the multiverse.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Errde\u2019s office",
+    "fact": "Errde\u2019s office is the nerve center of Duergar paranoia, where power is hoarded, plots are hatched, and the desire to destroy perceived enemies is the only unifying principle.",
+    "source_quote": "And so now he is on his way to Errde\u2019s office.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "The Deepking",
+    "fact": "The Deepking is a Duergar sovereign whose agency is questioned by all factions; Errde blames the Council of Savants for his corruption, while Daz suspects he is a pawn in a larger game of power.",
+    "source_quote": "The leader is convinced that this poor, helpless group is why everything is falling apart. She is blinded by her conviction that the Council of Savants... is corrupting the Deepking.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Truth Behind the Purge",
+    "fact": "A hidden thread: the Duergar leadership\u2019s obsession with destroying the Derro is not about justice or survival, but about avoiding the truth that they fear their own leader and lack the courage to seize power directly.",
+    "source_quote": "No one wants to confront the reality that they want power, and they are too afraid of the leader to try and seize it from them.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Drow\u2019s Legacy in Duergar Society",
+    "fact": "A lingering thread: Daz\u2019s Drow experience reveals that Duergar politics mirror Drow patterns of betrayal and scapegoating \u2014 suggesting the Duergar are repeating ancient, self-destructive cycles.",
+    "source_quote": "I have seen this before, everyone convinced that the leader is a victim of some outside influence...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The Fall of the Noble House",
+    "fact": "An ancient event: a noble Drow house was destroyed not for its crimes, but because one child survived \u2014 a lesson that failure to eradicate all enemies invites vengeance.",
+    "source_quote": "Daz remembers, or was it a story he heard, of a noble house destroyed by the combined might of the other noble houses because one child survived.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The Banishment of Lolth",
+    "fact": "An ancient event: Lolth betrayed Correlon, created an avatar, and turned elves into Drow \u2014 only to be banished by both Correlon and the elves, setting the foundation for Drow culture.",
+    "source_quote": "Revealed for what she was, Correlon banished her, and the elves banished her followers.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "10th day of the 1st Tenday of Myrtul 1493",
+    "fact": "The current date marks a critical moment in Duergar politics, when Daz presents his alternative strategy to prevent a catastrophic purge of the Derro.",
+    "source_quote": "10th day of the 1st Tenday of Myrtul 1493",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Derro",
+    "fact": "The Derro are a subterranean race of mad dwarves, scapegoated by the Duergar as corrupters of the Deepking, though Daz believes they are pawns in a far larger power struggle.",
+    "source_quote": "She wants proof of the Grey Ghosts' alliance with the Council of Savants to kill as many Derro as possible.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Drow",
+    "fact": "The Drow are a race of dark elves who emerged from betrayal and exile, now defined by intricate political webs, ruthless house warfare, and a cultural obsession with eliminating any trace of failure.",
+    "source_quote": "The Drow are both a strand and a spiderweb. A strand of Lolth\u2019s web, and a web of intrigue whose only purpose is to destroy the followers of Correlon.",
+    "quote_verified": false
+  }
+]

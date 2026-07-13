@@ -1,0 +1,226 @@
+[
+  {
+    "type": "npc",
+    "subject": "Stool",
+    "fact": "Stool is referenced by Rump-a-dump as the one who speaks constantly, generating words and sounds without giving others a chance to think.",
+    "source_quote": "Stool, once again, is speaking constantly, generating words and sounds, and not giving me a chance to think.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Rump-a-dump",
+    "fact": "Rump-a-dump is referenced by Grygum as the one who believes in a tersely worded comment that is precise and restrained.",
+    "source_quote": "Whereas he attempts to convey with an avalanche of words, I believe in a tersely worded comment that is precise and restrained.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Voosbur",
+    "fact": "Voosbur is referenced by Rump-a-dump as the myconid who released strange spores that caused everyone to change and start dancing.",
+    "source_quote": "Voosbur. He released strange spores... and everyone changed. They started... this.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Neverlight Grove",
+    "fact": "Neverlight Grove is referenced by Grygum as the serene, glowing cavern where the myconids were once happy before Voosbur's spores came.",
+    "source_quote": "We were all very happy in Neverlight Grove. Then Voosbur's spores came, and the next thing we knew, we were here.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "the fungal cavern",
+    "fact": "The fungal cavern is referenced by Thorin as a place with mushrooms taller than any giant, glowing in violet, teal, and amber, casting soft shifting light and pulsing ground.",
+    "source_quote": "Mushrooms, taller than any giant I've ever seen standing straight, stretch right up to the cavern ceiling, their caps glowing in all sorts of fancy colors\u2014violet, teal, amber. They're casting light all over the place, soft and shifting, making patterns on the ground.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "the vine forest",
+    "fact": "The vine forest is referenced by Thorin as a place with thick, twisting vines and fungal tendrils woven like pulsing veins of a subterranean beast, slick with translucent slime and glowing spores.",
+    "source_quote": "There are thick, twisting vines and fungal tendrils, woven together like the pulsing veins of some colossal, subterranean beast. Not a sight for a dwarf with an empty stomach.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "the blighted throne chamber",
+    "fact": "The blighted throne chamber is referenced by Thorin as a place with a throne of fungal growths twisted with bleached bones and decaying wood, and giant mushrooms standing like unnatural sentinels.",
+    "source_quote": "There's a throne, but it's nothing but fungal growths twisted with bleached bones and decaying wood. These giant mushrooms... they stand like sentinels, silent and still, but they ain't natural stone.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Zuggtmoy",
+    "fact": "Zuggtmoy is referenced by the narrator as the Demon Queen of Fungi, the Lady of Rot and Decay, whose spores infect the living and transform them into mindless hosts for fungi.",
+    "source_quote": "This fiend, Zuggtmoy, the Demon Queen of Fungi, the Lady of Rot and Decay, is a grievous affront to the very essence of creation. Her being is the antithesis of justice, order, and compassion, for where the Platinum Dragon, Bahamut, seeks to foster life and free will, she yearns only for chaos, madness, and utter destruction.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "the Tongue of Madness mushroom",
+    "fact": "The Tongue of Madness mushroom is referenced by Grygum as a mushroom encountered earlier whose effect is more direct than the current spore-induced trance.",
+    "source_quote": "Smells earthy, a bit too sweet, with a musk that's starting to make my head swim. Just a little. Like that Tongue of Madness mushroom, but not as direct.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "the shrinking/growing mushrooms",
+    "fact": "The shrinking/growing mushrooms are referenced by Grygum as the mushrooms the myconids ate after arriving at the new location, which caused their transformation.",
+    "source_quote": "I think they ate the silly mushrooms after we arrived.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "the Wandering Veil",
+    "fact": "The Wandering Veil is referenced by Thorin as an eclectic troupe of bards and mystics who have roamed the realms for decades, their music a swirling tapestry of haunting ballads, raucous tavern shanties, and spellbinding improvisations that bend reality.",
+    "source_quote": "This eclectic troupe of bards and mystics has roamed the realms for decades, their music a swirling tapestry of haunting ballads, raucous tavern shanties, and spellbinding improvisations that seem to bend the very fabric of reality.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "the Drow",
+    "fact": "The Drow are referenced by Daz as having a complex ecological understanding of the Underdark that others fail to grasp.",
+    "source_quote": "Overbrighters. They understand nothing about the complex ecology of the Underdark.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "the spore-induced transformation",
+    "fact": "The spore-induced transformation is referenced by Grygum as a sudden jump that occurred after Voosbur's spores arrived, changing the myconids' behavior and dance.",
+    "source_quote": "Then Voosbur's spores came, and the next thing we knew, we were here. It was... a sudden jump.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin and Grygum touching Voosbur's hand",
+    "fact": "Thorin and Grygum touching Voosbur's hand is referenced as the moment they stopped moving and were drawn into the Lady\u2019s dream.",
+    "source_quote": "Thorin, who has a \u201cfuck-it-all\u201d attitude, takes the creature's hand. Grygum... too is holding onto Voosbur\u2019s hand. And then both Grygum and Thorin stop moving.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Sarith's compelled walk toward the Myconids",
+    "fact": "Sarith's compelled walk toward the Myconids is referenced by Zalthir as occurring when he was closer to them, indicating an effect stronger than 30\u2019.",
+    "source_quote": "Zalthir recalls that Sarith\u2019s urge to go to the Myconids increased when he was closer to them, and so pulls him back, and mutters, \u201cThe knowledge of the Drow \u2026\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "the revelation of Zuggtmoy as the Dark Lady",
+    "fact": "The revelation of Zuggtmoy as the Dark Lady is referenced by the narrator as arising from the holy text The Platinum Chronicle: Discourses on the Abyssal Blight.",
+    "source_quote": "I remember something from my teachings about a demonic power known as the Dark Lady in the holy text The Platinum Chronicle: Discourses on the Abyssal Blight.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "the monastery",
+    "fact": "The monastery is referenced as the place where children like the myconids would be sent to a room and told only to return when they could understand why they must be silent.",
+    "source_quote": "At the monastery, children like this would be sent to a room and told only to return when they could understand why they must be silent.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is referenced by Thorin as indifferent to the myconids\u2019 transformation and dismissive of the Dark Lady\u2019s influence.",
+    "source_quote": "Daz has his hands in his face, embarrassed and muttering, \u201cOverbrighters. They understand nothing about the complex ecology of the Underdark.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is referenced by the narrator as the one who begins to dance as if at a Withering Veil concert and later mutters, \u201cYou throw a stone here, you hit a demon.\u201d",
+    "source_quote": "Thorin, who has started to dance as if he were at a Withering Veil concert, says, \u201cI like these Myconids, basically don\u2019t mess with them, they don\u2019t mess with you.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by Rump-a-dump as the one who is uncomfortable and worried, and who later holds Voosbur\u2019s hand and becomes entranced.",
+    "source_quote": "The creature looks uncomfortable and very worried. ... Grygum mutters, \u201cThis reminds me of that time. Well, I\u2019ll be going around to make sure it isn\u2019t a bad trip.\u201d And he too is holding onto Voosbur\u2019s hand.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith is referenced by Zalthir as the one who was never sane to begin with and who shouts about the Dark Lady calling him to join her dream.",
+    "source_quote": "Sarith, who was never sane to begin with, says, \"We will rise! We will transform! This is the only way to escape... to truly live! The Dark Lady... she offers liberation... revenge for all that has been done!\"",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "the Platinum Chronicle: Discourses on the Abyssal Blight",
+    "fact": "The Platinum Chronicle: Discourses on the Abyssal Blight is referenced as the holy text containing the excerpt on Zuggtmoy, the Demon Queen of Fungi.",
+    "source_quote": "Excerpt from The Platinum Chronicle: Discourses on the Abyssal Blight\nOn the Blight of Zuggtmoy, Demon Queen of Fungi, Lady of Rot and Decay",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Voosbur\u2019s verbal invitation to the Lady\u2019s dream",
+    "fact": "Voosbur\u2019s verbal invitation to the Lady\u2019s dream is referenced as a telepathic message urging others to groove with the spores and join the cosmic garden.",
+    "source_quote": "Hey, beautiful souls, you\u2019ve been groovin\u2019 through the dark for a while now, yeah? Dig this \u2014 there\u2019s a far-out place, a hidden trip where the Lady herself spins the vibes...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced as the one who notices Sarith\u2019s compulsion increasing near the myconids and later ponders whether visiting Neverlight Grove would be wise.",
+    "source_quote": "Zalthir recalls that Sarith\u2019s urge to go to the Myconids increased when he was closer to them... Zalthir, if he were here, would wonder if visiting the Neverlight Grove would be wise.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "the arrival at the myconid cave",
+    "fact": "The arrival at the myconid cave is referenced as the moment when the myconids are dancing as if at a Wandering Veil concert that Thorin attended.",
+    "source_quote": "We soon arrive at the cave with the Myconids, who seem to be dancing as if at a Wandering Veil concert that he attended.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by Thorin as the one who is still confused after explanations about the Wandering Veil.",
+    "source_quote": "Grygum looks at the Myconids and looks at me, and is still confused.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Rump-a-dump",
+    "fact": "Rump-a-dump is referenced by himself as the one who sighs and says, \u201cAnother race gone mad.\u201d",
+    "source_quote": "I sigh, \u201cAnother race gone mad.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "the confrontation with Voosbur",
+    "fact": "The confrontation with Voosbur is referenced as the moment when he stops dancing and speaks telepathically, offering a cosmic journey through spores.",
+    "source_quote": "We approach the Myconid, and it stops its frantic dance for a moment. And then it continues its dance, but we hear it\u2019s voice in our heads.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin\u2019s passage through the fungal realms",
+    "fact": "Thorin\u2019s passage through the fungal realms is referenced as a journey through three distinct caverns: the glowing fungal glade, the vine forest, and the blighted throne chamber.",
+    "source_quote": "I open my eyes and realize I am in a different cavern... As we leave the cavern, I find myself in another, very different one... Well, this looks like a blighted festering pit...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Stool",
+    "fact": "Stool is referenced by Rump-a-dump as the one who is bouncy and hindering, and who shouts to Rump-a-dump while the others are entranced.",
+    "source_quote": "And just then, Stool starts jumping up and down as he shouts to another sprout, Rump-a-Dump.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "the Underdark",
+    "fact": "The Underdark is referenced by the narrator as the overarching subterranean realm where all events take place, and from which characters seek to escape.",
+    "source_quote": "Once we are out of the Underdark, I do not intend to come back.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "the revelation of the Dark Lady as Zuggtmoy",
+    "fact": "The revelation of the Dark Lady as Zuggtmoy is referenced by the narrator as the moment when the true identity of the entity behind the spore infection is understood through holy scripture.",
+    "source_quote": "I explain to my friends that this Dark Lady is, in fact, the Demoness.",
+    "quote_verified": true
+  }
+]

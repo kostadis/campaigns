@@ -1,0 +1,142 @@
+[
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith nods in acknowledgment.",
+    "source_quote": "Sarith nods.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, 'You seem to be confident we will escape and live.'",
+    "source_quote": "Zalthir says, \"You seem to be confident we will escape and live.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum asks, 'Where will we find safety?'",
+    "source_quote": "Gyrgum asks, \"Where will we find safety?\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth laughs, 'Safety? This is the Underdark. There is not enough resources or space for anyone. Survival depends on your wits. People tend to distrust outsiders and view them as a resource to be used.'",
+    "source_quote": "Eldeth laughs, \"Safety? This is the Underdark.  There is not enough resources or space for anyone. Survival depends on your wits. People tend to distrust outsiders and view them as a resource to be used.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin thinks, 'I know where our stuff is. It\u2019s in the chest in Ilvara\u2019s room. The Drow leader probably keeps all the loot for herself. And if any other Drow had our stuff, they would taunt us.'",
+    "source_quote": "Thorin thinks for a moment, \"I know where our stuff is. It\u2019s in the chest in Ilvara\u2019s room. The Drow leader probably keeps all the loot for herself. And if any other Drow had our stuff, they would taunt us.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Dwarf",
+    "fact": "The dwarf turns to the Drow and says, 'Your deal is accepted. When?'",
+    "source_quote": "The dwarf turns to the Drow and says, \"Your deal is accepted. When?\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Drow",
+    "fact": "The Drow responds, 'After a long rest, before you go on your assigned tasks.'",
+    "source_quote": "\"After a long rest, before you go on your assigned tasks.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "sleep in slave pen",
+    "fact": "Everyone\u2019s sleep in the slave pen is troubled and fitful, filled with strange dreams and disturbing images. Dark shadows seem to move and reach out toward them as the characters wander lost through endless mazes of tunnels. Oily tentacles slide to brush up against them while a great buzzing and howling rises in the distance. Suppurating wounds burst open in clouds of spores or crawling masses of maggots or insects. At least one or more of the prisoners wakes in a cold sweat from these nightmares after every rest, feeling as though something is out there in the dark depths \u2014 something far worse than the drow.",
+    "source_quote": "Everyone\u2019s sleep in the slave pen is troubled and fitful, filled with strange dreams and disturbing images. Dark shadows seem to move and reach out toward them as the characters wander lost through endless mazes of tunnels. Oily tentacles slide to brush up against them while a great buzzing and howling rises in the distance. Suppurating wounds burst open in clouds of spores or crawling masses of maggots or insects. At least one or more of the prisoners wakes in a cold sweat from these nightmares after every rest, feeling as though something is out there in the dark depths \u2014 something far worse than the drow.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz wakes up and remembers, 'Right, Sethir said there is a grey ooze in the pool. That\u2019s how the waste gets processed.'",
+    "source_quote": "Daz wakes up and remembers, \"Right, Sethir said there is a grey ooze in the pool. That\u2019s how the waste gets processed.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "dark shadows",
+    "fact": "Dark shadows move and reach out toward the prisoners during their troubled sleep.",
+    "source_quote": "Dark shadows seem to move and reach out toward them as the characters wander lost through endless mazes of tunnels.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "oily tentacles",
+    "fact": "Oily tentacles slide to brush up against the prisoners during their nightmares.",
+    "source_quote": "Oily tentacles slide to brush up against them while a great buzzing and howling rises in the distance.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "suppurating wounds",
+    "fact": "Suppurating wounds burst open in clouds of spores or crawling masses of maggots or insects during the prisoners' dreams.",
+    "source_quote": "Suppurating wounds burst open in clouds of spores or crawling masses of maggots or insects.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "buzzing and howling",
+    "fact": "A great buzzing and howling rises in the distance during the prisoners' nightmares.",
+    "source_quote": "A great buzzing and howling rises in the distance.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Ilvara\u2019s room",
+    "fact": "Ilvara\u2019s room contains a chest where the prisoners\u2019 belongings are stored.",
+    "source_quote": "It\u2019s in the chest in Ilvara\u2019s room.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "slave pen",
+    "fact": "The slave pen is where the prisoners sleep and experience troubled dreams.",
+    "source_quote": "Everyone\u2019s sleep in the slave pen is troubled and fitful...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "pool with grey ooze",
+    "fact": "A pool contains a grey ooze used to process waste.",
+    "source_quote": "Sethir said there is a grey ooze in the pool. That\u2019s how the waste gets processed.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "chest",
+    "fact": "The chest holds the prisoners\u2019 belongings and is located in Ilvara\u2019s room.",
+    "source_quote": "It\u2019s in the chest in Ilvara\u2019s room.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Drow",
+    "fact": "The Drow are an organized group that hoards loot, assigns tasks, and is viewed by prisoners as exploitative and distrustful.",
+    "source_quote": "The Drow leader probably keeps all the loot for herself. And if any other Drow had our stuff, they would taunt us.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "something far worse than the drow",
+    "fact": "Prisoners feel something far worse than the Drow is present in the dark depths, emerging from their nightmares.",
+    "source_quote": "something far worse than the drow",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "after a long rest",
+    "fact": "The Drow have scheduled an action to occur after a long rest, before assigned tasks.",
+    "source_quote": "After a long rest, before you go on your assigned tasks.",
+    "quote_verified": true
+  }
+]

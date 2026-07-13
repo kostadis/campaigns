@@ -1,0 +1,86 @@
+[
+  {
+    "type": "npc",
+    "subject": "Sylvira",
+    "fact": "Sylvira was framed for the murder and is dying slowly under the poison's effect. She had every reason to tell us everything she knew and no reasons left not to. She is bedridden and shuddering under a fever but still capable of running a familiar and a mage hand from across the room, indicating she is not incapacitated.",
+    "source_quote": "The door opened before I knocked. A mage hand, which was interesting: she was bedridden and shuddering under a fever, and still running a familiar and a mage hand from across the room.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz was the natural choice for the interview with Sylvira. He knew how to make someone talk, and he was drow, which was not irrelevant given what we knew about the Menzoberranzan thread running under all of this.",
+    "source_quote": "Daz was the natural choice for it: he knew how to make someone talk, and he was drow, which was not irrelevant given what we knew about the Menzoberranzan thread running under all of this.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch's proposal for new criminal investigation methodologies was reviewed and dismissed by Janussi as solipsism, blocking it entirely. Kalan later presented that same framework as his operating methodology to the investigation team, despite having been publicly ridiculed by the victim.",
+    "source_quote": "Janussi had reviewed Kalan Strongbranch's proposal for new criminal investigation methodologies, found it to be solipsism, and had blocked it. He wasn't interested, he wrote, in creating all these rules and procedures so that Kalan could go detect a murder mystery.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi was the victim of murder. His private notes revealed a pattern of academic contempt, particularly toward Kalan Strongbranch, whom he characterized as pursuing criminal investigation as a vanity project. His notes were found on the third floor of his chambers, alongside evidence of his personal habits and the wrapping paper from the poisoned book.",
+    "source_quote": "The paper that had wrapped the poisoned book had been brought here, and nobody had retrieved it. Evidence doesn't improve with age.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum was the investigator who discovered Janussi's damning notes on the third floor of his chambers. He recognized the academic tone of contempt toward Kalan and filed the evidence, noting its implications for the investigation.",
+    "source_quote": "Grygum was already moving for the stairs. He stopped, turned back. He'd remembered something.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Alkrist",
+    "fact": "Alkrist is a person of interest linked to the feast, where something was reportedly burned. The detail was noted in a list but initially unflagged until Grygum recalled it, prompting further inquiry.",
+    "source_quote": "When you talk to Alkrist, there's something in the list about what Alkrist burned at the feast \u2014 you should ask about that.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "feast burning",
+    "fact": "Something was burned at the feast by Alkrist. The detail was recorded in an unflagged list and later recalled by Grygum as potentially relevant to the investigation.",
+    "source_quote": "He apparently burnt something at the feast,\" came the confirmation. \"That's what it says.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "proposal rejection",
+    "fact": "Janussi formally rejected Kalan Strongbranch's Threefold Proof methodology, labeling it solipsism. This rejection was documented in writing and later discovered as evidence in Janussi's chambers.",
+    "source_quote": "Janussi had reviewed Kalan Strongbranch's proposal for new criminal investigation methodologies, found it to be solipsism, and had blocked it.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Janussi's third-floor chambers",
+    "fact": "Janussi's third-floor chambers contained his personal notes, evidence of his private habits, and the wrapping paper from the poisoned book. The room had been untouched since his death and was the site where Grygum discovered the critical document implicating Kalan.",
+    "source_quote": "The third story had sat there like an unopened file, and there was still the matter of the wrapping paper.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "wrapping paper from the poisoned book",
+    "fact": "The wrapping paper from the poisoned book was brought to Janussi's third-floor chambers and left uncollected. It was physical evidence that had not been processed, potentially linking the murder weapon to the location of Janussi's private notes.",
+    "source_quote": "The paper that had wrapped the poisoned book had been brought here, and nobody had retrieved it.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Menzoberranzan connection",
+    "fact": "A thread of Menzoberranzan influence runs beneath the investigation. Daz\u2019s identity as a drow is noted as not irrelevant, suggesting deeper ties between the city of spiders and the events in Janussi\u2019s chambers.",
+    "source_quote": "Daz was the natural choice for it: he knew how to make someone talk, and he was drow, which was not irrelevant given what we knew about the Menzoberranzan thread running under all of this.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Threefold Proof legitimacy",
+    "fact": "The legitimacy of the Threefold Proof methodology, presented as the foundation of the investigation, is now in question. It was rejected by the victim as solipsism, yet used by Kalan as his official framework \u2014 creating a potential motive and ethical breach.",
+    "source_quote": "Kalan's entire proposal for dealing with crime, the Threefold Proof, the methodologies, the framework we'd been handed as a legitimate investigation tool, had been blocked by the man who was now dead.",
+    "quote_verified": true
+  }
+]

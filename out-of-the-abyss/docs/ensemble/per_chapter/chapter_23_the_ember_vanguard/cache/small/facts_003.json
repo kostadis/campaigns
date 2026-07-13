@@ -1,0 +1,114 @@
+[
+  {
+    "type": "faction",
+    "subject": "The Ember Vanguard",
+    "fact": "The Ember Vanguard is a feared group of mercenaries led by Thorin, composed of Daz, Zalthir, Grygum, and others, who have claimed identity as a powerful raiding force \u2014 notably including Drow and Duergar-aligned elements \u2014 and are now recognized by Derro as agents of Menzoberranzan.",
+    "source_quote": "The Ember Vanguard, Onwards!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is the charismatic and determined leader of The Ember Vanguard who imposed the faction's name against hesitation, believes in the power of mythic identity, and leads the group with conviction despite mockery.",
+    "source_quote": "We need a name! Like the First Faction was the legendary heroes that saved the North!",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is the mage of The Ember Vanguard who found purpose in the faction's feared identity, excels in illusion and evocation magic (dancing lights, silvery barbs, toll the dead), and takes pride in his tactical brilliance during encounters with Derro and Trappers.",
+    "source_quote": "I have it \u2014 The Ember Vanguard.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a member of The Ember Vanguard who initially advocated for discretion, later accepted the faction\u2019s identity, and now operates under its banner \u2014 though he remains wary of the dangers they face, including the Empty Scabbard Killers.",
+    "source_quote": "The Empty Scabbard Killers might want to kill us.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is the scribe and strategist of The Ember Vanguard who drafted the faction\u2019s original plan to manipulate Gartokkar and the Stone Guards, survived a Trapper attack, and is now burdened by the acid slime and emotional weight of their violent path.",
+    "source_quote": "I\u2019ve been taking notes on all of the deals we have made.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Diirdeklin the Derro",
+    "fact": "Diirdeklin is a Derro guard stationed at a northern post who has been promised liberation from Duergar bondage, witnessed the arrival of The Ember Vanguard, recognized them as Drow agents of Menzoberranzan, and chose survival over resistance after seeing a meteor swarm summoned by a Drow Archmage.",
+    "source_quote": "The people you are trying to warn are dead.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Diinarnnmyr",
+    "fact": "Diinarnnmyr is a Derro who fears a Drow incursion and believes The Ember Vanguard are working with the Duergar to subdue their people, having heard rumors that Pliinki was killed and interpreting the group\u2019s arrival as the start of a larger conquest.",
+    "source_quote": "The Ember Vanguard \u2014 the Drow are now working with the Duergar to subdue us!",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Trapper",
+    "fact": "A manta ray-like creature that attacked Grygum in a 20-foot-wide cavern, coated him in acid slime, and was ultimately slain by Zalthir\u2019s blows before Grygum could exploit the spell effects \u2014 its presence indicates the region is infested with dangerous fauna.",
+    "source_quote": "Grygum shouts in pain.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Derro Squad",
+    "fact": "A small squad of Derro stationed before double doors in a cave system, who were poised to raise an alarm against The Ember Vanguard but were silenced by the sight of a Drow Archmage and meteor swarm, revealing the group\u2019s overwhelming power.",
+    "source_quote": "Do we attack?",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Cave of the Obelisk",
+    "fact": "The starting chamber from which The Ember Vanguard departed, marked by the group\u2019s decision to adopt a new identity, and now abandoned as they moved through a network of tunnels toward double doors and deeper into the underground.",
+    "source_quote": "They are ready to leave the chamber of the Obelisk.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Double Doors Beyond the Cave",
+    "fact": "A fortified entrance guarded by a squad of Derro, located after a long tunnel, which The Ember Vanguard passed without conflict after demonstrating overwhelming magical power.",
+    "source_quote": "In front of those double doors is a small squad of derro.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "20-Foot-Wide Cavern",
+    "fact": "A vast subterranean passage where Grygum was attacked by a Trapper, and where Daz executed precise spellcasting to aid in its defeat \u2014 now a site of violence and survival.",
+    "source_quote": "After walking in the enormous 20-foot-wide cavern for a few minutes, Thorin hears a yelp.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Scrap of Paper",
+    "fact": "A piece of paper used by Grygum to record all faction deals and strategies, later referenced to justify the plan to manipulate Gartokkar and the Stone Guards \u2014 a physical artifact of the group\u2019s cunning.",
+    "source_quote": "Grygum pulls out a scrap of paper, 'I\u2019ve been taking notes\u2026'",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Drow-Duergar Alliance Rumor",
+    "fact": "A growing belief among Derro that The Ember Vanguard represents a secret alliance between Drow of Menzoberranzan and Duergar forces \u2014 a threat that could destabilize the entire Underdark hierarchy.",
+    "source_quote": "The Ember Vanguard \u2014 the Drow are now working with the Duergar to subdue us!",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Pliinki\u2019s Fate",
+    "fact": "The disappearance or death of Pliinki, a Derro who promised Diirdeklin liberation from Duergar bondage, now interpreted as evidence of a larger Drow operation \u2014 a mystery that fuels Derro paranoia.",
+    "source_quote": "And if they killed Pliinki, that means that they have bigger plans.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Session Date",
+    "fact": "The events occur during a single continuous session of exploration and confrontation, beginning with the formation of The Ember Vanguard and ending with the group\u2019s passage into unknown depths.",
+    "source_quote": "And so they are ready to leave the chamber of the Obelisk.",
+    "quote_verified": true
+  }
+]

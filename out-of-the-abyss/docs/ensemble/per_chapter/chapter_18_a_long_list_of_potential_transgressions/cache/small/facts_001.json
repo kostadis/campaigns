@@ -1,0 +1,135 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a cautious explorer in the Underdark, wary of strange creatures and inclined to observe details, having been trained by monks to mask his emotions.",
+    "source_quote": "Zalthir masks his feelings well. The monks taught him how to do that, and he was very good at it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a pragmatic survivor of the Underdark, shaped by trauma and distrust, who assumes every encountered creature intends to kill him unless proven otherwise.",
+    "source_quote": "Everybody we come across here in the Underdark has tried to kill us, so we are wary.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is an orc who is emotionally resilient to trauma and operates with practicality, having seen worse horrors than those revealed by the Flumph.",
+    "source_quote": "The trauma dumping seems to affect Thorin, but Grygum is an orc, and a practical creature, and quite frankly, he\u2019s seen worse.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Flumph",
+    "fact": "The Flumph is a psychic energy-feeder from the Underdark that relieves itself by trauma-dumping painful memories into the minds of others, and identifies as non-parasitic, non-evil, and distinct from Mind Flayers.",
+    "source_quote": "I am a flumph. And my kind feeds on the psychic energy of creatures. We aren\u2019t parasitic like the Mind Flayers; we feed on the residual background energies.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Cult of Demogorgon",
+    "fact": "The Cult of Demogorgon is an evil organization led by Plinki, who seeks to corrupt a mysterious egg into a dual-headed dragon to present as a mount to his dark master.",
+    "source_quote": "Plinki has recently converted to the Cult of Demogorgon and wishes to turn the egg into a dual-headed dragon that he can give to his master to ride!",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Council of Savants and the Gray Ghosts",
+    "fact": "A scholarly and secretive faction whose former members once coexisted peacefully with Duergar in the Underdark, now represented by a Derro carrying their insignia in a corrupted cave complex.",
+    "source_quote": "Through the side passageway, he sees a chamber with a derro that carries the insignia of office of the Council of Savants and the Gray Ghosts.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Empty Scabbard Killers",
+    "fact": "A violent faction now engaged in war against the Cult of Demogorgon in the former peaceful mesa (Area 5), likely remnants of a once-harmonious community turned hostile.",
+    "source_quote": "The mesa (Area 5) was once a place where folks got together to get drunk and party, but now it was a war zone between the forces of the cult of Demogorgon and the empty scabbard killers.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Myconids",
+    "fact": "Myconids are sentient fungal beings in the Underdark, capable of silent movement and communal behavior, with sprouts being their juvenile forms.",
+    "source_quote": "These are myconids. And those little ones are sprouts, like stool.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Quagoths",
+    "fact": "Quagoths are monstrous, amphibious creatures of the Underdark, possibly once peaceful but now associated with madness and corruption, exemplified by Prince Derendil, a polymorphed elf.",
+    "source_quote": "Behind the myconids are two spore servants; from their looks, they are quagoths. For a moment, he remembers Prince Derendil, the mad quagoth, who was a polymorphed elf.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Flumph",
+    "fact": "A flumph is a gelatinous, floating creature with eye-tentacles that emits a \u2018flumph\u2019 sound, feeds on residual psychic energy, and communicates telepathically with a pleasant voice.",
+    "source_quote": "The creature looks like a mushroom cap with two tentacles that have eye sockets at their end. And below the mushroom cap are tentacles that float. The creature vents gases, making a \u201cflumph\u201d sound.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Cave with the Obelisk",
+    "fact": "A dangerous underground chamber containing a powerful obelisk being manipulated by Plinki to create a dual-headed dragon, accessible via a main entrance and a side passageway.",
+    "source_quote": "There you saw it! A chamber with a circular pathway and a pyramid. The one known as Plinki has found this mighty and tasty obelisk and has been trying to make it do something evil.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Mesa (Area 5)",
+    "fact": "Once a peaceful gathering place for Derro and Duergar to party and socialize, now a war zone between the Cult of Demogorgon and the Empty Scabbard Killers after the Faerzress altered.",
+    "source_quote": "The mesa (Area 5) was once a place where folks got together to get drunk and party, but now it was a war zone between the forces of the cult of Demogorgon and the empty scabbard killers.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Underdark Fungi Forest",
+    "fact": "A surreal, eerie forest of giant fungi and myconids, where the environment itself seems affected by the madness of the Underdark.",
+    "source_quote": "And so he continues through the eerie fungi forest, following Droki\u2019s trail.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Faerzress Fluctuation",
+    "fact": "The magical light of the Faerzress blinked off, then on brightly, then off again, then returned to normal \u2014 triggering widespread fear, societal collapse, and the transformation of the Underdark from a place of peace to one of violence and conspiracy.",
+    "source_quote": "Some months ago, the permanent twilight of the Faerzress stopped, and the cave complex became dark. Everyone was afraid, and the Faerzress blinked on brightly and then was off. And then it blinked once more, and then it returned to its usual color.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Trauma Dump",
+    "fact": "The Flumph discharged stored traumatic memories into Zalthir\u2019s mind, revealing the corruption of the Obelisk, the rise of the Cult of Demogorgon, and the fall of the Underdark\u2019s former harmony.",
+    "source_quote": "I let out all the unpleasant memories inside and into the heroes' minds, and now I feel better!",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Egg and the Obelisk",
+    "fact": "A mysterious egg, marked with strange symbols, is being corrupted by Plinki into a dual-headed dragon via an obelisk \u2014 a potential weapon or ritual object of immense power.",
+    "source_quote": "What are the strange markings on the egg? Plinki has recently converted to the Cult of Demogorgon and wishes to turn the egg into a dual-headed dragon...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Derro Councilor",
+    "fact": "A Derro bearing the insignia of the Council of Savants and the Gray Ghosts is present in the side passageway \u2014 suggesting a deeper, possibly betrayed, connection between scholarly factions and the current evil.",
+    "source_quote": "Through the side passageway, he sees a chamber with a derro that carries the insignia of office of the Council of Savants and the Gray Ghosts.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Flumph\u2019s Origin",
+    "fact": "The Flumph\u2019s knowledge of the Underdark\u2019s history and its trauma-dumping behavior suggest it may have once lived among the peaceful communities now destroyed \u2014 raising questions about its past and true motives.",
+    "source_quote": "The caves were once a hippy place, where Derro and Duergar would come to chill out, party, and be friends.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "10th day of the 1st Tenday of Myrtul 1493",
+    "fact": "The day on which the Flumph revealed the corruption of the Obelisk, the fall of the Underdark\u2019s peace, and the rise of the Cult of Demogorgon, marking a turning point in the party\u2019s journey.",
+    "source_quote": "10th day of the 1st Tenday of Myrtul 1493",
+    "quote_verified": true
+  }
+]

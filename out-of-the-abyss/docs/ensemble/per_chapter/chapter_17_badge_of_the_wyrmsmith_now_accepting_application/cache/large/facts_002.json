@@ -1,0 +1,114 @@
+[
+  {
+    "type": "npc",
+    "subject": "Pelek",
+    "fact": "Pelek is a ghostly Svirfneblin merchant who was killed and dismembered by Buppido. His bones are scattered in the derro hideout. He claims his name was given by his mother after an actor, and his family history is fraught with shame and friction. He seeks to have his bones taken to Blingdenstone and offers cryptic advice about avoiding Lolth, Menzoberranzan, the number eight, and spiders. He is fixated on his ghostly state and his failed attempts at acting. He knows of the Council of Savants and Buppido\u2019s plan to bypass Duergar taxes. He is aware of the Faerzress anomaly and its possible connection to planar instability.",
+    "source_quote": "My mother named me after an actor. And well, there was always this doubt about the origin of the name and my lineage, which created a lot of friction in my family. And since you asked. I had a delightful childhood, except when it came to my name. My father was always very jealous, and there was always an undercurrent of hurt and shame in my name and how it affected my parents. I suppose that\u2019s why I ended up as a merchant, and became friends with Buppido and ignored the tell-tale signs of his incipient murderous rampage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido was a derro who believed himself divine after the Faerzress glowed and dimmed. He was a business partner of Pelek and worked with the Council of Savants to smuggle goods out of the Underdark without paying Duergar taxes. He killed and dismembered Pelek, scattering his bones. His transformation coincided with an unusual Faerzress event. He is now dead, his corpse found in the derro hideout.",
+    "source_quote": "He promised to prove his point and brought me here.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Council of Savants",
+    "fact": "The Council of Savants is a faction of derro operating in the Underdark, known for their scholarly yet mad pursuits. They are involved in smuggling and subterfuge, and Buppido was an agent working with them. They are connected to Droki, the derro messenger, who is said to be peculiar and possibly mad. The Council is suspected of exploiting the Faerzress anomaly for unknown purposes.",
+    "source_quote": "Buppido said he could move product out of the city without dealing with the Duergar taxes.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Duergar",
+    "fact": "The Duergar are a subterranean dwarven people who impose taxes on trade and movement through their territories in the Underdark. Buppido and Pelek sought to bypass their tolls using the Council of Savants\u2019 network. Their presence is a constant economic and political pressure in the region.",
+    "source_quote": "Buppido said he could move product out of the city without dealing with the Duergar taxes.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Faerzress Anomaly",
+    "fact": "A few months ago, the Faerzress \u2014 the magical radiation that suppresses teleportation and planar travel in the Underdark \u2014 glowed intensely, then dimmed and returned brighter than before. This event coincided with Buppido\u2019s descent into divine madness and Pelek\u2019s death. It is suspected to have caused a temporary rupture in planar boundaries, possibly allowing extraplanar entities or effects to bleed into the Underdark. The cause and nature of the event remain unknown.",
+    "source_quote": "I did notice that the Faerzress glowed brightly, and after that, Buppido\u2019s temperament changed. He became convinced he was some kind of divine figure.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Grygum",
+    "fact": "Grygum is a cavernous derro hideout located beneath the Underdark, where Buppido\u2019s corpse and Pelek\u2019s scattered bones lie. It is filled with bones, fungi, and magical mushrooms, including Pygmywort, Bigwig, Nightlights, torchstalk, timmask, and barrelstalk. A narrow tunnel behind a crack in the wall leads to unknown regions. The area is haunted by Pelek\u2019s ghost and is the site of recent planar instability.",
+    "source_quote": "The blood-spattered remains of Buppido lie scattered amongst the bones that made up the crazed Derro\u2019s hideout.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Black Pool",
+    "fact": "A vast, underground lake in Grygum, filled with unnervingly black, thermal water that hides unknown entities beneath its surface. The water is warm due to a thermal spring. Daz froze the surface with magic to allow the party to cross. It lies at the end of a sloping tunnel and marks the boundary between the derro lair and the fungal thicket beyond.",
+    "source_quote": "This is no mere puddle but a large pool filling the cavern ahead, stretching nearly one hundred feet to the opposite shore. The most striking feature of this pool is its unnervingly black water.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Fungal Thicket",
+    "fact": "A dense, towering forest of fungi east of the Black Pool, blocking the path forward. It is alive with hissing sounds caused by wind passing through perforated mushrooms. It contains numerous magical fungi: Pygmywort, Bigwig, Nightlights, torchstalk, timmask, barrelstalk, and others. It is infested with swarms of centipedes. The thicket is a natural barrier and a source of both sustenance and danger.",
+    "source_quote": "Blocking the tunnel juncture is a dense fungi forest. The path ahead vanishes into a thicket where the tallest specimens reach about five feet, creating a wall of fungal life that requires effort to pass through.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Obsidian Ring",
+    "fact": "A family ring worn by Pelek, made of obsidian and of significant value. It is attached to his missing hand, which wandered off after his death. The ring is not magical, but Pelek implies it may be more valuable if claimed as such. It is a potential reward for retrieving his hand.",
+    "source_quote": "There is a family ring on it, an obsidian ring of some value. You can keep it if you find the hand.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Centipede Swarms",
+    "fact": "Swarm-sized centipedes infest the fungal thicket, emerging when the party moves through the area. They are resistant to both 'Toll the Dead' and 'Tasha's Caustic Brew', suggesting unusual resilience, possibly due to planar corruption or innate Underdark adaptation. They are aggressive and capable of swarming targets, causing distress and physical danger.",
+    "source_quote": "The centipedes, now emboldened, began to swarm over Zalthir.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Droki",
+    "fact": "Droki is a derro messenger affiliated with the Council of Savants. He is described as peculiar, possibly mad, and follows habitual patterns. His trail leads from Buppido\u2019s lair through the fungal thicket, past the Black Pool, and into unknown tunnels. He is likely aware of the Faerzress anomaly and may be acting on orders from the Council.",
+    "source_quote": "He works for the Council of Savants. He\u2019s very peculiar. Some say he\u2019s mad.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Planar Rupture",
+    "fact": "The Faerzress anomaly may have temporarily broken the walls between planes, allowing extraplanar entities to enter the Underdark. Daz speculates this could explain the sudden madness of derro, the appearance of centipede swarms, and the ghostly persistence of Pelek. The party has not yet confirmed this theory, but it is a growing concern.",
+    "source_quote": "Then if it blinked, could it have \u2014 I dunno \u2014 broken the walls between the planes?",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Pelek\u2019s Hand",
+    "fact": "Pelek\u2019s hand, bearing his obsidian ring, is missing and wandered off after his death. Its location is unknown, but it may be hidden in the fungal thicket, near the crack in the wall, or within the Black Pool. Retrieving it could yield the ring and possibly unlock further information about his death or the Council\u2019s plans.",
+    "source_quote": "Seems it went off scurrying about. There is a family ring on it, an obsidian ring of some value.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Tiny Tunnel",
+    "fact": "A narrow, unexplored tunnel behind a crack in the wall of Grygum, visible only to Pelek\u2019s ghost. It is too small for humans to pass, but may be traversable by small creatures or through magical means. Pelek claims it leads to the 'whorlstone tunnels,' suggesting a deeper, hidden network connected to the Council of Savants or other Underdark factions.",
+    "source_quote": "A tiny tunnel. Tiny all the way through.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Zalthir\u2019s Monastic Silence",
+    "fact": "Zalthir\u2019s monastic order taught him how to blind others but not how to silence them, leaving him unprepared for the constant chatter of the party and the ghost. His frustration suggests a deeper spiritual or philosophical conflict \u2014 perhaps his order\u2019s teachings are incomplete, or the Underdark demands a different kind of discipline.",
+    "source_quote": "Zalthir wonders why a monastic order devoted to silence only taught him how to make people blind, and not how to make them silent.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Overbrighters",
+    "fact": "Pelek repeatedly refers to the party as 'Overbrighters,' a term of derision or cultural distinction. It implies the party originates from or is associated with the surface world or a region beyond the Underdark. The term may be linked to the Council of Savants\u2019 propaganda, or it may reflect a deeper societal divide between surface-dwellers and Underdark natives.",
+    "source_quote": "The ghost sighs, 'Look, I don\u2019t want to possess you. It\u2019s awkward. And frankly, I like you. The city of Blingdenstone is your exit. There are many routes to the Overbrite from there.'",
+    "quote_verified": false
+  }
+]

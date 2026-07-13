@@ -1,0 +1,170 @@
+[
+  {
+    "type": "npc",
+    "subject": "Vareth",
+    "fact": "Vareth is an aging scholar with forty-one years in a side office at Candlekeep, deeply immersed in theological and philosophical debates, and has just been inspired by an offhand remark to formulate a new school of thought \u2014 the Grygum school \u2014 which posits fixed points of cosmic constraint amid otherwise free agency.",
+    "source_quote": "He calls it a compromise of the Bahamutian school... He names this the strong-weak hypothesis with the satisfaction of a man who has just filed something correctly.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Pizwog",
+    "fact": "Pizwog is an ancient tortle and researcher at Candlekeep who distributes his own syncretic theological papers, presenting them as religious tracts; he is methodical, internally inconsistent in his analyses, and deeply committed to his scholarly pursuits despite their obscurity.",
+    "source_quote": "He distributes what appears to be a religious tract, which turns out to be one of his own research papers \u2014 a syncretic analysis of different religions across the Sword Coast, deeply theoretical, internally inconsistent in ways I can tell are meaningful...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Yvenne",
+    "fact": "Sister Yvenne is a powerful figure at Candlekeep who threatens to confiscate everyone's bookplates, signaling her authority over scholarly decorum and institutional control; her action remains unexecuted but anticipated, indicating latent tension within the library\u2019s hierarchy.",
+    "source_quote": "Sister Yvenne threatens to confiscate everyone's bookplates. She has not yet, but he expects it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Keeper of Tomes",
+    "fact": "The Keeper of Tomes is a high-ranking institutional figure at Candlekeep who has been found dead under mysterious circumstances, prompting the First Reader to summon the party through the emerald door before the Avowed awaken, suggesting a deliberate cover-up or controlled investigation.",
+    "source_quote": "The Keeper of Tomes is dead! She wants you! Now, through the emerald door, before the avowed awake!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The First Reader",
+    "fact": "The First Reader is a senior authority at Candlekeep who bypasses standard protocols to summon the party directly after the Keeper of Tomes\u2019 death, indicating deep trust in their abilities and a desire to control the narrative before institutional forces intervene.",
+    "source_quote": "The first reader sent me! ... She wants you! Now, through the emerald door, before the avowed awake!",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "The Messenger",
+    "fact": "The messenger is a commoner-born youth entrusted with urgent news of the Keeper\u2019s death; his breathless urgency and visible delight in being chosen suggest he is an unwitting pawn in a larger scheme of information control.",
+    "source_quote": "Quick! The first reader sent me! The Keeper of Tomes is dead! She wants you! Now, through the emerald door, before the avowed awake!",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Avowed",
+    "fact": "The Avowed are an elite order within Candlekeep, likely responsible for security and enforcement; their delayed awakening after the Keeper\u2019s death suggests either complicity, ignorance, or a deliberate delay orchestrated by the First Reader.",
+    "source_quote": "before the avowed awake!",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Great Readers",
+    "fact": "The Great Readers are the ruling scholars of Candlekeep, seated at the high table and observed with the caution of a disputed ridge line; their behaviors \u2014 drunkenness, illness, hushed conversations \u2014 hint at internal fractures and unresolved tensions within the institution\u2019s leadership.",
+    "source_quote": "I watched them the way the giants taught me to watch a disputed ridge line...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Death of the Keeper of Tomes",
+    "fact": "The Keeper of Tomes, a key institutional figure, has been murdered under mysterious conditions, triggering a clandestine summons of the party before the Avowed can respond \u2014 an act of information control suggesting a high-level conspiracy or ritualistic significance.",
+    "source_quote": "The Keeper of Tomes is dead! She wants you! Now, through the emerald door, before the avowed awake!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Emergence of the Grygum School",
+    "fact": "A new theological school \u2014 the Grygum school \u2014 is accidentally proposed during a conversation with Vareth, positing that the universe contains fixed points of cosmic constraint around which mortal agency operates with relative freedom; it is rapidly adopted by Vareth as the central question of the age.",
+    "source_quote": "What if there are certain fixed points around which our actions must revolve? ... A *fourth* school of thought?",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Recitation of the Prophecy: 'The keeper falls, the heart is sold'",
+    "fact": "A prophecy from Alaundo\u2019s inventory is recited in the Refectory gallery \u2014 'On the longest night of winter's deepest cold, the keeper falls, the heart is sold' \u2014 directly correlating with the recent death of the Keeper of Tomes and implying a predestined, cosmic pattern underlying institutional events.",
+    "source_quote": "*On the longest night of winter's deepest cold, the keeper falls, the heart is sold.*",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is a vast, ancient library-city where scholarship is ritualized, debates are conducted at conversation volume, and prophecies are recited daily as living theology; its architecture and traditions reflect centuries of institutional gravity, and its power structures are fragile beneath their scholarly veneer.",
+    "source_quote": "Libraries are arguing. Taverns are arguing. Chapter houses are arguing... Three duels have been fought at Candlekeep over which polemic shelf gets the larger window.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "The Refectory",
+    "fact": "The Refectory is a grand dining hall built for scholars, with a ceiling so high it defies human scale; it serves as a stage for social observation, intellectual tension, and the silent recitation of prophecies, where power is displayed not by throne but by posture and presence.",
+    "source_quote": "The Refectory was built for scholars, which meant the ceiling was high enough that a hill giant could have sat comfortably at one end and not embarrassed herself.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The House of Rest",
+    "fact": "The House of Rest is the party\u2019s quarters at Candlekeep, where the mundane and the metaphysical intersect \u2014 Glabbagool\u2019s confinement, Dawnbringer\u2019s placement, and the echo of prophecies above \u2014 revealing how the institution\u2019s weight settles even in private spaces.",
+    "source_quote": "Back at the House of Rest, Glabbagool was in a state... I set Dawnbringer against the wall within reach... Above us, in a gallery I couldn't see, someone was still reciting.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Ilvara's Prayer Book",
+    "fact": "Ilvara's Prayer Book contains Zuggtmoy marginalia and theological equivalences that suggest hidden, deliberate syncretism between deities \u2014 evidence of a silent, conspiratorial shaping of belief systems consistent with the Grygum school\u2019s theory of controlled evidence.",
+    "source_quote": "I think about Ilvara's prayer book. The Zuggtmoy marginalia.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Asha Vandree's Chain Mail",
+    "fact": "A theological document written in Asha Vandree\u2019s chain mail \u2014 containing the Lolth/Zuggtmoy equivalence \u2014 was composed in a hand designed to appear incidental, indicating intentional obfuscation and covert theological engineering.",
+    "source_quote": "The theological document from Asha Vandree's chain mail \u2014 the Lolth/Zuggtmoy equivalence, written in a hand that wanted very much to seem incidental.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Glabbagool's Bag of Holding",
+    "fact": "Glabbagool, the grey ooze, has been confined in a bag of holding, an act that, while practical, is experienced by him as deeply unkind \u2014 a metaphor for institutional suppression of sentient, evolving consciousness.",
+    "source_quote": "The grey ooze had been confined to the bag of holding for most of the day... he was done with it. He wanted out.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer, the party\u2019s weapon, is now kept within reach but not drawn in the House of Rest \u2014 a ritualized negotiation of safety and restraint that mirrors the broader tension between freedom and constraint in the Grygum school.",
+    "source_quote": "I set Dawnbringer against the wall within reach \u2014 close but not drawn, which had become its own negotiation over the weeks.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Grygum School of Thought",
+    "fact": "A new theological framework \u2014 the Grygum school \u2014 has emerged as an accidental proposition, positing fixed cosmic points that constrain agency while allowing freedom between them; it is now being treated as the central question of Candlekeep\u2019s age, with Vareth actively researching it.",
+    "source_quote": "The Grygum school of thought. Filed under: things that started as offhand remarks.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Unfulfilled Prophecy Inventory",
+    "fact": "Candlekeep maintains an inventory of unfulfilled prophecies from Alaundo; the recitation of 'the keeper falls' immediately after the Keeper\u2019s death suggests that prophecies are not mere predictions but active, self-fulfilling mechanisms within the universe\u2019s architecture.",
+    "source_quote": "What remained was the unfulfilled inventory. Nobody knew what happened when the inventory ran out.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Identity of the Heart Seller",
+    "fact": "The prophecy 'the heart is sold' remains unexplained, creating a second layer of mystery beyond the Keeper\u2019s death \u2014 suggesting that a betrayal or sacrifice of institutional integrity is imminent or already underway.",
+    "source_quote": "*On the longest night of winter's deepest cold, the keeper falls, the heart is sold.*",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Nature of the Emerald Door",
+    "fact": "The emerald door is a restricted passage used for clandestine access, implying that the First Reader operates outside standard institutional channels; its existence and use raise questions about hidden power structures within Candlekeep\u2019s scholarly hierarchy.",
+    "source_quote": "through the emerald door, before the avowed awake!",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Ooze\u2019s Awakening",
+    "fact": "Glabbagool\u2019s desire to be released from the bag of holding signals a nascent sentience and existential yearning \u2014 potentially mirroring the Grygum school\u2019s idea of constrained freedom \u2014 and may foreshadow his role in a larger theological or metaphysical revelation.",
+    "source_quote": "He wanted out. I didn't know what *out* meant for an ooze. Neither did he. But the want was there.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "The Longest Night of Winter's Deepest Cold",
+    "fact": "The prophecy specifies 'the longest night of winter's deepest cold' as the time when the keeper falls \u2014 a date that is both literal and symbolic, marking a cosmic threshold where institutional collapse and metaphysical constraint converge.",
+    "source_quote": "*On the longest night of winter's deepest cold, the keeper falls, the heart is sold.*",
+    "quote_verified": true
+  }
+]

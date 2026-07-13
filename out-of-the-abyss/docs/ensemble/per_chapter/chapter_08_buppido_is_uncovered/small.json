@@ -1,0 +1,121 @@
+[
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido is a derro who claims Yukyuk's death was part of the divine plan, evades responsibility, and exhibits signs of severe mental instability. He was restrained and gagged after failing to provide coherent answers under interrogation.",
+    "source_quote": "This was all part of the plan!... Who can say? I cannot be held accountable for the divine plan.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Spiderbait",
+    "fact": "Spiderbait is a goblin who was close to Yukyuk, describes him as the kindest goblin imaginable, and accuses Shuushar of the murder due to Kuo-toan madness.",
+    "source_quote": "Yukyuk was the kindest, gentlest goblin you could imagine. He and I were pals... I\u2019ll tell you who I think it is \u2014 Shuushar. Kuo-toan\u2019s go mad. And when they go mad, they snap, and then they kill people!",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Shuushar",
+    "fact": "Shuushar is a Kuo-toan who denies involvement in Yukyuk\u2019s murder, claims to have discovered a cure for Kuo-toan insanity, and advocates for restraint and mental sanity techniques on Buppido.",
+    "source_quote": "No. Yukyuk was murdered, and Spiderbait is very upset... I propose we head to Sloobludop, where we can meet the arch-cleric of the Seamother... I can try my techniques of mental sanity on him as well!",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is an investigator who rejects supernatural explanations, employs psychological pressure and mind-slivers to extract truth, and redefines torture as 'providing motivation.' He concludes Buppido is mentally ill, not merely different.",
+    "source_quote": "I want to figure out what happened... I am not torturing him; I am providing motivation... Buppido is mad.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a character whose pleasant dream about what Monks dream about was interrupted, initially skeptical of violence, but becomes open to reconsidering his prohibition of torture after hearing Daz's perspective.",
+    "source_quote": "Motivation?... Perhaps I should reconsider my prohibition of it.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a pragmatic survivor who insists on using intelligence and deduction over easy solutions, repeatedly favors the hard way, and is resigned to the inevitability of violent outcomes.",
+    "source_quote": "That\u2019s the easy way out. Let\u2019s do it the hard way by applying intelligence, deduction, insight, and perception... That\u2019s what they all say.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith is a former member of Lolth\u2019s guard who offers brutal, specialized torture techniques as alternatives to Daz\u2019s mind-slivers, and validates Daz\u2019s methods while suggesting more extreme options.",
+    "source_quote": "That\u2019s an excellent torturing technique. However, I have other more effective ones that I was taught as a member of Lolth\u2019s guard. We could remove his eyes, nails, and other things.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Yukyuk",
+    "fact": "Yukyuk was a goblin described by all as the kindest and gentlest creature imaginable, possessing no material valuables, whose unexplained murder triggered the group\u2019s investigation and internal conflict.",
+    "source_quote": "Yukyuk was the kindest, gentlest goblin you could imagine... Other than the kindest heart, no.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Kuo-toan",
+    "fact": "The Kuo-toan are a race perceived by others as prone to madness, with the belief that when they go mad, they snap and kill. Shuushar claims to have cured this instability, but others suspect him.",
+    "source_quote": "Kuo-toan\u2019s go mad. And when they go mad, they snap, and then they kill people!",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Lolth\u2019s Guard",
+    "fact": "Lolth\u2019s Guard is an elite organization known for extreme, ritualized torture techniques, from which Sarith draws his methods of punishment and control.",
+    "source_quote": "I was taught as a member of Lolth\u2019s guard. We could remove his eyes, nails, and other things.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Sloobludop",
+    "fact": "Sloobludop is a location where the arch-cleric of the Seamother resides and can cast the zone of truth, proposed by Shuushar as a place to uncover the truth about Yukyuk\u2019s death.",
+    "source_quote": "I propose we head to Sloobludop, where we can meet the arch-cleric of the Seamother, who can cast the zone of truth, and we can learn what happened.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Taraskh",
+    "fact": "Taraskh is the calendar month in which the events occur, specifically the 3rd Tenday of Taraskh 1493, marking the timeline of Yukyuk\u2019s murder and its aftermath.",
+    "source_quote": "1st day of the 3rd Tenday of Taraskh 1493",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "shortsword",
+    "fact": "A shortsword belonging to Buppido shows signs of blood, which Daz identifies as potentially from Yukyuk\u2019s murder, leading to Buppido\u2019s interrogation and restraint.",
+    "source_quote": "He examines his equipment and notices that the shortsword may have blood on it from a victim.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "lycanthropes",
+    "fact": "Topsy and Turvy are identified as lycanthropes, contributing to the group\u2019s list of potentially unstable or dangerous members during the investigation.",
+    "source_quote": "Topsy and Turvy are lycanthropes.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "divine plan",
+    "fact": "The divine plan is a recurring, unverifiable explanation invoked by Buppido to justify Yukyuk\u2019s death and evade accountability, treated by the group as a suspicious non-answer.",
+    "source_quote": "This was all part of the plan!... Yukyuk\u2019s death was necessary for the divine plan.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Kuo-toan-fulness",
+    "fact": "Kuo-toan-fulness is a mental technique proposed by Shuushar to create a cognitive gap between impulse and action, applied as a method of control on Buppido during his restraint.",
+    "source_quote": "The goal is to create a space between the moment an impulse comes to your mind and the moment you take an action, and in that moment, wonder if that impulse is a reaction to the real world or just a response in your mind.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "1st day of the 3rd Tenday of Taraskh 1493",
+    "fact": "The precise calendar date on which Yukyuk was murdered and the subsequent investigation, interrogation, and restraint of Buppido began.",
+    "source_quote": "1st day of the 3rd Tenday of Taraskh 1493",
+    "quote_verified": true
+  }
+]

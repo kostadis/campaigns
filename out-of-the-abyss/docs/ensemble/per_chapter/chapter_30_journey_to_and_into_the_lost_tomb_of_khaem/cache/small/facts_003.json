@@ -1,0 +1,114 @@
+[
+  {
+    "type": "monster",
+    "subject": "Spectre",
+    "fact": "Four Spectres coalesced from the gloom, incorporeal and menacing, each capable of draining life force with necrotic damage and resisting most physical attacks; they were destroyed by Magic Missile strikes from the caster and Zalthir's physical assaults.",
+    "source_quote": "A Spectre. My instincts... scream danger. Then, another, and another. My mind quickly registers the threat: four Spectres now hover, incorporeal and menacing.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Wraith",
+    "fact": "A Wraith emerged from the gilded sarcophagus, radiating ancient malice and declaring its intent to turn victims into Spectres; it resisted fire magic, was immune to physical strikes due to its ethereal nature, and retreated into its sarcophagus after failing to harm Thorin.",
+    "source_quote": "From the sarcophagus, a figure rises, ethereal and malicious. A Wraith. Its voice... fills our minds... 'Your deaths will free me from this prison, and how my victims will serve me even in death!'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum attempted to turn the undead with his holy symbol but failed, as the Spectres' wills were too strong or their existence too ancient; he later observed the Wraith's behavior with dry amusement and noted the hidden stone chest near the sarcophagus.",
+    "source_quote": "Grygum, in his devotion, tries to turn them, his holy symbol raised, but the Spectres resist, their wills too strong, or perhaps their existence too ancient to be swayed.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir used his sphere of darkness to engulf the chamber, then moved the sarcophagus lid, triggering the voice of the trapped entity; he physically destroyed two Spectres with blurring punches and declared 'I will punch the ghost!'",
+    "source_quote": "Zalthir, ever the whirlwind, moves his sphere of darkness, then his fists become blurs in the gloom, punching and pummeling. He kills one, then another. 'I will punch the ghost!' he declares.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin led the party through the confined passage and was targeted by the Wraith's attack, but his armor and divine protection from Bahamut caused the blow to miss, allowing him to remain unharmed.",
+    "source_quote": "We descend, Thorin taking the lead... The Wraith... attacks Thorin. But the dwarf's armor and the grace of Bahamut protect him; the attack misses.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz considered casting Fireball against the Wraith but recalled its fire resistance and instead opted for Magic Missile, recognizing the need for precise magical force over area damage.",
+    "source_quote": "Daz contemplates a Fireball, but then remembers that they are resistant to fire. 'Magic missiles it is,' and the bolts of power are precise and undeniable...",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Trapped Entity",
+    "fact": "A soft, feminine voice, identical to the one heard earlier in the tomb, emanated from within the gilded sarcophagus, claiming it could help \u2014 suggesting it is not the Wraith but a separate, possibly benevolent or imprisoned spirit tied to Brysis's tomb.",
+    "source_quote": "Just as the lid creaks aside, the soft, feminine voice from earlier... speaks again, 'In the sarcophagus! I can help you!'",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Invisible Stone Chest",
+    "fact": "An invisible stone chest was noted near the foot of the gilded sarcophagus, consistent with the pattern of hidden Netherese treasures and likely containing additional valuables or artifacts.",
+    "source_quote": "I notice the subtle shimmer of an invisible stone chest near its foot. Predictable. An actual tomb wouldn't be without its grand pronouncements and its hidden treasures.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Netherese Sarcophagi",
+    "fact": "Each sarcophagus contained mummified remains, tattered ancient burial garments, and treasure of Netherese origin \u2014 valuable as gold and potentially more so to collectors or scholars.",
+    "source_quote": "Each sarcophagus contains mummified remains, the tattered remnants of ancient burial garments, and treasure of Netherese origin. They are worth a great deal as gold, and perhaps even more to the right collector.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Chamber of Brysis",
+    "fact": "A tomb chamber adorned with murals of Brysis of Khaem and her lost cities, housing a gilded sarcophagus, an invisible stone chest, and the source of spectral and wraithish undead; the air was thick with ancient stillness and undeath.",
+    "source_quote": "The air grows heavier, thick with an ancient stillness. We enter a new chamber, and the faint light catches murals on the walls, depicting grand scenes, probably of the Netherese sorceress Brysis of Khaem and her lost cities.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Spectre Destruction",
+    "fact": "The four Spectres were destroyed by a combination of Magic Missile spells and Zalthir's physical attacks, ending their immediate threat but leaving behind the lingering danger of their potential return if Brysis's evil remains unbroken.",
+    "source_quote": "With the last Spectre vanquished by Zalthir's relentless strikes, a momentary quiet descends...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Wraith Retreat",
+    "fact": "The Wraith retreated into its sarcophagus after failing to harm Thorin, a tactical withdrawal that suggested cunning or a dependency on its resting place, raising questions about its true nature and vulnerability.",
+    "source_quote": "Then, in a move I find utterly infuriating, the Wraith hovers back into its sarcophagus. 'Coward,' I think...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "True Owner of the Voice",
+    "fact": "The feminine voice calling for help from within the sarcophagus is distinct from the Wraith \u2014 implying a trapped, possibly sentient entity tied to Brysis's legacy, whose identity and intentions remain unresolved.",
+    "source_quote": "In the sarcophagus! I can help you!' So, the trapped entity, the true owner of the voice, is inside this sarcophagus. Is it the Wraith or is it something else?",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Return of the Undead",
+    "fact": "The party recalls that undead like Spectres and Wraiths often return if the central evil force that created them \u2014 here, likely Brysis \u2014 remains unextinguished, meaning a long rest may invite their resurgence.",
+    "source_quote": "I remember that many such creatures will return after being destroyed when the central evil force that created them remains. If we rest, we will find them here when we come back.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Pursuit Beyond the Passageway",
+    "fact": "The party fears that even if they defeat the undead in the tomb, they may be pursued if they venture down the dark passageway, as the evil may extend beyond the tomb's boundaries.",
+    "source_quote": "And although they may just stay here, they may also pursue us. Before we go down the dark passageway, we open the sarcophagi.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session time",
+    "fact": "The events occur after a prolonged dungeon delve, with the party now at a critical juncture requiring rest, investigation, and decision-making before proceeding further into the Underdark.",
+    "source_quote": "I'm gonna need a long rest here pretty soon... 'Is this, would this be a good time for us to take a\u2026 Long rest. By chance?' I inquire, hopefully.",
+    "quote_verified": false
+  }
+]

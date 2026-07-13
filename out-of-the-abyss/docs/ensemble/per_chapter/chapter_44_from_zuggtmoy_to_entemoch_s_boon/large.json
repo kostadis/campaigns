@@ -1,0 +1,142 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a trained warrior who recalled a metaphysical puzzle from his training about magical pressure causing time to snag, and who engaged a basilisk in close combat while averting his eyes.",
+    "source_quote": "Zalthir recalled a metaphysical puzzle from his training: magical pressure had caused time to snag at this point, and breaking it directly would unleash a catastrophic explosion.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz perceived the Galeb Duhr's vibrations as a linguistic pattern\u2014a call waiting for an echo\u2014and completed the ancient handshake protocol by arranging resonant geodes while humming.",
+    "source_quote": "Daz perceived their vibrations as a linguistic pattern\u2014a call waiting for an echo that never came.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum sensed the Galeb Duhr were waiting for divine authority and later blessed Zalthir to aid him in redirecting the magical blast.",
+    "source_quote": "Grygum sensed they were waiting for divine authority.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin rushed to the summoning circle, deciphered the giant runes, and placed a dart as the weapon sacrifice, triggering the ritual's transformation.",
+    "source_quote": "Thorin rushed to the summoning circle and deciphered the giant runes. To free Ent\u00e9moch and claim his boon, three sacrifices were required: wealth, a weapon, and blood. Thorin placed a dart onto the runes as the weapon sacrifice.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Perigrog Scrapedust",
+    "fact": "Perigrog Scrapedust explained that a tunnel had become impassable due to blinding crystallite walls and absolute silence, with shadows appearing painted rather than flickering.",
+    "source_quote": "Perigrog Scrapedust explained that a tunnel had become impassable\u2014impossibly dry, with blinding crystallite walls and absolute, suffocating silence.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Dasco Pickshine",
+    "fact": "Dasco Pickshine, the mine owner, tried everything to move the Galeb Duhr\u2014including striking them with his pickaxe\u2014but the ancient sentinels refused to budge.",
+    "source_quote": "The mine owner, Dasco Pickshine, had tried everything to move them, even striking them with his pickaxe, but the ancient sentinels refused to budge.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Galeb Duhr",
+    "fact": "The Galeb Duhr are ancient stone sentinels who vibrate rhythmically like singing stones, awaiting divine authority, and only relented after Daz completed the ancient handshake protocol.",
+    "source_quote": "Four massive Galeb Duhr blocked the path, vibrating rhythmically like stones singing the first half of a forgotten duet.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Basilisks",
+    "fact": "Two basilisks guard the summoning circle with mechanical precision, viewing the party as flaws in perfect stone, and are immune to conventional tactics due to their petrifying gaze.",
+    "source_quote": "Two basilisks guarded the circle, moving with mechanical precision rather than natural animal behavior, as if they viewed the party as flaws in perfect stone.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Galeb Duhr handshake protocol",
+    "fact": "Daz completed the ancient handshake protocol by arranging resonant geodes while humming, causing the Galeb Duhr to relax and open the way.",
+    "source_quote": "After discovering resonant geodes and arranging them while humming, Daz completed the ancient handshake protocol, and the Galeb Duhr finally relaxed and opened the way.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Summoning circle ritual initiation",
+    "fact": "Thorin placed a dart as the weapon sacrifice into the summoning circle, causing the runes to transform from yellow to blinding orange, the air to grow hot, and the uncharmed basilisk to become frantic.",
+    "source_quote": "Thorin placed a dart onto the runes as the weapon sacrifice, and the stone instantly swallowed it, rusting it to dust in seconds. The runes transformed from yellow to blinding orange, the air grew hot, and the uncharmed basilisk became frantic as the ritual began.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Shadow Monk maneuver",
+    "fact": "Zalthir executed a perfect maneuver to redirect the magical blast through shadow space as the explosives detonated, shattering the wall without collapsing the tunnels.",
+    "source_quote": "With Grygum's blessing to aid him, Zalthir positioned himself as the explosives detonated, executing a perfect maneuver to redirect the magical blast through shadow space. The wall shattered without collapsing the tunnels.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Pickshine Mine",
+    "fact": "Pickshine Mine is a location blocked by four Galeb Duhr, owned by Dasco Pickshine, and contains resonant geodes that were used to complete the ancient handshake protocol.",
+    "source_quote": "The party arrived at Pickshine Mine, where four massive Galeb Duhr blocked the path...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "White Shell Mine",
+    "fact": "White Shell Mine is the largest salt mine in the Underdark, with an impassable tunnel featuring blinding crystallite walls and absolute silence, where time appears to have stopped.",
+    "source_quote": "Beyond the breached wall, they discovered a large cavern containing a summoning circle... The geode, now acting as a beacon locator, led them deeper into the earth to the White Shell Mine, the largest salt mine in the Underdark.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Resonant geodes",
+    "fact": "Resonant geodes were discovered and arranged by Daz while humming, completing the ancient handshake protocol that allowed the Galeb Duhr to open the way.",
+    "source_quote": "After discovering resonant geodes and arranging them while humming, Daz completed the ancient handshake protocol...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Dart",
+    "fact": "The dart placed by Thorin into the summoning circle served as the weapon sacrifice and was instantly swallowed and rusted to dust, triggering the ritual\u2019s transformation.",
+    "source_quote": "Thorin placed a dart onto the runes as the weapon sacrifice, and the stone instantly swallowed it, rusting it to dust in seconds.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Shambling Mound",
+    "fact": "The Shambling Mound in the Festering Fissure proved resilient, shrugging off magical assaults with uncanny luck, until Zalthir's and Thorin's relentless strikes brought it down.",
+    "source_quote": "The party found themselves locked in fierce combat with a Shambling Mound in the Festering Fissure... The Shambling Mound proved resilient, shrugging off magical assaults with uncanny luck, but Zalthir's relentless strikes and Thorin's devastating blows eventually brought the creature down.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Basilisks",
+    "fact": "Two basilisks guard the summoning circle with mechanical precision, their petrifying gaze requiring the party to avoid direct eye contact while engaging them.",
+    "source_quote": "Two basilisks guarded the circle, moving with mechanical precision rather than natural animal behavior, as if they viewed the party as flaws in perfect stone.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Ent\u00e9moch's boon",
+    "fact": "Three sacrifices are required to free Ent\u00e9moch and claim his boon: wealth, a weapon, and blood. Only the weapon sacrifice has been completed; two remain.",
+    "source_quote": "To free Ent\u00e9moch and claim his boon, three sacrifices were required: wealth, a weapon, and blood... The party now stood on the threshold of completing their quest, with only two sacrifices remaining to unlock Ent\u00e9moch's power.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Zuggtmoy's sinister plans",
+    "fact": "Zuggtmoy, the Lady of Rot, spoke to the Pudding King about using oozes to 'soften the shell' so her garden could 'take root in the flesh beneath,' hinting at a larger cosmic threat.",
+    "source_quote": "a chilling voice echoed in their minds\u2014Zuggtmoy, the Lady of Rot, speaking to the Pudding King about her sinister plans to use oozes to 'soften the shell' so her garden could 'take root in the flesh beneath.'",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occur during the party's current expedition, following the completion of the Galeb Duhr handshake and preceding the final two sacrifices for Ent\u00e9moch's boon.",
+    "source_quote": "The party now stood on the threshold of completing their quest, with only two sacrifices remaining to unlock Ent\u00e9moch's power.",
+    "quote_verified": true
+  }
+]

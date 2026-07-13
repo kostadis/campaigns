@@ -7,11 +7,11 @@ source: gmassist
 
 ## Scene summary (from gm-assist, verbatim)
 
-#### The party discusses why no single spell proves guilt on its own and receives a scholarly paper on combining multiple investigative tools.
+#### The party discusses why no single spell proves guilt on its own and receives a research memorandum on combining multiple investigative tools.
 - The party debates the mechanics of polymorph spells (any creature within 60 feet, one-hour duration) and how they might relate to the sighting of a lookalike near the crime scene. Zalthir flags a timeline problem: the Sylvira lookalike was seen in the kitchens around 1 AM and again coming down the stairs between 2 and 3 AM — too far apart for a single one-hour polymorph, suggesting "something more is going on." The DM noted he would have to consult Claude to resolve whether it was an error or a "special spell."
-- A clerk named Elian approaches Thorin to praise his "very thorough, deductive work" in the kitchens and presents a research paper on criminal investigation methodology, sharing it via the "Ember Grapple."
+- A clerk named Elian approaches Thorin to praise his "very thorough, deductive work" in the kitchens and presents a research memorandum on criminal investigation methodology, sharing it via the "Ember Grapple."
 - The paper was championed by Kalan Strongbranch, who believed that magic makes evidence adversarial rather than reliable, and that facts must be collected and combined. Grygum compared its thesis to real-world magicians' card tricks: "one of the best ways to do something as a trick is to do something that would take so much time and effort that people just assume you couldn't have done it that way."
-- The party learns that Kalan's approach was met with significant pushback, and Elian implies this controversy may be connected to why Kalan was fired — "I'm telling you, there is something rotten here."
+- The party learns that Kalan's approach was met with significant pushback, and Elian implies this controversy may be connected to why Janussi wanted Kalan gone — "I'm telling you, there is something rotten here."
 - The group discusses the philosophical nature of truth and the unreliability of speaking with the dead. Thorin asks, "if we were able to actually make Speak to the dead, how do you know that they're a reliable narrator?" Grygum quips, "Once you have eliminated the impossible, whatever remains, however unlikely, must be the truth?" — claiming he "made it up myself."
 - Elian, like Fembris, angled for credit on a "monograph," and was similarly corrected, eventually settling for Thorin writing an introduction or preface.
 
@@ -221,7 +221,7 @@ source: gmassist
 > "Well, maybe the cat."
 
 **[GM]**
-> "to twice."
+> "[inaudible — fragment, unclear]."
 
 **[Zalthir]**
 > "Well, right, but if so, that would imply someone who went to her twice in the court span of 2 or 3 hours. I don't know."

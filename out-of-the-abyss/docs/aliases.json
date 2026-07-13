@@ -35,7 +35,8 @@
   "Honemmeth": [],
   "Ilvara Mizzrym": [
     "Ilvara",
-    "Mistress Ilvara"
+    "Mistress Ilvara",
+    "Elvara"
   ],
   "Imbros": [],
   "Jaezred": [],
@@ -283,7 +284,9 @@
   "Cyrog": [],
   "Dame Spiderwort": [],
   "Glabbagool": [
-    "Glabagool"
+    "Glabagool",
+    "Globagool",
+    "Globul"
   ],
   "Grazilaxx": [],
   "Grula-Munga": [],
@@ -299,7 +302,8 @@
     "Ebonmire Princess Ebonmire",
     "Ebonmire",
     "Princess Ebonheir",
-    "Ebonheir"
+    "Ebonheir",
+    "Ebonir"
   ],
   "Spider King": [],
   "Stronk": [],
@@ -581,7 +585,9 @@
   "Illusk": [],
   "Luskan": [],
   "Mirabar": [],
-  "Mithral Hall": [],
+  "Mithral Hall": [
+    "Mithril"
+  ],
   "Nelrindenvane": [],
   "Nesme": [],
   "Silver Marches": [],
@@ -853,7 +859,8 @@
   "thuldar": [],
   "Xarrorn": [],
   "Zhentarim": [
-    "Black Network"
+    "Black Network",
+    "Zentarim"
   ],
   "A Flight of Demons": [],
   "Against the Demon Lords": [],
@@ -913,21 +920,44 @@
     "Skoda Vanaster"
   ],
   "Alkrist": [],
-  "A'lai Aivenmore": [],
-  "Sylvira Savikas": [],
-  "Daral Yashenti": [],
-  "Fheminor Scrivenbark": [],
-  "Teles Ahvoste": [],
-  "Kazryn Nyantani": [],
-  "Kalan Strongbranch": [],
-  "Kei Tigersteel": [],
+  "A'lai Aivenmore": [
+    "Aivenmore"
+  ],
+  "Sylvira Savikas": [
+    "Savikas"
+  ],
+  "Daral Yashenti": [
+    "Yashenti"
+  ],
+  "Fheminor Scrivenbark": [
+    "Scrivenbark"
+  ],
+  "Teles Ahvoste": [
+    "Ahvoste"
+  ],
+  "Kazryn Nyantani": [
+    "Nyantani",
+    "Ntantani"
+  ],
+  "Kalan Strongbranch": [
+    "Strongbranch",
+    "Callan",
+    "Strongbench"
+  ],
+  "Kei Tigersteel": [
+    "Tigersteel"
+  ],
   "V'ziir-Ag": [],
-  "Fembris Lancer": [],
+  "Fembris Lancer": [
+    "Lancer"
+  ],
   "Tadric": [],
   "Irony": [],
   "Sprig Summerfoot": [],
   "Orrin Glass": [],
-  "Miss Hollypocket": [],
+  "Miss Hollypocket": [
+    "Hollypocket"
+  ],
   "Queenie": [],
   "Nibbles": [],
   "Leuwin": [],
@@ -973,7 +1003,9 @@
   "Philosopher's Court": [],
   "The Grove": [],
   "Exaltation": [],
-  "The High Tower": [],
+  "The High Tower": [
+    "Hightower"
+  ],
   "The High Tower Library": [],
   "The Keeper's Tower": [],
   "The Readers' Tower / Reader's Tower": [],
@@ -981,7 +1013,9 @@
   "The Ceremonial Hall": [],
   "The Chapter House": [],
   "The Oratory": [],
-  "The Refectory": [],
+  "The Refectory": [
+    "Refectory"
+  ],
   "The Southern Dining Hall": [],
   "The Reading Salon": [
     "Readers' Salon"
@@ -997,7 +1031,9 @@
   "The Jewel of the Styx": [],
   "The Old Keep": [],
   "House of Mechanus": [],
-  "The Oak Tree Apothecary": [],
+  "The Oak Tree Apothecary": [
+    "Apothecary"
+  ],
   "The Cursed Tower": [],
   "The House of Alaundo": [],
   "The House of Records": [],
@@ -1013,7 +1049,9 @@
   "The Tower of Tall Tales": [],
   "The Hall of Momentous Deeds": [],
   "The Melodrome": [],
-  "The Astronomicon": [],
+  "The Astronomicon": [
+    "Astronomicon"
+  ],
   "The Oval Theatre": [],
   "The Rotunda": [],
   "The Emerald Door": [],
@@ -1057,7 +1095,9 @@
   "Pilar's instant summons": [],
   "Drawmij's instant summons": [],
   "Mordenkainen's Magnificent Mansion": [],
-  "The Avowed": [],
+  "The Avowed": [
+    "Avowed"
+  ],
   "The Watchers": [],
   "Great Readers": [],
   "Keepers of Secrets": [],
@@ -1101,7 +1141,8 @@
     "Jadger"
   ],
   "Kaelira Duskryn": [
-    "Kaelira"
+    "Kaelira",
+    "Kaelen"
   ],
   "Nym Duskryn": [
     "Nym"
@@ -1148,19 +1189,29 @@
   "Gru Manga": [],
   "Grygum": [],
   "Khaem": [],
-  "Khell-Vire": [],
+  "Khell-Vire": [
+    "Khell",
+    "Kelvir"
+  ],
   "King Hekaton": [],
   "Korrh Erann": [],
   "Lingrick Xardelvar": [],
-  "Milo Goodbarrel": [],
+  "Milo Goodbarrel": [
+    "Goodbarrel"
+  ],
   "Ogremoch": [],
   "Philemon (Master Archivist)": [],
-  "Protanther": [],
+  "Protanther": [
+    "Protenthor"
+  ],
   "Rihaud": [],
   "Runc": [],
   "Rusharoo": [],
   "Rust": [],
-  "Sister Yvenne": [],
+  "Sister Yvenne": [
+    "Yvenne",
+    "Yvonne"
+  ],
   "Skiit": [],
   "Spiderbait": [],
   "Starlace": [],
@@ -1177,8 +1228,99 @@
   "Ulnara": [],
   "Valen": [],
   "Valimor Brightgem": [],
-  "Vareth": [],
+  "Vareth": [
+    "Varith"
+  ],
   "Welnaste Mizzrym": [],
   "Whisperwind": [],
-  "Zalthir": []
+  "Zalthir": [],
+  "The Whispering Dome": [],
+  "Mending": [],
+  "Candlekeep": [],
+  "Bahamut": [
+    "Buhammad"
+  ],
+  "Daggerford": [],
+  "Triboar": [],
+  "Whistler": [
+    "Ardragon"
+  ],
+  "Rishaal": [],
+  "Rishaal's Pageturners": [
+    "Pageturners"
+  ],
+  "Travis Houlin": [
+    "Travis"
+  ],
+  "Malfire": [
+    "Melfire"
+  ],
+  "House T'sarran": [
+    "T'sarran"
+  ],
+  "Eldred": [
+    "Elred"
+  ],
+  "Janussi's locket": [],
+  "Lesser Restoration": [
+    "Restoration",
+    "restoration"
+  ],
+  "Ellen": [
+    "Elin"
+  ],
+  "Meredith of the Ford": [],
+  "Stroudites": [
+    "Stroudite",
+    "Stroud School",
+    "Stroudian"
+  ],
+  "the Ember Vanguard": [
+    "Ember Vanguard"
+  ],
+  "Account of the War of the Dragons": [],
+  "Uthgardt": [],
+  "Tempus": [],
+  "Bahamutians": [
+    "Bahamutian"
+  ],
+  "Kestler": [
+    "Kessler"
+  ],
+  "Tiamat": [],
+  "Netherese": [
+    "Netherrese"
+  ],
+  "the Grygumite triangle": [],
+  "1001 Tashalian Nights": [
+    "Tashalan"
+  ],
+  "the Whistlerites": [],
+  "Glaziel": [],
+  "the Ordning": [],
+  "Sundabar": [],
+  "Beregost": [],
+  "the Overbright": [],
+  "the Flora Theca": [],
+  "Vooshadi Moonriver": [],
+  "Plinky": [],
+  "Dust of Suleiman": [],
+  "House Turan": [],
+  "Bookwyrm's Brownnosers": [],
+  "the Miloites": [],
+  "Protanthians": [
+    "Protantherians"
+  ],
+  "Lothheism": [],
+  "Kelemvor": [],
+  "Whirlstone Caverns": [],
+  "the Dragonstelle": [],
+  "Tednimar": [],
+  "the Zagotami Marginalia": [
+    "Zugatami Marginalia"
+  ],
+  "Daz'issin": [],
+  "the Ember Grapple": [
+    "Endergrapple"
+  ]
 }

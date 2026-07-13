@@ -1,0 +1,681 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occur on the 9th day of the 2nd Tenday of Taraskh 1493.",
+    "source_quote": "9th day of the 2nd Tenday of Taraskh 1493",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Yuk-Yuk",
+    "fact": "Yuk-Yuk joins the group as a goblin guide promised 20 gold.",
+    "source_quote": "Their group expanded to include two members, the curious goblins Yuk-Yuk and Spiderbait. They were promised 20 gold",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Spiderbait",
+    "fact": "Spiderbait joins the group as a goblin guide promised 20 gold.",
+    "source_quote": "Their group expanded to include two members, the curious goblins Yuk-Yuk and Spiderbait. They were promised 20 gold",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar convinced Yuk-Yuk and Spiderbait to follow him into the dangerous tunnels.",
+    "source_quote": "Jimjar convinced them to follow him into the dangerous tunnels.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Ripplebark",
+    "fact": "Ripplebark is edible in its raw state and can be roasted to improve its nutty flavor.",
+    "source_quote": "They find some Ripplebark that, despite its rotten fresh appearance, is entirely edible in its raw state and could be roasted to improve its nutty flavor.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Ripplebark",
+    "fact": "Scorched or burnt ripplebark turns black but is still edible.",
+    "source_quote": "Scorched or burnt ripplebark turned black but was still edible.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Ripplebark",
+    "fact": "Ripplebark can neutralize disease germs.",
+    "source_quote": "It could also neutralize disease germs.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Waterorb",
+    "fact": "The Waterorb is a fungus that grows in the Underdark in shallow water.",
+    "source_quote": "the Waterorb is a fungus that grows in the Underdark in shallow water.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Waterorb",
+    "fact": "A mature Waterorb is bulbous in shape and bigger than a human head.",
+    "source_quote": "When mature, it was bulbous in shape and bigger than a human head.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Waterorb",
+    "fact": "When squeezed and wrung out, a Waterorb yields about a gallon of potable water.",
+    "source_quote": "If squeezed and wrung out, it yields about a gallon (almost four liters) of potable water.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Waterorb",
+    "fact": "The remaining husk of a Waterorb is bland and chewy like a sponge but edible.",
+    "source_quote": "The remaining husk was bland and chewy like a sponge but edible",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Waterorb",
+    "fact": "A Waterorb can be used to store water.",
+    "source_quote": "But more importantly, it can be used to store water.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Silken Tunnels",
+    "fact": "The Silken Tunnels are behind the group as they enter the Underdark.",
+    "source_quote": "The Silken Tunnels are behind them now, and the dark depths of the Underdark are ahead.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Underdark",
+    "fact": "The group enters the dark depths of the Underdark.",
+    "source_quote": "the dark depths of the Underdark are ahead",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Faerzress magic effect",
+    "fact": "Yuk-Yuk and Spiderbait notice the colors in the Faerzress-magic-rich tunnels are different than usual.",
+    "source_quote": "Yuk Yuk and Spiderbait find the colors somehow different than they are used to.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin's madness",
+    "fact": "Thorin suddenly screams, laughs, and weeps for about ten minutes due to the Underdark's effects.",
+    "source_quote": "But it is Thorin who suddenly loses it abruptly. He starts screaming, laughing, and weeping. After about ten minutes...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin recovers from madness",
+    "fact": "Thorin recovers from his episode and says, 'I have no idea what happened. But I am fine now.'",
+    "source_quote": "he recovers. 'I have no idea what happened. But I am fine now.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Shuushar the Awakened",
+    "fact": "Shuushar the Awakened suggests Ploopploopeen can help Thorin.",
+    "source_quote": "Shuushar the Awakened sees Thorin\u2019s bout of madness and remarks that perhaps in Sloobludop, the archpriest Ploopploopeen can help.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ploopploopeen",
+    "fact": "Ploopploopeen is the archpriest of the Sea Mother in Sloobludop.",
+    "source_quote": "Ploopploopeen is a follower of the Sea Mother",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum mutters that 'Ploopploopeen' is a tongue twister.",
+    "source_quote": "Grygum hears the name of the archpriest and mutters, 'That\u2019s quite a bit of tongue twister.'",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "bottomless gorge",
+    "fact": "The group reaches a massive cavern with a bottomless gorge.",
+    "source_quote": "he finds himself in a massive cavern with what appears to be a bottomless gorge.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir laments he cannot fly across the bottomless gorge.",
+    "source_quote": "Zalthir mutters, 'If only I could fly, I could get across. But I don\u2019t, and there is no way to climb across it.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir realizes cavern ceiling is climbable",
+    "fact": "Zalthir realizes the cavern has a ceiling that allows climbing over the gorge.",
+    "source_quote": "Zalthir looks up and suddenly realizes he\u2019s in a cave with a ceiling that allows anyone to climb over the gorge.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin climbs to roof",
+    "fact": "Thorin volunteers to climb to the roof of the cavern to cross the gorge.",
+    "source_quote": "Thorin volunteers. As Thorin is about to start his climb...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Jimjar and Grygum make bet",
+    "fact": "Grygum asks Jimjar to bet whether Thorin will make it across.",
+    "source_quote": "Grygum asks Jimjar - 'Wanna make a bet?'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin overhears bet",
+    "fact": "Thorin overhears the bet between Grygum and Jimjar.",
+    "source_quote": "Thorin overhears the bet and shrugs.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin ties rope and climbs",
+    "fact": "Thorin ties a rope around his waist and begins climbing to the roof and across the gorge.",
+    "source_quote": "He takes a rope, ties it around his waist, and then begins the hazardous sport of climbing to the roof of the cavern and then the gorge.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin reaches other side",
+    "fact": "Thorin drops down on the other side of the gorge.",
+    "source_quote": "He drops down as he gets to the other side of the gorge.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin claims bet won",
+    "fact": "Thorin shouts, 'We don\u2019t owe you any more money, Jimjar.'",
+    "source_quote": "Thorin shouts, 'We don\u2019t owe you any more money, Jimjar.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Bandits ambush Thorin",
+    "fact": "Several humans hiding on the other side of the gorge attack Thorin with crossbows.",
+    "source_quote": "Unfortunately, the darkness does not permit him to notice several humans hiding on the other side of the gorge who attack him with their crossbows.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "bandits",
+    "fact": "The attackers are desperate bandits dressed in a mix of armor and clothing.",
+    "source_quote": "The attackers appear to be desperate bandits dressed in a mix of armor and clothing",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "bandits",
+    "fact": "The bandits are armed with scimitars and crossbows.",
+    "source_quote": "and armed with scimitars and crossbows.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "bandits",
+    "fact": "The bandits' equipment suggests they have been in the Underdark for some time.",
+    "source_quote": "Their equipment suggests they have been in the Underdark for some time.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "fight against bandits",
+    "fact": "The fight against the bandits is short, brutal, and victorious.",
+    "source_quote": "The fight is short, brutal, and victorious.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "water bladders",
+    "fact": "Zalthir discovers water bladders on the bandit corpses as vital adventuring gear.",
+    "source_quote": "Zalthir is pleased to discover many vital pieces of adventuring gear on the corpses, the most important of which are water bladders.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "tinderbox",
+    "fact": "Jimjar is excited about finding a tinderbox on the bandit corpses.",
+    "source_quote": "Jimjar, however, is excited about the tinderbox",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "tinderbox",
+    "fact": "Jimjar believes toasted Ripplebark is the best thing in the Underdark.",
+    "source_quote": "Toasted Ripplebark, the best thing in the Underdark.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "disposal of corpses",
+    "fact": "The group debates whether to leave the bandit corpses or dispose of them to avoid attracting trackers.",
+    "source_quote": "Zalthir turns to the locals, 'Do we leave the bodies here, and will the ecosystem of monsters impede our pursuers? Or should we dispose of the bodies because it will be a trail?'",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "disposal of corpses",
+    "fact": "Jimjar, Topsy, and Turvy believe monsters will be a hindrance if corpses are left.",
+    "source_quote": "Jimjar, Topsy, and Turvy believe that the monsters will be a hindrance.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "disposal of corpses",
+    "fact": "Shuushar believes trackers cannot discern anything from the circle of life.",
+    "source_quote": "Shuushar feels that the notion that trackers can discern anything from what the circle of life is is absurd.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "disposal of corpses",
+    "fact": "Buppido insists leaving the bodies will leave a trail.",
+    "source_quote": "Buppido is emphatic that this will leave a trail.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "bodies dropped into gorge",
+    "fact": "The group drops the bandit bodies into the bottomless gorge based on Zalthir\u2019s trust in Buppido\u2019s conviction.",
+    "source_quote": "Zalthir believes Buppido. There is something about the Derro\u2019s conviction. And so the bodies are dropped into the bottomless gorge.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Stool identifies Nilhogg's nose",
+    "fact": "Stool points out a mushroom he calls a Nilhogg's nose.",
+    "source_quote": "Stool shouts, 'That\u2019s a cool mushroom!' He calls the mushroom a Nilhogg's nose.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Nilhogg's nose",
+    "fact": "Nilhogg's nose is edible but does not fill you up.",
+    "source_quote": "You can eat it, but it won\u2019t fill you up.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Nilhogg's nose",
+    "fact": "After eating Nilhogg's nose, one\u2019s sense of smell is enhanced.",
+    "source_quote": "But after eating it, you can smell better and find good mushrooms and other smells. It\u2019s like the smells become so much more.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Nilhogg's nose",
+    "fact": "Smelling a bad odor after eating Nilhogg's nose causes intense pain.",
+    "source_quote": "But if you smell a bad smell, it hurts you a lot more.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Nilhogg's nose",
+    "fact": "Zalthir collects a bunch of Nilhogg's nose mushrooms.",
+    "source_quote": "Zalthir collects a bunch.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin talks to Eldeth",
+    "fact": "Thorin tries to talk to Eldeth in the evening.",
+    "source_quote": "In the evening, Thorin tries to talk to Eldeth.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Thorin's relationship with giants",
+    "fact": "Eldeth finds Thorin\u2019s relationship with giants off-putting.",
+    "source_quote": "But the shield dwarf finds Thorin\u2019s relationship with giants to be offputting.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "War of the Giants",
+    "fact": "The War of the Giants followed the War of the Dragons and ended in a peculiar stalemate.",
+    "source_quote": "The War of the Giants that happened after the War of the Dragons ended in a peculiar stalemate.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "War of the Giants",
+    "fact": "The Ordning was re-established after the War of the Giants.",
+    "source_quote": "Although the Ordning was re-established",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "War of the Giants",
+    "fact": "The giant civil war continued after the Ordning was re-established.",
+    "source_quote": "the giant civil war continued.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "War of the Giants",
+    "fact": "The War of the Giants had a devastating effect on the people of the North.",
+    "source_quote": "And the effect on the people of the North was devastating.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin defends his relationship with giants",
+    "fact": "Thorin says, 'But they were different giants!'",
+    "source_quote": "Thorin says - 'But they were different giants!'",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The next day is the 10th day of the 2nd Tenday of Taraskh 1493.",
+    "source_quote": "10th day of the 2nd Tenday of Taraskh 1493",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth is frustrated by trudging through the dark but continues foraging.",
+    "source_quote": "Another day in the dark,' mutters Eldeth. Her frustration at trudging through the dark will not stop her from finding plenty of food.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth's foraging makes her indispensable to the group.",
+    "source_quote": "Her success as a forager has made her indispensable to the group.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth's ability to hide tracks may be why the group is still alive.",
+    "source_quote": "Her ability to hide their tracks may be why they are still alive.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Drow of Velkynvelve",
+    "fact": "The Drow of Velkynvelve is now almost forgotten by the group.",
+    "source_quote": "The Drow of Velkynvelve is now almost forgotten.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Eldeth discovers Tinmmasks",
+    "fact": "Eldeth stops the group and identifies a field of Tinmmasks mushrooms.",
+    "source_quote": "Stop,' she shouts. She is standing in front of a cave covered with mushrooms. She shouts, 'Tinmmasks.'",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Tinmmasks",
+    "fact": "Tinmmasks are squat toadstools growing to about two feet in width and height.",
+    "source_quote": "a field of squat toadstools growing to about two feet in width and height.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Tinmmasks",
+    "fact": "Tinmmasks grow in clusters of no more than four.",
+    "source_quote": "They are grouped in clusters, with no more than four in a cluster.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Tinmmasks",
+    "fact": "Tinmmasks have a beige-colored cap crossed with red and orange stripes.",
+    "source_quote": "The mushroom has a beige-colored cap crossed with red and orange stripes.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Tinmmasks",
+    "fact": "Tinmmasks spew a cloud of spores when heavily damaged or uprooted.",
+    "source_quote": "If it is heavily damaged or killed by uprooting, it spews a cloud of spores out to a radius of 15 ft.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Tinmmasks",
+    "fact": "The spores of Tinmmasks cause poisoning with effects identical to a confusion spell.",
+    "source_quote": "All those within the cloud may be poisoned for about a minute and, when poisoned, are affected by the same effects of a confusion spell.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Eldeth identifies bandit death cause",
+    "fact": "Eldeth identifies a corpse as having been killed by Tinmmasks spores.",
+    "source_quote": "She looks at a corpse, 'that\u2019s what happened to that guy.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "looting bandit corpse",
+    "fact": "The escapees loot the corpse of the bandit who escaped the ambush.",
+    "source_quote": "The escapees loot the corpse",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "bandit corpse identified",
+    "fact": "The group realizes the looted corpse is the bandit who escaped the ambush near the gorge.",
+    "source_quote": "they realize he is the bandit who escaped from the ambush near the gorge.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Buppido warns of bandit friends",
+    "fact": "Buppido mutters that the escaped bandit had friends.",
+    "source_quote": "He had friends,' mutters Buppido.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "bandits arrive under truce",
+    "fact": "A group of bandits arrive under a flag of truce offering information.",
+    "source_quote": "The friends show up. A group of bandits arrive under the flag of truce, offering information about how to get out of the Underdark.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "bandit leader's story",
+    "fact": "The bandit leader claims they got lost exploring a dungeon.",
+    "source_quote": "We were exploring a dungeon and made one too many wrong turns, ending up deeper into the ground than we wanted to.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "bandit leader's story",
+    "fact": "Grygum, Eldeth, and Zalthir recognize the bandit leader's story as a fabrication.",
+    "source_quote": "Grygum, Eldeth, and Zalthir realize that the story is a fabrication",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "deal for information",
+    "fact": "The bandit leader offers information about escaping the Underdark in exchange for food.",
+    "source_quote": "He offers the information for food. The deal is agreed upon",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "bandit reveals escape route",
+    "fact": "The bandit leader says the best chance of escape is through Blingdenstone.",
+    "source_quote": "he shares with him that the best chance of escape is through the town of Blingdenstone.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Topsy",
+    "fact": "Topsy finds the name 'Blingdenstone' off-putting.",
+    "source_quote": "Topsy and Turvy find the name off-putting.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Turvy",
+    "fact": "Turvy finds the name 'Blingdenstone' off-putting.",
+    "source_quote": "Topsy and Turvy find the name off-putting.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is mildly disinterested in Blingdenstone.",
+    "source_quote": "Jimjar is mildly disinterested.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sethir",
+    "fact": "Sethir insists they should check out the lost temple and find treasure.",
+    "source_quote": "Sethir insists they should check out the lost temple and find the treasure.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido insists on going to Gracklstugh first to purchase equipment.",
+    "source_quote": "Buppido insists on going to Gracklstugh first and suggests they can purchase the equipment they need to make it to Blingdenstone.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Darklake travel",
+    "fact": "Sethir observes that traveling along the Darklake is less treacherous than traveling in tunnels.",
+    "source_quote": "Sethir observes that traveling along the Darklake is less treacherous than traveling in tunnels.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Shuushar",
+    "fact": "Shuushar has no interest in traveling past Sloobludop.",
+    "source_quote": "Shuushar says he has no interest in traveling past Sloobludop",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Shuushar",
+    "fact": "Shuushar may be willing to help with travel on the Darklake.",
+    "source_quote": "but may be willing to help with travel in the Darklake.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "group falls asleep after debate",
+    "fact": "The group tires of the debate and falls asleep.",
+    "source_quote": "The debate continues, but eventually, everyone tires of it and falls asleep.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum and Jimjar make bet about tomb monsters",
+    "fact": "Grygum asks Jimjar to bet they\u2019ll find monsters in the tomb.",
+    "source_quote": "Grygum, enjoying the taste of toasted Ripplebark, asks Jimjar, 'Wanna bet that we\u2019ll find monsters in the tomb?'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Jimjar responds to bet",
+    "fact": "Jimjar responds that of course they\u2019ll find monsters and questions what kind.",
+    "source_quote": "Jimjar mutters, 'It\u2019s a lost tomb; of course, we will; the better question is -what kind of monsters-.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum suggests undead",
+    "fact": "Grygum asks if the monsters will be undead.",
+    "source_quote": "\u2018Undead?\u2019",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Jimjar dismisses undead",
+    "fact": "Jimjar calls undead boring.",
+    "source_quote": "\u2018Boring.\u2019",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum suggests skeletons and zombies",
+    "fact": "Grygum suggests skeletons and zombies as the monsters.",
+    "source_quote": "\u2018Skeletons and Zombies?\u2019",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Jimjar accepts bet on skeletons and zombies",
+    "fact": "Jimjar accepts the bet on skeletons and zombies.",
+    "source_quote": "\u2018I\u2019ll take that bet.\u2019",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum asks what they're betting",
+    "fact": "Grygum asks what they are betting on.",
+    "source_quote": "\u2018What are we bEttin g?\u2019",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "group silences Grygum and Jimjar",
+    "fact": "The group tells Grygum and Jimjar to be quiet as they try to sleep.",
+    "source_quote": "The two of them are told to be quiet by the rest of the group as it tries to sleep.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The next day is the 1st day of the 3rd Tenday of Taraskh 1493.",
+    "source_quote": "1st day of the 3rd Tenday of Taraskh 1493",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "group awakens to screaming",
+    "fact": "The group wakes up to the sounds of screaming.",
+    "source_quote": "The group wakes up to the sounds of screaming.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Spiderbait discovers Yuk-Yuk's corpse",
+    "fact": "Spiderbait stares at the ground at the corpse of Yuk-Yuk.",
+    "source_quote": "Spiderbait is staring at the ground at his friend Yuk Yuk. The rest of the group examines the ground, and there is the corpse of Yuk Yuk",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Yuk-Yuk's throat is cut",
+    "fact": "Yuk-Yuk\u2019s throat is cut with a blade.",
+    "source_quote": "his throat cut with a blade.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum examines Yuk-Yuk's wound",
+    "fact": "Grygum examines the cut and identifies it as from a shortsword.",
+    "source_quote": "Grygum examines the cut and notes, 'It\u2019s a shortsword.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum notes anyone could have done it",
+    "fact": "Grygum says any one of the group could have done the killing.",
+    "source_quote": "Any one of us could have done it.",
+    "quote_verified": true
+  }
+]

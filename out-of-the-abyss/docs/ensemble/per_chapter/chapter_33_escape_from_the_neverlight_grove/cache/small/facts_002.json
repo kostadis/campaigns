@@ -1,0 +1,177 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is deeply loyal to Basidia, whom he owes a debt of gratitude; he physically drags them from the Inner Circle against their will after they refuse to flee, and carries them to safety in the Circle of Explorers.",
+    "source_quote": "Leaving Basidia is unacceptable. They tried to save us. And I owe them that much.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Basidia",
+    "fact": "Basidia is a Myconid Sovereign who confronts Phylo over his betrayal and alliance with the monster, ultimately choosing to flee the Neverlight Grove after realizing the danger, and gifts healing potions and accumulated treasure to their allies.",
+    "source_quote": "Phylo, you have betrayed the Circle. You\u2019ve allied yourself with that monster!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Phylo",
+    "fact": "Phylo is a Myconid Sovereign who has aligned with the Neverlight Grove and the Great Seeder, rejecting the Circle\u2019s values; they plead with Basidia not to leave, promising happiness through the Grove\u2019s transformation.",
+    "source_quote": "Basidia don\u2019t go. The Neverlight Grove will be better than ever! And the Great Seeder will make us all happy!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Rasharoo",
+    "fact": "Rasharoo is a Myconid leader who urges caution but follows Basidia into danger; he later leads the group to an escape hatch and offers a guide for half the journey to Blingdenstone before parting ways.",
+    "source_quote": "If you want to live, come with me.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a pragmatic survivor who understands Ilvara\u2019s relentless pursuit is driven by fear of becoming a Drider; they maintain composure despite escalating madness and acknowledge the pervasive insanity affecting all.",
+    "source_quote": "Ilvara promised that we would arrive in Menzoberranzan. Who knows what money exchanged hands?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a Myconid who frequently detects danger and vocalizes it, often disrupting stealth; they attempt to explain absurdity but are easily distracted by bets and money.",
+    "source_quote": "DANGER!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is a gnome who has taken over as guide after Rasharoo departs; his incompetence leads to deadly environmental hazards, yet he persists with reckless bets and overconfidence.",
+    "source_quote": "I\u2019ll bet you I can get you there!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Rump-a-dump",
+    "fact": "Rump-a-dump is a Myconid who offers unsolicited, detailed critiques of Zalthir\u2019s behavior, emphasizing listening to others and dietary improvement; they bid farewell to the party with quiet sadness.",
+    "source_quote": "Listen to Stool, he knows what he is doing. Don\u2019t assume you know everything; other people\u2019s points of view are important.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Stool",
+    "fact": "Stool is a Myconid companion to Rump-a-dump who shares their wisdom and emotional farewell; their presence signals the Myconids\u2019 departure from the party\u2019s journey.",
+    "source_quote": "Goodbye!",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Myconids",
+    "fact": "The Myconids are a collective fungal society divided between those loyal to the Circle and those corrupted by the Neverlight Grove; they retreat from Daz due to his radiant light and exhibit emotional responses to betrayal and loss.",
+    "source_quote": "The Myconids are retreating from me.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Zurkhwoods",
+    "fact": "The Zurkhwoods are sentient, tree-like entities in the Neverlight Grove that respond to danger by moving and aligning with Phylo\u2019s corrupted influence; they are perceived as hostile by the party.",
+    "source_quote": "The sentient Zurkhwoods are starting to move.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Eight-legged octopus",
+    "fact": "An eight-legged octopus attacks the party in a cavern filled with explosive gases; it is swiftly killed but represents the increasing lethality of the Underdark\u2019s hazards.",
+    "source_quote": "a large eight legged octopus attacks us.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "collapse of tunnel passage",
+    "fact": "A tunnel collapse occurs due to a tremor, trapping the party and exposing Jimjar\u2019s incompetence as a guide; the event underscores the instability of the Underdark\u2019s geography.",
+    "source_quote": "a tremor caused the passageways ahead and behind us to collapse.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "departure from Neverlight Grove",
+    "fact": "The party escapes the Neverlight Grove after Basidia denounces Phylo and the group flees; the event marks a turning point in their journey and the severing of ties with the Myconid faction.",
+    "source_quote": "As we leave the Neverlight Grove and its madness...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "handing over of healing potions and treasure",
+    "fact": "Basidia gives Zalthir potions of greater healing and Myconid-acquired treasure as a parting gift, symbolizing trust and gratitude before the group continues into the Underdark.",
+    "source_quote": "Basidia turns to us and hands some potions of greater healing and what little treasure the Mykonids had accumulated...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Ilvara\u2019s pursuit",
+    "fact": "Ilvara, a drow, is relentlessly hunting the party to avoid becoming a Drider; her obsession is tied to a financial debt and the destruction of Velkynvelve, making her pursuit a looming threat.",
+    "source_quote": "She needs to find us, lest she become a Drider.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the corruption of the Neverlight Grove",
+    "fact": "The Neverlight Grove has been corrupted by Phylo\u2019s alliance with the Great Seeder, spreading madness and transforming Myconids; its influence is a growing mystery and danger in the Underdark.",
+    "source_quote": "The Great Seeder will make us all happy!",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Inner Circle",
+    "fact": "The Inner Circle is the sacred heart of the Myconid society where Phylo\u2019s betrayal is revealed; it is the site of confrontation, chaos, and the party\u2019s escape.",
+    "source_quote": "we are in the Inner Circle, and there is Phylo.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Circle of Explorers",
+    "fact": "The Circle of Explorers is a safe haven where Rasharoo and other Myconids gather after fleeing the Inner Circle; it contains an exit hole used for escape.",
+    "source_quote": "I drag them to the safety of the Circle of Explorers...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Neverlight Grove",
+    "fact": "The Neverlight Grove is a corrupted region of the Underdark, once part of the Myconid Circle, now dominated by Phylo and the Great Seeder; it is a place of madness and transformation.",
+    "source_quote": "As we leave the Neverlight Grove and its madness...",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "4th day of the third tenday of Myrkhul 1495",
+    "fact": "This date marks the culmination of the party\u2019s escape from the Neverlight Grove and the beginning of their journey deeper into the Underdark under new guidance.",
+    "source_quote": "4th day of the third tenday of Myrkhul 1495",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "2nd day of the first tenday of Kythorn 1495",
+    "fact": "This date marks the resumption of the party\u2019s journey with Jimjar as guide, shortly after leaving the Myconids, and the onset of new environmental dangers.",
+    "source_quote": "2nd day of the first tenday of Kythorn 1495",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "potions of greater healing",
+    "fact": "These potions were accumulated by the Myconids over years from passersby and given by Basidia as a final gift to Zalthir to aid the party\u2019s survival.",
+    "source_quote": "Basidia turns to us and hands some potions of greater healing...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Rapport Spores",
+    "fact": "Rapport Spores are a form of Myconid communication that allow telepathic messages across distances; Zalthir uses them to hear Grygum\u2019s private thoughts.",
+    "source_quote": "I can hear Zalthir through the Rapport Spores mutter...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Zurkhwood",
+    "fact": "Zurkhwood is a fungal plant consumed by Myconids for its nutritional and digestive benefits; Rump-a-dump recommends it as part of Zalthir\u2019s self-improvement.",
+    "source_quote": "Eat more Zurkhwood, it's good for your digestion.",
+    "quote_verified": true
+  }
+]

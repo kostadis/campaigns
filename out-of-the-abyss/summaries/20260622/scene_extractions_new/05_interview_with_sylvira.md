@@ -50,7 +50,7 @@ source: gmassist
 > "Are the one that, caused this horrible tragedy."
 
 **[GM]** — *Sylvira names Daral Yashenti*
-> "First and foremost, it's Daral Yashenti, whom I saw storm out of Janussi's chamber before my meeting, and moreover is in a drunk who is bitter, and having to sell off some of his worthless [poetry] to fund a new library on the Great Wheel of the Plains."
+> "First and foremost, it's Daral Yashenti, whom I saw storm out of Janussi's chamber before my meeting, and moreover is in a drunk who is bitter, and having to sell off some of his worthless [poetry] to fund a new library on the Great Wheel of the Planes."
 
 **[GM]** — *narration*
 > "You immediately recognize that that's to fund research and fund a library in her area of research."
@@ -95,7 +95,7 @@ source: gmassist
 > "I mean, that requires a level of planning and thought and care that he's never demonstrated in any of his research."
 
 **[GM / Sylvira]** — *names Kazryn Nyantani*
-> "Now, the up button... Is Kazryn Nyantani?"
+> "Now, [inaudible — probable "the other one"; VTT: "the up button"]... Is Kazryn Nyantani?"
 > "I... before Janussi and I were a thing."
 > "and on and off, and she starts crying hysterically. Kazryn Nyantani was his... was who he was involved with."
 > "And so, if I was going to point my finger at that bitter old hag... at someone, it would be at that bitter old hag, who always resented Janussi for ditching her... ditching her for... in favor of me. This was MY fault she's a frumpy old boar."
@@ -156,7 +156,7 @@ source: gmassist
 
 **[GM / Sylvira]** — *the 11:30 meeting*
 > "which is probably why, in my end-of-year meeting, which was at 11.30 PM... 11.30, rather, I saw the two of us spent the meeting discussing a new library dedicated to the Great Wheel of Planes."
-> "It did end with an argument about a personal, private matter, but I never called him, a genus traitor."
+> "It did end with an argument about a personal, private matter, but I never called him a [genius traitor; VTT: "genus traitor"]."
 
 **[GM / Sylvira]** — *on the dead winter feast*
 > "It was the same drab affair, right down to the dishes as every year. At any rate, I didn't stay until the end as I started feeling the flu coming down."
@@ -210,7 +210,7 @@ source: gmassist
 > "Yeah, what would be their... what would be their motive?"
 
 **[GM / Sylvira]** — *Teles Ahvoste's motive*
-> "Teles is, I am sure, I am sure that has always remained hostile towards Janussi, after having been overlooked for Keeper of the Tomes nearly 20 years ago, despite being older, and generally considered more skilled practitioner of music, of magic. Just to be clear, jealousy is a powerful motivator for revenge. Murder."
+> "Teles is, I am sure, I am sure that has always remained hostile towards Janussi, after having been overlooked for Keeper of the Tomes nearly 20 years ago, despite being older, and generally considered a more skilled practitioner of magic [VTT: "...of music, of magic"]. Just to be clear, jealousy is a powerful motivator for revenge. Murder."
 
 **[GM / Sylvira]** — *on Kalan, and Bookwyrm's opposition to his proposal*
 > "He had this insane proposal that he was going to add all sorts of controls and restrictions, and because he thought that was the better way to do... conduct murder investigations."

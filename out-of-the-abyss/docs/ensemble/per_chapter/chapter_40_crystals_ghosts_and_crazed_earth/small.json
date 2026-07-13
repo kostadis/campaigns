@@ -1,0 +1,359 @@
+[
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a gelatinous cube who volunteered to tackle the ghost problem, became intoxicated while cleaning the tavern floor, and sang sea shanties in a voice that made everyone question their life choices. He later consumed mushrooms while clearing a path through the cave and enthusiastically pursued the rock blight caverns.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had a brilliant flash of insight that determined the bioluminescent crystals provided protection against harmful gaze attacks when viewed through them, like magical sunglasses against a Medusa.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir engaged a hostile deep gnome ghost with his fists, landing powerful blows that caused the ghost to shout 'They're coming! Everyone must hide!' before becoming visibly frightened.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Udhask",
+    "fact": "Udhask was a deep gnome whose skeletal remains were found in a hidden compartment beneath a stone bed. The bones showed no signs of violent death, suggesting a peaceful or natural demise. He was one of the ghosts Burrow Warden Jadger had asked the party to rescue.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Tappy Foamstrap",
+    "fact": "Tappy Foamstrap is a bored deep gnome and owner of the Foaming Mug Tavern, desperate for new stories after hearing everyone else's tales dozens of times. He negotiated with the party to sell barrels of spoiled booze as weapons against oozes, under the condition that the tavern's reputation would be protected.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jadger",
+    "fact": "Jadger is the Burrow Warden who encouraged Glabbagool, Eldeth, Jimjar, and Spiderbait to tackle the ghost problem, and who had asked the party to rescue specific ghosts, including Udhask.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth volunteered alongside Glabbagool, Jimjar, and Spiderbait to tackle the ghost problem, receiving encouragement from Burrow Warden Jadger.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar volunteered alongside Glabbagool, Eldeth, and Spiderbait to tackle the ghost problem, receiving encouragement from Burrow Warden Jadger.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Spiderbait",
+    "fact": "Spiderbait volunteered alongside Glabbagool, Eldeth, and Jimjar to tackle the ghost problem, receiving encouragement from Burrow Warden Jadger.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Merchant from Gracklstugh",
+    "fact": "A merchant from Gracklstugh described the city's strange peace, noted paranoia about the Ember Vanguard, possessed a wanted poster matching the party's description (except the dragonborn was red and the drow mage, orc cleric, and dwarven fighter looked more fearsome), and mentioned mass hangings and executions.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Deep Gnome Scout",
+    "fact": "A deep gnome scout shared a bizarre tale of encountering dancing myconoids who spoke of attending a wedding celebration \u2014 highly unusual since myconoids do not typically marry or celebrate.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Stone Heart Enclave",
+    "fact": "A member of the Stone Heart Enclave warmly greeted the party at the cultivation cave and provided fresh fungi supplies for their quest.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Ember Vanguard",
+    "fact": "The Ember Vanguard is a group associated with paranoia in Gracklstugh, mentioned on a wanted poster and linked to the city's strange peace.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "crystal insight",
+    "fact": "Daz determined that the bioluminescent crystals refracted through large crystal formations provided protection against creatures with harmful gaze attacks when viewed through them, like magical sunglasses against a Medusa.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "ghost encounter",
+    "fact": "A ghost of a deep gnome appeared and attacked the party in a pissed-off fury; after being struck by Zalthir, it shouted 'They're coming! Everyone must hide!' before becoming visibly frightened and fleeing into a burrow.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "gargoyle animation",
+    "fact": "Two winged statues atop a stone ledge animated into gargoyles that immediately attacked the party, but their master plan of lying in wait was confused by the appearance of a friendly gelatinous cube with googly eyes.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "burrow discovery",
+    "fact": "The party pursued a fleeing ghost into a burrow, discovered skeletal remains next to a stone bed, and found a hidden compartment containing six valuable gems worth six hundred gold pieces each and a potion of invisibility.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "mushroom consumption",
+    "fact": "Glabbagool enthusiastically consumed mushrooms along the path to the rock blight caverns, clearing a path through dirt and gravel like a gigantic transparent snowblower.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "alcohol intoxication",
+    "fact": "Glabbagool became intoxicated from consuming spilled alcohol while cleaning the tavern floor, leading to the gelatinous cube singing sea shanties in a voice that made everyone question their life choices.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "crystal collection",
+    "fact": "The party collected several protective crystals of different colors from the cavern walls, though they learned the colors themselves didn't affect the magical properties.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "bone recovery",
+    "fact": "The party carefully collected Udhask's skeletal remains to fulfill their quest to rescue the ghosts requested by Burrow Warden Jadger.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "statue cleaning",
+    "fact": "The party sent Glabbagool to 'clean' the winged statues atop the ledge, suspecting they were more than decorations \u2014 their instincts proved correct when the statues animated into gargoyles.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Diggermattock Hall",
+    "fact": "Diggermattock Hall is a meeting hall where the community discussed their most pressing threats and agreed that the adventurers would help deal with the Pudding King and clear the rock blight caverns.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Foaming Mug Tavern",
+    "fact": "The Foaming Mug Tavern is a massive cave converted into an inn with rooms that fit normal-sized people, owned by Tappy Foamstrap, where the party rested and gathered intelligence from patrons.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Cultivation Cave",
+    "fact": "The cultivation cave is where a member of the Stone Heart Enclave greeted the party and provided fresh fungi supplies for their quest.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Rock Blight Caverns",
+    "fact": "The rock blight caverns are the target of the party's mission, reached after navigating through the cultivation cave and clearing a path with Glabbagool's mushroom-enhanced movement.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Blingdenstone's Residential Areas (mirrored)",
+    "fact": "The deeper caverns mirrored Blingdenstone's residential areas but were filled with signs of carnage, including the ghost's lair and Udhask's remains.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Burrow",
+    "fact": "The burrow is the lair of the deep gnome ghost and the resting place of Udhask's remains, containing a hidden compartment with six gems and a potion of invisibility.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Shallow Stream with Crystalline Formations",
+    "fact": "A shallow, swiftly flowing stream with crystalline formations and rough-hewn staircases leads thirty feet up to a barren stone ledge, where two winged statues animate into gargoyles.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Protective Crystals",
+    "fact": "Several protective crystals of different colors were collected from the cavern walls; they provide defense against harmful gaze attacks when viewed through them, though the colors themselves have no effect on magical properties.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Six Valuable Gems",
+    "fact": "Six valuable gems, each worth six hundred gold pieces, were found in a hidden compartment beneath a stone bed in the ghost's burrow.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Potion of Invisibility",
+    "fact": "A potion of invisibility was discovered in a hidden compartment beneath a stone bed in the ghost's burrow, alongside six valuable gems.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Spoiled Booze Barrels",
+    "fact": "Barrels of spoiled booze were acquired from Tappy Foamstrap to use as weapons against oozes, under the condition that the tavern's reputation would be protected.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Wanted Poster",
+    "fact": "A wanted poster held by the merchant from Gracklstugh matched the party's description, except the dragonborn was red and the drow mage, orc cleric, and dwarven fighter looked more fearsome.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Stone Statue of a Cowering Gnome",
+    "fact": "A stone statue of a gnome cowering near a crystal outgrowth held a broken crystal to its face as if trying to look through it, indicating the protective function of the crystals.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "ghost resurrection magic",
+    "fact": "Jadger noted that even if volunteers died, they could still fight in the battle as ghosts through resurrection magic \u2014 suggesting an unresolved magical phenomenon tied to the ghost problem.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "myconoid wedding",
+    "fact": "The deep gnome scout's tale of dancing myconoids speaking of attending a wedding celebration is highly unusual since myconoids do not typically marry or celebrate \u2014 hinting at an unknown magical or cultural shift.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Ember Vanguard's role",
+    "fact": "The Ember Vanguard is mentioned in connection with paranoia and a wanted poster, but their true purpose and connection to Gracklstugh's strange peace remain unclear.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "gargoyle master plan",
+    "fact": "The gargoyles' master plan of lying in wait was confused by the appearance of a friendly gelatinous cube with googly eyes \u2014 suggesting an unforeseen variable in the cavern's defenses.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Udhask's peaceful death",
+    "fact": "Udhask's skeletal remains showed no signs of violent death, suggesting a peaceful or natural demise \u2014 raising questions about how and why he became a ghost despite dying without trauma.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "next morning",
+    "fact": "The next morning, the party negotiated with Tappy Foamstrap to acquire barrels of spoiled booze and traveled to the cultivation cave.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "that evening",
+    "fact": "That evening, the party rested at the Foaming Mug Tavern and gathered intelligence from patrons.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "the next morning",
+    "fact": "The next morning, the party negotiated with Tappy Foamstrap and traveled to the cultivation cave.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Gargoyles",
+    "fact": "Two winged statues animated into gargoyles that immediately attacked the party; their master plan of lying in wait was confused by the appearance of a friendly gelatinous cube with googly eyes.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Deep Gnome Ghost",
+    "fact": "A ghost of a deep gnome appeared and attacked the party in a pissed-off fury; after being struck by Zalthir, it shouted 'They're coming! Everyone must hide!' before becoming visibly frightened and fleeing into a burrow.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Dancing Myconoids",
+    "fact": "Dancing myconoids were encountered by a deep gnome scout, speaking of attending a wedding celebration \u2014 highly unusual since myconoids do not typically marry or celebrate.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Pudding King",
+    "fact": "The Pudding King is one of the threats the adventurers agreed to deal with in exchange for support from the settlement.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Rock Blight",
+    "fact": "The rock blight caverns are the target of the party's mission, filled with dangerous conditions and requiring clearance.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Ember Vanguard",
+    "fact": "The Ember Vanguard is a group associated with paranoia in Gracklstugh, mentioned on a wanted poster and linked to the city's strange peace.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir engaged one gargoyle in melee combat, landing multiple devastating punches.",
+    "source_quote": "Zalthir engaged one gargoyle in melee combat, landing multiple devastating punches.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz attempted to use his magic against the injured gargoyle, but it resisted the spell's full effect.",
+    "source_quote": "Daz attempted to use his magic against the injured gargoyle, but it resisted the spell's full effect.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin moved closer and threw darts at the flying creature, finishing it off despite its supernatural resistance to mundane weapons.",
+    "source_quote": "Thorin moved closer and threw darts at the flying creature, finishing it off despite its supernatural resistance to mundane weapons.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum was bitten and clawed viciously by the second gargoyle, suffering significant wounds.",
+    "source_quote": "The second gargoyle charged at Grygum, biting and clawing him viciously for significant wounds.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "gargoyle",
+    "fact": "One gargoyle was engaged in melee by Zalthir and later finished off by Thorin; the second gargoyle attacked Grygum and was defeated.",
+    "source_quote": "A fierce battle erupted as Zalthir engaged one gargoyle in melee combat... The second gargoyle charged at Grygum...",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "earth elemental",
+    "fact": "A crazed earth elemental erupted from the ground, confirming earlier warnings that earth elementals in the area had been driven mad.",
+    "source_quote": "a crazed earth elemental suddenly erupted from the ground, confirming the earlier warnings that earth elementals in the area had been driven mad.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "mad earth elementals",
+    "fact": "Earlier warnings that earth elementals in the area had been driven mad have been confirmed by the eruption of a crazed earth elemental.",
+    "source_quote": "confirming the earlier warnings that earth elementals in the area had been driven mad.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "battle escalation",
+    "fact": "The battle intensified as the party gained the upper hand, only to be met with the sudden eruption of a crazed earth elemental, leaving their fate hanging in the balance.",
+    "source_quote": "The party braced themselves for the new threat as the battle intensified, leaving their fate hanging in the balance.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "battle site",
+    "fact": "The battle occurred in a location where earth elementals have been driven mad, and gargoyles are actively hostile.",
+    "source_quote": "a crazed earth elemental suddenly erupted from the ground... gargoyles engaged in combat.",
+    "quote_verified": false
+  }
+]

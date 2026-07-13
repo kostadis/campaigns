@@ -1,0 +1,107 @@
+[
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum proposed the principle that 'once you have eliminated the impossible, whatever remains, however unlikely, must be the truth,' and claimed to have invented it, though the speaker has heard it before in something read long ago.",
+    "source_quote": "I made it up myself.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Elian",
+    "fact": "Elian referenced a document describing the 'myth of the person\" \u2014 the false assumption that the dead shed their performances and tell pure truth \u2014 and later reached for another document, signaling an unresolved line of inquiry.",
+    "source_quote": "The myth of the person. I'll have to look at it.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir observed that Sylvira, a lookalike, was seen in the kitchens between 1 and 2 a.m., then again on the stairs between 2 and 3 a.m., creating a two-hour gap that exceeds the duration of a polymorph spell \u2014 indicating something more complex is at work.",
+    "source_quote": "Something more is going on here.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Fembris Lancer",
+    "fact": "Fembris Lancer, a dragonborn, immediately took initiative to locate Kalan Strongbranch, the First Reader who cast the truth-seeking spell, demonstrating a monastic commitment to urgent dispatch without hesitation or friction.",
+    "source_quote": "I'm gonna have to hunt Kalan down... At some point I'll return with Kalan.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch, the First Reader, is the only known caster of the truth-seeking spell that previously anchored the investigation, and his current whereabouts are unknown, making him critical to resolving the current contradictions.",
+    "source_quote": "Who can cast the truth spell? Yeah \u2014 Kalan Strongbranch.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Dragonborn",
+    "fact": "Dragonborn share a conversational quality that removes layers of introduction and performance, enabling direct, intimate exchange \u2014 a trait leveraged by the speaker and potentially by Alkrist.",
+    "source_quote": "Dragonborn to Dragonborn? Intimate... yeah, I'm fine with that.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "poisoned book wrapping paper trail",
+    "fact": "The wrapping paper from the poisoned book was taken to a third-story apartment in Janussi's chambers, which remains unvisited and contains unresolved evidence about Kalan that does not require an interview to yield.",
+    "source_quote": "We knew the wrapping paper from the poisoned book had been taken there, and we hadn't gone back.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "third-story apartment in Janussi's chambers",
+    "fact": "The third-story apartment in Janussi's chambers has an open door and has not yet been visited; it is the destination of the poisoned book\u2019s wrapping paper and holds physical evidence about Kalan.",
+    "source_quote": "There's something listed as a third-story apartment with an open door we haven't gone into.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "polymorph spell",
+    "fact": "The polymorph spell lasts one hour, making it insufficient to explain the two-hour gap between sightings of the Sylvira lookalike \u2014 indicating either repeated use or a more complex magical mechanism.",
+    "source_quote": "A polymorph spell lasts an hour.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Sylvira lookalike",
+    "fact": "The Sylvira lookalike was observed in the kitchens between 1 and 2 a.m. and on the stairs between 2 and 3 a.m., suggesting she is not a simple illusion or polymorph \u2014 her presence defies known magical limits and may involve an unknown entity or spell.",
+    "source_quote": "She'd been seen coming down the stairs between two and three.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "unknown magical mechanism",
+    "fact": "A magical mechanism beyond known spells \u2014 possibly repeated polymorph, a new spell, or a non-magical deception \u2014 is required to explain the Sylvira lookalike\u2019s movements, and its nature has not yet been named or identified.",
+    "source_quote": "Something else entirely: something we didn't have a name for yet.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "truth-seeking spell's limitations",
+    "fact": "The truth-seeking spell cast by Kalan Strongbranch previously anchored the investigation, but its reliability is now in question \u2014 the dead and the magically altered do not shed their biases, and the spell may have been misled.",
+    "source_quote": "The document Elian gave us said the same thing in academic terms: magic doesn't close contradictions. It creates them.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "unaddressed Sylvira investigation",
+    "fact": "The identity and nature of the Sylvira lookalike remains unaddressed despite clear temporal anomalies \u2014 the group has acknowledged the need to investigate but has not yet acted.",
+    "source_quote": "Sylvira was still unaddressed. 'We should do that,' I said, when the question came up.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "missing evidence about Kalan",
+    "fact": "Evidence regarding Kalan Strongbranch \u2014 including his role, his whereabouts, and his potential complicity \u2014 remains unturned and is tied to the third-story apartment, yet no one has yet retrieved or examined it.",
+    "source_quote": "There was still evidence about Kalan we hadn't turned over.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occurred during an afternoon session of investigation, marked by the contributions of Grygum, Elian, Zalthir, Fembris, and the speaker \u2014 a day defined by the emergence of contradictions and the refusal of truth to be easily captured.",
+    "source_quote": "It was his contribution to the afternoon and I wasn't going to complicate that.",
+    "quote_verified": false
+  }
+]

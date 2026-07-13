@@ -1,0 +1,107 @@
+[
+  {
+    "type": "npc",
+    "subject": "Asha Vandree",
+    "fact": "Asha Vandree was a cleric of Lolth who became indistinguishable from the rot she served, and was looted with efficient respect after her theological problem was resolved.",
+    "source_quote": "She had been a cleric of Lolth who had also become, in some capacity, a cleric of Zuggtmoy, and in the end she had been indistinguishable from the rot she served.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "holy symbol of Lolth",
+    "fact": "The holy symbol of Lolth was recovered from Asha Vandree's remains.",
+    "source_quote": "The holy symbol of Lolth. Chain mail. Prayer beads. And a sealed wax pouch.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "chain mail",
+    "fact": "Chain mail was recovered from Asha Vandree's remains.",
+    "source_quote": "The holy symbol of Lolth. Chain mail. Prayer beads. And a sealed wax pouch.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "prayer beads",
+    "fact": "Prayer beads were recovered from Asha Vandree's remains.",
+    "source_quote": "The holy symbol of Lolth. Chain mail. Prayer beads. And a sealed wax pouch.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "sealed wax pouch",
+    "fact": "A sealed wax pouch was recovered from Asha Vandree's remains and contained a theological manuscript.",
+    "source_quote": "And a sealed wax pouch.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Drow cloak",
+    "fact": "A fine spider-silk Drow cloak that drinks shadow was taken from Asha Vandree's body by Zalthir.",
+    "source_quote": "Zalthir took the Drow cloak she'd been wearing \u2014 the fine spider-silk kind that drinks shadow \u2014 and I did not begrudge him that.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "wax pouch contents",
+    "fact": "The wax pouch contained pages of close, careful script detailing a theological argument that Lolth and Zuggtmoy are the same entity.",
+    "source_quote": "Inside were pages of close, careful script \u2014 the handwriting of someone who had once been methodical, who had trained as a theologian and brought that training to bear on a question that should not have been asked.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "theological manuscript discovery",
+    "fact": "A theological manuscript was discovered arguing that Lolth and Zuggtmoy are the same being \u2014 a conclusion reached by backward reasoning from a desired outcome.",
+    "source_quote": "It's basically a long theological exploration of why Zuggtmoy and Lolth \u2014 and claiming that Lolth and Zuggtmoy are the same thing... It was very well-argued. It was also completely mad.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "pre-craziness or post-craziness",
+    "fact": "It is unresolved whether Asha Vandree's theological manuscript was written before or after her mind succumbed to madness.",
+    "source_quote": "Is this pre-craziness or post-craziness, do you think?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara",
+    "fact": "Ilvara, a high priestess, had been carrying the tooth of Thorin as a trophy \u2014 collecting it like a curiosity \u2014 before being killed by the narrator.",
+    "source_quote": "Ilvara had been carrying it. Of course she had \u2014 she was exactly the sort of high priestess who would keep trophies, who would drag along evidence of her ownership of people the way some clerics keep relics... She had been carrying his tooth around the Underdark. She had collected it like a curiosity. I filed that under Ilvara, and closed the file, because she was already dead and I had killed her.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Thorin's tooth",
+    "fact": "Thorin's tooth was recovered from Ilvara's confiscated prisoner belongings and returned to him.",
+    "source_quote": "I opened it, and the contents were exactly what you would expect from someone who understood that stripping a prisoner of their possessions is the first act of stripping them of themselves... 'Oh, yeah. I want my tooth back.' He reached in and found it.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "water-damaged journal",
+    "fact": "A water-damaged prisoner journal was found, its ink run in places but handwriting still legible \u2014 the record of someone who kept records until they could no longer.",
+    "source_quote": "We also found a water-damaged journal from a prisoner we would never meet \u2014 someone who had written things down and then, presumably, stopped being able to... the handwriting was still visible in the drier sections, the marks of a person who had kept records right up until they couldn't.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "flask of Overbright brandy",
+    "fact": "A flask of Overbright brandy was received with considerable personal interest.",
+    "source_quote": "The flask of Overbright brandy I received with considerably more personal interest.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin reclaimed his tooth from Ilvara's possessions and acknowledged its sentimental value, though he said little after.",
+    "source_quote": "'Oh, yeah. I want my tooth back.' He reached in and found it. He held it for a moment without saying anything. Then: 'Very sentimental.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir took possession of Asha Vandree\u2019s Drow cloak, a fine spider-silk garment that drinks shadow.",
+    "source_quote": "Zalthir took the Drow cloak she'd been wearing \u2014 the fine spider-silk kind that drinks shadow \u2014 and I did not begrudge him that.",
+    "quote_verified": true
+  }
+]

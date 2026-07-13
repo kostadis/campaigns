@@ -1,0 +1,184 @@
+[
+  {
+    "type": "npc",
+    "subject": "Yukyuk",
+    "fact": "Yukyuk introduces himself with an orange color motif, later marches toward the web after tossing his beanie, and claims to be an expert web-surfer with dramatic flair, including a memorable twist-and-flip maneuver.",
+    "source_quote": "My name is Yukyuk. Oh man, you\u2019re not surfing. You\u2019re walking. ... There was this one moment when I was taking a curve, and the strands broke, but I managed to do that twist and flip, and that's super cool.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Spiderbait",
+    "fact": "Spiderbait speaks with a pink color motif and a rolled-R, clipped-vowel accent; offers guiding services for 2 gold per day; expresses pride in the group\u2019s success; and claims to have taken a more complex route through the spider\u2019s legs rather than the easy path.",
+    "source_quote": "And I am Spiderbait. We can be your guides at a nominal price of 2 gold per day. ... I went around the spider and through its legs. ... We are the best. We are going to have so much fun going through the web with you. And you are an awesome group.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz admits to being destitute, nods in agreement with Zalthir\u2019s concerns about payment and survival, and notices a moving cocoon, prompting the need for spores.",
+    "source_quote": "We are destitute. ... It\u2019s almost as if we are on a Safari that surfs the web. ... Daz notices a cocoon.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin grabs Daz and nudges Stool to use his spores; observes the goblins coating their shoes with a peculiar substance and starting to run; later reacts with disbelief to Spiderbait\u2019s revised guiding proposal.",
+    "source_quote": "Thorin grabs Daz and nudges Stool to use his spores. ... Thorin observes them coat their shoes with a peculiar substance and start running.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Stool",
+    "fact": "Stool is activated to deploy spores; expresses excitement at being helpful; accompanies Grygum to investigate the moving cocoon; and is emotionally affirmed by the group.",
+    "source_quote": "I\u2019m helpful, aren\u2019t I? I love being helpful. ... Are you going to come with me? ... Yes, I will. Now let\u2019s go together.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is referenced as owing 20 gold; lacks the funds to pay; is skeptical of proposals; mutters about being short of cash; and is indirectly criticized by Grygum for lacking the money to honor the bet.",
+    "source_quote": "But I am a bit short of cash. ... And they are goblins; we could easily deal with them if it comes to that. ... He looks at the cleric and, with a twinkle in his eye, says, 'No.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zarith",
+    "fact": "Zarith mutters about Jimjar\u2019s wordplay; questions the goblins\u2019 understanding of the bet; and later becomes the group\u2019s primary skeptic regarding trust and survival, voicing concerns about web navigation and payment.",
+    "source_quote": "Jimjar, you seem to have a knack with words. ... Do they know which side of the bet they made? ... But when we walk on the web, the spiders will hear our vibrations. Won\u2019t that attract them to us?",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is excited by new forms of speech; interprets Yukyuk\u2019s acrobatics as a 'triple spin'; encourages Stool; and is the group\u2019s enthusiastic observer of the goblins\u2019 web-surfing techniques.",
+    "source_quote": "That was an amazing triple spin! ... And we love you for it. ... They are good at surfing the web.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth, experienced in spelunking, proposes a safety innovation: tying silk rope to mitigate falls from burning web segments; provides pragmatic, calm responses to escalating risk scenarios.",
+    "source_quote": "We can tie some of the silk rope around each of us. That way, if one of us falls, the others can try to arrest his fall. ... Well, then the next person must. ... Then I suppose we all die.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido voices theological unease about relying on semi-sentient goblins for safety; is one of the few to explicitly question the divine plan\u2019s alignment with their current strategy.",
+    "source_quote": "I am not sure the divine plan had anything about relying on two semi-sentient goblins for our safety.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sathir",
+    "fact": "Sathir, seeing the deal closed, gives the goblins their final directive: guide the group to a passageway leading quickly to Sloobludop.",
+    "source_quote": "Take us to a passageway that will get us quickly to Sloobludop.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is the group\u2019s most analytical and cautious voice; questions trust, payment, survival, and the nature of the web; observes the spiders and the goblins\u2019 behavior; and ultimately agrees with Buppido\u2019s skepticism.",
+    "source_quote": "That sounds fascinating, but given the complexity of your moves, how are we supposed to get across? ... If we don\u2019t make it out alive, we won\u2019t be able to pay. ... For once, Zalthir agrees.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Giant Spiders",
+    "fact": "Giant spiders inhabit the web network; rebuild faster than fire can destroy it; are sensitive to vibrations but distracted by other movement; and are not to be provoked or mistaken for small spiders.",
+    "source_quote": "Not the small kind, but the giant kind. You get extra points if you spin a spider. ... The spiders kept rebuilding it faster than he could burn. ... They won\u2019t notice your bouncing scales.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Cocoon",
+    "fact": "A humanoid-sized, moving cocoon is discovered in the web maze; prompts the deployment of Stool\u2019s spores; suggests the presence of a captured or transforming entity.",
+    "source_quote": "Zalthir notices it is moving and humanoid-sized. ... We need those spores.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Drow Wizards",
+    "fact": "A past Drow wizard attempted to burn the web network but failed due to the spiders\u2019 rapid regeneration; referenced as a cautionary tale about the web\u2019s resilience.",
+    "source_quote": "Do you remember that crazy Drow wizard who wanted to burn this place down? But the spiders kept rebuilding it faster than he could burn.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Silk Rope",
+    "fact": "Silk rope is harvested from the web and tied around each group member as a safety measure to arrest falls during web destruction events.",
+    "source_quote": "We can tie some of the silk rope around each of us. That way, if one of us falls, the others can try to arrest his fall.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Spores",
+    "fact": "Spores are a biological tool wielded by Stool; deployed to investigate the moving cocoon; and treated as a critical asset for survival.",
+    "source_quote": "We need those spores. ... I\u2019m helpful, aren\u2019t I? I love being helpful.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Web Navigation Agreement",
+    "fact": "The group formally hires Yukyuk and Spiderbait as guides for 2 gold per day; the deal is sealed with mutual agreement; the goblins\u2019 formal demeanor dissolves into enthusiastic camaraderie.",
+    "source_quote": "We are the best. We are going to have so much fun going through the web with you. And you are an awesome group.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Burning Web Risk Protocol",
+    "fact": "The group establishes a safety protocol for navigating fire-damaged web segments: rope tying, sequential fall arrest, and acceptance of potential mutual death.",
+    "source_quote": "Well, then the next person must. ... Then I suppose we all die. ... Gnarly.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Cocoon Investigation",
+    "fact": "The discovery of the moving cocoon triggers a coordinated action: Stool and Grygum approach it with spores, marking the first active threat response of the journey.",
+    "source_quote": "We need those spores. ... Yes, I will. Now let\u2019s go together.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "The Web Network",
+    "fact": "The Web Network is a vast, sentient-seeming labyrinth of silk strands inhabited by giant spiders; fire destroys it temporarily but it regenerates faster; climbing cliffs is a fallback but discouraged; walking is the intended path.",
+    "source_quote": "The web is the way to go. Just gotta avoid the spiders. ... When the webs were burned, you had to climb down these gnarly cliffs. And then climb up some other cliffs.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Sloobludop",
+    "fact": "Sloobludop is the group\u2019s destination; accessed via the web network; described as reachable through a passageway chosen by the goblins.",
+    "source_quote": "Take us to a passageway that will get us quickly to Sloobludop.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Payment Obligation",
+    "fact": "The group\u2019s survival hinges on the goblins\u2019 reliability and the unresolved debt of 20 gold owed by Jimjar, creating persistent tension about trust and financial accountability.",
+    "source_quote": "But I am a bit short of cash. ... If we don\u2019t make it out alive, we won\u2019t be able to pay.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Cocoon Identity",
+    "fact": "The nature and origin of the humanoid-sized moving cocoon remain unknown; its potential threat or significance is unresolved and tied to Stool\u2019s spores.",
+    "source_quote": "Zalthir notices it is moving and humanoid-sized. ... We need those spiders.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Spider Sensitivity",
+    "fact": "Whether the group\u2019s vibrations on the web will attract spiders despite ambient noise remains uncertain; the goblins\u2019 confidence is not backed by empirical evidence.",
+    "source_quote": "They won\u2019t notice your bouncing scales. ... But when we walk on the web, the spiders will hear our vibrations. Won\u2019t that attract them to us?",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Session Anchor",
+    "fact": "The events occur during a single continuous journey through the web network, with no temporal markers other than 'after an hour of walking' and 'when the goblins return breathless and pleased.'",
+    "source_quote": "After an hour of walking, Daz notices a cocoon. ... When the goblins return breathless and pleased, they turn to Jimjar.",
+    "quote_verified": false
+  }
+]

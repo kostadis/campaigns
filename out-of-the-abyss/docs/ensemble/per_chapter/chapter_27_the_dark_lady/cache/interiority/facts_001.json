@@ -1,0 +1,597 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir believes the notion of returning to the Underdark after leaving is absurd.",
+    "source_quote": "Once we are out of the Underdark, I do not intend to come back.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir recalls that Sarith\u2019s urge to go to the Myconids increased when he was closer to them.",
+    "source_quote": "Zalthir recalls that Sarith\u2019s urge to go to the Myconids increased when he was closer to them, and so pulls him back, and mutters, 'The knowledge of the Drow \u2026'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith believes the Dark Lady offers liberation, revenge, and true purpose through transformation.",
+    "source_quote": "We will rise! We will transform! This is the only way to escape... to truly live! The Dark Lady... she offers liberation... revenge for all that has been done!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sarith",
+    "fact": "Sarith hears the Dark Lady singing in the spores and feels compelled to join her dream.",
+    "source_quote": "The call... the Dark Lady is calling me! Can't you hear her? She sings in the spores, a song of becoming! Of true purpose! I... I must go to them! They know the way to the bloom!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sarith",
+    "fact": "Sarith protests that the whispers, glory, and madness are part of the becoming and commands him to join the Lady's dream.",
+    "source_quote": "I... I can feel her now! The whispers... the glory! The pain, the madness... it's all part of the becoming! We must join the Lady's dream! There is no other way now. She commands it. She calls!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir notices the effects of the Myconids are stronger than 30\u2019.",
+    "source_quote": "Zalthir while holding Sarith looks disapprovingly at Daz and says, 'We are seeing effects that are stronger than 30'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Rump-a-dump",
+    "fact": "Rump-a-dump believes in terse, restrained communication and finds Stool\u2019s wordy behavior hindering.",
+    "source_quote": "Whereas he attempts to convey with an avalanche of words, I believe in a tersely worded comment that is precise and restrained.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Rump-a-dump",
+    "fact": "Rump-a-dump observes that Voosbur\u2019s spores caused a sudden, unnatural change in the myconids.",
+    "source_quote": "It's Voosbur. He released strange spores... and everyone changed. They started... this.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Rump-a-dump",
+    "fact": "Rump-a-dump expresses concern that Voosbur\u2019s spores may have infected the myconids back in Neverlight Grove.",
+    "source_quote": "I need to get back to Neverlight Grove. What if Voosbur's strange spores... infected the rest of my myconids back home?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Rump-a-dump",
+    "fact": "Rump-a-dump is convinced that mushrooms are not Myconids and questions whether other races eat their own kind.",
+    "source_quote": "A mushroom is not a Myconid. It is my understanding that you eat other creatures that are like you? Are you cannibals?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum recalls that others ate the mushrooms after arriving and became changed, but he did not.",
+    "source_quote": "The others... I think they ate the silly mushrooms after we arrived.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum takes Voosbur\u2019s hand and becomes affected by the spores.",
+    "source_quote": "Grygum mutters, 'This reminds me of that time. Well, I\u2019ll be going around to make sure it isn\u2019t a bad trip.' And he too is holding onto Voosbur\u2019s hand.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin believes the Myconids are harmless and should not be messed with.",
+    "source_quote": "I like these Myconids, basically don\u2019t mess with them, they don\u2019t mess with you.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin begins dancing as if at a Withering Veil concert and becomes affected by the spores.",
+    "source_quote": "Thorin, who has started to dance as if he were at a Withering Veil concert, says, 'I like these Myconids, basically don\u2019t mess with them, they don\u2019t mess with you.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin enters a glowing fungal cavern and describes its living, pulsing, unnatural atmosphere.",
+    "source_quote": "Well, now. This air's thicker than a giant\u2019s forearm, feels almost alive, humming softly like a forge that's lost its bellows. Mushrooms, taller than any giant I've ever seen standing straight, stretch right up to the cavern ceiling, their caps glowing in all sorts of fancy colors\u2014violet, teal, amber.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin enters a festering vine-choked cave and describes its sentient, watchful vines and heartbeat-like thumping.",
+    "source_quote": "This looks like a giant, festering wound. There are thick, twisting vines and fungal tendrils, woven together like the pulsing veins of some colossal, subterranean beast.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin rushes through the vine forest after Grygum makes noise, narrowly escaping being trapped.",
+    "source_quote": "Some thirty feet from the exit of this place, Grygum is making too much noise. The vines start to move to close the path forward. If we don\u2019t make it to the exit, we will be trapped in this nightmare. We dash, vines try to lash us and miss.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin enters a blighted throne room of fungal growths and bleached bones and declares it unnatural.",
+    "source_quote": "These giant mushrooms... they stand like sentinels, silent and still, but they ain't natural stone. Their caps are mottled with sickly patches of mold, and their stalks are twisted into grotesque shapes that defy any honest growth. Unnatural. Completely unnatural.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is embarrassed by the ignorance of others regarding Underdark ecology and mutters about 'Overbrighters'.",
+    "source_quote": "Overbrighters. They understand nothing about the complex ecology of the Underdark.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz refuses to take Voosbur\u2019s hand and observes the ecstatic madness of demon clerics with disinterest.",
+    "source_quote": "I have seen the ecstatic drug-fueled madness of the cleric of demons, and have no interest in participating.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz explains that Zuggtmoy\u2019s corruption requires consent or bodily exchange, not natural infection.",
+    "source_quote": "Daz explains that, as this is a Demonic curse, the method of propagation is not natural but magical. And in most likelihood requires consent or some exchange of bodily fluids.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz hears Voosbur\u2019s telepathic voice offering a 'cosmic garden' and 'mind-expanding journey'.",
+    "source_quote": "Hey, beautiful souls, you\u2019ve been groovin\u2019 through the dark for a while now, yeah? Dig this \u2014 there\u2019s a far-out place, a hidden trip where the Lady herself spins the vibes. It\u2019s like the ultimate underground rave, but in your mind, man.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Stool",
+    "fact": "Stool insists that his people are harmless and speaks constantly without giving others space to think.",
+    "source_quote": "Stool, of course, insists that his people are harmless.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Stool",
+    "fact": "Stool jumps up and down shouting to Rump-a-dump while the others are in crisis.",
+    "source_quote": "And just then, Stool starts jumping up and down as he shouts to another sprout, Rump-a-Dump.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir remembers the excerpt from The Platinum Chronicle identifying the Dark Lady as Zuggtmoy, the Demon Queen of Fungi.",
+    "source_quote": "I explain to my friends that this Dark Lady is, in fact, the Demoness.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir believes Bahamut commands him not to walk away from the threat, despite his caution.",
+    "source_quote": "Zalthir looks particularly clever to be so far away from these Myconids. But Bahamut commands me not to walk away.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Zalthir's consideration of Neverlight Grove",
+    "fact": "Zalthir wonders whether visiting Neverlight Grove is wise, fearing Zuggtmoy may have already infected it.",
+    "source_quote": "Zalthir, if he were here, would wonder if visiting the Neverlight Grove would be wise. After all, there is a chance that Zuggtmoy is there.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin takes Voosbur\u2019s hand and is transported into the fungal dreamscapes.",
+    "source_quote": "But Thorin, who has a 'fuck-it-all' attitude, takes the creature's hand.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum holds Voosbur\u2019s hand and is transported into the fungal dreamscapes.",
+    "source_quote": "Grygum mutters, 'This reminds me of that time. Well, I\u2019ll be going around to make sure it isn\u2019t a bad trip.' And he too is holding onto Voosbur\u2019s hand.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir stops Sarith from approaching the Myconids and observes the escalating psychic influence.",
+    "source_quote": "Zalthir notices this and stops him.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Rump-a-dump",
+    "fact": "Rump-a-dump gestures toward Voosbur and identifies him as the source of the corruption.",
+    "source_quote": "I gesture with a thick, stubby appendage towards the dancing myconids, then point to a taller figure among them. 'It's Voosbur. He released strange spores... and everyone changed.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Rump-a-dump",
+    "fact": "Rump-a-dump sighs and declares, 'Another race gone mad.'",
+    "source_quote": "I sigh, 'Another race gone mad.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir concludes that all roads lead to Voosbur and that they must speak to him.",
+    "source_quote": "And then turn to Thorin, 'All roads lead to Voosbur. We must talk to him to discover what is going on.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir observes that Sarith\u2019s internal conflict is visible as he resists the call but feels compelled.",
+    "source_quote": "Sarith tries to resist, but seems conflicted.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz mutters in embarrassment while covering his face as Rump-a-dump questions cannibalism.",
+    "source_quote": "Daz has his hands in his face, embarrassed and muttering, 'Overbrighters. They understand nothing about the complex ecology of the Underdark.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Rump-a-dump",
+    "fact": "Rump-a-dump shifts his weight and glances between the dwarf and Stool, judging Stool\u2019s behavior as unhelpful.",
+    "source_quote": "I shift my weight, looking towards the dwarf, then glance at Stool. I decide his enthusiastic bounciness is not helping but hindering.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum looks at the Myconids and at Thorin, still confused by their behavior.",
+    "source_quote": "Grygum looks at the Myconids and looks at me, and is still confused.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin explains the Wandering Veil as an eclectic troupe of bards whose music bends reality.",
+    "source_quote": "So I explain that this eclectic troupe of bards and mystics has roamed the realms for decades, their music a swirling tapestry of haunting ballads, raucous tavern shanties, and spellbinding improvisations that seem to bend the very fabric of reality.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin describes the Wandering Veil\u2019s performances as living rituals where audience and artist blur.",
+    "source_quote": "The Veil\u2019s performances are never the same twice; each show is a living ritual, a communal experience where the lines between audience and artist blur, and even the most hardened adventurer finds themselves dancing beneath a sky painted with arcane light.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir observes that Stool looks at him as if he would stick his tongue out.",
+    "source_quote": "Stool looks at me, and I am convinced that if he could, he would be sticking his tongue out at me.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir encourages his allies to prepare against Myconid powers.",
+    "source_quote": "I again encourage my allies to prepare themselves against any of the powers of the Myconid.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz declares that the Myconids have nothing to fear from the spores because their effect is limited to melee range and only affects the dead.",
+    "source_quote": "They have the power to release spores. The dangerous spores are only hazardous in melee range. They can only turn creatures they have killed into Zombies. Until you are dead, the zombie process doesn\u2019t work.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir identifies the Dark Lady as Zuggtmoy, the Demon Queen of Fungi, based on The Platinum Chronicle.",
+    "source_quote": "I explain to my friends that this Dark Lady is, in fact, the Demoness.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir recalls the excerpt from The Platinum Chronicle describing Zuggtmoy\u2019s corruption as a perversion of life and freedom.",
+    "source_quote": "Her powers are not born of strength, but of insidious corruption. She seeks ever to infect the living with her spores, transforming them into her mindless servants, destined to become naught but decomposing hosts for the mushrooms, mold, and other fungi that are her abhorrent spawn.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Rump-a-dump",
+    "fact": "Rump-a-dump says, 'Something is not right here.'",
+    "source_quote": "Something is not right here.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin mutters, 'Just a trip, Thorin, just a trip,' as he resists the psychological pull of the fungal realm.",
+    "source_quote": "I mutter out loud, 'Just a trip, Thorin, just a trip.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin notes that the mushrooms pulse when touched and warns himself not to touch them again.",
+    "source_quote": "As I do so, I touch some mushrooms and they start to pulse, as if to warn me not to touch them again. I don\u2019t.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum says the Myconids\u2019 dances and speech are unnatural and forced, unlike true Myconid behavior.",
+    "source_quote": "These are not our old dances. And the way they speak... about 'the Lady's dream,' it is confusing. Stool does not understand it either. It is not the way of myconids. We do not dance like this. This is... forced.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin mutters, 'You throw a stone here, you hit a demon.'",
+    "source_quote": "Thorin, terrified or reckless, mutters, 'You throw a stone here, you hit a demon.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir believes the Myconids\u2019 transformation is not natural but a demonic curse requiring consent.",
+    "source_quote": "Daz explains that, as this is a Demonic curse, the method of propagation is not natural but magical. And in most likelihood requires consent or some exchange of bodily fluids.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir concludes that they must speak to Voosbur to understand the source of the corruption.",
+    "source_quote": "And then turn to Thorin, 'All roads lead to Voosbur. We must talk to him to discover what is going on.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Rump-a-dump",
+    "fact": "Rump-a-dump expresses concern for his Sovereign in Neverlight Grove and wonders if they are still themselves.",
+    "source_quote": "My Sovereign there, they might know a way out of here... if they are still themselves.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir stops Sarith from approaching the Myconids and observes the psychic influence exceeding 30\u2019.",
+    "source_quote": "Zalthir notices this and stops him. Sarith protests... Zalthir while holding Sarith looks disapprovingly at Daz and says, 'We are seeing effects that are stronger than 30'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin laughs and compares Voosbur\u2019s telepathic voice to a Wandering Veil concert.",
+    "source_quote": "Thorin laughs, 'He\u2019s so totally at a Wandering Veil concert.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz shrugs and refuses Voosbur\u2019s hand, observing the ecstatic madness of demon cultists with detachment.",
+    "source_quote": "I shrug. I have seen the ecstatic drug-fueled madness of the cleric of demons, and have no interest in participating.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir believes the Myconids\u2019 behavior is a perversion of their natural state, induced by Zuggtmoy\u2019s corruption.",
+    "source_quote": "These are not our old dances... This is... forced.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum says he did not eat the mushrooms and thus remains uncorrupted.",
+    "source_quote": "I did not eat them. That is why I am not... like this.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin describes the fungal throne room as a festering pit unfit for any living creature.",
+    "source_quote": "Well, this looks like a blighted festering pit, unfit for any living creature, let alone a dwarf.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir remembers the teachings from The Platinum Chronicle and identifies Zuggtmoy as the true source of the corruption.",
+    "source_quote": "I explain to my friends that this Dark Lady is, in fact, the Demoness.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Rump-a-dump",
+    "fact": "Rump-a-dump says, 'I am worried. I need to get back to Neverlight Grove.'",
+    "source_quote": "I am worried. I need to get back to Neverlight Grove.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir believes the influence of the Dark Lady is not mere infection but a seductive, mind-altering curse.",
+    "source_quote": "Daz explains that, as this is a Demonic curse, the method of propagation is not natural but magical.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir concludes that Voosbur is the key to understanding the corruption.",
+    "source_quote": "All roads lead to Voosbur. We must talk to him to discover what is going on.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin describes the fungal cavern as beautiful but unnatural, with a silent, pulsing rhythm.",
+    "source_quote": "The whole place is like\u2026 a Veil Concert. Beautiful, but there\u2019s definitely something strange, something otherworldly, lurking beneath it all.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum says the Myconids\u2019 transformation was sudden and unnatural.",
+    "source_quote": "Then Voosbur's spores came, and the next thing we knew, we were *here*. It was... a sudden jump.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir observes that Sarith\u2019s internal conflict is visible as he resists yet feels compelled.",
+    "source_quote": "Sarith tries to resist, but seems conflicted.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir believes the Myconids\u2019 behavior is a perversion of their natural state, induced by Zuggtmoy\u2019s corruption.",
+    "source_quote": "These are not our old dances. And the way they speak... about 'the Lady's dream,' it is confusing. Stool does not understand it either. It is not the way of myconids. We do not dance like this. This is... forced.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz says the spores are not an infection but a 'gift' and a 'wild ride' from the Lady.",
+    "source_quote": "She\u2019s no infection. She\u2019s the mama of the mushrooms, the queen of the dreamscape, and she\u2019s got a gift \u2014 a ticket to ride through her cosmic garden.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir believes the Dark Lady\u2019s song is a perversion of life and freedom, not liberation.",
+    "source_quote": "Her song is not of liberation but of forced perversion. She seeks to extinguish the freedom of choice that Bahamut cherishes for all creatures.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Rump-a-dump",
+    "fact": "Rump-a-dump says, 'Something is not right here.'",
+    "source_quote": "Something is not right here.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir believes that Voosbur\u2019s corruption requires consent or bodily exchange, not natural infection.",
+    "source_quote": "Daz explains that, as this is a Demonic curse, the method of propagation is not natural but magical. And in most likelihood requires consent or some exchange of bodily fluids.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir believes that the Myconids\u2019 transformation is a demonic corruption, not a natural phenomenon.",
+    "source_quote": "I explain to my friends that this Dark Lady is, in fact, the Demoness.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir believes that the Myconids\u2019 behavior is a perversion of their natural state, induced by Zuggtmoy\u2019s corruption.",
+    "source_quote": "These are not our old dances. And the way they speak... about 'the Lady's dream,' it is confusing. Stool does not understand it either. It is not the way of myconids. We do not dance like this. This is... forced.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir concludes that they must speak to Voosbur to understand the source of the corruption.",
+    "source_quote": "All roads lead to Voosbur. We must talk to him to discover what is going on.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir believes the Myconids\u2019 transformation is not natural but a demonic curse requiring consent.",
+    "source_quote": "Daz explains that, as this is a Demonic curse, the method of propagation is not natural but magical. And in most likelihood requires consent or some exchange of bodily fluids.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir believes the Dark Lady\u2019s song is a perversion of life and freedom, not liberation.",
+    "source_quote": "Her song is not of liberation but of forced perversion. She seeks to extinguish the freedom of choice that Bahamut cherishes for all creatures.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir believes that Voosbur is the key to understanding the corruption.",
+    "source_quote": "All roads lead to Voosbur. We must talk to him to discover what is going on.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir believes the Myconids\u2019 transformation is a demonic corruption, not a natural phenomenon.",
+    "source_quote": "I explain to my friends that this Dark Lady is, in fact, the Demoness.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir believes that the Myconids\u2019 behavior is a perversion of their natural state, induced by Zuggtmoy\u2019s corruption.",
+    "source_quote": "These are not our old dances. And the way they speak... about 'the Lady's dream,' it is confusing. Stool does not understand it either. It is not the way of myconids. We do not dance like this. This is... forced.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir concludes that they must speak to Voosbur to understand the source of the corruption.",
+    "source_quote": "All roads lead to Voosbur. We must talk to him to discover what is going on.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir believes the Myconids\u2019 transformation is not natural but a demonic curse requiring consent.",
+    "source_quote": "Daz explains that, as this is a Demonic curse, the method of propagation is not natural but magical. And in most likelihood requires consent or some exchange of bodily fluids.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir believes the Dark Lady\u2019s song is a perversion of life and freedom, not liberation.",
+    "source_quote": "Her song is not of liberation but of forced perversion. She seeks to extinguish the freedom of choice that Bahamut cherishes for all creatures.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir believes that Voosbur is the key to understanding the corruption.",
+    "source_quote": "All roads lead to Voosbur. We must talk to him to discover what is going on.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir believes the Myconids\u2019 transformation is a demonic corruption, not a natural phenomenon.",
+    "source_quote": "I explain to my friends that this Dark Lady is, in fact, the Demoness.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir believes that the Myconids\u2019 behavior is a perversion of their natural state, induced by Zuggtmoy\u2019s corruption.",
+    "source_quote": "These are not our old dances. And the way they speak... about 'the Lady's dream,' it is confusing. Stool does not understand it either. It is not the way of myconids. We do not dance like this. This is... forced.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir concludes that they must speak to Voosbur to understand the source of the corruption.",
+    "source_quote": "All roads lead to Voosbur. We must talk to him to discover what is going on.",
+    "quote_verified": true
+  }
+]

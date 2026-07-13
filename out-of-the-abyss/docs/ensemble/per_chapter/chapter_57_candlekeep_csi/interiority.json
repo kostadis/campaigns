@@ -1,0 +1,464 @@
+[
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz believes a corpse does not lie and that everything it knows is written on it.",
+    "source_quote": "There is a particular comfort in a corpse. It does not lie. It does not run a counter-play. Everything it knows is written on it, and all I have to do is read.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noticed the clotted blood under the nose and smeared bloodstains on the right sleeve of the tunic.",
+    "source_quote": "Clotted blood under the nose. Smeared bloodstains on the right sleeve of the tunic \u2014 the *right* sleeve, the working hand.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noticed blotches of midnight blue across the cuff.",
+    "source_quote": "And blotches of midnight blue across the cuff.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz realized the black stain on the finger and lip was not ink.",
+    "source_quote": "No. Not ink. That was the entire point of the long look \u2014 not that the finger was stained, but that the stain was *wrong*.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz believed the black substance was likely poisonous.",
+    "source_quote": "I thought it the likeliest answer.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noticed the chip in Janussi's front tooth was recent and jagged.",
+    "source_quote": "And a chip in one of his front teeth, the edge jagged. Recent.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz realized Janussi had fallen face-first, chipping his tooth on the stone.",
+    "source_quote": "He had fallen forward. Face-first. Chipped the tooth on the way down.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noticed the killer had rolled Janussi onto his back after death.",
+    "source_quote": "And then someone had come in, after, and rolled him onto his back to take the heart.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz observed the empty pouches and sapphires in the safe and concluded someone was trying to build a sapphire spell.",
+    "source_quote": "a little bit of this, a little bit of that... some sapphire spell.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noticed the three circular impacts and holes in the armchair were from darts of pure force.",
+    "source_quote": "Three circular impacts, horsehair stuffing scattered, two holes punched clean through the chair back.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum recalled that bruising cannot form on a corpse because there is no living tissue to swell.",
+    "source_quote": "Bruising doesn't form on a corpse; there's no living tissue to swell.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum noticed the bruising around the broken nose was dark and settled, indicating it occurred before death.",
+    "source_quote": "The bruising around the broken nose held color, dark and settled, the way bruising only sits when blood was still moving when it formed.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum noticed the impression of a chain on Janussi's neck and two broken lead links.",
+    "source_quote": "The impression of a chain on the back and sides, and beneath it two broken lead links.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum felt a quiet grief at the image of a clerk dying mid-sentence in his own library.",
+    "source_quote": "I noted that and felt something I didn't examine too closely \u2014 a clerk dying mid-sentence in his own library.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum observed the silver pedestal, ebony pipe, and cherry tobacco on the desk.",
+    "source_quote": "A silver pedestal by the desk, an ebony pipe finely carved, cherry tobacco.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum noticed the safe was open with undamaged lock, indicating no forced entry.",
+    "source_quote": "The safe. A box of metal as wide as a man's reach, sunk into the tower wall, its door standing open.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum noticed the statue of the Great Reader A'lai Aivenmore had fallen and concluded it was knocked over in shock.",
+    "source_quote": "The statue had simply fallen... The Great Reader A'lai Aivenmore had knocked it over in shock when he found the body at dawn.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir realized the black substance on Janussi\u2019s finger and lip was not ink.",
+    "source_quote": "With ink?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir suggested Glabbagool might have ingested the black substance and could help identify it.",
+    "source_quote": "Wouldn't Glabbagool have ingested, like, all sorts of different kinds of materials and poisons and goo in the Underdark?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir noticed the blue ink on *The Discoveries* was fresher than the blue ink on *The Golden Ass*.",
+    "source_quote": "The blue ink on *The Discoveries* had been laid down after the blue ink on another book. *The Golden Ass.*",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir respected Janussi\u2019s practice of carefully cataloging unfamiliar spells.",
+    "source_quote": "Musings on unfamiliar spells. Notes on how they might be cast \u2014 a wizard cataloguing things he'd seen others do and never managed himself. The sort of thing a careful man writes when he is trying to understand something larger than he is. I have a passing respect for that.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir noticed the locket or necklace was missing from Janussi\u2019s neck.",
+    "source_quote": "Something had hung there, and someone had torn it off him. A locket, a necklace \u2014 gone, snapped at the chain.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin muttered that he had the second-worst eye for detail in the room.",
+    "source_quote": "Thorin muttered something about having the second-worst eye for detail in the room.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin was suspicious that the candle on the statue might be magical and could wake the statue.",
+    "source_quote": "I don't want it to wake up and attack us... When there's magic with the statue, who knows what's going on with the candle.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The locket",
+    "fact": "The locket or necklace taken from Janussi\u2019s neck is unidentifiable and its significance is unknown.",
+    "source_quote": "Something had hung there, and someone had torn it off him. A locket, a necklace \u2014 gone, snapped at the chain.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The missing sapphire and parchment",
+    "fact": "The specific spell requiring the missing sapphire and parchment is unknown.",
+    "source_quote": "one sapphire was missing. One parchment. \"somebody is trying to build a sapphire spell\"",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The identity of the killer",
+    "fact": "The person who broke Janussi\u2019s nose and took his heart and one sapphire remains unidentified.",
+    "source_quote": "who had been certain enough to want him silent on both sides of death.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum found the idea of buying the other adventure funnier than the narrator did.",
+    "source_quote": "He found this funnier than I did.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum finds most things funnier than the narrator does.",
+    "source_quote": "Most things, he does.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin believes the gift tag supports his theory about a rival giving Janussi a bitter gift.",
+    "source_quote": "Okay, so that supports my theory. Some sort of rival gave him a gift, but it was sort of like a bitter thing.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin wonders if the missing comedy book might be part of a cipher or replacement code.",
+    "source_quote": "Am I reaching too deep here?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Narrator",
+    "fact": "The narrator does not respond to Daz\u2019s approval of Thorin\u2019s thinking.",
+    "source_quote": "I said nothing to that.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Narrator",
+    "fact": "The narrator despises the culture of Candlekeep, especially its scholars who harbor long-standing grudges.",
+    "source_quote": "I despise this whole place a little \u2014 not Candlekeep, Candlekeep's fine, the books are fine \u2014 but the *culture* of it, the scholars who keep grudges the way a dragon keeps gold, sitting on them for years, polishing them.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Narrator",
+    "fact": "The narrator recognizes rage that has had time to set as a vector that points somewhere.",
+    "source_quote": "I've learned to read that. Rage that's had time to set is a vector. It points somewhere.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum does not like Daral Yashenti.",
+    "source_quote": "Hmm, well, I already don't like him.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum wants to find the housekeeper to determine what is missing from the room.",
+    "source_quote": "One thing we need is somebody who knows what should be here, so they can tell us if anything's missing.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum intends to ask the housekeeper what is missing or out of place.",
+    "source_quote": "go find, say, the housekeeper, and ask her, what is missing or out of place.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Hollypocket",
+    "fact": "Hollypocket is afraid of Sylvira Savikas.",
+    "source_quote": "That devil woman! She gives me the heebie-jeebies!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Hollypocket",
+    "fact": "Hollypocket heard Sylvira Savikas screaming at Janussi and thought they might have come to blows.",
+    "source_quote": "Raging, screaming that Janussi was a traitor, the two of them sounding for a moment as though they had come to blows, before she stormed out and nearly took the door off its hinges.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Hollypocket",
+    "fact": "Hollypocket saw Sylvira Savikas\u2019s face glowing red in the candlelight at 2 or 3 in the morning.",
+    "source_quote": "I swear I could see that devil woman's \u2014 Sylvira Savikas's \u2014 face glowing red in the candlelight.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Hollypocket",
+    "fact": "Hollypocket noticed Sylvira Savikas was carrying a lantern despite being a tiefling who can see in the dark.",
+    "source_quote": "But what was really odd was not that Sylvira was there in the middle of the night \u2014 I've seen her in the middle of the night before \u2014 but that she was carrying a lantern. She's a tiefling, and she can see in the dark without any light at all.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Hollypocket",
+    "fact": "Hollypocket believes Janussi always wore the locket and never took it off.",
+    "source_quote": "the locket \u2014 Janussi carried it always, all the time, never took it off. He carried it all.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz stopped paying attention to the weeping Hollypocket and became lost in his own thoughts.",
+    "source_quote": "Daz, I noticed, was paying the weeping woman no attention whatsoever, off somewhere in his own ledger.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz suddenly started listening when Hollypocket mentioned the lantern.",
+    "source_quote": "Hmm,\" said Daz, suddenly listening after all.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz believes he can talk to the cat using the Stonespeaker crystal.",
+    "source_quote": "I think I can talk to the cat,\" I said.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz carries the Stonespeaker crystal as a useful tool for communicating with beasts.",
+    "source_quote": "Talking to beasts, yeah. It's part of what the stone speaker crystal grants me.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The missing comedy book",
+    "fact": "The missing comedy book may contain a cipher or hidden code, but its contents and purpose remain unknown.",
+    "source_quote": "There's something written in the book that wasn't part of the original book \u2014 or maybe he's using the book and the notes to do some sort of cipher.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The locket",
+    "fact": "The locket taken from Janussi\u2019s neck is missing, and its significance is not yet understood.",
+    "source_quote": "The locket was missing. Off Janussi's neck.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The second key to the Hightower Library",
+    "fact": "The second key to the Hightower Library is held by the gate warden Kalan, but its connection to the murder is unconfirmed.",
+    "source_quote": "that the other key is heralded by the gate warden, Kalan.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Sylvira Savikas\u2019s midnight lantern",
+    "fact": "Sylvira Savikas carried a lantern she did not need, suggesting she was hiding her presence \u2014 but her motive remains unclear.",
+    "source_quote": "But what was really odd was not that Sylvira was there in the middle of the night \u2014 I've seen her in the middle of the night before \u2014 but that she was carrying a lantern. She's a tiefling, and she can see in the dark without any light at all.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin declined Hollypocket\u2019s herbal tea.",
+    "source_quote": "No thank you, I'm good.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir accepted Hollypocket\u2019s herbal tea with more enthusiasm than the situation required.",
+    "source_quote": "Yes, I love\u2026 Absolutely!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is relieved that someone else took an expense off his account.",
+    "source_quote": "Well, that saves me money on potions,\" said Grygum, relieved \u2014 someone else had just taken an expense off his account.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Queenie",
+    "fact": "Queenie is entirely uninterested in being disturbed.",
+    "source_quote": "Queenie \u2014 five years old, sleet-grey, and entirely uninterested in being disturbed.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Queenie",
+    "fact": "Queenie believes good ticklers are the only good reason for disturbing her beauty sleep.",
+    "source_quote": "Any good ticklers are the only good\u2026 and good ticklers are\u2026 tickles are only the good reason for disturbing my beauty sleep.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Queenie",
+    "fact": "Queenie recalled being rudely awakened by Sylvira Savikas blasting the armchamber with a lance of force.",
+    "source_quote": "she said, \"only to be rudely awakened some thirty minutes later by our Sylvira Savikas, this is in the morning, blasting the armchamber with a lance of unerring force light.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Queenie",
+    "fact": "Queenie categorizes people by gait and smell, not titles or politics.",
+    "source_quote": "There is a precision to how cats categorize people that I find I respect. No titles. No politics. Just the relevant data: gait, smell.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Queenie",
+    "fact": "Queenie noticed Daral running downstairs with a hypnotic block.",
+    "source_quote": "when I later saw him run downstairs with a hypnotic block.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Narrator",
+    "fact": "The narrator noticed the phrase 'hypnotic block' was doing work the describer didn't understand.",
+    "source_quote": "Something in the phrasing snagged. I have spent my life learning to notice when a description is doing work the describer doesn't understand.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Queenie",
+    "fact": "Queenie believes the hypnotic block makes people sit there and not tickle.",
+    "source_quote": "Every time they open that block,\" Queenie said, \"they just sit there and don't tickle!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Queenie",
+    "fact": "Queenie noticed the torn demon lady did not smell like Sylvira.",
+    "source_quote": "But she didn't smell like the demon lady, though.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Queenie",
+    "fact": "Queenie finds two-leggers unclean and avoids them by holding her breath.",
+    "source_quote": "I try to hold my breath whenever a two-legger passes. It's clear that you hardly ever lick yourselves at all.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Queenie",
+    "fact": "Queenie knows the locket was always on Janussi and never taken off.",
+    "source_quote": "The locket itself is intimate. He carried it all the time. He never took it off.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Queenie",
+    "fact": "Queenie does not know what the locket was.",
+    "source_quote": "I don't know what it was.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Queenie",
+    "fact": "Queenie is done being generous after too many questions and too little tickling.",
+    "source_quote": "There have been too little Tickles and too many questions.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Queenie",
+    "fact": "Queenie believes the narrator should lick themselves properly before returning.",
+    "source_quote": "please give yourself a proper licking before returning to my tower.",
+    "quote_verified": true
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin asks whether the party are guests or the feast.",
+    "source_quote": "Thorin asks, \"Are we guests or the feast?\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar mutters that he doesn't know.",
+    "source_quote": "Jimjar mutters, \"I don't know.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "myconid collective",
+    "fact": "The myconid collective is associated with a melodic, luminescent, decaying fungal parade that sings with gleeful insanity, and is joined in union with Zuggtmoy.",
+    "source_quote": "Thorin confirms that it is similar to the music of the dancing myconid and the music we heard with Zuggtmoy.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Zuggtmoy",
+    "fact": "Zuggtmoy is united in a wedding-like bond with the myconid collective, their spores and melodies merging as one until death.",
+    "source_quote": "Araumycos and Zuggtmoy! Joined together, heart to heart, Becoming one \u2019til death do part!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "fungal wedding",
+    "fact": "A wedding is occurring between the myconid collective and Zuggtmoy, marked by luminescent lichen, chaotic growths, and spreading joyous spores.",
+    "source_quote": "There\u2019s a wedding! I guess we arrived at the wedding!",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "luminescent fungal entities",
+    "fact": "The luminescent fungal entities are vaguely humanoid, covered in tumescent growths and clusters of luminescent lichen, with decaying flesh and voices that stab into the mind with insane, gleeful sound.",
+    "source_quote": "I see the parade of creatures responsible for the melody. Their bodies are only vaguely humanoid, with clusters of luminescent lichen and tumescent growths forming chaotic patterns on their decaying flesh, their voices stabbing into my mind, both insane and gleeful in equal parts.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "identity of the feast",
+    "fact": "It is unresolved whether the party are guests or the feast at the fungal wedding.",
+    "source_quote": "Thorin asks, \"Are we guests or the feast?\"",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Jimjar's uncertainty",
+    "fact": "Jimjar's lack of knowledge suggests an unresolved tension about the nature of the event and the party's role in it.",
+    "source_quote": "Jimjar mutters, \"I don't know.\"",
+    "quote_verified": false
+  }
+]

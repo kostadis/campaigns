@@ -1,0 +1,156 @@
+[
+  {
+    "type": "npc",
+    "subject": "Daral",
+    "fact": "Daral is a scared man trying to clear his name, convinced he's being framed for murder, and believes proving his innocence requires surviving the night.",
+    "source_quote": "He kept saying it \u2014 if he made it through the night, hint, hint, he'd see to it everyone wrapped their gifts right.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a drow who once understood magical sigils but now struggles to interpret them, and has shifted focus to physical evidence like discoloration on the corpse.",
+    "source_quote": "Daz said look for black \u2014 black dots, black splashes, the way it went dark on the dead man's mouth.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is methodical, observant, and skeptical of easy assumptions; he prioritizes the killer over the thief and distrusts the reliability of physical clues without context.",
+    "source_quote": "Zalthir didn't think we'd find the key \u2014 too easy to hide.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool claims to have learned silence and attempted to grow a nose to smell poison, indicating a desire to adapt to investigative tasks despite his unnatural nature.",
+    "source_quote": "Glabbagool announced it had learned silence, then asked whether that was good silence or too loud silence, and tried to grow a nose to smell the poison.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Candlekeep Scholars",
+    "fact": "Candlekeep's scholars are a highly educated but insular group, all present at the conference, and none are offering external aid despite their expertise.",
+    "source_quote": "The thing about Candlekeep was that it was full of the most learned people on the surface, and every one of them was at the conference.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "murder of the scholar",
+    "fact": "A scholar was killed under mysterious circumstances, with signs of poison activation upon contact with living tissue, and the murder weapon likely being a clear, inert vial.",
+    "source_quote": "The poison sitting in somebody's room right now wouldn't be black at all. It'd be clear.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "the sapphire",
+    "fact": "The sapphire is a small, clear gemstone believed to be a key component in retrieving a hidden object, and it is not inherently dangerous unless used in conjunction with another mechanism.",
+    "source_quote": "And we're proposing that the sapphire is actually used to sort of be able to retrieve the key.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "the key",
+    "fact": "The key is a small, concealed object, possibly stored within a locket, that unlocks something vital \u2014 and its theft may be unrelated to the murder.",
+    "source_quote": "Some locket from around the dude's neck was taken. We assume that inside that locket was the key.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "the poison vial",
+    "fact": "The poison is stored in a clear, unremarkable vial and remains inert until activated by contact with a living being's saliva or bodily fluids.",
+    "source_quote": "A vial of some sort of clear.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "the squirrel",
+    "fact": "A squirrel in the apothecary may have witnessed something relevant to the crime, and its potential as an observer was taken seriously by Daz despite its non-human nature.",
+    "source_quote": "Turned out he could talk to the beasts, and there was a squirrel down there might've seen something.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "who killed the scholar?",
+    "fact": "The identity of the killer remains unknown, and the investigation prioritizes finding the murderer over recovering stolen items, as the murder is the only crime for which payment is owed.",
+    "source_quote": "And our priority is to find the killer, not who stole the key. Nobody asked us to find the person who stole the key.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "why the poison turned black",
+    "fact": "The poison\u2019s discoloration upon contact with the victim\u2019s saliva is a critical clue, but its mechanism is misunderstood \u2014 it activates only upon living contact, not upon death.",
+    "source_quote": "Because it goes black after you die.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "motive among scholars",
+    "fact": "Motive is abundant among the scholars due to intense academic rivalries, where low-stakes disputes are fought with lethal intensity.",
+    "source_quote": "Everybody hated everybody, it's academia. You know what they say. Fights are so vicious because the stakes are so low.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is an ancient library-fortress whose air feels alien to those who have spent long periods in enclosed spaces, and whose scholarly inhabitants are present but unhelpful.",
+    "source_quote": "The air in Candlekeep still smelled wrong to me. Not bad \u2014 paper, lamp oil, old stone warmed by sun I had not seen in months \u2014 just wrong.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "the kitchen",
+    "fact": "The kitchen is a secondary investigative site where witnesses may have seen someone tampering with the book or package before the murder.",
+    "source_quote": "Anybody who saw somebody messing with the book. That's it.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "the apothecary",
+    "fact": "The apothecary is a place where Daz communicates with animals, and where the squirrel \u2014 a potential witness \u2014 resides.",
+    "source_quote": "Daz to the apothecary \u2014 turned out he could talk to the beasts.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "the rooms",
+    "fact": "The scholars' rooms are the primary location for searching physical evidence, including the sapphire, the key, or the poison vial.",
+    "source_quote": "Zalthir to the rooms, stealthiest of us, low bar as that is.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "the investigation day",
+    "fact": "The events of the investigation occur within a single day, with no passage of time indicated between actions, suggesting urgency and compressed timeline.",
+    "source_quote": "We had a little room... Alright, so what are we looking for in the kitchen again?",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "poison activation",
+    "fact": "The poison was activated when the victim's saliva came into contact with it, causing immediate discoloration and death \u2014 a mechanism that makes the poison inert in storage.",
+    "source_quote": "When I mixed with his saliva, it turned black, okay?",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "two thieves or one?",
+    "fact": "It is possible that the theft of the key and the theft of the sapphire were committed by different individuals, and neither may be the killer.",
+    "source_quote": "Could be two people. Could be a whole faculty of them.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "the book",
+    "fact": "The book is a central object of interest, possibly containing the spell or mechanism tied to the key and poison, and tampering with it may have triggered the murder.",
+    "source_quote": "Anybody who saw somebody messing with the book.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "the squirrel",
+    "fact": "The squirrel is a non-human witness potentially present during the crime, and its observations are considered credible by Daz despite its species.",
+    "source_quote": "There was a squirrel down there might've seen something, which is a sentence I never thought I'd take seriously.",
+    "quote_verified": false
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "type": "monster",
+    "subject": "basilisk",
+    "fact": "Two basilisks guarded the summoning circle, moving with mechanical precision and viewing the party as flaws in perfect stone; one was engaged in close combat by Zalthir, the other was frozen in place by Daz's incapacitating charm.",
+    "source_quote": "Two basilisks guarded the circle, moving with mechanical precision rather than natural animal behavior, as if they viewed the party as flaws in perfect stone. Zalthir engaged one in close combat while averting his eyes, and Daz successfully enchanted the other, freezing it in place with an incapacitating charm.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir engaged one basilisk in close combat while averting his eyes to avoid petrification.",
+    "source_quote": "Zalthir engaged one in close combat while averting his eyes.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz successfully enchanted the second basilisk, freezing it in place with an incapacitating charm.",
+    "source_quote": "Daz successfully enchanted the other, freezing it in place with an incapacitating charm.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin rushed to the summoning circle, deciphered the giant runes, and placed a dart onto the runes as the weapon sacrifice, causing the stone to swallow and rust it to dust.",
+    "source_quote": "Thorin rushed to the summoning circle and deciphered the giant runes. Thorin placed a dart onto the runes as the weapon sacrifice, and the stone instantly swallowed it, rusting it to dust in seconds.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "dart",
+    "fact": "A dart was used as the weapon sacrifice in the ritual; it was swallowed by the runes and rusted to dust.",
+    "source_quote": "Thorin placed a dart onto the runes as the weapon sacrifice, and the stone instantly swallowed it, rusting it to dust in seconds.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "summoning circle",
+    "fact": "The summoning circle was inscribed with runes in giant script; its color transformed from yellow to blinding orange, and the air grew hot as the ritual began.",
+    "source_quote": "The summoning circle inscribed with runes in giant script... The runes transformed from yellow to blinding orange, the air grew hot...",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "basilisk",
+    "fact": "The uncharmed basilisk became frantic as the ritual began, indicating it was still active and unaffected by the party's enchantments.",
+    "source_quote": "the uncharmed basilisk became frantic as the ritual began.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ent\u00e9moch",
+    "fact": "Ent\u00e9moch is a being whose power is locked behind a ritual requiring three sacrifices: wealth, a weapon, and blood; two sacrifices remain to unlock his boon.",
+    "source_quote": "To free Ent\u00e9moch and claim his boon, three sacrifices were required: wealth, a weapon, and blood... with only two sacrifices remaining to unlock Ent\u00e9moch's power.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "ritual initiation",
+    "fact": "The ritual to unlock Ent\u00e9moch's power began, marked by the transformation of the runes, heating of the air, and the frantic behavior of the uncharmed basilisk.",
+    "source_quote": "The runes transformed from yellow to blinding orange, the air grew hot, and the uncharmed basilisk became frantic as the ritual began.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "remaining sacrifices",
+    "fact": "Two sacrifices\u2014wealth and blood\u2014remain to complete the ritual and unlock Ent\u00e9moch's power.",
+    "source_quote": "To free Ent\u00e9moch and claim his boon, three sacrifices were required: wealth, a weapon, and blood... with only two sacrifices remaining to unlock Ent\u00e9moch's power.",
+    "quote_verified": false
+  }
+]

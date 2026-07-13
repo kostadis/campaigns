@@ -1,0 +1,37 @@
+[
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin charges in, swinging with his weapon, and manages to strike one of the swarms, dealing a significant blow.",
+    "source_quote": "Thorin charges in, swinging with his weapon. Daz perks up as Thorin actually manages to strike one of the swarms, dealing a significant blow.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz perks up as Thorin strikes the swarm, scans his spell list, second-guesses his choices, and muses that 'Burning Hands' would have been better or perhaps something with a wider area of effect.",
+    "source_quote": "Daz perks up as Thorin actually manages to strike one of the swarms, dealing a significant blow. \"Yes! There you go!\" he thinks, a glimmer of hope returning. ... Daz finds himself scanning his spell list, second-guessing his choices. \"Maybe 'Burning Hands' would have been better?\" he muses, or perhaps something with a wider area of effect.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Burning Hands",
+    "fact": "Daz muses that 'Burning Hands' would have been better or perhaps something with a wider area of effect.",
+    "source_quote": "Maybe 'Burning Hands' would have been better?\" he muses, or perhaps something with a wider area of effect.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "centipedes",
+    "fact": "The centipedes keep coming, relentless and unsettling.",
+    "source_quote": "the centipedes keep coming, relentless and unsettling.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "phantom sensation of bugs",
+    "fact": "Daz keeps scratching at his arms, feeling the phantom sensation of bugs despite knowing there were none on him.",
+    "source_quote": "He feels a slight unease, wondering if his spells are just ineffective or if he needs to re-strategize. All the while, he keeps scratching at his arms, feeling the phantom sensation of bugs despite knowing there were none on him.",
+    "quote_verified": true
+  }
+]

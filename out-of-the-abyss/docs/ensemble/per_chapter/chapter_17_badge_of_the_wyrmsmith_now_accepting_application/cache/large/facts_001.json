@@ -1,0 +1,170 @@
+[
+  {
+    "type": "npc",
+    "subject": "Hgraam",
+    "fact": "Hgraam is a venerable Stone Giant who resides in the Cairngorm Cavern, attuned to the deep rocks and aware of the corruption spreading through the Underdark. He serves as a reluctant oracle, offering cryptic warnings about evil\u2019s presence and the Deep King\u2019s descent into paranoia. He gifted the party the Stonespeaker Crystal and revealed that Shal, a new advisor, has corrupted the Deep King and refuses to meet anyone. He confirmed that the best path to the Dreamlands lies through the city of the Deep Gnomes, validating Jimjar\u2019s claims.",
+    "source_quote": "\u201cSomething evil stirs in the Underdark... By these portents, you shall know of evil\u2019s presence and of evil\u2019s face. This is what the stones tell me.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Shal",
+    "fact": "Shal is the mysterious new advisor to Deep King Tarngardt II, whose influence has caused the monarch to reject sage counsel, become paranoid, and lose control over the Underdark\u2019s growing chaos. Hgraam has attempted to meet Shal but has been refused. Shal\u2019s identity, origins, and nature remain unknown, but their arrival coincides with the Deep King\u2019s unraveling and the surge of demonic incursions.",
+    "source_quote": "\u201cEver since they became friends, the Deep King has been unwilling to listen to any sage advice.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Deep King Tarngardt II",
+    "fact": "The current ruler of Gracklstugh, son of the liberator Tarngardt I, who once freed the Derro from Duergar oppression. Now he is a broken, paranoid figure, manipulated by Shal, whose attempts to maintain order have only accelerated the collapse of control beneath the city. His mental state has deteriorated to the point of rejecting allies and ignoring the cries of the earth.",
+    "source_quote": "\u201cThe more he tries, the more the order escapes and tries to take the city from him.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Droki",
+    "fact": "Droki is a Derro courier trusted by all factions in Gracklstugh due to his unnaturally fast, predictable, and seemingly oblivious movement through the city. He navigates the Derro slums and Underdark tunnels with eerie precision, carrying messages between the Whorlstone Caverns and various powers. He is not insane in the traditional sense\u2014he is methodical, almost ritualistic, and may be under magical influence. He uses a hidden fissure behind a wall of rags and boxes to access the deeper tunnels.",
+    "source_quote": "\u201cDroki is late! They will be so angry! Stupid, stupid, stupid! Delays, blocks, procrastination, obstructions, pfah!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido is a Derro who once served as a courier but has since descended into fanatical madness, believing himself a divine prophet and constructing a shrine of humanoid remains in the caverns beneath the West Cleft. He claims to be fulfilling a divine mission to save his people from the Council of Savants, yet he has already committed murder and now seeks worshipers. He is capable of teleportation or rapid displacement between locations, suggesting magical or planar interference. He is both a threat and a potential key to understanding the Derro\u2019s spiritual corruption.",
+    "source_quote": "\u201cThe divine plan tells me I must help you!\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Council of Savants",
+    "fact": "The Council of Savants is a Derro intellectual order that promised liberation and enlightenment to the Derro people but failed to deliver, leading to widespread disillusionment and radicalization. Buppido and others now view them as traitors, and their broken promises have fueled the rise of cultic movements and violent dissent within the Derro community.",
+    "source_quote": "\u201cThe Council of Savants will fail my people. I must go and save them!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Cult of Tiamat",
+    "fact": "The Cult of Tiamat resorted to an extraordinary ritual to manifest the Dragon Queen into the Prime Material Plane after the end of the Great Sundering ended the era when gods could walk freely in Faer\u00fbn. Their actions are part of a larger pattern of desperate, high-stakes magic attempting to bypass divine restrictions, suggesting a hidden force\u2014possibly tied to the Faerzress or the stonespeaker crystal\u2014is enabling such incursions.",
+    "source_quote": "\u201cIt\u2019s why the Cult of Tiamat had to resort to such an extraordinary ritual to bring her into the prime material plane.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Deep Gnomes (Svirfneblin)",
+    "fact": "The Deep Gnomes, who dwell in the city beneath Gracklstugh, are the only faction trusted to navigate the Dreamlands safely. Hgraam confirms that their city is the correct path, validating Jimjar\u2019s claims. They are likely maintaining a fragile neutrality between the Duergar, Derro, and other Underdark powers, and may be the key to understanding the spreading madness and the nature of the evil stirring below.",
+    "source_quote": "\u201cThe best way to the Dreamlands is through the city of the Deep gnomes.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Duergar",
+    "fact": "The Duergar maintain strict control over Gracklstugh, enforcing segregation between their clean, geometric dwellings and the squalid Derro slums. They abandoned the guardhouses once used to monitor Derro slaves after Tarngardt I liberated them. Now they are caught between internal decay, the Deep King\u2019s unraveling, and the rising demonic incursions, yet remain outwardly rigid and oppressive.",
+    "source_quote": "\u201cThe duergar built a series of guardhouses to keep an eye on their derro slaves... abandoned when Deepking Tarngardt... liberated the derro.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Derro",
+    "fact": "The Derro are a broken, scattered people living in chaotic, overcrowded burrows beneath Gracklstugh, ruled by madness and ritual. They are exploited by the Duergar, betrayed by the Council of Savants, and now being drawn into cultic worship led by figures like Buppido. Their tunnels are used by Droki to move unseen between factions, and their collective insanity may be a symptom of a deeper magical corruption spreading from the Underdark.",
+    "source_quote": "\u201cThe chatter in the air is unnerving, with hundreds of derro muttering, screaming at each other, and otherwise reveling in their insanity.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Great Sundering",
+    "fact": "The Great Sundering ended the era when gods could walk freely in Faer\u00fbn, triggering a collapse in divine access and prompting desperate magical attempts to manifest deities and demonic forces. This event is the root cause of the current surge in demonic activity, the failure of divine magic, and the rise of rituals like those of Tiamat and the Faerzress-driven madness.",
+    "source_quote": "\u201cThe end of the great sundering ended the era that allowed the gods to walk in Faer\u00fbn freely.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Emergence of Shal",
+    "fact": "The arrival of Shal as the Deep King\u2019s advisor triggered a rapid deterioration in the ruler\u2019s mental state and control over the Underdark. This event marks the point where order began to unravel, and the corruption from the blackest depths began to manifest as physical madness, demonic incursions, and the collapse of the Deep King\u2019s authority.",
+    "source_quote": "\u201cEver since they became friends, the Deep King has been unwilling to listen to any sage advice.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Buppido\u2019s Shrine Manifestation",
+    "fact": "Buppido, previously a captive Derro courier, has suddenly manifested a macabre shrine of humanoid remains in a hidden cavern, complete with off-key humming and ritualistic behavior. His sudden reappearance in a location he could not have reached physically suggests planar displacement, magical corruption, or possession. His transformation from prisoner to cult leader is a sign that the madness spreading through the Underdark is taking sentient, worshipful form.",
+    "source_quote": "\u201cI didn\u2019t expect you to find me here, with my shrine nearly finished! And power! My faithful are finally honoring me!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Stonespeaker Crystal",
+    "fact": "A 19-inch shard of quartz crystal gifted by Hgraam, capable of casting Speak with Animals, Speak with the Dead, and Speak with Plants, and enhancing divination spells. It is attuned to the voices of the stones and may serve as a conduit to the deeper truths of the Underdark, possibly even allowing communication with the crying rocks or the whispers of the Faerzress.",
+    "source_quote": "\u201cThis is the stonespeaker crystal... it will also help you cast divinations.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Cairngorm Cavern",
+    "fact": "The ancient cavern where Hgraam resides, located near the edge of Gracklstugh\u2019s Duergar district. It is a place of deep geological resonance, where the stones speak and the giant listens. The cavern is a sanctuary of patience and ancient wisdom, and the only place in the Underdark where truth is spoken slowly and deliberately.",
+    "source_quote": "\u201cThe giant stands up, looks at Daz, \u2018You are too hasty. And I have rocks to tend to.\u2019\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "West Cleft District",
+    "fact": "The slum district of Gracklstugh where the Derro live in squalor, carved into the rock with no planning or order. It is a place of hatred, madness, and hidden power. The abandoned Duergar guardhouses overlook it, and the hidden fissure used by Droki leads from here into the deeper tunnels. It is the epicenter of Buppido\u2019s cult and the point where the corruption of the Underdark becomes visible in physical form.",
+    "source_quote": "\u201cThe homes in this part of Gracklstugh are crudely carved from the rock or are just holes in the walls, arranged in no apparent order.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Whorlstone Caverns",
+    "fact": "A network of tunnels beneath Gracklstugh used by Droki to transport messages between factions. It is a neutral zone where even enemies trust Droki to pass safely. The caverns are likely tied to the Dreamlands and may be a conduit for the spreading madness or a prison for something ancient. The fact that even the Deep King\u2019s agents use it suggests it is older than the current powers.",
+    "source_quote": "\u201cDroki can be trusted to deliver messages to the groups in the Whorlstone caverns and keep secrets.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Laduguer\u2019s Furrow",
+    "fact": "A clean, geometric corridor separating the Duergar district from the Derro slums. Its spotless design contrasts violently with the chaos of the West Cleft. It is a symbolic boundary\u2014between order and madness, between oppressor and oppressed. The abandoned guardhouses along it serve as observation points, and its entrance is the threshold to the Derro\u2019s hidden world.",
+    "source_quote": "\u201cLooking around, he notices how this is so spotlessly clean in its style.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Faerzress and Sanity",
+    "fact": "The Faerzress, the magical radiation of the Underdark, is increasingly affecting the sanity of those who dwell within it. Thorin wonders if it is connected to the demonic incursions and the madness of the Derro. It may be amplifying or even causing the corruption, acting as a psychic amplifier for the evil stirring below.",
+    "source_quote": "\u201cThorin wonders if this has anything to do with the Faerzress, which has affects his sanity.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Two-Faced Cave",
+    "fact": "Hgraam\u2019s prophecy mentions a \u2018cave with two faces\u2019 as a sign of evil\u2019s presence. This may refer to the fissure used by Droki, the shrine of Buppido, or a deeper location yet to be found. It is a key portent that must be interpreted, possibly indicating a portal, a duality of reality, or a hidden entity that exists in two states at once.",
+    "source_quote": "\u201cA cave with two faces. Rock devoured, and the land overgrown.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Pebble Believes Itself Flesh",
+    "fact": "Another of Hgraam\u2019s portents, this phrase suggests that something in the Underdark has achieved a blasphemous state of sentience\u2014minerals or stone have become animate, or living beings have been fused with rock. It may be connected to the stonespeaker crystal, Buppido\u2019s shrine, or the nature of the Faerzress itself.",
+    "source_quote": "\u201cThe pebble believes itself flesh.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Earth Rejects Its Wards",
+    "fact": "This portent implies that ancient magical protections\u2014wards, seals, or divine barriers\u2014placed long ago to contain evil beneath Gracklstugh have failed or been corrupted. It suggests the evil is not merely spreading, but actively breaking free from containment, and may be tied to the Deep King\u2019s loss of control or Shal\u2019s hidden agenda.",
+    "source_quote": "\u201cThe earth rejects its wards, and the tunnels shake in fury.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Droki\u2019s Magical Pace",
+    "fact": "Droki moves with unnatural speed and precision, as if guided by magic or prophecy. His predictability makes him a courier, but his behavior suggests he is not acting of his own will. He may be a vessel, a puppet, or a living conduit for the corruption. His final leap into the fissure and the wisp of fog that follows imply planar or necromantic transit.",
+    "source_quote": "\u201cDroki also doesn\u2019t seem to care if anyone is following him.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Identity of Shal",
+    "fact": "Shal\u2019s refusal to meet anyone, combined with their sudden influence over the Deep King and the timing of the corruption\u2019s acceleration, suggests they are not a normal being. They may be a demon, a fragment of the Faerzress given sentience, a long-dead entity returned, or an avatar of the evil stirring below. Their identity is the key to stopping the collapse.",
+    "source_quote": "\u201cI have asked to meet Shal, but they refuse.\u201d",
+    "quote_verified": true
+  }
+]

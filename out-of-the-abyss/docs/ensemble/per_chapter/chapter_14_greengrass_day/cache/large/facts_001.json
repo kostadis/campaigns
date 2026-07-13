@@ -1,0 +1,158 @@
+[
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a weary but increasingly cautious adventurer who has grown paranoid after repeated encounters with Duergar deception and magical ambushes. He now prioritizes group consensus over impulsive action, though retains a willingness to use intimidation when necessary.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a dragonborn tactician who relies on magic and environmental control, particularly Darkness and spell timing. He is frustrated by Daz\u2019s impulsiveness but respects Thorin\u2019s evolving judgment. He is deeply attuned to magical anomalies and suspects the city\u2019s madness extends beyond mere Duergar treachery.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a spellcaster with a flair for area-of-effect magic and little patience for subtlety. He is oblivious to social tension but highly effective in combat. His use of magic often disrupts stealth plans, yet he is indispensable in clearing groups of enemies. He is now focused on acquiring equipment and navigating Gracklstugh\u2019s economic chaos.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a cleric of Bahamut who seeks to understand the underlying causes of conflict rather than react to its symptoms. He has deduced that the Duergar\u2019s behavior stems from political and resource-based rivalry, not divine hatred. He is disturbed by the city\u2019s collective madness and suspects a deeper magical corruption akin to the Kuo-toans\u2019 descent.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido is a former Duergar cultist who claims to have been misled by the 'Divine Plan.' After consuming the Tongue of Madness, he reveals deeply personal and embarrassing truths about his companions. He is now seen as a liability and a source of unreliable information, yet his confession has made him an unexpected tool for exposing hidden tensions.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is a gnome with a mischievous sense of humor and an uncanny ability to deflect tension through absurdity. He corrects Zalthir\u2019s misunderstandings of planar magic with patient clarity, yet mocks him for it. He is the only one who sees through Buppido\u2019s madness and is tasked with monitoring him, though he treats the role as a game.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Hemeth",
+    "fact": "Hemeth is a Duergar weapons trader who has become an uneasy ally. He is deeply skeptical of outsiders and distrusts Brannam\u2019s merchant dealings. His ability to turn invisible is both a tactical asset and a symbol of the city\u2019s pervasive deception. He resents being bypassed for magical transactions but remains pragmatic.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Brannam Redmarch",
+    "fact": "Brannam is a merchant specializing in rare magical items and has proven unexpectedly reliable in negotiating for Zalthir\u2019s Eldritch Claw Tattoo. He is terrified of Thorin\u2019s threats but motivated by profit. His sudden willingness to help suggests he has something to hide or a hidden agenda within Gracklstugh\u2019s underworld.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Dulgir",
+    "fact": "Dulgir is a Duergar merchant in the Blade Bazaar whose behavior shifts unnervingly during transactions \u2014 speaking in Baldurian accents, denying statements, and acting as if invisible entities are present. He is emblematic of the city\u2019s collective psychosis, possibly influenced by a localized curse or planar bleed.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Duergar of Gracklstugh",
+    "fact": "The Duergar of Gracklstugh are a rigid, xenophobic slave-trading society that values order, labor, and secrecy over art or beauty. Their society is fracturing under a mysterious madness that causes merchants to deny reality, speak to non-existent brothers, and turn invisible mid-deal. Their invisibility is both a cultural norm and a tool of control.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Kuo-toans",
+    "fact": "The Kuo-toans are a cultist race from the Underdark whose worship of the False God has driven them to madness. Their presence is referenced as a parallel to the Duergar\u2019s current descent \u2014 suggesting a broader, possibly planar, corruption affecting Underdark civilizations.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Battle on the Abandoned Keelboat",
+    "fact": "A stealth ambush by invisible Duergar on an abandoned keelboat was disrupted by Daz\u2019s premature use of 'Shape Water,' revealing their positions. Zalthir\u2019s Darkness was then used to conceal the party\u2019s counterattack, culminating in the death of multiple Duergar through coordinated strikes, acid belches, and magical force. The battle ended with the capture of one Duergar prisoner.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Consumption of the Tongue of Madness",
+    "fact": "Buppido was forced to consume the Tongue of Madness, a magical mushroom that compels truth-telling. His revelations exposed deep personal animosities among the party, including insults about breath, appearance, and romantic interests. The event dissolved potential violence against him and shifted group dynamics toward reluctant tolerance.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Madness in the Blade Bazaar",
+    "fact": "Merchants in the Blade Bazaar began exhibiting signs of collective delusion: denying transactions, speaking to invisible entities, changing prices unpredictably, and turning invisible mid-deal. Grygum observed that these behaviors mirrored the Kuo-toans\u2019 descent into madness, suggesting a magical or planar corruption is spreading through Gracklstugh.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The Two-Headed Giant\u2019s Rampage",
+    "fact": "A two-headed, gray-skinned giant burst through the gate to the Darklake District, howling in madness and smashing through Duergar soldiers. Its violent entrance and the resulting carnage signaled a dramatic escalation in the city\u2019s unraveling. The event caused panic among citizens and visitors alike, confirming that the madness is no longer confined to merchants \u2014 it is now physical, violent, and unstoppable.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh is the Duergar metropolis of the Underdark, a city defined by oppressive order, smelting forges, and slave trade. Unlike the opulent Drow cities, it is utilitarian and grim. Its Blade Bazaar is a chaotic marketplace of deception, where reality itself seems unreliable. The city is now gripped by a spreading madness that manifests as delusions, invisibility, and violent outbursts.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Darklake District",
+    "fact": "The Darklake District is the only area in Gracklstugh where non-Duergar are permitted to move freely. It is a buffer zone of commerce and surveillance, now becoming a focal point of the city\u2019s madness. The gates separating it from the rest of the city have been breached by the two-headed giant, suggesting the corruption is no longer contained.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Blade Bazaar",
+    "fact": "The Blade Bazaar is Gracklstugh\u2019s primary marketplace, named for its abundance of weapons but selling all manner of goods. It is a place of noise, negotiation, and deception. Now, it is also the epicenter of the city\u2019s madness \u2014 merchants deny their words, speak to invisible companions, and vanish during transactions. It is a place where trust is impossible and reality is negotiable.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Tongue of Madness",
+    "fact": "A magical mushroom that, when consumed, forces the eater to speak unfiltered truths. It was used on Buppido to extract hidden grievances and expose the party\u2019s internal tensions. Its effects are temporary but psychologically devastating, revealing secrets that would otherwise remain buried.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Eldritch Claw Tattoo",
+    "fact": "An uncommon magical tattoo that enhances the wearer\u2019s natural weapons with eldritch energy. Zalthir seeks it as a personal upgrade. Brannam claims he can procure it, but it will take days and require a clean slate \u2014 suggesting the item is illicit and tied to Duergar black-market networks.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Jug of Any Liquid",
+    "fact": "A magical jug found on the abandoned keelboat that can generate any liquid. The first liquid produced was mayonnaise, which dramatically improved the taste of bland mushrooms. It is now a valued survival tool, symbolizing the party\u2019s shift from grim endurance to small comforts amid chaos.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Mace of Grygum",
+    "fact": "A mace purchased from Dulgir in the Blade Bazaar. Its acquisition was unusually smooth after the merchant shifted into a Baldurian accent. Grygum suspects the item carries a hidden enchantment or is tied to the city\u2019s madness, though its immediate properties are mundane.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Source of Gracklstugh\u2019s Madness",
+    "fact": "The collective delusions, invisibility, and violent outbursts plaguing Gracklstugh are not random. Grygum suspects a planar corruption similar to the Kuo-toans\u2019 descent. The appearance of the two-headed giant suggests a breach in reality \u2014 possibly linked to the Second Sundering\u2019s lingering instability or a forgotten ritual tied to the Duergar\u2019s slave trade.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Buppido\u2019s Divine Plan",
+    "fact": "Buppido\u2019s obsession with the 'Divine Plan' and his sudden madness after consuming the Tongue of Madness suggest he was part of a cult or ritual that may still be active. His references to Shuushar and his desire to return to his 'bolt hole' imply a hidden network of Duergar fanatics operating beneath the city.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Two-Headed Giant",
+    "fact": "The sudden appearance of the two-headed giant, who shattered the gate and slaughtered Duergar soldiers, is an unprecedented event. Its form resembles ancient mythic beings from the Outer Planes. Its arrival coincides with the city\u2019s madness, suggesting it is either a manifestation of the corruption or its catalyst \u2014 and it may not be alone.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "9th day of the 1st Tenday of Myrtul",
+    "fact": "This date marks the party\u2019s arrival in Gracklstugh and the beginning of its descent into chaos. It is the day the madness became undeniable, the day the giant broke through, and the day the party\u2019s internal dynamics were irrevocably altered by truth, violence, and revelation.",
+    "quote_verified": false
+  }
+]

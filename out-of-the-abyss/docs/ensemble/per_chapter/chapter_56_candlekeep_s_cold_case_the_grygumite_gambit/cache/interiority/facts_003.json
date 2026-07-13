@@ -1,0 +1,212 @@
+[
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin noted that the gate warden looked more determined after leaving the chamber, suggesting he discovered something he had not yet resolved.",
+    "source_quote": "He definitely looked more determined after he walked out.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Tadric",
+    "fact": "Tadric understood his job had been crowd control, not observation, and realized he had failed to notice what people did inside the room.",
+    "source_quote": "His job had been crowd control, not surveillance \u2014 watching who came in and out, not watching what they did once they were inside.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin observed that the tobacco smoke in the room was old and lingering, indicating the room had been sealed for hours since the murder.",
+    "source_quote": "The smoke was old. Nobody smokes in a sealed room and leaves smoke that lingers for hours unless the room has been sealed for hours.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin noted that the candles on the candelabra had burned completely to wax puddles, and Tadric confirmed Miss Hollypocket would never have allowed this, meaning Janussi was dead before the candles finished.",
+    "source_quote": "Miss Hollypocket would never have allowed the Keeper to let candles burn down to nothing. Full stop.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir determined that the rib cage had been smashed by multiple deliberate blows, likely from an axe, and that the heart had been removed after death.",
+    "source_quote": "The rib cage had been smashed by something like an axe, multiple blows, close together, deliberate.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum identified that the removal of the heart was not for trophy purposes but to prevent resurrection rituals from working.",
+    "source_quote": "You can't bring someone back from death by ritual if their vital organs aren't present.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin learned that the gate warden had already performed the 'speak with dead' rite on Janussi's corpse, meaning it could not be used again for some time.",
+    "source_quote": "The dead were not speaking. The gate warden. On his careful, evidence-preserving inspection.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm had given clear instructions to report back when done and to remove nothing from the room, which Thorin respected as a sign of clarity.",
+    "source_quote": "Report back when done, remove nothing from the room. Short sentence. No ambiguity.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin noticed that the spellbook The Golden Ass \u2014 annotated in recent midnight blue ink \u2014 was missing from the room, suggesting deliberate removal.",
+    "source_quote": "Whatever Janussi had been working on most recently, writing about in the freshest ink, on the most recent night of his life, was gone.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin observed that the ink pot had been spilled, the quill dropped beside it, and neither had been moved since, indicating the scene had not been tampered with after the murder.",
+    "source_quote": "Neither the ink nor the quill had been moved since.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin noted that the desk was neatly kept, but the chair was toppled and the marble statue lay on the floor \u2014 signs of a struggle or disturbance.",
+    "source_quote": "The desk was neatly kept, which was itself a data point. The chair near it was toppled. The marble statue and its pedestal were on the floor.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin identified that the notes in midnight blue ink were recent, while those in purple were older, suggesting layered research by Janussi over time.",
+    "source_quote": "The blue was recent. The purple, less so.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin asked whether ice was available, anticipating the corpse would become increasingly fragrant as time passed.",
+    "source_quote": "Is there any ice around?",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The open door on the third floor",
+    "fact": "The door to the apartment on the third floor landing had been left conspicuously ajar, and its significance had not yet been explained.",
+    "source_quote": "A door left ajar on the third floor landing.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The cat on the stairs",
+    "fact": "The cat had been observed tracking the party without moving, and its nature as a potential power or familiar remained unproven and unresolved.",
+    "source_quote": "Nobody had been able to conclusively prove the cat was some kind of power that lived here, and nobody had been able to conclusively prove that it was not.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Fembris",
+    "fact": "Fembris vomited after seeing the body, then retreated outside and did not return, indicating his inability to cope with the scene.",
+    "source_quote": "Fembris took one look at the body, crossed the room in four steps, flung a window open, and vomited out of it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin concluded that the murder likely occurred well before the body was discovered, based on the state of the candles and smoke.",
+    "source_quote": "That tells me that it had been some time since he was murdered, because there was enough time for the candle to burn out.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin determined that the heart was removed post-mortem as a precaution against resurrection, not as a trophy or act of rage.",
+    "source_quote": "Whoever took the heart wasn't souvenir-collecting. They were preventing resurrection.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin noted that the Gate Warden had been alone in the room during his full inspection, and had emerged looking determined \u2014 suggesting he had found something critical.",
+    "source_quote": "He definitely looked more determined after he walked out.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the missing Golden Ass spellbook was the most recent focus of Janussi\u2019s research and its removal was intentional.",
+    "source_quote": "Whatever Janussi had been working on most recently, writing about in the freshest ink, on the most recent night of his life, was gone.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin observed that the ink carrier was damp, the ink pot spilled, and the quill lay nearby with a blue nib \u2014 all undisturbed since the moment of the disturbance.",
+    "source_quote": "A wicker basket nearby holding a linen ink carrier, slightly damp, which had been the vessel for the ink now pooling from the spilled pot.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin noted that the body's blood pattern was localized, inconsistent with the violence of the wound, indicating death preceded the chest opening.",
+    "source_quote": "The blood was localized. Wrong pattern for what should have been a violent death. Far less than the wound demanded.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin questioned whether the corpse could be spoken to despite the missing heart, concluding that only the brain was needed \u2014 but the rite had already been used.",
+    "source_quote": "We don't need the heart \u2014 we just need the brain to be able to talk to him, you know.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin recognized that the gap in Tadric\u2019s observation \u2014 watching entrances but not actions inside \u2014 created a critical blind spot in the investigation.",
+    "source_quote": "He should have been doing both.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin noted that the room had been sealed for hours, and the smoke and candle state confirmed the murder occurred long before discovery.",
+    "source_quote": "The room had been sealed for hours since the murder.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin observed that the safe had been opened and blue gems left behind, indicating the thief sought something more valuable than jewels.",
+    "source_quote": "The thief had looked at the gems, decided they weren't what he came for, and left them.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin identified the notes in Celestial as Janussi\u2019s academic research, and the midnight blue annotations as his final, urgent work.",
+    "source_quote": "Notes in Celestial, generic academic work, someone musing on unfamiliar workings and how they might be performed. Janussi's own research, most likely.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin concluded that the deliberate removal of the Golden Ass spellbook, the failed resurrection rite, and the gate warden\u2019s secretive inspection formed a pattern of concealment.",
+    "source_quote": "That felt deliberate in the way that things feel deliberate when you stop trying to find an innocent explanation for them.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin asked whether the gate warden had been removed before he could be questioned, suspecting his removal was intentional.",
+    "source_quote": "The gate warden removed before he could be asked what he'd found.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin noted that the door to the apartment on the third floor had been left open \u2014 and that he had not yet entered it.",
+    "source_quote": "I hadn't been inside yet. That was where I needed to be.",
+    "quote_verified": true
+  }
+]

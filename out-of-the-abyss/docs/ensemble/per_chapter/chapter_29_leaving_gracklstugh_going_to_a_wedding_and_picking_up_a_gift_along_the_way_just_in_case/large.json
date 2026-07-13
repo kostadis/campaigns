@@ -1,0 +1,158 @@
+[
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a half-orc cleric of Bahamut who repeatedly escapes imprisonment and believes he has a gift for it; he is deeply disturbed by the manipulation of Themberchaud and seeks to protect secrets that could destroy Gracklstugh.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud is a young red dragon, pampered and polished by the Duergar, serving as a glorified lighter for their forges; he believes himself to be a sovereign Wyrmsmith and is utterly unaware of how ridiculous and controlled he appears to others.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a pragmatic and observant member of the group who recognizes the deception surrounding Themberchaud and exploits the Duergar\u2019s fear of the Ember Vanguard to avoid bloodshed; he carries the group\u2019s most dangerous secrets and values moral restraint over violence.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a cynical but loyal member of the group who understands the absurdity of their situation; he supports deception to survive, quotes giant proverbs, and is drawn to dangerous choices despite knowing their risks.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a cautious member of the group who fears dragon flight and the consequences of being mistaken for the Ember Vanguard; he notices the Duergar\u2019s panic and understands the weight of perception in their survival.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is a ghoul who makes morbid wagers and seems to intuit the group\u2019s impending doom; he bets on Grygum\u2019s survival and predicts their journey will become a circle of unwilling vows.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith is a mysterious member of the group driven by compulsion; he is drawn to the Neverlight Grove by the same force that led him to the Myconids, suggesting he is under supernatural influence.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth is a pragmatic member of the group who understands the rarity of the mending spell among spellcasters due to naval warfare tactics; she is observant and skeptical of Grygum\u2019s sudden proficiency.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Duergar",
+    "fact": "The Duergar of Gracklstugh manipulate Themberchaud as a living forge-lighter, treating him as a tool rather than a sovereign being; they fear the Ember Vanguard and panic when they mistake the party for them.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Ember Vanguard",
+    "fact": "The Ember Vanguard is a feared mercenary group believed by the Duergar to be capable of mass destruction; the party exploits this reputation to avoid confrontation and escape capture.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud is a young red dragon, physically oversized and poorly trained, whose scales are polished and claws painted; he does not hunt and behaves like a pampered pet, yet breathes fire with terrifying power when commanded.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Giant Mosquitoes",
+    "fact": "Bloodsucking giant mosquitoes fall from the ceiling of the Underdark during the party\u2019s journey; they are swiftly killed but represent the pervasive dangers of the environment.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh is a Duergar stronghold in the Underdark, dominated by forges and the manipulated presence of Themberchaud; it is a place of hidden tensions, fear of the Ember Vanguard, and suppressed truths about dragonkind.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Dark Lake District",
+    "fact": "The Dark Lake District is a dangerous zone near the docks of Gracklstugh, rumored to hold intelligence from recent attacks; the party seeks it for clues but is resisted by Themberchaud\u2019s ego.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Neverlight Grove",
+    "fact": "The Neverlight Grove is a mysterious, demon-haunted location in the Underdark, believed by Sarith and Thorin to be a destination of compulsion; it is associated with demonic plots and unwilling vows.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Lost Tomb of Khaem",
+    "fact": "The Lost Tomb of Khaem is a forgotten ruin in the Underdark, rumored to contain a powerful weapon; the party plans to secure its contents before proceeding to the Neverlight Grove.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Caltrop",
+    "fact": "A caltrop is given by Grygum to the Duergar Stone Guard as a symbolic token of their mission; it serves as a ruse to buy time and avoid violence, representing the group\u2019s deceptive strategy.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Empty Shell Gem",
+    "fact": "Jimjar wagers an empty shell gem that the party\u2019s journey will become a circle of unwilling vows; the bet is accepted by Grygum, foreshadowing a binding magical consequence.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Dragon Ride Departure",
+    "fact": "The party rides Themberchaud from Gracklstugh, exploiting his delusions and the Duergar\u2019s fear of the Ember Vanguard to escape; the flight ends with a near-fatal fall and a forced detour to a forge.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Mistaken Identity at the Docks",
+    "fact": "The party is mistaken for the Ember Vanguard by a Duergar Stone Guard; they avert bloodshed by impersonating agents of Themberchaud and leaving a caltrop as a token of authority.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Scuttling the Boat",
+    "fact": "The party debates scuttling their boat to avoid pursuit; Grygum\u2019s offer to use mending reveals his unusual spell knowledge, contradicting naval warfare norms and raising suspicion.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Unwilling Vows",
+    "fact": "Jimjar\u2019s bet suggests the party\u2019s journey to the Neverlight Grove will bind them to unwilling magical oaths; Grygum has accepted the wager, making this a looming, unresolved plot thread.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Corrupted Dragon Egg",
+    "fact": "The party carries the secret of a corrupted dragon egg, a threat capable of mass destruction; they have chosen to conceal it from Gracklstugh, making this a moral burden with potential future consequences.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Themberchaud\u2019s True Role",
+    "fact": "The party knows Themberchaud is a manipulated tool of the Duergar, not a sovereign Wyrmsmith; they have chosen not to reveal this truth, creating a moral tension between dragonkind\u2019s dignity and their survival.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "4th-6th day of the 2nd tenday of Myrtul 1493",
+    "fact": "The party spends three uneventful days rowing through the Underdark, interrupted only by giant mosquitoes; this period establishes the tedium and danger of their journey.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "7th day of the 2nd tenday of Myrtul 1493",
+    "fact": "On the fourth day of travel, the party leaves the boat to proceed on foot, knowing it leaves a trail; they debate its destruction, revealing Grygum\u2019s rare knowledge of mending and the naval taboo against it.",
+    "quote_verified": false
+  }
+]

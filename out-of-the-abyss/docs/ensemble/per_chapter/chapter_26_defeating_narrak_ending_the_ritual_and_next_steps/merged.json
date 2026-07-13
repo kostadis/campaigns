@@ -1,0 +1,1509 @@
+[
+  {
+    "type": "date",
+    "subject": "after the battle",
+    "fact": "The events occur immediately after the ritual\u2019s end, with no specific calendar date given; time is measured in the sequence of combat and aftermath.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "An hour passes between two events in the session.",
+    "source_quote": "An hour later",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "end of the conflict",
+    "fact": "The conflict ends with all enemies dead, the ritual disrupted, and the group now holding incriminating evidence.",
+    "source_quote": "All enemies are now dead... We have survived, and now we have leverage.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
+    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session end",
+    "fact": "The events concluded with all enemies dead, the ritual ended, and the party now in possession of critical evidence. This marks the end of the current session and the beginning of a new strategic phase.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "acquisition of evidence",
+    "fact": "The group acquires evidence proving the king's alliance with assassins, the Derro's support for Demogorgon, and an egg useful to the Keepers of the Flame or Red Dragon.",
+    "source_quote": "We have the evidence that the king has been working with assassins to kill Eldeth\u2019s clan, an egg that would help the Keepers of the Flame or the Red Dragon, and proof of the Derro perfidity and support for Demogorgon.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz cast Magic Missile, with two bolts striking a weaker Derro northeast of Grygum and the third hitting a stronger one.",
+    "source_quote": "I call upon the simplest, yet most reliable, of my spells: Magic Missile. Two bolts streak towards the weaker Derro northeast of Grygum, and the third unerringly finds its mark on a stronger one",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz commanded the earthen hand to squeeze Narrak further.",
+    "source_quote": "I command the earthen hand to squeeze him further",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz examined the two-foot-tall statue that turned one of Hargaam\u2019s giants mad.",
+    "source_quote": "I examine the two-foot-tall statue that is the ritual that turned one of Hargaam\u2019s giants mad",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz found a 'bunch of texts,' including 'The Rituals of the Two-Headed Beast,' confirming Narrak's role as orchestrator.",
+    "source_quote": "I find a 'bunch of texts,' including 'The Rituals of the Two-Headed Beast,' which Narrak was reading. This confirms his role as the orchestrator.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz laughed at the idea of installing democracy, noting the Duergar's innate invisibility prevents civil debate.",
+    "source_quote": "The idea of 'installing democracy' is floated, but I laugh. The Duergar and their innate invisibility create a level of paranoia that prevents any kind of civil debate.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Narrak attacked Grygum while restrained by Daz's Maximilian's Earthen Grasp.",
+    "source_quote": "Narrak, the foolish cultist of this twisted scene, attacks Grygum, although still restrained by my Maximilian's Earthen Grasp",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Narrak's voice boomed, 'fools, your sacrifice is but a step toward glory!'",
+    "source_quote": "Narrak's voice, strangely cutting out, booms, 'fools, your sacrifice is but a step toward glory!'",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "The weaker Derro crumpled, dead instantly.",
+    "source_quote": "The weaker Derro crumples, dead instantly",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Death of Gru Manga",
+    "fact": "Gru Manga, the Ettin, was blinded, grappled, and finally killed by Zalthir. His death marked the neutralization of the party\u2019s primary physical threat during the ritual.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "death of Gru Manga",
+    "fact": "Gru Manga, the hulking Ettin, is killed by Zalthir after being grappled and struck repeatedly.",
+    "source_quote": "I deliver the final, decisive blow. Gru Manga falls to the ground.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "death of Narrak",
+    "fact": "Narrak is killed by Thorin, his final words being a desperate plea that the ritual cannot be undone.",
+    "source_quote": "Thorin makes the final, grim decision to kill Narrak, his last words a desperate plea: 'No, the ritual cannot be undone!'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Death of Narrak",
+    "fact": "Narrak, the cultist leader, was killed by Thorin after a final plea that 'the ritual cannot be undone.' His death ended the ritual and confirmed the party\u2019s control over the situation.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "democracy proposal rejected",
+    "fact": "The idea of 'installing democracy' is laughed off due to Duergar innate invisibility breeding paranoia.",
+    "source_quote": "installing democracy",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "disruption of the ritual",
+    "fact": "The ritual involving the two-headed stone giant statue is disrupted after the death of Narrak and the clearing of the cavern.",
+    "source_quote": "the true scope of this strange ritual, involving the two-headed stone giant statue, now presents itself.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Dissipation of Silent Spell",
+    "fact": "The 'silent spell' cast earlier in the encounter has now dissipated, revealing the true scope of the ritual and allowing the party to perceive the stone giant statue and its connection to the madness.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "evidence of king's conspiracy",
+    "fact": "Evidence exists that the king has been working with assassins to kill Eldeth\u2019s clan.",
+    "source_quote": "the king has been working with assassins to kill Eldeth\u2019s clan",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Gru Manga's death",
+    "fact": "Gru Manga was neutralized after being blinded, grappled, and struck repeatedly; his death marked the first major threat eliminated in the battle.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "A Derro burst from Zalthir's darkness, its hook sphere striking Grygum and knocking him prone.",
+    "source_quote": "a Derro bursts from Zalthir's darkness, its hook sphere striking me. The hit throws me off balance and I am knocked prone",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Gru Manga's roar filled the cavern, an enraged bellow directed straight at Grygum, convinced he was the source of his pain.",
+    "source_quote": "Gru Manga's roar fills the cavern, an enraged bellow directed straight at me, convinced I am the source of his pain",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum brought his mace down on a Derro, which was still standing.",
+    "source_quote": "I bring my mace down on a Derro, but it is still standing",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum cast True Strike, honing his aim for the next blow.",
+    "source_quote": "I focus my intent, casting True Strike, honing my aim for the next blow",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum pulled himself up, shedding the prone condition with a determined heave.",
+    "source_quote": "I pull myself up, shedding the prone condition with a determined heave",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum unleashed a stream of corrosive acid, spraying all three Derro.",
+    "source_quote": "I unleash a stream of corrosive acid, spraying all three Derro",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum's acid spell lashed out, catching three of the chanting Derro.",
+    "source_quote": "my acid spell lashes out, catching three of the chanting Derro",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "One Derro did not dodge the acid and now suffers at the start of its turns.",
+    "source_quote": "Two manage to dodge its full effect, but one does not and now suffers at the start of its turns",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "The impact shattered Grygum's concentration, and the acidic mist he'd conjured dissipated.",
+    "source_quote": "the impact shatters my concentration, and the acidic mist I'd conjured dissipates",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "JimJar",
+    "fact": "JimJar advised the group to 'hold onto these' for later usefulness.",
+    "source_quote": "Jimjar's advice to 'hold onto these' for later usefulness is wise, as always.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "JimJar",
+    "fact": "JimJar observed that the group has evidence they can keep and wants to make a bet it would be helpful later.",
+    "source_quote": "the curious JimJar speaks. He observes that we have this evidence that we can keep. He wants to make a bet that it would be helpful to us later.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "jimjar's advice",
+    "fact": "Jimjar advises to 'hold onto these' for later usefulness, recognizing the leverage in the recovered evidence.",
+    "source_quote": "hold onto these",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Narrak",
+    "fact": "Narrak's last words were a desperate plea: 'No, the ritual cannot be undone!'",
+    "source_quote": "his last words a desperate plea: 'No, the ritual cannot be undone!'",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "narrak's final words",
+    "fact": "Narrak's last words are a desperate plea: 'No, the ritual cannot be undone!'",
+    "source_quote": "No, the ritual cannot be undone!",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Narrak's final words",
+    "fact": "Narrak\u2019s last words \u2014 'No, the ritual cannot be undone!' \u2014 revealed his belief in the ritual\u2019s permanence, though his death rendered it inert.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "proof of Derro perfidity",
+    "fact": "Proof of the Derro perfidity and support for Demogorgon was acquired.",
+    "source_quote": "proof of the Derro perfidity and support for Demogorgon",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Ritual of the Two-Headed Beast",
+    "fact": "The ritual, centered on a two-headed stone giant statue, induced madness in stone giants and required Derro chanting. It was interrupted and ended with Narrak\u2019s death. Its true nature and artifacts are now known to the party.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "ritual's end",
+    "fact": "The ritual tied to the two-headed stone giant statue was ended when Narrak was killed and all Derro were slain; its effects ceased, and the 'silent spell' dissipated.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "rump-a-dump rescue request",
+    "fact": "Stool urgently requests to go save Rump-a-dump now.",
+    "source_quote": "Can we go save Rump-a-dump now? PLEASE!!!!!",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Stool",
+    "fact": "Stool asked Grygum and Zalthir if they could go save Rump-a-dump now.",
+    "source_quote": "Hey, Zalthir? Grygum? Can we go save Rump-a-dump now? PLEASE!!!!!",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "survival and leverage",
+    "fact": "The group has survived combat and now holds tactical and informational leverage. This marks a transition from defense to intelligence-driven strategy.",
+    "source_quote": "We have survived, and now we have leverage.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "Sloobludop is approximately eight days away via the Darklake.",
+    "source_quote": "the town of Sloopdopblop is just eight days away",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "The 'silent spell' from earlier dissipates, and the true scope of the ritual involving the two-headed stone giant statue presents itself.",
+    "source_quote": "The 'silent spell' from earlier dissipates, and the true scope of this strange ritual, involving the two-headed stone giant statue, now presents itself",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Thorin made the final, grim decision to kill Narrak.",
+    "source_quote": "Thorin makes the final, grim decision to kill Narrak",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir acquires peculiar, potentially useful items from Narrak's person and chest, including gold, Keoghtom's Ointment, and strange texts.",
+    "source_quote": "We acquire some peculiar, yet potentially useful, items from Narrak's person and his chest, including gold, Keoghtom's Ointment, and strange texts",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir activated his Eldritch Maul, transforming his hands into a writhing mass of tentacles that extended fifteen feet.",
+    "source_quote": "I activate my Eldritch Maul, transforming my hands into a writhing mass of tentacles that extends a terrifying fifteen feet",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir delivered the final, decisive blow to Gru Manga, who fell to the ground.",
+    "source_quote": "I deliver the final, decisive blow. Gru Manga falls to the ground",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir moved his sphere of darkness, enveloping Gru Manga once more, depriving him of sight.",
+    "source_quote": "I move the sphere of darkness, enveloping Gru Manga once more, depriving him of sight",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir struck another Derro with an efficient strike, and it died.",
+    "source_quote": "My gaze then sweeps to another Derro, and with another efficient strike it diesl",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir's tentacles lashed out, striking the Ettin and grappling him.",
+    "source_quote": "my tentacles lash out, striking the Ettin. I press the assault... my tentacles wrap around him, and Gru Manga is grappled, held tight in my grasp",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Demogorgon",
+    "fact": "Demogorgon is the demonic entity supported by the Derro through their ritual. Evidence of this alliance has been secured by the party and is among the incriminating materials recovered.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Demogorgon",
+    "fact": "Demogorgon is the demonic entity supported by the Derro; evidence of their worship and ritual activity has been uncovered by the party.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Derro",
+    "fact": "The Derro are a faction whose maddening chant of 'die, die, die' echoes in the cavern, and who are proven to support Demogorgon.",
+    "source_quote": "The air is thick with the foul stench of these Derro, their maddening chant of 'die, die, die' echoing in my ears... proof of the Derro perfidity and support for Demogorgon.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Derro",
+    "fact": "The Derro are a subterranean race corrupted by the ritual, chanting madly, serving Narrak, and supporting Demogorgon; their perfidy is now documented as evidence.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Derro",
+    "fact": "The Derro are maddened cultists who chanted 'die, die, die,' performed a ritual tied to Demogorgon, and were systematically killed by the party. Their perfidy and support for Demogorgon are now documented evidence.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Duergar",
+    "fact": "The Duergar are a faction whose innate invisibility creates paranoia that prevents civil debate.",
+    "source_quote": "The Duergar and their innate invisibility create a level of paranoia that prevents any kind of civil debate.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Duergar",
+    "fact": "The Duergar are referenced as a paranoid race with innate invisibility, making civil governance like 'installing democracy' impossible in their presence.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Duergar",
+    "fact": "The Duergar, with their innate invisibility, create a level of paranoia that prevents any kind of civil debate. Their presence and abilities undermine trust and obstruct organized discourse.",
+    "source_quote": "The Duergar and their innate invisibility create a level of paranoia that prevents any kind of civil debate.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Eldeth\u2019s clan",
+    "fact": "Eldeth\u2019s clan is a faction that was targeted by assassins working with the king, as confirmed by evidence.",
+    "source_quote": "We have the evidence that the king has been working with assassins to kill Eldeth\u2019s clan",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Eldeth\u2019s clan",
+    "fact": "Eldeth\u2019s clan was systematically assassinated by the king\u2019s agents; proof of this conspiracy is among the evidence the party now possesses.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Keepers of the Flame",
+    "fact": "One of four factions that sent the party into the caves; they seek the egg recovered from Narrak\u2019s chest, which could empower them or the Red Dragon.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Keepers of the Flame",
+    "fact": "The Keepers of the Flame are a faction that could benefit from an egg acquired as evidence.",
+    "source_quote": "an egg that would help the Keepers of the Flame or the Red Dragon",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Red Dragon",
+    "fact": "The Red Dragon is a faction that could benefit from an egg acquired as evidence.",
+    "source_quote": "an egg that would help the Keepers of the Flame or the Red Dragon",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Red Dragon",
+    "fact": "The Red Dragon is linked to the egg recovered from Narrak\u2019s chest; it is a potential beneficiary of the evidence the party now holds.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "The Keepers of the Flame",
+    "fact": "The Keepers of the Flame are a faction seeking an egg recovered from Narrak\u2019s chest, which would aid their cause against the Red Dragon. They are one of four factions that sent the party into the caves.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "The King\u2019s Court",
+    "fact": "The King\u2019s Court has been secretly working with assassins to eliminate Eldeth\u2019s clan. This evidence, recovered by the party, can be used to bury the entire city in blood if released.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "The Red Dragon",
+    "fact": "The Red Dragon is a faction with interest in the egg recovered from Narrak\u2019s chest. They are one of four factions that sent the party into the caves, seeking evidence to bury their rivals.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "cavern",
+    "fact": "The cavern is filled with the foul stench of Derro, echoing with their chant of 'die, die, die', and contains a two-headed stone giant statue.",
+    "source_quote": "The air is thick with the foul stench of these Derro, their maddening chant of 'die, die, die' echoing in my ears... the two-headed stone giant statue",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Stool",
+    "fact": "The location 'Stool' is referenced as the site of a sudden, urgent call to action. It serves as a contextual anchor for the next mission directive.",
+    "source_quote": "### Stool\n\u201cHey, Zalthir? Grygum? Can we go save Rump-a-dump now? PLEASE!!!!!\u201d",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "two-headed stone giant statue",
+    "fact": "The two-headed stone giant statue is the ritual artifact that induced madness in Hargaam\u2019s giants.",
+    "source_quote": "the two-headed stone giant statue",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
+    "source_quote": "Drow outpost was 100' in the sky",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
+    "source_quote": "four chasme and two vrock",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Derro",
+    "fact": "A Derro is unnoticed in the background, a detail for later consideration. The creature is present but unengaged, lurking as an unresolved tactical element.",
+    "source_quote": "There is still a Derro unnoticed in the background, a detail for later consideration, perhaps.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Derro",
+    "fact": "Multiple Derro were chanting 'die, die, die,' corrupted by the ritual, and were slain by Grygum\u2019s acid, Daz\u2019s Magic Missile, and Zalthir\u2019s strikes; one remained unnoticed in the background.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz cast Magic Missile to kill weaker Derro, maintained Maximilian's Earthen Grasp on Narrak, and later examined the ritual statue and texts, identifying 'The Rituals of the Two-Headed Beast' as Narrak's orchestrating work.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz casts Magic Missile, striking two weaker Derro and one stronger one, and later examines the two-foot-tall statue and 'The Rituals of the Two-Headed Beast' texts.",
+    "source_quote": "I call upon the simplest, yet most reliable, of my spells: Magic Missile. Two bolts streak towards the weaker Derro northeast of Grygum, and the third unerringly finds its mark on a stronger one... I examine the two-foot-tall statue that is the ritual that turned one of Hargaam\u2019s giants mad. I find a 'bunch of texts,' including 'The Rituals of the Two-Headed Beast.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a spellcaster who used Magic Missile to kill Derro, maintained Maximilian's Earthen Grasp on Narrak, and pressed the advantage during the final confrontation. He is efficient, pragmatic, and focused on eliminating threats with minimal wasted motion.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gru Manga",
+    "fact": "Gru Manga is a hulking Ettin who roared in rage, was blinded and grappled by Zalthir, and was ultimately killed after enduring multiple attacks. He was a major physical threat whose death marked a turning point in the battle.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gru Manga",
+    "fact": "Gru Manga was a hulking Ettin who chanted 'die, die, die,' attacked Zalthir with a roar, was blinded and grappled, and was ultimately slain by Zalthir after enduring multiple strikes.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a cleric of Bahamut who channelled acid spells and Tasha's Caustic Brew against Derro, regained footing after being knocked prone, and delivered decisive blows to end the ritual. He remains focused on smiting wicked creatures and stopping Narrak's ritual.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a cleric of Bahamut who channelled acid spells and True Strike to smite Derro, regained footing after being knocked prone, and delivered the final blows to enemies during the ritual's climax.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a cleric of Bahamut who channels the Platinum Dragon's justice, unleashes Tasha's Caustic Brew, and brings his mace down on a Derro.",
+    "source_quote": "I unleash a stream of corrosive acid, spraying all three Derro. Two manage to dodge its full effect, but one does not and now suffers at the start of its turns. I let them feel the burn of Bahamut's righteous wrath.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is addressed by an urgent plea to go save 'Rump-a-dump.' He is part of a group being called upon for a new mission, indicating ongoing narrative momentum.",
+    "source_quote": "\u201cHey, Zalthir? Grygum? Can we go save Rump-a-dump now? PLEASE!!!!!\u201d",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "JimJar",
+    "fact": "JimJar observes that the group has evidence they can keep, advises holding onto it for later usefulness, and mocks the idea of installing democracy.",
+    "source_quote": "JimJar's advice to 'hold onto these' for later usefulness is wise, as always... The idea of 'installing democracy' is floated, but I laugh.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar speaks curiously, observing that we have evidence we can keep. He wants to make a bet that holding onto it will be helpful later. His advice to 'hold onto these' for later usefulness is wise, as always.",
+    "source_quote": "And then the curious JimJar speaks. He observes that we have this evidence that we can keep. He wants to make a bet that it would be helpful to us later. Jimjar's advice to 'hold onto these' for later usefulness is wise, as always.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Narrak",
+    "fact": "Narrak is a cultist who screeches about sacrifice and glory, is restrained by Maximilian's Earthen Grasp, and dies after pleading, 'No, the ritual cannot be undone!'",
+    "source_quote": "'fools, your sacrifice is but a step toward glory!'... 'No, the ritual cannot be undone!'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Narrak",
+    "fact": "Narrak is dead, silenced by Thorin's decisive blow. His frantic final words about the ritual were those of a follower of a demonic power. He was reading 'The Rituals of the Two-Headed Beast,' confirming his role as the orchestrator.",
+    "source_quote": "Narrak is dead, silenced by Thorin's decisive blow. His frantic final words about the ritual are just the weak words of a follower of a demonic power. It is always about the rituals, isn't it? I find a 'bunch of texts,' including 'The Rituals of the Two-Headed Beast,' which Narrak was reading. This confirms his role as the orchestrator.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Narrak",
+    "fact": "Narrak is the cultist leader of the ritual, who invoked the 'glory' of the Two-Headed Beast and claimed sacrifice was part of a greater design. His final words were a desperate plea as he was killed by Thorin, his conviction clearly waning.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Narrak",
+    "fact": "Narrak was the cultist leader of the ritual, invoking 'glory' and 'sacrifice,' restrained by Daz\u2019s magic, and killed by Thorin after pleading that the ritual could not be undone.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Stool",
+    "fact": "Stool asks if the group can go save Rump-a-dump now, pleading with urgency.",
+    "source_quote": "Hey, Zalthir? Grygum? Can we go save Rump-a-dump now? PLEASE!!!!!",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin healed himself during combat, made the decisive blow to kill Narrak, and observed the final state of enemies, contributing to the group\u2019s lethal efficiency.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin heals himself, makes the final decision to kill Narrak, and observes the state of dying enemies.",
+    "source_quote": "Thorin heals himself, ready for another push... Thorin makes the final, grim decision to kill Narrak... Thorin observes that it\u2019s nearly dead.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a healer who recovered from injury, supported the group\u2019s offensive, and made the final decision to kill Narrak. He observed enemy conditions and coordinated with allies to ensure victory.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir activates his Eldritch Maul, transforming his hands into a writhing mass of tentacles that extends fifteen feet, grapples Gru Manga, and delivers the final blow to Narrak.",
+    "source_quote": "I activate my Eldritch Maul, transforming my hands into a writhing mass of tentacles that extends a terrifying fifteen feet... I press the assault, channeling a focus point for another strike... I deliver the final, decisive blow. Gru Manga falls to the ground.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir considers the group's efficiency in battle undeniable.",
+    "source_quote": "the efficiency of our group in battle is undeniable",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a monastic warrior who used Eldritch Maul to transform hands into tentacles, grappled and blinded Gru Manga, delivered the final blow to the Ettin, and killed multiple Derro. He observed the ritual\u2019s true nature and now ponders the 'Rituals of the Two-Headed Beast' and its connection to stone giants.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a monk who used Eldritch Maul to create tentacles, grappled and blinded Gru Manga, delivered the final blow to Narrak, and observed the ritual\u2019s connection to the two-headed stone giant statue.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is addressed by an urgent plea to go save 'Rump-a-dump.' He is part of a group being called upon for a new mission, indicating ongoing narrative momentum.",
+    "source_quote": "\u201cHey, Zalthir? Grygum? Can we go save Rump-a-dump now? PLEASE!!!!!\u201d",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir ponders the true nature of Narrak's work: the statue, the 'Rituals of the Two-Headed Beast,' and the madness it induces in stone giants.",
+    "source_quote": "My thoughts, usually calm, ponder the true nature of Narrak's work: the statue, the 'Rituals of the Two-Headed Beast,' and the madness it induces in stone giants",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir prefers discretion and the avoidance of unnecessary conflict.",
+    "source_quote": "While I prefer discretion and the avoidance of unnecessary conflict",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "acquired items",
+    "fact": "Gold, Keoghtom's Ointment, and strange texts were acquired from Narrak's person and chest.",
+    "source_quote": "gold, Keoghtom's Ointment, and strange texts",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "bunch of texts",
+    "fact": "A 'bunch of texts' including 'The Rituals of the Two-Headed Beast' were found.",
+    "source_quote": "a bunch of texts",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "egg for Keepers of the Flame",
+    "fact": "An egg that would help the Keepers of the Flame or the Red Dragon was recovered.",
+    "source_quote": "an egg that would help the Keepers of the Flame or the Red Dragon",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "gold",
+    "fact": "Gold is among the items acquired from Narrak\u2019s person and chest.",
+    "source_quote": "We acquire some peculiar, yet potentially useful, items from Narrak's person and his chest, including gold, Keoghtom's Ointment, and strange texts.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "gold",
+    "fact": "Gold was looted from Narrak\u2019s person and chest, providing immediate resources to the party.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Gold",
+    "fact": "Gold was recovered from Narrak\u2019s chest. It is unmarked currency, likely stolen or looted, and may be used for bribes, purchases, or evidence of the cult\u2019s wealth.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Keoghtom's Ointment",
+    "fact": "Keoghtom's Ointment is one of the peculiar, potentially useful items acquired from Narrak\u2019s person and chest.",
+    "source_quote": "We acquire some peculiar, yet potentially useful, items from Narrak's person and his chest, including gold, Keoghtom's Ointment, and strange texts.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Keoghtom's Ointment",
+    "fact": "Keoghtom's Ointment was recovered from Narrak\u2019s chest. It is a potent healing item of unknown origin, potentially useful for future encounters.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Keoghtom's Ointment",
+    "fact": "Recovered from Narrak\u2019s chest, this potent healing ointment is a valuable item acquired after the battle.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "ritual texts",
+    "fact": "The texts 'The Rituals of the Two-Headed Beast' were found among Narrak's possessions, confirming his role as orchestrator.",
+    "source_quote": "The Rituals of the Two-Headed Beast",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "strange texts",
+    "fact": "Additional mysterious texts were recovered alongside the ritual book, potentially holding further secrets about the Derro, the statue, or the cult\u2019s goals.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "strange texts",
+    "fact": "Strange texts are among the items acquired from Narrak\u2019s person and chest.",
+    "source_quote": "We acquire some peculiar, yet potentially useful, items from Narrak's person and his chest, including gold, Keoghtom's Ointment, and strange texts.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Strange Texts",
+    "fact": "Strange texts were recovered from Narrak\u2019s person and chest. They detail the 'Rituals of the Two-Headed Beast' and the induced madness in stone giants, offering insight into the cult\u2019s operations.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "The Egg",
+    "fact": "The egg recovered from Narrak\u2019s chest is a powerful artifact sought by the Keepers of the Flame and the Red Dragon. Its origin and nature are unknown, but its value is significant.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "'The Rituals of the Two-Headed Beast'",
+    "fact": "'The Rituals of the Two-Headed Beast' is a text found on Narrak, confirming his involvement in demonic rituals. It is a key piece of intelligence tied to the ritual's origin and practice.",
+    "source_quote": "I find a 'bunch of texts,' including 'The Rituals of the Two-Headed Beast,' which Narrak was reading. This confirms his role as the orchestrator.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "The Rituals of the Two-Headed Beast",
+    "fact": "The Rituals of the Two-Headed Beast is a text found among Narrak\u2019s possessions, confirming his role as the ritual\u2019s orchestrator.",
+    "source_quote": "I find a 'bunch of texts,' including 'The Rituals of the Two-Headed Beast,' which Narrak was reading.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "The Rituals of the Two-Headed Beast",
+    "fact": "This text, found among Narrak\u2019s possessions, confirms his role as the ritual\u2019s orchestrator and details the madness-inducing rites tied to the two-headed stone giant statue.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "two-foot-tall statue",
+    "fact": "The two-foot-tall statue is the ritual artifact that drove one of Hargaam\u2019s giants mad; it is linked to the 'Rituals of the Two-Headed Beast' and remains after the battle.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "two-foot-tall statue",
+    "fact": "The two-foot-tall statue is the ritual object that turned one of Hargaam\u2019s giants mad.",
+    "source_quote": "I examine the two-foot-tall statue that is the ritual that turned one of Hargaam\u2019s giants mad.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "two-foot-tall statue",
+    "fact": "The two-foot-tall statue is the ritual object that turned one of Hargaam\u2019s giants mad. It is a physical artifact tied to a corrupting arcane event.",
+    "source_quote": "I examine the two-foot-tall statue that is the ritual that turned one of Hargaam\u2019s giants mad.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "evidence release",
+    "fact": "The party holds evidence that could bury the entire city in blood: proof of the king\u2019s alliance with assassins, the Derro\u2019s support for Demogorgon, and the egg\u2019s potential. Whether to release it is an unresolved moral dilemma.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Evidence to Bury the City",
+    "fact": "The party holds incriminating evidence that the king conspired with assassins to kill Eldeth\u2019s clan, that Derro support Demogorgon, and that the egg can aid the Red Dragon or Keepers of the Flame. Releasing this evidence could destroy the city\u2019s ruling structure.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "installing democracy",
+    "fact": "The idea of 'installing democracy' is floated but laughed off. It remains an unresolved, ironic suggestion in the context of oppressive forces and fractured trust.",
+    "source_quote": "The idea of 'installing democracy' is floated, but I laugh.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "JimJar's advice",
+    "fact": "JimJar advised holding onto the evidence for future usefulness; this suggestion introduces a long-term strategic thread about leverage, power, and timing.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Nature of the Two-Headed Stone Giant",
+    "fact": "The true nature of the two-headed stone giant statue and its role in the ritual remains partially unknown. Zalthir\u2019s thoughts suggest it may be a conduit for madness or a prison for an ancient entity.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "save Rump-a-dump",
+    "fact": "Stool urgently asks to save Rump-a-dump, introducing a new objective that may divert the party from their current course or reveal deeper connections to the caves.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The evidence",
+    "fact": "The group has an egg that would help the Keepers of the Flame or the Red Dragon.",
+    "source_quote": "an egg that would help the Keepers of the Flame or the Red Dragon",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The evidence",
+    "fact": "The group has evidence that the king has been working with assassins to kill Eldeth\u2019s clan.",
+    "source_quote": "We have the evidence that the king has been working with assassins to kill Eldeth\u2019s clan",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The evidence",
+    "fact": "The group has proof of the Derro perfidity and support for Demogorgon.",
+    "source_quote": "proof of the Derro perfidity and support for Demogorgon",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The four factions",
+    "fact": "Four different factions sent the group into the caves looking for evidence to bury the other, and this evidence can bury the entire city in blood if released.",
+    "source_quote": "Four different factions sent us into these caves looking for evidence to bury the other. This evidence can bury this entire city in blood if we release it.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "two-headed stone giant statue",
+    "fact": "The true nature and origin of the two-headed stone giant statue \u2014 and its connection to the 'Rituals of the Two-Headed Beast' \u2014 remain unexplained and require further study.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "unnoticed Derro",
+    "fact": "A Derro remains unnoticed in the background, a detail for later consideration.",
+    "source_quote": "There is still a Derro unnoticed in the background, a detail for later consideration, perhaps.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "unnoticed Derro",
+    "fact": "One Derro remains hidden in the background after the battle; its fate and potential role in the larger conspiracy are unresolved.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  }
+]

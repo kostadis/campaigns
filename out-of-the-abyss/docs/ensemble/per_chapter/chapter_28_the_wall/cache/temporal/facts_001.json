@@ -1,0 +1,65 @@
+[
+  {
+    "type": "location",
+    "subject": "passageway dimensions",
+    "fact": "The passageway is 10 feet wide and 30 feet long with 20-foot side walls.",
+    "source_quote": "a passageway that is 10\u2019 wide and 30\u2019 long with 20\u2019 side walls",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "invisible duergar guards",
+    "fact": "There are at least five more invisible guards in the hallway.",
+    "source_quote": "There are at least five more invisible guards we can\u2019t see in this hallway",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "bribe amount",
+    "fact": "Grygum gives Grogluk 20 gold as a bribe.",
+    "source_quote": "I size him up and give him 20 gold",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "dead derro",
+    "fact": "Five Derro are killed in the alleyway ambush.",
+    "source_quote": "a few moments later, there are five dead Derro",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Ember Vanguard members",
+    "fact": "The note identifies the Ember Vanguard as four shadows.",
+    "source_quote": "The Deepking\u2019s agents\u2014the four shadows, The Ember Vanguard",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occur after the Ember Vanguard killed several members of the Derro High Council.",
+    "source_quote": "since the Ember Vanguard killed several members of the Derro High Council",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "ritual duration",
+    "fact": "The ritual transforming giants into two-headed monsters was performed by mad men.",
+    "source_quote": "there was a secret ritual that was transforming his giants into two-headed monsters",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh atmosphere",
+    "fact": "Gracklstugh has a toxic fog and haze that constrains visibility.",
+    "source_quote": "a toxic fog, and haze that blocks out the light",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "coin payment to duergar informant",
+    "fact": "A Duergar informant demands and receives a gold piece.",
+    "source_quote": "The Duergar sticks out his hand and demands a gold piece",
+    "quote_verified": true
+  }
+]

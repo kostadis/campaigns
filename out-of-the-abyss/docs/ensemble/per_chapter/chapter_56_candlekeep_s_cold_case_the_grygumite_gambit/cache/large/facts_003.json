@@ -1,0 +1,240 @@
+[
+  {
+    "type": "npc",
+    "subject": "Tadric",
+    "fact": "Tadric is a young human guard assigned to crowd control at the Keeper's Chambers; he admits his failure to observe internal actions, realizing too late that his role was insufficient for the gravity of the situation.",
+    "source_quote": "His job was watching who came in and out, not what they did once inside.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi, the Keeper, was found dead with his rib cage caved in and heart removed; he was engaged in scholarly research on celestial workings and had recently annotated notes in midnight blue ink before his death.",
+    "source_quote": "The quill on the floor had a nib covered in midnight blue ink \u2014 the last thing he touched.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Gate Warden",
+    "fact": "The Gate Warden conducted a full, deliberate inspection of the crime scene after others were barred; he left the room looking more determined than when he entered, suggesting he discovered something critical \u2014 and he had already performed the 'Speak with Dead' ritual, rendering it unusable for others for some time.",
+    "source_quote": "He looked more determined after he walked out.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Kazryn Nyantani",
+    "fact": "Kazryn arrived distraught shortly after eight, permitted only to view the body from the doorway; her emotional state was noted but no action taken beyond containment.",
+    "source_quote": "She was weeping, wanting to see the body.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Fheminor Scrivenbark",
+    "fact": "Fheminor arrived at half past eight, appearing shocked and demanding to inspect the chamber; he was turned away despite his status.",
+    "source_quote": "He wanted to inspect the chamber, but was turned away.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "The Bookwyrm arrived at nine, returning from the baths; she confirmed the Gate Warden\u2019s orders and took only a brief look before departing.",
+    "source_quote": "She took a brief look before confirming the existing orders.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "A'lai Aivenmore",
+    "fact": "A'lai Aivenmore, the Great Reader, discovered Janussi\u2019s body alongside the housekeeper, Miss Hollypocket, around 7:30 a.m.",
+    "source_quote": "They found him dead around half past seven in the morning.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Miss Hollypocket",
+    "fact": "Miss Hollypocket, the housekeeper, discovered the body and is noted for her strict adherence to protocol \u2014 she would never allow candles to burn down to nothing, implying Janussi was dead before the candles extinguished.",
+    "source_quote": "She would never have allowed the Keeper to let candles burn down to nothing.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Fembris",
+    "fact": "Fembris reacted violently to the body, vomiting upon seeing the caved-in rib cage; he insists the cat is merely a cat despite evidence suggesting otherwise, and later revised his understanding of 'anything' toward legal boundaries.",
+    "source_quote": "It's just a cat.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir performed a precise forensic analysis of the wound, determining the rib cage was shattered by multiple deliberate blows with an axe-like weapon, and that the heart was removed post-mortem to prevent resurrection.",
+    "source_quote": "The heart was missing. No other organs. And the blood was localized \u2014 wrong pattern for a violent death.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum identified the motive behind the heart\u2019s removal: to prevent magical resurrection, indicating the killer sought to ensure Janussi remained permanently dead.",
+    "source_quote": "You can't bring someone back if their vital organs aren't present.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "The Council",
+    "fact": "The Council is the governing body to which the Gate Warden reports; they are the ultimate authority on the investigation and the reason for the strict preservation of the crime scene.",
+    "source_quote": "Left to make his report to the Council.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Discovery of Janussi's Body",
+    "fact": "Janussi\u2019s body was discovered by A'lai Aivenmore and Miss Hollypocket at approximately 7:30 a.m., with the room sealed, candles burned out, and tobacco smoke lingering \u2014 suggesting death occurred hours earlier.",
+    "source_quote": "The candles told the same story \u2014 he had been dead before they finished.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Gate Warden's Inspection",
+    "fact": "The Gate Warden conducted a full, evidence-preserving inspection of the chamber at 11 a.m., during which he performed the 'Speak with Dead' ritual \u2014 rendering it unusable \u2014 and left visibly determined, indicating he uncovered something significant.",
+    "source_quote": "He looked more determined after he walked out.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Failed 'Speak with Dead' Ritual",
+    "fact": "The 'Speak with Dead' ritual was already performed on Janussi\u2019s corpse by the Gate Warden, meaning any attempt to repeat it will require a waiting period long enough for the body to begin decomposing \u2014 and for the scent to become noticeable.",
+    "source_quote": "The dead had not spoken. The ritual had already been used.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Keeper's Chambers",
+    "fact": "The Keeper's Chambers is a circular room with lancet windows, a desk, a safe, a marble statue, a candelabra, and a spellbook titled 'The Discoveries'; the room was sealed, smoke-laden, and showed signs of a struggle \u2014 the chair overturned, statue toppled, ink spilled.",
+    "source_quote": "The windows were shut. The smoke was old. The candles were burned to wax puddles.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Third Floor Apartment",
+    "fact": "The third-floor apartment\u2019s door was left conspicuously ajar, suggesting deliberate access or concealment \u2014 it was noted but not yet entered by the investigators.",
+    "source_quote": "The door was left conspicuously ajar. That was where I needed to be.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "The Discoveries (Spellbook)",
+    "fact": "An open spellbook on the desk containing Janussi\u2019s research on celestial workings, annotated with recent midnight blue ink and older purple notes; it was the focus of his final scholarly efforts.",
+    "source_quote": "Notes in Celestial... annotations in midnight blue ink \u2014 and below those, older notes in purple.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "The Golden Ass (Missing Book)",
+    "fact": "The book Janussi was actively annotating in midnight blue ink \u2014 'The Golden Ass' \u2014 is missing from the room, suggesting it was taken deliberately to conceal his final research or its implications.",
+    "source_quote": "Whatever Janussi had been working on most recently... was gone. That felt deliberate.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Midnight Blue Ink Pot and Quill",
+    "fact": "An ink pot spilled on the desk, with a quill on the floor bearing fresh midnight blue ink \u2014 the last physical trace of Janussi\u2019s activity before death, indicating he was writing moments before being killed.",
+    "source_quote": "The quill had gone with it. Neither the ink nor the quill had been moved since.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Candelabra",
+    "fact": "A seven-armed bronze candelabra with all candles burned completely to wax puddles \u2014 evidence that the room remained sealed and undisturbed for many hours after death.",
+    "source_quote": "The candles had burned their entire length to wax puddles.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Tobacco Smoke",
+    "fact": "Lingering tobacco smoke in the sealed chamber, despite no recent smoking \u2014 indicating the room had been closed since before the murder, and the killer or victim had smoked prior to death.",
+    "source_quote": "The smoke was old. Nobody smokes in a sealed room and leaves smoke that lingers for hours unless the room has been sealed for hours.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "The Safe",
+    "fact": "The safe on the far wall was opened, with blue gems and empty pouches scattered \u2014 the thief ignored the gems, indicating the target was something more valuable than jewelry.",
+    "source_quote": "The thief had looked at the gems, decided they weren't what he came for, and left them.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "The Cat",
+    "fact": "A gray cat with yellow eyes, motionless on the stairs between floors, observed to track movement without reacting \u2014 it has been the subject of theological debate: whether it is a mundane animal, a familiar, a shapeshifter, or an interdimensional entity.",
+    "source_quote": "Nobody had been able to conclusively prove the cat was some kind of power that lived here, and nobody had been able to conclusively prove that it was not.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Missing Heart",
+    "fact": "Janussi\u2019s heart was removed post-mortem to prevent resurrection \u2014 the motive suggests the killer intended to ensure permanent death, raising the question of who had the knowledge and means to perform such an act \u2014 and why.",
+    "source_quote": "They wanted Janussi to stay dead in every sense that mattered.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Ajar Door",
+    "fact": "The third-floor apartment door was left open \u2014 unexamined and unexplained \u2014 potentially connected to the murder, the missing book, or the cat\u2019s behavior; it remains the next critical location to investigate.",
+    "source_quote": "That was where I needed to be.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Gate Warden\u2019s Secret",
+    "fact": "The Gate Warden performed the 'Speak with Dead' ritual and left the scene determined \u2014 he knows something no one else does, and his removal from the investigation before debriefing suggests suppression or fear.",
+    "source_quote": "He looked more determined after he walked out.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Missing Book",
+    "fact": "'The Golden Ass' is gone \u2014 the book Janussi was annotating with fresh ink \u2014 and its absence implies the research contained within was dangerous, heretical, or valuable enough to be stolen.",
+    "source_quote": "Whatever Janussi had been working on most recently... was gone. That felt deliberate.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "7:30 a.m.",
+    "fact": "Time of discovery of Janussi\u2019s body by A'lai Aivenmore and Miss Hollypocket.",
+    "source_quote": "Found him dead around half past seven in the morning.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "8:00 a.m.",
+    "fact": "Time the Gate Warden arrived with Tadric; also the time Kazryn Nyantani arrived distraught.",
+    "source_quote": "Tadric himself arrived with the gate warden at eight.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "8:30 a.m.",
+    "fact": "Time Fheminor Scrivenbark arrived and was turned away from the chamber.",
+    "source_quote": "Fheminor Scrivenbark at half past eight...",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "9:00 a.m.",
+    "fact": "Time the Bookwyrm arrived from the baths and confirmed the orders.",
+    "source_quote": "Bookwyrm at nine, arriving from the baths...",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "11:00 a.m.",
+    "fact": "Time the Gate Warden returned for a full inspection and performed the 'Speak with Dead' ritual.",
+    "source_quote": "The Gate Warden again at eleven, alone, for a full inspection...",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "After 11:00 a.m.",
+    "fact": "Current time during the investigation \u2014 the corpse will be fragrant by then, and the 'Speak with Dead' ritual will be unusable for some time.",
+    "source_quote": "The corpse would be somewhat fragrant by then.",
+    "quote_verified": false
+  }
+]

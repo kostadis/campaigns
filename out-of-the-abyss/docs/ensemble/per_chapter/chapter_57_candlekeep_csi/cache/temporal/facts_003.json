@@ -1,0 +1,37 @@
+[
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "Queenie was awakened thirty minutes later by Sylvira Savikas.",
+    "source_quote": "some thirty minutes later by our Sylvira Savikas",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Queenie age",
+    "fact": "Queenie is five years old.",
+    "source_quote": "Queenie \u2014 five years old",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "evening guest arrival sequence",
+    "fact": "First Fheminor arrived, and later Daral.",
+    "source_quote": "first Fheminor, ... and later Daral",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "wake-up time",
+    "fact": "Queenie woke from her afternoon nap around eight, after supper.",
+    "source_quote": "She woke from her afternoon nap around eight, after supper",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "locket description",
+    "fact": "The locket was intimate and was carried all the time; never taken off.",
+    "source_quote": "The locket itself is intimate. He carried it all the time. He never took it off.",
+    "quote_verified": true
+  }
+]

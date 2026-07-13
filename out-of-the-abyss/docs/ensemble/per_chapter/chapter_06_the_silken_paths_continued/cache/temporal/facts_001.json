@@ -1,0 +1,184 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 8th day of the 2nd Tenday of Taraskh 1493.",
+    "source_quote": "8th day of the 2nd Tenday of Taraskh 1493",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "Sloobludop is three days away from the group's current location.",
+    "source_quote": "Three days.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Darklake description",
+    "fact": "The Darklake is a large body of water in the Underdark, described as a large water balloon where intersecting caverns, caves, and tunnels allow navigation.",
+    "source_quote": "The Darklake is a large body of water. Unlike the overbrite, it doesn\u2019t have a surface in the conventional sense. It\u2019s a large water balloon in the Underdark, where intersecting caverns, caves, and tunnels allow navigation.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Spectator count",
+    "fact": "One Spectator, a kind of Beholder, attacks the group.",
+    "source_quote": "a floating sphere with a gaping maw and a single great eye, set within four eyestalks",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve to Sloobludop route",
+    "fact": "The group started in Velkynvelve and has been heading towards Sloobludop.",
+    "source_quote": "We started in Velkynvelve. We have been heading towards Sloobludop.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh location",
+    "fact": "Gracklstugh is a large Derro city located after Sloobludop.",
+    "source_quote": "After we get to Sloobludop, Buppido says we should go to Gracklstugh. Gracklstugh is a large Derro city.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "tomb location",
+    "fact": "The floating tomb of Brysis of Khaem is on the eastern edge of the Darklake.",
+    "source_quote": "It\u2019s on the eastern edge of the Darklake.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "mimic detection",
+    "fact": "The group encounters a large chest that is identified as a mimic.",
+    "source_quote": "they see a large chest. There is a momentary desire to see if it\u2019s a treasure chest, but all agree it\u2019s a mimic.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Spectator attack sequence",
+    "fact": "The Spectator uses a confusion ray on Thorin, a paralysis ray on Zalthir, and a blue ray that fails to affect Thorin.",
+    "source_quote": "It uses a confusion ray on Thorin. ... One of the eyestalks, meanwhile, emits an eerie green ray, and Zalthir is now paralyzed. A blue ray from another eyestalk strikes Thorin, but Thorin is unaffected.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "goblin guide count",
+    "fact": "Two goblin guides, Yukyuk and Spiderbait, accompany the group.",
+    "source_quote": "Yukyuk and Spiderbait",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "giant spider count",
+    "fact": "The group is pursued by Giant Spiders, which are multiple in number.",
+    "source_quote": "the Giant Spiders",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sethir's map explanation",
+    "fact": "Sethir uses a scrap of Ormu to draw a map showing the group's route from Velkynvelve to Sloobludop.",
+    "source_quote": "He uses the Ormu that Zalthir had collected from the narrow tunnel they had squeezed through. \"Now, this isn\u2019t a map of the tunnels, but it will give you an idea of where we are and where we are going.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Zalthir's myconid mind network",
+    "fact": "Zalthir reaches out through the mind network of the myconid to communicate with the Spectator.",
+    "source_quote": "Zalthir reaches out through the mind network of the myconid",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Jimjar's bet failure",
+    "fact": "Jimjar takes a bet that he can convince the Spectator they are not demons and fails.",
+    "source_quote": "Jimjar, I\u2019ll make a bet you can\u2019t convince him that we are not demons and not enemies.\u201d Jimjar takes the bet and fails.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's spiderweb maneuver",
+    "fact": "Zalthir hangs from a spiderweb to attack the Spectator but misses due to the difficulty of the maneuver.",
+    "source_quote": "While hanging on the spiderweb, he attempts to strike the creature. Unfortunately, the effort to hold on and attack is too much, and he misses.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin's hill strike",
+    "fact": "Thorin uses a hill strike battle technique learned from a hill giant battle master against the Spectator.",
+    "source_quote": "Thorin swings his sword, leveraging an old battle technique called a hill strike, which he learned from a hill giant battle master.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Daz's magic missiles",
+    "fact": "Daz unleashes swift darts of pure magic, described as glowing teardrops of blue-white force.",
+    "source_quote": "Glowing teardrops of blue-white force sizzle through the air, swooping swift as starlings, unerring in their flight.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's belly touch",
+    "fact": "Zalthir touches Fargas\u2019s belly to check for gnoll spawn.",
+    "source_quote": "Zalthir then walks up to Fargas and touches his belly.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Fargas Rumblefoot status",
+    "fact": "Fargas Rumblefoot is a halfling adventurer who claims knowledge of a hidden tomb.",
+    "source_quote": "Fargas Rumblefoot",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum's note-taking",
+    "fact": "Grygum took notes while Fargas was speaking and later repeated his claims.",
+    "source_quote": "I took notes while you were talking,",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Brysis's tomb",
+    "fact": "The half-elf sorcerer Brysis of Khaem was interred in a floating tomb that fell into the Underdark after the fall of Netheril.",
+    "source_quote": "the half-elf sorcerer Brysis of Khaem was interred in a floating tomb. After the fall of the empire of Netheril and its flying cities, Brysis\u2019s tomb plummeted into a crevasse and wound up in the Underdark",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Silken Paths location",
+    "fact": "The group is traveling through the Silken Paths, a network of spiderwebs in the Underdark.",
+    "source_quote": "We are at the Silken Paths.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Spectator type",
+    "fact": "The creature is a Spectator, a kind of Beholder.",
+    "source_quote": "a Spectator, a kind of Beholder",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "escapees' decision to continue",
+    "fact": "The escapees decide to continue their journey through the Underdark after defeating the Spectator.",
+    "source_quote": "With the danger gone, ... the escapees move forward.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "goblin guides' loyalty shift",
+    "fact": "Yukyuk and Spiderbait decide to stay with the escapees after witnessing Zalthir\u2019s spiderweb maneuver.",
+    "source_quote": "Yukyuk is very impressed with Zalthir, \u201cThat was some next-level spider walking. Like going underneath the spider web and attacking the creature.\u201d ... And so they decide to stay with the escapees.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Ormu material",
+    "fact": "Sethir uses Ormu collected from a narrow tunnel to draw a map.",
+    "source_quote": "He uses the Ormu that Zalthir had collected from the narrow tunnel they had squeezed through.",
+    "quote_verified": true
+  }
+]

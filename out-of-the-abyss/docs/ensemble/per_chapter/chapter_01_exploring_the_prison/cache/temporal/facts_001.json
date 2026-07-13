@@ -1,0 +1,107 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events begin on the 3rd day of the 2nd Tenday of Taraskh, 1492.",
+    "source_quote": "3rd day of the 2nd tenday of Taraskh, 1492",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The next day of the events is the 4th day of the 2nd Tenday of Taraskh.",
+    "source_quote": "4th day of the 2nd Tenday of Taraskh",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Drow outpost elevation",
+    "fact": "The Drow outpost is 100 feet above the cavern floor.",
+    "source_quote": "the Drow outpost was 100\u2019 in the sky",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "spider statue height",
+    "fact": "The spider statue atop the zurkhwood pedestal is 10 feet high.",
+    "source_quote": "a 10-foot-high sculpted spider at its head",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The pair of heavy silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "small jet eyes value",
+    "fact": "The four small jet eyes of the spider statue are worth five gp each.",
+    "source_quote": "four small ones worth five gp each",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "large jet eyes value",
+    "fact": "The four larger jet eyes of the spider statue are worth ten gp each.",
+    "source_quote": "four larger ones worth ten gp each",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "quaggoth attendants count",
+    "fact": "Two quaggoth attendants remain by the lift.",
+    "source_quote": "Two quaggoth attendants remain by the lift",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "drow soldiers count",
+    "fact": "Six Drow soldiers are present in the kitchen on the 4th day.",
+    "source_quote": "six Drow soldiers are present",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "drow overseers count",
+    "fact": "The Drow who took Ront and Derendil is Beremil; another Drow points to Zalthir, Buppido, Jimjar, and Eldeth; another points to Daz, Sarith, and Stool; and a Drow points to Shuushar, Topsy, Turvy, and Gyrgum \u2014 indicating at least four distinct Drow overseers.",
+    "source_quote": "The voice speaks in undercommon... Another Drow points to Zalthir, Buppido, Jimjar, and Eldeth. Another Drow points at Daz, Sarith, and Stool. A Drow appears and points at Shuushar, Topsy, Turvy, and Gyrgum.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "winch operation frequency",
+    "fact": "The basket is lowered and raised multiple times during the day, as prisoners repeatedly use it.",
+    "source_quote": "Wanna get in on some juicy action on how many times they\u2019ll do this?",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "zurkhwood table count",
+    "fact": "The mess hall has four circular tables carved from zurkhwood.",
+    "source_quote": "four circular tables carved from zurkhwood",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "zurkhwood chair count",
+    "fact": "Each zurkhwood table is surrounded by five chairs.",
+    "source_quote": "each surrounded by five chairs",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "cooking performance sequence",
+    "fact": "Gyrgum performs his cooking show on the 3rd day and again on the 4th day.",
+    "source_quote": "As the lunch progresses... The next day, Gyrgum goes to the kitchen again.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "escape plan sequence",
+    "fact": "The escape plan involves Jorlan leaving the prison door open, then reaching the armory, then using the waterfall or spiderwebs, then choosing a destination.",
+    "source_quote": "I will leave the door to the prison open, create a distraction. The path to the armory will be unguarded. Grab the weapons and flee. Use the waterfall to slide down, or jump into the spiderwebs and then jump into the pools of water. To Gracklstugh... to Blingdenstone... go to Darklake first...",
+    "quote_verified": false
+  }
+]

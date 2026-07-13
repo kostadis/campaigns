@@ -1,0 +1,1025 @@
+[
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a giant-raised dwarf who has spent his life feeling out of place in both dwarven and surface societies, now standing at a crossroads after a shared journey through the Underdark.",
+    "source_quote": "I'm a dwarf. I'm not invited along.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth is a dwarf bound by clan obligations to return to Mithral Hall and warn the surface of Underdark threats, having formed an unspoken bond with Thorin during their survival in the deep dark.",
+    "source_quote": "I must go to Mithral Hall. I must inform the dwarves of what is going on in the Underdark.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is a sentient, possibly magical sword with agency, known for being both powerful and annoying, accepted as an equal companion by Thorin despite her unconventional nature.",
+    "source_quote": "She'd been called worse things than agency.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is an ooze-like entity exhibiting signs of sentience and perception, capable of witnessing and stillness, and considered by Zalthir as a potential candidate for monk training despite lacking fixed appendages.",
+    "source_quote": "He wasn't being a floor. He was witnessing.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a disciplined figure exploring unconventional paths in martial training, considering Glabbagool\u2019s ooze form as a tactical anomaly and questioning the boundaries of what can be trained or weaponized.",
+    "source_quote": "I mean, offered is a strong word.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is an ooze creature with no fixed appendages, capable of twelve simultaneous strikes, and presents a tactical nightmare due to its liquid form, unpredictable motion, and lack of telegraphed stance.",
+    "source_quote": "Twelve simultaneous strikes from an opponent with no readable stance, no telegraphed motion, and a body that was essentially a liquid \u2014 that was actually a serious problem.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Clan of Mithral Hall",
+    "fact": "The clan of Mithral Hall is a traditional dwarven society bound by duty, lineage, and ancient obligations, now facing the need to be warned of Underdark threats that could reach the surface.",
+    "source_quote": "Clan business. Which I understood.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "end of journey through the Underdark",
+    "fact": "The journey through the Underdark has concluded, marked by the separation of Eldeth and Thorin \u2014 not through conflict, but through the quiet recognition of diverging paths and unspoken bonds forged in survival.",
+    "source_quote": "It was well met, and thank you for getting me out of the Underdark.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Thorin's petition to join Clan Mithral Hall",
+    "fact": "Thorin has formally asked to pledge himself to Eldeth\u2019s clan \u2014 a request that challenges traditional dwarven notions of belonging, leaving the outcome unresolved but emotionally significant.",
+    "source_quote": "Is there any way that I can petition to become part of your clan?",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is a sentient magical sword, likely enchanted or bound to a will, capable of warmth, acknowledgment, and emotional resonance with Thorin, functioning as both weapon and companion.",
+    "source_quote": "The hilt warmed slightly. We understood each other on that point.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep Library",
+    "fact": "The Candlekeep Library is the current setting where characters emerge from the Underdark, adjusting to sunlight and confronting the consequences of their journey \u2014 a threshold between darkness and the surface world.",
+    "source_quote": "The sun... turned everything amber and gold.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occur immediately following the conclusion of a long journey through the Underdark, with no specific calendar date given \u2014 the temporal anchor is the moment of emergence into sunlight.",
+    "source_quote": "Months underground. Months of bioluminescence...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is scanning the environment with ingrained Underdark vigilance, unable to fully shed combat awareness despite emerging into open skies, and is acutely aware of subtle shifts in ambient stillness that signal hidden threats.",
+    "source_quote": "That's the thing about months underground: the habits don't switch off just because the ceiling lifts.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth is preparing to lead the group west toward Mithral Hall, bearing the weight of an unspoken oath and the expectation to brief the lords on the dangers of the Underdark, with a demeanor that signals decisive movement.",
+    "source_quote": "West, she said. Head west and you'll hit Candlekeep. Simple as that, the way she says most things that aren't simple at all.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin carries Dawnbringer, a sentient weapon radiating warmth and presence, and is part of a group that has begun to form a bond of mutual trust after emerging from prolonged darkness.",
+    "source_quote": "Thorin carried it, but the feeling belonged to all of us.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is a sentient weapon that radiates untargeted warmth and comfort, embodying the relief and renewal of emerging from the Underdark into open sky and natural light.",
+    "source_quote": "It radiated warmth the way a hearth does \u2014 not directed at anything in particular, just present.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Spiderbait",
+    "fact": "Spiderbait is a goblin raised in isolation, attempting to recalibrate his understanding of societal acceptance after being confronted with the harsh reality of goblin prejudice, and now seeks safety through association.",
+    "source_quote": "I'm just a small goblin, and you're four big, powerful people. Do you mind if I just sort of hang out with you guys?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a pragmatic observer who accurately assesses social conditions and endorses survival-oriented plans, particularly those that protect vulnerable individuals.",
+    "source_quote": "The state of goblin equality and inclusion is rough at the moment.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz offers measured, careful agreement, providing quiet validation without overstatement, and is part of a group that responds thoughtfully to social revelations.",
+    "source_quote": "Daz agreed, in his careful way.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Clan",
+    "fact": "The Clan is a collective of dwarven and giant-descended individuals bound by mutual oath, seeking to integrate their hybrid heritage and present a unified front to the lords of Mithral Hall and Gauntlgrym.",
+    "source_quote": "I am certain they will want to speak to you, and I will make it a statement of purpose that you shall be embraced by our clan.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Lords of Mithral Hall and Gauntlgrym",
+    "fact": "The Lords of Mithral Hall and Gauntlgrym are powerful dwarven rulers who must be briefed on the hidden dangers of the Underdark and the presence of demonic forces beneath their domains.",
+    "source_quote": "After I have spoken and explained to the lords of Gauntlgrym and Mithral Hall the dangers of the Underdark...",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Demon Lords in the Deep",
+    "fact": "Demon Lords in the Deep are ancient, hidden threats residing beneath the dwarven halls, requiring urgent briefing and preparation by those who have emerged from the Underdark.",
+    "source_quote": "...brief the king about demon lords in the deep.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Mithral Hall",
+    "fact": "Mithral Hall is a dwarven stronghold requiring urgent diplomatic engagement, serving as the destination for a mission to reveal hidden threats from the Underdark and integrate hybrid cultural identities.",
+    "source_quote": "Head west and you'll hit Candlekeep. Simple as that, the way she says most things that aren't simple at all.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is a sanctuary and center of knowledge, perceived as a safe haven for those seeking integration and purpose after emerging from isolation or marginalization.",
+    "source_quote": "This Candlekeep place seems like the kind of place someone like me could find a job doing something innocuous.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Underdark",
+    "fact": "The Underdark is a vast, lightless realm where survival depends on constant vigilance, and whose psychological imprint lingers even after emergence into the surface world.",
+    "source_quote": "That's the thing about months underground: the habits don't switch off just because the ceiling lifts.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Emergence from the Underdark",
+    "fact": "The emergence from the Underdark is a psychological turning point marked by sensory overload, lingering combat awareness, and the slow recalibration of trust and safety in open environments.",
+    "source_quote": "It was disorienting in a way I didn't have language for. Not dangerous. Just \u2014 loud.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Integration of Hybrid Heritage",
+    "fact": "The thread of integrating giant upbringing with dwarven roots remains unresolved, driving personal transformation and demanding acknowledgment from both the Clan and the dwarven lords.",
+    "source_quote": "I want to become an integrated person \u2014 both my giant upbringing, but also my cultural roots...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Recognition of Goblin Marginalization",
+    "fact": "The thread of goblin societal exclusion remains unaddressed, challenging the group\u2019s assumptions about safety, belonging, and the meaning of integration.",
+    "source_quote": "The state of goblin equality and inclusion is rough at the moment.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Oath of the Clan",
+    "fact": "The oath sworn to the Clan \u2014 to speak truth to the lords and embrace those who have walked between worlds \u2014 is a binding narrative thread that must be fulfilled to secure legitimacy and safety.",
+    "source_quote": "I swear.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is a sentient weapon that emits warmth and presence, symbolizing renewal and collective resilience after prolonged exposure to darkness.",
+    "source_quote": "It radiated warmth the way a hearth does \u2014 not directed at anything in particular, just present.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Third day of open sky",
+    "fact": "The third day of open sky marks a transitional phase in psychological adaptation, where lingering Underdark instincts begin to soften but do not vanish.",
+    "source_quote": "The third day of open sky and I still hadn't stopped scanning.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a silent observer who remains fixed on the sun, embodying a deep, wordless awe at surface-world phenomena after prolonged subterranean existence.",
+    "source_quote": "Glabbagool was still looking at the sun.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a seasoned tracker who misidentifies a stalking entity as a deer, later corrected by the group\u2019s shared realization that the pursuer is intelligent and deliberate. He is now awake and alarmed, having been proven wrong.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a dwarf prepared for subterranean combat, who invested in Tremor Sense based on the expectation of stone terrain. He is frustrated and disillusioned after realizing the environment is entirely dirt and forest, rendering his preparation useless.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a wizard who immediately recognizes the pursuer as non-deer and non-natural. He is actively seeking intelligence, planning to misty step into the treeline to observe or engage, demonstrating initiative and tactical awareness.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is an uncomprehending creature attempting to mimic bird calls without understanding avian biology or intentional sound. His efforts are chaotic and unrecognizable, yet he remains earnest and proud, unaware of his failure.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "The Stalker",
+    "fact": "The stalker is an intelligent, patient entity that moves with deliberate pacing, using terrain to remain hidden and adjusting its position to stay in blind spots. It is not a beast, not a deer, and not random \u2014 it is tracking with intent, possibly humanoid or magically enhanced.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "The Ember Vanguard",
+    "fact": "The Ember Vanguard is a group that communicates through silent, shared glances \u2014 a private language of mutual recognition. The three members (Daz, Thorin, and the narrator) use this to silently confirm the presence of a non-deer stalker, indicating deep operational cohesion.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "dusk encounter",
+    "fact": "The party reaches the worst possible temporal window \u2014 dusk \u2014 where visibility is insufficient for detail but too bright for shadow-based evasion. The stalker has timed or coincidentally arrived at this moment, suggesting foreknowledge or long-term surveillance.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Northern treeline",
+    "fact": "The northern treeline is the site of prolonged, silent surveillance. It is not a natural forest edge \u2014 it is a zone of unnatural stillness, where birds do not fly, wind does not stir undergrowth properly, and something has been lingering long enough to adapt its behavior to the terrain.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Tremor Sense",
+    "fact": "Tremor Sense is a magical ability Thorin prepared under the assumption of subterranean stone terrain. It is now confirmed as useless in this environment \u2014 a failed investment that highlights the mismatch between expectation and reality.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Jimjar\u2019s return",
+    "fact": "Speculation arises that the stalker might be Jimjar \u2014 a figure from the party\u2019s past who dragged them underground. This thread remains unresolved, haunting the group\u2019s assumptions about the nature of the pursuit.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "dusk",
+    "fact": "The time of day is dusk \u2014 a specific temporal anchor that defines the tactical vulnerability of the party. It is not a date, but a critical moment in the cycle of light and shadow that determines the stakes of the encounter.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "bird call deception",
+    "fact": "A cardinal\u2019s whistle, imitated by Daz, was used as a test of the environment\u2019s response. Its successful reproduction suggests the stalker is not merely an animal but a creature that reacts to learned signals \u2014 raising the possibility of sentience or mimicry.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer observes Thorin\u2019s meltdown and delivers a blunt assessment: 'You\u2019ve got anger issues.' This indicates a role as a grounded, sarcastic voice of reality amid the group\u2019s escalating magical and existential frustrations.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "The Bird Imitator",
+    "fact": "The entity producing the cardinal\u2019s whistle is not a bird, but a trained or magically altered being \u2014 likely Daz or another party member. Its use as a probe reveals the group is testing whether the stalker responds to learned sounds, implying intelligence.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "misty step plan",
+    "fact": "Daz announces intent to misty step into the treeline \u2014 a high-risk tactical maneuver to gain visual or magical intel on the stalker. This event marks the transition from observation to active engagement, escalating the threat level.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "stone mismatch",
+    "fact": "The party\u2019s entire preparation was built around the expectation of underground stone terrain. The reality of dirt roads and forest floors has invalidated their assumptions \u2014 a thematic thread of misplaced certainty and environmental betrayal.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Dirt road through the forest",
+    "fact": "The dirt road is not just a path \u2014 it is the wrong terrain for every prepared spell, class feature, and tactical assumption. It is the physical manifestation of the party\u2019s dislocation \u2014 a place where nothing they brought works.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "The Narrator",
+    "fact": "The narrator is a silent, observant participant who does not speak until the final revelation \u2014 'It's not a deer.' They are the anchor of the group\u2019s realization, the one who notices the pattern, and the one who ultimately matches the stalker\u2019s stillness with their own.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the silence of the trees",
+    "fact": "The absence of bird movement and the unnatural stillness of the undergrowth are recurring anomalies. This thread suggests the forest itself has been altered \u2014 perhaps by the stalker\u2019s presence \u2014 making the environment an active participant in the threat.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "final standoff",
+    "fact": "The party and the stalker enter a mutual, silent standoff \u2014 both holding position, neither moving. The event is not a battle, not a chase \u2014 it is a test of patience, perception, and will. The winner will be the one who breaks first.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is interrogating a captured drow spy, demonstrating calm precision and deep understanding of drow psychology, and is the one who ultimately ties her up while delivering the moral judgment that following without speaking is rude.",
+    "source_quote": "It's very rude to follow people without just coming up and talking to them. So we'll talk to you now.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is the first to engage the captured drow spy, using precise, unhurried questions to establish control and assess intent, and is responsible for the efficient, final stun and restraint that neutralizes her threat.",
+    "source_quote": "Who are you? Why are you following us? Are you a friend or foe?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin attempts to intimidate the drow spy by suggesting her matron would view her failure as pathetic, but lacks the cultural nuance to manipulate her effectively; though she laughs at him, his raw physical presence prevents her from fully dismissing the party.",
+    "source_quote": "Let them know how pathetic you are.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum used the *Reduce* spell to shrink the drow spy, making her physically smaller and more vulnerable, which contributed to her psychological disorientation and tactical disadvantage during capture.",
+    "source_quote": "Grygum's *Reduce* spell had seen to that.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "The Drow Spy",
+    "fact": "The drow spy is a member of House T'sarran, trained to remain invisible and follow targets without engaging, assigned a mission she considers poorly conceived; she refuses to give her name, offers only minimal information, and remains emotionally detached despite capture.",
+    "source_quote": "I am of House T'sarran. I will not give my name. Take my piwafwi if you want a trophy.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "House T'sarran",
+    "fact": "House T'sarran is a drow noble house that has deployed a spy to follow the party on the surface during daylight hours, indicating either a covert operation or a punishment assignment; the house expects its members to be lost in the field and will recognize the loss through the absence of its piwafwi.",
+    "source_quote": "My matron will know one of hers fell out here, and that is enough.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Drow Spy",
+    "fact": "The drow spy is a small, female, highly trained operative who uses stealth and patience to shadow targets without engagement; she is stunned, grappled, and restrained by the party, and demonstrates superior survival instincts but no combat intent.",
+    "source_quote": "She stared at him with the blank patience of someone waiting for the world to start making sense again.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Piwafwi",
+    "fact": "The piwafwi is a magical cloak worn by the drow spy, a symbol of her status and identity within House T'sarran; she offers it as a trophy, implying its loss will signal her death to her house without requiring her to speak.",
+    "source_quote": "Take my piwafwi if you want a trophy.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Surface, Daylight Hours",
+    "fact": "The drow spy was operating on the surface during daylight hours \u2014 an unusual and dangerous environment for drow \u2014 suggesting her mission was either an anomaly, a punishment, or a desperate measure by her house.",
+    "source_quote": "Whoever sent a drow to the surface in daylight to shadow a party through open forest...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Capture of the Drow Spy",
+    "fact": "The drow spy was captured without resistance after being stunned and grappled by Zalthir and the party; her failure to flee or fight indicates her mission was surveillance, not assassination, and her compliance suggests she is prioritizing survival over duty.",
+    "source_quote": "The spy \u2014 drow, slight, female, exactly as advertised \u2014 was grappled and stunned, held in place with the kind of efficient finality that Zalthir brings to everything he considers a problem worth solving immediately.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Drow Spy's Mission",
+    "fact": "The purpose of the drow spy's mission \u2014 why she was sent to follow the party on the surface, who ordered it, and whether House T'sarran is acting alone \u2014 remains unresolved and is a critical open question for the party.",
+    "source_quote": "Who number two works for...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Fate of the Drow Spy",
+    "fact": "The party has captured but not killed the drow spy; her ultimate fate \u2014 execution, interrogation, release, or recruitment \u2014 is undecided and will likely have political consequences in the Underdark.",
+    "source_quote": "Assuming she got back home. That part wasn't yet settled.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Session Date",
+    "fact": "The events of the interrogation occur during a session following the party\u2019s prolonged time in the Underdark, after multiple ambushes and chases that have honed their instincts for surveillance and betrayal.",
+    "source_quote": "Months in the Underdark will calibrate your instincts. You learn to notice the shape of a threat before you can name it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is the narrator of the interrogation and the one who observes the drow spy\u2019s psychological recalibration, recognizing the shift from survival to negotiation \u2014 a pattern he has seen before at Velkynvelve.",
+    "source_quote": "I recognized it because I had run the same numbers at Velkynvelve, the first morning, when a wrong answer meant a crossbow bolt.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Underdark",
+    "fact": "The party has recently emerged from the Underdark, where prolonged exposure to drow politics, ambushes, and betrayal has conditioned them to interpret every movement as a potential threat.",
+    "source_quote": "Months in the Underdark will calibrate your instincts. You learn to notice the shape of a threat before you can name it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "End of Surveillance",
+    "fact": "The drow spy\u2019s mission of silent surveillance ends abruptly with her capture; the party concludes she was not an assassin but a reluctant operative, changing their tactical and moral assessment of her.",
+    "source_quote": "It says someone who got handed a bad assignment and is making the best of it.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Matron Mother's Response",
+    "fact": "The matron mother of House T'sarran will learn of the spy\u2019s loss through the disappearance of her piwafwi, and may retaliate, send another agent, or investigate the party\u2019s identity \u2014 an unresolved political thread.",
+    "source_quote": "My matron will know one of hers fell out here, and that is enough.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is observing with a deliberate, non-calculative attention \u2014 listening for unspoken signals others miss \u2014 and has offered survival through prayer beads without threat or explanation.",
+    "source_quote": "He held out the prayer beads. He didn't say anything particularly ominous. He just handed them to her and told her to put them on.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Drow Agent",
+    "fact": "The drow agent was assigned to track the party's surface movements and report their contact, but her true mission is to identify the patron who paid for the target's escape \u2014 using the target as bait.",
+    "source_quote": "My matron believes that the one who paid \u2014 for him \u2014 will reveal themselves once he reaches the surface. We are looking for that person, not for you.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is applying subtle pressure during interrogation by suggesting exposure to sunlight and reduced state as motivational leverage, not direct torture.",
+    "source_quote": "Thorin floating the suggestion of leaving her out in the full sun in her current reduced state. Not torture. Providing motivation.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "House T'sarran",
+    "fact": "House T'sarran is an ancient, patient drow house ruled for two hundred years by a matron mother who operates with long-term strategy, not crisis-driven aggression.",
+    "source_quote": "She told us her matron had ruled House T'sarran for two hundred years. The length of tenure alone told me something \u2014 not a house currently in crisis, not a young matron making aggressive plays to consolidate position.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Dwarf",
+    "fact": "A dwarf stunned, grappled, shrunk, and laughed at the drow agent during her capture or prior encounter, establishing a context of humiliation and power imbalance.",
+    "source_quote": "after having been stunned and grappled and shrunk and laughed at by a dwarf",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Half-orc Cleric",
+    "fact": "A half-orc cleric holds out holy symbols of a deity unknown to the drow agent, serving as an instrument of psychological disorientation through unfamiliar religious ritual.",
+    "source_quote": "She looked at a half-orc cleric holding out holy symbols of a deity she knew nothing about",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Prayer Beads",
+    "fact": "The prayer beads are a religious artifact of unknown origin, worn by the drow agent as a sign of submission or binding, and serve as a credible threat of extraction or summary execution through ritual means.",
+    "source_quote": "The beads were the thing that actually broke through the professional armor. A credible threat she understood \u2014 extraction, summary execution, reporting her failure up the chain",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Interrogation Outcome",
+    "fact": "The drow agent, under sustained psychological pressure and the threat of prolonged exposure to sunlight, abandoned misdirection and revealed her true mission: identifying the patron who paid for the target's escape.",
+    "source_quote": "She pointed at me, with the resigned precision of someone who has run out of misdirection \u2014 'for him, will reveal themselves once he reaches the surface.'",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Unknown Patron",
+    "fact": "A mysterious patron paid for the target's escape from the Underdark, and House T'sarran is now tracking the target to uncover this patron's identity \u2014 a hidden thread that may implicate the interrogator.",
+    "source_quote": "We are looking for that person, not for you.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Drow Surveillance",
+    "fact": "The drow agent's entire demeanor during interrogation \u2014 avoiding eye contact with the party while fixating on the interrogator \u2014 reveals she has been surveilling the interrogator since before their surface arrival, suggesting premeditated, long-term observation.",
+    "source_quote": "She wasn't watching the party. She was watching me. And working very, very hard to make it look like she wasn't.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Surface Field (Blingdenstone Vicinity)",
+    "fact": "The interrogation occurs on the surface under intense sunlight, a hostile environment for drow, used as psychological leverage to break resistance and compel truth.",
+    "source_quote": "standing in a field on the surface world... full sunlight... Dawnbringer's light brought close",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Post-Blindstone Escape",
+    "fact": "The events occur after the target's escape from the Underdark and a period of minimal rest in Blingdenstone, establishing a timeline of vulnerability and transition.",
+    "source_quote": "running on whatever sleep we'd managed in Blingdenstone",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Interrogator (PC)",
+    "fact": "The interrogator is a drow who has been underground for an extended period, unfamiliar with current Underdark politics, and is being used as bait in a political game they did not realize they were part of.",
+    "source_quote": "I'm drow, but I've been underground for a while.\" ... \"You realize how absurd that sounds?",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is an eighth-level wizard who has kept four people alive through the Underdark, demon lords, a dragon, and House politics, and has been valuable primarily because someone with resources believes observing what happens to him may reveal a person they are interested in.",
+    "source_quote": "I have apparently been valuable this entire time primarily because someone with resources thinks watching what happens to me might reveal a person they are actually interested in.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a spellcaster who possesses Revivify and prayer beads of full power, even when shrunken, and proposes lethal but reversible measures against targets to extract information, showing calm procedural detachment.",
+    "source_quote": "I have a Revivify spell.\" \"It's just a death light.\" \"There's only one solution. We need to kill Daz.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a skeptical, pragmatic party member who demands enforceable outcomes, distrusts unbound promises, and insists on concrete logistics \u2014 including containment, ventilation, and reversibility \u2014 for hostile agents.",
+    "source_quote": "I don't buy it. The minute she has the information she needs, she's off, and we get jack shit.\" \"Do it, but make sure we can bring them back.\" \"She's so confident she can escape, I don't think we want to be taking her into the stronghold.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a target of theoretical murder planning, believed to be under protective influence, and is the subject of strategic observation by hostile agents who seek to uncover who is protecting him.",
+    "source_quote": "There's only one solution. We need to kill Daz.\" \"And then we'll find out who's protecting him.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "The Shrunken Spy",
+    "fact": "A formerly full-sized spy, reduced to toy-like size via a mushroom, now confined and observed, her indignation growing as she is treated as a pet \u2014 'Polly Pocket' \u2014 with ventilation holes and containment by Glabbagool.",
+    "source_quote": "Nickname her Polly Pocket.\" \"Like a hamster.\" \"She shrank to about the size of a child's toy, her voice pitched up into something that was still clearly fury but now delivered from below knee-height.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a silent, steady guardian assigned to contain the shrunken spy, maintaining unblinking, unwavering attention \u2014 the most earnest act witnessed in weeks.",
+    "source_quote": "Glabbagool could watch her with a single eye without breaking his stride.\" \"He had been assigned a job. He was doing the job.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Prayer Beads",
+    "fact": "The prayer beads are shrunken but at full power, possibly more deadly in miniature, and serve as a non-lethal but coercive tool of control, replacing reliance on killing or contracts.",
+    "source_quote": "I'm not relying on killing you. I'm relying on the prayer beads.\" \"Yes \u2014 in fact, I believe they may be more deadly.\" \"More potent. Good to know.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Bag of Holding",
+    "fact": "The Bag of Holding is used as a containment vessel for the shrunken spy, with holes poked for ventilation, and is paired with Glabbagool for passive surveillance.",
+    "source_quote": "We can put her in the bag of holding with Glabbagool, and he can just hold onto her.\" \"Poke holes. Let her breathe.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "House T'sarran",
+    "fact": "House T'sarran sends agents into hostile territory, operates with no regard for binding agreements, and is perceived as an enduring threat even if individual agents are neutralized.",
+    "source_quote": "Killing her wouldn't stop House T'sarran from sending more agents.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Proposal to Escort to Candlekeep",
+    "fact": "A hostile agent proposes being escorted to Candlekeep and handed to the guards, but the plan is understood to be a ruse \u2014 her confidence implies she intends to escape immediately upon arrival.",
+    "source_quote": "She eventually proposed being escorted to Candlekeep and handed to the guards \u2014 and she said it with the confidence of someone who already knew the second half of that plan didn't involve staying in Candlekeep for very long.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Who Is Protecting Daz?",
+    "fact": "The identity of Daz's unseen protector remains unknown, and is the central strategic mystery driving the party's and enemy's actions \u2014 including proposed assassination and surveillance.",
+    "source_quote": "And then we'll find out who's protecting him.\" \"The piece on the board that you move to see who else moves in response.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Spy's Fate",
+    "fact": "The shrunken spy's psychological unraveling and growing awareness of her vulnerability are an ongoing narrative thread \u2014 her indignation giving way to reconsideration of alternatives.",
+    "source_quote": "She was starting to wonder whether there were other fates.\" \"I understood that. Weeks in the Underdark with us will do something to a person's sense of available options.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is perceived as a temporary destination and a potential prison, but its reputation as a secure location is undermined by the agent's implied knowledge of how to escape it.",
+    "source_quote": "So they know how to escape that prison,\" I observed. \"Is what they're telling us.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Session Anchor",
+    "fact": "The events described occur during an active journey toward Candlekeep, with no specific calendar date given, but framed as immediate and ongoing.",
+    "source_quote": "I have found purpose. I am the feared mage of the Ember Vanguard. This is fine.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is the only party member who treats information as a finite and valuable resource, and yet finds himself the subject of hostile theoretical murder planning while under observation by a restrained enemy.",
+    "source_quote": "I am categorically on record as being the only person in this party who treats information as a finite and valuable resource, and yet here I was, the subject of active theoretical murder planning while a restrained enemy watched us debate it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is the feared mage of the Ember Vanguard, maintaining neutral composure despite being the target of lethal strategy and psychological manipulation.",
+    "source_quote": "I have found purpose. I am the feared mage of the Ember Vanguard. This is fine.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is deliberately sharing misleading information about the bag of holding and its contents to manipulate perceptions, and he is actively engaging the ooze Glabbagool in the ritual of knowledge exchange at Candlekeep.",
+    "source_quote": "At least the bag of holding is shade, you know, so she's not gonna be exposed to full sun.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is the primary conduit for reinforcing false or ambiguous knowledge claims about magical items, and he is complicit in the structured deception surrounding the five books offered to Candlekeep.",
+    "source_quote": "Yes, yes, in fact \u2014 I believe they may be more deadly.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is an ooze with no social conditioning around limits of knowledge, and he is profoundly confused by the concept of restricted access to information \u2014 making his single question at Candlekeep a radical act of pure epistemic inquiry.",
+    "source_quote": "Why aren't we simply donating every book we've ever seen and asking questions until the end of time?",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is the institutional diplomat who manages the formal entry protocol at Candlekeep, ensuring the five books are presented according to the library\u2019s rigid bureaucratic norms.",
+    "source_quote": "The gatekeeper explained the terms with the particular energy of someone who has explained the same terms several thousand times and has made peace with that.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Asha Vandree",
+    "fact": "Asha Vandree authored a theological document comparing Lolth and Zuggtmoy as equivalents, which she pressed into Grygum\u2019s hands \u2014 a work now destined to be cataloged and interrogated in Candlekeep, despite her having been rendered invisible during its creation.",
+    "source_quote": "The document I'd watched her press into Grygum's hands.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Prisoner (Drow woman)",
+    "fact": "The drow woman is confined within the bag of holding, surveilled by an ooze, breathing through holes poked in the fabric, and shielded from sunlight as an act of mercy \u2014 her survival of the Underdark now being recontextualized by surface-world institutions.",
+    "source_quote": "She was small, surveilled by an ooze, breathing through holes we'd poked in the bag, and being shielded from sunlight as a kindness.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is a monolithic, rule-bound institution that controls access to knowledge through a system of book donations and limited questions, where five books grant not just entry but 'facetime' \u2014 the true currency of influence.",
+    "source_quote": "One book gets you in the door. Five books gets you *facetime*, which I gathered was the currency that actually mattered there.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "entry into Candlekeep",
+    "fact": "The party enters Candlekeep by presenting five books \u2014 each tied to a demon lord, a corrupted theology, or a witness account \u2014 triggering a structured ritual of knowledge exchange governed by the library\u2019s ancient, inflexible protocols.",
+    "source_quote": "As it turned out, we'd brought five.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Princess Ebonmire's spellbook",
+    "fact": "This spellbook is one of the five books presented to Candlekeep, acquired during months in the Underdark from someone who no longer needed it \u2014 its contents now subject to scholarly analysis in a surface-world library.",
+    "source_quote": "Princess Ebonmire's spellbook.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Ilvara's prayer book with Zuggtmoy marginalia",
+    "fact": "Ilvara\u2019s prayer book contains meticulous, handwritten notes documenting the corruption timeline she observed \u2014 a personal record of demonic influence now to be cataloged as a theological artifact in Candlekeep.",
+    "source_quote": "Ilvara's prayer book with its Zuggtmoy marginalia, those careful notes documenting the corruption timeline she'd watched unfolding and apparently found worth recording.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Asha Vandree's theological argument",
+    "fact": "Asha Vandree\u2019s document equating Lolth and Zuggtmoy is a radical theological assertion now destined for scholarly debate in Candlekeep \u2014 written in silence, pressed into Grygum\u2019s hands, and intended to be unseen.",
+    "source_quote": "Asha Vandree's theological argument about Lolth and Zuggtmoy as equivalents \u2014 the document I'd watched her press into Grygum's hands.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Velkynvelve prisoner journal",
+    "fact": "This journal, acquired from the Underdark, contains the testimony of a prisoner \u2014 now one of five books offered to Candlekeep, its authenticity and origin unverified but its potential for insight undeniable.",
+    "source_quote": "The Velkynvelve prisoner journal.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Pliinki's journal from the Whorlstone Caverns",
+    "fact": "Pliinki\u2019s journal records a man\u2019s detailed account of helping birth a demonic monster \u2014 a confession he believed was worth documenting, now destined to be studied as a primary source in a surface-world library.",
+    "source_quote": "Pliinki's journal from the Whorlstone Caverns, the one where a man had written carefully about helping birth a demonic monster and apparently thought this was worth documenting.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool (the ooze)",
+    "fact": "Glabbagool is an ooze who has spent most of his conscious existence confined in a bag of holding, observing a shrunken assassin through a single eye \u2014 his confusion over Candlekeep\u2019s knowledge restrictions reveals a fundamental lack of social conditioning around epistemic limits.",
+    "source_quote": "He wanted to know why we weren't simply donating every book we'd ever seen and asking questions until the end of time.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Bahamut's personal assignment",
+    "fact": "Grygum is haunted by the absence of a specific, personal directive from Bahamut \u2014 beyond general principles \u2014 and hopes Candlekeep\u2019s archives will help him uncover the hidden intent behind his own divine mandate.",
+    "source_quote": "What does Bahamut actually want from me? Not the general want \u2014 the 'be just, protect the innocent, oppose Tiamat' want... but the specific want.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Glabbagool's one question",
+    "fact": "The singular question Glabbagool will ask at Candlekeep is an unresolved, deeply anticipated thread \u2014 a question from a being with no past, no allegiances, and pure epistemic hunger, whose answer may redefine the nature of knowledge itself.",
+    "source_quote": "I didn't have an answer. But I kept watching the bag, the way it moved, the slight weight of it. Somewhere in there, one eye was open.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is a vast, ancient library whose architecture and protocols enforce hierarchical access to knowledge \u2014 it is not merely a repository but a gatekeeper of divine and arcane truth, where books are currency and questions are privileges.",
+    "source_quote": "enormous, self-important, and surrounded by the kind of architecture that said *we have been here longer than your entire civilization and we have the receipts.*",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "the road to Candlekeep",
+    "fact": "The journey to Candlekeep spanned days of travel, during which the party\u2019s deception, knowledge manipulation, and existential questions coalesced \u2014 a period of reflection that transformed the act of entry into a ritual of revelation.",
+    "source_quote": "I thought about it for the better part of the road to Candlekeep \u2014 what a creature with no past and no allegiances and a singular earnest interest in understanding the world would choose to know.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is currently very small, very angry, and in the party's possession; he is a drow whose House T'sarran has vowed vengeance; he responds to threats with minimal affect, saying 'Tiny, tiny little vengeance.'",
+    "source_quote": "This is highly irregular, and House T'sarran will have its vengeance!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is reportedly very confused about the concept of a library with effectively infinite capacity; he does not understand why books aren't donated until questions can be asked indefinitely; he believes cute googly eyes make others perceive him more favorably, and can produce proliferating eyes to demonstrate his true nature as an ooze with multi-sensory perception.",
+    "source_quote": "I can actually see different ways. This is how ooze work. But I discovered that if you have these cute eyes, people take you more friendly.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The First Reader",
+    "fact": "The First Reader received all five books with barely-contained delight; she reveres the Velkynvelve Prisoner Journal as a masterpiece and maintains a collection of drow prison journals; she assigns scholars to specific threads and is open to being interviewed directly as a primary source.",
+    "source_quote": "This journal of the prisoners is a masterpiece of interesting value. I can't wait to study it carefully.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is practical and perceptive; she suggested the party be interviewed instead of reading books; she identified Daz as a drow in their possession; she delivered a merciless response to the spy's request for a question; she accepted the assignment to couples counseling with Dawnbringer with clear relief.",
+    "source_quote": "You don't get a question. You did not donate a book.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Vareth",
+    "fact": "Vareth is an elderly half-elf scholar with a decades-long specialty in half-orc Bahamut converts; he is frantic and outraged that the First Reader did not inform him of the arrival of a cleric of Bahamut; his quiet niche became suddenly significant after Stroud beat Protanther at chess.",
+    "source_quote": "I cannot believe you did not tell me about the arrival of a cleric of Bahamut.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is an avowed scholar assigned to the Jimjar thread, which dovetailed with an avowed named Khell-Vire interested in a specific subject \u2014 not the party generally, but the narrator in particular.",
+    "source_quote": "Zalthir wanted to know about Jimjar.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Philemon",
+    "fact": "Philemon is an avowed monk specializing in psychological preservation and historical cataloging of ancient sentient artifacts; he has a tremendous track record in resolving interpersonal conflict issues of sentient artifacts; he was assigned to Thorin and Dawnbringer for couples counseling.",
+    "source_quote": "an avowed monk specializing in psychological preservation and historical cataloging of ancient sentient artifacts, with a tremendous track record of success in working through the interpersonal conflict issues of the sentient artifact.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "House T'sarran",
+    "fact": "House T'sarran is a drow house that has vowed vengeance against Daz, a member of the party who is currently in their possession; their threat is delivered with ceremonial gravity but met with Daz's dismissive tone.",
+    "source_quote": "This is highly irregular, and House T'sarran will have its vengeance!",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Avowed",
+    "fact": "The Avowed are scholars and sages of Candlekeep who assign questions in exchange for books; they maintain specialized threads (e.g., Jimjar, Khell-Vire) and prioritize individual-focused inquiry over general party observation; they operate with ritualized precision and academic hierarchy.",
+    "source_quote": "not about the party generally, but about *me* in particular.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "book exchange",
+    "fact": "Five books were donated to the First Reader, triggering the assignment of scholars to specific threads; each book corresponded to one question, and the exchange activated a cascade of academic interest in the party members, particularly the narrator and Daz.",
+    "source_quote": "We gave all five books.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "arrival of the cleric of Bahamut",
+    "fact": "The arrival of a cleric of Bahamut \u2014 the narrator \u2014 triggered a frantic intervention by Vareth, a half-elf scholar whose decades-long niche in half-orc Bahamut converts became suddenly relevant; this event was perceived as academically significant only after Stroud beat Protanther at chess.",
+    "source_quote": "I cannot believe you did not tell me about the arrival of a cleric of Bahamut.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Stroud beats Protanther at chess",
+    "fact": "Stroud's victory over Protanther at chess acted as an unexpected catalyst that elevated the academic relevance of niche studies, particularly Vareth's work on half-orc Bahamut converts, transforming a quiet specialty into a matter of urgent scholarly interest.",
+    "source_quote": "And then Stroud beat Protanther at chess.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Velkynvelve Prisoner Journal",
+    "fact": "The Velkynvelve Prisoner Journal is a revered artifact held by the First Reader; it is considered a masterpiece of drow prison writing and is part of an established collection of drow prison journals.",
+    "source_quote": "This journal of the prisoners is a masterpiece of interesting value.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "prayer beads",
+    "fact": "The spy demanded information about the prayer beads, a bold request given their current status as an unbook-donating captive; this request was immediately denied by Thorin.",
+    "source_quote": "The spy's voice came out approximately at the volume of an extremely annoyed insect.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Khell-Vire and the narrator",
+    "fact": "Khell-Vire, an avowed scholar, is interested in a specific subject \u2014 not the party generally, but the narrator in particular \u2014 which was assigned to Zalthir as part of the Jimjar thread; this indicates the narrator is a subject of unique academic fascination.",
+    "source_quote": "not about the party generally, but about *me* in particular.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Dawnbringer and Thorin",
+    "fact": "Dawnbringer and Thorin are assigned to Philemon for couples counseling, indicating their relationship is recognized as a sentient artifact with interpersonal conflict requiring psychological preservation and historical cataloging.",
+    "source_quote": "I'm all up for couples counseling with Dawnbringer.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "after Stroud beats Protanther at chess",
+    "fact": "The event of Stroud beating Protanther at chess serves as a temporal anchor that reconfigured academic priorities, making previously obscure studies suddenly urgent and relevant.",
+    "source_quote": "And then Stroud beat Protanther at chess.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is an ooze entity capable of producing proliferating eyes; he presents himself with affectations of cute googly eyes to appear more approachable, but his true perception is multi-sensory; he is not a threat but a being whose scale of perception exceeds the comprehension of others.",
+    "source_quote": "I can actually see different ways. This is how ooze work.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is an academic sanctuary where knowledge is exchanged for books, and scholars (the Avowed) are assigned to specialized threads; it operates with ritualized hierarchy and intense focus on individual narratives over collective ones.",
+    "source_quote": "the sages, the professors \u2014 providing more books will get you more FaceTime.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Vareth",
+    "fact": "Vareth is a half-orc cleric of Bahamut whose previously obscure field of study has become a flood of interest after his own conversion, and he is now receiving funding, conference invitations, and research opportunities.",
+    "source_quote": "Vareth stopped. His expression went through several stages very quickly \u2014 surprise, recognition, something that looked almost like delight at receiving a gift he hadn't known he wanted.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Stroud",
+    "fact": "Stroud is an individual whose seemingly random, uninformed action \u2014 rolling a die in a centuries-old chess game \u2014 produced a definitive, legendary outcome that restructured Vareth\u2019s career and gave rise to the term 'Stroud's Gambit'.",
+    "source_quote": "Stroud rolled \u2014 and it landed perfectly. Definitively. The kind of thing that doesn't just work, it *announces* itself.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Stroud's Gambit",
+    "fact": "'Stroud's Gambit' is a newly coined term describing a paradigm-shifting, unintended act of divine significance that has become a central concept in the study of Bahamut's influence on half-orc conversions.",
+    "source_quote": "And then, because I couldn't help it, and because the phrase had been sitting in the back of my mind since we started this journey and I'd never had the right audience for it: 'Stroud's Gambit.'",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Bahamut's clergy",
+    "fact": "Bahamut's clergy traditionally aspire to take over the world, but Vareth's conversion and the emergence of 'Stroud's Gambit' suggest a new, unpredictable pathway of divine influence that bypasses conventional ambition.",
+    "source_quote": "You have to understand... that it is traditional for clerics of Bahamut to want to try to take over the world. But I haven't moved into that phase yet.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Orc pantheon",
+    "fact": "The orc pantheon is undergoing theological disruption due to the sudden emergence of a half-orc cleric of Bahamut, raising questions about whether this represents an incursion, a conversion, or a new divine alignment.",
+    "source_quote": "What did the sudden half-orc interest in Bahamut mean for the orc pantheon? Was it part of Bahamut's plan?",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "conversion phenomenon",
+    "fact": "The conversion phenomenon refers to the unexpected and transformative theological shift triggered by Vareth\u2019s emergence as a living half-orc cleric of Bahamut, which has restructured his entire academic field and attracted widespread scholarly attention.",
+    "source_quote": "The controversy had erupted throughout the realms \u2014 what did the sudden half-orc interest in Bahamut mean for the orc pantheon?",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "prayer book",
+    "fact": "The prayer book is a personal artifact collected by the narrator, containing theological notes and evidence gathered during months in the Underdark, used to investigate the broader implications of Vareth\u2019s conversion.",
+    "source_quote": "I had notes \u2014 the prayer book, the theological documents, the accumulated evidence of months in the Underdark",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "theological documents",
+    "fact": "The theological documents are a collection of scholarly and liturgical materials gathered by the narrator to understand the implications of Bahamut\u2019s influence on half-orc conversions and the legitimacy of 'Stroud's Gambit'.",
+    "source_quote": "I had notes \u2014 the prayer book, the theological documents, the accumulated evidence of months in the Underdark",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Malfire",
+    "fact": "Malfire is a referenced authority figure whose citations have become an ambient, recurring element in the party\u2019s interactions, treated as an unspoken cultural touchstone rather than a literal source.",
+    "source_quote": "As Malfire said in Volume 3.\" \"Nobody laughed. This was the correct response.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "the library",
+    "fact": "The library is a place of unresolved theological inquiry where answers about Bahamut\u2019s intentions, the nature of conversion, and the origins of 'Stroud's Gambit' are believed to be waiting.",
+    "source_quote": "Somewhere in the library, there were answers waiting. About Bahamut's intentions, about what my conversion meant in the broader theological landscape...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "theology of unintended divine intervention",
+    "fact": "A growing theological thread suggests that divine will may manifest not through planned doctrine, but through the unanticipated actions of those who do not know what they are doing \u2014 exemplified by 'Stroud's Gambit'.",
+    "source_quote": "I had the particular comfort of knowing that sometimes the person who doesn't know what they're doing walks into the right room and everything clicks.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "funding arrival",
+    "fact": "The arrival of funding for Vareth\u2019s research marks a turning point in his academic career, transforming his once-neglected field into a recognized discipline with institutional backing.",
+    "source_quote": "Funding was arriving.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "narrator",
+    "fact": "The narrator is a researcher and chronicler who collects evidence, asks probing questions, and finds comfort in the unpredictability of divine action, using note-taking as both a practice and a philosophy.",
+    "source_quote": "I took notes. It's what I do.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "ambient citation culture",
+    "fact": "The party has developed an ambient citation culture around Malfire, where quoting the figure has become a ritualized, unspoken norm \u2014 not for accuracy, but for shared identity and emotional resonance.",
+    "source_quote": "It's like we're kind of sick of each other, but somehow still together, yeah.",
+    "quote_verified": false
+  }
+]

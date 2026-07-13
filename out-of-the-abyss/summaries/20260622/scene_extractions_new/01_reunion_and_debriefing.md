@@ -15,7 +15,7 @@ source: gmassist
 - Grygum dismissively directs Fembris to leave his notes with Glabbagool, his 'secretary.'
 - Glabbagool examines Fembris's notes, declares them 'not nutritious,' and laments the absence of cheese before reluctantly accepting them.
 - Fembris proposes co-writing a monograph; Grygum corrects him: "I think you might misunderstand the term monograph. It's a work that has one author." They negotiate down to a "duograph," then an autograph with acknowledgment, settling on a spot "in the acknowledgement section."
-- The party reviews the murder timeline, establishing that at 2:30 PM on the day of the murder, A'lai visited Leuwin at the Oak Tree Apothecary asking for fresh fennel for indigestion; while Orrin helped A'lai in the garden, the dragonborn (believed to be Alkrist) showed up, collected the poison, and made a mess. Nibbles the squirrel witnessed the "lizard-skinned person" that Leuwin missed.
+- The party reviews the murder timeline, establishing that at 2:30 PM on the day of the murder, A'lai visited Leuwin at the Oak Tree Apothecary asking for fresh fennel for indigestion; while Leuwin helped A'lai in the garden, the dragonborn (believed to be Alkrist) showed up, collected the poison, and made a mess. Nibbles the squirrel witnessed the "lizard-skinned person" that Leuwin missed.
 - The group debates whether the person who stole the sapphire and the person who stole the locket are the same individual, concluding they are likely different people, since the locket cannot be stolen from a living person who possesses it, and the sapphire can only recover the locket from someone else.
 - Zalthir clarifies that "the thief" in the notes refers to the person who made the mess in the apothecary (Alkrist), not the person who later removed the heart and looted the safe.
 - Glabbagool mentions his ability to eat through walls or safes ("walls don't stop us, I can eat through walls"), recalling that he couldn't squeeze into Alkrist's still-unopened safe through a "1-inch crack." Zalthir notes the objective had been stealth over destruction: "if the goal was to be destructive, I could have just punched the safe, but we were trying to be sneaky."
@@ -163,7 +163,7 @@ source: gmassist
 > "And so… and so, so, at 2.30 PM, the day of the murder, right."
 > "A'lai went to see Leuwin at the Oak Tree Apothecary."
 > "Alright? Then you ask for fresh fennel for indigestion."
-> "Then, while Orrin was helping A'lai in the garden."
+> "Then, while Orrin was helping A'lai in the garden." *[GM/table correction: this was Leuwin, not Orrin Glass — Orrin Glass has no established apothecary connection.]*
 > "And… picked, collected the poison."
 > "Or collected whatever was in that jar and created a mess."
 
@@ -201,8 +201,7 @@ source: gmassist
 > "If somebody else had it."
 
 **[GM]** — *concluding they are different people*
-> "So that further lays evidence that the person who stole the sapphire and the person who sold"
-> "Block it are not the same person."
+> "So that further lays evidence that the person who stole the sapphire and the person who [stole the locket; VTT: "sold" / "Block it"] are not the same person."
 
 **[Thorin]** — *pushing back*
 > "Well, why? I mean, not necessarily. I don't see how that follows."
@@ -230,7 +229,7 @@ source: gmassist
 **[GM]** — *recalling the failed safe-cracking attempt*
 > "moved to, scouted around. They went into Alkrist's room, but they couldn't open his safe."
 > "That's when Glabbagool asked… that's when Zalthir asked Glabbagool if he could squeeze in, and Zalthir… Glabbagool explained, this big. Not this big."
-> "It's a 1-inch crack, not a… Fields."
+> "It's a 1-inch crack, not a… [inaudible]."
 
 **[GM]** — *Glabbagool's eat-through-walls idea*
 > "Although Glabbagool, now that he says it, although I guess I could have asked… I could have eaten through the safe. It would have taken a while."

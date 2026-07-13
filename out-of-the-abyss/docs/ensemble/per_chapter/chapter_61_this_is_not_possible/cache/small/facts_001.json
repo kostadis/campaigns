@@ -1,0 +1,177 @@
+[
+  {
+    "type": "npc",
+    "subject": "Alkrist",
+    "fact": "Alkrist confessed to killing Janussi while under the effect of Kalan's spell, which forced him to speak truthfully.",
+    "source_quote": "Alkrist had said it out loud, in the room, with Kalan's spell still holding him honest \u2014 he'd killed Janussi.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch was fired from his position and handed the case that Alkrist solved, though he was unable to crack it himself.",
+    "source_quote": "Kalan had gotten fired. That's the terrain \u2014 a man told he was done, standing next to a case he couldn't crack, that we cracked for him.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin proposed and advocated for handing the solved case to Kalan to let him save face, in exchange for the group receiving their promised reward.",
+    "source_quote": "Alright. I think we just hand it to him \u2014 let him save face, since he got fired \u2014 with the understanding that they make good on the promise: we get our reward for helping crack the case.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir observed that the group is already infamous underground, and that notoriety has not served them well, countering Thorin\u2019s concern about fame.",
+    "source_quote": "We're already infamous underground. It didn't seem to serve us well.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz provided a contingency plan of 'hacking and slashing' if things go sideways, a fallback he keeps as a psychological comfort rather than a formal strategy.",
+    "source_quote": "If things go sideways, we can always start hacking and slashing.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm was one of three potential recipients of the case \u2014 an option considered for demanding justice and satisfaction \u2014 but ultimately bypassed in favor of Kalan.",
+    "source_quote": "We could walk straight to Bookwyrm and demand justice and satisfaction.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "A'lai",
+    "fact": "A'lai was identified as a potential recipient of the group's knowledge, with a thread connecting the confession back to him, though he was not approached.",
+    "source_quote": "We knew there was a thread running from all this back to A'lai.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Ember Vanguard",
+    "fact": "The Ember Vanguard is a rival group whose legend precedes the party in rumors, exaggerated and false, yet bearing the party\u2019s name and reputation.",
+    "source_quote": "The Ember Vanguard has a legend now that walks a tunnel ahead of us, and it lies about our height.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh has posters with the party\u2019s name on them \u2014 wrong enough to be misleading, but still bearing their identity \u2014 contributing to their infamy.",
+    "source_quote": "Gracklstugh still had our name on posters, wrong enough to be cover but our name all the same.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "confession under truth spell",
+    "fact": "Alkrist's confession occurred under the influence of a truth spell, making it legally and magically binding, and resolved the central mystery the group had been investigating.",
+    "source_quote": "Alkrist had said it out loud, in the room, with Kalan's spell still holding him honest \u2014 he'd killed Janussi.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Kalan's dismissal",
+    "fact": "Kalan Strongbranch was dismissed from his role, and the solved case was handed to him despite his inability to solve it, creating a moment of ironic closure.",
+    "source_quote": "Kalan had gotten fired. That's the terrain \u2014 a man told he was done, standing next to a case he couldn't crack, that we cracked for him.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "reward obligation",
+    "fact": "The group has an unfulfilled promise for a reward tied to solving Janussi\u2019s murder, and they secured verbal agreement that it would be honored after handing the case to Kalan.",
+    "source_quote": "with the understanding that they make good on the promise: we get our reward for helping crack the case.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "fame vs. anonymity",
+    "fact": "The group debated whether to claim credit for solving the case and risk amplifying their infamy, or to let Kalan take the credit and remain hidden \u2014 ultimately choosing the latter.",
+    "source_quote": "Okay, the alternative: if we make a big deal about being the ones who cracked it, that plays into our fame. But do we really want to be famous, or do we want to fly under the radar?",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Dawnbringer's therapy",
+    "fact": "Dawnbringer, a psychic presence within Thorin\u2019s mind, insists on continuing therapeutic sessions, having found the first one productive, and is linked to Thorin\u2019s past efforts to find a blade whisperer for her.",
+    "source_quote": "I'm not leaving here without the therapy. That first session was actually very productive. I really feel we need to\u2014",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Candlekeep unanswered questions",
+    "fact": "The group arrived at Candlekeep with unresolved questions for various scholars and institutions, which remain unaddressed despite solving the murder.",
+    "source_quote": "There was still the matter of everything we hadn't gotten yet \u2014 the things we came to Candlekeep to ask the various folks, questions still owed to us.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is the location where the group sought answers from scholars and institutions, and where the confession and resolution of Janussi\u2019s murder took place.",
+    "source_quote": "the things we came to Candlekeep to ask the various folks",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh is a place where the group is wanted, with posters bearing their name \u2014 inaccurately but recognizably \u2014 contributing to their infamy.",
+    "source_quote": "Gracklstugh still had our name on posters, wrong enough to be cover but our name all the same.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "cleaver",
+    "fact": "A cleaver was presented as physical evidence alongside a confession and a heart, forming the three objects of interest in Grygum\u2019s academic observation.",
+    "source_quote": "The evidence sat on the table between us. A confession. A heart. A cleaver.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "heart",
+    "fact": "A heart was among the three pieces of evidence on the table, likely the victim\u2019s, used to confirm the murder\u2019s brutality and authenticity.",
+    "source_quote": "The evidence sat on the table between us. A confession. A heart. A cleaver.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "soul-whisperer",
+    "fact": "A soul-whisperer \u2014 a being who understands the psychological toll on sentient blades \u2014 was the target of Dawnbringer\u2019s search, though none was found until now.",
+    "source_quote": "I'd been the one hunting a sword whisperer for her since the road south \u2014 months where the thing she was built to carry just wasn't there",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occurred during a single session of the campaign, marked by the confession, the dismissal of Kalan, and the group\u2019s decision-making.",
+    "source_quote": "We had the confession.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "decision to hand case to Kalan",
+    "fact": "The group unanimously decided to hand the solved case to Kalan Strongbranch to allow him to save face, despite his dismissal, in exchange for the promised reward.",
+    "source_quote": "We handed it to Kalan and told him it was all his. He looked deeply disgruntled about it \u2014 a scholar handed a case that would not close.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "infamous vs. famous",
+    "fact": "The group debated the semantic difference between 'infamous' and 'famous,' with Thorin noting the former implies notoriety, and Zalthir reinforcing that their infamy has been a liability.",
+    "source_quote": "Infamous,\" I said. \"You know that's supposed to mean extra famous.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum observed the three pieces of evidence and noted the group\u2019s decision-making process, acting as a recorder rather than a leader in the conversation.",
+    "source_quote": "I take notes on all three and argued for none of them. I don't lead these conversations. I record them, and I watch who's pretending.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is a psychic presence within Thorin\u2019s mind who communicates telepathically, seeks therapeutic sessions, and is tied to the group\u2019s past efforts to find a blade whisperer.",
+    "source_quote": "She spoke up in my head. *I'm not leaving here without the therapy. That first session was actually very productive. I really feel we need to\u2014*",
+    "quote_verified": true
+  }
+]

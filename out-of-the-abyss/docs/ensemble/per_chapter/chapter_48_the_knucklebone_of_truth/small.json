@@ -1,0 +1,597 @@
+[
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum used divine gifts to mend the Earth Elemental, later tended to burned Gnomish miners, and used a cantrip to attach a patch to Thorin\u2019s gear with precision.",
+    "source_quote": "Grygum stretched like Atlas setting down the world, then mended the elemental\u2019s wounds.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin, the party\u2019s most reliably stabby and punchy member, pointed to resolve the humming in the Hall of Melting Mirrors, winched a support beam into place with Daz\u2019s guidance, and was declared an honorary member of the Diggermattock Miners.",
+    "source_quote": "Thorin paused, looked around, and simply pointed \u2014 Chipgrin muttered he should\u2019ve asked the dwarf first.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Chipgrin",
+    "fact": "Chipgrin maintained a chanting vigil to suppress psychic static in the Hall of Melting Mirrors, argued with Chief Diggermattock over territory division, and was startled by Thorin\u2019s insight.",
+    "source_quote": "Chipgrin stared at Thorin for a long moment before muttering he probably should\u2019ve asked the dwarf first.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz used knowledge and intuition to seek the harmonic center of the Hall of Melting Mirrors, provided tactical guidance for winching the support beam, and delivered a passionate appeal for unity at the Blingdenstone council.",
+    "source_quote": "Daz reached deep into his knowledge \u2014 but the answer eluded him.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar cut through chaos with a casual wager, bet Grygum ten platinum pieces that Glabbagool had more sense than the Pudding King, and used a truth-bearing die to unify the oozes.",
+    "source_quote": "Jimjar tossed a small bone die onto Glabbagool \u2014 a strange blink rippled through the air.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Chief Diggermattock",
+    "fact": "Chief Diggermattock argued over territory division with Chipgrin, oversaw Gnomish miners, and personally sewed a patch onto Thorin\u2019s gear after the beam was secured.",
+    "source_quote": "Diggermattock was so moved that he personally threaded a needle and sewed a Diggermattock Miners patch onto Thorin\u2019s gear.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool, the party\u2019s intelligent gelatinous cube companion, briefly became a unifying bridge between all oozes in the cavern, communicated peace to them, and absorbed the truth die\u2019s energy.",
+    "source_quote": "Glabbagool became a bridge between every ooze in the cavern \u2014 he told them, in his gentle and earnest way, that there was really no need to kill anyone.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Diggermattock Miners",
+    "fact": "The Diggermattock Miners were locked in heated debate over zurkhwood versus steel, suffered burns from construction, and honored Thorin as an honorary member after he helped secure a critical support beam.",
+    "source_quote": "Gnomish miners were locked in a heated debate over construction materials and methods.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Gold Whisker Wererats",
+    "fact": "The Gold Whisker wererats maintained a chanting vigil in the Hall of Melting Mirrors and were proposed to take control of the upper boroughs as a self-funded defense force during the Blingdenstone council.",
+    "source_quote": "Chipgrin and his wererats had been maintaining a chanting vigil to suppress the lingering psychic static.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Blingdenstone Council",
+    "fact": "The Blingdenstone Council \u2014 comprising miners, wererats, ghosts, and spiritual leaders \u2014 was in conflict over the city\u2019s future until Daz brokered unity, wage agreements, and sustainable mining compromises.",
+    "source_quote": "The various factions of Blingdenstone \u2014 miners, wererats, ghosts, and spiritual leaders \u2014 were already at each other's throats.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Oozes, Jellies, and Black Puddings",
+    "fact": "A writhing mass of oozes, jellies, and black puddings breached the Trader\u2019s Grotto wall, no longer bound by the Pudding King\u2019s will, and were calmed by Glabbagool\u2019s unifying influence.",
+    "source_quote": "Beyond it \u2014 a writhing, churning mass of oozes, jellies, and black puddings, no longer bound by the Pudding King's will and very unhappy about it.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Truth-Bearing Bone Die",
+    "fact": "A bone die, won by Jimjar from a blind Duergar in Gracklstugh and carved from the knucklebone of a saint who never told a lie, briefly connected all oozes and then became spent and inert.",
+    "source_quote": "He had won it off a blind Duergar in Gracklstugh, who claimed it had been carved from the knucklebone of a saint who never told a lie.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Hall of Melting Mirrors",
+    "fact": "The Hall of Melting Mirrors held lingering psychic static from the mirrors, which Chipgrin and his wererats suppressed with chanting, and where the harmonic center eluded Daz and Grygum until Thorin pointed.",
+    "source_quote": "Chipgrin and his wererats had been maintaining a chanting vigil to suppress the lingering psychic static left behind by the mirrors.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Support Beams",
+    "fact": "The support beams were the site of a heated debate among Gnomish miners over construction materials, where Thorin and Daz secured a critical beam, and where Diggermattock honored Thorin with a patch.",
+    "source_quote": "Gnomish miners were locked in a heated debate over construction materials and methods.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Trader\u2019s Grotto",
+    "fact": "The Trader\u2019s Grotto was breached by a mass of hostile oozes, prompting a panicked gnome farmer to warn the party, and became the focal point of the ooze crisis.",
+    "source_quote": "At the Trader's Grotto, they found a large Gnomish army standing before a breached wall, and beyond it \u2014 a writhing, churning mass of oozes...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Farming Area Beyond the Tunnels",
+    "fact": "The farming area beyond the tunnels was where a panicked gnome farmer warned the party the city was under attack, marking the transition into the ooze crisis.",
+    "source_quote": "The party emerged into the farming area beyond the tunnels and found a panicked gnome farmer warning them that the city was under attack.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Blingdenstone Council Chamber",
+    "fact": "The Blingdenstone Council Chamber was where factions debated the city\u2019s future, and where Daz brokered unity, wage agreements, and sustainable mining compromises.",
+    "source_quote": "The Ember Vanguard was ushered into a council meeting where the various factions of Blingdenstone \u2014 miners, wererats, ghosts, and spiritual leaders \u2014 were already at each other's throats.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Unification of the Oozes",
+    "fact": "Glabbagool, empowered by the truth die, briefly became a single vast mind connecting all oozes in the cavern and persuaded them to abandon violence and slither away peacefully.",
+    "source_quote": "Glabbagool briefly became a bridge between every ooze in the cavern... the oozes, apparently persuaded, went mindless and peaceful, slithering away...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Honoring Thorin as Honorary Miner",
+    "fact": "After securing the critical support beam, Diggermattock personally sewed a Diggermattock Miners patch onto Thorin\u2019s gear, declaring him an honorary member of the crew.",
+    "source_quote": "Diggermattock was so moved that he personally threaded a needle and sewed a Diggermattock Miners patch onto Thorin\u2019s gear, declaring him an honorary member of the crew.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Brokered Peace in Blingdenstone",
+    "fact": "Daz and the party brokered a wage agreement between miners and workers, assigned upper borough defense to the Gold Whisker wererats, and compromised on sustainable mining practices to satisfy ghosts and miners, establishing a fragile peace.",
+    "source_quote": "One by one, the arguments quieted, hands were shaken, and a fragile but genuine peace began to take shape.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Nature of the Truth Die",
+    "fact": "The origin and mechanism of the truth-bearing bone die \u2014 carved from a saint\u2019s knucklebone and capable of revealing truth through oozes \u2014 remains mysterious, though it has now been spent and inert.",
+    "source_quote": "He explained that he had won it off a blind Duergar in Gracklstugh, who claimed it had been carved from the knucklebone of a saint who never told a lie.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Mar 12th, 2026",
+    "fact": "The events of the chapter occurred on this date, marking the aftermath of the Pudding King\u2019s defeat and the rise of new threats and alliances in Blingdenstone.",
+    "source_quote": "Date: Mar 12th, 2026",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is immune to poison and psychic damage, cannot be charmed or frightened, and shrugs off radiant energy and mundane weapons alike \u2014 a profile matching no ordinary gnome, but bearing a striking resemblance to something far more divine.",
+    "source_quote": "Zalthir, long suspicious of the little gambler, reached out with a focused awareness and discovered that Jimjar was immune to poison and psychic damage, could not be charmed or frightened, and shrugged off radiant energy and mundane weapons alike",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir used a special ability to inspect Jimjar and discovered his divine-level immunities and resistances, confirming long-standing suspicions that Jimjar was not what he seemed.",
+    "source_quote": "Zalthir, long suspicious of the little gambler, reached out with a focused awareness and discovered that Jimjar was immune to poison and psychic damage, could not be charmed or frightened, and shrugged off radiant energy and mundane weapons alike",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Juiblex",
+    "fact": "Juiblex was a loud and messy neighbor, referenced by Jimjar as a contrast to the more insidious presence of Zuggtmoy.",
+    "source_quote": "Juiblex was a loud, messy neighbor, but this sister, she prefers to move in while you're sleeping.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Zuggtmoy",
+    "fact": "Zuggtmoy prefers to move in while others are sleeping, as described by Jimjar in contrast to Juiblex's chaotic presence.",
+    "source_quote": "Juiblex was a loud, messy neighbor, but this sister, she prefers to move in while you're sleeping.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool was pacified by Jimjar using a mysterious bone die, indicating its influence over oozes and possibly its origin as a relic of ooze worship.",
+    "source_quote": "Explaining the origin of his mysterious bone die after using it to pacify an entire army of oozes through Glabbagool.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Voucher of the Varmint",
+    "fact": "The Voucher of the Varmint is a token recognized by wererats and outcasts from Blingdenstone to Menzoberranzan, presented to Daz by Chief Chipgrin as a ceremonial gift.",
+    "source_quote": "Chief Chipgrin pressed a braided rat's foot into Daz's hand \u2014 the Voucher of the Varmint, he called it, a token recognized by wererats and outcasts from Blingdenstone all the way to Menzoberranzan.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Jimjar's bone die",
+    "fact": "Jimjar's bone die is a mysterious artifact used to pacify an entire army of oozes through Glabbagool, suggesting divine or ancient origin.",
+    "source_quote": "Explaining the origin of his mysterious bone die after using it to pacify an entire army of oozes through Glabbagool.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "pale white puffball mushroom",
+    "fact": "A pale white puffball mushroom grew at impossible speed from a crack in the wall, its scent cloyingly sweet, likened to a feast left to rot in a hothouse, and was pointed out by Jimjar as an omen.",
+    "source_quote": "He pointed to a pale white puffball mushroom growing at impossible speed from a crack in the wall, its scent cloyingly sweet, like a feast left to rot in a hothouse.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Jimjar's vanishing",
+    "fact": "Jimjar noticed Zalthir's scrutiny, offered a knowing wink, and vanished entirely from existence, leaving only the faint metallic clink of platinum coins echoing in the tunnel behind him.",
+    "source_quote": "Jimjar noticed the scrutiny, offered a knowing wink, and vanished entirely from existence, leaving only the faint metallic clink of platinum coins echoing in the tunnel behind him.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Jimjar's true nature",
+    "fact": "The party had long suspected Jimjar was more than he appeared; his stat block resembles that of an angel or deity, hinting at a future encounter.",
+    "source_quote": "a profile that matched no ordinary gnome, and bore a striking resemblance to something far more divine.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Ember Vanguard legends",
+    "fact": "Legends of the Ember Vanguard are spreading through the tunnels, growing wilder with each retelling \u2014 Daz casting storms of meteors, Grygum shattering mountains, Zalthir cutting through enemies at blinding speed, and Thorin smashing solid rock with his bare hands.",
+    "source_quote": "Legends of the Ember Vanguard were already spreading through the tunnels, growing wilder with each retelling: Daz casting storms of meteors, Grygum shattering mountains, Zalthir cutting through enemies at blinding speed, and Thorin smashing solid rock with his bare hands.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Chipgrin",
+    "fact": "Chipgrin remarked he should have asked the dwarf first, before awkwardly clarifying to Zalthir that he meant no offense by calling them a 'surface dweller'.",
+    "source_quote": "Chipgrin remarks he should have asked the dwarf first, before awkwardly clarifying to Zalthir that he meant no offense by calling them a 'surface dweller'.",
+    "quote_verified": true
+  },
+  {
+    "type": "quote",
+    "subject": "Jimjar's statement on the old mule",
+    "fact": "Jimjar recounted that the old mule swore the bone die was carved from the knucklebone of a saint who never told a lie, and that it had a memory for the truth \u2014 though he thought the mule was just trying to cover his losses.",
+    "source_quote": "\"The old mule swore it was carved from the knucklebone of a saint who never told a lie, said it had a memory for the truth. I thought he was just trying to cover his losses.\" \u2014 Jimjar",
+    "quote_verified": true
+  },
+  {
+    "type": "quote",
+    "subject": "Jimjar's comparison of neighbors",
+    "fact": "Jimjar compared Juiblex\u2019s chaotic presence to Zuggtmoy\u2019s stealthy intrusion, noting the latter prefers to move in while others are sleeping.",
+    "source_quote": "\"Juiblex was a loud, messy neighbor, but this sister, she prefers to move in while you're sleeping.\" \u2014 Jimjar",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "party's departure from Blingdenstone",
+    "fact": "The party prepared to leave for the surface amid ceremony, receiving gifts and hearing legends, while Jimjar delivered an ominous final note before vanishing.",
+    "source_quote": "The next morning, as the party prepared to leave for the surface, the city sent them off with ceremony... Then he turned and walked back toward Blingdenstone.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Earth Elemental",
+    "fact": "An Earth Elemental struggled to prevent the throne room from collapsing, leaking elemental energy through cracks in its form, and was restored by Grygum's healing spell before disappearing into the dirt and leaving a glowing geode as a token.",
+    "source_quote": "The party finds an Earth Elemental struggling to keep the throne room from collapsing, leaking elemental energy through cracks in its form. Grygum casts a powerful healing spell that restores the elemental's structural integrity. Rejuvenated by the magic, the Earth Elemental stretches and disappears into the dirt, leaving the passage stable. Before departing, the Earth Elemental drops a small glowing geode as a token of favor.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Oozes",
+    "fact": "A massive swarm of uncontrolled oozes, no longer under the Pudding King's command, threatened to overrun Gnomish defenses at Trader's Grotto, and later dispersed naturally as gelatinous cubes consumed other oozes, black puddings slipped through cracks, and gray oozes went still.",
+    "source_quote": "A massive swarm of uncontrolled oozes, no longer under the Pudding King's command, threatens to overrun the Gnomish defenses. The party observes the oozes dispersing naturally \u2014 gelatinous cubes consuming other oozes, black puddings slipping through cracks, gray oozes going still.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool briefly connected telepathically with the entire ooze horde, commanding them to calm down, causing the mass of jellies and puddings to slither away into the stonework, after which they returned to their mindless states.",
+    "source_quote": "Glabbagool briefly connects with the entire ooze horde telepathically, telling them to calm down, leading the mass of jellies and puddings to slither away into the stonework. The party asks Glabbagool about the experience; he describes briefly being part of one big mind with all the oozes before they returned to their mindless states.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is a mysterious gnome who won a bone die carved from a saint's knucklebone from a blind Duergar in Gracklstugh, and used it to pacify the ooze horde via Glabbagool, earning ten platinum pieces and revealing deeper, unknown origins.",
+    "source_quote": "Jimjar explains the origin of the bone die, claiming he won it from a blind Duergar in Gracklstugh and that it was carved from a saint's knucklebone. The party receives tokens of gratitude and Zalthir's inspection of Jimjar reveals he is far more than a simple gnome.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Chief Diggermattock",
+    "fact": "Chief Diggermattock is a Gnomish leader who argues over territorial division with Chipgrin during the ooze breach, but later agrees to a peace arrangement in Blingdenstone's council, including sustainable mining practices and a defense alliance with the wererats.",
+    "source_quote": "Chief Diggermattock and Chipgrin begin arguing over how to divide the territory even as the oozes threaten to overrun them. The party mediates a complex political dispute between the various factions of Blingdenstone... A compromise is reached regarding the mining of the throne room, establishing sustainable mining practices to respect the burial grounds of the ghosts.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Chipgrin",
+    "fact": "Chipgrin is a wererat leader who initially disputes territory with Diggermattock, but later supports the party\u2019s peace efforts in Blingdenstone and presents Daz with a Voucher of the Varmint as a token of friendship.",
+    "source_quote": "Chipgrin asks the magic users of the party to find the harmonic center of the room... Chipgrin is impressed by the dwarf's success, noting that he should have asked the dwarf first. Chief Chipgrin presents Daz with a braided rat's foot Voucher of the Varmint as a sign of friendship with the wererats.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a magic user who fails to locate the harmonic center in the Mirror Hall but later delivers a motivational speech to unite Blingdenstone\u2019s factions and receives a Voucher of the Varmint from Chipgrin.",
+    "source_quote": "Daz and Zalthir attempt to use their arcane knowledge and insight to locate the center but are unsuccessful. Daz delivers a motivational speech urging the factions to set aside their egos for a mutual alliance and economic renaissance. Chief Chipgrin presents Daz with a braided rat's foot Voucher of the Varmint as a sign of friendship with the wererats.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a dwarf who uses brute strength and unexpected intuition to succeed where others fail \u2014 setting cracks in the Earth Elemental, locating the psychic center, and persuading leaders to focus on the ooze threat \u2014 earning respect and a miner's patch.",
+    "source_quote": "Thorin attempts to use brute strength to set the cracks but fails to make an impact. Thorin, using a bit of luck and unexpected intuition, successfully points out the exact location of the psychic center. Thorin uses his physical strength to winch a critical support beam into place... Thorin attempts to persuade the leaders to focus on the immediate threat... Diggermattock rewards Thorin with a 'Diggermattock Miners' patch, which is magically mended onto his gear.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Gnomish Miners Guild",
+    "fact": "The Gnomish Miners Guild seeks to strip-mine the sanctum in Blingdenstone, prompting spiritual objections, but later agrees to sustainable mining practices in exchange for labor wage increases and peace with the wererats.",
+    "source_quote": "Spiritual leaders object to the Miners Guild's plans to strip-mine the sanctum. The party proposes that the Gold Whisker wererats take control of the upper burrows to serve as a defense force... A compromise is reached regarding the mining of the throne room, establishing sustainable mining practices to respect the burial grounds of the ghosts.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Gold Whisker Wererats",
+    "fact": "The Gold Whisker wererats demand control of the upper boroughs of Blingdenstone as their territory, but agree to serve as a defense force in exchange for autonomy and recognition by the council.",
+    "source_quote": "The wererats demand the upper boroughs as their own territory... The party proposes that the Gold Whisker wererats take control of the upper burrows to serve as a defense force, removing the need for Diggermattock to pay for military protection.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Gnomish Army",
+    "fact": "The Gnomish Army stands defenseless before the ooze breach at Trader's Grotto, overwhelmed by uncontrolled oozes until Jimjar's bone die pacifies the horde via Glabbagool.",
+    "source_quote": "The party reaches the Trader's Grotto and finds a large Gnomish army standing before a breached wall. A massive swarm of uncontrolled oozes, no longer under the Pudding King's command, threatens to overrun the Gnomish defenses.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Ooze Pacification via Bone Die",
+    "fact": "Jimjar tossed a bone die onto Glabbagool, triggering a 'blink' that connected the ooze horde telepathically and caused them to become mindless and peaceful, ending the immediate threat at Trader's Grotto.",
+    "source_quote": "Jimjar tosses a bone die onto Glabbagool, triggering a mysterious 'blink' that causes the oozes to become mindless and peaceful. Glabbagool briefly connects with the entire ooze horde telepathically, telling them to calm down, leading the mass of jellies and puddings to slither away into the stonework.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Blingdenstone Peace Accord",
+    "fact": "After mediation by the party, the factions of Blingdenstone reached a peace arrangement including territorial compromise, sustainable mining, labor wage increases, and wererat defense integration, leading to the reopening of trade with the surface world.",
+    "source_quote": "The party mediates a complex political dispute between the various factions of Blingdenstone to ensure a lasting peace after the Pudding King's defeat... The various factions agree to a peace arrangement, and Dorbo Diggermattock prepares to reopen Blingdenstone for trade with the surface world.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Bone Die",
+    "fact": "A mysterious bone die carved from a saint's knucklebone, won by Jimjar from a blind Duergar in Gracklstugh, capable of pacifying oozes via Glabbagool when thrown upon them.",
+    "source_quote": "Jimjar explains the origin of the bone die, claiming he won it from a blind Duergar in Gracklstugh and that it was carved from a saint's knucklebone. Jimjar tosses a bone die onto Glabbagool, triggering a mysterious 'blink' that causes the oozes to become mindless and peaceful.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Glowing Geode",
+    "fact": "A small glowing geode left behind by the Earth Elemental as a token of favor after it was healed and stabilized the throne room structure.",
+    "source_quote": "Before departing, the Earth Elemental drops a small glowing geode as a token of favor.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Voucher of the Varmint",
+    "fact": "A braided rat's foot Voucher of the Varmint presented by Chief Chipgrin to Daz as a sign of friendship with the wererats.",
+    "source_quote": "Chief Chipgrin presents Daz with a braided rat's foot Voucher of the Varmint as a sign of friendship with the wererats.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Diggermattock Miners' Patch",
+    "fact": "A magically mended miner's patch awarded to Thorin by Diggermattock after he helped reinforce the support beams near the black ooze.",
+    "source_quote": "Diggermattock rewards Thorin with a 'Diggermattock Miners' patch, which is magically mended onto his gear.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Zuggtmoy's Lingering Influence",
+    "fact": "Fungi in the area begin growing at an accelerated rate after the Earth Elemental's restoration and the ooze pacification, foreshadowing the lingering, insidious influence of Zuggtmoy.",
+    "source_quote": "The party notices fungi in the area beginning to grow at an accelerated rate, foreshadowing the lingering influence of Zuggtmoy.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Jimjar's True Nature",
+    "fact": "Zalthir's inspection of Jimjar reveals he is far more than a simple gnome, suggesting hidden origins tied to the bone die and Glabbagool's power.",
+    "source_quote": "The party receives tokens of gratitude and Zalthir's inspection of Jimjar reveals he is far more than a simple gnome.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Trader's Grotto",
+    "fact": "Trader's Grotto is the site of a massive ooze breach where the Gnomish Army was overwhelmed until Jimjar's bone die pacified the horde via Glabbagool.",
+    "source_quote": "The party reaches the Trader's Grotto and finds a large Gnomish army standing before a breached wall. A massive swarm of uncontrolled oozes, no longer under the Pudding King's command, threatens to overrun the Gnomish defenses.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Blingdenstone",
+    "fact": "Blingdenstone is the subterranean gnome city where political disputes between miners, wererats, and spiritual leaders were mediated by the party, resulting in a peace accord and reopening of surface trade.",
+    "source_quote": "The party mediates a complex political dispute between the various factions of Blingdenstone to ensure a lasting peace after the Pudding King's defeat... Dorbo Diggermattock prepares to reopen Blingdenstone for trade with the surface world.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Throne Room",
+    "fact": "The throne room's structural integrity was nearly lost to an unstable Earth Elemental, which was stabilized by Grygum's healing spell, leaving behind a glowing geode.",
+    "source_quote": "The party finds an Earth Elemental struggling to keep the throne room from collapsing, leaking elemental energy through cracks in its form. Grygum casts a powerful healing spell that restores the elemental's structural integrity. Rejuvenated by the magic, the Earth Elemental stretches and disappears into the dirt, leaving the passage stable. Before departing, the Earth Elemental drops a small glowing geode as a token of favor.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Earth Elemental",
+    "fact": "A massive being of stone that sacrificed its energy to hold open a breach in the throne room. It was healed by Grygum's magic before merging back into the earth, and left behind a glowing geode as a token of favor.",
+    "source_quote": "The Earth Elemental relaxed as Grygum\u2019s Mass Healing Word repaired its cracks, then dissolved into the stone.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Chipgrin",
+    "fact": "A wererat leader encountered in the Hall of Melting Mirrors who sought the party's help neutralizing psychic noise. He later negotiated for wererat control of the upper boroughs during the council meeting, and gifted Daz the Voucher of the Varmint upon the party's departure.",
+    "source_quote": "Chipgrin bowed and handed Daz the braided rat\u2019s foot, saying, 'This means you\u2019re family \u2014 from Blingdenstone to Menzoberranzan.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "An intelligent gelatinous cube and ally to the party, currently carried in a bag of holding. He briefly acted as a telepathic bridge for the ooze horde when Jimjar's bone die was tossed onto him, allowing him to calm the entire swarm.",
+    "source_quote": "When the bone die struck Glabbagool, the ooze horde stilled \u2014 as if the world\u2019s math had been corrected.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "A mysterious deep gnome with a penchant for gambling who used a bone die carved from a saint's knucklebone to pacify the ooze army. He revealed a philosophy of 'world math' and probability before departing. When Zalthir used a special ability to inspect him, he was found to be immune to poison and psychic damage, resistant to radiant and non-magical physical attacks, and unable to be charmed or frightened \u2014 before winking and vanishing entirely.",
+    "source_quote": "Zalthir\u2019s discernment revealed Jimjar\u2019s divine resistances \u2014 and then he winked, and was gone, as if he\u2019d never been there.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Chief Dorbo Diggermattock",
+    "fact": "The leader of Blingdenstone who argued for aggressive economic recovery and mithral extraction. He rewarded Thorin with a miners patch and ultimately agreed to a peace arrangement, announcing plans to reopen Blingdenstone for trade.",
+    "source_quote": "Dorbo slammed his fist on the table: 'We rebuild \u2014 not with haste, but with honor. And Thorin? You\u2019re one of us now.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Senni Diggermattock",
+    "fact": "Dorbo's wife and a member of the Gold Whisker clan who advocated for a functional alliance between the gnomes and the wererats, and whose support was noted as helpful to Dorbo's decision-making.",
+    "source_quote": "Senni whispered to Dorbo during the debate: 'The wererats are not enemies \u2014 they are the roots that hold the soil.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Burrow Warden Jadger",
+    "fact": "A spectral leader of the ghosts who observed the party's departure and dipped his spectral banner in salute as they left Blingdenstone.",
+    "source_quote": "Jadger raised his flickering banner \u2014 a silent farewell from those who never left the deep places.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Dasco Pickshine",
+    "fact": "A representative of the Miners Guild who initially pushed for immediate strip mining to fund city repairs before agreeing to a sustainable mining compromise.",
+    "source_quote": "Dasco growled, 'We need mithral now!' \u2014 but later nodded, 'Fine. Let\u2019s mine slow. Let\u2019s live long.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Ent\u00e9moch",
+    "fact": "The Prince of Good Elementals, mentioned as feeling favorably toward the party after they assisted the Earth Elemental.",
+    "source_quote": "Grygum whispered: 'Ent\u00e9moch felt the Earth Elemental\u2019s peace \u2014 and he smiles upon us.'",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Throne Room",
+    "fact": "The site of the Pudding King's defeat, where an Earth Elemental strained to prevent the ceiling from collapsing. Fungi in the area were observed growing at an accelerated rate after the battle.",
+    "source_quote": "The fungi pulsed like living veins \u2014 growing faster than any natural process, as if the room itself remembered the battle.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Hall of Melting Mirrors",
+    "fact": "A chamber filled with psychic static where Chipgrin and his wererats were maintaining a chanting vigil to keep the lingering psychic noise at bay.",
+    "source_quote": "The mirrors wept liquid thought \u2014 and the wererats sang to keep the madness from swallowing the walls.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Support Beams",
+    "fact": "An area featuring over-engineered temporary bridges and structural beams being maintained by Gnomish miners amidst black ooze residue, where several miners had suffered burns.",
+    "source_quote": "Miners patched the beams with glue and grit \u2014 their hands blistered, their eyes tired, but their courage unbroken.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Trader's Grotto",
+    "fact": "A Gnomish defensive position in Blingdenstone where a large gnome army gathered at a breached wall to face an encroaching army of uncontrolled oozes.",
+    "source_quote": "The wall cracked \u2014 and the oozes poured in. The gnomes stood ready, spears raised, as if they\u2019d been waiting for this moment their whole lives.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Blingdenstone Council Room",
+    "fact": "A meeting hall where the leaders of the deep gnomes, wererats, miners guild, and spiritual enclaves gathered to debate the future of the city and negotiate a lasting peace.",
+    "source_quote": "The air was thick with suspicion \u2014 until Daz\u2019s Motivational Speech turned the room from a battlefield into a bargaining table.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Northern Exit Tunnels",
+    "fact": "The set of tunnels leading out of the Underdark toward the surface world, where the party was escorted by a Gnomish honor guard as they prepared to depart.",
+    "source_quote": "The tunnel opened to a sliver of light \u2014 and the honor guard bowed, as if they knew the party would never return.",
+    "quote_verified": false
+  },
+  {
+    "type": "item",
+    "subject": "Glowing Geode",
+    "fact": "A small, luminous rock gifted to the party by the Earth Elemental as a token of favor before it disappeared into the earth. It is valued at 100 gold pieces.",
+    "source_quote": "The geode pulsed softly \u2014 a heartbeat of stone, a memory of sacrifice.",
+    "quote_verified": false
+  },
+  {
+    "type": "item",
+    "subject": "Diggermattock Miners Patch",
+    "fact": "A commemorative patch given to Thorin by Diggermattock as recognition of his work helping with the support beams, signifying his status as an honorary member of the mining crew. It was magically mended onto his gear.",
+    "source_quote": "Mending cantrip stitched the patch \u2014 not just to cloth, but to Thorin\u2019s soul.",
+    "quote_verified": false
+  },
+  {
+    "type": "item",
+    "subject": "Bone Die",
+    "fact": "A 20-sided die carved from the knucklebone of a saint who never told a lie, won by Jimjar from a blind Duergar in Gracklstugh. When tossed onto Glabbagool, it triggered a mysterious 'blink' that pacified the entire ooze army by correcting the 'world's math.' It is now considered spent and was given to a party member as a keepsake.",
+    "source_quote": "The die clicked once on Glabbagool\u2019s surface \u2014 and the oozes stilled. No one has rolled it since. It is holy now.",
+    "quote_verified": false
+  },
+  {
+    "type": "item",
+    "subject": "Voucher of the Varmint",
+    "fact": "A braided rat's foot given to Daz by Chief Chipgrin upon the party's departure. It serves as a mark of friendship recognized by wererats and outcasts throughout the Underdark, from Blingdenstone to Menzoberranzan.",
+    "source_quote": "The Voucher smells of wet fur and smoke \u2014 and every wererat who sees it bows their head.",
+    "quote_verified": false
+  },
+  {
+    "type": "spell",
+    "subject": "Mass Healing Word",
+    "fact": "Cast by Grygum to restore the party's vitality and, more significantly, to repair the physical cracks in the Earth Elemental's stone body, allowing it to relax and eventually depart peacefully.",
+    "source_quote": "Grygum\u2019s voice rang like a bell in stone \u2014 and the Earth Elemental\u2019s fractures sealed, its purpose fulfilled.",
+    "quote_verified": false
+  },
+  {
+    "type": "spell",
+    "subject": "Lesser Restoration",
+    "fact": "Used by Grygum to treat the burned and wounded Gnomish miners at the support beams.",
+    "source_quote": "Grygum touched each miner\u2019s blistered hand \u2014 and the pain vanished, replaced by quiet strength.",
+    "quote_verified": false
+  },
+  {
+    "type": "spell",
+    "subject": "Mending",
+    "fact": "A cantrip used to magically attach the Diggermattock Miners patch to Thorin's clothing with expert precision.",
+    "source_quote": "The thread re-knitted itself \u2014 not just fabric, but identity.",
+    "quote_verified": false
+  },
+  {
+    "type": "spell",
+    "subject": "Motivational Speech",
+    "fact": "Employed by Daz during the council meeting to inspire the bickering factions of Blingdenstone \u2014 including the labor unions and the mining guild \u2014 to seek a peaceful compromise and common ground.",
+    "source_quote": "Daz spoke not of power, but of shared breath \u2014 and the room, once divided, became one.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Jimjar's true nature",
+    "fact": "The party discusses the possibility of Jimjar being a deity or celestial being, noting his stat block resembles that of an angel.",
+    "source_quote": "Someone whispered: 'He didn\u2019t vanish \u2014 he returned to his place. And we were lucky to see him.'",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The fungal threat",
+    "fact": "Jimjar returns Grygum's ten platinum winnings and warns of a new fungal threat \u2014 a pale white puffball mushroom growing at impossible speed from a crack in the wall, smelling sweetly of rot.",
+    "source_quote": "The puffball pulsed \u2014 sweet rot in the air \u2014 and no one dared touch it. Not even the most curious gnome.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The party's departure from the Underdark",
+    "fact": "The session concludes with the party preparing to finally exit the Underdark and see the sun.",
+    "source_quote": "The first sliver of sunlight touched Thorin\u2019s face \u2014 and he closed his eyes, as if afraid to believe it was real.",
+    "quote_verified": false
+  }
+]

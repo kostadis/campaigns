@@ -1,0 +1,100 @@
+[
+  {
+    "type": "npc",
+    "subject": "Daral",
+    "fact": "Daral was cured of sickness by Dawnbringer, regained full health, and immediately began obsessively researching magical swords with sentience and beauty, declaring it his life\u2019s new subject.",
+    "source_quote": "I shall do all kinds of new research on magical swords, with the sentience and the beauty of Dawnbringer. I intend to make it an area of active research.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin wielded Dawnbringer in combat against helmed horrors, used its sap ability to disrupt enemy movement, and spent stored tactical tricks to correct missed strikes when geometry demanded it.",
+    "source_quote": "Alright \u2014 let's go ahead and attack. With Dawnbringer... This is good \u2014 let's do it again.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir identified helmed horrors as animated armor with hovering motion and glowing eyes, attempted verbal engagement, and used physical strikes to subdue them, aided by Glabbagool\u2019s acid attack.",
+    "source_quote": "Seems like it's a helmed horror? Is this, like, animated armor or something?... You're a popular guy!",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz was targeted by helmed horrors, evaded a fatal grab, initially misapplied mind-affecting spells, then switched to Scorching Ray to damage their armor, demonstrating adaptability in combat.",
+    "source_quote": "Alright \u2014 we're going to try Scorching Ray.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum stood in the path of a helmed horror, was shoved aside without effect, and later unleashed a burst of clean light that affected two horrors simultaneously.",
+    "source_quote": "Grygum stepped up and let go a burst of clean light that caught two of them at once, both flinching under it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Fembris",
+    "fact": "Fembris was stunned by the sudden appearance of helmed horrors and was rendered incapacitated by Thorin to remove him from tactical consideration.",
+    "source_quote": "Fembris just stood in shock. I clocked both of them and put them out of my head.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool, riding Zalthir\u2019s arm, performed an acid attack that dissolved helmed horror armor, consuming a piece of it entirely.",
+    "source_quote": "Glabbagool \u2014 riding his arm \u2014 did the acid trick. Plate hissed and ran.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "helmed horror",
+    "fact": "Helmed horrors were animated suits of plate armor with hovering motion, glowing eye-like lights, and no sentience \u2014 driven solely by objective-based programming, impervious to verbal persuasion, and vulnerable to fire and acid.",
+    "source_quote": "Suits of plate with nobody inside, walking and \u2014 this was the part that made my neck itch \u2014 hovering, lifting a hand's width off the floor and drifting. Little points of light where eyes should be.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is a sentient magical sword that absorbs praise and recognition, responds to its wielder\u2019s intent, and possesses a sap ability that slows and disrupts enemy movement.",
+    "source_quote": "Dawnbringer eats it up, I'm sure... a sword that spends its days pointed at fungus and undead, being told at length that it is beautiful, that it is worthy of study \u2014 I watched the whole demeanor of the thing open up.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "ambush of the helmed horrors",
+    "fact": "A sudden, three-directional ambush by helmed horrors occurred in Deneir's office, forcing the party into immediate combat after a moment of stunned inaction, resulting in coordinated use of fire, acid, light, and sword-sap to defeat the creatures.",
+    "source_quote": "Glass and wood came in at the same time, from three directions, and for a breath none of us had moved.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Deneir's office",
+    "fact": "Deneir's office was the site of the party\u2019s prolonged confinement, the healing of Daral, and the ambush by helmed horrors \u2014 a place of bureaucratic stillness suddenly shattered by violent intrusion.",
+    "source_quote": "So we sat in Deneir's office, fed by proxy, our patient healed, wondering how the story was going to end.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is a named magical sword that glows when activated, delivers precise strikes, and possesses an internal sap ability that disrupts enemy motion \u2014 it is sentient and responds to emotional validation.",
+    "source_quote": "The blade lit, poured into Daral, and took the sickness with it... Dawnbringer, do your thing.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "locked door",
+    "fact": "The party\u2019s escape was blocked by a locked door in Deneir\u2019s office, trapping them during Daral\u2019s healing and again during the helmed horror ambush \u2014 a persistent narrative obstacle hinting at external control or impending escalation.",
+    "source_quote": "Then Daral, glowing and cured and full of research, rose to leave \u2014 and found the door still locked. He was not going anywhere. None of us were.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occurred during a single, continuous session following the restoration of Daral and preceding the ambush \u2014 a narrative arc spanning healing, revelation, and sudden violence.",
+    "source_quote": "Then Daral... rose to leave \u2014 and found the door still locked... Combat? Zalthir said. Yes. Combat.",
+    "quote_verified": false
+  }
+]

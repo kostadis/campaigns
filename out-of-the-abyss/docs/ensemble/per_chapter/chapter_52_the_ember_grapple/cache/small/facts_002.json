@@ -1,0 +1,107 @@
+[
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is evaluating feats and abilities with surgical attention, prioritizing survivability, sustained casting, and escape utility, and has narrowed his choice to Fey Touched as the optimal fit for his spellbook access and spell selection strategy.",
+    "source_quote": "Fey Touched was a key, and the Ebonmire spellbook was a door I hadn't fully opened yet.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is quietly evaluating feats, showing minimal verbal engagement but deep internal consideration, and has been offered Street Justice by Daz to enhance his grappling capabilities with binding mechanics.",
+    "source_quote": "Feats, huh... Yeah, this'll take some time.",
+    "quote_verified": false
+  },
+  {
+    "type": "feat",
+    "subject": "Fey Touched",
+    "fact": "Fey Touched grants two additional spells to prepare and free castings, making it a strategic choice for Daz due to its synergy with the Ebonmire spellbook and its enhancement of spell selection over spell slot economy.",
+    "source_quote": "Fey Touched gives me two additional spells to prepare. Plus free castings.",
+    "quote_verified": true
+  },
+  {
+    "type": "feat",
+    "subject": "Warcaster",
+    "fact": "Warcaster improves concentration checks, allowing Daz to maintain spells like Hypnotic Pattern and Maximilian's Grasp under damage, making it a foundational option for sustained evocation under fire.",
+    "source_quote": "The ability to hold that concentration when something lands a hit is not decorative. It is the difference between the spell persisting and the spell dissolving at precisely the wrong moment.",
+    "quote_verified": false
+  },
+  {
+    "type": "feat",
+    "subject": "Misty Step",
+    "fact": "Misty Step allows Daz to teleport 30 feet as a bonus action, and when used without expending a spell slot, provides critical escape utility from grapples and avoids attacks of opportunity.",
+    "source_quote": "Being able to cast it without expending a spell slot is extremely useful. Because if you're in combat, it allows you to get out without incurring attacks of opportunity.",
+    "quote_verified": false
+  },
+  {
+    "type": "feat",
+    "subject": "Telekinetic",
+    "fact": "Telekinetic enables Daz to manipulate objects and creatures within 30 feet, including moving allies out of grapples or repositioning them, reframing the feat as a geometry tool rather than an offensive one.",
+    "source_quote": "I can aim this at allies and do things like get them out of a grapple. Move them five feet.",
+    "quote_verified": true
+  },
+  {
+    "type": "feat",
+    "subject": "Street Justice",
+    "fact": "Street Justice allows Zalthir to bind enemies he has already grappled using rope, transforming his grappling into a sustained control mechanic that complements his monk weapon focus.",
+    "source_quote": "The one that let him use rope to bind enemies he'd already grappled.",
+    "quote_verified": false
+  },
+  {
+    "type": "feat",
+    "subject": "Sculpt Spells",
+    "fact": "Sculpt Spells lets Daz carve safe zones into area-of-effect spells, enabling precise control over which allies are excluded from damaging zones, forming part of a larger system of battlefield geometry.",
+    "source_quote": "Sculpt Spells lets me carve exclusions into area effects.",
+    "quote_verified": true
+  },
+  {
+    "type": "spellbook",
+    "subject": "Ebonmire's Spellbook",
+    "fact": "Ebonmire's Spellbook is a captured resource containing numerous spells, serving as the key enabler for Daz\u2019s Fey Touched selection and the foundation of his expanded spell selection strategy.",
+    "source_quote": "The spellbook we'd taken from Princess Ebonmire had been sitting in my pack like a promissory note I hadn't finished reading.",
+    "quote_verified": true
+  },
+  {
+    "type": "concept",
+    "subject": "the long arrangement",
+    "fact": "The 'long arrangement' is a combat philosophy \u2014 emphasizing preparation, positioning, and spell selection as the true core of battle, not the moment of casting \u2014 derived from Milo Goodbarrel and internalized by Daz as an integrated system of evocation.",
+    "source_quote": "He called it 'the long arrangement' \u2014 the idea that the fight before the fight, the positioning, the preparation, is actually most of the fight.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "feats evaluation",
+    "fact": "Daz and Zalthir are both in the midst of a deep, unspoken evaluation of feats, with implications for their tactical roles and synergies, leaving the final decisions unresolved and open to future refinement.",
+    "source_quote": "I went back to my own list.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Zhentarim",
+    "fact": "The Zhentarim have survived by being willing to do what others won't, serving as a dark mirror for Daz\u2019s own moral compromises and reinforcing his belief that survival demands acceptance of absorbed truths.",
+    "source_quote": "The Zhentarim have survived by being willing to do what others won't.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Menzoberranzan",
+    "fact": "Menzoberranzan trained Daz to read moments of possibility with surgical attention, instilling in him a mindset of calculated choice and strategic patience that now guides his feat selection.",
+    "source_quote": "Menzoberranzan trained me to read that moment with surgical attention.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Underdark",
+    "fact": "The Underdark has repeatedly taught Daz that battles are decided by positioning and control of space, shaping his view of feats like Telekinetic as tools of geometry rather than raw power.",
+    "source_quote": "The Underdark had taught me repeatedly that battles are often decided by who is standing where.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "feats selection process",
+    "fact": "Daz is undergoing a multi-layered decision-making process involving synergy between feats, spellbook access, concentration durability, and battlefield control \u2014 forming a coherent evoker system rather than selecting isolated options.",
+    "source_quote": "These were not independent features. They were a system.",
+    "quote_verified": false
+  }
+]

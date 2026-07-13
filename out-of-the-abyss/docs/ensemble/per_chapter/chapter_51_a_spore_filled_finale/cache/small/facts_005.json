@@ -1,0 +1,135 @@
+[
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a former Menzoberranzan operative now operating in the Underdark, maintaining a fictional Lolth-follower identity to navigate alliances, and refusing to prioritize survival over participation in combat despite contractual pressures.",
+    "source_quote": "I am not gonna leave. Everyone here... to fight for me without me also participating. I don't give a damn if you get paid.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Nym Duskryn",
+    "fact": "Nym Duskryn is a contracted extractor sent to deliver Daz intact for payment, displaying professional exasperation at his refusal to comply with tactical caution, and redirecting frustration into a lethal inquiry about his brother.",
+    "source_quote": "Can I kill your brother?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kaelira Duskryn",
+    "fact": "Kaelira Duskryn is a contracted extractor who physically hauls Daz to safety, enforcing survival through force and urgency, and shares her sister\u2019s mission to deliver the package intact.",
+    "source_quote": "Come with me if you want to live, you idiot.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Asha Vandree",
+    "fact": "Asha Vandree is a devoted follower of Lolth who interprets all drow through the lens of her faith, readily accepting the fictional identity Daz maintains as consistent with Lolth-aligned intent.",
+    "source_quote": "Who are you? You must be traitors! Traitors to Lolth!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum observes events with the steady, record-keeping precision of a man who treats reality as data, and accepts Daz\u2019s fabricated identity as accurately described despite its falsehood.",
+    "source_quote": "The situation was 'accurately described' by Asha's characterization of me as an insane mage who had converted to Lolthism.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "T'sarran Soldiers",
+    "fact": "Elite drow soldiers contracted to resolve a crisis, now paralyzed by logistical failure \u2014 lacking Dispel Magic and debating tactics while under attack, embodying a petty, aesthetic form of defeat.",
+    "source_quote": "I thought you said this was going to be an easy kill.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Corrupted High Priestess",
+    "fact": "A powerful, corrupted drow priestess engaged in active combat with Thorin, Grygum, and Zalthir, surrounded by biting insects and reinforced by Drow warriors.",
+    "source_quote": "Thorin and Grygum and Zalthir are in active combat with a corrupted high priestess and a field of biting insects...",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Biting Insects",
+    "fact": "An inexhaustible swarm of aggressive insects forming a hazardous field that impedes combatants and contributes to the tactical chaos.",
+    "source_quote": "...a field of biting insects and what appears to be an inexhaustible supply of Drow reinforcements...",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Drow Reinforcements",
+    "fact": "Multiple drow warriors arriving in tactical formations, armed with crossbows and positioned to exploit surprise, now entangled in the same chaotic battlefield they were sent to control.",
+    "source_quote": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Lolth",
+    "fact": "The Spider Queen is the ideological anchor for Asha Vandree\u2019s worldview and the basis for Daz\u2019s fabricated identity, which functions as a social tool rather than a belief.",
+    "source_quote": "Asha is a Lolth-devotee; she has a ready-made slot in her worldview for 'Lolth-aligned drow who are here to help.'",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Menzoberranzan",
+    "fact": "The drow city-state is the origin of Daz\u2019s training, trauma, and identity, and the source of the societal structures he now rejects or manipulates.",
+    "source_quote": "What Menzoberranzan made me and what the Underdark has cost me...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz's Combat Refusal",
+    "fact": "Daz refuses to hide or comply with extraction protocols, choosing to remain in the fight despite the risk to his life and the payment terms of his extractors.",
+    "source_quote": "The best way for you to get paid, then, is to continue the fight and prevent all of us from dying.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Magic Misfire",
+    "fact": "A mage launches a lightning bolt into the cavern with full commitment, but it strikes only empty air, highlighting the chaotic and unpredictable nature of the battlefield.",
+    "source_quote": "The mage launched a lightning bolt into the cavern with real commitment. It hit nothing. Just open air and ambition.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Contract Viability",
+    "fact": "Nym Duskryn is calculating whether her contract to extract Daz remains viable given his refusal to cooperate, and whether her mission can still succeed.",
+    "source_quote": "Nym Duskryn had been watching all of this with the particular expression of someone who is calculating whether their contract is still viable.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Identity as Armor",
+    "fact": "Daz\u2019s fabricated identity as a Lolth-follower is no longer a lie but a functional tool \u2014 the question of its truth is irrelevant compared to its social efficacy.",
+    "source_quote": "I know what's real. But right now, in this cavern, Asha thinks I serve Lolth, and that belief is load-bearing.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Underdark Cavern",
+    "fact": "A confined, chittering, gas-filled cavern where combatants are trapped between Drow reinforcements, magical hazards, and internal conflict, serving as the stage for tactical absurdity and existential choices.",
+    "source_quote": "...the chittering wall of it while the poisonous gas did its work on both of us.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Shield Ward",
+    "fact": "A reactive magical ward that activates before conscious intent, saving Daz from a crossbow bolt and demonstrating the body\u2019s instinctual mastery over magic.",
+    "source_quote": "The first bolt hit my shield ward before I'd consciously decided to cast it.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Dispel Magic",
+    "fact": "The missing spell that would resolve the insect swarm and magical barriers, whose absence has rendered elite drow soldiers tactically inert despite superior numbers and equipment.",
+    "source_quote": "And you don't have a Dispel Magic.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Session Anchor",
+    "fact": "The events occur during an ongoing, unmarked session of combat and negotiation in the Underdark, with no temporal markers beyond immediate action and consequence.",
+    "source_quote": "I spent a moment noting the look on their faces.",
+    "quote_verified": true
+  }
+]

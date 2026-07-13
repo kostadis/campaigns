@@ -1,0 +1,121 @@
+[
+  {
+    "type": "npc",
+    "subject": "Vareth",
+    "fact": "Vareth is a half-elf scholar with a decades-long specialization in half-orc Bahamut converts, a once-obscure field that became a flood of interest after a living half-orc cleric of Bahamut appeared in his care. He now has funding, conference invitations, and is actively developing research proposals around 'Stroud's Gambit.'",
+    "source_quote": "Vareth grabbed my hand and practically dragged me. 'This is all fascinating! I have so many theories I wish to test out.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Stroud",
+    "fact": "Stroud is a dwarf who, despite having no formal chess training, defeated Protanther \u2014 an ancient gold dragon who had analyzed the same position for four hundred years \u2014 by making an unexpected, perfectly timed move that defied all calculated probability. His victory triggered a theological and academic upheaval, redefining Vareth\u2019s entire research field.",
+    "source_quote": "Stroud rolled \u2014 and it landed perfectly. Definitively. The kind of thing that doesn't just work, it announces itself.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Protanther",
+    "fact": "Protanther is an ancient gold dragon who spent four centuries mapping every possible chess move in a single position, believing himself certain of the outcome \u2014 until Stroud\u2019s inexplicable move shattered his certainty and led him to join the alliance.",
+    "source_quote": "Protanther had mapped every possible move. He was certain. And then Stroud rolled \u2014 and it landed perfectly.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The First Reader",
+    "fact": "The First Reader is an authoritative figure in the scholarly hierarchy who assigns research threads, clarifies doctrinal boundaries, and directs scholars to specific subjects \u2014 notably assigning Zalthir to the Jimjar thread and emphasizing that inquiries must focus on 'me' in particular, not the party generally.",
+    "source_quote": "The First Reader clarified: not about the party generally, but about me in particular.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a scholar assigned by the First Reader to the Jimjar thread, a research subject that dovetailed with the case of Khell-Vire \u2014 an avowed individual who sought to understand something specific, later revealed to be the narrator\u2019s personal theological transformation.",
+    "source_quote": "Zalthir got the Jimjar thread \u2014 which apparently dovetailed neatly with an avowed named Khell-Vire who wanted to learn about something specific.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a member of the party known for citing Malfire at every available opportunity, a habit so pervasive it has become an ambient, unchallenged feature of the group\u2019s dynamic \u2014 referenced as a kind of 'ambient weather condition' by the narrator.",
+    "source_quote": "I heard Grygum's name pulled into the discussion \u2014 Grygum, not me, which is how I know the sentence was reconstructed after the fact \u2014 but the content was accurate.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Philemon",
+    "fact": "Philemon is an avowed monk specializing in psychological preservation and historical cataloging of ancient sentient artifacts, with a tremendous track record of success in resolving interpersonal conflict among sentient artifacts. He was directed to by Thorin and Dawnbringer, who received his description with the satisfaction of having heard exactly what they needed.",
+    "source_quote": "described as 'an avowed monk specializing in psychological preservation and historical cataloging of ancient sentient artifacts, with a tremendous track record of success in working through the interpersonal conflict issues of the sentient artifact.'",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Bahamut's followers",
+    "fact": "The followers of Bahamut are undergoing a theological crisis triggered by the emergence of a half-orc cleric who defies traditional expectations of world domination, leading to widespread debate about Bahamut\u2019s intentions, the orc pantheon\u2019s stability, and whether this is part of a divine plan.",
+    "source_quote": "What did the sudden half-orc interest in Bahamut mean for the orc pantheon? Was it part of Bahamut's plan?",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Stroud's Gambit",
+    "fact": "Stroud's Gambit is the name given to the unexpected, perfectly timed chess move by Stroud that defeated Protanther after four centuries of analysis \u2014 a moment that became a legendary symbol of inexplicable divine alignment, redefining academic fields and inspiring new theological inquiry.",
+    "source_quote": "Stroud's Gambit.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Narrator's Conversion",
+    "fact": "The narrator\u2019s personal theological transformation \u2014 a half-orc cleric of Bahamut who has not entered the 'take over the world' phase \u2014 is the central data point in Vareth\u2019s revived research. It is the catalyst for the entire academic surge, and the subject of intense scrutiny, interviews, and theorizing.",
+    "source_quote": "I haven't moved into that phase yet.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Malfire Citations",
+    "fact": "The pervasive use of Malfire quotations throughout the party\u2019s discourse has become an unspoken cultural norm \u2014 a kind of ambient ritual that is neither questioned nor laughed at, but accepted as truth, even when misattributed or reconstructed after the fact.",
+    "source_quote": "As Malfire said in Volume 3.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Library",
+    "fact": "The library is a repository of hidden answers \u2014 containing the narrator\u2019s notes: the prayer book, theological documents, and accumulated Underdark evidence \u2014 where the true nature of Bahamut\u2019s intentions and the implications of the narrator\u2019s conversion may yet be uncovered.",
+    "source_quote": "Somewhere in the library, there were answers waiting. About Bahamut's intentions... I had notes \u2014 the prayer book, the theological documents...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "The Prayer Book",
+    "fact": "The prayer book is one of the narrator\u2019s key physical artifacts \u2014 part of a collection of theological documents and Underdark evidence used to trace the deeper implications of their conversion and Bahamut\u2019s plan.",
+    "source_quote": "I had notes \u2014 the prayer book, the theological documents, the accumulated evidence of months in the Underdark...",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Khell-Vire",
+    "fact": "Khell-Vire is an avowed individual who sought to learn about something specific \u2014 later revealed to be the narrator\u2019s personal theological state \u2014 and whose interest was deemed significant enough by the First Reader to be assigned as a formal research thread.",
+    "source_quote": "dovetailed neatly with an avowed named Khell-Vire who wanted to learn about something specific.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Four hundred years of analysis",
+    "fact": "The duration of Protanther\u2019s chess analysis \u2014 four centuries \u2014 represents an immense investment in certainty that was ultimately undone by a single, uncalculated act, underscoring the theme that preparation alone cannot predict divine alignment.",
+    "source_quote": "an ancient gold dragon who had been analyzing the same position for four hundred years.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Stroud's Gambit as Academic Term",
+    "fact": "The term 'Stroud's Gambit' \u2014 coined by the narrator \u2014 has been immediately adopted by Vareth as a foundational concept for his new research, signaling the transformation of a singular event into a scholarly paradigm with far-reaching theological implications.",
+    "source_quote": "'Stroud's Gambit.' Vareth stopped. His expression went through several stages very quickly \u2014 surprise, recognition, something that looked almost like delight at receiving a gift he hadn't known he wanted.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "The Narrator",
+    "fact": "The narrator is a half-orc cleric of Bahamut who defies traditional expectations of world domination, serves as the central data point in Vareth\u2019s research, and possesses an uncanny ability to name and crystallize pivotal moments \u2014 such as 'Stroud's Gambit' \u2014 that reshape entire fields of study. They are observant, detached, and deeply attuned to the quiet mechanics of fate.",
+    "source_quote": "I took notes. It's what I do.",
+    "quote_verified": true
+  }
+]

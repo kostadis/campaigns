@@ -1,0 +1,100 @@
+[
+  {
+    "type": "npc",
+    "subject": "Errde",
+    "fact": "Errde is a city protector linked to the Deepking\u2019s court, offering rewards for uncovering corruption tied to Droki, the Council of Savants, and the Clan Lairds. She controls access to freedom and armory resources.",
+    "source_quote": "Errde smiles, \"You have found me proof!\" ... \"And I can offer one more thing.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a confused but perceptive individual who echoes Errde\u2019s definition of corruption, repeats behaviors observed at the Blade Bazaar, and claims to recognize corruption in authoritarian systems.",
+    "source_quote": "Daz smiles, \"Yes, there was much of that going on.\" ... \"In this authoritarian, strict-as-rules city, what we saw is corruption.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Droki",
+    "fact": "Droki is the key figure linked to the Council of Savants and possibly the Clan Lairds, whose involvement in corruption is central to Errde\u2019s investigation and the reward structure.",
+    "source_quote": "Droki is the key to uncovering that corruption. He is linked to the Council of Savants and maybe even elements of the Clan Lairds.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Council of Savants",
+    "fact": "The Council of Savants is a faction suspected of involvement in the corruption at the heart of the Deepking\u2019s court, with Droki as a known link.",
+    "source_quote": "He is linked to the Council of Savants and maybe even elements of the Clan Lairds.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Clan Lairds",
+    "fact": "The Clan Lairds are a faction possibly entangled in the corruption within the Deepking\u2019s court, with Droki as a suspected intermediary.",
+    "source_quote": "He is linked to the Council of Savants and maybe even elements of the Clan Lairds.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Stone Guards",
+    "fact": "The Stone Guards are a potential faction under consideration by Thorin and Errde, but their role in the corruption remains ambiguous and unresolved.",
+    "source_quote": "Thorin pauses, \"Look, we want to know if this is for the Stone Guards or the City?\"",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Drow",
+    "fact": "A specific group of Drow is referenced as potentially searching for escaped slaves; Errde claims she can deny their presence, making her a critical ally for those seeking freedom.",
+    "source_quote": "If a particular group of Drow were to come looking for some escaped slaves, I could tell them that they are not here.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "corruption discovery",
+    "fact": "Errde has confirmed the discovery of corruption through Daz\u2019s observations and verbal alignment with her framework, triggering a reward offer.",
+    "source_quote": "Errde smiles, \"You have found me proof!\"",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "175 gold pieces of equipment",
+    "fact": "A reward of 175 gold pieces in equipment from the armory is offered by Errde upon provision of Droki and proof; a second 175 gold pieces is promised upon delivery.",
+    "source_quote": "I offer you 175 gold pieces of equipment from our armory. ... I will give you 175 more.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "escaped slaves",
+    "fact": "The whereabouts of escaped slaves and the potential arrival of Drow seeking them remain an unresolved plot thread, with Errde holding the power to conceal their location.",
+    "source_quote": "If a particular group of Drow were to come looking for some escaped slaves, I could tell them that they are not here.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "nature of corruption",
+    "fact": "The definition and manifestation of corruption are contested and evolving \u2014 framed as market rule-breaking, grift, chaos, and destruction \u2014 with no consensus among the characters.",
+    "source_quote": "Things were not proceeding according to the rules of the market, of the bazaar. It starts with not obeying the rules. Then it proceeds to grift, then chaos, and then destruction.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Blade Bazaar",
+    "fact": "The Blade Bazaar is a location where corrupt behaviors were observed and later repeated by Daz as evidence of systemic corruption.",
+    "source_quote": "And he repeats the behaviors at the Blade Bazaar.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "the city",
+    "fact": "The city is the primary setting of the corruption, the focus of Errde\u2019s protection mandate, and the domain where freedom and access are controlled.",
+    "source_quote": "It is my job to protect the city from corruption. So yes, it is for the city.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occur during a session following a prior encounter with the Duergar, establishing temporal continuity.",
+    "source_quote": "Thorin stares at him, confused, but remembers the previous encounter with the Duergar.",
+    "quote_verified": true
+  }
+]

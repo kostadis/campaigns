@@ -1,0 +1,149 @@
+[
+  {
+    "type": "npc",
+    "subject": "Asha Vandree",
+    "fact": "Asha Vandree is a drow who survived long enough to find spore-maddened lunatics willing to close lethal distance for her, using devotion as her shield and hatred as her weapon.",
+    "source_quote": "I was going to kill her. That is what you\u2026 where you come in.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jorlan",
+    "fact": "Jorlan is an uninfected human who resists corruption through hatred, serves as a tactical anchor, and inscribes Glyphs of Warding into terrain to control movement.",
+    "source_quote": "He moved to the crossing and started inscribing the Glyph of Warding into the stone itself.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a dwarf who carries a light crossbow, understands the danger of the Neverlight Grove artifact, and refuses to touch it \u2014 his silence with Thorin a blood oath.",
+    "source_quote": "Grygum had a light crossbow. I asked him for it. Simple transaction, no drama \u2014 he handed it over.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a pragmatic tactician who borrows weapons, observes with cold precision, and files useful people and positions into a mental archive labeled *useful people*.",
+    "source_quote": "I listened. I watched who spoke with certainty and who spoke with hedging.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a spellcaster who bypasses distance through teleportation, strikes without warning, and turns authority into target in the space of a decision.",
+    "source_quote": "One moment I was reading the geometry... and the next I was already there, adjacent, inside the radius where a priestess stops being an authority and becomes a target.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Lolth",
+    "fact": "Lolth is invoked as the source of spiritual compensation, with Asha Vandree claiming her gratitude is already received \u2014 a claim that signals detachment from conventional worship.",
+    "source_quote": "The gratitude of Lolth. I already feel the gratitude of Lolth. I have that.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Ilvara",
+    "fact": "Ilvara is a figure whose magical items are offered as payment, but are suspected of contamination \u2014 suggesting she is either compromised or dangerous.",
+    "source_quote": "She offered Ilvara's magical items as additional payment, with the caveat that they might be contaminated.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "crossing the bridge",
+    "fact": "Jorlan inscribed a Glyph of Warding into the bridge stone, creating an invisible, patient trap that activates on any hostile crossing \u2014 shifting tactical control of the chokepoint.",
+    "source_quote": "He moved to the crossing and started inscribing the Glyph of Warding into the stone itself.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's teleport strike",
+    "fact": "Zalthir teleported into combat range without warning, catching the target mid-decision and delivering a lethal strike \u2014 demonstrating mastery of surprise and timing.",
+    "source_quote": "I drove the weapon in. Sixteen. The grip locked.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "The Big Heart Fungus",
+    "fact": "The Big Heart Fungus is the primary weapon of corruption \u2014 a persistent, non-lethal entity that resists quick destruction and requires sustained damage.",
+    "source_quote": "The Big Heart Fungus was the primary weapon, would need sustained damage, would not die quickly or easily.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Gelatinous Familiar",
+    "fact": "A gelatinous familiar accompanies Asha Vandree \u2014 an unconventional companion suggesting her alignment with unnatural, fungal, or ooze-based entities.",
+    "source_quote": "a gelatinous familiar was, on balance, the best available instrument for killing someone she needed dead.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Mushroom Artifact from Neverlight Grove",
+    "fact": "The mushroom artifact from Neverlight Grove is the mechanism of corruption \u2014 a dangerous object that must not be touched, known to induce madness or transformation.",
+    "source_quote": "The mushroom artifact from Neverlight Grove was the mechanism of corruption.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Light Crossbow",
+    "fact": "A light crossbow, borrowed from Grygum, is the chosen ranged weapon \u2014 reliable, non-magical, and ideal for precise, non-committal engagement.",
+    "source_quote": "Grygum had a light crossbow. I asked him for it. Simple transaction, no drama \u2014 he handed it over and I checked the mechanism.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Glyph of Warding",
+    "fact": "A Glyph of Warding inscribed into bridge stone creates an invisible, persistent trap \u2014 activated by hostile movement, serving as a silent guardian of the chokepoint.",
+    "source_quote": "He moved to the crossing and started inscribing the Glyph of Warding into the stone itself.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "contaminated magical items",
+    "fact": "Ilvara's magical items may be contaminated \u2014 a potential trap or hidden threat that remains unverified and unaddressed.",
+    "source_quote": "She offered Ilvara's magical items as additional payment, with the caveat that they might be contaminated.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Asha's true loyalty",
+    "fact": "Asha Vandree claims Lolth\u2019s gratitude as sufficient \u2014 but her actions suggest deeper, unspoken motives, possibly independent of divine allegiance.",
+    "source_quote": "I already feel the gratitude of Lolth. I have that.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Neverlight Grove",
+    "fact": "Neverlight Grove is the source of the corrupting mushroom artifact \u2014 a place of unnatural growth, forbidden knowledge, and lethal enchantments.",
+    "source_quote": "The mushroom artifact from Neverlight Grove was the mechanism of corruption.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Bridge",
+    "fact": "The bridge is a chokepoint where Jorlan has inscribed a Glyph of Warding \u2014 now a silent, deadly barrier controlling all movement across it.",
+    "source_quote": "He moved to the crossing and started inscribing the Glyph of Warding into the stone itself.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occur during a single, continuous tactical engagement \u2014 no temporal gaps, no rest, no pause \u2014 all action unfolds in real-time under pressure.",
+    "source_quote": "I delivered it without a beat's pause. The dryness of it, I think, may have done more for the deluded-believer angle than anything else I'd attempted.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Jorlan's position",
+    "fact": "Jorlan is a known threat with a fixed location \u2014 his presence on the bridge is both tactical and psychological, a target waiting to be aimed at.",
+    "source_quote": "Jorlan is not complicated. Jorlan is a threat with a location, which is the best kind of threat because it tells you exactly where to aim.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the goal all along",
+    "fact": "The true objective \u2014 eyeing the prize \u2014 has never shifted, even as tactics, alliances, and weapons changed hands.",
+    "source_quote": "*The goal the whole time*, I thought. *Eyeing the prize.*",
+    "quote_verified": true
+  }
+]

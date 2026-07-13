@@ -1,0 +1,401 @@
+[
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "The city of Gracklstugh is a plain, functional work camp where buildings lack art, walls are unadorned, and the air is thick with acrid smoke from forges and smelters, making breathing difficult and burning the sense of smell.",
+    "source_quote": "The buildings are plain and functional. Whereas the Drow would have decorated their homes with etchings and art, the walls of the Duergar homes are plain. And the ambiance is just that of work. The sound of hammers warping metals, the stench and heat, and the light of the smelters make all of Gracklstugh appear as one large work camp. But the acrid smoke makes breathing hard and burns through his sense of smell, which he will remember most from his time here.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Blade Bazaar",
+    "fact": "The Blade Bazaar is a marketplace named after the most abundant goods the Duergar offer, where shops sell almost everything available in the city, alongside stalls by visiting merchants, and the din of people arguing in Dwarvish nearly drowns out the hammering from the city\u2019s forges, offering a good chance to slip away from pursuers.",
+    "source_quote": "This marketplace is named after the most abundant goods the duergar offer, but the shops here sell almost everything available in the city, along with stalls set up by visiting merchants. The din of people arguing, mainly in Dwarvish, nearly drowns out the hammering coming from the city\u2019s forges, and the crowds here offer a good chance to slip away from pursuers.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "The Tongue of Madness",
+    "fact": "The Tongue of Madness is a magical mushroom that, when eaten, compels the consumer to speak their truest thoughts and hidden opinions aloud, revealing secrets and personal judgments.",
+    "source_quote": "Zalthir hands him a mushroom, The Tongue of Madness, and says, \"Eat.\" And Buppido does and starts talking. \"I just wanted to return to my bolt hole in the caverns near the city and praise the Divine Plan.\" And then he starts expressing his true opinions of his companions: \"You all have been so annoying. Daz has foul-smelling breath. Thorin thinks his muscles are impressive. Eldeth is -not- interested in him.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Jug of Any Liquid",
+    "fact": "A jug found in the Duergar keelboat that can generate any liquid, and when first used, produces mayonnaise, which enhances the taste of bland food like mushrooms.",
+    "source_quote": "He finds some gold and a jug that he learns later can be used to generate any liquid. The first liquid they generate is mayonnaise. After eating bland mushrooms, mayonnaise will make anything taste much better.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Duergar Keelboat",
+    "fact": "A boat identified by the Duergar as their own, containing crates and later revealed to be abandoned, used as a vessel by the Duergar for transport and possibly slave trafficking.",
+    "source_quote": "Yes, it\u2019s Duergar Keelboat. You can see the crates.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido is a repentant Duergar who claims his actions were guided by the Divine Plan, later exposed as lying and manipulative after consuming the Tongue of Madness, revealing contempt for his companions and delusional self-justification.",
+    "source_quote": "Look, I made mistakes. It was the divine plan. Just let me go. I won\u2019t bother you again.\u201d ... \"I just wanted to return to my bolt hole in the caverns near the city and praise the Divine Plan.\" ... \"You all have been so annoying. Daz has foul-smelling breath. Thorin thinks his muscles are impressive. Eldeth is -not- interested in him.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Dulgir",
+    "fact": "Dulgir is a Duergar merchant at the Blade Bazaar who initially curses Grygum but shifts speech patterns to a Baldurian patriar tone during negotiation, and later denies the existence of an invisible brother, contributing to the perception of widespread madness in Gracklstugh.",
+    "source_quote": "The Duergar starts cursing Grygum... speaks with the stilted tongue of a Baldurian patriar... \"His brother doesn\u2019t exist.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is a gnome who corrects Zalthir\u2019s misunderstanding of planar magic, explaining that summoning deities like Demogorgon requires powerful artifacts and rituals, and who later mocks Grygum\u2019s complaints about his bEttin g, revealing a sharp, irreverent personality.",
+    "source_quote": "Obviously, you do not understand the first thing about interplanar or gate travel... The great powers of the outer planes in the Time of Trouble could enter the Prime Material Plane at will... No, Buppido has no such powers... GIVE IT A REST.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is an orc cleric of Bahamut who observes the political and psychological undercurrents of Duergar society, concluding that conflict stems from resource competition, not divine will, and who notes the city\u2019s madness with growing unease.",
+    "source_quote": "This is not the will of any god. This is the will of the people... I am convinced that some madness afflicts the city, perhaps the same madness that consumed the Kuotoans.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a dragonborn who uses magic to manipulate darkness and water, negotiates for magical items like the Eldritch Claw Tattoo, and becomes increasingly frustrated by the chaos and unpredictability of his companions and the city\u2019s madness.",
+    "source_quote": "I sense some racial animus... I like him... Can he summon Demogorgon like the Kuo-toans?... I found this list of names earlier... They could be people who could help us.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a warrior who alternates between brute intimidation and reluctant diplomacy, wields a sword and crossbow, and is deeply affected by the revelations of the Tongue of Madness and the instability of Gracklstugh.",
+    "source_quote": "And just so we are clear, if we don\u2019t get what we want, and you betray us, there will be consequences... I lower my weapon, uncertain... Thorin decides he\u2019s heard enough... Thorin approaches the boat and notices that Eldeth is not one of those captured.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a spellcaster who specializes in area-of-effect magic, including magic missile and shape water, and is repeatedly frustrated by the timing and consequences of his own spells, yet remains optimistic and practical.",
+    "source_quote": "The magic missile will do just fine here... \"I have shape water!\"... The darkness is annoying... I will need area-of-effect spells.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The Two-Headed Giant\u2019s Breakthrough",
+    "fact": "A two-headed, gray-skinned giant bursts through a gate in Gracklstugh, howling madly, smashing stone and debris, and killing a Duergar soldier whose broken body flies through the air and crashes nearby, triggering panic and marking a turning point in the city\u2019s descent into chaos.",
+    "source_quote": "A two-headed, gray-skinned giant burst through a gate, howling madly and lashing out left and right, littering the plaza with rock and stone debris. As he bellows, one of his swings connects with a duergar soldier, whose broken body flies through the air and crashes near you with a sickening crunch.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The Tongue of Madness Revelation",
+    "fact": "Buppido consumes the Tongue of Madness and speaks aloud hidden truths about his companions, exposing their flaws, romantic tensions, and personal grievances, leading Thorin to abandon his plan to kill him and Grygum to declare he has heard enough.",
+    "source_quote": "And Buppido does and starts talking... \"You all have been so annoying. Daz has foul-smelling breath. Thorin thinks his muscles are impressive. Eldeth is -not- interested in him.\"... \"Zalthir\u2019s scales haven\u2019t been cleaned in ages.\"... \"Jimjar\u2019s bEttin g is so annoying! GIVE IT A REST.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The Invisible Brother Incident",
+    "fact": "At the Blade Bazaar, a cloth merchant suddenly stops negotiating and speaks to an invisible brother, who Dulgir insists does not exist, reinforcing the perception that madness is pervasive and reality is unstable in Gracklstugh.",
+    "source_quote": "The merchant suddenly stops mid-negotiating and starts talking to someone he refers to as his brother... \"My brother!\"... \"His brother doesn\u2019t exist.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The Duergar Keelboat Encounter",
+    "fact": "The party discovers an abandoned Duergar keelboat containing crates, later revealing hidden Duergar activity, leading to a confrontation where Daz\u2019s shape water spell exposes an invisible Duergar, Zalthir uses darkness to attack, and multiple Duergar are killed in rapid succession.",
+    "source_quote": "Yes, it\u2019s Duergar Keelboat. You can see the crates... I have shape water!... water is sprayed around the boat, and the outline of a humanoid appears... Zalthir invokes Darkness and plunges into the water to attack the foe... Another belch sounds, and another Duergar dies covered in acid.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Darklake District",
+    "fact": "The Darklake District is the only area in Gracklstugh where non-Duergars are permitted to move freely, separated from the rest of the city by gates, and appears calm compared to the chaotic, mad interior, yet still infected by the city\u2019s underlying instability.",
+    "source_quote": "Non-Duergars are only permitted to move freely in the Darklake district... The gates at the end of the road keep the Darklake District isolated from the rest of the city. It looks calm.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Two-Headed Gray-Skinned Giant",
+    "fact": "A two-headed, gray-skinned giant that bursts through a gate in Gracklstugh, howling madly and killing a Duergar soldier with a single blow, representing an eruption of uncontrollable chaos within the city\u2019s rigid order.",
+    "source_quote": "A two-headed, gray-skinned giant burst through a gate, howling madly and lashing out left and right... one of his swings connects with a duergar soldier, whose broken body flies through the air and crashes near you with a sickening crunch.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Invisible Duergar",
+    "fact": "Duergar warriors who can become invisible at will, often ambush opponents and deny their presence even when observed, contributing to the paranoia and instability of Gracklstugh.",
+    "source_quote": "The Duergar can become invisible at will; you never know who is watching... The Duergar can become invisible for a whole hour... Hemeth... turns invisible... \"I will be hiding here.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir places his circle of darkness just before the giant and enters it.",
+    "source_quote": "Zalthir places his circle of darkness just before the giant and enters it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Stepping up to the giant, he strikes with a flurry of blows.",
+    "source_quote": "Stepping up to the giant, he strikes with a flurry of blows.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "But he misses.",
+    "source_quote": "But he misses.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "The giant, although blind, dodges him.",
+    "source_quote": "The giant, although blind, dodges him.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "So Zalthir uses his power to focus his mind and strikes again.",
+    "source_quote": "So Zalthir uses his power to focus his mind and strikes again.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "This time it is a glancing blow.",
+    "source_quote": "This time it is a glancing blow.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin rushes after Zalthir; with blindsight, he approaches the mad giant and strikes him with his sword.",
+    "source_quote": "Thorin rushes after Zalthir; with blindsight, he approaches the mad giant and strikes him with his sword.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum speaks the words of power that Bahamut has taught him, pointing his holy symbol at the mad giant who burns with necrotic damage and the power of Bahamut.",
+    "source_quote": "Grygum speaks the words of power that Bahamut has taught him, pointing his holy symbol at the mad giant who burns with necrotic damage and the power of Bahamut.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "The giant roars and smashes Thorin, but Zalthir, using his awareness of the monk, deflects the attack just in time.",
+    "source_quote": "The giant roars and smashes Thorin, but Zalthir, using his awareness of the monk, deflects the attack just in time.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is pleased, and Zalthir places the darkness so that he can still strike him.",
+    "source_quote": "Daz is pleased, and Zalthir places the darkness so that he can still strike him.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "His fingers move in the air, the incantations are spoken, and bolts of power fly from his finger, striking the giant.",
+    "source_quote": "His fingers move in the air, the incantations are spoken, and bolts of power fly from his finger, striking the giant.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir strikes the giant once, focusing his mind on striking again and striking the air.",
+    "source_quote": "Zalthir strikes the giant once, focusing his mind on striking again and striking the air.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "If the giant could see, he would see a dragonborn attack the air.",
+    "source_quote": "If the giant could see, he would see a dragonborn attack the air.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin feints and strikes the giant.",
+    "source_quote": "Thorin feints and strikes the giant.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum raises his holy symbol again and speaks the words of power, and the giant again burns.",
+    "source_quote": "Grygum raises his holy symbol again and speaks the words of power, and the giant again burns.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz strikes first with magic missiles that streak from his hand.",
+    "source_quote": "Daz strikes first with magic missiles that streak from his hand.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "sign for Bahamut",
+    "fact": "A sign for Bahamut appears: a Duergar patrol racing towards this giant.",
+    "source_quote": "A sign for Bahamut appears: a Duergar patrol racing towards this giant.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir and Thorin race into combat.",
+    "source_quote": "Zalthir and Thorin race into combat.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin, who overhears the giant, shouts, \"Stone giants never talk. And they certainly don't bellow. Something is wrong.\"",
+    "source_quote": "Thorin, who overhears the giant, shouts, \"Stone giants never talk. And they certainly don't bellow. Something is wrong.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum looks at him, \"And the two heads?\"",
+    "source_quote": "Grygum looks at him, \"And the two heads?\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "\"Two heads is more normal than bellowing.\"",
+    "source_quote": "\"Two heads is more normal than bellowing.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Priest of Bahamut",
+    "fact": "For a moment, the priest of Bahamut wonders if he should just run.",
+    "source_quote": "For a moment, the priest of Bahamut wonders if he should just run.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Priest of Bahamut",
+    "fact": "\"What is in it for me?\" he asks.",
+    "source_quote": "\"What is in it for me?\" he asks.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Priest of Bahamut",
+    "fact": "And then he remembers the teachings of Bahamut that when you do a good turn for someone, they may do a good turn for you.",
+    "source_quote": "And then he remembers the teachings of Bahamut that when you do a good turn for someone, they may do a good turn for you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "He turns to his companion, raises his holy symbol, and prepares to attack.",
+    "source_quote": "He turns to his companion, raises his holy symbol, and prepares to attack.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "If I fight him, we may get some friends.",
+    "source_quote": "If I fight him, we may get some friends.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum thinks, \"That's an illusion!\" But a piece of debris hit his toe, and he mutters, \"No, it's not.\"",
+    "source_quote": "Grygum thinks, \"That's an illusion!\" But a piece of debris hit his toe, and he mutters, \"No, it's not.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "The giant, although blind, dodges him.",
+    "source_quote": "The giant, although blind, dodges him.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "The creature howls.",
+    "source_quote": "The creature howls.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "The giant burns with necrotic damage and the power of Bahamut.",
+    "source_quote": "The giant burns with necrotic damage and the power of Bahamut.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir uses his awareness of the monk, deflects the attack just in time.",
+    "source_quote": "Zalthir uses his awareness of the monk, deflects the attack just in time.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Bolts of power fly from his finger, striking the giant.",
+    "source_quote": "Bolts of power fly from his finger, striking the giant.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "The giant again burns.",
+    "source_quote": "The giant again burns.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "giant",
+    "fact": "The giant roars and smashes Thorin.",
+    "source_quote": "The giant roars and smashes Thorin.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "giant",
+    "fact": "The giant, although blind, dodges him.",
+    "source_quote": "The giant, although blind, dodges him.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "giant",
+    "fact": "The giant is mad and blind and misses this moment of joy.",
+    "source_quote": "The giant is mad and blind and misses this moment of joy.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "giant",
+    "fact": "The giant, although blind, dodges him.",
+    "source_quote": "The giant, although blind, dodges him.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Duergar patrol",
+    "fact": "A Duergar patrol racing towards this giant.",
+    "source_quote": "A Duergar patrol racing towards this giant.",
+    "quote_verified": false
+  }
+]

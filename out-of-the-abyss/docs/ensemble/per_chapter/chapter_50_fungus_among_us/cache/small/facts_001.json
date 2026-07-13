@@ -1,0 +1,79 @@
+[
+  {
+    "type": "npc",
+    "subject": "Asha Vandree",
+    "fact": "Asha Vandree is watching with fractured eyes, interpreting every supernatural event as a test of her discernment, and has reframed the wizard's performance as divine validation of her own faithfulness to Lolth \u2014 then later as possible fungal possession by Zuggtmoy or trickery by Ilvara.",
+    "source_quote": "\"You're a wizard... a wizard who prays to Lolth?\" ... \"you are trying to test me...\" ... \"have you two been infected by the spores...?\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a gelatinous cube failing to remain motionless and silent as instructed; he has begun talking, moving his eyes, and narrating his own invisibility, despite being told to be a feature of the cavern.",
+    "source_quote": "\"Glabbagool,\" I said... \"I'm taking care of this. It's fine.\" ... \"he started *talking*. I heard the reminder that invisible rocks do not speak. I heard \u2014 I am fairly certain I heard \u2014 the small wet sound of him opening his eyes...\"",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "the fungal spores",
+    "fact": "The fungal spores are a source of madness in the Underdark, capable of infecting minds and causing delusions of divine possession \u2014 specifically linked to Zuggtmoy's influence and the false belief in the Bride's power.",
+    "source_quote": "\"have you two been infected by the spores, possessed by the crazed magic of Zuggtmoy? convinced of the bride's power? Is this another trick of Ilvara's?\"",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Zuggtmoy",
+    "fact": "Zuggtmoy is a fungal god whose influence manifests as madness, compelling those infected to believe they are conduits of divine power \u2014 a delusion Asha suspects has overtaken the wizard and Glabbagool.",
+    "source_quote": "\"possessed by the crazed magic of Zuggtmoy? convinced of the bride's power?\"",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Ilvara",
+    "fact": "Ilvara is a known trickster entity associated with deception and illusions in the fungal Underdark, suspected by Asha of orchestrating false visions of Lolth's presence.",
+    "source_quote": "\"Is this another trick of Ilvara's?\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "the wizard (narrator)",
+    "fact": "The wizard has performed an elaborate illusion using a spider, Dancing Lights, and vocal persona to impersonate a vessel of Lolth \u2014 a con that was not seen through, but instead reinterpreted by Asha as a divine test and then as fungal infection.",
+    "source_quote": "\"I am\u2026 you are not speaking to the wizard of this body. I\u2026 he\u2026 this body has communed with Lolth. And I\u2026 I am speaking through this body.\" ... \"There are many imitations... I came to you in my smaller form, and led you here.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the true nature of the performance",
+    "fact": "The wizard\u2019s deception \u2014 intended as a con to gain trust through assumed divine authority \u2014 has been overwritten by Asha\u2019s paranoid interpretations, creating an unstable narrative where the truth is now indistinguishable from her layered delusions.",
+    "source_quote": "She had not seen through the deception. She had reframed it entirely... built her a completely different story in which she was the clever one... She was not calling me a liar. She was asking whether I was a victim.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Glabbagool's failure",
+    "fact": "Glabbagool\u2019s inability to remain passive has disrupted the performance and introduced an unpredictable variable \u2014 his verbal outbursts and eye movements risk exposing the illusion to Asha or others.",
+    "source_quote": "\"he started *talking*. I heard the reminder that invisible rocks do not speak...\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "the performance of the Spider Queen",
+    "fact": "The wizard enacted a multi-layered illusion involving a spider, luminescent lights shaped into the Spider Queen, and a possessed vocal tone \u2014 all designed to simulate divine communion with Lolth \u2014 which succeeded in appearing authentic but triggered unintended interpretations.",
+    "source_quote": "\"The spider scurried back... I was already weaving the lights around it... The luminescence built. Condensed. The shape of the Spider Queen herself... seemed to pass directly into mine. Then: darkness. The performance was seamless.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "the fungal cavern",
+    "fact": "The fungal cavern is a subterranean environment saturated with sentient spores, where natural features are indistinguishable from magical corruption, and where silence and stillness are critical to deception.",
+    "source_quote": "\"the fungal floor\" ... \"fungal shadows\" ... \"the Underdark\"",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "drow society",
+    "fact": "Drow society employs deliberate silence as a weapon of erasure and control \u2014 a social tactic recognized by Zalthir as deeply painful and psychologically isolating.",
+    "source_quote": "\"There is a particular kind of silence that drow society uses as a weapon... the silence of deliberate erasure. Of being present in a room and being treated as furniture.\"",
+    "quote_verified": false
+  }
+]

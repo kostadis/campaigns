@@ -1,0 +1,128 @@
+[
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is referenced by Eldeth as the giant-raised dwarf who will be embraced by the clan after she speaks to the lords of Gauntlgrym and Mithral Hall.",
+    "source_quote": "After I have spoken and explained to the lords of Gauntlgrym and Mithral Hall the dangers of the Underdark, I am certain they will want to speak to you, and I will make it a statement of purpose that you shall be embraced by our clan.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth swears to Thorin that she will ensure he is embraced by her clan after briefing the lords of Gauntlgrym and Mithral Hall.",
+    "source_quote": "I swear.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is described as a place where Spiderbait believes a small goblin might find an innocuous job.",
+    "source_quote": "This Candlekeep place seems like the kind of place someone like me could find a job doing something innocuous.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Mithral Hall",
+    "fact": "Mithral Hall is the destination Eldeth must reach to inform the dwarves of the dangers in the Underdark.",
+    "source_quote": "I must go to Mithral Hall. I must inform the dwarves of what is going on in the Underdark.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Gauntlgrym",
+    "fact": "Gauntlgrym is one of the two halls Eldeth must brief after speaking of the Underdark's dangers.",
+    "source_quote": "After I have spoken and explained to the lords of Gauntlgrym and Mithral Hall the dangers of the Underdark...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is a sword that radiates warmth like a hearth and has been called 'a really cool sword who was kind of annoying sometimes.'",
+    "source_quote": "Earlier, in fact, someone had described her as a really cool sword who was kind of annoying sometimes, which she had received approximately the way a master sculptor receives being called 'pretty good with rocks.'",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Zalthir's curriculum",
+    "fact": "Zalthir's curriculum involves a run, run, slap, slap, slap pattern that Glabbagool has very strong feelings about.",
+    "source_quote": "Whatever curriculum Zalthir had in mind \u2014 the run, run, slap, slap, slap that Glabbagool apparently had very strong feelings about \u2014 it would require some foundational work first.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is an ooze who is described as witnessing the sun, not being a floor, and possessing no fixed appendages.",
+    "source_quote": "He wasn't being a floor. He was witnessing.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is the one who offered monk training to Glabbagool, though the word 'offered' is doing significant work in that sentence.",
+    "source_quote": "Zalthir's expression made clear that 'offered' was doing significant work in that sentence.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum concludes that what is following the group is a deer, though the group privately knows it is not.",
+    "source_quote": "You conclude, that what is following you is a deer.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz arrives at the same conclusion as Zalthir regarding the entity following them, without speaking.",
+    "source_quote": "Daz, a step to my left, had come to the same place I had.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "the entity in the northern treeline",
+    "fact": "The entity in the northern treeline is not a deer, moves with patience, uses terrain to stay in blind spots, and has been following the group long enough to arrive at dusk.",
+    "source_quote": "Whatever was in those trees had been moving with us, shifting position laterally to stay in the blind spots, using the terrain the way someone uses it when they know what they're doing. Not panicked. Not rushing. Patient.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Spiderbait",
+    "fact": "Spiderbait is a goblin who considers hanging out with the group to find an innocuous job at Candlekeep.",
+    "source_quote": "Do you mind if I just sort of hang out with you guys? Maybe find a nice place?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Eldeth's departure",
+    "fact": "Eldeth departs west toward Mithral Hall to inform the dwarves of the Underdark's dangers, and swears Thorin will be embraced by her clan.",
+    "source_quote": "I must go to Mithral Hall. I must inform the dwarves of what is going on in the Underdark... I swear.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "the group's realization of being followed",
+    "fact": "The group collectively realizes, without words, that the entity following them is not a deer, but a deliberate and patient pursuer.",
+    "source_quote": "The three of us looked at each other in the way that the Ember Vanguard has developed as a private language: no words, just a shared acknowledgment that the thing in the trees is not a deer.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Dawnbringer's warmth",
+    "fact": "Dawnbringer radiates warmth like a hearth, a presence felt by all members of the group after emerging from the Underdark.",
+    "source_quote": "It radiated warmth the way a hearth does \u2014 not directed at anything in particular, just present.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "the tunnel mouth",
+    "fact": "The tunnel mouth is the last dark edge of the Underdark, framing the light of the surface world.",
+    "source_quote": "I looked back at the tunnel mouth \u2014 the last dark edge of where we'd been, the rock framing the light we'd come out into.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer tells Thorin he has anger issues.",
+    "source_quote": "You've got anger issues,\" said Dawnbringer.",
+    "quote_verified": true
+  }
+]

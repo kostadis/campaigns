@@ -7,7 +7,9 @@ source: gmassist
 
 ## Scene summary (from gm-assist, verbatim)
 
-#### Grygum is alone in Janussi's office and uses magic to investigate the discarded wrapping paper retrieved from the dining-hall trash.
+#### Grygum is alone in Janussi's chambers and uses magic to investigate the discarded wrapping paper retrieved from the dining-hall trash.
+
+*(Note: Thorin-tagged lines appear in the verbatim below despite Grygum being confirmed alone in the chambers — table chatter/questions from the player, not an in-fiction presence.)*
 - Grygum casts a mending spell to reassemble the torn pieces of wrapping paper found in the dining hall trash bucket.
 - The reassembled paper reveals a precise cut through the wrapping, separate from the natural tearing, confirming that the gift had been deliberately tampered with and re-wrapped around the poisoned book.
 - The party confirms the paper had been wrapped around the book — "the gift wrap for the deadly book."
@@ -19,11 +21,11 @@ source: gmassist
 
 **[Thorin]** — *clarifying which paper*
 > "Was this the wrapping paper, or a different paper?"
-> "Yeah, no, it was a wrapping paper."
+> "Yeah, no, it was a wrapping paper." *[Note: no GM tag appears between this question and answer in the extraction — the second line is very likely the GM's reply with a dropped speaker tag, not Thorin answering himself. Not re-attributed without confirmation.]*
 
 **[Thorin]** — *placing where it was found*
 > "Alright, so the wrapping paper was found in the trash at the dining hall slash cafeteria slash whatever."
-> "Yeah, so the graphic paper is, in fact, found in the trash bucket, but there's nothing of any significance on it."
+> "Yeah, so the [wrapping paper; VTT: "graphic paper"] is, in fact, found in the trash bucket, but there's nothing of any significance on it." *[Same dropped-speaker-tag pattern as above.]*
 
 **[Thorin]** — *asking about magical methods*
 > "We can't do, like, magic fingerprints or something like that."

@@ -1,0 +1,2082 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occur after the Ember Vanguard killed several members of the Derro High Council.",
+    "source_quote": "since the Ember Vanguard killed several members of the Derro High Council",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occur during a single session of travel and confrontation in the Underdark, following the party\u2019s recovery of their senses and departure from the Whorlstone caves. The timeline is continuous, with no temporal gaps between encounters.",
+    "source_quote": "after recovering their senses, to the extent that is possible for the dwarf",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "This sequence occurs during a single, tense session of play following the party\u2019s entry into Gracklstugh. The events unfold rapidly, with no time for rest or reflection.",
+    "source_quote": "We head out quickly to the city of the Duergar, Gracklstugh.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Ambush by Derro and discovery of the Gray Ghosts note",
+    "fact": "A group of Derro surrounds the party, refuses to listen to their denials, and is killed; a note found on their bodies declares a vendetta against the Ember Vanguard and orders the recovery of The Egg.",
+    "source_quote": "a group of Derro surrounds us. They announce that the Grey Ghosts will have their revenge for the murder of the High Council. ... A few moments later, there are five dead Derro. ... As I pick through the coins in their pocket, I find a note. ... 'Recover The Egg. It belongs to the Gray Ghosts.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "ambush by the Gray Ghosts",
+    "fact": "The party was ambushed by a group of Derro who believed them to be the Ember Vanguard. After killing five attackers, they recovered a written vendetta that branded them as thieves and murderers, sealing their status as hunted fugitives.",
+    "source_quote": "To all - The Deepking\u2019s agents\u2014the four shadows, The Ember Vanguard... have brought death and dishonor to our kin.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "assassination of the Derro High Council",
+    "fact": "The Derro High Council was assassinated by the Ember Vanguard, triggering a citywide crisis. This event destabilized the power structure, caused the Derro to turn on outsiders, and led to the Gray Ghosts issuing a death warrant against the party.",
+    "source_quote": "The Ember Vanguard killed several members of the Derro High Council.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "bribery and passage granted",
+    "fact": "After Grygum pays Grogluk 20 gold and performs the ritual salute, the guard declares the party cleared to enter. This reveals the corruption at the heart of Duergar governance \u2014 authority is for sale, and legitimacy is performative.",
+    "source_quote": "I size him up and give him 20 gold. He smiles and shouts to the others here that we are to pass through.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "bribery of Duergar guards",
+    "fact": "Multiple Duergar guards, including Grogluk and a faceless sentinel, demanded bribes from the party to allow passage. These bribes were paid in gold, revealing systemic corruption and the erosion of law in Gracklstugh.",
+    "source_quote": "He smiles and shouts to the others here that we are to pass through.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Bribery of Grogluk",
+    "fact": "Grygum bribes Grogluk with 20 gold after performing the ritual and declaring 'Fuck those guys,' causing Grogluk to shout that the group may pass through.",
+    "source_quote": "I size him up and give him 20 gold. He smiles and shouts to the others here that we are to pass through.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Confrontation at Gartokkar\u2019s house",
+    "fact": "Gartokkar accepts the Egg, becomes worried by its markings, asks Grygum for his opinion as a cleric of Bahamut, and then gives the group a bag of coins after agreeing to a deal and non-disclosure.",
+    "source_quote": "The Duergar takes the egg and notices the strange occult markings. He is worried. ... he turns to Grygum and asks him as a cleric of Bahamut, 'What do you think?' ... He smiles at me and says, 'A deal and a non-disclosure agreement is a deal.' ... comes back with a bag full of coins.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "confrontation at Gartokkar\u2019s house",
+    "fact": "The party delivered the Egg to Gartokkar, who was terrified by its markings. Grygum\u2019s clerical authority was used to validate their innocence, leading to a non-disclosure deal and payment. Gartokkar warned them of the Deepking\u2019s hunters and the Derro\u2019s vendetta.",
+    "source_quote": "I heard the Deepking\u2019s agents are everywhere...",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noticed another grey-skinned Duergar leaning against the wall, eyeing them with cold calculation.",
+    "source_quote": "I notice another grey-skinned duergar, leaning against the wall, eyeing us with cold calculation.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noticed the Duergar who said, \u201cAny group with a Drow would probably want to be very careful.\u201d",
+    "source_quote": "\u201cAny group with a Drow would probably want to be very careful. Everybody\u2019s been on edge since the Ember Vanguard killed several members of the Derro High Council.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz paid a Duergar a gold piece to avoid suspicion.",
+    "source_quote": "The Duergar sticks out his hand and demands a gold piece, and we pay him off.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz refused to wear the offered armor.",
+    "source_quote": "Daz refused, saying armor would only slow him down",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz whispered to Zalthir, \u201cI have seen so many guards of despotic rulers living among the Drow, and they all want the same thing, a bribe.\u201d",
+    "source_quote": "Daz whispers to me, \u201cI have seen so many guards of despotic rulers living among the Drow, and they all want the same thing, a bribe.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Derro ambush",
+    "fact": "A group of Derro ambushes the party, blaming them for the murder of the High Council and demanding revenge for the Grey Ghosts.",
+    "source_quote": "As we walk through an alley, trying to be inconspicuous, a group of Derro surrounds us. They announce that the Grey Ghosts will have their revenge for the murder of the High Council.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Derro High Council massacre",
+    "fact": "The Ember Vanguard murdered several members of the Derro High Council, triggering widespread paranoia and destabilizing the power structure of Gracklstugh.",
+    "source_quote": "The Ember Vanguard killed several members of the Derro High Council.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Derro massacre",
+    "fact": "The party kills five Derro in self-defense, uncovering a note that falsely identifies them as the Ember Vanguard.",
+    "source_quote": "A few moments later, there are five dead Derro. As I pick through the coins in their pocket, I find a note.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "egg delivery",
+    "fact": "The group delivers the dragon egg to Gartokkar under a non-disclosure agreement, receiving a bag of coins in return, though the nature of the deal remains unclear.",
+    "source_quote": "Gartokkar is pleased. He smiles at me and says, \u201cA deal and a non-disclosure agreement is a deal.\u201d He leaves the main room and comes back with a bag full of coins.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grogluk",
+    "fact": "Grogluk asked for the secret message of the Stone Guard or for weapons and magic items to be laid down.",
+    "source_quote": "lay down your weapons and magic items for inspection or speak the secret message of the stone guard.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grogluk",
+    "fact": "Grogluk demanded proof that Zalthir is not the Ember Vanguard.",
+    "source_quote": "Show me proof that you are not the Ember Vanguard!",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grogluk's final refusal and demand",
+    "fact": "Grogluk, after being shown the Stone Guard passes, demands the group lay down their weapons and magic items or speak the secret message of the Stone Guard.",
+    "source_quote": "Grogluk stares at them, annoyed, 'Passes can be forged. Show me proof that you are not the Ember Vanguard! ... If you are innocent, lay down your weapons and magic items for inspection or speak the secret message of the stone guard.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grogluk's identity challenge",
+    "fact": "Grogluk scrutinizes the party and declares, 'You are a Drow,' then 'You are a dwarf and you are an orc!' and later demands proof they are not the Ember Vanguard, then asks for a bribe.",
+    "source_quote": "The guard scrutinizes me, and the rest of our group, and declares, smugly, 'You are a Drow.' Turning to Thorin, then Grygum he says, 'You are a dwarf and you are an orc!' ... 'Show me proof that you are not the Ember Vanguard!' ... 'But I do have some guards, and it would be a shame if I could not spread some coin.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum announced, \u201cYes, we have the egg and it is glorious!\u201d",
+    "source_quote": "\u201cYes, we have the egg and it is glorious!\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum found the Duergar\u2019s belief that dragon scale color determines evilness annoying.",
+    "source_quote": "Grygum finds the tiresome confusion among the masses that the evil of dragons is a function of scale pigmentation to be very annoying",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum gave Grogluk 20 gold as a bribe.",
+    "source_quote": "I size him up and give him 20 gold.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum performed the seventeen steps of the night prayer to the Platinum God perfectly.",
+    "source_quote": "I perform the ritual perfectly.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum said, \u201cFuck those guys,\u201d about the Ember Vanguard.",
+    "source_quote": "\u201cFuck those guys,\u201d I add with emphasis.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum said, \u201cHe\u2019s good at identifying species.\u201d",
+    "source_quote": "Grygum turns to me and says, \u201cHe\u2019s good at identifying species.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum said, \u201cI am a cleric of the Platinum Dragon. I know much about metallic dragons. But this is a chromatic dragon, and I know very little other than it will become evil.\u201d",
+    "source_quote": "I am a cleric of the Platinum Dragon. I know much about metallic dragons. But this is a chromatic dragon, and I know very little other than it will become evil.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum said, \u201cI don\u2019t know who these guys are, and given how fearsome they look, we would like to get back into town as quickly as possible.\u201d",
+    "source_quote": "I don\u2019t know who these guys are, and given how fearsome they look, we would like to get back into town as quickly as possible.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum told Gartokkar he knows little about chromatic dragons beyond that they become evil.",
+    "source_quote": "I know very little other than it will become evil.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "identity verification at West Cleft District",
+    "fact": "The party undergoes intense scrutiny at the gate to Gracklstugh, where Duergar guards demand proof of identity, inspect weapons, and attempt to classify each member by race and affiliation. The process escalates from questioning to bribery and ritual testing, culminating in Grogluk\u2019s reluctant acceptance after payment and performance of the Bahamut salute.",
+    "source_quote": "You are a Drow.\" Turning to Thorin, then Grygum he says, \"You are a dwarf and you are an orc!",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "ritual duration",
+    "fact": "The ritual transforming giants into two-headed monsters was performed by mad men.",
+    "source_quote": "there was a secret ritual that was transforming his giants into two-headed monsters",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "theft of the Egg",
+    "fact": "The Egg, a mysterious artifact with occult markings, was stolen by the Ember Vanguard and is now in the possession of the party. The Derro believe the party holds it and have declared a vendetta. Its true origin and power remain unknown.",
+    "source_quote": "They are the ones who crushed our leader and stole what is rightfully ours: The Egg.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin asked Gartokkar, \u201cI don\u2019t know what kind of deal we made or who we made it with!\u201d",
+    "source_quote": "I nod my head and say, \u201cI don\u2019t know what kind of deal we made or who we made it with!\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin asked the stone giant about a route to the surface world.",
+    "source_quote": "I ask him about a route to the surface world.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin found a note from the Gray Ghosts identifying the party as the Ember Vanguard.",
+    "source_quote": "To all - The Deepking\u2019s agents\u2014the four shadows, The Ember Vanguard, who walk among us, wielding dark magic and unmatched skill\u2014have brought death and dishonor to our kin.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin found a note from the Gray Ghosts instructing them to stalk and strike the Ember Vanguard.",
+    "source_quote": "Stalk them relentlessly. Let the city itself become their cage. Strike from the shadows. Use invisibility, illusions, and sudden, whispered strikes. Leave paranoia in their wake. Allow no escape, no peace. Recover The Egg. It belongs to the Gray Ghosts.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin heard Gartokkar say, \u201cBe careful. The Derro are on edge, and the Stone Guard are on edge.\u201d",
+    "source_quote": "Be careful. The Derro are on edge, and the Stone Guard are on edge. Everyone is worried something is going to happen, and some want it.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin heard Gartokkar say, \u201cI know of no such place [to the surface]. I do not know if such a place even exists.\u201d",
+    "source_quote": "I know of no such place. I do not know if such a place even exists. And I would not know what to do with a world that had no stone over my head.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin heard Gartokkar warn them about the Deepking\u2019s agents.",
+    "source_quote": "I heard the Deepking\u2019s agents are everywhere, looking for a mercenary band so fierce that the Stone Guards are afraid to face them head-on.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin heard the Derro say, \u201cThe Grey Ghosts will have their revenge for the murder of the High Council.\u201d",
+    "source_quote": "They announce that the Grey Ghosts will have their revenge for the murder of the High Council.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin killed five Derro after they accused them of being the Ember Vanguard.",
+    "source_quote": "A few moments later, there are five dead Derro.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin muttered, \u201cWe killed several members of the high council?\u201d",
+    "source_quote": "Thorin mutters, \u201cWe killed several members of the high council?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin refused the offer made by Zuggtomy.",
+    "source_quote": "Thorin refused",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin remembered they never had a deal with Thermebechaude.",
+    "source_quote": "I remember that we had a deal with Thermbechaude. And then I remember, Thermebechaude thought he had an agreement with us. We never had a deal with him.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin replied, \u201cWe appeared small and insignificant.\u201d",
+    "source_quote": "\u201cWe appeared small and insignificant.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin unbuckled his belt and his pants fell during Jimjar\u2019s bet.",
+    "source_quote": "Thorin takes the bet and accidentally unbuckles his belt, and his pants fall.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin was asked by Gartokkar how he survived the Ember Vanguard.",
+    "source_quote": "How did you manage to survive them?",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin's pants fall",
+    "fact": "Thorin accidentally unbuckles his belt during a bet, causing his pants to fall, and the group laughs, improving their mood.",
+    "source_quote": "Thorin takes the bet and accidentally unbuckles his belt, and his pants fall. We all laugh. ... Our mood is better, so we decide to visit the giants.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir heard Grygum whisper about invisible guards in the hallway.",
+    "source_quote": "Grygum whispers to me, \u201cThere are at least five more invisible guards we can\u2019t see in this hallway.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir heard the guard say, \u201cYou are a dwarf and you are an orc!\u201d",
+    "source_quote": "Turning to Thorin, then Grygum he says, \u201cYou are a dwarf and you are an orc!\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir heard the sound of armor clanking and saw shadows of visible Duergar on the walls.",
+    "source_quote": "On the walls, I can hear the sound of armor clanking and see the shadows of visible Duergar.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir noticed the Duergar guard misidentify him as not red.",
+    "source_quote": "Finally, he stops in front of Zalthir, \u201cAnd you are not red.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir noticed the poster describing the Ember Vanguard with a spelling and grammar mistake.",
+    "source_quote": "I notice behind him a poster that says, \u201cThe Ember Vanguard, wanted dead as long as we can raise them or aliave.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir noticed the walls covered in a faint sheen of dust.",
+    "source_quote": "I look past the guard and stare at the wall. The walls are covered in a faint sheen of dust.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir observed that the picture of the Ember Vanguard does not resemble him.",
+    "source_quote": "The picture of the Ember Vanguard, most certainly, doesn\u2019t look like us.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir realized the checkpoint was a gauntlet where power, politics, and peril converge.",
+    "source_quote": "This is no mere checkpoint. It\u2019s a gauntlet where power, politics, and peril converge.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw Grogluk chuckle at the thought of a gold dragonborne causing havoc.",
+    "source_quote": "Grogluk chuckles at the thought, a gold dragonborne causing so much havoc.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw Grogluk smile and say, \u201cIf you are innocent, lay down your weapons and magic items for inspection.\u201d",
+    "source_quote": "If you are innocent, lay down your weapons and magic items for inspection or speak the secret message of the stone guard.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw the Duergar guard point to the Ember Vanguard poster and say, \u201cGrogluk will wish to speak to you.\u201d",
+    "source_quote": "Grogluk will wish to speak to you. Follow me.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw the Duergar guard say, \u201cYou are a Drow,\u201d and then \u201cYou are a dwarf and you are an orc!\u201d",
+    "source_quote": "The guard scrutinizes me, and the rest of our group, and declares, smugly, \u201cYou are a Drow.\u201d Turning to Thorin, then Grygum he says, \u201cYou are a dwarf and you are an orc!\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw the Duergar guard say, \u201cYou are a Drow.\u201d",
+    "source_quote": "The guard scrutinizes me, and the rest of our group, and declares, smugly, \u201cYou are a Drow.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw the Duergar guard say, \u201cYour business?\u201d",
+    "source_quote": "a Duergar guard materializes and asks, \u201cYour business?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw the Duergar mutter, \u201cGrogluk will wish to speak to you.\u201d",
+    "source_quote": "Grogluk will wish to speak to you. Follow me.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw the Duergar point to the Ember Vanguard poster and say, \u201cthe Ember Vanguard.\u201d",
+    "source_quote": "and points at the picture of the Ember Vanguard, \u201cthe Ember Vanguard.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw the Duergar say, \u201cAnd you are not red.\u201d",
+    "source_quote": "Finally, he stops in front of Zalthir, \u201cAnd you are not red.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw the Duergar say, \u201cIf you are innocent, lay down your weapons and magic items for inspection or speak the secret message of the stone guard.\u201d",
+    "source_quote": "If you are innocent, lay down your weapons and magic items for inspection or speak the secret message of the stone guard.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw the Duergar say, \u201cPasses can be forged.\u201d",
+    "source_quote": "Passes can be forged.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw the Duergar say, \u201cShow me proof that you are not the Ember Vanguard!\u201d",
+    "source_quote": "Show me proof that you are not the Ember Vanguard!",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw the Duergar say, \u201cthe Ember Vanguard.\u201d",
+    "source_quote": "and points at the picture of the Ember Vanguard, \u201cthe Ember Vanguard.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw the Duergar sigh and say, \u201cThen you must not be,\u201d referring to his color.",
+    "source_quote": "The Duergar sighs, \u201cThen you must not be,\u201d and points at the picture of the Ember Vanguard",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw the Duergar\u2019s crude pendant shaped like a clenched fist.",
+    "source_quote": "around his neck is a crude pendant. It\u2019s a familiar token of the Underdark, a clenched fist that expresses loyalty to the ruler.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Deepking",
+    "fact": "The Deepking is the ruling sovereign of Gracklstugh, exerting control through Grogluk and a network of guards, propaganda, and fear. His authority is symbolized by the clenched-fist pendant, and he maintains strict identity verification to suppress the Ember Vanguard and maintain order.",
+    "source_quote": "This Duergar works for the Deepking.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Derro",
+    "fact": "The Derro are a people on edge, with pre-revolutionary violence in their atmosphere, and are the victims of the Ember Vanguard who killed several members of their High Council, leading to a vendetta by the Gray Ghosts.",
+    "source_quote": "The Derro are particularly on edge. ... since the Ember Vanguard killed several members of the Derro High Council. ... The Gray Ghosts will have their revenge for the murder of the High Council.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Derro",
+    "fact": "The Derro are on edge, exhibiting signs of pre-revolutionary violence. They are oppressed by the Duergar and likely planning rebellion. Their presence is felt in the slums and at the edges of the city, where they watch and wait. They are known to misidentify details, such as the color of scales or the appearance of the Ember Vanguard.",
+    "source_quote": "The Derro are particularly on edge. If I could express it, it would be a sense of pre-revolutionary violence.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Duergar",
+    "fact": "The Duergar are a people who live under the misconception that dragon scale color determines morality, are ruled by the Deepking, and enforce strict identity checks at gates, demanding bribes and proof of innocence.",
+    "source_quote": "The Duergar of this city seem to live under the misconception that the color of a dragon\u2019s scales has anything to do with its perspective and morality and choices. ... 'This Duergar works for the Deepking.' ... He looks me over and tells us that the Stone Guard is on edge ... demands a gold piece",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Ember Vanguard",
+    "fact": "The Ember Vanguard are feared shadowy assassins from Menzoberranzan, believed to wield dark magic and blades that rend souls, and are wrongly accused by the Derro of killing their High Council and stealing The Egg.",
+    "source_quote": "They are not mere adventurers, more like shadowy assassins from Menzoberranzan with powerful magic and blades that can rend souls. ... The Deepking\u2019s agents\u2014the four shadows, The Ember Vanguard, who walk among us, wielding dark magic and unmatched skill\u2014have brought death and dishonor to our kin.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Ember Vanguard",
+    "fact": "The Ember Vanguard are real assassins who murdered the Derro High Council and stole the Egg, but the party is being falsely blamed for their actions.",
+    "source_quote": "The Deepking\u2019s agents\u2014the four shadows, The Ember Vanguard, who walk among us, wielding dark magic and unmatched skill\u2014have brought death and dishonor to our kin. They are the ones who crushed our leader and stole what is rightfully ours: The Egg.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Ember Vanguard",
+    "fact": "The Ember Vanguard is a wanted group, falsely depicted in Duergar posters with exaggerated and inaccurate features. They are believed to be dangerous revolutionaries, though their true nature is unknown. The Duergar use them as a tool of fear, conflating them with outsiders like the party. Their name is misspelled and their appearance distorted to incite paranoia.",
+    "source_quote": "The Ember Vanguard, wanted dead as long as we can raise them or aliave.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Ember Vanguard members",
+    "fact": "The note identifies the Ember Vanguard as four shadows.",
+    "source_quote": "The Deepking\u2019s agents\u2014the four shadows, The Ember Vanguard",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Gray Ghosts",
+    "fact": "The Gray Ghosts are a secretive faction of Derro who seek vengeance for the murder of their leader and the theft of The Egg, and operate through shadow, paranoia, and relentless stalking.",
+    "source_quote": "The Gray Ghosts will have their revenge for the murder of the High Council. ... Your mission is clear: ... Stalk them relentlessly. ... Strike from the shadows. ... Leave paranoia in their wake. ... Recover The Egg. It belongs to the Gray Ghosts.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Grey Ghosts",
+    "fact": "The Grey Ghosts are a vengeful Derro faction seeking to recover the Egg and punish those they believe are the Ember Vanguard, using stealth, paranoia, and assassination.",
+    "source_quote": "They announce that the Grey Ghosts will have their revenge for the murder of the High Council.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Stone Guard",
+    "fact": "The Stone Guard is an authoritative organization whose passes are recognized as legitimate but easily forged in the eyes of the Duergar. They are a counterbalance to the Deepking\u2019s power and represent an external legitimacy that Grogluk distrusts but cannot outright deny.",
+    "source_quote": "I show him the passes of the Stone Guard.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "The Deepking",
+    "fact": "The Deepking is the ruling power of Gracklstugh, whose authority is enforced through loyal Duergar agents like Grogluk. His reach extends into surveillance, bribery, and psychological control. He is feared by both Duergar and Derro, and his agents hunt the Ember Vanguard.",
+    "source_quote": "This Duergar works for the Deepking.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "The Derro",
+    "fact": "The Derro are a subterranean race living in fear and rage after the assassination of their High Council. They are paranoid, easily manipulated, and quick to violence. They conflate the party with the Ember Vanguard due to racial prejudice and misinformation.",
+    "source_quote": "The Derro are on edge, and the Stone Guard are on edge. Everyone is worried something is going to happen, and some want it.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "The Duergar",
+    "fact": "The Duergar are a subterranean offshoot of dwarves, enslaved by magic and tradition, ruled by the Deepking. They are paranoid, superstitious, and obsessed with surface-level identifiers like scale color. Their society is built on control, bribery, and fear.",
+    "source_quote": "The Duergar of this city seem to live under the misconception that the color of a dragon\u2019s scales has anything to do with its perspective and morality and choices.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "The Ember Vanguard",
+    "fact": "The Ember Vanguard is a shadowy, feared mercenary band believed to have assassinated the Derro High Council and stolen the Egg. They are misidentified as the party due to racial and magical misperceptions. Their true nature is unknown, but they are described as having Menzoberranzan-level skill and soul-rending blades.",
+    "source_quote": "The Ember Vanguard, wanted dead as long as we can raise them or aliave.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "The Gray Ghosts",
+    "fact": "The Gray Ghosts are a Derro vengeful faction seeking retribution for the murder of their High Council. They believe the party is the Ember Vanguard and have issued a coded vendetta: stalk, strike from shadows, induce paranoia, and recover the Egg. They operate with fanatical precision and no mercy.",
+    "source_quote": "Your mission is clear: Stalk them relentlessly. Strike from the shadows. Leave paranoia in their wake. Recover The Egg.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "The Stone Guard",
+    "fact": "The Stone Guard is a Duergar military or policing force that has become paranoid and corrupt, accepting bribes and demanding proof of identity. They are on edge after the Ember Vanguard\u2019s attacks and fear infiltration by assassins from Menzoberranzan.",
+    "source_quote": "The Stone Guard is on edge and about strangers in the city.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Cairngorm\u2019s Cavern",
+    "fact": "Cairngorm\u2019s Cavern is the dwelling of Hgraam, a Stone Giant who has isolated himself from the world. It is a place of silence, stone, and ancient traditions, where surface knowledge is dismissed and outsiders are unwelcome.",
+    "source_quote": "The entrance to his cavern would be closed for a while.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Cairngorm\u2019s Cavern",
+    "fact": "Cairngorm\u2019s Cavern is the home of a stone giant who refuses to reveal a route to the surface and closes his entrance for an unknown length of time.",
+    "source_quote": "We end up at Hgraam\u2019s cave ... The stone giant sighs. And he offers us a small pile of coins. And then asks us to leave, declaring that the entrance to his cavern would be closed for a while. ... As we leave Cairngorm\u2019s Cavern...",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Darklake",
+    "fact": "The Darklake is a shadowy, mist-shrouded body of water located beyond the slums of Gracklstugh. It is a place of mystery and danger, where the party is now heading, pursued by the Gray Ghosts and hunted by the Deepking\u2019s agents.",
+    "source_quote": "We head out towards the Darklake.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Darklake",
+    "fact": "The Darklake is the destination after the group escapes the Derro ambush and reads the note left by the Gray Ghosts.",
+    "source_quote": "As we walk through an alley, trying to be inconspicuous, a group of Derro surrounds us. ... As I pick through the coins in their pocket, I find a note. ... With this warning, we head out towards the Darklake.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Darklake",
+    "fact": "The group heads toward the Darklake after the ambush, carrying the weight of false accusations and rising tension across Gracklstugh.",
+    "source_quote": "With this warning, we head out towards the Darklake.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Derro slums",
+    "fact": "The Derro slums are a place where the people are on edge, and the atmosphere is charged with pre-revolutionary violence, and where posters of the Ember Vanguard are displayed with spelling and grammar mistakes.",
+    "source_quote": "The Derro are particularly on edge. If I could express it, it would be a sense of pre-revolutionary violence. ... a poster that says, 'The Ember Vanguard, wanted dead as long as we can raise them or aliave.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Gartokkar\u2019s House",
+    "fact": "Gartokkar\u2019s House is where the group delivers the dragon egg, triggering suspicion and a clerical inquiry due to its occult markings.",
+    "source_quote": "As we walk through an alley, trying to be inconspicuous, a group of Derro surrounds us. They announce that the Grey Ghosts will have their revenge for the murder of the High Council.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Gartokkar\u2019s house",
+    "fact": "Gartokkar\u2019s house is where the group delivers the egg, and Gartokkar, a Duergar, becomes worried by the occult markings and asks Grygum, a cleric of Bahamut, for his opinion.",
+    "source_quote": "We are soon at Gartokkar\u2019s house. ... The Duergar takes the egg and notices the strange occult markings. He is worried. ... he turns to Grygum and asks him as a cleric of Bahamut, 'What do you think?'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh is a city of furnaces, bellowing heat, a toxic fog, and haze that blocks out the light; its filth contrasts jarringly with the beauty of Menzoberranzan.",
+    "source_quote": "Gracklstugh is a city of furnaces, bellowing heat, a toxic fog, and haze that blocks out the light. Visibility is constrained as we move about. The comparison with the filth of Gracklstugh and the beauty of Menzoberranzan is jarring.",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh is a city of furnaces, toxic fog, and oppressive heat, ruled by the Deepking. Its slums are choked with fear, its gates guarded by corrupt Duergar, and its walls lined with propaganda. It stands in stark contrast to the clean, elegant Drow cities.",
+    "source_quote": "Gracklstugh is a city of furnaces, bellowing heat, a toxic fog, and haze that blocks out the light.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh is the capital city of the Duergar, ruled by the Deepking. Its outer defenses are heavily guarded, its slums are tense with Derro unrest, and its inner district, Laduguer\u2019s Furrow, is where the wealthiest and most powerful Duergar reside. The city is a fortress of paranoia, propaganda, and magical surveillance.",
+    "source_quote": "We stand in Laduguer\u2019s Furrow. Here\u2019s where the richest and most powerful of the Duergar live.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh atmosphere",
+    "fact": "Gracklstugh has a toxic fog and haze that constrains visibility.",
+    "source_quote": "a toxic fog, and haze that blocks out the light",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Hgraam\u2019s Cave",
+    "fact": "Hgraam\u2019s Cave is the home of stone giants, where a secret ritual once transformed giants into two-headed monsters; the entrance is now closed indefinitely.",
+    "source_quote": "We end up at Hgraam\u2019s cave and explain to him that there was a secret ritual that was transforming his giants into two-headed monsters. He offers us a small pile of coins. And then asks us to leave, declaring that the entrance to his cavern would be closed for a while.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Laduguer\u2019s Furrow",
+    "fact": "Laduguer\u2019s Furrow is the wealthiest district of Gracklstugh, located just beyond the slums and guarded by the Deepking\u2019s elite. It is a place of hidden power, where Duergar nobles live in luxury while the lower classes starve and suffer.",
+    "source_quote": "We stand in Laduguer\u2019s Furrow. Here\u2019s where the richest and most powerful of the Duergar live.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Laduguer\u2019s Furrow",
+    "fact": "Laduguer\u2019s Furrow is where the richest and most powerful Duergar live, and is entered after passing through the slums and the gate.",
+    "source_quote": "We stand in Laduguer\u2019s Furrow. Here\u2019s where the richest and most powerful of the Duergar live.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "passageway dimensions",
+    "fact": "The passageway is 10 feet wide and 30 feet long with 20-foot side walls.",
+    "source_quote": "a passageway that is 10\u2019 wide and 30\u2019 long with 20\u2019 side walls",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Passageway to Grogluk\u2019s chamber",
+    "fact": "A 10\u2019 wide, 30\u2019 long corridor with 20\u2019 side walls, lined with visible and invisible Duergar guards. It leads to Grogluk\u2019s chamber and demonstrates the Duergar\u2019s use of magic and layered security to intimidate visitors and conceal their true strength.",
+    "source_quote": "There are at least five more invisible guards we can\u2019t see in this hallway.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "West Cleft District",
+    "fact": "The West Cleft District is a heavily fortified entrance to Gracklstugh, once abandoned but now patrolled by Duergar guards. It is a chokepoint of surveillance, where identity is questioned, bribes are demanded, and the Ember Vanguard is hunted.",
+    "source_quote": "As we approach the gate, the Derro thin out until we find ourselves alone, some 50 feet from the entrance to the West Cleft District.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "West Cleft District",
+    "fact": "The West Cleft District is entered after the Derro thin out, and contains a guardhouse now occupied, with a Duergar guard materializing and a poster of the Ember Vanguard on the wall.",
+    "source_quote": "we find ourselves alone, some 50 feet from the entrance to the West Cleft District. ... a Duergar guard materializes and asks, 'Your business?' ... a poster that says, 'The Ember Vanguard, wanted dead as long as we can raise them or aliave.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "West Cleft District",
+    "fact": "The West Cleft District is the fortified entrance to Gracklstugh, guarded by a newly manned guardhouse that was previously abandoned. It features wanted posters, invisible and visible Duergar sentries, and a gauntlet-like atmosphere where power, politics, and peril converge.",
+    "source_quote": "This is no mere checkpoint. It\u2019s a gauntlet where power, politics, and peril converge.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Whorlstone caves",
+    "fact": "The Whorlstone caves are exited by the group as they enter the slums of the Derro, and later the guardhouse there is abandoned, then not.",
+    "source_quote": "we leave the Whorlstone caves and once again enter the slums of the Derro. ... When we came, this guardhouse was abandoned; now it\u2019s not.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "dead derro",
+    "fact": "Five Derro are killed in the alleyway ambush.",
+    "source_quote": "a few moments later, there are five dead Derro",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Derro ambushers",
+    "fact": "A group of five Derro warriors ambushed the party in an alley, believing them to be the Ember Vanguard. They were armed for silent killing and died quickly, but their note confirms a citywide manhunt.",
+    "source_quote": "A group of Derro surrounds us. They announce that the Grey Ghosts will have their revenge...",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Duergar assault force",
+    "fact": "The Duergar maintain a standing military force ready to strike at any sign of dissent. They are not just guards but an organized assault unit, positioned to crush rebellion or eliminate threats like the Ember Vanguard.",
+    "source_quote": "It\u2019s a gauntlet where power, politics, and peril converge. One wrong step, and we will be trapped between a Duergar assault force, and the Derro looking to wage war on their oppressors.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Duergar guard at West Cleft District",
+    "fact": "The Duergar guard at the West Cleft District materializes and asks 'Your business?' and stands before a poster of the Ember Vanguard with spelling and grammar errors.",
+    "source_quote": "a Duergar guard materializes and asks, 'Your business?' ... a poster that says, 'The Ember Vanguard, wanted dead as long as we can raise them or aliave.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Gray Ghosts",
+    "fact": "The Gray Ghosts are a fanatical Derro death squad armed with invisibility, illusions, and stealth. They are not mere warriors but agents of vengeance, hunting the party with religious fervor and no intention of negotiation.",
+    "source_quote": "Stalk them relentlessly. Let the city itself become their cage.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Gray Ghosts",
+    "fact": "The Gray Ghosts are a hidden faction of Derro who stalk the Ember Vanguard, use invisibility and illusions, and seek to recover The Egg by any means, including death.",
+    "source_quote": "The Gray Ghosts will have their revenge for the murder of the High Council. ... Your mission is clear: ... Stalk them relentlessly. ... Strike from the shadows. ... Leave paranoia in their wake. ... Recover The Egg. It belongs to the Gray Ghosts.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Grogluk",
+    "fact": "Grogluk is a 4-foot-tall Duergar with ashen grey skin, scars, tattoos, and a clenched fist pendant, who pretends to be alone but is surrounded by invisible guards, and works for the Deepking.",
+    "source_quote": "Grogluk is about 4 feet tall; he has the typical ashen grey skin of the duergar. His face has scars and a few tattoos. ... around his neck is a crude pendant. ... 'This Duergar works for the Deepking.' ... Grygum whispers to me, 'There are at least five more invisible guards we can\u2019t see in this hallway.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "invisible Duergar guards",
+    "fact": "At least five invisible Duergar guards are present in the hallway with Grogluk, undetectable to the party. They are part of the Deepking\u2019s surveillance network and represent the hidden power of the regime.",
+    "source_quote": "There are at least five more invisible guards we can\u2019t see in this hallway.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "invisible duergar guards",
+    "fact": "There are at least five more invisible guards in the hallway.",
+    "source_quote": "There are at least five more invisible guards we can\u2019t see in this hallway",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who notices the Duergar's fixation on dragon scale color as a misconception, and recalls that the only dragons the Duergar know are the red dragons of the Keepers of the Flame, and Themberchaud is not doing dragonkind any favors.",
+    "source_quote": "The Duergar of this city seem to live under the misconception that the color of a dragon\u2019s scales has anything to do with its perspective and morality and choices. Although, to be fair, the only dragons they know are the red dragons of the Keepers of the Flame, and Themberchaud is not doing dragonkind any favors.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who recognizes patterns of corruption in Duergar guards, expects bribes, and acts preemptively to control dangerous situations. He is cynical, strategic, and understands the political instability caused by the Ember Vanguard\u2019s actions.",
+    "source_quote": "I have seen so many guards of despotic rulers living among the Drow, and they all want the same thing, a bribe.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a perceptive member of the party who recognizes the pattern of despotic Drow and Duergar guards demanding bribes. He is always prepared for contingency, readying spells when others negotiate. He understands the psychology of power and corruption in the Underdark.",
+    "source_quote": "I have seen so many guards of despotic rulers living among the Drow, and they all want the same thing, a bribe.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz notices another grey-skinned duergar leaning against the wall, eyeing them with cold calculation, and approaches him.",
+    "source_quote": "As we sneak about, I notice another grey-skinned duergar, leaning against the wall, eyeing us with cold calculation. If something is going to happen, I would rather have a hand in it happening, and so I walk up to him.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Duergar informant",
+    "fact": "The Duergar informant demands a gold piece and reveals that the Stone Guard is on edge due to the Ember Vanguard\u2019s murder of the Derro High Council.",
+    "source_quote": "He looks me over and tells us that the Stone Guard is on edge and about strangers in the city. \u201cAny group with a Drow would probably want to be very careful. Everybody\u2019s been on edge since the Ember Vanguard killed several members of the Derro High Council.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar is a Duergar artisan who guards the Egg and is terrified of its occult markings. He accepts Grygum\u2019s clerical authority as proof of legitimacy, makes a non-disclosure deal, and warns the party of the Deepking\u2019s hunters and the Derro\u2019s vendetta.",
+    "source_quote": "A deal and a non-disclosure agreement is a deal.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar is pleased when the egg is delivered but becomes worried by its occult markings and seeks the opinion of a cleric of Bahamut.",
+    "source_quote": "Gartokkar takes the egg and notices the strange occult markings. He is worried. Before I can reassure him further, he turns to Grygum and asks him as a cleric of Bahamut, \u201cWhat do you think?\u201d",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar warns the group about the Deepking\u2019s agents \u2014 shadowy assassins from Menzoberranzan feared even by Stone Guards \u2014 and questions how they survived them.",
+    "source_quote": "I heard the Deepking\u2019s agents are everywhere, looking for a mercenary band so fierce that the Stone Guards are afraid to face them head-on. They are not mere adventurers, more like shadowy assassins from Menzoberranzan with powerful magic and blades that can rend souls. How did you manage to survive them?",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grogluk",
+    "fact": "Grogluk is a 4-foot-tall Duergar with ashen grey skin, scarred face, tattoos, and a clenched-fist pendant signaling loyalty to the Deepking. He pretends to be alone but is surrounded by invisible guards. He demands proof of identity, bribes, and refuses entry unless compliance is shown.",
+    "source_quote": "Yes, I do. And are you the Ember Vanguard or are you its prey?",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grogluk",
+    "fact": "Grogluk is a 4-foot-tall Duergar with ashen grey skin, scars, tattoos, and a crude clenched-fist pendant, serving the Deepking. He pretends to be alone but is surrounded by invisible and visible guards. His demeanor is defiant and proud, but he demands proof of identity, bribes, and controls access to the city of Gracklstugh.",
+    "source_quote": "Yes, I do. And are you the Ember Vanguard or are you its prey?",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grogluk",
+    "fact": "Grogluk works for the Deepking.",
+    "source_quote": "This Duergar works for the Deepking.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grogluk",
+    "fact": "Grogluk\u2019s defiant and proud demeanor is an act; he\u2019s not alone.",
+    "source_quote": "Grogluk\u2019s defiant and proud demeanor is an act. He\u2019s not alone. He just pretends to be.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a cleric of Bahamut who performs the seventeen steps of the night prayer to the Platinum God with precision, and later tells Grogluk, 'Fuck those guys,' about the Ember Vanguard, then bribes him with 20 gold to pass through.",
+    "source_quote": "Remembering a simple salute is no challenge for a cleric of Bahamut. The seventeen steps of the night prayer to the Platinum God are more challenging than this simple ritual. ... 'Fuck those guys,' I add with emphasis. ... I size him up and give him 20 gold.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is an orc cleric of Bahamut who performs the seventeen-step night prayer flawlessly to prove innocence. He is pragmatic, uses intimidation and bribery (paying 20 gold), and is exasperated by the Duergar\u2019s obsession with scale color as moral indicator.",
+    "source_quote": "Fuck those guys.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum recalled the Giants eating prisoners who tried to steal rather than escape.",
+    "source_quote": "He remembered how the Giants ate the ones who tried to steal",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum, a cleric of Bahamut, dismisses the idea that dragon evil is tied to scale pigmentation but admits he knows little about chromatic dragons beyond their tendency to become evil.",
+    "source_quote": "Grygum finds the tiresome confusion among the masses that the evil of dragons is a function of scale pigmentation to be very annoying, but sometimes it can be handy. \u201cI am a cleric of the Platinum Dragon. I know much about metallic dragons. But this is a chromatic dragon, and I know very little other than it will become evil.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Hgraam",
+    "fact": "Hgraam is a Stone Giant who is weary, distrustful, and isolated. He offers coins to the party and closes his cavern, refusing to discuss surface routes. He embodies the ancient, insular nature of his kind and fears outside interference.",
+    "source_quote": "I know of no such place. I do not know if such a place even exists.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Hgraam",
+    "fact": "Hgraam, a stone giant, is skeptical of the surface world and refuses to acknowledge its existence, closing his cavern to outsiders.",
+    "source_quote": "He scratches his head and says, \u201cI know of no such place. I do not know if such a place even exists. And I would not know what to do with a world that had no stone over my head.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is a member of the party who initiates a bet on Thorin\u2019s embarrassment not for profit but to shift group morale. He understands psychological manipulation and uses humor to ease tension in a hostile environment.",
+    "source_quote": "I wager that Thorin will do something embarrassing. Anyone want to take the bet?",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is smiling as if the goal of the bet was not to win or lose, but to change the group\u2019s mood.",
+    "source_quote": "Jimjar smiles as if the goal wasn\u2019t to win or lose the bet but something else, to change our mood.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a dwarf who accidentally reveals his incompetence through physical embarrassment (pants falling), but is otherwise a loud, impulsive member of the party. He misremembers events and is confused about the Ember Vanguard\u2019s identity, yet is trusted by the group.",
+    "source_quote": "We killed several members of the high council?",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a dwarf who accidentally unbuckles his belt and lets his pants fall during a bet, and later denies responsibility for the Ember Vanguard's actions, saying, 'We killed several members of the high council?'",
+    "source_quote": "Thorin takes the bet and accidentally unbuckles his belt, and his pants fall. ... Thorin mutters, 'We killed several members of the high council?'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin responds to Gartokkar\u2019s warning by claiming the group appeared small and insignificant, successfully deflecting suspicion.",
+    "source_quote": "\u201cWe appeared small and insignificant.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin unbuckled his belt, causing his pants to fall, and laughed along with the group.",
+    "source_quote": "Thorin takes the bet and accidentally unbuckles his belt, and his pants fall. We all laugh.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir believes the Duergar mistakenly equate dragon scale color with morality.",
+    "source_quote": "The Duergar of this city seem to live under the misconception that the color of a dragon\u2019s scales has anything to do with its perspective and morality and choices",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a Dragonborne whose golden scales have been mistaken for red by Duergar. He is misidentified as part of the Ember Vanguard due to racial prejudice and magical misperception. He is calm, observant, and aware of the Duergar's flawed understanding of dragonkind.",
+    "source_quote": "The golden dragonborne, Zalthir, is now red.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a Dragonborne whose scales are not red, contradicting the Duergar\u2019s mistaken belief that scale color defines morality. He is falsely implicated in the Ember Vanguard\u2019s wanted poster and carries Stone Guard passes. He is observant, calm under pressure, and recognizes the Duergar\u2019s reliance on magic and propaganda.",
+    "source_quote": "Then you must not be,\" and points at the picture of the Ember Vanguard, \"the Ember Vanguard.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a Drow wizard who uses his sphere of darkness to hide the group, and is confronted by Grogluk who demands proof he is not the Ember Vanguard, and notes that the golden dragonborne Zalthir is now red.",
+    "source_quote": "Zalthir uses his sphere of darkness to hide the group. ... Grogluk chuckles at the thought, a gold dragonborne causing so much havoc. ... the golden dragonborne, Zalthir, is now red.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir uses his sphere of darkness to conceal the group as they leave Hgraam\u2019s Cave, ensuring safe passage.",
+    "source_quote": "As we leave Cairngorm\u2019s Cavern, Zalthir uses his sphere of darkness to hide the group. We figure that the haze and darkness will allow us to proceed unmolested.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "bribe amount",
+    "fact": "Grygum gives Grogluk 20 gold as a bribe.",
+    "source_quote": "I size him up and give him 20 gold",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Clenched-Fist Pendant",
+    "fact": "A crude pendant worn by Grogluk, shaped like a clenched fist. It is a symbol of loyalty to the Deepking and a common token of the Underdark\u2019s power structures. It signals allegiance and fear.",
+    "source_quote": "It\u2019s a familiar token of the Underdark, a clenched fist that expresses loyalty to the ruler.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "clenched-fist pendant",
+    "fact": "A crude, familiar Underdark token worn by Grogluk, symbolizing loyalty to the Deepking. It is a mark of allegiance used by Duergar enforcers and is recognized by Zalthir as a sign of servitude to the ruling power.",
+    "source_quote": "It\u2019s a familiar token of the Underdark, a clenched fist that expresses loyalty to the ruler.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "coin payment to duergar informant",
+    "fact": "A Duergar informant demands and receives a gold piece.",
+    "source_quote": "The Duergar sticks out his hand and demands a gold piece",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "note from Derro",
+    "fact": "The note falsely identifies the party as the Ember Vanguard, accuses them of murdering the Derro High Council, stealing the Egg, and orders the Grey Ghosts to stalk, strike from shadows, and recover the Egg.",
+    "source_quote": "To all - The Deepking\u2019s agents\u2014the four shadows, The Ember Vanguard, who walk among us, wielding dark magic and unmatched skill\u2014have brought death and dishonor to our kin. They are the ones who crushed our leader and stole what is rightfully ours: The Egg. Your mission is clear: Stalk them relentlessly... Strike from the shadows... Leave paranoia in their wake... Recover The Egg. It belongs to the Gray Ghosts.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Stone Guard Passes",
+    "fact": "Official documents granting the party access to Duergar territories. They are suspected of forgery by Grogluk, and their legitimacy is questioned despite being physically presented.",
+    "source_quote": "I show him the passes of the Stone Guard.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "The clenched fist pendant",
+    "fact": "The clenched fist pendant is a crude token worn around Grogluk\u2019s neck, a familiar symbol of the Underdark expressing loyalty to the ruler, and identifies him as working for the Deepking.",
+    "source_quote": "around his neck is a crude pendant. ... It\u2019s a familiar token of the Underdark, a clenched fist that expresses loyalty to the ruler. ... 'This Duergar works for the Deepking.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "The Egg",
+    "fact": "The Egg is a mysterious artifact rescued from a ritual, bearing strange occult markings, and is the object of a vendetta by the Gray Ghosts who believe it was stolen from them.",
+    "source_quote": "We rescued it from a mysterious ritual. ... The Duergar takes the egg and notices the strange occult markings. ... The Egg. Your mission is clear: ... Recover The Egg. It belongs to the Gray Ghosts.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "The Egg",
+    "fact": "The Egg is a mysterious, occult-marked artifact of unknown origin, stolen by the Ember Vanguard and now carried by the party. It is feared by Duergar artisans and desired by the Gray Ghosts. Its power is tied to transformation and dark magic.",
+    "source_quote": "He notices the strange occult markings. He is worried.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "The Ember Vanguard poster",
+    "fact": "The Ember Vanguard poster is displayed in the West Cleft District with a spelling mistake ('aliave') and a grammar mistake, and depicts a drow wizard and a golden dragonborne who is now red, with a likeness of Thorin that is flattering and Grygum that is more fierce than he is.",
+    "source_quote": "a poster that says, 'The Ember Vanguard, wanted dead as long as we can raise them or aliave.' ... The picture of the Ember Vanguard, most certainly, doesn\u2019t look like us. The drow wizard is an ancient Drow wizard. The golden dragonborne, Zalthir, is now red. As for Thorin, the likeness is flattering. And as for Grygum, they made him far more fierce than he really is.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "The Gray Ghosts note",
+    "fact": "The Gray Ghosts note is a written vendetta found on a dead Derro, ordering the stalking, shadow-striking, and paranoia-inducing pursuit of the Ember Vanguard to recover The Egg, and declares failure is not an option.",
+    "source_quote": "To all - ... The Deepking\u2019s agents\u2014the four shadows, The Ember Vanguard, who walk among us, wielding dark magic and unmatched skill\u2014have brought death and dishonor to our kin. ... Your mission is clear: ... Stalk them relentlessly. ... Strike from the shadows. ... Leave paranoia in their wake. ... Recover The Egg. ... Failure is not an option. Be swallowed by the shadows, or make them so.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "The Stone Guard passes",
+    "fact": "The Stone Guard passes are documents shown to Grogluk to prove legitimacy, but he dismisses them as forgeable and demands proof that the group is not the Ember Vanguard.",
+    "source_quote": "I show him the passes of the Stone Guard. ... Grogluk stares at them, annoyed, 'Passes can be forged. Show me proof that you are not the Ember Vanguard!'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "wanted poster of the Ember Vanguard",
+    "fact": "A Duergar propaganda poster depicting the Ember Vanguard with glaring inaccuracies: a red Dragonborne instead of gold, an ancient Drow wizard, and an exaggeratedly fierce Grygum. The poster contains spelling and grammar errors, revealing the Duergar\u2019s ignorance and fear-driven misinformation.",
+    "source_quote": "The Ember Vanguard, wanted dead as long as we can raise them or aliave.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "civil war risk",
+    "fact": "The death of the Derro High Council members has increased the possibility of a civil war in Gracklstugh, as they were part of the city\u2019s overall power structure.",
+    "source_quote": "The Derro we killed were not just madmen; they were part of the overall power structure of this city. And with them dead, the possibility of a civil war has suddenly increased.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "deal with Thermbechaude",
+    "fact": "The group believes they had a deal with Thermbechaude, but in reality, they never agreed to anything \u2014 creating a potential betrayal or misunderstanding.",
+    "source_quote": "As I walk out, I remember that we had a deal with Thermbechaude. And then I remember, Thermebechaude thought he had an agreement with us. We never had a deal with him.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Deepking\u2019s agents",
+    "fact": "The Deepking\u2019s agents are shadowy assassins feared by the Stone Guards, possibly identical to the Ember Vanguard, and are now actively hunting the party.",
+    "source_quote": "I heard the Deepking\u2019s agents are everywhere, looking for a mercenary band so fierce that the Stone Guards are afraid to face them head-on. They are not mere adventurers, more like shadowy assassins from Menzoberranzan with powerful magic and blades that can rend souls.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "egg\u2019s origin",
+    "fact": "The origin and true nature of the dragon egg remain mysterious, its occult markings suggesting a ritualistic or forbidden creation, and its viability uncertain.",
+    "source_quote": "Gartokkar takes the egg and notices the strange occult markings. He is worried. We rescued it from a mysterious ritual.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Ember Vanguard misidentification",
+    "fact": "The party is being falsely labeled as the Ember Vanguard by the Grey Ghosts, creating a dangerous misconception that could lead to widespread pursuit.",
+    "source_quote": "The note falsely identifies the party as the Ember Vanguard, accusing them of murdering the Derro High Council and stealing the Egg.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "fallen leader's vengeance",
+    "fact": "The dead do not rest, and neither do those who seek vengeance for the fallen leader; death follows the trespassers who believe they can outrun shadows.",
+    "source_quote": "This is not merely an order; it is a cold, cruel vendetta for our fallen leader. You carry death with you for these trespassers. They believe they can outrun shadows, but the dead do not rest, and neither do we.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Grogluk\u2019s hidden agenda",
+    "fact": "Grogluk\u2019s demand for proof, his acceptance of bribes, and his sudden shift from hostility to compliance suggest he is acting under orders from the Deepking. His true intentions \u2014 whether to eliminate the party, recruit them, or test them \u2014 remain unclear, and his mention of Grogluk\u2019s superior, Grogluk, implies deeper machinations.",
+    "source_quote": "Grogluk will wish to speak to you. Follow me.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Grygum\u2019s hidden knowledge",
+    "fact": "Grygum\u2019s ability to perform the Platinum God\u2019s ritual flawlessly and his knowledge of dragonkind suggest deeper ties to Bahamut\u2019s faith. His blunt honesty may be a shield for secrets he is not revealing.",
+    "source_quote": "I am a cleric of the Platinum Dragon. I know much about metallic dragons.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "identity misidentification",
+    "fact": "The party is repeatedly mistaken for the Ember Vanguard due to racial prejudice, magical misperception, and propaganda. Their true identities are ignored, and they are hunted as if they are shadow assassins from Menzoberranzan.",
+    "source_quote": "You are a Drow... You are a dwarf and you are an orc!",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "shadow swallowing",
+    "fact": "Failure is not an option; those who do not yield to the shadows must become them \u2014 a mandate of absolute annihilation.",
+    "source_quote": "Failure is not an option. Be swallowed by the shadows, or make them so.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Stool's home",
+    "fact": "Stool wants to return home, but the location of his home is not specified in this session.",
+    "source_quote": "Stool just wanted to go home",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The ambiguity of the Egg\u2019s origin",
+    "fact": "The thread of ambiguity surrounds the Egg: it was rescued from a ritual, marked with occult symbols, desired by the Gray Ghosts, and feared by Gartokkar, yet its true nature remains unknown.",
+    "source_quote": "We rescued it from a mysterious ritual. ... The Duergar takes the egg and notices the strange occult markings. He is worried. ... 'Recover The Egg. It belongs to the Gray Ghosts.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The contrast between Menzoberranzan and Gracklstugh",
+    "fact": "The thread of aesthetic contrast runs from Daz\u2019s observation that the Drow would not reduce suffering but would at least have clean air, to the jarring filth of Gracklstugh.",
+    "source_quote": "The comparison with the filth of Gracklstugh and the beauty of Menzoberranzan is jarring. ... The Drow would not reduce the suffering in this place, but at least it would have clean air.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "the Deepking\u2019s hidden agenda",
+    "fact": "The Deepking\u2019s agents are hunting the Ember Vanguard, but their true goal may be to eliminate all outsiders, consolidate power, or use the chaos to seize the Egg. Their motives are obscured by corruption and paranoia.",
+    "source_quote": "Grogluk will wish to speak to you. Follow me.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The failure of communication between factions",
+    "fact": "The thread of failed communication runs from the Derro refusing to listen to the group\u2019s denials, to Grogluk dismissing the Stone Guard passes, to Gartokkar accepting the deal without understanding it.",
+    "source_quote": "The Derro won\u2019t listen. ... 'Passes can be forged.' ... 'I don\u2019t know what kind of deal we made or who we made it with!'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The false identity of the Ember Vanguard",
+    "fact": "The thread of mistaken identity runs through the narrative: the group is accused of being the Ember Vanguard, though they are not, and the poster misrepresents them with a red Zalthir and a more fierce Grygum.",
+    "source_quote": "The picture of the Ember Vanguard, most certainly, doesn\u2019t look like us. ... The Deepking\u2019s agents\u2014the four shadows, The Ember Vanguard, who walk among us ... have brought death and dishonor to our kin. ... 'We killed several members of the high council?'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "the fate of Thermebechaude\u2019s agreement",
+    "fact": "Thorin remembers a supposed deal with Thermebechaude, but the party never made one. This implies either a false memory, a deception, or a hidden player manipulating events from the shadows.",
+    "source_quote": "I remember that we had a deal with Thermbechaude. And then I remember, Thermebechaude thought he had an agreement with us. We never had a deal with him.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The fragility of peace in Gracklstugh",
+    "fact": "The thread of deteriorating peace runs from the Derro on edge, to the High Council murdered, to the Gray Ghosts seeking vengeance, to the Stone Guard on edge, and to Grogluk warning of explosion.",
+    "source_quote": "The atmosphere at the gate has put me on edge. The balance that kept the peace is tilting towards madness. ... since the Ember Vanguard killed several members of the Derro High Council. ... Everyone is worried something is going to happen, and some want it.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The illusion of control by the Deepking",
+    "fact": "The thread of false control runs through Grogluk\u2019s act of solitary authority, the invisible guards, the posturing, and the realization that he is not alone but pretending to be.",
+    "source_quote": "Grogluk\u2019s defiant and proud demeanor is an act. He\u2019s not alone. He just pretends to be. ... There are at least five more invisible guards we can\u2019t see in this hallway.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The misconception of dragon scale color",
+    "fact": "The thread of misunderstanding that dragon scale color determines morality is repeated by Duergar, Daz, and Grogluk, and is contrasted with Zalthir's knowledge that Themberchaud is not doing dragonkind any favors.",
+    "source_quote": "The Duergar of this city seem to live under the misconception that the color of a dragon\u2019s scales has anything to do with its perspective and morality and choices. ... Grogluk chuckles at the thought, a gold dragonborne causing so much havoc. ... Themberchaud is not doing dragonkind any favors.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The myth of the Ember Vanguard as a symbol",
+    "fact": "The thread of myth-making runs through the poster, the note, the accusations, and the fear: the Ember Vanguard is a phantom, a scapegoat, a symbol of chaos that unites the Derro in vengeance.",
+    "source_quote": "The Ember Vanguard, wanted dead as long as we can raise them or aliave. ... The Deepking\u2019s agents\u2014the four shadows, The Ember Vanguard, who walk among us ... have brought death and dishonor to our kin. ... 'Who are these fearsome warriors, the Ember Vanguard?'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "the origin of the Ember Vanguard",
+    "fact": "The true identity of the Ember Vanguard is unknown. They may be a real group, a fabrication by the Deepking, or even the party themselves misremembered by a corrupted populace. Their existence fuels civil unrest.",
+    "source_quote": "How did you manage to survive them?",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The role of humor in tense situations",
+    "fact": "The thread of humor runs from Thorin\u2019s pants falling, to Jimjar\u2019s bet, to Grygum\u2019s 'Fuck those guys,' suggesting that levity is used to manage fear and cohesion in the party.",
+    "source_quote": "Thorin takes the bet and accidentally unbuckles his belt, and his pants fall. We all laugh. ... Jimjar smiles as if the goal wasn\u2019t to win or lose the bet but something else, to change our mood. ... 'Fuck those guys,' I add with emphasis.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "the true nature of the Egg",
+    "fact": "The Egg\u2019s markings, its theft, and its effect on those who touch it suggest it is more than a mere artifact. It may be a vessel, a weapon, or a key to something far older than the Duergar or Derro.",
+    "source_quote": "The strange occult markings.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The use of bribes to navigate authority",
+    "fact": "The thread of bribery runs through encounters with Duergar guards: Daz pays a guard, Grygum pays Grogluk, and the pattern suggests corruption is systemic in Gracklstugh\u2019s gatekeeping.",
+    "source_quote": "He looks me over and tells us that the Stone Guard is on edge ... demands a gold piece, and we pay him off. ... I size him up and give him 20 gold. ... 'But I do have some guards, and it would be a shame if I could not spread some coin.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  }
+]

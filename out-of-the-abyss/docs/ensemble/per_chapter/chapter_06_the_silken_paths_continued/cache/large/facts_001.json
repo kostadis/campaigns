@@ -1,0 +1,324 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occur on the 8th day of the 2nd Tenday of Taraskh 1493.",
+    "source_quote": "8th day of the 2nd Tenday of Taraskh 1493",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Silken Paths",
+    "fact": "The escapees are traveling through the Silken Paths.",
+    "source_quote": "the escapees continue their trudge through the Silken Paths",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Darklake",
+    "fact": "The Darklake is a large body of water in the Underdark with no conventional surface.",
+    "source_quote": "The Darklake is a large body of water. Unlike the overbrite, it doesn\u2019t have a surface in the conventional sense.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Sloobludop",
+    "fact": "Sloobludop is a destination the escapees are heading toward.",
+    "source_quote": "We have been heading towards Sloobludop.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh is a large Derro city where the escapees plan to obtain weapons and gear.",
+    "source_quote": "Gracklstugh is a large Derro city. That\u2019s where we can get weapons and gear.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve",
+    "fact": "The escapees started their journey in Velkynvelve.",
+    "source_quote": "We started in Velkynvelve.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Fargas reveals tomb location",
+    "fact": "Fargas reveals that the tomb of Brysis of Khaem is on the eastern edge of the Darklake.",
+    "source_quote": "It\u2019s on the eastern edge of the Darklake.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sethir identifies tomb location",
+    "fact": "Sethir claims he knows where the tomb of Brysis of Khaem is located.",
+    "source_quote": "I know where it must be. I can get us there.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sethir draws map with Ormu",
+    "fact": "Sethir draws a map using the Ormu collected from the narrow tunnel.",
+    "source_quote": "He uses the Ormu that Zalthir had collected from the narrow tunnel they had squeezed through.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "distance to Sloobludop determined",
+    "fact": "Sethir estimates the group is three days from Sloobludop.",
+    "source_quote": "Three days.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Ormu",
+    "fact": "The Ormu is a substance collected from the narrow tunnel and used by Sethir to draw a map.",
+    "source_quote": "He uses the Ormu that Zalthir had collected from the narrow tunnel they had squeezed through.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Fargas Rumblefoot",
+    "fact": "Fargas Rumblefoot admits to having promised treasure in exchange for escape help.",
+    "source_quote": "I suppose I should keep my end of the bargain.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Fargas Rumblefoot",
+    "fact": "Fargas Rumblefoot describes the tomb of Brysis of Khaem as having a false burial chamber and a hidden chamber accessed via a servants' tomb.",
+    "source_quote": "What is essential is that I know about the false tomb. When other treasure hunters arrive at the tomb, they find a sarcophagus and a burial chamber. And that is a fake burial chamber. The real treasure is hidden in another chamber that you reach from a secret passageway from the servants' tomb.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Fargas Rumblefoot",
+    "fact": "Fargas Rumblefoot does not know the precise location of Brysis\u2019s tomb.",
+    "source_quote": "I don\u2019t know the precise location.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum took notes while Fargas was speaking and repeated his claims verbatim.",
+    "source_quote": "I took notes while you were talking,\" and then repeats what Fargas said.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum concludes that Fargas was not lying and is not lying.",
+    "source_quote": "Fargas wasn\u2019t -lying- and he isn\u2019t lying.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir touches Fargas\u2019s belly to check for gnoll spawn.",
+    "source_quote": "Zalthir then walks up to Fargas and touches his belly.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir declares that Fargas is not a gnoll spawn.",
+    "source_quote": "No gnoll spawn.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sethir",
+    "fact": "Sethir claims he can guide the group to the tomb of Brysis of Khaem.",
+    "source_quote": "I know where it must be. I can get us there.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir questions whether Sethir\u2019s knowledge of the tomb\u2019s location has changed.",
+    "source_quote": "It is interesting that he said he knew where it was previously but doesn\u2019t know now.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Yukyuk",
+    "fact": "Yukyuk suggests sliding under the spiders and cutting the web from the other side as a better tactic.",
+    "source_quote": "Like dudes, that was cool. But you might want to have thought about sliding -under- the spiders and cutting the web from the other side. That would have been so much cooler.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Spiderbait",
+    "fact": "Spiderbait criticizes the use of magic as cheating in the game of cut-the-graph.",
+    "source_quote": "And like, using Magic is okay, but like, it\u2019s kind of a cheat. I mean, I get why you did it, but next time, you should like stick to your skills.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Giant Spiders",
+    "fact": "Giant Spiders build new bridges using web-spinning to advance during the game of cut-the-graph.",
+    "source_quote": "they use their web-spinning ability to build new bridges and advance along those bridges.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Giant Spiders",
+    "fact": "Giant Spiders stop pursuing if they leave their territorial domain.",
+    "source_quote": "the Giant Spiders are somewhat territorial. If they run out of their domain, they will stop pursuing them.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Spectator",
+    "fact": "A Spectator approaches the group and broadcasts warnings about demons.",
+    "source_quote": "I bring warnings of Demons,",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Spectator",
+    "fact": "The Spectator accuses Zalthir of being a demon or working for the Drow.",
+    "source_quote": "Maybe you are a demon! Maybe you weren\u2019t prisoners of the Drow but worked for the Drow. Maybe that Drow is your master!",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Spectator",
+    "fact": "The Spectator uses a confusion ray on Thorin.",
+    "source_quote": "It uses a confusion ray on Thorin.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Spectator",
+    "fact": "The Spectator emits a green ray that paralyzes Zalthir.",
+    "source_quote": "One of the eyestalks, meanwhile, emits an eerie green ray, and Zalthir is now paralyzed.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Spectator",
+    "fact": "The Spectator emits a blue ray that fails to affect Thorin.",
+    "source_quote": "A blue ray from another eyestalk strikes Thorin, but Thorin is unaffected.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Spectator",
+    "fact": "The Spectator is killed by Daz\u2019s magic missiles and Thorin\u2019s sword strikes.",
+    "source_quote": "The Spectator is dead.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Yukyuk",
+    "fact": "Yukyuk praises Zalthir\u2019s spiderweb-walking maneuver after the Spectator battle.",
+    "source_quote": "That was some next-level spider walking. Like going underneath the spider web and attacking the creature.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "mimic",
+    "fact": "The group encounters a large chest that they all believe to be a mimic.",
+    "source_quote": "they see a large chest. There is a momentary desire to see if it\u2019s a treasure chest, but all agree it\u2019s a mimic.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar accepts Grygum\u2019s bet that he cannot convince the Spectator they are not demons, and fails.",
+    "source_quote": "Jimjar, I\u2019ll make a bet you can\u2019t convince him that we are not demons and not enemies.\" and \"Jimjar takes the bet and fails.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar says he is good for paying Yukyuk and Spiderbait but not right now.",
+    "source_quote": "I am good for it, but not right now. I promise you\u2019ll get your money.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar says he will pay Yukyuk and Spiderbait the minute he gets the money.",
+    "source_quote": "The minute I get it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido overhears Daz\u2019s comment about the goblins being useful as fodder and suggests Zalthir could be part of his divine plan.",
+    "source_quote": "What an interesting idea, Zalthir. Perhaps you can be part of my divine plan.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz mutters that the goblin guides might prove useful as fodder in a battle.",
+    "source_quote": "They might prove useful as fodder in a battle.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "true location of Brysis\u2019s tomb",
+    "fact": "The precise location of Brysis of Khaem\u2019s floating tomb remains unknown to the group.",
+    "source_quote": "I don\u2019t know the precise location.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Sethir\u2019s knowledge of the tomb",
+    "fact": "It is unclear whether Sethir truly knows the tomb\u2019s location or is bluffing.",
+    "source_quote": "It is interesting that he said he knew where it was previously but doesn\u2019t know now.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Zalthir\u2019s plan to retrieve mimic treasure",
+    "fact": "Zalthir privately wonders if he can convince the goblin guides to retrieve the treasure from the mimic.",
+    "source_quote": "Zalthir privately wonders if they could convince the two guides to get the gold from the mimic.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Spectator\u2019s suspicion of Buppido",
+    "fact": "Zalthir considers whether the Spectator thought Buppido was the demon, but dismisses the thought.",
+    "source_quote": "Zalthir wonders whether the Spectator thought Buppido was the demon, but he pushes that idea aside",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "group escapes Giant Spiders",
+    "fact": "The group escapes Giant Spiders by cutting strands and using swords and magic missiles to slow them.",
+    "source_quote": "As the Spiders advance on the group, the group starts running and cutting strands... The combination of swords and Daz\u2019s magic missiles slows down the Spiders long enough to allow everyone to escape.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "group encounters Spectator",
+    "fact": "The group encounters a Spectator while walking along a web strand far from others.",
+    "source_quote": "a floating sphere with a gaping maw and a single great eye, set within four eyestalks, floats up to meet them.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Spectator is killed",
+    "fact": "The Spectator is killed by Daz\u2019s magic missiles and Thorin\u2019s sword attack.",
+    "source_quote": "The Spectator is dead.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "group reaches stony ground",
+    "fact": "The group leaves the web strands and reaches stony ground after passing the mimic.",
+    "source_quote": "Once past the mimic, the group is on stone, and the endless tunnels of the Underdark beckon.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "goblins decide to stay with group",
+    "fact": "Yukyuk and Spiderbait decide to stay with the escapees after Zalthir\u2019s impressive spiderweb maneuver.",
+    "source_quote": "Yukyuk and Spiderbait are tempted to abandon the escapees, but Zalthir's slick, kick-ass move elevates them in the two guides' imaginations. And so they decide to stay with the escapees.",
+    "quote_verified": true
+  }
+]

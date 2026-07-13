@@ -1,0 +1,142 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
+    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "An hour passes between two events in the session.",
+    "source_quote": "An hour later",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
+    "source_quote": "four chasme and two vrock",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "Sloobludop is approximately eight days away via the Darklake.",
+    "source_quote": "the town of Sloopdopblop is just eight days away",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
+    "source_quote": "Drow outpost was 100' in the sky",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "third-story apartment discovery",
+    "fact": "A third-story apartment with an open door in Janussi's chambers remains unvisited.",
+    "source_quote": "There's something listed as a third-story apartment with an open door we haven't gone into.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "wrapping paper trail",
+    "fact": "The wrapping paper from the poisoned book was taken to Janussi's third-story apartment.",
+    "source_quote": "the wrapping paper from the poisoned book had been taken there",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch, the First Reader, is the target of a blocked proposal and is now being hunted for his truth-seeking spell.",
+    "source_quote": "Kalan Strongbranch. The First Reader. The one with the truth-seeking spell that had already anchored the investigation once.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "feast burning",
+    "fact": "Alkrist burned something at the feast, a detail unflagged until Grygum recalled it.",
+    "source_quote": "there's something in the list about what Alkrist burned at the feast \u2014 you should ask about that.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Sylvira's quarters",
+    "fact": "Sylvira's quarters are a fevered, overheated chamber where she is framed for murder and dying under poison.",
+    "source_quote": "Sylvira was framed for the murder and dying slowly under the poison's effect.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sylvira's confession",
+    "fact": "Sylvira admitted to her final words with Janussi and suspected Kazryn Nyantani of the murder.",
+    "source_quote": "Those were my last words with him... That bitter old hag... who always resented Janussi for ditching her in favor of me.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Janussi's critique",
+    "fact": "Janussi's written critique dismissed Kalan Strongbranch's criminal investigation methodology as solipsism.",
+    "source_quote": "found it to be solipsism, and had blocked it... dismissed as solipsism. Shelved.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Fembris hunts Kalan",
+    "fact": "Fembris set out to hunt Kalan Strongbranch, the First Reader, to bind the Alkrist interview.",
+    "source_quote": "I'm gonna have to hunt Kalan down... Let me go, let me go.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Janussi's chambers",
+    "fact": "Janussi's chambers contain a third-story apartment with hidden evidence, personal writings, and unresolved academic rivalries.",
+    "source_quote": "Janussi's chambers... The third floor was... well... We kind of heard Janussi had these habits.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz interviews Sylvira",
+    "fact": "Daz conducted a deliberate, empathetic interview with Sylvira, uncovering her framing and motive tied to Menzoberranzan prejudice.",
+    "source_quote": "I believe I said you were framed... She took it. It was accurate, if not warm.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum uncovers Janussi's note",
+    "fact": "Grygum discovered and analyzed Janussi\u2019s damning academic note rejecting Kalan\u2019s methodology.",
+    "source_quote": "I read it... Oh boy, this starts out with some real academic insult.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Alkrist interview preparation",
+    "fact": "The Alkrist interview is pending, to be bound by Kalan\u2019s truth spell and informed by the feast burning detail.",
+    "source_quote": "we needed Kalan. And Kalan, apparently, had gone somewhere.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Menzoberranzan thread",
+    "fact": "The Menzoberranzan thread underlies the framing of Sylvira and the cultural distrust in the investigation.",
+    "source_quote": "the Menzoberranzan thread running under all of this",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "three lines of inquiry",
+    "fact": "Three lines of inquiry\u2014Grygum on physical evidence, Daz on Sylvira, Kalan on truth-binding\u2014are cleanly divided among investigators.",
+    "source_quote": "Three lines of inquiry. Three investigators. The work divided cleanly, cleaner than most things we attempted.",
+    "quote_verified": true
+  }
+]

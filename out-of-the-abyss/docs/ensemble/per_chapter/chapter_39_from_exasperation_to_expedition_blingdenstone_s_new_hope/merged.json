@@ -1,0 +1,1862 @@
+[
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "An hour passes between two events in the session.",
+    "source_quote": "Chief Dorbo appeared, annoyed at the intrusion into his private quarters",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occur during a single session of play, with decisions made, plans formed, and forces divided in a continuous narrative arc.",
+    "source_quote": "With their plans finalized and their forces divided, the party prepared to embark on their chosen quests...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "Session Date",
+    "fact": "The events described occurred during the session following the party's previous meeting, when Daz took decisive control after growing exhausted with political maneuvering.",
+    "source_quote": "The party gathered to discuss the events of their previous meeting, where Daz had grown exhausted with political maneuvering and taken decisive control.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
+    "source_quote": "The party gathered to discuss the events of their previous meeting",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "acid resistance acquisition",
+    "fact": "The party decided to obtain acid resistance by traveling to Neverlight Grove to collect ingredients for an acid-protection potion, avoiding Gracklstugh due to its uncertain status.",
+    "source_quote": "They also decided to obtain acid resistance by traveling to Neverlight Grove for the necessary ingredients.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "acquiring acid resistance",
+    "fact": "acquiring acid resistance is referenced as the quest the party decided to pursue by traveling to Neverlight Grove for the necessary ingredients.",
+    "source_quote": "They also decided to obtain acid resistance by traveling to Neverlight Grove for the necessary ingredients.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Barrow Warden ghost quest",
+    "fact": "Uth-Jadger offered the help of other Barrow Warden ghosts if the party undertook a quest for them.",
+    "source_quote": "Uth-Jadger offered the help of other Barrow Warden ghosts if the party undertook a quest for them",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "blame arrangement for casualties",
+    "fact": "If mistakes were made that led to casualties, the blame would fall squarely on Daz, and Chipgrin could seek vengeance against him personally.",
+    "source_quote": "If mistakes were made that led to casualties, the blame would fall squarely on Daz, and Chipgrin could seek vengeance against him personally",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Chief Chipgrin",
+    "fact": "Chief Chipgrin agreed to attend a larger meeting with all the clan leaders to finalize the plan.",
+    "source_quote": "This straightforward arrangement satisfied the wererat chief, who agreed to attend a larger meeting with all the clan leaders to finalize the plan.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Chief Chipgrin",
+    "fact": "Chief Chipgrin initially assumed the party had been sent by the Diggermattocks to remove his clan from the area.",
+    "source_quote": "Chief Chipgrin initially assumed the party had been sent by the Diggermattocks to remove his clan from the area.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Chief Chipgrin",
+    "fact": "Chief Chipgrin insisted that the Gold Whisker clan would not be led by Chief Dorbo or sent to slaughter under his command.",
+    "source_quote": "Chief Chipgrin agreed to join the fight against the ooze, but insisted that the Gold Whisker clan would not be led by Chief Dorbo or sent to slaughter under his command.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Chief Chipgrin",
+    "fact": "Chief Chipgrin remarked that he had been told drow were difficult to negotiate with, but Daz took it to another level.",
+    "source_quote": "The wererat chief was impressed by Daz's blunt, no-nonsense approach, remarking that he had been told drow were difficult to negotiate with, but Daz took it to another level.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Chief Dorbo",
+    "fact": "Chief Dorbo appeared, annoyed at the intrusion into his private quarters, and directed them to eat at the Foaming Bug inn instead.",
+    "source_quote": "Chief Dorbo appeared, annoyed at the intrusion into his private quarters, and directed them to eat at the Foaming Bug inn instead.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Chief Dorbo",
+    "fact": "Chief Dorbo suggested attacking from the Temple of the Steadfast Stone as a staging area, which would keep the oozes away from the main population centers.",
+    "source_quote": "Chief Dorbo suggested attacking from the Temple of the Steadfast Stone as a staging area, which would keep the oozes away from the main population centers.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Chief Dorbo",
+    "fact": "Chief Dorbo sweetened the deal by offering a Stone of Controlling Earth Elementals as a reward for dealing with Ogr\u00e9moch's Bane and cleansing the temple.",
+    "source_quote": "Chief Dorbo sweetened the deal by offering a Stone of Controlling Earth Elementals as a reward for dealing with Ogr\u00e9moch's Bane and cleansing the temple.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "cleansing of the Rock Blight",
+    "fact": "cleansing of the Rock Blight is referenced as the quest the party decided to pursue to gain an Earth Elemental ally, expressing interest in befriending the elemental rather than controlling it.",
+    "source_quote": "The party decided to pursue cleansing the Rock Blight to gain an Earth Elemental ally, expressing interest in befriending the elemental rather than controlling it, hoping it might join them permanently like Glabbagool had.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "cleansing the Rock Blight",
+    "fact": "Cleansing the temple requires placing a red spell gem containing a powerful sanctification spell into a menhir at the temple, which will provoke Ogr\u00e9moch's Bane to send servants to attack, and the party must defend it until it awakens three temple guardians.",
+    "source_quote": "Gurnik Tapfinger explained that cleansing required placing a red spell gem containing a powerful sanctification spell into a menhir at the temple. Once placed, the gem would provoke Ogr\u00e9moch's Bane to send servants to attack, and the party would need to defend it until it awakened three temple guardians",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz clarified that the party would be making the plans and taking full accountability for any outcomes, not Dorbo or Chipgrin.",
+    "source_quote": "Daz clarified that the party would be making the plans and taking full accountability for any outcomes, not Dorbo or Chipgrin.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz clarified their true purpose: they needed help resolving the slime problem to secure a path out of the Underdark.",
+    "source_quote": "Daz quickly clarified their true purpose: they needed help resolving the slime problem to secure a path out of the Underdark.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz grew exhausted with political maneuvering and took decisive control.",
+    "source_quote": "Daz had grown exhausted with political maneuvering and taken decisive control.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz knocked and announced their purpose: to rid the area of the slime problem and seek the clan's help.",
+    "source_quote": "Daz knocked and announced their purpose: to rid the area of the slime problem and seek the clan's help.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz made it clear he had no interest in facilitating power plays or positioning.",
+    "source_quote": "If Chipgrin wanted to engage in power plays or positioning, Daz made it clear he had no interest in facilitating that.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz presented the plan: a full-scale distraction by the gnome army attacking the ooze amphitheater while the party covertly used magic to snatch the Pudding King.",
+    "source_quote": "Daz presented the plan: a full-scale distraction by the gnome army attacking the ooze amphitheater while the party covertly used magic to snatch the Pudding King.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz said that if mistakes were made that led to casualties, the blame would fall squarely on him, and Chipgrin could seek vengeance against him personally.",
+    "source_quote": "If mistakes were made that led to casualties, the blame would fall squarely on Daz, and Chipgrin could seek vengeance against him personally.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz's Accountability Offer",
+    "fact": "Daz offered to take full personal blame for any casualties resulting from the plan, allowing Chief Chipgrin to seek vengeance directly against him \u2014 a radical, honest arrangement that satisfied the wererat chief and secured his cooperation.",
+    "source_quote": "If mistakes were made that led to casualties, the blame would fall squarely on Daz, and Chipgrin could seek vengeance against him personally.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Discovery of Community Corruption",
+    "fact": "The party realized that Juiblex\u2019s demonic influence was not limited to the Pudding King but had spread to the entire gnome population, including Chief Dorbo, whose obsession with money became irrational and unhinged. This revelation shifted their understanding of the threat from a singular monster to a systemic corruption requiring a broader solution.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "division of forces",
+    "fact": "division of forces is referenced as the decision the party made to send Glabbagool, Eldev, and Jimjar to assist the Barrow Warden ghosts while the main party handled other tasks.",
+    "source_quote": "They would send Glabbagool, Eldev, and Jimjar to assist the Barrow Warden ghosts with their quest while the main party handled the other tasks.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "final confrontation with the Pudding King",
+    "fact": "final confrontation with the Pudding King is referenced as the ultimate goal the party prepared for, knowing that each quest success would strengthen their position.",
+    "source_quote": "the party prepared to embark on their chosen quests, knowing that each success would strengthen their position for the final confrontation with the Pudding King and his army of oozes.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "final plan for Pudding King confrontation",
+    "fact": "The party's plan is to launch a full-scale distraction by the gnome army attacking the ooze amphitheater while the party covertly uses magic to snatch the Pudding King.",
+    "source_quote": "Daz presented the plan: a full-scale distraction by the gnome army attacking the ooze amphitheater while the party covertly used magic to snatch the Pudding King",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool enthusiastically offered to clean the kitchen floor, which the chef accepted with relief, earning Glabbagool the affectionate nickname of Roomba.",
+    "source_quote": "Glabbagool, the party's gelatinous cube companion, enthusiastically offered to clean the kitchen floor, which the chef accepted with relief, earning Glabbagool the affectionate nickname of Roomba.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grand Moot",
+    "fact": "The Grand Moot was a gathering of Blingdenstone\u2019s major leaders convened to coordinate the plan against the Pudding King. Daz led the meeting and presented a direct strategy. The event exposed the leadership\u2019s hidden agenda to use the party for community projects, leading to a confrontation over autonomy and accountability.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "grand moot",
+    "fact": "grand moot is referenced as the gathering convened with all the major leaders of Blingdenstone, where Daz presented the plan to attack the ooze amphitheater while the party covertly used magic to snatch the Pudding King.",
+    "source_quote": "A grand moot was convened with all the major leaders of Blingdenstone: Chief Dorbo, Senni, Nomi Pathshutter, Gurnik Tapfinger the cleric, Kazook Pickshine representing the Miners Guild, and the ghost Barrow Warden Uth-Jadger. Daz presented the plan: a full-scale distraction by the gnome army attacking the ooze amphitheater while the party covertly used magic to snatch the Pudding King.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grand Moot of Blingdenstone",
+    "fact": "A grand moot was convened with all major leaders of Blingdenstone to coordinate the plan against the Pudding King. Daz led the meeting, presenting a strategy of distraction and covert capture. Uth-Jadger praised its brilliance, comparing it to Barrow Warden tactics.",
+    "source_quote": "Uth-Jadger praised the plan's technical brilliance, comparing it to the strategies the Barrow Wardens would have employed in their prime.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum expressed genuine, non-judgmental interest in meeting wererats, and the guards were pleasantly surprised and launched into an enthusiastic philosophical debate.",
+    "source_quote": "When Grygum expressed genuine, non-judgmental interest in meeting wererats, the guards were pleasantly surprised and launched into an enthusiastic philosophical debate about the ecological niche of rats and wererats.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Gurnik and Nomi Pathshutter",
+    "fact": "Gurnik and Nomi Pathshutter proposed that cleansing the temple would allow Earth Elementals to be summoned and protected from being driven insane by Ogr\u00e9moch's Bane.",
+    "source_quote": "Gurnik and Nomi Pathshutter, in what appeared to be a rehearsed presentation, proposed that cleansing the temple would allow Earth Elementals to be summoned and protected from being driven insane by Ogr\u00e9moch's Bane.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Gurnik Tapfinger",
+    "fact": "Gurnik Tapfinger explained that cleansing required placing a red spell gem containing a powerful sanctification spell into a menhir at the temple.",
+    "source_quote": "Gurnik Tapfinger explained that cleansing required placing a red spell gem containing a powerful sanctification spell into a menhir at the temple.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Gurnik Tapfinger",
+    "fact": "Gurnik Tapfinger said that once placed, the gem would provoke Ogr\u00e9moch's Bane to send servants to attack, and the party would need to defend it until it awakened three temple guardians.",
+    "source_quote": "Once placed, the gem would provoke Ogr\u00e9moch's Bane to send servants to attack, and the party would need to defend it until it awakened three temple guardians.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Kazook Pickshine",
+    "fact": "Kazook Pickshine expressed concern about acidic damage to the gnomes' weapons and armor, suggesting two solutions: collecting ingredients from Neverlight Grove for an acid-protection potion, or trading salt for high-quality weapons in Gracklstugh.",
+    "source_quote": "Kazook Pickshine expressed concern about acidic damage to the gnomes' weapons and armor, suggesting two solutions: collecting ingredients from Neverlight Grove for an acid-protection potion, or trading salt for high-quality weapons in Gracklstugh.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "party decision on Earth Elemental",
+    "fact": "The party expressed interest in befriending the Earth Elemental rather than controlling it, hoping it might join them permanently like Glabbagool had.",
+    "source_quote": "The party decided to pursue cleansing the Rock Blight to gain an Earth Elemental ally, expressing interest in befriending the elemental rather than controlling it, hoping it might join them permanently like Glabbagool had",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Party Decision to Split Forces",
+    "fact": "The party decided to divide their forces to maximize efficiency: Glabbagool, Eldev, and Jimjar were sent to assist the Barrow Warden ghosts, while the main party pursued cleansing the Rock Blight and gathering acid-protection ingredients from Neverlight Grove. They explicitly avoided Gracklstugh, demonstrating strategic prioritization and awareness of past consequences.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "party division for quests",
+    "fact": "The party decided to send Glabbagool, Eldev, and Jimjar to assist the Barrow Warden ghosts with their quest while the main party handled the other tasks.",
+    "source_quote": "To maximize their efficiency, the party chose to divide their forces. They would send Glabbagool, Eldev, and Jimjar to assist the Barrow Warden ghosts with their quest while the main party handled the other tasks",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Pudding King's origin",
+    "fact": "The Pudding King's actions were driven by vengeance, pride, madness, and the influence of a demon that had amplified his worst attributes.",
+    "source_quote": "Chipgrin shared valuable information about the Pudding King. He had known the gnome when he worked in the tunnels and had seen him after his transformation. The Pudding King's actions were driven by vengeance, pride, madness, and the influence of a demon that had amplified his worst attributes",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Senni",
+    "fact": "Senni asked Daz to lead the meeting and call it to order.",
+    "source_quote": "Senni asked Daz to lead the meeting and call it to order.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "summoning Earth Elementals",
+    "fact": "Cleansing the temple would allow Earth Elementals to be summoned and protected from being driven insane by Ogr\u00e9moch's Bane.",
+    "source_quote": "Gurnik and Nomi Pathshutter, in what appeared to be a rehearsed presentation, proposed that cleansing the temple would allow Earth Elementals to be summoned and protected from being driven insane by Ogr\u00e9moch's Bane",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "temple cleansing",
+    "fact": "Cleansing the Rock Blight temple involves placing a red spell gem into a menhir, which provokes Ogr\u00e9moch's Bane to send servants and awaken three temple guardians, enabling the summoning of Earth Elementals.",
+    "source_quote": "Gurnik Tapfinger explained that cleansing required placing a red spell gem containing a powerful sanctification spell into a menhir at the temple. Once placed, the gem would provoke Ogr\u00e9moch's Bane to send servants to attack, and the party would need to defend it until it awakened three temple guardians.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Temple Cleansing Proposal",
+    "fact": "Gurnik Tapfinger and Nomi Pathshutter jointly proposed cleansing the Temple of the Steadfast Stone to summon Earth Elementals. Their rehearsed presentation revealed a coordinated effort to manipulate the party into performing a dangerous ritual that would benefit Blingdenstone\u2019s long-term stability, not just the immediate battle.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party chose to divide their forces, sending Glabbagool, Eldev, and Jimjar to assist the Barrow Warden ghosts with their quest while the main party handled the other tasks.",
+    "source_quote": "They would send Glabbagool, Eldev, and Jimjar to assist the Barrow Warden ghosts with their quest while the main party handled the other tasks.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party decided to obtain acid resistance by traveling to Neverlight Grove for the necessary ingredients.",
+    "source_quote": "They also decided to obtain acid resistance by traveling to Neverlight Grove for the necessary ingredients.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party decided to pursue cleansing the Rock Blight to gain an Earth Elemental ally, expressing interest in befriending the elemental rather than controlling it.",
+    "source_quote": "They decided to pursue cleansing the Rock Blight to gain an Earth Elemental ally, expressing interest in befriending the elemental rather than controlling it, hoping it might join them permanently like Glabbagool had.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party explicitly decided against sending anyone to Gracklstugh, given the uncertain state of that city and their less-than-ideal departure from it.",
+    "source_quote": "They explicitly decided against sending anyone to Gracklstugh, given the uncertain state of that city and their less-than-ideal departure from it.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party realized that greed and aggression had been unusually pronounced among the population, even in Chief Dorbo, whose obsession with money seemed unhinged given the circumstances.",
+    "source_quote": "Upon reflection, they realized that greed and aggression had been unusually pronounced among the population, even in Chief Dorbo, whose obsession with money seemed unhinged given the circumstances.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party realized the gnome leaders had a party of capable adventurers at their disposal and were trying to get them to complete various tasks that would benefit the community.",
+    "source_quote": "His obvious question revealed what was really happening: the gnome leaders had realized they had a party of capable adventurers at their disposal and were trying to get them to complete various tasks that would benefit the community.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin's curiosity got the better of him and he opened a door that led to Chief Dorbo's kitchen.",
+    "source_quote": "Unable to resist exploring every corner of the bureaucratic hub, he opened a door that led to Chief Dorbo's kitchen.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "Sloobludop is approximately eight days away via the Darklake.",
+    "source_quote": "the town of Sloopdopblop is just eight days away",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Uth-Jadger",
+    "fact": "Uth-Jadger offered the help of other Barrow Warden ghosts if the party undertook a quest for them.",
+    "source_quote": "Uth-Jadger offered the help of other Barrow Warden ghosts if the party undertook a quest for them.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Uth-Jadger",
+    "fact": "Uth-Jadger praised the plan's technical brilliance, comparing it to the strategies the Barrow Wardens would have employed in their prime.",
+    "source_quote": "Uth-Jadger praised the plan's technical brilliance, comparing it to the strategies the Barrow Wardens would have employed in their prime.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Uth-Jadger",
+    "fact": "Uth-Jadger revealed that the temple was located in an area called the Rock Blight and needed to be cleansed before it could be used.",
+    "source_quote": "Uth-Jadger revealed that the temple was located in an area called the Rock Blight and needed to be cleansed before it could be used.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Barrow Warden ghosts",
+    "fact": "The Barrow Warden ghosts are a collective of spectral entities willing to aid the party if they undertake a quest for them, as offered by Uth-Jadger.",
+    "source_quote": "Uth-Jadger offered the help of other Barrow Warden ghosts if the party undertook a quest for them.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Barrow Wardens",
+    "fact": "Barrow Wardens are referenced as the group whose strategies were praised by Uth-Jadger, and who offered their ghostly help in exchange for a quest.",
+    "source_quote": "Uth-Jadger praised the plan's technical brilliance, comparing it to the strategies the Barrow Wardens would have employed in their prime. Uth-Jadger offered the help of other Barrow Warden ghosts if the party undertook a quest for them.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Blingdenstone Leadership",
+    "fact": "The collective leadership of Blingdenstone\u2014including Chief Dorbo, Senni, Nomi Pathshutter, Gurnik Tapfinger, Kazook Pickshine, and Uth-Jadger\u2014attempted to redirect the party\u2019s mission toward long-term community projects under the guise of tactical planning. Their proposals revealed a coordinated effort to exploit the party\u2019s capabilities to solve systemic problems, from temple cleansing to weapon procurement, while avoiding direct responsibility for outcomes.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Blingdenstone Leadership",
+    "fact": "The leadership of Blingdenstone \u2014 including Chief Dorbo, Senni, Nomi Pathshutter, Gurnik Tapfinger, Kazook Pickshine, and Barrow Warden Uth-Jadger \u2014 convened in a grand moot to coordinate a plan against the Pudding King. They are all affected by demonic corruption, with Dorbo\u2019s greed being especially unhinged.",
+    "source_quote": "The party realized that greed and aggression had been unusually pronounced among the population, even in Chief Dorbo.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Gnome leaders",
+    "fact": "The gnome leaders, including Chief Dorbo, Uth-Jadger, and Gurnik Tapfinger, have strategically proposed multiple quests to leverage the party's capabilities for community benefit, including temple cleansing, elemental summoning, and acid resistance acquisition.",
+    "source_quote": "The gnome leaders had realized they had a party of capable adventurers at their disposal and were trying to get them to complete various tasks that would benefit the community.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Gold Whisker clan",
+    "fact": "Gold Whisker clan is referenced as the clan of wererat gnomes who agreed to join the fight against the ooze but insisted they would not be led by Chief Dorbo or sent to slaughter under his command.",
+    "source_quote": "The Gold Whisker clan would not be led by Chief Dorbo or sent to slaughter under his command.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Gold Whisker Clan",
+    "fact": "The Gold Whisker Clan are a community of wererat gnomes who have historically faced hostility from other gnome factions. They agreed to join the fight against the Pudding King under Daz\u2019s terms of personal accountability and autonomy. Their guards displayed clear wererat traits, and their cultural openness to philosophical debate about ecological niches marked a stark contrast to the usual prejudice they endured.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Gold Whisker Clan",
+    "fact": "The Gold Whisker Clan are wererat gnomes who live in the Warrens of Blingdenstone. They refused subordination to Chief Dorbo, demanded personal accountability from Daz, and agreed to join the fight against the ooze threat under the party\u2019s direct leadership.",
+    "source_quote": "The Gold Whisker clan would not be led by Chief Dorbo or sent to slaughter under his command.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Miners Guild",
+    "fact": "Miners Guild is referenced as the organization represented by Kazook Pickshine, who expressed concern about acidic damage to the gnomes' weapons and armor.",
+    "source_quote": "Kazook Pickshine representing the Miners Guild",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Blingdenstone",
+    "fact": "Blingdenstone is a subterranean gnome city under threat from a spreading ooze infestation led by the Pudding King. The city\u2019s leadership is corrupted by Juiblex\u2019s influence, manifesting as irrational obsession with wealth and control. The community is divided between those seeking direct solutions and those attempting to exploit the party for long-term infrastructure projects.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Blingdenstone",
+    "fact": "Blingdenstone is referenced as the location plagued by the slime threat and the Pudding King, where the entire moot was convened and where the influence of Juiblex was bleeding through and corrupting the entire community.",
+    "source_quote": "the slime threat plaguing Blingdenstone. The demon's influence, centered on the Pudding King, was bleeding through and corrupting the entire community.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Gold Whisker Warrens",
+    "fact": "Gold Whisker Warrens is referenced as the home of the clan of wererat gnomes, where Chief Chipgrin sat on a stone chair draped with a cave badger pelt, flanked by two giant rats and surrounded by guards.",
+    "source_quote": "The party then approached the massive double doors leading to the Gold Whisker Warrens, the home of a clan of wererat gnomes. Chief Chipgrin sat on a stone chair draped with a cave badger pelt, flanked by two giant rats and surrounded by guards",
+    "quote_verified": false,
+    "passes": [
+      "sweep",
+      "temporal"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "location",
+    "subject": "Gold Whisker Warrens",
+    "fact": "The Gold Whisker Warrens are the subterranean home of the wererat gnome clan. The warrens are accessed through massive double doors and are patrolled by guards with increasingly apparent rat-like features. The clan\u2019s leadership resides on a moss-covered plateau, symbolizing their connection to nature and their rejection of gnome bureaucracy.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Gold Whisker Warrens",
+    "fact": "The Gold Whisker Warrens are the underground home of the wererat gnome clan. The party was escorted through by guards whose rat-like features \u2014 stringy mustaches, pronounced noses \u2014 became increasingly apparent, confirming their true nature.",
+    "source_quote": "Four gnome guards whose rat-like features became increasingly apparent \u2014 stringy mustaches, pronounced noses, and other subtle characteristics that marked them as wererats.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh is a dwarven city that the party believes may no longer exist due to their previous actions there. It was proposed as a destination for trading salt for high-quality weapons, but the party explicitly rejected this option, acknowledging the risks and moral ambiguity of returning to a site they may have ruined.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh is a location previously visited by the party, now considered potentially non-existent or inaccessible due to their prior actions there, and is explicitly avoided.",
+    "source_quote": "The party noted that Gracklstugh might no longer exist due to their previous actions there.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh is referenced as the location where salt could be traded for high-quality weapons, though the party noted it might no longer exist due to their previous actions there.",
+    "source_quote": "trading salt for high-quality weapons in Gracklstugh. The party noted that Gracklstugh might no longer exist due to their previous actions there.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh might no longer exist due to the party's previous actions there.",
+    "source_quote": "The party noted that Gracklstugh might no longer exist due to their previous actions there",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Neverlight Grove",
+    "fact": "Collecting ingredients from Neverlight Grove is required to craft an acid-protection potion.",
+    "source_quote": "Kazook Pickshine expressed concern about acidic damage to the gnomes' weapons and armor, suggesting two solutions: collecting ingredients from Neverlight Grove for an acid-protection potion",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Neverlight Grove",
+    "fact": "Neverlight Grove is a location where the party plans to gather ingredients for an acid-protection potion. It is implied to be a dangerous or elusive area, but preferable to the uncertain ruins of Gracklstugh. The party chose this route over trading in Gracklstugh due to its likely destruction.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Neverlight Grove",
+    "fact": "Neverlight Grove is a source of ingredients for an acid-protection potion, and is the destination the party chose for acquiring acid resistance.",
+    "source_quote": "Kazook Pickshine suggested collecting ingredients from Neverlight Grove for an acid-protection potion.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Neverlight Grove",
+    "fact": "Neverlight Grove is referenced as the location from which ingredients must be collected for an acid-protection potion.",
+    "source_quote": "collecting ingredients from Neverlight Grove for an acid-protection potion",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Neverlight Grove",
+    "fact": "Traveling to Neverlight Grove is required to obtain ingredients for an acid-protection potion.",
+    "source_quote": "They also decided to obtain acid resistance by traveling to Neverlight Grove for the necessary ingredients",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Ooze Amphitheater",
+    "fact": "The gnome army will launch a full-scale distraction by attacking the ooze amphitheater while the party covertly uses magic to snatch the Pudding King.",
+    "source_quote": "Daz presented the plan: a full-scale distraction by the gnome army attacking the ooze amphitheater while the party covertly used magic to snatch the Pudding King",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "ooze amphitheater",
+    "fact": "ooze amphitheater is referenced as the location targeted by the gnome army's full-scale distraction while the party covertly used magic to snatch the Pudding King.",
+    "source_quote": "a full-scale distraction by the gnome army attacking the ooze amphitheater while the party covertly used magic to snatch the Pudding King.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Plateau of Soft Moss",
+    "fact": "The plateau covered in soft, well-manicured green moss is where Chief Chipgrin sits on a stone chair draped with a cave badger pelt, flanked by two giant rats and surrounded by guards. It is a place of ritual and authority for the Gold Whisker Clan.",
+    "source_quote": "The guards escorted the party to a plateau covered in soft, well-manicured green moss, where Chief Chipgrin sat on a stone chair draped with a cave badger pelt, flanked by two giant rats and surrounded by guards.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Rock Blight",
+    "fact": "Rock Blight is referenced as the area where the Temple of the Steadfast Stone is located, requiring cleansing before it can be used as a staging area.",
+    "source_quote": "Uth-Jadger revealed that the temple was located in an area called the Rock Blight and needed to be cleansed before it could be used.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Rock Blight",
+    "fact": "The Rock Blight is the cursed region containing the Temple of the Steadfast Stone. It is described as an area requiring cleansing before it can be used as a staging ground. Its corruption is tied to Ogr\u00e9moch's Bane, and its purification is a prerequisite for summoning Earth Elementals and awakening temple guardians.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Rock Blight",
+    "fact": "The Rock Blight is the location of the Temple of the Steadfast Stone, a site requiring cleansing before use, and is the target of the party's primary quest to summon Earth Elementals.",
+    "source_quote": "Uth-Jadger revealed that the temple was located in an area called the Rock Blight and needed to be cleansed before it could be used.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Rock Blight",
+    "fact": "The Temple of the Steadfast Stone is located in an area called the Rock Blight and needs to be cleansed before it can be used.",
+    "source_quote": "Uth-Jadger revealed that the temple was located in an area called the Rock Blight and needed to be cleansed before it could be used",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Temple of the Steadfast Stone",
+    "fact": "Chief Dorbo suggested attacking from the Temple of the Steadfast Stone as a staging area, which would keep the oozes away from the main population centers.",
+    "source_quote": "Chief Dorbo suggested attacking from the Temple of the Steadfast Stone as a staging area, which would keep the oozes away from the main population centers",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Temple of the Steadfast Stone",
+    "fact": "Temple of the Steadfast Stone is referenced as the location proposed by Chief Dorbo as a staging area, requiring a red spell gem placed in a menhir to awaken three temple guardians and summon Earth Elementals.",
+    "source_quote": "Chief Dorbo suggested attacking from the Temple of the Steadfast Stone as a staging area. Gurnik Tapfinger explained that cleansing required placing a red spell gem containing a powerful sanctification spell into a menhir at the temple. Once placed, the gem would provoke Ogr\u00e9moch's Bane to send servants to attack, and the party would need to defend it until it awakened three temple guardians.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Temple of the Steadfast Stone",
+    "fact": "The Temple of the Steadfast Stone is a sacred site located in the Rock Blight. It requires a red spell gem to be placed in a menhir to awaken three guardians and summon Earth Elementals. The ritual provokes attacks from Ogr\u00e9moch's Bane\u2019s servants, making it a high-risk, high-reward objective that the gnome leaders want the party to undertake.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
+    "source_quote": "Drow outpost was 100' in the sky",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Four gnome guards whose rat-like features became increasingly apparent\u2014stringy mustaches, pronounced noses, and other subtle characteristics that marked them as wererats.",
+    "source_quote": "led through the warrens by four gnome guards whose rat-like features became increasingly apparent\u2014stringy mustaches, pronounced noses, and other subtle characteristics that marked them as wererats",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Earth Elementals",
+    "fact": "Earth Elementals are powerful beings that can be summoned after cleansing the Rock Blight temple; the party seeks to befriend them as allies, hoping they will join permanently like Glabbagool.",
+    "source_quote": "Gurnik and Nomi Pathshutter... proposed that cleansing the temple would allow Earth Elementals to be summoned and protected from being driven insane by Ogr\u00e9moch's Bane. ...hoping it might join them permanently like Glabbagool had.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Giant Rats",
+    "fact": "Two giant rats flank Chief Chipgrin during the moot, serving as both status symbols and potential combat assets. Their presence reinforces the wererat clan\u2019s connection to their rat heritage and suggests they may be more than mere animals\u2014possibly enhanced, loyal companions, or even transformed members of the clan.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is the party\u2019s gelatinous cube companion, affectionately nicknamed Roomba by the gnome chef after enthusiastically offering to clean Chief Dorbo\u2019s kitchen. He is loyal, non-hostile, and capable of performing utility tasks. The party chose to send him on a quest with Eldev and Jimjar to assist the Barrow Warden ghosts, indicating trust in his reliability and adaptability.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Juiblex",
+    "fact": "Juiblex is referenced by the party as the demon lord of oozes whose influence, centered on the Pudding King, was bleeding through and corrupting the entire community of Blingdenstone.",
+    "source_quote": "The party shared their theories about Juiblex, the demon lord of oozes, and Chipgrin agreed that the demon's influence, centered on the Pudding King, was bleeding through and corrupting the entire community.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Juiblex",
+    "fact": "Juiblex is the demon lord of oozes whose influence is centered on the Pudding King and is bleeding through, corrupting the gnome population with greed, aggression, and paranoia. The party and Chipgrin agree this demonic corruption is the root cause of the crisis.",
+    "source_quote": "The party shared their theories about Juiblex, the demon lord of oozes, and Chipgrin agreed that the demon's influence, centered on the Pudding King, was bleeding through and corrupting the entire community.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Juiblex",
+    "fact": "Juiblex, the Demon Lord of Oozes, is identified by the party and confirmed by Chief Chipgrin as the source of the Pudding King\u2019s corruption. His influence is bleeding into Blingdenstone, causing widespread moral and behavioral decay among gnomes, particularly in the form of obsessive greed and aggression. The party believes his presence is centered on the Pudding King and is the root of the ooze threat.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Ogr\u00e9moch's Bane",
+    "fact": "Ogr\u00e9moch's Bane is a divine or extraplanar force associated with the Temple of the Steadfast Stone. Its presence requires the placement of a red spell gem into a menhir to awaken temple guardians and summon Earth Elementals. It also provokes hostile servants to attack during the cleansing process, making the ritual a dangerous undertaking that requires defense.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Ogr\u00e9moch's Bane",
+    "fact": "Ogr\u00e9moch's Bane is a force that, when provoked by the red spell gem, sends servants to attack and awakens three temple guardians, and is the target of the cleansing ritual.",
+    "source_quote": "Once placed, the gem would provoke Ogr\u00e9moch's Bane to send servants to attack, and the party would need to defend it until it awakened three temple guardians.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Ogr\u00e9moch's Bane",
+    "fact": "Ogr\u00e9moch's Bane is referenced as the force provoked when the red spell gem is placed in the menhir at the Temple of the Steadfast Stone, sending servants to attack and requiring defense until three temple guardians awaken.",
+    "source_quote": "the gem would provoke Ogr\u00e9moch's Bane to send servants to attack, and the party would need to defend it until it awakened three temple guardians.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Pudding King",
+    "fact": "Pudding King is referenced as the transformed gnome whose actions are driven by vengeance, pride, madness, and the influence of a demon that amplified his worst attributes, and who is the source of the slime threat plaguing Blingdenstone.",
+    "source_quote": "The Pudding King's actions were driven by vengeance, pride, madness, and the influence of a demon that had amplified his worst attributes. The Pudding King and the slime threat plaguing Blingdenstone.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Pudding King",
+    "fact": "The Pudding King is the final antagonist the party prepares to confront, whose army of oozes threatens the gnome community, and whose defeat is the ultimate goal of their current quests.",
+    "source_quote": "...knowing that each success would strengthen their position for the final confrontation with the Pudding King and his army of oozes.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Chief Chipgrin",
+    "fact": "Chief Chipgrin is referenced by the party as the wererat chief who had known the Pudding King when he worked in the tunnels, revealed the Pudding King\u2019s actions were driven by vengeance, pride, madness, and a demon\u2019s influence, and insisted the Gold Whisker clan would not be led by Chief Dorbo or sent to slaughter under his command.",
+    "source_quote": "Chief Chipgrin had known the gnome when he worked in the tunnels and had seen him after his transformation. The Pudding King's actions were driven by vengeance, pride, madness, and the influence of a demon that had amplified his worst attributes. Chief Chipgrin insisted that the Gold Whisker clan would not be led by Chief Dorbo or sent to slaughter under his command.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Chief Chipgrin",
+    "fact": "Chief Chipgrin is the leader of the Gold Whisker clan of wererat gnomes. He refused to be subordinated to Chief Dorbo, demanded personal accountability from Daz for any losses, and agreed to join the fight against the Pudding King after being satisfied by Daz\u2019s no-nonsense approach.",
+    "source_quote": "The Gold Whisker clan would not be led by Chief Dorbo or sent to slaughter under his command.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Chief Chipgrin",
+    "fact": "Chief Chipgrin is the leader of the Gold Whisker clan, a wererat gnome who initially suspected the party of being sent by the Diggermattocks to expel his clan. He agreed to join the fight against the Pudding King after Daz offered personal accountability for casualties and rejected political posturing. He provided critical intelligence about the Pudding King\u2019s demonic corruption and the broader community\u2019s moral decay.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Chief Chipgrin",
+    "fact": "Chief Chipgrin knew the Pudding King when he worked in the tunnels and had seen him after his transformation.",
+    "source_quote": "He had known the gnome when he worked in the tunnels and had seen him after his transformation.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Chief Chipgrin",
+    "fact": "Chief Chipgrin said the Pudding King's actions were driven by vengeance, pride, madness, and the influence of a demon that had amplified his worst attributes.",
+    "source_quote": "The Pudding King's actions were driven by vengeance, pride, madness, and the influence of a demon that had amplified his worst attributes.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Chief Dorbo",
+    "fact": "Chief Dorbo is referenced by the party as the one whose obsession with money seemed unhinged given the circumstances, and who suggested attacking from the Temple of the Steadfast Stone as a staging area.",
+    "source_quote": "Chief Dorbo's obsession with money seemed unhinged given the circumstances. Chief Dorbo suggested attacking from the Temple of the Steadfast Stone as a staging area, which would keep the oozes away from the main population centers.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Chief Dorbo",
+    "fact": "Chief Dorbo is the bureaucratic leader of Blingdenstone whose obsession with money has become unhinged under the Pudding King\u2019s demonic influence. He initially supported Daz\u2019s plan but was excluded from command authority and invited to a moot for cooperation, not control.",
+    "source_quote": "His obsession with money seemed unhinged given the circumstances.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Chief Dorbo",
+    "fact": "Chief Dorbo is the bureaucratic leader of Blingdenstone, obsessed with money and control. He attempted to manipulate the party into completing community-benefiting side quests under the guise of strategic planning, including cleansing the Rock Blight and summoning Earth Elementals. He offered the Stone of Controlling Earth Elementals as a reward, revealing his prioritization of long-term political gain over immediate tactical needs.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Chief Dorbo",
+    "fact": "Chief Dorbo proposed attacking from the Temple of the Steadfast Stone as a staging area to keep oozes away from main population centers, and later offered the Stone of Controlling Earth Elementals as a reward for cleansing the Rock Blight and dealing with Ogr\u00e9moch's Bane.",
+    "source_quote": "Chief Dorbo sweetened the deal by offering a Stone of Controlling Earth Elementals as a reward for dealing with Ogr\u00e9moch's Bane and cleansing the temple.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz insisted on a direct plan to deal with the Pudding King and the slime threat, not from a desire for power but from sheer exasperation with politicians who couldn't see the obvious solution.",
+    "source_quote": "His assertiveness had surprised everyone, though it came not from a desire for power but from sheer exasperation with politicians who couldn't see the obvious solution.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a drow who took decisive control of the party's plan out of sheer exasperation with political maneuvering, not a desire for power. He bluntly clarified accountability for casualties and refused to facilitate power plays, earning the respect of wererat chief Chipgrin.",
+    "source_quote": "If mistakes were made that led to casualties, the blame would fall squarely on Daz, and Chipgrin could seek vengeance against him personally.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is referenced by the party as the one who grew exhausted with political maneuvering and took decisive control, insisting on a direct plan to deal with the Pudding King and the slime threat plaguing Blingdenstone.",
+    "source_quote": "Daz had grown exhausted with political maneuvering and taken decisive control. Frustrated by endless bureaucratic debates, he had cut through the noise and insisted on a direct plan to deal with the Pudding King and the slime threat plaguing Blingdenstone.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is the de facto leader of the party, known for his blunt, no-nonsense approach to negotiations and planning, driven by exasperation with political maneuvering rather than a desire for power. He took decisive control after growing tired of bureaucratic delays and secured the cooperation of wererat and gnome leaders by accepting full accountability for outcomes and offering direct, personal vengeance as a consequence of failure.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz questioned why the party couldn't simply attack from the north to avoid complications, revealing that the gnome leaders saw the party as capable adventurers they could leverage to complete community-benefiting tasks.",
+    "source_quote": "Daz questioned why they couldn't simply attack from the north instead, which would avoid all these complications. His obvious question revealed what was really happening: the gnome leaders had realized they had a party of capable adventurers at their disposal...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Eldev",
+    "fact": "Eldev is a named member of the party assigned to assist the Barrow Warden ghosts alongside Glabbagool and Jimjar.",
+    "source_quote": "They would send Glabbagool, Eldev, and Jimjar to assist the Barrow Warden ghosts with their quest...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Eldev",
+    "fact": "Eldev is referenced by the party as one of the members sent to assist the Barrow Warden ghosts with their quest.",
+    "source_quote": "They would send Glabbagool, Eldev, and Jimjar to assist the Barrow Warden ghosts with their quest",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a named entity who has previously joined the party permanently and is now being sent with Eldev and Jimjar to assist the Barrow Warden ghosts.",
+    "source_quote": "They would send Glabbagool, Eldev, and Jimjar to assist the Barrow Warden ghosts with their quest...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is referenced by the party as the gelatinous cube companion who enthusiastically offered to clean the kitchen floor, which the chef accepted with relief, earning Glabbagool the affectionate nickname of Roomba.",
+    "source_quote": "Glabbagool, the party's gelatinous cube companion, enthusiastically offered to clean the kitchen floor, which the chef accepted with relief, earning Glabbagool the affectionate nickname of Roomba.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is the party\u2019s gelatinous cube companion who volunteered to clean Chief Dorbo\u2019s kitchen floor, earning the affectionate nickname 'Roomba' from the gnome chef who accepted the offer with relief.",
+    "source_quote": "Glabbagool enthusiastically offered to clean the kitchen floor, which the chef accepted with relief, earning Glabbagool the affectionate nickname of Roomba.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum expressed genuine, non-judgmental interest in the wererats, which led the guards to break from their usual hostility and engage in a philosophical debate about rats and their ecological niche, creating a rare moment of trust.",
+    "source_quote": "The guards were pleasantly surprised and launched into an enthusiastic philosophical debate about the ecological niche of rats and wererats.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by the party as the one who expressed genuine, non-judgmental interest in meeting wererats, prompting the guards to launch into an enthusiastic philosophical debate about the ecological niche of rats and wererats.",
+    "source_quote": "When Grygum expressed genuine, non-judgmental interest in meeting wererats, the guards were pleasantly surprised and launched into an enthusiastic philosophical debate about the ecological niche of rats and wererats.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gurnik Tapfinger",
+    "fact": "Gurnik Tapfinger explained that cleansing the Rock Blight required placing a red spell gem containing a powerful sanctification spell into a menhir at the temple, which would provoke Ogr\u00e9moch's Bane to send servants and awaken three temple guardians.",
+    "source_quote": "Gurnik Tapfinger explained that cleansing required placing a red spell gem containing a powerful sanctification spell into a menhir at the temple.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gurnik Tapfinger",
+    "fact": "Gurnik Tapfinger is a cleric who proposed cleansing the Temple of the Steadfast Stone to summon Earth Elementals, framing it as a tactical necessity. He collaborated with Nomi Pathshutter in a rehearsed presentation to convince the party that the temple\u2019s purification was essential, despite Daz\u2019s direct challenge that it was a distraction. He emphasized the value of Earth Elementals in the coming battle.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gurnik Tapfinger",
+    "fact": "Gurnik Tapfinger is referenced by the party as the cleric who explained that cleansing the Temple of the Steadfast Stone required placing a red spell gem containing a powerful sanctification spell into a menhir, which would provoke Ogr\u00e9moch's Bane to send servants to attack.",
+    "source_quote": "Gurnik Tapfinger explained that cleansing required placing a red spell gem containing a powerful sanctification spell into a menhir at the temple. Once placed, the gem would provoke Ogr\u00e9moch's Bane to send servants to attack, and the party would need to defend it until it awakened three temple guardians.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is a named member of the party assigned to assist the Barrow Warden ghosts alongside Glabbagool and Eldev.",
+    "source_quote": "They would send Glabbagool, Eldev, and Jimjar to assist the Barrow Warden ghosts with their quest...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is referenced by the party as one of the members sent to assist the Barrow Warden ghosts with their quest.",
+    "source_quote": "They would send Glabbagool, Eldev, and Jimjar to assist the Barrow Warden ghosts with their quest",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Kazook Pickshine",
+    "fact": "Kazook Pickshine expressed concern about acidic damage to weapons and armor, suggesting collecting ingredients from Neverlight Grove for an acid-protection potion or trading salt for high-quality weapons in Gracklstugh.",
+    "source_quote": "Kazook Pickshine expressed concern about acidic damage to the gnomes' weapons and armor, suggesting two solutions: collecting ingredients from Neverlight Grove for an acid-protection potion, or trading salt for high-quality weapons in Gracklstugh.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Kazook Pickshine",
+    "fact": "Kazook Pickshine is referenced by the party as the representative of the Miners Guild who expressed concern about acidic damage to the gnomes' weapons and armor, suggesting collecting ingredients from Neverlight Grove for an acid-protection potion or trading salt for high-quality weapons in Gracklstugh.",
+    "source_quote": "Kazook Pickshine expressed concern about acidic damage to the gnomes' weapons and armor, suggesting two solutions: collecting ingredients from Neverlight Grove for an acid-protection potion, or trading salt for high-quality weapons in Gracklstugh.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Kazook Pickshine",
+    "fact": "Kazook Pickshine represents the Miners Guild and raised concerns about acidic damage to weapons and armor. He proposed two solutions: gathering ingredients from Neverlight Grove for acid-protection potions or trading salt for superior weapons in Gracklstugh. His suggestions exposed the logistical vulnerabilities of Blingdenstone\u2019s forces and the party\u2019s awareness of Gracklstugh\u2019s likely destruction.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Nomi Pathshutter",
+    "fact": "Nomi Pathshutter is a gnome leader who partnered with Gurnik Tapfinger to promote the temple cleansing quest as a strategic imperative. Their coordinated proposal revealed an organized effort by Blingdenstone\u2019s leadership to redirect the party\u2019s efforts toward community infrastructure projects disguised as battlefield preparations.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Nomi Pathshutter",
+    "fact": "Nomi Pathshutter is referenced by the party as the one who, in what appeared to be a rehearsed presentation, proposed that cleansing the temple would allow Earth Elementals to be summoned and protected from being driven insane by Ogr\u00e9moch's Bane.",
+    "source_quote": "Gurnik and Nomi Pathshutter, in what appeared to be a rehearsed presentation, proposed that cleansing the temple would allow Earth Elementals to be summoned and protected from being driven insane by Ogr\u00e9moch's Bane.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Nomi Pathshutter",
+    "fact": "Nomi Pathshutter participated with Gurnik Tapfinger in a rehearsed presentation proposing that cleansing the temple would allow Earth Elementals to be summoned safely.",
+    "source_quote": "Gurnik and Nomi Pathshutter, in what appeared to be a rehearsed presentation, proposed that cleansing the temple would allow Earth Elementals to be summoned...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Senni",
+    "fact": "Senni is a Blingdenstone leader who facilitated the grand moot and asked Daz to lead the meeting. She supports the plan to confront the Pudding King and is aligned with efforts to counter the demon\u2019s corruption.",
+    "source_quote": "Senni asked Daz to lead the meeting and call it to order.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Senni",
+    "fact": "Senni is referenced by the party as the one who asked Daz to lead the meeting and call it to order, and who eventually agreed to support Daz's plan.",
+    "source_quote": "Senni asked Daz to lead the meeting and call it to order. Chief Dorbo and Senni had eventually agreed to support his plan.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "The Pudding King",
+    "fact": "The Pudding King is a transformed gnome whose actions are driven by vengeance, pride, madness, and the influence of a demon that amplified his worst attributes. He was once known to Chief Chipgrin and is now the epicenter of a demonic corruption spreading through Blingdenstone.",
+    "source_quote": "The Pudding King's actions were driven by vengeance, pride, madness, and the influence of a demon that had amplified his worst attributes.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "The Pudding King",
+    "fact": "The Pudding King is a transformed gnome whose actions are driven by vengeance, pride, madness, and the influence of a demon that amplified his worst traits. Chief Chipgrin confirmed he once knew the gnome in the tunnels and witnessed his descent into monstrosity. His corruption is bleeding into the entire community, manifesting as heightened greed and aggression among gnome leaders.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is referenced by the party as the one whose curiosity got the better of him, opening a door to Chief Dorbo's kitchen, claiming snacks were part of their deal, and rolling a die to decide between caution and a direct approach.",
+    "source_quote": "Thorin's curiosity got the better of him. Unable to resist exploring every corner of the bureaucratic hub, he opened a door that led to Chief Dorbo's kitchen. Thorin claimed was part of their deal. Thorin rolled a die to decide between caution and a direct approach.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin rolled a die to decide between caution and a direct approach, and the result favored the safer route, influencing the party's final decision to pursue cleansing the Rock Blight.",
+    "source_quote": "Thorin rolled a die to decide between caution and a direct approach, and the result favored taking the safer route.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Uth-Jadger",
+    "fact": "Uth-Jadger is referenced by the party as the ghost Barrow Warden who praised the plan's technical brilliance, compared it to Barrow Warden strategies, revealed the Temple of the Steadfast Stone was in the Rock Blight, and offered the help of other Barrow Warden ghosts if the party undertook a quest for them.",
+    "source_quote": "Uth-Jadger praised the plan's technical brilliance, comparing it to the strategies the Barrow Wardens would have employed in their prime. Uth-Jadger revealed that the temple was located in an area called the Rock Blight and needed to be cleansed before it could be used. Uth-Jadger offered the help of other Barrow Warden ghosts if the party undertook a quest for them.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Uth-Jadger",
+    "fact": "Uth-Jadger is the ghostly Barrow Warden who praised Daz\u2019s plan as technically brilliant and comparable to ancient Barrow Warden strategies. He revealed that the Temple of the Steadfast Stone lies in the Rock Blight and requires cleansing before use. He offered the aid of other Barrow Warden ghosts in exchange for completing their quest, positioning the party as instruments of ancestral legacy.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Uth-Jadger",
+    "fact": "Uth-Jadger revealed the temple was located in the Rock Blight, needed cleansing before use, and offered the aid of Barrow Warden ghosts if the party undertook a quest for them.",
+    "source_quote": "Uth-Jadger offered the help of other Barrow Warden ghosts if the party undertook a quest for them.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Cave Badger Pelt",
+    "fact": "Chief Chipgrin sits on a stone chair draped with a cave badger pelt \u2014 a symbol of his authority and connection to the wild, untamed nature of the Underdark, contrasting with the corrupted bureaucracy of Blingdenstone.",
+    "source_quote": "Chief Chipgrin sat on a stone chair draped with a cave badger pelt, flanked by two giant rats and surrounded by guards.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Cave Badger Pelt",
+    "fact": "Chief Chipgrin sits on a stone chair draped with a cave badger pelt, flanked by two giant rats and surrounded by guards.",
+    "source_quote": "Chief Chipgrin sat on a stone chair draped with a cave badger pelt, flanked by two giant rats and surrounded by guards",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "cave badger pelt",
+    "fact": "cave badger pelt is referenced as the item draped over the stone chair on which Chief Chipgrin sat in the Gold Whisker Warrens.",
+    "source_quote": "Chief Chipgrin sat on a stone chair draped with a cave badger pelt",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool, the party's gelatinous cube companion, enthusiastically offered to clean the kitchen floor, which the chef accepted with relief, earning Glabbagool the affectionate nickname of Roomba.",
+    "source_quote": "Glabbagool, the party's gelatinous cube companion, enthusiastically offered to clean the kitchen floor, which the chef accepted with relief, earning Glabbagool the affectionate nickname of Roomba",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Red Spell Gem",
+    "fact": "A red spell gem containing a powerful sanctification spell is required to cleanse the Temple of the Steadfast Stone and awaken three temple guardians.",
+    "source_quote": "Gurnik Tapfinger explained that cleansing required placing a red spell gem containing a powerful sanctification spell into a menhir at the temple",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "red spell gem",
+    "fact": "The red spell gem contains a powerful sanctification spell and must be placed into a menhir at the Rock Blight temple to trigger the cleansing process and summon Earth Elementals.",
+    "source_quote": "Gurnik Tapfinger explained that cleansing required placing a red spell gem containing a powerful sanctification spell into a menhir at the temple.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Red Spell Gem",
+    "fact": "The red spell gem is a rare magical item required to cleanse the Temple of the Steadfast Stone. It must be placed in a menhir to awaken the temple\u2019s guardians and summon Earth Elementals. The gem also triggers attacks from Ogr\u00e9moch's Bane\u2019s servants, making its placement a dangerous, high-stakes ritual.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "red spell gem",
+    "fact": "red spell gem is referenced as the object containing a powerful sanctification spell that must be placed in a menhir at the Temple of the Steadfast Stone to awaken temple guardians and provoke Ogr\u00e9moch's Bane.",
+    "source_quote": "placing a red spell gem containing a powerful sanctification spell into a menhir at the temple.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "stone chair",
+    "fact": "stone chair is referenced as the seat on which Chief Chipgrin sat in the Gold Whisker Warrens, draped with a cave badger pelt.",
+    "source_quote": "Chief Chipgrin sat on a stone chair draped with a cave badger pelt",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Stone of Controlling Earth Elementals",
+    "fact": "Chief Dorbo offered a Stone of Controlling Earth Elementals as a reward for dealing with Ogr\u00e9moch's Bane and cleansing the temple.",
+    "source_quote": "Chief Dorbo sweetened the deal by offering a Stone of Controlling Earth Elementals as a reward for dealing with Ogr\u00e9moch's Bane and cleansing the temple",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Stone of Controlling Earth Elementals",
+    "fact": "Stone of Controlling Earth Elementals is referenced as the reward offered by Chief Dorbo for dealing with Ogr\u00e9moch's Bane and cleansing the Temple of the Steadfast Stone.",
+    "source_quote": "Chief Dorbo sweetened the deal by offering a Stone of Controlling Earth Elementals as a reward for dealing with Ogr\u00e9moch's Bane and cleansing the temple.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Stone of Controlling Earth Elementals",
+    "fact": "The Stone of Controlling Earth Elementals is a powerful magical artifact offered by Chief Dorbo as a reward for cleansing the Rock Blight and defeating Ogr\u00e9moch's Bane. It allows the wielder to command Earth Elementals, but the party expressed interest in befriending rather than controlling such beings, indicating a philosophical shift in their approach to magic and allies.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Stone of Controlling Earth Elementals",
+    "fact": "The Stone of Controlling Earth Elementals is a reward offered by Chief Dorbo for cleansing the Rock Blight and dealing with Ogr\u00e9moch's Bane, though the party ultimately prefers to befriend rather than control Earth Elementals.",
+    "source_quote": "Chief Dorbo sweetened the deal by offering a Stone of Controlling Earth Elementals as a reward for dealing with Ogr\u00e9moch's Bane and cleansing the temple.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "two giant rats",
+    "fact": "two giant rats are referenced as the creatures flanking Chief Chipgrin on his stone chair in the Gold Whisker Warrens.",
+    "source_quote": "flanked by two giant rats and surrounded by guards.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Barrow Warden ghosts' quest",
+    "fact": "The Barrow Warden ghosts have an undisclosed quest that the party has agreed to undertake, creating an open narrative thread to be resolved later.",
+    "source_quote": "Uth-Jadger offered the help of other Barrow Warden ghosts if the party undertook a quest for them.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Barrow Warden Ghosts\u2019 Quest",
+    "fact": "Uth-Jadger offered the aid of other Barrow Warden ghosts in exchange for completing a quest. The nature of this quest remains unspecified, creating an unresolved thread that may tie into ancient conflicts, forgotten rituals, or the true nature of the Rock Blight\u2019s corruption.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "befriending Earth Elementals",
+    "fact": "The party's unspoken goal is to befriend Earth Elementals rather than control them, hoping they will join permanently like Glabbagool, making this a potential long-term narrative thread.",
+    "source_quote": "expressing interest in befriending the elemental rather than controlling it, hoping it might join them permanently like Glabbagool had.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Corruption of Blingdenstone",
+    "fact": "The entire gnome population of Blingdenstone is being corrupted by Juiblex\u2019s influence, manifesting as heightened greed, aggression, and paranoia \u2014 even in leaders like Chief Dorbo. The party must determine whether this corruption can be reversed or if the city must be cleansed.",
+    "source_quote": "The party realized that greed and aggression had been unusually pronounced among the population, even in Chief Dorbo, whose obsession with money seemed unhinged given the circumstances.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Daz\u2019s Personal Accountability",
+    "fact": "Daz\u2019s offer to accept personal blame for casualties and allow vengeance against himself is an unprecedented negotiation tactic. This thread may have long-term consequences: whether a wererat or gnome will later seek revenge on him, and how that act might fracture alliances or trigger unforeseen retribution.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Earth Elemental Alliance",
+    "fact": "The party\u2019s decision to seek to befriend rather than control an Earth Elemental introduces an open-ended thread: whether the elemental will join them permanently like Glabbagool, or if its loyalty is conditional. This philosophical choice may influence future interactions with other planar entities.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Fate of Gracklstugh",
+    "fact": "The party\u2019s uncertainty about Gracklstugh\u2019s current state\u2014whether it is destroyed, occupied, or in rebellion\u2014is an unresolved thread. Their refusal to go there suggests lingering consequences from a prior event, the full impact of which has yet to be revealed.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Gracklstugh's status",
+    "fact": "The uncertain existence of Gracklstugh due to the party's prior actions creates a lingering mystery and potential future plot thread if the city is revisited or its fate clarified.",
+    "source_quote": "The party noted that Gracklstugh might no longer exist due to their previous actions there.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Pudding King\u2019s Demonic Origin",
+    "fact": "The origin of the Pudding King\u2019s transformation and the nature of the demon influencing him remain partially unknown. While Juiblex is strongly suspected, the exact mechanism of corruption and whether the demon is bound to the Pudding King or acting independently is an unresolved thread that may impact the final confrontation.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Pudding King's Origin",
+    "fact": "Chief Chipgrin knew the Pudding King before his transformation. The party must investigate what event triggered his descent into madness and demonic possession, and whether others in the tunnels witnessed his change.",
+    "source_quote": "He had known the gnome when he worked in the tunnels and had seen him after his transformation.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  }
+]

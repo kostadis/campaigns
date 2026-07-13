@@ -1,0 +1,1481 @@
+[
+  {
+    "type": "date",
+    "subject": "after a long rest",
+    "fact": "The events of the chapter occur immediately after the party\u2019s rest, with no explicit passage of time mentioned between prior events and the ooze outbreak.",
+    "source_quote": "Almost immediately, another ghost appeared\u2014Borough Warden Jadger...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "An hour passes between two events in the session.",
+    "source_quote": "Almost immediately, another ghost appeared\u2014Borough Warden Jadger...",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occur during the party\u2019s current expedition, following their prior interactions with Pelek and Jadger, and preceding any future missions.",
+    "source_quote": "The party discussed the strategic value of this offer and decided to ask Jadger for advice on dealing with the ooze problem.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
+    "source_quote": "The party found themselves in Diggermattock Hall, where Chief Dorbo and Senni engaged in a heated discussion about the future of Blingdenstone.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "battle against non-sentient gelatinous cubes",
+    "fact": "In the Trader's Grotto, the party fought a swarm of non-sentient gelatinous cubes that had emerged from the rocks, using fire, necrotic energy, acid protection, and physical strikes to defeat them, with Zalthir delivering the final blow.",
+    "source_quote": "By the time the smoke cleared, only one cube remained, reduced to a single hit point, and Zalthir delivered the killing blow.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Buppido",
+    "fact": "Buppido killed Pelek.",
+    "source_quote": "Buppido had killed Pelek.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz unleashed a massive explosion of fire, dissolving one cube entirely and severely damaging the others while avoiding the merchant stalls.",
+    "source_quote": "Daz carefully positioned himself and unleashed a massive explosion of fire, dissolving one cube entirely and severely damaging the others while avoiding the merchant stalls.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz unleashed another fiery explosion during the battle.",
+    "source_quote": "Daz unleashed another fiery explosion.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz's fiery explosion",
+    "fact": "Daz unleashed a massive explosion of fire, dissolving one cube entirely and severely damaging the others.",
+    "source_quote": "Daz carefully positioned himself and unleashed a massive explosion of fire, dissolving one cube entirely and severely damaging the others...",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "final cube defeated",
+    "fact": "Zalthir delivered the killing blow to the last remaining cube, reduced to a single hit point.",
+    "source_quote": "only one cube remained, reduced to a single hit point, and Zalthir delivered the killing blow.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Glyphic Shroomlight",
+    "fact": "Glyphic Shroomlight reconsidered interring Pelek's bones when Pelek's ghost materialized before him.",
+    "source_quote": "When Pelek's ghost materialized before him, Glyphic quickly reconsidered, not wishing to be haunted for the rest of his days.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum carried Pelek's bones in the hope of finding a proper resting place.",
+    "source_quote": "Grygum had carried Pelek's bones in the hope of finding a proper resting place.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum channeled divine energy through his holy symbol, blasting one of the cubes with searing necrotic force.",
+    "source_quote": "Grygum channeled divine energy through his holy symbol, blasting one of the cubes with searing necrotic force.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum channeled more divine energy during the battle.",
+    "source_quote": "Grygum channeled more divine energy...",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum interred Pelek's bones in a quiet corner of the catacombs, performing a dragon-themed ritual and planting a gold coin as a symbolic foundation.",
+    "source_quote": "Grygum found a quiet corner and carefully interred Pelek's bones, performing a dragon-themed ritual and planting a gold coin as a symbolic foundation.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum's necrotic blast",
+    "fact": "Grygum channeled divine energy through his holy symbol, blasting one of the cubes with searing necrotic force.",
+    "source_quote": "Grygum channeled divine energy through his holy symbol, blasting one of the cubes with searing necrotic force.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "interment of Pelek's bones",
+    "fact": "Pelek's bones were interred in the catacombs beneath the Temple of the Ruby in the Rough by Grygum, who performed a dragon-themed ritual and planted a gold coin; Pelek's spirit appeared to approve, expressing relief and fading peacefully.",
+    "source_quote": "Pelek expressed profound relief and gratitude, having feared he would be lost forever, tormenting people for eternity.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Jadger",
+    "fact": "Jadger advised the party to search for someone or something that was motivating the oozes, suggesting that a demon had likely granted power to an intermediate agent.",
+    "source_quote": "He advised the party to search for someone or something that was motivating the oozes, suggesting that a demon had likely granted power to an intermediate agent.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Jadger",
+    "fact": "Jadger appeared immediately after Pelek's spirit faded.",
+    "source_quote": "Almost immediately, another ghost appeared\u2014Borough Warden Jadger...",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Jadger",
+    "fact": "Jadger explained that he was working to re-establish the Borough Wardens and was secretly training young gnomes for this purpose.",
+    "source_quote": "Jadger explained that he was working to re-establish the Borough Wardens and was secretly training young gnomes for this purpose.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Jadger",
+    "fact": "Jadger explained the difference between devils and demons: devils corrupt individuals through personal deals, while demons empower proxies to cause widespread carnage and destruction.",
+    "source_quote": "He explained the difference between devils and demons: devils corrupt individuals through personal deals, while demons empower proxies to cause widespread carnage and destruction.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Jadger",
+    "fact": "Jadger offered the party a deal: for every ghost they helped put to rest, he would answer one question about the Underdark and its dangers.",
+    "source_quote": "He offered the party a deal: for every ghost they helped put to rest, he would answer one question about the Underdark and its dangers.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Jadger's clarification on devils and demons",
+    "fact": "Devils corrupt individuals through personal deals, while demons empower proxies to cause widespread carnage and destruction.",
+    "source_quote": "he explained the difference between devils and demons: devils corrupt individuals through personal deals, while demons empower proxies to cause widespread carnage and destruction.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Jadger's offer",
+    "fact": "For every ghost they helped put to rest, Jadger would answer one question about the Underdark and its dangers.",
+    "source_quote": "for every ghost they helped put to rest, he would answer one question about the Underdark and its dangers.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Jadger's revelation on devils vs. demons",
+    "fact": "Borough Warden Jadger explained to the party that devils corrupt individuals through personal deals, while demons empower proxies to cause widespread carnage and destruction, advising them to seek the intermediate agent empowering the ooze infestation.",
+    "source_quote": "He explained the difference between devils and demons: devils corrupt individuals through personal deals, while demons empower proxies to cause widespread carnage and destruction.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Pelek",
+    "fact": "Pelek expressed profound relief and gratitude, having feared he would be lost forever, tormenting people for eternity.",
+    "source_quote": "Pelek expressed profound relief and gratitude, having feared he would be lost forever, tormenting people for eternity.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Pelek",
+    "fact": "Pelek's spirit faded away, leaving the party with a warm, comforting feeling of having done the right thing.",
+    "source_quote": "As the party said their goodbyes, Pelek's spirit faded away, leaving them with a warm, comforting feeling of having done the right thing.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Pelek's burial ritual",
+    "fact": "Grygum performed a dragon-themed ritual and planted a gold coin as a symbolic foundation.",
+    "source_quote": "Grygum found a quiet corner and carefully interred Pelek's bones, performing a dragon-themed ritual and planting a gold coin as a symbolic foundation.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Pelek's spirit materialization",
+    "fact": "Pelek's ghost materialized before Glyphic Shroomlight, prompting him to reconsider interring the bones.",
+    "source_quote": "when Pelek's ghost materialized before him, Glyphic quickly reconsidered...",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sergeant",
+    "fact": "A sergeant guided the party through the Trader's Grotto and explained that fungi had once grown there until a medusa's spell turned them to stone centuries ago.",
+    "source_quote": "A sergeant guided them through the cavern, proudly explaining that fungi had once grown there until a medusa's spell turned them to stone centuries ago.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin complained that he wanted to do it.",
+    "source_quote": "Thorin complained that he wanted to do it.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin kept his distance, hurling darts at the creatures.",
+    "source_quote": "Thorin kept his distance, hurling darts at the creatures.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin moved closer to strike with his darts.",
+    "source_quote": "Thorin moved closer to strike with his darts.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin's complaint",
+    "fact": "Thorin complained that he wanted to do it.",
+    "source_quote": "Thorin complained that he wanted to do it.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "Sloobludop is approximately eight days away via the Darklake.",
+    "source_quote": "the town of Sloopdopblop is just eight days away",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir activated his eldritch claw tattoo, growing tentacles from his hands that allowed him to strike from a distance.",
+    "source_quote": "Zalthir activated his eldritch claw tattoo, growing tentacles from his hands that allowed him to strike from a distance...",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir delivered the killing blow to the last remaining cube.",
+    "source_quote": "Zalthir delivered the killing blow.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir performed an impressive martial display to demonstrate a monk technique for Jadger's trainees.",
+    "source_quote": "After Zalthir performed an impressive martial display, Jadger explained the difference between devils and demons...",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir replied that he was merely an aspiring ooze when Glabbagool asked if he was an ooze.",
+    "source_quote": "Zalthir replied that he was merely an aspiring ooze, which seemed to satisfy the curious cube.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir rushed forward to strike one of the cubes with powerful blows before retreating to safety.",
+    "source_quote": "Zalthir rushing forward to strike one of the cubes with powerful blows before retreating to safety.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's eldritch claw activation",
+    "fact": "Zalthir activated his eldritch claw tattoo, growing tentacles from his hands to strike from a distance.",
+    "source_quote": "Zalthir activated his eldritch claw tattoo, growing tentacles from his hands that allowed him to strike from a distance...",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Borough Wardens",
+    "fact": "The Borough Wardens are a defunct protective order in Blingdenstone that Borough Warden Jadger is secretly re-establishing by training young gnomes to restore their legacy.",
+    "source_quote": "He was working to re-establish the Borough Wardens and was secretly training young gnomes for this purpose.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Borough Wardens",
+    "fact": "The Borough Wardens are an ancient defensive order in Blingdenstone, now being secretly re-established by the spirit Jadger through training young gnomes.",
+    "source_quote": "Jadger explained that he was working to re-establish the Borough Wardens and was secretly training young gnomes for this purpose.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Gold Whisker clan",
+    "fact": "The Gold Whisker clan is a group Chief Dorbo suspected of being wererats and refused to cooperate with.",
+    "source_quote": "The conversation also revealed tensions regarding the Gold Whisker clan\u2014a group Chief Dorbo suspected of being wererats and refused to cooperate with.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Gold Whisker clan",
+    "fact": "The Gold Whisker clan is a group suspected by Chief Dorbo of being wererats, leading him to refuse cooperation with them, while Senni appears more open to reconciliation.",
+    "source_quote": "The conversation also revealed tensions regarding the Gold Whisker clan\u2014a group Chief Dorbo suspected of being wererats and refused to cooperate with, while Senni appeared more open to reconciliation.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Gold Whisker clan",
+    "fact": "The Gold Whisker clan is suspected by Chief Dorbo of being wererats and is refused cooperation with. Senni is more open to reconciliation with them.",
+    "source_quote": "The conversation also revealed tensions regarding the Gold Whisker clan\u2014a group Chief Dorbo suspected of being wererats and refused to cooperate with, while Senni appeared more open to reconciliation.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Catacombs beneath the Temple",
+    "fact": "The catacombs beneath the Temple of the Ruby in the Rough are where Grygum performed a dragon-themed burial ritual for Pelek\u2019s bones, leading to the spirit\u2019s peaceful fading.",
+    "source_quote": "He directed the party to the catacombs below, asking only that Glabbagool, their intelligent gelatinous cube companion, remain upstairs to avoid any accidents. In the catacombs, Grygum found a quiet corner and carefully interred Pelek's bones...",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Catacombs beneath the Temple of the Ruby in the Rough",
+    "fact": "The catacombs beneath the Temple of the Ruby in the Rough are where Grygum interred Pelek's bones and performed a dragon-themed ritual, and where Jadger later met the party to offer his deal.",
+    "source_quote": "He directed the party to the catacombs below, asking only that Glabbagool, their intelligent gelatinous cube companion, remain upstairs to avoid any accidents.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "catacombs location",
+    "fact": "The catacombs lie below the Temple of the Ruby in the Rough, dedicated to Segojan Earthcaller.",
+    "source_quote": "A guard directed them to the cemetery adjacent to the Temple of the Ruby in the Rough, dedicated to Segojan Earthcaller...",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "cemetery adjacent to the Temple of the Ruby in the Rough",
+    "fact": "A guard directed the party to the cemetery adjacent to the Temple of the Ruby in the Rough, dedicated to Segojan Earthcaller, the Svirfneblin god of deep earthen nature.",
+    "source_quote": "A guard directed them to the cemetery adjacent to the Temple of the Ruby in the Rough, dedicated to Segojan Earthcaller, the Svirfneblin god of deep earthen nature.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Cemetery adjacent to the Temple of the Ruby in the Rough",
+    "fact": "The cemetery near the Temple of the Ruby in the Rough is where Pelek's bones were laid to rest, and where his ghost appeared to compel the priest to act.",
+    "source_quote": "A guard directed them to the cemetery adjacent to the Temple of the Ruby in the Rough...",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Diggermattock Hall",
+    "fact": "Diggermattock Hall is the location where Chief Dorbo and Senni debated ooze infestations and the Gold Whisker clan, setting the stage for the party\u2019s quest to resolve the crisis.",
+    "source_quote": "The party found themselves in Diggermattock Hall, where Chief Dorbo and Senni engaged in a heated discussion about the future of Blingdenstone.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Diggermattock Hall",
+    "fact": "Diggermattock Hall is the meeting place where Chief Dorbo and Senni debated ooze infestations and community priorities in Blingdenstone.",
+    "source_quote": "The party found themselves in Diggermattock Hall, where Chief Dorbo and Senni engaged in a heated discussion about the future of Blingdenstone.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Temple of the Ruby in the Rough",
+    "fact": "The Temple of the Ruby in the Rough is a sacred site dedicated to Segojan Earthcaller, where Pelek's bones were interred after his spirit compelled the priest Glyphic Shroomlight to act.",
+    "source_quote": "A guard directed them to the cemetery adjacent to the Temple of the Ruby in the Rough, dedicated to Segojan Earthcaller, the Svirfneblin god of deep earthen nature.",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "location",
+    "subject": "Trader's Grotto",
+    "fact": "The Trader's Grotto is Blingdenstone's bustling central market.",
+    "source_quote": "With Jadger's counsel in mind, the party made their way to the Trader's Grotto, Blingdenstone's bustling central market.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Trader's Grotto",
+    "fact": "The Trader's Grotto is Blingdenstone\u2019s bustling central market, where petrified fungi from a medusa\u2019s ancient spell now serve as stalls for merchants, and where non-sentient gelatinous cubes erupted in a violent confrontation with the party.",
+    "source_quote": "The party made their way to the Trader's Grotto, Blingdenstone's bustling central market.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Trader's Grotto",
+    "fact": "Trader's Grotto is Blingdenstone's bustling central market, built among petrified fungi turned to stone by a medusa\u2019s spell centuries ago. It became the site of a sudden ooze attack.",
+    "source_quote": "With Jadger's counsel in mind, the party made their way to the Trader's Grotto, Blingdenstone's bustling central market... A sergeant guided them through the cavern, proudly explaining that fungi had once grown there until a medusa's spell turned them to stone centuries ago.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Trader's Grotto location",
+    "fact": "The Trader's Grotto is Blingdenstone's bustling central market, built atop petrified fungi.",
+    "source_quote": "The party made their way to the Trader's Grotto, Blingdenstone's bustling central market... fungi had once grown there until a medusa's spell turned them to stone centuries ago.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
+    "source_quote": "Drow outpost was 100' in the sky",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Warehouses carved beneath the Trader's Grotto",
+    "fact": "Warehouses carved beneath the Trader's Grotto serve as storage for goods delivered by caravans to the market, forming part of the economic infrastructure of Blingdenstone.",
+    "source_quote": "Merchants had set up makeshift stalls among the petrified fungi... while caravans delivered goods to warehouses carved beneath the grotto.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
+    "source_quote": "four chasme and two vrock",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Demons",
+    "fact": "Demons are chaotic entities that empower intermediaries to cause widespread destruction and carnage, as explained by Jadger as the likely force behind the ooze infestation.",
+    "source_quote": "Jadger explained the difference between devils and demons: devils corrupt individuals through personal deals, while demons empower proxies to cause widespread carnage and destruction. He advised the party to search for someone or something that was motivating the oozes, suggesting that a demon had likely granted power to an intermediate agent.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Devils",
+    "fact": "Devils are lawful entities that corrupt individuals through personal deals and bargains, as explained by Jadger in contrast to demons.",
+    "source_quote": "Jadger explained the difference between devils and demons: devils corrupt individuals through personal deals, while demons empower proxies to cause widespread carnage and destruction.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is an intelligent gelatinous cube companion of the party who is not a threat but is mistaken for one by gnomes and non-sentient cubes; he advises the party on combat tactics and is curious about Zalthir\u2019s abilities.",
+    "source_quote": "Gnomes eyeing Glabbagool with suspicion, though he tried his best to explain he was not a threat.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool's identity",
+    "fact": "Glabbagool is an intelligent gelatinous cube companion who remains upstairs to avoid accidents.",
+    "source_quote": "asking only that Glabbagool, their intelligent gelatinous cube companion, remain upstairs to avoid any accidents.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Juiblex",
+    "fact": "Juiblex is a demon lord associated with oozes, mentioned by Zalthir as a possible source of the ooze infestation. Jadger confirms the presence of a demon agent as the likely cause.",
+    "source_quote": "When Zalthir mentioned a possible connection to Juiblex, Jadger grew thoughtful and offered a clarification...",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "non-sentient gelatinous cubes",
+    "fact": "Multiple non-sentient gelatinous cubes emerged suddenly in the Trader's Grotto, causing mass panic. They are mindless, engulfing gnomes and requiring acid protection, physical force, or necrotic/fire damage to destroy.",
+    "source_quote": "Suddenly, several non-sentient gelatinous cubes oozed out of the rocks, causing mass panic among the merchants... He quickly advised the party to avoid being engulfed, to use acid protection if they had any, and to pull out anyone who got trapped as quickly as possible.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "non-sentient gelatinous cubes",
+    "fact": "Non-sentient gelatinous cubes emerged from the rocks in the Trader's Grotto, causing mass panic among merchants; they are mindless, engulf prey, and were defeated by the party using fire, necrotic energy, acid protection, and physical strikes.",
+    "source_quote": "Suddenly, several non-sentient gelatinous cubes oozed out of the rocks, causing mass panic among the merchants.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "non-sentient gelatinous cubes",
+    "fact": "Several non-sentient gelatinous cubes oozed out of the rocks, causing mass panic among the merchants.",
+    "source_quote": "Suddenly, several non-sentient gelatinous cubes oozed out of the rocks, causing mass panic among the merchants.",
+    "quote_verified": true,
+    "passes": [
+      "sweep",
+      "temporal"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "monster",
+    "subject": "one remaining gelatinous cube",
+    "fact": "Only one cube remained, reduced to a single hit point, and Zalthir delivered the killing blow.",
+    "source_quote": "By the time the smoke cleared, only one cube remained, reduced to a single hit point, and Zalthir delivered the killing blow.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Borough Warden Jadger",
+    "fact": "Borough Warden Jadger is a three-foot-tall spirit who had once defended Blingdenstone against the Drow and countless other threats.",
+    "source_quote": "Almost immediately, another ghost appeared\u2014Borough Warden Jadger, a three-foot-tall spirit who had once defended Blingdenstone against the Drow and countless other threats.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Borough Warden Jadger",
+    "fact": "Borough Warden Jadger is a three-foot-tall spirit who once defended Blingdenstone against the Drow. He is secretly training young gnomes to re-establish the Borough Wardens and offers to answer questions about the Underdark in exchange for helping ghosts find peace.",
+    "source_quote": "As the party said their goodbyes, Pelek's spirit faded away, leaving them with a warm, comforting feeling of having done the right thing. Almost immediately, another ghost appeared\u2014Borough Warden Jadger, a three-foot-tall spirit who had once defended Blingdenstone against the Drow and countless other threats.",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Borough Warden Jadger",
+    "fact": "Jadger was working to re-establish the Borough Wardens and was secretly training young gnomes for this purpose.",
+    "source_quote": "Jadger explained that he was working to re-establish the Borough Wardens and was secretly training young gnomes for this purpose.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido had killed Pelek.",
+    "source_quote": "Buppido had killed Pelek.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido killed Pelek, the ghost who traveled with the party, before the party sought to honor their promise to lay his bones to rest.",
+    "source_quote": "Buppido had killed Pelek.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Chief Dorbo",
+    "fact": "Chief Dorbo is the leader of the mining coalition in Blingdenstone and has been obstructing community housing construction due to ooze infestations. He suspects the Gold Whisker clan of being wererats and refuses to cooperate with them.",
+    "source_quote": "Chief Dorbo explained that ooze infestations had been hindering both mining operations and the construction of housing for the community.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Chief Dorbo",
+    "fact": "Chief Dorbo is the leader of the mining coalition in Blingdenstone and suspects the Gold Whisker clan of being wererats, refusing to cooperate with them while acknowledging his failure to address ooze infestations hindering mining and housing construction.",
+    "source_quote": "Chief Dorbo agreed that before he could help the party with their own concerns, they would need to deal with the ooze threat.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz carefully positioned himself and unleashed a massive explosion of fire, dissolving one cube entirely and severely damaging the others while avoiding the merchant stalls.",
+    "source_quote": "Daz carefully positioned himself and unleashed a massive explosion of fire, dissolving one cube entirely and severely damaging the others while avoiding the merchant stalls.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a fire-focused combatant who used massive explosions to dissolve oozes during battle, carefully avoiding merchant stalls and contributing decisively to the party's victory.",
+    "source_quote": "Daz carefully positioned himself and unleashed a massive explosion of fire, dissolving one cube entirely and severely damaging the others while avoiding the merchant stalls... Daz unleashed another fiery explosion.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a member of the party who used explosive fire magic to dissolve one gelatinous cube and severely damage others during the battle in the Trader's Grotto, carefully avoiding merchant stalls.",
+    "source_quote": "Daz carefully positioned himself and unleashed a massive explosion of fire, dissolving one cube entirely and severely damaging the others while avoiding the merchant stalls.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Dorbo",
+    "fact": "Dorbo is the leader of the mining coalition who explained that ooze infestations had been hindering both mining operations and the construction of housing for the community.",
+    "source_quote": "Dorbo, leader of the mining coalition, explained that ooze infestations had been hindering both mining operations and the construction of housing for the community.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool advised the party to avoid being engulfed, to use acid protection if they had any, and to pull out anyone who got trapped as quickly as possible.",
+    "source_quote": "He quickly advised the party to avoid being engulfed, to use acid protection if they had any, and to pull out anyone who got trapped as quickly as possible.",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "sweep"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool asked in wonder if Zalthir was an ooze.",
+    "source_quote": "prompting Glabbagool to ask in wonder if he was an ooze.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is an intelligent gelatinous cube companion of the party who is misunderstood by gnomes and protests that the non-sentient cubes are giving intelligent cubes a bad name; he advises the party on how to avoid being engulfed and wonders at Zalthir's eldritch claw tattoo.",
+    "source_quote": "He quickly advised the party to avoid being engulfed, to use acid protection if they had any, and to pull out anyone who got trapped as quickly as possible.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is an intelligent gelatinous cube companion of the party who is misunderstood by gnomes as a threat. He protests that the non-sentient oozes are giving intelligent cubes a bad name.",
+    "source_quote": "Merchants had set up makeshift stalls among the petrified fungi, hawking their wares and bartering with one another, while caravans delivered goods to warehouses carved beneath the grotto. As the party explored, they noticed the gnomes eyeing Glabbagool with suspicion, though he tried his best to explain he was not a threat.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is an intelligent gelatinous cube companion who was asked to remain upstairs to avoid any accidents.",
+    "source_quote": "asking only that Glabbagool, their intelligent gelatinous cube companion, remain upstairs to avoid any accidents.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool protested that mindless gelatinous cubes were giving intelligent gelatinous cubes a bad name.",
+    "source_quote": "Glabbagool protested that these mindless creatures were giving intelligent gelatinous cubes a bad name.",
+    "quote_verified": false,
+    "passes": [
+      "interiority",
+      "sweep"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool tried his best to explain he was not a threat.",
+    "source_quote": "As the party explored, they noticed the gnomes eyeing Glabbagool with suspicion, though he tried his best to explain he was not a threat.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Glyphic Shroomlight",
+    "fact": "Glyphic Shroomlight is a hesitant priest of Segojan Earthcaller who initially refused to inter unknown bones but relented after Pelek's ghost appeared before him, fearing eternal haunting.",
+    "source_quote": "At the temple, they met Glyphic Shroomlight, a priest who was initially hesitant to inter the bones of someone he didn't know. However, when Pelek's ghost materialized before him, Glyphic quickly reconsidered, not wishing to be haunted for the rest of his days.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Glyphic Shroomlight",
+    "fact": "Glyphic Shroomlight is a priest of Segojan Earthcaller who was initially hesitant to inter Pelek's bones but reconsidered after Pelek's ghost materialized before him, fearing he would be haunted for the rest of his days.",
+    "source_quote": "However, when Pelek's ghost materialized before him, Glyphic quickly reconsidered, not wishing to be haunted for the rest of his days.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Glyphic Shroomlight",
+    "fact": "Glyphic Shroomlight is a priest who was initially hesitant to inter the bones of someone he didn't know.",
+    "source_quote": "At the temple, they met Glyphic Shroomlight, a priest who was initially hesitant to inter the bones of someone he didn't know.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gnomes",
+    "fact": "The gnomes eyed Glabbagool with suspicion.",
+    "source_quote": "As the party explored, they noticed the gnomes eyeing Glabbagool with suspicion...",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum carried Pelek's bones in the hope of finding a proper resting place and later interred them in the catacombs beneath the Temple of the Ruby in the Rough, performing a dragon-themed ritual and planting a gold coin as a symbolic foundation.",
+    "source_quote": "In the catacombs, Grygum found a quiet corner and carefully interred Pelek's bones, performing a dragon-themed ritual and planting a gold coin as a symbolic foundation.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum channeled divine energy through his holy symbol, blasting one of the cubes with searing necrotic force.",
+    "source_quote": "Grygum channeled divine energy through his holy symbol, blasting one of the cubes with searing necrotic force.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum found a quiet corner and carefully interred Pelek's bones, performing a dragon-themed ritual and planting a gold coin as a symbolic foundation.",
+    "source_quote": "In the catacombs, Grygum found a quiet corner and carefully interred Pelek's bones, performing a dragon-themed ritual and planting a gold coin as a symbolic foundation.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum had carried Pelek's bones in the hope of finding a proper resting place.",
+    "source_quote": "Grygum had carried Pelek's bones in the hope of finding a proper resting place.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a divine caster who carried Pelek's bones, interred them in a dragon-themed ritual, and later used his holy symbol to blast oozes with necrotic energy during battle.",
+    "source_quote": "In the catacombs, Grygum found a quiet corner and carefully interred Pelek's bones, performing a dragon-themed ritual and planting a gold coin as a symbolic foundation... Grygum channeled divine energy through his holy symbol, blasting one of the cubes with searing necrotic force.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jadger",
+    "fact": "Jadger advised the party to search for someone or something that was motivating the oozes, suggesting that a demon had likely granted power to an intermediate agent.",
+    "source_quote": "He advised the party to search for someone or something that was motivating the oozes, suggesting that a demon had likely granted power to an intermediate agent.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jadger",
+    "fact": "Jadger explained the difference between devils and demons: devils corrupt individuals through personal deals, while demons empower proxies to cause widespread carnage and destruction.",
+    "source_quote": "Jadger explained the difference between devils and demons: devils corrupt individuals through personal deals, while demons empower proxies to cause widespread carnage and destruction.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Pelek",
+    "fact": "Pelek expressed profound relief and gratitude, having feared he would be lost forever, tormenting people for eternity.",
+    "source_quote": "Pelek expressed profound relief and gratitude, having feared he would be lost forever, tormenting people for eternity.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Pelek",
+    "fact": "Pelek is a ghost who had been traveling with the party; Buppido had killed Pelek.",
+    "source_quote": "Before embarking on their quest, the party decided to honor a promise they had made to Pelek, a ghost who had been traveling with them. Buppido had killed Pelek.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Pelek",
+    "fact": "Pelek is a ghost who traveled with the party and was killed by Buppido; his bones were carried by Grygum in hopes of a proper resting place, and his spirit later materialized to compel Glyphic Shroomlight to inter them.",
+    "source_quote": "As the party said their goodbyes, Pelek's spirit faded away, leaving them with a warm, comforting feeling of having done the right thing.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Pelek",
+    "fact": "Pelek was a ghost who traveled with the party and was killed by Buppido. His bones were carried by Grygum in hopes of a proper burial. His spirit later materialized to compel a priest to inter his remains.",
+    "source_quote": "Buppido had killed Pelek. Grygum had carried Pelek's bones in the hope of finding a proper resting place.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Senni",
+    "fact": "Senni represents the non-mining population of Blingdenstone and confronts Chief Dorbo about his inaction on ooze infestations, showing openness to reconciliation with the Gold Whisker clan despite Dorbo's suspicions.",
+    "source_quote": "Senni, representing the non-mining population, confronted him about his failure to adequately address the problem.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Senni",
+    "fact": "Senni represents the non-mining population of Blingdenstone and has confronted Chief Dorbo over his failure to address ooze threats. She is more open to reconciliation with the Gold Whisker clan than Dorbo is.",
+    "source_quote": "Senni, representing the non-mining population, confronted him about his failure to adequately address the problem.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Senni",
+    "fact": "Senni, representing the non-mining population, confronted Dorbo about his failure to adequately address the ooze problem.",
+    "source_quote": "Senni, representing the non-mining population, confronted him about his failure to adequately address the problem.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sergeant",
+    "fact": "A sergeant guided them through the cavern, proudly explaining that fungi had once grown there until a medusa's spell turned them to stone centuries ago.",
+    "source_quote": "A sergeant guided them through the cavern, proudly explaining that fungi had once grown there until a medusa's spell turned them to stone centuries ago.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin complained that he wanted to do it.",
+    "source_quote": "Thorin complained that he wanted to do it.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a member of the party who fought gelatinous cubes by hurling darts at them from a distance and expressed frustration that he wanted to deliver the final blow.",
+    "source_quote": "Thorin complained that he wanted to do it.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a ranged combatant who hurls darts at oozes and expresses frustration when others deliver the final blow, wanting to be the one to kill the last creature.",
+    "source_quote": "Thorin kept his distance, hurling darts at the creatures... Thorin complained that he wanted to do it.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin kept his distance, hurling darts at the creatures.",
+    "source_quote": "Thorin kept his distance, hurling darts at the creatures.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir activated his eldritch claw tattoo, growing tentacles from his hands that allowed him to strike from a distance.",
+    "source_quote": "Zalthir activated his eldritch claw tattoo, growing tentacles from his hands that allowed him to strike from a distance.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a member of the party who demonstrated a monk technique to Jadger, later fought gelatinous cubes with powerful strikes and an eldritch claw tattoo that grew tentacles, and humorously claimed to be an aspiring ooze.",
+    "source_quote": "Zalthir replied that he was merely an aspiring ooze, which seemed to satisfy the curious cube.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a monk who demonstrated a martial technique to Jadger, earned his trust, and later fought oozes using his eldritch claw tattoo, which grew tentacles to strike at a distance.",
+    "source_quote": "After Zalthir performed an impressive martial display, Jadger explained the difference between devils and demons... Zalthir rushed forward to strike one of the cubes with powerful blows before retreating to safety... Zalthir activated his eldritch claw tattoo, growing tentacles from his hands that allowed him to strike from a distance...",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir mentioned a possible connection to Juiblex.",
+    "source_quote": "When Zalthir mentioned a possible connection to Juiblex, Jadger grew thoughtful and offered a clarification in exchange for Zalthir demonstrating a monk technique he could teach to his young trainees.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir performed an impressive martial display.",
+    "source_quote": "After Zalthir performed an impressive martial display, Jadger explained the difference between devils and demons.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir replied that he was merely an aspiring ooze.",
+    "source_quote": "Zalthir replied that he was merely an aspiring ooze, which seemed to satisfy the curious cube.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir rushed forward to strike one of the cubes with powerful blows before retreating to safety.",
+    "source_quote": "Zalthir rushing forward to strike one of the cubes with powerful blows before retreating to safety.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "eldritch claw tattoo",
+    "fact": "Zalthir\u2019s eldritch claw tattoo allows him to grow tentacles from his hands, granting him extended reach in combat, which he used to strike oozes without being engulfed.",
+    "source_quote": "Zalthir activated his eldritch claw tattoo, growing tentacles from his hands that allowed him to strike from a distance...",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "gold coin",
+    "fact": "A gold coin was planted as a symbolic foundation during Pelek\u2019s burial ritual, representing the completion of his journey and the restoration of peace.",
+    "source_quote": "performing a dragon-themed ritual and planting a gold coin as a symbolic foundation.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "gold coin",
+    "fact": "A gold coin was planted by Grygum as a symbolic foundation during the interment of Pelek's bones in the catacombs, representing closure and honor for the deceased spirit.",
+    "source_quote": "performing a dragon-themed ritual and planting a gold coin as a symbolic foundation.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "holy symbol",
+    "fact": "Grygum\u2019s holy symbol channels divine energy to unleash necrotic force, used to destroy one of the gelatinous cubes during battle.",
+    "source_quote": "Grygum channeled divine energy through his holy symbol, blasting one of the cubes with searing necrotic force.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Pelek's bones",
+    "fact": "Pelek's bones were carried by Grygum and interred in the catacombs beneath the Temple of the Ruby in the Rough, serving as the physical vessel for his spirit's final peace.",
+    "source_quote": "Grygum had carried Pelek's bones in the hope of finding a proper resting place.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Pelek's bones",
+    "fact": "Pelek's bones were carried by Grygum and later interred in a dragon-themed ritual with a gold coin as a foundation, allowing his spirit to find peace.",
+    "source_quote": "Grygum had carried Pelek's bones in the hope of finding a proper resting place... performing a dragon-themed ritual and planting a gold coin as a symbolic foundation.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "petrified fungi",
+    "fact": "Merchants had set up makeshift stalls among the petrified fungi, hawking their wares and bartering with one another.",
+    "source_quote": "Merchants had set up makeshift stalls among the petrified fungi, hawking their wares and bartering with one another.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Borough Warden training",
+    "fact": "Jadger is secretly training young gnomes to re-establish the Borough Wardens, but their identities and progress are currently unknown to the party.",
+    "source_quote": "He offered the party a deal: for every ghost they helped put to rest, he would answer one question about the Underdark and its dangers... He also recommended they speak with a young gnome he was mentoring, who would soon lead the new Borough Wardens...",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Glabbagool's reputation",
+    "fact": "Glabbagool\u2019s identity as an intelligent gelatinous cube is misunderstood by gnomes, who suspect him of being responsible for the non-sentient oozes. His efforts to clear his name are ongoing.",
+    "source_quote": "Merchants had set up makeshift stalls among the petrified fungi... they noticed the gnomes eyeing Glabbagool with suspicion... he protested that these mindless creatures were giving intelligent gelatinous cubes a bad name.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Jadger's young gnome trainee",
+    "fact": "Jadger is mentoring a young gnome who will soon lead the new Borough Wardens, but the gnome's identity and full capabilities are not yet revealed in this session.",
+    "source_quote": "He also recommended they speak with a young gnome he was mentoring, who would soon lead the new Borough Wardens, once they had gathered more information.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "ooze infestation mystery",
+    "fact": "A mass infestation of oozes in Blingdenstone is highly unusual, and the party is tasked with uncovering the demon-empowered intermediate agent responsible, following Jadger\u2019s advice to search for a motivator rather than fighting the oozes directly.",
+    "source_quote": "He advised the party to search for someone or something that was motivating the oozes, suggesting that a demon had likely granted power to an intermediate agent.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "ooze infestation mystery",
+    "fact": "The cause of the unusual mass ooze infestation in Blingdenstone remains unknown. Jadger suggests a demon has empowered an intermediate agent, and the party must find the source to resolve it.",
+    "source_quote": "Jadger explained the difference between devils and demons... He advised the party to search for someone or something that was motivating the oozes, suggesting that a demon had likely granted power to an intermediate agent.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "rebuilding the Borough Wardens",
+    "fact": "Borough Warden Jadger is secretly training young gnomes to re-establish the Borough Wardens, and the party may be called upon to support this effort after helping him with ghost-related quests.",
+    "source_quote": "He was working to re-establish the Borough Wardens and was secretly training young gnomes for this purpose.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Zalthir's aspiring ooze identity",
+    "fact": "Zalthir jokingly claims to be an 'aspiring ooze' after his eldritch claw tattoo manifests tentacles, which satisfies Glabbagool and blurs the line between monster and mage.",
+    "source_quote": "Zalthir replied that he was merely an aspiring ooze, which seemed to satisfy the curious cube.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Zalthir's eldritch claw tattoo",
+    "fact": "Zalthir\u2019s eldritch claw tattoo manifests as tentacles during combat, prompting Glabbagool to question his nature; this arcane ability may be tied to deeper forces in the Underdark and could be explored further.",
+    "source_quote": "Zalthir activated his eldritch claw tattoo, growing tentacles from his hands that allowed him to strike from a distance, prompting Glabbagool to ask in wonder if he was an ooze.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  }
+]

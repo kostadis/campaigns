@@ -1,0 +1,107 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
+    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "An hour passes between two events in the session.",
+    "source_quote": "An hour later",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
+    "source_quote": "four chasme and two vrock",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "Sloobludop is approximately eight days away via the Darklake.",
+    "source_quote": "the town of Sloopdopblop is just eight days away",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
+    "source_quote": "Drow outpost was 100' in the sky",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "daz count",
+    "fact": "Daz is the target of theoretical murder planning while a restrained enemy watches the party debate it.",
+    "source_quote": "I am categorically on record as being the only person in this party who treats information as a finite and valuable resource, and yet here I was, the subject of active theoretical murder planning while a restrained enemy watched us debate it.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep access",
+    "fact": "Five books are required to secure FaceTime with the avowed at Candlekeep.",
+    "source_quote": "The rules say that you must provide one book per group. But if you have come to ask more than one question and wish to intersect with many of the avowed \u2014 providing more books will get you more FaceTime.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "prayer beads power",
+    "fact": "The prayer beads are at full power despite being shrunken, and may be more deadly.",
+    "source_quote": "Those prayer beads are at full power, even though they're shrunken, right? ... Yes \u2014 in fact, I believe they may be more deadly.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "bag of holding conditions",
+    "fact": "The drow spy is contained in a bag of holding with holes poked for air, shielded from sunlight, and monitored by Glabbagool.",
+    "source_quote": "We can put her in the bag of holding with Glabbagool, and he can just hold onto her. ... Poke holes. Let her breathe. Like a hamster.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Glabbagool's surveillance",
+    "fact": "Glabbagool maintains unblinking, steady surveillance of the miniaturized drow spy with one eye.",
+    "source_quote": "He had been assigned a job. He was doing the job. The care in it \u2014 the steadiness of that unblinking attention \u2014 was the most earnest thing I'd seen in weeks.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "drow spy's captivity",
+    "fact": "The drow spy is miniaturized, confined, surveilled, and shielded from sunlight as an act of mercy.",
+    "source_quote": "She was small, surveilled by an ooze, breathing through holes we'd poked in the bag, and being shielded from sunlight as a kindness.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "velkynvelve prisoner journal",
+    "fact": "The Velkynvelve Prisoner Journal is considered a masterpiece of drow prison literature and is held in high reverence by the First Reader.",
+    "source_quote": "This journal of the prisoners is a masterpiece of interesting value. I can't wait to study it carefully. It will go great with my other editions in drow prison journals.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "glabbagool's question",
+    "fact": "Glabbagool is granted one question at Candlekeep, despite his confusion over knowledge limits.",
+    "source_quote": "We give all five books. ... Thorin proposed giving Glabbagool his own question, which I thought was extremely fair.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "glabbagool's eyes",
+    "fact": "Glabbagool produces proliferating googly eyes as affectations to appear more friendly, while retaining true perception.",
+    "source_quote": "I can actually see different ways. This is how ooze work. But I discovered that if you have these cute eyes, people take you more friendly. And then, to demonstrate his actual authority, he started producing eyes. Many eyes. Proliferating eyes.",
+    "quote_verified": false
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a captive who attempted to sneak into the tower to arm the prisoners, tripped on a goblet, and later tried to attack Imbros with unarmed strikes, accidentally caressing him instead.",
+    "source_quote": "Zalthir tripped. Daz is startled and tries to help Zalthir, kicks the goblet that Zalthir tripped on. The goblet shatters.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is Zalthir\u2019s backup who startled when Zalthir tripped, kicked the goblet, shouted 'Plan B' telepathically, and later cast Mind Sliver and Magic Missiles against Imbros.",
+    "source_quote": "Daz shouts in Thorin\u2019s brain, 'Plan B.' Daz focuses his mind on Imbros and speaks the incantation of Mind Sliver... Daz strikes with three more magic missiles.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a dwarf who rushed into the chamber after hearing 'Plan B,' was struck by Imbros, rendered unconscious, then healed by Grygum, and later donned armor to re-engage.",
+    "source_quote": "Thorin rushes into the small chamber... Imbros strikes Thorin, who falls, bleeding and unconscious... Grygum stands over the dwarf... bloodless flesh becomes rosy... Flush with renewed vigor, the formerly injured Thorin is ready to face the world once more.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Imbros",
+    "fact": "Imbros is an elite Drow male fighter trained in Menzoberranzan, identified by Sarith, who resisted multiple spells, killed Prince Derendil with Drow Poison, and was ultimately slain by Sarith after being struck by magic missiles and crossbow bolts.",
+    "source_quote": "Sarith identified as Imbros... Imbros is, in turn, amused by the turn of events... Imbros strikes Prince Derendil twice; this time, he uses the Drow Poison... Sarith smiles, too, when his sword cuts Imbros down.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Prince Derendil",
+    "fact": "Prince Derendil is a noble who declared himself armed and charged Imbros, was struck twice with Drow Poison, and was ultimately stabbed to death by Imbros.",
+    "source_quote": "Prince Derendil declares, 'I am already armed in this hideous form, and it would bring me great joy to kill this drow.' He then charges at Imbros... Prince Derendil\u2019s journey ends with being stabbed to death by Imbros.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a cleric who healed Thorin with divine magic, calmed Sarith\u2019s rage through spiritual guidance, and cast a necrotic bell spell against Imbros.",
+    "source_quote": "Grygum descends from the armory and walks towards Thorin... bloodless flesh becomes rosy... Grygum notices and reaches into Sarith\u2019s mind... Grygum points his finger at Imbros, and the dolorous sound of a bell fills the room.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith is a former Drow who attacked a guard, cursed him uniquely, went mad after Derendil\u2019s death, was calmed by Grygum, and then killed Imbros with his sword.",
+    "source_quote": "As the Sarith strikes his erstwhile comrade, he curses him in a unique way... Sarith suddenly goes mad... Grygum notices and reaches into Sarith\u2019s mind... Sarith smiles, too, when his sword cuts Imbros down.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido led the prisoner revolt, rushed into the chamber with others, and fired a hand crossbow at Imbros, missing his shot.",
+    "source_quote": "The rest of the prisoners, led by Buppido, take advantage of the distraction, rush into the chamber, and scramble into the armory... Buppido and Jimjar miss.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth is a prisoner who attacked from the armory roof with a hand crossbow, hitting the remaining Drow guard.",
+    "source_quote": "Eldeth and Topsy hit the remaining Drow guard.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ront",
+    "fact": "Ront is a prisoner who prefers direct combat, squeezed into the fight, and killed the Drow guard with a strike.",
+    "source_quote": "Ront, who prefers a straight-up fight, squeezes into the fight and strikes at the guard, killing him.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Shuushar",
+    "fact": "Shuushar is a prisoner who fired a hand crossbow from the armory roof and hit Imbros.",
+    "source_quote": "Shuushar aims at Imbros and hits.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is a Deep Gnome who mastered Spool\u2019s telepathy, forced everyone to hear him say 'You should have taken that bet,' and missed his crossbow shot at Imbros.",
+    "source_quote": "You should have taken that bet,' everyone hears Jimjar say. The Deep Gnome has mastered Spool\u2019s telepathy and forces everyone to listen to him. Buppido and Jimjar miss.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Drow Warriors",
+    "fact": "The Drow warriors include two guards and one elite fighter (Imbros), who were unable to react to the prisoner uprising and were ultimately slain.",
+    "source_quote": "The chamber has two Drow guards and one of the more elite Drow male fighters... The Drow warriors are unable to react.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Chamber",
+    "fact": "The chamber contains a zurkhwood table with three chairs, a side table, spider-silk webbing with hooks, and the Drow game Sava set upon the table.",
+    "source_quote": "The chamber has two Drow guards and one of the more elite Drow male fighters. It contains a zurkhwood table and three chairs, a smaller side table, and spider-silk webbing set with hooks for hanging equipment. The table is set with the Drow game Sava.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Armory",
+    "fact": "The armory is accessed through an opening in the roof, from which prisoners attacked with hand crossbows and later emerged armed.",
+    "source_quote": "From the opening in the roof where the armory is, Eldeth, Buppido, Shuushar, Jimjar, Topsy, and Turvy attack using hand-held crossbows... Grygum descends from the armory...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Zurkhwood Table",
+    "fact": "A table made of zurkhwood, set with the Drow game Sava, located in the chamber.",
+    "source_quote": "It contains a zurkhwood table and three chairs... The table is set with the Drow game Sava.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Spider-Silk Webbing",
+    "fact": "Webbing made of spider-silk, set with hooks for hanging equipment, present in the chamber.",
+    "source_quote": "It contains a zurkhwood table and three chairs, a smaller side table, and spider-silk webbing set with hooks for hanging equipment.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Hand-Held Crossbows",
+    "fact": "Weapons used by prisoners Eldeth, Topsy, Shuushar, Jimjar, and Turvy to attack the Drow from the armory roof.",
+    "source_quote": "Eldeth, Buppido, Shuushar, Jimjar, Topsy, and Turvy attack using hand-held crossbows... Eldeth and Topsy hit... Shuushar aims at Imbros and hits.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Prisoner Revolt",
+    "fact": "A coordinated uprising led by Buppido, in which prisoners armed themselves, attacked Drow guards, and killed Imbros after multiple failed attempts and heavy casualties.",
+    "source_quote": "The rest of the prisoners, led by Buppido, take advantage of the distraction, rush into the chamber, and scramble into the armory... Sarith smiles, too, when his sword cuts Imbros down.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Healing of Thorin",
+    "fact": "Thorin was rendered unconscious by Imbros, then fully healed by Grygum\u2019s divine magic, restoring him to full vigor.",
+    "source_quote": "Grygum stands over the dwarf, and then, with a moment\u2019s incantation and a gentle touch, bloodless flesh becomes rosy, gashes close, and broken bones knit instantly...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Death of Prince Derendil",
+    "fact": "Prince Derendil was killed by Imbros after being struck twice with Drow Poison, ending his journey in combat.",
+    "source_quote": "Prince Derendil\u2019s journey ends with being stabbed to death by Imbros.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sarith\u2019s Mental Break and Calming",
+    "fact": "Sarith went mad with grief after Derendil\u2019s death, but Grygum calmed him by redirecting his rage toward divine focus, restoring his composure.",
+    "source_quote": "Sarith suddenly goes mad... Grygum notices and reaches into Sarith\u2019s mind to tell Sarith to focus on his spirituality... Sarith is confused and calmed.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "No Plan Survives Encounter",
+    "fact": "A recurring philosophical motif referenced by Zalthir and the narrative, underscoring the chaos of the revolt and the failure of premeditated strategies.",
+    "source_quote": "Like the great Sage Vof Klownits described in his opus... 'No plan survives encounter with the enemy.'",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Telepathic Communication",
+    "fact": "A pervasive system of mental communication among prisoners and Drow, enabling covert coordination and accidental eavesdropping, mastered by Jimjar and used by Daz and Thorin.",
+    "source_quote": "Then, everyone starts talking in each other\u2019s heads... Daz shouts in Thorin\u2019s brain... everyone hears Jimjar say. The Deep Gnome has mastered Spool\u2019s telepathy and forces everyone to listen to him.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "4th day of the 2nd Tenday of Taraskh 1493",
+    "fact": "The date on which the prisoner revolt, infiltration, and battle against the Drow occurred.",
+    "source_quote": "4th day of the 2nd Tenday of Taraskh 1493",
+    "quote_verified": true
+  }
+]

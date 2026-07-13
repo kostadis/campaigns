@@ -1,0 +1,114 @@
+[
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is an elf with no known noble house affiliation, mysterious background, and sudden appearance; a contract was issued to extract him alive and unharmed by House T'sarran, indicating he is of significant value.",
+    "source_quote": "So then maybe there's more to me than meets the eye?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara",
+    "fact": "Ilvara was a High Priestess who built rituals around a fused sigil of Lolth and Zuggtmoy, indicating her madness and dual allegiance to two conflicting deities; her physical artifacts were found as evidence of her transformation.",
+    "source_quote": "It was Ilvara's madness made physical \u2014 the thing she'd built her rituals around while she was becoming something that served two masters and understood neither.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Mage (House T'sarran)",
+    "fact": "The deceased mage carried House T'sarran's signet ring and partially burned documents confirming a contract to extract Daz alive; she was likely the courier of the order and is now dead with the evidence on her person.",
+    "source_quote": "The mage who'd been carrying those orders was now dead on the floor with a T'sarran ring on her finger.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "House T'sarran",
+    "fact": "House T'sarran commissioned a contract to extract Daz alive and unharmed, using professional Drow mercenaries and routing the order through a house with sufficient reach to ensure execution; they are directly implicated in the events of the chamber.",
+    "source_quote": "House T'sarran behind it.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "House Mizzrym",
+    "fact": "House Mizzrym employed a contingent of soldiers who were killed in the chamber; their bodies bore gold, short swords, a long sword, and a steel whistle, but their pay will never be collected.",
+    "source_quote": "The dead soldiers of House Mizzrym would never collect their pay.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "destruction of fungal corruption",
+    "fact": "Grygum destroyed the pulsing fungal growth tied to Zuggtmoy's influence using acid, reducing months of corrupted growth to ash in a single exhalation; the act eliminated a persistent necromantic threat.",
+    "source_quote": "The fungal matter that had spent months becoming something wrong collapsed into ash in the time it takes to exhale.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "discovery of the artifact",
+    "fact": "A smooth, dense, fist-sized object, not fungus but clearly worked by a skilled hand, was found at the core of the fungal mass; it radiated a necromantic sensation and was pocketed as valuable evidence.",
+    "source_quote": "Smooth. Dense. Fist-sized. The weight of it was wrong for something grown \u2014 too even, too finished, like a stone that had been worked by a hand that knew what it was doing.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "T'sarran Signet Ring",
+    "fact": "A signet ring bearing the unmistakable seal of House T'sarran was found on the deceased mage; it serves as proof of her affiliation and the origin of the contract to extract Daz.",
+    "source_quote": "I found the signet ring first \u2014 House T'sarran, the seal unmistakable on the face of it.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Obsidian Wand with Captive Spider",
+    "fact": "An obsidian wand containing a preserved spider in amber was recovered from the mage; its magical properties and origin remain unanalyzed but suggest high-level arcane craftsmanship.",
+    "source_quote": "Then the wand: obsidian, a captive spider preserved in amber at its tip.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Fused Sigil Cloth",
+    "fact": "A leather-wrapped bundle contained a cloth stitched with the interwoven sigils of Lolth and Zuggtmoy in an eight-fold geometry; it is physical evidence of Ilvara's heretical rituals and dual devotion.",
+    "source_quote": "a cloth that had been stitched with two sigils \u2014 Lolth's web worked into the eight-fold geometry of Zuggtmoy's mark, one woven inside the other.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Partially Burned Documents",
+    "fact": "Documents partially destroyed by fire contained confirmation of the contract to extract Daz alive; their incomplete state suggests deliberate but unsuccessful destruction, preserving critical evidence.",
+    "source_quote": "They'd been partially burned, which meant someone had tried to destroy them and hadn't quite managed it, which meant the information in them was exactly the kind of thing worth knowing.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Zuggtmoy's Fungal Growth",
+    "fact": "A slow-pulsing, necromantic fungal mass infused with Zuggtmoy's influence had grown up the chamber's stone; it was destroyed by Grygum's acid, collapsing into ash after months of active corruption.",
+    "source_quote": "The fungal growth that had crept up the stone was still pulsing with Zuggtmoy's reach, slow and rhythmic like breathing.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Daz's True Identity",
+    "fact": "Daz's origins are unknown, yet a powerful noble house spent significant resources to ensure his survival; this implies he is not who he appears to be, and his true nature is a major unresolved mystery.",
+    "source_quote": "So then maybe there's more to me than meets the eye?",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "House T'sarran's Motive",
+    "fact": "House T'sarran's motive for extracting Daz alive remains unexplained; the scale of the operation suggests deeper political or arcane stakes beyond simple mercenary work.",
+    "source_quote": "Somebody had spent a significant amount of gold to ensure that the elf standing to my left made it out of this cavern breathing.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Ilvara's Dual Devotion",
+    "fact": "Ilvara's fusion of Lolth and Zuggtmoy's sigils indicates a heretical, unstable synthesis of two opposing deities; the reason for this synthesis and its consequences remain unknown.",
+    "source_quote": "It was Ilvara's madness made physical \u2014 the thing she'd built her rituals around while she was becoming something that served two masters and understood neither.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occurred during a single session of exploration following the mage's arrival with her mercenary escort; no calendar date is given, but the sequence is immediate and continuous.",
+    "source_quote": "in the last several months",
+    "quote_verified": true
+  }
+]

@@ -1,0 +1,1214 @@
+[
+  {
+    "type": "date",
+    "subject": "after the third elemental's defeat",
+    "fact": "The appearance of the third Galeb Duhr after the third elemental's destruction marks a new phase in the temple's cleansing, confirming the ongoing nature of the mission and the absence of resolution.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "An hour passes between two events in the session.",
+    "source_quote": "An hour later",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events of this chapter occurred during the party's current expedition into the Underdark, following their defeat of the Medusa and preceding any known rest period.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
+    "source_quote": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz cast a mesmerizing pattern of swirling colors that incapacitated the Earth Elemental.",
+    "source_quote": "Daz quickly cast a mesmerizing pattern of swirling colors that incapacitated the creature, freezing it in place",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz delivered the final blow with magical missiles that struck true and ended the Medusa's life.",
+    "source_quote": "The final blow came from Daz, whose magical missiles struck true and ended the creature's life",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz unleashed a massive explosion of fire that scorched the third elemental.",
+    "source_quote": "Daz unleashed a massive explosion of fire that scorched the creature",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "daz's magical missiles",
+    "fact": "Daz's magical missiles struck true and ended the Medusa's life.",
+    "source_quote": "Daz, whose magical missiles struck true and ended the creature's life",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Defeating the Medusa",
+    "fact": "The party's victory over the Medusa allowed them to search her lair, recover the spider-silk dresses, and gain access to the deeper layers of the temple, where Ogr\u00e9moch's corruption lay hidden.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Galeb Duhr",
+    "fact": "The Galeb Duhr explained that by defeating the elemental, the party had freed it from Ogr\u00e9moch's control.",
+    "source_quote": "the creature spoke in measured tones, explaining that by defeating the elemental, they had freed it from Ogr\u00e9moch's control",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "galeb duhr liberation condition",
+    "fact": "The Galeb Duhr could do nothing until all of its brothers were similarly freed.",
+    "source_quote": "it could do nothing until all of its brothers were similarly freed",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool expressed unusual delight at tasting the Medusa's remains.",
+    "source_quote": "Glabbagool, the intelligent gelatinous cube who traveled with them, expressed unusual delight at tasting the Medusa's remains",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum followed with a brilliant flash of divine light that struck the creature with tremendous force, reducing it to rubble.",
+    "source_quote": "Grygum followed with a brilliant flash of divine light that struck the creature with tremendous force, reducing it to rubble",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum unleashed a powerful spell with his crossbow, channeling divine energy through the weapon to pierce the elemental's stony hide and destroy it.",
+    "source_quote": "Grygum unleashed a powerful spell with his crossbow, channeling divine energy through the weapon to pierce the elemental's stony hide and destroy it",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum volunteered to place the Ruby spell gem into the great menhir in the temple's center.",
+    "source_quote": "Grygum, as the party's cleric, volunteered to place the Ruby spell gem that Gerdig Katfinger had provided into the great menhir that stood in the temple's center",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum was startled as an Earth Elemental materialized behind him.",
+    "source_quote": "so too did another Earth Elemental, startling Grygum as it materialized behind him",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "grygum's divine crossbow",
+    "fact": "Grygum unleashed a powerful spell with his crossbow, channeling divine energy through the weapon to pierce the elemental's stony hide and destroy it.",
+    "source_quote": "Grygum unleashed a powerful spell with his crossbow, channeling divine energy through the weapon to pierce the elemental's stony hide and destroy it",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "grygum's divine light",
+    "fact": "Grygum followed with a brilliant flash of divine light that struck the elemental with tremendous force, reducing it to rubble.",
+    "source_quote": "Grygum followed with a brilliant flash of divine light that struck the creature with tremendous force, reducing it to rubble",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Hallowing the temple",
+    "fact": "The party's act of placing the Ruby spell gem into the menhir initiated the ritual to cleanse the temple of Ogr\u00e9moch's Bane, triggering the release of bound Galeb Duhr guardians and the awakening of Earth Elementals.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "temple cleansing objective",
+    "fact": "The party's true objective is hallowing the ancient temple to cleanse it of Ogr\u00e9moch's Bane.",
+    "source_quote": "hallowing the ancient temple to cleanse it of Ogr\u00e9moch's Bane, an evil force from the elemental plane of earth",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin drew upon his reserves of strength to launch a flurry of additional attacks, each one chipping away at the elemental's defenses.",
+    "source_quote": "Thorin drew upon his reserves of strength to launch a flurry of additional attacks, each one chipping away at the elemental's defenses",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin engaged the second elemental directly with his glowing sword Dawnbringer.",
+    "source_quote": "Thorin engaged it directly with his glowing sword Dawnbringer",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin intercepted one of the elemental's attacks during the second battle.",
+    "source_quote": "Thorin intercepted one of its attacks",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin positioned himself to intercept the third elemental's charge, striking it twice with devastating precision as it rushed toward him.",
+    "source_quote": "Thorin positioned himself to intercept the elemental's charge, striking it twice with devastating precision as it rushed toward him",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "thorin's dawnbringer",
+    "fact": "Thorin engaged the elemental directly with his glowing sword Dawnbringer.",
+    "source_quote": "Thorin engaged it directly with his glowing sword Dawnbringer",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "thorin's devastating strikes",
+    "fact": "Thorin struck the third elemental twice with devastating precision as it rushed toward him.",
+    "source_quote": "Thorin positioned himself to intercept the elemental's charge, striking it twice with devastating precision as it rushed toward him",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "Sloobludop is approximately eight days away via the Darklake.",
+    "source_quote": "the town of Sloopdopblop is just eight days away",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir repeatedly deflected the Medusa's petrifying gaze by shoving an ice mirror in her face.",
+    "source_quote": "Zalthir had demonstrated remarkable composure, repeatedly deflecting the creature's deadly petrifying gaze by shoving an ice mirror in her face",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir rushed forward and delivered a devastating series of blows that left the elemental severely wounded.",
+    "source_quote": "Zalthir rushed forward and delivered a devastating series of blows that left the elemental severely wounded",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir stepped forward and delivered an enhanced strike that shattered the third elemental into fragments.",
+    "source_quote": "Finally, Zalthir stepped forward and delivered an enhanced strike that shattered the creature into fragments",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir took a moment to drink a healing potion from the party's supplies before preparing to rejoin the fray.",
+    "source_quote": "Zalthir, wounded from the previous fight, took a moment to drink a healing potion from the party's supplies before preparing to rejoin the fray",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "zalthir's final strike",
+    "fact": "Zalthir stepped forward and delivered an enhanced strike that shattered the third elemental into fragments.",
+    "source_quote": "Zalthir stepped forward and delivered an enhanced strike that shattered the creature into fragments",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "zalthir's healing potion",
+    "fact": "Zalthir drank a healing potion from the party's supplies before rejoining the fray.",
+    "source_quote": "Zalthir, wounded from the previous fight, took a moment to drink a healing potion from the party's supplies before preparing to rejoin the fray",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Galeb Duhr",
+    "fact": "The Galeb Duhr are ancient stone guardians of the temple, bound by Ogr\u00e9moch's corruption to serve as inert sentinels; they speak only after their elemental oppressors are freed, and each freed guardian reveals that more brothers remain enslaved.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Ogr\u00e9moch",
+    "fact": "Ogr\u00e9moch is an evil force from the elemental plane of earth that infected the temple, bound the Galeb Duhr guardians, prevented them from fulfilling their sacred duty, and unleashed elementals to defend its corruption.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Ancient temple",
+    "fact": "The ancient temple is a sacred site corrupted by Ogr\u00e9moch's Bane, an evil force from the elemental plane of earth; its walls contain humanoid shapes, menhirs with empty sockets, and multiple hidden elemental and Galeb Duhr guardians.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "ancient temple",
+    "fact": "The party turned their attention to their true objective: hallowing the ancient temple to cleanse it of Ogr\u00e9moch's Bane, an evil force from the elemental plane of earth.",
+    "source_quote": "With the Medusa defeated, the party turned their attention to their true objective: hallowing the ancient temple to cleanse it of Ogr\u00e9moch's Bane, an evil force from the elemental plane of earth.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "chamber",
+    "fact": "The chamber itself was ominous, with rough walls that outlined several large, vaguely humanoid shapes.",
+    "source_quote": "The chamber itself was ominous, with rough walls that outlined several large, vaguely humanoid shapes.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "menhir location",
+    "fact": "The great menhir stood in the temple's center.",
+    "source_quote": "the great menhir that stood in the temple's center",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Northern wall",
+    "fact": "The northern wall of the temple is a point of emergence for the second Earth Elemental, suggesting structural weaknesses or hidden portals tied to the elemental corruption.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Temple of Ogr\u00e9moch's Bane",
+    "fact": "The temple was corrupted by Ogr\u00e9moch's Bane, an evil force from the elemental plane of earth, and its walls contained vague humanoid shapes that shifted to reveal elementals; it housed the great menhir where the Ruby spell gem was placed to cleanse it.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Temple's center (menhir)",
+    "fact": "The great menhir at the temple's center holds the Ruby spell gem placed by Grygum; its sockets glow when activated and are central to the ritual of hallowing and cleansing the temple from Ogr\u00e9moch's corruption.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "temple's ongoing cleansing",
+    "fact": "The party's work in cleansing the temple was far from complete, as another Galeb Duhr materialized.",
+    "source_quote": "yet another Galeb Duhr materialized from the stone, suggesting that the party's work in cleansing the temple was far from complete",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "temple wall shapes",
+    "fact": "The chamber's rough walls outlined several large, vaguely humanoid shapes.",
+    "source_quote": "rough walls that outlined several large, vaguely humanoid shapes",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
+    "source_quote": "Drow outpost was 100' in the sky",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
+    "source_quote": "four chasme and two vrock",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Earth Elemental",
+    "fact": "Even as it spoke, another Earth Elemental emerged from the northern wall.",
+    "source_quote": "Even as it spoke, another Earth Elemental emerged from the northern wall.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Earth Elemental",
+    "fact": "Part of the wall suddenly shifted and detached, revealing an Earth Elemental that charged toward the party with hostile intent.",
+    "source_quote": "Part of the wall suddenly shifted and detached, revealing an Earth Elemental that charged toward the party with hostile intent.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "earth elemental count",
+    "fact": "Three Earth Elementals emerged from the temple walls during the battle.",
+    "source_quote": "another Earth Elemental emerged from the northern wall",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "earth elemental emergence",
+    "fact": "An Earth Elemental charged toward the party with hostile intent after a wall shifted and detached.",
+    "source_quote": "Part of the wall suddenly shifted and detached, revealing an Earth Elemental that charged toward the party with hostile intent",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Earth Elemental (first)",
+    "fact": "The first Earth Elemental emerged from a shifting wall, charged with hostile intent, was incapacitated by Daz's mesmerizing pattern, and was reduced to rubble by Grygum's divine light after being severely wounded by Zalthir.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Earth Elemental (first)",
+    "fact": "The first Earth Elemental emerged from the temple wall with hostile intent, was incapacitated by Daz's mesmerizing pattern, and was reduced to rubble after Zalthir's devastating blows and Grygum's divine light.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Earth Elemental (second)",
+    "fact": "The second Earth Elemental attacked with focus on Zalthir, was weakened by Grygum's radiant bolts and Daz's necrotic magic, and was destroyed when Grygum channeled divine energy through his crossbow to pierce its stony hide.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Earth Elemental (second)",
+    "fact": "The second Earth Elemental focused attacks on Zalthir, dealt significant damage, and was destroyed when Grygum channeled divine energy through his crossbow to pierce its stony hide, following coordinated efforts by the party.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Earth Elemental (third)",
+    "fact": "The third Earth Elemental emerged as the second fell, struck Thorin with crushing blows, was worn down by Daz's fiery rays and Grygum's support, and was shattered into fragments by Zalthir's enhanced strike.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Earth Elemental (third)",
+    "fact": "The third Earth Elemental materialized behind Grygum, was scorched by Daz's fire, and was ultimately shattered into fragments by Zalthir's enhanced strike after enduring sustained attacks from Thorin and Grygum.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Galeb Duhr",
+    "fact": "A third Galeb Duhr appeared as the second elemental crumbled, but so too did another Earth Elemental, startling Grygum as it materialized behind him.",
+    "source_quote": "A third Galeb Duhr appeared as the second elemental crumbled, but so too did another Earth Elemental, startling Grygum as it materialized behind him.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Galeb Duhr",
+    "fact": "As the dust settled, yet another Galeb Duhr materialized from the stone, suggesting that the party's work in cleansing the temple was far from complete.",
+    "source_quote": "As the dust settled, yet another Galeb Duhr materialized from the stone, suggesting that the party's work in cleansing the temple was far from complete.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Galeb Duhr",
+    "fact": "As the first elemental fell, a boulder-like creature with stumpy limbs materialized from the stone\u2014a Galeb Duhr, an ancient stone guardian.",
+    "source_quote": "As the first elemental fell, a boulder-like creature with stumpy limbs materialized from the stone\u2014a Galeb Duhr, an ancient stone guardian.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Galeb Duhr",
+    "fact": "The Galeb Duhr revealed that Ogr\u00e9moch had infected the temple and prevented these guardians from performing their sacred duty to protect it.",
+    "source_quote": "The Galeb Duhr revealed that Ogr\u00e9moch had infected the temple and prevented these guardians from performing their sacred duty to protect it.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "galeb duhr count",
+    "fact": "Three Galeb Duhr guardians appeared as the elementals fell.",
+    "source_quote": "a third Galeb Duhr appeared as the second elemental crumbled",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Galeb Duhr (first)",
+    "fact": "The first Galeb Duhr appeared after the first elemental fell, spoke in measured tones, explained it had been freed from Ogr\u00e9moch's control, and revealed that its brothers remained bound until all elementals were destroyed.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "galeb duhr revelation",
+    "fact": "The Galeb Duhr revealed that Ogr\u00e9moch had infected the temple and prevented these guardians from performing their sacred duty to protect it.",
+    "source_quote": "The Galeb Duhr revealed that Ogr\u00e9moch had infected the temple and prevented these guardians from performing their sacred duty to protect it",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Galeb Duhr (second)",
+    "fact": "The second Galeb Duhr appeared as the second elemental crumbled, spoke to the party, and confirmed the pattern: freedom comes only after each elemental is slain, and the temple's corruption persists until all guardians are liberated.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Galeb Duhr (third)",
+    "fact": "The third Galeb Duhr materialized after the third elemental was destroyed, indicating that the party's cleansing of the temple is incomplete and that more guardians remain bound beneath the stone.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Medusa",
+    "fact": "The Medusa was a serpentine horror whose petrifying gaze caused a harrowing battle; its still serpentine hair lay defeated after being reflected back upon itself by an ice mirror, and its remains were tasted by Glabbagool.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Medusa",
+    "fact": "The Medusa, with serpentine hair, used a deadly petrifying gaze and venomous taunts about Zalthir's draconic heritage, but was defeated when its gaze was reflected back at it by an ice mirror, and its life ended by Daz's magical missiles.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz cast magical missiles that ended the Medusa's life, used a mesmerizing pattern to incapacitate the first Earth Elemental, unleashed a massive fire explosion against the third elemental, and later shattered the spell's hold on the first elemental.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz cast magical missiles that ended the Medusa's life, used a mesmerizing pattern to incapacitate the first Earth Elemental, unleashed a massive fire explosion against the third elemental, and repeatedly struck the second and third elementals with necrotic and fiery magic.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz quickly cast a mesmerizing pattern of swirling colors that incapacitated the creature, freezing it in place.",
+    "source_quote": "Daz quickly cast a mesmerizing pattern of swirling colors that incapacitated the creature, freezing it in place.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz unleashed a massive explosion of fire that scorched the creature.",
+    "source_quote": "Daz unleashed a massive explosion of fire that scorched the creature.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz's magical missiles struck true and ended the creature's life.",
+    "source_quote": "The final blow came from Daz, whose magical missiles struck true and ended the creature's life.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Galeb Duhr",
+    "fact": "The Galeb Duhr could do nothing until all of its brothers were similarly freed.",
+    "source_quote": "However, it could do nothing until all of its brothers were similarly freed",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Galeb Duhr",
+    "fact": "The Galeb Duhr revealed that Ogr\u00e9moch had infected the temple and prevented these guardians from performing their sacred duty to protect it.",
+    "source_quote": "The Galeb Duhr revealed that Ogr\u00e9moch had infected the temple and prevented these guardians from performing their sacred duty to protect it",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Galeb Duhr (first)",
+    "fact": "The first Galeb Duhr spoke in measured tones, explaining that the party had freed it from Ogr\u00e9moch's control, revealed that Ogr\u00e9moch had infected the temple and prevented the guardians from protecting it, and stated it could do nothing until all its brothers were similarly freed.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Galeb Duhr (second)",
+    "fact": "The second Galeb Duhr appeared as the second elemental crumbled, and communicated with the party, reinforcing that Ogr\u00e9moch's influence still bound the temple's guardians and that their duty remained unfulfilled until all were freed.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Galeb Duhr (third)",
+    "fact": "The third Galeb Duhr materialized after the third elemental was destroyed, suggesting the party's work in cleansing the temple was far from complete and indicating the presence of additional bound guardians.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool expressed unusual delight at tasting the Medusa's remains, cheerfully noting that the party provided an excellent supply of dietary flavoring as he slowly cleaned up the aftermath of battle.",
+    "source_quote": "Glabbagool, the intelligent gelatinous cube who traveled with them, expressed unusual delight at tasting the Medusa's remains, cheerfully noting that the party provided an excellent supply of dietary flavoring as he slowly cleaned up the aftermath of battle.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool, the intelligent gelatinous cube, expressed unusual delight at tasting the Medusa's remains and cheerfully noted the party provided an excellent supply of dietary flavoring as he cleaned up the aftermath of battle.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum followed with a brilliant flash of divine light that struck the creature with tremendous force, reducing it to rubble.",
+    "source_quote": "Grygum followed with a brilliant flash of divine light that struck the creature with tremendous force, reducing it to rubble.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum unleashed a powerful spell with his crossbow, channeling divine energy through the weapon to pierce the elemental's stony hide and destroy it.",
+    "source_quote": "Grygum unleashed a powerful spell with his crossbow, channeling divine energy through the weapon to pierce the elemental's stony hide and destroy it.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum, as the party's cleric, volunteered to place the Ruby spell gem that Gerdig Katfinger had provided into the great menhir that stood in the temple's center.",
+    "source_quote": "Grygum, as the party's cleric, volunteered to place the Ruby spell gem that Gerdig Katfinger had provided into the great menhir that stood in the temple's center.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum, the party's cleric, volunteered to place the Ruby spell gem into the great menhir to hallow the temple, cast radiant bolts and divine crossbow spells that weakened and destroyed elementals, and provided ranged support during all three elemental battles.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum, the party's cleric, volunteered to place the Ruby spell gem into the great menhir to hallow the temple, unleashed a powerful divine spell through his crossbow to destroy the second Earth Elemental, and provided ranged support during the third battle.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin engaged elementals directly with his glowing sword Dawnbringer, intercepted attacks to protect Zalthir, delivered precise strikes against the third elemental, and stood firm under crushing blows while channeling his strength to break the creature's defenses.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin engaged it directly with his glowing sword Dawnbringer.",
+    "source_quote": "Thorin engaged it directly with his glowing sword Dawnbringer.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin engaged the second and third Earth Elementals directly with his glowing sword Dawnbringer, intercepted a critical attack on Zalthir, struck the third elemental with devastating precision, and stood firm against crushing blows while the party coordinated their final assault.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin positioned himself to intercept the elemental's charge, striking it twice with devastating precision as it rushed toward him.",
+    "source_quote": "Thorin positioned himself to intercept the elemental's charge, striking it twice with devastating precision as it rushed toward him.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir demonstrated remarkable composure during the battle with the Medusa, repeatedly deflecting its petrifying gaze by shoving an ice mirror in her face, and later delivered a devastating series of blows that left the first Earth Elemental severely wounded.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir demonstrated remarkable composure, repeatedly deflecting the Medusa's deadly petrifying gaze by shoving an ice mirror in her face.",
+    "source_quote": "Throughout the fight, Zalthir had demonstrated remarkable composure, repeatedly deflecting the creature's deadly petrifying gaze by shoving an ice mirror in her face.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir maintained the restraint expected of his order despite the Medusa's venomous taunts about his draconic heritage and the circumstances of his birth.",
+    "source_quote": "Despite her venomous taunts about his draconic heritage and the circumstances of his birth, the monk maintained the restraint expected of his order",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir rushed forward and delivered a devastating series of blows that left the elemental severely wounded.",
+    "source_quote": "When Daz's magical missiles shattered the spell's hold, Zalthir rushed forward and delivered a devastating series of blows that left the elemental severely wounded.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir stepped forward and delivered an enhanced strike that shattered the creature into fragments.",
+    "source_quote": "Finally, Zalthir stepped forward and delivered an enhanced strike that shattered the creature into fragments.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is Thorin's glowing magical sword, used to engage Earth Elementals directly, intercept attacks, and deliver precise, devastating strikes that cut deep into their rocky forms.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "object",
+    "subject": "daz's mesmerizing pattern",
+    "fact": "Daz cast a mesmerizing pattern of swirling colors that incapacitated the Earth Elemental, freezing it in place.",
+    "source_quote": "Daz quickly cast a mesmerizing pattern of swirling colors that incapacitated the creature, freezing it in place",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "drow dresses value",
+    "fact": "Five exquisite dresses made of spider silk and shaped by drow magic are worth a considerable fortune in the markets of the Underdark.",
+    "source_quote": "five exquisite dresses made of spider silk and shaped by drow magic, worth a considerable fortune in the markets of the Underdark",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Five exquisite dresses",
+    "fact": "Five exquisite dresses made of spider silk and shaped by drow magic were discovered in the Medusa's lair, worth a considerable fortune in the markets of the Underdark.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "five exquisite dresses made of spider silk and shaped by drow magic",
+    "fact": "Five exquisite dresses made of spider silk and shaped by drow magic, worth a considerable fortune in the markets of the Underdark.",
+    "source_quote": "the adventurers discovered five exquisite dresses made of spider silk and shaped by drow magic, worth a considerable fortune in the markets of the Underdark.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Five exquisite dresses made of spider silk and shaped by drow magic",
+    "fact": "These dresses, discovered in the Medusa's lair, are worth a considerable fortune in the markets of the Underdark and were crafted using drow magic, hinting at deeper ties to the subterranean civilizations.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "healing potion",
+    "fact": "Zalthir, wounded from the previous fight, took a moment to drink a healing potion from the party's supplies before preparing to rejoin the fray.",
+    "source_quote": "Zalthir, wounded from the previous fight, took a moment to drink a healing potion from the party's supplies before preparing to rejoin the fray.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Ruby spell gem",
+    "fact": "The Ruby spell gem, provided by Gerdig Katfinger, was placed by Grygum into the great menhir in the temple's center to hallow the sacred site and initiate its cleansing from Ogr\u00e9moch's Bane.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Ruby spell gem",
+    "fact": "The Ruby spell gem, provided by Gerdig Katfinger, was placed into the great menhir by Grygum to hallow the temple and cleanse it of Ogr\u00e9moch's Bane.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "ruby spell gem source",
+    "fact": "The Ruby spell gem was provided by Gerdig Katfinger.",
+    "source_quote": "the Ruby spell gem that Gerdig Katfinger had provided",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Cleansing the temple",
+    "fact": "The party's work in cleansing the temple of Ogr\u00e9moch's Bane is far from complete, as multiple Galeb Duhr guardians remain bound, and new Earth Elementals continue to emerge, indicating the extent of the corruption.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Drow magic dresses",
+    "fact": "The origin and purpose of the five dresses made of spider silk and shaped by drow magic remain unexplained, and their presence in the Medusa's lair suggests deeper ties to Underdark factions or rituals.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Freed Galeb Duhr",
+    "fact": "Each freed Galeb Duhr confirms that more brothers remain bound; the party's work is incomplete, and the temple's true cleansing requires the destruction of all Earth Elementals and the liberation of every guardian.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Glabbagool's delight",
+    "fact": "Glabbagool, the intelligent gelatinous cube, expressed unusual delight at tasting the Medusa's remains and noted the party provided excellent dietary flavoring; its motives and long-term relationship with the party remain ambiguous.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Ogr\u00e9moch's Bane",
+    "fact": "Ogr\u00e9moch's Bane is an evil force from the elemental plane of earth that has infected the temple, preventing Galeb Duhr guardians from performing their sacred duty; its full nature and origin remain unknown, and its defeat requires freeing all guardians.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The temple's cleansing",
+    "fact": "The party's work in cleansing the temple was far from complete, as another Galeb Duhr materialized after the third elemental fell.",
+    "source_quote": "as the dust settled, yet another Galeb Duhr materialized from the stone, suggesting that the party's work in cleansing the temple was far from complete",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  }
+]

@@ -1,0 +1,57 @@
+consistency_check:
+  timestamp: "2026-07-12T19:44:00Z"
+  campaign: "out-of-the-abyss"
+  documents_checked:
+    - summaries/20260622/scene_extractions_new/01_reunion_and_debriefing.md
+    - summaries/20260622/scene_extractions_new/02_the_methodology_of_murder.md
+    - summaries/20260622/scene_extractions_new/03_splitting_the_leads.md
+    - summaries/20260622/scene_extractions_new/04_investigations_in_janussi_s_chambers.md
+    - summaries/20260622/scene_extractions_new/05_interview_with_sylvira.md
+    - summaries/20260622/scene_extractions_new/06_the_reassembled_evidence.md
+    - summaries/20260622/scene_extractions_new/07_the_interrogation_of_alkrist.md
+    - summaries/20260622/scene_extractions_new/08_concluding_the_investigation.md
+  reports:
+    - summaries/20260622/scene_extractions_new/01_reunion_and_debriefing_consistency_report.md
+    - summaries/20260622/scene_extractions_new/02_the_methodology_of_murder_consistency_report.md
+    - summaries/20260622/scene_extractions_new/03_splitting_the_leads_consistency_report.md
+    - summaries/20260622/scene_extractions_new/04_investigations_in_janussi_s_chambers_consistency_report.md
+    - summaries/20260622/scene_extractions_new/05_interview_with_sylvira_consistency_report.md
+    - summaries/20260622/scene_extractions_new/06_the_reassembled_evidence_consistency_report.md
+    - summaries/20260622/scene_extractions_new/07_the_interrogation_of_alkrist_consistency_report.md
+    - summaries/20260622/scene_extractions_new/08_concluding_the_investigation_consistency_report.md
+  config: config/config.yaml
+  model: claude-sonnet-4-6
+  session_prep_used: true
+  entity_registry_used: true
+  sources:
+    auto_loaded:
+      - { label: campaign_state, path: docs/campaign_state.md }
+      - { label: world_state,    path: docs/world_state.md }
+    context:
+      - { path: docs/party.md,             role: "PCs (campaign-standard)" }
+      - { path: docs/entity_registry.yaml, role: "canonical entity registry + aliases (campaign-standard)" }
+      - { path: "notes/sessions/handouts/threefold_proof.md", role: "in-world handout delivered on-screen in Scene 2 (Elian's memorandum)" }
+      - { path: "notes/threads/candlekeep_false_confidence_bookwyrm_lever.md", role: "the exact GM trap this session sets up (confession ≠ proof)" }
+      - { path: "notes/sessions/Kalan to Janussi - Second Petition.md", role: "explains the blocked-proposal note Grygum finds in Scene 4" }
+      - { path: "notes/sessions/handouts/player_npc_tracker_candlekeep.md", role: "NPC/witness tracker (Hollypocket testimony etc.)" }
+      - { path: docs/npcs/bookwyrm_first_reader.new_notes.057.md, role: "Ch.57-specific NPC dossier update" }
+      - { path: docs/npcs/kalan_strongbranch.new_notes.057.md,    role: "Ch.57-specific NPC dossier update" }
+      - { path: docs/npcs/khell_vire.new_notes.057.md,            role: "Ch.57-specific NPC dossier update" }
+      - { path: docs/npcs/sister_yvenne.new_notes.057.md,         role: "Ch.57-specific NPC dossier update" }
+      - { path: docs/npcs/zalthir.new_notes.057.md,               role: "Ch.57-specific NPC dossier update" }
+      - { path: docs/npcs/glabbagool.new_notes.057.md,            role: "Ch.57-specific NPC dossier update" }
+      - { path: docs/npcs/dawnbringer.new_notes.057.md,           role: "Ch.57-specific NPC dossier update" }
+      - { path: docs/npcs/vareth.new_notes.057.md,                role: "Ch.57-specific NPC dossier update" }
+  notes: |
+    Ran against the RAW scene_extractions_new files (per-scene GM-assist verbatim
+    extractions), not the distilled session-summary.md or narration output. These
+    8 scenes are sequential within the same session (Ch.57): scenes 1-6 chronologically
+    precede the Alkrist confession (scene 7). The checker repeatedly flagged scenes
+    1, 2, 3, and 4 as "contradicting completed canon" (campaign_state.md/world_state.md)
+    because those grounding docs encode the session's FINAL post-confession outcome.
+    This is a structural false-positive class, not a real defect: describing the
+    Sylvira interview / Alkrist interrogation / Janussi's-chambers note as "upcoming"
+    is correct for a scene's position earlier in the same session's scene sequence.
+    Excluded notes/session_prep/20260615_block2_grygumite_disputation.md from context
+    after discovering it explicitly states "Ben (Grygum) absent this session" — that
+    doc is prep for an earlier session, not this one.

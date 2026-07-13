@@ -1,0 +1,44 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is despondent after failing to explain the riddle, then becomes energized upon noticing a hidden passageway.",
+    "source_quote": "He sits down, despondent, and declares, 'I was just trying to distract you guys.' And then his eyes perk up, and he points to a place that we didn't notice before, a passageway that leads into more caves.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar has discovered a hidden network of tunnels that the party intends to enter.",
+    "source_quote": "Instead we will go into the tunnels that Jimjar has somehow found for us.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "hidden passageway",
+    "fact": "A hidden passageway leads into more caves, unnoticed until Zalthir pointed it out.",
+    "source_quote": "a passageway that leads into more caves.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "tunnels",
+    "fact": "The tunnels are an unknown network discovered by Jimjar, now the party's intended route.",
+    "source_quote": "the tunnels that Jimjar has somehow found for us.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "mold earth spell",
+    "fact": "The party regrets not knowing the mold earth spell, which could have excavated a path through the tunnel.",
+    "source_quote": "I wish I had learned mold earth, because I could have excavated a path out of this tunnel, but so be it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "declaration to enter tunnels",
+    "fact": "Zalthir declares that the party should enter the hidden passageway.",
+    "source_quote": "We should go in there!\" he declares.",
+    "quote_verified": false
+  }
+]

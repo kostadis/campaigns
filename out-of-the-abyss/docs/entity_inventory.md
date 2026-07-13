@@ -18,6 +18,9 @@
 - **Avernus**
 - **The Great Wheel**
 - **Far Realm**
+- **the Grygumite triangle** — Brother Vareth's academic framework/theory (now expanded to 'a quadrangle'); appears to be the same named-positions framework referenced in the Bahamutians note re: Grygum's answer to the Question of the Age ('the triangle, three options,' later a fourth by Fembris)
+- **the Ordning** — Restored giant social hierarchy after the War of the Giants: Storm Giants at top, through Cloud/Stone/Fire/Frost, down to Hill Giants
+- **Lothheism** — Asha Vandree's term for Daz's presumed conversion to Lolth-worship; distinct from the already-registered Church of Lolth and The Way of Lolth
 
 ## Deities
 
@@ -46,6 +49,10 @@
 - **Oghma**
 - **Deneir**
 - **Milil**
+- **Bahamut** / **Buhammad**
+- **Tempus** — God of war
+- **Tiamat** — Dragon queen deity, Bahamut's counterpart; referenced re: Whistler stealing only what was needed from her horde
+- **Kelemvor** — God of Death; followers cited re: undead-vs-dead possession rules for the summoning-spell theft mechanism
 
 ## Events
 
@@ -225,8 +232,8 @@
 - **The Harpers** — clandestine network of spellcasters and spies, faction represented by Zelraun
 - **thuldar** — caste of duergar priests who officiate rituals and record lore
 - **Xarrorn** — duergar specialists wielding flame lances, mostly from Clan Xardelvar
-- **Zhentarim** / **Black Network** — shadowy mercenary network, faction represented by Davra Jassur
-- **The Avowed**
+- **Zhentarim** / **Black Network** / **Zentarim** — shadowy mercenary network, faction represented by Davra Jassur
+- **The Avowed** / **Avowed**
 - **The Watchers**
 - **Great Readers**
 - **Keepers of Secrets**
@@ -238,6 +245,19 @@
 - **Order of the Immortal Lotus**
 - **The Zhentarim**
 - **House of Binder** — a reward perk)
+- **House T'sarran** / **T'sarran** — Antagonist drow house hunting Daz as bait for his unknown Menzoberranzan patron; matron mother rules 200 years; one surface spy captured (miniaturized in the party's bag of holding)
+- **Stroudites** / **Stroudite** / **Stroud School** / **Stroudian** — Philosophical/religious movement preaching 'mortal agency' (Grygum's 'Stroud's Gambit'), opposed to Bahamutian orthodoxy; recurring across the Sword Coast arc and current Candlekeep play
+- **the Ember Vanguard** / **Ember Vanguard** — The party's own public reputation/nickname, earned after the Grey Ghosts alley ambush; feared in Gracklstugh
+- **Uthgardt** — Barbarian raiding culture; post-giant-war Uthgardt hordes raided Mirabar and the region, Daggerford spared by distance
+- **Bahamutians** / **Bahamutian** — One of the named positions in the 'Question of the Age' / Great Question philosophical debate (dragons/gods rule fate), opposed to the Stroudites' mortal-agency position; a Daggerford priest declared himself 'a pure Bahamutian.' Grygum's own answer to the Question of the Age was 'the triangle, three options,' later expanded to a fourth by Fembris — the full framework of named positions may be worth its own note.
+- **Netherese** / **Netherrese** — Ancient magical civilization/empire; Dawnbringer sun-sword identified as late Netherese-era recovery, ~3000-4000 years old
+- **the Whistlerites** — Fan faction devoted to Whistler, per GM: there's the Whistlerites and the Miloites (fanboyism factionalism at Rishaal's Pageturners)
+- **House Turan** — Drow house; matron mother has ruled 200 years; sent the spy tailing Daz
+- **Bookwyrm's Brownnosers** — Party's own nickname at Candlekeep, per Daral Yashenti - distinct from the Ember Vanguard reputation earned in Gracklstugh
+- **the Miloites** — Milo Goodbarrel fan faction (companion to the Whistlerites)
+- **Protanthians** / **Protantherians** — Followers of the already-registered NPC Protanther; third named position in the Question of the Age debate alongside Bahamutians/Stroudites. Verbatim quote spells Protanthians; the scaffold pass drifted to Protantherians.
+- **the Dragonstelle** — Cult that recruited in Daggerford; broken by the paladin Travis Houlin three years prior, per the memorial inscription
+- **the Ember Grapple** / **Endergrapple** — Party nickname, per the GM: 'You are the Ember... what is it? The Ember Grapple' during the bird-call signal scene in the woods; Daz's transcript line renders it as 'The Endergrapple' (VTT drift). Relationship to the separately-registered 'the Ember Vanguard' (earned after the Grey Ghosts alley ambush) is unconfirmed - may be the same reputation restated, or a distinct nickname.
 
 ## Items
 
@@ -383,6 +403,13 @@
 - **Pilar's instant summons**
 - **Drawmij's instant summons**
 - **Mordenkainen's Magnificent Mansion**
+- **Mending**
+- **Janussi's locket** — One of two High Tower Library keys, torn from Janussi's neck the night of his murder; still untraced
+- **Lesser Restoration** / **Restoration** / **restoration** — Spell; Grygum and Dawnbringer can both cast it; owed to Daral, withheld pending his cooperation
+- **Account of the War of the Dragons** — Milo Goodbarrel's multi-volume book (Volumes 1-3), sold at Rishaal's Pageturners; features Stroud, Milo, Malfire, and Whistler
+- **1001 Tashalian Nights** / **Tashalan** — Book found in Alkrist's chambers, bookmarked to the Midnight Tears poison passage - the murder weapon's method. Verbatim quote spells it Tashalian; a scaffold/summary pass drifted to Tashalan (documented in 07_the_interrogation_of_alkrist_consistency_report.md); verbatim wins per trust hierarchy.
+- **Dust of Suleiman** — Grygum's AoE damage effect/spell - 120ft range, 20ft sphere, 20 damage/turn
+- **the Zagotami Marginalia** / **Zugatami Marginalia** — Annotations in Ilvara's/Elvara's prayer book, considered useful for questions about Jimjar; possible connection to 'Asha Vandri's Loth Zagotomy Theological Argument' unconfirmed
 
 ## Locations
 
@@ -543,7 +570,7 @@
 - **Illusk**
 - **Luskan**
 - **Mirabar**
-- **Mithral Hall**
+- **Mithral Hall** / **Mithril**
 - **Nelrindenvane**
 - **Nesme**
 - **Silver Marches**
@@ -570,7 +597,7 @@
 - **Philosopher's Court**
 - **The Grove**
 - **Exaltation**
-- **The High Tower**
+- **The High Tower** / **Hightower**
 - **The High Tower Library**
 - **The Keeper's Tower**
 - **The Readers' Tower / Reader's Tower**
@@ -578,7 +605,7 @@
 - **The Ceremonial Hall**
 - **The Chapter House**
 - **The Oratory**
-- **The Refectory**
+- **The Refectory** / **Refectory**
 - **The Southern Dining Hall**
 - **The Reading Salon** / **Readers' Salon**
 - **The Southern Gallery**
@@ -592,7 +619,7 @@
 - **The Jewel of the Styx**
 - **The Old Keep**
 - **House of Mechanus**
-- **The Oak Tree Apothecary**
+- **The Oak Tree Apothecary** / **Apothecary**
 - **The Cursed Tower**
 - **The House of Alaundo**
 - **The House of Records**
@@ -608,7 +635,7 @@
 - **The Tower of Tall Tales**
 - **The Hall of Momentous Deeds** — contains **The Whispering Dome** (Words of Inspiration table)
 - **The Melodrome** — contains **Jook's Box**
-- **The Astronomicon** — contains **The Orrery** and **Stargazer**
+- **The Astronomicon** / **Astronomicon** — contains **The Orrery** and **Stargazer**
 - **The Oval Theatre**
 - **The Rotunda**
 - **The Emerald Door**
@@ -628,6 +655,17 @@
 - **The Vault**
 - **Side Vault** — Book of Vile Darkness)
 - **The Attic** — rocket alternative)
+- **The Whispering Dome**
+- **Candlekeep**
+- **Daggerford**
+- **Triboar**
+- **Rishaal's Pageturners** / **Pageturners** — Bookshop in Waterdeep run by Rishaal; displays Milo Goodbarrel's painting of Stroud, Milo, Malfire, and Whistler
+- **Sundabar** — Sword Coast city; Eldred ran courier between Triboar and Sundabar during the war
+- **Beregost** — Sword Coast town, last waystop before Candlekeep; site of the Burning Wizard Inn
+- **the Overbright** — Name for the surface world as opposed to the Underdark (whatever was going on in the Underdark seems to be bleeding through into the Overbright)
+- **the Flora Theca** — Herbarium/archive room where the party researched the poison used on Janussi
+- **Whirlstone Caverns** — Source of several unique books including Plinky's Journal
+- **Tednimar** — Wing of the Drakonoikos (built from ancient dragon scales/bones) devoted to fire and lightning, breathing lizards
 
 ## NPCs
 
@@ -648,7 +686,7 @@
 - **Guldor** — rank-and-file drow warrior of the Velkynvelve garrison
 - **Hanne Hallen** / **Hanne** — young drow mage-in-training allied with House Mizzrym, separated from her mother's egg-run
 - **Honemmeth** — rank-and-file drow warrior of the Velkynvelve garrison
-- **Ilvara Mizzrym** / **Ilvara** / **Mistress Ilvara** — senior drow priestess of Lolth, commander of Velkynvelve, House Mizzrym
+- **Ilvara Mizzrym** / **Ilvara** / **Mistress Ilvara** / **Elvara** — senior drow priestess of Lolth, commander of Velkynvelve, House Mizzrym
 - **Imbros** — rank-and-file drow warrior of the Velkynvelve garrison
 - **Jaezred** — rank-and-file drow warrior of the Velkynvelve garrison
 - **Jalynfein Oblodra** — blind young drow echo cast out of Menzoberranzan
@@ -775,7 +813,7 @@
 - **Skriss** — troglodyte member of the Society of Brilliance
 - **Cyrog** — ancient elder brain commanding a distant mind flayer settlement
 - **Dame Spiderwort** — green hag sister of Nanny Plunk
-- **Glabbagool** / **Glabagool** — sentient ooze companion who prefers to remain in the Underdark
+- **Glabbagool** / **Glabagool** / **Globagool** / **Globul** — sentient ooze companion who prefers to remain in the Underdark
 - **Grazilaxx** — mind flayer member of the Society of Brilliance who prefers telepathy
 - **Grula-Munga** — female ettin bodyguard of Narrak
 - **Hourm** — friendly galeb duhr greeter inside Gravenhollow
@@ -784,7 +822,7 @@
 - **Maven Delve** — green hag sister of Nanny Plunk
 - **Nanny Plunk** — green hag who taunts and misleads travelers on the Darklake
 - **Prince Livid** — psychic gray ooze, the Pudding King's 'child'
-- **Princess Ebonmire** / **Ebonmire Princess Ebonmire** / **Ebonmire** / **Princess Ebonheir** / **Ebonheir** — intelligent black pudding, the Pudding King's 'child'
+- **Princess Ebonmire** / **Ebonmire Princess Ebonmire** / **Ebonmire** / **Princess Ebonheir** / **Ebonheir** / **Ebonir** — intelligent black pudding, the Pudding King's 'child'
 - **Spider King** — two-headed giant spider warped into humanoid shape
 - **Stronk** — brutish fomorian caretaker of the purple worm eggs
 - **Szashune** — four-armed obsidian drow warrior statue guarding Gromph's outer sanctum
@@ -857,21 +895,21 @@
 - **Janussi** — Keeper of Tomes (victim)
 - **Bookwyrm** / **Skoda Vanaster** — First Reader (real name; green dragonborn master sage)
 - **Alkrist** — Great Reader; bronze dragonborn; Bookwyrm's nephew; the actual poisoner
-- **A'lai Aivenmore** — Great Reader; main antagonist; Manshoon's inside man
-- **Sylvira Savikas** — Great Reader; curator, Infernal Fortress
-- **Daral Yashenti** — Great Reader; alcoholic
-- **Fheminor Scrivenbark** — Great Reader; halfling; Janussi's intended successor
-- **Teles Ahvoste** — Great Reader; archmage
-- **Kazryn Nyantani** — Great Reader; A'lai's lover
-- **Kalan Strongbranch** — Gatewarden; archmage
-- **Kei Tigersteel** — Lorekeeper
+- **A'lai Aivenmore** / **Aivenmore** — Great Reader; main antagonist; Manshoon's inside man
+- **Sylvira Savikas** / **Savikas** — Great Reader; curator, Infernal Fortress
+- **Daral Yashenti** / **Yashenti** — Great Reader; alcoholic
+- **Fheminor Scrivenbark** / **Scrivenbark** — Great Reader; halfling; Janussi's intended successor
+- **Teles Ahvoste** / **Ahvoste** — Great Reader; archmage
+- **Kazryn Nyantani** / **Nyantani** / **Ntantani** — Great Reader; A'lai's lover
+- **Kalan Strongbranch** / **Strongbranch** / **Callan** / **Strongbench** — Gatewarden; archmage
+- **Kei Tigersteel** / **Tigersteel** — Lorekeeper
 - **V'ziir-Ag** — 8th Great Reader, gith master sage, off-screen (away on a Far Realm research trip; explicit "ambitious DMs use him as the big bad in lieu of Manshoon" note)
-- **Fembris Lancer** — acolyte adjutant
+- **Fembris Lancer** / **Lancer** — acolyte adjutant
 - **Tadric** — Watcher (Kalan's lieutenant; "Tadric the Watcher")
 - **Irony** — 18yo tiefling acolyte
 - **Sprig Summerfoot** — acolyte; Deadwinter Supper waiter
 - **Orrin Glass** — cartographer acolyte; Deadwinter Supper waiter
-- **Miss Hollypocket** — Janussi's elderly gnome servant
+- **Miss Hollypocket** / **Hollypocket** — Janussi's elderly gnome servant
 - **Queenie** — Janussi's grey cat (with yellow eyes)
 - **Nibbles** — Leuwin's pet squirrel
 - **Leuwin** — satyr druid; Oak Tree Apothecary
@@ -912,7 +950,7 @@
 - **Fargas Rumblefoot** / **Fargus Rumblefoot**
 - **Naomi Pathshutter** / **Nomi Pathshutter** — earth elemental wrangler, Yantha's apprentice
 - **Jadgar** / **Uth Jadgar** / **Burrow Warden Jadger** / **Jadger** — ghost veteran leading the new burrow wardens
-- **Kaelira Duskryn** / **Kaelira**
+- **Kaelira Duskryn** / **Kaelira** / **Kaelen**
 - **Nym Duskryn** / **Nym** — rank-and-file drow warrior of the Velkynvelve garrison
 - **Yuk Yuk**
 - **Hepbobe** / **Hepbobe Also Referred To As Hepbode** / **Hepbode**
@@ -941,19 +979,19 @@
 - **Gru Manga**
 - **Grygum**
 - **Khaem**
-- **Khell-Vire**
+- **Khell-Vire** / **Khell** / **Kelvir**
 - **King Hekaton**
 - **Korrh Erann**
 - **Lingrick Xardelvar**
-- **Milo Goodbarrel**
+- **Milo Goodbarrel** / **Goodbarrel**
 - **Ogremoch**
 - **Philemon (Master Archivist)**
-- **Protanther**
+- **Protanther** / **Protenthor**
 - **Rihaud**
 - **Runc**
 - **Rusharoo**
 - **Rust**
-- **Sister Yvenne**
+- **Sister Yvenne** / **Yvenne** / **Yvonne**
 - **Skiit**
 - **Spiderbait**
 - **Starlace**
@@ -970,7 +1008,19 @@
 - **Ulnara**
 - **Valen**
 - **Valimor Brightgem**
-- **Vareth**
+- **Vareth** / **Varith**
 - **Welnaste Mizzrym**
 - **Whisperwind**
 - **Zalthir**
+- **Whistler** / **Ardragon** — Kenku, legendary/mythologized figure connected to a party member per in-world telling; depicted in Milo Goodbarrel's published books alongside Stroud and Malfire; memorial sign at Rishaal's Pageturners claims he 'fell at Glaziel's lair'; as 'the Ardragon,' a masked ex-Zhentarim route-flyer turned unpaid vigilante on the caravan trails north of Yartar
+- **Rishaal** — Owner of Rishaal's Pageturners, a bookshop in Waterdeep
+- **Travis Houlin** / **Travis** — Deceased paladin of Bahamut memorialized in Daggerford, died fighting the Cult of the Dragon there
+- **Malfire** / **Melfire** — Figure depicted alongside Stroud, Milo, and Whistler in Milo Goodbarrel's painting at Rishaal's Pageturners (Waterdeep); fan debate attributes him an 'operational expenses, cost of living' philosophy
+- **Eldred** / **Elred** — One of several people driven mad by the false-syncopation chant error, linked to the Endless Chant/Deadwinter Prophecy thread and Daz's headaches
+- **Ellen** / **Elin** — Silent child of Meredith of the Ford, near Daggerford; afflicted by the surface-bleeding Underdark/chant madness, tenuously linked to Daz's headaches. NOTE: docs/campaign_state.md spells this 'Elin' — transcript spelling wins per trust hierarchy, flag for correction on next grounding-doc regen.
+- **Meredith of the Ford** — Weaver at the River Shining Tavern near Daggerford; Ellen's mother
+- **Kestler** / **Kessler** — Half-orc at the Mountain's Mouth inn (Triboar area) who keeps a small Bahamut shrine; asked the party to carry a note to his brother at a temple that stopped writing 5 years ago
+- **Glaziel** — Referenced only as Glaziel's lair on Whistler's memorial sign at Rishaal's Pageturners - where Whistler is said to have fallen
+- **Vooshadi Moonriver** — Candlekeep attendant assigned by Bookwyrm to guard the Sanctum door
+- **Plinky** — Author of Plinky's Journal, a demonological text from the Whirlstone Caverns
+- **Daz'issin** — Drow name/epithet meaning 'small shadow' - identity unclear (Daz's own? an NPC's?); a softening name mothers used for boys they wanted to live. Found in a footnote in Daz's heraldry book with the appendix razored out.

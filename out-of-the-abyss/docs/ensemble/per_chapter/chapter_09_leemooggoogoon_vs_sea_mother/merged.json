@@ -1,0 +1,1633 @@
+[
+  {
+    "type": "date",
+    "subject": "A few weeks ago",
+    "fact": "Approximately a few weeks ago, Bloppblippodd experienced her vision of Leemooggoogoon the Deep Father, marking the beginning of the schism and the rise of the new cult.",
+    "source_quote": "A few weeks ago, Bloppblippodd, Ploopploopeen\u2019s daughter, experienced a powerful vision of 'Leemooggoogoon the Deep Father,' proclaiming him the new god of her people.",
+    "quote_verified": false,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "date",
+    "subject": "An hour from Sloobludop",
+    "fact": "An hour after the previous encounter, another Kuo-toan party appears \u2014 signaling the escalating presence and organization of both factions in the region.",
+    "source_quote": "An hour from Sloobludop, another kuo-toan party appears.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "an hour or so later",
+    "fact": "An hour or so after the initial encounter at Sloobludop, the adventurers were ambushed by the Kuo-toans, triggering the chain of events leading to their meeting with Ploopploopeen.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "An hour or so later, the group is ambushed by eight kuo-toans\u2014four creatures attack from the front and four from the rear.",
+    "source_quote": "An hour or so later, the group is ambushed by eight kuo-toans\u2014four creatures attack from the front and four from the rear.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Adventurers' internal huddle",
+    "fact": "The adventurers debated whether to kill Ploopploopeen or accept her mission. Shuushar advocated for dialogue with Bloppblippodd, while Daz wanted to eliminate the archpriest. The group ultimately agreed to accept the mission after negotiating rewards.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "altar offerings",
+    "fact": "The followers of the Deep Father have been making an increasing number of offerings on his altar \u2014 killing blood sacrifices then casting bloody chum into the waters of the Darklake, where it is consumed by \u2026 something.",
+    "source_quote": "The followers of the Deep Father have been making an increasing number of offerings on his altar \u2014 killing blood sacrifices then casting bloody chum into the waters of the Darklake, where it is consumed by \u2026 something.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "bait proposal",
+    "fact": "I wish to use you as bait.",
+    "source_quote": "I wish to use you as bait.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Bloppblippodd",
+    "fact": "Bloppblippodd experienced a powerful vision of 'Leemooggoogoon the Deep Father,' proclaiming him the new god of her people.",
+    "source_quote": "A few weeks ago, Bloppblippodd, Ploopploopeen\u2019s daughter, experienced a powerful vision of 'Leemooggoogoon the Deep Father,' proclaiming him the new god of her people.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "crossbow effectiveness",
+    "fact": "A collection of hand-held crossbows, combined with a united team, can create a powerful enough force to take down even a formidable group of enemies.",
+    "source_quote": "a collection of hand-held crossbows, combined with a united team, can create a powerful enough force to take down even a formidable group of enemies",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "daughter consultation",
+    "fact": "Perhaps we should talk to his daughter before we take action? I have learned that one must open themselves to all points of view and then only then make decisions and judgments.",
+    "source_quote": "Perhaps we should talk to his daughter before we take action? I have learned that one must open themselves to all points of view and then only then make decisions and judgments.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz asks, 'How many members does the other faction have?'",
+    "source_quote": "Daz asks, 'How many members does the other faction have?'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz interrupts the archpriest, 'We need to have a quick chat amongst ourselves.'",
+    "source_quote": "Daz interrupts the archpriest, 'We need to have a quick chat amongst ourselves.'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz is unmoved, 'I don\u2019t want to listen to this drivel all the time.'",
+    "source_quote": "Daz is unmoved, 'I don\u2019t want to listen to this drivel all the time.'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz mutters, 'If Ploopploo-whatever is going to keep talking endlessly like that, maybe we should kill them?'",
+    "source_quote": "Daz mutters, 'If Ploopploo-whatever is going to keep talking endlessly like that, maybe we should kill them?'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "factional split",
+    "fact": "We are split in two, fighting among ourselves.",
+    "source_quote": "We are split in two, fighting among ourselves.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "faction size avoidance",
+    "fact": "Do not worry yourself about that. All you have to do is distract Bloppblippodd enough. I will take care of her, and my followers will take care of the followers of this false god.",
+    "source_quote": "Do not worry yourself about that. All you have to do is distract Bloppblippodd enough. I will take care of her, and my followers will take care of the followers of this false god.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "fish-like movement",
+    "fact": "The other Kuo-toans will go in front of her, around her, and stay in the back\u2014and it all seems very well choreographed.",
+    "source_quote": "the other Kuo-toans will go in front of her, around her, and stay in the back. And yet, it all seems very well choreographed.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum adds, 'I am all about the spiritual stuff, but the temporal have needs too.'",
+    "source_quote": "Grygum adds, 'I am all about the spiritual stuff, but the temporal have needs too.'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum finds the name very funny and tries not to laugh out loud.",
+    "source_quote": "Grygum finds the name very funny and tries not to laugh out loud.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum mutters, 'Oh great, pit one weird religion against another!'",
+    "source_quote": "Grygum mutters, 'Oh great, pit one weird religion against another!'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "infiltration plan",
+    "fact": "Ploopploopeen wants them to disrupt the upstart faction\u2019s rituals, allowing his true believers of the Sea Mother to cut off the head of the cult.",
+    "source_quote": "Ploopploopeen wants them to disrupt the upstart faction\u2019s rituals, allowing his true believers of the Sea Mother to cut off the head of the cult.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Kuo-toan ambush at Sloobludop",
+    "fact": "A group of adventurers was ambushed by eight Kuo-toans\u2014four attacking from the front and four from the rear. The Kuo-toans released a sticky liquid that glued melee weapons to their bodies, and the monitor fled into the Underdark with three others.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Kuo-toan Schism",
+    "fact": "A violent schism has erupted among the Kuo-toans between the traditional Sea Mother faith and the new Deep Father cult, leading to internal warfare, sacrificial rituals, and the recruitment of outsiders as pawns.",
+    "source_quote": "Ploopploopeen explains, 'We are split in two, fighting among ourselves.'",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "language clarity",
+    "fact": "Not only is their language clear, but also the nuances of their communication and body language.",
+    "source_quote": "not only is their language clear, but also the nuances of their communication and body language",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "language spell cast",
+    "fact": "Ploopploopeen\u2019s interlocutor casts a spell that makes the Kuo-toan language and communication nuances clear to the party.",
+    "source_quote": "Just then, his interlocutor casts a spell, and suddenly, not only is their language clear, but also the nuances of their communication and body language.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "liquid release",
+    "fact": "The body of the Kuo-toans releases a particular liquid that causes any melee weapon to stick to their bodies.",
+    "source_quote": "the body of the Kuo-toans releases a particular liquid that causes any melee weapon to stick to their bodies",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Meeting with Ploopploopeen",
+    "fact": "After the ambush, the adventurers encountered Ploopploopeen and her followers, who communicated clearly and moved in coordinated, fish-like patterns. She revealed the schism within the Kuo-toans and proposed a mission to infiltrate the Deep Father cult.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Negotiation of rewards",
+    "fact": "Ploopploopeen initially offered 500 gold and two potions of healing. After seeing the adventurers' lack of enthusiasm, she upgraded the reward to two boats and guides to navigate the Darklake, which the party accepted.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "party huddles",
+    "fact": "The escapees huddle in a group to discuss whether to kill Ploopploopeen.",
+    "source_quote": "The escapees huddle in a group.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Ploopploopeen",
+    "fact": "Ploopploopeen casts a walleyed glance at Shuushar.",
+    "source_quote": "at this, he might cast a walleyed glance at Shuushar",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Ploopploopeen",
+    "fact": "Ploopploopeen is offended. 'The Seamother is not a weird religion. It is the traditional faith of the Kuo-toans! It is Leemooggoogoon the Deep Father that is the real evil!'",
+    "source_quote": "Ploopploopeen is offended. 'The Seamother is not a weird religion. It is the traditional faith of the Kuo-toans! It is Leemooggoogoon the Deep Father that is the real evil!'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Ploopploopeen",
+    "fact": "Ploopploopeen says, 'Do not worry yourself about that. All you have to do is distract Bloppblippodd enough. I will take care of her, and my followers will take care of the followers of this false god.'",
+    "source_quote": "Do not worry yourself about that. All you have to do is distract Bloppblippodd enough. I will take care of her, and my followers will take care of the followers of this false god.'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Ploopploopeen",
+    "fact": "Ploopploopeen says, 'Oh that\u2019s easy. I wish to use you as bait.'",
+    "source_quote": "Oh that\u2019s easy. I wish to use you as bait.'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Ploopploopeen",
+    "fact": "Ploopploopeen says, 'The Seamother has answered my prayers!'",
+    "source_quote": "The archpriest is excited and says, 'The Seamother has answered my prayers!'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Ploopploopeen",
+    "fact": "Ploopploopeen walks around, and the other Kuo-toans follow her like a school of fish, walking here and there in circles.",
+    "source_quote": "As she talks, she walks around. They follow her like a school of fish, walking here and there in circles.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Ploopploopeen",
+    "fact": "Ploopploopeen's interlocutor casts a spell, and suddenly, not only is their language clear, but also the nuances of their communication and body language.",
+    "source_quote": "Just then, his interlocutor casts a spell, and suddenly, not only is their language clear, but also the nuances of their communication and body language.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Ploopploopeen",
+    "fact": "She sees how they are unimpressed, 'Two boats and guides to navigate the Darklake?'",
+    "source_quote": "But she sees how they are unimpressed, 'Two boats and guides to navigate the Darklake?'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Ploopploopeen",
+    "fact": "The archpriest promises 500 gold and two potions of healing.",
+    "source_quote": "The archpriest promises 500 gold and two potions of healing.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Ploopploopeen",
+    "fact": "The fish origins of the Kuo-toans become apparent.",
+    "source_quote": "It\u2019s then that the fish origins of the Kuo-toans become apparent.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Ploopploopeen",
+    "fact": "The followers of the Deep Father have been making an increasing number of offerings on his altar \u2014 killing blood sacrifices then casting bloody chum into the waters of the Darklake, where it is consumed by \u2026 something.",
+    "source_quote": "The followers of the Deep Father have been making an increasing number of offerings on his altar \u2014 killing blood sacrifices then casting bloody chum into the waters of the Darklake, where it is consumed by \u2026 something.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Ploopploopeen",
+    "fact": "The other Kuo-toans go in front of her, around her, and stay in the back.",
+    "source_quote": "And yet, it all seems very well choreographed. Shuushar follows her as she walks around, yet doesn\u2019t always stay next to her, even as she seems to be talking to him.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "reward agreement",
+    "fact": "The escapees agree to Ploopploopeen\u2019s offer of two boats and guides to navigate the Darklake as reward.",
+    "source_quote": "The escapees nod in agreement.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sethir",
+    "fact": "Sethir mutters, 'Should we continue?'",
+    "source_quote": "Sethir mutters, 'Should we continue?'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Shuushar",
+    "fact": "Shuushar continues to drone on but thankfully walks away.",
+    "source_quote": "Shuushar continues to drone on but thankfully walks away.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Shuushar",
+    "fact": "Shuushar follows her as she walks around, yet doesn\u2019t always stay next to her, even as she seems to be talking to him.",
+    "source_quote": "Shuushar follows her as she walks around, yet doesn\u2019t always stay next to her, even as she seems to be talking to him.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Shuushar",
+    "fact": "Shuushar is aghast, 'No, no, no. The Sea Mother is an old god, the Deep Father, that is who we should fight against. The Deep Mother demands humanoid sacrifices, not the Sea Mother.'",
+    "source_quote": "Shuushar is aghast, 'No, no, no. The Sea Mother is an old god, the Deep Father, that is who we should fight against. The Deep Mother demands humanoid sacrifices, not the Sea Mother.'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Shuushar",
+    "fact": "Shuushar is very excited and starts talking to one of them.",
+    "source_quote": "Shuushar is very excited and starts talking to one of them.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Shuushar",
+    "fact": "Shuushar sighs, 'Such an unnecessary battle. Why would this be happening?'",
+    "source_quote": "Shuushar sighs, 'Such an unnecessary battle. Why would this be happening?'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Shuushar",
+    "fact": "Shuushar thinks momentarily, 'Perhaps we should talk to his daughter before we take action? I have learned that one must open themselves to all points of view and then only then make decisions and judgments.'",
+    "source_quote": "Shuushar thinks momentarily, 'Perhaps we should talk to his daughter before we take action? I have learned that one must open themselves to all points of view and then only then make decisions and judgments.'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Topsy",
+    "fact": "Topsy asks, 'I hear about your problems, and that sounds like a you problem, not like a me problem. What can we help with you?'",
+    "source_quote": "A bit bored, Topsy asks, 'I hear about your problems, and that sounds like a you problem, not like a me problem. What can we help with you?'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "visionary daughter",
+    "fact": "Bloppblippodd, Ploopploopeen\u2019s daughter, experienced a powerful vision of \u201cLeemooggoogoon the Deep Father,\u201d proclaiming him the new god of her people.",
+    "source_quote": "Bloppblippodd, Ploopploopeen\u2019s daughter, experienced a powerful vision of \u201cLeemooggoogoon the Deep Father,\u201d proclaiming him the new god of her people.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir looks at her, unimpressed.",
+    "source_quote": "Zalthir looks at her, unimpressed.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir shouts to the archpriest, 'You said reward?'",
+    "source_quote": "Zalthir shouts to the archpriest, 'You said reward?'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "followers of the Deep Father",
+    "fact": "The followers of the Deep Father have been making increasing offerings on his altar by killing blood sacrifices and casting chum into the Darklake.",
+    "source_quote": "The followers of the Deep Father have been making an increasing number of offerings on his altar \u2014 killing blood sacrifices then casting bloody chum into the waters of the Darklake, where it is consumed by \u2026 something.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "followers of the Sea Mother",
+    "fact": "The followers of the Sea Mother are the traditional believers who oppose the cult of Leemooggoogoon the Deep Father.",
+    "source_quote": "Ploopploopeen explains that the inhabitants of Sloobludop have lived in harmonious service to the will of the Sea Mother for some time.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "The Deep Father Cult",
+    "fact": "The Deep Father Cult is a new, violent schismatic sect led by Bloppblippodd, which worships Leemooggoogoon the Deep Father through blood sacrifices, chum offerings to the Darklake, and the promise of transcendent power, challenging the Sea Mother\u2019s authority.",
+    "source_quote": "The followers of the Deep Father have been making an increasing number of offerings on his altar \u2014 killing blood sacrifices then casting bloody chum into the waters of the Darklake, where it is consumed by \u2026 something.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "The Deep Father Cult",
+    "fact": "The Deep Father Cult is a new, violent sect led by Bloppblippodd, who claims Leemooggoogoon the Deep Father is the true god. Followers make blood sacrifices and cast chum into the Darklake, attracting unknown entities. The cult is growing rapidly and is in open conflict with the Sea Mother faithful.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "The Deep Father\u2019s Followers",
+    "fact": "The Deep Father\u2019s followers are zealots who embrace blood sacrifice, chaotic magic, and the promise of transcendence through suffering; they are growing in number and power, challenging the old order with violent fervor.",
+    "source_quote": "New followers have flocked to her.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "The Sea Mother Cult",
+    "fact": "The Sea Mother Cult is the traditional, long-established faith of the Kuo-toans, centered on harmony, aquatic cycles, and ancestral worship, now threatened by the rise of the Deep Father cult and seeking to reclaim dominance through covert sabotage.",
+    "source_quote": "Ploopploopeen says, 'The Seamother is not a weird religion. It is the traditional faith of the Kuo-toans!'",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "The Sea Mother Faith",
+    "fact": "The Sea Mother Faith is the traditional, long-standing religion of the Kuo-toans, centered on harmony, fish-like collective movement, and ancestral worship. Its followers view the Deep Father cult as a dangerous heresy and seek to restore orthodoxy by undermining Bloppblippodd\u2019s influence.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "The Sea Mother\u2019s Followers",
+    "fact": "The Sea Mother\u2019s followers are traditionalists who revere aquatic harmony, ancestral rites, and structured worship; they are now preparing to strike against the Deep Father cult after years of passive endurance.",
+    "source_quote": "Ploopploopeen says, 'I will take care of her, and my followers will take care of the followers of this false god.'",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Darklake",
+    "fact": "Bloppblippodd\u2019s followers cast bloody chum into the waters of the Darklake, where it is consumed by something.",
+    "source_quote": "killing blood sacrifices then casting bloody chum into the waters of the Darklake, where it is consumed by \u2026 something.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Darklake",
+    "fact": "The Darklake is a body of water within the Underdark where the Deep Father cult casts bloody chum as offerings. It is the spiritual and tactical center of the conflict between the Sea Mother and Deep Father factions.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Darklake",
+    "fact": "The Darklake is a mysterious body of water in the Underdark where the Deep Father cult casts bloody chum as offerings, which are consumed by an unseen entity, suggesting a deeper, possibly divine or primordial presence.",
+    "source_quote": "\u2026casting bloody chum into the waters of the Darklake, where it is consumed by \u2026 something.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Sloobludop",
+    "fact": "An hour from Sloobludop, another kuo-toan party appears.",
+    "source_quote": "An hour from Sloobludop, another kuo-toan party appears.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Sloobludop",
+    "fact": "Sloobludop is a Kuo-toan settlement that has lived in harmonious service to the Sea Mother for generations, now a site of ideological tension and potential battleground between the two cults.",
+    "source_quote": "Ploopploopeen explains that the inhabitants of Sloobludop have lived in harmonious service to the will of the Sea Mother for some time.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Sloobludop",
+    "fact": "Sloobludop is a settlement inhabited by Kuo-toans who have lived in harmonious service to the Sea Mother for some time. It is the site of the initial ambush and the later meeting with Ploopploopeen.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Sloobludop distance",
+    "fact": "An hour from Sloobludop, another kuo-toan party appears.",
+    "source_quote": "An hour from Sloobludop, another kuo-toan party appears.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Sloobludop history",
+    "fact": "The inhabitants of Sloobludop have lived in harmonious service to the will of the Sea Mother for some time.",
+    "source_quote": "The inhabitants of Sloobludop have lived in harmonious service to the will of the Sea Mother for some time.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "archpriest identity",
+    "fact": "This is Ploopploopeen, archpriest of the Seamother.",
+    "source_quote": "This is Ploopploopeen, archpriest of the Seamother.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "kuo-toan",
+    "fact": "Eight kuo-toans ambush the group, with four attacking from the front and four from the rear.",
+    "source_quote": "the group is ambushed by eight kuo-toans\u2014four creatures attack from the front and four from the rear.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Kuo-toan",
+    "fact": "Kuo-toans are amphibious, fish-like humanoids capable of releasing a viscous, glue-like liquid upon death that causes melee weapons to stick to their bodies, requiring strength to disengage.",
+    "source_quote": "During the fight, the group discovers that the body of the Kuo-toans releases a particular liquid that causes any melee weapon to stick to their bodies.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "kuo-toan",
+    "fact": "Ploopploopeen is accompanied by other members of her kind who follow her like a school of fish.",
+    "source_quote": "Ploopploopeen has come with other members of her kind, and as she talks, she walks around. They follow her like a school of fish, walking here and there in circles.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "kuo-toan",
+    "fact": "Three of the kuo-toans flee into the Underdark, including the monitor.",
+    "source_quote": "Three of the Kuo-toans flee into the Underdark, including the monitor.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "kuo-toan count",
+    "fact": "Eight kuo-toans are present in the ambush\u2014four attack from the front and four from the rear.",
+    "source_quote": "eight kuo-toans\u2014four creatures attack from the front and four from the rear",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Kuo-toan creatures",
+    "fact": "Kuo-toans are fish-like humanoids that release a sticky, glue-like liquid when killed or injured, causing melee weapons to stick to their bodies. Only strength can free a weapon. They move in coordinated, schooling patterns when led by a strong figure.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "kuo-toan flight",
+    "fact": "Three of the Kuo-toans flee into the Underdark, including the monitor.",
+    "source_quote": "Three of the Kuo-toans flee into the Underdark, including the monitor.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Kuo-Toan monitor",
+    "fact": "A Kuo-Toan monitor is a special kind of Kuo-Toan leader who provides structured organization over a Kuo-Toan group.",
+    "source_quote": "A Kuo-Toan monitor is a special kind of Kuo-Toan leader who provides structured organization over a Kuo-Toan group.",
+    "quote_verified": true,
+    "passes": [
+      "sweep",
+      "temporal"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "monster",
+    "subject": "Kuo-toan Monitor",
+    "fact": "A Kuo-toan monitor is a specialized leader who imposes structure and suppresses insanity within Kuo-toan groups; when defeated, the group becomes less cohesive and less likely to continue fighting.",
+    "source_quote": "A Kuo-Toan monitor is a special kind of Kuo-Toan leader who provides structured organization over a Kuo-Toan group.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Kuo-Toan monitor",
+    "fact": "The Kuo-Toan monitor\u2019s primary role is to deal with any sudden break of insanity.",
+    "source_quote": "the monitor\u2019s primary role is to deal with any sudden break of insanity.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Kuo-toan monitor",
+    "fact": "The Kuo-toan monitor is a specialized leader who maintains order and prevents insanity among Kuo-toans. When defeated, Kuo-toans are less likely to keep fighting. The monitor fled into the Underdark with three other Kuo-toans after the ambush.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Kuo-Toan monitor",
+    "fact": "When the Kuo-Toan monitor is defeated, the Kuo-toans are less likely to keep fighting.",
+    "source_quote": "when the monitor is defeated, the Kuo-toans are less likely to keep fighting.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "School of Kuo-toans",
+    "fact": "Kuo-toans move in coordinated, fish-like formations, following their leader in circular patterns \u2014 a behavior that is both surreal and highly choreographed, suggesting deep social synchronization or psychic resonance.",
+    "source_quote": "They follow her like a school of fish, walking here and there in circles.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Bloppblippodd",
+    "fact": "Bloppblippodd has backed her claims of being the new prophet with a tremendous increase in magical power.",
+    "source_quote": "She has backed up her claims with a tremendous increase in magical power, and new followers have flocked to her.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Bloppblippodd",
+    "fact": "Bloppblippodd has backed up her claims with a tremendous increase in magical power, and new followers have flocked to her.",
+    "source_quote": "She has backed up her claims with a tremendous increase in magical power, and new followers have flocked to her.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Bloppblippodd",
+    "fact": "Bloppblippodd is Ploopploopeen\u2019s daughter and the archpriest of Leemooggoogoon the Deep Father.",
+    "source_quote": "a few weeks ago, Bloppblippodd, Ploopploopeen\u2019s daughter, experienced a powerful vision of \u201cLeemooggoogoon the Deep Father,\u201d proclaiming him the new god of her people.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Bloppblippodd",
+    "fact": "Bloppblippodd is the daughter of Ploopploopeen and the archpriest of Leemooggoogoon the Deep Father. She experienced a powerful vision proclaiming her father as the new god of the Kuo-toans, gained immense magical power, and has amassed followers through bloody sacrifices and chum offerings in the Darklake.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Bloppblippodd",
+    "fact": "Bloppblippodd is the daughter of Ploopploopeen and the archpriest of the cult of Leemooggoogoon the Deep Father, who has claimed divine vision and amassed followers through increased magical power and bloody sacrifices to the Darklake.",
+    "source_quote": "A few weeks ago, Bloppblippodd, Ploopploopeen\u2019s daughter, experienced a powerful vision of 'Leemooggoogoon the Deep Father,' proclaiming him the new god of her people.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz asks how many members the Deep Father\u2019s faction has.",
+    "source_quote": "Daz asks, \u201cHow many members does the other faction have?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a pragmatic and impatient member of the party who views the religious conflict as irrelevant drivel and is willing to eliminate the archpriest to end the conversation, showing disdain for ideological entanglements.",
+    "source_quote": "Daz mutters, 'If Ploopploo-whatever is going to keep talking endlessly like that, maybe we should kill them?'",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz says he does not want to listen to the drivel anymore.",
+    "source_quote": "\u201cI don\u2019t want to listen to this drivel all the time.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz suggests killing Ploopploopeen if she keeps talking endlessly.",
+    "source_quote": "\u201cIf Ploopploo-whatever is going to keep talking endlessly like that, maybe we should kill them?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum finds the name Ploopploopeen very funny and tries not to laugh out loud.",
+    "source_quote": "Grygum finds the name very funny and tries not to laugh out loud.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a humorous, easily amused party member who finds the names and rituals of the Kuo-toans absurd, yet is motivated by tangible rewards and is quick to negotiate for gold and boats.",
+    "source_quote": "Grygum mutters, 'Oh great, pit one weird religion against another!'",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum says the party has temporal needs alongside spiritual ones.",
+    "source_quote": "\u201cI am all about the spiritual stuff, but the temporal have needs too.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Leemooggoogoon the Deep Father",
+    "fact": "Leemooggoogoon the Deep Father is proclaimed as the new god by Bloppblippodd.",
+    "source_quote": "Bloppblippodd, Ploopploopeen\u2019s daughter, experienced a powerful vision of \u201cLeemooggoogoon the Deep Father,\u201d proclaiming him the new god of her people.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Ploopploopeen",
+    "fact": "Ploopploopeen explains that the Deep Father\u2019s followers make offerings by killing blood sacrifices and casting chum into the Darklake.",
+    "source_quote": "The followers of the Deep Father have been making an increasing number of offerings on his altar \u2014 killing blood sacrifices then casting bloody chum into the waters of the Darklake, where it is consumed by \u2026 something.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Ploopploopeen",
+    "fact": "Ploopploopeen explains that the inhabitants of Sloobludop have lived in harmonious service to the will of the Sea Mother for some time.",
+    "source_quote": "Ploopploopeen explains that the inhabitants of Sloobludop have lived in harmonious service to the will of the Sea Mother for some time.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Ploopploopeen",
+    "fact": "Ploopploopeen explains, 'We are split in two, fighting among ourselves.'",
+    "source_quote": "We are split in two,' Ploopploopeen explains, 'fighting among ourselves.'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Ploopploopeen",
+    "fact": "Ploopploopeen is the archpriest of the Sea Mother.",
+    "source_quote": "\u201cThis is Ploopploopeen, archpriest of the Seamother.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "sweep"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Ploopploopeen",
+    "fact": "Ploopploopeen says the Sea Mother has answered her prayers.",
+    "source_quote": "\u201cThe Seamother has answered my prayers!\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Ploopploopeen",
+    "fact": "Ploopploopeen says the Sea Mother is the traditional faith of the Kuo-toans and the Deep Father is the real evil.",
+    "source_quote": "\u201cThe Seamother is not a weird religion. It is the traditional faith of the Kuo-toans! It is Leemooggoogoon the Deep Father that is the real evil!\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Ploopploopeen",
+    "fact": "Ploopploopeen tells Daz not to worry about the number of members in the other faction.",
+    "source_quote": "\u201cDo not worry yourself about that. All you have to do is distract Bloppblippodd enough. I will take care of her, and my followers will take care of the followers of this false god.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Ploopploopeen",
+    "fact": "Ploopploopeen wants to use the party as bait to infiltrate the Deep Father\u2019s cult.",
+    "source_quote": "\u201cI wish to use you as bait.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Ploopploopeen",
+    "fact": "Ploopploopeen will offer them as a 'token of peace and reconciliation' to get closer to the archpriest of the Deep Father \u2014 except the adventurers will not be helpless prisoners but infiltrators.",
+    "source_quote": "Ploopploopeen will offer them as a 'token of peace and reconciliation' to get closer to the archpriest of the Deep Father \u2014 except the adventurers will not be helpless prisoners but infiltrators.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Ploopploopeen",
+    "fact": "The archpriest of the Sea Mother explains she wants to use them as bait.",
+    "source_quote": "The archpriest of the Sea Mother explains he wants to use them as bait.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Ploopploopeen, Archpriest of the Sea Mother",
+    "fact": "Ploopploopeen is the archpriest of the Sea Mother, a traditional Kuo-toan deity, who seeks to use the party as infiltrators to undermine the cult of Leemooggoogoon the Deep Father by offering them as 'token of peace' to her daughter Bloppblippodd.",
+    "source_quote": "Ploopploopeen explains, 'The Seamother has answered my prayers!'",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Ploopploopeen, Archpriest of the Sea Mother",
+    "fact": "Ploopploopeen is the archpriest of the Sea Mother, the traditional faith of the Kuo-toans. She seeks to use the adventurers as infiltrators to disrupt the cult of Leemooggoogoon the Deep Father, promising boats, guides, gold, and potions in return.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sethir",
+    "fact": "Sethir is a cautious, questioning member of the party who wonders whether to continue engaging with the Kuo-toans, reflecting the group\u2019s uncertainty about their role in this escalating conflict.",
+    "source_quote": "Sethir mutters, 'Should we continue?'",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sethir",
+    "fact": "Sethir mutters whether the group should continue.",
+    "source_quote": "Sethir mutters, \u201cShould we continue?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Shuushar",
+    "fact": "Shuushar says the Sea Mother is an old god and the Deep Father is who they should fight against.",
+    "source_quote": "\u201cNo, no, no. The Sea Mother is an old god, the Deep Father, that is who we should fight against. The Deep Mother demands humanoid sacrifices, not the Sea Mother.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Shuushar",
+    "fact": "Shuushar sighs and questions why the ambush occurred.",
+    "source_quote": "Shuushar sighs, \u201cSuch an unnecessary battle. Why would this be happening?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Shuushar",
+    "fact": "Shuushar suggests talking to Bloppblippodd before taking action.",
+    "source_quote": "\u201cPerhaps we should talk to his daughter before we take action? I have learned that one must open themselves to all points of view and then only then make decisions and judgments.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Shuushar the Awakened",
+    "fact": "Shuushar the Awakened is a Kuo-toan monitor who has experienced enlightenment and now serves as a guide and moral compass for the party, advocating for understanding over violence and emphasizing the legitimacy of the Sea Mother as the traditional faith.",
+    "source_quote": "Shuushar sighs, 'Such an unnecessary battle. Why would this be happening?'",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Shuushar the Awakened",
+    "fact": "Shuushar the Awakened is a Kuo-toan monitor who provides structured organization over Kuo-toan groups and believes in opening oneself to all points of view before making judgments. He is deeply devoted to the Sea Mother and opposes the Deep Father cult.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Shuushar the Awakened",
+    "fact": "Shuushar the Awakened says \u2018Yes\u2019 to continuing.",
+    "source_quote": "\u201cYes,\u201d the Shuushar the Awakened says.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Shuushar the Awakened",
+    "fact": "Shuushar the Awakened says, 'Yes.'",
+    "source_quote": "Yes, the Shuushar the Awakened says.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Topsy",
+    "fact": "Topsy asks if the kuo-toan problems are the party\u2019s concern.",
+    "source_quote": "\u201cI hear about your problems, and that sounds like a you problem, not like a me problem. What can we help with you?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Topsy",
+    "fact": "Topsy is a disengaged, cynical party member who sees the Kuo-toan conflict as a 'you problem' and questions the party\u2019s involvement, reflecting a detached, survivalist attitude.",
+    "source_quote": "Topsy asks, 'I hear about your problems, and that sounds like a you problem, not like a me problem. What can we help with you?'",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a results-oriented member of the party who focuses on material compensation, pressing the archpriest for rewards and showing little interest in theological debates.",
+    "source_quote": "Zalthir shouts to the archpriest, 'You said reward?'",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir looks at Ploopploopeen unimpressed when she offers to use them as bait.",
+    "source_quote": "Zalthir looks at her, unimpressed.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir shouts to the archpriest to confirm the reward.",
+    "source_quote": "Zalthir shouts to the archpriest, \u201cYou said reward?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "500 gold",
+    "fact": "Ploopploopeen promises 500 gold as a reward for the party\u2019s aid.",
+    "source_quote": "The archpriest promises 500 gold and two potions of healing.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Bloody chum",
+    "fact": "Bloody chum is the sacrificial residue from the Deep Father cult\u2019s blood offerings, cast into the Darklake. It is consumed by an unknown entity, suggesting a deeper, possibly primordial, connection to Leemooggoogoon the Deep Father.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "guides to navigate the Darklake",
+    "fact": "Ploopploopeen offers guides to navigate the Darklake as part of the reward.",
+    "source_quote": "\u201cTwo boats and guides to navigate the Darklake?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "hand-held crossbows",
+    "fact": "A collection of hand-held crossbows, combined with a united team, can create a powerful enough force to take down a formidable group of enemies.",
+    "source_quote": "a collection of hand-held crossbows, combined with a united team, can create a powerful enough force to take down even a formidable group of enemies.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Hand-held Crossbows",
+    "fact": "Hand-held crossbows, when used in coordinated formation by a united team, can generate enough force to take down formidable groups of enemies, suggesting tactical synergy over brute strength.",
+    "source_quote": "In the end, they realize that a collection of hand-held crossbows, combined with a united team, can create a powerful enough force to take down even a formidable group of enemies.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "liquid from kuo-toan bodies",
+    "fact": "Only the application of strength can free a weapon from the liquid glue.",
+    "source_quote": "Only the application of strength can from a weapon from the glue.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "liquid from kuo-toan bodies",
+    "fact": "The body of the kuo-toans releases a liquid that causes any melee weapon to stick to their bodies.",
+    "source_quote": "the body of the Kuo-toans releases a particular liquid that causes any melee weapon to stick to their bodies.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Potions of Healing",
+    "fact": "Two potions of healing are offered by Ploopploopeen as part of the reward package, indicating the party\u2019s anticipated exposure to combat and injury during the infiltration mission.",
+    "source_quote": "The archpriest promises 500 gold and two potions of healing.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "two boats",
+    "fact": "Ploopploopeen offers two boats as part of the reward after the party is unimpressed with the initial offer.",
+    "source_quote": "\u201cTwo boats and guides to navigate the Darklake?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Two Boats and Guides",
+    "fact": "Two boats and experienced guides to navigate the Darklake are offered as part of the reward, essential for the party\u2019s movement through the Kuo-toan-controlled waterways and their infiltration of the Deep Father\u2019s stronghold.",
+    "source_quote": "'Two boats and guides to navigate the Darklake?' The escapees nod in agreement.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "two potions of healing",
+    "fact": "Ploopploopeen promises two potions of healing as a reward for the party\u2019s aid.",
+    "source_quote": "The archpriest promises 500 gold and two potions of healing.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "reward",
+    "subject": "reward offer",
+    "fact": "The archpriest promises 500 gold and two potions of healing, then adds two boats and guides to navigate the Darklake.",
+    "source_quote": "The archpriest promises 500 gold and two potions of healing. But she sees how they are unimpressed, \u201cTwo boats and guides to navigate the Darklake?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Bloppblippodd\u2019s Vision",
+    "fact": "The source and validity of Bloppblippodd\u2019s vision of Leemooggoogoon are unknown \u2014 was it divine revelation, psychic trauma, or manipulation by an external force? The party may need to confront her directly to uncover the truth.",
+    "source_quote": "She has backed up her claims with a tremendous increase in magical power, and new followers have flocked to her.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "disruption of rituals",
+    "fact": "Ploopploopeen wants the party to disrupt the upstart faction\u2019s rituals so her true believers can cut off the head of the cult.",
+    "source_quote": "Ploopploopeen wants them to disrupt the upstart faction\u2019s rituals, allowing his true believers of the Sea Mother to cut off the head of the cult.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "infiltration plan",
+    "fact": "Ploopploopeen plans to use the party as infiltrators disguised as sacrifices to disrupt the Deep Father\u2019s rituals.",
+    "source_quote": "Ploopploopeen will offer them as a \u201ctoken of peace and reconciliation\u201d to get closer to the archpriest of the Deep Father \u2014 except the adventurers will not be helpless prisoners but infiltrators.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Ploopploopeen's daughter Bloppblippodd",
+    "fact": "Bloppblippodd's vision of Leemooggoogoon the Deep Father and her claim of new divine authority are unresolved and central to the factional conflict.",
+    "source_quote": "A few weeks ago, Bloppblippodd, Ploopploopeen\u2019s daughter, experienced a powerful vision of 'Leemooggoogoon the Deep Father,' proclaiming him the new god of her people. She has backed up her claims with a tremendous increase in magical power, and new followers have flocked to her.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Shuushar\u2019s Philosophical Droning",
+    "fact": "Shuushar\u2019s tendency to speak at length about openness, perspective, and judgment may delay decisive action \u2014 the party must decide whether his wisdom is vital or a dangerous distraction.",
+    "source_quote": "Shuushar continues to drone on but thankfully walks away.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Shuushar\u2019s transformation",
+    "fact": "Shuushar has shifted from a monitor focused on control to a seeker of understanding. His growing openness to Bloppblippodd\u2019s perspective may signal a deeper internal conflict or a hidden connection to the Deep Father cult.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Daughter\u2019s Loyalty",
+    "fact": "It is unclear whether Bloppblippodd is truly devoted to Leemooggoogoon or is being manipulated \u2014 the party may need to confront her directly to determine if she is a zealot, a pawn, or a victim.",
+    "source_quote": "She has backed up her claims with a tremendous increase in magical power.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Deep Father\u2019s True Nature",
+    "fact": "The origin and nature of Leemooggoogoon the Deep Father remain unclear \u2014 whether a false god, a primordial entity, or a corrupted manifestation \u2014 and the party must determine if the cult is truly evil or merely a new evolution of faith.",
+    "source_quote": "Ploopploopeen says, 'It is Leemooggoogoon the Deep Father that is the real evil!'",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Deep Father's true nature",
+    "fact": "The origin and true nature of Leemooggoogoon the Deep Father remain mysterious. His emergence coincides with Bloppblippodd\u2019s vision and surge in magical power, raising questions about whether he is a genuine deity, a corrupted entity, or a manifestation of collective madness.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The entity in the Darklake",
+    "fact": "Something consumes the bloody chum cast into the Darklake. Its identity and allegiance are unknown\u2014whether it serves the Deep Father, is an ancient force awakened by the cult, or is a trick of perception.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The identity of the entity consuming the bloody chum",
+    "fact": "The entity consuming the bloody chum in the Darklake is unspecified and mysterious.",
+    "source_quote": "The followers of the Deep Father have been making an increasing number of offerings on his altar \u2014 killing blood sacrifices then casting bloody chum into the waters of the Darklake, where it is consumed by \u2026 something.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Party\u2019s Role as Infiltrators",
+    "fact": "The party has been offered as bait by Ploopploopeen to infiltrate the Deep Father cult \u2014 their success or failure may determine the balance of power among the Kuo-toans, and their moral alignment may be tested by becoming tools of religious warfare.",
+    "source_quote": "Ploopploopeen will offer them as a 'token of peace and reconciliation' to get closer to the archpriest of the Deep Father \u2014 except the adventurers will not be helpless prisoners but infiltrators.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Sea Mother\u2019s silence",
+    "fact": "Despite Ploopploopeen\u2019s claims of divine favor, the Sea Mother has not directly intervened in the schism. This raises doubt about whether her power is fading, or if she is testing her followers through conflict.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Unseen Consumer in the Darklake",
+    "fact": "Something unseen consumes the bloody chum cast into the Darklake \u2014 a possible avatar of Leemooggoogoon, a primordial entity, or a trapped god \u2014 whose nature may hold the key to ending the schism.",
+    "source_quote": "\u2026where it is consumed by \u2026 something.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  }
+]

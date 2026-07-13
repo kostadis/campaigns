@@ -1,0 +1,93 @@
+[
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is an orc cleric of Bahamut, a dragon god, and has always been a mystery to others; he refuses to engage in debates about divine will, free will, or the intrinsic goodness of dragons based on scale color.",
+    "source_quote": "Grygum smiles and says nothing.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is probing Grygum\u2019s beliefs about Bahamut, divine intervention, and the nature of dragon gods, but grows weary of the philosophical arguments and stops pressing.",
+    "source_quote": "Jimjar stares back.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a spellcaster who overpromises on his magic but has just successfully used Shape Water to free the boat from a sandbar, earning rare applause and validation.",
+    "source_quote": "Daz turns to the group and says, \u201cSo?\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith is a crew member who identifies the sandbar as the cause of the boat\u2019s stoppage and sarcastically notes the lack of preparedness with oars.",
+    "source_quote": "Sarith shouts, \u201cA sandbar!\u201d \u2026 Sarith laughs, \u201cIt would have been useful a while ago\u2026\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a crew member who asks for oars in response to the boat being stuck, showing practical concern.",
+    "source_quote": "Zalthir shouts, \u201cAnyone got oars?\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "demonic Manta Rays",
+    "fact": "A swarm of demonic Manta Rays is observed floating in the water near the stranded boat, suggesting a lurking aquatic hazard.",
+    "source_quote": "Daz looks into the war and sees a swarm of those demonic Manta Rays floating in the water.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "boat freed by Shape Water",
+    "fact": "Daz successfully casts Shape Water to generate a wave that lifts the boat over a sandbar, allowing it to float free, contradicting prior expectations of his spell\u2019s ineffectiveness.",
+    "source_quote": "He casts the spell and uses it to push a small wave over the sandbar. The extra water is enough to move the boat forward.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Bahamut\u2019s divine intervention",
+    "fact": "A recurring philosophical thread debates whether Bahamut moved Stroud\u2019s hand in the chess game against Protanther, implying divine influence in mortal affairs and challenging notions of free will and agency.",
+    "source_quote": "But others believed that Bahamut moved Stroud\u2019s hand and hid the move from Protanther.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "dragon god\u2019s followers",
+    "fact": "A theological thread explores how Bahamut, traditionally not seeking non-dragon faithful, has gained followers due to perceived divine actions in the chess narrative involving Protanther and Stroud.",
+    "source_quote": "And so the dragon god, who was never one to seek faithful among those who were not dragons, has gained quite a following among those who saw in his actions a divine plan.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Darklake",
+    "fact": "The journey continues through the Darklake, a murky, dark waterway where the boat becomes stranded on a sandbar and later drifts into deep, shadowy waters.",
+    "source_quote": "As it floats down into the murky darkness...",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "10th day of the 3rd Tenday of Taraskh 1493",
+    "fact": "The events of the boat being freed occur on the 10th day of the 3rd Tenday of Taraskh 1493, marking a turning point in the journey.",
+    "source_quote": "## 10th day of the 3rd Tenday of Taraskh 1493",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Shape Water spell",
+    "fact": "The Shape Water spell is used by Daz to manipulate water and push the boat off a sandbar, exceeding prior expectations of its utility despite Daz\u2019s history of under-delivering.",
+    "source_quote": "\u201cShape Water.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "sandbar",
+    "fact": "A sandbar in the Darklake strands the boat, requiring external intervention to dislodge it, and becomes the catalyst for Daz\u2019s successful spell use.",
+    "source_quote": "Sarith shouts, \u201cA sandbar!\u201d",
+    "quote_verified": true
+  }
+]

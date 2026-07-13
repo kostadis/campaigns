@@ -1,0 +1,93 @@
+[
+  {
+    "type": "npc",
+    "subject": "Gasbide",
+    "fact": "Gasbide is a Myconid Builder and supporter of Sovereign Phylo, obsessed with surface architecture and engineering, who dreams of constructing a fungal tower to breach the Underdark to the surface using unknown materials and is unaware of the lethal nature of sunlight.",
+    "source_quote": "I dream of building a fungal tower even greater than Yggmorgus... I hope to use it to break through the Underdark to the surface world, possibly with the aid of Aromikos.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Basidia",
+    "fact": "Basidia is the Sovereign who accepts the Grick corpse and leads the group toward the Circle of the Builders, expressing concern for the continuation of the animation but affirming the presence and contentment of Rump-a-dump and Stool among their kind.",
+    "source_quote": "We had stripped the Grik for its head. Basidia is concerned, but then sighs. The animation will continue and be successful.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Circle of the Builders",
+    "fact": "The Circle of the Builders is a Drow organization within the Neverlight Grove, associated with architectural and structural experimentation under the influence of Sovereign Phylo, where Myconids like Gasbide pursue radical construction concepts.",
+    "source_quote": "Basidia then leads us toward the next segment of this bizarre cultural tour: the Circle of the Builders.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Northern Terraces of the Neverlight Grove",
+    "fact": "The Northern Terraces are a vast cavernous area lined with faerzress-infused walls, channeled irrigation systems, and dense glowing fungal vegetation, emitting a thick, sweet aroma from thousands of bioluminescent fungi.",
+    "source_quote": "The terraces lining the northern walls are suffused with faerzress, and I notice that this place is filled with vegetation. As I draw closer, I see water trickling from the walls of this vast cavern being channeled into a crude yet effective terraced irrigation system.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Neverlight Grove",
+    "fact": "The Neverlight Grove is a subterranean Drow sanctuary where Myconids dwell under the influence of Sovereign Phylo, characterized by unnatural vegetation, faerzress, and the lingering presence of slain creatures such as the Grick.",
+    "source_quote": "We return to the Neverlight Grove, the corpse of the Grick dragging slightly.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "construction discussion with Gasbide",
+    "fact": "A detailed engineering dialogue occurs between Gasbide and the party, culminating in Zalthir\u2019s Minor Illusion of a scaled building, which triggers Gasbide\u2019s fascination and leads to revelations about the impending 'great celebration' and his ignorance of sunlight.",
+    "source_quote": "I'll nerd out with them for a little while,\" I tell everyone.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "great celebration and Araumycos",
+    "fact": "Gasbide has no clear understanding of Araumycos, only that it is tied to a 'great celebration' promised by Sovereign Phylo, which may be connected to the 'great awakening' and is imminent\u2014possibly occurring tomorrow.",
+    "source_quote": "he has no clear understanding of what Araumycos is, only that 'it is part of a great celebration to come,' promised by Sovereign Phylo.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "sunlight ignorance and fungal survival",
+    "fact": "Gasbide and the Myconids are unaware that sunlight is lethal to them and are actively seeking architectural solutions to protect themselves from it, indicating a dangerous disconnect between their ambitions and biological reality.",
+    "source_quote": "They are distraught and ask how they can build things that will protect them from the thing I call a sun.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Grick",
+    "fact": "The Grick is a slain creature whose corpse was dragged to Basidia and stripped of its head, indicating its use in ritual or material acquisition by the Drow.",
+    "source_quote": "We return to the Neverlight Grove, the corpse of the Grick dragging slightly.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Minor Illusion structure",
+    "fact": "Zalthir conjures a scaled-down illusion of a surface building to satisfy Gasbide\u2019s architectural curiosity, which is mistaken for a representation of small people until Zalthir clarifies it is scaled down for observation.",
+    "source_quote": "That\u2019s impressive,\" Grygum notes, appreciative of the display.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Grygum\u2019s unspoken worry",
+    "fact": "Grygum is visibly worried, though the cause is unknown, and his persistent questioning about Rump-a-dump and Stool suggests deeper concern about Myconid autonomy or the influence of Phylo.",
+    "source_quote": "I sense Grygum is worried. I don't know what.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir uses tactical deception to assume the role of an architect, leveraging Minor Illusion to gain Gasbide\u2019s trust and elevate his status among the Myconids, revealing a strategic interest in manipulating the Builder\u2019s obsession.",
+    "source_quote": "Let's go with that.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Gasbide\u2019s architectural revelation",
+    "fact": "Gasbide reveals his ambition to construct a fungal tower to reach the surface, incorporating unknown materials like zurkhwood mushroom and referencing Aromikos, indicating a radical, possibly heretical vision under Phylo\u2019s influence.",
+    "source_quote": "I dream of building a fungal tower even greater than Yggmorgus... I hope to use it to break through the Underdark to the surface world, possibly with the aid of Aromikos.",
+    "quote_verified": false
+  }
+]

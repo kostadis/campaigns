@@ -1,0 +1,72 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a shadow monk who disregarded formal training in favor of practical survival in the Underdark; he executes techniques unconventionally but effectively, prioritizing results over doctrinal correctness.",
+    "source_quote": "He had survived the Underdark, which is a different curriculum.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Khell-Vire",
+    "fact": "Khell-Vire is a two-hundred-year-old half-elven shadow monk lineage keeper who evaluates students not on what they know, but on what they have become through lived experience; he operates outside traditional pedagogical frameworks.",
+    "source_quote": "He was asking what Zalthir had become through what he'd lived.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "The Blind Monk",
+    "fact": "The Blind Monk is a senior shadow monk evaluator who enforces canonical techniques but is forced to acknowledge superior efficacy in unorthodox methods; he represents institutional dogma confronted by adaptive mastery.",
+    "source_quote": "You skip the third breath... It is technically wrong in every scroll. And yet, you arrived at your destination three seconds faster than the Grandmaster did.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Shadow Discipline Lineage",
+    "fact": "The Shadow Discipline Lineage is a centuries-old monastic tradition within Candlekeep that maintains rigid records and formalized techniques, yet is being challenged by practitioners like Zalthir whose lived experience supersedes documented doctrine.",
+    "source_quote": "The Shadow Discipline Lineage Records were kept... stretching back five centuries.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's Trial of the Broken Mirror",
+    "fact": "Zalthir's trial was a structured evaluation designed to test adherence to shadow monk orthodoxy, but it instead revealed the limitations of institutional assessment when confronted with unconventional, survival-based mastery.",
+    "source_quote": "Show me what else you haven't learned.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Echoing Hall (Candlekeep's North Inner Ward)",
+    "fact": "The Echoing Hall is a stone-walled corridor in Candlekeep's inner ward known for distorting and reflecting sound in ways that suggest the architecture itself is recording or interpreting speech \u2014 a metaphor for the trial\u2019s deeper purpose.",
+    "source_quote": "Stone corridors in Candlekeep's north inner ward have a habit of returning sound to you slightly altered \u2014 not an echo exactly, more like the library itself was taking notes.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Note on Khell-Vire's Desk",
+    "fact": "The note \u2014 'Zalthir, the Underdark, until the Bone King sings' \u2014 is an enigmatic directive with no known origin, serving as a cryptic trigger for the trial\u2019s philosophical inquiry into meaning, memory, and lived experience.",
+    "source_quote": "Neither of them could place it. I filed it under 'questions to revisit' and did not volunteer an opinion, because I didn't have one.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Curriculum Divide",
+    "fact": "The central unresolved thread is whether formal monastic training and survival-based adaptation are mutually exclusive, or if one is merely a subset of the other \u2014 a question neither institution nor individual can fully answer.",
+    "source_quote": "There's a case to be made that those are the same thing. There's also a case that they're almost never the same thing.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "The Bone King",
+    "fact": "The Bone King is an unseen, mythic entity referenced in cryptic directives and monastic prophecy; his arrival is a temporal marker of unknown significance, possibly tied to the collapse or transformation of shadow monk traditions.",
+    "source_quote": "Zalthir, the Underdark, until the Bone King sings.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The trial occurred during an unspecified but internally significant session in Candlekeep\u2019s inner ward, marked not by calendar date but by the weight of accumulated tradition and the rupture of Zalthir\u2019s unorthodox performance.",
+    "source_quote": "Two hundred years old, half-elven, eighty years gone from the Garden of Shadow after refusing an order he never explained.",
+    "quote_verified": true
+  }
+]

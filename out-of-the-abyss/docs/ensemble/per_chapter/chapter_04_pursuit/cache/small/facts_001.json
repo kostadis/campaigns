@@ -1,0 +1,176 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a monk who uses speed and perception to lead the group, remembers the story of Korrh Erann, and urges the party to flee from Drow scouts. He later discovers a hiding spot behind stalagmites and uses Stool's mind link to communicate with the group.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith is a guide and healer who is believed to be essential to the group's survival. He is targeted by the creature\u2019s attack, shoots it with a crossbow, and later shouts 'Rations!' after its death. He also whispers that Ilvara has found them and suggests covering their trail.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a dwarf warrior who carries Stool on his back, strikes the creature with his short sword, and later shouts to save Eldeth and Jimjar. He was bitten by the creature but protected by his armor, and he claims to have been taught to cover tracks in the Underdark.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is an injured and unconscious healer who is revived by Zalthir. After hearing Thorin\u2019s decision, he mutters that their actions might inspire companions to help. He later asks Zalthir if he noticed something, confirming their awareness of being followed.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a healer who is knocked out by the creature\u2019s tentacle, later recovers, and uses Thaumaturgy to create a tremor that fools the Drow. He identifies a tunnel path for the group and asks questions about Drow positioning, comparing the Underdark to a maze.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Stool",
+    "fact": "Stool is a slow-moving Myconid who releases rapport spores to create a mind link with the group. He is carried by Thorin, asks if his idea was good, and expresses joy at being liked. His spores enable Zalthir to communicate the hiding spot to the group.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido is a fervent believer in the divine plan who shouts that Sarith was meant to rescue him. He shoots the creature with a crossbow and helps kill it with Sarith. He is one of the surviving prisoners.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Nym",
+    "fact": "Nym is a Drow scout familiar to Zalthir from Velkynvelve. He leads the pursuit, misidentifies the tunnel the prisoners took, feels a tremor from Grygum\u2019s magic, and concludes the prisoners are gone. He mutters that he warned about the other tunnel.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Shuushar",
+    "fact": "Shuushar is a Myconid child who is instructed by Gyrgum to help Shuushar (likely a self-reference or error). He becomes uncomfortable in the presence of Faerzress, sensing it as poison for the first time.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jim Jar",
+    "fact": "Jim Jar is a prisoner who makes bets about food, points out Zalthir\u2019s leadership in fleeing, and comments on the Underdark\u2019s unpredictability. He also notes that Faerzress has never affected living things, contradicting Shuushar\u2019s experience.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth is a prisoner referenced by Thorin\u2019s shout to 'save Eldeth and Jimjar.' No further actions are described, but their survival is implied as the group reaches the hiding spot.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Drow of Velkynvelve",
+    "fact": "The Drow of Velkynvelve are a hostile faction known for their scouts and pursuit tactics. Zalthir recognizes their gait and confirms they are being followed by their scouts. They operate with precision, use tunnel systems effectively, and are feared for their persistence.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Ghastly Insect Creature",
+    "fact": "A massive, centipede-like monstrous insect with feather-like feelers and mandibles, it feeds on exhumed remains. It attacks Grygum, is shot multiple times, has its carapace breached by Thorin, and is ultimately killed by Sarith and Buppido\u2019s bolts. It sensed Zalthir\u2019s fire and twisted away.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Faerzress",
+    "fact": "Faerzress is a glowing, magical substance in the Underdark that prevents teleportation spells. Shuushar perceives it as poison for the first time, while Jim Jar insists it has never affected living things \u2014 creating a contradiction in its nature.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Underdark Tunnels",
+    "fact": "The Underdark tunnels are a complex, shifting labyrinth that twists and turns unpredictably. They change over time, allow enemies to appear suddenly, and contain hidden paths, drops, and stalagmite formations. The group uses these features to evade pursuit.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Creature Attack and Death",
+    "fact": "A ghastly insect creature attacks the group, knocks out Grygum, and is targeted by crossbows and Thorin\u2019s sword. It exposes its flesh, is burned by Zalthir (ineffectively), bites Thorin (unsuccessfully), and is finally killed by Sarith and Buppido.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Drow Pursuit and Misdirection",
+    "fact": "Drow scouts pursue the group, hear their running, nearly fall into a drop, arrive at the stalagmites, hear a thump from Zalthir\u2019s fall, feel a tremor from Grygum\u2019s magic, and retreat, believing the prisoners are gone \u2014 unaware they are hidden.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Hiding at Stalagmites",
+    "fact": "Zalthir discovers a hiding space behind stalagmites and uses Stool\u2019s mind link to alert the group. Thorin, Daz, Grygum, and prisoners run to it. The Drow arrive, misinterpret the tremor, and leave, thinking the prisoners escaped.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thaumaturgy Tremor",
+    "fact": "Grygum unknowingly creates a tremor using Thaumaturgy while hidden. The Drow interpret it as a cave collapse, prompting them to retreat. This saves the group from discovery.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Ilvara\u2019s Arrival",
+    "fact": "Sarith whispers that Ilvara has found and caught up with the group. The identity of Ilvara is unknown, but the threat is urgent. The group must either flee or cover their trail \u2014 creating a strategic dilemma.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Fate of the Monks",
+    "fact": "Zalthir recalls the story of Korrh Erann, a monk of his order who was pursued by Drow in the Underdark. The group was divided: some wanted to kill scouts, Korrh insisted on fleeing. He was the only survivor \u2014 a cautionary tale the group now echoes.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "6th day of the 2nd Tenday of Taraskh 1493",
+    "fact": "The date is explicitly noted as the 6th day of the 2nd Tenday of Taraskh 1493, marking the timeline of the group\u2019s movement through the Faerzress-laden cave and their continued evasion of the Drow.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Korrh Erann",
+    "fact": "Korrh Erann was a monk of Zalthir\u2019s order who was pursued by Drow in the Underdark. He rejected the idea of fighting scouts, insisted on fleeing, and was the sole survivor of his group \u2014 his story now informs Zalthir\u2019s urgency to run.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Myconid Child",
+    "fact": "A Myconid child is instructed by Gyrgum to 'go help Shuushar.' The child is frightened and likely represents the vulnerable members of the group\u2019s entourage, possibly a younger Myconid or a symbolic figure.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Nature of Faerzress",
+    "fact": "A contradiction emerges: Shuushar feels Faerzress as poison, while Jim Jar insists it has never affected living things \u2014 only blocking teleportation. This suggests an unknown change in Faerzress\u2019s properties, or a new magical influence in the Underdark.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Silent One\u2019s Leadership",
+    "fact": "Jim Jar refers to Zalthir as 'the silent one' who wanted them to run. This establishes Zalthir\u2019s quiet authority and foreshadows that his instincts \u2014 shaped by monk training and Korrh\u2019s story \u2014 may be the key to survival.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Bet on Food",
+    "fact": "Jim Jar\u2019s muttering about a bet on food reveals the group\u2019s deteriorating morale and resource scarcity. The bet is abandoned because Zalthir\u2019s decision to flee overrides all other priorities \u2014 food is no longer the focus.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Drow Scout\u2019s Gait",
+    "fact": "Zalthir recognizes Nym\u2019s gait from Velkynvelve, confirming the Drow are not random scouts but a known, organized force. This personal connection raises the stakes and implies a deeper history between Zalthir and the Drow.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Unanswered Question",
+    "fact": "Daz asks Zalthir, 'Did you notice that?' Zalthir nods. The nature of what they noticed is never stated \u2014 leaving open the possibility of an unseen follower, a magical trace, or a shift in the environment \u2014 a lingering mystery.",
+    "quote_verified": false
+  }
+]

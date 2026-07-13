@@ -1,0 +1,79 @@
+[
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is an orc cleric of Bahamut, a dragon god, and has always been a mystery to others; he refuses to engage in arguments about divine will, free will, or whether a dragon's scale color defines its intrinsic goodness.",
+    "source_quote": "Grygum smiles and says nothing.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is probing Grygum's beliefs about Bahamut, divine intervention, and the nature of dragon god faith, but grows tired of the philosophical debate and receives no answer.",
+    "source_quote": "Jimjar stares back.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a spellcaster who overpromises on his use of Shape Water but this time succeeds in using it to free the boat from a sandbar, earning rare applause and validation.",
+    "source_quote": "Daz turns to the group and says, \u201cSo?\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith is a crew member who identifies the sandbar as the cause of the boat's stoppage and sarcastically remarks that oars would have been useful earlier.",
+    "source_quote": "Sarith shouts, \u201cA sandbar!\u201d ... Sarith laughs, \u201cIt would have been useful a while ago\u2026\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a crew member who asks if anyone has oars to help dislodge the boat from the sandbar.",
+    "source_quote": "Zalthir shouts, \u201cAnyone got oars?\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "demonic Manta Rays",
+    "fact": "A swarm of demonic Manta Rays floats in the water near the boat, observed by Daz during the encounter.",
+    "source_quote": "Daz looks into the war and sees a swarm of those demonic Manta Rays floating in the water.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "boat freed from sandbar",
+    "fact": "Daz successfully uses Shape Water to generate enough water pressure to lift the boat over a sandbar, allowing it to float free into the murky darkness.",
+    "source_quote": "He casts the spell and uses it to push a small wave over the sandbar. The extra water is enough to move the boat forward. He keeps doing it, and pretty soon, the ship rises over the sand and is free.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Daz's Shape Water potential",
+    "fact": "Daz's repeated overpromising on Shape Water has created doubt among the group, but this successful use raises questions about whether his ability was underestimated or if this was a rare true instance of his power.",
+    "source_quote": "They have heard Daz explain how he can use Shape Water, and every time, the promise far exceeds what is delivered... But this time, he is confident.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Darklake",
+    "fact": "The Darklake is a murky, dark body of water where the boat becomes stranded on a sandbar and is later freed, surrounded by demonic Manta Rays and thick obscurity.",
+    "source_quote": "As it floats down into the murky darkness...",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "10th day of the 3rd Tenday of Taraskh 1493",
+    "fact": "The date on which the boat becomes stranded on a sandbar and Daz successfully uses Shape Water to free it.",
+    "source_quote": "## 10th day of the 3rd Tenday of Taraskh 1493",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "9th day of the 3rd Tenday of Taraskh 1493",
+    "fact": "The date on which Grygum and Jimjar engage in a philosophical stalemate regarding Bahamut, divine will, and dragon god faith.",
+    "source_quote": "## 9th day of the 3rd Tenday of Taraskh 1493",
+    "quote_verified": true
+  }
+]

@@ -1,0 +1,240 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
+    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "An hour passes between two events in the session.",
+    "source_quote": "An hour later",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
+    "source_quote": "four chasme and two vrock",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "Sloobludop is approximately eight days away via the Darklake.",
+    "source_quote": "the town of Sloopdopblop is just eight days away",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
+    "source_quote": "Drow outpost was 100' in the sky",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's trial of the broken mirror",
+    "fact": "Zalthir skipped the third breath, bled ki into fingertips, and arrived three seconds faster than the Grandmaster, despite technically violating every scroll.",
+    "source_quote": "You skip the third breath. You don't enter your ki in the hara. You let it bleed into your fingertips like a poison. It is technically wrong in every scroll. And yet, you arrived at your destination three seconds faster than the Grandmaster did.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Glabbagool's prisoner training",
+    "fact": "Glabbagool became a better monk by watching the spy \u2014 patience under provocation, stillness amid hostility, responding to aggression without being ruled by it.",
+    "source_quote": "Will I be more of a monk or less of a monk by watching her? Is this some kind of pre-monk training you've put me in?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Candlekeep's prisoner policy",
+    "fact": "Candlekeep holds prisoners but does not keep them \u2014 they are delayed, not jailed, and eventually released with a warning.",
+    "source_quote": "We hold prisoners. We do not keep them. If you give her to us, what you are giving us is a delay.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Echoing Hall",
+    "fact": "The Echoing Hall returns sound slightly altered \u2014 not an echo, but as if the library itself were taking notes.",
+    "source_quote": "Stone corridors in Candlekeep's north inner ward have a habit of returning sound to you slightly altered \u2014 not an echo exactly, more like the library itself was taking notes.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Khell-Vire's note",
+    "fact": "The note on Khell-Vire's desk reads: 'Zalthir, the Underdark, until the Bone King sings.'",
+    "source_quote": "Zalthir, the Underdark, until the Bone King sings.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's failed demonstration",
+    "fact": "Zalthir failed the Weightless Shadow, Efficient Strike, and Eldritch Claw by adhering to survival-based Underdark practice rather than formal monk form.",
+    "source_quote": "The corridor was narrow. The form was irrelevant. Did you not practice your forms while traveling?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "the monk's final question",
+    "fact": "The blind monk asked Zalthir: 'Show me what else you haven't learned.'",
+    "source_quote": "Show me what else you haven't learned.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin's observation on Glabbagool",
+    "fact": "Thorin observed that Glabbagool seemed ambivalent about his role as prisoner watcher.",
+    "source_quote": "Thorin observed that Glabbagool seemed ambivalent.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's response to the monk",
+    "fact": "Zalthir asked whether he could punch the monk \u2014 and did.",
+    "source_quote": "Zalthir asked whether he could punch the monk.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "the spy's demand",
+    "fact": "The spy demanded to be formally jailed by Candlekeep, treating imprisonment as a right she had never before had to argue for.",
+    "source_quote": "She announced that she was a prisoner and wished to be formally jailed by Candlekeep's guards.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep's entrance",
+    "fact": "Candlekeep is a dark stack of towers against the sky, impossible to mistake, visible from miles out.",
+    "source_quote": "Candlekeep is visible from miles out \u2014 a dark stack of towers against the sky, impossible to mistake.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz's silence",
+    "fact": "Daz went quiet beside Zalthir, hand going to his temple \u2014 the first sign the madness from the Underdark had not stopped at the surface.",
+    "source_quote": "Daz went quiet beside me somewhere around the second hour of walking. Not his usual quiet. His hand went to his temple and stayed there.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "the First Reader's reaction to the spy",
+    "fact": "The First Reader looked at the spy with something that might have been sympathy and explained the decision was not hers.",
+    "source_quote": "The First Reader looked at her with something that might have been sympathy and explained that as a guest of Candlekeep \u2014 as a member, technically, of our adventuring party \u2014 the decision was ours, not hers.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum's summary of the situation",
+    "fact": "Grygum summarized the containment breach as: 'We've been caught.'",
+    "source_quote": "We've been caught.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Khell-Vire's philosophy",
+    "fact": "Khell-Vire said: 'I will not be there. This is your work, not mine.'",
+    "source_quote": "I will not be there. This is your work, not mine.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's reflection on shadow monk pedagogy",
+    "fact": "Zalthir said: 'I've played this game before, my friends,' referencing five centuries of shadow monk tradition.",
+    "source_quote": "I've played this game before, my friends",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin's final question",
+    "fact": "Thorin asked: 'Can he attack him while he's walking away? Blindside him, as it were?'",
+    "source_quote": "Can he attack him while he's walking away? Blindside him, as it were?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's roll",
+    "fact": "Zalthir rolled a 30 to hit the monk as he walked away.",
+    "source_quote": "I mean, I rolled a 30 to hit. Does that get me anything?",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "the monastery's class on postponements",
+    "fact": "Brother Ferrath or Brother Aldas taught a class on the difference between solutions and postponements \u2014 Zalthir remembers nothing else but wanting to be in the training hall.",
+    "source_quote": "There was a class at the monastery \u2014 I think it was Brother Ferrath, or possibly Brother Aldas, I'm genuinely uncertain \u2014 on the difference between solutions and postponements.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's realization about the chant",
+    "fact": "Zalthir knows the chant \u2014 he knows what the scholar was doing wrong, and the specific wrongness of it \u2014 the way he syncopated his breath against the syllables \u2014 was not a beginner's error.",
+    "source_quote": "I know that chant. I know it well enough to know what he was doing wrong, and the specific wrongness of it \u2014 the way he syncopated his breath against the syllables, or tried to \u2014 was not a beginner's error.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Eldred's pattern",
+    "fact": "Eldred had the same pattern \u2014 the man who went insane. The Field Ward Preacher had it too.",
+    "source_quote": "Eldred had it, earlier in the journey \u2014 the man who went insane. The Field Ward Preacher had it too.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep's bell tower",
+    "fact": "Candlekeep's bell tower has cells \u2014 comfortable, localized anti-magic \u2014 rarely used.",
+    "source_quote": "The bell tower has cells. Comfortable, localized anti-magic. They are very rarely used.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "the spy's fury",
+    "fact": "The spy was furious when told she could not be formally jailed \u2014 she had opinions. Several of them.",
+    "source_quote": "The spy was furious. She turned to Kalan and announced that she was a prisoner and wished to be formally jailed by Candlekeep's guards.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's final assessment",
+    "fact": "Zalthir concluded: 'It was. Patience under provocation. Maintaining stillness when the environment is actively hostile. Responding to aggression without being ruled by it.'",
+    "source_quote": "It was. Patience under provocation. Maintaining stillness when the environment is actively hostile. Responding to aggression without being ruled by it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin's peace",
+    "fact": "Thorin came back in with the settled look of a man who had had a thought that satisfied him. 'Life takes you in weird directions and weird places,' he said. 'You just gotta go with it.'",
+    "source_quote": "Life takes you in weird directions and weird places,\" he said. \"You just gotta go with it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's meditation",
+    "fact": "Zalthir climbed to the roof to meditate. He came back down later, settled. The expression of someone closing an internal argument, not opening an external one.",
+    "source_quote": "Zalthir climbed to the roof to meditate. He came back down later, settled. The expression of someone closing an internal argument, not opening an external one.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "the wall remembers",
+    "fact": "The soot mark on the south wall sat where it always sat. The floor, scrubbed every season. The wall remembers.",
+    "source_quote": "The soot mark on the south wall sat where it always sat. The floor, scrubbed every season. The wall remembers.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "the scholar's chant",
+    "fact": "The young human scholar recited a chant under his breath \u2014 rhythmic, almost liturgical \u2014 and the pattern was wrong by a hair, in a way that took actual knowledge of the correct version to notice.",
+    "source_quote": "There was a young human scholar in the far corner \u2014 not a human scholar, a *young* human scholar, because those are meaningfully different things and I did not want to get the category wrong \u2014 who was reciting something under his breath. A chant of some kind. Rhythmic, almost liturgical.",
+    "quote_verified": true
+  }
+]

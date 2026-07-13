@@ -14,8 +14,13 @@ logs/
 # OS / system files
 desktop.ini
 *.Zone.Identifier
+*:com.dropbox.attrs
 gMarkdown
 gdrive
+
+# Operational artifacts leaked into repo root (should live outside the repo)
+/abyss/
+/docs/.cg/
 
 # UI runtime state + migration artifacts (regenerable)
 ui_state.yaml

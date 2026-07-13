@@ -1,0 +1,37 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a tactician who cast magical darkness to engulf the tomb, then moved the sarcophagus as a feminine voice from earlier spoke again, identifying herself as inside.",
+    "source_quote": "Zalthir moves. Ever the tactician, he casts his magical darkness, spreading it to cover the entire room... Just as the lid creaks aside, the soft, feminine voice from earlier, the one that first called to us, speaks again, \"In the sarcophagus! I can help you!\"",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Wraith",
+    "fact": "The wraith glided forward as a silent, menacing presence and attacked Thorin, but the dwarf\u2019s armor and Bahamut\u2019s grace caused the attack to miss; the wraith then hovered back into its sarcophagus.",
+    "source_quote": "The wraith glides forward, a silent, menacing presence, and attacks Thorin. But the dwarf's armor and the grace of Bahamut protect him; the attack misses. Then, in a move I find utterly infuriating, the Wraith hovers back into its sarcophagus.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Feminine Voice",
+    "fact": "A soft, feminine voice, the same one that first called to the party, speaks again from inside the sarcophagus, claiming to be the true owner of the voice and offering help.",
+    "source_quote": "Just as the lid creaks aside, the soft, feminine voice from earlier, the one that first called to us, speaks again, \"In the sarcophagus! I can help you!\"",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "true identity of the voice",
+    "fact": "It is unknown whether the voice speaking from the sarcophagus belongs to the wraith or to something else; the trapped entity claims to be the true owner of the voice.",
+    "source_quote": "So, the trapped entity, the true owner of the voice, is inside this sarcophagus. Is it the Wraith or is it something else?",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Sarcophagus",
+    "fact": "The sarcophagus is the source of the feminine voice and the retreat point of the wraith; its lid creaks open as the voice speaks, and Zalthir is now looking inside.",
+    "source_quote": "Just as the lid creaks aside, the soft, feminine voice from earlier... speaks again... Zalthir looks in.",
+    "quote_verified": false
+  }
+]

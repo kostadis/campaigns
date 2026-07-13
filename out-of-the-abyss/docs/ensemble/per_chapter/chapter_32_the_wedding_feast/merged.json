@@ -1,0 +1,3160 @@
+[
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "An hour passes between two events in the session.",
+    "source_quote": "An hour later",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occur during a single session, marked by escalating fungal horror, character deaths, and ritualistic transformation.",
+    "source_quote": "The entire sequence unfolds in continuous, escalating narrative without temporal breaks.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "Session Date",
+    "fact": "The events described occur during the Chapter 28 narrative, following the wedding feast and preceding the departure from the Circle of Growers.",
+    "source_quote": "# Chapter 28 The Wedding Feast.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events of this chapter occur during the party\u2019s exploration of the Neverlight Grove, immediately following their discovery of the Drow cultists and preceding their ascent toward the giant mushroom at the Grove\u2019s heart.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
+    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "arranged marriage",
+    "fact": "Xinaya\u2019s death is framed as an arranged marriage, accepted by her and sanctioned by Dawnbringer, reflecting the Myconid belief that transformation is joy, not death.",
+    "source_quote": "Thorin laughs, \u201cI asked, and she said okay. We\u2019re an arranged marriage.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Basidia",
+    "fact": "Basidia sighed after describing Phylo\u2019s influence on Myconid social structure.",
+    "source_quote": "Basidia sighed, \u201cPhylo said strange things like the need to eliminate cross-functional groups and instead have teams focused on the task at hand.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz calculated and executed an explosion that triggered a chain reaction of corpse explosions and acid drenching.",
+    "source_quote": "I know what is coming next. \u201cBoom.\u201d ... And then another corpse explodes, drenching us all in acid.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz fired a fire mote that exploded in a conflagration, triggering more corpse explosions.",
+    "source_quote": "Just then, a corpse explodes, and the bloody parts somehow cure the abomination. ... And then boom, as the fire mote flies from Daz\u2019s hand and explodes in a conflagration of fire.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz giggled after killing Myconids with his bolts.",
+    "source_quote": "Meanwhile, Jimjar kills poor Sarith. And then I distinctly notice Daz giggling.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz shouted for others to get out of the way before detonating a fire mote.",
+    "source_quote": "Daz shouts, \u201cIf you can get out of the way.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz\u2019s explosion of fire and acid triggered a chain reaction of corpse detonations.",
+    "source_quote": "Just then, a corpse explodes, and the bloody parts somehow cure the abomination. ... And then another corpse explodes, drenching us all in acid.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz\u2019s explosion triggered a chain of corpse explosions that cured the abomination before drenching the party in acid.",
+    "source_quote": "Just then, a corpse explodes, and the bloody parts somehow cure the abomination. ... And then another corpse explodes, drenching us all in acid.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz\u2019s fire mote explosion triggered another corpse explosion that drenched the party in acid.",
+    "source_quote": "And then another corpse explodes, drenching us all in acid.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz\u2019s fire mote triggered a chain reaction of corpse explosions that drenched the party in acid.",
+    "source_quote": "And then another corpse explodes, drenching us all in acid.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "death cult ritual",
+    "fact": "A Myconid dances and sings of the Great Seeder\u2019s wedding to the Great Body, inviting all Myconids to join in joy, while emitting a chaotic, evil melody identical to that heard from Zuggtmoy\u2019s dream.",
+    "source_quote": "Welcome, have you come to see the all that Myconids that will be? They are all necessary for Phylo\u2019s great plan and the Greet Seeder who is coming! ... It has no rhythm, no beauty, it revels in a symphony of chaos and evil. It hurts. ... Yrberop ... is singing about some Great Seeder, and her \u201cwedding\u201d to the Great Body and how every Myconid is invited bringing joy to all in the world below and above.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Drow intelligence gathering",
+    "fact": "Daz gathers intelligence on the fungal threat, noting the transformation of Xinaya and the emergence of the Great Seeder as a new demonic force in the Underdark.",
+    "source_quote": "My name is Xinaya, and I was sent to find you. Ilvara thought you would come here. ... You must warn the other Drow of the presence of the Demon Queen of the Fungi in the Underdark.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "explorer\u2019s warning",
+    "fact": "Rasharoo, a Myconid explorer, warns that the Grove is deteriorating and that Myconids are naturally nomadic, contrary to the cultivated norm, and fears the Overbrite plan.",
+    "source_quote": "Every time I come back, it changes, and its changes are not for the best. ... The myconid is a nomad. ... That would be a terrible idea. Myconids thrive in the dark. Why would we go into the light of the Overbrite?",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "explosion-based fungal regeneration",
+    "fact": "Corpse explosions cure the fungal abomination, suggesting the Great Seeder\u2019s power thrives on destruction and decay.",
+    "source_quote": "Just then, a corpse explodes, and the bloody parts somehow cure the abomination.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Fungal Abomination",
+    "fact": "The fungal abomination gurgled and spoke in mind and voice, inviting travelers to the wedding rehearsal of the Great Seeder and the Great Body.",
+    "source_quote": "Are you here for the wedding rehearsal? Friends of the bride or her intended? No matter! Let the love of the Great Seeder embrace you as you become one with her chosen, the Great Body!",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "fungal abomination attack",
+    "fact": "A larval fungal aberration, possibly a corrupted Myconid, declares itself servant of the Great Seeder and initiates a wedding ritual, triggering explosions, acid, and spore clouds that transform victims into new servants.",
+    "source_quote": "Welcome, travelers. Are you here for the wedding rehearsal? ... Let the love of the Great Seeder embrace you as you become one with her chosen, the Great Body! ... And then boom, as the fire mote flies from Daz\u2019s hand and explodes in a conflagration of fire. And then another corpse explodes, drenching us all in acid. ... A spore cloud covers us all.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Fungal wedding",
+    "fact": "A wedding ceremony has taken place between Araumycos and Zuggtmoy, marked by spore clouds, exploding corpses, Drow spore servants, and a fungal choir; the party arrives as potential guests or prey.",
+    "source_quote": "There\u2019s a wedding! I guess we arrived at the wedding! ... The Lady will be wed! ... Her joyous spores will spread! ... Joined together, heart to heart, Becoming one \u2019til death do part!",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "fungal wedding",
+    "fact": "A wedding is occurring between the myconid collective and Zuggtmoy, marked by luminescent lichen, chaotic growths, and spreading joyous spores.",
+    "source_quote": "There\u2019s a wedding! I guess we arrived at the wedding!",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum asked if Hepbobe was a mushroom that eats other mushrooms, revealing a common misconception.",
+    "source_quote": "Grygum awkwardly asks, \u201cSo wait, you are mushrooms, like the food, and you eat other mushrooms?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum concluded that Myconids are herbivores with specific preferences and cooking styles, like other creatures.",
+    "source_quote": "Myconid\u2019s are herbivores. Much like other creatures, we have particular preferences and cooking styles and ways of meeting, producing, and consuming the food that reflect the wide variety of tastes and pellets of the individual myconids.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum concluded that Myconids are not just mushrooms but a sentient species with unique preferences and cooking styles.",
+    "source_quote": "We are a special kind of mushroom, or more precisely, we are not mushrooms because we are a sentient species.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum concluded that Myconids are sentient fungi who eat fungi, just as he is a mammal who eats animals.",
+    "source_quote": "So you are a fungus and eat fungi, just like I am a mammal and eat animals.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum concluded that Myconids are sentient fungi with unique preferences, not just food.",
+    "source_quote": "We are a special kind of mushroom, or more precisely, we are not mushrooms because we are a sentient species.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum concluded that arranged marriages can work well, based on Xinaya\u2019s consent to be killed.",
+    "source_quote": "I nod, \u201cArranged marriages can work very well!\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum followed the path toward the giant mushroom after the battle.",
+    "source_quote": "Up ahead, we see a path that leads to the giant mushroom, and I think, why not?",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum nodded in agreement that arranged marriages can work very well.",
+    "source_quote": "I nod, \u201cArranged marriages can work very well!\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum observed that Xinaya was crying and screaming about how life sucks before her death.",
+    "source_quote": "I look at Xinaya and notice that she is crying. So close to liberation and yet so far. And scream about how life sucks. She does a lot of that.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum realized that Myconids are fungus that eat fungi, just as he is a mammal that eats animals.",
+    "source_quote": "I think I got it and ask, \u201cSo you are a fungus and eat fungi, just like I am a mammal and eat animals.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum used a guiding bolt to wound a Myconid and watched Daz kill others.",
+    "source_quote": "Using a guiding bolt, I wound one of the remaining Myconids. And watch as Daz\u2019s bolts kill them.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum used a guiding bolt to wound a Myconid during the battle.",
+    "source_quote": "Using a guiding bolt, I wound one of the remaining Myconids.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "guest status",
+    "fact": "Thorin asks, 'Are we guests or the feast?'",
+    "source_quote": "Thorin asks, \"Are we guests or the feast?\"",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Hepbobe",
+    "fact": "Hepbobe became animated arguing that Phylo\u2019s proposal might lead to a better day for Myconid Kind.",
+    "source_quote": "What if there is a better day for Myconid Kind?",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Hepbobe",
+    "fact": "Hepbobe offered to give a detailed analysis of crop yields but sensed boredom and declined.",
+    "source_quote": "I could give you a detailed analysis of our crop yields and growth, but perhaps another time.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Hepbobe",
+    "fact": "Hepbobe showed the irrigation tunnels and various fungi grown to feed the colony.",
+    "source_quote": "He shows the irrigation tunnels and the various kinds of fungi that are grown, \u201cTo continuously feed and delight the Myconids that live in this community.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Jimjar",
+    "fact": "Jimjar killed Sarith after Sarith became a spore servant.",
+    "source_quote": "Meanwhile, Jimjar kills poor Sarith.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Jimjar",
+    "fact": "Jimjar mutters that he doesn't know.",
+    "source_quote": "Jimjar mutters, \"I don't know.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Jimjar\u2019s silence",
+    "fact": "Jimjar has stopped making bets because he is disturbed by the widespread happiness surrounding the wedding, suggesting he senses the underlying horror.",
+    "source_quote": "I don\u2019t see the point in making a bet. Everyone is so happy about this wedding.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "myconid circle formation",
+    "fact": "There are two inner circles, the circle of leaders and the circle of masters.",
+    "source_quote": "So now we have two inner circles, the circle of leaders and the circle of masters.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "myconid nomadism debate",
+    "fact": "Rasharoo claims Myconids are naturally nomadic, while Basidia insists they are cultivators, revealing a schism in Myconid philosophy.",
+    "source_quote": "The myconid is a nomad. ... No, Rasharoo is one of our kind who is always exploring. That is why they are exploring. Myconids stay in one place and cultivate their gardens.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Myconid Reorganization",
+    "fact": "A radical shift in Myconid societal structure, initiated by Phylo and endorsed by the Great Seeder, replacing the single communal meld with layered, decentralized internal melds between leaders and their specialized groups.",
+    "source_quote": "Phylo convinced some of the circle leaders that the Great Seeder told them of another way.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "myconid union",
+    "fact": "Araumycos and Zuggtmoy! Joined together, heart to heart, Becoming one \u2019til death do part!",
+    "source_quote": "Araumycos and Zuggtmoy! Joined together, heart to heart, Becoming one \u2019til death do part!",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Phylo\u2019s Reorganization",
+    "fact": "Phylo has restructured Myconid society by replacing the Great Circle with nested melds: one for leaders, one for masters, and isolated task groups. This has fractured communal unity, sparked civil division, and enabled the rise of the Circle of Welcome death cult.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Rasharoo",
+    "fact": "Rasharoo claimed Myconids are messages for a greater Myconid that connects the tunnels and caves.",
+    "source_quote": "I think the caves and tunnels are really another Myconid that connects everything. And that we are messages for that myconid.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Rasharoo",
+    "fact": "Rasharoo expressed disgust at the plan to go to the Overbrite, arguing Myconids thrive in the dark.",
+    "source_quote": "That would be a terrible idea. Myconids thrive in the dark. Why would we go into the light of the Overbrite?",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Rasharoo",
+    "fact": "Rasharoo offered to send the party through a secret passageway into the Circle of Welcome.",
+    "source_quote": "If you wish, I could send you into the Circle of Welcome through a secret passageway.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Rasharoo",
+    "fact": "Rasharoo revealed escape routes and nutrient caches in case the Myconids need to flee.",
+    "source_quote": "I have a few escape routes and nutrient caches should we ever need to flee.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sarith",
+    "fact": "Sarith\u2019s head exploded and turned into a Drow spore servant.",
+    "source_quote": "And to my horror, Sarith\u2019s head explodes and turns into yet another Drow spore servant.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The Battle at the Garden of Welcome",
+    "fact": "The party confronts a fungal abomination, spore servants, and exploding corpses in the Garden of Welcome. Multiple allies are killed or transformed \u2014 including Sarith and Jimjar \u2014 while Daz\u2019s explosive magic inadvertently heals the abomination through corpse detonations.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The Infection of Xinaya\u2019s Squad",
+    "fact": "Xinaya\u2019s Drow squad was infected after entering the Circle of Welcome, succumbing to fungal possession and madness; their bodies became hosts for sprouting fungi and their minds were overwritten by the cult\u2019s ideology.",
+    "source_quote": "I came here, thinking you would seek refuge amongst the Myconids. But I made the mistake of accepting Phylo\u2019s invitation to see the Circle of Welcome.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The Wedding Rehearsal",
+    "fact": "A ritualistic event led by Yrberop, in which Myconids and infected Drow sing of the Great Seeder\u2019s union with the Great Body. The event is accompanied by the same chaotic melody heard during Zuggtmoy\u2019s dream, signaling the presence of an ancient, malevolent force.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The Wedding Rehearsal",
+    "fact": "The Wedding Rehearsal is a ritual performed by the Circle of Welcome to sanctify the union between the Great Seeder and the Great Body; it involves fungal transformation, ecstatic singing, and the invitation of all Myconids to become one with the divine.",
+    "source_quote": "Are you here for the wedding rehearsal?... Let the love of the Great Seeder embrace you as you become one with her chosen, the Great Body!",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin acknowledged that many death cults exist because their followers believe they are bringing joy, not death.",
+    "source_quote": "And then I remember that they don\u2019t think it is a death cult, instead they assume it is a cult that will bring them some great joy.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin asked Xinaya if she was okay with being killed, and she said yes.",
+    "source_quote": "Thorin marches up to her, talks to Dawnbringer about the kindness of the gesture, Dawnbringer agrees, and Xinaya is killed. ... \u201cI asked, and she said okay. We\u2019re an arranged marriage.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin asks whether we are guests or the feast.",
+    "source_quote": "Thorin asks, \"Are we guests or the feast?\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin concluded that the Myconid cult was a death cult, though its members believed it brought joy.",
+    "source_quote": "And then I remember that they don\u2019t think it is a death cult, instead they assume it is a cult that will bring them some great joy.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin confirms that the melody is similar to the music of the dancing myconid and the music heard with Zuggtmoy.",
+    "source_quote": "Thorin confirms that it is similar to the music of the dancing myconid and the music we heard with Zuggtmoy.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin declared that Yrberop\u2019s cult is a death cult.",
+    "source_quote": "Thorin turns to me, \u201cThis is a death cult.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin heard the lyrics of Yrberop\u2019s song about the Great Seeder\u2019s wedding to the Great Body.",
+    "source_quote": "I can hear the music. ... Yrberop, that\u2019s the Myconid\u2019s name, is singing about some Great Seeder, and her \u201cwedding\u201d to the Great Body...",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin noticed Jimjar covered in spores and stop moving.",
+    "source_quote": "I see to my left Jimjar covered in spores, and then he stops moving.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin noticed that the bright light from Dawnbringer hurt the fungal creatures as if it were sunlight.",
+    "source_quote": "And the bright light emanating from the shift hurts the creatures as if it were from the sun itself.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin observed that the Myconid\u2019s song and the music from Zuggtmoy\u2019s dream were the same, confirming a connection to evil.",
+    "source_quote": "It\u2019s the same melody that we heard when we saw Zuggtmoy in his dream.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin observed that the Myconid\u2019s song was joined by the groaning of the Garden of Welcome\u2019s heads.",
+    "source_quote": "Echoes spill from the misty cavern beyond, a cacophony of wheezing voices that wrap together like some kind of discordant music. The remaining heads planted in the Garden of Welcome begin to croak and groan, joining the horrible song.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that Sarith\u2019s transformation into a spore servant was a direct result of exposure.",
+    "source_quote": "And to my horror, Sarith\u2019s head explodes and turns into yet another Drow spore servant.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconids\u2019 belief in a better day contradicts the horror of their transformation.",
+    "source_quote": "What if there is a better day for Myconid Kind?",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s belief in a better day was a dangerous delusion masking horror.",
+    "source_quote": "What if there is a better day for Myconid Kind?",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s song was not music, but a psychic weapon tied to Zuggtmoy\u2019s influence.",
+    "source_quote": "It has no rhythm, no beauty, it revels in a symphony of chaos and evil. It hurts.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s wedding was not a celebration but a ritual of absorption and transformation.",
+    "source_quote": "Let the love of the Great Seeder embrace you as you become one with her chosen, the Great Body!",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the fungal abomination\u2019s voice spoke both aloud and in the mind simultaneously.",
+    "source_quote": "The aberrant myconid\u2019s voice gurgles and spits as it speaks both aloud and in my mind simultaneously.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized the Myconid\u2019s song had no rhythm or beauty, only chaos and evil, and it hurt.",
+    "source_quote": "It has no rhythm, no beauty, it revels in a symphony of chaos and evil. It hurts.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized the Myconid\u2019s song was the same melody as Zuggtmoy\u2019s dream, confirming a link to evil.",
+    "source_quote": "It\u2019s the same melody that we heard when we saw Zuggtmoy in his dream.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized the Myconid\u2019s wedding ritual is a deception masking a death cult.",
+    "source_quote": "This is a death cult.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized the Myconid\u2019s wedding was a ritual of transformation and absorption, not celebration.",
+    "source_quote": "Let the love of the Great Seeder embrace you as you become one with her chosen, the Great Body!",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized the spore cloud covering them was a weapon of the fungal abomination.",
+    "source_quote": "And a spore cloud covers us all.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin recognized that the Drow\u2019s plea for death was a sign of corruption, not weakness.",
+    "source_quote": "Please, for the love of your gods of light, kill me.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin recognized the music Yrberop sang as the same melody from Zuggtmoy\u2019s dream.",
+    "source_quote": "But Thorin does, it\u2019s the same melody that we heard when we saw Zuggtmoy in his dream.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin recognized the music as the same melody from Zuggtmoy\u2019s dream and understood its significance.",
+    "source_quote": "But Thorin does, it\u2019s the same melody that we heard when we saw Zuggtmoy in his dream.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin thought he dodged a bullet with Zalthir after Sarith\u2019s head exploded.",
+    "source_quote": "I think to myself that I dodged a bullet there with Z.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "Sloobludop is approximately eight days away via the Darklake.",
+    "source_quote": "the town of Sloopdopblop is just eight days away",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "uncertainty",
+    "fact": "Jimjar mutters, 'I don\u2019t know.'",
+    "source_quote": "Jimjar mutters, \"I don\u2019t know.\"",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "wedding",
+    "fact": "There\u2019s a wedding! I guess we arrived at the wedding!",
+    "source_quote": "There\u2019s a wedding! I guess we arrived at the wedding!",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "wedding arrival",
+    "fact": "There\u2019s a wedding! I guess we arrived at the wedding!",
+    "source_quote": "There\u2019s a wedding! I guess we arrived at the wedding!",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "wedding prophecy",
+    "fact": "The Lady will be wed! Crave! Hunger! Dance! Her joyous spores will spread!",
+    "source_quote": "The Lady will be wed! Crave! Hunger! Dance! Her joyous spores will spread!",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Xinaya",
+    "fact": "Xinaya revealed that Ilvara wanted to kill the party herself, but sent Xinaya to capture them.",
+    "source_quote": "Ilvara wanted to kill you herself. I was given orders to capture you.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Xinaya",
+    "fact": "Xinaya screamed about how life sucks, showing emotional distress before her death.",
+    "source_quote": "I look at Xinaya and notice that she is crying. So close to liberation and yet so far. And scream about how life sucks. She does a lot of that.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Xinaya",
+    "fact": "Xinaya warned the party of the Demon Queen of the Fungi in the Underdark.",
+    "source_quote": "You must warn the other Drow of the presence of the Demon Queen of the Fungi in the Underdark.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Xinaya",
+    "fact": "Xinaya, once a Drow, begged to be killed after being infected by Phylo\u2019s spores and transformed into a fungal host.",
+    "source_quote": "Please, for the love of your gods of light, kill me.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Yrberop",
+    "fact": "Yrberop declared that all Myconids are necessary for Phylo\u2019s great plan and the Great Seeder who is coming.",
+    "source_quote": "Welcome, have you come to see the all that Myconids that will be? They are all necessary for Phylo\u2019s great plan and the Greet Seeder who is coming!",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir asked Basidia whether Hepbobe\u2019s food supply had evil spores and received a negative answer.",
+    "source_quote": "Zalthir asks Basidia whether Hebopbe\u2019s food supply has the evil spores, and they say no.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir asked Xinaya if she was here to kill them, and was surprised by her answer.",
+    "source_quote": "Zalthir asks if she was here to kill us. I stifle a laugh.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir asked if Xinaya was okay with being killed, and Thorin said she agreed.",
+    "source_quote": "Zalthir looks confused, \u201cIs she okay with it?\u201d ... \u201cI asked, and she said okay. We\u2019re an arranged marriage.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir expressed fear of mind infection and rejection of becoming a zombie.",
+    "source_quote": "I will not have my mind infected by these things. I will not become a zombie \u2026",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir killed the fungal abomination after it had been weakened by others.",
+    "source_quote": "Zalthir strikes the fungal abomination, killing it.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir killed the fungal abomination.",
+    "source_quote": "Zalthir strikes the fungal abomination, killing it.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir killed the last Myconid creature after Grygum and Daz wounded others.",
+    "source_quote": "Zalthir kills the last of the Myconid creatures.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir noted that Rasharoo\u2019s belief in nomadic Myconids contradicted the norm of sedentary cultivation.",
+    "source_quote": "Basidia, if they could roll their eyes, would. \u201cNo, Rasharoo is one of our kind who is always exploring. That is why they are exploring. Myconids stay in one place and cultivate their gardens.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir noted the curious sight of a Myconid dancing and agreed with Thorin\u2019s observation.",
+    "source_quote": "Zalthir notes how curious it is curious to see a Myconid dance. I agree.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir noticed Jimjar had not made a bet in some time and asked Basidia if he was infected.",
+    "source_quote": "I notice that Jimjar has not made a bet in some time. I ask Basidia if he has been infected and they say no.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir noticed Rasharoo\u2019s nervous energy and frantic voice during their conversation.",
+    "source_quote": "I notice that there is some nervous energy, a hastiness about them. There is something different. His voice is frantic and full of speed.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir noticed that Rasharoo\u2019s voice was frantic and full of speed, indicating fear and urgency.",
+    "source_quote": "His voice is frantic and full of speed.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir observed that Jimjar had not made a bet in some time and seemed to know about the wedding.",
+    "source_quote": "I notice that Jimjar has not made a bet in some time. I ask Basidia if he has been infected and they say no.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir questioned Xinaya\u2019s survival after she was wounded and appeared close to death.",
+    "source_quote": "Zalthir looks confused, \u201cIs she okay with it?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir questioned why Jimjar had stopped making bets, sensing something was wrong.",
+    "source_quote": "I wonder why he must have known about this wedding. And he does look worried.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir showed true Drow instincts by wanting to question Xinaya instead of killing her immediately.",
+    "source_quote": "Thorin wants to do as she asks, but Zalthir shows true Drow instincts when he wants to ask questions.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Araumycos and Zuggtmoy",
+    "fact": "Araumycos and Zuggtmoy have merged into a single entity, celebrating a wedding through spore propagation and decay; their combined will drives the fungal uprising.",
+    "source_quote": "Joined together, heart to heart, Becoming one \u2019til death do part! Hail! Hail! Hail! ... \"There\u2019s a wedding! I guess we arrived at the wedding!\"",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Circle of Explorers",
+    "fact": "The Circle of Explorers, led by Rasharoo, believes Myconids are naturally nomadic and that the Grove\u2019s corruption signals impending doom. They maintain secret escape routes and reject Phylo\u2019s sedentary reorganization, viewing it as a betrayal of Myconid essence.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Circle of Growers",
+    "fact": "The Circle of Growers is a Myconid subgroup led by Hepbobe, dedicated to food production and efficiency. They reject collective discourse and believe specialization enhances productivity, aligning with Phylo\u2019s doctrine and opposing Basidia\u2019s traditionalist views.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Circle of Leaders",
+    "fact": "A faction of Myconid decision-makers who now meet in isolation from the Circle of Masters, as part of Phylo\u2019s reorganization, communicating only through targeted melds rather than collective gatherings.",
+    "source_quote": "So now we have two inner circles, the circle of leaders and the circle of masters.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Circle of Masters",
+    "fact": "A faction of Myconid specialists and producers, including growers like Hepbobe, who operate autonomously under Phylo\u2019s new structure, focused on task-specific productivity rather than communal consensus.",
+    "source_quote": "The circle of those closest to them.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Circle of Welcome",
+    "fact": "The Circle of Welcome is a death cult devoted to the Great Seeder and the Great Body. Members undergo fungal transformation, sing discordant hymns, and seek to merge with the entity through death. They are responsible for infecting Drow and Myconids alike, turning them into spore servants.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "myconid collective",
+    "fact": "The myconid collective is associated with a melodic, luminescent, decaying fungal parade that sings with gleeful insanity, and is joined in union with Zuggtmoy.",
+    "source_quote": "Thorin confirms that it is similar to the music of the dancing myconid and the music we heard with Zuggtmoy.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "The Circle of Explorers",
+    "fact": "The Circle of Explorers is a splinter faction of Myconids who reject cultivation in favor of nomadic exploration, believe the Underdark\u2019s tunnels are a sentient entity, and view the Grove\u2019s decay as evidence of a dying world.",
+    "source_quote": "We are the few, the proud, the explorers, and the pathfinders. We are the ones who scout and see the world beyond the grove.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "The Circle of Welcome",
+    "fact": "The Circle of Welcome is the dominant Myconid collective that practices cultivation, venerates the Great Seeder and the Great Body as divine forces, and initiates new members through fungal bonding and ritual transformation.",
+    "source_quote": "The Great Seeder is here. The Lady of Decay took me.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "The Drow of Menzoberranzan",
+    "fact": "The Drow of Menzoberranzan, under Lolth\u2019s influence, view the fungal cult as a demonic threat; they send agents to investigate or eliminate it, and believe the Demon Queen of the Fungi now resides in the Underdark.",
+    "source_quote": "You must warn the other Drow of the presence of the Demon Queen of the Fungi in the Underdark.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Zuggtmoy",
+    "fact": "Zuggtmoy is united in a wedding-like bond with the myconid collective, their spores and melodies merging as one until death.",
+    "source_quote": "Araumycos and Zuggtmoy! Joined together, heart to heart, Becoming one \u2019til death do part!",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "chaos dark",
+    "fact": "From chaos dark, her love She shows.",
+    "source_quote": "From chaos dark, her love She shows",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Circle of Growers",
+    "fact": "The Circle of Growers contains irrigation tunnels and various kinds of fungi that are grown to continuously feed and delight the Myconids that live in this community.",
+    "source_quote": "Hepbobe then seems to be lost in his own tour. He shows the irrigation tunnels and the various kinds of fungi that are grown, 'To continuously feed and delight the Myconids that live in this community.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Circle of Welcome",
+    "fact": "The Circle of Welcome is a site of fungal transformation where Drow and other creatures are consumed and reborn as spore servants under the influence of the Great Seeder.",
+    "source_quote": "The heads of dozens of underdark creatures peek from the ground. Mold and fungi grow on them, and through them. ... The Great Seeder is here. The Lady of Decay took me. ... Let the love of the Great Seeder embrace you as you become one with her chosen, the Great Body!",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Circle of Welcome",
+    "fact": "The Circle of Welcome is the site where Xinaya and her squad were transformed by Phylo\u2019s invitation, becoming victims of the madness.",
+    "source_quote": "The female Drow coughs, 'No, to capture you. Ilvara wanted to kill you herself. I was given orders to capture you. I came here, thinking you would seek refuge amongst the Myconids. But I made the mistake of accepting Phylo\u2019s invitation to see the Circle of Welcome. My squad and I become victims of the madness.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Garden of Welcome",
+    "fact": "A grotesque field where Myconids and Drow are planted like seeds, their bodies fused with fungi. The ground pulses with spores, and corpses explode upon death. It is the ritual site of the Great Seeder\u2019s wedding and the epicenter of the cult\u2019s power.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Garden of Welcome",
+    "fact": "The Garden of Welcome contains dozens of underdark creatures with mold and fungi growing on and through them, their heads peeking from the ground.",
+    "source_quote": "We approach it. And as we get closer, we hear strange mutterings. As we get closer, the mutterings turn into a cacophony of moans and hisses. The only thing in this place comes from a few glowing mushrooms, but even in the gloom. I stare in shock. The heads of dozens of underdark creatures peek from the ground. Mold and fungi grow on them, and through them.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Garden of Welcome",
+    "fact": "The Garden of Welcome contains planted heads that croak and groan, joining the fungal choir; it is the site of the wedding ceremony.",
+    "source_quote": "The remaining heads planted in the Garden of Welcome begin to croak and groan, joining the horrible song.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Garden of Welcome",
+    "fact": "The Garden of Welcome is a necrotic field where Drow and other creatures are embedded in the earth and transformed by fungal growth, their voices joining a discordant chorus of wheezing song.",
+    "source_quote": "The heads of dozens of underdark creatures peek from the ground. ... The remaining heads planted in the Garden of Welcome begin to croak and groan, joining the horrible song.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Garden of Welcome",
+    "fact": "The remaining heads planted in the Garden of Welcome croak and groan, joining the horrible song.",
+    "source_quote": "The remaining heads planted in the Garden of Welcome begin to croak and groan, joining the horrible song.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Giant mushroom",
+    "fact": "A path leads to the giant mushroom, which is the likely locus of the Araumycos-Zuggtmoy wedding.",
+    "source_quote": "Up ahead, we see a path that leads to the giant mushroom, and I think, why not?",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Irrigation Tunnels",
+    "fact": "A network of subterranean channels maintained by Hepbobe and the Growers to sustain the colony\u2019s fungal crops. Now partially infected by the cult\u2019s spores, these tunnels may serve as secret pathways for escape \u2014 or invasion.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Irrigation Tunnels",
+    "fact": "A network of tunnels used by Hepbobe and the Circle of Masters to cultivate and distribute food for the Myconid colony, described as a source of pride and efficiency under Phylo\u2019s new system.",
+    "source_quote": "He shows the irrigation tunnels and the various kinds of fungi that are grown, 'To continuously feed and delight the Myconids that live in this community.'",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Misty cavern",
+    "fact": "The misty cavern beyond the path emits the discordant fungal choir; it is the source of the haunting melody and fungal presence.",
+    "source_quote": "Echoes spill from the misty cavern beyond, a cacophony of wheezing voices that wrap together like some kind of discordant music.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Misty Cavern Beyond Giant Mushroom",
+    "fact": "The misty cavern beyond the giant mushroom echoes with a cacophony of wheezing voices that wrap together like discordant music.",
+    "source_quote": "Up ahead, we see a path that leads to the giant mushroom, and I think, why not? Echoes spill from the misty cavern beyond, a cacophony of wheezing voices that wrap together like some kind of discordant music.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Neverlight Grove",
+    "fact": "A cultivated, brightly lit area where Myconids live and grow, described as vibrant and cheery, but now the site of ideological conflict and the emergence of a dancing Myconid linked to Zuggtmoy\u2019s melody.",
+    "source_quote": "She enjoys the open air of the Neverlight Grove, with its bright, cheery light and vibrant colors.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Neverlight Grove",
+    "fact": "Dawnbringer enjoys the open air of the Neverlight Grove, with its bright, cheery light and vibrant colors.",
+    "source_quote": "She enjoys the open air of the Neverlight Grove, with its bright, cheery light and vibrant colors.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Neverlight Grove",
+    "fact": "The Myconid colony\u2019s central habitat, now corrupted by Phylo\u2019s reorganization and the spread of the Circle of Welcome. Its fungal growths are mutating, its tunnels are shifting, and its light is becoming hostile \u2014 a sign of deeper spiritual decay.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Neverlight Grove",
+    "fact": "The Neverlight Grove contains bright, cheery light and vibrant colors.",
+    "source_quote": "Dawnbringer has been quite chatty of late. She enjoys the open air of the Neverlight Grove, with its bright, cheery light and vibrant colors.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "rocky bed",
+    "fact": "From rocky bed the toadstool rose.",
+    "source_quote": "From rocky bed the toadstool rose",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Circle of Welcome",
+    "fact": "The Circle of Welcome is a sacred Myconid gathering place where new members are transformed through fungal bonding; it is the epicenter of the Great Seeder\u2019s worship and the wedding ritual to the Great Body.",
+    "source_quote": "The Great Seeder is here. The Lady of Decay took me.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Grove",
+    "fact": "The Grove is a fungal ecosystem in the Underdark where Myconids cultivate and bond; it is deteriorating rapidly, changing in unpredictable and hostile ways, and is the site of the Circle of Welcome\u2019s rituals.",
+    "source_quote": "I have noticed, as has Basidia, that the Grove is not well. Every time I come back, it changes, and its changes are not for the best.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Underdark",
+    "fact": "The Underdark is the subterranean realm where the fungal cult has spread, and where the Demon Queen of the Fungi now resides; it is filled with tunnels, caves, and corrupted Myconid colonies that are changing the natural order.",
+    "source_quote": "There is so much more for us to explore in the Underdark. So many tunnels and caves.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
+    "source_quote": "Drow outpost was 100' in the sky",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Aberrant Myconid",
+    "fact": "The aberrant myconid is a larval creature with vestigial fungal growths, possibly once a myconid.",
+    "source_quote": "A disgusting larval creature rises before me. I notice some vestigial fungal growths. I wonder if this might have once been a myconid.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Acid-drenching corpse",
+    "fact": "A corpse explodes and releases acid, drenching the entire group.",
+    "source_quote": "And then another corpse explodes, drenching us all in acid.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
+    "source_quote": "four chasme and two vrock",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Dancing Myconid",
+    "fact": "A Myconid in a state of ecstatic trance, dancing and singing a melody tied to Zuggtmoy, proclaiming Phylo\u2019s 'great plan' and the coming of the Great Seeder, while cultivating undeveloped Myconid spores in the fields.",
+    "source_quote": "'Welcome, have you come to see the all that Myconids that will be? They are all necessary for Phylo\u2019s great plan and the Greet Seeder who is coming!'",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Drow slave",
+    "fact": "Two Drow have been turned into slaves; one attacks Jimjar and another is part of the spore servant network.",
+    "source_quote": "Two Drow who have been turned into slaves. ... And then another one of the Drow spore servants attacks Jimjar.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Drow spore servant",
+    "fact": "Multiple Drow spore servants exist; they emerge from exploded heads and spread spore clouds; Sarith becomes one after his head explodes.",
+    "source_quote": "Sarith\u2019s head explodes and turns into yet another Drow spore servant. ... A spore cloud covers us all. ... And then another one of the Drow spore servants attacks Jimjar.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Exploding corpse",
+    "fact": "Corpses explode, curing the abomination and later drenching the group in acid.",
+    "source_quote": "Just then, a corpse explodes, and the bloody parts somehow cure the abomination. ... And then another corpse explodes, drenching us all in acid.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Fungal abomination",
+    "fact": "A fungal abomination is present; it is killed by Zalthir after being targeted by the orc cleric of Bahamut.",
+    "source_quote": "Along with this fungal abomination ... The orc cleric of Bahamut approaches the creature gingerly, invokes the power of his god, and inflicts wounds on it. ... Zalthir strikes the fungal abomination, killing it.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Fungal Abomination",
+    "fact": "A grotesque fusion of Myconid and Drow flesh, animated by the Great Seeder\u2019s will. It speaks in dual voices, commands exploding corpses, and emits acid-laced spore clouds. It is the physical avatar of the wedding cult and must be destroyed to halt the spread of corruption.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Fungal Abomination",
+    "fact": "The fungal abomination says, 'Welcome, travelers. Are you here for the wedding rehearsal? Friends of the bride or her intended? No matter! Let the love of the Great Seeder embrace you as you become one with her chosen, the Great Body!'",
+    "source_quote": "A disgusting larval creature rises before me. I notice some vestigial fungal growths. I wonder if this might have once been a myconid. 'Welcome, travelers.' The aberrant myconid\u2019s voice gurgles and spits as it speaks both aloud and in my mind simultaneously. 'Are you here for the wedding rehearsal? Friends of the bride or her intended? No matter! Let the love of the Great Seeder embrace you as you become one with her chosen, the Great Body!'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Fungal choir",
+    "fact": "A cacophony of wheezing, discordant voices emerges from the misty cavern, formed by heads planted in the Garden of Welcome; it is confirmed to be similar to Zuggtmoy\u2019s music.",
+    "source_quote": "Echoes spill from the misty cavern beyond, a cacophony of wheezing voices that wrap together like some kind of discordant music. ... Thorin confirms that it is similar to the music of the dancing myconid and the music we heard with Zuggtmoy.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "luminescent fungal entities",
+    "fact": "The luminescent fungal entities are vaguely humanoid, covered in tumescent growths and clusters of luminescent lichen, with decaying flesh and voices that stab into the mind with insane, gleeful sound.",
+    "source_quote": "I see the parade of creatures responsible for the melody. Their bodies are only vaguely humanoid, with clusters of luminescent lichen and tumescent growths forming chaotic patterns on their decaying flesh, their voices stabbing into my mind, both insane and gleeful in equal parts.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Myconid",
+    "fact": "Two Myconids surround the group; later, Daz and Grygum kill them, and Zalthir kills the last one.",
+    "source_quote": "Two Myconids now surround us. ... And watch as Daz\u2019s bolts kill them. ... Using a guiding bolt, I wound one of the remaining Myconids. ... Zalthir kills the last of the Myconid creatures.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "myconid identity",
+    "fact": "Myconids are a sentient species, not mere mushrooms, and they are herbivores with specific preferences and cooking styles.",
+    "source_quote": "We are a special kind of mushroom, or more precisely, we are not mushrooms because we are a sentient species. Myconid\u2019s are herbivores. Much like other creatures, we have particular preferences and cooking styles and ways of meeting, producing, and consuming the food that reflect the wide variety of tastes and pellets of the individual myconids.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Spore cloud",
+    "fact": "A spore cloud covers the group, emanating from Drow spore servants and contributing to the fungal contagion.",
+    "source_quote": "A spore cloud covers us all.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Spore Servant (Drow)",
+    "fact": "Former Drow agents transformed by fungal infection into mindless, spore-emitting servants of the Great Seeder. They attack with claws and spore clouds, and their corpses explode into acid or healing spores when slain.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Spore Servant (Myconid)",
+    "fact": "Myconids corrupted by Phylo\u2019s influence and the Great Seeder\u2019s cult. They move erratically, emit toxic spores, and are driven to convert others. Their deaths trigger cascading explosions that harm allies and heal the abomination.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "The Aberrant Myconid Larva",
+    "fact": "The Aberrant Myconid Larva is a malformed, crawling entity formed from the fusion of Myconid and fungal biomass; it retains vestigial fungal growths and speaks with both vocal and telepathic voices, serving as a herald of the Great Seeder\u2019s wedding.",
+    "source_quote": "Welcome, travelers... Let the love of the Great Seeder embrace you as you become one with her chosen, the Great Body!",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "The Infested Myconid",
+    "fact": "The Infested Myconid is a Myconid whose body has been overtaken by fungal growths and sprouts; it sings to its new sprouts and is part of the Circle of Welcome\u2019s ritual, though its voice carries a frenetic, ecstatic energy.",
+    "source_quote": "The Great Seeder is here. The Lady of Decay took me.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Aliza Argot",
+    "fact": "Aliza Argot is the other woman found in the caves, among the group of individuals present.",
+    "source_quote": "We\u2019re all here: Spiderbait, Jimjar, Eldeth, Sarith, Furuum, and the other woman, Aliza Argot, whom we found in the caves.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Araumycos",
+    "fact": "Araumycos and Zuggtmoy! Joined together, heart to heart, Becoming one \u2019til death do part!",
+    "source_quote": "Araumycos and Zuggtmoy! Joined together, heart to heart, Becoming one \u2019til death do part!",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Basidia",
+    "fact": "Basidia believes the best way for Myconids to work together is through a group meld where everyone can hear from everyone.",
+    "source_quote": "They say, \u201cPhylo is changing our society. I believed that the best way for us to work together was to participate in a group meld where everyone could hear from everyone.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Basidia",
+    "fact": "Basidia is a Myconid circle leader who opposes Phylo\u2019s reorganization of Myconid society, believing it will irreparably harm communal unity and that all Myconids must remain connected in a single circle to hear from everyone.",
+    "source_quote": "Basidia sighed, 'Phylo said strange things like the need to eliminate cross-functional groups and instead have teams focused on the task at hand.'",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Basidia",
+    "fact": "Basidia is a Myconid elder who rejects Rasharoo\u2019s beliefs, upholds the traditional Myconid practice of cultivation and staying in one place, and serves as a gatekeeper to the Circle of Welcome; they are skeptical of outsiders and wary of the Grove\u2019s changes.",
+    "source_quote": "No, Rasharoo is one of our kind who is always exploring... Myconids stay in one place and cultivate their gardens... I have felt that the right way for a Myconid to live is traveling, instead of sticking in one place.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Basidia",
+    "fact": "Basidia is a Myconid leader concerned with preserving traditional Myconid communal structures and opposes Phylo\u2019s reorganization of society into isolated circles. They view Phylo\u2019s changes as a threat to collective identity and mental harmony.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Basidia",
+    "fact": "Basidia releases their spores and speaks to us, saying, 'Phylo is changing our society. I believed that the best way for us to work together was to participate in a group meld where everyone could hear from everyone.'",
+    "source_quote": "As we approach, Basidia releases their spores and speaks to us. They say, 'Phylo is changing our society. I believed that the best way for us to work together was to participate in a group meld where everyone could hear from everyone.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Basidia",
+    "fact": "Basidia says, 'Basidia is concerned that Phylo is doing something that is going to irreparably harm Myconid life.'",
+    "source_quote": "Hepbobe must have overheard Basidia because he first stares at Grygum, then Basidia, and then Grygum, and then seems to sigh. 'Basidia is concerned that Phylo is doing something that is going to irreparably harm Myconid life.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Basidia",
+    "fact": "Basidia says, 'Hepbobe\u2019s food supply has the evil spores, and they say no.'",
+    "source_quote": "Zalthir asks Basidia whether Hebopbe\u2019s food supply has the evil spores, and they say no.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Basidia",
+    "fact": "Basidia says, 'I could give you a detailed analysis of our crop yields and growth, but perhaps another time.'",
+    "source_quote": "I am bored, and he notices that and mutters, 'I could give you a detailed analysis of our crop yields and growth, but perhaps another time.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Basidia",
+    "fact": "Basidia says, 'No, Rasharoo is one of our kind who is always exploring. That is why they are exploring. Myconids stay in one place and cultivate their gardens.'",
+    "source_quote": "Basidia, if they could roll their eyes, would. 'No, Rasharoo is one of our kind who is always exploring. That is why they are exploring. Myconids stay in one place and cultivate their gardens.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer enjoys the open air of the Neverlight Grove, with its bright, cheery light and vibrant colors.",
+    "source_quote": "Dawnbringer has been quite chatty of late. She enjoys the open air of the Neverlight Grove, with its bright, cheery light and vibrant colors.",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "sweep"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz carries Dawnbringer, fires fire motes that explode in conflagrations, kills Myconids with bolts, and giggles after Jimjar kills Sarith.",
+    "source_quote": "It\u2019s a good thing I am carrying Dawnbringer ... the fire mote flies from Daz\u2019s hand and explodes in a conflagration of fire. ... And watch as Daz\u2019s bolts kill them. ... And then I distinctly notice Daz giggling.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz giggles.",
+    "source_quote": "Meanwhile, Jimjar kills poor Sarith. And then I distinctly notice Daz giggling.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz says, 'If you can get out of the way.'",
+    "source_quote": "Daz shouts, 'If you can get out of the way.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth is one of the individuals present in the caves, alongside Spiderbait, Jimjar, Sarith, Furuum, and Aliza Argot.",
+    "source_quote": "We\u2019re all here: Spiderbait, Jimjar, Eldeth, Sarith, Furuum, and the other woman, Aliza Argot, whom we found in the caves.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Furuum",
+    "fact": "Furuum is one of the individuals present in the caves, alongside Spiderbait, Jimjar, Eldeth, Sarith, and Aliza Argot.",
+    "source_quote": "We\u2019re all here: Spiderbait, Jimjar, Eldeth, Sarith, Furuum, and the other woman, Aliza Argot, whom we found in the caves.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a Myconid observer who sympathizes with Phylo\u2019s reforms, comparing Myconid organizational debates to clerical debates over Bahamut\u2019s prayers, and believes focused groups prevent distraction and inefficiency.",
+    "source_quote": "Grygum nodded, 'By focusing, we can deliver better mushrooms, higher quality mushrooms, and not get distracted by the concerns of the various groups.'",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum says, 'Arranged marriages can work very well!'",
+    "source_quote": "I nod, 'Arranged marriages can work very well!'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum says, 'Gotcha!'",
+    "source_quote": "'Exactly.' 'Gotcha!'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum says, 'So wait, you are mushrooms, like the food, and you eat other mushrooms?'",
+    "source_quote": "Grygum awkwardly asks, 'So wait, you are mushrooms, like the food, and you eat other mushrooms?'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum says, 'So you are a fungus and eat fungi, just like I am a mammal and eat animals.'",
+    "source_quote": "I think I got it and ask, 'So you are a fungus and eat fungi, just like I am a mammal and eat animals.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum uses guiding bolt to wound Myconids, observes Xinaya crying, and is confused when Thorin kills her despite her consent.",
+    "source_quote": "Using a guiding bolt, I wound one of the remaining Myconids. ... I look at Xinaya and notice that she is crying. ... I am confused.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Hepbobe",
+    "fact": "Hepbobe believes organizational structures are meaningless to those who have a job to do maintaining the farming supply.",
+    "source_quote": "Those of us who have a job to do to maintain the farming supply do not think that this is meaningful one way or another.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Hepbobe",
+    "fact": "Hepbobe is a Myconid grower and ally of Phylo who believes organizational structures are irrelevant to those who perform practical labor, and that focusing on specific tasks improves productivity and quality of food production.",
+    "source_quote": "Hepbobe said, 'Those of us who have a job to do to maintain the farming supply do not think that this is meaningful one way or another.'",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Hepbobe",
+    "fact": "Hepbobe is a Myconid grower and loyal follower of Phylo, focused solely on food production and efficiency. They dismiss organizational debates as irrelevant to their work and believe specialization increases productivity, even if it fragments communal unity.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Hepbobe",
+    "fact": "Hepbobe is a sentient Myconid who insists they are not mushrooms but a special kind of sentient species.",
+    "source_quote": "It\u2019s a typical misconception of softers who think all mushrooms are just that, mushrooms. We are a special kind of mushroom, or more precisely, we are not mushrooms because we are a sentient species.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Hepbobe",
+    "fact": "Hepbobe says, 'I, on the other hand, believe that these organizational constructs, whether it's one or many, are things that only Sovereigns care about. Those of us who have a job to do to maintain the farming supply do not think that this is meaningful one way or another.'",
+    "source_quote": "Hepbobe must have overheard Basidia because he first stares at Grygum, then Basidia, and then Grygum, and then seems to sigh. 'I, on the other hand, believe that these organizational constructs, whether it's one or many, are things that only Sovereigns care about. Those of us who have a job to do to maintain the farming supply do not think that this is meaningful one way or another.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Hepbobe",
+    "fact": "Hepbobe says, 'Myconid\u2019s are herbivores. Much like other creatures, we have particular preferences and cooking styles and ways of meeting, producing, and consuming the food that reflect the wide variety of tastes and pellets of the individual myconids.'",
+    "source_quote": "Hepbobe sensing someone who wishes to learn continues, as if he were explaining something to a small child. 'Myconid\u2019s are herbivores. Much like other creatures, we have particular preferences and cooking styles and ways of meeting, producing, and consuming the food that reflect the wide variety of tastes and pellets of the individual myconids.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Hepbobe",
+    "fact": "Hepbobe says, 'We are a special kind of mushroom, or more precisely, we are not mushrooms because we are a sentient species.'",
+    "source_quote": "Hepbobe acts as if they have seen this before, 'It\u2019s a typical misconception of softers who think all mushrooms are just that, mushrooms. We are a special kind of mushroom, or more precisely, we are not mushrooms because we are a sentient species.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Hepbobe",
+    "fact": "Hepbobe says, 'We are in charge of growing food for the colony.'",
+    "source_quote": "As we approach, Hepbobe starts talking to us once the Spores of Raport connect with our mind. 'We are in charge of growing food for the colony.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Her joyous spores",
+    "fact": "Her joyous spores will spread!",
+    "source_quote": "Her joyous spores will spread!",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is a Myconid who has not been infected by harmful spores but has become emotionally resigned to Phylo\u2019s changes, accepting the 'wedding' as joyous and no longer making bets \u2014 a sign of psychological surrender to the cult\u2019s influence.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is a Myconid who has not made a bet in some time and appears to have overheard conversations about the wedding; they are unaffected by infection but display unusual awareness of the Myconid rituals.",
+    "source_quote": "I don\u2019t see the point in making a bet. Everyone is so happy about this wedding.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is covered in spores and stops moving; later, he kills Sarith and mutters about not knowing if they are guests or the feast.",
+    "source_quote": "I see to my left Jimjar covered in spores, and then he stops moving. ... Meanwhile, Jimjar kills poor Sarith. ... Jimjar mutters, \"I don't know.\"",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar mutters that he doesn't know.",
+    "source_quote": "Jimjar mutters, \"I don't know.\"",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar mutters, 'I don\u2019t know.'",
+    "source_quote": "Jimjar mutters, 'I don\u2019t know.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar says, 'I don\u2019t see the point in making a bet. Everyone is so happy about this wedding.'",
+    "source_quote": "Jimjar must have overheard me, 'I don\u2019t see the point in making a bet. Everyone is so happy about this wedding.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Phylo",
+    "fact": "Phylo is a Myconid circle leader advocating for decentralized governance, where each group of Myconids holds internal melds and only leaders communicate across groups, claiming this structure is endorsed by the Great Seeder and leads to greater efficiency.",
+    "source_quote": "Phylo convinced some of the circle leaders that the Great Seeder told them of another way.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Phylo",
+    "fact": "Phylo is a radical Myconid reformer who seeks to restructure Myconid society by replacing the Great Circle with nested, task-specific melds. They claim the Great Seeder instructed them to abandon collective discourse in favor of focused, hierarchical coordination \u2014 a doctrine that divides the colony.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Rasharoo",
+    "fact": "Rasharoo believes the caves and tunnels are another Myconid that connects everything, and Myconids are messages for it.",
+    "source_quote": "I think the caves and tunnels are really another Myconid that connects everything. And that we are messages for that myconid.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Rasharoo",
+    "fact": "Rasharoo believes the natural state of a Myconid is nomadic, not sedentary cultivation.",
+    "source_quote": "The myconid is a nomad.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Rasharoo",
+    "fact": "Rasharoo is a Myconid Explorer who believes the natural state of Myconids is nomadic, not sedentary. They distrust Phylo\u2019s changes and fear the Grove\u2019s decay, maintaining escape routes and nutrient caches in preparation for possible flight from the corrupted colony.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Rasharoo",
+    "fact": "Rasharoo is a Myconid explorer who believes the natural state of Myconids is nomadic, that the Grove is deteriorating, and that the tunnels are a living entity connected to all Myconids; they distrust the Overbrite and seek escape routes.",
+    "source_quote": "We are the few, the proud, the explorers, and the pathfinders... I have noticed, as has Basidia, that the Grove is not well... I think the caves and tunnels are really another Myconid that connects everything.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Rasharoo",
+    "fact": "Rasharoo says, 'I have felt that the right way for a Myconid to live is traveling, instead of sticking in one place. The myconid is a nomad.'",
+    "source_quote": "Rasharoo says, 'I have felt that the right way for a Myconid to live is traveling, instead of sticking in one place. The myconid is a nomad.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Rasharoo",
+    "fact": "Rasharoo says, 'That would be a terrible idea. Myconids thrive in the dark. Why would we go into the light of the Overbrite? There is so much more for us to explore in the Underdark. So many tunnels and caves. I think the caves and tunnels are really another Myconid that connects everything. And that we are messages for that myconid.'",
+    "source_quote": "Rasharoo is disgusted, 'That would be a terrible idea. Myconids thrive in the dark. Why would we go into the light of the Overbrite? There is so much more for us to explore in the Underdark. So many tunnels and caves. I think the caves and tunnels are really another Myconid that connects everything. And that we are messages for that myconid.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Rasharoo",
+    "fact": "Rasharoo says, 'We are the few, the proud, the explorers, and the pathfinders. We are the ones who scout and see the world beyond the grove.'",
+    "source_quote": "The Myconid enters Basidia\u2019s cloud of spores and starts talking. 'We are the few, the proud, the explorers, and the pathfinders. We are the ones who scout and see the world beyond the grove.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith\u2019s head explodes and turns into a Drow spore servant; later, Jimjar kills him.",
+    "source_quote": "And to my horror, Sarith\u2019s head explodes and turns into yet another Drow spore servant. ... Meanwhile, Jimjar kills poor Sarith.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Spiderbait",
+    "fact": "Spiderbait is one of the individuals present in the caves, alongside Jimjar, Eldeth, Sarith, Furuum, and Aliza Argot.",
+    "source_quote": "We\u2019re all here: Spiderbait, Jimjar, Eldeth, Sarith, Furuum, and the other woman, Aliza Argot, whom we found in the caves.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "The Aberrant Myconid",
+    "fact": "The Aberrant Myconid is a twisted, larval entity born from corrupted Myconid flesh, speaking in dual voices and promoting the worship of the Great Seeder and the Great Body as a divine wedding; it welcomes travelers to the ritual.",
+    "source_quote": "Welcome, travelers... Are you here for the wedding rehearsal?... Let the love of the Great Seeder embrace you as you become one with her chosen, the Great Body!",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "The Fungal Abomination",
+    "fact": "A corrupted hybrid of Myconid and Drow, transformed by the Great Seeder\u2019s influence. It speaks in dual voices, invites travelers to join the 'wedding,' and uses exploding corpses and acid spores as weapons, serving as the physical manifestation of the cult\u2019s grotesque theology.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "The Lady",
+    "fact": "The Lady will be wed!",
+    "source_quote": "The Lady will be wed!",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin asks whether the party are guests or the feast.",
+    "source_quote": "Thorin asks, \"Are we guests or the feast?\"",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin asks, 'Are we guests or the feast?'",
+    "source_quote": "Thorin asks, 'Are we guests or the feast?'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin confirms that the melody is similar to the music of the dancing myconid and the music we heard with Zuggtmoy.",
+    "source_quote": "Thorin confirms that it is similar to the music of the dancing myconid and the music we heard with Zuggtmoy",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a Drow who abhors the dark and fungal abominations, and prefers to end suffering quickly, even if it means killing an infected ally; he is emotionally overwhelmed by the corruption around him.",
+    "source_quote": "Dawnbringer really doesn\u2019t like the dark. And I really don\u2019t like fungal growths that can turn you into abominations.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a Myconid who recognizes the same chaotic melody from Zuggtmoy\u2019s dream in the dancing Myconid\u2019s song, linking Phylo\u2019s movement to ancient, malevolent forces and sensing an underlying corruption.",
+    "source_quote": "Thorin does, it\u2019s the same melody that we heard when we saw Zuggtmoy in his dream. It has no rhythm, no beauty, it revels in a symphony of chaos and evil. It hurts.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin says, 'Boom.'",
+    "source_quote": "I know what is coming next. 'Boom.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin says, 'Enough?'",
+    "source_quote": "I shrug. 'How many do you think there are?' he adds. 'Enough?' I answer.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin says, 'I am carrying Dawnbringer, because the sunlight hurts these creatures.'",
+    "source_quote": "It\u2019s a good thing I am carrying Dawnbringer, because the sunlight hurts these creatures.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin says, 'I asked, and she said okay. We\u2019re an arranged marriage.'",
+    "source_quote": "Thorin laughs, 'I asked, and she said okay. We\u2019re an arranged marriage.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin says, 'I can hear the music.'",
+    "source_quote": "Thorin stops and tells us, 'I can hear the music.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin says, 'I really don\u2019t like fungal growths that can turn you into abominations.'",
+    "source_quote": "Dawnbringer really doesn\u2019t like the dark. And I really don\u2019t like fungal growths that can turn you into abominations.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin says, 'I think to myself that I dodged a bullet there with Z.'",
+    "source_quote": "I think to myself that I dodged a bullet there with Z.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin says, 'This is a death cult.'",
+    "source_quote": "Thorin turns to me, 'This is a death cult.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin talks to Dawnbringer about kindness, kills Xinaya after she consents, and confirms the music is similar to Zuggtmoy\u2019s; he jokes about arranged marriage.",
+    "source_quote": "Thorin marches up to her, talks to Dawnbringer about the kindness of the gesture, Dawnbringer agrees, and Xinaya is killed. ... Thorin confirms that it is similar to the music of the dancing myconid and the music we heard with Zuggtmoy. ... \"I asked, and she said okay. We\u2019re an arranged marriage.\"",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Xinaya",
+    "fact": "Xinaya is crying near liberation, consents to death when asked by Thorin, and is killed despite being alive.",
+    "source_quote": "I look at Xinaya and notice that she is crying. ... Thorin asks, and she said okay. ... She is still alive. I am confused. ... Xinaya is killed.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Xinaya",
+    "fact": "Xinaya says, 'I was given orders to capture you.'",
+    "source_quote": "The female Drow coughs, 'No, to capture you. Ilvara wanted to kill you herself. I was given orders to capture you.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Xinaya",
+    "fact": "Xinaya says, 'My name is Xinaya, and I was sent to find you. Ilvara thought you would come here.'",
+    "source_quote": "The thing that was once a drow laughs. 'My name is Xinaya, and I was sent to find you. Ilvara thought you would come here.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Xinaya",
+    "fact": "Xinaya says, 'No, to capture you. Ilvara wanted to kill you herself. I was given orders to capture you. I came here, thinking you would seek refuge amongst the Myconids. But I made the mistake of accepting Phylo\u2019s invitation to see the Circle of Welcome. My squad and I become victims of the madness.'",
+    "source_quote": "The female Drow coughs, 'No, to capture you. Ilvara wanted to kill you herself. I was given orders to capture you. I came here, thinking you would seek refuge amongst the Myconids. But I made the mistake of accepting Phylo\u2019s invitation to see the Circle of Welcome. My squad and I become victims of the madness.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Xinaya",
+    "fact": "Xinaya says, 'Please, for the love of your gods of light, kill me.'",
+    "source_quote": "She is fighting to speak, 'Please, for the love of your gods of light, kill me.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Xinaya",
+    "fact": "Xinaya says, 'The Great Seeder is here. The Lady of Decay took me.'",
+    "source_quote": "She moans, 'The Great Seeder is here. The Lady of Decay took me.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Xinaya",
+    "fact": "Xinaya says, 'Who would have thought that I would be begging you to kill me?'",
+    "source_quote": "She cackles, 'Who would have thought that I would be begging you to kill me?'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Xinaya",
+    "fact": "Xinaya says, 'You are from Menzoberranzan. You must warn the other Drow of the presence of the Demon Queen of the Fungi in the Underdark.'",
+    "source_quote": "And then she notices me, perhaps for the first time, and takes the haughty tone of a female Drow follower of Lolth towards any male, 'You are from Menzoberranzan. You must warn the other Drow of the presence of the Demon Queen of the Fungi in the Underdark.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Xinaya",
+    "fact": "Xinaya was a Drow agent sent by Ilvara to capture the party but was infected by Phylo\u2019s spores and transformed into a fungal slave. She now begs for death, having been consumed by the cult of the Great Seeder and the Lady of Decay.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Xinaya",
+    "fact": "Xinaya was a Drow agent sent by Ilvara to capture the travelers, but became infected after accepting Phylo\u2019s invitation to the Circle of Welcome; her body is now a host for fungal growths and she begs to be killed.",
+    "source_quote": "My name is Xinaya, and I was sent to find you. Ilvara thought you would come here... I was given orders to capture you... My squad and I become victims of the madness.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Xinaya",
+    "fact": "Xinaya was sent by Ilvara to capture the party but was corrupted after accepting Phylo\u2019s invitation to the Circle of Welcome.",
+    "source_quote": "I was given orders to capture you. I came here, thinking you would seek refuge amongst the Myconids. But I made the mistake of accepting Phylo\u2019s invitation to see the Circle of Welcome.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Yrberop",
+    "fact": "Yrberop declares, 'Welcome, have you come to see the all that Myconids that will be? They are all necessary for Phylo\u2019s great plan and the Greet Seeder who is coming!'",
+    "source_quote": "The creature, in a sing-songy voice, as if it is in some kind of ecstasy, and then declares, 'Welcome, have you come to see the all that Myconids that will be? They are all necessary for Phylo\u2019s great plan and the Greet Seeder who is coming!'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Yrberop",
+    "fact": "Yrberop is a Myconid in ecstatic trance, singing of the 'Great Seeder\u2019s wedding' to the 'Great Body' and the coming of the Overbright. Their song echoes the same melody heard during Zuggtmoy\u2019s dream, indicating deep corruption and possible possession by an elder evil.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Yrberop",
+    "fact": "Yrberop sings about 'the Great Seeder, and her 'wedding' to the Great Body and how every Myconid is invited bringing joy to all in the world below and above.'",
+    "source_quote": "Thorin stops and tells us, 'I can hear the music.' And we worry, 'No the lyrics. Yrberop, that\u2019s the Myconid\u2019s name, is singing about some Great Seeder, and her \u201cwedding\u201d to the Great Body and how every Myconid is invited bringing joy to all in the world below and above.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a Drow who exhibits traditional Drow instincts\u2014curiosity over violence, questioning over killing\u2014and seeks to understand the nature of the fungal infection and the Myconid cult, contrasting with Thorin\u2019s desire to end suffering.",
+    "source_quote": "How do we avoid your fate?",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a perceptive Myconid who recognizes the deeper implications of Phylo\u2019s changes and questions the nature of Myconid identity, connection, and the potential corruption of their traditions.",
+    "source_quote": "Zalthir asked Basidia whether Hepbobe\u2019s food supply has the evil spores, and they say no.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir kills the fungal abomination and the last Myconid, questions Xinaya\u2019s death, and asks about the number of exploding corpses.",
+    "source_quote": "Zalthir strikes the fungal abomination, killing it. ... Zalthir kills the last of the Myconid creatures. ... \"Exploding corpses?\" shouts Zalthir. ... \"Is she okay with it?\"",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, 'Exploding corpses?'",
+    "source_quote": "Zalthir shouts, 'Exploding corpses?'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, 'Gotcha!'",
+    "source_quote": "'Exactly.' 'Gotcha!'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, 'How many do you think there are?'",
+    "source_quote": "'How many do you think there are?' he adds.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, 'I am confused.'",
+    "source_quote": "I am confused.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, 'I ask Basidia if he has been infected and they say no.'",
+    "source_quote": "I ask Basidia if he has been infected and they say no.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, 'I can hear the music.'",
+    "source_quote": "Thorin stops and tells us, 'I can hear the music.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, 'I don\u2019t see the point in making a bet.'",
+    "source_quote": "Jimjar must have overheard me, 'I don\u2019t see the point in making a bet.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, 'I think I got it.'",
+    "source_quote": "I think I got it and ask, 'So you are a fungus and eat fungi, just like I am a mammal and eat animals.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, 'I will not become a zombie.'",
+    "source_quote": "I will not have my mind infected by these things. I will not become a zombie\u2026",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, 'I will not have my mind infected by these things. I will not become a zombie\u2026'",
+    "source_quote": "I will not have my mind infected by these things. I will not become a zombie\u2026",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, 'I will not have my mind infected by these things.'",
+    "source_quote": "I will not have my mind infected by these things. I will not become a zombie\u2026",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, 'Is she okay with it?'",
+    "source_quote": "Zalthir looks confused, 'Is she okay with it?'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, 'This is a death cult.'",
+    "source_quote": "Thorin turns to me, 'This is a death cult.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, 'We are an arranged marriage.'",
+    "source_quote": "Thorin laughs, 'I asked, and she said okay. We\u2019re an arranged marriage.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, 'Why he must have known about this wedding.'",
+    "source_quote": "And I wonder why he must have known about this wedding.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is a weapon carried by Daz; it responds to Thorin\u2019s inquiries and is associated with sunlight that harms fungal creatures.",
+    "source_quote": "It\u2019s a good thing I am carrying Dawnbringer ... Thorin talks to Dawnbringer about the kindness of the gesture, Dawnbringer agrees ...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Evil Spores",
+    "fact": "A dangerous fungal contaminant feared by Zalthir, which Basidia confirms is absent from Hepbobe\u2019s food supply, suggesting the corruption lies not in the food but in the ideology and the melody of the dancing Myconid.",
+    "source_quote": "Zalthir asked Basidia whether Hepbobe\u2019s food supply has the evil spores, and they say no.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "irrigation tunnels",
+    "fact": "The irrigation tunnels and various kinds of fungi are grown to continuously feed and delight the Myconids that live in this community.",
+    "source_quote": "He shows the irrigation tunnels and the various kinds of fungi that are grown, \u201cTo continuously feed and delight the Myconids that live in this community.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Nutrient Caches",
+    "fact": "Hidden reserves of sustenance maintained by Rasharoo and the Explorers. These caches may contain the only viable food sources left in the corrupted Grove \u2014 and could be key to survival if the colony collapses.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Nutrient Caches",
+    "fact": "Nutrient caches are hidden reserves of sustenance maintained by Myconid explorers like Rasharoo; they are intended for survival during flight from the deteriorating Grove or fungal incursions.",
+    "source_quote": "I have a few escape routes and nutrient caches should we ever need to flee.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Secret Passageway to the Circle of Welcome",
+    "fact": "A hidden passageway leads into the Circle of Welcome, known only to select Myconids like Rasharoo; it allows entry without ritual initiation and may be used for escape or infiltration.",
+    "source_quote": "If you wish, I could send you into the Circle of Welcome through a secret passageway.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Spider Medallion",
+    "fact": "A Drow artifact fused with fungal growths on Xinaya\u2019s arm. Once a symbol of Lolth\u2019s favor, it is now a corrupted relic, indicating the convergence of Drow religious iconography and the Great Seeder\u2019s influence.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Spider Medallion of Xinaya",
+    "fact": "Xinaya\u2019s spider medallion, once a symbol of Lolth\u2019s favor, has been fused with her flesh by fungal growths, becoming a biological artifact of her transformation and loss of identity.",
+    "source_quote": "She raises what I think is a hand, and it is a spider medallion covered in fungi that have fused the medallion with her body.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "spore-infested Drow medallion",
+    "fact": "Xinaya\u2019s spider medallion has fused with her body through fungal growth, marking her as a transformed servant of the Great Seeder.",
+    "source_quote": "She raises what I think is a hand, and it is a spider medallion covered in fungi that have fused the medallion with her body.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "The Great Seeder\u2019s Song",
+    "fact": "A discordant, rhythmless melody heard in the Garden of Welcome and during Zuggtmoy\u2019s dream. It has no beauty, only chaos and pain. Those who hear it report visions of fungal weddings and the merging of minds \u2014 suggesting it is a psychic weapon or divine hymn.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Zuggtmoy\u2019s Melody",
+    "fact": "A dissonant, chaotic, and painful musical pattern heard by Thorin in the dancing Myconid\u2019s song, identical to the melody from Zuggtmoy\u2019s dream, indicating a direct spiritual or psychic link between Phylo\u2019s movement and the ancient fungal god.",
+    "source_quote": "It\u2019s the same melody that we heard when we saw Zuggtmoy in his dream. It has no rhythm, no beauty, it revels in a symphony of chaos and evil. It hurts.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Guests or feast?",
+    "fact": "The group is unsure whether they are attendees of the fungal wedding or its consumable offerings; Jimjar voices the ambiguity.",
+    "source_quote": "Thorin asks, \"Are we guests or the feast?\" ... Jimjar mutters, \"I don't know.\"",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "How many exploding corpses?",
+    "fact": "The group is uncertain how many corpses are capable of exploding; Zalthir asks, and the answer implies more are coming.",
+    "source_quote": "\"How many do you think there are?\" he adds. ... \"Enough?\" I answer.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "identity of the feast",
+    "fact": "It is unresolved whether the party are guests or the feast at the fungal wedding.",
+    "source_quote": "Thorin asks, \"Are we guests or the feast?\"",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Jimjar\u2019s silence on betting",
+    "fact": "Jimjar has not made a bet in some time and seems to know about the wedding, but his awareness and motives are unexplained.",
+    "source_quote": "I don\u2019t see the point in making a bet. Everyone is so happy about this wedding.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Jimjar's uncertainty",
+    "fact": "Jimjar's lack of knowledge suggests an unresolved tension about the nature of the event and the party's role in it.",
+    "source_quote": "Jimjar mutters, \"I don't know.\"",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Demon Queen of the Fungi",
+    "fact": "The Demon Queen of the Fungi is believed to have crossed into the Prime Material Plane and the Underdark, manifesting through the Myconid cult and the corruption of the Grove; Drow and Myconids alike fear her ascension.",
+    "source_quote": "The Demon Queen and Demogorgon are here, in the Prime Material Plane and in the Underdark.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Great Seeder",
+    "fact": "A prophesied entity referenced by Phylo and the dancing Myconid as the source of the new organizational doctrine, potentially a corrupted or false manifestation of the Myconid ancestral spirit, possibly linked to Zuggtmoy.",
+    "source_quote": "'...the Greet Seeder who is coming!'",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Great Seeder",
+    "fact": "An ancient, possibly divine entity worshipped by the Circle of Welcome. Believed to be the source of the wedding ritual and the transformation of Myconids and Drow into fungal hybrids. Its true nature is unknown, but its song echoes Zuggtmoy\u2019s presence.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Lady of Decay",
+    "fact": "A title claimed by Xinaya as the force that transformed her. Likely an avatar or aspect of the Great Seeder, or perhaps a separate entity \u2014 possibly linked to Zuggtmoy \u2014 that consumes and reshapes life into fungal abominations.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Nature of Myconid Identity",
+    "fact": "A schism exists among Myconids over whether their natural state is cultivation or nomadic exploration; this ideological conflict may determine the future of the Grove and the fate of the Circle of Welcome.",
+    "source_quote": "I think the caves and tunnels are really another Myconid that connects everything. And that we are messages for that myconid.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Overbright",
+    "fact": "A mysterious destination mentioned by the dancing Myconid, where Myconids are to be sent to 'share our stories,' potentially a euphemism for a ritualistic or destructive transformation under Phylo\u2019s plan.",
+    "source_quote": "'Have you heard of Gasbide\u2019s plan to send us to the Overbright to share our stories?'",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Overbright",
+    "fact": "A mysterious, light-filled realm referenced by Yrberop and Xinaya as the destination for the 'wedding.' It is presented as a paradise by the cult, but its light is toxic to Myconids \u2014 suggesting it may be a trap, a lie, or the domain of a greater evil.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Overbrite",
+    "fact": "The Overbrite is a feared celestial light source in the Underdark; Myconids believe it is unnatural and destructive, and the idea of visiting it is considered heretical and suicidal.",
+    "source_quote": "That would be a terrible idea. Myconids thrive in the dark. Why would we go into the light of the Overbrite?",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "the wedding",
+    "fact": "There is a wedding, but the nature of the participants' role in it is unspecified.",
+    "source_quote": "There\u2019s a wedding! I guess we arrived at the wedding!",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Xinaya\u2019s consent",
+    "fact": "Xinaya\u2019s consent to death is confirmed by Thorin, but her survival and subsequent killing create moral and narrative ambiguity.",
+    "source_quote": "She is still alive. I am confused. ... \"I asked, and she said okay.\"",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Yrberop\u2019s song",
+    "fact": "The melody Yrberop sings is identical to the one heard when seeing Zuggtmoy in a dream, but its meaning is unverified.",
+    "source_quote": "It\u2019s the same melody that we heard when we saw Zuggtmoy in his dream. It has no rhythm, no beauty, it revels in a symphony of chaos and evil. It hurts.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  }
+]

@@ -1,0 +1,562 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occur on the 4th day of the 2nd Tenday of Taraskh 1493.",
+    "source_quote": "4th day of the 2nd Tenday of Taraskh 1493",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Stool",
+    "fact": "Stool, the myconid, releases his rapport spores.",
+    "source_quote": "Stool, the myconid, releases his rapport spores.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "telepathic communication begins",
+    "fact": "Everyone starts talking in each other\u2019s heads after Stool releases rapport spores.",
+    "source_quote": "Then, everyone starts talking in each other\u2019s heads.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "telepathic privacy established",
+    "fact": "Everyone learns to focus on who they want to talk to, establishing mostly private telepathic conversations.",
+    "source_quote": "Slowly, everyone learns to focus on who they want to talk to. For the most part, there is privacy, but there is no guarantee that someone won\u2019t accidentally overhear a conversation.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir peeks outside and observes that it is very dark.",
+    "source_quote": "Zalthir peeks outside and observes that it\u2019s very dark.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir plans to sneak into the tower, climb to the top floor, arm himself, and bring weapons back to the prisoners.",
+    "source_quote": "He plans to sneak into the tower, then quickly climb up to the top floor, arm himself, and bring whatever weapons he can carry back to the prisoners, who can then use the arms to attack.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir trips while attempting to execute his plan.",
+    "source_quote": "Zalthir trips.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "goblet shattered",
+    "fact": "Daz kicks the goblet that Zalthir tripped on, causing it to shatter.",
+    "source_quote": "Daz is startled and tries to help Zalthir, kicks the goblet that Zalthir tripped on. The goblet shatters.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "guards turn toward Zalthir and Daz",
+    "fact": "The guards turn towards Zalthir and Daz after the goblet shatters.",
+    "source_quote": "The guards turn towards Zalthir and Daz.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz sends 'Plan B' telepathically",
+    "fact": "Daz shouts in Thorin\u2019s brain, 'Plan B.'",
+    "source_quote": "Daz shouts in Thorin\u2019s brain, \u201cPlan B.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin asks for Plan B",
+    "fact": "Thorin shouts back, 'What is Plan B?'",
+    "source_quote": "Thorin shouts back, \u201cWhat is Plan B?\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir asks for help",
+    "fact": "Zalthir mumbles, 'Get in here and help us?'",
+    "source_quote": "Zalthir mumbles, \u201cGet in here and help us?\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin rushes into chamber",
+    "fact": "Thorin rushes into the small chamber, climbing over a sprawled Zalthir and Daz.",
+    "source_quote": "Thorin rushes into the small chamber, climbing over a sprawled Zalthir and Daz.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "chamber",
+    "fact": "The chamber contains two Drow guards and one elite Drow male fighter.",
+    "source_quote": "The chamber has two Drow guards and one of the more elite Drow male fighters.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "chamber",
+    "fact": "The chamber contains a zurkhwood table and three chairs, a smaller side table, and spider-silk webbing set with hooks for hanging equipment.",
+    "source_quote": "The chamber has two Drow guards and one of the more elite Drow male fighters. It contains a zurkhwood table and three chairs, a smaller side table, and spider-silk webbing set with hooks for hanging equipment.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "chamber",
+    "fact": "The table in the chamber is set with the Drow game Sava.",
+    "source_quote": "The table is set with the Drow game Sava.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Imbros",
+    "fact": "Imbros is identified by Sarith as the elite Drow male fighter.",
+    "source_quote": "whom Sarith identified as Imbros",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin attempts to overpower Imbros",
+    "fact": "Thorin tries to overpower the elite warrior Imbros but fails.",
+    "source_quote": "He tries to overpower the elite warrior, whom Sarith identified as Imbros but fails.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Imbros",
+    "fact": "Imbros is amused by the turn of events and considers killing Thorin but chooses not to.",
+    "source_quote": "Imbros is, in turn, amused by the turn of events and is tempted to kill Thorin but chooses not.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Imbros attempts to subdue Thorin",
+    "fact": "Imbros tries to subdue Thorin and knock him unconscious.",
+    "source_quote": "So he tries to subdue the dwarf and knock him unconscious.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir attempts to shove Imbros",
+    "fact": "Zalthir stands up and tries to shove Imbros.",
+    "source_quote": "Zalthir stands up and tries to shove Imbros as well",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's shove becomes a caress",
+    "fact": "Zalthir, forgetting to position his hand, caresses Imbros instead of shoving him.",
+    "source_quote": "instead of pushing Imbros, he caressed him.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "prisoners rush into armory",
+    "fact": "The rest of the prisoners, led by Buppido, rush into the chamber and scramble into the armory.",
+    "source_quote": "The rest of the prisoners, led by Buppido, take advantage of the distraction, rush into the chamber, and scramble into the armory.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Prince Derendil",
+    "fact": "Prince Derendil declares he is already armed and intends to kill the Drow.",
+    "source_quote": "I am already armed in this hideous form, and it would bring me great joy to kill this drow.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Prince Derendil charges Imbros",
+    "fact": "Prince Derendil charges at Imbros.",
+    "source_quote": "He then charges at Imbros.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum enters armory",
+    "fact": "Gyrgum decides an armed cleric is better than a disarmed cleric and follows his fellow prisoners to the armory.",
+    "source_quote": "Gyrgum decides that an armed cleric is better than a disarmed cleric and follows his fellow prisoners to the armory.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Imbros strikes Thorin",
+    "fact": "Imbros strikes Thorin, who falls, bleeding and unconscious.",
+    "source_quote": "Imbros strikes Thorin, who falls, bleeding and unconscious.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz casts Mind Sliver on Imbros",
+    "fact": "Daz focuses his mind on Imbros and speaks the incantation of Mind Sliver, but the Drow is unaffected.",
+    "source_quote": "Daz focuses his mind on Imbros and speaks the incantation of Mind Sliver, but the Drow is unaffected.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir attacks Drow guard with fists",
+    "fact": "Zalthir tries to strike one of the two Drow guards with his unarmed fists, and his fists land ineffectively.",
+    "source_quote": "Zalthir tries to strike one of the two drow guards with his unarmed fists. His fists land ineffectively.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sarith attacks Drow guard",
+    "fact": "Sarith attacks the same Drow guard that Zalthir flailed at and curses him in a unique way that makes the Drow curse each other.",
+    "source_quote": "As the Sarith strikes his erstwhile comrade, he curses him in a unique way that makes the Drow curse each other.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "armory attackers descend",
+    "fact": "From the opening in the roof, Eldeth, Buppido, Shuushar, Jimjar, Topsy, and Turvy attack using hand-held crossbows.",
+    "source_quote": "Then, from the opening in the roof where the armory is, Eldeth, Buppido, Shuushar, Jimjar, Topsy, and Turvy attack using hand-held crossbows.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Eldeth and Topsy hit Drow guard",
+    "fact": "Eldeth and Topsy hit the remaining Drow guard.",
+    "source_quote": "Eldeth and Topsy hit the remaining Drow guard.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Ront kills Drow guard",
+    "fact": "Ront squeezes into the fight and strikes at the guard, killing him.",
+    "source_quote": "Ront, who prefers a straight-up fight, squeezes into the fight and strikes at the guard, killing him.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Shuushar hits Imbros",
+    "fact": "Shuushar aims at Imbros and hits.",
+    "source_quote": "Shuushar aims at Imbros and hits.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Buppido and Jimjar miss Imbros",
+    "fact": "Buppido and Jimjar miss Imbros.",
+    "source_quote": "Buppido and Jimjar miss.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Jimjar forces telepathic attention",
+    "fact": "Jimjar, having mastered Spool\u2019s telepathy, forces everyone to listen to him when he says, 'You should have taken that bet.'",
+    "source_quote": "\u201cYou should have taken that bet,\u201d everyone hears Jimjar say. The Deep Gnome has mastered Spool\u2019s telepathy and forces everyone to listen to him.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum heals Thorin",
+    "fact": "Grygum stands over Thorin and heals him with a moment\u2019s incantation and gentle touch, restoring his flesh, closing gashes, and knitting broken bones.",
+    "source_quote": "Grygum stands over the dwarf, and then, with a moment\u2019s incantation and a gentle touch, bloodless flesh becomes rosy, gashes close, and broken bones knit instantly with a rush of magical healing.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin regains vigor",
+    "fact": "Thorin is flush with renewed vigor after being healed.",
+    "source_quote": "Flush with renewed vigor, the formerly injured Thorin is ready to face the world once more.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz casts Magic Missile",
+    "fact": "Daz remembers how magic missiles work and casts three darts at Imbros.",
+    "source_quote": "Daz has recovered from the disastrous opening gambit and remembers how magic missiles work. It\u2019s not one dart, but three darts.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Imbros reels from Magic Missile",
+    "fact": "Imbros reels from the magical attack.",
+    "source_quote": "Imbros reels from the magical attack.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin climbs to put on armor",
+    "fact": "Thorin slips out of range of Imbros, climbs upstairs, and puts on some armor.",
+    "source_quote": "Thorin slips out of range of the Drow, climbs upstairs, and puts on some armor.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Imbros",
+    "fact": "Imbros realizes he is fighting for his life and fears Ilvara might punish him like Sarith.",
+    "source_quote": "Imbros now realizes he\u2019s fighting for his life and realizes that if he doesn\u2019t stop these slaves, Ilvara might decide his fate should be precisely like Sarith\u2019s.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Imbros decides not to call for help",
+    "fact": "Imbros remembers what happened to Drow who failed and chooses to deal with the revolt himself.",
+    "source_quote": "He\u2019s tempted to call for help and remembers what happened to Drow, who failed. \u201cNo, better to deal with this on my own.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Imbros poisons Prince Derendil",
+    "fact": "Imbros strikes Prince Derendil twice using Drow Poison, injuring him and causing the poison to sting.",
+    "source_quote": "Imbros strikes Prince Derendil twice; this time, he uses the Drow Poison. Prince Derendil is injured, and the poison stings.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir misses Imbros again",
+    "fact": "Zalthir again tries to strike Imbros and misses.",
+    "source_quote": "Zalthir again tries to strike Imbros and misses.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "prisoners fire crossbows at Imbros",
+    "fact": "The fellow escapees armed with hand crossbows fire at Imbros, who is struck three times.",
+    "source_quote": "The fellow escapees armed with hand crossbows fire at Imbros, who is struck three times.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Imbros",
+    "fact": "Imbros is still standing despite being struck multiple times.",
+    "source_quote": "Imbros is still standing.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum casts Bell of Necrotic Power",
+    "fact": "Grygum points his finger at Imbros, and the dolorous sound of a bell fills the room, attempting to consume him with necrotic power.",
+    "source_quote": "Grygum points his finger at Imbros, and the dolorous sound of a bell fills the room.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Imbros resists necrotic spell",
+    "fact": "Imbros rejects the necrotic spell\u2019s power.",
+    "source_quote": "Imbros, for a moment, feels the necrotic power consume him but rejects the spell\u2019s powers.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz casts second Magic Missile",
+    "fact": "Daz strikes with three more magic missiles at Imbros.",
+    "source_quote": "Daz strikes with three more magic missiles.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Imbros",
+    "fact": "Imbros looks battered and barely alive but is still snarling.",
+    "source_quote": "Imbros looks battered and barely alive, but he is still snarling.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Imbros kills Prince Derendil",
+    "fact": "Imbros stabs Prince Derendil to death.",
+    "source_quote": "Prince Derendil\u2019s journey ends with being stabbed to death by Imbros.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith suddenly goes mad and is about to scream at the top of his lungs after Prince Derendil\u2019s death.",
+    "source_quote": "Sarith suddenly goes mad. He is about to start screaming at the top of his lungs. For some reason, this death affected him deeply.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum calms Sarith telepathically",
+    "fact": "Grygum reaches into Sarith\u2019s mind and tells him to focus on his spirituality and divine purpose.",
+    "source_quote": "Grygum notices and reaches into Sarith\u2019s mind to tell Sarith to focus on his spirituality and how much better things will be if he chooses to focus his rage on the divine rather than on the material.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sarith is calmed",
+    "fact": "Sarith is confused and calmed by Grygum\u2019s intervention.",
+    "source_quote": "Sarith is confused and calmed.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum smiles, satisfied that the lessons of his cult have served him well.",
+    "source_quote": "Grygum smiles. The lessons of his cult have served him well.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sarith kills Imbros",
+    "fact": "Sarith smiles as his sword cuts Imbros down.",
+    "source_quote": "And Sarith smiles, too, when his sword cuts Imbros down.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "fight ends",
+    "fact": "The fight took less than a minute.",
+    "source_quote": "The fight took less than a minute.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "prisoners secured weapons",
+    "fact": "The prisoners have weapons after the fight.",
+    "source_quote": "But they had weapons.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "prisoners improved position",
+    "fact": "The prisoners are in a better place now than they were before.",
+    "source_quote": "And they were in a better place now than they were before.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Prince Derendil dies",
+    "fact": "Prince Derendil is killed by Imbros during the revolt.",
+    "source_quote": "Prince Derendil\u2019s journey ends with being stabbed to death by Imbros.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Drow guards",
+    "fact": "Two Drow guards are present in the chamber and are killed during the revolt.",
+    "source_quote": "The chamber has two Drow guards and one of the more elite Drow male fighters.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "elite Drow fighter",
+    "fact": "Imbros, an elite Drow male fighter, is present and killed during the revolt.",
+    "source_quote": "whom Sarith identified as Imbros",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "zurkhwood table",
+    "fact": "The chamber contains a zurkhwood table.",
+    "source_quote": "It contains a zurkhwood table and three chairs",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "spider-silk webbing",
+    "fact": "The chamber contains spider-silk webbing set with hooks for hanging equipment.",
+    "source_quote": "and spider-silk webbing set with hooks for hanging equipment.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Drow game Sava",
+    "fact": "The table is set with the Drow game Sava.",
+    "source_quote": "The table is set with the Drow game Sava.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "hand-held crossbows",
+    "fact": "Eldeth, Buppido, Shuushar, Jimjar, Topsy, and Turvy attack using hand-held crossbows.",
+    "source_quote": "Eldeth, Buppido, Shuushar, Jimjar, Topsy, and Turvy attack using hand-held crossbows.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Drow Poison",
+    "fact": "Imbros uses Drow Poison when striking Prince Derendil.",
+    "source_quote": "he uses the Drow Poison",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Sarith's fate",
+    "fact": "Imbros fears Ilvara might decide his fate should be precisely like Sarith\u2019s.",
+    "source_quote": "Ilvara might decide his fate should be precisely like Sarith\u2019s.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a cleric who uses divine healing magic.",
+    "source_quote": "Grygum stands over the dwarf, and then, with a moment\u2019s incantation and a gentle touch, bloodless flesh becomes rosy, gashes close, and broken bones knit instantly with a rush of magical healing.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is capable of casting Magic Missile and Mind Sliver.",
+    "source_quote": "Daz focuses his mind on Imbros and speaks the incantation of Mind Sliver... Daz has recovered from the disastrous opening gambit and remembers how magic missiles work.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a dwarf who was knocked unconscious and later healed.",
+    "source_quote": "Imbros strikes Thorin, who falls, bleeding and unconscious... Flush with renewed vigor, the formerly injured Thorin is ready to face the world once more.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith was once a Drow companion but is now a rebel prisoner.",
+    "source_quote": "As the Sarith strikes his erstwhile comrade, he curses him in a unique way that makes the Drow curse each other.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido leads the prisoners in rushing into the armory.",
+    "source_quote": "The rest of the prisoners, led by Buppido, take advantage of the distraction, rush into the chamber, and scramble into the armory.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth attacks from the armory opening using a hand-held crossbow and hits a Drow guard.",
+    "source_quote": "Eldeth and Topsy hit the remaining Drow guard.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Topsy",
+    "fact": "Topsy attacks from the armory opening using a hand-held crossbow and hits a Drow guard.",
+    "source_quote": "Eldeth and Topsy hit the remaining Drow guard.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Turvy",
+    "fact": "Turvy attacks from the armory opening using a hand-held crossbow.",
+    "source_quote": "Eldeth, Buppido, Shuushar, Jimjar, Topsy, and Turvy attack using hand-held crossbows.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Shuushar",
+    "fact": "Shuushar attacks from the armory opening using a hand-held crossbow and hits Imbros.",
+    "source_quote": "Shuushar aims at Imbros and hits.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar attacks from the armory opening using a hand-held crossbow but misses Imbros.",
+    "source_quote": "Buppido and Jimjar miss.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ront",
+    "fact": "Ront joins the fight and kills the remaining Drow guard.",
+    "source_quote": "Ront, who prefers a straight-up fight, squeezes into the fight and strikes at the guard, killing him.",
+    "quote_verified": true
+  }
+]

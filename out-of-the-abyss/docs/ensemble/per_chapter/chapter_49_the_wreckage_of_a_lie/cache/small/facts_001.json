@@ -1,0 +1,86 @@
+[
+  {
+    "type": "npc",
+    "subject": "Asha Vandree",
+    "fact": "Asha Vandree is a drow who treats information as currency and deception as a professional skill; she has seen multiple iterations of the same con involving false divine possession by Lolth, and has chosen to accept the narrator as a deluded but potentially useful mage after rejecting his initial claim.",
+    "source_quote": "Oh, dear goodness, have you two been infected by the spores, possessed by the crazed magic of Zuggtmoy? Convinced of the bride's power? Is this another trick of Ilvara's?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a grey ooze creature attempting to pass as a rock during negotiations; his eyes betray him with unhurried, unnatural movement, indicating he has never before been asked to pretend to be geological and lacks the instinct for such deception.",
+    "source_quote": "The eyes gave him away. They drifted left. They drifted right. They did this with the unhurried curiosity of a creature that has never needed to pretend to be geological before and doesn't fully understand why it's being asked to start now.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara",
+    "fact": "Ilvara is a former high priestess of Lolth who has become seduced by the delusion that Lolth wishes to be married; her followers have been transformed into mindless fungal creatures, and her corruption is spreading, inspiring deep, personal hatred in Asha Vandree.",
+    "source_quote": "Ilvara, who was once a high priestess of Lolth, has become seduced by this abomination, this idea that Lolth wishes to be married. There is something foul and stinking about her, and then all of those allies she seems to covet have turned into fungal creatures that are mindless. We need to kill her. We need to butcher her! We need to send her to an unearthly grave! I fear that her disease will spread.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Ilvara's Cult",
+    "fact": "Ilvara's cult is a splinter group that worships a corrupted interpretation of Lolth as a bride; its members have been transformed into mindless fungal entities, suggesting a pervasive and infectious magical corruption tied to Zuggtmoy or similar fungal deities.",
+    "source_quote": "all of those allies she seems to covet have turned into fungal creatures that are mindless. I fear that her disease will spread.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Fungal Creatures",
+    "fact": "Fungal creatures are mindless, transformed followers of Ilvara; they are the result of a magical corruption that turns sentient beings into inert, spore-based entities, likely tied to Zuggtmoy's influence.",
+    "source_quote": "all of those allies she seems to covet have turned into fungal creatures that are mindless.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Grey Ooze (Glabbagool)",
+    "fact": "Glabbagool is a sentient grey ooze functioning as a bound familiar to the narrator; his unnatural eye movements and inability to maintain geological disguise reveal his non-rock nature and lack of experience with deception.",
+    "source_quote": "The eyes gave him away. They drifted left. They drifted right. They did this with the unhurried curiosity of a creature that has never needed to pretend to be geological before and doesn't fully understand why it's being asked to start now.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Ilvara's Corruption",
+    "fact": "Ilvara\u2019s descent into fungal worship and her transformation of allies into mindless spore-creatures represents a spreading contagion that threatens the balance of drow society; Asha Vandree believes it must be stopped before it infects more.",
+    "source_quote": "I fear that her disease will spread.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Narrator's Delusion",
+    "fact": "The narrator has constructed a coherent delusion of divine possession and fungal influence to survive Asha\u2019s scrutiny; while false, it has been accepted as plausible because it aligns with known patterns of corruption in the region, making it a viable cover.",
+    "source_quote": "Perhaps my prayers have been answered through this\u2026 confused vessel\u2026 Perhaps there are some spores within me, but I\u2026 it feels\u2026 I feel it.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Negotiation with Asha Vandree",
+    "fact": "During a tense negotiation, the narrator attempted to pass as a divinely touched wizard, failed, then pivoted to a delusion of fungal possession; Asha recognized the pattern but chose to accept the narrative because it explained the presence of Glabbagool and aligned with known threats, effectively granting the narrator legitimacy.",
+    "source_quote": "She'd seen through me and chosen to keep me anyway. In drow terms, that is more or less a letter of reference.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Site of Negotiation",
+    "fact": "The location where the narrator and Asha Vandree met is a place where illusions, oozes, and fungal corruption intersect; it is sufficiently remote and strange to allow for the concealment of Glabbagool and the plausibility of Ilvara\u2019s influence.",
+    "source_quote": "I came to you in my smaller form, and led you here.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Dancing Lights",
+    "fact": "The Dancing Lights were used by the narrator as an initial attempt to simulate divine presence; they were dismissed as a crude illusion by Asha, who recognized them as a common trick among charlatans.",
+    "source_quote": "The Dancing Lights threading down like a column of divine attention, absorbed into the familiar, absorbed into me, blinking out.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Spores",
+    "fact": "Spores are the suspected vector of Ilvara\u2019s corruption, transforming followers into mindless fungal entities; they are treated by Asha as a tangible, infectious agent rather than a metaphorical curse.",
+    "source_quote": "have you two been infected by the spores\u2026 possessed by the crazed magic of Zuggtmoy?",
+    "quote_verified": false
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "type": "npc",
+    "subject": "Fembris",
+    "fact": "Fembris is a dragon of some age and significance, now physically merged into the wall of the bastion, having produced the name 'Dragon Breath Simulation Chamber' after visible effort and pause, and warned the party about its lethal history.",
+    "source_quote": "Fembris warned us about the Dragon Breath Simulation Chamber inside. One of the Avowed had died in it, he said, which was why the Keeper's permission was now required.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a human who misinterprets lethal simulation chambers as game mechanics, reduced the death of an Avowed to 'that's amazing' and 'great game to play,' and declared his own readiness despite the danger.",
+    "source_quote": "That sounds like a great game to play,\" Grygum said. \"Later.\" \"I've still got plenty left in me,\" he added, more quietly.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daral",
+    "fact": "Daral is a council member with gray slick-backed hair and thin lips, questioning the absence of Sylvira Savikas and probing the legitimacy of the party\u2019s presence, revealing academic paranoia masked as procedural concern.",
+    "source_quote": "why isn't Sylvira Savikas here?\" \"Oh, merely, merely guests,\" I said. And then I added: \"I am the head of the Grygumite School.\" A beat. \"Founder, in fact.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "A'lai Aivenmore",
+    "fact": "A'lai Aivenmore is a tall, handsome, braided-bearded councilor pushing for immediate restoration of leadership to Candlekeep, presenting with polished confidence that suggests premeditation or exceptional performance.",
+    "source_quote": "We must have the vote and restore leadership to Candlekeep.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Dowdy Halfling",
+    "fact": "The dowdy halfling with pince-nez is pushing for determination of a successor before addressing murder, prioritizing bureaucratic procedure over crisis response.",
+    "source_quote": "First, we must determine if Janussi named a successor\u2014",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Slender Human",
+    "fact": "The slender human with heavy wrinkles is prioritizing the identification of the murderer, demonstrating the only clear tactical clarity in the council\u2019s chaos.",
+    "source_quote": "First, we must find the murderer!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Bronze Dragonborn",
+    "fact": "The bronze dragonborn in bejeweled robes is demanding dismissal of the gate warden, asserting blame and positioning himself as prosecutor with full awareness of his authority and appearance.",
+    "source_quote": "The gate warden needs to be dismissed with immediate effect! This happened on HIS watch!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm is a green dragonborn council member, visibly exhausted from prolonged wakefulness and the emotional toll of a colleague\u2019s murder, attempting to restore calm amid escalating chaos.",
+    "source_quote": "Let's be calm ourselves\u2026",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Purple-Robed Watcher",
+    "fact": "The purple-robed watcher at the Chapter House entrance assessed the party briefly and stepped aside without challenge, having been pre-instructed to expect them.",
+    "source_quote": "A purple-robed watcher stood at the entrance, assessed us briefly, and stepped aside. No challenge. They had been told to expect us.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Council of Twelve",
+    "fact": "The Council of Twelve is a scholarly governing body of Candlekeep, currently in crisis after the murder of a colleague, divided on procedure, leadership, and blame, and vulnerable to external frameworks introduced by outsiders.",
+    "source_quote": "Twelve chairs around a twelve-sided table, rose window throwing colored light across the stone floor, western gables pressing down overhead like a building that took itself seriously.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "The Grygumite School",
+    "fact": "The Grygumite School is a newly asserted intellectual framework, founded by Grygum, which has momentarily displaced the Council\u2019s focus from murder to epistemological novelty.",
+    "source_quote": "I am the head of the Grygumite School.\" A beat. \"Founder, in fact.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Avowed",
+    "fact": "The Avowed are an elite order within the bastion, at least one of whom died in the Dragon Breath Simulation Chamber, indicating lethal operational standards and prior casualties.",
+    "source_quote": "One of the Avowed had died in it, he said, which was why the Keeper's permission was now required.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Garden Shadow",
+    "fact": "The Garden Shadow is a training institution whose curriculum omitted the extreme conditions of the Underdark, creating a gap between expected and actual preparedness among its graduates.",
+    "source_quote": "After months of training under conditions the Garden Shadow had never specified in their curriculum, a few flights was nothing.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "murder of a councilor",
+    "fact": "A senior councilor has been murdered, triggering a crisis of leadership, procedure, and blame within the Council of Twelve, with no consensus on next steps.",
+    "source_quote": "First, we must find the murderer!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "arrival of the party",
+    "fact": "An outsider party \u2014 orc, dragonborn, dwarf, drow \u2014 has entered the Chapter House, unannounced but pre-authorized, and disrupted the council\u2019s proceedings by introducing an unfamiliar intellectual framework.",
+    "source_quote": "They cataloged us immediately \u2014 orc, dragonborn, dwarf, drow \u2014 and sorted us into the correct drawer: arrivals. unknown provenance. examine.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Chapter House",
+    "fact": "The Chapter House is a twelve-sided chamber with rose window, stone floor, and high ceilings, used for council deliberations, with a single guarded entrance and no visible secondary exit.",
+    "source_quote": "Twelve chairs around a twelve-sided table, rose window throwing colored light across the stone floor, western gables pressing down overhead like a building that took itself seriously.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "The Bastion",
+    "fact": "The bastion is a structure built from dragon scales and bones, with walls incorporating lethal simulation chambers, heavy tapestries, and staircases lined with stern sages \u2014 a fusion of sacred architecture and deadly function.",
+    "source_quote": "The structure was built from scales \u2014 actual scales, enormous, overlapping \u2014 and bones worked into the walls where another building would have used stone.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Underdark",
+    "fact": "The Underdark is a treacherous subterranean realm characterized by drop-offs, uneven rubble, crawling tunnels, and ledges over voids \u2014 where survival demands adaptation beyond formal training.",
+    "source_quote": "The Underdark does not offer gentle grades; what it offers is drop-offs, uneven rubble, tunnels that require you to crawl for twenty minutes before opening into a space large enough to stand, ledges over nothing where the fall is long and the landing is not the concern because something will have found you by the time you get there.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Dragon Breath Simulation Chamber",
+    "fact": "The Dragon Breath Simulation Chamber is a lethal training apparatus within the bastion, responsible for the death of at least one Avowed, requiring Keeper\u2019s permission for access, and mischaracterized by Grygum as a game.",
+    "source_quote": "Fembris warned us about the Dragon Breath Simulation Chamber inside. One of the Avowed had died in it, he said, which was why the Keeper's permission was now required.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Tapestries of the Bastion",
+    "fact": "The heavy tapestries lining the bastion\u2019s corridors are capable of concealing threats or secrets, contributing to an atmosphere of latent danger.",
+    "source_quote": "The tapestries were heavy and could conceal anything or nothing.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "absence of Sylvira Savikas",
+    "fact": "The absence of Sylvira Savikas from the Council of Twelve is a pointed mystery, implying her potential involvement in the murder, suppression of information, or intentional withdrawal.",
+    "source_quote": "why isn't Sylvira Savikas here?",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "identity of the murderer",
+    "fact": "The identity of the murderer remains unknown, with no consensus among the Council, and the party\u2019s arrival has introduced unverified external variables into the investigation.",
+    "source_quote": "First, we must find the murderer!",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "legitimacy of Grygum\u2019s authority",
+    "fact": "Grygum\u2019s claim to found the Grygumite School is unverified, and its sudden introduction into the Council\u2019s crisis may be a deliberate distraction or an authentic intellectual incursion.",
+    "source_quote": "I am the head of the Grygumite School.\" A beat. \"Founder, in fact.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occurred during a council session following the recent murder, with no specific calendar date given, but context implies immediate aftermath.",
+    "source_quote": "The Chapter House was exactly as described \u2014 twelve chairs around a twelve-sided table, rose window throwing colored light across the stone floor, western gables pressing down overhead like a building that took itself seriously.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Dragon Scales and Bones (architectural)",
+    "fact": "The walls of the bastion are composed of enormous, overlapping dragon scales and bones, suggesting the use of slain dragons as structural components \u2014 a fusion of horror and holy architecture.",
+    "source_quote": "The structure was built from scales \u2014 actual scales, enormous, overlapping \u2014 and bones worked into the walls where another building would have used stone.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Party (Orc, Dragonborn, Dwarf, Drow)",
+    "fact": "The party consists of four non-human outsiders, whose presence is noted and categorized by the Council as 'unknown provenance,' and whose arrival has shifted the focus of the crisis from murder to epistemological novelty.",
+    "source_quote": "They cataloged us immediately \u2014 orc, dragonborn, dwarf, drow \u2014 and sorted us into the correct drawer: arrivals. unknown provenance. examine.",
+    "quote_verified": false
+  }
+]

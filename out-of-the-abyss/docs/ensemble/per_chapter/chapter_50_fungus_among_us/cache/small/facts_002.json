@@ -1,0 +1,79 @@
+[
+  {
+    "type": "npc",
+    "subject": "Asha Vandree",
+    "fact": "Asha Vandree is a surface-trained drow who has been deeply exposed to Zuggtmoy\u2019s spore influence, exhibits extreme paranoia about contamination, and holds absolute theological conviction in Lolth\u2019s will being perverted by Ilvara\u2019s marriage cult. She is desperate, calculating, and relies on others to act where she cannot, while projecting authority over Daz as her designated agent. Her fear of direct contact with fungal corruption is visceral and earned.",
+    "source_quote": "Don't touch me.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a confident, improvisational agent who operates in the register of boldness indistinguishable from foolishness until it succeeds. He manipulates Asha\u2019s theological framing by mirroring her language with plausible doubt, feigning sincerity to gain trust, and deftly redirects her expectations onto the party. He does not panic under pressure, and his tempo and presence convince Asha he is a true follower of Lolth \u2014 despite evidence suggesting otherwise.",
+    "source_quote": "I already feel the gratitude of Lolth. I have that.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Ilvara's Cult",
+    "fact": "Ilvara\u2019s cult is a heretical offshoot of Lolth-worship that believes the Spider Queen wishes to be married, and has spread fungal corruption through spore-infused allies who have become mindless fungal creatures. The cult\u2019s influence is perceived as a contagious theological and biological abomination by Asha Vandree and others in the cavern.",
+    "source_quote": "Ilvara, who was once a high priestess of Lolth, has become seduced by this abomination, this idea that Lolth wishes to be married. There is something foul and stinking about her, and then all of those allies she seems to covet have turned into fungal creatures that are mindless.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Lolth's Church (Orthodox)",
+    "fact": "The orthodox worship of Lolth, as represented by Asha Vandree, views Ilvara\u2019s marriage cult as a blasphemous corruption of divine will. Followers believe Lolth\u2019s power is absolute, untouchable, and not subject to mortal metaphors like marriage. Deviation from this doctrine is seen as infection \u2014 both spiritual and biological \u2014 requiring eradication.",
+    "source_quote": "That is not the kind of conviction a follower of Lolth shows.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is an ooze familiar capable of forming intentional shapes and utterances \u2014 an anomaly that defies its expected inanimate nature. It responds to Daz\u2019s commands with uncanny precision, suggesting a level of sentience or bond that exceeds typical magical familiars. Its behavior is interpreted by Asha as eccentricity, but its capacity for communication marks it as a dangerous and unusual entity.",
+    "source_quote": "Glabbagool, I'm taking care of this, it's fine.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Zuggtmoy's Spores",
+    "fact": "Zuggtmoy\u2019s spores are a fungal contagion that induces madness, possession, and physical transformation. They are the vector of Ilvara\u2019s cult\u2019s expansion and the source of Asha\u2019s paranoia. The spores are airborne, persistent, and capable of infecting even those who believe themselves immune. Their specific vectors and resistance patterns are the hidden intelligence Asha unknowingly revealed.",
+    "source_quote": "Have you two been infected by the spores, possessed by the crazed magic of Zuggtmoy?",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Mushroom Artifact",
+    "fact": "A mysterious fungal artifact, likely tied to Ilvara\u2019s cult and Zuggtmoy\u2019s influence, serves as the source or amplifier of the spore-based corruption. Its nature is not directly described, but its effects \u2014 mindless fungal allies, theological delusion, and contagious transformation \u2014 are central to Asha\u2019s motivation and the party\u2019s mission. It is the target of the planned eradication.",
+    "source_quote": "We need to kill her. We need to butcher her! We need to send her to an unearthly grave!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Asha's Test",
+    "fact": "Asha Vandree conducted a verbal and psychological test on Daz and the party, using theological accusations and emotional pressure to assess their conviction, knowledge, and willingness to act. Her questions were designed to provoke panic or reveal ignorance. The party\u2019s calm, strategic responses \u2014 particularly Daz\u2019s use of doubt as sincerity \u2014 passed the test, convincing her they are viable agents for her agenda.",
+    "source_quote": "Well put, well put. This was just a test.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Asha\u2019s Fear of Contact",
+    "fact": "Asha Vandree\u2019s repeated aversion to physical proximity \u2014 culminating in 'Don't touch me' \u2014 reveals a deep, personal terror of fungal contamination. This fear is not abstract; it is embodied, earned through prolonged exposure to Zuggtmoy\u2019s influence. It explains her reliance on others and her refusal to act directly against Ilvara, making her a key source of intelligence despite her hostility.",
+    "source_quote": "Don't touch me.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Party as Solution",
+    "fact": "Asha Vandree has been waiting in the cavern for someone capable of confronting Ilvara\u2019s spore cult at close range. She perceives the party \u2014 particularly Daz \u2014 as the solution she has been anticipating. Her admission that 'that is what you\u2026 where you come in' confirms she lacks the means to act herself and has strategically recruited others to do what she cannot.",
+    "source_quote": "I was not going to kill her. That is what you\u2026 where you come in.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occurred during a single, continuous interaction in a subterranean chamber, likely during a critical mission phase. No external temporal markers are given, but the psychological and narrative weight suggests it is a pivotal moment in the campaign\u2019s progression.",
+    "source_quote": "I have noticed this before. I will notice it again.",
+    "quote_verified": true
+  }
+]

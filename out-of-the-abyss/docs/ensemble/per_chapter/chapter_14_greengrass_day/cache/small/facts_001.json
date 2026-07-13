@@ -1,0 +1,128 @@
+[
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a survivor of the War of the Giants who has grown increasingly paranoid and perceptive, now actively engaging in underwater combat against Duergar and trusting instinct over conventional tactics.",
+    "source_quote": "Thorin swims next to Zalthir and strikes the invisible creature, wounding it.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a dragonborn who has evolved from skeptical observer to tactical leader, mastering darkness magic and battlefield control, though frustrated by allies\u2019 timing and unpredictability.",
+    "source_quote": "Zalthir invokes Darkness and plunges into the water to attack the foe. Even though the opponent is invisible, Zalthir can pierce through the magical darkness, nullifying its advantage.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a spellcaster with a flair for area-of-effect magic and a tendency to act impulsively, often disrupting stealth but delivering decisive damage, despite being oblivious to invisibility and tactical nuance.",
+    "source_quote": "The Duergar is struck by glowing teardrops of blue-white force sizzle through the air, swooping swift as starlings, unerring in their flight.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a Duergar with magical abilities tied to acid and a tendency to belch as a spellcasting cue, now deceased after being targeted by allies\u2019 combined magic.",
+    "source_quote": "He hears Grygum's magical words and the telltale sound of a belch. He ducks. The Duergar is not so lucky and dies.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Hemeth",
+    "fact": "Hemeth is a Duergar who can turn invisible for an hour and uses this ability to evade and mislead, though his actions are often misinterpreted by allies.",
+    "source_quote": "Hemeth laughs, 'Yes, that would be a good thing to worry about. The Duergar can become invisible for a whole hour.' And he turns invisible. 'I will be hiding here.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido is a character who claims invisibility but is visibly present, displaying comedic denial and confusion, later involved in debates over prisoner interrogation.",
+    "source_quote": "I am invisible.' 'Daz rolls his eyes, 'No, you are not.' 'Yes, I am!'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth is a dwarf who is not captured by the Duergar and later curses them with intense racial animus, calling them 'Demonic spawn of dwarven corruption.'",
+    "source_quote": "Eldeth curse them out as 'Demonic spawn of dwarven corruption. Slave trader who deserves to be sent to the nine hells as punishment!'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Stool",
+    "fact": "Stool is a captured crew member who is freed when Thorin attacks the Duergar holding him, indicating he is part of the group taken prisoner during the skirmish.",
+    "source_quote": "The dwarf checks the others and sees that Stool has been captured. He attacks the Duergar. And the Duergar release Stool.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is a gnome who provides anthropological insight into Duergar practices, identifying them as slave-capturers bound for Gracklstugh.",
+    "source_quote": "Jimjar shouts, 'You know what the Duergar do for a living?' 'Yes, they capture slaves that they sell in Gracklstugh.'",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Duergar Keelboat Crew",
+    "fact": "A group of Duergar who operate a keelboat and engage in slave capture, using invisibility and acid magic, all of whom are killed or incapacitated in the underwater ambush.",
+    "source_quote": "The outline of a humanoid appears. ... The Duergar is struck by glowing teardrops of blue-white force ... kills the other creature.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Invisible Duergar",
+    "fact": "An invisible Duergar operative who attacks from the water, uses concealment and ambush tactics, and is ultimately detected by water manipulation and slain by Zalthir\u2019s strikes.",
+    "source_quote": "The outline of a humanoid appears. ... Zalthir\u2019s fists strike the creature that had Spiderbait, killing it.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Duergar",
+    "fact": "The Duergar are a subterranean dwarven subrace known for slave-trading in Gracklstugh, using invisibility, acid magic, and ambush tactics, and are currently being hunted by the party.",
+    "source_quote": "Yes, they capture slaves that they sell in Gracklstugh.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Duergar Keelboat",
+    "fact": "An abandoned boat used by Duergar for slave transport, containing gold, a liquid-generating jug, and crates, now the site of a deadly underwater confrontation.",
+    "source_quote": "He scans his surroundings, eager to spot something, and he succeeds. He invokes Darkness and plunges into the water to attack the foe.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Liquid-Generating Jug",
+    "fact": "A magical jug found aboard the Duergar Keelboat that can generate any liquid, first used to produce mayonnaise, which greatly improves the taste of bland food.",
+    "source_quote": "He finds some gold and a jug that he learns later can be used to generate any liquid. The first liquid they generate is mayonnaise.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Underwater Ambush on Duergar Keelboat",
+    "fact": "A coordinated underwater attack by the party against Duergar operatives on an abandoned keelboat, resulting in the death of all Duergar present after detection via water manipulation and darkness magic.",
+    "source_quote": "And a few moments later, water is sprayed around the boat, and the outline of a humanoid appears. ... Zalthir\u2019s fists strike the creature ... killing it.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Prisoner Interrogation Debate",
+    "fact": "A post-battle disagreement among the party members on who should question the captured Duergar, with Buppido claiming special expertise, indicating unresolved narrative tension.",
+    "source_quote": "Buppido shouts, 'I have particular expertise and talents.'",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Greengrass Day",
+    "fact": "A spring festival traditionally observed by farming communities near the giants, marked by the exchange of flowers and a peculiar cultural ritual, now coinciding with the party\u2019s battle.",
+    "source_quote": "Thorin remembers that today is Greengrass. The festival of Greengrass was a tradition of the farming communities near the giants he lived with.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Eldeth's Racial Animus",
+    "fact": "Eldeth\u2019s intense hatred toward Duergar suggests a deeper personal or cultural trauma, potentially a future narrative thread regarding dwarven-Duergar history.",
+    "source_quote": "Eldeth curse them out as 'Demonic spawn of dwarven corruption. Slave trader who deserves to be sent to the nine hells as punishment!'",
+    "quote_verified": false
+  }
+]

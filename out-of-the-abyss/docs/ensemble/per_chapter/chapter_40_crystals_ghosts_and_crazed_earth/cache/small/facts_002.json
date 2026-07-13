@@ -1,0 +1,65 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir engaged one gargoyle in melee combat, landing multiple devastating punches.",
+    "source_quote": "Zalthir engaged one gargoyle in melee combat, landing multiple devastating punches.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz attempted to use his magic against the injured gargoyle, but it resisted the spell's full effect.",
+    "source_quote": "Daz attempted to use his magic against the injured gargoyle, but it resisted the spell's full effect.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin moved closer and threw darts at the flying creature, finishing it off despite its supernatural resistance to mundane weapons.",
+    "source_quote": "Thorin moved closer and threw darts at the flying creature, finishing it off despite its supernatural resistance to mundane weapons.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum was bitten and clawed viciously by the second gargoyle, suffering significant wounds.",
+    "source_quote": "The second gargoyle charged at Grygum, biting and clawing him viciously for significant wounds.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "gargoyle",
+    "fact": "One gargoyle was engaged in melee by Zalthir and later finished off by Thorin; the second gargoyle attacked Grygum and was defeated.",
+    "source_quote": "A fierce battle erupted as Zalthir engaged one gargoyle in melee combat... The second gargoyle charged at Grygum...",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "earth elemental",
+    "fact": "A crazed earth elemental erupted from the ground, confirming earlier warnings that earth elementals in the area had been driven mad.",
+    "source_quote": "a crazed earth elemental suddenly erupted from the ground, confirming the earlier warnings that earth elementals in the area had been driven mad.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "mad earth elementals",
+    "fact": "Earlier warnings that earth elementals in the area had been driven mad have been confirmed by the eruption of a crazed earth elemental.",
+    "source_quote": "confirming the earlier warnings that earth elementals in the area had been driven mad.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "battle escalation",
+    "fact": "The battle intensified as the party gained the upper hand, only to be met with the sudden eruption of a crazed earth elemental, leaving their fate hanging in the balance.",
+    "source_quote": "The party braced themselves for the new threat as the battle intensified, leaving their fate hanging in the balance.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "battle site",
+    "fact": "The battle occurred in a location where earth elementals have been driven mad, and gargoyles are actively hostile.",
+    "source_quote": "a crazed earth elemental suddenly erupted from the ground... gargoyles engaged in combat.",
+    "quote_verified": false
+  }
+]

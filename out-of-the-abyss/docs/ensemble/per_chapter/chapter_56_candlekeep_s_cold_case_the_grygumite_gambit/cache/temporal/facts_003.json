@@ -1,0 +1,170 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "Janussi was found dead around half past seven in the morning.",
+    "source_quote": "Janussi found dead by the Great Reader A'lai Aivenmore and the housekeeper, one Miss Hollypocket, around half past seven in the morning.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "gate warden arrival",
+    "fact": "Gate Warden arrived with Tadric around eight.",
+    "source_quote": "Gate Warden arrived with Tadric around eight",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Kazryn arrival",
+    "fact": "Kazryn Nyantani arrived shortly after eight.",
+    "source_quote": "Kazryn Nyantani, distraught, shortly after eight",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Fheminor arrival",
+    "fact": "Fheminor Scrivenbark arrived at half past eight.",
+    "source_quote": "Fheminor Scrivenbark at half past eight",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Bookwyrm arrival",
+    "fact": "Bookwyrm arrived at nine.",
+    "source_quote": "Bookwyrm at nine",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "gate warden return",
+    "fact": "The Gate Warden returned at eleven.",
+    "source_quote": "The Gate Warden again at eleven",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "current time",
+    "fact": "The current time is after eleven.",
+    "source_quote": "After eleven, I was told.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "cat count",
+    "fact": "One gray cat with yellow eyes was present on the stairs.",
+    "source_quote": "The cat had decided it need not move for anyone, and tracked us anyway.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "tower landing description",
+    "fact": "The tower has a reception chamber at the first landing, a shrine of Oghma at the second, and a large apartment at the third.",
+    "source_quote": "The staircase spiraled up through the tower's interior \u2014 reception chamber at the first landing, a shrine of Oghma at the second, a large apartment at the third",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "chamber window state",
+    "fact": "The windows in the Keeper's chamber were shut, trapping lingering tobacco smoke.",
+    "source_quote": "The windows were shut.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "candelabra candle burn duration",
+    "fact": "The seven-armed bronze candelabra had burned its candles entirely to wax puddles.",
+    "source_quote": "The candelabra \u2014 seven arms, bronze \u2014 had burned its candles entirely to wax puddles.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "ink pot value",
+    "fact": "The ink pot was spilled, with midnight blue ink pooling from it.",
+    "source_quote": "a larger pile of notes pinned under a quartz weight, with more annotations on top in midnight blue ink \u2014 and below those, older notes in purple. Dry. The blue was recent.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "quill ink residue",
+    "fact": "The quill on the floor had a nib covered in midnight blue ink.",
+    "source_quote": "A quill on the floor. Nib covered in midnight blue.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "ink carrier state",
+    "fact": "The wicker basket held a linen ink carrier, slightly damp.",
+    "source_quote": "A wicker basket nearby holding a linen ink carrier, slightly damp",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "safe contents",
+    "fact": "Blue gems and empty pouches were scattered on the floor in front of the opened safe.",
+    "source_quote": "The safe on the far wall had been opened. Blue gems and empty pouches scattered on the floor in front of it.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "spellbook title",
+    "fact": "The spellbook open on the desk was titled The Discoveries.",
+    "source_quote": "A spellbook sat open in the center of the desk: The Discoveries.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "annotated book title",
+    "fact": "The book being annotated with blue ink was The Golden Ass.",
+    "source_quote": "The book the blue ink was annotating \u2014 The Golden Ass \u2014 wasn't in the room.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "death timeline",
+    "fact": "Janussi was murdered well before he was found, as the candles had burned out and the room had been sealed.",
+    "source_quote": "Miss Hollypocket would never have allowed the Keeper to let candles burn down to nothing. Full stop. It wasn't her way. Which meant Janussi had been dead before the candles finished.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "ritual attempt",
+    "fact": "The Gate Warden had already performed the 'speak with dead' ritual on Janussi's corpse.",
+    "source_quote": "Someone \u2014 presumably the Gate Warden, before his removal \u2014 had already used the rite on the corpse",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "heart removal purpose",
+    "fact": "The heart was removed to prevent resurrection, not as a trophy.",
+    "source_quote": "you can't bring someone back from death by ritual if their vital organs aren't present. Whoever took the heart wasn't souvenir-collecting. They were preventing resurrection.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "witness count",
+    "fact": "Five people witnessed or interacted with the scene before the investigators: A'lai Aivenmore, Miss Hollypocket, Tadric, Kazryn Nyantani, and Fheminor Scrivenbark.",
+    "source_quote": "Janussi found dead by the Great Reader A'lai Aivenmore and the housekeeper, one Miss Hollypocket... Gate Warden arrived with Tadric... Kazryn Nyantani... Fheminor Scrivenbark... Bookwyrm at nine",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "investigator count",
+    "fact": "Four investigators entered the chamber: Thorin, Zalthir, Fembris, and Grygum.",
+    "source_quote": "the drow, the dragonborn, the dwarf, the half-orc",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "chamber shape",
+    "fact": "The Keeper's chamber was circular.",
+    "source_quote": "The room was circular",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "chamber lighting",
+    "fact": "The chamber was filled with pale morning light that had turned yellow and hazy.",
+    "source_quote": "full of pale morning light that had gone slightly yellow and hazy",
+    "quote_verified": true
+  }
+]

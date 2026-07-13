@@ -1,0 +1,464 @@
+[
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch is a scholar who wrote a paper on the standard that requires three different kinds of evidence to establish truth, and he refuses to cast the Zone of Truth spell without consent because he fears losing his position if Bookwyrm becomes his boss.",
+    "source_quote": "I will not sneak this time. We will walk in, and we will boldly demand that she submit to a Zone of Truth.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a pragmatic investigator who wants to use the reward money to obtain a magical book that can prove Bookwyrm's culpability after the fact, rather than confront her directly.",
+    "source_quote": "There's got to be a book somewhere in the library we can use to actually get to the bottom of this. Some sort of magic book. A powerful spell.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a meticulous analyst who obsesses over wording and protocol, insisting that a confession is a confession regardless of academic standards, and questions whether Kalan\u2019s patience is morally defensible.",
+    "source_quote": "But that was never approved, so the protocol never changed. Putting that aside.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a realist who keeps hacking and slashing as a contingency plan, not as a strategy, and finds comfort in its simplicity when the academic arguments grow too tangled.",
+    "source_quote": "If things go sideways, we can always start hacking and slashing.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm is the acting head of Candlekeep under suspicion of hiding a crime \u2014 specifically, concealing her nephew\u2019s murder by Alkrist \u2014 and is expected to be removed from office during the upcoming naming ceremony.",
+    "source_quote": "She didn't commit one. Conspiracy after the fact. She's culpable.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Alkrist",
+    "fact": "Alkrist confessed to killing Janussi under a Zone of Truth spell, but his confession is deemed insufficient by Kalan\u2019s academic standard because it lacks corroborating evidence from three distinct sources.",
+    "source_quote": "You have a confession, a heart, and a cleaver. The confession is one spell \u2014 the weakest channel, by the standard I wrote.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi is the deceased scholar whose research proposal was declined, and whose death created the opportunity for Kalan to apply his unapproved academic standard to a real case.",
+    "source_quote": "And the person who declined it is dead.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is an institution where academic protocol supersedes legal justice, and power shifts through naming ceremonies, suspicion, and the quiet manipulation of institutional inertia.",
+    "source_quote": "Tomorrow morning's naming ceremony clearly will not name her.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "The Chamber of Confession",
+    "fact": "The Chamber of Confession is where Alkrist was compelled to speak the truth under a Zone of Truth spell, and where the heart and cleaver were presented as physical evidence of concealment.",
+    "source_quote": "The heart and the cleaver prove someone covered this up cleverly.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "The Thrice-Fold Proof",
+    "fact": "The Thrice-Fold Proof is Kalan\u2019s folded and worn paper detailing his academic standard that requires three distinct types of evidence to establish truth, which he uses to justify inaction and delay in the investigation.",
+    "source_quote": "Kalan pulled out his own paper \u2014 the thrice-fold proof, folded soft from handling \u2014 and shoved it into Thorin's face, jabbing at the lines.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "The Heart and the Cleaver",
+    "fact": "The Heart and the Cleaver are physical artifacts recovered from the scene \u2014 the heart placed in the chalice of a statue, the cleaver used to sever it \u2014 that imply concealment but do not identify the perpetrator.",
+    "source_quote": "The heart and the cleaver prove someone covered this up cleverly.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "The Zone of Truth Spell",
+    "fact": "The Zone of Truth Spell is a magical effect that does not force truth but reveals whether a subject can resist it \u2014 making it a tool of observation rather than conviction.",
+    "source_quote": "The spell doesn't hand you the truth. It hands you the ability to watch someone refuse it.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Ember Vanguard",
+    "fact": "The Ember Vanguard is a legendary group that precedes the party in every rumor, larger and more menacing than the four of them, and whose infamy has already tainted their reputation underground.",
+    "source_quote": "The Ember Vanguard has a legend now that walks a tunnel ahead of us, and it lies about our height.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Avowed",
+    "fact": "The Avowed are the ruling council of Candlekeep, whose votes determine leadership, and who are being manipulated by Kalan\u2019s strategy to remove Bookwyrm without direct accusation.",
+    "source_quote": "The new head may give Bookwyrm one of two choices: continue as a member of the Avowed, or submit to a Zone of Truth.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The Naming Ceremony",
+    "fact": "The Naming Ceremony is the institutional event where the next head of Candlekeep will be chosen, and which Kalan predicts will result in Bookwyrm\u2019s removal due to suspicion alone.",
+    "source_quote": "Tomorrow morning's naming ceremony clearly will not name her.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The Confession Under Zone of Truth",
+    "fact": "The Confession Under Zone of Truth is the moment Alkrist spoke the truth about killing Janussi, which was legally binding but academically insufficient according to Kalan\u2019s unpublished standard.",
+    "source_quote": "He said: you have a confession. A heart and a cleaver.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The Offer to Decline",
+    "fact": "The Offer to Decline is Kalan\u2019s strategy to give Bookwyrm the chance to voluntarily step down, knowing that refusal will imply guilt and weaken her support among the Avowed.",
+    "source_quote": "We will give her the opportunity to decline. Her declining will further weaken her support among the other Avowed.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The Plan to Obtain the Magical Book",
+    "fact": "The Plan to Obtain the Magical Book is Thorin and Kalan\u2019s revised strategy to use the reward money to acquire a spellbook after Bookwyrm\u2019s removal, ensuring she cannot contest its use against her.",
+    "source_quote": "If you do it after the fact, that's much better. If you do it up front, she'll be suspecting.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "The Gold Dragon of Four Hundred Years",
+    "fact": "The Gold Dragon of Four Hundred Years is a legendary creature who studied one chess position for four centuries and lost to a novice \u2014 invoked as a metaphor for the danger of excessive patience.",
+    "source_quote": "I thought, for half a breath, of a gold dragon who studied one chess position for four hundred years and lost it to a man who couldn't play.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Thread from Alkrist to A'lai",
+    "fact": "The Thread from Alkrist to A'lai is the suspected connection between the confessed killer and the potential new head of Candlekeep, implying A'lai may be involved in the cover-up.",
+    "source_quote": "We knew there was a thread running from all this back to A'lai.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Thread of Academic Principle vs. Justice",
+    "fact": "The Thread of Academic Principle vs. Justice is the central moral conflict of the group \u2014 whether truth must be proven by scholarly standard, or whether justice requires immediate action regardless of protocol.",
+    "source_quote": "What matters more to an academic? Putting the murderer in jail, or being true to their academic principles and their research proposal?",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Tomorrow Morning",
+    "fact": "Tomorrow Morning is the scheduled time of the naming ceremony at Candlekeep, when the new head will be chosen and Bookwyrm\u2019s fate will be sealed by institutional vote rather than evidence.",
+    "source_quote": "Tomorrow morning's naming ceremony clearly will not name her.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is referenced by Zalthir as the authority who decides the strategy of deception, and whose stage-building is heard in his head as he constructs the final act.",
+    "source_quote": "Thorin said, and I could hear him building the stage in his head.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who marked the margin noting the true crime was not murder but embarrassment, and that everyone in the room accepted the trade.",
+    "source_quote": "I marked, in the margin, that we had come all this way to convict a woman not of murder but of embarrassment, and that everyone in the room seemed content with the trade.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Bookwyrm's Office",
+    "fact": "Bookwyrm's Office was arranged the way a room gets arranged when someone wants you to understand the seating before you sit, and the tea was already poured.",
+    "source_quote": "Her office was arranged the way a room gets arranged when someone wants you to understand the seating before you sit. The tea was already poured.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "potion of flying",
+    "fact": "The potion of flying was swiped from the safe by Zalthir's Glabbagool arm while everyone was distracted, and no one noticed its absence.",
+    "source_quote": "While she's talking, my Glabbagool arm swipes the potion of flying.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "red herring coin",
+    "fact": "One of the gold coins in Alkrist's safe had a herring stamped on it, and the herring was red.",
+    "source_quote": "One of the gold coins had a herring stamped on it, and the herring was red.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Glabbagool arm",
+    "fact": "Glabbagool arm is fused along Zalthir's forearm, takes in liquids and substances, burns them with acid, and communicates in low tones of approval or disapproval.",
+    "source_quote": "Glabbagool was fused along my forearm. He took it. A faint singe of acid, a small heat under the skin of my arm as he burned it away \u2014 only I felt it.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm is referenced by Zalthir as the one who pretended to be heartbroken over Janussi\u2019s death but was actually relieved, and who feigned concern for the adventurers' safety while secretly delighting in their removal from the scene.",
+    "source_quote": "She was not sad. She was relieved. ... She was sincerely afraid something would happen to us. ... She was delighted to have us wrapped up and out of everything, no more heads poking anywhere.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch is referenced by Zalthir as the one who was reinstated as head of the Avowed, obsessed with procedure, and whose methodology was declared proven despite lacking evidence.",
+    "source_quote": "Kalan Strongbranch fussing at the front, in charge of something at last and determined to make it last a week. ... 'I think it was unwise of me not to keep you in charge.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "theft of the potion of flying",
+    "fact": "The theft of the potion of flying occurred during the distraction of the safe's contents being examined, and was executed silently by Zalthir's Glabbagool arm with no one observing.",
+    "source_quote": "It closed around the vial, drew it back, and no one turned. Not one head.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "the revelation of Bookwyrm's relief",
+    "fact": "The revelation of Bookwyrm's relief occurred when Zalthir and Daz simultaneously recognized her emotional state did not match her performance of grief, and she was not broken by Alkrist\u2019s betrayal \u2014 she was freed by it.",
+    "source_quote": "She was not sad. She was relieved. Daz caught it too \u2014 I saw him go quiet and still, the way he does when he's found the seam in a thing.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Fembris Lancer's food tasting",
+    "fact": "Fembris Lancer was volunteered as the food taster by the party, ate without suspicion, and did not die, proving the food was not poisoned.",
+    "source_quote": "We let him. Then we reconsidered letting him. Then we decided the reconsidering was the answer. ... Fembris did not die. Adequate.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Deneir's Sanctum",
+    "fact": "Deneir's Sanctum was a room of floor-to-ceiling bookshelves and dry paper smell, repurposed as a guarded waiting chamber for the adventurers.",
+    "source_quote": "They put us in Deneir's office to wait out the evening. Bookshelves floor to ceiling, tables, the dry smell of old paper \u2014 a room built for people who read for a living, now doing duty as a cell.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Fembris Lancer",
+    "fact": "Fembris Lancer is referenced by Zalthir as the one who stood off to the side during arguments, said nothing, and was later assigned to keep company with the adventurers as punishment.",
+    "source_quote": "Fembris Lancer had stood off to one side the whole time we argued, saying nothing, which I respected. ... Fembris Lancer was already in there, serving out his own punishment by keeping us company.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "sapphire",
+    "fact": "A sapphire was sought with the Locate Object spell, but none was found on Bookwyrm, confirming she did not possess it.",
+    "source_quote": "I wanted to know if she had one on her \u2014 that would have been interesting. The spell went out and found nothing. She did not have it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "the declaration of Alkrist's guilt",
+    "fact": "The declaration of Alkrist's guilt was made by Bookwyrm as fact, despite no evidence beyond his confession and his naming her as mastermind, and the party accepted it as a cover for her own involvement.",
+    "source_quote": "It would seem my nephew has committed a grave crime. But today is not a day for trials and juries.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is referenced by Zalthir as a sentient ooze fused to his arm, capable of consuming substances, burning them with acid, and expressing preference \u2014 particularly for the flying skill.",
+    "source_quote": "Glabbagool liked the flying skill. He thought it was a good skill. ... *I like the flying skill,* he offered. *That was a good skill.*",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Alkrist's Safe",
+    "fact": "Alkrist's Safe contained a potion of flying, a potion of superior healing, a fat purse of gold coins, and one red herring coin \u2014 none of which implicated Alkrist directly.",
+    "source_quote": "Inside: a potion of flying, a healing potion, a heap of gold coins, and nothing at all that pointed anywhere. ... One of the gold coins had a herring stamped on it, and the herring was red.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "the sealing of Alkrist's Safe",
+    "fact": "The safe was sealed with all contents inside and declared of no interest, ensuring the potion of flying and the red herring coin would never be revisited.",
+    "source_quote": "They closed the safe with everything still inside \u2014 the gold, the herring, the healing \u2014 and declared it of no interest.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is referenced by Zalthir as the one who observed the seam in Bookwyrm\u2019s deception and recognized her relief as a tell, and who proposed a 48-hour play strategy for withholding critical information.",
+    "source_quote": "Daz caught it too \u2014 I saw him go quiet and still, the way he does when he's found the seam in a thing. ... I've been watching a lot of these 48-hour plays.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daral",
+    "fact": "Daral is referenced by Zalthir as the one who feared being left broken and asked to be cured, and who later accepted the food-tasting role as a new best practice.",
+    "source_quote": "Are you guys going to cure me or anything? ... Yeah,\" Daral said, \"and that's a new best practice.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Prisons",
+    "fact": "The prisons were where Alkrist was held secure and unable to escape, under Kalan's oversight.",
+    "source_quote": "Alkrist will spend the day in the prisons, where he'll be kept secure and unable to escape.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "the naming of the First Keeper",
+    "fact": "The naming of the First Keeper was deferred until after the ceremony, with Kalan Strongbranch expected to assume the role, and Bookwyrm ensuring no one questioned the outcome.",
+    "source_quote": "That will be done after the naming, by the new head of the Avowed.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm is referenced by Zalthir as the one who drank tea while watching the adventurers over the rim, feigned concern, and secretly delighted in their removal from power.",
+    "source_quote": "She drank some, watching us over the rim. ... She was delighted to have us wrapped up and out of everything, no more heads poking anywhere.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "the false accusation of accomplices",
+    "fact": "The party falsely accused Alkrist of having accomplices to deflect suspicion from Bookwyrm, and she played the outraged victim, saying 'beloved by all' in response.",
+    "source_quote": "Yeah \u2014 we know there are accomplices,' I said. ... 'I can't believe there would be accomplices in the death of such a great man as Janussi \u2014 beloved by all.'",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "tea",
+    "fact": "The tea in Bookwyrm's office was already poured, and Daz and Thorin refused to drink it, while Bookwyrm drank hers while watching them.",
+    "source_quote": "The tea was already poured. Daz did not touch the cup in front of him. ... She drank some, watching us over the rim.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Deneir's Sanctum",
+    "fact": "Deneir's Sanctum was where the adventurers were escorted to wait, under guard, and where Zalthir's Glabbagool arm successfully concealed the stolen potion of flying.",
+    "source_quote": "They closed the safe with everything still inside \u2014 the gold, the herring, the healing \u2014 and declared it of no interest. The potion of flying went with us, in the bag, in the ooze, and no one in that room would ever know to miss it.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who chose quiet action over loud confrontation, who marked the true nature of events in his margin, and who understood discipline as the ability to ask Glabbagool to hold still.",
+    "source_quote": "I had told him first, low, that this was a moment of quiet reflection. No loud noises. He held to it. No burp, no bubble, nothing. That is discipline, or the beginning of it.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is referenced by Zalthir as the authority who decides the fate of failed Drow.",
+    "source_quote": "Thorin might decide his fate should be precisely like Serith's",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Deneir's office",
+    "fact": "Deneir's office contains glass on the floor, dust settling, two dead heaps of plate, and one silent inert key three assassins had bled to reach.",
+    "source_quote": "Glass on the floor, dust settling, two dead heaps and one silent inert key three assassins had bled to reach.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is a sword whose sentience and beauty inspire active research, and whose movements slow and become sloppy when affected by its wielder's 'sap' ability.",
+    "source_quote": "Dawnbringer is a sword whose sentience and beauty inspire active research... the horror's movements went slow and sloppy, off-balance for its next swing.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "the key",
+    "fact": "The key is an inert object that reads as nothing under every spell, yet is sought by helmed horrors who move toward it regardless of proximity or disguise.",
+    "source_quote": "A key that read as nothing under every spell we'd thrown at it. Dead. Inert. And three suits of murderous plate had come through the windows to die for it.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "helmed horror",
+    "fact": "A helmed horror is a suit of plate armor with no occupant, capable of hovering a hand's width off the floor, emitting points of light where eyes should be, and driven by objective rather than will or speech.",
+    "source_quote": "Suits of plate with nobody inside, walking and \u2014 this was the part that made my neck itch \u2014 hovering, lifting a hand's width off the floor and drifting. Little points of light where eyes should be.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a creature that rides Zalthir's arm and performs an acid trick capable of melting plate armor and consuming pieces of it clean off.",
+    "source_quote": "Glabbagool \u2014 riding his arm \u2014 did the acid trick. Plate hissed and ran. Their armor was good, real good, and Glabbagool ate a piece of it clean off.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Ambush of the Helmed Horrors",
+    "fact": "An ambush occurred when glass and wood came in at the same time from three directions, and helmed horrors targeted Daz for a key in his pocket, then Grygum when the key changed hands, culminating in their destruction by coordinated combat.",
+    "source_quote": "Glass and wood came in at the same time, from three directions, and for a breath none of us had moved... helmed horrors targeted Daz for a key in his pocket, then Grygum when the key changed hands... the last of them folded down into piles of rust and loose plate.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Detection Attempt with Helmed Horror Remains",
+    "fact": "After the battle, Thorin proposed using a destroyed helmed horror as a divining rod to detect who else possesses the key, turning dead armor into a magical sensor.",
+    "source_quote": "Can we grab one of them and use it to detect who else has the key? Turn it into a sort of divining rod, as it were.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a scholar who, after being cured of sickness, announced his intent to make magical swords an area of active research, focusing on their sentience and beauty.",
+    "source_quote": "I shall do all kinds of new research on magical swords, with the sentience and the beauty of Dawnbringer. I intend to make it an area of active research.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a scholar who reads threats immediately, identifies helmed horrors as animated armor, and holds grappled enemies to grant advantage to allies.",
+    "source_quote": "Zalthir said. He was already reading it. 'Is this, like, animated armor or something?'... 'If you're trying to hit him, you have advantage, because I grappled him.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a healer who possesses multiple healing spells including Revivify, reassures allies of their survival, and carries the key after Daz passes it to him.",
+    "source_quote": "I've got plenty of heal spells, buddy... I also have Revivify, so we're covered either way... Grygum handed the key to Daz.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Fembris",
+    "fact": "Fembris is a witness who stood in shock during the ambush and is the only one who saw the key before it was hidden.",
+    "source_quote": "Fembris. Standing right there with the four of us.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "the ground under Thorin's feet",
+    "fact": "The ground under Thorin's feet is treated as a tactical asset that dictates positioning, where standing still grants opportunity and the enemy's movement becomes predictable.",
+    "source_quote": "The giants taught me that before I could carry a shield \u2014 you don't chase, you position, and the ground under your feet says what your mouth doesn't need to.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Scorching Ray",
+    "fact": "Scorching Ray is a spell that fires three lines of flame from the caster's hand, capable of striking helmed horrors and leaving visible dents in their armor.",
+    "source_quote": "Three lines of flame off his hand, and the nearest suit rang like a struck kettle \u2014 a real hit, a dent you could see.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The Key's Revelation",
+    "fact": "The key, though inert under all spells, was revealed to be the sole target of the helmed horrors, whose movements shifted instantly when it changed hands, proving it was magically sensed, not visually tracked.",
+    "source_quote": "They weren't following a face. They were following the key itself, sniffing it out through plate and pocket both.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin believes helmed horrors were chosen as assassins precisely because they cannot speak, ensuring no interrogation is possible after the fact.",
+    "source_quote": "The reason you picked helmed horrors as assassins is they can't talk. Literally.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The Final Destruction of the Helmed Horrors",
+    "fact": "The final helmed horror was destroyed by Thorin's two consecutive strikes with Dawnbringer, after Zalthir held it still with a grapple, reducing it to rust and loose plate.",
+    "source_quote": "First stroke landed hard, took a real chunk out of whatever was left. Second landed harder. The suit came apart where it stood, and the last of them folded down into piles of rust and loose plate.",
+    "quote_verified": false
+  }
+]

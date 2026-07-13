@@ -1,0 +1,100 @@
+[
+  {
+    "type": "npc",
+    "subject": "Daral",
+    "fact": "Daral is a former keeper of the tomes who was fired after assaulting Janussi, and now exhibits relief-driven euphoria over a punishment lighter than annihilation.",
+    "source_quote": "He wasn't celebrating a murder. He was a man who had braced for annihilation and learned he was merely going to be fired, and the relief had gone straight to his head.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi was a philistine bookseller who sought to sell priceless poetry to fund a worthless tome about demonic planes, and was later found dead, poisoned via a book he licked while turning pages.",
+    "source_quote": "He'd wanted to sell off priceless poetry to fund some worthless tome about demonic planes no sane person would visit.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "poisoning of Janussi",
+    "fact": "Janussi was poisoned by a substance transferred through a book he licked while turning its pages, implicating the person who handled the book with wet fingers.",
+    "source_quote": "The poison was carried on a book, transferred by a man licking his finger and turning the pages.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "the book (Daral's favorite)",
+    "fact": "This book was Daral's personal favorite, given to Janussi as a symbolic gesture to teach its worth \u2014 later found stained with poison and handled repeatedly by Daral's own fingers.",
+    "source_quote": "The book had been in his collection for years, he said. One of his favorites. He'd given it away to make a point... and then he'd been enraged to find Janussi reading it.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "lizards (metaphorical)",
+    "fact": "Daral uses the metaphor of lizards \u2014 cold-blooded, cannibalistic, murdering crowbait \u2014 to dehumanize suspects, but inadvertently reveals his own familiarity with the behavior he condemns.",
+    "source_quote": "There's no telling what's going on in her lizard brain. Cold-blooded, he went on, they eat their young, murdering crowbait like Janussi.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "finger-licking pattern",
+    "fact": "The recurring act of licking fingers to turn pages is the key behavioral clue \u2014 the poisoner must have handled the book with a wet finger, and Daral was observed doing exactly that before and after the murder.",
+    "source_quote": "I watched the finger go to the mouth and back to the paper. I was fairly sure I knew what I was watching.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "book as weapon",
+    "fact": "The book is not merely evidence \u2014 it is the delivery mechanism for poison, transforming the sacred object of knowledge into a tool of murder.",
+    "source_quote": "The poison was carried on a book, transferred by a man licking his finger and turning the pages.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "motive inversion",
+    "fact": "Daral\u2019s rage over Janussi reading the book he gave him suggests he did not want the book read \u2014 contradicting his stated intent \u2014 implying the gift was a ruse to ensure its contamination.",
+    "source_quote": "He'd given it away to make a point \u2014 that his books should never be sold \u2014 by having Janussi read it and understand their worth. And then he'd been enraged to find Janussi reading it.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "the Whispering Dome",
+    "fact": "A quiet, low-light chamber where silence is enforced, and Glabbagool was summoned for his 'little quest' \u2014 a place of judgment where the truth is expected to surface.",
+    "source_quote": "The Whispering Dome was the kind of place I would have liked under different circumstances. Quiet. Low light pooling under the curve of the ceiling.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is an oozing, slow-moving entity permanently attached to the narrator, summoned to the Whispering Dome for a trial \u2014 an entity whose nature defies categorization.",
+    "source_quote": "Glabbagool was summoned for what they called his little quest. They told me I keep him \u2014 that he was, the word they used, permanently attached.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Glabbagool's summons",
+    "fact": "Glabbagool was called before the Whispering Dome for judgment, and the narrator followed without question \u2014 a ritual of absolute attachment.",
+    "source_quote": "I had no objection to log. He moseyed across the floor toward the Dome... and I followed. Of course I followed. That was never a question I was going to be asked twice.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the innocent poisoner",
+    "fact": "The true poisoner is likely the one who licked the book\u2019s pages \u2014 but the dead man, Janussi, was the only one observed doing so \u2014 suggesting the real culprit is the one who framed him by ensuring the poison was on the book he\u2019d handle.",
+    "source_quote": "The dead poisoner is the innocent one.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "the sword and cleric (evidence tools)",
+    "fact": "A sword and a cleric capable of drawing poison are kept within arm's reach of Daral \u2014 tools of both protection and execution, should he die before midnight.",
+    "source_quote": "We'd keep Daral close until midnight \u2014 a cleric who could draw poison out, and a sword that could do the same, both within arm's reach.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "bookkeeping as motive",
+    "fact": "The narrative frames violence not as anger, but as cold, logical bookkeeping \u2014 a lesson made legible through slaughter, a theme that mirrors the poisoning as a calculated act of retribution.",
+    "source_quote": "It isn't anger. It's bookkeeping. You failed, and the account closes.",
+    "quote_verified": true
+  }
+]

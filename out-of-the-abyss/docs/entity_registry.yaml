@@ -76,6 +76,7 @@ entities:
   aliases:
   - Ilvara
   - Mistress Ilvara
+  - Elvara
   note: senior drow priestess of Lolth, commander of Velkynvelve, House Mizzrym
 - name: Imbros
   type: npc
@@ -584,6 +585,8 @@ entities:
   type: npc
   aliases:
   - Glabagool
+  - Globagool
+  - Globul
   note: sentient ooze companion who prefers to remain in the Underdark
 - name: Grazilaxx
   type: npc
@@ -618,6 +621,7 @@ entities:
   - Ebonmire
   - Princess Ebonheir
   - Ebonheir
+  - Ebonir
   note: intelligent black pudding, the Pudding King's 'child'
 - name: Spider King
   type: npc
@@ -1246,6 +1250,8 @@ entities:
   type: location
 - name: Mithral Hall
   type: location
+  aliases:
+  - Mithril
 - name: Nelrindenvane
   type: location
 - name: Nesme
@@ -2043,6 +2049,7 @@ entities:
   type: faction
   aliases:
   - Black Network
+  - Zentarim
   note: shadowy mercenary network, faction represented by Davra Jassur
 - name: A Flight of Demons
   type: event
@@ -2218,27 +2225,46 @@ entities:
   note: Great Reader; bronze dragonborn; Bookwyrm's nephew; the actual poisoner
 - name: A'lai Aivenmore
   type: npc
+  aliases:
+  - Aivenmore
   note: Great Reader; main antagonist; Manshoon's inside man
 - name: Sylvira Savikas
   type: npc
+  aliases:
+  - Savikas
   note: Great Reader; curator, Infernal Fortress
 - name: Daral Yashenti
   type: npc
+  aliases:
+  - Yashenti
   note: Great Reader; alcoholic
 - name: Fheminor Scrivenbark
   type: npc
+  aliases:
+  - Scrivenbark
   note: Great Reader; halfling; Janussi's intended successor
 - name: Teles Ahvoste
   type: npc
+  aliases:
+  - Ahvoste
   note: Great Reader; archmage
 - name: Kazryn Nyantani
   type: npc
+  aliases:
+  - Nyantani
+  - Ntantani
   note: Great Reader; A'lai's lover
 - name: Kalan Strongbranch
   type: npc
+  aliases:
+  - Strongbranch
+  - Callan
+  - Strongbench
   note: Gatewarden; archmage
 - name: Kei Tigersteel
   type: npc
+  aliases:
+  - Tigersteel
   note: Lorekeeper
 - name: V'ziir-Ag
   type: npc
@@ -2246,6 +2272,8 @@ entities:
     trip; explicit "ambitious DMs use him as the big bad in lieu of Manshoon" note)
 - name: Fembris Lancer
   type: npc
+  aliases:
+  - Lancer
   note: acolyte adjutant
 - name: Tadric
   type: npc
@@ -2261,6 +2289,8 @@ entities:
   note: cartographer acolyte; Deadwinter Supper waiter
 - name: Miss Hollypocket
   type: npc
+  aliases:
+  - Hollypocket
   note: Janussi's elderly gnome servant
 - name: Queenie
   type: npc
@@ -2392,6 +2422,8 @@ entities:
   type: location
 - name: The High Tower
   type: location
+  aliases:
+  - Hightower
 - name: The High Tower Library
   type: location
 - name: The Keeper's Tower
@@ -2408,6 +2440,8 @@ entities:
   type: location
 - name: The Refectory
   type: location
+  aliases:
+  - Refectory
 - name: The Southern Dining Hall
   type: location
 - name: The Reading Salon
@@ -2438,6 +2472,8 @@ entities:
   type: location
 - name: The Oak Tree Apothecary
   type: location
+  aliases:
+  - Apothecary
 - name: The Cursed Tower
   type: location
 - name: The House of Alaundo
@@ -2473,6 +2509,8 @@ entities:
   note: contains **Jook's Box**
 - name: The Astronomicon
   type: location
+  aliases:
+  - Astronomicon
   note: contains **The Orrery** and **Stargazer**
 - name: The Oval Theatre
   type: location
@@ -2566,6 +2604,8 @@ entities:
   type: item
 - name: The Avowed
   type: faction
+  aliases:
+  - Avowed
 - name: The Watchers
   type: faction
 - name: Great Readers
@@ -2646,6 +2686,7 @@ entities:
   type: npc
   aliases:
   - Kaelira
+  - Kaelen
 - name: Nym Duskryn
   type: npc
   aliases:
@@ -2722,6 +2763,9 @@ entities:
   type: npc
 - name: Khell-Vire
   type: npc
+  aliases:
+  - Khell
+  - Kelvir
 - name: King Hekaton
   type: npc
 - name: Korrh Erann
@@ -2730,12 +2774,16 @@ entities:
   type: npc
 - name: Milo Goodbarrel
   type: npc
+  aliases:
+  - Goodbarrel
 - name: Ogremoch
   type: npc
 - name: Philemon (Master Archivist)
   type: npc
 - name: Protanther
   type: npc
+  aliases:
+  - Protenthor
 - name: Rihaud
   type: npc
 - name: Runc
@@ -2746,6 +2794,9 @@ entities:
   type: npc
 - name: Sister Yvenne
   type: npc
+  aliases:
+  - Yvenne
+  - Yvonne
 - name: Skiit
   type: npc
 - name: Spiderbait
@@ -2780,12 +2831,254 @@ entities:
   type: npc
 - name: Vareth
   type: npc
+  aliases:
+  - Varith
 - name: Welnaste Mizzrym
   type: npc
 - name: Whisperwind
   type: npc
 - name: Zalthir
   type: npc
+- name: The Whispering Dome
+  type: location
+- name: Mending
+  type: item
+- name: Candlekeep
+  type: location
+- name: Bahamut
+  type: deity
+  aliases:
+  - Buhammad
+- name: Daggerford
+  type: location
+- name: Triboar
+  type: location
+- name: Whistler
+  type: npc
+  aliases:
+  - Ardragon
+  note: Kenku, legendary/mythologized figure connected to a party member per in-world
+    telling; depicted in Milo Goodbarrel's published books alongside Stroud and Malfire;
+    memorial sign at Rishaal's Pageturners claims he 'fell at Glaziel's lair'; as
+    'the Ardragon,' a masked ex-Zhentarim route-flyer turned unpaid vigilante on the
+    caravan trails north of Yartar
+- name: Rishaal
+  type: npc
+  note: Owner of Rishaal's Pageturners, a bookshop in Waterdeep
+- name: Rishaal's Pageturners
+  type: location
+  aliases:
+  - Pageturners
+  note: Bookshop in Waterdeep run by Rishaal; displays Milo Goodbarrel's painting
+    of Stroud, Milo, Malfire, and Whistler
+- name: Travis Houlin
+  type: npc
+  aliases:
+  - Travis
+  note: Deceased paladin of Bahamut memorialized in Daggerford, died fighting the
+    Cult of the Dragon there
+- name: Malfire
+  type: npc
+  aliases:
+  - Melfire
+  note: Figure depicted alongside Stroud, Milo, and Whistler in Milo Goodbarrel's
+    painting at Rishaal's Pageturners (Waterdeep); fan debate attributes him an 'operational
+    expenses, cost of living' philosophy
+- name: House T'sarran
+  type: faction
+  aliases:
+  - T'sarran
+  note: Antagonist drow house hunting Daz as bait for his unknown Menzoberranzan patron;
+    matron mother rules 200 years; one surface spy captured (miniaturized in the party's
+    bag of holding)
+- name: Eldred
+  type: npc
+  aliases:
+  - Elred
+  note: One of several people driven mad by the false-syncopation chant error, linked
+    to the Endless Chant/Deadwinter Prophecy thread and Daz's headaches
+- name: Janussi's locket
+  type: item
+  note: One of two High Tower Library keys, torn from Janussi's neck the night of
+    his murder; still untraced
+- name: Lesser Restoration
+  type: item
+  aliases:
+  - Restoration
+  - restoration
+  note: Spell; Grygum and Dawnbringer can both cast it; owed to Daral, withheld pending
+    his cooperation
+- name: Ellen
+  type: npc
+  aliases:
+  - Elin
+  note: 'Silent child of Meredith of the Ford, near Daggerford; afflicted by the surface-bleeding
+    Underdark/chant madness, tenuously linked to Daz''s headaches. NOTE: docs/campaign_state.md
+    spells this ''Elin'' — transcript spelling wins per trust hierarchy, flag for
+    correction on next grounding-doc regen.'
+- name: Meredith of the Ford
+  type: npc
+  note: Weaver at the River Shining Tavern near Daggerford; Ellen's mother
+- name: Stroudites
+  type: faction
+  aliases:
+  - Stroudite
+  - Stroud School
+  - Stroudian
+  note: Philosophical/religious movement preaching 'mortal agency' (Grygum's 'Stroud's
+    Gambit'), opposed to Bahamutian orthodoxy; recurring across the Sword Coast arc
+    and current Candlekeep play
+- name: the Ember Vanguard
+  type: faction
+  aliases:
+  - Ember Vanguard
+  note: The party's own public reputation/nickname, earned after the Grey Ghosts alley
+    ambush; feared in Gracklstugh
+- name: Account of the War of the Dragons
+  type: item
+  note: Milo Goodbarrel's multi-volume book (Volumes 1-3), sold at Rishaal's Pageturners;
+    features Stroud, Milo, Malfire, and Whistler
+- name: Uthgardt
+  type: faction
+  note: Barbarian raiding culture; post-giant-war Uthgardt hordes raided Mirabar and
+    the region, Daggerford spared by distance
+- name: Tempus
+  type: deity
+  note: God of war
+- name: Bahamutians
+  type: faction
+  aliases:
+  - Bahamutian
+  note: One of the named positions in the 'Question of the Age' / Great Question philosophical
+    debate (dragons/gods rule fate), opposed to the Stroudites' mortal-agency position;
+    a Daggerford priest declared himself 'a pure Bahamutian.' Grygum's own answer
+    to the Question of the Age was 'the triangle, three options,' later expanded to
+    a fourth by Fembris — the full framework of named positions may be worth its own
+    note.
+- name: Kestler
+  type: npc
+  aliases:
+  - Kessler
+  note: Half-orc at the Mountain's Mouth inn (Triboar area) who keeps a small Bahamut
+    shrine; asked the party to carry a note to his brother at a temple that stopped
+    writing 5 years ago
+- name: Tiamat
+  type: deity
+  note: 'Dragon queen deity, Bahamut''s counterpart; referenced re: Whistler stealing
+    only what was needed from her horde'
+- name: Netherese
+  type: faction
+  aliases:
+  - Netherrese
+  note: Ancient magical civilization/empire; Dawnbringer sun-sword identified as late
+    Netherese-era recovery, ~3000-4000 years old
+- name: the Grygumite triangle
+  type: concept
+  note: 'Brother Vareth''s academic framework/theory (now expanded to ''a quadrangle'');
+    appears to be the same named-positions framework referenced in the Bahamutians
+    note re: Grygum''s answer to the Question of the Age (''the triangle, three options,''
+    later a fourth by Fembris)'
+- name: 1001 Tashalian Nights
+  type: item
+  aliases:
+  - Tashalan
+  note: Book found in Alkrist's chambers, bookmarked to the Midnight Tears poison
+    passage - the murder weapon's method. Verbatim quote spells it Tashalian; a scaffold/summary
+    pass drifted to Tashalan (documented in 07_the_interrogation_of_alkrist_consistency_report.md);
+    verbatim wins per trust hierarchy.
+- name: the Whistlerites
+  type: faction
+  note: 'Fan faction devoted to Whistler, per GM: there''s the Whistlerites and the
+    Miloites (fanboyism factionalism at Rishaal''s Pageturners)'
+- name: Glaziel
+  type: npc
+  note: Referenced only as Glaziel's lair on Whistler's memorial sign at Rishaal's
+    Pageturners - where Whistler is said to have fallen
+- name: the Ordning
+  type: concept
+  note: 'Restored giant social hierarchy after the War of the Giants: Storm Giants
+    at top, through Cloud/Stone/Fire/Frost, down to Hill Giants'
+- name: Sundabar
+  type: location
+  note: Sword Coast city; Eldred ran courier between Triboar and Sundabar during the
+    war
+- name: Beregost
+  type: location
+  note: Sword Coast town, last waystop before Candlekeep; site of the Burning Wizard
+    Inn
+- name: the Overbright
+  type: location
+  note: Name for the surface world as opposed to the Underdark (whatever was going
+    on in the Underdark seems to be bleeding through into the Overbright)
+- name: the Flora Theca
+  type: location
+  note: Herbarium/archive room where the party researched the poison used on Janussi
+- name: Vooshadi Moonriver
+  type: npc
+  note: Candlekeep attendant assigned by Bookwyrm to guard the Sanctum door
+- name: Plinky
+  type: npc
+  note: Author of Plinky's Journal, a demonological text from the Whirlstone Caverns
+- name: Dust of Suleiman
+  type: item
+  note: Grygum's AoE damage effect/spell - 120ft range, 20ft sphere, 20 damage/turn
+- name: House Turan
+  type: faction
+  note: Drow house; matron mother has ruled 200 years; sent the spy tailing Daz
+- name: Bookwyrm's Brownnosers
+  type: faction
+  note: Party's own nickname at Candlekeep, per Daral Yashenti - distinct from the
+    Ember Vanguard reputation earned in Gracklstugh
+- name: the Miloites
+  type: faction
+  note: Milo Goodbarrel fan faction (companion to the Whistlerites)
+- name: Protanthians
+  type: faction
+  aliases:
+  - Protantherians
+  note: Followers of the already-registered NPC Protanther; third named position in
+    the Question of the Age debate alongside Bahamutians/Stroudites. Verbatim quote
+    spells Protanthians; the scaffold pass drifted to Protantherians.
+- name: Lothheism
+  type: concept
+  note: Asha Vandree's term for Daz's presumed conversion to Lolth-worship; distinct
+    from the already-registered Church of Lolth and The Way of Lolth
+- name: Kelemvor
+  type: deity
+  note: 'God of Death; followers cited re: undead-vs-dead possession rules for the
+    summoning-spell theft mechanism'
+- name: Whirlstone Caverns
+  type: location
+  note: Source of several unique books including Plinky's Journal
+- name: the Dragonstelle
+  type: faction
+  note: Cult that recruited in Daggerford; broken by the paladin Travis Houlin three
+    years prior, per the memorial inscription
+- name: Tednimar
+  type: location
+  note: Wing of the Drakonoikos (built from ancient dragon scales/bones) devoted to
+    fire and lightning, breathing lizards
+- name: the Zagotami Marginalia
+  type: item
+  aliases:
+  - Zugatami Marginalia
+  note: Annotations in Ilvara's/Elvara's prayer book, considered useful for questions
+    about Jimjar; possible connection to 'Asha Vandri's Loth Zagotomy Theological
+    Argument' unconfirmed
+- name: Daz'issin
+  type: npc
+  note: Drow name/epithet meaning 'small shadow' - identity unclear (Daz's own? an
+    NPC's?); a softening name mothers used for boys they wanted to live. Found in
+    a footnote in Daz's heraldry book with the appendix razored out.
+- name: the Ember Grapple
+  type: faction
+  aliases:
+  - Endergrapple
+  note: 'Party nickname, per the GM: ''You are the Ember... what is it? The Ember
+    Grapple'' during the bird-call signal scene in the woods; Daz''s transcript line
+    renders it as ''The Endergrapple'' (VTT drift). Relationship to the separately-registered
+    ''the Ember Vanguard'' (earned after the Grey Ghosts alley ambush) is unconfirmed
+    - may be the same reputation restated, or a distinct nickname.'
 distinct:
 - - Topsy
   - Turvy

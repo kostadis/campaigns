@@ -1,0 +1,128 @@
+[
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm is the spiritual and administrative leader of Candlekeep, overseeing the investigation into the Candlekeep Murders, and has personally ushered the investigators into Deneir's Sanctum while assigning staff to support them.",
+    "source_quote": "Bookwyrm ushered us in herself, all warmth, and introduced the man as Kei Tigersteel \u2014 Lorekeeper of Candlekeep, priest of the Temple of Oghma, 'the library's spiritual leader.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Kei Tigersteel",
+    "fact": "Kei Tigersteel is the Lorekeeper of Candlekeep and priest of the Temple of Oghma, recently in conference with Bookwyrm, and entrusted with the task of taking the victim\u2019s body to the Shrine of Oghma for purification.",
+    "source_quote": "Bookwyrm... introduced the man as Kei Tigersteel \u2014 Lorekeeper of Candlekeep, priest of the Temple of Oghma... 'yes, Kei, you can take the body to the Shrine of Oghma for purification.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is one of the lead investigators, methodical and skeptical, repeatedly questioning the motives behind the library\u2019s apparent generosity and insisting on the distinction between 'finding out' and 'summarizing' the events.",
+    "source_quote": "Grygum decided, 'because I don't have a perfect memory. All the fictional detectives have perfect memories.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a giant-raised investigator, blunt and pragmatic, consistently probing power structures and questioning who has authority over the investigation \u2014 including whether Bookwyrm herself could be implicated.",
+    "source_quote": "Thorin, in his blunt giant-raised way, got to the same place from the other direction. 'I guess, who has the power to fire us and tell us to go away?'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Fembris Lancer",
+    "fact": "Fembris Lancer is the adjutant assigned to the investigators, overly eager and persistent, serving as a liaison who will fetch witnesses upon request.",
+    "source_quote": "Fembris would fetch any witness we named.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Vooshadi Moonriver",
+    "fact": "Vooshadi Moonriver is the guard assigned to stand watch at the entrance to Deneir's Sanctum, enforcing restricted access to the investigators\u2019 office.",
+    "source_quote": "Vooshadi Moonriver would stand the door \u2014 'we wouldn't want anyone the investigators don't want to come in, to come in.'",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Council of the Great Readers",
+    "fact": "The Council of the Great Readers has dispersed, leaving Bookwyrm as the sole authority overseeing the murder investigation within Candlekeep.",
+    "source_quote": "The Council of the Great Readers had dispersed.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Deneir's Sanctum",
+    "fact": "Deneir's Sanctum is a shrine and library dedicated to the art of writing, now assigned as the official office for the investigators, with restricted access and assigned support staff.",
+    "source_quote": "Then she took us to a nearby room, Deneir's Sanctum, a little shrine and library given over to the art of writing, and offered it up as our office.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is an immense, labyrinthine library complex where the murders occurred, and where navigation without an escort is strongly discouraged, implying hidden dangers or surveillance.",
+    "source_quote": "we shouldn't move through Candlekeep without one of them. The library is very easy to get lost in.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Shrine of Oghma",
+    "fact": "The Shrine of Oghma is the sacred site where the victim\u2019s body was taken for ritual purification under the care of Kei Tigersteel.",
+    "source_quote": "yes, Kei, you can take the body to the Shrine of Oghma for purification.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "the body",
+    "fact": "The body of the victim has been removed from the crime scene and transported to the Shrine of Oghma for purification, suggesting ritual significance to the death.",
+    "source_quote": "The body went to be purified.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "the murderer",
+    "fact": "The identity of the murderer remains unknown, but the investigation has identified potential suspects based on perceived motivation or third-party accusations, with no confirmed conclusions.",
+    "source_quote": "We're forming an opinion on what may have happened, and who \u2014 like, we have a couple suspects that we would like to pursue, due to perceiving that they may have a motivation...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Bookwyrm's possible involvement",
+    "fact": "There is an unresolved suspicion that Bookwyrm may be connected to the murders, as the investigators openly debate whether her generosity is genuine or a cover, and whether she herself could be the perpetrator.",
+    "source_quote": "I'm just saying, like, if Bookwyrm ended up doing it, which I don't think she did, but\u2026 then. This could get awkward.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "surveillance in Deneir's Sanctum",
+    "fact": "The investigators suspect that their office may be bugged or monitored, given the excessive hospitality and the library\u2019s insistence on controlling access \u2014 raising the question of whether their work is truly private.",
+    "source_quote": "Do we think the room is, like, bugged... or does the stuff we do in there is actually going to be private to us?",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the nature of the investigation's mandate",
+    "fact": "The investigators are uncertain whether their role is to uncover the truth or merely to provide a summary for Bookwyrm \u2014 a tension that underlies their entire approach and their reluctance to share details.",
+    "source_quote": "I thought we were asked to find out what \u2014 well, I guess summarizing the events is pretty much the same as finding out who did it from one.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the identity of the first person to interview",
+    "fact": "Bookwyrm\u2019s abrupt question \u2014 'Was there nobody that you wished to start your investigation with?' \u2014 implies she expected a specific target to be named first, hinting at prior knowledge or agenda.",
+    "source_quote": "Was there nobody that you wished to start your investigation with?",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occurred during the investigation phase following the Candlekeep Murders, after the dispersal of the Council of the Great Readers and before the final episode of the investigators' work.",
+    "source_quote": "we're down to the last episode, and we're saving it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "the moon elf scribes",
+    "fact": "The moon elf scribes serve as gatekeepers at the chapter house threshold, initially halting the investigators until Bookwyrm personally overrides their directive.",
+    "source_quote": "The moon elf scribes moved to halt us at the threshold. Bookwyrm waved them off and ushered us in herself...",
+    "quote_verified": false
+  }
+]
