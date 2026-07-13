@@ -30,6 +30,23 @@ swing toward a TPK at this table).
   **level 9** already landed Monday night.
 - **Manshoon is incoming** — his shape came clear at Monday's cliffhanger.
 
+> **GM-only — why raiders can just run around Candlekeep (bank this for
+> "wait, why isn't the whole keep stopping them?"):** Candlekeep's wards
+> specifically block **teleportation, flight, and fire damage** — that's
+> the entire security model; there was never a "second line of defense"
+> because nobody imagined a Keeper of Secrets would disable it from the
+> inside. The moment the wards drop, it's not silent: the crackling arcane
+> energy over the High Tower visibly dissipates, and every Avowed who
+> notices knows instantly. But that same instant is when flight and
+> teleport (and fire spells) start working for **everyone** — attacker and
+> defender alike — so Manshoon's strike team, already teleporting straight
+> in, gets a hard, violent head start while Watchers are still scrambling
+> to physically close the distance (polymorphing into birds, `expeditious
+> retreat`, `jump`). It's a brief window, ruthlessly used, not an ongoing
+> absence of response. **Nice free beat:** someone casting a fire spell for
+> the first time in the chaos and being visibly startled it actually
+> connects — fire hasn't *worked* inside Candlekeep in living memory.
+
 ## ⭐ THE MASTER FORK — resolve before you prep the table
 
 Everything below branches on **Monday's race for Tadric.** Decide which line the
@@ -67,11 +84,15 @@ table is on and read only that branch's variant.
 **Two overlay forks** recur below:
 - **Moziqodo (carried from Monday):** *killed* (not present) · *fled* (reappears
   here) · *alive-and-bound* (deployed by A'lai).
-- **Sylvira:** **absent by default** — the party skipped her on Day One and she
-  is a wary, plague-ill first-contact suspect, **not** a recruited ally. The
-  *late-recruit* branch exists only if the party treated her plague **and**
-  cleared her of the frame during Monday's wall (GM's call whether that
-  happened). If you're unsure, she's **absent.**
+- **Sylvira:** **ALLY by default (re-keyed).** Daz already secured her
+  cooperation in Ch.57 (two persuasion rolls) — she was never actually
+  skipped, contra this file's earlier assumption. And now she has nothing left
+  to lose: **A'lai took both her lover (Janussi) and her son (Moziqodo, whose
+  escape he orchestrated from the start).** Once she learns his role — whenever
+  that lands, GM's call — she is in, fully, without needing to be won over
+  scene by scene. Run every "late-recruited" branch below as the live default;
+  the "absent" branch is now the exception, not the norm — use it only if you
+  deliberately want to delay her arrival for pacing.
 
 ---
 
@@ -139,20 +160,22 @@ eyes and **smashes it.**
   paralysing-breath save DC −2; **Abyssal Plague bite rider intact — it's plot,
   not damage**). He charges melee in confused fury — he doesn't fully grasp who
   he's been pointed at.
-  - **Sylvira ABSENT (default):** no one can unbind him. He **fights for A'lai**
-    the whole fight, then — when A'lai dimension-doors out and the leash-holder
-    is gone — he may break off and flee (carry his state to the Vault session as
-    *unbound and loose*). The party gets **no archmage support**; this is the
-    raw version of the fight.
-  - **Sylvira LATE-RECRUITED (only if earned):** she moves to the broken window
+  - **Sylvira is present (default, re-keyed):** she moves to the broken window
     and attempts `dispel magic` upcast 5th — **DC 19 Arcana, +9, succeeds on
     10.** Iron-band marks fade; Moziqodo *stops*, looks at his mother, looks at
     A'lai, and **turns on A'lai** (by ~R3). Failed first roll: she eats a
-    `lightning bolt`, retries at advantage.
+    `lightning bolt`, retries at advantage. Play the moment — she is watching
+    her son be used as a weapon by the same man who took Janussi from her.
+  - **If you deliberately keep her offstage for pacing:** no one can unbind
+    Moziqodo. He fights for A'lai the whole fight, then may break off and flee
+    when the leash-holder dimension-doors out (carry as *unbound and loose*
+    into the Vault session). The party gets no archmage support — the raw
+    version of the fight. Use this only by design, not as the assumed default.
 
 ### Trophy plants
 - A'lai's **vestment** if he takes a heavy hit before escaping.
-- **Iron Bands fragment** (only if the binding is broken — late-recruit branch).
+- **Iron Bands fragment** (default now — the binding breaks when Sylvira frees
+  him; only absent if you deliberately kept her offstage).
 - Moziqodo's **hex-rune scar** if examined post-fight.
 - ⛔ **No Gatewarden pin** — that trophy lived on Kalan's corpse in the old
   script. Kalan is alive; the pin is on his chest, where it belongs.
@@ -217,7 +240,8 @@ the keep. A'lai gone below, ahead of them.
   dead (lost) or alive (won). **Alkrist:** Bell Tower cells.
 - **ALIVE and vindicated:** **Kalan** — holding the wards. *The whole point.*
 - **Moziqodo:** killed / loose-and-unbound / still bound with A'lai — per the fork.
-- **Sylvira:** absent (default) or in the field (late-recruit).
+- **Sylvira:** in the field, ally (default, re-keyed) — grieving Janussi, done
+  watching A'lai use her son.
 
 Pivot to `candlekeep_vault_session.md`.
 
@@ -232,6 +256,6 @@ Pivot to `candlekeep_vault_session.md`.
 | Wards | 30% (lost) / ~50% (won), on **Kalan's** reroute |
 | Kalan | **Alive**, holding the wards — institutional cleanup re-keys around this |
 | Moziqodo | killed / unbound-and-loose / fled-with-A'lai |
-| Sylvira | absent (default) or recruited (rare) — gates her Vault-session support |
+| Sylvira | **ally (default, re-keyed)** — lost Janussi and Moziqodo both to A'lai; full Vault-session support live |
 | A'lai | escaped via `dimension door` → lava chamber; with both keys (lost) or empty (won) |
 | Trophies | A'lai vestment / Iron Bands fragment (late-recruit) / Moziqodo hex-scar — **no Gatewarden pin** |

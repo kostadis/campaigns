@@ -44,19 +44,24 @@ door — so the race runs regardless.
 
 ## Beat 0 — Good-choice ledger tally (GM-side, before play)
 Run the ledger (arc file S7 Beat 0). Each earned item cashes as a clue cut to
-ally narration, a round saved, or a trophy. **The big re-key is Sylvira:**
+ally narration, a round saved, or a trophy. **The big re-key is Sylvira — a
+second time:** she isn't the "absent by default" figure this file originally
+assumed. Daz already secured her cooperation in Ch.57, and she has now lost
+both her lover (Janussi, to A'lai's plot) and her son (Moziqodo, whose escape
+A'lai orchestrated from the start). She is a **Path-B ally by default.**
 
-| Ledger ally | v1 assumed | v2 (actual) |
-|---|---|---|
-| **Sylvira** | Path-B ally: **two free clues** (Vydykyq + Limniz), lightning-bolt opener, Vault-door counterspell | **Absent by default** — those supports are **gone** unless she was late-recruited (treated plague **and** cleared of the frame). If absent: the two clues must be **solved at the table**, the ambush has no archmage opener, and **no one holds the Vault door but the party.** |
-| Yvenne (4+ ticks) | planar-residue trace → lava chamber | **unchanged** — earned via Daz's sittings |
-| Vareth (Grygum trust) | Stars-at-Dawn → F-A-D-E | **unchanged** |
-| Daral (saved Monday) | Fustilugs etymology | **unchanged** — only if he was saved |
-| Glabbagool | Whispering Dome boon banked | **unchanged** — re-coaxes an Echo fragment later |
+| Ledger ally | Status |
+|---|---|
+| **Sylvira** | **Ally (default, re-keyed).** Full Path-B support live: **two free clues** (Vydykyq + Limniz), the lightning-bolt ambush opener, and she holds the Vault door with `counterspell`. Only drop this if you deliberately want her offstage for a session's pacing — treat that as the exception, not the norm. |
+| Yvenne (4+ ticks) | planar-residue trace → lava chamber — earned via Daz's sittings |
+| Vareth (Grygum trust) | Stars-at-Dawn → F-A-D-E |
+| Daral (saved Monday) | Fustilugs etymology — only if he was saved |
+| Glabbagool | Whispering Dome boon banked — re-coaxes an Echo fragment later |
 
-> **Consequence to feel, not announce:** skipping Sylvira on Day One costs them
-> an archmage at the climax. Let the absence be load-bearing — the party covers
-> Manshoon's counterspell duel **themselves** (Daz), or they don't.
+> **What to feel, not announce:** Sylvira isn't here because the party earned
+> a mechanical unlock — she's here because A'lai took everything from her and
+> she has nowhere else to put the grief. Let her competence (the clues, the
+> counterspell) read as barely-contained fury doing something useful.
 
 ## Beat 1 — Planning phase (~15 min)
 Investigators' Office at ~30%/50% wards (per fork). **Kalan is present and in
@@ -70,8 +75,8 @@ Run **two or three clues at the table**, narrate the rest by ledger. Table
 
 | # | Answer | Location | Manshoon presence |
 |---|---|---|---|
-| 1 | Vydykyq | Drakonoikos / catacombs | — *(no Sylvira freebie by default)* |
-| 2 | Limniz | Astronomicon Orrery | **mage + 2 thugs looting** *(no Sylvira freebie)* |
+| 1 | Vydykyq | Drakonoikos / catacombs | — *(Sylvira freebie — clue given, skip the scene)* |
+| 2 | Limniz | Astronomicon Orrery | **mage + 2 thugs looting** *(Sylvira freebie — clue given, skip the scene)* |
 | 3 | Fustilugs | Philosopher's Court (black marble knight) | — *(Daral helps only if saved)* |
 | 4 | F-A-D-E | Melodrome / Jook's Box | **doppelganger + 1 assassin** *(Vareth helps)* |
 | 5 | Chop Chop to the Rock | Jewel of the Styx (midnight wights) | — |
@@ -85,10 +90,11 @@ first prophecy → feather-fall shaft.
 ## Beat 4 — House of Alaundo ambush (~20 min combat)
 Manshoon's **doppelganger + remnant raiders**, scaled to ledger (best:
 doppelganger + 1 thug; worst: + assassin + 2 thugs).
-- ♻️ **No Sylvira `lightning bolt` opener** unless late-recruited.
-- **Moziqodo:** fights **for** the party **only** in the late-recruit/unbound
-  branch; otherwise absent (killed) or a loose hazard (unbound-and-fled — GM may
-  have him crash the ambush as a third party).
+- ♻️ **Sylvira opens with `lightning bolt`** (default, re-keyed) — she's here.
+- **Moziqodo:** fights **for** the party if he was freed at the High Tower
+  (the default, re-keyed outcome now that Sylvira unbinds him there); otherwise
+  absent (killed) or a loose hazard (unbound-and-fled — GM may have him crash
+  the ambush as a third party).
 - After: **Inda** emerges. *"You are going to the Vault. The Seer foresaw you."*
 
 ## Beat 5 — Descent + Session-cut cliffhanger (~15 min)
@@ -106,16 +112,17 @@ in day_four). Obsidian doors **forced from inside.** A calm voice:
 
 # PART 2 — THE VAULT + FINALE (was Session 8)
 
-## Beat 1 — Threshold (~10 min)  ♻️ KEY RE-KEY
-Plant the Iron Owlbear beak trophy. Then the Sylvira fork bites hardest here:
+## Beat 1 — Threshold (~10 min)  ♻️ KEY RE-KEY (again)
+Plant the Iron Owlbear beak trophy. Sylvira is here, and she holds the door:
 
-- **v1 (Sylvira Path B):** she stayed outside with `counterspell` ready — *"I am
-  one archmage to his one archmage. I will hold the door."*
-- **v2 default (absent):** **there is no archmage at the door.** Manshoon (even
-  as a CR-6 simulacrum) can open with impunity unless **Daz anchors the
-  counterspell himself.** Make the party feel the missing pillar — this is the
-  price of skipping Sylvira, paid at the worst moment. *(If late-recruited, run
-  the v1 door-hold as written.)*
+- **Sylvira (default, re-keyed)** stays outside with `counterspell` ready —
+  *"I am one archmage to his one archmage. I will hold the door."* Let her mean
+  it two ways: professional confidence, and a woman who has nothing left to
+  lose making sure this one doesn't get past her too.
+- **Only if you deliberately kept her offstage:** there is no archmage at the
+  door. Manshoon (even as a CR-6 simulacrum) can open with impunity unless
+  **Daz anchors the counterspell himself.** Treat this as the harder,
+  non-default version of the beat.
 - **Daz** (field-perception) senses the simulacrum's **not-quite-there** nature.
   Tell him — it's the tell that the "Manshoon" here is a copy.
 
@@ -138,10 +145,12 @@ tools. **This is the correct play.**
 grapple-capture **Daz** (visible drow — he wants him). **HP ≤ 30 or
 counterspelled twice → 7th-level `teleport`, escapes.**
 
-♻️ **Without Sylvira at the door,** the counterspell economy is the party's
-alone — if Daz is the one dueling counterspells *and* the target Manshoon wants,
-that squeeze is sharper than v1. Price it honestly; it's earned by the Day-One
-skip.
+♻️ **With Sylvira holding the door,** the counterspell economy isn't the
+party's alone — she's already spent her `counterspell` at the Threshold, but
+her presence in the fight (or nearby) still takes real pressure off Daz, who
+Manshoon wants to grapple-capture regardless. *(If you deliberately ran her
+offstage, the squeeze described in the old note still applies — Daz alone
+against the counterspell duel and the target of the grab.)*
 
 **Outcomes by ledger:** best = escapes empty-handed (takes a lesser tome, Book
 stays); mid (canon) = escapes with the Book + a wound; worst = escapes with the
@@ -174,7 +183,7 @@ ending:**
 |---|---|---|
 | **Gatewarden** | Tadric, *acting* | ♻️ **Kalan, reinstated** — vindicated; his redundancy doctrine demonstrably saved the keep. Tadric is his **deputy** (if Tadric lived) or **mourned** (if he died holding the real key) |
 | **Keeper of Tomes** | Fheminor | **Fheminor** (unchanged — Janussi + Bookwyrm both dead) |
-| **First Reader** | vacant → Sylvira likely | vacant → **Sylvira** *only if she lived as an ally*; otherwise another senior Great Reader |
+| **First Reader** | vacant → Sylvira likely | vacant → **Sylvira** (default, re-keyed — she lived, and she's the ally) |
 
 > ⭐ **Land the thematic close.** The party **lost the case** (Bookwyrm dead
 > before conviction, never pinned) but **kept the future of every case** — the
@@ -223,9 +232,9 @@ Run as four short, warm, parallel farewells — let players pick whom to see:
 - **Thorin / Philemon — prescription delivered;** sealed letter banked **only if
   Path C** (the unfinished wielder's-name thread; do not open early).
 
-**All four sealed letters + Sylvira's standing offer** (if she was recruited) go
-into PC packs here — **this is the handoff `candlekeep_day_four.md`'s
-carry-forward assumed had already happened.** Now it has.
+**All four sealed letters + Sylvira's standing offer** go into PC packs
+here — **this is the handoff `candlekeep_day_four.md`'s carry-forward assumed
+had already happened.** Now it has.
 
 ## Beat 8 — Eldeth's letter → Gauntlgrym (~10 min)  unchanged
 Next morning, travel-stained dwarf courier (not Eldeth). Letter verbatim in
@@ -242,8 +251,8 @@ these re-keyed rows:
 |---|---|
 | **Kalan** | **Alive, reinstated Gatewarden** (was "dead" in v1) — a living institutional ally and the arc's thematic win |
 | **Tadric** | Kalan's deputy (won the race) **or** dead holding the real key (lost) |
-| **Sylvira** | Ally + senior Reader **only if late-recruited**; otherwise a survived-but-distant figure (the party never built the bridge) |
-| **Sylvira's plague** | treated/cured only if the party engaged her — default **untreated** |
+| **Sylvira** | **Ally + First Reader (default, re-keyed)** — lost Janussi and Moziqodo both to A'lai; the bridge was already built in Ch.57 |
+| **Sylvira's plague** | Still open — becoming an ally doesn't cure it on its own. Treated only if the party actually spends a curative resource on her; default remains **untreated** unless that happened |
 | **Moziqodo** | killed / unbound-and-loose / fled — per the High Tower fork |
 | **The keys** | Manshoon has both (lost) **or** the party kept key #2 (won) — shapes how exposed the Vault remains post-arc |
 | **Gatewarden-pin trophy** | **does not exist** (Kalan never died) — strike it from any trophy list |
