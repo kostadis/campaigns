@@ -32,3 +32,8 @@ docs/background/.fivetools_ingest/
 # scratch
 .playwright-mcp
 scratch/
+
+# Entity-triage transient queue files (regenerated per run). NOTE: the state file
+# docs/.entity_triage_state.json IS version-controlled on purpose, so the GM
+# "don't re-ask" decisions (ignored/deferred) travel across machines.
+docs/.triage_queue*.json

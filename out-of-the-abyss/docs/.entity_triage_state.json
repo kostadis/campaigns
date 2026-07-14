@@ -1,6 +1,6 @@
 {
   "started_at": "2026-07-13T01:59:34Z",
-  "updated_at": "2026-07-13T06:55:53Z",
+  "updated_at": "2026-07-14T21:06:34Z",
   "ignored": [
     {
       "surface": "Daggers",
@@ -47,7 +47,7 @@
     {
       "surface": "Vandree",
       "norm": "vandree",
-      "reason": "ambiguous \u2014 3 different Vandrees + a House Vandree faction already registered under full names",
+      "reason": "ambiguous — 3 different Vandrees + a House Vandree faction already registered under full names",
       "at": "2026-07-13T03:00:00Z"
     },
     {
@@ -59,7 +59,7 @@
     {
       "surface": "Duskryn",
       "norm": "duskryn",
-      "reason": "ambiguous \u2014 4 different Duskryns + a House Duskryn faction already registered under full names",
+      "reason": "ambiguous — 4 different Duskryns + a House Duskryn faction already registered under full names",
       "at": "2026-07-13T03:00:00Z"
     },
     {
@@ -83,7 +83,7 @@
     {
       "surface": "chalice",
       "norm": "chalice",
-      "reason": "generic/unconfirmed \u2014 the specific heart-hiding chalice isn't confirmed to exist yet",
+      "reason": "generic/unconfirmed — the specific heart-hiding chalice isn't confirmed to exist yet",
       "at": "2026-07-13T03:05:00Z"
     },
     {
@@ -6691,6 +6691,120 @@
       "norm": "wreckage",
       "reason": "reviewed via full triage-sweep artifact; not flagged by GM as a real entity - bulk-confirmed not-an-entity/noise after complete review",
       "at": "2026-07-13T06:55:53Z"
+    },
+    {
+      "surface": "servant",
+      "norm": "servant",
+      "reason": "generic noun; false near-miss on Servan Llarabbar",
+      "at": "2026-07-14T06:13:42Z"
+    },
+    {
+      "surface": "Tasha",
+      "norm": "tasha",
+      "reason": "from Tasha's spells (Caustic Brew etc.), not Asha Vandree",
+      "at": "2026-07-14T06:13:42Z"
+    },
+    {
+      "surface": "Melting",
+      "norm": "melting",
+      "reason": "fragment of 'Hall of Melting Mirrors'; false near-miss on Melding",
+      "at": "2026-07-14T06:13:42Z"
+    },
+    {
+      "surface": "grate",
+      "norm": "grate",
+      "reason": "generic noun; false near-miss on Gate",
+      "at": "2026-07-14T06:13:42Z"
+    },
+    {
+      "surface": "pools",
+      "norm": "pools",
+      "reason": "generic noun; false near-miss on Pool",
+      "at": "2026-07-14T06:13:42Z"
+    },
+    {
+      "surface": "Spool",
+      "norm": "spool",
+      "reason": "generic/typo; false near-miss on Pool",
+      "at": "2026-07-14T06:13:42Z"
+    },
+    {
+      "surface": "ordered",
+      "norm": "ordered",
+      "reason": "common verb; false near-miss on Maze Engine",
+      "at": "2026-07-14T06:13:42Z"
+    },
+    {
+      "surface": "whispering",
+      "norm": "whispering",
+      "reason": "fragment; false near-miss on Whisperwind",
+      "at": "2026-07-14T06:13:42Z"
+    },
+    {
+      "surface": "sovereigns",
+      "norm": "sovereigns",
+      "reason": "generic plural (the myconid sovereigns)",
+      "at": "2026-07-14T06:13:42Z"
+    },
+    {
+      "surface": "Tashalian",
+      "norm": "tashalian",
+      "reason": "adjective/fragment of '1001 Tashalian Nights'",
+      "at": "2026-07-14T06:13:42Z"
+    },
+    {
+      "surface": "Threefold",
+      "norm": "threefold",
+      "reason": "too-common word; the 'Threefold Proof' concept not registered per GM",
+      "at": "2026-07-14T18:32:03Z"
+    },
+    {
+      "surface": "Maximilian",
+      "norm": "maximilian",
+      "reason": "the spell Maximilian's Earthen Grasp (cast by PC Daz), not an entity",
+      "at": "2026-07-14T18:32:03Z"
+    },
+    {
+      "surface": "Maximillian",
+      "norm": "maximillian",
+      "reason": "spelling variant of the spell Maximilian's Earthen Grasp",
+      "at": "2026-07-14T18:32:03Z"
+    },
+    {
+      "surface": "Grygumite",
+      "norm": "grygumite",
+      "reason": "ambiguous shared root (School/triangle/Gambit); 'The Grygumite School' registered as faction + mark-distinct vs 'the Grygumite triangle'; bare form left unaliased",
+      "at": "2026-07-14T18:32:03Z"
+    },
+    {
+      "surface": "Kuotoan",
+      "norm": "kuotoan",
+      "reason": "misspelling of the kuo-toa race (singular/adjective); generic race, not an entity",
+      "at": "2026-07-14T20:01:29Z"
+    },
+    {
+      "surface": "Kuotoans",
+      "norm": "kuotoans",
+      "reason": "misspelling of the kuo-toa race (plural); generic race, not an entity",
+      "at": "2026-07-14T20:01:29Z"
+    },
+    {
+      "surface": "Lolthite",
+      "norm": "lolthite",
+      "reason": "adjective ('follower of/relating to Lolth'); descriptor, not an entity",
+      "at": "2026-07-14T20:01:29Z"
+    },
+    {
+      "surface": "Quahogs",
+      "norm": "quahogs",
+      "reason": "garbled bible transcription of 'quaggoths' (the two quaggoth attendants), NOT the clam; generic race, not an entity",
+      "at": "2026-07-14T20:01:29Z"
+    },
+    {
+      "surface": "K'tharr",
+      "norm": "ktharr",
+      "reason": "in-world Menzoberranzan strategy game 'K'tharr-li' (Daz's tactical metaphor), not a person/place",
+      "at": "2026-07-14T21:06:34Z"
     }
   ],
   "deferred": [
@@ -6699,6 +6813,42 @@
       "norm": "marches",
       "note": "possible alias of Silver Marches but common phrase, worth double-checking sources before aliasing",
       "at": "2026-07-13T02:55:00Z"
+    },
+    {
+      "surface": "Ghosts",
+      "norm": "ghosts",
+      "note": "ambiguous: literal ghosts (Burrow Wardens, Pelek) vs the Gray Ghosts guild - decide per-context later",
+      "at": "2026-07-14T06:13:42Z"
+    },
+    {
+      "surface": "Maerith",
+      "norm": "maerith",
+      "note": "uncertain: typo of Amarith Coppervein, or a distinct NPC - needs context",
+      "at": "2026-07-14T06:13:42Z"
+    },
+    {
+      "surface": "Heslin",
+      "norm": "heslin",
+      "note": "resolved as Brother Heslin [npc]; bare form intentionally not aliased (force title) — deferred to suppress re-surfacing",
+      "at": "2026-07-14T18:37:30Z"
+    },
+    {
+      "surface": "Harren",
+      "norm": "harren",
+      "note": "resolved as Brother Harren [npc]; bare form intentionally not aliased (force title) — deferred to suppress re-surfacing",
+      "at": "2026-07-14T18:37:30Z"
+    },
+    {
+      "surface": "Aldas",
+      "norm": "aldas",
+      "note": "resolved as Brother Aldas [npc]; bare form intentionally not aliased per GM — deferred to suppress re-surfacing",
+      "at": "2026-07-14T18:37:30Z"
+    },
+    {
+      "surface": "Quellin",
+      "norm": "quellin",
+      "note": "resolved as Brother Quellin [npc]; bare form intentionally not aliased (force title) — deferred to suppress re-surfacing",
+      "at": "2026-07-14T21:06:34Z"
     }
   ],
   "resolved": [
@@ -7420,6 +7570,446 @@
       "type": "faction",
       "at": "2026-07-13T06:54:35Z",
       "correction_note": "Initially ruled not-an-entity (in-joke riff on Ember Vanguard); GM corrected - it's a real nickname, 'Ember Grapple', with 'Endergrapple' as VTT drift."
+    },
+    {
+      "surface": "Zuggtomy",
+      "ruling": "alias",
+      "target": "Zuggtmoy",
+      "at": "2026-07-14T06:13:42Z"
+    },
+    {
+      "surface": "Thermbachaude",
+      "ruling": "alias",
+      "target": "Themberchaud",
+      "at": "2026-07-14T06:13:42Z"
+    },
+    {
+      "surface": "Thermbachaud",
+      "ruling": "alias",
+      "target": "Themberchaud",
+      "at": "2026-07-14T06:13:42Z"
+    },
+    {
+      "surface": "Thermebechaude",
+      "ruling": "alias",
+      "target": "Themberchaud",
+      "at": "2026-07-14T06:13:42Z"
+    },
+    {
+      "surface": "Thermbechaude",
+      "ruling": "alias",
+      "target": "Themberchaud",
+      "at": "2026-07-14T06:13:42Z"
+    },
+    {
+      "surface": "Wyrmsmith",
+      "ruling": "alias",
+      "target": "Themberchaud",
+      "at": "2026-07-14T06:13:42Z"
+    },
+    {
+      "surface": "Zurkhwoods",
+      "ruling": "alias",
+      "target": "zurkhwood",
+      "at": "2026-07-14T06:13:42Z"
+    },
+    {
+      "surface": "zurkwhood",
+      "ruling": "alias",
+      "target": "zurkhwood",
+      "at": "2026-07-14T06:13:42Z"
+    },
+    {
+      "surface": "T'sarrans",
+      "ruling": "alias",
+      "target": "House T'sarran",
+      "at": "2026-07-14T06:13:42Z"
+    },
+    {
+      "surface": "Blinddenstone",
+      "ruling": "alias",
+      "target": "Blingdenstone",
+      "at": "2026-07-14T06:13:42Z"
+    },
+    {
+      "surface": "Blindstone",
+      "ruling": "alias",
+      "target": "Blingdenstone",
+      "at": "2026-07-14T06:13:42Z"
+    },
+    {
+      "surface": "EntemochBoon",
+      "ruling": "alias",
+      "target": "Entémoch's Boon",
+      "at": "2026-07-14T06:13:42Z"
+    },
+    {
+      "surface": "Dragonstelle",
+      "ruling": "alias",
+      "target": "the Dragonstelle",
+      "at": "2026-07-14T06:13:42Z"
+    },
+    {
+      "surface": "Overbright",
+      "ruling": "alias",
+      "target": "the Overbright",
+      "at": "2026-07-14T06:13:42Z"
+    },
+    {
+      "surface": "overbright",
+      "ruling": "alias",
+      "target": "the Overbright",
+      "at": "2026-07-14T06:13:42Z"
+    },
+    {
+      "surface": "Whistlerites",
+      "ruling": "alias",
+      "target": "the Whistlerites",
+      "at": "2026-07-14T06:13:42Z"
+    },
+    {
+      "surface": "Savants",
+      "ruling": "alias",
+      "target": "Council of Savants",
+      "at": "2026-07-14T06:13:42Z"
+    },
+    {
+      "surface": "Vanguard",
+      "ruling": "alias",
+      "target": "the Ember Vanguard",
+      "at": "2026-07-14T06:13:42Z"
+    },
+    {
+      "surface": "Myconids",
+      "ruling": "alias",
+      "target": "Myconid",
+      "at": "2026-07-14T06:13:42Z"
+    },
+    {
+      "surface": "Derro",
+      "ruling": "new",
+      "target": "faction",
+      "at": "2026-07-14T06:13:42Z"
+    },
+    {
+      "surface": "Myconid",
+      "ruling": "new",
+      "target": "faction",
+      "at": "2026-07-14T06:13:42Z"
+    },
+    {
+      "surface": "Myrtul",
+      "norm": "myrtul",
+      "ruling": "new_entity",
+      "target": "Myrkul",
+      "at": "2026-07-14T18:32:03Z",
+      "type": "deity"
+    },
+    {
+      "surface": "Myrkhul",
+      "norm": "myrkhul",
+      "ruling": "alias",
+      "target": "Myrkul",
+      "at": "2026-07-14T18:32:03Z"
+    },
+    {
+      "surface": "Correlon",
+      "norm": "correlon",
+      "ruling": "new_entity",
+      "target": "Corellon Larethian",
+      "at": "2026-07-14T18:32:03Z",
+      "type": "deity"
+    },
+    {
+      "surface": "Heslin",
+      "norm": "heslin",
+      "ruling": "new_entity",
+      "target": "Brother Heslin",
+      "at": "2026-07-14T18:32:03Z",
+      "type": "npc"
+    },
+    {
+      "surface": "Harren",
+      "norm": "harren",
+      "ruling": "new_entity",
+      "target": "Brother Harren",
+      "at": "2026-07-14T18:32:03Z",
+      "type": "npc"
+    },
+    {
+      "surface": "Aldas",
+      "norm": "aldas",
+      "ruling": "new_entity",
+      "target": "Brother Aldas",
+      "at": "2026-07-14T18:32:03Z",
+      "type": "npc"
+    },
+    {
+      "surface": "Sundering",
+      "norm": "sundering",
+      "ruling": "new_entity",
+      "target": "the Sundering",
+      "at": "2026-07-14T18:32:03Z",
+      "type": "event"
+    },
+    {
+      "surface": "Netheril",
+      "norm": "netheril",
+      "ruling": "new_entity",
+      "target": "Netheril",
+      "at": "2026-07-14T18:32:03Z",
+      "type": "location"
+    },
+    {
+      "surface": "Cormyr",
+      "norm": "cormyr",
+      "ruling": "new_entity",
+      "target": "Cormyr",
+      "at": "2026-07-14T18:32:03Z",
+      "type": "location"
+    },
+    {
+      "surface": "Toril",
+      "norm": "toril",
+      "ruling": "new_entity",
+      "target": "Toril",
+      "at": "2026-07-14T18:32:03Z",
+      "type": "location"
+    },
+    {
+      "surface": "Dreamlands",
+      "norm": "dreamlands",
+      "ruling": "new_entity",
+      "target": "the Dreamlands",
+      "at": "2026-07-14T18:32:03Z",
+      "type": "concept"
+    },
+    {
+      "surface": "Grygumite",
+      "norm": "grygumite",
+      "ruling": "new_entity",
+      "target": "The Grygumite School",
+      "at": "2026-07-14T18:32:03Z",
+      "type": "faction"
+    },
+    {
+      "surface": "Raucus",
+      "norm": "raucus",
+      "ruling": "new_entity",
+      "target": "Raucous Mesa",
+      "at": "2026-07-14T18:32:03Z",
+      "type": "location"
+    },
+    {
+      "surface": "Festrum",
+      "norm": "festrum",
+      "ruling": "new_entity",
+      "target": "Festrum",
+      "at": "2026-07-14T18:32:03Z",
+      "type": "npc"
+    },
+    {
+      "surface": "Nilhogg",
+      "norm": "nilhogg",
+      "ruling": "new_entity",
+      "target": "Nilhogg's Nose",
+      "at": "2026-07-14T18:32:03Z",
+      "type": "item"
+    },
+    {
+      "surface": "Pygmywort",
+      "norm": "pygmywort",
+      "ruling": "new_entity",
+      "target": "Pygmywort",
+      "at": "2026-07-14T18:32:03Z",
+      "type": "item"
+    },
+    {
+      "surface": "Waterorb",
+      "norm": "waterorb",
+      "ruling": "new_entity",
+      "target": "Waterorb",
+      "at": "2026-07-14T18:32:03Z",
+      "type": "item"
+    },
+    {
+      "surface": "waterorbs",
+      "norm": "waterorbs",
+      "ruling": "alias",
+      "target": "Waterorb",
+      "at": "2026-07-14T18:32:03Z"
+    },
+    {
+      "surface": "Aromikos",
+      "norm": "aromikos",
+      "ruling": "alias",
+      "target": "Araumycos",
+      "at": "2026-07-14T18:32:03Z"
+    },
+    {
+      "surface": "Diggermattocks",
+      "norm": "diggermattocks",
+      "ruling": "new_entity",
+      "target": "the Diggermattocks",
+      "at": "2026-07-14T21:06:34Z",
+      "type": "faction"
+    },
+    {
+      "surface": "Lolthism",
+      "norm": "lolthism",
+      "ruling": "alias",
+      "target": "Lothheism",
+      "at": "2026-07-14T21:06:34Z"
+    },
+    {
+      "surface": "timmask",
+      "norm": "timmask",
+      "ruling": "new_entity",
+      "target": "timmask",
+      "at": "2026-07-14T21:06:34Z",
+      "type": "item"
+    },
+    {
+      "surface": "Tinmmasks",
+      "norm": "tinmmasks",
+      "ruling": "alias",
+      "target": "timmask",
+      "at": "2026-07-14T21:06:34Z"
+    },
+    {
+      "surface": "Kuotoan",
+      "norm": "kuotoan",
+      "ruling": "not_an_entity",
+      "target": null,
+      "at": "2026-07-14T21:06:34Z"
+    },
+    {
+      "surface": "Kuotoans",
+      "norm": "kuotoans",
+      "ruling": "not_an_entity",
+      "target": null,
+      "at": "2026-07-14T21:06:34Z"
+    },
+    {
+      "surface": "Lolthite",
+      "norm": "lolthite",
+      "ruling": "not_an_entity",
+      "target": null,
+      "at": "2026-07-14T21:06:34Z"
+    },
+    {
+      "surface": "Quahogs",
+      "norm": "quahogs",
+      "ruling": "not_an_entity",
+      "target": null,
+      "at": "2026-07-14T21:06:34Z"
+    },
+    {
+      "surface": "Menzo",
+      "norm": "menzo",
+      "ruling": "alias",
+      "target": "Menzoberranzan",
+      "at": "2026-07-14T21:06:34Z"
+    },
+    {
+      "surface": "Overbrighters",
+      "norm": "overbrighters",
+      "ruling": "alias",
+      "target": "the Overbright",
+      "at": "2026-07-14T21:06:34Z"
+    },
+    {
+      "surface": "Ploopploo",
+      "norm": "ploopploo",
+      "ruling": "alias",
+      "target": "Ploopploopeen",
+      "at": "2026-07-14T21:06:34Z"
+    },
+    {
+      "surface": "Seamother",
+      "norm": "seamother",
+      "ruling": "alias",
+      "target": "Blibdoolpoolp",
+      "at": "2026-07-14T21:06:34Z"
+    },
+    {
+      "surface": "Tharzgad",
+      "norm": "tharzgad",
+      "ruling": "alias",
+      "target": "Clan Thrazgad",
+      "at": "2026-07-14T21:06:34Z"
+    },
+    {
+      "surface": "Thembersham",
+      "norm": "thembersham",
+      "ruling": "alias",
+      "target": "Themberchaud",
+      "at": "2026-07-14T21:06:34Z"
+    },
+    {
+      "surface": "Valkenvylve",
+      "norm": "valkenvylve",
+      "ruling": "alias",
+      "target": "Velkynvelve",
+      "at": "2026-07-14T21:06:34Z"
+    },
+    {
+      "surface": "Varath",
+      "norm": "varath",
+      "ruling": "alias",
+      "target": "Vareth",
+      "at": "2026-07-14T21:06:34Z"
+    },
+    {
+      "surface": "K'tharr",
+      "norm": "ktharr",
+      "ruling": "not_an_entity",
+      "target": null,
+      "at": "2026-07-14T21:06:34Z"
+    },
+    {
+      "surface": "Klownits",
+      "norm": "klownits",
+      "ruling": "new_entity",
+      "target": "Vof Klownits",
+      "at": "2026-07-14T21:06:34Z",
+      "type": "npc"
+    },
+    {
+      "surface": "Quellin",
+      "norm": "quellin",
+      "ruling": "new_entity",
+      "target": "Brother Quellin",
+      "at": "2026-07-14T21:06:34Z",
+      "type": "npc"
+    },
+    {
+      "surface": "Elspeth",
+      "norm": "elspeth",
+      "ruling": "alias",
+      "target": "Eldeth Feldrun",
+      "at": "2026-07-14T21:06:34Z"
+    },
+    {
+      "surface": "Ironshadow",
+      "norm": "ironshadow",
+      "ruling": "alias",
+      "target": "Clan Steelshadow",
+      "at": "2026-07-14T21:06:34Z"
+    },
+    {
+      "surface": "Tervin",
+      "norm": "tervin",
+      "ruling": "alias",
+      "target": "Brother Heslin",
+      "at": "2026-07-14T21:06:34Z"
+    },
+    {
+      "surface": "Tharusk",
+      "norm": "tharusk",
+      "ruling": "alias",
+      "target": "Brother Heslin",
+      "at": "2026-07-14T21:06:34Z"
     }
   ]
 }
