@@ -2925,7 +2925,7 @@ Daz remembers what Hemeth had said about the Blade Bazaar:
 “To the Blade Bazaar,” he says out loud. 
 
 
-## Thorin
+### Thorin
 But before they can get to the bazaar, they must reach the docks. And before they reach the docks, Thorin remembers some castaways. He looks at Brannum Redmarch and Buppido and says, “What are we going to do about them?” 
 
 
@@ -3230,7 +3230,7 @@ Then he says, “I ask you to visit me at Cairngorm Cavern before you leave the 
 The dwarf watches how the Duergar gives the Stone Giant the briefest of scowls, showing how much they don’t want to give this non-Duergar permission to visit their city. 
 
 
-## Zalthir
+### Zalthir
 
 
 Zalthir is trying hard to protect himself from being burned alive, crushed by a giant, or arrested. 
@@ -3284,7 +3284,7 @@ There is a moment of hesitation, “The offer expires tomorrow. And if you don�
 Gartokkar disappears. 
 
 
-## Daz
+### Daz
 
 
 The story of this dragon intrigues Daz. 
@@ -5508,7 +5508,7 @@ They just... fell apart after that. Zalthir and Thorin were a wall of quiet viol
 
 
 # Chapter 19 The Ember Vanguard
-## Zalthir
+### Zalthir
 
 
 He stands in the darkness. He hears nothing. Then he hears a shout. 
@@ -5620,7 +5620,7 @@ Zalthir knows he has enough to condemn the Derro and Duergar to a genocidal war 
 
 
 “But is that the right thing to do?” he wonders. 
-## Grygum 
+### Grygum 
 
 
 Grygum reads what Zalthir has found and is disturbed. And the egg disturbs him further. As he sits there, he remembers some text from the temple where he learned of the power of Bahamut - 
@@ -5677,7 +5677,7 @@ Grygum coughs. He watches as Thorin stares at him and realizes what he said, “
 Grygum watches Zalthir clench and unclench.  
 
 
-## Thorin
+### Thorin
 
 
 “So what do we do? I am still partial to the ride Thermbechaude out of this place.” 
@@ -5784,7 +5784,7 @@ And as they leave the cave, he thinks, “A Drow incursion! This is not good. An
 
 
 As they leave Diinarnnmyr mutters, “The Ember Vanguard - the Drow are now working with the Duergar to subdue us!” 
-## Daz
+### Daz
 
 
 Daz is very pleased with his use of dancing lights and the effect it had on the Derro. His friends congratulate him. 
@@ -5830,7 +5830,7 @@ But the Orc is grateful, but he looks unhappy as he is covered in the acid slime
 
 
 # Chapter 20 The Derro like Demogorgon
-## Grygum.
+### Grygum.
 
 
 The battle was terrifying. But I am alive. Wounded. But alive. So let me do a bit of Divine magic and heal myself. And that friendly dwarf, the one Thorin likes. 
@@ -5842,7 +5842,7 @@ The battle was terrifying. But I am alive. Wounded. But alive. So let me do a bi
 I should be honest, it’s theater I created for myself. Bahamut is boring. Stroud was exciting. Bahamut, not so much. 
 
 
-## Daz
+### Daz
 
 
 A good rest is always beneficial, but we need to get out of here.
@@ -5867,7 +5867,7 @@ I stare at him. I wonder is he the true-believing kind that has warped his world
 
 
 I look at him carefully to see some spark of genius. I see nothing. He’s a dummy. I recall the stories of the Derro, creatures that served the mind flayers and had their minds destroyed. They are not well in the best of times. 
-## Grygum 
+### Grygum 
 
 
 I approach the poor creature. And examine what he is doing. 
@@ -5915,7 +5915,7 @@ Seeing the zombies below, they do need some new body parts, and this one Derro, 
 I push him over the cliff. At the same time, Daz unleashes a light show. 
 
 
-## Daz
+### Daz
 
 
 I approach the ledge, and the first thing that hits me is the smell that reeks of death and decomposed flesh. I open my eyes and absorb how enormous it is. The glow of faerzress is everywhere, seeming to flow like fog around dark shapes shambling across the pit. A crack in the southeast wall of the pit leads to a narrow tunnel, flanked by mounds of fungi and offal.
@@ -5984,7 +5984,7 @@ I look at Ulnara, who realizes that I am Drow. And that the Drow do not mess aro
 “We shall, certainly,” says Grygum in his preacher’s voice. 
 
 
-## Thorin
+### Thorin
 
 
 The caves go on. We arrive at a door, and we rest. Resting is good. 
@@ -6071,7 +6071,7 @@ My chance came again, and I didn't hesitate. I brought my longsword down hard on
 
 
 But they were all dead. 
-## Daz
+### Daz
 
 
 Our journey continues until we reach another cave entrance. And this one we must go through. 
@@ -6134,7 +6134,7 @@ They chant back at him - “For what purpose!”
 He screams - “The only purpose that matters! The elevation of the Derro, the Triumph of Demogorgon, and the destruction of the Duergar!” 
 
 
-## Zalthir
+### Zalthir
 
 
 I observe everything and say nothing. My mind is clear. I act without speaking. I do because I know. 

@@ -1,5 +1,5 @@
 # Chapter 19 The Ember Vanguard
-## Zalthir
+### Zalthir
 
 
 He stands in the darkness. He hears nothing. Then he hears a shout. 
@@ -111,7 +111,7 @@ Zalthir knows he has enough to condemn the Derro and Duergar to a genocidal war 
 
 
 “But is that the right thing to do?” he wonders. 
-## Grygum 
+### Grygum 
 
 
 Grygum reads what Zalthir has found and is disturbed. And the egg disturbs him further. As he sits there, he remembers some text from the temple where he learned of the power of Bahamut - 
@@ -168,7 +168,7 @@ Grygum coughs. He watches as Thorin stares at him and realizes what he said, “
 Grygum watches Zalthir clench and unclench.  
 
 
-## Thorin
+### Thorin
 
 
 “So what do we do? I am still partial to the ride Thermbechaude out of this place.” 
@@ -275,7 +275,7 @@ And as they leave the cave, he thinks, “A Drow incursion! This is not good. An
 
 
 As they leave Diinarnnmyr mutters, “The Ember Vanguard - the Drow are now working with the Duergar to subdue us!” 
-## Daz
+### Daz
 
 
 Daz is very pleased with his use of dancing lights and the effect it had on the Derro. His friends congratulate him. 

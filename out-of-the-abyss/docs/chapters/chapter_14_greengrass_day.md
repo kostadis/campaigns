@@ -229,7 +229,7 @@ Daz remembers what Hemeth had said about the Blade Bazaar:
 “To the Blade Bazaar,” he says out loud. 
 
 
-## Thorin
+### Thorin
 But before they can get to the bazaar, they must reach the docks. And before they reach the docks, Thorin remembers some castaways. He looks at Brannum Redmarch and Buppido and says, “What are we going to do about them?” 
 
 
