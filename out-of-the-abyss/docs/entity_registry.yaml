@@ -328,6 +328,7 @@ entities:
   - Chief Dorbo
   - Chief Dorbo Diggermattock
   - Chief Diggermattock
+  - Dorbo
   note: chief and de facto co-ruler, leader of mining expeditions
 - name: Droki
   type: npc
@@ -850,6 +851,8 @@ entities:
   note: designer who wrote the Afterword
 - name: Deepking Tarngardt
   type: npc
+  aliases:
+  - Deepking
   note: grandfather of Horgar V who freed the derro slaves
 - name: Elminster
   type: npc
@@ -1602,9 +1605,6 @@ entities:
 - name: Circle of Hunters
   type: faction
   note: myconid circle that retrieves carcasses, led by Loobamub, loyal to Basidia
-- name: Circle of Masters
-  type: faction
-  note: newest circle of Zuggtmoy-touched myconids led by Yestabrod
 - name: Circle of Sporers
   type: faction
   aliases:
@@ -1796,9 +1796,6 @@ entities:
 - name: Merchant Council
   type: faction
   note: lairds and merchants overseeing trade and commerce
-- name: Miners' Guild
-  type: faction
-  note: powerful mining guild led by the Pickshine family
 - name: myconid sovereigns
   type: faction
   note: ruling caste of myconids; Basidia among them
@@ -2002,13 +1999,6 @@ entities:
 - name: Janussi
   type: npc
   note: Keeper of Tomes (victim)
-- name: Bookwyrm
-  type: npc
-  aliases:
-  - Skoda Vanaster
-  - The First Reader
-  - First Reader
-  note: First Reader (real name; green dragonborn master sage)
 - name: Alkrist
   type: npc
   note: Great Reader; bronze dragonborn; Bookwyrm's nephew; the actual poisoner
@@ -2047,6 +2037,7 @@ entities:
   aliases:
   - Nyantani
   - Ntantani
+  - Kazryn
   note: Great Reader; A'lai's lover
 - name: Kalan Strongbranch
   type: npc
@@ -2080,9 +2071,13 @@ entities:
   note: 18yo tiefling acolyte
 - name: Sprig Summerfoot
   type: npc
+  aliases:
+  - Sprig
   note: acolyte; Deadwinter Supper waiter
 - name: Orrin Glass
   type: npc
+  aliases:
+  - Orrin
   note: cartographer acolyte; Deadwinter Supper waiter
 - name: Miss Hollypocket
   type: npc
@@ -2186,6 +2181,8 @@ entities:
   note: House of Alaundo; half-orc, secretly worships Alaundo as a deity
 - name: Alaundo the Seer
   type: npc
+  aliases:
+  - Alaundo
   note: the historical prophet whose 99 prophecies the Endless Chant recites
 - name: Miirym, the Sentinel Wyrm
   type: npc
@@ -2217,10 +2214,6 @@ entities:
   type: location
 - name: Exaltation
   type: location
-- name: The High Tower
-  type: location
-  aliases:
-  - Hightower
 - name: The High Tower Library
   type: location
 - name: The Keeper's Tower
@@ -2533,6 +2526,12 @@ entities:
   type: npc
 - name: Bookwyrm (First Reader)
   type: npc
+  aliases:
+  - Bookwyrm
+  - Skoda Vanaster
+  - The First Reader
+  - First Reader
+  note: First Reader (real name; green dragonborn master sage)
 - name: Daz
   type: npc
 - name: Diinarnnmyr
@@ -2589,6 +2588,8 @@ entities:
   - Goodbarrel
 - name: Philemon (Master Archivist)
   type: npc
+  aliases:
+  - Philemon
 - name: Protanther
   type: npc
   aliases:
@@ -2638,6 +2639,8 @@ entities:
   type: npc
 - name: Valimor Brightgem
   type: npc
+  aliases:
+  - Valimor
 - name: Vareth
   type: npc
   aliases:
@@ -2980,6 +2983,25 @@ entities:
   type: npc
   note: Candlekeep monastery brother; doubted-attribution flashback source (matches
     Brother Harren/Aldas/Heslin pattern)
+- name: Miners' Guild of Blingdenstone
+  type: faction
+  aliases:
+  - Miners' Guild
+  note: powerful mining guild led by the Pickshine family; represented Kazook Pickshine
+    at the Blingdenstone grand moot (ch38-39)
+- name: Candlekeep's High Tower
+  type: location
+  aliases:
+  - The High Tower
+  - Hightower
+  note: guarded entrance to a cache of super-magical artifacts; site of the High Tower
+    Library, where Janussi-murder research was conducted (ch58)
+- name: Circle of Masters of Neverlight Grove
+  type: faction
+  aliases:
+  - Circle of Masters
+  note: newest circle of Zuggtmoy-touched myconids led by Yestabrod; takes carcasses
+    the Circle of Hunters bring in, sends myconids outside the grove unannounced (ch31)
 distinct:
 - - Topsy
   - Turvy
