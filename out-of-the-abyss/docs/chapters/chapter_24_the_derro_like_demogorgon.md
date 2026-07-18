@@ -57,7 +57,7 @@ The Derro looks at me with fear. Good.
 “Yes! Is it on schedule?” 
 
 
-The creature whimpers before me and pleads, “But Pliinki promised Skiit a better job.” 
+The creature whimpers before me and pleads, “But Plinki promised Skiit a better job.” 
 
 
 I smile, “Only if you succeed at this one, Skiit. I see a lot of zombies.” 
@@ -69,7 +69,7 @@ Skiit  looks at me and then points at Spiderbait, “Can I kill that one over th
 I am worried, but I know how to deflect, just double down on his anxieties, “I am not going to hand you new body parts because you can’t keep up!” 
 
 
-I tried to intimidate, and failed. Maybe it is my gentleness from all my time at the temple, because instead of this thing cowering, it puffs itself up and says, “I am a follower of Demogorgon! Pliinki has said that anybody who follows Demogorgon is making the Derro proud and powerful. And we’re going to be great again!” 
+I tried to intimidate, and failed. Maybe it is my gentleness from all my time at the temple, because instead of this thing cowering, it puffs itself up and says, “I am a follower of Demogorgon! Plinki has said that anybody who follows Demogorgon is making the Derro proud and powerful. And we’re going to be great again!” 
 
 
 And it gets worse. 
@@ -147,7 +147,7 @@ So I cast Toll the Dead, and the deadly chimes echo throughout the caves, but on
 I look at Ulnara, who realizes that I am Drow. And that the Drow do not mess around. 
 
 
-“Thank you for this new supply! I know you will tell Pliinki that I Ulnar,a did much to help the Ember Vanguard!” 
+“Thank you for this new supply! I know you will tell Plinki that I Ulnar,a did much to help the Ember Vanguard!” 
 
 
 “We shall, certainly,” says Grygum in his preacher’s voice. 
@@ -276,7 +276,7 @@ They don’t notice us, so we continue.
 The cavern floor rises to form a natural 5-foot-high platform. A glowing ritual circle dominates the top of the platform. Around the platform are books made from Trillimac. I look carefully and notice a few of the titles - “The Spiraling Descent: A Treatise on Duality and Madness,” and “The Prince's Gift: On the Creation of Favored Spawn”, and “Rituals of the Two-Headed Beast.” 
 
 
-Errde Blackstaff wants evidence of Demogorgon’s influence, and here it is. And amongst the books are various papers. Knowing these creatures, there is probably enough evidence to convince Errde of whatever she wants. 
+Errde Blackskull wants evidence of Demogorgon’s influence, and here it is. And amongst the books are various papers. Knowing these creatures, there is probably enough evidence to convince Errde of whatever she wants. 
 
 
 I might not want to give it to her. But I know her type; if she doesn’t get evidence, she’ll invent it. 

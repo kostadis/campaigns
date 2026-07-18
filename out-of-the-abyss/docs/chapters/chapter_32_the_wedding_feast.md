@@ -17,7 +17,7 @@ Zalthir looks at Basidia and whinces, as if he understands all too well what Bas
 Basidia continues, “So now we have two inner circles, the circle of leaders and the circle of masters. The circle of those closest to them.” 
 
 
-Basidia sighs and then points ahead to another Myconid, “They is Hepbode, and they are the grower. They are friends of Phylo, not of mine.” 
+Basidia sighs and then points ahead to another Myconid, “They is Hepbobe, and they are the grower. They are friends of Phylo, not of mine.” 
 
 
 As we approach, Hepbobe starts talking to us once the Spores of Raport connect with our mind. “We are in charge of growing food for the colony.”
@@ -84,7 +84,7 @@ The organizational disputes of the Sovereign remind me of the preachings of the 
 To be a mushroom is to be connected. To be a sentient mushroom is to be an individual and connected. And surely there are a thousand different ways to connect. 
 
 
-As we leave the Circle of Growers, Zalthir asks Basidia whether Hebopbe’s food supply has the evil spores, and they say no. 
+As we leave the Circle of Growers, Zalthir asks Basidia whether Hepbobe’s food supply has the evil spores, and they say no. 
 
 
 Soon, we arrive at another circle, where a Myconid appears to be dancing. 

@@ -7,7 +7,7 @@ Zalthir notices that Sarith is not under the rocks and thinks, “We have not lo
 He looks at Daz, “If I don’t get him  out of there, he will die.” He braces against some rocks and shoves them out of the way. Daz is injured and unconcious but alive.
 
 
-Stool is relieved to see that Gyrgum is alive. Gyrgum tells the frightened Myconid child, “Go help Shuushar.” 
+Stool is relieved to see that Grygum is alive. Grygum tells the frightened Myconid child, “Go help Shuushar.” 
 
 
 And Buppido shouts, “The divine plan said you would rescue me, Sarith!” 
@@ -106,7 +106,7 @@ Jim Jar mutters, “That’s what happens with Kuo-Toans, who think they aren’
 Sathir mutters about the need to find a path through the cave to the next tunnel and is about to give up when Grygum shouts, “Is this what you are looking for?”
 
 
-Sathir mutters, “Yes, I saw that.” He looks annoyed, “I didn’t need your help. But it’s good that you can help.” And then rushes down towards the tunnel that Gyrgum saw. 
+Sathir mutters, “Yes, I saw that.” He looks annoyed, “I didn’t need your help. But it’s good that you can help.” And then rushes down towards the tunnel that Grygum saw. 
 
 
 As the day ends, Sathir explains, “We did well to put some distance. But we have no water. And if we don’t find some soon, things will get unpleasant. Tomorrow, we must go slow. Eldeth, it’s up to you to hide us.”

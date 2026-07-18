@@ -2,16 +2,16 @@
 
 
 ## 3rd day of the 2nd tenday of Taraskh, 1492
-### Gyrgum
+### Grygum
 
 
 The prison door creeks open, and a voice rings, “Wake up.” 
 
 
-Gyrgum opens his eyes. “How much time has passed?” he wonders. From his time as a prisoner the last time, he’s learned not to worry about how much time has passed. 
+Grygum opens his eyes. “How much time has passed?” he wonders. From his time as a prisoner the last time, he’s learned not to worry about how much time has passed. 
 
 
-The voice speaks in undercommon—a language Gyrgum doesn’t understand. 
+The voice speaks in undercommon—a language Grygum doesn’t understand. 
 
 
 But he can gather from the gestures that Ront and Prince Derendil, the deluded Quaggoth, are to follow this Drow. 
@@ -32,7 +32,7 @@ Another Drow points at Daz, Sarith, and Stool. Daz has a very sour expression.
 “Oh dear, Guldor has the dirty job of cleaning chamber pots. I wonder what he failed at.” 
 
 
-Then, at last, it’s Gyrgum’s turn. A Drow appears and points at Shuushar, Topsy, Turvy, and Gyrgum. Shuushar smiles, or his mouth spreads in a way that might be a smile, “Excellent, Imbros wants us to cook.” 
+Then, at last, it’s Grygum’s turn. A Drow appears and points at Shuushar, Topsy, Turvy, and Grygum. Shuushar smiles, or his mouth spreads in a way that might be a smile, “Excellent, Imbros wants us to cook.” 
 
 
 ## ![image]()
@@ -103,7 +103,7 @@ He notices that Elspeth sees him pocket the paper. He notices that she finds a c
 
 
 As the basket comes up, he notices Grygum entering a cave. 
-### Gyrgum 
+### Grygum 
 . 
 As Grygum walks towards the mess hall, the orc thinks, “Not speaking undercommon is awkward, but then again, understanding the language of your captors may be a problem. And anyway, I’ve got plenty of folks around me who can translate.” 
 
@@ -237,13 +237,13 @@ Later that day, Daz is back in the prison cell, surrounded by his fellow prisone
 Daz notes that this allows them to coordinate any plans without being discovered. 
 
 
-Topsy and Turvy are very excited about Gyrgum’s cooking. Even Shuushar seems excited, although he cautions the orc, “If you were to show this cooking to my people, they might imagine a god like you.” 
+Topsy and Turvy are very excited about Grygum’s cooking. Even Shuushar seems excited, although he cautions the orc, “If you were to show this cooking to my people, they might imagine a god like you.” 
 
 
 It’s then that Buppido speaks, or instead projects his mind, “The Divine plan says we must collaborate and share information.” 
 
 
-Gyrgum has a peculiar expression as Buppido says the word divine. Later, Daz learns from the cleric that Buppido thinks he is some kind of god, or he is a god. 
+Grygum has a peculiar expression as Buppido says the word divine. Later, Daz learns from the cleric that Buppido thinks he is some kind of god, or he is a god. 
 
 
 After sharing the information, Buppido says, “The divine plan requires that you create a distraction while I escape.”
@@ -258,7 +258,7 @@ Buppido looks surprised, “We?”
 Thorin, who also picked up on the derro’s insanity, says, “Well, how else will we protect you so that you can fulfill the divine plan?” 
 
 
-The derro stares at Gyrgum and says, “You are quite right. You have pledged your swords and your spells! And your lives.” 
+The derro stares at Grygum and says, “You are quite right. You have pledged your swords and your spells! And your lives.” 
 
 
 Daz thinks, “At least we have that.” 
@@ -271,8 +271,8 @@ Buppido, like any mysterious god or charlatan masquerading as a god, would say, 
 
 
 ## 4th day of the 2nd Tenday of Taraskh
-### Gyrgum
-The next day, Gyrgum goes to the kitchen again. This time, six Drow soldiers are present. 
+### Grygum
+The next day, Grygum goes to the kitchen again. This time, six Drow soldiers are present. 
 
 
 Shuushar explains that they heard about his fantastic show and wanted to experience it themselves.
@@ -281,7 +281,7 @@ Shuushar explains that they heard about his fantastic show and wanted to experie
 The orc is pleased but wonders how to steal a knife. Topsy and Turvy look at him and wink. Seeing how they successfully stole food, he guesses they might be better placed to steal a knife. 
 
 
-As Gyrgum, with theatrical flair, tosses ingredients into the air, moves like a dancer, and hums a tune, Topsy and Turvy steal several knives. 
+As Grygum, with theatrical flair, tosses ingredients into the air, moves like a dancer, and hums a tune, Topsy and Turvy steal several knives. 
 
 
 The drow soldiers, delighted at this entertainment, ignore the two deep gnomes who make off with a knife. 
@@ -375,7 +375,7 @@ Zalthir says, “You seem to be confident we will escape and live.”
 “Wanna bet?” 
 
 
-Gyrgum asks, “Where will we find safety?” 
+Grygum asks, “Where will we find safety?” 
 
 
 Eldeth laughs, “Safety? This is the Underdark.  There is not enough resources or space for anyone. Survival depends on your wits. People tend to distrust outsiders and view them as a resource to be used.” 

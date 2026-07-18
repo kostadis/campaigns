@@ -208,7 +208,7 @@ And yet, despite everything Hemeth said, Daz is unprepared for what he sees. The
 And the ambiance is just that of work. The sound of hammers warping metals, the stench and heat, and the light of the smelters make all of Gracklstugh appear as one large work camp. But the acrid smoke makes breathing hard and burns through his sense of smell, which he will remember most from his time here. 
 
 
-Gyrgum asks, “So what are we doing here?” 
+Grygum asks, “So what are we doing here?” 
 
 
 Daz looks at him and is about to answer when Jimjar whispers, “Buy equipment so we can survive more easily. Get information on how to get out of the Underdark.” 
@@ -438,4 +438,4 @@ Zalthir strikes the giant once, focusing his mind on striking again and striking
 Thorin feints and strikes the giant. The creature howls. 
 
 
-Gyrgum raises his holy symbol again and speaks the words of power, and the giant again burns.
+Grygum raises his holy symbol again and speaks the words of power, and the giant again burns.

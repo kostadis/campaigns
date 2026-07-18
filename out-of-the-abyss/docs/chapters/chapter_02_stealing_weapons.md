@@ -44,7 +44,7 @@ The rest of the prisoners, led by Buppido, take advantage of the distraction, ru
 Prince Derendil declares, “I am already armed in this hideous form, and it would bring me great joy to kill this drow.” He then charges at Imbros. 
 
 
-Gyrgum decides that an armed cleric is better than a disarmed cleric and follows his fellow prisoners to the armory.
+Grygum decides that an armed cleric is better than a disarmed cleric and follows his fellow prisoners to the armory.
 
 
 Imbros realizes that this revolt has become much more dangerous. He strikes Thorin, who falls, bleeding and unconscious. 
