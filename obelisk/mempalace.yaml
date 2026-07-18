@@ -1,18 +1,24 @@
+# mneme-rendered; source-sha256: 53a1f5ec31cb9038d879033abc8ac95bbbb912b524f1fbf9c34f6fec4d788963; do-not-edit
 palace: obelisk
 wing: obelisk
 rooms:
 - name: npcs
-  description: NPC dossiers, character profiles, relationships, motivations
-  keywords: [npcs, npc, dossier, character, profile, relationship]
+  description: npcs content
+  keywords:
+  - npcs
+- name: party
+  description: party content
+  keywords:
+  - party
 - name: world
-  description: World state, lore, background, regional geography, politics
-  keywords: [world_state, world, background, lore, region, history, faction, obelisk, phandalin]
+  description: world content
+  keywords:
+  - world
 - name: arcs
-  description: Quest tracking, arc scores, threat trackers, campaign planning
-  keywords: [tracking, arc, quest, score, threat, planning, campaign_state]
-- name: mechanics
-  description: Game mechanics, rules, encounter frameworks
-  keywords: [mechanics, rules, encounter, combat, spell]
+  description: arcs content
+  keywords:
+  - arcs
 - name: general
-  description: Top-level docs that don't fit a specific room
-  keywords: []
+  description: general content
+  keywords:
+  - general
