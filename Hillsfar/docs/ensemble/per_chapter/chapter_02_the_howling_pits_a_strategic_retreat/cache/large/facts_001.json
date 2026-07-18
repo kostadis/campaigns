@@ -1,0 +1,254 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session takes place on December 7th, 2025.",
+    "source_quote": "Date: Dec 7th, 2025",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Waydown",
+    "fact": "The Waydown is a familiar sinkhole serving as a gateway to the Underdark, located half a day's journey from Hillsfar.",
+    "source_quote": "The party returned to the familiar sinkhole known as The Waydown, a half-day's journey from Hillsfar that served as their gateway to the Underdark",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "wall construction",
+    "fact": "A partially built wall now surrounds the entrance to The Waydown.",
+    "source_quote": "they found a partially built wall surrounding the entrance",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Red Plume soldiers",
+    "fact": "Two nervous soldiers in splint armor are guarding the wall at The Waydown.",
+    "source_quote": "guarded by two nervous soldiers in splint armor",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Vuhm Yestral",
+    "fact": "Vuhm Yestral is the commander of the Red Plumes who returned to Hillsfar with a larger contingent.",
+    "source_quote": "Their commander, Vuhm Yestral, had returned to the city with a larger contingent of the Red Plumes",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Red Plumes",
+    "fact": "The Red Plumes have established a guard presence at The Waydown but no longer patrol the area daily.",
+    "source_quote": "a patrol used to go down once a day to clear the area of threats, but they themselves have never ventured below",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "magical gloves",
+    "fact": "The party crafted magical gloves for the Owlbear to enhance its attacks.",
+    "source_quote": "They enhanced their Owlbear companion with magical gloves that would make its attacks more powerful and effective in combat",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Goggles of Night",
+    "fact": "Daein purchased enchanted goggles that grant him darkvision.",
+    "source_quote": "Daein, the only member of the party without natural darkvision, finally purchased a pair of enchanted goggles that would allow him to see clearly in the perpetual darkness of the Underdark",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "descent to river",
+    "fact": "The party descended a hundred-foot drop to a swift-flowing underground river.",
+    "source_quote": "they descended the hundred-foot drop to the swift-flowing underground river",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "journey duration",
+    "fact": "The journey from The Waydown to the Howling Pits took two days.",
+    "source_quote": "began their two-day journey to the Howling Pits",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Murssvayas",
+    "fact": "Murssvayas provided accurate directions and a map for the journey to the Howling Pits.",
+    "source_quote": "guided by Murssvayas's accurate directions and map",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Howling Pits",
+    "fact": "The Howling Pits are a location in the Underdark characterized by rough tunnels, fungus, darkness, and a faint piping sound.",
+    "source_quote": "As they approached the Howling Pits, they detected a faint piping sound echoing through the caves",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "fire giant ambush",
+    "fact": "Two massive fire giants ambushed the party in a large cave within the Howling Pits.",
+    "source_quote": "the party was suddenly ambushed by two massive fire giants who leaped from behind stalactites",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "winged fire giant",
+    "fact": "One of the attacking fire giants possessed leathery wings that were too small for flight.",
+    "source_quote": "one possessed leathery wings too small for flight",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "multi-eyed fire giant",
+    "fact": "One of the attacking fire giants had an extra eye.",
+    "source_quote": "the other had an extra eye",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Felkur's failed attack",
+    "fact": "Felkur's Catapult spell against a fire giant rolled a natural one and dealt only four points of damage.",
+    "source_quote": "Felkur rolls a natural one on his Catapult spell against a fire giant, dealing only four points of damage",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Bramgrim critical hit",
+    "fact": "A fire giant landed a critical blow on Bramgrim dealing seventy-four points of damage and knocking him unconscious.",
+    "source_quote": "one of the giants landed a critical blow that sent Bramgrim crashing to the ground, unconscious and bleeding",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "party retreat",
+    "fact": "The party decided to flee from the fire giants after realizing they were outmatched.",
+    "source_quote": "The party quickly realized they were outmatched and made the difficult decision to flee",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Bramgrim recovery",
+    "fact": "Bramgrim regained consciousness after the party fled.",
+    "source_quote": "After Bramgrim regained consciousness, confused and shaken by what had happened",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "stealth bypass",
+    "fact": "The party used Akritas's Pass Without Trace spell to sneak past the fire giants.",
+    "source_quote": "Akritas wove a spell that would mask their movements, and despite a stumble from Felkur, the party managed to sneak past the giants successfully",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Felkur stealth failure",
+    "fact": "Felkur stumbled and stubbed his toe while attempting to sneak past the giants.",
+    "source_quote": "despite a stumble from Felkur",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "giant reaction to noise",
+    "fact": "One giant briefly stirred and screamed in frustration after hearing the party's disturbance.",
+    "source_quote": "One giant notices the disturbance and screams in frustration, thrusting its sword into the ground before lying back down to sleep",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "deep pits section",
+    "fact": "The party encountered a section of the Howling Pits filled with dangerously deep pits and howling winds.",
+    "source_quote": "The party then encountered a treacherous section filled with dangerously deep pits from which relentless winds howled",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "flight across pits",
+    "fact": "Daein used magical flight to transfer each party member across the deep pits.",
+    "source_quote": "Daein used his magical abilities to grant himself flight and then transferred each party member across the hazardous terrain one by one",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Cave Creeper cave",
+    "fact": "The party reached a wide cave bisected by a swift-flowing underground river with banks covered in gray and white fungi.",
+    "source_quote": "They soon reached a wide cave bisected by a swift-flowing underground river. Strange gray and white fungi covered the banks in large patches",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Cave Creepers",
+    "fact": "Bramgrim identified the gray and white fungi as Cave Creepers, which drive anyone mad if touched.",
+    "source_quote": "Bramgrim smugly explained that the fungi were Cave Creepers, which would drive anyone mad if touched",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "river crossing",
+    "fact": "The party flew over the river to avoid contact with the Cave Creepers.",
+    "source_quote": "The party decided to fly over the river, with Daein once again using his powers to transfer everyone across while meticulously avoiding contact with the dangerous fungi",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "yellow mold tunnel",
+    "fact": "The party entered a tunnel peppered with patches of yellow mold.",
+    "source_quote": "Further along their journey, the party entered a tunnel peppered with patches of yellow mold",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "spore exposure",
+    "fact": "A sudden wind picked up in the yellow mold tunnel, threatening to spread poisonous spores.",
+    "source_quote": "As they proceeded, the wind suddenly picked up, threatening to spread the poisonous spores into the air",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Bramgrim poison resistance",
+    "fact": "Bramgrim suffered some effects from the yellow mold spores despite his natural resistance before overcoming them.",
+    "source_quote": "Bramgrim, despite his natural resistance, suffered some effects before ultimately overcoming them",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "tight passageway",
+    "fact": "The tunnel narrowed to a tight passageway with high ceilings.",
+    "source_quote": "The tunnel eventually narrowed to a tight passageway with high ceilings",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "cloakers",
+    "fact": "Daein spotted bat-like cloakers lurking in the shadows above the tight passageway.",
+    "source_quote": "Using his keen observation skills, Daein spotted bat-like creatures lurking in the shadows above",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "cloaker evasion",
+    "fact": "The party successfully evaded the cloakers using Akritas's concealment spell.",
+    "source_quote": "the party carefully crept through the narrow passage. Despite another misstep from Felkur, the magical enhancement to their stealth proved sufficient, and they successfully evaded the cloakers without being detected",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Daein's mandolin",
+    "fact": "Daein used his mandolin to cast the Fly spell.",
+    "source_quote": "Daein uses his mandolin to cast Fly on himself",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "giants' madness",
+    "fact": "The party is investigating the true danger the maddened giants pose to the world above.",
+    "source_quote": "understand the true danger these maddened giants posed to the world above",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "giants' weak points",
+    "fact": "The party wonders if the extra eye and wings on the fire giants are weak points.",
+    "source_quote": "The party discusses the giants' unique features, with one having an extra eye and the other having wings, wondering if these are weak points",
+    "quote_verified": true
+  }
+]

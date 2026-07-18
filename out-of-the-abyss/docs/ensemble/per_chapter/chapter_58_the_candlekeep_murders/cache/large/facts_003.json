@@ -1,0 +1,114 @@
+[
+  {
+    "type": "npc",
+    "subject": "Daral Yashenti",
+    "fact": "Daral Yashenti is a former keeper of the tomes who assaulted his superior, was not executed but merely fired, and now exhibits relief-induced euphoria. He gave the poisoned book to Janussi as a symbolic gesture, later became enraged upon seeing Janussi read it, and may have been the one licking its pages \u2014 the method of poison transfer. He deflects blame onto others and claims intoxication and confusion.",
+    "source_quote": "I was drugged. I was upset. I don't know what I was thinking.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi was the former keeper of the tomes, replaced by Daral. He was perceived as uneducated, a bookseller who wanted to sell priceless poetry to fund a worthless tome about demonic planes. He was poisoned by licking the pages of a book Daral had given him as a lesson \u2014 the poison transferred via finger contact. He was killed, not by violence, but by ingestion.",
+    "source_quote": "That's \u2014 Sylvira.\" \"Just to please his horned tart.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is the lead interrogator who methodically dismantles Daral\u2019s narratives using contradiction, psychological pressure, and forensic logic. He identifies the book as the vector of poison and confronts Daral with the physical evidence \u2014 the finger-wiping pattern. He maintains control of the interrogation and insists on evidence collection.",
+    "source_quote": "We did want to take it into evidence.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a former shadow monk who has been permanently bonded to Glabbagool, an ooze entity. He lacks understanding of silent communication and was absent during the class where Glabbagool\u2019s wisdom was taught. He is emotionally detached, pragmatic, and reacts with excitement to his new abilities, despite his ignorance of deeper philosophical contexts.",
+    "source_quote": "I liked it.\" \"This is exciting.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is an ooze entity who has bonded with Zalthir, becoming a sentient, mobile companion. He possesses the ability to teleport in darkness, deliver acidic strikes, and dissolve targets via corrosive embrace. He is calm, deliberate, and philosophically insightful \u2014 having mastered the lesson of stillness that Zalthir missed. He prioritizes housekeeping, reminding Zalthir to monitor the drow in the bag of holding.",
+    "source_quote": "The body that mimics nothing is already shaped by what it watches.\" \"We ride.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "The Keepers of the Tomes",
+    "fact": "The Keepers of the Tomes are an institutional hierarchy that values scholarly integrity and forbids the sale of sacred texts. Violations \u2014 such as attempting to sell poetry for demonic treatises \u2014 are met with severe punishment, but Daral\u2019s case suggests inconsistency or leniency in enforcement. The position of keeper is highly contested, with multiple aspirants vying for power.",
+    "source_quote": "An uneducated bookseller is what he is.\" \"May the gods bless whoever bumped him off.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "The Whispering Dome",
+    "fact": "The Whispering Dome is a sacred space where supplicants undergo silent, introspective trials to gain self-knowledge. It values stillness, non-verbal understanding, and philosophical insight. The monks there recognize wisdom in silence and punish ignorance of its lessons \u2014 as Zalthir\u2019s absence during the silent communication class demonstrates.",
+    "source_quote": "What is the art of movement.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "poisoning of Janussi",
+    "fact": "Janussi was poisoned via a book that had been licked by Daral Yashenti, whose finger carried the toxin from repeated page-turning. The poison was not administered by violence but by subtle, ritualistic contact \u2014 a method that implicates the victim\u2019s own engagement with the object of affection and anger. The act was deliberate, concealed, and tied to emotional conflict.",
+    "source_quote": "The book had been in his collection for years... he wet his finger and began flicking through the pages.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "bonding of Zalthir and Glabbagool",
+    "fact": "Zalthir and Glabbagool formed a permanent, symbiotic bond within the Whispering Dome. Glabbagool chose Zalthir not by force but by silent alignment, settling on his arm like a natural extension. The bond grants Glabbagool mobility and Zalthir enhanced combat abilities, including teleportation, acidic strikes, and dissolution via corrosive embrace. The event marks Zalthir\u2019s transformation from a negligent student to a vessel of unlearned wisdom.",
+    "source_quote": "Glabbagool and Zalthir, together now.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "The Hearth",
+    "fact": "The Hearth is a tavern and interrogation site where Daral Yashenti was questioned. It is a place of casual speech, alcohol, and performative camaraderie \u2014 used by Thorin to exploit Daral\u2019s comfort in social settings. The environment contrasts with the gravity of the crime, allowing Daral to speak freely and reveal contradictions through his tone and habits.",
+    "source_quote": "Barman, a brown of spice brandies for our beloved brownnosers.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Whispering Dome",
+    "fact": "The Whispering Dome is a silent, dimly lit chamber where spiritual trials occur. It is a place of stillness and introspection, where answers are not spoken but revealed through silence. It is where Glabbagool demonstrated profound understanding of movement and where Zalthir failed to comprehend the lesson he had missed \u2014 a failure that now defines his bond with the ooze.",
+    "source_quote": "Quiet. Low light pooling under the curve of the ceiling.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "the poisoned book",
+    "fact": "The poisoned book was a personal favorite of Daral Yashenti, given to Janussi as a symbolic lesson on the value of sacred texts. It became the vector of death when Daral licked its pages during emotional turmoil, transferring poison through finger contact. It was later used by Daral to distract and mislead investigators, and it was seized as evidence by Thorin.",
+    "source_quote": "He wet his finger and began flicking through the pages.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "the bag of holding",
+    "fact": "The bag of holding contains captured drow, whose monitoring is a responsibility Glabbagool insists upon even in the moment of his own transformation. It represents unresolved threats and the continuity of duty \u2014 a reminder that even in transcendence, obligations remain. It is a key element in Glabbagool\u2019s pragmatic nature.",
+    "source_quote": "The drow in the bag of holding still needed watching.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the identity of the poisoner",
+    "fact": "The thread of who poisoned Janussi remains formally unresolved, but all evidence points to Daral Yashenti \u2014 the only person who consistently handled the book with his fingers, expressed rage over its contents, and exhibited the physical behavior (licking pages) that enabled transfer. His alibi of intoxication and his deflection toward others are narrative tactics, not proof of innocence.",
+    "source_quote": "The dead poisoner is the innocent one.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Zalthir\u2019s missed lesson",
+    "fact": "The thread of Zalthir\u2019s ignorance regarding silent communication remains unaddressed. Glabbagool mastered the lesson Zalthir slept through \u2014 a failure that now defines their bond. The implication is that Zalthir\u2019s growth as a shadow monk is incomplete, and his new powers are built on a foundation he never learned \u2014 a vulnerability disguised as strength.",
+    "source_quote": "That, apparently, had been the day I was sleeping.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "midnight deadline",
+    "fact": "Daral Yashenti is to be held under surveillance until midnight, when a cleric and a sword capable of drawing poison will be brought to his side. If he dies after that hour, it will be interpreted as evidence that he was the poisoner \u2014 the poison was meant to kill only if he were innocent. The timing is a ritualistic test of guilt.",
+    "source_quote": "We'd keep Daral close until midnight.",
+    "quote_verified": false
+  }
+]

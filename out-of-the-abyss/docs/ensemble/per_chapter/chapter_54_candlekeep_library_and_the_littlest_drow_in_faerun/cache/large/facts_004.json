@@ -1,0 +1,142 @@
+[
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is cited by Daz at every available opportunity, making Malfire references an ambient weather condition within the party, and has been pulled into discussions about this habit.",
+    "source_quote": "We had been through enough together that the citations had become a kind of ambient weather condition, something you adapted to rather than fought.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin responded immediately and mercilessly to demands for information, refusing questions and asserting that no book was donated, and later received directional instruction regarding Philemon with the quiet satisfaction of someone who had hoped for exactly those words.",
+    "source_quote": "You don't get a question. You did not donate a book.\", \"Thorin received this information like a man who has been hoping someone would say exactly these words.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Vareth",
+    "fact": "Vareth is a half-elf scholar with a decades-long specialty in half-orc Bahamut converts, a previously obscure niche that became a flood after a living half-orc cleric of Bahamut entered his life, and he now has funding, conference invitations, and a newly coined term \u2014 'Stroud's Gambit' \u2014 to anchor his research.",
+    "source_quote": "He grabbed my hand and practically dragged me.\", \"The field of Bahamut half-orc conversions will benefit tremendously from your interview.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Stroud",
+    "fact": "Stroud, a dwarf who cannot actually play chess, defeated Protanther \u2014 an ancient gold dragon who had analyzed the same position for four hundred years \u2014 by rolling a move that landed perfectly and definitively, triggering Protanther\u2019s defection to the alliance and reshaping scholarly understanding of divine intervention.",
+    "source_quote": "Stroud rolled \u2014 and it landed perfectly. Definitively. The kind of thing that doesn't just work, it announces itself.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Protanther",
+    "fact": "Protanther is an ancient gold dragon who spent four hundred years mapping every possible chess move in a single position, was certain of the outcome, and was so stunned by Stroud\u2019s unexpected victory that he joined the alliance.",
+    "source_quote": "Protanther had mapped every possible move. He was certain. And then Stroud rolled \u2014 and it landed perfectly.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Philemon",
+    "fact": "Philemon is an avowed monk specializing in psychological preservation and historical cataloging of ancient sentient artifacts, with a tremendous track record of success in resolving interpersonal conflict among sentient artifacts, and was the subject of directional instruction given to Thorin and Dawnbringer.",
+    "source_quote": "an avowed monk specializing in psychological preservation and historical cataloging of ancient sentient artifacts, with a tremendous track record of success in working through the interpersonal conflict issues of the sentient artifact.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer received directional instruction regarding Philemon alongside Thorin, and was the subject of a personal remark from the speaker about needing couples counseling, which was acknowledged as correct.",
+    "source_quote": "I'm all up for couples counseling with Dawnbringer.\", \"Good. They needed it.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir was assigned by the First Reader to investigate the Jimjar thread, which dovetailed neatly with an avowed named Khell-Vire who wanted to learn about something specific \u2014 and not about the party generally, but about the speaker in particular.",
+    "source_quote": "Zalthir got the Jimjar thread \u2014 which apparently dovetailed neatly with an avowed named Khell-Vire who wanted to learn about something specific. The First Reader clarified: not about the party generally, but about me in particular.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "The First Reader",
+    "fact": "The First Reader assigned scholars to investigate threads related to the speaker, clarified that inquiries were about the speaker personally and not the party, and was the target of Vareth\u2019s outrage over withheld information regarding a cleric of Bahamut.",
+    "source_quote": "The First Reader assigned scholars.\", \"I cannot believe you did not tell me about the arrival of a cleric of Bahamut.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Bahamut's followers",
+    "fact": "Bahamut\u2019s followers have experienced a surge of scholarly and theological interest due to the emergence of a half-orc cleric, sparking debates about whether this signals a divine plan, and triggering a reevaluation of the orc pantheon\u2019s relationship with draconic deities.",
+    "source_quote": "What did the sudden half-orc interest in Bahamut mean for the orc pantheon? Was it part of Bahamut's plan?",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Stroud's Gambit",
+    "fact": "Stroud's Gambit is the newly coined term describing the improbable, perfectly timed chess move by Stroud that defeated Protanther after four centuries of analysis, and has become a foundational concept in Vareth\u2019s research on divine intervention and accidental revelation.",
+    "source_quote": "Stroud's Gambit.\", \"The field of Bahamut half-orc conversions will benefit tremendously from your interview.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "arrival of a half-orc cleric of Bahamut",
+    "fact": "The arrival of a living half-orc cleric of Bahamut into Vareth\u2019s study transformed his decades-long obscure research into a flood of funding, conference invitations, and scholarly controversy, marking a paradigm shift in draconic theology.",
+    "source_quote": "A living half-orc cleric of Bahamut had walked through his door.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "theological implications of half-orc Bahamut conversions",
+    "fact": "The theological implications of half-orc conversions to Bahamut remain unresolved, with scholars debating whether this reflects divine strategy, cultural evolution, or accidental alignment, and the speaker\u2019s personal experience is now a central data point.",
+    "source_quote": "What did the sudden half-orc interest in Bahamut mean for the orc pantheon? Was it part of Bahamut's plan?",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is the location where scholars are assigned threads, where Vareth confronts the First Reader, where Stroud defeats Protanther, and where the speaker gathers notes on theological documents, prayer books, and Underdark evidence.",
+    "source_quote": "Somewhere in the library, there were answers waiting. About Bahamut's intentions, about what my conversion meant in the broader theological landscape...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "prayer book",
+    "fact": "The prayer book is one of the speaker\u2019s accumulated notes and pieces of evidence gathered during months in the Underdark, now being used to interrogate theological questions in Candlekeep.",
+    "source_quote": "I had notes \u2014 the prayer book, the theological documents, the accumulated evidence of months in the Underdark...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "theological documents",
+    "fact": "Theological documents are among the speaker\u2019s accumulated notes from months in the Underdark, now being referenced to understand Bahamut\u2019s intentions and the significance of the speaker\u2019s conversion.",
+    "source_quote": "I had notes \u2014 the prayer book, the theological documents, the accumulated evidence of months in the Underdark...",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Protanther",
+    "fact": "Protanther is an ancient gold dragon who spent four hundred years analyzing a single chess position, was certain of all outcomes, and was defeated by Stroud\u2019s unexpected move \u2014 a rare instance of a monster being emotionally and ideologically transformed by an opponent\u2019s ignorance.",
+    "source_quote": "Protanther had mapped every possible move. He was certain. And then Stroud rolled \u2014 and it landed perfectly.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "four hundred years",
+    "fact": "Four hundred years is the duration Protanther spent analyzing the same chess position, establishing a temporal anchor for the event of Stroud\u2019s Gambit and highlighting the scale of preparation that still contained a blind spot.",
+    "source_quote": "an ancient gold dragon who had been analyzing the same position for four hundred years.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Malfire citations",
+    "fact": "The persistent citation of Malfire by Daz has become an ambient, unspoken norm within the party, so ingrained that it is referenced as a condition of their relationship, and the speaker confirms its accuracy by invoking Volume 3.",
+    "source_quote": "It's like we're kind of sick of each other, but somehow still together, yeah.\", \"As Malfire said in Volume 3.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "The Speaker",
+    "fact": "The speaker is a half-orc cleric of Bahamut whose personal conversion has become the central data point in Vareth\u2019s research, is the subject of scholarly inquiry regarding divine intent, and has coined the term 'Stroud's Gambit' to describe a paradigm-shifting event that redefined academic understanding of accidental revelation.",
+    "source_quote": "I haven't moved into that phase yet.\", \"Stroud's Gambit.\", \"I took notes. It's what I do.",
+    "quote_verified": false
+  }
+]

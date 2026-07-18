@@ -16,3 +16,7 @@ Facktore’s use of a rotating platform with four automatically reloading heavy 
 This concept blurs the line between combat and observation, weapon and instrument. It transforms hostility into a form of inquiry — one that requires no justification, no dialogue, and no remorse. It is the logical endpoint of [[unregulated-invention]]: when science is divorced from ethics, even violence becomes a measurement.
 
 Ambush as experiment is not merely cruel — it is dehumanizing. It reduces sentient beings to variables in a formula. The party did not face an enemy — they were subjected to a test. And in a world where gods are silent, the most chilling threats are not those that roar — but those that measure.
+
+## Related
+
+- [[innocent-as-test-subject]]

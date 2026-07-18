@@ -17,3 +17,11 @@ Concept referring to Hsing's relationship with Azam. Central to the narrative an
 ## Notes
 - Hsing's relationship with Azam.
 - Central to Hsing's authority and strategy.
+
+## Related
+
+- [[seer]]
+- [[spymaster]]
+- [[secret-organization]]
+- [[region]]
+- [[payment]]

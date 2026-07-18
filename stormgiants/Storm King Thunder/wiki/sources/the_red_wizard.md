@@ -40,3 +40,9 @@ related: []
 - **Pages to Create or Update:** Intelligence-Networks, Statues, Psychic-Possession, Ritual-Circles
 - **Emphasis:** Highlight the role of intelligence networks and the significance of statues and paranormal phenomena in the narrative.
 - **Open Questions:** Investigate the nature of the Red Wizard’s relationship with Bob and the drow fighters’ behavior post-explosion.
+
+## Related
+
+- [[the_vampire_unnamed]]
+- [[uthor]]
+- [[the_wight_elquen]]

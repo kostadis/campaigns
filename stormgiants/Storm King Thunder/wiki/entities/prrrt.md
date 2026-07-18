@@ -39,6 +39,6 @@ sources: ["prrrt.md"]
 
 ## Related Pages
 - [[galeb-duhr]]
-- [[sentinels]]
-- [[greypeak-mountains]]
+- [[prrrt]]
+- [[greypeak-mountains-2026-06-06-132855]]
 ---

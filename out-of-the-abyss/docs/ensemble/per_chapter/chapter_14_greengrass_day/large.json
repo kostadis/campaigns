@@ -1,0 +1,327 @@
+[
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a survivor who has grown increasingly paranoid and strategic, now actively engaging in combat and interrogation tactics alongside his companions, and is deeply involved in decisions regarding captives and alliances in Gracklstugh.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a dragonborn who has evolved from a skeptical observer into a tactical leader, using magic like Darkness and strategic patience to neutralize threats, while also being deeply attuned to social dynamics and the psychological state of his companions.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a spellcaster whose impulsive use of magic often disrupts stealth but proves devastating in direct combat; he is pragmatic, focused on survival and equipment acquisition, and shows growing awareness of the city\u2019s peculiarities despite his tendency to act without forethought.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a cleric of Bahamut who seeks to understand the underlying causes of conflict in Gracklstugh, rejecting religious explanations in favor of political and social analysis; he is observant, morally grounded, and increasingly disturbed by the city\u2019s pervasive madness.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido is a former cultist who claims to have been guided by the Divine Plan; after consuming the Tongue of Madness, he reveals bitter truths about his companions and his own delusions, becoming a source of both vulnerability and dark humor in the group.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Brannum Redmarch",
+    "fact": "Brannum Redmarch is a former slave and now a black-market trader with connections to magical items in Gracklstugh; he is fearful but opportunistic, willing to negotiate under threat of violence to secure his survival.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Dulgir",
+    "fact": "Dulgir is a Duergar merchant in the Blade Bazaar who exhibits signs of the city\u2019s madness\u2014shifting speech patterns, denial of reality, and inexplicable behavior\u2014suggesting he may be under magical influence or affected by the same psychosis plaguing the city.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Duergar",
+    "fact": "The Duergar are a xenophobic, slaving society that values order, labor, and invisibility as tools of control; their city, Gracklstugh, is a grim industrial warren where paranoia, deception, and magical instability are systemic, and their leaders enforce rigid hierarchy through fear and unseen agents.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Kuo-toans",
+    "fact": "The Kuo-toans are a cultist race with ties to the Outer Planes and delusions of divine mandates; their presence in the narrative serves as a parallel to the Duergar\u2019s madness, suggesting a broader contagion of belief and insanity affecting the Underdark\u2019s inhabitants.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh is a massive Duergar metropolis in the Underdark, characterized by oppressive industry, invisible agents, deceptive merchants, and pervasive madness; its Blade Bazaar is a chaotic marketplace where truth is fluid and survival depends on navigating illusions and shifting loyalties.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Darklake District",
+    "fact": "The Darklake District is the only area in Gracklstugh where non-Duergar are permitted to move freely; it is a buffer zone of controlled chaos, marked by surveillance, economic exploitation, and the constant threat of disappearance or enslavement.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Blade Bazaar",
+    "fact": "The Blade Bazaar is the central marketplace of Gracklstugh, where weapons, magic items, and illicit goods are traded; its merchants exhibit signs of collective delusion\u2014denying conversations, speaking to invisible siblings, and altering prices based on unspoken rules\u2014suggesting a city-wide psychological collapse.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Tongue of Madness",
+    "fact": "The Tongue of Madness is a magical mushroom that forces consumption and compels truth-telling, revealing hidden thoughts, resentments, and delusions; it was used on Buppido to extract confessions and expose the psychological fragility of the party.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Jug of Any Liquid",
+    "fact": "A magical jug found on the Duergar keelboat that can generate any liquid; the first liquid produced was mayonnaise, which dramatically improves the taste of bland food and becomes a symbol of small comforts in a hostile world.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Eldritch Claw Tattoo",
+    "fact": "An uncommon magical item sought by Zalthir; it is rumored to enhance combat prowess with arcane claws and is obtainable only through Brannum\u2019s underground contacts, representing the group\u2019s need for magical upgrades to survive Gracklstugh\u2019s dangers.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Duergar Attack on the Keelboat",
+    "fact": "A group of invisible Duergar ambushed the party\u2019s abandoned keelboat, triggering a chaotic underwater battle where magic, stealth, and surprise were constantly disrupted by Daz\u2019s impulsive spells and Grygum\u2019s insights; the encounter ended with all Duergar slain, but not before revealing their slaving practices.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Madness Manifests in the Blade Bazaar",
+    "fact": "Merchants in the Blade Bazaar exhibit synchronized delusions\u2014denying conversations, speaking to non-existent siblings, and changing prices unpredictably\u2014suggesting a contagious psychic or magical corruption spreading through Gracklstugh, mirroring the Kuo-toans\u2019 collapse.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Two-Headed Giant Breaches the Gate",
+    "fact": "A colossal, two-headed, gray-skinned giant bursts through the gate separating the Darklake District from the rest of Gracklstugh, smashing through defenses, killing a Duergar soldier, and causing widespread panic; its arrival signals a catastrophic escalation of the city\u2019s instability.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Origin of Gracklstugh\u2019s Madness",
+    "fact": "The source of the city\u2019s collective delusions\u2014whether magical, divine, or psionic\u2014is unknown; Grygum suspects it is not religious but political, while Zalthir and Jimjar wonder if it is tied to the Time of Trouble or a lingering artifact of the Second Sundering.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Buppido\u2019s Divine Plan",
+    "fact": "Buppido\u2019s obsession with the Divine Plan and his sudden clarity after consuming the Tongue of Madness suggest he was manipulated or deluded by an external force; his true allegiance and the nature of the 'plan' remain unresolved.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Invisible Brother",
+    "fact": "Multiple merchants claim to speak to an invisible brother who does not exist; this recurring delusion may be a symptom of the city\u2019s corruption, a magical illusion cast by Duergar enforcers, or a sign of deeper planar intrusion.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "9th day of the 1st Tenday of Myrtul",
+    "fact": "This date marks the party\u2019s arrival in Gracklstugh, the day they first encountered the city\u2019s systemic madness, the Duergar attack, and the catastrophic breach by the two-headed giant\u2014signaling the end of their transit and the beginning of their struggle to survive within the city.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Duergar Infiltrators",
+    "fact": "Invisible Duergar warriors who ambush the party on the keelboat; they use stealth, surprise, and their innate ability to vanish for an hour to hunt and capture slaves; their tactics reflect the Duergar\u2019s militarized slaving culture.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Two-Headed Giant",
+    "fact": "A massive, gray-skinned, two-headed giant that breaches the city\u2019s gate, unleashing destruction and chaos; its sudden appearance suggests it is either a prisoner of war, a failed experiment, or a manifestation of the city\u2019s growing madness.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Duergar Soldier",
+    "fact": "A standard Duergar enforcer whose broken body is flung through the air by the two-headed giant\u2019s blow; his death underscores the vulnerability of even the most disciplined Duergar in the face of the city\u2019s unraveling.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 9th day of the 1st Tenday of Myrtul.",
+    "source_quote": "[Continuing \u2014 Date: 9th day of the 1st Tenday of Myrtul, Speaker: Grygum]",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum initially thinks a giant is an illusion.",
+    "source_quote": "Grygum thinks, \u201cThat\u2019s an illusion!\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum changes his mind after debris hits his toe.",
+    "source_quote": "But a piece of debris hit his toe, and he mutters, \u201cNo, it\u2019s not.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin states that stone giants never talk or bellow.",
+    "source_quote": "Stone giants never talk. And they certainly don\u2019t bellow.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin says two heads is more normal than bellowing.",
+    "source_quote": "Two heads is more normal than bellowing.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum considers running from the situation.",
+    "source_quote": "For a moment, the priest of Bahamut wonders if he should just run.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum remembers Bahamut\u2019s teaching about good turns.",
+    "source_quote": "And then he remembers the teachings of Bahamut that when you do a good turn for someone, they may do a good turn for you.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "sign from Bahamut",
+    "fact": "A sign for Bahamut appears in the form of a Duergar patrol racing toward the giant.",
+    "source_quote": "A sign for Bahamut appears: a Duergar patrol racing towards this giant.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum says that fighting the giant may gain them friends.",
+    "source_quote": "If I fight him, we may get some friends.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum prepares to attack",
+    "fact": "Grygum turns to his companion, raises his holy symbol, and prepares to attack.",
+    "source_quote": "He turns to his companion, raises his holy symbol, and prepares to attack.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "combat begins",
+    "fact": "Zalthir and Thorin race into combat.",
+    "source_quote": "With that, Zalthir and Thorin race into combat.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz casts magic missiles",
+    "fact": "Daz strikes first with magic missiles that streak from his hand.",
+    "source_quote": "Daz strikes first with magic missiles that streak from his hand.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir casts circle of darkness",
+    "fact": "Zalthir places his circle of darkness just before the giant.",
+    "source_quote": "Zalthir places his circle of darkness just before the giant",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir enters circle of darkness",
+    "fact": "Zalthir enters the circle of darkness.",
+    "source_quote": "and enters it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir strikes giant (first attack)",
+    "fact": "Zalthir strikes the giant with a flurry of blows but misses.",
+    "source_quote": "Stepping up to the giant, he strikes with a flurry of blows. But he misses.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir uses mental focus",
+    "fact": "Zalthir uses his power to focus his mind.",
+    "source_quote": "So Zalthir uses his power to focus his mind and strikes again.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir lands glancing blow",
+    "fact": "Zalthir lands a glancing blow on the giant.",
+    "source_quote": "This time it is a glancing blow.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin attacks giant",
+    "fact": "Thorin rushes after Zalthir and strikes the giant with his sword.",
+    "source_quote": "Thorin rushes after Zalthir; with blindsight, he approaches the mad giant and strikes him with his sword.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum casts necrotic damage",
+    "fact": "Grygum speaks words of power that cause the giant to burn with necrotic damage and the power of Bahamut.",
+    "source_quote": "Grygum speaks the words of power that Bahamut has taught him, pointing his holy symbol at the mad giant who burns with necrotic damage and the power of Bahamut.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "giant attacks Thorin",
+    "fact": "The giant roars and smashes Thorin.",
+    "source_quote": "The giant roars and smashes Thorin,",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir deflects giant's attack",
+    "fact": "Zalthir deflects the giant's attack against Thorin just in time.",
+    "source_quote": "but Zalthir, using his awareness of the monk, deflects the attack just in time.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz casts magic missiles again",
+    "fact": "Daz speaks incantations and bolts of power fly from his finger, striking the giant.",
+    "source_quote": "His fingers move in the air, the incantations are spoken, and bolts of power fly from his finger, striking the giant.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir strikes air",
+    "fact": "Zalthir strikes the air while focusing his mind.",
+    "source_quote": "Zalthir strikes the giant once, focusing his mind on striking again and striking the air.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin feints and strikes",
+    "fact": "Thorin feints and strikes the giant, causing it to howl.",
+    "source_quote": "Thorin feints and strikes the giant. The creature howls.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum casts necrotic damage again",
+    "fact": "Grygum raises his holy symbol again and speaks words of power, causing the giant to burn again.",
+    "source_quote": "Gyrgum raises his holy symbol again and speaks the words of power, and the giant again burns.",
+    "quote_verified": true
+  }
+]

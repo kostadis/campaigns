@@ -1,0 +1,401 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session takes place on Feb 8th, 2026.",
+    "source_quote": "Date: Feb 8th, 2026",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Black Ember Outpost",
+    "fact": "The party stood victorious over the carnage at the Black Ember Outpost after a daring assault.",
+    "source_quote": "The party stood victorious over the carnage at the Black Ember Outpost",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Path of the Shadows",
+    "fact": "The path forward leads down a well on the Path of the Shadows.",
+    "source_quote": "The path forward, on the Path of the Shadows, was down a well",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "hidden chest",
+    "fact": "The party discovered a hidden chest in the storeroom.",
+    "source_quote": "discovered a hidden chest",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "potions of flying",
+    "fact": "The hidden chest contained potions of flying.",
+    "source_quote": "containing potions of flying",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "potions of fire giant strength",
+    "fact": "The hidden chest contained potions of fire giant strength.",
+    "source_quote": "and fire giant strength",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "coral gemstones",
+    "fact": "The hidden chest contained coral gemstones worth a considerable sum.",
+    "source_quote": "along with coral gemstones worth a considerable sum",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "staging the scene",
+    "fact": "The party decided to stage an elaborate scene inspired by a play about pretending the dead were still alive.",
+    "source_quote": "decided to stage an elaborate scene inspired by a play about pretending the dead were still alive",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daein's performance",
+    "fact": "Daein's performance made the bodies of the fire giant and ogres appear to be merely resting.",
+    "source_quote": "Daein's performance was so convincing that the bodies of the fire giant and ogres appeared to be merely resting",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "descent into the well",
+    "fact": "The party plunged into the dark, murky waters of the well.",
+    "source_quote": "The party plunged into the dark, murky waters of the well",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim rode on the Owlbear's back because he was too short to navigate the five-foot depth.",
+    "source_quote": "Bramgrim and Felkur\u2014both too short to comfortably navigate the five-foot depth\u2014riding on the Owlbear's back",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur rode on the Owlbear's back because he was too short to navigate the five-foot depth.",
+    "source_quote": "Bramgrim and Felkur\u2014both too short to comfortably navigate the five-foot depth\u2014riding on the Owlbear's back",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Owlbear",
+    "fact": "The Owlbear carried Bramgrim and Felkur through the tunnel.",
+    "source_quote": "riding on the Owlbear's back",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "swimming through tunnel",
+    "fact": "The party swam through a tunnel for about forty feet.",
+    "source_quote": "They swam through a tunnel for about forty feet",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Solom Ned'razak's private office",
+    "fact": "The tunnel led to a large cave that served as Solom Ned'razak's private office.",
+    "source_quote": "emerging into a large cave that served as Solom Ned'razak's private office",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom Ned'razak was a drow wizard working to subvert the power of Lolth's clerics in Maerimydra.",
+    "source_quote": "the drow wizard had been working to subvert the power of Lolth's clerics in Maerimydra",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "the Blink",
+    "fact": "Solom Ned'razak developed theories about a mysterious event called the Blink.",
+    "source_quote": "developed theories about a mysterious event called the Blink",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "faerzress flicker",
+    "fact": "The Blink caused all the faerzress to flicker dramatically before returning to normal.",
+    "source_quote": "caused all the faerzress\u2014a dimension-controlling substance that provides illumination and blocks teleportation\u2014to flicker dramatically before returning to normal",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "demons appearing",
+    "fact": "Demons began appearing throughout the Underdark after the Blink.",
+    "source_quote": "after which demons began appearing throughout the Underdark",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Solom's frustration",
+    "fact": "Solom Ned'razak expressed frustration at not having conceived of the Blink himself.",
+    "source_quote": "Solom's notes revealed his frustration at not having conceived of the Blink himself",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "wizards and liches from Menzoberranzan",
+    "fact": "Solom Ned'razak blamed powerful wizards and liches from Menzoberranzan for the Blink.",
+    "source_quote": "blaming powerful wizards and liches from Menzoberranzan for the catastrophe",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "failed negotiation",
+    "fact": "Solom Ned'razak initially attempted to negotiate with the demons but realized they were interested only in chaos and destruction.",
+    "source_quote": "He had initially attempted to negotiate with the demons but quickly realized they were interested only in chaos and destruction",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "clerics regaining powers",
+    "fact": "Lolth's clerics suddenly regained their powers after the Blink.",
+    "source_quote": "Lolth's clerics, who had been mysteriously unable to commune with their goddess for some time, suddenly regained their powers after the Blink",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Lolth's escape",
+    "fact": "Lolth used the event of the Blink to escape her imprisonment.",
+    "source_quote": "because Lolth herself had used the event to escape her imprisonment",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Maerimydra",
+    "fact": "The tunnel opened into Maerimydra, a city of fire and ash nestled in a titanic cavern six hundred feet tall.",
+    "source_quote": "The tunnel finally opened into Maerimydra itself, a city of fire and ash nestled in a titanic cavern six hundred feet tall",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "demonic control",
+    "fact": "The former drow metropolis of Maerimydra is now controlled by demonic forces aligned with the demon lord Graz'zt.",
+    "source_quote": "The former drow metropolis was now controlled by demonic forces aligned with the demon lord Graz'zt",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Graz'zt's forces",
+    "fact": "The streets of Maerimydra are patrolled by fire giants, armored ogres, hellhounds, and demons of all varieties.",
+    "source_quote": "its streets patrolled by fire giants, armored ogres, hellhounds, and demons of all varieties",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "drow of Maerimydra",
+    "fact": "The drow of Maerimydra have been reduced to chains and slavery.",
+    "source_quote": "with drow reduced to chains and slavery",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "western plateau",
+    "fact": "The western plateau of Maerimydra bears the six-fingered symbol of Graz'zt above a courtyard.",
+    "source_quote": "a western plateau bore the six-fingered symbol of Graz'zt above a courtyard",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "eastern castle",
+    "fact": "An eastern castle with towers stretching to the ceiling houses the Fire Giant Queen Hledh.",
+    "source_quote": "an eastern castle with towers stretching to the ceiling housed the Fire Giant Queen Hledh",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "southern district",
+    "fact": "A massive coliseum looms in the southern district of Maerimydra.",
+    "source_quote": "a massive coliseum loomed in the southern district",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Queen Hledh",
+    "fact": "Queen Hledh is the Fire Giant Queen residing in the eastern castle.",
+    "source_quote": "housed the Fire Giant Queen Hledh",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "encounter with ogres and imp",
+    "fact": "The party encountered four ogres tormenting a small creature by its barbed tail.",
+    "source_quote": "the party encountered four ogres tormenting a small creature by its barbed tail",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "imp",
+    "fact": "An imp was desperately clutching a bloodstained satchel while being tormented.",
+    "source_quote": "an imp desperately clutching a bloodstained satchel",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "imp's plea",
+    "fact": "The imp cried out for help, promising valuable information about the city in exchange for rescue.",
+    "source_quote": "The imp cried out for help, promising valuable information about the city in exchange for rescue",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "party decision to intervene",
+    "fact": "The party decided the potential intelligence was worth the risk of intervening.",
+    "source_quote": "they ultimately decided the potential intelligence was worth the risk",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "combat with ogres",
+    "fact": "Daein, Akritas, the Owlbear, and Felkur's magic made short work of the ogres.",
+    "source_quote": "Daein, Akritas, the Owlbear, and Felkur's magic making short work of the ogres",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Pipyap",
+    "fact": "The rescued imp introduced himself as Pipyap.",
+    "source_quote": "The rescued imp introduced himself as Pipyap",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pipyap accepting food",
+    "fact": "Pipyap eagerly accepted food from the party.",
+    "source_quote": "eagerly accepted food from the party",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pipyap's complaint",
+    "fact": "Pipyap complained about the lack of salt in the party's provisions.",
+    "source_quote": "though he complained about the lack of salt in their provisions",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "contract negotiation",
+    "fact": "The party crafted a favorable agreement after rejecting Pipyap's initial contract that would have bound them to serve him.",
+    "source_quote": "rejecting Pipyap's initial contract that would have bound them to serve him",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pipyap's origin",
+    "fact": "Pipyap revealed he had been brought to the prime material plane by a magic user's mistake.",
+    "source_quote": "Pipyap revealed he had been brought to the prime material plane by a magic user's mistake",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pipyap's avoidance of Nine Hells",
+    "fact": "Pipyap exploited loopholes in his contracts to avoid returning to the Nine Hells.",
+    "source_quote": "exploited loopholes in his contracts to avoid returning to the Nine Hells",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pipyap's advice on Hledh",
+    "fact": "Pipyap explained that Queen Hledh ruled from the eastern castle and should be avoided at all costs.",
+    "source_quote": "Queen Hledh ruled from the eastern castle and should be avoided at all costs",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Veperyd",
+    "fact": "Veperyd is a fiendish giant who runs the Coliseum and its betting operations.",
+    "source_quote": "Veperyd, who ran the Coliseum and its betting operations",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "unnamed fiendish giant",
+    "fact": "Another fiendish giant manages the six-fingered courtyard where demons and giants worship Graz'zt.",
+    "source_quote": "and another who managed the six-fingered courtyard where demons and giants worshiped Graz'zt",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Vraxen",
+    "fact": "Vraxen is a Yugoloth who lives in the Spire of Inevitable Reckoning.",
+    "source_quote": "Vraxen, a Yugoloth who lived in the Spire of Inevitable Reckoning",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Spire of Inevitable Reckoning",
+    "fact": "The Spire of Inevitable Reckoning houses a book the party needs to steal and a teleportation circle.",
+    "source_quote": "the same tower that housed both the book the party needed to steal and a teleportation circle",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "wizard from Mulmaster",
+    "fact": "A wizard from Mulmaster had arrived for dinner at the residence of Vraxen.",
+    "source_quote": "a wizard from Mulmaster had arrived for dinner at the residence of Vraxen",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "party plan formulation",
+    "fact": "The party formulated a plan to capture the fiendish giant from the courtyard first.",
+    "source_quote": "They would first capture the fiendish giant from the courtyard",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "plan to provoke conflict",
+    "fact": "The party plans to provoke a conflict between Vraxen and Veperyd by revealing that Veperyd had been stealing from the betting pool.",
+    "source_quote": "provoke a conflict between Vraxen and Veperyd by revealing that Veperyd had been stealing from the betting pool",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "plan to steal book",
+    "fact": "The party plans to steal the book while chaos erupts.",
+    "source_quote": "they would steal the book",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "plan to escape",
+    "fact": "The party plans to escape through the teleportation circle before the Mulmaster wizard acquires the book.",
+    "source_quote": "escape through the teleportation circle before the Mulmaster wizard could acquire it at the dinner",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Hillsfar",
+    "fact": "Hillsfar had been controlled by Graz'zt.",
+    "source_quote": "Bramgrim recalled that Hillsfar had been controlled by Graz'zt",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "bluffing strategy",
+    "fact": "Bramgrim suggested they could bluff their way into the tower by posing as merchants from Hillsfar or as staff.",
+    "source_quote": "suggesting they could bluff their way into the tower by posing as merchants from that city or perhaps as staff",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "deadline",
+    "fact": "The party has only until nightfall to accomplish their objectives before the dinner begins.",
+    "source_quote": "knowing they had only until nightfall to accomplish everything before the dinner began",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daein's illusion",
+    "fact": "Daein's auditory illusion performance included the fire giant remarking that the human prisoner was particularly beautiful.",
+    "source_quote": "Daein's auditory illusion performance included the fire giant remarking that the human prisoner was particularly beautiful",
+    "quote_verified": true
+  }
+]

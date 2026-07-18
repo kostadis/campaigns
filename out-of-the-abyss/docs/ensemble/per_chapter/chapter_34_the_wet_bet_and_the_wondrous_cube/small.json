@@ -1,0 +1,275 @@
+[
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a sentient gelatinous cube who once mindlessly consumed debris and cleaned floors but recently gained the ability to think and speak. He is confused by his sentience but eager to understand the world. He joined the party after Thorin invited him, promised to eat dropped items, and accepted a lucky foot as a gift.",
+    "source_quote": "Glabbagool explained that he had once been an ordinary cube... but had recently gained the ability to think and speak.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is a deep gnome guide who defends his navigational choices in the Underdark, insists shifting passages are normal, and proposed a wager on whether tears\u2014literal or metaphorical\u2014would mark their journey. He wryly noted the ironic fulfillment of his bet when water began flooding the cave system.",
+    "source_quote": "Jimjar... proposed a wager on whether tears\u2014literal or metaphorical\u2014would indeed mark their journey.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a skeptical dwarf who predicted their situation would end in tears, later accepted Jimjar\u2019s wager, and invited Glabbagool to join the party. He examined cave cracks and concluded the complex was flooding, and later became cautious after surviving a pit trap.",
+    "source_quote": "Thorin, ever the skeptic, predicted that this situation would end in tears... Thorin examined the cracks and concluded that the entire complex was slowly flooding.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz investigated the rising water and confirmed an earthquake had cracked open an underground reservoir, flooding the cave system. He later finished off a gray ooze with a devastating spell.",
+    "source_quote": "Daz investigated further and confirmed the dire situation: an earthquake had caused an underground reservoir to crack open...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a monk who repeatedly strikes down oozes with bare-fisted assaults. He dispatched the initial gray ooze, then activated and destroyed each formless sculpture-turned-ooze in the chamber with precise strikes.",
+    "source_quote": "Zalthir stepped forward without hesitation, striking the creature with a series of powerful blows... Zalthir sprang into action, dispatching the creature with a flurry of precise strikes.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth is a dwarf who recognized the flooding phenomenon as an underground river breaking through stone. She shared stories of escape methods but warned that breaking rock could accelerate flooding.",
+    "source_quote": "Eldeth... recognized the phenomenon as an underground river breaking through the stone. She shared stories... but she also warned of the risk of causing the water to flood even faster.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool volunteered to investigate the chamber with formless sculptures, touched one to trigger a gray ooze, cleaned up ooze remnants, discovered a hidden treasure cache in the fountain, and expressed willingness to digest and pass the items for the party.",
+    "source_quote": "Glabbagool volunteered to investigate the room first... Glabbagool meticulously cleaned up the remnants... discovered a hidden cache of treasure...",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Drow",
+    "fact": "A drow\u2019s hovering remains were found in a chamber with a dark metal mace and scattered coins. A drow dagger was later recovered from Glabbagool\u2019s treasure cache, suggesting prior drow presence and possible ritual or abandonment.",
+    "source_quote": "In a chamber containing the hovering remains of a drow, along with a dark metal mace and scattered coins... a drow dagger... was recovered.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Gray Ooze",
+    "fact": "Gray oozes emerged from rising water and formless sculptures. They were dispatched by Zalthir and Daz. At least three were encountered: one initially, one from a sculpture, and another later.",
+    "source_quote": "a gray ooze emerged from the rising waters... one of the formless sculptures... materialized into a gray ooze... Daz finished off one of the gray oozes...",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Gelatinous Cube",
+    "fact": "Glabbagool is a sentient gelatinous cube, but other non-sentient gelatinous cubes may have existed. Glabbagool is the only one encountered and befriended.",
+    "source_quote": "Glabbagool\u2014a massive gelatinous cube they had just befriended...",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Black Pudding",
+    "fact": "A black pudding emerged from a hidden pit trap after Thorin barely pulled himself out. The party kited it from range until it was defeated.",
+    "source_quote": "Thorin fell victim to a hidden pit trap... a black pudding emerged from the depths... The party successfully kited the creature...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Dark Metal Mace",
+    "fact": "A dark metal mace was found in the chamber with the hovering drow remains. Its origin and purpose are unexplained.",
+    "source_quote": "In a chamber containing the hovering remains of a drow, along with a dark metal mace and scattered coins...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Vial of Oil of Slipperiness",
+    "fact": "A vial of oil of slipperiness was discovered by Glabbagool in the hidden cache beneath the stone fountain, alongside silver, gold, and a drow dagger.",
+    "source_quote": "Glabbagool... discovered a hidden cache of treasure: one hundred twelve silver pieces, three gold pieces, a drow dagger, and a vial of oil of slipperiness.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Formless Sculptures",
+    "fact": "Seven formless sculptures were carved into niches in a chamber with a stone fountain. When touched by Glabbagool, each materialized into a gray ooze. They are magical artifacts tied to the flooding event.",
+    "source_quote": "Seven niches were carved into the walls, some empty and others holding strange, formless sculptures... When Glabbagool touched one... it immediately materialized into a gray ooze.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Underdark",
+    "fact": "The Underdark is the subterranean network through which the party travels, marked by shifting passages, flooding, earthquakes, and hidden chambers. It contains the cave system where they encountered oozes, Glabbagool, and the fountain.",
+    "source_quote": "the party emerged from yet another unexpected detour through the Underdark... navigating through the increasingly waterlogged passages.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Blingdenstone",
+    "fact": "Blingdenstone is the party\u2019s intended destination, a drow city in the Underdark, which they seek to reach despite the flooding and dangers.",
+    "source_quote": "a shortcut to their destination of Blingdenstone.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Flooded Chamber with Stone Fountain",
+    "fact": "A chamber containing a stone fountain filled with brackish water, a broken statue, and seven niches with formless sculptures. It is the site where Glabbagool activated the oozes and discovered treasure.",
+    "source_quote": "a large door that opened into a chamber containing a stone fountain filled with shallow, brackish water... seven niches were carved into the walls...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Earthquake Opening Underground Reservoir",
+    "fact": "An earthquake cracked open an underground reservoir, flooding the cave system and forcing the party to flee or drown. This event triggered the rise in water and the emergence of oozes.",
+    "source_quote": "an earthquake had caused an underground reservoir to crack open, and water was pouring into the cave system.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Glabbagool Gains Sentience",
+    "fact": "Glabbagool recently gained the ability to think and speak, becoming a sentient gelatinous cube. He is confused by this change but eager to learn and join the party.",
+    "source_quote": "He had recently gained the ability to think and speak. He was confused by his newfound sentience but eager to understand the world around him.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Activation of Formless Sculptures",
+    "fact": "The formless sculptures in the fountain chamber were activated one by one by Glabbagool\u2019s touch, each transforming into a gray ooze that was swiftly destroyed by Zalthir.",
+    "source_quote": "When Glabbagool touched one... it immediately materialized into a gray ooze... The party decided to activate the remaining statues one by one...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Discovery of Hidden Treasure Cache",
+    "fact": "Glabbagool discovered a hidden cache beneath the stone fountain containing 112 silver, 3 gold, a drow dagger, and a vial of oil of slipperiness, which the party agreed to wait for him to digest before retrieving.",
+    "source_quote": "Glabbagool... discovered a hidden cache of treasure: one hundred twelve silver pieces, three gold pieces, a drow dagger, and a vial of oil of slipperiness.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin Survives Pit Trap",
+    "fact": "Thorin fell into a hidden pit trap and barely escaped before a black pudding emerged. The party retreated and kited the creature to safety, after which Thorin became more cautious.",
+    "source_quote": "Thorin fell victim to a hidden pit trap, barely managing to grab the edge... a black pudding emerged from the depths... Thorin now far more cautious about potential traps.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Flooding of the Complex",
+    "fact": "The entire cave system is slowly flooding due to an underground river breaking through stone. The party must find a way to escape before the water rises further, possibly by breaking through rock\u2014a risky solution.",
+    "source_quote": "Thorin... concluded that the entire complex was slowly flooding... Eldeth... warned of the risk of causing the water to flood even faster.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Glabbagool\u2019s Sentience Origin",
+    "fact": "The origin of Glabbagool\u2019s sudden sentience is unknown. Whether it was magical, environmental, or divine remains unexplained, and the party has not yet investigated further.",
+    "source_quote": "He had recently gained the ability to think and speak... He was confused by his newfound sentience...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Purpose of the Formless Sculptures",
+    "fact": "The formless sculptures in the fountain chamber are magical artifacts that transform into oozes when touched. Their creator, purpose, and connection to the drow or flooding are unknown.",
+    "source_quote": "Seven niches... holding strange, formless sculptures... materialized into a gray ooze.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "waiting period for Glabbagool to digest treasure",
+    "fact": "The party acknowledged they would need to wait a few days for Glabbagool to digest and pass the treasure items he consumed from the hidden cache.",
+    "source_quote": "The party acknowledged that they would need to wait a few days for Glabbagool to digest and pass the items...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin used his considerable strength to break through the wall, causing more of the ceiling to collapse and doubling the water flow, and later agreed to celebrate the party's narrow escape after recognizing Glabbagool as a new friend.",
+    "source_quote": "Thorin used his considerable strength to break through the wall, causing more of the ceiling to collapse and doubling the water flow. Thorin agreed, and the party celebrated their narrow escape, grateful for their new friend and the unexpected shortcut to Blingdenstone.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool confirmed that he did not need to breathe, making him immune to the drowning threat, and agreed to allow the party to attempt resurrection on any fallen members before consuming them; he later joined the party's ranks as a charming and helpful ally.",
+    "source_quote": "Glabbagool confirmed that he did not need to breathe, making him immune to the drowning threat, and he agreed to allow the party to attempt resurrection on any fallen members before consuming them. Jimjar declared that the adventure had not ended in tears after all, and he offered to call the bet a draw due to the charming and helpful Glabbagool joining their ranks.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar declared that the adventure had not ended in tears after all, and he offered to call the bet a draw due to the charming and helpful Glabbagool joining their ranks.",
+    "source_quote": "Jimjar declared that the adventure had not ended in tears after all, and he offered to call the bet a draw due to the charming and helpful Glabbagool joining their ranks.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "breaking through the wall",
+    "fact": "Thorin broke through the wall, causing more of the ceiling to collapse and doubling the water flow, which revealed a diverted underground river providing a path to safety.",
+    "source_quote": "Thorin used his considerable strength to break through the wall, causing more of the ceiling to collapse and doubling the water flow. However, this also revealed a diverted underground river that provided a path to safety.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "creating air pockets",
+    "fact": "The party used magic to create a progression of air pockets, advancing five feet at a time, to move safely through the flooded passages.",
+    "source_quote": "One member proposed using a spell to manipulate the water, creating temporary bubbles of air that would allow them to move through the flooded passages safely. They decided to proceed with this plan, creating a progression of air pockets and advancing five feet at a time.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "swimming to the surface",
+    "fact": "As the water level rose to the ceiling, the party swam upward for about thirty feet through the newly revealed passage and successfully reached the surface.",
+    "source_quote": "As the water level rose to the ceiling, the party swam upward for about thirty feet through the newly revealed passage. They successfully reached the surface.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "large cavern",
+    "fact": "The party emerged into a large cavern where they could resume their journey, having escaped the flooded passages via the diverted river.",
+    "source_quote": "They successfully reached the surface, emerging into a large cavern where they could resume their journey.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Blingdenstone",
+    "fact": "Blingdenstone was the destination reached via the unexpected shortcut revealed after the wall was broken and the underground river exposed.",
+    "source_quote": "Thorin agreed, and the party celebrated their narrow escape, grateful for their new friend and the unexpected shortcut to Blingdenstone.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "party",
+    "fact": "The party successfully navigated a flooded passage using magic air pockets and a revealed river, escaped to Blingdenstone, and accepted Glabbagool as a new member after he offered resurrection aid and immunity to drowning.",
+    "source_quote": "They decided to proceed with this plan... Glabbagool confirmed that he did not need to breathe... Jimjar declared that the adventure had not ended in tears after all, and he offered to call the bet a draw due to the charming and helpful Glabbagool joining their ranks.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a creature immune to drowning who agreed to allow resurrection attempts on fallen members before consuming them, and later became an ally to the party.",
+    "source_quote": "Glabbagool confirmed that he did not need to breathe, making him immune to the drowning threat, and he agreed to allow the party to attempt resurrection on any fallen members before consuming them.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "resurrection offer",
+    "fact": "Glabbagool offered the party the ability to attempt resurrection on fallen members before consuming them, introducing a moral and mechanical ambiguity to their survival strategy.",
+    "source_quote": "Glabbagool confirmed that he did not need to breathe, making him immune to the drowning threat, and he agreed to allow the party to attempt resurrection on any fallen members before consuming them.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "bet call",
+    "fact": "Jimjar declared the adventure had not ended in tears and called the bet a draw, framing the party's survival as a win despite the chaos.",
+    "source_quote": "Jimjar declared that the adventure had not ended in tears after all, and he offered to call the bet a draw due to the charming and helpful Glabbagool joining their ranks.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "diverted underground river",
+    "fact": "The diverted underground river, revealed after Thorin broke the wall, became a path to safety and enabled the party's escape from the flooded passages.",
+    "source_quote": "However, this also revealed a diverted underground river that provided a path to safety.",
+    "quote_verified": true
+  }
+]

@@ -12,3 +12,10 @@ sources: ["moesko.md"]
 [[alien-corruption]] refers to a phenomenon where a standard religious or elemental devotion is subverted by a foreign, calculating, and often psionic power.
 
 Unlike the chaotic or elemental wrath associated with deities like [[talos]], this form of corruption is described as "cold" and "calculating." It often manifests through artifacts like the [[talisman-of-the-inverted-eye]] and can involve the ritualistic manipulation of life force, as seen in the [[tower-of-storms]].
+
+## Related
+
+- [[external-shadows]]
+- [[planar-corruption]]
+- [[interdimensional-corruption]]
+- [[psionic-resonance]]

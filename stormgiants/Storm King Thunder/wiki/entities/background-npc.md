@@ -2,7 +2,7 @@
 type: entity
 title: Background NPC
 created: 2026-06-15
-updated: 2026-06-15
+updated: 2026-06-08
 tags: [npc, environment, narrative-design]
 related: [narrative-economy, information-asymmetry-npc-encounters, backes_dunfield]
 sources: ["npcs/backes_dunfield.md"]
@@ -16,3 +16,7 @@ Unlike NPCs designed for [[information-asymmetry-npc-encounters]] or [[pre-meeti
 Backes Dunfield, the bartender at the Wayside Inn, is the canonical example: his scarred face and crooked smile are the entirety of his characterization. He exists to make the world feel lived-in, not to drive the story.
 
 Background NPCs reinforce the principle of **narrative economy** — the strategic refusal to invest detail in elements that do not serve the core narrative.
+
+## Related
+
+- [[background-npc]]

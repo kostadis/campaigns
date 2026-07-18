@@ -1,8 +1,8 @@
 ---
 type: source
 title: "Source: duke_zalto.md"
-created: 2026-05-13
-updated: 2026-05-13
+created: 2026-06-06
+updated: 2026-06-06
 sources: ["duke_zalto.md"]
 tags: []
 related: []
@@ -10,73 +10,37 @@ related: []
 
 # Source: duke_zalto.md
 
-### Key Entities
+## Key Entities
 
-- **Duke Zalto**
-  - **Type:** Person
-  - **Role:** Duke of Ironslag, commanding officer of Fire Giant search operations
-  - **Peripheral**: Central figure in the narrative, but not directly encountered by the party
-- **Fire Giants**
-  - **Type:** Organization
-  - **Role:** Central faction in the story, commanded by Duke Zalto
-  - **Central**: Represents the primary antagonistic force against the party
-- **Vonindod**
-  - **Type:** Artifact
-  - **Role:** Central to Duke Zalto’s ambitions, sought by the party
-  - **Central**: Crucial to the plot and the party's objectives
-- **Laela**
-  - **Type:** Person
-  - **Role:** Captive of Duke Zalto
-  - **Central**: Important to the party's mission and the overall narrative
-- **Ironslag**
-  - **Type:** Location
-  - **Role:** Duke Zalto’s stronghold
-  - **Central**: Core setting for many events and encounters
-- **King Hekaton**
-  - **Type:** Person
-  - **Role:** Storm Giant King demanding Zalto’s submission
-  - **Peripheral**: Important in the context of the party's mission
-- **Blagothkus & Escarlotta**
-  - **Type:** Persons
-  - **Role:** Other Fire Giant lords mocking Zalto’s ambitions
-  - **Peripheral**: Provide context for Zalto’s perceived lack of legitimacy
+| Name | Type | Role | Status |
+| :--- | :--- | :--- | :--- |
+| **Duke Zalto** | Person (Fire Giant) | **Central**: Primary antagonist and leader of Fire Giant search operations; seeks to rule all giants. | New Entry |
+| **Ironslag** | Location (Forge/Stronghold) | **Central**: Zalto's stronghold; site of the party's heist and location of the Conch. | New Entry |
+| **Vonindod** | Item (Artifact) | **Central**: A dragon-slaying artifact that Zalto is attempting to assemble. | New Entry |
+| **Laela** | Person (Fey-dragon hybrid) | **Central**: Held captive by Duke Zalto; identified via Oracle. | Existing |
+| **King Hekaton** | Person (Storm Giant King) | **Peripheral**: Demands Zalto's submission to restore the Ordning. | Existing |
+| **Blagothkus** | Person (Cloud Giant Lord) | **Peripheral**: Mocked Zalto’s ambitions; former ally of the Cult of the Dragon. | Existing |
+| **Escarlotta** | Person (Spectral Entity) | **Peripheral**: Mocked Zalto; believed by Thistle to be held in his territory. | Existing |
+| **Harshnag** | Person (Legendary Ally) | **Peripheral**: Identified Zalto's actions as a sign of escalating giant aggression. | Existing |
+| **Thistle Wendrod** | Person (Social Analyst) | **Peripheral**: Conducted reconnaissance on Ironslag and identified Zalto’s location. | Existing |
+| **Vardis** | Person (Party Member/Ally) | **Peripheral**: Has a personal stake in the region due to a treasure map. | Existing |
 
-### Key Concepts
+## Key Concepts
 
-- **Vonindod**
-  - **Definition:** An artifact associated with killing dragons
-  - **Matters:** Central to Duke Zalto’s ambitions and the party’s quest
-- **Ordning**
-  - **Definition:** The current order of the giant kingdoms
-  - **Matters:** Context for Duke Zalto’s actions and the party’s mission
-- **Hellhounds**
-  - **Definition:** Magical creatures used by Duke Zalto
-  - **Matters:** Symbolize Duke Zalto’s cruelty and power
-- **Conch of Teleportation**
-  - **Definition:** A magical item found in Duke Zalto’s bedchamber
-  - **Matters:** Critical to the party’s plans and potential escape route
+| Name | Definition | Importance | Status |
+| :--- | :--- | :--- | :--- |
+| **Ordning Collapse** | The breakdown of the traditional giant hierarchy. | Provides the political backdrop for Zalto's ambition and Hekaton's demands. | Existing |
+| **Conch of Teleportation** | A magical artifact used for travel to the Maelstrom. | Stolen from Zalto; key item in the party's progression. | Existing |
+| **Duke (Title)** | A rank within Fire Giant society. | Establishes that "Duke" is a common title among leaders, not unique to Zalto. | New Context |
+| **Search Missions** | Organized efforts by giants to find Vonindod fragments. | Demonstrates Zalto's logistical reach and military coordination. | New |
 
-### Main Arguments & Findings
+## Main Arguments & Findings
+*   **Zalto as a Macro-Threat:** The source establishes Zalto not just as a local villain, but as a significant geopolitical threat within the giant pantheon. His goal of "ruling all giants" makes him a primary antagonist for the restoration of the Ordning.
+*   **Strategic Coordination:** Unlike some chaotic elements, Zalto's operations are described by Harshnag as "coordinated," suggesting a high level of organizational competence and military discipline among his subordinates.
+*   **The Vonindod Connection:** The artifact is the primary driver for his actions; it provides a clear motive for his expansion into other territories (like Triboar and the Evermoors).
+*   **Evidence Strength:** High. His existence, location, and goals are confirmed through multiple independent sources (Sp
 
-- **Core Claims:**
-  - Duke Zalto seeks to dominate all giant kinds and assemble the Vonindod.
-  - He holds Laela captive and commands Fire Giants across the North.
-  - His stronghold, Ironslag, is located east of mountains near a yakfolk village.
-- **Evidence:**
-  - References to Zalto’s ambitions and actions from various sources.
-  - Physical evidence from raiding his bedchamber, including the Vonindod fragments and Laela.
-- **Strength of Evidence:**
-  - Strong, corroborated by multiple references and direct observations.
+## Related
 
-### Connections to Existing Wiki
-
-- **Existing Pages:**
-  - [[giant-lords]] — Duke Zalto is a key giant lord with specific ambitions.
-  - [[vonindod]] — The artifact is crucial to his goals.
-  - [[ironslag]] — His stronghold is a significant location.
-  - [[lal]] — Laela is a captive of his.
-  - [[king-hekaton]] — His demand for submission adds context to his actions.
-- **Impact:**
-  - Strengthens existing knowledge about giant lords and their conflicts.
-  - Provides new information about the Vonindod and its significance.
-  - Offers insights into Duke Zalto’s leadership 
+- [[sir_cedric_hollowcrest]]
+- [[lord_zymorven]]

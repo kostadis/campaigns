@@ -9,3 +9,7 @@ related: []
 # Why Was Tink Urbelle Wanted?
 
 Description: The query "Why Was Tink Urbelle Wanted?" is recommended to be created as it addresses a gap in the current knowledge about Tink Urbelle's capture and the Hand of Yartar's intentions.
+
+## Related
+
+- [[the-wight-elquen-2026-05-14]]

@@ -70,8 +70,8 @@ related: []
   - Strong, supported by detailed descriptions of his behavior and motivations.
 
 ### Connections to Existing Wiki
-- **[[orc-society]]**: Kurglow’s role within the Spinripper Clan and his interactions with other factions.
-- **[[battle-of-parnast]]**: The central event that broke his alliance with Bad Fruul.
+- **[[orc-independence]]**: Kurglow’s role within the Spinripper Clan and his interactions with other factions.
+- **[[the-siege-of-parnast-2026-06-06-002455]]**: The central event that broke his alliance with Bad Fruul.
 - **[[correllon-invocation]]**: The magical attack that temporarily blinded Kurglow.
 
 ### Contradictions & Tensions
@@ -83,7 +83,7 @@ related: []
 ### Recommendations
 - **Create Pages:**
   - [[spinripper-clan]]
-  - [[battle-of-parnast]]
+  - [[the-siege-of-parnast-2026-06-06-002455]]
   - [[correllon-invocation]]
 - **Emphasize:**
   - Kurglow’s strategic decisions and his son’s importance.
@@ -94,3 +94,12 @@ related: []
 - **Open Questions:**
   - What actions will Kurglow take now that his alliance with Bad Fruul is severed?
   - How will the Spinripper Clan react to the loss of
+
+## Related
+
+- [[sage_vusk]]
+- [[mama_manyknuckles]]
+- [[orgazol]]
+- [[lord_khaspere_drylund]]
+- [[uthor]]
+- [[tolmarra]]

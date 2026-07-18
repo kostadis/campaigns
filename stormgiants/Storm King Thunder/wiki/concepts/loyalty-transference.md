@@ -4,7 +4,7 @@ title: Loyalty Transference
 created: 2026-06-15
 updated: 2026-06-15
 tags: [loyalty, identity, reincarnation, devotion, continuity]
-related: ["lady-alagondar", "soma", "true-believer-verification", "spiritual-abandonment", "narrative-economy"]
+related: ["lady-alagondar", "true-believer-verification", "spiritual-abandonment", "narrative-economy"]
 sources: ["npcs/boney.md"]
 ---
 # Loyalty Transference
@@ -16,3 +16,7 @@ Boney exemplifies this concept: his unwavering loyalty to Lady Alagondar, his de
 This concept differs from simple attachment or conditioning. It implies a metaphysical or emotional continuity that transcends physical death and identity change. It parallels [[true-believer-verification]] in that loyalty is validated not by magic, but by consistent, self-sacrificing behavior — yet it operates on a deeper, almost spiritual level.
 
 Loyalty transference raises questions about the nature of identity: Is the new vessel truly the same? Does devotion require a soul, or is it a force that outlives it? In a world where gods have fallen silent, Boney’s loyalty suggests that some bonds are stronger than divine will.
+
+## Related
+
+- [[undead-loyalty]]

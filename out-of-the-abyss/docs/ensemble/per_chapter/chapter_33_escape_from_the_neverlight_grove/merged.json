@@ -1,0 +1,1916 @@
+[
+  {
+    "type": "date",
+    "subject": "2nd day of the first tenday of Kythorn 1495",
+    "fact": "The date when Jimjar assumed full responsibility as guide, leading the party into a cavern with explosive gases and an eight-legged octopus attack, signaling the beginning of a new phase of perilous navigation and environmental hazards.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "2nd day of the first tenday of Kythorn 1495",
+    "fact": "This date marks the resumption of the party\u2019s journey with Jimjar as guide, shortly after leaving the Myconids, and the onset of new environmental dangers.",
+    "source_quote": "2nd day of the first tenday of Kythorn 1495",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "4th day of the third tenday of Myrkhul 1495",
+    "fact": "The date when the party fled the Neverlight Grove, received potions from Basidia, and began their journey under Jimjar\u2019s unreliable guidance, marking the end of Myconid sanctuary and the start of their descent into deeper darkness.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "4th day of the third tenday of Myrkhul 1495",
+    "fact": "This date marks the culmination of the party\u2019s escape from the Neverlight Grove and the beginning of their journey deeper into the Underdark under new guidance.",
+    "source_quote": "4th day of the third tenday of Myrkhul 1495",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occur during the party\u2019s current expedition into the Underdark, following their encounter with Zuggtmoy\u2019s influence and preceding their retreat from Yestabrod\u2019s Garden.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 2nd day of the first tenday of Kythorn 1495.",
+    "source_quote": "2nd day of the first tenday of Kythorn 1495",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 4th day of the third tenday of Myrkhul 1495.",
+    "source_quote": "4th day of the third tenday of Myrkhul 1495",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Basidia",
+    "fact": "Basidia pleaded with Phylo not to leave, and if a Myconid could sob, they would be crying.",
+    "source_quote": "Phylo... pleads, \u201cBasidia don\u2019t go. The Neverlight Grove will be better than ever! And the Great Seeder will make us all happy!\u201d The last words I hear are plaintive, \u201cBasidia don\u2019t go.\u201d ... And if a Myconid could sob, Basidia would be crying.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Basidia\u2019s Betrayal of Phylo",
+    "fact": "Basidia publicly denounced Phylo for allying with Zuggtmoy, triggering a confrontation in the Inner Circle that led to the movement of corrupted Zurkhwoods and the eventual flight of the entire party from the Neverlight Grove.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Collapse of Tunnel",
+    "fact": "A tremor caused the tunnel ahead and behind the party to collapse, trapping them, and Jimjar\u2019s subsequent distraction with a nonsensical bet delayed their realization of the escape route until he pointed to an unseen passage.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "collapse of tunnel passage",
+    "fact": "A tunnel collapse occurs due to a tremor, trapping the party and exposing Jimjar\u2019s incompetence as a guide; the event underscores the instability of the Underdark\u2019s geography.",
+    "source_quote": "a tremor caused the passageways ahead and behind us to collapse.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz and the group encountered an eight-legged octopus in a cavern filled with explosive gases, which they killed after a fierce battle.",
+    "source_quote": "We carefully walk around the ledge, and as we reach the end, a large eight legged octopus attacks us. The battle is fierce and swift, and the creature dies.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noted that Zalthir\u2019s madness seemed to mirror the general insanity affecting everyone in the Underdark.",
+    "source_quote": "Zalthir tries to ask about the insanity of it all, and I look at him; he stares back, and we remember that insanity seems to be a disease affecting everyone these days.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz remembered that Ilvara would not stop pursuing them until they reached Menzoberranzan or she died, because of a debt tied to their capture.",
+    "source_quote": "Ilvara promised that we would arrive in Menzoberranzan. Who knows what money exchanged hands? And then to make matters worse, the outpost of Velkynvelve was destroyed. She needs to find us, lest she become a Drider. She won\u2019t rest until we are either found or she is dead.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz screamed and saw nightmares of a city of drow with no spiders, elves and drow living together, and drow with dogs as pets.",
+    "source_quote": "He is saying bizarre things like - \u201cThat\u2019s not possible, a city of drow with no spiders? Elves and Drow living together?\u201d ... And he shouts out loud, \u201cDogs? Drow with Dogs as pets?\u201d",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz's hallucination of Blingdenstone",
+    "fact": "Daz experiences a horrifying vision of Blingdenstone as a drow city with no spiders, coexisting elves, and dogs as pets \u2014 a reality so alien it triggers psychic trauma and near-madness.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "declaration to enter tunnels",
+    "fact": "Zalthir declares that the party should enter the hidden passageway.",
+    "source_quote": "We should go in there!\" he declares.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "departure from Neverlight Grove",
+    "fact": "The party escapes the Neverlight Grove after Basidia denounces Phylo and the group flees; the event marks a turning point in their journey and the severing of ties with the Myconid faction.",
+    "source_quote": "As we leave the Neverlight Grove and its madness...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Departure from Rasharoo",
+    "fact": "Rasharoo bid the party farewell after guiding them halfway to Blingdenstone, leaving them to navigate the rest of the Underdark alone, marking the end of Myconid protection and the beginning of their true isolation.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum jumped up and down screaming \u201cDANGER!\u201d during the confrontation with Phylo in the Inner Circle.",
+    "source_quote": "And just then, Gyrgum starts jumping up and down and screaming, \u201cDANGER!\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum saw a vision of a great tower with spiraling stairs and balconies carved into its walls, lit by phosphorescent mold, and a humanoid fungal figure floating in the center, tended by fungal servants weaving lichen veils and a mycelium train like a bridal gown.",
+    "source_quote": "And then my head hurts, and instead of seeing what\u2019s in front of my eyes, I see something else, a vision. A vision of the inside of a great tower replaces the tableau of the mock wedding. Spiraling stairs and balconies are carved into its walls, with the interior lit by phosphorescent patches of mold growing in whorls. In the center of the open space floats a humanoid figure, womanlike in form, but made entirely of fungi and mold. She is easily three times the height of the fungal bridesmaids that move up and down the spiraling stairs, tending to their giant mistress. They croon a strange, soothing song as they weave the substance of the giant figure into delicate lichen veils and a long, mycelium train like a bridal gown.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "handing over of healing potions and treasure",
+    "fact": "Basidia gives Zalthir potions of greater healing and Myconid-acquired treasure as a parting gift, symbolizing trust and gratitude before the group continues into the Underdark.",
+    "source_quote": "Basidia turns to us and hands some potions of greater healing and what little treasure the Mykonids had accumulated...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Jimjar",
+    "fact": "Jimjar caused a tunnel collapse by leading the group through a passage that trembled and gave way.",
+    "source_quote": "As we were walking down a tunnel, a tremor caused the passageways ahead and behind us to collapse.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Jimjar",
+    "fact": "Jimjar insisted he knew the way to Blingdenstone and took money from Grygum to prove it.",
+    "source_quote": "Jimjar insists he knows where he is going, \u201cI\u2019ll bet you I can get you there!\u201d ... Grygum tries to explain the absurdity of the bet, but can\u2019t resist taking the money from the curious gnome.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Jimjar",
+    "fact": "Jimjar made a nonsensical bet that the next emotion Zalthir showed would be as if made of a chipped black obsidian.",
+    "source_quote": "The next emotion Zalthir shows will be as is if it was made of a chipped black obsidian.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Jimjar",
+    "fact": "Jimjar pointed out a hidden passageway into more caves after failing to distract the group with his riddles.",
+    "source_quote": "And then his eyes perk up, and he points to a place that we didn\u2019t notice before, a passageway that leads into more caves. \u201cWe should go in there!\u201d he declares.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Lesser Restoration on Zalthir",
+    "fact": "Dawnbringer cast Lesser Restoration on Zalthir, curing his compulsive hoarding and paranoia, revealing that his behavior was caused by fungal madness and not personal greed.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "mock wedding rehearsal",
+    "fact": "A ritualistic mock wedding is performed in Yestabrod's Garden, with spore servants animating Yestabrod\u2019s corpse as priest, a chamberlain and bridesmaid standing in for Araumycos and Zuggtmoy, and fungal thralls enacting vows under a luminous, decaying canopy.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Mock Wedding Rehearsal",
+    "fact": "A ritualistic mock wedding was enacted in Yestabrod\u2019s Garden, with spore servants animating the corpse of Yestabrod as priest, a chamberlain and bridesmaid as proxies for Araumycos and Zuggtmoy, and three spore servants carrying the corpse to simulate divine presence.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Pelek",
+    "fact": "Pelek the ghost asked Grygum if they were a cleric, after denying any possession of Zalthir.",
+    "source_quote": "And then Pelek turns to me and his eyes gleam, \u201cAren\u2019t you a cleric?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Rasharoo",
+    "fact": "Rasharoo offered to provide a guide for half the distance to Blingdenstone before leaving the group.",
+    "source_quote": "Rasharoo tells us that he can provide us with a guide for half the distance to Blingdenstone, but after that, we are on our own.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Rasharoo",
+    "fact": "Rasharoo shouted into Grygum\u2019s mind that if they wanted to live, they should come with him, referencing his escape hatch.",
+    "source_quote": "Rasharoo shouts into my brain, \u201cIf you want to live, come with me.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Rump-a-dump",
+    "fact": "Rump-a-dump and Stool bid farewell to the group, expressing sadness as they rejoined their people.",
+    "source_quote": "Stool and Rump-a-dump look at me, and they say - \u201cGoodbye!\u201d and I think there is a hint of sadness, but they are with their people now.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Rump-a-dump",
+    "fact": "Rump-a-dump gave Zalthir a list of fifty specific ways to improve himself, including listening to Stool and eating more Zurkhwood.",
+    "source_quote": "Rump-a-dump enumerates fifty or so specific things Zalthir could do to be better. Things like - \u201cListen to Stool, he knows what he is doing. Don\u2019t assume you know everything; other people\u2019s points of view are important. Or my favorite, - Eat more Zurkhwood, it's good for your digestion.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Rump-a-dump\u2019s List of Improvements",
+    "fact": "Rump-a-dump delivered a list of fifty specific self-improvement suggestions to Zalthir before parting, including listening to Stool and eating Zurkhwood, revealing Myconid cultural values and their subtle, persistent influence on the party.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin shouted for everyone to put a wet rag over their mouths to protect against spores.",
+    "source_quote": "Thorin shouts, \u201cPut a wet rag over your mouth; it may help us against any spores.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin warned that advancing further into the Neverlight Grove might afflict everyone with madness.",
+    "source_quote": "Thorin shouts, \u201cIf we advance any further, we might all be afflicted by madness.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "travel to Blingdenstone",
+    "fact": "Rasharoo can provide a guide for half the distance to Blingdenstone.",
+    "source_quote": "he can provide us with a guide for half the distance to Blingdenstone",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "vision of the fungal tower",
+    "fact": "A psychic vision replaces the mock wedding with a vision of a colossal fungal tower, its walls lined with spiraling stairs and balconies, lit by phosphorescent mold, where Zuggtmoy \u2014 a three-times-human-height fungal humanoid \u2014 floats in the center, tended by fungal thralls weaving her a mycelium bridal train.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir accepted potions of greater healing and Myconid treasure from Basidia as they fled the Neverlight Grove.",
+    "source_quote": "Basidia turns to us and hands some potions of greater healing and what little treasure the Mykonids had accumulated over the years from passersby.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir grappled with Basidia to prevent them from staying in the Neverlight Grove, resisting their initial refusal.",
+    "source_quote": "As my allies run away, I run towards Basidia and grapple with them. They resist at first, but then, seeing the madness of the trees and the Inner Circle, they give up.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir was cured of his compulsive hoarding by a lesser restoration spell cast by Dawnbringer.",
+    "source_quote": "And before I can say anything, a wave of magic covers Zalthir. ... He coughs and then looks at us, confused and embarrassed. \u201cI don\u2019t know what caused this sudden need to hold onto everything.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's madness and cure",
+    "fact": "Zalthir is afflicted by fungal-induced obsessive hoarding after touching Xinaya\u2019s corpse, which is later cured by Dawnbringer\u2019s lesser restoration spell, revealing his vulnerability to Underdark corruption.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zuggtmoy\u2019s Vision",
+    "fact": "A psychic vision of Zuggtmoy\u2019s fungal tower appeared to the party, revealing her as a towering fungal queen in a spiraling, mold-lit structure, tended by servants weaving her bridal gown, inducing terror and a sense of inevitable corruption.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Blingdenstone",
+    "fact": "Blingdenstone is a drow city in the Underdark that defies norms by housing no spiders and allowing elves and drow to coexist, with dogs as pets \u2014 a reality that induces psychic horror in those who perceive it.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Myconids",
+    "fact": "The Myconids are a collective fungal society divided between those loyal to the Circle and those corrupted by the Neverlight Grove; they retreat from Daz due to his radiant light and exhibit emotional responses to betrayal and loss.",
+    "source_quote": "The Myconids are retreating from me.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Myconids",
+    "fact": "The Myconids are a sentient fungal race native to the Underdark, with Araumycos as their colossal, possibly sentient hive-mind or sovereign entity.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Myconids",
+    "fact": "The Myconids, once isolated fungal intelligences, have been driven into collective madness by Zuggtmoy\u2019s influence, abandoning their natural isolation to serve as thralls in ritualistic weddings and fungal worship, with some, like Basidia and Phylo, still retaining fragments of autonomy.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Yestabrod\u2019s Garden of Welcome",
+    "fact": "Yestabrod\u2019s Garden of Welcome is a corrupted ritual site where the dead priest Yestabrod\u2019s corpse is animated by spore servants to preside over mock weddings, surrounded by luminous fungal growths, suppurating fluid pools, and an eerie atonal echo that mimics the sounds of the Underdark\u2019s dying sanity.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Zuggtmoy",
+    "fact": "Zuggtmoy is the Queen of Fungi, a demon lord of decay and death, who seeks union with Araumycos to amplify her dominion over all fungal life and the Underdark.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Zuggtmoy",
+    "fact": "Zuggtmoy, the Queen of Fungi and embodiment of decay and death, has extended her influence into the Neverlight Grove, orchestrating mock weddings with spore servants, binding Myconids to her will, and manifesting visions of her fungal tower to corrupt minds with promises of transcendence.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Zurkhwoods",
+    "fact": "The Zurkhwoods are sentient, tree-like entities in the Neverlight Grove that respond to danger by moving and aligning with Phylo\u2019s corrupted influence; they are perceived as hostile by the party.",
+    "source_quote": "The sentient Zurkhwoods are starting to move.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Blingdenstone",
+    "fact": "Blingdenstone is a subterranean city that the party aims to reach, referenced as a destination where Jimjar claims he can guide them and where help may be found.",
+    "source_quote": "I\u2019ll bet you I can get you there!' ... Rasharoo tells us that he can provide us with a guide for half the distance to Blingdenstone, but after that, we are on our own.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Blingdenstone",
+    "fact": "Blingdenstone is a subterranean drow city, referenced as a potential refuge from fungal corruption, where Jimjar claims to know the way and believes it holds safety and possible aid against Zuggtmoy\u2019s influence.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Blingdenstone",
+    "fact": "Blingdenstone is an underground drow city that violates conventional Underdark norms by housing no spiders, allowing elves and drow to live together, and keeping dogs as pets \u2014 a reality perceived as a nightmare by those touched by fungal corruption.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Cavern with Explosive Gases",
+    "fact": "A cavern with a basin emitting volatile gases was encountered after Jimjar\u2019s misguidance, where an eight-legged octopus attacked the party, nearly killing them due to environmental hazards and poor navigation.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Circle of Explorers",
+    "fact": "The Circle of Explorers is a Myconid gathering point near an exit hole, where Basidia, Rasharoo, Loobamub, and hunters performed a deep mind meld before fleeing the Grove, and where Zalthir dragged Basidia to safety after their confrontation with Phylo.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Circle of Explorers",
+    "fact": "The Circle of Explorers is a safe haven where Rasharoo and other Myconids gather after fleeing the Inner Circle; it contains an exit hole used for escape.",
+    "source_quote": "I drag them to the safety of the Circle of Explorers...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Collapsed Tunnel",
+    "fact": "A tunnel collapsed after a tremor, trapping the party, with Jimjar failing to locate an exit until he noticed an unseen passageway\u2014a failure he later admitted was intentional distraction.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "hidden passageway",
+    "fact": "A hidden passageway leads into more caves, unnoticed until Zalthir pointed it out.",
+    "source_quote": "a passageway that leads into more caves.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Inner Circle",
+    "fact": "The Inner Circle is the heart of the Neverlight Grove\u2019s fungal hierarchy, where Phylo and Basidia confronted each other, sentient Zurkhwoods stirred in response to conflict, and the air thrummed with the psychic resonance of fungal unity and madness.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Inner Circle",
+    "fact": "The Inner Circle is the sacred heart of the Myconid society where Phylo\u2019s betrayal is revealed; it is the site of confrontation, chaos, and the party\u2019s escape.",
+    "source_quote": "we are in the Inner Circle, and there is Phylo.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Menzoberranzan",
+    "fact": "Menzoberranzan is the drow city that Ilvara has promised the party will reach, and her pursuit is driven by fear of becoming a Drider if they are not found.",
+    "source_quote": "Ilvara promised that we would arrive in Menzoberranzan. Who knows what money exchanged hands? And then to make matters worse, the outpost of Velkynvelve was destroyed. She needs to find us, lest she become a Drider.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Neverlight Grove",
+    "fact": "The Neverlight Grove is a corrupted region of the Underdark, once part of the Myconid Circle, now dominated by Phylo and the Great Seeder; it is a place of madness and transformation.",
+    "source_quote": "As we leave the Neverlight Grove and its madness...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Neverlight Grove",
+    "fact": "The Neverlight Grove is a vast, fungal-dominated cavern system in the Underdark, where sentient Zurkhwoods move erratically, spore-infused madness spreads, and the central mushroom Yggmorgus\u2014over 20 feet tall with branching stalks\u2014radiates decay and an unnatural luminescence through carved trunk windows.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Rasharoo",
+    "fact": "Rasharoo is a Myconid stronghold and leadership center where the party reports their findings and prepares to flee the Neverlight Grove.",
+    "source_quote": "We quickly march back to Rasharoo and Basidia. We tell them everything. And they are horrified.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Rasharoo and Basidia",
+    "fact": "Rasharoo and Basidia are the names of a Myconid stronghold and its Sovereign, where the party reports their findings and prepares to flee the Neverlight Grove.",
+    "source_quote": "We quickly march back to Rasharoo and Basidia. We tell them everything. And they are horrified. Basidia insists on going to confront Phylo now.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Cavern with Explosive Gases",
+    "fact": "A cavern with a ledge on either side and a large basin below, emitting a peculiar smell recognized as explosive gases, where an eight-legged octopus attacks the party.",
+    "source_quote": "We find ourselves in a cavern with a ledge to either side, and a large basin lies below. The basin has a peculiar smell that I recognize as explosive gases.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Cavern with the Collapsed Tunnel",
+    "fact": "A tunnel where a tremor causes the passageways ahead and behind to collapse, forcing the party to follow a hidden passage discovered by Jimjar.",
+    "source_quote": "As we were walking down a tunnel, a tremor caused the passageways ahead and behind us to collapse.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Cavern with the Giant Mushroom",
+    "fact": "A cavern dominated by a towering mushroom, Yggmorgus, surrounded by a carpet of fungi, thousands of smaller fungi clinging to its central stalk, and emitting a stench of rot and decay.",
+    "source_quote": "The towering mushroom\u2019s size at this distance... Thousands of smaller fungi cling to the central stalk, which itself splits into several lesser stalks, each long enough with a cap big enough to be the top of a great tower. A carpet of fungi covers the cavern floor surrounding the stalk. A stench of rot and decay wraps around me, seemingly threatening to penetrate my flesh and pervade my soul.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Chamber with the Large Mushroom",
+    "fact": "A chamber where the procession returns after the mock wedding, dominated by the giant mushroom Yggmorgus, surrounded by luminescent fungi and the stench of decay.",
+    "source_quote": "When the vision is over, I see the procession going back down the ledge into the chamber with the large mushroom.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Circle of Explorers",
+    "fact": "The Circle of Explorers is a gathering point near an exit hole where Rasharoo, Loobamub, and hunters are in a deep mind meld after fleeing the Neverlight Grove.",
+    "source_quote": "I can tell they are in a deep mind meld. ... Rasharoo, Loobamub, and the circle of hunters and explorers have gathered near one of the exit holes that Rasharoo had identified.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Circle of Welcome",
+    "fact": "The Circle of Welcome is a chamber where mutated corpses are seen, and where the mock wedding rehearsal takes place under the influence of the Great Seeder.",
+    "source_quote": "I think about those mutated corpses in the Circle of Welcome, and wonder what the problem means for a Drow.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Collapsed Tunnel",
+    "fact": "A tunnel where a tremor causes the passageways ahead and behind to collapse, forcing the party to follow a hidden passage discovered by Jimjar.",
+    "source_quote": "As we were walking down a tunnel, a tremor caused the passageways ahead and behind us to collapse.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Fungal Tower (vision)",
+    "fact": "A psychic vision reveals a vast, spiraling fungal tower with phosphorescent mold-lit balconies, where Zuggtmoy, a towering fungal humanoid, floats in the center, tended by thralls weaving her a mycelium bridal gown.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Great Tower Vision",
+    "fact": "The Great Tower Vision is a hallucinatory interior of a colossal structure, its walls carved with spiraling stairs and balconies, lit by phosphorescent mold in whorls, with a humanoid fungal figure three times the height of the bridesmaids floating in the center, tended by mycelium-woven lichen veils and a long mycelium train like a bridal gown.",
+    "source_quote": "A vision of the inside of a great tower replaces the tableau of the mock wedding. Spiraling stairs and balconies are carved into its walls, with the interior lit by phosphorescent patches of mold growing in whorls. In the center of the open space floats a humanoid figure, womanlike in form, but made entirely of fungi and mold. She is easily three times the height of the fungal bridesmaids that move up and down the spiraling stairs, tending to their giant mistress. They croon a strange, soothing song as they weave the substance of the giant figure into delicate lichen veils and a long, mycelium train like a bridal gown.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Inner Circle",
+    "fact": "The Inner Circle is the location where Phylo, Basidia, and the party confront each other, surrounded by sentient Zurkhwoods that begin to move.",
+    "source_quote": "We are in the Inner Circle, and there is Phylo. ... The sentient Zurkhwoods are starting to move.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Neverlight Grove",
+    "fact": "The Neverlight Grove is a corrupted fungal ecosystem under the control of Phylo and the Great Seeder, where madness spreads, Myconids are altered, and mock weddings are performed.",
+    "source_quote": "The Neverlight Grove will be better than ever! And the Great Seeder will make us all happy!' ... The thralls enact a mock wedding... And the denizens of the Underdark have been driven mad and can\u2019t seem to defend themselves.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Passageway Discovered by Jimjar",
+    "fact": "A hidden passageway discovered by Jimjar after a tunnel collapse, leading into more caves, which the party follows despite uncertainty.",
+    "source_quote": "He points to a place that we didn\u2019t notice before, a passageway that leads into more caves. 'We should go in there!' he declares.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Tunnel with the Eight-Legged Octopus",
+    "fact": "A tunnel where an eight-legged octopus attacks the party after they walk around a ledge above a basin emitting explosive gases.",
+    "source_quote": "We carefully walk around the ledge, and as we reach the end, a large eight legged octopus attacks us.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Underdark",
+    "fact": "The Underdark is the vast subterranean realm where the party travels, haunted by madness, fungal horrors, and the pursuit of Ilvara.",
+    "source_quote": "And once again into the dark. ... As we head into the Underdark, Rasharoo tells us that he can provide us with a guide for half the distance to Blingdenstone, but after that, we are on our own.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "tunnels",
+    "fact": "The tunnels are an unknown network discovered by Jimjar, now the party's intended route.",
+    "source_quote": "the tunnels that Jimjar has somehow found for us.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve",
+    "fact": "Velkynvelve is an outpost that has been destroyed, increasing Ilvara\u2019s urgency to find the party before she is punished by becoming a Drider.",
+    "source_quote": "And then to make matters worse, the outpost of Velkynvelve was destroyed. She needs to find us, lest she become a Drider.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve Outpost",
+    "fact": "Velkynvelve Outpost, once a safe haven in the Underdark, was destroyed, increasing Ilvara\u2019s desperation to find the party before she is transformed into a Drider as punishment for failure.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Yestabrod's Garden ledge height",
+    "fact": "Yestabrod's Garden of Welcome has a 20-foot-high crescent-shaped ledge that hugs the cavern wall.",
+    "source_quote": "A 20-foot-high crescent-shaped ledge hugs the cavern wall",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Yestabrod's Garden of Welcome",
+    "fact": "Yestabrod's Garden of Welcome is a cavernous chamber with a 20-foot-high crescent ledge lined with moss and fungi, pockmarked with oozing fluid pools, and dominated by the towering Yggmorgus mushroom, emitting an eerie luminescence and the stench of decay.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Yestabrod's Garden of Welcome",
+    "fact": "Yestabrod's Garden of Welcome is a pale reflection of the true horrors surrounding the giant mushroom Yggmorgus, featuring a 20-foot-high crescent-shaped ledge covered in moss and fungi, pockmarks of vile fluids, and an eerie luminescence pouring through slitted windows in the trunk.",
+    "source_quote": "Yestabrod's Garden of Welcome is a pale reflection of the true horrors surrounding the giant mushroom, what I assume is the creature Yggmorgus. A 20-foot-high crescent-shaped ledge hugs the cavern wall and gradually slopes down to the lower basin. The ledge is covered with a carpet of moss and fungi, scores of variously sized lumps, and pockmarks where pools of vile fluids suppurate and ooze, some drying out and scabbing over. An eerie luminescence pours through slitted windows carved into the trunk, with the same cacophony of atonal music heard earlier echoing within.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Araumycos",
+    "fact": "Araumycos is a massive, sentient fungal growth in the Underdark, revered as a bridegroom in the mock wedding, and believed to be the sovereign entity of the Myconids.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Eight-Legged Octopus",
+    "fact": "An eight-legged aquatic predator inhabiting a cavern with explosive gases, it attacked the party after Jimjar misjudged the terrain, demonstrating the lethal environmental hazards of the Underdark beyond fungal corruption.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Eight-legged octopus",
+    "fact": "An eight-legged octopus attacks the party in a cavern filled with explosive gases; it is swiftly killed but represents the increasing lethality of the Underdark\u2019s hazards.",
+    "source_quote": "a large eight legged octopus attacks us.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "eight-legged octopus count",
+    "fact": "An eight-legged octopus attacks the party in the cavern.",
+    "source_quote": "a large eight legged octopus attacks us",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Spore Servants",
+    "fact": "Spore Servants are animated fungal entities that carry and manipulate Yestabrod\u2019s corpse during the mock wedding, performing ritual roles despite his death.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Spore Servants",
+    "fact": "Spore servants are fungal thralls that animate corpses, carry heavy burdens, and perform ritual tasks in the Neverlight Grove, including transporting Yestabrod\u2019s corpse and tending to Zuggtmoy\u2019s visions, their movements synchronized and eerily silent.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "spore servants count",
+    "fact": "Three spore servants rise from the garden to carry Yestabrod's corpse.",
+    "source_quote": "three spore servants rise from the garden",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Yestabrod",
+    "fact": "Yestabrod is a deceased priest who, in death, is animated by spore servants to serve as the officiant in the mock wedding, his corpse carried like a puppet to perform his role.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Yestabrod",
+    "fact": "Yestabrod, the dead priest, is animated by three spore servants who carry his corpse like a puppet to perform the role of priest in mock weddings, his body decomposing yet moving with unnatural precision in service to Zuggtmoy\u2019s rituals.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Yggmorgus",
+    "fact": "Yggmorgus is a 20-foot-high crescent-shaped fungal monolith at the center of the Neverlight Grove, its trunk split into multiple towering stalks, covered in thousands of smaller fungi, glowing with phosphorescent mold, and radiating decay that permeates flesh and soul.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Yggmorgus",
+    "fact": "Yggmorgus is a colossal, 20-foot-tall mushroom-like entity at the center of the cavern, surrounded by lesser stalks and a luminous fungal carpet, likely the physical manifestation of Zuggtmoy\u2019s intended union with Araumycos.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Zuggtmoy",
+    "fact": "Zuggtmoy manifests as a three-times-human-height humanoid figure composed entirely of fungal matter, floating in a vision of a spiraling fungal tower, tended by mycelium-clad servants who weave her bridal gown from lichen and mycelium, her presence inducing madness and obsession.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Zurkhwoods",
+    "fact": "Zurkhwoods are sentient fungal trees in the Neverlight Grove that react to emotional and psychic disturbances, moving erratically during confrontations, and are now partially corrupted by Zuggtmoy\u2019s influence, becoming unpredictable threats.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Araumycos",
+    "fact": "Araumycos is a massive sentient fungal growth in the Underdark, referenced as the groom in a mock wedding rehearsal, and the natural habitat of the Myconids.",
+    "source_quote": "Araumycos is the name of a massive sentient fungal growth in the Underdark. From the stories we know, it is the natural habitat of the Myconids.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Basidia",
+    "fact": "Basidia is a Myconid Sovereign who confronts Phylo over his betrayal and alliance with the monster, ultimately choosing to flee the Neverlight Grove after realizing the danger, and gifts healing potions and accumulated treasure to their allies.",
+    "source_quote": "Phylo, you have betrayed the Circle. You\u2019ve allied yourself with that monster!",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Basidia",
+    "fact": "Basidia is a Sovereign Myconid who confronts Phylo for betrayal, is grappled and dragged to safety by Zalthir, and weeps as they leave the Neverlight Grove.",
+    "source_quote": "Basidia, you have betrayed the Circle. You\u2019ve allied yourself with that monster!' ... Limp in my arms, I drag them to the safety of the Circle of Explorers... And if a Myconid could sob, Basidia would be crying.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Basidia",
+    "fact": "Basidia, a Myconid Sovereign, confronted Phylo for betraying the Circle by allying with Zuggtmoy, was persuaded to flee by the party, and gave them healing potions and Myconid treasure before departing the Neverlight Grove.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer cast Lesser Restoration on Zalthir to cure his compulsive hoarding, which was caused by fungal madness, and unintentionally drew the attention of retreating Myconids with their bright aura.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is a cleric who casts lesser restoration on Zalthir, curing his hoarding madness, and sheds bright light that causes Myconids to retreat.",
+    "source_quote": "Dawnbringer shouts, 'I can cast lesser restoration!' ... And before I can say anything, a wave of magic covers Zalthir. ... The Myconids are retreating from me.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is a cleric who spontaneously casts lesser restoration on Zalthir, curing his fungal-induced hoarding compulsion and restoring his mental clarity.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a pragmatic survivor who understands Ilvara\u2019s relentless pursuit is driven by fear of becoming a Drider; they maintain composure despite escalating madness and acknowledge the pervasive insanity affecting all.",
+    "source_quote": "Ilvara promised that we would arrive in Menzoberranzan. Who knows what money exchanged hands?",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is overwhelmed by visions of the Queen of Fungi, Zuggtmoy, and the sentient fungal entity Araumycos, and later suffers a psychic breakdown upon witnessing the drow city of Blingdenstone and its unnatural canine companions.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz recognized the scent of explosive gases in a cavern and later recalled Ilvara\u2019s relentless pursuit due to a financial debt tied to delivering the party to Menzoberranzan, fearing her transformation into a Drider if they are not found.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz screams at visions of a city of drow with no spiders, dogs as pets, and elves living with Drow, and is the first to perceive the madness of the Underdark.",
+    "source_quote": "Daz starts screaming. He is saying bizarre things like - 'That\u2019s not possible, a city of drow with no spiders? Elves and Drow living together?' ... 'Dogs? Drow with Dogs as pets?'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a Myconid who frequently detects danger and vocalizes it, often disrupting stealth; they attempt to explain absurdity but are easily distracted by bets and money.",
+    "source_quote": "DANGER!",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a Myconid who jumps and screams 'DANGER!' during the confrontation with Phylo, disrupting stealth and revealing the party's presence.",
+    "source_quote": "Gyrgum starts jumping up and down and screaming, 'DANGER!'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a witness to a mock wedding rehearsal in Yestabrod's Garden, observing the absence of a groom and the symbolic presence of Araumycos as the fungal bridegroom.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum remembers feeling the same alien yet familiar dread near Zuggtmoy in their dream as they now feel near Yggmorgus.",
+    "source_quote": "It is both alien and familiar. And I remember when we felt this way, near Zuggtmoy in our dream.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum witnessed a mock wedding rehearsal in Yestabrod\u2019s Garden, where spore servants animated the corpse of the dead priest Yestabrod to preside over the vows, and experienced a vision of Zuggtmoy, a three-times-human-height fungal queen floating in a tower of phosphorescent mold, tended by mycelium-clad servants weaving her bridal gown.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara",
+    "fact": "Ilvara is a pursuer who has promised the party will arrive in Menzoberranzan, and will not rest until they are found or she becomes a Drider.",
+    "source_quote": "Ilvara promised that we would arrive in Menzoberranzan. Who knows what money exchanged hands? And then to make matters worse, the outpost of Velkynvelve was destroyed. She needs to find us, lest she become a Drider. She won\u2019t rest until we are either found or she is dead.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar has discovered a hidden network of tunnels that the party intends to enter.",
+    "source_quote": "Instead we will go into the tunnels that Jimjar has somehow found for us.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is a gnome who has taken over as guide after Rasharoo departs; his incompetence leads to deadly environmental hazards, yet he persists with reckless bets and overconfidence.",
+    "source_quote": "I\u2019ll bet you I can get you there!",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is a perky gnome guide who takes over navigation, makes absurd bets, finds hidden passageways, and insists he can get the party to Blingdenstone.",
+    "source_quote": "Jimjar insists he knows where he is going, 'I\u2019ll bet you I can get you there!' ... He points to a place that we didn\u2019t notice before, a passageway that leads into more caves. 'We should go in there!' he declares.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar took over as guide after Rasharoo\u2019s departure, led the party into dangerous tunnels despite repeated navigational failures, and distracted the group with incomprehensible bets, including one predicting Zalthir\u2019s next emotion would be 'made of a chipped black obsidian.'",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Loobamub",
+    "fact": "Loobamub is a Myconid ally of Rasharoo, gathered with the Circle of Explorers after fleeing the Neverlight Grove.",
+    "source_quote": "Rasharoo, Loobamub, and the circle of hunters and explorers have gathered near one of the exit holes that Rasharoo had identified.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Pelek",
+    "fact": "Pelek is a ghost who denies possessing Zalthir, admits ignorance of fungi, and asks the narrator if they are a cleric.",
+    "source_quote": "Pelek, the ghost, and ask if he knows anything about this, and he says, 'No. I am a ghost, not a fungi expert. But if you are asking if a ghost possesses him, no, he is not.' ... Pelek turns to me and his eyes gleam, 'Aren\u2019t you a cleric?'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Pelek",
+    "fact": "Pelek is a ghost who denies possession of Zalthir and identifies the party\u2019s cleric, Dawnbringer, as the only one capable of countering the fungal madness.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Pelek",
+    "fact": "Pelek, a ghost, confirmed Zalthir was not possessed, identified himself as neither a fungi expert nor a mind-reader, and questioned the party\u2019s cleric when they noticed Dawnbringer\u2019s presence.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Phylo",
+    "fact": "Phylo is a Myconid Sovereign who has aligned with the Neverlight Grove and the Great Seeder, rejecting the Circle\u2019s values; they plead with Basidia not to leave, promising happiness through the Grove\u2019s transformation.",
+    "source_quote": "Basidia don\u2019t go. The Neverlight Grove will be better than ever! And the Great Seeder will make us all happy!",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Phylo",
+    "fact": "Phylo is a Myconid leader who has allied with the Great Seeder, pleading with Basidia not to leave, claiming 'The Neverlight Grove will be better than ever! And the Great Seeder will make us all happy!'",
+    "source_quote": "Phylo plead, 'Basidia don\u2019t go. The Neverlight Grove will be better than ever! And the Great Seeder will make us all happy!' The last words I hear are plaintive, 'Basidia don\u2019t go.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Phylo",
+    "fact": "Phylo, a Myconid leader, revealed allegiance to Zuggtmoy and the Great Seeder, attempted to convince Basidia to stay by promising universal happiness through fungal transformation, and pleaded desperately as the party fled.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Rasharoo",
+    "fact": "Rasharoo is a Myconid guide who knows an escape hatch, urges caution, and offers to guide the party halfway to Blingdenstone before leaving them on their own.",
+    "source_quote": "Rasharoo shouts into my brain, 'If you want to live, come with me.' ... Rasharoo tells us that he can provide us with a guide for half the distance to Blingdenstone, but after that, we are on our own.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Rasharoo",
+    "fact": "Rasharoo is a Myconid leader who urges caution but follows Basidia into danger; he later leads the group to an escape hatch and offers a guide for half the journey to Blingdenstone before parting ways.",
+    "source_quote": "If you want to live, come with me.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Rasharoo",
+    "fact": "Rasharoo, a Myconid explorer, revealed an escape hatch from the Neverlight Grove, guided the party halfway to Blingdenstone, and later bid them farewell as they entered the deeper Underdark.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Rump-a-dump",
+    "fact": "Rump-a-dump is a Myconid who gives Zalthir a list of fifty specific improvements, including 'Listen to Stool, he knows what he is doing,' and 'Eat more Zurkhwood, it's good for your digestion.'",
+    "source_quote": "Rump-a-dump enumerates fifty or so specific things Zalthir could do to be better. Things like - 'Listen to Stool, he knows what he is doing. Don\u2019t assume you know everything; other people\u2019s points of view are important. Or my favorite, - Eat more Zurkhwood, it's good for your digestion.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Rump-a-dump",
+    "fact": "Rump-a-dump is a Myconid who offers unsolicited, detailed critiques of Zalthir\u2019s behavior, emphasizing listening to others and dietary improvement; they bid farewell to the party with quiet sadness.",
+    "source_quote": "Listen to Stool, he knows what he is doing. Don\u2019t assume you know everything; other people\u2019s points of view are important.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Rump-a-dump",
+    "fact": "Rump-a-dump, a Myconid companion, gave Zalthir a detailed list of fifty self-improvement suggestions before parting ways, including listening to Stool and eating Zurkhwood for digestion, and bid farewell with visible sadness.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Rump-a-dump's advice list count",
+    "fact": "Rump-a-dump enumerates fifty or so specific things Zalthir could do to be better.",
+    "source_quote": "enumerates fifty or so specific things",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Stool",
+    "fact": "Stool is a Myconid companion of Rump-a-dump, referenced as someone whose knowledge Zalthir should heed, and who says 'Goodbye!' as they depart with their people.",
+    "source_quote": "Rump-a-dump enumerates fifty or so specific things Zalthir could do to be better. Things like - 'Listen to Stool, he knows what he is doing...' Stool and Rump-a-dump look at me, and they say - 'Goodbye!'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Stool",
+    "fact": "Stool is a Myconid companion to Rump-a-dump who shares their wisdom and emotional farewell; their presence signals the Myconids\u2019 departure from the party\u2019s journey.",
+    "source_quote": "Goodbye!",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Stool",
+    "fact": "Stool, a Myconid companion, remained loyal to Rump-a-dump and the Myconid collective, expressed quiet sorrow at parting with the party, and was last seen departing with their people into the Grove\u2019s depths.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "The Great Seeder",
+    "fact": "The Great Seeder is a mysterious entity allied with Phylo, claiming to make the Neverlight Grove better and all Myconids happy.",
+    "source_quote": "The Great Seeder will make us all happy!'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin advised the group to cover their mouths against spores, warned of impending madness in the Neverlight Grove, and ultimately fled the Inner Circle with the party after Basidia denounced Phylo for allying with Zuggtmoy.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin advises covering the mouth with a wet rag against spores, warns of madness from advancing further, and declares 'This does not seem fair.'",
+    "source_quote": "Thorin shouts, 'Put a wet rag over your mouth; it may help us against any spores.' ... Thorin shouts, 'If we advance any further, we might all be afflicted by madness.' ... Thorin mutters, 'This does not seem fair.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a cautious observer who warns of madness from spore exposure, advocates for protective measures, and expresses moral outrage at Zalthir's hoarding of Xinaya\u2019s belongings.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Xinaya",
+    "fact": "Xinaya is a corpse from which treasure is collected by Zalthir after the party flees the Neverlight Grove.",
+    "source_quote": "On our way back, we stop to pick up any treasure from the corpse of Xinaya. Zalthir, before we can do anything, has run up to the corpse and stuffed everything in his bag.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Yestabrod",
+    "fact": "Yestabrod is a dead priest who assumes the role of priest in the mock wedding, and his corpse is carried by three spore servants as if a puppet to play out the part of a priest.",
+    "source_quote": "Yestabrod assumes the role of priest to preside over the vows. As he is dead, three spore servants rise from the garden and carry his corpse, moving it like a puppet to play out the part of a priest.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir became obsessed with hoarding treasure and refused to share scrolls, believing he needed to keep everything close.",
+    "source_quote": "Zalthir, before we can do anything, has run up to the corpse and stuffed everything in his bag. ... He says, \u201cNo.\u201d ... \u201cI will figure it out later.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir became paranoid about infection and hoarded items from Xinaya\u2019s corpse, including scrolls, until a Lesser Restoration spell cured his compulsive hoarding behavior, revealing he had been mentally afflicted by the Grove\u2019s madness.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir believes that fairness is irrelevant, rejecting moral expectations of sharing or equity.",
+    "source_quote": "Zalthir, then very oddly says, \u201cNobody said it had to be fair.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is afflicted by an obsessive compulsion to hoard items from Xinaya\u2019s corpse, later revealed to be the result of psychic corruption from the Underdark\u2019s fungal influence, which is cleansed by Dawnbringer\u2019s lesser restoration.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is afflicted by madness, hoarding scrolls and refusing to share them, later cured by lesser restoration, and worries about infection and losing his mind.",
+    "source_quote": "Zalthir was so worried about losing his mind, and I wasn\u2019t. And here he lost his mind, and I didn\u2019t. ... 'I don\u2019t know what caused this sudden need to hold onto everything.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is deeply loyal to Basidia, whom he owes a debt of gratitude; he physically drags them from the Inner Circle against their will after they refuse to flee, and carries them to safety in the Circle of Explorers.",
+    "source_quote": "Leaving Basidia is unacceptable. They tried to save us. And I owe them that much.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is despondent after failing to explain the riddle, then becomes energized upon noticing a hidden passageway.",
+    "source_quote": "He sits down, despondent, and declares, 'I was just trying to distract you guys.' And then his eyes perk up, and he points to a place that we didn't notice before, a passageway that leads into more caves.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zuggtmoy",
+    "fact": "Zuggtmoy is the Queen of Fungi, the Queen of decay and death, who intends to marry the Myconids and gain untold power over the world through union with Araumycos.",
+    "source_quote": "Zuggtmoy intends to marry them. The Queen of Fungi is the Queen of decay and death. Her union with Araumycos will give her untold power over the world.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zurkhwood",
+    "fact": "Zurkhwood is a sentient fungal tree referenced as beneficial for digestion and used as a material in furniture and architecture.",
+    "source_quote": "Eat more Zurkhwood, it's good for your digestion.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Potions of Greater Healing",
+    "fact": "Potions of Greater Healing were given to the party by Basidia as parting gifts, representing the last accumulated Myconid treasures and a final act of mercy before fleeing the Neverlight Grove.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "potions of greater healing",
+    "fact": "These potions were accumulated by the Myconids over years from passersby and given by Basidia as a final gift to Zalthir to aid the party\u2019s survival.",
+    "source_quote": "Basidia turns to us and hands some potions of greater healing...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Potions of greater healing given by Basidia",
+    "fact": "Potions of greater healing and minor treasure accumulated by the Myconids are handed to the party by Basidia as they leave the Neverlight Grove.",
+    "source_quote": "Basidia turns to us and hands some potions of greater healing and what little treasure the Mykonids had accumulated over the years from passersby.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Rapport Spores",
+    "fact": "Rapport Spores are a form of Myconid communication that allow telepathic messages across distances; Zalthir uses them to hear Grygum\u2019s private thoughts.",
+    "source_quote": "I can hear Zalthir through the Rapport Spores mutter...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Scrolls from Xinaya\u2019s Corpse",
+    "fact": "Scrolls recovered from Xinaya\u2019s corpse were hoarded by Zalthir until magically restored, their contents unknown but suspected to be tied to fungal magic or escape rituals from the Grove\u2019s influence.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Scrolls taken by Zalthir",
+    "fact": "Scrolls taken by Zalthir are refused to be given to the narrator, who asks what he will do with them later; Zalthir replies he will figure it out later.",
+    "source_quote": "I noticed some scrolls and asked him if he would give them to me. He says, 'No.' Confused, I ask, 'What will you do with them later?' He cuts me off, 'I will figure it out later.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "treasure value",
+    "fact": "Basidia hands over potions of greater healing and what little treasure the Myconids had accumulated over the years.",
+    "source_quote": "some potions of greater healing and what little treasure the Mykonids had accumulated over the years",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Wet rag",
+    "fact": "A wet rag is recommended by Thorin as a protective measure against airborne spores, and is worn by Daz during the procession into the cavern.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Xinaya's scrolls",
+    "fact": "Scrolls recovered from Xinaya\u2019s corpse are hoarded by Zalthir against the party\u2019s wishes, later revealed to be potentially corrupted by fungal influence, and remain in his possession after his mental restoration.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Zurkhwood",
+    "fact": "Zurkhwood is a fungal plant consumed by Myconids for its nutritional and digestive benefits; Rump-a-dump recommends it as part of Zalthir\u2019s self-improvement.",
+    "source_quote": "Eat more Zurkhwood, it's good for your digestion.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Blingdenstone\u2019s unnatural reality",
+    "fact": "The existence of Blingdenstone \u2014 a drow city without spiders, with dogs and coexisting elves \u2014 challenges the party\u2019s understanding of the Underdark and may be a symptom of deeper, cosmic corruption.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Escape to Blingdenstone",
+    "fact": "The party\u2019s goal to reach Blingdenstone, a drow city, is now their only hope for safety from Zuggtmoy\u2019s influence, but Jimjar\u2019s unreliable guidance and the dangers of the Underdark make their journey perilous and uncertain.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Fungal Madness",
+    "fact": "A spreading fungal madness affects Myconids, Drow, and even the party, manifesting as paranoia, hallucinations, compulsive behaviors, and loss of self, with Zuggtmoy\u2019s influence as its source and no known cure.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Ilvara\u2019s Pursuit",
+    "fact": "Ilvara continues to hunt the party across the Underdark, driven by a financial debt to deliver them to Menzoberranzan and the threat of becoming a Drider if she fails, making her pursuit a persistent, life-threatening thread.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Ilvara\u2019s pursuit",
+    "fact": "Ilvara, a drow, is relentlessly hunting the party to avoid becoming a Drider; her obsession is tied to a financial debt and the destruction of Velkynvelve, making her pursuit a looming threat.",
+    "source_quote": "She needs to find us, lest she become a Drider.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "mold earth spell",
+    "fact": "The party regrets not knowing the mold earth spell, which could have excavated a path through the tunnel.",
+    "source_quote": "I wish I had learned mold earth, because I could have excavated a path out of this tunnel, but so be it.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "the corruption of the Neverlight Grove",
+    "fact": "The Neverlight Grove has been corrupted by Phylo\u2019s alliance with the Great Seeder, spreading madness and transforming Myconids; its influence is a growing mystery and danger in the Underdark.",
+    "source_quote": "The Great Seeder will make us all happy!",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Great Seeder",
+    "fact": "The Great Seeder is referenced by Phylo as a divine force that will make all Myconids 'happy' through fungal transformation, implying a larger, more insidious fungal ascension beyond Zuggtmoy\u2019s control, possibly a new god emerging from the Underdark.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Identity of Araumycos",
+    "fact": "Araumycos is repeatedly referenced as the 'groom' in the mock wedding, but is revealed to be a massive sentient fungal growth in the Underdark, possibly a rival or precursor to Zuggtmoy, whose true nature and relationship to Yggmorgus remains unknown.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Zalthir\u2019s vulnerability to corruption",
+    "fact": "Zalthir\u2019s sudden madness and hoarding compulsion reveal that even those not actively exposed to spores can be affected \u2014 suggesting the fungal influence is more pervasive and insidious than assumed.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Zuggtmoy\u2019s union with Araumycos",
+    "fact": "The impending union between Zuggtmoy and Araumycos threatens to amplify fungal dominion over the Underdark, and the party has only begun to grasp its scale and horror.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  }
+]

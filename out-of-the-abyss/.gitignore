@@ -1,6 +1,10 @@
 # Mempalace generated files (not for version control)
 entities.json
 mempalace.yaml
+# ...but the mneme authority IS version-controlled — the bare `mempalace.yaml`
+# rule above (a legacy-mempalace wing-config rule) matches in every dir and would
+# otherwise swallow it, silently dropping bring-up on the floor. See toee/.mneme.
+!.mneme/mempalace.yaml
 MEMPALACE.md
 
 # Operational / local
@@ -10,8 +14,13 @@ logs/
 # OS / system files
 desktop.ini
 *.Zone.Identifier
+*:com.dropbox.attrs
 gMarkdown
 gdrive
+
+# Operational artifacts leaked into repo root (should live outside the repo)
+/abyss/
+/docs/.cg/
 
 # UI runtime state + migration artifacts (regenerable)
 ui_state.yaml
@@ -23,3 +32,12 @@ docs/background/.fivetools_ingest/
 # scratch
 .playwright-mcp
 scratch/
+
+# Entity-triage transient queue files (regenerated per run). NOTE: the state file
+# docs/.entity_triage_state.json IS version-controlled on purpose, so the GM
+# "don't re-ask" decisions (ignored/deferred) travel across machines.
+docs/.triage_queue*.json
+
+# Source PDFs for character-sheet conversions (raw D&D Beyond exports; the
+# converted .md under docs/party/ is the versioned artifact, not the PDF)
+docs/party/old/*.pdf

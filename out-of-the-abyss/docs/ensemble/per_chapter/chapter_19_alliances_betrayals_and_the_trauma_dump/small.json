@@ -1,0 +1,1199 @@
+[
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a seasoned observer of Drow politics, deeply familiar with the cycles of betrayal, paranoia, and power grabs among the Cult of Lolth, and now applies that knowledge to the Duergar leadership under Errde.",
+    "source_quote": "Being a Drow, you pick some stuff up.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Errde",
+    "fact": "Errde is a Duergar leader consumed by paranoia and megalomania, convinced that the Council of Savants is corrupting the Deepking and must be destroyed, despite lacking evidence and ignoring her own ambitions.",
+    "source_quote": "The stench of paranoia runs deep. And the desire for power is palpable.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a survivor of the War of the Giants who rejects subterfuge and deception, advocating for radical transparency and direct action after witnessing endless cycles of manipulation among the Duergar and Drow.",
+    "source_quote": "I want to be radically transparent, to say it as it is.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir was trained by monks to value discretion, shadowcraft, and avoidance of confrontation, making him instinctively wary of open conflict and prone to strategic silence.",
+    "source_quote": "The monks who taught Zalthir the importance of being discreet, of hiding in the shadows, and of avoiding frontal conflict.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Cult of Lolth",
+    "fact": "The Cult of Lolth is a Drow theocratic organization founded on betrayal and subterfuge, worshipping a goddess who usurped power from Correlon and turned elves into Drow through deception.",
+    "source_quote": "Lolth became Lolth through betrayal and subterfuge. Correlon, the chief elvish god, was her consort, or she was his, it\u2019s unclear...",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Duergar",
+    "fact": "The Duergar are a subterranean dwarven faction characterized by prolonged internal conflict, rigid hierarchy, and a culture of suspicion, where noble houses compete ruthlessly and failure is met with extermination.",
+    "source_quote": "Unlike the Drow's swift executions, conflict here is protracted.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Council of Savants",
+    "fact": "The Council of Savants are Derro scholars accused by Errde of corrupting the Deepking, though Daz believes they are innocent victims manipulated by greater powers.",
+    "source_quote": "The Council of Savants is innocent, thinks Daz, or worse, they are victims of the machinations of yet another power.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Keepers of the Flame and Stone Guard",
+    "fact": "The Keepers of the Flame and Stone Guard are Duergar militant factions aligned with Errde\u2019s paranoia, seeking the annihilation of the Derro as a means to consolidate power.",
+    "source_quote": "He knows what she wants... to kill as many Derro as possible.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Grey Ghosts",
+    "fact": "The Grey Ghosts are a rumored Derro faction believed by Errde to be allied with the Council of Savants, though their existence may be a fabrication used to justify purges.",
+    "source_quote": "She wants proof of the Grey Ghosts' alliance with the Council of Savants.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Empty Scabbard Killers",
+    "fact": "The Empty Scabbard Killers are an alleged Derro assassin group whose existence is questioned by Daz, who suspects they are a scapegoat created to deflect blame from Duergar internal power struggles.",
+    "source_quote": "He knows what she wants, not evidence that the Empty Scabbard Killers exist, but who has decided her clan members must die.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Underdark in the Feywild",
+    "fact": "The Underdark in the Feywild is the mythical origin point of the Drow\u2019s banishment, where Lolth\u2019s followers fled across the multiverse, becoming both strands and webs of intrigue.",
+    "source_quote": "According to the clerics of Lolth, the banishment occurred in the Feywild, and from the Underdark in the Feywild, the Drow fled to every part of the multiverse.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Errde\u2019s office",
+    "fact": "Errde\u2019s office is the nerve center of Duergar paranoia, where power is hoarded, plots are hatched, and the desire to destroy perceived enemies is the only unifying principle.",
+    "source_quote": "And so now he is on his way to Errde\u2019s office.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "The Deepking",
+    "fact": "The Deepking is a Duergar sovereign whose agency is questioned by all factions; Errde blames the Council of Savants for his corruption, while Daz suspects he is a pawn in a larger game of power.",
+    "source_quote": "The leader is convinced that this poor, helpless group is why everything is falling apart. She is blinded by her conviction that the Council of Savants... is corrupting the Deepking.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Truth Behind the Purge",
+    "fact": "A hidden thread: the Duergar leadership\u2019s obsession with destroying the Derro is not about justice or survival, but about avoiding the truth that they fear their own leader and lack the courage to seize power directly.",
+    "source_quote": "No one wants to confront the reality that they want power, and they are too afraid of the leader to try and seize it from them.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Drow\u2019s Legacy in Duergar Society",
+    "fact": "A lingering thread: Daz\u2019s Drow experience reveals that Duergar politics mirror Drow patterns of betrayal and scapegoating \u2014 suggesting the Duergar are repeating ancient, self-destructive cycles.",
+    "source_quote": "I have seen this before, everyone convinced that the leader is a victim of some outside influence...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The Fall of the Noble House",
+    "fact": "An ancient event: a noble Drow house was destroyed not for its crimes, but because one child survived \u2014 a lesson that failure to eradicate all enemies invites vengeance.",
+    "source_quote": "Daz remembers, or was it a story he heard, of a noble house destroyed by the combined might of the other noble houses because one child survived.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The Banishment of Lolth",
+    "fact": "An ancient event: Lolth betrayed Correlon, created an avatar, and turned elves into Drow \u2014 only to be banished by both Correlon and the elves, setting the foundation for Drow culture.",
+    "source_quote": "Revealed for what she was, Correlon banished her, and the elves banished her followers.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "10th day of the 1st Tenday of Myrtul 1493",
+    "fact": "The current date marks a critical moment in Duergar politics, when Daz presents his alternative strategy to prevent a catastrophic purge of the Derro.",
+    "source_quote": "10th day of the 1st Tenday of Myrtul 1493",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Derro",
+    "fact": "The Derro are a subterranean race of mad dwarves, scapegoated by the Duergar as corrupters of the Deepking, though Daz believes they are pawns in a far larger power struggle.",
+    "source_quote": "She wants proof of the Grey Ghosts' alliance with the Council of Savants to kill as many Derro as possible.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Drow",
+    "fact": "The Drow are a race of dark elves who emerged from betrayal and exile, now defined by intricate political webs, ruthless house warfare, and a cultural obsession with eliminating any trace of failure.",
+    "source_quote": "The Drow are both a strand and a spiderweb. A strand of Lolth\u2019s web, and a web of intrigue whose only purpose is to destroy the followers of Correlon.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is deeply uncomfortable with the unfolding plots involving Drow and Duergar factions, having witnessed their manipulative logic and hidden agendas, yet he follows their lead out of necessity.",
+    "source_quote": "Zalthir stares at Errde, and the madness disappears. \u201cYou present me a conundrum. I need more information.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Errde",
+    "fact": "Errde is the head of the Stone Guard, skilled in political deception and factional warfare, using layered analogies to dismantle assumptions about alliances and covert operations.",
+    "source_quote": "You present me a conundrum. I need more information.\u201d She stares at Zalthir, \u201cYou must go back.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow operative who excels in misinformation, psychological manipulation, and maintaining operational secrecy by orchestrating plausible deniability through public appearances and false narratives.",
+    "source_quote": "When I have it. To keep our mission secret, we will be seen talking to other people; that way, when we are seen going into other caves, people will think we are working for them, when we are, in fact, working for you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a pragmatic, observant leader who navigates deception with skepticism, often catching inconsistencies others miss, and is not easily swayed by surface-level explanations.",
+    "source_quote": "Grygum picks up the Flumph\u2019s gem and puts it in his bag.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Werz",
+    "fact": "Werz is a Duergar merchant entangled in a web of assassination contracts, playing both sides while claiming innocence, yet his actions suggest he is a pawn or instigator in a larger power struggle.",
+    "source_quote": "I don\u2019t know why I am on the list.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Werz",
+    "fact": "Werz is a merchant who brokers deals between clans, claims to be bound by trade ethics, and is entangled in a personal assassin problem. He has provided intelligence on clan sentiments toward the Deepking, including Clan Ironshadow\u2019s patience, Clan Tharzgad\u2019s grievances with the Grey Ghosts, and Clan Xundom\u2019s potential loyalty to the Deepking in war.",
+    "source_quote": "As a merchant, I know how the clans feel about the Deepking.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a pragmatic and observant figure who uses others as bait, mocks bureaucratic secrecy, and notes timing and environmental cues like the Faerzress blink. He is amused by irony and skeptical of overblown threats, but acts decisively when obligations arise.",
+    "source_quote": "And I would like the problem not to be solved with my death.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a critic of secrecy and non-disclosure, advocating for radical transparency in dealings. He questions biological determinism, expresses concern for emotional states (e.g., Sprout\u2019s sobbing), and initiates discussion on factional obligations, often serving as moral counterweight to Daz and Werz.",
+    "source_quote": "I don\u2019t like NDAs because they don\u2019t allow for radical transparency and honesty in relations.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who negotiates fees for secrecy and assassin removal, enforces Non-Disclosure Agreements with threats of haunting, and is coldly pragmatic in extracting value. He demanded 1250 gold for an NDA, accepted 1100 after bargaining, and later insisted on an additional fee for assassin removal, accepting gems in lieu of coin.",
+    "source_quote": "We didn\u2019t discuss the fee for gEttin g rid of the assassins.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir sews tattoos on his body and believes that perhaps now he won't die. He is unconvinced of Thargus Ironhead\u2019s honesty.",
+    "source_quote": "Zalthir sews the tattoos on his body. He thinks that perhaps now he won\u2019t die. Zalthir is unconvinced of Thargus Ironhead\u2019s honesty.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz listened to Zalthir and scoffed, 'He\u2019s lying and trying to survive.' Daz smiles and says, 'They all know that we are going into the Whorlstone tunnels, and they all hope the information we provide will help them. The question is, how do we get the information and profit most?'",
+    "source_quote": "Daz, who listened to him, scoffs, \u201cHe\u2019s lying and trying to survive.\u201d Daz smiles, \u201cThey all know that we are going into the Whorlstone tunnels, and they all hope the information we provide will help them. The question is, how do we get the information and profit most?\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grinta Ironhead",
+    "fact": "Grinta Ironhead is a female Duergar who approaches the group after they leave Clan Ironhead. She states that the Deepking has imposed exorbitant pricing on the Deep Gnomes, and proposes that if the Deepking were deposed, Clan Ironhead would be free to conduct discounted trade with the gnomes.",
+    "source_quote": "\u201cMy name is Grinta Ironhead. I know you are trying to go to the overbrite through the city of the gnomes. The Deepking has raised prices to astronomical levels for the Deep Gnomes. Now, if the Deepking were unseated, Clan Ironhead would be free to do business with the gnomes, and we would be willing to do so at a discount of our normal prices.Greetings. My name is Grinta Ironhead. I am aware of your intent to traverse to the surface world via the gnomish city. Be advised that the Deepking has imposed exorbitant pricing upon the Deep Gnomes. It is my proposition that were the Deepking to be deposed, Clan Ironhead would be afforded the liberty to conduct trade with the gnomes, and we would willingly extend a discounted rate relative to our standard tariffs.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thargus Ironhead",
+    "fact": "Thargus Ironhead is the clan leader of Clan Ironhead. He explains that Clan Ironhead approves of the Deepking's policies and agrees that the Deepking's clan needs to be pre-eminent.",
+    "source_quote": "Thargus Ironhead, who explains that Clan Ironhead approves of the Deepking's policies and agrees that the Deepking's clan needs to be pre-eminent.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum coughs and says, 'And free Thermbachaude.'",
+    "source_quote": "Grygum coughs, \u201cAnd free Thermbachaude.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Clan Ironhead",
+    "fact": "Clan Ironhead is a Duergar clan that is initially unwilling to speak with the group but grants an audience after seeing their badges. They approve of the Deepking's policies and support the pre-eminence of the Deepking's clan. Grinta Ironhead suggests they would be willing to trade with gnomes at a discount if the Deepking were deposed.",
+    "source_quote": "the entire group heads to Clan Ironhead and asks to speak with the clan leader. The clan is initially unwilling to talk to them. Still, their badges get them an audience with Thargus Ironhead, who explains that Clan Ironhead approves of the Deepking's policies and agrees that the Deepking's clan needs to be pre-eminent. ... Grinta Ironhead ... proposes that were the Deepking to be deposed, Clan Ironhead would be afforded the liberty to conduct trade with the gnomes, and we would willingly extend a discounted rate relative to our standard tariffs.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Deepking",
+    "fact": "The Deepking is a ruling authority whose policies are approved by Clan Ironhead. The Deepking has imposed exorbitant pricing on the Deep Gnomes, which hinders trade with gnomes. Grinta Ironhead implies the Deepking's rule is a barrier to economic freedom.",
+    "source_quote": "The Deepking has raised prices to astronomical levels for the Deep Gnomes. ... The Deepking has imposed exorbitant pricing upon the Deep Gnomes. ... the Deepking's clan needs to be pre-eminent.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "arrival at Underlake Hold",
+    "fact": "Jimjar, Spiderbait, Sarith, and Eldeth walk to the Underlake Hold, where Errde arms them.",
+    "source_quote": "The following day, Jimjar, Spiderbait, Sarith, and Eldeth walk to the Underlake Hold, where Errde arms them.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "departure from Clan Ironhead",
+    "fact": "The entire group heads to Clan Ironhead and asks to speak with the clan leader. After being granted an audience, they leave the stronghold, where Grinta Ironhead approaches them.",
+    "source_quote": "the entire group heads to Clan Ironhead and asks to speak with the clan leader. ... As they leave the Clan stronghold, a female Duergar approaches them.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "assassins",
+    "fact": "The group must deal with assassins before proceeding with their mission. The assassins are an immediate threat.",
+    "source_quote": "We can do it after we deal with the assassins?",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Underlake Hold",
+    "fact": "Underlake Hold is a location where Errde arms Jimjar, Spiderbait, Sarith, and Eldeth.",
+    "source_quote": "The following day, Jimjar, Spiderbait, Sarith, and Eldeth walk to the Underlake Hold, where Errde arms them.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Clan Ironhead",
+    "fact": "Clan Ironhead is a stronghold where the group is granted an audience with Thargus Ironhead after presenting their badges. It is the seat of power for the Duergar clan.",
+    "source_quote": "the entire group heads to Clan Ironhead and asks to speak with the clan leader. ... Thargus Ironhead, who explains that Clan Ironhead approves of the Deepking's policies...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Whorlstone tunnels",
+    "fact": "The Whorlstone tunnels are a destination or route the group is believed to be heading toward. Factions are aware of this intent and hope to benefit from the information the group carries.",
+    "source_quote": "They all know that we are going into the Whorlstone tunnels, and they all hope the information we provide will help them.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "free Thermbachaude",
+    "fact": "There is an unresolved objective to free Thermbachaude, mentioned by Grygum. The identity and location of Thermbachaude are unknown.",
+    "source_quote": "Grygum coughs, \u201cAnd free Thermbachaude.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "profit from information",
+    "fact": "The group must determine how to obtain information and profit most from it, as factions are aware of their route and intentions.",
+    "source_quote": "The question is, how do we get the information and profit most?",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "1st day of the 2nd Tenday of Myrtul 1493",
+    "fact": "The events occur on the 1st day of the 2nd Tenday of Myrtul 1493.",
+    "source_quote": "## 1st day of the 2nd Tenday of Myrtul 1493",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "magical weapons and items",
+    "fact": "The magical weapons and items were requested by Thorin and Zalthir and delivered by Duergar Brannam.",
+    "source_quote": "the Duergar Brannam shows up with the magical weapons and items Thorin and Zalthir requested.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "badges",
+    "fact": "The group\u2019s badges are sufficient to gain an audience with Thargus Ironhead despite Clan Ironhead\u2019s initial reluctance.",
+    "source_quote": "Still, their badges get them an audience with Thargus Ironhead...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "tattoos",
+    "fact": "Zalthir sews tattoos on his body, which he believes may prevent his death.",
+    "source_quote": "Zalthir sews the tattoos on his body. He thinks that perhaps now he won\u2019t die.",
+    "quote_verified": true
+  }
+]

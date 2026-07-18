@@ -11,4 +11,9 @@ sources: ["duke_zalto.md"]
 The quest involves retrieving the Vonindod, an artifact associated with killing dragons. It is a central objective for Duke Zalto and the party, driving their actions and providing a unifying theme throughout the narrative.
 
 ## Related Pages
-- [[dungeon-ironslag]]
+- [[the-unfinished-quest]]
+- [[ragnarok]]
+- [[vonindod]]
+- [[strategy]]
+- [[technology]]
+- [[ironslag]]

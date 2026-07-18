@@ -1,0 +1,86 @@
+[
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is part of a party that has endured a shared history of Malfire citations, which have become an ambient condition of their group dynamic, and was referenced in a reconstructed conversation about Daz's habits.",
+    "source_quote": "I heard Grygum's name pulled into the discussion \u2014 Grygum, not me, which is how I know the sentence was reconstructed after the fact",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Vareth",
+    "fact": "Vareth is a half-orc cleric of Bahamut whose previously obscure field has become a flood of interest after Stroud's Gambit, and he is now receiving funding, conference invitations, and has a living data point in his own identity.",
+    "source_quote": "A living half-orc cleric of Bahamut had walked through his door",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Stroud",
+    "fact": "Stroud is a non-expert who performed an unexpected, decisive action in a chess game that became known as 'Stroud's Gambit' and triggered a theological and scholarly phenomenon concerning Bahamut and half-orc conversions.",
+    "source_quote": "Stroud rolled \u2014 and it landed perfectly. Definitively. ... 'Stroud's Gambit.'",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Bahamut's clergy",
+    "fact": "Bahamut's clergy are perceived as having a traditional ambition to take over the world, a stereotype that Vareth explicitly rejects, yet the emergence of a half-orc cleric has disrupted expectations and ignited scholarly inquiry.",
+    "source_quote": "it is traditional for clerics of Bahamut to want to try to take over the world. But I haven't moved into that phase yet.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Orc pantheon",
+    "fact": "The orc pantheon is experiencing theological disruption due to the sudden interest of a half-orc in Bahamut, prompting widespread debate about whether this shift is part of Bahamut's plan.",
+    "source_quote": "what did the sudden half-orc interest in Bahamut mean for the orc pantheon? Was it part of Bahamut's plan?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Stroud's Gambit",
+    "fact": "Stroud's Gambit is a decisive, unexpected move in a chess game that became a named phenomenon, catalyzing a surge of scholarly attention toward half-orc conversions to Bahamut and transforming Vareth\u2019s career.",
+    "source_quote": "'Stroud's Gambit.' ... 'The field of Bahamut half-orc conversions will benefit tremendously from your interview.'",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "theological implications of conversion",
+    "fact": "The theological implications of a half-orc cleric of Bahamut remain unresolved, with unanswered questions about Bahamut\u2019s intentions, the nature of the conversion phenomenon, and its place in broader divine architecture.",
+    "source_quote": "About Bahamut's intentions, about what my conversion meant in the broader theological landscape, about why Vareth's previously obscure field had become a flood.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "prayer book",
+    "fact": "The prayer book is one of several physical artifacts collected by the speaker as part of ongoing theological research into Bahamut and conversion phenomena, held alongside theological documents and Underdark evidence.",
+    "source_quote": "I had notes \u2014 the prayer book, the theological documents, the accumulated evidence of months in the Underdark",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "theological documents",
+    "fact": "Theological documents are part of a research archive compiled by the speaker to understand the nature of Bahamut\u2019s influence on half-orcs and the broader implications of Stroud's Gambit.",
+    "source_quote": "I had notes \u2014 the prayer book, the theological documents, the accumulated evidence of months in the Underdark",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is the setting where the speaker and Vareth are engaged in theological research, with answers awaiting in its libraries regarding Bahamut\u2019s intentions and the nature of the conversion phenomenon.",
+    "source_quote": "Somewhere in the library, there were answers waiting.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Malfire",
+    "fact": "Malfire is a referenced authority whose citations have become an ambient, inescapable part of the party\u2019s shared experience, invoked habitually by Daz and referenced by Grygum, forming a cultural texture rather than a discrete event.",
+    "source_quote": "Daz's habit of citing Malfire at every available opportunity. ... 'As Malfire said in Volume 3.'",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occur during a session of the party\u2019s ongoing campaign, marked by the transition from uncertainty to revelation, and anchored by the moment when 'Stroud's Gambit' was named.",
+    "source_quote": "I took notes. It's what I do.",
+    "quote_verified": true
+  }
+]

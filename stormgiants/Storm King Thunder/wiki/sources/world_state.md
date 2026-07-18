@@ -1,8 +1,8 @@
 ---
 type: source
 title: "Source: world_state.md"
-created: 2026-05-12
-updated: 2026-05-12
+created: 2026-06-06
+updated: 2026-06-06
 sources: ["world_state.md"]
 tags: []
 related: []
@@ -10,37 +10,37 @@ related: []
 
 # Source: world_state.md
 
-## Entities
+This analysis covers the **world_state.md** document, which serves as a "Living Canon" for a high-stakes campaign involving political intrigue, cosmic consequences, and impending warfare.
 
-### People/Organizations
-- **Orsik**: Dwarf fighter; confirmed Zhentarim agent; Headband of Intellect; Giant Slayer sword; debt cleared by Lord Zymorven
-- **Thistle Wendrod**: Fairy (pixie-type); dragon eyes and True Seeing; expelled from the Seelie Court; Uncle Joon (traveling, withheld information)
-- **Vardis**: Elf cleric; Mace of Terror; alternative believers' cult of Corellon; rejected reconciliation with Corellon's temples
-- **Unla Kee**: Halfling wizard; 12-foot pegasus wings; Gem of Elemental Summoning; Rock of Wonder; Kee and Wing Casino
-- **Iymrith**: Ancient blue dragon; experiments on Thistle; plans to demonstrate Laela as a fey-dragon hybrid
-- **Bob Saget**: Abyssal demon; summoned by Vardis; will infiltrate Iymrith's lair and attack
-- **Hsing**: Blue pseudodragon; SEER's field messenger and emissary
-- **King Hekaton**: Storm giant king; restored to the Wyrmskull Throne; Imperator Serissa will lead the assault
-- **Imperator Serissa**: Hekaton's daughter; will lead the assault on Iymrith's lair
-- **Queen Neri**: Hekaton's wife; murdered by Kraken Society agents; her death triggered the Ordning's collapse
-- **Uthor**: Hekaton's brother; stripped of office for failing to support the search for Hekaton
-- **Nym and Mirran**: Hekaton's elder daughters; confined to chambers pending judgment
-- **Wallace**: Retired guard; replaced Orsik as captain before departing
-- **Darathra Shendrel**: Lord Protector of Triboar; severed ties with the 3HPP after the theater incident
-- **Lady Atalia**: Telepath; previously blackmailed by Lord Drylund; now fearful of Kraken retaliation
-- **Oosith**: Aboleth; escaped from Yartar's sewers; still a threat
-- **Blagothkus**: Ettin; killed by Harshnag; Gralm's ally
-- **Gralm**: Ettin; signed a contract to deal with Bad Fruul
-- **Bad Fruul**: Hill giant warlord; killed during the battle of Parnast
-- **Narcellia Varam'myr**: Lolth priestess; trapped in a headband; converted to a Headband of Intellect by Orsik
-- **Lord Zymorven**: Knight; rescued by the 3HPP from a Yartar prison
-- **Delsephine**: Human captain; served as the 3HPP's transport and agent for the ancient red dragon Klauth
-- **Klauth**: Ancient red dragon; necromancer; gifted the 3HPP the Dragon's Breath airship
-- **Bressik**: Scholar; formerly contracted to Klauth; living portion of contract purchased by the 3HPP
-- **Lord Methrammar Aerasumé**: Lord of Silverymoon; son of Lady Alustriel Silverhand
-- **Taern Hornblade**: High Mage of Silverymoon; whispered praise to Thistle after the political manipulation of Aerasumé
-- **Pow**: Shou-Tounnese; COO of the Kee and Wing Casino; business partner of the 3HPP
-- **Uzorel "The Viper" Hornbalde**: Zhentarim agent in Silverymoon
-- **Escarlotta**: Animate spirit bound to Blagothkus's former cloud castle; will be displeased if Countess Sansuri is not defeated
-- **Glazhael the Undying**: Ancient white dracolich; freed after Sandesyl was destroyed; retrieved her phylactery from the party
-- **Lord Methrammar
+## Key Entities
+### Central Figures (The 3HPP)
+*   **Orsik (Dwarf Fighter):** A complex hero with a hidden past; a Zhentarim agent who uses the **Headband of Intellect** (formerly Narcellia Varam'yr's). He is currently seeking redemption while preparing for a suicidal stand against Iymrith.
+*   **Thistle Wendrod (Fairy):** A member of the Seelie Court with "dragon eyes" and True Seeing. Her primary motivation is rescuing **Laela**.
+*   **Vardis (Elf Cleric):** An outcast cleric of Corellon Larethian who seeks to form an alternative cult; he is a key negotiator for the party's moral/religious dilemmas.
+*   **Unla Kee (Halfling Wizard):** A powerful diviner with unique physical traits (wings) and significant assets (**Kee and Wing Casino**). He possesses several high-level artifacts but lacks a critical Polymorph spell.
+
+### Major Antagonists & Power Players
+*   **Iymrith ("Adimond Kroskas"):** An Ancient Blue Dragon who has infiltrated the Storm Giant court. She is the primary antagonist, currently conducting "hybridization experiments."
+*   **The SEER:** A high-ranking intelligence operative for the **Lord's Alliance**. She acts as a foil to Iymrith, seeking order through alliance.
+*   **Bob Saget (Demon):** A contract-bound abyssal demon with a "joke-based" punishment portfolio. He is a volatile wild card whose presence risks an interdimensional treaty violation (**ISD Treaty**).
+*   **The Carver:** The unseen architect behind the transformation of **Cryovain** and other entities into weapons/tools.
+
+### Supporting Cast & Factions
+*   **Hekaton (Storm Giant King):** A weary ruler seeking to restore the **Ordning**.
+*   **Serissa (Imperator):** Hekaton’s loyal daughter; a key military leader for the upcoming assault.
+*   **The Kraken Society:** A shadowy organization with a "hive-mind" theory; they are responsible for several major tragedies in the current timeline.
+*   **House Margaster:** A noble house under investigation for ties to **Asmodeus**.
+
+## Key Concepts
+*   **Ordning Shattering:** The collapse of the giant hierarchy caused by the silence/corruption of the deity Annam.
+*   **Hybridization Experiments:** Iymrith’s practice of creating "fey-dragon hybrids" (e.g., Laela).
+*   **ISD Treaty:** A multi-empire agreement; its violation by Bob Saget's presence threatens to bring Githyanki, Githzerai, and Mindflayers to Toril.
+*   **Narrative Economy/Shielding:** The use of "cover identities" (e.g., Orsik as a hero, Aletra as a merchant) to mask true intentions or affiliations.
+*   **Contractual Morality:** Relationships defined by specific terms (e.g., the 3HPP's deals with Bob Saget and various lords).
+
+## Main Arguments & Findings
+*   **The "Ticking Clock" Mechanic:** The document establishes a hard deadline: **5 days** until the battle at Iymrith’s lair.
+
+## Related
+
+- [[campaign_state-20260520]]

@@ -1,0 +1,114 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a combat-optimized individual who ignored the manual, built his own shadow-based techniques, and impressed the blind monk Khell-Vire with a 30-to-hit roll and a unique combination of shadow step and strike, leading to the award of a specialized shadow technique (option C).",
+    "source_quote": "I rolled a 30 to hit. Does that get me anything?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Khell-Vire",
+    "fact": "Khell-Vire is a blind monk who initially judged Zalthir\u2019s skills as weak and untrained, but recognized that Zalthir\u2019s unorthodox combination of shadow step and strike revealed a deeper understanding of the Way of the Shadow \u2014 one that mirrored the lost shadow monks he once found aggravating.",
+    "source_quote": "There is something special about how you hit. The way of the Shadow is not about hitting. It is about discrete movement.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is a sentient, late Netherese-era blade with a sun-worship origin and three to four thousand years of sustained darkness exposure, who has developed a relationship with Thorin and is being considered for personhood despite existing in a form that defies conventional pronouns.",
+    "source_quote": "This is a remarkable specimen.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is the wielder and companion of Dawnbringer, who insists on recognizing her as a friend and person despite institutional language that reduces her to a 'specimen,' and is seeking guidance on how to properly address her gender and personhood.",
+    "source_quote": "What do you mean, specimen? This is my friend Dawnbringer.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Shadow Monks",
+    "fact": "The Shadow Monks are a lost order whose techniques and philosophies were once considered aggravating by Khell-Vire, but whose essence Zalthir has unknowingly revived through his unorthodox combat style \u2014 suggesting a hidden lineage or ancestral echo in his actions.",
+    "source_quote": "You are beginning to remember, I think, all those shadow monks that drove you nuts.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Gelatinous Cube (She)",
+    "fact": "A gelatinous cube, referred to as 'she' by Zalthir, has been trained in the ways of the monk \u2014 learning to walk, to torture drows, and to embody discipline \u2014 challenging assumptions about sentience, mindlessness, and the boundaries of monastic potential.",
+    "source_quote": "She's by no means mindless \u2014 she's a student. He's learning the ways of the monk.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Eldritch Claw",
+    "fact": "The Eldritch Claw is a supernatural manifestation used by Zalthir in his unorthodox combat style, which was initially dismissed as a failed gambit but later integrated into his evolved shadow techniques.",
+    "source_quote": "Zalthir tried stealth for the Eldritch Claw.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Pocket Drow",
+    "fact": "A drow, referred to as 'Pocket Drow' by Thorin, is being tortured by the gelatinous cube \u2014 an unexpected and surreal detail indicating the cube\u2019s progress in embodying monastic discipline through cruelty.",
+    "source_quote": "Pocket Drow.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Resonant Slime",
+    "fact": "A vial of Resonant Slime, produced by the xenobiology sage, was accepted by Glabbagool \u2014 a sign of institutional recognition and approval of the gelatinous cube\u2019s progress as a sentient entity.",
+    "source_quote": "Glabbagool was very pleased.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Shadow Tentacles",
+    "fact": "Shadow tentacles are an eldritch tattoo technique developed by Zalthir, learned through unorthodox means, and presented as evidence of his combat creativity \u2014 though initially misaligned with the monk\u2019s expectations.",
+    "source_quote": "I mean, I learned how to grow shadow tentacles.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Shadow Technique Award",
+    "fact": "Zalthir was awarded a specialized shadow technique after demonstrating an unprecedented combination of shadow step and strike, with Khell-Vire offering three options and Zalthir selecting option C \u2014 a moment that redefined his place in the monastic lineage.",
+    "source_quote": "Zalthir chose option C.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Dawnbringer's Personhood Inquiry",
+    "fact": "Thorin sought formal recognition of Dawnbringer\u2019s personhood from Master Archivist Philemon, challenging the archival norm of referring to sentient blades as 'specimens' and initiating a rare conversation about pronouns and identity in a magical context.",
+    "source_quote": "I don't know what to call her, but... it's like \u2014 we've gotten to know each other pretty well.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Manual vs. Innovation",
+    "fact": "A recurring narrative thread: Zalthir consistently ignores official manuals, builds superior techniques through intuition and combat experience, and is later told by authorities that his innovations are the most valuable thing about him \u2014 suggesting the manuals are fundamentally flawed about him.",
+    "source_quote": "The manual was still wrong about him. But what he'd built in spite of it was genuinely his.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Sentience Beyond Biology",
+    "fact": "A philosophical thread challenging the assumption that sentience requires a brain \u2014 demonstrated by the gelatinous cube learning monk ways, the blade Dawnbringer developing a personality, and the monk Khell-Vire recognizing hidden depth in unorthodox expressions of power.",
+    "source_quote": "Can a mindless digestive system achieve\u2014",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Master Archivist Philemon's Study",
+    "fact": "A small, ink-scented chamber where Thorin and Philemon engaged in a rare and profound discussion about the personhood of sentient blades \u2014 a space where institutional norms were questioned and redefined.",
+    "source_quote": "Smelled like old ink and something faintly mineral, which I appreciated.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occurred during a session where Zalthir\u2019s breakthroughs and Dawnbringer\u2019s personhood inquiry were resolved \u2014 a day that redefined what counts as training, wisdom, and identity in the world of shadow and steel.",
+    "source_quote": "I filed it under 'Zalthir: things that are not in the records but will be.'",
+    "quote_verified": false
+  }
+]

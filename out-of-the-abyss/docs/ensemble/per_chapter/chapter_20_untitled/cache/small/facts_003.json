@@ -1,0 +1,37 @@
+[
+  {
+    "type": "npc",
+    "subject": "female derro",
+    "fact": "The female derro is standing close to the obelisk, gently patting and stroking its surface, then snatching an object from the ground and writing in a small notebook.",
+    "source_quote": "The derro squeals with glee as she snatches an object up from the ground, then writes something down in a small notebook.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "small notebook",
+    "fact": "The small notebook is used by the female derro to write something down after snatching an object from the ground.",
+    "source_quote": "writes something down in a small notebook.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "obelisk",
+    "fact": "The obelisk flashes once in response to the faerzress glow around the cavern, reacting to the derro's touch.",
+    "source_quote": "The obelisk flashes once, the glow of faerzress around the cavern flaring in response.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "faerzress",
+    "fact": "Faerzress is the magical glow surrounding the cavern, flaring in response to the obelisk's activation and the derro's actions.",
+    "source_quote": "the glow of faerzress around the cavern flaring in response.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "obelisk activation",
+    "fact": "The obelisk activates, flashing once and causing faerzress to flare, triggered by the derro's physical contact.",
+    "source_quote": "The obelisk flashes once, the glow of faerzress around the cavern flaring in response.",
+    "quote_verified": true
+  }
+]

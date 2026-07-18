@@ -14,3 +14,7 @@ venue: ""
 # Lord Neverember Intelligence
 
 Intelligence report regarding the ruler of [[neverwinter]] and his strategic involvement in the [[phandalin]] hinterlands via the [[adventurer-clearance-program]].
+
+## Related
+
+- [[4-npcs--15-lord_neverember--1hangl6]]

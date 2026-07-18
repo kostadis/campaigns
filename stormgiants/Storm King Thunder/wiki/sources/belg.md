@@ -1,58 +1,52 @@
 ---
 type: source
-title: Source: belg.md
-created: 2026-05-13
-updated: 2026-05-22
+title: "Source: belg.md"
+created: 2026-06-05
+updated: 2026-06-05
 sources: ["belg.md"]
-tags: [companion, unknown-creature, deceased]
-related: [belg, mama-manyknuckles, bad-fruul, spiritual-abandonment, ambiguous-sentience]
+tags: []
+related: []
 ---
 
-# Belg
+# Source: belg.md
 
-## Identity
-- **Role**: Companion to Mama Manyknuckles
-- **Faction**: Affiliated with Mama Manyknuckles
-- **First appearance**: The confrontation at the sinkhole, fighting alongside Mama Manyknuckles
-- **Type**: Character (Peripheral)
-- **Status**: Deceased
+## Key Entities
 
-## Personality & Motivations
-- No personality or motivations recorded. Belg's nature (creature type, sentience, etc.) is unknown. This ambiguity contributes to the broader theme of ambiguous sentience in the setting.
-
-## History with the Party
-- Fought alongside Mama Manyknuckles during the sinkhole encounter. Was defeated and killed by the party during the battle. This event is central to Belg’s narrative and the progression of the story.
-
-## Current Status
-- **Deceased.** Killed during the sinkhole confrontation.
-- No active plans or operations.
-- The party knows Belg was Mama Manyknuckles's "beloved" companion and that they killed them. Nothing further is known.
-
-## Relationships
-- **Mama Manyknuckles**: Described as her "beloved" companion. The depth and nature of this bond is unspecified but may be a point of consequence with Mama Manyknuckles, particularly in relation to spiritual abandonment and leadership dynamics.
+*   **Belg** (Entity)
+    *   **Role:** Companion to Mama Manyknuckles; defeated and killed by the party during the sinkhole confrontation.
+    *   **Status:** Already exists in the wiki as `[[belg]]`.
+*   **Mama Manyknuckles** (Entity)
+    *   **Role:** A deceased gang leader who blamed Bad Fruul for her gang's demise.
+    *   **Status:** Already exists in the wiki as `[[mama-manyknuckles]]`.
 
 ## Key Concepts
-- **Sinkhole Encounter**: A significant event where Belg fought alongside Mama Manyknuckles. Central to Belg’s narrative and the story’s progression. Directly tied to Belg’s death and the party’s confrontation with Mama Manyknuckles’ faction.
+
+*   **Ambiguous Sentience / Unknown Nature**
+    *   **Definition:** The deliberate lack of data regarding a creature's species, intelligence, or biological nature.
+    *   **Significance:** Belg serves as a narrative vehicle for "ambiguous sentience." Because the party knows only that it was "beloved" but doesn't know *what* it is, it creates a sense of existential unease and mystery.
+    *   **Status:** Already exists in the wiki as `[[ambiguous-sentience]]`.
+*   **Beloved Companion (Non-Human)**
+    *   **Definition:** A non-human entity that holds significant emotional weight for a leader, regardless of its biological classification.
+    *   **Significance:** This highlights the bond between Mama Manyknuckles and Belg as a core piece of her character's tragic arc.
+    *   **Status:** Already exists in the wiki as `[[beloved-companion-non-human]]`.
 
 ## Main Arguments & Findings
-- **Core Claim**: Belg was killed during the sinkhole confrontation. Evidence: Directly stated in the source. Strength: Strong, based on explicit narrative details.
-- **Findings**: Belg’s role was limited to being Mama Manyknuckles’ companion and fighting alongside her during the sinkhole incident. No further information about their nature, origins, or motivations is available.
+
+*   **Narrative Function of Mystery:** The primary finding is that Belg’s lack of defined traits (no personality, unknown species) is a deliberate narrative choice. It emphasizes the emotional weight of Mama Manyknuckles' loss rather than the mechanics of the creature itself.
+*   **Evidence of Impact:** The fact that the party "knows" Belg was beloved provides a hook for potential future consequences or moral weight regarding their victory in the sinkhole confrontation.
 
 ## Connections to Existing Wiki
-- **Existing Pages**: [[mama-manyknuckles]], [[sinkhole]], [[combat]], [[spiritual-abandonment]], [[ambiguous-sentience]]
-- **Strengthening Knowledge**: The source provides concrete details about Belg’s role and fate, enriching the narrative context of the sinkhole encounter and deepening the emotional weight of Mama Manyknuckles’ loss. It also introduces critical open questions about sentience and companionship in the setting.
+
+*   **Strengthens `[[belg]]`:** Confirms the entity's status as deceased and its specific relationship with Mama Manyknuckles.
+*   **Supports `[[ambiguous-sentience]]`:** Belg is a primary example of an entity whose nature is intentionally left undefined to create narrative mystery.
+*   **Supports `[[beloved-companion-non-human]]`:** Reinforces the concept that emotional significance can exist independently of biological classification.
 
 ## Contradictions & Tensions
-- **Internal Tension**: There is no direct contradiction within the source; however, the lack of detailed information about Belg’s nature and motivations could lead to potential contradictions if not properly addressed in the wiki. The term "beloved" implies emotional significance, yet no behavioral or historical context supports its meaning — creating narrative tension around the nature of the bond.
+
+*   **No Internal Conflicts:** The document is consistent with existing wiki entries regarding Belg's role as a "mystery" entity.
+*   **Potential Narrative Tension:** There is an inherent tension between the party’s victory (killing Belg) and the emotional weight of killing something described as "beloved," which may impact how Mama Manyknuckles' legacy is perceived by the players.
 
 ## Recommendations
-- **Pages to Create or Update**: [[belg]], [[sinkhole]], [[combat]], [[spiritual-abandonment]], [[ambiguous-sentience]]
-- **Emphasis**: Emphasize the details of Belg’s role and fate in the sinkhole encounter. De-emphasize speculative aspects of their nature and motivations until further evidence is available.
-- **Open Questions**: 
-  - What type of entity is Belg? (Creature? Construct? Spirit?)
-  - Was Belg sentient? Did they choose to follow Mama Manyknuckles?
-  - How does Belg’s death impact Mama Manyknuckles’ leadership and emotional state?
-  - Does Belg’s existence imply broader themes of loyalty, loss, or spiritual abandonment in the faction?
 
-## Arc Score Events
-- None recorded.
+*   **No new pages required.** The current wiki entries for `[[belg]]` and `[[ambiguous-sentience]]` sufficiently capture the essence of this source.
+*   **Update/Refine:** Ensure that any future notes on Mama Manyknuckles emphasize the "beloved" status of Belg as a key component of he

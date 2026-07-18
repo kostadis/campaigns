@@ -1,8 +1,8 @@
 ---
 type: source
 title: "Source: diana.md"
-created: 2026-05-13
-updated: 2026-05-13
+created: 2026-06-05
+updated: 2026-06-05
 sources: ["diana.md"]
 tags: []
 related: []
@@ -10,35 +10,46 @@ related: []
 
 # Source: diana.md
 
-### Key Entities
-- **Diana**: Commanding officer of a Lord's Alliance strike team, central figure in the narrative.
-- **Lord's Alliance**: Organization affiliated with Diana, peripheral organization.
-- **Clarion**: Intermediary who initially communicated with Diana, peripheral role.
-- **Orsik**: Provided critical information leading to Diana's decision to withdraw, central role.
-- **Thistle**: Asked about Adimond Kroskas, peripheral role.
-- **Adimond Kroskas**: Individual mentioned by Thistle, peripheral role.
-- **Zephyros**: Target of Diana's mission, central figure.
-- **Cult of the Dragon**: Opponent encountered by Diana's team, central antagonist.
+## Key Entities
 
-### Key Concepts
-- **Strike Team Mission**: The primary objective of Diana's team, central concept.
-- **Verification of Intelligence**: Importance of verifying information before acting, central theme.
-- **Practicality vs. Idealism**: Diana's tendency to reassess objectives based on new information, central tension.
+*   **Diana** (Person)
+    *   **Role:** Central (NPC). She is a commanding officer of a Lord's Alliance strike team.
+    *   **Status:** Likely new to the wiki or needs an entry created.
+*   **Lords' Alliance** (Organization)
+    *   **Role:** Central. The political faction Diana represents.
+    *   **Status:** Exists in the wiki (implied by "Lord's Alliance" and related entities like Azam).
+*   **Zephyros** (Person/Entity)
+    *   **Role:** Central. The owner of the flying castle and the original target of Diana’s mission.
+    *   **Status:** Likely exists or is closely tied to the "Blagothkus" / "Escarlotta" arc (the flying castle).
+*   **Clarion** (Person)
+    *   **Role:** Peripheral/Support. Acts as a communication intermediary between the party and Diana.
+    *   **Status:** Not currently in the index; needs verification or creation.
+*   **Orsik** (Person)
+    *   **Role:** Peripheral. His specific testimony regarding Zephyros's behavior was the catalyst for Diana’s de-escalation.
+    *   **Status:** Not in the current index; likely a party member or local contact.
+*   **Thistle** (Person)
+    *   **Role:** Peripheral. A party member/contact who inquired about Adimond Kroskas.
+    *   **Status:** Exists in the wiki (as `thistle-wendrod`).
+*   **Adimond Kroskas** (Person)
+    *   **Role:** Central (Antagonist). Mentioned by Thistle; Diana has no knowledge of him.
+    *   **Status:** Exists in the wiki (as `adimond-kroskas`).
+*   **Cult of the Dragon** (Organization)
+    *   **Role:** Central. The antagonistic force that had previously fought Diana's team to a standstill.
+    *   **Status:** Exists in the wiki (implied by related entities like `bad-fruul` and `narcellin-varamyr`).
 
-### Main Arguments & Findings
-- **Core Claim**: Diana's team decided to withdraw from their mission against Zephyros's orb due to credible intelligence provided by Orsik.
-- **Evidence**: Orsik's testimony about Zephyros's actions and lack of threats, which contradicted the initial assumption of danger.
-- **Strength of Evidence**: Strong, as it directly influenced Diana's decision-making process.
+## Key Concepts
 
-### Connections to Existing Wiki
-- **[[lord-s-alliance]]**: Links Diana to her faction, reinforcing her role within the organization.
-- **[[zephyros]]**: Provides context for the mission's target, strengthening the narrative.
-- **[[cult-of-the-dragon]]**: Highlights the antagonistic relationship with the cult, extending the story's scope.
+*   **De-escalation via Verification:** The process of lowering tension through the presentation of objective, verifiable facts rather than emotional appeals.
+    *   **Why it matters:** It defines Diana as a "rational" antagonist/neutral party who follows logic over instinct.
+*   **Mission-Focused Pragmatism:** A leadership style where objectives are reassessed based on new intelligence, allowing for immediate withdrawal when an objective is deemed no longer valid or incorrectly targeted.
+    *   **Why it matters:** It establishes the Lords' Alliance as a competent, professional organization rather than a mindless "monster of the week" faction.
+*   **Information Asymmetry (Intelligence Gap):** The gap between what Diana knows (Cult of the Dragon activity) and what she doesn't (Adimond Kroskas's identity).
+    *   **Why it matters:** It highlights the scale of the Cult's influence; even high-level officers are unaware of specific key figures like Kroskas.
 
-### Contradictions & Tensions
-- **Internal Tension**: Diana's pragmatic approach conflicts with the idealistic nature of some of her team members, particularly those who might have preferred to continue the mission despite the lack of immediate threat.
+## Main Arguments & Findings
 
-### Recommendations
-- **Create Page**: [[diana]] to summarize her character, mission, and relationships.
-- **Update Pages**: [[lord-s-alliance]], [[zephyros]], and [[cult-of-the-dragon]] to include details relevant to Diana's story.
-- **Flag**: Potential for further exploration into Diana's broader operations and the status of her team post-mission.
+*   **Competence of the Lords' Alliance:** The source establishes that the Lords' Alliance is not a mindless aggressor but a professional military force. Diana’s willingness to stand down upon receiving "verifiable information" suggests a high level
+
+## Related
+
+- [[alaestra]]

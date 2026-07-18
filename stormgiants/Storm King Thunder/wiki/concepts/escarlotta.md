@@ -11,4 +11,9 @@ sources: ["duke_zalto.md"]
 Escarlotta is another Fire Giant lord who mocks Zalto's ambitions. His mockery underscores the perception of Zalto's lack of legitimacy among the giant lords.
 
 ## Related Pages
-- [[dungeon-ironslag]]
+- [[mirrans-coalition-of-giant-lords-2026-06-06-002536]]
+- [[ordning]]
+- [[vonindod]]
+- [[lore]]
+- [[king-hekaton]]
+- [[ironslag]]

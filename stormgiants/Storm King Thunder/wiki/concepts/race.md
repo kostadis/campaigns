@@ -13,3 +13,9 @@ Imber Chen's exclusionary views on race, particularly excluding half-orcs from h
 ## Key Points
 - Imber's exclusionary views on race
 - Contrast with Silverymoon's broader narrative of racial inclusivity
+
+## Related
+
+- [[acceptance_of_non_goodly_races]]
+- [[racial-inclusivity]]
+- [[racial-exclusionary-views]]

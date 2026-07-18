@@ -93,16 +93,13 @@ Per the module, the iron box at the altar holds:
 
 - **2 × Potion of Fire Resistance**
 - **Ring of Fire Resistance** (the room's reward for the fire damage it throws at you)
-- **A longsword that does not glow** — the module's **Frost Brand** (described in the legacy
-  text as "+3/+6 vs. fire creatures," Lawful Good, Int 16 / Ego 17, speaks Common, Fire Giant,
-  Red Dragon, Salamander; powers: *detect evil*, *detect magic*, *detect shifting walls/rooms*,
-  and *levitate*).
-  - **5e adjudication note:** in pure 5e the *Frost Brand* (DMG) deals +1d6 **cold** on a hit
-    and grants the wielder fire resistance. Either way it is *the* anti-salamander weapon —
-    cold is the salamanders' vulnerability, so its cold rider **doubles** against them. If the
-    party pries the box open mid-fight, that's a genuine swing. The intelligent-weapon
-    personality (LG, wants to fight fire creatures) is a fun pull-toward-the-fight if a PC
-    attunes on the spot.
+- **A longsword that does not glow** — the **Frost Brand** (legendary, sentient LG). Full 5e
+  statblock in `notes/statblocks/frost-brand-area-212.md`. Key table-facing facts:
+  - +3 to attack/damage; **+6 vs. fire creatures** (immunity or resistance to fire)
+  - +1d6 cold on hit — doubles to 2d6 against the salamanders before vulnerability kicks in
+  - Speaks Ignan; will taunt the salamanders if held near them
+  - Mid-fight pickup: the raw +3 and cold damage work without attunement; the sentient powers
+    (detect evil, detect magic, sense architecture, levitate 3/day) require attunement
 
 ## CR calibration
 

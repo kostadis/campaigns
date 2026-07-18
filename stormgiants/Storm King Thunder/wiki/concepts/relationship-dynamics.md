@@ -11,3 +11,7 @@ sources: ["fiora_bendaega.md"]
 - **Definition:** Detailed interactions between Fiora and Diego, including their roles and dynamics.
 - **Matters:** Essential to understanding Fiora's character.
 - **Existing:** Likely already exists in the wiki under a similar concept.
+
+## Related
+
+- [[guard-and-companion]]

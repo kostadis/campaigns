@@ -1,44 +1,31 @@
-# === MemPalace mining exclusions — toee campaign palace ===
-# Decoupled from .gitignore on purpose (CLAUDE.md guidance): version-control
-# and mining concerns are separate. Only the ROOT (toee-wing) mine uses this to
-# skip the separate-wing dirs; the wing subdirs are mined directly.
-
-# Raw session data — the curated narrative lives in the narrative wing.
-# (recent gm-assist summaries for Ch26+ are pending bible regen; add later.)
-summaries/
+# mneme-rendered; source-sha256: b9a0a6cb3bb1d10993ec55f72c3a80c6c49f81483457ea95cbf50b3fe5802d73; do-not-edit
 logs/
-
-# Local tooling, caches, archives, pipeline rendering inputs
-temple/
-archive/
-examples/
 voice/
+examples/
 .claude/
-
-# CampaignGenerator pipeline intermediates (stage inputs, not DM reference)
-docs/state_extractions/
-docs/party_extractions/
-docs/planning_extractions/
-planning_extractions/
-
-# Published-module source — use the 5etools MCP instead (per CLAUDE.md)
-docs/background/
-
-# The narrative bible itself — replaced by per-chapter splits (narrative wing)
-docs/toee-summary.md
-docs/mechanics.md
-
-# Separate wings — mined on their own; keep them OUT of the root (toee) mine
-docs/chapters/
-docs/distill_extractions/
-notes/
-
-# Binaries & tooling
-*.pdf
-*.tar.gz
+.mneme/
+.mcp.json
+MEMPALACE.md
 *.sh
 config.yaml
 ui_config.yaml
+ui_state.yaml
 entities.json
-mempalace.yaml
-.mempalaceignore
+refs.yaml
+refs.local.yaml
+.dedup_state.json
+temple/
+archive/
+planning_extractions/
+docs/state_extractions/
+docs/party_extractions/
+docs/planning_extractions/
+docs/background/
+docs/toee-summary.md
+docs/mechanics.md
+*.pdf
+*.tar.gz
+docs/distill_extractions/
+notes/sessions/
+notes/
+summaries/

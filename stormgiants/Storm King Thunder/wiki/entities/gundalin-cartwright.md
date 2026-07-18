@@ -20,3 +20,7 @@ Gundalin Cartwright is a central figure in the narrative universe described in t
 
 ## Arc Score Events
 - **Slight positive shift** post-battle: broke from Raggnar's accusatory stance and voiced sympathy for Orsik's position, suggesting emerging distrust of the party's institutional backers rather than the party itself.
+
+## Related
+
+- [[gundalin_cartwright]]

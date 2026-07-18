@@ -29,7 +29,7 @@ related: []
 - **Strength of Evidence**: Moderate, based on indirect references and reports.
 
 ## Connections to Existing Wiki
-- **[[seelie-court]]**: This source provides additional context about Queen Tatiana's role within the Seelie Court.
+- **[[fey-court-structure]]**: This source provides additional context about Queen Tatiana's role within the Seelie Court.
 - **[[exile]]**: The concept of exile is further explored in this source, providing more details about its application in the narrative universe.
 
 ## Contradictions & Tensions
@@ -37,10 +37,19 @@ related: []
 - Internal tension exists regarding the extent of Queen Tatiana's involvement and her true intentions.
 
 ## Recommendations
-- **Create Page**: [[queen-tatiana]]
+- **Create Page**: [[queen_tatiana]]
 - **Emphasize**: Exile, Seelie Court, and current status.
 - **De-emphasize**: Specific details about Prince Thornacious and Sir Oblivillish, as their roles are already well-covered.
 - **Open Question**: Clarify Queen Tatiana's motivations and broader plans.
 
 ## Wiki Purpose (for context)
 # Project Purpose — Reading
+
+## Related
+
+- [[serissa]]
+- [[titania]]
+- [[szass_tam]]
+- [[slayermighty]]
+- [[syreen_widdens]]
+- [[talis_the_white]]

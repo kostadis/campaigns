@@ -1,0 +1,114 @@
+[
+  {
+    "type": "npc",
+    "subject": "Chief Dorbo Diggermattock",
+    "fact": "Chief Dorbo Diggermattock is the leader of Clan Diggermattock in Blingdenstone, currently engaged in a heated discussion with Quartermaster Senni Diggermattock about the party's identity and the ooze infestation.",
+    "source_quote": "They turned to greet the party and asked for their identity.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Quartermaster Senni Diggermattock",
+    "fact": "Quartermaster Senni Diggermattock is the assistant to Chief Dorbo Diggermattock, responsible for coordinating community defense efforts and assigning the party to address the ooze infestation.",
+    "source_quote": "She explained that while they would normally be delighted to help the party reach the Overbright, their community was suffering from an ooze problem.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a friendly, sentient gelatinous cube and companion to the party, who actively clarifies his distinction from oozes and expresses curiosity about shambling mounds and treasure.",
+    "source_quote": "He emphasized that he was a gelatinous cube, a totally different species from an ooze, highlighting his higher viscosity and ability to maintain a square shape.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is the party's companion who offered a bet of five empty spell gems, affirming the legitimacy of the gnomes' request and hinting at the ooze threat.",
+    "source_quote": "He offered a bet of five empty spell gems. He wagered that meeting with the gnomes was the right thing to do.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Clan Diggermattock",
+    "fact": "Clan Diggermattock is a deep gnome faction that has taken territory from the Drow and is currently focused on defending against ooze infestations and gathering intelligence on their long-time enemies.",
+    "source_quote": "Clan Diggermattock had taken this territory from the Drow, and any intelligence about their long-time enemies was of vital importance for preparing their defenses.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Drow",
+    "fact": "The Drow are a hostile faction and long-time enemies of Clan Diggermattock, from whom territory was seized and whose escapees are required to be escorted under official memo.",
+    "source_quote": "All Drow escapees must be escorted immediately to Chief Dorbo Diggermattock of Clan Diggermattock.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Oozes",
+    "fact": "Oozes are a pervasive hazard in Blingdenstone, causing significant disruption to the deep gnome community and requiring the party to address the infestation before receiving aid.",
+    "source_quote": "Glabbagool... hinted that the party would have to deal with the oozes plaguing the community.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Shambling Mounds",
+    "fact": "Shambling mounds are a type of creature unknown to Glabbagool, which the party describes as non-treasure-retaining plant-based monstrosities that excite him due to their potential for explosive decomposition.",
+    "source_quote": "Glabbagool became very excited and asked if they contained treasure when they exploded.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Blingdenstone",
+    "fact": "Blingdenstone is a deep gnome city beneath the surface, featuring reception halls, Trader's Grotto, Diggermattock Hall, and other administrative and commercial spaces under threat from oozes.",
+    "source_quote": "The guards escorted the party through various parts of Blingdenstone, including a reception hall with a cart and the bustling Trader's Grotto.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Diggermattock Hall",
+    "fact": "Diggermattock Hall is a well-lit cavern in Blingdenstone occupied by twenty-four Svirfneblin engaged in administrative tasks, and serves as the seat of leadership for Clan Diggermattock.",
+    "source_quote": "The party was eventually led to Diggermattock Hall, a well-lit cavern occupied by two dozen Svirfneblin engaged in various administrative tasks.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Trader's Grotto",
+    "fact": "Trader's Grotto is a bustling commercial area within Blingdenstone, frequented by deep gnomes and noted for its lively activity.",
+    "source_quote": "The guards escorted the party through various parts of Blingdenstone, including a reception hall with a cart and the bustling Trader's Grotto.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Five empty spell gems",
+    "fact": "Five empty spell gems were wagered by Jimjar as a bet on the legitimacy of the gnomes' request and the party's path forward.",
+    "source_quote": "He offered a bet of five empty spell gems.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "ooze infestation",
+    "fact": "The ooze infestation in Blingdenstone has become severe enough that Clan Diggermattock has assigned the party a side quest to eliminate the threat before providing any assistance.",
+    "source_quote": "Since the party had 'graciously volunteered,' the gnomes expected them to address the infestation before receiving any assistance.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Overbright destination",
+    "fact": "The party seeks to reach the Overbright, a mysterious destination that the gnomes would normally assist with, but are currently unable to due to the ooze crisis.",
+    "source_quote": "They were seeking to reach the Overbright.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Emerald Vanguard identity",
+    "fact": "The name 'Emerald Vanguard' was considered by the party but discarded due to its association with a group blamed for destroying a city, leaving their true identity ambiguous.",
+    "source_quote": "The party briefly considered using the name 'Emerald Vanguard,' but quickly realized this name was associated with a group blamed for destroying a city.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occur during the party's current session, with no specific calendar date provided.",
+    "source_quote": "The party arrived at a gate deep within the caverns of Blingdenstone...",
+    "quote_verified": false
+  }
+]

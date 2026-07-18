@@ -1,0 +1,128 @@
+[
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a researcher who deduced that the murder weapon was a poisoned book, read by the victim who licked his fingers while turning pages, causing the toxic Feywild dust (midnight tears) to react with saliva and darken, leading to death at midnight.",
+    "source_quote": "His fingers were black, his lips were black, and he died at midnight. The book was the murder weapon, and he'd read himself dead.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin questioned the metaphysical implications of the poison's timing, particularly regarding time zones and astronomical midnight, and identified the key detail that saliva darkens the otherwise pale ochre dust.",
+    "source_quote": "What darkens it is saliva. The ochre reacts on contact with spit, and a man turning pages licks his fingers to do it.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "High Tower",
+    "fact": "The High Tower uses a summoning spell requiring a sapphire to recall hidden objects, potentially revolutionizing how its keys are secured \u2014 not carried, but summoned when needed.",
+    "source_quote": "You don't hide the key on a body where someone can search it. You hide it nowhere at all, and you summon it when the door is in front of you.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "victim's death",
+    "fact": "The victim died at precisely midnight after ingesting midnight tears \u2014 a Feywild poison that becomes lethal only when mixed with the sap of a specific Feywild tree, and activated by saliva from finger-licking while reading.",
+    "source_quote": "You consume it, you're fine \u2014 apparently fine \u2014 and then you're dead at midnight.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Fey-mous Flowers & Fungi",
+    "fact": "The book *Fey-mous Flowers & Fungi* by Archibald Roots, Jr. contains the formula for midnight tears and its antidotal transformation into a pain-relief solution, and was the physical vector of the poison used in the murder.",
+    "source_quote": "The book was the murder weapon, and he'd read himself dead.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "midnight tears",
+    "fact": "Midnight tears is a pale ochre Feywild dust derived from pollen of a plant found only in the Feywild; it remains non-lethal until mixed with the sap of a specific Feywild tree, and becomes lethal upon contact with saliva.",
+    "source_quote": "When midnight tears are mixed with the sap of a certain Feywild tree, they lose their toxicity entirely and become a powerful pain-relief solution... Otherwise: lethal. Food or liquid, either delivery worked.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Sapphire summoning spell",
+    "fact": "The sapphire summoning spell is an ancient enchantment that recalls a single object to the caster\u2019s hand, requiring an expensive sapphire and functioning regardless of whether the object is carried or hidden.",
+    "source_quote": "You can put it someplace, you can throw it into a river or whatever. Nobody will find it, and then when you need it back, boom.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Feywild plant (source of midnight tears)",
+    "fact": "The plant producing midnight tears grows exclusively in the Feywild, making its pollen rare and difficult to access outside that plane, narrowing the suspect pool to those with Feywild connections.",
+    "source_quote": "A highly toxic pale ochre dust, made from the pollen of a plant usually found only in the Feywild.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "time zone ambiguity",
+    "fact": "The magical timing of midnight tears' lethality remains unexplained in terms of real-world timekeeping, with no consensus on whether it follows local, astronomical, or magical midnight.",
+    "source_quote": "Nobody had an answer for the time zones. 'It's magic,' I said. That covers most of it.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Flora Theca",
+    "fact": "The Flora Theca is a research chamber with towering shelves, used by Grygum to uncover the truth behind the murder through botanical and magical texts, and is the site of the critical deduction that the book itself was the weapon.",
+    "source_quote": "Just stacks, and quiet, and the work. I started pulling tomes.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Hearth",
+    "fact": "The Hearth is the venue chosen by Daral Yashenti for interrogation, an intentional inversion of protocol where the suspect controls the environment, signaling his confidence or intoxication.",
+    "source_quote": "The suspect setting the venue, picking the ground, making the famous detectives walk to him.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz internally recognized the sapphire summoning spell as a teleport-to-hand enchantment, and contributed the insight that it could be used to bypass physical security on the High Tower Keys.",
+    "source_quote": "Oh, wait a second, this is like a way to teleport it into my hand later kind of thing.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir expected a time-freezing spell from the sapphire inscription and was disappointed to discover it was a summoning spell, revealing his bias toward temporal magic over retrieval magic.",
+    "source_quote": "Zalthir had been expecting a working that freezes a thing in stopped time, and seemed almost disappointed.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "carried vs. worn objects",
+    "fact": "The distinction between 'carried' and 'worn' objects affects the functionality of the sapphire summoning spell, with the spell not activating on items worn (like lanyards), reframing its tactical use.",
+    "source_quote": "Whether a thing worn counts as a thing carried. 'I would think so. I'd think that you're carrying anything that you're wearing.' It doesn't, as it turned out.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "poison delivery method",
+    "fact": "The poison was delivered not through ingestion or injection, but via contamination of a book\u2019s pages, activated by the victim\u2019s habitual act of licking his fingers while reading.",
+    "source_quote": "Some liquid had gotten onto his finger, and the finger had gone black... The dust stays pale ochre. What darkens it is saliva.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "magic vs. mundane timekeeping",
+    "fact": "The magical nature of midnight tears\u2019 activation defies conventional timekeeping, leaving open whether it responds to celestial, local, or intrinsic magical time \u2014 a mystery unresolved by all present.",
+    "source_quote": "How do they account for daylight savings time? Did you ever\u2026 an astronomical midnight?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daral Yashenti",
+    "fact": "Daral Yashenti refuses to meet investigators at their location, instead summoning them to The Hearth \u2014 a deliberate act of control, suggesting either arrogance, intoxication, or hidden leverage.",
+    "source_quote": "Daral was not coming to us. We were to go to the Hearth.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Fembris",
+    "fact": "Fembris acted with decisive efficiency to relay the message that Daral Yashenti would not come to them, highlighting a shift in protocol and the suspect\u2019s psychological advantage.",
+    "source_quote": "Fembris went off with the particular efficiency of someone who'd been waiting for a task to belong to, and came back with two words.",
+    "quote_verified": true
+  }
+]

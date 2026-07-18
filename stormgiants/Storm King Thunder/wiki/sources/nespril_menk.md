@@ -57,8 +57,8 @@ related: []
   - Strong, based on Nespril's direct actions and reactions during the encounter.
 
 ### Connections to Existing Wiki
-- **[[krowen-valharrow]]**: Relevant as Nespril is Krowen's apprentice and has a close relationship with him.
-- **[[moongleam-tower-everlund]]**: Relevant as Nespril operates within this location and manages its security.
+- **[[krowen_valharrow]]**: Relevant as Nespril is Krowen's apprentice and has a close relationship with him.
+- **[[tower-of-storms]]**: Relevant as Nespril operates within this location and manages its security.
 - **[[harper]]**: Relevant as Nespril is associated with this organization and shares their ideological stance.
 - **[[zhentarim]]**: Relevant as Nespril's actions indicate a need to protect the tower from Zhentarim surveillance.
 
@@ -70,11 +70,20 @@ related: []
 
 ### Recommendations
 - **Create or Update Pages:**
-  - [[nespril-menk]]
-  - [[krowen-valharrow]]
-  - [[moongleam-tower-everlund]]
+  - [[nespril_menk]]
+  - [[krowen_valharrow]]
+  - [[tower-of-storms]]
   - [[harper]]
   - [[zhentarim]]
 - **Emphasize:**
   - Nespril's ideological stance and his relationship with Krowen.
   - The importance of the randomized sec
+
+## Related
+
+- [[nestra_ruthiol]]
+- [[senneth]]
+- [[silas_carras]]
+- [[orgazol]]
+- [[taern_hornblade]]
+- [[uthor]]

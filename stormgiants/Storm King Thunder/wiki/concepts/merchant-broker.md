@@ -11,3 +11,10 @@ sources: ["fiora_bendaega.md"]
 - **Definition:** Method of connecting merchants with suitable adventurers for hire.
 - **Matters:** Essential to understanding Fiora's role and the narrative flow.
 - **Existing:** Likely already exists in the wiki under a similar concept.
+
+## Related
+
+- [[adventurer-broker]]
+- [[fiora-bendaega]]
+- [[merchant-protection-job]]
+- [[middleperson-adventure-broker]]

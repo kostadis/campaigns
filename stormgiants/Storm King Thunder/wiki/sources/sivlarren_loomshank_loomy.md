@@ -32,10 +32,10 @@ related: []
 - **Strength of Evidence**: Strong, as the party successfully found Mirak based on Loomy’s information.
 
 ### Connections to Existing Wiki
-- **[[divine-reading]]**: This concept aligns with the idea of Loomy’s telepathic communication with Helm.
-- **[[telepathy]]**: This skill is central to Loomy’s role and how he provided the party with crucial information.
-- **[[neverwinter-clerical-hierarchy]]**: Loomy’s past affiliation with this group is relevant to his current status and motivations.
-- **[[allfaiths-shrine-red-larch]]**: His current location and the shrine where he was exiled.
+- **[[divine-silence]]**: This concept aligns with the idea of Loomy’s telepathic communication with Helm.
+- **[[magic-telepathy]]**: This skill is central to Loomy’s role and how he provided the party with crucial information.
+- **[[lord-neverember]]**: Loomy’s past affiliation with this group is relevant to his current status and motivations.
+- **[[clergy-of-lathander]]**: His current location and the shrine where he was exiled.
 
 ### Contradictions & Tensions
 - **Internal Tension**: Loomy’s reluctance to fully disclose information to the brothers due to fear of their reaction, despite his apparent trust in the party.
@@ -45,4 +45,4 @@ related: []
 - **Emphasize**: Loomy’s role in providing the key information leading to Mirak’s discovery.
 - **De-emphasize**: Specific details about his past within the Neverwinter Clerical Hierarchy, as they are less central to the immediate narrative.
 - **Open Question**: Investigate further into Loomy’s specific troubles within the Neverwinter Clerical Hierarchy and why he was truly banished.
-- **Existing Pages Related**: [[divine-reading]], [[telepathy]], [[neverwinter-clerical-hierarchy]], [[allfaiths-shrine-red-larch]].
+- **Existing Pages Related**: [[divine-silence]], [[magic-telepathy]], [[lord-neverember]], [[clergy-of-lathander]].

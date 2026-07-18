@@ -4,7 +4,7 @@ title: Intellectual Opposition as Collaborative Dynamic
 created: 2026-06-15
 updated: 2026-05-27
 tags: [dialogue, epistemology, workplace-dynamics, scientific-culture, rivalry, innovation, institutional-culture, epistemic-tension]
-related: [dabbledob, fibblestib, gnomengarde, evidence-based-pragmatism, sanity-ray, straitjacket-solution]
+related: ["dabbledob", "fibblestib", "gnomengarde", "evidence-based-pragmatism", "technology-as-cure", "straitjacket-solution"]
 sources: ["npcs/dabbledob.md", "npcs/fibblestib.md"]
 ---
 # Intellectual Opposition as Collaborative Dynamic
@@ -18,3 +18,7 @@ Each proposal is sharpened by the other’s critique. Each failure is met not wi
 Crucially, this form of opposition can be personal, prideful, and emotionally charged without being toxic. It is not about winning, dominating, or exploiting. There is no sabotage, secrecy, or malice. Instead, it is a form of mutual accountability, mirroring the structure of scientific peer review but embedded in daily life. The absence of hidden agendas distinguishes it from cynical alliances or adversarial rivalry.
 
 In worldbuilding, this dynamic provides a model for healthy institutional culture: progress is not the product of consensus, but of structured, sustained disagreement. It is the antidote to echo chambers and the engine of genuine innovation. In a world where gods are silent, the most enduring truths are not revealed by revelation—but by debate.
+
+## Related
+
+- [[evidence-based-pragmatism]]

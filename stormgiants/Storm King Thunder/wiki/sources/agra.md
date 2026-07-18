@@ -1,8 +1,8 @@
 ---
 type: source
 title: "Source: agra.md"
-created: 2026-05-13
-updated: 2026-05-13
+created: 2026-06-05
+updated: 2026-06-05
 sources: ["agra.md"]
 tags: []
 related: []
@@ -10,52 +10,46 @@ related: []
 
 # Source: agra.md
 
-### Key Entities
+## Key Entities
+*   **Agra** (Kobold)
+    *   **Role:** Central (NPC). A scout/operative with a history of serving multiple factions.
+    *   **Status:** Exists as a new entry; not currently in the wiki index.
+*   **Gen** (Kobold)
+    *   **Role:** Peripheral. Agra’s traveling companion and partner in negotiation.
+    *   **Status:** New entity; not in the wiki index.
+*   **Nug** (Kobold)
+    *   **Role:** Peripheral. A fellow kobold under fire giant employment who provided scouting reports.
+    *   **Status:** New entity; not in the wiki index.
+*   **Gun** (Kobold)
+    *   **Role:** Peripheral. Mentioned as a member of the group who heard rumors of the outpost's curse.
+    *   **Status:** New entity; not in the wiki index.
+*   **Thistle Wendrod** (Social Analyst/Antagonist)
+    *   **Role:** Central. Identified Agra’s Cult of the Dragon markings and confronted him on his past.
+    *   **Status:** Already exists in the wiki.
+*   **Vardis** (Party Member/NPC)
+    *   **Role:** Peripheral. Expressed concern regarding Agra's safety with the fire giants.
+    *   **Status:** Already exists in the wiki.
+*   **Orsik** (Dwarf)
+    *   **Role:** Peripheral. The authority figure who granted permission for Agra and Gen to leave.
+    *   **Status:** Not in index, but likely a known local NPC or party-adjacent character.
+*   **Cult of the Dragon** (Organization)
+    *   **Role:** Central (Contextual). Agra's former employer; provides evidence of his past.
+    *   **Status:** Already exists in the wiki.
+*   **Fire Giants** (Faction/Race)
+    *   **Role:** Peripheral (Antagonistic context). Agra’s recent employers who are currently a threat to him.
+    *   **Status:** Not explicitly in index, but related to the *Ordning-shattering* and giant themes.
 
-#### People
-- **Agra:** Kobold scout/operative, former Cult of the Dragon servant, currently fluidly affiliated with various groups.
-- **Gen:** Kobold, Agra's traveling companion.
-- **Nug:** Kobold, employed by the fire giants.
-- **Gun:** Kobold, noted for hearing the outpost was cursed.
-- **Thistle:** Kobold, recognized by Agra's Cult of the Dragon marks.
-- **Vardis:** Kobold, concerned about Agra's loyalty to the fire giants.
-- **Orsik:** Dwarf, granted permission for Agra and Gen to leave.
+## Key Concepts
+*   **Fluid Loyalties:** The practice of shifting allegiances based on survival rather than ideology; used by Agra to navigate different masters (Cult vs. Giants).
+*   **Information as Bargaining Chip:** A tactical use of intelligence to secure freedom or safety when physical power is lacking.
+*   **Ritualized Gesture (Dirt Swallowing):** A specific, non-verbal action performed by Agra that suggests a personal oath or a definitive end to a chapter of his life.
+*   **Survivalist Pragmatism:** The core motivation for Agra; he prioritizes immediate safety over long-term loyalty or ideological consistency.
 
-#### Organizations
-- **Cult of the Dragon:** Former master of Agra, now dissolved.
-- **Fire Giants:** Employed Agra previously, considered dangerous due to his past.
+## Main Arguments & Findings
+*   **Agra as a "Transactional" NPC:** The source establishes Agra not as a villain, but as a survivor who treats information and cooperation as currency. He is willing to be candid only when cornered by superior force (the party).
+*   **Evidence of Multi-Layered Exploitation:** His history shows he has been used by both the Cult of the Dragon and Fire Giants, suggesting that smaller races in this region are often pawns for larger powers.
+*   **The "Dirt" Ritual:** The act of swallowing dirt is a significant narrative beat. While its exact meaning is unknown, it serves as
 
-#### Datasets & Tools
-- **Scouting Reports:** Information provided by Nug about the southern room.
+## Related
 
-### Concepts
-
-#### Theories & Methods
-- **Survival Strategies:** Agra’s cautious and calculating behavior indicates a focus on survival above all else.
-- **Loyalty Shifts:** Agra’s fluid loyalties and willingness to provide information to the party suggest a complex moral landscape.
-
-#### Phenomena
-- **Cultural Trauma:** Agra’s discomfort around his past affiliation with the Cult of the Dragon implies unresolved trauma.
-- **Symbolic Actions:** Swallowing dirt before departure could signify a personal ritual or oath-keeping.
-
-### Main Arguments & Findings
-
-- **Core Claims:** Agra provides substantial intelligence about giant activities, inter-factional tensions, and specific details about the fire giants' mission to the outpost.
-- **Evidence:** Detailed scouting reports from Nug, direct statements from Agra, and the party's acceptance of his information.
-- **Strength of Evidence:** Strong, corroborated by multiple sources and actions taken by the party.
-
-### Connections to Existing Wiki
-
-- **Existing Pages:** Pages related to kobolds, fire giants, and the Cult of the Dragon.
-- **Impact:** Strengthens existing knowledge about kobold factions and their interactions, challenges assumptions about loyalty shifts, and extends understanding of cultural trauma and symbolic actions.
-
-### Contradictions & Tensions
-
-- **Internal Tension:** Agra’s contradictory statements about his loyalty and past affiliations highlight potential internal tensions.
-- **Conflict with Fire Giants:** His decision to avoid the fire giants entirely conflicts with his previous employment with them.
-
-### Recommendations
-
-- **Create or Update:** Pages on Agra, Kobolds, Fire Giants, and the Cult of the Dragon.
-- **Emphasize:** The complexity of Agra’s allegiances and the significance of his symbolic actions.
-- **Open Questions:** Further exploration into the nature of Agra’s loyalty shift and the meaning behind his symbolic gestures.
+- [[thuul]]

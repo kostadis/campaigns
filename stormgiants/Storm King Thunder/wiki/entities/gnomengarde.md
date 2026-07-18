@@ -4,7 +4,7 @@ title: Gnomengarde
 created: 2025-05-22
 updated: 2026-05-27
 tags: [location, gnome, settlement, organization, gnome-city, scientific-enclave, governance-body, governance]
-related: ["king-korboz", "king-gnercli", "dual-monarchy", "shapeshifter-threat", "dabbledob", "fibblestib", "evidence-based-pragmatism", "tamper-proof-voting-box-theory", "governance-reform-via-majority-voting", "intellectual-opposition-as-collaborative-dynamic", "unregulated-invention", "fleeing-inventor-archetype"]
+related: ["king-korboz", "king-gnercli", "kobold-kingdom", "shapeshifter-threat", "dabbledob", "fibblestib", "evidence-based-pragmatism", "tamper-proof-voting-box-theory", "governance-reform-via-majority-voting", "intellectual-opposition-as-collaborative-dynamic", "unregulated-invention", "fleeing-inventor-archetype"]
 sources: ["king_korboz.md", "npcs/dabbledob.md", "npcs/facktore.md", "4-npcs--9-dabbledob--136g51q.md", "4-npcs--25-daran_edermath_silverleaf--j3jgtk.md"]
 ---
 # Gnomengarde
@@ -15,7 +15,7 @@ This contrasts sharply with other gnome-centric entities in the setting (e.g., t
 
 ## Governance
 
-The settlement is governed by a [[dual-monarchy]] consisting of [[king-korboz]] and [[king-gnercli]], whose authority forms the center of its political structure. However, this system is under active debate, with proposals to reform governance through majority voting, including the theoretical development of a [[tamper-proof-voting-box-theory]] to ensure truth and fairness in decision-making.
+The settlement is governed by a [[kobold-kingdom]] consisting of [[king-korboz]] and [[king-gnercli]], whose authority forms the center of its political structure. However, this system is under active debate, with proposals to reform governance through majority voting, including the theoretical development of a [[tamper-proof-voting-box-theory]] to ensure truth and fairness in decision-making.
 
 Current points of contention include:
 1. **Seniority Disputes:** Friction over the hierarchy and relative authority between the two co-rulers.

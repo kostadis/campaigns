@@ -29,13 +29,19 @@ related: []
 - **Strength of Evidence**: The source draws heavily from background research and rumors, which are considered reliable within the context of the narrative universe.
 
 ### Connections to Existing Wiki
-- **Existing Pages**: [[waterbarron]], [[lord's-alliance]], [[yartar]], [[dictatorial-rule]]
+- **Existing Pages**: [[waterbarron]], [[lords-alliance]], [[yartar]], [[dictatorial-rule]]
 - **Impact**: This source strengthens existing knowledge about Nestra Ruthiol's role and the political landscape of Yartar, aligning with the broader narrative universe.
 
 ### Contradictions & Tensions
 - **Internal Tension**: The perception of her rule as dictatorial despite her reliance on Lord's Alliance suggests a contradiction in her governance style and her external support structure.
 
 ### Recommendations
-- **Create or Update**: [[nestra-ruthiol]], [[waterbarron]], [[lord's-alliance]], [[yartar]], [[dictatorial-rule]]
+- **Create or Update**: [[nestra_ruthiol]], [[waterbarron]], [[lords-alliance]], [[yartar]], [[dictatorial-rule]]
 - **Emphasize**: The role of Nestra Ruthiol, her governance style, and the political dynamics of Yartar.
 - **Open Questions**: Further details about her specific agenda, personal character, and the full scope of factional threats against her are needed to flesh out her character and story arc.
+
+## Related
+
+- [[horix_zoar]]
+- [[tove_brandimen]]
+- [[queen_tatiana]]

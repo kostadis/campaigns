@@ -12,3 +12,7 @@ sources: ["yip_hammaver.md"]
 - **Matters in Source:** Used by Orsik to resolve the standoff with Tack Proudfoot
 - **Evidence Supporting Claims:** Recorded interactions and outcomes involving Orsik and Tack Proudfoot
 - **Strength of Evidence:** Recorded interactions and outcomes involving Orsik and Tack Proudfoot
+
+## Related
+
+- [[social-networking]]

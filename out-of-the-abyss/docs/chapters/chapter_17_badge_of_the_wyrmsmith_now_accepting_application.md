@@ -54,7 +54,7 @@ Hgraam sighs again.
 Thorin immediately understands what’s going on. The Deep King has relied on his secret invisible police to control the city, and so opposition has gone underneath it. Thorin also understands why they are underneath the city. To get to the tunnels, the Duergar would have to go through the Derro, and that would trigger a bloodbath. 
 
 
-Zalthir turns to Thorin, “The Stone Giant is particularly attuned to the rocks? So what we have seen as localized appearances of demons is not localized. The demons at Valkenvylve, the Beholder in the Spidersilk caves, the demonic manta rays, and Demogorgon, all of this is no coincidence.” 
+Zalthir turns to Thorin, “The Stone Giant is particularly attuned to the rocks? So what we have seen as localized appearances of demons is not localized. The demons at Velkynvelve, the Beholder in the Spidersilk caves, the demonic manta rays, and Demogorgon, all of this is no coincidence.” 
 
 
 Grygum whispers, “The end of the great sundering ended the era that allowed the gods to walk in Faerûn freely. It’s why the Cult of Tiamat had to resort to such an extraordinary ritual to bring her into the prime material plane. That so many demons are walking freely is not normal. There is some kind of powerful magic that has enabled this.” 
@@ -112,7 +112,7 @@ So to the west he goes.
 
 As he walks, he thinks how curious it is that this Derro is a courier for so many factions. But when he gets to the Derro slums, it’s obvious why. The Derro slums are dangerous to anyone. Even from here, it’s evident that the homes of the Derro are mostly burrows carved into the walls and simple structures piled atop one another. The district's dirty and cluttered streets clearly formed as dwellings spread and came together, not as a product of planning. The contrast with the clean, perfect Duergar dwellings is obvious. And the resentment and hatred become apparent. 
 
-And now, why Errde Blackstaff and the Keeper of the Flames were so anxious to find a non-Duergar to come here is clear. 
+And now, why Errde Blackskull and the Keeper of the Flames were so anxious to find a non-Duergar to come here is clear. 
 
 
 He observes, “Droki is someone all of the factions trust and can get to the Whorlstone Caverns safely through that.” And he points to the Derro slums. 
@@ -517,7 +517,7 @@ Pelek hears Thorin’s comment and laughs, “There’s nothing psychedelic abou
 Daz is unnerved by the auditory experience caused by air simply whistling through perforated mushrooms within the thicket, and let’s Thorin lead on. 
 
 
-As they advance, Daz notices that the thicket is full of mushrooms. “Food for later,” he mutters and pulls out his blade. He picks up some barrelstalk, a large, cask-shaped fungus that stores water, bluecap for making flour, ripplebark that tastes good toasted, trillimac that can be used for scrolls and makes a bread-like substance that can be rolled up, waterorb for storing water, and zurkwhood for making things. 
+As they advance, Daz notices that the thicket is full of mushrooms. “Food for later,” he mutters and pulls out his blade. He picks up some barrelstalk, a large, cask-shaped fungus that stores water, bluecap for making flour, ripplebark that tastes good toasted, trillimac that can be used for scrolls and makes a bread-like substance that can be rolled up, waterorb for storing water, and zurkhwood for making things. 
 
 
 As the group navigates the forest, he points out Nightlights—mushrooms that grow to 15 feet and shed light in a 15-foot-by-15-foot circle. When they are touched or cut, they stop glowing.

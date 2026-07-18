@@ -23,3 +23,7 @@ She has no known factional allegiance and appears to lack a personal narrative a
 - **Last Known Location**: The Talking Troll theater, Triboar
 - **Current Activity**: Play concluded; no known future engagements
 - **Hidden**: Nature of her guarded past; specific creative vision for her role
+
+## Related
+
+- [[ser-kaelen]]

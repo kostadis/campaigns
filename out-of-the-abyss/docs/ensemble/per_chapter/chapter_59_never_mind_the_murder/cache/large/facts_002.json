@@ -1,0 +1,149 @@
+[
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is investigating the murder of Janussi and the framing of Daral, focusing on the lead-lined Milil chalice, the stolen heart, and the blood-stained cleaver as key evidence. He prioritizes direct interrogation and physical inspection over magical speculation.",
+    "source_quote": "I don't do subtle, but I can do direct, and a room full of people who think they're suspects responds to direct.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daral",
+    "fact": "Daral is a scholar and poet who has been framed for Janussi\u2019s murder. He believes the killer targeted him due to his love of fiction and storytelling, which A'lai Aivenmore sees as a threat to ideological control of Candlekeep.",
+    "source_quote": "Clear the deck of Janussi. Clear the wood of me. No one left on the council able to prevent his ascension.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is the stealthiest member of the group and leads the investigation into the poison, suspecting a double-stroke murder designed to eliminate both Janussi and Daral. He trusts structure over coincidence and is deeply attuned to Glabbagool\u2019s persistent attempts to help.",
+    "source_quote": "A killer who buys two outcomes with one cup of poison is a killer who has already drawn the board and decided where every piece lands.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is an ooze entity from Blingdenstone who has learned silence and persistently tries to assist the group by growing sensory organs, despite lacking a nose. His instinct to reach toward problems is seen as both endearing and strategically valuable.",
+    "source_quote": "I have learned silence... Am I being silent enough? Was this good silence, or was it too loud silence?",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a drow who can communicate with beasts, including the apothecary\u2019s squirrel. He is unable to decipher the magical object involved in the poisoning and has forgotten what matters, clinging to trivial knowledge instead.",
+    "source_quote": "What I can read off it at a glance is next to nothing... Staring harder got me less.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "A'lai Aivenmore",
+    "fact": "A'lai Aivenmore is a high-ranking official in Candlekeep who seeks to assume control of the keep. He views Daral\u2019s poetic idealism as a threat to his rigid, utilitarian worldview and is the prime suspect in orchestrating Janussi\u2019s murder and framing Daral.",
+    "source_quote": "The most dangerous person in a room isn't the one with the blade drawn. It's the one who has already decided they've won.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Irony",
+    "fact": "Irony is a junior avowed who always tells the truth and served at the Deadwinter supper. She provides critical testimony about the meal\u2019s structure, the gift-giving ritual, and the absence of illness from leftovers, helping rule out food-based poisoning.",
+    "source_quote": "But I, you know, I really hate it when people make that joke. I'm so sorry \u2014 this compulsive need to always tell the truth.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sprig",
+    "fact": "Sprig is one of the three servers at the Deadwinter supper and the official poison taster. Her role makes her a key witness in determining whether the poison was introduced during service or later.",
+    "source_quote": "Sprig tasted all the food.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Southern Dining Hall",
+    "fact": "The Southern Dining Hall is where the Deadwinter supper occurred and where the lead-lined Milil chalice was later discovered holding Janussi\u2019s heart and a blood-stained cleaver. It is the central scene of the murder and cover-up.",
+    "source_quote": "The dining hall still smelled like breakfast... Two waiters were stacking linen near the far wall.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is a fortress of learning and magic, where the murder took place. Its architecture, including lead-lined artifacts and arcane protections, was exploited by the killer to conceal evidence and evade detection.",
+    "source_quote": "The air in Candlekeep still smelled wrong to me... paper, lamp oil, old stone warmed by sun I had not seen in months \u2014 just wrong.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Milil's Lead-Lined Chalice",
+    "fact": "The brass chalice held by the statue of Milil is lined with lead, designed to block far-seeing magic. It was used to hide Janussi\u2019s heart and the cleaver, indicating the killer knew Candlekeep\u2019s magical defenses.",
+    "source_quote": "The Milil chalice is lead-lined... Wouldn't lead choke off the magic that hunts down a hidden thing?",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Janussi's Heart",
+    "fact": "Janussi\u2019s heart was removed after death and placed inside the lead-lined chalice to prevent resurrection or magical interrogation. This confirms the killer intended to permanently silence him.",
+    "source_quote": "A heart. And a blood-stained meat cleaver... They stole his heart. They didn't want anybody to be able to bring him back and ask him what happened.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Blood-Stained Meat Cleaver",
+    "fact": "The cleaver used to remove Janussi\u2019s heart bears blood residue and was hidden in the chalice alongside the heart. Its presence indicates ritualistic intent and forethought by the killer.",
+    "source_quote": "The cleaver bothered me more than the heart, honestly. Somebody had thought this through.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Deadwinter Supper",
+    "fact": "The Deadwinter supper was the setting for the murder\u2019s prelude. It featured shared dishes, poison tasting by Sprig, secret gift-giving, and the removal of Janussi\u2019s wrapping paper, which later turned up in his office.",
+    "source_quote": "Twelve plates: beetroot soup, fried carp, smoked mackerel... Secret Santa, basically.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Theft of Janussi's Heart",
+    "fact": "After Janussi\u2019s death, his heart was removed and hidden in the lead-lined Milil chalice to prevent magical resurrection. This act confirms the killer was knowledgeable about necromantic countermeasures.",
+    "source_quote": "They stole his heart. They didn't want anybody to be able to bring him back and ask him what happened.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Who Moved the Wrapping Paper?",
+    "fact": "The wrapping paper from Janussi\u2019s gift was found in his office, not the dining hall. This discrepancy suggests someone moved it after the event \u2014 possibly to mislead investigators or to plant false evidence.",
+    "source_quote": "The wrapping paper turned up in Janussi's office, not here.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Identity of the Secret Santa",
+    "fact": "The person who gave Janussi his gift during the Secret Santa ritual remains unknown. This individual had direct access to him before the poisoning and may have introduced the poison into his food or drink.",
+    "source_quote": "Janussi took his unwrapped, thanked his secret donor, and excused himself.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Glabbagool's Nose",
+    "fact": "Glabbagool attempted to grow a nose to smell the poison, indicating the group\u2019s desperation for non-magical detection methods. His failure or success remains unresolved, but his effort symbolizes the value of unconventional insight.",
+    "source_quote": "Can Glabbagool try to grow a nose and get a good smell of the poison?",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Deadwinter Supper",
+    "fact": "The Deadwinter supper occurred on the evening of the murder, beginning at 5PM, and was followed by the Secret Santa ritual and Janussi\u2019s departure from the hall.",
+    "source_quote": "The Deadwinter supper began at the 5PM bell.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Candlekeep Council",
+    "fact": "The Candlekeep Council is the governing body of the keep, composed of scholars and leaders like Daral, Janussi, and A'lai. The murder was designed to eliminate two members and consolidate power under A'lai.",
+    "source_quote": "Deciding which branches of knowledge to further was their privileged responsibility.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is an ooze entity capable of adapting physical features, including eyes and attempted noses. He is not hostile but is persistently helpful, making him an unconventional but vital asset in the investigation.",
+    "source_quote": "He always tries.",
+    "quote_verified": true
+  }
+]

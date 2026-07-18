@@ -18,3 +18,7 @@ Its death is ambiguous: was it caused by Lyra’s failed ritual? By planar corru
 Regardless of cause, its death became a symbol — of loss, of imbalance, of the cost of action. It is the heart of Adabra’s grief, and the center of her moral universe.
 
 It is not just a creature. It is a monument.
+
+## Related
+
+- [[whispering-grove]]

@@ -1,0 +1,194 @@
+[
+  {
+    "type": "npc",
+    "subject": "Werz",
+    "fact": "Werz is broke and was pressured into accepting 1100 gold to conceal discussions, not to eliminate assassins.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz references Ezra and the First Faction to illustrate manipulation, and holds a copy of Milo Goodbarrel\u2019s book as a tool of leverage.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar receives empty spell gems and identifies Blingdenstone\u2019s alchemist as capable of restoring their power, naming Kazook Pickshine as a potential buyer.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is weary of obligations, reluctantly agrees to rescue Rumpadump, and is unconvinced by Thargus Ironhead\u2019s claims.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Stool",
+    "fact": "Stool is emotionally invested in Rumpadump, a myconid from his circle, and believes the dancing myconids are connected to his community.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin observes biological determinism in Stool\u2019s reasoning about quagoths and myconids, and is moved by Stool\u2019s distress.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grinta Ironhead",
+    "fact": "Grinta Ironhead offers a discounted trade deal with the gnomes if the Deepking is deposed, revealing Clan Ironhead\u2019s political opportunism.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "First Faction",
+    "fact": "The First Faction is referenced as an entity of greater need and influence than its apparent holders, used to explain manipulation tactics.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Clan Ironhead",
+    "fact": "Clan Ironhead seeks to resume trade with gnomes upon the Deepking\u2019s fall, indicating conditional loyalty and economic self-interest.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Deepking",
+    "fact": "The Deepking imposes exorbitant pricing on Deep Gnomes and maintains control over trade routes, making him a target for subversion.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Myconids",
+    "fact": "Myconids do not attack unless attacked, and their dancing behavior is linked to Rumpadump\u2019s disappearance and possible coercion.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Quagoths",
+    "fact": "Quagoths are savage monsters who attacked the myconids, forcing them to kill in self-defense, according to Stool\u2019s belief.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Ghohlbrorn\u2019s Lair",
+    "fact": "Ghohlbrorn\u2019s Lair is where Daz and the crew meet to discuss their missions and the need to enter the Whorlstone Tunnels.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Underlake Hold",
+    "fact": "Underlake Hold is where Jimjar, Spiderbait, Sarith, and Eldeth are armed by Errde before proceeding to Clan Ironhead.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Clan Ironhead Stronghold",
+    "fact": "Clan Ironhead Stronghold is where the party meets Thargus Ironhead, who publicly supports the Deepking\u2019s policies.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Blingdenstone",
+    "fact": "Blingdenstone is the gnomish city where an alchemist can restore power to empty spell gems.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Whorlstone Tunnels",
+    "fact": "Whorlstone Tunnels are the destination for gathering evidence on factions, required to leverage political outcomes.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh is the location the party must escape from, requiring information from the Whorlstone Tunnels.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Kazook Pickshine\u2019s Workshop",
+    "fact": "Kazook Pickshine is a known buyer in Blingdenstone who will pay heavily for restored spell gems.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Milo Goodbarrel\u2019s book",
+    "fact": "Daz uses Milo Goodbarrel\u2019s book as a reference tool to illustrate patterns of manipulation involving Ezra and the First Faction.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Empty spell gems",
+    "fact": "Empty spell gems are magical artifacts that can be restored by an alchemist in Blingdenstone to hold immense power.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Magical weapons and items",
+    "fact": "Thorin and Zalthir requested magical weapons and items, delivered by Duergar Brannam, which Zalthir uses to sew protective tattoos.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Tattoos",
+    "fact": "Zalthir sews tattoos onto his body, believing they will prevent his death, likely derived from the magical weapons received.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "arrival of magical weapons",
+    "fact": "Duergar Brannam delivers magical weapons and items to Zalthir and Thorin, enabling Zalthir to sew protective tattoos.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "offer from Grinta Ironhead",
+    "fact": "Grinta Ironhead offers Clan Ironhead\u2019s discounted trade with gnomes contingent on the Deepking\u2019s removal, revealing political leverage.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "meeting with Thargus Ironhead",
+    "fact": "Thargus Ironhead publicly endorses the Deepking\u2019s policies, but his honesty is questioned by Zalthir and Daz.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "rescue of Rumpadump",
+    "fact": "The party commits to rescuing Rumpadump, a myconid from Stool\u2019s circle, after learning he is in danger and possibly being manipulated.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "entering Whorlstone Tunnels",
+    "fact": "The party must enter the Whorlstone Tunnels to gather evidence on factions, which will determine their leverage in political negotiations.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "free Thermbachaude",
+    "fact": "Grygum raises the unresolved thread of freeing Thermbachaude, indicating an additional obligation beyond current missions.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "prove Deepking\u2019s corruption",
+    "fact": "The party must collect evidence from the Whorlstone Tunnels to expose the Deepking\u2019s manipulation and justify his removal.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "leverage information for profit",
+    "fact": "Daz questions how to best gather and sell faction information for maximum gain, indicating an ongoing strategic thread.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "1st day of the 2nd Tenday of Myrtul 1493",
+    "fact": "The 1st day of the 2nd Tenday of Myrtul 1493 marks the day the party arms at Underlake Hold and meets Thargus Ironhead.",
+    "quote_verified": false
+  }
+]

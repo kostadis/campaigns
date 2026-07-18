@@ -29,3 +29,7 @@ sources: ["kagrota_threeteeth_kagrota.md"]
 
 ## Arc Score Events
 - No arc score events recorded
+
+## Related
+
+- [[abbathor-2026-06-06-132752]]

@@ -63,7 +63,7 @@ related: []
 - **Existing Pages:**
   - [[aboleth]]: Oosith's species.
   - [[intelligence-networks]]: Oosith's role as a campaign manager.
-  - [[political-coercion]]: The voter coercion scheme.
+  - [[coercion]]: The voter coercion scheme.
 - **Impact:**
   - Strengthens understanding of Oosith's role within the Kraken Society.
   - Challenges existing knowledge about the extent of the Kraken Society's operations and the nature of their political influence.

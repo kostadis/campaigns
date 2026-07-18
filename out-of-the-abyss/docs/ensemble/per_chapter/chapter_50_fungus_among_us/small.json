@@ -1,0 +1,639 @@
+[
+  {
+    "type": "npc",
+    "subject": "Asha Vandree",
+    "fact": "Asha Vandree is a paranoid devotee of Lolth who has reframed the wizard's deception as a divine test of her discernment, believing herself to have passed it, and later suspects the wizard and his familiar are infected by Zuggtmoy's spores rather than deceived or divinely touched.",
+    "source_quote": "Aha, you are trying to test me, to see if I was one of those fake followers of Lolth, who are willing to believe every charlatan magic user that is somehow being possessed by the power of Lolth.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a gelatinous cube who has failed at the simple task of remaining motionless and silent as a cavern feature, instead talking, opening his eyes, and tracking movement \u2014 thereby disrupting the wizard's performance and revealing his inability to play the role of a rock.",
+    "source_quote": "I heard the reminder that invisible rocks do not speak. I heard \u2014 I am fairly certain I heard \u2014 the small wet sound of him opening his eyes, which then began tracking left and right with the particular energy of someone who absolutely cannot help himself.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a drow who recognizes and is deeply affected by the silent erasure of drow social warfare \u2014 the deliberate treatment of a person as furniture \u2014 and reflects on its enduring emotional weight.",
+    "source_quote": "There is a particular kind of silence that drow society uses as a weapon... I have spent enough time among my own kind to recognise it immediately. It never gets easier to absorb.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a gelatinous cube encountered as a hazardous companion who has failed to maintain concealment, actively disrupting a performance by speaking, moving, and exhibiting awareness \u2014 rendering him a liability rather than a prop.",
+    "source_quote": "I heard the reminder that invisible rocks do not speak. I heard \u2014 I am fairly certain I heard \u2014 the small wet sound of him opening his eyes, which then began tracking left and right with the particular energy of someone who absolutely cannot help himself.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "the spider",
+    "fact": "The spider is a real, physical familiar used as the anchor of an illusionary performance, witnessed by Asha Vandree before any claims of divine possession, and later used to ground the wizard's claim in observable fact rather than abstract assertion.",
+    "source_quote": "I came to you in my smaller form, and led you here. You should know the truth.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Dancing Lights",
+    "fact": "The Dancing Lights are an illusion shaped into the silhouette of the Spider Queen, used to create the impression of divine presence, and later integrated into the spider\u2019s form to reinforce the illusion\u2019s authenticity.",
+    "source_quote": "I was already weaving the lights around it \u2014 not frantically... but with the quiet precision of someone who has thought this through to the fourth step.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Zuggtmoy's spore infection",
+    "fact": "Asha Vandree has proposed a new theory that the wizard\u2019s performance is not deception or divine communion but the result of fungal infection by Zuggtmoy \u2014 introducing a layer of cosmic madness that reframes the entire encounter as a tragedy of possession rather than a con.",
+    "source_quote": "Have you two been infected by the spores, possessed by the crazed magic of Zuggtmoy? convinced of the bride's power? Is this another trick of Ilvara's?",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Ilvara's deception",
+    "fact": "Asha Vandree suspects Ilvara may be involved in the illusion, suggesting the performance could be another trick of the Spider Queen\u2019s rival \u2014 introducing a factional conflict into what was meant to be a solo act of divine mimicry.",
+    "source_quote": "Is this another trick of Ilvara's?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "performance of divine communion",
+    "fact": "The wizard performed an illusionary act of communion with Lolth using a spider and Dancing Lights, intending to deceive Asha Vandree into believing he was a vessel of the Spider Queen \u2014 but the performance was reinterpreted by Asha as a divine test, then as a fungal infection.",
+    "source_quote": "I am\u2026 you are not speaking to the wizard of this body. I\u2026 he\u2026 this body has communed with Lolth. And I\u2026 I am speaking through this body.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "the fungal floor of the Underdark",
+    "fact": "The fungal floor of the Underdark is the setting for the wizard\u2019s performance, where the spider scurries and the Dancing Lights condense \u2014 a place of decay and magic where perception is unstable and spores may corrupt the mind.",
+    "source_quote": "The spider scurried back across the fungal floor toward me on cue... The luminescence built. Condensed.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Lolth's followers",
+    "fact": "Lolth's followers are a fractured group of devotees, some genuine, others charlatans, whose paranoia leads them to suspect all manifestations of the Spider Queen\u2019s power as either deception or infection \u2014 making them extremely difficult to deceive or convince.",
+    "source_quote": "you are trying to test me, to see if I was one of those fake followers of Lolth, who are willing to believe every charlatan magic user that is somehow being possessed by the power of Lolth.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Zuggtmoy's influence",
+    "fact": "Zuggtmoy\u2019s influence is perceived as a fungal madness that corrupts perception, causing victims to believe in false deities or divine visions \u2014 a threat that has redefined Asha Vandree\u2019s interpretation of the wizard\u2019s act from deception to infection.",
+    "source_quote": "Have you two been infected by the spores, possessed by the crazed magic of Zuggtmoy?",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occur during Chapter 46, titled 'Fungus Among Us', marking a session in which the boundaries between deception, divinity, and madness collapse.",
+    "source_quote": "# Chapter 46 Fungus Among Us",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Asha Vandree",
+    "fact": "Asha Vandree is a drow who has been exposed to Zuggtmoy's spores and fears contamination; she is desperate for others to kill Ilvara because she cannot risk close proximity to the spores, and she views Ilvara\u2019s devotion to a 'married Lolth' as a heretical abomination.",
+    "source_quote": "I fear that her disease will spread.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a surface-trained drow who manipulates perception by feigning sincere doubt and internalized spore infection to gain Asha Vandree\u2019s trust; he operates with calculated boldness that blurs the line between foolishness and mastery.",
+    "source_quote": "It's the kind of conviction this follower of Lolth shows.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is the observer and narrator, a drow who remains silent and unacknowledged by Asha Vandree; they meticulously document social dynamics, deception, and hidden intelligence, recognizing Asha\u2019s verbal disclosures as a map of Ilvara\u2019s infection vectors.",
+    "source_quote": "I filed it away in the archive of things I have witnessed that I will never be able to explain.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Ilvara's Cult",
+    "fact": "Ilvara leads a cult that believes Lolth wishes to be married, and her followers have been transformed into mindless fungal creatures by spores; this movement is viewed as a heretical corruption by Asha Vandree and her faction.",
+    "source_quote": "There is something foul and stinking about her, and then all of those allies she seems to covet have turned into fungal creatures that are mindless.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Asha's Faction",
+    "fact": "Asha Vandree leads a faction loyal to traditional Lolth worship, rejecting Ilvara\u2019s marriage doctrine as blasphemy; they are isolated, paranoid about contamination, and rely on outsiders to eliminate threats they dare not confront directly.",
+    "source_quote": "We need to kill her. We need to butcher her! We need to send her to an unearthly grave!",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is an ooze familiar capable of forming articulate shapes and utterances, which is highly unusual for such a creature; Daz has established control over it, suggesting it is more sentient or magically bound than it appears.",
+    "source_quote": "Glabbagool, I'm taking care of this, it's fine.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Zuggtmoy's Spores",
+    "fact": "Zuggtmoy's spores are infectious magical agents that transform hosts into fungal creatures and induce paranoia; they are the core vector of contamination feared by Asha Vandree and the central threat in the conflict with Ilvara.",
+    "source_quote": "Have you two been infected by the spores, possessed by the crazed magic of Zuggtmoy?",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Mushroom Artifact",
+    "fact": "A mushroom artifact associated with Ilvara\u2019s cult is implied to be the source or amplifier of the spore-based corruption; Asha\u2019s detailed knowledge of infection vectors suggests it is tangible and studied.",
+    "source_quote": "Ilvara's spores. A mushroom artifact. The specific vectors of infection.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Asha's Fear of Contamination",
+    "fact": "Asha Vandree\u2019s refusal to approach Ilvara and her visceral flinch at physical proximity reveal a deep, personal terror of spore infection; this fear is the key to understanding her reliance on outsiders and her vulnerability.",
+    "source_quote": "Don't touch me.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Daz's Performance of Conviction",
+    "fact": "Daz\u2019s feigned internalization of spore infection and his calm response to Asha\u2019s theological challenges suggest he is not merely manipulating her but testing the boundaries of her belief system; his success implies the deception may have deeper magical or psychic resonance.",
+    "source_quote": "I really do believe that I have... Perhaps there are some spores within me...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Nature of Lolth's Will",
+    "fact": "Asha and Ilvara represent opposing interpretations of Lolth\u2019s divine will \u2014 one sees marriage as blasphemy, the other as revelation \u2014 and the conflict over this theological schism is the ideological core of the factional war.",
+    "source_quote": "Ilvara, who was once a high priestess of Lolth, has become seduced by this abomination, this idea that Lolth wishes to be married.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Cavern",
+    "fact": "The cavern is a secluded, ancient site where Asha Vandree has been isolated for an extended period, waiting for a solution to Ilvara\u2019s threat; its atmosphere is thick with spore residue and unspoken dread.",
+    "source_quote": "She had been sitting in this cavern, waiting for a solution to walk through the door.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occur during a single, continuous negotiation session, with no temporal markers beyond immediate cause and effect; the pacing is driven by dialogue and psychological tension.",
+    "source_quote": "The pause before *it feels* was good. The hesitation wasn't a crack \u2014 it was a texture.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Asha's Test of Daz",
+    "fact": "Asha Vandree initiates a psychological test of Daz and his allies by accusing them of spore infection and questioning their devotion; her goal is to gauge their sincerity and identify whether they are trustworthy agents.",
+    "source_quote": "This was just a test.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz's Revelation of Strategy",
+    "fact": "Daz reveals that he and his allies are not specialists in fungal corruption but advocates of caution and preparation; this reframing shifts Asha\u2019s perception of them from ignorant fools to deliberate strategists.",
+    "source_quote": "Asking before blundering in was the sensible approach \u2014 not ignorance, caution.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir withdrew to confer and confirmed the terms: Ilvara must die, the mushroom artifact must be destroyed, and the infection must not leave the cavern. He placed a zone of Darkness behind their position as a fallback, not near the entrance where Ilvara might detect it.",
+    "source_quote": "I placed a zone of Darkness behind our position \u2014 not at the entrance, not anywhere Ilvara might notice the edge of it and understand what was coming. Behind us. A fallback. A place to pull someone if the line broke.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum laid out the plan to assassinate Ilvara, detailing three 4th-level spells: Glyph of Warding, Dust of Suleiman, and Phantasmal Killer. He admitted he only had one 4th-level spell slot and could cast only one. He sought Asha Vandree\u2019s tactical input on which target to prioritize.",
+    "source_quote": "So I also have another spell I haven't had a chance to use yet called the Dust of Suleiman... Finally, I now have Phantasmal Killer... So these powerful spells I've been talking about\u2026 they're all 4th level, and I only have one fourth level slot. I can only cast one.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Asha Vandree",
+    "fact": "Asha Vandree, a contemptuous drow priestess, corrected Grygum\u2019s tactical assumptions by identifying the Heart Fungus as the true key to dismantling Ilvara\u2019s power. She warned that Grygum and Thorin were contaminated by a marker from Gracklstugh and should avoid direct contact with the artifact. She dismissed his initial focus on Ilvara as naive.",
+    "source_quote": "Well, that's an obvious one \u2014 use it on the big heart fungus... If Thorin and Grygum grab it \u2014 I think they were the two that went to visit... you two probably don't want to be near it... I thought you had strong allies, who had a tactical awareness and understanding how to use their magic for destructive purposes.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Ilvara's Cult",
+    "fact": "Ilvara, a high priestess, maintained control over the cavern through the Heart Fungus, which served as both a source of power and a vector for infection. Her operation relied on the artifact\u2019s symbiotic relationship with spores and the spore-dependent ecosystem.",
+    "source_quote": "Ilvara was a high priestess who had been running an operation in this cavern... the Heart Fungus itself wasn't the vector. The spores were Ilvara's. The artifact was the other risk.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "planning session for Ilvara's assassination",
+    "fact": "The party convened to plan Ilvara\u2019s assassination, debating which of Grygum\u2019s three 4th-level spells to use and whom to target. Asha Vandree redirected the focus from Ilvara to the Heart Fungus as the strategic linchpin, altering the tactical priority of the mission.",
+    "source_quote": "Three keys. One lock. The planning was, in a sense, just a very elaborate way of deciding which door we most needed to open.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "the cavern",
+    "fact": "The cavern is a subterranean stronghold controlled by Ilvara, infused with the Heart Fungus and spore-based infection. It contains hidden risks from past exposure in Gracklstugh\u2019s Whorlstone Caverns, which left a detectable marker on certain individuals that the artifact can exploit.",
+    "source_quote": "Whatever we'd picked up in Gracklstugh in the Whorlstone Caverns when we visited the pocket dimension, had left a marker on us. The mushroom artifact could exploit it.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Heart Fungus",
+    "fact": "The Heart Fungus is a sentient, central artifact that serves as the source of Ilvara\u2019s power and the infection\u2019s vector. It is not the direct carrier of spores but the architectural core of her control. Destroying it dismantles her dominion over the cavern.",
+    "source_quote": "the Heart Fungus itself wasn't the vector... Kill the fungus and you don't just hurt Ilvara \u2014 you dismantle the architecture of her power.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Dust of Suleiman",
+    "fact": "A 4th-level spell that creates a 20-foot sphere of damaging dust at 120-foot range, dealing 20 points of damage per turn to anything inside. Originally intended for direct use on Ilvara, it was reclassified by Asha as a tool for infrastructure demolition against the Heart Fungus.",
+    "source_quote": "It creates a 20-foot sphere, and anything inside this sphere takes 20 points of damage per turn.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Phantasmal Killer",
+    "fact": "A 4th-level illusion spell with 120-foot range that manifests a creature\u2019s deepest fear, causing psychic damage if the target fails consecutive Wisdom saves. It can last up to a minute and is capable of killing targets through psychological collapse.",
+    "source_quote": "It says you tap into the nightmares of a creature you can see and create an illusory manifestation of its deepest fears... then they take 4 die 10 psychic damage.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "spores",
+    "fact": "The spores are the infectious agents directly controlled by Ilvara, released from the Heart Fungus and capable of propagating the infection. They are not the artifact itself but the biological vector, and their containment is critical to mission success.",
+    "source_quote": "The spores were Ilvara's. The artifact was the other risk. Contain both and the job was done.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "contamination marker from Gracklstugh",
+    "fact": "A mysterious marker left on Grygum and Thorin during their visit to the pocket dimension in Gracklstugh\u2019s Whorlstone Caverns makes them vulnerable to exploitation by the mushroom artifact. The nature and origin of the marker remain unexplained.",
+    "source_quote": "Whatever we'd picked up in Gracklstugh in the Whorlstone Caverns when we visited the pocket dimension, had left a marker on us. The mushroom artifact could exploit it.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "hour before the assault",
+    "fact": "The hour immediately preceding the assault was spent in quiet preparation: Zalthir deployed Darkness, Grygum finalized spell choices, and Asha provided tactical corrections. This period was critical for aligning strategy and identifying vulnerabilities.",
+    "source_quote": "I spent the hour before the assault doing the thing that was useful and quiet and required no discussion.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a member of the party who listened attentively to Grygum\u2019s spell explanations and showed engagement by asking clarifying questions, particularly about Phantasmal Killer. He is not a spellcaster but serves as an observer and sounding board.",
+    "source_quote": "Daz was paying attention. I could tell... 'What's that?' Daz said. 'Sounds fantastic.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a member of the party who, along with Grygum, visited a prior location (Gracklstugh) and was marked by its lingering magic. Asha explicitly warned him and Grygum against touching the artifact due to contamination risk.",
+    "source_quote": "If Thorin and Grygum grab it \u2014 I think they were the two that went to visit... you two probably don't want to be near it.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Asha\u2019s disdain and tactical authority",
+    "fact": "Asha Vandree\u2019s contempt for the party is matched by her superior understanding of the cavern\u2019s power structures. Her corrections are not offered as help but as inevitable truths \u2014 a recurring thread of tension where her knowledge overrides their assumptions.",
+    "source_quote": "I thought you had strong allies, who had a tactical awareness and understanding how to use their magic for destructive purposes.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Asha",
+    "fact": "Asha is a drow who claims to have resisted Ilvara's spores through devotion to Lolth, but her statements are undermined by her use of 'I believe,' indicating uncertainty rather than knowledge. She refuses to speak directly to the speaker after losing respect for them. She is exasperated by the unresolved romantic history between Jorlan and Ilvara, and is momentarily impressed by Daz's ooze familiar.",
+    "source_quote": "My dear boy... Tell the Dragonborn that the big heart fungus will not actually cause any fungal disease, other than the usual poisoning and pain and suffering and breathing difficulties. The particular spore illness only originates from Ilvara's spores and from her mushroom. I believe.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is infected by Ilvara's spores but remains coherent and rational, serving as a visual proof of the spores' effects. He is the familiar of Glabbagool, an ooze creature mistaken for a mundane familiar by the party to explain its presence. His calm demeanor and tactical insight earn Asha\u2019s respect, despite his condition.",
+    "source_quote": "I mean, \u2014 look at him! He's already infected. I don't want to be infected.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jorlan",
+    "fact": "Jorlan is a drow who has resisted Ilvara's spores because he hates her, reportedly due to a broken romantic relationship. He is not trusted by the party, and the glyph on the bridge is triggered to kill anyone approaching from his side. He is emotionally fixated on Ilvara, still complaining about her even amid the chaos of the Abyss.",
+    "source_quote": "The only three people who are no longer captured by her spores are myself and Jorlan... Me, because I have diligently kept the faith to Lolth, and have rejected all of these claims of the bride heresy, and Jorlan, because apparently he really hates Ilvara for something or other.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is an ooze creature that emerged from the dungeon ooze. To avoid suspicion, Thorin introduces him as Daz\u2019s familiar. He blinks but appears indifferent to the mislabeling. The party recognizes the indignity of his treatment and notes he deserves something for enduring it.",
+    "source_quote": "Will Glabbagool be offended if we refer to him as a familiar? I think that's probably the easiest way to just explain it away.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Ilvara's Cult",
+    "fact": "Ilvara's cult consists of drow who have embraced her claim that she is Lolth\u2019s further manifestation. They willingly accept her spores, experiencing ecstasy and transformation, and have become hollowed-out servants. They are not monsters, but former drow who made a choice \u2014 now walking corpses of their former selves.",
+    "source_quote": "They are the drow of our party whom have totally succumbed to Ilvara's power... There were those who foolishly believed Ilvara's claims about how the bride was Lolth's further manifestation, and who embraced the spores and the ecstasy that came through them.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Spore Servants",
+    "fact": "Spore servants are former drow who have been transformed by Ilvara\u2019s spores into mindless, obedient creatures. They retain human form but lack agency. They are not summoned or created, but corrupted from within \u2014 making them tragically familiar and dangerous to the party\u2019s own members.",
+    "source_quote": "They are the drow of our party whom have totally succumbed to Ilvara's power...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Glyph on the Bridge",
+    "fact": "The glyph inscribed on the bridge is a magical trap designed to detonate upon contact with drow. It lacks moral discrimination \u2014 it kills all drow indiscriminately. The party deliberately set its trigger to activate only for those approaching from Jorlan\u2019s side, making it a weapon of political choice rather than moral judgment.",
+    "source_quote": "I don't know how to inscribe a glyph that will only kill the drow that we don't like... And then, I guess the trigger is \u2014 anyone approaching from the side that Jorlan is on.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Asha's Silence",
+    "fact": "Asha has refused to speak directly to the speaker since losing respect for them. This silence is a persistent emotional wound in the party\u2019s dynamic, and the speaker notes it as a barrier to trust and communication \u2014 one that may affect future decisions.",
+    "source_quote": "because I had apparently lost her respect at some point and she was going to make sure I knew it.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Jorlan and Ilvara\u2019s Past",
+    "fact": "Jorlan and Ilvara once had a romantic relationship that ended badly, leaving Jorlan bitter and emotionally entangled. This unresolved history persists even in the Abyss, affecting group dynamics and trust. Asha is caught in the middle, and the speaker observes the human absurdity of it.",
+    "source_quote": "It's very awkward, really, to be stuck with these two. I mean, they used to have an affair, it used to be this whole thing, and then she broke up with him, and then he was bitter because she broke up with him...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Introduction of Glabbagool as a Familiar",
+    "fact": "To conceal Glabbagool\u2019s true nature as an ooze creature, Thorin introduces him as Daz\u2019s familiar. Asha\u2019s reaction shifts from alarm to impressed respect, altering the party\u2019s perception of Daz and creating a moment of unspoken bonding through deception.",
+    "source_quote": "An ooze familiar,\" she said, looking at Daz now with something approaching respect.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Glyph Inscription on the Bridge",
+    "fact": "The party inscribed a lethal glyph on the bridge to control passage, using it as a tactical barrier. The inscription required greater force than wood, symbolizing the permanence and weight of their decision. The choice to target Jorlan\u2019s side reflects a moral compromise \u2014 the glyph does not judge, but the party does.",
+    "source_quote": "Stone holds runes differently than wood \u2014 you have to press harder, commit earlier.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occur during the current planning session for the assassination of Ilvara, following the speaker\u2019s continued observation of party dynamics, spore effects, and interpersonal tensions.",
+    "source_quote": "We'd seen what happened when someone stopped worrying about them.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Bridge",
+    "fact": "The bridge is a strategic chokepoint where the party inscribed a lethal glyph to control access. It is now a threshold between safety and detonation, symbolizing the moral boundaries the party has drawn \u2014 and the innocent drow who may cross it unknowingly.",
+    "source_quote": "The glyph went down on the bridge... Everything on the far side of it was already committed to a detonation it didn't know about yet.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is the dwarf who pragmatically solves the problem of Glabbagool\u2019s identity by labeling him as Daz\u2019s familiar. His practicality defuses tension and demonstrates his role as the party\u2019s problem-solver in moments of crisis.",
+    "source_quote": "Will Glabbagool be offended if we refer to him as a familiar? I think that's probably the easiest way to just explain it away.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Speaker's Self-Awareness",
+    "fact": "The speaker reflects deeply on their own role in the party\u2019s decisions, noting their internal conflict over the glyph\u2019s indiscriminate lethality and the moral weight of choosing Jorlan over Asha. They document not just tactics, but the humanity \u2014 and brokenness \u2014 of their companions.",
+    "source_quote": "I don't know how to inscribe a glyph that will only kill the drow that we don't like... And I remember that we had picked Asha over Jorlan.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a dwarf brawler who accepts ranged roles out of necessity, wields a crossbow reluctantly, and holds Dawnbringer as his true weapon; he respects tactical leverage and operates through terrain and position.",
+    "source_quote": "I'm standing on a bridge over a pit that smells like the inside of a dying thing... I take it, because I'd rather be in the fight badly than out of it entirely.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir executes the pivotal teleport-and-grapple maneuver to drop Ilvara into the Heart Fungus's damage zone, demonstrating precision and control over battlefield geometry.",
+    "source_quote": "I can try to grab Ilvara and drop her into that, such that you're hurting both of them, and then the rest of you can fireball or whatever from there.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jorlan",
+    "fact": "Jorlan is a humiliated former follower of Ilvara, consumed by rage, standing directly on the Glyph of Warding unaware \u2014 his predictable emotional vector is exploited by Thorin to trigger a decisive area denial effect.",
+    "source_quote": "He's across the cavern, bitter-eyed, nursing whatever wound his pride has taken since Ilvara discarded him.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum placed the Glyph of Warding on the bridge with deliberate patience, creating a hidden tactical trap that becomes instrumental in disrupting Ilvara\u2019s reinforcements.",
+    "source_quote": "Jorlan is standing exactly twenty feet from the Glyph of Warding that Grygum spent real patience setting into the stone of the bridge.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Velkynvelve",
+    "fact": "Velkynvelve was once a guard force now corrupted into spore servants, reanimated by Ilvara\u2019s fungal influence to serve as frontline shock troops in the battle.",
+    "source_quote": "Four of them, former Velkynvelve guards, shambling and wrong.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Heart Fungus",
+    "fact": "The Heart Fungus is a sentient, pulsing fungal entity that controls Ilvara, emits lethal spore clouds, and reforms her after damage \u2014 it acts as both a living mechanism and a hostile environmental hazard.",
+    "source_quote": "The Heart Fungus pulsed between us and her, enormous and obscene, the mechanism of her control... It unleashes a cloud of spores that hits Zalthir so hard he has to climb ten feet straight up just to breathe.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Spore Servants",
+    "fact": "Spore Servants are reanimated former Velkynvelve guards, shambling and corrupted by fungal growth, emerging from the ground to reinforce Ilvara\u2019s defenses during combat.",
+    "source_quote": "Four of them, former Velkynvelve guards, shambling and wrong.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is Thorin\u2019s enchanted sword, a weapon of radiant light that defies the darkness of the cavern, wielded only when Thorin closes to melee \u2014 it symbolizes his true role as a frontline warrior.",
+    "source_quote": "I have Dawnbringer in hand \u2014 the real hand, the right hand, the one that knows what it's doing... The blade catches some ambient light... and turns it into something brighter, something that has no business existing this deep underground.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Light Crossbow",
+    "fact": "The light crossbow is lent to Thorin as a temporary ranged tool, used only because he lacks better options \u2014 it represents his compromise between identity and necessity.",
+    "source_quote": "Someone lends me a crossbow, and I take it, because I'd rather be in the fight badly than out of it entirely.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Glyph of Warding",
+    "fact": "The Glyph of Warding is a hidden magical trap placed by Grygum on the bridge, designed to detonate when triggered \u2014 it is the key tactical element that disrupts Ilvara\u2019s reinforcement strategy.",
+    "source_quote": "Jorlan is standing exactly twenty feet from the Glyph of Warding that Grygum spent real patience setting into the stone of the bridge.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Dust of Suleiman",
+    "fact": "The Dust of Suleiman is a magical substance used to burn the Heart Fungus, targeting its control infrastructure rather than Ilvara\u2019s illusions \u2014 chosen for strategic efficacy over emotional satisfaction.",
+    "source_quote": "The Dust of Suleiman burns the Heart Fungus... because Asha was right and the infrastructure was more important than the satisfying image of Ilvara's nightmares eating her alive.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "teleport-grapple-drop",
+    "fact": "Zalthir teleports into position, grapples Ilvara, and drops her into the Heart Fungus\u2019s damage zone, initiating the core tactical sequence of the battle.",
+    "source_quote": "Zalthir vanishes \u2014 just gone, teleported straight to her \u2014 and then there's the crack of his fists finding purchase, once, twice, thirty-one damage in the space of a breath.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "glyph detonation",
+    "fact": "Jorlan charges onto the Glyph of Warding, triggering a 21-damage explosion that destroys one spore servant, cripples another, and destabilizes the Heart Fungus \u2014 a decisive shift in battlefield dynamics.",
+    "source_quote": "He comes straight onto the bridge, straight onto the glyph, and the detonation is immediate and total \u2014 21 damage, one spore servant gone to nothing, another barely holding itself together, and the Heart Fungus itself shuddering from the force of it.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Ilvara's true form",
+    "fact": "Ilvara\u2019s transformation into a fungal entity raises unresolved questions about her original identity, the nature of her corruption, and whether she retains any vestige of self beneath the Heart Fungus\u2019s control.",
+    "source_quote": "She was on an elevated platform. Corrupted. The fungal growth had changed her in ways that were specific and terrible \u2014 the scourge still in her hand, but everything else altered.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Jorlan's redemption",
+    "fact": "Jorlan\u2019s rage-driven charge may have been exploited, but his emotional state and survival leave open the question of whether he can be saved \u2014 or if he will become another casualty of Ilvara\u2019s corruption.",
+    "source_quote": "He's armed. He's furious. He's also standing exactly twenty feet from the Glyph of Warding... He's been stewing in it so long the rot has gone all the way through.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Cavern of the Heart Fungus",
+    "fact": "The cavern is a corrupted subterranean space dominated by the pulsing Heart Fungus, with elevated platforms, fungal growths, and hidden glyphs \u2014 terrain that is actively hostile and dynamically reshaped by Ilvara\u2019s will.",
+    "source_quote": "We watched Ilvara from the corridor near the pools... The cavern is full in a way that starts to feel personal.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Bridge of Warding",
+    "fact": "The bridge spans a pit over the cavern, bearing the Glyph of Warding placed by Grygum \u2014 it is the focal point of the ambush, where Jorlan\u2019s charge triggers the decisive tactical moment.",
+    "source_quote": "Jorlan is standing exactly twenty feet from the Glyph of Warding that Grygum spent real patience setting into the stone of the bridge.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occur during the current session, immediately following the planning phase and leading directly into the execution of the assassination plan.",
+    "source_quote": "Now we just had to survive the execution.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz coordinates the tactical phases of the battle \u2014 opening volley, spell depletion, brawler entry \u2014 and later executes a fireball to strike the overlap zone, demonstrating battlefield awareness and timing.",
+    "source_quote": "Daz talked through the phases \u2014 the opening volley, the depletion of spell slots, the point at which the brawlers would need to go in... Daz fireballs the overlap.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Asha",
+    "fact": "Asha advocated for targeting the Heart Fungus\u2019s infrastructure over emotional or symbolic destruction \u2014 her strategic insight directly influenced the choice to use the Dust of Suleiman.",
+    "source_quote": "because Asha was right and the infrastructure was more important than the satisfying image of Ilvara's nightmares eating her alive.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Thorin's identity conflict",
+    "fact": "Thorin struggles between his identity as a brawler and the tactical necessity of ranged combat \u2014 his internal conflict is resolved not by changing his nature, but by accepting his role as leverage in a larger machine.",
+    "source_quote": "I made peace with it before the fight started. Mostly.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the fungal takeover",
+    "fact": "The transformation of Ilvara and the environment into fungal constructs suggests a deeper, possibly sentient corruption \u2014 raising questions about whether the Heart Fungus is a tool, a parasite, or a new form of life.",
+    "source_quote": "The fungal growth had changed her in ways that were specific and terrible \u2014 the scourge still in her hand, but everything else altered.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is currently engaged in battle against Jorlan after landing a 14-damage hit that imposed disadvantage, and is now repositioning after a missed attack.",
+    "source_quote": "The first hit lands true. Fourteen damage, and I roll through the Sap, put him off-balance, give him disadvantage on whatever's coming back at me.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jorlan",
+    "fact": "Jorlan is staggered but not broken, still angry, and remains a threat with AC 18 after dodging a 2-roll attack.",
+    "source_quote": "Jorlan staggers. He doesn't fall. ... Jorlan is still there, staggered but not broken, which means he's still angry, which means we are not done here.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "spore walker",
+    "fact": "A spore walker has climbed behind Thorin and missed its first attack, but connected with a 5-damage glancing strike.",
+    "source_quote": "Then a spore walker climbs up behind me, because of course it does, and the first swing misses clean \u2014 the thing reaches up and just swings into nothing, which is the best that can be said about it \u2014 but the second one connects. Five damage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin, son of the Ember Vanguard",
+    "fact": "Thorin is flanked by a dead man's fungal corpse during the ongoing battle, and has adjusted his footing after the spore walker's attack.",
+    "source_quote": "Thorin, son of the Ember Vanguard, flanked by a dead man's fungal corpse while the fight rages in all directions around him. I adjust my footing.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is grinding the Heart Fungus down with a sound resembling 'Suleiman,' delivering 20 force damage per turn.",
+    "source_quote": "Behind me, deeper in the cavern, Grygum is grinding the Heart Fungus down with something that sounds like the word *Suleiman* and delivers twenty force damage per turn like a promise. The thing shudders.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz has cast a precisely shaped Fireball that caught Ilvara and her mushroom icon in the center, dealing 24 damage despite her save.",
+    "source_quote": "And then Daz opens up with a Fireball shaped so precisely around his allies that it catches Ilvara and her precious mushroom icon in the center of it, 24 damage worth of fire finding her even through her save.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara",
+    "fact": "Ilvara has been struck by Daz\u2019s Fireball, taking 24 damage, her mushroom icon smolders, and she is now bleeding.",
+    "source_quote": "the icon smolders. The mushroom is burning. Ilvara is bleeding.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "mushroom icon",
+    "fact": "Ilvara\u2019s mushroom icon has been damaged by fire, smoldering and burning after a 24-damage Fireball.",
+    "source_quote": "catches Ilvara and her precious mushroom icon in the center of it... the icon smolders. The mushroom is burning.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer remains in Thorin\u2019s hand as the battle continues, unchanged and ready.",
+    "source_quote": "Jorlan is still in front of me, and Dawnbringer is still in my hand.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "battle escalation",
+    "fact": "The battle has escalated with multiple attacks, critical hits, and environmental damage, changing the tactical math and increasing urgency.",
+    "source_quote": "The math has changed. ... the fight rages in all directions around him.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "ongoing conflict",
+    "fact": "The conflict is unresolved \u2014 Jorlan remains hostile, the Heart Fungus is being actively processed, and multiple combatants are still engaged.",
+    "source_quote": "Jorlan is still there... we are not done here. ... the fight rages in all directions around him.",
+    "quote_verified": false
+  }
+]

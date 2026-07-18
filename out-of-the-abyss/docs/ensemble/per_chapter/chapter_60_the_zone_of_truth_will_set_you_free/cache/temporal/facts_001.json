@@ -1,0 +1,93 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "A'lai showed up at the Oak Tree Apothecary at half past two on the day of the murder.",
+    "source_quote": "A'lai had shown up at the Oak Tree Apothecary at half past two on the day of the murder",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "dragonborn count",
+    "fact": "A dragonborn had arrived at the apothecary, per the testimony of Nibbles the squirrel.",
+    "source_quote": "a dragonborn had arrived",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "Velkynvelve is the bottom of the world, where a dwarf was in chains.",
+    "source_quote": "Velkynvelve, which is where this all started: a dwarf in the wrong place, in chains, at the bottom of the world",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "polymorph spell duration",
+    "fact": "A polymorph spell lasts an hour.",
+    "source_quote": "A polymorph spell lasts an hour",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "time gap between sightings",
+    "fact": "There was a minimum two-hour gap between the Sylvira lookalike being seen in the kitchens and coming down the stairs.",
+    "source_quote": "That's a minimum two-hour gap",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "sapphire and locket value relation",
+    "fact": "You can't steal a locket off someone who's alive and holding it; you need the sapphire to find a locket that's already lost.",
+    "source_quote": "you can't steal a locket off someone who's alive and holding it. You need the sapphire to find a locket that's already lost",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daral's remaining time",
+    "fact": "Daral looked like someone counting down.",
+    "source_quote": "He looked alive, technically, though with the specific quality of someone counting down",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "sequence of Daral's poison exposure",
+    "fact": "Daral licked his finger, licked the book, then licked his finger again.",
+    "source_quote": "he had licked his finger, licked the book, then licked his finger again",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "safe accessibility",
+    "fact": "Glabbagool could eat through the safe, as walls present no meaningful obstacle to his methodology.",
+    "source_quote": "I guess I could have eaten through the safe. It would have taken a while",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "monograph request sequence",
+    "fact": "Fembris Lancer and Elian both asked for a monograph in the same afternoon.",
+    "source_quote": "First Fembris, now Elian. Two men after a monograph in one afternoon",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "sequence of Glabbagool's emotional response",
+    "fact": "Glabbagool first declared the notes not nutritious, then expressed grief about the loss of cheese.",
+    "source_quote": "This is not nutritious. ... I remember when there was cheese. Perhaps if we had some cheese",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "gap size for Glabbagool",
+    "fact": "Glabbagool distinguished between a gap that admitted a gelatinous cube and one that did not.",
+    "source_quote": "Glabbagool had made the distinction between a gap that admitted a gelatinous cube and a gap that did not",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "time of Sylvira lookalike sightings",
+    "fact": "The Sylvira lookalike was seen in the kitchens around one in the morning and coming down the stairs between two and three.",
+    "source_quote": "the Sylvira lookalike had been seen in the kitchens around one in the morning. She'd been seen coming down the stairs between two and three",
+    "quote_verified": true
+  }
+]

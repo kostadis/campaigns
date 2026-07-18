@@ -12,7 +12,11 @@ sources: ["deciduous_dryad.md"]
 Charm effects are not necessarily tied to the continuous life of the caster and can remain active even after the caster has died.
 
 ### Observations
-- The death of a caster does not automatically terminate any active [[charm]] effects they have placed on targets.
+- The death of a caster does not automatically terminate any active [[charm-of-restoration-2026-06-06-002527]] effects they have placed on targets.
 
 ### Example
-- During an encounter involving a [[Deciduous Dryad]], the charm effect placed on **Unla Kee** did not end upon the Deciduous Dryad's death. The effect was subsequently maintained by the [[Coniferous Dryad]].
+- During an encounter involving a [[deciduous-dryad]], the charm effect placed on **Unla Kee** did not end upon the Deciduous Dryad's death. The effect was subsequently maintained by the [[coniferous_dryad]].
+
+## Related
+
+- [[charm-effect]]

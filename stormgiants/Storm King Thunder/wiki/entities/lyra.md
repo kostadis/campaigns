@@ -4,7 +4,7 @@ title: Lyra
 created: 2025-05-22
 updated: 2026-05-27
 tags: [npc, emerald-enclave, interventionist, druid, failed-cleansing, disciple]
-related: ["emerald-enclave", "interventionism-vs-naturalism", "adabra-gwynn", "vukradin", "soma", "thomas", "marian", "whispering-grove", "anti-interventionism", "emerald-enclave-factions", "anti-interventionism-druidic", "delaan-winterhound", "ideological-split-in-the-emerald-enclave"]
+related: ["emerald-enclave", "adabra-gwynn", "vukradin", "thomas", "marian", "whispering-grove", "delaan-winterhound", "ideological-split-in-the-emerald-enclave"]
 sources: ["lyra.md", "adabra.md", "npcs/adabra.md", "npcs/delaan_winterhound.md"]
 ---
 # Lyra
@@ -31,7 +31,7 @@ Crucially, Lyra’s actions were reactive to a deeper, non-natural corruption—
 
 ### Ostracization and Restoration
 
-Following the failure at the grove, [[adabra-gwynn]] actively worked to ostracize Lyra from the Enclave during the party’s absence. However, through the political intervention of the party—notably [[vukradin]] and [[soma]]—Lyra was defended at the Druid Council and restored to full good standing within the [[emerald-enclave]].
+Following the failure at the grove, [[adabra-gwynn]] actively worked to ostracize Lyra from the Enclave during the party’s absence. However, through the political intervention of the party—notably [[vukradin]] and soma—Lyra was defended at the Druid Council and restored to full good standing within the [[emerald-enclave]].
 
 ## Relationships
 
@@ -40,5 +40,9 @@ Following the failure at the grove, [[adabra-gwynn]] actively worked to ostraciz
 | **[[vukradin]]** | Benefactor | A primary benefactor who defended her at the Druid Council; Lyra holds him in extremely high regard, praising his "brilliant oratory." |
 | **[[adabra-gwynn]]** | Political Antagonist | A fanatic who has made Lyra a primary target of political maneuvering; Lyra views her as a dangerous threat to the Enclave's mission, and their ideological clash is central to the debate between interventionism and anti-interventionism. |
 | **[[thomas]]** & **[[marian]]** | Enclave Agents | Her subordinates who witnessed her failures and supported her during the council. |
-| **[[soma]]** | Ally | Part of the political intervention that secured her restoration at the Druid Council. |
+| **soma** | Ally | Part of the political intervention that secured her restoration at the Druid Council. |
 | **[[delaan-winterhound]]** | Moral Mentor | The late Enclave leader whose decisive intervention during the War of the Dragons became the foundational precedent for Lyra’s belief in necessary action. She reveres him as the embodiment of wise, courageous stewardship. |
+
+## Related
+
+- [[whispering-grove]]

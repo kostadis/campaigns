@@ -1,0 +1,177 @@
+[
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is an intelligent gelatinous cube traveling with the party who desires friends and purpose, and has demonstrated the ability to clear paths and respond to emotional appeals.",
+    "source_quote": "Glabbagool expressed curiosity about being hired and receiving payment, ultimately revealing that what he truly desired was friends and a sense of purpose.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a party member who claimed a magical short sword and proposed a motivational speech to distract the ooze army, showing leadership and confidence in the plan.",
+    "source_quote": "Grygum claimed the magical short sword for himself... Grygum presented the plan: he would make a motivational speech to the army, who would distract the oozes.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a party member with the ability to move through shadows, who detected ooze trails and pit traps, proposed a stealth capture of the Pudding King, and demonstrated his abilities to gain the gnomes' trust.",
+    "source_quote": "Zalthir discovered two slimy, digested deep gnome corpses... Zalthir proposed using his ability to move through shadows to reach the Pudding King... Zalthir offered to demonstrate his ability.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a party member who sent a bat familiar to scout and attempted to investigate refuse, but found nothing, indicating reliance on reconnaissance.",
+    "source_quote": "Daz attempted to investigate a pile of refuse but found nothing... Daz sent his bat familiar to scout the surrounding areas.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a party member who took the lead during the exploration of the ooze cavern and moved with Zalthir nearby, showing tactical awareness.",
+    "source_quote": "Thorin took the lead with Zalthir nearby.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Chief Dorbo Diggermattock",
+    "fact": "Chief Dorbo Diggermattock is the leader of Blingdenstone who initially credited the adventurers for solving the ooze problem, later dismissed their plan as dumb, but was overruled by Senni.",
+    "source_quote": "Chief Dorbo reacted with alarm... Chief Dorbo called the plan the dumbest he had ever heard.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Senni Diggermattock",
+    "fact": "Senni Diggermattock is a gnomish authority figure who silenced Chief Dorbo and supported the adventurers' plan, showing decisive leadership.",
+    "source_quote": "Senni Diggermattock silenced him and asked if he had a better one.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is a deep gnome who placed a bet with Chief Dorbo in favor of the adventurers, subtly endorsing their mission and boosting morale.",
+    "source_quote": "Jimjar, a deep gnome, placed a bet with Chief Dorbo, expressing confidence in the adventurers' success and subtly supporting their mission.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Pudding King",
+    "fact": "The Pudding King is a mad gnome who controls hundreds of oozes, speaks with a disembodied voice, and holds court on a slime-covered throne, believing he is cleansing Blingdenstone.",
+    "source_quote": "On the throne sat a small gnome, the Pudding King, who was madly holding court and speaking of cleansing Blingdenstone... The party confirmed that the Pudding King was the source of the disembodied voice and the current problem.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Gold Whisker Clan",
+    "fact": "The Gold Whisker Clan is a group of wererat gnomes considered squatters by Chief Diggermattock, whose territory was considered as a possible route by the party.",
+    "source_quote": "considering paths through the rubble or toward the Gold Whisker Clan territory, a group of wererat gnomes considered squatters by Chief Diggermattock.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Chamber of Commerce",
+    "fact": "The Chamber of Commerce is a merchant organization that offered the party a ten percent discount coupon as a reward for their heroism.",
+    "source_quote": "A merchant from the Chamber of Commerce offered the party a ten percent discount coupon as a reward for their heroism.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Oozes",
+    "fact": "Oozes are amorphous, non-speaking creatures that cover the cavern walls and floor, with some under the control of the Pudding King; they are known to digest and kill deep gnomes.",
+    "source_quote": "a vast cavern filled with countless oozes covering the walls and floor... Glabbagool expressed discomfort with these oozes, noting that oozes generally do not speak... Zalthir discovered two slimy, digested deep gnome corpses, confirming they were victims of oozes.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Green Slime",
+    "fact": "Green slime is a hazardous substance covering the ceiling of the Pudding King's cavern and the throne room, posing a lethal threat if disturbed during movement.",
+    "source_quote": "green slime covering the ceiling would fall during the escape, posing significant danger... pools of green slime and a slime-covered throne.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Magical Short Sword",
+    "fact": "A magical short sword was discovered in the aftermath of the battle and claimed by Grygum, though its properties have not yet been detailed.",
+    "source_quote": "The party discovered a magical short sword in the aftermath, which Grygum claimed for himself.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Ten Percent Discount Coupon",
+    "fact": "A ten percent discount coupon from the Chamber of Commerce was offered to the party as a reward for their heroism, serving as a tangible token of gratitude.",
+    "source_quote": "A merchant from the Chamber of Commerce offered the party a ten percent discount coupon as a reward for their heroism.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Trader's Grotto",
+    "fact": "The Trader's Grotto is the site of a prior battle against gelatinous cubes, now filled with rubble and the aftermath of destruction, where merchants and citizens expressed concern.",
+    "source_quote": "The aftermath of the battle with the gelatinous cubes in the Trader's Grotto left the party facing a crowd of questioning merchants and citizens.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Former Residential Cave",
+    "fact": "A former residential cave filled with refuse and a foul stench, where the party discovered digested deep gnome corpses and an ooze trail leading deeper into the caves.",
+    "source_quote": "They soon entered a vast cavern filled with countless oozes covering the walls and floor... The party proceeded into a former residential cave filled with refuse and a foul stench.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Pudding King's Cavern",
+    "fact": "A vast cavern dominated by hundreds of oozes and a large spherical structure, with a slime-covered throne and green slime on the ceiling, serving as the lair of the Pudding King.",
+    "source_quote": "a vast cavern filled with countless oozes covering the walls and floor, with a large spherical structure at its center held up by stone pillars... On the throne sat a small gnome, the Pudding King... green slime covering the ceiling.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Phosphorescent Lichen Cave",
+    "fact": "A cave illuminated by phosphorescent lichen, containing pools of green slime and a slime-covered throne, discovered by the bat familiar as the Pudding King's seat of power.",
+    "source_quote": "Eventually, the familiar discovered a cave illuminated by phosphorescent lichen, with pools of green slime and a slime-covered throne.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Glabbagool Clears Passageway",
+    "fact": "Glabbagool spent about an hour clearing a passageway through rubble, impressing a gnome from mining operations and proving his utility as a tool for navigation.",
+    "source_quote": "Glabbagool spent about an hour clearing a passageway through the rubble, impressing a gnome from the mining operations who expressed interest in hiring him for future work.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir Demonstrates Shadow Movement",
+    "fact": "Zalthir demonstrated his ability to move through shadows in a dimly lit chamber, convincing the deep gnomes of his capabilities and gaining their support.",
+    "source_quote": "The other deep gnomes excitedly dim the lights, allowing him to showcase his agility and ability to move through shadows.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Discovery of the Pudding King",
+    "fact": "The party confirmed the Pudding King as the source of the disembodied voice and controller of the ooze army, establishing him as the central threat.",
+    "source_quote": "The party confirmed that the Pudding King was the source of the disembodied voice and the current problem, but he was surrounded by hundreds of oozes under his control.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Faceless Lord",
+    "fact": "Juiblex, the Faceless Lord, is a demon mentioned by a ghost and referenced by Glabbagool and Grygum as the ancient force behind ooze creation and chaos, hinting at a deeper cosmic threat.",
+    "source_quote": "Grygum recalled that a ghost had previously mentioned Juiblex, also known as the Faceless Lord, a demon who infuses power to create chaos... a disembodied voice... proclaiming the coming of a Faceless Lord to enhance Blingdenstone.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Ooze Language",
+    "fact": "The oozes' ability to speak, as implied by the disembodied voice and Glabbagool's discomfort, contradicts known behavior, suggesting unnatural or demonic corruption.",
+    "source_quote": "Glabbagool expressed discomfort with these oozes, noting that oozes generally do not speak, which he found unsettling... a disembodied voice filled the cave...",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "after the battle",
+    "fact": "The events described occurred immediately following the battle with the gelatinous cubes in the Trader's Grotto, setting the timeline for the party's current mission.",
+    "source_quote": "The aftermath of the battle with the gelatinous cubes in the Trader's Grotto left the party facing a crowd of questioning merchants and citizens.",
+    "quote_verified": true
+  }
+]

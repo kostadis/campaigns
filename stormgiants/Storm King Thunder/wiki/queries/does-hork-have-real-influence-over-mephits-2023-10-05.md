@@ -9,3 +9,7 @@ sources: ["hork_gethorn.md"]
 ---
 # Does Hork Have Real Influence Over Mephits?
 Given Hork Gethorn's role as a meat pie shop owner in Mirabar, does he have real influence over mephits? This query explores the extent of Hork's control and the potential for him to manipulate or command mephits.
+
+## Related
+
+- [[does-hork-have-real-influence-over-mephits-2026-05-13]]

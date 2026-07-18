@@ -43,7 +43,7 @@ This wiki covers the narrative universe described in the source document "Lady A
 
 ## Pages
 - [[lady-alustriel-silverhand]]
-- [[methrammar-aerasumé]]
+- [[methrammar_aerasum]]
 - silverymoon
 
 ## Open Questions

@@ -66,3 +66,7 @@ related: []
 - **Open Questions:**
   - Further details on the significance of the gemstones extracted from Braxow’s flesh.
   - Clarification on the exact nature of the encounter and its place within the broader narrative timeline.
+
+## Related
+
+- [[thane_kayalithca]]

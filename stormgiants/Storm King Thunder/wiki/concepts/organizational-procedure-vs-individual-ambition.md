@@ -14,3 +14,7 @@ A central ideological tension within the [[emerald-enclave]]. It describes the c
 2. **Individual Ambition:** Taking unilateral, unauthorized action to address perceived threats, often driven by frustration with institutional inaction or a desire for personal advancement.
 
 This tension is currently manifesting in the political crisis surrounding [[lyra]], whose unauthorized intervention has led to attempts at ostracization by members like [[adabra-gwynn]].
+
+## Related
+
+- [[decisive-leadership-vs-recklessness]]

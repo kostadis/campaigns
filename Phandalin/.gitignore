@@ -11,3 +11,18 @@ script_run
 
 # Dossier-merge archive (post-merge bookkeeping; canonicals carry the content)
 docs/npcs/merged_sidecars/
+
+# Ensemble pipeline — generated caches, run snapshots, intermediate extractions,
+# aggregate dumps. Tracked outputs are state_dossiers/, campaign-state-extracts/,
+# chapters.md, threads.md, and the scripts/config files.
+docs/ensemble/per_chapter/
+docs/ensemble/runs/
+docs/ensemble/cache/
+docs/ensemble/merged.json
+docs/ensemble/*.log
+
+# Backup tarballs (canonical content lives in tracked files)
+*.backup-*.tar.gz
+
+# Archived/retired session intermediates
+summaries/old/

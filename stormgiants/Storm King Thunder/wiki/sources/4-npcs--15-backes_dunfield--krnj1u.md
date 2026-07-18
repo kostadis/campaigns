@@ -1,18 +1,39 @@
 ---
 type: source
-title: "Backes Dunfield"
-created: 2026-06-15
-updated: 2026-06-15
-tags: [npc, background, narrative-economy]
-related: [background-npc, narrative-economy, information-asymmetry-npc-encounters, pre-meeting-narrative-structure]
+title: "Source: npcs/backes_dunfield.md"
+created: 2026-06-06
+updated: 2026-06-06
 sources: ["npcs/backes_dunfield.md"]
+tags: []
+related: []
 ---
-# Backes Dunfield
 
-A bartender at the Wayside Inn, Backes Dunfield is a human with a scarred face and a crooked smile. He was present during the party’s overnight stay at the inn but had no recorded interaction, motivation, history, or relationship with any party member or NPC. His existence serves no plot, emotional, or thematic function. He is not a mystery — he is a void.
+# Source: npcs/backes_dunfield.md
 
-All fields in his dossier are empty or marked “insufficient information,” indicating intentional narrative minimalism. His role is purely environmental: to populate the setting with mundane realism without inviting curiosity or investigation.
+## Key Entities
+*   **Backes Dunfield** (Human)
+    *   **Role:** Bartender at the Wayside Inn.
+    *   **Status:** Peripheral. He serves as a "background" NPC with no narrative weight or interaction beyond his physical presence in a location.
+    *   **Wiki Status:** Already exists in the index.
 
-He exemplifies the principle of **narrative economy** — the deliberate omission of detail to preserve focus on meaningful elements. Unlike other NPCs such as Azam or Aletra Satora, who are layered with hidden agendas, Backes Dunfield has no hidden layer. He is not a placeholder for future content; he is a statement: not every character needs a story.
+## Key Concepts
+*   **Background NPC**
+    *   **Definition:** A character whose only function is to populate the environment and provide atmosphere without participating in the plot or having a distinct arc.
+    *   **Significance:** Backes Dunfield is a prime example of this; he provides "texture" but no information.
+    *   **Wiki Status:** Already exists as [[background-npc]].
 
-See also: [[background-npc]], [[narrative-economy]], [[information-asymmetry-npc-encounters]]
+## Main Arguments & Findings
+*   **Narrative Function:** The document confirms that Backes Dunfield has zero narrative utility. He is a static element used to establish the setting of the Wayside Inn.
+*   **Evidence:** The "Personality & Motivations" and "Relationships" sections are empty or state "insufficient information," confirming he is not a vehicle for plot delivery or world-building.
+
+## Connections to Existing Wiki
+*   **[[wayside-inn]]**: This source confirms the location where Backes Dunfield is stationed.
+*   **[[background-npc]]**: The character serves as a literal example of this concept in practice.
+
+## Contradictions & Tensions
+*   None. The document is internally consistent in portraying him as a non-interactive entity.
+
+## Recommendations
+*   **No new pages needed.**
+*   **Update/Maintain:** Ensure the link to [[background-npc]] remains clear for Backes Dunfield, as he perfectly illustrates the "narrative economy" (the deliberate omission of detail for non-critical elements).
+*   **Note:** No further investigation into this character is required unless a future plot point specifically utilizes his presence.

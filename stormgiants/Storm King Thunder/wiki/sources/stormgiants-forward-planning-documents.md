@@ -12,3 +12,8 @@ venue: ""
 ---
 # Forward-Planning Documents
 Peripheral product used for strategic planning. Used for central entities like stormgiants.
+
+## Related
+
+- [[stormgiants-npc-notes]]
+- [[stormgiants-enemy-dossiers]]

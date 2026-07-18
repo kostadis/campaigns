@@ -9,3 +9,7 @@ sources: ["iskander.md"]
 ---
 # Iskander Traitor
 What was Iskander's role as a traitor to the Cult of the Dragon and how did this affect the raid on Xonathal's tower?
+
+## Related
+
+- [[iskander-traitor-status]]

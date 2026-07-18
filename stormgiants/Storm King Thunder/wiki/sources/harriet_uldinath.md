@@ -1,8 +1,8 @@
 ---
 type: source
 title: "Source: harriet_uldinath.md"
-created: 2026-05-13
-updated: 2026-05-13
+created: 2026-06-06
+updated: 2026-06-06
 sources: ["harriet_uldinath.md"]
 tags: []
 related: []
@@ -10,67 +10,58 @@ related: []
 
 # Source: harriet_uldinath.md
 
-### Key Entities
-- **Harriet Uldinath:**
-  - **Name and Type:** Merchant, Smith, Independent
-  - **Role in the Source:** Central
-  - **Existing in Wiki:** Likely
-- **Ghelryn Foehammer:**
-  - **Name and Type:** Smith, Competitor
-  - **Role in the Source:** Peripheral
-  - **Existing in Wiki:** Likely
-- **Forehammer's Forge:**
-  - **Name and Type:** Smithy, Rival
-  - **Role in the Source:** Peripheral
-  - **Existing in Wiki:** Likely
-- **Triboar:**
-  - **Name and Type:** City, Location
-  - **Role in the Source:** Central
-  - **Existing in Wiki:** Likely
-- **Lion's Share Vault:**
-  - **Name and Type:** Vault, Location
-  - **Role in the Source:** Peripheral
-  - **Existing in Wiki:** Likely
+## Key Entities
 
-### Key Concepts
-- **Vault Breach Hook:**
-  - **Definition:** A grappling hook recovered from the Lion's Share vault breach.
-  - **Importance:** It serves as the central mystery driving the interaction between Harriet and the party.
-  - **Existing in Wiki:** Likely
+*   **Harriet Uldinath (Harriet)**
+    *   **Type:** NPC / Merchant
+    *   **Role:** Central to this specific document; owner of "Uldinath's Arms" smithy in Triboar.
+    *   **Status:** Likely new entry for the wiki.
+*   **Ghelryn Foehammer**
+    *   **Type:** NPC / Smith
+    *   **Role:** Peripheral to Harriet’s arc; a rival smith and childhood friend.
+    *   **Status:** New entry (or update needed if already exists as "Ghelryn").
+*   **Uldinath's Arms (T17)**
+    *   **Type:** Location / Business
+    *   **Role:** The physical location of Harriet’s shop in Triboar.
+    *   **Status:** New entry or update to a local map/location list.
+*   **Forehammer's Forge**
+    *   **Type:** Organization / Business
+    *   **Role:** Rival smithy to Uldinath's Arms.
+    *   **Status:** New entry (or update to existing merchant records).
 
-### Main Arguments & Findings
-- **Core Claims:**
-  - Harriet Uldinath is the proprietor of Uldinath's Arms, a smithy in Triboar.
-  - She denies involvement in the vault breach hook and directs the party to Ghelryn Foehammer, a rival smith.
-- **Evidence Supporting Claims:**
-  - Harriet confirmed the hook was not her work and identified Ghelryn as the maker.
-  - She vouched for Ghelryn’s character and suggested he is a "lousy smith," indicating a friendly rivalry.
-- **Strength of Evidence:**
-  - Direct statements from Harriet confirming the hook's non-manufacture and pointing to Ghelryn.
-  - Harriet’s demeanor and comments suggest honesty and willingness to help the party.
+## Key Concepts
 
-### Connections to Existing Wiki
-- **Vault Breach Hook:**
-  - This hook likely relates to existing pages about the Lion's Share vault breach and its contents.
-- **Triboar:**
-  - Information about Triboar can be linked to existing pages on the city and its inhabitants.
-- **Smithies and Competitors:**
-  - Pages on smithies and their relationships can be referenced, including those on Ghelryn Foehammer.
+*   **Craftsmanship Integrity:** Harriet’s willingness to admit a piece of work is superior to her own suggests a high level of professional honesty or a specific narrative choice to distance herself from the "Lion's Share" theft.
+*   **Friendly Rivalry:** The relationship between Harriet and Ghelryn serves as a trope for community-building, where competition is tempered by long-standing personal ties.
+*   **Redirection of Scrutiny:** Her act of sending the party to a competitor could be interpreted as either genuine honesty or a tactical move to avoid being questioned further about the vault breach.
 
-### Contradictions & Tensions
-- **Internal Tension:**
-  - Harriet’s apparent honesty contrasts with her rivalry with Ghelryn, which might imply some underlying tension or suspicion.
+## Main Arguments & Findings
 
-### Recommendations
-- **Create or Update:**
-  - **Uldinath's Arms:** Ensure details about the shop and its location are accurate.
-  - **Ghelryn Foehammer:** Add information about his background and reputation.
-  - **Triboar:** Expand on the city’s history and culture.
-  - **Vault Breach Hook:** Link to existing pages on the vault breach and its contents.
-- **Emphasize:**
-  - Harriet’s role as a helpful and honest individual who provides crucial information.
-- **De-emphasize:**
-  - Internal tensions or contradictions within her character.
-- **Open Questions:**
-  - Further explore the nature of Harriet’s relationship with Ghelryn beyond the surface level.
-  - Investigate if there are any additional clues or hints about the vault breach hook’s origins.
+*   **Core Claim:** Harriet Uldinath is a grounded, community-oriented NPC who serves as a "gatekeeper" for information regarding high-quality craftsmanship.
+*   **Evidence:** Her interaction with the party regarding the grappling hook; her specific identification of Ghelryn's work and her candid admission that she could not match his skill level.
+*   **Strength of Evidence:** High (within the context of the provided text). She is a stable, non-antagonistic NPC who provides a clear lead for the party.
+
+## Connections to Existing Wiki
+
+*   **Lion's Share Vault Breach:** This source links directly to the investigation of the vault breach and the origin of the grappling hook.
+*   **Triboar Region:** Relates to local geography and merchant networks in the Triboar area.
+*   **Craftsmanship/Smithing:** Connects to the broader theme of artisan culture and the distinction between "standard" work and "superior" (potentially illicit or high-level) craftsmanship.
+
+## Contraditions & Tensions
+
+*   **The "Honesty vs. Strategy" Gap:** There is a minor tension regarding her motives for redirecting the party. While she seems friendly, the fact that she immediately points them toward a competitor when shown an item from a heist could be interpreted as a way to end the conversation quickly and avoid deeper questioning about the vault breach.
+
+## Recommendations
+
+*   **New Pages:** Create pages for **Harriet Uldinath**, **Ghelryn Foehammer**, and **Uldinath's Arms**.
+*   **Update/Li
+
+## Related
+
+- [[aunt_nonnie]]
+- [[queen_tatiana]]
+- [[larrish]]
+- [[syreen_widdens]]
+- [[the_wight_elquen]]
+- [[mary]]
+- [[lady_alustriel_silverhand]]

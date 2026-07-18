@@ -79,4 +79,12 @@ related: []
 - The exact nature and extent of her plans remain hidden, creating uncertainty about her true intentions.
 
 ### Recommendations
-- Create or update pages for Narcellia Varam'myr, Chandra Stol, Bad Fruul, and Prince 
+- Create or update pages for Narcellia Varam'myr, Chandra Stol, Bad Fruul, and Prince
+
+## Related
+
+- [[nestra_ruthiol]]
+- [[syreen_widdens]]
+- [[silas_carras]]
+- [[queen_tatiana]]
+- [[nespril_menk]]

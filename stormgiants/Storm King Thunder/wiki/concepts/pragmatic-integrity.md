@@ -4,7 +4,7 @@ title: Pragmatic Integrity
 created: 2026-06-15
 updated: 2026-06-15
 tags: [ethics, pragmatism, non-corrupt-workaround, system-navigation]
-related: [horia-stonetallow, contractual-morality, engineering-heritage-as-identity, cover-identity-as-administrator, transaction-as-narrative-catalyst, dwolin-the-grout, brewbarry, vukradin]
+related: ["horia-stonetallow", "contractual-integrity", "engineering-heritage-as-identity", "cover-identity-as-administrator", "transaction-as-narrative-catalyst", "dwolin-the-grout", "brewbarry", "vukradin"]
 sources: ["npcs/horia_stonetallow.md"]
 ---
 # Pragmatic Integrity
@@ -18,3 +18,7 @@ This is not deception — it is adaptation. She does not violate rules; she work
 Pragmatic Integrity contrasts with Don-jon Raskin’s corruption — he broke rules for personal gain — and with Valphine’s nihilism — she rejected rules entirely. Horia neither obeys blindly nor rebels recklessly. She navigates.
 
 This concept is the ethical core of her character and the Stonetallow Clan’s survival strategy. In a world where power is concentrated in unseen hands (the Consortium, the SEER, Aletra’s KP), Pragmatic Integrity is the only viable path for those who wish to remain good without being powerless.
+
+## Related
+
+- [[contractual-integrity]]

@@ -1,8 +1,8 @@
 ---
 type: source
 title: "Source: uzorel_the_viper_hornblade.md"
-created: 2026-05-13
-updated: 2026-05-13
+created: 2026-06-06
+updated: 2026-06-06
 sources: ["uzorel_the_viper_hornblade.md"]
 tags: []
 related: []
@@ -10,61 +10,44 @@ related: []
 
 # Source: uzorel_the_viper_hornblade.md
 
-### Key Entities
-- **Uzorel "The Viper" Hornblade**
-  - **Name and Type:** Person, Agent
-  - **Role in the Source:** Central
-  - **Exists in Wiki:** Likely
-- **Taern Hornblade**
-  - **Name and Type:** Person, Former Ruler
-  - **Role in the Source:** Peripheral
-  - **Exists in Wiki:** Likely
-- **Orsik**
-  - **Name and Type:** Person, Party Member
-  - **Role in the Source:** Peripheral
-  - **Exists in Wiki:** Likely
-- **Zhentarim Leadership**
-  - **Name and Type:** Organization
-  - **Role in the Source:** Peripheral
-  - **Exists in Wiki:** Likely
+## Key Entities
 
-### Key Concepts
-- **Teleportation Circles**
-  - **Definition:** Locations where teleportation can occur
-  - **Importance:** Critical intelligence for Zhentarim operations
-  - **Exists in Wiki:** Likely
+*   **Uzorel "The Viper" Hornblade** (Person)
+    *   **Role:** Central. A local Zhentarim agent based in Silverymoon.
+    *   **Status:** Likely new to the wiki or needs a dedicated page. He serves as a bridge between the party and the Zhentarim organization.
+*   **Zhentarim** (Organization)
+    *   **Role:** Central. A powerful criminal/political syndicate.
+    *   **Status:** Already exists in the wiki. Uzorel is an agent of this group.
+*   **Orsik** (Person)
+    *   **Role:** Central (Party Member). The primary point of contact for Uzorel.
+    *   **Status:** Already exists in the wiki.
+*   **Taern Hornblade** (Person)
+    *   **Role:** Peripheral. A former ruler of Silverymoon and distant relative of Uzorel.
+    *   **Status:** New to the wiki; represents a historical/lineage connection.
 
-### Main Arguments & Findings
-- **Core Claims:**
-  - Uzorel "The Viper" Hornblade is a Zhentarim agent operating in Silverymoon.
-  - He has provided valuable intelligence about teleportation circles in Everlund and Yartar to Orsik.
-  - Uzorel has promised to relay this information to Zhentarim leadership.
-- **Evidence:**
-  - Orsik disclosed the locations of the teleportation circles to Uzorel.
-  - Uzorel accepted the information and promised to pass it along.
-  - Uzorel maintains a cautious, transactional relationship with Orsik.
-- **Strength of Evidence:**
-  - Direct statements and actions by Uzorel and Orsik.
-  - No contradictory evidence noted.
+## Key Concepts
 
-### Connections to Existing Wiki
-- **[[zhentarim]]**: Uzorel's role as a Zhentarim agent connects him to this page.
-- **silverymoon**: His presence in Silverymoon and interactions with Orsik relate to this location.
-- **[[everlund]]**: The teleportation circles in Everlund are relevant to this narrative.
+*   **Transactional Trust**
+    *   **Definition:** Relationships built on mutual utility rather than personal affinity or shared values.
+    *   **Why it matters:** This defines Uzorel’s interaction with Orsik; he doesn't trust the party, but he recognizes a "shared" goal of anti-Harper sentiment.
+    *   **Status:** New concept (or could be linked to existing *information_asymmetry*).
+*   **Cover Identity as Agent**
+    *   **Definition:** Using a specific role (like a local agent) to facilitate the movement of intelligence within a larger organization.
+    *   **Why it matters:** Highlights how Uzorel functions as a "relay" for information rather than an independent actor.
+    *   **Status:** Related to existing *cover-identity-as-merchant*.
 
-### Contradictions & Tensions
-- None identified within the provided source.
+## Main Arguments & Findings
 
-### Recommendations
-- **Create or Update Pages:**
-  - [[uzorel-the-viper-hornblade]]: To summarize the character and his role.
-  - [[zhentarim]]: To include details about Uzorel's activities.
-  - silverymoon: To reflect Uzorel's presence and interactions.
-  - [[everlund]]: To incorporate the teleportation circle information.
-- **Emphasize:**
-  - Specific details about Uzorel's background and relationships.
-  - The importance of the teleportation circle information.
-- **Open Questions:**
-  - What is Uzorel's true level of trust in Orsik?
-  - How quickly will the Zhentarim leadership react to this intelligence?
-  - What are the broader implications of Uzorel's actions for the party's mission?
+*   **The Utility of Shared Enemies:** The primary finding is that Uzorel’s suspicion was mitigated not by the party's behavior, but by their stated goal (revenge against a Harper). This suggests that in this world, common enemies are the only currency for building "trust" with suspicious factions.
+*   **Information as Currency:** Orsik’s decision to offer information freely is a strategic move that Uzorel noted. While it didn't earn trust, it did establish a "debt" or recognition within the Zhentarim hierarchy.
+*   **The Role of Paranoia:** Uzorel’s physical reaction (reaching for his sword) highlights the high-tension environment of Silverymoon and the inherent danger of dealing with clandestine organizations like the Zhentarim.
+
+## Connections to Existing Wiki
+
+*   **[[zhentarim]]**: This source provides a specific local face for the organization in Silverymoon.
+*   **[[orsik]]**: Establishes a transactional relationship between Orsik and the Zhentarim.
+*   **[[information-asymmetry-npc-encounters]]**: Uzorel represents the "hidden" side of this; he knows exactly what the party doesn't (the speed/intent of the Zhentarim response).
+
+## Contradictions & Tensions
+
+*   **Trust vs. Transaction:** There is a tension between Uzorel’s personal paranoia and his professional role. He clearly does not trust Orsik, yet he "accepted" the information. The wiki shou

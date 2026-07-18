@@ -1,8 +1,8 @@
 ---
 type: source
 title: "Source: dalthara.md"
-created: 2026-05-13
-updated: 2026-05-13
+created: 2026-06-05
+updated: 2026-06-05
 sources: ["dalthara.md"]
 tags: []
 related: []
@@ -10,39 +10,42 @@ related: []
 
 # Source: dalthara.md
 
-### Key Entities
+## Key Entities
 
-- **Dalthara**: Harper affiliate (central), referenced in sessions but not directly interacted with.
-- **Krowen**: Harper affiliate (central), holds significant influence over Dalthara.
-- **Harper**: Organization (central), Dalthara is affiliated with them.
-- **Non-sworn Harper contractors**: Group (peripheral), Dalthara worked with them despite reservations.
+*   **Dalthara** (Person)
+    *   **Role:** Harper affiliate (implied); a high-standing contact who acts as a gatekeeper/facilitator for the party.
+    *   **Status:** Central to current narrative progression (as a "quest-giver" or facilitator), but currently an off-screen entity.
+    *   **Wiki Status:** New entry required.
+*   **Krowen** (Person)
+    *   **Role:** A contact with specific reservations about working with non-sworn Harper contractors.
+    *   **Status:** Peripheral/Intermediate; he is the "gate" Dalthara opened for the party.
+    *   **Wiki Status:** Likely exists or needs a page to detail his specific requirements and role in the current arc.
 
-### Key Concepts
+## Key Concepts
 
-- **Harper**: A secretive organization dedicated to maintaining law and order, central to the narrative.
-- **Non-sworn Harper contractors**: Individuals who work with the Harper organization but are not sworn members, peripheral to the main plot.
+*   **Harper-Adjacent Standing**
+    *   **Definition:** A level of trust or recognition within the Harper network that allows an individual to bypass standard protocols or influence others' willingness to cooperate with "outsiders."
+    *   **Why it matters:** It establishes Dalthara as a person of significance and potential future plot importance, even without direct interaction.
+    *   **Wiki Status:** May be integrated into the [[Harper]] or related faction pages.
 
-### Main Arguments & Findings
+## Main Arguments & Findings
 
-- **Core Claim**: Dalthara, a Harper affiliate, vouched for the party's credibility to Krowen, allowing them access despite Krowen's reservations about working with non-sworn contractors.
-- **Evidence**: Directly stated in the source material that Dalthara vouched for the party's credibility to Krowen.
-- **Strength of Evidence**: Strong, as it is explicitly mentioned in the source.
+*   **The "Gatekeeper" Role:** The primary finding is that Dalthara serves as a narrative bridge. Her endorsement of the party is the only reason Krowen agreed to work with them.
+*   **Information Asymmetry:** There is a significant gap between what the party knows (she sent them to Krowen) and what she actually wants/does. This creates "narrative debt"—a hook for future plot development regarding her true motives or hidden role within the Harpers.
+*   **Evidence Strength:** The evidence of her importance is high because it directly impacted a major negotiation (the party's access to Krowen), but the evidence of her personality/identity is currently zero.
 
-### Connections to Existing Wiki
+## Connections to Existing Wiki
 
-- **[[harper]]**: This source reinforces the Harper organization's role and the importance of vouching for credibility within their ranks.
-- **[[non-sworn-harper-contractors]]**: The source highlights the existence and significance of non-sworn contractors within the Harper organization.
+*   **[[Harper]]**: Dalthara’s implied affiliation links her to this organization.
+*   **[[grindle-2026-06-06-042021]]**: Her role is defined by her relationship with him; his willingness to work with the party is a direct result of her intervention.
+*   **[[quest-as-emotional-trap]] / [[pre-meeting-narrative-structure]]**: While Dalthara isn't an "emotional trap" yet, she functions as a narrative placeholder that builds mystery regarding why she chose to help the party.
 
-### Contradictions & Tensions
+## Contradictions & Tensions
 
-- No contradictions found with existing wiki content.
+*   **Trust vs. Caution:** There is a tension between Krowen’s personal reservations (caution) and Dalthara’s endorsement (trust). This highlights the weight of her standing within the Harper hierarchy.
+*   **Hidden Motivation:** The document explicitly notes that her motivations are unknown, which creates a potential "ticking clock" or "hidden agenda" tension for future sessions.
 
-### Recommendations
+## Recommendations
 
-- **Create Page**: [[dalthara]]
-- **Emphasize**: Vouching for the party's credibility to Krowen.
-- **De-emphasize**: Specific details about Dalthara's personality and motivations, as they are not fully established in the source.
-- **Open Question**: Clarify Dalthara's current status and plans.
-
-## Wiki Purpose (for context)
-# Project Purpose — Reading
+*   **Create Page:** Create a page for **[[Dalthara]]**. Even with minimal info, it serves as a placeholder to track her role as a Harper contact and the mystery of her motives.
+*   **Update/Create Kro

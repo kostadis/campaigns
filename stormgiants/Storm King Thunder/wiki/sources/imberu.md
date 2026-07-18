@@ -27,7 +27,7 @@ related: []
 - **Strength of Evidence**: Strong, based on detailed notes and firsthand accounts.
 
 ### Connections to Existing Wiki
-- **[[kartha-kaya]]**: Direct connection, as Imberu serves as First Hand to Kartha-Kaya.
+- **[[kartha_kaya]]**: Direct connection, as Imberu serves as First Hand to Kartha-Kaya.
 - **[[ritual-circles]]**: Links to cleansing rituals, which Imberu was a part of.
 - **[[psychic-possession]]**: Directly related to the failed possession attempt.
 
@@ -35,7 +35,17 @@ related: []
 - None identified within the given information.
 
 ### Recommendations
-- **Create Pages**: [[imberu]], [[kartha-kaya]], [[ritual-circles]], [[psychic-possession]]
+- **Create Pages**: [[imberu]], [[kartha_kaya]], [[ritual-circles]], [[psychic-possession]]
 - **Emphasize**: Details about Imberu's role and involvement in the ritual circle and possession attempt.
 - **Open Questions**: Further details about Imberu's broader role beyond being First Hand to Kartha-Kaya.
-- **De-emphasize**: Specific details that are already well-covered in existing pages like [[kartha-kaya]].
+- **De-emphasize**: Specific details that are already well-covered in existing pages like [[kartha_kaya]].
+
+## Related
+
+- [[rezmir]]
+- [[laeral_silverhand]]
+- [[syreen_widdens]]
+- [[silas_carras]]
+- [[iskander]]
+- [[uthor]]
+- [[miery]]

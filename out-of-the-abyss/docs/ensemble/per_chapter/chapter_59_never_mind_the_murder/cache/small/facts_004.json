@@ -1,0 +1,114 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is observing and analyzing the double-strike murder of Janussi and the framing of Daral, identifying A'lai Aivenmore as the prime suspect motivated by ideology and ambition to seize the keep.",
+    "source_quote": "A drama queen. He knew it; he said it about himself, which is its own kind of telling. I filed the name. A'lai. Ideology and ambition both \u2014 a man who kills for the chair and the idea at once.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daral",
+    "fact": "Daral is the intended target of a framing scheme, suspected of being manipulated into a position where his love of poetry and fiction is seen as a threat by A'lai Aivenmore.",
+    "source_quote": "Daral arrived at the name like a man arriving at the last line of a poem he'd written. A'lai Aivenmore. The one who wanted the keep. The one about to be dismissed. The one who saw Daral's love of poetry, his love of fiction, as a threat to his approach to the universe.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "A'lai Aivenmore",
+    "fact": "A'lai Aivenmore is the suspected mastermind behind the murder of Janussi and the framing of Daral, seeking to eliminate rivals and ascend to power by exploiting symbolic and psychological tactics.",
+    "source_quote": "Clear the deck of Janussi. Clear the wood of me. No one left on the council able to prevent his ascension.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi was poisoned by a book given to him by Daral, making him the first casualty in a two-part scheme designed to discredit and remove Daral from the council.",
+    "source_quote": "Janussi was dead. Poisoned by a book Daral had given him.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Council",
+    "fact": "The Council is a governing body in which Daral and Janussi held influence, and whose balance is now threatened by A'lai Aivenmore\u2019s calculated elimination of key members.",
+    "source_quote": "No one left on the council able to prevent his ascension.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "double-strike murder",
+    "fact": "A single act of poison was used to kill Janussi and frame Daral, indicating a premeditated strategy to remove two political obstacles with one move.",
+    "source_quote": "A killer who buys two outcomes with one cup of poison is a killer who has already drawn the board and decided where every piece lands.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Southern Dining Hall",
+    "fact": "The Southern Dining Hall contains a lead-lined brass chalice statue of Milil, which Daral recalls was used during the Midsummer Wine ceremony and may have concealed magical interference.",
+    "source_quote": "We used it for the Midsummer Wine!... The Milil chalice is lead-lined.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Milil's lead-lined chalice",
+    "fact": "The brass chalice held by the statue of Milil is lead-lined, potentially capable of blocking scrying magic and concealing hidden substances or enchantments.",
+    "source_quote": "Lead-lined. That's not nothing. Wouldn't lead choke off the magic that hunts down a hidden thing, the same way it blinds a scrying?",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "the poisoned book",
+    "fact": "The book given to Janussi by Daral was the vehicle of the poison, chosen for its symbolic and psychological impact to implicate Daral in the murder.",
+    "source_quote": "Poisoned by a book Daral had given him.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is an intelligent ooze with a persistent, hopeful nature, constantly attempting to assist others despite repeated failure, and recently offered to grow a nose to detect poison.",
+    "source_quote": "*I have learned silence,* he said. ... The eye rose again, eager. He'd try. He always tries.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "hidden magic in the chalice",
+    "fact": "The lead-lined chalice of Milil may have been used to conceal a magical substance or enchantment during the Midsummer Wine ceremony, and its purpose remains unverified.",
+    "source_quote": "Perhaps somebody hid something in it.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Glabbagool's sensory evolution",
+    "fact": "Glabbagool is attempting to develop new physical capabilities \u2014 including a nose \u2014 to enhance his utility, raising the question of whether sentient oozes can biologically adapt beyond their original form.",
+    "source_quote": "I doubt this is gonna work,\" I said, \"but can Glabbagool try to grow a nose and get a good smell of the poison?",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "forty minutes of theater",
+    "fact": "Forty minutes of deliberation and roleplay preceded the decision to investigate the apothecary, indicating the pacing of the group\u2019s investigative process.",
+    "source_quote": "Then the decision came, because forty minutes of theater is forty minutes, and you have to move.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is methodically analyzing the lead-lined chalice in the dining hall, recognizing its potential to obstruct magical detection and suspecting it may hold hidden evidence.",
+    "source_quote": "I clocked it and kept it.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Apothecary",
+    "fact": "The apothecary is the next destination for investigation, where the nature of the poison used in Janussi\u2019s murder may be identified.",
+    "source_quote": "It seems like at least one of us should check out the apothecary,\" I said. \"Learn more about the poison.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Garden Shadow",
+    "fact": "The Garden Shadow is a known philosophical or ideological group, referenced for the saying that the most dangerous person is the one who has already decided they've won.",
+    "source_quote": "The Garden Shadow had a saying \u2014 or maybe it was Brother Tervin... that the most dangerous person in a room isn't the one with the blade drawn. It's the one who has already decided they've won.",
+    "quote_verified": false
+  }
+]

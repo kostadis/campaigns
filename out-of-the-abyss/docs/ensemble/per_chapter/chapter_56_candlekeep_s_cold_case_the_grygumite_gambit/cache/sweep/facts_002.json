@@ -1,0 +1,149 @@
+[
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is referenced by the continuing speaker as the one who observed Glabbagool's assessment and noted the chamber's structural details, and who later questioned Bookwyrm's timing in volunteering information about Kalan's resignation.",
+    "source_quote": "I watched him do it and thought: *at least we have that.*",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Fembris",
+    "fact": "Fembris is the guide who led the tour of the Bastion, described the Astronomicon and Drakonoikos, and named the Dragon Breath Simulation Chamber with warning tone.",
+    "source_quote": "\"Behold, the great library.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep's Bastion",
+    "fact": "Candlekeep's Bastion contains three visible archways, one service passage, one guarded door to the north, oil paintings on every staircase, busts on pedestals at each landing, heavy tapestries, and the Drakonoikos structure built from enormous scales and bones.",
+    "source_quote": "Exits: three visible archways, one service passage, one guarded door to the north. Foot traffic: light, scholars moving in pairs, nobody moving fast. No elevated positions. No obvious coverage points.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Drakonoikos",
+    "fact": "Drakonoikos is a structure built from enormous scales and bones worked into the walls, where the early light hits the scales and they hold it.",
+    "source_quote": "The structure was built from scales \u2014 actual scales, enormous, overlapping \u2014 and bones worked into the walls where another building would have used stone.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Astronomicon",
+    "fact": "Astronomicon is a stack of blue globes ascending in scale, pale against the white sky, said to contain everything known about the stars.",
+    "source_quote": "A stack of blue globes, ascending in scale, pale against the white sky.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Dragon Breath Simulation Chamber",
+    "fact": "Dragon Breath Simulation Chamber is a chamber inside the Bastion where one of the Avowed died, requiring the Keeper's permission for access.",
+    "source_quote": "One of the Avowed had died in it, he said, which was why the Keeper's permission was now required.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Chapter House",
+    "fact": "Chapter House contains twelve chairs around a twelve-sided table, a rose window throwing colored light across the stone floor, and western gables pressing down overhead.",
+    "source_quote": "The Chapter House was exactly as described \u2014 twelve chairs around a twelve-sided table, rose window throwing colored light across the stone floor, western gables pressing down overhead like a building that took itself seriously.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm is the green dragonborn who proposed delegating the investigation to the party, offered vague but workable remuneration terms, and revealed that Janussi had asked Kalan to resign before his death.",
+    "source_quote": "\"Let's be calm ourselves\u2026\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch is the gate warden with a gray-white beard and piercing blue eyes, who was asked to resign by Janussi and later entered the Chapter House after the council's decision.",
+    "source_quote": "Then Kalan Strongbranch walked in.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "A'lai Aivenmore",
+    "fact": "A'lai Aivenmore is the tall, handsome council member with a braided beard who advocated for restoring leadership to Candlekeep and decided the fastest resolution was best.",
+    "source_quote": "\"We must have the vote and restore leadership to Candlekeep.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is the speaker who introduced himself as founder of the Grygumite School, negotiated remuneration for the investigation, and referenced Poirot and Colombo.",
+    "source_quote": "\"I am the head of the Grygumite School. Founder, in fact.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is the speaker who proposed remuneration in books, referenced Poirot and Colombo, and insisted on carte blanche access to the library.",
+    "source_quote": "\"Are we supposed to investigate if we can't poke around?\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is the one who noted Bookwyrm\u2019s timing in volunteering information about Kalan\u2019s resignation and asked what type of work Kalan was negligent in.",
+    "source_quote": "What type of work was he negligent in?",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep's Library",
+    "fact": "Candlekeep's Library is a place where books are copied at the House of the Binder upon successful completion of an investigation, and where full access is requested but initially withheld.",
+    "source_quote": "One book each, copied at the House of the Binder, upon successful completion.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is a sword housed in its scabbard that claimed to have been found in a tomb after two thousand years.",
+    "source_quote": "Dawnbringer, housed in her scabbard, took the opportunity to note that we must surely be the greatest discoverers of all, having found her tomb after two thousand years.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Janussi's Death",
+    "fact": "Janussi, the Keeper of Tomes, was found dead, and on the morning of his death, he had asked Kalan Strongbranch to tender his resignation due to concerns about mental faculties and negligence.",
+    "source_quote": "Janussi, the morning before his death, had asked Kalan to tender his resignation. Mental faculties. Negligence.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Investigation Delegation",
+    "fact": "The Council of Twelve delegated the investigation of Janussi's death to the party, citing fate and divine intervention, and agreed to provide one book each upon successful completion.",
+    "source_quote": "\"seekers who the gods have sent us\"",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Remuneration Negotiation",
+    "fact": "The party negotiated for remuneration in the form of one book each from the library, and demanded full access to the library as a condition of the investigation.",
+    "source_quote": "\"We need an all-access library card.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "House of the Binder",
+    "fact": "House of the Binder is the location where books are copied for the party upon successful completion of the investigation.",
+    "source_quote": "One book each, copied at the House of the Binder, upon successful completion.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm is the one who revealed that Janussi had asked Kalan to resign and later stated, \"I had nothing to do with it,\" when asked where she was.",
+    "source_quote": "\"I can assure you, I had nothing to do with it.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is the one who noted that Bookwyrm\u2019s volunteered information about Kalan\u2019s resignation was given before anyone asked, and who later questioned the nature of Kalan\u2019s negligence.",
+    "source_quote": "I filed that immediately \u2014 not the content, the timing.",
+    "quote_verified": true
+  }
+]

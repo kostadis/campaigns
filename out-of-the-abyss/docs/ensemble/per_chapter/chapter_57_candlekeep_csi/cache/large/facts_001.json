@@ -1,0 +1,135 @@
+[
+  {
+    "type": "npc",
+    "subject": "Janussi, Keeper of the Tome",
+    "fact": "Janussi was alive when his nose was broken and his tooth chipped, indicating an assault prior to death; he was writing in blue ink moments before being killed; his heart was removed post-mortem with surgical precision; he died from ingestion of a mysterious black substance that poisoned him while reading.",
+    "source_quote": "He had been taking notes when this happened. Writing hand, fresh stains. A man interrupted at work.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz performed a meticulous forensic analysis of the body, identifying the tempo of the killer as deliberate and unhurried; he noted the black substance on Janussi\u2019s finger and lip was not ink, but something darker and unknown; he reconstructed the sequence of death: poisoning, fall, desecration.",
+    "source_quote": "The skill wasn't in identifying the substance. It was in knowing, with certainty, what it was not.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum applied his healer\u2019s expertise to determine the broken nose and bruising occurred before death; he identified the chain impression and broken lead links on Janussi\u2019s neck as evidence of a locket forcibly removed; he ruled out robbery by noting the untouched treasury and only one sapphire stolen.",
+    "source_quote": "The dead don't mark. The body has to be defending itself to make a bruise, and a corpse defends nothing.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir analyzed the ink sequence and parchment, determining Janussi\u2019s final written act was research in *The Discoveries* using fresh blue ink; he questioned the nature of the black substance and connected it to possible magical poisoning; he noted the relevance of the tobacco pipe as a potential concealment tool.",
+    "source_quote": "The blue ink on *The Discoveries* had been laid down after the blue ink on another book. *The Golden Ass.*",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin observed the darts in the armchair and noted their target was not the body, suggesting an unexplained outburst of force; he raised concerns about the statue\u2019s candle, revealing his superstition and fear of animated magic objects.",
+    "source_quote": "I don't want it to wake up and attack us. I've had, you know, had bad experiences.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Tadric",
+    "fact": "Tadric was visibly unnerved by Thorin\u2019s warnings about the statue\u2019s candle, demonstrating his vulnerability to psychological manipulation and fear of the unknown.",
+    "source_quote": "He tried not to look at the candle and then could not stop looking at the candle.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "The Keepers of Candlekeep",
+    "fact": "The Keepers maintained a secure, magically protected archive; Janussi\u2019s role as Keeper implied access to rare and dangerous knowledge; the presence of sealed spell pouches and rare components suggests the institution was a center for advanced arcane research.",
+    "source_quote": "Material components, every pouch a spell \u2014 and he murmured, 'a little bit of this, a little bit of that.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "murder of Janussi",
+    "fact": "Janussi was assaulted (broken nose), poisoned (black substance ingested while reading), fell forward (chipped tooth), and was then murdered (heart removed, body repositioned) \u2014 all in a sequence spanning minutes to hours, with the killer returning after death to desecrate the body.",
+    "source_quote": "Died on his face. Got turned over by his killer. The sequence had a horrible tidiness to it.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Keeper's Chamber",
+    "fact": "The chamber contained a desk with spellbooks, a safe with untouched treasure and one missing sapphire, a toppled statue of A'lai Aivenmore, an armchair with three force-dart impacts, a silver pedestal, an ebony pipe with cherry tobacco, and a tea table \u2014 all preserved in the state left by the killer.",
+    "source_quote": "The room itself kept volunteering details.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "black substance",
+    "fact": "A dark, unknown material that stained Janussi\u2019s finger, lip, and tongue; not ink, not poison easily identifiable even by Glabbagool; likely a magical toxin absorbed through contact with a cursed page.",
+    "source_quote": "When even a creature that has eaten the Underdark can't place a poison, you've learned the poison is worth being afraid of.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "missing sapphire",
+    "fact": "One sapphire was taken from the safe, while four others and a king\u2019s ransom in gold, diamonds, and potions remained untouched \u2014 indicating the killer sought a specific component for a sapphire-based spell, not wealth.",
+    "source_quote": "Someone is trying to build a sapphire spell, a spell that requires a sapphire.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "broken lead chain links",
+    "fact": "Two broken lead links found on Janussi\u2019s neck, worn from long-term use; evidence of a locket or amulet forcibly removed post-assault but pre-mortem.",
+    "source_quote": "Something had hung there, and someone had torn it off him.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "ebony pipe with cherry tobacco",
+    "fact": "A finely carved pipe with cherry tobacco residue; likely used to mask the odor of the black poison, suggesting the killer or the victim anticipated or concealed magical toxicity.",
+    "source_quote": "Tobacco smoke would hide the smell of poison. Of course it would.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "statue of A'lai Aivenmore",
+    "fact": "A three-foot marble statue of a hooded bearded man holding a candle, toppled near the armchair; it had been knocked over by A'lai Aivenmore upon discovering the body, not by magic or force.",
+    "source_quote": "The Great Reader A'lai Aivenmore had knocked it over in shock when he found the body at dawn.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "force-dart impacts on armchair",
+    "fact": "Three circular punctures in the armchair back and scattered horsehair; darts of pure force fired with intent but missed the target \u2014 suggesting an emotional outburst directed at the chair, not the victim.",
+    "source_quote": "Somebody had been furious. But not at the keeper \u2014 those darts never miss their mark, and the man bore no such marks.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "identity of the killer",
+    "fact": "The killer had intimate knowledge of the safe\u2019s combination, access to the chamber, and a specific goal \u2014 to silence Janussi permanently and steal a single sapphire for a spell; they struck before death, returned after, and were patient enough to desecrate the body without haste.",
+    "source_quote": "Who had been certain enough to want him silent on both sides of death.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "nature of the black substance",
+    "fact": "The black material is not natural poison, not ink, and not recognizable even by an ooze that has consumed the Underdark \u2014 suggesting it is a rare, possibly sentient or cursed substance tied to forbidden magic or a living spell.",
+    "source_quote": "That was the entire point of the long look \u2014 not that the finger was stained, but that the stain was *wrong*.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "purpose of the sapphire spell",
+    "fact": "The stolen sapphire was likely for a spell capable of binding, silencing, or reanimating the dead \u2014 possibly to prevent Janussi\u2019s soul from answering questions beyond death, aligning with the heart\u2019s removal.",
+    "source_quote": "Whoever had done this had not wanted Janussi answering questions on the other side of the veil.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "time of death",
+    "fact": "Janussi was assaulted and poisoned between dinner and his death, with the final act occurring within the same evening \u2014 the broken nose and tooth chip occurred before the heart was removed, and the ink on *The Discoveries* was the last thing written before death.",
+    "source_quote": "Within the evening \u2014 Janussi had eaten dinner with his face intact and his teeth whole.",
+    "quote_verified": true
+  }
+]

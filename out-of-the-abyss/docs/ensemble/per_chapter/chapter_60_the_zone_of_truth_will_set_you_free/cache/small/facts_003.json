@@ -1,0 +1,100 @@
+[
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is assembling a framework for truth-seeking based on fixed facts over magical deception, rejecting the myth that the dead or magic reveal truth transparently, and values convergence of physical, testimonial, and procedural evidence.",
+    "source_quote": "You cannot rely on magic to make evidence meaningful. It makes evidence adversarial.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum contributed the maxim 'Once you have eliminated the impossible, whatever remains, however unlikely, must be the truth?' as his own insight to the group, though Thorin recognizes it as borrowed, and Grygum's dignity in claiming it is respected by the group.",
+    "source_quote": "Once you have eliminated the impossible, whatever remains, however unlikely, must be the truth?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Elian",
+    "fact": "Elian provides academic and textual support for the group\u2019s methodology, citing documents that argue magic creates contradictions rather than resolving them, and is eager to apply new principles to the investigation.",
+    "source_quote": "The myth of the person. The assumption that death is a transparency, that the dead have shed their performances...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir identified a temporal inconsistency in Sylvira\u2019s appearances \u2014 a two-hour gap between sightings \u2014 and deduced that a polymorph spell alone cannot explain it, indicating the use of something more complex or multiple applications of magic.",
+    "source_quote": "The Sylvira lookalike had been seen in the kitchens around one in the morning. She'd been seen coming down the stairs between two and three. That's a minimum two-hour gap. A polymorph spell lasts an hour.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Fembris Lancer",
+    "fact": "Fembris Lancer operates with monastic urgency, immediately taking initiative to hunt down Kalan Strongbranch without hesitation, embodying the art of the clean dispatch and showing no friction between decision and action.",
+    "source_quote": "I'm gonna have to hunt Kalan down... At some point I'll return with Kalan.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch, the First Reader, is the only known caster of the truth-seeking spell that previously anchored the investigation, and his current absence has become a critical point in the group\u2019s operational split.",
+    "source_quote": "Who can cast the truth spell? Yeah \u2014 Kalan Strongbranch.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sylvira",
+    "fact": "Sylvira is the subject of an unresolved anomaly: a lookalike has been sighted in two locations within a timeframe that defies standard polymorph spell duration, indicating deception beyond simple magic.",
+    "source_quote": "The Sylvira lookalike had been seen in the kitchens around one in the morning. She'd been seen coming down the stairs between two and three.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Dragonborn",
+    "fact": "Dragonborn share a conversational quality that removes layers of performance and introduction, allowing for direct, unmediated exchange \u2014 a dynamic Thorin intends to leverage with Alkrist.",
+    "source_quote": "Dragonborn to Dragonborn? Intimate... yeah, I'm fine with that.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "splitting the leads",
+    "fact": "The group split their investigative efforts cleanly: Grygum to investigate the third-story apartment in Janussi\u2019s chambers, Fembris to locate Kalan Strongbranch, and Thorin to address Sylvira\u2019s anomaly \u2014 each pursuing a distinct thread with no overlap.",
+    "source_quote": "Somebody go talk to Alkrist... I'm gonna go look into that... I'm gonna have to hunt Kalan down... We should do that.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "third-story apartment in Janussi's chambers",
+    "fact": "The third-story apartment in Janussi\u2019s chambers is an unvisited location where the wrapping paper from the poisoned book was taken; it holds physical evidence about Kalan that has not yet been examined.",
+    "source_quote": "The wrapping paper from the poisoned book had been taken there, and we hadn't gone back.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "polymorph spell",
+    "fact": "The polymorph spell has a known duration of one hour, which is insufficient to explain the two-hour gap between sightings of the Sylvira lookalike, indicating the use of something beyond standard magic.",
+    "source_quote": "A polymorph spell lasts an hour.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the Sylvira anomaly",
+    "fact": "A mystery persists regarding the Sylvira lookalike: her appearances violate known magical constraints, suggesting the use of an unknown or repeated magical effect, and remains unresolved despite the group\u2019s growing understanding.",
+    "source_quote": "Something more is going on here.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the missing truth spell caster",
+    "fact": "Kalan Strongbranch\u2019s absence creates a critical gap in the investigation, as he is the only known caster of the truth-seeking spell that previously anchored the case, and his location is now the focus of Fembris\u2019s mission.",
+    "source_quote": "Who can cast the truth spell? Yeah \u2014 Kalan Strongbranch.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session time anchor",
+    "fact": "The events described occur during a single investigative session, anchored by the morning\u2019s initial observations and progressing through afternoon developments without temporal jump.",
+    "source_quote": "The ground wasn't as solid as it had looked this morning.",
+    "quote_verified": true
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "type": "npc",
+    "subject": "Asha Vandree",
+    "fact": "Asha Vandree is a paranoid devotee of Lolth who has reframed the wizard's deception as a divine test of her discernment, believing herself to have passed it, and later suspects the wizard and his familiar are infected by Zuggtmoy's spores rather than deceived or divinely touched.",
+    "source_quote": "Aha, you are trying to test me, to see if I was one of those fake followers of Lolth, who are willing to believe every charlatan magic user that is somehow being possessed by the power of Lolth.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a gelatinous cube who has failed at the simple task of remaining motionless and silent as a cavern feature, instead talking, opening his eyes, and tracking movement \u2014 thereby disrupting the wizard's performance and revealing his inability to play the role of a rock.",
+    "source_quote": "I heard the reminder that invisible rocks do not speak. I heard \u2014 I am fairly certain I heard \u2014 the small wet sound of him opening his eyes, which then began tracking left and right with the particular energy of someone who absolutely cannot help himself.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a drow who recognizes and is deeply affected by the silent erasure of drow social warfare \u2014 the deliberate treatment of a person as furniture \u2014 and reflects on its enduring emotional weight.",
+    "source_quote": "There is a particular kind of silence that drow society uses as a weapon... I have spent enough time among my own kind to recognise it immediately. It never gets easier to absorb.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a gelatinous cube encountered as a hazardous companion who has failed to maintain concealment, actively disrupting a performance by speaking, moving, and exhibiting awareness \u2014 rendering him a liability rather than a prop.",
+    "source_quote": "I heard the reminder that invisible rocks do not speak. I heard \u2014 I am fairly certain I heard \u2014 the small wet sound of him opening his eyes, which then began tracking left and right with the particular energy of someone who absolutely cannot help himself.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "the spider",
+    "fact": "The spider is a real, physical familiar used as the anchor of an illusionary performance, witnessed by Asha Vandree before any claims of divine possession, and later used to ground the wizard's claim in observable fact rather than abstract assertion.",
+    "source_quote": "I came to you in my smaller form, and led you here. You should know the truth.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Dancing Lights",
+    "fact": "The Dancing Lights are an illusion shaped into the silhouette of the Spider Queen, used to create the impression of divine presence, and later integrated into the spider\u2019s form to reinforce the illusion\u2019s authenticity.",
+    "source_quote": "I was already weaving the lights around it \u2014 not frantically... but with the quiet precision of someone who has thought this through to the fourth step.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Zuggtmoy's spore infection",
+    "fact": "Asha Vandree has proposed a new theory that the wizard\u2019s performance is not deception or divine communion but the result of fungal infection by Zuggtmoy \u2014 introducing a layer of cosmic madness that reframes the entire encounter as a tragedy of possession rather than a con.",
+    "source_quote": "Have you two been infected by the spores, possessed by the crazed magic of Zuggtmoy? convinced of the bride's power? Is this another trick of Ilvara's?",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Ilvara's deception",
+    "fact": "Asha Vandree suspects Ilvara may be involved in the illusion, suggesting the performance could be another trick of the Spider Queen\u2019s rival \u2014 introducing a factional conflict into what was meant to be a solo act of divine mimicry.",
+    "source_quote": "Is this another trick of Ilvara's?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "performance of divine communion",
+    "fact": "The wizard performed an illusionary act of communion with Lolth using a spider and Dancing Lights, intending to deceive Asha Vandree into believing he was a vessel of the Spider Queen \u2014 but the performance was reinterpreted by Asha as a divine test, then as a fungal infection.",
+    "source_quote": "I am\u2026 you are not speaking to the wizard of this body. I\u2026 he\u2026 this body has communed with Lolth. And I\u2026 I am speaking through this body.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "the fungal floor of the Underdark",
+    "fact": "The fungal floor of the Underdark is the setting for the wizard\u2019s performance, where the spider scurries and the Dancing Lights condense \u2014 a place of decay and magic where perception is unstable and spores may corrupt the mind.",
+    "source_quote": "The spider scurried back across the fungal floor toward me on cue... The luminescence built. Condensed.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Lolth's followers",
+    "fact": "Lolth's followers are a fractured group of devotees, some genuine, others charlatans, whose paranoia leads them to suspect all manifestations of the Spider Queen\u2019s power as either deception or infection \u2014 making them extremely difficult to deceive or convince.",
+    "source_quote": "you are trying to test me, to see if I was one of those fake followers of Lolth, who are willing to believe every charlatan magic user that is somehow being possessed by the power of Lolth.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Zuggtmoy's influence",
+    "fact": "Zuggtmoy\u2019s influence is perceived as a fungal madness that corrupts perception, causing victims to believe in false deities or divine visions \u2014 a threat that has redefined Asha Vandree\u2019s interpretation of the wizard\u2019s act from deception to infection.",
+    "source_quote": "Have you two been infected by the spores, possessed by the crazed magic of Zuggtmoy?",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occur during Chapter 46, titled 'Fungus Among Us', marking a session in which the boundaries between deception, divinity, and madness collapse.",
+    "source_quote": "# Chapter 46 Fungus Among Us",
+    "quote_verified": true
+  }
+]

@@ -4,7 +4,7 @@ title: Music as Empirical Treatment
 created: 2026-06-15
 updated: 2026-05-27
 tags: [therapy, sensory-intervention, empirical-evidence, non-magical-healing, therapeutic-technology, non-magical-intervention, psychological-care]
-related: [dabbledob, vukradin, music-as-metaphor-for-cosmic-order, fibblestib, sanity-ray, straitjacket-solution]
+related: ["dabbledob", "vukradin", "music-as-metaphor-for-cosmic-order", "fibblestib", "technology-as-cure", "straitjacket-solution"]
 sources: ["npcs/dabbledob.md", "npcs/fibblestib.md"]
 ---
 # Music as Empirical Treatment

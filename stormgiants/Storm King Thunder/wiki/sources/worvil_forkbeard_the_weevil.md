@@ -1,8 +1,8 @@
 ---
 type: source
 title: "Source: worvil_forkbeard_the_weevil.md"
-created: 2026-05-13
-updated: 2026-05-13
+created: 2026-06-06
+updated: 2026-06-06
 sources: ["worvil_forkbeard_the_weevil.md"]
 tags: []
 related: []
@@ -10,91 +10,36 @@ related: []
 
 # Source: worvil_forkbeard_the_weevil.md
 
-### Key Entities
+## Key Entities
 
-- **Worvil Forkbeard ("The Weevil" / "Larg")**
-  - Type: Person
-  - Role: Fugitive dwarf, career criminal, caravan intelligence broker
-  - Peripheral
-  - Likely already exists in the wiki
+| Name | Type | Role | Status |
+| :--- | :--- | :--- | :--- |
+| **Worvil Forkbeard** | NPC (Dwarf) | Central; a high-value criminal and "information broker" whose capture provides the party with a significant bounty. | New Entity |
+| **The Weevil / Larg** | Alias | Alternative names for Worvil; used to establish his identity as a career criminal. | New Entity |
+| **Axe of Mirabar** | Organization | The faction that issued the 5,000 gp bounty on Worvil. | New Entity |
+| **Xaltivar** | NPC/Entity | A mysterious figure who launched a raid specifically to capture Worvil; his motives remain unknown. | New Entity |
+| **Guard Sergeant Herald** | NPC (Human?) | The Mirabar official who identified Worvil and sentenced him to the mines. | New Entity |
+| **Darz** | NPC | Provided the initial intelligence on Worvil's location as a "retirement job." | Existing |
+| **Unla Kee** | Party Member | Captured and transported Worvil; views him with contempt. | Existing |
+| **Orsik** | Party Member | Targeted by Worvil for a bribe regarding caravan patterns; refused the offer. | Existing |
+| **Thistle_wendrod** | Party Member | Assisted in the physical subdual of Worvil at the tavern. | Existing |
+| **Harshnag** | NPC/Ally | A legendary ally who participated in the hunt for the bounty. | Existing |
+| **Vardis** | Party Member | Participated in the combat to capture Worvil. | Existing |
 
-- **Xaltivar**
-  - Type: Person
-  - Role: Leader of the Axe of Mirabar
-  - Central
-  - Likely already exists in the wiki
+## Key Concepts
 
-- **Darz**
-  - Type: Person
-  - Role: Source of intelligence on Worvil's location
-  - Peripheral
-  - Likely already exists in the wiki
+| Name | Definition | Significance | Status |
+| :--- | :--- | :--- | :--- |
+| **Information as Currency** | The practice of trading secrets (e.g., caravan patterns) for freedom or safety. | Defines Worvil's role as a "broker" rather than a typical thief; highlights his desperation. | New Concept |
+| **Narrative Reframing** | A tactic where an individual attempts to spin their situation (e.g., "saving him from evil") to manipulate others. | Highlights the psychological layer of interaction between the party and criminals. | New Concept |
+| **Contractual/Bounty Logic** | The use of a formal bounty system as a primary driver for party progression and reward. | Establishes the legal/economic stakes in the region of Mirabar. | Existing (related to "contractual-morality") |
+| **Identity Verification** | The process by which authorities confirm identity via physical traits (beard braiding) or records. | Highlights the transition from a mobile criminal to a captured prisoner. | New Concept |
 
-- **Unla Kee**
-  - Type: Person
-  - Role: Member of the party
-  - Peripheral
-  - Likely already exists in the wiki
+## Main Arguments & Findings
+*   **The Value of Information:** Worvil is not just a thief; he is an information broker. His primary "weapon" is his knowledge of logistics (the caravan movement patterns), which makes him valuable even in defeat.
+*   **Successful Extraction:** The party successfully executed a high-value bounty hunt, transitioning from the "hunt" phase to the "reward" phase.
+*   **Ambiguous Antagonism:** The fact that both **Xaltivar** and a group of **Bugbears** were hunting him suggests he is a significant player in the underworld, though his specific cri
 
-- **Orsik**
-  - Type: Person
-  - Role: Member of the party
-  - Peripheral
-  - Likely already exists in the wiki
+## Related
 
-- **Herald (Guard Sergeant)**
-  - Type: Person
-  - Role: Authority figure in Mirabar
-  - Peripheral
-  - Likely already exists in the wiki
-
-- **Bugbears**
-  - Type: Organizational entity
-  - Role: Rivals of Worvil
-  - Peripheral
-  - Likely already exists in the wiki
-
-### Key Concepts
-
-- **Bounty Hunting**
-  - Definition: Pursuit of individuals by a faction for a reward
-  - Importance: Illustrates the economic incentives driving criminal activities and law enforcement
-- **Identity Denial**
-  - Definition: Efforts to mislead or deceive about one’s true identity
-  - Importance: Demonstrates the complexity of criminal operations and the need for caution in dealing with such individuals
-
-### Main Arguments & Findings
-
-- **Core Claims:**
-  - Worvil Forkbeard is a fugitive dwarf who has been the target of a 5,000 gp bounty from the Axe of Mirabar.
-  - He was captured by the party during a raid on Xanthalar's Keep and subsequently handed over to Mirabar authorities.
-  - His claimed knowledge of the movement pattern of ore caravans out of Mirabar's mines is a potential asset to the party but remains unverified.
-
-- **Evidence Supporting Claims:**
-  - Personal accounts from Darz, who provided the initial intelligence on Worvil's location.
-  - Direct interaction with the party members, including attempts to bribe Orsik.
-  - Official confirmation from the guard sergeant Herald that Worvil is imprisoned in the mines.
-
-- **Strength of Evidence:**
-  - The evidence is direct and corroborated by multiple sources, making it strong.
-
-### Connections to Existing Wiki
-
-- **Existing Pages:**
-  - [[Xanthalar's Keep]], [[Xaltivar]], [[Axe of Mirabar]], [[Bugbears]], [[Wanted Posters]], [[Caravan Intelligence Broker]]
-
-- **Impact:**
-  - This source provides new details about Worvil's capture and the nature of the bounty, which can be integrated into existing pages to enhance the narrative.
-
-### Contradictions & Tensions
-
-- **Internal Tension:**
-  - There is a contradiction between Worvil's calculated behavior and his apparent desperation to escape, suggesting a complex character.
-
-### Recommendations
-
-- **Create or Update:**
-  - [[Worvil Forkbeard]], [[Xanthalar's Keep]], [[Xaltivar]], [[Axe of Mirabar]], [[Bugbears]], [[Wanted Posters]], [[Caravan Intelligence Broker]]
-
-- **Emphasize:**
-  - 
+- [[worvil_forkbeard_the_weevil]]

@@ -12,6 +12,13 @@ Character; peripheral, initially resisted to Halisa's demands. Freed Halisa thro
 
 ## Connections to Existing Wiki
 - [[halisa]]
-- [[tree-protection-schedule-d]]
-- [[seelie-court]]
+- [[the-party]]
+- [[fey-court-structure]]
 - [[dryads]]
+
+## Related
+
+- [[sprite-emissary]]
+- [[queen-titania]]
+- [[taunt]]
+- [[punishment]]

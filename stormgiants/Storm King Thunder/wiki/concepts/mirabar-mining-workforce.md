@@ -12,3 +12,7 @@ sources: ["fruf.md"]
 - **Key Members:** Fruf, Thistle, Orsik.
 - **Role:** Primary actors in the narrative, including Fruf's interactions with Thistle and Orsik.
 - **Context:** Post-shift meal setting, where Fruf's actions influence the narrative.
+
+## Related
+
+- [[fruf]]

@@ -28,3 +28,7 @@ Tibor and the entire population of the [[logger-camp]] vanished unexpectedly. Al
 * **[[vukradin]]**: Had an outstanding financial arrangement with Tibor. He reacted with a "soft warning sound" when Tibor's name was mentioned, suggesting knowledge of his illicit activities.
 * **Logging Crews**: Hired workers who were largely unaware of the illegal nature of the operation but intended to report the activities to the city.
 * **Shrimpy**: A prisoner whose transport to Neverwinter Tibor refused to facilitate.
+
+## Related
+
+- [[tibor-wester]]

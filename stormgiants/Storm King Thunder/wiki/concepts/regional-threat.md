@@ -17,3 +17,9 @@ Concept referring to Bad Fruul and Gralm. Central to the narrative and operation
 ## Notes
 - Mentioned by Hsing.
 - Central to the SEER's conflict and operations.
+
+## Related
+
+- [[gralm]]
+- [[conflict]]
+- [[strategic-importance]]

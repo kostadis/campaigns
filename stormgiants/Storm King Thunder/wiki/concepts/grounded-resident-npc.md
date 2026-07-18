@@ -4,7 +4,7 @@ title: Grounded-resident-npc
 created: 2026-06-15
 updated: 2026-06-15
 tags: [npc-design, narrative-economy, realism, non-dramatic-character]
-related: [dazlyn-grayshard, norbus-ironrune, cooragh-struckt, barthen, backes-dunfield]
+related: ["dazlyn-grayshard", "norbus-ironrune", "barthen", "backes-dunfield"]
 sources: ["npcs/dazlyn_grayshard.md"]
 ---
 # Grounded-resident-npc
@@ -17,4 +17,4 @@ This archetype contrasts with the campaign’s dominant tropes: the tragic, the 
 
 This concept extends [[narrative-economy]]: maximum depth with minimal exposition. It also redefines [[background-npc]] — not all minor NPCs are inert. Some are quietly alive.
 
-See also: [[dazlyn-grayshard]], [[norbus-ironrune]], [[cooragh-struckt]], [[barthen]], [[narrative-economy]], [[background-npc]]
+See also: [[dazlyn-grayshard]], [[norbus-ironrune]], cooragh-struckt, [[barthen]], [[narrative-economy]], [[background-npc]]

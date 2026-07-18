@@ -28,13 +28,13 @@ related: []
 - **Strength of Evidence**: Strong, supported by direct description and context within the narrative.
 
 ### Connections to Existing Wiki
-- **Existing Pages Related**: [[great-worm-tribe]], [[shaman]], [[ambush]], [[arc-score-events]], [[temple-of-annam]].
+- **Existing Pages Related**: [[the_shaman_great_worm_tribe]], [[shaman]], [[ambush]], [[arc-score-events]], [[annam_the_oracle]].
 - **Impact on Existing Knowledge**: Provides additional context about the Great Worm Tribe's tactics and the Shaman's role within their group.
 
 ### Contradictions & Tensions
 - **Internal Tension**: The Shaman's decision to flee could be seen as contradictory to their role as a spiritual leader and warrior, suggesting potential internal conflicts within the tribe.
 
 ### Recommendations
-- **Pages to Create or Update**: [[shaman]], [[great-worm-tribe]], [[ambush]], [[arc-score-events]], [[temple-of-annam]].
+- **Pages to Create or Update**: [[shaman]], [[the_shaman_great_worm_tribe]], [[ambush]], [[arc-score-events]], [[annam_the_oracle]].
 - **Emphasis**: Emphasize the Shaman's role and motivations, as well as the broader implications of their actions.
 - **Open Questions**: Investigate further into the Shaman's background and the reasons behind their decision to flee.

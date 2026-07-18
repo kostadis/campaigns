@@ -15,6 +15,11 @@ Blasius falsely accused Oblivillish of killing the sacred stag, triggering the l
 
 His only authentic emotional bond is with Unla Kee, whom he gifts with a [[ring-of-jumping]], sings with, and drinks beside. He treats others as tools or distractions. He leverages his former title to bypass magical barriers (e.g., [[fey-portal-bypass]]), avoids close combat, and prefers to fight from cover with a bow.
 
-Blasius orchestrated a [[vision-quest]] that granted the party the ability to neutralize poison once per quest. He celebrates victories loudly, disappears during danger, and uses drinking as both social lubricant and psychological evasion — a cultural mechanism unique to Seelie Court dynamics.
+Blasius orchestrated a [[vision-quests]] that granted the party the ability to neutralize poison once per quest. He celebrates victories loudly, disappears during danger, and uses drinking as both social lubricant and psychological evasion — a cultural mechanism unique to Seelie Court dynamics.
 
 He is not a villain, nor a hero, but a tragic figure: self-aware, manipulative, and emotionally isolated — except for one true connection.
+
+## Related
+
+- [[prince-thornacious]]
+- [[oblivillish]]

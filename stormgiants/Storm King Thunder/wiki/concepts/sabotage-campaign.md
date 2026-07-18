@@ -17,3 +17,7 @@ The Sabotage Campaign is a series of incidents targeting Parnast's infrastructur
 
 ## Impact
 The Sabotage Campaign has significant impacts on Parnast, causing unrest and mistrust among its inhabitants. It serves as a backdrop for Gundalin's evolving role and the complex interplay between internal and external factors affecting the town.
+
+## Related
+
+- [[seer]]

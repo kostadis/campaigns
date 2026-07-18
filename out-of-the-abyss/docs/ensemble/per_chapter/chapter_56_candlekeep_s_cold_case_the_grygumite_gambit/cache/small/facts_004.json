@@ -1,0 +1,142 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is the head and founder of the Grygumite School, and arrived at the Chapter House as an uninvited guest, observed and categorized by the Council of Twelve as an unknown arrival with no provenance.",
+    "source_quote": "I am the head of the Grygumite School. Founder, in fact.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Fembris",
+    "fact": "Fembris is a weary guide who led Zalthir through the Bastion, named the dragon-scale structure after a visible effort, and warned of the Dragon Breath Simulation Chamber, noting that an Avowed had died inside and Keeper\u2019s permission is now required.",
+    "source_quote": "Fembris warned us about the Dragon Breath Simulation Chamber inside. One of the Avowed had died in it, he said, which was why the Keeper's permission was now required.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a companion of Zalthir who remarked on the gleam of the dragon scales in the sunrise and later described the deadly chamber as 'a great game to play,' revealing a dismissive, theoretical attitude toward lethal danger.",
+    "source_quote": "That sounds like a great game to play,\" Grygum said. \"Later.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Council of Twelve",
+    "fact": "The Council of Twelve is the governing body of Candlekeep, currently in uproar over the murder of a colleague, the absence of Sylvira Savikas, and competing proposals about leadership succession, gatekeeper accountability, and internal order.",
+    "source_quote": "We must have the vote and restore leadership to Candlekeep.\" ... \"First, we must find the murderer!\" ... \"why isn't Sylvira Savikas here?",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "A'lai Aivenmore",
+    "fact": "A'lai Aivenmore is a tall, braided-bearded member of the Council of Twelve who advocates for restoring leadership to Candlekeep, presenting with smooth confidence that suggests prior preparation or mastery of performance.",
+    "source_quote": "We must have the vote and restore leadership to Candlekeep.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Dowdy Halfling",
+    "fact": "The dowdy halfling with pince-nez is a meticulous but disoriented council member who prioritizes procedural legitimacy \u2014 seeking confirmation of whether Janussi named a successor \u2014 even amid chaos.",
+    "source_quote": "First, we must determine if Janussi named a successor\u2014",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Slender Human",
+    "fact": "The slender human with heavy wrinkles is a sharp-voiced council member who correctly identifies the murder as the primary issue, demonstrating clarity amid the Council\u2019s fragmentation.",
+    "source_quote": "First, we must find the murderer!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Bronze Dragonborn",
+    "fact": "The bronze dragonborn in bejeweled robes is a powerful, self-aware council member who blames the gate warden and is prepared to prosecute institutional failure with theatrical authority.",
+    "source_quote": "The gate warden needs to be dismissed with immediate effect! This happened on HIS watch!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daral",
+    "fact": "Daral is a sour-faced council member who draws attention to the absence of Sylvira Savikas, and when confronted by Zalthir, immediately suspects unauthorized access and questions the legitimacy of his presence.",
+    "source_quote": "why isn't Sylvira Savikas here?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm is a green dragonborn council member, visibly shaken and exhausted from prolonged wakefulness after the murder, attempting to restore calm but failing to control the escalating discord.",
+    "source_quote": "Let's be calm ourselves\u2026",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Bastion",
+    "fact": "The Bastion is a fortified structure built with enormous overlapping dragon scales and bones instead of stone, housing the Dragon Breath Simulation Chamber where an Avowed died, and is now under strict Keeper-controlled access.",
+    "source_quote": "The structure was built from scales \u2014 actual scales, enormous, overlapping \u2014 and bones worked into the walls where another building would have used stone.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Chapter House",
+    "fact": "The Chapter House is a twelve-sided chamber with twelve chairs, a rose window, and western gables, serving as the meeting place of the Council of Twelve; it has a single visible entrance, no apparent secondary exit, and is guarded by a purple-robed watcher.",
+    "source_quote": "twelve chairs around a twelve-sided table, rose window throwing colored light across the stone floor, western gables pressing down overhead...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Dragon Breath Simulation Chamber",
+    "fact": "The Dragon Breath Simulation Chamber is a training or testing facility within the Bastion where an Avowed died, now classified as lethal and accessible only with Keeper\u2019s explicit permission.",
+    "source_quote": "Fembris warned us about the Dragon Breath Simulation Chamber inside. One of the Avowed had died in it, he said, which was why the Keeper's permission was now required.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "murder of Janussi",
+    "fact": "The murder of Janussi, a senior council member, has triggered a crisis within the Council of Twelve, sparking competing agendas, blame-shifting, and the urgent search for the killer.",
+    "source_quote": "First, we must find the murderer!",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "absence of Sylvira Savikas",
+    "fact": "The unexplained absence of Sylvira Savikas is a persistent thread in the Council\u2019s deliberations, implying either her involvement in the murder, her knowledge of it, or her political vulnerability.",
+    "source_quote": "why isn't Sylvira Savikas here?",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "unauthorized access to the Chapter House",
+    "fact": "Zalthir\u2019s presence in the Chapter House raises a thread of suspicion \u2014 who granted him access, and does that reflect a deeper breach in the Council\u2019s security or hierarchy?",
+    "source_quote": "who gave you access, and should I object to them.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Dragon of Some Age and Significance",
+    "fact": "An ancient dragon, whose scales and bones were incorporated into the Bastion\u2019s walls, is now a structural element \u2014 its lethal nature repurposed as containment, suggesting a ritual or magical transformation.",
+    "source_quote": "Fyrentennimar, Fembris finally produced the name after a pause and a visible effort, dragon of some age and significance, now a wall.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Avowed",
+    "fact": "The Avowed are an elite order associated with the Bastion, entrusted with training or testing in its lethal chambers; one member died in the Dragon Breath Simulation Chamber, indicating extreme danger.",
+    "source_quote": "One of the Avowed had died in it, he said, which was why the Keeper's permission was now required.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Underdark",
+    "fact": "The Underdark is a treacherous subterranean realm characterized by drop-offs, uneven rubble, and tunnels requiring prolonged crawling \u2014 its dangers are physical, unpredictable, and often fatal.",
+    "source_quote": "The Underdark does not offer gentle grades; what it offers is drop-offs, uneven rubble, tunnels that require you to crawl for twenty minutes before opening into a space large enough to stand, ledges over nothing where the fall is long and the landing is not the concern because something will have found you by the time you get there.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "arrival of Zalthir\u2019s party",
+    "fact": "Zalthir and his companions arrived at the Chapter House unannounced, were immediately categorized by the Council as unknown arrivals with no provenance, and disrupted the Council\u2019s crisis protocol with the introduction of an unfamiliar ideological framework.",
+    "source_quote": "They cataloged us immediately \u2014 orc, dragonborn, dwarf, drow \u2014 and sorted us into the correct drawer: arrivals. unknown provenance. examine.",
+    "quote_verified": false
+  }
+]

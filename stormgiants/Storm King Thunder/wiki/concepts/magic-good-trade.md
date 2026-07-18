@@ -9,3 +9,9 @@ sources: ["klauth.md"]
 ---
 # Magic Good Trade
 Trade network involving magical goods. Klauth operates through this network, leveraging it to support his operations and gain allies.
+
+## Related
+
+- [[reward-system]]
+- [[magic-items]]
+- [[magical-goods-trade]]

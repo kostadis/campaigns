@@ -4,7 +4,7 @@ title: Shapeshifter Threat as Symbolic Fear
 created: 2026-06-15
 updated: 2026-06-15
 tags: [fear, identity, distrust, symbolism, epistemic-crisis]
-related: [king-korboz, dual-monarchy, warren, orrin, gnomengarde, madness-as-political-vulnerability]
+related: ["king-korboz", "kobold-kingdom", "warren", "orrin", "gnomengarde", "madness-as-political-vulnerability"]
 sources: ["npcs/king_korboz.md"]
 ---
 # Shapeshifter Threat as Symbolic Fear
@@ -16,3 +16,7 @@ Gnomengarde, as a society built on rationality, invention, and bureaucratic orde
 Korboz’s madness may be the symptom, but the shapeshifter is the metaphor. His insistence on its existence is not irrational — it is prophetic. The fact that Gnercli and the inventors dismiss it as fantasy reveals their unwillingness to confront the erosion of trust within their own ranks. The ambiguity surrounding the shapeshifter is not a narrative flaw — it is the point. The greatest threat to Gnomengarde is not a creature, but the collapse of shared reality.
 
 This concept extends the theme of [[ambiguous-sentience]] into the political sphere: when identity cannot be trusted, governance cannot function.
+
+## Related
+
+- [[shapeshifter-threat-kobold-kingdom]]

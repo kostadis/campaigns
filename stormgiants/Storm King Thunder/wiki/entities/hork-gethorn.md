@@ -25,3 +25,8 @@ A meat pie shop owner in Mirabar, Hork Gethorn is a central figure in the narrat
 
 ## Arc Score Events
 None recorded.
+
+## Related
+
+- [[meat-pie-shop-owner]]
+- [[hork_gethorn]]

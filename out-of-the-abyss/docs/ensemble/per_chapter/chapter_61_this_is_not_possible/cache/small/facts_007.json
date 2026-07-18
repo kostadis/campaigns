@@ -1,0 +1,86 @@
+[
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz was nearly knocked unconscious by a single blow and carried a key that emitted no magical signature, which attracted the attention of the helmed horrors.",
+    "source_quote": "I may drink a healing. Which is Daz's way of telling you he was one bad swing from the floor.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum possesses multiple healing and resurrection spells, including Revivify, and became the new target of the helmed horrors after receiving the key from Daz.",
+    "source_quote": "I've got plenty of heal spells, buddy... I also have Revivify, so we're covered either way.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir grappled the final helmed horror, granting advantage to the attacker, and deduced the key's magical resonance was being tracked by the constructs.",
+    "source_quote": "If you're trying to hit him, you have advantage, because I grappled him... When Grygum handed the key to Daz \u2014 who saw it? Fembris.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Fembris",
+    "fact": "Fembris was present when the key was first observed and is the only known witness to its prior state before the ambush.",
+    "source_quote": "When Grygum handed the key to Daz \u2014 who saw it? Fembris. Standing right there with the four of us.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Builders of the Helmed Horrors",
+    "fact": "The builders deliberately designed the helmed horrors to be mute and mindless, ensuring no interrogation was possible \u2014 they were chosen precisely to eliminate witnesses and resist manipulation.",
+    "source_quote": "A killer with no mouth and no mind \u2014 whoever built these chose them precisely so there'd be nobody to squeeze afterward.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Ambush of the Helmed Horrors",
+    "fact": "Three helmed horrors breached the chamber through the windows, targeting the key in Daz\u2019s pocket, and were systematically destroyed after shifting focus when the key changed hands.",
+    "source_quote": "Three suits of murderous plate had come through the windows to die for it.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Chamber of Ambush",
+    "fact": "The chamber was breached through its windows, littered with shattered glass, dust, and the remains of three destroyed helmed horrors, now reduced to rust and loose plate.",
+    "source_quote": "Glass on the floor, dust settling, two dead heaps and one silent inert key...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "The Key",
+    "fact": "The key emits no detectable magical signature under any spell, yet is magically tracked by the helmed horrors, suggesting it is a resonant artifact designed to be found only by its intended hunters.",
+    "source_quote": "A key that read as nothing under every spell we'd thrown at it. Dead. Inert.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Helmed Horrors",
+    "fact": "Three helmed horrors, suits of animated plate armor with no mouths or minds, were sent to retrieve the key and were destroyed in combat after shifting targets based on the key\u2019s movement.",
+    "source_quote": "Three suits of murderous plate had come through the windows to die for it... A killer with no mouth and no mind.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Origin of the Key",
+    "fact": "The key's purpose and origin are unknown, but its ability to attract helmed horrors suggests it is a beacon or trigger for a larger, hidden mechanism or network.",
+    "source_quote": "Somebody built these, aimed them, and put them through the windows knowing exactly which pocket to reach for.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Divining Rod Proposal",
+    "fact": "A proposal has been made to repurpose a destroyed helmed horror as a magical divining rod to detect others who possess the key, turning the enemy\u2019s design against itself.",
+    "source_quote": "Can we grab one of them and use it to detect who else has the key? Turn it into a sort of divining rod, as it were.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Session date",
+    "fact": "The events occurred during the ongoing session, following the ambush of the helmed horrors and preceding any further investigation into the key\u2019s origin.",
+    "source_quote": "Quiet, then. Glass on the floor, dust settling...",
+    "quote_verified": false
+  }
+]

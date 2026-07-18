@@ -1,0 +1,548 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session took place on Dec 30th, 2025.",
+    "source_quote": "Date: Dec 30th, 2025",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Maram il Vass",
+    "fact": "Maram il Vass is a Yugoloth who appears as a handsome half-elf to most observers.",
+    "source_quote": "appearing as a handsome half-elf to most",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Maram il Vass",
+    "fact": "Maram il Vass's true form is a seven-foot-tall demon with jaws and claws.",
+    "source_quote": "revealed as a seven-foot-tall demon with jaws and claws",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Maram il Vass",
+    "fact": "Maram il Vass owns a palace with an opulent office and hanging gardens below.",
+    "source_quote": "Maram il Vass's opulent office",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Maram il Vass",
+    "fact": "Maram il Vass has been searching for Felkur for some time.",
+    "source_quote": "he had been searching for Felkur for some time",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Maram il Vass",
+    "fact": "Maram il Vass made a deal with a devil who seeks Felkur.",
+    "source_quote": "he had made a deal with a devil who sought Felkur",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Maram il Vass",
+    "fact": "Maram il Vass owes a specific magical item to another demon.",
+    "source_quote": "retrieve a specific magical item that Maram il Vass owed to another demon",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur used his magical abilities to create two sets of armor.",
+    "source_quote": "Felkur had used his magical abilities to create two sets of armor",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur claimed the armor sets came from bandit camps and a raided castle.",
+    "source_quote": "He claimed the sets came from bandit camps and a raided castle",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur crafted a no-betrayal clause into the contract with Maram il Vass.",
+    "source_quote": "Felkur then crafted a no-betrayal clause",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur suggested sealing the deal with a magical binding ritual.",
+    "source_quote": "Felkur suggested sealing the deal with a magical binding ritual",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur receives additional protection against fear while under the terms of the contract.",
+    "source_quote": "granting Felkur additional protection against fear while under its terms",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein rolled a natural 20 on a deception check.",
+    "source_quote": "Daein rolls a natural 20 on a deception check",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein wove Maram il Vass's suggestion about Graz'zt's Chosen into the party's story.",
+    "source_quote": "Daein seized the opportunity and wove the suggestion into their story",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein recognized Chasme Demons as intelligent taskmasters from the Abyss.",
+    "source_quote": "Daein recognized them as intelligent taskmasters from the Abyss",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein shouted for the drow prisoner during the battle.",
+    "source_quote": "Daein shouted for the drow prisoner",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein attacked a Chasme Demon with his longsword.",
+    "source_quote": "Daein charged forward with his longsword, striking one of the demons repeatedly",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein used Action Surge to make additional attacks.",
+    "source_quote": "calling upon his reserves of strength for additional attacks",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim used enhanced sight to reveal Maram il Vass's true form.",
+    "source_quote": "revealed as a seven-foot-tall demon with jaws and claws to Bramgrim's enhanced sight",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim called upon radiant energy to strike at the demons.",
+    "source_quote": "Bramgrim called upon radiant energy to strike at the demons",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim summoned a spectral weapon to aid in the fight.",
+    "source_quote": "summoning a spectral weapon to aid in the fight",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim cast Spirit Guardians to damage the demons and slow their movements.",
+    "source_quote": "Bramgrim called forth spectral guardians that swirled around him in a protective aura, damaging the demons and slowing their movements",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim directed his spectral weapon to shatter the chain holding a cage.",
+    "source_quote": "directed his spectral weapon to strike at the chain holding one of the cages, and it shattered",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim took a critical strike from a Chasme Demon's proboscis.",
+    "source_quote": "taking a vicious critical strike from the demon's proboscis",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim's life force was damaged by the critical strike.",
+    "source_quote": "dealt massive damage to both his body and his life force",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim disengaged and fled up the stairs with the others.",
+    "source_quote": "He disengaged and fled up the stairs with the others",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas marked a Chasme Demon with her hunter's focus.",
+    "source_quote": "Akritas marked one of the demons with her hunter's focus",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas loosed arrows at the marked demon.",
+    "source_quote": "before loosing arrows at it",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas was telepathically threatened with terror and pain by a Chasme Demon.",
+    "source_quote": "telepathically threatening Akritas with promises of terror and pain",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas repositioned herself and continued her barrage of arrows.",
+    "source_quote": "Akritas repositioned herself and continued her barrage of arrows",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Xaven Tanor'this",
+    "fact": "Xaven Tanor'this is a drow prisoner held in a cage in the hanging gardens.",
+    "source_quote": "retrieve their prisoner",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Xaven Tanor'this",
+    "fact": "Xaven Tanor'this was freed from the cage by the party.",
+    "source_quote": "freed drow, Xaven Tanor'this",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Teegan",
+    "fact": "Teegan was enslaved for five years by Maram il Vass.",
+    "source_quote": "Teegan's revelation about being enslaved for five years",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Teegan",
+    "fact": "Teegan escaped enslavement by Maram il Vass.",
+    "source_quote": "escaped enslavement by Maram il Vass",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Drystan",
+    "fact": "Drystan was enslaved by Maram il Vass.",
+    "source_quote": "traumatized commoners Teegan and Drystan who had escaped enslavement by Maram il Vass",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Gabberforth",
+    "fact": "Gabberforth is a deep gnome guard.",
+    "source_quote": "Gabberforth, the deep gnome guard",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Chasme Demon",
+    "fact": "A Chasme Demon spoke in a disturbing polyphonic voice that buzzed and clicked.",
+    "source_quote": "speaking in a disturbing polyphonic voice that buzzed and clicked",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Chasme Demon",
+    "fact": "A Chasme Demon taunted Bramgrim about finding the weakness in his stony exterior.",
+    "source_quote": "taunting him about finding the weakness in his stony exterior",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Chasme Demon",
+    "fact": "A Chasme Demon attempted to attack Akritas with its proboscis.",
+    "source_quote": "lunged at her with its proboscis",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Chasme Demon",
+    "fact": "A Chasme Demon commented that Maram il Vass would need new guardians.",
+    "source_quote": "commenting that Maram il Vass would need new guardians for his prisoners",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Hag",
+    "fact": "Three hags arrived to take over guard duty.",
+    "source_quote": "three hags arriving to take over guard duty",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Hag",
+    "fact": "The hags muttered complaints about the quality of hired help.",
+    "source_quote": "mutting complaints about the quality of hired help",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Chasme Demon",
+    "fact": "Two Chasme Demons appeared in the cavern.",
+    "source_quote": "Two Chasme Demons appeared",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Chasme Demon",
+    "fact": "Chasme Demons are covered in buzzing insects.",
+    "source_quote": "their bodies covered in buzzing insects",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Chasme Demon",
+    "fact": "Chasme Demons have resistance to fire, cold, and lightning.",
+    "source_quote": "resistance to fire, cold, and lightning",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Chasme Demon",
+    "fact": "Chasme Demons produce a droning sound that causes necrotic damage.",
+    "source_quote": "necrotic droning sound they produced",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Chasme Demon",
+    "fact": "One Chasme Demon flew toward Bramgrim.",
+    "source_quote": "One demon flew toward Bramgrim",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Chasme Demon",
+    "fact": "The Owlbear lashed out with its claws, tearing into the Chasme Demon's flesh.",
+    "source_quote": "the Owlbear lashed out with its claws, tearing into the creature's flesh",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Chasme Demon",
+    "fact": "One Chasme Demon fell and dissolved into dust.",
+    "source_quote": "One demon fell, dissolving into dust",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Chasme Demon",
+    "fact": "The remaining Chasme Demon telepathically threatened Akritas.",
+    "source_quote": "telepathically threatening Akritas with promises of terror and pain",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Chasme Demon",
+    "fact": "The remaining Chasme Demon attacked Bramgrim with a critical hit.",
+    "source_quote": "vicious critical strike from the demon's proboscis",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Owlbear",
+    "fact": "An Owlbear stood ready to strike during the battle.",
+    "source_quote": "The Owlbear stood ready to strike",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Owlbear",
+    "fact": "The Owlbear grabbed the falling chain and held it steady.",
+    "source_quote": "The Owlbear heroically grabbed the falling chain and held it steady",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Owlbear",
+    "fact": "The Owlbear lowered the prisoner's cage to safety.",
+    "source_quote": "As the Owlbear carefully lowered the prisoner's cage",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Graz'zt's Chosen",
+    "fact": "Rumors exist of Graz'zt's Chosen being killed in Hillsfar.",
+    "source_quote": "rumors of Graz'zt's Chosen being killed in Hillsfar",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Maram il Vass's office",
+    "fact": "The party stood in Maram il Vass's opulent office.",
+    "source_quote": "The party stood in Maram il Vass's opulent office",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Hanging Gardens",
+    "fact": "Maram il Vass directed the party to the hanging gardens below to retrieve the prisoner.",
+    "source_quote": "directed them to the hanging gardens below to retrieve their prisoner",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Underground Chamber",
+    "fact": "The party emerged into a vast underground chamber one hundred feet tall.",
+    "source_quote": "emerged into a vast underground chamber, one hundred feet tall",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Underground Chamber",
+    "fact": "The chamber was bathed in the eerie pale glow of luminescent fungus.",
+    "source_quote": "bathed in the eerie pale glow of luminescent fungus clinging to the ceiling",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Underground Chamber",
+    "fact": "Heavy chains ran the length of the cavern, suspending numerous cages.",
+    "source_quote": "Heavy chains ran the length of the cavern, suspending numerous cages",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Storage Room",
+    "fact": "The party descended through a storage room filled with empty containers.",
+    "source_quote": "descended through a storage room filled with empty containers",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Magical Armor Sets",
+    "fact": "Felkur created two sets of armor that would appear genuine for eight hours.",
+    "source_quote": "create two sets of armor, which would appear genuine for the next eight hours",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Key",
+    "fact": "Maram il Vass handed the party a key to the hanging gardens.",
+    "source_quote": "Maram il Vass handed them a key",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Key",
+    "fact": "The party took the key from the door.",
+    "source_quote": "The party takes the key from the door",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Cage",
+    "fact": "A cage containing the prisoner was suspended by a chain.",
+    "source_quote": "suspending numerous cages from floor to ceiling",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Armor Presentation",
+    "fact": "The party presented two magically created armor sets to Maram il Vass.",
+    "source_quote": "The party presents two magically created armor sets to Maram il Vass",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Deception Success",
+    "fact": "Daein successfully deceived Maram il Vass about the armor's origin.",
+    "source_quote": "successfully deceives Maram il Vass about the armor's origin",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Descent",
+    "fact": "The party descended a long staircase from worked stone to rough cavern walls.",
+    "source_quote": "down a long staircase that transformed from worked stone to rough cavern walls",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Chasme Encounter",
+    "fact": "The party heard screaming and the sound of creatures rushing toward them.",
+    "source_quote": "they heard screaming and the sound of creatures rushing toward them",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Battle Start",
+    "fact": "Battle erupted in the cavern.",
+    "source_quote": "Battle erupted in the cavern",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Chain Shattering",
+    "fact": "Bramgrim's spectral weapon shattered the chain holding a cage.",
+    "source_quote": "it shattered under the magical assault",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Demon Defeat",
+    "fact": "One Chasme Demon was defeated and dissolved into dust.",
+    "source_quote": "One demon fell, dissolving into dust",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Tactical Retreat",
+    "fact": "The party made the tactical decision to retreat rather than continue the fight.",
+    "source_quote": "The party made the tactical decision to retreat rather than continue the fight",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Hag Arrival",
+    "fact": "Three hags arrived to take over guard duty.",
+    "source_quote": "glimpsed three hags arriving to take over guard duty",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Contract Negotiation",
+    "fact": "Felkur engaged in an intense negotiation with Maram il Vass.",
+    "source_quote": "Felkur, with encouragement from Daein, engaged in an intense negotiation with the master of contracts",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Contract Finalization",
+    "fact": "The contract was finalized with magical force.",
+    "source_quote": "The contract was finalized with magical force",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Felkur's Stolen Item",
+    "fact": "Maram il Vass revealed he had been searching for Felkur connected to an item the artificer allegedly stole.",
+    "source_quote": "connected to an item the artificer had allegedly stolen",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Mysterious Item Retrieval",
+    "fact": "Felkur is bound to retrieve a specific magical item that Maram il Vass owes to another demon.",
+    "source_quote": "binding him to retrieve the mysterious item that Maram il Vass required",
+    "quote_verified": true
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session date is recorded as April 12th, 2026.",
+    "source_quote": "Date: Apr 12th, 2026",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "corridor length",
+    "fact": "The corridor leading to the vault door is fifty feet long.",
+    "source_quote": "fifty-foot corridor",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "trap mechanism",
+    "fact": "The traps in the corridor are laid upon tiles corresponding to prime numbers.",
+    "source_quote": "traps were laid upon tiles corresponding to prime numbers",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "vault temperature",
+    "fact": "The vault chamber is kept at a constant 55 degrees Fahrenheit.",
+    "source_quote": "constant 55 degrees Fahrenheit",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "transaction ID",
+    "fact": "Felkur's past sale is recorded as Transaction 44781 in the Lexicon of Oaths.",
+    "source_quote": "Transaction 44781",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "blood alcohol content",
+    "fact": "Felkur's blood alcohol content was noted at 0.18% during the sale.",
+    "source_quote": "blood alcohol content noted at a remarkable 0.18%",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "sale price",
+    "fact": "The priceless brooch was sold for the sum of forty-five gold pieces.",
+    "source_quote": "forty-five gold pieces",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "sale price summary",
+    "fact": "Felkur sold a priceless artifact for 45 gold pieces.",
+    "source_quote": "sold a priceless artifact for 45 gold",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "loophole condition",
+    "fact": "The contract with Maram il Vass is null and void if the Lexicon no longer contains the information needed to identify Felkur.",
+    "source_quote": "if the Lexicon no longer contained the information needed to identify him, the contract was null and void",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "recalibration time",
+    "fact": "Felkur needs a few more precious minutes to finish his work on the portal.",
+    "source_quote": "Felkur needed only a few more precious minutes to finish his work",
+    "quote_verified": true
+  }
+]

@@ -15,3 +15,8 @@ A method of psychological and magical manipulation used by [[the-cult-fanatic]] 
 - **Targeting:** Used to turn members of the [[emerald-enclave]] into robotic, precise minions.
 - **Persistence:** The compulsion was tied to the caster's life force; captives remained under control even if the caster was rendered unconscious.
 - **Termination:** The effect was immediately broken upon the death of the manipulator.
+
+## Related
+
+- [[mental-domination]]
+- [[psionic-manipulation]]

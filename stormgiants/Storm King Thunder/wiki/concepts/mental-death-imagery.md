@@ -17,3 +17,11 @@ Technique used by Hsing to intimidate Orsik. Central to the narrative and operat
 ## Notes
 - Used by Hsing to intimidate Orsik.
 - Central to Hsing's authority and strategy.
+
+## Related
+
+- [[regional-threat]]
+- [[region]]
+- [[mission]]
+- [[secret-organization]]
+- [[patron-adjacent-figure]]

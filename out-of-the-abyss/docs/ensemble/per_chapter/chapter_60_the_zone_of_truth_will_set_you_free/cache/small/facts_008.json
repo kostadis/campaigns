@@ -1,0 +1,128 @@
+[
+  {
+    "type": "npc",
+    "subject": "Alkrist",
+    "fact": "Alkrist confessed to poisoning Janussi by applying midnight tears to a book, and later washed his hands in water after the act to remove traces, but did not kill Janussi directly. He claims he was under mind control and forced to speak truths against his will.",
+    "source_quote": "I didn't actually kill him. I just put some poison on a book.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "A'lai",
+    "fact": "A'lai was the one who set the plot in motion by giving Alkrist a reason to want Janussi dead, likely through a performance review that dismissed him and condemned his germ warfare research.",
+    "source_quote": "Then the performance review with Janussi: dismissed, told his germ warfare research was dangerous and should be stopped, told he showed no leadership potential.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm was appalled by Alkrist's actions, argued with him, stormed off, and later became a suspect in Janussi\u2019s death due to her access to powerful magic and her emotional reaction to the poisoning.",
+    "source_quote": "Appalled, he said. She had been appalled, and they argued, and then she was gone.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is an institution where powerful spells, including polymorph, are accessible to those with sufficient standing, implying that no single individual like Bookwyrm needed to be uniquely responsible for the heart-ripping transformation.",
+    "source_quote": "At Candlekeep, finding such a spell was simply a matter of calling up the right avowed to bring you a scroll from somewhere.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Janussi's final day",
+    "fact": "On his final day, Janussi delivered verdicts to Alkrist, A'lai, and Bookwyrm \u2014 each independently giving them motive to want him dead \u2014 through budget reviews, performance evaluations, and succession disputes.",
+    "source_quote": "By the end of his last day alive, Janussi had managed to hand Bookwyrm, Alkrist, and A'lai, separately, apparently without coordination, reasons to want him gone.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Tashalian Nights",
+    "fact": "Tashalian Nights was the book used to conceal the poison, specifically marked at the 'midnight tears' passage, annotated and bookmarked by Alkrist as a reference point for his plan.",
+    "source_quote": "Tashalian Nights,\" he said. \"Yes, yes, yes \u2014 that would, that would exactly\u2014",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Midnight tears",
+    "fact": "Midnight tears is a deadly poison, applied to a book and later transferred to Janussi\u2019s body, leaving traces on the margins of Tashalian Nights and on Alkrist\u2019s hands.",
+    "source_quote": "Midnight tears. Tidy, annotated, marked: the margins of a man who had been studying rather than reading.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Oak Tree Apothecary",
+    "fact": "The Oak Tree Apothecary was the location where the stolen vial of midnight tears was originally obtained, and where peppermint was spilled on the counter floor during the cover-up.",
+    "source_quote": "The Oak Tree Apothecary, the stolen vial, peppermint spilled on the counter floor.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Dead Winter tree",
+    "fact": "The Dead Winter tree was used as a symbolic location to attach the torn vial label as decoration, part of the cover-up to obscure the method of poisoning.",
+    "source_quote": "The vial's label torn off and tied to the back of the Dead Winter tree as decoration.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Janussi's death",
+    "fact": "Janussi died after being transformed \u2014 his heart ripped out \u2014 likely via a polymorph spell, but not directly by Alkrist\u2019s poison. The poison may have weakened him or served as a trigger.",
+    "source_quote": "Ripped out his heart? What? His heart was ripped out?",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "unknown orchestrator",
+    "fact": "Someone else \u2014 not Alkrist, A'lai, or Bookwyrm \u2014 knew about the chalice\u2019s hidden purpose and likely orchestrated the final transformation, suggesting a fourth or higher-level conspirator.",
+    "source_quote": "Someone had known about the chalice: what it was for, what could be hidden inside it, why no one would think to look there without specific reason. That someone was not Alkrist.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "mind control claim",
+    "fact": "Alkrist claims he was under mind control during his confession, a claim that was acknowledged but not verified, leaving the authenticity of his testimony in ambiguous territory.",
+    "source_quote": "I am under mind control, and everything I have said is so true.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz concluded the investigation, documented the confession, and recognized that Alkrist\u2019s account implicated at least three people, with Kalan as a witness who now holds a complete record.",
+    "source_quote": "The confession had gone into the account, and there was nothing left to dispute.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan",
+    "fact": "Kalan, the man who had been fired, stood outside during Alkrist\u2019s confession and now holds a complete and unfiltered account of the plot\u2019s mechanics.",
+    "source_quote": "Kalan had been standing just outside through all of it, which meant the man who'd been fired now held a rather complete account.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Brother Quellin's quote",
+    "fact": "The phrase 'They all stabbed him' \u2014 attributed possibly to Brother Quellin or Brother Harren \u2014 frames Janussi\u2019s death as the result of collective betrayal, not individual action.",
+    "source_quote": "They all stabbed him, came the answer.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Midnight visit to Bookwyrm",
+    "fact": "Alkrist visited Bookwyrm at midnight, brought two bottles of wine and two glasses, announced their problems with Janussi were solved, and left as she stormed off in anger.",
+    "source_quote": "The midnight visit to Bookwyrm: two bottles of the finest wine, two glasses, and the announcement that all their problems with respect to Janussi had been solved.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Chalice",
+    "fact": "The chalice was a hidden vessel with a secret purpose, likely used to conceal the transformation mechanism or the final trigger for Janussi\u2019s death, known only to an unknown third party.",
+    "source_quote": "Someone had known about the chalice: what it was for, what could be hidden inside it, why no one would think to look there without specific reason.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "collective betrayal",
+    "fact": "Janussi\u2019s death was not the act of one killer, but the culmination of multiple independent motives converging \u2014 a model of political assassination where the victim becomes the architect of his own demise.",
+    "source_quote": "Janussi had spent his last day in a library full of people who had already decided, and he had offered each of them one more reason on his way through.",
+    "quote_verified": true
+  }
+]

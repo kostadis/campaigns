@@ -4,7 +4,7 @@ title: Victim of Dominance
 created: 2026-06-15
 updated: 2026-06-15
 tags: [ethics, domination, agency, tragedy]
-related: ["cryovain", "domination-as-weaponization", "the-carver", "blagothkus", "mental-amplifier-artifact"]
+related: ["cryovain", "domination-as-weaponization", "blagothkus", "mental-amplifier-artifact"]
 sources: ["npcs/cryovain.md"]
 ---
 # Victim of Dominance
@@ -16,3 +16,7 @@ Cryovain is the canonical example: a white dragon whose mind was not suppressed,
 This distinction is ethically critical. Victims of dominance are not monsters — they are corpses walking. Killing them is not a victory, but a mercy that comes too late. The party’s decision to kill Cryovain despite Soma’s plea highlights a moral failure: they acted to survive, not to save.
 
 The concept challenges assumptions about dragon resilience and soul integrity. It suggests that some dominations are irreversible — not because the victim is weak, but because the mechanism is designed to erase, not control.
+
+## Related
+
+- [[mental-domination]]

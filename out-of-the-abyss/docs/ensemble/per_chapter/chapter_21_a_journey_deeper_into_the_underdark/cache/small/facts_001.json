@@ -1,0 +1,142 @@
+[
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a cleric of Bahamut who believes dragons are defined by choice, not scale color, and thus reject the notion of inherently good or evil dragons.",
+    "source_quote": "I am a cleric of Bahamut, and I am drawn to this egg.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Plinki",
+    "fact": "Plinki is a derro who believes she has completed a ritual to infuse a stolen egg with a demon\u2019s spirit in honor of Demogorgon, and mistakenly views Grygum as a fellow cultist.",
+    "source_quote": "A cleric of Bahamut to see my creation! Excellent! Then it has worked!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir has enveloped the top tier of the mesa in magical darkness and is physically attacking the derro, seeking to stop the ritual.",
+    "source_quote": "The Drow hates dragons and will destroy the egg if you do not back down!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a companion of Grygum who mocks the situation with crude humor, asking about the egg\u2019s potential as a dragon omelet.",
+    "source_quote": "What would a dragon omelet taste like? And would this one have two yolks?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is one of Grygum\u2019s companions who follows him at a distance, but does not speak or act independently in this scene.",
+    "source_quote": "",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "The Derro (group)",
+    "fact": "Six derro have surrounded Grygum at the egg, acting under Plinki\u2019s command to complete the ritual using a cleric\u2019s heart.",
+    "source_quote": "six.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Grey Ghosts",
+    "fact": "The Grey Ghosts are a group responsible for stealing the egg from the Keepers of the Flame before Plinki acquired it.",
+    "source_quote": "The Grey Ghosts stole it from the Keepers of the Flame.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Keepers of the Flame",
+    "fact": "The Keepers of the Flame were the original guardians of the egg before it was stolen by the Grey Ghosts.",
+    "source_quote": "The Grey Ghosts stole it from the Keepers of the Flame.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "The Red Egg",
+    "fact": "The red egg is a corrupted magical artifact infused with a demon\u2019s spirit by Plinki, intended as an offering to Demogorgon, and radiates palpable evil.",
+    "source_quote": "The egg.\" \"Its size and vibrant color made it a focal point... And even from afar, he can sense it\u2019s corruption.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "The Jet-Black Obelisk",
+    "fact": "The fifty-foot-tall obelisk is a magical artifact made of jet-black metal, inscribed or attuned to the faerzress, and responds to derro interaction with flashes of light.",
+    "source_quote": "The obelisk.\" \"Upon closer inspection, he could discern a few noticeable imperfections marring its otherwise flawless surface.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "The Small Notebook",
+    "fact": "A small notebook used by Plinki to record observations and ritual progress related to the obelisk and egg.",
+    "source_quote": "she produced a small notebook and began to diligently write something within its pages",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "The Sturdy Bridge",
+    "fact": "A bridge spanning the two topmost tiers of the mesa, enabling access between them and central to the ritual\u2019s spatial layout.",
+    "source_quote": "linked by a sturdy bridge that spanned the distance between them.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Cavern of the Mesa",
+    "fact": "A vast, glowing cavern in the Underdark, illuminated by faerzress and bioluminescent fungi, containing a central rocky mesa with ramps, tiers, an obelisk, and an egg.",
+    "source_quote": "a colossal cavern, a breathtaking space illuminated by an eerie, pervasive glow... a substantial rocky mesa... ramps... obelisk... egg.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "The Top Tier of the Mesa",
+    "fact": "The uppermost platform of the mesa, where the egg and obelisk are located, now shrouded in Zalthir\u2019s magical darkness during the ritual\u2019s climax.",
+    "source_quote": "Zalthir has enveloped the entire top tier in his magical darkness.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Ritual Sealing Attempt",
+    "fact": "Plinki intends to seal her demon-infusion ritual by sacrificing the heart of a cleric of Bahamut, believing it will complete the binding to Demogorgon.",
+    "source_quote": "The beating heart of a cleric of Bahamut will seal the ritual!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Necromantic Claw Activation",
+    "fact": "Grygum, while grappled and surrounded, unleashes a necromantic claw spell aimed at destroying Plinki, invoking cruel power in the name of Bahamut\u2019s true will.",
+    "source_quote": "He utters words of cruel power, rakes his hand through the air before Plinki. Magic follows, forming a great claw that glimmers in the air for the blink of an eye. This necromancy seeks to rend armor, unstitch flesh, crush bone\u2014to do whatever it must to destroy your enemy.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Obelisk Light Pulse",
+    "fact": "The obelisk emits a brief flash of light in response to Plinki\u2019s touch, causing the faerzress to flare, which she interprets as divine confirmation.",
+    "source_quote": "Suddenly, the obelisk emitted a brief flash of light, a pulse that caused the ambient glow of the faerzress within the cavern to momentarily flare in response.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "True Nature of Bahamut\u2019s Clerics",
+    "fact": "Grygum\u2019s unorthodox theology\u2014dragons as beings of free moral choice\u2014clashes with Plinki\u2019s assumption that all Bahamut clerics share her cult\u2019s dogma, creating a dangerous misunderstanding.",
+    "source_quote": "Grygum believes that Dragons have freedom of choice... there is no good or evil dragon because of its scales, but goodness and evil flow from the choices of dragons.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Zalthir\u2019s Motivation",
+    "fact": "Zalthir\u2019s sudden use of darkness and violence against the derro suggests he opposes the ritual, but his deeper intent\u2014protecting the egg, destroying it, or something else\u2014is unresolved.",
+    "source_quote": "Zalthir has enveloped the entire top tier in his magical darkness. Grygum hears the thuds of Zalthir\u2019s fists on the crazed Derro.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "This scene occurs during a session in the Underdark, following the party\u2019s descent into the cavern system.",
+    "source_quote": "",
+    "quote_verified": false
+  }
+]

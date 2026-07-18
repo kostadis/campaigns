@@ -1,0 +1,72 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a shadow monk who disregards formal training in favor of practical survival techniques honed in the Underdark, and was subjected to a trial at Candlekeep where his unorthodox methods were questioned but implicitly validated by their effectiveness.",
+    "source_quote": "You skip the third breath... It is technically wrong in every scroll. And yet, you arrived at your destination three seconds faster than the Grandmaster did.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Khell-Vire",
+    "fact": "Khell-Vire is a two-hundred-year-old half-elven shadow monk lineage keeper at Candlekeep, who has refused an order from the Garden of Shadow eighty years prior and now assesses initiates through existential, experience-based questioning rather than doctrinal recall.",
+    "source_quote": "What were you sent toward? Not why were you sent here?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Blind Monk",
+    "fact": "The Blind Monk is a senior Candlekeep instructor who evaluates Zalthir using rigid formal rubrics, but is forced to confront the reality that Zalthir\u2019s unorthodox, survival-driven techniques outperform canonical methods despite their technical violations.",
+    "source_quote": "You have learned nothing.\" \"Show me what else you haven't learned.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Shadow Monk Lineage",
+    "fact": "The Shadow Monk Lineage at Candlekeep preserves ancient traditions of discipline and ritual, but is internally divided between those who value textual mastery and those who prioritize lived experience, as embodied by Khell-Vire\u2019s approach versus the institutional standard.",
+    "source_quote": "There are monks here in the inner ward who have read everything and fought nothing.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep's Echoing Hall",
+    "fact": "Candlekeep's Echoing Hall, specifically its north inner ward corridors, is a place where sound returns altered \u2014 not as echoes, but as if the library itself is taking notes \u2014 symbolizing the institution\u2019s role as a recorder of knowledge rather than a rigid arbiter of truth.",
+    "source_quote": "Stone corridors in Candlekeep's north inner ward have a habit of returning sound to you slightly altered \u2014 not an echo exactly, more like the library itself was taking notes.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Note on Khell-Vire's Desk",
+    "fact": "A cryptic note on Khell-Vire\u2019s desk \u2014 *Zalthir, the Underdark, until the Bone King sings* \u2014 is an unexplained directive that neither Zalthir nor Khell-Vire can interpret, suggesting a deeper, unresolved thread tied to prophecy or fate.",
+    "source_quote": "*Zalthir, the Underdark, until the Bone King sings.*",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Bone King's Song",
+    "fact": "The phrase 'until the Bone King sings' is an unresolved, possibly prophetic anchor tied to Zalthir\u2019s journey and the Shadow Monk Lineage\u2019s hidden history, with no known origin or meaning in Candlekeep\u2019s records.",
+    "source_quote": "*Zalthir, the Underdark, until the Bone King sings.*",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's Trial",
+    "fact": "Zalthir\u2019s trial at Candlekeep involved a series of tests by Khell-Vire and the Blind Monk, where his noncanonical techniques \u2014 including a punch, unorthodox shadow stepping, and survival-based acrobatics \u2014 were deemed technically incorrect but functionally superior to formal methods.",
+    "source_quote": "You have learned nothing.\" \"Show me what else you haven't learned.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Underdark Curriculum",
+    "fact": "Zalthir\u2019s survival in the Underdark represents an alternative, unrecorded curriculum that contradicts Candlekeep\u2019s formal training \u2014 a hidden path where practicality overrides doctrine, and where learning is measured by survival, not scrolls.",
+    "source_quote": "He had survived the Underdark, which is a different curriculum.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events of Zalthir\u2019s trial occurred during an active session at Candlekeep, with no specific calendar date provided, but contextualized as part of an ongoing lineage assessment cycle.",
+    "source_quote": "I found this genuinely interesting.",
+    "quote_verified": true
+  }
+]

@@ -11,4 +11,10 @@ sources: ["duke_zalto.md"]
 Ironslag is Duke Zalto's stronghold, located east of mountains near a yakfolk village. It serves as the central hub for his operations and is a significant location in the party's quest. The party raided his bedchamber here, recovering the Conch of Teleportation and other valuable items.
 
 ## Related Pages
-- [[dungeon-ironslag]]
+- [[strategy]]
+- [[vonindod]]
+- [[technology]]
+- [[lore]]
+- [[legend]]
+- [[quest]]
+- [[ironslag]]

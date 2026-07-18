@@ -4,7 +4,7 @@ title: Ritualized Questioning
 created: 2026-05-24
 updated: 2026-05-24
 tags: [ritual, ceremony, divine, structure]
-related: [divine-oracle, annam-the-oracle, truth-constraint-mechanism]
+related: ["divine-oracle", "annam-the-oracle-and-annam-the-all-father-of-giants"]
 sources: ["annam_the_oracle.md"]
 ---
 # Ritualized Questioning
@@ -14,3 +14,7 @@ A formalized, ceremonial process for engaging with divine or supernatural entiti
 This practice transforms divine communication from a transaction into a sacred rite. It implies that the Oracle is not merely a voice, but an embodied artifact governed by ancient laws. The ritual enforces discipline on the questioner: it demands patience, respect, and awareness of limits. It also creates dramatic tension — the extinguishing of the final torch ends all access for the day, regardless of intent or urgency.
 
 Ritualized questioning elevates divine encounters from mechanical exchanges to spiritual experiences, reinforcing the theme that truth must be earned, not demanded.
+
+## Related
+
+- [[ritualized-resource-extraction]]

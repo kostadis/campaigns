@@ -57,7 +57,7 @@ related: []
   - **Strength:** Moderate, supported by his behavior but less explicitly detailed.
 
 ### Connections to Existing Wiki
-- **[[mirabar-mines]]**: The Foreman operates within the Mirabar Mines compound, suggesting connections to this page.
+- **[[mirabar-mining-workforce]]**: The Foreman operates within the Mirabar Mines compound, suggesting connections to this page.
 - **[[foremen]]**: The Foreman’s role as a foreman could be linked to this page, detailing various roles and responsibilities.
 
 ### Contradictions & Tensions
@@ -66,7 +66,12 @@ related: []
 
 ### Recommendations
 - **Create or Update Pages:**
-  - [[mirabar-mines]]: To provide context about the location and its inhabitants.
+  - [[mirabar-mining-workforce]]: To provide context about the location and its inhabitants.
   - [[foremen]]: To detail the various roles and responsibilities of foremen in mining operations.
 - **Emphasize:**
   - The Foreman’s cautious yet oppor
+
+## Related
+
+- [[uthor]]
+- [[the_harper_agent]]

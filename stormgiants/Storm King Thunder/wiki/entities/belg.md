@@ -16,3 +16,7 @@ The term “beloved” is unusually emotional in a setting where companions are 
 Belg’s complete ambiguity — the absence of any classification — makes him a narrative void: a potential vessel for later revelation. Was he a spirit-bound animal? A cursed humanoid? A construct of forgotten magic? His death may carry consequences beyond the battlefield — possibly fueling unresolved vengeance, spiritual retribution, or a hidden connection to Joon’s organization or Hsing’s network.
 
 No further details are known. His nature remains intentionally undefined.
+
+## Related
+
+- [[mama-manyknuckles]]

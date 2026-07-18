@@ -4,7 +4,7 @@ title: Reluctant Open-Mindedness
 created: 2026-06-15
 updated: 2026-06-15
 tags: [epistemology, intellectual-integrity, cognitive-flexibility, skepticism]
-related: [dabbledob, evidence-based-pragmatism, anti-interventionism-druidic]
+related: ["dabbledob", "evidence-based-pragmatism", "emerald-enclave"]
 sources: ["npcs/dabbledob.md"]
 ---
 # Reluctant Open-Mindedness
@@ -16,3 +16,7 @@ Dabbledob exemplifies this trait: she dismisses the “sanity ray,” resists sp
 This contrasts with dogmatic adherence (e.g., rigid ideological positions) and blind acceptance (e.g., uncritical adoption of new technologies). It is the opposite of confirmation bias: she is willing to be wrong, but only when the evidence is undeniable.
 
 In narrative design, reluctant open-mindedness creates characters who are neither cynical nor naive, but deeply principled. It is the quiet courage of revising belief—not because it is convenient, but because it is true.
+
+## Related
+
+- [[evidence-based-pragmatism]]

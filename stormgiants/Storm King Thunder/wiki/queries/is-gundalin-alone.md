@@ -11,6 +11,7 @@ sources: ["gundalin_cartwright.md"]
 Is Gundalin Cartwright acting alone in the sabotage campaign? Or is he part of a larger group? What is his true motive?
 
 ## Related Concepts
+- [[what-is-gundalin-s-truth-about-the-sabotage]]
 - **SABOTAGE CAMPAIGN:** The series of incidents targeting Parnast's infrastructure and security.
 - **CULT OF THE DRAGON:** An unknown entity causing unrest in Parnast.
 - **SEER:** The Supreme Elders of the Earth Realm.

@@ -29,7 +29,7 @@ related: []
 
 ### Connections to Existing Wiki
 - **[[goblins]]**: Mohm's role as a goblin leader relates to this page.
-- **[[combat]]**: The fight involving Mohm aligns with combat strategies and tactics.
+- **[[unseelie-combat-strategy-social-manipulation]]**: The fight involving Mohm aligns with combat strategies and tactics.
 - **[[thunderstorms]]**: The trigger for Mohm's presence connects to meteorological phenomena.
 
 ### Contradictions & Tensions
@@ -40,3 +40,7 @@ related: []
 - **Emphasize**: Mohm's role within the goblin community and his immediate impact on the party.
 - **De-emphasize**: Specific details about his background or motivations, as these are unknown.
 - **Open Question**: Investigate if Mohm's presence in the Forgotten Forest had any broader significance or if it was coincidental.
+
+## Related
+
+- [[mohms-death-in-combat-2026-05-13]]

@@ -1,0 +1,142 @@
+[
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a ghost bound to a cluster of bones in a cavern, unable to move more than 30 feet from them. He was murdered and dismembered by Buppido, his former business partner. He seeks help transporting his bones to Blingdenstone and has revealed fragmented knowledge about the Faerzress anomaly and Derro madness.",
+    "source_quote": "He was surprised. He doesn't know how long he's been here. Less than a year? Telling time in this cavern is hard.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a dwarf deeply skeptical of Grygum\u2019s requests. He resents being asked to carry bones without receiving aid or information in return. He has compiled mental notes on the Faerzress anomaly, Buppido\u2019s ties to the Council of Savants, and the possibility of planar disruption. He is determined to extract useful intelligence and shift the dynamic from obligation to collaboration.",
+    "source_quote": "This guy wants us to take his bones to Blingdenstone and hasn\u2019t helped us. Time for this to change.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is an orc who observes and reacts to the ghost\u2019s revelations with curiosity. He is the one who proposes the theory that the Faerzress\u2019s blink may have broken planar boundaries. His insight is met with skepticism by the ghost, but he remains engaged in the mystery, prompting Grygum to reveal further details about the obsidian ring and the hand.",
+    "source_quote": "Then if it blinked, could it have \u2014 I dunno \u2014 broken the walls between the planes?",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a monk who has detached from the chaotic dialogue around the ghost and returned to the cave entrance to pursue the trail of Droki. He is methodical, attuned to environmental clues, and struggles to reconcile his monastic discipline with the absurdity of the party\u2019s interactions. He has identified Droki\u2019s trail, the mushroom-eaten crack in the wall, and the impossibility of passage \u2014 leading him to pause, while Thorin prepares to force entry.",
+    "source_quote": "I don\u2019t see how we go past this.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido is a Derro who murdered and dismembered Grygum, his former supplier, to eliminate competition and gain control over smuggling routes. He is tied to the Council of Savants and sought to bypass Duergar taxes. He experienced a sudden shift in perception after the Faerzress glowed and dimmed, becoming convinced of his own divinity. His actions and mental state are central to the unfolding mystery.",
+    "source_quote": "He promised to prove his point and brought me here.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Droki",
+    "fact": "Droki is a Derro messenger working for the Council of Savants. He is described as peculiar and possibly mad. His well-trodden trail leads to a narrow crack in the wall, flanked by mushrooms \u2014 which he consumed. His behavior suggests ritualistic or altered-state patterns, and his path may be the key to accessing hidden Derro sanctums or escape routes.",
+    "source_quote": "The Derro is a creature of habit.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Council of Savants",
+    "fact": "The Council of Savants is a Derro organization operating in the Underdark. It is involved in smuggling, arcane research, and possibly planar manipulation. Buppido and Droki are affiliated with it. The Council is suspected of exploiting the Faerzress anomaly and may be responsible for inducing madness in its members through exposure or ritual.",
+    "source_quote": "He was working with a faction of Derro known as the Council of Savants.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Duergar",
+    "fact": "The Duergar are a subterranean dwarven race that controls taxation and trade routes in the Underdark. Buppido sought to evade their levies by using Grygum as a supplier and later eliminating him. Their presence is a constant pressure on Derro smuggling operations, and their influence extends into the political and economic structure of the region.",
+    "source_quote": "He needed to move product out of the city without dealing with the Duergar taxes.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Faerzress",
+    "fact": "The Faerzress is an enigmatic magical phenomenon in the Underdark, associated with planar instability, teleportation denial, and madness. It recently underwent a dramatic fluctuation \u2014 glowing brightly, dimming, then returning brighter \u2014 which coincided with Buppido\u2019s descent into delusional divinity. Its nature is unknown, but its behavior suggests it may be a sentient or semi-sentient force tied to the boundaries between planes.",
+    "source_quote": "No one knows what the Faerzress is.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Obsidian Ring",
+    "fact": "An obsidian ring of value is attached to Grygum\u2019s missing hand. It is not magical, but Grygum implies it may have been if it would motivate the party to find the hand. It is a personal artifact of his former life and may bear familial or symbolic significance.",
+    "source_quote": "There is a family ring on it, an obsidian ring of some value. You can keep it if you find the hand.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Cavern of Bones",
+    "fact": "A dark, confined cavern where Grygum\u2019s bones lie, and where he has been bound as a ghost for less than a year. The space is too small to move beyond 30 feet from the bones, and time is difficult to measure here. It is the site of his murder and the origin point of the party\u2019s current quest. The walls are silent, and the air carries the scent of old earth and decay.",
+    "source_quote": "Being unable to move more than 30 feet from your bones makes it harder.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Northern Cavern (Droki\u2019s Trail)",
+    "fact": "A narrow, winding cavern leading from the main cave, marked by Droki\u2019s unmistakable trail. It ends at a crack in the wall too small for passage, flanked by mushrooms that Droki consumed. The crack suggests a hidden mechanism, illusion, or biological adaptation. Zalthir has identified the trail and the mushrooms, but cannot determine how to proceed.",
+    "source_quote": "A well-trodden path ends at a crack in the wall, with mushrooms to either side of the crack.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Cave with Pool of Water (Northeast)",
+    "fact": "A cave located to the northeast of the entrance, containing a pool of water. Its significance is unknown, but it may be a resting point, ritual site, or source of information. Zalthir noted its presence as he returned to the entrance to reorient himself after the ghost\u2019s revelations.",
+    "source_quote": "To the northeast is a cave with a pool of water.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Faerzress Fluctuation",
+    "fact": "A recent and unprecedented event in which the Faerzress glowed intensely, dimmed, then returned brighter than before. This coincided with Buppido\u2019s descent into delusional divinity and may have triggered planar instability. It is the central anomaly linking the murder, the madness, and the potential breach between planes.",
+    "source_quote": "The Faerzress glow was unmistakable. It was almost as if it was being sucked out, and went dark and then came back brighter than before.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum\u2019s Murder",
+    "fact": "Grygum was killed and dismembered by Buppido, his business partner, to eliminate competition and monopolize smuggling routes. His body was scattered, his bones left in the cavern, and his spirit bound to them. His death occurred less than a year ago, and his ghost remains unaware of the full consequences of the Faerzress fluctuation.",
+    "source_quote": "He killed me and cut my body up into the pieces you see here.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Planar Breach Theory",
+    "fact": "Daz has theorized that the Faerzress\u2019s fluctuation may have broken the walls between planes, allowing entities from other dimensions to enter the Underdark. The ghost dismisses this as a ghost story, but the timing of Buppido\u2019s madness, the Derro\u2019s behavior, and the Faerzress\u2019s anomaly suggest a deeper connection. The party has not yet investigated this possibility.",
+    "source_quote": "Then if it blinked, could it have \u2014 I dunno \u2014 broken the walls between the planes?",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Missing Hand",
+    "fact": "Grygum\u2019s hand, bearing an obsidian family ring, is missing and may have wandered away after his death. He claims it went 'off scurrying about,' suggesting supernatural autonomy. The party has not searched for it, but its recovery may yield clues to his identity, Buppido\u2019s motives, or the nature of the ring.",
+    "source_quote": "There is a family ring on it, an obsidian ring of some value. You can keep it if you find the hand.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Blingdenstone\u2019s Role",
+    "fact": "Grygum insists that Blingdenstone is the party\u2019s exit point and advises them to avoid references to Lolth, Menzoberranzan, and the number eight or spiders. This implies Blingdenstone has a political or religious stance opposed to those entities, and that the party\u2019s journey beyond the cavern depends on navigating these taboos.",
+    "source_quote": "The city of Blingdenstone is your exit. Make sure to deny any association to Lolth, or Menzoberranzan, and make any references to the number eight or spiders.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Few months ago",
+    "fact": "The Faerzress fluctuation and Buppido\u2019s descent into delusion occurred a few months ago. This is the only temporal anchor provided for the central anomaly, and it precedes Grygum\u2019s current state as a ghost by less than a year.",
+    "source_quote": "A few months ago. Why? And this is unimportant.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Less than a year",
+    "fact": "Grygum has been bound as a ghost for less than a year. He cannot accurately measure time due to his spectral condition and confinement to the cavern. This places his murder and the Faerzress event within a tight temporal window, suggesting direct causality.",
+    "source_quote": "Less than a year? Telling time in this cavern is hard.",
+    "quote_verified": true
+  }
+]

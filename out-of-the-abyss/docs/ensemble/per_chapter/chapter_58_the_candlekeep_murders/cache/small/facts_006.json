@@ -1,0 +1,100 @@
+[
+  {
+    "type": "npc",
+    "subject": "Daral Yashenti",
+    "fact": "Daral Yashenti was enraged that Janussi read the book he had given him as a symbol of reverence, and claimed self-defense after being assaulted by Janussi, but later admitted to being drugged and confused, and exhibited behavior consistent with poisoning a book via finger-licking.",
+    "source_quote": "He wet his finger and began flicking through the pages, reading himself a funny passage until he was laughing again.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi was the keeper of the tomes who was poisoned; he had been reading the very book Daral had gifted him, which was later determined to be the vector of poison transferred via finger-licking.",
+    "source_quote": "He'd been enraged to find Janussi reading it. It was a long day... I was drugged.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "the book",
+    "fact": "The book was a favorite of Daral's, given to Janussi as a symbolic gesture to teach the value of tomes, later found to be the poisoned vector; Daral licked his fingers while turning its pages, and the book was seized as evidence.",
+    "source_quote": "We took it. We'd keep Daral close until midnight... The dead poisoner is the innocent one.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm was named by Daral as a suspect due to her lizard-like nature, with Daral claiming lizards eat their young and murder crowbait like Janussi, though this was later revealed as racially charged barroom chatter.",
+    "source_quote": "There's no telling what's going on in her lizard brain. Cold-blooded, he went on, they eat their young, murdering crowbait like Janussi.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sylvira",
+    "fact": "Sylvira was referenced by Daral as Janussi's 'horned tart,' revealing his bias against non-drow figures through the same linguistic register drow use to dismiss outsiders.",
+    "source_quote": "That's \u2014 Sylvira. He said it like the horns were the relevant fact.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Teles",
+    "fact": "Teles was identified by Daral as a deluded old git who wanted the top job, and thus a potential suspect in Janussi's death.",
+    "source_quote": "Teles, the deluded old git;",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "A'lai Aivenmore",
+    "fact": "A'lai Aivenmore was named by Daral as a preying cock who sought the top position and was thus a suspect in Janussi\u2019s murder.",
+    "source_quote": "A'lai Aivenmore, the preying cock;",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Fheminor Scrivenbark",
+    "fact": "Fheminor Scrivenbark was described by Daral as someone whose small stature belied a steely nature, making her a suspect in Janussi\u2019s death.",
+    "source_quote": "Fheminor Scrivenbark, don't be fooled by her stature, she has a steely nature.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "poisoned book vector",
+    "fact": "The poison was carried on a book and transferred by licking fingers while turning pages \u2014 a method confirmed by Thorin, making Daral\u2019s own behavior the critical clue in identifying the true poisoner.",
+    "source_quote": "Janussi had been poisoned, the poison carried on a book, transferred by a man licking his finger and turning the pages.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Daral's admission of confusion",
+    "fact": "Daral claimed he was drugged and upset, suggesting his actions were not deliberate \u2014 but his repeated finger-licking and book-handling contradicted this, pointing to intentional poisoning.",
+    "source_quote": "I was drugged. I was upset. I don't know what I was thinking.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "book seizure",
+    "fact": "The book was seized as evidence after Thorin revealed the poisoning method, and Daral was held under guard until midnight with a cleric and sword ready to extract poison, in case he was the victim.",
+    "source_quote": "We took it. We'd keep Daral close until midnight \u2014 a cleric who could draw poison out, and a sword that could do the same, both within arm's reach.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "the Whispering Dome",
+    "fact": "The Whispering Dome was a quiet, low-light chamber where Glabbagool was summoned for his quest, and where the narrator reflected on its ideal atmosphere.",
+    "source_quote": "The Whispering Dome was the kind of place I would have liked under different circumstances. Quiet. Low light pooling under the curve of the ceiling.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool was a permanently attached oozing entity summoned for his 'little quest' at the Whispering Dome, with no objection from the narrator to his constant presence.",
+    "source_quote": "Glabbagool was summoned for what they called his little quest. They told me I keep him \u2014 that he was, the word they used, permanently attached.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "the narrator",
+    "fact": "The narrator is a persistent, observant figure who tracks behavioral patterns, recognizes linguistic biases, and deduces truth through physical details \u2014 notably the act of finger-licking on book pages.",
+    "source_quote": "I watched the finger go to the mouth and back to the paper. I was fairly sure I knew what I was watching.",
+    "quote_verified": true
+  }
+]

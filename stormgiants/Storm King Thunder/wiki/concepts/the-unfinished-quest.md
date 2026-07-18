@@ -13,5 +13,5 @@ A theoretical narrative driver involving the unresolved business of [[lady-alago
 
 The quest's nature is hinted at by:
 * The specific, separated placement of the [[dragon-slayer-sword]].
-* The direction of her spectral gaze toward the [[ice-spire-mountains]].
+* The direction of her spectral gaze toward the [[ice-spire-mountains-white-dragon-connection-2026-06-06-133513]].
 * The fact that her ghost only manifested once her primary artifact was secured.

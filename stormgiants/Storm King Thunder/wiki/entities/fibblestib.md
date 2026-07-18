@@ -4,7 +4,7 @@ title: Fibblestib
 created: 2025-05-22
 updated: 2026-05-27
 tags: [gnomengarde, inventor, npc, gnome, caretaker, speculative-scientist, theorist, rival, royal-inventor, technocrat, sanity-ray, technology-as-cure, madness-as-political-vulnerability]
-related: ["dabbledob", "gnomengarde", "king-korboz", "gnomengarde-inventors-guild", "soma", "vukradin", "evidence-based-pragmatism", "tamper-proof-voting-box-theory", "sanity-ray", "straitjacket-solution", "harvesting-constructs-from-creature-entrails", "bicameral-legislature-with-unitary-executive", "music-as-empirical-treatment", "technology-as-cure", "madness-as-political-vulnerability"]
+related: ["dabbledob", "gnomengarde", "king-korboz", "orrin", "vukradin", "evidence-based-pragmatism", "tamper-proof-voting-box-theory", "technology-as-cure", "straitjacket-solution", "harvesting-constructs-from-creature-entrails", "bicameral-legislature-with-unitary-executive", "music-as-empirical-treatment", "madness-as-political-vulnerability"]
 sources: ["dabbledob.md", "king_korboz.md", "fibblestib.md", "npcs/dabbledob.md", "npcs/fibblestib.md", "npcs/king_korboz.md"]
 ---
 # Fibblestib
@@ -20,10 +20,10 @@ Fibblestib is not malicious, but he is profoundly amoral: he operates within ins
 Fibblestib is highly eccentric, prideful, intensely competitive, and intellectually arrogant. He champions speculative, high-concept inventions, dismissing practical alternatives as crude or unimaginative. His methodology is defined by:
 
 *   **Speculative Approach:** He favors outlandish, theoretical, and often unproven technological proposals marked by ambition and theoretical flair, frequently lacking empirical validation. This stands in stark contrast to [[dabbledob]]’s empiricism.
-*   **Clinical Detachment:** He shows no regard for biological ethics. His enthusiastic advocacy for harvesting mimic entrails to create mechanical constructs — a practice he calls “harvesting constructs from creature entrails” — deeply unsettles [[soma]] and exemplifies his moral disengagement.
+*   **Clinical Detachment:** He shows no regard for biological ethics. His enthusiastic advocacy for harvesting mimic entrails to create mechanical constructs — a practice he calls “harvesting constructs from creature entrails” — deeply unsettles soma and exemplifies his moral disengagement.
 *   **Technocratic Prioritization:** He redirects urgent external threats (such as dragons) toward internal crises, particularly the mental state of [[king-korboz]], which he views as the paramount issue facing Gnomengarde.
 *   **Theorist Mindset:** He thrives on abstraction and possibility, engaging in sustained intellectual debates over theoretical constructs rather than immediate solutions. He participates seriously in institutional governance debates, including the design of a **tamper-proof voting box** and advocacy for a **bicameral legislature with a unitary executive**.
-*   **Public Rivalry:** He thrives on his public, loud, and persistent intellectual clashes with [[dabbledob]], particularly over the **Sanity Ray** versus the **Straitjacket Solution**. He takes personal credit for shared innovations, such as the [[rotating-blade-trap]], which drew mockery from [[vukradin]].
+*   **Public Rivalry:** He thrives on his public, loud, and persistent intellectual clashes with [[dabbledob]], particularly over the **Sanity Ray** versus the **Straitjacket Solution**. He takes personal credit for shared innovations, such as the [[the-northern-route-and-the-spinning-blade-trap-2026-06-06-235651]], which drew mockery from [[vukradin]].
 *   **Technology-as-Cure Ideology:** He believes complex human (or gnome) crises — especially madness — can and should be resolved through technical intervention, treating psychological collapse as an engineering problem to be debugged.
 
 Despite his arrogance, he is not reclusive or secretive. He engages constructively with others, including [[vukradin]], on topics like **music-as-empirical-treatment**, and acknowledges empirical evidence when it suits his goals.
@@ -37,20 +37,20 @@ Fibblestib’s work spans medical, political, and mechanical engineering domains
 | **The Sanity Ray** | A proactive, speculative technological device intended to cure King Korboz’s madness; his flagship project and direct rival to [[dabbledob]]’s “straitjacket” approach. Embodies his belief that madness is an engineering failure, not a political or psychological one. |
 | **Mimic-derived Constructs** | Research into utilizing biological components (particularly mimic entrails) for mechanical engineering, framed as “harvesting constructs from creature entrails.” |
 | **Tamper-proof Voting Box** | A political reform project driven by his interest in governance; he actively debates its theoretical feasibility with [[dabbledob]], advocating for a **bicameral legislature with a unitary executive** to balance innovation and tradition. |
-| **Rotating Blade Inventions** | Various designs, including the controversial [[rotating-blade-trap]], which he claims as his own despite shared development and which was mocked by [[vukradin]]. |
+| **Rotating Blade Inventions** | Various designs, including the controversial [[the-northern-route-and-the-spinning-blade-trap-2026-06-06-235651]], which he claims as his own despite shared development and which was mocked by [[vukradin]]. |
 
 ## Relationships
 
 ### Professional & Intellectual
 *   **[[dabbledob]]**: Coworker, co-inventor, and primary intellectual antagonist. The two are locked in constant, heated debates over scientific methodology, governance, and the feasibility of inventions like the tamper-proof voting box and the Sanity Ray. Despite their rivalry, they work side by side, suggesting a dynamic of intellectual opposition that sustains rather than undermines productivity.
-*   **[[gnomengarde-inventors-guild]]**: His professional organization, through which he operates and gains institutional legitimacy for his projects.
+*   **[[orrin]]**: His professional organization, through which he operates and gains institutional legitimacy for his projects.
 
 ### Medical & Political
 *   **[[king-korboz]]**: The primary subject of his medical research and caretaking efforts. Fibblestib’s entire current agenda is oriented toward stabilizing the king’s mental state, viewing it as the key to Gnomengarde’s survival — and his own existential purpose.
-*   **[[vukradin]]**: Engaged in constructive dialogue regarding the therapeutic potential of **music-as-empirical-treatment**, though Fibblestib mocked the party over the [[rotating-blade-trap]].
+*   **[[vukradin]]**: Engaged in constructive dialogue regarding the therapeutic potential of **music-as-empirical-treatment**, though Fibblestib mocked the party over the [[the-northern-route-and-the-spinning-blade-trap-2026-06-06-235651]].
 
 ### Ethical & Moral
-*   **[[soma]]**: Fibblestib has caused significant moral distress to [[soma]] due to his views and practices surrounding biological harvesting. His indifference to the ethical implications of using mimic entrails has created a rift rooted in fundamental moral disagreement.
+*   **soma**: Fibblestib has caused significant moral distress to soma due to his views and practices surrounding biological harvesting. His indifference to the ethical implications of using mimic entrails has created a rift rooted in fundamental moral disagreement.
 
 ### Governance Philosophy
 *   Fibblestib advocates for a **bicameral legislature with a unitary executive**, reflecting his belief in centralized, engineered governance — a vision that positions him as a technocrat rather than a democrat. He sees governance as a system to be optimized, not a tradition to be preserved.

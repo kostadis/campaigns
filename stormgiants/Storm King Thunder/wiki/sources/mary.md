@@ -72,11 +72,11 @@ related: []
 
 ### Connections to Existing Wiki
 - **Existing Pages:**
-  - [[Fighters of the Light]]
+  - [[the-identity-of-jax-2026-06-06-234026]]
   - [[Everlund]]
-  - [[Nether Mountains]]
-  - [[Kraken]]
-  - [[Artifact]]
+  - [[force-grey-2026-06-06-063448]]
+  - [[grindle-2026-06-06-042021]]
+  - [[grindle-2026-06-06-042021]]
 - **Impact:**
   - The source provides new details about Mary's role and motivations, which can be integrated into existing pages.
   - It challenges the initial assumptions about Mary's credibility and the value of the artifact.
@@ -91,4 +91,11 @@ related: []
 
 ### Recommendations
 - **Pages to Create/Update:**
-  - [[Mary (Human Elder, Everlund)]]
+  - [[standardize-elara-identity-2026-06-06-132813]]
+
+## Related
+
+- [[nym]]
+- [[miery]]
+- [[queen_tatiana]]
+- [[queen_neri]]

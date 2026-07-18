@@ -38,8 +38,8 @@ related: []
 
 ### Connections to Existing Wiki
 - **[[galeb-duhr]]**: Relevant, as Prrrt is part of the Galeb Duhr collective.
-- **[[sentinels]]**: Relevant, as Prrrt performs sentinel duties.
-- **[[greypeak-mountains]]**: Relevant, as he is stationed there.
+- **[[prrrt]]**: Relevant, as Prrrt performs sentinel duties.
+- **[[greypeak-mountains-2026-06-06-132855]]**: Relevant, as he is stationed there.
 
 ### Contradictions & Tensions
 - None noted.
@@ -49,4 +49,4 @@ related: []
 - **Emphasize**: Positive relationship with the party, helpful nature, and friendly demeanor.
 - **De-emphasize**: Peripheral roles and concepts.
 - **Open Question**: Investigate further if Prrrt's relationship with the party develops over subsequent encounters.
-- **Existing Pages Related**: [[galeb-duhr]], [[sentinels]], [[greypeak-mountains]].
+- **Existing Pages Related**: [[galeb-duhr]], [[prrrt]], [[greypeak-mountains-2026-06-06-132855]].

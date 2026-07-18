@@ -16,3 +16,8 @@ He is described as having attacked Blasius upon hearing the accusation — sugge
 His exoneration was orchestrated by Blasius not out of moral awakening, but to escape his own administrative prison. Oblivillish’s silence since his return suggests he has not forgiven, and may be waiting. His presence in the court remains unconfirmed, and his potential return as an avenger is a lingering threat.
 
 Oblivillish embodies the cost of Blasius’s guilt — a quiet, unresolved wound in the fabric of Seelie Court justice.
+
+## Related
+
+- [[blasius]]
+- [[prince-thornacious]]

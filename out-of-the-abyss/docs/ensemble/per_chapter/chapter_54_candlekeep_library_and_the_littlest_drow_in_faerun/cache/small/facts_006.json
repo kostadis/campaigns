@@ -1,0 +1,156 @@
+[
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is an eighth-level wizard who has kept four people alive through the Underdark, demon lords, a dragon, and House politics, and has become a strategic pawn because someone with resources believes observing what happens to him may reveal a person of greater interest.",
+    "source_quote": "I have apparently been valuable this entire time primarily because someone with resources thinks watching what happens to me might reveal a person they are actually interested in.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a pragmatic party member who advocates for tactical murder of Daz as a means to expose his protectors, carries Revivify to enable temporary death, and wields shrunken but potent prayer beads as a tool of psychological control.",
+    "source_quote": "There's only one solution. We need to kill Daz... I have a Revivify spell... I'm not relying on killing you. I'm relying on the prayer beads.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a skeptical, methodical party member who distrusts deals without enforcement, approves of demeaning tactics against the shrunken drow spy, and insists on recoverable lethal measures to test loyalties.",
+    "source_quote": "I don't buy it. The minute she has the information she needs, she's off, and we get jack shit... Do it, but make sure we can bring them back.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a deadpan, observant party member who maintains a detached record of potential actions, including the 'maybe list' for killing Daz, and acknowledges the psychological weight of the party's decisions without overt emotion.",
+    "source_quote": "It's on the list. The maybe list.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a silent, steady companion assigned to guard the shrunken drow spy, whose unblinking, unwavering attention becomes the most earnest display of duty observed in weeks.",
+    "source_quote": "He had been assigned a job. He was doing the job. The care in it \u2014 the steadiness of that unblinking attention \u2014 was the most earnest thing I'd seen in weeks.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Drow Spy",
+    "fact": "The drow spy, once a full-sized agent of House T'sarran, was reduced to the size of a child\u2019s toy by a mushroom, rendered vulnerable to psychological pressure, and is now under constant surveillance while negotiating her own surrender and escape.",
+    "source_quote": "One moment she was a full-sized spy \u2014 annoyed, calculating, already looking for angles \u2014 and the next she was very squeaky and indignant... She began, visibly, to reconsider the available options.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "House T'sarran",
+    "fact": "House T'sarran is a drow house that employs agents to monitor strategic targets like Daz, sends replacements when agents are captured or killed, and possesses knowledge of secure prison escapes, indicating deep operational experience and resilience.",
+    "source_quote": "She warned us, between our negotiations, that killing her wouldn't stop House T'sarran from sending more agents... So they know how to escape that prison, I observed.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Ember Vanguard",
+    "fact": "The Ember Vanguard is the feared mage organization to which Daz belongs, whose reputation and mystique have been reinforced by the party\u2019s perception of him as a high-value target and strategic bait.",
+    "source_quote": "I have found purpose. I am the feared mage of the Ember Vanguard. This is fine.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "prayer beads",
+    "fact": "The prayer beads are shrunken but retain full or increased potency, used by Grygum as a non-lethal tool of coercion against the drow spy, whose confidence wavers upon realizing their power has not diminished.",
+    "source_quote": "Those prayer beads are at full power, even though they're shrunken, right?... Yes \u2014 in fact, I believe they may be more deadly.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "mushroom",
+    "fact": "The mushroom is a magical item capable of reducing a creature to a tiny size, used to shrink the drow spy to toy-like proportions, and has a known counteragent to restore her to full size.",
+    "source_quote": "The mushroom went down her throat fast... Do we have a mushroom to grow her back? Apparently yes.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "bag of holding",
+    "fact": "The bag of holding is a extradimensional container used to imprison the shrunken drow spy alongside Glabbagool, with ventilation holes added to ensure her survival under observation.",
+    "source_quote": "We can put her in the bag of holding with Glabbagool, and he can just hold onto her... Poke holes. Let her breathe.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "shrinkage of the drow spy",
+    "fact": "The drow spy was forcibly reduced to the size of a child\u2019s toy using a magical mushroom, triggering psychological vulnerability and a shift in power dynamics within the party\u2019s interrogation strategy.",
+    "source_quote": "One moment she was a full-sized spy... and the next she was very squeaky and indignant... Thorin watched this with the expression of a man receiving exactly what he ordered.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "proposal of Daz's temporary murder",
+    "fact": "The party deliberated and nearly enacted a plan to kill Daz temporarily using Revivify to expose his protectors, treating him as a bait to trigger a response from hidden allies.",
+    "source_quote": "There's only one solution. We need to kill Daz... Oh, I have a Revivify spell... Just a death light.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "identity of Daz's protectors",
+    "fact": "The true identity of the hidden entity protecting Daz remains unknown, but the party believes it can be revealed by observing who intervenes when he is threatened or killed.",
+    "source_quote": "The matron's interest is the reason; the matron's interest is sufficient... We need to kill Daz... And then we'll find out who's protecting him.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "drow spy's escape plan",
+    "fact": "The drow spy\u2019s confidence in escaping Candlekeep suggests she has prior knowledge of its vulnerabilities, and her surrender may be a ruse to facilitate a deeper infiltration or escape.",
+    "source_quote": "She said it with the confidence of someone who already knew the second half of that plan didn't involve staying in Candlekeep for very long.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is a fortified library-prison known for its security, but the drow spy\u2019s confidence in escaping it implies she possesses insider knowledge of its weaknesses, making it a contested destination in the party\u2019s plan.",
+    "source_quote": "She eventually proposed being escorted to Candlekeep and handed to the guards... So they know how to escape that prison.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Underdark",
+    "fact": "The Underdark is the perilous subterranean realm where Daz survived for weeks, enduring demon lords, dragons, and House politics, and where the drow spy\u2019s perception of available options was fundamentally altered by exposure to the party\u2019s methods.",
+    "source_quote": "Weeks in the Underdark with us will do something to a person's sense of available options.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "time until Candlekeep",
+    "fact": "Daz has set a personal deadline \u2014 until the party reaches Candlekeep \u2014 to develop a perspective on his role as a strategic pawn, indicating a temporary psychological threshold for his self-reckoning.",
+    "source_quote": "I thought about it for a moment and decided I'd give myself until we reached Candlekeep to develop the appropriate perspective.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "demon lords",
+    "fact": "Demon lords are powerful infernal entities encountered in the Underdark, against whom Daz survived, reinforcing his status as a resilient and high-value target.",
+    "source_quote": "I have kept four people alive through the Underdark, through demon lords, through a dragon, through House politics I was running on improvised expertise and nerve.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "dragon",
+    "fact": "A dragon is a legendary and deadly creature encountered in the Underdark, survived by Daz, further establishing his strategic importance and durability.",
+    "source_quote": "I have kept four people alive through the Underdark, through demon lords, through a dragon, through House politics I was running on improvised expertise and nerve.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Milo Goodbarrel",
+    "fact": "Milo Goodbarrel is a referenced figure whose ability to find personal significance in adversity contrasts with Daz\u2019s current existential unease about being used as bait.",
+    "source_quote": "Milo Goodbarrel would have found a way to feel good about this. Something about being significant.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a pragmatic, no-nonsense party member who treats psychological humiliation as a tactical tool, distrusts unenforceable agreements, and insists on recoverable lethal measures to test loyalty.",
+    "source_quote": "Nickname her Polly Pocket... It's very demeaning... I don't buy it... Do it, but make sure we can bring them back.",
+    "quote_verified": false
+  }
+]

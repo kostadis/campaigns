@@ -1,0 +1,149 @@
+[
+  {
+    "type": "npc",
+    "subject": "Hgraam",
+    "fact": "Hgraam is a venerable stone giant who resides in the Cairngorm Cavern and serves as a keeper of ancient rock wisdom. He is deeply attuned to the suffering of the Underdark and has witnessed the Deep King\u2019s descent into paranoia. He gifted Thorin the Stonespeaker Crystal and revealed that Shal, a new advisor, has corrupted the Deep King\u2019s judgment.",
+    "source_quote": "Yes, it was a tragedy. You did not try to kill him. But you did try to stop him. He was driven mad. Something evil stirs in the Underdark. The rock itself cries in pain and horror, and a madness creeps from the blackest depths. Pay heed to the signs surrounding you. A cave with two faces. Rock devoured, and the land overgrown. The pebble believes itself flesh. The earth rejects its wards, and the tunnels shake in fury. By these portents, you shall know of evil\u2019s presence and of evil\u2019s face. This is what the stones tell me.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Shal",
+    "fact": "Shal is a mysterious new advisor to the Deep King of the Deep Gnomes. Since their arrival, the Deep King has become paranoid, rejecting sage counsel and isolating himself. Hgraam has attempted to meet Shal but has been refused access, suggesting Shal wields covert influence over the Deep King\u2019s decisions.",
+    "source_quote": "Yes, Shal, an advisor of his. Ever since they became friends, The Deep King has been unwilling to listen to any sage advice. I have asked to meet Shal, but they refuse.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "The Deep King",
+    "fact": "The Deep King is the ruler of the Deep Gnomes, once calm and wise, now consumed by paranoia. He has struggled to maintain order in his city as corruption from the Underdark spreads, and his reliance on an invisible police force has driven opposition underground. His transformation is directly tied to the influence of Shal.",
+    "source_quote": "Many have told the Deep King that what goes underneath the city affects what goes on in his city. And what goes on in his city affects what goes on below. And much of what goes on below is evil. The Deep King has tried to keep order and control, and the more he tries, the more the order escapes and tries to take the city from him.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "The Duergar",
+    "fact": "The Duergar are a reclusive, rigidly orderly subterranean race whose meticulously clean city borders the chaotic Derro slums. Their strict control over movement and access, enforced by badges of the Stone Guard, creates a stark contrast with the unruly Derro districts. They avoid direct conflict with the Derro due to the risk of triggering a bloodbath.",
+    "source_quote": "From Themberchaud\u2019s cave to the Cairngorm Cavern, Thorin and his friends must traverse through the city of Duergar, where no one but the Duergar is allowed. But the badges of the Keepers of the Flame or Stone Guard are enough to stop anyone from asking too many questions.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Derro",
+    "fact": "The Derro are a degenerate, chaotic subterranean race living in filthy, unplanned burrows and ramshackle structures. Their slums are dangerous and hostile, marked by deep resentment toward the Duergar. Their role as couriers for multiple factions stems from their isolation and the necessity of navigating between hostile territories.",
+    "source_quote": "The Derro slums are dangerous to anyone. Even from here, it\u2019s evident that the homes of the Derro are mostly burrows carved into the walls and simple structures piled atop one another. The district's dirty and cluttered streets clearly formed as dwellings spread and came together, not as a product of planning.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Deep Gnomes",
+    "fact": "The Deep Gnomes are a reclusive, magically attuned race ruled by the Deep King, who struggles to maintain order as corruption from the Underdark infiltrates their city. They are caught between Duergar control above and Derro chaos below, relying on invisible enforcers to suppress dissent \u2014 a strategy that has pushed opposition underground.",
+    "source_quote": "The Deep King has tried to keep order and control, and the more he tries, the more the order escapes and tries to take the city from him.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Demonic Entities Across the Underdark",
+    "fact": "A surge of demonic presence \u2014 including the demons at Valkenvylve, the Beholder in the Spidersilk Caves, the demonic manta rays, and Demogorgon \u2014 is not coincidental. These are manifestations of a larger, systemic magical corruption in the Underdark, enabled by an unknown force that has broken natural barriers between planes.",
+    "source_quote": "What we have seen as localized appearances of demons is not localized. The demons at Valkenvylve, the Beholder in the Spidersilk caves, the demonic manta rays, and Demogorgon, all of this is no coincidence.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The Sundering of the Gods' Presence",
+    "fact": "The end of the great sundering ended the era when gods could walk freely in Faer\u00fbn. This event forced cults like the Cult of Tiamat to perform extraordinary rituals to manifest their deities in the material plane. The current proliferation of demons and madness is a direct consequence of this cosmic shift, suggesting a new, powerful magical force is destabilizing reality.",
+    "source_quote": "The end of the great sundering ended the era that allowed the gods to walk in Faer\u00fbn freely. It\u2019s why the Cult of Tiamat had to resort to such an extraordinary ritual to bring her into the prime material plane. That so many demons are walking freely is not normal. There is some kind of powerful magic that has enabled this.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Stonespeaker Crystal",
+    "fact": "A 19-inch shard of quartz crystal gifted by Hgraam. It enables the spells Speak with Animals, Speak with the Dead, and Speak with Plants, and enhances divination magic. It is said to be attuned to the voices of the stones and the Underdark\u2019s pain.",
+    "source_quote": "This is the stonespeaker crystal, with it you can cast Speak with Animals, Speak with the Dead, and Speak with Plants. It will also help you cast divinations.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Cairngorm Cavern",
+    "fact": "A vast, ancient cavern located beyond Themberchaud\u2019s cave, home to Hgraam and the Stone Giants. It is connected to the city of Duergar via a gigantic tunnel in the eastern wall south of Laduguer\u2019s Furrow. The cavern is polished, serene, and deeply resonant with the magic of the earth.",
+    "source_quote": "From Themberchaud\u2019s cave to the Cairngorm Cavern, Thorin and his friends must traverse through the city of Duergar... A long tunnel opens in the eastern wall south of Laduguer\u2019s Furrow. The tunnel is gigantic, even by the massive size of Gracklstugh. And the rock is well polished. And sitting on a rock is a very large and very venerable stone giant.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Laduguer\u2019s Furrow",
+    "fact": "A meticulously clean, narrow corridor in the Duergar city, flanked by entrances leading to the Derro slums. It serves as a stark boundary between order and chaos, cleanliness and filth, control and anarchy. The contrast highlights the deep societal fractures in the Underdark.",
+    "source_quote": "From the Cairngorm Cavern, Laduguer\u2019s Furrow is just a short distance. Looking around, he notices how this is so spotlessly clean in its style. At either edge of this Furrow is an entrance. And past that entrance, he can see a slum.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Derro Slums",
+    "fact": "A chaotic, filthy district of burrows and stacked structures, formed organically by unregulated expansion. The slums are dangerous, hostile, and filled with resentment toward the Duergar. Their lack of planning and cleanliness contrasts violently with the Duergar\u2019s rigid order, making them a breeding ground for rebellion and covert operations.",
+    "source_quote": "The Derro slums are dangerous to anyone. Even from here, it\u2019s evident that the homes of the Derro are mostly burrows carved into the walls and simple structures piled atop one another. The district's dirty and cluttered streets clearly formed as dwellings spread and came together, not as a product of planning.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Nature of the Underdark\u2019s Corruption",
+    "fact": "A pervasive, growing evil is spreading through the Underdark, manifesting as madness, demonic incursions, and sentient rock suffering. The cause is unknown but appears tied to the Sundering and possibly the Faerzress. The stones themselves warn of portents: caves with two faces, devoured rock, overgrown land, and shaking tunnels.",
+    "source_quote": "Something evil stirs in the Underdark. The rock itself cries in pain and horror, and a madness creeps from the blackest depths. Pay heed to the signs surrounding you. A cave with two faces. Rock devoured, and the land overgrown. The pebble believes itself flesh. The earth rejects its wards, and the tunnels shake in fury.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Identity of Shal",
+    "fact": "Shal is an unknown entity who has insidiously gained the Deep King\u2019s trust and corrupted his judgment. Their refusal to meet with Hgraam and their sudden influence suggest they are not a typical advisor \u2014 possibly a demon, a fey, a construct, or something older and more alien.",
+    "source_quote": "I have asked to meet Shal, but they refuse.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Faerzress Connection",
+    "fact": "Thorin suspects the Faerzress \u2014 the magical radiation that affects sanity in the Underdark \u2014 may be amplifying or intertwined with the current corruption. If true, this could mean the madness spreading through the Underdark is not just external, but a resonance of the land\u2019s own psychic decay.",
+    "source_quote": "Thorin wonders if this has anything to do with the Faerzress, which has affects his sanity.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Grey Ghosts",
+    "fact": "The Grey Ghosts are mysterious entities referenced by Hgraam as creations of the Deep King, possibly spectral enforcers or failed experiments. Their existence suggests the Deep King has been experimenting with necromantic or psionic control methods \u2014 a sign of his descent into desperation and paranoia.",
+    "source_quote": "Grey Ghosts? The Deep King creates so many enemies. He used to be so calm. He and I would watch the stones grow. But something has happened to him. He has become paranoid towards old and new friends.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a monk who admires the Stone Giants\u2019 patience and subtlety. He is deeply observant and reflective, seeking to learn from their wisdom. He is now journeying to find Droki in the Derro slums, where he notes the stark contrast between Duergar order and Derro chaos.",
+    "source_quote": "Zalthir likes the stone giants. They speak little. They ponder and then they consider their words. Perhaps there is something that even his monastic order could learn from their subtlety and patience.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is impulsive and inquisitive, frequently interrupting solemn revelations with blunt questions. His inquiry about what is driving everyone mad triggered a profound response from Hgraam. He is hopeful and persistent, seeking direct answers even when the universe offers riddles.",
+    "source_quote": "Do you know what\u2019s driving everyone mad?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a quiet, insightful observer who connects cosmic events to current phenomena. He recognizes the significance of the Sundering and the unnatural proliferation of demons, suggesting an underlying magical force is destabilizing the fabric of reality.",
+    "source_quote": "The end of the great sundering ended the era that allowed the gods to walk in Faer\u00fbn freely. It\u2019s why the Cult of Tiamat had to resort to such an extraordinary ritual to bring her into the prime material plane. That so many demons are walking freely is not normal. There is some kind of powerful magic that has enabled this.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Droki",
+    "fact": "Droki is a Derro courier who operates across factional lines, surviving in the dangerous slums. His ability to move between hostile territories suggests he is either exceptionally skilled, deeply connected, or protected by forces unknown.",
+    "source_quote": "Droki, he is told, is to the west.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is a figure whose claims about the route to the Dreamlands have been verified by Hgraam. His knowledge is trusted by Thorin, indicating he is a reliable source of subterranean lore.",
+    "source_quote": "Thorin learns from Hgraam that the best way to the Dreamlands is through the city of the Deep gnomes. Thorin is pleased to have Jimjar's claims vetted.",
+    "quote_verified": true
+  }
+]

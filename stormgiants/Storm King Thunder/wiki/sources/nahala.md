@@ -36,3 +36,7 @@ related: []
 - **Pages to Create/Update**: Ensure "Person" includes Nahala and her relationship to Kartha-Kaya. Update "Phenomenon" and "Technique" entries to include details about psychic possession and ritual circles.
 - **Emphasis**: Highlight Nahala's role within the ritual circle and her potential connection to Kartha-Kaya's broader plans.
 - **Open Questions**: Investigate Nahala's background and motivations further to flesh out her character.
+
+## Related
+
+- [[queen_neri]]

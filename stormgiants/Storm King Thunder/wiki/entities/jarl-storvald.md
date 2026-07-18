@@ -42,3 +42,9 @@ tags: [ordin, restoration]
 related: []
 sources: ["jarl_storvald.md"]
 ---
+
+## Related
+
+- [[count-vaal]]
+- [[jorgen]]
+- [[lord-khaspere-drylund]]

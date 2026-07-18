@@ -11,3 +11,8 @@ sources: ["harthos_zymorven.md"]
 - **Description:** The alteration of magical properties or forms.
 - **Influence:** Harthos's execution by decapitation is designed to prevent magical resurrection.
 - **Associated Characters:** Harthos Zymorven
+
+## Related
+
+- [[harthal-zymorvens-ritual-status-2026-06-06-015557]]
+- [[murder]]

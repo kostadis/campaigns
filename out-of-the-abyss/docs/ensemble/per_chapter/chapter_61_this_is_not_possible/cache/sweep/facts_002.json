@@ -1,0 +1,212 @@
+[
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who marked in the margin that the group had come all this way to convict a woman not of murder but of embarrassment, and that everyone in the room seemed content with the trade.",
+    "source_quote": "I only took notes and marked, in the margin, that we had come all this way to convict a woman not of murder but of embarrassment, and that everyone in the room seemed content with the trade.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is referenced by himself as the one who said, 'Never miss an opportunity to grift, man,' after Glabbagool stole the potion of flying.",
+    "source_quote": "Never miss an opportunity to grift, man,",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by Bookwyrm as one of the heroic adventurers whose names escape her, alongside others including Grygum and Daz.",
+    "source_quote": "I can assure the heroic adventurers \u2014 whose names escape me, yes, yes, Zalthir, and so on \u2014 that tomorrow morning you will all be given ample opportunity to express your convictions about what may or may not have happened.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is referenced by himself as the one who offered '118' as a taster protocol for the food, meaning nothing to Fembris and everything to the group.",
+    "source_quote": "I'd say 118,",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch is referenced by Bookwyrm as the one who was asked to take his position once more as head of the Avowed, and who promised a full report tomorrow.",
+    "source_quote": "Would you be so willing as to take your position once more? ... But this will not change the nature of my report tomorrow.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm is referenced by herself as the one who drank tea while watching the adventurers over the rim, and who claimed that tea was good for soothing the nerves after talk of murder.",
+    "source_quote": "And she drank some, watching us over the rim. ... With all this talk of murder in the house, I think a little tea is good for soothing the nerves.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Bookwyrm's office",
+    "fact": "Bookwyrm's office was arranged the way a room gets arranged when someone wants you to understand the seating before you sit, and the tea was already poured.",
+    "source_quote": "Her office was arranged the way a room gets arranged when someone wants you to understand the seating before you sit. The tea was already poured.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Deneir's Sanctum",
+    "fact": "Deneir's Sanctum was filled with floor-to-ceiling bookshelves, tables, and the dry smell of old paper, and served as a guarded waiting room for the adventurers.",
+    "source_quote": "They put us in Deneir's office to wait out the evening. Bookshelves floor to ceiling, tables, the dry smell of old paper \u2014 a room built for people who read for a living, now doing duty as a cell.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Alkrist's safe",
+    "fact": "Alkrist's safe contained a potion of flying, a potion of superior healing, a fat purse of gold coins, and one red herring-stamped coin.",
+    "source_quote": "A potion of flying. A potion of superior healing. A fat purse of gold coins, more than a man keeps for honest reasons. And one coin that did not match the rest. ... One of the gold coins had a herring stamped on it, and the herring was red.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "potion of flying",
+    "fact": "The potion of flying was stolen by Glabbagool's arm from Alkrist's safe while everyone was distracted, and carried away without notice.",
+    "source_quote": "While she's talking, my Glabbagool arm swipes the potion of flying. ... Glabbagool's arm came out low and quiet, the way I'd have wanted it if I'd trained him for it, which I had not, not yet. It closed around the vial, drew it back, and no one turned.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "red herring coin",
+    "fact": "The red herring coin was one of the gold coins in Alkrist's safe, stamped with a red herring, and served as a deceptive but harmless detail.",
+    "source_quote": "One of the gold coins had a herring stamped on it, and the herring was red.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is referenced by Grygum as the ooze fused along his forearm that consumed tea and later the potion of flying, and who internally expressed approval of the flying skill.",
+    "source_quote": "Glabbagool was pleased with himself. *I like the flying skill,* he offered. *That was a good skill.*",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "sapphire",
+    "fact": "A sapphire was sought by Grygum using a Locate Object spell, but was not found on Bookwyrm.",
+    "source_quote": "I wanted to know if she had one on her \u2014 that would have been interesting. The spell went out and found nothing. She did not have it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "theft of the potion of flying",
+    "fact": "The potion of flying was stolen from Alkrist's safe by Glabbagool's arm while the room was distracted, and no one noticed the theft.",
+    "source_quote": "Glabbagool's arm came out low and quiet... It closed around the vial, drew it back, and no one turned. Not one head.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "the food tasting protocol",
+    "fact": "The group established a taster protocol using Fembris Lancer, assigning him the role of '118' to consume food before the others, and he survived without incident.",
+    "source_quote": "I'd say 118,\" ... \"Fembris ate on, blessedly unaware that he had just been promoted.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "the revelation of Bookwyrm's relief",
+    "fact": "Bookwyrm's tears and heartbreak over Alkrist's betrayal were observed by Grygum and Daz to be performative, masking genuine relief that the blame had shifted.",
+    "source_quote": "The tears were correct and the eyes behind them were doing something else. Daz caught it too \u2014 I saw him go quiet and still, the way he does when he's found the seam in a thing. She was not sad. She was relieved.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "the closing of Alkrist's safe",
+    "fact": "The safe was closed with all contents inside \u2014 including the potion of flying \u2014 and declared of no interest, despite the potion having been stolen moments before.",
+    "source_quote": "They closed the safe with everything still inside \u2014 the gold, the herring, the healing \u2014 and declared it of no interest.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "the appointment of Kalan Strongbranch",
+    "fact": "Bookwyrm reinstated Kalan Strongbranch as head of the Avowed, acknowledging his methodology had proven its merit, despite his prior removal.",
+    "source_quote": "Well, it would seem, Kalan, that your methodology has proven its merit. Well done. ... Would you be so willing as to take your position once more?",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "the escort to Deneir's Sanctum",
+    "fact": "The adventurers were escorted to Deneir's Sanctum under the pretense of protection, but in reality to isolate them from further investigation.",
+    "source_quote": "I'm simply doing this to protect you. As you so correctly pointed out, there are other criminal elements within the society, and I would hate for something terrible to happen to you.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Alkrist's prison cell",
+    "fact": "Alkrist was held secure in the prisons, under guard, following his confession and implication of Bookwyrm.",
+    "source_quote": "Alkrist will spend the day in the prisons, where he'll be kept secure and unable to escape.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "potion of superior healing",
+    "fact": "The potion of superior healing was one of the items found in Alkrist's safe, alongside the potion of flying and gold coins.",
+    "source_quote": "A potion of flying. A potion of superior healing. A fat purse of gold coins...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "fat purse of gold coins",
+    "fact": "The fat purse of gold coins found in Alkrist's safe contained more than a man keeps for honest reasons, suggesting illicit gain.",
+    "source_quote": "A fat purse of gold coins, more than a man keeps for honest reasons.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "the request to cure Daral",
+    "fact": "Daral asked the group whether they would cure him of his condition, revealing his fear of being left broken and unworthy of the spell.",
+    "source_quote": "Are you guys going to cure me or anything?\" ... \"under the scholarship, the small fear of being left broken because we'd decided he wasn't worth the spell.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Fembris Lancer",
+    "fact": "Fembris Lancer is referenced by Grygum as the one who sat silently during arguments and later served as the group's food taster, eating without suspicion.",
+    "source_quote": "Fembris Lancer had stood off to one side the whole time we argued, saying nothing, which I respected. ... Fembris, on the other hand, had no such reservations \u2014 come, come, come, already reaching, all appetite and no suspicion.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "the discovery of Bookwyrm's fear and delight",
+    "fact": "Grygum observed that Bookwyrm was both sincerely afraid something would happen to the adventurers and delighted to have them isolated and out of the way.",
+    "source_quote": "I looked at her while she said it and found, underneath, that she meant the worry. It was real \u2014 she was sincerely afraid something would happen to us. Daz found the other half, the half I only saw land on his face: she was delighted to have us wrapped up and out of everything, no more heads poking anywhere.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "the final declaration of no trial",
+    "fact": "Bookwyrm declared that today was not a day for trials and juries, and that the matter would be resolved after the naming by the new head of the Avowed.",
+    "source_quote": "But today is not a day for trials and juries. That will be done after the naming, by the new head of the Avowed.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "the use of the Locate Object spell",
+    "fact": "Grygum cast Locate Object to detect a sapphire on Bookwyrm, but found nothing, confirming she did not possess it.",
+    "source_quote": "I reached out with the spell and found nothing where the sapphire should have been. Bookwyrm did not have it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is referenced by Grygum as the ooze who consumed tea and the potion of flying, and who internally expressed approval of the flying skill, demonstrating a form of discipline and preference.",
+    "source_quote": "Glabbagool was pleased with himself. *I like the flying skill,* he offered. *That was a good skill.*",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "the group's decision to call Alkrist's accomplices",
+    "fact": "The group chose to say only that there were accomplices in Janussi's death, avoiding direct accusation of Bookwyrm to maintain plausible deniability.",
+    "source_quote": "Yeah \u2014 we know there are accomplices,\" I said.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "the final escort to chambers",
+    "fact": "After being held in Deneir's Sanctum, the adventurers were to be escorted to their chambers later that evening, under Kalan's supervision.",
+    "source_quote": "I will now ask Kalan Strongbranch to escort you to Deneir's Sanctum. ... where you will wait until later this evening, then be escorted to your chambers.",
+    "quote_verified": false
+  }
+]

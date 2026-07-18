@@ -4,14 +4,14 @@ title: Quietly resonant NPC
 created: 2026-06-15
 updated: 2026-06-15
 tags: [npc, characterization, emotional, background]
-related: [background-npc, sensory-driven-characterization, narrative-economy, cooragh_struckt, valphine]
+related: ["background-npc", "sensory-driven-characterization", "narrative-economy", "valphine"]
 sources: ["npcs/cooragh_struckt.md"]
 ---
 # Quietly resonant NPC
 
 A subtype of non-interactive, non-plotted NPC whose significance lies not in action or revelation, but in the subtle, non-verbal emotional impact they have on other characters — particularly through sensory or environmental presence.
 
-Unlike standard [[background-npc]]s, who serve only to populate the world without affecting internal states, quietly resonant NPCs create emotional resonance through taste, smell, gesture, or atmosphere. [[cooragh_struckt]] is the canonical example: her food provides [[valphine]] with a moment of unspoken comfort, offering relief from trauma without dialogue, explanation, or narrative consequence.
+Unlike standard [[background-npc]]s, who serve only to populate the world without affecting internal states, quietly resonant NPCs create emotional resonance through taste, smell, gesture, or atmosphere. cooragh-struckt is the canonical example: her food provides [[valphine]] with a moment of unspoken comfort, offering relief from trauma without dialogue, explanation, or narrative consequence.
 
 This archetype operates on the principle that emotional impact does not require agency. The character need not change, speak, or evolve — only to be present, and to be felt.
 

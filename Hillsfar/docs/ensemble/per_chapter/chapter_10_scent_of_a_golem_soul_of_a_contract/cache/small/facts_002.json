@@ -1,0 +1,653 @@
+[
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur located a hidden door in the vault wall.",
+    "source_quote": "Felkur located a hidden door in the vault wall",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "party ascent",
+    "fact": "The party slipped through the hidden door and climbed upward.",
+    "source_quote": "the party slipped through it and climbed upward",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Spire of Inevitable Reckoning",
+    "fact": "The party emerged at the peak of the Spire of Inevitable Reckoning.",
+    "source_quote": "emerging at the peak of the Spire of Inevitable Reckoning",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "peak chamber",
+    "fact": "The chamber at the peak was vast and open to the sky.",
+    "source_quote": "The chamber was vast and open to the sky",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "sky above peak",
+    "fact": "The sky above the peak offered nothing but poisonous clouds.",
+    "source_quote": "the sky above offered nothing but poisonous clouds",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "flight danger",
+    "fact": "The poisonous clouds made flight a death sentence.",
+    "source_quote": "poisonous clouds that made flight a death sentence",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "teleportation circle",
+    "fact": "A twenty-foot diameter teleportation circle pulsed at the center of the room.",
+    "source_quote": "At the center of the room pulsed a twenty-foot diameter teleportation circle",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "teleportation circle inlay",
+    "fact": "The teleportation circle's silver inlay glowed with a sickly green light.",
+    "source_quote": "its silver inlay glowing with a sickly green light",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "teleportation circle destination",
+    "fact": "The teleportation circle connected to five predetermined locations deep in the Underdark.",
+    "source_quote": "that connected to five predetermined locations deep in the Underdark",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur immediately set to work recalibrating the teleportation circle.",
+    "source_quote": "Felkur immediately set to work recalibrating it",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Fae crystals",
+    "fact": "Felkur used the Fae crystals the party had collected for the recalibration.",
+    "source_quote": "using the Fae crystals the party had collected",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur moved his fingers across the arcane mechanisms with focused precision.",
+    "source_quote": "his fingers moving across the arcane mechanisms with focused precision",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "party",
+    "fact": "The others took up defensive positions around Felkur.",
+    "source_quote": "as the others took up defensive positions around him",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "iron door",
+    "fact": "The iron door leading to the staircase was the only other way into the chamber.",
+    "source_quote": "The iron door leading to the staircase was the only other way into the chamber",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "party",
+    "fact": "The party moved quickly to hold the iron door.",
+    "source_quote": "the party moved quickly to hold it",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein planted himself against the iron door.",
+    "source_quote": "Daein and the Owlbear planted themselves against it",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Owlbear",
+    "fact": "The Owlbear planted itself against the iron door.",
+    "source_quote": "Daein and the Owlbear planted themselves against it",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas nocked an arrow.",
+    "source_quote": "Akritas nocked an arrow",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim stood ready.",
+    "source_quote": "Bramgrim stood ready",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "stone golem",
+    "fact": "The unmistakable grinding of stone on stone announced the stone golem's approach.",
+    "source_quote": "The unmistakable grinding of stone on stone announced the stone golem's approach",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "High Inquisitor Veris",
+    "fact": "Behind the stone golem came the furious voice of a visibly injured High Inquisitor Veris.",
+    "source_quote": "behind it came the furious voice of a visibly injured High Inquisitor Veris",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "High Inquisitor Veris",
+    "fact": "High Inquisitor Veris bore wounds from the three-way battle below.",
+    "source_quote": "bearing wounds from the three-way battle below",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "High Inquisitor Veris",
+    "fact": "High Inquisitor Veris screamed that he would not be framed.",
+    "source_quote": "screaming that he would not be framed",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "High Inquisitor Veris",
+    "fact": "High Inquisitor Veris screamed that he would have Felkur's head.",
+    "source_quote": "that he would have Felkur's head",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "High Inquisitor Veris",
+    "fact": "High Inquisitor Veris screamed that he would have his revenge.",
+    "source_quote": "and that he would have his revenge",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "stone golem",
+    "fact": "The golem threw itself against the door.",
+    "source_quote": "The golem threw itself against the door",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "High Inquisitor Veris",
+    "fact": "Veris commanded the golem to tear the door from its hinges when brute force alone wasn't enough.",
+    "source_quote": "Veris commanded it to tear the door from its hinges entirely",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "stone golem",
+    "fact": "The golem tore the door from its hinges entirely.",
+    "source_quote": "which it did",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "chamber floor",
+    "fact": "Splinters of iron flew across the chamber when the door was torn off.",
+    "source_quote": "sending splinters of iron flying across the chamber",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein threw himself at the golem in an attempt to shove it back through the opening.",
+    "source_quote": "Daein threw himself at the golem in an attempt to shove it back through the opening",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "stone golem",
+    "fact": "The construct was immovable as a mountain against Daein.",
+    "source_quote": "but the construct was immovable as a mountain",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Owlbear",
+    "fact": "The Owlbear launched itself at the golem with its enchanted claws.",
+    "source_quote": "The Owlbear, undeterred, launched itself at the golem with its enchanted claws",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "stone golem",
+    "fact": "The Owlbear raked deep gouges into the stone golem.",
+    "source_quote": "raking deep gouges into the stone",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim called upon a powerful ward.",
+    "source_quote": "Bramgrim called upon a powerful ward",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "spectral guardians",
+    "fact": "Spectral guardians erupted into being around Bramgrim.",
+    "source_quote": "spectral guardians erupted into being around him",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "spectral guardians",
+    "fact": "The spectral guardians swirled like a storm of divine fury.",
+    "source_quote": "swirling like a storm of divine fury",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "stone golem",
+    "fact": "The spectral guardians battered the golem with relentless force.",
+    "source_quote": "that battered both the golem and Veris with relentless force",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "High Inquisitor Veris",
+    "fact": "The spectral guardians battered Veris with relentless force.",
+    "source_quote": "that battered both the golem and Veris with relentless force",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur was rendered invisible by Daein's magic.",
+    "source_quote": "Felkur, rendered invisible by Daein's magic",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "pillar",
+    "fact": "Felkur sheltered behind a pillar.",
+    "source_quote": "and sheltered behind a pillar",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "eldritch cannon",
+    "fact": "Felkur deployed his eldritch cannon.",
+    "source_quote": "deployed his eldritch cannon",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "cannon blast",
+    "fact": "Felkur sent a blast of fire roaring into the golem.",
+    "source_quote": "sent a blast of fire roaring into the golem",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas marked the construct with a hunter's mark.",
+    "source_quote": "Akritas marked the construct with a hunter's mark",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas put an arrow into the golem with practiced precision.",
+    "source_quote": "and put an arrow into it with practiced precision",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur managed to install the shattered nodes while the battle raged around him.",
+    "source_quote": "Felkur, even while the battle raged around him, managed to install the shattered nodes",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Fae crystals",
+    "fact": "Felkur rewired the Fae crystals into the portal mechanism.",
+    "source_quote": "and rewire the Fae crystals into the portal mechanism",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "portal mechanism",
+    "fact": "The rewiring stabilized the recalibration.",
+    "source_quote": "stabilizing the recalibration",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "The stabilization bought the party precious additional time should Felkur's concentration falter.",
+    "source_quote": "and buying the party precious additional time should his concentration falter",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "High Inquisitor Veris",
+    "fact": "Veris grew increasingly desperate and furious.",
+    "source_quote": "Veris, growing increasingly desperate and furious",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "High Inquisitor Veris",
+    "fact": "Veris teleported past the frontline entirely.",
+    "source_quote": "teleported past the frontline entirely",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "High Inquisitor Veris",
+    "fact": "Veris materialized inside the chamber.",
+    "source_quote": "and materialized inside the chamber",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "High Inquisitor Veris",
+    "fact": "Veris's eyes were burning with rage.",
+    "source_quote": "his eyes burning with rage",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "High Inquisitor Veris",
+    "fact": "Veris closed the distance to the party.",
+    "source_quote": "as he closed the distance to the party",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "teleportation circle",
+    "fact": "The teleportation circle continued to pulse and shift as Felkur worked.",
+    "source_quote": "The teleportation circle continued to pulse and shift as Felkur worked",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "teleportation circle light",
+    "fact": "The circle's green light flickered toward something new.",
+    "source_quote": "its green light flickering toward something new",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "escape route",
+    "fact": "The flickering light indicated a way out.",
+    "source_quote": "a way out",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "battle status",
+    "fact": "The battle hung in the balance.",
+    "source_quote": "The battle hung in the balance",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "remaining time",
+    "fact": "Six more agonizing rounds stood between the party and their escape.",
+    "source_quote": "with six more agonizing rounds standing between the party and their escape",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur located a hidden door in the vault wall.",
+    "source_quote": "Felkur located a hidden door in the vault wall",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur used his expert knowledge of mechanisms and thieves' tools to bypass the lift access.",
+    "source_quote": "Felkur uses his expert knowledge of mechanisms and thieves' tools to bypass the lift access",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "lift bypass",
+    "fact": "Felkur bypassed the lift access with exceptional precision.",
+    "source_quote": "to bypass the lift access with exceptional precision",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "OS mockery",
+    "fact": "Felkur mocked the outdated 'Abyssal 23' operating system controlling the lift.",
+    "source_quote": "mocking the outdated 'Abyssal 23' operating system controlling it",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "upper corridor",
+    "fact": "The party entered the upper corridor.",
+    "source_quote": "The party enters the upper corridor",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "entry trace",
+    "fact": "Felkur's flawless work left no trace of their entry.",
+    "source_quote": "Felkur's flawless work leaving no trace of their entry",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Glyph-Warded Corridor",
+    "fact": "The party entered a 50-foot corridor lined with floor tiles.",
+    "source_quote": "The party enters a 50-foot corridor lined with floor tiles",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur investigated the floor.",
+    "source_quote": "Felkur investigates the floor",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Glyph of Warding",
+    "fact": "Felkur identified a Glyph of Warding on the second tile.",
+    "source_quote": "identifies a Glyph of Warding on the second tile",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Glyph effect",
+    "fact": "The Glyph of Warding would have exploded upon contact.",
+    "source_quote": "that would have exploded upon contact",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim cast True Seeing.",
+    "source_quote": "Bramgrim casts True Seeing",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "trap revelation",
+    "fact": "True Seeing revealed the full nature of the traps throughout the corridor.",
+    "source_quote": "to reveal the full nature of the traps throughout the corridor",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "trap pattern",
+    "fact": "The party discovered that tiles corresponding to prime numbers were trapped.",
+    "source_quote": "The party discovers that tiles corresponding to prime numbers are trapped",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "corridor navigation",
+    "fact": "The party navigated the corridor by stepping only on non-prime numbered tiles.",
+    "source_quote": "allowing them to safely navigate the corridor by stepping only on non-prime numbered tiles",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Vraxen",
+    "fact": "Vraxen was one of the hosts distracted by a three-way confrontation.",
+    "source_quote": "while their hosts\u2014Vraxen, Veperyd, and Varexis\u2014are distracted by a three-way confrontation",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Veperyd",
+    "fact": "Veperyd was one of the hosts distracted by a three-way confrontation.",
+    "source_quote": "while their hosts\u2014Vraxen, Veperyd, and Varexis\u2014are distracted by a three-way confrontation",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Varexis",
+    "fact": "Varexis was one of the hosts distracted by a three-way confrontation.",
+    "source_quote": "while their hosts\u2014Vraxen, Veperyd, and Varexis\u2014are distracted by a three-way confrontation",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas noticed that their imp guide had disappeared during the escape.",
+    "source_quote": "Akritas notices that their imp guide has disappeared during the escape",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur discovered his own entry in the Lexicon of Oaths.",
+    "source_quote": "Felkur discovers his own entry in the Lexicon of Oaths",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Felkur's past crime",
+    "fact": "In the Lexicon, drunk Felkur sold a priceless artifact for 45 gold pieces.",
+    "source_quote": "drunk, he sold a priceless artifact for 45 gold pieces",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "artifact activation",
+    "fact": "Felkur accidentally activated the artifact's anti-divination magic.",
+    "source_quote": "accidentally activated its anti-divination magic",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Phantom Ghost origin",
+    "fact": "Felkur unknowingly became the legendary Phantom Ghost.",
+    "source_quote": "and unknowingly became the legendary Phantom Ghost",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur scrambled his name in the Lexicon of Oaths.",
+    "source_quote": "Felkur scrambles his name in the Lexicon of Oaths",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur replaced his name with Veris of Mulmaster in the Lexicon.",
+    "source_quote": "and replaces it with Veris of Mulmaster",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "shard of crystallized Faerzess",
+    "fact": "Felkur immediately pocketed a shard of crystallized Faerzess from the vault shelf.",
+    "source_quote": "then immediately pockets shard of crystallized Faerzess from the vault shelf",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas shook his head at Felkur's actions.",
+    "source_quote": "Akritas and even the Owlbear shake their heads",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Owlbear",
+    "fact": "The Owlbear shook its head at Felkur's actions.",
+    "source_quote": "Akritas and even the Owlbear shake their heads",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Lexicon theft",
+    "fact": "Felkur stole again moments after erasing evidence of his last theft.",
+    "source_quote": "having learned absolutely nothing",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "scent-extraction gadget",
+    "fact": "Felkur had a scent-extraction gadget on him.",
+    "source_quote": "I have to extract that flavor every time I eat",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "golem security",
+    "fact": "The scent-extraction gadget was the exact tool needed to fool the stone golem's security.",
+    "source_quote": "the exact tool needed to fool the stone golem's security",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur explained he does not like spicy food.",
+    "source_quote": "I just really don't like spicy food",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Lexicon of Oaths",
+    "fact": "The party read the contract aloud in the vault.",
+    "source_quote": "The party reads the contract aloud in the vault",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "reputation reveal",
+    "fact": "Reading the contract revealed the absurd and accidental origin of Felkur's infamous reputation.",
+    "source_quote": "revealing the absurd and accidental origin of Felkur's infamous reputation",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur mocked the archaic 'Abyssal 23' OS after rolling a 38.",
+    "source_quote": "after rolling a 38 to bypass the lift, mocks the archaic 'Abyssal 23' OS controlling it",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "lift bypass context",
+    "fact": "Felkur mocked the OS while the party was in the middle of a heist.",
+    "source_quote": "while the party is in the middle of a heist",
+    "quote_verified": true
+  }
+]

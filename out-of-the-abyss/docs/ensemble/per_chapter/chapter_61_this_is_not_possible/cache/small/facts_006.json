@@ -1,0 +1,114 @@
+[
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is currently leading an ambush against helmed horrors in Deneir's Sanctum, wielding Dawnbringer and relying on tactical precision, having just stabilized his party after a brutal encounter.",
+    "source_quote": "Alright \u2014 let's go ahead and attack. With Dawnbringer.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz was targeted by helmed horrors during the ambush, survived a crushing blow, and cast Scorching Ray to damage them, demonstrating adaptability after realizing they lack minds.",
+    "source_quote": "Alright \u2014 we're going to try Scorching Ray.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir engaged a helmed horror with verbal\u8bd5\u63a2 and physical combat, using his fist and Glabbagool to corrode its armor, showing resourcefulness despite its silence.",
+    "source_quote": "Hello?\" ... \"Glabbagool \u2014 riding his arm \u2014 did the acid trick.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum stood firm against helmed horrors, channeling a burst of clean light that affected two at once, reinforcing his role as a support caster in the ambush.",
+    "source_quote": "Grygum stepped up and let go a burst of clean light that caught two of them at once.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daral",
+    "fact": "Daral, recently restored by Dawnbringer, panicked during the ambush, claiming helmed horrors cannot be here, revealing his fragile mental state despite physical recovery.",
+    "source_quote": "Behind us Daral was coming apart, saying it wasn't possible, these creatures can't be here, how could they.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Fembris",
+    "fact": "Fembris stood in shock during the helmed horrors' ambush, unresponsive and mentally overwhelmed, treated as terrain by Thorin due to inaction.",
+    "source_quote": "Fembris just stood in shock.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool, riding Zalthir's arm, corroded a helmed horror's armor with acid, demonstrating lethal synergy with its wielder against heavily armored foes.",
+    "source_quote": "Glabbagool \u2014 riding his arm \u2014 did the acid trick.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "helmed horror",
+    "fact": "Helmed horrors are animated suits of plate armor with no occupants, hovering slightly above ground, emitting glowing eye-points, and acting with single-minded, unyielding objectives \u2014 not responding to speech or emotion.",
+    "source_quote": "Suits of plate with nobody inside, walking and \u2014 this was the part that made my neck itch \u2014 hovering, lifting a hand's width off the floor and drifting.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is a sentient sword that responded to Daral's praise by radiating warmth and grace, then later enhanced Thorin's strikes with sap-like slowing effects during combat, demonstrating sentience and emotional resonance.",
+    "source_quote": "The blade lit, poured into Daral, and took the sickness with it.\" ... \"the horror's movements went slow and sloppy, off-balance for its next swing.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Deneir's Sanctum",
+    "fact": "Deneir's Sanctum is a locked room where the party was held captive before the ambush, now the site of a violent encounter with helmed horrors, filled with lingering tension and unresolved narrative weight.",
+    "source_quote": "So we sat in Deneir's office, fed by proxy, our patient healed, wondering how the story was going to end.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "ambush of the helmed horrors",
+    "fact": "An unexpected ambush occurred in Deneir's Sanctum, where three helmed horrors attacked the party, targeting Daz repeatedly, forcing the group to adapt tactics after realizing the creatures lack minds and respond only to force.",
+    "source_quote": "Glass and wood came in at the same time, from three directions, and for a breath none of us had moved.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is a sentient magical sword that glows when used for healing or combat, can sap enemy movement, and reacts emotionally to praise \u2014 now serving as both weapon and companion to Thorin.",
+    "source_quote": "The blade lit, poured into Daral, and took the sickness with it.\" ... \"Dawnbringer eats it up, I'm sure.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "locked door",
+    "fact": "The door to Deneir's Sanctum remains locked despite Daral\u2019s recovery and the party\u2019s victory over the helmed horrors, suggesting the conflict is not over and the story\u2019s resolution is still withheld.",
+    "source_quote": "Then Daral, glowing and cured and full of research, rose to leave \u2014 and found the door still locked.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occur during the ongoing session following the restoration of Daral and preceding the ambush \u2014 a single narrative unit with no external calendar reference.",
+    "source_quote": "Combat?\" Zalthir said. Yes. Combat.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "unknown creators of helmed horrors",
+    "fact": "An unknown faction or force created the helmed horrors \u2014 sentient constructs designed for singular combat objectives, possibly linked to ancient arcane experiments or cursed armor smiths.",
+    "source_quote": "Suits of plate with nobody inside, walking and hovering... They're like AIs.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "sentience of Dawnbringer",
+    "fact": "Dawnbringer's sentience and emotional response to flattery and combat suggest it is more than a weapon \u2014 its relationship with Daral and Thorin may be pivotal to the story's deeper arc.",
+    "source_quote": "I watched the whole demeanor of the thing open up, and I thought, there it is, a small good thing in a room full of guards.",
+    "quote_verified": false
+  }
+]

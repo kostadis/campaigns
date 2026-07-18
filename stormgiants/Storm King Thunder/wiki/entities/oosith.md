@@ -51,3 +51,7 @@ sources: ["oosith.md"]
 ## 2023-10-05
 
 - Added pages for Oosith, Intelligence Networks, Telepathy, Child Kidnapping Voter Coercion, and Political Coercion based on the analysis of the "oosith.md" source.
+
+## Related
+
+- [[lord-khaspere-drylund]]

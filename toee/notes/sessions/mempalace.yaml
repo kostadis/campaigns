@@ -1,15 +1,11 @@
+# mneme-rendered; source-sha256: b9a0a6cb3bb1d10993ec55f72c3a80c6c49f81483457ea95cbf50b3fe5802d73; do-not-edit
 wing: prep
 rooms:
 - name: prep
-  description: Speculative session-prep — beats, branches, win conditions, anticipated play
+  description: prep content
   keywords:
   - prep
-  - session
-  - beat
-  - branch
-  - win condition
-  - scene
-  - speculative
 - name: general
-  description: Fallback
-  keywords: []
+  description: general content
+  keywords:
+  - general

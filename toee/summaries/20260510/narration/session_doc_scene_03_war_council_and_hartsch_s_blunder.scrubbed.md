@@ -1,0 +1,58 @@
+---
+scene: 03
+slug: war_council_and_hartsch_s_blunder
+narrator: sequoia
+scene_name: War Council and Hartsch's Blunder
+session: 20260510
+---
+The war room smelled like men who hadn't slept. Brown marble veined with black, the bronze sconces burning low, and Hartsch in the middle of it asking what to do next like a man who'd never once had to answer that question himself.
+
+Zephyr said wait. Let the temples bleed each other out. It was the correct answer, the cheap answer, the one that cost us nothing.
+
+Hartsch didn't like it. He brought up Romag — what Romag would have wanted, what Romag built, all of it in the voice of a man trying to borrow a dead man's spine. We'd killed Romag. I didn't say that. Nobody in the room knew it but us, and there is no need for him to know.
+
+So we asked which temple was weakest. Air. Thin guard, thinner walls. Zephyr proposed we hit it, and Hartsch agreed too fast — agreement was the only thing he could produce reliably — and then he asked for the night to sort deployment.
+
+That was fine. That was the part where a leader sleeps on it and wakes up with orders.
+
+We didn't sleep in the main temple. Zephyr wanted the Romag room. *The special room. Because we're, like, apostles.* The dead man's quarters, the one place in this building nobody would think to bother us. I watched Hartsch hand the whole question of where the apostles slept off to Zephyr, and Zephyr hand the question of deployment back to Hartsch — *you're the leader, you should be able to do this* — and I thought: nobody in this room wants to hold the thing they're holding.
+
+*Are we sure they're still alive?* I meant the Broken Blades. The men we'd recruited. The men whose lives were now sitting in the hands of a panicking quartermaster who couldn't decide where to put a chair.
+
+Hartsch asked to sleep on it. We let him. We went to the dead man's room.
+
+In the morning he was gone.
+
+I knew before we found the note. An empty office in a building this nervous isn't a man stepping out for air. *There you go.* I'd half expected it and being half-right is still being wrong about the half that matters.
+
+The note was on his desk in his own hand. *I couldn't wait! I sent the Broken Blades to attack!*
+
+I read it twice. Not because it was hard to read. Because I recognized it.
+
+I know that man. I've redistributed treasure when nobody was looking. I've taken quests without asking the others. I've decided, on my own, in the dark, that I knew better than the people standing next to me. *I couldn't wait* is a sentence I have lived inside of. The difference is I'm right when I do it, and I clean up after myself, and I don't get good men killed to feel like I'd done something.
+
+Hartsch was the version of me with no eye for consequence and no patience and a war to play with. We'd put him at the top of the Earth Temple because he was pliable. Pliable is just another word for a man who'll do anything as long as someone else seems to want it — including invent the someone.
+
+*That's odd.* No. *That's not good.*
+
+Back at the temple there were fewer people standing in it than the night before. Empty spaces where guards had been. An attack in the night, and it had cost us more than we could spare. Hartsch confessed it in pieces — he'd sent the Blades down to stage a raid on the Water Temple, and heard nothing back, and now if we lost them we'd lose the guards too, and *you have to do something.*
+
+Zephyr slapped him. Walked up and slapped the panic right across his face. It didn't take. *What do you want me to do, what do you want me to do, what do you want me to do* — the same three words on a loop, a man drowning in a puddle of his own making.
+
+Then Zinnia looked at the map where he'd marked his glorious initiative, and looked at him, and got the rest of it. I watched her face go still the way it does when the lie underneath finishes coming up.
+
+He hadn't just sent them without asking.
+
+He'd told them the orders came from us.
+
+There it was. The whole shape of the man in one stroke. He'd made the unilateral call and then pinned the name to it that wasn't his — ours — so that when the Blades died in the water it would be the Obsidian Edge that sent them. I'd have admired the instinct if it weren't aimed at me. A small man caught in a big machine, reaching for the only lever he understood: someone else's authority.
+
+So the Air Temple was off. You don't run a two-pronged raid when one prong is already pinned and bleeding under the wrong banner.
+
+"Okay, so we'll go straight to the Broken Blades," Zephyr said.
+
+Use them as the distraction. Let Hartsch advance from the east, if Hartsch could find east. Go pull our men out of the water before the lie killed them.
+
+The plan had switched. It switches. You don't spiral. You pivot.
+
+We went to get them back.

@@ -1,0 +1,135 @@
+[
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch was the keeper of the second High Tower key, which he transferred to someone else before vanishing; he believes he is at risk of being killed for the key and that its location must remain unknown; he was questioned about his movements and alibi, and admitted the tower is always watched, making unauthorized entry visible; he suspects the murderer is connected to the Great Readers and that Bookwyrm may be complicit in his removal from the case.",
+    "source_quote": "If I and I do not see you tomorrow, do not look for me at my post.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum researched poison and sapphire magic in the Flora Theca, identifying 'midnight tears' \u2014 a Feywild poison that kills at midnight and darkens on contact with saliva \u2014 and confirming that 'Sapphire' refers to a summoning spell capable of retrieving a hidden object; he deduced the murder weapon was a poisoned book read by Janussi, and that the sapphire spell could explain how the key was concealed and retrieved without physical possession.",
+    "source_quote": "You consume it, you're fine \u2014 apparently fine \u2014 and then you're dead at midnight.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz interrogated Daral Yashenti at the Hearth, where the suspect set the venue and displayed boisterous, drunken defiance; Daz noted the inversion of power in the encounter \u2014 the suspect choosing the ground \u2014 and observed Daral\u2019s dismissive attitude toward the investigation, suggesting possible obstruction or ignorance.",
+    "source_quote": "Oh, look, it's Faer\u00fbn's most famous detectives! Bookwyrm's brownnosers, I'm going to call you, because you like to\u2014",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin questioned Kalan about the High Tower\u2019s security, the nature of the key, and whether it had been compromised; he pushed for metaphysical explanations \u2014 including daylight savings and time zones \u2014 regarding the midnight poison; he accepted that the tower\u2019s constant surveillance rendered Kalan\u2019s access unverifiable; he later recognized the significance of the two-handed search pattern and the discrepancy between the locket-key and the safe-rifling.",
+    "source_quote": "The tower is watched. Always. People stand at it whether the key is in someone's pocket or not.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir confronted Kalan about the key\u2019s transfer, the murder\u2019s timing, and the possibility of deception; he challenged Kalan\u2019s assumption that the safe-rifling and the heart removal were committed by the same person, exposing a flaw in the theory; he obtained confirmation that Kalan could perform truth-detection magic if needed; he revealed new information about a shapeshifter impersonating Sylvira Savikas, which stunned Kalan and shifted the investigation\u2019s direction.",
+    "source_quote": "Is he aware that someone was pretending to be Sylvira Savikas the night of the murder?",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Great Readers",
+    "fact": "The Great Readers are a powerful, secretive group within the magical hierarchy; Kalan suspects one of them is the murderer and believes Bookwyrm may be protecting them or has been coerced into removing him from the case; their influence extends to manipulating investigations and eliminating inconvenient investigators.",
+    "source_quote": "I believe you're only being employed so you're likely to bungle the case, or else be silent if you do happen upon the right scent.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm is a high-ranking authority who has officially barred Kalan from the investigation; her motives are unclear, but Kalan suspects she is either protecting the murderer or has been manipulated into sidelining him; Zalthir and Thorin consider her role central to the conspiracy, possibly as a puppet or a participant.",
+    "source_quote": "Bookwyrm had made it official that he was to be nowhere near it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Janussi's murder",
+    "fact": "Janussi was killed by ingestion of 'midnight tears,' a Feywild poison that activates at midnight; the poison was administered via a book he licked his fingers to turn, leaving blackened lips and fingers; his heart was removed post-mortem to prevent resurrection; the key to the High Tower was hidden in a locket around his neck, which was stolen; two individuals searched the apartment \u2014 one who knew the key\u2019s location, one who did not and rifled the safe.",
+    "source_quote": "The heart was gone. Two people had stood over him \u2014 one who knew exactly where the locket-key hid, and one who didn't and tore through the safe instead.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "High Tower key transfer",
+    "fact": "Kalan transferred the second High Tower key to an unknown individual shortly before vanishing; he insists the key is no longer in his possession and that its location must remain secret; the key is believed to be retrievable via a summoning spell tied to a sapphire, allowing it to be hidden anywhere and recalled on demand.",
+    "source_quote": "I have given it now to someone who is not me.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "High Tower",
+    "fact": "The High Tower is the entrance to a cache of super-magical artifacts coveted by all evil entities in the world; it is perpetually watched by unseen sentinels, making unauthorized entry detectable regardless of key possession; it contains the High Tower Library, where critical research on the murder was conducted.",
+    "source_quote": "The High Tower, Kalan told us, was the entrance to all of the super magical artifacts that every evil entity in the entire world would love.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Flora Theca",
+    "fact": "The Flora Theca is a subsection of the Great Library\u2019s Pavilion Naturalis, dedicated to plants, herbs, and fungi; it was here that Grygum discovered the source of 'midnight tears' and confirmed the sapphire summoning spell; the location\u2019s quiet, scholarly atmosphere contrasted sharply with the violence of the crime under investigation.",
+    "source_quote": "Poison is just botany with intent.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Midnight tears",
+    "fact": "Midnight tears is a pale ochre, highly toxic dust derived from Feywild pollen; it is inert until midnight, at which point it kills the victim; it darkens upon contact with saliva, indicating ingestion via licked fingers; it is extremely rare, accessible only to those with Feywild connections.",
+    "source_quote": "The black stuff, yes, we saw that.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Sapphire summoning spell",
+    "fact": "A rare arcane working that allows the caster to summon a specific object into their hand from anywhere it has been hidden; requires a very expensive sapphire as a focus; does not function on objects worn, only carried; enables concealment of the High Tower key by storing it in a distant, inaccessible location and retrieving it only at the moment of use.",
+    "source_quote": "This would be great for the High Tower Keys.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Locket-key",
+    "fact": "The High Tower key was stored inside a locket worn around Janussi\u2019s neck; the locket was stolen after the murder, removing the only physical proof of the key\u2019s location; Kalan demonstrated a similar locket to prove the method of concealment, but his version was empty, casting doubt on his story.",
+    "source_quote": "The locket was missing. The key was in the missing locket.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Shapeshifter",
+    "fact": "A creature capable of assuming the form of others \u2014 specifically, someone impersonated Sylvira Savikas on the night of the murder; Zalthir revealed this to Kalan, who was unaware; the shapeshifter\u2019s involvement suggests the conspiracy is deeper and more dangerous than initially believed.",
+    "source_quote": "Keep in mind there are people who can change their form. Shapeshift. Whatever you want to call it.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Who is the real killer?",
+    "fact": "The true murderer is unknown; two suspects have emerged: one who knew the locket\u2019s location and stole it, and another who rifled the safe; Kalan suspects a Great Reader, but Zalthir and Grygum have evidence that the safe-rifling may have been a decoy; the removal of the heart and use of Feywild poison suggest a ritualistic or magically sophisticated killer.",
+    "source_quote": "Two hands had searched that apartment \u2014 one that knew exactly where to look, one that didn't.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Bookwyrm\u2019s true allegiance",
+    "fact": "Bookwyrm\u2019s role in the investigation is ambiguous; she may be protecting the murderer, being manipulated by them, or acting to contain a greater threat; Kalan believes she ordered his removal to silence him; Zalthir suspects she is part of the conspiracy, and the team\u2019s employment may be a cover to mislead the real investigators.",
+    "source_quote": "You're only being employed so you're likely to bungle the case.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "night of the murder",
+    "fact": "The murder occurred on the night of the incident, with Janussi consuming the poison during the day and dying at midnight; Kalan\u2019s timeline places him at the Chamber of Lost Lore, visiting Sylvira Savikas at quarter-past-ten, and inspecting the High Tower before the murder; the impersonation of Sylvira Savikas occurred during this window.",
+    "source_quote": "The quarter-past-ten visit to Sylvira Savikas over some cosmological question.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "eight o'clock meeting",
+    "fact": "Kalan met with Janussi at eight o'clock to request additional watchers, and was refused; this refusal may have triggered the murder, as Janussi was aware of security vulnerabilities; the timing suggests the killer acted within hours of this confrontation.",
+    "source_quote": "The eight o'clock meeting where he'd pressed Janussi for more watchers and been refused.",
+    "quote_verified": false
+  }
+]

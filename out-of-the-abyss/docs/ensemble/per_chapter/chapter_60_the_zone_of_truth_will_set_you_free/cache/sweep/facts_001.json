@@ -1,0 +1,170 @@
+[
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by Fembris Lancer as the authority who received the intellectual output of the colloquium and directed it to Glabbagool.",
+    "source_quote": "Grygum, that was fantastic!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daral",
+    "fact": "Daral is referenced by Thorin as the individual who retrieved the poisoned book and licked his finger to touch the book, then licked his finger again.",
+    "source_quote": "Daral had taken it back, as men who give gifts sometimes do when the recipient fails to appear sufficiently grateful. In the process of reclaiming it, he had licked his finger, licked the book, then licked his finger again.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is referenced by Grygum as the investigator who struggled to reconcile the sapphire and the locket as evidence and proposed that one person could have stolen both.",
+    "source_quote": "Thorin proposed that one person could have done both: stolen the locket, then taken the sapphire to close off pursuit.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by Grygum as the individual who observed Glabbagool could eat through walls and noted that the safe had not been opened.",
+    "source_quote": "Zalthir had been in Alkrist's chambers. He'd asked Glabbagool whether Glabbagool could squeeze through the crack. Glabbagool had made the distinction between a gap that admitted a gelatinous cube and a gap that did not.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is referenced by Grygum as the gelatinous cube that evaluated Fembris Lancer's notes and declared them non-nutritious, and later confirmed it could eat through walls.",
+    "source_quote": "This is not nutritious. This is not food. I remember when there was cheese. Perhaps if we had some cheese. Walls don't stop us. I can eat through walls.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Fembris Lancer",
+    "fact": "Fembris Lancer is referenced by Grygum as the individual who arrived with notes, sought to collaborate on a monograph, and later asked about the whereabouts of the four others.",
+    "source_quote": "Fembris Lancer arrived. He came in like a man who'd been rehearsing in the corridor. He had notes. 'Grygum, that was fantastic!' 'I think you might misunderstand the term monograph...' 'Where are the four of you? Who were the rest of you? I didn't see you at the talk.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Elian",
+    "fact": "Elian is referenced by Thorin as the individual who proposed a monograph, discussed the myth of the person, and claimed the quote 'Once you have eliminated the impossible, whatever remains, however unlikely, must be the truth?' as his own.",
+    "source_quote": "Elian said it again for emphasis: Kalan proposal was a good one. 'If you do find it useful, it'd be great if we could write a monograph together.' 'The myth of the person.' 'Once you have eliminated the impossible, whatever remains, however unlikely, must be the truth?' 'I made it up myself.'",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Oak Tree Apothecary",
+    "fact": "The Oak Tree Apothecary is referenced by Zalthir as the location where A'lai asked Leuwin for fresh fennel and where a dragonborn arrived during the murder.",
+    "source_quote": "A'lai had shown up at the Oak Tree Apothecary at half past two on the day of the murder, asking Leuwin for fresh fennel. While Leuwin was helping A'lai in the garden, a dragonborn had arrived: a huge, lizard-skinned figure, per the testimony of Nibbles the squirrel.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Alkrist's chambers",
+    "fact": "Alkrist's chambers is referenced by Zalthir as the location where Glabbagool was asked if he could squeeze through a crack and where the unopened safe remains.",
+    "source_quote": "Zalthir had been in Alkrist's chambers. He'd asked Glabbagool whether Glabbagool could squeeze through the crack. ... open threads: Alkrist's safe, unopened.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "poisoned book",
+    "fact": "The poisoned book is referenced by Daral as the object that was retrieved from the apothecary and touched with a licked finger.",
+    "source_quote": "Daral had taken it back, as men who give gifts sometimes do when the recipient fails to appear sufficiently grateful. In the process of reclaiming it, he had licked his finger, licked the book, then licked his finger again.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "sapphire",
+    "fact": "The sapphire is referenced by Thorin as the object required to locate a lost locket, and not useful for stealing one from a living person.",
+    "source_quote": "You can't steal a locket off someone who's alive and holding it. You need the sapphire to find a locket that's already lost.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "locket",
+    "fact": "The locket is referenced by Thorin as the object that cannot be stolen from a living person in possession of it.",
+    "source_quote": "You can't steal a locket off someone who's alive and holding it.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Alkrist's safe",
+    "fact": "Alkrist's safe is referenced by Grygum as the unopened container that remains a mystery and was later considered penetrable by Glabbagool.",
+    "source_quote": "open threads: Alkrist's safe, unopened. ... I guess I could have eaten through the safe. It would have taken a while.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Fembris Lancer's notes",
+    "fact": "Fembris Lancer's notes are referenced by Glabbagool as the non-nutritious material that was handed over and evaluated.",
+    "source_quote": "He handed them over. Glabbagool examined them with professional detachment: the focused, slightly acidic attention he gives to anything he's evaluating for nutritional content. 'This is not nutritious.'",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is referenced by Grygum as the gelatinous cube that has been carried through the Underdark and whose feelings about cheese are among the most consistent things about him.",
+    "source_quote": "I have carried this cube from the Underdark through several extremely dangerous situations, and his feelings about cheese are among the most consistent things about him.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "retrieval of the poisoned book",
+    "fact": "The retrieval of the poisoned book is referenced by Daral as the event during which he licked his finger, touched the book, and licked his finger again.",
+    "source_quote": "Daral had taken it back, as men who give gifts sometimes do when the recipient fails to appear sufficiently grateful. In the process of reclaiming it, he had licked his finger, licked the book, then licked his finger again.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "evaluation of Fembris Lancer's notes by Glabbagool",
+    "fact": "The evaluation of Fembris Lancer's notes by Glabbagool is referenced by Grygum as the event during which Glabbagool declared the notes non-nutritious and expressed longing for cheese.",
+    "source_quote": "Glabbagool examined them with professional detachment... 'This is not nutritious.' ... 'I remember when there was cheese.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "discussion of the myth of the person",
+    "fact": "The discussion of the myth of the person is referenced by Elian as the event during which it was established that the dead are not transparent narrators but retain their biases and self-deceptions.",
+    "source_quote": "The myth of the person. The assumption that death is a transparency, that the dead have shed their performances and will now simply tell you what's true. They don't. They're still themselves. They forget, misattribute, have things they'd rather believe about what happened.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "discovery of the Sylvira lookalike's appearances",
+    "fact": "The discovery of the Sylvira lookalike's appearances is referenced by Zalthir as the event that revealed a two-hour gap inconsistent with a single polymorph spell.",
+    "source_quote": "The Sylvira lookalike had been seen in the kitchens around one in the morning. She'd been seen coming down the stairs between two and three. That's a minimum two-hour gap. A polymorph spell lasts an hour.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is referenced by Thorin as the location where two individuals (Fembris and Elian) separately sought to collaborate on a monograph.",
+    "source_quote": "This was the second person at Candlekeep to angle for a monograph. First Fembris, now Elian.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "cheese",
+    "fact": "Cheese is referenced by Glabbagool as the lost food item he remembers with genuine longing.",
+    "source_quote": "I remember when there was cheese. Perhaps if we had some cheese.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum's claim of authorship of the quote",
+    "fact": "Grygum's claim of authorship of the quote 'Once you have eliminated the impossible, whatever remains, however unlikely, must be the truth?' is referenced by Elian as the event that led to its adoption as part of the colloquium's intellectual legacy.",
+    "source_quote": "'Once you have eliminated the impossible, whatever remains, however unlikely, must be the truth?' 'Yeah, there you go,' I said. 'I made it up myself.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is referenced by Zalthir as the entity that made the distinction between a gap that admits a gelatinous cube and one that does not.",
+    "source_quote": "Zalthir had been in Alkrist's chambers. He'd asked Glabbagool whether Glabbagool could squeeze through the crack. Glabbagool had made the distinction between a gap that admitted a gelatinous cube and a gap that did not.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "the colloquium on criminal investigation methodology",
+    "fact": "The colloquium on criminal investigation methodology is referenced by Thorin as the event where Elian argued that magic does not make evidence meaningful but adversarial, and that facts must be collected from multiple angles.",
+    "source_quote": "Magic was just another moving surface. The facts underneath it were still fixed. Collect facts from different angles: physical, testimonial, procedural. Combine them. When they all converge on the same point, that's when you know.",
+    "quote_verified": false
+  }
+]

@@ -4,7 +4,7 @@ title: Teega the Smith
 created: 2025-05-22
 updated: 2025-05-22
 tags: [npc, blacksmith]
-related: [kraken-society, wayside-inn, church-of-lathander, vukradin, valphine, soma, brewbarry]
+related: ["kraken-society", "wayside-inn", "clergy-of-lathander", "vukradin", "valphine", "brewbarry"]
 sources: ["teega_the_smith.md"]
 ---
 # Teega the Smith
@@ -18,10 +18,14 @@ Teega's involvement with the [[kraken-society]] was characterized by a period of
 Following her liberation, Teega has struggled with:
 - **Memory Loss:** Significant gaps in her recent history and the nature of her "rewired" brain.
 - **Trauma:** Lingering disorientation and a sense of being "ideologically adrift."
-- **Conflicting Loyalties:** While she seeks the stability of the [[wayside-inn]], she feels an unresolved pull toward the [[church-of-lathander]] following an encounter with [[valphine]].
+- **Conflicting Loyalties:** While she seeks the stability of the [[wayside-inn]], she feels an unresolved pull toward the [[clergy-of-lathander]] following an encounter with [[valphine]].
 
 ## Relationships
 - **[[vukradin]]**: Holds a positive view of him; he briefly restored her lucidity during her trance and offered her employment.
 - **[[valphine]]**: A tense relationship. While [[valphine]]'s actions freed her from compulsion, her intimidating demeanor and her "sermon" left Teega feeling disturbed and conflicted.
-- **[[soma]]**: Subdued her during her fugue state; the relationship is functional but lacks warmth.
+- **soma**: Subdued her during her fugue state; the relationship is functional but lacks warmth.
 - **[[brewbarry]]**: Provided medical/psionic diagnostic information regarding her condition.
+
+## Related
+
+- [[teega_the_smith]]

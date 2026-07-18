@@ -13,3 +13,7 @@ The kobold tribe is a faction within the narrative, characterized by its intelli
 ## Key Entities
 - **Kragota-Threeteeth:** Leader of the kobold tribe's intelligence network
 - **Nug:** Led the ambush group at the barricade
+
+## Related
+
+- [[intelligence-networks]]

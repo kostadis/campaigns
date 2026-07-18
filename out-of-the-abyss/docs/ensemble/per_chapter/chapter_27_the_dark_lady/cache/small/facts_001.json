@@ -1,0 +1,128 @@
+[
+  {
+    "type": "npc",
+    "subject": "Stool",
+    "fact": "Stool is a myconid who speaks incessantly, overwhelms others with verbal noise, and insists his kind are harmless despite evidence of mind-control spores and forced behavior. He is emotionally attached to Rump-a-dump and resists critical self-reflection.",
+    "source_quote": "Stool, once again, is speaking constantly, generating words and sounds, and not giving me a chance to think.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Rump-a-dump",
+    "fact": "Rump-a-dump is a restrained, precise-speaking myconid who observes the group\u2019s chaos with concern. He identifies Voosbur as the source of the spore infection and fears the contamination has spread to Neverlight Grove. He rejects anthropomorphic assumptions about myconid biology.",
+    "source_quote": "Something is not right here. It's Voosbur. He released strange spores... and everyone changed.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a coldly detached drow who dismisses the myconids\u2019 behavior as irrelevant, claims no danger exists beyond melee range, and is visibly embarrassed by the ignorance of surface dwellers regarding Underdark ecology.",
+    "source_quote": "They have the power to release spores. The dangerous spores are only hazardous in melee range. They can only turn creatures they have killed into Zombies. Until you are dead, the zombie process doesn\u2019t work.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a determined, empathetic giant who believes in helping others, including myconids. He is emotionally moved by the myconids\u2019 plight and attempts to interpret their behavior through cultural lenses, despite being misled by Stool\u2019s misinformation.",
+    "source_quote": "Thorin Giantfriend seems determined to help Stool\u2019s friend.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith is a humanoid under the influence of extended-range myconid spores, experiencing hallucinations of the 'Dark Lady' and compelled to join the myconids. He is internally conflicted but increasingly unable to resist the psychic pull.",
+    "source_quote": "The call... the Dark Lady is calling me! Can't you hear her? She sings in the spores, a song of becoming!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a myconid who survived the spore event by not consuming the growing/shrinking mushrooms. He remembers Neverlight Grove fondly and fears the infection has spread to his home. He is confused by surface-dweller misconceptions about myconid biology.",
+    "source_quote": "We were all very happy in Neverlight Grove... Then Voosbur's spores came... I did not eat them. That is why I am not... like this.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Voosbur",
+    "fact": "Voosbur is a myconid who released anomalous spores that caused mass behavioral transformation among his kin, inducing ecstatic dancing, hallucinations of the 'Dark Lady,' and loss of self. He is the apparent catalyst of the crisis and is not directly speaking, but his actions define the event.",
+    "source_quote": "It's Voosbur. He released strange spores... and everyone changed.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Growing/Shrinking Mushrooms",
+    "fact": "These are non-sentient fungal organisms that induce physical transformation in myconids who consume them. Their ingestion correlates with loss of cognitive control and behavioral deviation. They are not sentient, but their effects are central to the crisis.",
+    "source_quote": "I think they ate the silly mushrooms after we arrived.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Myconid Spores",
+    "fact": "The spores released by Voosbur have extended-range effects beyond the standard 30-foot limit, inducing hallucinations, compulsive dancing, and belief in a 'Dark Lady' entity. They can override free will and alter perception of reality, even affecting non-myconids.",
+    "source_quote": "We are seeing effects that are stronger than 30\u2019",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Zombie Myconids",
+    "fact": "Myconids transformed by spores have become passive, dancing entities under psychic influence. Though not literally undead, they are described as 'zombies' by Daz in terms of loss of autonomy. Their behavior is a result of spore-induced mental domination, not necromancy.",
+    "source_quote": "They started... this. This is... forced.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Neverlight Grove",
+    "fact": "Neverlight Grove is a myconid colony that existed in peaceful harmony until Voosbur\u2019s spores disrupted it. The colony is feared to be infected, threatening the sovereignty and survival of its remaining members.",
+    "source_quote": "What if Voosbur's strange spores... infected the rest of my myconids back home?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Spore Outbreak",
+    "fact": "A myconid spore outbreak originating from Voosbur has triggered mass behavioral changes, hallucinations, and loss of autonomy among myconids and some outsiders. The effects extend beyond standard range, suggesting an unprecedented mutation or amplification.",
+    "source_quote": "The next thing we knew, we were *here*. It was... a sudden jump.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Neverlight Grove",
+    "fact": "Neverlight Grove is a serene, glowing cavern that was once the peaceful home of a myconid colony. It is now suspected to be contaminated by Voosbur\u2019s spores, threatening its entire population.",
+    "source_quote": "We were all very happy in Neverlight Grove...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Underdark Site (Current)",
+    "fact": "A subterranean location where myconids have been transformed by Voosbur\u2019s spores into dancing, hallucinating entities. The site is marked by chaotic movement, psionic influence, and the presence of anomalous mushrooms.",
+    "source_quote": "We soon arrive at the cave with the Myconids, who seem to be dancing as if at a Wandering Veil concert...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "The Egg",
+    "fact": "An object of strategic interest to the party, believed to hold latent power. It was to be handed over to Gartokkar as part of a plan to escape, but its relevance is now overshadowed by the spore crisis.",
+    "source_quote": "They agree that we will hand over the egg to Gartokkar and then escape via the ports.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Dark Lady",
+    "fact": "A mysterious psionic entity or hallucinatory force invoked by affected myconids and Sarith. It is described as singing through spores, promising 'becoming' and 'true purpose.' Its origin and nature are unknown, but it may be a collective unconscious projection or a sentient entity emerging from the spores.",
+    "source_quote": "The Dark Lady is calling me! She sings in the spores, a song of becoming!",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Voosbur\u2019s Mutation",
+    "fact": "Voosbur\u2019s spores have exhibited unprecedented range and effect, surpassing known myconid capabilities. This suggests either a new strain, external influence, or a latent power awakening. The party must determine if this is natural evolution or something more sinister.",
+    "source_quote": "We are seeing effects that are stronger than 30\u2019",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "3rd day of the 2nd Tenday of Myrtul",
+    "fact": "The date on which the spore outbreak reached critical mass, Sarith was fully compromised, and Rump-a-dump identified Voosbur as the source. It marks the turning point in the party\u2019s understanding of the crisis.",
+    "source_quote": "## 3rd day of the 2nd Tenday of Myrtul",
+    "quote_verified": true
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "type": "npc",
+    "subject": "Sylvira",
+    "fact": "Sylvira is distraught and feverish, grieving the last argument she had with Janussi, and claims to have been with her son after 12:30 AM, returning to her chambers alone before succumbing to an abyssal plague.",
+    "source_quote": "I returned to my chambers around 12:30... and saw no one.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi was Sylvira\u2019s partner and the victim of murder; he dismissed Kalan Strongbranch as incompetent and refused to intervene on his behalf, and was reportedly hostile toward Teles Ahvoste for nearly twenty years.",
+    "source_quote": "Janussi was right to want him gone. He was a clown, a boar, and his research was third-rate at best.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch sought Sylvira\u2019s intervention to retain his position, which she declined to pursue; his proposal for investigative controls was deemed absurd by Bookwyrm and rejected by Janussi.",
+    "source_quote": "He asked her to intercede with Janussi on his behalf... she never brought it up.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Teles Ahvoste",
+    "fact": "Teles Ahvoste harbored a two-decade institutional grudge against Janussi, having been passed over for Keeper of Tomes despite being older and more skilled, and Sylvira suspects Teles of fabricating sightings of her after the plague set in.",
+    "source_quote": "If anyone claimed to have seen her after that, it would be members of the avowed who had long nurtured hostility toward her. Great Readers included. She named Teles Ahvoste directly.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm opposed Kalan Strongbranch\u2019s investigative proposals as absurd, and may have obstructed the implementation of safeguards that could have prevented the murder.",
+    "source_quote": "When Janussi had raised it at some point, it was Bookwyrm who'd felt it was absurd. Bookwyrm who had pushed hardest against it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daral Yashenti",
+    "fact": "Daral Yashenti was dismissed by Sylvira as having motive but lacking execution capability, based on her knowledge of his work.",
+    "source_quote": "The same confident dismissal she'd given Daral: she knew her field.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kazryn Nyantani",
+    "fact": "Kazryn Nyantani holds a credible, long-standing resentment toward Sylvira and Janussi, with apparent capability to act on it.",
+    "source_quote": "Kazryn Nyantani: resentment credible enough to survive scrutiny, long-standing grudge, apparent capability.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Avowed",
+    "fact": "The Avowed are a faction with longstanding hostility toward Sylvira, suspected of fabricating post-plague sightings of her to discredit her, and include Great Readers such as Teles Ahvoste.",
+    "source_quote": "It would be members of the avowed who had long nurtured hostility toward her. Great Readers included.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "end-of-year meeting",
+    "fact": "The end-of-year meeting at 11:30 PM centered on a joint vision for a library dedicated to the Great Wheel of Planes, but ended in a private argument between Sylvira and Janussi.",
+    "source_quote": "It ended in an argument about a personal, private matter, she said.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "feast at the end-of-year gathering",
+    "fact": "The feast was a drab affair with unchanged dishes; Sylvira left early as flu symptoms began, and Alkrist\u2019s alleged burning of something remains unconfirmed.",
+    "source_quote": "She'd left early when the flu began coming on.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Kalan's proposal",
+    "fact": "Kalan Strongbranch proposed a set of investigative controls and restrictions that were deemed insane by Sylvira and absurd by Bookwyrm, and were rejected by Janussi.",
+    "source_quote": "His proposal, which she called insane, all sorts of investigative controls and restrictions.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Mordenkainen's Mansion",
+    "fact": "Sylvira constructed a Mordenkainen's Mansion specifically for the protection of her son, born in the Abyss, and attempted to coax him back into it.",
+    "source_quote": "She'd been trying to coax him back into it.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "abyssal plague",
+    "fact": "An abyssal plague, born in the Abyss, was transmitted to Sylvira by her son, causing fever and physical deterioration, and serves as her alibi for post-12:30 AM.",
+    "source_quote": "Her son... had infected her with an abyssal plague, born in the Abyss, which has consequences.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Sylvira's son",
+    "fact": "Sylvira's son is a sick tiefling born in the Abyss, living in a constructed Mordenkainen's Mansion, and is the vector of the abyssal plague that incapacitated Sylvira.",
+    "source_quote": "She had a son, born in the Abyss, living in a Mordenkainen's Mansion she'd constructed specifically for his protection.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "honey sighting",
+    "fact": "A witness claimed to have seen the murderer near the kitchen with honey; Sylvira vehemently denies ever consuming honey, calling the claim nonsense, and this detail undermines the credibility of the sighting.",
+    "source_quote": "Honey? I would *never* drink honey. What kind of nonsense is this?",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Alkrist's burning",
+    "fact": "Grygum sought to know whether Sylvira knew anything about Alkrist burning something at the feast; she responded with diplomatic silence, suggesting either non-witness status or irrelevance.",
+    "source_quote": "She received it with the diplomatic silence of someone choosing not to comment on something they either hadn't witnessed or had already assessed as irrelevant.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "timeline gap between 12:30 and 1:00 AM",
+    "fact": "Sylvira has no precise record of events between 12:30 and 1:00 AM due to fever and lack of a wristwatch; she was alone and incapacitated during this period.",
+    "source_quote": "Between 12:30 and 1 in the morning, feverish, alone.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "murderer's identity",
+    "fact": "Multiple suspects exist: Teles Ahvoste (motive, institutional hatred), Bookwyrm (obstruction), Kalan (rejected proposal), Kazryn (resentment), and Daral (motive but dismissed execution); Sylvira\u2019s alibi is verifiable but her testimony is filtered through grief and illness.",
+    "source_quote": "It was enough to work with.",
+    "quote_verified": true
+  }
+]

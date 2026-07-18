@@ -1,8 +1,8 @@
 ---
 type: source
 title: "Source: feetor.md"
-created: 2026-05-13
-updated: 2026-05-13
+created: 2026-06-06
+updated: 2026-06-06
 sources: ["feetor.md"]
 tags: []
 related: []
@@ -10,43 +10,40 @@ related: []
 
 # Source: feetor.md
 
-### Key Entities
-- **Feetor**: Mud mephit; central figure, self-declared opportunist and "New King of the Swamp." Type: Character.
-- **Mama Manyknuckles**: Half-ogre leader; peripheral, former power player in the marsh. Type: Character.
-- **Water Weird**: Immortal creature; central, key antagonist. Type: Creature.
-- **Party**: Group of adventurers; central, primary antagonists. Type: Organization.
-- **Orsik**: Character; peripheral, initially resistant to Feetor's demands. Type: Character.
-- **Vardis**: Character; peripheral, contributed gold coin to secure mephit allegiance. Type: Character.
-- **Unla Kee**: Character; closest individual relationship with Feetor. Type: Character.
+## Key Entities
 
-### Key Concepts
-- **Mud Mephits**: Central concept, group of creatures Feetor manipulates. Type: Entity.
-- **Marsh Politics**: Phenomenon of political maneuvering within the marsh. Type: Phenomenon.
-- **Mephit Civil War**: Internal conflict among mud mephits. Type: Phenomenon.
-- **Tokenizing**: Method of manipulation used by Feetor. Type: Technique.
+| Name | Type | Role | Status |
+| :--- | :--- | :--- | :--- |
+| **Feetor** | Mud Mephit | Central; a self-proclaimed "New King of the Swamp" and opportunistic negotiator. | New Entry |
+| **Unla Kee** | Party Member | Central; engaged in a complex, high-stakes social/betting dynamic with Feetor. | Existing |
+| **Orsik** | Party Member | Central; interacted with Feetor regarding mephit recruitment. | Existing |
+| **Vardis** | Party Member | Peripheral; co-contributed the gold coin for mephit allegiance. | Existing |
+| **Mama Manyknuckles** | NPC (Defeated) | Peripheral; former leader of a half-ogre band in the marsh. | Existing |
+| **The Water Weird** | Entity/Monster | Peripheral; an immortal, reforming entity in the Marsh of Chelimber. | New Entry |
 
-### Main Arguments & Findings
-- **Core Claims**: Feetor emerges from hiding after defeating the water weird, aligns with the party, and uses various tactics to manipulate other mephits and gain their loyalty.
-- **Evidence**: 
-  - Feetor's initial speech and subsequent actions indicate he aligns with the party.
-  - His demand for a gold coin and later payment to Unla Kee demonstrate his willingness to use currency as leverage.
-  - His ability to sway mephits towards his side through threats and promises showcases his manipulative nature.
-- **Strength of Evidence**: Strong, supported by multiple instances of Feetor's actions and interactions with other characters.
+## Key Concepts
 
-### Connections to Existing Wiki
-- **[[mud-mephits]]**: This source provides insight into the behavior and motivations of mud mephits, which could be expanded upon.
-- **[[marsh-politics]]**: The source details marsh politics, which could be integrated into the existing page.
-- **[[mephit-civil-war]]**: The source mentions the mephit civil war, which could be linked to the existing page.
+| Name | Definition | Significance | Status |
+| :--- | :--- | :--- | :--- |
+| **Opportunistic Alignment** | Aligning with the strongest power at any given moment for self-preservation. | Defines Feetor's primary motivation and his "loyal" behavior toward the party. | New Concept |
+| **Theatrical Diplomacy** | Using rehearsed speeches and performative gestures to navigate social conflicts. | Used by Feetor to manufacture a narrative of being "freed from captivity." | New Concept |
+| **Honorary Status as Currency** | Granting titles or roles (e.g., "honorary mud mephit") to resolve conflict or mask debt. | A tool used by Feetor to manage his relationship with Unla Kee. | New Concept |
+| **Mephit Civil War** | The perpetual internal strife among the mud mephits of the marsh. | Establishes the political instability of the mephit faction. | New Concept |
 
-### Contradictions & Tensions
-- **Internal Tension**: Feetor's declarations of leadership and alliances are inconsistent with the ongoing mephit civil war, suggesting potential internal conflicts.
-- **Contradiction with Existing Knowledge**: There is no direct contradiction with existing wiki content, but the depth of Feetor's influence over other mephits remains unclear.
+## Main Arguments & Findings
+*   **Opportunistic Loyalty:** Feetor is not a "loyal" ally in the traditional sense; his allegiance to the party is a calculated response to their demonstrated power over the Water Weird and the half-ogres.
+*   **Performative Leadership:** His claim as "King of the Swamp" is largely a theatrical performance that does not translate into actual control over the mephits, who remain in a state of constant internal squabbling.
+*   **Transactional Relationship with Unla Kee:** The interaction between Feetor and Unla Kee highlights a "mutual recognition" of each other's scheming natures, resulting in a complex web of bets, titles, and debts.
 
-### Recommendations
-- **Create or Update Pages**: 
-  - [[feetor]]: Comprehensive page detailing Feetor's character, history, and relationships.
-  - [[mud-mephits]]: Expand the page to include more information on the group's behavior and motivations.
-  - [[marsh-politics]]: Integrate the source's insights into the existing page.
-  - [[mephit-civil-war]]: Include additional details from the source.
-- **Emphasize**: The strategic manipulation and opportunistic nature of Feetor.
-- **De-emphasize**: Specific details 
+## Connections to Existing Wiki
+*   **Unla Kee:** Strengthens his characterization as someone capable of engaging in high-level social maneuvering/scheming.
+*   **Orsik & Vardis:** Provides context for their interactions with local fauna/fae during the Marsh of Chelimber arc.
+*   **Mama Manyknuckles:** Confirms her defeat and the shift in power dynamics within the marsh.
+
+## Contradictions & Tensions
+*   **Influence vs. Proclamation:** There is a tension between Feetor's grand proclamations (King, Leader) and his actual influence; he claims authority that the mephits do not necessarily respect or follow consistently.
+*   **Currency Reliability:** He is "unreli
+
+## Related
+
+- [[feetor]]

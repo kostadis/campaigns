@@ -4,7 +4,7 @@ title: Presiding Druid (Enclave Council)
 created: 2026-06-15
 updated: 2026-06-15
 tags: [arbiter, institutional-authority, council-judge]
-related: [adabra-gwynn, emerald-enclave-factions, ritualized-questioning]
+related: ["adabra-gwynn", "emerald-enclave", "ritualized-questioning"]
 sources: ["npcs/adabra.md"]
 ---
 # Presiding Druid (Enclave Council)
@@ -16,3 +16,7 @@ His ruling was not a rejection of her philosophy — it was a rejection of her m
 He represents the institutional voice of the Enclave: measured, lawful, and weary of extremism. His presence reminds us that even in a world of magic and myth, governance still demands rules.
 
 He is the quiet counterpoint to Adabra’s fire — the voice of order in a world unraveling.
+
+## Related
+
+- [[the-presiding-druid]]

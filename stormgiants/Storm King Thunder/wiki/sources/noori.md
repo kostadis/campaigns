@@ -37,13 +37,13 @@ related: []
 - **Strength of Evidence**: Moderate, as the narrative focuses more on Noori's motivations and actions rather than providing extensive background or detailed evidence.
 
 ### Connections to Existing Wiki
-- **Existing Pages Related**: [[Uthgardt Tribe]], [[Warrens]], [[Teleportation-Circle]]
+- **Existing Pages Related**: [[force-grey-2026-06-06-063448]], [[warren]], [[Teleportation-Circle]]
 - **Impact on Knowledge**: This source provides additional context about Noori's character and motivations, potentially enriching the narrative universe.
 
 ### Contradictions & Tensions
 - **Internal Tension**: The reason behind Noori's hatred towards Unla Kee is not fully explained, creating an internal tension in her character development.
 
 ### Recommendations
-- **Pages to Create/Update**: [[Noori]], [[Uthgardt Tribe]], [[Warrens]], [[Teleportation-Circle]]
+- **Pages to Create/Update**: [[Noori]], [[force-grey-2026-06-06-063448]], [[warren]], [[Teleportation-Circle]]
 - **Emphasis**: Emphasize Noori's motivations and actions while de-emphasizing the lack of explanation for her hatred.
 - **Open Questions**: Further exploration into the cause of Noori's hatred towards Unla Kee would be beneficial.

@@ -1,0 +1,170 @@
+[
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a former Drow of Menzoberranzan, trapped by ritual and noble house machinations, now seeking to escape a worldview and explore the Underdark. He has joined a group of wanderers and is actively collecting Faerzress crystals as tools of discovery.",
+    "source_quote": "I never saw the Underdark for what it is, a place to explore and learn. And now I know this journey not as an escape to another place, but instead as an escape from a previous worldview.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth has been hiding the group's tracks for two days in the Underdark, moving through dark passages while avoiding detection. She is cautious about environmental changes that might reveal their path to the Drow.",
+    "source_quote": "For two days, Eldeth has been hiding our tracks for two days, where all we could see when we could see was the dark passages.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith claims to know the group's destination in the Underdark and is guiding them through passageways toward areas of Faerzress activity. His confidence contrasts with others' uncertainty.",
+    "source_quote": "Sarith insisted he knew where we were going.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Fuurm Coppernose",
+    "fact": "Fuurm Coppernose, or 'Copper', is a former farmer from the surface who entered the Underdark searching for his lost sister. He is starving, dressed in rags, and now carries a crystal as a weapon. He has no combat or magical skills, only survival instinct.",
+    "source_quote": "His name is Fuurm Coppernose, or Copper to his friends, who had lost his sister and went looking for her in the Underdark.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Baedora",
+    "fact": "Baedora is a starving woman in rags who escaped the Drow and demons in the Underdark. She believes staying away from both Drow and demons increases survival odds. She is now joining the group as a fellow escapee.",
+    "source_quote": "That it was demons that attacked. The Drow fought back. We ran. Figured we were more likely to stay alive away from Drow and Demons.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is curiously unobservant, failing to notice key details about newcomers or environmental shifts. He scoughs when confronted with evidence of escapees, suggesting detachment or denial.",
+    "source_quote": "I concur, but Zalthir, who is curiously unobservant, scoughs.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Stool",
+    "fact": "Stool is a myconid who has bonded with Thorin, riding on his back and relishing the experience. He is content and contributes to a moment of rare peace in the group\u2019s journey.",
+    "source_quote": "Stool, my new myconid friend, was curled up contentedly against Thorin's back, probably still reliving his 'good idea' to ride on the dwarf.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is a member of the group who initiates a bet about the utility of Faerzress crystals, showing a pragmatic, gambling nature uncommon among the others.",
+    "source_quote": "Jimjar shouts, 'Want to make a bet?' ... 'Yes, I do.'",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Drow of Menzoberranzan",
+    "fact": "The Drow of Menzoberranzan are a rigid, ritual-bound society dominated by noble houses and the Cult of Lolth, from which Daz and others have fled. They are hunters in the Underdark, tracking escapees and altering environments to reassert control.",
+    "source_quote": "Trapped in the formalities of ritual and expectations, trying to avoid the predations of the Cult of Lolth and the machinations of the Noble Houses.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Cult of Lolth",
+    "fact": "The Cult of Lolth is a powerful, predatory religious order among the Drow, exerting control through fear and ritual violence. It is one of the forces Daz escaped.",
+    "source_quote": "trying to avoid the predations of the Cult of Lolth",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Shriekers",
+    "fact": "Shriekers are subterranean creatures whose piercing, collective screams serve as alarms for larger predators. Their noise is not magically affected by the group\u2019s Faerzress crystals, indicating they are biological, not arcane, hazards.",
+    "source_quote": "A sudden, piercing shriek that ripped through the heavy air... Shriekers. The kind of noise that sends a jolt of adrenaline... screaming 'danger!' and 'dinner is served!'",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Demons",
+    "fact": "Demons have attacked in the Underdark, engaging in combat with Drow forces. Their presence creates zones of extreme danger, forcing survivors like Baedora and Fuurm to flee.",
+    "source_quote": "That it was demons that attacked. The Drow fought back.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Faerzress Crystal Cave",
+    "fact": "A cavern filled with glowing quartz crystals that emit a dim, ten-foot radiance due to the Faerzress arcane energy. The group collected crystals here, then smashed the cavern to disguise their escape as a monster attack.",
+    "source_quote": "An area suffused with the arcane glowing magic of the Faerzress. Fist-sized chunks of quartz crystals erupted from the wall... We smashed the cavern and the crystals, as if some monster had attacked.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Fungal Forest",
+    "fact": "A vast subterranean forest of towering fungi with bioluminescent caps and earthy brown stalks. The air is heavy with a sweet, damp loam scent. It is a natural habitat that emits no harmful spores but is infested with shriekers that act as alarm systems.",
+    "source_quote": "The air grew heavy with the subtle, earthy scent of the damp loam and something indescribably sweeter... a veritable forest of the subterranean. Mushrooms of all kinds... glowing faintly with a soft, bioluminescent light.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Faerzress Crystals",
+    "fact": "Glowing quartz crystals formed by the Faerzress arcane energy, emitting a dim radiance. The group collects them for exploration, uses them as tools, and later destroys them to conceal their trail. Their magical properties do not affect shriekers or fungi.",
+    "source_quote": "Fist-sized chunks of quartz crystals erupted from the wall, shedding a dim ten-foot radiance... We have collected so many strays that one more won\u2019t harm us. And so I invite them to join our group. Before we leave the cave, we take as many crystals as we can.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Smashing the Crystal Cavern",
+    "fact": "The group destroyed the Faerzress crystal cavern after collecting crystals, smashing the walls and crystals to simulate a monster attack and obscure their escape route from Drow trackers.",
+    "source_quote": "To hide our tracks, we smash the cavern and the crystals, as if some monster had attacked, not escaped slaves who took crystals that shone in the darkness.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Crystal Test Against Shriekers",
+    "fact": "The group threw a Faerzress crystal at a shrieker, expecting a magical reaction, but the shrieking continued unaltered, revealing the creature\u2019s biological nature and the crystals\u2019 lack of offensive power.",
+    "source_quote": "The crystal sailed through the air... and clattered against a broad fungal cap. And the shrieking... didn't change. It was a bit of an anticlimax, really. Just shrieking.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Recruiting Escapees",
+    "fact": "After encountering Fuurm and Baedora, the group decided to accept them as members, recognizing their survival and the group\u2019s growing size as a sign of resilience rather than burden.",
+    "source_quote": "We have collected so many strays that one more won\u2019t harm us. And so I invite them to join our group.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Fuurm\u2019s Missing Sister",
+    "fact": "Fuurm Coppernose entered the Underdark searching for his sister, whose fate remains unknown. Her disappearance is the driving motivation behind his survival and current presence in the group.",
+    "source_quote": "who had lost his sister and went looking for her in the Underdark.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Drow Tracking",
+    "fact": "The group fears that each environmental alteration \u2014 collecting or destroying crystals \u2014 makes them easier to track by the Drow. Eldeth is increasingly anxious, but others dismiss her concerns.",
+    "source_quote": "Eldeth is worried; she\u2019s reasonably convinced we have thrown the Drow off our tracks, but every time we mess with the environment, we make it easier for them.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Jimjar\u2019s Crystal Bet",
+    "fact": "Jimjar has made a bet with Grygum that the collected Faerzress crystals will prove useful \u2014 a wager whose outcome remains unresolved and may shape future decisions.",
+    "source_quote": "Jimjar shouts, 'Want to make a bet?' ... 'Yes, I do.'",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "2nd day of the 2nd tenday of Myrkhul, 1495",
+    "fact": "The day the group entered the fungal forest, encountered shriekers, and tested the Faerzress crystals against them. A day of revelation and anticlimax.",
+    "source_quote": "2nd day of the 2nd tenday of Myrkhul, 1495",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "3rd day of the 2nd tenday of Myrkhul, 1495",
+    "fact": "The day the group discovered another crystal-rich cave and Jimjar initiated a bet about the crystals\u2019 utility.",
+    "source_quote": "3rd day of the 2nd tenday of Myrkhul",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "5th day of the 2nd tenday of Myrkhul, 1495",
+    "fact": "The day Zalthir\u2019s narrative begins, marking a shift in perspective and potentially the start of internal group tension.",
+    "source_quote": "5th day of the 2nd tenday of Myrkhul",
+    "quote_verified": true
+  }
+]

@@ -1,0 +1,289 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session takes place on the 9th day of the 1st Tenday of Myrtul.",
+    "source_quote": "[Continuing \u2014 Date: 9th day of the 1st Tenday of Myrtul, Speaker: Zalthir]",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is discussing interplanar travel and the limitations of Buppido.",
+    "source_quote": "Then the gnome sighs, \u201cObviously, you do not understand the first thing about interplanar or gate travel. There are a great many things Buppido could do, but that is not one of them.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is looking at a list of names.",
+    "source_quote": "As he toys with his mace, he notices Zalthir looking at a list. \u201cI found this list of names earlier.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "list of names",
+    "fact": "The list of names Zalthir found might be worth looking into.",
+    "source_quote": "Grygum shrugs. \u201cI think they might be worth looking into.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "madness in the city",
+    "fact": "Grygum believes some madness afflicts the city, possibly similar to what consumed the Kuo-toans.",
+    "source_quote": "The answer disturbs Grygum, who is convinced that some madness afflicts the city, perhaps the same madness that consumed the Kuotoans.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a cleric of Bahamut.",
+    "source_quote": "The cleric of Bahamut approaches a stall in the Blade Bazaar...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Dulgir",
+    "fact": "Dulgir is a Duergar merchant who initially curses Grygum.",
+    "source_quote": "At that, the Duergar starts cursing Grygum, accusing him of things that, in a different sEttin g, might have provoked a violent reaction.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Dulgir",
+    "fact": "Dulgir shifts his speech to the stilted tongue of a Baldurian patriar during a transaction.",
+    "source_quote": "the Duergar suddenly shifts, speaking with the stilted tongue of a Baldurian patriar.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "mace",
+    "fact": "Grygum purchases a mace from Dulgir.",
+    "source_quote": "A few minutes later, he is the proud owner of a new mace.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "merchant invisibility",
+    "fact": "A merchant near a food stall becomes invisible during a transaction but continues speaking.",
+    "source_quote": "Near a food stall, a merchant suddenly turns invisible during a transaction but keeps speaking as if nothing has happened.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "merchant denial",
+    "fact": "A weapons merchant denies making a threat after a customer protests.",
+    "source_quote": "Across the aisle, another weapons merchant threatens a customer, and when the customer protests, the merchant denies ever saying so.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "merchant speaking to invisible brother",
+    "fact": "A cloth merchant stops negotiating and speaks to someone he calls his brother.",
+    "source_quote": "Next to him, a cloth merchant suddenly stops mid-negotiating and starts talking to someone he refers to as his brother.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Dulgir",
+    "fact": "Dulgir says the brother the cloth merchant speaks to doesn't exist.",
+    "source_quote": "But Dulgiar answers, \u201cHis brother doesn\u2019t exist.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "two-headed giant breaches gate",
+    "fact": "A two-headed, gray-skinned giant bursts through a gate, howling and smashing debris.",
+    "source_quote": "a two-headed, gray-skinned giant burst through a gate, howling madly and lashing out left and right, littering the plaza with rock and stone debris.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "duergar soldier killed",
+    "fact": "The giant strikes a duergar soldier, killing him and sending his body flying.",
+    "source_quote": "As he bellows, one of his swings connects with a duergar soldier, whose broken body flies through the air and crashes near you with a sickening crunch.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "nature of the giant",
+    "fact": "Thorin observes that stone giants never talk or bellow, suggesting the giant is unnatural.",
+    "source_quote": "Thorin, who overhears the giant, shouts, \u201cStone giants never talk. And they certainly don\u2019t bellow. Something is wrong.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin notes that two heads are more normal than bellowing for the giant.",
+    "source_quote": "\u201cTwo heads is more normal than bellowing.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum decides to fight the giant",
+    "fact": "Grygum decides to fight the giant because aiding others may earn allies.",
+    "source_quote": "He remembers the teachings of Bahamut that when you do a good turn for someone, they may do a good turn for you. \u201cIf I fight him, we may get some friends.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Duergar patrol moves toward giant",
+    "fact": "A Duergar patrol races toward the giant, marked by a sign of Bahamut.",
+    "source_quote": "A sign for Bahamut appears: a Duergar patrol racing towards this giant.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "combat begins",
+    "fact": "Zalthir and Thorin race into combat with the giant.",
+    "source_quote": "With that, Zalthir and Thorin race into combat.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz casts magic missiles",
+    "fact": "Daz casts magic missiles that streak from his hand at the giant.",
+    "source_quote": "Daz strikes first with magic missiles that streak from his hand.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir casts circle of darkness",
+    "fact": "Zalthir places a circle of darkness just before the giant and enters it.",
+    "source_quote": "Zalthir places his circle of darkness just before the giant and enters it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir misses giant with first strike",
+    "fact": "Zalthir strikes the giant but misses.",
+    "source_quote": "Stepping up to the giant, he strikes with a flurry of blows. But he misses.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir lands glancing blow",
+    "fact": "Zalthir uses mental focus and lands a glancing blow on the giant.",
+    "source_quote": "So Zalthir uses his power to focus his mind and strikes again. This time it is a glancing blow.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin strikes giant",
+    "fact": "Thorin approaches the giant with blindsight and strikes him with his sword.",
+    "source_quote": "Thorin rushes after Zalthir; with blindsight, he approaches the mad giant and strikes him with his sword.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum casts necrotic damage",
+    "fact": "Grygum speaks words of power and causes the giant to burn with necrotic damage and Bahamut's power.",
+    "source_quote": "Grygum speaks the words of power that Bahamut has taught him, pointing his holy symbol at the mad giant who burns with necrotic damage and the power of Bahamut.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "giant strikes Thorin",
+    "fact": "The giant smashes Thorin with a blow.",
+    "source_quote": "The giant roars and smashes Thorin,",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir deflects giant's attack",
+    "fact": "Zalthir deflects the giant's attack on Thorin using his monk awareness.",
+    "source_quote": "but Zalthir, using his awareness of the monk, deflects the attack just in time.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir casts magic missiles again",
+    "fact": "Zalthir speaks incantations and fires bolts of power from his fingers at the giant.",
+    "source_quote": "His fingers move in the air, the incantations are spoken, and bolts of power fly from his finger, striking the giant.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir strikes air while giant is blind",
+    "fact": "Zalthir strikes the air, which the giant, being blind and mad, fails to perceive.",
+    "source_quote": "Zalthir strikes the giant once, focusing his mind on striking again and striking the air. If the giant could see, he would see a dragonborn attack the air. And perhaps the giant would laugh. But this giant is mad and blind and misses this moment of joy.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin feints and strikes giant",
+    "fact": "Thorin feints and strikes the giant, causing it to howl.",
+    "source_quote": "Thorin feints and strikes the giant. The creature howls.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum casts necrotic damage again",
+    "fact": "Grygum raises his holy symbol and speaks words of power, causing the giant to burn again.",
+    "source_quote": "Gyrgum raises his holy symbol again and speaks the words of power, and the giant again burns.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "two-headed gray-skinned giant",
+    "fact": "The two-headed, gray-skinned giant is blind and mad.",
+    "source_quote": "The giant, although blind, dodges him.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "two-headed gray-skinned giant",
+    "fact": "The two-headed, gray-skinned giant bellowed and smashed debris when it breached the gate.",
+    "source_quote": "a two-headed, gray-skinned giant burst through a gate, howling madly and lashing out left and right, littering the plaza with rock and stone debris.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Blade Bazaar",
+    "fact": "The Blade Bazaar is a location where Duergar merchants behave strangely.",
+    "source_quote": "Grygum then notices that Dulgir is not the only one acting strangely. Many duergar merchants give different prices to buy or sell the same items whenever they are asked and insist that the buyers they deal with change their terms.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Darklake District",
+    "fact": "The Darklake District is isolated from the rest of the city by gates.",
+    "source_quote": "The gates at the end of the road keep the Darklake District isolated from the rest of the city.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Cult of the Dragon",
+    "fact": "The Cult of the Dragon almost brought Tiamat into the realms using artifacts and rituals.",
+    "source_quote": "The Cult of the Dragon almost brought Tiamat into the realms, and that required artifacts and rituals.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido cannot bring avatars of outer plane powers into the Prime Material Plane.",
+    "source_quote": "There are a great many things Buppido could do, but that is not one of them.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Second Sundering",
+    "fact": "The Second Sundering ended the era when outer plane powers could enter the Prime Material Plane at will.",
+    "source_quote": "Aos, the overgod, has ended that era with the Second Sundering.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Aos",
+    "fact": "Aos is the overgod who ended the era of free entry for outer plane powers via the Second Sundering.",
+    "source_quote": "Aos, the overgod, has ended that era with the Second Sundering.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "holy symbol",
+    "fact": "Grygum uses his holy symbol to channel Bahamut's power against the giant.",
+    "source_quote": "pointing his holy symbol at the mad giant who burns with necrotic damage and the power of Bahamut.",
+    "quote_verified": true
+  }
+]

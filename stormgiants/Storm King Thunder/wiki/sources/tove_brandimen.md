@@ -33,13 +33,13 @@ related: []
 ### Connections to Existing Wiki
 - **[[kragota-threeteeth]]**: Direct connection, as Tove is explicitly stated to be a confederate of Kagrota Threeteeth.
 - **[[con-artists]]**: Relevant, as Tove's actions demonstrate con artistry.
-- **[[emotional-manipulation]]**: Related, as Tove used emotional manipulation to deceive the party.
+- **[[emotional-manipulation-through-familial-reference]]**: Related, as Tove used emotional manipulation to deceive the party.
 
 ### Contradictions & Tensions
 - **Internal Tension**: Tove's actions seem contradictory to his initial portrayal as a desperate son seeking help. His willingness to deceive the party raises questions about his true intentions.
 
 ### Recommendations
-- **Create Pages**: [[tove-brandimen]], [[kragota-threeteeth]], [[con-artists]], [[emotional-manipulation]]
+- **Create Pages**: [[tove_brandimen]], [[kragota-threeteeth]], [[con-artists]], [[emotional-manipulation-through-familial-reference]]
 - **Emphasize**: The nature of Tove's role as a con artist and his motivations behind deceiving the party.
 - **Open Question**: Investigate further if Tove's actions were part of a larger scheme or if he acted independently of Kagrota Threeteeth.
 - **Update Existing Pages**: Ensure existing pages like [[kragota-threeteeth]] and [[con-artists]] reflect the new information about Tove's role.

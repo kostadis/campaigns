@@ -1,0 +1,156 @@
+[
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is an intelligent gelatinous cube traveling with the party who desires friendship and purpose, and has demonstrated the ability to clear passageways and respond to emotional appeals.",
+    "source_quote": "Glabbagool expressed curiosity about being hired and receiving payment, ultimately revealing that what he truly desired was friends and a sense of purpose.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a party member who claimed a magical short sword and proposed a motivational speech to distract the ooze horde, showing leadership and confidence in the plan.",
+    "source_quote": "Grygum claimed the magical short sword for himself... Grygum presented the plan: he would make a motivational speech to the army, who would distract the oozes.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a party member with the ability to move through shadows, who detected traps and ooze trails, proposed a stealth approach to capture the Pudding King, and demonstrated his abilities to gain the gnomes' trust.",
+    "source_quote": "Zalthir detected a pit trap... Zalthir proposed using his ability to move through shadows to reach the Pudding King... Zalthir offered to demonstrate his ability.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a party member who sent his bat familiar to scout, seized control of the clan meeting, and insisted the party lead the operation, showing initiative and tactical oversight.",
+    "source_quote": "Daz sent his bat familiar to scout the surrounding areas... Daz seized control of the discussion, declaring that the party would lead the operation and solve the problem their way.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Chief Dorbo Diggermattock",
+    "fact": "Chief Dorbo Diggermattock is the leader of Blingdenstone who initially resists cooperation, dismisses the Gold Whisker clan as squatters, and calls the party's plan the dumbest he's heard, but ultimately yields to pressure.",
+    "source_quote": "Chief Dorbo reacted with alarm... Chief Dorbo called the plan the dumbest he had ever heard... Chief Dorbo refused to include the Gold Whisker clan.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Senni Diggermattock",
+    "fact": "Senni Diggermattock is a leader in Blingdenstone who advocates for unity, supports inclusion of the Gold Whisker clan, silences Dorbo, and tasks the party with securing their alliance.",
+    "source_quote": "Senni Diggermattock silenced him and asked if he had a better one... Senni advocated for working with the Gold Whisker clan for the common good... Senni tasking them with bringing the Gold Whisker clan on board.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "The Pudding King",
+    "fact": "The Pudding King is a mad gnome who controls hundreds of oozes, speaks through a disembodied voice, holds court on a slime-covered throne, and seeks to cleanse Blingdenstone.",
+    "source_quote": "On the throne sat a small gnome, the Pudding King, who was madly holding court and speaking of cleansing Blingdenstone... The party confirmed that the Pudding King was the source of the disembodied voice.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Gold Whisker Clan",
+    "fact": "The Gold Whisker Clan are wererat gnomes considered squatters by Chief Dorbo, but are recognized as valuable assets against oozes due to their abilities and resilience.",
+    "source_quote": "a group of wererat gnomes considered squatters by Chief Diggermattock... Senni advocated for working with the Gold Whisker clan for the common good, highlighting their abilities as an asset against oozes.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Stoneheart Enclave",
+    "fact": "The Stoneheart Enclave is a gnome clan that Senni proposed to include in the full clan meeting to address the ooze crisis, indicating their status as a key faction in Blingdenstone.",
+    "source_quote": "Senni suggested a full clan meeting, including the Stoneheart Enclave and the Miners Guild.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Miners Guild",
+    "fact": "The Miners Guild is a gnome organization involved in underground operations, whose members expressed interest in hiring Glabbagool for future work.",
+    "source_quote": "impressing a gnome from the mining operations who expressed interest in hiring him for future work.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Oozes",
+    "fact": "Oozes are amorphous, non-speaking creatures that cover the cavern walls and floor, are controlled by the Pudding King, and include green slime and digested corpses as evidence of their activity.",
+    "source_quote": "a vast cavern filled with countless oozes covering the walls and floor... Zalthir discovered two slimy, digested deep gnome corpses, confirming they were victims of oozes.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Juiblex",
+    "fact": "Juiblex, also known as the Faceless Lord, is a demon associated with oozes who infuses power to create chaos, referenced by Grygum as the source of the Pudding King's corruption.",
+    "source_quote": "Grygum recalled that a ghost had previously mentioned Juiblex, also known as the Faceless Lord, a demon who infuses power to create chaos.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Magical Short Sword",
+    "fact": "A magical short sword was discovered in the aftermath of the battle and claimed by Grygum, serving as a symbol of his role in the party and potential weapon against the ooze horde.",
+    "source_quote": "The party discovered a magical short sword in the aftermath, which Grygum claimed for himself.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Ten Percent Discount Coupon",
+    "fact": "A ten percent discount coupon was offered by a merchant from the Chamber of Commerce as a reward for the party's heroism, indicating civilian gratitude and economic recognition.",
+    "source_quote": "A merchant from the Chamber of Commerce offered the party a ten percent discount coupon as a reward for their heroism.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Trader's Grotto",
+    "fact": "The Trader's Grotto is the site of a prior battle with gelatinous cubes, where the party first encountered Glabbagool and discovered the magical short sword.",
+    "source_quote": "The aftermath of the battle with the gelatinous cubes in the Trader's Grotto left the party facing a crowd of questioning merchants and citizens.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Vast Ooze Cavern",
+    "fact": "The Vast Ooze Cavern is a massive subterranean chamber filled with oozes, a spherical stone-supported structure at its center, and the source of the disembodied voice of the Faceless Lord.",
+    "source_quote": "They soon entered a vast cavern filled with countless oozes covering the walls and floor, with a large spherical structure at its center held up by stone pillars.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Pudding King's Throne Cave",
+    "fact": "The Pudding King's Throne Cave is a phosphorescent-lit cavern with pools of green slime and a slime-covered throne where the Pudding King holds court and controls the ooze army.",
+    "source_quote": "Eventually, the familiar discovered a cave illuminated by phosphorescent lichen, with pools of green slime and a slime-covered throne. On the throne sat a small gnome, the Pudding King...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Ooze Crisis Resolution Plan",
+    "fact": "The party devised a plan to distract the ooze horde with a gnome army led by Grygum's speech while Zalthir infiltrates to capture the Pudding King, requiring coordination and a large-scale distraction.",
+    "source_quote": "Grygum presented the plan: he would make a motivational speech to the army, who would distract the oozes, while Zalthir captured or eliminated the Pudding King.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Clan Meeting Decision",
+    "fact": "The gnomes held a clan meeting where Senni pushed for inclusion of the Gold Whisker clan, Daz asserted party leadership, and Chief Dorbo reluctantly agreed to the party's terms.",
+    "source_quote": "Daz seized control of the discussion... Chief Dorbo, after a moment of stunned silence, agreed to the party's terms...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Voice of the Faceless Lord",
+    "fact": "A disembodied voice claiming the coming of the Faceless Lord to enhance Blingdenstone is heard throughout the cavern, suggesting a deeper demonic influence beyond the Pudding King.",
+    "source_quote": "A disembodied voice filled the cave, welcoming visitors and proclaiming the coming of a Faceless Lord to enhance Blingdenstone.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Glabbagool's Voices",
+    "fact": "Glabbagool began hearing mysterious voices calling him from the south, which he found unsettling, suggesting possible psychic or demonic influence targeting intelligent oozes.",
+    "source_quote": "Glabbagool began behaving strangely, claiming to hear voices calling him forward... Glabbagool indicated that the mysterious voices were coming from the south.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "after the battle",
+    "fact": "The events described occur immediately after the party's battle with the gelatinous cubes in the Trader's Grotto, marking the beginning of the ooze crisis investigation.",
+    "source_quote": "The aftermath of the battle with the gelatinous cubes in the Trader's Grotto...",
+    "quote_verified": false
+  }
+]

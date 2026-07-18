@@ -11,3 +11,11 @@ sources: ["harthos_zymorven.md"]
 - **Description:** The restoration of magical properties or existence.
 - **Influence:** Harthos's execution by decapitation is designed to prevent magical resurrection.
 - **Associated Characters:** Harthos Zymorven
+
+## Related
+
+- [[murder]]
+- [[magic-telepathy]]
+- [[magic-teleportation]]
+- [[magic-telekinesis]]
+- [[magic-transmutation]]

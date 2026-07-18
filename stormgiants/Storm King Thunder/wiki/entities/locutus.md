@@ -21,3 +21,7 @@ Immediately following this confirmation, [[sister-kaella]] assassinated him. Aft
 
 ## Status
 **Deceased.**
+
+## Related
+
+- [[locutus]]

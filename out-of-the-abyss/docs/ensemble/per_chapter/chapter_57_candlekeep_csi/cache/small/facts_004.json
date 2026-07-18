@@ -1,0 +1,114 @@
+[
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a rival of Janussi, suspected in the investigation due to his known hostility and the timing of events; he is one of the two individuals who simultaneously voiced the same line of inquiry, revealing a pattern of parallel thinking with Grygum.",
+    "source_quote": "I'm sorry, but I didn't mean to stomp on you. Oh, I was gonna say, does he have any rivals?",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is Thorin\u2019s partner in inquiry, sharing a habit of overlapping speech and complementary investigative instincts; he prioritizes tangible evidence over political grudges and pushes for the housekeeper\u2019s testimony to identify missing items.",
+    "source_quote": "One thing we need is somebody who knows what should be here, so they can tell us if anything's missing.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Fembris",
+    "fact": "Fembris is an assistant who, despite nervousness, becomes a key source of information, revealing Daral Yashenti as Janussi\u2019s long-standing rival, the missing locket, and the existence of two Hightower Library keys, one held by Janussi and the other by Kalan.",
+    "source_quote": "That'll be Daral Yashenti. Those two have been at each other's throats for years... Janussi held one of the two keys of the Hightower Library... the other key is heralded by the gate warden, Kalan.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daral Yashenti",
+    "fact": "Daral Yashenti is Janussi\u2019s long-standing rival, publicly unimpressed by the sellswords, and now the prime suspect due to motive, opportunity, and the symbolic weight of his grudge \u2014 a decades-old grievance that has hardened into a weapon.",
+    "source_quote": "He's the one who called you sellswords... He's the one who was very, you know, that not seemed, very impressed with you.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan",
+    "fact": "Kalan is the gate warden who holds the second key to the Hightower Library, making him a critical figure in the mystery of the missing book and the deletion of its contents; his key is the only one not accounted for after Janussi\u2019s death.",
+    "source_quote": "the other key is heralded by the gate warden, Kalan.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is an observant ally who connects disparate clues \u2014 the locket, the missing book, and the library keys \u2014 with sudden clarity, indicating he is synthesizing the investigation\u2019s hidden patterns.",
+    "source_quote": "So could that be the key to the library that was around there? Did somebody... that might explain why that stuff got deleted off the library, or off that book that no one should have touched.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is an institution of scholarly preservation, but its culture is poisoned by entrenched grudges, silent rivalries, and the slow accumulation of grievances \u2014 a contrast to the overt violence of the Underdark, where deception is honest and immediate.",
+    "source_quote": "I despise this whole place a little \u2014 not Candlekeep, Candlekeep's fine, the books are fine \u2014 but the *culture* of it, the scholars who keep grudges the way a dragon keeps gold...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Janussi's murder",
+    "fact": "Janussi was murdered under circumstances suggesting an insider attack \u2014 the locket around his neck is missing, and the book he was studying was deleted or removed, pointing to a targeted act of theft or sabotage tied to the Hightower Library\u2019s secrets.",
+    "source_quote": "The locket was missing. Off Janussi's neck... that book that no one should have touched.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "the locket",
+    "fact": "The locket was worn by Janussi and taken after his death; its absence is a key indicator that the killer sought not just to kill, but to remove a physical object tied to the library\u2019s security system or personal significance.",
+    "source_quote": "The locket was missing. Off Janussi's neck.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "the Hightower Library keys",
+    "fact": "Two keys exist to the Hightower Library \u2014 one held by Janussi (now missing), and one held by Kalan, the gate warden; the deletion of content from the book suggests the killer sought access to restricted materials, requiring one or both keys.",
+    "source_quote": "Janussi held one of the two keys of the Hightower Library... the other key is heralded by the gate warden, Kalan.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "the deleted book",
+    "fact": "The book Janussi was studying was altered or removed from the library archives, likely because it contained sensitive or forbidden knowledge \u2014 the same knowledge that may have motivated his murder and the theft of the locket.",
+    "source_quote": "that book that no one should have touched... why that stuff got deleted off the library.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the missing book\u2019s contents",
+    "fact": "The deletion or removal of the book\u2019s contents remains unexplained; its connection to the locket and the keys suggests it contained a cipher, a map, or a key to a hidden archive \u2014 a secret that someone killed to protect or steal.",
+    "source_quote": "Some sort of cipher... the book ends up being the key to.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the housekeeper\u2019s testimony",
+    "fact": "The housekeeper, Hollypocket, has not yet been interviewed, but her knowledge of what is normally present in the quarters is the next critical step \u2014 she may reveal what else is missing beyond the locket and the book, exposing the true scope of the theft.",
+    "source_quote": "go find, say, the housekeeper, and ask her, what is missing or out of place.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Hightower Library",
+    "fact": "The Hightower Library is a restricted archive within Candlekeep, housing forbidden or sensitive texts; its dual-key security system implies high-level access control, and the deletion of content indicates a breach by someone with access to one or both keys.",
+    "source_quote": "Janussi held one of the two keys of the Hightower Library.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "the cat",
+    "fact": "The cat, though not a combatant, provided information during the investigation \u2014 its behavior or knowledge was relevant enough for Fembris to mention it as a source, suggesting it may have witnessed or interacted with the killer or the missing items.",
+    "source_quote": "after we'd talked to the cat \u2014 long story, the cat had things to say.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "The investigation spans months of tension and overlapping patterns between Thorin and Grygum, indicating the grudge between Daral and Janussi has been developing for years, and the murder is the culmination of a long-brewing conflict.",
+    "source_quote": "months in a tunnel will teach two people to think along the same line...",
+    "quote_verified": false
+  }
+]

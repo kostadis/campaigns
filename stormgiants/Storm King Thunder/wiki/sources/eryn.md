@@ -1,8 +1,8 @@
 ---
 type: source
 title: "Source: eryn.md"
-created: 2026-05-13
-updated: 2026-05-13
+created: 2026-06-06
+updated: 2026-06-06
 sources: ["eryn.md"]
 tags: []
 related: []
@@ -10,62 +10,33 @@ related: []
 
 # Source: eryn.md
 
-### Key Entities
-- **Eryn:**
-  - **Name and Type:** Eryn (Villager, horse owner)
-  - **Role in the Source:** Central character, primary villager involved in the horse poisoning incident
-  - **Existing in Wiki:** Likely, given the detailed description and role in the narrative.
+## Key Entities
+*   **Eryn** (Villager/Horse Owner)
+    *   **Role:** Central to the local context of Parnast; serves as a narrative anchor for Wallace’s backstory.
+    *   **Status:** Likely exists in the wiki as a new entry or an update to "Parnast" related NPCs.
+*   **Wallace** (Party Member)
+    *   **Role:** Central. Eryn serves as his primary link to his past and local identity.
+    *   **Status:** Already exists in the wiki (implied by "party member").
 
-- **Wallace:**
-  - **Name and Type:** Wallace (Party Member)
-  - **Role in the Source:** Peripheral, interacting with Eryn in a casual manner
-  - **Existing in Wiki:** Likely, as he is a key character in the story.
+## Key Concepts
+*   **Narrative Economy (via Character Design):** Eryn exemplifies a "low-complexity" NPC who provides flavor and world-building without requiring extensive plot hooks.
+*   **Relationship-Driven Worldbuilding:** The use of childhood friendships to ground party members in the local setting.
+*   **Sardonic Wit as Characterization:** Using specific dialogue (the quip about adventurer knowledge) to establish a personality without long exposition.
 
-- **Other Horse Owner:**
-  - **Name and Type:** Not explicitly named
-  - **Role in the Source:** Peripheral, co-owner of the poisoned horses
-  - **Existing in Wiki:** Likely, as they are mentioned but not given a specific name.
+## Main Arguments & Findings
+*   **Role as a "Living" Environment:** Eryn’s primary function is to populate Parnast and provide immediate, grounded reactions to the crisis (the horse poisoning).
+*   **Contrast in Perspective:** Her dry wit provides a sharp contrast to Wallace's dramatic persona, highlighting the difference between an adventurer's high-stakes perspective and a local's pragmatic reality.
+*   **Evidence Strength:** High for characterization; her personality is clearly defined through a single interaction, even if her personal arc is non-existent.
 
-### Key Concepts
-- **Horse Poisoning Incident:**
-  - **Definition:** A significant event where a horse is poisoned, leading to Eryn's involvement.
-  - **Importance:** Central to the narrative, driving Eryn's presence and interactions within the story.
-  - **Existing in Wiki:** Likely, as it is a pivotal plot point.
+## Connections to Existing Wiki
+*   **Parnast:** Relates to the "Siege of Parnast" and local events. She provides a human face to the consequences of the poisoning.
+*   **Wallace:** Strengthens his backstory as a local with deep roots in the community.
+*   **Narrative Economy:** She is a prime example of this concept—a character who feels "real" despite having very few lines or plot points.
 
-### Main Arguments & Findings
-- **Core Claims:**
-  - Eryn is a villager and horse owner who became involved in a horse poisoning incident.
-  - She is a companion of Wallace, sharing a history as childhood friends.
-  - Her current concern is the welfare of her horse.
-- **Evidence:**
-  - Direct mentions of her presence at the horse poisoning scene.
-  - Wallace's casual interaction with her, indicating a familiar relationship.
-  - The co-ownership of the poisoned horses.
-- **Strength of Evidence:**
-  - Strong, as the details align with the narrative and events described.
+## Contradictions & Tensions
+*   **None identified.** The document is straightforward and consistent with the established "Narrative Economy" style of the wiki.
 
-### Connections to Existing Wiki
-- **Existing Pages:**
-  - [[horse-poisoning-incident]] — Relevant to the horse poisoning event.
-  - [[wallace]] — Wallace is a key character, likely already existing.
-  - [[episodes/horse-poisoning-incident]] — Episode-specific page.
-- **Impact:**
-  - Strengthens existing knowledge about the horse poisoning incident and Wallace's character.
-  - Provides additional context for Eryn's role and relationships.
-
-### Contradictions & Tensions
-- **Internal Tension:**
-  - No contradictions found within the provided information.
-  - Internal consistency is maintained throughout the narrative.
-
-### Recommendations
-- **Pages to Create or Update:**
-  - [[horse-poisoning-incident]] — To provide more details about the event.
-  - [[episodes/horse-poisoning-incident]] — To document the specific episode.
-  - [[episodes/wallace]] — To expand on Wallace's character.
-- **Emphasis:**
-  - Emphasize the horse poisoning incident and its impact on the characters.
-  - Highlight Eryn's relationship with Wallace and her horse.
-- **Open Questions:**
-  - Additional details about the horse poisoning incident, such as the cause and resolution.
-  - More information about Eryn's background and motivations.
+## Recommendations
+*   **Create/Update Page:** Create a page for **Eryn** if she serves as a recurring point of contact for Wallace, or keep her as a minor entry under Parnast's local population.
+*   **Link to Narrative Economy:** Link her profile to the `[[narrative-economy]]` concept to highlight how she functions as a "flavor" NPC.
+*   **Update Wallace’s Profile:** Add a note to **Wallace's** page regarding his childhood connection to Eryn and the local horse owners in Parnast.

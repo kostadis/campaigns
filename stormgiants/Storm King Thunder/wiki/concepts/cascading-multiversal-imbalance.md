@@ -4,7 +4,7 @@ title: Cascading Multiversal Imbalance
 created: 2026-06-15
 updated: 2026-06-15
 tags: [planar-theory, cosmic-consequence, druidic-ecology, systemic-disruption]
-related: [anti-interventionism-druidic, planar-travel, ordning-shattering, whispering-grove, divine-silence]
+related: ["emerald-enclave", "planar-travel", "shattering-of-the-ordning", "whispering-grove", "divine-silence"]
 sources: ["npcs/adabra.md"]
 ---
 # Cascading Multiversal Imbalance
@@ -15,6 +15,10 @@ Adabra does not view these symptoms as independent threats, but as downstream ef
 
 This framework elevates the stakes beyond local ecology: it frames every intervention as a potential catalyst for multiversal collapse. It justifies non-action not as passivity, but as cosmic responsibility. It also explains why she dismisses the party’s intentions — they are not evil, but dangerously naive.
 
-This concept extends [[planar-travel]] and [[ordning-shattering]] by introducing a mechanistic model of cosmic consequence: intervention = disruption = decay = collapse. It mirrors the theological collapse of the [[divine-silence]] — where divine withdrawal led to the fracturing of the Ordning — but secularizes it into a law of nature.
+This concept extends [[planar-travel]] and [[shattering-of-the-ordning]] by introducing a mechanistic model of cosmic consequence: intervention = disruption = decay = collapse. It mirrors the theological collapse of the [[divine-silence]] — where divine withdrawal led to the fracturing of the Ordning — but secularizes it into a law of nature.
 
 It is internally coherent, but empirically untestable. Its power lies not in proof, but in narrative inevitability: once accepted, every tragedy becomes evidence of its truth.
+
+## Related
+
+- [[planar-incursion-theory]]

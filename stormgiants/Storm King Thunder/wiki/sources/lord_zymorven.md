@@ -69,4 +69,17 @@ related: []
 - **Core Claims**:
   - Lord Zymorven is a cultivated ally of the party, maintaining a facade of magnanimity while quietly manipulating events.
   - He distances himself from direct involvement in political conflicts, preferring to manage public perception and legal outcomes.
-  - His actions during the theater battle reveal strategic maneuvering aimed at protecting his 
+  - His actions during the theater battle reveal strategic maneuvering aimed at protecting his
+
+## Related
+
+- [[party]]
+- [[lord_artan]]
+- [[harthos_zymorven]]
+- [[glazhael_the_undying]]
+- [[fzoul_slovis]]
+- [[duke_zalto]]
+- [[the_imperator]]
+- [[the_high_priest_of_mielikki]]
+- [[manshoon]]
+- [[szass_tam]]

@@ -1,0 +1,744 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 10th day of the 1st Tenday of Myrtul 1493 DR.",
+    "source_quote": "10th day of the 1st Tenday of Myrtul 1493",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "An hour passes between two events in the session.",
+    "source_quote": "An hour later",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
+    "source_quote": "four chasme and two vrock",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "Sloobludop is approximately eight days away via the Darklake.",
+    "source_quote": "the town of Sloopdopblop is just eight days away",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
+    "source_quote": "Drow outpost was 100' in the sky",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "stone giant presence",
+    "fact": "A very large and very venerable stone giant sits on a rock near Laduguer\u2019s Furrow.",
+    "source_quote": "sitting on a rock is a very large and very venerable stone giant",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Deep King\u2019s domain",
+    "fact": "The Deep King rules from a city where order escapes as control increases, and evil permeates below.",
+    "source_quote": "The Deep King has tried to keep order and control, and the more he trie,s the more the order escapes and tries to take the city from him.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "stonespeaker crystal",
+    "fact": "A 19 inch shard of quartz crystal enables Speak with Animals, Speak with the Dead, Speak with Plants, and aids divination.",
+    "source_quote": "a 19 inch shard of quartz crystal... Speak with Animals, Speak with the Dead, and Speak with Plants... aids divinations",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Derro slums",
+    "fact": "The Derro slums are a chaotic, unplanned district of burrows and piled structures, reeking of squalor and madness.",
+    "source_quote": "homes... mostly burrows carved into the walls and simple structures piled atop one another... dirty and cluttered streets... formed as dwellings spread and came together",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Whorlstone Caverns access",
+    "fact": "A secret fissure behind moldy boxes and canvas in West Cleft leads to the Whorlstone Caverns, marked by eerie fog.",
+    "source_quote": "lifts the scrap of cloth, pushes the gray sheets of canvas to the side, revealing a narrow fissure... a wisp of eerie fog floats out",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Buppido\u2019s shrine",
+    "fact": "A macabre altar of bones and skeletons arranged in a spiral pattern, tended by a deranged cultist named Buppido.",
+    "source_quote": "cluster of skeletons around Buppido... arranged in a spiral pattern around the cave\u2019s center",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Droki\u2019s passage",
+    "fact": "Droki moves with unnatural speed through Derro slums, delivering messages while appearing oblivious to surveillance.",
+    "source_quote": "Droki also doesn\u2019t seem to care if anyone is following him... walking too quickly for a Derro, as if there was something magical about his pace",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Faerzress Cavern",
+    "fact": "A long cavern lined with stalactites and stalagmites, where water drips silently and faerzress casts eerie spiral light.",
+    "source_quote": "long cavern lined with stalactites and stalagmites... glow of faerzress casts an eerie soft light... swirling into spiral patterns... the dripping of water makes no echo",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Shal the advisor",
+    "fact": "Shal is a mysterious new advisor to the Deep King, whose influence has caused the king to reject sage counsel.",
+    "source_quote": "Shal, an advisor of his. Ever since they became friends, The Deep King has been unwilling to listen to any sage advice.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Great Sundering",
+    "fact": "The end of the Great Sundering ended the era that allowed the gods to walk freely in Faer\u00fbn, enabling modern demonic incursions.",
+    "source_quote": "The end of the great sundering ended the era that allowed the gods to walk in Faer\u00fbn freely.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "demonic manifestations",
+    "fact": "Demons at Valkenvylve, the Beholder in Spidersilk Caves, demonic manta rays, and Demogorgon are not localized but part of a coordinated resurgence.",
+    "source_quote": "The demons at Valkenvylve, the Beholder in the Spidersilk caves, the demonic manta rays, and Demogorgon, all of this is no coincidence.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Cult of Tiamat ritual",
+    "fact": "The Cult of Tiamat resorted to an extraordinary ritual to bring her into the prime material plane due to the loss of divine freedom.",
+    "source_quote": "It\u2019s why the Cult of Tiamat had to resort to such an extraordinary ritual to bring her into the prime material plane.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Laduguer\u2019s Furrow",
+    "fact": "Laduguer\u2019s Furrow is a clean, orderly corridor with entrances on either side, contrasting sharply with the Derro slums to the west.",
+    "source_quote": "at either edge of this Furrow is an entrance... spotlessly clean in its style",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Buppido\u2019s betrayal",
+    "fact": "Buppido, once a captive, has become a cultist building a shrine to himself, claiming divine mandate.",
+    "source_quote": "I didn\u2019t expect you to find me here, with my shrine nearly finished! And power! My faithful are finally honoring me!",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "West Cleft District",
+    "fact": "West Cleft is a former slave district, now abandoned guardhouses serve as vantage points overlooking Derro territory.",
+    "source_quote": "The duergar built a series of guardhouses to keep an eye on their derro slaves living in the West Cleft. These were abandoned when Deepking Tarngardt... liberated the derro",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "East Cleft District",
+    "fact": "East Cleft is the expanded territory of the liberated Derro, now densely populated and chaotic.",
+    "source_quote": "allowing them to spread from the West Cleft District into the East Cleft District",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Council of Savants",
+    "fact": "The Council of Savants promised freedom to the Derro but failed to deliver, inciting rage and religious fervor.",
+    "source_quote": "The Council of Savants who promised freedom and failed to deliver freedom... The Council of Savants will fail my people.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz\u2019s spellcasting",
+    "fact": "Daz casts Fairie Fire to mark three skeletons, granting advantage to allies attacking them.",
+    "source_quote": "Daz casts Fairie Fire. Suddenly, three skeletons are marked, and an ethereal glow surrounds them.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s darkness",
+    "fact": "Zalthir plunges the cavern into darkness to disorient undead and disrupt Buppido\u2019s control.",
+    "source_quote": "Zalthir, never one to shy away from unusual tactics, plunges the area into darkness.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum\u2019s turning undead",
+    "fact": "Grygum turns undead after Zalthir\u2019s darkness lifts, slaughtering Buppido\u2019s skeletal minions.",
+    "source_quote": "The cleric\u2019s words of power overwhelm the skeletal minions of Buppido. The battle was evenly matched, but now it will become a slaughter.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Ghohlbrorn\u2019s Lair",
+    "fact": "Ghohlbrorn\u2019s Lair is where Jimjar plays games of chance and Buppido is held captive before his escape.",
+    "source_quote": "head back to Ghohlbrorn\u2019s Lair, where they find Jimjar playing a game of chance",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Cairngorm Cavern",
+    "fact": "Cairngorm Cavern is the starting point for journeys to Laduguer\u2019s Furrow and the Derro slums.",
+    "source_quote": "From the Cairngorm Cavern, Laduguer\u2019s Furrow is just a short distance",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Themberchaud\u2019s cave",
+    "fact": "Themberchaud\u2019s cave is the origin point of Thorin\u2019s journey toward the Cairngorm Cavern.",
+    "source_quote": "From Themberchaud\u2019s cave to the Cairngorm Cavern",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Hgraam\u2019s cave",
+    "fact": "Hgraam\u2019s cave is the dwelling of the ancient stone giant who speaks in riddles and bestows the stonespeaker crystal.",
+    "source_quote": "he heads back into his cave",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Duergar city",
+    "fact": "Duergar city is a place of rigid order where only Duergar are permitted, contrasting with the chaos of Derro districts.",
+    "source_quote": "where no one but the Duergar is allowed",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Underdark",
+    "fact": "The Underdark is a vast, evil-infested realm where madness creeps from the blackest depths and the rock itself cries in pain.",
+    "source_quote": "Something evil stirs in the Underdark. The rock itself cries in pain and horror, and a madness creeps from the blackest depths.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz\u2019s question about Grey Ghosts",
+    "fact": "Daz asks about Grey Ghosts, prompting Hgraam to lament the Deep King\u2019s descent into paranoia.",
+    "source_quote": "Grey Ghosts? The Deep King creates so many enemies. He used to be so calm. He and I would watch the stones grow.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Spidersilk Caves",
+    "fact": "The Spidersilk Caves are a site of demonic presence, noted as one of many non-localized demonic manifestations.",
+    "source_quote": "the Beholder in the Spidersilk caves",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Valkenvylve",
+    "fact": "Valkenvylve is a location where demons have appeared, part of a pattern of widespread demonic incursions.",
+    "source_quote": "The demons at Valkenvylve",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Menzoberranzan",
+    "fact": "Menzoberranzan is referenced as a Drow city that enslaves similarly to the Duergar, prompting moral reflection.",
+    "source_quote": "how the Drow of Menzoberranzan do it",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin\u2019s realization about Deep King\u2019s police",
+    "fact": "Thorin deduces that the Deep King uses secret invisible police to control the city, causing opposition to flee underground.",
+    "source_quote": "The Deep King has relied on his secret invisible police to control the city, and so opposition has gone underneath it.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Derro\u2019s tunnels",
+    "fact": "The Derro tunnels are accessed only by bypassing Duergar-controlled routes, as direct passage triggers bloodshed.",
+    "source_quote": "To get to the tunnels, the Duergar would have to go through the Derro, and that would trigger a bloodbath.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Laduguer\u2019s Furrow",
+    "fact": "Laduguer\u2019s Furrow is a clean, narrow corridor separating Duergar territory from Derro slums, with abandoned guardhouses.",
+    "source_quote": "Laduguer\u2019s Furrow is just a short distance... abandoned guardhouses now stand empty",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum\u2019s pursuit of Droki",
+    "fact": "Grygum follows Droki into Derro city and witnesses his passage through a hidden fissure into the Whorlstone Caverns.",
+    "source_quote": "Grygum gets up and follows Droki into Derro city... jumps into the crack",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "West Cleft",
+    "fact": "West Cleft is a Derro district where Droki\u2019s hidden entrance lies, and where Buppido\u2019s shrine is later found.",
+    "source_quote": "stops between a cluster of hovels in West Cleft",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Cavern of Bones",
+    "fact": "A cavern carpeted with humanoid remains arranged in a spiral, where Buppido has built his shrine.",
+    "source_quote": "floor is carpeted with humanoid remains in varying stages of decomposition, arranged in a spiral pattern around the cave\u2019s center",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Ghohlbrorn\u2019s Lair",
+    "fact": "Ghohlbrorn\u2019s Lair is where Buppido was held captive and where Jimjar plays games of chance.",
+    "source_quote": "head back to Ghohlbrorn\u2019s Lair, where they find Jimjar playing a game of chance",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Cairngorm Cavern",
+    "fact": "Cairngorm Cavern is the origin point of Zalthir\u2019s journey to Laduguer\u2019s Furrow.",
+    "source_quote": "From the Cairngorm Cavern, Laduguer\u2019s Furrow is just a short distance",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s observation of Derro slums",
+    "fact": "Zalthir observes the Derro slums and concludes why non-Duergar are needed to navigate them safely.",
+    "source_quote": "And now, why Errde Blackstaff and the Keeper of the Flames were so anxious to find a non-Duergar to come here is clear.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin\u2019s threat to Buppido",
+    "fact": "Thorin whispers a threat to Buppido if he betrays them after freeing him.",
+    "source_quote": "If you betray us, I will gut you.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Buppido\u2019s divine claim",
+    "fact": "Buppido claims his actions are guided by a divine plan, justifying his betrayal and cultism.",
+    "source_quote": "The divine plan tells me I must help you!",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Whorlstone Caverns",
+    "fact": "Whorlstone Caverns are a secret network accessible only through hidden fissures in West Cleft, used by Droki.",
+    "source_quote": "Droki is someone all of the factions trust and can get to the Whorlstone Caverns safely",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz\u2019s discovery of Buppido\u2019s shrine",
+    "fact": "Daz discovers Buppido has become a cult leader, building a shrine to himself amid bones and skeletons.",
+    "source_quote": "I didn\u2019t expect you to find me here, with my shrine nearly finished! And power! My faithful are finally honoring me!",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Cavern of Whispering Echoes",
+    "fact": "A cavern where the sound of dripping water makes no echo, suggesting magical dampening or distortion.",
+    "source_quote": "the dripping of water makes no echo, as if Daz stood in open air",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Faerzress-affected Zone",
+    "fact": "A region where the Faerzress distorts perception and sanity, casting spiral patterns and muting sound.",
+    "source_quote": "The glow of faerzress casts an eerie soft light... swirling into spiral patterns... the sound around you is strangely muted",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s reflection on Stone Giants",
+    "fact": "Zalthir reflects that the Stone Giants\u2019 patience and subtlety may offer lessons to his monastic order.",
+    "source_quote": "Perhaps there is something that even his monastic order could learn from their subtlety and patience.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Droki\u2019s Path",
+    "fact": "Droki\u2019s path is a well-worn trail marked by dropped junk, making him predictable and reliable for faction couriers.",
+    "source_quote": "Droki's path is very well worn and marked with junk that the Derro drops.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Deep King\u2019s Citadel",
+    "fact": "The Deep King\u2019s citadel is the seat of power where paranoia has taken root since Shal\u2019s arrival.",
+    "source_quote": "The Deep King has been unwilling to listen to any sage advice.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Cairngorm Cavern",
+    "fact": "Cairngorm Cavern is the origin point of Zalthir\u2019s journey to Laduguer\u2019s Furrow.",
+    "source_quote": "From the Cairngorm Cavern, Laduguer\u2019s Furrow is just a short distance",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Laduguer\u2019s Furrow",
+    "fact": "Laduguer\u2019s Furrow is a clean, orderly corridor separating Duergar territory from Derro slums, with abandoned guardhouses.",
+    "source_quote": "Laduguer\u2019s Furrow is just a short distance... abandoned guardhouses now stand empty",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "West Cleft",
+    "fact": "West Cleft is a Derro district where Droki\u2019s hidden entrance lies, and where Buppido\u2019s shrine is later found.",
+    "source_quote": "stops between a cluster of hovels in West Cleft",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Cavern of Bones",
+    "fact": "A cavern carpeted with humanoid remains arranged in a spiral, where Buppido has built his shrine.",
+    "source_quote": "floor is carpeted with humanoid remains in varying stages of decomposition, arranged in a spiral pattern around the cave\u2019s center",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Ghohlbrorn\u2019s Lair",
+    "fact": "Ghohlbrorn\u2019s Lair is where Buppido was held captive and where Jimjar plays games of chance.",
+    "source_quote": "head back to Ghohlbrorn\u2019s Lair, where they find Jimjar playing a game of chance",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Whorlstone Caverns",
+    "fact": "Whorlstone Caverns are a secret network accessible only through hidden fissures in West Cleft, used by Droki.",
+    "source_quote": "Droki is someone all of the factions trust and can get to the Whorlstone Caverns safely",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz\u2019s discovery of Buppido\u2019s shrine",
+    "fact": "Daz discovers Buppido has become a cult leader, building a shrine to himself amid bones and skeletons.",
+    "source_quote": "I didn\u2019t expect you to find me here, with my shrine nearly finished! And power! My faithful are finally honoring me!",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Cavern of Whispering Echoes",
+    "fact": "A cavern where the sound of dripping water makes no echo, suggesting magical dampening or distortion.",
+    "source_quote": "the dripping of water makes no echo, as if Daz stood in open air",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Faerzress-affected Zone",
+    "fact": "A region where the Faerzress distorts perception and sanity, casting spiral patterns and muting sound.",
+    "source_quote": "The glow of faerzress casts an eerie soft light... swirling into spiral patterns... the sound around you is strangely muted",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s reflection on Stone Giants",
+    "fact": "Zalthir reflects that the Stone Giants\u2019 patience and subtlety may offer lessons to his monastic order.",
+    "source_quote": "Perhaps there is something that even his monastic order could learn from their subtlety and patience.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Droki\u2019s Path",
+    "fact": "Droki\u2019s path is a well-worn trail marked by dropped junk, making him predictable and reliable for faction couriers.",
+    "source_quote": "Droki's path is very well worn and marked with junk that the Derro drops.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Deep King\u2019s Citadel",
+    "fact": "The Deep King\u2019s citadel is the seat of power where paranoia has taken root since Shal\u2019s arrival.",
+    "source_quote": "The Deep King has been unwilling to listen to any sage advice.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 10th day of the 1st Tenday of Myrtul 1493 DR.",
+    "source_quote": "Session 19\n## 10th day of the 1st Tenday of Myrtul 1493",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "The Faerzress blinked a few months ago.",
+    "source_quote": "A few months ago. Why? And this is unimportant.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
+    "source_quote": "four chasme and two vrock",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "Sloobludop is approximately eight days away via the Darklake.",
+    "source_quote": "the town of Sloopdopblop is just eight days away",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
+    "source_quote": "Drow outpost was 100' in the sky",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Blingdenstone route",
+    "fact": "Blingdenstone is the exit point for the party, accessible via multiple routes from the Underdark.",
+    "source_quote": "The city of Blingdenstone is your exit. There are many routes to the Overbrite from there.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "obsidian ring value",
+    "fact": "An obsidian ring of some value is on Pelek\u2019s hand, which may be recovered.",
+    "source_quote": "There is a family ring on it, an obsidian ring of some value. You can keep it if you find the hand.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "pygmywort effect",
+    "fact": "Pygmywort shrinks the consumer like a reduce spell, with a one-inch stem and stubby blue cap with white dots.",
+    "source_quote": "Pygmywort is the mushroom with a one-inch-long stem and a stubby blue cap with white dots, and Bigwig is the four-inch-tall mushroom with a thin stem and a wide purple cap. The first one shrinks you, like the effect of a reduce spell...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "bigwig effect",
+    "fact": "Bigwig enlarges the consumer like an enlarge spell, with a four-inch stem and wide purple cap.",
+    "source_quote": "Pygmywort is the mushroom with a one-inch-long stem and a stubby blue cap with white dots, and Bigwig is the four-inch-tall mushroom with a thin stem and a wide purple cap. ... the latter grows you, like the effect of an enlarge spell.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "torchstalk property",
+    "fact": "Torchstalk has a combustible cap and can burn for 24 hours when lit.",
+    "source_quote": "Why, that\u2019s a torchstalk. It has a combustible cap and can burn for 24 hours when lit.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "devil\u2019s mushroom effect",
+    "fact": "Timmask (devil\u2019s mushroom) causes madness if uprooted, with orange and red stripes on a beige cap.",
+    "source_quote": "Watch out,\" he shouts to Thorin. The dwarf was close to a two-foot-tall toadstool with orange and red stripes across its beige cap known as \u201cthe devil\u2019s mushroom,\u201d or a timmask. Uprooting the mushroom can cause madness.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "nightlight property",
+    "fact": "Nightlight mushrooms glow in a 15x15-foot radius and cease glowing when touched or cut, growing up to 15 feet tall.",
+    "source_quote": "It is so unlike the ormu... Nightlights\u2014mushrooms that grow to 15 feet and shed light in a 15-foot-by-15-foot circle. When they are touched or cut, they stop glowing.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "underdark fungal thicket",
+    "fact": "A dense fungal thicket blocks the tunnel juncture east of the lake, emitting a hissing whisper from wind through perforated mushrooms.",
+    "source_quote": "Blocking the tunnel juncture is a dense fungi forest... a hissing sound begins to rise. It sounds like uncounted tiny voices whispering in tongues he doesn't understand.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Faerzress anomaly",
+    "fact": "The Faerzress glowed brightly, then went dark and returned brighter than before, altering Buppido\u2019s temperament and possibly enabling planar breaches.",
+    "source_quote": "I did notice that the Faerzress glowed brightly, and after that, Buppido\u2019s temperament changed. He became convinced he was some kind of divine figure... It was almost as if it was being sucked out, and went dark and then came back brighter than before.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "thermal lake",
+    "fact": "A vast, black, heated pool fills the cavern, stretching nearly 100 feet to the opposite shore, frozen by Daz\u2019s spell.",
+    "source_quote": "This is no mere puddle but a large pool filling the cavern ahead, stretching nearly one hundred feet to the opposite shore. The most striking feature of this pool is its unnervingly black water... the water is surprisingly heated by a thermal spring...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "centipede swarm",
+    "fact": "Swarms of centipedes emerged in the fungal thicket, resisting both 'Toll the Dead' and 'Tasha's Caustic Brew' spells.",
+    "source_quote": "swarms of them. ... Daz watches as the centipedes emerge... his attempt has failed completely. ... the centipedes somehow manage to avoid the brunt of the spell.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "barrelstalk property",
+    "fact": "Barrelstalk is a large, cask-shaped fungus that stores water.",
+    "source_quote": "He picks up some barrelstalk, a large, cask-shaped fungus that stores water...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "bluecap property",
+    "fact": "Bluecap can be used to make flour.",
+    "source_quote": "He picks up some barrelstalk... bluecap for making flour...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "ripplebark property",
+    "fact": "Ripplebark tastes good when toasted.",
+    "source_quote": "He picks up some barrelstalk... ripplebark that tastes good toasted...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "trillimac property",
+    "fact": "Trillimac can be used for scrolls and makes a bread-like substance that can be rolled up.",
+    "source_quote": "He picks up some barrelstalk... trillimac that can be used for scrolls and makes a bread-like substance that can be rolled up...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "waterorb property",
+    "fact": "Waterorb stores water.",
+    "source_quote": "He picks up some barrelstalk... waterorb for storing water...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "zurkwhood property",
+    "fact": "Zurkwhood can be used for making things.",
+    "source_quote": "He picks up some barrelstalk... zurkwhood for making things.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "crack in wall with mushroom trail",
+    "fact": "A crack in the wall, flanked by Pygmywort and Bigwig mushrooms, leads to a tiny tunnel only accessible by ghostly perception.",
+    "source_quote": "A well-trodden path ends at a crack in the wall, with mushrooms to either side of the crack... Oh, look at that Pygmywort and Bigwig.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Droki\u2019s trail",
+    "fact": "Droki\u2019s trail leads from the cave entrance through the fungal thicket and across the frozen lake, marked by consistent footprints and mushroom consumption.",
+    "source_quote": "To the north is another cave and the obvious trail of Droki... Droki\u2019s obvious trail... Droki\u2019s trail is on the other side of the lake.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "ghostly possession avoidance",
+    "fact": "Pelek refuses to possess the party, citing awkwardness and personal preference.",
+    "source_quote": "Look, I don\u2019t want to possess you. It\u2019s awkward. And frankly, I like you.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "number eight avoidance",
+    "fact": "To avoid suspicion in Blingdenstone, the party must avoid anything associated with the number eight or references to spiders and Lolth.",
+    "source_quote": "make sure to deny any association to Lolth, or Menzoberranzan, and make any references to the number eight or spiders.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "whorlstone tunnels",
+    "fact": "The derro used hidden tunnels through the whorlstone, mentioned by Buppido as part of their smuggling network.",
+    "source_quote": "Buppido mentioned that there were tunnels that the derro used to go through the whorlstone tunnels.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "planar breach hypothesis",
+    "fact": "Daz hypothesizes that the Faerzress blink may have broken the walls between the planes, allowing Abyssal entities to enter.",
+    "source_quote": "Then if it blinked, could it have - I dunno - broken the walls between the planes?",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "centipede resistance",
+    "fact": "The centipedes are unusually resistant to necrotic and acid damage, suggesting magical or divine protection.",
+    "source_quote": "the centipedes somehow manage to avoid the brunt of the spell... Were these bugs unusually lucky, under the protection of some bug god...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "cave with pool of water",
+    "fact": "To the northeast of the cave entrance is a cave with a pool of water, unexplored by the party.",
+    "source_quote": "To the northeast is a cave with a pool of water.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "ghostly time perception",
+    "fact": "Pelek cannot accurately track time due to his ghostly state and confinement within 30 feet of his bones.",
+    "source_quote": "I don\u2019t know... Less than a year? Telling time in this cavern is hard. And being unable to move more than 30 feet from your bones makes it harder. And as a ghost, the usual time markers don\u2019t apply.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "overbrite access route",
+    "fact": "Blingdenstone provides access to the Overbrite, a location the party must reach to continue their journey.",
+    "source_quote": "The city of Blingdenstone is your exit. There are many routes to the Overbrite from there.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "swarm strike",
+    "fact": "Thorin manages to strike one of the swarms, dealing a significant blow.",
+    "source_quote": "Thorin actually manages to strike one of the swarms, dealing a significant blow.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "centipede persistence",
+    "fact": "The centipedes keep coming, relentless and unsettling.",
+    "source_quote": "the centipedes keep coming, relentless and unsettling.",
+    "quote_verified": true
+  },
+  {
+    "type": "spell",
+    "subject": "Burning Hands alternative",
+    "fact": "Maybe 'Burning Hands' would have been better?",
+    "source_quote": "Maybe 'Burning Hands' would have been better?",
+    "quote_verified": true
+  },
+  {
+    "type": "spell",
+    "subject": "wider area of effect",
+    "fact": "Perhaps something with a wider area of effect.",
+    "source_quote": "or perhaps something with a wider area of effect.",
+    "quote_verified": true
+  },
+  {
+    "type": "emotion",
+    "subject": "spell ineffectiveness",
+    "fact": "Wondering if his spells are just ineffective or if he needs to re-strategize.",
+    "source_quote": "wondering if his spells are just ineffective or if he needs to re-strategize.",
+    "quote_verified": true
+  },
+  {
+    "type": "physical_sensation",
+    "subject": "phantom bug sensation",
+    "fact": "Feeling the phantom sensation of bugs despite knowing there were none on him.",
+    "source_quote": "feeling the phantom sensation of bugs despite knowing there were none on him.",
+    "quote_verified": true
+  },
+  {
+    "type": "action",
+    "subject": "scanning spell list",
+    "fact": "Daz finds himself scanning his spell list, second-guessing his choices.",
+    "source_quote": "Daz finds himself scanning his spell list, second-guessing his choices.",
+    "quote_verified": true
+  }
+]

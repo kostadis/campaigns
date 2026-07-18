@@ -16,3 +16,9 @@ Boney is the canonical example: a skeletal horse who remembers his master, mourn
 Undead animal companions challenge assumptions about the soul, agency, and the moral status of non-human entities. They often serve narrative functions of emotional grounding, thematic contrast, and quiet subversion — turning horror into pathos, and monstrosity into devotion.
 
 This archetype is rare in fantasy settings, making Boney a pivotal case study in narrative design and moral complexity.
+
+## Related
+
+- [[boney]]
+- [[undead-loyalty]]
+- [[undead-sentience-without-corruption]]

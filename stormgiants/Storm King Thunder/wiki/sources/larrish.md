@@ -33,13 +33,22 @@ related: []
 - **Strength of Evidence**: Strong, based on direct testimony and prior recognition.
 
 ### Connections to Existing Wiki
-- This source relates to existing pages such as [[coerced-spy]], [[intelligence-networks]], [[town-council]], and [[family]]. It extends the understanding of coerced spies and their roles within intelligence networks.
+- This source relates to existing pages such as [[coercion]], [[intelligence-networks]], [[town-council]], and [[family]]. It extends the understanding of coerced spies and their roles within intelligence networks.
 
 ### Contradictions & Tensions
 - There is no apparent contradiction with existing wiki content regarding coerced spies or intelligence networks.
 - Internal tension might exist if Larrish's willingness to cooperate changes over time, which could be explored further.
 
 ### Recommendations
-- Create or update pages for [[coerced-spy]], [[intelligence-networks]], and [[town-council]] to incorporate Larrish's role.
+- Create or update pages for [[coercion]], [[intelligence-networks]], and [[town-council]] to incorporate Larrish's role.
 - Emphasize the central role of coerced spies and intelligence networks in the narrative universe.
 - Flag any open questions about Larrish's current status or motivations for further investigation.
+
+## Related
+
+- [[yazmeen]]
+- [[maia_qumaia]]
+- [[tolmarra]]
+- [[the_wight_elquen]]
+- [[mirran]]
+- [[narth_tezerin]]

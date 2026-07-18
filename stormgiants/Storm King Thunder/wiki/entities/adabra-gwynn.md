@@ -2,14 +2,14 @@
 type: entity
 title: Adabra Gwynn
 created: 2025-05-22
-updated: 2026-05-27
+updated: 2026-06-08
 tags: ["npc", "emerald-enclave", "antagonist", "druid", "apothecary", "anti-interventionist-faction", "philosopher", "anti-interventionist", "true-believer", "anti-interventionism-druidic", "naturalism-as-moral-framework", "emerald-enclave-factions", "meril's-staff", "weaponization-of-personal-debt", "harbin-wester", "ser-kaelen"]
-related: ["lyra", "emerald-enclave", "interventionism-vs-naturalism", "valphine", "adabra-gwynn", "anti-interventionist-faction", "whispering-grove-incident", "soma", "vukradin", "whispering-grove", "anti-interventionism", "true-believer-verification", "weaponized-debt", "motivated-blight", "anti-interventionism-druidic", "naturalism-as-moral-framework", "emerald-enclave-factions", "meril's-staff", "weaponization-of-personal-debt", "falcon-the-hunter", "aldric-stone-path", "harbin-wester", "ser-kaelen"]
+related: ["lyra", "emerald-enclave", "valphine", "adabra-gwynn", "whispering-grove-incident", "vukradin", "whispering-grove", "true-believer-verification", "weaponization-of-personal-debt", "motivated-blight", "merils-staff", "falcon-the-hunter", "aldric-stone-path", "harbin-wester", "soma", "corbin", "reidoth", "order-of-the-gauntlet", "clergy-of-lathander"]
 sources: ["lyra.md", "valphine.md", "adabra.md", "npcs/adabra.md"]
 ---
 # Adabra Gwynn
 
-Adabra Gwynn is a druid, apothecary, and philosopher based in Phandalin, and a leading figure in the anti-interventionist faction of the [[emerald-enclave]]. Once a respected member of her order, she has become increasingly marginalized and radicalized after witnessing the consequences of what she perceives as reckless interventionism — particularly the destruction of the [[whispering-grove]] and the death of its treant during the [[whispering-grove-incident]]. She is verified as a “true believer” by [[meril's-staff]], confirming the sincerity of her convictions, not their accuracy.
+Adabra Gwynn is a druid, apothecary, and philosopher based in Phandalin, and a leading figure in the anti-interventionist faction of the [[emerald-enclave]]. Once a respected member of her order, she has become increasingly marginalized and radicalized after witnessing the consequences of what she perceives as reckless interventionism — particularly the destruction of the [[whispering-grove]] and the death of its treant during the [[whispering-grove-incident]]. She is verified as a “true believer” by [[merils-staff]], confirming the sincerity of her convictions, not their accuracy.
 
 Adabra operates a shop in Phandalin’s town square and holds land around the Umbrage Hill windmill. Her worldview is rooted in **naturalism as a cosmological and moral framework**: she rejects moral categories like “evil,” “monster,” or “barbarian,” viewing all phenomena — including planar incursions, cults, and even drow sabotage — as natural expressions of cosmic diversity. She believes interventionism — whether by the Order of the Gauntlet, divine rituals, military action, or even well-intentioned heroism — disrupts ecological and multiversal equilibrium, triggering cascading instability. Her solution: non-interference. “Allow the ecosystem to find equilibrium without help.” She frames interventionists as waging “a war on nature.”
 
@@ -23,9 +23,9 @@ Her theological inversion is exemplified by her view of the Cult of Talos as “
 
 ## Ideological Conflict
 
-Adabra stands in direct opposition to the interventionist wing of the [[emerald-enclave]], particularly [[lyra]], whom she has actively worked to ostracize following the [[whispering-grove-incident]]. Lyra characterizes Adabra as “insane” and a dangerous fanatic whose ideological extremism threatens the Enclave’s cohesion. Their conflict epitomizes the broader tension between [[interventionism-vs-naturalism]] and [[emerald-enclave-factions]].
+Adabra stands in direct opposition to the interventionist wing of the [[emerald-enclave]], particularly [[lyra]], whom she has actively worked to ostracize following the [[whispering-grove-incident]]. Lyra characterizes Adabra as “insane” and a dangerous fanatic whose ideological extremism threatens the Enclave’s cohesion. Their conflict epitomizes the broader tension within the Enclave between non-interventionism and interventionism.
 
-Her campaign against the party culminated in a formal Enclave council hearing, where she weaponized a five-gold debt owed by [[vukradin]] and cited Corbin’s death as evidence of interventionist failure. The presiding druid condemned her tactic as “absolutely disgraceful.” Though her case was rejected, she departed fuming, signaling her intent to escalate. She has also strategically excluded Reidoth from council proceedings and personally investigated the Whispering Grove, revealing a disciplined, strategic operator driven by trauma and ideological purity.
+Her campaign against the party culminated in a formal Enclave council hearing, where she weaponized a five-gold debt owed by [[vukradin]] and cited Corbin’s death as evidence of interventionist failure. The presiding druid condemned her tactic as “absolutely disgraceful.” Though her case was rejected, she departed fuming, signaling her intent to escalate. She has also strategically excluded [[reidoth]] from council proceedings and personally investigated the Whispering Grove, revealing a disciplined, strategic operator driven by trauma and ideological purity.
 
 ## Key Relationships
 
@@ -35,10 +35,15 @@ Her campaign against the party culminated in a formal Enclave council hearing, w
 * **[[valphine]]**: A missionary of the [[clergy-of-lathander]], who targeted Adabra for conversion, viewing her naturalist extremism as a heretical deviation from divine order. This interaction intensified Adabra’s distrust of organized religion.
 * **[[falcon-the-hunter]]** and **[[aldric-stone-path]]**: Druids she recruited to her cause. Falcon later expressed regret over his alignment with her, suggesting the moral cost of her movement.
 * **[[harbin-wester]]**: A lesser-known figure referenced in connection with her network; likely a sympathizer or informant within the Enclave’s fringes.
-* **[[ser-kaelen]]**: Described her as “confused,” yet her worldview is internally consistent and rooted in firsthand observation — a mirror to the party’s own interventions.
+* **ser-kaelen**: Described her as “confused,” yet her worldview is internally consistent and rooted in firsthand observation — a mirror to the party’s own interventions.
 
 ## Recent Activity
 
 Following the [[whispering-grove-incident]], Adabra intensified her campaign against the party and the interventionist faction of the Enclave. Though she recently lost a formal hearing at the Enclave council, she remains a potent political threat. Her influence endures through her network of sympathizers, her control over apothecary resources, and her unwavering conviction. She is reportedly “far from finished,” and her actions suggest she is preparing deeper, more covert measures to enforce her vision of natural order.
 
-Her ideological rigidity, while internally consistent and metaphysically verified, is emotionally vengeful and politically toxic. She continues to rally druids and operate under the banner of [[anti-interventionism]], with her actions increasingly framed as attempts to correct what she perceives as “motivated blight” — a term she uses to describe deliberate corruption she refuses to acknowledge as such. Her legacy is one of uncompromising truth, profound isolation, and unresolved danger.
+Her ideological rigidity, while internally consistent and metaphysically verified, is emotionally vengeful and politically toxic. She continues to rally druids and operate under the banner of [[emerald-enclave]], with her actions increasingly framed as attempts to correct what she perceives as “motivated blight” — a term she uses to describe deliberate corruption she refuses to acknowledge as such. Her legacy is one of uncompromising truth, profound isolation, and unresolved danger.
+
+## Related
+
+- [[alphonse-big-al-kalazorn]]
+- [[thistle-wendrod]]

@@ -1,0 +1,72 @@
+[
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "The group had been climbing for around the third hour before emerging into the Overbright.",
+    "source_quote": "I had stopped counting the steps somewhere around the third hour of climbing",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "The group had been traveling through the Underdark for months, though the exact duration is unknown.",
+    "source_quote": "I genuinely cannot tell you how many months it had been",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Overbright elevation",
+    "fact": "The group emerged from a tunnel into the Overbright, implying a significant vertical ascent from the Underdark.",
+    "source_quote": "The tunnel mouth opened like a held breath finally released.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool count",
+    "fact": "One Glabbagool, a gelatinous ooze, peered out of the bag of holding.",
+    "source_quote": "Glabbagool \u2014 our companion, our gelatinous ward who was now a grey ooze",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "party member count",
+    "fact": "Eight individuals emerged from the tunnel: the narrator, Thorin, Grygum, Daz, Eldeth, Spiderbait, and two others.",
+    "source_quote": "The others emerged around me. Thorin first... Grygum next... Daz came through last... The rest of our moltley crew followed, Eldeth, Spiderbait, and the rest of the folks",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "bag of holding usage",
+    "fact": "Grygum opened the bag of holding just enough for Glabbagool to peer out.",
+    "source_quote": "Grygum had opened the bag of holding just enough",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "sequence of emergence",
+    "fact": "Thorin emerged first, Grygum next, Daz last, and the rest followed.",
+    "source_quote": "Thorin first... Grygum next... Daz came through last... The rest of our moltley crew followed",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "gold amount",
+    "fact": "The party had more gold than they started with, though they had started with nothing.",
+    "source_quote": "We had more of it than we had started with \u2014 which was not saying much, given that we had started with nothing",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "elapsed time after emergence",
+    "fact": "The weeks that followed blurred in the way that recovery blurs.",
+    "source_quote": "The weeks that followed blurred in the way that recovery blurs",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "The group had months ahead of them before the next thing began.",
+    "source_quote": "We had months ahead of us before the next thing began",
+    "quote_verified": true
+  }
+]

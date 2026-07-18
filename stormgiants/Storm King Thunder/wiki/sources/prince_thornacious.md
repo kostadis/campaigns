@@ -69,15 +69,21 @@ related: []
 ### Connections to Existing Wiki
 
 - **Existing Pages**:
-  - [[Seelie Court]]
-  - [[Zhentarim intelligence interest]]
-  - [[Empire-building]]
+  - [[unseelie-court]]
+  - [[intelligence-networks]]
+  - [[tower-of-storms]]
   - [[Exile]]
-  - [[Fairies]]
-  - [[Fey]]
-  - [[Fairy princes]]
-  - [[Queen Tatiana]]
+  - [[grindle-2026-06-06-042021]]
+  - [[grindle-2026-06-06-042021]]
+  - [[prince_thornacious]]
+  - [[queen_tatiana]]
   - [[Oblivillish]]
   - [[Blasius]]
-  - [[Kagrota]]
-  - [[Bad Fruul]]
+  - [[grindle-2026-06-06-042021]]
+  - [[bad-fruul]]
+
+## Related
+
+- [[eden_gleeful_gleeson]]
+- [[chancellor_geoffrey]]
+- [[sir_cedric_hollowcrest]]

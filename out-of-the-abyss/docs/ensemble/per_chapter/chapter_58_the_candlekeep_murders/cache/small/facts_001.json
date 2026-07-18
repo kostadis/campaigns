@@ -1,0 +1,107 @@
+[
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm is the authority overseeing the investigation into the Candlekeep murders, has summoned the investigators, and is personally managing their access to resources and information. She introduced Kei Tigersteel as Lorekeeper and priest of Oghma, dismissed him with a directive to take the body for purification, and now holds private meetings with the investigators. Her questions about suspects came too quickly, and her generous offers of space and assistance are viewed with suspicion.",
+    "source_quote": "Was there nobody that you wished to start your investigation with?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kei Tigersteel",
+    "fact": "Kei Tigersteel is the Lorekeeper of Candlekeep, priest of the Temple of Oghma, and described as the library's spiritual leader. He was in conference with Bookwyrm when the investigators arrived, was dismissed with the directive to take the body to the Shrine of Oghma for purification, and his presence suggests a religious dimension to the investigation.",
+    "source_quote": "yes, Kei, you can take the body to the Shrine of Oghma for purification.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is one of the lead investigators, skeptical of appearances, and repeatedly questions the motives behind Bookwyrm\u2019s actions. He is fixated on memory, detective tropes, and the reliability of information. He confirmed the investigation of the crime scene is complete and echoed the suspicion that Bookwyrm\u2019s generosity may not be innocent.",
+    "source_quote": "It doesn't seem just friendly.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a giant-raised investigator who cuts through pretense to ask direct questions about authority and power. He is the one who first asked who the investigators work for, and who insisted the crime scene remain sealed. He refused to name suspects, citing protocol, and is wary of the library\u2019s institutional structure.",
+    "source_quote": "We refuse to comment on ongoing.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Fembris Lancer",
+    "fact": "Fembris Lancer is an adjutant who attached himself to the investigators, eager to be involved in something more interesting than manuscript copying. He is tasked with fetching witnesses when named and serves as a liaison between the investigators and Bookwyrm\u2019s staff.",
+    "source_quote": "Fembris would fetch any witness we named.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Vooshadi Moonriver",
+    "fact": "Vooshadi Moonriver is a scribe assigned to guard the door of Deneir's Sanctum, the investigators' temporary office. Their role is to prevent unauthorized entry, reinforcing the controlled access to the investigation space.",
+    "source_quote": "Vooshadi Moonriver would stand the door \u2014 we wouldn't want anyone the investigators don't want to come in, to come in.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Council of the Great Readers",
+    "fact": "The Council of the Great Readers has dispersed, indicating a prior governing body that no longer holds active authority over the investigation. Their absence leaves Bookwyrm as the de facto authority in Candlekeep\u2019s current crisis.",
+    "source_quote": "The Council of the Great Readers had dispersed.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep Chapter House",
+    "fact": "The chapter house is the central location of the investigation, where Bookwyrm met with Kei Tigersteel and later convened with the investigators. It contains Deneir's Sanctum, now repurposed as the investigators\u2019 office, and is described as easy to get lost in, requiring escorts to navigate.",
+    "source_quote": "We came into the chapter house to find her already in conference with someone new...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Deneir's Sanctum",
+    "fact": "Deneir's Sanctum is a shrine and library dedicated to the art of writing, now assigned as the investigators\u2019 private office. It is guarded by Vooshadi Moonriver, and its offering as a workspace is viewed with suspicion due to the controlled access and implied surveillance.",
+    "source_quote": "Then she took us to a nearby room, Deneir's Sanctum... and offered it up as our office.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Shrine of Oghma",
+    "fact": "The Shrine of Oghma is the designated location for the purification of the body, indicating religious rites are part of the procedural response to the murder. Kei Tigersteel was instructed to take the body there, linking the investigation to the Temple of Oghma\u2019s authority.",
+    "source_quote": "yes, Kei, you can take the body to the Shrine of Oghma for purification.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "the body",
+    "fact": "The body of the murder victim has been identified and is awaiting purification at the Shrine of Oghma. Its handling by Kei Tigersteel suggests it is a key piece of evidence with religious significance, and its removal from the chapter house marks the transition from crime scene to ritual space.",
+    "source_quote": "the body went to be purified.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Bookwyrm\u2019s true role",
+    "fact": "It is unknown whether Bookwyrm is the investigator\u2019s superior, the perpetrator, or something else entirely. Her excessive generosity, rapid questioning about suspects, and control over access to information raise suspicion. The investigators note she is 'not above suspicion' and the possibility that she may be involved makes the investigation potentially 'awkward.'",
+    "source_quote": "I'm just saying, like, if Bookwyrm ended up doing it, which I don't think she did, but\u2026 then. This could get awkward.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "surveillance in Deneir's Sanctum",
+    "fact": "The investigators suspect their private office may be bugged or monitored, despite Bookwyrm\u2019s assurances of privacy. The offer of an unguarded space, coupled with the requirement to be escorted everywhere else in Candlekeep, creates a paradox that implies the office may be the only place under observation.",
+    "source_quote": "Do we think the room is, like, bugged... or does the stuff we do in there is actually going to be private to us?",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "identity of the killer",
+    "fact": "The investigators have formed opinions on potential suspects based on perceived motivation or external accusations, but refuse to disclose them. The nature of the suspects, their connections to Candlekeep\u2019s hierarchy, and the timing of the murders remain undisclosed, creating a central mystery.",
+    "source_quote": "We have a couple suspects that we would like to pursue, due to perceiving that they may have a motivation...",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occur during the investigation phase of Chapter 54, following the Candlekeep Murders. No specific calendar date is given, but the narrative implies immediate post-crime activity, with the body being removed and the investigation initiated without delay.",
+    "source_quote": "We came into the chapter house to find her already in conference with someone new...",
+    "quote_verified": false
+  }
+]

@@ -43,3 +43,7 @@ Gnome merchant and fabric trader; stall operator at the Fishyard, Yartar; docksi
 ## Arc Score Events
 - Decrease: Dismissed Unla Kee's personhood via reductive biological commentary; refused to adopt neutral racial framing when challenged by Orsik on Silverymoon's inclusivity.
 - Increase: Provided substantive, actionable intelligence; concluded a fair commercial deal; demonstrated genuine enthusiasm for the party's theatrical venture.
+
+## Related
+
+- [[imber_chen]]

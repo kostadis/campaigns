@@ -1,8 +1,8 @@
 ---
 type: source
 title: "Source: count_thullen.md"
-created: 2026-05-13
-updated: 2026-05-13
+created: 2026-06-05
+updated: 2026-06-05
 sources: ["count_thullen.md"]
 tags: []
 related: []
@@ -11,56 +11,43 @@ related: []
 # Source: count_thullen.md
 
 ## Key Entities
-- **Count Thullen**: Count; cloud giant noble
-  - Type: Person
-  - Role: Central
-  - Likely Exists in Wiki: Yes
-- **Harshnag**: Merchant
-  - Type: Person
-  - Role: Peripheral
-  - Likely Exists in Wiki: Yes
-- **Countess Sansuri**: Count
-  - Type: Person
-  - Role: Peripheral
-  - Likely Exists in Wiki: Yes
-- **The Party**: Group of adventurers
-  - Type: Group
-  - Role: Peripheral
-  - Likely Exists in Wiki: Yes
+
+*   **Count Thullen** (Person)
+    *   **Role:** A cloud giant noble and the younger brother of Countess Sansuri.
+    *   **Status:** Central to potential future plotlines involving "flying towers," but currently a peripheral figure as he has not yet been met by the party.
+    *   **Wiki Status:** New entry required.
+*   **Countess Sansuri** (Person)
+    *   **Role:** Thullen's older sister; characterized as having a much less favorable personality than her brother.
+    *   **Status:** Peripheral/Reference only in this document.
+    *   **Wiki Status:** Likely exists or needs a related entry to establish the sibling dynamic.
+*   **Harshnag** (Person)
+    *   **Role:** A deceased legendary ally who provided the information regarding Thullen.
+    *   **Status:** Peripheral to this specific source, but central to the party's lore.
+    *   **Wiki Status:** Already exists in the wiki.
 
 ## Key Concepts
-- **Flying Tower**: Phenomenon
-  - Definition: A structure capable of flight
-  - Importance: Potential resource or aid for the party
-  - Likely Exists in Wiki: Yes
-- **Cloud Giants**: Race
-  - Definition: Giant race native to clouds
-  - Importance: Context for Count Thullen's identity
-  - Likely Exists in Wiki: Yes
+
+*   **Flying Tower** (Object/Location)
+    *   **Definition:** A physical structure or location that Thullen is potentially linked to as a resource or contact point.
+    *   **Importance:** Serves as the primary narrative hook for why Thullen is relevant to the party's future goals.
+    *   **Wiki Status:** New entry or update needed if it relates to existing "flying castle" lore (e.g., Blagothus’s castle).
+*   **Secondhand Information** (Methodology)
+    *   **Definition:** Knowledge of a character provided by another source rather than direct interaction.
+    *   **Importance:** Highlights the current narrative state where Thullen exists as a "shadow" contact, creating potential for a "reveal" moment.
+    *   **Wiki Status:** Not a standalone concept; part of general narrative design.
 
 ## Main Arguments & Findings
-- **Core Claim**: Count Thullen is a cloud giant noble who may be willing to assist the party with a flying tower.
-- **Evidence**: 
-  - Harshnag mentions Count Thullen as a potential resource for a flying tower.
-  - Count Thullen is described as a "good person" by Harshnag, contrasting with his sister Countess Sansuri.
-- **Strength of Evidence**: Moderate. The information is second-hand and indirect, lacking specific details about Thullen's intentions or actions.
+
+*   **Contrast in Lineage:** The primary finding is the stark personality contrast between the siblings (Thullen vs. Sansuri). This establishes Thullen as a "good person" and a potential ally, while his sister serves as a foil.
+*   **Potential for Growth:** While currently just a name mentioned by Harshnag, Thullen represents a "hook" for future exploration regarding cloud giant politics or the mechanics of flying structures.
+*   **Evidence Strength:** The evidence is currently low (secondhand), but it provides a clear path for future plot development.
 
 ## Connections to Existing Wiki
-- **[[cloud-giants]]**: Relevant for understanding Count Thullen's background.
-- **[[flying-towers]]**: Relevant for the context of the flying tower mentioned.
-- **[[adventurers-party]]**: Relevant for the party's potential interaction with Count Thullen.
+
+*   **[[blagothkus]]**: Thullen is a "cloud giant noble." This links him to the existing lore regarding cloud giants and their complex political/tragic histories in the region.
+*   **[[harshnag]]**: The source confirms Harshnag as the primary conduit of information for this character.
 
 ## Contradictions & Tensions
-- **Internal Tension**: Harshnag's characterization of Count Thullen as "good" contrasts with his description of Countess Sansuri as "not so much." This could imply internal conflicts within the cloud giant family.
 
-## Recommendations
-- **Pages to Create or Update**: 
-  - [[count-thullen]]: To provide more detailed information about Count Thullen.
-  - [[cloud-giants]]: To include more details about the cloud giant race.
-  - [[flying-towers]]: To expand on the concept of flying towers.
-- **Emphasis**: Highlight Count Thullen's potential usefulness to the party while noting the lack of concrete information.
-- **Open Questions**: 
-  - What is Count Thullen's exact role within the cloud giant society?
-  - Is there any historical context for his relationship with Countess Sansuri?
-  
-This analysis provides a structured overview of the key entities, concepts, arguments, connections, contradictions, and recommendations based on the given source document.
+*   **Ambiguity vs. Utility:** There is a tension between Thullen's current status (unknown location/disposition) and his utility as a "potential resource." He currently exists only as a narrative placeholder.
+*   **Sisterly Contrast:** The sharp distinction made by Harshnag suggests that the party should be wary of any information

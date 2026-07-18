@@ -48,7 +48,7 @@ related: []
 
 ### Connections to Existing Wiki
 - **Existing Pages:**
-  - [[Greenest]], [[Cult of the Dragon]], [[Nonnie's Inn]]
+  - [[grindle-2026-06-06-042021]], [[cult-of-the-dragon]], [[lions-share-outpost-2026-06-05-181317]]
 - **Impact:**
   - This source provides new details about the protagonist and her connection to Greenest, which can enrich the narrative universe.
 
@@ -58,8 +58,8 @@ related: []
 
 ### Recommendations
 - **Create or Update:**
-  - [[The Refugee Woman from Greenest]]
-  - [[Greenest]], [[Cult of the Dragon]], [[Nonnie's Inn]]
+  - [[the_refugee_woman_from_greenest]]
+  - [[grindle-2026-06-06-042021]], [[cult-of-the-dragon]], [[lions-share-outpost-2026-06-05-181317]]
 - **Emphasize:**
   - The protagonist's journey, her motivations, and her role in the narrative.
 - **Open Questions:**

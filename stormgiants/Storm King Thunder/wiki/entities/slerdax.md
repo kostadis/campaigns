@@ -37,3 +37,7 @@ tags: [query, slerdax, party]
 related: []
 sources: ["slerdax.md"]
 ---
+
+## Related
+
+- [[taern-thunderspell-hornblade]]

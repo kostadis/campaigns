@@ -1,0 +1,170 @@
+[
+  {
+    "type": "npc",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is a sentient sunblade capable of reading, writing, and casting lesser restoration. It emits constant light and speaks with a willful, pleading tone. It claims to be the Dawnbringer and reacts emotionally to being ignored or rejected.",
+    "source_quote": "\u2018I can help you! Please don\u2019t let me go.\u2019 \u2018Not Dawnbringer!\u2019",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Phylo",
+    "fact": "Phylo is a myconid sovereign who has been corrupted by a foreign spore, likely tied to Zuggtomy. He has imposed a radical social restructuring on Neverlight Grove, enforcing isolation between circles and elevating the Circle of Masters. He speaks with unnatural gendered language and insists on an impending \u2018day of joy.\u2019",
+    "source_quote": "\u2018You arrive at a wondrous time, for Neverlight Grove is on the verge of something great\u2026 Celebrate as the day of joy is nigh!\u2019",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Basidia",
+    "fact": "Basidia is the co-sovereign of Neverlight Grove, sharing power uneasily with Phylo. She is deeply concerned that Phylo has been infected by a corrupting spore and fears the consequences of his new social order. She secretly aids the party with potions, scrolls, and information, and can detect foreign spores.",
+    "source_quote": "\u2018I fear Phylo has contracted some kind of diseased spore\u2026 I will give you more treasures if you bring back my sovereign.\u2019",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith is the drow guide of the party who has been infected by Zuggtomy's demonic spores, detectable to myconid sovereigns. Their transformation is subtle but evident in spore signature, and they are unaware or unable to resist the corruption.",
+    "source_quote": "Sarith follows the myconids, silent and serene, unaware of the spores radiating from them.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Loobamub",
+    "fact": "Loobamub is the leader of the Circle of Hunters, a myconid who gathers the dead for reanimation by the Circle of Masters. He adheres to the new order imposed by Phylo and does not kill, only retrieve. He is loyal to Basidia and seeks help from the party.",
+    "source_quote": "\u2018We bring back the dead. We do not kill.\u2019",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Circle of Masters",
+    "fact": "The Circle of Masters is a secretive myconid faction aligned with Phylo, responsible for reanimating dead creatures and conducting rituals in the Garden of Welcome. They are suspected of harvesting corpses from outside the grove and are the epicenter of the corruption spreading through Neverlight Grove.",
+    "source_quote": "\u2018The Circle of the Masters is preparing a wondrous and glorious surprise in the Garden of Welcome.\u2019",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Circle of Hunters",
+    "fact": "The Circle of Hunters gathers the remains of slain creatures and delivers them to the Circle of Masters for reanimation. They follow Phylo\u2019s new doctrine of non-killing and operate under Basidia\u2019s indirect influence, though their loyalty is now divided.",
+    "source_quote": "\u2018We bring back the dead. We do not kill.\u2019",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Inner Circle",
+    "fact": "The Inner Circle consists of the leaders of all other myconid circles and the sovereigns. Phylo has restricted their interactions to only other circle leaders, breaking the traditional unity of the myconid society and isolating them from the broader community.",
+    "source_quote": "\u2018Phylo decided that each circle would meld exclusively with its circle, and only the circle leaders would meld with other circle leaders and the sovereigns.\u2019",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Shambling Mound",
+    "fact": "A concealed shambling mound lurks near the fungal forest, camouflaged in moss and swamp. It is a deadly threat that grapples and crushes prey. Daz plans to neutralize it using Shape Water to detect its hidden form by identifying unfrozen sections of terrain.",
+    "source_quote": "\u2018A Shambling Mound is concealed nearby, lurking like mossy camouflage within the swampy ground.\u2019",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Grick",
+    "fact": "A grick is a predatory creature whose corpse Loobamub seeks to retrieve for reanimation. It is not killed by the myconids but found dead or captured, then delivered to the Circle of Masters for transformation into a reanimated servant.",
+    "source_quote": "\u2018Could you help him deal with a grick?\u2019",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "corruption of Neverlight Grove",
+    "fact": "A fungal corruption, likely tied to Zuggtomy, has infiltrated Neverlight Grove through Phylo. It has fractured the myconid social structure, initiated reanimation rituals, and caused the disappearance of previous visitors to the Garden of Welcome. The corruption spreads via spores and alters behavior, language, and biology.",
+    "source_quote": "\u2018I believe this is contrary to the unity and harmony of our way of life.\u2019",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "arrival at Neverlight Grove",
+    "fact": "The party enters Neverlight Grove after days of travel through the Underdark. The cavern is a bioluminescent wonder filled with glowing fungi, myconids, and strange constellations on the ceiling. It is a sanctuary of beauty and life, starkly contrasting the darkness they have endured.",
+    "source_quote": "\u2018Wow, this place is incredible.\u2019",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "revelation of the \u2018two in a box\u2019",
+    "fact": "The co-sovereignty of Phylo and Basidia mirrors the Menzoberranzan practice of \u2018two in a box\u2019 \u2014 a forced power-sharing arrangement that signifies political weakness and often leads to mutual destruction. Daz recognizes this as a dangerous precedent, foreshadowing collapse.",
+    "source_quote": "\u2018We used the term, \u2018two in a box\u2019 to describe this power sharing\u2026 The box was a metaphor for a tomb.\u2019",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Neverlight Grove",
+    "fact": "Neverlight Grove is a vast, luminous cavern beneath the Underdark, illuminated by bioluminescent fungi that cover walls, ceiling, and ground. It contains a central pool, fungal forests, ravines, and hidden plateaus. It is the heart of myconid civilization, now under threat from corruption.",
+    "source_quote": "\u2018It's a living, breathing landscape of impossible color\u2026 a cathedral of light and life.\u2019",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Garden of Welcome",
+    "fact": "The Garden of Welcome is a forbidden area of Neverlight Grove where the Circle of Masters performs rituals. It is the site of disappearances and reanimation. Basidia warns against entering, but suspects it holds the key to understanding Phylo\u2019s corruption.",
+    "source_quote": "\u2018Please, don\u2019t visit the eastern plateau because the Circle of the Masters is preparing a wondrous and glorious surprise\u2026\u2019",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Eastern Plateau",
+    "fact": "The eastern plateau is the location of the Garden of Welcome, a forbidden zone where corrupted myconids conduct mysterious rites. It is shrouded in mist and lies beyond the central basin, accessible only through hidden paths.",
+    "source_quote": "\u2018I can give you a peek tomorrow, if you want.\u2019",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Scroll of Protection Against Fiends",
+    "fact": "A moldy scroll case given to the party by Basidia contains a scroll of protection against fiends. It is a rare and valuable item, suggesting Basidia anticipates demonic or infernal threats tied to Zuggtomy\u2019s corruption.",
+    "source_quote": "Convenient.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Necklace of Fireballs",
+    "fact": "A magical necklace discovered in the invisible chest within the false tomb. It contains multiple fireball charges, indicating the tomb\u2019s original owner, Brysis, was a powerful spellcaster who anticipated danger.",
+    "source_quote": "Inside, we find even more treasure: a necklace of fireballs\u2026",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Potion of Greater Healing",
+    "fact": "A potent healing potion found in the invisible chest alongside the necklace of fireballs and gold. It reflects the wealth and preparedness of the tomb\u2019s original occupants.",
+    "source_quote": "\u2026a potion of greater healing, and some gold.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Zuggtomy\u2019s influence in Neverlight Grove",
+    "fact": "A growing thread of corruption tied to Zuggtomy has infiltrated Neverlight Grove through Sarith\u2019s spores and Phylo\u2019s transformation. The Circle of Masters may be acting as agents of the fungus-god, preparing a ritual to spread the infection beyond the grove.",
+    "source_quote": "\u2018I worry\u2026 Zuggtomy is often referred to as she.\u2019",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the fate of the previous visitors",
+    "fact": "A group of \u2018softers\u2019 who accepted Phylo\u2019s invitation to the Garden of Welcome have vanished. Their fate is unknown, but Basidia implies they were consumed or transformed. The party must uncover what happened to them to understand the threat.",
+    "source_quote": "\u2018I haven\u2019t seen them since, nor has Phylo made any further mention of them.\u2019",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the Great Seeder",
+    "fact": "Phylo speaks of the Great Seeder as a divine entity beyond the Garden of Welcome. Daz and Grygum suspect this is a corrupted or false deity, possibly a manifestation of Zuggtomy\u2019s will. The entity\u2019s true nature and location remain unknown.",
+    "source_quote": "\u2018She lives beyond the Garden. She is a wonderful entity who will help all of us get closer to her beauty!\u2019",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "K\u2019tharr-li and Daz\u2019s strategy",
+    "fact": "Daz\u2019s reference to K\u2019tharr-li, a deadly noble-house game from Menzoberranzan, reveals his tactical mindset and past trauma. His plan to freeze the terrain to reveal the shambling mound is not just combat strategy \u2014 it is a ritual of control, echoing his upbringing in a world where failure meant death.",
+    "source_quote": "\u2018Each player had a set of pieces that the other player had to destroy\u2026 if neither player had won\u2026 both players lost.\u2019",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "8th day of the second tenday of Myrkhul 1495",
+    "fact": "The party arrives at Neverlight Grove on this date, after three uneventful days of travel through the Underdark. The date marks the beginning of their confrontation with the corruption of the grove and the unraveling of Phylo\u2019s rule.",
+    "source_quote": "Today, we arrive at Neverlight Grove.",
+    "quote_verified": false
+  }
+]

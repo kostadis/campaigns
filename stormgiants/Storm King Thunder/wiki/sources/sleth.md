@@ -31,7 +31,7 @@ related: []
 - Sleth's interactions with the party suggest she is friendly and knowledgeable about fey politics but remains unaware of their involvement in the torc theft.
 
 ### Connections to Existing Wiki
-- This source relates to existing pages such as [[dryad-care-taker-system]], [[fey-politics]], and [[titania-curse]]. It strengthens these pages by providing new insights and details.
+- This source relates to existing pages such as [[deciduous-dryad]], [[fey-court-structure]], and [[queen-titania]]. It strengthens these pages by providing new insights and details.
 - Sleth's interactions with the party and her lack of knowledge about their actions challenge the established narrative of the party's involvement in the torc theft.
 
 ### Contradictions & Tensions
@@ -39,7 +39,7 @@ related: []
 - Her deception by Prince Thornacious contradicts her otherwise trustworthy demeanor.
 
 ### Recommendations
-- Create or update pages for [[sleth]], [[dryad-care-taker-system]], and [[fey-politics]] based on the information provided.
+- Create or update pages for [[sleth]], [[deciduous-dryad]], and [[fey-court-structure]] based on the information provided.
 - Emphasize Sleth's role as a dryad caretaker and her observations of the fey community.
 - Highlight the contradictions and tensions within Sleth's character to enrich the narrative.
 - Flag the need for further exploration into Sleth's reactions upon discovering her deception.

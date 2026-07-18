@@ -59,10 +59,15 @@ related: []
 
 ### Recommendations
 - **Create or Update:**
-  - **[[apple-merchants]]**: To provide more context about apple merchants.
+  - **[[apple-merchant-suggestion-2023-10-06-2026-05-13]]**: To provide more context about apple merchants.
   - **[[marketplaces]]**: To detail the Yartar market.
 - **Emphasize:**
   - The specific behaviors and motivations of characters like Tapouach.
 - **Open Questions:**
   - Investigate why Tapouach chose to remain silent in the face of a theft.
   - Explore the implications of his deference towards Lord Drylund.
+
+## Related
+
+- [[thane_braxow]]
+- [[tapuz]]

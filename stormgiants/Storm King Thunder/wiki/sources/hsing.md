@@ -72,7 +72,7 @@ related: []
   
 ### Recommendations
 - **Create or Update:**
-  - [[seer-agent-hsing]] — Page detailing Hsing's role and interactions.
+  - [[the_seer]] — Page detailing Hsing's role and interactions.
   - [[patron-adjacent-figure]] — Page explaining the concept of patron-adjacent figures.
   
 - **Emphasize:**

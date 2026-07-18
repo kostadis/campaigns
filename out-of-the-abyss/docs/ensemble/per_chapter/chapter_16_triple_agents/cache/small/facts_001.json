@@ -1,0 +1,156 @@
+[
+  {
+    "type": "npc",
+    "subject": "Errde Blackskull",
+    "fact": "Errde Blackskull is a paranoid Duergar who denies the existence of psychic assassins but hints at government cover-ups, and has lost two clan members to unexplained deaths with no entrance or exit wounds.",
+    "source_quote": "Oh, just an old wives tale to frighten children. They kill people with their minds. Of course, this is nonsense. They are just another figment of the people\u2019s imagination. It\u2019s more likely that they don\u2019t exist, and instead, assassinations are being conducted by some agency in the government, and this is a cover.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a persistent investigator who found scrolls among Errde\u2019s goods and is obsessed with uncovering the truth behind the psychic blade attacks and the Red Dragon\u2019s captivity by the Keepers of the Flame.",
+    "source_quote": "I liked the books. They were well written.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Holl Forgebrand",
+    "fact": "Holl Forgebrand is a blunt Duergar subordinate of Errde who confirmed the bodies had no entrance or exit wounds, and supports the theory that the killings are the work of unseen psychic assassins.",
+    "source_quote": "The bodies were found with no exit wounds or entrance wounds.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a book-obsessed human who reads voraciously and recognizes the psychic blade attacks from Milo Goodbarrel\u2019s novel, and actively seeks intelligence on the Keepers of the Flame and the Red Dragon\u2019s captivity.",
+    "source_quote": "Milo describes this kind of attack as a psychic blade attack. It leaves no trace. There is this one moment where the Kenku Whistler used the psychic blades to fake an attack by Milo on an enemy.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a cautious spellcaster who casts Darkness and scorching rays during the assassination attempt, and later questions the morality of their actions after finding a charcoal drawing of the victim on an assassin\u2019s body.",
+    "source_quote": "I can\u2019t see. And this is why area of effect spells are useful.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Werz Saltbaron",
+    "fact": "Werz Saltbaron is a Duergar merchant who was attacked by invisible assassins wielding psychic weapons, has no physical wounds, and later vanishes invisibly after being healed by Grygum.",
+    "source_quote": "Oh my, I was. I am Werz Saltbaron. And you did me a good turn. Come by the Shattered Spire tomorrow, and I will reward you. Today, I have places to be.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Psychic Assassins",
+    "fact": "Two psychic assassins attacked Werz Saltbaron using glowing, non-physical weapons that leave no entrance or exit wounds, and vanished without leaving any weapons behind.",
+    "source_quote": "Two assassins, wearing face coverings and wielding glowing weapons, strike the other man.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Kenku Whistler",
+    "fact": "The Kenku Whistler is referenced in Milo Goodbarrel\u2019s book as having used psychic blades to fake an attack, suggesting the technique is known and possibly replicable.",
+    "source_quote": "Milo describes this kind of attack as a psychic blade attack... where the Kenku Whistler used the psychic blades to fake an attack by Milo on an enemy.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Keepers of the Flame",
+    "fact": "The Keepers of the Flame are a secretive organization believed to be in possession of a Red Dragon held in peculiar captivity, and are the subject of Grygum and Daz\u2019s intelligence-gathering efforts.",
+    "source_quote": "Daz wants to learn about the Keepers of the Flame, and Grygum wants to know about this Red Dragon that is kept in some kind of peculiar captivity by the Keepers of the Flame.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Duergar",
+    "fact": "The Duergar are a reclusive subterranean race known for austere living conditions, dark clothing, and occasional displays of hidden wealth, and are suspected of internal conflict and possible involvement in psychic assassinations.",
+    "source_quote": "The Ghohlbrorn\u2019s Lair... offers the kind of accommodations one could expect from a Duergar: unpleasant, cold, and austere.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Charcoal Drawing",
+    "fact": "A charcoal drawing of Werz Saltbaron was found on the body of one of the assassins, confirming he was the targeted victim and linking him to the attack.",
+    "source_quote": "He presents it to the Duergar. 'Oh my, I was.'",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Psychic Blades",
+    "fact": "Psychic blades are non-physical weapons that kill without leaving entrance or exit wounds, and are described in novels as leaving only a moment of silent, invisible energy.",
+    "source_quote": "Milo describes this kind of attack as a psychic blade attack. It leaves no trace.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Assassination of Werz Saltbaron",
+    "fact": "Werz Saltbaron was attacked by two psychic assassins on the pier near the inn; the attackers vanished without leaving weapons, and the victim had no physical wounds despite being struck.",
+    "source_quote": "Two assassins... strike the other man... The Duergar merchant has no wound on his body.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Use of Magic Missiles and Scorching Rays",
+    "fact": "Daz cast magic missiles and scorching rays during the assassination, using visual sighting and precise targeting; the spells struck the assassins with visible light and heat, but Zalthir\u2019s Darkness concealed the flashes.",
+    "source_quote": "Motes of light appear above his hand... a silent rush of air accompanies the flight of the magic missiles... the rush of intense heat as the fiery energy is manifested.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Invisibility of Werz Saltbaron",
+    "fact": "After being healed, Werz Saltbaron became invisible and departed, suggesting he possesses magical means of evasion and may be hiding his true intentions.",
+    "source_quote": "Zalthir watches as the Duergar becomes invisible.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Origin of Psychic Blades",
+    "fact": "The origin and source of the psychic blade attacks remain unknown, with conflicting theories ranging from ancient Kenku techniques to government operatives, and no physical evidence has been recovered.",
+    "source_quote": "They kill people with their minds... It\u2019s more likely that they don\u2019t exist... assassinations are being conducted by some agency in the government...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Red Dragon\u2019s Captivity",
+    "fact": "The Red Dragon\u2019s captivity by the Keepers of the Flame is unverified, but is the central focus of Grygum\u2019s investigation, with no known witnesses or documentation yet uncovered.",
+    "source_quote": "Grygum wants to know about this Red Dragon that is kept in some kind of peculiar captivity by the Keepers of the Flame.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Disappearance of Topsy and Turvy",
+    "fact": "Topsy and Turvy have vanished without trace, leading Daz to suspect wererats, but no evidence or confirmation of their fate has been found.",
+    "source_quote": "The other escapees, except for Topsy and Turvy, have gone missing. 'Wererats,' thinks Daz.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "The Ghohlbrorn\u2019s Lair",
+    "fact": "The Ghohlbrorn\u2019s Lair is a cold, austere Duergar stronghold with a large damp dining room and communal sleeping chambers, serving as a temporary refuge for escapees.",
+    "source_quote": "The Ghohlbrorn\u2019s Lair... offers the kind of accommodations one could expect from a Duergar: unpleasant, cold, and austere.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Shattered Spire",
+    "fact": "The Shattered Spire is a location referenced by Werz Saltbaron as a place to receive a reward, suggesting it is a known hub for clandestine dealings among Duergar elites.",
+    "source_quote": "Come by the Shattered Spire tomorrow, and I will reward you.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Darklake",
+    "fact": "The Darklake is a body of water near the piers where the assassination occurred, shrouded in darkness and used as a location for secretive encounters.",
+    "source_quote": "A Duergar man appears, looking into the darkness of the Darklake.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "10th day of the 1st Tenday of Myrtul 1493",
+    "fact": "On this date, the assassination of Werz Saltbaron occurred, magic was used in combat, and Werz vanished invisibly, marking a turning point in the investigation.",
+    "source_quote": "10th day of the 1st Tenday of Myrtul 1493",
+    "quote_verified": true
+  }
+]

@@ -12,6 +12,15 @@ Former romantic partner of Halisa, now engaged in a mutual antagonistic relation
 
 ## Connections to Existing Wiki
 - [[halisa]]
-- [[tree-protection-schedule-d]]
-- [[seelie-court]]
+- [[the-party]]
+- [[fey-court-structure]]
 - [[dryads]]
+
+## Related
+
+- [[sacrifice]]
+- [[sprite-emissary]]
+- [[orsik]]
+- [[taunt]]
+- [[queen-titania]]
+- [[punishment]]

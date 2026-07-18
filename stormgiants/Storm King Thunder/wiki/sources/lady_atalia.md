@@ -62,3 +62,7 @@ related: []
 - **Core Claims**: Lady Atalia is a coerced asset of Lord Drylund, who blackmailed her into assisting his lordling-kidnapping operation. She seeks to escape his control and return to a moral life.
 - **Evidence**: 
   - Her interactions with the party, such as the private meeting and the taver
+
+## Related
+
+- [[lady_alustriel_silverhand]]

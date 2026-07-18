@@ -93,7 +93,7 @@ Then he says, “I ask you to visit me at Cairngorm Cavern before you leave the 
 The dwarf watches how the Duergar gives the Stone Giant the briefest of scowls, showing how much they don’t want to give this non-Duergar permission to visit their city. 
 
 
-## Zalthir
+### Zalthir
 
 
 Zalthir is trying hard to protect himself from being burned alive, crushed by a giant, or arrested. 
@@ -147,7 +147,7 @@ There is a moment of hesitation, “The offer expires tomorrow. And if you don�
 Gartokkar disappears. 
 
 
-## Daz
+### Daz
 
 
 The story of this dragon intrigues Daz. 

@@ -1,0 +1,604 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir hears a shout and recognizes the voice as Eldeth's.",
+    "source_quote": "Zalthir recognizes the voice; it\u2019s Eldeth.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin shouts that everyone is fine.",
+    "source_quote": "Thorin shouts, \u201cYes, we\u2019re all fine.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir dispels darkness",
+    "fact": "Zalthir sighs and dispels the darkness.",
+    "source_quote": "Zalthir sighs and dispels the darkness.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz shouts that he has the egg.",
+    "source_quote": "Daz shouts, \u201cI have the egg.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Pelek",
+    "fact": "An unfamiliar Derro voice identifies itself as Pelek.",
+    "source_quote": "And then an unfamiliar voice of a Derro shouts, \u201cMy goodness, this body is uncomfortable.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Pelek",
+    "fact": "Pelek says he has occupied this body.",
+    "source_quote": "\u201cOh, yes, I am Pelek. I seem to have occupied this body.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir thinks Pelek is the ghost.",
+    "source_quote": "\u201cThe ghost,\u201d he thinks.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "upper levels of the mesa",
+    "fact": "The upper levels of the mesa are covered in blood and the broken bodies of the derro.",
+    "source_quote": "The upper levels of the mesa are covered in blood and the broken bodies of the derro.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "spectator creature",
+    "fact": "Near the tunnel entrance is a spectator, a creature similar to but different from a beholder.",
+    "source_quote": "Where Eldeth is, near the tunnel entrance is a spectator, a creature similar to but different from a beholder.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "egg is missing",
+    "fact": "There is no egg where it should be.",
+    "source_quote": "He looks to where the egg should be. There is no egg.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "dead derro",
+    "fact": "There are two dead derro near where the egg should be.",
+    "source_quote": "There are two dead derro.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum shouts asking where the egg is.",
+    "source_quote": "Grygum shouts, \u201cWhere is the egg?\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz repeats that he has the egg.",
+    "source_quote": "Then Daz shouts back, \u201cI have it.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir picks up Demogorgon statue",
+    "fact": "Zalthir jumps off the mesa and picks up the statue of Demogorgon.",
+    "source_quote": "Zalthir jumps off the mesa and heads to an alcove in the northeast corner. There, he picks up the statue of Demogorgon.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir thinks to himself about Demogorgon as 'Leemooggoogoon, Demogorgon, two-headed baby dragons'.",
+    "source_quote": "\u201cLeemooggoogoon, Demogorgon, two-headed baby dragons - \u2026\u201d he thinks to himself.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "northwest corner desk",
+    "fact": "Zalthir goes to the northwest corner where there is a desk with some papers.",
+    "source_quote": "he heads to the northwest corner where there is a desk with some papers.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Pliinki's journal",
+    "fact": "Zalthir finds a journal by Pliinki.",
+    "source_quote": "He finds a journal by Pliinki.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "letters from Pliinki and others",
+    "fact": "Zalthir finds some letters addressed to and from Pliinki.",
+    "source_quote": "He also finds some letters",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Pliinki's journal entry: Stone of Diirinka",
+    "fact": "Pliinki's journal records that the Obelisk's black metal hums with quasi-magical energy.",
+    "source_quote": "The Obelisk. Such a magnificent, fractured thing! Hidden here by Diirinka himself, I am certain. Its black metal hums with quasi-magical energy, a power just waiting to be unleashed.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Pliinki's journal entry: Stone of Diirinka",
+    "fact": "Pliinki tried to mend the Obelisk's cracks with Thrazgad ore, but it was discarded and forgotten.",
+    "source_quote": "I have tried the Thrazgad ore, as Narrak suggested, to mend its cracks, but it merely sits \"discarded and forgotten\" next to my workbenches.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Pliinki's journal entry: The Prince's Gift Arrives",
+    "fact": "Pliinki received the Red Dragon Egg from the Gray Ghosts.",
+    "source_quote": "The Gray Ghosts delivered it! The Red Dragon Egg!",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Pliinki's journal entry: The Prince's Gift Arrives",
+    "fact": "Pliinki believes the egg is the vessel for her greatest creation, a gift worthy of Demogorgon.",
+    "source_quote": "This is no mere insurance policy; it is the vessel for my greatest creation, a gift worthy of Demogorgon himself.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Pliinki's journal entry: Mutagenic Progress!",
+    "fact": "Pliinki's experiments show the egg is pulsing with new life and mutations are taking hold.",
+    "source_quote": "The egg pulses with new life, and my notes confirm my suspicions: the mutations are taking hold.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Pliinki's journal entry: Mutagenic Progress!",
+    "fact": "Pliinki's goal is to create a two-headed wyrmling as a gift for Demogorgon to serve as his mount.",
+    "source_quote": "My goal is clear, a two-headed wyrmling, a perfect \"Prince's gift\" for Demogorgon, to serve as his mount.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Pliinki's journal entry: The Obelisk Responds",
+    "fact": "Pliinki pressed her hand to the Obelisk and the air around it flared.",
+    "source_quote": "I pressed my hand to the Obelisk again, channeling the energy of the Whorlstone Tunnels into its fractures. It didn't just flash this time; the very air around it flared!",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Pliinki's journal entry: Anticipation and Destiny",
+    "fact": "Pliinki believes the Obelisk and the egg will herald Demogorgon's arrival and trigger a genocidal war.",
+    "source_quote": "The Obelisk, too, senses the coming shift. Its purpose, alongside the egg, is to herald the Prince's arrival and the \"genocidal war\" that will cleanse this city.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Letter 1: Pliinki to Uskvil",
+    "fact": "Pliinki writes that the Gray Ghosts delivered the egg as planned.",
+    "source_quote": "The Egg has arrived! Your operatives, those foolish Gray Ghosts, delivered it precisely as planned,",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Letter 1: Pliinki to Uskvil",
+    "fact": "Pliinki states that the Thrazgad ore has been discarded and forgotten beside her workbenches.",
+    "source_quote": "It still sits \"discarded and forgotten\" next to my workbenches.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Letter 1: Pliinki to Uskvil",
+    "fact": "Pliinki writes that the Obelisk must be repaired to conquer Gracklstugh and offer it as a sacrificial gift to Demogorgon.",
+    "source_quote": "We must find a way to mend its fractures, for it is the key to conquering Gracklstugh and offering it as a sacrificial gift to our Lord.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Letter 2: Aliinka to Pliinki",
+    "fact": "Aliinka confirms that the Gray Ghosts successfully retrieved the dragon egg and Thrazgad ore.",
+    "source_quote": "Uskvil confirmed the successful retrieval of both the dragon egg and the Clan Thrazgad ore, as ordered.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Letter 2: Aliinka to Pliinki",
+    "fact": "Aliinka states that the Council's indoctrination has succeeded through 'Y' carvings.",
+    "source_quote": "Almost all members have now embraced the true path, thanks to our careful placements of the 'Y' carvings.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Letter 3: Pliinki to Uskvil",
+    "fact": "Pliinki expresses frustration that the Thrazgad ore failed to mend the Obelisk.",
+    "source_quote": "That acid-resistant ore from the Thrazgad Clan, which you so expertly acquired, has proven useless in mending its cracks.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Letter 3: Pliinki to Uskvil",
+    "fact": "Pliinki says the two-headed mutation in the egg is nearly complete.",
+    "source_quote": "The two-headed mutation is nearly complete, a testament to the Prince's foresight and my dedication.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Letter 4: Narrak to Pliinki",
+    "fact": "Narrak confirms that the Obelisk, once repaired, will be the instrument of ascension to deliver Gracklstugh to Demogorgon.",
+    "source_quote": "This ancient monolith, once repaired, will be the instrument of our ascension, allowing us to conquer Gracklstugh and deliver it as a sacrificial gift to Demogorgon.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Letter 4: Narrak to Pliinki",
+    "fact": "Narrak writes that the genocidal war against the derro is intended as the first cleansing.",
+    "source_quote": "the \"genocidal war\" against the derro that Gartokkar so desires will merely be the first cleansing.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir concludes the Derro and Duergar must be condemned",
+    "fact": "Zalthir knows he has enough to condemn the Derro and Duergar to a genocidal war that will destroy Gracklstugh.",
+    "source_quote": "Zalthir knows he has enough to condemn the Derro and Duergar to a genocidal war that will result in the utter destruction of the city of Gracklstugh.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum reads Pliinki's journal",
+    "fact": "Grygum reads what Zalthir has found and is disturbed.",
+    "source_quote": "Grygum reads what Zalthir has found and is disturbed.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum remembers Bahamut's teaching",
+    "fact": "Grygum remembers a temple teaching about the egg: 'When the egg, crimson-hued, promises but a shadow's ride, does one mend the shell, or seek to free the spark within?'",
+    "source_quote": "\"When the egg, crimson-hued, promises but a shadow's ride, does one mend the shell, or seek to free the spark within? The true wyrm's form is not etched by fate's first breath, nor by sorcerous hand. It is the choices that twist the spirit, or set it soaring. To break the chains of another's dark design, even when madness fuels the crafting, is to affirm the very freedom Bahamut cherishes.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum declares egg should be returned to Gartokkar",
+    "fact": "Grygum declares, \u201cWe shall return the egg to Gartokkar.\u201d",
+    "source_quote": "\u201cWe shall return the egg to Gartokkar,\u201d he declares.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir stares at Grygum, confused by his declaration.",
+    "source_quote": "Zalthir stares at him, confused, \u201cWhat?\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum explains the egg is now a demon manifestation",
+    "fact": "Grygum says the egg is no longer a dragon and will bring revenge through Themberchaud.",
+    "source_quote": "\u201cThis is no longer a dragon. And so when this abomination hatches, the dragon Themberchaud will have its revenge on those who would think to control it.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "giant baby rattle",
+    "fact": "Thorin finds a giant baby rattle that looks like it would fit a dragon.",
+    "source_quote": "There is Thorin with a baby rattle. A giant baby rattle that looks like it would fit a dragon.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "giant baby rattle",
+    "fact": "The baby rattle says 'made by clan Thrazgad'.",
+    "source_quote": "It says made by clan Thrazgad.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin says he would like to have a dragon.",
+    "source_quote": "We should get a baby dragon. I would like to have a dragon. It would be so cool if we had a dragon.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is appalled by Thorin's comment about wanting a pure dragon.",
+    "source_quote": "Grygum is appalled.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin apologizes for implying Grygum wanted a pure dragon.",
+    "source_quote": "I\u2019m sorry. I didn\u2019t mean that we don\u2019t have a pure dragon, and that I wanted a pure dragon.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum coughs and watches Zalthir clench and unclench his fists.",
+    "source_quote": "Grygum coughs. He watches as Thorin stares at him and realizes what he said... Grygum watches Zalthir clench and unclench.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin says he is still partial to riding Themberchaud out of the place.",
+    "source_quote": "\u201cSo what do we do? I am still partial to the ride Thermbechaude out of this place.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir votes to leave Gracklstugh as discreetly as possible with minimal chaos.",
+    "source_quote": "Zalthir mutters, \u201cI vote we get out of here as discreetly as possible, creating the least amount of chaos as possible.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin sighs and agrees with Zalthir's plan.",
+    "source_quote": "Thorin sighs, \u201cYeah.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum pulls out a scrap of paper with notes on their deals.",
+    "source_quote": "Grygum pulls out a scrap of paper, \u201cI\u2019ve been taking notes on all of the deals we have made.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum proposes giving egg to Gartokkar to escape",
+    "fact": "Grygum proposes giving the egg to Gartokkar and using him to escape, claiming the Derro didn't steal it.",
+    "source_quote": "I take notes. It\u2019s what I do. ... We tell Gartokkar that the Derro didn\u2019t steal the egg, but some other crazed group. We also explain that we need his help to escape because of the deal we made with the Stone guards and that if Errde were to imprison us, we might be compelled to change our story under torture.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin nods in agreement to Grygum's plan.",
+    "source_quote": "Thorin nods, \u201cLet\u2019s do it.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin demands a name for their group",
+    "fact": "Thorin stops the group and demands they choose a name for their group.",
+    "source_quote": "But Thorin stops them. \u201cWe need a name.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum suggests \u201cThe Second Faction\u201d as a name.",
+    "source_quote": "Grygum mutters, \u201cThe Second Faction?\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz says \u201cThe Second Faction\u201d is too derivative.",
+    "source_quote": "Daz says what he is thinking, \u201cToo derivative.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "group adopts name 'The Ember Vanguard'",
+    "fact": "Daz proposes the name 'The Ember Vanguard' and the group accepts it.",
+    "source_quote": "And then he smiles, \u201cI have it - The Ember Vanguard.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "group agrees to leave via different tunnel",
+    "fact": "The group chooses not to return the way they came, fearing the Empty-Scabbard Killers.",
+    "source_quote": "As Zalthir explains, \u201cThe Empty Scabbard Killers might want to kill us.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "double doors in cave tunnel",
+    "fact": "The group reaches a pair of double doors at the end of a cave tunnel.",
+    "source_quote": "they go down a different cave tunnel, which leads to a pair of double doors.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Diirdeklin",
+    "fact": "Diirdeklin has been guarding the post for days, believing Pliinki\u2019s promise of Derro liberation.",
+    "source_quote": "Diirdeklin has been at this guard post for days. Pliinki has promised him that this is part of some plan that will free the Derro from the bondage of Duergar.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Diirdeklin",
+    "fact": "Diirdeklin hears noise from the north and becomes worried.",
+    "source_quote": "There is a noise coming from the north. That\u2019s odd. It doesn\u2019t sound like Derro. He\u2019s worried.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Diirdeklin hears 'The people you are trying to warn are dead'",
+    "fact": "A booming voice tells Diirdeklin, \u201cThe people you are trying to warn are dead.\u201d",
+    "source_quote": "And then he hears a booming voice - \u201cThe people you are trying to warn are dead.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Diirdeklin",
+    "fact": "Diirdeklin drops the alarm bell and grips his weapon tighter.",
+    "source_quote": "Diirdeklin\u2019s hand drops the alarm bell and grabs his weapon more tightly.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Drow Archmage",
+    "fact": "A Drow Archmage has summoned a meteor swarm.",
+    "source_quote": "he sees a Drow Archmage who has summoned a meteor swarm.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Drow identify as The Ember Vanguard",
+    "fact": "The Drow shouts, \u201cWe are The Ember Vanguard, and you will let us pass!\u201d",
+    "source_quote": "The Drow shouts, \u201cWe are The Ember Vanguard, and you will let us pass!\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Diirdeklin",
+    "fact": "Diirdeklin yields and lets the group pass, fearing for his life.",
+    "source_quote": "Diirdeklin worried that Diinarnnmyr might foolishly try to fight, shouts, \u201cYes, pass!\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Diirdeklin",
+    "fact": "Diirdeklin thinks the Drow incursion is bad and that they may have killed Pliinki.",
+    "source_quote": "As they leave the cave, he thinks, \u201cA Drow incursion! This is not good. And if they killed Pliinki, that means that they have bigger plans.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Diinarnnmyr",
+    "fact": "Diinarnnmyr mutters that the Drow are now working with the Duergar to subdue the Derro.",
+    "source_quote": "As they leave Diinarnnmyr mutters, \u201cThe Ember Vanguard - the Drow are now working with the Duergar to subdue us!\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is pleased with his use of dancing lights on the Derro.",
+    "source_quote": "Daz is very pleased with his use of dancing lights and the effect it had on the Derro.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "group is congratulated for being The Ember Vanguard",
+    "fact": "Thorin shouts, \u201cThe Ember Vanguard are in the house!\u201d",
+    "source_quote": "Thorin shouts, \u201cThe Ember Vanguard are in the house!\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz likes the idea of being a feared group of mercenaries called The Ember Vanguard.",
+    "source_quote": "The mage likes the idea of being a feared group of mercenaries instead of a pathetic group of adventurers who are running around trying to stay alive.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz has found purpose as the feared mage of the Ember Vanguard.",
+    "source_quote": "He has found purpose. He is the feared mage of the Ember Vanguard!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "direction change",
+    "fact": "Thorin leads the group west instead of south, where the Empty Scabbard Killers live.",
+    "source_quote": "Thorin leads them west, instead of south, where the Empty Scabbard Killers live.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "cavern",
+    "fact": "The cavern is 20 feet wide.",
+    "source_quote": "the enormous 20-foot-wide cavern",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum yelped",
+    "fact": "Thorin hears a yelp from Grygum.",
+    "source_quote": "Thorin hears a yelp.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Trapper",
+    "fact": "A creature that looks like a manta ray envelops Grygum.",
+    "source_quote": "sees Grygum enveloped by a creature that looks like a manta ray.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum shouts in pain",
+    "fact": "Grygum shouts in pain.",
+    "source_quote": "Grygum shouts in pain.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz ponders his spell list and considers Magic Missile the best bet.",
+    "source_quote": "Daz ponders his spell list and has some intriguing ideas, but realizes that the old standby, Magic Missile, is probably the best bet.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir and Thorin attack creature",
+    "fact": "Zalthir and Thorin attack the creature to get it to release Grygum.",
+    "source_quote": "Zalthir and Thorin attack the creature, trying to get it to release Grygum.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz casts silvery barbs",
+    "fact": "Daz casts silvery barbs to help Grygum escape.",
+    "source_quote": "So he casts silvery barbs to help Grygum escape",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz casts toll the dead",
+    "fact": "Daz casts toll the dead.",
+    "source_quote": "and then Daz follows up with the deadly chimes of the spell toll the dead.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir strikes creature",
+    "fact": "Zalthir strikes the creature a few more times with his fist.",
+    "source_quote": "Zalthir strikes the creature a few more times with his fist",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Trapper",
+    "fact": "The creature dies before Grygum can take advantage of the spell.",
+    "source_quote": "the beast dies before Grygum can take advantage of the spell.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum is covered in acid slime",
+    "fact": "Grygum is covered in the acid slime of the Trapper.",
+    "source_quote": "he is covered in the acid slime of the Trapper.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is grateful but looks unhappy.",
+    "source_quote": "But the Orc is grateful, but he looks unhappy",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session date is Diirdeklin the Derro.",
+    "source_quote": "[Continuing \u2014 Date: Diirdeklin the Derro, Speaker: Daz]",
+    "quote_verified": true
+  }
+]

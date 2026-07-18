@@ -1,0 +1,3313 @@
+[
+  {
+    "type": "date",
+    "subject": "10th day of the 1st Tenday of Myrtul 1493",
+    "fact": "On this date, the assassination of Werz Saltbaron occurred, magic was used in combat, and Werz vanished invisibly, marking a turning point in the investigation.",
+    "source_quote": "10th day of the 1st Tenday of Myrtul 1493",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "10th day of the 1st Tenday of Myrtul 1493",
+    "fact": "On this day, the party\u2019s entanglement in the triple-agent web reaches critical mass: assassinations are witnessed, Themberchaud claims them as agents, Gartokkar reveals the dragon egg theft, and the true power structure of Gracklstugh is exposed.",
+    "source_quote": "The dragon roars, 'Gartokkar, come.'",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "An hour passes between two events in the session.",
+    "source_quote": "An hour later",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occur during a single, tense session in Gracklstugh \u2014 a critical turning point where Thorin\u2019s survival strategy shifts from evasion to open confrontation, and the fate of the egg, Themberchaud, and the city hangs in the balance.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occur during a single session following the group\u2019s arrival at Gracklstugh, after resting and prior to any mission execution.",
+    "source_quote": "And after resting, he heads out to the Keepers of the Flame.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 10th day of the 1st Tenday of Myrtul 1493 DR.",
+    "source_quote": "10th day of the 1st Tenday of Myrtul 1493",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "agent recruitment",
+    "fact": "Your first mission is to do whatever the Keepers of the Flame ask you to, but report to Themberchaud first.",
+    "source_quote": "Your first mission is to do whatever the Keepers of the Flame ask you to, but report to Themberchaud first.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "assassination attempt",
+    "fact": "Two assassins, wearing face coverings and wielding glowing weapons, strike the other man.",
+    "source_quote": "Two assassins, wearing face coverings and wielding glowing weapons, strike the other man.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Assassination Attempt on Werz Saltbaron",
+    "fact": "Two masked assassins wielding glowing weapons attacked Werz Saltbaron on the pier; the party intervened, killing the assassins, but found no weapons \u2014 only a charcoal drawing of the merchant on one corpse, suggesting he was the target \u2014 or the killer.",
+    "source_quote": "He presents it to the Duergar. 'Oh my, I was.'",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Assassination of Werz Saltbaron",
+    "fact": "Werz Saltbaron was attacked by two psychic assassins on the pier near the inn; the attackers vanished without leaving weapons, and the victim had no physical wounds despite being struck.",
+    "source_quote": "Two assassins... strike the other man... The Duergar merchant has no wound on his body.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "association with undesirables",
+    "fact": "Thorin has been seen associating with individuals of questionable character, including other surface dwellers and individuals who may be considered enemies of the state.",
+    "source_quote": "Association with Undesirables: Thorin has been seen associating with individuals of questionable character, including other surface dwellers and individuals who may be considered enemies of the state. Such associations can raise suspicion and lead to accusations of conspiracy, aiding, and abetting.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Badge Distribution",
+    "fact": "Gartokkar distributes gold badges to the group under Themberchaud\u2019s command; the act serves as a ritual of enrollment and a tangible symbol of the dragon\u2019s authority, though its material value remains uncertain.",
+    "source_quote": "Give these humanoids some of the gold badges.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Cavern Tremor and Voice",
+    "fact": "A thunderous voice echoes through the cavern as Themberchaud emerges, accompanied by a seismic tremor; the spectacle reinforces his dominance and the supernatural weight of his presence.",
+    "source_quote": "Gartokkar,\" the voice calls as a reptilian behemoth comes into view.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "cleric of Bahamut's outrage at Themberchaud's treatment",
+    "fact": "Grygum, as a cleric of Bahamut, is appalled at how Themberchaud is treated and agrees to the plan.",
+    "source_quote": "Grygum smiles, \u201cAs a cleric of Bahamut, I am appalled at how they treat Themberchaud. Let\u2019s do it.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz replies that the faction thinks they are working for them, but whether they do is up to them.",
+    "source_quote": "Daz, who has experience with the twisted, machiavellian politics of the Drow, replies, \"The faction thinks we are working for them. Whether we do is up to us.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz says, \"I think gathering intelligence is just as important,\" dismissing Jimjar\u2019s suggestion to leave.",
+    "source_quote": "Daz dismisses him, \"I think gathering intelligence is just as important.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz says, \"The faction thinks we are working for them. Whether we do is up to us.\"",
+    "source_quote": "Daz, who has experience with the twisted, machiavellian politics of the Drow, replies, \"The faction thinks we are working for them. Whether we do is up to us.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz says, \"We never technically accepted an offer. He assumed we accepted. We would like to understand the nature of the offer?\"",
+    "source_quote": "Daz gets their first, \"We never technically accepted an offer. He assumed we accepted. We would like to understand the nature of the offer?\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz speaks the words for scorching rays, feels intense heat, and launches fiery energy at an assassin while Zalthir\u2019s darkness hides the flash.",
+    "source_quote": "Daz speaks the words for scorching rays and feels the rush of intense heat as the fiery energy is manifested. He points with his index finger, uses his thumb to sight, squints, and lets the rays loose...",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz thinks, \"And perhaps that\u2019s why,\" he\u2019s being attacked, right before the assassination occurs.",
+    "source_quote": "\"And perhaps that\u2019s why,\" Daz thinks, \"he\u2019s being attacked.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz thinks, \"Wererats,\" when he notices the other escapees are missing.",
+    "source_quote": "\"Wererats,\" thinks Daz.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz turned to Thorin while looking at his collection of badges and said, 'So we flash the right one at the right time?'",
+    "source_quote": "Daz turns to Thorin while looking at his collection of badges, 'So we flash the right one at the right time?'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz utters mystical words and causes motes of light to appear above his hand, launching magic missiles at an assassin.",
+    "source_quote": "When Daz utters the mystical words, motes of light appear above his hand, and three fingers point at one of the assassins. A silent rush of air accompanies the flight of the magic missiles...",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz walks to the piers near the inn and observes a Duergar man looking into the darkness of the Darklake.",
+    "source_quote": "Daz leaves the inn and walks to the piers near the \"inn.\" On one of the piers, a Duergar man appears, looking into the darkness of the Darklake.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz watches two assassins strike a Duergar man with glowing weapons and wonders if they are psychic weapons.",
+    "source_quote": "As Daz watches, two assassins, wearing face coverings and wielding glowing weapons, strike the other man. \"Psychic weapons?\" he wonders.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "disaster of revealing the egg",
+    "fact": "Gartokkar says sharing the egg\u2019s existence would be a disaster.",
+    "source_quote": "Gartokkar turns dark and then smiles, \u201cYou joke? Sharing that would be a disaster.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "double agent status",
+    "fact": "We work for the Stone Guards and the Keepers of the Flame.",
+    "source_quote": "We work for the Stone Guards and the Keepers of the Flame.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "dragon egg theft",
+    "fact": "We lost face when the Gray Ghosts stole the valuable red dragon egg that would hatch Themberchaud\u2019s replacement.",
+    "source_quote": "We lost face when the Gray Ghosts stole the valuable red dragon egg that would hatch Themberchaud\u2019s replacement.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "dragon\u2019s age and replacement",
+    "fact": "Eventually, the Dragon moves on because he wants to see more of the world.",
+    "source_quote": "Eventually, the Dragon moves on because he wants to see more of the world.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "dragon's breath",
+    "fact": "The dragon roars, 'If I catch anyone spying, I will kill them.' And with that, he breathes fire in a circle around the cavern. When nobody dies or screams, the dragon laughs.",
+    "source_quote": "The dragon roars, 'If I catch anyone spying, I will kill them.' And with that, he breathes fire in a circle around the cavern. When nobody dies or screams, the dragon laughs.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "espionage investigation",
+    "fact": "The espionage investigation is referenced as the grave offense Thorin is suspected of, due to his questioning and interest in the city's affairs, including Themberchaud and the Keepers of the Flame.",
+    "source_quote": "Given his questioning and interest in the city's affairs, including the Keepers of the Flame and Themberchaud, Thorin is suspected of espionage or gathering intelligence for potentially hostile entities.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "fabrication of charges against Thorin",
+    "fact": "Gartokkar has prepared a list of eight fabricated legal transgressions against Thorin under Gracklstugh law, including public disturbance, interference with the city watch, questioning authority, unauthorized access, and suspicion of espionage \u2014 all to justify his arrest if needed.",
+    "source_quote": "Let me enumerate a list of potential transgressions that the dwarf, Thorin, has committed...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "factional deception",
+    "fact": "Themberchaud thinks we work for him. What Themberchaud doesn\u2019t realize is that he works for us.",
+    "source_quote": "Themberchaud thinks we work for him. What Themberchaud doesn\u2019t realize is that he works for us.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "flashing the right badge at the right time",
+    "fact": "Daz asks if they should flash the right badge at the right time.",
+    "source_quote": "Daz turns to Thorin while looking at his collection of badges, \u201cSo we flash the right one at the right time?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar enumerates potential transgressions committed by Thorin that could warrant punitive action under Gracklstugh law.",
+    "source_quote": "Let me enumerate a list of potential transgressions that the dwarf, Thorin, has committed, which could warrant significant punitive action within the laws of Gracklstugh.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar explains that the Keepers of the Flame lost the red dragon egg that would hatch Themberchaud\u2019s replacement, and that Themberchaud doesn\u2019t know about it.",
+    "source_quote": "We lost face when the Gray Ghosts stole the valuable red dragon egg that would hatch Themberchaud\u2019s replacement... He doesn\u2019t know.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar hands out gold badges and holy symbols of Laduguer to the group.",
+    "source_quote": "Let me give you this holy symbol of Laduguer and these gold pins featuring Themberchaud\u2019s profile.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar looked at Thorin and said, 'Just find me the egg and the proof of the Gray Ghosts.'",
+    "source_quote": "Gartokkar looks at him, 'Just find me the egg and the proof of the Gray Ghosts.'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar paused and asked, 'Is that enough?'",
+    "source_quote": "Gartokkar pauses, 'Is that enough?'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar reveals that Themberchaud thinks the Keepers of the Flame work for him, but in truth, he works for them.",
+    "source_quote": "Gartokkar smiles conspiratorially, \"Themberchaud thinks we work for him. What Themberchaud doesn't realize is that he works for us.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar says, \"Eventually, the Dragon moves on because he wants to see more of the world.\"",
+    "source_quote": "Eventually, the Dragon moves on because he wants to see more of the world.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar says, \"He doesn\u2019t know.\"",
+    "source_quote": "He doesn\u2019t know.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar says, \"I am so delighted to see that you accepted Themberchaud\u2019s offer to be an agent of ours.\"",
+    "source_quote": "Gartokkar sits down in his chamber and says, \"I am so delighted to see that you accepted Themberchaud\u2019s offer to be an agent of ours.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar says, \"Let me enumerate a list of potential transgressions that the dwarf, Thorin, has committed, which could warrant significant punitive action within the laws of Gracklstugh.\"",
+    "source_quote": "Let me enumerate a list of potential transgressions that the dwarf, Thorin, has committed, which could warrant significant punitive action within the laws of Gracklstugh.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar says, \"Themberchaud thinks we work for him. What Themberchaud doesn\u2019t realize is that he works for us.\"",
+    "source_quote": "Gartokkar smiles conspiratorially, \"Themberchaud thinks we work for him. What Themberchaud doesn't realize is that he works for us.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar says, \"We have identified an agent of the Grey Ghosts. His name is Droki.\"",
+    "source_quote": "We have identified an agent of the Grey Ghosts. His name is Droki.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar says, \"We lost face when the Gray Ghosts stole the valuable red dragon egg that would hatch Themberchaud\u2019s replacement.\"",
+    "source_quote": "We lost face when the Gray Ghosts stole the valuable red dragon egg that would hatch Themberchaud\u2019s replacement.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar says, \"Well we will turn you over to the Stone Guards.\"",
+    "source_quote": "Well we will turn you over to the Stone Guards.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar tells Thorin that Themberchaud will eventually \"move on\" because he wants to see more of the world.",
+    "source_quote": "Eventually, the Dragon moves on because he wants to see more of the world.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar threatens to turn the group over to the Stone Guards if they refuse to accept the agent role.",
+    "source_quote": "Well we will turn you over to the Stone Guards.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar turned dark and then smiled and said, 'You joke? Sharing that would be a disaster.'",
+    "source_quote": "Gartokkar turns dark and then smiles, 'You joke? Sharing that would be a disaster.'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Gartokkar\u2019s list of transgressions",
+    "fact": "Gartokkar threatens Thorin with a list of potential transgressions under Gracklstugh law to coerce compliance.",
+    "source_quote": "Let me enumerate a list of potential transgressions that the dwarf, Thorin, has committed, which could warrant significant punitive action within the laws of Gracklstugh.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Gartokkar\u2019s revelation about Themberchaud\u2019s replacement",
+    "fact": "Gartokkar reveals that the Keepers of the Flame are waiting for Themberchaud to 'move on' so a new dragon can be hatched from the stolen egg, and that Themberchaud believes he is in control.",
+    "source_quote": "The egg is for when Themberchaud moves on. His replacement. Eventually, the Dragon moves on because he wants to see more of the world.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "general suspicion",
+    "fact": "As a non-Duergar, Thorin is already subject to suspicion and scrutiny within Gracklstugh, and any deviation from expected behavior can lead to arrest and imprisonment.",
+    "source_quote": "General Suspicion: As a non-Duergar, Thorin is already subject to suspicion and scrutiny within Gracklstugh. Any deviation from expected behavior or any action that could be interpreted as threatening to the city's stability can lead to arrest and imprisonment.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "group\u2019s forced acceptance as agents",
+    "fact": "The group is declared agents of Themberchaud without their consent, and later learns they are also being manipulated by the Keepers of the Flame, making them triple agents.",
+    "source_quote": "We never technically accepted an offer. He assumed we accepted.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum mutters that they are double agents or triple agents, working for the Stone Guards and the Keepers of the Flame.",
+    "source_quote": "Grygum, standing next to Thorin, mutters, \"I suppose we are double agents, or is it triple agents? We work for the Stone Guards and the Keepers of the Flame.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum pushes the first assassin\u2019s corpse into the water.",
+    "source_quote": "Just then, Zalthir hears a body falling into the water. Grygum has pushed the first corpse into the water.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum rushes one of the assassins trying to toss him into the water and fails.",
+    "source_quote": "As Daz watches, Grygum rushes one of the assassins, trying to toss him into the water. He fails.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum says, \"I suppose we are double agents, or is it triple agents? We work for the Stone Guards and the Keepers of the Flame.\"",
+    "source_quote": "Grygum, standing next to Thorin, mutters, \"I suppose we are double agents, or is it triple agents? We work for the Stone Guards and the Keepers of the Flame.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum says, \"It\u2019s like when parents say that the pet puppy left even when it dies.\"",
+    "source_quote": "Grygum turns to Thorin, \"It\u2019s like when parents say that the pet puppy left even when it dies.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum says, \"We have people who will come looking for us!\" to Themberchaud.",
+    "source_quote": "Grygum shouts, \"We have people who will come looking for us!\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum smiled and said, 'As a cleric of Bahamut, I am appalled at how they treat Themberchaud. Let\u2019s do it.'",
+    "source_quote": "Grygum smiles, 'As a cleric of Bahamut, I am appalled at how they treat Themberchaud. Let\u2019s do it.'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "interference with city watch",
+    "fact": "Thorin attempted to influence and direct the actions of the Duergar City Watch during the incident with the stone giant, which can be seen as obstruction.",
+    "source_quote": "Interference with City Watch: Thorin attempted to influence and direct the actions of the Duergar City Watch during the aforementioned incident with the stone giant. While he claims he was trying to help, any interference with the watch's official duties can be seen as obstruction and a challenge to their authority.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "interrogation by Stone Guards",
+    "fact": "The interrogation by Stone Guards is referenced by Thorin as the event that will occur if they are arrested, during which they will have to tell the truth about the egg.",
+    "source_quote": "Thorin stares at him. 'I am just putting all of our cards on the table. So if we get arrested, we will have to tell the Stone Guards about the egg, right?'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Invisibility of Werz Saltbaron",
+    "fact": "After being healed, Werz Saltbaron became invisible and departed, suggesting he possesses magical means of evasion and may be hiding his true intentions.",
+    "source_quote": "Zalthir watches as the Duergar becomes invisible.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Jimjar",
+    "fact": "Jimjar says, \"Very well,\" after shrugging at Daz\u2019s refusal to leave.",
+    "source_quote": "Jimjar shrugs and slumps into one of the beds. He sighs, \"Very well.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "magic missiles cast by Daz",
+    "fact": "Daz casts magic missiles, causing motes of light to appear above his hand, three fingers pointing at an assassin, followed by a silent rush of air and a burst of light and crackling sound upon impact.",
+    "source_quote": "When Daz utters the mystical words, motes of light appear above his hand, and three fingers point at one of the assassins. A silent rush of air accompanies the flight of the magic missiles, and when they strike, a burst of light and a crackling sound fills the area.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "possession of unauthorized items",
+    "fact": "If Thorin is found to own any items considered contraband or restricted within Gracklstugh, such as certain weapons or magical items, he will violate the law.",
+    "source_quote": "Possession of Unauthorized Items: If Thorin is found to own any items considered contraband or restricted within Gracklstugh, such as certain weapons or magical items, he will violate the law.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "psychic blade assassination",
+    "fact": "Two assassins strike Werz Saltbaron with glowing weapons, leaving no entrance or exit wounds, consistent with psychic blade attacks described in Milo Goodbarrel\u2019s memoirs.",
+    "source_quote": "Two assassins, wearing face coverings and wielding glowing weapons, strike the other man. 'Psychic weapons?' he wonders.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "public disturbance and disorder",
+    "fact": "Thorin was involved in the altercation with the deranged stone giant, contributing to the ensuing public disorder.",
+    "source_quote": "Public Disturbance and Disorder: Thorin was involved in the altercation with the deranged stone giant. While he claims to have wanted to subdue the giant, his actions could be interpreted as contributing to the ensuing public disorder.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "pushing assassins\u2019 corpses into the Darklake",
+    "fact": "Grygum and Zalthir push the assassins\u2019 corpses into the Darklake to conceal evidence before the guard arrives.",
+    "source_quote": "Just then, Zalthir hears a body falling into the water. Grygum has pushed the first corpse into the water. Zalthir agrees and helps push the other body into the water.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "questioning authority",
+    "fact": "Thorin has repeatedly questioned the authority and motives of various Duergar individuals and factions, including the Keepers of the Flame, which is not tolerated.",
+    "source_quote": "Questioning Authority: Thorin has repeatedly questioned the authority and motives of various Duergar individuals and factions, including the Keepers of the Flame. Such questioning can be perceived as dissent and disrespect, which is not tolerated within Gracklstugh's hierarchical society.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Recruitment by Themberchaud",
+    "fact": "Themberchaud forcibly recruited the party as his agents without consent, using intimidation and false authority, while the Keepers of the Flame simultaneously claimed them as their own \u2014 creating a layered deception that traps the party in triple-agent status.",
+    "source_quote": "I wish for you to be my agent. And as my agents, you will have my protection.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "request for the egg and proof of the Gray Ghosts",
+    "fact": "Gartokkar tells Thorin to find the egg and the proof of the Gray Ghosts.",
+    "source_quote": "Just find me the egg and the proof of the Gray Ghosts.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Revelation of the Dragon Egg Theft",
+    "fact": "Gartokkar reveals the Keepers of the Flame lost the dragon egg meant to replace Themberchaud to the Gray Ghosts, and that Themberchaud is unaware he is being groomed for replacement \u2014 a secret the party now holds.",
+    "source_quote": "The egg is for when Themberchaud moves on. His replacement.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "riding the Dragon out of Gracklstugh",
+    "fact": "Thorin proposes riding the Dragon out of the city, laying waste to everything behind them, as factions are playing them against each other.",
+    "source_quote": "Thorin nods. And then he has a peculiar glint in his eye. He turns to Grygum, \u201cI have an idea. These factions are all trying to play us against each other, and this Dragon is one of us. So what if we ride this Dragon out of here, laying waste to everything behind us?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "scorching rays cast by Daz",
+    "fact": "Daz casts scorching rays, feeling intense heat, pointing with his index finger, using his thumb to sight, squinting, and releasing the rays, which leave a streak of heat haze and burn flesh despite Zalthir\u2019s darkness.",
+    "source_quote": "He speaks the words for scorching rays and feels the rush of intense heat as the fiery energy is manifested. He points with his index finger, uses his thumb to sight, squints, and lets the rays loose. They travel quickly, leaving a streak of heat haze.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "shared disclosure of the egg",
+    "fact": "Thorin says if they get arrested, they will have to tell the Stone Guards about the egg.",
+    "source_quote": "Thorin stares at him. \u201cI am just putting all of our cards on the table. So if we get arrested, we will have to tell the Stone Guards about the egg, right?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "suspicion of espionage",
+    "fact": "Given his questioning and interest in the city's affairs, including the Keepers of the Flame and Themberchaud, Thorin is suspected of espionage or gathering intelligence for potentially hostile entities.",
+    "source_quote": "Suspicion of Espionage: Given his questioning and interest in the city's affairs, including the Keepers of the Flame and Themberchaud, Thorin is suspected of espionage or gathering intelligence for potentially hostile entities. This is a grave offense with severe consequences.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "theft of the red dragon egg",
+    "fact": "The red dragon egg, believed to be the replacement for Themberchaud, was stolen by the Gray Ghosts agent Droki. The theft caused a major disturbance in the Underdark and has become the focal point of a multi-faction power struggle.",
+    "source_quote": "The Gray Ghosts stole the valuable red dragon egg that would hatch Themberchaud\u2019s replacement.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud asks Daz if he is from Menzoberranzan and laughs when Daz says yes.",
+    "source_quote": "The dragon asks if Daz is from Menzoberranzan... Daz says he is. The dragon laughs, \"Excellent! You have no family associations and nobody that can be blackmailed.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud asks Zalthir if he is a gold dragonborn and says he never liked gold dragons.",
+    "source_quote": "The dragon turns to Zalthir, \"You are a gold dragonborn?\" \"No, a bronze.\" \"Good. I never liked gold dragons.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud breathes fire in a circle around the cavern and laughs when nobody dies or screams.",
+    "source_quote": "The dragon bellows, \"If I catch anyone spying, I will kill them.\" And with that, he breathes fire in a circle around the cavern. When nobody dies or screams, the dragon laughs.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud declares the group his agents and whispers that their first mission is to do whatever the Keepers of the Flame ask, but report to him first.",
+    "source_quote": "The dragon whispers, \"Your first mission is to do whatever the Keepers of the Flame ask you to, but report to Themberchaud first.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud says, \"Excellent! You have no family associations and nobody that can be blackmailed.\"",
+    "source_quote": "The dragon laughs, \"Excellent! You have no family associations and nobody that can be blackmailed.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud says, \"Good. I never liked gold dragons.\"",
+    "source_quote": "\"Good. I never liked gold dragons.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud says, \"I wish to speak to them alone.\"",
+    "source_quote": "The dragon roars, \"I wish to speak to them alone.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud says, \"If I catch anyone spying, I will kill them.\"",
+    "source_quote": "The dragon bellows, \"If I catch anyone spying, I will kill them.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud says, \"You are a gold dragonborn?\"",
+    "source_quote": "The dragon turns to Zalthir, \"You are a gold dragonborn?\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud says, \"Your first mission is to do whatever the Keepers of the Flame ask you to, but report to Themberchaud first.\"",
+    "source_quote": "The dragon whispers, \"Your first mission is to do whatever the Keepers of the Flame ask you to, but report to Themberchaud first.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud tells Gartokkar to give the group gold badges and commands the rest to follow Gartokkar\u2019s orders.",
+    "source_quote": "Gartokkar, come... Give these humanoids some of the gold badges... And the rest of you do what Gartokkar says.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Themberchaud\u2019s fire circle",
+    "fact": "Themberchaud breathes fire in a circle around his cavern, and when no one dies or screams, he laughs, demonstrating his control and theatricality.",
+    "source_quote": "And with that, he breathes fire in a circle around the cavern. When nobody dies or screams, the dragon laughs.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Themberchaud's Recruitment",
+    "fact": "Themberchaud unilaterally declares Zalthir and his companions his agents without seeking consent, using intimidation, psychological dominance, and symbolic gifts (gold badges) to enforce compliance.",
+    "source_quote": "I wish for you to be my agent. And as my agents, you will have my protection.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The Party\u2019s Triple-Agent Status",
+    "fact": "The party is now simultaneously bound \u2014 by coercion, deception, and circumstance \u2014 to the Stone Guards (Errde), the Keepers of the Flame (Gartokkar), and Themberchaud, with no clear allegiance, no escape, and no certainty of who is manipulating whom.",
+    "source_quote": "We work for the Stone Guards and the Keepers of the Flame.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin and Gartokkar stood outside the building that houses Gartokkar\u2019s office.",
+    "source_quote": "As they stand outside the building that houses Gartokkar\u2019s office, Daz turns to Thorin while looking at his collection of badges...",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin asks Gartokkar what the rights and responsibilities of being an agent are.",
+    "source_quote": "\"What are the rights and responsibilities for this position?\" growls Thorin, outraged to be working for a dragon.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin had a peculiar glint in his eye and turned to Grygum and said, 'I have an idea. These factions are all trying to play us against each other, and this Dragon is one of us. So what if we ride this Dragon out of here, laying waste to everything behind us?'",
+    "source_quote": "Thorin nods. And then he has a peculiar glint in his eye. He turns to Grygum, 'I have an idea. These factions are all trying to play us against each other, and this Dragon is one of us. So what if we ride this Dragon out of here, laying waste to everything behind us?'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin nodded in response to Daz\u2019s question.",
+    "source_quote": "Thorin nods.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin rushes into the fight alongside Grygum.",
+    "source_quote": "Grygum rushes into the fight, and so does Thorin.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin says, \"God, what I wouldn\u2019t do for a bath and listening to whale sounds.\"",
+    "source_quote": "The dwarf smiles, \"Scented candles!\" And then he says, \"God, what I wouldn\u2019t do for a bath and listening to whale sounds.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin says, \"I want to be my faction.\"",
+    "source_quote": "Thorin is exasperated and almost shouts, \"I am sorry, I can't deal with these factions. I can't keep track of who we are working for and which faction we are double-crossing. I want to be my faction.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin stared at Gartokkar and said, 'I am just putting all of our cards on the table. So if we get arrested, we will have to tell the Stone Guards about the egg, right?'",
+    "source_quote": "Thorin stares at him. 'I am just putting all of our cards on the table. So if we get arrested, we will have to tell the Stone Guards about the egg, right?'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin weighs a gold badge given by Gartokkar and asks Daz how much gold it is.",
+    "source_quote": "Gartokkar hands out some gold badges. Thorin weighs it in his hands. Daz turns to him and asks, \"How much gold is this?\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin\u2019s plan to ride Themberchaud",
+    "fact": "Thorin and Grygum have devised a radical plan to use Themberchaud as a weapon to escape Gracklstugh, destroying everything behind them. This plan represents a direct challenge to Duergar authority, combining rebellion, sacrilege, and strategic violence \u2014 a turning point from passive survival to active revolution.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "Sloobludop is approximately eight days away via the Darklake.",
+    "source_quote": "the town of Sloopdopblop is just eight days away",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "triple agent status",
+    "fact": "We are double agents, or is it triple agents? We work for the Stone Guards and the Keepers of the Flame.",
+    "source_quote": "I suppose we are double agents, or is it triple agents? We work for the Stone Guards and the Keepers of the Flame.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "unauthorized access",
+    "fact": "Thorin may have entered areas restricted to non-Duergar citizens without proper authorization, even with the passes.",
+    "source_quote": "Unauthorized Access: Depending on his movements within the city, Thorin may have entered areas restricted to non-Duergar citizens without proper authorization, even with the passes. Any unauthorized access to restricted areas is a violation of city ordinances.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Use of Magic Missiles and Scorching Rays",
+    "fact": "Daz cast magic missiles and scorching rays during the assassination, using visual sighting and precise targeting; the spells struck the assassins with visible light and heat, but Zalthir\u2019s Darkness concealed the flashes.",
+    "source_quote": "Motes of light appear above his hand... a silent rush of air accompanies the flight of the magic missiles... the rush of intense heat as the fiery energy is manifested.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Werz Saltbaron\u2019s invisibility",
+    "fact": "Werz Saltbaron becomes invisible after being healed by Grygum, confirming his identity as a covert operative.",
+    "source_quote": "Zalthir watches as the Duergar becomes invisible.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir agrees and helps push the other body into the water.",
+    "source_quote": "Zalthir agrees and helps push the other body into the water.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir casts Darkness to cover the area and hides the flash of Daz\u2019s scorching rays.",
+    "source_quote": "Zalthir covers the area with Darkness.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir casts Darkness to cover the area and mutters that area-of-effect spells are useful because he can't see.",
+    "source_quote": "Zalthir covers the area with Darkness. \"I can't see. And this is why area of effect spells are useful,\" he mutters.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir finds a box of scented candles among the assassins' corpses and passes them to Thorin.",
+    "source_quote": "Zalthir starts to rifle through the assassins' corpses and finds some coins, a pair of bloodstained gloves, and a box of candles. He notices they have a pleasant smell and passes them to Thorin.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir finds a charcoal drawing of the Duergar merchant on one of the assassins' corpses and presents it to him.",
+    "source_quote": "Zalthir scrutinizes him and concludes that Holl may not have been lying... He presents it to the Duergar.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir finds coins, bloodstained gloves, and a box of scented candles among the assassins' corpses and passes the candles to Thorin.",
+    "source_quote": "Zalthir starts to rifle through the assassins' corpses and finds some coins, a pair of bloodstained gloves, and a box of candles. He notices they have a pleasant smell and passes them to Thorin.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir hears a body falling into the water and says, \"We must get out of here before the guard shows up.\"",
+    "source_quote": "Just then, Zalthir hears a body falling into the water. Grygum has pushed the first corpse into the water. \"We must get out of here before the guard shows up.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir helps push the second assassin\u2019s corpse into the water.",
+    "source_quote": "Zalthir agrees and helps push the other body into the water.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir nods in agreement when Grygum says they have people looking for them.",
+    "source_quote": "Zalthir nods, \"Of course.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir offers to create an illusion of whale sounds for Thorin.",
+    "source_quote": "Zalthir chuckles, \"I could create that illusion for you.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir overhears Daz and asks Grygum if Themberchaud plays chess, recalling Milo Goodbarrel\u2019s memoirs.",
+    "source_quote": "Zalthir overhears Daz and asks Grygum, \"Do you think this dragon also plays chess? According to Milo Goodbarrel\u2019s memoirs, chess played a significant role in negotiating with the metallic dragons.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir reflects that deals with red dragons are never good deals.",
+    "source_quote": "Deals with red dragons are never good deals,\" thinks Zalthir.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, \"Convenient,\" after the Duergar merchant becomes invisible.",
+    "source_quote": "Zalthir watches as the Duergar becomes invisible. \"Convenient.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, \"Deals with red dragons are never good deals,\" thinking to himself.",
+    "source_quote": "Deals with red dragons are never good deals,\" thinks Zalthir.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, \"I could create that illusion for you,\" offering to make whale sounds for Thorin.",
+    "source_quote": "Zalthir chuckles, \"I could create that illusion for you.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, \"We must get out of here before the guard shows up.\"",
+    "source_quote": "Just then, Zalthir hears a body falling into the water. Grygum has pushed the first corpse into the water. \"We must get out of here before the guard shows up.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir watches the Duergar merchant become invisible after thanking them.",
+    "source_quote": "Zalthir watches as the Duergar becomes invisible.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir wonders if Daz is lying about being from Menzoberranzan.",
+    "source_quote": "Zalthir wonders as well. Daz says he is. But Zalthir isn\u2019t convinced that is the truth.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Duergar",
+    "fact": "The Duergar are a reclusive subterranean race known for austere living conditions, dark clothing, and occasional displays of hidden wealth, and are suspected of internal conflict and possible involvement in psychic assassinations.",
+    "source_quote": "The Ghohlbrorn\u2019s Lair... offers the kind of accommodations one could expect from a Duergar: unpleasant, cold, and austere.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Duergar City Watch",
+    "fact": "The Duergar City Watch is referenced as the entity Thorin attempted to influence and direct during the incident with the stone giant, and whose official duties interference is seen as obstruction.",
+    "source_quote": "Thorin attempted to influence and direct the actions of the Duergar City Watch during the aforementioned incident with the stone giant.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Duergar City Watch",
+    "fact": "The Duergar City Watch is the official law enforcement body of Gracklstugh, tasked with maintaining order and enforcing city ordinances. It is viewed as an authoritarian institution that tolerates no interference, and its authority is absolute. Thorin\u2019s attempts to influence its actions are considered obstruction.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Gray Ghosts",
+    "fact": "The Gray Ghosts are a mysterious, possibly outlawed or hidden faction in Gracklstugh, whose existence is suspected but unconfirmed. Gartokkar demands proof of their involvement, indicating they are tied to a larger conspiracy, possibly involving the egg or Themberchaud.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Gray Ghosts",
+    "fact": "The Gray Ghosts are a secretive and dangerous faction responsible for stealing the red dragon egg and creating chaos in the Underdark. They are enemies of the Keepers of the Flame and are actively opposed by the Stone Guards.",
+    "source_quote": "The Gray Ghosts stole the egg and created a great disturbance in the Underdark.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Gray Ghosts",
+    "fact": "The Gray Ghosts are referenced by Gartokkar as the group whose proof must be found alongside the egg.",
+    "source_quote": "Gartokkar looks at him, 'Just find me the egg and the proof of the Gray Ghosts.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Keepers of the Flame",
+    "fact": "The Keepers of the Flame are a Duergar psionic order that claims spiritual and political authority over Gracklstugh. They manipulate Themberchaud, orchestrate the theft of the red dragon egg, and use fabricated legal charges to control outsiders.",
+    "source_quote": "The powers of the Keepers of the Flame derive an equal measure from our psionic abilities, the leadership of the Deepking, and our influence over Themberchaud.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Keepers of the Flame",
+    "fact": "The Keepers of the Flame are a powerful Duergar religious or political faction within Gracklstugh, associated with divine authority and the suppression of dissent. Thorin\u2019s repeated questioning of their motives has marked him as a threat to their doctrinal control and social hierarchy.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Keepers of the Flame",
+    "fact": "The Keepers of the Flame are a secretive organization believed to be in possession of a Red Dragon held in peculiar captivity, and are the subject of Grygum and Daz\u2019s intelligence-gathering efforts.",
+    "source_quote": "Daz wants to learn about the Keepers of the Flame, and Grygum wants to know about this Red Dragon that is kept in some kind of peculiar captivity by the Keepers of the Flame.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Keepers of the Flame",
+    "fact": "The Keepers of the Flame are a secretive, ritualistic order based in the southeastern cave; they are subordinate to Themberchaud but act as the immediate authority over the agents, creating a dual-layered chain of command.",
+    "source_quote": "Your first mission is to do whatever the Keepers of the Flame ask you to, but report to Themberchaud first.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Keepers of the Flame",
+    "fact": "The Keepers of the Flame are referenced as the group Thorin has repeatedly questioned, and whose authority and motives are perceived as dissent and disrespect.",
+    "source_quote": "Thorin has repeatedly questioned the authority and motives of various Duergar individuals and factions, including the Keepers of the Flame.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Stone Guards",
+    "fact": "The Stone Guards are an external force to which Grygum claims the group has ties; their existence introduces a third, potentially hostile layer of allegiance, making the group\u2019s position ambiguous and precarious.",
+    "source_quote": "We have people who will come looking for us!",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Stone Guards",
+    "fact": "The Stone Guards are the official law enforcement of Gracklstugh, tasked with maintaining order and pursuing criminals like Droki. They are manipulated by the Keepers of the Flame and used as a threat against non-Duergar like Thorin.",
+    "source_quote": "Well we will turn you over to the Stone Guards.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "The Gray Ghosts",
+    "fact": "The Gray Ghosts are a rogue faction that stole the dragon egg intended to replace Themberchaud, destabilizing the balance of power in Gracklstugh, and are now hunted by both the Keepers of the Flame and the Stone Guards.",
+    "source_quote": "The Gray Ghosts stole the egg and created a great disturbance in the Underdark.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "the Gray Ghosts",
+    "fact": "The Gray Ghosts are a thieves\u2019 guild that stole the red dragon egg intended to hatch Themberchaud\u2019s replacement, causing a disturbance in the Underdark.",
+    "source_quote": "We lost face when the Gray Ghosts stole the valuable red dragon egg that would hatch Themberchaud\u2019s replacement.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "the Keepers of the Flame",
+    "fact": "The Keepers of the Flame are a psionic faction that controls Themberchaud, believes he works for them, and seeks to replace him with a new dragon hatched from a stolen egg.",
+    "source_quote": "Themberchaud thinks we work for him. What Themberchaud doesn\u2019t realize is that he works for us.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "The Keepers of the Flame",
+    "fact": "The Keepers of the Flame are a psionic sect in Gracklstugh that secretly control Themberchaud, manipulate agents through holy symbols and coercion, and are locked in a cold war with the Gray Ghosts over the stolen dragon egg meant to replace the current Wyrmsmith.",
+    "source_quote": "We lost face when the Gray Ghosts stole the valuable red dragon egg that would hatch Themberchaud\u2019s replacement.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud is a dragon, likely a red dragon, held in oppressive or exploitative conditions by the Duergar of Gracklstugh. Grygum\u2019s outrage at its treatment and Thorin\u2019s plan to \u2018ride it out\u2019 suggest it is not merely a beast but a sentient entity with symbolic or strategic value \u2014 possibly a prisoner, weapon, or sacred being.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud is referenced by Grygum as the entity he is appalled at how they treat, and by Gartokkar as one of the city's affairs Thorin is suspected of gathering intelligence on.",
+    "source_quote": "Grygum smiles, 'As a cleric of Bahamut, I am appalled at how they treat Themberchaud. Let\u2019s do it.' ... Given his questioning and interest in the city's affairs, including the Keepers of the Flame and Themberchaud, Thorin is suspected of espionage...",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Themberchaud\u2019s Agents",
+    "fact": "Themberchaud believes he has recruited the party as his personal agents, but they are unaware they are being manipulated by the Keepers of the Flame, who use his authority as cover for their own agenda \u2014 making the party unwitting triple agents.",
+    "source_quote": "Your first mission is to do whatever the Keepers of the Flame ask you to, but report to Themberchaud first.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Themberchaud\u2019s agents",
+    "fact": "Themberchaud claims the group as his agents without consent, offering protection in exchange for obedience, but they are unaware he is himself manipulated.",
+    "source_quote": "I am Themberchaud, and I wish for you to be my agent. And as my agents, you will have my protection.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Themberchaud's Regime",
+    "fact": "Themberchaud's regime operates as a coercive, personality-driven faction that assumes loyalty, offers protection as a privilege, and demands unquestioning obedience; its power is rooted in terror, illusion of choice, and the exploitation of agents' dependencies.",
+    "source_quote": "You will have my protection.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "The Stone Guards",
+    "fact": "The Stone Guards are Errde Blackskull\u2019s enforcement arm, tasked with internal security, hunting the Gray Ghosts agent Droki, and suppressing knowledge of psychic assassins \u2014 a threat they believe is real but publicly deny.",
+    "source_quote": "Errde, Captain of the Stone Guards, is looking for [Droki].",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "the Stone Guards",
+    "fact": "The Stone Guards are led by Errde Blackskull and are searching for Droki, an agent of the Gray Ghosts.",
+    "source_quote": "This is the same person Errde, Captain of the Stone Guards, is looking for.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Thieve\u2019s Guild",
+    "fact": "The Thieve\u2019s Guild is in an ongoing war with the Keepers of the Flame, though the theft of the red dragon egg is attributed to the Gray Ghosts, suggesting possible misdirection or internal conflict.",
+    "source_quote": "Our war with the Thieve\u2019s guild has been ongoing.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "building that houses Gartokkar\u2019s office",
+    "fact": "The building that houses Gartokkar\u2019s office is the location where Daz turns to Thorin while looking at his collection of badges, and where Thorin has a peculiar glint in his eye and turns to Grygum with his idea.",
+    "source_quote": "As they stand outside the building that houses Gartokkar\u2019s office, Daz turns to Thorin while looking at his collection of badges, 'So we flash the right one at the right time?' ... Thorin nods. And then he has a peculiar glint in his eye. He turns to Grygum, 'I have an idea. These factions are all trying to play us against each other, and this Dragon is one of us. So what if we ride this Dragon out of here, laying waste to everything behind us?'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Cave of Gracklstugh",
+    "fact": "The cave is a monumental, subterranean stronghold housing Themberchaud\u2019s hoard, the Keepers of the Flame, and Gartokkar\u2019s chambers; it is a nexus of power, deception, and layered loyalties.",
+    "source_quote": "The Keepers of the Flame are in the far southeastern corner of the cave.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Darklake",
+    "fact": "The Darklake is a body of water near the piers where the assassination occurred, shrouded in darkness and used as a location for secretive encounters.",
+    "source_quote": "A Duergar man appears, looking into the darkness of the Darklake.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Gartokkar\u2019s Chambers",
+    "fact": "Gartokkar\u2019s chambers are the site of ritualistic confirmation and political negotiation; it is where the group is formally acknowledged as agents, despite never having consented.",
+    "source_quote": "I am so delighted to see that you accepted Themberchaud\u2019s offer to be an agent of ours.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Gartokkar\u2019s chambers",
+    "fact": "The Duergar priest sits down in his chamber and says, 'I am so delighted to see that you accepted Themberchaud\u2019s offer to be an agent of ours.'",
+    "source_quote": "The Duergar priest sits down in his chamber and says, 'I am so delighted to see that you accepted Themberchaud\u2019s offer to be an agent of ours.'",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Gartokkar\u2019s office",
+    "fact": "Gartokkar\u2019s office is the administrative center where Thorin\u2019s case is managed. It is a place of negotiation, threat, and subtle control \u2014 the threshold between compliance and arrest. The events outside its doors mark the transition from passive interrogation to active rebellion.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Gartokkar\u2019s office",
+    "fact": "Gartokkar\u2019s office is the location referenced as the building they stand outside of, and where the conversation about the egg and the Gray Ghosts takes place.",
+    "source_quote": "As they stand outside the building that houses Gartokkar\u2019s office, Daz turns to Thorin while looking at his collection of badges... Gartokkar looks at him, 'Just find me the egg and the proof of the Gray Ghosts.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Ghohlbrorn\u2019s Lair",
+    "fact": "The Ghohlbrorn\u2019s Lair offers the kind of accommodations one could expect from a Duergar: unpleasant, cold, and austere.",
+    "source_quote": "The Ghohlbrorn\u2019s Lair, to Daz\u2019s refined sensibilities, offers the kind of accommodations one could expect from a Duergar: unpleasant, cold, and austere.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh is a Duergar city ruled by hidden power structures: the Keepers of the Flame control Themberchaud, the Stone Guards enforce silence, and invisible assassins operate in the shadows \u2014 all while the populace remains unaware of the true rulers.",
+    "source_quote": "Having invisible ruthless guards helps.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh is a Duergar-dominated city in the Underdark governed by strict hierarchy, suspicion of outsiders, and secret power struggles. Law enforcement is arbitrary, and authority is maintained through fear, manipulation, and fabricated charges.",
+    "source_quote": "With them, you can travel within Gracklstugh, but there are limits.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh is a rigid, hierarchical Duergar city where non-Duergar are under constant suspicion, authority is absolute, and dissent is crushed. Its laws are enforced with discretion, and survival depends on navigating its bureaucracy, avoiding association with undesirables, and concealing forbidden knowledge \u2014 especially regarding the egg and Themberchaud.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh is referenced as the hierarchical society where questioning authority is not tolerated, and where unauthorized access and association with undesirables are violations of city ordinances.",
+    "source_quote": "Such questioning can be perceived as dissent and disrespect, which is not tolerated within Gracklstugh's hierarchical society. ... Any unauthorized access to restricted areas is a violation of city ordinances. ... Such associations can raise suspicion and lead to accusations of conspiracy, aiding, and abetting.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "With them, you can travel within Gracklstugh, but there are limits.",
+    "source_quote": "With them, you can travel within Gracklstugh, but there are limits.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Shattered Spire",
+    "fact": "Come by the Shattered Spire tomorrow, and I will reward you.",
+    "source_quote": "Come by the Shattered Spire tomorrow, and I will reward you.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Shattered Spire",
+    "fact": "The Shattered Spire is a location referenced by Werz Saltbaron as a place to receive a reward, suggesting it is a known hub for clandestine dealings among Duergar elites.",
+    "source_quote": "Come by the Shattered Spire tomorrow, and I will reward you.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "the Ghohlbrorn\u2019s Lair",
+    "fact": "The Ghohlbrorn\u2019s Lair contains a large, cold, damp dining room and communal chambers where you can sleep.",
+    "source_quote": "There is a large, cold, damp dining room and communal chambers where you can sleep",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Ghohlbrorn\u2019s Lair",
+    "fact": "The Ghohlbrorn\u2019s Lair is a cold, austere Duergar stronghold with a large damp dining room and communal sleeping chambers, serving as a temporary refuge for escapees.",
+    "source_quote": "The Ghohlbrorn\u2019s Lair... offers the kind of accommodations one could expect from a Duergar: unpleasant, cold, and austere.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Keepers of the Flame",
+    "fact": "The Keepers of the Flame are in the far southeastern corner of the cave, and the journey is uneventful.",
+    "source_quote": "The Keepers of the Flame are in the far southeastern corner of the cave, and the journey is uneventful.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "the Keepers of the Flame\u2019s chamber",
+    "fact": "The Keepers of the Flame are located in the far southeastern corner of the cave, accessible via Errde Blackskull\u2019s passes.",
+    "source_quote": "The Keepers of the Flame are in the far southeastern corner of the cave, and the journey is uneventful.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Keepers of the Flame\u2019s Chamber",
+    "fact": "The Keepers of the Flame operate from a stone-carved chamber near the monumental cave entrance, where they manipulate the party using holy symbols, psionic authority, and the illusion of divine mandate.",
+    "source_quote": "Gartokkar hands out some gold badges.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Themberchaud\u2019s Hoard Cavern",
+    "fact": "Themberchaud\u2019s cavern is a glittering prison of gold and gems, where the dragon is pampered, sedentary, and utterly unaware he is a captive \u2014 a symbol of the Keepers\u2019 control over even the most powerful beings.",
+    "source_quote": "Sitting on top of it is a plump, overweight red dragon.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Themberchaud\u2019s hoard-cavern",
+    "fact": "Themberchaud\u2019s cavern is filled with a hoard of gems and coins, and he sits atop it, visibly overweight and pampered.",
+    "source_quote": "The dragon\u2019s cavern is filled with a hoard of gems and coins. Sitting on top of it is a plump, overweight red dragon.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "the piers near the 'inn'",
+    "fact": "On one of the piers, a Duergar man appears, looking into the darkness of the Darklake, wearing dark and plain clothes with occasional flourishes of wealth and taste.",
+    "source_quote": "On one of the piers, a Duergar man appears, looking into the darkness of the Darklake. Like most Duergar, his clothes are dark and plain, but there is the occasional flourish of wealth and taste",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "the Shattered Spire",
+    "fact": "The Shattered Spire is the location Werz Saltbaron invites the group to for a reward.",
+    "source_quote": "Come by the Shattered Spire tomorrow, and I will reward you.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Shattered Spire",
+    "fact": "The Shattered Spire is the rumored meeting place of Werz Saltbaron, possibly a front for Gray Ghost operations or a safehouse for agents \u2014 now a potential destination for the party after his cryptic invitation.",
+    "source_quote": "Come by the Shattered Spire tomorrow, and I will reward you.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Underdark",
+    "fact": "The Underdark is the vast subterranean realm where Themberchaud resides and where the red dragon egg was stolen. It is a place of ancient power, hidden factions, and shifting loyalties.",
+    "source_quote": "The Gray Ghosts stole the egg and created a great disturbance in the Underdark.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
+    "source_quote": "Drow outpost was 100' in the sky",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
+    "source_quote": "four chasme and two vrock",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Dragon",
+    "fact": "The Dragon is referenced by Thorin as the entity that is one of us, and that they may ride out of the city, laying waste to everything behind them.",
+    "source_quote": "Thorin turns to Grygum, 'I have an idea. These factions are all trying to play us against each other, and this Dragon is one of us. So what if we ride this Dragon out of here, laying waste to everything behind us?'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Droki",
+    "fact": "We have identified an agent of the Grey Ghosts. His name is Droki.",
+    "source_quote": "We have identified an agent of the Grey Ghosts. His name is Droki.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Kenku Whistler",
+    "fact": "The Kenku Whistler is referenced in Milo Goodbarrel\u2019s book as having used psychic blades to fake an attack, suggesting the technique is known and possibly replicable.",
+    "source_quote": "Milo describes this kind of attack as a psychic blade attack... where the Kenku Whistler used the psychic blades to fake an attack by Milo on an enemy.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Psychic Assassins",
+    "fact": "Psychic assassins are unseen killers who strike without physical wounds, leaving victims dead with no entrance or exit trauma, their method confirmed by Zalthir\u2019s observation and Daz\u2019s novel-based recognition \u2014 possibly linked to the Gray Ghosts.",
+    "source_quote": "The bodies were found with no exit wounds or entrance wounds.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Psychic Assassins",
+    "fact": "Two psychic assassins attacked Werz Saltbaron using glowing, non-physical weapons that leave no entrance or exit wounds, and vanished without leaving any weapons behind.",
+    "source_quote": "Two assassins, wearing face coverings and wielding glowing weapons, strike the other man.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "psychic blade attack",
+    "fact": "Milo describes this kind of attack as a psychic blade attack. It leaves no trace. There is this one moment where the Kenku Whistler used the psychic blades to fake an attack by Milo on an enemy.",
+    "source_quote": "Milo describes this kind of attack as a psychic blade attack. It leaves no trace. There is this one moment where the Kenku Whistler used the psychic blades to fake an attack by Milo on an enemy.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "stone giant",
+    "fact": "A deranged stone giant was involved in a public altercation with Thorin, triggering the initial charges against him. Its presence suggests either a breach in city security, a magical anomaly, or a weaponized entity \u2014 possibly connected to the Gray Ghosts or the egg.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "stone giant",
+    "fact": "The stone giant is referenced as the deranged entity Thorin was involved in the altercation with, and whose actions contributed to the ensuing public disorder.",
+    "source_quote": "Thorin was involved in the altercation with the deranged stone giant.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Themberchaud",
+    "fact": "The dragon\u2019s cavern is filled with a hoard of gems and coins. Sitting on top of it is a plump, overweight red dragon.",
+    "source_quote": "The dragon\u2019s cavern is filled with a hoard of gems and coins. Sitting on top of it is a plump, overweight red dragon.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud is a bloated, out-of-shape red dragon kept in a hoard-filled cavern, unable to hunt or survive in the wild, and unaware he is a captive pawn being prepared for replacement by the Keepers of the Flame.",
+    "source_quote": "His massive body gives the distinct impression that he is overweight, indicating eating habits that don\u2019t bode well.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud is a dragon of immense power and ancient will, currently unaware that he is being manipulated. He is not a puppet but a being who chooses to move on \u2014 a choice the Keepers exploit to maintain control.",
+    "source_quote": "Eventually, the Dragon moves on because he wants to see more of the world.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud is a massive, overweight red dragon, the Wyrmsmith of Gracklstugh, whose physical condition suggests extreme pampering and loss of survival instincts; he is a terrifying, manipulative predator who uses psychological dominance to control agents.",
+    "source_quote": "I never liked gold dragons. If I catch anyone spying, I will kill them.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz claims to be from Menzoberranzan, but Zalthir doubts his truthfulness; he has experience with drow politics and understands that factional loyalty is performative, not absolute.",
+    "source_quote": "The faction thinks we are working for them. Whether we do is up to us.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Duergar agent who carries a collection of official badges and instructs Thorin on their tactical use, suggesting he is involved in surveillance, access control, or covert operations within Gracklstugh. His demeanor indicates familiarity with bureaucratic manipulation and enforcement protocols.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a book-obsessed human who reads voraciously and recognizes the psychic blade attacks from Milo Goodbarrel\u2019s novel, and actively seeks intelligence on the Keepers of the Flame and the Red Dragon\u2019s captivity.",
+    "source_quote": "Milo describes this kind of attack as a psychic blade attack. It leaves no trace. There is this one moment where the Kenku Whistler used the psychic blades to fake an attack by Milo on an enemy.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a member of Thorin\u2019s group who understands the political symbolism of faction badges and recognizes the need to use them strategically to navigate Gracklstugh\u2019s dangerous bureaucracy.",
+    "source_quote": "So we flash the right one at the right time?",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a novel enthusiast who reads Milo Goodbarrel\u2019s book and recognizes the psychic blade attack as described in fiction, and claims to be from Menzoberranzan.",
+    "source_quote": "Milo describes this kind of attack as a psychic blade attack. It leaves no trace. There is this one moment where the Kenku Whistler used the psychic blades to fake an attack by Milo on an enemy.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a voracious reader of fantasy literature, believes in the existence of psychic blades from novels, and is the group\u2019s strategist who manipulates perception to navigate factional politics, claiming ties to Menzoberranzan to gain the dragon\u2019s trust.",
+    "source_quote": "Milo describes this kind of attack as a psychic blade attack. It leaves no trace.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is known for his fondness of novels and has read Milo Goodbarrel\u2019s book detailing the events surrounding the war of the dragon.",
+    "source_quote": "Daz, known for his fondness of novels, reads voraciously and has managed to get a copy of Milo Goodbarrel\u2019s book detailing the events surrounding the war of the dragon.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is referenced by Thorin as the one who turns to him while looking at his collection of badges and says, 'So we flash the right one at the right time?'",
+    "source_quote": "Daz turns to Thorin while looking at his collection of badges, 'So we flash the right one at the right time?'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Droki",
+    "fact": "Droki is an agent of the Gray Ghosts and the target of both the Stone Guards and the Keepers of the Flame.",
+    "source_quote": "We have identified an agent of the Grey Ghosts. His name is Droki.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Droki",
+    "fact": "Droki is an agent of the Gray Ghosts, identified by Gartokkar as the thief of the red dragon egg. He is the same individual sought by Errde, Captain of the Stone Guards, linking multiple factions to the theft.",
+    "source_quote": "We have identified an agent of the Grey Ghosts. His name is Droki.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Droki",
+    "fact": "Droki is an agent of the Gray Ghosts, identified by the Keepers of the Flame as the same person Errde Blackskull is seeking.",
+    "source_quote": "We have identified an agent of the Grey Ghosts. His name is Droki.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Errde",
+    "fact": "Errde is the Captain of the Stone Guards and is actively pursuing Droki, the Gray Ghosts agent who stole the red dragon egg. His investigation intersects with Gartokkar\u2019s covert operations.",
+    "source_quote": "Thorin remembers that this is the same person Errde, Captain of the Stone Guards, is looking for.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Errde Blackskull",
+    "fact": "Errde Blackskull is a paranoid Duergar who denies the existence of psychic assassins but hints at government cover-ups, and has lost two clan members to unexplained deaths with no entrance or exit wounds.",
+    "source_quote": "Oh, just an old wives tale to frighten children. They kill people with their minds. Of course, this is nonsense. They are just another figment of the people\u2019s imagination. It\u2019s more likely that they don\u2019t exist, and instead, assassinations are being conducted by some agency in the government, and this is a cover.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Errde Blackskull",
+    "fact": "Errde Blackskull is referenced by Grygum as the authority who decides the fate of failed Drow, and she is the captain of the Stone Guards.",
+    "source_quote": "Errde Blackskull might decide his fate should be precisely like Serith's",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Errde Blackskull",
+    "fact": "Errde Blackskull is the Captain of the Stone Guards, paranoid about psychic assassins, and publicly dismisses them as folklore while privately directing investigations into the deaths of her clan members.",
+    "source_quote": "I would appreciate it if you were to look for the empty scabbard killers. My underlings have reported their presence after finding bodies with puzzling wounds.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar is a Duergar official who oversees Thorin\u2019s case and enforces city ordinances with discretionary severity. He warns Thorin that revealing the existence of the egg would be a disaster, implying he is aware of its significance and seeks its recovery, possibly to leverage it for political or personal gain.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar is a Duergar priest who serves Themberchaud with reverence despite his evident displeasure; he acts as the dragon\u2019s intermediary and enforces the dragon\u2019s will through ritual and badge distribution.",
+    "source_quote": "Foreigners, meet the Father of Flame, the Everburning, and the Foundry\u2019s Heart \u2014 Themberchaud, the Wyrmsmith of Gracklstugh.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar is a Duergar priest who serves the Keepers of the Flame and reveals that Themberchaud believes he is in control, but the Keepers are manipulating him.",
+    "source_quote": "Themberchaud thinks we work for him. What Themberchaud doesn\u2019t realize is that he works for us.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar is referenced by Thorin as the one who looks at him and says, 'Just find me the egg and the proof of the Gray Ghosts.'",
+    "source_quote": "Gartokkar looks at him, 'Just find me the egg and the proof of the Gray Ghosts.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar is referenced by Thorin as the one who turns dark and then smiles, saying that sharing the egg would be a disaster.",
+    "source_quote": "Gartokkar turns dark and then smiles, 'You joke? Sharing that would be a disaster.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar is the Duergar priest and Custodian of the Flame who manipulates the party into servitude under the guise of holy duty, secretly controls Themberchaud, and hides the theft of the dragon egg meant to replace him.",
+    "source_quote": "Themberchaud thinks we work for him. What Themberchaud doesn\u2019t realize is that he works for us.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gartokkar Xundorn",
+    "fact": "Gartokkar Xundorn is the Custodian of the Flame and leader of the Keepers of the Flame, secretly manipulating Themberchaud while pretending to serve him. He holds authority over Gracklstugh\u2019s internal security and is willing to fabricate charges against non-Duergar to maintain control.",
+    "source_quote": "Themberchaud thinks we work for him. What Themberchaud doesn\u2019t realize is that he works for us.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gartokkar Xundorn",
+    "fact": "Gartokkar Xundorn is the Custodian of the Flame who manipulates the group by threatening them with the Stone Guards if they refuse to serve the Keepers.",
+    "source_quote": "Well we will turn you over to the Stone Guards.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum has pushed corpses into water and is aware of the group\u2019s entanglement in multiple conflicting loyalties; he suspects they are double or triple agents and voices confusion about their true allegiance.",
+    "source_quote": "I suppose we are double agents, or is it triple agents? We work for the Stone Guards and the Keepers of the Flame.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a cleric of Bahamut who is appalled by the treatment of Themberchaud and has aligned himself with Thorin\u2019s radical plan to use the dragon as a weapon against Gracklstugh\u2019s hierarchy. His faith positions him as a moral counterpoint to Duergar orthodoxy, and his willingness to destroy the city suggests deep disillusionment.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a cleric of Bahamut who is horrified by the exploitation of Themberchaud and has aligned with Thorin\u2019s plan to free the dragon and dismantle the Duergar hierarchy.",
+    "source_quote": "As a cleric of Bahamut, I am appalled at how they treat Themberchaud. Let\u2019s do it.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a determined investigator who discovered scrolls tied to Errde\u2019s goods, actively probes the mystery of the woundless deaths, and now serves as a double agent under Themberchaud while ostensibly working for the Keepers of the Flame.",
+    "source_quote": "I liked the books. They were well written.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a persistent investigator who found scrolls among Errde\u2019s goods and is obsessed with uncovering the truth behind the psychic blade attacks and the Red Dragon\u2019s captivity by the Keepers of the Flame.",
+    "source_quote": "I liked the books. They were well written.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a warrior who investigates the assassins, uses magic missiles and healing spells, and is determined to uncover the truth behind the deaths.",
+    "source_quote": "Grygum rushes one of the assassins, trying to toss him into the water. He fails.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is appalled at how Themberchaud is treated and is willing to act against the city\u2019s authorities.",
+    "source_quote": "Grygum smiles, 'As a cleric of Bahamut, I am appalled at how they treat Themberchaud. Let\u2019s do it.'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is perplexed by the dead bodies with no entrance or exit wounds and no evidence of foul play.",
+    "source_quote": "Grygum is perplexed: dead bodies with no entrance or exit wounds, no evidence of foul play, just dead bodies.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced as a cleric of Bahamut who is appalled at how Themberchaud is treated, and who agrees to ride the Dragon out of the city.",
+    "source_quote": "Grygum smiles, 'As a cleric of Bahamut, I am appalled at how they treat Themberchaud. Let\u2019s do it.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by Thorin as the one who smiles and says, 'As a cleric of Bahamut, I am appalled at how they treat Themberchaud. Let\u2019s do it.'",
+    "source_quote": "Grygum smiles, 'As a cleric of Bahamut, I am appalled at how they treat Themberchaud. Let\u2019s do it.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Holl Forgebrand",
+    "fact": "Holl Forgebrand is a blunt Duergar subordinate of Errde who confirmed the bodies had no entrance or exit wounds, and supports the theory that the killings are the work of unseen psychic assassins.",
+    "source_quote": "The bodies were found with no exit wounds or entrance wounds.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar asks when they will be able to leave and shrugs when Daz says they should stay.",
+    "source_quote": "Jimjar has made a few friends and asks - \"When do you expect us to be able to leave?\"... Jimjar shrugs and slumps into one of the beds. He sighs, \"Very well.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud is a massive, overweight red dragon kept in captivity by the Keepers of the Flame, unaware he is being groomed for replacement, and believes himself to be the sovereign master of his agents \u2014 a delusion the priests exploit.",
+    "source_quote": "I wish to speak to them alone.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud is a massive, overweight red dragon who rules as the Wyrmsmith of Gracklstugh; he assumes loyalty, demands obedience, and uses psychological manipulation to bind agents through fear and perceived privilege.",
+    "source_quote": "I wish to speak to them alone. If I catch anyone spying, I will kill them.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud is a powerful dragon believed by the Duergar to be a sovereign ruler of the Underdark, but in reality he is a pawn being guided by Gartokkar and the Keepers of the Flame. He is unaware of the manipulation and believes he is in command.",
+    "source_quote": "Eventually, the Dragon moves on because he wants to see more of the world.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud is an overweight red dragon, the 'Father of Flame' and 'Wyrmsmith of Gracklstugh', kept in captivity and unaware he is being manipulated by the Keepers of the Flame.",
+    "source_quote": "I am Themberchaud, and I wish for you to be my agent. And as my agents, you will have my protection.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin has picked up the peculiar antipathy towards dragons that giants have, and Themberchaud is triggering him.",
+    "source_quote": "Having lived with giants, Thorin has picked up the peculiar antipathy towards dragons that giants have. And this red dragon is triggering him.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a dwarf with a deep antipathy toward dragons, who questions the legitimacy of their forced recruitment and insists on being his own faction.",
+    "source_quote": "I want to be my faction.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a giant-scarred warrior who resents dragons, refuses to accept passive subjugation, and demands clarity on the terms of his coerced allegiance to Themberchaud and the Keepers of the Flame, ultimately recognizing the group is trapped in a triple-agent web.",
+    "source_quote": "I want to be my faction.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a non-Duergar surface dweller involved in public disturbances, interference with the Duergar City Watch, and repeated questioning of Duergar authority, including the Keepers of the Flame. He is suspected of unauthorized access, association with undesirables, espionage, and possession of contraband. His actions have drawn the suspicion of Gracklstugh's authorities, who may imprison him for any perceived threat to stability.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a surface dwarf who has been recruited into the political machinations of Gracklstugh. He is under suspicion by multiple factions, has been offered holy relics to gain access to restricted areas, and is now being threatened with fabricated charges under Duergar law.",
+    "source_quote": "I am just putting all of our cards on the table. So if we get arrested, we will have to tell the Stone Guards about the egg, right?",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is exasperated by the layered factions and wants to be his own faction.",
+    "source_quote": "Thorin is exasperated and almost shouts, \"I am sorry, I can't deal with these factions. I can't keep track of who we are working for and which faction we are double-crossing. I want to be my faction.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is referenced by Gartokkar as the one who puts all of our cards on the table, so if we get arrested, we will have to tell the Stone Guards about the egg.",
+    "source_quote": "Thorin stares at him. 'I am just putting all of our cards on the table. So if we get arrested, we will have to tell the Stone Guards about the egg, right?'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is referenced by Grygum as the one who has a peculiar glint in his eye, turns to him, and says, 'I have an idea. These factions are all trying to play us against each other, and this Dragon is one of us. So what if we ride this Dragon out of here, laying waste to everything behind us?'",
+    "source_quote": "Thorin nods. And then he has a peculiar glint in his eye. He turns to Grygum, 'I have an idea. These factions are all trying to play us against each other, and this Dragon is one of us. So what if we ride this Dragon out of here, laying waste to everything behind us?'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin wants to ride the Dragon out of Gracklstugh, laying waste to everything behind him.",
+    "source_quote": "Thorin nods. And then he has a peculiar glint in his eye. He turns to Grygum, 'I have an idea. These factions are all trying to play us against each other, and this Dragon is one of us. So what if we ride this Dragon out of here, laying waste to everything behind us?'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin, having lived with giants, harbors a deep antipathy toward dragons and is exasperated by the layered factional manipulation; he resists being forced into allegiance and seeks to become his own faction.",
+    "source_quote": "I want to be my faction.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Werz Saltbaron",
+    "fact": "Werz Saltbaron is a Duergar merchant who becomes invisible after being rescued, and a charcoal drawing of him is found on one of the assassins' corpses.",
+    "source_quote": "Oh my, I was. I am Werz Saltbaron. And you did me a good turn. Come by the Shattered Spire tomorrow, and I will reward you. Today, I have places to be.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Werz Saltbaron",
+    "fact": "Werz Saltbaron is a Duergar merchant who faked an assassination attempt to gain the party\u2019s trust, later vanishes via invisibility, and was likely the target \u2014 or the assassin \u2014 in a plot tied to the Gray Ghosts and the stolen dragon egg.",
+    "source_quote": "Oh my, I was.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Werz Saltbaron",
+    "fact": "Werz Saltbaron is a Duergar merchant who was attacked by invisible assassins wielding psychic weapons, has no physical wounds, and later vanishes invisibly after being healed by Grygum.",
+    "source_quote": "Oh my, I was. I am Werz Saltbaron. And you did me a good turn. Come by the Shattered Spire tomorrow, and I will reward you. Today, I have places to be.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a bronze dragonborn who observes the manipulation of Themberchaud, finds the assassins' belongings, and considers creating illusions for Thorin.",
+    "source_quote": "I could create that illusion for you.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a cautious spellcaster who casts Darkness and scorching rays during the assassination attempt, and later questions the morality of their actions after finding a charcoal drawing of the victim on an assassin\u2019s body.",
+    "source_quote": "I can\u2019t see. And this is why area of effect spells are useful.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a gold dragonborn who was recruited as an agent by Themberchaud after being presented with no real choice, and now questions the dragon's sustainability, origins, and the feasibility of his regime.",
+    "source_quote": "You are a gold dragonborn? No, a bronze. Good. I never liked gold dragons.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a pragmatic spellcaster who observes patterns in violence, confirms the existence of woundless deaths, casts area-control magic in combat, and uncovers the deception of the Duergar merchant Werz Saltbaron, who is likely an assassin.",
+    "source_quote": "Convenient.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is uncertain if they made the right decision in intervening in the assassination.",
+    "source_quote": "Zalthir stares at the merchant and the dead assassins. Zalthir is uncertain if they made the right decision.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir reflects that having invisible ruthless guards helps make the city peaceful and wonders if such a regime could be implemented.",
+    "source_quote": "Zalthir reflects on the city's quiet and how the monks would be astounded at how peaceful it could be. \"Having invisible ruthless guards helps.\" He wonders if such a regime could be implemented.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir thinks, \"Convenient,\" after seeing the Duergar merchant become invisible.",
+    "source_quote": "Zalthir watches as the Duergar becomes invisible. \"Convenient.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir wonders whether the overweight red dragon Themberchaud could survive in the wild, having forgotten how to hunt.",
+    "source_quote": "Zalthir is stunned. He\u2019s never seen such a thing... And then, he wonders whether this red dragon could survive in the wild. It is so pampered that it probably has forgotten how to hunt.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "bloodstained gloves",
+    "fact": "A pair of bloodstained gloves is found among the assassins' corpses.",
+    "source_quote": "Zalthir starts to rifle through the assassins' corpses and finds some coins, a pair of bloodstained gloves, and a box of candles.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Bloodstained Gloves",
+    "fact": "Bloodstained gloves recovered from the assassins suggest direct physical contact during killings \u2014 contradicting the theory of purely psychic attacks and hinting at hybrid methods or staged evidence.",
+    "source_quote": "finds some coins, a pair of bloodstained gloves, and a box of candles.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "bloodstained gloves",
+    "fact": "He finds some coins, a pair of bloodstained gloves, and a box of candles.",
+    "source_quote": "He finds some coins, a pair of bloodstained gloves, and a box of candles.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "box of candles",
+    "fact": "A box of candles is found among the assassins' belongings; they have a pleasant smell and are passed to Thorin.",
+    "source_quote": "He notices they have a pleasant smell and passes them to Thorin.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Charcoal Drawing",
+    "fact": "A charcoal drawing of Werz Saltbaron was found on the body of one of the assassins, confirming he was the targeted victim and linking him to the attack.",
+    "source_quote": "He presents it to the Duergar. 'Oh my, I was.'",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "charcoal drawing",
+    "fact": "He does find a charcoal drawing of the merchant on one of the bodies.",
+    "source_quote": "He does find a charcoal drawing of the merchant on one of the bodies.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Charcoal Drawing of Werz Saltbaron",
+    "fact": "A charcoal drawing of Werz Saltbaron found on an assassin\u2019s corpse suggests he was either the target of the attack \u2014 or the one who commissioned it \u2014 deepening the mystery of his true identity.",
+    "source_quote": "He presents it to the Duergar. 'Oh my, I was.'",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "charcoal drawing of Werz Saltbaron",
+    "fact": "A charcoal drawing of Werz Saltbaron is found on one of the assassins' corpses, confirming he was the target.",
+    "source_quote": "He presents it to the Duergar. 'Oh my, I was.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "collection of badges",
+    "fact": "The collection of badges carried by Daz represents official permissions, access levels, and authority tiers within Gracklstugh\u2019s bureaucratic system. They are tools of control, used to navigate restricted zones and manipulate enforcement. Their selective use is critical to survival within the city\u2019s layered hierarchy.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "collection of badges",
+    "fact": "The collection of badges is referenced by Daz as the item he is looking at when asking Thorin if they should flash the right one at the right time.",
+    "source_quote": "Daz turns to Thorin while looking at his collection of badges, 'So we flash the right one at the right time?'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "egg",
+    "fact": "The egg is referenced by Gartokkar as the item that must be found, along with the proof of the Gray Ghosts, to avoid disaster.",
+    "source_quote": "Gartokkar looks at him, 'Just find me the egg and the proof of the Gray Ghosts.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "gold badges",
+    "fact": "Gartokkar hands out some gold badges. Thorin weighs it in his hands.",
+    "source_quote": "Gartokkar hands out some gold badges. Thorin weighs it in his hands.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Gold Badges",
+    "fact": "The gold badges are physical tokens of Themberchaud\u2019s authority, distributed by Gartokkar to signify enrollment as an agent; their exact weight and value are unknown, but they carry immense symbolic weight.",
+    "source_quote": "How much gold is this?",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "gold badges of Themberchaud",
+    "fact": "Gold badges bearing Themberchaud\u2019s profile are handed out by Gartokkar to the group as symbols of their new status as agents.",
+    "source_quote": "Give these humanoids some of the gold badges\u2026 and the rest of you do what Gartokkar says.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Gold Badges of Themberchaud",
+    "fact": "The gold badges bearing Themberchaud\u2019s profile are both a symbol of authority and a tool of control \u2014 granting limited access to Gracklstugh while binding the wearer to the dragon\u2019s claimed patronage.",
+    "source_quote": "Give these humanoids some of the gold badges.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "gold pins with Themberchaud\u2019s profile",
+    "fact": "These gold pins, depicting Themberchaud\u2019s likeness, were given to Thorin alongside the holy symbol. They serve as both a sign of favor and a means of surveillance, tying Thorin to the mythos of the dragon.",
+    "source_quote": "let me give you this holy symbol of Laduguer and these gold pins featuring Themberchaud\u2019s profile.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "holy symbol of Laduguer",
+    "fact": "A holy symbol of Laduguer is given to the group by Gartokkar to aid in travel within Gracklstugh.",
+    "source_quote": "Let me give you this holy symbol of Laduguer and these gold pins featuring Themberchaud\u2019s profile.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "holy symbol of Laduguer",
+    "fact": "A holy symbol of Laduguer was offered to Thorin by Gartokkar as a token granting limited access to Gracklstugh. It is likely a tool of control, meant to bind Thorin to the Keepers' authority.",
+    "source_quote": "let me give you this holy symbol of Laduguer and these gold pins featuring Themberchaud\u2019s profile.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "holy symbol of Laduguer",
+    "fact": "Let me give you this holy symbol of Laduguer and these gold pins featuring Themberchaud\u2019s profile.",
+    "source_quote": "Let me give you this holy symbol of Laduguer and these gold pins featuring Themberchaud\u2019s profile.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Holy Symbol of Laduguer",
+    "fact": "The holy symbol of Laduguer, the Duergar god of endurance and survival, is given to the party as a token of the Keepers\u2019 divine mandate \u2014 yet its presence in the hands of manipulators suggests religious authority is being weaponized.",
+    "source_quote": "Let me give you this holy symbol of Laduguer...",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "magic missiles",
+    "fact": "When Daz utters the mystical words, motes of light appear above his hand, and three fingers point at one of the assassins. A silent rush of air accompanies the flight of the magic missiles, and when they strike, a burst of light and a crackling sound fills the area.",
+    "source_quote": "When Daz utters the mystical words, motes of light appear above his hand, and three fingers point at one of the assassins. A silent rush of air accompanies the flight of the magic missiles, and when they strike, a burst of light and a crackling sound fills the area.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Milo Goodbarrel\u2019s book",
+    "fact": "Milo Goodbarrel\u2019s book details the war of the dragon and describes psychic blade attacks, including the Kenku Whistler using them to fake an attack.",
+    "source_quote": "Milo describes this kind of attack as a psychic blade attack. It leaves no trace. There is this one moment where the Kenku Whistler used the psychic blades to fake an attack by Milo on an enemy.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Milo Goodbarrel\u2019s memoirs",
+    "fact": "According to Milo Goodbarrel\u2019s memoirs, chess played a significant role in negotiating with the metallic dragons.",
+    "source_quote": "According to Milo Goodbarrel\u2019s memoirs, chess played a significant role in negotiating with the metallic dragons.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "passes",
+    "fact": "The passes are referenced as the items Thorin may have used to enter restricted areas, though such access is still unauthorized and a violation.",
+    "source_quote": "Depending on his movements within the city, Thorin may have entered areas restricted to non-Duergar citizens without proper authorization, even with the passes.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "proof of the Gray Ghosts",
+    "fact": "The proof of the Gray Ghosts is referenced by Gartokkar as the item that must be found, along with the egg, to avoid disaster.",
+    "source_quote": "Gartokkar looks at him, 'Just find me the egg and the proof of the Gray Ghosts.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Psychic Blades",
+    "fact": "Psychic blades are non-physical weapons that kill without leaving entrance or exit wounds, and are described in novels as leaving only a moment of silent, invisible energy.",
+    "source_quote": "Milo describes this kind of attack as a psychic blade attack. It leaves no trace.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "scented candles",
+    "fact": "He notices they have a pleasant smell and passes them to Thorin. The dwarf smiles, 'Scented candles!'",
+    "source_quote": "He notices they have a pleasant smell and passes them to Thorin. The dwarf smiles, 'Scented candles!'",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Scented Candles",
+    "fact": "Scented candles found on the assassins\u2019 bodies emit a pleasant aroma \u2014 possibly used to mask other odors, induce trance states, or signal covert meetings \u2014 a subtle clue to the assassins\u2019 methods and affiliations.",
+    "source_quote": "He notices they have a pleasant smell and passes them to Thorin.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "scorching rays",
+    "fact": "He speaks the words for scorching rays and feels the rush of intense heat as the fiery energy is manifested. He points with his index finger, uses his thumb to sight, squints, and lets the rays loose. They travel quickly, leaving a streak of heat haze.",
+    "source_quote": "He speaks the words for scorching rays and feels the rush of intense heat as the fiery energy is manifested. He points with his index finger, uses his thumb to sight, squints, and lets the rays loose. They travel quickly, leaving a streak of heat haze.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "the egg",
+    "fact": "The egg is a mysterious, highly sensitive artifact sought by Gartokkar and possibly tied to Themberchaud, the Gray Ghosts, or an ancient power. Its revelation is considered catastrophic, implying it holds the key to destabilizing Gracklstugh\u2019s regime, awakening a dormant force, or exposing a forbidden truth.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Themberchaud\u2019s Hoard",
+    "fact": "The hoard is a vast pile of gems and coins upon which Themberchaud rests; it symbolizes his wealth, power, and the decadence of his rule, contrasting sharply with the wild, self-sufficient dragons of legend.",
+    "source_quote": "The dragon\u2019s cavern is filled with a hoard of gems and coins.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Chess and Dragon Diplomacy",
+    "fact": "Zalthir wonders whether Themberchaud plays chess, referencing Milo Goodbarrel\u2019s memoirs; this thread suggests the group is trying to interpret the dragon\u2019s behavior through the lens of outdated metallic dragon protocols, possibly misreading his motives.",
+    "source_quote": "Do you think this dragon also plays chess? According to Milo Goodbarrel\u2019s memoirs, chess played a significant role in negotiating with the metallic dragons.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Daz\u2019s Origin",
+    "fact": "Daz claims to be from Menzoberranzan, but Zalthir doubts his truth; the ambiguity of his background introduces uncertainty about his loyalty, potential blackmail vulnerabilities, and whether he is a spy or a double agent.",
+    "source_quote": "Daz says he is. But Zalthir isn\u2019t convinced that is the truth.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Disappearance of Topsy and Turvy",
+    "fact": "Topsy and Turvy have vanished without trace, leading Daz to suspect wererats, but no evidence or confirmation of their fate has been found.",
+    "source_quote": "The other escapees, except for Topsy and Turvy, have gone missing. 'Wererats,' thinks Daz.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Droki's identity",
+    "fact": "Gartokkar identifies Droki as an agent of the Grey Ghosts, the same person Errde Blackskull is looking for, but his true allegiance remains unconfirmed.",
+    "source_quote": "We have identified an agent of the Grey Ghosts. His name is Droki.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Factional Identity Crisis",
+    "fact": "The group is trapped in a web of overlapping, conflicting loyalties \u2014 Themberchaud, the Keepers of the Flame, the Stone Guards \u2014 and struggles to define whether they are agents, double agents, or none at all; Thorin\u2019s desire to be 'his own faction' reflects a deeper existential rebellion.",
+    "source_quote": "I can\u2019t keep track of who we are working for and which faction we are double-crossing. I want to be my faction.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Origin of Psychic Blades",
+    "fact": "The origin and source of the psychic blade attacks remain unknown, with conflicting theories ranging from ancient Kenku techniques to government operatives, and no physical evidence has been recovered.",
+    "source_quote": "They kill people with their minds... It\u2019s more likely that they don\u2019t exist... assassinations are being conducted by some agency in the government...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "proof of the Gray Ghosts",
+    "fact": "The existence and activities of the Gray Ghosts remain unverified, but Gartokkar insists on proof. Their connection to the egg, Themberchaud, or the city\u2019s hidden power structures is a central unresolved mystery that could expose a conspiracy or trigger civil unrest.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Red Dragon\u2019s Captivity",
+    "fact": "The Red Dragon\u2019s captivity by the Keepers of the Flame is unverified, but is the central focus of Grygum\u2019s investigation, with no known witnesses or documentation yet uncovered.",
+    "source_quote": "Grygum wants to know about this Red Dragon that is kept in some kind of peculiar captivity by the Keepers of the Flame.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "the egg",
+    "fact": "The egg is a key object that Gartokkar demands, but its location and nature are not specified in this session.",
+    "source_quote": "Gartokkar looks at him, 'Just find me the egg and the proof of the Gray Ghosts.'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Identity of Droki",
+    "fact": "Droki, the Gray Ghosts agent sought by both Errde and Gartokkar, remains unidentified \u2014 but the party now possesses the knowledge that he is a key to the stolen egg and the psychic assassinations.",
+    "source_quote": "We have identified an agent of the Grey Ghosts. His name is Droki.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Themberchaud's replacement",
+    "fact": "The Keepers of the Flame stole the red dragon egg that would hatch Themberchaud\u2019s replacement, but Themberchaud is unaware of its existence.",
+    "source_quote": "We lost face when the Gray Ghosts stole the valuable red dragon egg that would hatch Themberchaud\u2019s replacement.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Themberchaud\u2019s Replacement",
+    "fact": "The stolen dragon egg is the key to Themberchaud\u2019s eventual replacement \u2014 but who will hatch from it? Will it be loyal to the Keepers? Or will it break free? And what happens if Themberchaud learns the truth?",
+    "source_quote": "Eventually, the Dragon moves on because he wants to see more of the world.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Themberchaud\u2019s true nature",
+    "fact": "The truth that Themberchaud is being manipulated by the Keepers of the Flame, and that he is not the sovereign he believes himself to be, is a dangerous secret that could collapse the power structure of Gracklstugh if revealed.",
+    "source_quote": "Themberchaud thinks we work for him. What Themberchaud doesn\u2019t realize is that he works for us.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Themberchaud\u2019s true nature",
+    "fact": "Whether Themberchaud is a prisoner, a weapon, a deity, or a corrupted guardian is unknown. Grygum\u2019s reverence and Thorin\u2019s willingness to weaponize it suggest it holds deeper significance than mere beasthood \u2014 its revelation could shatter Duergar dogma or awaken an ancient power.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Nature of Psychic Blades",
+    "fact": "The existence of psychic blades \u2014 weapons that kill without physical trace \u2014 is confirmed by multiple sources: Daz\u2019s novels, Zalthir\u2019s observations, and the woundless corpses \u2014 but their origin, creators, and connection to the Gray Ghosts remain unknown.",
+    "source_quote": "It leaves no trace.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "the proof of the Gray Ghosts",
+    "fact": "The proof of the Gray Ghosts is a requested item that Gartokkar seeks, but its form or existence is not clarified in this session.",
+    "source_quote": "Gartokkar looks at him, 'Just find me the egg and the proof of the Gray Ghosts.'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Thorin\u2019s plan to ride the dragon out",
+    "fact": "Thorin has conceived a radical plan to exploit Themberchaud\u2019s belief in his own autonomy, using him as a weapon to escape Gracklstugh and destroy the factions that control it \u2014 a plan that could trigger civil war or mass destruction.",
+    "source_quote": "So what if we ride this Dragon out of here, laying waste to everything behind us?",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  }
+]

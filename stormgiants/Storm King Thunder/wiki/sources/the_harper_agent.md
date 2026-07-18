@@ -38,11 +38,11 @@ related: []
 
 ### Connections to Existing Wiki
 - **Existing Pages Related to This Source**:
-  - [[the-harpers]] — The organization of Harper agents.
-  - [[cultists]] — Groups or individuals aligned with dark or forbidden practices.
+  - [[harper-network]] — The organization of Harper agents.
+  - [[the-cult-fanatic]] — Groups or individuals aligned with dark or forbidden practices.
   - [[harper-policy]] — The guidelines and procedures followed by Harper agents.
-  - [[mercenaries]] — Individuals or groups hired for military service.
-  - [[magic-pathways]] — Magical constructs facilitating travel between locations.
+  - [[veteran-bandits]] — Individuals or groups hired for military service.
+  - [[teleportation]] — Magical constructs facilitating travel between locations.
   - silverymoon — City where the encounter takes place.
 
 ### Contradictions & Tensions
@@ -51,10 +51,10 @@ related: []
 
 ### Recommendations
 - **Pages to Create or Update**:
-  - [[the-harpers]] — To include details about the Harper Agent's role and interactions.
-  - [[cultists]] — To provide more context on the party's alleged ties to cultists.
+  - [[harper-network]] — To include details about the Harper Agent's role and interactions.
+  - [[the-cult-fanatic]] — To provide more context on the party's alleged ties to cultists.
   - [[harper-policy]] — To clarify the Harper Agent's criticism of the policy allowing mercenary use.
-  - [[magic-pathways]] — To discuss the implications of the party's contract termination.
+  - [[teleportation]] — To discuss the implications of the party's contract termination.
   
 - **Emphasis**:
   - Emphasize the Harper Agent's role and the tension within the Harper organization regarding policy implementation.
@@ -62,3 +62,10 @@ related: []
   
 - **Open Questions**:
   - What is the exact nature of the relationship between the
+
+## Related
+
+- [[the_red_wizard]]
+- [[uthor]]
+- [[tolmarra]]
+- [[the_wight_elquen]]

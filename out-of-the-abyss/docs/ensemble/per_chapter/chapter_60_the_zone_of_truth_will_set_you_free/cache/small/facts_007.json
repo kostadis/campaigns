@@ -1,0 +1,72 @@
+[
+  {
+    "type": "object",
+    "subject": "gift-wrapped book",
+    "fact": "The gift-wrapped book was concealed with wrapping paper bearing a deliberate straight cut and two sets of tears \u2014 one intentional, one incidental \u2014 indicating it was prepared in advance by someone who planned for Janussi's death and the subsequent disposal of evidence.",
+    "source_quote": "Someone had taken something sharp to this paper, and then wrapped it back around the contents, and tied the bow, and handed it to Janussi, or left it on a table, or had it carried by someone who had no idea what they were carrying.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "wrapping paper",
+    "fact": "The crumpled wrapping paper, retrieved from the dining hall trash, bore a clean, ruled edge inconsistent with casual unwrapping, suggesting it was reused or deliberately altered to conceal its origin and purpose.",
+    "source_quote": "A straight edge where there shouldn't be one. Someone had taken something sharp to this paper...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Alkrist",
+    "fact": "Alkrist presented a rehearsed performance of grief and admiration for Janussi, demonstrating self-absorption so pronounced it rendered irony invisible to him, while being unaware he was under a truth spell.",
+    "source_quote": "He entered Janussi's chambers with the careful energy of a man who had rehearsed his arrival, and then deployed grief the same way: deliberately, as an announcement he wanted witnessed.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "1001 Tashalian Nights",
+    "fact": "The book 1001 Tashalian Nights was found bookmarked in Alkrist\u2019s chambers, and the marked passage was known to contain dangerous or subversive material, suggesting Alkrist had studied it with intent.",
+    "source_quote": "The book was on a shelf, bookmarked. I had read the section it was bookmarked to.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool was present throughout the interrogation without being asked to observe, yet he paid attention regardless, indicating an innate or supernatural awareness of significant events.",
+    "source_quote": "Glabbagool was in the room with us, settled near the far wall. He had been there since the beginning. I had not asked him to pay attention. He simply did.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "identity of the gift-giver",
+    "fact": "The gift-wrapped book was delivered in a manner that ensured Janussi would not suspect its danger, and the wrapping paper was discarded where no one would look \u2014 indicating the perpetrator never entered Janussi\u2019s rooms and planned for the aftermath of his death.",
+    "source_quote": "Someone had walked out of Janussi's rooms, or never entered them at all, carrying discarded wrapping paper they felt was safe to throw away in the dining hall, because who looks at trash?",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "connection between Alkrist and the book",
+    "fact": "Alkrist possesses a copy of the 1001 Tashalian Nights with a dangerous passage bookmarked, but his knowledge of its contents and his relationship to the gift-wrapped book remain unconfirmed under truth spell.",
+    "source_quote": "I had read the section it was bookmarked to. There was a class at the monastery... about what you find in someone's room telling you more than what they'd ever say with their face.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "truth spell activation",
+    "fact": "Kalan activated a truth spell outside Alkrist\u2019s interrogation room, rendering Alkrist incapable of deception \u2014 though he remained unaware of its effect.",
+    "source_quote": "Kalan was outside the door. As of right now, Alkrist could not lie. He didn't know that yet.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum conducted the investigation with meticulous attention to physical details, applied Bahamut\u2019s restoration cantrip to recover hidden information from the wrapping paper, and recognized the crime as premeditated rather than opportunistic.",
+    "source_quote": "I took notes. The straight cut. The two sets of tears, the deliberate and the incidental. The fact that someone had walked out of Janussi's rooms... That is the kind of detail that belongs in a file you keep very carefully.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Candlekeep Keepers",
+    "fact": "Janussi, a Keeper of Candlekeep, was deceived by a gift that concealed lethal intent, suggesting the perpetrator exploited the scholarly trust inherent in the institution\u2019s culture.",
+    "source_quote": "a scholar who'd spent a lifetime reading things carefully, never noticed. Had opened it. Had thanked whoever sent it, maybe. Had been pleased.",
+    "quote_verified": true
+  }
+]

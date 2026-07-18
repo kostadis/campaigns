@@ -14,3 +14,7 @@ venue: ""
 # Martisha Vinetalker
 
 Biographical intelligence regarding the proprietor of the Wayside Inn, a half-elf encountered by the party during their transit toward the Tower of Storms.
+
+## Related
+
+- [[4-npcs--19-martisha_vinetalker--ixuewe]]

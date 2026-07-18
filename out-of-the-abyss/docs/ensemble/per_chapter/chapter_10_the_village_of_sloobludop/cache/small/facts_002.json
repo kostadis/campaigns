@@ -1,0 +1,107 @@
+[
+  {
+    "type": "npc",
+    "subject": "Glooglugogg",
+    "fact": "Glooglugogg is known as Gloog to his friends; he disapproves of his father's decision to allow outsiders to meddle in their affairs, but acknowledges the party's respect for the Sea Mother and their understanding of their ways.",
+    "source_quote": "Gloog is what my friends call me. I do not approve of Father\u2019s choice to have outsiders meddle in our affairs, but you showed respect to the Sea Mother, and thus, I see that you respect and understand our ways.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bloppblippodd",
+    "fact": "Bloppblippodd is Gloog\u2019s sister; she has been granted excessive deference by their father, has fallen prey to madness, and shows no respect for their society\u2019s ways.",
+    "source_quote": "Our society is torn to pieces by my sister Bloppblippodd. Father has shown her too much deference, offered her too much, and let her get away with too much. She has no respect for our ways. And she has fallen prey to this madness.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a member of the party who seeks clarification on their role in the conflict; he is satisfied after learning they will assist without initiating violence.",
+    "source_quote": "So when we go there, our job is just to sit around and do nothing.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Deep Mother's Followers",
+    "fact": "The faction loyal to the Deep Mother, including Gloog and his allies, holds the support of the majority in the village and opposes the madness of Bloppblippodd\u2019s followers.",
+    "source_quote": "How many in the village are on our side? Her side is unknown. This is why it must be dealt with now. While we still have the support of the majority.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Bloppblippodd\u2019s Cult",
+    "fact": "Bloppblippodd leads a splinter faction that has abandoned the ways of the Sea Mother, embraced madness, and retains only a few hard-core supporters.",
+    "source_quote": "Her hard-core supporters are few, but how many in the village are on our side? Her side is unknown.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Kuo-toa Monitor",
+    "fact": "A kuo-toa monitor led twelve kuo-toa to Ploopploopeen\u2019s quarters and was admitted by the archpriest of the Sea Mother to escort him, his whip, and the prisoners to the archpriest of the Deep Father.",
+    "source_quote": "In the morning, twelve kuo-toa led by a kuo-toa monitor arrive at Ploopploopeen\u2019s quarters. The archpriest of the Sea Mother admits the monitor and informs him that he, his whip, and the prisoners will accompany them to see the archpriest of the Deep Father.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Kuo-toa",
+    "fact": "Twelve kuo-toa accompanied their monitor to Ploopploopeen\u2019s quarters as part of a formal escort mission to the archpriest of the Deep Father.",
+    "source_quote": "In the morning, twelve kuo-toa led by a kuo-toa monitor arrive at Ploopploopeen\u2019s quarters.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ploopploopeen",
+    "fact": "Ploopploopeen is the archpriest of the Sea Mother who has been ordered to accompany the monitor, his whip, and prisoners to the archpriest of the Deep Father.",
+    "source_quote": "The archpriest of the Sea Mother admits the monitor and informs him that he, his whip, and the prisoners will accompany them to see the archpriest of the Deep Father.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "escort to Deep Father\u2019s archpriest",
+    "fact": "The archpriest of the Sea Mother, his whip, and prisoners were escorted by a kuo-toa monitor and twelve kuo-toa to meet the archpriest of the Deep Father.",
+    "source_quote": "In the morning, twelve kuo-toa led by a kuo-toa monitor arrive at Ploopploopeen\u2019s quarters. The archpriest of the Sea Mother admits the monitor and informs him that he, his whip, and the prisoners will accompany them to see the archpriest of the Deep Father.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "derro prisoners",
+    "fact": "The party had previously tied up derro prisoners, an act Gloog finds both honorable and odd, suggesting unresolved tension or mystery around their capture and fate.",
+    "source_quote": "You didn\u2019t choose just to give us the derro whom you tied up? That is both honorable and odd.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "2nd day of the 3rd Tenday of Taraskh 1493",
+    "fact": "The events occurred on the 2nd day of the 3rd Tenday of Taraskh, 1493, marking the timeline of the factional conflict and ritual escort.",
+    "source_quote": "### 2nd day of the 3rd   Tenday of Taraskh 1493",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glooglugogg's Father",
+    "fact": "Gloog\u2019s father is the patriarch who has shown excessive deference to Bloppblippodd, enabling her descent into madness and fracturing their society.",
+    "source_quote": "Father has shown her too much deference, offered her too much, and let her get away with too much.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "preparation for conflict",
+    "fact": "Gloog and his allies are preparing to act against Bloppblippodd\u2019s faction, resolved to resolve the issue themselves without initiating violence.",
+    "source_quote": "This is our problem, and we must resolve it.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "the whip",
+    "fact": "The whip carried by the archpriest of the Sea Mother is being taken with him on the escort to the archpriest of the Deep Father, suggesting ceremonial or punitive significance.",
+    "source_quote": "he, his whip, and the prisoners will accompany them to see the archpriest of the Deep Father.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Derro",
+    "fact": "Derro prisoners were previously captured and tied up by the party, an act noted by Gloog as both honorable and odd, implying a deeper cultural or moral context.",
+    "source_quote": "You didn\u2019t choose just to give us the derro whom you tied up? That is both honorable and odd.",
+    "quote_verified": true
+  }
+]

@@ -1,0 +1,188 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a silent observer who has been trained in magical fungi lore but not in silence, and is haunted by the failure of his spells against centipedes. He watches others act while internally questioning his purpose and training.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a drow mage deeply fascinated by Underdark fungi, trained to recognize their magical properties. He enthusiastically collects and identifies fungi, casts spells with flair, and is unnerved by the auditory effects of the fungal thicket. His spell 'Toll the Dead' fails against centipede swarms, leaving him shaken.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Pelek",
+    "fact": "Pelek is a ghostly entity who speaks with polite contempt, corrects misconceptions about fungal sounds, and references entities like 'Overbrighters.' He has observed and commented on the magical properties of fungi and the behavior of the group.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a dwarf who offers cautious advice about psychedelic mushrooms, physically supports Daz with a slap on the back, and leads the group through the fungal thicket. He is pragmatic and responsive to environmental dangers.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is an impulsive dwarf who swallows magical mushrooms, shrinks, and cannot squeeze through cracks. He repeatedly exclaims 'Wow!' and is easily awed by magical displays, despite his own mishaps.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Monastic Order of Silence",
+    "fact": "A monastic order devoted to silence has trained Zalthir exclusively in making others blind, not in inducing silence \u2014 a profound mismatch that troubles him and suggests a deeper, unspoken agenda or corruption in their teachings.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Derro",
+    "fact": "The derro once used a network of tunnels through the whorlstone, as mentioned by Buppido and later confirmed by Pelek. Their historical presence implies prior exploitation of the area\u2019s magical geography and fungal resources.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Whorlstone Tunnels",
+    "fact": "A network of subterranean tunnels once traversed by the derro, now partially blocked by fungal growths. The tunnels lead to a vast underground lake and are associated with magical mushrooms and ghostly echoes.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Fungal Thicket",
+    "fact": "A dense wall of fungi five feet tall, blocking the eastern tunnel juncture. It emits a hissing, whispering sound from wind passing through perforated caps, mistaken for voices. The thicket contains numerous magical fungi, including Nightlights, Devil\u2019s Mushrooms, Torchstalks, and more.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Underdark Lake",
+    "fact": "A vast, 100-foot-wide pool of unnervingly black, thermal-heated water, hidden in a cavern. Daz freezes its surface with magic, allowing the group to cross via ice blocks. The lake is a key waypoint between the crack and the fungal thicket.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Pygmywort",
+    "fact": "A mushroom with a one-inch-long stem and a stubby blue cap with white dots. When consumed, it shrinks the eater as per a reduce spell. Grygum swallowed it and became too small to fit through the crack.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Bigwig",
+    "fact": "A mushroom with a four-inch-tall thin stem and a wide purple cap. When consumed, it enlarges the eater as per an enlarge spell. Mentioned by ghosts and fungi experts, but not consumed by the group.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Nightlight",
+    "fact": "A 15-foot-tall mushroom that emits a 15x15-foot circle of light. When touched or cut, it stops glowing. Daz identifies it as unlike the ormu, which can be crushed into a paste for light.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Devil\u2019s Mushroom (Timmask)",
+    "fact": "A two-foot-tall toadstool with orange and red stripes on a beige cap. Uprooting it causes madness. Daz warns Thorin about it, recalling his own past trauma from its effects.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Torchstalk",
+    "fact": "A two-foot-tall mushroom with a combustible cap that burns for 24 hours when lit. Daz identifies it to Zalthir as a useful light source.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Barrelstalk",
+    "fact": "A large, cask-shaped fungus that stores water. Collected by Daz as a potential resource.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Bluecap",
+    "fact": "A mushroom used for making flour. Collected by Daz for future sustenance.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Ripplebark",
+    "fact": "A fungus that tastes good when toasted. Collected by Daz as edible matter.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Trillimac",
+    "fact": "A mushroom usable for scrolls and that produces a bread-like substance that can be rolled up. Collected by Daz for magical and culinary purposes.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Waterorb",
+    "fact": "A fungus used for storing water. Collected by Daz as a utility item.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Zurkwhood",
+    "fact": "A fungus used for making things. Collected by Daz for crafting.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Ormu",
+    "fact": "A fungus that can be crushed into a paste to serve as a light source. Daz contrasts it unfavorably with Nightlights, which lose their glow when touched.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Centipede Swarms",
+    "fact": "Massive, numerous swarms of centipedes that emerge unexpectedly from the fungal thicket. They are unaffected by Daz\u2019s 'Toll the Dead' spell, indicating high resistance to necrotic magic. Their presence ruins Daz\u2019s delight in the fungi.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Freezing the Lake",
+    "fact": "Daz casts a spell to freeze the black thermal lake, creating a path of ice for the group to cross. He then creates additional ice blocks to facilitate movement. The act is performed with flair and expectation of applause, which does not come.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Toll the Dead Fails",
+    "fact": "Daz casts 'Toll the Dead' against centipede swarms, hoping to kill them. The creatures save successfully, leaving Daz stunned and despairing. His magic is powerless against their resilience.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum Shrinks",
+    "fact": "Grygum impulsively consumes Pygmywort and shrinks to a size too small to pass through the crack. His action blocks progress and highlights the danger of unguided magical experimentation.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Pelek\u2019s Head Falls Off",
+    "fact": "Pelek\u2019s head flops off his body during a moment of apology, then he calmly puts it back on. This grotesque but routine behavior underscores his ghostly nature and detachment from physical norms.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Overbrighters",
+    "fact": "A term used by Pelek with contempt, possibly referring to a faction or type of entity that overuses or misuses magical light sources. Its meaning is unexplained but implies a hidden conflict or cultural divide in the Underdark.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Whispering Fungal Thicket",
+    "fact": "The hissing sound of wind through the fungal thicket is mistaken for uncounted whispering voices. Daz is unnerved, Thorin suspects psychedelics, Pelek dismisses it as natural \u2014 leaving the true nature of the sound unresolved and eerie.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Why Only Blindness?",
+    "fact": "Zalthir is troubled that his monastic order taught him to make others blind, not silent \u2014 a fundamental mismatch with their stated purpose. The reason behind this corrupted training remains unknown.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occur during a single, continuous Underdark expedition, with no explicit calendar reference, but the sequence suggests a single day or night cycle in the Underdark.",
+    "quote_verified": false
+  }
+]

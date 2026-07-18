@@ -1,0 +1,86 @@
+[
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a sentient ooze who recently swapped bodies with the Pudding King, now inhabiting the Pudding King's form and speaking with a voice that does not match his original identity.",
+    "source_quote": "Why are you hurting me?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Pudding King",
+    "fact": "The Pudding King is a sentient ooze who swapped bodies with Glabbagool, now inhabiting Glabbagool's gelatinous cube form and expressing ecstatic, telepathic intentions about transformation and consumption.",
+    "source_quote": "I have shed my humanoid form for the supreme power! I shall reduce all of deep known kind into nothing but ooze!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "body swap",
+    "fact": "Glabbagool and the Pudding King have swapped bodies, causing confusion among the party when familiar voices emerge from incorrect ooze forms.",
+    "source_quote": "The party realizes Glabbagool and the Pudding King have swapped bodies when a familiar voice comes from the wrong ooze",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a gelatinous cube that was previously a sentient ooze, now temporarily inhabiting the Pudding King\u2019s form after a body swap, and capable of expressing tactile reactions such as 'this tickles'.",
+    "source_quote": "this tickles",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Pudding King",
+    "fact": "The Pudding King is a sentient ooze that has taken over Glabbagool\u2019s gelatinous cube form after a body swap, and now expresses grandiose, ecstatic pronouncements about transformation and consumption.",
+    "source_quote": "Behold the true feast, the soul's final blend!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "battle maneuver",
+    "fact": "Zalthir grapples the Pudding King in ooze form and drags him into Glabbagool, triggering a moment of tactile feedback that reveals the nature of their forms.",
+    "source_quote": "Zalthir grapples the Pudding King in ooze form and drags him into Glabbagool, prompting the gelatinous cube to say 'this tickles'",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "spellbook",
+    "fact": "A spellbook containing numerous magical formulas was discovered in the aftermath of the battle, having been consumed by Princess Ebonmire and now serving as a key resource for the party\u2019s arcane capabilities.",
+    "source_quote": "searching the aftermath of the battle, the party discovered treasure that had been consumed by Princess Ebonmire\u2014a spellbook containing numerous magical formulas",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "escape from Underdark",
+    "fact": "The party has secured their primary objective: a way out of the Underdark, achieving a significant victory despite lingering threats from the Abyss and the forces of Zuggtmoy and Juiblex.",
+    "source_quote": "more importantly, they had achieved their primary objective: securing a way out of the Underdark",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "body swap consequences",
+    "fact": "The body swap between Glabbagool and the Pudding King remains unresolved, with the party now needing to determine how to restore their original forms or adapt to their new identities.",
+    "source_quote": "The party realizes Glabbagool and the Pudding King have swapped bodies when a familiar voice comes from the wrong ooze",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Princess Ebonmire",
+    "fact": "Princess Ebonmire consumed a spellbook containing numerous magical formulas, which the party later recovered from her remains after the battle.",
+    "source_quote": "searching the aftermath of the battle, the party discovered treasure that had been consumed by Princess Ebonmire",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Abyssal demonic forces",
+    "fact": "The demonic forces of the Abyss still churn in the depths below the Underdark, representing an ongoing existential threat to the party\u2019s escape.",
+    "source_quote": "though the demonic forces of the Abyss still churned in the depths below them",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Zuggtmoy and Juiblex",
+    "fact": "Zuggtmoy waits to claim what Juiblex had lost, indicating a cosmic rivalry or consequence tied to the fate of the ooze entities and the party\u2019s escape.",
+    "source_quote": "though Zuggtmoy waited to claim what Juiblex had lost",
+    "quote_verified": true
+  }
+]

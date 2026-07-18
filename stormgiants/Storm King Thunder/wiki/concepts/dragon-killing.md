@@ -11,4 +11,11 @@ sources: ["duke_zalto.md"]
 Dragon-Killing refers to the Vonindod, an artifact associated with killing dragons. Its acquisition and use are central to Duke Zalto's ambitions and the party's quest, providing a powerful tool for their endeavors.
 
 ## Related Pages
-- [[dungeon-ironslag]]
+- [[giant-slayer-sword]]
+- [[hellhounds]]
+- [[legend]]
+- [[lore]]
+- [[technology]]
+- [[quest]]
+- [[vonindod]]
+- [[ironslag]]

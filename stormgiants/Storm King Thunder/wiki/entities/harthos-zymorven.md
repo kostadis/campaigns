@@ -57,3 +57,7 @@ sources: ["harthos_zymorven.md"]
 
 ## Arc Score Events
 - No arc score events recorded.
+
+## Related
+
+- [[yip-hammaver]]

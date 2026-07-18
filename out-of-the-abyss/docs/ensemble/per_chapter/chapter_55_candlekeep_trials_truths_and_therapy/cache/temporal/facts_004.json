@@ -1,0 +1,51 @@
+[
+  {
+    "type": "event",
+    "subject": "sequence of seats struck",
+    "fact": "The second seat was struck.",
+    "source_quote": "The second seat.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "sequence of seats struck",
+    "fact": "The fourth seat struck.",
+    "source_quote": "The fourth seat struck.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "sequence of seats struck",
+    "fact": "The eleventh seat was struck.",
+    "source_quote": "The eleventh seat.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "sequence of seats struck",
+    "fact": "The twenty-third seat was struck.",
+    "source_quote": "The twenty-third seat.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "heraldry book age",
+    "fact": "The heraldry book *Geography and Cities, Menzoberranzan, Pillars of Woe* is two hundred years old, give or take.",
+    "source_quote": "Two hundred years old, give or take.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "footnote removal time",
+    "fact": "The footnote in the heraldry book was removed by a razor at least fifty years ago.",
+    "source_quote": "A razor, at least fifty years ago",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Yvenne's body language duration",
+    "fact": "Yvenne's body had been disagreeing with her words for the last five minutes.",
+    "source_quote": "for the last five minutes",
+    "quote_verified": true
+  }
+]

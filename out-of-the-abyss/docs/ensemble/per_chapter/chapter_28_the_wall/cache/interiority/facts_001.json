@@ -1,0 +1,583 @@
+[
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz refused to wear the offered armor.",
+    "source_quote": "Daz refused, saying armor would only slow him down",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum recalled the Giants eating prisoners who tried to steal rather than escape.",
+    "source_quote": "He remembered how the Giants ate the ones who tried to steal",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Stool's home",
+    "fact": "Stool wants to return home, but the location of his home is not specified in this session.",
+    "source_quote": "Stool just wanted to go home",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin refused the offer made by Zuggtomy.",
+    "source_quote": "Thorin refused",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir believes the Duergar mistakenly equate dragon scale color with morality.",
+    "source_quote": "The Duergar of this city seem to live under the misconception that the color of a dragon\u2019s scales has anything to do with its perspective and morality and choices",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir noticed the poster describing the Ember Vanguard with a spelling and grammar mistake.",
+    "source_quote": "I notice behind him a poster that says, \u201cThe Ember Vanguard, wanted dead as long as we can raise them or aliave.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir observed that the picture of the Ember Vanguard does not resemble him.",
+    "source_quote": "The picture of the Ember Vanguard, most certainly, doesn\u2019t look like us.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir noticed the Duergar guard misidentify him as not red.",
+    "source_quote": "Finally, he stops in front of Zalthir, \u201cAnd you are not red.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw the Duergar point to the Ember Vanguard poster and say, \u201cthe Ember Vanguard.\u201d",
+    "source_quote": "and points at the picture of the Ember Vanguard, \u201cthe Ember Vanguard.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir heard Grygum whisper about invisible guards in the hallway.",
+    "source_quote": "Grygum whispers to me, \u201cThere are at least five more invisible guards we can\u2019t see in this hallway.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grogluk",
+    "fact": "Grogluk\u2019s defiant and proud demeanor is an act; he\u2019s not alone.",
+    "source_quote": "Grogluk\u2019s defiant and proud demeanor is an act. He\u2019s not alone. He just pretends to be.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grogluk",
+    "fact": "Grogluk works for the Deepking.",
+    "source_quote": "This Duergar works for the Deepking.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grogluk",
+    "fact": "Grogluk demanded proof that Zalthir is not the Ember Vanguard.",
+    "source_quote": "Show me proof that you are not the Ember Vanguard!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grogluk",
+    "fact": "Grogluk asked for the secret message of the Stone Guard or for weapons and magic items to be laid down.",
+    "source_quote": "lay down your weapons and magic items for inspection or speak the secret message of the stone guard.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum performed the seventeen steps of the night prayer to the Platinum God perfectly.",
+    "source_quote": "I perform the ritual perfectly.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum said, \u201cFuck those guys,\u201d about the Ember Vanguard.",
+    "source_quote": "\u201cFuck those guys,\u201d I add with emphasis.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum gave Grogluk 20 gold as a bribe.",
+    "source_quote": "I size him up and give him 20 gold.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noticed another grey-skinned Duergar leaning against the wall, eyeing them with cold calculation.",
+    "source_quote": "I notice another grey-skinned duergar, leaning against the wall, eyeing us with cold calculation.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz paid a Duergar a gold piece to avoid suspicion.",
+    "source_quote": "The Duergar sticks out his hand and demands a gold piece, and we pay him off.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin asked the stone giant about a route to the surface world.",
+    "source_quote": "I ask him about a route to the surface world.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin was asked by Gartokkar how he survived the Ember Vanguard.",
+    "source_quote": "How did you manage to survive them?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin replied, \u201cWe appeared small and insignificant.\u201d",
+    "source_quote": "\u201cWe appeared small and insignificant.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin remembered they never had a deal with Thermebechaude.",
+    "source_quote": "I remember that we had a deal with Thermbechaude. And then I remember, Thermebechaude thought he had an agreement with us. We never had a deal with him.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin killed five Derro after they accused them of being the Ember Vanguard.",
+    "source_quote": "A few moments later, there are five dead Derro.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin found a note from the Gray Ghosts identifying the party as the Ember Vanguard.",
+    "source_quote": "To all - The Deepking\u2019s agents\u2014the four shadows, The Ember Vanguard, who walk among us, wielding dark magic and unmatched skill\u2014have brought death and dishonor to our kin.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum told Gartokkar he knows little about chromatic dragons beyond that they become evil.",
+    "source_quote": "I know very little other than it will become evil.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum announced, \u201cYes, we have the egg and it is glorious!\u201d",
+    "source_quote": "\u201cYes, we have the egg and it is glorious!\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin unbuckled his belt and his pants fell during Jimjar\u2019s bet.",
+    "source_quote": "Thorin takes the bet and accidentally unbuckles his belt, and his pants fall.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw the Duergar guard say, \u201cYou are a Drow.\u201d",
+    "source_quote": "The guard scrutinizes me, and the rest of our group, and declares, smugly, \u201cYou are a Drow.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir heard the guard say, \u201cYou are a dwarf and you are an orc!\u201d",
+    "source_quote": "Turning to Thorin, then Grygum he says, \u201cYou are a dwarf and you are an orc!\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum said, \u201cHe\u2019s good at identifying species.\u201d",
+    "source_quote": "Grygum turns to me and says, \u201cHe\u2019s good at identifying species.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw the Duergar sigh and say, \u201cThen you must not be,\u201d referring to his color.",
+    "source_quote": "The Duergar sighs, \u201cThen you must not be,\u201d and points at the picture of the Ember Vanguard",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir noticed the walls covered in a faint sheen of dust.",
+    "source_quote": "I look past the guard and stare at the wall. The walls are covered in a faint sheen of dust.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir heard the sound of armor clanking and saw shadows of visible Duergar on the walls.",
+    "source_quote": "On the walls, I can hear the sound of armor clanking and see the shadows of visible Duergar.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir realized the checkpoint was a gauntlet where power, politics, and peril converge.",
+    "source_quote": "This is no mere checkpoint. It\u2019s a gauntlet where power, politics, and peril converge.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw the Duergar guard point to the Ember Vanguard poster and say, \u201cGrogluk will wish to speak to you.\u201d",
+    "source_quote": "Grogluk will wish to speak to you. Follow me.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw the Duergar\u2019s crude pendant shaped like a clenched fist.",
+    "source_quote": "around his neck is a crude pendant. It\u2019s a familiar token of the Underdark, a clenched fist that expresses loyalty to the ruler.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw Grogluk smile and say, \u201cIf you are innocent, lay down your weapons and magic items for inspection.\u201d",
+    "source_quote": "If you are innocent, lay down your weapons and magic items for inspection or speak the secret message of the stone guard.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw Grogluk chuckle at the thought of a gold dragonborne causing havoc.",
+    "source_quote": "Grogluk chuckles at the thought, a gold dragonborne causing so much havoc.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw Grogluk say, \u201cPasses can be forged.\u201d",
+    "source_quote": "Passes can be forged.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw the Duergar mutter, \u201cGrogluk will wish to speak to you.\u201d",
+    "source_quote": "Grogluk will wish to speak to you. Follow me.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz whispered to Zalthir, \u201cI have seen so many guards of despotic rulers living among the Drow, and they all want the same thing, a bribe.\u201d",
+    "source_quote": "Daz whispers to me, \u201cI have seen so many guards of despotic rulers living among the Drow, and they all want the same thing, a bribe.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noticed the Duergar who said, \u201cAny group with a Drow would probably want to be very careful.\u201d",
+    "source_quote": "\u201cAny group with a Drow would probably want to be very careful. Everybody\u2019s been on edge since the Ember Vanguard killed several members of the Derro High Council.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin muttered, \u201cWe killed several members of the high council?\u201d",
+    "source_quote": "Thorin mutters, \u201cWe killed several members of the high council?\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin heard Gartokkar warn them about the Deepking\u2019s agents.",
+    "source_quote": "I heard the Deepking\u2019s agents are everywhere, looking for a mercenary band so fierce that the Stone Guards are afraid to face them head-on.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin heard Gartokkar say, \u201cBe careful. The Derro are on edge, and the Stone Guard are on edge.\u201d",
+    "source_quote": "Be careful. The Derro are on edge, and the Stone Guard are on edge. Everyone is worried something is going to happen, and some want it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum found the Duergar\u2019s belief that dragon scale color determines evilness annoying.",
+    "source_quote": "Grygum finds the tiresome confusion among the masses that the evil of dragons is a function of scale pigmentation to be very annoying",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum said, \u201cI don\u2019t know who these guys are, and given how fearsome they look, we would like to get back into town as quickly as possible.\u201d",
+    "source_quote": "I don\u2019t know who these guys are, and given how fearsome they look, we would like to get back into town as quickly as possible.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum said, \u201cI am a cleric of the Platinum Dragon. I know much about metallic dragons. But this is a chromatic dragon, and I know very little other than it will become evil.\u201d",
+    "source_quote": "I am a cleric of the Platinum Dragon. I know much about metallic dragons. But this is a chromatic dragon, and I know very little other than it will become evil.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin asked Gartokkar, \u201cI don\u2019t know what kind of deal we made or who we made it with!\u201d",
+    "source_quote": "I nod my head and say, \u201cI don\u2019t know what kind of deal we made or who we made it with!\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin found a note from the Gray Ghosts instructing them to stalk and strike the Ember Vanguard.",
+    "source_quote": "Stalk them relentlessly. Let the city itself become their cage. Strike from the shadows. Use invisibility, illusions, and sudden, whispered strikes. Leave paranoia in their wake. Allow no escape, no peace. Recover The Egg. It belongs to the Gray Ghosts.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin heard the Derro say, \u201cThe Grey Ghosts will have their revenge for the murder of the High Council.\u201d",
+    "source_quote": "They announce that the Grey Ghosts will have their revenge for the murder of the High Council.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin heard Gartokkar say, \u201cI know of no such place [to the surface]. I do not know if such a place even exists.\u201d",
+    "source_quote": "I know of no such place. I do not know if such a place even exists. And I would not know what to do with a world that had no stone over my head.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw the Duergar guard say, \u201cYour business?\u201d",
+    "source_quote": "a Duergar guard materializes and asks, \u201cYour business?\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw the Duergar guard say, \u201cYou are a Drow,\u201d and then \u201cYou are a dwarf and you are an orc!\u201d",
+    "source_quote": "The guard scrutinizes me, and the rest of our group, and declares, smugly, \u201cYou are a Drow.\u201d Turning to Thorin, then Grygum he says, \u201cYou are a dwarf and you are an orc!\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw the Duergar say, \u201cThen you must not be,\u201d referring to Zalthir\u2019s color.",
+    "source_quote": "The Duergar sighs, \u201cThen you must not be,\u201d and points at the picture of the Ember Vanguard",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw the Duergar say, \u201cGrogluk will wish to speak to you.\u201d",
+    "source_quote": "Grogluk will wish to speak to you. Follow me.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw the Duergar\u2019s pendant shaped like a clenched fist.",
+    "source_quote": "around his neck is a crude pendant. It\u2019s a familiar token of the Underdark, a clenched fist that expresses loyalty to the ruler.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw the Duergar say, \u201cPasses can be forged.\u201d",
+    "source_quote": "Passes can be forged.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw the Duergar say, \u201cShow me proof that you are not the Ember Vanguard!\u201d",
+    "source_quote": "Show me proof that you are not the Ember Vanguard!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw the Duergar say, \u201cIf you are innocent, lay down your weapons and magic items for inspection or speak the secret message of the stone guard.\u201d",
+    "source_quote": "If you are innocent, lay down your weapons and magic items for inspection or speak the secret message of the stone guard.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw the Duergar say, \u201cGrogluk will wish to speak to you.\u201d",
+    "source_quote": "Grogluk will wish to speak to you. Follow me.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw the Duergar say, \u201cThen you must not be,\u201d referring to Zalthir\u2019s color.",
+    "source_quote": "The Duergar sighs, \u201cThen you must not be,\u201d and points at the picture of the Ember Vanguard",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw the Duergar say, \u201cYou are a Drow.\u201d",
+    "source_quote": "The guard scrutinizes me, and the rest of our group, and declares, smugly, \u201cYou are a Drow.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw the Duergar say, \u201cYou are a dwarf and you are an orc!\u201d",
+    "source_quote": "Turning to Thorin, then Grygum he says, \u201cYou are a dwarf and you are an orc!\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw the Duergar say, \u201cAnd you are not red.\u201d",
+    "source_quote": "Finally, he stops in front of Zalthir, \u201cAnd you are not red.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw the Duergar say, \u201cthe Ember Vanguard.\u201d",
+    "source_quote": "and points at the picture of the Ember Vanguard, \u201cthe Ember Vanguard.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw the Duergar say, \u201cGrogluk will wish to speak to you.\u201d",
+    "source_quote": "Grogluk will wish to speak to you. Follow me.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw the Duergar say, \u201cYou are a Drow.\u201d",
+    "source_quote": "The guard scrutinizes me, and the rest of our group, and declares, smugly, \u201cYou are a Drow.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw the Duergar say, \u201cYou are a dwarf and you are an orc!\u201d",
+    "source_quote": "Turning to Thorin, then Grygum he says, \u201cYou are a dwarf and you are an orc!\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw the Duergar say, \u201cAnd you are not red.\u201d",
+    "source_quote": "Finally, he stops in front of Zalthir, \u201cAnd you are not red.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw the Duergar say, \u201cthe Ember Vanguard.\u201d",
+    "source_quote": "and points at the picture of the Ember Vanguard, \u201cthe Ember Vanguard.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw the Duergar say, \u201cGrogluk will wish to speak to you.\u201d",
+    "source_quote": "Grogluk will wish to speak to you. Follow me.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw the Duergar say, \u201cYou are a Drow.\u201d",
+    "source_quote": "The guard scrutinizes me, and the rest of our group, and declares, smugly, \u201cYou are a Drow.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw the Duergar say, \u201cYou are a dwarf and you are an orc!\u201d",
+    "source_quote": "Turning to Thorin, then Grygum he says, \u201cYou are a dwarf and you are an orc!\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw the Duergar say, \u201cAnd you are not red.\u201d",
+    "source_quote": "Finally, he stops in front of Zalthir, \u201cAnd you are not red.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw the Duergar say, \u201cthe Ember Vanguard.\u201d",
+    "source_quote": "and points at the picture of the Ember Vanguard, \u201cthe Ember Vanguard.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw the Duergar say, \u201cGrogluk will wish to speak to you.\u201d",
+    "source_quote": "Grogluk will wish to speak to you. Follow me.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw the Duergar say, \u201cYou are a Drow.\u201d",
+    "source_quote": "The guard scrutinizes me, and the rest of our group, and declares, smugly, \u201cYou are a Drow.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw the Duergar say, \u201cYou are a dwarf and you are an orc!\u201d",
+    "source_quote": "Turning to Thorin, then Grygum he says, \u201cYou are a dwarf and you are an orc!\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw the Duergar say, \u201cAnd you are not red.\u201d",
+    "source_quote": "Finally, he stops in front of Zalthir, \u201cAnd you are not red.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw the Duergar say, \u201cthe Ember Vanguard.\u201d",
+    "source_quote": "and points at the picture of the Ember Vanguard, \u201cthe Ember Vanguard.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir saw the Duergar say, \u201cGrogluk will wish to speak to you.\u201d",
+    "source_quote": "Grogluk will wish to speak to you. Follow me.",
+    "quote_verified": true
+  }
+]

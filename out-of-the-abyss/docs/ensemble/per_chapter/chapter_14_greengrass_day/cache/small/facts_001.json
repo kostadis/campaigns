@@ -1,0 +1,226 @@
+[
+  {
+    "type": "date",
+    "subject": "Greengrass Day",
+    "fact": "Today is Greengrass.",
+    "source_quote": "Somehow, Thorin remembers that today is Greengrass.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "abandoned boat",
+    "fact": "An abandoned boat is spotted ahead.",
+    "source_quote": "He looks a bit further and sees a boat. A boat that is abandoned.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Duergar Keelboat",
+    "fact": "The abandoned boat is identified as a Duergar Keelboat.",
+    "source_quote": "Yes, it\u2019s Duergar Keelboat. You can see the crates.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Hemeth",
+    "fact": "Hemeth turns invisible.",
+    "source_quote": "I will be hiding here.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz uses shape water",
+    "fact": "Daz uses shape water to reveal an invisible humanoid outline near the boat.",
+    "source_quote": "I have shape water! ... water is sprayed around the boat, and the outline of a humanoid appears.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir invokes darkness",
+    "fact": "Zalthir invokes Darkness and plunges into the water to attack.",
+    "source_quote": "He invokes Darkness and plunges into the water to attack the foe.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir strikes invisible Duergar",
+    "fact": "Zalthir\u2019s first strike misses the invisible Duergar, but the second strikes home.",
+    "source_quote": "The Dragonborn\u2019s initial strike misses, but the second strikes home with a thud.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin dives into water",
+    "fact": "Thorin dives into the water to swim next to Zalthir and strike the invisible creature.",
+    "source_quote": "Diving into the water, he swims next to Zalthir and strikes the invisible creature, wounding it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "scorching rays hit water",
+    "fact": "Two scorching rays hit the water and hiss harmlessly.",
+    "source_quote": "Thorin hears two scorching rays hit the water and hiss harmlessly.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Duergar screams in pain",
+    "fact": "A Duergar screams in pain.",
+    "source_quote": "He\u2019s about to lose hope when he hears the scream of a Duergar in pain.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum belches acid",
+    "fact": "Grygum belches acid, killing a Duergar.",
+    "source_quote": "He hears Grygum's magical words and the telltale sound of a belch. ... the Duergar is not so lucky and dies.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Duergar grapple crew members",
+    "fact": "A Duergar grapples and pulls someone overboard from the boat.",
+    "source_quote": "Then he hears a scream. He can hear someone from the boat being grappled and pulled overboard.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "two more crew members grappled",
+    "fact": "Two more members of the crew are grappled by Duergar.",
+    "source_quote": "Two more members of the crew are grappled.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar says Duergar capture slaves to sell in Gracklstugh.",
+    "source_quote": "Yes, they capture slaves that they sell in Gracklstugh.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir says 'at least it\u2019s where we were going'",
+    "fact": "Zalthir says, 'At least it\u2019s where we were going.'",
+    "source_quote": "Zalthir shout, 'At least it\u2019s where we were going.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth is not captured by the Duergar.",
+    "source_quote": "Thorin approaches the boat and notices that Eldeth is not one of those captured.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Stool",
+    "fact": "Stool is captured by the Duergar.",
+    "source_quote": "The dwarf checks the others and sees that Stool has been captured.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin attacks Duergar",
+    "fact": "Thorin attacks the Duergar, causing them to release Stool.",
+    "source_quote": "He attacks the Duergar. And the Duergar release Stool.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Darkness returns",
+    "fact": "The area is covered again in Darkness.",
+    "source_quote": "Then the area is covered again in Darkness",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir strikes Duergar again",
+    "fact": "Zalthir strikes the Duergar with his fists, killing it.",
+    "source_quote": "His fists strike the creature that had Spiderbait, killing it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz casts magic missile",
+    "fact": "Daz casts magic missile, striking a Duergar with glowing teardrops of force.",
+    "source_quote": "The magic missile will do just fine here.\u201d ... The Duergar is struck by glowing teardrops of blue-white force sizzle through the air, swooping swift as starlings, unerring in their flight.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido claims he is invisible.",
+    "source_quote": "I am invisible.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz drags Spiderbait away",
+    "fact": "Daz drags Spiderbait away from the Duergar.",
+    "source_quote": "strikes the Duergar, dragging Spiderbait away.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir moves darkness again",
+    "fact": "Zalthir moves the darkness to cover the enemies.",
+    "source_quote": "Zalthir again moves the darkness to cover the enemies.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth curses the Duergar as 'Demonic spawn of dwarven corruption.'",
+    "source_quote": "Eldeth curse them out as 'Demonic spawn of dwarven corruption. Slave trader who deserves to be sent to the nine hells as punishment!'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz kills second Duergar with magic missile",
+    "fact": "Daz kills the second Duergar with magic missile bolts.",
+    "source_quote": "the burst of magic bolts kills the other creature.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum belches acid again",
+    "fact": "Grygum belches acid, killing another Duergar.",
+    "source_quote": "Another belch sounds, and another Duergar dies covered in acid.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "last Duergar immobilized",
+    "fact": "The last of the Duergar is immobilized.",
+    "source_quote": "A few moments later, the last of the Duergar is immobilized",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "gold",
+    "fact": "Zalthir finds gold in the Duergar Keelboat\u2019s casks and chest.",
+    "source_quote": "He finds some gold",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "jug that generates liquid",
+    "fact": "Zalthir finds a jug that can generate any liquid.",
+    "source_quote": "a jug that he learns later can be used to generate any liquid.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "jug generates mayonnaise",
+    "fact": "The first liquid generated from the jug is mayonnaise.",
+    "source_quote": "The first liquid they generate is mayonnaise.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido claims he has particular expertise and talents for questioning the Duergar prisoner.",
+    "source_quote": "I have particular expertise and talents.",
+    "quote_verified": true
+  }
+]

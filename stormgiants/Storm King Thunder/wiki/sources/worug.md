@@ -1,8 +1,8 @@
 ---
 type: source
 title: "Source: worug.md"
-created: 2026-05-13
-updated: 2026-05-13
+created: 2026-06-06
+updated: 2026-06-06
 sources: ["worug.md"]
 tags: []
 related: []
@@ -10,32 +10,45 @@ related: []
 
 # Source: worug.md
 
-### Key Entities
-- **Worug**: Ogre survivor; one of the last living inhabitants of Blagothkus's cloud castle (Person)
-- **Tak**: Companion of Worug (Person)
-- **Sandesyl**: Mortal threat (Organization)
-- **Blagothkus**: Nominal lord of the castle (Person)
-- **Thistle**: Provided goodberries that helped calm Worug (Person)
+## Key Entities
 
-### Key Concepts
-- **Glazhael**: Dracolich residing in the glacier beneath the castle (Phenomenon)
-- **First Faction**: Unknown group that killed Glazhael (Organization)
-- **Artifact Quest**: False quest to lure Glazhael away (Phenomenon)
+*   **Worug** (Ogre)
+    *   **Role:** Central. A survivor of the castle's massacre who serves as a primary source of intelligence regarding the internal politics and hidden threats of Blagothkus’s castle.
+    *   **Status:** Likely exists in wiki (as a new entry).
+*   **Tak** (Ogre)
+    *   **Role:** Central/Supporting. Worug's companion; shares an unspoken bond with him.
+    *   **Status:** Likely exists in wiki (as a new entry).
+*   **Blagothkus** (Cloud Giant Lord)
+    *   **Role:** Central. The lord of the castle whose emotional breakdown and history are revealed through Worug's testimony.
+    *   **Status:** Already exists in wiki.
+*   **Sandesyl** (Vampire/Antagonist)
+    *   **Role:** Central. The primary threat to the ogre population; a figure of fear for the survivors.
+    *   **Status:** Already exists in wiki.
+*   **Thistle Wendrod** (Social Analyst)
+    *   **Role:** Supporting. The party member who established trust with Worug through "goodberries."
+    *   **Status:** Already exists in wiki.
+*   **Glazhael** (Dracolich)
+    *   **Role:** Central/Hidden Threat. A dracolich residing in the glacier beneath the castle; formerly a steed of Talis the White.
+    *   **Status:** New entity (likely needs a page).
 
-### Main Arguments & Findings
-- **Core Claims**: Worug provides crucial intelligence about the castle's recent events, including the arrival of Sandesyl, Blagothkus's emotional state, and the existence of Glazhael.
-- **Evidence**: Worug willingly shared detailed information in exchange for a promise of evacuation.
-- **Strength of Evidence**: Strong, as Worug cooperated openly and provided specific details.
+## Key Concepts
 
-### Connections to Existing Wiki
-- **[[blagothkus-cloud-castle]]**: This source adds new information about the castle's inhabitants and recent events.
-- **[[sandesyl-the-vampire]]**: Provides context for Worug's fear and the threat she faces.
-- **[[glazhael-dracolich]]**: Introduces a new entity that Worug describes, adding depth to the lore.
+*   **Survival through Isolation:** The tactic used by Worug and Tak to survive Sandesyl’s purge; highlights the theme of "hiding" as a primary survival mechanism in high-threat zones.
+*   **Information Exchange for Safety:** A transactional relationship where intelligence (the secret of Glazhael, Blagothkus's state) is traded for physical protection/evacuation.
+*   **The Glazhael Secret:** The revelation that the castle sits atop a subterranean threat; introduces a "layered" danger to the current location.
+*   **Unspoken Bond:** The nuanced relationship between Worug and Tak, highlighting emotional depth in non-human characters.
+*   **Status:** Likely already exists or are new nuances for existing themes (e.g., *survival*, *information asymmetry*).
 
-### Contradictions & Tensions
-- **Internal Tension**: Worug's willingness to share sensitive information with the party might contradict her stated desire to remain hidden until escape is possible.
+## Main Arguments & Findings
+*   **The Castle is a Layered Trap:** The document reveals that the castle's dangers aren't just immediate (Sandesyl) but structural and historical (Glazhael).
+*   **Vulnerability of the "Lower" Classes:** Worug’s existence highlights how the lower inhabitants (ogres) are treated as expendable or ignored by the higher powers (Blagothkus, Sandesyl), yet they possess critical local knowledge.
+*   **The Role of Trust-Building:** The interaction between Thistle and Worug demonstrates that even "monstrous" beings respond to basic gestures of kindness (goodberries) rather than just force.
 
-### Recommendations
-- **Create Pages**: [[worug]], [[tak]], [[blagothkus]], [[sandesyl-the-vampire]], [[glazhael-dracolich]]
-- **Emphasize**: The role of Worug as a key informant and the significance of the Glazhael revelation.
-- **Open Question**: Clarify if Blagothkus is aware of Worug's actions and if he intends to keep his promise of evacuation.
+## Connections to Existing Wiki
+*   **Blagothkus & Sandesyl:** This source provides the "ground-level" view of their conflict, showing how their actions impacted the common inhabitants.
+*   **Thistle Wendrod:** Reinforces Thistle's role as a social analyst capable of de-escalating high-tension situations.
+*   **The Castle (as Character):** Sup
+
+## Related
+
+- [[wald]]

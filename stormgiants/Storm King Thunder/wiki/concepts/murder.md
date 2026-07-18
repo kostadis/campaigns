@@ -13,3 +13,7 @@ sources: ["harthos_zymorven.md"]
 - **Method:** Execution by decapitation, chosen to prevent magical resurrection.
 - **Impact:** Harthos's execution prevents him from returning to life through magical means.
 - **Associated Characters:** Harthos Zymorven
+
+## Related
+
+- [[execution-by-decapitation]]

@@ -44,3 +44,7 @@ sources: ["gralm.md"]
 - **Increase:** Party passed all drinking and physical trials → Gralm granted provisional alliance trust
 - **Increase:** Unla Kee solved the Fey music problem with magmin earmuffs → bald head's sleep deprivation resolved; significant goodwill gained
 - **Increase:** Orsik's persuasion combined with trial victories → Gralm signed the anti-Bad Fruul contract
+
+## Related
+
+- [[grik]]

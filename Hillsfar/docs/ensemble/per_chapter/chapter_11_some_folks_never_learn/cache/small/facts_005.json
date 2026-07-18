@@ -1,0 +1,79 @@
+[
+  {
+    "type": "event",
+    "subject": "Spirit Guardians",
+    "fact": "Bramgrim summoned Spirit Guardians at fifth level to create a protective area of spectral spirits.",
+    "source_quote": "Summoned by Bramgrim at fifth level to create a protective area of spectral spirits",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Spirit Guardians damage",
+    "fact": "The spectral spirits damaged both the stone golem and Veris as they entered the portal chamber.",
+    "source_quote": "that damaged both the stone golem and Veris as they entered the portal chamber",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Hunter's Mark",
+    "fact": "Akritas used Hunter's Mark to magically mark the stone golem as her quarry.",
+    "source_quote": "Used by Akritas to magically mark the stone golem as her quarry",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Hunter's Mark damage",
+    "fact": "The mark dealt additional damage with Akritas's attacks against the stone golem.",
+    "source_quote": "dealing additional damage with her attacks against it",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Teleport",
+    "fact": "Veris employed Teleport to instantly reposition himself within the portal chamber.",
+    "source_quote": "Employed by Veris to instantly reposition himself within the portal chamber",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Teleport tactical advantage",
+    "fact": "The repositioning gave Veris a tactical advantage against the party.",
+    "source_quote": "gaining a tactical advantage against the party",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "stone golem",
+    "fact": "The stone golem entered the portal chamber and was damaged by spectral spirits.",
+    "source_quote": "damaged both the stone golem",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Veris",
+    "fact": "Veris entered the portal chamber and was damaged by spectral spirits.",
+    "source_quote": "damaged both the stone golem and Veris as they entered the portal chamber",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim summoned Spirit Guardians.",
+    "source_quote": "Summoned by Bramgrim",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas used Hunter's Mark on the stone golem.",
+    "source_quote": "Used by Akritas to magically mark the stone golem",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "portal chamber",
+    "fact": "The portal chamber is where Veris repositioned himself and where the stone golem and Veris entered.",
+    "source_quote": "as they entered the portal chamber",
+    "quote_verified": true
+  }
+]

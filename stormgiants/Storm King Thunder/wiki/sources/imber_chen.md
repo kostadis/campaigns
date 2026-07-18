@@ -47,8 +47,8 @@ related: []
 ### Connections to Existing Wiki
 
 - **Silverymoon**: Imber's knowledge of Silverymoon's politics and its racial inclusivity relates to the wiki entry on Silverymoon.
-- **[[River Trade Routes]]**: Imber's expertise in river trade routes and his stall at the Fishyard connects to the wiki entry on River Trade Routes.
-- **[[Fairy Biology]]**: Imber's dismissive comment about fairy reproduction relates to the wiki entry on Fairy Biology.
+- **[[force-grey-2026-06-06-063448]]**: Imber's expertise in river trade routes and his stall at the Fishyard connects to the wiki entry on River Trade Routes.
+- **[[fairy-biology]]**: Imber's dismissive comment about fairy reproduction relates to the wiki entry on Fairy Biology.
 
 ### Contradictions & Tensions
 
@@ -57,10 +57,15 @@ related: []
 ### Recommendations
 
 - **Create or Update Pages**: 
-  - [[Imber Chen]]: To consolidate the information about Imber Chen.
+  - [[imber-chen]]: To consolidate the information about Imber Chen.
   - Silverymoon: To incorporate Imber's insights on Silverymoon's politics and racial inclusivity.
-  - [[River Trade Routes]]: To include Imber's expertise in river trade routes.
-  - [[Fairy Biology]]: To reflect Imber's dismissive view on fairy reproduction.
+  - [[force-grey-2026-06-06-063448]]: To include Imber's expertise in river trade routes.
+  - [[fairy-biology]]: To reflect Imber's dismissive view on fairy reproduction.
   
 - **Emphasize**: Imber's role as a merchant and his intelligence gathering capabilities.
 - **De-emphasize**: Specific de
+
+## Related
+
+- [[the-role-of-imber-chen-2026-06-06-002459]]
+- [[imberu]]

@@ -9,3 +9,7 @@ sources: ["hork_gethorn.md"]
 ---
 # Meat Pie Shop Owner
 A merchant who specializes in selling meat pies. This concept is relevant to understanding Hork Gethorn's motivations and the nature of his business. The meat pie shop owner concept can be integrated into existing pages on Mirabar or Mirabar merchants.
+
+## Related
+
+- [[hork-gethorn]]

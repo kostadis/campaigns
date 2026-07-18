@@ -1,0 +1,100 @@
+[
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum led the party to the Keeper of the Flame and initiated the request for assistance.",
+    "source_quote": "Grygum \u2014 \u201cWe need some help.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar is a mercantile and vengeful figure who demands proof of demonic worship and seeks to eliminate the Derro, but is open to payment for services.",
+    "source_quote": "Gartokkar \u2014 \u201cYou had some helpers, use them.\u201d\nGartokkar \u2014 \u201cI could give them badges!\u201d\nGartokkar \u2014 \u201cCompensation? COMPENSATION.\u201d\nGartokkar \u2014 \u201cI want proof of the involvement in demonic worship. Bring me the statue of Demogorgon.\u201d\nGartokkar \u2014 \u201c2000.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin challenged Gartokkar's refusal to employ helpers and later entered negotiations for payment and confidentiality.",
+    "source_quote": "Thorin \u2014 \u201cYou are not employing them.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir proposed that compensation be required for the task.",
+    "source_quote": "Zalthir \u2014 \u201cI think we need some compensation.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz smiles and shifts focus to negotiating with Errde after the transaction with Gartokkar.",
+    "source_quote": "Daz smiles, \u201cTime to talk to Errde and negotiate terms with her.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Duergar",
+    "fact": "The Duergar are slyly aware of Gartokkar\u2019s mercantile nature and are complicit in his genocidal scheme against the Derro.",
+    "source_quote": "The duergar smiled slyly when he realized we were as mercantile as he was.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Derro",
+    "fact": "The Derro are the intended target of Gartokkar\u2019s genocidal campaign, framed as a purge of a scourge from the city.",
+    "source_quote": "He was planning to engage in a genocidal war against the Derro.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "negotiation for payment",
+    "fact": "Thorin and Gartokkar negotiated an upfront payment of 30% of 2000 gold and a confidentiality rider worth 1000 gold; an attempt to raise the upfront to half of 3000 failed.",
+    "source_quote": "First, we secured an upfront payment of 30% of the 2000 gold. Then we secured a confidentiality rider worth another 1000 gold. We attempted to raise the upfront fee to half of the 3000, but Gartokkar was not biting.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "statue of Demogorgon",
+    "fact": "The statue of Demogorgon is the demanded proof of demonic worship, to be used as leverage against the Derro.",
+    "source_quote": "Bring me the statue of Demogorgon.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "2000 gold",
+    "fact": "The agreed-upon payment for the task is 2000 gold, with additional terms negotiated on top.",
+    "source_quote": "Gartokkar \u2014 \u201c2000.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "genocidal campaign against the Derro",
+    "fact": "Gartokkar plans to use proof of theft and demonic worship to convince the Deepking to eliminate the Derro, initiating a genocidal war.",
+    "source_quote": "He intended to use the proof of the theft and the proof of the demonic worship to convince the Deepking that it was time to eliminate the scourge of the Derro from the city.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "negotiation with Errde",
+    "fact": "Daz has initiated a new negotiation thread with Errde following the Gartokkar deal.",
+    "source_quote": "Daz smiles, \u201cTime to talk to Errde and negotiate terms with her.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Gartokkar's threat",
+    "fact": "Gartokkar threatens violent retribution against betrayal, implying supernatural tracking ability in dark places.",
+    "source_quote": "If you betray me, there is no cave, no pool of still water, no river, no place in the dark that I will not find you and hunt you down.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session anchor",
+    "fact": "The events described occur within a single narrative session, with no explicit temporal marker beyond sequence.",
+    "source_quote": "It was then that Thorin and I entered the negotiations.",
+    "quote_verified": true
+  }
+]

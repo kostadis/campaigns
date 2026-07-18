@@ -1,0 +1,191 @@
+[
+  {
+    "type": "event",
+    "subject": "negotiation start",
+    "fact": "Bramgrim questions Murssvayas's legitimacy as Solom's representative.",
+    "source_quote": "Bramgrim questions Murssvayas's legitimacy as Solom's representative",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "proof of authority",
+    "fact": "Murssvayas produces a pendant that Bramgrim recognizes as belonging to Solom Ned'razak.",
+    "source_quote": "Murssvayas produces a pendant that Bramgrim recognizes as belonging to Solom Ned'razak",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "reward demand",
+    "fact": "Bramgrim demands to know what reward the party will receive for the mission.",
+    "source_quote": "Bramgrim, speaking for the party, demands to know what reward they will receive for such a dangerous mission",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "initial reward dismissal",
+    "fact": "Murssvayas initially dismisses the idea of payment.",
+    "source_quote": "Murssvayas initially dismisses the idea of payment",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "reward promise",
+    "fact": "Murssvayas promises that Solom will grant the party an item from the horde of the Drow if they complete the mission and recover Szith Morcane.",
+    "source_quote": "He promises that if the party completes the mission and Szith Morcane is recovered, Solom will grant them an item from the horde of the Drow",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "mission agreement",
+    "fact": "The party agrees to undertake the mission to rescue Xaven Tanor'this from the Den of the Whispered Word.",
+    "source_quote": "The party agrees to undertake the mission to rescue Xaven Tanor'this from the Den of the Whispered Word",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Isthana",
+    "fact": "Isthana is the head of the Thieves Guild in Hillsfar.",
+    "source_quote": "The head of the Thieves Guild sees new opportunities in the power vacuum",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Charles",
+    "fact": "Charles is a messenger from the Emerald Enclave and member of La R\u00e9sistance.",
+    "source_quote": "Charles finds them here to deliver urgent news from the Emerald Enclave",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Murssvayas Dhuurniv",
+    "fact": "Murssvayas Dhuurniv is a Drow representative with silver hair, thick sideburns, emerald green eyes, and skin so dark it's nearly purple.",
+    "source_quote": "Murssvayas Dhuurniv... with silver hair, thick sideburns, emerald green eyes, and skin so dark it's nearly purple",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom Ned'razak is the leader of the Drow outpost of Szith Morcane.",
+    "source_quote": "The leader of the Drow outpost of Szith Morcane, an 18th level wizard",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Xaven Tanor'this",
+    "fact": "Xaven Tanor'this is the Drow's chief alchemist who was captured during the raid on Szith Morcane.",
+    "source_quote": "The Drow's chief alchemist who was working on a ritual to cull fiendish blood from the Graz'zt-infused fire giants",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Maram il Vass",
+    "fact": "Maram il Vass is a creature residing in the Den of the Whispered Word.",
+    "source_quote": "A creature residing in the Den of the Whispered Word, an extraplanar brokerage in the Howling Pits",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Graz'zt",
+    "fact": "Graz'zt is a demon lord who is now infusing fire giants with his blood.",
+    "source_quote": "He threatened vengeance and is now infusing fire giants with his blood",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Malkyn Grenefeld",
+    "fact": "Malkyn Grenefeld is the recently defeated antagonist whose death triggered the current chaos in Hillsfar.",
+    "source_quote": "The recently defeated antagonist whose death triggered the current chaos in Hillsfar",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Red Plume Guards",
+    "fact": "The Red Plume Guards are caught between factions after the death of the ruling elite.",
+    "source_quote": "The Red Plume guards are caught between factions",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Emerald Enclave",
+    "fact": "The Emerald Enclave sent urgent news to the party via Charles.",
+    "source_quote": "Charles finds them here to deliver urgent news from the Emerald Enclave",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Hillsfar",
+    "fact": "Hillsfar is a city recovering from weeks of chaos after the party defeated Malkyn Grenefeld.",
+    "source_quote": "A city recovering from weeks of chaos after the party defeated Malkyn Grenefeld",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Hillsfar Castle",
+    "fact": "Hillsfar Castle is the former seat of power in Hillsfar, now a bloody mess with shattered windows and destroyed artifacts.",
+    "source_quote": "The former seat of power in Hillsfar, now a bloody mess with shattered windows and destroyed artifacts",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Silver Shadow Cave",
+    "fact": "Silver Shadow Cave is a sacred site for communing with the moon goddess Sel\u00fbne, located near Elventree.",
+    "source_quote": "A sacred site for communing with the moon goddess Sel\u00fbne, located near Elventree",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Szith Morcane",
+    "fact": "Szith Morcane is a Drow outpost in the Underdark that was sacked by an army of slaves led by fiendish fire giants and demons.",
+    "source_quote": "A Drow outpost in the Underdark that was sacked by an army of slaves led by fiendish fire giants and demons",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Sporedome",
+    "fact": "Sporedome is a fungal forest in the Underdark where Solom Ned'razak and other Drow survivors took refuge.",
+    "source_quote": "A fungal forest in the Underdark where Solom Ned'razak and other Drow survivors took refuge",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Den of the Whispered Word",
+    "fact": "Den of the Whispered Word is an extraplanar brokerage of goods and services located in the Howling Pits.",
+    "source_quote": "An extraplanar brokerage of goods and services located in the Howling Pits",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Howling Pits",
+    "fact": "Howling Pits is a twisted realm of the Underdark where Maram il Vass's refuge is located.",
+    "source_quote": "A twisted realm of the Underdark where Maram il Vass's refuge, the Den of the Whispered Word, is located",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "pendant",
+    "fact": "The pendant belongs to Solom Ned'razak and was used by Murssvayas to prove his authority.",
+    "source_quote": "Murssvayas produces a pendant that Bramgrim recognizes as belonging to Solom Ned'razak",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "rescue mission",
+    "fact": "The party has agreed to rescue Xaven Tanor'this from the Den of the Whispered Word.",
+    "source_quote": "The party agrees to undertake the mission to rescue Xaven Tanor'this from the Den of the Whispered Word",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Drow horde reward",
+    "fact": "The party is promised an item from the Drow horde upon successful completion of the mission.",
+    "source_quote": "Solom will grant them an item from the horde of the Drow",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Graz'zt's plot",
+    "fact": "Graz'zt is infusing fire giants with his blood to create a new threat.",
+    "source_quote": "He threatened vengeance and is now infusing fire giants with his blood",
+    "quote_verified": true
+  }
+]

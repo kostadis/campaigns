@@ -1,72 +1,55 @@
+---
+type: source
+title: "Source: aunt_nonnie.md"
+created: 2026-06-05
+updated: 2026-06-05
+sources: ["aunt_nonnie.md"]
+tags: []
+related: []
+---
 
----  
-type: source  
-title: "Source: aunt_nonnie.md"  
-created: 2026-05-13  
-updated: 2026-05-13  
-tags: [inn, hospitality]  
-sources: ["aunt_nonnie.md"]  
-related: []  
----  
+# Source: aunt_nonnie.md
 
-# Source: aunt_nonnie.md  
+## Key Entities
+*   **Aunt Nonnie (Nonnie)**
+    *   **Type:** NPC / Innkeeper
+    *   **Role:** Central to the local geography of Llorkh; serves as a "safe haven" and logistical hub for the party.
+    *   **Status:** Likely new to the wiki (not in current index).
+*   **Orsik**
+    *   **Type:** NPC / Character
+    *   **Role:** Party member or associate; subject of specific interaction with Aunt Nonnie regarding a mysterious past "thing."
+    *   **Status:** Not currently in the index.
+*   **Vardis & Unla Kee**
+    *   **Type:** Characters
+    *   **Role:** Party members/allies who visited the tower; recognized by Nonnie as returning safely.
+    *   **Status:** **Unla Kee** is in the wiki (known for integrity); **Vardis** is in the wiki (peripheral).
+*   **Fiora Bendaega**
+    *   **Type:** NPC / Contact
+    *   **Role:** Uses Aunt Nonnie’s inn as a base of operations.
+    *   **Status:** Not currently in the index.
+*   **Refugee from Greenest**
+    *   **Type:** NPC (Minor)
+    *   **Role:** A woman being sheltered by Nonnie; provides local flavor regarding the fallout of recent events.
+    *   **Status:** Not in the index.
 
-## Overview  
-Aunt Nonnie is the innkeeper and proprietor of a rustic vegetarian‑only inn in Llorkh. She provides lodging and meals to travelers who do not align with the Iron Circle, emphasizing warm, humanizing hospitality and a strictly plant‑based menu. Her establishment serves as a safe haven for refugees and adventurers alike, and she demonstrates quiet authority over staff such as Orsik, using undisclosed knowledge of his past to maintain order. She shows curiosity about the local tower and expresses disappointment when its exploration is deemed a one‑time venture. *(Created 2025‑05‑22; updated 2025‑05‑22)*  
+## Key Concepts
+*   **Safe Haven / Trusted Haven:** The role of a location or person that provides consistent safety and hospitality, contrasting with high-risk adventuring zones.
+*   **Leverage through Knowledge:** Aunt Nonnie’s ability to silence Orsik by referencing "that THING," suggesting she holds information about his past that creates a power dynamic.
+*   **Moral Hospitality:** The choice to treat all travelers (refugees, strangers) with equal dignity regardless of their status or the risks they pose.
+*   **Narrative Economy (Implicit):** Nonnie serves as a "stable" NPC—her primary function is providing a consistent home base and local flavor rather than complex personal arcs.
 
-## Key Entities  
+## Main Arguments & Findings
+*   **Reliable Sanctuary:** The source establishes Aunt Nonnie’s inn as a stable, high-trust location for the party. Her character is defined by consistency (vegetarian meals, firm but fair pricing).
+*   **Hidden Depth/Mystery:** While she appears to be a simple innkeeper, her specific knowledge of Orsik's past and her pointed interest in the "tower" suggest she may have deeper ties or motivations that are not yet revealed to the party.
+*   **Social Dynamics:** The interaction with Orsik establishes a clear hierarchy; he is intimidated by her, suggesting his character has a "shadow" or history that Nonnie is aware of.
 
-### People  
-- **Nonnie/Aunt Nonnie** – Innkeeper, cook, and proprietor; central to hospitality and vegetarian cuisine.  
-- **Orsik** – Guest who defers to Nonnie; subject of her authority and leverage.  
-- **Vardis & Unla Kee** – Guests who interacted with Nonnie; peripheral.  
-- **Fiora Bendaega** – Base of operations; peripheral.  
-- **Refugee from Greenest** – Currently sheltered by Nonnie; peripheral.  
+## Connections to Existing Wiki
+*   **Unla Kee / Vardis:** This source confirms their presence in the narrative and their role as travelers who survived a specific excursion (the tower).
+*   **Refugee from Greenest:** Connects to the broader world-building regarding the fall of Greenest.
 
-### Organizations  
-- **Iron Circle** – Faction that Nonnie serves visitors who do not stay with; peripheral.  
+## Contradictions & Tensions
+*   **Vardis’s Suspicion:** There is an internal narrative tension where Vardis suspects Nonnie of "evil cult" affiliation due to her extreme friendliness, while the text describes her
 
-### Products/Datasets/Tools  
-- **Vegetarian meals** – Provided by Nonnie; central.  
+## Related
 
-## Concepts  
-
-### Theories/Methods/Techniques  
-- **Hospitable Innkeeping** – Central to Nonnie’s role; matters in understanding her character and business practices.  
-- **Vegetarian Cuisine** – Central to Nonnie’s business model; matters in understanding her culinary skills and dietary preferences.  
-
-### Phenomena  
-- **Kobold Sightings** – Local news shared by Nonnie; peripheral.  
-- **Town Guard’s Inaction** – Local news shared by Nonnie; peripheral.  
-
-## Main Arguments & Findings  
-
-1. **Running a Warm and Dignified Business** – Nonnie runs her inn with warmth and dignity, serving vegetarian meals and providing basic hospitality to all guests.  
-   - *Evidence*: Guests consider her a trusted haven, and she takes pride in her vegetarian menu.  
-   - *Strength*: Strong evidence through guest feedback and interactions.  
-
-2. **Authority and Fairness** – Nonnie carries authority over Orsik and can adjust prices based on guest behavior.  
-   - *Evidence*: She raises prices when Orsik makes a disrespectful remark and relents after an apology.  
-   - *Strength*: Strong evidence through specific incidents involving Orsik.  
-
-3. **Curiosity About Adventuring Activity** – Nonnie shows interest in the activities around the local tower, indicating her involvement in local events.  
-   - *Evidence*: She expresses disappointment when informed about the one‑time nature of Vardis and Unla Kee’s tower excursion.  
-   - *Strength*: Moderate evidence through her reactions to the party’s activities.  
-
-4. **Relationship with Orsik** – Nonnie holds some form of authority or leverage over Orsik due to past knowledge.  
-   - *Evidence*: She silences Orsik with a pointed reference to "that THING you did."  
-   - *Strength*: Moderate evidence through specific interactions.  
-
-5. **Safe Haven for Refugees** – Nonnie shelters a refugee from Greenest, demonstrating her commitment to providing care and dignity.  
-   - *Evidence*: She treats the refugee with care and dignity.  
-   - *Strength*: Strong evidence through the refugee’s current status.  
-
-## Connections to Existing Wiki  
-
-- **Innkeepers** – Relevant pages like "Innkeeper" could be linked to provide more context on Nonnie’s role.  
-- **Vegetarian Cuisine** – Pages related to vegetarianism and cuisine could be referenced to understand Nonnie’s culinary offerings.  
-- **Local News** – Pages on local news and community updates could be linked to explain Nonnie’s sharing of information about kobold sightings and the town guard’s inaction.  
-
-## Contradictions & Tensions  
-
-- **Pas** (incomplete fragment from source)
+- [[harriet_uldinath]]

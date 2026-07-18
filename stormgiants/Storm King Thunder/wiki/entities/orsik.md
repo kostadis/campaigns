@@ -13,7 +13,7 @@ Orsik is a subordinate NPC with a hidden depth of psychological manipulation and
 
 Beyond his role at the inn, Orsik has demonstrated exceptional talent in psychological manipulation, tactical espionage, and artifact-based intrigue. His most significant non-combat operation involved disguising himself as “Geoff Mamet,” an acting coach, to influence Amy—the lead actor in Kaelen Sarssir’s play at the Talking Troll. By assuming an authoritative persona, Orsik bypassed Amy’s resistance to Kaelen’s direction. He used a commanding tone and perceived legitimacy to override her creative doubts, resulting in a successful performance. Amy credited “Geoff” with her improvement and remains unaware that Orsik and “Geoff” are the same person.
 
-During the assault on Parnast, Orsik deployed disinformation to reduce goblin recruitment to [[Bad Fruul]]’s banner. After Bad Fruul’s death, he attempted to recover the [[headband-of-intellect-narcellia]] from the corpse—an action that suggests either strategic interest in the artifact or a personal agenda tied to its origin. His ability to recognize the headband’s value and his willingness to retrieve it imply prior knowledge of its nature or history, connecting him to the broader mystery of [[Narcellia Varam’myr]] and Chandra’s nemesis. This act expands his established pattern of [[disguised-influence]] from social manipulation to artifact-based intrigue.
+During the assault on Parnast, Orsik deployed disinformation to reduce goblin recruitment to [[bad-fruul]]’s banner. After Bad Fruul’s death, he attempted to recover the [[headband-of-intellect-narcellia]] from the corpse—an action that suggests either strategic interest in the artifact or a personal agenda tied to its origin. His ability to recognize the headband’s value and his willingness to retrieve it imply prior knowledge of its nature or history, connecting him to the broader mystery of [[narcellia-varammyr]] and Chandra’s nemesis. This act expands his established pattern of [[disguised-influence]] from social manipulation to artifact-based intrigue.
 
 Orsik also maintains a [[cover-identity-as-merchant]] facade, suggesting a broader network of operations beyond immediate assignments. His actions align with an intelligence network of limited coverage, where he operates independently yet in alignment with larger, unspoken objectives.
 
@@ -26,7 +26,7 @@ Orsik also maintains a [[cover-identity-as-merchant]] facade, suggesting a broad
 ## Artifact and Strategic Operations
 - **Artifact Recovered**: [[headband-of-intellect-narcellia]] (attempted retrieval after Bad Fruul’s death).
 - **Tactic**: Disinformation campaign to disrupt goblin recruitment under Bad Fruul.
-- **Implication**: Orsik’s knowledge of the headband suggests prior exposure to [[Narcellia Varam’myr]]’s legacy or Chandra’s enemies.
+- **Implication**: Orsik’s knowledge of the headband suggests prior exposure to [[narcellia-varammyr]]’s legacy or Chandra’s enemies.
 - **Significance**: Indicates a transition from purely social manipulation to high-stakes artifact intrigue, expanding his operational scope.
 
 ## Relationships
@@ -44,3 +44,7 @@ Orsik also maintains a [[cover-identity-as-merchant]] facade, suggesting a broad
 - The combination of his covert operations and subservient public persona indicates a highly adaptive, multi-layered character who operates differently depending on context.
 - His [[cover-identity-as-merchant]] and involvement in artifact recovery imply a broader, possibly independent, intelligence network with limited but effective coverage.
 - The retrieval of the [[headband-of-intellect-narcellia]] may be tied to unresolved personal history or a hidden allegiance beyond Aunt Nonnie’s control.
+
+## Related
+
+- [[jarlor]]

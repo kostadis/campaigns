@@ -1,0 +1,1312 @@
+[
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "An hour passes between two events in the session.",
+    "source_quote": "An hour later",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occurred during a session of play, as the Flumph recounts them in the aftermath, seeking emotional release.",
+    "source_quote": "The Flumph shudders, its glow flickering before settling into a soft, exhausted teal. ... Phew. Oh, my. That... that really helps.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
+    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz said, \"Maximilian's Earthen Grasp,\" and the ground reached up with a big muddy thought and *SQUEEZED* the eye-thing!",
+    "source_quote": "He said, \"Maximilian's Earthen Grasp,\" and the ground just reached up with a big muddy thought and *SQUEEZED* the eye-thing!",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz's thoughts screamed, \"Get it, get it, get it, get out!\" as he grabbed the egg and poofed away.",
+    "source_quote": "\"Get it, get it, get it, get out!\" his thoughts screamed. He grabbed the egg and *poofed* away!",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "death of Plinki",
+    "fact": "Plinki, the derro leader, was mentally obliterated by Zalthir's psychic roar of agonizing fire, causing her consciousness to extinguish like a candle flame. This triggered the collapse of her followers' mental stability.",
+    "source_quote": "Then Zalthir opened his mouth and the thought turned into ROARING-HOT-AGONY-FIRE! Plinki's mind just... went out. Like a candle flame.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Derro",
+    "fact": "All the other derro felt the egg's loss at once and their minds exploded in a chorus of \"WHERE IS THE EGG?! THE EGG! WHO HAS THE EGG?!\"",
+    "source_quote": "And all the other derro felt it at once! Their minds exploded in a chorus of \"WHERE IS THE EGG?! THE EGG! WHO HAS THE EGG?!\"",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "dismantling of the thief-derro",
+    "fact": "Zalthir threw the thief-derro off a ledge, resulting in a CRUNCH of stone-tasting pain, then methodically dismantled him with silent, relentless thuds \u2014 a display of cold, efficient violence without emotion.",
+    "source_quote": "The feeling of falling... was followed by a CRUNCH of pain that tasted like biting on stone! Then Zalthir was on him, and it was just... *thud, thud, thud.* No anger, no rage, just... methodical dismantling.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Egg Retrieval",
+    "fact": "Daz the wizard abandoned the battle to retrieve the egg, becoming a silvery psychic void. His successful extraction triggered a mass psychic panic among the derro, causing their forces to shatter.",
+    "source_quote": "Get it, get it, get it, get out!",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "egg theft",
+    "fact": "The egg was seized by the wizard Daz, who psychically vanished after absorbing its significance. This triggered a psychic tsunami of panic among the derro, shattering their remaining cohesion.",
+    "source_quote": "He grabbed the egg and *poofed* away! ... And all the other derro felt it at once! Their minds exploded in a chorus of \"WHERE IS THE EGG?! THE EGG! WHO HAS THE EGG?!\"",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Eldeth",
+    "fact": "Eldeth's thoughts went *AAAAH-PAIN!* as if stabbed by a rusty-tasting needle.",
+    "source_quote": "The nice lady-dwarf, Eldeth, her thoughts just went *AAAAH-PAIN!* and it was like gEttin g stabbed with a rusty-tasting needle!",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Flumph",
+    "fact": "Flumph experienced the psychic texture of Zalthir\u2019s actions as terrifying and silent.",
+    "source_quote": "The psychic texture of it was terrifying! It was like watching a glacier move, unstoppable and silent.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Flumph",
+    "fact": "Flumph felt overwhelmed by the battle's psychic chaos and needed to dump its trauma.",
+    "source_quote": "Oh! Oh, thank goodness, a fresh mind! You have to listen, you just *have* to, I feel like I'm going to burst!",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Pelek",
+    "fact": "Pelek tried to get in the thief's head, but it was like pouring hot tea and cold water into the same cup.",
+    "source_quote": "The poor ghost, Pelek, he tried to get in the thief's head! It was like trying to pour hot tea and cold water into the same cup, all sizzle and steam and wrongness!",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Plinki\u2019s Death",
+    "fact": "Plinki\u2019s consciousness was extinguished by Zalthir\u2019s psychic assault \u2014 a thought that manifested as roaring-hot agony. Her mind went out like a candle flame, triggering a cascade of psychological collapse among her followers.",
+    "source_quote": "The leader is the lynchpin. Neutralize Plinki.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "psychic manifestation of 'AAAAH-PAIN!'",
+    "fact": "Eldeth's thoughts went *AAAAH-PAIN!* like gEttin g stabbed with a rusty-tasting needle",
+    "source_quote": "the nice lady-dwarf, Eldeth, her thoughts just went *AAAAH-PAIN!* and it was like gEttin g stabbed with a rusty-tasting needle!",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "psychic manifestation of 'Get it, get it, get it, get out!'",
+    "fact": "Daz's thoughts screamed, \"Get it, get it, get it, get out!\"",
+    "source_quote": "\"Get it, get it, get it, get out!\" his thoughts screamed.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "psychic manifestation of 'Maximilian's Earthen Grasp'",
+    "fact": "Daz, the clever Drow, said, \"Maximilian's Earthen Grasp,\" and the ground just reached up with a big muddy thought and *SQUEEZED* the eye-thing!",
+    "source_quote": "Daz, the clever Drow, his thoughts are like a spiderweb, all intricate and patient. He said, \"Maximilian's Earthen Grasp,\" and the ground just reached up with a big muddy thought and *SQUEEZED* the eye-thing!",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "psychic manifestation of 'Sacrifice! Power! For the Big Baboon Demon!'",
+    "fact": "Plinki's mind emitted a screeching, red mess of 'Sacrifice! Power! For the Big Baboon Demon!'",
+    "source_quote": "Plinki, her mind was just a screeching, red mess of \"Sacrifice! Power! For the Big Baboon Demon!\"",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "psychic manifestation of 'The leader is the lynchpin. Neutralize Plinki.'",
+    "fact": "Zalthir thought, \"The leader is the lynchpin. Neutralize Plinki.\" and then opened his mouth and the thought turned into ROARING-HOT-AGONY-FIRE!",
+    "source_quote": "I heard him think, \"The leader is the lynchpin. Neutralize Plinki.\" And then he opened his mouth and the thought turned into ROARING-HOT-AGONY-FIRE!",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "psychic manifestation of 'The thief's mind was like a fortress and just pushed him out!'",
+    "fact": "The thief's mind was like a fortress and just pushed [Pelek] out!",
+    "source_quote": "The thief's mind was like a fortress and just pushed him out!",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "psychic manifestation of 'This one is off-balance. Strike here.'",
+    "fact": "Zalthir thought, \"This one is off-balance. Strike here.\" And then, *whump*, another one gone.",
+    "source_quote": "Zalthir was like, \"This one is off-balance. Strike here.\" And then, *whump*, another one gone.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "psychic manifestation of 'This one is the most dangerous. Their skill is a threat.'",
+    "fact": "Zalthir thought, \"This one is the most dangerous. Their skill is a threat.\" and he just... grabbed the thief-derro!",
+    "source_quote": "I heard him think, \"This one is the most dangerous. Their skill is a threat.\" and he just... grabbed the thief-derro!",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "psychic manifestation of 'What-?!'",
+    "fact": "The thief's surprise was a sharp, lemon-zest tang of \"What-?!\"",
+    "source_quote": "The thief's surprise was a sharp, lemon-zest tang of \"What-?!\"",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "psychic manifestation of 'WHERE IS THE EGG?! THE EGG! WHO HAS THE EGG?!'",
+    "fact": "All the other derro felt it at once! Their minds exploded in a chorus of \"WHERE IS THE EGG?! THE EGG! WHO HAS THE EGG?!\"",
+    "source_quote": "And all the other derro felt it at once! Their minds exploded in a chorus of \"WHERE IS THE EGG?! THE EGG! WHO HAS THE EGG?!\"",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "the methodical dismantling",
+    "fact": "Then Zalthir was on him, and it was just... *thud, thud, thud.* No anger, no rage, just... methodical dismantling.",
+    "source_quote": "Then Zalthir was on him, and it was just... *thud, thud, thud.* No anger, no rage, just... methodical dismantling.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "the neutralization of Plinki",
+    "fact": "Plinki's mind just... went out. Like a candle flame. A bright, nasty, red shriek and then... nothing. A void.",
+    "source_quote": "Plinki's mind just... went out. Like a candle flame. A bright, nasty, red shriek and then... nothing. A void.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "the psychic poof of Daz",
+    "fact": "A little psychic *poof* and then he was by the egg, and the anxiety coming off him was a physical wave!",
+    "source_quote": "A little psychic *poof* and then he was by the egg, and the anxiety coming off him was a physical wave!",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "the psychic tsunami of panic",
+    "fact": "Their minds exploded in a chorus of 'WHERE IS THE EGG?! THE EGG! WHO HAS THE EGG?!' It was a psychic tsunami of panic!",
+    "source_quote": "Their minds exploded in a chorus of 'WHERE IS THE EGG?! THE EGG! WHO HAS THE EGG?!' It was a psychic tsunami of panic!",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "the shattering of the derro followers",
+    "fact": "All her little followers felt it, and their minds just shattered into a million panicked pieces!",
+    "source_quote": "All her little followers felt it, and their minds just shattered into a million panicked pieces!",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "the squeezing of the eye-thing",
+    "fact": "The ground just reached up with a big muddy thought and *SQUEEZED* the eye-thing!",
+    "source_quote": "The ground just reached up with a big muddy thought and *SQUEEZED* the eye-thing!",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "the throwing off the ledge",
+    "fact": "Zalthir, so silent, so focused, *threw him off the ledge!*",
+    "source_quote": "Zalthir, so silent, so focused, *threw him off the ledge!*",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thief-Derro\u2019s Execution",
+    "fact": "The thief-derro was seized by Zalthir, thrown from a ledge, and then methodically dismantled with precise, emotionless blows. His death was not violent in rage, but in cold, surgical efficiency \u2014 a psychic texture like a glacier moving.",
+    "source_quote": "thud, thud, thud.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "Sloobludop is approximately eight days away via the Darklake.",
+    "source_quote": "the town of Sloopdopblop is just eight days away",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir thought, \"The leader is the lynchpin. Neutralize Plinki.\" and his thought turned into ROARING-HOT-AGONY-FIRE!",
+    "source_quote": "I heard him think, \"The leader is the lynchpin. Neutralize Plinki.\" And then he opened his mouth and the thought turned into ROARING-HOT-AGONY-FIRE!",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir thought, \"This one is off-balance. Strike here.\" and *whump*, another one gone.",
+    "source_quote": "Zalthir was like, \"This one is off-balance. Strike here.\" And then, *whump*, another one gone.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir thought, \"This one is the most dangerous. Their skill is a threat.\" and grabbed the thief-derro.",
+    "source_quote": "I heard him think, \"This one is the most dangerous. Their skill is a threat.\" and he just... grabbed the thief-derro!",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir threw the thief-derro off the ledge, followed by a CRUNCH of pain that tasted like biting on stone.",
+    "source_quote": "the feeling of falling, the brief moment of weightlessness, was followed by a CRUNCH of pain that tasted like biting on stone! Then Zalthir was on him, and it was just... *thud, thud, thud.*",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir's final act was methodical dismantling\u2014no anger, no rage, just silence and precision.",
+    "source_quote": "It was like watching a glacier move, unstoppable and silent.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's final thought pattern",
+    "fact": "Zalthir moved so fast! I heard him think, \"This one is the most dangerous. Their skill is a threat.\" and he just... grabbed the thief-derro!",
+    "source_quote": "I heard him think, \"This one is the most dangerous. Their skill is a threat.\" and he just... grabbed the thief-derro!",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's methodical dismantling of the thief",
+    "fact": "It was just... *thud, thud, thud.* No anger, no rage, just... methodical dismantling.",
+    "source_quote": "It was just... *thud, thud, thud.* No anger, no rage, just... methodical dismantling.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Derro",
+    "fact": "The derro are a collective of twisted, psionically sensitive creatures whose minds react in unison to trauma and loss. After the death of their leader and the theft of the egg, they fractured into panicked, disorganized noise, losing cohesion and purpose.",
+    "source_quote": "And all the other derro felt it at once! Their minds exploded in a chorus of \"WHERE IS THE EGG?! THE EGG! WHO HAS THE EGG?!\" It was a psychic tsunami of panic! ... They just... fell apart after that.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Derro",
+    "fact": "The derro as a group experienced a synchronized psychic collapse after the egg was taken. Their minds exploded in a chorus of panicked, identical thoughts \u2014 'WHERE IS THE EGG?! THE EGG! WHO HAS THE EGG?!' \u2014 leading to a total breakdown of cohesion and morale.",
+    "source_quote": "WHERE IS THE EGG?! THE EGG! WHO HAS THE EGG?!",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "by the egg",
+    "fact": "He was by the egg, and the anxiety coming off him was a physical wave!",
+    "source_quote": "He was by the egg, and the anxiety coming off him was a physical wave!",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Daz's psychic departure from the egg",
+    "fact": "Daz went all silvery and wasn't there anymore; he was by the egg, and the anxiety coming off him was a physical wave.",
+    "source_quote": "The wizard, Daz, his mind went all silvery and he just... wasn't there anymore! A little psychic *poof* and then he was by the egg, and the anxiety coming off him was a physical wave!",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Battlefield",
+    "fact": "The battlefield is a psychic landscape saturated with conflicting emotions \u2014 rage, fear, confusion, and cold calculation. It is not merely physical space but a living tapestry of mental noise, where thoughts are tangible, colors are sensory, and silence is weaponized.",
+    "source_quote": "a soup of ugly feelings",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "the ledge",
+    "fact": "The ledge is a physical feature from which Zalthir threw the thief-derro, resulting in fatal impact. It serves as a site of sudden, decisive violence in the battle.",
+    "source_quote": "Zalthir... threw him off the ledge!",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "the ledge",
+    "fact": "Zalthir... threw him off the ledge!",
+    "source_quote": "Zalthir, so silent, so focused, *threw him off the ledge!*",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
+    "source_quote": "Drow outpost was 100' in the sky",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
+    "source_quote": "four chasme and two vrock",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Floating Eye-Thing",
+    "fact": "A hostile creature with a mind that tasted like curdled milk and mindflayer static. It was crushed by Daz\u2019s earth-grasp spell, which squeezed it with a muddy, living force. Its final sensation was one of rage, indignation, and being crushed.",
+    "source_quote": "curdled milk and mindflayer static!",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "mindflayer static",
+    "fact": "It's mind tasted like curdled milk and mindflayer static!",
+    "source_quote": "It's mind tasted like curdled milk and mindflayer static!",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "the Big Baboon Demon",
+    "fact": "Plinki's mind was a screeching, red mess of 'Sacrifice! Power! For the Big Baboon Demon!'",
+    "source_quote": "Plinki, her mind was just a screeching, red mess of 'Sacrifice! Power! For the Big Baboon Demon!'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "the eye-thing",
+    "fact": "The ground just reached up with a big muddy thought and *SQUEEZED* the eye-thing!",
+    "source_quote": "The ground just reached up with a big muddy thought and *SQUEEZED* the eye-thing!",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "the floating eye-thing",
+    "fact": "A hostile monster whose mind tasted like curdled milk and mindflayer static. It was crushed by Daz's earth-grasp spell, experiencing rage and indignation before being subdued.",
+    "source_quote": "It's mind tasted like curdled milk and mindflayer static! ... Daz... summoned the earth to squeeze it with a muddy, grasping thought... Oh, the rage! The indignation! The *squeezed* feeling!",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a clever drow whose thoughts are intricate and patient, like a spiderweb. He manipulated the environment by invoking 'Maximilian's Earthen Grasp,' causing the ground to seize and crush a floating eye-thing. He later became a psychic void, abandoning the battle to focus on retrieving the egg.",
+    "source_quote": "Maximilian's Earthen Grasp.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a clever drow whose thoughts are like a spiderweb \u2014 intricate and patient. He summoned the earth to squeeze a floating eye-thing with a muddy, grasping thought, uttering \"Maximilian's Earthen Grasp.\" He later vanished psychically, becoming silvery and absent, consumed by anxiety over an egg.",
+    "source_quote": "He said, \"Maximilian's Earthen Grasp,\" and the ground just reached up with a big muddy thought and SQUEEZED the eye-thing! ... His mind went all silvery and he just... wasn't there anymore! A little psychic poof and then he was by the egg.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz's mind went all silvery and he just... wasn't there anymore.",
+    "source_quote": "The wizard, Daz, his mind went all silvery and he just... wasn't there anymore!",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz's thoughts are like a spiderweb, all intricate and patient.",
+    "source_quote": "But Daz, the clever Drow, his thoughts are like a spiderweb, all intricate and patient.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz, the clever Drow, his thoughts are like a spiderweb, all intricate and patient. He said, 'Maximilian's Earthen Grasp,' and the ground just reached up with a big muddy thought and *SQUEEZED* the eye-thing!",
+    "source_quote": "Daz, the clever Drow, his thoughts are like a spiderweb, all intricate and patient. He said, 'Maximilian's Earthen Grasp,' and the ground just reached up with a big muddy thought and *SQUEEZED* the eye-thing!",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "The wizard, Daz, his mind went all silvery and he just... wasn't there anymore! A little psychic *poof* and then he was by the egg, and the anxiety coming off him was a physical wave! 'Get it, get it, get it, get out!' his thoughts screamed.",
+    "source_quote": "The wizard, Daz, his mind went all silvery and he just... wasn't there anymore! A little psychic *poof* and then he was by the egg, and the anxiety coming off him was a physical wave! 'Get it, get it, get it, get out!' his thoughts screamed.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz (wizard)",
+    "fact": "Daz the wizard became a silvery psychic void mid-battle, his presence vanishing as he focused entirely on the egg. His thoughts screamed with urgent, frantic anxiety \u2014 'Get it, get it, get it, get out!' \u2014 before he teleported away with the artifact.",
+    "source_quote": "Get it, get it, get it, get out!",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz (Wizard)",
+    "fact": "Daz, the wizard, psychically vanished into a silvery absence, consumed by anxiety over an egg. He screamed \"Get it, get it, get it, get out!\" before grabbing the egg and poofing away.",
+    "source_quote": "His mind went all silvery and he just... wasn't there anymore! A little psychic *poof* and then he was by the egg, and the anxiety coming off him was a physical wave! \"Get it, get it, get it, get out!\" his thoughts screamed.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Derk (thief-derro)",
+    "fact": "The thief-derro is a startled, agile target whose mind reacted with a sharp lemon-zest tang of surprise when Zalthir grabbed him. He was thrown off a ledge, experienced a moment of weightlessness, then died under Zalthir\u2019s methodical blows \u2014 his final sensation a crunch like biting stone.",
+    "source_quote": "What-?!",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Derro",
+    "fact": "All the other derro felt it at once! Their minds exploded in a chorus of 'WHERE IS THE EGG?! THE EGG! WHO HAS THE EGG?!' It was a psychic tsunami of panic!",
+    "source_quote": "And all the other derro felt it at once! Their minds exploded in a chorus of 'WHERE IS THE EGG?! THE EGG! WHO HAS THE EGG?!' It was a psychic tsunami of panic!",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth is a dwarf whose mind abruptly shattered into a piercing 'AAAAH-PAIN!' during the battle, suggesting she was struck or wounded. Her psychic reaction was sudden and visceral, like being stabbed with a rusty needle.",
+    "source_quote": "AAAAH-PAIN!",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth is a kind lady-dwarf whose thoughts suddenly went \"AAAAH-PAIN!\" as if stabbed by a rusty-tasting needle, indicating she was violently injured or targeted during the battle's onset.",
+    "source_quote": "The nice lady-dwarf, Eldeth, her thoughts just went *AAAAH-PAIN!* and it was like gEttin g stabbed with a rusty-tasting needle!",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth, her thoughts just went *AAAAH-PAIN!* and it was like gEttin g stabbed with a rusty-tasting needle!",
+    "source_quote": "Eldeth, her thoughts just went *AAAAH-PAIN!* and it was like gEttin g stabbed with a rusty-tasting needle!",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Flumph",
+    "fact": "Flumph feels much lighter after the trauma dump.",
+    "source_quote": "...Phew. Oh, my. That... that really helps. Just gEttin g it all out. It was just so much. But now... now I feel much lighter.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Flumph",
+    "fact": "Flumph's glow settled into a soft, exhausted teal after the trauma dump.",
+    "source_quote": "(The Flumph shudders, its glow flickering before settling into a soft, exhausted teal.)",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is an orc-cleric whose thoughts are earnest and golden-yellow, attempting to reason with Plinki about choice and dragon gods. He is a voice of persuasion amid chaos, though his efforts are ultimately overwhelmed.",
+    "source_quote": "The orc-cleric, Grygum, was trying to talk to her, something about choice and dragon gods. His thoughts were so... earnest and golden-yellow!",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is an orc-cleric whose thoughts are earnest and golden-yellow, attempting to reason with Plinki about choice and dragon gods. His presence represents a failed appeal to reason amidst overwhelming fanaticism.",
+    "source_quote": "something about choice and dragon gods.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum was trying to talk to Plinki, something about choice and dragon gods. His thoughts were so... earnest and golden-yellow!",
+    "source_quote": "Grygum, was trying to talk to her, something about choice and dragon gods. His thoughts were so... earnest and golden-yellow!",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Pelek",
+    "fact": "Pelek is a ghost who attempted to enter the thief-derro's mind but was violently repelled, like trying to pour hot tea and cold water into the same cup \u2014 sizzling and wrong.",
+    "source_quote": "The poor ghost, Pelek, he tried to get in the thief's head! It was like trying to pour hot tea and cold water into the same cup, all sizzle and steam and wrongness! The thief's mind was like a fortress and just pushed him out!",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Pelek",
+    "fact": "Pelek is a ghost who attempted to infiltrate the thief-derro\u2019s mind but was violently repelled. His psychic intrusion felt like pouring hot tea and cold water into the same cup \u2014 a sizzling, wrong, and failed attempt at mental penetration.",
+    "source_quote": "trying to pour hot tea and cold water into the same cup",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Pelek",
+    "fact": "Pelek, he tried to get in the thief's head! It was like trying to pour hot tea and cold water into the same cup, all sizzle and steam and wrongness!",
+    "source_quote": "And the poor ghost, Pelek, he tried to get in the thief's head! It was like trying to pour hot tea and cold water into the same cup, all sizzle and steam and wrongness!",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Plinki",
+    "fact": "Plinki is a derro leader whose mind is a screeching, red mess of \"Sacrifice! Power! For the Big Baboon Demon!\" She was mentally obliterated by Zalthir's psychic roar, her consciousness extinguished like a candle flame, causing her followers to shatter into panicked fragments.",
+    "source_quote": "Her mind was just a screeching, red mess of \"Sacrifice! Power! For the Big Baboon Demon!\" ... Then Zalthir opened his mouth and the thought turned into ROARING-HOT-AGONY-FIRE! Plinki's mind just... went out.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Plinki",
+    "fact": "Plinki is a derro leader whose mind is a screeching, red mess of obsession with sacrifice and power. Her thoughts radiate chaotic aggression and fanatical devotion to the Big Baboon Demon. She was the primary target of Zalthir\u2019s psychic assault, which extinguished her consciousness like a candle flame.",
+    "source_quote": "Sacrifice! Power! For the Big Baboon Demon!",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Plinki",
+    "fact": "Plinki's mind was a screeching, red mess of 'Sacrifice! Power! For the Big Baboon Demon!'",
+    "source_quote": "Plinki, her mind was just a screeching, red mess of 'Sacrifice! Power! For the Big Baboon Demon!'",
+    "quote_verified": false,
+    "passes": [
+      "interiority",
+      "sweep"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "The Derro Followers",
+    "fact": "The derro followers experienced a collective psychic collapse after Plinki's death and the egg's disappearance, their minds exploding in a chorus of \"WHERE IS THE EGG?! THE EGG! WHO HAS THE EGG?!\" \u2014 a psychic tsunami of panic.",
+    "source_quote": "And all the other derro felt it at once! Their minds exploded in a chorus of \"WHERE IS THE EGG?! THE EGG! WHO HAS THE EGG?!\" It was a psychic tsunami of panic!",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "The Floating Eye-Thing",
+    "fact": "A hostile creature whose mind tasted like curdled milk and mindflayer static. It was crushed by Daz's earth-grasp spell, experiencing rage and indignation as it was squeezed.",
+    "source_quote": "It's mind tasted like curdled milk and mindflayer static! ... Oh, the rage! The indignation! The *squeezed* feeling! It was horrible!",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "The Flumph",
+    "fact": "The Flumph is a sensitive, empathic creature that absorbs and processes the psychic emissions of others. It was overwhelmed by the battle\u2019s intensity but found relief in sharing its experience. Its glow settled into a soft teal \u2014 a sign of exhausted catharsis.",
+    "source_quote": "Phew. Oh, my. That... that really helps.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "The Flumph",
+    "fact": "The Flumph shudders, its glow flickering before settling into a soft, exhausted teal.",
+    "source_quote": "(The Flumph shudders, its glow flickering before settling into a soft, exhausted teal.)",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "The Other Floaty-Eye-Thing",
+    "fact": "A second floating eye-thing that appeared after the first was crushed, contributing to the escalating psychic chaos of the battle before being dealt with.",
+    "source_quote": "But then the *other* floaty-eye-thing came! Ugh! It's mind tasted like curdled milk and mindflayer static!",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "The Thief-Derro",
+    "fact": "The thief-derro was targeted by Zalthir, who threw him off a ledge. His mind reacted with a sharp, lemon-zest tang of \"What-?!\" followed by the CRUNCH of pain from hitting stone, then silence as he was dismantled.",
+    "source_quote": "The thief's surprise was a sharp, lemon-zest tang of \"What-?!\" and then Zalthir... threw him off the ledge! The feeling of falling... was followed by a CRUNCH of pain that tasted like biting on stone!",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thief-Derro",
+    "fact": "The feeling of falling, the brief moment of weightlessness, was followed by a CRUNCH of pain that tasted like biting on stone!",
+    "source_quote": "The feeling of falling, the brief moment of weightlessness, was followed by a CRUNCH of pain that tasted like biting on stone!",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a dwarf warrior whose mind is a simple, bright axe-blade of \"HIT THE BAD THING.\" He charges into danger with loud, direct violence, embodying brute force and unwavering focus in battle.",
+    "source_quote": "His mind was a simple, bright axe-blade of \"HIT THE BAD THING.\" Very pure, but so loud!",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a loud, direct warrior whose psychic presence is a simple, bright axe-blade of aggression. He charges into danger without hesitation, targeting threats with blunt force. His violence is unrefined but potent, embodying pure, unthinking destruction.",
+    "source_quote": "HIT THE BAD THING.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin's mind was a simple, bright axe-blade of \"HIT THE BAD THING.\"",
+    "source_quote": "His mind was a simple, bright axe-blade of \"HIT THE BAD THING.\"",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin, he just charged right into that black cloud. His mind was a simple, bright axe-blade of 'HIT THE BAD THING.'",
+    "source_quote": "The Dwarf, Thorin, he just charged right into that black cloud. His mind was a simple, bright axe-blade of 'HIT THE BAD THING.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "He moved so fast! I heard him think, 'This one is the most dangerous. Their skill is a threat.' and he just... grabbed the thief-derro!",
+    "source_quote": "He moved so fast! I heard him think, 'This one is the most dangerous. Their skill is a threat.' and he just... grabbed the thief-derro!",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "His thoughts weren't shouting like the others. They were sharp and cold, like little shards of ice.",
+    "source_quote": "His thoughts weren't shouting like the others. They were sharp and cold, like little shards of ice.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "I heard him think, 'The leader is the lynchpin. Neutralize Plinki.'",
+    "source_quote": "I heard him think, 'The leader is the lynchpin. Neutralize Plinki.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "I heard him think, 'The leader is the lynchpin. Neutralize Plinki.' And then he opened his mouth and the thought turned into ROARING-HOT-AGONY-FIRE! Plinki's mind just... went out. Like a candle flame.",
+    "source_quote": "I heard him think, 'The leader is the lynchpin. Neutralize Plinki.' And then he opened his mouth and the thought turned into ROARING-HOT-AGONY-FIRE! Plinki's mind just... went out. Like a candle flame.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "I heard him think, 'This one is the most dangerous. Their skill is a threat.' and he just... grabbed the thief-derro! The thief's surprise was a sharp, lemon-zest tang of 'What-?!' and then Zalthir, so silent, so focused, *threw him off the ledge!*",
+    "source_quote": "I heard him think, 'This one is the most dangerous. Their skill is a threat.' and he just... grabbed the thief-derro! The thief's surprise was a sharp, lemon-zest tang of 'What-?!' and then Zalthir, so silent, so focused, *threw him off the ledge!*",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Then Zalthir was on him, and it was just... *thud, thud, thud.* No anger, no rage, just... methodical dismantling.",
+    "source_quote": "Then Zalthir was on him, and it was just... *thud, thud, thud.* No anger, no rage, just... methodical dismantling.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a quiet, scaly combatant whose thoughts are sharp and cold like shards of ice. He neutralized Plinki with a roar of agonizing fire, then systematically eliminated threats with methodical precision, including throwing a thief-derro off a ledge and dismantling him with silent, relentless strikes. His mental focus is efficient, unemotional, and terrifyingly precise.",
+    "source_quote": "He thought, \"The leader is the lynchpin. Neutralize Plinki.\" Then he opened his mouth and the thought turned into ROARING-HOT-AGONY-FIRE! Plinki's mind just... went out. Like a candle flame.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a silent, coldly efficient combatant whose psychic thoughts are sharp, precise, and lethal. He neutralized Plinki with a thought that manifested as roaring agony, then systematically dismantled the thief-derro with methodical, emotionless violence. His focus is on efficiency: identifying weaknesses, striking without waste, and maintaining absolute control. He is the lynchpin of the battle\u2019s outcome.",
+    "source_quote": "The leader is the lynchpin. Neutralize Plinki.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir was efficient, never wasting a thought or a move.",
+    "source_quote": "He never wasted a thought, never wasted a move. So efficient!",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir was like, 'This one is off-balance. Strike here.' And then, *whump*, another one gone. He never wasted a thought, never wasted a move.",
+    "source_quote": "Zalthir was like, 'This one is off-balance. Strike here.' And then, *whump*, another one gone. He never wasted a thought, never wasted a move.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir's mind was usually like a still, cool pond, but he decided\u2014no more light!",
+    "source_quote": "Zalthir\u2014oh, Zalthir, the quiet, scaly one, his mind is usually like a still, cool pond, you know? But he just decided\u2014no more light!",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir's thoughts were sharp and cold, like little shards of ice.",
+    "source_quote": "His thoughts weren't shouting like the others. They were sharp and cold, like little shards of ice.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir, the quiet, scaly one, his mind is usually like a still, cool pond, you know? But he just decided\u2014no more light! *FWOOMP.* And the whole world went psychically gray and muffled!",
+    "source_quote": "Zalthir\u2014oh, Zalthir, the quiet, scaly one, his mind is usually like a still, cool pond, you know? But he just decided\u2014no more light! *FWOOMP.* And the whole world went psychically gray and muffled!",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Pelek's failed psychic intrusion into the thief",
+    "fact": "Pelek tried to get in the thief's head! It was like trying to pour hot tea and cold water into the same cup, all sizzle and steam and wrongness!",
+    "source_quote": "And the poor ghost, Pelek, he tried to get in the thief's head! It was like trying to pour hot tea and cold water into the same cup, all sizzle and steam and wrongness!",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "the egg",
+    "fact": "He grabbed the egg and *poofed* away!",
+    "source_quote": "He grabbed the egg and *poofed* away!",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "The Egg",
+    "fact": "The egg is a critical artifact that triggered the battle\u2019s collapse. Its removal caused a psychic tsunami of panic among the derro. Daz the wizard seized it and vanished, making it the focal point of the entire conflict.",
+    "source_quote": "Get it, get it, get it, get out!",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "the egg",
+    "fact": "The egg is a mysterious, highly significant object that triggered a psychic collapse among the derro when stolen. It radiated intense anxiety in Daz's mind and was the focal point of the battle's endgame.",
+    "source_quote": "\"Get it, get it, get it, get out!\" his thoughts screamed. He grabbed the egg and *poofed* away! ... And all the other derro felt it at once! Their minds exploded in a chorus of \"WHERE IS THE EGG?!\"",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "the thief-derro",
+    "fact": "Zalthir... grabbed the thief-derro! The thief's surprise was a sharp, lemon-zest tang of 'What-?!'",
+    "source_quote": "Zalthir... grabbed the thief-derro! The thief's surprise was a sharp, lemon-zest tang of 'What-?!'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Maximilian's Earthen Grasp",
+    "fact": "Daz invoked 'Maximilian's Earthen Grasp' as a spell or psychic command that caused the earth to seize and crush a flying monster. The origin, nature, and full capability of this ability are unknown, but it is clearly potent and precise.",
+    "source_quote": "Maximilian's Earthen Grasp.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Plinki's origin",
+    "fact": "Plinki's obsession with sacrifice and power is clear, but her history or source of this belief is not specified.",
+    "source_quote": "Plinki, her mind was just a screeching, red mess of \"Sacrifice! Power! For the Big Baboon Demon!\"",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Big Baboon Demon",
+    "fact": "Plinki\u2019s obsession with the 'Big Baboon Demon' suggests a deeper cultic influence at play. Its presence is not physical but psychic \u2014 a source of fanaticism, sacrifice, and red-mess aggression. Its nature and origin remain unknown.",
+    "source_quote": "For the Big Baboon Demon!",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The egg's nature",
+    "fact": "The egg is a focal point of intense desire and panic, but its origin, purpose, or contents are not revealed.",
+    "source_quote": "\"Get it, get it, get it, get out!\" his thoughts screamed. He grabbed the egg and *poofed* away!",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "the nature of the egg",
+    "fact": "The egg's origin, purpose, and why it triggered such extreme psychic reactions remain unknown. Its theft and the wizard's reaction suggest it holds immense, possibly magical or sentient power.",
+    "source_quote": "\"Get it, get it, get it, get out!\" his thoughts screamed. ... A psychic tsunami of panic erupted among the derro.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "the origin of the floating eye-things",
+    "fact": "The identity and origin of the floating eye-things are unexplained. Their psychic signature (curdled milk, mindflayer static) suggests a connection to aberrant or extraplanar forces.",
+    "source_quote": "It's mind tasted like curdled milk and mindflayer static!",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Zalthir's motive",
+    "fact": "Zalthir's internal logic is precise and unemotional, but the reason for his relentless efficiency is not explained.",
+    "source_quote": "He never wasted a thought, never wasted a move. So efficient!",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Zalthir\u2019s Motive",
+    "fact": "Zalthir\u2019s actions suggest a deeper, unspoken agenda \u2014 he targets leaders and threats with surgical precision, avoids emotional displays, and operates with chilling efficiency. His final thought \u2014 'This one is the most dangerous. Their skill is a threat.' \u2014 implies he is eliminating key combatants to achieve a hidden goal.",
+    "source_quote": "This one is the most dangerous. Their skill is a threat.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Zalthir's psychic voice",
+    "fact": "Zalthir's thoughts manifest as physical sensations \u2014 roaring fire, cold shards, agonizing heat \u2014 suggesting his mind may be capable of projecting raw psychic energy, not just thinking.",
+    "source_quote": "He opened his mouth and the thought turned into ROARING-HOT-AGONY-FIRE! ... His thoughts were sharp and cold, like little shards of ice.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Zalthir's true motive",
+    "fact": "Zalthir's cold efficiency and singular focus on eliminating Plinki and neutralizing threats suggest a deeper, unspoken agenda \u2014 perhaps not merely tactical, but ideological or personal.",
+    "source_quote": "He thought, \"The leader is the lynchpin. Neutralize Plinki.\" ... He never wasted a thought, never wasted a move. So efficient!",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  }
+]

@@ -1,0 +1,415 @@
+[
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm is the spiritual and administrative leader of Candlekeep, overseeing the investigation into the murders; she offered Deneir's Sanctum as the investigators' office and assigned Fembris Lancer and Vooshadi Moonriver to assist, but her intense, unstated preference for focusing on Sylvira Savikas raises suspicion about her own involvement or agenda.",
+    "source_quote": "Was there nobody that you wished to start your investigation with?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kei Tigersteel",
+    "fact": "Kei Tigersteel is the Lorekeeper of Candlekeep and priest of the Temple of Oghma, described as the library's spiritual leader; he was in confidential conference with Bookwyrm and later instructed to take the victim\u2019s body to the Shrine of Oghma for purification.",
+    "source_quote": "yes, Kei, you can take the body to the Shrine of Oghma for purification.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Fheminor Scrivenbark",
+    "fact": "Fheminor Scrivenbark is a dowdy halfling scholar who appears in the investigators\u2019 notes with no recorded entry, suggesting tampering or omission; he was reportedly beaten before death and may hold critical insight into the crime.",
+    "source_quote": "There's no name on that entry. It just says, Fheminor Scrivenbark.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sylvira Savikas",
+    "fact": "Sylvira Savikas is a high-ranking figure in Candlekeep whose identity was impersonated by an unknown individual seen walking the halls at night with a lantern; Bookwyrm\u2019s unstated desire to direct the investigation toward her suggests Sylvira may be central to the truth \u2014 or a red herring.",
+    "source_quote": "Someone impersonating her... Yes. Yes.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch is a scholar who held one of two keys to the high towers; his claim that the corpse was unable to answer questions due to being sealed by the imposter is unverifiable and possibly false, making him a suspect with access to restricted areas.",
+    "source_quote": "Kalan said they'd put the question to the corpse, and that it didn't work.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daral",
+    "fact": "Daral is a scholar who questioned Sylvira Savikas\u2019s absence at the council meeting; the investigators dismissed him as a suspect due to the improbability of his involvement, despite his proximity to the central mystery.",
+    "source_quote": "Daral not even in it \u2014 he'd been at the Hearth, asking why isn't Sylvira Savikas here.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is an investigator who collected poison samples from the victim\u2019s fingers and lips, advocated for physical evidence over testimony, and assigned Daz to investigate Fheminor Scrivenbark\u2019s injuries and potential poisoning.",
+    "source_quote": "I'm happy to do the library research. Poison section, please.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is an investigator who took lead on interviewing low-visibility suspects like Fheminor Scrivenbark, raised the issue of the missing book fragment, and questioned the integrity of the office offered by Bookwyrm, suspecting surveillance.",
+    "source_quote": "There's a missing part of, like, a book that should not be missing\u2026 that could have happened a hundred years ago or something, but\u2026 seems suspicious.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is an investigator who obsessively cross-references facts, noticed the erased entry for Fheminor Scrivenbark in their own notes, and consistently voices skepticism about the generosity of Candlekeep\u2019s staff, suspecting hidden motives.",
+    "source_quote": "Our own notes had started lying to us. That felt about right for this place.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a giant-raised investigator who distrusts deception and favors blunt, physical evidence; he insists on sticking together as a group for intimidation, questions Bookwyrm\u2019s timeline, and refuses to name suspects until verified.",
+    "source_quote": "We refuse to comment on ongoing.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Council of the Great Readers",
+    "fact": "The Council of the Great Readers has dispersed following the murders; members including A'lai Aivenmore, Kazryn Nyantani, and Alkrist are vying for control, demanding leadership changes and accountability, but none have been formally appointed.",
+    "source_quote": "A'lai Aivenmore wanting a vote and new leadership... Kazryn Nyantani... cutting through with first you must find the murderer.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Deneir's Sanctum",
+    "fact": "Deneir's Sanctum is a shrine and library dedicated to the art of writing, offered by Bookwyrm as the investigators' office; its apparent generosity is suspected to mask surveillance, as the room\u2019s privacy cannot be confirmed and tools for reading through walls fail inside it.",
+    "source_quote": "It's nice and all to offer up that we can use the office... but it's also a little suspect.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is a vast, labyrinthine library-fortress where scholars live and work; its complexity makes navigation difficult without guides, and its culture of secrecy, deception, and intellectual rivalry enables crimes to be concealed.",
+    "source_quote": "The library is very easy to get lost in.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Tower Key",
+    "fact": "Two keys grant access to Candlekeep\u2019s high towers; one was held by the victim Janussi, the other by Kalan Strongbranch; the key\u2019s current location is unknown and may reveal who had access to the murder scene.",
+    "source_quote": "I'm more curious if he still has his other tower key.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Poison Sample",
+    "fact": "A sample of poison was collected from the victim\u2019s fingers and lips by Zalthir; it is the only physical evidence available, and its origin is unknown \u2014 potentially linked to the missing book fragment or the impersonation of Sylvira.",
+    "source_quote": "Off his fingers, and his lip too, Zalthir made sure of that.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Missing Book Fragment",
+    "fact": "A fragment of a book is missing \u2014 possibly removed a century ago \u2014 and is suspected to be connected to the murders; its absence suggests a hidden ritual, forbidden knowledge, or an ancient cover-up.",
+    "source_quote": "There's a missing part of, like, a book that should not be missing\u2026 that could have happened a hundred years ago or something, but\u2026 seems suspicious.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Impostor (False Devil-Lady)",
+    "fact": "An impostor wearing Sylvira Savikas\u2019s face was seen walking the halls at night with a lantern; this entity allegedly sealed the victim\u2019s mouth to prevent answering questions, though this claim is unverified and possibly fabricated by Kalan Strongbranch.",
+    "source_quote": "The imposter \u2014 the false devil-lady \u2014 supposedly did it first and locked the corpse's mouth shut for days.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Murder of Janussi",
+    "fact": "Janussi, a high-ranking scholar, was murdered by poison; his body was found in a sealed chamber, his mouth locked as if by supernatural means, and his tower key is missing; the murder triggered a power vacuum and an official investigation.",
+    "source_quote": "The whole pack of them, shouting over a body.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Discovery of Fabricated Notes",
+    "fact": "The investigators discovered that their own notes had been altered \u2014 the entry for Fheminor Scrivenbark was erased \u2014 indicating internal sabotage or magical tampering within Candlekeep\u2019s records.",
+    "source_quote": "Our own notes had started lying to us.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Bookwyrm\u2019s True Motives",
+    "fact": "Bookwyrm\u2019s intense, unspoken focus on Sylvira Savikas as the primary suspect suggests she may be attempting to divert attention from herself or another powerful figure; her offer of assistance may be a means of control.",
+    "source_quote": "She never said it. She didn't have to; the want came off her like heat off the smelters.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Impersonation of Sylvira",
+    "fact": "The identity of the person impersonating Sylvira Savikas remains unknown; the impersonator\u2019s nighttime movements with a lantern, combined with the locked corpse, suggest a ritualistic or magical purpose tied to forbidden knowledge.",
+    "source_quote": "Sylvira \u2014 or somebody wearing her face \u2014 had been walking the halls in the dead of night with a lantern.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Poison and the Missing Book",
+    "fact": "The poison used to kill Janussi may be derived from a forbidden text whose fragment is missing; the connection between the book and the poison could reveal an ancient heresy or a cult operating within Candlekeep.",
+    "source_quote": "Maybe that's from watching too much CSI, what do I know?",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Corpse\u2019s Silence",
+    "fact": "Kalan Strongbranch claims the corpse was prevented from answering questions \u2014 a claim that cannot be verified and may be a lie to conceal his own failure or involvement; the possibility that the corpse was never truly questioned remains a heretical doubt.",
+    "source_quote": "Whether the corpse was ever truly made to answer is hearsay.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Timeline of the murder",
+    "fact": "The murder occurred sometime before nine in the morning; Bookwyrm\u2019s whereabouts during that time are unaccounted for, and Fheminor Scrivenbark was beaten before death \u2014 possibly at eight \u2014 suggesting a sequence of events leading to the killing.",
+    "source_quote": "I also want to understand where Bookwyrm was before nine in the morning.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch was the keeper of the second High Tower key, which he transferred to someone else before vanishing; he believes he is at risk of being killed for the key and that its location must remain unknown; he was questioned about his movements and alibi, and admitted the tower is always watched, making unauthorized entry visible; he suspects the murderer is connected to the Great Readers and that Bookwyrm may be complicit in his removal from the case.",
+    "source_quote": "If I and I do not see you tomorrow, do not look for me at my post.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum researched poison and sapphire magic in the Flora Theca, identifying 'midnight tears' \u2014 a Feywild poison that kills at midnight and darkens on contact with saliva \u2014 and confirming that 'Sapphire' refers to a summoning spell capable of retrieving a hidden object; he deduced the murder weapon was a poisoned book read by Janussi, and that the sapphire spell could explain how the key was concealed and retrieved without physical possession.",
+    "source_quote": "You consume it, you're fine \u2014 apparently fine \u2014 and then you're dead at midnight.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz interrogated Daral Yashenti at the Hearth, where the suspect set the venue and displayed boisterous, drunken defiance; Daz noted the inversion of power in the encounter \u2014 the suspect choosing the ground \u2014 and observed Daral\u2019s dismissive attitude toward the investigation, suggesting possible obstruction or ignorance.",
+    "source_quote": "Oh, look, it's Faer\u00fbn's most famous detectives! Bookwyrm's brownnosers, I'm going to call you, because you like to\u2014",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin questioned Kalan about the High Tower\u2019s security, the nature of the key, and whether it had been compromised; he pushed for metaphysical explanations \u2014 including daylight savings and time zones \u2014 regarding the midnight poison; he accepted that the tower\u2019s constant surveillance rendered Kalan\u2019s access unverifiable; he later recognized the significance of the two-handed search pattern and the discrepancy between the locket-key and the safe-rifling.",
+    "source_quote": "The tower is watched. Always. People stand at it whether the key is in someone's pocket or not.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir confronted Kalan about the key\u2019s transfer, the murder\u2019s timing, and the possibility of deception; he challenged Kalan\u2019s assumption that the safe-rifling and the heart removal were committed by the same person, exposing a flaw in the theory; he obtained confirmation that Kalan could perform truth-detection magic if needed; he revealed new information about a shapeshifter impersonating Sylvira Savikas, which stunned Kalan and shifted the investigation\u2019s direction.",
+    "source_quote": "Is he aware that someone was pretending to be Sylvira Savikas the night of the murder?",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Great Readers",
+    "fact": "The Great Readers are a powerful, secretive group within the magical hierarchy; Kalan suspects one of them is the murderer and believes Bookwyrm may be protecting them or has been coerced into removing him from the case; their influence extends to manipulating investigations and eliminating inconvenient investigators.",
+    "source_quote": "I believe you're only being employed so you're likely to bungle the case, or else be silent if you do happen upon the right scent.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm is a high-ranking authority who has officially barred Kalan from the investigation; her motives are unclear, but Kalan suspects she is either protecting the murderer or has been manipulated into sidelining him; Zalthir and Thorin consider her role central to the conspiracy, possibly as a puppet or a participant.",
+    "source_quote": "Bookwyrm had made it official that he was to be nowhere near it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Janussi's murder",
+    "fact": "Janussi was killed by ingestion of 'midnight tears,' a Feywild poison that activates at midnight; the poison was administered via a book he licked his fingers to turn, leaving blackened lips and fingers; his heart was removed post-mortem to prevent resurrection; the key to the High Tower was hidden in a locket around his neck, which was stolen; two individuals searched the apartment \u2014 one who knew the key\u2019s location, one who did not and rifled the safe.",
+    "source_quote": "The heart was gone. Two people had stood over him \u2014 one who knew exactly where the locket-key hid, and one who didn't and tore through the safe instead.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "High Tower key transfer",
+    "fact": "Kalan transferred the second High Tower key to an unknown individual shortly before vanishing; he insists the key is no longer in his possession and that its location must remain secret; the key is believed to be retrievable via a summoning spell tied to a sapphire, allowing it to be hidden anywhere and recalled on demand.",
+    "source_quote": "I have given it now to someone who is not me.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "High Tower",
+    "fact": "The High Tower is the entrance to a cache of super-magical artifacts coveted by all evil entities in the world; it is perpetually watched by unseen sentinels, making unauthorized entry detectable regardless of key possession; it contains the High Tower Library, where critical research on the murder was conducted.",
+    "source_quote": "The High Tower, Kalan told us, was the entrance to all of the super magical artifacts that every evil entity in the entire world would love.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Flora Theca",
+    "fact": "The Flora Theca is a subsection of the Great Library\u2019s Pavilion Naturalis, dedicated to plants, herbs, and fungi; it was here that Grygum discovered the source of 'midnight tears' and confirmed the sapphire summoning spell; the location\u2019s quiet, scholarly atmosphere contrasted sharply with the violence of the crime under investigation.",
+    "source_quote": "Poison is just botany with intent.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Midnight tears",
+    "fact": "Midnight tears is a pale ochre, highly toxic dust derived from Feywild pollen; it is inert until midnight, at which point it kills the victim; it darkens upon contact with saliva, indicating ingestion via licked fingers; it is extremely rare, accessible only to those with Feywild connections.",
+    "source_quote": "The black stuff, yes, we saw that.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Sapphire summoning spell",
+    "fact": "A rare arcane working that allows the caster to summon a specific object into their hand from anywhere it has been hidden; requires a very expensive sapphire as a focus; does not function on objects worn, only carried; enables concealment of the High Tower key by storing it in a distant, inaccessible location and retrieving it only at the moment of use.",
+    "source_quote": "This would be great for the High Tower Keys.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Locket-key",
+    "fact": "The High Tower key was stored inside a locket worn around Janussi\u2019s neck; the locket was stolen after the murder, removing the only physical proof of the key\u2019s location; Kalan demonstrated a similar locket to prove the method of concealment, but his version was empty, casting doubt on his story.",
+    "source_quote": "The locket was missing. The key was in the missing locket.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Shapeshifter",
+    "fact": "A creature capable of assuming the form of others \u2014 specifically, someone impersonated Sylvira Savikas on the night of the murder; Zalthir revealed this to Kalan, who was unaware; the shapeshifter\u2019s involvement suggests the conspiracy is deeper and more dangerous than initially believed.",
+    "source_quote": "Keep in mind there are people who can change their form. Shapeshift. Whatever you want to call it.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Who is the real killer?",
+    "fact": "The true murderer is unknown; two suspects have emerged: one who knew the locket\u2019s location and stole it, and another who rifled the safe; Kalan suspects a Great Reader, but Zalthir and Grygum have evidence that the safe-rifling may have been a decoy; the removal of the heart and use of Feywild poison suggest a ritualistic or magically sophisticated killer.",
+    "source_quote": "Two hands had searched that apartment \u2014 one that knew exactly where to look, one that didn't.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Bookwyrm\u2019s true allegiance",
+    "fact": "Bookwyrm\u2019s role in the investigation is ambiguous; she may be protecting the murderer, being manipulated by them, or acting to contain a greater threat; Kalan believes she ordered his removal to silence him; Zalthir suspects she is part of the conspiracy, and the team\u2019s employment may be a cover to mislead the real investigators.",
+    "source_quote": "You're only being employed so you're likely to bungle the case.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "night of the murder",
+    "fact": "The murder occurred on the night of the incident, with Janussi consuming the poison during the day and dying at midnight; Kalan\u2019s timeline places him at the Chamber of Lost Lore, visiting Sylvira Savikas at quarter-past-ten, and inspecting the High Tower before the murder; the impersonation of Sylvira Savikas occurred during this window.",
+    "source_quote": "The quarter-past-ten visit to Sylvira Savikas over some cosmological question.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "eight o'clock meeting",
+    "fact": "Kalan met with Janussi at eight o'clock to request additional watchers, and was refused; this refusal may have triggered the murder, as Janussi was aware of security vulnerabilities; the timing suggests the killer acted within hours of this confrontation.",
+    "source_quote": "The eight o'clock meeting where he'd pressed Janussi for more watchers and been refused.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daral Yashenti",
+    "fact": "Daral Yashenti is a former keeper of the tomes who assaulted his superior, was not executed but merely fired, and now exhibits relief-induced euphoria. He gave the poisoned book to Janussi as a symbolic gesture, later became enraged upon seeing Janussi read it, and may have been the one licking its pages \u2014 the method of poison transfer. He deflects blame onto others and claims intoxication and confusion.",
+    "source_quote": "I was drugged. I was upset. I don't know what I was thinking.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi was the former keeper of the tomes, replaced by Daral. He was perceived as uneducated, a bookseller who wanted to sell priceless poetry to fund a worthless tome about demonic planes. He was poisoned by licking the pages of a book Daral had given him as a lesson \u2014 the poison transferred via finger contact. He was killed, not by violence, but by ingestion.",
+    "source_quote": "That's \u2014 Sylvira.\" \"Just to please his horned tart.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is the lead interrogator who methodically dismantles Daral\u2019s narratives using contradiction, psychological pressure, and forensic logic. He identifies the book as the vector of poison and confronts Daral with the physical evidence \u2014 the finger-wiping pattern. He maintains control of the interrogation and insists on evidence collection.",
+    "source_quote": "We did want to take it into evidence.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a former shadow monk who has been permanently bonded to Glabbagool, an ooze entity. He lacks understanding of silent communication and was absent during the class where Glabbagool\u2019s wisdom was taught. He is emotionally detached, pragmatic, and reacts with excitement to his new abilities, despite his ignorance of deeper philosophical contexts.",
+    "source_quote": "I liked it.\" \"This is exciting.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is an ooze entity who has bonded with Zalthir, becoming a sentient, mobile companion. He possesses the ability to teleport in darkness, deliver acidic strikes, and dissolve targets via corrosive embrace. He is calm, deliberate, and philosophically insightful \u2014 having mastered the lesson of stillness that Zalthir missed. He prioritizes housekeeping, reminding Zalthir to monitor the drow in the bag of holding.",
+    "source_quote": "The body that mimics nothing is already shaped by what it watches.\" \"We ride.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "The Keepers of the Tomes",
+    "fact": "The Keepers of the Tomes are an institutional hierarchy that values scholarly integrity and forbids the sale of sacred texts. Violations \u2014 such as attempting to sell poetry for demonic treatises \u2014 are met with severe punishment, but Daral\u2019s case suggests inconsistency or leniency in enforcement. The position of keeper is highly contested, with multiple aspirants vying for power.",
+    "source_quote": "An uneducated bookseller is what he is.\" \"May the gods bless whoever bumped him off.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "The Whispering Dome",
+    "fact": "The Whispering Dome is a sacred space where supplicants undergo silent, introspective trials to gain self-knowledge. It values stillness, non-verbal understanding, and philosophical insight. The monks there recognize wisdom in silence and punish ignorance of its lessons \u2014 as Zalthir\u2019s absence during the silent communication class demonstrates.",
+    "source_quote": "What is the art of movement.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "poisoning of Janussi",
+    "fact": "Janussi was poisoned via a book that had been licked by Daral Yashenti, whose finger carried the toxin from repeated page-turning. The poison was not administered by violence but by subtle, ritualistic contact \u2014 a method that implicates the victim\u2019s own engagement with the object of affection and anger. The act was deliberate, concealed, and tied to emotional conflict.",
+    "source_quote": "The book had been in his collection for years... he wet his finger and began flicking through the pages.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "bonding of Zalthir and Glabbagool",
+    "fact": "Zalthir and Glabbagool formed a permanent, symbiotic bond within the Whispering Dome. Glabbagool chose Zalthir not by force but by silent alignment, settling on his arm like a natural extension. The bond grants Glabbagool mobility and Zalthir enhanced combat abilities, including teleportation, acidic strikes, and dissolution via corrosive embrace. The event marks Zalthir\u2019s transformation from a negligent student to a vessel of unlearned wisdom.",
+    "source_quote": "Glabbagool and Zalthir, together now.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "The Hearth",
+    "fact": "The Hearth is a tavern and interrogation site where Daral Yashenti was questioned. It is a place of casual speech, alcohol, and performative camaraderie \u2014 used by Thorin to exploit Daral\u2019s comfort in social settings. The environment contrasts with the gravity of the crime, allowing Daral to speak freely and reveal contradictions through his tone and habits.",
+    "source_quote": "Barman, a brown of spice brandies for our beloved brownnosers.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Whispering Dome",
+    "fact": "The Whispering Dome is a silent, dimly lit chamber where spiritual trials occur. It is a place of stillness and introspection, where answers are not spoken but revealed through silence. It is where Glabbagool demonstrated profound understanding of movement and where Zalthir failed to comprehend the lesson he had missed \u2014 a failure that now defines his bond with the ooze.",
+    "source_quote": "Quiet. Low light pooling under the curve of the ceiling.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "the poisoned book",
+    "fact": "The poisoned book was a personal favorite of Daral Yashenti, given to Janussi as a symbolic lesson on the value of sacred texts. It became the vector of death when Daral licked its pages during emotional turmoil, transferring poison through finger contact. It was later used by Daral to distract and mislead investigators, and it was seized as evidence by Thorin.",
+    "source_quote": "He wet his finger and began flicking through the pages.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "the bag of holding",
+    "fact": "The bag of holding contains captured drow, whose monitoring is a responsibility Glabbagool insists upon even in the moment of his own transformation. It represents unresolved threats and the continuity of duty \u2014 a reminder that even in transcendence, obligations remain. It is a key element in Glabbagool\u2019s pragmatic nature.",
+    "source_quote": "The drow in the bag of holding still needed watching.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the identity of the poisoner",
+    "fact": "The thread of who poisoned Janussi remains formally unresolved, but all evidence points to Daral Yashenti \u2014 the only person who consistently handled the book with his fingers, expressed rage over its contents, and exhibited the physical behavior (licking pages) that enabled transfer. His alibi of intoxication and his deflection toward others are narrative tactics, not proof of innocence.",
+    "source_quote": "The dead poisoner is the innocent one.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Zalthir\u2019s missed lesson",
+    "fact": "The thread of Zalthir\u2019s ignorance regarding silent communication remains unaddressed. Glabbagool mastered the lesson Zalthir slept through \u2014 a failure that now defines their bond. The implication is that Zalthir\u2019s growth as a shadow monk is incomplete, and his new powers are built on a foundation he never learned \u2014 a vulnerability disguised as strength.",
+    "source_quote": "That, apparently, had been the day I was sleeping.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "midnight deadline",
+    "fact": "Daral Yashenti is to be held under surveillance until midnight, when a cleric and a sword capable of drawing poison will be brought to his side. If he dies after that hour, it will be interpreted as evidence that he was the poisoner \u2014 the poison was meant to kill only if he were innocent. The timing is a ritualistic test of guilt.",
+    "source_quote": "We'd keep Daral close until midnight.",
+    "quote_verified": false
+  }
+]

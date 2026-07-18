@@ -17,3 +17,18 @@ Concept referring to Hsing's significant authority over the party. Central to th
 ## Notes
 - Hsing's authority over the party.
 - Central to Hsing's role and strategy.
+
+## Related
+
+- [[narrative-universe]]
+- [[seer]]
+- [[mental-death-imagery]]
+- [[spymaster]]
+- [[strategic-importance]]
+- [[intelligence]]
+- [[region]]
+- [[payment]]
+- [[patron-adjacent-figure]]
+- [[loyalty]]
+- [[secret-organization]]
+- [[mission]]

@@ -1,0 +1,121 @@
+[
+  {
+    "type": "npc",
+    "subject": "Hemeth",
+    "fact": "Hemeth is reading Zalthir\u2019s mind and suggests taking the boat from the Kuo-Toans, recalling a near-sacrifice while selling them weapons.",
+    "source_quote": "Maybe we take that boat from them? Like the last time I talked to Kuo-Toans, I almost got sacrificed. I was just trying to sell them weapons. I didn\u2019t think they would think sacrificing me was a weapon. Crazy fish people.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Shuushar",
+    "fact": "Shuushar has decided that talking with more Kuo-Toans is the right course of action and is visibly excited, appearing so to Zalthir.",
+    "source_quote": "Talking with more Kuotoans is the right answer. Shuushar is very excited; at least, it would appear to Zalthir, Shuushar\u2019s excited.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir steps back and prepares to attack, anticipating potential danger.",
+    "source_quote": "Zalthir steps back and gets ready to attack, just in case.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Awakened",
+    "fact": "The Awakened shouts out to his kinsmen, rallying them as the group prepares to depart.",
+    "source_quote": "The Awakened shouts out to his kinsmen.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kuo-Toan Companion",
+    "fact": "The Kuo-Toan companion reveals they are from Sloobludop, have witnessed the madness of their kind, and seek to create a better Kuo-Toan world free from divine-driven insanity.",
+    "source_quote": "They are from Sloobludop and have seen the danger of the Kuo-Toan madness. And they are receptive to my message! They want to create a better Kuo-Toan world where we are no longer driven mad by our need to create a new god! I have found my calling! And I must leave you!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin interrupts Zalthir\u2019s concern about Shuushar\u2019s insight into the Darklake map and urges, 'Follow your bliss!'",
+    "source_quote": "Follow your bliss!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Shuushar",
+    "fact": "Shuushar turns to his fellow escapees and thanks them, declaring he has found his people and will build a better world.",
+    "source_quote": "I have found my people, and we will build a better world!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin gives Zalthir a tearful hug during the farewell.",
+    "source_quote": "the tearful goodbye of Thorin, who is giving him a hug",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum spits into the lake as part of the group\u2019s farewell ritual.",
+    "source_quote": "Grygum spitting into the lake",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz looks indifferent during the emotional farewell.",
+    "source_quote": "Daz looking indifferent",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Shuushar",
+    "fact": "Shuushar says 'thank you!' as the other Kuo-Toan boat floats away.",
+    "source_quote": "Shuushar says thank you!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith murmurs doubt about following Shuushar\u2019s instructions, unsure he can execute them correctly.",
+    "source_quote": "Erm, guys, I have Shuushar\u2019s instructions, but I am not so sure I can follow them correctly.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Kuo-Toans",
+    "fact": "The Kuo-Toans are a collective known for madness driven by divine imperative, with factions seeking to escape or reform their destructive cycle.",
+    "source_quote": "They are from Sloobludop and have seen the danger of the Kuo-Toan madness... driven mad by our need to create a new god!",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Dark Lake",
+    "fact": "The Dark Lake is a significant location where farewells occur, and where Shuushar\u2019s instructions are to be followed.",
+    "source_quote": "As they stare into the Dark Lake, Sarith mutters...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Shuushar\u2019s Instructions",
+    "fact": "Shuushar\u2019s instructions remain ambiguous and potentially unexecutable, casting doubt on the group\u2019s next steps.",
+    "source_quote": "I have Shuushar\u2019s instructions, but I am not so sure I can follow them correctly.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Kuo-Toan Boat",
+    "fact": "A Kuo-Toan boat floats away as the group departs, symbolizing transition and departure from their former path.",
+    "source_quote": "As the other Kuo-Toan boat floats off, Shuushar says thank you!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Farewell at Dark Lake",
+    "fact": "A collective farewell occurs at the Dark Lake, marked by emotional gestures, indifference, and the departure of a Kuo-Toan companion.",
+    "source_quote": "Zalthir stands off as he watches the tearful goodbye of Thorin, who is giving him a hug, Grygum spitting into the lake, and Daz looking indifferent.",
+    "quote_verified": true
+  }
+]

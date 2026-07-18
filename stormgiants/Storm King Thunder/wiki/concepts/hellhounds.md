@@ -11,4 +11,9 @@ sources: ["duke_zalto.md"]
 Hellhounds are magical creatures used by Duke Zalto. They symbolize his cruelty and power, reflecting his willingness to employ violence and fear to achieve his goals.
 
 ## Related Pages
-- [[dungeon-ironslag]]
+- [[king-hekaton]]
+- [[legend]]
+- [[lore]]
+- [[vonindod]]
+- [[technology]]
+- [[ironslag]]

@@ -47,7 +47,7 @@ related: []
 - **Strength of Evidence:** Moderate. The Fire Giant's actions and the tools she uses provide clear evidence of her mission, but her identity and the exact location of the Vonindod fragment remain undisclosed.
 
 ### Connections to Existing Wiki
-- **Existing Pages:** [[Duke Zalto]], [[Vonindod]], [[Fire Giants]]
+- **Existing Pages:** [[duke-zalto]], [[Vonindod]], [[force-grey-2026-06-06-063448]]
 - **Impact:** The source adds details about the Fire Giant's mission and her relationship with Duke Zalto, potentially enriching the narrative universe. It also introduces new elements like the divining rod, which might require updating or creating new pages.
 
 ### Contradictions & Tensions
@@ -55,7 +55,11 @@ related: []
 - **External Conflict:** Her mission conflicts with the party's interests, as she is not a direct threat but remains a potential ally or enemy depending on her actions.
 
 ### Recommendations
-- **Create or Update Pages:** [[The Fire Giant (Evermoors)]], [[Vonindod]], [[Divining Rod]], [[Duke Zalto]]
+- **Create or Update Pages:** [[the_fire_giant_evermoors]], [[Vonindod]], [[force-grey-2026-06-06-063448]], [[duke-zalto]]
 - **Emphasize:** The Fire Giant's role as a servant of Duke Zalto and her specific mission.
 - **De-emphasize:** Specific details about her relationships with the trolls or the exact location of the Vonindod fragment.
 - **Open Question:** Should the party attempt to gather more information about the Fire Giant's status within Duke Zalto's org
+
+## Related
+
+- [[the_wight_elquen]]

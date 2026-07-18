@@ -1,0 +1,100 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a disciplined and efficient combatant who neutralizes threats with surgical precision, as demonstrated when he grappled and stunned the drow spy without hesitation, establishing immediate control over the situation.",
+    "source_quote": "Zalthir had already ended the question of whether there would be a fight. There would not. The spy \u2014 drow, slight, female, exactly as advertised \u2014 was grappled and stunned, held in place with the kind of efficient finality that Zalthir brings to everything he considers a problem worth solving immediately.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a battle-hardened dwarf whose physical presence and blunt tactics often intimidate but rarely manipulate drow; his attempts at psychological pressure are ineffective yet reveal his unwavering honesty and lack of political subtlety.",
+    "source_quote": "He walked up and told her we could simply let her go \u2014 report her failure to her matron, 'let them know how pathetic you are.' He said this with the confidence of someone who thought he was offering a fate worse than death.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum possesses an intuitive, almost mystical perception that cuts through social armor; his unexpected offer of employment and non-threatening presentation of prayer beads disarmed the drow spy more effectively than threats or violence.",
+    "source_quote": "Hey, are you looking for a new job? We could use another helper.\" and \"He didn't say anything particularly ominous. He just handed them to her and told her to put them on. No threat in his voice. No explanation of what they did.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a highly observant and psychologically astute drow who reads subtle behavioral cues \u2014 especially in drow social dynamics \u2014 and uses calm, precise interrogation to extract truth, often bypassing conventional methods through insight rather than force.",
+    "source_quote": "She wasn't watching the party. She was watching me. And working very, very hard to make it look like she wasn't.\" and \"So basically, you're treating me as bait. You're watching and observing so that when something happens to me, you can go report back what happened to me.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a creature with no conceptual framework for natural phenomena like birdsong, yet he attempts to emulate them with enthusiastic, unrecognizable results \u2014 his lack of understanding is so profound it becomes a form of unintentional comedy and philosophical disruption.",
+    "source_quote": "His impression of a bird was everything you'd expect from a creature that has never encountered a bird, never encountered the concept of sound being produced intentionally for communication purposes, and was working from approximately zero reference points.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "House T'sarran",
+    "fact": "House T'sarran is an ancient, stable drow house with two centuries of unchallenged rule; it operates with patience and long-term strategy, assigning agents to observe rather than attack, indicating a focus on intelligence gathering over immediate dominance.",
+    "source_quote": "My matron has ruled House T'sarran for two hundred years.\" and \"The matron mother was interested in you... We are looking for the one who paid to have you protected.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Drow Spy",
+    "fact": "The drow spy is a young, overburdened operative assigned to an unfamiliar and hostile surface environment; her training prevents open aggression, but her psychological resilience breaks under non-threatening, alien stimuli \u2014 revealing her as a reluctant agent rather than a committed enemy.",
+    "source_quote": "I was just assigned to track you, not to engage.\" and \"She stared at him blankly. The stun was still doing its work; I'm not sure she'd fully processed the comment.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Surface Forest Near the Road",
+    "fact": "The surface forest is a disorienting, overbright environment for drow, where natural sounds and daylight act as psychological weapons; its openness and unfamiliarity expose the spy's vulnerability and undermine her training.",
+    "source_quote": "The overbright that was already making her eyes ache.\" and \"Months in the Underdark will calibrate your instincts. You learn to notice the shape of a threat before you can name it.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Prayer Beads",
+    "fact": "The prayer beads are an artifact of an alien faith, wielded not as a weapon but as an instrument of psychological disruption; their unknown function and presentation by a half-orc cleric shattered the drow spy\u2019s mental defenses more effectively than any threat.",
+    "source_quote": "Grygum held out the prayer beads... She looked at a half-orc cleric holding out holy symbols of a deity she knew nothing about... That slipped right past every prepared defense.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Patron Who Paid for Daz's Protection",
+    "fact": "An unknown patron paid to protect Daz, triggering House T'sarran\u2019s long-term surveillance operation; this revelation suggests a hidden political or magical debt that predates Daz\u2019s return to the surface and may involve powerful forces beyond the Underdark.",
+    "source_quote": "We are looking for the one who paid to have you protected.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Surface Encounter Timeline",
+    "fact": "The events occurred during daylight hours on the surface, following months of underground travel and recent emergence from Blingdenstone; the timing is critical as it marks the first time Daz has been exposed to open daylight since leaving Menzoberranzan.",
+    "source_quote": "I've been away from home for a while.\" and \"conducting interrogations in full sunlight while running on whatever sleep we'd managed in Blingdenstone.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Drow Spy Interrogation",
+    "fact": "The interrogation succeeded not through force or fear, but through psychological misdirection, non-threatening offers, and the introduction of the unknown \u2014 Grygum\u2019s employment proposal and the prayer beads triggered the spy\u2019s collapse, revealing critical intelligence about House T'sarran\u2019s motives.",
+    "source_quote": "She talked.\" and \"The beads were the thing that actually broke through the professional armor.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Daz's Identity as a Target",
+    "fact": "Daz is not merely being followed \u2014 he is being used as bait to draw out the patron who protected him; this implies he carries a hidden significance or debt that even his own people in House T'sarran do not fully understand, suggesting a deeper, possibly divine or arcane, origin to his past.",
+    "source_quote": "My matron believes that the one who paid \u2014 for him \u2014 will reveal themselves once he reaches the surface.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a drow who has lived away from Menzoberranzan long enough to lose his social fluency in the city, yet retains the deep, instinctual reading of drow behavior \u2014 making him uniquely vulnerable and uniquely perceptive in this encounter.",
+    "source_quote": "You realize how absurd that sounds?\" and \"I'm drow, but I've been underground for a while.",
+    "quote_verified": false
+  }
+]

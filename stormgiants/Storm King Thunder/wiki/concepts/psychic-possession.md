@@ -17,6 +17,8 @@ Central Phenomenon
 - Imberu's involvement in this attempt is significant, as it highlights his role in the ritual circles and his interactions with key individuals.
 
 ## Related Entities
+- [[imberu]]
+- [[ritual-circles]]
 - **Imberu:** Participated in the psychic possession attempt
 - **Kartha-Kaya:** Leader of the ritual circles
 - **Thistle:** Held Imberu's right hand during the ritual circles

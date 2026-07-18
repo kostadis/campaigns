@@ -4,12 +4,12 @@ title: Horia Stonetallow
 created: 2025-05-22
 updated: 2026-05-27
 tags: [dwarf, miner, npc, negotiator, clan-liaison, colleague, witness, pragmatic, mine-representative, contractarian]
-related: ["dwolin-the-grout", "stonetallow-clan", "valphine", "vukradin", "brewbarry", "zeleen-varnaster", "mountain-s-toe-gold-mine", "skill-despite-superstition", "tolerated-eccentricity-in-labor-hierarchies", "contractual-integrity", "pragmatic-workarounds", "contractual-morality", "pragmatic-integrity", "engineering-heritage-as-identity"]
+related: ["dwolin-the-grout", "stonetallow-clan", "valphine", "vukradin", "brewbarry", "zeleen-varnaster", "mountain-toe-gold-mine", "skill-despite-superstition", "tolerated-eccentricity-in-labor-hierarchies", "contractual-integrity", "pragmatic-workarounds", "pragmatic-integrity", "engineering-heritage-as-identity"]
 sources: ["dwolin_the_grout.md", "horia_stonetallow.md", "npcs/dwolin_the_grout.md", "npcs/horia_stonetallow.md"]
 ---
 # Horia Stonetallow
 
-Horia Stonetallow is a shield dwarf and clan liaison for the [[stonetallow-clan]], serving as the de facto leader of a five-member mining crew with a prior legal claim to the [[mountain-s-toe-gold-mine]]. She is a paragon of contractual morality and pragmatic integrity, embodying the cultural values of her ancestral lineage rooted in engineering mastery rather than combat or wealth.
+Horia Stonetallow is a shield dwarf and clan liaison for the [[stonetallow-clan]], serving as the de facto leader of a five-member mining crew with a prior legal claim to the [[mountain-toe-gold-mine]]. She is a paragon of contractual morality and pragmatic integrity, embodying the cultural values of her ancestral lineage rooted in engineering mastery rather than combat or wealth.
 
 ## Personality and Philosophy
 
@@ -23,7 +23,7 @@ When faced with Dwolin’s superstition about needing a real Earthstone Gem, she
 
 ## History and Operations
 
-Horia’s crew holds a prior legal claim to the [[mountain-s-toe-gold-mine]] via a contract with the deceased don-jon-raskin. She revealed that don-jon-raskin’s attempt to replace skilled dwarven labor with "cheap" wererat labor led to a fatal confrontation. 
+Horia’s crew holds a prior legal claim to the [[mountain-toe-gold-mine]] via a contract with the deceased don-jon-raskin. She revealed that don-jon-raskin’s attempt to replace skilled dwarven labor with "cheap" wererat labor led to a fatal confrontation. 
 
 Currently, she manages a compromise arrangement where the dwarves handle mining while the wererats, represented by [[zeleen-varnaster]], handle labor and security. She accepted this arrangement only after a formal apology for past violence, demonstrating that process matters more than outcome. She estimates the mine’s earnings at approximately 100 gp per week.
 

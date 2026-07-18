@@ -10,3 +10,7 @@ sources: []
 # The Anchorite Half-Orc
 
 Source document detailing the encounter with a cleric of Talos during an orc raiding party ambush in the forest. Provides character details on the Anchorite's personality, religious devotion, and his interaction with [[valphine]].
+
+## Related
+
+- [[the_orc_scout]]

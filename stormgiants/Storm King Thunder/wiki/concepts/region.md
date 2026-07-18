@@ -16,3 +16,10 @@ Concept referring to the setting of the story. Central to the narrative and oper
 
 ## Notes
 - Central to the SEER's conflict and operations.
+
+## Related
+
+- [[spymaster]]
+- [[strategic-importance]]
+- [[secret-organization]]
+- [[regional-threat]]

@@ -4,7 +4,7 @@ title: Moral Contrast: Cleric vs. Contractarian
 created: 2026-06-15
 updated: 2026-06-15
 tags: [ideological-conflict, ethics, religion-vs-system, valphine, horia-stonetallow]
-related: [contractual-morality, anti-interventionism-druidic, valphine, horia-stonetallow, vukradin, lathander]
+related: ["contractual-integrity", "emerald-enclave", "valphine", "horia-stonetallow", "vukradin", "lathander"]
 sources: ["npcs/horia_stonetallow.md"]
 ---
 # Moral Contrast: Cleric vs. Contractarian
@@ -20,3 +20,7 @@ This is not a debate about right and wrong — it is a clash of epistemologies. 
 The tension is existential. If Valphine is right, Horia is complicit in a system of lies. If Horia is right, Valphine’s faith is dangerously naive — a luxury that enables predators. The party is forced to choose: do they side with the divine voice that says “reject the system,” or the human voice that says “fix it, one contract at a time”?
 
 This contrast is unique in the campaign: it is not between good and evil, but between two valid, deeply held moral frameworks — one rooted in the soul, the other in the structure. It is the quiet crisis at the heart of the Mountain’s Toe Gold Mine.
+
+## Related
+
+- [[contractual-integrity]]

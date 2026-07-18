@@ -1,0 +1,128 @@
+[
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is maintaining a fabricated identity as a Lolth-follower to Asha Vandree, a belief he has cultivated long enough to treat as consistent characterization rather than deception. He refuses to hide during combat, prioritizing participation over Nym Duskryn\u2019s contractual interests. He is aware of what he has lost, what Menzoberranzan made him, and what he now believes about slavery and freedom, but he allows Asha\u2019s belief to stand because it is load-bearing in this moment.",
+    "source_quote": "I have been maintaining a Lolth-follower identity with Asha Vandree for long enough that the fiction has its own momentum \u2014 you learn to stop thinking of it as lying and start thinking of it as consistent characterization.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Nym Duskryn",
+    "fact": "Nym Duskryn was contracted to extract Daz alive for payment. She views his actions as complicating her mission and expresses frustration through professional detachment. Her question \u2014 'Can I kill your brother?' \u2014 reveals a shift from exasperated professionalism to targeted pragmatism, redirecting her irritation toward an available tactical target.",
+    "source_quote": "Can you please keep your head down and out of combat? We only get paid if you live.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kaelira Duskryn",
+    "fact": "Kaelira Duskryn is Nym\u2019s partner in the extraction contract. She physically hauls Daz to safety through toxic gas, demonstrating urgency and enforcement of survival, but her actions are bound by the same transactional framework as Nym\u2019s. She does not question Daz\u2019s defiance \u2014 she acts on the imperative to deliver him alive.",
+    "source_quote": "Come with me if you want to live, you idiot.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Asha Vandree",
+    "fact": "Asha Vandree is a devoted follower of Lolth who immediately identifies Daz and his companions as potential traitors. Her rigid worldview contains a pre-established slot for 'Lolth-aligned drow who are here to help,' which Daz exploits. Her belief in this identity is not questioned \u2014 it is weaponized as a tactical necessity.",
+    "source_quote": "Who are you? You must be traitors! Traitors to Lolth!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum observes the unfolding situation with the steady, clear-eyed precision of a record-keeper. He notes that Asha\u2019s characterization of Daz as an 'insane mage who converted to Lolthism' accurately describes the fiction being maintained. His commentary is not emotional, but factual \u2014 he is documenting the lie as if it were data.",
+    "source_quote": "The situation was 'accurately described' by Asha's characterization of me as an insane mage who had converted to Lolthism.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Duskryn Sisters",
+    "fact": "The Duskryn sisters (Nym and Kaelira) operate as a contracted extraction unit under a mercenary arrangement to deliver Daz alive. Their loyalty is to the contract, not to Daz\u2019s cause. Their professionalism is undermined by his refusal to comply with their survival protocol, creating tension between contractual duty and tactical reality.",
+    "source_quote": "We only get paid if you live.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "T'sarran Soldiers",
+    "fact": "The T'sarran soldiers are elite drow reinforcements who accepted a contract to resolve a crisis but are now paralyzed by logistical failure \u2014 specifically, the absence of Dispel Magic. They are trained, armored, and numerically superior, yet they stall at the tunnel mouth debating tactics while environmental hazards and enemy magic escalate. Their failure is not heroic, but petty and bureaucratic.",
+    "source_quote": "I thought you said this was going to be an easy kill. And you don't have a Dispel Magic. So I have to go through this. I don't know what else to tell you.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Corrupted High Priestess",
+    "fact": "The corrupted high priestess is engaged in active combat with Thorin, Grygum, and Zalthir. She is a major threat, likely responsible for the field of biting insects and the influx of Drow reinforcements. Her presence defines the battlefield\u2019s lethality and the urgency of Daz\u2019s refusal to stand aside.",
+    "source_quote": "Thorin and Grygum and Zalthir are in active combat with a corrupted high priestess and a field of biting insects and what appears to be an inexhaustible supply of Drow reinforcements.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Biting Insects",
+    "fact": "A field of biting insects surrounds the battlefield, contributing to the lethal environment and impeding movement. They are part of the corrupted high priestess\u2019s domain, acting as a non-magical but persistent hazard that compounds the tactical challenges faced by all combatants.",
+    "source_quote": "Thorin and Grygum and Zalthir are in active combat with a corrupted high priestess and a field of biting insects...",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Drow Reinforcements",
+    "fact": "An inexhaustible supply of Drow reinforcements continues to emerge, overwhelming the battlefield\u2019s defenses. They are not merely additional combatants but a symbol of the enemy\u2019s resilience and the escalating stakes. Their presence justifies Daz\u2019s decision to remain in the fight \u2014 standing idle would be unacceptable.",
+    "source_quote": "...what appears to be an inexhaustible supply of Drow reinforcements.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "lightning bolt misfire",
+    "fact": "A mage launched a lightning bolt into the cavern with real commitment, but it struck only open air. The misfire represents wasted power and the chaotic unpredictability of combat under pressure, reinforcing the sense that even powerful magic is ineffective without precise targeting or situational awareness.",
+    "source_quote": "The mage launched a lightning bolt into the cavern with real commitment. It hit nothing. Just open air and ambition.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "contract viability",
+    "fact": "Nym Duskryn is calculating whether her contract is still viable, given Daz\u2019s refusal to comply with extraction protocol. Her question \u2014 'Can I kill your brother?' \u2014 signals a potential shift from extraction to termination, raising the question of whether Daz\u2019s survival is now incompatible with mission success.",
+    "source_quote": "Can I kill your brother?",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "identity as armor",
+    "fact": "Daz\u2019s fabricated identity as a Lolth-follower is not just deception \u2014 it is psychological armor, a strategic framework that allows him to navigate Asha\u2019s worldview. The thread remains unresolved: how long can this fiction hold before it fractures under pressure, and what happens when Asha discovers the truth?",
+    "source_quote": "I know what's real... But right now, in this cavern, Asha thinks I serve Lolth, and that belief is load-bearing.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "the cavern",
+    "fact": "The cavern is the central battleground where Daz, his allies, the Duskryn sisters, the T'sarran soldiers, and the corrupted high priestess converge. It is filled with toxic gas, biting insects, arcane flares, and the echoes of failed spells. Its environment is hostile, claustrophobic, and charged with tactical chaos.",
+    "source_quote": "She was hauling me northeast through the chittering wall of it while the poisonous gas did its work on both of us.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "the tunnel mouth",
+    "fact": "The tunnel mouth is the choke point where the T'sarran soldiers are stalled, debating tactics while the battle rages behind them. It symbolizes the failure of elite forces to adapt \u2014 they possess the tools but lack the flexibility to overcome a simple spell deficiency.",
+    "source_quote": "They were busy at the tunnel mouth having an argument that I can only describe as profoundly unhelpful given the circumstances.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "shield ward",
+    "fact": "Daz\u2019s shield ward activated reflexively before his conscious mind decided to cast it. This object represents the body\u2019s ingrained combat training \u2014 a mechanical reaction that saved his life. It is not magic he chose, but magic that chose him.",
+    "source_quote": "The first bolt hit my shield ward before I'd consciously decided to cast it.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "spell slot",
+    "fact": "The spell slot expended to activate the shield ward is a measurable cost \u2014 one resource traded for survival. It is a quiet but critical detail in the ledger of Daz\u2019s combat decisions, illustrating how every action in battle consumes finite capacity.",
+    "source_quote": "The cost was one spell slot. The benefit was that I was still standing.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session time",
+    "fact": "The events occur during an active combat session, marked by the passage of seconds \u2014 two seconds before Asha\u2019s accusation became catastrophic, moments of hesitation before Daz speaks his defiance. Time is measured not in hours or days, but in the urgency of reactions and the weight of unspoken choices.",
+    "source_quote": "There was a window of perhaps two seconds before this became catastrophic.",
+    "quote_verified": true
+  }
+]

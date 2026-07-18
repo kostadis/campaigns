@@ -1,8 +1,8 @@
 ---
 type: source
 title: "Source: gale_wonderbrow.md"
-created: 2026-05-13
-updated: 2026-05-13
+created: 2026-06-06
+updated: 2026-06-06
 sources: ["gale_wonderbrow.md"]
 tags: []
 related: []
@@ -10,33 +10,42 @@ related: []
 
 # Source: gale_wonderbrow.md
 
-### Key Entities
-- **Gale Wonderbrow**: Merchant, pragmatic dealmaker, athletic build, short hair, known for his jaw strength.
-- **Thistle**: Seelie Court member, used her abilities to organize a wedding for Gale.
-- **Laela**: Witness to Gale's violent encounter with brigands, nature of their relationship unknown.
+## Key Entities
 
-### Key Concepts
-- **Pragmatic Dealmaking**: Gale's approach to transactions.
-- **Eyewitness Account**: Gale's detailed account of Laela's violent encounter with brigands.
+*   **Gale Wonderbrow** (Person)
+    *   **Role:** Central to this specific source; he is the primary contact for information regarding Laela's past.
+    *   **Status:** New entity. Should be added to the wiki.
+*   **Thistle Wendrod** (Person)
+    *   **Role:** Central; she performed the "elaborate wedding" as part of a transaction with Gale.
+    *   **Status:** Already exists in the wiki.
+*   **Laela** (Entity/Person)
+    *   **Role:** Central; the subject of Gale's information. Her violent history is revealed through his testimony.
+    *   **Status:** Already exists in the wiki.
 
-### Main Arguments & Findings
-- Gale Wonderbrow agreed to share information about Laela in exchange for helping organize a wedding.
-- Gale provided a vivid eyewitness account of Laela single-handedly killing brigands surrounding a caravan, leaving only Laela and one terrified young man alive.
-- Gale's transactional relationship with Thistle indicates satisfaction with the exchange.
-- Gale's current status is last known to be in Mirabar, with no known active plans or operations.
-- Gale's hidden information includes his eyewitness account of Laela's violent encounter with the brigands.
+## Key Concepts
 
-### Connections to Existing Wiki
-- Gale Wonderbrow and Thistle's interaction could be linked to existing pages on merchant-client relationships and Seelie Court members.
-- The eyewitness account of Laela's encounter could connect to pages on notable events or encounters involving Laela.
+*   **Transactional Exchange**
+    *   **Definition:** A trade where information or services are exchanged for specific favors rather than currency.
+    *   **Significance:** Highlights Gale's role as a pragmatic merchant and Thistle’s use of her skills to fulfill contracts.
+    *   **Status:** Implicitly covered by existing "transaction-as-narrative-catalyst" logic, but specifically applied here to the wedding ceremony.
+*   **Eyewitness Account (Laela's Violence)**
+    *   **Definition:** The specific narrative of a fairy slaughtering brigands while leaving Laela and a young man alive.
+    *   **Significance:** Provides critical backstory for Laela’s character arc and the nature of her "savior" or "protector" role.
+    *   **Status:** New specific plot point; should be linked to [[laela]]'s page.
 
-### Contradictions & Tensions
-- No contradictions found within the provided information.
-- Gale's motivations and actions align with his described traits, suggesting no internal tensions.
+## Main Arguments & Findings
 
-### Recommendations
-- Create a page for Gale Wonderbrow detailing his background, physical description, and interactions with the party.
-- Link to pages on merchant-client relationships and Seelie Court members if relevant.
-- Consider linking to pages on notable events or encounters involving Laela.
-- Emphasize Gale's pragmatic approach and his role in providing crucial information about Laela.
-- Flag any potential discrepancies or further details that might emerge during deeper research.
+*   **Gale as a Reliable Source:** The text establishes Gale as a grounded, pragmatic merchant. He does not appear to have a "hidden agenda" or complex backstory beyond his role as a local businessman in Mirabar.
+*   **The Nature of Laela's Power:** The core finding is the revelation of Laela’s capabilities. The fact that she "single-handedly" slaughtered brigands suggests significant martial or magical prowess, contrasting with her current status as a captive/hybrid.
+*   **Evidence Strength:** High for Gale's personality (consistent with merchant tropes); Moderate for Laela's history (based on a single witness account).
+
+## Connections to Existing Wiki
+
+*   **[[laela]]**: This source provides the primary backstory for her "violent encounter" and clarifies her status as a fairy.
+*   **[[thistle-wendrod]]**: Confirms Thistle’s ability to perform complex social/ceremonial tasks (the wedding) as part of her role in the Seelie Court.
+*   **[[transaction-as-narrative-catalyst]]**: This interaction is a textbook example of this concept, where a mundane task (organizing a wedding) serves as the "payment" for critical plot information.
+
+## Contradictions & Tensions
+
+*   **The "Young Man":** The text mentions a "terrified young man" who survived alongside Laela. This character is not currently in the wiki and may represent a potential new NPC or a hidden connection to another existing entity (e.g., a member of the SEER or a local hero).
+*   **Gale's Lack of Agenda:** While the notes state he has "no evident larger agenda

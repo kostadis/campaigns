@@ -42,7 +42,7 @@ related: []
 - **Existing Pages**:
   - [[Parnast]] — Provides context for Naz's location and the broader conflict.
   - [[Kurglow]] — Offers insight into Naz's past relationship with Kurglow.
-  - [[orc whelps]] — Clarifies the group she was caring for.
+  - [[the-orc-scout]] — Clarifies the group she was caring for.
   - [[public humiliation]] — Explains the emotional state that drove Naz's transformation.
 - **Impact on Knowledge**:
   - These connections strengthen the narrative and provide additional context for Naz's character and motivations.
@@ -66,4 +66,8 @@ related: []
   - What is the full extent of her relationship with Kurglow?
   - What are her capabilities beyond the use of the guiding bolt?
 
-This analysis provides a structured breakdown of the key entities, concepts, arguments, and 
+This analysis provides a structured breakdown of the key entities, concepts, arguments, and
+
+## Related
+
+- [[the_cambian_second]]

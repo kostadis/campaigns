@@ -113,7 +113,7 @@ The Drow of Velkynvelve is now almost forgotten.
 
 
 “Stop,” she shouts. 
-She is standing in front of a cave covered with mushrooms. She shouts, “Tinmmasks.” 
+She is standing in front of a cave covered with mushrooms. She shouts, “Timmasks.” 
 Everyone looks closer and sees a field of squat toadstools growing to about two feet in width and height. They are grouped in clusters, with no more than four in a cluster. The mushroom has a beige-colored cap crossed with red and orange stripes.
 
 

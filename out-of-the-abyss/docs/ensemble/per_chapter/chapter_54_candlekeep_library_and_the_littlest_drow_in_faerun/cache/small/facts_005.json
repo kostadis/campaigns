@@ -1,0 +1,79 @@
+[
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a drow who has been away from home for a while, currently conducting an interrogation in full sunlight after minimal rest in Blingdenstone, and has recognized subtle drow social cues indicating he is being watched by the spy.",
+    "source_quote": "I'm drow, but I've been underground for a while.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Drow Spy",
+    "fact": "The drow spy was assigned to track Daz on the surface, not to engage, and was acting under orders from Matron Mother of House T'sarran to use him as bait to identify the person who paid for his release; she was trained in Menzoberranzan to mask her focus and was caught off guard by the offer of survival.",
+    "source_quote": "I was just assigned to track you, not to engage. My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Matron Mother of House T'sarran",
+    "fact": "The Matron Mother has ruled House T'sarran for two hundred years, representing old, patient power; she believes the person who paid for Daz's release will reveal themselves when he surfaces, and has deployed agents to observe him as bait.",
+    "source_quote": "My matron ruled House T'sarran for two hundred years.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "House T'sarran",
+    "fact": "House T'sarran is an ancient, stable drow house with two centuries of unchallenged rule, not currently in crisis; it operates with long-term strategy, using surveillance and psychological manipulation to identify hidden enemies.",
+    "source_quote": "The length of tenure alone told me something \u2014 not a house currently in crisis, not a young matron making aggressive plays to consolidate position.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Dwarf (Blingdenstone)",
+    "fact": "A dwarf from Blingdenstone stunned, grappled, shrunk, and laughed at the drow spy during her capture, contributing to her psychological disorientation and vulnerability.",
+    "source_quote": "after having been stunned and grappled and shrunk and laughed at by a dwarf",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Half-orc Cleric",
+    "fact": "A half-orc cleric offered holy symbols of an unknown deity to the drow spy, an alien religious act that bypassed her trained defenses and contributed to her psychological collapse.",
+    "source_quote": "She looked at a half-orc cleric holding out holy symbols of a deity she knew nothing about",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Prayer Beads",
+    "fact": "The prayer beads, handed to the drow spy by Grygum, were not explained but carried enough symbolic weight to break through her professional armor; they remain around her neck as a visible sign of her subjugation.",
+    "source_quote": "Then Grygum held out the prayer beads... He just handed them to her and told her to put them on.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Surface Field (Near Blingdenstone)",
+    "fact": "The interrogation took place on a surface field under intense sunlight, a hostile environment for the drow spy, which amplified her physical discomfort and psychological vulnerability.",
+    "source_quote": "in the overbright that was already making her eyes ache",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Drow Spy's Psychological Collapse",
+    "fact": "The drow spy's trained composure broke under the combination of a survival offer, alien religious ritual, and environmental stress, causing her to abandon her mission's deception and reveal strategic intelligence.",
+    "source_quote": "something in her assessment of the situation entirely reorganized itself. The beads were the thing that actually broke through the professional armor.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Identity of the Person Who Paid for Daz",
+    "fact": "The spy's matron believes the individual who paid for Daz's release will reveal themselves once he surfaces, making Daz a target of indirect surveillance; the true identity of this person remains unknown and is the central unresolved motive of the operation.",
+    "source_quote": "My matron believes that the one who paid \u2014 \" and here she pointed at me \u2014 \"for him, will reveal themselves once he reaches the surface.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Session Date",
+    "fact": "The events occurred during a session following Daz's return to the surface after time spent underground, with the group having recently rested in Blingdenstone.",
+    "source_quote": "after minimal rest in Blingdenstone",
+    "quote_verified": false
+  }
+]

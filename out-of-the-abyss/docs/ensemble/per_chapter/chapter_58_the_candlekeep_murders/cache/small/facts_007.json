@@ -1,0 +1,114 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a former student who missed the lesson on silent communication, now bonded with Glabbagool, a transformed shadow monk, and carries four eyes on his forearm that he considers part of himself.",
+    "source_quote": "I liked it. Then he added that it must be quiet, and I liked that more. \"Well, good! So I just admire him now.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool was a shadow monk who mastered the art of stillness, now transformed and bonded to Zalthir, capable of teleportation in darkness, acidic shadow key infusion, corrosive embrace, and manifesting four eyes on his host's scales.",
+    "source_quote": "\"The body that mimics nothing is already shaped by what it watches.\" Then he answered. \"I've been waiting to do this for a very long time.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Former Shadow Monk",
+    "fact": "The former shadow monk observed Zalthir\u2019s bonding with Glabbagool and criticized Zalthir for missing the lesson on silent communication, which occurred on the day Zalthir was sleeping.",
+    "source_quote": "If I had paid more attention to the classes on silent communication, I would know exactly what Glabbagool's answer meant. But that, apparently, had been the day I was sleeping.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Shadow Monks",
+    "fact": "The Shadow Monks are a monastic order that teaches silent communication, stillness, and the art of movement, with rituals involving shuttered rooms, incense, ink-stained hands, and controlled breathing.",
+    "source_quote": "Silent discussion. Communication without sound. I remember the light through the shutters. I do not remember the lesson.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Glabbagool's Transformation",
+    "fact": "Glabbagool underwent a transformation during the trial at the Whispering Dome, achieving perfect stillness, answering the monk\u2019s question with wisdom, and bonding to Zalthir with new abilities and physical manifestations.",
+    "source_quote": "Glabbagool went still. Not paused. Still. The difference matters. Paused costs something; still costs nothing.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Whispering Dome",
+    "fact": "The Whispering Dome is a sacred site where supplicants come to learn something about themselves through silent trials, stillness, and cryptic\u95ee\u7b54 from monks.",
+    "source_quote": "The Dome is where supplicants go to learn something about themselves.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Bag of Holding",
+    "fact": "The bag of holding contains drow who require monitoring, and Glabbagool\u2019s first act after transformation was to remind Zalthir of this responsibility.",
+    "source_quote": "Before he settled in, he reminded me the drow in the bag of holding still needed watching.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Drow in Bag of Holding",
+    "fact": "The drow imprisoned in the bag of holding are captives requiring oversight, likely survivors of Blingdenstone and the ooze crisis, and remain a latent threat.",
+    "source_quote": "He had survived Blingdenstone and the ooze crisis and however long in the dark...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Missing Silent Communication Lesson",
+    "fact": "Zalthir missed the critical lesson on silent communication, a gap now exploited by Glabbagool, who mastered it in under a minute by going still, leaving Zalthir unable to interpret the monk\u2019s wisdom.",
+    "source_quote": "That, apparently, had been the day I was sleeping. \"Too much gardening research.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Session Date",
+    "fact": "The events of Glabbagool\u2019s trial and transformation occurred during a session in which Zalthir acknowledges he has missed many lessons and spent many days sleeping.",
+    "source_quote": "There are, by now, a great many days I was sleeping. Was I ever there?",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Corrosive Embrace Demonstration",
+    "fact": "Glabbagool demonstrated his corrosive embrace on a restrained target, revealing it causes dissolution \u2014 not a wound \u2014 leaving nothing remaining after the target is bound.",
+    "source_quote": "It was not a wound. It was dissolution. A target restrained, nothing left to hold by the end of it.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Eyes on Forearm",
+    "fact": "Glabbagool manifests four eyes on Zalthir\u2019s forearm, and Zalthir debates whether they should appear as separate entities or blend into his natural scales to avoid detection.",
+    "source_quote": "Four, as it turned out, blinking up from my own scales. \"Well, good! So I just admire him now.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Brother Heslin",
+    "fact": "Brother Heslin is a former instructor in the Shadow Monks\u2019 order, remembered for smelling of incense and possibly teaching silent communication, though Zalthir cannot confirm if he attended his class.",
+    "source_quote": "I think it was Brother Heslin, the one who always smelled of incense, or possibly the quiet one with the ink-stained hands.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Quiet Ink-Stained Brother",
+    "fact": "A silent, unnamed brother in the Shadow Monks\u2019 order, remembered for ink-stained hands and participation in silent communication training, but Zalthir cannot confirm his role or presence.",
+    "source_quote": "I think it was Brother Heslin... or possibly the quiet one with the ink-stained hands.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Voltron Reference",
+    "fact": "Zalthir misinterprets Glabbagool\u2019s bonding as resembling a pop-culture fusion entity (Voltron), revealing his disconnect from the monastic wisdom and reliance on vernacular analogies.",
+    "source_quote": "\"This is exciting. We formed Voltron or something.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Blending vs. Visibility",
+    "fact": "Zalthir proposes Glabbagool should blend into his scales rather than appear as a separate creature, challenging the expectation that bonded entities must be visibly distinct.",
+    "source_quote": "I suggested he might not need them \u2014 that he could blend into me rather than read as a separate creature riding along.",
+    "quote_verified": true
+  }
+]

@@ -39,8 +39,8 @@ related: []
 ### Connections to Existing Wiki
 
 - **[[cult-of-the-dragon]]**: Relevant, as Severin is a key figure within the cult.
-- **[[tiamat-summoning]]**: Relevant, as it describes the central event involving Severin.
-- **[[ritual-failure]]**: Relevant, as it details the outcome of Severin's efforts.
+- **[[tiamat]]**: Relevant, as it describes the central event involving Severin.
+- **[[psychic-possession]]**: Relevant, as it details the outcome of Severin's efforts.
 
 ### Contradictions & Tensions
 
@@ -51,8 +51,8 @@ related: []
 
 - **Create or Update Pages**:
   - [[cult-of-the-dragon]]
-  - [[tiamat-summoning]]
-  - [[ritual-failure]]
+  - [[tiamat]]
+  - [[psychic-possession]]
 - **Emphasize**:
   - Severin's role within the cult and his manipulation.
   - The failure of the ritual and its implications.

@@ -1,0 +1,122 @@
+[
+  {
+    "type": "npc",
+    "subject": "Sprig",
+    "fact": "Sprig volunteered to taste all twelve dishes served at the meal, insisting despite the chefs saying it was unnecessary; she is the designated poison taster and was present during the poisoning event; she helped Sylvira Savikas find honey after encountering her hoarse and silent at 1:00 a.m.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi was the intended target of the poisoning; her death was meant to appear natural, with no connection drawn to the poison taster; she was not the poison taster but was poisoned during the same meal.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sylvira Savikas",
+    "fact": "Sylvira Savikas, a tiefling, was encountered at 1:00 a.m. searching by candlelight; she was hoarse and unable to speak, pointing to her throat; she was helped by Sprig with honey; her tiefling nature makes the use of a candlelight unnecessary, raising suspicion that she was not who she appeared to be.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Irony",
+    "fact": "Irony directed inquiries toward Sprig as the poison taster; she cannot lie but steered conversations without speaking falsely; she has been the target of romantic advances from Teles Ahvoste and may have been trying to avoid them; she dismissed concerns about junior avowed as overinterest.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Teles Ahvoste",
+    "fact": "Teles Ahvoste, one of the great readers, made persistent romantic advances toward Irony; his behavior may have motivated a scheme to remove Irony from the scene by poisoning Janussi, indirectly threatening Sprig.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Orrin Glass",
+    "fact": "Orrin Glass, the third waiter, is deaf in one ear and observant; he is the best source for information about interactions between Irony and Teles Ahvoste; he noticed details others missed despite his hearing impairment.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daral",
+    "fact": "Daral confirmed the existence of a poison taster role and praised Sprig\u2019s initiative; he is fearful and submissive, especially around Dawnbringer, and does not appear to be the killer.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Candlekeep chefs",
+    "fact": "The Candlekeep chefs prepared twelve dishes for the meal and advised Sprig that tasting them for poison was unnecessary; they permitted her to volunteer for the role, indicating a culture of deference to initiative.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "meal poisoning",
+    "fact": "A poison was administered during a meal served to the gathering; Janussi was the intended victim; Sprig, the poison taster, survived; the method suggests the poison was delivered via a shared item \u2014 the book \u2014 rather than food, to avoid killing the taster.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "book tampering",
+    "fact": "The murder weapon was a book that was likely unwrapped and rewrapped; someone observed tampering with the pile of gifts under the non-Christmas Christmas tree; the book was chosen to bypass the poison taster and ensure the victim\u2019s death without implicating the food.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "the book",
+    "fact": "The book was the medium of the poison; it was handled before the meal and likely rewrapped to conceal tampering; it was chosen over food to avoid killing the poison taster, indicating the killer knew of Sprig\u2019s role.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "honey",
+    "fact": "A pot of honey was provided to Sylvira Savikas when she was found hoarse at 1:00 a.m.; it served as a cover for her true purpose \u2014 possibly setting down or retrieving something \u2014 and may have been used to explain her presence and condition to observers.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "non-Christmas Christmas tree",
+    "fact": "A pile of gifts \u2014 mostly books, but also wands and magical artifacts \u2014 was stacked under the non-Christmas Christmas tree; this was the location where someone observed tampering with the book that was later used as the poison vector.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "kitchens",
+    "fact": "The kitchens were visited by Sylvira Savikas at 1:00 a.m. under candlelight; Sprig encountered her there and assisted her with honey; the location was used as a cover for an undisclosed activity.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Sylvira's identity",
+    "fact": "Sylvira Savikas\u2019s behavior \u2014 using candlelight despite being a tiefling, being hoarse, and refusing to speak \u2014 suggests she may not have been who she appeared to be; this raises the possibility of impersonation or magical disguise.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Irony\u2019s evasion",
+    "fact": "Irony, who cannot lie, redirected inquiries about the poisoning toward Sprig instead of answering directly; her evasion suggests she knows more than she admits and is protecting someone or something.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "killer\u2019s motive",
+    "fact": "The killer chose to poison via the book rather than the food, indicating knowledge of Sprig\u2019s role as poison taster; this suggests the killer intended to kill Janussi without harming Sprig \u2014 implying a personal connection to Sprig or a desire to preserve her.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the honey cover",
+    "fact": "The honey provided to Sylvira may have been a deliberate distraction to explain her presence in the kitchens at 1:00 a.m. and to mask the act of leaving or retrieving an object \u2014 possibly the poison delivery mechanism or a false trail.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "1:00 a.m.",
+    "fact": "Sylvira Savikas was encountered in the kitchens at 1:00 a.m., and Sprig helped her at that time; this late hour is suspicious and coincides with the timing of the poisoning\u2019s effects.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "poison",
+    "fact": "The poison was slow-acting, designed to kill Janussi at midnight; it was delivered via the book, not food; its formulation suggests the killer knew the victim\u2019s habits and the presence of a poison taster.",
+    "quote_verified": false
+  }
+]

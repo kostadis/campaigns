@@ -18,3 +18,7 @@ This structure delays exposition, preserves plot flexibility, and heightens the 
 - [[baash-a-kweelani]] — Mentioned by Unla Kee as a known merchant; no direct contact yet, but her appearance and profession suggest high narrative stakes and hidden depth.
 
 This approach contrasts with direct exposition and relies on the player’s investment in uncovering truth. It is closely related to *information asymmetry in NPC encounters* and often supports archetypes like *cover-identity-as-merchant*, reinforcing the theme that not all truths are meant to be known until the moment of revelation. It is a foundational element of deliberate campaign architecture, enhancing pacing and suspense through controlled revelation.
+
+## Related
+
+- [[indirect-character-introduction]]

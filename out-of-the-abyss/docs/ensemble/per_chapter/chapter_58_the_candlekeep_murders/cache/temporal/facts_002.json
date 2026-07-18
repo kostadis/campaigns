@@ -1,0 +1,135 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
+    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "An hour passes between two events in the session.",
+    "source_quote": "An hour later",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
+    "source_quote": "four chasme and two vrock",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "Sloobludop is approximately eight days away via the Darklake.",
+    "source_quote": "the town of Sloopdopblop is just eight days away",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
+    "source_quote": "Drow outpost was 100' in the sky",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "poison delivery method",
+    "fact": "Midnight tears poison is ingested and activates at midnight, with color change upon contact with saliva.",
+    "source_quote": "The dust stays pale ochre. What darkens it is saliva.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "sapphire spell function",
+    "fact": "The sapphire summoning spell retrieves a hidden object to the caster's hand, regardless of location.",
+    "source_quote": "You can put it someplace, you can throw it into a river or whatever. Nobody will find it, and then when you need it back, boom.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "High Tower entrance",
+    "fact": "The High Tower is the entrance to all super-magical artifacts, always watched, entry always visible.",
+    "source_quote": "The tower is watched. Always. People stand at it whether the key is in someone's pocket or not.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "key transfer",
+    "fact": "Kalan transferred the second High Tower key to someone who is not himself, and now holds no key.",
+    "source_quote": "I have given it now to someone who is not me.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "locket key storage",
+    "fact": "The key was carried in a locket worn around the neck, now missing.",
+    "source_quote": "The key was in the locket. The locket was around the keeper's neck. The locket was gone.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "murderer's method",
+    "fact": "The murderer is a magic user who can circumvent arcane and mundane locks with talking magic.",
+    "source_quote": "Magic that could talk any lock open, arcane or iron, the very highest order of that art.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "murder timing",
+    "fact": "The victim died at midnight after ingesting midnight tears poison, likely via licking a poisoned page.",
+    "source_quote": "He died at roughly midnight. His fingers were black, his lips were black.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Flora Theca location",
+    "fact": "The Flora Theca is a subsection of the Pavilion Naturalis within the Great Library, dedicated to plants and herbs.",
+    "source_quote": "The Flora Theca, a subsection of the Pavilion Naturalis, inside the Great Library, dedicated to plants, herbs, and other flora.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "midnight tears poison origin",
+    "fact": "Midnight tears is a highly toxic pale ochre dust made from Feywild pollen, lethal unless neutralized by specific Feywild sap.",
+    "source_quote": "A highly toxic pale ochre dust, made from the pollen of a plant usually found only in the Feywild.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "false identity",
+    "fact": "Someone impersonated Sylvira Savikas the night of the murder.",
+    "source_quote": "Is he aware that someone was pretending to be Sylvira Savikas the night of the murder?",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Hearth interrogation venue",
+    "fact": "The suspect Daral Yashenti chose the Hearth as the venue for interrogation, asserting control over the setting.",
+    "source_quote": "Daral was not coming to us. We were to go to the Hearth.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "investigator collaboration",
+    "fact": "Kalan proposed a private sync-up meeting with five streams to merge findings and resolve contradictions.",
+    "source_quote": "A meeting to examine everything one by one, the four of us and him, five streams, merge it all in a few hours.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "key carry definition",
+    "fact": "Worn objects are not considered 'carried' for the purpose of the sapphire summoning spell.",
+    "source_quote": "It doesn't, as it turned out. Which reframed the whole use.",
+    "quote_verified": true
+  }
+]

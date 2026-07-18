@@ -11,4 +11,9 @@ sources: ["duke_zalto.md"]
 Philosophical ideas and beliefs shape the party's worldview and decision-making. They must reconcile their own philosophies with the challenges presented by the world and their adversaries.
 
 ## Related Pages
-- [[dungeon-ironslag]]
+- [[ragnarok]]
+- [[quest]]
+- [[religion]]
+- [[strategy]]
+- [[technology]]
+- [[ironslag]]

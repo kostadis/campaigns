@@ -1,0 +1,289 @@
+[
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a cleric of Bahamut who uses theatrical divine incantations to inspire belief, though he finds Bahamut boring and was once inspired by Stroud. He is currently leading the Ember Guard through the tunnels of Gracklstugh, interrogating Derro and manipulating their fears. He pushed Skiit into the pit and later adopted the name 'Ember Guard' to project authority.",
+    "source_quote": "\u2018We are the Ember Guard,\u2019 shouts Grygum. I smile. I like that name.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow spellcaster who employs lethal magic with precision and psychological dominance. He cast Maximilian\u2019s Earthen Grasp and Toll the Dead to kill Skiit, and uses fear to subdue enemies. He recognizes Ulnara as a Derro necromancer and cultist of Demogorgon, and exploits her superstition by revealing his Drow identity to crush her arrogance.",
+    "source_quote": "I look at Ulnara, who realizes that I am Drow. And that the Drow do not mess around.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Skiit",
+    "fact": "Skiit is a Derro laborer working on the Great Project of Ulnara, obsessed with Pliinki\u2019s promises and devoted to Demogorgon. He is mentally unstable, muttering to himself, and believes following Demogorgon makes the Derro proud. He was pushed into the pit by Grygum, resurrected as a corpse, and then killed by Daz\u2019s Toll the Dead.",
+    "source_quote": "\u2018I am a follower of Demogorgon! Pliinki has said that anybody who follows Demogorgon is making the Derro proud and powerful.\u2019",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Ulnara",
+    "fact": "Ulnara is a Derro necromancer and cultist of Demogorgon, in charge of the Great Project of Ulnara of the Council of Savants. She is subservient and fearful until confronted with Daz\u2019s Drow identity, at which point she abandons her arrogance and becomes obsequious, offering zombie labor to the Ember Guard.",
+    "source_quote": "\u2018Thank you for this new supply! I know you will tell Pliinki that I Ulnara did much to help the Ember Vanguard!\u2019",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Pliinki",
+    "fact": "Pliinki is an unseen authority figure among the Derro, believed to be a leader or high priest who promises better jobs and divine favor to those who serve Demogorgon. Skiit and Ulnara both reference Pliinki\u2019s words to justify their loyalty and actions.",
+    "source_quote": "\u2018But Pliinki promised Skiit a better job.\u2019",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Ember Guard",
+    "fact": "The Ember Guard is a self-proclaimed faction led by Grygum and Daz, presented as a powerful, mysterious group to intimidate Derro and other denizens of Gracklstugh. The name was chosen by Grygum to project authority, though its true nature and allegiance are ambiguous and possibly fabricated.",
+    "source_quote": "\u2018We are the Ember Guard,\u2019 shouts Grygum. I smile. I like that name.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Derro",
+    "fact": "The Derro are a race of twisted, insane dwarven offshoots once enslaved by mind flayers, now serving as laborers and cultists in the Underdark. They are mentally broken, prone to muttering, and often worship Demogorgon as a source of false hope. They are not well in the best of times.",
+    "source_quote": "I recall the stories of the Derro, creatures that served the mind flayers and had their minds destroyed. They are not well in the best of times.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Cult of Demogorgon",
+    "fact": "A pervasive and dangerous cult among the Derro, led by figures like Pliinki, that promises power and renewal to those who follow Demogorgon. Skiit and Ulnara are adherents, using devotion to the Prince of Demons to justify their actions and maintain morale despite their broken minds.",
+    "source_quote": "\u2018I am a follower of Demogorgon! Pliinki has said that anybody who follows Demogorgon is making the Derro proud and powerful.\u2019",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Ogre Zombie",
+    "fact": "An undead Ogre Zombie emerged from the pit, demanding to know the identity of the intruders. It is one of many reanimated corpses serving Ulnara\u2019s necromantic project, and its presence confirms the scale of the Great Project\u2019s corpse consumption.",
+    "source_quote": "From there, a voice and an Ogre Zombie emerge. \u2018What is the meaning of this? Who are you? Who do you think you are?\u2019",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Zombies",
+    "fact": "Numerous zombies populate the pit beneath the Derro\u2019s work site, reanimated corpses used as laborers or components in Ulnara\u2019s necromantic project. Grygum observes them and uses their presence to manipulate Skiit\u2019s fear and ambition.",
+    "source_quote": "\u2018I see a lot of zombies.\u2019",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "The Pit",
+    "fact": "A massive, foul-smelling chasm in the tunnel system of Gracklstugh, filled with decomposing flesh, offal, fungi, and shambling zombies. It serves as the disposal and reanimation site for the Great Project of Ulnara, with a narrow tunnel leading from its southeast wall.",
+    "source_quote": "The glow of faerzress is everywhere, seeming to flow like fog around dark shapes shambling across the pit. A crack in the southeast wall of the pit leads to a narrow tunnel, flanked by mounds of fungi and offal.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "A sprawling, chaotic Underdark city where the Ember Guard operates. It is a place of fractured loyalties, necromantic projects, and deranged Derro laborers. The city\u2019s environment is thick with faerzress and the stench of death.",
+    "source_quote": "a profound act of investigation into the very threads of our intertwined fates, here in this churning city of Gracklstugh.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Great Project of Ulnara",
+    "fact": "A massive necromantic endeavor under the Council of Savants, involving the reanimation of corpses and the collection of body parts for unknown purposes. It is overseen by Ulnara and staffed by Derro laborers like Skiit, who fear failure and crave Pliinki\u2019s approval.",
+    "source_quote": "\u2018The great project of Ulnara of the Council of Savants!\u2019",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Amulet of Demogorgon",
+    "fact": "A dark magical artifact worn by Skiit, signifying his devotion to the Prince of Demons. Its presence confirms his cultist status and makes him a target for Daz\u2019s suspicion and lethal judgment.",
+    "source_quote": "Wait, that\u2019s interesting, he\u2019s got an amulet of Demogorgon.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "True Allegiance of the Ember Guard",
+    "fact": "The true allegiance of the Ember Guard is unclear. They claim no master, yet operate in the domain of the Duergar and Mindflayers. Their identity may be a fabrication to control Derro, or a genuine but unacknowledged faction with hidden patrons.",
+    "source_quote": "\u2018I don\u2019t believe you guys work for us. I think you work for the Duergar or the Mindflayers!\u2019",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Identity of Stroud",
+    "fact": "Stroud is referenced by Grygum as a figure who once inspired him, contrasting with his current boredom with Bahamut. Stroud\u2019s nature, role, and connection to the current events remain unknown, suggesting a deeper backstory yet to be revealed.",
+    "source_quote": "Bahamut is boring. Stroud was exciting. Bahamut, not so much.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occur during the current session of the campaign, as implied by the immediate, in-character narration and lack of temporal markers beyond 'now' and 'just now.'",
+    "source_quote": "I look at him carefully. He has blue, gray skin and pale eyes that lack both irises and pupils.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is leading the party through the caves, asserting dominance over Derro and making tactical decisions despite fatigue. He is skeptical of authority figures like Errde Blackstaff and prioritizes practicality over ideological submission.",
+    "source_quote": "I squint at the tents and the room and say, 'No. There is nothing of value here.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a zealous preacher who reveres Bahamut and repeatedly interrupts tense situations with religious declarations, inadvertently provoking hostile Derro. His actions are driven by faith, not strategy, and he often fails to recognize the danger he creates.",
+    "source_quote": "I worship Bahamut!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is an arcane specialist who uses precise, high-impact spells in combat. He excels at controlling the battlefield with darkness and delivering critical strikes, and his magic is instrumental in neutralizing Derro threats.",
+    "source_quote": "Zalthir, bless his arcane heart, summoned his darkness, enveloping a couple of them. Then, in a burst of brilliant speed, he critically struck one of the Darrow.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a battle-hardened dwarf warrior clad in heavy armor, known for his blunt combat style and dark humor. He relies on brute force and intimidation, and his actions in battle are decisive, if unrefined.",
+    "source_quote": "I swung my longsword, a satisfying *thwack* as it connected. 'Take that, you blithering fool!' I yelled.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Derro",
+    "fact": "The Derro are corrupted, mad dwarves once enslaved by mindflayers, now worshiping a two-headed deity and obsessed with ritualistic madness. They are physically weak, intellectually limited, and violently reactive to deviations from their dogma, especially references to Bahamut.",
+    "source_quote": "They are mad.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Ember Vanguard",
+    "fact": "The Ember Vanguard is a specialized unit trained for stealth and infiltration in hostile, hazardous environments. They operate independently from their companions, using darkness and silence to navigate dangerous terrain, and prioritize mission objectives over safety or consensus.",
+    "source_quote": "The Ember Vanguard will march in, but we tell our companions to wait outside.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Derro Chamber with Scrap Iron Cages",
+    "fact": "This chamber is filled with scrap iron cages, spiral stone pylons marking a central path, and bubbling cauldrons emitting a foul, nauseating stench. It is a site of ritualistic madness, where Derro conduct forbidden experiments and worship their twisted deities.",
+    "source_quote": "The smell is coming from cages assembled from scrap iron on both sides of the chamber. A spiral path circles into the center of the room, marked off by small stone pylons.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Ritual Cavern of the Two-Headed Beast",
+    "fact": "This cavern glows with hellish red light, features spiral wall patterns, silent dripping water, and rampant fungi. At its center is a ritual circle atop a 5-foot platform, surrounded by forbidden tomes on duality, madness, and spawn creation, indicating deep Demogorgon influence and Derro heresy.",
+    "source_quote": "The cavern floor rises to form a natural 5-foot-high platform. A glowing ritual circle dominates the top of the platform. Around the platform are books made from Trillimac...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Trillimac Books",
+    "fact": "These books, bound in Trillimac, contain heretical texts on the Two-Headed Beast, duality, madness, and the creation of favored spawn. They are key evidence of Demogorgon\u2019s influence and are sought by Errde Blackstaff for ideological validation.",
+    "source_quote": "\u201cThe Spiraling Descent: A Treatise on Duality and Madness,\u201d and \u201cThe Prince's Gift: On the Creation of Favored Spawn\u201d, and \u201cRituals of the Two-Headed Beast.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Dirty Finger Pattern Tracing",
+    "fact": "A Derro is observed tracing invisible patterns with a dirty finger into the air above a bubbling cauldron, a ritual gesture tied to their devotion to the Two-Headed Beast and their warped perception of reality.",
+    "source_quote": "tracing an invisible pattern with a dirty finger",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Death Dogs",
+    "fact": "Death Dogs are spectral, bestial predators associated with the Derro and their ritual sites. They are silent, lurking, and attuned to the cursed energies of the caverns, serving as guardians or hunting companions to the mad dwarves.",
+    "source_quote": "I finally spot the inhabitants, some Derro and Death dogs.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Derro Patrol Encounter",
+    "fact": "A Derro patrol stumbles upon the party, but Daz's show of dominance causes them to retreat in fear, demonstrating that the Derro are more terrified of perceived authority than they are aggressive when unprovoked.",
+    "source_quote": "Daz insists we march as if we own this place. And it works. The creatures are fearful and somewhat deranged.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum's Bahamut Declaration",
+    "fact": "Grygum\u2019s religious proclamation triggers immediate violent hostility from the Derro, who perceive Bahamut as a heretical blasphemy against their two-headed deity. This event forces the party into combat despite prior non-confrontational intentions.",
+    "source_quote": "The moment that Grygum mentioned 'Bahamut,' I knew we were in for it.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Discovery of Demogorgon Evidence",
+    "fact": "The party uncovers concrete, physical evidence linking the Derro to Demogorgon\u2019s influence through ritual texts and papers. This discovery creates moral tension, as Daz considers withholding it from Errde Blackstaff to prevent ideological manipulation.",
+    "source_quote": "Errde Blackstaff wants evidence of Demogorgon\u2019s influence, and here it is.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Withholding Evidence from Errde",
+    "fact": "Daz contemplates suppressing the Demogorgon evidence he has found, knowing Errde Blackstaff will fabricate proof if denied. This unresolved tension suggests a future conflict between truth, power, and ideological exploitation.",
+    "source_quote": "I might not want to give it to her. But I know her type; if she doesn\u2019t get evidence, she\u2019ll invent it.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Derro Reading the Ritual Text",
+    "fact": "A Derro has just begun reading from one of the Trillimac books, potentially activating a ritual, summoning a manifestation, or altering the ambient magic of the cavern. This moment is the precursor to an imminent, unknown event.",
+    "source_quote": "Just then, one of them picks up a book and starts to read from it.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occur during an ongoing dungeon delve, following prior encounters with Derro and culminating in the discovery of a ritual chamber. The timeline is continuous, with no temporal breaks.",
+    "source_quote": "Our journey continues until we reach another cave entrance.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Narrak",
+    "fact": "Narrak is a derro orchestrator of a disturbing scene, perpetually contorted with spiraling madness, radiating chaotic evil in service to Demogorgon, and leading apprentices in forbidden experiments.",
+    "source_quote": "He gestures wildly at a few apprentices... He shouts - 'We are conducting experiments!'... He screams - 'The only purpose that matters! The elevation of the Derro, the Triumph of Demogorgon, and the destruction of the Duergar!'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir observes everything and speaks nothing, acting without utterance because of innate, unspoken knowledge.",
+    "source_quote": "I observe everything and say nothing. My mind is clear. I act without speaking. I do because I know.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Derro",
+    "fact": "The Derro are being elevated as part of a ritualistic agenda tied to Demogorgon's triumph and the destruction of the Duergar.",
+    "source_quote": "He screams - 'The only purpose that matters! The elevation of the Derro, the Triumph of Demogorgon, and the destruction of the Duergar!'",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Duergar",
+    "fact": "The Duergar are targeted for destruction as part of the Derro's ritualistic agenda under Demogorgon's influence.",
+    "source_quote": "He screams - 'The only purpose that matters! The elevation of the Derro, the Triumph of Demogorgon, and the destruction of the Duergar!'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "experiment session",
+    "fact": "An experiment session is underway, led by Narrak, involving apprentices chanting in response to his declarations of purpose.",
+    "source_quote": "He shouts - 'We are conducting experiments!'... They chant back at him - 'For what purpose!'",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "purpose of experiments",
+    "fact": "The experiments are tied to the elevation of the Derro and the triumph of Demogorgon, but their exact nature and mechanics remain unexplained.",
+    "source_quote": "He shouts - 'We are conducting experiments!'... He screams - 'The only purpose that matters! The elevation of the Derro, the Triumph of Demogorgon, and the destruction of the Duergar!'",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Demogorgon",
+    "fact": "Demogorgon is the demon lord being served by Narrak, whose influence drives the Derro's campaign of elevation and destruction.",
+    "source_quote": "He screams - 'The only purpose that matters! The elevation of the Derro, the Triumph of Demogorgon, and the destruction of the Duergar!'",
+    "quote_verified": false
+  }
+]

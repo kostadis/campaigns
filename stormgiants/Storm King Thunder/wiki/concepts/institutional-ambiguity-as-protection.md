@@ -4,7 +4,7 @@ title: Institutional-ambiguity-as-protection
 created: 2026-06-15
 updated: 2026-06-15
 tags: [power, secrecy, legitimacy, civic-control, plausible-deniability]
-related: [jenna-roscoe, lord-s-alliance, cover-identity-as-administrator, operational-secrecy-via-minimization]
+related: ["jenna-roscoe", "lords-alliance", "cover-identity-as-administrator", "operational-secrecy-via-minimization"]
 sources: ["npcs/jenna.md"]
 ---
 # Institutional-ambiguity-as-Protection

@@ -31,3 +31,7 @@ sources: ["elicia_kal_kallaphan.md"]
 
 ## Arc Score Events
 - No arc score events recorded.
+
+## Related
+
+- [[elicia_kal_kallaphan]]

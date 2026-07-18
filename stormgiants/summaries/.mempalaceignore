@@ -1,0 +1,34 @@
+# Raw transcripts
+*.vtt
+vtt.cleaned.md
+vtt.md
+
+# Operational dirs
+logs/
+.cg/
+scene_extractions_new/logs/
+scene_extractions/logs/
+
+# Pipeline config and state
+*.knobs.json
+*.db
+
+# Pipeline intermediates
+*.scaffold.md
+*.scaffold.md.reviewed
+*.prev
+*.log
+*.txt
+*.doc
+
+# Narration pipeline artifacts (not content)
+narration/plan.md
+narration/consistency_report.md
+narration/enhanced_sections.md
+narration/voice_critique_*.md
+narration/voice_critique_summary.md
+
+# Session-level pipeline reports
+consistency_report.md
+consistency_report.spark.md
+scene_extractions/plan.md

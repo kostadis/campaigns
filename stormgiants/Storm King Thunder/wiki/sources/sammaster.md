@@ -38,7 +38,7 @@ related: []
 
 ### Connections to Existing Wiki
 
-- **Existing Pages**: [[cult-of-the-dragon]], [[dracoliches]], [[undead-research]], [[ice-cave-statue]]
+- **Existing Pages**: [[cult-of-the-dragon]], [[clarify-original-dracolich-vs-severins-faction-2026-06-06-002446]], [[undead-sentience-without-corruption]], [[ice-cave-statue]]
 - **Impact**: Strengthens existing knowledge about Sammaster's role in the cult and the broader context of undead research and the Cult of the Dragon.
 
 ### Contradictions & Tensions
@@ -48,4 +48,9 @@ related: []
 
 ### Recommendations
 
-- **Create or Update**: [[sammaster]], [[tome-of-the-dragon]], [[ice-cave-statue]], [[cult-of-the-dragon]], [[dracoliches]], 
+- **Create or Update**: [[sammaster]], [[cult-of-the-dragon]], [[ice-cave-statue]], [[cult-of-the-dragon]], [[clarify-original-dracolich-vs-severins-faction-2026-06-06-002446]],
+
+## Related
+
+- [[thistle]]
+- [[the_captain_silverwatch]]

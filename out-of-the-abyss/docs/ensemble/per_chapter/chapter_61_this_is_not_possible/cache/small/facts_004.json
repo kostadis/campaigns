@@ -1,0 +1,142 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir used his Glabbagool arm to steal the potion of flying from Alkrist's safe during the chaos, while others were distracted; he acted without detection and concealed the item beneath his skin.",
+    "source_quote": "Under the skin of my arm, Glabbagool liked the flying skill. He thought it was a good skill.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch was reinstated as head of the Avowed after being persuaded by the manipulative leader; he now claims credit for the adventurers' actions and speaks of Janussi\u2019s death with performative grief.",
+    "source_quote": "Kalan gathered us to escort us out, very full of himself now, going on about how our actions had proven the value of his methods \u2014 one more man very heartbroken over Janussi's untimely death. What a great man. What a tragedy for the community.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Leader of the Avowed",
+    "fact": "The Leader of the Avowed feigned shock and sorrow over Janussi\u2019s death while secretly orchestrating the removal of the adventurers from influence; she sincerely fears for their safety but is delighted to have them contained and out of the way.",
+    "source_quote": "I looked at her while she said it and found, underneath, that she meant the worry. It was real \u2014 she was sincerely afraid something would happen to us. Daz found the other half, the half I only saw land on his face: she was delighted to have us wrapped up and out of everything, no more heads poking anywhere. Win and win. She had built a box and we had walked into it.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Avowed",
+    "fact": "The Avowed is a hierarchical organization undergoing leadership transition; internal power struggles are masked by public rituals of mourning and procedural formality, with members like Kalan and the Leader manipulating outcomes under the guise of justice.",
+    "source_quote": "That will be done after the naming, by the new head of the Avowed.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Opening of Alkrist's Safe",
+    "fact": "The safe containing Alkrist\u2019s possessions was opened and revealed a potion of flying, a healing potion, a heap of gold coins, and one red coin stamped with a herring \u2014 the only tangible clue, which was later identified as a red herring.",
+    "source_quote": "Inside: a potion of flying, a healing potion, a heap of gold coins, and nothing at all that pointed anywhere. Thorin asked whether there was a red herring in there. There was, in fact \u2014 one of the coins had a herring stamped on it, and it was red.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Red Herring Coin",
+    "fact": "One gold coin from Alkrist's safe bore a red herring stamp \u2014 a deliberate misdirection planted to obscure the true nature of the crime or the identity of the perpetrator.",
+    "source_quote": "Thorin asked whether there was a red herring in there. There was, in fact \u2014 one of the coins had a herring stamped on it, and it was red.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Potion of Flying",
+    "fact": "The potion of flying was stolen from Alkrist's safe by Zalthir using his Glabbagool arm during the distraction; it was removed without detection and is now concealed within his body.",
+    "source_quote": "I had my Glabbagool arm swipe the potion of flying off the table... Under the skin of my arm, Glabbagool liked the flying skill.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool, the sentient arm of Zalthir, possesses autonomous agency and desires magical abilities; it actively sought and consumed the potion of flying, evaluating it as a 'good skill.'",
+    "source_quote": "Under the skin of my arm, Glabbagool liked the flying skill. He thought it was a good skill.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Identity of Janussi\u2019s Killer",
+    "fact": "The true killer of Janussi remains unknown; the group suspects Alkrist may have been framed, and the involvement of a polymorphing agent or accomplice is unconfirmed.",
+    "source_quote": "We don't know who did the poly\u2026 I mean, she may or may not have done the polymorphing. We don't know that part.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Accomplice Conspiracy",
+    "fact": "The group acknowledges the existence of accomplices in Janussi\u2019s death but lacks evidence to identify them; the Leader exploited this ambiguity to deflect blame and consolidate control.",
+    "source_quote": "Yeah \u2014 we know there are accomplices,\" I said.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Deneir's Sanctum",
+    "fact": "Deneir's Sanctum is the designated destination for the adventurers after the confrontation; it serves as a place of temporary confinement under the pretense of protection.",
+    "source_quote": "I will now ask Kalan Strongbranch to escort you to Deneir's Sanctum.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Session Date",
+    "fact": "The events occurred on the day of the naming ceremony, immediately preceding the formal transition of leadership in the Avowed.",
+    "source_quote": "That will be done after the naming, by the new head of the Avowed.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Alkrist",
+    "fact": "Alkrist is held securely in the prisons and accused of a grave crime, but evidence against him is circumstantial and potentially planted; he is the designated scapegoat in a larger political maneuver.",
+    "source_quote": "Alkrist held secure in the prisons.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is perceptive and attuned to hidden motives; he recognized the Leader\u2019s dual intent \u2014 genuine concern and calculated containment \u2014 and interpreted the situation as a strategic trap.",
+    "source_quote": "Daz found the other half, the half I only saw land on his face: she was delighted to have us wrapped up and out of everything, no more heads poking anywhere.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is opportunistic and cynical; he recognized the red herring and encouraged the group to question the validity of evidence, while also praising Zalthir\u2019s theft as a successful grift.",
+    "source_quote": "Never miss an opportunity to grift, man,\" Thorin said.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Healing Potion",
+    "fact": "A healing potion was found in Alkrist\u2019s safe, but its origin and intended use remain unexplored; it was deemed irrelevant and left untouched after the safe was opened.",
+    "source_quote": "Inside: a potion of flying, a healing potion, a heap of gold coins...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Prisons of the Avowed",
+    "fact": "The Prisons of the Avowed are where Alkrist is held under heavy guard; they serve as a tool of political control and a stage for public spectacle rather than genuine justice.",
+    "source_quote": "Alkrist held secure in the prisons.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Missing Sapphire",
+    "fact": "Zalthir attempted to use a Locate Object spell to determine if the Leader possessed a sapphire, but the spell found nothing; the absence suggests either she does not have it or the spell was blocked.",
+    "source_quote": "I wanted to know if she had one on her \u2014 that would have been interesting. The spell went out and found nothing. She did not have it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The Accusation of Alkrist",
+    "fact": "Alkrist was publicly accused of a grave crime by the Leader, based on unverified testimony from an unnamed source; the accusation was used to redirect suspicion away from the true conspirators.",
+    "source_quote": "She had named her the mastermind. Thin.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi is portrayed as a beloved and tragic figure whose death catalyzed the political upheaval; his public image is weaponized to manipulate emotion and justify control.",
+    "source_quote": "This is just awful. I can't believe there would be accomplices in the death of such a great man as Janussi \u2014 beloved by all.",
+    "quote_verified": true
+  }
+]

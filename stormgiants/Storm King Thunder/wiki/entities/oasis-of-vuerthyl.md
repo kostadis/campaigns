@@ -12,3 +12,7 @@ sources: ["azan.md"]
 A remote oasis located within the Anauroch desert, serving as the designated meeting point between the party and the caravaneer Azan. No historical, cultural, or magical significance has been documented beyond its function as a logistical waypoint. Its isolation makes it a plausible site for clandestine encounters. 
 
 The oasis is not known to be affiliated with any major faction, though its use as a rendezvous point suggests it may be a neutral or unmonitored location. Its name and exact coordinates remain unrecorded in broader campaign lore.
+
+## Related
+
+- [[azan]]

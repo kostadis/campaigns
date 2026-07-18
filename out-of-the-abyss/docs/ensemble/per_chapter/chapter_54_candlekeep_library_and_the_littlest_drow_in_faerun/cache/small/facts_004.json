@@ -1,0 +1,93 @@
+[
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum believes the divine plan covers their actions provisionally, and corrects this belief when evidence demands it; he noted the drow spy's presence on the surface in daylight as a sign of a poorly assigned mission rather than a predatory one.",
+    "source_quote": "The divine plan has us covered, in the broadest possible sense \u2014 or at least I choose to believe it does, provisionally, and correct the belief when the evidence demands it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir efficiently subdued the drow spy with a stun and hold, applying his signature finality to problems he considers worth solving immediately; he is the first to interrogate her with precision and calm authority.",
+    "source_quote": "Zalthir had already ended the question of whether there would be a fight. There would not. The spy \u2014 drow, slight, female, exactly as advertised \u2014 was grappled and stunned, held in place with the kind of efficient finality that Zalthir brings to everything he considers a problem worth solving immediately.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin attempted to intimidate the drow spy by suggesting her failure would be reported to her matron as proof of her worthlessness; though culturally inept, his raw physical honesty kept her engaged despite her laughter.",
+    "source_quote": "He walked up and told her we could simply let her go \u2014 report her failure to her matron, 'let them know how pathetic you are.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz conducted the interrogation of the drow spy with clinical calm, recognizing her psychological recalibration from survival to negotiation; he noted her refusal to give her name and her identification of House T'sarran.",
+    "source_quote": "The stun wore off and she was already calculating... 'I am of House T'sarran. I will not give my name.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "The Drow Spy",
+    "fact": "The drow spy is a female agent of House T'sarran, assigned to shadow the party in daylight; she refused to give her name, offered her piwafwi as a trophy, and demonstrated trained composure under interrogation despite being stunned and reduced.",
+    "source_quote": "I am of House T'sarran. I will not give my name. Take my piwafwi if you want a trophy.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "House T'sarran",
+    "fact": "House T'sarran is a drow noble house that sent a spy to follow the party on the surface; the spy's capture confirms the house's involvement in covert operations against the group.",
+    "source_quote": "I am of House T'sarran.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Drow Spy",
+    "fact": "The drow spy is a slight, female drow trained in stealth and survival; she was subdued by Zalthir, reduced by Grygum's spell, and held in place while interrogated; her behavior indicates professional compliance rather than predatory intent.",
+    "source_quote": "The spy \u2014 drow, slight, female, exactly as advertised \u2014 was grappled and stunned...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "piwafwi",
+    "fact": "The drow spy offered her piwafwi \u2014 a magical cloak of protection \u2014 as a potential trophy to the party, suggesting she considered it expendable compared to her own life or honor.",
+    "source_quote": "Take my piwafwi if you want a trophy.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Reduce spell",
+    "fact": "Grygum cast a Reduce spell on the drow spy, making her smaller and more vulnerable; this physical alteration was noted by Daz as part of her recalibration under pressure.",
+    "source_quote": "She was small \u2014 Grygum's Reduce spell had seen to that...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "drow spy's fate",
+    "fact": "The drow spy's ultimate fate is unresolved; while captured and subdued, it remains unclear whether she will be executed, interrogated further, or released \u2014 and whether her house will respond to her loss.",
+    "source_quote": "Assuming she got back home. That part wasn't yet settled.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "House T'sarran's motives",
+    "fact": "The reason House T'sarran sent a spy to follow the party in daylight \u2014 rather than attack \u2014 is unknown; the assignment appears misaligned with typical drow aggression, suggesting internal politics or a coerced mission.",
+    "source_quote": "Whoever sent a drow to the surface in daylight to shadow a party through open forest had, I thought, given that drow exactly the kind of assignment that earns you a very sincere complaint when you get back home.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "surface forest near Daz's signal",
+    "fact": "The location where the drow spy was intercepted is a forested area on the surface, near the origin point of Daz's signal; it was chosen for its openness, making stealth difficult and surveillance risky.",
+    "source_quote": "Whoever they were. Thorin had picked up something in the terrain earlier \u2014 movement from the north, not panicked, not aggressive, careful. Close. Twenty, maybe forty feet.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occurred during the ongoing session continuing from Grygum\u2019s perspective; no calendar date is given, but the timeline spans months of Underdark experience and recent surface activity.",
+    "source_quote": "Months in the Underdark will calibrate your instincts.",
+    "quote_verified": true
+  }
+]

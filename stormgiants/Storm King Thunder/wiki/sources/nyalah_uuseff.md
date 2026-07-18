@@ -61,3 +61,10 @@ related: []
 - **Emphasize:** Her role in maintaining order and her interaction with the Silverwatch.
 - **De-emphasize:** Specific details about her background or motivations unless they are explicitly stated in the source.
 - **Open Question:** Investigate further into her relationship with the Silverwatch and her true motivations.
+
+## Related
+
+- [[talni_barcoba]]
+- [[tapouach]]
+- [[thane_kayalithca]]
+- [[thane_braxow]]

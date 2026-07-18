@@ -1,52 +1,23 @@
+# mneme-rendered; source-sha256: b9a0a6cb3bb1d10993ec55f72c3a80c6c49f81483457ea95cbf50b3fe5802d73; do-not-edit
 wing: notes
 rooms:
-- name: strategy
-  description: Per-antagonist strategic dossiers — motivations, optimal play, contingencies
+- name: prep
+  description: prep content
   keywords:
-  - strategy
-  - dossier
-  - hedrack
-  - falrinth
-  - lucius
-  - antagonist
-  - plan
-- name: networks
-  description: Faction/operational network maps for locations
-  keywords:
-  - network
-  - faction
-  - nulb
-  - hommlet
-  - allies
-  - threats
-  - operational
+  - prep
 - name: handouts
-  description: In-world player handouts — letters, ledgers, maps, scrolls
+  description: handouts content
   keywords:
-  - handout
-  - letter
-  - ledger
-  - scroll
-  - dispatch
-  - prop
-- name: statblocks
-  description: Reflavored/converted 5e stat blocks and encounter builds
+  - handouts
+- name: design
+  description: design content
   keywords:
-  - statblock
-  - stat
-  - encounter
-  - monster
-  - salamander
-  - retainer
+  - design
 - name: references
-  description: Location/area reference docs and image prompts
+  description: references content
   keywords:
-  - reference
-  - area
-  - room
-  - temple
-  - location
-  - image prompt
+  - references
 - name: general
-  description: GM prep that doesn't fit a specific room
-  keywords: []
+  description: general content
+  keywords:
+  - general

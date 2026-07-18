@@ -53,3 +53,7 @@ related: []
   - The impact of the statue on Parnast.
 - **Open Questions:**
   - Clarify Kragota's intentions and whether her network was knowingly used by Bad Fruul or if she was unaware.
+
+## Related
+
+- [[narbeck_horn]]

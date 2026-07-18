@@ -21,7 +21,7 @@ Fortunately, the escapees find both in the form of a few Barrelstalk mushrooms. 
 Eldeth covers the rear as they travel, trying to obscure any evidence of their travels. Buppido seems particularly interested in her tricks. 
 
 
-Daz, Gyrgum, Thorin, and Zalthir try to help the dwarf. Eldeth tries not to be annoyed at all of the help. 
+Daz, Grygum, Thorin, and Zalthir try to help the dwarf. Eldeth tries not to be annoyed at all of the help. 
 
 
 As the day progresses, they arrive at a narrow passageway lined with bioluminescent green moss. This moss grows in warm and damp areas and is particularly common near steam tunnels and vents. 

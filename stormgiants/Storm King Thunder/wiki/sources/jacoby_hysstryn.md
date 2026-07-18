@@ -32,16 +32,20 @@ related: []
 
 ### Connections to Existing Wiki
 - **[[civilian]]**: Jacoby fits this category as he is a civilian seeking justice for his brother.
-- **[[magic-user]]**: Jacoby and his brother Persson are described as merchants, which might imply they are magic users, though this is not explicitly stated.
-- **[[investigation]]**: The case of Mirak Hysstryn involves an investigation, which relates to the broader concept of investigations and their outcomes.
+- **[[teleportation]]**: Jacoby and his brother Persson are described as merchants, which might imply they are magic users, though this is not explicitly stated.
+- **[[investigation-of-uthors-other-business-2026-06-06-132838]]**: The case of Mirak Hysstryn involves an investigation, which relates to the broader concept of investigations and their outcomes.
 
 ### Contradictions & Tensions
 - **Internal Tension**: Jacoby's apparent pragmatism and willingness to confront authority figures might seem contradictory to his theatrical and outspoken nature.
 - **External Conflict**: His relationship with the Lord Protector and his brother Persson indicates potential tension within the family.
 
 ### Recommendations
-- **Create Pages**: [[civilian]], [[magic-user]], [[investigation]], [[class-based-neglect]], [[magical-bow]]
+- **Create Pages**: [[civilian]], [[teleportation]], [[investigation-of-uthors-other-business-2026-06-06-132838]], [[class-based-neglect]], [[magical-bow]]
 - **Emphasize**: Jacoby's role as a civilian seeking justice and his specific demands for hard evidence.
 - **Open Question**: Investigate further into the nature of Jacoby and Persson's relationship and their motivations for pursuing the case.
-- **Update Existing Pages**: Ensure [[civilian]] and [[magic-user]] pages reflect the information provided about Jacoby and Persson.
+- **Update Existing Pages**: Ensure [[civilian]] and [[teleportation]] pages reflect the information provided about Jacoby and Persson.
 - **Flag for User**: Consider creating a page for the concept of **"Class-Based Neglect"** if it does not already exist.
+
+## Related
+
+- [[persson_hysstryn]]

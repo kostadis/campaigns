@@ -13,3 +13,7 @@ sources: ["cisco.md", "financial-management.md", "reckless-decisions.md"]
 - **Implications:** His authority over Eden's financial decisions suggests a complex dynamic between servant and employer.
 - **Further Research:** Investigate how Cisco's influence impacts Eden's behavior and the broader narrative dynamics.
 - **Related Sources:** [financial-management.md], [reckless-decisions.md]
+
+## Related
+
+- [[cisco-authority-over-financial-decisions]]

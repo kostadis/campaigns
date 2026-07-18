@@ -16,3 +16,7 @@ Investigate the identity and origin of the assassins who targeted Hyuth. The ass
 - **Role in Narrative:** The mystery surrounding the assassins adds tension and complexity to Hyuth's character and the overall story.
 - **Search Terms:** assassins identity, assassin origins, motive behind assassination attempts, Hyuth's attackers
 SEARCH: assassins identity | assassin origins | motive behind assassination attempts | Hyuth's attackers
+
+## Related
+
+- [[the-identity-of-the-carver-2026-06-06-002500]]

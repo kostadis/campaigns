@@ -31,14 +31,14 @@ related: []
 - **Strength of Evidence**: Strong, corroborated by multiple sources (Bad Fruul's statements and physical discovery).
 
 ### Connections to Existing Wiki
-- **Existing Pages**: [[mama-mia]], [[bad-fruul]], [[parnast]], [[sunken-wizard-tower]], [[troops]]
+- **Existing Pages**: [[mama_mia]], [[bad-fruul]], [[parnast]], [[tower-of-storms]], [[troops]]
 - **Impact**: This source strengthens existing knowledge about Mama Mia's role and provides new details about her physical presence and command structure.
 
 ### Contradictions & Tensions
 - **Internal Tension**: No contradictions noted between this source and existing wiki content.
 
 ### Recommendations
-- **Create or Update Pages**: [[mama-mia]], [[bad-fruul]], [[troops]]
+- **Create or Update Pages**: [[mama_mia]], [[bad-fruul]], [[troops]]
 - **Emphasize**: Specific details about Mama Mia's role, her physical presence, and her contributions to Bad Fruul's operations.
 - **De-emphasize**: General background information that is already well-covered in existing pages.
 - **Open Questions**: Further exploration of Mama Mia's motivations and relationships within Bad Fruul's horde.

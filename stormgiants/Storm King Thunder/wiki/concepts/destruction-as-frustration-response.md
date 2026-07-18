@@ -16,3 +16,7 @@ sources: ["npcs/borg_the_hammer.md"]
 This response mirrors [[guilt-as-internal-prison]] and [[reactive-leadership]]: when control is lost, the individual reasserts dominance through chaos. Unlike calculated destruction (e.g., [[blagothkus]]’s siege tactics), this is impulsive, self-sabotaging, and emotionally revealing. It exposes the operator’s psychological fragility — a flaw that can be exploited.
 
 In narrative terms, destruction as frustration response transforms a competent antagonist into a tragic figure: one who understands the game but cannot master their own emotions. It is the cost of being a tool — when the tool breaks, it breaks everything around it.
+
+## Related
+
+- [[intelligence-failure-as-catalyst]]

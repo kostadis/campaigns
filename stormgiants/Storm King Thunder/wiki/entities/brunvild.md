@@ -19,6 +19,6 @@ As a frost giant jarl, Brunvild embodies the dignity and gravitas of his kind, y
 
 His role as executioner ties him to the themes of [[kenku-influence]] and [[ultimate-goals]], suggesting a transformation from victim to arbiter — a shift mirrored in the kenku’s mimicry of justice through repetition and ritual. Brunvild’s final act was not born of hatred, but of solemn duty: to ensure that the scales of justice, long ignored, were finally balanced.
 
-He is also linked to the broader category of [[flying-creatures]], though not by nature, but by symbolic association — his testimony and actions rose above the petty politics of the earthbound, reaching the ears of divine witnesses. His status as a [[vampires]]-adjacent figure remains ambiguous; while no direct vampiric ties are confirmed, his endurance, silence, and chilling presence evoke the quiet, eternal watchfulness of the undead.
+He is also linked to the broader category of [[zephyros]], though not by nature, but by symbolic association — his testimony and actions rose above the petty politics of the earthbound, reaching the ears of divine witnesses. His status as a [[the_vampire_unnamed]]-adjacent figure remains ambiguous; while no direct vampiric ties are confirmed, his endurance, silence, and chilling presence evoke the quiet, eternal watchfulness of the undead.
 
 Brunvild’s legacy is not one of conquest, but of accountability. He is the living memory of those erased by Blagothkus’s ambition — and the hand that made that erasure irreversible.

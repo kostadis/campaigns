@@ -1,0 +1,79 @@
+[
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is currently engaged in battle against Jorlan after landing a 14-damage hit that imposed disadvantage, and is now repositioning after a missed attack.",
+    "source_quote": "The first hit lands true. Fourteen damage, and I roll through the Sap, put him off-balance, give him disadvantage on whatever's coming back at me.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jorlan",
+    "fact": "Jorlan is staggered but not broken, still angry, and remains a threat with AC 18 after dodging a 2-roll attack.",
+    "source_quote": "Jorlan staggers. He doesn't fall. ... Jorlan is still there, staggered but not broken, which means he's still angry, which means we are not done here.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "spore walker",
+    "fact": "A spore walker has climbed behind Thorin and missed its first attack, but connected with a 5-damage glancing strike.",
+    "source_quote": "Then a spore walker climbs up behind me, because of course it does, and the first swing misses clean \u2014 the thing reaches up and just swings into nothing, which is the best that can be said about it \u2014 but the second one connects. Five damage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin, son of the Ember Vanguard",
+    "fact": "Thorin is flanked by a dead man's fungal corpse during the ongoing battle, and has adjusted his footing after the spore walker's attack.",
+    "source_quote": "Thorin, son of the Ember Vanguard, flanked by a dead man's fungal corpse while the fight rages in all directions around him. I adjust my footing.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is grinding the Heart Fungus down with a sound resembling 'Suleiman,' delivering 20 force damage per turn.",
+    "source_quote": "Behind me, deeper in the cavern, Grygum is grinding the Heart Fungus down with something that sounds like the word *Suleiman* and delivers twenty force damage per turn like a promise. The thing shudders.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz has cast a precisely shaped Fireball that caught Ilvara and her mushroom icon in the center, dealing 24 damage despite her save.",
+    "source_quote": "And then Daz opens up with a Fireball shaped so precisely around his allies that it catches Ilvara and her precious mushroom icon in the center of it, 24 damage worth of fire finding her even through her save.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara",
+    "fact": "Ilvara has been struck by Daz\u2019s Fireball, taking 24 damage, her mushroom icon smolders, and she is now bleeding.",
+    "source_quote": "the icon smolders. The mushroom is burning. Ilvara is bleeding.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "mushroom icon",
+    "fact": "Ilvara\u2019s mushroom icon has been damaged by fire, smoldering and burning after a 24-damage Fireball.",
+    "source_quote": "catches Ilvara and her precious mushroom icon in the center of it... the icon smolders. The mushroom is burning.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer remains in Thorin\u2019s hand as the battle continues, unchanged and ready.",
+    "source_quote": "Jorlan is still in front of me, and Dawnbringer is still in my hand.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "battle escalation",
+    "fact": "The battle has escalated with multiple attacks, critical hits, and environmental damage, changing the tactical math and increasing urgency.",
+    "source_quote": "The math has changed. ... the fight rages in all directions around him.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "ongoing conflict",
+    "fact": "The conflict is unresolved \u2014 Jorlan remains hostile, the Heart Fungus is being actively processed, and multiple combatants are still engaged.",
+    "source_quote": "Jorlan is still there... we are not done here. ... the fight rages in all directions around him.",
+    "quote_verified": false
+  }
+]

@@ -31,14 +31,14 @@ related: []
 
 ### Connections to Existing Wiki
 - **[[mirabar]]**: Relevant, as Tack is a minor noble of Mirabar.
-- **[[elite-guard]]**: Relevant, as Tack is described as a knight of the elite guard.
+- **[[tack_proudfoot_esquire]]**: Relevant, as Tack is described as a knight of the elite guard.
 - **[[betrothal]]**: Relevant, as Tack is betrothed to a member of Clan Battlehammer.
 
 ### Contradictions & Tensions
 - None apparent based on the provided information.
 
 ### Recommendations
-- **Create Pages**: [[tack-proudfoot-esquire]], [[clan-battlehammer]], [[elite-guard]], [[mirabar]].
+- **Create Pages**: [[tack_proudfoot_esquire]], [[circle-of-thunder]], [[tack_proudfoot_esquire]], [[mirabar]].
 - **Emphasize**: Tack's true identity and his role within Mirabar's nobility.
 - **De-emphasize**: Internal tensions or contradictions.
 - **Open Question**: Further explore Tack's relationship with Orsik and the broader implications of his political connections.

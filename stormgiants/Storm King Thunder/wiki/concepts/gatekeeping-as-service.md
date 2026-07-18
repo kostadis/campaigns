@@ -4,7 +4,7 @@ title: Gatekeeping-as-service
 created: 2026-06-15
 updated: 2026-06-15
 tags: [social-mechanic, institutional-control, procedural-authority]
-related: [credential-based-access, hospitality-as-ritual, disguised-influence, cover-identity-as-merchant, layered-command-structure]
+related: ["credential-based-access", "hospitality-as-ritual", "disguised-influence", "cover-identity-as-merchant", "organizational-secrecy-via-bosses"]
 sources: ["npcs/corwin.md"]
 ---
 # Gatekeeping-as-Service
@@ -16,3 +16,7 @@ This concept is exemplified by Corwin at the Falcon Hunting Lodge, who verifies 
 This mirrors [[disguised-influence]] (where authority is masked as legitimacy) and [[cover-identity-as-merchant]] (where commerce masks control), but applies it to domestic and logistical contexts. Unlike the [[divine-oracle]], which is bound by divine law, gatekeeping-as-service is bound by social expectation — and is therefore more pervasive, more mundane, and more insidious.
 
 It reveals that in this world, control is not always wielded by kings or dragons — it is often held by the quiet, unremarkable person who checks your papers before letting you in.
+
+## Related
+
+- [[procedural-hospitality]]

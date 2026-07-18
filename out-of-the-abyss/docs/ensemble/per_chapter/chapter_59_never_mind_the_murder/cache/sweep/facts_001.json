@@ -1,0 +1,233 @@
+[
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is a library of murderers where the reward for unmasking a murderer is library access already held, and where academic debate overrides active murder.",
+    "source_quote": "Nothing says you are an academic institution quite like blowing off everything important to focus on what really matters: new research. And getting published.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum turned a half-built answer to the Question of the Age \u2014 a triangle with three options from Stroud's Gambit \u2014 into a fourth corner and published it, triggering a mass exodus of Avowed to debate it.",
+    "source_quote": "He'd taken my answer to the Question of the Age, the triangle, three options, the thing I'd half-built out of Stroud's Gambit and never expected anyone to take seriously, and he'd turned it into a thing. A fourth corner. And he had told everyone.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "the poison book",
+    "fact": "The poison book was wrapped when picked up by Janussi at dinner, and the poison only activates upon contact with living saliva, turning dark after death.",
+    "source_quote": "The book got picked up by Janussi at dinner. And at the time, it was wrapped. When I mixed with his saliva, it turned black, okay?",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "the sapphire",
+    "fact": "The stolen sapphire is a retrieval token for a summoning spell that pulls an item to the holder \u2014 usable only if the item is unpossessed, such as from a corpse.",
+    "source_quote": "The sapphire isn't decoration: it's the retrieval token, and it has to be the same sapphire both to store and to recall. Possess the gem and you possess the item, provided you have the magic to call it. An undead can. A dead man can't.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Kalan Strongbranch's key",
+    "fact": "Kalan Strongbranch's key was removed from his corpse, and the summoning spell could only retrieve it because death rendered it unpossessed.",
+    "source_quote": "The cleanest way to free it from his possession was to make him a corpse. Which is why Strongbranch handed his off rather than wear it.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "the key handed to Daz",
+    "fact": "The key previously held by Kalan Strongbranch was handed to Daz, and later tested by him for magic \u2014 it was clean, not bound to the summoning spell.",
+    "source_quote": "I took custody of the key, set my fingers to the cold iron of it... The answer was no. The key was clean. Not linked to that spell, not created by it.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz tested Kalan Strongbranch's key for magic and confirmed it bore no enchantment tied to the summoning sapphire, closing one line of inquiry.",
+    "source_quote": "I took custody of the key, set my fingers to the cold iron of it, and let the spell read the object the way an auditor reads an account someone else kept.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir suspected the key might be bound to the summoning magic and insisted it be checked, demonstrating his instinct for arcane tracing.",
+    "source_quote": "Zalthir wanted it checked for ongoing magic, and that is my function, not his. 'I can read it,' I said. 'A small divining touch \u2014 the least of the seeing-arts.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daral",
+    "fact": "Daral believed he was being framed for murder, carried the poison book, and feared Zalthir would learn of his drunken barroom claims about dragonborn.",
+    "source_quote": "He had the poison book. He'd worked out someone wanted him to take the fall. And in his current state he was very much hoping nobody would mention to Zalthir what he'd said about dragonborn.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Oak Tree Apothecary",
+    "fact": "The Oak Tree Apothecary, located between the Sea Warden's Tower and the House of Mechanus, is a treehouse grown into an evergreen oak and home to the satyr druid Leuwin, who can identify the poison from the book.",
+    "source_quote": "The Oak Tree Apothecary, he said, between the Sea Warden's Tower and the House of Mechanus, a treehouse grown into the roots of an evergreen oak. A satyr druid named Leuwin, elderly and absent-minded, with a pet squirrel, who could identify the poison from the book definitively.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Leuwin",
+    "fact": "Leuwin, a satyr druid with a pet squirrel, is capable of definitively identifying the poison from the book and resides at the Oak Tree Apothecary.",
+    "source_quote": "A satyr druid named Leuwin, elderly and absent-minded, with a pet squirrel, who could identify the poison from the book definitively.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Fembris",
+    "fact": "Fembris, the Avowed assigned to monitor the party, left his post to attend Grygum\u2019s theological debate, creating an hour of unsupervised access to the keep.",
+    "source_quote": "Fembris asked to leave. Our minder... wanted to attend a debate. Grygum's debate... I did not stop him. I did the only sensible thing, which was to note that his departure handed us an hour without supervision.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "dining room",
+    "fact": "The dining room, where meals are served, became an unwatched space during the Avowed's exodus to Grygum\u2019s debate, making it a likely location for a poisoner to act.",
+    "source_quote": "The keep was suddenly full of rooms nobody would be watching. The dining room, for one. Where the meals were served, and where, if you were a poisoner, you'd have wanted to be.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin prioritized finding the killer over recovering the key or sapphire, recognizing that only the murderer\u2019s identity puts coin in their hands.",
+    "source_quote": "Our priority is to find the killer, not who stole the key. Nobody asked us to find the person who stole the key. That's what we get paid for.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "the poison",
+    "fact": "The poison is clear when inactive and only turns black upon contact with living saliva, meaning it would not appear dark in a vial or room \u2014 only on a corpse.",
+    "source_quote": "The stuff only wakes up when a living thing touches it. The poison sitting in somebody's room right now wouldn't be black at all. It'd be clear. A vial of some sort of clear.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool attempted to assist Daz in resolving the connection between the sapphire, key, and murder, but failed \u2014 his eye surfaced through the ooze and sank back dolefully.",
+    "source_quote": "Glabbagool tried to help, an eye surfacing through the ooze, hopeful, and I came up emptier still, and the eye sank back down, dolefully, into the rest of him.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Oval Theater",
+    "fact": "The Oval Theater hosted Grygum\u2019s theological disputation, drawing half the Avowed and Bookwyrm herself, causing a critical lapse in security.",
+    "source_quote": "A disputation in the Oval Theater on his new theology, with half the avowed already in attendance and Bookwyrm herself unable to politically afford to miss it.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi picked up the poison book at dinner, at which point it was still wrapped, establishing a critical timestamp in the poisoning timeline.",
+    "source_quote": "The book got picked up by Janussi at dinner. And at the time, it was wrapped.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "keeper's Tower",
+    "fact": "Daral delivered the book under the evergreen tree around 11am on Deadwinter's Eve, then rushed to the keeper's Tower for his end-of-year meeting.",
+    "source_quote": "He'd dropped the book under the evergreen tree, next to the other gifts, around 11am on Deadwinter's Eve, before rushing up to the keeper's Tower for his end-of-year meeting.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir recorded Daral's drunken barroom claims about dragonborn with absolute fidelity, making them a potential liability.",
+    "source_quote": "Totally, totally,\" Zalthir said, in a voice that recorded everything.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Sea Warden's Tower",
+    "fact": "The Sea Warden's Tower is located near the Oak Tree Apothecary and is referenced as a landmark in Daral\u2019s testimony about the book's delivery.",
+    "source_quote": "The Oak Tree Apothecary, he said, between the Sea Warden's Tower and the House of Mechanus...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "House of Mechanus",
+    "fact": "The House of Mechanus is a landmark adjacent to the Oak Tree Apothecary, used by Daral to orient the location of the apothecary.",
+    "source_quote": "The Oak Tree Apothecary, he said, between the Sea Warden's Tower and the House of Mechanus...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch carried a key for years, then surrendered it upon realizing its vulnerability to summoning magic after death, demonstrating paranoid foresight.",
+    "source_quote": "He'd carried the thing for years. But you don't survive long arguing with a dead man's caution.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm, a keeper of Candlekeep, could not politically afford to miss Grygum\u2019s theological debate, indicating her high status and the debate\u2019s political weight.",
+    "source_quote": "Bookwyrm herself unable to politically afford to miss it.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Grand Hall",
+    "fact": "The Avowed community wanted to drop everything and debate Grygum\u2019s new theology in the Grand Hall, prioritizing academic discourse over the active murder.",
+    "source_quote": "The whole Avowed community wanted, right then and there, to drop everything and debate it in the Grand Hall.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz concluded that Daral\u2019s desperation made him honest and generous, and classified him under the most useful psychological column for an investigator.",
+    "source_quote": "I filed Daral under *desperate*, which is the most useful column a man can occupy, because desperation makes people honest and generous in equal measure.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin confirmed the poison activates only after death, ruling out its presence as a visible black substance in any living person\u2019s possession.",
+    "source_quote": "The poison sitting in somebody's room right now wouldn't be black at all. It'd be clear. A vial of some sort of clear.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "evergreen oak",
+    "fact": "The evergreen oak is the site where Daral left the book under the tree on Deadwinter's Eve, establishing the last known unaltered location of the book before poisoning.",
+    "source_quote": "He'd dropped the book under the evergreen tree, next to the other gifts, around 11am on Deadwinter's Eve...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz correctly deduced that the sapphire is a backup retrieval token, and that the key must have been stolen before the victim\u2019s death to be usable by the summoning spell.",
+    "source_quote": "A backup, in other words, against theft of the original. If someone feared their key would be stolen, they'd cast a duplicate into the gem and keep the gem somewhere safe...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz noted that the pattern connecting the sapphire, key, and murder was visible but unresolved \u2014 a gap in his account that he refused to call a failure.",
+    "source_quote": "I reached for it and came up with nothing... I will not call that a failure. I will call it a gap in the account.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "safe",
+    "fact": "A sapphire was stolen from a safe, and is now believed to be the retrieval token for a summoning spell tied to a key taken from a corpse.",
+    "source_quote": "Also, from the safe, a sapphire was taken. And we're proposing that the sapphire is actually used to sort of be able to retrieve the key.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir\u2019s voice recorded everything Daral said, including drunken barroom claims about dragonborn, making those words a potential weapon against him.",
+    "source_quote": "Totally, totally,\" Zalthir said, in a voice that recorded everything.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daral",
+    "fact": "Daral offered to install magical wards on all future gift wrappings if he survived the night, revealing his growing awareness of the lethal nature of Candlekeep\u2019s customs.",
+    "source_quote": "If he made it through the night, hint, hint, he'd see to it everyone wrapped their gifts right. Wards on every wrapping, the kind that bite the careless, for everyone.",
+    "quote_verified": false
+  }
+]

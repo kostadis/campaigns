@@ -12,3 +12,8 @@ sources: ["yip_hammaver.md"]
 - **Matters in Source:** Central to Yip's motivations and actions
 - **Evidence Supporting Claims:** Direct statements and actions of Yip Hammaver
 - **Strength of Evidence:** Direct statements and actions of Yip Hammaver
+
+## Related
+
+- [[sanctuary]]
+- [[misjudgment]]

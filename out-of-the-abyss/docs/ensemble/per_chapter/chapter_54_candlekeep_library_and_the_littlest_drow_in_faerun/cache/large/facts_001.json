@@ -1,0 +1,156 @@
+[
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a dwarf raised by hill giants, struggling to reconcile his dual heritage and seeking acceptance into a dwarven clan. He is emotionally grounded by his bond with Dawnbringer and has formed deep, unspoken alliances with his companions after surviving the Underdark.",
+    "source_quote": "I'm a dwarf. I'm not invited along.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth is a dwarven noble bound by duty to report the dangers of the Underdark to Mithral Hall and Gauntlgrym. She recognizes Thorin\u2019s worth beyond clan norms and has sworn to formally embrace him into her clan after delivering her briefing.",
+    "source_quote": "I swear.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is a sentient magical sword with agency, warmth, and a personality shaped by months of darkness and now the open sky. She shares a profound, non-verbal bond with Thorin and is unapologetically self-aware, even when called annoying.",
+    "source_quote": "I'm annoying also, Dawnbringer. Look, you know, we got each other.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a former Ember Vanguard monk trained in reading environmental stillness and threat vectors. He remains hyper-vigilant after months underground and has developed a quiet, wordless rapport with his companions, especially in moments of danger.",
+    "source_quote": "The deer.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is an ooze with unexpected sentience and capacity for witness. Despite lacking fixed appendages or conventional mobility, he demonstrates focused stillness and awareness, prompting Zalthir to consider him as a potential monk candidate.",
+    "source_quote": "Glabbagool just looked up.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Spiderbait",
+    "fact": "Spiderbait is a goblin who has never been to the surface and is navigating social integration with cautious optimism. He seeks safety through proximity to larger, more accepted companions rather than direct confrontation with prejudice.",
+    "source_quote": "Do you mind if I just sort of hang out with you guys?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a methodical, observant companion who relies on precision and analysis. He shares Zalthir\u2019s awareness of environmental anomalies and contributes to the group\u2019s silent consensus on threats.",
+    "source_quote": "Daz squinted and pushed his spectacles up and looked like a man calculating the precise angle of the light source.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a pragmatic, dice-rolling companion whose confidence often masks deep intuition. He is protective of small or vulnerable beings and serves as the group\u2019s emotional anchor in moments of tension.",
+    "source_quote": "You conclude, that what is following you is a deer.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Clan of Mithral Hall",
+    "fact": "The dwarven clan of Mithral Hall holds authority over surface knowledge of the Underdark and is the intended recipient of Eldeth\u2019s report. They are perceived as gatekeepers of tradition, but Eldeth believes they will extend inclusion to Thorin once the truth is presented.",
+    "source_quote": "I am certain they will want to speak to you, and I will make it a statement of purpose that you shall be embraced by our clan.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Ember Vanguard",
+    "fact": "The Ember Vanguard is a monastic order with specialized training in environmental threat detection and silent communication. Zalthir\u2019s training within this order enables the group to recognize covert surveillance without verbal confirmation.",
+    "source_quote": "The three of you quickly realize... that somebody's following you.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "departure from Candlekeep's tunnel",
+    "fact": "The group emerges from the Underdark into sunlight at Candlekeep\u2019s tunnel mouth, marking the end of their subterranean journey and the beginning of their transition to the surface world. Each member reacts differently, reflecting their trauma, hope, and adaptation.",
+    "source_quote": "The sun. I keep coming back to that first moment of it...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Eldeth\u2019s oath to Thorin",
+    "fact": "Eldeth formally swears to secure Thorin\u2019s acceptance into her clan after delivering her report to the dwarven lords, transforming what could have been a farewell into a promise of belonging.",
+    "source_quote": "I swear.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "detection of hidden pursuer",
+    "fact": "On the third day of surface travel, Zalthir and his companions detect a silent, patient follower in the northern treeline \u2014 an entity that mimics natural stillness and has been tracking them since emerging from the Underdark.",
+    "source_quote": "The trees north of us were wrong.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is a landmark on the surface, situated west of the Underdark exit, serving as a neutral ground and potential sanctuary. It is referenced as a destination for both Eldeth\u2019s journey and Spiderbait\u2019s hope for safety.",
+    "source_quote": "Head west and you'll hit Candlekeep.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Mithral Hall",
+    "fact": "Mithral Hall is a dwarven stronghold and political center where Eldeth must deliver her report on the Underdark\u2019s dangers. It represents the threshold between the hidden world and surface authority, and the potential gateway to Thorin\u2019s acceptance.",
+    "source_quote": "I must go to Mithral Hall.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is a sentient, warm-hilted magical sword that radiates emotional resonance. It is not merely a weapon but a companion with personality, history, and agency \u2014 capable of affection, sarcasm, and silent understanding.",
+    "source_quote": "I'm annoying also, Dawnbringer.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Hidden pursuer",
+    "fact": "An unidentified entity is following the group with expert patience, using terrain and timing to remain undetected. It moves with intention, avoiding detection even from trained observers, and is not a deer despite Grygum\u2019s roll.",
+    "source_quote": "Oh, no. It's not a deer.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Thorin\u2019s dwarven identity",
+    "fact": "Thorin\u2019s journey to reconcile his giant upbringing with his dwarven heritage remains unresolved. Eldeth\u2019s oath offers a path, but whether the clan will accept him \u2014 and how he will define himself \u2014 is an open thread.",
+    "source_quote": "I do want to learn about my dwarven roots.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the pursuer\u2019s identity",
+    "fact": "The identity, motive, and origin of the hidden follower remain unknown. Its presence suggests deeper, surface-level threats connected to Underdark events \u2014 a looming danger not yet named.",
+    "source_quote": "Whatever was in those trees had been moving with us... Patient.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Glabbagool\u2019s monk potential",
+    "fact": "Zalthir\u2019s contemplation of Glabbagool as a monk candidate introduces an unprecedented question: can an ooze embody discipline, stillness, and spiritual growth? This thread challenges traditional definitions of monasticism.",
+    "source_quote": "He's got the stillness working for him.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "third day of open sky",
+    "fact": "The events of the hidden pursuer\u2019s detection occur on the third day after emerging from the Underdark, marking a psychological transition point where surface normalcy begins to fray under lingering trauma.",
+    "source_quote": "The third day of open sky and I still hadn't stopped scanning.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "dusk",
+    "fact": "The pursuer is detected at dusk \u2014 a time of diminished visibility and heightened vulnerability \u2014 which the entity appears to have chosen deliberately or stumbled into through patience.",
+    "source_quote": "Dusk came in from the west...",
+    "quote_verified": false
+  }
+]

@@ -29,3 +29,8 @@ sources: ["grik.md"]
 
 ## Arc Score Events
 - N/A — Unla Kee is not a central figure in the narrative.
+
+## Related
+
+- [[thistle]]
+- [[mama-manyknuckles]]

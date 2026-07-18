@@ -28,15 +28,21 @@ related: []
 - **Strength of Evidence**: Direct observations support the claim, though no further details are provided.
 
 ## Connections to Existing Wiki
-- **[[deities]]**: Links to Lady Atalia, who is described as a deity.
-- **[[nobility]]**: Links to Lord Hubbard, who is identified as a noble.
+- **[[the-other-deity-mystery-2026-06-06-235658]]**: Links to Lady Atalia, who is described as a deity.
+- **[[prince-thornacious]]**: Links to Lord Hubbard, who is identified as a noble.
 - **[[games]]**: Links to Sava, which is described as a competitive game.
 
 ## Contradictions & Tensions
 - No contradictions or tensions noted within the provided information.
 
 ## Recommendations
-- **Create Pages**: [[lord-hubbard]], [[lady-atalia]], [[savagame]]
+- **Create Pages**: [[lord_hubbard]], [[lady_atalia]], [[savagame]]
 - **Emphasize**: The nature of Lord Hubbard’s role as a noble and his interaction with Lady Atalia.
 - **Open Questions**: Further details about Lord Hubbard’s background, motivations, and interactions with other characters would be beneficial.
 - **Update**: Ensure the descriptions of Lady Atalia and Sava are consistent with broader wiki content.
+
+## Related
+
+- [[the_high_priest_of_mielikki]]
+- [[lord_khaspere_drylund]]
+- [[lord_zymorven]]

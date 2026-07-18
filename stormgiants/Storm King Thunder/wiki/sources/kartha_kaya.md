@@ -33,7 +33,7 @@ related: []
 
 ### Connections to Existing Wiki
 - **[[yakfolk]]**: This source provides insight into Kartha-Kaya's role within the Yakfolk community.
-- **[[psychic-powers]]**: The concept of psychic possession aligns with existing entries on psychic powers.
+- **[[psionic-resonance]]**: The concept of psychic possession aligns with existing entries on psychic powers.
 - **[[mount-hamarhaast]]**: The location details provide context for the setting.
 
 ### Contradictions & Tensions
@@ -42,8 +42,8 @@ related: []
 
 ### Recommendations
 - **Create or Update Pages**:
-  - [[kartha-kaya]]: To capture the detailed information about her character and actions.
-  - [[psychic-powers]]: To include more examples of psychic possession and manipulation.
+  - [[kartha_kaya]]: To capture the detailed information about her character and actions.
+  - [[psionic-resonance]]: To include more examples of psychic possession and manipulation.
   - [[yakfolk]]: To add details about her role and interactions within the Yakfolk community.
 - **Emphasize**:
   - The psychological tactics employed by Kartha-Kaya.

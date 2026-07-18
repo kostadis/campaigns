@@ -1,8 +1,8 @@
 ---
 type: source
 title: "Source: zariel.md"
-created: 2026-05-13
-updated: 2026-05-13
+created: 2026-06-06
+updated: 2026-06-06
 sources: ["zariel.md"]
 tags: []
 related: []
@@ -10,73 +10,49 @@ related: []
 
 # Source: zariel.md
 
-### Key Entities
-- **Zariel:**
-  - **Name and Type:** Archdevil, ruler of Avernus, faction member
-  - **Role in the Source:** Central
-  - **Existing in Wiki:** Likely
-- **Delsephine:**
-  - **Name and Type:** NPC
-  - **Role in the Source:** Peripheral
-  - **Existing in Wiki:** Likely
-- **Sandesyl Morgia:**
-  - **Name and Type:** NPC
-  - **Role in the Source:** Peripheral
-  - **Existing in Wiki:** Likely
-- **Tiamat:**
-  - **Name and Type:** Archdevil
-  - **Role in the Source:** Peripheral
-  - **Existing in Wiki:** Likely
-- **Severin (Cult of the Dragon):**
-  - **Name and Type:** NPC
-  - **Role in the Source:** Peripheral
-  - **Existing in Wiki:** Likely
+## Key Entities
 
-### Key Concepts
-- **Infernal Forces:**
-  - **Definition:** Forces or entities within the Nine Hells, particularly those under Zariel's control.
-  - **Matters:** Crucial for understanding Zariel’s influence and plans.
-  - **Wiki Existence:** Likely
-- **Private Arrangement:**
-  - **Definition:** Secret dealings or manipulations by Zariel.
-  - **Matters:** Important for comprehending Zariel’s strategic approach.
-  - **Wiki Existence:** Likely
-- **Political Protection:**
-  - **Definition:** Zariel’s role in manipulating political structures to achieve her goals.
-  - **Matters:** Vital for understanding her influence over major cosmic players.
-  - **Wiki Existence:** Likely
+*   **Zariel** (Archdevil)
+    *   **Role:** Central figure in the overarching cosmology; ruler of Avernus.
+    *   **Status:** Existing in lore, but currently a "shadow" antagonist who has not yet met the party directly.
+*   **Tiamat** (Dragon Queen/Goddess)
+    *   **Role:** Primary target of Zariel’s manipulation; portrayed as an "annoying office mate."
+    *   **Status:** Exists in lore; her presence in Avernus is the catalyst for Zariel's actions.
+*   **Sandesyl Morgia** (Castellan)
+    *   **Role:** Source of information regarding Zariel’s role as an architect of manipulation.
+    *   **Status:** Exists in wiki; serves as a narrative conduit.
+*   **Delsephine** (NPC/Source)
+    *   **Role:** Source of information regarding Zariel's interaction with Tiamat.
+    *   **Status:** Likely a minor NPC or specific source character.
+*   **Severin** (Cult of the Dragon member)
+    *   **Role:** A pawn used by Zariel to manipulate the Cult of the Dragon.
+    *   **Status:** Associated with the Cult of the Dragon; potentially a mid-level antagonist/pawn.
+*   **The Cult of the Dragon** (Organization)
+    *   **Role:** A large-scale organization manipulated by Zariel as a "disposable instrument."
+    *   **Status:** Exists in lore.
 
-### Main Arguments & Findings
-- **Core Claims:**
-  - Zariel is the ruler of Avernus and operates through layered manipulation.
-  - She orchestrated Tiamat's attempted manifestation and the Cult of the Dragon's activities for her own ends.
-- **Evidence:**
-  - Direct references from NPCs like Delsephine and Sandesyl Morgia.
-  - Indirect evidence through the party's knowledge of Zariel's manipulative tactics.
-- **Strength of Evidence:**
-  - Strong, corroborated by multiple sources.
+## Key Concepts
 
-### Connections to Existing Wiki
-- **Existing Pages:**
-  - [[House Margaster]], [[Cambions]], Silverymoon, [[Everlund]]
-  - [[Infernal Forces]], [[Private Arrangement]], [[Political Protection]]
-  - [[Unpardonable Sins]]
-- **Impact:**
-  - Strengthens existing knowledge about Zariel's role and strategies.
-  - Challenges preconceived notions about her motivations and influence.
+*   **Layered Manipulation:** The strategy of orchestrating complex events from behind the scenes while keeping one's own hands clean (Zariel’s primary mode of operation).
+*   **Disposable Instruments:** The use of powerful entities (Tiamat, Severin) as tools to achieve a specific goal without regard for their long-term status.
+*   **Strategic Displacement:** Zariel’s specific goal of removing Tiamat from Avernus—a move that frames her actions not as "evil" in the traditional sense, but as administrative/territorial management.
+*   **Information Asymmetry (Narrative):** The gap between what the party knows about Zariel (her role in the Cult's plot) and her actual broader ambitions.
 
-### Contradictions & Tensions
-- **Internal Tension:**
-  - Zariel’s willingness to use major cosmic players as instruments highlights a potential contradiction between her strategic necessity and ethical considerations.
-- **External Conflict:**
-  - Potential tension with Tiamat, who resents Zariel’s manipulation, could lead to future conflicts.
+## Main Arguments & Findings
 
-### Recommendations
-- **Pages to Create/Update:**
-  - [[Zariel]], [[Infernal Forces]], [[Private Arrangement]], [[Political Protection]]
-- **Emphasis:**
-  - Highlight Zariel’s strategic manipulations and her complex relationships with key entities.
-  - Emphasize the potential for future conflicts with Tiamat.
-- **Open Questions:**
-  - What are Zariel’s broader ambitions beyond removing Tiamat?
-  - How does she maintain her influence over t
+*   **Zariel as a "Puppet Master":** The primary finding is that Zariel is not just an antagonist, but a meta-antagonist who manipulates other major villains (Tiamat, Severin).
+*   **The Cult of the Dragon's True Purpose:** The document reveals that the Cult’s actions were not solely their own; they were engineered by Zariel to facilitate her personal agenda.
+*   **Evidence Strength:** High for her role in the current plot (removing Tiamat), but low regarding her ultimate endgame, as she remains a distant figure.
+
+## Connections to Existing Wiki
+
+*   **[iymrith]**: As an Ancient Dragon, Iymrith's presence/status may be linked to the broader "Dragon" themes Zariel is manipulating.
+*   **[cult-of-the-dragon]**: Directly relates to the manipulation of this organization.
+*   **[sandesyl-morgia]**: Provides the narrative link between the party's current location/knowledge and Zariel’s actions.
+*   **[tiamat]**: (Implicitly linked via the "Tiamat's presence" plot point).
+
+## Contradictions
+
+## Related
+
+- [[zariel]]

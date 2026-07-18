@@ -14,3 +14,7 @@ Installed to protect Hyuth. Gargoyle guards were strategically placed to ensure 
 - **Installation:** Hyuth summoned gargoyles to guard himself following the assassination attempts.
 - **Effectiveness:** The presence of gargoyles significantly reduced the risk of further attacks on Hyuth.
 - **Role in Narrative:** The gargoyle guard system underscores Hyuth's efforts to maintain control and protect himself, even in the face of external threats.
+
+## Related
+
+- [[assassination-attempts]]

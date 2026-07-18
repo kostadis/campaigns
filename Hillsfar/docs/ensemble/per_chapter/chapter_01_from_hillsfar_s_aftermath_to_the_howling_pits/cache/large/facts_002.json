@@ -1,0 +1,541 @@
+[
+  {
+    "type": "location",
+    "subject": "Howling Pits",
+    "fact": "The Howling Pits are a twisted realm of the Underdark.",
+    "source_quote": "A twisted realm of the Underdark",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Den of the Whispered Word",
+    "fact": "The Den of the Whispered Word is Maram il Vass's refuge located in the Howling Pits.",
+    "source_quote": "Maram il Vass's refuge, the Den of the Whispered Word, is located",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Thieves Guild",
+    "fact": "The Thieves Guild is based in Hillsfar with Isthana as its head.",
+    "source_quote": "The head of the Thieves Guild in Hillsfar",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Isthana",
+    "fact": "Isthana is pragmatic and opportunistic.",
+    "source_quote": "She is pragmatic and opportunistic",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Isthana",
+    "fact": "Isthana sees the recent chaos and death of the ruling elite as creating many opportunities for her guild.",
+    "source_quote": "seeing the recent chaos and death of the ruling elite as creating many opportunities for her guild",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "gear acquisition",
+    "fact": "Isthana helps the party acquire new armor and magical items from the castle's stores.",
+    "source_quote": "She helps the party acquire new armor and magical items from the castle's stores",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "political power offer",
+    "fact": "Isthana offers the party political power in Hillsfar.",
+    "source_quote": "offers them political power in Hillsfar",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "power offer refusal",
+    "fact": "The party declines the offer of political power in Hillsfar.",
+    "source_quote": "which they decline",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Emerald Enclave",
+    "fact": "Charles is a messenger from the Emerald Enclave.",
+    "source_quote": "A messenger from the Emerald Enclave",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "La R\u00e9sistance",
+    "fact": "Charles is a member of La R\u00e9sistance.",
+    "source_quote": "and member of La R\u00e9sistance",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Charles",
+    "fact": "Charles is known for his dramatic and somewhat over-the-top demeanor.",
+    "source_quote": "known for his dramatic and somewhat over-the-top demeanor",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "victory congratulation",
+    "fact": "Charles congratulates the party on their victory.",
+    "source_quote": "He congratulates the party on their victory",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Graz'zt news delivery",
+    "fact": "Charles delivers urgent news about Graz'zt infusing fire giants with power.",
+    "source_quote": "delivers urgent news about Graz'zt infusing fire giants with power",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "meeting direction",
+    "fact": "Charles directs the party to meet with Drow representatives at the Silver Shadow Cave.",
+    "source_quote": "He directs the party to meet with Drow representatives at the Silver Shadow Cave",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Murssvayas Dhuurniv",
+    "fact": "Murssvayas Dhuurniv has silver hair, thick sideburns, and emerald green eyes.",
+    "source_quote": "A Drow representative with silver hair, thick sideburns, emerald green eyes",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Murssvayas Dhuurniv",
+    "fact": "Murssvayas Dhuurniv has skin so dark it's nearly purple.",
+    "source_quote": "and skin so dark it's nearly purple",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Murssvayas Dhuurniv",
+    "fact": "Murssvayas Dhuurniv is dressed in a black shirt and pants with a sword at his side.",
+    "source_quote": "Dressed in black shirt and pants with a sword at his side",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Murssvayas Dhuurniv",
+    "fact": "Murssvayas Dhuurniv represents Solom Ned'razak.",
+    "source_quote": "he represents Solom Ned'razak",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Drow meeting",
+    "fact": "Murssvayas Dhuurniv meets the party at the Silver Shadow Cave.",
+    "source_quote": "meets the party at the Silver Shadow Cave",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Drow plight explanation",
+    "fact": "Murssvayas Dhuurniv explains the Drow's plight to the party.",
+    "source_quote": "He explains the Drow's plight",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "aid request",
+    "fact": "Murssvayas Dhuurniv requests the party's aid in recovering the captured alchemist Xaven Tanor'this.",
+    "source_quote": "and requests the party's aid in recovering the captured alchemist Xaven Tanor'this",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom Ned'razak is the leader of the Drow outpost of Szith Morcane.",
+    "source_quote": "The leader of the Drow outpost of Szith Morcane",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom Ned'razak is an 18th level wizard.",
+    "source_quote": "an 18th level wizard",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "outpost sack",
+    "fact": "Solom Ned'razak's outpost was sacked by fire giants and demons.",
+    "source_quote": "after his outpost was sacked by fire giants and demons",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "flight to Sporedome",
+    "fact": "Solom Ned'razak fled to the Sporedome after his outpost was sacked.",
+    "source_quote": "who fled to the Sporedome",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "representative dispatch",
+    "fact": "Solom Ned'razak sent Murssvayas Dhuurniv to represent him.",
+    "source_quote": "He sent Murssvayas Dhuurniv to represent him",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "reward anticipation",
+    "fact": "Solom Ned'razak anticipated the party would ask for a reward.",
+    "source_quote": "and anticipated the party would ask for a reward",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "reward offer",
+    "fact": "Solom Ned'razak offered an item from the Drow horde upon successful completion of the mission.",
+    "source_quote": "offering an item from the Drow horde upon successful completion of the mission",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Xaven Tanor'this",
+    "fact": "Xaven Tanor'this is the Drow's chief alchemist.",
+    "source_quote": "The Drow's chief alchemist",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "ritual work",
+    "fact": "Xaven Tanor'this was working on a ritual to cull fiendish blood from the Graz'zt-infused fire giants.",
+    "source_quote": "who was working on a ritual to cull fiendish blood from the Graz'zt-infused fire giants",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Xaven capture",
+    "fact": "Xaven Tanor'this was captured during the raid on Szith Morcane.",
+    "source_quote": "He was captured during the raid on Szith Morcane",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Xaven sale",
+    "fact": "Xaven Tanor'this was sold to Maram il Vass in the Den of the Whispered Word.",
+    "source_quote": "and sold to Maram il Vass in the Den of the Whispered Word",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Maram il Vass",
+    "fact": "Maram il Vass is a creature residing in the Den of the Whispered Word.",
+    "source_quote": "A creature residing in the Den of the Whispered Word",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Den of the Whispered Word",
+    "fact": "The Den of the Whispered Word is an extraplanar brokerage in the Howling Pits.",
+    "source_quote": "an extraplanar brokerage in the Howling Pits",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Xaven purchase",
+    "fact": "Maram il Vass purchased the captured Drow alchemist Xaven Tanor'this.",
+    "source_quote": "who purchased the captured Drow alchemist Xaven Tanor'this",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Graz'zt",
+    "fact": "Graz'zt is a demon lord.",
+    "source_quote": "A demon lord",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Hillsfar plot thwarted",
+    "fact": "Graz'zt's carefully constructed plot to destroy Hillsfar and extend his power was thwarted by the party.",
+    "source_quote": "whose carefully constructed plot to destroy Hillsfar and extend his power was thwarted by the party",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "vengeance threat",
+    "fact": "Graz'zt threatened vengeance.",
+    "source_quote": "He threatened vengeance",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "fire giant infusion",
+    "fact": "Graz'zt is infusing fire giants with his blood.",
+    "source_quote": "is now infusing fire giants with his blood",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "new threat creation",
+    "fact": "Graz'zt's actions are creating a new threat to both the Underdark and the surface world.",
+    "source_quote": "creating a new threat to both the Underdark and the surface world",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Malkyn Grenefeld",
+    "fact": "Malkyn Grenefeld is the recently defeated antagonist.",
+    "source_quote": "The recently defeated antagonist",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grenefeld death",
+    "fact": "Malkyn Grenefeld's death triggered the current chaos in Hillsfar and the wrath of Graz'zt.",
+    "source_quote": "whose death triggered the current chaos in Hillsfar and the wrath of Graz'zt",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Malkyn defeat",
+    "fact": "The party's victory over Malkyn Grenefeld set the current events in motion.",
+    "source_quote": "The party's victory over him is what set the current events in motion",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Red Plume Guards",
+    "fact": "The Red Plume Guards are the city guards of Hillsfar.",
+    "source_quote": "The city guards of Hillsfar",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Red Plume Guards",
+    "fact": "The Red Plume Guards are now caught between factions after the death of the ruling elite.",
+    "source_quote": "now caught between factions after the death of the ruling elite",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "castle gate confrontation",
+    "fact": "The Red Plume Guards stand ready to fight the blood-spattered party at the castle gate.",
+    "source_quote": "They stand ready to fight the blood-spattered party at the castle gate",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "party passage",
+    "fact": "The Red Plume Guards allow the party to pass without confrontation.",
+    "source_quote": "but ultimately allow them to pass without confrontation",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Bracers of Archery",
+    "fact": "The Bracers of Archery are magical bracers that enhance archery skills.",
+    "source_quote": "Magical bracers that enhance archery skills",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Bracers acquisition",
+    "fact": "Akritas acquired the Bracers of Archery from the castle's stores.",
+    "source_quote": "acquired by Akritas from the castle's stores",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Oathbow",
+    "fact": "The Oathbow is a powerful magical bow already wielded by Akritas.",
+    "source_quote": "A powerful magical bow already wielded by Akritas",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Oathbow",
+    "fact": "The Oathbow is noted for its exceptional strength.",
+    "source_quote": "noted for its exceptional strength",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Studded Leather +1",
+    "fact": "Studded Leather +1 is magical light armor acquired by Akritas from Isthana.",
+    "source_quote": "Magical light armor acquired by Akritas from Isthana",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "AC boost from Studded Leather",
+    "fact": "The Studded Leather +1 brings Akritas's armor class to 16.",
+    "source_quote": "providing enhanced protection and bringing her armor class to 16",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Mithral Plate",
+    "fact": "Mithral Plate is light and flexible heavy armor made of mithral.",
+    "source_quote": "Light and flexible heavy armor made of mithral",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Mithral Plate",
+    "fact": "Mithral Plate does not impose disadvantage on dexterity checks.",
+    "source_quote": "that does not impose disadvantage on dexterity checks",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Mithral Plate acquisition",
+    "fact": "Bramgrim acquired the Mithral Plate from the castle.",
+    "source_quote": "Acquired by Bramgrim from the castle",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Mithral Plate AC boost",
+    "fact": "The Mithral Plate increases Bramgrim's armor class to 20.",
+    "source_quote": "it increases his armor class to 20",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Mithral Plate stealth benefit",
+    "fact": "The Mithral Plate removes stealth penalties for Bramgrim.",
+    "source_quote": "while removing stealth penalties",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Plate Mail +1",
+    "fact": "Plate Mail +1 is magical heavy armor acquired by Daein from the castle's stores.",
+    "source_quote": "Magical heavy armor acquired by Daein from the castle's stores",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Plate Mail +1 AC boost",
+    "fact": "The Plate Mail +1 increases Daein's armor class to 21.",
+    "source_quote": "increasing his armor class to 21",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Ring of Evasion",
+    "fact": "The Ring of Evasion is a magical ring possessed by Bramgrim.",
+    "source_quote": "A magical ring possessed by Bramgrim",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Ring of Evasion",
+    "fact": "The Ring of Evasion allows Bramgrim to avoid damage from certain effects.",
+    "source_quote": "that allows him to avoid damage from certain effects",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Owlbear Scale Mail",
+    "fact": "Owlbear Scale Mail is custom-made scale mail armor commissioned for the party's owlbear companion.",
+    "source_quote": "Custom-made scale mail armor commissioned for the party's owlbear companion",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Owlbear Scale Mail cost",
+    "fact": "The Owlbear Scale Mail was commissioned at a cost of 200 gold pieces.",
+    "source_quote": "at a cost of 200 gold pieces",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Owlbear Scale Mail",
+    "fact": "The Owlbear Scale Mail provides an armor class of 15.",
+    "source_quote": "It provides an armor class of 15",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Owlbear Scale Mail crafting time",
+    "fact": "The Owlbear Scale Mail takes several days to craft.",
+    "source_quote": "and takes several days to craft",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Solom's Pendant",
+    "fact": "Solom's Pendant is a pendant belonging to Solom Ned'razak.",
+    "source_quote": "A pendant belonging to Solom Ned'razak",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pendant presentation",
+    "fact": "Murssvayas Dhuurniv presents Solom's Pendant to prove his legitimacy as Solom's representative.",
+    "source_quote": "Murssvayas Dhuurniv presents it to prove his legitimacy as Solom's representative",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pendant authentication",
+    "fact": "Bramgrim recognizes Solom's Pendant as authentic.",
+    "source_quote": "and Bramgrim recognizes it as authentic",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pass Without Trace cast",
+    "fact": "Akritas casts Pass Without Trace.",
+    "source_quote": "A concentration spell cast by Akritas",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pass Without Trace effect",
+    "fact": "Pass Without Trace grants a plus 10 bonus to stealth checks for the caster and all allies within a 30-foot radius.",
+    "source_quote": "that grants a plus 10 bonus to stealth checks for the caster and all allies within a 30-foot radius",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pass Without Trace revelation",
+    "fact": "The revelation of the Pass Without Trace ability shocked Daein and Bramgrim.",
+    "source_quote": "The revelation of this ability shocked Daein and Bramgrim",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pass Without Trace Daein bonus",
+    "fact": "The party realized Pass Without Trace gives Daein a plus 20 to stealth.",
+    "source_quote": "who realized it gives Daein a plus 20 to stealth",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pass Without Trace owlbear bonus",
+    "fact": "The party realized Pass Without Trace gives the owlbear a plus 11 to stealth.",
+    "source_quote": "and the owlbear a plus 11",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Greater Restoration preparation",
+    "fact": "Bramgrim prepares the fourth-level spell Greater Restoration.",
+    "source_quote": "A fourth-level spell that Bramgrim prepares",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Calm Emotions preparation",
+    "fact": "Bramgrim prepares the second-level spell Calm Emotions.",
+    "source_quote": "A second-level spell that Bramgrim prepares",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Calm Emotions utility",
+    "fact": "Calm Emotions is specifically mentioned as being the only thing that works on a creature referred to as 'sphere'.",
+    "source_quote": "specifically mentioned as being the only thing that works on a creature referred to as 'sphere'",
+    "quote_verified": true
+  }
+]

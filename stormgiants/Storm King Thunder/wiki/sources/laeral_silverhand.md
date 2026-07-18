@@ -63,10 +63,10 @@ related: []
 ### Connections to Existing Wiki
 
 - **Existing Pages:**
-  - [[Seven Anointed]]
-  - [[Lord's Alliance (Waterdeep)]]
+  - [[force-grey-2026-06-06-063448]]
+  - [[manshoons-status-query-2026-05-13]]
   - Silverymoon
-  - [[Cult of the Dragon]]
+  - [[cult-of-the-dragon]]
   - [[Severin]]
   - [[Sandesyl]]
 
@@ -83,14 +83,22 @@ related: []
 ### Recommendations
 
 - **Pages to Create or Update:**
-  - [[Laeral Silverhand]]
-  - [[Lord's Alliance (Waterdeep)]]
-  - [[Seven Anointed]]
+  - [[laeral_silverhand]]
+  - [[manshoons-status-query-2026-05-13]]
+  - [[force-grey-2026-06-06-063448]]
   - Silverymoon
-  - [[Cult of the Dragon]]
+  - [[cult-of-the-dragon]]
   - [[Severin]]
   - [[Sandesyl]]
 
 - **Emphasis:**
   - Emphasize the political and military significance of Laeral Silverhand.
   - Highlight the strategic importance of the Lord's Alliance and the
+
+## Related
+
+- [[tolmarra]]
+- [[lord_khaspere_drylund]]
+- [[larrish]]
+- [[the_harper_agent]]
+- [[silas_carras]]

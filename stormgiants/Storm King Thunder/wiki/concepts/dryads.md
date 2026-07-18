@@ -12,6 +12,10 @@ Mythical forest spirits, Halisa and Helia are both guardians of the Grandfather 
 
 ## Connections to Existing Wiki
 - [[halisa]]
-- [[tree-protection-schedule-d]]
-- [[seelie-court]]
+- [[the-party]]
+- [[fey-court-structure]]
 - [[fey-courts]]
+
+## Related
+
+- [[unseelie-court]]

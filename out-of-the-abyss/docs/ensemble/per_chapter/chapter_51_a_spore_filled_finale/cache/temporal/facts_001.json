@@ -1,0 +1,135 @@
+[
+  {
+    "type": "event",
+    "subject": "damage dealt",
+    "fact": "Sixteen damage was dealt and the grapple secured.",
+    "source_quote": "Sixteen damage, the grapple secured.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "saving throw attempted",
+    "fact": "A DC-14 Wisdom saving throw was rolled and failed.",
+    "source_quote": "Roll a DC-14 Wisdom saving throw. Well. That didn't work.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "critical strike landed",
+    "fact": "Two consecutive critical strikes were delivered.",
+    "source_quote": "Crit. Twice. *Oh, wow. Another crit.*",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "distance traveled",
+    "fact": "Forty feet of vertical distance was covered before the drop.",
+    "source_quote": "Forty feet. The stone floor dropped away beneath us.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "damage mitigated",
+    "fact": "Twelve points of bludgeoning damage were deflected from the heart fungus's attack.",
+    "source_quote": "I deflected twelve of the bludgeoning. The rest I accepted.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "damage dealt",
+    "fact": "The heart fungus was destroyed in one round by radiant damage.",
+    "source_quote": "I struck. And then struck again. The heart fungus wilted. One round. That was all it got.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "damage dealt",
+    "fact": "Twenty-six points of damage were dealt to Glabbagool by Insect Plague.",
+    "source_quote": "Twenty-six points of damage. The grey ooze took twenty-six points of damage from a spell he had nothing to do with.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "attack opportunity declined",
+    "fact": "An opportunity attack was not taken when Jorlan charged Ilvara.",
+    "source_quote": "Eight on the die. Eight says I do the sensible thing. ... I stepped aside and let Jorlan pass.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "spell availability noted",
+    "fact": "A Revivify spell was offered to potentially restore a fallen minion.",
+    "source_quote": "If anybody is too saddened by the loss of any of our minions, I do have a Revivify spell that I could use to bring one of them back.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "reach distance",
+    "fact": "Fifteen feet of reach was noted as a generous distance when the target is on the floor.",
+    "source_quote": "fifteen feet of reach is a very generous number when the thing reaching lives on the floor and I have been hovering at the ceiling being useless.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "weapon property",
+    "fact": "Dawnbringer is not resistant to radiant damage and is eager to strike.",
+    "source_quote": "It actually is doubly not resistant to radiant damage. Dawnbringer was already in my hand. She's not the sort of sword that waits politely in a scabbard...",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "minion count",
+    "fact": "Thirteen fungal minions were destroyed by Insect Plague.",
+    "source_quote": "a biblical chittering that shredded the fungal minions instantly, all thirteen hit points of them, gone...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "terrain feature",
+    "fact": "The cavern contained difficult terrain between the party and the heart fungus.",
+    "source_quote": "massive, pulsing, ringed with spore-choked air and difficult terrain between me and it",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "condition applied",
+    "fact": "The frightened condition was applied, preventing approach to Ilvara.",
+    "source_quote": "The frightened condition is not subtle \u2014 it is not a suggestion.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "damage taken",
+    "fact": "Poison damage from the heart fungus was noted and filed away.",
+    "source_quote": "The poison damage I noted and filed away beside the indignity.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "elevation",
+    "fact": "The party operated from an elevated walkway above the cavern floor.",
+    "source_quote": "I descended from the elevated walkway",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "spell effect",
+    "fact": "Insect Plague created a swarm that destroyed minions and affected terrain.",
+    "source_quote": "Ilvara cast Insect Plague. The swarm hit the cavern entrance like a wall of sound and motion...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "damage dealt",
+    "fact": "The heart fungus was reduced to zero hit points in one round.",
+    "source_quote": "The heart fungus wilted. One round. That was all it got.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "reaction triggered",
+    "fact": "Jorlan charged Ilvara with emotional intensity, overriding tactical positioning.",
+    "source_quote": "the name that came out of him was not a battle cry. 'ILVARA' It came out like a wound reopening.",
+    "quote_verified": false
+  }
+]

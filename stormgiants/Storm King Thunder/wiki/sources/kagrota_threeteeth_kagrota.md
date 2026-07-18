@@ -79,6 +79,12 @@ related: []
 ### Recommendations
 - **Pages to Create/Update:**
   - [[kragota-threeteeth]]: Comprehensive page detailing Kagrota's role, relationships, and history.
-  - [[bad-fruil]]: Information on Bad Fruul and her faction.
+  - [[bad-fruul]]: Information on Bad Fruul and her faction.
   - [[bane-deity]]: Detailed information on Bane and its significance.
-  - [[commu
+  - [[nyalah_uuseff]]
+- [[nyalah_uuseff]]
+- [[thane_kayalithca]]
+- [[thane_braxow]]
+- [[lord_drylund]]
+- [[methrammar_aerasum]]
+- [[kragota_threeteeth]]

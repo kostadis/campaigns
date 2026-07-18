@@ -2,9 +2,9 @@
 type: entity
 title: Prince Thornacious
 created: 2026-05-30
-updated: 2026-05-30
+updated: 2026-06-08
 tags: [fey, ruler, seelie-court, authority]
-related: [blasius, oblivillish, thistle-wendrod, fey-court-structure]
+related: [blasius, oblivillish, thistle-wendrod, fey-court-structure, divine-oracle]
 sources: ["blasius.md"]
 ---
 # Prince Thornacious

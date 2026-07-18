@@ -18,3 +18,7 @@ The **Ecological Cascade Displacement Crisis** is the systemic chain reaction cu
 4. **Radicalization:** The stress of displacement, combined with the influence of the [[cult-of-talos]], has radicalized these displaced groups, turning a natural migration into a violent, theological threat.
 
 This crisis is cited as a primary example of the [[emerald-enclave]]'s "institutional paralysis," as the organization struggles to decide whether to treat the event as a natural phenomenon or an interventionist necessity.
+
+## Related
+
+- [[ecological-disruption-by-apex-predator]]

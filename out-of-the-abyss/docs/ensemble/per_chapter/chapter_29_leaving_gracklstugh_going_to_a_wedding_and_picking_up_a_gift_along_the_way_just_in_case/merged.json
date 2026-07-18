@@ -1,0 +1,1883 @@
+[
+  {
+    "type": "date",
+    "subject": "4th-6th day of the 2nd tenday of Myrtul 1493",
+    "fact": "The first three days of travel were uneventful, marked by rowing, darkness, and strange sounds. On the third day, bloodsucking giant mosquitoes attacked but were swiftly killed.",
+    "source_quote": "The third day brings excitement when some bloodsucking giant mosquitoes fall from the roof.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "4th-6th day of the 2nd tenday of Myrtul 1493",
+    "fact": "The first two days of travel are uneventful, occurring on the 4th to 6th day of the 2nd tenday of Myrtul 1493.",
+    "source_quote": "## 4th-6th day of the 2nd tenday of Myrtul 1493\n\n### Thorin \n\nThe first two days are uneventful.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "4th-6th day of the 2nd tenday of Myrtul 1493",
+    "fact": "The party spends three uneventful days rowing through the Underdark, interrupted only by giant mosquitoes; this period establishes the tedium and danger of their journey.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "7th day of the 2nd tenday of Myrtul 1493",
+    "fact": "On the 7th day of the 2nd tenday of Myrtul 1493, Sarith announces they must leave the boat and proceed on foot.",
+    "source_quote": "## 7th day of the 2nd tenday of Myrtul 1493\n\nOn the fourth day, Sarith announces that we must get out on a beach and head deeper into the Underdark on foot.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "7th day of the 2nd tenday of Myrtul 1493",
+    "fact": "On the 7th day, the party abandoned their boat and entered the Underdark on foot, beginning their journey toward the Lost Tomb of Khaem and the Neverlight Grove. The date marks the transition from maritime to terrestrial travel.",
+    "source_quote": "On the fourth day, Sarith announces that we must get out on a beach and head deeper into the Underdark on foot.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "7th day of the 2nd tenday of Myrtul 1493",
+    "fact": "On the fourth day of travel, the party leaves the boat to proceed on foot, knowing it leaves a trail; they debate its destruction, revealing Grygum\u2019s rare knowledge of mending and the naval taboo against it.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occur during the current expedition into Gracklstugh, following the party\u2019s escape from previous Duergar and Drow prisons. The timeline is continuous, with no indication of elapsed time between prior events and this dragon-assisted journey.",
+    "source_quote": "I have a gift for this. I suppose.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occur on the 4th day of the 2nd Tenday of Myrtul 1493.",
+    "source_quote": "4th-6th day of the 2nd tenday of Myrtul 1493",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "day marker",
+    "fact": "On the fourth day, Sarith announces they must leave the boat.",
+    "source_quote": "On the fourth day, Sarith announces that we must get out on a beach",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "day marker",
+    "fact": "The third day brings excitement when giant mosquitoes attack.",
+    "source_quote": "The third day brings excitement",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz falls off Themberchaud during a sharp turn, but uses Misty Step to save himself.",
+    "source_quote": "But he\u2019s fast, and his belly rolls instead of gliding, and then I am falling. Not for long, that\u2019s what Misty Step is for.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz is relieved that the dragon is not being directed to destroy a city while he is on its back.",
+    "source_quote": "I am relieved. I do not want to have a dragon destroy a city while I am on its back.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "departure from the boat",
+    "fact": "The party abandoned their boat on the 7th day of the 2nd tenday, knowing it would leave a trail for pursuers. They debated scuttling it but chose to leave it intact, increasing risk but preserving potential future utility.",
+    "source_quote": "Leaving the boat is like leaving a sign. But we might need it later.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "dragon flight from Gracklstugh",
+    "fact": "The party mounts Themberchaud and takes flight through the smoky caverns of Gracklstugh. The dragon declares himself their ruler and attempts to show them his 'realm,' but his flight is ungraceful and unstable. During a sudden turn, multiple party members fall, forcing magical interventions. The event exposes Themberchaud\u2019s lack of control and the party\u2019s vulnerability.",
+    "source_quote": "Themberchaud takes off with a powerful beat of his wings, proudly declaring, 'I need to show you my realm'.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Dragon Ride Departure",
+    "fact": "The party rides Themberchaud from Gracklstugh, exploiting his delusions and the Duergar\u2019s fear of the Ember Vanguard to escape; the flight ends with a near-fatal fall and a forced detour to a forge.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Duergar Stone Guard fleeing",
+    "fact": "The Duergar Stone Guard runs off after accepting the caltrop from Grygum.",
+    "source_quote": "The Duergar takes the caltrop and then runs off.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Eldeth",
+    "fact": "Eldeth is surprised that Grygum can cast mending, given its rarity among spellcasters.",
+    "source_quote": "Eldeth looks at him, 'Really?'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "escape from Gracklstugh",
+    "fact": "The party escaped Gracklstugh by exploiting their mistaken identity as the Ember Vanguard, causing panic among the Duergar and securing time to flee. They left behind no direct evidence but carried dangerous secrets that could have triggered mass destruction.",
+    "source_quote": "We came to find equipment, and we did that. And as Daz said, we betrayed many people.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "falling incident during flight",
+    "fact": "During a sharp maneuver by Themberchaud, several party members \u2014 including Grygum and Thorin \u2014 fall from his back. Daz uses Misty Step to save himself. Zalthir grows wings and rescues Thorin. The event highlights the danger of trusting a manipulated, unskilled dragon and the improvisational survival skills of the party.",
+    "source_quote": "And then I am falling. Not for long, that\u2019s what Misty Step is for.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum accepts Jimjar\u2019s bet about the circle of unwilling vows.",
+    "source_quote": "I hope no one will take him up on his weird bet, but Grygum does.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum believes the Duergar guard recognized them as the Ember Vanguard from a poster.",
+    "source_quote": "The guard still refuses to let us pass. ... He looks at a poster of the Ember Vanguard, and whispers, 'I know you, you are the Ember Vanguard!'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum flatters Themberchaud by addressing him as 'Great Themberchaud' to secure his cooperation.",
+    "source_quote": "I even attempt to flatter him, addressing him as 'Great Themberchaud'.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum gives the Duergar guard a caltrop as a symbol of their mission to deceive him and buy time.",
+    "source_quote": "Grygum walks up to the guard and whispers that we are impersonators trying to flush out the Ember Vanguard. ... Grygum nods and pulls out a caltrop, 'This is a symbol of our mission. Guard it and keep it secret.'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum proposes scuttling the boat to avoid leaving a trail, but is reminded he can cast mending.",
+    "source_quote": "Gyrgum shouts, 'We could scuttle it.' I stare at him, perplexed. 'I can cast mending.'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum says they must leave the boat on the beach to head into the Underdark on foot.",
+    "source_quote": "Sarith announces that we must get out on a beach and head deeper into the Underdark on foot. ... 'The path to the Neverlight Grove goes past the Lost Tomb of Khaem. But we must leave the boat here.'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum shouts that they come in Thembersham\u2019s name to the Duergar guard, attempting to invoke authority.",
+    "source_quote": "Grygum says that they come in Thembersham\u2019s name.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum suggests talking to Themberchaud instead of fighting him, recognizing the danger of a dragon.",
+    "source_quote": "My first, most practical thought is that 'we're not a match for a dragon'. I quickly suggest we try to 'talk to him' while positioned 'Near something I can duck into'.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum accepting Jimjar\u2019s bet",
+    "fact": "Grygum accepts Jimjar\u2019s bet regarding the Neverlight Grove.",
+    "source_quote": "but Grygum does.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum falling off dragon",
+    "fact": "Grygum falls off Themberchaud when the dragon makes a sharp turn.",
+    "source_quote": "But he\u2019s fast, and his belly rolls instead of gliding, and then I am falling. ... I notice Grygum and Thorin falling.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Jimjar",
+    "fact": "Jimjar makes a bet that the circle of joy will reveal itself to be a circle of unwilling vows before they leave it.",
+    "source_quote": "I'll bet you an empty shell gem that this circle of joy will reveal itself to be a circle of unwilling vows before you leave it.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Jimjar",
+    "fact": "Jimjar shouts that he will bet Grygum will survive the coming dangers.",
+    "source_quote": "The ghoul Jimjar shouts, 'Anyone want to make a bet that Grygum is going to survive?' Grygum seems to shout, 'I\u2019ll take the bet.'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Jimjar",
+    "fact": "Jimjar throws a rope to catch Grygum as he falls from Themberchaud\u2019s back.",
+    "source_quote": "Jimjar throws a rope and catches the falling orc.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Jimjar saving Grygum",
+    "fact": "Jimjar throws a rope to catch Grygum and pulls him back onto Themberchaud.",
+    "source_quote": "Jimjar throws a rope and catches the falling orc. And then the group pulls him onto the dragon",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Mistaken Identity at the Docks",
+    "fact": "The party is mistaken for the Ember Vanguard by a Duergar Stone Guard; they avert bloodshed by impersonating agents of Themberchaud and leaving a caltrop as a token of authority.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "naval demand for mending",
+    "fact": "Navies were in high demand for spellcasters who could cast mending, but spellcasters tended to avoid learning the spell because in naval combat, the first person killed was the mender \u2014 until they were dead, the ship could not be sunk.",
+    "source_quote": "Well, spell casters who could cast mending were in high demand by the navies. And so spellcasters tended to avoid learning that spell. See, in naval combat, the first person you kill is the mender. Because until you kill him, you can\u2019t sink the ship. So finding a spell caster who can cast it is rare.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "party boarding boat",
+    "fact": "The party jumps into a large boat and sets sail after the encounter with the Duergar Stone Guard.",
+    "source_quote": "We jump into a large boat and head out.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "party boarding Themberchaud",
+    "fact": "The party climbs onto Themberchaud\u2019s back and takes flight.",
+    "source_quote": "We all clamber onto his voluminous back, easily finding space. Themberchaud takes off with a powerful beat of his wings",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "party leaving boat at beach",
+    "fact": "The party leaves the boat on a beach to proceed on foot toward the Lost Tomb of Khaem.",
+    "source_quote": "Sarith announces that we must get out on a beach and head deeper into the Underdark on foot. ... We must leave the boat here.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "party leaving Gracklstugh",
+    "fact": "The party departs Gracklstugh by boat after securing their objectives.",
+    "source_quote": "As we leave Gracklstugh, we debate where to go next.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "party scuttling boat",
+    "fact": "Grygum suggests scuttling the boat before leaving it on the beach.",
+    "source_quote": "Gyrgum shouts, \u201cWe could scuttle it.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Scuttling the Boat",
+    "fact": "The party debates scuttling their boat to avoid pursuit; Grygum\u2019s offer to use mending reveals his unusual spell knowledge, contradicting naval warfare norms and raising suspicion.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Themberchaud breathing fire at forge",
+    "fact": "Themberchaud breathes fire at a forge while declaring himself the Wyrmsmith.",
+    "source_quote": "he approaches the forge and shouts, \u201cI am Themberchaud the Wyrmsmith, bringer of flame!\u201d And he breathes fire.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Themberchaud landing",
+    "fact": "Themberchaud lands with a shuddering impact resembling a bag of potatoes.",
+    "source_quote": "Themberchaud lands with a shuddering impact. The landing lacks any of the grace of a dragon. It looks like a bag of potatoes that landed and the bag barely broke.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin is perplexed that Grygum would suggest scuttling the boat when he can cast mending.",
+    "source_quote": "I stare at him, perplexed.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin mutters the giant saying, 'To save the village, you must smash the village,' justifying the need to kill the guard.",
+    "source_quote": "Thorin mutters an old giant saying, 'To save the village, you must smash the village.'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin observes that the Duergar do not take Themberchaud seriously despite his self-importance.",
+    "source_quote": "The Duergar are rolling their eyes. They don\u2019t take him as seriously as he takes himself.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin recalls avoiding a gift from a demon before and is reluctant to seek another.",
+    "source_quote": "Thorin, having avoided one gift from a demon, seems to want to go again. I shake my head, 'You had your chance, don\u2019t you think we shouldn\u2019t try again?'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "travel duration",
+    "fact": "The first two days of the journey are uneventful.",
+    "source_quote": "The first two days are uneventful.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir concludes that killing the Duergar guard is necessary to prevent mass bloodshed.",
+    "source_quote": "In the interest of avoiding mass bloodshed, I think we must.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir decides to exploit the Duergar\u2019s belief that the party is the Ember Vanguard to avoid bloodshed.",
+    "source_quote": "They think we are this all-powerful group; we take advantage of it.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir finds comfort in knowing the party carried dangerous secrets away from Gracklstugh without betraying it.",
+    "source_quote": "I find it comforting to know that.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir grits his fangs and reluctantly agrees to the plan to visit the Lost Tomb of Khaem before the Neverlight Grove.",
+    "source_quote": "I grit my fangs and mutter, 'Perhaps we could first go to the Lost Tomb of Khaem, secure whatever weapon it has, and then go?'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir notes that the Duergar panicked when they saw Daz, not Themberchaud, confirming their fear of the Ember Vanguard.",
+    "source_quote": "They weren\u2019t afraid of Themberchaud but when they saw Daz, they suddenly freaked out.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir observes that the Duergar are rushing around as if sending warnings after seeing the party.",
+    "source_quote": "I can see many of the Duergar rushing around as if they are trying to send warnings.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir realizes the Duergar are panicking because they mistake the party for the Ember Vanguard.",
+    "source_quote": "They recognized us. Look at their panic. They weren\u2019t afraid of Themberchaud but when they saw Daz, they suddenly freaked out. They think we are the Ember Vanguard.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir reflects that the party did not betray Gracklstugh, but carried dangerous secrets away from it.",
+    "source_quote": "The secrets we carried - of the Deep King\u2019s plots, the corrupted dragon egg, and the lurking demonic plots - could have provoked mass death and destruction. And we took those secrets with us.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir stands next to Grygum to appear more intimidating to the Duergar guard, though it fails.",
+    "source_quote": "I stand next to Grygum to make myself look as scary as possible. And we fail.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir sprouting wings",
+    "fact": "Zalthir sprouts wings and catches Thorin after the dragon\u2019s sudden turn.",
+    "source_quote": "Zalthir has sprouted wings. He catches Thorin.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Deep King",
+    "fact": "The Deep King is a powerful, shadowy ruler whose plots and corrupted dragon egg the party carries as secrets. His authority is invoked by the Stone Guard, and his fear of the Ember Vanguard is a key driver of the city\u2019s paranoia.",
+    "source_quote": "Halt in the name of the Deep King!",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Deep King",
+    "fact": "The Deep King is worried about the Ember Vanguard\u2019s presence in Gracklstugh.",
+    "source_quote": "the Deep King is worried.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Duergar",
+    "fact": "The Duergar are a subterranean dwarven faction who exploit Themberchaud as a living tool \u2014 a glorified lighter \u2014 for their forges, despite his immense power. They manipulate him through pampering and false authority, suppressing his true nature to maintain control. Their use of a red dragon instead of magic reveals a preference for psychological domination over efficiency.",
+    "source_quote": "I wonder why the Duergar chose a Red Dragon? Surely magic would be cheaper and less dangerous.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Duergar",
+    "fact": "The Duergar at the forge roll their eyes at Themberchaud\u2019s self-importance.",
+    "source_quote": "The Duergar are rolling their eyes. They don\u2019t take him as seriously as he takes himself.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Duergar",
+    "fact": "The Duergar of Gracklstugh are deeply suspicious, militarized, and terrified of the Ember Vanguard. They are unafraid of Themberchaud but react with immediate panic upon seeing Daz, confirming their belief that the group is the legendary threat.",
+    "source_quote": "They weren\u2019t afraid of Themberchaud but when they saw Daz, they suddenly freaked out.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Duergar",
+    "fact": "The Duergar of Gracklstugh manipulate Themberchaud as a living forge-lighter, treating him as a tool rather than a sovereign being; they fear the Ember Vanguard and panic when they mistake the party for them.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Duergar",
+    "fact": "The Duergar panic and rush to send warnings when they see Daz, believing the party to be the Ember Vanguard.",
+    "source_quote": "they suddenly freaked out. They think we are the Ember Vanguard. ... many of the Duergar rushing around as if they are trying to send warnings.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Duergar",
+    "fact": "The Duergar treat Themberchaud as a glorified lighter for their forges.",
+    "source_quote": "he's merely a \"glorified lighter\" for the Duergar forges.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Ember Vanguard",
+    "fact": "The Ember Vanguard is a feared mercenary group believed by the Duergar to be capable of mass destruction; the party exploits this reputation to avoid confrontation and escape capture.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Ember Vanguard",
+    "fact": "The Ember Vanguard is a feared, legendary mercenary group believed to be responsible for chaos and destruction in the Underdark. The party is mistaken for them, triggering panic among Duergar and Drow. Their reputation precedes them, even though they are impostors.",
+    "source_quote": "They think we are the Ember Vanguard.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Ember Vanguard",
+    "fact": "The Ember Vanguard is a powerful mercenary group feared by the Duergar and the Grey Ghosts.",
+    "source_quote": "They think we are the Ember Vanguard. ... the Ember Vanguard, the powerful mercenary group, and the Grey Ghosts are looking for the Ember Vanguard",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Grey Ghosts",
+    "fact": "The Grey Ghosts are a mysterious group actively hunting the Ember Vanguard, contributing to the paranoia in Gracklstugh. Their presence is mentioned as part of the city-wide search, though their nature and motives remain obscure.",
+    "source_quote": "The Grey Ghosts are looking for the Ember Vanguard.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Grey Ghosts",
+    "fact": "The Grey Ghosts are searching for the Ember Vanguard in Gracklstugh.",
+    "source_quote": "the Grey Ghosts are looking for the Ember Vanguard",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Dark Lake District",
+    "fact": "The Dark Lake District is a dangerous zone near the docks of Gracklstugh, rumored to hold intelligence from recent attacks; the party seeks it for clues but is resisted by Themberchaud\u2019s ego.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Dark Lake District",
+    "fact": "The Dark Lake District is a lawless, dangerous area near the docks of Gracklstugh, known for petty crime, traitors, and hidden intelligence. It is the target of the party\u2019s investigation, but Themberchaud dismisses it as beneath his station, revealing his disconnect from ground-level reality.",
+    "source_quote": "loiter among the common rabble and petty traitors of the Dark Lake",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Darklake District",
+    "fact": "The Darklake District is a destination the party wishes to reach, but Themberchaud initially refuses to go there.",
+    "source_quote": "we agree that the right place to go is the docks. ... Themberchaud is unimpressed - and roars - \u201cMy agents have more pressing matters than to loiter among the common rabble and petty traitors of the Dark Lake.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "docks",
+    "fact": "The party lands on the docks of Gracklstugh, where a Duergar Stone Guard confronts them.",
+    "source_quote": "As we land on the docks, everyone flees except one lonely Duergar Stone Guard who stands in front of us.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh is a Duergar stronghold in the Underdark, dominated by forges and the manipulated presence of Themberchaud; it is a place of hidden tensions, fear of the Ember Vanguard, and suppressed truths about dragonkind.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh is a Duergar stronghold in the Underdark, dominated by forges, thick smoke, and oppressive darkness. It is the site of Themberchaud\u2019s enslavement and the center of his delusions of grandeur. The city\u2019s atmosphere is one of industrial decay and psychological control, where even dragons are reduced to tools.",
+    "source_quote": "the forges of the Duergar",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh is a Dwarven city in the Underdark, filled with paranoia, militarized guards, and hidden secrets. It is the site of the party\u2019s false identity as the Ember Vanguard and the place from which they escaped with dangerous knowledge.",
+    "source_quote": "The people of Gracklstugh owe us, even if they are unaware of it.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Laduguer's Furrow",
+    "fact": "Laduguer's Furrow has barred gates that require a clever and insane scheme to escape.",
+    "source_quote": "Any escape will require some \"clever and insane scheme\" to get through the barred gates of Laduguer's Furrow.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Lost Tomb of Khaem",
+    "fact": "The Lost Tomb of Khaem is a destination the party plans to visit before going to the Neverlight Grove.",
+    "source_quote": "Perhaps we could first go to the Lost Tomb of Khaem, secure whatever weapon it has, and then go?",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Lost Tomb of Khaem",
+    "fact": "The Lost Tomb of Khaem is a forgotten ruin in the Underdark, rumored to contain a powerful weapon; the party plans to secure its contents before proceeding to the Neverlight Grove.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Lost Tomb of Khaem",
+    "fact": "The Lost Tomb of Khaem is a hidden ruin on the path to the Neverlight Grove, believed to contain a powerful weapon. The group plans to visit it before proceeding, hoping to arm themselves against the dangers ahead.",
+    "source_quote": "Perhaps we could first go to the Lost Tomb of Khaem, secure whatever weapon it has, and then go?",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Neverlight Grove",
+    "fact": "The Neverlight Grove is a dangerous location inhabited by a mighty demon, according to Zalthir.",
+    "source_quote": "I explain that there is a very dangerous and mighty demon there, and that we might not want to go there at all.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Neverlight Grove",
+    "fact": "The Neverlight Grove is a mysterious, dangerous location in the Underdark rumored to be corrupted by demonic influence. It draws Sarith and others through compulsion, despite its lethal reputation.",
+    "source_quote": "There is a very dangerous and mighty demon there, and that we might not want to go there at all.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Neverlight Grove",
+    "fact": "The Neverlight Grove is a mysterious, demon-haunted location in the Underdark, believed by Sarith and Thorin to be a destination of compulsion; it is associated with demonic plots and unwilling vows.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Whorlstone Caverns",
+    "fact": "The Whorlstone Caverns are a location previously visited by the party, where Sarith was mysteriously drawn to dancing Myconids. This experience now influences his compulsion toward the Neverlight Grove.",
+    "source_quote": "The strange compulsion that drew him to the dancing Myconids in the Whorlstone Caverns draws him to the grove.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Whorlstone Caverns",
+    "fact": "The Whorlstone Caverns are where Sarith previously encountered dancing Myconids.",
+    "source_quote": "The strange compulsion that drew him to the dancing Myconids in the Whorlstone Caverns draws him to the grove.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "bloodsucking giant mosquitoes",
+    "fact": "Bloodsucking giant mosquitoes fall from the roof on the third day of travel.",
+    "source_quote": "some bloodsucking giant mosquitoes fall from the roof.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "dead grey ghosts",
+    "fact": "Dead grey ghosts litter the streets of Gracklstugh.",
+    "source_quote": "The dead grey ghosts litter the street",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "giant mosquito count",
+    "fact": "Some bloodsucking giant mosquitoes fall from the roof on the third day.",
+    "source_quote": "some bloodsucking giant mosquitoes fall from the roof",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Giant Mosquitoes",
+    "fact": "Bloodsucking giant mosquitoes fall from the ceiling of the Underdark during the party\u2019s journey; they are swiftly killed but represent the pervasive dangers of the environment.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud is a young red dragon, physically large but emotionally stunted and physically softened by pampering. He lacks the predatory grace, sharp claws, or battle-worn scales of a true dragon. His flight is clumsy, his landing ungainly, and his behavior childish. He is not a threat by nature, but his manipulation makes him unpredictable. He is a creature of power rendered harmless by his role.",
+    "source_quote": "I need to show you my realm.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud is a young red dragon, physically oversized and poorly trained, whose scales are polished and claws painted; he does not hunt and behaves like a pampered pet, yet breathes fire with terrifying power when commanded.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a cautious member of the group who fears dragon flight and the consequences of being mistaken for the Ember Vanguard; he notices the Duergar\u2019s panic and understands the weight of perception in their survival.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a cautious, observant member of the party who fears collateral damage from dragon-led chaos. He is relieved when the group avoids destructive decisions and relies on his own magical ability (Misty Step) to survive falls. He notices the dragon\u2019s lack of control and the vulnerability of his companions.",
+    "source_quote": "I do not want to have a dragon destroy a city while I am on its back.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a perceptive member of the group whose presence triggers panic among the Duergar, leading them to believe the group is the Ember Vanguard. He is not impressed by Themberchaud\u2019s theatrics and notes the Duergar\u2019s disdain for him.",
+    "source_quote": "The Duergar are rolling their eyes. They don\u2019t take him as seriously as he takes himself.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz observes that Themberchaud is a very large but not very old dragon.",
+    "source_quote": "A young dragon would not have enough space for our gang, but this is a very large dragon. Not a very old dragon, a very large dragon.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz uses Misty Step to avoid falling off Themberchaud during a sharp turn.",
+    "source_quote": "And then I am falling. Not for long, that\u2019s what Misty Step is for.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth expresses surprise that Grygum can cast Mending.",
+    "source_quote": "Eldeth looks at him, \u201cReally?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth is a pragmatic member of the group who understands the rarity of the mending spell among spellcasters due to naval warfare tactics; she is observant and skeptical of Grygum\u2019s sudden proficiency.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth will demand to see what the party found, and sharing it will trigger violence.",
+    "source_quote": "We have passes, but Eldeth will demand to see what we found. And if we share with her what we found, that will trigger violence.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Errde",
+    "fact": "Errde is a captain who will be warned about the party\u2019s presence by the Duergar Stone Guard.",
+    "source_quote": "I must warn Captain Errde at once!",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar is a warning voice who has alerted the group that everyone in Gracklstugh is on edge and actively searching for the Ember Vanguard. His reports shape the group\u2019s perception of their false identity.",
+    "source_quote": "The Stone Guard is looking for the Ember Vanguard, the powerful mercenary group, and the Grey Ghosts are looking for the Ember Vanguard, and the Deep King is worried.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar is referenced as a source of warning about the state of Gracklstugh.",
+    "source_quote": "Gartokkar has warned us that everyone is on edge.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar warned the party that everyone in Gracklstugh is on edge.",
+    "source_quote": "Gartokkar has warned us that everyone is on edge.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a cleric who acts with ritual precision and symbolic intent. He deputizes the Duergar guard with a caltrop as a token of their mission, and later suggests scuttling the boat \u2014 showing a blend of faith and pragmatism.",
+    "source_quote": "This is a symbol of our mission. Guard it and keep it secret.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a half-orc cleric of Bahamut who has escaped multiple prisons.",
+    "source_quote": "Here I am, Gyrgum, half-orc cleric of Bahamut, and Gracklstugh is what makes an orc camp look pretty. ... I seem to keep having to escape from some prison, whether it\u2019s the prisons on the overbrite, or the prisons of the Drow, or the prisons of the Duergar.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a half-orc cleric of Bahamut who repeatedly escapes imprisonment and believes he has a gift for it; he is deeply disturbed by the manipulation of Themberchaud and seeks to protect secrets that could destroy Gracklstugh.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a half-orc cleric of Bahamut, experienced in escapes and prison breaks, deeply aware of the manipulation of powerful beings. He is pragmatic, spiritually appalled by Themberchaud\u2019s degradation, and attempts to navigate the dragon\u2019s ego with flattery and subtle truth. He volunteers to take risks, including betting on his own survival.",
+    "source_quote": "You\u2019re not one of the peons who understands the little things. But we are as little as you get, and we can find the little things that are big for us.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum knows that spellcasters who can cast mending are rare because they are targeted first in naval combat.",
+    "source_quote": "In naval combat, the first person you kill is the mender. Because until you kill him, you can\u2019t sink the ship. So finding a spell caster who can cast it is rare.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum recalls escaping from prisons on the overbrite, the Drow, and the Duergar, and believes he has a gift for it.",
+    "source_quote": "I seem to keep having to escape from some prison, whether it\u2019s the prisons on the overbrite, or the prisons of the Drow, or the prisons of the Duergar. I have a gift for this. I suppose.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar bets an empty shell gem that the circle of joy will become a circle of unwilling vows.",
+    "source_quote": "I'll bet you an empty shell gem that this circle of joy will reveal itself to be a circle of unwilling vows before you leave it.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is a ghoul who makes morbid wagers and seems to intuit the group\u2019s impending doom; he bets on Grygum\u2019s survival and predicts their journey will become a circle of unwilling vows.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is a ghoul with a morbid sense of humor, quick to make bets about survival in dangerous situations. He openly questions Grygum\u2019s likelihood of surviving peril, treating life-and-death moments as entertainment.",
+    "source_quote": "Anyone want to make a bet that Grygum is going to survive?",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is a reckless gambler who makes absurd bets with cryptic, prophetic phrasing. He recently wagered an empty shell gem that a 'circle of joy' will become a 'circle of unwilling vows,' unsettling the group.",
+    "source_quote": "I'll bet you an empty shell gem that this circle of joy will reveal itself to be a circle of unwilling vows before you leave it.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar throws a rope to catch Grygum after he falls off Themberchaud.",
+    "source_quote": "Jimjar throws a rope and catches the falling orc.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Rump-a-dump",
+    "fact": "Rump-a-dump insists the Neverlight Grove cannot be corrupted because their sovereign would not allow it.",
+    "source_quote": "Zalthir, the circle cannot be corrupted. \u201cOur sovereign would never let that happen.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Rump-a-dump",
+    "fact": "Rump-a-dump is a childlike member of the group who believes in the inviolability of sacred circles and refuses to acknowledge danger. He speaks with naive certainty about his sovereign\u2019s protection.",
+    "source_quote": "Zalthir, the circle cannot be corrupted. Our sovereign would never let that happen.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith is a mysterious member of the group driven by compulsion; he is drawn to the Neverlight Grove by the same force that led him to the Myconids, suggesting he is under supernatural influence.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith is compelled to go to the Neverlight Grove by the same force that drew him to the Myconids in the Whorlstone Caverns.",
+    "source_quote": "The strange compulsion that drew him to the dancing Myconids in the Whorlstone Caverns draws him to the grove.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith is driven by strange compulsions, previously drawn to Myconid dancing in the Whorlstone Caverns and now compelled to reach the Neverlight Grove. He is intuitive, not logical, and insists on leaving the boat despite the risk.",
+    "source_quote": "The path to the Neverlight Grove goes past the Lost Tomb of Khaem. But we must leave the boat here.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "spellcaster rarity",
+    "fact": "Spellcasters who can cast mending are rare due to naval combat tactics.",
+    "source_quote": "spell casters who could cast mending were in high demand by the navies. And so spellcasters tended to avoid learning that spell. See, in naval combat, the first person you kill is the mender. Because until you kill him, you can\u2019t sink the ship. So finding a spell caster who can cast it is rare.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Stool",
+    "fact": "Stool wants to go to the Neverlight Grove with the party.",
+    "source_quote": "Rump-a-dump and Stool want to go to the Neverlight Grove.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud believes he is a powerful Wyrmsmith in charge of Gracklstugh, though he is in reality a glorified lighter for the Duergar.",
+    "source_quote": "I am Themberchaud the Wyrmsmith, bringer of flame! ... He thinks he's in charge. Yet, I know the truth: he's merely a 'glorified lighter' for the Duergar forges.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud believes he is in charge of Gracklstugh, though he is merely a glorified lighter.",
+    "source_quote": "It's clear that he \"thinks he's in charge\". Yet, I know the truth: he's merely a \"glorified lighter\" for the Duergar forges.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud breathes fire at a forge while declaring himself \"Bringer of flame!\".",
+    "source_quote": "I am Themberchaud the Wyrmsmith, bringer of flame!\"",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud claims the party are his agents bound by his protection.",
+    "source_quote": "we are his \u201cagents, bound by my protection.\"",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud declares he will provide express service to where the party must go next.",
+    "source_quote": "he offers his \"express service to where you must go next\"",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud is a dragon who believes himself to be the Wyrmsmith, a divine forger of flame. He loudly proclaims his identity, breathes fire at forges, and insists on dramatic flybys \u2014 all while being completely oblivious to the group\u2019s strategic concerns.",
+    "source_quote": "I am Themberchaud the Wyrmsmith, bringer of flame!",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud is a young red dragon known as the Wyrmsmith of Gracklstugh.",
+    "source_quote": "It's Themberchaud, the Wyrmsmith of Gracklstugh",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud is a young red dragon, pampered and polished by the Duergar, serving as a glorified lighter for their forges; he believes himself to be a sovereign Wyrmsmith and is utterly unaware of how ridiculous and controlled he appears to others.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud is a young red dragon, pampered and polished, serving as a glorified lighter for the Duergar forges in Gracklstugh. He believes himself to be a powerful ruler but is deeply manipulated, unaware of his true role. His scales are meticulously kept shiny, his claws painted, and his demeanor childish and vain. He has a second chin and speaks with inflated authority, yet lacks strategic understanding. He thinks he is in charge of his realm, but is merely a tool.",
+    "source_quote": "Climb aboard, unless you wish to question the will of your wormsmith.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud proclaims the cavern he flies through is \"my town\".",
+    "source_quote": "proclaiming it \"my town\"",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud shouts at the party to climb aboard or question the will of the Wyrmsmith.",
+    "source_quote": "Climb aboard, unless you wish to question the will of your wormsmith\"",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud\u2019s maturity has been adversely affected by the peculiar role he serves in Gracklstugh as a glorified lighter.",
+    "source_quote": "Themberchaud\u2019s maturity has been adversely affected by the peculiar role he serves in Gracklstugh as a glorified lighter. I wonder why the Duergar chose a Red Dragon? Surely magic would be cheaper and less dangerous.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud\u2019s scales are shiny and his claws are painted, indicating he is pampered and deliberately kept from appearing fearsome.",
+    "source_quote": "His scales are shiny. Someone has been carefully keeping them polished. And his claws are painted. They have none of the telltale signs of rending and destruction that they should have.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin agrees with Zalthir that they should have tied themselves to Themberchaud\u2019s back.",
+    "source_quote": "I agree with Zalthir that we really should have tied ourselves up rather than just sit on Themberchaud\u2019s back.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a cynical but loyal member of the group who understands the absurdity of their situation; he supports deception to survive, quotes giant proverbs, and is drawn to dangerous choices despite knowing their risks.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a giant who believes in bold, chaotic action, often disregarding consequences. He recently shouted about a 'flyby to the docks' and invoked an old saying: 'To save the village, you must smash the village.' He has shown a pattern of ignoring advice and rolling the dice on dangerous decisions.",
+    "source_quote": "Alright, one more flyby and to the docks!",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is skeptical and reluctant to share information, preferring secrecy. He mutters dismissively about revealing everything, indicating a distrustful and guarded nature, but does not actively oppose the group\u2019s decisions.",
+    "source_quote": "We should just tell him everything. Nah.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin mutters the giant saying, \"To save the village, you must smash the village.\"",
+    "source_quote": "Thorin mutters an old giant saying, \"To save the village, you must smash the village.\"",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir concludes that killing the Duergar Stone Guard is necessary to avoid mass bloodshed.",
+    "source_quote": "In the interest of avoiding mass bloodshed, I think we must.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a pragmatic and observant member of the group who recognizes the deception surrounding Themberchaud and exploits the Duergar\u2019s fear of the Ember Vanguard to avoid bloodshed; he carries the group\u2019s most dangerous secrets and values moral restraint over violence.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a seasoned observer of powerful, egotistical figures, recognizing Themberchaud\u2019s need for face-saving gestures. He intervenes with a strategic lie to redirect the dragon\u2019s attention toward the docks, using the dragon\u2019s own sense of superiority to manipulate him into action.",
+    "source_quote": "There was an attack on the docks, so there might be new intelligence. Your agents didn\u2019t miss it; they just haven\u2019t been there recently.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a thoughtful, weary leader who weighs moral consequences and seeks to minimize bloodshed. He recognizes the group's false identity as the Ember Vanguard and uses it strategically. He is deeply aware of the secrets they carry and finds comfort in knowing they prevented mass destruction in Gracklstugh.",
+    "source_quote": "The secrets we carried \u2014 of the Deep King\u2019s plots, the corrupted dragon egg, and the lurking demonic plots \u2014 could have provoked mass death and destruction. And we took those secrets with us.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir notices Duergar panic upon seeing Daz, mistaking the party for the Ember Vanguard.",
+    "source_quote": "They recognized us. Look at their panic. They weren\u2019t afraid of Themberchaud but when they saw Daz, they suddenly freaked out. They think we are the Ember Vanguard.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir recalls that spellcasters who can cast Mending are rare because navies kill them first.",
+    "source_quote": "spell casters who could cast mending were in high demand by the navies. And so spellcasters tended to avoid learning that spell. See, in naval combat, the first person you kill is the mender. Because until you kill him, you can\u2019t sink the ship. So finding a spell caster who can cast it is rare.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir suggests exploiting the Duergar\u2019s belief that the party is the Ember Vanguard.",
+    "source_quote": "They think we are this all-powerful group; we take advantage of it.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "bet value",
+    "fact": "Jimjar wagers an empty shell gem on the outcome of the circle's nature.",
+    "source_quote": "I'll bet you an empty shell gem that this circle of joy will reveal itself to be a circle of unwilling vows before you leave it.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Caltrop",
+    "fact": "A caltrop is given by Grygum to the Duergar Stone Guard as a symbolic token of their mission; it serves as a ruse to buy time and avoid violence, representing the group\u2019s deceptive strategy.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "caltrop",
+    "fact": "A caltrop is used by Grygum as a symbolic token of the group\u2019s mission. He gives it to the Duergar guard to bind him to secrecy, transforming a mundane object into a sacred relic of deception.",
+    "source_quote": "This is a symbol of our mission. Guard it and keep it secret.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "caltrop",
+    "fact": "Grygum gives a caltrop to the Duergar Stone Guard as a symbol of their mission.",
+    "source_quote": "Grygum pulls out a caltrop, \u201cThis is a symbol of our mission. Guard it and keep it secret.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "empty shell gem",
+    "fact": "An empty shell gem is the wagered item in Jimjar\u2019s bizarre bet about the Neverlight Grove. It represents his tendency toward cryptic gambling and foreshadows a future, possibly cursed, ritual.",
+    "source_quote": "I'll bet you an empty shell gem that this circle of joy will reveal itself to be a circle of unwilling vows before you leave it.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "empty shell gem",
+    "fact": "Jimjar bets an empty shell gem on the outcome of the party\u2019s journey to the Neverlight Grove.",
+    "source_quote": "I'll bet you an empty shell gem that this circle of joy will reveal itself to be a circle of unwilling vows before you leave it.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Empty Shell Gem",
+    "fact": "Jimjar wagers an empty shell gem that the party\u2019s journey will become a circle of unwilling vows; the bet is accepted by Grygum, foreshadowing a binding magical consequence.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Themberchaud\u2019s painted claws",
+    "fact": "Themberchaud\u2019s claws are painted, a deliberate cosmetic choice that contradicts their intended function as weapons of destruction. They show no signs of battle, wear, or use \u2014 instead appearing decorative, like a toy\u2019s. This detail symbolizes his complete domestication and the Duergar\u2019s psychological control.",
+    "source_quote": "his claws are painted. They have none of the telltale signs of rending and destruction that they should have.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Themberchaud\u2019s polished scales",
+    "fact": "Themberchaud\u2019s scales are meticulously polished to a high shine, an unnatural and obsessive grooming that renders him visually incongruous with a true dragon. This detail reflects his role as a status symbol rather than a warrior \u2014 a pet maintained for appearance, not power.",
+    "source_quote": "his scales are shiny. Someone has been carefully keeping them polished.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "attack on the docks",
+    "fact": "An unconfirmed attack on the docks of the Dark Lake District is the proposed lead for investigation. Zalthir suggests it as a plausible reason to go there, but its actual existence is uncertain \u2014 possibly fabricated to appease Themberchaud\u2019s ego. The truth of the attack remains unresolved and critical to the mission.",
+    "source_quote": "There was an attack on the docks, so there might be new intelligence.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "circle of unwilling vows",
+    "fact": "Jimjar\u2019s bet implies a hidden, possibly demonic ritual awaiting the party in the Neverlight Grove \u2014 one that will force them into binding, unwilling oaths. The nature of this thread is cryptic, but its implications are ominous.",
+    "source_quote": "I'll bet you an empty shell gem that this circle of joy will reveal itself to be a circle of unwilling vows before you leave it.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "corrupted dragon egg",
+    "fact": "The party carries a secret: a corrupted dragon egg, likely tied to the Deep King\u2019s plots. Its existence could trigger catastrophic events if revealed, and its fate remains unresolved as they flee deeper into the Underdark.",
+    "source_quote": "The secrets we carried \u2014 of the Deep King\u2019s plots, the corrupted dragon egg, and the lurking demonic plots \u2014 could have provoked mass death and destruction.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Corrupted Dragon Egg",
+    "fact": "The party carries the secret of a corrupted dragon egg, a threat capable of mass destruction; they have chosen to conceal it from Gracklstugh, making this a moral burden with potential future consequences.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Deep King\u2019s plots",
+    "fact": "The party carries the secret of the Deep King\u2019s plots from Gracklstugh.",
+    "source_quote": "The secrets we carried - of the Deep King\u2019s plots, the corrupted dragon egg, and the lurking demonic plots - could have provoked mass death and destruction.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "demon egg",
+    "fact": "The party carries the secret of a corrupted dragon egg from Gracklstugh.",
+    "source_quote": "The secrets we carried - of the Deep King\u2019s plots, the corrupted dragon egg, and the lurking demonic plots - could have provoked mass death and destruction.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "demonic plots",
+    "fact": "The party carries the secret of lurking demonic plots from Gracklstugh.",
+    "source_quote": "The secrets we carried - of the Deep King\u2019s plots, the corrupted dragon egg, and the lurking demonic plots - could have provoked mass death and destruction.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Ember Vanguard",
+    "fact": "The Ember Vanguard is a feared mercenary group that the Duergar and others believe to be real, though the party is merely impersonating them.",
+    "source_quote": "They think we are the Ember Vanguard. ... I know you, you are the Ember Vanguard! I must warn Captain Errde at once!",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Lost Tomb of Khaem",
+    "fact": "The Lost Tomb of Khaem is a location the party plans to visit for a weapon, but its contents and dangers are unverified.",
+    "source_quote": "Perhaps we could first go to the Lost Tomb of Khaem, secure whatever weapon it has, and then go?",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Themberchaud\u2019s true role",
+    "fact": "The party is aware that Themberchaud is not a sovereign but a glorified lighter for the Duergar, yet they must conceal this knowledge to survive. His delusions of power and the group\u2019s need to manipulate him create a fragile, high-stakes tension. Uncovering his true function could destabilize the Duergar\u2019s control \u2014 or trigger his wrath.",
+    "source_quote": "My Bahamut-trained sensibilities are appalled at how they treat Themberchaud.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Themberchaud\u2019s True Role",
+    "fact": "The party knows Themberchaud is a manipulated tool of the Duergar, not a sovereign Wyrmsmith; they have chosen not to reveal this truth, creating a moral tension between dragonkind\u2019s dignity and their survival.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Themberchaud\u2019s true role",
+    "fact": "Themberchaud is a Red Dragon forced into the role of a glorified lighter for the Duergar, though his true power and status are ignored.",
+    "source_quote": "He's merely a 'glorified lighter' for the Duergar forges. My Bahamut-trained sensibilities are appalled at how they treat Themberchaud.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Neverlight Grove",
+    "fact": "The Neverlight Grove is a dangerous location tied to demons and mushrooms, and its true nature is unknown to the party.",
+    "source_quote": "Zalthir, the circle cannot be corrupted. 'Our sovereign would never let that happen.' ... I hope no one will take him up on his weird bet, but Grygum does.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Unwilling Vows",
+    "fact": "Jimjar\u2019s bet suggests the party\u2019s journey to the Neverlight Grove will bind them to unwilling magical oaths; Grygum has accepted the wager, making this a looming, unresolved plot thread.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  }
+]

@@ -33,3 +33,8 @@ tags: [cult, dragon-worship]
 related: []
 sources: ["jorgen.md"]
 ---
+
+## Related
+
+- [[inferno]]
+- [[lord-khaspere-drylund]]

@@ -4,12 +4,12 @@ title: Obsidian Sword
 created: 2025-05-22
 updated: 2025-05-22
 tags: [artifact, sentient-weapon, magic-item]
-related: [the-carver, vukradin]
+related: ["vukradin"]
 sources: ["the_carver.md"]
 ---
 # Obsidian Sword
 
-A sentient black obsidian weapon that served as the true identity of [[the-carver]]. 
+A sentient black obsidian weapon that served as the true identity of the-carver. 
 
 ## Properties
 - **Mental Amplification:** The sword functions as a powerful mental amplifier, capable of projecting its intelligence, will, and contempt directly into the minds of nearby individuals.

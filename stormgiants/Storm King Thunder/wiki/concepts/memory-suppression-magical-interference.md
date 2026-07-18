@@ -17,3 +17,7 @@ In the case of [[elara-seasong-meliame]], she was unable to clearly recall the s
 ## Potential Origins
 - **[[kraken-society]] Operations:** The "swirl" description aligns with the known spiral emblem of the [[kraken-society]], suggesting they may use cognitive obscuration to protect their identity.
 - **Psionic Tools:** The suppression may be a specialized tool used by organized raiding parties to ensure their affiliation remains unconfirmed by civilian witnesses.
+
+## Related
+
+- [[memory-suppression-via-magical-markings]]

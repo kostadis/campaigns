@@ -33,3 +33,10 @@ Gorthok  — "I didn't think we'd see Gorthok till the," (Talosian Thunder Boar;
 Eastern Heart  — Prutha's tribe name shouted as greeting ("Eastern Heart! Three banners on the wall!") — already canonical per notes/npcs/prutha.md and notes/npcs/lodge_orcs_eastern_heart.md  — 2026-05-22
 Sun and Stone  — Eastern Heart clan banner/march ("I see one! Sun and Stone! My uncle's clan march!")  — 2026-05-22
 | Ferrmal Thunder (totem) | Magical totem Valphine heard about that can power a resurrection spell without needing a cleric ("create an interesting ritual... a true resurrection ritual") | 2026-05-26 |
+Corrin  — CounterForce character (Rimardo and Corrin doctrine); "Corrin flips a card, a town half underwater."  — 2026-06-14
+Rimardo  — CounterForce character (Rimardo and Corrin / Savras counterweight to KP); "I don't remember Romardo being quite such an asshole"  — 2026-06-14
+Istus  — Greyhawk goddess of fate and destiny; referenced as avatar context in this session  — 2026-06-14
+- Neverwinter Commission  — "After our cut to the Neverwinter Commission."  — 2026-06-14
+- Privy Council  — "Fandalin and Vukradin need to have a discussion with the Privy Council."  — 2026-06-14
+- Axehome  — "there were these interdimensional creatures in Axehome."  — 2026-06-14
+- Light Lord  — "Valphine, just glorious Light Lord. Earthlady." — epithet/title  — 2026-06-14

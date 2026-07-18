@@ -10,3 +10,8 @@ sources: []
 # Locutus
 
 Intelligence report regarding the intermediary known as Locutus, his role in the death of [[borg-the-hammer]], and his subsequent assassination by [[sister-kaella]].
+
+## Related
+
+- [[4-npcs--7-locutus--r29u6c]]
+- [[locutus]]

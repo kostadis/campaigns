@@ -1,0 +1,226 @@
+[
+  {
+    "type": "npc",
+    "subject": "Sylvira",
+    "fact": "Sylvira is referenced by Daz as the authority who decides the fate of failed Drow.",
+    "source_quote": "Sylvira might decide his fate should be precisely like Serith's",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "guard chamber",
+    "fact": "The guard chamber contains a zurkhwood table, three chairs, a side table, and a Sava game set on the table.",
+    "source_quote": "It contains a zurkhwood table and three chairs, a smaller side table, and a Sava game set on the table",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch is referenced by Sylvira as the one who requested intercession with Janussi to keep his job.",
+    "source_quote": "Kalan Strongbranch had come to her before Deadwinter evening, asking her to intercede with Janussi on his behalf, to keep his job",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi is referenced by Sylvira as the one who dismissed Kalan\u2019s proposal as insane and was later poisoned.",
+    "source_quote": "When Janussi had raised it at some point, it was Bookwyrm who'd felt it was absurd",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm is referenced by Sylvira as the one who opposed Kalan\u2019s investigative controls and argued with Alkrist after the poisoning.",
+    "source_quote": "Bookwyrm who had pushed hardest against it",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Teles Ahvoste",
+    "fact": "Teles Ahvoste is named by Sylvira as having held hostility toward Janussi for nearly twenty years and being passed over for Keeper of Tomes.",
+    "source_quote": "Teles Ahvoste directly",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daral Yashenti",
+    "fact": "Daral Yashenti is referenced by Sylvira as someone whose work was dismissed on execution grounds.",
+    "source_quote": "The same confident dismissal she'd given Daral: she knew her field",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Alkrist",
+    "fact": "Alkrist is confirmed by Zalthir to have applied midnight tears to the book and washed his hands in a basin after burning the vial\u2019s label.",
+    "source_quote": "He was burning the label when Irony and Orrin Glass arrived with a basin of water for supper, and he had washed his hands in it, just in case there was any midnight tears on them",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "A'lai",
+    "fact": "A'lai is referenced by Alkrist as having met with him at eleven forty-five to discuss their mutual problem with Janussi.",
+    "source_quote": "Eleven forty-five. A'lai and Alkrist, discussing what needed to be done about their mutual problem",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Mordenkainen's Mansion",
+    "fact": "Sylvira constructed a Mordenkainen's Mansion specifically for the protection of her son, born in the Abyss.",
+    "source_quote": "living in a Mordenkainen's Mansion she'd constructed specifically for his protection",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "gift-wrapped book",
+    "fact": "The gift-wrapped book was coated in midnight tears and carefully re-wrapped after Daral's present was poisoned.",
+    "source_quote": "Daral's present, unwrapped and coated in midnight tears and carefully re-wrapped",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "midnight tears vial",
+    "fact": "The midnight tears vial had its label torn off and tied to the back of the Dead Winter tree as decoration.",
+    "source_quote": "The vial's label torn off and tied to the back of the Dead Winter tree as decoration",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "1001 Tashalian Nights",
+    "fact": "The book 1001 Tashalian Nights was bookmarked at the section describing midnight tears, annotated by Alkrist.",
+    "source_quote": "The book was on a shelf, bookmarked. I had read the section it was bookmarked to. Midnight tears. Tidy, annotated, marked",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Oak Tree Apothecary",
+    "fact": "The Oak Tree Apothecary was the location where Alkrist stole the vial of midnight tears.",
+    "source_quote": "The Oak Tree Apothecary, the stolen vial, peppermint spilled on the counter floor",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by the narrator as the one who retrieved and restored the gift-wrapping paper using a Bahamut cantrip.",
+    "source_quote": "I turned it over in my hands... I do. It's not a spell that comes up often in my line of work... The prayer was short... The paper did the rest",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by the narrator as the one who insisted on pinning timelines to the minute and interrogated Alkrist under truth spell.",
+    "source_quote": "Zalthir's instinct would have been to pin the timing down to the minute... So I asked it in his place",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is referenced by Zalthir as the one who conducted the interrogation of Alkrist and confirmed the presence of a truth spell.",
+    "source_quote": "Thorin responded with something about being happy to help for the right remuneration... Kalan was outside the door. As of right now, Alkrist could not lie",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is referenced by Zalthir as being present during Alkrist\u2019s interrogation and paying attention without being asked.",
+    "source_quote": "Glabbagool was in the room with us, settled near the far wall. He had been there since the beginning. I had not asked him to pay attention. He simply did",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Irony",
+    "fact": "Irony is referenced by Alkrist as arriving with Orrin Glass with a basin of water for supper while he was burning the vial\u2019s label.",
+    "source_quote": "He was burning the label when Irony and Orrin Glass arrived with a basin of water for supper",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Orrin Glass",
+    "fact": "Orrin Glass is referenced by Alkrist as arriving with Irony with a basin of water for supper while he was burning the vial\u2019s label.",
+    "source_quote": "He was burning the label when Irony and Orrin Glass arrived with a basin of water for supper",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Dead Winter tree",
+    "fact": "The Dead Winter tree was used as a decoration site for the torn vial label after the midnight tears were applied to the book.",
+    "source_quote": "The vial's label torn off and tied to the back of the Dead Winter tree as decoration",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "chalice",
+    "fact": "The chalice was known to conceal something only someone with specific reason would look inside, and its knowledge was not possessed by Alkrist.",
+    "source_quote": "Someone had known about the chalice: what it was for, what could be hidden inside it, why no one would think to look there without specific reason. That someone was not Alkrist",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Brother Essivhan",
+    "fact": "Brother Essivhan is referenced by Zalthir as possibly being the instructor who taught about what one finds in someone\u2019s room.",
+    "source_quote": "There was a class at the monastery, Brother Essivhan, possibly, or the quiet one with the ink-stained hands, about what you find in someone's room telling you more than what they'd ever say with their face",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bahamut",
+    "fact": "Bahamut is referenced by Grygum as the deity whose domain includes the preservation of truth and the cantrip that restores objects to their original state.",
+    "source_quote": "Bahamut's domain is, among other things, the preservation of truth, and a cantrip that restores things to their original state",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Janussi's third-floor rooms",
+    "fact": "Janussi's third-floor rooms contained a note that Grygum filed away, and were the site of the poisoned gift's origin.",
+    "source_quote": "I'd been through Janussi's third-floor rooms carefully. There was a note, and I'd filed that away",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "dining hall trash bucket",
+    "fact": "The gift-wrapping paper was retrieved from the dining hall trash bucket, indicating deliberate disposal away from Janussi\u2019s rooms.",
+    "source_quote": "a piece of paper, crumpled and retrieved from a trash bucket in the dining hall",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kazryn Nyantani",
+    "fact": "Kazryn Nyantani is referenced by the narrator as having credible resentment and a long-standing grudge.",
+    "source_quote": "Kazryn Nyantani: resentment credible enough to survive scrutiny, long-standing grudge, apparent capability",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sylvira's son",
+    "fact": "Sylvira's son was born in the Abyss and lives in a Mordenkainen's Mansion she constructed for his protection.",
+    "source_quote": "born in the Abyss, living in a Mordenkainen's Mansion she'd constructed specifically for his protection",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Sylvira's chambers",
+    "fact": "Sylvira returned to her chambers around 12:30 and saw no one after that, having been infected by an abyssal plague from her son.",
+    "source_quote": "She'd returned to her chambers around 12:30, she thought... After 12:30, she came to her room and saw no one. Her son... had infected her with an abyssal plague",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "honey",
+    "fact": "Honey is denied by Sylvira as something she would never drink, and its mention was a trivial misrepresentation.",
+    "source_quote": "Honey? I would *never* drink honey. What kind of nonsense is this?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Lilith",
+    "fact": "Lilith is referenced by the narrator as the sick tiefling in the too-hot room, grieving the last argument she'd had with someone she'd loved.",
+    "source_quote": "And a sick tiefling in a too-hot room, shivering despite the fire, grieving the last argument she'd had with someone she'd loved",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "I",
+    "fact": "I am referenced by the narrator as the one who conducted the interrogation of Sylvira and pressed Grygum\u2019s questions, acting on Zalthir\u2019s methods.",
+    "source_quote": "I asked whether she was the figure someone had seen near the kitchen... I pressed it myself... So I asked it in his place",
+    "quote_verified": false
+  }
+]

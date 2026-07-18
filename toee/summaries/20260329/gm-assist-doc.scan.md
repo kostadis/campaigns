@@ -1,0 +1,16 @@
+- "Twenty-five points of impact" → "The blow took something real from what remained"
+- "Channel divinity" → [label removed; em dash folds its descriptors back onto the thrust sentence]
+- "made its save" (first instance) → "did not flinch"
+- "made its save again" → "held against it again"
+- "five damage after the creature's resistance halved it" → "a wound that barely registered on something like this"
+- "fire bolt" (spell-name callout) → "bolt of fire"
+- "My armor class is 20." → [stat removed; "I want that on record:" leads directly into the plate mail description]
+- "Sixteen damage, cold and deep" → "A blow that cost something real, cold and deep"
+- "added eight more" → "added its own insult on top"
+- "Two failed turns." (Calmer, closing line) → "Two attempts, and nothing to show for either."
+- "A 1. The kind of number that makes you want to reconsider your life choices." → "The mechanism failed at the worst possible moment — the kind of failure that makes you want to reconsider your life choices."
+- "Twenty-seven damage. Clean." → "Clean. Precise."
+- "The Turn Undead came out of him" → "The holy wrath came out of him"
+- "all three remaining ghouls failing, every last one of them" → "all three remaining ghouls unable to hold against it, every last one of them"
+- "taking damage as they ran" → "taking the toll as they ran"
+- "Two failed turns on the wraith." (Zephyr section) → "Two failed attempts on the wraith."

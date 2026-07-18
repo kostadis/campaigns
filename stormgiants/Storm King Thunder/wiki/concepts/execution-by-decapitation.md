@@ -12,3 +12,12 @@ sources: ["harthos_zymorven.md"]
 - **Details:** Harthos is scheduled to be executed by decapitation on the **10th of the month**, a method deliberately chosen to prevent magical resurrection.
 - **Impact:** Harthos's execution prevents him from returning to life through magical means.
 - **Associated Characters:** Harthos Zymorven
+
+## Related
+
+- [[magic-transmutation]]
+- [[magic-revival]]
+- [[magic-decay]]
+- [[magic-resurrection]]
+- [[magic-death]]
+- [[murder]]

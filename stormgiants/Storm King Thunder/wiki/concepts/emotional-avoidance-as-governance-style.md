@@ -4,7 +4,7 @@ title: Emotional Avoidance as Governance Style
 created: 2026-06-15
 updated: 2026-06-15
 tags: [leadership, fear, suppression, civic-avoidance, moral-negligence]
-related: [harbin-wester, emotional-avoidance-as-character-deficit, bureaucratic-cowardice, civic-ritual-as-political-theater]
+related: ["harbin-wester", "warning-as-self-vindication", "bureaucratic-cowardice", "civic-ritual-as-political-theater"]
 sources: ["npcs/harbin_wester.md"]
 ---
 # Emotional Avoidance as Governance Style
@@ -15,4 +15,4 @@ Harbin Wester exemplifies this: he dismisses the lighthouse curse as “rumors,�
 
 This is not incompetence — it is policy. He believes that acknowledging discomfort invites chaos. His governance is built on the assumption that silence = safety, and that emotional truth is a threat to order.
 
-This style mirrors [[emotional-avoidance-as-character-deficit]] at the institutional level. It produces leaders who are not cruel, but numb — who maintain control not by force, but by refusal to feel. In a world where gods are silent, the most dangerous leaders are those who refuse to hear the cries of the world.
+This style mirrors [[warning-as-self-vindication]] at the institutional level. It produces leaders who are not cruel, but numb — who maintain control not by force, but by refusal to feel. In a world where gods are silent, the most dangerous leaders are those who refuse to hear the cries of the world.

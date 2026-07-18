@@ -1,8 +1,8 @@
 ---
 type: source
 title: "Source: xamlyn_margaster.md"
-created: 2026-05-13
-updated: 2026-05-13
+created: 2026-06-06
+updated: 2026-06-06
 sources: ["xamlyn_margaster.md"]
 tags: []
 related: []
@@ -10,41 +10,47 @@ related: []
 
 # Source: xamlyn_margaster.md
 
-### Key Entities
-- **Xamlyn Margaster**: Lady Margaster, noble of House Margaster, a respectable Waterdhavian noble house (Person)
-- **Cambions**: Infernal beings serving Xamlyn (Organization)
-- **High Lord Aerasumé**: City official granting Xamlyn guest protection (Person)
-- **Orsik**: Member of the party initially approached by Xamlyn (Person)
-- **Thistle (Three Halflings and a Pony)**: Group pursuing Xamlyn (Organization)
+## Key Entities
 
-### Key Concepts
-- **Infernal Forces**: Xamlyn's connection to the Cambions (Concept)
-- **Private Arrangement**: Xamlyn’s desire to negotiate with the party (Concept)
-- **Political Protection**: High Lord Aerasumé’s role in safeguarding Xamlyn (Concept)
+*   **Xamlyn Margaster** (Person)
+    *   **Role:** A high-ranking noble of House Margaster based in Waterdeep.
+    *   **Status:** Central antagonist/political foil. She represents the intersection of aristocratic privilege and infernal influence.
+    *   **Wiki Status:** Likely needs a new page or update to existing house notes.
+*   **House Margaster** (Organization)
+    *   **Role:** A "respectable" Waterdhavian noble house with significant financial ties to Silverymoon.
+    *   **Status:** Central to the political landscape of the region.
+    *   **Wiki Status:** Exists in overview; needs specific details on their infernal connections.
+*   **The Cambions** (Group/Entity)
+    *   **Role:** Infernal servants and bodyguards for Xamlyn.
+    *   **Status:** Peripheral but significant as they are the physical manifestation of her "unpardonable sins."
+    *   **Wiki Status:** Likely linked to [house-margaster].
+*   **High Lord Aerasumé** (Person)
+    *   **Role:** Authority figure in Silverymoon who provides Xamlyn with legal protection.
+    *   **Status:** Peripheral; represents the "shield" of political status.
+    *   **Wiki Status:** New entry or update to Silverymoon leadership.
+*   **Thistle Wendrod** (Person)
+    *   **Role:** Member of the 3HPP who identifies Xamlyn's crimes.
+    *   **Status:** Central; provides the moral/strategic framework for dealing with her.
+    *   **Wiki Status:** Already exists in wiki.
 
-### Main Arguments & Findings
-- **Core Claims**: Xamlyn Margaster seeks a private arrangement with the party to neutralize their threat to her, but was rebuffed. She is connected to the Cambions and has committed unpardonable sins in Everlund.
-- **Evidence**: 
-  - Xamlyn’s imperious behavior and refusal to negotiate from a position of weakness.
-  - Her request for a private arrangement and subsequent departure before proceedings could implicate her.
-  - The confirmation by Senneth that her Cambion companions are the same men who appeared at the trial.
-- **Strength of Evidence**: Strong, supported by multiple instances of Xamlyn’s actions and statements.
+## Key Concepts
 
-### Connections to Existing Wiki
-- **House Margaster**: Relevant to Xamlyn’s political standing and influence.
-- **Silverymoon**: Provides context for Xamlyn’s presence and activities.
-- **Cambions**: Links Xamlyn’s current situation to her past actions in Everlund.
+*   **Unpardonable Sins (Everlund):** The specific, undisclosed crimes committed by Xamlyn that led to her pursuit by the 3HPP.
+    *   **Significance:** This is a primary narrative hook; it defines her "villainy" beyond mere greed.
+    *   **Wiki Status:** New concept or sub-note under [house-margaster].
+*   **Political Protection as Shield:** The use of noble status and economic importance to bypass legal/magical scrutiny.
+    *   **Significance:** Highlights the theme of "Institutional Immunity" vs. personal morality.
+    *   **Wiki Status:** Relates to [administrative-weaponization-of-authority].
+*   **Disgrace as Strategy:** The 3HPP's determination to publicly expose her devils rather than simply killing her.
+    *   **Significance:** Shifts the goal from physical elimination to social/political destruction.
+    *   **Wiki Status:** Relates to [public-religious-spectacle-as-political-theater] (in terms of public exposure).
 
-### Contradictions & Tensions
-- **Internal Tension**: Xamlyn’s desire to negotiate while simultaneously refusing to engage in public scrutiny.
-- **External Conflict**: The party’s opposition to Xamlyn’s interests, leading to a potential future confrontation.
+## Main Arguments & Findings
 
-### Recommendations
-- **Create Pages**: 
-  - [[House Margaster]] 
-  - [[Cambions]]
-  - Silverymoon
-  - [[Everlund]]
-- **Emphasize**: Xamlyn’s political maneuvering and her connection to the Cambions.
-- **De-emphasize**: Immediate details about her “unpardonable sins” in Everlund, which are currently hidden.
-- **Open Question**: Further investigation into the nature of these sins and the extent of her infernal connections.
+*   **The Shield of Status:** Xamlyn is not a "monster" in the traditional sense; she is a high-level political player. Her primary defense is her utility to Silverymoon's economy, which forces local authorities (Aerasumé) to ignore her illegal activities.
+*   **Infernal Integration:** Her connection to Cambions isn't just a "deal with the devil" trope but an integrated business model where infernal servants manage her assets and provide security.
+*   **The 3HPP Strategy:** The transition from physical combat to "disgrace" indicates that the pa
+
+## Related
+
+- [[lord_zymorven]]

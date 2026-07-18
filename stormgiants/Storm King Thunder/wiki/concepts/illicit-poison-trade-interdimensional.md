@@ -29,3 +29,7 @@ The trade exemplifies the fusion of biological warfare, planar technology, and b
 
 **Significance:**  
 This trade transforms poison from a weapon into a philosophical tool — a means of erasing not just life, but legacy.
+
+## Related
+
+- [[interdimensional-smuggling]]

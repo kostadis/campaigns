@@ -1,0 +1,519 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a monk who maintained a grapple on the Pudding King, dragged him through Glabbagool, took acid damage from the gelatinous cube, and used magical protections to resist the worst effects. He later considered Glabbagool's potential to become a monk and took a mental note to suggest training in mental discipline.",
+    "source_quote": "Zalthir pulled the Pudding King directly through Glabbagool, who remarked that it tickled.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz launched magical missiles at the Pudding King, later channeled powerful energy into unerring strikes, and called down a massive fire explosion that engulfed Prince Livid and Princess Ebonmire.",
+    "source_quote": "Daz channeled powerful magical energy into missiles that unerringly struck the Pudding King.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin navigated around green slime hazards, struck the Pudding King with darts that accidentally hit Glabbagool, and later used his radiant sword Dawnbringer to sear through the corrupted ooze.",
+    "source_quote": "Thorin struck with his radiant sword Dawnbringer, its holy light searing through the corrupted ooze.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Prince Livid",
+    "fact": "Prince Livid is an ally of the Pudding King who retaliated with psychic blasts, survived a fire explosion due to flame resistance, but was ultimately destroyed by a volley of magical missiles.",
+    "source_quote": "Prince Livid's resistance to flames allowed him to survive with grievous injuries.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Princess Ebonmire",
+    "fact": "Princess Ebonmire hurled blobs of acidic ooze at the party, fought on after the Pudding King\u2019s defeat, and was destroyed by a combination of necrotic magic and physical strikes.",
+    "source_quote": "Princess Ebonmire fell to a combination of necrotic magic and physical strikes.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a gelatinous cube companion who was accidentally struck by Thorin\u2019s darts, swapped bodies with the Pudding King, remarked that being passed through tickled, and may now possess the consciousness of the former Pudding King.",
+    "source_quote": "Glabbagool remarked that it tickled.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Pudding King",
+    "fact": "The Pudding King was a sentient, telepathic ooze manifestation of Juiblex, capable of transforming into a slime wave, controlling green slime in his lair, and projecting his voice telepathically. After being dragged from his throne room, his power waned, and he was dissolved by Zalthir\u2019s eldritch strikes, his consciousness dissipating into inert puddles.",
+    "source_quote": "With a final telepathic scream\u2014'Behold the true feast, the soul's final blend!'\u2014the Pudding King dissolved completely.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Green Slime",
+    "fact": "Green slime hung from the throne room ceiling, ready to drop on anyone passing beneath it, and was used by the Pudding King as a lair hazard. It continued to fall on those knocked prone after the slime wave, though most rolled clear.",
+    "source_quote": "Green slime hanging from the ceiling ready to drop on anyone who passed beneath it.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Throne Room",
+    "fact": "The throne room was the Pudding King\u2019s domain, granting him additional power through lair actions, containing green slime hazards, and serving as the site of the initial battle. His power diminished after being dragged from it.",
+    "source_quote": "The throne room itself proved treacherous, with green slime hanging from the ceiling...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Underdark",
+    "fact": "The Underdark is the broader setting where the battle occurred, now threatened by the rising influence of Zuggtmoy as fungi grow more twisted and malevolent following the Pudding King\u2019s defeat.",
+    "source_quote": "The fungi growing throughout the cavern were becoming more twisted and malevolent in appearance...",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Juiblex",
+    "fact": "Juiblex, the demon lord of oozes, is the source of the Pudding King\u2019s power. His demonic presence receded after the Pudding King\u2019s dissolution, but a demonic voice echoed, declaring his intent to be reborn and consume Zuggtmoy\u2019s banquet to grow stronger.",
+    "source_quote": "A demonic voice echoed through the chamber, possibly Juiblex himself, declaring that he would be reborn and consume the banquet of the queen of fungi to grow even stronger.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Zuggtmoy",
+    "fact": "Zuggtmoy, the demon queen of fungi, is moving to fill the power vacuum left by the Pudding King\u2019s defeat, as fungi throughout the cavern grow more twisted and malevolent in appearance.",
+    "source_quote": "The fungi growing throughout the cavern were becoming more twisted and malevolent in appearance, suggesting that Zuggtmoy... was already moving to fill the power vacuum.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Bag of Holding",
+    "fact": "The party considered using the Bag of Holding to contain the Pudding King, but realized a sentient ooze could simply ooze back out through the opening.",
+    "source_quote": "The party discussed using their Bag of Holding to contain the ooze, but realized that while they could temporarily shove him inside to deprive him of action, a sentient ooze could simply ooze back out through the opening.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is Thorin\u2019s radiant sword whose holy light seared through the corrupted ooze of the Pudding King.",
+    "source_quote": "Thorin struck with his radiant sword Dawnbringer, its holy light searing through the corrupted ooze.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Body Swap",
+    "fact": "An impossible body swap occurred between the Pudding King and Glabbagool, confirmed when Thorin asked where they first met and the ooze responded they met in a cave, revealing Glabbagool now held the Pudding King\u2019s consciousness.",
+    "source_quote": "Thorin tested this by asking where they first met, and the ooze near him responded that they had met in a cave\u2014confirming it was indeed their friendly gelatinous cube ally.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pudding King\u2019s Dissolution",
+    "fact": "The Pudding King was dissolved by Zalthir\u2019s eldritch-enhanced flurry of strikes after being removed from his lair, his consciousness dissipating as his form melted into inert puddles.",
+    "source_quote": "With a final telepathic scream\u2014'Behold the true feast, the soul's final blend!'\u2014the Pudding King dissolved completely, his consciousness dissipating as his physical form melted into inert puddles.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Demons\u2019 Power Shift",
+    "fact": "Juiblex\u2019s demonic presence receded from the Underdark after the Pudding King\u2019s defeat, while Zuggtmoy\u2019s influence grew through twisted fungi, setting up a new conflict between the two demon lords.",
+    "source_quote": "The toxic, oppressive presence of Juiblex's demonic power began to recede... however, they noticed that the fungi... were becoming more twisted and malevolent...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Glabbagool\u2019s Monk Training",
+    "fact": "Zalthir took a mental note to suggest Glabbagool begin training in mental discipline to control his body and the effects of his acidity, implying a potential future arc where the gelatinous cube becomes a monk.",
+    "source_quote": "He took a mental note to suggest that Glabbagool begin the training to become a monk.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Juiblex\u2019s Rebirth",
+    "fact": "A demonic voice declared Juiblex would be reborn and consume Zuggtmoy\u2019s banquet to grow stronger, foreshadowing a future conflict between the demon lords of oozes and fungi.",
+    "source_quote": "A demonic voice echoed through the chamber, possibly Juiblex himself, declaring that he would be reborn and consume the banquet of the queen of fungi to grow even stronger.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a sentient ooze who recently swapped bodies with the Pudding King, now inhabiting the Pudding King's form and speaking with a voice that does not match his original identity.",
+    "source_quote": "Why are you hurting me?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Pudding King",
+    "fact": "The Pudding King is a sentient ooze who swapped bodies with Glabbagool, now inhabiting Glabbagool's gelatinous cube form and expressing ecstatic, telepathic intentions about transformation and consumption.",
+    "source_quote": "I have shed my humanoid form for the supreme power! I shall reduce all of deep known kind into nothing but ooze!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "body swap",
+    "fact": "Glabbagool and the Pudding King have swapped bodies, causing confusion among the party when familiar voices emerge from incorrect ooze forms.",
+    "source_quote": "The party realizes Glabbagool and the Pudding King have swapped bodies when a familiar voice comes from the wrong ooze",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a gelatinous cube that was previously a sentient ooze, now temporarily inhabiting the Pudding King\u2019s form after a body swap, and capable of expressing tactile reactions such as 'this tickles'.",
+    "source_quote": "this tickles",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Pudding King",
+    "fact": "The Pudding King is a sentient ooze that has taken over Glabbagool\u2019s gelatinous cube form after a body swap, and now expresses grandiose, ecstatic pronouncements about transformation and consumption.",
+    "source_quote": "Behold the true feast, the soul's final blend!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "battle maneuver",
+    "fact": "Zalthir grapples the Pudding King in ooze form and drags him into Glabbagool, triggering a moment of tactile feedback that reveals the nature of their forms.",
+    "source_quote": "Zalthir grapples the Pudding King in ooze form and drags him into Glabbagool, prompting the gelatinous cube to say 'this tickles'",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "spellbook",
+    "fact": "A spellbook containing numerous magical formulas was discovered in the aftermath of the battle, having been consumed by Princess Ebonmire and now serving as a key resource for the party\u2019s arcane capabilities.",
+    "source_quote": "searching the aftermath of the battle, the party discovered treasure that had been consumed by Princess Ebonmire\u2014a spellbook containing numerous magical formulas",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "escape from Underdark",
+    "fact": "The party has secured their primary objective: a way out of the Underdark, achieving a significant victory despite lingering threats from the Abyss and the forces of Zuggtmoy and Juiblex.",
+    "source_quote": "more importantly, they had achieved their primary objective: securing a way out of the Underdark",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "body swap consequences",
+    "fact": "The body swap between Glabbagool and the Pudding King remains unresolved, with the party now needing to determine how to restore their original forms or adapt to their new identities.",
+    "source_quote": "The party realizes Glabbagool and the Pudding King have swapped bodies when a familiar voice comes from the wrong ooze",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Princess Ebonmire",
+    "fact": "Princess Ebonmire consumed a spellbook containing numerous magical formulas, which the party later recovered from her remains after the battle.",
+    "source_quote": "searching the aftermath of the battle, the party discovered treasure that had been consumed by Princess Ebonmire",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Abyssal demonic forces",
+    "fact": "The demonic forces of the Abyss still churn in the depths below the Underdark, representing an ongoing existential threat to the party\u2019s escape.",
+    "source_quote": "though the demonic forces of the Abyss still churned in the depths below them",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Zuggtmoy and Juiblex",
+    "fact": "Zuggtmoy waits to claim what Juiblex had lost, indicating a cosmic rivalry or consequence tied to the fate of the ooze entities and the party\u2019s escape.",
+    "source_quote": "though Zuggtmoy waited to claim what Juiblex had lost",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a combatant who grapples the Pudding King, uses Stone Skin to resist acid damage, employs Shadow Step for mobility, and delivers the final blows that dissolve the Pudding King.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Pudding King",
+    "fact": "The Pudding King transforms into a sentient, telepathic ooze connected to Juiblex, unleashes slime waves and lair actions, and ultimately dissolves after taking thirty-seven points of damage from Zalthir, screaming telepathically about the soul's final blend.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a gelatinous cube that temporarily contains the Pudding King after a body swap, reacts with 'this tickles' when occupied, and reverts to its original form confused about the events.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin identifies the body swap between Glabbagool and the Pudding King by asking 'we met in a cake,' attacks the correct target with Dawnbringer, and uses opportunity attacks to immobilize the Pudding King.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz casts multiple Magic Missiles at the Pudding King, deals twenty points of damage with a third-level version, is covered in green slime, and uses Fireball to damage Prince Livid and Princess Ebonmire.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum casts Guiding Bolt and Inflict Wounds, deals twenty-three points of damage to the Pudding King, is knocked prone by slime waves, avoids green slime damage, and finishes Princess Ebonmire with Inflict Wounds.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Prince Livid",
+    "fact": "Prince Livid attacks Zalthir with a psychic blast, deals fourteen points of damage (reduced to seven), resists fire damage from Fireball, and uses a psychic attack on Daz for five points of damage.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Princess Ebonmire",
+    "fact": "Princess Ebonmire throws a blob at Thorin (misses), takes full damage from Fireball, charges Thorin, and is grappled and damaged by Zalthir before being defeated.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Pudding King (ooze form)",
+    "fact": "The Pudding King exists as a telepathic, acidic ooze capable of slime waves, lair actions, and body-swapping; it is vulnerable to radiant damage and cannot be permanently contained in a Bag of Holding.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Green Slime",
+    "fact": "Green slime is a hazardous environmental hazard in the lair that can attach to creatures; Grygum avoids damage from it with a successful Dexterity saving throw.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Bag of Holding",
+    "fact": "The Bag of Holding is considered for containing the Pudding King, but the DM rules that an ooze can 'ooze out' of it, allowing temporary action denial but not permanent containment.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is a radiant weapon wielded by Thorin that deals twelve points of damage to the Pudding King when correctly targeted after the body swap.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Stone Skin",
+    "fact": "Stone Skin is a defensive spell used by Zalthir and Daz to reduce acid damage from slime waves and environmental hazards.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Underdark Ooze Entities",
+    "fact": "The Pudding King and Glabbagool are connected to the broader ooze ecology of the Underdark, with the Pudding King seeking to reduce all of it to ooze in service to Juiblex.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Body Swap Revelation",
+    "fact": "The party discovers that Glabbagool and the Pudding King have swapped identities, confirmed when the ooze responds 'we met in a cake' and Thorin correctly targets the Pudding King in Glabbagool's form.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Pudding King's Dissolution",
+    "fact": "The Pudding King dissolves after Zalthir deals thirty-seven points of damage, telepathically screaming 'Behold the true feast, the soul's final blend!' as he ceases to exist.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Slime Wave Attack",
+    "fact": "The Pudding King unleashes a slime wave affecting Zalthir, Thorin, Daz, and Grygum; Zalthir reduces damage with Stone Skin, while Daz and Grygum are knocked prone.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Lair Action \u2014 Green Slime Drop",
+    "fact": "The Pudding King uses a lair action to drop green slime on Grygum, but Grygum succeeds on a Dexterity saving throw and avoids damage.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Drag Out of Lair",
+    "fact": "Zalthir drags the Pudding King out of his lair using Steps of the Wind, neutralizing its lair actions and forcing it into Glabbagool's space, triggering a reaction.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Fireball on Minions",
+    "fact": "Daz casts Fireball dealing twenty-nine points of damage to Prince Livid and Princess Ebonmire; Livid resists and takes half, while Ebonmire takes full damage.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Juiblex's Influence",
+    "fact": "The Pudding King's transformation and telepathic goals suggest deeper influence from Juiblex, the Demon Prince of Oozes, though no direct manifestation occurs.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Glabbagool's Confusion",
+    "fact": "Glabbagool, now reverted to its original form, expresses confusion about the body swap, leaving open whether the event was magical, divine, or a permanent anomaly.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session end",
+    "fact": "The encounter concludes with the defeat of the Pudding King and his minions, marking the end of the session after coordinated assaults, revelations, and final blows.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Pudding King",
+    "fact": "A former humanoid who transformed into a sentient, telepathic ooze after embracing his connection to Juiblex, the demon lord of oozes. He commanded an army of oozes and possessed powerful abilities including slime waves and green slime attacks. He was grappled and dragged out of his lair by Zalthir, and at one point swapped positions with Glabbagool. He was ultimately defeated and dissolved, screaming 'Behold the true feast, the soul's final blend!' as he died.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "An intelligent gelatinous cube who was previously affected by demonic power. During the battle, he somehow swapped positions with the Pudding King, causing confusion for the party. After the Pudding King's defeat, Glabbagool returned to his original form and expressed excitement about potentially being carried in a jar or Bag of Holding, viewing his new mobility as an opportunity to experience the world differently. He sees himself as a potential garbage disposal and is interested in monk training.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Prince Livid",
+    "fact": "An ooze ally of the Pudding King who attacked with psychic blasts. He was resistant to fire damage, which allowed him to survive Daz's initial Fireball with only eight hit points remaining. He was ultimately killed by Daz's Magic Missile.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Princess Ebonmire",
+    "fact": "An ooze ally of the Pudding King who attacked by throwing blobs and charging at the party. She was killed by the party's combined efforts, and after her death, a spellbook containing many spells was found in her stomach.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Juiblex",
+    "fact": "The demon lord of oozes, whose power was channeled through the Pudding King. After the Pudding King's defeat, his infernal influence receded from the area, but a demonic voice claimed he would be reborn by consuming the Queen of Fungi.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zuggtmoy",
+    "fact": "The Lady of Rot and Demon Lord of Fungi. After Juiblex's defeat, the fungi in the area became more twisted, suggesting she was waiting to seize power in the vacuum left by the Pudding King's death.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Throne Room",
+    "fact": "The Pudding King's throne room, accessed through a hole created by an Earth Elemental. The room contains green slime hazards on the ceiling that can drop on those beneath them. It served as the Pudding King's lair, granting him special lair actions until he was dragged out of it.",
+    "quote_verified": false
+  },
+  {
+    "type": "item",
+    "subject": "Bag of Holding",
+    "fact": "A magical bag capable of storing vast amounts of items and potentially creatures. The party discussed using it to contain the Pudding King, but the DM ruled that while it could temporarily deprive an ooze of an action, a sentient ooze could 'ooze out' of it and escape. Glabbagool later expressed interest in being carried in it.",
+    "quote_verified": false
+  },
+  {
+    "type": "item",
+    "subject": "Dawnbringer",
+    "fact": "A magical weapon wielded by Thorin that emits light in a twenty-foot radius and deals radiant damage. It was used to attack the Pudding King after the party realized he had swapped positions with Glabbagool.",
+    "quote_verified": false
+  },
+  {
+    "type": "item",
+    "subject": "Spellbook",
+    "fact": "A spellbook containing many spells, found in Princess Ebonmire's stomach after her death. It significantly expanded the party's magical repertoire.",
+    "quote_verified": false
+  },
+  {
+    "type": "spell",
+    "subject": "Magic Missile",
+    "fact": "A reliable force damage spell cast by Daz multiple times during the battle. It does not require a roll to hit and has a range of 120 feet. Daz used it at both first and third level, with the third-level version dealing twenty points of damage to the Pudding King. The final Magic Missile killed Prince Livid.",
+    "quote_verified": false
+  },
+  {
+    "type": "spell",
+    "subject": "Guiding Bolt",
+    "fact": "A spell cast by Grygum early in the battle that missed its target.",
+    "quote_verified": false
+  },
+  {
+    "type": "spell",
+    "subject": "Stone Skin",
+    "fact": "A temporary magical effect that grants resistance to a chosen damage type for one round, usable once per long rest. Multiple party members used it to resist acid damage from the Pudding King's slime wave attacks.",
+    "quote_verified": false
+  },
+  {
+    "type": "spell",
+    "subject": "Inflict Wounds",
+    "fact": "A necrotic damage spell cast by Grygum that requires the target to make a constitution saving throw. It was used successfully against the Pudding King for twenty-three points of damage and against Princess Ebonmire for eighteen points of damage.",
+    "quote_verified": false
+  },
+  {
+    "type": "spell",
+    "subject": "Fireball",
+    "fact": "A powerful area-of-effect spell cast by Daz that deals fire damage in a large area. It dealt twenty-nine points of damage to both Prince Livid and Princess Ebonmire, though Prince Livid's fire resistance reduced his damage to fourteen points.",
+    "quote_verified": false
+  },
+  {
+    "type": "spell",
+    "subject": "Shadow Step",
+    "fact": "A monk ability used by Zalthir to teleport short distances, allowing him to quickly close the gap to enemies. He used it to reach the Pudding King and Princess Ebonmire during combat.",
+    "quote_verified": false
+  },
+  {
+    "type": "spell",
+    "subject": "Second Wind",
+    "fact": "An ability used by Thorin to heal himself during the battle.",
+    "quote_verified": false
+  },
+  {
+    "type": "spell",
+    "subject": "Eldritch Claw",
+    "fact": "An ability used by Zalthir that adds force damage to his melee attacks, manifesting as damage from his tentacles. Each hit adds 1d6 force damage.",
+    "quote_verified": false
+  },
+  {
+    "type": "spell",
+    "subject": "Revivify",
+    "fact": "A resurrection spell mentioned by Zalthir as a potential option to help Glabbagool, though it was not cast as Glabbagool was not dead.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "party leveling up",
+    "fact": "The party levels up after defeating the Pudding King and his allies.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Juiblex's power receding",
+    "fact": "The party feels the toxic flow of Juiblex's power receding from the area after the Pudding King's defeat.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zuggtmoy's influence growing",
+    "fact": "The fungi in the area become more twisted, suggesting Zuggtmoy is waiting to seize power in the vacuum left by Juiblex's defeat.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "demonic declaration",
+    "fact": "A demonic voice, possibly Juiblex himself, declares: 'You haven't won. I will be reborn. I will consume the banquet of the queen of the fungi, and I will grow.'",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Glabbagool's monk training",
+    "fact": "The party discusses Glabbagool's potential monk training and his desire to be carried in a jar or the Bag of Holding to experience the world differently.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Glabbagool as garbage disposal",
+    "fact": "Glabbagool suggests he could be carried in a jar or the Bag of Holding and serve as a garbage disposal.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "spellbook acquisition",
+    "fact": "The party finds a spellbook containing many spells in Princess Ebonmire's stomach, significantly expanding their magical repertoire.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Pudding King's death cry",
+    "fact": "The Pudding King screamed 'Behold the true feast, the soul's final blend!' as he dissolved upon defeat.",
+    "quote_verified": false
+  }
+]

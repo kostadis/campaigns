@@ -9,3 +9,11 @@ sources: ["dral_thelev.md"]
 ---
 # Political Intrigue
 Complex and often covert activities and maneuvers undertaken by political entities to gain power, influence, or control over others within the political landscape of Everlund.
+
+## Related
+
+- [[political-landscape]]
+- [[political-rivalries]]
+- [[political-power]]
+- [[political-strategy]]
+- [[political-relations]]

@@ -22,3 +22,7 @@ An eccentric noble based in [[neverwinter]]. He is currently serving as a "locat
 
 ## Current Activity
 Hosting an extravagant gala in [[neverwinter]], which serves as the destination for the party's current objective.
+
+## Related
+
+- [[lord_cassian_meliame]]

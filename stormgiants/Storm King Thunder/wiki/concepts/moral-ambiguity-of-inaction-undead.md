@@ -18,3 +18,7 @@ Yet the ambiguity deepens when we consider the living. Corbin’s death is not c
 The ambiguity lies in whether inaction is passive or complicit. Is it helplessness? Irrelevance? Or moral cowardice? This concept challenges the assumption that all sentient beings must be judged by human moral frameworks — and further, that morality requires action. Sometimes, the most destructive force is not the blade — but the decision not to hold it.
 
 Boney’s silence haunts not because he feels guilt, but because others project it onto him. It echoes [[guilt-as-internal-prison]] but flips it — here, the guilt is externalized onto a being who does not feel it. In a world where gods are silent and morality is fractured, Boney’s inaction becomes a mirror: if even a loyal, sentient creature can stand by and do nothing, what does that say about the moral clarity of those who act — and those who choose not to?
+
+## Related
+
+- [[moral-ambiguity-in-sidekicks]]

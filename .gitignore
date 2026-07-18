@@ -13,3 +13,10 @@ refs.local.yaml
 
 # MemPalace index/cache directories (regenerable, not source)
 .mempalace/
+
+# Stray CampaignGenerator server logs from running the tool at the repo root
+# instead of inside a campaign dir. Root-scoped on purpose: a bare `logs/` would
+# match at any depth and silently stop toee's version-controlled pipeline run
+# records (logs/*_scene_extract.md et al) from ever being added. Per-campaign log
+# policy stays per-campaign — see out-of-the-abyss/.gitignore.
+/logs/

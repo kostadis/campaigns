@@ -1,0 +1,1262 @@
+[
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is the one who targets the Ettin during the ambush, and recognizes the behavior of Derro avoiding Narrak as similar to Priestesses of Lolth silencing their subordinates.",
+    "source_quote": "I finally understand why that Derro, who should have seen us, has not noticed us. He\u2019s trying to avoid being seen by Narrak. I\u2019ve seen that before, when the various Priestesses of Lolth would get angry, and everyone tried hard to be invisible.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir casts darkness to conceal the Derro, breathes fire into it, warns of a madness-inducing effect from the ritual circle, and later moves the darkness over Narrak to break the fear spell.",
+    "source_quote": "There\u2019s some kind of effect that the circle has on those who enter it. Some kind of madness gripped my mind, but my monk training allowed me to stop it. Be careful! I move the darkness over Narrak. As the source of the Ember Vanguard\u2019s fear is no longer visible, they are no longer affected by it.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is struck by a Derro, vomits acid after incantation, casts a guiding bolt at the Ettin, and is affected by Narrak\u2019s fear spell before being freed by Zalthir\u2019s darkness.",
+    "source_quote": "One of the Derro rushes out of Zalthir\u2019s darkness, notices Grygum, and strikes him while chanting, \u201cYou shall die! You shall die!\u201d ... I look at him as he straightens and vomits forth a wave of acid. A guiding bolt from Grygum strikes the Ettin, and it groans and then smiles.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Narrak",
+    "fact": "Narrak is the head cultist who leads the ritual chant, berates the Derro for lack of vigor, casts fear using a white feather, and is trapped in Zalthir\u2019s darkness after being targeted by Maximillian\u2019s Earthen Grasp.",
+    "source_quote": "Silence, you blithering half-wits! More vigor! This city's doom, a ritual! Dig it! ... I will use fear! He takes a white feather and points at Thorin, Grygum, and Zalthir, says the magic words, and the three members of the Ember Vanguard look terrified. ... You cannot stop the inevitable... the curse spreads!",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is targeted by Narrak\u2019s fear spell, is struck by the Ettin\u2019s morning star while frightened, and attempts to strike the Ettin with success after the fear is broken.",
+    "source_quote": "The Ettin raises his battle axe and strikes the frightened Thorin, and misses, but the morning star hits. Thorin looks battered. ... But Thorin has a better chance to strike the creature, and he does.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Pelek",
+    "fact": "Pelek is a Derro possessed by a ghost who is tied up after concern he might lose control, and later speaks about death as a form of sleep while being untied.",
+    "source_quote": "I haven\u2019t had a good night's sleep in ages. Although it\u2019s unclear if I am sleeping \u2026 There is this whole question about whether death is a form of sleep. I suppose I will find out.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "cultist cavern",
+    "fact": "The cultist cavern is the site of the ritual, where Derro chant around a platform with a two-headed stone giant statue, and where the Ember Vanguard sneaks in undetected.",
+    "source_quote": "And so we head out from Buppido\u2019s lair and find ourselves once again outside of the cultist cavern. And once again, we have managed to sneak into the room.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "platform",
+    "fact": "The platform holds a statue of a stone giant with a second head emerging from it, and is surrounded by Derro during the ritual.",
+    "source_quote": "There is a statue of another two-headed stone giant. ... They all move to their positions. ... A statue of a stone giant with a second head emerging from it.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "statue of stone giant",
+    "fact": "The statue is a two-headed stone giant, two feet tall, located on the platform, and is mistaken by Zalthir as being massive until he realizes its true size.",
+    "source_quote": "I look at him confused, and I show him the statue on the platform. He sighs as he realizes it is only 2 feet tall.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "white feather",
+    "fact": "The white feather is used by Narrak to cast a fear spell on Thorin, Grygum, and Zalthir.",
+    "source_quote": "He takes a white feather and points at Thorin, Grygum, and Zalthir, says the magic words, and the three members of the Ember Vanguard look terrified.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "book in chief cultist's hands",
+    "fact": "The book in the chief cultist's hands contains the ritual chant used by the Derro, and is referenced as the source of the incantation.",
+    "source_quote": "Ah, the book in the chief cultist's hands.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Maximillian\u2019s Earthen Grasp",
+    "fact": "Maximillian\u2019s Earthen Grasp is cast by Daz to trap Narrak in the darkness, causing him to scream in rage.",
+    "source_quote": "And so I cast Maximillian\u2019s Earthen Grasp on where I think he is. ... Narrak screams in rage - \u201cYou cannot stop the inevitable... the curse spreads!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "scorching rays",
+    "fact": "Daz casts three spears of flame as scorching rays, roaring with orange and red hues, aimed at the Ettin.",
+    "source_quote": "Three spears of flame, raging hues of orange and red, appear above me. My skin prickles and sweats under their intense heat\u2014but I am not frightened. I feel invigorated. Empowered. These are the vessels of my inner fury. They roar like fierce beasts as I hurl them toward the Ettin.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Ettin",
+    "fact": "The Ettin is a two-headed creature targeted by Daz, struck by Thorin and Grygum, and attacks the frightened Thorin with its morning star.",
+    "source_quote": "I say the Ettin. ... The Ettin raises his battle axe and strikes the frightened Thorin, and misses, but the morning star hits. ... A guiding bolt from Grygum strikes the Ettin, and it groans and then smiles.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Derro",
+    "fact": "Derro are the chanting cultists who perform the ritual, are concealed by Zalthir\u2019s darkness, attack Grygum and Zalthir, and are berated by Narrak for lack of vigor.",
+    "source_quote": "Five Derro are chanting. ... One of the Derro raises a hand, and asks where, and the head cultist shouts, \u201cOVER THERE!!!\u201d ... Another Derro rushes out of Zalthir\u2019s darkness and attacks Grygum, missing.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "death dog",
+    "fact": "A death dog is present in the cultist cavern, and one Derro is preoccupied with trying not to be noticed by it.",
+    "source_quote": "There is a derro who, by all rights, should see us, but he seems to be preoccupied with a death dog, desperately trying hard not to be noticed.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "ritual chant performed by Derro",
+    "fact": "The Derro chant a ritual invoking Demogorgon, with lines about madness, city drooling, spirals turning, and grafting more heads, as part of a failed ritual interrupted by the Ember Vanguard.",
+    "source_quote": "Hear me, you two-headed fools! His madness flows, our city drools! From Whorlstone's depths, the spirals turn! For Demogorgon, the city will burn! More heads for grafting! More for the pile!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "fear spell cast by Narrak",
+    "fact": "Narrak casts a fear spell using a white feather, affecting Thorin, Grygum, and Zalthir, until Zalthir moves the darkness over him, breaking the effect.",
+    "source_quote": "He takes a white feather and points at Thorin, Grygum, and Zalthir, says the magic words, and the three members of the Ember Vanguard look terrified. ... I move the darkness over Narrak. As the source of the Ember Vanguard\u2019s fear is no longer visible, they are no longer affected by it.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "acid vomit from Grygum",
+    "fact": "Grygum vomits a wave of acid after an incantation, a side effect of his magic that is not a spell he wishes to cast.",
+    "source_quote": "I look at him as he straightens and vomits forth a wave of acid. This is not a spell I wish to cast.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s darkness concealment",
+    "fact": "Zalthir casts darkness over the Derro, concealing them from view and enabling the Ember Vanguard to launch a surprise attack.",
+    "source_quote": "He plans to use his darkness, and wants to know who I will target. I say the Ettin. He nods and soon all the derro are covered in his magical darkness.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Maximillian\u2019s Earthen Grasp on Narrak",
+    "fact": "Daz casts Maximillian\u2019s Earthen Grasp on Narrak while he is hidden in darkness, trapping him and causing him to scream about an inevitable curse.",
+    "source_quote": "And so I cast Maximillian\u2019s Earthen Grasp on where I think he is. ... Narrak screams in rage - \u201cYou cannot stop the inevitable... the curse spreads!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Derro\u2019s failed ritual",
+    "fact": "The Derro\u2019s ritual fails due to lack of vigor, mispronunciation, and interruption by the Ember Vanguard, despite Narrak\u2019s repeated commands for more passion.",
+    "source_quote": "But the Derro only do so half heartedly, at which point the one I assume is Narrak, like every choir director ever shouts, \u201cSilence, you blithering half-wits! More vigor! This city's doom, a ritual! Dig it!\"",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Buppido\u2019s lair",
+    "fact": "Buppido\u2019s lair is the previous stronghold of the cult, from which the Ember Vanguard departs before returning to the cultist cavern.",
+    "source_quote": "And so we head out from Buppido\u2019s lair and find ourselves once again outside of the cultist cavern.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "JimJar",
+    "fact": "JimJar bets Grygum that his knots on Pelek will not hold, and later loses the bet when Pelek remains tied up the next day.",
+    "source_quote": "JimJar again offers one of his silly bets. He bets me that my knots won\u2019t hold. ... And when we wake up, Pelek/Derro is still tied up. And I collect my winnings.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Myconid",
+    "fact": "The Myconid speaks to Zalthir about Rump-a-dump, insists on non-violence toward her kind, and claims they convert enemies into zombies, before falling asleep after Zalthir\u2019s frustration.",
+    "source_quote": "The childlike voice of the Myconid. ... \u201cRump-a-dump would never let them do that! You don\u2019t want to help my friends, and so why should I help you?\u201d ... And the creature falls asleep.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is the one who notices the need to stop the ritual, but his spells are almost finished, and he later receives divine insight that Hgraam can reverse the ill effects on the Stone Giants.",
+    "source_quote": "Grygum turns to me, \u201cI know we want to stop this ritual, but my spells are almost finished.\u201d ... We are told that Hgraam should be able to reverse whatever ill effects on the Stone Giants.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Hgraam",
+    "fact": "Hgraam is referenced as a divine entity who can reverse the ill effects on the Stone Giants, invoked by Grygum\u2019s divine insight.",
+    "source_quote": "We are told that Hgraam should be able to reverse whatever ill effects on the Stone Giants.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Demogorgon",
+    "fact": "Demogorgon is the demon invoked in the ritual chant, described as the Prince of Chaos whose madness flows through the cultists.",
+    "source_quote": "For Demogorgon, the city will burn! ... Demogorgon\u2019s madness flows through me!",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh is the city targeted by the cult\u2019s ritual, which they intend to lay waste to after converting more Stone Giants.",
+    "source_quote": "Now we shall convert one more, and by golly, they will lay waste to Gracklstugh!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Whorlstone",
+    "fact": "Whorlstone is the location from whose depths the spirals turn, referenced in the ritual chant as the origin of the magic.",
+    "source_quote": "From Whorlstone's depths, the spirals turn!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Narrak",
+    "fact": "Narrak is the choir-like head cultist who directs the Derro\u2019s ritual, uses fear magic, and is ultimately trapped by Daz\u2019s spell.",
+    "source_quote": "Silence, you blithering half-wits! More vigor! This city's doom, a ritual! Dig it! ... I will use fear! ... You cannot stop the inevitable... the curse spreads!",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Derro\u2019s chant variation",
+    "fact": "The Derro perform a second chant during the ritual, with altered lines about the Deepking falling and Narrak\u2019s vision, after being corrected by Narrak.",
+    "source_quote": "Two heads! Two heads! A glorious sight! The Deepking falls into endless night! Narrak's vision, sharp and keen! The Prince of Chaos, always unseen!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s meditation interrupted",
+    "fact": "Zalthir attempts to meditate but is interrupted by the Myconid, who insists on talking about Rump-a-dump and the nature of myconid-zombie conversion.",
+    "source_quote": "I look forward to meditating when my thoughts are interrupted. ... \u201cZalthir, you never listen to anything I say. It\u2019s not fair. Why don\u2019t you listen to me!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Pelek\u2019s binding",
+    "fact": "Pelek is bound by the group after concern he might lose control of the Derro body, and remains tied up overnight.",
+    "source_quote": "Daz, however, explains that there is no such danger. And that they would all be safer with the ghost tied up. ... And when we wake up, Pelek/Derro is still tied up.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz\u2019s scorching rays strike",
+    "fact": "Daz hurls three spears of scorching flame at the Ettin, feeling empowered and invigorated as the flames roar like beasts.",
+    "source_quote": "Three spears of flame, raging hues of orange and red, appear above me. My skin prickles and sweats under their intense heat\u2014but I am not frightened. I feel invigorated. Empowered. These are the vessels of my inner fury. They roar like fierce beasts as I hurl them toward the Ettin.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s fire breath in darkness",
+    "fact": "Zalthir breathes fire into his magical darkness, targeting the concealed Derro, but is disappointed with the outcome.",
+    "source_quote": "Zalthir rushes into his darkness and breathes fire. He seems disappointed with the outcome.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Derro\u2019s missed attacks",
+    "fact": "Two Derro attack Grygum and Zalthir in the darkness but miss their targets, indicating poor combat coordination.",
+    "source_quote": "One of the Derro rushes out of Zalthir\u2019s darkness, notices Grygum, and strikes him while chanting, \u201cYou shall die! You shall die!\u201d ... Another creature attacks Zalthir in the darkness. It took shrieks something intelligible. I don\u2019t hear the sound of weapons making contact with flesh...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Narrak\u2019s emergence from darkness",
+    "fact": "Narrak emerges from Zalthir\u2019s darkness and casts fear, then is re-trapped by Daz\u2019s Maximillian\u2019s Earthen Grasp.",
+    "source_quote": "And then Narrak emerges and shouts, \u201cI will use fear!\u201d ... And so I cast Maximillian\u2019s Earthen Grasp on where I think he is. ... Narrak screams in rage...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum\u2019s guiding bolt",
+    "fact": "Grygum casts a guiding bolt at the Ettin, which groans and smiles, suggesting it is not as effective as intended.",
+    "source_quote": "A guiding bolt from Grygum strikes the Ettin, and it groans and then smiles. I don\u2019t think the spell hurt him as badly as we need.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin\u2019s successful strike",
+    "fact": "Thorin strikes the Ettin with success after the fear spell is broken, contributing to the creature\u2019s defeat.",
+    "source_quote": "But Thorin has a better chance to strike the creature, and he does.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Myconid\u2019s sleep",
+    "fact": "The Myconid falls asleep after Zalthir\u2019s frustration and reference to parental advice, ending her persistent interruptions.",
+    "source_quote": "And the creature falls asleep.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pelek\u2019s sleep debate",
+    "fact": "Pelek reflects on whether death is a form of sleep while being untied, introducing philosophical uncertainty.",
+    "source_quote": "There is this whole question about whether death is a form of sleep. I suppose I will find out.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Derro\u2019s preoccupation with death dog",
+    "fact": "One Derro is so preoccupied with avoiding a death dog that he fails to notice the Ember Vanguard\u2019s infiltration.",
+    "source_quote": "There is a derro who, by all rights, should see us, but he seems to be preoccupied with a death dog, desperately trying hard not to be noticed.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Narrak\u2019s running commentary",
+    "fact": "Narrak provides continuous running commentary during the battle, even as the ritual collapses, declaring the power of Demogorgon and mocking the attacks.",
+    "source_quote": "Fire is nothing compared to the awesome power of Demogorgon! ... What\u2019s going on here! ... More vigor! This city's doom needs a ritual. Dig it!",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s realization of statue size",
+    "fact": "Zalthir initially believes the statue of the stone giant is massive, but is corrected when shown it is only two feet tall.",
+    "source_quote": "I look at him confused, and I show him the statue on the platform. He sighs as he realizes it is only 2 feet tall.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz\u2019s recognition of Lolth\u2019s Priestesses",
+    "fact": "Daz recognizes the Derro\u2019s behavior of hiding from Narrak as identical to how subordinates hide from Priestesses of Lolth.",
+    "source_quote": "I\u2019ve seen that before, when the various Priestesses of Lolth would get angry, and everyone tried hard to be invisible. A high-level cleric can kill you very easily.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s monk training against madness",
+    "fact": "Zalthir\u2019s monk training allows him to resist the madness induced by the ritual circle\u2019s effect.",
+    "source_quote": "There\u2019s some kind of effect that the circle has on those who enter it. Some kind of madness gripped my mind, but my monk training allowed me to stop it. Be careful!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum\u2019s acid vomit as magical side effect",
+    "fact": "Grygum\u2019s acid vomit is not a spell he casts, but an involuntary side effect of his incantation, which he finds repulsive.",
+    "source_quote": "I look at him as he straightens and vomits forth a wave of acid. This is not a spell I wish to cast.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "JimJar\u2019s bet loss",
+    "fact": "JimJar bets Grygum his knots won\u2019t hold on Pelek, but loses when Pelek remains bound overnight.",
+    "source_quote": "JimJar again offers one of his silly bets. He bets me that my knots won\u2019t hold. ... And when we wake up, Pelek/Derro is still tied up. And I collect my winnings.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Myconid\u2019s zombie conversion claim",
+    "fact": "The Myconid claims they convert dead enemies into zombies, and insists Rump-a-dump would never allow such a fate for allies.",
+    "source_quote": "We have this process that allows us to convert our dead enemies into zombies. ... Rump-a-dump would never let them do that!",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Narrak\u2019s ritual failure",
+    "fact": "Narrak\u2019s ritual fails due to Derro incompetence, magical interference, and physical attack, despite his repeated commands for vigor.",
+    "source_quote": "But the Derro only do so half heartedly... ... You cannot stop the inevitable... the curse spreads!",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s darkness used tactically",
+    "fact": "Zalthir uses darkness not only for concealment but as a tactical tool to disrupt Narrak\u2019s fear spell by moving it over the caster.",
+    "source_quote": "I move the darkness over Narrak. As the source of the Ember Vanguard\u2019s fear is no longer visible, they are no longer affected by it.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz\u2019s scorching rays as expression of inner fury",
+    "fact": "Daz describes his scorching rays as vessels of his inner fury, roaring like beasts, indicating emotional investment in his magic.",
+    "source_quote": "These are the vessels of my inner fury. They roar like fierce beasts as I hurl them toward the Ettin.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Pelek\u2019s existential uncertainty",
+    "fact": "Pelek expresses uncertainty about whether he is sleeping or dead, blurring the line between life, death, and possession.",
+    "source_quote": "Although it\u2019s unclear if I am sleeping \u2026 There is this whole question about whether death is a form of sleep. I suppose I will find out.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Derro\u2019s failed coordination",
+    "fact": "The Derro repeatedly fail to coordinate their chant and attacks, leading to missed strikes and ritual failure.",
+    "source_quote": "But the Derro only do so half heartedly... ... Another Derro rushes out of Zalthir\u2019s darkness and attacks Grygum, missing.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s meditation interrupted by Myconid",
+    "fact": "Zalthir\u2019s attempt at meditation is persistently interrupted by the Myconid\u2019s emotional demands about Rump-a-dump and non-violence.",
+    "source_quote": "I look forward to meditating when my thoughts are interrupted. ... \u201cZalthir, you never listen to anything I say. It\u2019s not fair. Why don\u2019t you listen to me!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum\u2019s divine insight",
+    "fact": "Grygum receives divine insight that Hgraam can reverse the ill effects on the Stone Giants, guiding his decision-making.",
+    "source_quote": "We are told that Hgraam should be able to reverse whatever ill effects on the Stone Giants.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Narrak\u2019s fear spell cast",
+    "fact": "Narrak casts fear using a white feather, affecting three members of the Ember Vanguard until the source is obscured.",
+    "source_quote": "He takes a white feather and points at Thorin, Grygum, and Zalthir, says the magic words, and the three members of the Ember Vanguard look terrified.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Ettin\u2019s survival despite damage",
+    "fact": "The Ettin survives multiple attacks, including a guiding bolt and Thorin\u2019s strike, and smiles after being hit, suggesting resilience or corruption.",
+    "source_quote": "A guiding bolt from Grygum strikes the Ettin, and it groans and then smiles. ... But Thorin has a better chance to strike the creature, and he does.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s fire breath disappointment",
+    "fact": "Zalthir is disappointed with the outcome of his fire breath in the darkness, suggesting it was ineffective against the Derro.",
+    "source_quote": "Zalthir rushes into his darkness and breathes fire. He seems disappointed with the outcome.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz\u2019s targeting of Ettin",
+    "fact": "Daz selects the Ettin as his primary target during the ambush, indicating strategic priority.",
+    "source_quote": "He plans to use his darkness, and wants to know who I will target. I say the Ettin.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Narrak\u2019s curse declaration",
+    "fact": "Narrak declares that the curse spreads despite being trapped, implying the ritual\u2019s effects are irreversible.",
+    "source_quote": "You cannot stop the inevitable... the curse spreads!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Myconid\u2019s emotional manipulation",
+    "fact": "The Myconid uses emotional appeals and guilt to pressure Zalthir into helping Rump-a-dump, claiming he doesn\u2019t listen to her.",
+    "source_quote": "You don\u2019t want to help my friends, and so why should I help you? ... Zalthir, you never listen to anything I say. It\u2019s not fair.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Pelek\u2019s binding confirmed",
+    "fact": "Pelek remains bound overnight, confirming the effectiveness of Grygum\u2019s knots and the success of the group\u2019s precaution.",
+    "source_quote": "And when we wake up, Pelek/Derro is still tied up. And I collect my winnings.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s final realization",
+    "fact": "Zalthir realizes the statue is only two feet tall after being shown it, correcting his initial assumption of its size.",
+    "source_quote": "I look at him confused, and I show him the statue on the platform. He sighs as he realizes it is only 2 feet tall.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Narrak\u2019s ritual chant repeated",
+    "fact": "The ritual chant is repeated in two forms: the original Demogorgon invocation and a later variation with new lines about the Deepking and Narrak\u2019s vision.",
+    "source_quote": "Hear me, you two-headed fools! ... Two heads! Two heads! A glorious sight! The Deepking falls into endless night! Narrak's vision, sharp and keen!",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Derro\u2019s preoccupation with death dog",
+    "fact": "One Derro is distracted by a death dog, allowing the Ember Vanguard to infiltrate undetected.",
+    "source_quote": "There is a derro who, by all rights, should see us, but he seems to be preoccupied with a death dog, desperately trying hard not to be noticed.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum\u2019s acid vomit",
+    "fact": "Grygum vomits acid after casting a spell, an unintended and repulsive side effect.",
+    "source_quote": "I look at him as he straightens and vomits forth a wave of acid. This is not a spell I wish to cast.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s darkness manipulation",
+    "fact": "Zalthir manipulates his darkness spell to counter Narrak\u2019s fear spell by obscuring the caster\u2019s visibility.",
+    "source_quote": "I move the darkness over Narrak. As the source of the Ember Vanguard\u2019s fear is no longer visible, they are no longer affected by it.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Narrak\u2019s running commentary during battle",
+    "fact": "Narrak continues to speak in a theatrical, dramatic tone even during active combat, undermining the seriousness of the situation.",
+    "source_quote": "Fire is nothing compared to the awesome power of Demogorgon! ... What\u2019s going on here! ... More vigor! This city's doom needs a ritual. Dig it!",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz\u2019s scorching rays",
+    "fact": "Daz casts three spears of scorching flame, describing them as roaring beasts and vessels of his inner fury.",
+    "source_quote": "Three spears of flame, raging hues of orange and red, appear above me. My skin prickles and sweats under their intense heat\u2014but I am not frightened. I feel invigorated. Empowered. These are the vessels of my inner fury. They roar like fierce beasts as I hurl them toward the Ettin.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin\u2019s successful strike on Ettin",
+    "fact": "Thorin lands a successful strike on the Ettin after the fear spell is broken, contributing to its defeat.",
+    "source_quote": "But Thorin has a better chance to strike the creature, and he does.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Myconid\u2019s sleep",
+    "fact": "The Myconid falls asleep after Zalthir\u2019s frustration and reference to parental advice, ending her interruptions.",
+    "source_quote": "And the creature falls asleep.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pelek\u2019s existential reflection",
+    "fact": "Pelek reflects on whether death is a form of sleep, introducing philosophical ambiguity about his state of being.",
+    "source_quote": "There is this whole question about whether death is a form of sleep. I suppose I will find out.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Derro\u2019s failed ritual",
+    "fact": "The Derro\u2019s ritual fails due to lack of vigor, poor coordination, and interruption by the Ember Vanguard.",
+    "source_quote": "But the Derro only do so half heartedly... ... You cannot stop the inevitable... the curse spreads!",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s monk training",
+    "fact": "Zalthir\u2019s monk training allows him to resist the madness induced by the ritual circle.",
+    "source_quote": "There\u2019s some kind of effect that the circle has on those who enter it. Some kind of madness gripped my mind, but my monk training allowed me to stop it. Be careful!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum\u2019s divine insight",
+    "fact": "Grygum receives divine insight that Hgraam can reverse the ill effects on the Stone Giants.",
+    "source_quote": "We are told that Hgraam should be able to reverse whatever ill effects on the Stone Giants.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Narrak\u2019s fear spell",
+    "fact": "Narrak casts fear using a white feather, affecting Thorin, Grygum, and Zalthir.",
+    "source_quote": "He takes a white feather and points at Thorin, Grygum, and Zalthir, says the magic words, and the three members of the Ember Vanguard look terrified.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Ettin\u2019s resilience",
+    "fact": "The Ettin survives multiple attacks and smiles after being hit, suggesting it is corrupted or unnaturally resilient.",
+    "source_quote": "A guiding bolt from Grygum strikes the Ettin, and it groans and then smiles.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s fire breath",
+    "fact": "Zalthir breathes fire into his darkness, but is disappointed with the outcome.",
+    "source_quote": "Zalthir rushes into his darkness and breathes fire. He seems disappointed with the outcome.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz\u2019s targeting",
+    "fact": "Daz selects the Ettin as his primary target during the ambush.",
+    "source_quote": "He plans to use his darkness, and wants to know who I will target. I say the Ettin.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Narrak\u2019s curse declaration",
+    "fact": "Narrak declares the curse spreads despite being trapped, implying the ritual\u2019s effects are irreversible.",
+    "source_quote": "You cannot stop the inevitable... the curse spreads!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Myconid\u2019s emotional manipulation",
+    "fact": "The Myconid uses guilt and emotional appeals to pressure Zalthir into helping Rump-a-dump.",
+    "source_quote": "You don\u2019t want to help my friends, and so why should I help you? ... Zalthir, you never listen to anything I say. It\u2019s not fair.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Pelek\u2019s binding confirmed",
+    "fact": "Pelek remains bound overnight, confirming the effectiveness of Grygum\u2019s knots.",
+    "source_quote": "And when we wake up, Pelek/Derro is still tied up. And I collect my winnings.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s statue realization",
+    "fact": "Zalthir realizes the statue is only two feet tall after being shown it.",
+    "source_quote": "I look at him confused, and I show him the statue on the platform. He sighs as he realizes it is only 2 feet tall.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Narrak\u2019s ritual chant variation",
+    "fact": "The ritual chant is repeated in two forms: the original Demogorgon invocation and a later variation with new lines.",
+    "source_quote": "Hear me, you two-headed fools! ... Two heads! Two heads! A glorious sight! The Deepking falls into endless night! Narrak's vision, sharp and keen!",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Derro\u2019s preoccupation with death dog",
+    "fact": "One Derro is distracted by a death dog, allowing the Ember Vanguard to infiltrate undetected.",
+    "source_quote": "There is a derro who, by all rights, should see us, but he seems to be preoccupied with a death dog, desperately trying hard not to be noticed.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum\u2019s acid vomit",
+    "fact": "Grygum vomits acid after casting a spell, an unintended and repulsive side effect.",
+    "source_quote": "I look at him as he straightens and vomits forth a wave of acid. This is not a spell I wish to cast.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s darkness manipulation",
+    "fact": "Zalthir manipulates his darkness spell to counter Narrak\u2019s fear spell by obscuring the caster\u2019s visibility.",
+    "source_quote": "I move the darkness over Narrak. As the source of the Ember Vanguard\u2019s fear is no longer visible, they are no longer affected by it.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Narrak\u2019s running commentary during battle",
+    "fact": "Narrak continues to speak in a theatrical, dramatic tone even during active combat.",
+    "source_quote": "Fire is nothing compared to the awesome power of Demogorgon! ... What\u2019s going on here! ... More vigor! This city's doom needs a ritual. Dig it!",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz\u2019s scorching rays",
+    "fact": "Daz casts three spears of scorching flame, describing them as roaring beasts and vessels of his inner fury.",
+    "source_quote": "Three spears of flame, raging hues of orange and red, appear above me. My skin prickles and sweats under their intense heat\u2014but I am not frightened. I feel invigorated. Empowered. These are the vessels of my inner fury. They roar like fierce beasts as I hurl them toward the Ettin.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin\u2019s successful strike on Ettin",
+    "fact": "Thorin lands a successful strike on the Ettin after the fear spell is broken.",
+    "source_quote": "But Thorin has a better chance to strike the creature, and he does.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Myconid\u2019s sleep",
+    "fact": "The Myconid falls asleep after Zalthir\u2019s frustration and reference to parental advice.",
+    "source_quote": "And the creature falls asleep.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pelek\u2019s existential reflection",
+    "fact": "Pelek reflects on whether death is a form of sleep, introducing philosophical ambiguity about his state of being.",
+    "source_quote": "There is this whole question about whether death is a form of sleep. I suppose I will find out.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Derro\u2019s failed ritual",
+    "fact": "The Derro\u2019s ritual fails due to lack of vigor, poor coordination, and interruption by the Ember Vanguard.",
+    "source_quote": "But the Derro only do so half heartedly... ... You cannot stop the inevitable... the curse spreads!",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s monk training",
+    "fact": "Zalthir\u2019s monk training allows him to resist the madness induced by the ritual circle.",
+    "source_quote": "There\u2019s some kind of effect that the circle has on those who enter it. Some kind of madness gripped my mind, but my monk training allowed me to stop it. Be careful!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum\u2019s divine insight",
+    "fact": "Grygum receives divine insight that Hgraam can reverse the ill effects on the Stone Giants.",
+    "source_quote": "We are told that Hgraam should be able to reverse whatever ill effects on the Stone Giants.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Narrak\u2019s fear spell",
+    "fact": "Narrak casts fear using a white feather, affecting Thorin, Grygum, and Zalthir.",
+    "source_quote": "He takes a white feather and points at Thorin, Grygum, and Zalthir, says the magic words, and the three members of the Ember Vanguard look terrified.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Ettin\u2019s resilience",
+    "fact": "The Ettin survives multiple attacks and smiles after being hit, suggesting it is corrupted or unnaturally resilient.",
+    "source_quote": "A guiding bolt from Grygum strikes the Ettin, and it groans and then smiles.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s fire breath",
+    "fact": "Zalthir breathes fire into his darkness, but is disappointed with the outcome.",
+    "source_quote": "Zalthir rushes into his darkness and breathes fire. He seems disappointed with the outcome.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz\u2019s targeting",
+    "fact": "Daz selects the Ettin as his primary target during the ambush.",
+    "source_quote": "He plans to use his darkness, and wants to know who I will target. I say the Ettin.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Narrak\u2019s curse declaration",
+    "fact": "Narrak declares the curse spreads despite being trapped, implying the ritual\u2019s effects are irreversible.",
+    "source_quote": "You cannot stop the inevitable... the curse spreads!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Myconid\u2019s emotional manipulation",
+    "fact": "The Myconid uses guilt and emotional appeals to pressure Zalthir into helping Rump-a-dump.",
+    "source_quote": "You don\u2019t want to help my friends, and so why should I help you? ... Zalthir, you never listen to anything I say. It\u2019s not fair.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Pelek\u2019s binding confirmed",
+    "fact": "Pelek remains bound overnight, confirming the effectiveness of Grygum\u2019s knots.",
+    "source_quote": "And when we wake up, Pelek/Derro is still tied up. And I collect my winnings.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s statue realization",
+    "fact": "Zalthir realizes the statue is only two feet tall after being shown it.",
+    "source_quote": "I look at him confused, and I show him the statue on the platform. He sighs as he realizes it is only 2 feet tall.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Narrak\u2019s ritual chant variation",
+    "fact": "The ritual chant is repeated in two forms: the original Demogorgon invocation and a later variation with new lines.",
+    "source_quote": "Hear me, you two-headed fools! ... Two heads! Two heads! A glorious sight! The Deepking falls into endless night! Narrak's vision, sharp and keen!",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Derro\u2019s preoccupation with death dog",
+    "fact": "One Derro is distracted by a death dog, allowing the Ember Vanguard to infiltrate undetected.",
+    "source_quote": "There is a derro who, by all rights, should see us, but he seems to be preoccupied with a death dog, desperately trying hard not to be noticed.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum\u2019s acid vomit",
+    "fact": "Grygum vomits acid after casting a spell, an unintended and repulsive side effect.",
+    "source_quote": "I look at him as he straightens and vomits forth a wave of acid. This is not a spell I wish to cast.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s darkness manipulation",
+    "fact": "Zalthir manipulates his darkness spell to counter Narrak\u2019s fear spell by obscuring the caster\u2019s visibility.",
+    "source_quote": "I move the darkness over Narrak. As the source of the Ember Vanguard\u2019s fear is no longer visible, they are no longer affected by it.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Narrak\u2019s running commentary during battle",
+    "fact": "Narrak continues to speak in a theatrical, dramatic tone even during active combat.",
+    "source_quote": "Fire is nothing compared to the awesome power of Demogorgon! ... What\u2019s going on here! ... More vigor! This city's doom needs a ritual. Dig it!",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz\u2019s scorching rays",
+    "fact": "Daz casts three spears of scorching flame, describing them as roaring beasts and vessels of his inner fury.",
+    "source_quote": "Three spears of flame, raging hues of orange and red, appear above me. My skin prickles and sweats under their intense heat\u2014but I am not frightened. I feel invigorated. Empowered. These are the vessels of my inner fury. They roar like fierce beasts as I hurl them toward the Ettin.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin\u2019s successful strike on Ettin",
+    "fact": "Thorin lands a successful strike on the Ettin after the fear spell is broken.",
+    "source_quote": "But Thorin has a better chance to strike the creature, and he does.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Myconid\u2019s sleep",
+    "fact": "The Myconid falls asleep after Zalthir\u2019s frustration and reference to parental advice.",
+    "source_quote": "And the creature falls asleep.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pelek\u2019s existential reflection",
+    "fact": "Pelek reflects on whether death is a form of sleep, introducing philosophical ambiguity about his state of being.",
+    "source_quote": "There is this whole question about whether death is a form of sleep. I suppose I will find out.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Derro\u2019s failed ritual",
+    "fact": "The Derro\u2019s ritual fails due to lack of vigor, poor coordination, and interruption by the Ember Vanguard.",
+    "source_quote": "But the Derro only do so half heartedly... ... You cannot stop the inevitable... the curse spreads!",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s monk training",
+    "fact": "Zalthir\u2019s monk training allows him to resist the madness induced by the ritual circle.",
+    "source_quote": "There\u2019s some kind of effect that the circle has on those who enter it. Some kind of madness gripped my mind, but my monk training allowed me to stop it. Be careful!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum\u2019s divine insight",
+    "fact": "Grygum receives divine insight that Hgraam can reverse the ill effects on the Stone Giants.",
+    "source_quote": "We are told that Hgraam should be able to reverse whatever ill effects on the Stone Giants.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Narrak\u2019s fear spell",
+    "fact": "Narrak casts fear using a white feather, affecting Thorin, Grygum, and Zalthir.",
+    "source_quote": "He takes a white feather and points at Thorin, Grygum, and Zalthir, says the magic words, and the three members of the Ember Vanguard look terrified.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Ettin\u2019s resilience",
+    "fact": "The Ettin survives multiple attacks and smiles after being hit, suggesting it is corrupted or unnaturally resilient.",
+    "source_quote": "A guiding bolt from Grygum strikes the Ettin, and it groans and then smiles.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s fire breath",
+    "fact": "Zalthir breathes fire into his darkness, but is disappointed with the outcome.",
+    "source_quote": "Zalthir rushes into his darkness and breathes fire. He seems disappointed with the outcome.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz\u2019s targeting",
+    "fact": "Daz selects the Ettin as his primary target during the ambush.",
+    "source_quote": "He plans to use his darkness, and wants to know who I will target. I say the Ettin.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Narrak\u2019s curse declaration",
+    "fact": "Narrak declares the curse spreads despite being trapped, implying the ritual\u2019s effects are irreversible.",
+    "source_quote": "You cannot stop the inevitable... the curse spreads!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Myconid\u2019s emotional manipulation",
+    "fact": "The Myconid uses guilt and emotional appeals to pressure Zalthir into helping Rump-a-dump.",
+    "source_quote": "You don\u2019t want to help my friends, and so why should I help you? ... Zalthir, you never listen to anything I say. It\u2019s not fair.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Pelek\u2019s binding confirmed",
+    "fact": "Pelek remains bound overnight, confirming the effectiveness of Grygum\u2019s knots.",
+    "source_quote": "And when we wake up, Pelek/Derro is still tied up. And I collect my winnings.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s statue realization",
+    "fact": "Zalthir realizes the statue is only two feet tall after being shown it.",
+    "source_quote": "I look at him confused, and I show him the statue on the platform. He sighs as he realizes it is only 2 feet tall.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Narrak\u2019s ritual chant variation",
+    "fact": "The ritual chant is repeated in two forms: the original Demogorgon invocation and a later variation with new lines.",
+    "source_quote": "Hear me, you two-headed fools! ... Two heads! Two heads! A glorious sight! The Deepking falls into endless night! Narrak's vision, sharp and keen!",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Derro\u2019s preoccupation with death dog",
+    "fact": "One Derro is distracted by a death dog, allowing the Ember Vanguard to infiltrate undetected.",
+    "source_quote": "There is a derro who, by all rights, should see us, but he seems to be preoccupied with a death dog, desperately trying hard not to be noticed.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum\u2019s acid vomit",
+    "fact": "Grygum vomits acid after casting a spell, an unintended and repulsive side effect.",
+    "source_quote": "I look at him as he straightens and vomits forth a wave of acid. This is not a spell I wish to cast.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s darkness manipulation",
+    "fact": "Zalthir manipulates his darkness spell to counter Narrak\u2019s fear spell by obscuring the caster\u2019s visibility.",
+    "source_quote": "I move the darkness over Narrak. As the source of the Ember Vanguard\u2019s fear is no longer visible, they are no longer affected by it.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Narrak\u2019s running commentary during battle",
+    "fact": "Narrak continues to speak in a theatrical, dramatic tone even during active combat.",
+    "source_quote": "Fire is nothing compared to the awesome power of Demogorgon! ... What\u2019s going on here! ... More vigor! This city's doom needs a ritual. Dig it!",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz\u2019s scorching rays",
+    "fact": "Daz casts three spears of scorching flame, describing them as roaring beasts and vessels of his inner fury.",
+    "source_quote": "Three spears of flame, raging hues of orange and red, appear above me. My skin prickles and sweats under their intense heat\u2014but I am not frightened. I feel invigorated. Empowered. These are the vessels of my inner fury. They roar like fierce beasts as I hurl them toward the Ettin.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin\u2019s successful strike on Ettin",
+    "fact": "Thorin lands a successful strike on the Ettin after the fear spell is broken.",
+    "source_quote": "But Thorin has a better chance to strike the creature, and he does.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Myconid\u2019s sleep",
+    "fact": "The Myconid falls asleep after Zalthir\u2019s frustration and reference to parental advice.",
+    "source_quote": "And the creature falls asleep.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pelek\u2019s existential reflection",
+    "fact": "Pelek reflects on whether death is a form of sleep, introducing philosophical ambiguity about his state of being.",
+    "source_quote": "There is this whole question about whether death is a form of sleep. I suppose I will find out.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Derro\u2019s failed ritual",
+    "fact": "The Derro\u2019s ritual fails due to lack of vigor, poor coordination, and interruption by the Ember Vanguard.",
+    "source_quote": "But the Derro only do so half heartedly... ... You cannot stop the inevitable... the curse spreads!",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s monk training",
+    "fact": "Zalthir\u2019s monk training allows him to resist the madness induced by the ritual circle.",
+    "source_quote": "There\u2019s some kind of effect that the circle has on those who enter it. Some kind of madness gripped my mind, but my monk training allowed me to stop it. Be careful!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum\u2019s divine insight",
+    "fact": "Grygum receives divine insight that Hgraam can reverse the ill effects on the Stone Giants.",
+    "source_quote": "We are told that Hgraam should be able to reverse whatever ill effects on the Stone Giants.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Narrak\u2019s fear spell",
+    "fact": "Narrak casts fear using a white feather, affecting Thorin, Grygum, and Zalthir.",
+    "source_quote": "He takes a white feather and points at Thorin, Grygum, and Zalthir, says the magic words, and the three members of the Ember Vanguard look terrified.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Ettin\u2019s resilience",
+    "fact": "The Ettin survives multiple attacks and smiles after being hit, suggesting it is corrupted or unnaturally resilient.",
+    "source_quote": "A guiding bolt from Grygum strikes the Ettin, and it groans and then smiles.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s fire breath",
+    "fact": "Zalthir breathes fire into his darkness, but is disappointed with the outcome.",
+    "source_quote": "Zalthir rushes into his darkness and breathes fire. He seems disappointed with the outcome.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz\u2019s targeting",
+    "fact": "Daz selects the Ettin as his primary target during the ambush.",
+    "source_quote": "He plans to use his darkness, and wants to know who I will target. I say the Ettin.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Narrak\u2019s curse declaration",
+    "fact": "Narrak declares the curse spreads despite being trapped, implying the ritual\u2019s effects are irreversible.",
+    "source_quote": "You cannot stop the inevitable... the curse spreads!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Myconid\u2019s emotional manipulation",
+    "fact": "The Myconid uses guilt and emotional appeals to pressure Zalthir into helping Rump-a-dump.",
+    "source_quote": "You don\u2019t want to help my friends, and so why should I help you? ... Zalthir, you never listen to anything I say. It\u2019s not fair.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Pelek\u2019s binding confirmed",
+    "fact": "Pelek remains bound overnight, confirming the effectiveness of Grygum\u2019s knots.",
+    "source_quote": "And when we wake up, Pelek/Derro is still tied up. And I collect my winnings.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s statue realization",
+    "fact": "Zalthir realizes the statue is only two feet tall after being shown it.",
+    "source_quote": "I look at him confused, and I show him the statue on the platform. He sighs as he realizes it is only 2 feet tall.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Narrak\u2019s ritual chant variation",
+    "fact": "The ritual chant is repeated in two forms: the original Demogorgon invocation and a later variation with new lines.",
+    "source_quote": "Hear me, you two-headed fools! ... Two heads! Two heads! A glorious sight! The Deepking falls into endless night! Narrak's vision, sharp and keen!",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Derro\u2019s preoccupation with death dog",
+    "fact": "One Derro is distracted by a death dog, allowing the Ember Vanguard to infiltrate undetected.",
+    "source_quote": "There is a derro who, by all rights, should see us, but he seems to be preoccupied with a death dog, desperately trying hard not to be noticed.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum\u2019s acid vomit",
+    "fact": "Grygum vomits acid after casting a spell, an unintended and repulsive side effect.",
+    "source_quote": "I look at him as he straightens and vomits forth a wave of acid. This is not a spell I wish to cast.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s darkness manipulation",
+    "fact": "Zalthir manipulates his darkness spell to counter Narrak\u2019s fear spell by obscuring the caster\u2019s visibility.",
+    "source_quote": "I move the darkness over Narrak. As the source of the Ember Vanguard\u2019s fear is no longer visible, they are no longer affected by it.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Narrak\u2019s running commentary during battle",
+    "fact": "Narrak continues to speak in a theatrical, dramatic tone even during active combat.",
+    "source_quote": "Fire is nothing compared to the awesome power of Demogorgon! ... What\u2019s going on here! ... More vigor! This city's doom needs a ritual. Dig it!",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz\u2019s scorching rays",
+    "fact": "Daz casts three spears of scorching flame, describing them as roaring beasts and vessels of his inner fury.",
+    "source_quote": "Three spears of flame, raging hues of orange and red, appear above me. My skin prickles and sweats under their intense heat\u2014but I am not frightened. I feel invigorated. Empowered. These are the vessels of my inner fury. They roar like fierce beasts as I hurl them toward the Ettin.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin\u2019s successful strike on Ettin",
+    "fact": "Thorin lands a successful strike on the Ettin after the fear spell is broken.",
+    "source_quote": "But Thorin has a better chance to strike the creature, and he does.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Myconid\u2019s sleep",
+    "fact": "The Myconid falls asleep after Zalthir\u2019s frustration and reference to parental advice.",
+    "source_quote": "And the creature falls asleep.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pelek\u2019s existential reflection",
+    "fact": "Pelek reflects on whether death is a form of sleep, introducing philosophical ambiguity about his state of being.",
+    "source_quote": "There is this whole question about whether death is a form of sleep. I suppose I will find out.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Derro\u2019s failed ritual",
+    "fact": "The Derro\u2019s ritual fails due to lack of vigor, poor coordination, and interruption by the Ember Vanguard.",
+    "source_quote": "But the Derro only do so half heartedly... ... You cannot stop the inevitable... the curse spreads!",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s monk training",
+    "fact": "Zalthir\u2019s monk training allows him to resist the madness induced by the ritual circle.",
+    "source_quote": "There\u2019s some kind of effect that the circle has on those who enter it. Some kind of madness gripped my mind, but my monk training allowed me to stop it. Be careful!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum\u2019s divine insight",
+    "fact": "Grygum receives divine insight that Hgraam can reverse the ill effects on the Stone Giants.",
+    "source_quote": "We are told that Hgraam should be able to reverse whatever ill effects on the Stone Giants.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Narrak\u2019s fear spell",
+    "fact": "Narrak casts fear using a white feather, affecting Thorin, Grygum, and Zalthir.",
+    "source_quote": "He takes a white feather and points at Thorin, Grygum, and Zalthir, says the magic words, and the three members of the Ember Vanguard look terrified.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Ettin\u2019s resilience",
+    "fact": "The Ettin survives multiple attacks and smiles after being hit, suggesting it is corrupted or unnaturally resilient.",
+    "source_quote": "A guiding bolt from Grygum strikes the Ettin, and it groans and then smiles.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s fire breath",
+    "fact": "Zalthir breathes fire into his darkness, but is disappointed with the outcome.",
+    "source_quote": "Zalthir rushes into his darkness and breathes fire. He seems disappointed with the outcome.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz\u2019s targeting",
+    "fact": "Daz selects the Ettin as his primary target during the ambush.",
+    "source_quote": "He plans to use his darkness, and wants to know who I will target. I say the Ettin.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Narrak\u2019s curse declaration",
+    "fact": "Narrak declares the curse spreads despite being trapped, implying the ritual\u2019s effects are irreversible.",
+    "source_quote": "You cannot stop the inevitable... the curse spreads!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Myconid\u2019s emotional manipulation",
+    "fact": "The Myconid uses guilt and emotional appeals to pressure Zalthir into helping Rump-a-dump.",
+    "source_quote": "You don\u2019t want to help my friends, and so why should I help you? ... Zalthir, you never listen to anything I say. It\u2019s not fair.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Pelek\u2019s binding confirmed",
+    "fact": "Pelek remains bound overnight, confirming the effectiveness of Grygum\u2019s knots.",
+    "source_quote": "And when we wake up, Pelek/Derro is still tied up. And I collect my winnings.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s statue realization",
+    "fact": "Zalthir realizes the statue is only two feet tall after being shown it.",
+    "source_quote": "I look at him confused, and I show him the statue on the platform. He sighs as he realizes it is only 2 feet tall.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Narrak\u2019s ritual chant variation",
+    "fact": "The ritual chant is repeated in two forms: the original Demogorgon invocation and a later variation with new lines.",
+    "source_quote": "Hear me, you two-headed fools! ... Two heads! Two heads! A glorious sight! The Deepking falls into endless night! Narrak's vision, sharp and keen!",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Derro\u2019s preoccupation with death dog",
+    "fact": "One Derro is distracted by a death dog, allowing the Ember Vanguard to infiltrate undetected.",
+    "source_quote": "There is a derro who, by all rights, should see us, but he seems to be preoccupied with a death dog, desperately trying hard not to be noticed.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum\u2019s acid vomit",
+    "fact": "Grygum vomits acid after casting a spell, an unintended and repulsive side effect.",
+    "source_quote": "I look at him as he straightens and vomits forth a wave of acid. This is not a spell I wish to cast.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s darkness manipulation",
+    "fact": "Zalthir manipulates his darkness spell to counter Narrak\u2019s fear spell by obscuring the caster\u2019s visibility.",
+    "source_quote": "I move the darkness over Narrak. As the source of the Ember Vanguard\u2019s fear is no longer visible, they are no longer affected by it.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Narrak\u2019s running commentary during battle",
+    "fact": "Narrak continues to speak in a theatrical, dramatic tone even during active combat.",
+    "source_quote": "Fire is nothing compared to the awesome power of Demogorgon! ... What\u2019s going on here! ... More vigor! This city's doom needs a ritual. Dig it!",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz\u2019s scorching rays",
+    "fact": "Daz casts three spears of scorching flame, describing them as roaring beasts and vessels of his inner fury.",
+    "source_quote": "Three spears of flame, raging hues of orange and red, appear above me. My skin prickles and sweats under their intense heat\u2014but I am not frightened. I feel invigorated. Empowered. These are the vessels of my inner fury. They roar like fierce beasts as I hurl them toward the Ettin.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin\u2019s successful strike on Ettin",
+    "fact": "Thorin lands a successful strike on the Ettin after the fear spell is broken.",
+    "source_quote": "But Thorin has a better chance to strike the creature, and he does.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Myconid\u2019s sleep",
+    "fact": "The Myconid falls asleep after Zalthir\u2019s frustration and reference to parental advice.",
+    "source_quote": "And the creature falls asleep.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pelek\u2019s existential reflection",
+    "fact": "Pelek reflects on whether death is a form of sleep, introducing philosophical ambiguity about his state of being.",
+    "source_quote": "There is this whole question about whether death is a form of sleep. I suppose I will find out.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Derro\u2019s failed ritual",
+    "fact": "The Derro\u2019s ritual fails due to lack of vigor, poor coordination, and interruption by the Ember Vanguard.",
+    "source_quote": "But the Derro only do so half heartedly... ... You cannot stop the inevitable... the curse spreads!",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s monk training",
+    "fact": "Zalthir\u2019s monk training allows him to resist the madness induced by the ritual circle.",
+    "source_quote": "There\u2019s some kind of effect that the circle has on those who enter it. Some kind of madness gripped my mind, but my monk training allowed me to stop it. Be careful!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum\u2019s divine insight",
+    "fact": "Grygum receives divine insight that Hgraam can reverse the ill effects on the Stone Giants.",
+    "source_quote": "We are told that Hgraam should be able to reverse whatever ill effects on the Stone Giants.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Narrak\u2019s fear spell",
+    "fact": "Narrak casts fear using a white feather, affecting Thorin, Grygum, and Zalthir.",
+    "source_quote": "He takes a white feather and points at Thorin, Grygum, and Zalthir, says the magic words, and the three members of the Ember Vanguard look terrified.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Ettin\u2019s resilience",
+    "fact": "The Ettin survives multiple attacks and smiles after being hit, suggesting it is corrupted or unnaturally resilient.",
+    "source_quote": "A guiding bolt from Grygum strikes the Ettin, and it groans and then smiles.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s fire breath",
+    "fact": "Zalthir breathes fire into his darkness, but is disappointed with the outcome.",
+    "source_quote": "Zalthir rushes into his darkness and breathes fire. He seems disappointed with the outcome.",
+    "quote_verified": true
+  }
+]

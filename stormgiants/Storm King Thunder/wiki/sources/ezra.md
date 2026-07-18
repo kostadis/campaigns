@@ -1,8 +1,8 @@
 ---
 type: source
 title: "Source: ezra.md"
-created: 2026-05-13
-updated: 2026-05-13
+created: 2026-06-06
+updated: 2026-06-06
 sources: ["ezra.md"]
 tags: []
 related: []
@@ -10,49 +10,41 @@ related: []
 
 # Source: ezra.md
 
-### Key Entities
-- **Ezra**: Harper operative (field strategist), central figure, likely already exists in the wiki.
-- **Krowen**: Harper operative, peripheral figure, likely already exists in the wiki.
-- **The Harpers**: Organization, central entity, likely already exists in the wiki.
-- **The First Faction**: Organization, peripheral entity, likely already exists in the wiki.
-- **Mercenaries and Contractors**: Technique, peripheral concept, likely already exists in the wiki.
-- **Plausible Deniability**: Technique, peripheral concept, likely already exists in the wiki.
+## Key Entities
 
-### Key Concepts
-- **Operational Model**: Theory, central concept, described in the source, likely already exists in the wiki.
-- **First Faction**: Organization, peripheral entity, mentioned in the source, likely already exists in the wiki.
+*   **Ezra** (Person)
+    *   **Role:** Harper operative and field strategist.
+    *   **Status:** Central to the "Harper" faction's operational methodology, though currently a "shadow" figure who has not appeared in person.
+    *   **Wiki Status:** New entry required.
+*   **Krowen** (Person)
+    *   **Role:** Primary source of information regarding Ezra; professional peer/admirer.
+    *   **Status:** Existing entity (referenced in `concepts/krowen-valharrow-2026-06-06-002752`).
+*   **The Harpers** (Organization)
+    *   **Role:** Ezra's primary affiliation; a known faction.
+    *   **Status:** Existing entity (implied in broader lore, but specific "Harper" page may need update to include Ezra’s role).
+*   **First Faction** (Organization/Group)
+    *   **Role:** A group with whom Ezra has an "unknown prior operational connection."
+    *   **Status:** New entry or expansion of existing faction lore required.
 
-### Main Arguments & Findings
-- **Core Claims/Results**: 
-  - Ezra is a Harper operative who specializes in field strategy.
-  - Krowen has modeled his operational methods on Ezra's.
-  - Ezra has previously operated with the First Faction.
-- **Evidence Supporting Core Claims**:
-  - Krowen's reference to Ezra's operational model.
-  - Krowen's private curiosity about Ezra's dealings with the First Faction.
-- **Strength of Evidence**:
-  - Secondhand references and indirect evidence, moderate strength.
+## Key Concepts
 
-### Connections to Existing Wiki
-- **Existing Pages Related to Source**:
-  - [[The Harpers]]: The Harpers are mentioned as the faction Ezra belongs to.
-  - [[Operational Model]]: The operational model Ezra used is described as a theory.
-  - [[First Faction]]: Mentioned as a previous operational partner of Ezra.
-- **Impact on Knowledge**:
-  - The source provides additional details about Ezra's background and operational history, strengthening the understanding of the Harper organization and their strategic methods.
+*   **Mercenaries and Contractors as Plausible Deniability**
+    *   **Definition:** An operational strategy where a primary organization uses third-party contractors to distance itself from the legal, moral, or political consequences of an action.
+    *   **Significance:** This is Ezra's signature methodology; it highlights the pragmatic (and potentially morally gray) nature of Harper operations.
+    *   **Wiki Status:** Potential update to `[[servant-master-dynamics-2026-06-06-002521]]` or a new specific entry for "Plausible Deniability."
+*   **Operational History**
+    *   **Definition:** The track record of an operative's past missions and affiliations.
+    *   **Significance:** Ezra’s history with the First Faction is a point of curiosity/mystery for Krowen, suggesting a complex web of inter-factional dealings.
 
-### Contradictions & Tensions
-- **Internal Tension**:
-  - Krowen's admiration for Ezra's strategy contrasts with his private puzzlement about Ezra's past with the First Faction.
+## Main Arguments & Findings
+*   **Ezra as a "Ghost" Archetype:** The document establishes Ezra as a high-level operative whose influence is felt through methodology rather than presence. This reinforces the theme of "shadowy" influences in the world.
+*   **Methodological Influence:** Krowen’s admiration for Ezra suggests that Ezra's tactics are highly effective and perhaps even "standard" within certain elite circles, despite being unknown to the general public or the party.
+*   **The First Faction Connection:** The most significant narrative hook is the mystery of why a Harper operative would have ties to the First Faction, suggesting a hidden layer of cooperation or conflict between these groups.
 
-### Recommendations
-- **Pages to Create or Update**:
-  - [[Ezra]]: To consolidate information about the Harper operative.
-  - [[Operational Model]]: To include more details about the specific model Ezra used.
-  - [[First Faction]]: To incorporate new information about Ezra's past connections.
-- **Emphasis**:
-  - Emphasize the operational model and its significance within the Harper organization.
-  - Highlight the tension between Krowen's admiration and his puzzlement about Ezra's past.
-- **Open Questions**:
-  - Further explore the nature of the operational model Ezra developed.
-  - Investigate the reasons behind Krowen's private puzzlement regarding Ezra's past with the First Faction.
+## Connections to Existing Wiki
+*   **Krowen:** Directly links Ezra's legacy to Krowen’s current tactics.
+*   **The Harpers:** Connects Ezra to the broader Harper organization.
+*   **Plausible Deniability:** Relates to existing themes of "Cover Identity" and "Operational Secrecy."
+
+## Contradictions & Tensions
+*   **Harper vs. First Faction:** There is an inherent tension in a Harper operative having ties to the First Faction; this suggests either a shared goal or a clandestine negotiation that Krowen finds p

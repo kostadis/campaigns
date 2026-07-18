@@ -1,0 +1,121 @@
+[
+  {
+    "type": "npc",
+    "subject": "Asha Vandree",
+    "fact": "Asha Vandree was a cleric of Lolth who became indistinguishable from the rot she served, and was looted with efficient respect after her death.",
+    "source_quote": "She had been a cleric of Lolth who had also become, in some capacity, a cleric of Zuggtmoy, and in the end she had been indistinguishable from the rot she served.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "holy symbol of Lolth",
+    "fact": "A holy symbol of Lolth was recovered from Asha Vandree's remains.",
+    "source_quote": "The holy symbol of Lolth. Chain mail. Prayer beads. And a sealed wax pouch.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "chain mail",
+    "fact": "Chain mail was recovered from Asha Vandree's remains.",
+    "source_quote": "The holy symbol of Lolth. Chain mail. Prayer beads. And a sealed wax pouch.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "prayer beads",
+    "fact": "Prayer beads were recovered from Asha Vandree's remains.",
+    "source_quote": "The holy symbol of Lolth. Chain mail. Prayer beads. And a sealed wax pouch.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "sealed wax pouch",
+    "fact": "A sealed wax pouch was recovered from Asha Vandree's remains and contained a theological treatise.",
+    "source_quote": "And a sealed wax pouch. I had the wax pouch, and I suspected it was the more interesting item.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Drow cloak",
+    "fact": "A fine spider-silk Drow cloak that drinks shadow was taken by Zalthir from Asha Vandree's body.",
+    "source_quote": "Zalthir took the Drow cloak she'd been wearing \u2014 the fine spider-silk kind that drinks shadow \u2014 and I did not begrudge him that.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "wax pouch contents",
+    "fact": "The wax pouch contained pages of close, careful script presenting a theological argument that Lolth and Zuggtmoy are the same entity.",
+    "source_quote": "Inside were pages of close, careful script \u2014 the handwriting of someone who had once been methodical, who had trained as a theologian and brought that training to bear on a question that should not have been asked.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "theological treatise on Lolth and Zuggtmoy",
+    "fact": "A written theological treatise argues that Lolth and Zuggtmoy are the same being \u2014 a conclusion reached by backward reasoning from a desired doctrine, considered both well-argued and completely mad.",
+    "source_quote": "It's basically a long theological exploration of why Zuggtmoy and Lolth \u2014 and claiming that Lolth and Zuggtmoy are the same thing... It was very well-argued. It was also completely mad.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "pre-craziness or post-craziness",
+    "fact": "It is uncertain whether the author of the theological treatise wrote it before or after descending into madness.",
+    "source_quote": "Is this pre-craziness or post-craziness, do you think?",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "water-damaged prisoner journal",
+    "fact": "A water-damaged journal from an unnamed prisoner was found, its ink run in places but handwriting still legible in drier sections, indicating the writer kept records until they could no longer.",
+    "source_quote": "We also found a water-damaged journal from a prisoner we would never meet \u2014 someone who had written things down and then, presumably, stopped being able to.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "flask of Overbright brandy",
+    "fact": "A flask of Overbright brandy was received with considerable personal interest.",
+    "source_quote": "The flask of Overbright brandy I received with considerably more personal interest.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara",
+    "fact": "Ilvara, a high priestess, had been carrying confiscated prisoner belongings, including Thorin's tooth, as trophies of ownership.",
+    "source_quote": "Ilvara had been carrying it. Of course she had \u2014 she was exactly the sort of high priestess who would keep trophies, who would drag along evidence of her ownership of people the way some clerics keep relics.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Thorin's tooth",
+    "fact": "Thorin's tooth was recovered from Ilvara's confiscated belongings and claimed by him.",
+    "source_quote": "I opened it, and the contents were exactly what you would expect... 'Oh, yeah. I want my tooth back.' He reached in and found it.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin reclaimed his tooth from Ilvara's collection and remarked on its sentimental value.",
+    "source_quote": "'Oh, yeah. I want my tooth back.' He held it for a moment without saying anything. Then: 'Very sentimental.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir took the Drow cloak from Asha Vandree's body without objection.",
+    "source_quote": "Zalthir took the Drow cloak she'd been wearing \u2014 the fine spider-silk kind that drinks shadow \u2014 and I did not begrudge him that.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "death of Ilvara",
+    "fact": "Ilvara was killed by the narrator, making her possessions lawful loot.",
+    "source_quote": "I filed that under Ilvara, and closed the file, because she was already dead and I had killed her, and whatever she had been carrying was ours now.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "looting of Asha Vandree",
+    "fact": "Asha Vandree was looted after death as a resolved theological problem, not with piety but with efficiency.",
+    "source_quote": "So I looted her with the efficient respect one extends to a theological problem that has been resolved.",
+    "quote_verified": true
+  }
+]

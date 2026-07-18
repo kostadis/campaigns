@@ -9,3 +9,8 @@ sources: ["dral_thelev.md"]
 ---
 # Political Strategy
 The plans and tactics employed by political entities to achieve their goals within the political landscape of Everlund, including forming alliances, conducting negotiations, and implementing policies.
+
+## Related
+
+- [[political-system]]
+- [[political-structure]]

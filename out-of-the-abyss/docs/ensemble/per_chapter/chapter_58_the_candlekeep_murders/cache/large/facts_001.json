@@ -1,0 +1,170 @@
+[
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm is the spiritual and administrative leader of Candlekeep, overseeing the investigation into the murders; she offered Deneir's Sanctum as the investigators' office and assigned Fembris Lancer and Vooshadi Moonriver to assist, but her intense, unstated preference for focusing on Sylvira Savikas raises suspicion about her own involvement or agenda.",
+    "source_quote": "Was there nobody that you wished to start your investigation with?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kei Tigersteel",
+    "fact": "Kei Tigersteel is the Lorekeeper of Candlekeep and priest of the Temple of Oghma, described as the library's spiritual leader; he was in confidential conference with Bookwyrm and later instructed to take the victim\u2019s body to the Shrine of Oghma for purification.",
+    "source_quote": "yes, Kei, you can take the body to the Shrine of Oghma for purification.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Fheminor Scrivenbark",
+    "fact": "Fheminor Scrivenbark is a dowdy halfling scholar who appears in the investigators\u2019 notes with no recorded entry, suggesting tampering or omission; he was reportedly beaten before death and may hold critical insight into the crime.",
+    "source_quote": "There's no name on that entry. It just says, Fheminor Scrivenbark.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sylvira Savikas",
+    "fact": "Sylvira Savikas is a high-ranking figure in Candlekeep whose identity was impersonated by an unknown individual seen walking the halls at night with a lantern; Bookwyrm\u2019s unstated desire to direct the investigation toward her suggests Sylvira may be central to the truth \u2014 or a red herring.",
+    "source_quote": "Someone impersonating her... Yes. Yes.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch is a scholar who held one of two keys to the high towers; his claim that the corpse was unable to answer questions due to being sealed by the imposter is unverifiable and possibly false, making him a suspect with access to restricted areas.",
+    "source_quote": "Kalan said they'd put the question to the corpse, and that it didn't work.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daral",
+    "fact": "Daral is a scholar who questioned Sylvira Savikas\u2019s absence at the council meeting; the investigators dismissed him as a suspect due to the improbability of his involvement, despite his proximity to the central mystery.",
+    "source_quote": "Daral not even in it \u2014 he'd been at the Hearth, asking why isn't Sylvira Savikas here.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is an investigator who collected poison samples from the victim\u2019s fingers and lips, advocated for physical evidence over testimony, and assigned Daz to investigate Fheminor Scrivenbark\u2019s injuries and potential poisoning.",
+    "source_quote": "I'm happy to do the library research. Poison section, please.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is an investigator who took lead on interviewing low-visibility suspects like Fheminor Scrivenbark, raised the issue of the missing book fragment, and questioned the integrity of the office offered by Bookwyrm, suspecting surveillance.",
+    "source_quote": "There's a missing part of, like, a book that should not be missing\u2026 that could have happened a hundred years ago or something, but\u2026 seems suspicious.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is an investigator who obsessively cross-references facts, noticed the erased entry for Fheminor Scrivenbark in their own notes, and consistently voices skepticism about the generosity of Candlekeep\u2019s staff, suspecting hidden motives.",
+    "source_quote": "Our own notes had started lying to us. That felt about right for this place.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a giant-raised investigator who distrusts deception and favors blunt, physical evidence; he insists on sticking together as a group for intimidation, questions Bookwyrm\u2019s timeline, and refuses to name suspects until verified.",
+    "source_quote": "We refuse to comment on ongoing.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Council of the Great Readers",
+    "fact": "The Council of the Great Readers has dispersed following the murders; members including A'lai Aivenmore, Kazryn Nyantani, and Alkrist are vying for control, demanding leadership changes and accountability, but none have been formally appointed.",
+    "source_quote": "A'lai Aivenmore wanting a vote and new leadership... Kazryn Nyantani... cutting through with first you must find the murderer.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Deneir's Sanctum",
+    "fact": "Deneir's Sanctum is a shrine and library dedicated to the art of writing, offered by Bookwyrm as the investigators' office; its apparent generosity is suspected to mask surveillance, as the room\u2019s privacy cannot be confirmed and tools for reading through walls fail inside it.",
+    "source_quote": "It's nice and all to offer up that we can use the office... but it's also a little suspect.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is a vast, labyrinthine library-fortress where scholars live and work; its complexity makes navigation difficult without guides, and its culture of secrecy, deception, and intellectual rivalry enables crimes to be concealed.",
+    "source_quote": "The library is very easy to get lost in.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Tower Key",
+    "fact": "Two keys grant access to Candlekeep\u2019s high towers; one was held by the victim Janussi, the other by Kalan Strongbranch; the key\u2019s current location is unknown and may reveal who had access to the murder scene.",
+    "source_quote": "I'm more curious if he still has his other tower key.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Poison Sample",
+    "fact": "A sample of poison was collected from the victim\u2019s fingers and lips by Zalthir; it is the only physical evidence available, and its origin is unknown \u2014 potentially linked to the missing book fragment or the impersonation of Sylvira.",
+    "source_quote": "Off his fingers, and his lip too, Zalthir made sure of that.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Missing Book Fragment",
+    "fact": "A fragment of a book is missing \u2014 possibly removed a century ago \u2014 and is suspected to be connected to the murders; its absence suggests a hidden ritual, forbidden knowledge, or an ancient cover-up.",
+    "source_quote": "There's a missing part of, like, a book that should not be missing\u2026 that could have happened a hundred years ago or something, but\u2026 seems suspicious.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Impostor (False Devil-Lady)",
+    "fact": "An impostor wearing Sylvira Savikas\u2019s face was seen walking the halls at night with a lantern; this entity allegedly sealed the victim\u2019s mouth to prevent answering questions, though this claim is unverified and possibly fabricated by Kalan Strongbranch.",
+    "source_quote": "The imposter \u2014 the false devil-lady \u2014 supposedly did it first and locked the corpse's mouth shut for days.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Murder of Janussi",
+    "fact": "Janussi, a high-ranking scholar, was murdered by poison; his body was found in a sealed chamber, his mouth locked as if by supernatural means, and his tower key is missing; the murder triggered a power vacuum and an official investigation.",
+    "source_quote": "The whole pack of them, shouting over a body.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Discovery of Fabricated Notes",
+    "fact": "The investigators discovered that their own notes had been altered \u2014 the entry for Fheminor Scrivenbark was erased \u2014 indicating internal sabotage or magical tampering within Candlekeep\u2019s records.",
+    "source_quote": "Our own notes had started lying to us.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Bookwyrm\u2019s True Motives",
+    "fact": "Bookwyrm\u2019s intense, unspoken focus on Sylvira Savikas as the primary suspect suggests she may be attempting to divert attention from herself or another powerful figure; her offer of assistance may be a means of control.",
+    "source_quote": "She never said it. She didn't have to; the want came off her like heat off the smelters.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Impersonation of Sylvira",
+    "fact": "The identity of the person impersonating Sylvira Savikas remains unknown; the impersonator\u2019s nighttime movements with a lantern, combined with the locked corpse, suggest a ritualistic or magical purpose tied to forbidden knowledge.",
+    "source_quote": "Sylvira \u2014 or somebody wearing her face \u2014 had been walking the halls in the dead of night with a lantern.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Poison and the Missing Book",
+    "fact": "The poison used to kill Janussi may be derived from a forbidden text whose fragment is missing; the connection between the book and the poison could reveal an ancient heresy or a cult operating within Candlekeep.",
+    "source_quote": "Maybe that's from watching too much CSI, what do I know?",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Corpse\u2019s Silence",
+    "fact": "Kalan Strongbranch claims the corpse was prevented from answering questions \u2014 a claim that cannot be verified and may be a lie to conceal his own failure or involvement; the possibility that the corpse was never truly questioned remains a heretical doubt.",
+    "source_quote": "Whether the corpse was ever truly made to answer is hearsay.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Timeline of the murder",
+    "fact": "The murder occurred sometime before nine in the morning; Bookwyrm\u2019s whereabouts during that time are unaccounted for, and Fheminor Scrivenbark was beaten before death \u2014 possibly at eight \u2014 suggesting a sequence of events leading to the killing.",
+    "source_quote": "I also want to understand where Bookwyrm was before nine in the morning.",
+    "quote_verified": false
+  }
+]

@@ -4,7 +4,7 @@ title: Ritual Self-Flagellation as Devotion
 created: 2026-06-15
 updated: 2026-06-15
 tags: [ritual, suffering, worship, embodiment]
-related: [brin-bundlewine, unorthodox-lathanderite-interpretation, holy-disfigurement, guilt-as-internal-prison, true-believer-verification]
+related: ["brin-bundlewine", "theology-of-searing-pain", "holy-disfigurement", "guilt-as-internal-prison", "true-believer-verification"]
 sources: ["npcs/brin_bundlewine.md"]
 ---
 # Ritual Self-Flagellation as Devotion

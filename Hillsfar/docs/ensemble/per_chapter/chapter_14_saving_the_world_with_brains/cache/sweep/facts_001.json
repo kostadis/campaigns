@@ -1,0 +1,331 @@
+[
+  {
+    "type": "date",
+    "subject": "May 25th, 2026",
+    "fact": "The session notes are dated May 25th, 2026.",
+    "source_quote": "Date: May 25th, 2026",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Sporedome",
+    "fact": "Sporedome is a luminous fungal expanse in the Underdark where the party rested.",
+    "source_quote": "deep within Sporedome, the luminous fungal expanse of the Underdark",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur constructed a specialized distillery using his artificer's mind.",
+    "source_quote": "Felkur put his artificer's mind to work constructing a specialized distillery",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas assisted Felkur in refining the distillation of hallucinogenic mushrooms.",
+    "source_quote": "together with Akritas, the two refined the unique hallucinogenic mushrooms of the region",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein turned his attention toward future business ventures including soups and trade.",
+    "source_quote": "Daein, ever the entrepreneur, turned his attention toward future business ventures \u2014 soups, trade, and the dream of fabulous wealth",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim ran naked through the fungus forest during a communion with nature.",
+    "source_quote": "Bramgrim, meanwhile, communed with nature in his own particular fashion, which culminated in at least one memorable afternoon of him sprinting naked through the fungus forest",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Emerald Enclave",
+    "fact": "A messenger from the Emerald Enclave arrived to summon Akritas.",
+    "source_quote": "a messenger from the Emerald Enclave arrived to summon Akritas",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Harper",
+    "fact": "The Harpers are one of the powerful factions in the coalition summoning the party.",
+    "source_quote": "a coalition of powerful factions \u2014 the Emerald Enclave, the Harpers, the Lords' Alliance, and the Order of the Gauntlet",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Lords' Alliance",
+    "fact": "The Lords' Alliance is part of the coalition requesting the party's assistance.",
+    "source_quote": "a coalition of powerful factions \u2014 the Emerald Enclave, the Harpers, the Lords' Alliance, and the Order of the Gauntlet",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Order of the Gauntlet",
+    "fact": "The Order of the Gauntlet is part of the coalition requesting the party's assistance.",
+    "source_quote": "a coalition of powerful factions \u2014 the Emerald Enclave, the Harpers, the Lords' Alliance, and the Order of the Gauntlet",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "mushroom-infused drink",
+    "fact": "Akritas swirled a mushroom-infused drink in her hand during the summons.",
+    "source_quote": "Akritas, swirling a mushroom-infused drink in her hand",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "FU money declaration",
+    "fact": "Daein loudly declared his singular ambition to acquire 'FU money'.",
+    "source_quote": "Daein was skeptical, loudly declaring his singular ambition to acquire what he called \"FU money\"",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "ledger",
+    "fact": "Akritas noted they had missed an opportunity by never reading the ledger from their previous heist.",
+    "source_quote": "they had missed a golden opportunity by never reading the ledger from their previous heist",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "hollowed-out dead mushroom",
+    "fact": "The meeting took place inside a hollowed-out dead mushroom roughly the size of a small house.",
+    "source_quote": "inside a hollowed-out dead mushroom roughly the size of a small house",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "hollowed-out dead mushroom",
+    "fact": "The interior of the mushroom dwelling contained stools, a low table, and a desk.",
+    "source_quote": "its interior furnished with little more than stools, a low table, and a desk",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glor",
+    "fact": "Glor is a cowled humanoid figure who greeted the party telepathically.",
+    "source_quote": "A cowled humanoid figure greeted them telepathically, introducing itself as Glor",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glor",
+    "fact": "Glor is a mind flayer representing the Ryxyg illithid encampment.",
+    "source_quote": "the party came to understand they were speaking with a mind flayer, a representative of the Ryxyg illithid encampment",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Ryxyg",
+    "fact": "The Ryxyg is an illithid encampment located several miles below Sporedome.",
+    "source_quote": "representative of the Ryxyg illithid encampment located several miles below Sporedome",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Maerimydra",
+    "fact": "Fire giants of Maerimydra have constructed devastating arcane siege weapons.",
+    "source_quote": "The fire giants of Maerimydra had constructed devastating arcane siege weapons",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Elventree",
+    "fact": "Elventree is a surface location targeted by the fire giants' siege weapons.",
+    "source_quote": "preparing to unleash them on the surface world, beginning with Elventree and Hillsfar",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Hillsfar",
+    "fact": "Hillsfar is a surface location targeted by the fire giants' siege weapons.",
+    "source_quote": "preparing to unleash them on the surface world, beginning with Elventree and Hillsfar",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "destruction of a rogue mind flayer",
+    "fact": "Glor requested the destruction of a rogue mind flayer as payment for his information.",
+    "source_quote": "That price was the destruction of a rogue mind flayer, one who had severed its connection to the elder brain's collective consciousness",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Faerzress region",
+    "fact": "The rogue mind flayer is hiding in a lair deep within a region saturated with Faerzress.",
+    "source_quote": "hiding in a lair deep within a region saturated with Faerzress, a magical energy that weakened psionic and arcane abilities alike",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "map",
+    "fact": "Glor handed over a map leading to the rogue's lair.",
+    "source_quote": "Glor handed over a map",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Ten days of travel",
+    "fact": "The party traveled for ten days through the Underdark to reach the rogue's lair.",
+    "source_quote": "Ten days of travel through the Underdark brought the party to the rogue's lair",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "ice-infused ammunition",
+    "fact": "Felkur prepared specialized ice-infused ammunition for the confrontation.",
+    "source_quote": "Felkur prepared specialized ice-infused ammunition for the confrontation ahead",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "dimly lit chamber",
+    "fact": "The party pushed through the entrance into a dimly lit chamber in the rogue's lair.",
+    "source_quote": "the group pushed through the entrance into a dimly lit chamber",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "mind flayer",
+    "fact": "The party found four bodies with brains removed, indicating a mind flayer was present.",
+    "source_quote": "Whatever lived here was unmistakably a mind flayer",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "detailed maps",
+    "fact": "The table was covered in detailed maps of Hillsfar, Phlan, and Mulmaster.",
+    "source_quote": "Spread across it were detailed maps of Hillsfar, Phlan \u2014 a city now encased in a dome of magical brambles by a green dragon \u2014 and two maps of Mulmaster",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Phlan",
+    "fact": "Phlan is a city now encased in a dome of magical brambles by a green dragon.",
+    "source_quote": "Phlan \u2014 a city now encased in a dome of magical brambles by a green dragon",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "red X marks",
+    "fact": "One of the maps of Mulmaster bore red X marks and mocking annotations.",
+    "source_quote": "one of which bore red X marks and mocking annotations scrawled over sections labeled as destroyed",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "elemental cults",
+    "fact": "Felkur recognized the destruction on the Mulmaster maps as the work of elemental cults.",
+    "source_quote": "Felkur, drawing on his own history with Mulmaster, recognized the destruction as the work of elemental cults",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "drow rations",
+    "fact": "Drow rations were found alongside the maps on the table.",
+    "source_quote": "Alongside the maps were drow rations, empty scroll tubes, playing cards, and crumpled parchments",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "empty scroll tubes",
+    "fact": "Empty scroll tubes were found on the table in the rogue's lair.",
+    "source_quote": "Alongside the maps were drow rations, empty scroll tubes, playing cards, and crumpled parchments",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "playing cards",
+    "fact": "Playing cards were found on the table in the rogue's lair.",
+    "source_quote": "Alongside the maps were drow rations, empty scroll tubes, playing cards, and crumpled parchments",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "crumpled parchments",
+    "fact": "Crumpled parchments outlining mercantile agreements were found on the table.",
+    "source_quote": "crumpled parchments outlining mercantile agreements between an unnamed drow outpost and a group called the Red Blooms",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Red Blooms",
+    "fact": "The Red Blooms is a group that entered mercantile agreements with an unnamed drow outpost.",
+    "source_quote": "mercantile agreements between an unnamed drow outpost and a group called the Red Blooms",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "stone basin",
+    "fact": "The room held a stone basin carved to resemble the underside of a human brain.",
+    "source_quote": "The room also held a stone basin carved to resemble the underside of a human brain",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "brain lock mechanism",
+    "fact": "The party concluded the stone basin served as a key to an arcanely sealed door requiring an actual brain.",
+    "source_quote": "the party concluded it served as the key to an arcanely sealed door \u2014 one that could only be opened by placing an actual brain inside it",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Arrizz",
+    "fact": "Arrizz is a drow the party had encountered in the past, heard shouting from behind a door.",
+    "source_quote": "a voice Daein recognized as Arrizz, a drow they had encountered in their past",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "second door",
+    "fact": "A second door in the lair was noticeably colder than anything else.",
+    "source_quote": "The second door was noticeably colder than anything else in the lair",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glor",
+    "fact": "Glor stated that if the party has to choose which brain to eat last, it will be Daein's.",
+    "source_quote": "\"Daein, do not worry. If I have to choose which brain I will eat last, it will be yours.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein enthusiastically clarified his life goal as wanting 'FU money'.",
+    "source_quote": "\"I want FU money.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas realized they could have looked in the ledger during their previous heist.",
+    "source_quote": "\"She stops swirling the drink and goes, fuck. You're right. Or at the very least, we could have looked in the ledger.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Rogue Thought's Lair",
+    "fact": "The Rogue Thought's Lair is a dark, foreboding complex deep in the Underdark.",
+    "source_quote": "A dark, foreboding complex deep in the Underdark, heavily permeated by Faerzress",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "pools of glowing liquid",
+    "fact": "The Rogue Thought's Lair features chambers with pools of glowing liquid.",
+    "source_quote": "Features chambers with pools of glowing liquid",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Emerald Enclave Messenger",
+    "fact": "An Emerald Enclave Messenger tracked down the party in Sporedome to deliver a mission briefing.",
+    "source_quote": "A representative of the Emerald Enclave who tracked down the party in Sporedome to deliver a mission briefing to Akritas on behalf of multiple factions",
+    "quote_verified": true
+  }
+]

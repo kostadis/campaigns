@@ -4,7 +4,7 @@ title: Cultural-contempt-as-political-tool
 created: 2026-06-15
 updated: 2026-06-15
 tags: [power, identity, manipulation, prejudice, institutional-control]
-related: [jenna-roscoe, brewbarry, lord-s-alliance, status-driven-behavior, defensive-deference]
+related: ["jenna-roscoe", "brewbarry", "lords-alliance", "status-driven-behavior", "defensive-deference"]
 sources: ["npcs/jenna.md"]
 ---
 # Cultural-contempt-as-Political-Tool
@@ -35,3 +35,7 @@ It also exposes the Lord’s Alliance not as a noble alliance, but as a cultural
 
 ## Implications
 This tool is effective because it preys on internalized inferiority. Those who resist it — like Brewbarry — are not merely rejecting an offer; they are rejecting the very premise of their own inferiority. Their resistance becomes an act of existential self-reclamation.
+
+## Related
+
+- [[civilizing-mission]]

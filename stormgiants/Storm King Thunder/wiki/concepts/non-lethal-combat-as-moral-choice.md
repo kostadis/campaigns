@@ -16,3 +16,7 @@ Brewbarry embodies this concept. He kills when others want to capture — but he
 His choice to spare Orc 10 stands in stark contrast to his killing of Orc 9 — not because he lost control, but because Valphine’s delayed command created a moral ambiguity he could not resolve. He acted on instinct, and the result was tragic. Yet he did not justify it — he accepted it. This tension — between his instinct to kill and his capacity to spare — is the core of his moral complexity.
 
 This concept challenges the assumption that barbarians are inherently violent. Brewbarry’s rage is not mindless; it is focused. His non-lethal strikes are not weaker — they are harder. They require more discipline than a killing blow. In a world where violence is normalized, his restraint is revolutionary.
+
+## Related
+
+- [[non-lethal-vs-lethal-combat]]

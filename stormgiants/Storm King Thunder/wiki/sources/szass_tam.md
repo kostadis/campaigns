@@ -52,9 +52,9 @@ related: []
   - Strong, based on Iymrith's statements and the details of the contract.
 
 ### Connections to Existing Wiki
-- **[[szass-tam]]**: This entry relates to Szass Tam, providing a comprehensive overview of his role and relationships.
-- **[[red-wizards-of-thay]]**: This page should be linked to provide context on the Red Wizards’ involvement.
-- **[[hybrid-experiments]]**: This page should be linked to connect the Red Wizards' activities to Iymrith's research.
+- **[[szass_tam]]**: This entry relates to Szass Tam, providing a comprehensive overview of his role and relationships.
+- **[[the_red_wizard]]**: This page should be linked to provide context on the Red Wizards’ involvement.
+- **[[hybridization-experiments]]**: This page should be linked to connect the Red Wizards' activities to Iymrith's research.
 
 ### Contradictions & Tensions
 - **Internal Tension**: The relationship between Szass Tam and Iymrith seems symbiotic yet constrained by the contract, potentially leading to internal conflicts.
@@ -62,9 +62,9 @@ related: []
 
 ### Recommendations
 - **Create or Update Pages**:
-  - [[szass-tam]]
-  - [[red-wizards-of-thay]]
-  - [[hybrid-experiments]]
+  - [[szass_tam]]
+  - [[the_red_wizard]]
+  - [[hybridization-experiments]]
 - **Emphasize**:
   - The nature of the contractual relationship and its implications.
   - The Red Wizards' role as intermediaries.
@@ -72,3 +72,7 @@ related: []
   - What specific terms are included in the contract?
   - What benefits does Szass Tam receive from the arrangement?
   - Are there any other parties involved in the hybrid experiments beyond Iymrith and the Red Wizards?
+
+## Related
+
+- [[taern_hornblade]]

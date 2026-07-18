@@ -56,13 +56,14 @@ related: []
 
 ### Connections to Existing Wiki
 - **[[prisoners]]**: The vampire's role as a researcher and jailer operating within the prison.
-- **[[vampires]]**: The vampire's supernatural nature and the implications of her actions.
-- **[[controlled-experiments]]**: The vampire's controlled prisoner experiments.
-- **[[sanctioned-autonomy]]**: The vampire's relationship with Yartar's highest authorities.
+- **[[the_vampire_unnamed]]**: The vampire's supernatural nature and the implications of her actions.
+- **[[ambush-as-experiment]]**: The vampire's controlled prisoner experiments.
+- **[[independent]]**: The vampire's relationship with Yartar's highest authorities.
 
 ### Contradictions & Tensions
 - **Internal Tension:** The vampire's pragmatic approach to negotiations contrasts with her contemptuous attitude towards the Waterbarron.
 - **External Conflict:** The vampire's experiments may conflict with ethical considerations regarding prisoner treatment.
 
 ### Recommendations
-- **Create Pages:** [[the-vampire-unname
+- **Create Pages:** [[aeglossil]]
+- [[the_wight_elquen]]

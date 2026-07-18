@@ -37,7 +37,8 @@ This is a D&D 5e campaign workspace managed with the **CampaignGenerator** tool 
 |--------|-----------|-----------|-----------|
 | David Mendenhall (Dave) | Vukradin | Bard 5 / Aasimar | Naive optimist, sees no tension in his goals, Silver Tongue worldview |
 | Wade Brown | Soma | Druid 5 / Tortle | Naturalist, skeptical of mentor Adabra |
-| Gary Young | Valphine Sotorra / Brewbarry | Cleric 5 / Drow, Barbarian 5 / Goliath | Valphine: secret Lathander devotee; Brewbarry: combat leader, Dragon Slayer Sword |
+| Gary Young | Valphine Sotorra | Cleric 5 / Drow | Secret Lathander devotee; also covers Brewbarry when Stéphane is absent |
+| Stéphane Bourdeaud | Brewbarry | Barbarian 5 / Goliath | Combat leader, Dragon Slayer Sword; Gary covers when Stéphane absent |
 
 ## Voice Files
 

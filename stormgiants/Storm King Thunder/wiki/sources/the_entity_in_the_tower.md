@@ -40,6 +40,6 @@ related: []
 - **Entity's Reaction to Vardis**: The entity's satisfaction upon Vardis using a blessing implies a complex relationship, possibly indicating a form of respect or acknowledgment.
 
 ### Recommendations
-- **Create Pages**: [[telepathy]], [[antipathy-field]], [[interdimensional-dungeons]], [[tower-of-green-flame]], [[entity-in-the-tower]]
+- **Create Pages**: [[magic-telepathy]], [[antipathy-field]], [[interdimensional-dungeons]], [[tower-of-storms]], [[the_entity_in_the_tower]]
 - **Emphasize**: The entity's role as a sentinel and its strategic use of telepathy and antipathy field.
 - **Open Questions**: Further exploration into the entity's origins, full nature, and the true extent of its influence on the Tower's inhabitants.

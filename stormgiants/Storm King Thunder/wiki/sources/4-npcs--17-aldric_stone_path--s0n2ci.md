@@ -1,18 +1,46 @@
 ---
 type: source
-title: "NPCs: Aldric Stone Path"
-created: 2026-06-15
-updated: 2026-06-15
-tags: [npc, druid, campaign-narrative]
-related: [aldric-stone-path, adabra-gwynn, soma, presiding-druid, anti-interventionism-druidic, true-believer-verification, weaponization-of-personal-debt, philosophical-deception-tacit-complicity]
+title: "Source: npcs/aldric_stone_path.md"
+created: 2026-06-06
+updated: 2026-06-06
 sources: ["npcs/aldric_stone_path.md"]
+tags: []
+related: []
 ---
-# Source: Aldric Stone Path
 
-This source documents the character of Aldric Stone Path, a druid whose emotional loyalty to [[adabra-gwynn]] became a critical vulnerability in her ideological campaign. His presence at the druid council and subsequent silence under questioning by [[soma]] served as the decisive evidence used by the [[presiding-druid]] to discredit the anti-interventionist faction.
+# Source: npcs/aldric_stone_path.md
 
-The source provides direct narrative evidence for the concepts of [[true-believer-verification]] (where loyalty substitutes for doctrinal proof), [[weaponization-of-personal-debt]] (Adabra’s “debt” of attention converted into political capital), and [[philosophical-deception-tacit-complicity]] (whether Adabra knowingly cultivated Aldric’s uncritical devotion). 
+## Key Entities
+*   **Aldric Stone Path** (Person)
+    *   **Role:** Central. He serves as a tragic foil and a "living" example of the consequences of intellectual passivity within the Druidic schism.
+    *   **Wiki Status:** Exists in the index as `[[aldric-stone-path]]`.
+*   **Adabra Gwynn** (Person)
+    *   **Role:** Central. Aldric is her primary follower and a key piece of her political/ideological infrastructure.
+    *   **Wiki Status:** Exists in the index as `[[adabra-gwynn]]`.
+*   **Soma** (Person)
+    *   **Role:** Central. She acted as the catalyst that exposed Aldric's lack of intellectual depth, leading to his failure at the council.
+    *   **Wiki Status:** Exists in the index as `soma`.
+*   **The Presiding Druid** (Person/Role)
+    *   **Role:** Peripheral. The adjudicator who used Aldric's silence as a legal/political weapon against Adabra.
+    *   **Wiki Status:** Exists in the index as `[[presiding-druid]]`.
 
-It also reveals the internal fragility of [[anti-interventionism-druidic]] — a philosophy that attracts adherents who believe deeply but cannot articulate or defend it. Aldric’s arc is not one of growth or rebellion, but of collapse: his identity, built entirely on being heard, shattered when he was asked to speak — and could not.
+## Key Concepts
+*   **Anti-interventionism (Druidic)**
+    *   **Definition:** The belief that active defense against planar or monstrous threats causes more harm than good by disrupting natural equilibrium.
+    *   **Significance:** This is the core ideological conflict of the Emerald Enclave arc.
+    *   **Wiki Status:** Exists as `[[emerald-enclave]]`.
+*   **Loyalty vs. Intellectual Rigor**
+    *   **Definition:** The distinction between being a devoted follower and having a defensible, nuanced philosophy.
+    *   **Significance:** Aldric represents the "danger" of the latter—his loyalty was sincere, but his inability to articulate the *how* of his beliefs made him a liability.
+    *   **Wiki Status:** Related to `[[philosophical-deception-tacit-complicity]]` and `[[sense-of-being_heard]]`.
+*   **Weaponized Silence / Failure of Defense**
+    *   **Definition:** When an individual's inability to provide a concrete answer is used as evidence of the failure of their entire ideology.
+    *   **Significance:** This is how Adabra’s faction lost its standing; it wasn't just her ideas that were rejected, but the fact that her followers couldn't defend them under scrutiny.
+    *   **Wiki Status:** Related to `[[complicit-silence]]` (implied) and `[[presiding-druid]]`.
 
-This source is foundational to understanding the moral and strategic costs of Adabra’s campaign tactics.
+## Main Arguments & Findings
+*   **The Tragedy of the Follower:** Aldric is not a villain or a fool; he is a man whose primary motivation was "being heard." His failure at the council wasn't just a personal lapse but a systemic failure of Adabra’s movement—she built a following on emotional validation rather than intellectual fortification.
+*   **The Utility of Silence:** The Presiding Druid’s use of Aldric as a "case study" in the ruling highlights how, in high-stakes politics (like the Emerald Enclave), an inability to provide substance is interpreted as a lack of conviction or competence.
+*   **Evidence Strength:** Very strong. The text clearly defines his role as a "mirror" for Adabra's predicament—his silence was her defeat.
+
+## Connections 

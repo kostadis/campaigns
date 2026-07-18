@@ -11,3 +11,12 @@ sources: ["harthos_zymorven.md"]
 - **Description:** Ability for certain magical beings to return to life after death.
 - **Influence:** Harthos's execution by decapitation is designed to prevent magical resurrection.
 - **Associated Characters:** Harthos Zymorven
+
+## Related
+
+- [[murder]]
+- [[magic-telepathy]]
+- [[magic-teleportation]]
+- [[magic-telekinesis]]
+- [[magic-transmutation]]
+- [[magic-revival]]

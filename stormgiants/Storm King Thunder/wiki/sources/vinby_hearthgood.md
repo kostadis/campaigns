@@ -1,68 +1,43 @@
 ---
 type: source
-title: "Source: vinby_hearthgood.md"
+title: Source: vinby_hearthgood.md
+tags: [source, silverymoon]
+related: ["vinby-heartgood", "information-asymmetry-npc-encounters"]
 created: 2026-05-13
-updated: 2026-05-13
+updated: 2026-06-06
+authors: []
+year: 2024
+url: ""
+venue: ""
 sources: ["vinby_hearthgood.md"]
-tags: []
-related: []
 ---
 
-# Source: vinby_hearthgood.md
+# Vinby Hearthgood
 
-### Key Entities
-- **Vinby Hearthgood**: Halfling resident of Silverymoon; no faction affiliation noted.
-  - **Role/Type**: Central figure, central to the narrative.
-  - **Existing Wiki Status**: Likely does not exist in the wiki.
-- **Unnamed halfling companion**: Killed during the Cambian confrontation.
-  - **Role/Type**: Peripheral, deceased.
-  - **Existing Wiki Status**: Likely does not exist in the wiki.
-- **Lady Margaster**: Notably avoided proximity to her in the Star Court.
-  - **Role/Type**: Peripheral, central to the narrative.
-  - **Existing Wiki Status**: Likely does not exist in the wiki.
-- **Orsik & Unla Kee**: Treated as trespassers.
-  - **Role/Type**: Peripheral, antagonists.
-  - **Existing Wiki Status**: Likely does not exist in the wiki.
+Vinby Hearthgood is a wealthy halfling resident of Silverymoon. He serves as a central figure in the narrative, characterized by his refined appearance and a cold, self-preserving demeanor. In legal proceedings, he is defined as a "Pragmatic Witness," whose testimony highlights the contrast between personal safety and public heroism.
 
-### Key Concepts
-- **Cambians**: Antagonists, mysterious group responsible for the death of Vinby's companion.
-  - **Role/Type**: Phenomenon, central to the plot.
-  - **Existing Wiki Status**: Likely does not exist in the wiki.
-- **Star Court**: Setting where Vinby testified.
-  - **Role/Type**: Location, central setting.
-  - **Existing Wiki Status**: Likely does not exist in the wiki.
+## Character Profile
+*   **Role/Type**: Central figure; Pragmatic Witness.
+*   **Traits**: Refined appearance, pragmatic, and self-interested.
+*   **Status**: Survivor of a confrontation with the Cambians.
 
-### Main Arguments & Findings
-- **Core Claims/Results**:
-  - Vinby Hearthgood survived a confrontation with the Cambians.
-  - He testified against the Cambians regarding breaking and entering.
-  - He distanced himself from Lady Margaster in the Star Court.
-- **Evidence Supporting Core Claims**:
-  - Directly stated in the source document.
-- **Strength of Evidence**:
-  - Strong, based on the detailed account provided.
+## Key Narrative Elements
 
-### Connections to Existing Wiki
-- **Existing Pages Related**:
-  - Cambians, Star Court, Silverymoon.
-- **Impact on Existing Knowledge**:
-  - Strengthens the narrative of the Cambians as antagonists and provides context for Vinby's actions.
-  - Adds depth to the Star Court setting and Silverymoon.
+### The Cambian Encounter
+Vinby survived a violent confrontation involving the **Cambians**, a mysterious group of antagonists. During this encounter, an unnamed halfling companion was killed. 
 
-### Contradictions & Tensions
-- **Internal Tension**:
-  - Vinby's apparent self-interest and cold pragmatism contrast with his willingness to testify against the Cambians, suggesting a deeper motivation that is not yet clear.
+In subsequent legal proceedings, Vinby provided testimony against the Cambians specifically regarding charges of breaking and entering. This testimony created a notable **Truth Gap**: while he testified against them, he intentionally omitted specific details regarding the nature of the Cambians from his official record.
 
-### Recommendations
-- **Pages to Create/Update**:
-  - Cambians, Star Court, Silverymoon.
-- **Emphasis**:
-  - Emphasize Vinby's survival and his actions in the Star Court.
-  - Highlight the tension between his self-interest and his testimony.
-- **Open Questions**:
-  - What is Vinby's relationship with Lady Margaster?
-  - What is his true motive for avoiding Lady Margaster?
-  - What does he intend to do next?
+### Star Court Proceedings
+The **Star Court** serves as the primary setting for Vinby's testimony. During these proceedings:
+*   **Socially Distanced Defense**: Vinby deliberately avoided proximity to [[lady-margaster]], maintaining a calculated distance during her involvement in the case.
+*   **Treatment of Others**: Individuals Orsik and Unla Kee were treated as trespassers during the proceedings.
 
-## Wiki Purpose (for context)
-- The purpose of this wiki is to provide comprehensive and organized information about the narrative universe, including characters, locations, and events.
+### Themes and Dynamics
+*   **Heroic vs. Civilian Stakes**: There is a distinct narrative divide between "heroic" stakes (the experiences of the adventuring party) and "civilian" stakes (Vinby’s primary focus on property damage and personal safety).
+*   **Internal Tension**: Vinby's cold pragmatism and self-interest contrast with his willingness to testify against the Cambians, suggesting a complex underlying motivation for his actions.
+
+## Related Locations and Entities
+*   **Cambians**: Antagonists; mysterious group responsible for the death of Vinby's companion.
+*   **Star Court**: The location where Vinby provided testimony.
+*   **Silverymoon**: Vinby's place of residence.

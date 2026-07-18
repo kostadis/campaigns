@@ -1,0 +1,142 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
+    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "An hour passes between two events in the session.",
+    "source_quote": "An hour later",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
+    "source_quote": "four chasme and two vrock",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "Sloobludop is approximately eight days away via the Darklake.",
+    "source_quote": "the town of Sloopdopblop is just eight days away",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
+    "source_quote": "Drow outpost was 100' in the sky",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "drow spy location",
+    "fact": "The drow spy was observed on the surface, in daylight, following the party quietly along a dirt road north of the main path.",
+    "source_quote": "north of the road, something that was not a deer held its position and waited",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "drow assignment",
+    "fact": "The drow spy was assigned by House T'sarran to track the party\u2019s surface movements in order to identify the person who paid for the drow\u2019s protection, not to engage directly.",
+    "source_quote": "My matron believes that the one who paid \u2014 for him, will reveal themselves once he reaches the surface. We are looking for that person, not for you.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "drow spy identity",
+    "fact": "The drow spy is a female member of House T'sarran, young, tired, and demoralized, assigned to a surface surveillance mission she did not choose.",
+    "source_quote": "I am of House T'sarran. I will not give my name. Take my piwafwi if you want a trophy.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "prayer beads value",
+    "fact": "The prayer beads handed to the drow spy by Grygum were an unknown religious artifact that disrupted her professional composure and led to her confession.",
+    "source_quote": "Grygum held out the prayer beads. He didn't say anything particularly ominous. He just handed them to her and told her to put them on.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "drow interrogation outcome",
+    "fact": "The drow spy revealed her matron's true objective: to identify the patron who had paid for the drow's protection, using the drow as bait to draw out that individual.",
+    "source_quote": "We are looking for the one who paid to have you protected.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "drow matron's power",
+    "fact": "House T'sarran is an ancient, patient house led by a matron who has ruled for two hundred years, indicating long-term strategic planning rather than reactive aggression.",
+    "source_quote": "My matron had ruled House T'sarran for two hundred years.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "drow psychological shift",
+    "fact": "The drow spy\u2019s professional detachment collapsed when confronted with the possibility of survival and an unknown religious ritual, revealing her underlying exhaustion and lack of conviction in her mission.",
+    "source_quote": "She looked, in the GM's precise summary, defeated, frustrated, annoyed.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "drow piwafwi value",
+    "fact": "The drow spy offered her piwafwi as a trophy, indicating it was a valuable magical garment she was willing to surrender to avoid further confrontation.",
+    "source_quote": "Take my piwafwi if you want a trophy.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "surface tracking terrain",
+    "fact": "The party was being tracked across open surface terrain \u2014 specifically a dirt road in daylight \u2014 an unusual and dangerous environment for a drow operative.",
+    "source_quote": "Months underground, and the threat finds us on a dirt road.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "daz's recognition",
+    "fact": "Daz recognized that the drow spy was deliberately avoiding direct eye contact with him, signaling that she was specifically monitoring him, not the party as a whole.",
+    "source_quote": "She wasn't watching the party. She was watching me. And working very, very hard to make it look like she wasn't.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "drow spy's motivation",
+    "fact": "The drow spy\u2019s compliance was motivated not by fear of death, but by the unexpected possibility of survival and the psychological disruption of an unknown ritual.",
+    "source_quote": "The beads were the thing that actually broke through the professional armor.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "drow matron's strategic intent",
+    "fact": "The matron of House T'sarran is using the drow as bait to uncover the identity of the patron who protected the drow from harm, indicating a long-term, indirect power play.",
+    "source_quote": "The matron mother cares, and therefore I care.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "drow spy's emotional state",
+    "fact": "The drow spy exhibited signs of psychological fatigue and resignation, having been assigned a mission she viewed as hopeless and degrading.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "drow spy's piwafwi",
+    "fact": "The piwafwi offered by the drow spy is a magical garment of value, typically worn by drow nobility, and her willingness to surrender it signaled surrender of status.",
+    "source_quote": "Take my piwafwi if you want a trophy.",
+    "quote_verified": true
+  }
+]

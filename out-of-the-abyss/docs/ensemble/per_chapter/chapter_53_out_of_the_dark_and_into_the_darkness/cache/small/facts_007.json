@@ -1,0 +1,121 @@
+[
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is an elf with no known noble house affiliation, mysterious background, and sudden appearance prior to a high-value contract to extract him alive and unharmed. He possesses no overt signs of noble lineage but is the target of a contract orchestrated by House T'sarran.",
+    "source_quote": "So then maybe there's more to me than meets the eye?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara",
+    "fact": "Ilvara is a High Priestess who built rituals around a fused sigil of Lolth and Zuggtmoy, indicating her devotion to two conflicting deities. She is now dead, her madness made physical in the stitched cloth found in the chamber.",
+    "source_quote": "It was Ilvara's madness made physical \u2014 the thing she'd built her rituals around while she was becoming something that served two masters and understood neither.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Nym",
+    "fact": "Nym is an expressive, skeptical individual who questions Daz\u2019s origins and dismisses the idea of hidden noble lineage as a common delusion among drow. She is irritated by the scale of the contract and the lack of transparency.",
+    "source_quote": "That is an excellent question. You don't belong to any noble house, your background is a complete mystery, you suddenly show up, and all of a sudden, we're contracted to protect a nobody.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kaelira",
+    "fact": "Kaelira is a professional, reserved investigator who analyzes evidence without speculation. She prioritizes facts over theory and acknowledges the limits of their mandate.",
+    "source_quote": "Perhaps, but we're not paid to think that hard.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz was the subject of a high-value contract by House T'sarran to extract him alive and unharmed, implicating him as a target of significant interest. His true identity remains unknown.",
+    "source_quote": "There had been a contract. Extract Daz alive and unharmed. House T'sarran behind it.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "House T'sarran",
+    "fact": "House T'sarran commissioned a contract to extract Daz alive and unharmed, using professional Drow mercenaries and routing the order through their network. They are a house with sufficient reach to make such a contract binding.",
+    "source_quote": "There had been a contract. Extract Daz alive and unharmed. House T'sarran behind it.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "House Mizzrym",
+    "fact": "House Mizzrym employed guards and a mage who were killed in the chamber. The mage carried a signet ring of House T'sarran, suggesting she was acting on their behalf despite her affiliation.",
+    "source_quote": "The dead soldiers of House Mizzrym would never collect their pay.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "destruction of fungal corruption",
+    "fact": "Grygum destroyed the pulsing fungal growth tied to Zuggtmoy\u2019s influence using acid, reducing it to ash. The corruption had been slowly spreading up the stone platform and was actively radiating necromantic energy.",
+    "source_quote": "He opened his mouth, and the acid came out clean and decisive, and the fungal matter that had spent months becoming something wrong collapsed into ash in the time it takes to exhale.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "discovery of the fused sigil",
+    "fact": "A leather-wrapped bundle containing incense cones, a silver bowl, and a cloth stitched with the intertwined sigils of Lolth and Zuggtmoy was found. The cloth is evidence of Ilvara\u2019s heretical rituals and her transformation into a servant of dual, conflicting deities.",
+    "source_quote": "Inside: incense cones, a silver bowl small enough to fit in one hand, and a cloth that had been stitched with two sigils \u2014 Lolth's web worked into the eight-fold geometry of Zuggtmoy's mark, one woven inside the other.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "uncovering the contract documents",
+    "fact": "Partially burned documents were recovered, confirming a contract issued by House T'sarran to extract Daz alive and unharmed. The documents were intentionally damaged but not fully destroyed, suggesting the destruction attempt failed due to the value of the information.",
+    "source_quote": "They'd been partially burned, which meant someone had tried to destroy them and hadn't quite managed it, which meant the information in them was exactly the kind of thing worth knowing.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "T'sarran signet ring",
+    "fact": "A signet ring bearing the unmistakable seal of House T'sarran was found on the dead mage. It serves as proof of her connection to the house and as a key to understanding the contract\u2019s origin.",
+    "source_quote": "I found the signet ring first \u2014 House T'sarran, the seal unmistakable on the face of it.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "obsidian wand with captive spider",
+    "fact": "An obsidian wand with a spider preserved in amber at its tip was recovered from the mage. It is a magical artifact of unknown origin and function, possibly tied to her necromantic or arachnid-based rituals.",
+    "source_quote": "Then the wand: obsidian, a captive spider preserved in amber at its tip.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "fused sigil cloth",
+    "fact": "A cloth stitched with the intertwined sigils of Lolth and Zuggtmoy, one woven inside the other, was found in the bundle. It is not mere decoration \u2014 it is evidence of heretical ritual practice and the mage\u2019s psychological collapse.",
+    "source_quote": "It was Ilvara's madness made physical \u2014 the thing she'd built her rituals around while she was becoming something that served two masters and understood neither.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Daz's true identity",
+    "fact": "Daz\u2019s origins are completely unknown. He has no noble lineage, no documented background, and yet he was the target of a high-stakes contract by a powerful house. His true identity and why he was targeted remain unresolved.",
+    "source_quote": "You don't belong to any noble house, your background is a complete mystery, you suddenly show up...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "House T'sarran's motive",
+    "fact": "The reason House T'sarran sought to extract Daz alive \u2014 rather than kill him \u2014 is unknown. Their motive, beyond the contract, and their connection to the mage and the chamber\u2019s events, remain unexplained.",
+    "source_quote": "Somebody had spent a significant amount of gold to ensure that the elf standing to my left made it out of this cavern breathing.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Ilvara's dual devotion",
+    "fact": "Ilvara\u2019s fusion of Lolth and Zuggtmoy\u2019s sigils suggests a heretical synthesis of two opposing deities. The implications of her transformation and whether she was acting alone or under external influence are unresolved.",
+    "source_quote": "It was Ilvara's madness made physical \u2014 the thing she'd built her rituals around while she was becoming something that served two masters and understood neither.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occurred during the current session, following the arrival of the mage with her mercenary escort and culminating in the discovery of the contract and artifacts.",
+    "source_quote": "We'd been trying to piece together since the mage had arrived with her mercenary escort.",
+    "quote_verified": false
+  }
+]

@@ -47,3 +47,7 @@ related: []
 - **Uncle Joon's True Motives**: Despite his claims of altruism, Thistle suspects Uncle Joon's true motives are self-serving. He withheld critical information about Kroskas and the fairies' involvement in his experiments.
 - **Uncle Joon's Reliability**: Thistle distrusts Uncle Joon's stated motivations and finds him unreliable, manipulative, and deeply in debt everywhere he goes.
 - **Uncle Joon's Knowledge**: He possesses valuable information about Kroskas, the Kraken Society, and ancient dragons, but he has withheld crucial details about Laela's situation and the fairies' r
+
+## Related
+
+- [[glazhael_the_undying]]

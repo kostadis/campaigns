@@ -9,3 +9,7 @@ sources: ["iskander.md"]
 ---
 # Iskander Mission Success
 Was Iskander's mission within the Cult of the Dragon successful and how did this impact the raid on Xonathal's tower?
+
+## Related
+
+- [[iskander-mission]]

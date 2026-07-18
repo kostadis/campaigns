@@ -1,0 +1,134 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is currently in Deneir's Sanctum under guard, having successfully stolen the potion of flying using Glabbagool's arm, and is silently observing the group's dynamics with detached calculation.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is Zalthir's ooze-covered arm that autonomously stole the potion of flying from the safe; it is now possessing the vial and has expressed satisfaction with its performance, though it has not yet been formally trained.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch is in charge of guarding the Alkrist safe and now Deneir's Sanctum; he is obsessed with procedure and has been elevated to a position of false authority, unaware that the potion of flying has been stolen.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm is the leader of the Avowed who declared the safe of no further interest; she is weary of the spectacle and has ordered the group to be escorted to their chambers, unaware that the potion of flying has been removed.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Fembris Lancer",
+    "fact": "Fembris Lancer is imprisoned in Deneir's Sanctum and serves as an unwilling companion to the escapees; he is trusted by no one but eats without suspicion, making him the group's designated food taster.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daral",
+    "fact": "Daral is an escapee who has shifted from arrogance to quiet desperation, now openly pleading for his own cure while internally fearing he is not worth the spell.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is an escapee who speaks with irreverent pragmatism; he initiated the food taster protocol and questions whether Daral should be cured, reflecting the group's moral ambiguity.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is an escapee who communicates in cryptic numerical shorthand; he suggested Fembris as taster using '118' and remains undecided on whether to cure Daral, embodying cautious deliberation.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "The Avowed",
+    "fact": "The Avowed are a scholarly order that opened the Alkrist safe and now oversee the detention of escapees; they have concluded their investigation prematurely, sealing the safe and assigning Kalan to guard duty, unaware of the theft.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "theft of the potion of flying",
+    "fact": "The potion of flying was stolen from the Alkrist safe by Glabbagool's arm while the Avowed were distracted by the red herring coin; no one noticed, and the safe was resealed with everything else inside.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "food taster protocol",
+    "fact": "The group established an informal food taster protocol using Fembris Lancer, with Daz's '118' signaling his selection; he ate without harm, reinforcing the group's survivalist pragmatism.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Deneir's Sanctum",
+    "fact": "Deneir's Sanctum is a former office filled with books and scholarly artifacts, now used as a holding cell; it is under guard and has become the site of moral deliberation and quiet theft.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "potion of flying",
+    "fact": "The potion of flying was one of two magical potions recovered from the Alkrist safe; it was stolen by Glabbagool's arm and is now hidden in Zalthir's ooze, undetected by all present.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "potion of superior healing",
+    "fact": "The potion of superior healing was recovered from the Alkrist safe alongside the potion of flying; it remains in the safe, which was resealed and declared of no interest.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "fat purse of gold coins",
+    "fact": "A fat purse of gold coins was recovered from the Alkrist safe; it remains inside the safe, which was resealed and declared of no interest.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "red herring coin",
+    "fact": "One gold coin from the Alkrist safe had a red herring stamped on it; it was used as a red herring to distract the Avowed, and remains in the sealed safe.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Daral's cure",
+    "fact": "Whether to cure Daral of his condition remains unresolved; the group is divided, and the decision is delayed, reflecting their moral fatigue and uncertainty about value and loyalty.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "location of the sapphire",
+    "fact": "Zalthir attempted to locate a sapphire on Bookwyrm using a spell and found nothing; its absence suggests it was never there or has been removed, leaving its whereabouts unknown.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Glabbagool's autonomy",
+    "fact": "Glabbagool's arm acted without instruction to steal the potion of flying; its capacity for independent action is untrained and unexplained, raising questions about its origin and future behavior.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "evening in Deneir's Sanctum",
+    "fact": "The events in Deneir's Sanctum occur during the evening hours, following the opening of the safe; the group waits until later this evening before being escorted to their chambers.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is an ooze-like entity fused to Zalthir's arm; it demonstrated autonomous predatory behavior by stealing the potion of flying and is now a latent threat with unknown capabilities.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is the silent architect of the theft; he allowed the group\u2019s chaos to mask his move, and now carries the potion of flying without detection, his internal monologue revealing a mind that trusts only his own precision.",
+    "quote_verified": false
+  }
+]

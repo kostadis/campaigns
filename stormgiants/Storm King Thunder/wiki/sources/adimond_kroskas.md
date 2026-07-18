@@ -1,95 +1,48 @@
 ---
 type: source
-title: Source: adimond_kroskas.md
-created: 2026-05-13
-updated: 2026-05-20
-tags: [dossier, antagonist, intelligence]
-related: [iymrith, thistle-wendrod, laela]
+title: "Source: adimond_kroskas.md"
+created: 2026-06-05
+updated: 2026-06-05
 sources: ["adimond_kroskas.md"]
-authors: []
-year: 2026
-url: ""
-venue: ""
+tags: []
+related: []
 ---
 
-# Adimond Kroskas Dossier
+# Source: adimond_kroskas.md
 
-A detailed intelligence dossier regarding the individual known as **Adimond Kroskas**. This document serves as a primary source for understanding the political mask used by the ancient blue dragon [[iymrith]] to infiltrate the [[storm-giant-court]].
-
-The dossier covers:
-- The dual identity of the entity.
-- Historical connections to the [[cult-of-tiamat]].
-- Details regarding [[hybridization-experiments]] performed on [[thistle-wendrod]] and [[laela]].
-- Current status following the collapse of the [[eye-of-the-all-father]].
-
-## Executive Summary
-
-Adimond Kroskas is a rogue spellcaster and free agent who operates under a political mask. While appearing to be a human or humanoid entity, he is actually an Ancient Blue Dragon (identified as [[iymrith]]) operating under an alias. He is a central antagonist, acting as a manipulator within the [[storm-giant-court]] and maintaining complex, often predatory, relationships with various factions.
+This analysis covers the dossier for **Adimond Kroskas**, a high-stakes antagonist and complex political actor within the campaign.
 
 ## Key Entities
+*   **Adimond Kroskas / Iymrith (Central):** The primary subject. A dual-identity figure: an "alchemist" and advisor in the Storm Giant court, and an Ancient Blue Dragon known as "the Doom of the Desert." 
+    *   *Status:* Exists in wiki as `adimond-kroskas` and `iymrith`.
+*   **Thistle Wendrod (Central):** Kroskas’s primary foil. A victim of Kroskas's experiments who views him as his arch-nemesis.
+    *   *Status:* Exists in wiki.
+*   **Harshnag (Central):** A legendary ally who sacrificed himself to fight Kroskas during the temple collapse.
+    *   *Status:* Exists in wiki.
+*   **Laela (Central):** Thistle’s love interest and a victim of Kroskas's hybridization experiments.
+    *   *Status:* Exists in wiki.
+*   **Serissa, Mirran, & Nym (Peripheral/Contextual):** Members of the Storm Giant court. Kroskas uses them as pawns to destabilize Serissa’s leadership.
+*   **Sandesyl Morgia (Peripheral):** A source who provided information on Kroskas's hybrid-dragon experiments.
+    *   *Status:* Exists in wiki.
+*   **Unla Kee (Peripheral):** Identified by the Seer as having a personal rivalry with "Adirond Kroskas."
+    *   *Status:* Exists in wiki.
 
-### People
-
-| Name | Role/Description | Importance |
-| :--- | :--- | :--- |
-| **Adimond Kroskas** | Rogue spellcaster; Ancient Blue Dragon [[iymrith]] | Central |
-| **Thistle Wendrod** | Arch nemesis; subject of experimentation | Central |
-| **Queen Serissa** | Storm Giant court leader | Central |
-| **Mirran & Nym** | Storm Giant court advisors; secret allies of Kroskas | Central |
-| **Uthor** | Storm Giant court leader | Central |
-| **Harshnag** | Ancient Blue Dragon; killed by Kroskas | Peripheral |
-| **Severin** | Former Cult of Tiamat member | Peripheral |
-| **Kolbaz** | Cult of Tiamat member; killed by Kroskas | Peripheral |
-| **Laela** | Thistle's love; subject of Kroskas's experiments | Peripheral |
-| **Sandesyl Morgia** | Former Cult of Tiamat member | Peripheral |
-| **Unla Kee** | Seer | Peripheral |
-
-### Organizations
-- **Storm Giant Court**: Central; the primary theater of Kroskas's political manipulation.
-- **Cult of Tiamat**: Peripheral; Kroskas operated independently for them before abandoning them.
-- **Cult of the Dragon**: Peripheral.
-
-### Tools, Products & Datasets
-- **Oracle of Annam**: Central; a source of information.
-- **Eye of the All-Father**: Central; location of the first encounter.
-- **Drake-hybrid magic**: Created by Kroskas.
-- **Spring's First Blossom**: Used in a ritual.
-
-## Key Concepts & Phenomena
-
-### Theories, Methods & Techniques
-- **Hybrid Magical Creatures**: Kroskas performs experimentation on subjects like [[thistle-wendrod]] and [[laela]].
-- **Ancient Blue Dragon**: The true nature of Kroskas.
-- **Rituals**: Utilized by the [[cult-of-tiamat]].
-
-### Phenomena
-- **Transformation**: The ability to shift between two creature forms.
+## Key Concepts
+*   **Hybridization Experimentation:** The practice of magically fusing different creature types (e.g., fairy-dragon hybrids). This is central to Kroskas's role as a "messed-up" alchemist.
+    *   *Status:* Exists in wiki (`hybridization-experiments`).
+*   **Dual Identity / Political Masking:** The use of "Adimond Kroskas" as a social/political persona to mask the identity of Iymrith. This allows him to operate within the Giant court despite dragon-giant enmity.
+    *   *Status:* Related to `disguised-influence` and `cover-identity-as-merchant`.
+*   **Contractual Opportunism:** Kroskas’s behavior as a "free agent" who abandons organizations (the Cult) when they no longer serve his interests, prioritizing personal power over ideology.
+    *   *Status:* Related to `mercenary-logic` or similar themes of pragmatism.
+*   **Strategic Destabilization:** Kroskas’s method of using "proxies" (Mirran and Nym) to undermine a leader (Serissa) while maintaining a facade of loyalty.
+    *   *Status:* Related to `layered-command-structure`.
 
 ## Main Arguments & Findings
+*   **Kroskas is a Master Manipulator:** The source establishes that Kroskas operates on multiple levels—publicly as an advisor, privately as a conspirator with Mirran/Nym, and secretly as a powerful dragon.
+*   **The "Adimond" Persona is a Tool:** His presence in the Storm Giant court is not a matter of friendship but a strategic position to influence the *Ordning*. 
+*   **Evidence of High-Level Threat:** His involvement in creating Drakes for the Cult and his ability to manipulate high-ranking giants suggests he is a major regional power player.
+*   **Strength of Evidence:** Very strong. The d
 
-### Core Claims & Results
-- **Dual Identity**: Adimond Kroskas is an Ancient Blue Dragon operating under an alias.
-- **Political Infiltration**: He is secretly allied with Mirran and Nym within the Storm Giant court, using them to manipulate court disputes.
-- **Cult Affiliation**: He is a rogue spellcaster and free agent, not a formal member, though he operated independently for the [[cult-of-tiamat]] before abandoning them.
-- **Orchestrated Conflict**: He orchestrated the Cult's targeting of [[thistle-wendrod]].
-- **Violent History**: He is responsible for the death of Kolbaz and the death of Harshnag.
-- **Current Status**: He is present at the Maelstrom alongside Giant leadership.
+## Related
 
-### Evidence Supporting Claims
-- **Physical Transformation**: Kroskas's transformation into an Ancient Blue Dragon upon seeing Harshnag.
-- **Behavioral Evidence**: Thistle's emotional reaction to evidence of Kroskas's influence and Thistle's theory linking Kroskas to the Cult's targeting of them.
-- **Political Observation**: Kroskas's covert manipulation of Mirran and Nym during court disputes.
-- **Corroboration**: Kroskas's presence at the Maelstrom alongside Giant leadership.
-
-**Strength of Evidence**: Strong; corroborated by multiple sources and character reactions.
-
-## Connections to Existing Wiki
-
-- `adimond_kroskas.md`: This dossier directly relates to the main entity.
-- `storm_giants.md`, `cult_of_tiamat.md`, `dragon_cults.md`: Update with Kroskas's role and connections.
-- `thistle_wendrod.md`: Expand interactions with Kroskas.
-- `kolyaz.md`: Clarify Kroskas's connection to Kolbaz.
-- `mirran_nym.md`: Detail their alliance with Kroskas.
-- `serissa.md`: Update her relationship with Kroskas.
-- `harshnag.md`: Document his death at Kroskas's hands.
-- `lala.md`: Document her connection to Kroskas's experiments.
+- [[lord_zymorven]]

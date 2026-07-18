@@ -1,0 +1,1050 @@
+[
+  {
+    "type": "npc",
+    "subject": "Daral",
+    "fact": "Daral is alive but in a state of diminished capacity, having inadvertently ingested poison while reclaiming it from a book, and is now awaiting restoration that he is not ready to receive.",
+    "source_quote": "He had licked his finger, licked the book, then licked his finger again.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a meticulous investigator who has observed the pattern of those who share critical information immediately before healing, and is concerned that Daral will disappear once restored.",
+    "source_quote": "The ones who ran the moment they felt better were usually the ones who'd shared their most valuable information right before the healing.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a seasoned leader who recognizes patterns in behavior, manages administrative burdens with dry pragmatism, and has a long history with Glabbagool.",
+    "source_quote": "I have carried this cube from the Underdark through several extremely dangerous situations.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a gelatinous cube capable of genuine emotional experience, particularly nostalgia for cheese, and evaluates all input for nutritional value with detached precision.",
+    "source_quote": "I remember when there was cheese. Perhaps if we had some cheese.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Fembris Lancer",
+    "fact": "Fembris Lancer is an earnest cleric who sought to present a monograph on the quadrangle issue, was disoriented by the transfer of his work to Glabbagool, and failed to recognize the absence of key party members.",
+    "source_quote": "Where are the four of you? Who were the rest of you? I didn't see you at the talk.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Bahamut's clergy",
+    "fact": "The clergy of Bahamut are involved in the quadrangle issue, with members like Grygum and Fembris Lancer engaging in doctrinal discourse and record-keeping.",
+    "source_quote": "As a cleric of Bahamut, might I say that your entire position on the quadrangle issue was, in fact, a brilliant insight...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "quadrangle issue resolution",
+    "fact": "The quadrangle issue was discussed in a colloquium that produced significant insight and record-keeping, with participants reacting as if to a resurrection or revelation.",
+    "source_quote": "The talk had gone well. Extraordinarily popular, as I was informed by several people on my way out.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "the colloquium venue",
+    "fact": "The venue for the colloquium is a space where formal discussions occur, followed by administrative handoffs and emotional reckonings, and is associated with the presence of Glabbagool.",
+    "source_quote": "I indicated Glabbagool.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "the poisoned book",
+    "fact": "The poisoned book was the medium through which the poison was delivered to Janussi and later reclaimed by Daral, becoming the catalyst for his self-contamination.",
+    "source_quote": "The book had delivered the poison to Janussi, and Daral had taken it back, as men who give gifts sometimes do when the recipient fails to appear sufficiently grateful.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "the poison",
+    "fact": "The poison is a substance with deliberate, almost ritualistic transmission properties, transferred with the same care whether given to others or ingested by the bearer.",
+    "source_quote": "He'd delivered it to himself with the same care.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "missing party members",
+    "fact": "The absence of four key party members during the colloquium went unremarked upon by Fembris Lancer, suggesting a prior separation or concealment that remains unexplained.",
+    "source_quote": "Where are the four of you? Who were the rest of you? I didn't see you at the talk.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the cheese",
+    "fact": "Glabbagool\u2019s memory of cheese represents a persistent, emotionally resonant loss from the past, one that underscores his non-human but deeply felt inner life.",
+    "source_quote": "I remember when there was cheese.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occur in the immediate aftermath of a colloquium, with follow-up actions scheduled for the next day, indicating a temporal anchor of 'tomorrow' for the draft submission.",
+    "source_quote": "He promised a draft by tomorrow.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi is the intended recipient of the poison delivered by the book, whose failure to appear sufficiently grateful triggered Daral\u2019s retrieval and subsequent contamination.",
+    "source_quote": "The book had delivered the poison to Janussi... when the recipient fails to appear sufficiently grateful.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Fembris's notes",
+    "fact": "Fembris's notes contain his intellectual and spiritual reflections on the quadrangle issue, and are ultimately deemed non-nutritious by Glabbagool, symbolizing the futility of his scholarly effort.",
+    "source_quote": "This is not nutritious.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "continuity of the missing man",
+    "fact": "A prior party member, similar to Daral in behavior, was previously sent away, creating a pattern of post-healing disappearance that Grygum recognizes as recurrent.",
+    "source_quote": "Didn't we have somebody like that with our party anyhow? Did we already send him away? Oh, that's the same guy.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is documenting the methodology of murder at Candlekeep, noting distinctions in narrative framing, monograph authorship, and investigative logic, and has rejected the notion that co-authorship constitutes a monograph.",
+    "source_quote": "I'm sorry \u2014 it would not be a monograph if we wrote it together.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Elian",
+    "fact": "Elian is seeking to write a monograph on murder investigation techniques and is attempting to secure Grygum\u2019s endorsement through a preface or introduction, emphasizing the value of stature and counterfactual analysis even without a solved case.",
+    "source_quote": "Even if all I could write was that these techniques *would have* helped, the academic community would still approve.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep operates on an unspoken currency of scholarly prestige, where monographs and endorsements are markers of influence, as evidenced by multiple individuals (Fembris, Elian) vying for authorial recognition.",
+    "source_quote": "This was the second person at Candlekeep to angle for a monograph. First Fembris, now Elian.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "murder investigation",
+    "fact": "The murder investigation centers on a poisoned book framing a colleague, with two distinct threads: the apothecary intrusion (involving Alkrist) and the later removal of the heart and looting of the safe, suggesting a coordinated but non-overlapping scheme.",
+    "source_quote": "Zalthir had caught that this referred to the apothecary intrusion, not whoever had later removed the heart and looted the safe: two separate acts, two separate threads.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Alkrist's safe",
+    "fact": "Alkrist's safe remains unopened and is a persistent unresolved thread, with multiple characters (Zalthir, Glabbagool, Grygum) recognizing that Glabbagool\u2019s ability to consume matter could bypass it \u2014 though the method was never employed.",
+    "source_quote": "open threads: Alkrist's safe, unopened.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a gelatinous cube capable of consuming solid matter, including walls and safes, and has explicitly stated that physical barriers present no obstacle to his methodology, though his offer to consume Alkrist's safe was not acted upon.",
+    "source_quote": "Walls don't stop us. I can eat through walls.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Oak Tree Apothecary",
+    "fact": "The Oak Tree Apothecary is the site of the apothecary intrusion, where A'lai requested fennel from Leuwin, and a dragonborn arrived \u2014 later identified as Alkrist \u2014 creating the first thread of the murder investigation.",
+    "source_quote": "A'lai had shown up at the Oak Tree Apothecary at half past two on the day of the murder, asking Leuwin for fresh fennel.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "sapphire and locket",
+    "fact": "The sapphire and locket are linked artifacts in the investigation, with the locket being in the possession of a living person and the sapphire required to locate a lost locket \u2014 suggesting the two are mutually exclusive tools in the thief\u2019s methodology.",
+    "source_quote": "You can't steal a locket off someone who's alive and holding it. You need the sapphire to find a locket that's already lost.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "poisoned book",
+    "fact": "The poisoned book is the primary frame in the murder, used to implicate a colleague and disappear evidence \u2014 a method deemed overly elaborate yet effective, and central to Elian\u2019s proposed investigative thesis.",
+    "source_quote": "Poisoned book, frames a colleague, and disappears the evidence. Too elaborate. Which is exactly why it worked.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Speak with Dead inquiry",
+    "fact": "Grygum raises a fundamental epistemological question about the reliability of deceased narrators, challenging the assumption that magical resurrection of speech guarantees truth or neutrality in investigation.",
+    "source_quote": "Well, I'm interested \u2014 even if we were able to actually cast Speak with Dead, how do you know they're a reliable narrator? What are their motivations after they're dead? We don't know. Because they're dead.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "monograph authorship",
+    "fact": "A persistent thread in the narrative is the tension over scholarly credit \u2014 whether co-authorship, introductions, or prefaces constitute legitimate academic contribution \u2014 reflecting deeper institutional values at Candlekeep.",
+    "source_quote": "Prefaces are decorative. Introductions frame the argument.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a key observer who correctly identified the separation between the apothecary intrusion and the heart looting, and is aware of Glabbagool\u2019s capabilities but chose stealth over brute force in the investigation.",
+    "source_quote": "Zalthir had been in Alkrist's chambers. He'd asked Glabbagool whether Glabbagool could squeeze through the crack.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool possesses unwavering confidence in his ability to consume any physical barrier and has offered to eat through Alkrist\u2019s safe \u2014 a solution dismissed for its lack of subtlety, though logically sound.",
+    "source_quote": "I guess I could have eaten through the safe. It would have taken a while.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Alkrist's chambers",
+    "fact": "Alkrist's chambers are the location of the unopened safe and the site where Zalthir and Glabbagool discussed physical access \u2014 revealing a gap in the investigation where a viable solution was available but unutilized.",
+    "source_quote": "open threads: Alkrist's safe, unopened.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "academic pitch",
+    "fact": "Elian\u2019s academic pitch frames the murder investigation as a model for criminal methodology across Faer\u00fbn, using Grygum\u2019s stature as leverage \u2014 a strategy that mirrors institutional power dynamics at Candlekeep.",
+    "source_quote": "Having someone of my *stature* involved would do wonders for criminal investigation across Faer\u00fbn.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "stature and falling",
+    "fact": "Grygum reflects on the nature of scholarly stature, linking it to personal history \u2014 specifically Velkynvelve \u2014 where prestige is built on repeated failure and resilience rather than external recognition.",
+    "source_quote": "Whatever stature looked like from the outside, it was built on a lot of falling first.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "counterfactual thesis",
+    "fact": "A counterfactual thesis is proposed \u2014 that the murder techniques *would have* helped even if unsolved \u2014 challenging the assumption that academic value requires resolution, and introducing epistemological ambiguity into the investigation.",
+    "source_quote": "Counterfactual, but I think that's a different thesis, so...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "A'lai",
+    "fact": "A'lai is a suspect or witness who visited the Oak Tree Apothecary under the pretense of requesting fennel, creating the first layer of misdirection in the murder investigation.",
+    "source_quote": "A'lai had shown up at the Oak Tree Apothecary at half past two on the day of the murder, asking Leuwin for fresh fennel.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Alkrist",
+    "fact": "Alkrist is a dragonborn who arrived at the apothecary during the murder\u2019s initial phase and is associated with the first thread \u2014 the intrusion \u2014 though his direct role in the murder remains unconfirmed.",
+    "source_quote": "Alkrist was a dragonborn.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "investigative methodology",
+    "fact": "The investigation rejects magical shortcuts (e.g., Speak with Dead) in favor of layered, non-linear reasoning, emphasizing narrative framing, source reliability, and methodological restraint over spectacle.",
+    "source_quote": "Too many people, if you ask me, think: cast a spell, find the murderer. It doesn't work that way.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is assembling a framework for truth-seeking based on fixed facts over magical deception, rejecting the myth that the dead or magic reveal truth transparently, and values convergence of physical, testimonial, and procedural evidence.",
+    "source_quote": "You cannot rely on magic to make evidence meaningful. It makes evidence adversarial.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum contributed the maxim 'Once you have eliminated the impossible, whatever remains, however unlikely, must be the truth?' as his own insight to the group, though Thorin recognizes it as borrowed, and Grygum's dignity in claiming it is respected by the group.",
+    "source_quote": "Once you have eliminated the impossible, whatever remains, however unlikely, must be the truth?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Elian",
+    "fact": "Elian provides academic and textual support for the group\u2019s methodology, citing documents that argue magic creates contradictions rather than resolving them, and is eager to apply new principles to the investigation.",
+    "source_quote": "The myth of the person. The assumption that death is a transparency, that the dead have shed their performances...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir identified a temporal inconsistency in Sylvira\u2019s appearances \u2014 a two-hour gap between sightings \u2014 and deduced that a polymorph spell alone cannot explain it, indicating the use of something more complex or multiple applications of magic.",
+    "source_quote": "The Sylvira lookalike had been seen in the kitchens around one in the morning. She'd been seen coming down the stairs between two and three. That's a minimum two-hour gap. A polymorph spell lasts an hour.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Fembris Lancer",
+    "fact": "Fembris Lancer operates with monastic urgency, immediately taking initiative to hunt down Kalan Strongbranch without hesitation, embodying the art of the clean dispatch and showing no friction between decision and action.",
+    "source_quote": "I'm gonna have to hunt Kalan down... At some point I'll return with Kalan.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch, the First Reader, is the only known caster of the truth-seeking spell that previously anchored the investigation, and his current absence has become a critical point in the group\u2019s operational split.",
+    "source_quote": "Who can cast the truth spell? Yeah \u2014 Kalan Strongbranch.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sylvira",
+    "fact": "Sylvira is the subject of an unresolved anomaly: a lookalike has been sighted in two locations within a timeframe that defies standard polymorph spell duration, indicating deception beyond simple magic.",
+    "source_quote": "The Sylvira lookalike had been seen in the kitchens around one in the morning. She'd been seen coming down the stairs between two and three.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Dragonborn",
+    "fact": "Dragonborn share a conversational quality that removes layers of performance and introduction, allowing for direct, unmediated exchange \u2014 a dynamic Thorin intends to leverage with Alkrist.",
+    "source_quote": "Dragonborn to Dragonborn? Intimate... yeah, I'm fine with that.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "splitting the leads",
+    "fact": "The group split their investigative efforts cleanly: Grygum to investigate the third-story apartment in Janussi\u2019s chambers, Fembris to locate Kalan Strongbranch, and Thorin to address Sylvira\u2019s anomaly \u2014 each pursuing a distinct thread with no overlap.",
+    "source_quote": "Somebody go talk to Alkrist... I'm gonna go look into that... I'm gonna have to hunt Kalan down... We should do that.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "third-story apartment in Janussi's chambers",
+    "fact": "The third-story apartment in Janussi\u2019s chambers is an unvisited location where the wrapping paper from the poisoned book was taken; it holds physical evidence about Kalan that has not yet been examined.",
+    "source_quote": "The wrapping paper from the poisoned book had been taken there, and we hadn't gone back.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "polymorph spell",
+    "fact": "The polymorph spell has a known duration of one hour, which is insufficient to explain the two-hour gap between sightings of the Sylvira lookalike, indicating the use of something beyond standard magic.",
+    "source_quote": "A polymorph spell lasts an hour.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the Sylvira anomaly",
+    "fact": "A mystery persists regarding the Sylvira lookalike: her appearances violate known magical constraints, suggesting the use of an unknown or repeated magical effect, and remains unresolved despite the group\u2019s growing understanding.",
+    "source_quote": "Something more is going on here.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the missing truth spell caster",
+    "fact": "Kalan Strongbranch\u2019s absence creates a critical gap in the investigation, as he is the only known caster of the truth-seeking spell that previously anchored the case, and his location is now the focus of Fembris\u2019s mission.",
+    "source_quote": "Who can cast the truth spell? Yeah \u2014 Kalan Strongbranch.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session time anchor",
+    "fact": "The events described occur during a single investigative session, anchored by the morning\u2019s initial observations and progressing through afternoon developments without temporal jump.",
+    "source_quote": "The ground wasn't as solid as it had looked this morning.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sylvira",
+    "fact": "Sylvira was framed for the murder and is dying slowly under the poison's effect; she had every reason to tell everything she knew and no reasons left not to; she is bedridden and shuddering under fever but still capable of running a familiar and a mage hand from across the room, indicating she is not incapacitated.",
+    "source_quote": "The door opened before I knocked. A mage hand, which was interesting: she was bedridden and shuddering under a fever, and still running a familiar and a mage hand from across the room.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch's proposal for new criminal investigation methodologies was rejected by Janussi as solipsism and dismissed as a vanity project; Kalan then presented that same framework as his operating methodology to the investigation team, despite having been professionally humiliated by the victim.",
+    "source_quote": "Janussi had reviewed Kalan Strongbranch's proposal for new criminal investigation methodologies, found it to be solipsism, and had blocked it. He wasn't interested, he wrote, in creating all these rules and procedures so that Kalan could go detect a murder mystery.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi authored a scathing critique of Kalan Strongbranch's investigative framework, characterizing it as solipsism and a conceit pursued for personal entertainment; his notes were found on the third floor of his chambers, wrapped in paper that had once contained the poisoned book.",
+    "source_quote": "There was a note. 'Oh, a note! I read it.' The opening line landed like a thrown stone. 'Oh boy, this starts out with some real academic insult.'",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "wrapping paper",
+    "fact": "The wrapping paper that had enclosed the poisoned book was brought to Janussi\u2019s chambers and had not been retrieved as evidence; it was found on the third floor, linking the murder weapon to the location of Janussi\u2019s critical notes.",
+    "source_quote": "The paper that had wrapped the poisoned book had been brought here, and nobody had retrieved it. Evidence doesn't improve with age.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "third-story apartment",
+    "fact": "A third-story apartment with an open door in Janussi\u2019s chambers was unvisited and contained his private notes; it was the location where the wrapping paper and damning critique of Kalan were discovered.",
+    "source_quote": "There's something listed as a third-story apartment with an open door we haven't gone into. I'm gonna go look into that.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "rejection of Kalan's proposal",
+    "fact": "Janussi formally rejected Kalan Strongbranch\u2019s Threefold Proof methodology, labeling it solipsism and a professional conceit; this rejection occurred prior to his death and was documented in writing found in his chambers.",
+    "source_quote": "He wasn't interested, he wrote, in creating all these rules and procedures so that Kalan could go detect a murder mystery.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Alkrist's feast burning",
+    "fact": "There is an unflagged item in the list regarding what Alkrist burned at the feast; Grygum recalled this detail and recommended asking about it, suggesting a potential link between ritual destruction and the investigation.",
+    "source_quote": "When you talk to Alkrist, there's something in the list about what Alkrist burned at the feast \u2014 you should ask about that.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Menzoberranzan thread",
+    "fact": "The Menzoberranzan thread is implicated in the broader context of the investigation, influencing the choice of Daz as the interrogator due to his drow heritage and presumed familiarity with its networks.",
+    "source_quote": "Daz was the natural choice for it: he knew how to make someone talk, and he was drow, which was not irrelevant given what we knew about the Menzoberranzan thread running under all of this.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Janussi's third-floor chambers",
+    "fact": "Janussi\u2019s third-floor chambers were unexplored until Grygum\u2019s investigation; they contained his private notes, the wrapping paper from the poisoned book, and evidence of his reclusive and intimate habits.",
+    "source_quote": "The third floor was... well. 'Oh, well, that's not shocking. We kind of heard Janussi had these habits.'",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Sylvira's quarters",
+    "fact": "Sylvira\u2019s quarters served as the location of her interview; she remained physically compromised by poison and fever but retained magical autonomy, indicating deliberate resistance to incapacitation.",
+    "source_quote": "The door opened before I knocked. A mage hand, which was interesting: she was bedridden and shuddering under a fever, and still running a familiar and a mage hand from across the room.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "poison",
+    "fact": "A slow-acting poison is killing Sylvira; its effects are progressive and debilitating, yet she remains mentally and magically functional, suggesting the poison was designed to prolong suffering and extract information.",
+    "source_quote": "Sylvira was framed for the murder and dying slowly under the poison's effect.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "feast date",
+    "fact": "The feast during which Alkrist burned an unknown object occurred prior to the investigation; the timing is unrecorded but is now a flagged point of inquiry.",
+    "source_quote": "When you talk to Alkrist, there's something in the list about what Alkrist burned at the feast \u2014 you should ask about that.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sylvira",
+    "fact": "Sylvira is a tiefling abyssal spawn researching infernal domains, currently under suspicion for a 'horrible tragedy' she claims she did not commit, and believes she has been framed.",
+    "source_quote": "I'm willing to collaborate with anything, and I'm delighted \u2014 delighted \u2014 that you are leading the investigation.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daral Yashenti",
+    "fact": "Daral Yashenti is a drunken poet who sells his worthless poetry to fund a new library; Sylvira dismissed him as too disorganized and incapable of the planning required to frame her.",
+    "source_quote": "He's too much of a drunk to pull off something like that. That requires a level of planning and thought and care he's never demonstrated in any of his research.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kazryn Nyantani",
+    "fact": "Kazryn Nyantani is a former romantic partner of Janussi, replaced by Sylvira; Sylvira implicated her in the framing out of long-standing resentment, breaking down emotionally while doing so.",
+    "source_quote": "That bitter old hag, who always resented Janussi for ditching her in favor of me.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi is Sylvira\u2019s current romantic partner, previously involved with Kazryn Nyantani; their relationship likely contributed to Sylvira being perceived as a target.",
+    "source_quote": "This was my fault.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Menzoberranzan",
+    "fact": "Menzoberranzan is a drow city known for using psychological manipulation and deceit; Sylvira initially suspected its methods were being used against her but later dismissed the idea as a poor tactic.",
+    "source_quote": "If that was a trick the drow use in Menzoberranzan \u2014 to twist the knife in their unsuspecting victims \u2014 it was a poor one.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Overbright",
+    "fact": "The Overbright is a surface region where tieflings are assumed to be abyssal spawns; Sylvira is from there and faces prejudice due to her appearance and research focus.",
+    "source_quote": "In the Overbright, people look at a tiefling and assume she's an abyssal spawn.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Underdark",
+    "fact": "The Underdark is the subterranean realm from which Sylvira\u2019s interrogator recently returned; it is associated with suspicion and hostility toward surface dwellers.",
+    "source_quote": "I'd recently come up from the Underdark.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "framing incident",
+    "fact": "Someone has used Sylvira\u2019s likeness to commit acts she could not have performed, creating the appearance that she is responsible for a 'horrible tragedy'.",
+    "source_quote": "Your likeness has been seen moving around, doing things you couldn't possibly have done?",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "unpublished research",
+    "fact": "Sylvira may possess unpublished research that could be the real motive behind the framing, though she has not yet disclosed it.",
+    "source_quote": "Something she'd found and hadn't published yet.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "lilac robes",
+    "fact": "Sylvira wears lilac robes that fail to protect her from an internal cold, symbolizing her vulnerability despite her outward composure.",
+    "source_quote": "the lilac robes she'd wrapped herself in accomplishing nothing against a cold she clearly felt in her bones.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "This interview occurred during a single, continuous session with Sylvira, initiated by the interrogator\u2019s questions and ending with her speculative analysis of suspects.",
+    "source_quote": "I said it without ceremony. I had questions that needed her full cognitive engagement.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "abyssal spawn",
+    "fact": "Abyssal spawn is a biological classification Sylvira belongs to; it is the source of prejudice against her in the Overbright, though she is not a hostile entity.",
+    "source_quote": "She happened, technically, to be an abyssal spawn, so they weren't even wrong.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is the interrogator conducting the interview with Sylvira; he is from the Overbright, recently returned from the Underdark, and seeks testimony rather than confession.",
+    "source_quote": "I am merely one of many doing the investigation.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a colleague of Daz who is investigating a dead man\u2019s love nest three floors up; Daz contrasts his blunt style with Grygum\u2019s absence.",
+    "source_quote": "What I was trying to understand... was the blunter version of the same question: the one Grygum would have asked outright...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is an absent colleague of Daz, currently preparing to make Alkrist uncomfortable; he does not offer emotional support to Sylvira.",
+    "source_quote": "Thorin wasn't in the room to offer the easy sympathy.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Alkrist",
+    "fact": "Alkrist is a person Thorin is preparing to confront; their relationship is unknown, but their interaction is anticipated to be hostile.",
+    "source_quote": "He was off somewhere getting ready to make Alkrist very uncomfortable.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "frumpy old boar",
+    "fact": "Sylvira\u2019s cryptic reference to 'a frumpy old boar' during her emotional breakdown may hint at an unspoken rival or symbolic figure in her academic circle.",
+    "source_quote": "Something about a frumpy old boar.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "academic rivalry",
+    "fact": "Sylvira\u2019s research in infernal domains and her relationship with Janussi have created tensions within her academic circle, possibly motivating the framing.",
+    "source_quote": "Her area of research was the infernal domains, which compounded the prejudice. The relationship with Janussi had probably offended someone else on top of that.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Sylvira's quarters",
+    "fact": "Sylvira\u2019s quarters are artificially heated by a faux fireplace, yet she remains cold and shivering, reflecting her psychological and emotional state.",
+    "source_quote": "Her quarters were suffocating. A faux fireplace blazed along one wall... yet Sylvira kept shuddering anyway.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sylvira",
+    "fact": "Sylvira is distraught and feverish, grieving the last argument she had with Janussi, and claims to have been with her son after 12:30 AM, returning to her chambers alone before succumbing to an abyssal plague.",
+    "source_quote": "I returned to my chambers around 12:30... and saw no one.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi was Sylvira\u2019s partner and the victim of murder; he dismissed Kalan Strongbranch as incompetent and refused to intervene on his behalf, and was reportedly hostile toward Teles Ahvoste for nearly twenty years.",
+    "source_quote": "Janussi was right to want him gone. He was a clown, a boar, and his research was third-rate at best.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch sought Sylvira\u2019s intervention to retain his position, which she declined to pursue; his proposal for investigative controls was deemed absurd by Bookwyrm and rejected by Janussi.",
+    "source_quote": "He asked her to intercede with Janussi on his behalf... she never brought it up.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Teles Ahvoste",
+    "fact": "Teles Ahvoste harbored a two-decade institutional grudge against Janussi, having been passed over for Keeper of Tomes despite being older and more skilled, and Sylvira suspects Teles of fabricating sightings of her after the plague set in.",
+    "source_quote": "If anyone claimed to have seen her after that, it would be members of the avowed who had long nurtured hostility toward her. Great Readers included. She named Teles Ahvoste directly.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm opposed Kalan Strongbranch\u2019s investigative proposals as absurd, and may have obstructed the implementation of safeguards that could have prevented the murder.",
+    "source_quote": "When Janussi had raised it at some point, it was Bookwyrm who'd felt it was absurd. Bookwyrm who had pushed hardest against it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daral Yashenti",
+    "fact": "Daral Yashenti was dismissed by Sylvira as having motive but lacking execution capability, based on her knowledge of his work.",
+    "source_quote": "The same confident dismissal she'd given Daral: she knew her field.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kazryn Nyantani",
+    "fact": "Kazryn Nyantani holds a credible, long-standing resentment toward Sylvira and Janussi, with apparent capability to act on it.",
+    "source_quote": "Kazryn Nyantani: resentment credible enough to survive scrutiny, long-standing grudge, apparent capability.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Avowed",
+    "fact": "The Avowed are a faction with longstanding hostility toward Sylvira, suspected of fabricating post-plague sightings of her to discredit her, and include Great Readers such as Teles Ahvoste.",
+    "source_quote": "It would be members of the avowed who had long nurtured hostility toward her. Great Readers included.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "end-of-year meeting",
+    "fact": "The end-of-year meeting at 11:30 PM centered on a joint vision for a library dedicated to the Great Wheel of Planes, but ended in a private argument between Sylvira and Janussi.",
+    "source_quote": "It ended in an argument about a personal, private matter, she said.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "feast at the end-of-year gathering",
+    "fact": "The feast was a drab affair with unchanged dishes; Sylvira left early as flu symptoms began, and Alkrist\u2019s alleged burning of something remains unconfirmed.",
+    "source_quote": "She'd left early when the flu began coming on.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Kalan's proposal",
+    "fact": "Kalan Strongbranch proposed a set of investigative controls and restrictions that were deemed insane by Sylvira and absurd by Bookwyrm, and were rejected by Janussi.",
+    "source_quote": "His proposal, which she called insane, all sorts of investigative controls and restrictions.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Mordenkainen's Mansion",
+    "fact": "Sylvira constructed a Mordenkainen's Mansion specifically for the protection of her son, born in the Abyss, and attempted to coax him back into it.",
+    "source_quote": "She'd been trying to coax him back into it.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "abyssal plague",
+    "fact": "An abyssal plague, born in the Abyss, was transmitted to Sylvira by her son, causing fever and physical deterioration, and serves as her alibi for post-12:30 AM.",
+    "source_quote": "Her son... had infected her with an abyssal plague, born in the Abyss, which has consequences.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Sylvira's son",
+    "fact": "Sylvira's son is a sick tiefling born in the Abyss, living in a constructed Mordenkainen's Mansion, and is the vector of the abyssal plague that incapacitated Sylvira.",
+    "source_quote": "She had a son, born in the Abyss, living in a Mordenkainen's Mansion she'd constructed specifically for his protection.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "honey sighting",
+    "fact": "A witness claimed to have seen the murderer near the kitchen with honey; Sylvira vehemently denies ever consuming honey, calling the claim nonsense, and this detail undermines the credibility of the sighting.",
+    "source_quote": "Honey? I would *never* drink honey. What kind of nonsense is this?",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Alkrist's burning",
+    "fact": "Grygum sought to know whether Sylvira knew anything about Alkrist burning something at the feast; she responded with diplomatic silence, suggesting either non-witness status or irrelevance.",
+    "source_quote": "She received it with the diplomatic silence of someone choosing not to comment on something they either hadn't witnessed or had already assessed as irrelevant.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "timeline gap between 12:30 and 1:00 AM",
+    "fact": "Sylvira has no precise record of events between 12:30 and 1:00 AM due to fever and lack of a wristwatch; she was alone and incapacitated during this period.",
+    "source_quote": "Between 12:30 and 1 in the morning, feverish, alone.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "murderer's identity",
+    "fact": "Multiple suspects exist: Teles Ahvoste (motive, institutional hatred), Bookwyrm (obstruction), Kalan (rejected proposal), Kazryn (resentment), and Daral (motive but dismissed execution); Sylvira\u2019s alibi is verifiable but her testimony is filtered through grief and illness.",
+    "source_quote": "It was enough to work with.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "gift-wrapped book",
+    "fact": "The gift-wrapped book was concealed with wrapping paper bearing a deliberate straight cut and two sets of tears \u2014 one intentional, one incidental \u2014 indicating it was prepared in advance by someone who planned for Janussi's death and the subsequent disposal of evidence.",
+    "source_quote": "Someone had taken something sharp to this paper, and then wrapped it back around the contents, and tied the bow, and handed it to Janussi, or left it on a table, or had it carried by someone who had no idea what they were carrying.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "wrapping paper",
+    "fact": "The crumpled wrapping paper, retrieved from the dining hall trash, bore a clean, ruled edge inconsistent with casual unwrapping, suggesting it was reused or deliberately altered to conceal its origin and purpose.",
+    "source_quote": "A straight edge where there shouldn't be one. Someone had taken something sharp to this paper...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Alkrist",
+    "fact": "Alkrist presented a rehearsed performance of grief and admiration for Janussi, demonstrating self-absorption so pronounced it rendered irony invisible to him, while being unaware he was under a truth spell.",
+    "source_quote": "He entered Janussi's chambers with the careful energy of a man who had rehearsed his arrival, and then deployed grief the same way: deliberately, as an announcement he wanted witnessed.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "1001 Tashalian Nights",
+    "fact": "The book 1001 Tashalian Nights was found bookmarked in Alkrist\u2019s chambers, and the marked passage was known to contain dangerous or subversive material, suggesting Alkrist had studied it with intent.",
+    "source_quote": "The book was on a shelf, bookmarked. I had read the section it was bookmarked to.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool was present throughout the interrogation without being asked to observe, yet he paid attention regardless, indicating an innate or supernatural awareness of significant events.",
+    "source_quote": "Glabbagool was in the room with us, settled near the far wall. He had been there since the beginning. I had not asked him to pay attention. He simply did.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "identity of the gift-giver",
+    "fact": "The gift-wrapped book was delivered in a manner that ensured Janussi would not suspect its danger, and the wrapping paper was discarded where no one would look \u2014 indicating the perpetrator never entered Janussi\u2019s rooms and planned for the aftermath of his death.",
+    "source_quote": "Someone had walked out of Janussi's rooms, or never entered them at all, carrying discarded wrapping paper they felt was safe to throw away in the dining hall, because who looks at trash?",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "connection between Alkrist and the book",
+    "fact": "Alkrist possesses a copy of the 1001 Tashalian Nights with a dangerous passage bookmarked, but his knowledge of its contents and his relationship to the gift-wrapped book remain unconfirmed under truth spell.",
+    "source_quote": "I had read the section it was bookmarked to. There was a class at the monastery... about what you find in someone's room telling you more than what they'd ever say with their face.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "truth spell activation",
+    "fact": "Kalan activated a truth spell outside Alkrist\u2019s interrogation room, rendering Alkrist incapable of deception \u2014 though he remained unaware of its effect.",
+    "source_quote": "Kalan was outside the door. As of right now, Alkrist could not lie. He didn't know that yet.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum conducted the investigation with meticulous attention to physical details, applied Bahamut\u2019s restoration cantrip to recover hidden information from the wrapping paper, and recognized the crime as premeditated rather than opportunistic.",
+    "source_quote": "I took notes. The straight cut. The two sets of tears, the deliberate and the incidental. The fact that someone had walked out of Janussi's rooms... That is the kind of detail that belongs in a file you keep very carefully.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Candlekeep Keepers",
+    "fact": "Janussi, a Keeper of Candlekeep, was deceived by a gift that concealed lethal intent, suggesting the perpetrator exploited the scholarly trust inherent in the institution\u2019s culture.",
+    "source_quote": "a scholar who'd spent a lifetime reading things carefully, never noticed. Had opened it. Had thanked whoever sent it, maybe. Had been pleased.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Alkrist",
+    "fact": "Alkrist confessed to poisoning Janussi by applying midnight tears to a book, and later washed his hands in water after the act to remove traces, but did not kill Janussi directly. He claims he was under mind control and forced to speak truths against his will.",
+    "source_quote": "I didn't actually kill him. I just put some poison on a book.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "A'lai",
+    "fact": "A'lai was the one who set the plot in motion by giving Alkrist a reason to want Janussi dead, likely through a performance review that dismissed him and condemned his germ warfare research.",
+    "source_quote": "Then the performance review with Janussi: dismissed, told his germ warfare research was dangerous and should be stopped, told he showed no leadership potential.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm was appalled by Alkrist's actions, argued with him, stormed off, and later became a suspect in Janussi\u2019s death due to her access to powerful magic and her emotional reaction to the poisoning.",
+    "source_quote": "Appalled, he said. She had been appalled, and they argued, and then she was gone.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is an institution where powerful spells, including polymorph, are accessible to those with sufficient standing, implying that no single individual like Bookwyrm needed to be uniquely responsible for the heart-ripping transformation.",
+    "source_quote": "At Candlekeep, finding such a spell was simply a matter of calling up the right avowed to bring you a scroll from somewhere.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Janussi's final day",
+    "fact": "On his final day, Janussi delivered verdicts to Alkrist, A'lai, and Bookwyrm \u2014 each independently giving them motive to want him dead \u2014 through budget reviews, performance evaluations, and succession disputes.",
+    "source_quote": "By the end of his last day alive, Janussi had managed to hand Bookwyrm, Alkrist, and A'lai, separately, apparently without coordination, reasons to want him gone.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Tashalian Nights",
+    "fact": "Tashalian Nights was the book used to conceal the poison, specifically marked at the 'midnight tears' passage, annotated and bookmarked by Alkrist as a reference point for his plan.",
+    "source_quote": "Tashalian Nights,\" he said. \"Yes, yes, yes \u2014 that would, that would exactly\u2014",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Midnight tears",
+    "fact": "Midnight tears is a deadly poison, applied to a book and later transferred to Janussi\u2019s body, leaving traces on the margins of Tashalian Nights and on Alkrist\u2019s hands.",
+    "source_quote": "Midnight tears. Tidy, annotated, marked: the margins of a man who had been studying rather than reading.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Oak Tree Apothecary",
+    "fact": "The Oak Tree Apothecary was the location where the stolen vial of midnight tears was originally obtained, and where peppermint was spilled on the counter floor during the cover-up.",
+    "source_quote": "The Oak Tree Apothecary, the stolen vial, peppermint spilled on the counter floor.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Dead Winter tree",
+    "fact": "The Dead Winter tree was used as a symbolic location to attach the torn vial label as decoration, part of the cover-up to obscure the method of poisoning.",
+    "source_quote": "The vial's label torn off and tied to the back of the Dead Winter tree as decoration.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Janussi's death",
+    "fact": "Janussi died after being transformed \u2014 his heart ripped out \u2014 likely via a polymorph spell, but not directly by Alkrist\u2019s poison. The poison may have weakened him or served as a trigger.",
+    "source_quote": "Ripped out his heart? What? His heart was ripped out?",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "unknown orchestrator",
+    "fact": "Someone else \u2014 not Alkrist, A'lai, or Bookwyrm \u2014 knew about the chalice\u2019s hidden purpose and likely orchestrated the final transformation, suggesting a fourth or higher-level conspirator.",
+    "source_quote": "Someone had known about the chalice: what it was for, what could be hidden inside it, why no one would think to look there without specific reason. That someone was not Alkrist.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "mind control claim",
+    "fact": "Alkrist claims he was under mind control during his confession, a claim that was acknowledged but not verified, leaving the authenticity of his testimony in ambiguous territory.",
+    "source_quote": "I am under mind control, and everything I have said is so true.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz concluded the investigation, documented the confession, and recognized that Alkrist\u2019s account implicated at least three people, with Kalan as a witness who now holds a complete record.",
+    "source_quote": "The confession had gone into the account, and there was nothing left to dispute.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan",
+    "fact": "Kalan, the man who had been fired, stood outside during Alkrist\u2019s confession and now holds a complete and unfiltered account of the plot\u2019s mechanics.",
+    "source_quote": "Kalan had been standing just outside through all of it, which meant the man who'd been fired now held a rather complete account.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Brother Quellin's quote",
+    "fact": "The phrase 'They all stabbed him' \u2014 attributed possibly to Brother Quellin or Brother Harren \u2014 frames Janussi\u2019s death as the result of collective betrayal, not individual action.",
+    "source_quote": "They all stabbed him, came the answer.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Midnight visit to Bookwyrm",
+    "fact": "Alkrist visited Bookwyrm at midnight, brought two bottles of wine and two glasses, announced their problems with Janussi were solved, and left as she stormed off in anger.",
+    "source_quote": "The midnight visit to Bookwyrm: two bottles of the finest wine, two glasses, and the announcement that all their problems with respect to Janussi had been solved.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Chalice",
+    "fact": "The chalice was a hidden vessel with a secret purpose, likely used to conceal the transformation mechanism or the final trigger for Janussi\u2019s death, known only to an unknown third party.",
+    "source_quote": "Someone had known about the chalice: what it was for, what could be hidden inside it, why no one would think to look there without specific reason.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "collective betrayal",
+    "fact": "Janussi\u2019s death was not the act of one killer, but the culmination of multiple independent motives converging \u2014 a model of political assassination where the victim becomes the architect of his own demise.",
+    "source_quote": "Janussi had spent his last day in a library full of people who had already decided, and he had offered each of them one more reason on his way through.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "A'lai",
+    "fact": "A'lai is a drow scholar with Underdark connections, possibly Menzoberranzan ties, who was involved in a conspiracy that ended Janussi's life and has now been exposed. He possesses highly sensitive information that has not yet been exploited and represents the first credible lead in the investigation into Daz's patron.",
+    "source_quote": "A'lai, moreover, is a drow. He might have information that Daz needs.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is the unresolved focal point of a long-running investigation into a hidden patron whose identity remains unknown. The patron's motives and affiliations have eluded detection for months, despite multiple attempts to trace debts, obligations, and influences.",
+    "source_quote": "The column I had been maintaining since Kaelira told me bluntly that someone powerful was paying to protect a man she couldn't understand.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Menzoberranzan",
+    "fact": "Menzoberranzan is a drow city-state where political survival depends on eliminating enemies before they accumulate too much power. The city's brutal efficiency in resolving internal threats is referenced as a model for how power structures self-correct.",
+    "source_quote": "In Menzoberranzan, you do not get to accumulate that many enemies before the city resolves the problem for you.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "exposure of Janussi's assassination",
+    "fact": "Janussi's murder, initially disguised as an administrative action, was exposed as a targeted elimination tied to blackmail and conspiracy. The investigation dismantled the cover story in a single afternoon, revealing the perpetrator's attempt to frame the act as organizational restructuring.",
+    "source_quote": "The man who treats blackmail as a kind of career knows how to make his own history sound administrative.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "use of the zone of truth",
+    "fact": "The zone of truth was employed successfully without waste, confirming the guilt of multiple suspects and accelerating the investigation. Its effectiveness was acknowledged as a decisive, though not indispensable, tool.",
+    "source_quote": "The zone of truth as a mechanism, which had worked without waste and which I would not pretend was anything other than what it was: a shortcut, and an elegant one.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "poisoned book",
+    "fact": "The poisoned book was a weapon used to kill or incapacitate Janussi, later reclaimed from Daral. It was central to the murder plot and remains a tangible piece of evidence linking suspects to the crime.",
+    "source_quote": "We had a confession, a poisoned book reclaimed from Daral...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "note in Janussi's own hand",
+    "fact": "A handwritten note found on the third floor contains Janussi's final thoughts or instructions, potentially implicating others or revealing his awareness of the conspiracy. It is a key piece of documentary evidence.",
+    "source_quote": "...a note in Janussi's own hand found on the third floor.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "identity of Daz's patron",
+    "fact": "The identity of the patron paying to protect a man unknown to Kaelira remains unresolved. This thread has persisted for months, with every lead receding \u2014 until A'lai, a compromised drow with Underdark connections, emerged as the first plausible conduit to the truth.",
+    "source_quote": "The patron entry had been blank for months. Every time I thought I was close to something, it receded.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "blackmail as a career",
+    "fact": "The group has identified blackmail not as a crime of opportunity but as a sustained profession \u2014 potentially practiced by A'lai. This thread suggests a deeper, systemic corruption within Candlekeep\u2019s hierarchy, where assassination is masked as administrative action.",
+    "source_quote": "In these murder mysteries, you often find somebody who treats blackmail as a kind of career.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is a center of scholarly power where intellectual ambition intersects with political danger. Its internal conflicts are being reframed as workforce restructuring, suggesting institutional corruption and the normalization of violence under bureaucratic language.",
+    "source_quote": "File the assassination under *workforce restructuring*. Enter it in the column marked *organizational efficiency*.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "A'lai (as a threat)",
+    "fact": "A'lai is not merely a suspect but a latent threat: a drow scholar who has weaponized silence, discretion, and blackmail to survive in a world where exposure equals death. His knowledge of Daz\u2019s patron makes him uniquely dangerous \u2014 and uniquely valuable.",
+    "source_quote": "He needed, above all other things, discretion. I will not call it a commodity exactly. I will call it the most reliably underpriced resource in the world...",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "the day of the investigation's conclusion",
+    "fact": "The investigation reached its decisive moment on a single day marked by confessions, revelations, and the emergence of A'lai as the central pivot. The timeline is compressed \u2014 a conspiracy ended, a patron\u2019s trail revived, and a new strategy for leverage crystallized \u2014 all within hours.",
+    "source_quote": "We had dismantled the whole account apart in an afternoon.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan",
+    "fact": "Kalan is the wronged party with standing in the investigation, whose motivation and thoroughness make him the natural candidate to receive and act upon the collected evidence. His position as the moral center of the group is unchallenged.",
+    "source_quote": "Kalan was the party who had been wronged, Kalan had standing, Kalan was presumably motivated to be thorough.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is the group\u2019s pragmatic strategist, consistently pushing for actionable outcomes \u2014 whether extracting books from suspects or framing blackmail as a career path. His instincts align with material gain and control, making him the most vocal advocate for exploiting the evidence.",
+    "source_quote": "I have a mission in mind.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is the group\u2019s narrative architect, frequently reframing violent events as administrative or bureaucratic processes. He is the first to voice the idea of blackmail as a profession and the first to recognize A'lai\u2019s potential role in the larger conspiracy.",
+    "source_quote": "We could always decide to blackmail one or more of them.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is the group\u2019s confirmatory voice, repeatedly validating emerging conclusions with minimal elaboration. His role is to reflect consensus rather than drive it, lending credibility to the group\u2019s direction.",
+    "source_quote": "That's where I was.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "wisdom vs. intelligence",
+    "fact": "The group distinguishes between intelligence \u2014 knowing what options exist \u2014 and wisdom \u2014 knowing which ones ensure survival. This thread underpins the entire investigation, framing Janussi\u2019s death as a failure of wisdom and A'lai\u2019s survival as an exercise in it.",
+    "source_quote": "Intelligence tells you what the options are. Wisdom tells you which ones you survive.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Underdark",
+    "fact": "The Underdark is referenced as a realm of hidden power, where drow like A'lai operate beyond the reach of surface laws. Its influence is felt in the secrecy, longevity, and lethality of the conspiracy tied to Candlekeep.",
+    "source_quote": "A'lai is a drow scholar with Underdark connections...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "wrapping paper reassembled by Grygum",
+    "fact": "The carefully reassembled wrapping paper is a symbolic artifact \u2014 evidence of obsessive attention to detail, possibly containing hidden messages or serving as a metaphor for reconstructing truth from fragments.",
+    "source_quote": "...Grygum's carefully reassembled wrapping paper...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "reclassification of assassination as workforce restructuring",
+    "fact": "The group has collectively accepted the narrative that Janussi\u2019s murder was an act of organizational efficiency \u2014 a deliberate framing by the perpetrator to obscure criminal intent under bureaucratic language. This reclassification is now being treated as both a cover story and a real insight into the power structure.",
+    "source_quote": "Enter it in the column marked *organizational efficiency*.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "A'lai",
+    "fact": "A'lai does not pay in gold or books; he pays in what he knows \u2014 specifically, knowledge about whoever is paying Menzoberranzan rates to keep a nobody drow evoker alive and functional \u2014 and that is the only price he is interested in collecting.",
+    "source_quote": "A'lai does not pay in gold, and does not pay in books. A'lai pays in what he knows. And what he knows about whoever is paying Menzoberranzan rates to keep a nobody drow evoker alive and functional: that is the only price I am interested in collecting.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "mysterious payer to Menzoberranzan",
+    "fact": "An unknown entity is paying Menzoberranzan rates to keep a nobody drow evoker alive and functional, and the identity of this payer is the focus of A'lai\u2019s knowledge-based payment.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "nobody drow evoker",
+    "fact": "A nameless drow evoker is being kept alive and functional through payments to Menzoberranzan, and their existence is tied to the hidden payer and A'lai\u2019s knowledge-based terms.",
+    "quote_verified": false
+  }
+]

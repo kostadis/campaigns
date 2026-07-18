@@ -17,3 +17,10 @@ Concept referring to the financial arrangements made by Hsing with the party. Ce
 ## Notes
 - Made by Hsing.
 - Central to the SEER's conflict and operations.
+
+## Related
+
+- [[seer]]
+- [[spymaster]]
+- [[secret-organization]]
+- [[region]]

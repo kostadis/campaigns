@@ -1,0 +1,156 @@
+[
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is a gnome companion who made a bet about the party needing a rest, celebrated winning it, and later made a specific bet about arming an army with acid-resistant gear and retrieving ingredients from a fungal wedding. His unusual knowledge and deference shown by gnomes suggest he holds a significant unstated position in Blingdenstone.",
+    "source_quote": "Jimjar excitedly announced they were only a day's journey from Blingdenstone and immediately made a bet that someone would demand a rest.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a drow member of the party who was met with suspicion by gnome guards due to his heritage, but was vouched for by Thorin. He explained he and his companions were friends seeking assistance after escaping detention in the Underdark, and urged caution in judging people based on their origins.",
+    "source_quote": "Daz explained they were friends seeking assistance after escaping detention in the Underdark.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is an orc cleric of Bahamut who vouched for the party's truthfulness, surprising the gnome guards with his unusual faith and challenging their prejudice against drow.",
+    "source_quote": "Thorin, the orc cleric of Bahamut, vouched for the party's truthfulness, surprising the guards with his unusual faith.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a sentient gelatinous cube companion that initially panicked the gnome guards but was reassured as friendly after helping the party. It demonstrated sentience by speaking and revealed it gained thought and speech after an unknown event, while noting an unusual increase in agitated oozes \u2014 an 'oozapalooza.'",
+    "source_quote": "Glabbagool spoke, demonstrating its unique sentience, the guards were astonished.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth is a party member who evolved her perspective on drow, admitting she was raised to believe all drow were evil but now recognizes that only followers of Lolth are the true problem, and that other drow may be redeemable people shaped by terrible environments.",
+    "source_quote": "Eldeth admitted she had been raised to believe that all drow were evil and should be killed on sight, but her experiences with Daz had taught her that not all drow were inherently wicked.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Chief Dorbo Diggermattock",
+    "fact": "Chief Dorbo Diggermattock is a leader in Blingdenstone whom the guards recommended the party speak with regarding full permissions, especially concerning Glabbagool.",
+    "source_quote": "The guards recommended speaking with Chief Dorbo Diggermattock and Quartermaster Senni about full permissions, especially regarding Glabbagool.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Quartermaster Senni",
+    "fact": "Quartermaster Senni is a Blingdenstone official recommended by the guards for the party to consult regarding full permissions, particularly concerning Glabbagool.",
+    "source_quote": "The guards recommended speaking with Chief Dorbo Diggermattock and Quartermaster Senni about full permissions, especially regarding Glabbagool.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Blingdenstone gnomes",
+    "fact": "Blingdenstone gnomes are currently in control of the city after multiple historical shifts between gnome and drow rule. They are experiencing difficulties including an ooze problem and deep-seated prejudice against drow, despite having allies like Thorin and Daz.",
+    "source_quote": "Blingdenstone had changed hands between gnomes and drow multiple times throughout its history, and while currently in gnome control, the city was experiencing some difficulties.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Drow cult of Lolth",
+    "fact": "The drow cult of Lolth is identified as the true source of evil among drow, responsible for corruption and violence in the Underdark, and is the target of opposition by Eldeth and others who distinguish between cultists and other drow.",
+    "source_quote": "Eldeth emphasized that followers of Lolth should be opposed, but that other drow might be redeemable people who had simply grown up in a terrible environment.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Underdark evils",
+    "fact": "Underdark evils are a collective threat that gnomes and dwarves can ally against, despite competing for underground resources.",
+    "source_quote": "The conversation turned to the relationship between gnomes and dwarves, who competed for underground resources but could ally against Underdark evils.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Oozes",
+    "fact": "Oozes are a serious and growing problem in Blingdenstone, described as agitated and abnormal, with Glabbagool noting an 'oozapalooza' \u2014 a surge in their activity that alarms the city's defenders.",
+    "source_quote": "They revealed that Blingdenstone was experiencing a serious ooze problem, which made Glabbagool's presence particularly concerning.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Juiblex",
+    "fact": "Juiblex is the demon lord of oozes and shapeless things, associated with the corrupted nature of the Abyss and described as a being of unrivaled obscenity that corrupts everything into a shapeless mess. Jimjar reacted painfully when Juiblex was mentioned.",
+    "source_quote": "The mention of oozes triggered a memory about Juiblex, the demon lord of oozes and shapeless things. Jimjar's demeanor changed noticeably when the demon lord was mentioned, as if recalling something painful.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Dark Lake",
+    "fact": "The Dark Lake is the destination where the party arrived, drenched and miserable after traveling through cold waters, marking the beginning of their approach to Blingdenstone.",
+    "source_quote": "The party arrived at the shores of the Dark Lake, drenched and miserable from their journey through the cold waters.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Blingdenstone",
+    "fact": "Blingdenstone is a gnome city accessed via a long, tedious staircase carved for gnome-sized feet. Its massive gates are constructed of steel, mithral, and adamantine. The city is currently in gnome control but faces internal difficulties including prejudice and an ooze infestation.",
+    "source_quote": "The approach to Blingdenstone required ascending a long, tedious staircase carved for gnome-sized feet... When they reached the massive gates\u2014constructed of steel, mithral, and adamantine\u2014eight gnome guards confronted them with suspicion.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "the maze",
+    "fact": "The maze is a defensive network of twisty tunnels designed with deadly traps to eliminate invading armies, located within Blingdenstone and traversed by the party after gaining entry.",
+    "source_quote": "The party proceeded through an area known as 'the maze,' a defensive network of twisty tunnels designed with deadly traps to eliminate invading armies.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "acid-resistant gear",
+    "fact": "Acid-resistant gear is the subject of a specific bet made by Jimjar, who predicted the party would need to arm an army with it before the month ended, likely in response to the ooze problem and Glabbagool's warning.",
+    "source_quote": "Jimjar then made a remarkably specific bet that the party would need to arm an army with acid-resistant gear before the month ended.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "ingredients for acid-resistant gear",
+    "fact": "Ingredients for acid-resistant gear are the subject of a side bet made by Jimjar, who claimed they would need to be retrieved from a fungal wedding celebration, indicating an unusual and specific knowledge of Blingdenstone\u2019s hidden rituals or resources.",
+    "source_quote": "He added a side bet that they would need to retrieve ingredients for those weapons from a fungal wedding celebration.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Jimjar's unstated position",
+    "fact": "Jimjar\u2019s unusual knowledge, deference shown by gnomes, and specific bets suggest he holds a significant but unstated position in Blingdenstone \u2014 possibly tied to its history, oozes, or the cult of Juiblex \u2014 which remains unexplored.",
+    "source_quote": "His unusual knowledge and the deference shown to him by the other gnomes suggested he held some significant but unstated position in Blingdenstone.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "oozapalooza",
+    "fact": "The 'oozapalooza' \u2014 Glabbagool's term for the surge in agitated oozes \u2014 is an unexplained phenomenon that may be linked to Juiblex's influence or a deeper corruption in the Underdark, and represents an urgent threat to Blingdenstone.",
+    "source_quote": "Glabbagool explained that it had gained the ability to think and speak after an unknown event and had noticed an unusual increase in agitated oozes in the area, describing it as an 'oozapalooza.'",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "fungal wedding celebration",
+    "fact": "The fungal wedding celebration is a mysterious cultural event referenced by Jimjar as the source of rare ingredients needed for acid-resistant gear, suggesting hidden gnome traditions or alchemical practices tied to the Underdark\u2019s ecology.",
+    "source_quote": "He added a side bet that they would need to retrieve ingredients for those weapons from a fungal wedding celebration.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Glabbagool's origin",
+    "fact": "Glabbagool gained sentience and speech after an unknown event \u2014 possibly tied to Juiblex or the ooze surge \u2014 and its origin remains unexplained, raising questions about whether it is a victim, a weapon, or something else entirely.",
+    "source_quote": "The gelatinous cube explained that it had gained the ability to think and speak after an unknown event...",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "before the month ended",
+    "fact": "Jimjar\u2019s bets are time-bound to occur before the end of the current month, establishing a narrative deadline for the party\u2019s next actions related to the ooze threat and gear preparation.",
+    "source_quote": "Jimjar then made a remarkably specific bet that the party would need to arm an army with acid-resistant gear before the month ended...",
+    "quote_verified": false
+  }
+]

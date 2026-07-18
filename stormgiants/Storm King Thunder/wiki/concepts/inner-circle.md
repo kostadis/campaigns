@@ -11,3 +11,7 @@ sources: ["iskander.md"]
 A select group within an organization, typically trusted members.
 Matters in Source: Iskander’s role as an inner circle member of the Cult of the Dragon.
 Existing in Wiki: Likely exists
+
+## Related
+
+- [[secret-organization]]

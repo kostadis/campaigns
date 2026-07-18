@@ -1,69 +1,43 @@
 ---
 type: source
-title: Source: bob_saget.md
-created: 2026-05-13
-updated: 2026-05-20
+title: "Source: bob_saget.md"
+created: 2026-06-05
+updated: 2026-06-05
 sources: ["bob_saget.md"]
-tags: [intelligence, demonic-entity, antagonist]
-related: ["bob-saget", "kaelen-sarssir", "the-3hpp", "the-1489-treaty", "the-astral-empires"]
-authors: []
-year: 2025
-url: ""
-venue: ""
+tags: []
+related: []
 ---
 
-# Bob Saget Intelligence Profile
-
-Comprehensive intelligence dossier regarding the demonic entity known as **Bob Saget**. This source covers his identity as a Massively Powerful Entity (MPE), his theatrical ritualistic murders in silverymoon, his relationship with [[kaelen-sarssir]], and the geopolitical implications of his existence regarding [[the-1489-treaty]] and [[the-astral-empires]].
-
-## Executive Summary
-Bob Saget is a Massively Powerful Entity (MPE) and demon lord who escaped from the Abyss. He operates as an actor and theater impresario, utilizing a unique demonic portfolio to orchestrate ritualistic murders and theatrical events. His presence has significant geopolitical implications for interplanar law and the stability of the Material Plane.
-
-## Identity and Demonic Portfolio
-- **Name and Type:** Bob Saget (Demon), actor, and theater impresario.
-- **Classification:** Massively Powerful Entity (MPE).
-- **Demon Portfolio:** A collection of demonic powers centered around jokes and traditional punishments, highlighting his unique abilities and motivations.
+# Source: bob_saget.md
 
 ## Key Entities
 
-### Primary Entities
-- **Bob Saget (Demon):** Central figure; a demon lord and MPE.
+| Name | Type | Role | Status |
+| :--- | :--- | :--- | :--- |
+| **Bob Saget** (MPE) | Demon / Entity | **Central.** A "Massively Powerful Entity" and demon of dad jokes. He is a primary antagonist/contractual foil who uses theater as a front for ritualistic murder. | New Entry |
+| **Kaelen Sarssir** | NPC | **Central.** Bob’s creative partner; wrote the summoning play that freed him from the Abyss. | Existing |
+| **The 3HPP** | Organization | **Central.** The party's collective identity/group. They are currently in a high-stakes transactional relationship with Bob. | Exists (as concept) |
+| **Iymrith** | Entity | **Central.** An Ancient Blue Dragon; the target of Bob’s planned public humiliation and "performance." | Existing |
+| **Unla Kee** | Party Member | **Central.** The member who physically banished Bob using a bag-of-holding explosion. | Existing |
+| **Orsik** | Party Member | **Central.** Primary point of contact for negotiations with Bob; target of specific inquiries regarding "DNRR." | Exists (as Orsik) |
+| **Pow** | Party Member | **Peripheral.** A fan of Bob’s pre-villain persona; unaware of his true nature. | Existing |
+| **Vardis** | Party Member | **Peripheral.** Summoned Bob via Planar Ally and identified the script as a summoning ritual. | Existing |
+| **Thistle Wendrod** | Party Member | **Peripheral.** Informed by Vardis regarding the danger of the script. | Existing |
+| **Lord Zymorven** | NPC | **Peripheral.** Legal authority who noted Bob’s "legal" status despite his actions. | New Entry |
+| **Darathra** | NPC | **Peripheral.** Provided warning that Bob's banishment was temporary. | New Entry |
+| **Drow Mage / Cambions** | Minions | **Peripheral.** Forces commanded by Bob for corpse animation and defense. | New Entry |
 
-### Secondary & Peripheral Entities
-- **Organizations:**
-  - **3HPP (Silverymoon):** An organization with historical ties to Bob.
-  - **Trading House / Chromax:** An organization involved in interplanar commerce.
-- **Characters:**
-  - **Kaelen:** Author.
-  - **Orsik:** Character (referenced "DNRRR").
-  - **Unla Kee:** Character.
-  - **Lord Zymorven:** Character.
-  - **Darathra:** Character.
-  - **Vardis / Thistle:** Characters.
-  - **Iymrith:** Character (involved in current status/pending deals).
-- **Locations & Structures:**
-  - **Talking Troll Theater:** A theater associated with Bob's activities.
-- **Military & Minions:**
-  - Drow Knights, Cambions, and Drow Mages.
-- **Alien Species:**
-  - Githyanki, Githzerai, and Mindflayers.
+## Key Concepts
 
-## Historical & Narrative Events
+| Name | Definition | Significance | Status |
+| :--- | :--- | :--- | :--- |
+| **MPE (Massively Powerful Entity)** | A title/status of high-level demonic power. | Establishes Bob's scale; he is not a minor nuisance but a significant cosmic threat. | New Entry |
+| **1489 Treaty** | An agreement regarding the "Export Regulation of Interplanar Storage Devices." | Provides a legal framework for why Bob’s presence on Toril triggers alarms from Astral empires (Githyanki, etc.). | New Entry |
+| **Joke-based Portfolio** | A specific demonic domain over humor and its associated punishments. | Explains his unique "brand" of malice; he views comedy as a tool for ritualistic murder. | New Entry |
+| **Ritualized Murder Theater** | Using public performance to mask the collection of victims for a zombie army. | The core mechanism of his plot in Silverymoon; blends entertainment with dark magic. | New Entry |
+| **DNRR** | An acronym/term Bob asked Orsik about. | A mystery point; suggests potential prior knowledge or a specific hidden interest in Orsik. | New Entry |
+| **Hybridized Dragons** | Specifically, "zombie blue chromatic dragons hybridized with purple worms." | The agreed-upon payment
 
-### The Silverymoon Theater Incident
-Bob orchestrated ritualistic murders within silverymoon, utilizing his theatrical background to conduct these events.
+## Related
 
-### Summoning Ritual
-A central ritual used to summon Bob from the Abyss, which is critical to his narrative arc and his ability to operate between planes.
-
-### Historical Context & Legal Implications
-- **1489 Treaty on Export Regulation of Interplanar Storage Devices:** An international agreement regulating the export of interplanar storage devices. This treaty influences Bob's interactions with the party and his potential return to the Material Plane.
-- **DNRRR:** A term or concept referenced by Orsik; its nature is unclear, suggesting a secret or unknown aspect of Bob's background or plans.
-
-## Intelligence Findings
-- **Core Claims:**
-  - Bob is an MPE who escaped the Abyss to operate as a demon lord.
-  - He has orchestrated murders through theatrical means.
-- **Current Status:**
-  - Ongoing investigations into pending deals involving [[Iymrith]].
-  - Monitoring of legal and interplanar implications regarding his existence.
+- [[sage_vusk]]

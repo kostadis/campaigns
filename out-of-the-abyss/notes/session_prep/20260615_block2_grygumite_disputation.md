@@ -70,8 +70,8 @@ academic whose field has been upended overnight.
 *"The Oval Theatre. Right now. Half the Avowed are already there."* He is not exaggerating:
 **Bookwyrm will be there** (absence is a political statement she cannot afford during a lockdown),
 **Teles** will be in the back row looking amused, **Fheminor** will attend and leave early,
-**A'lai** — a bronze dragonborn — will not sit out a debate about whether his nature determines
-his acts. The disputation is happening whether Grygum comes or not; Vareth just needs him in
+**A'lai** — a drow — will not sit out a debate about whether his nature determines
+his acts (a question that bites a drow as hard as anyone). The disputation is happening whether Grygum comes or not; Vareth just needs him in
 the room so the empirical half of the argument has a body.
 
 Grygum goes. He has no real choice and doesn't look for one — this is the kind of pull he'd
@@ -316,7 +316,7 @@ strike eleven."* One sentence. No explanation. Let them feel the window.
 ## Anticipated Player Questions
 
 **"Can we go watch the lecture?"** Yes. Oval Theatre. Observe who sits where, who watches
-Bookwyrm, how A'lai holds himself when the nature-of-dragons question turns personal. The room
+Bookwyrm, how A'lai holds himself when the nature-binds-acts question turns personal. The room
 is a small evidence map.
 
 **"Where is Kalan?"** Sea Warden's Tower — unless the afternoon window has closed (Scene B).

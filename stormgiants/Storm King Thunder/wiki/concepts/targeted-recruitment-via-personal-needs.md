@@ -39,3 +39,7 @@ It also exposes the fragility of moral conviction: even the most principled indi
 This tactic is the quiet opposite of [[weaponization-of-personal-debt]]. Where Adabra weaponizes debt to destroy, Jenna offers fulfillment to seduce. Both are forms of control — one through guilt, the other through hope.
 
 In a world where gods are silent, the most powerful lure is not divine truth — it is the promise that someone finally sees you.
+
+## Related
+
+- [[recruitment-through-institutional-influence]]

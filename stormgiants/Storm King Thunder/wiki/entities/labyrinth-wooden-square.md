@@ -14,3 +14,7 @@ A small, intricately carved wooden square etched with a labyrinth maze. Found in
 It is not magical, not obviously functional, and has no known inscription or material significance. Its presence suggests it may be a symbolic object — perhaps a token from a lost companion, a memory device, or a ward against intrusion. Falcon never references it, and no one has attempted to interpret its design.
 
 Its inclusion among deeply personal artifacts implies it holds emotional or psychological weight, possibly tied to the same trauma that shaped the ring and ears. It may represent a path he once walked, a choice he could not escape, or a puzzle he never solved. Its ambiguity reinforces the theme of [[narrative-economy]] — its meaning is not revealed, but its presence lingers, haunting the edges of Falcon’s story.
+
+## Related
+
+- [[wooden-elven-ears-my-dearly-beloved]]

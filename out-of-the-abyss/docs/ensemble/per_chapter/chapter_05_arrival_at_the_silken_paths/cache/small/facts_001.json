@@ -1,0 +1,156 @@
+[
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a monk who uses his ability to shape water into blocks of ice to provide drinking water for the group. He is methodical and focused on practical survival solutions.",
+    "source_quote": "When they next find water, he will use his ability to shape water to transform it into a block of ice.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is a botanist with deep knowledge of Underdark flora. He identifies and explains the properties of Barrelstalk mushrooms, Ormu moss, and Trillimac fungi. He is a compulsive gambler who makes high-risk bets, often against himself.",
+    "source_quote": "Jimjar explains that the Barrelstalk mushroom can produce 1-4 gallons of water and five to 10 pounds of nutritious food.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth covers the rear of the caravan, obscuring evidence of the group\u2019s passage. She is frequently annoyed by the excessive help offered by others, especially Daz and Grygum.",
+    "source_quote": "Eldeth covers the rear as they travel, trying to obscure any evidence of their travels.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a former gambler turned monk who has vowed never to gamble again. He is intensely observant and uses psychological deduction to exploit Jimjar\u2019s compulsive betting behavior. He is increasingly frustrated by the group\u2019s lack of resources and Jimjar\u2019s refusal to take losing sides.",
+    "source_quote": "Zalthir tries to test his theory, 'I\u2019ll bet you can\u2019t fly to the roof of this cavern?'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a half-orc who steps in to make a bet with Jimjar after Zalthir refuses. He wins the bet and demonstrates a willingness to engage in risky gambles despite knowing the odds.",
+    "source_quote": "Grygum steps forward, 'I\u2019ll make that bet.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a member of the caravan who discovers a pool of water on the 8th day, enabling Daz to create ice blocks for the group.",
+    "source_quote": "Thorin finds a pool of water.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith rouses the group each morning and is the first to recognize their arrival at the Silken Paths. He provides detailed knowledge of the structure and nature of the spiderweb network.",
+    "source_quote": "Sarith rouses everyone in the morning, 'We must continue.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Shuushar",
+    "fact": "Shuushar is a pragmatic member of the group who anticipates future water availability at the Darklake, offering reassurance amid scarcity.",
+    "source_quote": "Shuushar sighed, 'Soon, we will be at the Darklake, and we will have more water than we ever knew what to do with it.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido is fascinated by Eldeth\u2019s trail-obscuring techniques and later asks Sathir for clarification on the nature of the Silken Paths, showing curiosity about environmental features.",
+    "source_quote": "Buppido asks, 'Although I know what they are, what do you think they are, Sathir?'",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Drow",
+    "fact": "The Drow are an ever-present threat in the Underdark, whose patrols the escapees are trying to evade. Their presence motivates the group\u2019s stealth and route choices.",
+    "source_quote": "Are you not interested in avoiding the drow?",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Silken Paths",
+    "fact": "The Silken Paths are a vast, dynamic network of spiderwebs spanning a 500-foot-deep, 2,000-foot-wide chasm stretching five miles. The webs are constantly renewed by giant spiders and are partially traversable, forming a treacherous maze.",
+    "source_quote": "The Silken Paths are a network of spider webs crisscrossing a 500-foot-deep, 2,000-foot-wide chasm that stretches for nearly five miles.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Darklake",
+    "fact": "The Darklake is a future destination on the caravan\u2019s route, anticipated to provide abundant water to alleviate the group\u2019s current scarcity.",
+    "source_quote": "Soon, we will be at the Darklake, and we will have more water than we ever knew what to do with it.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Underdark",
+    "fact": "The Underdark is the vast, lightless subterranean realm through which the escapees are traveling. It is home to dangerous creatures, strange flora, and hidden paths.",
+    "source_quote": "As the caravan of escapees moves through the Underdark...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Barrelstalk mushrooms",
+    "fact": "Barrelstalk mushrooms are a type of Underdark fungus that produces 1\u20134 gallons of water and 5\u201310 pounds of nutritious food. They are vital to the group\u2019s survival.",
+    "source_quote": "Jimjar explains that the Barrelstalk mushroom can produce 1-4 gallons of water and five to 10 pounds of nutritious food.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Ormu moss",
+    "fact": "Ormu is a bioluminescent moss that emits a dim light for 5 feet and can be dried into a phosphorescent powder or pigment. Zalthir collects it for potential future use.",
+    "source_quote": "Jimjar explains that it is a fungus called 'Ormu. In addition to shedding a dim light for 5 feet, it can be harvested, dried, and made into a phosphorescent powder or pigment.'",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Trillimac mushrooms",
+    "fact": "Trillimac is a large mushroom with a leathery cap that can be processed into materials for maps, hats, and scrolls, and a stalk that yields bread-like food. It grows to 4\u20135 feet tall and is rare and valuable.",
+    "source_quote": "Jimjar, a botanist, explains it is a mushroom that grows to a height of four to five feet and has a broad gray-green cap and a light gray stalk.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Giant spiders",
+    "fact": "Giant spiders inhabit the Silken Paths chasm and continuously spin new webs, causing the structure to be ever-changing and dangerous. They are the reason the web network is unstable.",
+    "source_quote": "The major strands of the web are traversable. Still, the Silken Paths are ever-changing because old webs disintegrate over time and the giant spiders inhabiting the chasm constantly spin new ones.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Goblins",
+    "fact": "Two goblins appear at the Silken Paths, dressed in loose clothing and covered in tattoos written in a corrupted draconic script that actually spells goblin words. Their presence suggests possible scouts or local inhabitants.",
+    "source_quote": "Two goblins appear. They are dressed in relaxed, comfortable shoes... their bodies are covered in tattoos written in draconic. The spelling is wrong. And it\u2019s only through happenstance that Zalthir realizes they are writing goblin words using a draconic script.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Zalthir\u2019s betting theory",
+    "fact": "Zalthir has developed a psychological theory that Jimjar will continue to make irrational, self-sabotaging bets. He is testing this theory by provoking Jimjar into betting against himself, believing that if he can force Jimjar to take the losing side, he will win.",
+    "source_quote": "His willingness to make these bad bets implies he will make further bad bets going forward.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Topsy and Turvy\u2019s secret conversation",
+    "fact": "Topsy and Turvy are talking to each other while the group sleeps, but their dialogue is too distant to be heard. Their secrecy suggests hidden knowledge or a plot that may influence the group\u2019s future.",
+    "source_quote": "Daz notices Topsy and Turvy talking to each other. But they are too far away for him to understand what they are saying.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "7th day of the 2nd Tenday of Taraskh 1493",
+    "fact": "The date on which the group arrives at the narrow passageway lined with Ormu moss and begins their encounter with Jimjar\u2019s betting behavior.",
+    "source_quote": "7th day of the 2nd Tenday of Taraskh 1493",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "8th day of the 2nd Tenday of Taraskh 1493",
+    "fact": "The date on which the group finds new Trillimac mushrooms, arrives at the Silken Paths, and encounters the goblin scouts.",
+    "source_quote": "8th day of the 2nd Tenday of Taraskh 1493",
+    "quote_verified": true
+  }
+]

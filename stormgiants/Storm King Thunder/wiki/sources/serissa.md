@@ -49,4 +49,8 @@ related: []
   
 - **Evidence Supporting Claims:**
   - Direct references to her role as Imperator and her appointment by King Hekaton.
-  - Her actions in the throne room, such as taking 
+  - Her actions in the throne room, such as taking
+
+## Related
+
+- [[queen_tatiana]]

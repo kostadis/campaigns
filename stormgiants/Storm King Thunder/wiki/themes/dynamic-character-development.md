@@ -8,3 +8,7 @@ updated: 2023-10-01
 ---
 # Dynamic Character Development
 Process of creating and evolving characters within a narrative to enhance realism and engagement.
+
+## Related
+
+- [[fandom]]

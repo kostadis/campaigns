@@ -14,3 +14,9 @@ Imber Chen's views on race and personhood, particularly excluding half-orcs from
 - Imber's exclusionary views on race and personhood
 - Contrast with Silverymoon's broader narrative of racial inclusivity
 - Influence on his relationships with Orsik and Cap'n Squint
+
+## Related
+
+- [[race]]
+- [[ideological-marginalization]]
+- [[racial-inclusivity]]

@@ -16,3 +16,7 @@ Brewbarry’s relationship with “Shrimpy,” the exiled orc prisoner, is the c
 This identification extends to boney — the undead horse who remembers his dead master. Brewbarry defends him in battle, not because he is useful, but because he endures. He sees in Boney the same quiet loyalty, the same refusal to be defined by death. He does not speak of his own loss — but he protects those who carry theirs.
 
 This concept rejects the notion that empathy requires sameness. Brewbarry does not need to be an orc to feel for one. He does not need to be undead to honor Boney. His empathy is not derived from logic — it is derived from resonance. In a world where gods are silent and systems are broken, this silent recognition is the most profound form of connection.
+
+## Related
+
+- [[victim-of-dominance]]

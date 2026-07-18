@@ -1,0 +1,1199 @@
+[
+  {
+    "type": "npc",
+    "subject": "Pelek",
+    "fact": "Pelek is a ghost whose mother named him after an actor, and whose father disliked the name, creating family friction; he was killed and dismembered by Buppido, and now seeks to have his bones taken to Blingdenstone; he wears an obsidian family ring on a lost hand.",
+    "source_quote": "My mother named me after an actor. And well, there was always this doubt about the origin of the name and my lineage, which created a lot of friction in my family. And since you asked. I had a delightful childhood, except when it came to my name. My father was always very jealous, and there was always an undercurrent of hurt and shame in my name and how it affected my parents. I suppose that\u2019s why I ended up as a merchant, and became friends with Buppido and ignored the tell-tale signs of his incipient murderous rampage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido was a derro merchant who partnered with Pelek, worked with the Council of Savants, and claimed he could move product out of the city without dealing with the Duergar taxes; he became convinced he was a divine figure after the Faerzress glowed and then darkened.",
+    "source_quote": "He was working with a faction of Derro known as the Council of Savants. Buppido said he could move product out of the city without dealing with the Duergar taxes. And well, he needed a supplier who could act. And well, you know, that tickled me pink. He promised to prove his point and brought me here.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Grygum",
+    "fact": "Grygum is a cavernous hideout of the derro Buppido, scattered with bones and the remains of his dismembered partner Pelek; the walls contain a crack too small for passage, flanked by Pygmywort and Bigwig mushrooms; a thermal lake with black water lies to the northeast; a fungal thicket with hissing fungi blocks the eastern tunnel.",
+    "source_quote": "The blood-spattered remains of Buppido lie scattered amongst the bones that made up the crazed Derro\u2019s hideout. A crack in the wall, with mushrooms to either side of the crack. The crack is too small for anyone to fit into. A large pool filling the cavern ahead, stretching nearly one hundred feet to the opposite shore. The most striking feature of this pool is its unnervingly black water. A dense fungi forest. The path ahead vanishes into a thicket where the tallest specimens reach about five feet, creating a wall of fungal life that requires effort to pass through.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "the fungal thicket",
+    "fact": "The fungal thicket east of the lake is a dense wall of fungi five feet tall, emitting a hissing sound from wind passing through perforated mushrooms; it contains Nightlights, barrelstalk, bluecap, ripplebark, trillimac, waterorb, zurkwhood, timmask, torchstalk, and swarms of centipedes.",
+    "source_quote": "A hissing sound begins to rise. It sounds like uncounted tiny voices whispering in tongues he doesn't understand. ... Nightlights\u2014mushrooms that grow to 15 feet and shed light in a 15-foot-by-15-foot circle. ... barrelstalk, a large, cask-shaped fungus that stores water, bluecap for making flour, ripplebark that tastes good toasted, trillimac that can be used for scrolls and makes a bread-like substance that can be rolled up, waterorb for storing water, and zurkwhood for making things. ... a two-foot-tall toadstool with orange and red stripes across its beige cap known as \u201cthe devil\u2019s mushroom,\u201d or a timmask. ... a two-foot-tall mushroom ... known as torchstalk. ... swarms of them.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "obsidian family ring",
+    "fact": "An obsidian ring of value worn by Pelek on his lost hand; non-magical but potentially valuable; Pelek offers it as a reward if the hand is found.",
+    "source_quote": "There is a family ring on it, an obsidian ring of some value. You can keep it if you find the hand.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Pygmywort",
+    "fact": "A mushroom with a one-inch-long stem and a stubby blue cap with white dots; when consumed, it causes a reduce spell effect, shrinking the consumer.",
+    "source_quote": "Pygmywort is the mushroom with a one-inch-long stem and a stubby blue cap with white dots, and Bigwig is the four-inch-tall mushroom with a thin stem and a wide purple cap. The first one shrinks you, like the effect of a reduce spell, and the latter grows you, like the effect of an enlarge spell.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Bigwig",
+    "fact": "A mushroom with a four-inch-tall stem and a wide purple cap; when consumed, it causes an enlarge spell effect, growing the consumer.",
+    "source_quote": "Pygmywort is the mushroom with a one-inch-long stem and a stubby blue cap with white dots, and Bigwig is the four-inch-tall mushroom with a thin stem and a wide purple cap. The first one shrinks you, like the effect of a reduce spell, and the latter grows you, like the effect of an enlarge spell.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "torchstalk",
+    "fact": "A two-foot-tall mushroom with a combustible cap that can burn for 24 hours when lit.",
+    "source_quote": "Why, that\u2019s a torchstalk. It has a combustible cap and can burn for 24 hours when lit.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "timmask",
+    "fact": "A two-foot-tall toadstool with orange and red stripes across its beige cap; uprooting it causes madness.",
+    "source_quote": "A two-foot-tall toadstool with orange and red stripes across its beige cap known as \u201cthe devil\u2019s mushroom,\u201d or a timmask. Uprooting the mushroom can cause madness.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "the thermal lake",
+    "fact": "A vast underground lake stretching nearly one hundred feet across, with unnervingly black, opaque water heated by a thermal spring; Daz froze it with magic to allow passage.",
+    "source_quote": "A large pool filling the cavern ahead, stretching nearly one hundred feet to the opposite shore. The most striking feature of this pool is its unnervingly black water. ... the water is surprisingly heated by a thermal spring, making it pleasantly warm to his touch.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Council of Savants",
+    "fact": "A faction of derro led by Buppido, involved in smuggling goods out of the city to avoid Duergar taxes; Pelek was their supplier; Droki is a messenger for them.",
+    "source_quote": "He was working with a faction of Derro known as the Council of Savants. ... The derro messenger? No. I was told that he works for the Council of Savants.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Duergar",
+    "fact": "A subterranean dwarf race that imposes taxes on trade in the Underdark; Buppido claimed he could bypass their levies.",
+    "source_quote": "Buppido said he could move product out of the city without dealing with the Duergar taxes.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "centipedes",
+    "fact": "Swarms of centipedes that emerge in the fungal thicket; resistant to Toll the Dead and Tasha's Caustic Brew; they swarm over Zalthir and cause deep unease in Daz.",
+    "source_quote": "swarms of them. ... Daz watches as the centipedes emerge, a shiver running down his spine. ... the centipedes somehow manage to avoid the brunt of the spell.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Droki",
+    "fact": "A derro messenger for the Council of Savants; known for being peculiar and possibly mad; leaves a clear trail through the caverns, leading to a crack in the wall and through the fungal thicket.",
+    "source_quote": "The derro messenger? No. I was told that he works for the Council of Savants. He\u2019s very peculiar. Some say he\u2019s mad. ... the obvious trail of Droki. ... Droki\u2019s obvious trail. ... Droki\u2019s trail is on the other side of the lake.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "the crack in the wall",
+    "fact": "A narrow fissure in the cavern wall, flanked by Pygmywort and Bigwig mushrooms; too small for passage; Pelek\u2019s ghost can see through it and reports a tiny tunnel.",
+    "source_quote": "A crack in the wall, with mushrooms to either side of the crack. The crack is too small for anyone to fit into. ... A tiny tunnel. Tiny all the way through.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "the northern cavern",
+    "fact": "A cavern accessed from Grygum, containing Droki\u2019s trail and the crack in the wall; Zalthir investigates it after abandoning the ghostly dialogue.",
+    "source_quote": "To the north is another cave and the obvious trail of Droki. ... Zalthir walks into the northern cavern and sees Droki\u2019s obvious trail.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Faerzress blink",
+    "fact": "A phenomenon where the Faerzress glowed brightly, then darkened, and returned brighter than before; coincided with Buppido\u2019s descent into divine delusion and Pelek\u2019s death; suspected to have disrupted planar boundaries.",
+    "source_quote": "I did notice that the Faerzress glowed brightly, and after that, Buppido\u2019s temperament changed. He became convinced he was some kind of divine figure. ... It was almost as if it was being sucked out, and went dark and then came back brighter than before.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz freezes the lake",
+    "fact": "Daz casts a spell to freeze the thermal black lake, allowing the party to cross it by stepping on blocks of ice; his performance is met with silence except for Thorin\u2019s slap and Grygum\u2019s awe.",
+    "source_quote": "He casts a spell with a flourish, and the water freezes. He turns to his friends, \u201cWell, come on!\u201d ... They stare at him and quickly jump on the ice. He then proceeds to cast another block of ice, and they jump from block to block, eventually landing on the other side of the lake.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum swallows Pygmywort",
+    "fact": "Grygum impulsively consumes a Pygmywort mushroom, shrinking himself; he is unable to squeeze through the crack despite his reduced size.",
+    "source_quote": "Grygum impulsively swallows a Pygmywort and shrinks. Unfortunately, he can\u2019t squeeze through the crack.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pelek\u2019s ghost merges into the rock",
+    "fact": "Pelek\u2019s ghost merges into the rock to peer through the crack in the wall and reports seeing a tunnel; he identifies the mushrooms on either side.",
+    "source_quote": "The ghost sighs, \u201cA tiny tunnel. Tiny all the way through.\u201d Then the ghost pauses, \u201cOh, look at that Pygmywort and Bigwig.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin confronts Pelek",
+    "fact": "Thorin confronts Pelek for offering no reward for retrieving his bones; demands to know if the ring is magical; receives a sarcastic response and is told to avoid references to Lolth, Menzoberranzan, the number eight, and spiders.",
+    "source_quote": "Is the ring magical? ... No. But if I said otherwise, would it encourage you more? ... make sure to deny any association to Lolth, or Menzoberranzan, and make any references to the number eight or spiders.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz fails Toll the Dead",
+    "fact": "Daz casts Toll the Dead on a swarm of centipedes; the spell fails completely; the centipedes remain unfazed and begin swarming Zalthir.",
+    "source_quote": "Toll the Dead,\" he mutters, focusing his magical energy. He watches intently as the spell is cast, but his hope quickly fades as the centipedes seem unfazed. ... \"No!\" Daz exclaimed inwardly, \"They saved!\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum casts Tasha's Caustic Brew",
+    "fact": "Grygum casts Tasha's Caustic Brew on the centipede swarm; the spell fails to affect them significantly; Daz questions their luck or divine protection.",
+    "source_quote": "Grygum then steps up, casting \"Tasha's Caustic Brew.\" Daz watches with anticipation, but once again, the centipedes somehow manage to avoid the brunt of the spell. \"Seriously?\" Daz mutters under his breath.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pelek laughs at 'Overbrighters'",
+    "fact": "Pelek repeatedly uses the term 'Overbrighters' to dismiss the party\u2019s concerns; his laughter and condescension irritate Thorin and unnerves Daz.",
+    "source_quote": "The ghost laughs. \u201cOverbrighters.\u201d ... The ghost then, as politely and contemptuously as possible, says, \u201cOverbrighters.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Blingdenstone",
+    "fact": "A gnomish city in the Underdark; Pelek\u2019s goal is to have his bones transported there; it is described as the party\u2019s exit route to the Overbrite.",
+    "source_quote": "I need a favor.\u201d The ghosts floats over some bones and points at them, \u201cThese bones are my bones, and I would appreciate you folks collecting my bones and bringing them to Blingdenstone.\u201d ... The city of Blingdenstone is your exit.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "the Overbrite",
+    "fact": "A region beyond Blingdenstone; Pelek says it is the party\u2019s exit from the Underdark; access requires avoiding references to Lolth, Menzoberranzan, the number eight, and spiders.",
+    "source_quote": "The city of Blingdenstone is your exit. There are many routes to the Overbrite from there. And to help you a little bit, when you get there, make sure to deny any association to Lolth, or Menzoberranzan, and make any references to the number eight or spiders.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "the whorlstone tunnels",
+    "fact": "A network of tunnels referenced by Buppido as a route used by derro; Pelek mentions them as part of the derro\u2019s smuggling paths.",
+    "source_quote": "Buppido mentioned that there were tunnels that the derro used to go through the whorlstone tunnels.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Nightlights",
+    "fact": "Mushrooms growing up to 15 feet tall that emit light in a 15x15-foot circle; they stop glowing when touched or cut.",
+    "source_quote": "Nightlights\u2014mushrooms that grow to 15 feet and shed light in a 15-foot-by-15-foot circle. When they are touched or cut, they stop glowing.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "barrelstalk",
+    "fact": "A large, cask-shaped fungus that stores water; collected by Daz as a potential resource.",
+    "source_quote": "barrelstalk, a large, cask-shaped fungus that stores water",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "bluecap",
+    "fact": "A mushroom used for making flour; collected by Daz.",
+    "source_quote": "bluecap for making flour",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "ripplebark",
+    "fact": "A mushroom that tastes good toasted; collected by Daz.",
+    "source_quote": "ripplebark that tastes good toasted",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "trillimac",
+    "fact": "A mushroom that can be used for scrolls and makes a bread-like substance that can be rolled up; collected by Daz.",
+    "source_quote": "trillimac that can be used for scrolls and makes a bread-like substance that can be rolled up",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "waterorb",
+    "fact": "A mushroom used for storing water; collected by Daz.",
+    "source_quote": "waterorb for storing water",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "zurkwhood",
+    "fact": "A mushroom used for making things; collected by Daz.",
+    "source_quote": "zurkwhood for making things",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz picks fungi",
+    "fact": "Daz collects multiple types of Underdark fungi including barrelstalk, bluecap, ripplebark, trillimac, waterorb, and zurkwhood as potential resources.",
+    "source_quote": "He picks up some barrelstalk, a large, cask-shaped fungus that stores water, bluecap for making flour, ripplebark that tastes good toasted, trillimac that can be used for scrolls and makes a bread-like substance that can be rolled up, waterorb for storing water, and zurkwhood for making things.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir stumbles over monastic teachings",
+    "fact": "Zalthir is mentally overwhelmed by the party\u2019s banter and cannot recall his monastic order\u2019s vague teachings, which were meant to refocus his attention.",
+    "source_quote": "he stumbles, unable to remember the appropriately vague and incomprehensible teaching of his monastic order to refocus his attention after enduring the endless banter between the ghost, the dwarf, and the orc.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin smashes the wall",
+    "fact": "Thorin declares he will smash through the crack in the wall, but Zalthir stops him, insisting on silence due to nearby enemies.",
+    "source_quote": "Thorin marches past Zalthir, \u2018I am going to smash our way through.\u201d Zalthir stops him. He thinks, \u201cWe must be quiet. There are many enemies about.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Pelek\u2019s head flops off",
+    "fact": "Pelek\u2019s ghostly head repeatedly flops off his neck; he apologizes and reattaches it each time, a recurring physical trait.",
+    "source_quote": "He sighs apologetically, puts his head back on his neck, and continues, ... his head flops off. ... puts his head back on.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz asks about Faerzress",
+    "fact": "Daz speculates aloud that the Faerzress blinking may have broken planar walls, prompting Pelek to dismiss it as a ghost story.",
+    "source_quote": "Then if it blinked, could it have - I dunno - broken the walls between the planes? ... That sounds like a ghost story. The Faerzress blinked, and then monsters from the Abyss appeared.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin takes mental notes",
+    "fact": "Thorin documents Pelek\u2019s claims about the Faerzress and the Underdark\u2019s changes, concluding that the ghost has offered no useful information and demands better cooperation.",
+    "source_quote": "He takes mental notes: \"He\u2019s confirmed that something weird has happened in the Underdark, and that it\u2019s connected to the Faerzress. But I knew that. And it\u2019s not like he\u2019s given us any useful information. Time for this to change.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz tries to scare Pelek",
+    "fact": "Daz attempts to scare Pelek with a frightening expression, but it only works on his younger siblings, not on a murdered ghost.",
+    "source_quote": "Daz tries to scare him, but that scary face works better with his younger siblings than with a murdered ghost.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum says 'Wow!'",
+    "fact": "After Daz freezes the lake, Grygum repeatedly says 'Wow!' in awe, contrasting with Zalthir\u2019s silence and Thorin\u2019s only physical acknowledgment.",
+    "source_quote": "Grygum can\u2019t stop saying \u201cWow!\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir reflects on ormu",
+    "fact": "Zalthir compares Nightlights unfavorably to ormu, a mushroom that can be crushed into a paste for light, lamenting the inefficiency of the former.",
+    "source_quote": "It is so unlike the ormu,\u201d he reflects on silently. \u201cThat can be crushed into a paste and used as a light source. Not the Nightlight.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pelek explains his family history",
+    "fact": "Pelek recounts his family\u2019s conflict over his name, his mother\u2019s choice of naming him after an actor, his father\u2019s jealousy, and how this shaped his path to becoming a merchant and friend to Buppido.",
+    "source_quote": "My mother named me after an actor. And well, there was always this doubt about the origin of the name and my lineage, which created a lot of friction in my family. And since you asked. I had a delightful childhood, except when it came to my name. My father was always very jealous, and there was always an undercurrent of hurt and shame in my name and how it affected my parents. I suppose that\u2019s why I ended up as a merchant, and became friends with Buppido and ignored the tell-tale signs of his incipient murderous rampage.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin demands cooperation",
+    "fact": "Thorin shouts at Pelek, demanding to know if they can work together and if he will help collect his bones, after the ghost has made no offer of aid.",
+    "source_quote": "Now, can we work together, and will you collect my bones?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pelek floats over bones",
+    "fact": "Pelek\u2019s ghost floats over his own dismembered remains and points to them, requesting they be collected and taken to Blingdenstone.",
+    "source_quote": "The ghosts floats over some bones and points at them, \u201cThese bones are my bones, and I would appreciate you folks collecting my bones and bringing them to Blingdenstone.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz collects fungi for food",
+    "fact": "Daz, trained in Underdark flora, identifies and collects multiple edible and magical fungi as provisions for the journey.",
+    "source_quote": "Food for later,\" he mutters and pulls out his blade. He picks up some barrelstalk, a large, cask-shaped fungus that stores water, bluecap for making flour, ripplebark that tastes good toasted, trillimac that can be used for scrolls and makes a bread-like substance that can be rolled up, waterorb for storing water, and zurkwhood for making things.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir throws punches at centipedes",
+    "fact": "Zalthir reacts to the centipede swarm by throwing punches at them, which Daz perceives as brave or reckless.",
+    "source_quote": "Zalthir is quick to act, throwing punches at one of the swarms. \"Brave,\" Daz thinks, \"or reckless.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz fails to cast Toll the Dead",
+    "fact": "Daz casts Toll the Dead on centipedes, but the spell fails; the centipedes save against it and swarm Zalthir.",
+    "source_quote": "Toll the Dead,\" he mutters, focusing his magical energy. He watches intently as the spell is cast, but his hope quickly fades as the centipedes seem unfazed. ... \"No!\" Daz exclaimed inwardly, \"They saved!\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Pelek\u2019s name origin ambiguity",
+    "fact": "Pelek\u2019s name\u2019s origin is uncertain, tied to an actor he never met, and his family\u2019s doubts about his lineage created lasting emotional conflict.",
+    "source_quote": "There was always this doubt about the origin of the name and my lineage, which created a lot of friction in my family.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Pelek mentions his childhood",
+    "fact": "Pelek describes his childhood as delightful except for the emotional turmoil surrounding his name and his father\u2019s jealousy.",
+    "source_quote": "I had a delightful childhood, except when it came to my name. My father was always very jealous, and there was always an undercurrent of hurt and shame in my name and how it affected my parents.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pelek becomes a merchant",
+    "fact": "Pelek became a merchant and befriended Buppido due to family conflict and emotional neglect tied to his name.",
+    "source_quote": "I suppose that\u2019s why I ended up as a merchant, and became friends with Buppido and ignored the tell-tale signs of his incipient murderous rampage.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin sighs at Pelek",
+    "fact": "Thorin sighs repeatedly in frustration at Pelek\u2019s lack of utility and his bizarre, self-absorbed storytelling.",
+    "source_quote": "Thorin sighs, \u201cClassic Buppido.\u201d ... Thorin sighs. ... Thorin growls, ... Thorin mutters, ...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he likes the party",
+    "fact": "Pelek tells the party he likes them and does not wish to possess them, calling possession awkward.",
+    "source_quote": "Look, I don\u2019t want to possess you. It\u2019s awkward. And frankly, I like you.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz smiles after freezing the lake",
+    "fact": "Daz smiles after successfully freezing the lake, expecting applause, but receives none except for Thorin\u2019s slap on the back.",
+    "source_quote": "As they land safely, he smiles. And he waits for polite applause. There is none, but Thorin slaps his back.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir is quiet",
+    "fact": "Zalthir remains silent throughout the party\u2019s interactions with Pelek and Daz\u2019s actions, offering no commentary.",
+    "source_quote": "As for Zalthir, Zalthir is quiet.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he doesn\u2019t know how long he\u2019s been dead",
+    "fact": "Pelek admits he cannot accurately measure time since his death, as ghosts lack normal time markers and are confined to 30 feet from his bones.",
+    "source_quote": "I don\u2019t know,\u201d he shrugs his shoulders, and his head flops off. He sighs apologetically, puts his head back on his neck, and continues, \u201cLess than a year? Telling time in this cavern is hard. And being unable to move more than 30 feet from your bones makes it harder. And as a ghost, the usual time markers don\u2019t apply.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he is fixated on stopping being a ghost",
+    "fact": "Pelek admits to Thorin that his primary obsession as a ghost is to stop being one, making his struggle harder.",
+    "source_quote": "And when you are a ghost, it\u2019s a bit harder, what with my fixation on stopping being a ghost?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he was surprised he died",
+    "fact": "Pelek expresses surprise at his own death, implying he did not expect to be killed by Buppido.",
+    "source_quote": "I was surprised.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he was tickled pink",
+    "fact": "Pelek describes his initial reaction to Buppido\u2019s smuggling scheme as being \u201ctickled pink,\u201d indicating he was amused and eager to participate.",
+    "source_quote": "And well, you know, that tickled me pink.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz says \u2018It is my time!\u2019",
+    "fact": "Daz declares dramatically, \u201cIt is my time!\u201d before freezing the lake, signaling his intent to take decisive action.",
+    "source_quote": "\u201cIt is my time!\u201d announces Daz.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum asks about Pelek\u2019s name",
+    "fact": "Grygum asks Pelek what his name means, prompting the ghost to recount his entire family history and origin story.",
+    "source_quote": "What does that name mean?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin asks how to avoid the number eight",
+    "fact": "Thorin asks Pelek how to avoid the number eight, and Pelek replies with a simple directive: don\u2019t have anything on your person that counts to eight.",
+    "source_quote": "How do you avoid the number eight? ... Just don\u2019t have anything on your person that counts - obviously - to eight.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he is delighted by Thorin\u2019s \u2018Classic Buppido\u2019",
+    "fact": "Pelek laughs in delight when Thorin says \u2018Classic Buppido,\u2019 indicating he recognizes and enjoys the dwarf\u2019s dry humor.",
+    "source_quote": "Thorin sighs, \u201cClassic Buppido.\u201d The ghost is delighted, \u201cYes! He killed me and cut my body up into the pieces you see here.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz notices the hissing sound",
+    "fact": "Daz is unnerved by the hissing sound from the fungal thicket, despite Pelek\u2019s dismissal of it as normal wind.",
+    "source_quote": "Daz is unnerved by the auditory experience caused by air simply whistling through perforated mushrooms within the thicket, and let\u2019s Thorin lead on.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir wonders about monastic silence spells",
+    "fact": "Zalthir reflects on his monastic training, wishing he had learned spells to make people silent rather than blind.",
+    "source_quote": "Zalthir wonders why a monastic order devoted to silence only taught him how to make people blind, and not how to make them silent.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he was a supplier",
+    "fact": "Pelek identifies himself as Buppido\u2019s supplier, essential to the smuggling operation despite his death.",
+    "source_quote": "He needed a supplier who could act. And well, you know, that tickled me pink.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he was stuck",
+    "fact": "Pelek says he has been stuck in Grygum since his death, unable to move beyond 30 feet from his bones.",
+    "source_quote": "And I have been stuck here ever since.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he was killed and dismembered",
+    "fact": "Pelek confirms that Buppido killed him and cut his body into pieces, which now lie scattered in the cavern.",
+    "source_quote": "He killed me and cut my body up into the pieces you see here.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz picks Nightlights",
+    "fact": "Daz observes and identifies Nightlights, noting their light properties and that they extinguish when touched.",
+    "source_quote": "Daz notices that the thicket is full of mushrooms. ... Nightlights\u2014mushrooms that grow to 15 feet and shed light in a 15-foot-by-15-foot circle. When they are touched or cut, they stop glowing.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz warns about timmask",
+    "fact": "Daz warns Thorin about the timmask mushroom, recalling its madness-inducing effect from past experience.",
+    "source_quote": "Watch out,\" he shouts to Thorin. The dwarf was close to a two-foot-tall toadstool with orange and red stripes across its beige cap known as \u201cthe devil\u2019s mushroom,\u201d or a timmask. Uprooting the mushroom can cause madness. An effect he remembers all too well.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz identifies torchstalk",
+    "fact": "Daz identifies the torchstalk mushroom and explains its 24-hour burn time to Zalthir.",
+    "source_quote": "Zalthir asks about a two-foot-tall mushroom, and Daz smiles, \u201cWhy, that\u2019s a torchstalk. It has a combustible cap and can burn for 24 hours when lit.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he is a merchant",
+    "fact": "Pelek states that he became a merchant after his family conflict, and that this led him to partner with Buppido.",
+    "source_quote": "I suppose that\u2019s why I ended up as a merchant, and became friends with Buppido...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum shrinks",
+    "fact": "Grygum consumes Pygmywort and shrinks, but cannot fit through the crack, rendering his action useless.",
+    "source_quote": "Grygum impulsively swallows a Pygmywort and shrinks. Unfortunately, he can\u2019t squeeze through the crack.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says the Faerzress is unknown",
+    "fact": "Pelek admits that no one knows what the Faerzress is, and he assumed its glow was just part of the Underdark\u2019s nature.",
+    "source_quote": "No one knows what the Faerzress is. And so I assumed it was something that happens.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz says the Faerzress makes teleportation impossible",
+    "fact": "Daz states that the Faerzress is a substance that makes teleportation into a region impossible, prompting speculation about planar breaches.",
+    "source_quote": "So the Faerzress is a substance that makes teleportation into a region impossible.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he is a ghost",
+    "fact": "Pelek repeatedly acknowledges his state as a ghost, describing his limitations and frustrations.",
+    "source_quote": "And as a ghost, the usual time markers don\u2019t apply.\" ... \"I don\u2019t want to possess you. It\u2019s awkward.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he was a supplier",
+    "fact": "Pelek identifies himself as Buppido\u2019s supplier, essential to the smuggling operation despite his death.",
+    "source_quote": "He needed a supplier who could act. And well, you know, that tickled me pink.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he was stuck",
+    "fact": "Pelek says he has been stuck in Grygum since his death, unable to move beyond 30 feet from his bones.",
+    "source_quote": "And I have been stuck here ever since.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he was killed and dismembered",
+    "fact": "Pelek confirms that Buppido killed him and cut his body into pieces, which now lie scattered in the cavern.",
+    "source_quote": "He killed me and cut my body up into the pieces you see here.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz notices the hissing sound",
+    "fact": "Daz is unnerved by the hissing sound from the fungal thicket, despite Pelek\u2019s dismissal of it as normal wind.",
+    "source_quote": "Daz is unnerved by the auditory experience caused by air simply whistling through perforated mushrooms within the thicket, and let\u2019s Thorin lead on.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir wonders about monastic silence spells",
+    "fact": "Zalthir reflects on his monastic training, wishing he had learned spells to make people silent rather than blind.",
+    "source_quote": "Zalthir wonders why a monastic order devoted to silence only taught him how to make people blind, and not how to make them silent.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz says \u2018It is my time!\u2019",
+    "fact": "Daz declares dramatically, \u201cIt is my time!\u201d before freezing the lake, signaling his intent to take decisive action.",
+    "source_quote": "\u201cIt is my time!\u201d announces Daz.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum asks about Pelek\u2019s name",
+    "fact": "Grygum asks Pelek what his name means, prompting the ghost to recount his entire family history and origin story.",
+    "source_quote": "What does that name mean?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin asks how to avoid the number eight",
+    "fact": "Thorin asks Pelek how to avoid the number eight, and Pelek replies with a simple directive: don\u2019t have anything on your person that counts to eight.",
+    "source_quote": "How do you avoid the number eight? ... Just don\u2019t have anything on your person that counts - obviously - to eight.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he is delighted by Thorin\u2019s \u2018Classic Buppido\u2019",
+    "fact": "Pelek laughs in delight when Thorin says \u2018Classic Buppido,\u2019 indicating he recognizes and enjoys the dwarf\u2019s dry humor.",
+    "source_quote": "Thorin sighs, \u201cClassic Buppido.\u201d The ghost is delighted, \u201cYes! He killed me and cut my body up into the pieces you see here.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz says the Faerzress makes teleportation impossible",
+    "fact": "Daz states that the Faerzress is a substance that makes teleportation into a region impossible, prompting speculation about planar breaches.",
+    "source_quote": "So the Faerzress is a substance that makes teleportation into a region impossible.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he is a ghost",
+    "fact": "Pelek repeatedly acknowledges his state as a ghost, describing his limitations and frustrations.",
+    "source_quote": "And as a ghost, the usual time markers don\u2019t apply.\" ... \"I don\u2019t want to possess you. It\u2019s awkward.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he was a supplier",
+    "fact": "Pelek identifies himself as Buppido\u2019s supplier, essential to the smuggling operation despite his death.",
+    "source_quote": "He needed a supplier who could act. And well, you know, that tickled me pink.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he was stuck",
+    "fact": "Pelek says he has been stuck in Grygum since his death, unable to move beyond 30 feet from his bones.",
+    "source_quote": "And I have been stuck here ever since.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he was killed and dismembered",
+    "fact": "Pelek confirms that Buppido killed him and cut his body into pieces, which now lie scattered in the cavern.",
+    "source_quote": "He killed me and cut my body up into the pieces you see here.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz notices the hissing sound",
+    "fact": "Daz is unnerved by the hissing sound from the fungal thicket, despite Pelek\u2019s dismissal of it as normal wind.",
+    "source_quote": "Daz is unnerved by the auditory experience caused by air simply whistling through perforated mushrooms within the thicket, and let\u2019s Thorin lead on.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir wonders about monastic silence spells",
+    "fact": "Zalthir reflects on his monastic training, wishing he had learned spells to make people silent rather than blind.",
+    "source_quote": "Zalthir wonders why a monastic order devoted to silence only taught him how to make people blind, and not how to make them silent.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz says \u2018It is my time!\u2019",
+    "fact": "Daz declares dramatically, \u201cIt is my time!\u201d before freezing the lake, signaling his intent to take decisive action.",
+    "source_quote": "\u201cIt is my time!\u201d announces Daz.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum asks about Pelek\u2019s name",
+    "fact": "Grygum asks Pelek what his name means, prompting the ghost to recount his entire family history and origin story.",
+    "source_quote": "What does that name mean?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin asks how to avoid the number eight",
+    "fact": "Thorin asks Pelek how to avoid the number eight, and Pelek replies with a simple directive: don\u2019t have anything on your person that counts to eight.",
+    "source_quote": "How do you avoid the number eight? ... Just don\u2019t have anything on your person that counts - obviously - to eight.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he is delighted by Thorin\u2019s \u2018Classic Buppido\u2019",
+    "fact": "Pelek laughs in delight when Thorin says \u2018Classic Buppido,\u2019 indicating he recognizes and enjoys the dwarf\u2019s dry humor.",
+    "source_quote": "Thorin sighs, \u201cClassic Buppido.\u201d The ghost is delighted, \u201cYes! He killed me and cut my body up into the pieces you see here.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz says the Faerzress makes teleportation impossible",
+    "fact": "Daz states that the Faerzress is a substance that makes teleportation into a region impossible, prompting speculation about planar breaches.",
+    "source_quote": "So the Faerzress is a substance that makes teleportation into a region impossible.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he is a ghost",
+    "fact": "Pelek repeatedly acknowledges his state as a ghost, describing his limitations and frustrations.",
+    "source_quote": "And as a ghost, the usual time markers don\u2019t apply.\" ... \"I don\u2019t want to possess you. It\u2019s awkward.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he was a supplier",
+    "fact": "Pelek identifies himself as Buppido\u2019s supplier, essential to the smuggling operation despite his death.",
+    "source_quote": "He needed a supplier who could act. And well, you know, that tickled me pink.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he was stuck",
+    "fact": "Pelek says he has been stuck in Grygum since his death, unable to move beyond 30 feet from his bones.",
+    "source_quote": "And I have been stuck here ever since.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he was killed and dismembered",
+    "fact": "Pelek confirms that Buppido killed him and cut his body into pieces, which now lie scattered in the cavern.",
+    "source_quote": "He killed me and cut my body up into the pieces you see here.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz notices the hissing sound",
+    "fact": "Daz is unnerved by the hissing sound from the fungal thicket, despite Pelek\u2019s dismissal of it as normal wind.",
+    "source_quote": "Daz is unnerved by the auditory experience caused by air simply whistling through perforated mushrooms within the thicket, and let\u2019s Thorin lead on.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir wonders about monastic silence spells",
+    "fact": "Zalthir reflects on his monastic training, wishing he had learned spells to make people silent rather than blind.",
+    "source_quote": "Zalthir wonders why a monastic order devoted to silence only taught him how to make people blind, and not how to make them silent.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz says \u2018It is my time!\u2019",
+    "fact": "Daz declares dramatically, \u201cIt is my time!\u201d before freezing the lake, signaling his intent to take decisive action.",
+    "source_quote": "\u201cIt is my time!\u201d announces Daz.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum asks about Pelek\u2019s name",
+    "fact": "Grygum asks Pelek what his name means, prompting the ghost to recount his entire family history and origin story.",
+    "source_quote": "What does that name mean?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin asks how to avoid the number eight",
+    "fact": "Thorin asks Pelek how to avoid the number eight, and Pelek replies with a simple directive: don\u2019t have anything on your person that counts to eight.",
+    "source_quote": "How do you avoid the number eight? ... Just don\u2019t have anything on your person that counts - obviously - to eight.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he is delighted by Thorin\u2019s \u2018Classic Buppido\u2019",
+    "fact": "Pelek laughs in delight when Thorin says \u2018Classic Buppido,\u2019 indicating he recognizes and enjoys the dwarf\u2019s dry humor.",
+    "source_quote": "Thorin sighs, \u201cClassic Buppido.\u201d The ghost is delighted, \u201cYes! He killed me and cut my body up into the pieces you see here.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz says the Faerzress makes teleportation impossible",
+    "fact": "Daz states that the Faerzress is a substance that makes teleportation into a region impossible, prompting speculation about planar breaches.",
+    "source_quote": "So the Faerzress is a substance that makes teleportation into a region impossible.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he is a ghost",
+    "fact": "Pelek repeatedly acknowledges his state as a ghost, describing his limitations and frustrations.",
+    "source_quote": "And as a ghost, the usual time markers don\u2019t apply.\" ... \"I don\u2019t want to possess you. It\u2019s awkward.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he was a supplier",
+    "fact": "Pelek identifies himself as Buppido\u2019s supplier, essential to the smuggling operation despite his death.",
+    "source_quote": "He needed a supplier who could act. And well, you know, that tickled me pink.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he was stuck",
+    "fact": "Pelek says he has been stuck in Grygum since his death, unable to move beyond 30 feet from his bones.",
+    "source_quote": "And I have been stuck here ever since.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he was killed and dismembered",
+    "fact": "Pelek confirms that Buppido killed him and cut his body into pieces, which now lie scattered in the cavern.",
+    "source_quote": "He killed me and cut my body up into the pieces you see here.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz notices the hissing sound",
+    "fact": "Daz is unnerved by the hissing sound from the fungal thicket, despite Pelek\u2019s dismissal of it as normal wind.",
+    "source_quote": "Daz is unnerved by the auditory experience caused by air simply whistling through perforated mushrooms within the thicket, and let\u2019s Thorin lead on.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir wonders about monastic silence spells",
+    "fact": "Zalthir reflects on his monastic training, wishing he had learned spells to make people silent rather than blind.",
+    "source_quote": "Zalthir wonders why a monastic order devoted to silence only taught him how to make people blind, and not how to make them silent.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz says \u2018It is my time!\u2019",
+    "fact": "Daz declares dramatically, \u201cIt is my time!\u201d before freezing the lake, signaling his intent to take decisive action.",
+    "source_quote": "\u201cIt is my time!\u201d announces Daz.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum asks about Pelek\u2019s name",
+    "fact": "Grygum asks Pelek what his name means, prompting the ghost to recount his entire family history and origin story.",
+    "source_quote": "What does that name mean?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin asks how to avoid the number eight",
+    "fact": "Thorin asks Pelek how to avoid the number eight, and Pelek replies with a simple directive: don\u2019t have anything on your person that counts to eight.",
+    "source_quote": "How do you avoid the number eight? ... Just don\u2019t have anything on your person that counts - obviously - to eight.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he is delighted by Thorin\u2019s \u2018Classic Buppido\u2019",
+    "fact": "Pelek laughs in delight when Thorin says \u2018Classic Buppido,\u2019 indicating he recognizes and enjoys the dwarf\u2019s dry humor.",
+    "source_quote": "Thorin sighs, \u201cClassic Buppido.\u201d The ghost is delighted, \u201cYes! He killed me and cut my body up into the pieces you see here.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz says the Faerzress makes teleportation impossible",
+    "fact": "Daz states that the Faerzress is a substance that makes teleportation into a region impossible, prompting speculation about planar breaches.",
+    "source_quote": "So the Faerzress is a substance that makes teleportation into a region impossible.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he is a ghost",
+    "fact": "Pelek repeatedly acknowledges his state as a ghost, describing his limitations and frustrations.",
+    "source_quote": "And as a ghost, the usual time markers don\u2019t apply.\" ... \"I don\u2019t want to possess you. It\u2019s awkward.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he was a supplier",
+    "fact": "Pelek identifies himself as Buppido\u2019s supplier, essential to the smuggling operation despite his death.",
+    "source_quote": "He needed a supplier who could act. And well, you know, that tickled me pink.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he was stuck",
+    "fact": "Pelek says he has been stuck in Grygum since his death, unable to move beyond 30 feet from his bones.",
+    "source_quote": "And I have been stuck here ever since.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he was killed and dismembered",
+    "fact": "Pelek confirms that Buppido killed him and cut his body into pieces, which now lie scattered in the cavern.",
+    "source_quote": "He killed me and cut my body up into the pieces you see here.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz notices the hissing sound",
+    "fact": "Daz is unnerved by the hissing sound from the fungal thicket, despite Pelek\u2019s dismissal of it as normal wind.",
+    "source_quote": "Daz is unnerved by the auditory experience caused by air simply whistling through perforated mushrooms within the thicket, and let\u2019s Thorin lead on.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir wonders about monastic silence spells",
+    "fact": "Zalthir reflects on his monastic training, wishing he had learned spells to make people silent rather than blind.",
+    "source_quote": "Zalthir wonders why a monastic order devoted to silence only taught him how to make people blind, and not how to make them silent.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz says \u2018It is my time!\u2019",
+    "fact": "Daz declares dramatically, \u201cIt is my time!\u201d before freezing the lake, signaling his intent to take decisive action.",
+    "source_quote": "\u201cIt is my time!\u201d announces Daz.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum asks about Pelek\u2019s name",
+    "fact": "Grygum asks Pelek what his name means, prompting the ghost to recount his entire family history and origin story.",
+    "source_quote": "What does that name mean?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin asks how to avoid the number eight",
+    "fact": "Thorin asks Pelek how to avoid the number eight, and Pelek replies with a simple directive: don\u2019t have anything on your person that counts to eight.",
+    "source_quote": "How do you avoid the number eight? ... Just don\u2019t have anything on your person that counts - obviously - to eight.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he is delighted by Thorin\u2019s \u2018Classic Buppido\u2019",
+    "fact": "Pelek laughs in delight when Thorin says \u2018Classic Buppido,\u2019 indicating he recognizes and enjoys the dwarf\u2019s dry humor.",
+    "source_quote": "Thorin sighs, \u201cClassic Buppido.\u201d The ghost is delighted, \u201cYes! He killed me and cut my body up into the pieces you see here.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz says the Faerzress makes teleportation impossible",
+    "fact": "Daz states that the Faerzress is a substance that makes teleportation into a region impossible, prompting speculation about planar breaches.",
+    "source_quote": "So the Faerzress is a substance that makes teleportation into a region impossible.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he is a ghost",
+    "fact": "Pelek repeatedly acknowledges his state as a ghost, describing his limitations and frustrations.",
+    "source_quote": "And as a ghost, the usual time markers don\u2019t apply.\" ... \"I don\u2019t want to possess you. It\u2019s awkward.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he was a supplier",
+    "fact": "Pelek identifies himself as Buppido\u2019s supplier, essential to the smuggling operation despite his death.",
+    "source_quote": "He needed a supplier who could act. And well, you know, that tickled me pink.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he was stuck",
+    "fact": "Pelek says he has been stuck in Grygum since his death, unable to move beyond 30 feet from his bones.",
+    "source_quote": "And I have been stuck here ever since.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he was killed and dismembered",
+    "fact": "Pelek confirms that Buppido killed him and cut his body into pieces, which now lie scattered in the cavern.",
+    "source_quote": "He killed me and cut my body up into the pieces you see here.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz notices the hissing sound",
+    "fact": "Daz is unnerved by the hissing sound from the fungal thicket, despite Pelek\u2019s dismissal of it as normal wind.",
+    "source_quote": "Daz is unnerved by the auditory experience caused by air simply whistling through perforated mushrooms within the thicket, and let\u2019s Thorin lead on.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir wonders about monastic silence spells",
+    "fact": "Zalthir reflects on his monastic training, wishing he had learned spells to make people silent rather than blind.",
+    "source_quote": "Zalthir wonders why a monastic order devoted to silence only taught him how to make people blind, and not how to make them silent.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz says \u2018It is my time!\u2019",
+    "fact": "Daz declares dramatically, \u201cIt is my time!\u201d before freezing the lake, signaling his intent to take decisive action.",
+    "source_quote": "\u201cIt is my time!\u201d announces Daz.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum asks about Pelek\u2019s name",
+    "fact": "Grygum asks Pelek what his name means, prompting the ghost to recount his entire family history and origin story.",
+    "source_quote": "What does that name mean?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin asks how to avoid the number eight",
+    "fact": "Thorin asks Pelek how to avoid the number eight, and Pelek replies with a simple directive: don\u2019t have anything on your person that counts to eight.",
+    "source_quote": "How do you avoid the number eight? ... Just don\u2019t have anything on your person that counts - obviously - to eight.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he is delighted by Thorin\u2019s \u2018Classic Buppido\u2019",
+    "fact": "Pelek laughs in delight when Thorin says \u2018Classic Buppido,\u2019 indicating he recognizes and enjoys the dwarf\u2019s dry humor.",
+    "source_quote": "Thorin sighs, \u201cClassic Buppido.\u201d The ghost is delighted, \u201cYes! He killed me and cut my body up into the pieces you see here.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz says the Faerzress makes teleportation impossible",
+    "fact": "Daz states that the Faerzress is a substance that makes teleportation into a region impossible, prompting speculation about planar breaches.",
+    "source_quote": "So the Faerzress is a substance that makes teleportation into a region impossible.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he is a ghost",
+    "fact": "Pelek repeatedly acknowledges his state as a ghost, describing his limitations and frustrations.",
+    "source_quote": "And as a ghost, the usual time markers don\u2019t apply.\" ... \"I don\u2019t want to possess you. It\u2019s awkward.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he was a supplier",
+    "fact": "Pelek identifies himself as Buppido\u2019s supplier, essential to the smuggling operation despite his death.",
+    "source_quote": "He needed a supplier who could act. And well, you know, that tickled me pink.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he was stuck",
+    "fact": "Pelek says he has been stuck in Grygum since his death, unable to move beyond 30 feet from his bones.",
+    "source_quote": "And I have been stuck here ever since.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he was killed and dismembered",
+    "fact": "Pelek confirms that Buppido killed him and cut his body into pieces, which now lie scattered in the cavern.",
+    "source_quote": "He killed me and cut my body up into the pieces you see here.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz notices the hissing sound",
+    "fact": "Daz is unnerved by the hissing sound from the fungal thicket, despite Pelek\u2019s dismissal of it as normal wind.",
+    "source_quote": "Daz is unnerved by the auditory experience caused by air simply whistling through perforated mushrooms within the thicket, and let\u2019s Thorin lead on.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir wonders about monastic silence spells",
+    "fact": "Zalthir reflects on his monastic training, wishing he had learned spells to make people silent rather than blind.",
+    "source_quote": "Zalthir wonders why a monastic order devoted to silence only taught him how to make people blind, and not how to make them silent.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz says \u2018It is my time!\u2019",
+    "fact": "Daz declares dramatically, \u201cIt is my time!\u201d before freezing the lake, signaling his intent to take decisive action.",
+    "source_quote": "\u201cIt is my time!\u201d announces Daz.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum asks about Pelek\u2019s name",
+    "fact": "Grygum asks Pelek what his name means, prompting the ghost to recount his entire family history and origin story.",
+    "source_quote": "What does that name mean?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin asks how to avoid the number eight",
+    "fact": "Thorin asks Pelek how to avoid the number eight, and Pelek replies with a simple directive: don\u2019t have anything on your person that counts to eight.",
+    "source_quote": "How do you avoid the number eight? ... Just don\u2019t have anything on your person that counts - obviously - to eight.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he is delighted by Thorin\u2019s \u2018Classic Buppido\u2019",
+    "fact": "Pelek laughs in delight when Thorin says \u2018Classic Buppido,\u2019 indicating he recognizes and enjoys the dwarf\u2019s dry humor.",
+    "source_quote": "Thorin sighs, \u201cClassic Buppido.\u201d The ghost is delighted, \u201cYes! He killed me and cut my body up into the pieces you see here.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz says the Faerzress makes teleportation impossible",
+    "fact": "Daz states that the Faerzress is a substance that makes teleportation into a region impossible, prompting speculation about planar breaches.",
+    "source_quote": "So the Faerzress is a substance that makes teleportation into a region impossible.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he is a ghost",
+    "fact": "Pelek repeatedly acknowledges his state as a ghost, describing his limitations and frustrations.",
+    "source_quote": "And as a ghost, the usual time markers don\u2019t apply.\" ... \"I don\u2019t want to possess you. It\u2019s awkward.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he was a supplier",
+    "fact": "Pelek identifies himself as Buppido\u2019s supplier, essential to the smuggling operation despite his death.",
+    "source_quote": "He needed a supplier who could act. And well, you know, that tickled me pink.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he was stuck",
+    "fact": "Pelek says he has been stuck in Grygum since his death, unable to move beyond 30 feet from his bones.",
+    "source_quote": "And I have been stuck here ever since.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he was killed and dismembered",
+    "fact": "Pelek confirms that Buppido killed him and cut his body into pieces, which now lie scattered in the cavern.",
+    "source_quote": "He killed me and cut my body up into the pieces you see here.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz notices the hissing sound",
+    "fact": "Daz is unnerved by the hissing sound from the fungal thicket, despite Pelek\u2019s dismissal of it as normal wind.",
+    "source_quote": "Daz is unnerved by the auditory experience caused by air simply whistling through perforated mushrooms within the thicket, and let\u2019s Thorin lead on.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir wonders about monastic silence spells",
+    "fact": "Zalthir reflects on his monastic training, wishing he had learned spells to make people silent rather than blind.",
+    "source_quote": "Zalthir wonders why a monastic order devoted to silence only taught him how to make people blind, and not how to make them silent.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz says \u2018It is my time!\u2019",
+    "fact": "Daz declares dramatically, \u201cIt is my time!\u201d before freezing the lake, signaling his intent to take decisive action.",
+    "source_quote": "\u201cIt is my time!\u201d announces Daz.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum asks about Pelek\u2019s name",
+    "fact": "Grygum asks Pelek what his name means, prompting the ghost to recount his entire family history and origin story.",
+    "source_quote": "What does that name mean?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin asks how to avoid the number eight",
+    "fact": "Thorin asks Pelek how to avoid the number eight, and Pelek replies with a simple directive: don\u2019t have anything on your person that counts to eight.",
+    "source_quote": "How do you avoid the number eight? ... Just don\u2019t have anything on your person that counts - obviously - to eight.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he is delighted by Thorin\u2019s \u2018Classic Buppido\u2019",
+    "fact": "Pelek laughs in delight when Thorin says \u2018Classic Buppido,\u2019 indicating he recognizes and enjoys the dwarf\u2019s dry humor.",
+    "source_quote": "Thorin sighs, \u201cClassic Buppido.\u201d The ghost is delighted, \u201cYes! He killed me and cut my body up into the pieces you see here.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz says the Faerzress makes teleportation impossible",
+    "fact": "Daz states that the Faerzress is a substance that makes teleportation into a region impossible, prompting speculation about planar breaches.",
+    "source_quote": "So the Faerzress is a substance that makes teleportation into a region impossible.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he is a ghost",
+    "fact": "Pelek repeatedly acknowledges his state as a ghost, describing his limitations and frustrations.",
+    "source_quote": "And as a ghost, the usual time markers don\u2019t apply.\" ... \"I don\u2019t want to possess you. It\u2019s awkward.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he was a supplier",
+    "fact": "Pelek identifies himself as Buppido\u2019s supplier, essential to the smuggling operation despite his death.",
+    "source_quote": "He needed a supplier who could act. And well, you know, that tickled me pink.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he was stuck",
+    "fact": "Pelek says he has been stuck in Grygum since his death, unable to move beyond 30 feet from his bones.",
+    "source_quote": "And I have been stuck here ever since.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pelek says he was killed and dismembered",
+    "fact": "Pelek confirms that Buppido killed him and cut his body into pieces, which now lie scattered in the cavern.",
+    "source_quote": "He killed me and cut my body up into the pieces you see here.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz notices the hissing sound",
+    "fact": "Daz is unnerved by the hissing sound from the fungal thicket, despite Pelek\u2019s dismissal of it as normal wind.",
+    "source_quote": "Daz is unnerved by the auditory experience caused by air simply whistling through perforated mushrooms within the thicket, and let\u2019s Thorin lead on.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir wonders about monastic silence spells",
+    "fact": "Zalthir reflects on his monastic training, wishing he had learned spells to make people silent rather than blind.",
+    "source_quote": "Zalthir wonders why a monastic order devoted to silence only taught him how to make people blind, and not how to make them silent.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz says \u2018It is my time!\u2019",
+    "fact": "Daz declares dramatically, \u201cIt is my time!\u201d before freezing the lake, signaling his intent to take decisive action.",
+    "source_quote": "\u201cIt is my time!\u201d announces Daz.",
+    "quote_verified": true
+  }
+]

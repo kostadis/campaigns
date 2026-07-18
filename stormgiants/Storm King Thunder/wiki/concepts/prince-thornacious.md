@@ -9,15 +9,15 @@ sources: ["kagrota_threeteeth_kagrota.md", "halisa.md"]
 ---
 # Prince Thornacious
 
-Prince Thornacious is a figure of significant ambiguity whose true identity and nature remain unresolved. While appearing to be a member of the [[seelie-court]], he is alleged to be **Orsik** in disguise.
+Prince Thornacious is a figure of significant ambiguity whose true identity and nature remain unresolved. While appearing to be a member of the [[fey-court-structure]], he is alleged to be **Orsik** in disguise.
 
 ## Identity and Deception
-The figure known as Prince Thornacious played a pivotal role in the fate of [[halisa]]. After [[halisa]] was punished by the [[seelie-court]] for speaking honestly about Queen Titania's attire, she was released from her exile by the individual claiming to be Prince Thornacious. However, this individual was actually impersonating the real Prince Thornacious. Notably, her release was framed to the court as a punishment to her rather than a reward.
+The figure known as Prince Thornacious played a pivotal role in the fate of [[halisa]]. After [[halisa]] was punished by the [[fey-court-structure]] for speaking honestly about Queen Titania's attire, she was released from her exile by the individual claiming to be Prince Thornacious. However, this individual was actually impersonating the real Prince Thornacious. Notably, her release was framed to the court as a punishment to her rather than a reward.
 
 ## Relationships and Agreements
 
 ### Kagrota Threeteeth
-Prince Thornacious is the alleged partner of [[kagrota-threeteeth]] (Kagrota). It is known that an existing "deal" existed between them, though the specific nature of this agreement remains unknown. In a moment of near-death panic, Kagrota invoked this agreement.
+Prince Thornacious is the alleged partner of [[kragota-threeteeth]] (Kagrota). It is known that an existing "deal" existed between them, though the specific nature of this agreement remains unknown. In a moment of near-death panic, Kagrota invoked this agreement.
 
 ### Halisa
 He acted as the alleged liberator of [[halisa]], though his motives and true identity (Orsik) suggest a more complex involvement in her exile and release.
@@ -32,6 +32,6 @@ He acted as the alleged liberator of [[halisa]], though his motives and true ide
 
 ## Connections to Existing Wiki
 - [[halisa]]
-- [[seelie-court]]
-- [[tree-protection-schedule-d]]
+- [[fey-court-structure]]
+- [[the-party]]
 - [[dryads]]

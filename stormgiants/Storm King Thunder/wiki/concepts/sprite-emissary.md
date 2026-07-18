@@ -12,6 +12,10 @@ The Seelie Sprite emissary later noted that both Halisa and Helia had been freed
 
 ## Connections to Existing Wiki
 - [[halisa]]
-- [[tree-protection-schedule-d]]
-- [[seelie-court]]
+- [[the-party]]
+- [[fey-court-structure]]
 - [[dryads]]
+
+## Related
+
+- [[taunt]]

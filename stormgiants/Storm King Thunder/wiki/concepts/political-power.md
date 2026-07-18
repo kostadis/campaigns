@@ -9,3 +9,11 @@ sources: ["dral_thelev.md"]
 ---
 # Political Power
 The capacity of political entities to exert control and influence over others within the political landscape of Everlund, often measured by their ability to secure resources, sway public opinion, and enforce their will.
+
+## Related
+
+- [[political-strategy]]
+- [[political-stability]]
+- [[political-system]]
+- [[political-structure]]
+- [[political-relations]]

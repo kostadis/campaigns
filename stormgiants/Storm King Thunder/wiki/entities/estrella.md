@@ -29,3 +29,9 @@ sources: ["estrella.md"]
 
 ## Arc Score Events
 - None recorded
+
+## Related
+
+- [[navigation]]
+- [[estrella]]
+- [[zephyros]]

@@ -13,6 +13,6 @@ A crumbling stone lighthouse situated on the rocky coast west of Phandalin, this
 
 It was the target of [[daran-edermath-silverleaf]]’s salvage proposal — a pitch met with moral outrage by [[vukradin]], who viewed the operation as grave-robbing. The lighthouse’s true nature remains unexplored: are the wrecks recent or ancient? Are there unburied bodies? Are spirits bound to the stones? Is the lighthouse itself sentient or cursed?
 
-Like the [[oasis-of-vuerthyl]], it functions as a [[narrative-placeholder-npc]]-adjacent location — a site of latent narrative potential, deliberately left undefined to preserve mystery and player agency. Its silence echoes the silence of [[annam-the-allfather]]: not empty, but waiting to be understood — or desecrated.
+Like the [[oasis-of-vuerthyl]], it functions as a [[grounded-resident-npc]]-adjacent location — a site of latent narrative potential, deliberately left undefined to preserve mystery and player agency. Its silence echoes the silence of [[annam-the-oracle-and-annam-the-all-father-of-giants]]: not empty, but waiting to be understood — or desecrated.
 
 No party member has yet visited. Its fate remains unwritten.

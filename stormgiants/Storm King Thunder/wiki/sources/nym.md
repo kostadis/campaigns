@@ -68,7 +68,7 @@ related: []
 - **[[Serissa]]**: Relationship with Nym and her status as Queen.
 - **[[Adimond-Kroskas]]**: Nature of the alliance with Adimond Kroskas.
 - **[[Iymrith]]**: Nature of the alliance with the dragon.
-- **[[Great-Hall-Confrontation]]**: Specific events involving Nym and the party.
+- **[[grindle]]**: Specific events involving Nym and the party.
 
 ### Contradictions & Tensions
 - **Internal Tensions:**
@@ -84,6 +84,12 @@ related: []
   - [[Serissa]]
   - [[Adimond-Kroskas]]
   - [[Iymrith]]
-  - [[Great-Hall-Confrontation]]
+  - [[grindle]]
 - **Emphasize:**
   - Nym’s personality traits, her motivations, and her re
+
+## Related
+
+- [[silas_carras]]
+- [[queen_tatiana]]
+- [[syreen_widdens]]

@@ -1,8 +1,8 @@
 ---
 type: source
 title: "Source: drake.md"
-created: 2026-05-13
-updated: 2026-05-13
+created: 2026-06-05
+updated: 2026-06-05
 sources: ["drake.md"]
 tags: []
 related: []
@@ -11,30 +11,42 @@ related: []
 # Source: drake.md
 
 ## Key Entities
-- **Drake**: Guard (type), central, likely already exists in the wiki.
-- **Vardis**: Merchant (type), central, likely already exists in the wiki.
-- **Thuul**: Merchant (type), peripheral, likely already exists in the wiki.
-- **Thistle**: Merchant (type), peripheral, likely already exists in the wiki.
+*   **Drake** (Person)
+    *   **Role:** Guard.
+    *   **Status:** Peripheral. He is a low-agency NPC whose primary function in the narrative is as a reactive element to party commands.
+    *   **Wiki Status:** New entry required.
+*   **Vardis** (Person)
+    *   **Role:** Party member/leader figure who issued orders to Drake.
+    *   **Status:** Central (existing).
+    *   **Wiki Status:** Already exists in the index.
+*   **Thuul** (Person)
+    *   **Role:** Present during the battle aftermath; appeared uncertain.
+    *   **Status:** Peripheral/Central (Note: "Thuul" is not in the current index, but may be a variant or related to other party members).
+    *   **Wiki Status:** Check for spelling variations (e.g., Thule?).
+*   **Thistle** (Person)
+    *   **Role:** Downed during battle; recipient of Drake's assistance.
+    *   **Status:** Central/Peripheral (Note: "Thistle" is not in the current index, but may be related to **thistle-wendrod**).
+    *   **Wiki Status:** Check for spelling variations.
 
 ## Key Concepts
-- **Guard**: Role, peripheral, likely already exists in the wiki.
-- **Battle aftermath**: Phenomenon, central, relates to the context of the encounter.
-- **Merchant**: Faction, peripheral, likely already exists in the wiki.
+*   **Reactive Guard Archetype**: Drake represents a "functional" NPC—one who exists to provide utility (guarding, assisting) without possessing independent agency or complex motivations.
+*   **Narrative Economy**: Drake’s lack of established goals or backstory is a deliberate use of narrative economy; he serves as a tool for the players' interaction with the environment rather than a primary plot driver.
 
 ## Main Arguments & Findings
-- **Core Claims**: Drake is a guard stationed near the guestroom who was directed by Vardis to assist Thistle, who was downed. His role is passive and responsive to orders.
-- **Evidence**: Drake's presence and actions are described in the aftermath of a battle, where he was directed by Vardis to help Thistle.
-- **Strength of Evidence**: The information is detailed and specific, providing a clear picture of Drake's role and interaction with the party.
+*   **Low Agency/High Utility:** The source establishes Drake as a "reactive" entity. He does not initiate action but complies with orders, making him a useful mechanic for the DM to provide assistance or security without needing to flesh out a full character arc.
+*   **Ambiguous Loyalty:** His affiliation is currently unknown, though he is assumed to be tied to the local establishment. This ambiguity allows him to remain "neutral" in the narrative until further plot points are introduced.
 
 ## Connections to Existing Wiki
-- This source relates to existing pages such as "Vardis" and "Thistle," strengthening the understanding of their interactions and roles within the narrative.
-- It also connects to "Merchants" and "Battle aftermath," extending the knowledge of merchant activities and post-conflict scenarios.
+*   **Vardis**: Drake’s interaction with Vardis reinforces Vardis's role as a leader/decision-maker in high-pressure situations.
+*   **Thistle / Thistle-Wendrod**: If "Thistle" refers to the social analyst **thistle-wendrod**, Drake’s presence during his "downed" state provides a moment of vulnerability for that character.
 
 ## Contradictions & Tensions
-- There are no contradictions identified within the source document.
-- Drake's passive nature and lack of further goals or drives create some tension regarding his potential future involvement or development.
+*   **Identity Ambiguity:** There is a slight tension between his role as a "Guard" and his lack of defined affiliation. While this serves the narrative, it means he currently lacks a "home" in the world-building until a specific faction (e.g., local militia or a specific manor's guard) is confirmed.
 
 ## Recommendations
-- **Pages to Create or Update**: Ensure that "Guard" and "Battle aftermath" are well-documented if they don't already exist.
-- **Emphasis**: Emphasize Drake's role as a guard and his limited active participation in the events.
-- **Open Questions**: Consider adding more details about Drake's background and motivations to flesh out his character further.
+*   **New Page:** Create a page for **Drake**. Keep it brief to reflect his current status as a low-agency NPC, but include his "Reactive" nature as a note for the GM.
+*   **Update/Clarify:** Verify if **Thuul** and **Thistle** are intended to be the same individuals as **thule** and **thistle-wendrod**. If
+
+## Related
+
+- [[thuul]]

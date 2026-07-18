@@ -4,7 +4,7 @@ title: Intelligence Network with Limited Coverage
 created: 2026-05-25
 updated: 2026-05-25
 tags: [blind-spot, knowledge-limitation, seer, uncertainty]
-related: [seer, joon, divine-oracle, truth-constraint-mechanism]
+related: ["seer", "joon", "divine-oracle"]
 sources: ["azam.md"]
 ---
 # Intelligence Network with Limited Coverage

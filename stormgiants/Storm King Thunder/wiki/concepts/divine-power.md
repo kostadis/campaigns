@@ -6,3 +6,8 @@ related: []
 created: 2023-10-01
 updated: 2023-10-01
 ---
+
+## Related
+
+- [[infernal_lore]]
+- [[banishment-spell]]

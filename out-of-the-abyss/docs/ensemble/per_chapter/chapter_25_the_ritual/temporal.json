@@ -1,0 +1,177 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 2nd day of the 2nd tenday of Myrtul.",
+    "source_quote": "2nd day of the 2nd tenday of Myrtul",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "derro count",
+    "fact": "Five Derro are chanting.",
+    "source_quote": "five Derro are chanting",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "ettin count",
+    "fact": "An Ettin is present next to the obvious boss.",
+    "source_quote": "an Ettin .",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "stone giant statue height",
+    "fact": "The statue of a stone giant with a second head emerging from it is only 2 feet tall.",
+    "source_quote": "it is only 2 feet tall",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "summoning ritual effect",
+    "fact": "They are performing some kind of summoning ritual to make the Stone Giants sprout a second head.",
+    "source_quote": "They are performing some kind of summoning ritual to make the Stone Giants sprout a second head.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "ritual chant origin",
+    "fact": "The ritual chant was taken from the book in the chief cultist's hands.",
+    "source_quote": "the book in the chief cultist's hands.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "ritual chant content",
+    "fact": "The chant includes: 'Hear me, you two-headed fools! His madness flows, our city drools! From Whorlstone's depths, the spirals turn! For Demogorgon, the city will burn! More heads for grafting! More for the pile! Gracklstugh trembles, defiled.'",
+    "source_quote": "\u201cHear me, you two-headed fools! His madness flows, our city drools! From Whorlstone's depths, the spirals turn! For Demogorgon, the city will burn! More heads for grafting! More for the pile! Gracklstugh trembles, defiled",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "cultist cavern location",
+    "fact": "The cultist cavern is located outside of Buppido\u2019s lair.",
+    "source_quote": "outside of the cultist cavern",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "ritual failure condition",
+    "fact": "The ritual will not work if the Derro cannot say their lines with fervor.",
+    "source_quote": "the ritual will not work if we can\u2019t say our lines. And with fervor.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "ritual chant variation",
+    "fact": "The chant includes: 'Two heads! Two heads! A glorious sight! The Deepking falls into endless night! Narrak's vision, sharp and keen! The Prince of Chaos, always unseen!'",
+    "source_quote": "Two heads! Two heads! A glorious sight! The Deepking falls into endless night! Narrak's vision, sharp and keen! The Prince of Chaos, always unseen!",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "darkness effect zone",
+    "fact": "Zalthir\u2019s magical darkness envelops the Derro and obscures Narrak\u2019s vision.",
+    "source_quote": "all the derro are covered in his magical darkness",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "fear spell effect",
+    "fact": "Narrak uses a white feather to cast fear on Thorin, Grygum, and Zalthir, causing them to become terrified.",
+    "source_quote": "says the magic words, and the three members of the Ember Vanguard look terrified.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "fear dispelling method",
+    "fact": "Zalthir moves the darkness over Narrak, removing the source of fear and dispelling its effect.",
+    "source_quote": "He moves the darkness over Narrak. As the source of the Ember Vanguard\u2019s fear is no longer visible, they are no longer affected by it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "acid vomit spell",
+    "fact": "Grygum vomits forth a wave of acid after a violent heaving.",
+    "source_quote": "vomits forth a wave of acid",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "scorching rays spell",
+    "fact": "Daz casts three spears of flame, raging hues of orange and red, toward the Ettin.",
+    "source_quote": "Three spears of flame, raging hues of orange and red, appear above me... I hurl them toward the Ettin .",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "maximillian\u2019s earthen grasp spell",
+    "fact": "Daz casts Maximillian\u2019s Earthen Grasp on where he thinks Narrak is.",
+    "source_quote": "I cast Maximillian\u2019s Earthen Grasp on where I think he is.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "curse spreading claim",
+    "fact": "Narrak claims, 'You cannot stop the inevitable... the curse spreads!'",
+    "source_quote": "You cannot stop the inevitable... the curse spreads!",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "final resting place",
+    "fact": "The final resting place is Buppido\u2019s lair, a grim place full of dead bones and an altar to some demonic power.",
+    "source_quote": "We are once again at the final resting place of Buppido. It\u2019s a grim place, full of dead bones, and an altar to some demonic power or some mad idea.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "myconid communication method",
+    "fact": "The Myconid communicates through spores, allowing silent communication in certain tactical situations.",
+    "source_quote": "The spores allow us to communicate in certain tactical situations silently",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "zombie conversion process",
+    "fact": "The Myconids have a process that allows them to convert their dead enemies into zombies.",
+    "source_quote": "we have this process that allows us to convert our dead enemies into zombies.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "knot wager",
+    "fact": "JimJar bets Grygum that his knots won\u2019t hold on Pelek/Derro.",
+    "source_quote": "He bets me that my knots won\u2019t hold.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "death as sleep debate",
+    "fact": "Pelek/Derro muses on whether death is a form of sleep.",
+    "source_quote": "There is this whole question about whether death is a form of sleep.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "derro distraction target",
+    "fact": "A Derro is preoccupied with a death dog, desperately trying hard not to be noticed.",
+    "source_quote": "preoccupied with a death dog, desperately trying hard not to be noticed",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "narrak\u2019s leadership style",
+    "fact": "Narrak behaves like a choir director, demanding vigor and passion in ritual chanting.",
+    "source_quote": "like every choir director ever shouts, 'Silence, you blithering half-wits! More vigor!'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "derro avoidance behavior",
+    "fact": "A Derro avoids being seen by Narrak, as high-level clerics can kill easily.",
+    "source_quote": "He\u2019s trying to avoid being seen by Narrak... A high-level cleric can kill you very easily.",
+    "quote_verified": false
+  }
+]

@@ -18,3 +18,7 @@ updated: 2023-10-05
 tags: [phenomenon, fandom, admiration]
 related: []
 ---
+
+## Related
+
+- [[captain-jolanth]]

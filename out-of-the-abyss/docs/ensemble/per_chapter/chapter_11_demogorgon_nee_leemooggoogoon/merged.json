@@ -1,0 +1,2071 @@
+[
+  {
+    "type": "date",
+    "subject": "2nd day of the 3rd tenday of Taraskh",
+    "fact": "The day on which the ritual was performed, the kuo-toa civil war erupted, and Demogorgon was summoned. It is the day the escapees ceased being prisoners and became survivors of an apocalypse.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "2nd day of the 3rd tenday of Taraskh",
+    "fact": "The ritual occurs on the 2nd day of the 3rd tenday of Taraskh, a significant temporal anchor in the campaign calendar.",
+    "source_quote": "2nd day of the 3rd tenday of Taraskh",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "Session Date",
+    "fact": "The events occur during a session of play, following the completion of a ritual and the emergence of a cosmic horror. The timeline is immediate and continuous, with no temporal breaks between observation, realization, and manifestation.",
+    "source_quote": "The battle continues to rage... Daz observes the madness... Thorin then notices... Grygum thinks for a moment... Just then, he hears...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 2nd day of the 3rd Tenday of Taraskh.",
+    "source_quote": "2nd day of the 3rd tenday of Taraskh",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Blopp",
+    "fact": "Blopp screams at one of the Kuo Toans to stop the escapees from running.",
+    "source_quote": "Blopp screams at one of the Kuo Toans to stop the escapees from running.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Bloppblippodd",
+    "fact": "Bloppblippodd calls for the sacrifices to be brought forth.",
+    "source_quote": "Just then, he hears Bloppblippodd call for the sacrifices to be brought forth.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Blopp's second in command",
+    "fact": "Her second in command advances to block one route of escape.",
+    "source_quote": "Her second in command advances to block one route of escape.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Buppido",
+    "fact": "Buppido mutters, 'ahd m.'",
+    "source_quote": "ahd m.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Cleric of Bahamut",
+    "fact": "The cleric of Bahamut says, 'Gold to buy things and nothing to buy?'",
+    "source_quote": "Gold to buy things and nothing to buy?",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Completion of the Ritual",
+    "fact": "The ritual was completed when the archpriest of the Deep Father slew Blopp and uttered 'Leemooggoogoon.' This act triggered the manifestation of Demogorgon from the Darklake, fulfilling the prophecy of evil rituals summoning terrible outcomes.",
+    "source_quote": "Grygum thinks for a moment and realizes that the ritual is complete. Usually, when an evil cult completes a cruel ritual, something terrible happens.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz announces, 'We\u2019re all going to come out of this alive.'",
+    "source_quote": "We\u2019re all going to come out of this alive.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz notices the cleric running and runs after him.",
+    "source_quote": "Daz notices the cleric running and runs after him.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz observes the madness and walks towards the boat with a confident swagger, looking as if he knows what he is doing and that nobody should mess with him.",
+    "source_quote": "Daz observes the madness and walks towards the boat with a confident swagger, looking as if he knows what he is doing and that nobody should mess with him.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz shouts, 'We should check to see if we can find any supplies anywhere.'",
+    "source_quote": "We should check to see if we can find any supplies anywhere.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Duergar",
+    "fact": "The duergar looks at Grygum, surprised yet somehow comforted.",
+    "source_quote": "The duergar looks at Grygum, surprised yet somehow comforted.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Duergar",
+    "fact": "The duergar says, 'I am Hemeth.'",
+    "source_quote": "Hemeth.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Duergar",
+    "fact": "The duergar says, 'What? You are just going to show up here and die?'",
+    "source_quote": "What? You are just going to show up here and die?",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Duergar",
+    "fact": "The duergar sighs, 'Very well. Tell me when to act. And if we get out of here alive, find me in Gracklstugh.'",
+    "source_quote": "Very well. Tell me when to act. And if we get out of here alive, find me in Gracklstugh.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Duergar",
+    "fact": "The duergar's desire to live overcomes his innate cultural cynicism.",
+    "source_quote": "His desire to live overcomes his innate cultural cynicism.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Duergar Realization",
+    "fact": "Hemeth, the duergar, realizes the escapees are not passive victims and that the ritual may not proceed as the cultists believe, prompting him to seek information and a chance to survive.",
+    "source_quote": "The duergar looks at Grygum, surprised yet somehow comforted. ... 'There\u2019s more than meets the eye.' ... 'Very well. Tell me when to act.'",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Emergence of Demogorgon",
+    "fact": "Demogorgon bursts from the Darklake, thirty feet tall, with two baboon-like heads, tentacles, and blazing red eyes, heralding the ultimate evil outcome of the ritual.",
+    "source_quote": "A thick, oily tentacle bursts forth, followed by another. ... two monstrous heads break the surface, resembling hideous, enraged baboons with wickedly curved tusks. ... It throws back both its heads and lets out a mighty roar!",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Emergence of Demogorgon",
+    "fact": "Demogorgon emerged from the Darklake after the ritual\u2019s completion, bursting forth with oily tentacles, foaming water, and two monstrous baboon heads with tusks and blazing red eyes. The creature stands thirty feet tall and radiates bloodlust and madness.",
+    "source_quote": "A thick, oily tentacle burst forth, followed by another. Two monstrous heads broke the surface... water cascading down its back and shoulders.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "escapee consensus",
+    "fact": "The escapees, including Jimjar, collectively conclude they have survived the ordeal alive, despite the chaos and impending threat.",
+    "source_quote": "Jimjar mutters, 'We all made it alive.'",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "escapee exodus",
+    "fact": "The escapees, led by Daz\u2019s swaggering confidence, mimic his posture and walk toward the boat away from the battle, ignored by the warring Kuo-Toans.",
+    "source_quote": "Daz shouts, 'We should check to see if we can find any supplies anywhere.' ... Daz notices the cleric running and runs after him. ... Everyone is both pleased and disappointed... They walk towards the boat, away from the battle, with the swagger of righteous, powerful, and dangerous adventurers.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Escapee exodus to the boat",
+    "fact": "The escapees mimic Daz\u2019s swagger and walk toward the boat, away from the battle, appearing as righteous, powerful, and dangerous adventurers.",
+    "source_quote": "Daz walks towards the boat with a confident swagger, looking as if he knows what he is doing and that nobody should mess with him. ... The other escapees, seeing that, mimic him.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Escape from the Cavern",
+    "fact": "The escapees, led by Daz\u2019s bravado and Grygum\u2019s tactical insight, fled the chaos toward the eastern boat. They used the distraction of the kuo-toa infighting and Demogorgon\u2019s arrival to slip away, abandoning the altar, the dead, and the madness behind them.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "factional betrayal",
+    "fact": "Ploop betrays his daughter and attacks her along with his allies, triggering a genocidal battle between followers of the Sea Mother and the Deep Father.",
+    "source_quote": "Ploop has betrayed his daughter, not the escapees, and attacks her along with his allies.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "fish-people massacre",
+    "fact": "Kuo-Toans fishing in the Darklake are suddenly attacked by an unseen underwater enemy, resulting in their deaths and bloodied foam on the lake\u2019s surface.",
+    "source_quote": "Thorin then notices several Kuo-Toans who were previously in the water fishing and are now screaming. ... the screaming stops, and the water foams with blood. The fish people are no longer.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "free-for-all chaos",
+    "fact": "The Kuo-Toans engage in a free-for-all melee, attacking each other while ignoring the escapees, allowing the group to flee unnoticed.",
+    "source_quote": "Kuo-Toans are attacking other Kuo-Toans. And the sacrifices are now ignored. ... The Kuo Toans engaged in the melee ignore them.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Free-for-all melee",
+    "fact": "Kuo-Toans attack each other; sacrifices are ignored; the battle becomes a chaotic free-for-all.",
+    "source_quote": "Kuo-Toans are attacking other Kuo-Toans. And the sacrifices are now ignored.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum answers, 'We were told we would have to do nothing.'",
+    "source_quote": "Grygum answers, 'We were told we would have to do nothing.'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum concludes, 'No, this is going to be one of those conventional slit-their-throats with-knife sacrifices. Normally, the victims would be disarmed, but I guess they figure that part of the ritual is some of the cultists dying in the attempt?'",
+    "source_quote": "No, this is going to be one of those conventional slit-their-throats with-knife sacrifices. Normally, the victims would be disarmed, but I guess they figure that part of the ritual is some of the cultists dying in the attempt?",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum decides it's time to take a side and will go behind Ploop to heal any of his warriors.",
+    "source_quote": "He also decides it's time to take a side and will go behind Ploop to heal any of his warriors.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum examines the situation and decides that fleeing is the better part of valor.",
+    "source_quote": "Grygum examines the situation and decides that fleeing is the better part of valor.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum hears another sound rise above the burbling cries of the Kuo-toa.",
+    "source_quote": "He pauses and listens. And then thinks, 'Yep, evil outcome of evil ritual,' as he hears another sound rise above the burbling cries of the Kuo-toa.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum looks around and wonders how the sacrifice is going to be performed.",
+    "source_quote": "Grygum looks around and wonders how the sacrifice is going to be performed.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum looks at him and thinks, 'It would be cheating to let one of us die. Would he cheat?'",
+    "source_quote": "It would be cheating to let one of us die. Would he cheat?",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum mutters, 'This is bad, but it can\u2019t be what I think it is.'",
+    "source_quote": "This is bad, but it can\u2019t be what I think it is.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum notices Kuo-Toans fishing in the water beside the docks.",
+    "source_quote": "He also notices Kuo-Toans fishing in the water beside the docks.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum notices docks and boats attached to them.",
+    "source_quote": "Grygum notices docks and boats attached to them.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum notices the water's surface bubbling and beginning to foam.",
+    "source_quote": "He looks out onto the dark lake and notices the water's surface bubbling and beginning to foam.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum observes Kuo-Toan monitors standing on the docks, seemingly guarding the boats.",
+    "source_quote": "Finally, he observes Kuo-Toan monitors standing on the docks, seemingly guarding the boats.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum points to a boat in the far eastern part of the cave, guarded by a small group of isolated Kuo-Toans.",
+    "source_quote": "He points to a boat in the far eastern part of the cave, guarded by a small group of isolated Kuo-Toans.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum realizes that this creature doesn\u2019t know the plan and recognizes that this may be an opportunity to take advantage of this poor creature.",
+    "source_quote": "Grygum realizes that this creature doesn\u2019t know the plan and recognizes that this may be an opportunity to take advantage of this poor creature.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum runs into Ploop\u2019s thatched hut. Once there, he pilfers whatever treasure he can find.",
+    "source_quote": "Grygum runs into Ploop\u2019s thatched hut. Once there, he pilfers whatever treasure he can find.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum says, 'I take that back; this is bad.'",
+    "source_quote": "I take that back; this is bad.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum says, 'Let\u2019s see if there is anything we can take from Ploop. After all he promised to pay us.'",
+    "source_quote": "Let\u2019s see if there is anything we can take from Ploop. After all he promised to pay us.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum says, 'There\u2019s more than meets the eye.'",
+    "source_quote": "There\u2019s more than meets the eye.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum sees a thick, oily tentacle burst forth, followed by another.",
+    "source_quote": "And then a thick, oily tentacle bursts forth, followed by another.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum shouts, 'Demogorgon, Prince of Demons, powerful, dangerous, and we need to run.'",
+    "source_quote": "Demogorgon, Prince of Demons, powerful, dangerous, and we need to run.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum stares at the point in the lake as two monstrous heads break the surface, resembling hideous, enraged baboons with wickedly curved tusks.",
+    "source_quote": "He stares at the point in the lake as two monstrous heads break the surface, resembling hideous, enraged baboons with wickedly curved tusks.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum thinks for a moment and realizes that the ritual is complete.",
+    "source_quote": "Grygum thinks for a moment and realizes that the ritual is complete.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum, his arms full of treasure, rushes towards the group.",
+    "source_quote": "Grygum, his arms full of treasure, rushes towards the group.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum\u2019s realization",
+    "fact": "Grygum recognizes the entity as Demogorgon, recalling his mentor Grog'Bahamut\u2019s teachings on the Prince of Demons as the antithesis of Bahamut\u2019s virtues.",
+    "source_quote": "Grygum remembers from his training who and what the entity they were seeing was. He remembers his mentor, Grog'Bahamut, and what he said of the foul creature one evening. 'Demogorgon. The very name is a blasphemy against creation...'",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Hemeth\u2019s revelation",
+    "fact": "Hemeth, a duergar arms dealer, confesses he was caught up in the ritual and promised weapons to the Archpriest of the Deep Father, who said his sacrifice would be weapon enough.",
+    "source_quote": "Hemeth.\" He spits out blood. \"I am an arms dealer and got caught up in this madness. I promised weapons to the Archpriest of the Deep Father, and she said that my sacrifice would be weapon enough.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Jimjar",
+    "fact": "Jimjar mutters, 'We all made it alive.'",
+    "source_quote": "We all made it alive.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Jim Jir",
+    "fact": "Jim Jir mutters, 'Wanna bet on how many of us will come out of this alive?'",
+    "source_quote": "Wanna bet on how many of us will come out of this alive?",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Kuo-toa",
+    "fact": "One kuo-toa per escapee jumps to do her bidding.",
+    "source_quote": "One kuo-toa per escapee jumps to do her bidding.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Kuo-toa",
+    "fact": "They prod Zalthir and his fellow escapees with their spears, herding them toward a slight depression 20 feet from the altar, with a large grate at its center.",
+    "source_quote": "They prod Zalthir and his fellow escapees with their spears, herding them toward a slight depression 20 feet from the altar, with a large grate at its center.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Kuo-Toa Civil War",
+    "fact": "The followers of the Sea Mother and the Deep Father turned on each other in a genocidal melee, ignoring the escapees and the altar. The internal conflict was so total that it rendered the ritual\u2019s purpose secondary, and only Demogorgon\u2019s emergence ended the violence by making all factions irrelevant.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Other escapees",
+    "fact": "The other escapees, seeing that, mimic him.",
+    "source_quote": "The other escapees, seeing that, mimic him.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Ploop",
+    "fact": "Ploop has betrayed his daughter, not the escapees, and attacks her along with his allies.",
+    "source_quote": "Ploop has betrayed his daughter, not the escapees, and attacks her along with his allies.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Ploop\u2019s betrayal of his daughter",
+    "fact": "Ploop betrays his daughter and attacks her along with his allies, initiating the collapse of ritual order.",
+    "source_quote": "Ploop has betrayed his daughter, not the escapees, and attacks her along with his allies.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "ritual completion",
+    "fact": "The ritual is complete when the archpriest of the Deep Father calls out 'Leemooggoogoon' as her father strikes a final, fatal blow, causing Blopp to drop dead before the profane altar.",
+    "source_quote": "Just then, he hears the young archpriest of the Deep Father call out, 'Leemooggoogoon!' just as her father strikes a final, fatal blow. Blopp drops, dead, before the profane altar.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Ritual completion",
+    "fact": "The ritual is completed when the archpriest of the Deep Father calls out 'Leemooggoogoon!' and Blopp dies at the altar, triggering the emergence of Demogorgon.",
+    "source_quote": "Leemooggoogoon!\" just as her father strikes a final, fatal blow. Blopp drops, dead, before the profane altar.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Ritual Completion",
+    "fact": "The ritual to summon 'Leemooggoogoon' was completed when Bloppblippodd killed Ploop. The act triggered the manifestation of Demogorgon, revealing that the kuo-toa\u2019s faith had not created a god, but awakened an ancient Abyssal predator already present in the lake.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Ritual Sacrifice Initiation",
+    "fact": "The ritual sacrifice is being prepared with the arrival of the knife, the herding of victims to the grate, and the rising chant, signaling imminent execution.",
+    "source_quote": "Bloppblippodd gestures toward the altar and shouts, 'Bring me the knife!' ... The chanting grows louder.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "sacrifice procedure",
+    "fact": "One kuo-toa per escapee jumps to do her bidding, prodding the escapees with spears and herding them toward a slight depression 20 feet from the altar, with a large grate at its center.",
+    "source_quote": "One kuo-toa per escapee jumps to do her bidding. They prod Zalthir and his fellow escapees with their spears, herding them toward a slight depression 20 feet from the altar, with a large grate at its center.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin admits to himself that Ploop might have been playing them, and if so, between the two archpriests, enough hold persons can be cast to hold him indefinitely.",
+    "source_quote": "He admits to himself that Ploop might have been playing them, and if so, between the two archpriests, enough hold persons can be cast to hold him indefinitely.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin asks, 'Demo-who?'",
+    "source_quote": "Demo-who?",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin knows that the archpriest said Leemooggoogoon, not Demogorgon.",
+    "source_quote": "He knows that the archpriest said Leemooggoogoon, not Demogorgon.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin looks at the guards who surround them, and they are surprised.",
+    "source_quote": "Thorin looks at the guards who surround them, and they are surprised.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin mutters, 'If this is a fireball.'",
+    "source_quote": "If this is a fireball.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin notices a duergar.",
+    "source_quote": "Just then Thorin notices a duergar. He looks at the creature.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realizes it\u2019s a free-for-all. Kuo-Toans are attacking other Kuo-Toans. And the sacrifices are now ignored.",
+    "source_quote": "And then he looks around and realizes it\u2019s a free-for-all. Kuo-Toans are attacking other Kuo-Toans. And the sacrifices are now ignored.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realizes that if Ploop and Blopp are working together, they have all the necessary spells to paralyze them.",
+    "source_quote": "It\u2019s just then that Thorin realizes that if Ploop and Blopp are working together, they have all the necessary spells to paralyze them.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realizes that there are several patches of blood in the dark lake.",
+    "source_quote": "He looks around some more and realizes that there are several patches of blood in the dark lake.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin recalls Shuushar saying that the Kuo-Toans could create gods with the power of their faith.",
+    "source_quote": "He recalls Shuushar saying that the Kuo-Toans could create gods with the power of their faith.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin remembers the stories of the deep dwarves.",
+    "source_quote": "And then remembers the stories of the deep dwarves.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin then notices several Kuo-Toans who were previously in the water fishing and are now screaming.",
+    "source_quote": "Thorin then notices several Kuo-Toans who were previously in the water fishing and are now screaming.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin wonders if this is the end.",
+    "source_quote": "Thorin wonders if this is the end.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin\u2019s cognitive dissonance",
+    "fact": "Thorin struggles to accept the reality of Demogorgon, recalling Shuushar\u2019s claim that Kuo-Toans create gods through faith, and questioning whether 'Leemooggoogoon' is the same as Demogorgon.",
+    "source_quote": "Thorin asks, 'Demo-who?' He recalls Shuushar saying that the Kuo-Toans could create gods with the power of their faith, and he knows that the archpriest said Leemooggoogoon, not Demogorgon.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin\u2019s Strategic Insight",
+    "fact": "Thorin deduces that the archpriests Ploop and Blopp may be coordinating paralyzing spells to subdue the escapees, suggesting manipulation and a hidden plan beyond the ritual\u2019s surface.",
+    "source_quote": "If Ploop and Blopp are working together, they have all the necessary spells to paralyze them. He admits to himself that Ploop might have been playing them, and if so, between the two archpriests, enough hold persons can be cast to hold him indefinitely.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Underwater attack on Kuo-Toan fishermen",
+    "fact": "Kuo-Toans fishing in the Darklake are suddenly attacked by an unseen underwater enemy, and their screams stop as the water foams with blood.",
+    "source_quote": "It appears that the fish people are trying to fight some underwater enemy. And then, just like that, the screaming stops, and the water foams with blood.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Young archpriest of the Deep Father",
+    "fact": "The young archpriest of the Deep Father calls out, 'Leemooggoogoon!'",
+    "source_quote": "Leemooggoogoon!",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir can\u2019t tell one faction of fish-folk from the other but sees the archpriest of the Sea Mother and his whip moving toward the altar.",
+    "source_quote": "Zalthir, who has been observing everyone, can\u2019t tell one faction of fish-folk from the other but sees the archpriest of the Sea Mother and his whip moving toward the altar.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir observes that the stonework in the depression is marred by the blood of countless sacrifices, accompanied by the gentle sound of the Darklake lapping against the grate.",
+    "source_quote": "Zalthir observes that the stonework in the depression is marred by the blood of countless sacrifices, accompanied by the gentle sound of the Darklake lapping against the grate.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Cult of the Deep Father",
+    "fact": "The Cult of the Deep Father is a secretive, blood-obsessed faction operating alongside the Sea Mother\u2019s cult, demanding ritual sacrifices and employing duergar arms dealers as expendable assets.",
+    "source_quote": "I accept your offering in the name of the Deep Father. ... I promised weapons to the Archpriest of the Deep Father, and she said that my sacrifice would be weapon enough.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Cult of the Sea Mother",
+    "fact": "The Cult of the Sea Mother is a dominant ritual faction, led by the archpriest with whip, who commands kuo-toa and conducts ceremonies involving water, blood, and sacrifice.",
+    "source_quote": "The archpriest of the Sea Mother steps forward across the span of the altar toward the kuo-toa, waiting for him there.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Duergar",
+    "fact": "The duergar are deep dwarves driven by bottomless greed, cold utilitarianism, and a disdain for kinship and mercy. Hemeth is one such duergar, captured and forced into the ritual, yet he retained enough individuality to seek survival and escape.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Duergar",
+    "fact": "The duergar are grim reflections of their mountain kin, with no warmth in their granite hearts, no laughter in their echoing halls, and a bottomless greed that drives their every deed.",
+    "source_quote": "From the shadowed depths of the earth, where light fears to tread, crawl the duergar or deep dwarves, a grim reflection of their mountain kin. No warmth graces their granite hearts, and no laughter echoes in their echoing halls. Instead, a gnawing hunger, bottomless greed, drives their every deed.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Followers of the Deep Father",
+    "fact": "The followers of the Deep Father are the victorious faction in the genocidal war, having slain Blopp and completed the ritual. Their faith has manifested a monstrous entity from the Darklake, and their archpriest is the ritual\u2019s architect.",
+    "source_quote": "The archpriest of the Deep Father called out, 'Leemooggoogoon!' just as she struck the final, fatal blow.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Followers of the Sea Mother",
+    "fact": "The followers of the Sea Mother are engaged in a genocidal battle against the followers of the Deep Father. They are being systematically slaughtered, with their fishing members turning into screaming victims before vanishing into bloody foam.",
+    "source_quote": "The other Kuo-Toans, the followers of the Sea Mother and the followers of the Deep Father, are engaged in a genocidal battle to eliminate the other.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Kuo-Toans of the Deep Father",
+    "fact": "The Kuo-Toans of the Deep Father are engaged in a genocidal battle against the followers of the Sea Mother.",
+    "source_quote": "The other Kuo-Toans, the followers of the Sea Mother and the followers of the Deep Father, are engaged in a genocidal battle to eliminate the other.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Kuo-Toans of the Deep Father",
+    "fact": "The followers of the Deep Father, led by Bloppblippodd, performed the ritual to summon 'Leemooggoogoon.' They were equally fanatical, fought their own kin to the death, and were rendered irrelevant by the entity they summoned, which consumed their faith and their lives.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Kuo-Toans of the Sea Mother",
+    "fact": "The Kuo-Toans of the Sea Mother are engaged in a genocidal battle against the followers of the Deep Father.",
+    "source_quote": "The other Kuo-Toans, the followers of the Sea Mother and the followers of the Deep Father, are engaged in a genocidal battle to eliminate the other.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Kuo-Toans of the Sea Mother",
+    "fact": "The followers of the Sea Mother, led by Ploop, engaged in a genocidal war against the Deep Father\u2019s cultists. They were consumed by internal violence, ignored the escapees during the melee, and were ultimately wiped out or scattered as Demogorgon emerged.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "altar",
+    "fact": "The profane altar is where Blopp drops dead after the archpriest of the Deep Father calls out, 'Leemooggoogoon!'",
+    "source_quote": "Blopp drops, dead, before the profane altar.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Altar of the Sea Mother",
+    "fact": "The altar is the central ritual site, surrounded by guards and kuo-toa, where offerings are presented and the sacrifice is to be performed, marked by the presence of the archpriest and his whip.",
+    "source_quote": "The archpriest of the Sea Mother steps forward across the span of the altar toward the kuo-toa, waiting for him there.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Darklake",
+    "fact": "The Darklake is a body of water surrounding the ritual site, into which kuo-toa wade during their chants, and whose gentle lapping echoes against the sacrifice grate.",
+    "source_quote": "Part of their path sends them splashing and wading through the shallows of the Darklake. ... The gentle sound of the Darklake lapping against the grate.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Darklake",
+    "fact": "The Darklake is a subterranean body of water beneath the altar, where kuo-toans fish and where the ritual\u2019s blood offerings drain. Its surface now foams with blood, and it is the origin point of Demogorgon\u2019s emergence. It is a place of hidden horror, where fish-people were slain by unseen underwater predators before the demon\u2019s rise.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Darklake",
+    "fact": "The Darklake is a vast, dark body of water beneath the cave, where Kuo-Toans fish, scream, and vanish into bloody foam. It is the site of the ritual\u2019s culmination, where Demogorgon emerges with oily tentacles, bubbling water, and a monstrous roar.",
+    "source_quote": "The water's surface bubbled and began to foam. A thick, oily tentacle burst forth, followed by another. Two monstrous heads broke the surface... water cascading down its back and shoulders.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Darklake",
+    "fact": "The Darklake\u2019s surface bubbles and foams as a thick, oily tentacle bursts forth, followed by another, and two monstrous heads resembling hideous, enraged baboons with wickedly curved tusks break the surface.",
+    "source_quote": "The water's surface bubbling and beginning to foam. ... two monstrous heads break the surface, resembling hideous, enraged baboons with wickedly curved tusks.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Darklake blood patches",
+    "fact": "There are several patches of blood in the dark lake, following the sudden cessation of screaming fish people and the emergence of a violent underwater threat.",
+    "source_quote": "There are several patches of blood in the dark lake.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "depression stonework",
+    "fact": "The stonework in the depression where the sacrifice was to occur is marred by the blood of countless past sacrifices, with the gentle lapping of the Darklake against the grate.",
+    "source_quote": "Zalthir observes that the stonework in the depression is marred by the blood of countless sacrifices, accompanied by the gentle sound of the Darklake lapping against the grate.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Depression with Grate",
+    "fact": "The depression, located 20 feet from the altar, is the designated sacrifice site, featuring a large grate below and stained with the blood of countless past victims, while the Darklake laps gently against it.",
+    "source_quote": "Herding them toward a slight depression 20 feet from the altar, with a large grate at its center. ... Zalthir observes that the stonework in the depression is marred by the blood of countless sacrifices, accompanied by the gentle sound of the Darklake lapping against the grate.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "docks and boats",
+    "fact": "Docks and boats are attached to the cave\u2019s edge, with Kuo-Toans fishing beside them and monitors standing guard on the docks.",
+    "source_quote": "He also notices docks and boats attached to them. He also notices Kuo-Toans fishing in the water beside the docks. Finally, he observes Kuo-Toan monitors standing on the docks, seemingly guarding the boats.",
+    "quote_verified": false,
+    "passes": [
+      "sweep",
+      "temporal"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "location",
+    "subject": "Docks and Boats",
+    "fact": "The docks are wooden structures attached to the cave\u2019s edge, with boats moored beside them. Kuo-Toan monitors stand guard upon them, while fishing Kuo-Toans were previously active in the water. One boat in the far eastern part is guarded by a small group of isolated Kuo-Toans.",
+    "source_quote": "Grygum noticed docks and boats attached to them. He also noticed Kuo-Toans fishing in the water beside the docks. Finally, he observed Kuo-Toan monitors standing on the docks, seemingly guarding the boats.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Docks and boats near the cave",
+    "fact": "The docks and boats are a hidden escape route, guarded by kuo-toan monitors and used by fishers. Grygum identifies a boat in the far eastern cave as the best chance for escape. The boats represent freedom, practicality, and the last hope of survival amid divine horror.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh is a duergar stronghold in the Underdark, referenced by Hemeth as his intended destination if he escapes. It symbolizes the duergar\u2019s isolation, industrial cruelty, and enduring presence in the deep earth.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh is a subterranean duergar stronghold referenced by Hemeth as a potential meeting point if he survives the ritual.",
+    "source_quote": "And if we get out of here alive, find me in Gracklstugh.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Ploop\u2019s thatched hut",
+    "fact": "Grygum runs into Ploop\u2019s thatched hut and pilfers whatever treasure he can find.",
+    "source_quote": "He runs into Ploop\u2019s thatched hut. Once there, he pilfers whatever treasure he can find.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Ploop\u2019s thatched hut",
+    "fact": "Ploop\u2019s thatched hut contains stolen treasure, as Grygum pilfers whatever he can find after the ritual\u2019s completion.",
+    "source_quote": "He runs into Ploop\u2019s thatched hut. Once there, he pilfers whatever treasure he can find.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Ploop\u2019s Thatched Hut",
+    "fact": "Ploop\u2019s thatched hut is a small, crude dwelling where Grygum entered and pilfered treasure. It is the site of the first act of betrayal and looting after the ritual\u2019s completion.",
+    "source_quote": "He ran into Ploop\u2019s thatched hut. Once there, he pilfered whatever treasure he could find.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Ploop\u2019s thatched hut",
+    "fact": "Ploop\u2019s thatched hut is the personal quarters of the archpriest of the Sea Mother. Grygum raided it for treasure, finding gold and magic items. It stands as a symbol of false authority and the fleeting nature of power\u2014now abandoned, looted, and irrelevant.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Demogorgon",
+    "fact": "Demogorgon is a creature of pure chaos, a monstrous embodiment of the Abyss's insatiable hunger for destruction. He has two heads, each a font of corruption, embodying the duality of his vile nature: one whispers insidious lies, tempting the weak to embrace the darkness, while the other roars with primal fury, reveling in carnage and despair. His form is a grotesque mockery of life, a twisted amalgamation of reptilian savagery and demonic power. Tentacles replace hands, dripping with the venom of chaos, while his twin necks support heads that mirror the fractured nature of his soul. He is the antithesis of all Bahamut stands for: justice, order, and compassion. He commands legions of demons, each a vile reflection of his depravity, and his influence spreads like a plague across the planes. He is a predator of souls, a corrupter of the innocent, and a destroyer of worlds. To face Demogorgon is to confront the ultimate darkness, the purest form of evil.",
+    "source_quote": "Demogorgon. The very name is a blasphemy against creation, a festering wound upon the fabric of reality. He is a creature of pure chaos, a monstrous embodiment of the Abyss's insatiable hunger for destruction. Two heads, each a font of corruption, embody the duality of his vile nature: one whispers insidious lies, tempting the weak to embrace the darkness, while the other roars with primal fury, reveling in carnage and despair. His form is a grotesque mockery of life, a twisted amalgamation of reptilian savagery and demonic power. Tentacles replace hands, dripping with the venom of chaos, while his twin necks support heads that mirror the fractured nature of his soul. He is the antithesis of all Bahamut stands for: justice, order, and compassion. Where Bahamut offers protection and guidance, Demogorgon sows discord and ruin. Where Bahamut inspires hope, Demogorgon revels in despair. He is a predator of souls, a corrupter of the innocent, and a destroyer of worlds. He commands legions of demons, each a vile reflection of his depravity, and his influence spreads like a plague across the planes. To face Demogorgon is to confront the ultimate darkness, the purest form of evil.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Demogorgon",
+    "fact": "Demogorgon is a thirty-foot-tall, two-headed, baboon-like abomination with wickedly curved tusks, red blazing eyes, and a single monstrous torso. It emerged from the Darklake after the completion of the ritual, bursting forth with oily tentacles, foaming water, and a deafening roar. It radiates bloodlust and madness.",
+    "source_quote": "Two monstrous heads broke the surface, resembling hideous, enraged baboons with wickedly curved tusks. Both heads are attached to a single torso, and the monster\u2019s red eyes blaze with bloodlust and madness. 'Bahamut, save us; that\u2019s Demogorgon,' he shouted.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Demogorgon",
+    "fact": "Demogorgon, Prince of Demons, emerges from the Darklake, thirty feet tall, with two heads resembling hideous, enraged baboons, twin necks, tentacles, and red eyes blazing with bloodlust and madness.",
+    "source_quote": "This is bad, but it can\u2019t be what I think it is,\" he mutters. ... \"Bahamut, save us; that\u2019s Demogorgon,\" he shouts.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Demogorgon",
+    "fact": "Demogorgon, the Prince of Demons, is a thirty-foot-tall Abyssal horror with two baboon-like heads, writhing tentacles, and red, bloodlust-filled eyes. He erupted from the Darklake after the ritual\u2019s completion, a physical manifestation of the Abyss\u2019s hunger. His presence defies belief, and his roar shakes the cavern. He is the antithesis of Bahamut\u2019s order and the embodiment of chaos, corruption, and despair.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Demogorgon emergence",
+    "fact": "A thirty-foot-tall, two-headed, tentacled monster with crimson eyes and a body of cascading water bursts from the Darklake, identified by Grygum as Demogorgon, Prince of Demons.",
+    "source_quote": "A thick, oily tentacle bursts forth, followed by another. ... Two monstrous heads break the surface, resembling hideous, enraged baboons with wickedly curved tusks. ... The creature emerging from the Darklake stands thirty feet tall... 'Bahamut, save us; that\u2019s Demogorgon,' he shouts.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Duergar",
+    "fact": "Duergar are grim, gold-obsessed subterranean warriors who have been coerced into the ritual, their culture defined by ceaseless toil, greed, and the absence of mercy.",
+    "source_quote": "From the shadowed depths of the earth, where light fears to tread, crawl the duergar or deep dwarves, a grim reflection of their mountain kin. No warmth graces their granite hearts, and no laughter echoes in their echoing halls. Instead, a gnawing hunger, bottomless greed, drives their every deed. Gold, not glory, fuels their forges, and the clang of hammer on steel is a dirge, not a song.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "duergar count",
+    "fact": "A duergar or deep dwarf is present, a grim reflection of their mountain kin, with no warmth in their granite hearts and no laughter in their echoing halls.",
+    "source_quote": "duergar or deep dwarves, a grim reflection of their mountain kin. No warmth graces their granite hearts, and no laughter echoes in their echoing halls.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Kuo-toa",
+    "fact": "Kuo-toa are the ritual enforcers, prodding escapees with spears, chanting in circles, and wading through the Darklake as part of the ceremony.",
+    "source_quote": "Kuo-toans parade around the altar in a wide circle as they chant. Part of their path sends them splashing and wading through the shallows of the Darklake. ... One kuo-toa per escapee jumps to do her bidding. They prod Zalthir and his fellow escapees with their spears, herding them toward a slight depression 20 feet from the altar, with a large grate at its center.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Archpriest of the Deep Father",
+    "fact": "The archpriest of the Deep Father completed the ritual by slaying Blopp and uttering the incantation 'Leemooggoogoon.' She is the agent of the ritual\u2019s fulfillment, and her faith has summoned a monstrous entity from the Darklake.",
+    "source_quote": "The archpriest of the Deep Father called out, 'Leemooggoogoon!' just as she struck the final, fatal blow.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Archpriest of the Sea Mother",
+    "fact": "The Archpriest of the Sea Mother is leading the ritual at the altar, gesturing toward offerings and commanding the kuo-toa, with a whip in hand as he moves toward the sacred space.",
+    "source_quote": "The archpriest of the Sea Mother steps forward across the span of the altar toward the kuo-toa, waiting for him there. 'The time has come,' he says, 'for us to acknowledge and welcome your divine vision. I have brought these as offerings.' He gestures toward all of you, standing within a circle of guards behind him.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Blopp",
+    "fact": "Blopp is the leader of the followers of the Sea Mother, engaged in a genocidal war against the Deep Father\u2019s cult. He was slain by the archpriest of the Deep Father after uttering the final ritual phrase, 'Leemooggoogoon,' marking the ritual's completion.",
+    "source_quote": "Blopp dropped, dead, before the profane altar. The archpriest of the Deep Father called out, 'Leemooggoogoon!' just as she struck the final, fatal blow.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Bloppblippodd",
+    "fact": "Bloppblippodd calls for the sacrifices to be brought forth and shouts, 'Bring me the knife!'",
+    "source_quote": "Bring me the knife!",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Bloppblippodd",
+    "fact": "Bloppblippodd is an archpriest commanding the sacrifice procession, ordering the kuo-toa to bring forth the victims and demanding the ritual knife.",
+    "source_quote": "Just then, he hears Bloppblippodd call for the sacrifices to be brought forth. ... Bloppblippodd gestures toward the altar and shouts, 'Bring me the knife!'",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Bloppblippodd",
+    "fact": "Bloppblippodd is the young archpriest of the Deep Father who orchestrated the ritual, called for the sacrifices, and delivered the final blow to Ploop. Her incantation 'Leemooggoogoon' summoned Demogorgon, and she died moments after completing the ritual.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz announces that they are all going to come out of this alive and walks toward the boat with a confident swagger, which the other escapees mimic.",
+    "source_quote": "We\u2019re all going to come out of this alive.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a bold, charismatic escapee who confidently led the group toward the boat by mimicking an aura of authority. He claimed all escapees would survive, and his demeanor inspired others to follow suit. He is observant, unafraid, and focused on practical survival over ritual meaning.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is an adventurer who shouted for supplies, followed the cleric running after him, and later swaggered toward the boat with confidence, mimicking the demeanor of a powerful, dangerous adventurer. He is skeptical of the creature\u2019s identity and recalls Shuushar\u2019s teachings about Kuo-Toan god-creation.",
+    "source_quote": "Daz shouted, 'We should check to see if we can find any supplies anywhere.' He later walked toward the boat with a confident swagger, his chest puffed, arms swaying, stride big.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is an escapee who confidently declares that all of them will survive the ritual, standing in stark contrast to the grim expectations of others.",
+    "source_quote": "Daz announces, 'We\u2019re all going to come out of this alive.'",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gorg'Bahamut",
+    "fact": "Gorg'Bahamut said, 'A hoard is always a valuable thing and a blessing from Bahamut.'",
+    "source_quote": "A hoard is always a valuable thing and a blessing from Bahamut.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grog'Bahamut",
+    "fact": "Grog'Bahamut said, 'Demogorgon. The very name is a blasphemy against creation, a festering wound upon the fabric of reality. He is a creature of pure chaos, a monstrous embodiment of the Abyss's insatiable hunger for destruction. Two heads, each a font of corruption, embody the duality of his vile nature: one whispers insidious lies, tempting the weak to embrace the darkness, while the other roars with primal fury, reveling in carnage and despair. His form is a grotesque mockery of life, a twisted amalgamation of reptilian savagery and demonic power. Tentacles replace hands, dripping with the venom of chaos, while his twin necks support heads that mirror the fractured nature of his soul. He is the antithesis of all Bahamut stands for: justice, order, and compassion. Where Bahamut offers protection and guidance, Demogorgon sows discord and ruin. Where Bahamut inspires hope, Demogorgon revels in despair. He is a predator of souls, a corrupter of the innocent, and a destroyer of worlds. He commands legions of demons, each a vile reflection of his depravity, and his influence spreads like a plague across the planes. To face Demogorgon is to confront the ultimate darkness, the purest form of evil. Yet, even in the face of such horror, we, the followers of Bahamut, will not falter. We will stand against him, armed with faith and righteousness, and we will fight to protect the innocent from his insidious grasp. For even in the deepest shadows, the light of justice can prevail.'",
+    "source_quote": "Demogorgon.  The very name is a blasphemy against creation, a festering wound upon the fabric of reality.  He is a creature of pure chaos, a monstrous embodiment of the Abyss's insatiable hunger for destruction.  Two heads, each a font of corruption, embody the duality of his vile nature: one whispers insidious lies, tempting the weak to embrace the darkness, while the other roars with primal fury, reveling in carnage and despair.  His form is a grotesque mockery of life, a twisted amalgamation of reptilian savagery and demonic power.  Tentacles replace hands, dripping with the venom of chaos, while his twin necks support heads that mirror the fractured nature of his soul. He is the antithesis of all Bahamut stands for: justice, order, and compassion.  Where Bahamut offers protection and guidance, Demogorgon sows discord and ruin.  Where Bahamut inspires hope, Demogorgon revels in despair.  He is a predator of souls, a corrupter of the innocent, and a destroyer of worlds.  He commands legions of demons, each a vile reflection of his depravity, and his influence spreads like a plague across the planes. To face Demogorgon is to confront the ultimate darkness, the purest form of evil.  Yet, even in the face of such horror, we, the followers of Bahamut, will not falter.  We will stand against him, armed with faith and righteousness, and we will fight to protect the innocent from his insidious grasp.  For even in the deepest shadows, the light of justice can prevail.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a cleric of Bahamut who pilfered treasure from Ploop\u2019s thatched hut, declared fleeing as the better part of valor, and later recognized the ritual's completion and the emergence of Demogorgon. He is mentally struggling with the horror of the entity before him, recalling his mentor Gorg\u2019Bahamut\u2019s teachings about hoards as blessings.",
+    "source_quote": "Grygum ran into Ploop\u2019s thatched hut and pilfered whatever treasure he could find. He muttered, 'A hoard is always a valuable thing and a blessing from Bahamut.'",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a cleric of Bahamut who recognizes Demogorgon and urges the escapees to flee. He pilfered treasure from Ploop\u2019s hut, chose to side with Ploop during the kuo-toa civil war, and healed his warriors. He is burdened by faith, pragmatism, and the weight of knowing what he has seen.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a cleric who decides to take a side and will go behind Ploop to heal any of his warriors. He pilfers treasure from Ploop\u2019s thatched hut and believes a hoard is a blessing from Bahamut.",
+    "source_quote": "Let\u2019s see if there is anything we can take from Ploop. After all he promised to pay us.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is an escapee who initially believed no action was required, but now realizes the ritual\u2019s danger and is actively analyzing its mechanics, suspecting conventional throat-slitting as the method.",
+    "source_quote": "We were told we would have to do nothing.' ... 'No, this is going to be one of those conventional slit-their-throats with-knife sacrifices. Normally, the victims would be disarmed, but I guess they figure that part of the ritual is some of the cultists dying in the attempt?'",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum recalls his mentor Grog'Bahamut's teachings about Demogorgon and now recognizes the creature as an immediate existential threat. He chooses not to dwell on the details and instead issues a urgent warning to flee.",
+    "source_quote": "Grygum thinks now is not the time to delve too deeply into this topic and shouts, \"Demogorgon, Prince of Demons, powerful, dangerous, and we need to run.\"",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum's mentor, Gorg'Bahamut",
+    "fact": "Gorg'Bahamut is Grygum\u2019s deceased mentor who taught him that a hoard is a blessing from Bahamut and who warned him of Demogorgon as the antithesis of all justice, order, and compassion. His teachings now guide Grygum\u2019s understanding of the horror before them.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Hemeth",
+    "fact": "Hemeth is a duergar arms dealer who was captured and coerced into the ritual, believing his weapons will serve as his sacrifice, and has now recognized an opportunity to survive by learning the escapees' true intentions.",
+    "source_quote": "I am an arms dealer and got caught up in this madness. I promised weapons to the Archpriest of the Deep Father, and she said that my sacrifice would be weapon enough.'",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Hemeth",
+    "fact": "Hemeth is a duergar arms dealer who was captured and forced into the ritual. He was unaware of the plan, believed his sacrifice would be weapon enough, and was surprised when Grygum offered no violence. He revealed his intended destination\u2014Gracklstugh\u2014and survived the chaos.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Hemeth",
+    "fact": "Hemeth is an arms dealer who got caught up in this madness.",
+    "source_quote": "I am an arms dealer and got caught up in this madness.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Hemeth",
+    "fact": "Hemeth is an arms dealer who got caught up in this madness. He promised weapons to the Archpriest of the Deep Father, and she said that his sacrifice would be weapon enough.",
+    "source_quote": "I am an arms dealer and got caught up in this madness. I promised weapons to the Archpriest of the Deep Father, and she said that my sacrifice would be weapon enough.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is a cynical escapee who wagered on who would die, but later exclaimed, 'We all made it alive.' He joined the group fleeing toward Grygum and the boat, embodying the group\u2019s shift from passive victims to active survivors.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar mutters, 'We all made it alive.'",
+    "source_quote": "We all made it alive.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jim Jir",
+    "fact": "Jim Jir is an escapee who cynically bets on the likelihood of death during the ritual, reflecting the group\u2019s pervasive dread.",
+    "source_quote": "Jim Jir mutters, 'Wanna bet on how many of us will come out of this alive?'",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Ploop",
+    "fact": "Ploop has betrayed his daughter, not the escapees, and attacks her along with his allies.",
+    "source_quote": "Ploop has betrayed his daughter, not the escapees, and attacks her along with his allies.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Ploop",
+    "fact": "Ploop is the archpriest of the Sea Mother who betrayed his own daughter and attacked her alongside his followers. He was slain by his rival, the young archpriest of the Deep Father, during the ritual\u2019s climax, triggering the summoning of Demogorgon.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a perceptive survivor who deduced that Ploop and Blopp had spells to paralyze the escapees, suspected betrayal, and initially refused to believe the creature emerging from the lake was Demogorgon due to cognitive dissonance. He recalls Shuushar\u2019s teachings about kuo-toa god-creation and is shaken by the reality of the Abyssal Prince.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is an escapee who has deduced that the archpriests Ploop and Blopp may be coordinating spells to paralyze the victims, and suspects he has been manipulated by them, now realizing the ritual\u2019s imminent execution.",
+    "source_quote": "If this is a fireball.' ... 'If Ploop and Blopp are working together, they have all the necessary spells to paralyze them. He admits to himself that Ploop might have been playing them, and if so, between the two archpriests, enough hold persons can be cast to hold him indefinitely.'",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin observed the guards surrounding them, noticed the fishing Kuo-Toans turning into screaming victims, and later witnessed the emergence of Demogorgon. He is in denial, questioning the creature\u2019s identity, recalling Shuushar\u2019s belief that Kuo-Toans forge gods through faith, and experiencing cognitive dissonance to avoid confronting the horror.",
+    "source_quote": "Thorin asked, 'Demo-who?' He recalled Shuushar saying that the Kuo-Toans could create gods with the power of their faith, and he knows that the archpriest said Leemooggoogoon, not Demogorgon.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin realizes that if Ploop and Blopp are working together, they have all the necessary spells to paralyze them, and he admits to himself that Ploop might have been playing them.",
+    "source_quote": "If this is a fireball.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Whisperwind",
+    "fact": "Whisperwind warned Thorin of the deep dwarves.",
+    "source_quote": "Whisperwind, a giant friend, warned him of the deep dwarves.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Younger Archpriest",
+    "fact": "The younger archpriest accepts the offering in the name of the Deep Father, affirming the ritual\u2019s purpose and inciting the kuo-toa\u2019s cheer with his declaration.",
+    "source_quote": "'You are wise, father,' the younger archpriest replies. 'I accept your offering in the name of the Deep Father. May their blood nourish and strengthen him!' A burbling cheer rises from the surrounding kuo-toa, their fists raised.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is an observant escapee who notes the bloodstained stonework of the sacrifice depression and the lapping of the Darklake, while being herded toward the grate by kuo-toa.",
+    "source_quote": "Zalthir observes that the stonework in the depression is marred by the blood of countless sacrifices, accompanied by the gentle sound of the Darklake lapping against the grate.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is an observant escapee who noticed the archpriest of the Sea Mother and her whip approaching the altar. He observed the bloodstained stonework and the lapping of the Darklake, and later joined the group at the boat, recognizing the futility of the ritual but not the nature of the entity summoned.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir observes that the stonework in the depression is marred by the blood of countless sacrifices, accompanied by the gentle sound of the Darklake lapping against the grate.",
+    "source_quote": "The stonework in the depression is marred by the blood of countless sacrifices, accompanied by the gentle sound of the Darklake lapping against the grate.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "knife",
+    "fact": "The knife is the ritual implement demanded by Bloppblippodd to complete the sacrifice.",
+    "source_quote": "Bring me the knife!",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Ritual Knife",
+    "fact": "The ritual knife is the final instrument to be brought forth, signaling the immediate commencement of the sacrifice, demanded by Bloppblippodd.",
+    "source_quote": "Bloppblippodd gestures toward the altar and shouts, 'Bring me the knife!'",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Treasure from Ploop\u2019s Hut",
+    "fact": "The treasure looted from Ploop\u2019s thatched hut consists of gold and magical items, which Grygum prioritized over mundane supplies. It represents the immediate reward for betrayal and the catalyst for the group\u2019s next move.",
+    "source_quote": "Daz had suggested they try and find supplies, but gold and magic would have to do.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "treasure hoard",
+    "fact": "Grygum gathers treasure from Ploop\u2019s hut, including gold and magic items, which the group views as valuable despite lacking immediate uses.",
+    "source_quote": "He pilfers whatever treasure he can find. ... Gold and magic would have to do. ... 'Gold to buy things and nothing to buy?' ... 'A hoard is always a valuable thing and a blessing from Bahamut.'",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "weapons",
+    "fact": "Hemeth promised weapons to the Archpriest of the Deep Father, and she declared his sacrifice would be weapon enough.",
+    "source_quote": "I promised weapons to the Archpriest of the Deep Father, and she said that my sacrifice would be weapon enough.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Weapons Promised to Archpriest",
+    "fact": "Hemeth\u2019s promised weapons were intended as his sacrifice, implying the cult values material offerings over lives \u2014 a detail that may be exploitable.",
+    "source_quote": "I promised weapons to the Archpriest of the Deep Father, and she said that my sacrifice would be weapon enough.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Buppido\u2019s muttering",
+    "fact": "Buppido mutters, 'ahd m.'",
+    "source_quote": "Buppido mutters, 'ahd m.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Daz\u2019s confidence",
+    "fact": "Daz walks with a swagger of righteous power, and the other escapees mimic him, believing they are perceived as dangerous adventurers.",
+    "source_quote": "Daz walks towards the boat with a confident swagger, looking as if he knows what he is doing and that nobody should mess with him.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Demogorgon\u2019s identity",
+    "fact": "Thorin doubts the creature is Demogorgon because the archpriest called it 'Leemooggoogoon,' and he recalls Shuushar saying Kuo-Toans can create gods with faith.",
+    "source_quote": "Demo-who?\" He recalls Shuushar saying that the Kuo-Toans could create gods with the power of their faith, and he knows that the archpriest said Leemooggoogoon, not Demogorgon.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Demogorgon's presence",
+    "fact": "Demogorgon has been identified in the vicinity, signaling an imminent and catastrophic threat. The party must respond to his presence without delay.",
+    "source_quote": "Grygum thinks now is not the time to delve too deeply into this topic and shouts, \"Demogorgon, Prince of Demons, powerful, dangerous, and we need to run.\"",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Escape Plan Uncertainty",
+    "fact": "The escapees are uncertain whether the ritual can be subverted, whether allies exist among the cultists, or if the duergar Hemeth can be turned into an asset, leaving their survival in question.",
+    "source_quote": "The escapees are wondering if they are about to be betrayed. ... 'There\u2019s more than meets the eye.' ... 'Tell me when to act.'",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Faction Identity Confusion",
+    "fact": "Observers like Zalthir and the archpriest\u2019s whip-mover cannot distinguish between kuo-toa factions, suggesting the ritual\u2019s structure may be deliberately opaque or that the cult is a conglomerate of confused loyalties.",
+    "source_quote": "Zalthir, who has been observing everyone, can\u2019t tell one faction of fish-folk from the other but sees the archpriest of the Sea Mother and his whip moving toward the altar.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Grygum\u2019s Hoard",
+    "fact": "Grygum now carries treasure looted from Ploop\u2019s hut. His mentor taught him that a hoard is a blessing\u2014but in the face of Demogorgon, it is also a burden. Will he use it to buy aid? Will it draw unwanted attention? Is it truly a blessing, or a temptation?",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Grygum's internal conflict",
+    "fact": "Grygum wonders whether it would be cheating to let one of the escapees die, but his ultimate moral stance on this is unresolved.",
+    "source_quote": "It would be cheating to let one of us die. Would he cheat?",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Grygum\u2019s mentorship",
+    "fact": "Grygum remembers his mentor Grog'Bahamut\u2019s teachings on Demogorgon as a blasphemy against creation and the antithesis of Bahamut\u2019s values.",
+    "source_quote": "Demogorgon. The very name is a blasphemy against creation, a festering wound upon the fabric of reality. He is a creature of pure chaos, a monstrous embodiment of the Abyss's insatiable hunger for destruction.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Grygum\u2019s moral dilemma",
+    "fact": "Grygum wonders if it would be cheating to let one of the escapees die, and whether he himself would cheat.",
+    "source_quote": "It would be cheating to let one of us die. Would he cheat?",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Grygum\u2019s prayer",
+    "fact": "Grygum prays, 'Not to worry, just water effects,' before realizing the horror is real.",
+    "source_quote": "Not to worry, just water effects,\" he prays.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Hemeth\u2019s final words",
+    "fact": "Hemeth spits out blood as he gives his name and explains his role in the ritual.",
+    "source_quote": "He spits out blood. 'I am an arms dealer and got caught up in this madness.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Hemeth's promise",
+    "fact": "Hemeth promised weapons to the Archpriest of the Deep Father, but the weapons' nature and delivery status are unspecified.",
+    "source_quote": "I promised weapons to the Archpriest of the Deep Father, and she said that my sacrifice would be weapon enough.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Hemeth\u2019s Promise",
+    "fact": "Hemeth, the duergar, asked to be found in Gracklstugh if he escapes. Whether he survives, whether the escapees find him, and whether he can be trusted remains an open thread. His survival and potential alliance may be critical in the Underdark.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Identity Denial of Demogorgon",
+    "fact": "Thorin is experiencing cognitive dissonance, refusing to accept that the entity is Demogorgon, despite the evidence. He recalls Shuushar\u2019s teachings that Kuo-Toans forge gods through faith, and the archpriest\u2019s incantation was 'Leemooggoogoon,' not Demogorgon. The horror of the being is so great his mind resists naming it.",
+    "source_quote": "In many ways, it\u2019s amazing how the brain will convince you that the thing you are seeing is not what you are seeing because the horror of that being in front of you is too terrible. Thorin was experiencing that.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Kuo-Toan God-creation Doctrine",
+    "fact": "The Kuo-Toans believe they can forge gods through collective faith and ritual, as taught by Shuushar. This doctrine underlies the ritual\u2019s purpose, yet the entity that emerged is named Demogorgon \u2014 a known Outer God \u2014 creating a contradiction between belief and reality.",
+    "source_quote": "He recalls Shuushar saying that the Kuo-Toans could create gods with the power of their faith, and he knows that the archpriest said Leemooggoogoon, not Demogorgon.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Leemooggoogoon",
+    "fact": "The archpriest called out 'Leemooggoogoon,' but the entity that emerged is Demogorgon; the reason for the mismatch is unexplained.",
+    "source_quote": "Leemooggoogoon!",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Leemooggoogoon vs. Demogorgon",
+    "fact": "The kuo-toa believed they were summoning a god named 'Leemooggoogoon'\u2014a name shaped by their faith and language. But the entity that emerged was Demogorgon, the Prince of Demons. This discrepancy suggests either the kuo-toa\u2019s faith twisted reality, or their ritual unknowingly opened a door to a pre-existing Abyssal horror. The truth remains unspoken, a terrifying mystery.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Ploop's betrayal",
+    "fact": "Ploop betrayed his daughter, but the nature of their relationship and the motive for betrayal are not specified.",
+    "source_quote": "Ploop has betrayed his daughter, not the escapees, and attacks her along with his allies.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Kuo-Toan factions",
+    "fact": "The Kuo-Toans of the Sea Mother and the Deep Father are engaged in genocidal warfare, but the origin of their schism is unexplained.",
+    "source_quote": "The other Kuo-Toans, the followers of the Sea Mother and the followers of the Deep Father, are engaged in a genocidal battle to eliminate the other.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The underwater enemy",
+    "fact": "An unseen enemy kills the fishing Kuo-Toans, but its identity and origin are unspecified.",
+    "source_quote": "It appears that the fish people are trying to fight some underwater enemy.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Underwater Predators",
+    "fact": "Before Demogorgon rose, unseen creatures in the Darklake killed the kuo-toan fishers. Were they natural? Were they servants of Demogorgon? Did the ritual awaken them too? Their existence and fate remain unexplained, a silent prelude to the greater horror.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Thorin\u2019s realization",
+    "fact": "Thorin realizes that if Ploop and Blopp are working together, they have all the necessary spells to paralyze them, and he suspects Ploop has been playing them.",
+    "source_quote": "If this is a fireball.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  }
+]

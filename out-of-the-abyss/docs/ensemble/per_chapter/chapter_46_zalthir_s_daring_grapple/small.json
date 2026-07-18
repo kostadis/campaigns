@@ -1,0 +1,331 @@
+[
+  {
+    "type": "npc",
+    "subject": "Dasco Pickshine",
+    "fact": "Dasco Pickshine is the owner of Pickshine Mines and is obsessively committed to brand promotion, having sewn a Dasco Pickshine patch onto Daz's clothing and offered branded tea with a holistic marketing approach.",
+    "source_quote": "He personally sewed a Dasco Pickshine patch onto Daz's clothes, standing proudly beside the much taller dragonborn.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is the formally recognized general in charge of the party's mission, with Grygum and Zalthir serving as lieutenants who can also give orders.",
+    "source_quote": "Daz was formally recognized as the general in charge, with Grygum and Zalthir serving as lieutenants who could also give orders.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Chipgrin",
+    "fact": "Chipgrin leads a pack of wererats who are highly stealthy and took offense at being called noisy, emphasizing their scouting capabilities and agreeing to operate from reserve at area twenty-two.",
+    "source_quote": "Chipgrin and his wererats, taking offense at any suggestion they might be noisy, emphasized their stealth capabilities and agreed to scout ahead while the other allies waited in reserve at area twenty-two.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum serves as a lieutenant under Daz and demonstrated insight by persuading Thorin that walking across the bridge was a valid and satisfying option, not requiring a jump.",
+    "source_quote": "Grygum, with a flash of insight, realized that Jimjar hadn't specified how Thorin should cross and persuaded the dwarf that he could simply walk across the bridge once it was built.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir serves as a lieutenant under Daz and is part of the command structure authorized to give orders during the mission.",
+    "source_quote": "Daz was formally recognized as the general in charge, with Grygum and Zalthir serving as lieutenants who could also give orders.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a dwarf who initially considered jumping across a bridge of acid but was persuaded by his sentient sword Dawnbringer to walk instead to avoid getting stuck in acid.",
+    "source_quote": "Thorin initially considered the more dramatic option of jumping, but his sentient sword Dawnbringer argued against getting stuck in acid. After a brief dialogue between dwarf and blade, Thorin agreed that walking would be just as satisfying.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is Thorin's sentient sword that advised against jumping into acid, arguing that walking across the bridge would be equally satisfying and safer.",
+    "source_quote": "His sentient sword Dawnbringer argued against getting stuck in acid.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar made a bet that Thorin couldn't clear the gap with his pack on and later joked about Daz's reflection being better looking than the real thing, though Daz refused to engage.",
+    "source_quote": "Jimjar made a bet that Thorin couldn't clear the gap with his pack on... Jimjar made a joke about Daz's reflection being better looking than the real thing, though Daz refused to engage with such parlor games.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Senni Diggermattock",
+    "fact": "Senni Diggermattock is deeply concerned for civilian areas of Blingdenstone and fears the party's failure might go unnoticed until the town is overrun, contrasting with Chief Dorbo's profit-driven motives.",
+    "source_quote": "Senni Diggermattock, her face etched with concern, explained her fears for the civilian areas of Blingdenstone and worried that without a proper diversion, the party's failure might go unnoticed until the town was already overrun.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Chief Dorbo Diggermattock",
+    "fact": "Chief Dorbo Diggermattock is profit-motivated and focused on protecting the mines, advocating for a full assault despite concerns for civilians.",
+    "source_quote": "It became clear that while Chief Dorbo was profit-motivated and focused on protecting the mines, Senni cared deeply about the people and the community they had built.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Pickshine Miners",
+    "fact": "The Pickshine Miners are a group under Dasco Pickshine who built a mithral-and-salt bridge over a black pudding pit in twenty minutes while singing cheerful songs, and agreed to stay behind to maintain it against acid.",
+    "source_quote": "The Pickshine Miners enthusiastically set to work, completing the bridge in about twenty minutes while singing cheerful songs.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Wererats",
+    "fact": "The wererats, led by Chipgrin, are stealthy scouts who agreed to operate from reserve and later attempted to rescue a captured scout from gelatinous slime mirrors, offering to howl to drown out psychic effects at the cost of drawing oozes to themselves.",
+    "source_quote": "Chipgrin went to investigate and found the scout caught and terrified... Chipgrin offered two options: his pack could howl at a frequency that would drown out the psychic effect... this would draw all the oozes to attack the wererats.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Black Pudding Pit",
+    "fact": "A twenty-foot stretch of passageway has been hollowed into a pulsating pit of black pudding with an acid-dripping ceiling, capable of spreading through rubble.",
+    "source_quote": "A twenty-foot stretch of passageway had been hollowed out into a pulsating pit of black pudding, with an acid-dripping ceiling above.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Gelatinous Slime Mirrors",
+    "fact": "Tunnel walls have transformed into sheets of gelatinous slime acting as dark, weeping mirrors with psychic effects, and a 'brain slime' in the ceiling emits rhythmic wet clicking and sings a psychic song that turns minds into puddles.",
+    "source_quote": "The tunnel walls had transformed into sheets of gelatinous slime acting as dark, weeping mirrors with psychic effects. A 'brain slime' in the ceiling emitted a rhythmic, wet clicking and sang a psychic song that turned minds into puddles.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Ochre Jelly Wall",
+    "fact": "A massive, quivering wall of translucent ochre jelly fills a grand vaulted corridor from floor to ceiling, pulsing with a rhythmic thrum matching the Pudding King's heartbeat, with thick pseudopods lashing out to pull intruders into its acidic mass.",
+    "source_quote": "A grand vaulted corridor barred by a massive, quivering wall of translucent ochre jelly. The creature filled the hallway from floor to ceiling, pulsing with a rhythmic thrum that matched the Pudding King's own heartbeat. Thick pseudopods lashed out from the jelly, attempting to pull intruders into its acidic mass.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Brain Slime",
+    "fact": "A brain slime in the ceiling of the gelatinous slime tunnel emits rhythmic wet clicking and sings a psychic song that turns minds into puddles, acting as the source of the psychic effects.",
+    "source_quote": "A 'brain slime' in the ceiling emitted a rhythmic, wet clicking and sang a psychic song that turned minds into puddles.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Second Wererat Scout",
+    "fact": "The second wererat scout ventured further ahead and did not return, later found caught and terrified by the gelatinous slime mirrors, unable to move.",
+    "source_quote": "The second wererat scout ventured further ahead but didn't return. After ten anxious minutes, Chipgrin went to investigate and found the scout caught and terrified, unable to move.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Bat Familiar",
+    "fact": "Daz's bat familiar successfully scouted ahead and discovered the ochre jelly wall, navigating through its pseudopods without harm.",
+    "source_quote": "Daz sent his bat familiar ahead to scout further, and it discovered a grand vaulted corridor barred by a massive, quivering wall of translucent ochre jelly... the bat navigated through them successfully.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Earth Elemental",
+    "fact": "The Earth Elemental is unaffected by acid and indicated it could smash through the ochre jelly wall to create a passage.",
+    "source_quote": "The Earth Elemental indicated it could smash through the jelly, as it wasn't affected by acid.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool suggested entering the ochre jelly to pass through safely, though this would cause acid burns and oxygen deprivation.",
+    "source_quote": "Glabbagool suggested getting inside him to pass through safely, though this would cause acid burns and oxygen deprivation.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Area Twenty-Two",
+    "fact": "Area twenty-two is the designated reserve position for the party's allies while the wererats scout ahead.",
+    "source_quote": "agreed to scout ahead while the other allies waited in reserve at area twenty-two.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Blingdenstone",
+    "fact": "Blingdenstone is a civilian settlement whose safety is a concern to Senni Diggermattock, who fears the party's failure might lead to its overrun.",
+    "source_quote": "explained her fears for the civilian areas of Blingdenstone",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Pudding King's Court",
+    "fact": "The Pudding King's court is the target destination of the party's infiltration, accessible through the ochre jelly wall and beyond the throne room doors.",
+    "source_quote": "infiltrate the Pudding King's court from the south... The heavy stone doors to the throne room were visible through the jelly's semi-clear body.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Throne Room",
+    "fact": "The throne room is the final destination behind the ochre jelly wall, accessible only after overcoming the jelly or entering it.",
+    "source_quote": "The heavy stone doors to the throne room were visible through the jelly's semi-clear body.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Dasco Pickshine Patch",
+    "fact": "A Dasco Pickshine patch was personally sewn onto Daz's clothing by Dasco Pickshine as a promotional act for his mining operation.",
+    "source_quote": "he personally sewed a Dasco Pickshine patch onto Daz's clothes",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Mithral Braces and Salt Neutralizers",
+    "fact": "Dasco Pickshine's miners used mithral braces and salt neutralizers to bridge the black pudding pit, allowing safe passage while maintaining the structure against acid.",
+    "source_quote": "his miners could bridge the pit using mithral braces and salt neutralizers.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Branded Tea",
+    "fact": "Dasco Pickshine offered branded tea as part of his holistic marketing campaign for Pickshine Mines.",
+    "source_quote": "He offered 'branded tea' and explained his holistic approach to marketing the mining operation.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Lost Wererat Scout",
+    "fact": "The second wererat scout vanished after entering the gelatinous slime tunnel and was found trapped, creating an unresolved tension about whether the psychic effects can be fully countered.",
+    "source_quote": "The second wererat scout ventured further ahead but didn't return... found the scout caught and terrified, unable to move.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Ochre Jelly Infiltration",
+    "fact": "The party must decide whether to enter the ochre jelly (risking acid burns and oxygen deprivation), smash through it (relying on the Earth Elemental), or find another way, with no clear path yet chosen.",
+    "source_quote": "Glabbagool suggested getting inside him... The Earth Elemental indicated it could smash through the jelly...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Wererat Howl Sacrifice",
+    "fact": "The wererats have offered to howl to drown out psychic effects in the gelatinous slime tunnel, but doing so will draw all oozes to attack them, leaving the party without scouts or backup \u2014 a decision already made but with consequences pending.",
+    "source_quote": "Chipgrin offered two options: his pack could howl at a frequency that would drown out the psychic effect... this would draw all the oozes to attack the wererats. The party chose this loud path.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time \u2014 bridge construction",
+    "fact": "The Pickshine Miners completed the mithral-and-salt bridge over the black pudding pit in about twenty minutes.",
+    "source_quote": "completing the bridge in about twenty minutes",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time \u2014 scout investigation",
+    "fact": "Ten anxious minutes passed before Chipgrin went to investigate the missing second wererat scout.",
+    "source_quote": "After ten anxious minutes, Chipgrin went to investigate",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events of this chapter occur on the day of the planned victory against the Pudding King, as declared by Chief Dorbo.",
+    "source_quote": "he declared that today would be the day of victory against the Pudding King.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir manifested tentacles, flew, and teleported to grapple the Pudding King, successfully isolating him from his allies.",
+    "source_quote": "Zalthir manifested his tentacles and prepared to fly as the Earth Elemental smashed through the ochre jelly barricade. The elemental then hurled Zalthir thirty feet into the throne room, and the dragonborn teleported an additional sixty feet closer to the Pudding King before walking the final forty-five feet to reach him. Zalthir struck the gnomish villain and successfully wrapped his tentacles around him in a grapple.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Pudding King",
+    "fact": "The Pudding King transformed into an amorphous ooze form to evade capture, but remained grappled by Zalthir, who dragged him fifteen feet south away from his allies.",
+    "source_quote": "In response to being grappled, the Pudding King transformed into an ooze form, his body becoming a shifting, amorphous mass. Despite the transformation, Zalthir maintained his grip and used his remaining movement to drag the Pudding King fifteen feet south, away from his ooze allies.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Princess Ebonheir",
+    "fact": "Princess Ebonheir is one of the two ooze henchmen of the Pudding King, present during his monologue in the throne room.",
+    "source_quote": "Through the ochre jelly, the party observed the Pudding King monologuing to his two ooze henchmen, Princess Ebonheir and Prince Livid.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Prince Livid",
+    "fact": "Prince Livid is one of the two ooze henchmen of the Pudding King, present during his monologue in the throne room.",
+    "source_quote": "Through the ochre jelly, the party observed the Pudding King monologuing to his two ooze henchmen, Princess Ebonheir and Prince Livid.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Earth Elemental",
+    "fact": "The Earth Elemental smashed through the ochre jelly barricade and hurled Zalthir thirty feet into the throne room.",
+    "source_quote": "The Earth Elemental smashed through the ochre jelly barricade. The elemental then hurled Zalthir thirty feet into the throne room.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Green Slime Patches",
+    "fact": "Green slime patches cover the ceiling of the throne room and could drop on anyone standing beneath them.",
+    "source_quote": "The party noted green slime patches on the ceiling throughout the throne room that could drop on anyone standing beneath them.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Pudding King's Alliance",
+    "fact": "The Pudding King made an alliance with the demon lord Juiblex and seeks to convert Blingdenstone's biomass into ooze biomass by having his creatures consume everyone.",
+    "source_quote": "The party learned that the Pudding King had made an alliance with the demon lord Juiblex and was trying to convert Blingdenstone's biomass into ooze biomass by having his creatures consume everyone.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Zuggtmoy",
+    "fact": "Zuggtmoy, the Queen of Rot, believes she can take the Pudding King's kingdom, but Juiblex has promised it to him.",
+    "source_quote": "He also ranted that Zuggtmoy, the Queen of Rot, thought she could take his kingdom, but Juiblex had promised it to him.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Throne Room",
+    "fact": "The throne room is the site of the Pudding King's monologue, where green slime patches hang from the ceiling and the final confrontation occurs.",
+    "source_quote": "Through the ochre jelly, the party observed the Pudding King monologuing to his two ooze henchmen... The party noted green slime patches on the ceiling throughout the throne room...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Blingdenstone",
+    "fact": "Blingdenstone is the target of the Pudding King\u2019s biomass conversion scheme, whose population is being consumed by oozes.",
+    "source_quote": "The party learned that the Pudding King had made an alliance with the demon lord Juiblex and was trying to convert Blingdenstone's biomass into ooze biomass by having his creatures consume everyone.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "attack on the Pudding King",
+    "fact": "The main distraction force began their attack, allowing Zalthir to close in and grapple the Pudding King.",
+    "source_quote": "The signal was sent, and the main distraction force began their attack.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "plan for the captured Pudding King",
+    "fact": "The party has not established a clear plan beyond the initial snatch-and-grab for what to do with the Pudding King once captured.",
+    "source_quote": "They debated what to do with the King once captured, realizing they hadn't established a clear plan beyond the initial snatch-and-grab.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Ooze Form",
+    "fact": "The Pudding King's ooze form is a shifting, amorphous mass capable of deadly strikes, but he remains grappled and isolated.",
+    "source_quote": "In response to being grappled, the Pudding King transformed into an ooze form, his body becoming a shifting, amorphous mass... his new form meant he could strike at Zalthir with deadly certainty...",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occur during a single session, with no specific calendar date provided.",
+    "source_quote": "The events unfold as a continuous sequence without reference to a specific calendar date.",
+    "quote_verified": false
+  }
+]

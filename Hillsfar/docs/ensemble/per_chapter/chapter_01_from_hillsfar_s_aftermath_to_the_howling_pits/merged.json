@@ -1,0 +1,5619 @@
+[
+  {
+    "type": "date",
+    "subject": "crafting duration",
+    "fact": "The custom armor for the owlbear will take several days to complete.",
+    "source_quote": "The work would take several days",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "The custom armor for the owlbear will take several days to complete."
+    ],
+    "subjects": [
+      "crafting duration"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "duration of chaos",
+    "fact": "Hillsfar had been suffering from weeks of chaos prior to the party's victory.",
+    "source_quote": "weeks of chaos",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "Hillsfar had been suffering from weeks of chaos prior to the party's victory."
+    ],
+    "subjects": [
+      "duration of chaos"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "The armor will take a few days to craft.",
+    "source_quote": "The armor will take a few days to craft",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The armor will take a few days to craft."
+    ],
+    "subjects": [
+      "elapsed time"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "The party rested for a few days before Charles arrived.",
+    "source_quote": "After a few days of rest",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party rested for a few days before Charles arrived."
+    ],
+    "subjects": [
+      "elapsed time"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "meeting time",
+    "fact": "The meeting at Silver Shadow Cave is scheduled for a day or so after Charles's warning.",
+    "source_quote": "in a day or so",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The meeting at Silver Shadow Cave is scheduled for a day or so after Charles's warning."
+    ],
+    "subjects": [
+      "meeting time"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "meeting timeline",
+    "fact": "Charles directed the party to meet representatives at the Silver Shadow Cave in a day or so.",
+    "source_quote": "in a day or so",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "Charles directed the party to meet representatives at the Silver Shadow Cave in a day or so."
+    ],
+    "subjects": [
+      "meeting timeline"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "Nov 22nd, 2025",
+    "fact": "The session date is recorded as Nov 22nd, 2025.",
+    "source_quote": "Date: Nov 22nd, 2025",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep",
+      "temporal"
+    ],
+    "variants": [
+      "The session date is recorded as Nov 22nd, 2025.",
+      "The session takes place on Nov 22nd, 2025.",
+      "The session date is November 22nd, 2025.",
+      "The session date is Nov 22nd, 2025."
+    ],
+    "subjects": [
+      "Nov 22nd, 2025",
+      "session date"
+    ],
+    "n_samples": 4
+  },
+  {
+    "type": "date",
+    "subject": "rest duration",
+    "fact": "The party settled into a tavern to rest and recover for several days.",
+    "source_quote": "After a few days of rest",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "The party settled into a tavern to rest and recover for several days."
+    ],
+    "subjects": [
+      "rest duration"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "aid request",
+    "fact": "Murssvayas Dhuurniv requests the party's aid in recovering the captured alchemist Xaven Tanor'this.",
+    "source_quote": "and requests the party's aid in recovering the captured alchemist Xaven Tanor'this",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "Murssvayas Dhuurniv requests the party's aid in recovering the captured alchemist Xaven Tanor'this."
+    ],
+    "subjects": [
+      "aid request"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "Akritas armor class",
+    "fact": "Akritas's Studded Leather +1 armor brings her armor class to 16.",
+    "source_quote": "providing enhanced protection and bringing her armor class to 16",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep",
+      "temporal"
+    ],
+    "variants": [
+      "Akritas's Studded Leather +1 armor brings her armor class to 16.",
+      "The Studded Leather +1 brings Akritas's armor class to 16."
+    ],
+    "subjects": [
+      "Akritas armor class",
+      "AC boost from Studded Leather",
+      "armor class increase"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "event",
+    "subject": "Akritas stealth bonus",
+    "fact": "Akritas reveals she can cast Pass Without Trace, granting the party a plus 10 to stealth.",
+    "source_quote": "granting the entire party a plus 10 to stealth",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "Akritas reveals she can cast Pass Without Trace, granting the party a plus 10 to stealth."
+    ],
+    "subjects": [
+      "Akritas stealth bonus"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "armor class of owlbear",
+    "fact": "The Owlbear Scale Mail provides an armor class of 15 for the owlbear.",
+    "source_quote": "It provides an armor class of 15",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The Owlbear Scale Mail provides an armor class of 15 for the owlbear."
+    ],
+    "subjects": [
+      "armor class of owlbear"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Bracers acquisition",
+    "fact": "Akritas acquired the Bracers of Archery from the castle's stores.",
+    "source_quote": "acquired by Akritas from the castle's stores",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "Akritas acquired the Bracers of Archery from the castle's stores."
+    ],
+    "subjects": [
+      "Bracers acquisition",
+      "acquiring Bracers of Archery"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim realizes that Pass Without Trace gives Daein a plus 20 to stealth.",
+    "source_quote": "who realized it gives Daein a plus 20 to stealth",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Bramgrim realizes that Pass Without Trace gives Daein a plus 20 to stealth."
+    ],
+    "subjects": [
+      "Bramgrim"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim realizes that Pass Without Trace gives the owlbear a plus 11.",
+    "source_quote": "and the owlbear a plus 11",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Bramgrim realizes that Pass Without Trace gives the owlbear a plus 11."
+    ],
+    "subjects": [
+      "Bramgrim"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Bramgrim armor class",
+    "fact": "Bramgrim's Mithral Plate armor increases his armor class to 20.",
+    "source_quote": "it increases his armor class to 20",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep",
+      "temporal"
+    ],
+    "variants": [
+      "Bramgrim's Mithral Plate armor increases his armor class to 20.",
+      "The Mithral Plate increases Bramgrim's armor class to 20."
+    ],
+    "subjects": [
+      "Bramgrim armor class",
+      "Mithral Plate AC boost",
+      "armor class increase for Bramgrim"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "event",
+    "subject": "Calm Emotions preparation",
+    "fact": "Bramgrim prepares the second-level spell Calm Emotions.",
+    "source_quote": "A second-level spell that Bramgrim prepares",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Bramgrim prepares the second-level spell Calm Emotions."
+    ],
+    "subjects": [
+      "Calm Emotions preparation"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "Calm Emotions utility",
+    "fact": "Calm Emotions is specifically mentioned as being the only thing that works on a creature referred to as 'sphere'.",
+    "source_quote": "specifically mentioned as being the only thing that works on a creature referred to as 'sphere'",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Calm Emotions is specifically mentioned as being the only thing that works on a creature referred to as 'sphere'.",
+      "Calm Emotions is the only thing that works on a creature referred to as 'sphere'."
+    ],
+    "subjects": [
+      "Calm Emotions utility",
+      "effectiveness on sphere"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "event",
+    "subject": "castle gate confrontation",
+    "fact": "The Red Plume Guards stand ready to fight the blood-spattered party at the castle gate.",
+    "source_quote": "They stand ready to fight the blood-spattered party at the castle gate",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "The Red Plume Guards stand ready to fight the blood-spattered party at the castle gate."
+    ],
+    "subjects": [
+      "castle gate confrontation",
+      "confrontation at castle gate"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "Daein",
+    "fact": "Daein is shocked by the revelation of Akritas's Pass Without Trace ability.",
+    "source_quote": "The revelation of this ability shocked Daein",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Daein is shocked by the revelation of Akritas's Pass Without Trace ability."
+    ],
+    "subjects": [
+      "Daein"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daein",
+    "fact": "Daein realized the implications of the Pass Without Trace spell on his stealth checks.",
+    "source_quote": "Daein who realizes he now has a plus 20 stealth bonus",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Daein realized the implications of the Pass Without Trace spell on his stealth checks."
+    ],
+    "subjects": [
+      "Daein"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daein's ability score increase",
+    "fact": "Daein increased his Charisma score.",
+    "source_quote": "Daein increases his Charisma score",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Daein increased his Charisma score."
+    ],
+    "subjects": [
+      "Daein's ability score increase"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daein stealth bonus",
+    "fact": "Daein realizes he now has a plus 20 stealth bonus.",
+    "source_quote": "plus 20 stealth bonus",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "Daein realizes he now has a plus 20 stealth bonus."
+    ],
+    "subjects": [
+      "Daein stealth bonus"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daein stealth bonus",
+    "fact": "The spell Pass Without Trace gives Daein a plus 20 to stealth.",
+    "source_quote": "gives Daein a plus 20 to stealth",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "The spell Pass Without Trace gives Daein a plus 20 to stealth."
+    ],
+    "subjects": [
+      "Daein stealth bonus"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Drow meeting",
+    "fact": "Murssvayas Dhuurniv meets the party at the Silver Shadow Cave.",
+    "source_quote": "and meets the party at the Silver Shadow Cave",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "Murssvayas Dhuurniv meets the party at the Silver Shadow Cave."
+    ],
+    "subjects": [
+      "Drow meeting",
+      "meeting at Silver Shadow Cave"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "Drow plight explanation",
+    "fact": "Murssvayas Dhuurniv explains the Drow's plight to the party.",
+    "source_quote": "He explains the Drow's plight",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "Murssvayas Dhuurniv explains the Drow's plight to the party.",
+      "Murssvayas Dhuurniv explains the Drow's plight."
+    ],
+    "subjects": [
+      "Drow plight explanation",
+      "plight explanation"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "equipment acquisition",
+    "fact": "Isthana offered to help the party acquire equipment from the castle's stores.",
+    "source_quote": "instead offered to help them acquire equipment from the castle's stores",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Isthana offered to help the party acquire equipment from the castle's stores."
+    ],
+    "subjects": [
+      "equipment acquisition"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "factional conflict",
+    "fact": "The Red Plume Guards are now caught between factions after the death of the ruling elite.",
+    "source_quote": "now caught between factions after the death of the ruling elite",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The Red Plume Guards are now caught between factions after the death of the ruling elite."
+    ],
+    "subjects": [
+      "factional conflict"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "fire giant army creation",
+    "fact": "Graz'zt infused fire giants with his own blood to create an army.",
+    "source_quote": "The demon lord had infused fire giants with his own blood, creating an army",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Graz'zt infused fire giants with his own blood to create an army."
+    ],
+    "subjects": [
+      "fire giant army creation"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "gate passage",
+    "fact": "Red Plume guards at the front door let the blood-spattered party pass without confrontation.",
+    "source_quote": "ultimately let the blood-spattered party pass without confrontation",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Red Plume guards at the front door let the blood-spattered party pass without confrontation."
+    ],
+    "subjects": [
+      "gate passage"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "gear acquisition",
+    "fact": "Isthana helps the party acquire new armor and magical items from the castle's stores.",
+    "source_quote": "She helps the party acquire new armor and magical items from the castle's stores",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "Isthana helps the party acquire new armor and magical items from the castle's stores."
+    ],
+    "subjects": [
+      "gear acquisition",
+      "acquiring gear"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "Graz'zt news delivery",
+    "fact": "Charles delivers urgent news about Graz'zt infusing fire giants with power.",
+    "source_quote": "delivers urgent news about Graz'zt infusing fire giants with power",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "Charles delivers urgent news about Graz'zt infusing fire giants with power."
+    ],
+    "subjects": [
+      "Graz'zt news delivery",
+      "news delivery"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "Greater Restoration preparation",
+    "fact": "Bramgrim prepares the fourth-level spell Greater Restoration.",
+    "source_quote": "A fourth-level spell that Bramgrim prepares",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Bramgrim prepares the fourth-level spell Greater Restoration."
+    ],
+    "subjects": [
+      "Greater Restoration preparation"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "Grenefeld death",
+    "fact": "Malkyn Grenefeld's death triggered the current chaos in Hillsfar and the wrath of Graz'zt.",
+    "source_quote": "whose death triggered the current chaos in Hillsfar and the wrath of Graz'zt",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "Malkyn Grenefeld's death triggered the current chaos in Hillsfar and the wrath of Graz'zt.",
+      "Malkyn Grenefeld's death triggered the current chaos in Hillsfar."
+    ],
+    "subjects": [
+      "Grenefeld death",
+      "death of Malkyn Grenefeld"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "guild meeting",
+    "fact": "The party declined Isthana's offer of leadership in Hillsfar.",
+    "source_quote": "which they decline, preferring to keep their heads attached",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party declined Isthana's offer of leadership in Hillsfar."
+    ],
+    "subjects": [
+      "guild meeting"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Hillsfar plot thwarted",
+    "fact": "Graz'zt's carefully constructed plot to destroy Hillsfar and extend his power was thwarted by the party.",
+    "source_quote": "whose carefully constructed plot to destroy Hillsfar and extend his power was thwarted by the party",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "Graz'zt's carefully constructed plot to destroy Hillsfar and extend his power was thwarted by the party."
+    ],
+    "subjects": [
+      "Hillsfar plot thwarted",
+      "plot thwarted"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "infusing fire giants",
+    "fact": "Graz'zt is now infusing fire giants with his blood.",
+    "source_quote": "and is now infusing fire giants with his blood",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "Graz'zt is now infusing fire giants with his blood.",
+      "Graz'zt is infusing fire giants with his blood."
+    ],
+    "subjects": [
+      "infusing fire giants",
+      "fire giant infusion"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "initial reward dismissal",
+    "fact": "Murssvayas initially dismisses the idea of payment.",
+    "source_quote": "Murssvayas initially dismisses the idea of payment",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Murssvayas initially dismisses the idea of payment."
+    ],
+    "subjects": [
+      "initial reward dismissal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Isthana's offer",
+    "fact": "Isthana offered the party positions in Hillsfar's new political order.",
+    "source_quote": "When she offered them positions in Hillsfar's new political order",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Isthana offered the party positions in Hillsfar's new political order."
+    ],
+    "subjects": [
+      "Isthana's offer",
+      "political offer"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "level up",
+    "fact": "The party leveled up to 10th level.",
+    "source_quote": "levels up to 10th level",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep",
+      "temporal"
+    ],
+    "variants": [
+      "The party leveled up to 10th level.",
+      "The party levels up to 10th level."
+    ],
+    "subjects": [
+      "level up",
+      "Level Up",
+      "party level up"
+    ],
+    "n_samples": 4
+  },
+  {
+    "type": "event",
+    "subject": "Malkyn defeat",
+    "fact": "The party's victory over Malkyn Grenefeld set the current events in motion.",
+    "source_quote": "The party's victory over him is what set the current events in motion",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "The party's victory over Malkyn Grenefeld set the current events in motion."
+    ],
+    "subjects": [
+      "Malkyn defeat",
+      "party victory"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "meeting arrangement",
+    "fact": "Charles directed the party to meet representatives at the Silver Shadow Cave near Elventree.",
+    "source_quote": "He directed the party to meet representatives at the Silver Shadow Cave near Elventree",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Charles directed the party to meet representatives at the Silver Shadow Cave near Elventree."
+    ],
+    "subjects": [
+      "meeting arrangement",
+      "mission briefing"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "meeting direction",
+    "fact": "Charles directs the party to meet with Drow representatives at the Silver Shadow Cave.",
+    "source_quote": "He directs the party to meet with Drow representatives at the Silver Shadow Cave",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "Charles directs the party to meet with Drow representatives at the Silver Shadow Cave."
+    ],
+    "subjects": [
+      "meeting direction"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "mission agreement",
+    "fact": "The party agreed to rescue Xaven Tanor'this and help reclaim Szith Morcane.",
+    "source_quote": "the party ultimately agreed to undertake the perilous mission",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party agreed to rescue Xaven Tanor'this and help reclaim Szith Morcane."
+    ],
+    "subjects": [
+      "mission agreement"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "mission agreement",
+    "fact": "The party agreed to undertake the mission to rescue Xaven Tanor'this.",
+    "source_quote": "The party agrees to undertake the mission to rescue Xaven Tanor'this",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "The party agreed to undertake the mission to rescue Xaven Tanor'this."
+    ],
+    "subjects": [
+      "mission agreement",
+      "Mission agreement"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "mission agreement",
+    "fact": "The party agrees to undertake the mission to rescue Xaven Tanor'this from the Den of the Whispered Word.",
+    "source_quote": "The party agrees to undertake the mission to rescue Xaven Tanor'this from the Den of the Whispered Word",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party agrees to undertake the mission to rescue Xaven Tanor'this from the Den of the Whispered Word."
+    ],
+    "subjects": [
+      "mission agreement"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Mithral Plate acquisition",
+    "fact": "Bramgrim acquired the Mithral Plate from the castle.",
+    "source_quote": "Acquired by Bramgrim from the castle",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "Bramgrim acquired the Mithral Plate from the castle."
+    ],
+    "subjects": [
+      "Mithral Plate acquisition",
+      "acquiring Mithral Plate"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "Mithral Plate stealth benefit",
+    "fact": "The Mithral Plate removes stealth penalties for Bramgrim.",
+    "source_quote": "while removing stealth penalties",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "The Mithral Plate removes stealth penalties for Bramgrim."
+    ],
+    "subjects": [
+      "Mithral Plate stealth benefit",
+      "removing stealth penalties"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "Murssvayas Dhuurniv",
+    "fact": "Murssvayas initially seemed offended by the party's mercenary question about rewards.",
+    "source_quote": "Murssvayas initially seemed offended by the mercenary question",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Murssvayas initially seemed offended by the party's mercenary question about rewards."
+    ],
+    "subjects": [
+      "Murssvayas Dhuurniv"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "negotiation start",
+    "fact": "Bramgrim questions Murssvayas's legitimacy as Solom's representative.",
+    "source_quote": "Bramgrim questions Murssvayas's legitimacy as Solom's representative",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Bramgrim questions Murssvayas's legitimacy as Solom's representative."
+    ],
+    "subjects": [
+      "negotiation start"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "new threat creation",
+    "fact": "Graz'zt's actions are creating a new threat to both the Underdark and the surface world.",
+    "source_quote": "creating a new threat to both the Underdark and the surface world",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "Graz'zt's actions are creating a new threat to both the Underdark and the surface world.",
+      "Graz'zt's actions create a new threat to both the Underdark and the surface world."
+    ],
+    "subjects": [
+      "new threat creation"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "outpost sack",
+    "fact": "Solom Ned'razak's outpost was sacked by fire giants and demons.",
+    "source_quote": "after his outpost was sacked by fire giants and demons",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "Solom Ned'razak's outpost was sacked by fire giants and demons."
+    ],
+    "subjects": [
+      "outpost sack",
+      "outpost sacked"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "owlbear armor class",
+    "fact": "The custom scale mail armor will increase the owlbear's armor class to 15.",
+    "source_quote": "increase the owlbear's armor class to 15",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "The custom scale mail armor will increase the owlbear's armor class to 15."
+    ],
+    "subjects": [
+      "owlbear armor class"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "owlbear armor commission",
+    "fact": "The party commissioned custom-made scale mail armor for their owlbear companion.",
+    "source_quote": "commission custom-made scale mail armor for their owlbear companion",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The party commissioned custom-made scale mail armor for their owlbear companion."
+    ],
+    "subjects": [
+      "owlbear armor commission"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Owlbear armor commission",
+    "fact": "The party ordered scale mail for the owlbear at a cost of 200 gold pieces.",
+    "source_quote": "order scale mail for the owlbear at a cost of 200 gold pieces",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The party ordered scale mail for the owlbear at a cost of 200 gold pieces."
+    ],
+    "subjects": [
+      "Owlbear armor commission"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "owlbear recognition",
+    "fact": "The owlbear seemed to recognize Murssvayas Dhuurniv with unusual familiarity.",
+    "source_quote": "including the owlbear, who seemed to recognize him with unusual familiarity",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "small"
+    ],
+    "variants": [
+      "The owlbear seemed to recognize Murssvayas Dhuurniv with unusual familiarity.",
+      "The owlbear seemed to recognize Murssvayas with unusual familiarity."
+    ],
+    "subjects": [
+      "owlbear recognition",
+      "The owlbear"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "Owlbear Scale Mail cost",
+    "fact": "The Owlbear Scale Mail was commissioned at a cost of 200 gold pieces.",
+    "source_quote": "at a cost of 200 gold pieces",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "The Owlbear Scale Mail was commissioned at a cost of 200 gold pieces."
+    ],
+    "subjects": [
+      "Owlbear Scale Mail cost",
+      "cost of Owlbear Scale Mail"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "Owlbear Scale Mail crafting time",
+    "fact": "The Owlbear Scale Mail takes several days to craft.",
+    "source_quote": "and takes several days to craft",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep",
+      "temporal"
+    ],
+    "variants": [
+      "The Owlbear Scale Mail takes several days to craft."
+    ],
+    "subjects": [
+      "Owlbear Scale Mail crafting time",
+      "crafting time"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "event",
+    "subject": "Owlbear stealth bonus",
+    "fact": "The spell Pass Without Trace gives the owlbear a plus 11 to stealth.",
+    "source_quote": "the owlbear a plus 11",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "The spell Pass Without Trace gives the owlbear a plus 11 to stealth."
+    ],
+    "subjects": [
+      "Owlbear stealth bonus"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "party passage",
+    "fact": "The Red Plume Guards ultimately allow the party to pass without confrontation.",
+    "source_quote": "but ultimately allow them to pass without confrontation",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "The Red Plume Guards ultimately allow the party to pass without confrontation.",
+      "The Red Plume Guards allow the party to pass without confrontation."
+    ],
+    "subjects": [
+      "party passage"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "Pass Without Trace calculation for owlbear",
+    "fact": "Daein and Bramgrim realized Pass Without Trace gives the owlbear a plus 11 to stealth.",
+    "source_quote": "and the owlbear a plus 11",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Daein and Bramgrim realized Pass Without Trace gives the owlbear a plus 11 to stealth.",
+      "Daein realized Pass Without Trace gives the owlbear a plus 11 to stealth."
+    ],
+    "subjects": [
+      "Pass Without Trace calculation for owlbear",
+      "owlbear's stealth bonus"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "Pass Without Trace cast",
+    "fact": "Akritas casts Pass Without Trace.",
+    "source_quote": "A concentration spell cast by Akritas",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Akritas casts Pass Without Trace."
+    ],
+    "subjects": [
+      "Pass Without Trace cast"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Pass Without Trace casting",
+    "fact": "Akritas cast the concentration spell Pass Without Trace.",
+    "source_quote": "A concentration spell cast by Akritas",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Akritas cast the concentration spell Pass Without Trace."
+    ],
+    "subjects": [
+      "Pass Without Trace casting"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Pass Without Trace Daein bonus",
+    "fact": "The party realized Pass Without Trace gives Daein a plus 20 to stealth.",
+    "source_quote": "who realized it gives Daein a plus 20 to stealth",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "The party realized Pass Without Trace gives Daein a plus 20 to stealth.",
+      "Daein realized Pass Without Trace gives him a plus 20 to stealth."
+    ],
+    "subjects": [
+      "Pass Without Trace Daein bonus",
+      "Pass Without Trace calculation for Daein",
+      "Daein's stealth bonus"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "event",
+    "subject": "Pass Without Trace effect",
+    "fact": "Pass Without Trace grants a plus 10 bonus to stealth checks for the caster and all allies within a 30-foot radius.",
+    "source_quote": "that grants a plus 10 bonus to stealth checks for the caster and all allies within a 30-foot radius",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep",
+      "temporal"
+    ],
+    "variants": [
+      "Pass Without Trace grants a plus 10 bonus to stealth checks for the caster and all allies within a 30-foot radius.",
+      "Pass Without Trace grants a bonus to stealth checks for allies within a 30-foot radius.",
+      "Pass Without Trace grants a plus 10 bonus to stealth checks."
+    ],
+    "subjects": [
+      "Pass Without Trace effect",
+      "stealth bonus",
+      "Pass Without Trace radius",
+      "Pass Without Trace bonus"
+    ],
+    "n_samples": 4
+  },
+  {
+    "type": "event",
+    "subject": "Pass Without Trace owlbear bonus",
+    "fact": "The party realized Pass Without Trace gives the owlbear a plus 11 to stealth.",
+    "source_quote": "and the owlbear a plus 11",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The party realized Pass Without Trace gives the owlbear a plus 11 to stealth."
+    ],
+    "subjects": [
+      "Pass Without Trace owlbear bonus"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Pass Without Trace revelation",
+    "fact": "Akritas revealed she can cast Pass Without Trace.",
+    "source_quote": "Akritas reveals she can cast Pass Without Trace",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Akritas revealed she can cast Pass Without Trace."
+    ],
+    "subjects": [
+      "Pass Without Trace revelation",
+      "Pass Without Trace reveal"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "Pass Without Trace revelation",
+    "fact": "The revelation of the Pass Without Trace ability shocked Daein and Bramgrim.",
+    "source_quote": "The revelation of this ability shocked Daein and Bramgrim",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "The revelation of the Pass Without Trace ability shocked Daein and Bramgrim.",
+      "The revelation of Pass Without Trace shocked Daein and Bramgrim."
+    ],
+    "subjects": [
+      "Pass Without Trace revelation",
+      "Daein and Bramgrim reaction",
+      "Daein's realization"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "event",
+    "subject": "Pendant authentication",
+    "fact": "Bramgrim recognizes Solom's Pendant as authentic.",
+    "source_quote": "and Bramgrim recognizes it as authentic",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "Bramgrim recognizes Solom's Pendant as authentic."
+    ],
+    "subjects": [
+      "Pendant authentication",
+      "recognition of Solom's Pendant",
+      "Bramgrim"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "event",
+    "subject": "Pendant presentation",
+    "fact": "Murssvayas Dhuurniv presents Solom's Pendant to prove his legitimacy as Solom's representative.",
+    "source_quote": "Murssvayas Dhuurniv presents it to prove his legitimacy as Solom's representative",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "Murssvayas Dhuurniv presents Solom's Pendant to prove his legitimacy as Solom's representative."
+    ],
+    "subjects": [
+      "Pendant presentation",
+      "presenting Solom's Pendant"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "Plate Mail +1 AC boost",
+    "fact": "The Plate Mail +1 increases Daein's armor class to 21.",
+    "source_quote": "and increasing his armor class to 21",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep",
+      "temporal"
+    ],
+    "variants": [
+      "The Plate Mail +1 increases Daein's armor class to 21.",
+      "Daein's Plate Mail +1 increases his armor class to 21."
+    ],
+    "subjects": [
+      "Plate Mail +1 AC boost",
+      "armor class increase for Daein",
+      "Daein armor class"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "event",
+    "subject": "political power offer",
+    "fact": "Isthana offers the party political power in Hillsfar.",
+    "source_quote": "and offers them political power in Hillsfar",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "Isthana offers the party political power in Hillsfar."
+    ],
+    "subjects": [
+      "political power offer"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "power offer refusal",
+    "fact": "The party declines the offer of political power in Hillsfar.",
+    "source_quote": "which they decline",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "The party declines the offer of political power in Hillsfar."
+    ],
+    "subjects": [
+      "power offer refusal",
+      "declining power"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "proof of authority",
+    "fact": "Murssvayas produces a pendant that Bramgrim recognizes as belonging to Solom Ned'razak.",
+    "source_quote": "Murssvayas produces a pendant that Bramgrim recognizes as belonging to Solom Ned'razak",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "small"
+    ],
+    "variants": [
+      "Murssvayas produces a pendant that Bramgrim recognizes as belonging to Solom Ned'razak.",
+      "Bramgrim recognized the pendant Murssvayas produced as belonging to Solom Ned'razak."
+    ],
+    "subjects": [
+      "proof of authority",
+      "Bramgrim"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "Red Plume retreat",
+    "fact": "The Red Plume guards stepped aside after recognizing the heroes.",
+    "source_quote": "they wisely stepped aside",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The Red Plume guards stepped aside after recognizing the heroes."
+    ],
+    "subjects": [
+      "Red Plume retreat"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Red Plume standoff",
+    "fact": "Red Plume guards stood ready to challenge the party at the castle's main gate.",
+    "source_quote": "Red Plume guards stood ready to challenge them",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Red Plume guards stood ready to challenge the party at the castle's main gate."
+    ],
+    "subjects": [
+      "Red Plume standoff"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "representative dispatch",
+    "fact": "Solom Ned'razak sent Murssvayas Dhuurniv to represent him.",
+    "source_quote": "He sent Murssvayas Dhuurniv to represent him",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "Solom Ned'razak sent Murssvayas Dhuurniv to represent him."
+    ],
+    "subjects": [
+      "representative dispatch",
+      "sending representative"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "reward anticipation",
+    "fact": "Solom Ned'razak anticipated the party would ask for a reward.",
+    "source_quote": "and anticipated the party would ask for a reward",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "Solom Ned'razak anticipated the party would ask for a reward."
+    ],
+    "subjects": [
+      "reward anticipation"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "reward demand",
+    "fact": "Bramgrim demands to know what reward the party will receive for the mission.",
+    "source_quote": "Bramgrim, speaking for the party, demands to know what reward they will receive for such a dangerous mission",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Bramgrim demands to know what reward the party will receive for the mission."
+    ],
+    "subjects": [
+      "reward demand"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "reward offer",
+    "fact": "Solom Ned'razak offered an item from the Drow horde upon successful completion of the mission.",
+    "source_quote": "offering an item from the Drow horde upon successful completion of the mission",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "Solom Ned'razak offered an item from the Drow horde upon successful completion of the mission."
+    ],
+    "subjects": [
+      "reward offer"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "reward promise",
+    "fact": "Murssvayas promises that Solom will grant the party an item from the horde of the Drow if they complete the mission and recover Szith Morcane.",
+    "source_quote": "He promises that if the party completes the mission and Szith Morcane is recovered, Solom will grant them an item from the horde of the Drow",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Murssvayas promises that Solom will grant the party an item from the horde of the Drow if they complete the mission and recover Szith Morcane."
+    ],
+    "subjects": [
+      "reward promise"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "reward promise",
+    "fact": "Solom Ned'razak promised to grant the party an item from the legendary Drow horde if they successfully rescued Xaven and reclaimed Szith Morcane.",
+    "source_quote": "The Drow wizard had promised that if the party successfully rescued Xaven and helped reclaim Szith Morcane, they would be granted an item from the legendary Drow horde",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Solom Ned'razak promised to grant the party an item from the legendary Drow horde if they successfully rescued Xaven and reclaimed Szith Morcane.",
+      "Solom Ned'razak promised the party an item from the legendary Drow horde if they successfully rescued Xaven and reclaimed Szith Morcane."
+    ],
+    "subjects": [
+      "reward promise"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "ritual work",
+    "fact": "Xaven Tanor'this was working on a ritual to cull fiendish blood from the Graz'zt-infused fire giants.",
+    "source_quote": "who was working on a ritual to cull fiendish blood from the Graz'zt-infused fire giants",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "Xaven Tanor'this was working on a ritual to cull fiendish blood from the Graz'zt-infused fire giants."
+    ],
+    "subjects": [
+      "ritual work"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "smithy visit",
+    "fact": "The party visited a smithy to order scale mail for the owlbear.",
+    "source_quote": "They visit a smithy and order scale mail for the owlbear",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party visited a smithy to order scale mail for the owlbear."
+    ],
+    "subjects": [
+      "smithy visit"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Solom's flight",
+    "fact": "Solom Ned'razak fled to the Sporedome after the sacking of Szith Morcane.",
+    "source_quote": "had fled to the fungal forest known as the Sporedome",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Solom Ned'razak fled to the Sporedome after the sacking of Szith Morcane.",
+      "Solom Ned'razak fled to the Sporedome after his outpost was sacked."
+    ],
+    "subjects": [
+      "Solom's flight",
+      "flight to Sporedome"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "stealth bonus",
+    "fact": "Pass Without Trace grants the entire party a plus 10 to stealth.",
+    "source_quote": "granting the entire party a plus 10 to stealth",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Pass Without Trace grants the entire party a plus 10 to stealth."
+    ],
+    "subjects": [
+      "stealth bonus"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "tavern rest",
+    "fact": "The party settled into a tavern to rest while waiting for the armor to be crafted.",
+    "source_quote": "the party settles into a tavern to rest",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party settled into a tavern to rest while waiting for the armor to be crafted."
+    ],
+    "subjects": [
+      "tavern rest"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "the party",
+    "fact": "The party declines the political power offered by Isthana.",
+    "source_quote": "offers them political power in Hillsfar, which they decline",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "The party declines the political power offered by Isthana."
+    ],
+    "subjects": [
+      "the party"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "vengeance threat",
+    "fact": "Graz'zt threatened vengeance.",
+    "source_quote": "He threatened vengeance",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "Graz'zt threatened vengeance."
+    ],
+    "subjects": [
+      "vengeance threat",
+      "threat of vengeance"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "victory congratulation",
+    "fact": "Charles congratulates the party on their victory.",
+    "source_quote": "He congratulates the party on their victory",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Charles congratulates the party on their victory."
+    ],
+    "subjects": [
+      "victory congratulation"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "wrath of Graz'zt",
+    "fact": "Malkyn Grenefeld's death triggered the wrath of Graz'zt.",
+    "source_quote": "and the wrath of Graz'zt",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Malkyn Grenefeld's death triggered the wrath of Graz'zt."
+    ],
+    "subjects": [
+      "wrath of Graz'zt"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Xaven purchase",
+    "fact": "Maram il Vass purchased the captured Drow alchemist Xaven Tanor'this.",
+    "source_quote": "who purchased the captured Drow alchemist Xaven Tanor'this",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "Maram il Vass purchased the captured Drow alchemist Xaven Tanor'this."
+    ],
+    "subjects": [
+      "Xaven purchase",
+      "purchase of alchemist"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "Xaven sale",
+    "fact": "Xaven Tanor'this was sold to Maram il Vass in the Den of the Whispered Word.",
+    "source_quote": "and sold to Maram il Vass in the Den of the Whispered Word",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "Xaven Tanor'this was sold to Maram il Vass in the Den of the Whispered Word."
+    ],
+    "subjects": [
+      "Xaven sale",
+      "sale to Maram il Vass"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "Xaven's capture",
+    "fact": "Xaven Tanor'this was captured during the raid on Szith Morcane.",
+    "source_quote": "He was captured during the raid on Szith Morcane",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Xaven Tanor'this was captured during the raid on Szith Morcane."
+    ],
+    "subjects": [
+      "Xaven's capture",
+      "Xaven capture",
+      "capture"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "faction",
+    "subject": "Drow",
+    "fact": "The Drow brought terrifying intelligence about Graz'zt's continued machinations.",
+    "source_quote": "the Drow had brought terrifying intelligence about Graz'zt's continued machinations",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The Drow brought terrifying intelligence about Graz'zt's continued machinations."
+    ],
+    "subjects": [
+      "Drow"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Drow outpost of Szith Morcane",
+    "fact": "The Drow outpost of Szith Morcane was sacked by an army of slaves led by fiendish fire giants and demons from Maerimydra.",
+    "source_quote": "outpost of Szith Morcane was sacked by an army of slaves led by fiendish fire giants and demons from the city of Maerimydra",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The Drow outpost of Szith Morcane was sacked by an army of slaves led by fiendish fire giants and demons from Maerimydra.",
+      "The Drow outpost of Szith Morcane was sacked by an army of slaves led by fiendish fire giants and demons."
+    ],
+    "subjects": [
+      "Drow outpost of Szith Morcane",
+      "Szith Morcane"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Emerald Enclave",
+    "fact": "Charles is a member of the Emerald Enclave.",
+    "source_quote": "A messenger from the Emerald Enclave and member of La R\u00e9sistance",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Charles is a member of the Emerald Enclave."
+    ],
+    "subjects": [
+      "Emerald Enclave"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Emerald Enclave",
+    "fact": "Charles is a messenger from the Emerald Enclave.",
+    "source_quote": "A messenger from the Emerald Enclave",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Charles is a messenger from the Emerald Enclave."
+    ],
+    "subjects": [
+      "Emerald Enclave"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Emerald Enclave",
+    "fact": "The Drow brought intelligence to the Emerald Enclave regarding Graz'zt's machinations.",
+    "source_quote": "Charles arrived with urgent news from the Emerald Enclave. After some overly dramatic congratulations on their victory, he revealed that the Drow had brought terrifying intelligence",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The Drow brought intelligence to the Emerald Enclave regarding Graz'zt's machinations."
+    ],
+    "subjects": [
+      "Emerald Enclave"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Emerald Enclave",
+    "fact": "The Emerald Enclave sent urgent news to the party via Charles.",
+    "source_quote": "Charles finds them here to deliver urgent news from the Emerald Enclave",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The Emerald Enclave sent urgent news to the party via Charles."
+    ],
+    "subjects": [
+      "Emerald Enclave"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Emerald Enclave",
+    "fact": "The Emerald Enclave wishes to speak with the party about a new danger involving fire giants infused with Graz'zt's power.",
+    "source_quote": "Emerald Enclave wishes to speak with the party about a new danger involving fire giants infused with Graz'zt's power",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "The Emerald Enclave wishes to speak with the party about a new danger involving fire giants infused with Graz'zt's power."
+    ],
+    "subjects": [
+      "Emerald Enclave"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "faction",
+    "subject": "Emerald Enclave",
+    "fact": "The Emerald Enclave wishes to speak with the party about a new danger.",
+    "source_quote": "Emerald Enclave wishes to speak with the party about a new danger",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The Emerald Enclave wishes to speak with the party about a new danger."
+    ],
+    "subjects": [
+      "Emerald Enclave"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "La R\u00e9sistance",
+    "fact": "Charles is a member of La R\u00e9sistance.",
+    "source_quote": "A messenger from the Emerald Enclave and member of La R\u00e9sistance",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "Charles is a member of La R\u00e9sistance."
+    ],
+    "subjects": [
+      "La R\u00e9sistance"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "faction",
+    "subject": "Red Plume Guards",
+    "fact": "The Red Plume Guards are now caught between factions after the death of the ruling elite.",
+    "source_quote": "now caught between factions after the death of the ruling elite",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "The Red Plume Guards are now caught between factions after the death of the ruling elite.",
+      "The Red Plume Guards are caught between factions after the death of the ruling elite."
+    ],
+    "subjects": [
+      "Red Plume Guards"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "faction",
+    "subject": "Red Plume Guards",
+    "fact": "The Red Plume Guards are the city guards of Hillsfar.",
+    "source_quote": "The city guards of Hillsfar",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "The Red Plume Guards are the city guards of Hillsfar."
+    ],
+    "subjects": [
+      "Red Plume Guards"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "faction",
+    "subject": "Red Plume guards",
+    "fact": "The Red Plume guards are caught between fractured factions in Hillsfar.",
+    "source_quote": "Red Plume guards found themselves caught between fractured factions",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "The Red Plume guards are caught between fractured factions in Hillsfar.",
+      "The Red Plume guards were caught between factions in Hillsfar."
+    ],
+    "subjects": [
+      "Red Plume guards"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "faction",
+    "subject": "Red Plume guards",
+    "fact": "The Red Plume guards were caught between fractured factions uncertain of their place in the new order.",
+    "source_quote": "Red Plume guards found themselves caught between fractured factions, uncertain of their place in the new order",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "The Red Plume guards were caught between fractured factions uncertain of their place in the new order.",
+      "The Red Plume guards found themselves caught between fractured factions."
+    ],
+    "subjects": [
+      "Red Plume guards",
+      "Red Plume"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "faction",
+    "subject": "Thieves Guild",
+    "fact": "The Thieves Guild is based in Hillsfar with Isthana as its head.",
+    "source_quote": "The head of the Thieves Guild in Hillsfar",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The Thieves Guild is based in Hillsfar with Isthana as its head."
+    ],
+    "subjects": [
+      "Thieves Guild"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Thieves Guild",
+    "fact": "The Thieves Guild is based in Hillsfar.",
+    "source_quote": "The head of the Thieves Guild in Hillsfar",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The Thieves Guild is based in Hillsfar."
+    ],
+    "subjects": [
+      "Thieves Guild"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "item",
+    "subject": "Bracers of Archery",
+    "fact": "The Bracers of Archery are magical bracers that enhance archery skills.",
+    "source_quote": "Magical bracers that enhance archery skills",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The Bracers of Archery are magical bracers that enhance archery skills."
+    ],
+    "subjects": [
+      "Bracers of Archery"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "item",
+    "subject": "Mithral Plate",
+    "fact": "The Mithral Plate is light and flexible heavy armor made of mithral.",
+    "source_quote": "Light and flexible heavy armor made of mithral",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The Mithral Plate is light and flexible heavy armor made of mithral."
+    ],
+    "subjects": [
+      "Mithral Plate"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "item",
+    "subject": "Oathbow",
+    "fact": "The Oathbow is a powerful magical bow already wielded by Akritas.",
+    "source_quote": "A powerful magical bow already wielded by Akritas",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The Oathbow is a powerful magical bow already wielded by Akritas."
+    ],
+    "subjects": [
+      "Oathbow"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "item",
+    "subject": "Owlbear Scale Mail",
+    "fact": "The Owlbear Scale Mail is custom-made scale mail armor commissioned for the party's owlbear companion.",
+    "source_quote": "Custom-made scale mail armor commissioned for the party's owlbear companion",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The Owlbear Scale Mail is custom-made scale mail armor commissioned for the party's owlbear companion."
+    ],
+    "subjects": [
+      "Owlbear Scale Mail"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "item",
+    "subject": "Plate Mail +1",
+    "fact": "The Plate Mail +1 is magical heavy armor acquired by Daein from the castle's stores.",
+    "source_quote": "Magical heavy armor acquired by Daein from the castle's stores",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The Plate Mail +1 is magical heavy armor acquired by Daein from the castle's stores."
+    ],
+    "subjects": [
+      "Plate Mail +1"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "item",
+    "subject": "Ring of Evasion",
+    "fact": "The Ring of Evasion is a magical ring possessed by Bramgrim.",
+    "source_quote": "A magical ring possessed by Bramgrim",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The Ring of Evasion is a magical ring possessed by Bramgrim."
+    ],
+    "subjects": [
+      "Ring of Evasion"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "item",
+    "subject": "Solom's Pendant",
+    "fact": "Solom's Pendant is a pendant belonging to Solom Ned'razak.",
+    "source_quote": "A pendant belonging to Solom Ned'razak",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Solom's Pendant is a pendant belonging to Solom Ned'razak."
+    ],
+    "subjects": [
+      "Solom's Pendant"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "item",
+    "subject": "Studded Leather +1",
+    "fact": "The Studded Leather +1 is magical light armor acquired by Akritas from Isthana.",
+    "source_quote": "Magical light armor acquired by Akritas from Isthana",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The Studded Leather +1 is magical light armor acquired by Akritas from Isthana."
+    ],
+    "subjects": [
+      "Studded Leather +1"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Den of the Whispered Word",
+    "fact": "Den of the Whispered Word is an extraplanar brokerage of goods and services located in the Howling Pits.",
+    "source_quote": "An extraplanar brokerage of goods and services located in the Howling Pits",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Den of the Whispered Word is an extraplanar brokerage of goods and services located in the Howling Pits."
+    ],
+    "subjects": [
+      "Den of the Whispered Word"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Den of the Whispered Word",
+    "fact": "The Den of the Whispered Word is Maram il Vass's refuge located in the Howling Pits.",
+    "source_quote": "Maram il Vass's refuge, the Den of the Whispered Word, is located",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The Den of the Whispered Word is Maram il Vass's refuge located in the Howling Pits."
+    ],
+    "subjects": [
+      "Den of the Whispered Word"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Den of the Whispered Word",
+    "fact": "The Den of the Whispered Word is a refuge for Maram il Vass and serves as an extraplanar brokerage.",
+    "source_quote": "Maram il Vass's refuge, the Den of the Whispered Word",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The Den of the Whispered Word is a refuge for Maram il Vass and serves as an extraplanar brokerage."
+    ],
+    "subjects": [
+      "Den of the Whispered Word"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Den of the Whispered Word",
+    "fact": "The Den of the Whispered Word is an extraplanar brokerage located in the Howling Pits.",
+    "source_quote": "an extraplanar brokerage called the Den of the Whispered Word in the twisted realm known as the Howling Pits",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "The Den of the Whispered Word is an extraplanar brokerage located in the Howling Pits.",
+      "The Den of the Whispered Word is an extraplanar brokerage in the Howling Pits."
+    ],
+    "subjects": [
+      "Den of the Whispered Word"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "location",
+    "subject": "garishly painted smithy",
+    "fact": "The party commissioned custom armor for their owlbear companion at a garishly painted smithy.",
+    "source_quote": "The party made their way to a garishly painted smithy, where they commissioned custom armor for their owlbear companion",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party commissioned custom armor for their owlbear companion at a garishly painted smithy."
+    ],
+    "subjects": [
+      "garishly painted smithy"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Hillsfar",
+    "fact": "Hillsfar is a city recovering from weeks of chaos after the party defeated Malkyn Grenefeld.",
+    "source_quote": "A city recovering from weeks of chaos after the party defeated Malkyn Grenefeld",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Hillsfar is a city recovering from weeks of chaos after the party defeated Malkyn Grenefeld."
+    ],
+    "subjects": [
+      "Hillsfar"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Hillsfar",
+    "fact": "Murssvayas Dhuurniv warned that Hillsfar would not survive an attack by the fire giants.",
+    "source_quote": "Hillsfar would not survive such an attack",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Murssvayas Dhuurniv warned that Hillsfar would not survive an attack by the fire giants."
+    ],
+    "subjects": [
+      "Hillsfar"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Hillsfar Castle",
+    "fact": "Hillsfar Castle is the former seat of power in Hillsfar, now a bloody mess with shattered windows and destroyed artifacts.",
+    "source_quote": "The former seat of power in Hillsfar, now a bloody mess with shattered windows and destroyed artifacts",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Hillsfar Castle is the former seat of power in Hillsfar, now a bloody mess with shattered windows and destroyed artifacts."
+    ],
+    "subjects": [
+      "Hillsfar Castle"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Hillsfar Castle",
+    "fact": "The castle contains shattered windows and destroyed artifacts.",
+    "source_quote": "surveyed the shattered windows and destroyed artifacts",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The castle contains shattered windows and destroyed artifacts."
+    ],
+    "subjects": [
+      "Hillsfar Castle"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Hillsfar Castle",
+    "fact": "The castle's main gate was spattered with blood from the recent battle.",
+    "source_quote": "castle's main gate, still spattered with blood from their recent battle",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The castle's main gate was spattered with blood from the recent battle."
+    ],
+    "subjects": [
+      "Hillsfar Castle"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Hillsfar Castle",
+    "fact": "The party prepared to leave through the castle's main gate.",
+    "source_quote": "prepared to leave through the castle's main gate",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The party prepared to leave through the castle's main gate."
+    ],
+    "subjects": [
+      "Hillsfar Castle"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Howling Pits",
+    "fact": "Howling Pits is a twisted realm of the Underdark where Maram il Vass's refuge is located.",
+    "source_quote": "A twisted realm of the Underdark where Maram il Vass's refuge, the Den of the Whispered Word, is located",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Howling Pits is a twisted realm of the Underdark where Maram il Vass's refuge is located."
+    ],
+    "subjects": [
+      "Howling Pits"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Howling Pits",
+    "fact": "The Howling Pits are a twisted realm of the Underdark.",
+    "source_quote": "A twisted realm of the Underdark where Maram il Vass's refuge, the Den of the Whispered Word, is located",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "The Howling Pits are a twisted realm of the Underdark."
+    ],
+    "subjects": [
+      "Howling Pits"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "location",
+    "subject": "Howling Pits",
+    "fact": "The Howling Pits is a twisted realm where the Den of the Whispered Word is located.",
+    "source_quote": "in the twisted realm known as the Howling Pits",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "The Howling Pits is a twisted realm where the Den of the Whispered Word is located."
+    ],
+    "subjects": [
+      "Howling Pits"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "location",
+    "subject": "Maerimydra",
+    "fact": "Maerimydra is a city in the Underdark from which the fiendish fire giants and demons launched their attack.",
+    "source_quote": "demons from the city of Maerimydra",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Maerimydra is a city in the Underdark from which the fiendish fire giants and demons launched their attack."
+    ],
+    "subjects": [
+      "Maerimydra"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Maerimydra",
+    "fact": "The army that sacked Szith Morcane came from the city of Maerimydra.",
+    "source_quote": "from the city of Maerimydra",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The army that sacked Szith Morcane came from the city of Maerimydra."
+    ],
+    "subjects": [
+      "Maerimydra"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Pass Without Trace range",
+    "fact": "The Pass Without Trace spell grants a stealth bonus to the party within 30 feet.",
+    "source_quote": "within 30 feet",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "The Pass Without Trace spell grants a stealth bonus to the party within 30 feet."
+    ],
+    "subjects": [
+      "Pass Without Trace range"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "sacred cave of Sel\u00fbne",
+    "fact": "The party traveled to the sacred cave of Sel\u00fbne.",
+    "source_quote": "The party traveled to the sacred cave of Sel\u00fbne",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "The party traveled to the sacred cave of Sel\u00fbne."
+    ],
+    "subjects": [
+      "sacred cave of Sel\u00fbne",
+      "Silver Shadow Cave"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "location",
+    "subject": "Silver Shadow Cave",
+    "fact": "Silver Shadow Cave is a sacred site for communing with the moon goddess Sel\u00fbne, located near Elventree.",
+    "source_quote": "A sacred site for communing with the moon goddess Sel\u00fbne, located near Elventree",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Silver Shadow Cave is a sacred site for communing with the moon goddess Sel\u00fbne, located near Elventree."
+    ],
+    "subjects": [
+      "Silver Shadow Cave"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Silver Shadow Cave",
+    "fact": "The Silver Shadow Cave contains moats of pollen floating in the air.",
+    "source_quote": "highlighting moats of pollen floating in the air",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The Silver Shadow Cave contains moats of pollen floating in the air."
+    ],
+    "subjects": [
+      "Silver Shadow Cave"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Silver Shadow Cave",
+    "fact": "The Silver Shadow Cave has a wide entrance descending into a broader chamber where moonlight filters below ground.",
+    "source_quote": "wide cave entrance descended into a broader chamber where natural phenomena caused the moonlight to filter mysteriously below ground",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "The Silver Shadow Cave has a wide entrance descending into a broader chamber where moonlight filters below ground.",
+      "The Silver Shadow Cave was bathed in soft moonlight with a wide entrance descending into a broader opening."
+    ],
+    "subjects": [
+      "Silver Shadow Cave"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "location",
+    "subject": "Silver Shadow Cave",
+    "fact": "The Silver Shadow Cave is a sacred site for the moon goddess Sel\u00fbne.",
+    "source_quote": "a sacred site for the moon goddess Sel\u00fbne",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "The Silver Shadow Cave is a sacred site for the moon goddess Sel\u00fbne."
+    ],
+    "subjects": [
+      "Silver Shadow Cave"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "location",
+    "subject": "Silver Shadow Cave",
+    "fact": "The Silver Shadow Cave is located near Elventree.",
+    "source_quote": "Silver Shadow Cave near Elventree",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The Silver Shadow Cave is located near Elventree."
+    ],
+    "subjects": [
+      "Silver Shadow Cave"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Silver Shadow Cave",
+    "fact": "The Silver Shadow Cave is the location where the party is directed to meet Drow representatives.",
+    "source_quote": "meet with Drow representatives at the Silver Shadow Cave",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The Silver Shadow Cave is the location where the party is directed to meet Drow representatives."
+    ],
+    "subjects": [
+      "Silver Shadow Cave"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Silver Shadow Cave",
+    "fact": "The party arrived at the Silver Shadow Cave in the evening.",
+    "source_quote": "arrives at the Silver Shadow Cave in the evening",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party arrived at the Silver Shadow Cave in the evening."
+    ],
+    "subjects": [
+      "Silver Shadow Cave"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Silver Shadow Cave",
+    "fact": "The party arrived in the evening as soft moonlight bathed the clearing in pale radiance.",
+    "source_quote": "arriving in the evening as soft moonlight bathed the clearing in pale radiance",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The party arrived in the evening as soft moonlight bathed the clearing in pale radiance."
+    ],
+    "subjects": [
+      "Silver Shadow Cave"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Smithy in Hillsfar",
+    "fact": "The smithy is described as garishly painted.",
+    "source_quote": "garishly painted smithy",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The smithy is described as garishly painted."
+    ],
+    "subjects": [
+      "Smithy in Hillsfar"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Sporedome",
+    "fact": "Solom Ned'razak fled to the Sporedome after his outpost was sacked.",
+    "source_quote": "who fled to the Sporedome after his outpost was sacked by fire giants and demons",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Solom Ned'razak fled to the Sporedome after his outpost was sacked."
+    ],
+    "subjects": [
+      "Sporedome"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Sporedome",
+    "fact": "Sporedome is a fungal forest in the Underdark where Solom Ned'razak and other Drow survivors took refuge.",
+    "source_quote": "A fungal forest in the Underdark where Solom Ned'razak and other Drow survivors took refuge",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Sporedome is a fungal forest in the Underdark where Solom Ned'razak and other Drow survivors took refuge."
+    ],
+    "subjects": [
+      "Sporedome"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Sporedome",
+    "fact": "The Sporedome is a fungal forest in the Underdark where survivors of Szith Morcane have gathered.",
+    "source_quote": "fled to the fungal forest known as the Sporedome, where other survivors had gathered",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "The Sporedome is a fungal forest in the Underdark where survivors of Szith Morcane have gathered.",
+      "The Sporedome is a fungal forest in the Underdark where other survivors had gathered.",
+      "The Sporedome is a fungal forest where survivors of Szith Morcane gathered."
+    ],
+    "subjects": [
+      "Sporedome"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "location",
+    "subject": "Szith Morcane",
+    "fact": "Szith Morcane is a Drow outpost in the Underdark that was sacked by an army of slaves led by fiendish fire giants and demons.",
+    "source_quote": "A Drow outpost in the Underdark that was sacked by an army of slaves led by fiendish fire giants and demons",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Szith Morcane is a Drow outpost in the Underdark that was sacked by an army of slaves led by fiendish fire giants and demons.",
+      "Szith Morcane is a Drow outpost in the Underdark that was sacked by an army of slaves."
+    ],
+    "subjects": [
+      "Szith Morcane"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "location",
+    "subject": "Szith Morcane",
+    "fact": "The Drow outpost of Szith Morcane had been sacked by an army of slaves led by fiendish fire giants and demons.",
+    "source_quote": "Drow outpost of Szith Morcane had been sacked by an army of slaves led by fiendish fire giants and demons",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The Drow outpost of Szith Morcane had been sacked by an army of slaves led by fiendish fire giants and demons."
+    ],
+    "subjects": [
+      "Szith Morcane"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Tavern in Hillsfar",
+    "fact": "The party settled into a tavern to rest and recover.",
+    "source_quote": "settled into a tavern to rest and recover",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The party settled into a tavern to rest and recover."
+    ],
+    "subjects": [
+      "Tavern in Hillsfar"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "demon",
+    "fact": "Demons sacked Solom Ned'razak's outpost.",
+    "source_quote": "sacked by fire giants and demons",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Demons sacked Solom Ned'razak's outpost."
+    ],
+    "subjects": [
+      "demon"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "demons",
+    "fact": "Demons from Maerimydra helped sack Szith Morcane.",
+    "source_quote": "demons from the city of Maerimydra",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Demons from Maerimydra helped sack Szith Morcane."
+    ],
+    "subjects": [
+      "demons"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "fiendish fire giants",
+    "fact": "Fiendish fire giants led an army of slaves that sacked Szith Morcane.",
+    "source_quote": "army of slaves led by fiendish fire giants",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Fiendish fire giants led an army of slaves that sacked Szith Morcane."
+    ],
+    "subjects": [
+      "fiendish fire giants"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "fire giants",
+    "fact": "Fire giants are being infused with Graz'zt's blood.",
+    "source_quote": "infusing fire giants with his blood",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Fire giants are being infused with Graz'zt's blood."
+    ],
+    "subjects": [
+      "fire giants"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "fire giants",
+    "fact": "Fire giants were infused with Graz'zt's blood to create an army.",
+    "source_quote": "infused fire giants with his own blood",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Fire giants were infused with Graz'zt's blood to create an army."
+    ],
+    "subjects": [
+      "fire giants"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "fire giants",
+    "fact": "Graz'zt had infused fire giants with his own blood.",
+    "source_quote": "infused fire giants with his own blood",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Graz'zt had infused fire giants with his own blood."
+    ],
+    "subjects": [
+      "fire giants"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "fire giants",
+    "fact": "Murssvayas Dhuurniv warned that the fire giants are powerful enough to destroy a Drow city with all its defenses.",
+    "source_quote": "fire giants are powerful enough to destroy a Drow city with all its defenses",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Murssvayas Dhuurniv warned that the fire giants are powerful enough to destroy a Drow city with all its defenses."
+    ],
+    "subjects": [
+      "fire giants"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "owlbear",
+    "fact": "The owlbear seemed to recognize Murssvayas Dhuurniv.",
+    "source_quote": "who seems to recognize him",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The owlbear seemed to recognize Murssvayas Dhuurniv."
+    ],
+    "subjects": [
+      "owlbear"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "owlbear",
+    "fact": "The party commissioned custom armor for their owlbear companion.",
+    "source_quote": "commissioned custom armor for their owlbear companion",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The party commissioned custom armor for their owlbear companion."
+    ],
+    "subjects": [
+      "owlbear"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Solom Ned'razak level",
+    "fact": "Solom Ned'razak is described as an 18th level wizard.",
+    "source_quote": "an 18th level wizard",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "Solom Ned'razak is described as an 18th level wizard."
+    ],
+    "subjects": [
+      "Solom Ned'razak level"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "sphere",
+    "fact": "A creature referred to as 'sphere' exists in the context of the campaign.",
+    "source_quote": "a creature referred to as 'sphere'",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "A creature referred to as 'sphere' exists in the context of the campaign."
+    ],
+    "subjects": [
+      "sphere"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas expressed frustration at being drawn into Emerald Enclave affairs despite being a member.",
+    "source_quote": "Akritas expresses frustration at being drawn into Emerald Enclave affairs despite being a member",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "small"
+    ],
+    "variants": [
+      "Akritas expressed frustration at being drawn into Emerald Enclave affairs despite being a member."
+    ],
+    "subjects": [
+      "Akritas"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas is a member of the party.",
+    "source_quote": "acquired by Akritas from the castle's stores",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Akritas is a member of the party."
+    ],
+    "subjects": [
+      "Akritas"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas is confirmed to have received Bracers of Archery and an Oathbow as equipment.",
+    "source_quote": "Akritas is confirmed to have received Bracers of Archery and an Oathbow as equipment",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Akritas is confirmed to have received Bracers of Archery and an Oathbow as equipment.",
+      "Akritas received Bracers of Archery as equipment."
+    ],
+    "subjects": [
+      "Akritas"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas noted that she does not attend all meetings or read all communications for the Emerald Enclave.",
+    "source_quote": "noting she doesn't attend all meetings or read all communications",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Akritas noted that she does not attend all meetings or read all communications for the Emerald Enclave."
+    ],
+    "subjects": [
+      "Akritas"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas received Bracers of Archery.",
+    "source_quote": "and Bracers of Archery",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Akritas received Bracers of Archery."
+    ],
+    "subjects": [
+      "Akritas"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas received Studded Leather +1 armor.",
+    "source_quote": "Akritas receives Studded Leather +1 armor",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Akritas received Studded Leather +1 armor."
+    ],
+    "subjects": [
+      "Akritas"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas received an Oathbow as equipment.",
+    "source_quote": "and an Oathbow as equipment",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Akritas received an Oathbow as equipment."
+    ],
+    "subjects": [
+      "Akritas"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas received enchanted bracers and superior leather armor from the castle's stores.",
+    "source_quote": "with Akritas receiving enchanted bracers and superior leather armor",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Akritas received enchanted bracers and superior leather armor from the castle's stores.",
+      "Akritas received superior leather armor from the castle's stores.",
+      "Akritas received enchanted bracers from the castle's stores."
+    ],
+    "subjects": [
+      "Akritas"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas revealed she can cast Pass Without Trace.",
+    "source_quote": "Akritas reveals she can cast Pass Without Trace",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Akritas revealed she can cast Pass Without Trace."
+    ],
+    "subjects": [
+      "Akritas"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "The spell Pass Without Trace grants a plus 10 bonus to stealth for the entire party within 30 feet.",
+    "source_quote": "which grants a plus 10 bonus to stealth for the entire party within 30 feet",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The spell Pass Without Trace grants a plus 10 bonus to stealth for the entire party within 30 feet."
+    ],
+    "subjects": [
+      "Akritas"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim insisted on knowing what reward the party would receive for the mission.",
+    "source_quote": "Bramgrim then insisted on knowing what reward the party would receive for such a dangerous mission",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Bramgrim insisted on knowing what reward the party would receive for the mission."
+    ],
+    "subjects": [
+      "Bramgrim"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim is a member of the party.",
+    "source_quote": "Acquired by Bramgrim from the castle",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Bramgrim is a member of the party."
+    ],
+    "subjects": [
+      "Bramgrim"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim notes that Calm Emotions is the only thing that works on a creature referred to as 'sphere'.",
+    "source_quote": "specifically mentioned as being the only thing that works on a creature referred to as 'sphere'",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Bramgrim notes that Calm Emotions is the only thing that works on a creature referred to as 'sphere'."
+    ],
+    "subjects": [
+      "Bramgrim"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim notes that Greater Restoration is always good to have around for its powerful restorative properties.",
+    "source_quote": "noted as always good to have around for its powerful restorative properties",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Bramgrim notes that Greater Restoration is always good to have around for its powerful restorative properties."
+    ],
+    "subjects": [
+      "Bramgrim"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim received Mithral Plate armor.",
+    "source_quote": "Bramgrim receives Mithral Plate armor",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Bramgrim received Mithral Plate armor."
+    ],
+    "subjects": [
+      "Bramgrim"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim recognizes Solom's Pendant as authentic.",
+    "source_quote": "Bramgrim recognizes it as authentic",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Bramgrim recognizes Solom's Pendant as authentic."
+    ],
+    "subjects": [
+      "Bramgrim"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim was outfitted with magical plate mail from the castle's stores.",
+    "source_quote": "while Bramgrim and Daein were outfitted with magical plate mail",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Bramgrim was outfitted with magical plate mail from the castle's stores.",
+      "Bramgrim was outfitted with magical plate mail."
+    ],
+    "subjects": [
+      "Bramgrim"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Charles",
+    "fact": "Charles arrived at the tavern where the party was staying after a few days of rest.",
+    "source_quote": "Charles arrives at the tavern where the party is staying",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Charles arrived at the tavern where the party was staying after a few days of rest."
+    ],
+    "subjects": [
+      "Charles"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Charles",
+    "fact": "Charles arrived with urgent news from the Emerald Enclave.",
+    "source_quote": "Charles arrived with urgent news from the Emerald Enclave",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Charles arrived with urgent news from the Emerald Enclave."
+    ],
+    "subjects": [
+      "Charles"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Charles",
+    "fact": "Charles congratulates the party on their victory.",
+    "source_quote": "He congratulates the party on their victory",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Charles congratulates the party on their victory."
+    ],
+    "subjects": [
+      "Charles"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Charles",
+    "fact": "Charles delivered grave news about Graz'zt's continued threat.",
+    "source_quote": "delivers grave news about Graz'zt's continued threat",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Charles delivered grave news about Graz'zt's continued threat."
+    ],
+    "subjects": [
+      "Charles"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Charles",
+    "fact": "Charles emphasized that demons seek chaos and destruction for its own sake.",
+    "source_quote": "Charles emphasized that demons sought chaos and destruction for its own sake",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Charles emphasized that demons seek chaos and destruction for its own sake."
+    ],
+    "subjects": [
+      "Charles"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Charles",
+    "fact": "Charles is a messenger from the Emerald Enclave and member of La R\u00e9sistance.",
+    "source_quote": "Charles finds them here to deliver urgent news from the Emerald Enclave",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Charles is a messenger from the Emerald Enclave and member of La R\u00e9sistance.",
+      "Charles is a messenger from the Emerald Enclave."
+    ],
+    "subjects": [
+      "Charles"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Charles",
+    "fact": "Charles is known for his dramatic and somewhat over-the-top demeanor.",
+    "source_quote": "known for his dramatic and somewhat over-the-top demeanor",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "large"
+    ],
+    "variants": [
+      "Charles is known for his dramatic and somewhat over-the-top demeanor."
+    ],
+    "subjects": [
+      "Charles"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Charles",
+    "fact": "Charles warned that the price for fighting evil always increases the longer one delays.",
+    "source_quote": "warning them that the price for fighting evil always increased the longer one delayed",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Charles warned that the price for fighting evil always increases the longer one delays."
+    ],
+    "subjects": [
+      "Charles"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein declined Isthana's offer of a position in Hillsfar's new political order.",
+    "source_quote": "Daein declined immediately, stating he preferred to keep his head attached to his body",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Daein declined Isthana's offer of a position in Hillsfar's new political order."
+    ],
+    "subjects": [
+      "Daein"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein declined the offer of a political career because he preferred to keep his head attached to his body.",
+    "source_quote": "Daein declined immediately, stating he preferred to keep his head attached to his body",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Daein declined the offer of a political career because he preferred to keep his head attached to his body."
+    ],
+    "subjects": [
+      "Daein"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein declined the offer of a position in Hillsfar's new political order.",
+    "source_quote": "Daein declined immediately, stating he preferred to keep his head attached to his body",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Daein declined the offer of a position in Hillsfar's new political order.",
+      "Daein declined the offer to join Hillsfar's political order immediately."
+    ],
+    "subjects": [
+      "Daein"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein increased his Charisma score with his ability score improvement.",
+    "source_quote": "Daein increases his Charisma score with his ability score improvement",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Daein increased his Charisma score with his ability score improvement.",
+      "Daein increases his Charisma score with his ability score improvement."
+    ],
+    "subjects": [
+      "Daein"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein is a member of the party.",
+    "source_quote": "Magical heavy armor acquired by Daein from the castle's stores",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Daein is a member of the party."
+    ],
+    "subjects": [
+      "Daein"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein questioned whether Solom Ned'razak's promise could be trusted.",
+    "source_quote": "Though Daein questioned whether this promise could be trusted",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Daein questioned whether Solom Ned'razak's promise could be trusted."
+    ],
+    "subjects": [
+      "Daein"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein questioned whether the Drow's promise of an item from their horde could be trusted.",
+    "source_quote": "Though Daein questioned whether this promise could be trusted",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Daein questioned whether the Drow's promise of an item from their horde could be trusted."
+    ],
+    "subjects": [
+      "Daein"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein realized he now has a plus 20 stealth bonus due to Pass Without Trace.",
+    "source_quote": "shocking Daein who realizes he now has a plus 20 stealth bonus",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Daein realized he now has a plus 20 stealth bonus due to Pass Without Trace."
+    ],
+    "subjects": [
+      "Daein"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein received Plate Mail +1.",
+    "source_quote": "Daein receives Plate Mail +1",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Daein received Plate Mail +1."
+    ],
+    "subjects": [
+      "Daein"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein stated he preferred to keep his head attached to his body.",
+    "source_quote": "stating he preferred to keep his head attached to his body",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Daein stated he preferred to keep his head attached to his body."
+    ],
+    "subjects": [
+      "Daein"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein was outfitted with magical plate mail from the castle's stores.",
+    "source_quote": "while Bramgrim and Daein were outfitted with magical plate mail",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Daein was outfitted with magical plate mail from the castle's stores.",
+      "Daein was outfitted with magical plate mail."
+    ],
+    "subjects": [
+      "Daein"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein was shocked by the revelation of Akritas's stealth ability.",
+    "source_quote": "shocking Daein who realizes he now has a plus 20 stealth bonus",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Daein was shocked by the revelation of Akritas's stealth ability."
+    ],
+    "subjects": [
+      "Daein"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Elventree",
+    "fact": "Elventree is a settlement near the Silver Shadow Cave.",
+    "source_quote": "near Elventree",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Elventree is a settlement near the Silver Shadow Cave."
+    ],
+    "subjects": [
+      "Elventree"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Graz'zt",
+    "fact": "Graz'zt is a demon lord who constructed a plot thwarted by the party.",
+    "source_quote": "thwarted the demon lord Graz'zt's carefully constructed plot",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Graz'zt is a demon lord who constructed a plot thwarted by the party."
+    ],
+    "subjects": [
+      "Graz'zt"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Graz'zt",
+    "fact": "Graz'zt is a demon lord who is now infusing fire giants with his blood.",
+    "source_quote": "He threatened vengeance and is now infusing fire giants with his blood",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Graz'zt is a demon lord who is now infusing fire giants with his blood.",
+      "Graz'zt is a demon lord."
+    ],
+    "subjects": [
+      "Graz'zt"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Graz'zt",
+    "fact": "Graz'zt's presence faded from the material plane after threatening vengeance.",
+    "source_quote": "Graz'zt had threatened terrible vengeance before his presence faded from the material plane",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Graz'zt's presence faded from the material plane after threatening vengeance."
+    ],
+    "subjects": [
+      "Graz'zt"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Graz'zt",
+    "fact": "The demon lord Graz'zt threatened vengeance for his thwarted plot.",
+    "source_quote": "the wrath of the demon lord Graz'zt, who threatened vengeance for his thwarted plot",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "The demon lord Graz'zt threatened vengeance for his thwarted plot."
+    ],
+    "subjects": [
+      "Graz'zt"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Isthana",
+    "fact": "Isthana appeared in the blood-soaked temple where the final battle had taken place.",
+    "source_quote": "Isthana, the head of the Thieves Guild, appeared in the blood-soaked temple where the final battle had taken place",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Isthana appeared in the blood-soaked temple where the final battle had taken place."
+    ],
+    "subjects": [
+      "Isthana"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Isthana",
+    "fact": "Isthana appeared in the bloody temple to thank the party for killing the ruling elite.",
+    "source_quote": "appears in the bloody temple and thanks the party for killing the ruling elite",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Isthana appeared in the bloody temple to thank the party for killing the ruling elite."
+    ],
+    "subjects": [
+      "Isthana"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Isthana",
+    "fact": "Isthana is pragmatic and opportunistic.",
+    "source_quote": "She is pragmatic and opportunistic",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Isthana is pragmatic and opportunistic."
+    ],
+    "subjects": [
+      "Isthana"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Isthana",
+    "fact": "Isthana is the head of the Thieves Guild in Hillsfar.",
+    "source_quote": "The head of the Thieves Guild sees new opportunities in the power vacuum",
+    "quote_verified": false,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Isthana is the head of the Thieves Guild in Hillsfar.",
+      "Isthana is the head of the Thieves Guild."
+    ],
+    "subjects": [
+      "Isthana"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Isthana",
+    "fact": "Isthana left through the sewers.",
+    "source_quote": "Isthana leaves through the sewers",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Isthana left through the sewers."
+    ],
+    "subjects": [
+      "Isthana"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Isthana",
+    "fact": "Isthana noted that the death of the ruling elite creates many opportunities for her guild.",
+    "source_quote": "noting it creates many opportunities for her guild",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Isthana noted that the death of the ruling elite creates many opportunities for her guild."
+    ],
+    "subjects": [
+      "Isthana"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Isthana",
+    "fact": "Isthana offered the party a career in politics and leadership of Hillsfar.",
+    "source_quote": "offers the party a career in politics and leadership of Hillsfar",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Isthana offered the party a career in politics and leadership of Hillsfar."
+    ],
+    "subjects": [
+      "Isthana"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Isthana",
+    "fact": "Isthana sees the recent chaos and death of the ruling elite as creating many opportunities for her guild.",
+    "source_quote": "seeing the recent chaos and death of the ruling elite as creating many opportunities for her guild",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "Isthana sees the recent chaos and death of the ruling elite as creating many opportunities for her guild.",
+      "Isthana views the recent chaos and death of the ruling elite as creating opportunities for her guild."
+    ],
+    "subjects": [
+      "Isthana"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Isthana",
+    "fact": "Isthana thanked the party for creating extraordinary opportunities for her organization.",
+    "source_quote": "thanking the party for creating such extraordinary opportunities for her organization",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Isthana thanked the party for creating extraordinary opportunities for her organization."
+    ],
+    "subjects": [
+      "Isthana"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Malkyn Grenefeld",
+    "fact": "Malkyn Grenefeld is the recently defeated antagonist whose death triggered the current chaos in Hillsfar.",
+    "source_quote": "The recently defeated antagonist whose death triggered the current chaos in Hillsfar",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Malkyn Grenefeld is the recently defeated antagonist whose death triggered the current chaos in Hillsfar."
+    ],
+    "subjects": [
+      "Malkyn Grenefeld"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Malkyn Grenefeld",
+    "fact": "Malkyn Grenefeld is the recently defeated antagonist.",
+    "source_quote": "The recently defeated antagonist",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "Malkyn Grenefeld is the recently defeated antagonist."
+    ],
+    "subjects": [
+      "Malkyn Grenefeld"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Malkyn Grenefeld",
+    "fact": "Malkyn Grenefeld was defeated by the party in Hillsfar.",
+    "source_quote": "victory over Malkyn Grenefeld",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Malkyn Grenefeld was defeated by the party in Hillsfar."
+    ],
+    "subjects": [
+      "Malkyn Grenefeld"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Malkyn Grenefeld",
+    "fact": "Malkyn Grenefeld was defeated by the party.",
+    "source_quote": "victory over Malkyn Grenefeld",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Malkyn Grenefeld was defeated by the party."
+    ],
+    "subjects": [
+      "Malkyn Grenefeld"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Malkyn Grenefeld",
+    "fact": "The party defeated Malkyn Grenefeld in Hillsfar.",
+    "source_quote": "defeating Malkyn Grenefeld in Hillsfar",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "The party defeated Malkyn Grenefeld in Hillsfar."
+    ],
+    "subjects": [
+      "Malkyn Grenefeld"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Maram il Vass",
+    "fact": "Maram il Vass is a creature residing in the Den of the Whispered Word.",
+    "source_quote": "A creature residing in the Den of the Whispered Word, an extraplanar brokerage in the Howling Pits",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Maram il Vass is a creature residing in the Den of the Whispered Word."
+    ],
+    "subjects": [
+      "Maram il Vass"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Maram il Vass",
+    "fact": "Maram il Vass is a creature who operates an extraplanar brokerage called the Den of the Whispered Word.",
+    "source_quote": "sold to a creature named Maram il Vass, who operated an extraplanar brokerage called the Den of the Whispered Word",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Maram il Vass is a creature who operates an extraplanar brokerage called the Den of the Whispered Word."
+    ],
+    "subjects": [
+      "Maram il Vass"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Maram il Vass",
+    "fact": "Maram il Vass is a creature who operates an extraplanar brokerage.",
+    "source_quote": "sold to a creature named Maram il Vass, who operated an extraplanar brokerage",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Maram il Vass is a creature who operates an extraplanar brokerage."
+    ],
+    "subjects": [
+      "Maram il Vass"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Maram il Vass",
+    "fact": "Maram il Vass resides in the Den of the Whispered Word in the Howling Pits.",
+    "source_quote": "resides in the Den of the Whispered Word in the Howling Pits",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Maram il Vass resides in the Den of the Whispered Word in the Howling Pits."
+    ],
+    "subjects": [
+      "Maram il Vass"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Maram il Vass",
+    "fact": "Solom Ned'razak learned that Xaven Tanor'this was sold to Maram il Vass.",
+    "source_quote": "Xaven was sold to a creature called Maram il Vass",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Solom Ned'razak learned that Xaven Tanor'this was sold to Maram il Vass."
+    ],
+    "subjects": [
+      "Maram il Vass"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Murssvayas Dhuurniv",
+    "fact": "A Drow Archmage from Szith Morcane brought news of Graz'zt infusing fire giants with demonic power.",
+    "source_quote": "a Drow Archmage from Szith Morcane has brought news of Graz'zt infusing fire giants with demonic power",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "A Drow Archmage from Szith Morcane brought news of Graz'zt infusing fire giants with demonic power."
+    ],
+    "subjects": [
+      "Murssvayas Dhuurniv"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Murssvayas Dhuurniv",
+    "fact": "Murssvayas Dhuurniv greeted each party member individually, including the owlbear.",
+    "source_quote": "greeted each party member individually, including the owlbear",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Murssvayas Dhuurniv greeted each party member individually, including the owlbear."
+    ],
+    "subjects": [
+      "Murssvayas Dhuurniv"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Murssvayas Dhuurniv",
+    "fact": "Murssvayas Dhuurniv has distinctive silver hair.",
+    "source_quote": "distinctive silver hair",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Murssvayas Dhuurniv has distinctive silver hair."
+    ],
+    "subjects": [
+      "Murssvayas Dhuurniv"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Murssvayas Dhuurniv",
+    "fact": "Murssvayas Dhuurniv has emerald green eyes.",
+    "source_quote": "emerald green eyes",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Murssvayas Dhuurniv has emerald green eyes."
+    ],
+    "subjects": [
+      "Murssvayas Dhuurniv"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Murssvayas Dhuurniv",
+    "fact": "Murssvayas Dhuurniv has silver hair, thick sideburns, and emerald green eyes.",
+    "source_quote": "A Drow representative with silver hair, thick sideburns, emerald green eyes",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Murssvayas Dhuurniv has silver hair, thick sideburns, and emerald green eyes."
+    ],
+    "subjects": [
+      "Murssvayas Dhuurniv"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Murssvayas Dhuurniv",
+    "fact": "Murssvayas Dhuurniv has skin so dark it is nearly purple.",
+    "source_quote": "and skin so dark it's nearly purple",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Murssvayas Dhuurniv has skin so dark it is nearly purple.",
+      "Murssvayas Dhuurniv has skin so dark it's nearly purple."
+    ],
+    "subjects": [
+      "Murssvayas Dhuurniv"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Murssvayas Dhuurniv",
+    "fact": "Murssvayas Dhuurniv has thick sideburns.",
+    "source_quote": "thick sideburns",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Murssvayas Dhuurniv has thick sideburns."
+    ],
+    "subjects": [
+      "Murssvayas Dhuurniv"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Murssvayas Dhuurniv",
+    "fact": "Murssvayas Dhuurniv initially dismissed the party's request for payment before offering a reward from the Drow horde.",
+    "source_quote": "Initially dismissing the party's request for payment before offering a reward from the Drow horde",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Murssvayas Dhuurniv initially dismissed the party's request for payment before offering a reward from the Drow horde."
+    ],
+    "subjects": [
+      "Murssvayas Dhuurniv"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Murssvayas Dhuurniv",
+    "fact": "Murssvayas Dhuurniv is a Drow representative with silver hair, thick sideburns, emerald green eyes, and skin so dark it's nearly purple.",
+    "source_quote": "Murssvayas Dhuurniv... with silver hair, thick sideburns, emerald green eyes, and skin so dark it's nearly purple",
+    "quote_verified": false,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Murssvayas Dhuurniv is a Drow representative with silver hair, thick sideburns, emerald green eyes, and skin so dark it's nearly purple.",
+      "Murssvayas Dhuurniv is a Drow with silver hair, emerald green eyes, and skin so dark it appeared nearly purple.",
+      "Murssvayas Dhuurniv is a Drow representative with silver hair."
+    ],
+    "subjects": [
+      "Murssvayas Dhuurniv"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Murssvayas Dhuurniv",
+    "fact": "Murssvayas Dhuurniv is dressed in a black shirt and pants with a sword at his side.",
+    "source_quote": "Dressed in black shirt and pants with a sword at his side",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Murssvayas Dhuurniv is dressed in a black shirt and pants with a sword at his side."
+    ],
+    "subjects": [
+      "Murssvayas Dhuurniv"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Murssvayas Dhuurniv",
+    "fact": "Murssvayas Dhuurniv is dressed in a black shirt and pants.",
+    "source_quote": "Dressed in black shirt and pants",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Murssvayas Dhuurniv is dressed in a black shirt and pants."
+    ],
+    "subjects": [
+      "Murssvayas Dhuurniv"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Murssvayas Dhuurniv",
+    "fact": "Murssvayas Dhuurniv presents Solom's Pendant to prove his legitimacy as Solom's representative.",
+    "source_quote": "Murssvayas Dhuurniv presents it to prove his legitimacy as Solom's representative",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Murssvayas Dhuurniv presents Solom's Pendant to prove his legitimacy as Solom's representative."
+    ],
+    "subjects": [
+      "Murssvayas Dhuurniv"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Murssvayas Dhuurniv",
+    "fact": "Murssvayas Dhuurniv represents Solom Ned'razak.",
+    "source_quote": "he represents Solom Ned'razak",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "Murssvayas Dhuurniv represents Solom Ned'razak."
+    ],
+    "subjects": [
+      "Murssvayas Dhuurniv"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Murssvayas Dhuurniv",
+    "fact": "Murssvayas Dhuurniv stated that once Szith Morcane is retaken, avenues can be opened for friendly dealings with surface factions.",
+    "source_quote": "Money? Once Szith Morcane is retaken, avenues can be opened up for friendly dealings with certain surface factions",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Murssvayas Dhuurniv stated that once Szith Morcane is retaken, avenues can be opened for friendly dealings with surface factions."
+    ],
+    "subjects": [
+      "Murssvayas Dhuurniv"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Murssvayas Dhuurniv",
+    "fact": "Murssvayas assured the party of the Drow's honor regarding their promise.",
+    "source_quote": "but Murssvayas assures them of the Drow's honor",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Murssvayas assured the party of the Drow's honor regarding their promise."
+    ],
+    "subjects": [
+      "Murssvayas Dhuurniv"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Murssvayas Dhuurniv",
+    "fact": "Murssvayas emphasized the greater threat to both the Underdark and the surface world when dismissing payment.",
+    "source_quote": "emphasizing the greater threat to both the Underdark and the surface world",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Murssvayas emphasized the greater threat to both the Underdark and the surface world when dismissing payment."
+    ],
+    "subjects": [
+      "Murssvayas Dhuurniv"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Murssvayas Dhuurniv",
+    "fact": "Murssvayas revealed that Solom Ned'razak had anticipated the party's question about reward.",
+    "source_quote": "Murssvayas revealed that Solom had anticipated this very question",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Murssvayas revealed that Solom Ned'razak had anticipated the party's question about reward."
+    ],
+    "subjects": [
+      "Murssvayas Dhuurniv"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Murssvayas Dhuurniv",
+    "fact": "Murssvayas warned that Hillsfar would stand no chance against a fire giant assault.",
+    "source_quote": "and that Hillsfar would stand no chance against such an assault",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Murssvayas warned that Hillsfar would stand no chance against a fire giant assault."
+    ],
+    "subjects": [
+      "Murssvayas Dhuurniv"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Murssvayas Dhuurniv",
+    "fact": "Murssvayas warned that the fire giants were powerful enough to destroy a Drow city with all its defenses.",
+    "source_quote": "He warned that the fire giants were powerful enough to destroy a Drow city with all its defenses",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Murssvayas warned that the fire giants were powerful enough to destroy a Drow city with all its defenses."
+    ],
+    "subjects": [
+      "Murssvayas Dhuurniv"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Murssvayas Dhuurniv",
+    "fact": "The owlbear seemed to recognize Murssvayas Dhuurniv with unusual familiarity.",
+    "source_quote": "who seemed to recognize him with unusual familiarity",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The owlbear seemed to recognize Murssvayas Dhuurniv with unusual familiarity."
+    ],
+    "subjects": [
+      "Murssvayas Dhuurniv"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Overbright",
+    "fact": "Overbright is a location mentioned in the context of preventing fire giants from conquering it.",
+    "source_quote": "preventing the fire giants from conquering the Overbright",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Overbright is a location mentioned in the context of preventing fire giants from conquering it."
+    ],
+    "subjects": [
+      "Overbright"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Red Plume guards",
+    "fact": "Red Plume guards at the front door stood ready to fight but let the party pass without confrontation.",
+    "source_quote": "stand ready to fight but ultimately let the blood-spattered party pass without confrontation",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Red Plume guards at the front door stood ready to fight but let the party pass without confrontation."
+    ],
+    "subjects": [
+      "Red Plume guards"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sel\u00fbne",
+    "fact": "Sel\u00fbne is the moon goddess associated with the Silver Shadow Cave.",
+    "source_quote": "sacred cave of Sel\u00fbne",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Sel\u00fbne is the moon goddess associated with the Silver Shadow Cave."
+    ],
+    "subjects": [
+      "Sel\u00fbne"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom Ned'razak anticipated the party would ask for a reward.",
+    "source_quote": "anticipated the party would ask for a reward",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Solom Ned'razak anticipated the party would ask for a reward."
+    ],
+    "subjects": [
+      "Solom Ned'razak"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom Ned'razak fled to the fungal forest known as the Sporedome.",
+    "source_quote": "fled to the fungal forest known as the Sporedome",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Solom Ned'razak fled to the fungal forest known as the Sporedome."
+    ],
+    "subjects": [
+      "Solom Ned'razak"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom Ned'razak is an 18th level Drow wizard.",
+    "source_quote": "the 18th level Drow wizard",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Solom Ned'razak is an 18th level Drow wizard."
+    ],
+    "subjects": [
+      "Solom Ned'razak"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom Ned'razak is an 18th level wizard.",
+    "source_quote": "an 18th level wizard",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep",
+      "temporal"
+    ],
+    "variants": [
+      "Solom Ned'razak is an 18th level wizard."
+    ],
+    "subjects": [
+      "Solom Ned'razak",
+      "Solom Ned'razak level"
+    ],
+    "n_samples": 4
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom Ned'razak is an incredibly powerful wizard.",
+    "source_quote": "an incredibly powerful wizard",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Solom Ned'razak is an incredibly powerful wizard."
+    ],
+    "subjects": [
+      "Solom Ned'razak"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom Ned'razak is the leader of the Drow outpost of Szith Morcane who fled to the Sporedome.",
+    "source_quote": "The outpost's leader, Solom Ned'razak, an incredibly powerful wizard, had fled to the fungal forest known as the Sporedome",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Solom Ned'razak is the leader of the Drow outpost of Szith Morcane who fled to the Sporedome.",
+      "Solom Ned'razak is the leader of the Drow outpost of Szith Morcane."
+    ],
+    "subjects": [
+      "Solom Ned'razak"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom Ned'razak is the leader of the outpost of Szith Morcane.",
+    "source_quote": "The outpost's leader, Solom Ned'razak",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Solom Ned'razak is the leader of the outpost of Szith Morcane.",
+      "Solom Ned'razak is the leader of the Szith Morcane outpost."
+    ],
+    "subjects": [
+      "Solom Ned'razak"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Solom's Pendant owner level",
+    "fact": "Solom Ned'razak is the 18th level Drow wizard who owns the pendant.",
+    "source_quote": "the 18th level Drow wizard",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "Solom Ned'razak is the 18th level Drow wizard who owns the pendant."
+    ],
+    "subjects": [
+      "Solom's Pendant owner level"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "The party",
+    "fact": "The party decided to keep their beloved owlbear companion safe in future conflicts.",
+    "source_quote": "determined to keep their beloved beast safe in future conflicts",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "The party decided to keep their beloved owlbear companion safe in future conflicts."
+    ],
+    "subjects": [
+      "The party"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "The Red Plume guards",
+    "fact": "The Red Plume guards wisely stepped aside to let the party pass.",
+    "source_quote": "and they wisely stepped aside",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "The Red Plume guards wisely stepped aside to let the party pass."
+    ],
+    "subjects": [
+      "The Red Plume guards"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "The Red Plume guards",
+    "fact": "The Red Plume guards' resolve wavered when they recognized the heroes.",
+    "source_quote": "the guards' resolve wavered when they recognized the heroes",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "The Red Plume guards' resolve wavered when they recognized the heroes."
+    ],
+    "subjects": [
+      "The Red Plume guards"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Xaven Tanor'this",
+    "fact": "Xaven Tanor'this had been captured during the raid on Szith Morcane.",
+    "source_quote": "had been captured during the raid",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Xaven Tanor'this had been captured during the raid on Szith Morcane."
+    ],
+    "subjects": [
+      "Xaven Tanor'this"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Xaven Tanor'this",
+    "fact": "Xaven Tanor'this had been sold to Maram il Vass.",
+    "source_quote": "Xaven had been sold to a creature named Maram il Vass",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Xaven Tanor'this had been sold to Maram il Vass."
+    ],
+    "subjects": [
+      "Xaven Tanor'this"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Xaven Tanor'this",
+    "fact": "Xaven Tanor'this is the Drow's chief alchemist who was captured during the raid on Szith Morcane.",
+    "source_quote": "The Drow's chief alchemist who was working on a ritual to cull fiendish blood from the Graz'zt-infused fire giants",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Xaven Tanor'this is the Drow's chief alchemist who was captured during the raid on Szith Morcane.",
+      "Xaven Tanor'this is the chief alchemist of Szith Morcane who was captured during the raid."
+    ],
+    "subjects": [
+      "Xaven Tanor'this"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Xaven Tanor'this",
+    "fact": "Xaven Tanor'this is the chief alchemist of the Drow.",
+    "source_quote": "Drow's chief alchemist, Xaven Tanor'this",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Xaven Tanor'this is the chief alchemist of the Drow.",
+      "Xaven Tanor'this is the Drow's chief alchemist."
+    ],
+    "subjects": [
+      "Xaven Tanor'this"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Xaven Tanor'this",
+    "fact": "Xaven Tanor'this was captured in the raid.",
+    "source_quote": "was captured in the raid",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Xaven Tanor'this was captured in the raid."
+    ],
+    "subjects": [
+      "Xaven Tanor'this"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Xaven Tanor'this",
+    "fact": "Xaven Tanor'this was working on a ritual to purge the fiendish blood from the giants.",
+    "source_quote": "working on a ritual to purge the fiendish blood from the giants",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Xaven Tanor'this was working on a ritual to purge the fiendish blood from the giants.",
+      "Xaven Tanor'this was working on a ritual to cull fiendish blood from the giants."
+    ],
+    "subjects": [
+      "Xaven Tanor'this"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "object",
+    "subject": "Bracers of Archery",
+    "fact": "Akritas acquired the Bracers of Archery from the castle's stores.",
+    "source_quote": "acquired by Akritas from the castle's stores",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Akritas acquired the Bracers of Archery from the castle's stores."
+    ],
+    "subjects": [
+      "Bracers of Archery"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Bracers of Archery",
+    "fact": "Akritas received Bracers of Archery as equipment.",
+    "source_quote": "Akritas is confirmed to have received Bracers of Archery",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Akritas received Bracers of Archery as equipment."
+    ],
+    "subjects": [
+      "Bracers of Archery"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Bracers of Archery",
+    "fact": "The Bracers of Archery are magical bracers that enhance archery skills.",
+    "source_quote": "Magical bracers that enhance archery skills",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "The Bracers of Archery are magical bracers that enhance archery skills.",
+      "Bracers of Archery are magical bracers that enhance archery skills."
+    ],
+    "subjects": [
+      "Bracers of Archery"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "object",
+    "subject": "Greater Restoration",
+    "fact": "Greater Restoration can cure various afflictions.",
+    "source_quote": "that can cure various afflictions",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Greater Restoration can cure various afflictions."
+    ],
+    "subjects": [
+      "Greater Restoration"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Greater Restoration",
+    "fact": "Greater Restoration is noted as always good to have around for its powerful restorative properties.",
+    "source_quote": "noted as always good to have around for its powerful restorative properties",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Greater Restoration is noted as always good to have around for its powerful restorative properties."
+    ],
+    "subjects": [
+      "Greater Restoration"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Mithral Plate",
+    "fact": "Bramgrim acquired the Mithral Plate from the castle.",
+    "source_quote": "Acquired by Bramgrim from the castle",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Bramgrim acquired the Mithral Plate from the castle."
+    ],
+    "subjects": [
+      "Mithral Plate"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Mithral Plate",
+    "fact": "Mithral Plate is light and flexible heavy armor made of mithral.",
+    "source_quote": "Light and flexible heavy armor made of mithral",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Mithral Plate is light and flexible heavy armor made of mithral."
+    ],
+    "subjects": [
+      "Mithral Plate"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "object",
+    "subject": "Mithral Plate",
+    "fact": "Mithral Plate removes stealth penalties for the wearer.",
+    "source_quote": "removing stealth penalties",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Mithral Plate removes stealth penalties for the wearer."
+    ],
+    "subjects": [
+      "Mithral Plate"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Mithral Plate",
+    "fact": "The Mithral Plate does not impose disadvantage on dexterity checks.",
+    "source_quote": "that does not impose disadvantage on dexterity checks",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "The Mithral Plate does not impose disadvantage on dexterity checks.",
+      "Mithral Plate does not impose disadvantage on dexterity checks."
+    ],
+    "subjects": [
+      "Mithral Plate"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "object",
+    "subject": "Mithral Plate AC",
+    "fact": "The Mithral Plate increases Bramgrim's armor class to 20.",
+    "source_quote": "increases his armor class to 20",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "temporal"
+    ],
+    "variants": [
+      "The Mithral Plate increases Bramgrim's armor class to 20.",
+      "Mithral Plate increases Bramgrim's armor class to 20."
+    ],
+    "subjects": [
+      "Mithral Plate AC",
+      "Mithral Plate"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "object",
+    "subject": "Mithral Plate armor",
+    "fact": "Bramgrim received Mithral Plate armor.",
+    "source_quote": "Bramgrim receives Mithral Plate armor",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Bramgrim received Mithral Plate armor."
+    ],
+    "subjects": [
+      "Mithral Plate armor"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Oathbow",
+    "fact": "Akritas received an Oathbow as equipment.",
+    "source_quote": "Akritas is confirmed to have received Bracers of Archery and an Oathbow as equipment",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Akritas received an Oathbow as equipment."
+    ],
+    "subjects": [
+      "Oathbow"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Oathbow",
+    "fact": "The Oathbow is a powerful magical bow already wielded by Akritas.",
+    "source_quote": "A powerful magical bow already wielded by Akritas",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "The Oathbow is a powerful magical bow already wielded by Akritas."
+    ],
+    "subjects": [
+      "Oathbow"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "object",
+    "subject": "Oathbow",
+    "fact": "The Oathbow is noted for its exceptional strength.",
+    "source_quote": "noted for its exceptional strength",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "The Oathbow is noted for its exceptional strength."
+    ],
+    "subjects": [
+      "Oathbow"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "object",
+    "subject": "Owlbear Scale Mail",
+    "fact": "Owlbear Scale Mail is custom-made scale mail armor commissioned for the party's owlbear companion.",
+    "source_quote": "Custom-made scale mail armor commissioned for the party's owlbear companion",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Owlbear Scale Mail is custom-made scale mail armor commissioned for the party's owlbear companion."
+    ],
+    "subjects": [
+      "Owlbear Scale Mail"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "object",
+    "subject": "Owlbear Scale Mail",
+    "fact": "Owlbear Scale Mail takes several days to craft.",
+    "source_quote": "takes several days to craft",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Owlbear Scale Mail takes several days to craft."
+    ],
+    "subjects": [
+      "Owlbear Scale Mail"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Owlbear Scale Mail",
+    "fact": "The Owlbear Scale Mail provides an armor class of 15.",
+    "source_quote": "It provides an armor class of 15",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "temporal"
+    ],
+    "variants": [
+      "The Owlbear Scale Mail provides an armor class of 15.",
+      "Owlbear Scale Mail provides an armor class of 15."
+    ],
+    "subjects": [
+      "Owlbear Scale Mail",
+      "Owlbear Scale Mail AC"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "object",
+    "subject": "owlbear scale mail",
+    "fact": "The party ordered scale mail for the owlbear at a cost of 200 gold pieces.",
+    "source_quote": "order scale mail for the owlbear at a cost of 200 gold pieces",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The party ordered scale mail for the owlbear at a cost of 200 gold pieces."
+    ],
+    "subjects": [
+      "owlbear scale mail"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Owlbear Scale Mail cost",
+    "fact": "The custom-made Owlbear Scale Mail was commissioned at a cost of 200 gold pieces.",
+    "source_quote": "at a cost of 200 gold pieces",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "temporal"
+    ],
+    "variants": [
+      "The custom-made Owlbear Scale Mail was commissioned at a cost of 200 gold pieces.",
+      "Owlbear Scale Mail was commissioned at a cost of 200 gold pieces."
+    ],
+    "subjects": [
+      "Owlbear Scale Mail cost",
+      "Owlbear Scale Mail"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "object",
+    "subject": "pendant",
+    "fact": "Murssvayas produced a pendant that Bramgrim recognized as belonging to Solom Ned'razak.",
+    "source_quote": "the Drow produced a pendant that Bramgrim recognized as belonging to Solom Ned'razak",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Murssvayas produced a pendant that Bramgrim recognized as belonging to Solom Ned'razak."
+    ],
+    "subjects": [
+      "pendant",
+      "Solom's pendant"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "object",
+    "subject": "pendant",
+    "fact": "The pendant belongs to Solom Ned'razak and was used by Murssvayas to prove his authority.",
+    "source_quote": "Murssvayas produces a pendant that Bramgrim recognizes as belonging to Solom Ned'razak",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The pendant belongs to Solom Ned'razak and was used by Murssvayas to prove his authority."
+    ],
+    "subjects": [
+      "pendant"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Plate Mail +1",
+    "fact": "Daein received Plate Mail +1.",
+    "source_quote": "Daein receives Plate Mail +1",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Daein received Plate Mail +1."
+    ],
+    "subjects": [
+      "Plate Mail +1"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Plate Mail +1",
+    "fact": "Plate Mail +1 is magical heavy armor acquired by Daein from the castle's stores.",
+    "source_quote": "Magical heavy armor acquired by Daein from the castle's stores",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Plate Mail +1 is magical heavy armor acquired by Daein from the castle's stores."
+    ],
+    "subjects": [
+      "Plate Mail +1"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "object",
+    "subject": "Plate Mail +1 AC",
+    "fact": "The Plate Mail +1 increases Daein's armor class to 21.",
+    "source_quote": "increasing his armor class to 21",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "temporal"
+    ],
+    "variants": [
+      "The Plate Mail +1 increases Daein's armor class to 21.",
+      "Plate Mail +1 increases Daein's armor class to 21."
+    ],
+    "subjects": [
+      "Plate Mail +1 AC",
+      "Plate Mail +1"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "object",
+    "subject": "Ring of Evasion",
+    "fact": "The Ring of Evasion allows Bramgrim to avoid damage from certain effects.",
+    "source_quote": "that allows him to avoid damage from certain effects",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "The Ring of Evasion allows Bramgrim to avoid damage from certain effects."
+    ],
+    "subjects": [
+      "Ring of Evasion"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "object",
+    "subject": "Ring of Evasion",
+    "fact": "The Ring of Evasion is a magical ring possessed by Bramgrim.",
+    "source_quote": "A magical ring possessed by Bramgrim",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "The Ring of Evasion is a magical ring possessed by Bramgrim."
+    ],
+    "subjects": [
+      "Ring of Evasion"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "object",
+    "subject": "scale mail armor",
+    "fact": "The armor will take a few days to craft.",
+    "source_quote": "The armor will take a few days to craft",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The armor will take a few days to craft."
+    ],
+    "subjects": [
+      "scale mail armor"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "scale mail armor",
+    "fact": "The party commissioned custom-made scale mail armor for their owlbear companion.",
+    "source_quote": "commission custom-made scale mail armor for their owlbear companion",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "The party commissioned custom-made scale mail armor for their owlbear companion.",
+      "The party commissioned custom-made scale mail armor for their owlbear."
+    ],
+    "subjects": [
+      "scale mail armor",
+      "scale mail"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "object",
+    "subject": "scale mail armor",
+    "fact": "The scale mail armor for the owlbear was ordered at a cost of 200 gold pieces.",
+    "source_quote": "order scale mail for the owlbear at a cost of 200 gold pieces",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "temporal"
+    ],
+    "variants": [
+      "The scale mail armor for the owlbear was ordered at a cost of 200 gold pieces.",
+      "The custom scale mail armor for the owlbear costs 200 gold pieces."
+    ],
+    "subjects": [
+      "scale mail armor",
+      "owlbear armor cost"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "object",
+    "subject": "scale mail armor",
+    "fact": "The scale mail armor will increase the owlbear's armor class to 15.",
+    "source_quote": "which will increase the owlbear's armor class to 15",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The scale mail armor will increase the owlbear's armor class to 15."
+    ],
+    "subjects": [
+      "scale mail armor"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Solom's Pendant",
+    "fact": "Solom's Pendant is a pendant belonging to Solom Ned'razak.",
+    "source_quote": "A pendant belonging to Solom Ned'razak",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Solom's Pendant is a pendant belonging to Solom Ned'razak."
+    ],
+    "subjects": [
+      "Solom's Pendant"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "object",
+    "subject": "Spell Refueling Rings",
+    "fact": "The party discussed crafting Spell Refueling Rings using artificer infusions.",
+    "source_quote": "and Spell Refueling Rings",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The party discussed crafting Spell Refueling Rings using artificer infusions."
+    ],
+    "subjects": [
+      "Spell Refueling Rings"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Studded Leather +1",
+    "fact": "Studded Leather +1 is magical light armor acquired by Akritas from Isthana.",
+    "source_quote": "Magical light armor acquired by Akritas from Isthana",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Studded Leather +1 is magical light armor acquired by Akritas from Isthana."
+    ],
+    "subjects": [
+      "Studded Leather +1"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "object",
+    "subject": "Studded Leather +1 AC",
+    "fact": "The Studded Leather +1 armor brings Akritas's armor class to 16.",
+    "source_quote": "bringing her armor class to 16",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "temporal"
+    ],
+    "variants": [
+      "The Studded Leather +1 armor brings Akritas's armor class to 16.",
+      "Studded Leather +1 brings Akritas's armor class to 16."
+    ],
+    "subjects": [
+      "Studded Leather +1 AC",
+      "Studded Leather +1"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "object",
+    "subject": "Studded Leather +1 armor",
+    "fact": "Akritas received Studded Leather +1 armor.",
+    "source_quote": "Akritas receives Studded Leather +1 armor",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Akritas received Studded Leather +1 armor."
+    ],
+    "subjects": [
+      "Studded Leather +1 armor"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "sword",
+    "fact": "Murssvayas Dhuurniv carries a sword at his side.",
+    "source_quote": "with a sword at his side",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Murssvayas Dhuurniv carries a sword at his side."
+    ],
+    "subjects": [
+      "sword"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Wands of Fireballs",
+    "fact": "The party discussed crafting Wands of Fireballs using artificer infusions.",
+    "source_quote": "including Wands of Fireballs",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The party discussed crafting Wands of Fireballs using artificer infusions."
+    ],
+    "subjects": [
+      "Wands of Fireballs"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "spell",
+    "subject": "Calm Emotions",
+    "fact": "Calm Emotions is a second-level spell that Bramgrim prepares.",
+    "source_quote": "A second-level spell that Bramgrim prepares",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Calm Emotions is a second-level spell that Bramgrim prepares."
+    ],
+    "subjects": [
+      "Calm Emotions"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "spell",
+    "subject": "Calm Emotions level",
+    "fact": "Calm Emotions is a second-level spell.",
+    "source_quote": "second-level spell",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "Calm Emotions is a second-level spell."
+    ],
+    "subjects": [
+      "Calm Emotions level"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "spell",
+    "subject": "Greater Restoration",
+    "fact": "Greater Restoration is a fourth-level spell that Bramgrim prepares.",
+    "source_quote": "A fourth-level spell that Bramgrim prepares",
+    "quote_verified": true,
+    "passes": [
+      "sweep",
+      "temporal"
+    ],
+    "variants": [
+      "Greater Restoration is a fourth-level spell that Bramgrim prepares.",
+      "Greater Restoration is a fourth-level spell."
+    ],
+    "subjects": [
+      "Greater Restoration",
+      "Greater Restoration level"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "spell",
+    "subject": "Pass Without Trace",
+    "fact": "Pass Without Trace is a concentration spell cast by Akritas.",
+    "source_quote": "A concentration spell cast by Akritas",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Pass Without Trace is a concentration spell cast by Akritas."
+    ],
+    "subjects": [
+      "Pass Without Trace"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Drow horde reward",
+    "fact": "The party is promised an item from the Drow horde upon successful completion of the mission.",
+    "source_quote": "Solom will grant them an item from the horde of the Drow",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party is promised an item from the Drow horde upon successful completion of the mission."
+    ],
+    "subjects": [
+      "Drow horde reward"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Drow ritual",
+    "fact": "The Drow had been working on a ritual to purge the fiendish blood from the giants.",
+    "source_quote": "working on a ritual to purge the fiendish blood from the giants",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The Drow had been working on a ritual to purge the fiendish blood from the giants."
+    ],
+    "subjects": [
+      "Drow ritual"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "fire giant conquest",
+    "fact": "The fire giants are threatening to complete their conquest of the Underdark.",
+    "source_quote": "before the fire giants could complete their conquest of the Underdark",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The fire giants are threatening to complete their conquest of the Underdark."
+    ],
+    "subjects": [
+      "fire giant conquest"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "fire giant threat",
+    "fact": "The party must meet representatives at the Silver Shadow Cave near Elventree to discuss the fire giant threat.",
+    "source_quote": "directs the party to meet representatives at the Silver Shadow Cave near Elventree in a day or so",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party must meet representatives at the Silver Shadow Cave near Elventree to discuss the fire giant threat."
+    ],
+    "subjects": [
+      "fire giant threat"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Graz'zt's plot",
+    "fact": "Graz'zt is infusing fire giants with his blood to create a new threat.",
+    "source_quote": "He threatened vengeance and is now infusing fire giants with his blood",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Graz'zt is infusing fire giants with his blood to create a new threat."
+    ],
+    "subjects": [
+      "Graz'zt's plot"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Graz'zt's plot",
+    "fact": "Graz'zt threatened terrible vengeance before his presence faded from the material plane.",
+    "source_quote": "Graz'zt had threatened terrible vengeance before his presence faded from the material plane",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Graz'zt threatened terrible vengeance before his presence faded from the material plane."
+    ],
+    "subjects": [
+      "Graz'zt's plot"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "rescue mission",
+    "fact": "The party has agreed to rescue Xaven Tanor'this from the Den of the Whispered Word.",
+    "source_quote": "The party agrees to undertake the mission to rescue Xaven Tanor'this from the Den of the Whispered Word",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party has agreed to rescue Xaven Tanor'this from the Den of the Whispered Word."
+    ],
+    "subjects": [
+      "rescue mission"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Spy network",
+    "fact": "The Drow have a now-collapsed spy network.",
+    "source_quote": "now-collapsed spy network",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The Drow have a now-collapsed spy network."
+    ],
+    "subjects": [
+      "Spy network"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "surface world defense",
+    "fact": "The fire giants may turn their attention to the defenseless cities of the surface world.",
+    "source_quote": "turn their attention to the defenseless cities of the surface world",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The fire giants may turn their attention to the defenseless cities of the surface world."
+    ],
+    "subjects": [
+      "surface world defense"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The party's future plans",
+    "fact": "The party discussed future plans including mining uranium, opening a restaurant called 'Heroes of Hillsfar', and seeking vouching from the clerics of Sel\u00fbne.",
+    "source_quote": "The party discusses various future plans, including mining uranium, opening a restaurant called 'Heroes of Hillsfar', and seeking vouching from the clerics of Sel\u00fbne",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "The party discussed future plans including mining uranium, opening a restaurant called 'Heroes of Hillsfar', and seeking vouching from the clerics of Sel\u00fbne."
+    ],
+    "subjects": [
+      "The party's future plans"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Xaven's rescue",
+    "fact": "The Drow have a scheme to stop the fire giants and rescue Xaven Tanor'this.",
+    "source_quote": "the Drow have a scheme to stop it",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The Drow have a scheme to stop the fire giants and rescue Xaven Tanor'this."
+    ],
+    "subjects": [
+      "Xaven's rescue"
+    ],
+    "n_samples": 1
+  }
+]

@@ -53,13 +53,17 @@ related: []
 
 ### Connections to Existing Wiki
 - **Existing Pages**:
-  - [[orc]]: The orc race and its culture.
+  - [[orc-coordination-mechanisms]]: The orc race and its culture.
   - [[cave-mother]]: The mythological figure Luthic.
-  - [[orc-whelps]]: The orc children being protected.
-  - [[orc-nursery]]: The specific area within the cave complex.
-  - [[orc-guardianship]]: The role of guardians in orc society.
+  - [[the-orc-scout]]: The orc children being protected.
+  - [[orc_claw_of_luthic]]: The specific area within the cave complex.
+  - [[the-anchorite-half-orc]]: The role of guardians in orc society.
 - **Impact on Knowledge**:
   - This source strengthens the understanding of orc society and the role of guardians.
   - It extends the narrative universe by providing more detail about orc culture and mythology.
 
 ### Contradicti
+
+## Related
+
+- [[eye_of_grummsh]]

@@ -9,3 +9,7 @@ sources: ["kolbaz.md"]
 ---
 # Blue Dragon
 A mythical dragon capable of causing significant damage. The damage to Kolbaz's chambers suggests a massive entity materialized, destroyed everything, and dematerialized, which is consistent with a **Blue Dragon** event.
+
+## Related
+
+- [[dragon-killing]]

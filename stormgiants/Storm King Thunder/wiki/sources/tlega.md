@@ -33,15 +33,15 @@ related: []
 - **Strength of Evidence**: Strong, supported by direct actions and reactions.
 
 ### Connections to Existing Wiki
-- **[[goblin-tribe]]**: Tlega's leadership within the cave-dwelling goblin tribe.
-- **[[maegurn-the-fomorian]]**: Central antagonist, target of Tlega's efforts.
+- **[[tree-ghost-tribe]]**: Tlega's leadership within the cave-dwelling goblin tribe.
+- **[[maergun]]**: Central antagonist, target of Tlega's efforts.
 - **[[bully-bullied-dynamic]]**: Core concept driving Tlega's actions.
 
 ### Contradictions & Tensions
 - Internal tension between Tlega and Mirk regarding leadership style and decision-making.
 
 ### Recommendations
-- **Create Pages**: [[tlega]], [[mirk]], [[goblin-tribe]], [[bully-bullied-dynamic]], [[maegurn-the-fomorian]].
+- **Create Pages**: [[tlega]], [[mirk]], [[tree-ghost-tribe]], [[bully-bullied-dynamic]], [[maergun]].
 - **Emphasize**: Tlega's role, motivations, and interactions with the 3HPP.
 - **De-emphasize**: Internal dynamics between Tlega and Mirk.
 - **Open Question**: Further exploration of Tlega's tribe's post-Maegurn plans.

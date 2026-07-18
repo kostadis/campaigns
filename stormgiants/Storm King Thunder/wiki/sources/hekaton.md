@@ -1,8 +1,8 @@
 ---
 type: source
 title: "Source: hekaton.md"
-created: 2026-05-13
-updated: 2026-05-13
+created: 2026-06-06
+updated: 2026-06-06
 sources: ["hekaton.md"]
 tags: []
 related: []
@@ -10,69 +10,31 @@ related: []
 
 # Source: hekaton.md
 
-### Key Entities
+This analysis covers the character profile of **King Hekaton**, a central figure in the current narrative arc involving the Ordning, the Maelstrom, and the threat posed by Iymrith.
 
-- **King Hekaton:**
-  - **Name and Type:** Storm Giant King, Merchant Specialist from Mirabar (Merchant)
-  - **Role in the Source:** Central figure, central to the narrative and key to the party's mission
-  - **Existing in Wiki:** Likely exists, given his significant role and interactions with the party.
+## Key Entities
+*   **Hekaton (King Hekaton)** - *Central.* A Storm Giant King and ruler of the Maelstrom. He is a high-stakes political and military leader whose actions directly impact the fate of the giant race. (Likely exists in wiki as a primary NPC).
+*   **Iymrith ("Doom of the Desert")** - *Central.* An Ancient Blue Dragon and the primary antagonist behind the plot against Hekaton’s kingdom. (Already exists in wiki).
+*   **Serissa** - *Central.* Hekaton's daughter and the newly appointed Imperator. She represents the "burden of hope" during his absence. (New entry needed/update existing if she is a known figure).
+*   **Uthor** - *Semi-central.* Hekaton’s brother and former Imperator; stripped of rank for failing to support Serissa. (New entry or update).
+*   **Nym & Mirren** - *Semi-central.* Hekaton's daughters who betrayed the crown by allying with Iymrith. (New entries/updates).
+*   **Queen Neri** - *Peripheral.* Hekaton’s deceased wife; her death is the catalyst for his quest and current state of grief. (Contextual link to Hekaton).
+*   **Orsik & Vardis** - *Central.* Members of the party who led the rescue mission from the Kraken Society. (Already exist in wiki).
+*   **Unla Kee** - *Semi-central.* A diviner whose counsel Hekaton uses as a "face-saving" mechanism for political decisions. (Already exists in wiki).
+*   **The SEER** - *Peripheral/System.* An intermediary and communication channel between Hekaton and the Lord's Alliance. (Existing system entity).
+*   **Kraken Society** - *Peripheral.* The organization that held Hekaton prisoner on the ship *Morkoth*. (New entry for organization).
 
-- **Serissa:**
-  - **Name and Type:** Storm Giant Princess, Daughter
-  - **Role in the Source:** Central, appointed as Imperator by Hekaton
-  - **Existing in Wiki:** Likely exists, given her prominent role and status.
+## Key Concepts
+*   **The Ordning** - *Central.* The traditional hierarchy of the giant folk; Hekaton’s primary goal is to restore this order. (Already exists in wiki).
+*   **Maelstrom Court** - *Central.* The political and social structure of the storm giants. (Related to "The Maelstrom").
+*   **Face-Saving Maneuvers** - *Methodology.* Hekaton’s tendency to use external justifications (like Unla Kee's divination) to mask his own internal guilt or poor decisions. (Relevant for character depth).
+*   **Divine Instrumentality** - *Thematic.* Hekaton views the party not just as allies, but as "instruments of the Allfather's will," a common trope in high-fantasy diplomacy.
+*   **Strategic Delay** - *Tactical.* The five-day preparation period agreed upon by Hekaton and Orsik before the assault on Iymrith’s lair.
 
-- **Nym & Mirran:**
-  - **Name and Type:** Storm Giant Daughters, Captives
-  - **Role in the Source:** Betrayed Hekaton and Serissa, currently confined
-  - **Existing in Wiki:** Likely exists, given their significant roles and Hekaton's actions towards them.
+## Main Arguments & Findings
+*   **Hekaton as a Flawed Leader:** The text emphasizes that while Hekaton is "decisive and authoritative," he is not "wise." His decisions (like naming Serissa heir too early) are noted as failures that haunt him. This creates a nuanced character who is an ally but not a perfect hero.
+*   **The Role of Guilt:** Much of Hekaton's behavi
 
-- **Queen Neri:**
-  - **Name and Type:** Storm Giant Queen, Deceased
-  - **Role in the Source:** Deceased wife, trigger for Hekaton's disappearance
-  - **Existing in Wiki:** Likely exists, given her pivotal role in the story.
+## Related
 
-- **Uthor:**
-  - **Name and Type:** Storm Giant Brother, Former Imperator
-  - **Role in the Source:** Former Imperator stripped of rank, relationship strained
-  - **Existing in Wiki:** Likely exists, given his significant role and Hekaton's actions towards him.
-
-- **Iymrith:**
-  - **Name and Type:** Blue Dragon, Enemy
-  - **Role in the Source:** Enemy, responsible for Hekaton's kidnapping and the plot against his kingdom
-  - **Existing in Wiki:** Likely exists, given her importance in the story.
-
-- **The SEER:**
-  - **Name and Type:** Diviner, Communicator
-  - **Role in the Source:** Communicated with Hekaton, vouched for the party to the Lord's Alliance
-  - **Existing in Wiki:** Likely exists, given her significant role.
-
-- **Unla Kee:**
-  - **Name and Type:** Diviner, Advisor
-  - **Role in the Source:** Provided guidance, recommended assault on Iymrith's lair
-  - **Existing in Wiki:** Likely exists, given her influence.
-
-- **Orsik:**
-  - **Name and Type:** Merchant Specialist, Advisor
-  - **Role in the Source:** Attempted to reach Hekaton through guilt, declined Hekaton's deal
-  - **Existing in Wiki:** Likely exists, given his significant role.
-
-### Key Concepts
-
-- **Storm Giants:**
-  - **Definition:** Giant race, particularly the Storm Giants, who form the Maelstrom court and are ruled by King Hekaton.
-  - **Importance:** Central to the narrative, forming the backdrop and primary antagonists.
-
-- **Lord's Alliance:**
-  - **Definition:** Coalition of various factions, including Storm Giants, seeking to oppose Iymrith.
-  - **Importance:** Provides context for Hekaton's alliances and motivations.
-
-- **Forbiddance:**
-  - **Definition:** A magical barrier preventing teleportation.
-  - **Importance:** Operational relevance, affecting the party's movements and strategy.
-
-### Main Arguments & Findings
-
-- **Core Claims:**
-  - Hekaton seeks to restore the Ordning by compelling the five giant faction leaders to kneel before him.
-  - He intends 
+- [[helia]]

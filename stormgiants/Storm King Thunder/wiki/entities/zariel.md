@@ -34,3 +34,7 @@ sources: ["zariel.md"]
 
 ## Arc Score Events
 - No direct interactions with the party. No arc score events recorded.
+
+## Related
+
+- [[zariel]]

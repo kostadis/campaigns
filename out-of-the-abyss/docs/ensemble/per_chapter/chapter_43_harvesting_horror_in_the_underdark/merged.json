@@ -1,0 +1,2885 @@
+[
+  {
+    "type": "date",
+    "subject": "next morning",
+    "fact": "The next morning, Naomi Pathshutter appeared exhausted after forty-eight hours of failed summoning, marking a key temporal turning point in the narrative.",
+    "source_quote": "The next morning, an exhausted Naomi Pathshutter appeared",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occurred during a single expedition through the Underdark, beginning in the Festering Fissure, proceeding to Pickshine Mine, and concluding in the White Shell Mine.",
+    "source_quote": "The party arrived at Pickshine Mine... The gnomes celebrated their success while the party caught their breath.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "The Next Morning",
+    "fact": "Naomi Pathshutter appeared exhausted after forty-eight hours of failed summoning, marking the timeline of the party\u2019s next major development.",
+    "source_quote": "The next morning, an exhausted Naomi Pathshutter appeared in the crowded meeting hall, having been awake for forty-eight hours attempting to summon earth elementals.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "acid attacks from puddings",
+    "fact": "Chief Dorbo Diggermattock expressed concern about the ongoing threat of acid attacks from the puddings, warning that if these creatures destroyed their weapons, their troops would die instantly.",
+    "source_quote": "acid attacks from the puddings, warning that if these creatures destroyed their weapons, their troops would die instantly",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Bimble",
+    "fact": "Bimble returned infected and raving about a garden that sang to him and the Lady of Rot feeding the soil.",
+    "source_quote": "Bimble had found the rare Ghost Hold Lichen they needed for their alchemical preparations, but he had returned wrong\u2014infected and raving about a garden that sang to him and the Lady of Rot feeding the soil.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Bimble infected and raving",
+    "fact": "He had returned wrong\u2014infected and raving about a garden that sang to him and the Lady of Rot feeding the soil.",
+    "source_quote": "infected and raving about a garden that sang to him and the Lady of Rot feeding the soil",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Bimble's Infection",
+    "fact": "Bimble returned from the Garden of Stone infected and raving, his body producing spores that formed laughing faces, indicating direct corruption by Zuggtmoy.",
+    "source_quote": "coughing up spores that formed tiny laughing faces before dissolving into the air",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Blingdenstone leaders",
+    "fact": "The leaders of Blingdenstone now faced the corrupting influence of Zuggtmoy herself, alongside Juiblex and the Pudding King.",
+    "source_quote": "They now faced not only Juiblex and the Pudding King but also the corrupting influence of Zuggtmoy herself.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Breaking the Temporal Wall",
+    "fact": "Zalthir used his Shadow Monk training to safely redirect a magical explosion, breaking a temporal barrier in the White Shell Mine without collapsing the tunnels.",
+    "source_quote": "Zalthir positioned himself as the explosives detonated, executing a perfect maneuver to redirect the magical blast through shadow space.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Burrow Warden Jadger",
+    "fact": "Burrow Warden Jadger offered the party two boons: they could ask him any two questions and he would answer truthfully.",
+    "source_quote": "he offered them two boons\u2014they could ask him any two questions they wished, and he would answer truthfully.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Burrow Warden Jadger",
+    "fact": "Burrow Warden Jadger thanked the party for putting two tormented spirits to rest in the catacombs.",
+    "source_quote": "Burrow Warden Jadger materialized as a friendly ghost, thanking the party for putting two tormented spirits to rest in the catacombs.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Clearing the White Shell Mine Tunnel",
+    "fact": "Zalthir, with Grygum's blessing, redirected a magical blast from gnomish explosives through shadow space, shattering the frozen crystallite wall without collapsing the tunnels. This allowed passage through the White Shell Mine.",
+    "source_quote": "Zalthir positioned himself as the explosives detonated, executing a perfect maneuver to redirect the magical blast through shadow space.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "cutting Ghost Hold Lichen",
+    "fact": "Thorin's knowledge of giants revealed that the lichen had to be cut carefully without bursting the poisonous sacs growing beside it, while Grygum understood that a warding prayer would be needed to keep demonic spirits at bay during the harvest.",
+    "source_quote": "lichen had to be cut carefully without bursting the poisonous sacs... warding prayer would be needed to keep demonic spirits at bay",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Dasco Pickshine",
+    "fact": "Dasco Pickshine grudgingly offered the party two ruby gems worth five hundred gold pieces as thanks.",
+    "source_quote": "Dasco grudgingly offered the party two ruby gems worth five hundred gold pieces as thanks.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Dasco Pickshine",
+    "fact": "Dasco Pickshine had tried everything to move the four massive Galeb Duhr, even striking them with his pickaxe, but they refused to budge.",
+    "source_quote": "The mine owner, Dasco Pickshine, had tried everything to move them, even striking them with his pickaxe, but the ancient sentinels refused to budge.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz cast a hypnotic pattern of shimmering colors that incapacitated the violet fungi and caught Zalthir in its mesmerizing effect.",
+    "source_quote": "Daz quickly cast a hypnotic pattern of shimmering colors that incapacitated the violet fungi and even caught Zalthir in its mesmerizing effect.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz completed the ancient handshake protocol by arranging resonant geodes and humming.",
+    "source_quote": "After discovering resonant geodes and arranging them while humming, Daz completed the ancient handshake protocol, and the Galeb Duhr finally relaxed and opened the way.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz perceived the Galeb Duhr's vibrations as a linguistic pattern\u2014a call waiting for an echo that never came.",
+    "source_quote": "while Daz perceived their vibrations as a linguistic pattern\u2014a call waiting for an echo that never came.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz unleashed a carefully controlled explosion of fire, sculpting the flames to avoid both Zalthir and the precious lichen.",
+    "source_quote": "Daz unleashed a carefully controlled explosion of fire, sculpting the flames to avoid both Zalthir and the precious lichen they had come to harvest.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz cast hypnotic pattern",
+    "fact": "Daz quickly cast a hypnotic pattern of shimmering colors that incapacitated the violet fungi and even caught Zalthir in its mesmerizing effect.",
+    "source_quote": "cast a hypnotic pattern of shimmering colors that incapacitated the violet fungi and even caught Zalthir in its mesmerizing effect",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz completed ancient handshake protocol",
+    "fact": "After discovering resonant geodes and arranging them while humming, Daz completed the ancient handshake protocol, and the Galeb Duhr finally relaxed and opened the way.",
+    "source_quote": "completed the ancient handshake protocol, and the Galeb Duhr finally relaxed and opened the way",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz sculpted fire explosion",
+    "fact": "Daz unleashed a carefully controlled explosion of fire, sculpting the flames to avoid both Zalthir and the precious lichen they had come to harvest.",
+    "source_quote": "unleashed a carefully controlled explosion of fire, sculpting the flames to avoid both Zalthir and the precious lichen",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "dealt with four insane earth elementals and a Medusa",
+    "fact": "When the party revealed they had dealt with four insane earth elementals and a Medusa, Naomi's attitude shifted to one of genuine respect and admiration.",
+    "source_quote": "dealt with four insane earth elementals and a Medusa",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "destroyed Vazuk",
+    "fact": "Jimjar and Eldeth arrived with dramatic news\u2014they had destroyed Vazuk, a deep gnome ghost mad with grief who had been threatening the residents.",
+    "source_quote": "destroyed Vazuk, a deep gnome ghost mad with grief",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Destruction of Vazuk",
+    "fact": "Jimjar and Eldeth destroyed Vazuk, the deep gnome ghost threatening residents, in a battle they proclaimed epic and spectacular.",
+    "source_quote": "the battle epic and spectacular, the kind of combat that would inspire songs for centuries to come.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Discovery of Zuggtmoy's Influence",
+    "fact": "Grygum recognized the Lady of Rot as Zuggtmoy, revealing her return and escalating the threat level for Blingdenstone to include demonic corruption alongside elemental chaos.",
+    "source_quote": "the Lady of Rot as Zuggtmoy, the demoness who had destroyed Neverlight Grove and nearly possessed Thorin in a previous encounter",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Discovery of Zuggtmoy's Influence",
+    "fact": "The party learned that Zuggtmoy is actively using oozes to corrupt the Underdark and take root in flesh, elevating the threat level beyond Juiblex and the Pudding King.",
+    "source_quote": "They now faced not only Juiblex and the Pudding King but also the corrupting influence of Zuggtmoy herself.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Ent\u00e9moch's boon",
+    "fact": "The creatures revealed that the party still needed to obtain Ent\u00e9moch's boon, the blessing of the good elemental prince who had once aided the deep gnomes of Blingdenstone.",
+    "source_quote": "obtain Ent\u00e9moch's boon, the blessing of the good elemental prince",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "faced Zuggtmoy's influence",
+    "fact": "They now faced not only Juiblex and the Pudding King but also the corrupting influence of Zuggtmoy herself.",
+    "source_quote": "corrupting influence of Zuggtmoy herself",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Galeb Duhr",
+    "fact": "The Galeb Duhr found great amusement in Thorin's joke about the temple being both \"hollow\" and \"hallowed.\"",
+    "source_quote": "The Galeb Duhr found great amusement in his joke about the temple being both \"hollow\" and \"hallowed,\" laughing that this ancient dwarf humor they hadn't heard in these caverns for ages.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Galeb Duhr",
+    "fact": "The Galeb Duhr revealed that the party's work was not yet complete\u2014they still needed to obtain Ent\u00e9moch's boon.",
+    "source_quote": "the Galeb Duhr revealed that the party's work was not yet complete\u2014they still needed to obtain Ent\u00e9moch's boon, the blessing of the good elemental prince who had once aided the deep gnomes of Blingdenstone.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Galeb Duhrs",
+    "fact": "The Galeb Duhrs corrected that the place was actually the Realm of the Rock.",
+    "source_quote": "The Galeb Duhrs quickly corrected him that this was actually \"the Realm of the Rock.\"",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Galeb Duhrs",
+    "fact": "The Galeb Duhrs explained that the party had successfully hallowed the temple from the corrupting power of Ogr\u00e9moch.",
+    "source_quote": "The creatures explained that the party had successfully hallowed the temple from the corrupting power of Ogr\u00e9moch, the evil elemental earth god who had infested these rocks for centuries.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum drew a dagger and stabbed Zalthir to properly wake him.",
+    "source_quote": "forcing him to draw a dagger and stab his companion to properly wake him.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum punched Zalthir in the face to break him from the trance, but his first blow dealt no damage.",
+    "source_quote": "Grygum rushed forward and punched Zalthir in the face to break him from the trance, though his first blow was so weak it dealt no damage at all.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum recognized the Lady of Rot as Zuggtmoy, the demoness who had destroyed Neverlight Grove and nearly possessed Thorin.",
+    "source_quote": "Grygum immediately recognized the reference to the Lady of Rot as Zuggtmoy, the demoness who had destroyed Neverlight Grove and nearly possessed Thorin in a previous encounter.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum said, with a mischievous grin, that of course it is, after all they're in here.",
+    "source_quote": "Grygum then, with a mischievous grin, said that of course it is. \"After all we're in here. It's a cavern, and we are in it.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum summoned a bat familiar to scout ahead in the Festering Fissure.",
+    "source_quote": "Grygum summoned a bat familiar to scout ahead.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum understood that a warding prayer would be needed to keep demonic spirits at bay during the harvest.",
+    "source_quote": "Grygum understood that a warding prayer would be needed to keep demonic spirits at bay during the harvest.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum was welcomed to the Realm of the Dragon by the first Galeb Duhr.",
+    "source_quote": "The first Galeb Duhr welcomed Grygum, the cleric of Bahamut, to what he called \"the Realm of the Dragon.\"",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum punched Zalthir to break trance",
+    "fact": "Grygum rushed forward and punched Zalthir in the face to break him from the trance, though his first blow was so weak it dealt no damage at all, forcing him to draw a dagger and stab his companion to properly wake him.",
+    "source_quote": "punched Zalthir in the face to break him from the trance... first blow was so weak it dealt no damage at all",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Gurnik Tapfinger",
+    "fact": "Gurnik Tapfinger rewarded the party with a precious empty fourth-level spell gem.",
+    "source_quote": "Gurnik Tapfinger, the cleric who had sent them on this quest, rewarded them with a precious empty fourth-level spell gem that could be imbued with powerful magic.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "hallowed the temple",
+    "fact": "The creatures explained that the party had successfully hallowed the temple from the corrupting power of Ogr\u00e9moch.",
+    "source_quote": "successfully hallowed the temple from the corrupting power of Ogr\u00e9moch",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "hallowing effect",
+    "fact": "A white light shone from the ancient menhir, creating a powerful hallowing effect that cleansed the temple.",
+    "source_quote": "a white light shine from the ancient menhir, creating a powerful hallowing effect that cleansed the temple",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Hallowing of the Temple",
+    "fact": "The party hallowed the ancient temple from Ogr\u00e9moch's corruption, but the act failed to open the path to Ent\u00e9moch's boon, triggering a new mystery.",
+    "source_quote": "The creatures explained that the party had successfully hallowed the temple from the corrupting power of Ogr\u00e9moch, the evil elemental earth god...",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Hallowing of the Temple",
+    "fact": "The party hallowed the temple, cleansing it of Ogr\u00e9moch's corruption and summoning the Galeb Duhr. This was a major milestone, but it did not open the path to Ent\u00e9moch's boon as expected.",
+    "source_quote": "creating a powerful hallowing effect that cleansed the temple",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Harvest of Ghost Hold Lichen",
+    "fact": "The party successfully harvested Ghost Hold Lichen from the corpse of a giant in the Festering Fissure after a fierce battle with the shambling mound. Zalthir ruptured a poisonous sac during the attempt, alerting the mound and taking damage, but the lichen was secured for anti-acid armor.",
+    "source_quote": "As they finished harvesting the rare lichen needed for anti-acid armor...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "hollow and hallowed pun",
+    "fact": "Thorin made a pun saying 'Of course, it's hollow!' and the Galeb Duhr found amusement in the wordplay between 'hollow' and 'hallowed.'",
+    "source_quote": "Of course, it's hollow!",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "investigate strange vibrations",
+    "fact": "She tasked them with investigating the strange vibrations and finding the lost path to Ent\u00e9moch's boon.",
+    "source_quote": "investigating the strange vibrations and finding the lost path to Ent\u00e9moch's boon",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Jimjar",
+    "fact": "Jimjar proclaimed the battle epic and spectacular, the kind of combat that would inspire songs for centuries to come.",
+    "source_quote": "Jimjar proclaimed the battle epic and spectacular, the kind of combat that would inspire songs for centuries to come.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Jimjar and Eldeth",
+    "fact": "Jimjar and Eldeth arrived with dramatic news that they had destroyed Vazuk, a deep gnome ghost mad with grief.",
+    "source_quote": "Jimjar and Eldeth arrived with dramatic news of their own success\u2014they had destroyed Vazuk, a deep gnome ghost mad with grief who had been threatening the residents.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Kazook",
+    "fact": "Kazook asked for compassion, explaining that Bimble was a dear friend, not just an assistant.",
+    "source_quote": "Kazook was upset. He asked for compassion, explaining that Bimble was a dear friend, not just an assistant.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Kazook Pickshine",
+    "fact": "Kazook Pickshine recalled a legend about a garden of stone deep in the rock blight and sent his scout Bimble to investigate.",
+    "source_quote": "Kazook Pickshine, the local alchemist, arrived with troubling news. He had recalled a legend about a garden of stone deep in the rock blight and had sent his scout Bimble to investigate.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "legend of the garden of stone",
+    "fact": "Kazook Pickshine recalled a legend about a garden of stone deep in the rock blight and sent his scout Bimble to investigate.",
+    "source_quote": "legend about a garden of stone deep in the rock blight",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Miners",
+    "fact": "Miners were reporting strange vibrations, as if the rock itself was trying to speak but couldn't find the words.",
+    "source_quote": "Miners were reporting strange vibrations, as if the rock itself was trying to speak but couldn't find the words.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Naomi mistook Daz for an ogre",
+    "fact": "In an awkward moment, Naomi mistook Daz for an ogre, leading to a tense exchange about respect.",
+    "source_quote": "mistook Daz for an ogre",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Naomi Pathshutter",
+    "fact": "Naomi Pathshutter appeared exhausted after being awake for forty-eight hours attempting to summon earth elementals.",
+    "source_quote": "The next morning, an exhausted Naomi Pathshutter appeared in the crowded meeting hall, having been awake for forty-eight hours attempting to summon earth elementals.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Naomi Pathshutter",
+    "fact": "Naomi explained that hallowing Ogr\u00e9moch's altar had not opened the path to Ent\u00e9moch's boon as expected.",
+    "source_quote": "She spread a map on the table and explained with frustration that hallowing Ogr\u00e9moch's altar had not opened the path to Ent\u00e9moch's boon as expected.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Naomi Pathshutter",
+    "fact": "Naomi mistook Daz for an ogre, leading to a tense exchange about respect.",
+    "source_quote": "In an awkward moment, Naomi mistook Daz for an ogre, leading to a tense exchange about respect.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Naomi Pathshutter",
+    "fact": "Naomi reported that the tunnels to the stone prince's throne had shifted and sealed themselves, and the earth seemed frozen.",
+    "source_quote": "The tunnels to the stone prince's throne had shifted and sealed themselves, and the earth seemed frozen, unable to heal.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Naomi Pathshutter",
+    "fact": "Naomi tasked the party with investigating the strange vibrations and finding the lost path to Ent\u00e9moch's boon.",
+    "source_quote": "She tasked them with investigating the strange vibrations and finding the lost path to Ent\u00e9moch's boon.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Naomi Pathshutter",
+    "fact": "Naomi's attitude shifted to genuine respect and admiration after the party revealed they had dealt with four insane earth elementals and a Medusa.",
+    "source_quote": "When the party revealed they had dealt with four insane earth elementals and a Medusa, Naomi's attitude shifted to one of genuine respect and admiration.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Naomi's failed summoning",
+    "fact": "An exhausted Naomi Pathshutter appeared, having been awake for forty-eight hours attempting to summon earth elementals, and explained that hallowing Ogr\u00e9moch's altar had not opened the path to Ent\u00e9moch's boon.",
+    "source_quote": "awake for forty-eight hours attempting to summon earth elementals... hallowing Ogr\u00e9moch's altar had not opened the path to Ent\u00e9moch's boon",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Pacifying the Galeb Duhr",
+    "fact": "Daz completed the ancient handshake protocol by arranging resonant geodes and humming, causing the four Galeb Duhr to relax and open the path to Pickshine Mine after Dasco Pickshine had failed to move them.",
+    "source_quote": "After discovering resonant geodes and arranging them while humming, Daz completed the ancient handshake protocol, and the Galeb Duhr finally relaxed and opened the way.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Perigrog Scrapedust",
+    "fact": "Perigrog Scrapedust explained that a tunnel had become impassable\u2014impossibly dry, with blinding crystallite walls and absolute, suffocating silence.",
+    "source_quote": "Perigrog Scrapedust explained that a tunnel had become impassable\u2014impossibly dry, with blinding crystallite walls and absolute, suffocating silence.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Putting Two Tormented Spirits to Rest",
+    "fact": "The party put two tormented spirits to rest in the catacombs, earning them two boons from Burrow Warden Jadger.",
+    "source_quote": "putting two tormented spirits to rest in the catacombs",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Ritual at the Summoning Circle",
+    "fact": "The party initiated the ritual to free Ent\u00e9moch by sacrificing a dart as the weapon offering; two more sacrifices\u2014wealth and blood\u2014are still required.",
+    "source_quote": "Thorin placed a dart onto the runes as the weapon sacrifice, and the stone instantly swallowed it, rusting it to dust in seconds.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "ritual initiation",
+    "fact": "The ritual to unlock Ent\u00e9moch's power began, marked by the transformation of the runes, heating of the air, and the frantic behavior of the uncharmed basilisk.",
+    "source_quote": "The runes transformed from yellow to blinding orange, the air grew hot, and the uncharmed basilisk became frantic as the ritual began.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "ritual progression",
+    "fact": "The runes transformed from yellow to blinding orange, the air grew hot, and the uncharmed basilisk became frantic as the ritual began.",
+    "source_quote": "runes transformed from yellow to blinding orange, the air grew hot, and the uncharmed basilisk became frantic as the ritual began",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "shambling mound defeated",
+    "fact": "The Shambling Mound proved resilient, shrugging off magical assaults with uncanny luck, but Zalthir's relentless strikes and Thorin's devastating blows eventually brought the creature down.",
+    "source_quote": "Shambling Mound proved resilient... Zalthir's relentless strikes and Thorin's devastating blows eventually brought the creature down",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "strange vibrations in the rock",
+    "fact": "Miners were reporting strange vibrations, as if the rock itself was trying to speak but couldn't find the words.",
+    "source_quote": "strange vibrations, as if the rock itself was trying to speak but couldn't find the words",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Summoning Attempt by Naomi",
+    "fact": "Naomi Pathshutter spent forty-eight hours attempting to summon earth elementals, but her efforts failed, and the earth remained frozen and unresponsive.",
+    "source_quote": "having been awake for forty-eight hours attempting to summon earth elementals",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The basilisks",
+    "fact": "Two basilisks guarded the circle, moving with mechanical precision rather than natural animal behavior.",
+    "source_quote": "Two basilisks guarded the circle, moving with mechanical precision rather than natural animal behavior, as if they viewed the party as flaws in perfect stone.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The bat",
+    "fact": "The bat discovered a shambling mound tending to a bizarre garden, violet fungi hybrids, and the corpse of a giant from which Ghost Hold Lichen grew.",
+    "source_quote": "Deeper in the chamber, the bat discovered a shambling mound tending to a bizarre garden, violet fungi hybrids, and most importantly, the corpse of a giant from which Ghost Hold Lichen grew.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party decided to investigate the Festering Fissure where Bimble had found the lichen.",
+    "source_quote": "They decided to investigate the Festering Fissure where Bimble had found the lichen, choosing their destination based on the alliterative appeal of the name.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party discovered a large cavern containing a summoning circle inscribed with runes in giant script.",
+    "source_quote": "Beyond the breached wall, they discovered a large cavern containing a summoning circle inscribed with runes in giant script.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party finished harvesting the rare lichen needed for anti-acid armor.",
+    "source_quote": "As they finished harvesting the rare lichen needed for anti-acid armor",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party stood on the threshold of completing their quest, with only two sacrifices remaining to unlock Ent\u00e9moch's power.",
+    "source_quote": "The party now stood on the threshold of completing their quest, with only two sacrifices remaining to unlock Ent\u00e9moch's power.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party successfully pinpointed the exact location of the cave through investigation of Bimble's ramblings, smells, and rock textures.",
+    "source_quote": "Through careful investigation of Bimble's ramblings, the smells clinging to him, and the textures of rock under his fingers, the party successfully pinpointed the exact location of the cave.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The runes",
+    "fact": "The runes transformed from yellow to blinding orange, and the air grew hot.",
+    "source_quote": "The runes transformed from yellow to blinding orange, the air grew hot, and the uncharmed basilisk became frantic as the ritual began.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin charged into battle with Dawnbringer, striking true against the shambling mound multiple times.",
+    "source_quote": "Thorin charged into battle with Dawnbringer, his enchanted weapon striking true against the shambling mound multiple times.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin deciphered the giant runes and learned that three sacrifices were required: wealth, a weapon, and blood.",
+    "source_quote": "Thorin rushed to the summoning circle and deciphered the giant runes. To free Ent\u00e9moch and claim his boon, three sacrifices were required: wealth, a weapon, and blood.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin placed a dart onto the runes as the weapon sacrifice, and the stone instantly swallowed it, rusting it to dust.",
+    "source_quote": "Thorin placed a dart onto the runes as the weapon sacrifice, and the stone instantly swallowed it, rusting it to dust in seconds.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin said, \"Of course, it's hollow!\"",
+    "source_quote": "Thorin could not resist making a pun and said, \"Of course, it's hollow!\"",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin's knowledge of giants revealed that the lichen had to be cut carefully without bursting the poisonous sacs beside it.",
+    "source_quote": "Thorin's knowledge of giants revealed that the lichen had to be cut carefully without bursting the poisonous sacs growing beside it.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin struck the shambling mound with Dawnbringer",
+    "fact": "Thorin charged into battle with Dawnbringer, his enchanted weapon striking true against the shambling mound multiple times, weakening it.",
+    "source_quote": "charged into battle with Dawnbringer, his enchanted weapon striking true against the shambling mound multiple times",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "two boons from Jadger",
+    "fact": "He offered them two boons\u2014they could ask him any two questions they wished, and he would answer truthfully.",
+    "source_quote": "offered them two boons\u2014they could ask him any two questions they wished",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "two sacrifices remaining",
+    "fact": "The party now stood on the threshold of completing their quest, with only two sacrifices remaining to unlock Ent\u00e9moch's power.",
+    "source_quote": "only two sacrifices remaining to unlock Ent\u00e9moch's power",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "weapon sacrifice on summoning circle",
+    "fact": "Thorin placed a dart onto the runes as the weapon sacrifice, and the stone instantly swallowed it, rusting it to dust in seconds.",
+    "source_quote": "placed a dart onto the runes as the weapon sacrifice, and the stone instantly swallowed it, rusting it to dust in seconds",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir executed a perfect maneuver to redirect the magical blast through shadow space, shattering the wall without collapsing the tunnels.",
+    "source_quote": "Zalthir positioned himself as the explosives detonated, executing a perfect maneuver to redirect the magical blast through shadow space. The wall shattered without collapsing the tunnels.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir meditated on the challenge, channeling all his frustration into the void.",
+    "source_quote": "Zalthir meditated on the challenge, channeling all his frustration into the void.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir pummeled the grappled mound with a flurry of strikes while locked in mutual embrace.",
+    "source_quote": "Zalthir pummeled the grappled mound with a flurry of strikes while locked in their mutual embrace.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir recalled a metaphysical puzzle from his training: magical pressure had caused time to snag at this point.",
+    "source_quote": "Zalthir recalled a metaphysical puzzle from his training: magical pressure had caused time to snag at this point, and breaking it directly would unleash a catastrophic explosion.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir remembered his training as a monk in the gardens, where The Garden Shadow had taught him how to cut lichen and tend trees.",
+    "source_quote": "Just as Zalthir made his cut, he remembered his training as a monk in the gardens. The ancient monk, The Garden Shadow, had explained exactly how to cut lichen and tend the trees, and told him that this training would come in useful.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir ruptured one of the poisonous sacs while attempting to cut the lichen, taking significant damage and alerting the shambling mound.",
+    "source_quote": "However, when Zalthir made his attempt, his cut was not perfectly clean, and he ruptured one of the poisonous sacs, taking significant damage and alerting the shambling mound to their presence.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir thought to himself, \"Who would have thought?\" as the poison took hold.",
+    "source_quote": "As the poison took hold, he thought to himself, \"Who would have thought?\"",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir broke magical time snag",
+    "fact": "Zalthir positioned himself as the explosives detonated, executing a perfect maneuver to redirect the magical blast through shadow space. The wall shattered without collapsing the tunnels.",
+    "source_quote": "executing a perfect maneuver to redirect the magical blast through shadow space. The wall shattered without collapsing the tunnels",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir grappled the shambling mound",
+    "fact": "The shambling mound attacked Zalthir with crushing blows and wrapped him in a powerful grapple, but Zalthir responded by grappling the creature in return, creating a deadlock.",
+    "source_quote": "grappled the creature in return, creating a deadlock",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir remembered The Garden Shadow",
+    "fact": "As the poison took hold, he thought to himself, 'Who would have thought?' remembering the ancient monk, The Garden Shadow, who had explained exactly how to cut lichen and tend the trees.",
+    "source_quote": "remembered the ancient monk, The Garden Shadow, who had explained exactly how to cut lichen and tend the trees",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir ruptured a poisonous sac",
+    "fact": "When Zalthir made his attempt, his cut was not perfectly clean, and he ruptured one of the poisonous sacs, taking significant damage and alerting the shambling mound to their presence.",
+    "source_quote": "ruptured one of the poisonous sacs, taking significant damage and alerting the shambling mound",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zuggtmoy",
+    "fact": "A chilling voice echoed in their minds\u2014Zuggtmoy, the Lady of Rot, speaking to the Pudding King about using oozes to \"soften the shell\" so her garden could \"take root in the flesh beneath.\"",
+    "source_quote": "a chilling voice echoed in their minds\u2014Zuggtmoy, the Lady of Rot, speaking to the Pudding King about her sinister plans to use oozes to \"soften the shell\" so her garden could \"take root in the flesh beneath.\"",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zuggtmoy's chilling voice",
+    "fact": "As they finished harvesting the rare lichen needed for anti-acid armor, a chilling voice echoed in their minds\u2014Zuggtmoy, the Lady of Rot, speaking to the Pudding King about her sinister plans to use oozes to 'soften the shell' so her garden could 'take root in the flesh beneath.'",
+    "source_quote": "Zuggtmoy, the Lady of Rot, speaking to the Pudding King about her sinister plans to use oozes to 'soften the shell' so her garden could 'take root in the flesh beneath'",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Blingdenstone",
+    "fact": "Blingdenstone is the deep gnome city that commissioned the quest to hallow the temple and obtain Ent\u00e9moch's boon, now facing threats from Zuggtmoy, puddings, and temporal distortions.",
+    "source_quote": "The revelation sent waves of alarm through the assembled leaders of Blingdenstone.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Blingdenstone",
+    "fact": "Blingdenstone is the deep gnome city threatened by multiple elemental and demonic forces: Ogr\u00e9moch, Ent\u00e9moch's absence, Juiblex, the Pudding King, and now Zuggtmoy. Its leaders are in disarray over priorities but rallied when the party intervened.",
+    "source_quote": "arguments broke out about priorities and past decisions until the party intervened",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Galeb Duhr",
+    "fact": "The Galeb Duhr are ancient rocky beings tied to the menhir and the temple. They serve as guardians and knowledge-keepers, correcting misnomers and revealing the next step in the quest: obtaining Ent\u00e9moch's boon.",
+    "source_quote": "the Realm of the Rock",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Galeb Duhr",
+    "fact": "The Galeb Duhr are ancient, sentient rock creatures who guard sacred sites, communicate through vibrations, and serve as guardians of Blingdenstone's sacred places.",
+    "source_quote": "Three Galeb Duhr emerged, their rocky forms pulsing with satisfaction as they acknowledged the party's success.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Zuggtmoy, the Lady of Rot",
+    "fact": "Zuggtmoy, the Lady of Rot, is a corrupting entity whose influence lingers in the Festering Fissure. She spoke in the minds of the party about using oozes to 'soften the shell' so her garden could 'take root in the flesh beneath,' indicating plans to spread her rot through the Underdark.",
+    "source_quote": "A chilling voice echoed in their minds\u2014Zuggtmoy, the Lady of Rot, speaking to the Pudding King about her sinister plans to use oozes to 'soften the shell' so her garden could 'take root in the flesh beneath.'",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Diggermattock Hall",
+    "fact": "Chief Dorbo Diggermattock expressed concern about the ongoing threat of acid attacks from the puddings, warning that if these creatures destroyed their weapons, their troops would die instantly.",
+    "source_quote": "Chief Dorbo Diggermattock expressed concern about the ongoing threat of acid attacks from the puddings, warning that if these creatures destroyed their weapons, their troops would die instantly.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Diggermattock Hall",
+    "fact": "Diggermattock Hall is the community hub where the party was warmly welcomed and rewarded by Gurnik Tapfinger. It is also the base where Naomi Pathshutter delivered her findings and where the party prepared for their next journey.",
+    "source_quote": "the party returned to Diggermattock Hall, where they were greeted warmly by the community",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Diggermattock Hall",
+    "fact": "Diggermattock Hall is the deep gnome community hub where the party was welcomed, rewarded, and given critical intelligence about the threats to their city.",
+    "source_quote": "The party returned to Diggermattock Hall, where they were greeted warmly by the community.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Diggermattock Hall",
+    "fact": "The party returned to Diggermattock Hall, where they were greeted warmly by the community.",
+    "source_quote": "The party returned to Diggermattock Hall, where they were greeted warmly by the community.",
+    "quote_verified": true,
+    "passes": [
+      "sweep",
+      "temporal"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "location",
+    "subject": "Festering Fissure",
+    "fact": "As the combat continued in the eerie fungal garden, surrounded by mushroom children that seemed to watch with hollow eyes, the party fought to complete their mission and obtain the Ghost Hold Lichen they desperately needed, all while the corrupting influence of Zuggtmoy, the Lady of Rot, lingered in the very air around them.",
+    "source_quote": "As the combat continued in the eerie fungal garden, surrounded by mushroom children that seemed to watch with hollow eyes, the party fought to complete their mission and obtain the Ghost Hold Lichen they desperately needed, all while the corrupting influence of Zuggtmoy, the Lady of Rot, lingered in the very air around them.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Festering Fissure",
+    "fact": "Daz unleashed a carefully controlled explosion of fire, sculpting the flames to avoid both Zalthir and the precious lichen they had come to harvest.",
+    "source_quote": "Daz unleashed a carefully controlled explosion of fire, sculpting the flames to avoid both Zalthir and the precious lichen they had come to harvest.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Festering Fissure",
+    "fact": "In the Festering Fissure, walls appeared to breathe, covered in pulsing white mold, and fungi had grown into disturbing shapes resembling deep gnome children, which seemed to turn and stare as the bat passed.",
+    "source_quote": "The bat flew into a living nightmare where walls appeared to breathe, covered in pulsing white mold. Fungi had grown into disturbing shapes resembling deep gnome children, and these mushroom figures seemed to turn and stare as the bat passed.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Festering Fissure",
+    "fact": "The Festering Fissure is a humid, hot, and reeking chamber filled with pulsing white mold, mushroom-like figures resembling deep gnome children, and a shambling mound tending to violet fungi hybrids. Ghost Hold Lichen grows from the corpse of a giant, and the corrupting influence of Zuggtmoy, the Lady of Rot, lingers in the air.",
+    "source_quote": "The party fashioned makeshift bandanas to protect themselves from spores before Grygum summoned a bat familiar to scout ahead.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Festering Fissure",
+    "fact": "The Festering Fissure is a humid, hot, fungal cavern filled with sentient fungi, a shambling mound, and the corpse of a giant from which Ghost Hold Lichen must be harvested.",
+    "source_quote": "The Festering Fissure proved to be unlike anything else in Blingdenstone\u2014humid, hot, and reeking of sweet vegetation rot.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Festering Fissure",
+    "fact": "The Festering Fissure is the location where Bimble found the Ghost Hold Lichen and where the party has chosen to investigate next, drawn by the alliterative appeal of the name.",
+    "source_quote": "they decided to investigate the Festering Fissure where Bimble had found the lichen",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Festering Fissure",
+    "fact": "The Festering Fissure proved to be unlike anything else in Blingdenstone\u2014humid, hot, and reeking of sweet vegetation rot.",
+    "source_quote": "The Festering Fissure proved to be unlike anything else in Blingdenstone\u2014humid, hot, and reeking of sweet vegetation rot.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Festering Fissure",
+    "fact": "The party decided to investigate the Festering Fissure where Bimble had found the lichen, choosing their destination based on the alliterative appeal of the name.",
+    "source_quote": "They decided to investigate the Festering Fissure where Bimble had found the lichen, choosing their destination based on the alliterative appeal of the name.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Festering Fissure",
+    "fact": "They decided to investigate the Festering Fissure where Bimble had found the lichen.",
+    "source_quote": "Festering Fissure where Bimble had found the lichen",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Festering Fissure environment",
+    "fact": "The Festering Fissure proved to be unlike anything else in Blingdenstone\u2014humid, hot, and reeking of sweet vegetation rot.",
+    "source_quote": "Festering Fissure\u2014humid, hot, and reeking of sweet vegetation rot",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Garden of Stone",
+    "fact": "The Garden of Stone is a legendary location deep in the rock blight, where Bimble found the Ghost Hold Lichen and encountered the Lady of Rot. It is now suspected to be corrupted by Zuggtmoy.",
+    "source_quote": "a garden of stone deep in the rock blight",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "impassable tunnel",
+    "fact": "Perigrog Scrapedust explained that a tunnel had become impassable\u2014impossibly dry, with blinding crystallite walls and absolute, suffocating silence.",
+    "source_quote": "impassable tunnel\u2014impossibly dry, with blinding crystallite walls and absolute, suffocating silence",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Kazook's chambers",
+    "fact": "In Kazook's chambers, surrounded by bubbling beakers and mysterious potions, they found Bimble strapped to a table, coughing up spores that formed tiny laughing faces before dissolving into the air.",
+    "source_quote": "Kazook's chambers, surrounded by bubbling beakers and mysterious potions, they found Bimble strapped to a table, coughing up spores that formed tiny laughing faces",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Kazook's Chambers",
+    "fact": "Kazook's chambers are filled with bubbling beakers and mysterious potions, where Bimble was strapped to a table and examined. It is here that the party pinpointed the exact location of the cave using his ramblings and physical clues.",
+    "source_quote": "surrounded by bubbling beakers and mysterious potions",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Menhir",
+    "fact": "The ancient menhir emitted a white light that created a powerful hallowing effect, cleansing the temple of Ogr\u00e9moch's corruption and summoning the Galeb Duhr.",
+    "source_quote": "a white light shine from the ancient menhir, creating a powerful hallowing effect",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Pickshine Mine",
+    "fact": "Four massive Galeb Duhr blocked the path at Pickshine Mine, vibrating rhythmically like stones singing the first half of a forgotten duet.",
+    "source_quote": "The party arrived at Pickshine Mine, where four massive Galeb Duhr blocked the path, vibrating rhythmically like stones singing the first half of a forgotten duet.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Pickshine Mine",
+    "fact": "Pickshine Mine is blocked by four Galeb Duhr who communicate through vibrational duets; it was opened only after Daz completed their ancient protocol.",
+    "source_quote": "Four massive Galeb Duhr blocked the path, vibrating rhythmically like stones singing the first half of a forgotten duet.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Pickshine Mine",
+    "fact": "Pickshine Mine is blocked by four massive Galeb Duhr that vibrate rhythmically like stones singing the first half of a forgotten duet. They refused to move until Daz arranged resonant geodes and hummed, completing an ancient handshake protocol.",
+    "source_quote": "The mine owner, Dasco Pickshine, had tried everything to move them, even striking them with his pickaxe, but the ancient sentinels refused to budge.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Pickshine Mine",
+    "fact": "The party arrived at Pickshine Mine, where four massive Galeb Duhr blocked the path, vibrating rhythmically like stones singing the first half of a forgotten duet.",
+    "source_quote": "Pickshine Mine, where four massive Galeb Duhr blocked the path, vibrating rhythmically like stones singing the first half of a forgotten duet",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Realm of the Rock",
+    "fact": "The Galeb Duhrs corrected that this was actually 'the Realm of the Rock.'",
+    "source_quote": "the Realm of the Rock",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Ruby and the Rough temple",
+    "fact": "Burrow Warden Jadger explained that he would be waiting at the Ruby and the Rough temple, training the next generation of Burrow Wardens, whenever they were ready to claim their reward.",
+    "source_quote": "He explained that he would be waiting at the Ruby and the Rough temple, training the next generation of Burrow Wardens, whenever they were ready to claim their reward.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Ruby and the Rough temple",
+    "fact": "He explained that he would be waiting at the Ruby and the Rough temple, training the next generation of Burrow Wardens.",
+    "source_quote": "Ruby and the Rough temple",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Ruby and the Rough Temple",
+    "fact": "The Ruby and the Rough temple is where Burrow Warden Jadger said he would be waiting to answer the party's two questions when they are ready to claim their boons.",
+    "source_quote": "he would be waiting at the Ruby and the Rough temple",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "summoning circle",
+    "fact": "Beyond the breached wall, they discovered a large cavern containing a summoning circle inscribed with runes in giant script.",
+    "source_quote": "Beyond the breached wall, they discovered a large cavern containing a summoning circle inscribed with runes in giant script.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "summoning circle",
+    "fact": "The party now stood on the threshold of completing their quest, with only two sacrifices remaining to unlock Ent\u00e9moch's power.",
+    "source_quote": "The party now stood on the threshold of completing their quest, with only two sacrifices remaining to unlock Ent\u00e9moch's power.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "summoning circle",
+    "fact": "The runes transformed from yellow to blinding orange, the air grew hot, and the uncharmed basilisk became frantic as the ritual began.",
+    "source_quote": "The runes transformed from yellow to blinding orange, the air grew hot, and the uncharmed basilisk became frantic as the ritual began.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Summoning Circle",
+    "fact": "The summoning circle, inscribed with giant runes, requires three sacrifices\u2014wealth, a weapon, and blood\u2014to free Ent\u00e9moch and claim his boon.",
+    "source_quote": "Beyond the breached wall, they discovered a large cavern containing a summoning circle inscribed with runes in giant script.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "summoning circle with giant runes",
+    "fact": "Beyond the breached wall, they discovered a large cavern containing a summoning circle inscribed with runes in giant script.",
+    "source_quote": "summoning circle inscribed with runes in giant script",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "temple",
+    "fact": "The temple was cleansed by a powerful hallowing effect that removed the corrupting power of Ogr\u00e9moch, the evil elemental earth god who had infested these rocks for centuries.",
+    "source_quote": "The party witnessed a white light shine from the ancient menhir, creating a powerful hallowing effect that cleansed the temple.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Temple",
+    "fact": "The temple was corrupted by Ogr\u00e9moch for centuries until cleansed by the party's hallowing ritual. It is now recognized as 'the Realm of the Rock' and is the site of the initial quest milestone.",
+    "source_quote": "the temple was cleansed of Ogr\u00e9moch's corruption",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Underdark",
+    "fact": "The Underdark is the vast subterranean realm where the party has traveled, fought, and now return to investigate the Festering Fissure and the Garden of Stone.",
+    "source_quote": "headed directly into the Underdark once more",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "White Shell Mine",
+    "fact": "In the White Shell Mine, shadows cast by torches appeared painted on the walls rather than flickering, as if time itself had stopped.",
+    "source_quote": "Shadows cast by torches appeared painted on the walls rather than flickering, as if time itself had stopped.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "White Shell Mine",
+    "fact": "The White Shell Mine is the largest salt mine in the Underdark, where time has been frozen by magical pressure, requiring a Shadow Monk to safely break the barrier.",
+    "source_quote": "There, Perigrog Scrapedust explained that a tunnel had become impassable\u2014impossibly dry, with blinding crystallite walls and absolute, suffocating silence.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "White Shell Mine",
+    "fact": "The geode led them deeper into the earth to the White Shell Mine, the largest salt mine in the Underdark, where a tunnel had become impassable\u2014impossibly dry, with blinding crystallite walls and absolute, suffocating silence.",
+    "source_quote": "The geode, now acting as a beacon locator, led them deeper into the earth to the White Shell Mine, the largest salt mine in the Underdark. There, Perigrog Scrapedust explained that a tunnel had become impassable\u2014impossibly dry, with blinding crystallite walls and absolute, suffocating silence.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "White Shell Mine",
+    "fact": "The geode, now acting as a beacon locator, led them deeper into the earth to the White Shell Mine, the largest salt mine in the Underdark.",
+    "source_quote": "White Shell Mine, the largest salt mine in the Underdark",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "White Shell Mine",
+    "fact": "White Shell Mine is the largest salt mine in the Underdark, where a tunnel has become impassable due to blinding crystallite walls, absolute silence, and frozen shadows. Time itself has snagged at this point, requiring a Shadow Monk to create a safe passage for the backlog of reality.",
+    "source_quote": "Perigrog Scrapedust explained that a tunnel had become impassable\u2014impossibly dry, with blinding crystallite walls and absolute, suffocating silence.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "basilisk",
+    "fact": "The uncharmed basilisk became frantic as the ritual began, indicating it was still active and unaffected by the party's enchantments.",
+    "source_quote": "the uncharmed basilisk became frantic as the ritual began.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "basilisk",
+    "fact": "Two basilisks guarded the summoning circle, moving with mechanical precision and viewing the party as flaws in perfect stone; one was engaged in close combat by Zalthir, the other was frozen in place by Daz's incapacitating charm.",
+    "source_quote": "Two basilisks guarded the circle, moving with mechanical precision rather than natural animal behavior, as if they viewed the party as flaws in perfect stone. Zalthir engaged one in close combat while averting his eyes, and Daz successfully enchanted the other, freezing it in place with an incapacitating charm.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Basilisks",
+    "fact": "Two basilisks guarded the giant-script summoning circle with mechanical precision, as if they were constructs; they were neutralized by Zalthir\u2019s evasion and Daz\u2019s charm.",
+    "source_quote": "Two basilisks guarded the circle, moving with mechanical precision rather than natural animal behavior, as if they viewed the party as flaws in perfect stone.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Burrow Warden Jadger",
+    "fact": "Burrow Warden Jadger materialized as a friendly ghost, thanking the party for putting two tormented spirits to rest in the catacombs.",
+    "source_quote": "Burrow Warden Jadger materialized as a friendly ghost, thanking the party for putting two tormented spirits to rest",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Earth Elementals",
+    "fact": "Four insane earth elementals were defeated by the party, their corruption cleansed by the hallowing ritual. Their defeat was a key step in the quest.",
+    "source_quote": "four insane earth elementals",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Ent\u00e9moch",
+    "fact": "Ent\u00e9moch is the good elemental prince who once aided the deep gnomes of Blingdenstone. The Galeb Duhr revealed the party must obtain his boon, but his location is unknown.",
+    "source_quote": "Ent\u00e9moch's boon, the blessing of the good elemental prince who had once aided the deep gnomes of Blingdenstone",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Galeb Duhr",
+    "fact": "Four massive Galeb Duhr block the entrance to Pickshine Mine, vibrating rhythmically like singing stones. They are ancient sentinels that respond only to a divine or linguistic protocol completed by arranging resonant geodes and humming.",
+    "source_quote": "The party arrived at Pickshine Mine, where four massive Galeb Duhr blocked the path, vibrating rhythmically like stones singing the first half of a forgotten duet.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "galeb duhr count",
+    "fact": "Three Galeb Duhr emerged, their rocky forms pulsing with satisfaction as they acknowledged the party's success.",
+    "source_quote": "Three Galeb Duhr emerged",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Juiblex",
+    "fact": "Juiblex is one of the threats now facing Blingdenstone, alongside the Pudding King and Zuggtmoy, as revealed by Grygum's recognition of the Lady of Rot.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Lady of Rot as Zuggtmoy",
+    "fact": "Grygum immediately recognized the reference to the Lady of Rot as Zuggtmoy, the demoness who had destroyed Neverlight Grove and nearly possessed Thorin in a previous encounter.",
+    "source_quote": "Lady of Rot as Zuggtmoy, the demoness who had destroyed Neverlight Grove and nearly possessed Thorin",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Medusa",
+    "fact": "The party defeated a Medusa along with four insane earth elementals, an achievement that earned Naomi Pathshutter's respect.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Ogr\u00e9moch",
+    "fact": "Ogr\u00e9moch is the evil elemental earth god who had infested the rocks of the temple for centuries. The party's hallowing ritual cleansed the temple of his corrupting power.",
+    "source_quote": "the corrupting power of Ogr\u00e9moch, the evil elemental earth god who had infested these rocks for centuries",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Ogr\u00e9moch",
+    "fact": "Ogr\u00e9moch is the evil elemental earth god who infested the rocks for centuries and whose altar was hallowed by the party, though it did not lead to Ent\u00e9moch's boon.",
+    "source_quote": "The creatures explained that the party had successfully hallowed the temple from the corrupting power of Ogr\u00e9moch, the evil elemental earth god who had infested these rocks for centuries.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Pudding King",
+    "fact": "The Pudding King is an emerging threat to Blingdenstone, associated with acid attacks that could destroy weapons and kill troops instantly.",
+    "source_quote": "the ongoing threat of acid attacks from the puddings",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Pudding King",
+    "fact": "The Pudding King is the leader of the acid-producing puddings threatening Blingdenstone's weapons and troops, now under Zuggtmoy's influence.",
+    "source_quote": "They now faced not only Juiblex and the Pudding King but also the corrupting influence of Zuggtmoy herself.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Shambling Mound",
+    "fact": "A shambling mound in the Festering Fissure tends to violet fungi hybrids and attacks intruders with crushing blows and powerful grapples. It resisted enchantments, was weakened by Thorin's Dawnbringer and Zalthir's strikes, and was ultimately destroyed after a deadlock grapple with Zalthir.",
+    "source_quote": "The bat discovered a shambling mound tending to a bizarre garden, violet fungi hybrids, and most importantly, the corpse of a giant from which Ghost Hold Lichen grew.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Shambling Mound",
+    "fact": "The shambling mound guarded a garden of violet fungi hybrids and the corpse of a giant from which Ghost Hold Lichen grew; it was defeated after a brutal melee in the Festering Fissure.",
+    "source_quote": "The bat discovered a shambling mound tending to a bizarre garden, violet fungi hybrids, and most importantly, the corpse of a giant from which Ghost Hold Lichen grew.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "shambling mound tending to a bizarre garden",
+    "fact": "The bat discovered a shambling mound tending to a bizarre garden, violet fungi hybrids, and most importantly, the corpse of a giant from which Ghost Hold Lichen grew.",
+    "source_quote": "shambling mound tending to a bizarre garden, violet fungi hybrids, and most importantly, the corpse of a giant from which Ghost Hold Lichen grew",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "two basilisks guarding the circle",
+    "fact": "Two basilisks guarded the circle, moving with mechanical precision rather than natural animal behavior, as if they viewed the party as flaws in perfect stone.",
+    "source_quote": "two basilisks guarded the circle, moving with mechanical precision rather than natural animal behavior",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Vazuk",
+    "fact": "Vazuk is a deep gnome ghost mad with grief who had been threatening the residents of Blingdenstone. He was destroyed by Jimjar and Eldeth.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Vazuk",
+    "fact": "Vazuk is a deep gnome ghost mad with grief who was destroyed by Jimjar and Eldeth, ending his threat to the residents.",
+    "source_quote": "Jimjar and Eldeth arrived with dramatic news of their own success\u2014they had destroyed Vazuk, a deep gnome ghost mad with grief who had been threatening the residents.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "violet fungi resembling deep gnome children",
+    "fact": "Fungi had grown into disturbing shapes resembling deep gnome children, and these mushroom figures seemed to turn and stare as the bat passed.",
+    "source_quote": "fungi had grown into disturbing shapes resembling deep gnome children, and these mushroom figures seemed to turn and stare",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Violet Fungus",
+    "fact": "The violet fungi grew into disturbing shapes resembling deep gnome children and were charmed by Daz's hypnotic pattern, rendering them inert during the battle.",
+    "source_quote": "Fungi had grown into disturbing shapes resembling deep gnome children, and these mushroom figures seemed to turn and stare as the bat passed.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Violet Fungus",
+    "fact": "Violet fungi hybrids in the Festering Fissure appear as disturbing shapes resembling deep gnome children. They were incapacitated by Daz\u2019s hypnotic pattern of shimmering colors but were not destroyed, and remained in a confused, mesmerized state.",
+    "source_quote": "Fungi had grown into disturbing shapes resembling deep gnome children, and these mushroom figures seemed to turn and stare as the bat passed.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Zuggtmoy",
+    "fact": "Zuggtmoy is the demoness who destroyed Neverlight Grove and nearly possessed Thorin in a previous encounter. She is identified as the Lady of Rot feeding the soil in the Garden of Stone, and her return has sent alarm through Blingdenstone's leaders.",
+    "source_quote": "the Lady of Rot as Zuggtmoy, the demoness who had destroyed Neverlight Grove and nearly possessed Thorin in a previous encounter",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Zuggtmoy",
+    "fact": "Zuggtmoy, the Lady of Rot, is the demoness whose corrupting influence is now active in the Festering Fissure, using oozes to 'soften the shell' to take root in the flesh beneath.",
+    "source_quote": "A chilling voice echoed in their minds\u2014Zuggtmoy, the Lady of Rot, speaking to the Pudding King about her sinister plans to use oozes to 'soften the shell' so her garden could 'take root in the flesh beneath.'",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "basilisks",
+    "fact": "Two basilisks guarded the summoning circle, moving with mechanical precision rather than natural animal behavior, as if they viewed the party as flaws in perfect stone.",
+    "source_quote": "Two basilisks guarded the circle, moving with mechanical precision rather than natural animal behavior, as if they viewed the party as flaws in perfect stone.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Bimble",
+    "fact": "Bimble is Kazook's scout who found the Ghost Hold Lichen but became infected, raving about a singing garden and the Lady of Rot feeding the soil.",
+    "source_quote": "He had returned wrong\u2014infected and raving about a garden that sang to him and the Lady of Rot feeding the soil.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Bimble",
+    "fact": "Bimble was sent by Kazook to investigate the Garden of Stone and returned infected, raving about a singing garden and the Lady of Rot. He was later found strapped to a table in Kazook's chambers, coughing up spores that formed tiny laughing faces before dissolving.",
+    "source_quote": "a garden that sang to him and the Lady of Rot feeding the soil.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Burrow Warden Jadger",
+    "fact": "Burrow Warden Jadger explained he would be waiting at the Ruby and the Rough temple, training the next generation of Burrow Wardens.",
+    "source_quote": "He explained that he would be waiting at the Ruby and the Rough temple, training the next generation of Burrow Wardens, whenever they were ready to claim their reward.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Burrow Warden Jadger",
+    "fact": "Burrow Warden Jadger materialized as a friendly ghost, thanking the party for putting two tormented spirits to rest in the catacombs, and offered them two boons: they could ask him any two questions they wished, and he would answer truthfully.",
+    "source_quote": "Burrow Warden Jadger materialized as a friendly ghost, thanking the party for putting two tormented spirits to rest in the catacombs. As a reward for their service to Blingdenstone, he offered them two boons\u2014they could ask him any two questions they wished, and he would answer truthfully.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Burrow Warden Jadger",
+    "fact": "Burrow Warden Jadger materialized as a friendly ghost, thanking the party for putting two tormented spirits to rest in the catacombs. As a reward, he offered them two boons: they could ask him any two questions, and he would answer truthfully. He said he would be waiting at the Ruby and the Rough temple, training the next generation of Burrow Wardens.",
+    "source_quote": "he would answer truthfully. He explained that he would be waiting at the Ruby and the Rough temple, training the next generation of Burrow Wardens",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Burrow Warden Jadger",
+    "fact": "Jadger is a friendly ghost who rewarded the party with two truth-telling boons for putting tormented spirits to rest in the catacombs.",
+    "source_quote": "He offered them two boons\u2014they could ask him any two questions they wished, and he would answer truthfully.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Chief Dorbo Diggermattock",
+    "fact": "Chief Dorbo Diggermattock expressed concern about the ongoing threat of acid attacks from the puddings, warning that if these creatures destroyed their weapons, their troops would die instantly.",
+    "source_quote": "if these creatures destroyed their weapons, their troops would die instantly.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Chief Dorbo Diggermattock",
+    "fact": "Chief Dorbo Diggermattock expressed concern about the ongoing threat of acid attacks from the puddings.",
+    "source_quote": "Chief Dorbo Diggermattock expressed concern about the ongoing threat of acid attacks from the puddings, warning that if these creatures destroyed their weapons, their troops would die instantly.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Chief Dorbo Diggermattock",
+    "fact": "Chief Dorbo is the leader of Diggermattock Hall who warned the party of the ongoing acid attacks from the puddings.",
+    "source_quote": "Chief Dorbo Diggermattock expressed concern about the ongoing threat of acid attacks from the puddings, warning that if these creatures destroyed their weapons, their troops would die instantly.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Dasco Pickshine",
+    "fact": "Dasco Pickshine had tried everything to move the Galeb Duhr, even striking them with his pickaxe, but the ancient sentinels refused to budge.",
+    "source_quote": "The mine owner, Dasco Pickshine, had tried everything to move them, even striking them with his pickaxe, but the ancient sentinels refused to budge.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Dasco Pickshine",
+    "fact": "Dasco Pickshine is the mine owner who tried and failed to move the Galeb Duhr blocking Pickshine Mine. He grudgingly offered the party two ruby gems worth five hundred gold pieces as thanks after they succeeded.",
+    "source_quote": "The mine owner, Dasco Pickshine, had tried everything to move them, even striking them with his pickaxe, but the ancient sentinels refused to budge.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Dasco Pickshine",
+    "fact": "Dasco is the mine owner of Pickshine Mine who tried and failed to move the Galeb Duhr sentinels until Daz completed their vibrational protocol.",
+    "source_quote": "Dasco Pickshine, had tried everything to move them, even striking them with his pickaxe, but the ancient sentinels refused to budge.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz cast a hypnotic pattern of shimmering colors that incapacitated violet fungi and accidentally affected Zalthir. He arranged resonant geodes and hummed to complete the Galeb Duhr handshake protocol, and later unleashed a controlled fire explosion to avoid harming Zalthir and the lichen.",
+    "source_quote": "Daz quickly cast a hypnotic pattern of shimmering colors that incapacitated the violet fungi and even caught Zalthir in its mesmerizing effect.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a spellcaster who used hypnotic patterns and controlled fire to incapacitate enemies and protect allies, and who decoded the Galeb Duhr's vibrational language to open the Pickshine Mine.",
+    "source_quote": "After discovering resonant geodes and arranging them while humming, Daz completed the ancient handshake protocol, and the Galeb Duhr finally relaxed and opened the way.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz perceived the Galeb Duhr's vibrations as a linguistic pattern\u2014a call waiting for an echo that never came, and after discovering resonant geodes and arranging them while humming, completed the ancient handshake protocol.",
+    "source_quote": "Daz perceived their vibrations as a linguistic pattern\u2014a call waiting for an echo that never came. After discovering resonant geodes and arranging them while humming, Daz completed the ancient handshake protocol...",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz quickly cast a hypnotic pattern of shimmering colors that incapacitated the violet fungi and even caught Zalthir in its mesmerizing effect.",
+    "source_quote": "Daz quickly cast a hypnotic pattern of shimmering colors that incapacitated the violet fungi and even caught Zalthir in its mesmerizing effect.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz successfully enchanted the second basilisk, freezing it in place with an incapacitating charm.",
+    "source_quote": "Daz successfully enchanted the other, freezing it in place with an incapacitating charm.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz was mistakenly mistaken for an ogre by Naomi Pathshutter, leading to a tense exchange about respect, but the community rallied to defend him and made it clear outsiders could not insult members of their group.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Diggermattock Hall Community",
+    "fact": "The community of Diggermattock Hall warmly greeted the party after their success. Gurnik Tapfinger, the cleric who sent them on the quest, rewarded them with a precious empty fourth-level spell gem. The group discussed who should attune to it and ultimately decided a spellcaster would load it with a healing spell.",
+    "source_quote": "one of their spellcasters would take it and load it with a healing spell",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth arrived alongside Jimjar and helped destroy Vazuk, the deep gnome ghost threatening residents of Blingdenstone.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Ent\u00e9moch",
+    "fact": "Ent\u00e9moch is a being whose power is locked behind a ritual requiring three sacrifices: wealth, a weapon, and blood; two sacrifices remain to unlock his boon.",
+    "source_quote": "To free Ent\u00e9moch and claim his boon, three sacrifices were required: wealth, a weapon, and blood... with only two sacrifices remaining to unlock Ent\u00e9moch's power.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Galeb Duhr",
+    "fact": "Three Galeb Duhr emerged from the ancient menhir after the party hallowed the temple, acknowledging their success. They corrected Grygum's misnaming of the Realm and explained the temple was cleansed of Ogr\u00e9moch's corruption. They later questioned Thorin about his clothing and revealed the party must obtain Ent\u00e9moch's boon.",
+    "source_quote": "the Realm of the Rock",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Galeb Duhr",
+    "fact": "Three Galeb Duhr emerged, their rocky forms pulsing with satisfaction as they acknowledged the party's success, and the first welcomed Grygum, the cleric of Bahamut, to what he called 'the Realm of the Dragon.'",
+    "source_quote": "Three Galeb Duhr emerged, their rocky forms pulsing with satisfaction as they acknowledged the party's success. The first Galeb Duhr welcomed Grygum, the cleric of Bahamut, to what he called 'the Realm of the Dragon.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum immediately recognized the reference to the Lady of Rot as Zuggtmoy, the demoness who had destroyed Neverlight Grove and nearly possessed Thorin in a previous encounter.",
+    "source_quote": "Grygum immediately recognized the reference to the Lady of Rot as Zuggtmoy, the demoness who had destroyed Neverlight Grove and nearly possessed Thorin in a previous encounter.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is the cleric of Bahamut who led the party in hallowing the temple and later recognized the Lady of Rot as Zuggtmoy, a demoness from a past encounter.",
+    "source_quote": "Grygum immediately recognized the reference to the Lady of Rot as Zuggtmoy, the demoness who had destroyed Neverlight Grove and nearly possessed Thorin in a previous encounter.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is the cleric of Bahamut who was welcomed by the Galeb Duhr to what he mistakenly called 'the Realm of the Dragon,' and later corrected to 'the Realm of the Rock.' He has a mischievous grin and believes the temple is 'a cavern, and we are in it.'",
+    "source_quote": "After all we're in here. It's a cavern, and we are in it.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum rushed forward and punched Zalthir in the face to break him from the trance, though his first blow was so weak it dealt no damage at all, forcing him to draw a dagger and stab his companion to properly wake him.",
+    "source_quote": "Grygum rushed forward and punched Zalthir in the face to break him from the trance, though his first blow was so weak it dealt no damage at all, forcing him to draw a dagger and stab his companion to properly wake him.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum summoned a bat familiar to scout the Festering Fissure, chanted a protective prayer to keep demonic spirits at bay during lichen harvest, blessed Zalthir\u2019s maneuver in the White Shell Mine, and punched Zalthir in the face to break a trance, though his first blow dealt no damage.",
+    "source_quote": "Grygum summoned a bat familiar to scout ahead... Grygum understood that a warding prayer would be needed to keep demonic spirits at bay during the harvest.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum, the cleric of Bahamut, grinned mischievously and said, 'Of course it is. After all we're in here. It's a cavern, and we are in it.'",
+    "source_quote": "Grygum then, with a mischievous grin, said that of course it is. 'After all we're in here. It's a cavern, and we are in it.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gurnik Tapfinger",
+    "fact": "Gurnik is the cleric who originally sent the party on the quest and rewarded them with an empty fourth-level spell gem.",
+    "source_quote": "Gurnik Tapfinger, the cleric who had sent them on this quest, rewarded them with a precious empty fourth-level spell gem that could be imbued with powerful magic.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar arrived with dramatic news that he and Eldeth had destroyed Vazuk, a deep gnome ghost mad with grief who had been threatening residents. He proclaimed the battle epic and spectacular, worthy of inspiring songs for centuries.",
+    "source_quote": "the battle epic and spectacular, the kind of combat that would inspire songs for centuries to come.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar proclaimed the battle against Vazuk, a deep gnome ghost mad with grief, epic and spectacular, the kind of combat that would inspire songs for centuries to come.",
+    "source_quote": "Jimjar proclaimed the battle epic and spectacular, the kind of combat that would inspire songs for centuries to come.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Kazook Pickshine",
+    "fact": "Kazook Pickshine, the local alchemist, arrived with troubling news: he had sent his scout Bimble to investigate a legend about a garden of stone deep in the rock blight, and Bimble had returned infected and raving about a garden that sang to him and the Lady of Rot feeding the soil.",
+    "source_quote": "Kazook Pickshine, the local alchemist, arrived with troubling news. He had recalled a legend about a garden of stone deep in the rock blight and had sent his scout Bimble to investigate. Bimble had found the rare Ghost Hold Lichen they needed for their alchemical preparations, but he had returned wrong\u2014infected and raving about a garden that sang to him and the Lady of Rot feeding the soil.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Kazook Pickshine",
+    "fact": "Kazook Pickshine, the local alchemist, arrived with troubling news: he had sent his scout Bimble to investigate a legend of a garden of stone deep in the rock blight. Bimble returned infected and raving about a garden that sang to him and the Lady of Rot feeding the soil.",
+    "source_quote": "a garden that sang to him and the Lady of Rot feeding the soil.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Kazook Pickshine",
+    "fact": "Kazook is the local alchemist who sent his scout Bimble to find Ghost Hold Lichen, and who became distraught when Bimble returned infected and raving about the Lady of Rot.",
+    "source_quote": "He asked for compassion, explaining that Bimble was a dear friend, not just an assistant.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Kazook Pickshine",
+    "fact": "Kazook was upset when the party cracked a joke mocking Bimble's condition, and asked for compassion, explaining that Bimble was a dear friend, not just an assistant.",
+    "source_quote": "Kazook was upset. He asked for compassion, explaining that Bimble was a dear friend, not just an assistant.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Naomi Pathshutter",
+    "fact": "An exhausted Naomi Pathshutter appeared in the crowded meeting hall, having been awake for forty-eight hours attempting to summon earth elementals, and spread a map on the table with frustration.",
+    "source_quote": "The next morning, an exhausted Naomi Pathshutter appeared in the crowded meeting hall, having been awake for forty-eight hours attempting to summon earth elementals. She spread a map on the table and explained with frustration...",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Naomi Pathshutter",
+    "fact": "Naomi Pathshutter appeared exhausted after forty-eight hours of attempting to summon earth elementals. She spread a map and explained that hallowing Ogr\u00e9moch's altar had not opened the path to Ent\u00e9moch's boon; the tunnels had shifted and sealed, and the earth seemed frozen. She mistook Daz for an ogre, leading to tension, but the community defended their allies. After learning the party defeated four earth elementals and a Medusa, she shifted to respect and tasked them with investigating the strange vibrations and finding the lost path to Ent\u00e9moch's boon.",
+    "source_quote": "the tunnels to the stone prince's throne had shifted and sealed themselves, and the earth seemed frozen, unable to heal. Miners were reporting strange vibrations, as if the rock itself was trying to speak but couldn't find the words.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Naomi Pathshutter",
+    "fact": "Naomi is an exhausted summoner who failed to open the path to Ent\u00e9moch's boon and later tasked the party with investigating the strange vibrations and lost tunnels.",
+    "source_quote": "She spread a map on the table and explained with frustration that hallowing Ogr\u00e9moch's altar had not opened the path to Ent\u00e9moch's boon as expected.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Naomi Pathshutter",
+    "fact": "Naomi mistook Daz for an ogre, leading to a tense exchange about respect, but the community rallied to defend their allies, making it clear that outsiders could not insult members of their group.",
+    "source_quote": "In an awkward moment, Naomi mistook Daz for an ogre, leading to a tense exchange about respect, but the community rallied to defend their allies, making it clear that outsiders could not insult members of their group.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Naomi Pathshutter",
+    "fact": "Naomi's attitude shifted to one of genuine respect and admiration after the party revealed they had dealt with four insane earth elementals and a Medusa, and she tasked them with investigating the strange vibrations and finding the lost path to Ent\u00e9moch's boon.",
+    "source_quote": "When the party revealed they had dealt with four insane earth elementals and a Medusa, Naomi's attitude shifted to one of genuine respect and admiration. She tasked them with investigating the strange vibrations and finding the lost path to Ent\u00e9moch's boon.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Perigrog Scrapedust",
+    "fact": "Perigrog Scrapedust is a gnome who explained the impassable tunnel in White Shell Mine, describing its frozen time and blinding crystallite walls, and provided specialized explosives for its resolution.",
+    "source_quote": "Perigrog Scrapedust explained that a tunnel had become impassable\u2014impossibly dry, with blinding crystallite walls and absolute, suffocating silence.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Perigrog Scrapedust",
+    "fact": "Perigrog is the gnome who explained the impossible silence and crystallite walls in the White Shell Mine and provided explosives to break the temporal barrier.",
+    "source_quote": "Perigrog Scrapedust explained that a tunnel had become impassable\u2014impossibly dry, with blinding crystallite walls and absolute, suffocating silence.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin charged into battle with Dawnbringer, his enchanted weapon striking true against the shambling mound multiple times, weakening the creature.",
+    "source_quote": "Thorin charged into battle with Dawnbringer, his enchanted weapon striking true against the shambling mound multiple times. His attacks weakened the creature, causing it to fight at a disadvantage.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin deciphered the giant runes on the summoning circle, learning that to free Ent\u00e9moch and claim his boon, three sacrifices were required: wealth, a weapon, and blood.",
+    "source_quote": "Thorin rushed to the summoning circle and deciphered the giant runes. To free Ent\u00e9moch and claim his boon, three sacrifices were required: wealth, a weapon, and blood.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin explained his complicated relationship with giants, having been raised by them despite being a dwarf.",
+    "source_quote": "he explained his complicated relationship with giants, having been raised by them despite being a dwarf.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a dwarf warrior wielding Dawnbringer, known for his puns and giant-related knowledge, who played a pivotal role in defeating the shambling mound and deciphering the giant runes at the summoning circle.",
+    "source_quote": "Thorin's knowledge of giants revealed that the lichen had to be cut carefully without bursting the poisonous sacs growing beside it.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin made a pun and said, 'Of course, it's hollow!'",
+    "source_quote": "Thorin could not resist making a pun and said, 'Of course, it's hollow!'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin made a pun saying 'Of course, it's hollow!' in reference to the temple being both 'hollow' and 'hallowed,' which amused the Galeb Duhr. He was raised by giants despite being a dwarf and wears giant clothes.",
+    "source_quote": "Of course, it's hollow!",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin rushed to the summoning circle, deciphered the giant runes, and placed a dart onto the runes as the weapon sacrifice, causing the stone to swallow and rust it to dust.",
+    "source_quote": "Thorin rushed to the summoning circle and deciphered the giant runes. Thorin placed a dart onto the runes as the weapon sacrifice, and the stone instantly swallowed it, rusting it to dust in seconds.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin wields Dawnbringer, an enchanted weapon that struck the shambling mound multiple times, weakening it significantly. He charged into battle with determination and contributed decisively to the creature's defeat.",
+    "source_quote": "Thorin charged into battle with Dawnbringer, his enchanted weapon striking true against the shambling mound multiple times.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "As the poison took hold, Zalthir thought to himself, 'Who would have thought?'",
+    "source_quote": "As the poison took hold, he thought to himself, 'Who would have thought?'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir engaged one basilisk in close combat while averting his eyes to avoid petrification.",
+    "source_quote": "Zalthir engaged one in close combat while averting his eyes.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a Shadow Monk and spellcaster who recalled ancient training from The Garden Shadow, executed the risky lichen harvest, and used his meditation to safely redirect a magical explosion in the White Shell Mine.",
+    "source_quote": "As the poison took hold, he thought to himself, 'Who would have thought?'",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a Shadow Monk trained in the gardens by The Garden Shadow, who taught him precise methods for cutting lichen and tending trees. He attempted to harvest Ghost Hold Lichen, ruptured a poisonous sac, took significant damage, and engaged in a deadlock grapple with the shambling mound. He later executed a perfect redirect of magical blast through shadow space to clear the White Shell Mine tunnel.",
+    "source_quote": "Just as Zalthir made his cut, he remembered his training as a monk in the gardens.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir meditated on the challenge, channeling all his frustration into the void, and with Grygum's blessing to aid him, executed a perfect maneuver to redirect the magical blast through shadow space.",
+    "source_quote": "Zalthir meditated on the challenge, channeling all his frustration into the void. With Grygum's blessing to aid him, Zalthir positioned himself as the explosives detonated, executing a perfect maneuver to redirect the magical blast through shadow space.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir recalled a metaphysical puzzle from his training: magical pressure had caused time to snag at this point, and breaking it directly would unleash a catastrophic explosion. The solution required creating a hole for the backlog of reality to pass through safely, which only a Shadow Monk could accomplish.",
+    "source_quote": "Zalthir recalled a metaphysical puzzle from his training: magical pressure had caused time to snag at this point, and breaking it directly would unleash a catastrophic explosion. The solution required creating a hole for the backlog of reality to pass through safely, which only a Shadow Monk could accomplish.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir remembered his training as a monk in the gardens, where The Garden Shadow had explained exactly how to cut lichen and tend the trees, and told him that this training would come in useful.",
+    "source_quote": "Just as Zalthir made his cut, he remembered his training as a monk in the gardens. The ancient monk, The Garden Shadow, had explained exactly how to cut lichen and tend the trees, and told him that this training would come in useful.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zuggtmoy",
+    "fact": "A chilling voice echoed in their minds\u2014Zuggtmoy, the Lady of Rot, speaking to the Pudding King about her sinister plans to use oozes to 'soften the shell' so her garden could 'take root in the flesh beneath.'",
+    "source_quote": "A chilling voice echoed in their minds\u2014Zuggtmoy, the Lady of Rot, speaking to the Pudding King about her sinister plans to use oozes to 'soften the shell' so her garden could 'take root in the flesh beneath.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Bimble",
+    "fact": "Bimble was strapped to a table in Kazook's chambers, coughing up spores that formed tiny laughing faces before dissolving into the air.",
+    "source_quote": "In Kazook's chambers, surrounded by bubbling beakers and mysterious potions, they found Bimble strapped to a table, coughing up spores that formed tiny laughing faces before dissolving into the air.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "dart",
+    "fact": "A dart was used as the weapon sacrifice in the ritual; it was swallowed by the runes and rusted to dust.",
+    "source_quote": "Thorin placed a dart onto the runes as the weapon sacrifice, and the stone instantly swallowed it, rusting it to dust in seconds.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "dart",
+    "fact": "Thorin placed a dart onto the runes as the weapon sacrifice, and the stone instantly swallowed it, rusting it to dust in seconds.",
+    "source_quote": "Thorin placed a dart onto the runes as the weapon sacrifice, and the stone instantly swallowed it, rusting it to dust in seconds.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Empty Fourth-Level Spell Gem",
+    "fact": "An empty spell gem awarded by Gurnik Tapfinger that can be imbued with a powerful spell; the party decided to load it with a healing spell for emergencies.",
+    "source_quote": "Gurnik Tapfinger... rewarded them with a precious empty fourth-level spell gem that could be imbued with powerful magic.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "empty fourth-level spell gem",
+    "fact": "Gurnik Tapfinger, the cleric who had sent them on this quest, rewarded them with a precious empty fourth-level spell gem that could be imbued with powerful magic.",
+    "source_quote": "Gurnik Tapfinger, the cleric who had sent them on this quest, rewarded them with a precious empty fourth-level spell gem that could be imbued with powerful magic.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Fourth-level spell gem",
+    "fact": "A precious empty fourth-level spell gem was given to the party by Gurnik Tapfinger. It can be imbued with powerful magic, and the party decided a healing spell would be loaded into it for emergencies.",
+    "source_quote": "a precious empty fourth-level spell gem that could be imbued with powerful magic",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "fourth-level spell gem",
+    "fact": "Gurnik Tapfinger rewarded them with a precious empty fourth-level spell gem that could be imbued with powerful magic.",
+    "source_quote": "precious empty fourth-level spell gem that could be imbued with powerful magic",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Geode",
+    "fact": "A resonant geode used by Daz to complete the Galeb Duhr's vibrational handshake protocol; now acts as a beacon locator guiding the party to the White Shell Mine.",
+    "source_quote": "The geode, now acting as a beacon locator, led them deeper into the earth to the White Shell Mine.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Geode",
+    "fact": "A resonant geode, arranged and hummed into alignment by Daz, served as an ancient handshake protocol to pacify the Galeb Duhr at Pickshine Mine. It now acts as a beacon locator, guiding the party deeper into the earth to the White Shell Mine.",
+    "source_quote": "After discovering resonant geodes and arranging them while humming, Daz completed the ancient handshake protocol.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Ghost Hold Lichen",
+    "fact": "Bimble had found the rare Ghost Hold Lichen they needed for their alchemical preparations.",
+    "source_quote": "found the rare Ghost Hold Lichen they needed for their alchemical preparations",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Ghost Hold Lichen",
+    "fact": "Ghost Hold Lichen grows from the corpse of a giant in the Festering Fissure. It must be harvested with extreme care to avoid rupturing poisonous sacs growing beside it, and requires a warding prayer to repel demonic spirits during the process. It is used to craft anti-acid armor.",
+    "source_quote": "Thorin's knowledge of giants revealed that the lichen had to be cut carefully without bursting the poisonous sacs growing beside it.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Ghost Hold Lichen",
+    "fact": "Ghost Hold Lichen is a rare alchemical ingredient found by Bimble in the Garden of Stone. It is needed for Kazook's preparations but has become contaminated by Zuggtmoy's influence.",
+    "source_quote": "the rare Ghost Hold Lichen they needed for their alchemical preparations",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Ghost Hold Lichen",
+    "fact": "Ghost Hold Lichen is a rare alchemical ingredient needed to create anti-acid armor, harvested from the corpse of a giant in the Festering Fissure under dangerous conditions.",
+    "source_quote": "The party finished harvesting the rare lichen needed for anti-acid armor.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "ruby gems",
+    "fact": "Dasco grudgingly offered the party two ruby gems worth five hundred gold pieces as thanks.",
+    "source_quote": "Dasco grudgingly offered the party two ruby gems worth five hundred gold pieces as thanks.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Ruby Gems",
+    "fact": "Two ruby gems worth five hundred gold pieces offered by Dasco Pickshine as thanks for opening the Pickshine Mine.",
+    "source_quote": "Dasco grudgingly offered the party two ruby gems worth five hundred gold pieces as thanks.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "shambling mound",
+    "fact": "The bat discovered a shambling mound tending to a bizarre garden of violet fungi hybrids, and most importantly, the corpse of a giant from which Ghost Hold Lichen grew.",
+    "source_quote": "Deeper in the chamber, the bat discovered a shambling mound tending to a bizarre garden, violet fungi hybrids, and most importantly, the corpse of a giant from which Ghost Hold Lichen grew.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "summoning circle",
+    "fact": "The summoning circle was inscribed with runes in giant script; its color transformed from yellow to blinding orange, and the air grew hot as the ritual began.",
+    "source_quote": "The summoning circle inscribed with runes in giant script... The runes transformed from yellow to blinding orange, the air grew hot...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "two ruby gems",
+    "fact": "Dasco grudgingly offered the party two ruby gems worth five hundred gold pieces as thanks.",
+    "source_quote": "two ruby gems worth five hundred gold pieces",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Bimble's Condition",
+    "fact": "Bimble is infected and raving, his mind and body corrupted by the Garden of Stone. His fate and the nature of his infection are urgent mysteries the party must resolve.",
+    "source_quote": "infected and raving about a garden that sang to him and the Lady of Rot feeding the soil",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Bimble's Infection",
+    "fact": "Bimble\u2019s infection by the singing garden and the Lady of Rot suggests Zuggtmoy\u2019s influence is spreading through fungal networks\u2014requiring investigation and containment.",
+    "source_quote": "Bimble had returned wrong\u2014infected and raving about a garden that sang to him and the Lady of Rot feeding the soil.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Ent\u00e9moch's location",
+    "fact": "The location of Ent\u00e9moch is unspecified, though the creatures agreed the gnomes would surely know.",
+    "source_quote": "The creatures argued amongst themselves about where Ent\u00e9moch might be found before finally agreeing that the gnomes would surely know, having visited him regularly in ages past.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Lost Path to Ent\u00e9moch's Boon",
+    "fact": "The path to Ent\u00e9moch's boon has shifted and sealed itself, and the earth is frozen. Finding it is now the party's primary quest objective, following Naomi's task.",
+    "source_quote": "the tunnels to the stone prince's throne had shifted and sealed themselves",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Lost Path to Ent\u00e9moch's Boon",
+    "fact": "The path to Ent\u00e9moch's throne has shifted and sealed itself, and the earth seems frozen\u2014requiring the party to find the lost route before the boon can be claimed.",
+    "source_quote": "The tunnels to the stone prince's throne had shifted and sealed themselves, and the earth seemed frozen, unable to heal.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "remaining sacrifices",
+    "fact": "Two sacrifices\u2014wealth and blood\u2014remain to complete the ritual and unlock Ent\u00e9moch's power.",
+    "source_quote": "To free Ent\u00e9moch and claim his boon, three sacrifices were required: wealth, a weapon, and blood... with only two sacrifices remaining to unlock Ent\u00e9moch's power.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Strange Vibrations in the Rock",
+    "fact": "Miners report strange vibrations as if the rock itself is trying to speak but cannot find the words. This phenomenon is linked to the sealing of the path and the corruption of the earth.",
+    "source_quote": "the rock itself was trying to speak but couldn't find the words",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Garden Shadow's Legacy",
+    "fact": "Zalthir\u2019s forgotten training with The Garden Shadow resurfaced during crisis\u2014suggesting his past may hold keys to surviving the Underdark's deeper horrors.",
+    "source_quote": "As the poison took hold, he thought to himself, 'Who would have thought?'",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Garden Shadow's Teaching",
+    "fact": "Zalthir\u2019s training under The Garden Shadow, who taught him the precise art of cutting lichen and tending trees, resurfaced during critical moments in the Festering Fissure and White Shell Mine, suggesting deeper ties between his past and the Underdark\u2019s mysteries.",
+    "source_quote": "The ancient monk, The Garden Shadow, had explained exactly how to cut lichen and tend the trees, and told him that this training would come in useful.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Rock's Whisper",
+    "fact": "Miners report strange vibrations as if the rock itself is trying to speak but cannot find the words\u2014hinting at a sentient or corrupted geological consciousness.",
+    "source_quote": "Miners were reporting strange vibrations, as if the rock itself was trying to speak but couldn't find the words.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Zuggtmoy's Return",
+    "fact": "Zuggtmoy's influence has returned via the Garden of Stone and the Ghost Hold Lichen, posing a catastrophic threat to Blingdenstone alongside Juiblex and the Pudding King.",
+    "source_quote": "they now faced not only Juiblex and the Pudding King but also the corrupting influence of Zuggtmoy herself",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  }
+]

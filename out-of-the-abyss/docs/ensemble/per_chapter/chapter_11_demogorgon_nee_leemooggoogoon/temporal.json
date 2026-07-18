@@ -1,0 +1,128 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 2nd day of the 3rd Tenday of Taraskh.",
+    "source_quote": "2nd day of the 3rd tenday of Taraskh",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "duergar count",
+    "fact": "A duergar or deep dwarf is present, a grim reflection of their mountain kin, with no warmth in their granite hearts and no laughter in their echoing halls.",
+    "source_quote": "duergar or deep dwarves, a grim reflection of their mountain kin. No warmth graces their granite hearts, and no laughter echoes in their echoing halls.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "sacrifice procedure",
+    "fact": "One kuo-toa per escapee jumps to do her bidding, prodding the escapees with spears and herding them toward a slight depression 20 feet from the altar, with a large grate at its center.",
+    "source_quote": "One kuo-toa per escapee jumps to do her bidding. They prod Zalthir and his fellow escapees with their spears, herding them toward a slight depression 20 feet from the altar, with a large grate at its center.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Darklake blood patches",
+    "fact": "There are several patches of blood in the dark lake, following the sudden cessation of screaming fish people and the emergence of a violent underwater threat.",
+    "source_quote": "There are several patches of blood in the dark lake.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "docks and boats",
+    "fact": "Docks and boats are attached to the cave walls, with Kuo-Toans fishing beside them and monitors standing guard on the docks.",
+    "source_quote": "He also notices docks and boats attached to them. He also notices Kuo-Toans fishing in the water beside the docks. Finally, he observes Kuo-Toan monitors standing on the docks, seemingly guarding the boats.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Ploop\u2019s thatched hut",
+    "fact": "Ploop\u2019s thatched hut contains stolen treasure, as Grygum pilfers whatever he can find after the ritual\u2019s completion.",
+    "source_quote": "He runs into Ploop\u2019s thatched hut. Once there, he pilfers whatever treasure he can find.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "ritual completion",
+    "fact": "The ritual is complete when the archpriest of the Deep Father calls out 'Leemooggoogoon' as her father strikes a final, fatal blow, causing Blopp to drop dead before the profane altar.",
+    "source_quote": "Just then, he hears the young archpriest of the Deep Father call out, 'Leemooggoogoon!' just as her father strikes a final, fatal blow. Blopp drops, dead, before the profane altar.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Demogorgon emergence",
+    "fact": "A thirty-foot-tall, two-headed, tentacled monster with crimson eyes and a body of cascading water bursts from the Darklake, identified by Grygum as Demogorgon, Prince of Demons.",
+    "source_quote": "A thick, oily tentacle bursts forth, followed by another. ... Two monstrous heads break the surface, resembling hideous, enraged baboons with wickedly curved tusks. ... The creature emerging from the Darklake stands thirty feet tall... 'Bahamut, save us; that\u2019s Demogorgon,' he shouts.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "escapee exodus",
+    "fact": "The escapees, led by Daz\u2019s swaggering confidence, mimic his posture and walk toward the boat away from the battle, ignored by the warring Kuo-Toans.",
+    "source_quote": "Daz shouts, 'We should check to see if we can find any supplies anywhere.' ... Daz notices the cleric running and runs after him. ... Everyone is both pleased and disappointed... They walk towards the boat, away from the battle, with the swagger of righteous, powerful, and dangerous adventurers.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "treasure hoard",
+    "fact": "Grygum gathers treasure from Ploop\u2019s hut, including gold and magic items, which the group views as valuable despite lacking immediate uses.",
+    "source_quote": "He pilfers whatever treasure he can find. ... Gold and magic would have to do. ... 'Gold to buy things and nothing to buy?' ... 'A hoard is always a valuable thing and a blessing from Bahamut.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "fish-people massacre",
+    "fact": "Kuo-Toans fishing in the Darklake are suddenly attacked by an unseen underwater enemy, resulting in their deaths and bloodied foam on the lake\u2019s surface.",
+    "source_quote": "Thorin then notices several Kuo-Toans who were previously in the water fishing and are now screaming. ... the screaming stops, and the water foams with blood. The fish people are no longer.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "factional betrayal",
+    "fact": "Ploop betrays his daughter and attacks her along with his allies, triggering a genocidal battle between followers of the Sea Mother and the Deep Father.",
+    "source_quote": "Ploop has betrayed his daughter, not the escapees, and attacks her along with his allies.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "free-for-all chaos",
+    "fact": "The Kuo-Toans engage in a free-for-all melee, attacking each other while ignoring the escapees, allowing the group to flee unnoticed.",
+    "source_quote": "Kuo-Toans are attacking other Kuo-Toans. And the sacrifices are now ignored. ... The Kuo Toans engaged in the melee ignore them.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Hemeth\u2019s revelation",
+    "fact": "Hemeth, a duergar arms dealer, confesses he was caught up in the ritual and promised weapons to the Archpriest of the Deep Father, who said his sacrifice would be weapon enough.",
+    "source_quote": "Hemeth.\" He spits out blood. \"I am an arms dealer and got caught up in this madness. I promised weapons to the Archpriest of the Deep Father, and she said that my sacrifice would be weapon enough.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum\u2019s realization",
+    "fact": "Grygum recognizes the entity as Demogorgon, recalling his mentor Grog'Bahamut\u2019s teachings on the Prince of Demons as the antithesis of Bahamut\u2019s virtues.",
+    "source_quote": "Grygum remembers from his training who and what the entity they were seeing was. He remembers his mentor, Grog'Bahamut, and what he said of the foul creature one evening. 'Demogorgon. The very name is a blasphemy against creation...'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin\u2019s cognitive dissonance",
+    "fact": "Thorin struggles to accept the reality of Demogorgon, recalling Shuushar\u2019s claim that Kuo-Toans create gods through faith, and questioning whether 'Leemooggoogoon' is the same as Demogorgon.",
+    "source_quote": "Thorin asks, 'Demo-who?' He recalls Shuushar saying that the Kuo-Toans could create gods with the power of their faith, and he knows that the archpriest said Leemooggoogoon, not Demogorgon.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "escapee consensus",
+    "fact": "The escapees, including Jimjar, collectively conclude they have survived the ordeal alive, despite the chaos and impending threat.",
+    "source_quote": "Jimjar mutters, 'We all made it alive.'",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "depression stonework",
+    "fact": "The stonework in the depression where the sacrifice was to occur is marred by the blood of countless past sacrifices, with the gentle lapping of the Darklake against the grate.",
+    "source_quote": "Zalthir observes that the stonework in the depression is marred by the blood of countless sacrifices, accompanied by the gentle sound of the Darklake lapping against the grate.",
+    "quote_verified": true
+  }
+]

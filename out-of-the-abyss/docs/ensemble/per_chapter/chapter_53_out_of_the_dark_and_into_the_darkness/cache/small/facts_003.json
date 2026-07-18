@@ -1,0 +1,100 @@
+[
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is reflecting on being protected by an anonymous, powerful entity in Menzoberranzan, and privately realizes he is the unexpected center of a larger, unresolved plot involving his survival and purpose.",
+    "source_quote": "I considered what remained. Someone in Menzoberranzan had spent generously \u2014 *they interrupt you, a lot* \u2014 to ensure that a male Drow apostate with no house affiliation and no apparent strategic value survived long enough to do whatever it was I was apparently supposed to do.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is displaying his characteristic contemplative stance, hesitating between action and stillness as he weighs the next move in a situation that demands careful judgment.",
+    "source_quote": "Thorin had that look he gets \u2014 the one where he's deciding whether to charge at the problem or stand very still and wait for it to explain itself.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is processing a theological observation about mysterious dispensations and later shows thoughtful consideration when Daz proposes auditing the books, indicating his reflective nature.",
+    "source_quote": "Grygum was probably filing away some theological observation about mysterious dispensations. ... Grygum looked thoughtful, which is his equivalent.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is quietly observing the unfolding situation, embodying a passive but perceptive presence without verbal or active intervention.",
+    "source_quote": "Zalthir, characteristically, was simply watching.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Milo Goodbarrel",
+    "fact": "Milo Goodbarrel, a halfling whose writings Daz has read extensively, coined the phrase *standing at the edge of the question that changes everything* to describe the feeling of being at the center of a pivotal, self-referential plot.",
+    "source_quote": "Milo Goodbarrel, that relentlessly hopeful halfling whose book I'd read too many times to admit, had a phrase for the sensation I was experiencing. He called it *standing at the edge of the question that changes everything.*",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Menzoberranzan",
+    "fact": "Menzoberranzan operates with a culture of extreme financial insulation for high-stakes transactions, where anonymity signals that the purchase is embarrassing, illegal, or dangerous to be associated with.",
+    "source_quote": "In Menzoberranzan, that level of insulation around a financial transaction means exactly one thing: the payer has significant reason not to be associated with the purchase. Which means the purchase is either embarrassing, illegal, or dangerous to be seen making.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "contract fulfillment",
+    "fact": "The mercenary contract was fulfilled without ceremony, leading to the departure of the sisters and the transition into a new phase of the party's mission.",
+    "source_quote": "The sisters departed. Professionally. Without ceremony. The contract was fulfilled; they were done.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the identity of the anonymous patron",
+    "fact": "An anonymous, powerful entity in Menzoberranzan has funded Daz's survival through cutouts, ensuring even hired blades don't know who paid \u2014 creating a central unresolved mystery driving the plot.",
+    "source_quote": "They had done this anonymously. Through cutouts. In a manner that ensured even the hired blades didn't know who was paying.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Daz's purpose",
+    "fact": "Daz is the unexpected focal point of a larger scheme \u2014 someone in Menzoberranzan intervened repeatedly to ensure his survival, but his ultimate purpose remains unknown.",
+    "source_quote": "to ensure that a male Drow apostate with no house affiliation and no apparent strategic value survived long enough to do whatever it was I was apparently supposed to do.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the origin of the plot",
+    "fact": "The entire sequence \u2014 capture, escape, Velkynvelve, months of running \u2014 may have originated from an unexpected act of solidarity: someone in Menzoberranzan decided to befriend or protect a nobody.",
+    "source_quote": "for all you know, the reason this all got started was because they all decided to be friends with the wrong drow.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Menzoberranzan",
+    "fact": "Menzoberranzan is a place where powerful entities operate through layers of deniability, and even the most mundane transactions can conceal dangerous or illicit motives.",
+    "source_quote": "In Menzoberranzan, that level of insulation around a financial transaction means exactly one thing...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "the mercenary contract",
+    "fact": "The mercenary contract has been fulfilled, marking the end of one phase and the beginning of another, and is now a relic of the sisters' professional departure.",
+    "source_quote": "The contract was fulfilled; they were done.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Velkynvelve",
+    "fact": "Velkynvelve is a past event or entity tied to Daz\u2019s escape and subsequent months of running, representing a dangerous encounter or threat in his history.",
+    "source_quote": "The whole of it \u2014 the capture, the escape, Velkynvelve, the months of running \u2014 threading back to a single point.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "Months have passed since the initial capture and escape, marking a significant duration of flight and survival for Daz.",
+    "source_quote": "Velkynvelve, the months of running \u2014 threading back to a single point.",
+    "quote_verified": true
+  }
+]

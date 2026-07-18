@@ -1,0 +1,576 @@
+[
+  {
+    "type": "date",
+    "subject": "Apr 5th, 2026",
+    "fact": "The session takes place on April 5th, 2026.",
+    "source_quote": "Date: Apr 5th, 2026",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Spire of Inevitable Reckoning",
+    "fact": "The party slips away from a dinner table at the Spire of Inevitable Reckoning.",
+    "source_quote": "dinner table of the Spire of Inevitable Reckoning",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Vraxen",
+    "fact": "Vraxen is one of the three parties in a confrontation at the dinner table.",
+    "source_quote": "three-way confrontation they had so carefully engineered between Vraxen, Veperyd, and the High Inquisitor Veris",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Veperyd",
+    "fact": "Veperyd is one of the three parties in a confrontation at the dinner table.",
+    "source_quote": "three-way confrontation they had so carefully engineered between Vraxen, Veperyd, and the High Inquisitor Veris",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Veris",
+    "fact": "Veris is the High Inquisitor involved in the confrontation at the dinner table.",
+    "source_quote": "three-way confrontation they had so carefully engineered between Vraxen, Veperyd, and the High Inquisitor Veris",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas notes with unease that their imp guide has vanished.",
+    "source_quote": "Akritas noted with unease that their imp guide had vanished somewhere in the commotion",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur works the lift mechanism with practiced ease.",
+    "source_quote": "Felkur wasted no time at the lift access, his expert hands working the mechanism with such practiced ease",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "stolen key",
+    "fact": "The party ascended the tower with the stolen key in hand.",
+    "source_quote": "ascended the tower with the stolen key in hand",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Abyssal 23",
+    "fact": "Felkur mocks the archaic Abyssal 23 operating system controlling the lift.",
+    "source_quote": "mock the archaic 'Abyssal 23' operating system controlling it",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "upper corridor",
+    "fact": "The upper corridor has a floor covered in a series of tiles.",
+    "source_quote": "upper corridor greeted them with an unsettling stillness, its floor covered in a series of tiles",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Glyph of Warding",
+    "fact": "A Glyph of Warding was located on the second tile of the corridor.",
+    "source_quote": "his fingers grazed the second tile\u2014a Glyph of Warding that would have detonated in his face",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim calls upon a powerful enchantment to strip away magical concealment.",
+    "source_quote": "Bramgrim called upon a powerful enchantment that stripped away all magical concealment",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "trap detection",
+    "fact": "Bramgrim reveals that every tile corresponding to a prime number is a trap.",
+    "source_quote": "every tile corresponding to a prime number was a trap waiting to be sprung",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "stone golem",
+    "fact": "A stone golem stands before the vault door, silent and immovable.",
+    "source_quote": "Standing before that door, however, was a stone golem\u2014silent, immovable, and utterly indifferent to reason or argument",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Vraxen",
+    "fact": "The stone golem is keyed to recognize Vraxen by scent alone.",
+    "source_quote": "the construct had been keyed to recognize Vraxen by scent alone",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "scent-extraction device",
+    "fact": "Felkur produces a small gadget for extracting unwanted flavors.",
+    "source_quote": "Felkur reached into his pack and produced a small, peculiar gadget",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Owlbear",
+    "fact": "The Owlbear had been bouncing on Vraxen's table and picked up the arcanaloth's scent.",
+    "source_quote": "the Owlbear had been bouncing on Vraxen's table not long ago and had picked up the arcanaloth's scent",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "golem bypass",
+    "fact": "Felkur applies the extracted scent and the stone golem steps aside.",
+    "source_quote": "Felkur extracted it, applied it, and the stone golem stepped silently aside",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "vault door",
+    "fact": "Beyond the golem lies a reinforced Mithril door with three distinct locking mechanisms.",
+    "source_quote": "Beyond the golem lay a reinforced Mithril door with three distinct locking mechanisms",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "temperature-controlled chamber",
+    "fact": "The room beyond the door is kept at a constant chill.",
+    "source_quote": "temperature-controlled chamber kept at a constant chill",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "soul coins",
+    "fact": "The vault walls are lined with soul coins.",
+    "source_quote": "walls lined floor to ceiling with shelves bearing soul coins",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "infernal ledgers",
+    "fact": "The vault walls are lined with infernal ledgers.",
+    "source_quote": "walls lined floor to ceiling with shelves bearing soul coins, infernal ledgers",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "contracts",
+    "fact": "The vault walls are lined with contracts written in the language of devils.",
+    "source_quote": "shelves bearing soul coins, infernal ledgers, and contracts written in the language of devils",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Lexicon of Oaths",
+    "fact": "The Lexicon of Oaths rests on a pedestal beneath a crystal dome.",
+    "source_quote": "At the center of the room, resting on a pedestal beneath a crystal dome, was the Lexicon of Oaths",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Lexicon of Oaths",
+    "fact": "The Lexicon of Oaths is a massive tome bound in devil hide.",
+    "source_quote": "a massive tome bound in devil hide",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Lexicon of Oaths",
+    "fact": "The Lexicon of Oaths has pages made from processed souls that glow with an eerie inner light.",
+    "source_quote": "its pages made from processed souls that glowed with an eerie inner light",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "automatic update",
+    "fact": "The Lexicon of Oaths automatically updates itself with every infernal contract struck in Maerimydra.",
+    "source_quote": "automatically updating itself with every infernal contract struck in Maerimydra",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "trap confirmation",
+    "fact": "Bramgrim confirms through enchanted sight that the room holds no further traps.",
+    "source_quote": "Bramgrim confirmed through his enchanted sight that the room held no further traps",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur Oldenwood",
+    "fact": "Transaction 44781 records that Felkur Oldenwood was intoxicated with a blood alcohol content of 0.18%.",
+    "source_quote": "one Felkur Oldenwood\u2014intoxicated, identification verified, blood alcohol content noted at a remarkable 0.18%",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Transaction 44781",
+    "fact": "Felkur sold a priceless artifact to a fence named Limping Oric for forty-five gold pieces.",
+    "source_quote": "sold a priceless artifact to a fence named Limping Oric for the sum of forty-five gold pieces",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Limping Oric",
+    "fact": "Limping Oric is a fence who bought the artifact from Felkur.",
+    "source_quote": "sold a priceless artifact to a fence named Limping Oric",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Watcher's Eye Brooch",
+    "fact": "The artifact in question was the Watcher's Eye Brooch belonging to the wizards of the Brotherhood of the Cloak.",
+    "source_quote": "The artifact in question was the Watcher's Eye Brooch belonging to the wizards of the Brotherhood of the Cloak",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Brotherhood of the Cloak",
+    "fact": "The Watcher's Eye Brooch belongs to the wizards of the Brotherhood of the Cloak.",
+    "source_quote": "Belonging to the wizards of the Brotherhood of the Cloak",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "divination activation",
+    "fact": "Felkur triggered an ability in the brooch that made its bearer impossible to locate through divination magic.",
+    "source_quote": "triggering an ability that made its bearer impossible to locate through any form of divination magic",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Phantom Ghost",
+    "fact": "The shadowy figure responsible for the theft became known in Mulmaster as the Phantom Ghost.",
+    "source_quote": "the shadowy figure responsible had become known in Mulmaster as the Phantom Ghost",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Maram il Vass",
+    "fact": "Maram il Vass sold Felkur's information and placed a contract on the party.",
+    "source_quote": "Maram il Vass had sold Felkur's information and placed a contract on the party",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "name alteration",
+    "fact": "Felkur replaces his own name in the Lexicon with that of Veris of Mulmaster.",
+    "source_quote": "replacing his own name with that of Veris of Mulmaster",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Mulmaster",
+    "fact": "Veris of Mulmaster is from a city in Faer\u00fbn on the Moonsea.",
+    "source_quote": "Veris of Mulmaster, a city in Faer\u00fbn on the Moonsea",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Shard of Crysalized Faerzess",
+    "fact": "Felkur pockets the Shard of Crysalized Faerzess, a large pure crystal on the vault shelf.",
+    "source_quote": "Felkur first pocketed the Shard of Crysalized Faerzess\u2014a large, pure crystal sitting on the vault shelf",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "blame shifting",
+    "fact": "Felkur adds a forged entry attributing the theft of the Shard to the Phantom Ghost.",
+    "source_quote": "He added a forged entry attributing the theft of the Shard to the Phantom Ghost",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "hidden door",
+    "fact": "Felkur located a hidden door in the vault wall.",
+    "source_quote": "Felkur located a hidden door in the vault wall",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Spire of Inevitable Reckoning peak",
+    "fact": "The party emerges at the peak of the Spire of Inevitable Reckoning through the hidden door.",
+    "source_quote": "emerging at the peak of the Spire of Inevitable Reckoning",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "teleportation circle",
+    "fact": "A twenty-foot diameter teleportation circle pulses at the center of the peak chamber.",
+    "source_quote": "At the center of the room pulsed a twenty-foot diameter teleportation circle",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "teleportation circle connection",
+    "fact": "The teleportation circle connects to five predetermined locations deep in the Underdark.",
+    "source_quote": "connected to five predetermined locations deep in the Underdark",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Fae crystals",
+    "fact": "Felkur recalibrates the circle using the Fae crystals the party had collected.",
+    "source_quote": "Felkur immediately set to work recalibrating it using the Fae crystals the party had collected",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein plants himself against the iron door leading to the staircase.",
+    "source_quote": "Daein and the Owlbear planted themselves against it",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "door breach",
+    "fact": "Veris commands the golem to tear the door from its hinges.",
+    "source_quote": "Veris commanded it to tear the door from its hinges entirely",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "door breach",
+    "fact": "The door is torn from its hinges, sending splinters of iron flying across the chamber.",
+    "source_quote": "sending splinters of iron flying across the chamber",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein throws himself at the golem in an attempt to shove it back.",
+    "source_quote": "Daein threw himself at the golem in an attempt to shove it back through the opening",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Owlbear attack",
+    "fact": "The Owlbear launches itself at the golem with its enchanted claws.",
+    "source_quote": "The Owlbear, undeterred, launched itself at the golem with its enchanted claws",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Bramgrim ward",
+    "fact": "Bramgrim calls upon a powerful ward causing spectral guardians to erupt into being.",
+    "source_quote": "Bramgrim called upon a powerful ward, and spectral guardians erupted into being around him",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Felkur invisibility",
+    "fact": "Felkur is rendered invisible by Daein's magic.",
+    "source_quote": "Felkur, rendered invisible by Daein's magic",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Felkur cannon blast",
+    "fact": "Felkur deploys his eldritch cannon and sends a blast of fire into the golem.",
+    "source_quote": "deployed his eldritch cannon and sent a blast of fire roaring into the golem",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Akritas hunter's mark",
+    "fact": "Akritas marks the construct with a hunter's mark.",
+    "source_quote": "Akritas marked the construct with a hunter's mark",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Akritas arrow shot",
+    "fact": "Akritas puts an arrow into the golem with practiced precision.",
+    "source_quote": "put an arrow into it with practiced precision",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "portal stabilization",
+    "fact": "Felkur installs the shattered nodes and rewires the Fae crystals into the portal mechanism.",
+    "source_quote": "managed to install the shattered nodes and rewire the Fae crystals into the portal mechanism",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Veris teleportation",
+    "fact": "Veris teleports past the frontline and materializes inside the chamber.",
+    "source_quote": "Veris, growing increasingly desperate and furious, teleported past the frontline entirely and materialized inside the chamber",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Veris",
+    "fact": "Veris bears wounds from the three-way battle below.",
+    "source_quote": "bearing wounds from the three-way battle below",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Varexis",
+    "fact": "Varexis is mentioned as one of the hosts distracted by the confrontation.",
+    "source_quote": "hosts\u2014Vraxen, Veperyd, and Varexis",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Vraxen's personal journal",
+    "fact": "The party finds Vraxen's personal journal detailing plans to betray his Yugoloth superiors.",
+    "source_quote": "Vraxen's personal journal detailing plans to betray his Yugoloth superiors",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "blank devil-binding contracts",
+    "fact": "The party finds blank devil-binding contracts in the vault.",
+    "source_quote": "blank devil-binding contracts",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Twin Moons of Winter Deep",
+    "fact": "Transaction 44781 occurred on a night during the Twin Moons of Winter Deep.",
+    "source_quote": "on a night during the Twin Moons of Winter Deep",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Moonsea",
+    "fact": "Mulmaster is a city in Faer\u00fbn on the Moonsea.",
+    "source_quote": "Veris of Mulmaster, a city in Faer\u00fbn on the Moonsea",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Yugoloth",
+    "fact": "Vraxen plans to betray his Yugoloth superiors.",
+    "source_quote": "plans to betray his Yugoloth superiors",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "high investigators executed",
+    "fact": "High investigators had been executed for their failure to produce answers regarding the theft.",
+    "source_quote": "High investigators had been executed for their failure to produce answers",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "shards of iron",
+    "fact": "Splinters of iron fly across the chamber when the door is torn down.",
+    "source_quote": "sending splinters of iron flying across the chamber",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Veris revenge vow",
+    "fact": "Veris screams that he would have Felkur's head and have his revenge.",
+    "source_quote": "screaming that he would not be framed, that he would have Felkur's head, and that he would have his revenge",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "poisonous clouds",
+    "fact": "The sky above the peak offers nothing but poisonous clouds that make flight a death sentence.",
+    "source_quote": "the sky above offered nothing but poisonous clouds that made flight a death sentence",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "silver inlay",
+    "fact": "The teleportation circle has silver inlay glowing with a sickly green light.",
+    "source_quote": "its silver inlay glowing with a sickly green light",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "portal flickering",
+    "fact": "The teleportation circle's green light flickers toward something new as Felkur works.",
+    "source_quote": "its green light flickering toward something new\u2014a way out",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Phantom Ghost legend",
+    "fact": "The party realizes the Phantom Ghost is a legendary, untraceable ghost of a criminal.",
+    "source_quote": "a legendary, untraceable ghost of a criminal",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "craftsman",
+    "fact": "A craftsman left the Watcher's Eye Brooch carelessly on a workbench.",
+    "source_quote": "left carelessly on a workbench by a craftsman",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "devils",
+    "fact": "Contracts in the vault are written in the language of devils.",
+    "source_quote": "contracts written in the language of devils",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "crystal dome",
+    "fact": "The Lexicon of Oaths rests beneath a crystal dome.",
+    "source_quote": "resting on a pedestal beneath a crystal dome",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "pedestal",
+    "fact": "The Lexicon of Oaths rests on a central pedestal.",
+    "source_quote": "resting on a pedestal beneath a crystal dome",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "shelves",
+    "fact": "The vault walls are lined floor to ceiling with shelves.",
+    "source_quote": "walls lined floor to ceiling with shelves",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "elevator approach",
+    "fact": "The party hears the elevator approaching, signaling someone is coming.",
+    "source_quote": "The party hears the elevator approaching, signaling that someone is coming",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "soulcoin ledger",
+    "fact": "The party searches the vault and finds a soulcoin ledger.",
+    "source_quote": "The party searches the vault and finds a soulcoin ledger",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "name scrambling decision",
+    "fact": "Felkur decides to scramble his entry rather than ripping the page out.",
+    "source_quote": "Felkur decides to scramble his entry in the Lexicon of Oaths rather than ripping the page out",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "name change success",
+    "fact": "Felkur successfully changes the seller's name in the contract to Veris of Mulmaster.",
+    "source_quote": "Felkur successfully changes the seller's name in the contract from his own to that of Veris of Mulmaster",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "forged entry creation",
+    "fact": "Felkur creates a forged entry attributing the theft to the Phantom Ghosts.",
+    "source_quote": "Felkur creates a forged entry in the ledger attributing the theft of the Shard of Crysalized Faerzess to the 'Phantom Ghosts'",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "battle duration",
+    "fact": "Six more agonizing rounds stand between the party and their escape.",
+    "source_quote": "six more agonizing rounds standing between the party and their escape",
+    "quote_verified": true
+  }
+]

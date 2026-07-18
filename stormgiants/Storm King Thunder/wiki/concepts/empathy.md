@@ -11,3 +11,7 @@ sources: ["fiora_bendaega.md"]
 - **Definition:** Approach to building relationships characterized by calculated empathy.
 - **Matters:** Important for understanding her personality and interactions.
 - **Existing:** Likely already exists in the wiki under a similar concept.
+
+## Related
+
+- [[empathy-and-rapport-building]]

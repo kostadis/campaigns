@@ -19,7 +19,7 @@ New adventurers, however, still tried to ply their trade. And there was always a
 And if you can’t find adventure above ground, there is always below ground. 
 
 
-Or at least that’s what the half-orc Gyrgum thought to himself as he sat in a prison cell - again. 
+Or at least that’s what the half-orc Grygum thought to himself as he sat in a prison cell - again. 
 
 
 At least this time, he wasn’t alone; there was Daz, the Drow Elf Magic User, Thorin Giantfriend, whose experience with giants was radically different than his, and the very quiet Zalthir, a dragonborn monk. 
@@ -43,7 +43,7 @@ A group of Drows found them unconscious in the chute. When they woke up, they we
 Daz shook his head. Daz explained that the City of Menzoberranzan was a city where the Cult of Lolth was very powerful, and enslaved people didn’t have a very long and healthy life. Drow who were apostates tended to have an even shorter life than other slaves. And apostates that were male Drow Elves, the shortest-lived of all. 
 
 
-Gyrgum sighed and thought, “Not again.” 
+Grygum sighed and thought, “Not again.” 
 
 
 The journey through the Underdark took two, or was it three days? With no sunlight to guide them, the only things that gave him a sense of time were the long periods of rest and the feeling of exhaustion at the end of the day. 
@@ -290,16 +290,16 @@ Sarith, seeing how Jimjar has become the center of attention, shouts, “I too h
 
 
 ## 3rd day of the 2nd tenday of Taraskh, 1492
-### Gyrgum
+### Grygum
 
 
 The prison door creeks open, and a voice rings, “Wake up.” 
 
 
-Gyrgum opens his eyes. “How much time has passed?” he wonders. From his time as a prisoner the last time, he’s learned not to worry about how much time has passed. 
+Grygum opens his eyes. “How much time has passed?” he wonders. From his time as a prisoner the last time, he’s learned not to worry about how much time has passed. 
 
 
-The voice speaks in undercommon—a language Gyrgum doesn’t understand. 
+The voice speaks in undercommon—a language Grygum doesn’t understand. 
 
 
 But he can gather from the gestures that Ront and Prince Derendil, the deluded Quaggoth, are to follow this Drow. 
@@ -320,7 +320,7 @@ Another Drow points at Daz, Sarith, and Stool. Daz has a very sour expression.
 “Oh dear, Guldor has the dirty job of cleaning chamber pots. I wonder what he failed at.” 
 
 
-Then, at last, it’s Gyrgum’s turn. A Drow appears and points at Shuushar, Topsy, Turvy, and Gyrgum. Shuushar smiles, or his mouth spreads in a way that might be a smile, “Excellent, Imbros wants us to cook.” 
+Then, at last, it’s Grygum’s turn. A Drow appears and points at Shuushar, Topsy, Turvy, and Grygum. Shuushar smiles, or his mouth spreads in a way that might be a smile, “Excellent, Imbros wants us to cook.” 
 
 
 ## ![image]()
@@ -391,7 +391,7 @@ He notices that Elspeth sees him pocket the paper. He notices that she finds a c
 
 
 As the basket comes up, he notices Grygum entering a cave. 
-### Gyrgum 
+### Grygum 
 . 
 As Grygum walks towards the mess hall, the orc thinks, “Not speaking undercommon is awkward, but then again, understanding the language of your captors may be a problem. And anyway, I’ve got plenty of folks around me who can translate.” 
 
@@ -525,13 +525,13 @@ Later that day, Daz is back in the prison cell, surrounded by his fellow prisone
 Daz notes that this allows them to coordinate any plans without being discovered. 
 
 
-Topsy and Turvy are very excited about Gyrgum’s cooking. Even Shuushar seems excited, although he cautions the orc, “If you were to show this cooking to my people, they might imagine a god like you.” 
+Topsy and Turvy are very excited about Grygum’s cooking. Even Shuushar seems excited, although he cautions the orc, “If you were to show this cooking to my people, they might imagine a god like you.” 
 
 
 It’s then that Buppido speaks, or instead projects his mind, “The Divine plan says we must collaborate and share information.” 
 
 
-Gyrgum has a peculiar expression as Buppido says the word divine. Later, Daz learns from the cleric that Buppido thinks he is some kind of god, or he is a god. 
+Grygum has a peculiar expression as Buppido says the word divine. Later, Daz learns from the cleric that Buppido thinks he is some kind of god, or he is a god. 
 
 
 After sharing the information, Buppido says, “The divine plan requires that you create a distraction while I escape.”
@@ -546,7 +546,7 @@ Buppido looks surprised, “We?”
 Thorin, who also picked up on the derro’s insanity, says, “Well, how else will we protect you so that you can fulfill the divine plan?” 
 
 
-The derro stares at Gyrgum and says, “You are quite right. You have pledged your swords and your spells! And your lives.” 
+The derro stares at Grygum and says, “You are quite right. You have pledged your swords and your spells! And your lives.” 
 
 
 Daz thinks, “At least we have that.” 
@@ -559,8 +559,8 @@ Buppido, like any mysterious god or charlatan masquerading as a god, would say, 
 
 
 ## 4th day of the 2nd Tenday of Taraskh
-### Gyrgum
-The next day, Gyrgum goes to the kitchen again. This time, six Drow soldiers are present. 
+### Grygum
+The next day, Grygum goes to the kitchen again. This time, six Drow soldiers are present. 
 
 
 Shuushar explains that they heard about his fantastic show and wanted to experience it themselves.
@@ -569,7 +569,7 @@ Shuushar explains that they heard about his fantastic show and wanted to experie
 The orc is pleased but wonders how to steal a knife. Topsy and Turvy look at him and wink. Seeing how they successfully stole food, he guesses they might be better placed to steal a knife. 
 
 
-As Gyrgum, with theatrical flair, tosses ingredients into the air, moves like a dancer, and hums a tune, Topsy and Turvy steal several knives. 
+As Grygum, with theatrical flair, tosses ingredients into the air, moves like a dancer, and hums a tune, Topsy and Turvy steal several knives. 
 
 
 The drow soldiers, delighted at this entertainment, ignore the two deep gnomes who make off with a knife. 
@@ -663,7 +663,7 @@ Zalthir says, “You seem to be confident we will escape and live.”
 “Wanna bet?” 
 
 
-Gyrgum asks, “Where will we find safety?” 
+Grygum asks, “Where will we find safety?” 
 
 
 Eldeth laughs, “Safety? This is the Underdark.  There is not enough resources or space for anyone. Survival depends on your wits. People tend to distrust outsiders and view them as a resource to be used.” 
@@ -729,7 +729,7 @@ The rest of the prisoners, led by Buppido, take advantage of the distraction, ru
 Prince Derendil declares, “I am already armed in this hideous form, and it would bring me great joy to kill this drow.” He then charges at Imbros. 
 
 
-Gyrgum decides that an armed cleric is better than a disarmed cleric and follows his fellow prisoners to the armory.
+Grygum decides that an armed cleric is better than a disarmed cleric and follows his fellow prisoners to the armory.
 
 
 Imbros realizes that this revolt has become much more dangerous. He strikes Thorin, who falls, bleeding and unconscious. 
@@ -1008,7 +1008,7 @@ Zalthir notices that Sarith is not under the rocks and thinks, “We have not lo
 He looks at Daz, “If I don’t get him  out of there, he will die.” He braces against some rocks and shoves them out of the way. Daz is injured and unconcious but alive.
 
 
-Stool is relieved to see that Gyrgum is alive. Gyrgum tells the frightened Myconid child, “Go help Shuushar.” 
+Stool is relieved to see that Grygum is alive. Grygum tells the frightened Myconid child, “Go help Shuushar.” 
 
 
 And Buppido shouts, “The divine plan said you would rescue me, Sarith!” 
@@ -1107,7 +1107,7 @@ Jim Jar mutters, “That’s what happens with Kuo-Toans, who think they aren’
 Sathir mutters about the need to find a path through the cave to the next tunnel and is about to give up when Grygum shouts, “Is this what you are looking for?”
 
 
-Sathir mutters, “Yes, I saw that.” He looks annoyed, “I didn’t need your help. But it’s good that you can help.” And then rushes down towards the tunnel that Gyrgum saw. 
+Sathir mutters, “Yes, I saw that.” He looks annoyed, “I didn’t need your help. But it’s good that you can help.” And then rushes down towards the tunnel that Grygum saw. 
 
 
 As the day ends, Sathir explains, “We did well to put some distance. But we have no water. And if we don’t find some soon, things will get unpleasant. Tomorrow, we must go slow. Eldeth, it’s up to you to hide us.” 
@@ -1134,7 +1134,7 @@ Fortunately, the escapees find both in the form of a few Barrelstalk mushrooms. 
 Eldeth covers the rear as they travel, trying to obscure any evidence of their travels. Buppido seems particularly interested in her tricks. 
 
 
-Daz, Gyrgum, Thorin, and Zalthir try to help the dwarf. Eldeth tries not to be annoyed at all of the help. 
+Daz, Grygum, Thorin, and Zalthir try to help the dwarf. Eldeth tries not to be annoyed at all of the help. 
 
 
 As the day progresses, they arrive at a narrow passageway lined with bioluminescent green moss. This moss grows in warm and damp areas and is particularly common near steam tunnels and vents. 
@@ -1851,7 +1851,7 @@ The Drow of Velkynvelve is now almost forgotten.
 
 
 “Stop,” she shouts. 
-She is standing in front of a cave covered with mushrooms. She shouts, “Tinmmasks.” 
+She is standing in front of a cave covered with mushrooms. She shouts, “Timmasks.” 
 Everyone looks closer and sees a field of squat toadstools growing to about two feet in width and height. They are grouped in clusters, with no more than four in a cluster. The mushroom has a beige-colored cap crossed with red and orange stripes.
 
 
@@ -2347,7 +2347,7 @@ Zalthir,  who has been observing everyone, can’t tell one faction of fish-folk
 
 
 Just then, he hears Bloppblippodd call for the sacrifices to be brought forth. One kuo-toa per escapee jumps to do her bidding. They prod Zalthir and his fellow escapees with their spears, herding them toward a slight depression 20 feet from the altar, with a large grate at its center. 
-Jim Jir mutters, “Wanna bet on how many of us will come out of this alive?” 
+Jimjar mutters, “Wanna bet on how many of us will come out of this alive?” 
 Daz announces, “We’re all going to come out of this alive.” 
 
 
@@ -2410,7 +2410,7 @@ In many ways, it’s amazing how the brain will convince you that the thing you 
 Thorin was experiencing that. 
 
 
-But Grygum remembers from his training who and what the entity they were seeing was. He remembers his mentor, Grog'Bahamut, and what he said of the foul creature one evening. 
+But Grygum remembers from his training who and what the entity they were seeing was. He remembers his mentor, Gorg Bahamut, and what he said of the foul creature one evening. 
 "Demogorgon.  The very name is a blasphemy against creation, a festering wound upon the fabric of reality.  He is a creature of pure chaos, a monstrous embodiment of the Abyss's insatiable hunger for destruction.  Two heads, each a font of corruption, embody the duality of his vile nature: one whispers insidious lies, tempting the weak to embrace the darkness, while the other roars with primal fury, reveling in carnage and despair.  His form is a grotesque mockery of life, a twisted amalgamation of reptilian savagery and demonic power.  Tentacles replace hands, dripping with the venom of chaos, while his twin necks support heads that mirror the fractured nature of his soul.
 He is the antithesis of all Bahamut stands for: justice, order, and compassion.  Where Bahamut offers protection and guidance, Demogorgon sows discord and ruin.  Where Bahamut inspires hope, Demogorgon revels in despair.  He is a predator of souls, a corrupter of the innocent, and a destroyer of worlds.  He commands legions of demons, each a vile reflection of his depravity, and his influence spreads like a plague across the planes.
 To face Demogorgon is to confront the ultimate darkness, the purest form of evil.  Yet, even in the face of such horror, we, the followers of Bahamut, will not falter.  We will stand against him, armed with faith and righteousness, and we will fight to protect the innocent from his insidious grasp.  For even in the deepest shadows, the light of justice can prevail."
@@ -2904,7 +2904,7 @@ And yet, despite everything Hemeth said, Daz is unprepared for what he sees. The
 And the ambiance is just that of work. The sound of hammers warping metals, the stench and heat, and the light of the smelters make all of Gracklstugh appear as one large work camp. But the acrid smoke makes breathing hard and burns through his sense of smell, which he will remember most from his time here. 
 
 
-Gyrgum asks, “So what are we doing here?” 
+Grygum asks, “So what are we doing here?” 
 
 
 Daz looks at him and is about to answer when Jimjar whispers, “Buy equipment so we can survive more easily. Get information on how to get out of the Underdark.” 
@@ -2925,7 +2925,7 @@ Daz remembers what Hemeth had said about the Blade Bazaar:
 “To the Blade Bazaar,” he says out loud. 
 
 
-## Thorin
+### Thorin
 But before they can get to the bazaar, they must reach the docks. And before they reach the docks, Thorin remembers some castaways. He looks at Brannum Redmarch and Buppido and says, “What are we going to do about them?” 
 
 
@@ -3134,7 +3134,7 @@ Zalthir strikes the giant once, focusing his mind on striking again and striking
 Thorin feints and strikes the giant. The creature howls. 
 
 
-Gyrgum raises his holy symbol again and speaks the words of power, and the giant again burns. 
+Grygum raises his holy symbol again and speaks the words of power, and the giant again burns. 
 # Chapter 16 Wanna Bet on Who Dies First?
 
 
@@ -3230,7 +3230,7 @@ Then he says, “I ask you to visit me at Cairngorm Cavern before you leave the 
 The dwarf watches how the Duergar gives the Stone Giant the briefest of scowls, showing how much they don’t want to give this non-Duergar permission to visit their city. 
 
 
-## Zalthir
+### Zalthir
 
 
 Zalthir is trying hard to protect himself from being burned alive, crushed by a giant, or arrested. 
@@ -3284,7 +3284,7 @@ There is a moment of hesitation, “The offer expires tomorrow. And if you don�
 Gartokkar disappears. 
 
 
-## Daz
+### Daz
 
 
 The story of this dragon intrigues Daz. 
@@ -3890,7 +3890,7 @@ Hgraam sighs again.
 Thorin immediately understands what’s going on. The Deep King has relied on his secret invisible police to control the city, and so opposition has gone underneath it. Thorin also understands why they are underneath the city. To get to the tunnels, the Duergar would have to go through the Derro, and that would trigger a bloodbath. 
 
 
-Zalthir turns to Thorin, “The Stone Giant is particularly attuned to the rocks? So what we have seen as localized appearances of demons is not localized. The demons at Valkenvylve, the Beholder in the Spidersilk caves, the demonic manta rays, and Demogorgon, all of this is no coincidence.” 
+Zalthir turns to Thorin, “The Stone Giant is particularly attuned to the rocks? So what we have seen as localized appearances of demons is not localized. The demons at Velkynvelve, the Beholder in the Spidersilk caves, the demonic manta rays, and Demogorgon, all of this is no coincidence.” 
 
 
 Grygum whispers, “The end of the great sundering ended the era that allowed the gods to walk in Faerûn freely. It’s why the Cult of Tiamat had to resort to such an extraordinary ritual to bring her into the prime material plane. That so many demons are walking freely is not normal. There is some kind of powerful magic that has enabled this.” 
@@ -3948,7 +3948,7 @@ So to the west he goes.
 
 As he walks, he thinks how curious it is that this Derro is a courier for so many factions. But when he gets to the Derro slums, it’s obvious why. The Derro slums are dangerous to anyone. Even from here, it’s evident that the homes of the Derro are mostly burrows carved into the walls and simple structures piled atop one another. The district's dirty and cluttered streets clearly formed as dwellings spread and came together, not as a product of planning. The contrast with the clean, perfect Duergar dwellings is obvious. And the resentment and hatred become apparent. 
 
-And now, why Errde Blackstaff and the Keeper of the Flames were so anxious to find a non-Duergar to come here is clear. 
+And now, why Errde Blackskull and the Keeper of the Flames were so anxious to find a non-Duergar to come here is clear. 
 
 
 He observes, “Droki is someone all of the factions trust and can get to the Whorlstone Caverns safely through that.” And he points to the Derro slums. 
@@ -4353,7 +4353,7 @@ Pelek hears Thorin’s comment and laughs, “There’s nothing psychedelic abou
 Daz is unnerved by the auditory experience caused by air simply whistling through perforated mushrooms within the thicket, and let’s Thorin lead on. 
 
 
-As they advance, Daz notices that the thicket is full of mushrooms. “Food for later,” he mutters and pulls out his blade. He picks up some barrelstalk, a large, cask-shaped fungus that stores water, bluecap for making flour, ripplebark that tastes good toasted, trillimac that can be used for scrolls and makes a bread-like substance that can be rolled up, waterorb for storing water, and zurkwhood for making things. 
+As they advance, Daz notices that the thicket is full of mushrooms. “Food for later,” he mutters and pulls out his blade. He picks up some barrelstalk, a large, cask-shaped fungus that stores water, bluecap for making flour, ripplebark that tastes good toasted, trillimac that can be used for scrolls and makes a bread-like substance that can be rolled up, waterorb for storing water, and zurkhwood for making things. 
 
 
 As the group navigates the forest, he points out Nightlights—mushrooms that grow to 15 feet and shed light in a 15-foot-by-15-foot circle. When they are touched or cut, they stop glowing.
@@ -4631,7 +4631,7 @@ Grygum is silent.
 “She has four guards.” 
 
 
-Thorin growls, “We don’t have the resources to mount a full frontal assault. So we could just return, give the information, and then boogie out of here. We still have a boat. But I still like the  plan of escaping on the back of Thermbachaud.” 
+Thorin growls, “We don’t have the resources to mount a full frontal assault. So we could just return, give the information, and then boogie out of here. We still have a boat. But I still like the  plan of escaping on the back of Themberchaud.” 
 
 
 Grygum mutters, “Bahamut commands that I save the egg.” 
@@ -5003,7 +5003,7 @@ The merchant whimpers apologetically, “I am a merchant, I have to question eve
 Grygum is impressed with Daz's cold calculation and watches as Werz hands over the coins. 
 
 
-As he hands over the money, Werz says, “Since we are business partners, let me tell you about some information you might find helpful. As a merchant, I know how the clans feel about the Deepking. Clan Ironshadow’s clan leader is willing to wait out the Deepking’s madness, but other clan members are unhappy. Clan Tharzgad has been complaining about raids by the Grey Ghosts. Although many clans are dissatisfied, some, like Clan Xundom, will support the Deepking if war breaks out.” 
+As he hands over the money, Werz says, “Since we are business partners, let me tell you about some information you might find helpful. As a merchant, I know how the clans feel about the Deepking. Clan Ironshadow’s clan leader is willing to wait out the Deepking’s madness, but other clan members are unhappy. Clan Thrazgad has been complaining about raids by the Grey Ghosts. Although many clans are dissatisfied, some, like Clan Xundom, will support the Deepking if war breaks out.” 
 
 
 Grygum yawns. 
@@ -5145,7 +5145,7 @@ Zalthir tries to look confused, but she has already left.
 Daz smiles, “They all know that we are going into the Whorlstone tunnels, and they all hope the information we provide will help them. The question is, how do we get the information and profit most?” 
 
 
-Grygum coughs, “And free Thermbachaude.” 
+Grygum coughs, “And free Themberchaud.” 
 
 
 # Chapter 18.2 
@@ -5173,7 +5173,7 @@ The cleric of Bahamut is saddened. Daz detects a resolve to hurt the Derro magic
 ### Zalthir
 
 
-Zalthir marches the group back through the same path they took last time, going over the lake, and then through the fungi forest. He then follows the path towards the Raucus Mesa. 
+Zalthir marches the group back through the same path they took last time, going over the lake, and then through the fungi forest. He then follows the path towards the Raucous Mesa. 
 
 
 As he approaches the intersection that leads to the assassin’s lair, two Derro materialise.
@@ -5508,7 +5508,7 @@ They just... fell apart after that. Zalthir and Thorin were a wall of quiet viol
 
 
 # Chapter 19 The Ember Vanguard
-## Zalthir
+### Zalthir
 
 
 He stands in the darkness. He hears nothing. Then he hears a shout. 
@@ -5562,14 +5562,14 @@ Zalthir jumps off the mesa and heads to an alcove in the northeast corner. There
 While Daz and Pelek exchange pleasantries, and Grygum searches the bodies he heads to the northwest corner where there is a desk with some papers. 
 
 
-He finds a journal by Pliinki. 
+He finds a journal by Plinki. 
 
 
-Pliinki's Journal
-Here are some journal entries from the perspective of Pliinki, detailing her macabre experiments and fervent beliefs:
+Plinki's Journal
+Here are some journal entries from the perspective of Plinki, detailing her macabre experiments and fervent beliefs:
 
 
-### Pliinki's Journal
+### Plinki's Journal
 **Day 17 – The Stone of Diirinka**
 The Obelisk. Such a magnificent, fractured thing! Hidden here by Diirinka himself, I am certain. Its black metal hums with quasi-magical energy, a power just waiting to be unleashed. I have tried the Thrazgad ore, as Narrak suggested, to mend its cracks, but it merely sits "discarded and forgotten" next to my workbenches. Foolish duergar, not to understand the true purpose of this ancient power! It will conquer Gracklstugh, just as I plan. Today, I touched it with a spark of my own will, and it flashed! A mere flicker, but a sign! A squeal of glee escaped me. Soon, my Prince, soon.
 **Day 25 – The Prince's Gift Arrives**
@@ -5585,33 +5585,33 @@ The egg is nearing its time! Weeks, they say, until it hatches. I can already fe
 He also finds some letters 
 
 
-### Letter 1: From Pliinki to Uskvil (Gray Ghosts Leader)
+### Letter 1: From Plinki to Uskvil (Gray Ghosts Leader)
 ***To: Uskvil, Master Thief***
 *The Egg has arrived! Your operatives, those foolish Gray Ghosts, delivered it precisely as planned, though they do not comprehend the true glory of their retrieval. The Keepers of the Flame are in a panic over its loss, believing it merely a "replacement" for their bloated wyrm. They are so blind! This is no mere insurance policy; it is the vessel for my greatest creation, a gift worthy of Demogorgon himself.*
 *The mutations are taking hold, just as my notes predicted. Soon, the two-headed wyrmling will be ready to serve as our Prince's mount. How fares the Thrazgad ore? Narrak mentioned you were assisting with its application to the Obelisk. It refuses to accept the material so far, stubbornly sitting "discarded and forgotten" next to my workbenches. We must find a way to mend its fractures, for it is the key to conquering Gracklstugh and offering it as a sacrificial gift to our Lord.*
 *Continue your diversions. The city's destabilization proceeds apace, fueled by the Deepking's escalating paranoia and erratic edicts. Keep the Deep King "delighted" in his ignorance.*
-*By Diirinka's Fractured Stone, Pliinki*
+*By Diirinka's Fractured Stone, Plinki*
 
 
-### Letter 2: From Aliinka (Council of Savants / Gray Ghosts) to Pliinki
-***To: Pliinki, Most Devoted***
+### Letter 2: From Aliinka (Council of Savants / Gray Ghosts) to Plinki
+***To: Plinki, Most Devoted***
 *Your updates on the Prince's Gift are... stimulating. The Keepers of the Flame remain obsessed with their "missing" egg, a truly delightful piece of chaos we've unleashed upon them. Uskvil confirmed the successful retrieval of both the dragon egg and the Clan Thrazgad ore, as ordered. The Deepking remains blissfully unaware of his true vulnerability.*
 *Our operatives, under the guise of the Gray Ghosts, continue their work in the city, ensuring the whispers of dissent spread like contagion. The Deepking's increased reliance on the Empty-Scabbard Killers for his wanton assassinations only serves our purpose, drawing attention away from our true agenda. Captain Blackskull of the Stone Guard, in her own misguided paranoia, is actively searching for "corruption", unwittingly aiding our efforts to sow discord.*
 *Narrak is pleased with the Council's continued indoctrination; almost all members have now embraced the true path, thanks to our careful placements of the 'Y' carvings. The city spirals precisely as we planned, preparing for the true glory that awaits it.*
 *For the Coming, Aliinka*
 
 
-### Letter 3: From Pliinki to Uskvil
+### Letter 3: From Plinki to Uskvil
 ***To: Uskvil, My Resolute Assistant***
 *My frustration with the Obelisk grows. That acid-resistant ore from the Thrazgad Clan, which you so expertly acquired, has proven useless in mending its cracks. It still sits "discarded and forgotten" next to my workbenches. The quasi-magical energy it leaks promises so much, but its fractures defy my touch. How are we to fully harness its power to conquer Gracklstugh if it resists simple repair?*
 *Meanwhile, the egg flourishes! The two-headed mutation is nearly complete, a testament to the Prince's foresight and my dedication. I can feel the life within it, pulsing with demonic potential. This "creation" for Demogorgon will be flawless, a true measure of our devotion.*
 *Ensure the Deepking's hit list remains in the assassins' hands. The chaos it creates serves to further erode his authority and prepare the populace for what is to come. Our sacrifices will be glorious.*
-*The Stone Hungers, Pliinki*
+*The Stone Hungers, Plinki*
 
 
-### Letter 4: From Narrak (Cult Leader) to Pliinki
-***To: Pliinki, My Inspired Disciple***
-*The seeds we've sown are bearing fruit, Pliinki. The madness and corruption spread throughout Gracklstugh. The Deepking, in his senile paranoia, continues to issue edicts that weaken his own authority, and his reliance on the Empty-Scabbard Killers to eliminate "opponents" is a gift. Errde Blackskull is consumed by her own "conspiracy theories," hunting phantoms while the true power shifts beneath her feet.*
+### Letter 4: From Narrak (Cult Leader) to Plinki
+***To: Plinki, My Inspired Disciple***
+*The seeds we've sown are bearing fruit, Plinki. The madness and corruption spread throughout Gracklstugh. The Deepking, in his senile paranoia, continues to issue edicts that weaken his own authority, and his reliance on the Empty-Scabbard Killers to eliminate "opponents" is a gift. Errde Blackskull is consumed by her own "conspiracy theories," hunting phantoms while the true power shifts beneath her feet.*
 *The Keepers of the Flame are utterly distracted by the loss of the egg, a secret they guard jealously from the Deepking. They have no idea it is destined to serve a far greater purpose than simply replacing their fat dragon.*
 *Your work with the Obelisk and the egg is paramount. This ancient monolith, once repaired, will be the instrument of our ascension, allowing us to conquer Gracklstugh and deliver it as a sacrificial gift to Demogorgon. The path forward is clear: destabilize, corrupt, and then, offer the city to our Prince. All of Gracklstugh will be a fitting tribute, and the "genocidal war" against the derro that Gartokkar so desires will merely be the first cleansing.*
 *The Prince Awaits, Narrak*
@@ -5620,7 +5620,7 @@ Zalthir knows he has enough to condemn the Derro and Duergar to a genocidal war 
 
 
 “But is that the right thing to do?” he wonders. 
-## Grygum 
+### Grygum 
 
 
 Grygum reads what Zalthir has found and is disturbed. And the egg disturbs him further. As he sits there, he remembers some text from the temple where he learned of the power of Bahamut - 
@@ -5677,10 +5677,10 @@ Grygum coughs. He watches as Thorin stares at him and realizes what he said, “
 Grygum watches Zalthir clench and unclench.  
 
 
-## Thorin
+### Thorin
 
 
-“So what do we do? I am still partial to the ride Thermbechaude out of this place.” 
+“So what do we do? I am still partial to the ride Themberchaud out of this place.” 
 
 
 But the loss of Buppido, and the death of the derro, and the destruction of the dragon in the egg, and the near death of Eldeth have made the idea of leaving Gracklstugh a smouldering inferno less appealing. 
@@ -5753,7 +5753,7 @@ Daz turns to him, “No.”
 ## Diirdeklin the Derro
 
 
-Diirdeklin has been at this guard post for days. Pliinki has promised him that this is part of some plan that will free the Derro from the bondage of Duergar. But Diirdeklin has heard that before. 
+Diirdeklin has been at this guard post for days. Plinki has promised him that this is part of some plan that will free the Derro from the bondage of Duergar. But Diirdeklin has heard that before. 
 
 
 There is a noise coming from the north. That’s odd. It doesn’t sound like Derro. He’s worried. 
@@ -5780,11 +5780,11 @@ The Drow shouts, “We are The Ember Vanguard, and you will let us pass!”
 Diirdeklin worried that Diinarnnmyr might foolishly try to fight,   shouts, “Yes, pass!”
 
 
-And as they leave the cave, he thinks, “A Drow incursion! This is not good. And if they killed Pliinki, that means that they have bigger plans.” 
+And as they leave the cave, he thinks, “A Drow incursion! This is not good. And if they killed Plinki, that means that they have bigger plans.” 
 
 
 As they leave Diinarnnmyr mutters, “The Ember Vanguard - the Drow are now working with the Duergar to subdue us!” 
-## Daz
+### Daz
 
 
 Daz is very pleased with his use of dancing lights and the effect it had on the Derro. His friends congratulate him. 
@@ -5830,7 +5830,7 @@ But the Orc is grateful, but he looks unhappy as he is covered in the acid slime
 
 
 # Chapter 20 The Derro like Demogorgon
-## Grygum.
+### Grygum.
 
 
 The battle was terrifying. But I am alive. Wounded. But alive. So let me do a bit of Divine magic and heal myself. And that friendly dwarf, the one Thorin likes. 
@@ -5842,7 +5842,7 @@ The battle was terrifying. But I am alive. Wounded. But alive. So let me do a bi
 I should be honest, it’s theater I created for myself. Bahamut is boring. Stroud was exciting. Bahamut, not so much. 
 
 
-## Daz
+### Daz
 
 
 A good rest is always beneficial, but we need to get out of here.
@@ -5867,7 +5867,7 @@ I stare at him. I wonder is he the true-believing kind that has warped his world
 
 
 I look at him carefully to see some spark of genius. I see nothing. He’s a dummy. I recall the stories of the Derro, creatures that served the mind flayers and had their minds destroyed. They are not well in the best of times. 
-## Grygum 
+### Grygum 
 
 
 I approach the poor creature. And examine what he is doing. 
@@ -5888,7 +5888,7 @@ The Derro looks at me with fear. Good.
 “Yes! Is it on schedule?” 
 
 
-The creature whimpers before me and pleads, “But Pliinki promised Skiit a better job.” 
+The creature whimpers before me and pleads, “But Plinki promised Skiit a better job.” 
 
 
 I smile, “Only if you succeed at this one, Skiit. I see a lot of zombies.” 
@@ -5900,7 +5900,7 @@ Skiit  looks at me and then points at Spiderbait, “Can I kill that one over th
 I am worried, but I know how to deflect, just double down on his anxieties, “I am not going to hand you new body parts because you can’t keep up!” 
 
 
-I tried to intimidate, and failed. Maybe it is my gentleness from all my time at the temple, because instead of this thing cowering, it puffs itself up and says, “I am a follower of Demogorgon! Pliinki has said that anybody who follows Demogorgon is making the Derro proud and powerful. And we’re going to be great again!” 
+I tried to intimidate, and failed. Maybe it is my gentleness from all my time at the temple, because instead of this thing cowering, it puffs itself up and says, “I am a follower of Demogorgon! Plinki has said that anybody who follows Demogorgon is making the Derro proud and powerful. And we’re going to be great again!” 
 
 
 And it gets worse. 
@@ -5915,7 +5915,7 @@ Seeing the zombies below, they do need some new body parts, and this one Derro, 
 I push him over the cliff. At the same time, Daz unleashes a light show. 
 
 
-## Daz
+### Daz
 
 
 I approach the ledge, and the first thing that hits me is the smell that reeks of death and decomposed flesh. I open my eyes and absorb how enormous it is. The glow of faerzress is everywhere, seeming to flow like fog around dark shapes shambling across the pit. A crack in the southeast wall of the pit leads to a narrow tunnel, flanked by mounds of fungi and offal.
@@ -5978,13 +5978,13 @@ So I cast Toll the Dead, and the deadly chimes echo throughout the caves, but on
 I look at Ulnara, who realizes that I am Drow. And that the Drow do not mess around. 
 
 
-“Thank you for this new supply! I know you will tell Pliinki that I Ulnar,a did much to help the Ember Vanguard!” 
+“Thank you for this new supply! I know you will tell Plinki that I Ulnar,a did much to help the Ember Vanguard!” 
 
 
 “We shall, certainly,” says Grygum in his preacher’s voice. 
 
 
-## Thorin
+### Thorin
 
 
 The caves go on. We arrive at a door, and we rest. Resting is good. 
@@ -6071,7 +6071,7 @@ My chance came again, and I didn't hesitate. I brought my longsword down hard on
 
 
 But they were all dead. 
-## Daz
+### Daz
 
 
 Our journey continues until we reach another cave entrance. And this one we must go through. 
@@ -6107,7 +6107,7 @@ They don’t notice us, so we continue.
 The cavern floor rises to form a natural 5-foot-high platform. A glowing ritual circle dominates the top of the platform. Around the platform are books made from Trillimac. I look carefully and notice a few of the titles - “The Spiraling Descent: A Treatise on Duality and Madness,” and “The Prince's Gift: On the Creation of Favored Spawn”, and “Rituals of the Two-Headed Beast.” 
 
 
-Errde Blackstaff wants evidence of Demogorgon’s influence, and here it is. And amongst the books are various papers. Knowing these creatures, there is probably enough evidence to convince Errde of whatever she wants. 
+Errde Blackskull wants evidence of Demogorgon’s influence, and here it is. And amongst the books are various papers. Knowing these creatures, there is probably enough evidence to convince Errde of whatever she wants. 
 
 
 I might not want to give it to her. But I know her type; if she doesn’t get evidence, she’ll invent it. 
@@ -6134,7 +6134,7 @@ They chant back at him - “For what purpose!”
 He screams - “The only purpose that matters! The elevation of the Derro, the Triumph of Demogorgon, and the destruction of the Duergar!” 
 
 
-## Zalthir
+### Zalthir
 
 
 I observe everything and say nothing. My mind is clear. I act without speaking. I do because I know. 
@@ -6853,7 +6853,7 @@ I hold onto Thorin and Grygum, worried that they will follow. But they don’t.
 
 Daz
 ![image]()
-Grygum and Thorin, after recovering their senses, to the extent that is possible for the dwarf, explained that they saw Zuggtomy. And that she had made them an offer, an offer that Thorin refused. 
+Grygum and Thorin, after recovering their senses, to the extent that is possible for the dwarf, explained that they saw Zuggtmoy. And that she had made them an offer, an offer that Thorin refused. 
 
 
 “Good,” I said. Deals with demons are rarely pleasant. 
@@ -7099,7 +7099,7 @@ With our business transacted, I start to walk out, but Gartokkar suddenly stops 
 Gartokkar is warning us. He is, which is odd. Which means he is afraid. But why would he warn us? Because he’s worried that if we do anything or say anything, we could cause this entire place to explode. 
 
 
-As I walk out, I remember that we had a deal with Thermbechaude. And then I remember, Thermebechaude thought he had an agreement with us. We never had a deal with him. 
+As I walk out, I remember that we had a deal with Themberchaud. And then I remember, Themberchaud thought he had an agreement with us. We never had a deal with him. 
 
 
 With this warning, we head out towards the Darklake. As we walk through an alley, trying to be inconspicuous, a group of Derro surrounds us. They announce that the Grey Ghosts will have their revenge for the murder of the High Council. 
@@ -7136,7 +7136,7 @@ Failure is not an option. Be swallowed by the shadows, or make them so.
 ### Grygum
 
 
-Here I am, Gyrgum, half-orc cleric of Bahamut, and Gracklstugh is what makes an orc camp look pretty. 
+Here I am, Grygum, half-orc cleric of Bahamut, and Gracklstugh is what makes an orc camp look pretty. 
 
 
 Any escape will require some "clever and insane scheme" to get through the barred gates of Laduguer's Furrow. 
@@ -7307,7 +7307,7 @@ He clears his throat and tries to hide the quaver, “Halt in the name of the De
 That’s a surprise. The guard didn’t think we are the Ember Vanguard. Maybe we can get out of here without bloodshed.  
 
 
-Before I can react, Grygum says that they come in Thembersham’s name. 
+Before I can react, Grygum says that they come in Themberchaud’s name. 
 
 
 The guard still refuses to let us pass. 
@@ -7415,7 +7415,7 @@ Errde will have probably told the Drow that we came through her city, and they w
 Leaving the boat is like leaving a sign. But we might need it later. 
 
 
-Gyrgum shouts, “We could scuttle it.” 
+Grygum shouts, “We could scuttle it.” 
 
 
 I stare at him, perplexed. 
@@ -7800,7 +7800,7 @@ I try to ask any questions but Phylo says we should direct our questions to the 
 Daz turns to me, “How odd. Myconids have no gender, and in general get confused about the topic. The sovereign’s use of a specific gender and consistent use of one particular gender is quite peculiar.” 
 
 
-And then I remember that Zuggtomy is often referred to as she. And I worry. 
+And then I remember that Zuggtmoy is often referred to as she. And I worry. 
 
 
 ### Daz
@@ -7839,7 +7839,7 @@ Basidia laughs, “No. Today we shall the circles.”
 A few minutes later, Basidia turns to us, “I do not recognize the spores of this drow.” I stare at them, confused, “Every myconid sovereign can recognize the spores of any other sovereign in the Underdark. This is strange.”  
 
 
-Poor Sarith has been affected by Zuggtomy. 
+Poor Sarith has been affected by Zuggtmoy. 
 
 
 ### Zalthir
@@ -8132,7 +8132,7 @@ Zalthir looks at Basidia and whinces, as if he understands all too well what Bas
 Basidia continues, “So now we have two inner circles, the circle of leaders and the circle of masters. The circle of those closest to them.” 
 
 
-Basidia sighs and then points ahead to another Myconid, “They is Hepbode, and they are the grower. They are friends of Phylo, not of mine.” 
+Basidia sighs and then points ahead to another Myconid, “They is Hepbobe, and they are the grower. They are friends of Phylo, not of mine.” 
 
 
 As we approach, Hepbobe starts talking to us once the Spores of Raport connect with our mind. “We are in charge of growing food for the colony.”
@@ -8199,7 +8199,7 @@ The organizational disputes of the Sovereign remind me of the preachings of the 
 To be a mushroom is to be connected. To be a sentient mushroom is to be an individual and connected. And surely there are a thousand different ways to connect. 
 
 
-As we leave the Circle of Growers, Zalthir asks Basidia whether Hebopbe’s food supply has the evil spores, and they say no. 
+As we leave the Circle of Growers, Zalthir asks Basidia whether Hepbobe’s food supply has the evil spores, and they say no. 
 
 
 Soon, we arrive at another circle, where a Myconid appears to be dancing. 
@@ -8632,7 +8632,7 @@ I think about those mutated corpses in the Circle of Welcome, and wonder what th
 But I am trying to be cool. However, Dawnbringer shedding bright light on everyone isn’t helping right now. The Myconids are retreating from me. 
 
 
-And just then, Gyrgum starts  jumping up and down and screaming, “DANGER!” 
+And just then, Grygum starts  jumping up and down and screaming, “DANGER!” 
 
 
 I can hear Zalthir through the Rapport Spores mutter, “This was not how I meant stealthy.” 
@@ -8894,28 +8894,28 @@ Chief Chipgrin agreed to join the fight against the ooze, but insisted that the 
 Chipgrin then shared valuable information about the Pudding King. He had known the gnome when he worked in the tunnels and had seen him after his transformation. The Pudding King's actions were driven by vengeance, pride, madness, and the influence of a demon that had amplified his worst attributes. Chipgrin prompted the party to consider whether they had noticed anything odd about the other gnomes in town. Upon reflection, they realized that greed and aggression had been unusually pronounced among the population, even in Chief Dorbo, whose obsession with money seemed unhinged given the circumstances. The party shared their theories about Juiblex, the demon lord of oozes, and Chipgrin agreed that the demon's influence, centered on the Pudding King, was bleeding through and corrupting the entire community.
 
 
-A grand moot was convened with all the major leaders of Blingdenstone: Chief Dorbo, Senni, Nomi Pathshutter, Gurnik Tapfinger the cleric, Kazook Pickshine representing the Miners Guild, and the ghost Barrow Warden Uth-Jadger. Senni asked Daz to lead the meeting and call it to order. Daz presented the plan: a full-scale distraction by the gnome army attacking the ooze amphitheater while the party covertly used magic to snatch the Pudding King. He explained that the Pudding King was influenced by a demon of oozes and that this influence was affecting the gnome leadership as well. Uth-Jadger praised the plan's technical brilliance, comparing it to the strategies the Barrow Wardens would have employed in their prime.
+A grand moot was convened with all the major leaders of Blingdenstone: Chief Dorbo, Senni, Naomi Pathshutter, Gurnik Tapfinger the cleric, Kazook Pickshine representing the Miners Guild, and the ghost Burrow Warden Uth-Jadger. Senni asked Daz to lead the meeting and call it to order. Daz presented the plan: a full-scale distraction by the gnome army attacking the ooze amphitheater while the party covertly used magic to snatch the Pudding King. He explained that the Pudding King was influenced by a demon of oozes and that this influence was affecting the gnome leadership as well. Uth-Jadger praised the plan's technical brilliance, comparing it to the strategies the Burrow Wardens would have employed in their prime.
 
 
 However, the gnome leaders began proposing various side quests and strategic modifications. Chief Dorbo suggested attacking from the Temple of the Steadfast Stone as a staging area, which would keep the oozes away from the main population centers. Uth-Jadger revealed that the temple was located in an area called the Rock Blight and needed to be cleansed before it could be used. Gurnik Tapfinger explained that cleansing required placing a red spell gem containing a powerful sanctification spell into a menhir at the temple. Once placed, the gem would provoke Ogrémoch's Bane to send servants to attack, and the party would need to defend it until it awakened three temple guardians.
 
 
-Gurnik and Nomi Pathshutter, in what appeared to be a rehearsed presentation, proposed that cleansing the temple would allow Earth Elementals to be summoned and protected from being driven insane by Ogrémoch's Bane. Daz questioned why they couldn't simply attack from the north instead, which would avoid all these complications. His obvious question revealed what was really happening: the gnome leaders had realized they had a party of capable adventurers at their disposal and were trying to get them to complete various tasks that would benefit the community. The leaders quickly agreed with Daz's suggestion, but Gurnik continued to advocate for cleansing the temple, emphasizing the value of having Earth Elementals in the battle.
+Gurnik and Naomi Pathshutter, in what appeared to be a rehearsed presentation, proposed that cleansing the temple would allow Earth Elementals to be summoned and protected from being driven insane by Ogrémoch's Bane. Daz questioned why they couldn't simply attack from the north instead, which would avoid all these complications. His obvious question revealed what was really happening: the gnome leaders had realized they had a party of capable adventurers at their disposal and were trying to get them to complete various tasks that would benefit the community. The leaders quickly agreed with Daz's suggestion, but Gurnik continued to advocate for cleansing the temple, emphasizing the value of having Earth Elementals in the battle.
 
 
-Additional proposals followed. Kazook Pickshine expressed concern about acidic damage to the gnomes' weapons and armor, suggesting two solutions: collecting ingredients from Neverlight Grove for an acid-protection potion, or trading salt for high-quality weapons in Gracklstugh. The party noted that Gracklstugh might no longer exist due to their previous actions there. Uth-Jadger offered the help of other Barrow Warden ghosts if the party undertook a quest for them. Chief Dorbo sweetened the deal by offering a Stone of Controlling Earth Elementals as a reward for dealing with Ogrémoch's Bane and cleansing the temple.
+Additional proposals followed. Kazook Pickshine expressed concern about acidic damage to the gnomes' weapons and armor, suggesting two solutions: collecting ingredients from Neverlight Grove for an acid-protection potion, or trading salt for high-quality weapons in Gracklstugh. The party noted that Gracklstugh might no longer exist due to their previous actions there. Uth-Jadger offered the help of other Burrow Warden ghosts if the party undertook a quest for them. Chief Dorbo sweetened the deal by offering a Stone of Controlling Earth Elementals as a reward for dealing with Ogrémoch's Bane and cleansing the temple.
 
 
 The party discussed the various proposals and their benefits. They learned that completing these quests would reduce the number of encounters before facing the Pudding King and provide allies for the final battle. Thorin rolled a die to decide between caution and a direct approach, and the result favored taking the safer route. The party decided to pursue cleansing the Rock Blight to gain an Earth Elemental ally, expressing interest in befriending the elemental rather than controlling it, hoping it might join them permanently like Glabbagool had. They also decided to obtain acid resistance by traveling to Neverlight Grove for the necessary ingredients.
 
 
-To maximize their efficiency, the party chose to divide their forces. They would send Glabbagool, Eldev, and Jimjar to assist the Barrow Warden ghosts with their quest while the main party handled the other tasks. They explicitly decided against sending anyone to Gracklstugh, given the uncertain state of that city and their less-than-ideal departure from it. With their plans finalized and their forces divided, the party prepared to embark on their chosen quests, knowing that each success would strengthen their position for the final confrontation with the Pudding King and his army of oozes.
+To maximize their efficiency, the party chose to divide their forces. They would send Glabbagool, Eldev, and Jimjar to assist the Burrow Warden ghosts with their quest while the main party handled the other tasks. They explicitly decided against sending anyone to Gracklstugh, given the uncertain state of that city and their less-than-ideal departure from it. With their plans finalized and their forces divided, the party prepared to embark on their chosen quests, knowing that each success would strengthen their position for the final confrontation with the Pudding King and his army of oozes.
 
 
 # Chapter 36 Crystals, Ghosts, and Crazed Earth
 
 
-The party gathered in Diggermattock Hall for a lengthy meeting where the community discussed their most pressing threats. After much deliberation, it was agreed that the adventurers would help deal with the Pudding King and clear out the rock blight caverns in exchange for support from the settlement. They were offered several quests, including finding EntemochBoon to allow clerics to safely summon Earth Elementals, with the promise of a Stone of Elemental Control as a reward. Meanwhile, Glabbagool, Eldeth, Jimjar, and Spiderbait volunteered to tackle the ghost problem, receiving encouragement from the Burrow Warden Jadger who cheerfully noted that even if they died, they could still fight in the battle as ghosts through resurrection magic. When Glabbagool asked if he would be the first gelatinous cube ghost, the question hung in the air with curious sincerity.
+The party gathered in Diggermattock Hall for a lengthy meeting where the community discussed their most pressing threats. After much deliberation, it was agreed that the adventurers would help deal with the Pudding King and clear out the rock blight caverns in exchange for support from the settlement. They were offered several quests, including finding Entémoch's Boon to allow clerics to safely summon Earth Elementals, with the promise of a Stone of Elemental Control as a reward. Meanwhile, Glabbagool, Eldeth, Jimjar, and Spiderbait volunteered to tackle the ghost problem, receiving encouragement from the Burrow Warden Jadger who cheerfully noted that even if they died, they could still fight in the battle as ghosts through resurrection magic. When Glabbagool asked if he would be the first gelatinous cube ghost, the question hung in the air with curious sincerity.
 
 
 That evening, the party rested at the Foaming Mug Tavern, a massive cave converted into an inn with rooms that actually fit normal-sized people. The owner, Tappy Foamstrap, was a bored deep gnome desperate for new stories after hearing everyone else's tales dozens of times. The party gathered valuable intelligence from various patrons, including a merchant from Gracklstugh who described the city's strange peace. He mentioned the paranoia about the Ember Vanguard and even had a wanted poster. He noticed that the  adventurers matched the description except that the dragonborn was red, and the drow mage, the orc cleric and the dwarven fighter looked far more fearsome. The merchant also noted that there had been some mass hangings and executions.  He also spoke of a peculiarly portly red dragon with a double chin and two bellies used as a matchlighter. The party was relieved to see that their goal to get out of the city without provoking an all out war and destruction of the city was achieved.  A deep gnome scout shared a bizarre tale of encountering dancing myconoids who spoke of attending a wedding celebration, which was highly unusual since myconoids don't typically marry or celebrate. As the evening wore on, Glabbagool became intoxicated from consuming spilled alcohol while cleaning the tavern floor, leading to the gelatinous cube singing sea shanties in a voice that made everyone question their life choices.
@@ -9125,7 +9125,7 @@ Daz sent his bat familiar ahead to scout further, and it discovered a grand vaul
 The party asked Glabbagool if the Pudding King could control him, and the intelligent ooze promised he would never hurt his friends. However, he recalled an earlier incident where he had heard a voice calling him from a large pool of slimes, suggesting the Pudding King might have some influence over him. The party learned that the Pudding King had made an alliance with the demon lord Juiblex and was trying to convert Blingdenstone's biomass into ooze biomass by having his creatures consume everyone. They debated what to do with the King once captured, realizing they hadn't established a clear plan beyond the initial snatch-and-grab.
 
 
-Through the ochre jelly, the party observed the Pudding King monologuing to his two ooze henchmen, Princess Ebonheir and Prince Livid. He gloated about the impending defeat of Blingdenstone, periodically cheering as he described members of the Blingdenstone army being consumed by oozes. He also ranted that Zuggtmoy, the Queen of Rot, thought she could take his kingdom, but Juiblex had promised it to him. The party noted green slime patches on the ceiling throughout the throne room that could drop on anyone standing beneath them.
+Through the ochre jelly, the party observed the Pudding King monologuing to his two ooze henchmen, Princess Ebonmire and Prince Livid. He gloated about the impending defeat of Blingdenstone, periodically cheering as he described members of the Blingdenstone army being consumed by oozes. He also ranted that Zuggtmoy, the Queen of Rot, thought she could take his kingdom, but Juiblex had promised it to him. The party noted green slime patches on the ceiling throughout the throne room that could drop on anyone standing beneath them.
 
 
 The signal was sent, and the main distraction force began their attack. Zalthir manifested his tentacles and prepared to fly as the Earth Elemental smashed through the ochre jelly barricade. The elemental then hurled Zalthir thirty feet into the throne room, and the dragonborn teleported an additional sixty feet closer to the Pudding King before walking the final forty-five feet to reach him. Zalthir struck the gnomish villain and successfully wrapped his tentacles around him in a grapple.
@@ -11526,7 +11526,7 @@ I watched him say it with the mild interest I reserve for things that are techni
 
 ---
 
-Candlekeep required a book. This was not a problem for us. The problem, as Daz identified it, was which book — because we had, after months in the Underdark acquiring things from people who no longer needed them, accumulated more books than most surface libraries see in a decade. The list, when assembled: Princess Ebonmire's spellbook. Ilvara's prayer book with its Zuggtmoy marginalia, those careful notes documenting the corruption timeline she'd watched unfolding and apparently found worth recording. Asha Vandree's theological argument about Lolth and Zuggtmoy as equivalents — the document I'd watched her press into Grygum's hands. The Velkynvelve prisoner journal. Pliinki's journal from the Whorlstone Caverns, the one where a man had written carefully about helping birth a demonic monster and apparently thought this was worth documenting.
+Candlekeep required a book. This was not a problem for us. The problem, as Daz identified it, was which book — because we had, after months in the Underdark acquiring things from people who no longer needed them, accumulated more books than most surface libraries see in a decade. The list, when assembled: Princess Ebonmire's spellbook. Ilvara's prayer book with its Zuggtmoy marginalia, those careful notes documenting the corruption timeline she'd watched unfolding and apparently found worth recording. Asha Vandree's theological argument about Lolth and Zuggtmoy as equivalents — the document I'd watched her press into Grygum's hands. The Velkynvelve prisoner journal. Plinki's journal from the Whorlstone Caverns, the one where a man had written carefully about helping birth a demonic monster and apparently thought this was worth documenting.
 
 I thought about Asha Vandree, briefly. The way she had looked through me the entire time we were in that room. I had been furniture; I had noticed the quality of her erasure without taking it personally, because it wasn't personal — it was structural, the way the Underdark is cold. You don't take the cold personally. The theological document she'd written would now unlock questions in one of the greatest libraries in the world. She would have hated that.
 
@@ -13480,3 +13480,1607 @@ The former shadow monk had been watching the whole exchange. He looked at me and
 There are, by now, a great many days I was sleeping. The student on my arm had mastered the one lesson I most thoroughly missed, and he had done it in under a minute, by going still.
 
 "Right. There's a lot of them at this point. Was I ever there?"
+# Chapter 56 Never mind the murder
+
+
+---
+
+## Grygum — The Academic Distraction
+
+I had the treatise open in front of me. *On the Punctual Tears.* Someone had styled it as an internal topocentric protocol, which is an enormous amount of robe for a poison, but the Underdark teaches you that the people who kill you usually want it documented first.
+
+The thing made references to Shar, and to Selûne. The goddess of darkness and the goddess of the moon, both named in the footnotes of a poison. That part actually explained something. *Explains the Underdark conundrum.* Down there nobody can see either of them.
+
+So I worked it backward, the way you do.
+
+"Midnight is when the sun is directly on the other side of the globe from you," I said.
+
+Apparently that was exactly what it said. Which meant the trigger wasn't a clock. It was a place.
+
+"Regardless of where you are. So if you did continue to ride west, you could essentially out — out." Outrun it. Stay ahead of the dark side of the world and midnight never catches you.
+
+That was one door. The treatise listed the others. Keep riding west, or shift to another plane, or have someone who can call on the healing that draws a poison clean out of the blood.
+
+"That last one's probably the easiest," I could hear Daz say. 
+
+For us, sure. Not for a mage with no cleric buddy friends, which is most of them. For that crowd a way to step between planes is a convenient thing to keep in a pocket. Which is also why the poison is useless against a mind flayer or a githyanki, who cross between worlds for free. The drow love it precisely because nobody down there knows what time it's midnight. It creates all sorts of diabolical drowisms. Was it midnight now, or in an hour. I suppose we'll find out.
+
+"There's only one way to know!"
+
+I caught myself, briefly, wondering what Zalthir would do with the premise. He'd pick at the words. *One true sun, light being furthest* — and then he'd want to know whether any physical property could slow that light down, whether the reach of the thing was distance or something else. I filed the question. I had no answer and no audience for it.
+
+Then Brother Vareth found me, and the day stopped being about poison.
+
+He had the look of a man with a paper to publish. He'd taken my answer to the Question of the Age, the triangle, three options, the thing I'd half-built out of Stroud's Gambit and never expected anyone to take seriously, and he'd turned it into a thing. A fourth corner. And he had told everyone.
+
+I want to be clear about what this is. The whole Avowed community wanted, right then and there, to drop everything and debate it in the Grand Hall. There is an active murder running through this keep. There is a poisoned book and a dead scholar. And nothing says you are an academic institution quite like blowing off everything important to focus on what really matters: new research. And getting published.
+
+I did not set out to empty Candlekeep. I set out to answer a question honestly.
+
+But everyone was now headed toward the research area, which meant the keep was suddenly full of rooms nobody would be watching. The dining room, for one. Where the meals were served, and where, if you were a poisoner, you'd have wanted to be. Other places too.
+
+*Bahamut may or may not have been watching. I took notes either way.*
+
+The party had Daral glued to them when I came down. He wasn't leaving Daz and Thorin, because he'd worked it out and concluded those two were the only people in the building who didn't want him dead. He had the poison book. He'd worked out someone wanted him to take the fall. And in his current state he was very much hoping nobody would mention to Zalthir what he'd said about dragonborn. Drunk, barroom talk, not meant to be taken seriously.
+
+"Totally, totally," Zalthir said, in a voice that recorded everything.
+
+I had a key on me. It had hung around Kalan Strongbranch's neck once. I did not love holding it in a room filling with Avowed, so I handed it to Daz and let it become his problem.
+
+Then the reason for Strongbranch's nerves came clear. The stolen sapphire carried a summoning working — it could pull an item to you, but only an item not in anyone's possession. And a dead person, it turns out, possesses nothing. An undead can. A dead man can't. The followers of Kelemvor have made that point very clear, repeatedly, through their god's usual incomprehensible cryptic phrasing.
+
+So if you wanted a man's key, the cleanest way to free it from his possession was to make him a corpse.
+
+Which is why Strongbranch handed his off rather than wear it. Paranoid, maybe. He'd carried the thing for years. But you don't survive long arguing with a dead man's caution.
+
+I'd just passed the same key to Daz.
+
+---
+
+## Daz — The Investigation Deepens
+
+Daral had the look of someone who'd just finished auditing his own death and didn't care for the balance. I knew that look. It's the look of a man who came into the morning certain he was going to lose his job, then learned the man who would have fired him was a corpse, and spent one warm hour thinking everything had resolved in his favor. Then he discovered that the people he'd spent that hour mocking were possibly the only ones in Candlekeep keeping him alive, and that even we were doing the arithmetic on whether it was worth the effort. That's a lot of columns to reconcile before lunch. He had that look of someone who thought he'd had all the cards and was now counting an empty hand.
+
+Thorin, who has never once in his life let a kindness stand uncomplicated, told him the truth. "Look, I'm just saying, if we solve the murder, we get any book in the place." A beat. "We get shit."
+
+It was, technically, correct. The reward for unmasking a murderer in a library of murderers is library access we already had. I filed Daral under *desperate*, which is the most useful column a man can occupy, because desperation makes people honest and generous in equal measure. Thorin softened it eventually, "look, dude, we'll save you, we're not that evil," but the price was already extracted.
+
+Daral paid it. The Oak Tree Apothecary, he said, between the Sea Warden's Tower and the House of Mechanus, a treehouse grown into the roots of an evergreen oak. A satyr druid named Leuwin, elderly and absent-minded, with a pet squirrel, who could identify the poison from the book definitively.
+
+"Okay, let's go."
+
+"Yo!" said Thorin, and I think he was already reaching for the squirrel in his imagination, because Daral made a small horrified noise about *not the squirrel*. Thorin wanted to keep the man on the hook anyway: a warm introduction, he reasoned, and the timeline of the book itself, whether it was poisoned before or after Daral handed it over. He was right about that. If the poison lived in the binding, then the book's provenance became the entire case. I kept that.
+
+Then Fembris asked to leave. Our minder, the avowed assigned to ensure four armed strangers didn't help themselves to the contents of the world's most dangerous library, wanted to attend a debate. Grygum's debate, as it turned out — a disputation in the Oval Theater on his new theology, with half the avowed already in attendance and Bookwyrm herself unable to politically afford to miss it. A keeper of the keep, leaving his post, to watch the orc argue dragons. I did not stop him. I did the only sensible thing, which was to note that his departure handed us an hour without supervision and to say nothing of the kind out loud.
+
+Which left the key.
+
+Zalthir wanted it checked for ongoing magic, and that is my function, not his. "I can read it," I said. "A small divining touch — the least of the seeing-arts." A slow working — no cost beyond patience and a touch. I took custody of the key, set my fingers to the cold iron of it, and let the spell read the object the way an auditor reads an account someone else kept. *Set your hand to a thing and it will tell you whether any magic still clings to it, and what that magic is; and if a spell birthed the thing, it will whisper that spell's name.*
+
+Zalthir had the right instinct. If the key were bound to the summoning magic, the spell that stashes an object and retrieves it through a keyed gem, then we could trace the binding back to whoever cast it. A whole line of inquiry, hanging on one answer.
+
+The answer was no. The key was clean. Not linked to that spell, not created by it, carrying no quiet enchantment under the surface. An important point, and a closed door. The summoning had been worked on a *different* key.
+
+That reframed the gem. The sapphire isn't decoration: it's the retrieval token, and it has to be the *same* sapphire both to store and to recall. Possess the gem and you possess the item, provided you have the magic to call it. A backup, in other words, against theft of the original. If someone feared their key would be stolen, they'd cast a duplicate into the gem and keep the gem somewhere safe, a tracking-stone for a thing you can't afford to lose. Tidy. I'd have done the same.
+
+And here is where my training failed me. There was a connection sitting in the gem and the stolen key and the murdered man, a connection a Menzoberranzan child should have closed on reflex, *who hides a key, and why*, and I reached for it and came up with nothing. The pattern was there. I simply could not make it resolve. A name I could read in every column but the one that names it. Glabbagool tried to help, an eye surfacing through the ooze, hopeful, and I came up emptier still, and the eye sank back down, dolefully, into the rest of him.
+
+*I will not call that a failure. I will call it a gap in the account.*
+
+The reframe didn't quite take. That was the tell.
+
+---
+
+## Thorin — Investigation Strategy and the Timeline of the Book
+
+A murder is a kind of terrain, even if I'd never have called it that before. You've got the ground — the timeline — and you've got the man standing on it, and you watch where he puts his feet. Daral kept putting his feet in funny places. So I said it plain.
+
+"So what I'm saying is that the timeline of the book seems to be a very important thing at this point."
+
+Daz had already walked the logic out loud. "Because, like, whoever tampered with the… either somebody went into his house, tampered with it, knowing he was gonna give it to them, somebody unwrapped it, tampered with it, and then wrapped it back up." A beat. "Or, the dude we're talking to is the killer."
+
+That second one. That's the one I kept circling.
+
+Daral gave us the times like a man who knew the times mattered. He'd dropped the book under the evergreen tree, next to the other gifts, around 11am on Deadwinter's Eve, before rushing up to the keeper's Tower for his end-of-year meeting. Then he corrected himself, because the correction was the part he cared about — he hadn't handed it to anybody. The book got picked up by Janussi at dinner. And at the time, it was wrapped.
+
+"Do you think it's possible," he said, slow, "that someone tampered with a book?"
+
+Daz didn't soften it. "When you put it under the tree, did it look like it had been tampered with at all?" Then, flatter: "I mean, someone tampered with it, or you killed them."
+
+"Are you accusing me!"
+
+"Just stating logical—"
+
+That's the moment Daral decided he had a job, and the job was proving he wasn't a murderer. Fine by me. A scared man who wants to clear his name is a useful man to walk around with. He kept saying it — if he made it through the night, hint, hint, he'd see to it everyone wrapped their gifts right. Wards on every wrapping, the kind that bite the careless, for everyone. Earlier he'd been baffled we even asked about a magical seal. "Why would I put a magical seal on the wrapping? It's a gift!" Candlekeep, and the man's surprised a gift could kill you. Sure.
+
+When he finally let go of us — and he did not want to, convinced he'd be dead in seconds without me or Daz at his elbow — we had a little room.
+
+"Alright, so it looks like we get a freebie hour."
+
+I went back over the pieces, because I like to know the ground before I cross it. "Some locket from around the dude's neck was taken. We assume that inside that locket was the key. Also, from the safe, a sapphire was taken. And we're proposing that the sapphire is actually used to sort of be able to retrieve the key." Crush the stone, the key comes home. "Oh, I see. So the sapphire was a backup in case the key was stolen." The kind of thing a man builds when he's worried about exactly what happened to him.
+
+So now the search. "I mean, if we go and search people's rooms, what are we looking for? The key or the sapphire would each be good enough."
+
+Zalthir didn't think we'd find the key — too easy to hide. The sapphire, though, somebody might still be holding because it looked like nothing. "So you're thinking that they're holding onto the sapphire under the idea that the sapphire is less conspicuous than holding onto the key?"
+
+Then I named the part that was getting muddy. "If somebody stole the sapphire, somebody stole the key, we find the person with the sapphire, that doesn't mean that they're the ones that, like, stole the key or necessarily killed them." Could be two people. Could be a whole faculty of them.
+
+So I built the wall I wanted. "And our priority is to find the killer, not who stole the key. Nobody asked us to find the person who stole the key." That's what we get paid for. That's the only piece that puts coin in our hands. A rock in the wrong place is just a rock — the killer was the wall, and I wasn't spending the hour chasing keys.
+
+Then the poison. "Alright, so if we searched everybody's room, what are we looking for? Some sort of leftover poison, that would actually probably be good proof, good evidence."
+
+Daz said look for black — black dots, black splashes, the way it went dark on the dead man's mouth. Didn't sit right. "Why did it turn dark, but it's not dark on the book?"
+
+Because it goes black after you die.
+
+"Where, who dies?"
+
+The poisoned man. Obvious once you say it. The stuff only wakes up when a living thing touches it. I walked it back to be sure I had it. "When I mixed with his saliva, it turned black, okay?" Working it through out loud, getting the thing to make sense for everybody in the room — and it did. The poison sitting in somebody's room right now wouldn't be black at all. It'd be clear.
+
+"A vial of some sort of clear."
+
+That's the trouble with a search. Go in looking for the wrong color, you walk right past it.
+
+Other thing we might turn up was motive. I didn't think that'd be hard. "Well, I mean, everybody hated everybody, it's academia. You know what they say. Fights are so vicious because the stakes are so low."
+
+So we cut it up. Daz to the apothecary — turned out he could talk to the beasts, and there was a squirrel down there might've seen something, which is a sentence I never thought I'd take seriously. Zalthir to the rooms, stealthiest of us, low bar as that is. Glabbagool announced it had learned silence, then asked whether that was good silence or too loud silence, and tried to grow a nose to smell the poison.
+
+And me with Daral, back to the kitchen.
+
+"Alright, so what are we looking for in the kitchen again?"
+
+Anybody who saw somebody messing with the book. That's it. "Okay, so we'll go and we'll interview people around the kitchen to see if they saw anybody messing with the book. Or the package or anything, and then Zalthir, you'll go and search everybody's room."
+
+Plain split. Everybody knew where they stood. I like it that way.
+
+---
+
+## Zalthir — Theories of Betrayal
+
+The air in Candlekeep still smelled wrong to me. Not bad — paper, lamp oil, old stone warmed by sun I had not seen in months — just wrong, the way anything smells when you have spent too long breathing rock. I had taken to standing near the doorways. Old habit. You learn the exits before you learn the people.
+
+Daral was a person who had not learned that lesson. He filled the room the way a leak fills a hold, and the rest of us bailed.
+
+It started with the sapphire, or the key, or whatever the small bright thing was that Daz turned over in his fingers and could not read. Daz was drow. Daz knew that world the way I know a tunnel's slope without thinking about it — and still the meaning slid off him. He'd forgotten everything that mattered and kept everything that didn't.
+
+"What I can read off it at a glance is next to nothing," Daz said, sour. "And staring harder got me less."
+
+The thing about Candlekeep was that it was full of the most learned people on the surface, and every one of them was at the conference. The room was us. So the help that existed was the help in the room.
+
+"Well, he's in frickin' Candlekeep," I said. "Won't someone help him? Like, you know, just talk—"
+
+No one was coming. I knew that before I finished the sentence.
+
+Then the bag of holding shifted, and Glabbagool offered. An eye rose out of the grey of him — slow, hopeful, the way he does everything now — and pointed itself at the bright thing in Daz's hand, wanting to be useful. Daz tried again. Whatever the ooze gave him, it wasn't enough. The eye sank back into the body. Dolefully. There is no other word for it; he retreated like a thing that had been told no.
+
+I watched him go quiet. I marked it and said nothing. Glabbagool survived Blingdenstone, the ooze crisis, the inside of a bag — and his instinct, every time, is still to reach toward the problem. I am not going to say out loud how much that is worth.
+
+"Too bad I can't really take it apart," Daz muttered. "Turn it over, study it proper."
+
+That door was closed too.
+
+So I turned to the murder, because the murder at least had a structure, and structure I can work. Janussi was dead. Poisoned by a book Daral had given him. And the whole thing was so ornate that it itched.
+
+"Okay, fine, best practices aside," I said, "what I'm trying to say is — why bother with the book? It's so roundabout. He's just eating stuff at a feast. Could have put the poison in his food."
+
+Daral threw his hands up. "Maybe they wanted me to be blamed."
+
+"Yeah. Maybe they're trying to frame you."
+
+"And then killed me! Well, that's your fault, but—"
+
+"Prior to that." I let it sit. "Who would want to frame you and kill — whatever the guy is?"
+
+"Janussi."
+
+"I got all that. It's who would want to kill you, or frame you, and in turn get you out of the picture as well."
+
+That was the question worth holding. Not the death. The double stroke. A killer who buys two outcomes with one cup of poison is a killer who has already drawn the board and decided where every piece lands. The Garden Shadow had a saying — or maybe it was Brother Tervin, the tall one who always smelled of incense, I genuinely don't remember, I wasn't listening — that the most dangerous person in a room isn't the one with the blade drawn. It's the one who has already decided they've won.
+
+Daral arrived at the name like a man arriving at the last line of a poem he'd written. A'lai Aivenmore. The one who wanted the keep. The one about to be dismissed. The one who saw Daral's love of poetry, his love of fiction, as a threat to his approach to the universe.
+
+"And so framing me makes perfect sense," Daral said, and pressed a hand to his chest. "Clear the deck of Janussi. Clear the wood of me. No one left on the council able to prevent his ascension."
+
+A drama queen. He knew it; he said it about himself, which is its own kind of telling. I filed the name. A'lai. Ideology and ambition both — a man who kills for the chair and the idea at once. Convenient, that it all pointed one direction. I don't trust convenient. But I don't dismiss it either.
+
+Then the decision came, because forty minutes of theater is forty minutes, and you have to move.
+
+"It seems like at least one of us should check out the apothecary," I said. "Learn more about the poison."
+
+The apothecary had a pet squirrel, and Daz could talk to it. That sorted itself. Thorin would take the kitchen, walk Daral through, ask who touched the book. Which left the suspects' rooms.
+
+"That'd be you," Thorin said. "You'll go search everybody's room. I'm not very stealthy."
+
+"Of the group, I am the stealthiest." I let a beat pass. "Which is a low bar. But."
+
+From the bag, Glabbagool offered himself for the sneaking. *I have learned silence,* he said.
+
+"You and me both, my friend."
+
+*Am I being silent enough? Was this good silence, or was it too loud silence?*
+
+I let that one go. Some questions answer themselves with time, or don't.
+
+Before we split, I crouched by the bag one more time. The ooze had no nose. That seemed like a thing worth attempting.
+
+"I doubt this is gonna work," I said, "but can Glabbagool try to grow a nose and get a good smell of the poison?"
+
+The eye rose again, eager. He'd try. He always tries.
+
+---
+
+## Thorin — Discovery in the Southern Dining Hall
+
+The dining hall still smelled like breakfast. Long tables, cleared but not reset, that particular morning-after smell of porridge and tallow gone cold. Milil stood in an alcove off to one side, the god of bards: open hands, a brass chalice resting in them like an offering nobody had come to collect. Two waiters were stacking linen near the far wall. One of them looked up, saw Daral, and said hello like he meant it. The other one rolled his eyes and said hello like he'd rather not.
+
+"Popular dude," I said.
+
+Daral didn't hear me. He'd gone still, staring at the statue, and then he came apart a little. "Oh my goodness! We used it for the Midsummer Wine!"
+
+"To what chalice is this?"
+
+"Look, the lead chalice wine is very important because lead blinds the far-seeing magic. Perhaps somebody hid something in it." He pressed the heels of his hands to his temples. "How could I have not thought about this?"
+
+I held up a hand. "Wait, wait, wait, I wanna understand." Giants don't rush a thing into place. You hold it in the air until it sits right. "Okay, so this is a dining hall."
+
+"Yes, yes," Daral said, pointing at the statue, "but —"
+
+"I imagine everybody has their own chalice."
+
+"And there's a statue of him —"
+
+"Statue, a chalice, because why the hell not, right?" I looked at the brass cup in those open stone hands. "Trust statues. They come alive."
+
+"He suddenly remembers," Daral said, half to himself, "the Milil chalice is lead-lined."
+
+"Okay, so the chalice that the god statue has — is lead-lined?"
+
+"Yes."
+
+*Lead-lined.* That's not nothing. Wouldn't lead choke off the magic that hunts down a hidden thing, the same way it blinds a scrying? Zalthir would have said it first, flat, like it was the most obvious thing in the room and he was tired of waiting for the rest of us to catch up. I clocked it and kept it.
+
+I walked the rest of it out loud, because that's how I find the wall. "Okay, so everybody — you have a party, things get a little out of hand, somebody puts a lampshade on their head, somebody steals the chalice from the god that's lead-lined, because that's a good idea, and then, you know, it's part of the whole sort of revelries. Is that what I'm hearing?"
+
+"Y-yes. That would be a working hypothesis." Daral brightened. "Yes, that's where it must be!" He started toward the alcove, then stopped himself. "But I am but a scholar!"
+
+I didn't want a scholar's hands anywhere near a cup that might've been rigged. "Hey. Back off, dude." He was happy enough to. He'd already gotten to warding sigils in his head, the kind that go off in your face, and decided he wanted no part of it. I turned to him. "And look — if something bad happens to me, you know, I'm not sure that Dawnbringer's gonna take care of you. Just be aware." His face went the color of the cold porridge.
+
+I went to the altar, took the chalice down out of those open hands, and looked inside. Photons don't care about lead. Whatever was in there, I'd see it.
+
+A heart. And a blood-stained meat cleaver.
+
+"Wait, wait. A heart?"
+
+"Janussi's heart," Daral said. "Because they stole his heart. They didn't want anybody to be able to bring him back and ask him what happened."
+
+I looked at it sitting in the bottom of the brass cup. "I left it in Waterdeep."
+
+"Yes."
+
+"Everyone does." Then, because the thing kept turning over, "Especially — can we reunite the heart with the body and actually do a whole sort of, like —" Make the corpse speak. Ask him directly. That was a later problem, but it was a problem worth keeping.
+
+The cleaver bothered me more than the heart, honestly. Somebody had thought this through. "How do you prove anything about anything, anytime? In a world where a body could be rewritten into anything, there'd be new ways of actually tracking down killers, right?"
+
+And that was the wall, when I hit it. Whoever did this knew the chalice was lead-lined. Knew it would hide a body part from every far-seeing working the keep could throw at it. That's not some random person off the road. "Yeah, but everybody who was at that dinner handled the chalice, as far as we know."
+
+"Somebody handled it later in the evening."
+
+"Wait, what are you getting at here?"
+
+"This is further confirmation it's an inside job."
+
+"Oh yeah. It's somebody who knew the ins and outs of the keep, for sure." Somebody who'd planned a murder around Candlekeep's own hoard of magic.
+
+And the other edge of it: lead-lined cuts both ways. Somebody handling that cup late, after the meal, when they had no reason to, that's a witness and a window. You just have to find the person who saw it.
+
+I set the chalice down, careful, heart and cleaver and all.
+
+"So," I said. "We still haven't interviewed all the people around there, yeah."
+
+---
+
+## Thorin — Interviews in the Southern Dining Hall
+
+I noticed the three of them watching before I'd said a word. Three junior avowed lined up near the serving doors, all of them wondering, I figured, which one was about to get asked where they were on the night of. Daral stood beside me, quiet, letting me run it. That suited me. I don't do subtle, but I can do direct, and a room full of people who think they're suspects responds to direct.
+
+"So, we go start interviewing them," I said. "Where were you on the night of, and all that."
+
+The first one's name was Irony.
+
+"Are you being ironic?" I asked. Couldn't help it.
+
+"No!" she snapped. Then, flatter: "But I, you know, I really hate it when people make that joke. I'm so sorry — this compulsive need to always tell the truth."
+
+That landed. A person who always tells the truth. "Well, I appreciate that," I said, and I meant it. "I am investigating a crime, so somebody who always tells the truth is definitely a very useful thing." She was my kind of witness. I made one more joke about her colleague, "Hatred always lies," and got told Sprig doesn't always lie, so I apologized for that one too, and we moved on.
+
+She was relieved to talk. You could see it. "At least I can tell you what happened at dinner," she said. The Deadwinter supper began at the 5PM bell. Twelve plates: beetroot soup, fried carp, smoked mackerel. Fruit compots, spiced wines and ales, honey, vodka, green tea. Served by three of them: her, Orrin, and Sprig. All of it brought out on big platters and passed around, shared, drinks poured from carafes. So I clocked that. Everything was shared. Nobody had a plate of their own.
+
+Everybody at the table was tense and taciturn, she said, except Alkrist. Alkrist was cheerful, pitching a project: *Tales of War by the Generals That Waged Them*, first-hand strategy from warlords and commanders around the world.
+
+Daz would've gone at motive first: was anyone here pushing a project that'd never get funded? That's the thread he pulls. So I pulled it. Turned out Teles scoffed the project sounded as likely to succeed as some Fheminor Scrivenbark program, and Irony didn't know what that meant. Janussi praised it the other way: "the kind of knowledge that could benefit civilization," and reminded the room that deciding which branches of knowledge to further was their privileged responsibility. And when the keeper asked for solidarity, Daral muttered under his breath, "Oh, you've been right behind one of us all night."
+
+I checked Alkrist off in my head. The cheerful one's not usually the killer. "He's not on our suspect list, I don't think," I said, "but okay."
+
+Then Sylvira Savikas stormed out, and Kazryn Nyantani took it on herself to hand out the gifts under the evergreen tree, gave each one to the matching great reader. Secret Santa, basically. Janussi took his unwrapped, thanked his secret donor, and excused himself, dropping the wrapping paper in a wicker basket by the door on his way out.
+
+"Was anybody sick from eating the leftovers?" I asked. Bookwyrm had told them to take leftovers to their dorms. Nobody sick, Irony said. Drunk, maybe, not sick.
+
+"The wrapping paper, is it still around?" That mattered. The wrapping paper turned up in Janussi's office, not here. I kept the two from blurring. "It'd be something worth looking at. I would handle it very carefully, because we don't know how the poison would spread."
+
+Then she told me to go talk to Sprig. Sprig tasted all the food. "Is she the poison taster?" I asked, and Irony said yes, like I should've known, and I hadn't.
+
+Then I turned it over, slow. If the only mark was Janussi, the taster's just collateral: she tastes the poisoned dish, she's dead at midnight too, and nobody ties the two deaths together. The killer loses nothing. So I said it out loud: all the food was shared, so it'd be hard to target the delivery unless a server was in on it. And far as we knew, it was the book. Alkrist's point led to the book. There were a dozen ways to kill the man. They picked the book. One reason to skip the food is if you didn't want the taster dead. Which put whoever cared about her on the board.
+
+Irony rolled her eyes. "These avowed, sometimes they're a little bit too interested in the junior avowed." Wink, wink, nudge, nudge. She wouldn't say more.
+
+Then the part that set my teeth. Later that night, going to the kitchens for cookies, she ran into Sylvira Savikas searching by candlelight. One in the morning. I asked what she was hunting for. Sylvira only pointed at her throat, too hoarse to talk, and Irony helped her find a pot of honey and said goodnight.
+
+"That was actually her, somebody wearing her face, right? Because they didn't talk."
+
+"This is the second person who's provided evidence that she's not," Daral said. And she'd been using a lantern. Sylvira's a tiefling. A tiefling doesn't need the light.
+
+"Very suspicious," I said. "And then maybe the whole honey thing was just an excuse because she was discovered, right?"
+
+Looking for something. Or not looking. Leaving. Setting something down where it'd never be found. The honey was the cover for when Irony walked in. I didn't say that last part out loud. I kept it.
+
+---
+
+## Thorin — Interrogating the Wait Staff
+
+The food was the thread I pulled first. Irony pointed me at it. Said if I was really worried about the food, I should go talk to Sprig, because Sprig had tasted all of it.
+
+"Like, is that part of her job," I asked, "or is she just, like, tasting the food?"
+
+"Well, yes," Daral said, brightening. "We have a poison taster!"
+
+A poison taster. Okay. I turned that over. If the only mark was Janussi, then the taster's just collateral: she'd have gone down at midnight too, and nobody'd ever connect the dots. So either somebody kept her off the wrong plate on purpose, or she got lucky. Either way, whoever cared enough to protect her was a name worth having. Might be the whole lead.
+
+Then Irony rolled their eyes. "I don't know, but these avowed, sometimes they're, like, they're a little bit too interested in the junior avowed."
+
+"Wink, wink, nudge, nudge," I said. "Okay."
+
+"I don't know, you might want to talk to her. I don't think I should talk about that."
+
+So I went to find Sprig. But I worked the gifts before the gossip. Like, how the book even got tampered with, right? Somebody could've unwrapped it and rewrapped it. I wanted to ask whether anybody'd seen a person messing with the pile under the — the non-Christmas Christmas Christmas tree. In a group like this, all the gifts were books anyway. Just a stack of them. Sprig nodded. "Yeah. Or wands, or magical artifacts."
+
+Then she gushed. Twelve dishes, the Candlekeep chefs, every word of it. She'd volunteered to taste each one to make sure none was poisoned. The chefs told her it wasn't necessary. She insisted.
+
+Daral lit up again. "That is the kind of initiative that I think should be commended. That needs to be a best practice going forward."
+
+I asked her straight: "Concern at all with the fact that you were the poison taster, and it turns out somebody was poisoned during that meal?"
+
+Then I caught myself. They didn't know Janussi'd been poisoned. Only we knew that. "Okay, so — yeah. We don't want to tip our hand here."
+
+She had one more thing. Late that night, going to the kitchens for cookies, she'd run into Sylvira Savikas hunting for something by candlelight. So I asked the obvious one: what was she hunting for, did she say? No. The tiefling just pointed at her throat, too hoarse to talk. Sprig helped her find a pot of honey and said goodnight. One in the morning.
+
+I looked at Daral hard then, trying to read whether there was a killer behind that smile. There wasn't. The man was scared out of his skin, kept eyeing Dawnbringer like he wanted to kiss the blade's feet and beg it off him. Not the conniving type. Cross him off.
+
+That's when Orrin Glass marched up. Third waiter. Deaf in one ear, a bit of an oddball.
+
+I was still chewing on the taster. "I wanted to know — is anybody really looking after Sprig? Because, like, why didn't — you know, who'd care if the poison taster lived or died?"
+
+Wrong question, right answer. It wasn't about Sprig. It was about Irony. Irony, who'd been trying to thwart the advances of one of the great readers.
+
+"It's not for me to say," they said, "but since she threw me under the bus…"
+
+"You know, we are — it's a murder investigation," I said. "Cut her some slack."
+
+Teles Ahvoste. One of the other great readers, making passes at Irony. And if I wanted to know what had actually passed between them, I should go to Orrin, the man who notices everything, even if he hears nothing.
+
+Zalthir would've caught the loophole before me: Irony can't lie. But she hadn't answered. She'd pointed us at Sprig instead. Can't lie isn't has to tell. She steered us rather than speak false. Worth remembering how she dodges. Can't lie well is the honest version.
+
+"I mean, let's go talk to Orrin, I guess."
+
+So I asked him flat. What did he see? Anybody messing with the gifts under the tree? What did he recall about the night?
+
+He gave me one thing about Alkrist. Alkrist had been holding a small scrap of paper toward a candle, feeding it to the flame, and when two junior avowed walked in, he dropped it.
+
+"Okay, so maybe he's a suspect then also." I said it out loud because it was true. "We're getting more suspects instead of fewer, just to be clear."
+
+And then Orrin handed me the one that mattered. Something out of the ordinary: the string tied around Janussi's Deadwinter gift had clearly been cut and retied.
+
+Cut and retied. The book sitting wrapped in that package, the string opened and knotted back shut. And that was the one that mattered: whatever happened, happened under the tree. In the room. With all of them standing around it.
+
+The giants had a saying that came up out of nowhere then. A rock in the wrong place is just a rock. A rock in the right place is a wall. The cut string was the rock in the right place. Nobody came in from outside. This was somebody who'd been at the table.
+
+I didn't say that part out loud.
+
+---
+
+## Daz — The Squirrel's Testimony at the Oak Tree Apothecary
+
+The apothecary was a tree. Not a building shaped like a tree, an actual evergreen oak grown out of the burrows in the west of the library grounds, with a pharmacy hollowed into its trunk and shelves of balms and tinctures climbing the inside of the bark. An elderly satyr called Leuwin worked a bench near the counter, distilling something, crushing seeds, macerating herbs, and a squirrel kept pace with him, fetching small implements one at a time. I have stood in worse-run operations. I noted that and moved on.
+
+I asked him who had visited him, what had happened, what the timelines were — and then, because the question I actually cared about needed a frame around it, I asked whether he knew anybody with an interest in the kind of poison we'd found.
+
+He gave me the day in clean increments, which I appreciated. At half past two, the gnome — Fheminor — came for cold medicine. Tincture of horehound, licorice to chew. At three, A'lai arrived asking for fennel for indigestion, and Leuwin took him down through the rear exit to the greenhouse below, where he grows herbs year-round with magic. At a quarter past three, the trouble.
+
+I asked to look around. Any sign of a struggle, anything out of place.
+
+Under the top shelf I found a peppermint-soaked rag and a broken vial, and the shelf above the spillage was labeled, in Elvish, *Dangerous Toxins.* The glass had broken and somebody had tried to hide it. Badly. That was the word that mattered. A professional doesn't leave a peppermint rag where the next person to crouch down will find it.
+
+"Hey," I said, "did you know it looks like somebody may have broken one of your vials up here in your dangerous goods?"
+
+That was shocking, he said. Unacceptable. He couldn't imagine how it had happened. What had been in the vial was one of those substances that, mixed and built upon, turns into very dangerous poisons. He couldn't imagine. Then: maybe Nibbles knows something.
+
+The squirrel popped up.
+
+I asked Leuwin for acorns first. Then I bent low and let the working loosen the squirrel's tongue into words I could follow, because a witness is a witness regardless of how many legs it has, and a witness with a price is the easiest kind to work. So there it was — a drow on his knees, bribing a squirrel one nut at a time.
+
+*Thorin would have had a one-word verdict for the sight. Something useless. "Hot," probably. I did not need the commentary, and for once I did not have to hear it.*
+
+Nibbles loved nuts. I had nuts. We understood each other immediately.
+
+I made the mistake of asking everything at once — who, why, the cover-up — and the squirrel told me that was too much. Fair. So I narrowed it. I held up a single nut and did not part with it until he answered.
+
+He saw the unfriendly girl gnome. Fheminor. Unpleasant, always unpleasant. I gave him the nut.
+
+I held up two more. He saw a big, clumsy, dark-skinned elf. A'lai, then — that conformed to Leuwin's account. *Do you have any more nuts?* He always did, because the shopkeeper, it turned out, could supply infinite nuts. I set the two down and held up four.
+
+A huge lizard skin came in and made a big mess. A dragonborn. Something went *bling* and shuddered, and the lizard moved things around, and then left.
+
+And then the line that reorganized the whole account: *because you gave me so many tokens, I saw the person, but Leuwin didn't, because Leuwin wasn't in the room.* Where was Leuwin? Helping the big, clumsy, dark-skinned elf. In the greenhouse. While the dragonborn was upstairs, alone, breaking the vial.
+
+*Did they arrive together? That was the seam to press — whether the elf and the lizard walked in as a pair or staggered their timing. Thorin would have asked it out loud a beat before I did. The audit wants the order of arrivals.* The gnome had come and gone by then. It was the dragonborn who broke the shelf and took the toxin.
+
+So: the drow draws the druid downstairs with a complaint about indigestion, occupies him in the greenhouse, and never once touches the dangerous goods. The dragonborn does the upstairs work and the handling of a substance that might kill whoever carries it. A diversion in one room, the theft in another, and the only one of them within reach of the poison is the one who isn't a drow.
+
+I have run that play. I have *been* the version of that play that gets caught holding nothing. I will not call it admiration. I will call it professional recognition.
+
+The drow caused the diversion and kept his hands clean of the highly toxic poisons that might kill you. The dragonborn took the risk. Elegant. I asked whether either of them had any identifying marks. The squirrel didn't know.
+
+So I handed over five more nuts and thanked him, and that ended the interview whether I wanted it to or not — his jaws were stuffed to the corners, packed like that squirrel out of Ice Age, and there were no more questions a creature in that condition was going to answer.
+
+---
+
+## Zalthir — Searching the Readers' Chambers
+
+The list came to me as eight names. Sylvira Savikas, whom everyone had already pointed at. Daral, the least likely. A'lai Aivenmore, who looked the part. Fheminor Scrivenbark, who had wanted the job and otherwise left no mark. Alkrist, the new one nobody could tell me much about. Teles Ahvoste, who had also wanted the top chair. Bookwyrm, eager to fire the old boss and seat a new one. And Kazryn Nyantani — Tani — the chief cleric.
+
+Eight rooms. One night. I asked the only question that mattered.
+
+"Okay, how much time do we have? How many can I — can I serve?"
+
+The answer was that the rooms would not get easier as I went. The first would give itself up. The second, likely. The third, less so. The fourth would resist me to the edge of what I could do. A staircase of locked doors, each step taller than the last.
+
+"Boy, alright. And what's it going to take?"
+
+It didn't matter much. I had Glabbagool. The ooze had come out of the bag eager, the way he is now eager about everything on the surface — *we're going on a secret mission!* — and the two of us moved as one thing through the Readers' Tower. He flowed where I could not reach; I read what he could not understand. Whatever passes for a smile in a grey ooze, he was wearing it. I was not going to say out loud that I found the partnership easy. I just used it.
+
+I went down the list in order, with two corrections.
+
+"I'm gonna skip Sylvira for now." Everyone's finger already pointed there. A name that obvious is rarely the answer, and if it is, it will still be there tomorrow.
+
+"But Daral's the one who's poisoned himself, right?" *Thorin would put it plainly: we aren't hunting Daral, we're keeping him on a hook. Skip the room.* "Okay, let's skip him as well." *Skip him and he becomes the obvious suspect, of course — Thorin would say it dry, and he would be right. The list does not care how it looks.*
+
+A'lai's chambers first. Sparse, tasteful — fine glassware, good ceramics, a large mirror, and a portrait of himself on the wall. A man who liked to be looked at, including by himself. Then the cage. White doves, the kind used to carry messages. The cage was built for five. Two birds sat in it.
+
+"Meaning? That others are dead, or—"
+
+The feeding troughs, the droppings, the wear on five perches. There had been more than two. Three messages had gone somewhere, and recently. I kept that.
+
+Alkrist next, and Alkrist did not believe in restraint. Lavish furniture, expensive cloth, fashionable art hung to be noticed. His spellbook on the desk. And on the desk beside it, sealed glass jars holding dead rats, their skin blistered and risen into pustules. I have seen what poison does to a body. This was someone studying it.
+
+On the bedside table lay a book — black leather, stars and gold filigree, the sort of thing a man buys to be the kind of man who owns it. *1001 Tashalian Nights.* It had a bookmark. I let Glabbagool steady me, and I read the man as much as the book.
+
+There was a class for this, somewhere in the monastery — reading what an object meant rather than what it was. Brother Heslin, maybe, or the tall one who smelled of incense. I wasn't listening then. I was listening now.
+
+The bookmark sat on the tale of a military commander, poisoned by a gift of surrender — a magic horn whose mouthpiece had been coated in Midnight Tears.
+
+A man with jars of poisoned rats had marked his page on a story about a poisoned gift. I set the book back exactly as it lay, careful enough that he would never know a hand had touched it.
+
+Beside it, a locked safe. *Daz would note it without regret: we are not the famed Whistler, no safecracker of that old generation among us. The safe stays shut.*
+
+"Can Glabbagool just kind of sneak inside, slip inside?"
+
+No. The opening was a finger's width, no more — a true safe, not one of the old massive locks a body could pour itself through. Glabbagool could not thin himself past it. We left the safe to keep its secret.
+
+Bookwyrm last, and by then the tower was fighting me. Her chambers took half the top floor — comfortable, neatly arranged, no extravagance to it. I got in. I found nothing. Glabbagool tasted the air and found no poison in it. A clean room. That, too, was information.
+
+"We seem to have a lead."
+
+We had several. A cage missing three birds. Jars of blistered rats. A page marked to a poisoning by gift.
+
+Midnight Tears. I kept the name where I would not lose it.
+
+
+# Chapter 57 The Zone of Truth will set you free 
+
+
+
+## Grygum — Reunion and Debriefing
+
+The talk had gone well. Extraordinarily popular, as I was informed by several people on my way out. Each one delivered the assessment in tones normally reserved for resurrection announcements. I took notes. Whether Bahamut reads them or not, the record now exists, and the record says: the quadrangle issue landed.
+
+I found the others in a state that suggested they, too, had had a productive afternoon. *Productive* was doing some work in that sentence. Daral was there. He looked alive, technically, though with the specific quality of someone counting down.
+
+He reached me before I'd fully crossed the threshold.
+
+"I think that Daz is— I'm sorry, I think Thorin is a fantastic investigator, an absolutely astonishing investigator, and his charming partner, Dawnbringer, is a stunning, absolutely stunning—"
+
+I have met Daral. He is not a man who distributes superlatives casually. What I was watching was a man running the full inventory of everything he had left to spend.
+
+"Yeah, guys," I said, cutting across the praise before it could build momentum, "what did you find out while I was out?"
+
+The flattery tried a different opening line. "Well, Mr. Grygum — as a cleric of Bahamut, might I say that your entire position on the quadrangle issue was, in fact, a brilliant insight that has dramatically transformed the—"
+
+"No, no," I said. "What am I restoring?"
+
+Thorin explained. The book had delivered the poison to Janussi, and Daral had taken it back, as men who give gifts sometimes do when the recipient fails to appear sufficiently grateful. In the process of reclaiming it, he had licked his finger, licked the book, then licked his finger again. I noted the sequence. There was a kind of justice in it: Daral had been so careful about how the poison reached someone else that he'd delivered it to himself with the same care.
+
+"Plenty of time," someone said. "From your research, you know that there's plenty of time to heal him."
+
+"In due time, my dear," I said. "In due time."
+
+Daral did not argue. He was operating on an instinct he couldn't quite articulate: that the one with the Lesser Restoration wasn't ready to spend it, and that arguing wouldn't make the healing come any sooner.
+
+Thorin was more explicit. The concern was that Daral, once restored, would discover pressing business elsewhere and become difficult to locate. The ones who ran the moment they felt better were usually the ones who'd shared their most valuable information right before the healing, because they knew they wouldn't be around to see how you used it. Daral wasn't the Underdark, but the principle held.
+
+"Actually," I said, a thought arriving, "didn't we have somebody like that with our party anyhow? Did we already send him away?"
+
+"Oh, that's the same guy."
+
+Right. I filed that under *continuity*.
+
+And then Fembris Lancer arrived.
+
+He came in like a man who'd been rehearsing in the corridor. Trying not to make an entrance. Making one anyway. He had notes.
+
+"Grygum, that was fantastic!"
+
+"Why, thank you," I said. "I do my best."
+
+He started pulling out the notes. He had theories. He had been moved, intellectually and possibly spiritually, by the colloquium. He was wondering if I'd be willing to...
+
+"Oh, yes, please," I said. "Deposit them with my secretary." I indicated Glabbagool.
+
+I've seen this before, in different forms, with different people: someone realizes the thing they came to present is about to be handed to a gelatinous cube. Fembris's face did the thing. He looked at Glabbagool. He looked at me. He looked at the notes in his hand.
+
+He handed them over.
+
+Glabbagool examined them with professional detachment: the focused, slightly acidic attention he gives to anything he's evaluating for nutritional content. A pause.
+
+"This is not nutritious."
+
+"It's never stopped him before, but I…" I left that open. It didn't need finishing.
+
+Another pause. "This is not food." Then, with a quality of genuine longing I was not expecting: "I remember when there was cheese. Perhaps if we had some cheese."
+
+The thing about Glabbagool is that he doesn't perform emotions. He has them. The cheese was real. The grief about the cheese was real. I have carried this cube from the Underdark through several extremely dangerous situations, and his feelings about cheese are among the most consistent things about him. I find this, privately, both moving and correct.
+
+Fembris looked like a man who'd brought his life's work to an audience and had it handed off to the help. The help was a gelatinous cube that had just declared the work inedible. Everyone in the room understood where the pile was going.
+
+"That part's supposed to be sub rosa," I said. "But the fact that I'm adding it to the pile — that's evident."
+
+Fembris gathered something from the ruins and proposed a monograph.
+
+"I think you might misunderstand the term monograph," I said. "It's a work that has one author."
+
+He suggested a duograph. I allowed that this was possible: a dual log, perhaps, something in that register. He offered an autograph with acknowledgment. I confirmed there was always room in the acknowledgement section. He promised a draft by tomorrow. I said excellent, and I meant it in the way one means things that have been settled administratively.
+
+He turned to go, then lingered at the door. An alpha stationed there made a pointed sound in its throat. Fembris collected himself. "Oh, yes — the investigation." He glanced around the room. "Where are the four of you? Who were the rest of you? I didn't see you at the talk."
+
+Nobody answered in a way that invited follow-up. Eventually he was just gone.
+
+I turned back to the business.
+
+The party walked me through it. The timeline was clean in the way timelines are when every piece fits a little too well. A'lai had shown up at the Oak Tree Apothecary at half past two on the day of the murder, asking Leuwin for fresh fennel. Indigestion. While Leuwin was helping A'lai in the garden, a dragonborn had arrived: a huge, lizard-skinned figure, per the testimony of Nibbles the squirrel, who had witnessed things Leuwin had missed. The poison was collected. A mess was made. Alkrist was a dragonborn. Zalthir had caught that this referred to the apothecary intrusion, not whoever had later removed the heart and looted the safe: two separate acts, two separate threads. I noted the distinction. It mattered.
+
+The sapphire and the locket were giving Thorin some trouble. He walked it through twice and still couldn't square it. I wrote down what he had: you can't steal a locket off someone who's alive and holding it. You need the sapphire to find a locket that's already lost. So whoever had one didn't need the other. I didn't try to work out which. That's Thorin's kind of puzzle, not mine.
+
+Thorin proposed that one person could have done both: stolen the locket, then taken the sapphire to close off pursuit. Tidy. The problem was the impossibility of the first step: a living man in possession of a locket is a man whose locket cannot be stolen. That's not a lock. It's a law.
+
+Two people, then. Probably.
+
+"I'm interested," I said, looking at what I'd noted. "We still have that locked safe, right? At the end of this document it says, open threads: Alkrist's safe, unopened."
+
+The room remembered. Zalthir had been in Alkrist's chambers. He'd asked Glabbagool whether Glabbagool could squeeze through the crack. Glabbagool had made the distinction between a gap that admitted a gelatinous cube and a gap that did not.
+
+And then, now, with the quiet authority of someone who has been sitting on a useful observation:
+
+"I guess I could have eaten through the safe. It would have taken a while."
+
+"Well," I said, "this is a sort of out-of-the-box thinking we need sometimes."
+
+Glabbagool turned the full weight of his attention toward Zalthir. "You should keep that in mind, Zalthir." A pause. "Walls don't stop us. I can eat through walls."
+
+Zalthir had reasons. "If the goal was to be destructive, I could've just punched the safe. But we were trying to be sneaky."
+
+Glabbagool considered this. "Good point. Good point, good point."
+
+His dignity was entirely intact. He had simply offered a service that had, in retrospect, been available all along, and noted for the record that walls present no meaningful obstacle to his methodology. He was not wrong. He has never been wrong about what he can eat.
+
+I added the safe to the list. We had not brought a gelatinous cube this far through the Underdark to find out he could eat through walls in the middle of a conversation about a safe we still hadn't opened.
+
+There was still time. I took notes.
+
+---
+
+## Thorin — The Methodology of Murder
+
+Poisoned book, frames a colleague, and disappears the evidence. Too elaborate. Which is exactly why it worked.
+
+This was too confusing, so I called out "Virtual familiar — actually analyze and summarize it for me."
+
+Elian said it again for emphasis: Kalan proposal was a good one. There was real pushback. People said it was a waste. The same people, apparently, who didn't want murders looked into properly.
+
+Then he added, "And by the way — if you do find it useful, it'd be great if we could write a monograph together."
+
+I looked at him. This was the second person at Candlekeep to angle for a monograph. First Fembris, now Elian. Two men after a monograph in one afternoon. That told me something about how this library keeps score.
+
+"I'm sorry — it would not be a monograph if we wrote it together."
+
+Grygum agreed immediately. Elian backed up and tried again. What he'd meant, he clarified, was that he'd write the monograph, and I might contribute a preface, saying what an excellent monograph it was.
+
+"I'll write the introduction," I said.
+
+Not a preface. Prefaces are decorative. Introductions frame the argument. Elian accepted the distinction, then offered, generously, that even if we failed to solve the murder, even if all I could write was that these techniques *would have* helped, the academic community would still approve.
+
+"Well, first we have to solve the murder," I said. "But I appreciate it."
+
+Elian's pitch: even a maybe still counts. An endorsement doesn't need the murder solved to be worth something.
+
+"I mean — how?"
+
+He walked me through it. I turned it over.
+
+"Counterfactual," I said. "But I think that's a different thesis, so..."
+
+Elian said having someone of my *stature* involved would do wonders for criminal investigation across Faerûn.
+
+"Alright, I appreciate that," I said.
+
+Stature. I thought briefly about Velkynvelve, which is where this all started: a dwarf in the wrong place, in chains, at the bottom of the world. Whatever stature looked like from the outside, it was built on a lot of falling first.
+
+Then Elian made his final point: "Too many people, if you ask me, think: cast a spell, find the murderer. It doesn't work that way. I'm telling you, it just doesn't work that way."
+
+The question that had been sitting in the back of my skull moved forward.
+
+"Well, I'm interested — even if we were able to actually cast Speak with Dead, how do you know they're a reliable narrator? What are their motivations after they're dead? We don't know. Because they're dead."
+
+Grygum said we could sometimes bring them back, which was technically true and didn't touch what I was asking. Elian said the paper had a whole section on it: the *myth of the person.* The assumption that death is a transparency, that the dead have shed their performances and will now simply tell you what's true. They don't. They're still themselves. They forget, misattribute, have things they'd rather believe about what happened. They just have fewer consequences now for getting it wrong.
+
+"Okay — oh, the myth of the person. I'll have to look at it."
+
+The core principle, stated clean: *you cannot rely on magic to make evidence meaningful. It makes evidence adversarial.* Collect facts from different angles: physical, testimonial, procedural. Combine them. When they all converge on the same point, that's when you know.
+
+In the Underdark, the one thing that didn't lie was terrain. You couldn't trust what you were told. You couldn't trust what you saw. But the ground under your feet was fixed: the angle of a bridge, the width of a corridor, the placement of a glyph. This was the same principle. Magic was just another moving surface. The facts underneath it were still fixed. Giants taught me that without ever writing it down. *A rock in the wrong place is just a rock. A rock in the right place is a wall.* You don't argue with it. You find it.
+
+"But what is changing?" I asked.
+
+*You can't.*
+
+"Exactly." The truth doesn't change. What happened, happened. You're assembling a picture of something already fixed, not hunting something fluid. "Oh wait, don't — please, I don't need another —" I started, because Elian had the look of a man reaching for a second document.
+
+Grygum stepped in: *"Once you have eliminated the impossible, whatever remains, however unlikely, must be the truth?"*
+
+"Yeah, there you go," I said.
+
+Elian lit up. Could he use it?
+
+"Yes," Grygum said, with tremendous dignity. "I made it up myself."
+
+He did not make it up himself. I've heard it before, somewhere, in something I read a long time ago. But it was his contribution to the afternoon and I wasn't going to complicate that.
+
+"This is like one of those parlor mysteries where somebody stages a locked room just to watch people argue about it," I said. "Alright, I appreciate this — this is fun."
+
+Nobody had an answer to that. They never do.
+
+Zalthir had been quiet for a while, which with Zalthir means he's working something through until it's finished.
+
+He laid it out: the Sylvira lookalike had been seen in the kitchens around one in the morning. She'd been seen coming down the stairs between two and three. That's a minimum two-hour gap. A polymorph spell lasts an hour.
+
+*Something more is going on here,* he said.
+
+He was right. The document Elian gave us said the same thing in academic terms: magic doesn't close contradictions. It creates them. Someone had used something more than a simple polymorph, or used it repeatedly, or used something else entirely: something we didn't have a name for yet.
+
+The ground wasn't as solid as it had looked this morning. But at least now we knew where the gap was.
+
+---
+
+## Zalthir — Splitting the Leads
+
+Fembris Lancer is not a man who idles. He had been filling the air with noise since we arrived. Useful noise, I'll grant him that. Still noise. The current iteration was: *"My friends, time is a-wasting. We will— first of all, persons—"*
+
+I let him talk. He would arrive at the point eventually.
+
+We had three problems and roughly the same number of people willing to go chase them. The third-story apartment in Janussi's chambers was still unvisited. We knew the wrapping paper from the poisoned book had been taken there, and we hadn't gone back. There was something to find. Grygum saw it at the same moment I did.
+
+"Somebody go talk to Alkrist," he said. "There's something listed as a third-story apartment with an open door we haven't gone into. I'm gonna go look into that."
+
+A clean split. I approved of it silently. The apartment was in Janussi's chambers. The wrapping paper trail led there, and there was still evidence about Kalan we hadn't turned over. The kind of thing that didn't need an interview to yield. "Yeah, I'll head up and check that out," Grygum said, and that was settled.
+
+Which left Alkrist.
+
+Alkrist is dragonborn. So am I. I noticed this the way I notice the size of a room before I notice the people in it. There is a quality to conversation between dragonborn that removes a layer of introduction, a layer of performance. I don't know if Alkrist would use it. I knew I could.
+
+"Dragonborn to Dragonborn?" I said. "Intimate... yeah, I'm fine with that. But we should bring— what's his name, Kalan?"
+
+The room produced a brief negotiation about the name. Daral. No. Different person. The correct answer surfaced: Kalan Strongbranch. The First Reader. The one with the truth-seeking spell that had already anchored the investigation once.
+
+"Who can cast the truth spell? Yeah — Kalan Strongbranch."
+
+Which meant we needed Kalan. And Kalan, apparently, had gone somewhere.
+
+Fembris absorbed this without breaking stride. He was already moving toward the door. "I'm gonna have to hunt Kalan down," he said, the energy of a man who locates missing First Readers as a matter of routine. "Let me go, let me go." He paused at the threshold, one beat of acknowledgment. "At some point I'll return with Kalan." And then he was gone, the door still swinging.
+
+I watched him go. There is something almost monastic about how Fembris operates: the total commitment to the immediate task, no friction between decision and movement. Brother Heslin, or possibly Brother Varath, I'm genuinely uncertain which, had devoted an entire season to teaching our cohort the art of the urgent errand, the clean dispatch. I had been looking out the window. Fembris had apparently learned it somewhere else.
+
+Sylvira was still unaddressed.
+
+"We should do that," I said, when the question came up.
+
+No elaboration. Sylvira was framed for the murder and dying slowly under the poison's effect. She had every reason to tell us everything she knew and no reasons left not to. The interview was worth having. Daz was the natural choice for it: he knew how to make someone talk, and he was drow, which was not irrelevant given what we knew about the Menzoberranzan thread running under all of this. I noted this and did not say it aloud.
+
+"Happy to talk to Sylvira in the meantime, or whoever can," I added, leaving the door open.
+
+Grygum was already moving for the stairs. He stopped, turned back. He'd remembered something.
+
+"When you talk to Alkrist, there's something in the list about what Alkrist burned at the feast — you should ask about that."
+
+I hadn't flagged that one. I had been working through the zone-of-truth timing, the dragonborn opening, when Kalan would arrive. The feast detail had been sitting there, unflagged. Grygum had read it.
+
+"He apparently burnt something at the feast," came the confirmation. "That's what it says." A good catch. Filed.
+
+Three lines of inquiry. Three investigators. The work divided cleanly, cleaner than most things we attempted. Grygum heading upstairs for the physical evidence. Daz taking Sylvira while she still could be taken. Kalan being hunted so the Alkrist interview could be done properly, with something binding in the room.
+
+I stood in the space between all of it. Waiting. Watching.
+
+---
+
+## Grygum — Investigations in Janussi's Chambers
+
+The others had Alkrist. That was enough hands for one interrogation.
+
+"Somebody go talk to Alkrist. There's something listed as a third-story apartment with an open door we haven't gone into. I'm gonna go look into that."
+
+Janussi's chambers. I'd been in the lower floors. We all had. But the third story had sat there like an unopened file, and there was still the matter of the wrapping paper. The paper that had wrapped the poisoned book had been brought here, and nobody had retrieved it. Evidence doesn't improve with age.
+
+"Yeah, I'll head up and check that out."
+
+The third floor was... well.
+
+"Oh, well, that's not shocking. We kind of heard Janussi had these habits."
+
+It wasn't shock exactly. More like walking in on someone's private arrangements and feeling vaguely rude about noticing them. I poked around, maybe a little cautiously, because you never know if you're going to find something you'd rather not, but I looked.
+
+There was a note.
+
+"Oh, a note! I read it."
+
+That's the thing about investigations. Once you stop being surprised that people leave evidence of their own intentions lying around, the work gets considerably easier. Janussi wrote down what he thought. People do that.
+
+The opening line landed like a thrown stone.
+
+"Oh boy, this starts out with some real academic insult."
+
+I've read enough Bahamut commentary, the kind written by scholars who've spent forty years sharpening the same argument against a rival they've never met, to recognize the genre. Academic insults don't call you wrong. They just don't call you anything. They write around you like you're not worth the argument. Janussi was good at it.
+
+I kept reading, skimming ahead, already seeing the shape of the thing.
+
+"I mean, it probably says something about how his work is incremental later on."
+
+It did. Or the equivalent. What came through, with precise and brutal efficiency, was that Janussi had reviewed Kalan Strongbranch's proposal for new criminal investigation methodologies, found it to be solipsism, and had blocked it. He wasn't interested, he wrote, in creating all these rules and procedures so that Kalan could go detect a murder mystery.
+
+I had to read that sentence twice.
+
+Not because it was ambiguous. Because it took a second to see how precisely it was aimed. Janussi hadn't just rejected the proposal. He'd characterized Kalan's entire framework as a vanity project, as though Kalan had constructed an elaborate methodology for no purpose other than to make himself feel like a detective. As though the investigation of crime were an indulgence, a hobby, a *conceit* Kalan was pursuing for his own entertainment at the institution's expense.
+
+Not the cruelty that shouts. The cruelty that doesn't bother being angry at you. I filed it under the second kind.
+
+And it had worked. Kalan's entire professional project, the work he'd apparently staked his reputation and career on, buried under one man's contemptuous signature.
+
+"I mean, this really points to Kalan. Pretty strongly."
+
+Kalan's entire proposal for dealing with crime, the Threefold Proof, the methodologies, the framework we'd been handed as a legitimate investigation tool, had been blocked by the man who was now dead. All of it. Dismissed as solipsism. Shelved. And Kalan had then delivered us that very framework as his operating methodology, had asked us to apply it, had sat across from us as the investigator of record while carrying the motive his victim had handed him on a signed document.
+
+That doesn't make him a murderer.
+
+But it means he built his whole methodology in the wreckage of the man who told him he was wrong. I noted that.
+
+I took notes. It's what I do.
+
+---
+
+## Daz — Interview with Sylvira
+
+The reply to the interview summons had been diplomatic, in the way that most useful deflections are: the witness had a bad case of the winter flu and would gladly welcome the investigators to her quarters instead. Not a refusal. An adjustment. I noted the distinction and went.
+
+The door opened before I knocked. A mage hand, which was interesting: she was bedridden and shuddering under a fever, and still running a familiar and a mage hand from across the room. I filed that in the column marked *not incapacitated.*
+
+Her quarters were suffocating. A faux fireplace blazed along one wall, throwing out heat with the single-mindedness of a spell running at full force, yet Sylvira kept shuddering anyway: her copper-red skin sheened with sweat, the lilac robes she'd wrapped herself in accomplishing nothing against a cold she clearly felt in her bones. Her hair, blue-black, the kind of deep shade you only really find underground, hung tangled and damp around a face that was, even in this state, genuinely striking. The golden eyes were the thing. Magnetic is the word I would have used, and I rarely use it.
+
+"Jezebel! Organize the chamber's seats in front of me!" The familiar moved with an efficiency that told me this was not the first time Sylvira had directed operations from a sickbed. She looked toward me with the alertness of someone refusing to be diminished by circumstance.
+
+"Some wine or coffee?"
+
+"No thank you."
+
+I said it without ceremony. I had questions that needed her full cognitive engagement. I will not call her a mark. I will call her a witness. Accepting hospitality from one tends to produce conversation rather than testimony.
+
+Upset and shocked, plainly. That much anyone could read. Underneath both was something she hadn't meant to let through: relief. "I'm willing to collaborate with anything," she said, "and I'm *delighted* — *delighted* — that you are leading the investigation." I am merely one of many doing the investigation. I filed the compliment and moved on.
+
+The first order of business was the framing. I asked whether she had any ideas about who might want to frame her, or make it appear she was responsible for what I carefully called "this horrible tragedy." The face that followed was the specific expression of someone who thought they had all the cards and has just been told the game was different entirely.
+
+"What do you mean, I've been framed?"
+
+"You're not aware that your likeness has been seen moving around, doing things you couldn't possibly have done?"
+
+The shock curdled. "This is outrageous. Are you here to accuse me of a crime?"
+
+I kept my voice even. "I believe I said you were framed."
+
+"Yes, but is that a trick of the tongue?"
+
+There it was. I had wondered when Menzoberranzan would enter the room. The suspicion was entirely reasonable: the city I came from is not known for delivering bad news to people out of charitable concern. But I found the right framing, the right register, put everything I had into making the truth land as true, and something clicked into place, the kind of entry you know is correct before you've even totaled the column.
+
+She sat with it. "Well," she said finally, "if that was a trick the drow use in Menzoberranzan — to twist the knife in their unsuspecting victims — it was a poor one. So I'll assume it isn't one."
+
+Good. I gave her a moment to adjust her accounting, and then she started thinking aloud about suspects, which was what I needed.
+
+Daral Yashenti came up first: "a drunk who is bitter," having to sell off his worthless poetry to fund a new library. She dismissed him herself before I could. "He's too much of a drunk to pull off something like that. That requires a level of planning and thought and care he's never demonstrated in any of his research." The dismissal had the confident quality of someone who had reviewed the evidence. I entered Daral on the tally marked *possible but unlikely* and waited.
+
+Then: Kazryn Nyantani. The name arrived with a weight that told me it had been sitting just below the surface. Before Sylvira and Janussi were a thing, on and off, Kazryn was who he was involved with. Then Sylvira. Then...
+
+She broke down. Not performance; it came from somewhere real and arrived without warning, and she kept talking through it the way people do when the alternative is sitting still with it. "That bitter old hag," she said, "who always resented Janussi for ditching her in favor of me." And then, quieter: "This was my fault." Something about a frumpy old boar. Under different circumstances I might have found that instructive about academic rivalries.
+
+I let her have a moment and steered toward motive. What I was trying to understand, I said, was whether she was a target of convenience, someone easy to point at, or whether there was something more specific. A research proposal with enemies. Something she'd found and hadn't published yet.
+
+It was the blunter version of the same question: the one Grygum would have asked outright, if he weren't three floors up going through a dead man's love nest instead of sitting across from a fevered witness with me. *Is there a motive here.* No dressing on it. I let the shape of it sit under mine and asked anyway.
+
+Sylvira looked at me, and I supplied the context she was quietly asking for. I'd recently come up from the Underdark, I said. Born and raised in the Overbright, but absent from it for some time. Which was, I realized, the most straightforwardly true thing I'd said in the entire conversation.
+
+She seemed to decide I was worth the explanation. In the Overbright, she said, people look at a tiefling and assume she's an abyssal spawn. She happened, technically, to be an abyssal spawn, so they weren't even wrong. Her area of research was the infernal domains, which compounded the prejudice. The relationship with Janussi had probably offended someone else on top of that. Put it together and she was a convenient target. An easy one.
+
+Thorin wasn't in the room to offer the easy sympathy. He was off somewhere getting ready to make Alkrist very uncomfortable. So I gave her the narrower version myself: being the convenient target isn't exclusive to any one city. She took it. It was accurate, if not warm.
+
+It was the kind of gap Zalthir would have wanted closed before moving on. He had no patience for an hour nobody could account for, wherever his own patience was currently being spent on Alkrist. So I asked it myself: had she seen anyone, one or two in the morning? Had anyone seen her? She started to say she couldn't say that she'd seen anyone, and then something caught in her throat. "Not that that means anything," she managed. "After my argument with Janussi... oh. Those were my last words with him."
+
+She was distraught in the genuine, inconvenient way: the kind that doesn't respond to logic, only to steadiness. I found the right words again, though not quite as precisely as the first time. Enough. She gathered herself by visible effort and said: "You're right, you're right. We must focus on the problem at hand — capturing the person who murdered my love, and who is impersonating me." Then she sneezed, which was almost too much for the moment to hold.
+
+"Perhaps if I told you what happened."
+
+"Yeah, sure, go through."
+
+The timeline she gave was orderly despite the fever. Kalan Strongbranch had come to her before Deadwinter evening, asking her to intercede with Janussi on his behalf, to keep his job. She told him she would. She never brought it up. "Janussi was right to want him gone. He was a clown, a boar, and his research was third-rate at best." The same confident dismissal she'd given Daral: she knew her field.
+
+The end-of-year meeting had been at 11:30 PM, and they'd spent most of it planning a new library dedicated to the Great Wheel of Planes: a joint vision that had clearly mattered enormously to both of them. It ended in an argument about a personal, private matter, she said. But she had *never*, she insisted, called him a genus traitor. The word "never" had a specificity that suggested she'd anticipated being asked, which was itself worth noting.
+
+The feast she described as the same drab affair it always was, right down to the dishes, and she'd left early when the flu began coming on. I still had one question queued from before the party split. Grygum had wanted to know whether she knew anything about Alkrist burning something at the feast. So I put it to her directly. She received it with the diplomatic silence of someone choosing not to comment on something they either hadn't witnessed or had already assessed as irrelevant.
+
+Then she stopped mid-thought and doubled back to the question I'd asked a minute earlier. "Did you ask me if anyone saw me, after? I did sneak out. To visit my son." She had a son, born in the Abyss, living in a Mordenkainen's Mansion she'd constructed specifically for his protection. She'd been trying to coax him back into it.
+
+I asked whether she was the figure someone had seen near the kitchen. The thing about the honey.
+
+The reaction was immediate. "Honey? I would *never* drink honey. What kind of nonsense is this?" It had the ring of genuine offense: the specific outrage of someone misrepresented in a particularly trivial detail. I found this more convincing, not less. It's harder to fake minor indignation than major denial.
+
+The contradiction balanced: if she was with her son, she wasn't the person seen near the kitchen. I marked it down as a verifiable alibi: the sort of finding Thorin would want stated plainly, wherever he currently was, extracting a rather more reluctant confession of his own.
+
+Zalthir's instinct would have been to pin the timing down to the minute. He never let a gap between two facts go unaccounted for. So I asked it in his place. How late had she been with her son?
+
+She'd returned to her chambers around 12:30, she thought. "And what happened after that?" I asked.
+
+After 12:30, she came to her room and saw no one. Her son, it emerged, had infected her with an abyssal plague, born in the Abyss, which has consequences, and if anyone claimed to have seen her after that, she said with pointed precision, it would be members of the avowed who had long nurtured hostility toward her. Great Readers included. She named Teles Ahvoste directly.
+
+It was the sort of question Grygum liked to press: motive, stated plainly, before anything else got in the way of it. So I pressed it myself. What would Kalan's motive be?
+
+Sylvira's answer was the clearest thing she'd said. Teles had remained hostile toward Janussi for nearly twenty years, passed over for Keeper of Tomes despite being older than Janussi and generally considered the more skilled practitioner. "Jealousy is a powerful motivator," she said. "For revenge. Murder." Exact, the way she delivered it. A researcher naming a mechanism.
+
+Then she circled back to Kalan: his proposal, which she called insane, all sorts of investigative controls and restrictions. When Janussi had raised it at some point, it was Bookwyrm who'd felt it was absurd. Bookwyrm who had pushed hardest against it.
+
+I opened an account I hadn't expected to need this early.
+
+I pressed once more on the timeline, the way Zalthir would have. Had she actually said what happened after 12:30? The timeline was approximate, came the answer. She'd had no wristwatch. She hadn't murdered anyone with midnight tears, so there'd been no reason to track the precise hour. Between 12:30 and 1 in the morning, feverish, alone. After that, no one.
+
+I took stock of what the room had given me. Kazryn Nyantani: resentment credible enough to survive scrutiny, long-standing grudge, apparent capability. Teles Ahvoste: two decades of cold institutional hostility, a grievance that hadn't cooled. Daral Yashenti: motive, but dismissed on execution grounds by someone who knew his work. And Bookwyrm, who had opposed the investigative tools that might have caught this sooner, floating at the edge of what Sylvira would say directly.
+
+And a sick tiefling in a too-hot room, shivering despite the fire, grieving the last argument she'd had with someone she'd loved.
+
+It was enough to work with.
+
+---
+
+## Grygum — The Reassembled Evidence
+
+The chambers were quiet. Not library-quiet. The quiet of a room that had stopped being someone's.
+
+I'd been through Janussi's third-floor rooms carefully. There was a note, and I'd filed that away. But the thing pulling at my attention now was a piece of paper, crumpled and retrieved from a trash bucket in the dining hall. Wrapping paper. Nothing written on it that meant anything. Nothing that would flag it as significant if you were moving quickly.
+
+I was not moving quickly.
+
+It had come out of the dining hall trash, which meant someone had opened a gift in there, or carried the wrapping there to discard it, or wanted it somewhere it wouldn't be found in the immediate search of Janussi's rooms. Those are three different stories. I don't like having three different stories when I should have one.
+
+I turned it over in my hands. Torn in several places, the way paper tears when you're unwrapping something with reasonable enthusiasm. But there was something else. A straight edge where there shouldn't be one.
+
+I thought: could be someone who reuses wrapping paper. I know people like that. Very conscientious. Very crunchy-granola about it. I filed that possibility under *unlikely, but possible.*
+
+"Oh, Mending is smart," I said, to nobody in particular. "Let me see — do I have that one? I do."
+
+I do. It's not a spell that comes up often in my line of work, which tends to run toward the category of *people have been badly hurt, please fix that now.* But Bahamut's domain is, among other things, the preservation of truth, and a cantrip that restores things to their original state is, when you think about it, a pretty good way to find out what a thing used to be. The prayer was short. It always is with cantrips. The paper did the rest.
+
+The torn pieces came together under my hands. I watched them, the way I watch a patient's color come back, looking for what the restoration reveals rather than what it conceals.
+
+There it was. A clean cut, straight as a rule, separate from all the ragged tears. Someone had taken something sharp to this paper, and then wrapped it back around the contents, and tied the bow, and handed it to Janussi, or left it on a table, or had it carried by someone who had no idea what they were carrying.
+
+That is not a crime of opportunity. That is a crime of preparation.
+
+"Is there a sign of what it was wrapped around?" I asked.
+
+It was wrapped around the book. The gift-wrapped book.
+
+"Oh, okay," I said. "The gift wrap for the deadly book."
+
+I said it flatly, which is how I say things when the thing I'm saying is worse than the voice I'm using to say it. *The gift wrap for the deadly book.* Someone had planned this: got the poison, picked the target, wrapped it up clean enough that a Keeper of Candlekeep, a scholar who'd spent a lifetime reading things carefully, never noticed. Had opened it. Had thanked whoever sent it, maybe. Had been pleased.
+
+I took notes. The straight cut. The two sets of tears, the deliberate and the incidental. The fact that someone had walked out of Janussi's rooms, or never entered them at all, carrying discarded wrapping paper they felt was safe to throw away in the dining hall, because who looks at trash?
+
+Bahamut may or may not have been watching. I took notes either way. The notes say: whoever did this was calm, prepared, and patient. They had planned for what happened after the gift was opened, which means they had planned for what happened after Janussi was dead.
+
+That is the kind of detail that belongs in a file you keep very carefully.
+
+---
+
+## Zalthir — The Interrogation of Alkrist
+
+The performance started before he sat down.
+
+Alkrist was bronze-scaled and somewhere in his thirties, dressed in a way that suggested he had opinions about the right kind of thing to wear. He entered Janussi's chambers with the careful energy of a man who had rehearsed his arrival, and then deployed grief the same way: deliberately, as an announcement he wanted witnessed.
+
+"Before I begin, let me just say a few things. I was a big fan of Janussi — his leadership quality, and, let's be clear, I had a fantastic, superb relationship with the man. I want you to know I will miss him deeply and profoundly. His passing was a loss and a tragedy, and I cannot begin to express my gratitude for your willingness to step into this difficult time to find the criminal element."
+
+Thorin responded with something about being happy to help for the right remuneration. Citizens of the world, not concerned with petty matters. I watched Alkrist miss the edge of it entirely. He took it as sincere. He was pleased. I filed it: self-absorption sufficient to blunt irony.
+
+I had one practical concern.
+
+"Just double-check here real quick — did we have Kalan start his truth spell thing?"
+
+Yes. Kalan was outside the door. As of right now, Alkrist could not lie. He didn't know that yet. Or rather, he was about to find out, the way you find out a floor is wet by walking onto it.
+
+Thorin laid out the lines of inquiry, and I added mine carefully.
+
+"And delicately, because we're not supposed to know about it — but we need to inquire as to the book. The 1001 Tashalian Nights."
+
+I said it to Thorin, not to Alkrist. Because I had been in Alkrist's chambers earlier, moving through the dark in a way I was reasonably confident he hadn't noticed. The book was on a shelf, bookmarked. I had read the section it was bookmarked to. There was a class at the monastery, Brother Essivhan, possibly, or the quiet one with the ink-stained hands, about what you find in someone's room telling you more than what they'd ever say with their face. I had not been paying close attention during that class. I don't remember what they said. I found the book anyway.
+
+Glabbagool was in the room with us, settled near the far wall. He had been there since the beginning. I had not asked him to pay attention. He simply did.
+
+Alkrist came apart under the zone of truth the way a tight knot comes apart in cold water, not fast, but continuously. You could see him trying to veer away from true things, catching himself mid-sentence, correcting course involuntarily. Bookwyrm first, his beloved aunt, distraught that the succession wasn't going her way. Then the performance review with Janussi: dismissed, told his germ warfare research was dangerous and should be stopped, told he showed no leadership potential. He defended the research with the practiced urgency of someone who had been explaining its importance for years to people who still didn't understand. I filed it. Not what I was after yet.
+
+Then the baths.
+
+"Okay, great — if I'm here, in the timeline, just to clarify: when is this baths meeting?"
+
+Eleven forty-five. A'lai and Alkrist, discussing what needed to be done about their mutual problem. He stopped there, clearly hoping that was enough.
+
+"Does he describe the nature of their conversation? What they're planning?"
+
+Not enough.
+
+"Say more. How did you propose dealing with him?"
+
+A method, he said, from a book. His hand moved toward the shelf before his mouth had finished the sentence. Not pointing. Just drifting.
+
+"Which book?"
+
+"A famous book — one I was reading recently."
+
+"That one? 1001— whatever it is, Nights?"
+
+"Tashalian Nights," he said. "Yes, yes, yes — that would, that would exactly—"
+
+"Right, right — the part you bookmarked, is that right? So I can just look?"
+
+I flipped it open. It went straight to the page. Midnight tears. Tidy, annotated, marked: the margins of a man who had been studying rather than reading.
+
+"Oh, yes, that's the part! Don't look, don't look, don't look!"
+
+"Yeah, it's bookmarked at the midnight tears part."
+
+The confession followed in full.
+
+"Very good. So, how did you help in this plot, then? Talk us through the mechanics."
+
+He went through it all. The Oak Tree Apothecary, the stolen vial, peppermint spilled on the counter floor. Daral's present, unwrapped and coated in midnight tears and carefully re-wrapped. The vial's label torn off and tied to the back of the Dead Winter tree as decoration. He was burning the label when Irony and Orrin Glass arrived with a basin of water for supper, and he had washed his hands in it, just in case there was any midnight tears on them.
+
+I noted the hand-washing detail. The kind that feels small until it doesn't.
+
+"Is that the extent of your involvement?"
+
+"I didn't actually kill him. I just put some poison on a book."
+
+Then he tried to escape sideways. Mind control. Entrapment. He was being forced, he said, to tell things that were true, against his will.
+
+"Well, sorry, are you claiming to be under my control right now?"
+
+He confirmed this, with the spectacular logic of a man watching his own argument collapse and adding more weight to the top. *I am under mind control, and everything I have said is so true.* I left that where it sat.
+
+Thorin extracted the rest. The midnight visit to Bookwyrm: two bottles of the finest wine, two glasses, and the announcement that all their problems with respect to Janussi had been solved. The argument that followed, loud. Her storming off. Alkrist alone with the wine, heading home.
+
+"Well, but not just that — I think then she tried to cover this up. So, talk us through — what did Bookwyrm do? How did she react to hearing about the poisoning?"
+
+Appalled, he said. She had been appalled, and they argued, and then she was gone. And whatever had happened to Janussi's chest after that had nothing to do with Alkrist.
+
+"Ripped out his heart? What? His heart was ripped out?"
+
+The confusion was genuine. I could read it. This was not performance.
+
+"That was Bookwyrm," I said, mostly to myself.
+
+"Yeah, so let's go through the timeline. So you argued, she stormed off. What happened next?"
+
+She went somewhere. He went home. Someone had known about the chalice: what it was for, what could be hidden inside it, why no one would think to look there without specific reason. That someone was not Alkrist.
+
+"Does he think Bookwyrm knows a powerful polymorph spell?"
+
+He laughed. At Candlekeep, finding such a spell was simply a matter of calling up the right avowed to bring you a scroll from somewhere. The answer wasn't about Bookwyrm specifically. It was that the question was the wrong size. Anyone here with sufficient standing could access what they needed.
+
+"Yeah. There's 3 people involved, at least."
+
+Probably more. By the end of his last day alive, Janussi had managed to hand Bookwyrm, Alkrist, and A'lai, separately, apparently without coordination, reasons to want him gone. Budget day. Review day. The day careers were made or broken. He had walked from room to room delivering verdicts, and by midnight he was dead.
+
+Someone mentioned Julius Caesar.
+
+"Alkrist?" I said, meaning: is it technically him, or A'lai?
+
+They all stabbed him, came the answer.
+
+I stood with that for a moment. Brother Quellin had said this. Or possibly Brother Harren, I was never certain of the attribution. The most dangerous person in a room isn't the one with the blade drawn. It's the one who has already decided they've won. Janussi had spent his last day in a library full of people who had already decided, and he had offered each of them one more reason on his way through.
+
+I looked at Alkrist. Still sitting. Still true.
+
+We had what we needed.
+
+---
+
+## Daz — Concluding the Investigation
+
+The confession had gone into the account, and there was nothing left to dispute. Alkrist had given us the accounting of it: A'lai as the one who set it in motion, himself as the hand that carried it out, and at least two others swept into his orbit. Kalan had been standing just outside through all of it, which meant the man who'd been fired now held a rather complete account.
+
+The inventory I ran was brief. We had a confession, a poisoned book reclaimed from Daral, Grygum's carefully reassembled wrapping paper, a note in Janussi's own hand found on the third floor. We had the zone of truth as a mechanism, which had worked without waste and which I would not pretend was anything other than what it was: a shortcut, and an elegant one.
+
+"I think we go to the guy that was fired," Thorin said. "Give it to him, let him clean house."
+
+Zalthir confirmed the obvious. "He's here."
+
+"Yeah, yeah — he's heard all this. We'd be like, dude, take it from here."
+
+I had no serious objection. Kalan was the party who had been wronged, Kalan had standing, Kalan was presumably motivated to be thorough. Handing a qualified person the tools they need and stepping back is not, strictly speaking, a bad play. It clears the table. When Thorin was pressed on whether we'd have arrived at the same place without the zone of truth, he was not wrong exactly:
+
+"Definitely helped put a bow on it. But we probably would have gotten there anyway — they all were looking pretty guilty."
+
+"It turns out they were all guilty, yes," Grygum said.
+
+The observation was complete. I said nothing.
+
+"So the only question that remains is, what do you do with the evidence you've collected?"
+
+Kalan asked it, and it was the right question, and it had been sitting with me since Alkrist started talking. Thorin's position was already clear:
+
+"That's— that's my thinking. I don't know what the rest of the team thinks."
+
+"That's where I was," Zalthir said.
+
+"You have to clean up the mess, whoever's in charge, and all that, right?"
+
+And then Grygum, in the tone of a man introducing an agenda item: "We could always decide to blackmail one or more of them."
+
+I had been waiting for someone else to say it.
+
+Thorin immediately pivoted to the material: "And since — suspects — I'm gonna insist that we get a book per suspect. I mean, per—"
+
+Books are valuable. We had earned something here. But I was already running a different calculation. Sitting across from us, effectively, if not literally, was a cohort of individuals who needed, above all other things, someone who knew what they'd done and had chosen not to use it. Not yet. That is a specific kind of leverage. It has a specific market value. And it is not expressed in gold.
+
+"Right, and just to be clear — information that's very hard to come by, blackmail may be a way to get it."
+
+"True," Grygum said.
+
+"A'lai, moreover, is a drow. He might have information that Daz needs."
+
+I heard it and recognized it for what it was: an accurate observation that needed no elaboration. A'lai. A drow with Underdark connections, possibly Menzoberranzan connections, currently holding a conspiracy that had ended a man's life and that we had dismantled in a single afternoon. He needed, above all other things, discretion. I will not call it a commodity exactly. I will call it the most reliably underpriced resource in the world, especially in the hands of someone who desperately needs it.
+
+"There you go," Thorin said. Then: "I have a mission in mind."
+
+I noted the placement. The column I had been maintaining since Kaelira told me bluntly that someone powerful was paying to protect a man she couldn't understand. That column had one entry, and I still couldn't name the entity. A'lai moved in circles where that name might be known. The incentives ran the same direction, and that was almost too convenient to trust.
+
+"Right — at some level, who killed whom at Candlekeep, that's details. What's going on with Daz is what's important."
+
+I heard it said aloud and filed it without comment. It is not comfortable to be the unknown variable in your own accounts. My training ran toward the opposite: know where every debt is, who holds it, what it costs. The patron entry had been blank for months. Every time I thought I was close to something, it receded. Now there was a compromised drow scholar who might represent the first real lead I'd been offered since Kaelira laid the problem out for me plainly.
+
+The group's attention turned to Janussi, and the mood shifted in the way it does when the worst is over and everyone can afford to find the situation absurd.
+
+"Right, and not only do you decide to fire them, but you decide to trash somebody's research, tell somebody he's getting fired, tell somebody he has to cancel his research, right? All in the same day."
+
+"Well, it's clear he may have high intelligence, but not high wisdom," Grygum said.
+
+The distinction is real. Intelligence tells you what the options are. Wisdom tells you which ones you survive. In Menzoberranzan, you do not get to accumulate that many enemies before the city resolves the problem for you, which is one of the less subtle things the city got right.
+
+"Otherwise known as a layoff," Thorin said.
+
+"That's an angle you haven't checked. Maybe there were some budgetary pressures on Candlekeep."
+
+"Some RIFs planned?" Grygum said.
+
+I appreciated the framing. File the assassination under *workforce restructuring*. Enter it in the column marked *organizational efficiency*. This is, I noticed, exactly the narrative A'lai would have constructed for himself, and had probably already constructed, somewhere in the months between deciding Janussi needed to die and watching us pull the whole account apart in an afternoon. The man who treats blackmail as a kind of career knows how to make his own history sound administrative.
+
+"In these murder mysteries," Grygum said, "you often find somebody who treats blackmail as a kind of career."
+
+A drow scholar with Underdark connections, sitting inside a conspiracy that had just been exposed. The intersection didn't need forcing.
+
+I had an alternative proposal forming. It was not finalized. But the terms were these: A'lai does not pay in gold, and does not pay in books. A'lai pays in what he knows. And what he knows about whoever is paying Menzoberranzan rates to keep a nobody drow evoker alive and functional: that is the only price I am interested in collecting.
+
+# Chapter 58 This is not possible 
+
+
+## Thorin — The Murder Mystery Sidebar
+
+We had the confession. Alkrist had said it out loud, in the room, with Kalan's spell still holding him honest — he'd killed Janussi. That was the thing we'd been digging for, and now it just sat there between us, pried loose at last, waiting for someone to decide where to set it down.
+
+Three ways out of the room, the way I counted them. Hand the whole thing to Kalan Strongbranch and let him run with it. Go find A'lai and let him know, quiet, that we knew things. Or walk straight up to Bookwyrm and demand justice on the spot.
+
+"I thought Kalan was in the room with us this whole time," Zalthir said. "He had his Zone of Truth going."
+
+He was. But we had a breath before the next thing happened, and a breath is enough to talk.
+
+I didn't need long with it. When you've got a broken thing in front of you and a place it fits, you don't stand around admiring the problem. Kalan had gotten fired. That's the terrain — a man told he was done, standing next to a case he couldn't crack, that we cracked for him. You don't take a win off a man like that. You hand it to him and let him stand a little taller.
+
+"Alright," I said. "I think we just hand it to him — let him save face, since he got fired — with the understanding that they make good on the promise: we get our reward for helping crack the case."
+
+Simple. Clean. For once a faction problem had an answer I could say out loud without wanting to walk into a wall.
+
+There was still the matter of everything we hadn't gotten yet — the things we came to Candlekeep to ask the various folks, questions still owed to us. And there was Dawnbringer.
+
+She spoke up in my head. *I'm not leaving here without the therapy. That first session was actually very productive. I really feel we need to—*
+
+That one landed square. I'd been the one hunting a sword whisperer for her since the road south — months where the thing she was built to carry just wasn't there, and I wanted somebody who knew what that does to a blade. If she wanted more sessions, she was asking for exactly the thing I'd been trying to book.
+
+"I thought so too, Dawnbringer. I don't know what to tell you." I meant it. "We were making progress. I'm with you."
+
+*I feel like we're making a connection. If you could—* and then a click inside my skull, a sound like a palm slapping stone, whatever that was supposed to mean.
+
+Zalthir squinted. "He can do that? Or — she can do that?"
+
+She could make noises in my head, so — yeah. That was answer enough for the mechanics of it.
+
+"I thought Dawnbringer was a she," I said. "I'm cool either way, just to be clear." I turned it over and came up short. "I don't know, I can't remember." Then I shrugged, because it didn't change anything about the sword or about me. "Whatever — she. Yeah, I think we said she."
+
+The plan sat there, and it held. When the question came around — was that it, was that what we were doing — I didn't hedge.
+
+"Yeah, that plan sounds good to me."
+
+Daz, in his dry way, laid out the floor under it. "If things go sideways, we can always start hacking and slashing." He wasn't wrong. Nice to have a floor.
+
+There was one thing gnawing at me, though, and I named it, because that's how I do things. "Okay, the alternative: if we make a big deal about being the ones who cracked it, that plays into our fame. But do we really want to be famous, or do we want to fly under the radar? That's kind of our—"
+
+Zalthir cut it clean. "We're already infamous underground. It didn't seem to serve us well."
+
+He had a point. Gracklstugh still had our name on posters, wrong enough to be cover but our name all the same. The Ember Vanguard, running ahead of us in every rumor, bigger and meaner than the four of us in a room arguing about a dead sage.
+
+And then the word caught on me the way words do, and I couldn't let it pass. "Infamous," I said. "You know that's supposed to mean extra famous."
+
+I said it flat, waited for the groan, and got about half of one. Bad joke. That's the reaction I want.
+
+---
+
+## Grygum — The Academic's Dilemma
+
+The evidence sat on the table between us. A confession. A heart. A cleaver. Three things, and I have opinions about the number three, though as it turned out I was about to have the number three explained to me by a man who had written a paper on it.
+
+Alkrist had confessed. Kalan Strongbranch hadn't yet come back into the room, and we knew there was a thread running from all this back to A'lai. Three doors stood open. We could hand the whole matter to Kalan and let him run with it. We could go to A'lai and let him know we knew things. Or we could walk straight to Bookwyrm and demand justice and satisfaction. I took notes on all three and argued for none of them. I don't lead these conversations. I record them, and I watch who's pretending.
+
+Thorin led. "Alright. I think we just hand it to him — let him save face, since he got fired — with the understanding that they make good on the promise: we get our reward for helping crack the case."
+
+We caucused. "Yeah, that plan sounds good to me," Thorin said, mostly to himself.
+
+"If things go sideways," Daz offered, "we can always start hacking and slashing." A contingency he keeps in his back pocket like a spare component. It is not, strictly, a plan. It is comforting to him anyway.
+
+Thorin turned it over. "Okay, the alternative: if we make a big deal about being the ones who cracked it, that plays into our fame. But do we really want to be famous, or do we want to fly under the radar? That's kind of our—"
+
+"We're already infamous underground," Zalthir said. "It didn't seem to serve us well." True. The Ember Vanguard has a legend now that walks a tunnel ahead of us, and it lies about our height.
+
+So we handed it to Kalan and told him it was all his. He looked deeply disgruntled about it — a scholar handed a case that would not close.
+
+"You have a confession, a heart, and a cleaver," he said. "The confession is one spell — the weakest channel, by the standard I wrote. The heart and the cleaver prove someone covered this up cleverly. Neither says who it was. You have no one who can place Bookwyrm in that room — no cloak, no witness that holds, nothing she can't turn back on you in a sentence. By my own paper: she walks."
+
+I filed that quietly under the column marked *irony*. The man wrote the standard, and the standard he wrote now shelters the person we most want to reach.
+
+"Alright," said Thorin. "So we've got to nail Bookwyrm."
+
+Zalthir went back to the wording, which is his instinct — worry the sentence until it gives. "Sorry — how did he open that little diatribe? What was the first thing he said about the confession?"
+
+"He said: you have a confession. A heart and a cleaver."
+
+"Right — but he didn't discount the confession."
+
+"No — he says it's not enough. My paper says you can't rely on one source of truth; you need three different kinds." Three. There it was. As a sage myself, I find the argument sound. As a man holding a confession compelled by a legitimate casting, I find it a little precious.
+
+"Fine — but that was never approved, so the protocol never changed," Zalthir said. "Putting that aside."
+
+"And a confession is a confession, right?" said Thorin.
+
+"Yes, I know — but you know what matters more to an academic? Putting the murderer in jail, or being true to their academic principles and their research proposal?"
+
+"Which was declined," Zalthir said.
+
+"Yes — but now there's an opportunity. And the person who declined it is dead." Janussi. Kalan said it without softening it, and it was accurate. I noted the seating arrangement of the dead in this argument. They keep changing whose case they strengthen.
+
+Zalthir found the practical thread. "If he agrees, then couldn't we take him — in his Zone of Truth — and go talk to Bookwyrm? Is that your play?"
+
+"What do we know about the Zone of Truth spell and how it works?" Thorin asked. "Can it be defeated?" It can, now — I know the spell better than most in the room; it isn't a lock, it's a pressure. "What's that? What did you say, Zalthir?"
+
+"It can be," Zalthir said. "She can steel herself against it — but we'd know if she manages. We don't know if she's telling the truth in that case, but we'd know if she *can* lie." Which is the whole trick of it. The spell doesn't hand you the truth. It hands you the ability to watch someone refuse it.
+
+Kalan drew himself up. "I will not sneak this time. We will walk in, and we will boldly demand that she submit to a Zone of Truth."
+
+Which was a change. The last time worked precisely because he hadn't done that — he'd stood outside the room and cast it there, and Alkrist never understood what was happening until it was already too late for him to guard his mouth.
+
+"Okay, so wait — why would we change protocol?" Zalthir said. "That worked very well."
+
+"Because Kalan Strongbranch doesn't want to twist Bookwyrm's arm, in case she escapes it and ends up being his boss." He said his own name as he said it, the way a man does when he's decided to be honest about his cowardice and dress it as principle. "He's not going to do it without her permission — how about I put it that way?"
+
+There it was. The tell I'd been waiting for. This wasn't law. This was a man measuring who might sign his pay in a week.
+
+Then he laid out the patient play, and it was — I'll give him this — clever. "Look, my friends. Bookwyrm is simply the current acting head of Candlekeep. Tomorrow there will be a naming ceremony — and with all of this suspicion over her name, the confession, the information… Although the legal precedent isn't there, I suspect the vote will go elsewhere. And the new head may give Bookwyrm one of two choices: continue as a member of the Avowed, or submit to a Zone of Truth. Sometimes the clever play is to be patient."
+
+"Wait and see if people figure it out," said Daz.
+
+"Yes." And Kalan warmed to it. "There's no reason for us to bulldoze over Bookwyrm and create yet another stir. We have all the cards — all we have to do is be patient. I tell you, tomorrow morning's naming ceremony clearly will not name her. A'lai won't be named either. Even without evidence, the stench of suspicion will be all over her. Alkrist is finished — his confession, the cleaver, the blood. So Fembris Lancer will probably get elected the new avowed, and the first thing she'll want to do is get rid of Bookwyrm."
+
+*Sometimes the clever play is to be patient.* I thought, for half a breath, of a gold dragon who studied one chess position for four hundred years and lost it to a man who couldn't play. Patience is a fine strategy right up until someone makes a move you never mapped. I said nothing. I let the scholars run the board.
+
+Zalthir raised the thing that needed raising. "But from your own perspective — isn't that immoral? We're effectively preventing Bookwyrm, if innocent, from serving this role."
+
+"Which is why we will give her the opportunity to decline."
+
+"But you said we'd do it tomorrow, right?"
+
+"No — I said *today* we could go and give her an opportunity to decline. Her declining will further weaken her support among the other Avowed."
+
+"Okay, so you're betting on either she agrees — because she thinks she's innocent, nothing to hide — or she declines, which implies guilt, so hopefully she won't be elected."
+
+"Yes. And I have strong conviction the other members of the Avowed will not elect her." A win either way, drawn on academic paper. I have seen this move before, in Gracklstugh, dressed in different robes. Pit the room against the accused and let the room do the killing you don't want your name on.
+
+"Okay — so you're willing to tell them everything we've learned if she declines?"
+
+"Of course. I will give them a full report. I will tell them everything that's going on. In fact, I'll give it to Bookwyrm herself."
+
+"Well… I don't know if that's productive, but okay," Zalthir said.
+
+Thorin, meanwhile, was still hunting for something to hold in his hand. "So we think Bookwyrm extracted the heart and put it in the chalice of the statue, right?"
+
+"Yes."
+
+"Nephew," Zalthir said. "Nephew — and Alkrist killed him, right? And she's trying to protect Alkrist." That part I believed. Whatever else Bookwyrm was, she was covering for family. I know the arithmetic of that. I have done it for a mushroom.
+
+"I'm trying to think — is there any physical evidence, anything else, we can bring to bear here?" Thorin said. "If she was the one that put the heart into the chalice — is there any way we can tie that back to her?"
+
+"Practically speaking, my friends — although Bookwyrm should be punished, the reality is that all she did was hide a crime. She didn't commit one."
+
+"Conspiracy after the fact. She's culpable," Thorin said.
+
+"Yes — but here's the ultimate academic point. If she's removed from her position as an avowed, that would be far more damning than any crime we could convict her of." And there it was, the whole cynical heart of the place, said plainly. Not justice. Humiliation, filed correctly.
+
+"To be embarrassed," Thorin said. "Or we could do both."
+
+"But that I'll leave to the reader who follows her."
+
+Thorin reached for the thing his kind of mind always reaches for — a solution you can pick up. "There's got to be a book somewhere in the library we can use to actually get to the bottom of this. Some sort of magic book. A powerful spell."
+
+Kalan pulled out his own paper — the thrice-fold proof, folded soft from handling — and shoved it into Thorin's face, jabbing at the lines. "There is no spell that will get you the evidence that solves the crime. *Do you not understand?*"
+
+"Yeah — but if we can get her to confess based on some spell, then that's extra data."
+
+"So you wish to cast another spell on her?"
+
+"I'm just thinking — the reversal here is: we go in, we say here are the people that did it, we get a reward, and one of us uses that reward to get the book that can then prove she did it."
+
+"Or that she was culpable."
+
+And that landed. Kalan's whole posture changed. "Oh — you're saying *after?* That way! Yes — so we use our reward to access the thing that will do her in. That's much better. If you do it after the fact, that's much better. If you do it up front, she'll be suspecting. But if you ask for the book, the book will come from the new head of Candlekeep — who will be delighted to give it to you." Of course. The bill comes due only once the person who owes it has changed her signature to someone who owes us.
+
+"I don't know which book exactly, but I'm just thinking," Thorin said.
+
+"Yes — a great question." Kalan paused, and thought, and looked genuinely pleased to have a problem he could research. "I will come up with such a book before you leave."
+
+Thorin was already savoring it, out loud. "Okay — so the idea is that she thinks she got away with it. Now, she'll be sad that Alkrist, her nephew, is implicated — but he confessed, so it is what it is. And when she's least suspecting it, once we've taken our reward, that's when we reverse it on her. What do you guys think?"
+
+"I like it," said Zalthir.
+
+"Seems reasonable," said Daz.
+
+"High drama," Thorin said, and I could hear him building the stage in his head. "It'd be a good closing — she thought she got away with it, and then: one more thing." Someone asked, half-serious, for a really frumpy trench coat to sell it. Just one more thing. Just — one more thing.
+
+I did not correct the theatrics. The name for the move was not wrong. And theater is the work; I of all people know that. I only took notes and marked, in the margin, that we had come all this way to convict a woman not of murder but of embarrassment, and that everyone in the room seemed content with the trade. Bahamut may or may not have been reading over my shoulder. I wrote it down either way.
+
+---
+
+## Zalthir — Confrontation in Bookwyrm's Office
+
+Fembris Lancer had stood off to one side the whole time we argued, saying nothing, which I respected. When we finished, he stepped back in. Bookwyrm wished to speak with us.
+
+Her office was arranged the way a room gets arranged when someone wants you to understand the seating before you sit. The tea was already poured. She asked us to sit down.
+
+Daz did not touch the cup in front of him. "I'll make it a little awkward — I'm certainly not drinking any tea from somebody we suspect may have done this."
+
+"Yeah, I'm not drinking the tea, that's for sure," Thorin said.
+
+"Not drinking my tea." She almost sounded pleased. "With all this talk of murder in the house, I think a little tea is good for soothing the nerves." And she drank some, watching us over the rim.
+
+Refusing the cup outright was Daz's move, and Thorin's, and it was fine — but it left them visible, and it would leave me visible too if I copied it. Glabbagool was fused along my forearm. There was a quieter answer available.
+
+I lifted the cup, tilted it to my mouth, and let the tea run down into Glabbagool instead of down my throat. He took it. A faint singe of acid, a small heat under the skin of my arm as he burned it away — only I felt it. I had told him first, low, that this was a moment of quiet reflection. No loud noises. He held to it. No burp, no bubble, nothing.
+
+That was the part I marked and did not say out loud. He stayed still because I asked him to. That is discipline, or the beginning of it.
+
+"Well," she said, setting her cup down. "We have much to talk about. You compelled the grieving man with a borrowed spell, and you call it proof." A pause, unhurried. "The warden whose paper you ignored would tell you what it's worth. He wrote that a single working proves nothing."
+
+Kalan stepped in before the silence could set. "But they have." He began to lay it out — that Alkrist had stolen the —
+
+"The poison."
+
+"Right," I said. "And the fact that he had the book, and then the confession, but —"
+
+She collapsed into it. Went down into heartbreak like a woman folding a sheet. "Alkrist. I could never have imagined it."
+
+I have watched a great many people be surprised. This was not that. The tears were correct and the eyes behind them were doing something else. Daz caught it too — I saw him go quiet and still, the way he does when he's found the seam in a thing. She was not sad. She was relieved.
+
+The Garden Shadow had a saying — or possibly Brother Quellin did, I'm not certain, I don't remember which — that the most dangerous person in a room isn't the one with the blade drawn. It's the one who has already decided they've won. She had decided. Her hands were too relaxed.
+
+She recovered fast. "Well, it would seem, Kalan, that your methodology has proven its merit. Well done." To the four of us: "It would seem my nephew has committed a grave crime. But today is not a day for trials and juries. That will be done after the naming, by the new head of the Avowed."
+
+"So — what about the lie?" Thorin said. "Do we actually call out the fact?"
+
+All we had was that she'd been in the same wing, and that Alkrist had named her the mastermind. Thin.
+
+"So, Thorin," I said, "this goes back to your strategy. Do we let on that we know more, or leave it till later, when we can really prove her involvement?"
+
+Daz had a whole theory. "I've been watching a lot of these 48-hour plays. What the guards always do is they withhold — they give enough information to say, we're on to it, we need your help. But they hold back the critical detail about the person being interviewed, so that if the person says something that doesn't match what the cops already know, they know they've got something more to investigate. My take: be a little shy with the full details, but give enough to make it look like they could tell a story — and then we see whether they're motivated to deceive us, or to actually help."
+
+"Hmm," I said. "Yeah, fair. I'm not totally sure what we'd… same."
+
+The one thing we held was that Alkrist had fingered her — that she didn't know we knew.
+
+"Just to point out," I said. "If we do nothing, and leave it as is without implying she's guilty, there's a chance she could be elected First Keeper, right? Because —"
+
+We know who did it, someone said, and it's not her. Why wouldn't she be elected. Kalan would be part of the vote; he'd demand a full report; he promised our voices would be heard.
+
+So we left it at accomplices. "Yeah — we know there are accomplices," I said.
+
+She did the whole outraged act. "This is just awful. I can't believe there would be accomplices in the death of such a great man as Janussi — beloved by all."
+
+"Did she actually say 'beloved by all'?"
+
+Of course she did. Beloved by all.
+
+"Right — we don't know who did the poly… I mean, she may or may not have done the polymorphing. We don't know that part." She agreed. We did not.
+
+"Can we ask her to force the safe open — now that we know he did it, and she agreed he did it?"
+
+Kalan interrupted with procedure — the safe would be guarded tonight, Alkrist held secure in the prisons.
+
+"Okay — wasn't my question, though." He acknowledged it wasn't. "Sure — so can we open it?"
+
+They opened it. Inside: a potion of flying, a healing potion, a heap of gold coins, and nothing at all that pointed anywhere. Thorin asked whether there was a red herring in there. There was, in fact — one of the coins had a herring stamped on it, and it was red.
+
+Then she was in the doorway, making a production of it, several of the Avowed gathered behind her to watch.
+
+"If any of us can Locate Object," I said. "Or Detect Object, whatever it's called." A sapphire. I wanted to know if she had one on her — that would have been interesting. The spell went out and found nothing. She did not have it.
+
+"Well, I think this spectacle has gone on long enough. You have done very well. And Kalan — I think it was unwise of me not to keep you in charge. Would you be so willing as to take your position once more?"
+
+He accepted, graciously. "But this will not change the nature of my report tomorrow."
+
+"Of course not, Kalan. Of course not. And I can assure the heroic adventurers — whose names escape me, yes, yes, Zalthir, and so on — that tomorrow morning you will all be given ample opportunity to express your convictions about what may or may not have happened. But I think the festivities have gone on long enough for the day. I will now ask Kalan Strongbranch to escort you to Deneir's Sanctum."
+
+"Are we under house arrest?"
+
+"No, no, no. You currently hold the most important evidence of any kind, so I'm simply doing this to protect you. As you so correctly pointed out, there are other criminal elements within the society, and I would hate for something terrible to happen to you."
+
+I looked at her while she said it and found, underneath, that she meant the worry. It was real — she was sincerely afraid something would happen to us. Daz found the other half, the half I only saw land on his face: she was delighted to have us wrapped up and out of everything, no more heads poking anywhere. Win and win. She had built a box and we had walked into it.
+
+While she was talking, I had my Glabbagool arm swipe the potion of flying off the table. Everyone was frantic, looking at everything else at once; nobody watched my hand. The safe was closed with its contents inside and declared of no interest.
+
+"Never miss an opportunity to grift, man," Thorin said.
+
+Under the skin of my arm, Glabbagool liked the flying skill. He thought it was a good skill.
+
+Kalan gathered us to escort us out, very full of himself now, going on about how our actions had proven the value of his methods — one more man very heartbroken over Janussi's untimely death. What a great man. What a tragedy for the community.
+
+---
+
+## Zalthir — The Opening of Alkrist's Safe
+
+The Avowed had opened many things that day and expected the safe to be one more. I watched them gather around it — the First Reader, the scribes, Kalan Strongbranch fussing at the front, in charge of something at last and determined to make it last a week.
+
+"We will absolutely guard the safe tonight," Kalan said. "Alkrist will spend the day in the prisons, where he'll be kept secure and unable to escape."
+
+Procedure. He loved procedure the way some people love the sound of their own name. I did not need the sequence. I needed the box open.
+
+"Sure — so can we open it?"
+
+Someone had to move it forward. There was a pause while the mechanism was worked out — how the thing came apart, nothing more — and then it came apart.
+
+Thorin was on it before the lid had settled. "What's in it? What's in it? Is it, like, an Elminster type of thing, where it's a big letdown?"
+
+It was not a letdown. A potion of flying. A potion of superior healing. A fat purse of gold coins, more than a man keeps for honest reasons. And one coin that did not match the rest.
+
+"Is there a red herring in there?" Thorin asked.
+
+There was, in fact. One of the gold coins had a herring stamped on it, and the herring was red.
+
+"That's funny," Daz said.
+
+It was the kind of joke that tells you the man who built the safe had a sense of humor and nothing to hide — which is its own kind of tell. Nothing else in there implicated Alkrist of anything. The whole room understood that at once, and at once stopped looking at the safe and started looking at each other.
+
+That was the opening.
+
+The Avowed had all decided they'd won. Bookwyrm was already tired of the spectacle. Kalan was already rehearsing his rotation. Daral, somewhere behind me, was pleading with a sword.
+
+"Can we — can we do the curing of me now? Is that possible at all? Mr. Don— Mrs. Dawnbringer?"
+
+He'd stopped bragging. That was new. He was complimenting the party up and down, which for Daral was a kind of surrender.
+
+I let all of it happen around me. Then I marked the potion of flying, and I reached for the bag.
+
+"While she's talking, my Glabbagool arm swipes the potion of flying."
+
+Glabbagool's arm came out low and quiet, the way I'd have wanted it if I'd trained him for it, which I had not, not yet. It closed around the vial, drew it back, and no one turned. Not one head. Everyone was frantically looking at everything else, and the thing nobody was looking at was me, and the ooze at my side, and the potion that had just left the box.
+
+Clean. Not lucky — clean. The kind of move where the hand knows before the mind does and there is nothing to correct after.
+
+"Never miss an opportunity to grift, man," Thorin said, which is not how I would have put it, but was not wrong.
+
+Glabbagool was pleased with himself. *I like the flying skill,* he offered. *That was a good skill.* He had a point. There would be a conversation later about restraint. Not now.
+
+One thing left to check while the room was still loose. "If any of us can Locate Object, or Detect Object — whatever it's called."
+
+"What are you going to look for?"
+
+"A sapphire. I'm hoping she has one on her — that would be interesting."
+
+It was not interesting. I reached out with the spell and found nothing where the sapphire should have been. Bookwyrm did not have it. She felt the search brush past her and decided, out loud, that the spectacle had gone on long enough.
+
+They closed the safe with everything still inside — the gold, the herring, the healing — and declared it of no interest. Everyone so fixed on their own troubles that they sealed a box they'd never think to open again and put Kalan Strongbranch back in charge of guarding it, full of himself and his methodology.
+
+"I will ask him to escort you to Deneir's Sanctum," Bookwyrm said, "where you will wait until later this evening, then be escorted to your chambers."
+
+Kalan led us out. The potion of flying went with us, in the bag, in the ooze, and no one in that room would ever know to miss it.
+
+---
+
+## Grygum — Waiting in Deneir's Sanctum
+
+They put us in Deneir's office to wait out the evening. Bookshelves floor to ceiling, tables, the dry smell of old paper — a room built for people who read for a living, now doing duty as a cell. Under guard, of course. And Fembris Lancer was already in there, serving out his own punishment by keeping us company. That was the arrangement. His penance was us.
+
+I read the room the way I read every room. Books, a bored acolyte, four escapees who trust nothing. Worth watching. Worth remembering.
+
+Food came toward evening. Nobody moved for it.
+
+"I don't trust any of this food anymore, man," Thorin said, and he wasn't wrong. We had eaten worse and been poisoned by better. Fembris, on the other hand, had no such reservations — come, come, come, already reaching, all appetite and no suspicion.
+
+We let him. Then we reconsidered letting him. Then we decided the reconsidering was the answer.
+
+"I mean — we have to have a taster, I guess," Thorin said.
+
+"I'd say 118," Daz offered, which meant nothing to Fembris and everything to us, and Fembris ate on, blessedly unaware that he had just been promoted.
+
+"Yeah," Daral said, "and that's a new best practice." He said it like a revelation.
+
+Fembris did not die. Adequate. The Underdark teaches you to spend the cheap risk before the dear one, and I have never once regretted the lesson.
+
+Around the ninth hour Daral remembered his own problem. "Are you guys going to cure me or anything?" he asked, and there it was — under the scholarship, the small fear of being left broken because we'd decided he wasn't worth the spell.
+
+"What do you guys think?" Thorin asked. "Should we cure him?"
+
+"I mean, if he's… I don't know," Daz said, which is Daz for *I'm still weighing it, and it hasn't landed yet.*
+
+I could have done it myself. Lesser restoration is cheap and I had it to spend — I can always cast another on people, if we don't want to die, and Daral wasn't going to die. But a man shouldn't sit in his own rot while four strangers debate his usefulness. So I held my tongue and let the room work it out, because it was working itself toward mercy, which is the only direction I ever need it to go.
+
+"I don't think he had anything to do with it," Thorin said, "and I don't think he has anything to tell us anymore. I think we probably just let him… let him go."
+
+Zalthir murmured something about Daral bolting for the door the second we did.
+
+"Yeah — we could extort him," Thorin said, "but I don't think that would be nice."
+
+"I mean, maybe Daz would," Zalthir said. "But I don't know about the rest of us."
+
+I did not correct him. The read was not wrong.
+
+"Alright," Thorin said. "Dawnbringer, do your thing."
+
+So the sword did the work I'd been ready to do, and that suited me fine — a lesser restoration I now got to keep in the bank. The blade lit, poured into Daral, and took the sickness with it. He straightened. He breathed. In the space of a heartbeat he was a well man, and he was ecstatic.
+
+What he did with that health, immediately, was talk.
+
+"I shall do all kinds of new research on magical swords," he announced, "with the sentience and the beauty of Dawnbringer. I intend to make it an area of active research." And then he was off — thematics, semiotics, the deep grammar of a blade that thinks, five uninterrupted minutes of a scholar who has just found his life's subject and cannot be stopped.
+
+I should have been bored. I was not.
+
+Because Dawnbringer was drinking it in. A sword that spends its days pointed at fungus and undead, being told at length that it is beautiful, that it is worthy of study — I watched the whole demeanor of the thing open up, and I thought, *there it is, a small good thing in a room full of guards.*
+
+"Dawnbringer eats it up, I'm sure," Thorin said, fond.
+
+He did. Completely. Two theatrical creatures finding each other across a table, the scholar and the sword, and neither of them lying — which, after the year I've had, is rarer than any spell I know. These relationships are so complicated. This one, for once, was simple.
+
+Then Daral, glowing and cured and full of research, rose to leave — and found the door still locked. He was not going anywhere. None of us were.
+
+So we sat in Deneir's office, fed by proxy, our patient healed, wondering how the story was going to end.
+
+The story answered.
+
+"Combat?" Zalthir said.
+
+Yes. Combat.
+
+"Not expected," Thorin said, "but okay."
+
+---
+
+## Thorin — Ambush of the Helmed Horrors
+
+Glass and wood came in at the same time, from three directions, and for a breath none of us had moved.
+
+"Wait, wait — who came in?" I asked, because that was the honest question and I don't waste time on the other kind.
+
+"Seems like it's a helmed horror?" Zalthir said. He was already reading it. "Is this, like, animated armor or something?"
+
+It was. Suits of plate with nobody inside, walking and — this was the part that made my neck itch — hovering, lifting a hand's width off the floor and drifting. Little points of light where eyes should be.
+
+"So they're what happens when you take the statue away and all the armor is left?" I said. The glowing eyes settled it for me. "Yeah — no, I can totally see it. Okay."
+
+Then the first one went straight for Daz. Not for me, not for Grygum standing right in its path — for Daz. Behind us Daral was coming apart, saying it wasn't possible, these creatures can't be here, how could they. Fembris just stood in shock. I clocked both of them and put them out of my head. Panicking men are terrain you can't use.
+
+The third one shoved past Grygum like he wasn't there and reached for Daz's throat.
+
+"What did I ever do? This seems—" Daz started.
+
+"You're a popular guy!" Zalthir said.
+
+The armored hand closed on nothing. Daz slipped it — barely, the kind of even you only call a win because the other guy didn't get you.
+
+Daz went hunting through his spells and landed on the wrong idea first — something about breaking their minds — before the truth caught up. These things didn't have minds. *They don't have feelings. They have objectives.*
+
+"They're like AIs," I said. Closest real-world frame I had. A thing built to do one thing, that would do it until you stopped it, and no amount of talking would move it off.
+
+Daz stopped trying to scare it and set it on fire instead. "Alright — we're going to try Scorching Ray." Three lines of flame off his hand, and the nearest suit rang like a struck kettle — a real hit, a dent you could see.
+
+One drifted over to Zalthir, who tried "Hello?" on it, the way you'd try a locked door. It didn't answer. It hit him — steel, and something colder behind the steel — and he shrugged most of it off. A scrape through the guard, nothing that slowed him. Then he went to work, fist after fist, and when one landed he wrapped the thing up and held it, and Glabbagool — riding his arm — did the acid trick. Plate hissed and ran. Their armor was good, real good, and Glabbagool ate a piece of it clean off.
+
+My turn. "Alright — let's go ahead and attack. With Dawnbringer." I brought her around and caught the one closest to me clean — a real bite, staggering it. Then the sword did its thing: the horror's movements went slow and sloppy, off-balance for its next swing. Sap, I call it. "This is good — let's do it again." When my follow-up nearly slid wide, I spent one of the tricks I keep in my back pocket and dragged the strike back on line. You hold a few of those and spend them when the geometry wants it, not before.
+
+Grygum stepped up and let go a burst of clean light that caught two of them at once, both flinching under it.
+
+Then the horror on Daz landed one square. I heard it before I saw it — a wall falling on a man. He was still standing, but only just.
+
+"You okay, man?" I said.
+
+"Ouch," Daz said. "I may drink a healing." Which is Daz's way of telling you he was one bad swing from the floor.
+
+Grygum didn't break stride. "Don't worry, I've got plenty of heal spells, buddy. If you get knocked out, I'll just heal you — you'll be back up in no time." A beat later: "I also have Revivify, so we're covered either way." Not the time to worry about going down. The time to cast magic.
+
+By then Daz had worked out what these things wanted, and it wasn't him — it was the key in his pocket. A key that read as nothing under every spell we'd thrown at it. Dead. Inert. And three suits of murderous plate had come through the windows to die for it.
+
+That's the part I wanted answered. "Grab one and beat the truth out of them," I said. "Who sent you? Who does number one, number two work for?"
+
+"Unfortunately, the reason you picked helmed horrors as assassins is they can't talk. Literally."
+
+Of course. A killer with no mouth and no mind — whoever built these chose them precisely so there'd be nobody to squeeze afterward. I kept that. That's the kind of thing that tells you what you're really up against.
+
+Daz passed the key to Grygum and threw the last of what he had at the one he'd been burning — three darts of light, all home. And the horror turned on a coin and went for Grygum instead, reaching, missing, reaching, missing — Grygum kept his feet like the floor was the one thing he wasn't giving up.
+
+Here's where the ground did the work for me. I stood where I stood. The giants taught me that before I could carry a shield — you don't chase, you position, and the ground under your feet says what your mouth doesn't need to. When the horror swung at Grygum instead of me, it handed me a free strike, and I took it — killed it mid-motion, before its second swing ever landed.
+
+Over the ringing, Grygum was already saying it: "Don't you worry, Daz. You're going to be fine. Totally fine."
+
+Zalthir finished the one clamped in his grip — a heavy punch, and Glabbagool's last mouthful of acid to go with it. That left one. "If you're trying to hit him, you have advantage, because I grappled him," Zalthir said — held it still, gift-wrapped.
+
+So I took it. First stroke landed hard, took a real chunk out of whatever was left. Second landed harder. The suit came apart where it stood, and the last of them folded down into piles of rust and loose plate, like they'd never been anything but junk somebody stacked up.
+
+Quiet, then. Glass on the floor, dust settling, two dead heaps and one silent inert key three assassins had bled to reach.
+
+"Is there any magic-y thing we can do to figure out who sent them?" I asked. Somebody built these, aimed them, and put them through the windows knowing exactly which pocket to reach for.
+
+Zalthir was already working it backward. When Grygum handed the key to Daz — who saw it? Fembris. Standing right there with the four of us. And the suits had gone straight for Daz, then straight for Grygum the second the key changed hands. They weren't following a face. They were following the key itself, sniffing it out through plate and pocket both.
+
+I looked at the two heaps of dead metal and had one more idea, because a tool's a tool even when it's broken.
+
+"Can we grab one of them and use it to detect who else has the key?" I said. "Turn it into a sort of divining rod, as it were."

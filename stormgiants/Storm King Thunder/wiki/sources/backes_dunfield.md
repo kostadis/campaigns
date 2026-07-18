@@ -14,3 +14,7 @@ venue: ""
 # Backes Dunfield
 
 Observational log regarding the human bartender Backes Dunfield and his presence at the Wayside Inn.
+
+## Related
+
+- [[backes-dunfield]]

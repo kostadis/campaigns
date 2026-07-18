@@ -1,0 +1,93 @@
+[
+  {
+    "type": "npc",
+    "subject": "Fargas Rumblefoot",
+    "fact": "Fargas Rumblefoot is a halfling trapped in a cocoon, claiming he was attacked by gnolls and is now being stored as spider food. He insists he is not infected and possesses knowledge of a lost tomb and its treasure. He is currently aware that spiders are approaching and fears he will not be freed in time.",
+    "source_quote": "I am not infected. Because I escaped. Most of the time, the gnolls just eat their victims. I am spider snack for later. Shit, I can feel the spiders coming. I have information. We were coming to look for a tomb. I know the location of the tomb. And more importantly, I know the location of the treasure.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a leader among the group who questions the nature of Fargas\u2019s claims, suspects possible infection or deception, and ultimately decides to cut Fargas free with his blade after assessing the urgency and risk.",
+    "source_quote": "Perhaps we should have him tell us who he is? I wonder if he\u2019s already been infected? Like, do we free him, and we get a gnoll? I can cut him loose in a few seconds.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is methodical and probing, pressing Fargas on his immunity to infection and questioning whether Thorin can carry him or if freeing him will take time, showing concern for tactical efficiency and hidden dangers.",
+    "source_quote": "Why aren\u2019t you infected? Can you carry him, or will we need to spend minutes to free him?",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum initially moves to cut the cocoon but halts upon Thorin\u2019s suggestion, showing deference to group consensus and belief in the moral weight of names, though he remains part of the final decision to act.",
+    "source_quote": "He can't be evil with a name like that. But you\u2019re right.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Gnolls",
+    "fact": "Gnolls are a feral, hyena-headed humanoid race that attack without warning, slaughter their victims, and devour their flesh. They are said to use hyenas as hosts for spawning, and their origin is linked to the demon lord Yeenoghu\u2019s incursion onto Faer\u00fbn.",
+    "source_quote": "Gnolls attacked us. Feral hyena-headed humanoids attack without warning, slaughtering their victims and devouring their flesh. It is said that spawns are put into a hyena, and when the spawn is born, it rips out of the hyena's body. It is also said that hyenas are one of many species that can be used to store the spawn of gnolls. It is also said that they were created when the demon lord Yeenoghu found his way onto Faer\u00fbn and ran amok.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Spiders",
+    "fact": "Spiders are moving along silk strands in the environment, capable of being stopped or escaped from by cutting the strands with fire or a blade \u2014 but cutting the wrong strands will trap the group.",
+    "source_quote": "Spiders are walking on strands. Those strands can be cut with fire or a blade. They can stop the spiders and escape if they cut the strands in the right places. They will get trapped if they cut the strands in the wrong place.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Lost Tomb",
+    "fact": "The lost tomb is the original objective of Fargas\u2019s adventuring band. Its location is known to Fargas and is tied to a greater treasure, making it a critical piece of information in the current dilemma.",
+    "source_quote": "We were coming to look for a tomb. I know the location of the tomb. And more importantly, I know the location of the treasure.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Fargas\u2019s revelation",
+    "fact": "Fargas, moments before being potentially consumed by spiders, reveals he has vital information about the tomb and its treasure, shifting the group\u2019s priorities from immediate survival to strategic gain.",
+    "source_quote": "I have information. We were coming to look for a tomb. I know the location of the tomb. And more importantly, I know the location of the treasure.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Infection risk",
+    "fact": "There is an unresolved thread concerning whether freeing Fargas will result in the emergence of a gnoll or some other contagion, despite his denial \u2014 a fear echoed by the group\u2019s traumatic memories and lore.",
+    "source_quote": "I am not infected. That\u2019s what everyone thinks, and then it\u2019s the apocalypse.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Thorin\u2019s blade",
+    "fact": "Thorin\u2019s blade is the instrument chosen to free Fargas from the cocoon, deemed capable of cutting through the material in seconds, making it the decisive tool in the group\u2019s action.",
+    "source_quote": "I can cut him loose in a few seconds.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session memory",
+    "fact": "The group recalls a childhood game called 'Cut the Graph,' which mirrors their current environmental challenge, implying that past experiences inform their present decisions under pressure.",
+    "source_quote": "They remember this as a game from their childhood called 'Cut the Graph.'",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Gnoll Spawn",
+    "fact": "Gnoll spawn are parasitic entities said to be implanted into hyenas, where they gestate and burst forth upon birth, a process tied to Yeenoghu\u2019s dark magic and the gnolls\u2019 reproductive horror.",
+    "source_quote": "It is said that spawns are put into a hyena, and when the spawn is born, it rips out of the hyena's body.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Yeenoghu",
+    "fact": "Yeenoghu is the demon lord associated with the origin of gnolls, said to have invaded Faer\u00fbn and run amok, creating the monstrous race and their horrific spawning rituals.",
+    "source_quote": "It is also said that they were created when the demon lord Yeenoghu found his way onto Faer\u00fbn and ran amok.",
+    "quote_verified": true
+  }
+]

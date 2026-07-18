@@ -1,0 +1,107 @@
+[
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch holds the second key to the High Tower, which he secretly transferred to Grygum; he believes he may be targeted for the key and has instructed that if he is killed, the key must not be found.",
+    "source_quote": "It is best that if I am killed, the key not be found.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum received the second High Tower key from Kalan Strongbranch in a covert handoff; he is now responsible for investigating poison, sapphires, and the tower's security, and is considered by Kalan to be a trustworthy recipient.",
+    "source_quote": "Kalan stepped out of a doorway we hadn't clocked... pressed a small brass key specifically into the cleric's palm.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm is under suspicion as a potential killer; Kalan Strongbranch warned Grygum to listen for what she isn't saying, implying she holds hidden knowledge about the High Tower or the murder.",
+    "source_quote": "Whatever Bookwyrm is telling you, listen for what she isn't.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi holds one of the two keys to the High Tower; the other was held by Kalan Strongbranch and has now been transferred to Grygum.",
+    "source_quote": "The High Tower has two keys. Janussi wore one, I held the other.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "High Tower",
+    "fact": "The High Tower is the entrance to a cache of super-magical artifacts coveted by every evil entity in the world; it is perpetually watched, and entry is visible regardless of whether a key is in use.",
+    "source_quote": "The tower is watched. Always. People stand at it whether the key is in someone's pocket or not.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Second High Tower Key",
+    "fact": "The second key to the High Tower, previously held by Kalan Strongbranch, was secretly given to Grygum; its current location is unknown to all but Grygum and Kalan.",
+    "source_quote": "I have given it now to someone who is not me.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Heart of the Victim",
+    "fact": "The victim's heart was removed; it is considered the only concrete fact in the investigation, with all other details being hearsay or deception \u2014 the killer is presumed to be the one who took it.",
+    "source_quote": "I'm pretty sure that the person that killed him is the one that took the heart.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "False Devil-Lady Imposter",
+    "fact": "An imposter wearing the guise of a devil-lady is suspected of having silenced the corpse, making it impossible to verify whether the victim ever answered questions \u2014 this claim is unverified and possibly fabricated by Kalan.",
+    "source_quote": "The imposter \u2014 the false devil-lady \u2014 supposedly did it first and locked the corpse's mouth shut for days. Maybe.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Missing Book Part",
+    "fact": "A missing fragment of a book is considered a potential clue, possibly linked to ancient magic or the murder, but its relevance is speculative and unconfirmed.",
+    "source_quote": "There's a missing part of, like, a book that should not be missing\u2026 that could have happened a hundred years ago or something, but\u2026 seems suspicious.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Key Transfer to Grygum",
+    "fact": "Kalan Strongbranch covertly transferred the second High Tower key to Grygum in a hidden corridor, bypassing all other investigators; this act suggests he distrusts the group and anticipates his own death.",
+    "source_quote": "Kalan stepped out of a doorway we hadn't clocked... pressed a small brass key specifically into the cleric's palm.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Corpse Silence Claim",
+    "fact": "Kalan Strongbranch claimed the corpse was silenced by an imposter, preventing it from answering questions \u2014 this assertion is hearsay, unverifiable, and potentially a cover for his own involvement.",
+    "source_quote": "Kalan said they'd put the question to the corpse, and that it didn't work. And that didn't work because of Y.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Watchers of the High Tower",
+    "fact": "An unseen organization or force permanently surveils the High Tower, rendering unauthorized entry detectable regardless of key possession \u2014 their identity and allegiance are unknown.",
+    "source_quote": "The tower is watched. Always. People stand at it whether the key is in someone's pocket or not.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Locket-Key",
+    "fact": "The locket-key, hidden on the victim\u2019s person, was known to only one of the two individuals who stood over the body \u2014 the other tore through the safe instead, suggesting targeted theft.",
+    "source_quote": "One who knew exactly where the locket-key hid, and one who didn't and tore through the safe instead.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Kalan's Disappearance",
+    "fact": "Kalan Strongbranch has warned that if he does not appear the next day, he should not be sought at his post \u2014 implying he expects to be killed and is preparing for his own death.",
+    "source_quote": "If I and I do not see you tomorrow, do not look for me at my post.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool has been permanently integrated into the group and is being trained to fight by an unknown entity \u2014 his presence is accepted, though his nature and motives remain unclear.",
+    "source_quote": "Glabbagool, who is apparently coming along permanently now, convinced down to whatever he uses for bones that he's going to learn to fight from the dark.",
+    "quote_verified": true
+  }
+]

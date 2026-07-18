@@ -1,0 +1,240 @@
+[
+  {
+    "type": "npc",
+    "subject": "Stool",
+    "fact": "Stool is a myconid who speaks incessantly, overwhelms others with verbiage, and insists his kind are harmless despite clear evidence of mind-altering spore influence. He is emotionally attached to Rump-a-dump and resists understanding the true nature of the Dark Lady's corruption.",
+    "source_quote": "Stool, of course, insists that his people are harmless.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Rump-a-dump",
+    "fact": "Rump-a-dump is a restrained, thoughtful myconid who observes silently, speaks precisely, and recognizes the unnatural transformation of his kind. He is deeply concerned about Voosbur\u2019s spores and the potential infection of Neverlight Grove.",
+    "source_quote": "\"Something is not right here.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Voosbur",
+    "fact": "Voosbur is a myconid who has been corrupted by Zuggtmoy\u2019s influence, now acting as a conduit for the Demon Queen\u2019s will. He emits spores that induce ecstatic hallucinations, compulsive obedience, and fungal transformation, and speaks telepathically to lure others into the Lady\u2019s dream.",
+    "source_quote": "\"Come on, let\u2019s take that trip together. Peace, love, and mushrooms, man. Will you groove with the Lady\u2019s dream?\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a dwarf with a reckless, 'fuck-it-all' attitude who willingly submits to Voosbur\u2019s spores, experiences the hallucinatory realms of Zuggtmoy\u2019s domain, and becomes emotionally entangled in the fungal dream despite its dangers.",
+    "source_quote": "Thorin, who has a 'fuck-it-all' attitude, takes the creature's hand.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a cautious, observant myconid who resisted eating the mushrooms and retains his clarity. He is horrified by the corruption of his kin and follows Voosbur out of concern, becoming ensnared in the dream realm.",
+    "source_quote": "\"I did not eat them. That is why I am not... like this.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith is a mentally unstable individual whose pre-existing fragility makes him highly susceptible to Zuggtmoy\u2019s psychic spores. He believes he is being called by the Dark Lady and seeks to join her as a path to liberation and purpose.",
+    "source_quote": "\"The call... the Dark Lady is calling me! Can't you hear her? She sings in the spores, a song of becoming! Of true purpose!\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a drow who displays cold detachment, possesses deep knowledge of Underdark ecology, and is immune to the spores' influence. He recognizes Zuggtmoy\u2019s corruption as demonic and refuses to engage with it, even as others succumb.",
+    "source_quote": "\"Overbrighters. They understand nothing about the complex ecology of the Underdark.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a pragmatic, observant individual who connects the events to the lore of Zuggtmoy from The Platinum Chronicle. He remains distant from the spores, recognizes their extended range beyond 30 feet, and understands the threat is magical, not natural.",
+    "source_quote": "\"We are seeing effects that are stronger than 30\u2019\"",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Myconids",
+    "fact": "The myconids were once peaceful, communal beings of Neverlight Grove, but now exhibit forced, ecstatic behavior due to Zuggtmoy\u2019s spores. Their social structure and natural silence have been perverted into chaotic dancing and mindless worship of the Dark Lady.",
+    "source_quote": "\"These are not our old dances. And the way they speak... about 'the Lady's dream,' it is confusing. Stool does not understand it either. It is not the way of myconids.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Zuggtmoy\u2019s Cult",
+    "fact": "A demonic cult has emerged among the corrupted myconids, centered on Voosbur, who serves as a high priest of Zuggtmoy. Followers are lured by the promise of transcendence through spore-induced hallucinations, but are in reality being consumed and transformed into fungal hosts.",
+    "source_quote": "\"She\u2019s no infection. She\u2019s the mama of the mushrooms, the queen of the dreamscape...\"",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Fungal Vines",
+    "fact": "Sentient, living vines infused with Zuggtmoy\u2019s essence, these tendrils patrol the corrupted caverns, react to noise and movement, and attempt to trap intruders. They pulse with spores and seem to possess rudimentary awareness.",
+    "source_quote": "The vines start to move to close the path forward. If we don\u2019t make it to the exit, we will be trapped in this nightmare.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Glowing Sentient Mushrooms",
+    "fact": "Giant, pulsing mushrooms that emit light and subtle psychic resonance. They react to touch, warn intruders, and form part of the living architecture of Zuggtmoy\u2019s domain. Their presence indicates deep fungal corruption.",
+    "source_quote": "I touch some mushrooms and they start to pulse, as if to warn me not to touch them again.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Zuggtmoy (Demon Queen of Fungi)",
+    "fact": "Zuggtmoy, the Demon Queen of Fungi, is the source of the corruption. She does not physically appear but exerts influence through spores, telepathic song, and the transformation of living beings into fungal hosts. Her goal is the eradication of free will through ecstatic, forced communion.",
+    "source_quote": "Zuggtmoy... the Demon Queen of Fungi, the Lady of Rot and Decay... she yearns only for chaos, madness, and utter destruction.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Spore Infection Cascade",
+    "fact": "Voosbur\u2019s spores have triggered a cascading infection among the myconids and nearby beings, causing hallucinations, loss of autonomy, and physical transformation. The effect extends beyond 30 feet and bypasses normal resistance, indicating demonic augmentation.",
+    "source_quote": "\"We are seeing effects that are stronger than 30\u2019\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Dream Realm Incursion",
+    "fact": "Thorin and Grygum were pulled into a series of shifting, hallucinatory caverns created by Zuggtmoy\u2019s magic, each representing a stage of fungal corruption\u2014from serene glow to festering rot. These realms are not illusions but semi-realized psychic extensions of the Demon Queen\u2019s will.",
+    "source_quote": "I open my eyes and realize I am in a different cavern... This ain't natural, not by a long shot.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Neverlight Grove",
+    "fact": "The original home of Rump-a-dump and Grygum, a serene, glowing cavern where myconids lived in quiet communion. It is now suspected of being infected by Zuggtmoy\u2019s spores, posing a grave threat to the survival of the myconid race.",
+    "source_quote": "\"I need to get back to Neverlight Grove. What if Voosbur's strange spores... infected the rest of my myconids back home?\"",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Corrupted Cavern Network",
+    "fact": "A labyrinthine system of fungal-infested caves beneath the Underdark, shaped by Zuggtmoy\u2019s influence. It contains zones of psychedelic beauty, sentient vines, fungal thrones, and pulsing heart-beat environments, all designed to disorient and trap intruders.",
+    "source_quote": "This looks like a blighted festering pit, unfit for any living creature, let alone a dwarf.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "The Platinum Chronicle: Discourses on the Abyssal Blight",
+    "fact": "A holy text that details Zuggtmoy\u2019s nature as an antithesis to Bahamut, describing her spore-based corruption as a perversion of life and a weapon against free will. It is the key to identifying the Dark Lady as the Demon Queen.",
+    "source_quote": "Excerpt from The Platinum Chronicle: Discourses on the Abyssal Blight... Zuggtmoy, the Demon Queen of Fungi, the Lady of Rot and Decay...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Fate of Neverlight Grove",
+    "fact": "The myconids fear Zuggtmoy\u2019s spores have already spread to their homeland. Whether the Sovereign and other myconids there still retain their minds is unknown\u2014and critical to halting the infection\u2019s expansion.",
+    "source_quote": "\"What if Voosbur's strange spores... infected the rest of my myconids back home?\"",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Nature of Voosbur\u2019s Control",
+    "fact": "It is unclear whether Voosbur acts under his own will or is a puppet of Zuggtmoy. His ability to speak telepathically, manipulate spores, and induce trance states suggests he may be a high priest\u2014or a newly formed fungal avatar of the Demon Queen.",
+    "source_quote": "Voosbur assures that all will be well. I am not sure.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Daz\u2019s Immunity",
+    "fact": "Daz remains unaffected by the spores despite proximity. Whether this is due to drow physiology, magical resistance, or something deeper\u2014such as prior exposure or demonic heritage\u2014is unexplored and potentially significant.",
+    "source_quote": "Daz has his hands in his face, embarrassed and muttering, 'Overbrighters. They understand nothing about the complex ecology of the Underdark.'",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "3rd day of the 2nd Tenday of Myrtul",
+    "fact": "The day on which the party entered the corrupted myconid caverns, encountered Voosbur, and began their descent into Zuggtmoy\u2019s dream realm. It marks the onset of the current crisis.",
+    "source_quote": "## 3rd day of the 2nd Tenday of Myrtul",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Dark Lady",
+    "fact": "The Dark Lady is the Demon Queen of Fungi, the Lady of Rot and Decay, a demonic power whose presence warps reality with glowing mycelium, drifting spores, and a haunting voice that promises transcendence through corruption. She offers eternal entwinement with the mycelium, but at the cost of selfhood.",
+    "source_quote": "Welcome... wanderers of flesh and bone\u2026 You stand at the edge... between waking and dreaming\u2026 Where life... and decay... entwine in endless dance\u2026 I am the pulse... beneath the stone\u2026 The breath... within the spore\u2026 To walk my dream... is to touch the heart\u2026 Of all that grows... and all that withers\u2026 Do you fear the rot... or do you understand its song?\u2026 You could have lingered with me and found your heart entwined with me, forever. As part of the endless mycelium.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum warns that every deal with a demon is a curse\u2014it grants power but erodes the understanding of why one should avoid using it. He is a voice of caution, reminding Thorin of the perilous cost of surrendering to the Dark Lady\u2019s allure.",
+    "source_quote": "Every deal with a demon is a curse. It gives you power, and it robs you of your understanding of the need to avoid using power.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin resists the Dark Lady\u2019s offer of eternal entwinement with the mycelium, recognizing the danger and the loss of self it entails. He cites his responsibilities on the outside as reason to refuse, and remains grounded despite the seductive pull of her dream.",
+    "source_quote": "Not this time? I have too many responsibilities on the outside.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Voosbur",
+    "fact": "Voosbur is a member of the Dark Lady\u2019s entourage who speaks with resignation to Thorin and Grygum after their refusal. He offers a final chance to join, then disperses glowing spores that summon the dancers to dissolve into the moss, signaling the transition of the dream\u2019s influence.",
+    "source_quote": "I guess you guys didn\u2019t want to join us. You still can if you want. But hurry.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Dark Lady\u2019s Entourage",
+    "fact": "The Dark Lady\u2019s entourage consists of spectral dancers and fungal servants who move as extensions of her will, dissolving into the mycelium when summoned. They are bound to her dream, embodying the endless dance of growth and decay, and serve as both emissaries and living conduits of her corruption.",
+    "source_quote": "Spores fly out of him, they glow, and then the dancers walk towards the moss on the edge of the cavern and disappear.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Heart of the Lady\u2019s Dream",
+    "fact": "The Heart of the Lady\u2019s Dream is a cavernous, sentient space where power and corruption are inseparably woven. The air is thick with decay, glowing spores drift like halos, and the very ground pulses with mycelium. Time and perception bend here, and the boundary between waking and dreaming dissolves.",
+    "source_quote": "This is it, then. The 'heart of the Lady\u2019s dream,' a place where power and corruption are so tightly woven they're inseparable. Every breath here feels heavy with ancient secrets and dark promises of what she offers.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Glowing Mycelium Tendrils",
+    "fact": "The glowing mycelium tendrils that frame the Dark Lady pulse with sickening inner light and serve as physical manifestations of her control over life and decay. They are not mere decoration\u2014they are predatory, drawing minds into the dream and binding them to her eternal fungal network.",
+    "source_quote": "Delicate features, but framed by tendrils of glowing mycelium that pulse with a sickening inner light.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Drifting Spores",
+    "fact": "The drifting spores emitted by the Dark Lady and her entourage are parasitic agents of transformation, capable of turning the living into mindless, decomposing hosts. They are the mechanism of her corruption, spreading her dream like an infection.",
+    "source_quote": "I think that these must be the same spores she uses to turn the living into mindless servants, into decomposing hosts.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Refusal of the Dream",
+    "fact": "Thorin and Grygum refuse the Dark Lady\u2019s offer of eternal entwinement with the mycelium, breaking the spell of her dream. Their resistance triggers a shift: the dancers dissolve into the moss, the vision fades, and they awaken in the real world, uncorrupted but haunted by the memory of infinite, mindless eternity.",
+    "source_quote": "I can feel that mindless infinite eternity, and then just as much as I feel it, I am awake.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Song of the Rot",
+    "fact": "The Dark Lady\u2019s question\u2014'Do you fear the rot... or do you understand its song?'\u2014lingers as an unresolved thread. It implies that true power lies not in resisting decay, but in harmonizing with it. The party\u2019s refusal leaves this mystery unexplored, but the temptation remains a shadow in their minds.",
+    "source_quote": "Do you fear the rot... or do you understand its song?",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Promise Beyond Flesh and Time",
+    "fact": "The Dark Lady\u2019s promise\u2014'We would bloom beyond the bounds of flesh and high'\u2014is incomplete, corrupted, or misremembered. Its phrasing suggests a deeper, possibly broken, cosmic truth that the party glimpsed but could not comprehend. The error may hint at a hidden layer of her power or a flaw in her dream.",
+    "source_quote": "We would bloom beyond the bounds of flesh and high.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Session Date",
+    "fact": "The events occur during a single, suspended moment of perception\u2014neither a full night nor a standard day. The dream\u2019s distortion of time makes it impossible to anchor the awakening to a conventional calendar, though it follows immediately after the party\u2019s entry into the cavern.",
+    "source_quote": "Just a trip, Thorin, just a trip.",
+    "quote_verified": true
+  }
+]

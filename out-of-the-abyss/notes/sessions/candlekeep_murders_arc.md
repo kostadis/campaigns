@@ -128,6 +128,14 @@ session and say what each PC is doing on *both* tracks.
 
 ## Scaling deltas
 
+> ⚠️ **Why these are lower than the book — do NOT "correct" them up.** The
+> Candlekeep Mysteries source content is built for a **level 10–12 party.** This
+> table is **8–9.** Every "Adapted CR" below is a **deliberate down-scale to fit
+> this party**, not an error. Pull the **base** block from 5etools to scale
+> *from*, then apply these deltas — **never run the canonical numbers raw**, or
+> you over-tune a fight that was sized for a stronger table (A'lai and the
+> Manshoon simulacrum especially will swing toward a TPK).
+
 | Encounter | Module CR | Adapted CR | Notes |
 |---|---|---|---|
 | Moziqodo (the Beast) | 7 | 5 | HP −30%; paralysing-breath save DC −2; multi-attack 3→2; **Abyssal Plague bite rider intact** (it's plot, not damage) |

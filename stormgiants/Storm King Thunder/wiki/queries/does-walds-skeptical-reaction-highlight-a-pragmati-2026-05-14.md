@@ -9,3 +9,7 @@ related: []
 # Does Wald's Skeptical Reaction Highlight a Pragmatic Disposition?
 
 Description of what needs the user's attention.
+
+## Related
+
+- [[should-nugs-actions-be-re-evaluated-2026-05-13]]

@@ -35,3 +35,9 @@ The Ghost (Cloud Giant) is a haunting spirit bound to the hexagonal oracle chamb
 
 ## Arc Score Events
 - No arc score events recorded
+
+## Related
+
+- [[rose]]
+- [[parnast]]
+- [[annam-the-allfather]]

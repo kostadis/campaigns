@@ -1,8 +1,8 @@
 ---
 type: source
 title: "Source: fiora_bendaega.md"
-created: 2026-05-13
-updated: 2026-05-13
+created: 2026-06-06
+updated: 2026-06-06
 sources: ["fiora_bendaega.md"]
 tags: []
 related: []
@@ -10,59 +10,53 @@ related: []
 
 # Source: fiora_bendaega.md
 
-### Key Entities
-- **Fiora Bendaega**: Merchant Broker, central figure in the narrative.
-  - **Type**: Person
-  - **Role**: Middleperson/adventure broker
-  - **Peripheral**: No direct connection to existing wiki entries.
-- **Diego**: Guard and companion of Fiora.
-  - **Type**: Person
-  - **Role**: Companion, guard
-  - **Central**: Likely already exists in the wiki under a similar name.
-- **Thistle**: Adventurer, antagonist.
-  - **Type**: Person
-  - **Role**: Antagonist
-  - **Peripheral**: No direct connection to existing wiki entries.
-- **Chandra Stol**: NPC, possibly connected to the idol retrieval scheme.
-  - **Type**: Person
-  - **Role**: Identified by Fiora
-  - **Peripheral**: No direct connection to existing wiki entries.
-- **Azam (Vuerthyl)**: NPC, connected through mercenary/idol operation.
-  - **Type**: Person
-  - **Role**: Connection to mercenary/idol operation
-  - **Peripheral**: No direct connection to existing wiki entries.
-- **Nonna's Place**: Location where Fiora operates.
-  - **Type**: Location
-  - **Role**: Current location for future meetings
-  - **Peripheral**: No direct connection to existing wiki entries.
+## Key Entities
 
-### Key Concepts
-- **Middleperson/adventure broker**: Method of connecting merchants with suitable adventurers.
-  - **Matters**: Essential to understanding Fiora's role and the narrative flow.
-  - **Existing**: Likely already exists in the wiki under a similar concept.
-- **Merchant protection job**: Specific type of job Fiora handles.
-  - **Matters**: Crucial to the plot and character development.
-  - **Existing**: Likely already exists in the wiki under a similar concept.
-- **Empathy and rapport building**: Fiora's approach to building relationships.
-  - **Matters**: Important for understanding her personality and interactions.
-  - **Existing**: Likely already exists in the wiki under a similar concept.
-- **Guard and companion**: Relationship between Fiora and Diego.
-  - **Matters**: Essential to understanding Fiora's character dynamics.
-  - **Existing**: Likely already exists in the wiki under a similar concept.
+*   **Fiora Bendaega** (Central)
+    *   **Type:** NPC / Merchant Broker.
+    *   **Role:** Acts as a middleperson between merchants and adventurers. She is a professional "broker" who operates on a fee-based system.
+    *   **Wiki Status:** New entry required.
+*   **Diego** (Central)
+    *   **Type:** NPC / Guard & Paramour.
+    *   **Role:** Fiora’s personal guard and romantic partner. He serves as both physical protection and a social tool for de-escalation/intimidation.
+    *   **Wiki Status:** New entry required (or update existing if he appears elsewhere).
+*   **Nonna's Place** (Peripheral)
+    *   **Type:** Location / Business Hub.
+    *   **Role:** Fiora’s current base of operations and the designated meeting point for future interactions.
+    *   **Wiki Status:** New entry required.
+*   **Thistle Wendrod** (Peripheral)
+    *   **Type:** NPC / Social Analyst.
+    *   **Role:** A member of the party/allies who interacted with Fiora; his "revenge-driven" response caused a failed rapport attempt by Fiora.
+    *   **Wiki Status:** Already exists in wiki.
+*   **Orsik** (Peripheral)
+    *   **Type:** NPC / Antagonist or Rival.
+    *   **Role:** Approached Fiora threateningly; triggered her use of Diego as a warning.
+    *   **Wiki Status:** Already exists in wiki (under `orik-identity-and-role`).
+*   **Azam** (Peripheral)
+    *   **Type:** NPC / Merchant-Intelligence Hybrid.
+    *   **Role:** Connected to Fiora through an idol retrieval operation; a point of contact for the party's broader goals.
+    *   **Wiki Status:** Already exists in wiki.
+*   **Chandra Stol** (Peripheral)
+    *   **Type:** NPC / Ally or Contact.
+    *   **Role:** Aware of Fiora’s role in specific mercenary recruitment schemes.
+    *   **Wiki Status:** Already exists in wiki.
 
-### Main Arguments & Findings
-- **Core Claims**:
-  - Fiora Bendaega is a middleperson/adventure broker who connects merchants with suitable adventurers for hire.
-  - She uses her guard Diego as both a physical protector and a social tool.
-  - Her approach to building rapport with adventurers is calculated and empathetic, but can fail if the adventurer's motivations clash with hers.
-- **Evidence**:
-  - Fiora's business model is explained clearly in the source.
-  - Her interactions with Thistle and Orsik illustrate her ability to read a room and adjust her approach accordingly.
-  - The success of her job placement indicates her effectiveness as a broker.
-- **Strength of Evidence**:
-  - Direct quotes and actions from the source document support these claims.
-  - The narrative flow and character dynamics are consistent with the claims.
+## Key Concepts
 
-### Connections to Existing Wiki
-- **Existing Pages**:
-  - **Merchant Broker**: Li
+*   **Adventure Brokerage**
+    *   **Definition:** A professional service where a middleman manages the logistics, contracts, and distribution of work to mercenaries/adventurers.
+    *   **Significance:** Establishes Fiora as a "neutral" party who is not a stakeholder in the quest but a facilitator of commerce.
+*   **Social Tooling (Guard as Leverage)**
+    *   **Definition:** Using a physical presence (Diego) to manage social dynamics, shifting from "warm introduction" to "warning" based on the interlocutor's behavior.
+    *   **Significance:** Highlights Fiora’s calculating nature and her ability to navigate threats professionally.
+*   **Transactional Relationship**
+    *   **Definition:** Interactions governed by contracts and fees rather than personal loyalty or shared ideology.
+    *   **Significance:** Contrasts with the more emotionally charged interactions of other NPCs (like those in the "quest-as-emotional-trap" category).
+
+## Main Arguments & Findings
+
+*   **Professionalism vs. Personal Connection:** Fiora is strictly a business entity. She attempts to build rapport but immediately pivots back to professional boundaries when faced with emotional volatilit
+
+## Related
+
+- [[fiora-bendaega]]

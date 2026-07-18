@@ -1,0 +1,184 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a participant in a secret meeting with Kalan, where he challenges Grygum\u2019s assumptions about the murder and safe-rifling, and proposes collaboration after revealing new information about Sylvira Savikas being impersonated.",
+    "source_quote": "I gave him the *okay* and let it sit.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan",
+    "fact": "Kalan is a former investigator who was removed from the case, now seeking to re-engage by offering insights into the murder, including the poison in the left hand, the locket key, and the possibility of two perpetrators \u2014 but he is unaware that Sylvira Savikas was impersonated.",
+    "source_quote": "He went still. 'No. That is new information.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a researcher in the Flora Theca of the Great Library, seeking access to botanical and laboratory resources to investigate poisons, under the supervision of librarian Fembris.",
+    "source_quote": "I asked if there was a poison section. There wasn't, exactly.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Fembris",
+    "fact": "Fembris is a librarian in the Great Library who guides Grygum to the Flora Theca, believing noise has consequences, and confirms access to botanical resources but does not confirm laboratory access.",
+    "source_quote": "He walked like someone who believed noise had consequences.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "The Great Readers",
+    "fact": "The Great Readers are an influential organization suspected by Kalan of being involved in the murder, with possible ties to Bookwyrm\u2019s decision to fire Kalan in order to protect one of their own.",
+    "source_quote": "What he suspected, he said, was that one of the Great Readers was the murderer...",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm is an authority figure who officially removed Kalan from the case, possibly to protect someone involved in the murder or to obstruct the investigation, and is suspected of being complicit or manipulated.",
+    "source_quote": "Bookwyrm had made it official that he was to be nowhere near it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "murder at the High Tower Library",
+    "fact": "A murder occurred at the High Tower Library, with signs of magical interference, a missing key hidden in a locket, and evidence suggesting the killer was a magic user who bypassed arcane and mundane locks.",
+    "source_quote": "He noticed the murderer was a magic user who could circumvent arcane and mundane locks.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "impersonation of Sylvira Savikas",
+    "fact": "Someone impersonated Sylvira Savikas on the night of the murder, a fact unknown to Kalan until revealed by Zalthir, which undermines his entire theory of the crime.",
+    "source_quote": "Is he aware that someone was pretending to be Sylvira Savikas the night of the murder?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Kalan\u2019s removal from the case",
+    "fact": "Kalan was officially removed from the investigation by Bookwyrm, which he believes was done to protect someone \u2014 but Zalthir suggests it may have been to ensure the case was bungled.",
+    "source_quote": "He staged it \u2014 reminded us, twice, that he had been wanted off the case.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Flora Theca",
+    "fact": "The Flora Theca is a subsection of the Pavilion Naturalis within the Great Library, dedicated to plants, herbs, and flora, and is the closest available resource for investigating poisons.",
+    "source_quote": "What there was, Fembris told me, was the Flora Theca...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "High Tower Library",
+    "fact": "The High Tower Library is the site of the murder, where a cordon was established, guards were doubled, and the body was found with a locket missing from the keeper\u2019s neck.",
+    "source_quote": "The account of a man who wanted it on record where he had been.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "the locket",
+    "fact": "The locket, once worn by the victim, contained the key to the safe \u2014 now missing \u2014 and is suspected of being used as a decoy or to mislead investigators, possibly containing Janussi\u2019s key instead.",
+    "source_quote": "The key was in the missing locket.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "the poison in the left hand",
+    "fact": "A poison was detected in the left hand of the victim, noted by Kalan as a deliberate clue, possibly linked to botanical sources now under investigation in the Flora Theca.",
+    "source_quote": "He had noticed the poison in the left hand, the saliva.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "shapeshifter",
+    "fact": "A shapeshifter is suspected to be active in the investigation, capable of impersonating individuals such as Sylvira Savikas, and may be the true murderer or an accomplice.",
+    "source_quote": "Keep in mind there are people who can change their form. Shapeshift. Whatever you want to call it.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "true identity of the murderer",
+    "fact": "The true identity of the murderer remains unresolved, with conflicting theories: one person who bypassed locks and planted clues, or two separate actors \u2014 one killer and one who rifled the safe.",
+    "source_quote": "Perhaps it was two different people.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Bookwyrm\u2019s motives",
+    "fact": "Bookwyrm\u2019s decision to fire Kalan is a lingering mystery \u2014 whether it was to protect a Great Reader, sabotage the investigation, or cover up her own involvement.",
+    "source_quote": "I believe you're only being employed so you're likely to bungle the case...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "origin of the key",
+    "fact": "The origin of the key \u2014 whether it belonged to Janussi, the victim, or was planted \u2014 is unclear, and its presence in the locket may be a deliberate misdirection.",
+    "source_quote": "The locket could just as easily be Janussi's key, handed off by a man building a clean story.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "eight o'clock meeting with Janussi",
+    "fact": "Kalan met with Janussi at eight o\u2019clock to request more watchers and was refused \u2014 a key event in his timeline before the murder.",
+    "source_quote": "The eight o'clock meeting where he'd pressed Janussi for more watchers and been refused.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "quarter-past-ten visit to Sylvira Savikas",
+    "fact": "Kalan visited Sylvira Savikas at 10:15 for a cosmological question \u2014 later revealed to have been an impersonator, undermining his alibi and timeline.",
+    "source_quote": "The quarter-past-ten visit to Sylvira Savikas over some cosmological question.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "morning of the murder",
+    "fact": "On the morning of the murder, Kalan conducted an inspection just after eight, established a cordon, posted a watcher, and doubled the guard at the High Tower Library \u2014 all documented to establish his whereabouts.",
+    "source_quote": "The morning of the murder: the inspection just after eight, the cordon, the posted watcher...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Chamber of Lost Lore",
+    "fact": "The Chamber of Lost Lore is where Kalan conducted private research after his visit to Sylvira Savikas, possibly seeking information relevant to the case.",
+    "source_quote": "The return to the Chamber of Lost Lore for private research.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi refused Kalan\u2019s request for more watchers at eight o\u2019clock and is now suspected of being connected to the key\u2019s origin or the impersonation plot.",
+    "source_quote": "He'd pressed Janussi for more watchers and been refused.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Janussi\u2019s key",
+    "fact": "Janussi\u2019s key is suspected to have been placed in the locket as a false clue, possibly by the impersonator or an accomplice to mislead investigators.",
+    "source_quote": "The locket could just as easily be Janussi's key, handed off by a man building a clean story.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Kalan\u2019s trustworthiness",
+    "fact": "Kalan\u2019s credibility is in question \u2014 his assumptions are contradicted, his timeline compromised by impersonation, and his removal from the case may have been orchestrated to silence him.",
+    "source_quote": "You are very good at this.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "collaboration proposal",
+    "fact": "Zalthir and Kalan propose a collaborative investigation \u2014 offline, private work streams, and a synchronized review of all evidence \u2014 to overcome mutual distrust and uncover the truth.",
+    "source_quote": "I hope you actually used the word sync up...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "who hired Zalthir and Kalan",
+    "fact": "It is implied that Zalthir and Kalan were hired not to solve the case, but to fail or remain silent \u2014 a setup to obscure the real perpetrators.",
+    "source_quote": "You're only being employed so you're likely to bungle the case...",
+    "quote_verified": false
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a name possibly derived from Daz'issin, a diminutive form used by mothers in Menzoberranzan for sons they hoped would survive; his identity is entangled with erased records and a missing appendix in a heraldic text.",
+    "source_quote": "I asked her directly who this Daz'issin was. She told me it was a softening name. That mothers use it for boys they wanted to live.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Yvenne",
+    "fact": "Yvenne is the archivist who holds the public record of Menzoberranzan; she speaks only within the limits of sealed records, but her body language betrays concealed knowledge \u2014 her stillness contradicts her words, signaling she knows more than she is permitted to say.",
+    "source_quote": "I looked at her. At the way she was sitting. At the way she had been sitting for the last several minutes \u2014 the practiced stillness of someone who knows more than the public record allows her to say.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Houses of Menzoberranzan",
+    "fact": "Several houses in Menzoberranzan used the name Daz'issin, but most of them were eradicated; the act of striking a record \u2014 particularly the fourth seat with ritual archive privileges \u2014 was not mere political erasure but a costly, infrastructure-dependent act of total deletion requiring payment and plausible deniability.",
+    "source_quote": "The fourth seat holds ritual archive privileges... a struck fourth seat was not merely a political erasure. It was the expensive kind. The kind that requires knowing the right people and paying the right price.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "erasure of Daz'issin records",
+    "fact": "A deliberate, mechanical removal of an appendix from the book *Geography and Cities, Menzoberranzan, Pillars of Woe* occurred at least fifty years ago \u2014 likely to conceal the true identity and lineage of Daz'issin, suggesting a targeted suppression of personal and familial history.",
+    "source_quote": "I looked at the cut. It was mechanical. A razor. Not age, not water damage... someone had taken to this book and removed what the footnote pointed to.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "*Geography and Cities, Menzoberranzan, Pillars of Woe*",
+    "fact": "A two-hundred-year-old heraldic text with a missing appendix; the footnote referencing the appendix pointed to the name Daz'issin, and its removal was done with precision \u2014 indicating an intentional act of historical concealment.",
+    "source_quote": "The footnote referenced an appendix. The appendix was missing.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Daz's true origin",
+    "fact": "Daz may be the last living bearer of the name Daz'issin \u2014 a name tied to extinct houses and erased records \u2014 and his survival may be linked to a protected lineage that was deliberately hidden, making his identity a living anomaly in Menzoberranzan\u2019s official history.",
+    "source_quote": "I asked if she knew my name. She did. I asked whether someone might call me Daz, and this was actually a name that, like, my mother used.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Sealed Records of Menzoberranzan",
+    "fact": "The library is reputed to contain all information in the world, yet critical records \u2014 particularly those tied to Daz'issin and the fourth seat \u2014 are absent, implying the archive itself has been weaponized to suppress truth.",
+    "source_quote": "This is a library with, by reputation, all the information in the world. Something is not here that should be here.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Mercenaries following Daz",
+    "fact": "Daz is simultaneously guarded and hunted by mercenary factions \u2014 one group ensuring his survival, another attempting to kill him \u2014 suggesting his existence is both valuable and dangerous to powers within Menzoberranzan.",
+    "source_quote": "We have mercenaries following me around, trying to make sure I live, and other mercenaries following me around, trying to kill me.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "fifty years ago",
+    "fact": "The appendix containing the name Daz'issin was physically removed from the book at least fifty years ago \u2014 a timestamp aligning with the last known usage of the name and the extinction of its associated houses.",
+    "source_quote": "A razor, at least fifty years ago, someone had taken to this book and removed what the footnote pointed to.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz'issin",
+    "fact": "Daz'issin \u2014 lit. 'small shadow' \u2014 is a historical name used sparingly in Menzoberranzan; those who bore it were typically children of mothers seeking to protect them from the city\u2019s lethal politics, and nearly all such houses were later struck from the records.",
+    "source_quote": "Daz'issin, and lit., 'small shadow'... mothers use it for boys they wanted to live.",
+    "quote_verified": false
+  }
+]

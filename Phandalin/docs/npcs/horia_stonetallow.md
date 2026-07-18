@@ -8,6 +8,7 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 # Horia Stonetallow
 
 ## Identity
+- **Pronouns:** she/her (established in session 20260609)
 - **Role:** Dwarven mine representative and clan liaison for the Stonetallow clan; leader of a five-dwarf mining crew with a prior legal claim to the mine; works alongside foreman Dwolin the Grout at Mountain's Toe Gold Mine
 - **Faction:** Stonetallow clan (shield dwarves; ancestral roots trace to a disgruntled engineer from Gauntlgrym who was the only one who knew how to build a proper archway)
 - **First Appearance:** Encountered deeper in the mine after the party followed dwarf tracks from Don-jon's death site

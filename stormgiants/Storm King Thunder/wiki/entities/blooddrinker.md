@@ -37,3 +37,7 @@ Despite being a bear, Blooddrinker behaves with surprising docility. His instinc
 
 ## Significance
 Blooddrinker’s existence challenges assumptions about sentience, trauma-induced behavioral change, and the boundaries between animal and companion. His transformation and lingering magical ties to the stone chest make him a unique and enigmatic figure within the party’s lore.
+
+## Related
+
+- [[slayermighty]]

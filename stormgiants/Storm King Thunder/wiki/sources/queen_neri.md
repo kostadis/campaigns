@@ -36,7 +36,7 @@ related: []
 ### Connections to Existing Wiki
 - **[[storm-giants]]**: Relevant as Queen Neri is a Storm Giant queen.
 - **[[alliances]]**: Relevant as Queen Neri sought alliances between giants and small folk.
-- **[[crisis]]**: Directly related to the current crisis in the campaign.
+- **[[ecological-cascade-displacement-crisis]]**: Directly related to the current crisis in the campaign.
 - **[[golden-goose-conspiracy]]**: Directly related to the Golden Goose gambling chit and its implications.
 
 ### Contradictions & Tensions
@@ -44,7 +44,12 @@ related: []
 - **External Tension**: The assassination was orchestrated by Iymrith, who intended to provoke conflict, yet Queen Neri’s death prevented such a conflict.
 
 ### Recommendations
-- **Create or Update Pages**: [[storm-giants]], [[alliances]], [[crisis]], [[golden-goose-conspiracy]]
+- **Create or Update Pages**: [[storm-giants]], [[alliances]], [[ecological-cascade-displacement-crisis]], [[golden-goose-conspiracy]]
 - **Emphasize**: Queen Neri’s role as the moral origin point and her death as the catalyst for the crisis.
 - **De-emphasize**: Internal details about the assassination and the Golden Goose gambling chit unless they directly relate to the broader narrative.
 - **Open Question**: Clarify the exact nature of Queen Neri’s relationship with the small folk and her specific contributions to fostering alliances.
+
+## Related
+
+- [[the-queen-neri-conspiracy-2026-06-06-002538]]
+- [[queen_tatiana]]

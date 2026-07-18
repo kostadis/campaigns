@@ -1,0 +1,156 @@
+[
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is the investigator who filed Daral under 'desperate' and later took custody of the key to perform a divining spell, noting its cleanliness and the implications for the summoning magic's true target.",
+    "source_quote": "I took custody of the key, set my fingers to the cold iron of it, and let the spell read the object the way an auditor reads an account someone else kept.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is the strategist who fixated on the timeline of the book and the possibility that Daral is the killer, repeatedly pressing the logical implication that tampering occurred before or after the book was handed over.",
+    "source_quote": "So what I'm saying is that the timeline of the book seems to be a very important thing at this point.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daral",
+    "fact": "Daral is the accused man who provided the location of the Oak Tree Apothecary and the details of when and how the book was left under the tree, but insisted he never handed it to anyone \u2014 his testimony became central to the timeline investigation.",
+    "source_quote": "He'd dropped the book under the evergreen tree, next to the other gifts, around 11am on Deadwinter's Eve... he hadn't handed it to anybody. The book got picked up by Janussi at dinner.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Leuwin",
+    "fact": "Leuwin is the elderly, absent-minded satyr druid at the Oak Tree Apothecary, who is expected to identify the poison from the book definitively, though he has not yet been encountered.",
+    "source_quote": "A satyr druid named Leuwin, elderly and absent-minded, with a pet squirrel, who could identify the poison from the book definitively.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is the investigator who requested the key be checked for ongoing magic, prompting Daz to perform the divining spell that revealed the key was clean and unrelated to the summoning spell.",
+    "source_quote": "Zalthir wanted it checked for ongoing magic, and that is my function, not his. 'I can read it,' I said.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Fembris",
+    "fact": "Fembris is the avowed minder assigned to prevent the four strangers from accessing the library's contents, who left his post to attend Grygum's theological debate, inadvertently granting the investigators an hour of unsupervised time.",
+    "source_quote": "Fembris asked to leave. Our minder, the avowed assigned to ensure four armed strangers didn't help themselves to the contents of the world's most dangerous library, wanted to attend a debate.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is the orc theologian whose new theology is the subject of a major debate in the Oval Theater, drawing half the avowed and forcing Bookwyrm to attend despite political risk.",
+    "source_quote": "Grygum's debate, as it turned out \u2014 a disputation in the Oval Theater on his new theology, with half the avowed already in attendance and Bookwyrm herself unable to politically afford to miss it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm is a high authority in the library who could not politically afford to miss Grygum\u2019s debate, indicating her influence and the political weight of the theological conflict.",
+    "source_quote": "Bookwyrm herself unable to politically afford to miss it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is the oozing entity who attempted to assist Daz in resolving the hidden connection between the gem, the key, and the murdered man, but failed, sinking back into himself in disappointment.",
+    "source_quote": "Glabbagool tried to help, an eye surfacing through the ooze, hopeful, and I came up emptier still, and the eye sank back down, dolefully, into the rest of him.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "the Avowed",
+    "fact": "The Avowed are the organized guardians of the library, tasked with preventing unauthorized access by strangers, and are sufficiently numerous and politically engaged to have members attending Grygum\u2019s debate.",
+    "source_quote": "the avowed assigned to ensure four armed strangers didn't help themselves to the contents of the world's most dangerous library... half the avowed already in attendance.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "the divining of the key",
+    "fact": "Daz performed a divining spell on the key, confirming it was clean \u2014 not bound to the summoning spell, not created by it, and carrying no enchantment \u2014 which shifted the investigation to the sapphire gem as the true anchor of the magic.",
+    "source_quote": "The key was clean. Not linked to that spell, not created by it, carrying no quiet enchantment under the surface.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "the theft of the original key",
+    "fact": "The original key used in the summoning spell was stolen, forcing the perpetrator to cast a duplicate into the sapphire gem as a backup \u2014 a move that reveals the killer anticipated being tracked.",
+    "source_quote": "The summoning had been worked on a *different* key.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "the Oak Tree Apothecary",
+    "fact": "The Oak Tree Apothecary is a treehouse grown into the roots of an evergreen oak, located between the Sea Warden's Tower and the House of Mechanus, where Leuwin is expected to identify the poison.",
+    "source_quote": "The Oak Tree Apothecary, he said, between the Sea Warden's Tower and the House of Mechanus, a treehouse grown into the roots of an evergreen oak.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "the Oval Theater",
+    "fact": "The Oval Theater is the venue for Grygum\u2019s theological debate, a site of high political and religious significance where Bookwyrm and half the Avowed were compelled to attend.",
+    "source_quote": "a disputation in the Oval Theater on his new theology, with half the avowed already in attendance and Bookwyrm herself unable to politically afford to miss it.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "the sapphire gem",
+    "fact": "The sapphire gem is not mere decoration \u2014 it is the retrieval token for the summoning spell, functioning as a backup against theft of the original key, and must be the same gem used to both store and recall the object.",
+    "source_quote": "The sapphire isn't decoration: it's the retrieval token, and it has to be the *same* sapphire both to store and to recall.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "the stolen key",
+    "fact": "The stolen key was the original conduit for the summoning spell, but it was replaced by a duplicate cast into the sapphire gem \u2014 indicating the killer planned for its loss.",
+    "source_quote": "The summoning had been worked on a *different* key.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the unresolved connection between gem, key, and victim",
+    "fact": "Daz sensed a pattern linking the stolen key, the sapphire gem, and the murdered man \u2014 a connection a Menzoberranzan child should have recognized \u2014 but could not resolve, leaving a critical gap in the investigation.",
+    "source_quote": "There was a connection sitting in the gem and the stolen key and the murdered man... I reached for it and came up with nothing.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Deadwinter's Eve",
+    "fact": "Deadwinter's Eve is the date when Daral left the book under the evergreen tree around 11am, prior to his meeting at the keeper's Tower \u2014 a pivotal moment in the timeline of the book\u2019s tampering.",
+    "source_quote": "He'd dropped the book under the evergreen tree, next to the other gifts, around 11am on Deadwinter's Eve...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the identity of the murderer",
+    "fact": "The central unresolved thread is whether Daral is the killer \u2014 a possibility repeatedly pressed by Thorin and Daz, based on his inconsistent timeline and the fact that he never handed the book to anyone.",
+    "source_quote": "Or, the dude we're talking to is the killer.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the nature of the summoning spell",
+    "fact": "The summoning spell\u2019s true mechanism \u2014 using a duplicate cast into the sapphire gem while the original key was stolen \u2014 reveals a sophisticated, premeditated method of concealment, suggesting the killer had arcane knowledge and foresight.",
+    "source_quote": "Tidy. I'd have done the same.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Fembris's departure",
+    "fact": "Fembris\u2019s decision to leave his post granted the investigators an hour of unsupervised access to the library \u2014 a critical window that may have enabled further evidence gathering or tampering.",
+    "source_quote": "I did the only sensible thing, which was to note that his departure handed us an hour without supervision and to say nothing of the kind out loud.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the missing original key's location",
+    "fact": "The original key used in the summoning spell has not been recovered \u2014 its whereabouts remain unknown, and its theft is the key to understanding the killer\u2019s method and motive.",
+    "source_quote": "The summoning had been worked on a *different* key.",
+    "quote_verified": true
+  }
+]

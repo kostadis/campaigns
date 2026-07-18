@@ -1,0 +1,152 @@
+[
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a cleric of Bahamut who collects and organizes investigative records, values precise language, and has a deep, quiet understanding of the gelatinous cube Glabbagool's emotional history, particularly regarding cheese. He has carried Glabbagool through multiple dangerous situations in the Underdark and respects his non-verbal but profound convictions.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daral",
+    "fact": "Daral is a member of the investigative party who was poisoned by a magical book, licked the book while retrieving it, and thus ingested the poison himself. He is currently in a state of delayed deterioration, with Lesser Restoration available but withheld because he is believed to be withholding information before healing. He is cautious, methodical, and operates on instinctive moral calculus.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is the lead investigator in the party, specializing in logical puzzles and forensic contradictions. He is deeply troubled by the impossibility of stealing a locket from a living person and suspects two perpetrators. He is methodical, persistent, and understands that magic does not resolve contradictions\u2014it creates them.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a quiet but perceptive member of the party who deduced that the Sylvira lookalike's appearances span a two-hour window, exceeding the duration of a standard polymorph spell. He suspects a more complex or repeated magical effect is at play. He is analytical, observant, and unafraid to challenge assumptions with physical evidence.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a gelatinous cube who has been carried through the Underdark by Grygum. He does not perform emotions but possesses them deeply, particularly a nostalgic grief for cheese. He can digest almost any material, including walls and safes, and has offered unsolicited but technically correct insights into the investigation. He is not a tool\u2014he is a being with integrity, memory, and a quiet moral compass.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Fembris Lancer",
+    "fact": "Fembris Lancer is an aspiring author who seeks to co-author a monograph on the investigation. He is earnest, verbose, and repeatedly misuses academic terminology. He is visibly unnerved when his work is handed to Glabbagool, and he leaves the room without resolving his role in the inquiry.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Elian",
+    "fact": "Elian is a scholar at Candlekeep who approaches the investigation as an academic exercise. He seeks to publish a monograph, even if the murder remains unsolved, and believes in the value of endorsement over resolution. He introduces the concept of 'the myth of the person'\u2014the dangerous assumption that the dead tell the truth\u2014and argues that magic makes evidence adversarial rather than conclusive.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is a repository of knowledge where scholarly reputation is measured by authorship, particularly monographs. It values prestige over resolution, and individuals like Fembris and Elian compete for recognition by attaching their names to investigations\u2014even incomplete ones. The institution rewards form over function, and its scholars prioritize documentation over discovery.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "poisoning of Daral",
+    "fact": "Daral was poisoned after licking a magical book that had been used to frame a colleague. He retrieved the book from the scene of the crime, but in doing so, ingested the poison himself\u2014a self-inflicted consequence of his meticulous, almost ritualistic care in handling evidence. The act mirrors the original crime: precision that turns inward.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "apothecary intrusion",
+    "fact": "At the Oak Tree Apothecary, A'lai arrived asking for fennel, creating a distraction while a dragonborn (Alkrist) collected poison. Nibbles the squirrel witnessed the intrusion. This was a separate act from the later theft of the heart and looting of the safe\u2014two distinct threads in the murder. The timeline is clean but suspiciously so, suggesting deliberate staging.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "locket and sapphire contradiction",
+    "fact": "Thorin identified an unresolvable contradiction: a living person cannot have their locket stolen while holding it, and the sapphire is only useful for finding a lost locket. Therefore, the same person could not have possessed both items simultaneously. This implies two perpetrators\u2014or a method of deception that bypasses physical possession entirely.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Sylvira polymorph anomaly",
+    "fact": "The Sylvira lookalike was seen twice\u2014once at 1:00 AM and again between 2:00 and 3:00 AM\u2014creating a two-hour gap. Standard polymorph spells last only one hour. This contradiction implies either repeated use of the spell, a more powerful or persistent magical effect, or a completely different phenomenon. Magic has not resolved the mystery\u2014it has deepened it.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Glabbagool's safe digestion offer",
+    "fact": "Glabbagool casually offered that he could have eaten through Alkrist\u2019s locked safe, had the goal been stealth rather than destruction. His statement, delivered with quiet certainty, revealed an overlooked investigative avenue. The party had not considered his unique capabilities as a tool\u2014not because they were unaware, but because they underestimated his relevance.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Oak Tree Apothecary",
+    "fact": "The Oak Tree Apothecary is the site of the initial poisoning incident. It was here that A'lai created a distraction while a dragonborn collected poison from Leuwin\u2019s garden. The apothecary\u2019s layout and timing suggest deliberate staging, and its quiet, domestic setting contrasts sharply with the violent acts that followed.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Alkrist's chambers",
+    "fact": "Alkrist\u2019s chambers contain a locked safe that remains unopened. Zalthir previously asked Glabbagool whether he could squeeze through a crack, and Glabbagool confirmed the distinction between gaps that admit him and those that do not. The safe\u2019s inaccessibility has been a persistent, unresolved thread, and its potential vulnerability to digestion is only now acknowledged.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "magical book",
+    "fact": "The magical book was used to frame a colleague by poisoning those who handled it. It was retrieved by Daral, who licked his fingers while handling it, thus ingesting the poison. The book is not merely a weapon\u2014it is a trap designed to punish curiosity and meticulousness. Its mechanism mirrors the moral economy of the investigation: care leads to self-harm.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "sapphire",
+    "fact": "The sapphire is a magical item that reveals the location of a lost locket. It is useless if the locket is still in possession of a living person. Its presence in the case suggests the locket was taken from a corpse or hidden object, not a living victim. It is a tool of discovery, not theft, and its existence contradicts the assumption that the locket was stolen from the living.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "locket",
+    "fact": "The locket is a personal item that cannot be stolen from a living person who holds it. Its presence on the victim implies the victim was already dead when it was taken. This creates an irreconcilable contradiction with the assumption that the locket was taken during the attack, forcing the conclusion that two separate actors were involved\u2014or that the locket was planted post-mortem.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "dragonborn (Alkrist)",
+    "fact": "Alkrist is a dragonborn who was seen at the apothecary during the poison collection. He is a suspect in the poisoning, but not in the later theft of the heart or looting of the safe\u2014two separate acts. His presence suggests involvement in the initial crime, but his role in the broader murder remains ambiguous.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the myth of the person",
+    "fact": "The myth of the person is the false assumption that death strips away deception, bias, and performance\u2014that the dead speak only truth. Elian and Grygum reject this, asserting that the dead retain their motivations, memories, and lies. Magic that summons the dead does not reveal truth\u2014it reveals a new kind of adversary.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the locked safe",
+    "fact": "Alkrist\u2019s locked safe remains unopened, and its contents are unknown. Though Glabbagool could have eaten through it, the party never considered his capability as a viable investigative tool. The safe symbolizes the failure to think outside conventional methods\u2014and the cost of underestimating non-human agents.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the two-perpetrator theory",
+    "fact": "The contradiction between the locket and the sapphire, the timing of the Sylvira appearances, and the separation of the poisoning from the looting all point to two perpetrators. One handled the poison and the apothecary intrusion; another handled the theft of the heart and locket. The investigation is not failing\u2014it is revealing complexity.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the monograph obsession",
+    "fact": "The repeated attempts by Fembris and Elian to co-author a monograph reveal a deeper institutional truth: Candlekeep values documentation over resolution. The real mystery may not be the murder\u2014but the system that rewards academic credit even when the truth remains hidden.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "day of the murder",
+    "fact": "The murder occurred on a specific day, with precise timestamps: A'lai arrived at 2:30 PM, the dragonborn appeared shortly after, and the Sylvira lookalike was seen at 1:00 AM and 2:00\u20133:00 AM. The timeline is meticulously documented but contains impossible gaps\u2014suggesting intentional misdirection or layered magic.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occurred during a single afternoon and evening, beginning with the colloquium and ending with the debriefing. The entire investigation unfolded in a compressed temporal window, reinforcing the idea that truth is fixed, and the only variable is the observer\u2019s ability to perceive it.",
+    "quote_verified": false
+  }
+]

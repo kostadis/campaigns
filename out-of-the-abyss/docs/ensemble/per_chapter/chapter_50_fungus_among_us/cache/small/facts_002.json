@@ -1,0 +1,107 @@
+[
+  {
+    "type": "npc",
+    "subject": "Asha Vandree",
+    "fact": "Asha Vandree is a drow who has been exposed to Zuggtmoy's spores and fears contamination; she is desperate for others to kill Ilvara because she cannot risk close proximity to the spores, and she views Ilvara\u2019s devotion to a 'married Lolth' as a heretical abomination.",
+    "source_quote": "I fear that her disease will spread.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a surface-trained drow who manipulates perception by feigning sincere doubt and internalized spore infection to gain Asha Vandree\u2019s trust; he operates with calculated boldness that blurs the line between foolishness and mastery.",
+    "source_quote": "It's the kind of conviction this follower of Lolth shows.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is the observer and narrator, a drow who remains silent and unacknowledged by Asha Vandree; they meticulously document social dynamics, deception, and hidden intelligence, recognizing Asha\u2019s verbal disclosures as a map of Ilvara\u2019s infection vectors.",
+    "source_quote": "I filed it away in the archive of things I have witnessed that I will never be able to explain.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Ilvara's Cult",
+    "fact": "Ilvara leads a cult that believes Lolth wishes to be married, and her followers have been transformed into mindless fungal creatures by spores; this movement is viewed as a heretical corruption by Asha Vandree and her faction.",
+    "source_quote": "There is something foul and stinking about her, and then all of those allies she seems to covet have turned into fungal creatures that are mindless.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Asha's Faction",
+    "fact": "Asha Vandree leads a faction loyal to traditional Lolth worship, rejecting Ilvara\u2019s marriage doctrine as blasphemy; they are isolated, paranoid about contamination, and rely on outsiders to eliminate threats they dare not confront directly.",
+    "source_quote": "We need to kill her. We need to butcher her! We need to send her to an unearthly grave!",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is an ooze familiar capable of forming articulate shapes and utterances, which is highly unusual for such a creature; Daz has established control over it, suggesting it is more sentient or magically bound than it appears.",
+    "source_quote": "Glabbagool, I'm taking care of this, it's fine.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Zuggtmoy's Spores",
+    "fact": "Zuggtmoy's spores are infectious magical agents that transform hosts into fungal creatures and induce paranoia; they are the core vector of contamination feared by Asha Vandree and the central threat in the conflict with Ilvara.",
+    "source_quote": "Have you two been infected by the spores, possessed by the crazed magic of Zuggtmoy?",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Mushroom Artifact",
+    "fact": "A mushroom artifact associated with Ilvara\u2019s cult is implied to be the source or amplifier of the spore-based corruption; Asha\u2019s detailed knowledge of infection vectors suggests it is tangible and studied.",
+    "source_quote": "Ilvara's spores. A mushroom artifact. The specific vectors of infection.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Asha's Fear of Contamination",
+    "fact": "Asha Vandree\u2019s refusal to approach Ilvara and her visceral flinch at physical proximity reveal a deep, personal terror of spore infection; this fear is the key to understanding her reliance on outsiders and her vulnerability.",
+    "source_quote": "Don't touch me.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Daz's Performance of Conviction",
+    "fact": "Daz\u2019s feigned internalization of spore infection and his calm response to Asha\u2019s theological challenges suggest he is not merely manipulating her but testing the boundaries of her belief system; his success implies the deception may have deeper magical or psychic resonance.",
+    "source_quote": "I really do believe that I have... Perhaps there are some spores within me...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Nature of Lolth's Will",
+    "fact": "Asha and Ilvara represent opposing interpretations of Lolth\u2019s divine will \u2014 one sees marriage as blasphemy, the other as revelation \u2014 and the conflict over this theological schism is the ideological core of the factional war.",
+    "source_quote": "Ilvara, who was once a high priestess of Lolth, has become seduced by this abomination, this idea that Lolth wishes to be married.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Cavern",
+    "fact": "The cavern is a secluded, ancient site where Asha Vandree has been isolated for an extended period, waiting for a solution to Ilvara\u2019s threat; its atmosphere is thick with spore residue and unspoken dread.",
+    "source_quote": "She had been sitting in this cavern, waiting for a solution to walk through the door.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occur during a single, continuous negotiation session, with no temporal markers beyond immediate cause and effect; the pacing is driven by dialogue and psychological tension.",
+    "source_quote": "The pause before *it feels* was good. The hesitation wasn't a crack \u2014 it was a texture.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Asha's Test of Daz",
+    "fact": "Asha Vandree initiates a psychological test of Daz and his allies by accusing them of spore infection and questioning their devotion; her goal is to gauge their sincerity and identify whether they are trustworthy agents.",
+    "source_quote": "This was just a test.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz's Revelation of Strategy",
+    "fact": "Daz reveals that he and his allies are not specialists in fungal corruption but advocates of caution and preparation; this reframing shifts Asha\u2019s perception of them from ignorant fools to deliberate strategists.",
+    "source_quote": "Asking before blundering in was the sensible approach \u2014 not ignorance, caution.",
+    "quote_verified": false
+  }
+]

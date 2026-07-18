@@ -1,0 +1,661 @@
+{
+  "groups": [
+    {
+      "key": "daz",
+      "note": "faction_daz.md is the 'unknown Menzoberranzan patron' plot-thread mis-subjected onto Daz's name (Daz is the protected drow evoker, not the payer). Kept separate. RE-SUBJECT CANDIDATE for entity-triage/alias tooling -> 'Daz's patron' / A'lai's patron thread; not a type-merge.",
+      "resolution": [
+        {"status": "kept_separate", "members": ["npc_daz.md", "faction_daz.md"]}
+      ]
+    },
+    {
+      "key": "grygum",
+      "resolution": [
+        {"status": "kept_separate", "members": ["npc_grygum.md", "location_grygum.md"]}
+      ]
+    },
+    {
+      "key": "glabbagool",
+      "resolution": [
+        {"status": "merged", "members": ["npc_glabbagool.md", "monster_glabbagool.md", "object_glabbagool.md"], "primary": "npc_glabbagool.md"}
+      ]
+    },
+    {
+      "key": "dawnbringer",
+      "resolution": [
+        {"status": "merged", "members": ["object_dawnbringer.md", "npc_dawnbringer.md", "monster_dawnbringer.md"], "primary": "object_dawnbringer.md"}
+      ]
+    },
+    {
+      "key": "buppido",
+      "resolution": [
+        {"status": "merged", "members": ["npc_buppido.md", "monster_buppido.md"], "primary": "npc_buppido.md"}
+      ]
+    },
+    {
+      "key": "ilvara mizzrym",
+      "note": "faction_ilvara_mizzrym.md is confused extraction about goods she carried around her death (per GM), not a real merchant/faction facet. Kept separate.",
+      "resolution": [
+        {"status": "merged", "members": ["npc_ilvara_mizzrym.md", "monster_ilvara_mizzrym.md"], "primary": "npc_ilvara_mizzrym.md"},
+        {"status": "kept_separate", "members": ["faction_ilvara_mizzrym.md"]}
+      ]
+    },
+    {
+      "key": "eldeth feldrun",
+      "resolution": [
+        {"status": "merged", "members": ["npc_eldeth_feldrun.md", "monster_eldeth_feldrun.md"], "primary": "npc_eldeth_feldrun.md"}
+      ]
+    },
+    {
+      "key": "blingdenstone",
+      "resolution": [
+        {"status": "merged", "members": ["location_blingdenstone.md", "faction_blingdenstone.md", "npc_blingdenstone.md"], "primary": "location_blingdenstone.md"}
+      ]
+    },
+    {
+      "key": "gracklstugh",
+      "resolution": [
+        {"status": "merged", "members": ["location_gracklstugh.md", "faction_gracklstugh.md", "npc_gracklstugh.md", "object_gracklstugh.md"], "primary": "location_gracklstugh.md"}
+      ]
+    },
+    {
+      "key": "stool",
+      "resolution": [
+        {"status": "merged", "members": ["npc_stool.md", "location_stool.md"], "primary": "npc_stool.md"}
+      ]
+    },
+    {
+      "key": "candlekeep",
+      "resolution": [
+        {"status": "merged", "members": ["location_candlekeep.md", "faction_candlekeep.md"], "primary": "location_candlekeep.md"}
+      ]
+    },
+    {
+      "key": "bookwyrm",
+      "resolution": [
+        {"status": "merged", "members": ["npc_bookwyrm.md", "faction_bookwyrm.md", "monster_bookwyrm.md"], "primary": "npc_bookwyrm.md"}
+      ]
+    },
+    {
+      "key": "kalan strongbranch",
+      "resolution": [
+        {"status": "merged", "members": ["npc_kalan_strongbranch.md", "monster_kalan_strongbranch.md"], "primary": "npc_kalan_strongbranch.md"}
+      ]
+    },
+    {
+      "key": "neverlight grove",
+      "resolution": [
+        {"status": "merged", "members": ["location_neverlight_grove.md", "faction_neverlight_grove.md"], "primary": "location_neverlight_grove.md"}
+      ]
+    },
+    {
+      "key": "duergar",
+      "note": "GM ruling: this is 'the Duergar of Gracklstugh' as a faction, not duergar-in-general. Typing a humanoid race as 'monster' is the alignment-monolith stereotype trap; unless the content is about physiology, a humanoid people is a FACTION. Merged into faction_duergar.md as primary.",
+      "resolution": [
+        {"status": "merged", "members": ["faction_duergar.md", "monster_duergar.md"], "primary": "faction_duergar.md"}
+      ]
+    },
+    {
+      "key": "menzoberranzan",
+      "resolution": [
+        {"status": "merged", "members": ["location_menzoberranzan.md", "faction_menzoberranzan.md"], "primary": "location_menzoberranzan.md"}
+      ]
+    },
+    {
+      "key": "sloobludop",
+      "resolution": [
+        {"status": "merged", "members": ["location_sloobludop.md", "faction_sloobludop.md"], "primary": "location_sloobludop.md"}
+      ]
+    },
+    {
+      "key": "the ember vanguard",
+      "note": "Party's own fabricated reputation-myth. Kept distinct from 'the ember grapple' (separate group).",
+      "resolution": [
+        {"status": "merged", "members": ["faction_the_ember_vanguard.md", "npc_the_ember_vanguard.md", "monster_the_ember_vanguard.md", "object_the_ember_vanguard.md"], "primary": "faction_the_ember_vanguard.md"}
+      ]
+    },
+    {
+      "key": "the pudding king",
+      "resolution": [
+        {"status": "merged", "members": ["npc_the_pudding_king.md", "monster_the_pudding_king.md"], "primary": "npc_the_pudding_king.md"}
+      ]
+    },
+    {
+      "key": "themberchaud",
+      "resolution": [
+        {"status": "merged", "members": ["npc_themberchaud.md", "monster_themberchaud.md", "faction_themberchaud.md", "object_themberchaud.md"], "primary": "npc_themberchaud.md"}
+      ]
+    },
+    {
+      "key": "drow",
+      "note": "Race->faction heuristic: monster facet (captured drow in bag of holding) and npc facet (a generic drow operative) are the drow-as-people, not a bestiary creature or named NPC. Merged into faction_drow.md.",
+      "resolution": [
+        {"status": "merged", "members": ["faction_drow.md", "monster_drow.md", "npc_drow.md"], "primary": "faction_drow.md"}
+      ]
+    },
+    {
+      "key": "plinki",
+      "resolution": [
+        {"status": "merged", "members": ["npc_plinki.md", "monster_plinki.md"], "primary": "npc_plinki.md"}
+      ]
+    },
+    {
+      "key": "zuggtmoy",
+      "resolution": [
+        {"status": "merged", "members": ["monster_zuggtmoy.md", "faction_zuggtmoy.md", "npc_zuggtmoy.md"], "primary": "monster_zuggtmoy.md"}
+      ]
+    },
+    {
+      "key": "sovereign basidia",
+      "resolution": [
+        {"status": "merged", "members": ["npc_sovereign_basidia.md", "faction_sovereign_basidia.md", "monster_sovereign_basidia.md"], "primary": "npc_sovereign_basidia.md"}
+      ]
+    },
+    {
+      "key": "gartokkar xundorn",
+      "resolution": [
+        {"status": "merged", "members": ["npc_gartokkar_xundorn.md", "monster_gartokkar_xundorn.md"], "primary": "npc_gartokkar_xundorn.md"}
+      ]
+    },
+    {
+      "key": "house t'sarran",
+      "resolution": [
+        {"status": "merged", "members": ["faction_house_t_sarran.md", "location_house_t_sarran.md"], "primary": "faction_house_t_sarran.md"}
+      ]
+    },
+    {
+      "key": "the avowed",
+      "resolution": [
+        {"status": "merged", "members": ["faction_the_avowed.md", "npc_the_avowed.md"], "primary": "faction_the_avowed.md"}
+      ]
+    },
+    {
+      "key": "council of savants",
+      "resolution": [
+        {"status": "merged", "members": ["faction_council_of_savants.md", "object_council_of_savants.md"], "primary": "faction_council_of_savants.md"}
+      ]
+    },
+    {
+      "key": "keepers of the flame",
+      "resolution": [
+        {"status": "merged", "members": ["faction_keepers_of_the_flame.md", "monster_keepers_of_the_flame.md"], "primary": "faction_keepers_of_the_flame.md"}
+      ]
+    },
+    {
+      "key": "narrak",
+      "resolution": [
+        {"status": "merged", "members": ["npc_narrak.md", "monster_narrak.md"], "primary": "npc_narrak.md"}
+      ]
+    },
+    {
+      "key": "droki",
+      "resolution": [
+        {"status": "merged", "members": ["npc_droki.md", "monster_droki.md"], "primary": "npc_droki.md"}
+      ]
+    },
+    {
+      "key": "bag of holding",
+      "note": "Merged object+location (same specific bag: holds Glabbagool + the miniaturized drow spy). RE-SUBJECT CANDIDATE for entity-triage/alias tooling -> 'Glabbagool's Bag of Holding'; bare 'Bag of Holding' is a generic item name that could collide downstream. Not a type-merge concern; verbatim concat only here.",
+      "resolution": [
+        {"status": "merged", "members": ["object_bag_of_holding.md", "location_bag_of_holding.md"], "primary": "object_bag_of_holding.md"}
+      ]
+    },
+    {
+      "key": "errde blackskull",
+      "resolution": [
+        {"status": "merged", "members": ["npc_errde_blackskull.md", "monster_errde_blackskull.md"], "primary": "npc_errde_blackskull.md"}
+      ]
+    },
+    {
+      "key": "velkynvelve",
+      "resolution": [
+        {"status": "merged", "members": ["location_velkynvelve.md", "faction_velkynvelve.md", "npc_velkynvelve.md"], "primary": "location_velkynvelve.md"}
+      ]
+    },
+    {
+      "key": "juiblex",
+      "resolution": [
+        {"status": "merged", "members": ["monster_juiblex.md", "faction_juiblex.md", "npc_juiblex.md"], "primary": "monster_juiblex.md"}
+      ]
+    },
+    {
+      "key": "demogorgon",
+      "resolution": [
+        {"status": "merged", "members": ["monster_demogorgon.md", "faction_demogorgon.md", "npc_demogorgon.md"], "primary": "monster_demogorgon.md"}
+      ]
+    },
+    {
+      "key": "dust of suleiman",
+      "resolution": [
+        {"status": "merged", "members": ["object_dust_of_suleiman.md", "monster_dust_of_suleiman.md"], "primary": "object_dust_of_suleiman.md"}
+      ]
+    },
+    {
+      "key": "flumph",
+      "resolution": [
+        {"status": "merged", "members": ["npc_flumph.md", "monster_flumph.md"], "primary": "npc_flumph.md"}
+      ]
+    },
+    {
+      "key": "gray ghosts",
+      "resolution": [
+        {"status": "merged", "members": ["faction_gray_ghosts.md", "monster_gray_ghosts.md"], "primary": "faction_gray_ghosts.md"}
+      ]
+    },
+    {
+      "key": "jadgar",
+      "resolution": [
+        {"status": "merged", "members": ["npc_jadgar.md", "monster_jadgar.md"], "primary": "npc_jadgar.md"}
+      ]
+    },
+    {
+      "key": "rasharoo",
+      "resolution": [
+        {"status": "merged", "members": ["npc_rasharoo.md", "location_rasharoo.md"], "primary": "npc_rasharoo.md"}
+      ]
+    },
+    {
+      "key": "sovereign phylo",
+      "resolution": [
+        {"status": "merged", "members": ["npc_sovereign_phylo.md", "faction_sovereign_phylo.md", "monster_sovereign_phylo.md"], "primary": "npc_sovereign_phylo.md"}
+      ]
+    },
+    {
+      "key": "deepking",
+      "note": "Individual ruler of Gracklstugh mis-split across faction/npc/monster. Primary=faction_deepking.md (densest) per GM; type reads 'faction' though he's an individual.",
+      "resolution": [
+        {"status": "merged", "members": ["faction_deepking.md", "npc_deepking.md", "monster_deepking.md"], "primary": "faction_deepking.md"}
+      ]
+    },
+    {
+      "key": "princess ebonmire",
+      "resolution": [
+        {"status": "merged", "members": ["npc_princess_ebonmire.md", "faction_princess_ebonmire.md"], "primary": "npc_princess_ebonmire.md"}
+      ]
+    },
+    {
+      "key": "voosbur",
+      "resolution": [
+        {"status": "merged", "members": ["npc_voosbur.md", "location_voosbur.md", "monster_voosbur.md"], "primary": "npc_voosbur.md"}
+      ]
+    },
+    {
+      "key": "khell-vire",
+      "resolution": [
+        {"status": "merged", "members": ["npc_khell_vire.md", "monster_khell_vire.md"], "primary": "npc_khell_vire.md"}
+      ]
+    },
+    {
+      "key": "clan ironhead",
+      "resolution": [
+        {"status": "merged", "members": ["faction_clan_ironhead.md", "location_clan_ironhead.md"], "primary": "faction_clan_ironhead.md"}
+      ]
+    },
+    {
+      "key": "prince livid",
+      "resolution": [
+        {"status": "merged", "members": ["npc_prince_livid.md", "faction_prince_livid.md"], "primary": "npc_prince_livid.md"}
+      ]
+    },
+    {
+      "key": "inner circle",
+      "note": "Merged location+faction (Neverlight Grove's sacred heart + its ruling elite). RE-SUBJECT CANDIDATE for entity-triage/alias tooling -> 'neverlight_grove_inner_circle'; bare 'Inner Circle' is generic and could collide. Distinct from 'circle of masters'.",
+      "resolution": [
+        {"status": "merged", "members": ["location_inner_circle.md", "faction_inner_circle.md"], "primary": "location_inner_circle.md"}
+      ]
+    },
+    {
+      "key": "lolth",
+      "resolution": [
+        {"status": "merged", "members": ["npc_lolth.md", "faction_lolth.md"], "primary": "npc_lolth.md"}
+      ]
+    },
+    {
+      "key": "midnight tears",
+      "note": "Merged all 4 (object=the poison; monster='not a living creature'; faction/npc=garble about 'the name kept as a lead'). RE-SUBJECT CANDIDATE -> 'midnight_tears_poison_used_to_kill_janussi'; bare 'Midnight Tears' is a generic poison name (collides with the published item). Per GM.",
+      "resolution": [
+        {"status": "merged", "members": ["object_midnight_tears.md", "faction_midnight_tears.md", "monster_midnight_tears.md", "npc_midnight_tears.md"], "primary": "object_midnight_tears.md"}
+      ]
+    },
+    {
+      "key": "myconid",
+      "note": "Race->faction heuristic: the residual 'a myconid' bundle (unnamed advocate + myconids-as-Zuggtmoy-servants + the people). Named myconids (Stool, Basidia, Phylo, Rasharoo, Voosbur) are separate dossiers. Merged into faction_myconid.md.",
+      "resolution": [
+        {"status": "merged", "members": ["faction_myconid.md", "npc_myconid.md", "monster_myconid.md"], "primary": "faction_myconid.md"}
+      ]
+    },
+    {
+      "key": "the ember grapple",
+      "note": "Party's Zalthir-holds/Daz-burns combo identity. Kept distinct from 'the ember vanguard'.",
+      "resolution": [
+        {"status": "merged", "members": ["faction_the_ember_grapple.md", "object_the_ember_grapple.md", "npc_the_ember_grapple.md"], "primary": "faction_the_ember_grapple.md"}
+      ]
+    },
+    {
+      "key": "the garden shadow",
+      "resolution": [
+        {"status": "merged", "members": ["faction_the_garden_shadow.md", "location_the_garden_shadow.md"], "primary": "faction_the_garden_shadow.md"}
+      ]
+    },
+    {
+      "key": "circle of masters",
+      "note": "Rogue myconid cabal corrupting Phylo. RE-SUBJECT CANDIDATE -> 'neverlight_grove_circle_of_masters'; bare 'Circle of Masters' is generic and could collide. Distinct from 'inner circle'.",
+      "resolution": [
+        {"status": "merged", "members": ["faction_circle_of_masters.md", "location_circle_of_masters.md"], "primary": "faction_circle_of_masters.md"}
+      ]
+    },
+    {
+      "key": "empty-scabbard killers",
+      "resolution": [
+        {"status": "merged", "members": ["faction_empty_scabbard_killers.md", "monster_empty_scabbard_killers.md"], "primary": "faction_empty_scabbard_killers.md"}
+      ]
+    },
+    {
+      "key": "grogluk",
+      "resolution": [
+        {"status": "merged", "members": ["npc_grogluk.md", "monster_grogluk.md"], "primary": "npc_grogluk.md"}
+      ]
+    },
+    {
+      "key": "loobamub",
+      "resolution": [
+        {"status": "merged", "members": ["npc_loobamub.md", "monster_loobamub.md"], "primary": "npc_loobamub.md"}
+      ]
+    },
+    {
+      "key": "protanther",
+      "resolution": [
+        {"status": "merged", "members": ["npc_protanther.md", "monster_protanther.md"], "primary": "npc_protanther.md"}
+      ]
+    },
+    {
+      "key": "rock blight",
+      "resolution": [
+        {"status": "merged", "members": ["location_rock_blight.md", "monster_rock_blight.md"], "primary": "location_rock_blight.md"}
+      ]
+    },
+    {
+      "key": "stoneheart enclave",
+      "resolution": [
+        {"status": "merged", "members": ["faction_stoneheart_enclave.md", "location_stoneheart_enclave.md"], "primary": "faction_stoneheart_enclave.md"}
+      ]
+    },
+    {
+      "key": "aliinka",
+      "resolution": [
+        {"status": "merged", "members": ["npc_aliinka.md", "monster_aliinka.md"], "primary": "npc_aliinka.md"}
+      ]
+    },
+    {
+      "key": "circle of hunters",
+      "note": "Myconid corpse-retrieval circle (Loobamub's). RE-SUBJECT CANDIDATE -> 'neverlight_grove_circle_of_hunters'; generic name. Distinct from 'circle of masters'/'inner circle'.",
+      "resolution": [
+        {"status": "merged", "members": ["faction_circle_of_hunters.md", "location_circle_of_hunters.md"], "primary": "faction_circle_of_hunters.md"}
+      ]
+    },
+    {
+      "key": "entémoch",
+      "resolution": [
+        {"status": "merged", "members": ["npc_ent_moch.md", "monster_ent_moch.md"], "primary": "npc_ent_moch.md"}
+      ]
+    },
+    {
+      "key": "faerzress",
+      "note": "Ambient Underdark magical phenomenon. Primary=location_faerzress.md per GM (overrides densest-default of monster; 'monster' typing is wrong for an environmental field).",
+      "resolution": [
+        {"status": "merged", "members": ["location_faerzress.md", "monster_faerzress.md", "object_faerzress.md"], "primary": "location_faerzress.md"}
+      ]
+    },
+    {
+      "key": "high tower",
+      "note": "Candlekeep's guarded artifact vault (High Tower Library keys). RE-SUBJECT CANDIDATE -> 'candlekeep_high_tower'; generic name.",
+      "resolution": [
+        {"status": "merged", "members": ["location_high_tower.md", "faction_high_tower.md"], "primary": "location_high_tower.md"}
+      ]
+    },
+    {
+      "key": "kuo-toa",
+      "note": "Race->faction heuristic: the Darklake kuo-toa people (Shuushar; Deep Father ritualists). Merged into faction_kuo_toa.md.",
+      "resolution": [
+        {"status": "merged", "members": ["faction_kuo_toa.md", "monster_kuo_toa.md"], "primary": "faction_kuo_toa.md"}
+      ]
+    },
+    {
+      "key": "miners' guild",
+      "note": "Blingdenstone gnome guild (Kazook Pickshine). RE-SUBJECT CANDIDATE -> 'blingdenstone_miners_guild'; generic name.",
+      "resolution": [
+        {"status": "merged", "members": ["faction_miners_guild.md", "location_miners_guild.md"], "primary": "faction_miners_guild.md"}
+      ]
+    },
+    {
+      "key": "spores",
+      "note": "KEPT SEPARATE: 'spores' is generic and the two files are different events. RE-SUBJECT: object_spores.md -> 'ilvaras_infection_spores' (Ilvara's mind-altering infection vector); monster_spores.md -> 'voosburs_dreamscape_spores' (Voosbur's transformation spores). Neither is the dedicated 'zuggtmoy's spores' group.",
+      "resolution": [
+        {"status": "kept_separate", "members": ["object_spores.md", "monster_spores.md"]}
+      ]
+    },
+    {
+      "key": "stone guard",
+      "resolution": [
+        {"status": "merged", "members": ["faction_stone_guard.md", "monster_stone_guard.md"], "primary": "faction_stone_guard.md"}
+      ]
+    },
+    {
+      "key": "zhentarim",
+      "resolution": [
+        {"status": "merged", "members": ["faction_zhentarim.md", "monster_zhentarim.md"], "primary": "faction_zhentarim.md"}
+      ]
+    },
+    {
+      "key": "araumycos",
+      "resolution": [
+        {"status": "merged", "members": ["npc_araumycos.md", "monster_araumycos.md"], "primary": "npc_araumycos.md"}
+      ]
+    },
+    {
+      "key": "bahamut",
+      "resolution": [
+        {"status": "merged", "members": ["npc_bahamut.md", "monster_bahamut.md"], "primary": "npc_bahamut.md"}
+      ]
+    },
+    {
+      "key": "bimble",
+      "resolution": [
+        {"status": "merged", "members": ["npc_bimble.md", "object_bimble.md"], "primary": "npc_bimble.md"}
+      ]
+    },
+    {
+      "key": "circle of explorers",
+      "note": "Rasharoo's breakaway myconid faction/haven. RE-SUBJECT CANDIDATE -> 'neverlight_grove_circle_of_explorers'; generic name.",
+      "resolution": [
+        {"status": "merged", "members": ["location_circle_of_explorers.md", "faction_circle_of_explorers.md"], "primary": "location_circle_of_explorers.md"}
+      ]
+    },
+    {
+      "key": "leemooggoogoon",
+      "resolution": [
+        {"status": "merged", "members": ["npc_leemooggoogoon.md", "monster_leemooggoogoon.md"], "primary": "npc_leemooggoogoon.md"}
+      ]
+    },
+    {
+      "key": "ogrémoch",
+      "resolution": [
+        {"status": "merged", "members": ["monster_ogr_moch.md", "faction_ogr_moch.md"], "primary": "monster_ogr_moch.md"}
+      ]
+    },
+    {
+      "key": "the astronomicon",
+      "resolution": [
+        {"status": "merged", "members": ["location_the_astronomicon.md", "object_the_astronomicon.md"], "primary": "location_the_astronomicon.md"}
+      ]
+    },
+    {
+      "key": "yestabrod",
+      "resolution": [
+        {"status": "merged", "members": ["monster_yestabrod.md", "npc_yestabrod.md"], "primary": "monster_yestabrod.md"}
+      ]
+    },
+    {
+      "key": "abyssal plague",
+      "note": "Both files = the Abyss-born plague afflicting Sylvira (given by her son). RE-SUBJECT CANDIDATE -> 'sylviras_abyssal_plague'; 'abyssal plague' reads as a generic disease type.",
+      "resolution": [
+        {"status": "merged", "members": ["object_abyssal_plague.md", "monster_abyssal_plague.md"], "primary": "object_abyssal_plague.md"}
+      ]
+    },
+    {
+      "key": "circle of growers",
+      "note": "Myconid agricultural circle (Hepbobe). RE-SUBJECT CANDIDATE -> 'neverlight_grove_circle_of_growers'; generic name.",
+      "resolution": [
+        {"status": "merged", "members": ["faction_circle_of_growers.md", "location_circle_of_growers.md"], "primary": "faction_circle_of_growers.md"}
+      ]
+    },
+    {
+      "key": "clan xundom",
+      "resolution": [
+        {"status": "merged", "members": ["faction_clan_xundom.md", "location_clan_xundom.md"], "primary": "faction_clan_xundom.md"}
+      ]
+    },
+    {
+      "key": "malfire",
+      "resolution": [
+        {"status": "merged", "members": ["monster_malfire.md", "npc_malfire.md"], "primary": "npc_malfire.md"}
+      ]
+    },
+    {
+      "key": "poison",
+      "note": "Both files = the ch60 Candlekeep book-poison used in the Janussi murder. RE-SUBJECT CANDIDATE -> 'janussi_murder_poison'. ALIAS of 'midnight tears' (same substance) -> flag for entity-triage/alias tooling.",
+      "resolution": [
+        {"status": "merged", "members": ["object_poison.md", "monster_poison.md"], "primary": "object_poison.md"}
+      ]
+    },
+    {
+      "key": "spider",
+      "note": "KEPT SEPARATE: two different spiders sharing the generic word. monster_spider.md = wild spider over Velkynvelve prison pool (ch1). object_spider.md = Daz's familiar / Lolth 'proof' (ch50) -> RE-SUBJECT to 'daz_familiar_spider'.",
+      "resolution": [
+        {"status": "kept_separate", "members": ["monster_spider.md", "object_spider.md"]}
+      ]
+    },
+    {
+      "key": "temple of oghma",
+      "resolution": [
+        {"status": "merged", "members": ["faction_temple_of_oghma.md", "location_temple_of_oghma.md"], "primary": "faction_temple_of_oghma.md"}
+      ]
+    },
+    {
+      "key": "the oak tree apothecary",
+      "resolution": [
+        {"status": "merged", "members": ["location_the_oak_tree_apothecary.md", "object_the_oak_tree_apothecary.md"], "primary": "location_the_oak_tree_apothecary.md"}
+      ]
+    },
+    {
+      "key": "uskvil",
+      "resolution": [
+        {"status": "merged", "members": ["monster_uskvil.md", "npc_uskvil.md"], "primary": "npc_uskvil.md"}
+      ]
+    },
+    {
+      "key": "yeenoghu",
+      "resolution": [
+        {"status": "merged", "members": ["faction_yeenoghu.md", "npc_yeenoghu.md"], "primary": "npc_yeenoghu.md"}
+      ]
+    },
+    {
+      "key": "zuggtmoy's spores",
+      "resolution": [
+        {"status": "merged", "members": ["monster_zuggtmoy_s_spores.md", "object_zuggtmoy_s_spores.md"], "primary": "object_zuggtmoy_s_spores.md"}
+      ]
+    },
+    {
+      "key": "zurkhwood",
+      "resolution": [
+        {"status": "merged", "members": ["npc_zurkhwood.md", "object_zurkhwood.md"], "primary": "object_zurkhwood.md"}
+      ]
+    },
+    {
+      "key": "bookwyrm (first reader)",
+      "note": "Same trio-merge previously decided under stale key 'bookwyrm' (pre-re-extraction filenames, now gone). npc=her actions, faction=institutional authority, monster(1)=Daral's racially-charged suspicion about her species, a rumor not a creature facet.",
+      "resolution": [
+        {"status": "merged", "members": ["npc_bookwyrm_first_reader.md", "faction_bookwyrm_first_reader.md", "monster_bookwyrm_first_reader.md"], "primary": "npc_bookwyrm_first_reader.md"}
+      ]
+    },
+    {
+      "key": "daral yashenti",
+      "note": "location_daral_yashenti.md is confused extraction (its own uncertainty asks whether Daral is a person or a location) restating 'book reclaimed from Daral', not a real place facet. Kept separate.",
+      "resolution": [
+        {"status": "kept_separate", "members": ["npc_daral_yashenti.md"]},
+        {"status": "kept_separate", "members": ["location_daral_yashenti.md"]}
+      ]
+    },
+    {
+      "key": "underdark",
+      "resolution": [
+        {"status": "merged", "members": ["location_underdark.md", "monster_underdark.md"], "primary": "location_underdark.md"}
+      ]
+    },
+    {
+      "key": "alkrist",
+      "note": "monster_alkrist.md is an earlier, unconfirmed sighting of the same person at the apothecary before his role in the murder was established — not a distinct entity.",
+      "resolution": [
+        {"status": "merged", "members": ["npc_alkrist.md", "monster_alkrist.md"], "primary": "npc_alkrist.md"}
+      ]
+    },
+    {
+      "key": "house mizzrym",
+      "note": "location_house_mizzrym.md is a duplicate organizational description (its own 'Current location' field says Unspecified), not a real place facet.",
+      "resolution": [
+        {"status": "merged", "members": ["faction_house_mizzrym.md", "location_house_mizzrym.md"], "primary": "faction_house_mizzrym.md"}
+      ]
+    },
+    {
+      "key": "the overbright",
+      "resolution": [
+        {"status": "merged", "members": ["location_the_overbright.md", "faction_the_overbright.md"], "primary": "location_the_overbright.md"}
+      ]
+    },
+    {
+      "key": "rockblight",
+      "note": "monster_rockblight.md's own uncertainty says it's unclear whether Rockblight is a sentient creature or just the caverns' name — no agency/anatomy facts, only hazardous terrain.",
+      "resolution": [
+        {"status": "merged", "members": ["location_rockblight.md", "monster_rockblight.md"], "primary": "location_rockblight.md"}
+      ]
+    },
+    {
+      "key": "skiit",
+      "resolution": [
+        {"status": "merged", "members": ["npc_skiit.md", "monster_skiit.md"], "primary": "npc_skiit.md"}
+      ]
+    },
+    {
+      "key": "the high tower",
+      "note": "Same trio-shape merge previously decided under stale key 'high tower' (pre-re-extraction filenames, now gone). RE-SUBJECT CANDIDATE -> 'candlekeep_high_tower'; generic name, carried forward from the prior ruling.",
+      "resolution": [
+        {"status": "merged", "members": ["location_the_high_tower.md", "faction_the_high_tower.md"], "primary": "location_the_high_tower.md"}
+      ]
+    },
+    {
+      "key": "the whispering dome",
+      "resolution": [
+        {"status": "merged", "members": ["location_the_whispering_dome.md", "faction_the_whispering_dome.md"], "primary": "location_the_whispering_dome.md"}
+      ]
+    },
+    {
+      "key": "tiamat",
+      "resolution": [
+        {"status": "merged", "members": ["npc_tiamat.md", "monster_tiamat.md"], "primary": "npc_tiamat.md"}
+      ]
+    },
+    {
+      "key": "blibdoolpoolp",
+      "note": "Genuine ambiguity: npc fact is attributed to 'Grygum recalls,' not confirmed as Blibdoolpoolp's own words or confirming she is a person distinct from the deity/cult name. Merged anyway per GM call — low stakes given 1 fact each.",
+      "resolution": [
+        {"status": "merged", "members": ["faction_blibdoolpoolp.md", "npc_blibdoolpoolp.md"], "primary": "npc_blibdoolpoolp.md"}
+      ]
+    },
+    {
+      "key": "whistler",
+      "note": "GM ruling: Whistler is a kenku NPC returning from a previous adventure, now spoken of in-fiction as a legendary bardic figure (the Tiamat's-hoard tale). npc + monster facets are the same individual, not a distinct creature.",
+      "resolution": [
+        {"status": "merged", "members": ["monster_whistler.md", "npc_whistler.md"], "primary": "npc_whistler.md"}
+      ]
+    }
+  ]
+}

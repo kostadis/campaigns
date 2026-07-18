@@ -1,8 +1,8 @@
 ---
 type: source
 title: "Source: ghost_cloud_giant.md"
-created: 2026-05-13
-updated: 2026-05-13
+created: 2026-06-06
+updated: 2026-06-06
 sources: ["ghost_cloud_giant.md"]
 tags: []
 related: []
@@ -10,40 +10,45 @@ related: []
 
 # Source: ghost_cloud_giant.md
 
-### Key Entities
-- **Ghost (Cloud Giant)**: Merchant specializing in magical goods for discerning magic users, known to Unla Kee and associated with the Fishyard.
-- **Blagothkus**: Merchant specializing in magical goods for discerning magic users, known to Unla Kee and associated with the Fishyard.
-- **Annam**: Oracle, known to Unla Kee and associated with the Fishyard.
-- **Parnast**: Location, likely a castle, where Blagothkus resides.
-- **Rose**: Artifact, the hexagonal oracle chamber within the Temple of Annam.
-- **Six Giant Statues**: Artifacts, each representing a lantern light consumed by the party's questions.
+## Key Entities
 
-### Key Concepts
-- **Oracle Prophecy**: A supernatural mechanism that dictates the actions of those who interact with it.
-- **Lantern Light Consumption**: Each question posed to the oracle consumes one lantern light from the six giant statues.
-- **Vengeance Quest**: The ghost's request for the party to kill his father, Blagothkus, to fulfill his unfinished business.
+*   **Ghost (Cloud Giant)**
+    *   **Type:** Spirit / Undead.
+    *   **Role:** Central to the "Temple of Annam" narrative; acts as a quest-giver and information source regarding the Oracle's mechanics.
+    *   **Wiki Status:** Likely exists or should be linked to [[blagothkus]] and [[annam-the-oracle-and-annam-the-all-father-of-giants]].
+*   **Blagothkus**
+    *   **Type:** Cloud Giant (deceased/retired).
+    *   **Role:** Antagonist; the Ghost's father. His actions are the catalyst for the Ghost's existence as a spirit.
+    *   **Wiki Status:** Already exists in index.
+*   **Annam (The Allfather)**
+    *   **Type:** Deity.
+    *   **Role:** Father of the giant pantheon; his temple houses the Oracle.
+    *   **Wiki Status:** Exists as [[annam-the-oracle-and-annam-the-all-father-of-giants]].
+*   **The Oracle**
+    *   **Type:** Divine Artifact/Location.
+    *   **Role:** A mechanism that provides true answers to six questions daily, powered by lantern light and giant statues.
+    *   **Wiki Status:** Related to [[annam-the-oracle-and-annam-the-all-father-of-giants]] and the concept of [[divine-oracle]].
 
-### Main Arguments & Findings
-- **Core Claim**: The Ghost of Annam's Oracle, a haunting spirit bound to the oracle chamber, seeks vengeance against his father, Blagothkus, who killed him.
-- **Evidence**: The ghost recounts his death, explains the oracle's rules, and tasks the party with finding and killing Blagothkus.
-- **Strength of Evidence**: The ghost's narrative provides clear details about his past and the oracle's mechanics, which are corroborated by the party's subsequent interactions.
+## Key Concepts
 
-### Connections to Existing Wiki
-- **[[ghost-cloud-giant]]**: This entry directly relates to the Ghost of Annam's Oracle, providing essential details about his identity, motivations, and current status.
-- **[[oracle-of-annam]]**: The ghost's interaction with the oracle aligns with the existing page on Annam's oracle, expanding its scope to include the ghost's role.
-- **[[blagothkus]]**: The ghost's father, Blagothkus, is linked to the existing page on him, enriching the narrative around his character.
+*   **Vengeance as Quest Motivation:** The Ghost's primary drive is not personal growth but a specific act of retribution against his father.
+*   **Oracle Mechanics (Lantern/Statue System):** A specific gameplay mechanic where "truth" is traded for "light." This establishes the Oracle as a transactional, limited-use tool.
+*   **Prophetic Conflict:** The idea that the Oracle's declaration ("you can never earn the gods' favor") was the direct trigger for Blagothkus’s violent outburst.
+*   **Spatial Uncertainty (Parnast):** The Ghost's admission that Parnast might not be a "real" location introduces a layer of metaphysical doubt or potential illusion into the quest.
 
-### Contradictions & Tensions
-- **Internal Tension**: The ghost's apparent calm demeanor contrasts with his desire for vengeance, raising questions about his mental state and the extent of his influence over the oracle.
+## Main Arguments & Findings
 
-### Recommendations
-- **Create or Update Pages**:
-  - **[[ghost-cloud-giant]]**: Ensure the page includes additional details about the ghost's background, such as his relationship with Blagothkus and the oracle's history.
-  - **[[oracle-of-annam]]**: Expand the page to incorporate the ghost's role and interactions with the oracle.
-  - **[[blagothkus]]**: Include more information about his character and motivations, possibly linking him to the ghost's backstory.
-- **Emphasize**:
-  - The ghost's unique position as both a haunting spirit and a conduit for the oracle's prophecies.
-  - The complexity of the ghost's relationship with Blagothkus and the oracle.
-- **Open Questions**:
-  - What is the nature of the ghost's binding to the oracle chamber?
-  - Is killing Blagot
+*   **The Tragedy of Blagothkus:** The source establishes a tragic cycle where divine rejection led to patricide/fratricide, leaving the son as a lingering spirit of resentment.
+*   **Information Exchange:** The Ghost is not a "neutral" entity; he provides mechanical information (how to use the Oracle) specifically to manipulate the party into fulfilling his personal vendetta.
+*   **Ambiguous Resolution:** It is currently unknown if killing Blagothkus serves as a "release" for the ghost or merely ends his quest, highlighting a lack of clarity regarding the mechanics of his binding.
+
+## Connections to Existing Wiki
+
+*   **Strengthens [[blagothkus]]:** Provides the backstory for his fall and his relationship with his son.
+*   **Extends [[annam-the-oracle-and-annam-the-all-father-of-giants]]:** Defines the physical interaction (lanterns/statues) and the "truth" constraint of the oracle.
+*   **Relates to [[divine-silence]] & [[divine-oracle]]:** The Oracle's limited questions reflect these concepts.
+*   **Relates to [[quest-as-emotional-trap]]:** The Ghost’s quest is a classic example of an emotional lure wrapped in a mechanical reward (information).
+
+## Contradictions & Tensions
+
+*   **The Reality of Parnast:** The Ghost's uncertainty about whethe

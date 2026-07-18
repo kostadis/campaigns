@@ -1,0 +1,233 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 10th day of the 1st Tenday of Myrtul 1493 DR.",
+    "source_quote": "Session 19\n## 10th day of the 1st Tenday of Myrtul 1493",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "The Faerzress blinked a few months ago.",
+    "source_quote": "A few months ago. Why? And this is unimportant.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
+    "source_quote": "four chasme and two vrock",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "Sloobludop is approximately eight days away via the Darklake.",
+    "source_quote": "the town of Sloopdopblop is just eight days away",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
+    "source_quote": "Drow outpost was 100' in the sky",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Blingdenstone route",
+    "fact": "Blingdenstone is the exit point for the party, accessible via multiple routes from the Underdark.",
+    "source_quote": "The city of Blingdenstone is your exit. There are many routes to the Overbrite from there.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "obsidian ring value",
+    "fact": "An obsidian ring of some value is on Pelek\u2019s hand, which may be recovered.",
+    "source_quote": "There is a family ring on it, an obsidian ring of some value. You can keep it if you find the hand.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "pygmywort effect",
+    "fact": "Pygmywort shrinks the consumer like a reduce spell, with a one-inch stem and stubby blue cap with white dots.",
+    "source_quote": "Pygmywort is the mushroom with a one-inch-long stem and a stubby blue cap with white dots, and Bigwig is the four-inch-tall mushroom with a thin stem and a wide purple cap. The first one shrinks you, like the effect of a reduce spell...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "bigwig effect",
+    "fact": "Bigwig enlarges the consumer like an enlarge spell, with a four-inch stem and wide purple cap.",
+    "source_quote": "Pygmywort is the mushroom with a one-inch-long stem and a stubby blue cap with white dots, and Bigwig is the four-inch-tall mushroom with a thin stem and a wide purple cap. ... the latter grows you, like the effect of an enlarge spell.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "torchstalk property",
+    "fact": "Torchstalk has a combustible cap and can burn for 24 hours when lit.",
+    "source_quote": "Why, that\u2019s a torchstalk. It has a combustible cap and can burn for 24 hours when lit.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "devil\u2019s mushroom effect",
+    "fact": "Timmask (devil\u2019s mushroom) causes madness if uprooted, with orange and red stripes on a beige cap.",
+    "source_quote": "Watch out,\" he shouts to Thorin. The dwarf was close to a two-foot-tall toadstool with orange and red stripes across its beige cap known as \u201cthe devil\u2019s mushroom,\u201d or a timmask. Uprooting the mushroom can cause madness.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "nightlight property",
+    "fact": "Nightlight mushrooms glow in a 15x15-foot radius and cease glowing when touched or cut, growing up to 15 feet tall.",
+    "source_quote": "It is so unlike the ormu... Nightlights\u2014mushrooms that grow to 15 feet and shed light in a 15-foot-by-15-foot circle. When they are touched or cut, they stop glowing.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "underdark fungal thicket",
+    "fact": "A dense fungal thicket blocks the tunnel juncture east of the lake, emitting a hissing whisper from wind through perforated mushrooms.",
+    "source_quote": "Blocking the tunnel juncture is a dense fungi forest... a hissing sound begins to rise. It sounds like uncounted tiny voices whispering in tongues he doesn't understand.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Faerzress anomaly",
+    "fact": "The Faerzress glowed brightly, then went dark and returned brighter than before, altering Buppido\u2019s temperament and possibly enabling planar breaches.",
+    "source_quote": "I did notice that the Faerzress glowed brightly, and after that, Buppido\u2019s temperament changed. He became convinced he was some kind of divine figure... It was almost as if it was being sucked out, and went dark and then came back brighter than before.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "thermal lake",
+    "fact": "A vast, black, heated pool fills the cavern, stretching nearly 100 feet to the opposite shore, frozen by Daz\u2019s spell.",
+    "source_quote": "This is no mere puddle but a large pool filling the cavern ahead, stretching nearly one hundred feet to the opposite shore. The most striking feature of this pool is its unnervingly black water... the water is surprisingly heated by a thermal spring...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "centipede swarm",
+    "fact": "Swarms of centipedes emerged in the fungal thicket, resisting both 'Toll the Dead' and 'Tasha's Caustic Brew' spells.",
+    "source_quote": "swarms of them. ... Daz watches as the centipedes emerge... his attempt has failed completely. ... the centipedes somehow manage to avoid the brunt of the spell.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "barrelstalk property",
+    "fact": "Barrelstalk is a large, cask-shaped fungus that stores water.",
+    "source_quote": "He picks up some barrelstalk, a large, cask-shaped fungus that stores water...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "bluecap property",
+    "fact": "Bluecap can be used to make flour.",
+    "source_quote": "He picks up some barrelstalk... bluecap for making flour...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "ripplebark property",
+    "fact": "Ripplebark tastes good when toasted.",
+    "source_quote": "He picks up some barrelstalk... ripplebark that tastes good toasted...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "trillimac property",
+    "fact": "Trillimac can be used for scrolls and makes a bread-like substance that can be rolled up.",
+    "source_quote": "He picks up some barrelstalk... trillimac that can be used for scrolls and makes a bread-like substance that can be rolled up...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "waterorb property",
+    "fact": "Waterorb stores water.",
+    "source_quote": "He picks up some barrelstalk... waterorb for storing water...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "zurkwhood property",
+    "fact": "Zurkwhood can be used for making things.",
+    "source_quote": "He picks up some barrelstalk... zurkwhood for making things.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "crack in wall with mushroom trail",
+    "fact": "A crack in the wall, flanked by Pygmywort and Bigwig mushrooms, leads to a tiny tunnel only accessible by ghostly perception.",
+    "source_quote": "A well-trodden path ends at a crack in the wall, with mushrooms to either side of the crack... Oh, look at that Pygmywort and Bigwig.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Droki\u2019s trail",
+    "fact": "Droki\u2019s trail leads from the cave entrance through the fungal thicket and across the frozen lake, marked by consistent footprints and mushroom consumption.",
+    "source_quote": "To the north is another cave and the obvious trail of Droki... Droki\u2019s obvious trail... Droki\u2019s trail is on the other side of the lake.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "ghostly possession avoidance",
+    "fact": "Pelek refuses to possess the party, citing awkwardness and personal preference.",
+    "source_quote": "Look, I don\u2019t want to possess you. It\u2019s awkward. And frankly, I like you.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "number eight avoidance",
+    "fact": "To avoid suspicion in Blingdenstone, the party must avoid anything associated with the number eight or references to spiders and Lolth.",
+    "source_quote": "make sure to deny any association to Lolth, or Menzoberranzan, and make any references to the number eight or spiders.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "whorlstone tunnels",
+    "fact": "The derro used hidden tunnels through the whorlstone, mentioned by Buppido as part of their smuggling network.",
+    "source_quote": "Buppido mentioned that there were tunnels that the derro used to go through the whorlstone tunnels.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "planar breach hypothesis",
+    "fact": "Daz hypothesizes that the Faerzress blink may have broken the walls between the planes, allowing Abyssal entities to enter.",
+    "source_quote": "Then if it blinked, could it have - I dunno - broken the walls between the planes?",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "centipede resistance",
+    "fact": "The centipedes are unusually resistant to necrotic and acid damage, suggesting magical or divine protection.",
+    "source_quote": "the centipedes somehow manage to avoid the brunt of the spell... Were these bugs unusually lucky, under the protection of some bug god...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "cave with pool of water",
+    "fact": "To the northeast of the cave entrance is a cave with a pool of water, unexplored by the party.",
+    "source_quote": "To the northeast is a cave with a pool of water.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "ghostly time perception",
+    "fact": "Pelek cannot accurately track time due to his ghostly state and confinement within 30 feet of his bones.",
+    "source_quote": "I don\u2019t know... Less than a year? Telling time in this cavern is hard. And being unable to move more than 30 feet from your bones makes it harder. And as a ghost, the usual time markers don\u2019t apply.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "overbrite access route",
+    "fact": "Blingdenstone provides access to the Overbrite, a location the party must reach to continue their journey.",
+    "source_quote": "The city of Blingdenstone is your exit. There are many routes to the Overbrite from there.",
+    "quote_verified": true
+  }
+]

@@ -1,26 +1,53 @@
 ---
 type: source
-title: Corbin
-created: 2025-05-22
-updated: 2026-05-27
-tags: [biography, casualty, npc, source, interventionism]
-related: ["sister-kaella", "vukradin", "valphine", "soma", "adabra-gwynn", "the-carver", "black-lion-uthgardt"]
+title: "Source: npcs/corbin.md"
+created: 2026-06-06
+updated: 2026-06-06
 sources: ["npcs/corbin.md"]
-authors: []
-year: 2025
-url: ""
-venue: ""
+tags: []
+related: []
 ---
-# Corbin
 
-Detailed intelligence regarding the life, motivations, and death of Corbin, a former subsistence farmer turned bandit and party errand-hand. His death serves as a significant political and moral catalyst within the [[emerald-enclave]], and functions as the emotional core of the campaign’s reckoning with [[interventionism]].
+# Source: npcs/corbin.md
 
-This source documents Corbin’s arc — from farmer to bandit to tentative redeemer — presented through fragmented recollections, behavioral cues, and witness testimony rather than exposition, exemplifying [[narrative-economy]]. His humanity emerges not through grand backstory, but through restraint, vulnerability, and quiet moral effort.
+## Key Entities
+- **Corbin** (Person)
+    - **Role:** Central to this specific entry; a tragic "tragic" NPC. He serves as a narrative foil for the debate on interventionism and the consequences of leadership.
+    - **Status:** Exists in source; likely needs a new wiki page or update to existing notes regarding his role as a "cautionary tale."
+- **Sister Kaella** (Person)
+    - **Role:** Central antagonist/assassin. She is the direct cause of Corbin's death and represents the danger of "unmanaged" risks.
+    - **Status:** Exists in wiki; this source reinforces her lethality and role as an assassin.
+- **Vukradin** (Person)
+    - **Role:** Central leader/commander. His decisions regarding Corbin (allowing him to stay, authorizing a hit point of violence) are central to the moral weight of the narrative.
+    - **Status:** Exists in wiki.
+- **Soma** (Person)
+    - **Role:** Central party member. She serves as the emotional core for Corbin's backstory, witnessing his transition from farmer to bandit.
+    - **Status:** Exists in wiki.
+- **Adabra** (Person)
+    - **Role:** Central ideological figure. She uses Corbin’s death as a political tool in her debate against interventionism.
+    - **Status:** Exists in wiki.
+- **Carver's Gang** (Organization/Group)
+    - **Role:** Peripheral; represents the "life" Corbin left behind and the consequences of his past.
+    - **Status:** Related to existing notes on banditry/gangs.
+- **Black Lion Uthgardt** (Group/Faction)
+    - **Role:** Peripheral; the historical force that destroyed Corbin's original life.
+    - **Status:** New detail regarding specific Uthgardt factions.
 
-Key events include:
-- His recruitment by Vukradin after presenting himself in scavenged armor
-- His confession to Soma regarding the destruction of his family by the Black Lion Uthgardt
-- His resistance to confronting Carver’s gang in Conyberry
-- His assignment to guard Sister Kaella, resulting in his death
+## Key Concepts
+- **Farmer turned Bandit**: A character archetype used to illustrate how desperation and tragedy can strip away identity.
+- **Interventionism vs. Non-interventionism**: The core philosophical conflict of the campaign; Corbin’s death is a "data point" in this debate.
+- **The "Small" Seeking Power**: A psychological observation by Valphine regarding Corbin's volatile nature when faced with authority/power.
+- **Sacrificial Lamb / Narrative Foil**: Corbin functions as a character whose primary purpose is to highlight the moral failures or complexities of the protagonists' choices.
 
-Corbin’s death is not incidental, but structurally intentional — a direct consequence of the party’s prioritization of grand objectives over individual lives. He is cited as the pivotal case study in Adabra Gwynn’s campaign against interventionist druidry, and his fate is referenced in multiple concept pages, including [[weaponization-of-personal-debt]], [[sacrificial-decoy-tactics]], and [[moral-ambiguity-of-inaction-undead]]. His story interrogates whether interventionism saves or destroys, embedding personal tragedy within systemic critique.
+## Main Arguments & Findings
+- **The Cost of Leadership:** The source highlights that even "minor" decisions (like leaving an aide with a prisoner) have grave consequences, illustrating the weight of command for Vukradin and the party.
+- **Weaponized Tragedy:** Adabra’s use of Corbin's death as political capital shows how personal tragedies are often co-opted by larger ideological movements.
+- **The Complexity of Redemption:** Corbin is not a simple "good" or "bad" character; he is a victim of circumstance who chose survival, making his death more poignant than if he were a pure hero.
+
+## Connections to Existing Wiki
+- **Sister Kaella**: Strengthens her role as a dangerous threat that the party failed to contain properly.
+- **Adabra & Soma**: Highlights the
+
+## Related
+
+- [[4-npcs--11-king_korboz--5ux01o]]

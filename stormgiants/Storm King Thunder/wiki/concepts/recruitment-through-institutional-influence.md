@@ -4,7 +4,7 @@ title: Recruitment-through-institutional-influence
 created: 2026-06-15
 updated: 2026-06-15
 tags: [recruitment, power, authority, civic-control, manipulation]
-related: [jenna-roscoe, vukradin, brewbarry, lord-s-alliance, cover-identity-as-administrator, recruitment-through-integrity]
+related: ["jenna-roscoe", "vukradin", "brewbarry", "lords-alliance", "cover-identity-as-administrator", "recruitment-through-integrity"]
 sources: ["npcs/jenna.md"]
 ---
 # Recruitment-through-Institutional-Influence

@@ -1,0 +1,338 @@
+[
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith was trained by Lolth's guards and considers himself an expert.",
+    "source_quote": "The Lolth\u2019s guards trained me. I am an expert",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sarith recommends Daz for interrogation",
+    "fact": "Sarith recommends that Daz be given the first crack at extracting information.",
+    "source_quote": "I recommend that he be given the first crack at extracting information.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum suspects religious conflict between Duergar and Dwarven gods is not the real cause of hostility.",
+    "source_quote": "he thinks there might be some rivalry between the Duergar gods and the Dwarven gods",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum concludes conflict is political",
+    "fact": "Grygum concludes that the conflict is the will of the people, not the gods.",
+    "source_quote": "This is not the will of any god. This is the will of the people",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh is the Duergar metropolis in this part of the Underdark.",
+    "source_quote": "the metropolis of the Duergar in this part of the Underdark",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Darklake district",
+    "fact": "Non-Duergars are only permitted to move freely in the Darklake district of Gracklstugh.",
+    "source_quote": "Non-Duergars are only permitted to move freely in the Darklake district",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Duergar",
+    "fact": "Duergar can become invisible at will.",
+    "source_quote": "The Duergar can become invisible at will",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh is a city of slavers.",
+    "source_quote": "it\u2019s a city of slavers",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "The buildings in Gracklstugh are plain and functional, lacking art and opulence.",
+    "source_quote": "the buildings are plain and functional... the walls of the Duergar homes are plain",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh has the ambiance of a work camp, filled with the sounds of hammering, heat, and smelter light.",
+    "source_quote": "the sound of hammers warping metals, the stench and heat, and the light of the smelters make all of Gracklstugh appear as one large work camp",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "The acrid smoke in Gracklstugh burns through Daz\u2019s sense of smell.",
+    "source_quote": "the acrid smoke makes breathing hard and burns through his sense of smell",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum asks purpose of visit",
+    "fact": "Grygum asks what they are doing in Gracklstugh.",
+    "source_quote": "So what are we doing here?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Jimjar suggests buying equipment",
+    "fact": "Jimjar whispers that they should buy equipment to survive more easily and get information on leaving the Underdark.",
+    "source_quote": "Buy equipment so we can survive more easily. Get information on how to get out of the Underdark.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sethir mentions Lost Tomb of Khem",
+    "fact": "Sethir mutters that they plan to go to the Lost Tomb of Khem to find treasure.",
+    "source_quote": "We plan to get equipment and then go to the Lost Tomb of Khem, where we will find treasure!",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Blade Bazaar",
+    "fact": "The Blade Bazaar is named after the most abundant goods the Duergar offer.",
+    "source_quote": "This marketplace is named after the most abundant goods the duergar offer",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Blade Bazaar",
+    "fact": "The Blade Bazaar sells almost everything available in Gracklstugh, including goods from visiting merchants.",
+    "source_quote": "the shops here sell almost everything available in the city, along with stalls set up by visiting merchants",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Blade Bazaar",
+    "fact": "The Blade Bazaar has a din of people arguing mainly in Dwarvish that nearly drowns out the forges.",
+    "source_quote": "The din of people arguing, mainly in Dwarvish, nearly drowns out the hammering coming from the city\u2019s forges",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Blade Bazaar",
+    "fact": "The crowds at the Blade Bazaar offer a good chance to slip away from pursuers.",
+    "source_quote": "the crowds here offer a good chance to slip away from pursuers",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz decides to go to Blade Bazaar",
+    "fact": "Daz says out loud, 'To the Blade Bazaar.'",
+    "source_quote": "To the Blade Bazaar,' he says out loud.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin remembers castaways before reaching the docks.",
+    "source_quote": "Thorin remembers some castaways.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Brannum Redmarch",
+    "fact": "Brannum Redmarch pleads not to be turned in to the Duergar guards.",
+    "source_quote": "You wouldn\u2019t turn me into the guard?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is disappointed that magical goods cannot be purchased in the Darklake District.",
+    "source_quote": "Zalthir has been thinking about some magical items he wants and was disappointed when Hemeth said that magical goods could be purchased in Gracklstugh but not in the Darklake District.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir asks about Eldritch Claw Tattoo",
+    "fact": "Zalthir asks if either Hemeth or Brannam can get him an Eldritch Claw Tattoo.",
+    "source_quote": "Can either of you get me Eldritch Claw Tattoo?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Hemeth",
+    "fact": "Hemeth says he cannot get the Eldritch Claw Tattoo.",
+    "source_quote": "No.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Brannum Redmarch",
+    "fact": "Brannum Redmarch says he can get the Eldritch Claw Tattoo but it will take a few days.",
+    "source_quote": "Yes! I know a guy. But it will take a few days.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Brannum demands slate wiped clean",
+    "fact": "Brannum Redmarch says the slate is wiped clean after getting the item.",
+    "source_quote": "And then the slate is wiped clean?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin threatens Brannum",
+    "fact": "Thorin tells Brannum there will be consequences if he betrays them.",
+    "source_quote": "if we don\u2019t get what we want, and you betray us, there will be consequences.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Brannum Redmarch",
+    "fact": "Brannum Redmarch shrinks in response to Thorin\u2019s threat.",
+    "source_quote": "Brannam shrinks",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido pleads to be let go, claiming his actions were part of the divine plan.",
+    "source_quote": "Look, I made mistakes. It was the divine plan. Just let me go. I won\u2019t bother you again.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Spiderbait",
+    "fact": "Spiderbait wants to kill Buppido on the spot.",
+    "source_quote": "Spiderbait, still seething with rage, wants to kill him on the spot",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin considers killing Buppido",
+    "fact": "Thorin is tempted to kill Buppido but waits to hear others\u2019 opinions.",
+    "source_quote": "Thorin is tempted, he wants to see what everyone else has to say.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir thinks Buppido may betray them.",
+    "source_quote": "Perhaps he will betray us.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin draws sword on Buppido",
+    "fact": "Thorin pulls his sword and asks, 'So we kill him?'",
+    "source_quote": "So we kill him?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum intervenes and says they shouldn\u2019t worry about Buppido because there are worse threats.",
+    "source_quote": "There are so many people who will kill us that I am not so sure we should worry about him.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz proposes releasing Buppido",
+    "fact": "Daz votes to get as close to a guarantee as possible and then let Buppido loose in the city as they leave.",
+    "source_quote": "I vote that we get as close to a guarantee as we can and then, as we leave, let him loose in the city.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido pleads again, saying he was mad and learned from Shuushar.",
+    "source_quote": "I made mistakes. I was mad. The divine plan called me, and I realized it was a mistake. I have learned from Shuushar that I was mad. PLEASE!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir gives Buppido Tongue of Madness",
+    "fact": "Zalthir hands Buppido the Tongue of Madness and tells him to eat it.",
+    "source_quote": "Zalthir hands him a mushroom, The Tongue of Madness, and says, 'Eat.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Buppido eats Tongue of Madness",
+    "fact": "Buppido eats the Tongue of Madness and starts talking.",
+    "source_quote": "And Buppido does and starts talking.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Buppido reveals desire to return to bolt hole",
+    "fact": "Buppido says he just wanted to return to his bolt hole in the caverns near the city to praise the Divine Plan.",
+    "source_quote": "I just wanted to return to my bolt hole in the caverns near the city and praise the Divine Plan.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Buppido insults companions",
+    "fact": "Buppido says Daz has foul-smelling breath, Thorin thinks his muscles are impressive, and Eldeth is not interested in Thorin.",
+    "source_quote": "You all have been so annoying. Daz has foul-smelling breath. Thorin thinks his muscles are impressive. Eldeth is -not- interested in him.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum reveals Zalthir\u2019s unclean scales",
+    "fact": "Grygum says Zalthir\u2019s scales haven\u2019t been cleaned in ages.",
+    "source_quote": "Zalthir\u2019s scales haven\u2019t been cleaned in ages.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum complains about Jimjar\u2019s breathing",
+    "fact": "Grygum tells Jimjar to stop his annoying breathing.",
+    "source_quote": "Jimjar\u2019s bEttin g is so annoying! GIVE IT A REST.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir says he likes Grygum.",
+    "source_quote": "I like him.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin assigns Jimjar surveillance",
+    "fact": "Thorin tells everyone to keep an eye on Jimjar.",
+    "source_quote": "You all need to keep an eye on him.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar smiles and asks if Thorin wants to bet.",
+    "source_quote": "Wanna bet?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir wonders if Buppido can summon Demogorgon like the Kuo-toa.",
+    "source_quote": "So - wait, I mean, can he summon Demogorgon like the Kuo-toans?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Jimjar laughs at Zalthir\u2019s question",
+    "fact": "Jimjar roars with laughter at Zalthir\u2019s question.",
+    "source_quote": "Jimjar roars with laughter.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir thinks Jimjar is judging him.",
+    "source_quote": "Zalthir can\u2019t help but think Jimjar is judging him.",
+    "quote_verified": true
+  }
+]

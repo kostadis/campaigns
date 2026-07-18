@@ -1,0 +1,135 @@
+[
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin has come to accept that survival in the Underdark requires doing what others won't, and he now understands the Zhentarim\u2019s pragmatism better than he would have liked.",
+    "source_quote": "The Zhentarim have survived by being willing to do what others won't. I understood that better now than I would have liked.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is weighing feat options with surgical attention, prioritizing survivability, sustained casting, and escape utility, and has narrowed his choice to Fey Touched as the most aligned with his access to the Ebonmire spellbook.",
+    "source_quote": "Fey Touched was a key, and the Ebonmire spellbook was a door I hadn't fully opened yet.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz has considered Telekinetic not as an offensive feat but as a geometry tool for positioning allies, recognizing that moving Zalthir five feet can be more strategically valuable than direct damage.",
+    "source_quote": "I was beginning to build a picture of Telekinetic not as an offensive tool but as a geometry tool.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz perceives his spell selection, concentration durability, and movement utilities as an interlocking system \u2014 a coherent Evoker toolkit shaped by the principle of 'the long arrangement' \u2014 where preparation and positioning define the battle.",
+    "source_quote": "These were not independent features. They were a system. The Evoker's toolkit is not a collection of separate spells; it is an interlocking argument about where enemies should be, where allies should be, and which parts of a room I am willing to set on fire.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz acknowledges that sculpting area effects with Sculpt Spells, combined with Warcaster and Misty Step, creates a synergistic framework for battlefield control, informed by Milo Goodbarrel\u2019s 'long arrangement' and his own experience with Ebonmire\u2019s spellbook.",
+    "source_quote": "Sculpt Spells lets me carve exclusions into area effects... These were not independent features. They were a system.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is methodically evaluating feats, preferring silence over exposition, and accepts that feat selection requires time and deep consideration, as indicated by his quiet acknowledgment of the complexity.",
+    "source_quote": "Yeah, this'll take some time.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir has been offered the Street Justice feat, which formalizes his grappling style with binding mechanics, transforming his primary weapon \u2014 his hands \u2014 into a system for control and sustained engagement.",
+    "source_quote": "The monk whose hands were already his primary weapon, now with a formal mechanism for making staying as interesting as hitting.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Zhentarim",
+    "fact": "The Zhentarim have endured through pragmatic, ruthless adaptability, willing to perform actions others refuse, a philosophy Daz now internalizes as essential for survival in the Underdark.",
+    "source_quote": "The Zhentarim have survived by being willing to do what others won't.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Menzoberranzan",
+    "fact": "Menzoberranzan trains its spellcasters to read the moment before action with surgical precision, instilling the habit of assessing all possibilities before committing \u2014 a discipline Daz still reveres and applies.",
+    "source_quote": "Menzoberranzan trained me to read that moment with surgical attention. Know what you hold before you commit to playing it.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "feat selection",
+    "fact": "Daz is undergoing a deliberate, systemic evaluation of feats \u2014 Warcaster, Fey Touched, Telekinetic, Misty Step \u2014 not as isolated options but as components of an evolving combat philosophy centered on control, positioning, and spell synergy.",
+    "source_quote": "These were not independent features. They were a system.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Underdark",
+    "fact": "The Underdark has repeatedly taught Daz that battles are decided by positioning and control, reinforcing his belief that terrain, movement, and spell geometry are more decisive than raw power.",
+    "source_quote": "The Underdark had taught me repeatedly that battles are often decided by who is standing where.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Ebonmire's spellbook",
+    "fact": "The spellbook taken from Princess Ebonmire serves as a promissory note of potential, a source of prepared spells that Daz sees as the true resource for a wizard \u2014 not spell slots, but selection.",
+    "source_quote": "The spellbook we'd taken from Princess Ebonmire had been sitting in my pack like a promissory note I hadn't finished reading.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Street Justice feat",
+    "fact": "The Street Justice feat allows Zalthir to bind enemies he has already grappled, transforming his natural grappling style into a formalized control mechanic that extends the duration and impact of his combat presence.",
+    "source_quote": "The one that let him use rope to bind enemies he'd already grappled.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Warcaster feat",
+    "fact": "Warcaster grants improved concentration checks, allowing Daz to maintain spells like Hypnotic Pattern and Maximilian's Grasp even when hit \u2014 a non-decorative necessity for sustained battlefield control.",
+    "source_quote": "The ability to hold that concentration when something lands a hit is not decorative. It is the difference between the spell persisting and the spell dissolving at precisely the wrong moment.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Fey Touched feat",
+    "fact": "Fey Touched grants two additional prepared spells and free castings, making it a key enabler for Daz to expand his spell selection from the Ebonmire spellbook, prioritizing versatility over raw power.",
+    "source_quote": "Fey Touched gives me two additional spells to prepare. Plus free castings.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Telekinetic feat",
+    "fact": "Telekinetic allows Daz to move allies and enemies five feet, functioning as a tactical geometry tool \u2014 enabling repositioning that can turn the tide of combat by optimizing ally positioning over direct damage.",
+    "source_quote": "I can aim this at allies and do things like get them out of a grapple. Move them five feet.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the long arrangement",
+    "fact": "The concept of 'the long arrangement' \u2014 that preparation, positioning, and spell synergy constitute the true battle \u2014 is an evolving theory Daz is refining, blending Milo Goodbarrel\u2019s terrain lessons with his own Evoker philosophy.",
+    "source_quote": "Milo Goodbarrel had a chapter about this. He called it 'the long arrangement'... I always thought he was selling short the part about spell selection.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "free casting utility",
+    "fact": "The strategic value of free castings \u2014 particularly Misty Step \u2014 is emerging as a core principle for Daz, who sees them as resources that cost nothing in the moment they matter most.",
+    "source_quote": "A slot is a resource. A free casting is a resource that costs nothing in the moment you need it most, which is usually the moment you can least afford to spend anything.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "This feat selection process occurs during the Level Eight Milestone session, a critical juncture in character development for Daz and Zalthir.",
+    "source_quote": "## Daz \u2014 Choosing Feats and Abilities",
+    "quote_verified": true
+  }
+]

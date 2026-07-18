@@ -37,3 +37,7 @@ related: []
 - **Pages to Create or Update**: "Lord Artan," "Kraken Society," "Oosith," "Young Lords of Yartar," "Kidnapping Operations."
 - **Emphasis**: Highlight the kidnapping operation and its perpetrators. Emphasize the danger faced by young lords of Yartar.
 - **Open Questions**: Investigate the current status of Lord Artan and confirm if he is indeed alive and held by the Kraken Society. Verify if the wiki already includes comprehensive information about the kidnapping operations and their victims.
+
+## Related
+
+- [[lord_zymorven]]

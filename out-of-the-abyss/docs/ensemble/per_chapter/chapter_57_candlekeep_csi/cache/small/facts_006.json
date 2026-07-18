@@ -1,0 +1,156 @@
+[
+  {
+    "type": "npc",
+    "subject": "Queenie",
+    "fact": "Queenie is a five-year-old, sleet-grey housecat who resides in the tower and observes all movements with detached precision. She was napping in Janussi's armchair when awakened by Sylvira Savikas, later watched Daral carry away a book, and observed a figure impersonating Sylvira without her scent. She refuses to answer questions without tickles and has no interest in human politics or secrets.",
+    "source_quote": "I did not order any more ticklers! Any good ticklers are the only good\u2026 and good ticklers are\u2026 tickles are only the good reason for disturbing my beauty sleep.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sylvira Savikas",
+    "fact": "Sylvira Savikas is a tiefling with an on-again, off-again romantic relationship with Janussi. She attacked him with a lance of force during a lover's quarrel, and later appeared as a disguised figure wearing her shape but lacking her scent, suggesting impersonation or shapeshifting.",
+    "source_quote": "blasting the armchamber with a lance of unerring force light.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi was a man who carried a locket at all times, held one of two keys to the Hightower Library, and was killed after a confrontation with Sylvira Savikas. He was last seen alive when Daral exited with a book.",
+    "source_quote": "He carried it all the time. He never took it off.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daral",
+    "fact": "Daral is a man with a distinctive odor who carried away a book \u2014 later identified as *The Golden Ass* \u2014 from the scene. He activated a 'hypnotic block' (a book) that rendered him motionless and uninterested in scratching the cat, and exited the tower while Janussi was still alive.",
+    "source_quote": "when I later saw him run downstairs with a hypnotic block.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Fheminor",
+    "fact": "Fheminor is a short-legged individual who arrived at the tower in the evening, observed by Queenie as one of the first guests. No further details about their role in the events were provided.",
+    "source_quote": "the short-legged one",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan",
+    "fact": "Kalan is the gate warden who holds the second key to the Hightower Library, the other being held by Janussi. His possession of the key suggests potential access to restricted materials and involvement in the theft or deletion of the book's contents.",
+    "source_quote": "the other key, I learned, rested with Kalan, the gate warden.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Hightower Library",
+    "fact": "The Hightower Library is a restricted repository containing volumes that may not be touched without authorization. A book \u2014 *The Golden Ass* \u2014 was removed from it, and its contents were deleted, suggesting a deliberate act of sabotage or concealment tied to the keys held by Janussi and Kalan.",
+    "source_quote": "that stuff got deleted off that book that no one should have touched.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "The Golden Ass",
+    "fact": "*The Golden Ass* is a book that acts as a 'hypnotic block' \u2014 when opened, it renders a person motionless and uninterested in external stimuli. It was removed from the Hightower Library by Daral and is linked to the deletion of its contents.",
+    "source_quote": "Every time they open that block, they just sit there and don't tickle!",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Locket",
+    "fact": "The locket was a personal item carried constantly by Janussi, never removed. Its nature is unknown to Queenie, but its absence after his death suggests it may have been taken as a trophy, concealed, or held as evidence.",
+    "source_quote": "The locket itself is intimate. He carried it all the time. He never took it off.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Keys to the Hightower Library",
+    "fact": "Two keys grant access to the Hightower Library: one held by Janussi, the other by Kalan. Their possession implies authority over restricted materials and possible involvement in the theft or deletion of *The Golden Ass*.",
+    "source_quote": "Janussi held one of the two keys to the Hightower Library.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Impersonator (Sylvira mimic)",
+    "fact": "A figure wearing Sylvira Savikas's appearance but lacking her scent appeared in the tower after her initial attack. This indicates either shapeshifting, illusion, or a disguise worn by another individual \u2014 likely the true perpetrator.",
+    "source_quote": "But she didn't smell like the demon lady, though.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Lover's Quarrel with Force",
+    "fact": "Sylvira Savikas attacked Janussi with a lance of force during a romantic dispute, waking Queenie from her nap. This event initiated the chain of disturbances leading to Janussi\u2019s death.",
+    "source_quote": "blasting the armchamber with a lance of unerring force light.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Book Removal and Deletion",
+    "fact": "Daral removed *The Golden Ass* from the Hightower Library and activated it, causing its contents to be deleted. The book's removal coincided with Janussi\u2019s final moments and suggests a deliberate attempt to erase evidence.",
+    "source_quote": "that stuff got deleted off that book that no one should have touched.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daral\u2019s Exit",
+    "fact": "Daral exited the tower while Janussi was still alive, carrying *The Golden Ass*. This establishes a clear timeline: Janussi was murdered after Daral left.",
+    "source_quote": "the victim was still alive when Daral left",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Shapeshifter Identity",
+    "fact": "The figure impersonating Sylvira Savikas without her scent suggests a shapeshifter is active in the tower. Their identity, motive, and connection to Daral or the book's deletion remain unknown.",
+    "source_quote": "But she didn't smell like the demon lady, though.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Locket\u2019s Purpose",
+    "fact": "The locket carried by Janussi was never identified. Its absence after his death raises questions: Was it stolen? Does it contain a key, message, or magical component tied to the library or book?",
+    "source_quote": "I don't know what it was.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Candle Reference",
+    "fact": "Zalthir linked the candle to the shapeshifter situation, implying the candle may have been used in the disguise ritual or as a magical trigger. Its nature and origin are unexplained.",
+    "source_quote": "That explains the candle.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Tower Chamber",
+    "fact": "The tower chamber is the central location of the investigation. Queenie observed all key events here: the force attack, the book's removal, the impersonator\u2019s appearance, and Daral\u2019s exit. It is a space of surveillance and quiet dominance by the cat.",
+    "source_quote": "she was napping in Janussi's armchair",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Hightower Library",
+    "fact": "The Hightower Library is a restricted archive containing forbidden or volatile texts. *The Golden Ass* was stolen from here, and its deletion suggests the library\u2019s protections were bypassed or corrupted.",
+    "source_quote": "that book that no one should have touched",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Time of Attack",
+    "fact": "Sylvira attacked Janussi approximately thirty minutes before Queenie\u2019s afternoon nap, placing the event in the morning.",
+    "source_quote": "some thirty minutes later by our Sylvira Savikas, this is in the morning",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Time of Daral\u2019s Exit",
+    "fact": "Daral exited the tower after supper, around eight in the evening, while Janussi was still alive.",
+    "source_quote": "She woke from her afternoon nap around eight, after supper",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Cat\u2019s Final Insult",
+    "fact": "Queenie\u2019s final assessment \u2014 that two-leggers rarely lick themselves \u2014 is a cryptic, culturally loaded judgment. It may hint at a deeper truth about hygiene, magic, or ritual practices among the suspects.",
+    "source_quote": "It's clear that you hardly ever lick yourselves at all.",
+    "quote_verified": true
+  }
+]

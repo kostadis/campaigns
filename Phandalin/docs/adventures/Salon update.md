@@ -7,7 +7,7 @@ The adventure occurs in the **Protector’s Enclave**, the only stable district 
 
 **Part 1: The Road to Neverwinter (The "Nasher" Ambush)**
 • **The Setup:** Ser Kaelen sends the party to return the statue to **Elara Meliamne**.
-• **The Gazetteer Update:** As the party travels the **High Road** near the **Blacklake District** (the rebel stronghold), they are ambushed by the "Gilded Bolt" mercenaries.
+• **The Gazetteer Update:** As the party travels the **High Road** near the **Bluelake District** (the rebel stronghold), they are ambushed by the "Gilded Bolt" mercenaries.
 • **The Twist:** To hide **House Margaster’s** involvement, the mercenaries are dressed as **Nashers** (the violent faction of the Sons of Alagondar).
     ◦ **Insight:** A character with knowledge of the city (or a successful Insight check) might notice the gear is too high-quality for typical rebels, or that they lack the "minotaur head" symbol usually worn by true Nashers.
     ◦ **Political Consequence:** If the party kills them, **Jena Roscoe** will later use this to claim the Order of the Gauntlet is "provoking the rebels," further destabilizing the peace.
@@ -29,7 +29,7 @@ The Salon is not just a party; it is a battlefield for the city's secret masters
 **Summary of Updates**
 | Adventure Element | Gazetteer Integration | New Narrative Depth |
 | --- | --- | --- |
-| Ambush | Nashers (Blacklake District) | Mercenaries disguise themselves as rebels; killing them plays into Neverember’s propaganda war. |
+| Ambush | Nashers (Bluelake District) | Mercenaries disguise themselves as rebels; killing them plays into Neverember’s propaganda war. |
 | The Salon | Protector's Enclave / Moonstone Mask | The party represents a cultural rival to the floating inn; the event is a symbol of the "New Neverwinter" movement. |
 | Rival Faction | Ashmadai (Mordai Vell) | The Ashmadai leader is present at the party. Stopping the Kraken Society inadvertently helps the Devil worshippers. |
 | Vukradin's Reward |  |  |

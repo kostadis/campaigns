@@ -14,3 +14,7 @@ venue: ""
 # Dazlyn Grayshard Intelligence Report
 
 Intelligence report regarding the shield dwarf prospector [[dazlyn-grayshard]] and his discovery of an ancient dwarven settlement and the [[temple-of-abbathor]] in the canyon southwest of [[phandalin]].
+
+## Related
+
+- [[norbus_ironrune]]

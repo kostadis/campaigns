@@ -1,0 +1,100 @@
+[
+  {
+    "type": "npc",
+    "subject": "Elin",
+    "fact": "Elin is a 7-year-old girl who has been silent for six days, drawing a six-pointed star on every flat surface in her home, and speaking only once after restoration \u2014 saying, 'The wells are not wells anymore.' Her condition is not a conventional illness but a perceptual disruption caused by an external, non-magical influence from the Underdark.",
+    "source_quote": "She draws the same shape on every flat surface. She talks in her sleep. She says it is only the shape that holds.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Maerith",
+    "fact": "Maerith is Elin's mother, who has sought help from every temple without success. She is exhausted from repeated rejection and now turns to the party with quiet desperation, having observed her daughter\u2019s behavior for six days and noted the recurring six-pointed star drawings.",
+    "source_quote": "My daughter Elin is 7 years old and has been silent for 6 days. She draws the same shape on every flat surface. She talks in her sleep. She says it is only the shape that holds. Please, we have asked the temples. The temples have no answer.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a meticulous observer with a precise mind who notices details others dismiss. He has been experiencing unexplained pressure in his own head, which he only indirectly mentioned until the pattern of Elin\u2019s condition made it relevant.",
+    "source_quote": "Daz mentioned the pressure in his own head \u2014 had been mentioning it, in various indirect ways, for a while now.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir articulated the mechanism of Elin\u2019s affliction: the world is not arriving as itself, but as distorted audio input she cannot process. He identified the condition as a perceptual bleed from the Underdark, not a magical effect.",
+    "source_quote": "The input, the audio, the way the world was arriving at her rather than the world itself.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is a sentient sword with strong opinions on timing and intervention. It chose to act uninvited, casting lesser restoration on Elin and triggering her only spoken words: 'The wells are not wells anymore.' Its action revealed more than medical examination could.",
+    "source_quote": "Let me bring the light to you.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Underdark entities",
+    "fact": "A growing, structural wrongness emanating from the Underdark \u2014 linked to demon lords and the collapse of places like Neverlight Grove and the Pudding King\u2019s court \u2014 is now bleeding upward, disrupting perception and inducing auditory hallucinations in surface dwellers.",
+    "source_quote": "The madness from the Underdark \u2014 the deep, structural wrongness we'd felt building around the demon lords... was not, apparently, staying below. It was reaching up.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Elin's speech after restoration",
+    "fact": "After lesser restoration was cast by Dawnbringer, Elin spoke one sentence \u2014 'The wells are not wells anymore' \u2014 before falling silent again. This was not a recovery of language, but the emergence of a single, cryptic insight from within her perceptual distortion.",
+    "source_quote": "The wells are not wells anymore.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz's head pressure revelation",
+    "fact": "Daz's previously unconnected complaint of head pressure was recognized as a symptom aligned with Elin\u2019s condition, confirming the spread of the Underdark\u2019s perceptual bleed to others in the party.",
+    "source_quote": "Does it seem related at all to how the other person was hearing voices?",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Neverlight Grove",
+    "fact": "Neverlight Grove was a site of prior Underdark corruption, where the environment was singing \u2014 a sign of perceptual disruption consistent with what is now affecting Elin and others.",
+    "source_quote": "the way Neverlight Grove had been singing",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Pudding King's court",
+    "fact": "The Pudding King\u2019s court was another location consumed by Underdark corruption, dissolving into madness \u2014 a precedent for the perceptual collapse now manifesting on the surface.",
+    "source_quote": "the Pudding King's court had been dissolving",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "six-pointed star drawings",
+    "fact": "Elin\u2019s repeated drawings of a six-pointed star on every flat surface are not random art, but a non-verbal attempt to map or stabilize the distorted input she receives from the Underdark\u2019s bleed.",
+    "source_quote": "a six-pointed star, over and over, every flat surface in the house",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Zuggtmoy",
+    "fact": "Zuggtmoy, the fungal god, is referenced as a known and comprehensible threat \u2014 a contrast to the current, unknown perceptual corruption affecting Elin. The speaker\u2019s lingering fear of Zuggtmoy underscores their discomfort with the unfamiliar nature of the current affliction.",
+    "source_quote": "I still think about Zuggtmoy, and will probably continue thinking about Zuggtmoy for the rest of my life.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The wells are not wells anymore",
+    "fact": "Elin\u2019s utterance \u2014 'The wells are not wells anymore' \u2014 is a cryptic, high-stakes thread. It implies a transformation of fundamental metaphysical or spatial structures, possibly referencing corrupted conduits of perception or reality itself, and is not yet interpretable.",
+    "source_quote": "The wells are not wells anymore.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occurred during the current session, marked by failed medical examinations, Dawnbringer\u2019s intervention, and the revelation of a spreading perceptual contagion from the Underdark.",
+    "source_quote": "Twenty-three. My best of the evening, arriving too late to be medically useful and just in time to be philosophically concerning.",
+    "quote_verified": true
+  }
+]

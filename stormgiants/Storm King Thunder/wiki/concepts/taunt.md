@@ -12,6 +12,6 @@ Halisa declared she would return every 100 years to taunt Helia. Halisa was init
 
 ## Connections to Existing Wiki
 - [[halisa]]
-- [[tree-protection-schedule-d]]
-- [[seelie-court]]
+- [[the-party]]
+- [[fey-court-structure]]
 - [[dryads]]

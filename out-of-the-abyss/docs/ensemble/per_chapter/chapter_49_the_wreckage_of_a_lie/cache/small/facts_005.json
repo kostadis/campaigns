@@ -1,0 +1,86 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is unsinged after the fireball spell, as intended by the sculpted magic.",
+    "source_quote": "I note that Zalthir is unsinged.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is unsinged after the fireball spell, as intended by the sculpted magic.",
+    "source_quote": "I note that Thorin is unsinged.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara",
+    "fact": "Ilvara took twelve points of damage from the fireball, surviving due to her proficiency in Menzoberranzan's social ecosystem.",
+    "source_quote": "She takes twelve. The icon takes twelve.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum observed that the spell worked better than expected, and values honest tactical assessment.",
+    "source_quote": "*\"That worked better than I had any right to expect.\"*",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Feared Mage of the Ember Vanguard",
+    "fact": "The mage is the architect of the sculpted fireball, directing precise destructive force with calculated intent.",
+    "source_quote": "I am the feared mage of the Ember Vanguard.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "sculpted fireball deployment",
+    "fact": "A fireball spell was precisely sculpted to avoid Zalthir and Thorin while dealing twelve damage to Ilvara and the icon, altering the tactical balance.",
+    "source_quote": "The sphere lands where I placed it. The fire roars around Zalthir and Thorin and doesn't touch them.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "the fireball spell",
+    "fact": "The fireball was shaped by intent to bypass specific targets and strike only designated ones, demonstrating mastery of spell sculpting.",
+    "source_quote": "I carve them out. The fire will know the shape of them by the time it arrives and it will go around \u2014 not because fire cares, fire doesn't care about anything, but because I told it the shape of what it cannot touch.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "remaining targets",
+    "fact": "Ilvara and the icon are still standing after the spell, indicating the fight is not over despite the tactical shift.",
+    "source_quote": "Ilvara is still standing. But twelve points is twelve points and the board looks different than it did thirty seconds ago.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "problem zone",
+    "fact": "The area containing Zalthir and Thorin was the focus of protective sculpting, remaining untouched by the fireball.",
+    "source_quote": "Zalthir and Thorin are inside the problem zone.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "the Ember Vanguard",
+    "fact": "The Ember Vanguard is the organization to which the sculpting mage belongs, known for precision destructive magic.",
+    "source_quote": "I am the feared mage of the Ember Vanguard.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "the fireball",
+    "fact": "The fireball behaved as directed \u2014 it did not consume Zalthir and Thorin, and struck only Ilvara and the icon, demonstrating non-sentient obedience to arcane intent.",
+    "source_quote": "It will go around \u2014 not because fire cares, fire doesn't care about anything, but because I told it the shape of what it cannot touch.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "Thirty seconds have passed since the spell was cast, during which the tactical situation shifted significantly.",
+    "source_quote": "the board looks different than it did thirty seconds ago",
+    "quote_verified": true
+  }
+]

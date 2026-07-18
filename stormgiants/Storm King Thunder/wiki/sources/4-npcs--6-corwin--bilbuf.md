@@ -1,8 +1,8 @@
 ---
 type: source
 title: "Source: npcs/corwin.md"
-created: 2026-05-27
-updated: 2026-05-27
+created: 2026-06-06
+updated: 2026-06-06
 sources: ["npcs/corwin.md"]
 tags: []
 related: []
@@ -12,46 +12,41 @@ related: []
 
 ## Key Entities
 
-- **Corwin** — Person (NPC); role: chef and retainer at Falcon Hunting Lodge; central to this source as the sole subject.  
-  → *Likely does not exist in wiki yet* (not listed in Entities index).
-
-- **Falcon the Hunter** — Person (NPC); role: employer of Corwin; central to context.  
-  → *Already exists in wiki* (see [[falcon-the-hunter]] — recruited by Adabra, later regretted involvement).
-
-- **Barthen** — Person (NPC); role: sender of letter of introduction; peripheral.  
-  → *Not listed in wiki index* — likely new entity.
-
-- **Falcon Hunting Lodge** — Location; role: setting of interaction.  
-  → *Not listed in wiki index* — likely new location.
+*   **Corwin** (Person)
+    *   **Role:** Central to this specific document; a chef and retainer at the Falcon Hunting Lodge.
+    *   **Status:** Likely exists in the wiki as a new entry or an update to the "Falcon Hunting Lodge" page.
+*   **Falcon the Hunter** (Person)
+    *   **Role:** Corwin's employer; a central figure in the lodge's narrative.
+    *   **Status:** Already exists in the wiki.
+*   **Barthen** (Person)
+    *   **Role:** A local authority/rancher who provided the party with credentials.
+    *   **Status:** Already exists in the wiki.
 
 ## Key Concepts
 
-- **Gatekeeping-as-service** — Professional behavior centered on verifying credentials before granting access; reflects institutional procedure over personal agency.  
-  → *Matters*: Illustrates how authority is mediated through low-level staff; mirrors “cover-identity-as-merchant” and “layered-command-structure” but in domestic context.  
-  → *Likely exists*: Related to [[disguised-influence]] and [[cover-identity-as-merchant]], but not explicitly codified as a concept.
-
-- **Hospitality-as-ritual** — Welcoming guests through formalized steps (ringing bell, verifying letter, fetching master) functions as social protocol, not mere courtesy.  
-  → *Matters*: Reinforces the idea that even minor interactions carry ceremonial weight in this world.  
-  → *Likely exists*: Echoes [[ritualized-questioning]] and [[divine-oracle]] in structure, but not yet generalized.
-
-- **Narrative-economy (applied to NPCs)** — Corwin has no backstory, hidden motives, or arc — his function is purely operational.  
-  → *Matters*: Demonstrates deliberate use of background NPCs to maintain focus on plot-critical characters (e.g., Falcon, Adabra).  
-  → *Already exists*: Directly aligns with [[background-npc]] and [[narrative-economy]].
-
-- **Credential-based-access** — Trust is granted not through reputation or relationship, but through a written token (Barthen’s letter).  
-  → *Matters*: Reflects systemic trust mechanisms in a world where identity can be forged or concealed.  
-  → *Likely exists*: Related to [[cover-identity-as-merchant]] and [[information-asymmetry-npc-encounters]].
+*   **Gatekeeping / Credential-based Access**
+    *   **Definition:** The process of verifying identity or authorization before granting access to a restricted area.
+    *   **Significance:** Corwin embodies this concept; he is not just a servant but a procedural filter for the lodge.
+    *   **Status:** Already exists in the wiki (e.g., [[gatekeeping-as-service]], [[credential-based-access]]).
+*   **Narrative Economy / Background NPC**
+    *   **Definition:** Characters who fulfill specific functional roles without requiring extensive backstory or personal arcs.
+    *   **Significance:** Corwin is a prime example of an NPC whose role is defined by his function (hospitality/gatekeeping) rather than personal narrative.
+    *   **Status:** Already exists in the wiki (e.g., [[background-npc]], [[narrative-economy]]).
 
 ## Main Arguments & Findings
-
-- **Core claim**: Corwin is a functional, non-arc NPC whose sole narrative purpose is to enable the party’s entry into Falcon’s domain through procedural legitimacy.  
-- **Evidence**:  
-  - No personality traits beyond “dutiful, procedural, welcoming.”  
-  - No history, secrets, or emotional depth recorded.  
-  - His entire role is defined by action: greeting, verifying, admitting, fetching.  
-- **Strength of evidence**: High — source is intentionally minimal, consistent with wiki’s treatment of background NPCs like Backes Dunfield and Cooragh Struckt.
+*   **Functional Role over Narrative Depth:** Corwin serves as a "functional" NPC. His primary purpose is to facilitate the transition from the outside world into the specific narrative space of the Falcon Hunting Lodge.
+*   **Procedural Integrity:** The text emphasizes that Corwin's interaction with the party was based on *procedure* (the letter of introduction) rather than personal rapport, highlighting a "gatekeeper" archetype.
 
 ## Connections to Existing Wiki
+*   **[[falcon-hunting-lodge]]**: This document provides specific staffing details for this location.
+*   **[[barthen]]**: Corwin’s interaction with the party validates Barthen's role as a provider of credentials.
+*   **[[gatekeeping-as-service]]**: Corwin is a practical application of this concept.
+*   **[[credential-based-access]]**: The mechanism by which Corwin admits the party.
 
-- **Strengthens**:  
-  - [[background-npc]] — Corwin is a textbook example: no arc, no hidden motives,
+## Contradictions & Tensions
+*   **None identified.** The document is straightforward and aligns with existing themes of "gatekeeping" and "procedural hospitality."
+
+## Recommendations
+*   **Update [[falcon-hunting-lodge]]:** Add Corwin as a staff member/chef to the lodge's description.
+*   **New Page or Update:** Create a page for **Corwin** if he is intended to be a recurring NPC, though his "Arc Score" of zero suggests he may remain a background character unless a specific plot hook is added.
+*   **Cross-Reference:** Link Corwin's entry to [[gatekeeping-as-service]] and [[credential-based-access]] to reinforce those conceptual links in the wiki.

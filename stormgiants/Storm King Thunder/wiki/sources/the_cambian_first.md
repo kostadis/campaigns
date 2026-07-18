@@ -69,4 +69,8 @@ related: []
 
 ### Recommendations
 - **Create New Pages:** Create pages for The Cambian (First), Unnamed Master, Orsik, Unla Kee, and Vinby Hearthgood.
-- **Emphasize:** The Cambian's role as 
+- **Emphasize:** The Cambian's role as
+
+## Related
+
+- [[the_cambian_second]]

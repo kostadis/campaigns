@@ -16,3 +16,7 @@ They are not merely atmospheric hazards; they are active killers with intent. Th
 Their presence in the Dragonbarrow implies a deeper, possibly ancient, corruption within the site. They may be connected to the same forces that enabled Boney’s reanimation — though whether they are agents of a greater evil, or simply natural predators of the undead, remains unknown.
 
 Boney’s recounting of their attack is one of the few moments of genuine fear in his narrative — a testament to their danger.
+
+## Related
+
+- [[boney]]

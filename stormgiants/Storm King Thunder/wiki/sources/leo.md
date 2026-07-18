@@ -48,8 +48,8 @@ related: []
 
 ### Connections to Existing Wiki
 - **Existing Pages:**
-  - [[Lionel_Coster_franchise_network]] — Relevant for understanding Leo's role within the corporate chain.
-  - [[Aurora_Realms_Stores]] — Relevant for comparison with Leo's store.
+  - [[leo]] — Relevant for understanding Leo's role within the corporate chain.
+  - [[force-grey-2026-06-06-063448]] — Relevant for comparison with Leo's store.
   - [[dd_bay]] — Relevant for understanding Leo's stance against the competitor.
 - **Impact on Knowledge:**
   - Strengthens existing knowledge about the Lionel Coster franchise system and its competitors.
@@ -61,8 +61,8 @@ related: []
 
 ### Recommendations
 - **Pages to Create or Update:**
-  - [[Lionel_Coster_store_in_Llorkh]] — To provide more detailed information about Leo's store.
-  - [[Lionel_Coster_franchise_network]] — To expand on the broader context of the franchise.
+  - [[lionel-coster-vs-lionshield-coster-2026-06-06-002454]] — To provide more detailed information about Leo's store.
+  - [[leo]] — To expand on the broader context of the franchise.
 - **Emphasis:**
   - Emphasize Leo's competitive nature and his loyalty to the franchise.
   - Highlight the contrast between Leo's store and Aurora Realms Stores.

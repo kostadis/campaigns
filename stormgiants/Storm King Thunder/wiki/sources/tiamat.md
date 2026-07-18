@@ -45,7 +45,7 @@ related: []
   - [[Person/Thistle]] (for Thistle)
   - [[Person/Severin]] (for Severin)
   - [[Person/Iymrith]] (for Iymrith)
-  - [[Organization/The First Faction]] (for The First Faction)
+  - [[force-grey-2026-06-06-063448]] (for The First Faction)
   - [[Person/Tiamat]] (for Tiamat)
 - **Impact**: The source provides additional details about Tiamat's role and actions, strengthening the understanding of her influence and the War of the Dragons.
 
@@ -56,7 +56,7 @@ related: []
 ### Recommendations
 - **Create or Update Pages**: 
   - [[Person/Tiamat]] (to consolidate information)
-  - [[Event/War of the Dragons]] (to include Tiamat's role)
+  - [[the-sage-of-silence-thematic-synthesis-2026-06-05-181324]] (to include Tiamat's role)
 - **Emphasize**: The manipulation strategy and its impact on the War of the Dragons.
 - **De-emphasize**: The current status and whereabouts of Tiamat, as these are not explicitly addressed.
 - **Open Question**: Should Tiamat's potential future threats be explored further?

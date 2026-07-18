@@ -105,3 +105,7 @@ Further explore Pandi's backstory, the true nature of the Forgotten Forest, and 
 ## 2023-10-05
 
 - Ingest | Pandi
+
+## Related
+
+- [[pandi]]

@@ -18,3 +18,7 @@ This archetype contrasts sharply with traditional fantasy tropes of the expert l
 This model of leadership is particularly effective in environments of high tension or cultural friction — such as the Mountain’s Toe Gold Mine — where brute force fails and bureaucratic authority is distrusted. It suggests that in a world where divine voices are silent and institutions are corrupt, the most effective leaders may be those who admit they do not know the answers — and are humble enough to let others provide them.
 
 This concept challenges the assumption that competence is a prerequisite for leadership. It posits that in complex, morally ambiguous systems, emotional resonance may be more valuable than technical mastery.
+
+## Related
+
+- [[tall-tale-as-social-tool]]

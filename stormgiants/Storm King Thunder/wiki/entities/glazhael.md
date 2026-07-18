@@ -24,3 +24,7 @@ tags: [location, central]
 related: []
 sources: ["jorgen.md"]
 ---
+
+## Related
+
+- [[jorgen]]

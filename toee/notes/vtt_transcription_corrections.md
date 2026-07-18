@@ -17,9 +17,9 @@ without inflating this glossary with non-misspellings.
 
 | Wrong | Right |
 |---|---|
-| Colmer, Commer, Carmen, Comer, Palmer, Colmar, Conor, Gomer, Carmel, Colman, Kalma, Karlma | **Calmer** |
-| Zep | **Zephyr** |
-| Zinnius, Xenia, Sinia, Vinaya | **Zinnia** |
+| Colmer, Commer, Carmen, Comer, Palmer, Colmar, Conor, Connor, Gomer, Carmel, Colman, Kalma, Karlma, Commerce, call merges, Kalmer, Kalmu, Colbert, Culver, Zeb Calder, columnar, Karma, Culber, Homer, Calder, Color | **Calmer** |
+| Zep, Ephra | **Zephyr** |
+| Zinnius, Xenia, Sinia, Vinaya, Susania | **Zinnia** |
 | Sequioa | **Sequoia** |
 
 ## Players (real-world names — never replace, just flagged as known)
@@ -31,26 +31,33 @@ without inflating this glossary with non-misspellings.
 |  | **Thomas Kolivakis** |
 
 ## NPCs and creatures
-| Harsh, Harch, Hart, Jay Harsh, Harchus, Harches, Horsch, Arch | **Hartsch** |
+| Harsh, Harch, Hart, Jay Harsh, Harchus, Harches, Horsch, Arch, Hartsh | **Hartsch** |
 | Kelano, Keldo, Kelnose, Kelnose Air Temple, Kelneau, Kelnow, Kelnut, Kelnau, Kel No, Kilno, Kello, Kelna, Kalno, Kiano, Tangno, Telnell, Batal Noah | **Kelno** |
-| Roman, Romegu, Robag, Romeg, Romag Elrond | **Romag** |
+| Roman, Romegu, Robag, Romeg, Romag Elrond, Romarg | **Romag** |
 | Dren Helveth, Helveth, Dren Palvith, Dren Halvet, Captain Tren Helvet | **Dren Halveth** |
-| Belsoring, Belsorning, Bill Sorenig, Bill Sordnink, All Sorenig, Vesorneg, Bellswording, Belzordnig, Belzordnigs, Belsor, Bell Zordding, Belzordding, Belzornig, Belzorning, Bill Sorbig, Bill Sortening, Bill Zornig, Belshordname, Belzorg, Bill Schwarning, Lordnig, Ordnigs, Bell | **Belsornig** |
-| Alrim, Ulrim, Aldrum, Aurum | **Alremm** |
+| Belsoring, Belsorning, Bill Sorenig, Bill Sordnink, All Sorenig, Vesorneg, Bellswording, Belzordnig, Belzordnigs, Belsor, Bell Zordding, Belzordding, Belzornig, Belzorning, Bill Sorbig, Bill Sortening, Bill Zornig, Belshordname, Belzorg, Bill Schwarning, Lordnig, Ordnigs, Bell, Elsnor Nick, Bolzorg, Velshornig, Bill Thorning, Cannonville Soaring, cannonball Soaring | **Belsornig** |
+| Alrim, Ulrim, Aldrum, Aurum, Alrem, Alroam | **Alrrem** |
+| She's dead with Alrrem | **He's dead with Alrrem** (Alrrem is male) |
 | Barkiner, Birkin, Barking, Bacchanar | **Barkinar** |
-| Senchak, Sandshock | **Senshock** |
+| Senchak, Sandshock, Senchok | **Senshock** |
 | Gnules, Gnolds | **Gnolls** |
-| Jen, Jenna | **Dren** |
+| bug beer | **bugbear** |
+| Dretan, Jen, Jenna, Diren | **Dren** |
 | Falwinth | **Falrinth** |
+| Verkal, Verkhall, Virkhal | **Vorkal** |
+| Juggerdot | **Juggernaut** |
 
 | Wrong | Right |
 |---|---|
 
 ## Locations
-| Ark Temple | **Air Temple** |
+| Ark Temple, Error temple | **Air Temple** |
 | Grooted Temple, Deep Temple, Gaidor Temple | **Greater Temple** |
 | Earth-themporal | **Earth Elemental** |
 | Earth Temp | **Earth Temple** |
+| Emery Meadows | **Emridy Meadows** |
+| Nub, Nolt | **Nulb** |
+| Waterdon | **Water Temple** |
 
 | Wrong | Right |
 |---|---|
@@ -59,9 +66,24 @@ without inflating this glossary with non-misspellings.
 
 | Wrong | Right |
 |---|---|
+| pompous passes | **pompous asses** |
 
 ## Houses / factions
 
 | Wrong | Right |
 |---|---|
 | Vanguard, Obsidian Vanguard, Zidian Edge | **Obsidian Edge** |
+
+## Items / artifacts
+
+| Wrong | Right |
+|---|---|
+| Frostbradened, Fredinh | **Frostbrand** |
+| Alamanders | **Salamanders** |
+| Elementary Evil | **Elemental Evil** |
+| Tech Magic | **Detect Magic** |
+| Silvery Barber, Dilvery Barbs, Stillbury Barbecue | **Silvery Barbs** |
+| boss relief, boss release | **bas-relief** |
+| the idle | **the idol** |
+| flight of hand | **sleight of hand** |
+| Missy Steph | **Misty Step** |

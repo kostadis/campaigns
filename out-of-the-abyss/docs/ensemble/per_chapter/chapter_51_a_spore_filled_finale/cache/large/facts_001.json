@@ -1,0 +1,114 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a monk who relies on proximity and grapples, having just delivered two consecutive critical strikes against Ilvara Mizzrym before letting her fall forty feet. He is now frightened and unable to approach her due to her demonic reaction, forcing him to observe from a distance while reflecting on monastic discipline and tactical limitation.",
+    "source_quote": "I am a monk. My entire tactical vocabulary is built around being adjacent to the problem. Range is something other people deal with.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara Mizzrym",
+    "fact": "Ilvara Mizzrym, high priestess of Zuggtmoy and corrupted vessel of a fungal demon lord, survived a forty-foot fall after being grappled and critically struck by Zalthir. She retaliated with a targeted fear effect that prevents proximity, demonstrating her mastery of psychological and demonic magic beyond physical combat.",
+    "source_quote": "She reached into whatever dark place Zuggtmoy had hollowed out inside her and she pushed \u2014 not against my body, not against my grip, but against the part of me that the training does not fully reach.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin Giantfriend",
+    "fact": "Thorin, a dwarf warrior wielding Dawnbringer, killed the Heart Fungus in one round with radiant damage, bypassing all its defenses. He later chose not to make an opportunity attack against Jorlan, allowing the scarred drow to confront Ilvara alone, prioritizing tactical restraint and emotional distance over direct intervention.",
+    "source_quote": "Sometimes the most useful thing a fighter can do is stay out of someone else's reckoning.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jorlan",
+    "fact": "Jorlan, a scarred drow warrior once loved by Ilvara, abandoned his position to charge through an insect swarm toward her, driven by a raw, wounded emotion beyond rage. His motivation stems from Drow societal betrayal and unresolved romantic history, making him an unpredictable actor in the current conflict.",
+    "source_quote": "\"ILVARA\" \u2014 It came out like a wound reopening. Not rage exactly \u2014 rage is clean, rage has direction. This was something uglier and more honest than rage.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum, a party member with a tendency toward blunt questions and emotional honesty, was the first to voice concern for Glabbagool during the Insect Plague. He offered Revivify to restore fallen minions, revealing his awareness of the moral complexity of companion loss in the Underdark.",
+    "source_quote": "If anybody is too saddened by the loss of any of our minions, I do have a Revivify spell that I could use to bring one of them back.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool, a sentient gelatinous cube and reluctant participant in the party\u2019s adventures, survived twenty-six points of damage from Ilvara\u2019s Insect Plague. He is portrayed as earnest, vulnerable, and emotionally invested in belonging, despite being repeatedly endangered by forces beyond his control.",
+    "source_quote": "Twenty-six points of damage. The grey ooze took twenty-six points of damage from a spell he had nothing to do with, while he was hovering at the edge of the chaos doing his best to look like he was following the conversation.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Heart Fungus",
+    "fact": "The Heart Fungus, a massive, centrally located fungal entity designed as a narrative icon and tactical obstacle, was destroyed in one round by Thorin\u2019s Dawnbringer with radiant damage. Its death was met with collective mourning from the party, highlighting its symbolic weight despite minimal mechanical resilience.",
+    "source_quote": "I spent so much time creating this icon. It was beautiful. It was pretty.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Insect Plague Swarm",
+    "fact": "The Insect Plague summoned by Ilvara Mizzrym manifested as a wall of chittering, biting insects that obliterated all fungal minions in the cavern and damaged Glabbagool. It functioned as both a battlefield-clearing tool and a psychological weapon, enforcing distance and chaos.",
+    "source_quote": "The swarm hit the cavern entrance like a wall of sound and motion \u2014 a biblical chittering that shredded the fungal minions instantly.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Heart Fungus destruction",
+    "fact": "The Heart Fungus was destroyed in one round by radiant damage, collapsing a carefully prepared encounter and forcing the DM and party to recalibrate the narrative stakes. Its death marked a turning point where tactical efficiency overrode environmental storytelling.",
+    "source_quote": "One round. That was all it got.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Ilvara's fear effect",
+    "fact": "Ilvara Mizzrym triggered a targeted fear effect that imposes the frightened condition on Zalthir, preventing him from approaching her. This magical reaction nullified his core tactical strength \u2014 proximity \u2014 and shifted the combat dynamic from physical to psychological.",
+    "source_quote": "The fear was immediate and specific and entirely unwanted. This was targeted. This said: she is down there, and you will not approach her.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Jorlan's charge",
+    "fact": "Jorlan abandoned his position and charged through the Insect Plague toward Ilvara, triggering a moment of moral and tactical ambiguity for Thorin, who chose not to intervene. This decision allowed a personal vendetta to unfold independently of the party\u2019s objectives.",
+    "source_quote": "I stepped aside and let Jorlan pass.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Cavern of the Heart Fungus",
+    "fact": "The cavern is a vast, dark space dominated by the pulsing Heart Fungus, surrounded by difficult terrain, elevated walkways, and a fungal ecosystem. It serves as the primary battleground, where environmental hazards and verticality shape movement and combat decisions.",
+    "source_quote": "The cavernous space above the heart fungus was dark and vast and exactly the kind of silence I prefer to operate in.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is Thorin\u2019s radiant-imbued sword, always drawn and eager to strike. It bypassed all resistance of the Heart Fungus with a single blow, embodying the principle that some problems require direct, overwhelming force rather than preparation.",
+    "source_quote": "Dawnbringer was already in my hand. She'd been in my hand since we walked in. She's not the sort of sword that waits politely in a scabbard when there's something this obviously in need of being hit with radiant light.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Drow politics and Jorlan\u2019s redemption",
+    "fact": "Jorlan\u2019s confrontation with Ilvara opens a deep, unresolved thread about Drow societal cruelty, love, betrayal, and the possibility of redemption. The party has no framework to intervene, leaving the outcome entirely to their personal reckoning.",
+    "source_quote": "I do not understand six layers of drow politics wrapped around a heartbreak, and I am not ashamed to say so.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Glabbagool\u2019s survival and moral weight",
+    "fact": "Glabbagool\u2019s near-death from the Insect Plague raises a persistent narrative thread about the value of non-human companions in the Underdark and the moral responsibility of the party toward those who cannot protect themselves.",
+    "source_quote": "We had not brought a gelatinous cube this far through the Underdark to lose him to biting insects conjured by a woman who had traded her dignity to a fungal demon lord.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session timestamp",
+    "fact": "The events described occur during the session following Chapter 47, titled 'A Spore-Filled Finale,' marking a climactic turning point in the Underdark arc where narrative design, tactical decisions, and emotional stakes collide.",
+    "source_quote": "Chapter 47 A Spore-Filled Finale",
+    "quote_verified": true
+  }
+]

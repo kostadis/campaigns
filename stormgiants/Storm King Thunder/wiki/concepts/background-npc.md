@@ -16,3 +16,8 @@ However, the existence of facktore challenges the assumption that all non-party 
 This concept must be refined: not all non-party NPCs are background. Some are dormant, unrecorded, or deliberately obscured. The distinction lies not in visibility, but in narrative function. Background NPCs serve realism; latent threats serve tension.
 
 Gnomengarde’s failure to catalog Facktore reveals a deeper flaw in narrative design: the assumption that silence equals insignificance. In truth, the most dangerous NPCs are often the ones the world forgets to name.
+
+## Related
+
+- [[narrative-economy]]
+- [[background-npc]]

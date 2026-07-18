@@ -65,4 +65,8 @@ related: []
 - **Dragon Wand**: Attuned to dragons.
 - **Dragon Wand**: Attuned to dragons.
 - **Dragon Wand**: Attuned to dragons.
-- 
+-
+
+## Related
+
+- [[party-20260608]]

@@ -9,3 +9,7 @@ related: []
 # Identify the "Other Nice People"
 
 The Stag mentions "other nice people" who promised to fix the forest's disturbances but failed. This is a significant narrative hook that could link to existing factions or failed adventuring parties.
+
+## Related
+
+- [[the-other-nice-people-identity-2026-06-06-235647]]

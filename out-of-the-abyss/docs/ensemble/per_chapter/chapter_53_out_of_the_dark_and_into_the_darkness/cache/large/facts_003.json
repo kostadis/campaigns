@@ -1,0 +1,163 @@
+[
+  {
+    "type": "npc",
+    "subject": "Thorin Giantfriend",
+    "fact": "Thorin Giantfriend recovered a necromantic pearl from the heart of Ilvara's corrupted fungal ritual site and reclaimed his stolen tooth, marking the beginning and escalation of the corruption they faced.",
+    "source_quote": "I had the necromantic pearl in one pocket... I had the tooth back. And I had the pearl that had been buried in the heart of whatever she'd turned this place into.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a male Drow apostate from Menzoberranzan with no known noble lineage, yet he is the target of a high-value contract orchestrated by House T'sarran, suggesting his true value is hidden or misunderstood.",
+    "source_quote": "I am not, by any meaningful measure, a person of consequence... And yet, powerful Drow houses do not spend this kind of resource on nobodies.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara",
+    "fact": "Ilvara, a High Priestess, used a fungal mass as a ritual anchor and wove Lolth\u2019s web into Zuggtmoy\u2019s sigil on a cloth artifact, revealing her dual allegiance and descent into madness.",
+    "source_quote": "It was Ilvara's madness made physical \u2014 the thing she'd built her rituals around while she was becoming something that served two masters and understood neither.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum destroyed the pulsing fungal growth clinging to the platform, using acid to purge Zuggtmoy\u2019s corruption, demonstrating his intolerance for lingering evil.",
+    "source_quote": "He opened his mouth, and the acid came out clean and decisive, and the fungal matter... collapsed into ash in the time it takes to exhale.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "House T'sarran",
+    "fact": "House T'sarran commissioned a contract to extract Daz alive and unharmed, using intermediaries and professional Drow mercenaries, indicating significant investment and hidden motives.",
+    "source_quote": "There had been a contract. Extract Daz alive and unharmed. House T'sarran behind it.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "House Mizzrym",
+    "fact": "House Mizzrym employed guards and a mage to escort the contract, all of whom perished in the chamber, suggesting the mission was compromised or intentionally sacrificed.",
+    "source_quote": "The dead soldiers of House Mizzrym would never collect their pay.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "recovery of the necromantic pearl",
+    "fact": "The necromantic pearl, a dense, hand-crafted object at the core of Ilvara\u2019s fungal ritual site, was recovered and recognized as an unnatural artifact deliberately placed or grown under precise conditions.",
+    "source_quote": "The pearl wasn't in the wrong place by accident. Someone had put something like it there, or something like it had grown there because the conditions were exactly right for it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "destruction of Ilvara's ritual cloth",
+    "fact": "The ritual cloth, woven with Lolth\u2019s web inside Zuggtmoy\u2019s sigil, was recovered as evidence of Ilvara\u2019s dual worship and psychological collapse, but not destroyed.",
+    "source_quote": "It was evidence. It was Ilvara's madness made physical.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "purification attempt with Dawnbringer",
+    "fact": "A proposal to use Dawnbringer in a ritual purification was rejected by the sentient sunblade, which insisted its purpose is to kill, not to sanctify.",
+    "source_quote": "I'm not some kind of magical wizard thingy that purifies things. I am a high-quality sunblade. I kill things.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "necromantic pearl",
+    "fact": "A fist-sized, smooth, dense object of unnatural origin, found at the core of Ilvara\u2019s fungal mass, radiating necromantic energy and resembling a worked stone rather than a natural growth.",
+    "source_quote": "Smooth. Dense. Fist-sized. The weight of it was wrong for something grown \u2014 too even, too finished, like a stone that had been worked by a hand that knew what it was doing.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "ritual cloth",
+    "fact": "A leather-wrapped artifact containing incense cones, a silver bowl, and a cloth stitched with Lolth\u2019s web woven inside Zuggtmoy\u2019s eight-fold sigil, symbolizing Ilvara\u2019s fractured devotion.",
+    "source_quote": "A cloth that had been stitched with two sigils \u2014 Lolth's web worked into the eight-fold geometry of Zuggtmoy's mark, one woven inside the other.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Dawnbringer",
+    "fact": "A sentient sunblade with strong opinions, refusing to be used as a ritual tool and insisting its function is exclusively combat-oriented.",
+    "source_quote": "I am a high-quality sunblade. I kill things. I will not be treated like a religious symbol...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "T'sarran signet ring",
+    "fact": "A signet ring bearing the unmistakable seal of House T'sarran, found on the dead mage, confirming the house\u2019s direct involvement in the contract to extract Daz.",
+    "source_quote": "I found the signet ring first \u2014 House T'sarran, the seal unmistakable on the face of it.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "obsidian wand with captive spider",
+    "fact": "An obsidian wand containing a preserved spider in amber, likely a focus for arcane or necromantic magic, recovered from the dead mage\u2019s possessions.",
+    "source_quote": "Then the wand: obsidian, a captive spider preserved in amber at its tip.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Daz's true identity",
+    "fact": "Daz\u2019s mysterious value to House T'sarran, despite his apparent insignificance, creates an unresolved thread about his origins, potential hidden lineage, or undisclosed role.",
+    "source_quote": "The gap between what I know about myself and what someone apparently believes about me was large enough to be, frankly, concerning.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Ilvara's dual worship",
+    "fact": "Ilvara\u2019s fusion of Lolth and Zuggtmoy in ritual artifacts suggests a deeper, unexplained syncretic heresy that may extend beyond her personal madness.",
+    "source_quote": "She'd been using as a ritual anchor... and the fungal growth... was still pulsing with Zuggtmoy's reach.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the purpose of the necromantic pearl",
+    "fact": "The origin and function of the necromantic pearl \u2014 whether crafted or grown \u2014 remains unknown, but its placement at the core of a corrupted ritual site implies intentional design.",
+    "source_quote": "A rock in the right place is a wall. The pearl wasn't in the wrong place by accident.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "after the fall of Velkynvelve",
+    "fact": "The events described occurred after the party\u2019s escape from Velkynvelve, marking the next phase of their journey and the unraveling of the conspiracy targeting Daz.",
+    "source_quote": "When we'd first found ourselves hanging in nets at Velkynvelve...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Nym",
+    "fact": "Nym is a sharp, expressive Drow sister who is deeply skeptical of Daz\u2019s mysterious origins and dismissive of noble bloodline theories, yet professionally engaged in the investigation.",
+    "source_quote": "That is an excellent question... Do you have daddy issues? Do you have mommy issues? Every drow thinks there's some noble things.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Kaelira",
+    "fact": "Kaelira is a calm, professional Drow sister who analyzes evidence with detached precision and offers brutally honest assessments, prioritizing duty over speculation.",
+    "source_quote": "Perhaps, but we're not paid to think that hard.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a pragmatic, analytical Drow who avoids emotional displays, treats mysteries as data to be audited, and seeks collective understanding over personal revelation.",
+    "source_quote": "I think... we should investigate this together. Whatever we find... we split the proceeds.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "the fungal chamber",
+    "fact": "A ruined chamber at the heart of Ilvara\u2019s ritual site, filled with dead fungal matter, corrupted growths, and artifacts of her dual worship, now purged by Grygum\u2019s acid.",
+    "source_quote": "The fungal mass sat at the center of the chamber... Most of it was dead now. We'd done that.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "the surface road",
+    "fact": "The path leading out of the underground ruins, now the next stage of the party\u2019s journey, where unresolved questions about Daz\u2019s identity and the necromantic pearl must be carried forward.",
+    "source_quote": "Around me, the road to the surface waited.",
+    "quote_verified": true
+  }
+]

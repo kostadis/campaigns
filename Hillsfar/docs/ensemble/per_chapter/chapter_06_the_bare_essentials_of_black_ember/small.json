@@ -1,0 +1,1136 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session takes place on Feb 1st, 2026.",
+    "source_quote": "Date: Feb 1st, 2026",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Black Ember Outpost",
+    "fact": "Black Ember Outpost is a great, black fortress built directly into the wall of a massive cavern in the Underdark.",
+    "source_quote": "a great, black fortress has been built into the wall of the cave",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Black Ember Outpost",
+    "fact": "The outpost is constructed of polished, worked obsidian stone.",
+    "source_quote": "polished obsidian of Black Ember Outpost was built directly into the cave wall",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Black Ember Outpost",
+    "fact": "The only true entrance to the outpost is a set of obsidian double doors.",
+    "source_quote": "A set of obsidian double doors appear to be the only true entrance into Black Ember Outpost",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Great Hall",
+    "fact": "The Great Hall is a titanic chamber nearly one hundred feet wide and long inside the outpost.",
+    "source_quote": "a titanic chamber nearly one hundred feet wide and long",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Fire Giant sergeant",
+    "fact": "A Fire Giant sergeant is drilling troops in the Great Hall.",
+    "source_quote": "A Fire Giant sergeant attempting to drill his ogre troops",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Fire Giant sergeant",
+    "fact": "The Fire Giant sergeant is frustrated with his troops.",
+    "source_quote": "The Fire Giant is frustrated",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur proposed using mage hand to remove the ogres' uniforms.",
+    "source_quote": "Felkur proposes using mage hand to remove the ogres clothes",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur proposed using a recording of female hell hounds to distract the male hell hounds.",
+    "source_quote": "Felkur proposes to use a recording of female hell hounds to distract the male hell hounds",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur cast mage hand to attempt to remove the ogres' clothes.",
+    "source_quote": "Felkur casts mage hand, and attempts to remove the ogres clothes",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur rolled a natural 20 on sleight of hand, causing the ogres not to notice the magical hand.",
+    "source_quote": "Felkur rolls a natural 20 sleight of hand and the Ogres don't notice the disembodied magical hand",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur rolled an 18 on sleight of hand, causing one ogre's uniform to fall off.",
+    "source_quote": "Felkur then rolls an 18, and the uniform of one of the ogres falls off",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein reproduced the sound of female hell hounds for Felkur's illusion.",
+    "source_quote": "And Daein reproduces it for Felkur's illusion",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein created an auditory illusion of a female hell hound.",
+    "source_quote": "Daein created the illusion of a female hell hound",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein mimicked the fire giant's voice with uncanny precision.",
+    "source_quote": "Daein mimicked the fire giant's voice with uncanny precision",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein's illusion included the remark that the human prisoner was particularly beautiful.",
+    "source_quote": "the giant remarking that the human prisoner was particularly beautiful",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas delivered a devastating blow to the fire giant sergeant with her oath-sworn bow.",
+    "source_quote": "Akritas delivered a devastating blow to the fire giant sergeant with her oath-sworn bow",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim waded into battle against the enemies.",
+    "source_quote": "Bramgrim waded into battle",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim lost his concentration after being struck by an ogre.",
+    "source_quote": "Bramgrim losing his concentration after being struck by an ogre",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim acted disappointed by Daein's inability to hit a Fire Giant with a sword.",
+    "source_quote": "Bramgrim acting disappointed from Daein's inability to hit a Fire Giant with a sword",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim abandoned his healing-only approach to unleash devastating magic.",
+    "source_quote": "shamed Bramgrim into abandoning his healing-only approach to unleash devastating magic",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Owlbear",
+    "fact": "The Owlbear savagely finished off the remaining ogres.",
+    "source_quote": "the Owlbear savagely finished off the remaining ogres",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "ogres",
+    "fact": "The ogres were wearing ill-fitting uniforms that were poorly made and barely held together.",
+    "source_quote": "ogres wearing weird uniforms and hell hounds",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "ogres",
+    "fact": "The ogres did not look happy or obedient.",
+    "source_quote": "The ogres do not look happy or obedient",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "ogres",
+    "fact": "The ogres were frustrated and hungry.",
+    "source_quote": "The ogres are frustrated and hungry",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "hell hounds",
+    "fact": "The hell hounds looked bored during the drill.",
+    "source_quote": "The hell hounds look bored",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "hell hounds",
+    "fact": "The hell hounds were more disciplined and sat at attention.",
+    "source_quote": "The hell hounds are more disciplined and sit at attention",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Fire Giant sergeant",
+    "fact": "A single fire giant was drilling two ogres and three hell hounds.",
+    "source_quote": "A single fire giant is drilling two ogres and three hell hounds",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "hell hounds",
+    "fact": "The party observed three hell hounds being drilled.",
+    "source_quote": "drill a squad of miserable ogres and bored hell hounds",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "ogres",
+    "fact": "The party observed two ogres being drilled.",
+    "source_quote": "drill a squad of miserable ogres and bored hell hounds",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "uniform removal",
+    "fact": "Felkur used magical manipulation to strip the ogres of their ill-fitting uniforms.",
+    "source_quote": "Felkur had used magical manipulation to strip the ogres of their ill-fitting uniforms",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "ambush start",
+    "fact": "The ambush began in earnest.",
+    "source_quote": "When the ambush began in earnest",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "illusion of victory",
+    "fact": "Daein convinced anyone listening that the giants had won the battle.",
+    "source_quote": "convincing anyone listening that the giants had won the battle",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "kennel passage",
+    "fact": "The party navigated past a kennel reeking of burned hair.",
+    "source_quote": "navigating past a kennel reeking of burned hair",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "storeroom approach",
+    "fact": "The party reached a storeroom where more ogres hauled water from a well.",
+    "source_quote": "reached a storeroom where more ogres hauled water from a well",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "well identification",
+    "fact": "Bramgrim recognized the well as the entrance to the Path of Shadows.",
+    "source_quote": "Recognizing this well as the entrance to the Path of Shadows",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "silence spell",
+    "fact": "Bramgrim silenced the area to prevent any alarms.",
+    "source_quote": "Bramgrim silenced the area to prevent any alarms",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "second fight",
+    "fact": "The ensuing fight in the storeroom was brutal.",
+    "source_quote": "The ensuing fight was brutal",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daein injured",
+    "fact": "The fire giant landed a bone-crushing blow on Daein.",
+    "source_quote": "the fire giant landing a bone-crushing blow on Daein",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daein counterattack",
+    "fact": "Daein killed an ogre.",
+    "source_quote": "Daein responded with relentless fury, killing an ogre",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daein counterattack",
+    "fact": "Daein struck the giant twice.",
+    "source_quote": "striking the giant twice",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daein gesture",
+    "fact": "Daein winked at the cleric.",
+    "source_quote": "winking at the cleric",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "fire giant death",
+    "fact": "Akritas delivered the final blow to the fire giant.",
+    "source_quote": "Akritas delivered the final blow to the fire giant",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "room secured",
+    "fact": "The room was secured.",
+    "source_quote": "the room was secured",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "human prisoner",
+    "fact": "A human prisoner is held at the outpost and was noted as particularly beautiful.",
+    "source_quote": "the human prisoner was particularly beautiful",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Path of Shadows",
+    "fact": "The well in the storeroom is the entrance to the Path of Shadows.",
+    "source_quote": "entrance to the Path of Shadows",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "parade ground ambush",
+    "fact": "The party achieved complete surprise against their enemies.",
+    "source_quote": "The party achieved complete surprise.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur uses a fireball on the ogres from one of the arrow slits.",
+    "source_quote": "Felkur from one of the arrow slits, uses a fireball on the ogres.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur had modified his cannon with a cold infusion.",
+    "source_quote": "Felkur had modified his cannon with a cold infusion",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur targets the giant with his modified cannon.",
+    "source_quote": "and targets the giant.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas uses her oathsworn bow on the Fire Giant.",
+    "source_quote": "Akritas uses her oathsworn bow on the Fire Giant",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas casts hunter's mark on the Fire Giant.",
+    "source_quote": "casts hunter's mark",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas gets a critical hit doing over 50 points of damage.",
+    "source_quote": "and gets a critical doing over 50 points of damage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein opens the door.",
+    "source_quote": "Daein opens the door.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim casts spirit guardians.",
+    "source_quote": "Bramgrim casts spirit guardians",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim walks into the combat between the two ogres and the fire giant.",
+    "source_quote": "and walks into the combat between the two ogres and the fire giant.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim remembers too late that he could have moved out of melee range.",
+    "source_quote": "Bramgrim remembers, too late that he could have moved out of melee range.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "owlbear",
+    "fact": "The owlbear kills both of the ogres.",
+    "source_quote": "The owlbear kills both of the ogres.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas strikes the Fire Giant again.",
+    "source_quote": "Akritas strikes the Fire Giant again.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur strikes one of the ogres with firebolt.",
+    "source_quote": "Felkur strikes one of the ogres with firebolt",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur strikes the giant with his modified cannon.",
+    "source_quote": "and then strikes the giant with his modified cannon",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein misses with his first attack against the giant.",
+    "source_quote": "Daein misses with this first attack against the giant",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim tsks at Daein.",
+    "source_quote": "and Bramgrim tsk's tsk's",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein responds with a critical hit doing 17 points of damage.",
+    "source_quote": "Daein responds with a critical hit doing 17 points of damage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim is disappointed that Daein doesn't use an action surge.",
+    "source_quote": "Bramgrim is disappointed that Daein doesn't use an action surge",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim calls upon Akritas to show the fighter how it's done.",
+    "source_quote": "and calls upon Akritas to show the fighter how it's done.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas kills the Fire Giant before the creature had a chance to strike.",
+    "source_quote": "Akritas kills the Fire Giant, before the creature had a chance to strike.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas moves the hunter's mark onto one of the hell hounds.",
+    "source_quote": "She moves the hunters mark onto one of the hell hounds",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas strikes the hell hound.",
+    "source_quote": "and strikes it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur asks if they can get one of the Hellhounds as pets.",
+    "source_quote": "Felkur asks if they can get one of the Hellhounds as pets.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas explains that perhaps if she hadn't attacked them first, they could have been kept.",
+    "source_quote": "Akritas explains that perhaps if she hadn't attacked them, first.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur is very excited about the future potential of the hell hounds.",
+    "source_quote": "Felkur is very excited about the future potential.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Hell hound",
+    "fact": "One Hell hound attacks Daein with his bite.",
+    "source_quote": "One Hell hound attacks Daein with his bite.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Hell hound",
+    "fact": "One Hell Hound uses its fire breath on the Owlbear and Bramgrim.",
+    "source_quote": "One Hell Hounds use their fire breath on the Owlbear and Bramgrim.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim loses his concentration.",
+    "source_quote": "Bramgrim loses his concentration",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein tsks at Bramgrim.",
+    "source_quote": "and Daein - tsk's tsk's him back.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim casts spiritual weapon.",
+    "source_quote": "Bramgrim casts spiritual weapon",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim strikes one of the Hell hounds with spiritual weapon.",
+    "source_quote": "and strikes one of the Hell hounds.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Hell hound 3",
+    "fact": "Hell hound 3 uses his fire weapon on Bramgrim and the Owlbear.",
+    "source_quote": "Hell hound 3 uses his fire weapon on Bramgrim and the Owlbear",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim makes his saving throw against the fire weapon.",
+    "source_quote": "who both make their saving throws.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Owlbear",
+    "fact": "The Owlbear makes its saving throw against the fire weapon.",
+    "source_quote": "who both make their saving throws.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur uses his cannon to cause 17 points of ice damage on Hell Hound 1 and Hell Hound 2.",
+    "source_quote": "Felkur uses his cannon to cause 17 points of ice damage on Hell Hound 1 and Hell Hound 2",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Hell Hound 2",
+    "fact": "Hell Hound 2 dies from the ice damage.",
+    "source_quote": "and it dies.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas kills Hell Hound 1.",
+    "source_quote": "Akritas kills Hell Hound 1.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Hell hound 3",
+    "fact": "Hell Hound 3 runs to escape.",
+    "source_quote": "Hell Hound 3 runs to escape",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Hell hound 3",
+    "fact": "Hell Hound 3 succeeds in escaping.",
+    "source_quote": "and succeeds.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein voice acts the defeat of the party using Felkur's auditory illusion magic.",
+    "source_quote": "Daein voice acts the defeat of the party using Felkur's auditory illusion magic",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein convinces the other giants that the Fire Giant Sergeant won.",
+    "source_quote": "to convince the other giants that the Fire Giant Sergeant won",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "outpost exploration",
+    "fact": "The party explores the outpost, discovering a kennel and a room with a well.",
+    "source_quote": "The party then explores the outpost, discovering a kennel and a room with a well.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein uses his voice acting ability to describe the victory of the Fire Giants.",
+    "source_quote": "Daein uses his voice acting ability to describe the victory of the Fire Giants.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein makes the Fire Giant say that the human was particularly beautiful.",
+    "source_quote": "Daein makes the Fire Giant say that the human was particularly beautiful.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "the party",
+    "fact": "The party debates the best path forward.",
+    "source_quote": "The party debates the best path forward",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur argues to find the path through the outpost.",
+    "source_quote": "Felkur argues and the party agrees to find the path through the outpost.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "the party",
+    "fact": "The party agrees to find the path through the outpost.",
+    "source_quote": "Felkur argues and the party agrees to find the path through the outpost.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "the party",
+    "fact": "The party decides to not take a short rest.",
+    "source_quote": "The party decides to not take a short rest",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "the party",
+    "fact": "The party uses healing magic instead of a short rest.",
+    "source_quote": "and instead using healing magic.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "western wall door opening",
+    "fact": "The party opens the door on the western wall of the Great Hall.",
+    "source_quote": "The party opens the door on the western wall of the Great Hall.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "hallway beyond western door",
+    "fact": "Beyond the doorway there is a hallway with a doorway to the north, east, and south east.",
+    "source_quote": "Beyond the doorway they see a hallway with a doorway to the north, east, south east",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "hallway beyond western door",
+    "fact": "The hallway turns west some 35 feet away.",
+    "source_quote": "and then the hallway turns west some 35 feet away.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "the party",
+    "fact": "The party listens to the door directly across the exit from the Great Hall.",
+    "source_quote": "The party listens to the door directly across the exit from the Great Hall.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "the party",
+    "fact": "The party smells burned hair.",
+    "source_quote": "The party smells burned hair.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "the party",
+    "fact": "The party hears a Fire Giant mocking an ogre whose hair was burned by a hell hound.",
+    "source_quote": "The party hears a Fire Giant mocking an ogre whose hair was burned by a hell hound.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "the party",
+    "fact": "The party walks to the south east door and listens.",
+    "source_quote": "The party walks to the south east door and listens.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "the party",
+    "fact": "The party hears an ogre lifting water from a well.",
+    "source_quote": "Beyond the door they hear an ogre lifting water from a well",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "the party",
+    "fact": "The party hears another ogre grumbling.",
+    "source_quote": "another ogre grumbling",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "the party",
+    "fact": "The party hears a fire giant shouting at the ogres to hurry.",
+    "source_quote": "and a fire giant shouting at them to hurry.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "store room with well",
+    "fact": "Large crates and barrels line the floor and walls of the store room.",
+    "source_quote": "Large crates and barrels line the floor and walls of this room",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "crates and barrels",
+    "fact": "The crates and barrels are filled with dry foodstuffs, sluggish black ale, and other perishable food items.",
+    "source_quote": "filled with dry foodstuffs, sluggish black ale, and other perishable food items for the outpost.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "ogre",
+    "fact": "An ogre is pulling water out of a five foot wide trap door.",
+    "source_quote": "An ogre is pulling water out of a five foot wide trap door.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "fire giant",
+    "fact": "A fire giant is watching the ogre pull water.",
+    "source_quote": "A fire giant is watching him.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "ogre",
+    "fact": "Another ogre is sitting around bored.",
+    "source_quote": "Another ogre is sitting around bored.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "the party",
+    "fact": "The party realizes this is a likely entrance to the pool of water that leads to the Pathway of Shadows.",
+    "source_quote": "The party realizes this is a likely entrance to the pool of water that leads to the Pathway of Shadows",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Pathway of Shadows",
+    "fact": "The Pathway of Shadows leads to Maerimydra.",
+    "source_quote": "that leads to Maerimydra.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim casts silence to prevent anyone from hearing what is about to happen.",
+    "source_quote": "Bramgrim casts silence to prevent anyone from hearing what is about to happen.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein pushes the door open.",
+    "source_quote": "Daein pushes the door open.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "store room ambush",
+    "fact": "The ogres are surprised by everyone.",
+    "source_quote": "The ogres are surprised by everyone",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas surprises the Fire Giant.",
+    "source_quote": "and Akritas surprises the Fire Giant.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas strikes Ogre 2 twice with her bow.",
+    "source_quote": "Akritas strikes Ogre 2 twice with her bow.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Fire Giant",
+    "fact": "The Fire Giant strikes Daein with a critical doing 50 points of damage.",
+    "source_quote": "The Fire Giant strikes Daein with a critical doing 50 points of damage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein uses his psionic ability to reduce the damage from 50 to 45.",
+    "source_quote": "Daein uses his psionic ability to reduce it to from 50 to 45.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Fire Giant",
+    "fact": "The Fire Giant misses with his second attack.",
+    "source_quote": "The Fire Giant misses with his second attack.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "owlbear",
+    "fact": "The owlbear does 38 points of damage on ogre 2.",
+    "source_quote": "The owlbear does 38 points of damage on ogre 2.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur kills ogre 2.",
+    "source_quote": "Felkur kills ogre 2",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur uses his cannon on Ogre 1 and the Fire Giant.",
+    "source_quote": "and uses his cannon on Ogre 1 and the Fire Giant.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim casts a 5th level spirit guardian.",
+    "source_quote": "Bramgrim casts a 5th level spirit guardian",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim marches into combat.",
+    "source_quote": "and marches into combat.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Fire Giant",
+    "fact": "The Fire Giant misses its saving throw against spirit guardians.",
+    "source_quote": "Both the Fire Giant and the Ogre miss their saving throws",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Ogre 1",
+    "fact": "Ogre 1 misses its saving throw against spirit guardians.",
+    "source_quote": "Both the Fire Giant and the Ogre miss their saving throws",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "The Fire Giant and Ogre take 19 points of damage from spirit guardians.",
+    "source_quote": "and take 19 points of damage",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas casts hunter's mark on the Fire Giant.",
+    "source_quote": "Akritas casts hunter's mark on the Fire Giant",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas strikes twice with her bow doing 28 points of damage.",
+    "source_quote": "and strikes twice with her bow doing 28 points of damage.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "ogre",
+    "fact": "An ogre strikes Bramgrim.",
+    "source_quote": "An ogre strikes Bramgrim",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim loses concentration and the spirit guardian spell.",
+    "source_quote": "and he loses concentration and the spell.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein swings his sword and misses both times.",
+    "source_quote": "Daein swings his sword and misses both times.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein's attempt at revenge fails.",
+    "source_quote": "His attempt at revenge fails.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur attacks Ogre 1 with his firebolts.",
+    "source_quote": "Felkur attacks Ogre 1 with his firebolts",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur attacks both Ogre 1 and the Fire Giant with his cannon.",
+    "source_quote": "and both Ogre 1 and the Fire Giant with his cannon.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein attacks twice killing the Ogre 1.",
+    "source_quote": "Daein attacks twice killing the Ogre 1",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein uses an action surge.",
+    "source_quote": "Daein uses an action surge",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein hits the Fire Giant twice.",
+    "source_quote": "and hits the Fire Giant twice",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein winks at Bramgrim.",
+    "source_quote": "while winking at Bramgrim.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim explains that he could attack but he is a cleric of life.",
+    "source_quote": "Bramgrim explains that he could attack, but he's a cleric of life",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim states that healing is his calling.",
+    "source_quote": "and healing is his calling.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein shames Bramgrim.",
+    "source_quote": "But Daein shames Bramgrim",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim casts Mass Healing Word.",
+    "source_quote": "so the cleric casts Mass Healing Word",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim casts Toll the Dead.",
+    "source_quote": "and Toll the Dead.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Fire Giant",
+    "fact": "The Fire Giant takes 27 points of necrotic damage from Toll the Dead.",
+    "source_quote": "The Toll chimes, and the Giant takes 27 points of necrotic damage",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas uses her bow.",
+    "source_quote": "Akritas uses her bow",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas kills the Fire Giant.",
+    "source_quote": "and kills the Fire Giant.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Black Ember Outpost",
+    "fact": "The Black Ember Outpost is located in a huge cavern at the end of an endless Underdark tunnel.",
+    "source_quote": "The endless Underdark tunnel finally opens up into a huge cavern.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Black Ember Outpost",
+    "fact": "The cavern floor is smoother than usual and free of stalagmites and other natural formations.",
+    "source_quote": "The floor is much smoother in this cave than what you're used to, free of stalagmites and other natural formations",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Black Ember Outpost",
+    "fact": "A few stalactites cling to the ceiling several hundred feet above the cavern floor.",
+    "source_quote": "a few stalactites cling stubbornly to the ceiling several hundred feet above you",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Black Ember Outpost",
+    "fact": "A great, black fortress has been built into the wall of the cave in the southeastern corner.",
+    "source_quote": "In the southeastern corner a great, black fortress has been built into the wall of the cave",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Black Ember Outpost",
+    "fact": "Natural fungal illumination shines on the polished, worked stone of the structure.",
+    "source_quote": "Natural fungal illumination shines on the polished, worked stone of the structure",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Black Ember Outpost",
+    "fact": "Firelight is visible dancing through wide arrow slits in the fortress.",
+    "source_quote": "Through wide arrow slits you see firelight dancing",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Black Ember Outpost",
+    "fact": "The sound of raucous laughter and shouting echoes in the cave.",
+    "source_quote": "the sound of raucous laughter and shouting echo in the cave",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Black Ember Outpost",
+    "fact": "A set of obsidian double doors appear to be the entrance.",
+    "source_quote": "A set of obsidian double doors appear to be",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Great Hall",
+    "fact": "The Great Hall is a titanic chamber nearly one hundred feet wide and long inside the outpost.",
+    "source_quote": "Inside the outpost is a titanic chamber nearly one hundred feet wide and long",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "fire giant",
+    "fact": "A fire giant is inside the Great Hall.",
+    "source_quote": "Inside is a fire giant",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "marching lesson",
+    "fact": "The fire giant is attempting to teach ogres and hell hounds how to march.",
+    "source_quote": "attempting to teach ogres and hell hounds how to march",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "ogres",
+    "fact": "Ogres are present in the Great Hall.",
+    "source_quote": "teach ogres and hell hounds how to march",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "hell hounds",
+    "fact": "Hell hounds are present in the Great Hall.",
+    "source_quote": "teach ogres and hell hounds how to march",
+    "quote_verified": true
+  }
+]

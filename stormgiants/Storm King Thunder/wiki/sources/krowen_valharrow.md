@@ -57,7 +57,7 @@ related: []
 - **Sundered Ordning of the Giants**
   - **Name and Definition:** The fractured order of giants threatening the North.
   - **Matters:** Crucial to Krowen's goals and the overall narrative.
-  - **Existing Page:** Likely exists under [[sundered-ordinance-of-the-giants]].
+  - **Existing Page:** Likely exists under [[king-hekaton]].
 
 ### Main Arguments & Findings
 

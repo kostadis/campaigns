@@ -1,0 +1,86 @@
+[
+  {
+    "type": "npc",
+    "subject": "Sylvira",
+    "fact": "Sylvira was framed for the murder and is dying slowly under the poison's effect; she had every reason to tell everything she knew and no reasons left not to; she is bedridden and shuddering under fever but still capable of running a familiar and a mage hand from across the room, indicating she is not incapacitated.",
+    "source_quote": "The door opened before I knocked. A mage hand, which was interesting: she was bedridden and shuddering under a fever, and still running a familiar and a mage hand from across the room.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch's proposal for new criminal investigation methodologies was rejected by Janussi as solipsism and dismissed as a vanity project; Kalan then presented that same framework as his operating methodology to the investigation team, despite having been professionally humiliated by the victim.",
+    "source_quote": "Janussi had reviewed Kalan Strongbranch's proposal for new criminal investigation methodologies, found it to be solipsism, and had blocked it. He wasn't interested, he wrote, in creating all these rules and procedures so that Kalan could go detect a murder mystery.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi authored a scathing critique of Kalan Strongbranch's investigative framework, characterizing it as solipsism and a conceit pursued for personal entertainment; his notes were found on the third floor of his chambers, wrapped in paper that had once contained the poisoned book.",
+    "source_quote": "There was a note. 'Oh, a note! I read it.' The opening line landed like a thrown stone. 'Oh boy, this starts out with some real academic insult.'",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "wrapping paper",
+    "fact": "The wrapping paper that had enclosed the poisoned book was brought to Janussi\u2019s chambers and had not been retrieved as evidence; it was found on the third floor, linking the murder weapon to the location of Janussi\u2019s critical notes.",
+    "source_quote": "The paper that had wrapped the poisoned book had been brought here, and nobody had retrieved it. Evidence doesn't improve with age.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "third-story apartment",
+    "fact": "A third-story apartment with an open door in Janussi\u2019s chambers was unvisited and contained his private notes; it was the location where the wrapping paper and damning critique of Kalan were discovered.",
+    "source_quote": "There's something listed as a third-story apartment with an open door we haven't gone into. I'm gonna go look into that.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "rejection of Kalan's proposal",
+    "fact": "Janussi formally rejected Kalan Strongbranch\u2019s Threefold Proof methodology, labeling it solipsism and a professional conceit; this rejection occurred prior to his death and was documented in writing found in his chambers.",
+    "source_quote": "He wasn't interested, he wrote, in creating all these rules and procedures so that Kalan could go detect a murder mystery.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Alkrist's feast burning",
+    "fact": "There is an unflagged item in the list regarding what Alkrist burned at the feast; Grygum recalled this detail and recommended asking about it, suggesting a potential link between ritual destruction and the investigation.",
+    "source_quote": "When you talk to Alkrist, there's something in the list about what Alkrist burned at the feast \u2014 you should ask about that.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Menzoberranzan thread",
+    "fact": "The Menzoberranzan thread is implicated in the broader context of the investigation, influencing the choice of Daz as the interrogator due to his drow heritage and presumed familiarity with its networks.",
+    "source_quote": "Daz was the natural choice for it: he knew how to make someone talk, and he was drow, which was not irrelevant given what we knew about the Menzoberranzan thread running under all of this.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Janussi's third-floor chambers",
+    "fact": "Janussi\u2019s third-floor chambers were unexplored until Grygum\u2019s investigation; they contained his private notes, the wrapping paper from the poisoned book, and evidence of his reclusive and intimate habits.",
+    "source_quote": "The third floor was... well. 'Oh, well, that's not shocking. We kind of heard Janussi had these habits.'",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Sylvira's quarters",
+    "fact": "Sylvira\u2019s quarters served as the location of her interview; she remained physically compromised by poison and fever but retained magical autonomy, indicating deliberate resistance to incapacitation.",
+    "source_quote": "The door opened before I knocked. A mage hand, which was interesting: she was bedridden and shuddering under a fever, and still running a familiar and a mage hand from across the room.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "poison",
+    "fact": "A slow-acting poison is killing Sylvira; its effects are progressive and debilitating, yet she remains mentally and magically functional, suggesting the poison was designed to prolong suffering and extract information.",
+    "source_quote": "Sylvira was framed for the murder and dying slowly under the poison's effect.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "feast date",
+    "fact": "The feast during which Alkrist burned an unknown object occurred prior to the investigation; the timing is unrecorded but is now a flagged point of inquiry.",
+    "source_quote": "When you talk to Alkrist, there's something in the list about what Alkrist burned at the feast \u2014 you should ask about that.",
+    "quote_verified": true
+  }
+]

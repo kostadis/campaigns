@@ -60,7 +60,7 @@ related: []
 
 ### Connections to Existing Wiki
 - **Existing Pages:**
-  - [[marsh-civil-war]] — Relevant to the background of the conflict.
+  - [[marsh-politics]] — Relevant to the background of the conflict.
   - [[death-gaze]] — Relevance to her supernatural attack.
 - **Impact:**
   - Strengthens existing knowledge about the marsh civil war and supernatural attacks.
@@ -82,3 +82,13 @@ related: []
 - **Open Questions:**
   - Further explore the motivations behind her alliances and her eventual betrayal.
   - Investigate the aftermath of her death and its implications for the marsh civil war.
+
+## Related
+
+- [[nym]]
+- [[mary]]
+- [[princess_halani_meliame]]
+- [[silas_carras]]
+- [[tolmarra]]
+- [[mama_mia]]
+- [[queen_tatiana]]

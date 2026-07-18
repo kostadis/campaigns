@@ -54,9 +54,9 @@ related: []
 
 ### Connections to Existing Wiki
 - **Existing Pages:**
-  - [[Silverymoon city guard]]
-  - [[The Three Heroes of Pern]]
-  - [[Bob Saget]]
+  - [[yartar-city-guard-2026-06-06-002442]]
+  - [[refine-offer-of-ignorance-vs-transactional-allianc-2026-06-06-042019]]
+  - [[bob-saget]]
 - **Impact:**
   - Strengthens existing knowledge about Sir Cedric's character and his relationship with the 3HPP.
   - Provides additional context for Bob Saget's influence on the Silverymoon city guard.
@@ -67,9 +67,15 @@ related: []
 
 ### Recommendations
 - **Pages to Create or Update:**
-  - [[Sir Cedric Hollowcrest]]
+  - [[sir_cedric_hollowcrest]]
 - **Emphasis:**
   - Highlight Sir Cedric's admiration for Bob Saget's work and its impact on his behavior.
 - **Open Questions:**
   - Further explore Sir Cedric's interactions with the 3HPP and how his admiration influences his actions.
   - Investigate if there are any other instances where his admiration for Bob Saget's work manifests in his duties.
+
+## Related
+
+- [[the_harper_agent]]
+- [[the_wight_elquen]]
+- [[taern_hornblade]]

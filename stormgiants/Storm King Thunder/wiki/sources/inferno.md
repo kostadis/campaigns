@@ -26,7 +26,7 @@ related: []
 - **Strength of Evidence:** The evidence comes from the description of the statue and the reaction it caused, implying Inferno's existence and the nature of his pact.
 
 ### Connections to Existing Wiki
-- **Existing Pages:** [[dracolich]], [[undead]], [[pact]]
+- **Existing Pages:** [[dracolich]], [[will-o-wisps]], [[pact]]
 - **Knowledge Strengthened:** The concept of Dracoliches and the nature of their creation through forbidden pacts is reinforced.
 - **Knowledge Extended:** The specific details about Inferno's role and the circumstances of his transformation provide additional depth to the lore.
 
@@ -34,6 +34,6 @@ related: []
 - **Internal Tension:** There is no direct evidence of Inferno's current status (alive, destroyed, or active). His existence is only confirmed through the statue and its effects.
 
 ### Recommendations
-- **Create or Update:** [[inferno]], [[dracolich]], [[undead]], [[pact]]
+- **Create or Update:** [[inferno]], [[dracolich]], [[will-o-wisps]], [[pact]]
 - **Emphasize:** The historical significance of Inferno and the nature of his transformation.
 - **Open Question:** Determine if Inferno is still active or destroyed, and clarify his current status.

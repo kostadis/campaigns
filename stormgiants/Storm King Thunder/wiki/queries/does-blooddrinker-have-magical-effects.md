@@ -11,6 +11,7 @@ sources: ["blooddrinker.md"]
 - **Question:** Investigate the full extent of the magical effects of the cursed cave and Blooddrinker's behavior post-death.
 
 ## Related Concepts
+- [[investigation-of-the-stone-chest-and-blooddrinkers-2026-06-05-193850]]
 - **Cursed Cave:** Magical effects tied to Blooddrinker's behavior post-death
 
 ## Related Entities

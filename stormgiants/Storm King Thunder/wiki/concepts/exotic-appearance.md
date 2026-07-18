@@ -12,4 +12,5 @@ sources: ["blooddrinker.md"]
 - **Central to story:** Noted in Blooddrinker's appearance
 
 ## Related Entities
+- [[magical-goods-trade]]
 - **Blooddrinker:** Exhibits unusual physical characteristics due to the cave's magical curse

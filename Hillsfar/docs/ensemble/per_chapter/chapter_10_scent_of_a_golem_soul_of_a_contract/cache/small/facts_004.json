@@ -1,0 +1,576 @@
+[
+  {
+    "type": "location",
+    "subject": "Spire of Inevitable Reckoning",
+    "fact": "The Spire of Inevitable Reckoning is a tower within Maerimydra hosted by the arcanaloth Vraxen.",
+    "source_quote": "A tower within Maerimydra hosted by the arcanaloth Vraxen",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "party infiltration",
+    "fact": "The party infiltrated the Spire of Inevitable Reckoning posing as merchants.",
+    "source_quote": "The party infiltrated it posing as merchants",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "key theft",
+    "fact": "The party stole a key at dinner.",
+    "source_quote": "stole a key at dinner",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "vault ascent",
+    "fact": "The party worked their way up through trapped corridors, a stone golem, and a high-security vault.",
+    "source_quote": "worked their way up through trapped corridors, a stone golem, and a high-security vault",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Glyph-Warded Corridor",
+    "fact": "The Glyph-Warded Corridor is a 50-foot long hallway within the spire.",
+    "source_quote": "A 50-foot long hallway within the spire",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "glyph placement",
+    "fact": "Many tiles in the corridor floor are enchanted with Glyphs of Warding on tiles corresponding to prime numbers.",
+    "source_quote": "many of which are enchanted with Glyphs of Warding on tiles corresponding to prime numbers",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Vault of Oaths",
+    "fact": "The Vault of Oaths is a 30-by-30-foot temperature-controlled chamber kept at a constant 55 degrees Fahrenheit.",
+    "source_quote": "A 30-by-30-foot temperature-controlled chamber kept at a constant 55 degrees Fahrenheit",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "soul coins",
+    "fact": "The walls of the Vault of Oaths are lined with shelves containing soul coins.",
+    "source_quote": "walls are lined with shelves containing soul coins",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "infernal ledgers",
+    "fact": "The walls of the Vault of Oaths are lined with shelves containing infernal ledgers.",
+    "source_quote": "shelves containing soul coins and infernal ledgers",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Lexicon of Oaths",
+    "fact": "The Lexicon of Oaths rests on a central pedestal beneath a crystal dome in the Vault of Oaths.",
+    "source_quote": "with the Lexicon of Oaths resting on a central pedestal beneath a crystal dome",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Spire of Inevitable Reckoning Peak",
+    "fact": "The peak of the Spire of Inevitable Reckoning is a 60-foot diameter chamber at the top of the tower.",
+    "source_quote": "A 60-foot diameter chamber at the top of the tower",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "chamber exposure",
+    "fact": "The peak chamber is open to poisonous clouds above.",
+    "source_quote": "open to poisonous clouds above",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "teleportation circle",
+    "fact": "A 20-foot diameter permanent teleportation circle glows with sickly green energy in the peak chamber.",
+    "source_quote": "featuring a 20-foot diameter permanent teleportation circle glowing with sickly green energy",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "iron door",
+    "fact": "A single iron door leads to the interior staircase from the peak chamber.",
+    "source_quote": "a single iron door leading to the interior staircase",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Vraxen",
+    "fact": "Vraxen is an arcanaloth and host of the Spire of Inevitable Reckoning.",
+    "source_quote": "An arcanaloth and host of the Spire of Inevitable Reckoning",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "golem bypass requirement",
+    "fact": "Vraxen's scent is required to bypass the stone golem guarding the vault.",
+    "source_quote": "His scent is required to bypass the stone golem guarding the vault",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Vraxen's betrayal plans",
+    "fact": "Vraxen's personal journal reveals plans to betray his Yugoloth superiors.",
+    "source_quote": "his personal journal\u2014found in the vault\u2014reveals plans to betray his Yugoloth superiors",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Veperyd",
+    "fact": "Veperyd is a fire giant infused with demonic blood who attended the dinner at the Spire of Inevitable Reckoning.",
+    "source_quote": "A fire giant infused with demonic blood who attended the dinner at the Spire of Inevitable Reckoning",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Veperyd confrontation",
+    "fact": "Veperyd was drawn into the three-way confrontation engineered by the party.",
+    "source_quote": "was drawn into the three-way confrontation engineered by the party",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Veris",
+    "fact": "Veris is a High Inquisitor of Mulmaster who attended the dinner.",
+    "source_quote": "A High Inquisitor of Mulmaster who attended the dinner",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Veris hunting Felkur",
+    "fact": "Veris was secretly hunting Felkur.",
+    "source_quote": "secretly hunting Felkur",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Veris injury",
+    "fact": "Veris was injured from the three-way battle below.",
+    "source_quote": "Injured from the three-way battle below",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Veris pursuit",
+    "fact": "Veris pursues the party to the top of the spire.",
+    "source_quote": "he pursues the party to the top of the spire",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Veris fury over forgery",
+    "fact": "Veris is furious over the forgery left in the Lexicon of Oaths.",
+    "source_quote": "furious over the forgery left in the Lexicon of Oaths",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Veris teleportation",
+    "fact": "Veris eventually teleports into the portal chamber to confront the party directly.",
+    "source_quote": "eventually teleports into the portal chamber to confront them directly",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Owlbear",
+    "fact": "The Owlbear is the party's loyal sidekick.",
+    "source_quote": "The party's loyal sidekick",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Owlbear commotion",
+    "fact": "The Owlbear caused a commotion by jumping on the magical table during dinner.",
+    "source_quote": "caused a commotion by jumping on the magical table during dinner",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Owlbear scent pickup",
+    "fact": "The Owlbear inadvertently picked up Vraxen's scent.",
+    "source_quote": "inadvertently picking up Vraxen's scent",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Owlbear staircase block",
+    "fact": "The Owlbear used his bulk to help block the staircase door.",
+    "source_quote": "used his bulk to help block the staircase door",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Owlbear golem engagement",
+    "fact": "The Owlbear engaged the stone golem in melee with his magical claws.",
+    "source_quote": "engaged the stone golem in melee with his magical claws",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Stone Golem",
+    "fact": "The Stone Golem is a mindless magical construct guarding the vault door.",
+    "source_quote": "A mindless magical construct guarding the vault door",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Stone Golem scent requirement",
+    "fact": "The Stone Golem requires Vraxen's scent to allow passage.",
+    "source_quote": "that requires Vraxen's scent to allow passage",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Second Stone Golem",
+    "fact": "A second stone golem later accompanies Varexis to the portal chamber.",
+    "source_quote": "A second stone golem later accompanies Varexis to the portal chamber",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Second Stone Golem door smash",
+    "fact": "The second stone golem smashes the iron door off its hinges to gain entry.",
+    "source_quote": "smashing the iron door off its hinges to gain entry",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Limping Oric",
+    "fact": "Limping Oric is a fence from Daggerford.",
+    "source_quote": "A fence from Daggerford",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Limping Oric purchase",
+    "fact": "Limping Oric purchased a stolen artifact from a drunken Felkur for 45 gold pieces.",
+    "source_quote": "purchased a stolen artifact from a drunken Felkur for 45 gold pieces",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Limping Oric memory loss",
+    "fact": "Limping Oric could not remember who sold the brooch to him due to the brooch's magic.",
+    "source_quote": "Due to the brooch's magic, he could not remember who sold it to him",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Phantom Ghost legend",
+    "fact": "Limping Oric's memory loss inadvertently created the legend of the Phantom Ghost.",
+    "source_quote": "inadvertently creating the legend of the Phantom Ghost",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Stolen Key",
+    "fact": "Daein took the Stolen Key from the obsidian table during the dinner at the Spire of Inevitable Reckoning.",
+    "source_quote": "A key taken by Daein from the obsidian table during the dinner at the Spire of Inevitable Reckoning",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "key usage",
+    "fact": "The Stolen Key was used to access the lift and upper levels of the tower.",
+    "source_quote": "used to access the lift and upper levels of the tower",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Lexicon of Oaths",
+    "fact": "The Lexicon of Oaths is a massive tome bound in devil hide and stitched together.",
+    "source_quote": "A massive tome bound in devil hide and stitched together",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Lexicon of Oaths pages",
+    "fact": "The pages of the Lexicon of Oaths are made from processed souls that glow with an inner light.",
+    "source_quote": "with pages made from processed souls that glow with an inner light",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Lexicon function",
+    "fact": "The Lexicon of Oaths automatically records and updates all infernal contracts in Maerimydra.",
+    "source_quote": "It automatically records and updates all infernal contracts in Maerimydra",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Felkur sale record",
+    "fact": "The Lexicon of Oaths contained the record of Felkur's drunken sale of a priceless artifact.",
+    "source_quote": "it contained the record of Felkur's drunken sale of a priceless artifact",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Felkur entry alteration",
+    "fact": "Felkur subsequently altered the entry regarding the sale in the Lexicon of Oaths.",
+    "source_quote": "an entry Felkur subsequently altered",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "The Watcher's Eye Brooch",
+    "fact": "The Watcher's Eye Brooch is a priceless artifact belonging to the wizards of the Brotherhood of the Cloak.",
+    "source_quote": "A priceless artifact belonging to the wizards of the Brotherhood of the Cloak",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Felkur theft",
+    "fact": "Felkur unknowingly stole the Watcher's Eye Brooch while drunk.",
+    "source_quote": "that Felkur unknowingly stole while drunk",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Felkur sale to Oric",
+    "fact": "Felkur sold the Watcher's Eye Brooch to Limping Oric for 45 gold.",
+    "source_quote": "and sold to Limping Oric for 45 gold",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Brooch activation",
+    "fact": "Felkur's drunken fiddling accidentally activated the brooch's special ability.",
+    "source_quote": "His drunken fiddling accidentally activated its special ability",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Brooch divination immunity",
+    "fact": "The brooch makes the wearer impervious to being located by divination magic.",
+    "source_quote": "making the wearer impervious to being located by divination magic",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Shard of crystallized Faerzess",
+    "fact": "Felkur pocketed a Shard of crystallized Faerzess found in the vault.",
+    "source_quote": "A large, pure crystal found in the vault and pocketed by Felkur",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Shard function",
+    "fact": "The Shard of crystallized Faerzess functions like a wand of the mage for an artificer's abilities.",
+    "source_quote": "It functions like a wand of the mage for an artificer's abilities",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Shard bonus",
+    "fact": "The Shard of crystallized Faerzess grants a bonus to any artificer ability used.",
+    "source_quote": "granting a bonus to any artificer ability used",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Faerzess Crystals from Singed Veil",
+    "fact": "The party collected specialized arcane crystals from Singed Veil prior to this session.",
+    "source_quote": "Specialized arcane crystals collected by the party prior to this session",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Faerzess recalibration",
+    "fact": "Felkur used the Faerzess Crystals from Singed Veil to recalibrate the permanent teleportation circle at the spire's peak.",
+    "source_quote": "used by Felkur to recalibrate the permanent teleportation circle at the spire's peak",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Faerzess time buffer",
+    "fact": "Felkur used the Faerzess Crystals from Singed Veil to buy additional time in case concentration is lost.",
+    "source_quote": "and buy additional time in case concentration is lost",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Scent Extraction Mechanism",
+    "fact": "The Scent Extraction Mechanism is one of Felkur's personal gadgets originally kept to extract unpleasant flavors from food.",
+    "source_quote": "One of Felkur's personal gadgets, originally kept to extract unpleasant flavors from food",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Scent extraction from Owlbear",
+    "fact": "Felkur used the Scent Extraction Mechanism to extract Vraxen's scent from the Owlbear.",
+    "source_quote": "Used here to extract Vraxen's scent from the Owlbear",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Golem deception",
+    "fact": "The extracted scent allowed the party to fool the stone golem's security measure.",
+    "source_quote": "so the party could fool the stone golem's security measure",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Eldritch Cannon",
+    "fact": "Felkur deployed an Eldritch Cannon during the portal chamber battle.",
+    "source_quote": "A magical device deployed by Felkur during the portal chamber battle",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Eldritch Cannon firing",
+    "fact": "The Eldritch Cannon fires blasts of fire at enemies.",
+    "source_quote": "that fires blasts of fire at enemies",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Felkur concentration",
+    "fact": "Felkur maintained concentration on recalibrating the teleportation circle while the Eldritch Cannon fired.",
+    "source_quote": "while he maintains concentration on recalibrating the teleportation circle",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Magical Mandolin",
+    "fact": "The Magical Mandolin is an instrument belonging to Daein used to channel magic.",
+    "source_quote": "An instrument belonging to Daein used to channel magic",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Invisibility spell casting",
+    "fact": "Daein used the Magical Mandolin to cast an invisibility spell on Felkur during the portal chamber battle.",
+    "source_quote": "specifically employed to cast an invisibility spell on Felkur during the portal chamber battle",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "True Seeing cast",
+    "fact": "Bramgrim cast True Seeing to see through illusions and magical concealment.",
+    "source_quote": "Cast by Bramgrim to see through illusions and magical concealment",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Tile identification",
+    "fact": "Bramgrim used True Seeing to identify which tiles in the corridor were trapped with Glyphs of Warding.",
+    "source_quote": "Used first to identify which tiles in the corridor were trapped with Glyphs of Warding",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Vault trap confirmation",
+    "fact": "Bramgrim maintained True Seeing into the vault to confirm the room was free of additional traps.",
+    "source_quote": "and maintained into the vault to confirm the room was free of additional traps",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Secret door location",
+    "fact": "Bramgrim used True Seeing to help locate a secret door.",
+    "source_quote": "and to help locate a secret door",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Glyph of Warding",
+    "fact": "Glyphs of Warding are magical traps placed on specific floor tiles in the corridor corresponding to prime numbers.",
+    "source_quote": "A magical trap placed on specific floor tiles in the corridor corresponding to prime numbers",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Glyph explosion trigger",
+    "fact": "The Glyphs of Warding are designed to explode if stepped upon by unauthorized individuals.",
+    "source_quote": "designed to explode if stepped upon by unauthorized individuals",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Glyph detection by Felkur",
+    "fact": "Felkur detected the Glyphs of Warding via investigation.",
+    "source_quote": "Detected by Felkur's investigation",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Glyph revelation by Bramgrim",
+    "fact": "Bramgrim's True Seeing fully revealed the Glyphs of Warding.",
+    "source_quote": "and later fully revealed by Bramgrim's True Seeing",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sanctuary cast",
+    "fact": "Bramgrim cast Sanctuary on Felkur to prevent enemies from targeting the gnome with direct melee attacks.",
+    "source_quote": "Cast by Bramgrim on Felkur to prevent enemies from targeting the gnome with direct melee attacks",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sanctuary purpose",
+    "fact": "Bramgrim cast Sanctuary while Felkur concentrated on recalibrating the teleportation circle.",
+    "source_quote": "while he concentrated on recalibrating the teleportation circle",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Invisibility cast",
+    "fact": "Daein cast Invisibility using his magical mandolin to hide Felkur from sight.",
+    "source_quote": "Cast by Daein using his magical mandolin to hide Felkur from sight",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Felkur hiding",
+    "fact": "The Invisibility spell allowed Felkur to work on the portal's mechanisms from behind a pillar without being easily targeted.",
+    "source_quote": "allowing the gnome to work on the portal's mechanisms from behind a pillar without being easily targeted",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Spirit Guardians cast",
+    "fact": "Bramgrim cast Spirit Guardians at fifth level.",
+    "source_quote": "Cast by Bramgrim at fifth level",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Spirit Guardians summoning",
+    "fact": "Spirit Guardians summoned spectral guardians that swirled around both the stone golem and Varexis.",
+    "source_quote": "summoning spectral guardians that swirled around both the stone golem and Varexis",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Golem damage",
+    "fact": "The Spirit Guardians dealt significant damage to the stone golem.",
+    "source_quote": "dealing significant damage to the golem",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Varexis resistance",
+    "fact": "Varexis resisted the Spirit Guardians partially.",
+    "source_quote": "while Varexis resisted partially",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Hunter's Mark cast",
+    "fact": "Akritas placed a Hunter's Mark mystical brand on the stone golem.",
+    "source_quote": "A mystical brand placed by Akritas on the stone golem",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Hunter's Mark effect",
+    "fact": "The Hunter's Mark increases the damage of Akritas's strikes against the stone golem.",
+    "source_quote": "to increase the damage of her strikes against it",
+    "quote_verified": true
+  }
+]

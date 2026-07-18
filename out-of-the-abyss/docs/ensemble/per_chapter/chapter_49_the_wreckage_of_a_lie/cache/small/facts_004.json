@@ -1,0 +1,135 @@
+[
+  {
+    "type": "npc",
+    "subject": "Jorlan",
+    "fact": "Jorlan committed to advancing across the bridge despite the glyph trap, demonstrating total confidence that proved fatal \u2014 he took full force of the detonation and was left reeling, unable to evade the follow-up strike.",
+    "source_quote": "He came across that bridge like a man who had already decided the outcome.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum devised and triggered the glyph trap, baiting Jorlan with taunts and expressing genuine surprise when it succeeded \u2014 his tactical gamble on ego over awareness paid off.",
+    "source_quote": "Come get it, idiot.\" && \"I didn't expect it to work.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz calculated the battlefield and chose to cast the Dust of Suleiman and a concentrated Fireball despite resource cost, targeting Ilvara and the Zuggtmoy icon simultaneously to maximize disruption.",
+    "source_quote": "The priorities are clear: Ilvara, and the icon. In that order, or really in no particular order \u2014 they're the same problem wearing different faces.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara",
+    "fact": "Ilvara absorbed the combined effects of the Fireball and glyph detonation, taking punishment she hadn't budgeted for \u2014 her position was compromised, and she was left vulnerable.",
+    "source_quote": "Ilvara absorbing punishment she hadn't budgeted for",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "spore servant",
+    "fact": "Twenty-one spore servants were caught in the glyph detonation \u2014 one was obliterated, others staggered and barely held together, their cohesion shattered by the blast.",
+    "source_quote": "One servant came apart completely. Just gone. The others staggered; I watched one barely hold together, listing like a wall with one stone pulled from its base.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Zuggtmoy icon",
+    "fact": "The Zuggtmoy icon, representing a living seed of corruption, was targeted by Daz\u2019s Fireball and rendered unstable \u2014 its presence on the battlefield was no longer passive but actively dangerous.",
+    "source_quote": "A Zuggtmoy-aligned symbol of office left standing is not a symbol \u2014 it's a seed. You don't leave seeds.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "glyph detonation",
+    "fact": "The glyph detonated with force and light in a 21-damage sphere, obliterating one spore servant and crippling Jorlan and the others \u2014 it was a tactical gamble on ego overriding awareness that succeeded.",
+    "source_quote": "Force and light erupted outward in a sphere, the kind of detonation that doesn't care who's in the way.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "fireball impact",
+    "fact": "Daz\u2019s concentrated Fireball at fourth level overlapped with the glyph\u2019s effects, exceeding the damage potential of either spell alone \u2014 the cavern was momentarily and magnificently wrong in all the right ways.",
+    "source_quote": "The two effects overlapped in a way that exceeded what either spell would have done alone.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Dust of Suleiman",
+    "fact": "The Dust of Suleiman was cast directly onto the Big Heart Fungus \u2014 a high-cost resource deployed despite risk, because the fungus had already demonstrated what it was willing to do.",
+    "source_quote": "This was not a small resource. I made the decision anyway, because the creature had already demonstrated what it was willing to do to us.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Glyph",
+    "fact": "The Glyph was a trap laid on the bridge as a bait \u2014 its activation relied on Jorlan\u2019s predictable ego-driven advance, turning his confidence into his downfall.",
+    "source_quote": "We'd laid it on the bridge like a welcome mat, and then the whole job was just: don't stand on it yourself, and wait.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "bridge",
+    "fact": "The bridge was the chosen site for the glyph trap \u2014 a narrow, defensible chokepoint where Jorlan\u2019s advance was inevitable and his evasion impossible.",
+    "source_quote": "He came across that bridge like a man who had already decided the outcome.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "cavern",
+    "fact": "The cavern became a zone of cascading magical disruption after the glyph and fireball detonated \u2014 the environment itself was warped by overlapping effects.",
+    "source_quote": "The cavern went briefly and magnificently wrong in all the right ways.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Big Heart Fungus",
+    "fact": "The Big Heart Fungus remains standing and anchoring the far end of the battlefield \u2014 its continued existence is the root cause of the conflict and the reason Zalthir hovers above the fight.",
+    "source_quote": "The fungus was still standing. Still anchoring the far end of the battlefield. Still the reason Zalthir was hovering above the fight instead of in it.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Asha\u2019s stakes",
+    "fact": "The mission\u2019s true stakes are tied to Asha \u2014 her words and warnings persistently surface in Daz\u2019s calculations, making the Zuggtmoy icon more than a target \u2014 it\u2019s a personal obligation.",
+    "source_quote": "The stakes are not abstract. The stakes are Asha, and everything she told me...",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Zuggtmoy cult",
+    "fact": "The Zuggtmoy cult is represented by the icon on the battlefield \u2014 its presence signals active corruption, and its survival would allow the seed of its influence to spread.",
+    "source_quote": "A Zuggtmoy-aligned symbol of office left standing is not a symbol \u2014 it's a seed.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session time",
+    "fact": "The events occurred within a ten-minute window \u2014 the battlefield shifted dramatically from a merely dangerous space to one of cascading magical disruption.",
+    "source_quote": "a space that had, ten minutes ago, been merely dangerous",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "bait the ego, trust the glyph, commit the resource, let Daz do what Daz does",
+    "fact": "The successful tactic combined psychological manipulation, precise timing, resource expenditure, and trusting a specialist\u2019s instincts \u2014 this combination is now a documented pattern for future engagements.",
+    "source_quote": "I noted the specific combination of factors that had produced that outcome: bait the ego, trust the glyph, commit the resource, let Daz do what Daz does.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin engaged Jorlan immediately after the glyph detonation, delivering a critical Dawnbringer strike and following up with a Sap to leave him disadvantaged \u2014 his aggression capitalized on the chaos.",
+    "source_quote": "I was already closing on Jorlan. The explosion was still ringing through the cavern when Dawnbringer came down \u2014 crit, the blade's light cutting into him hard and clean, 14 damage landing exactly where it needed to.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Dawnbringer blade",
+    "fact": "The Dawnbringer blade delivered a critical strike to Jorlan after the glyph \u2014 its holy light cut cleanly, dealing 14 damage and exploiting his vulnerability from the earlier blast.",
+    "source_quote": "Dawnbringer came down \u2014 crit, the blade's light cutting into him hard and clean, 14 damage landing exactly where it needed to.",
+    "quote_verified": true
+  }
+]

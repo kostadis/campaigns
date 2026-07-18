@@ -1,5 +1,18 @@
 # Candlekeep — Day 4 (Sessions 7–8)
 
+> ## ⚠️ SUPERSEDED on the re-keyed points — re-cut into `candlekeep_vault_session.md`
+> The finale **spine is intact** (six cryptogram clues, the riddle, the four
+> load-bearing Echoes, the Book-of-Vile-Darkness choice, Eldeth's letter — all
+> **still correct here** and referenced by the re-cut). What's **wrong now** for
+> the post-Monday path: **Sylvira is present as a Path-B archmage ally** (she was
+> **skipped** — absent by default, so no free cryptogram clues, no ambush opener,
+> and **no one holds the Vault door** but the party/Daz); the **key-state** out of
+> Monday (decoy vs. real) routes whether the party chases or races level; and the
+> **institutional cleanup** has **Kalan dead → Tadric acting Gatewarden** (Kalan
+> **lives → reinstated Gatewarden**). Prep the finale from
+> **`candlekeep_vault_session.md`**; use this file for the **verbatim blocks** it
+> points back to. Current map: **`candlekeep_arc_flowchart_v2.md`.**
+
 GM-facing tactical script for **in-fiction Day 4** — *the day
 the Vault opens.* Two real-world sessions cover this day:
 

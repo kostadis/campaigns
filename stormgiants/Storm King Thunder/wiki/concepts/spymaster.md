@@ -17,3 +17,7 @@ Concept referring to Hsing's role as a spymaster. Central to the narrative and o
 ## Notes
 - Hsing's role as a spymaster.
 - Central to Hsing's authority and strategy.
+
+## Related
+
+- [[secret-organization]]

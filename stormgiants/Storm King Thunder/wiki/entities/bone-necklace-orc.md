@@ -9,4 +9,10 @@ sources: ["the_orc_scout.md"]
 ---
 # Bone-Necklace Orc
 
-A superior officer within an orc raiding party near Neverwinter Wood. He is characterized by a strict disciplinary approach, having berated [[the-orc-scout]] for being distracted by [[soma]] during a coordinated ambush.
+A superior officer within an orc raiding party near Neverwinter Wood. He is characterized by a strict disciplinary approach, having berated [[the-orc-scout]] for being distracted by soma during a coordinated ambush.
+
+## Related
+
+- [[the_anchorite_half_orc]]
+- [[talosian-orc-raiding-party]]
+- [[the-anchorite-half-orc]]

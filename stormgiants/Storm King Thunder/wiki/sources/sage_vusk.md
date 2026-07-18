@@ -39,3 +39,8 @@ related: []
 - **Update Pages**: "Cambions", "Fiendish Charm", "Lady's College, Silverymoon".
 - **Emphasize**: The nuanced view of Cambions presented by Vusk, highlighting both scholarly consensus and tactical intelligence.
 - **Open Question**: Investigate further into Vusk’s reasons for traveling to Silverymoon and the relevance of his traditionalist views to potential future encounters.
+
+## Related
+
+- [[bob_saget]]
+- [[uthor]]

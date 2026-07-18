@@ -46,3 +46,7 @@ related: []
 - **Create Pages:** Create pages for Hork Gethorn and Vardis.
 - **Emphasize:** Highlight the meat pie shop owner concept and its relevance to Mirabar.
 - **Open Questions:** Consider adding more details about the infestation and its impact on Hork’s business.
+
+## Related
+
+- [[hork-gethorn]]

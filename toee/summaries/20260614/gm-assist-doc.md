@@ -1,0 +1,296 @@
+# Chapter 29 Elemental Management: Now With More Talking Swords 
+
+
+## zephyr — The Battle in the Fire Temple Continues
+
+The salamander hissed and the world contracted. One moment I was moving — I am always moving, that is the entire trade — and the next there were coils around me, scalding through the cloth, and the only question left was whether I could tear free before it decided what to do with me.
+
+*Tear free.* I braced wrong. I always think of the wrong muscle under pressure, and for one absurd half-second I was certain this was about endurance, about lasting, when it was about ripping loose right now. By the time my body corrected, the moment had passed. I pulled. I came up one breath short of free.
+
+*Really, Ms. Fortune?*
+
+She has a sense of humor, my luck, and it is not a kind one. Restrained. Held. Pinned. The thing now had every advantage in the world and the whole pit knew it.
+
+The spear came next.
+
+I have heard of worse in the Abyss, but this was bad. The coils crushed first — ribs arguing with stone, the breath driven out of me — and then the spear drove in trailing fire, and fire is its own kind of theft. It doesn't hurt the way a blade hurts. It takes. It went through me searing and the heat clung after, the way it clings to skin long after the steam corridors, except this was inside, this was the marrow, and somewhere in the white edge of it I understood that one more like that and there would be no third act for the tiefling.
+
+But I am a rogue. The body knows the trick before the mind asks for it — slide with the worst of it, let the largest blow glance instead of land, seize the half-instant and breathe. I turned the worst of it aside. The fire I could not. Fire is not an attack you dodge; it is a fact you survive.
+
+An age of pain, and I survived it. Barely. The margin had gotten thin enough to read a newspaper through.
+
+So I did what I do when I cannot move: I watched.
+
+The second salamander turned toward Sequoia, reconsidered, and decided Calmer was the better meal. A poor decision. Our cleric stood wrapped in his frost-shield, the cold haze of it rolling off his plate, and the salamander's first thrown bolt went wide of him, and the second went wider still. *They keep throwing. They keep missing.* The shield did its work, or the creature's aim did mine for it.
+
+Sequoia answered. He led with the vexing blade — first the setup, the cut that opens the guard, then the real one slid in behind it with all the weight of a knife that knew it was unwatched. A shallow cut to open him, then a clean killing line riding the opening, and then he was gone, slipped clean out of reach, already three steps from where he'd struck. Tidy. I'd have done it the same.
+
+Then Zinnia. She does not narrate. She charges. She picked the wounded one and went straight through it — slap, slap, slap, the whole drumroll — and it simply stopped existing. One blow, the right one, and the thing was a corpse before it finished hissing. She turned to the last one, the one still whole, and opened it up for good measure. She never misses. It is genuinely irritating how rarely she misses.
+
+Calmer lifted his voice and called the death-knell down — that low toll that hollows things out, the bell that rings for what is already dying. The last salamander shrugged it off. Of course it did. Even with the whole pit against it, even bleeding, the thing refused the easy ending.
+
+And then it did something I did not expect.
+
+It stopped. It knelt. It set its flaming spear down on the stone.
+
+I did not trust it. Because I have surrendered to people before — it is a marvelous thing to do when you intend to put a dagger in them the second they relax. A creature of pure fire does not kneel out of mercy; it does not feel mercy; mercy is not in its furnace. So either it had made a cold reckoning and decided the odds did not favor dying here — which I respect, which is the most honest thing a creature can do — or it was buying a breath the way I would buy one.
+
+*This man is calculating something, but I do not know what it is.* Salamander, then. Same problem.
+
+I stayed where the coils had left me, ribs screaming, the fire still ebbing out of my bones, and I watched the kneeling thing the way you watch a deal that has resolved too easily. Nobody surrenders to people they think will lose. Which meant it had decided we would win.
+
+The question worth my breath was: what did it want for the privilege of telling us so?
+
+---
+
+## zinnia — The Infernal Contract
+
+The salamander stopped fighting. It knelt. It set its weapon down — point to the floor, both hands open.
+
+*Surrender.* I read it before I'd finished thinking the word. A creature made of heat does not kneel unless the odds have already turned against it.
+
+The problem was language. No one in the room shared one with it. I speak common. Sequoia ran through his list — common, giant, orc, thieves', undercommon, and one more nobody could place — and none of it touched whatever a fire salamander speaks. So we did it the way you do it when you have no shared tongue: gestures, posture, the slow reading of intent off a body that wants to be understood. Sequoia watched the creature's hands. Calmer steadied him. Between them they decoded the obvious thing first — it was done fighting, and it was open to an arrangement.
+
+Then Zephyr did what Zephyr does. He convinced it, with no words at all, that we were the new kings of this place. I watched the salamander take it in and accept it. The creature stood, pointed at the fire pit. The treasure was ours now. New bosses, new claim.
+
+And then it offered the thing I'd been waiting for without knowing it. A contract.
+
+The moment Zephyr touched it, the script rearranged itself on the page — letters sliding into something he could read. He didn't flinch. *He's seen these before.* Tieflings know this paper. He read it through, top to bottom, and I watched his eyes stop on the clauses near the end, the ones written to take more than service. The ones that buy a piece of the signer along with his signature. He struck them out. Soul, ownership, whatever the thing was reaching for — gone, lines drawn through it in his own hand before he'd spent a drop of blood.
+
+The salamander shrugged. No outrage, no second attempt. It wasn't running a con. It was offering exactly what it was, and Zephyr was declining exactly the part a careful man declines. The terms that remained were clean enough: it keeps the Fire Temple, it kills any Water Temple stragglers still breathing, and — this was the part worth the whole exchange — it knows things. About the Greater Temple. About what is actually happening beneath all of this. It would share, *if the business relationship improved.*
+
+*Leverage,* both ways. A retainer who keeps his best intelligence in reserve is a retainer who has read us correctly.
+
+Zephyr cut himself and signed. Then he put out his hand to shake — into a creature that would burn him for the contact. The fire would cost him. He took it anyway. "I will die sooner," he said, and closed his hand around the salamander's.
+
+That was when Calmer turned. "Zephyr, do you think this is appropriate for us to be making alliances with Fire Temple creatures? After all, I am the new Earth Temple cleric, and I don't know whether that's appropriate."
+
+I'd been tracking him for a while. Not the cover — the man under it, and how far the gap between them had narrowed. He wasn't asking whether the deal was sound. He was asking whether *the prophet of the Earth Temple* could be seen shaking hands with fire. The cover had started writing his objections for him.
+
+"Zinnia, what do you think?" he said. "I trust your judgment on these things."
+
+"I think you're going in too deep."
+
+"I'm going in too deep?"
+
+"You're not a real cleric for the Earth Temple."
+
+I said it flat. There was no kindness to spare and no point dressing it. He has a god, and it is not this one, and the longer he forgets that in the small moments the harder it gets to remember in the large ones. He looked at me for a moment. Then he deferred — said I understood the art of spying, that if I told him he was going too deep, he would believe me.
+
+"Thank you."
+
+A professional respects a professional. I let it stand there.
+
+Then the chest. Sequoia volunteered — a thief's hands, faster than the trap. Calmer chose the moment before the lock to demand we start calling him the Prophet, the Prophet Calmer, *the Prophet of the Earth Temple.* I noted it and kept moving. The cover was speaking again, and it was getting louder.
+
+Sequoia opened the box. A blade cut the air where his throat would have been and found nothing — his hands had already moved him clear.
+
+Inside: two potions that promised to turn flame aside. A ring that did the same. The things you would have wanted before you fought the thing that was guarding them. And one more — a sword, cold to the touch, wrong in this room full of heat.
+
+*Gotcha.* The cold came off it even here. I noted it and said nothing.
+
+---
+
+## sequoia — The Discovery of Frostbrand
+
+A magical sword in a box in a fire pit. Cold to the touch. That is three things that should not be true at once.
+
+"There's a magical sword in the box," I said. Then, because I wanted to know what kind of problem I had: "Is this something I search? Or something I read?"
+
+The reading, apparently. Nobody else in the room knew how to make sense of a working like this. I am the one who reads the strange things, which is its own kind of warning about the company I keep. I bent close and gave it everything I had. "Not much," I said. What I came away with was nothing useful and one fact I did not like. The sword was cold. Not warm from sitting in a pit full of fire. Cold. "I'm about to get frostbite if I touch the thing," I said. They told me it wasn't frostbite. Just cold. In a fire pit. Cold.
+
+So I did not touch it.
+
+"Could I have a glove?" Nobody handed me a glove. "Can I get a glove?" Still nothing. Fine. "What if I just flip the chest over? Let it fall out." The items went onto the floor in a heap. The sword landed with them and lay there, and the cold came off it the same as before. "It's still cold?" It was so cold.
+
+I have walked into enough rooms in this temple to know the ones that want you dead are the ones that look most like a gift. A cold sword sitting in a fire is a gift with a question mark on it.
+
+"I don't trust this." A beat. "At all. I'll let the hand that isn't a hand do it."
+
+The hand that is not my hand lifted it. And the sword coughed.
+
+A real cough. Out loud, from a length of steel that had no throat to do it with.
+
+"It's one of those sentient weapons," I said, mostly to myself, because there was nobody else in the room who was going to be surprised by it. Then, to the sword: "Hey. How's it going?"
+
+It said yes. I asked the only question that mattered. "Are you gonna kill me if I touch you?" It seemed offended by the suggestion. "Might be a trap," I told it, which was the truth, and which it took poorly. It was annoyed about the box. Long time in the box. I understood. I would be annoyed too.
+
+"I'll take it," I said. I let it down into my actual hand, against my better judgment, and the cold sat there and did not kill me. "Let's go, Talking Sword."
+
+Then it asked whether any of us were good.
+
+We killed Romag. Ran a three-way war and let it eat itself. I have taken things when no one was counting. That is the file. So when a holy sword spun itself in the air and asked the question, I did not expect it to land where it landed.
+
+It pointed at Zephyr first. Zephyr is neutral. The sword said no.
+
+It looked at Zinnia. A possibility. It looked at me. Also a possibility. And then it looked at Calmer, and for one long second I thought it had found its man — and instead it came back to me. "You, you are exactly what I was looking for."
+
+Neutral good. That is what the paperwork says. I have never once in this temple felt it. But the sword had no doubt at all, and I am not in the habit of arguing with a thing that knows me better than I know me.
+
+"What's your name?" Frostbrand. "How long have you been in that box?" A very long time, it said. Since Emridy Meadows. Picked up as a trophy. Then it stopped and asked where Alrrem was, and who I was. "Sequoia," I told it.
+
+It wanted out of the fire pit. "We're kind of on an undercover mission right now," I said, which it did not seem to weigh as heavily as I would have liked.
+
+Then it saw the salamander.
+
+It started talking — to Vorkal, in whatever language salamanders curse in — and the whole thing turned. Old jailor, old prisoner. It demanded satisfaction. It had been the one trapped in the box, with Vorkal as its guard, the whole time. Zephyr talked it down. I helped — when they asked, I said "Yep," and put my weight behind the words, and the words landed.
+
+Then it caught Calmer. Named him for St. Cuthbert's, out loud, in a temple where that name is a death sentence. Calmer scrambled. The sword had to be talked into having a quieter kind of goodness. Zinnia gave it the vague version — deep undercover, sneaking around — and it loved the idea like it had invented it.
+
+"Everybody grabbed everything they wanted in here?" They had. "Let's go."
+
+Somebody had to possess the sword. They got around to me. "Sorry — what?" Take the sword, they said. "I will." Then, because it was already true: "Already holding it."
+
+It announced that the two of us would sneak around and kill creatures, that we would defeat the evil of the Temple of Elemental Evil and have our vengeance, on and on, the cold of it steady in my hand. Vorkal watched the whole speech and rolled his eyes, looking more bored than I would have thought a salamander could manage.
+
+A good sword. For us. I kept that to myself.
+
+---
+
+## calmer — Confronting the Fallen Commander
+
+The secret door opened north, and Zephyr volunteered to do the opening, which I approved of. A man should take initiative. I have said as much, repeatedly, and it gratifies me when someone listens.
+
+The chamber beyond was a hot, bright thing — reds and oranges and yellows, torchlight on lacquered wood, tapestries celebrating the triumph of elemental fire across every wall. Cushions, low tables, stools. And one chair. A huge wooden seat, red and gilt, with a gold skull leering off the back. A throne, in other words. Somebody had built himself a throne and then lost the war it was meant to oversee.
+
+The somebody was still in it. Tired-looking, wounded, afraid — the former commander of the Fire Temple forces, sitting in the ruin of his own authority with his equipment marking him for exactly what he was.
+
+"Hello?" Zephyr tried.
+
+The man took a moment to find himself. "My name. I need a name, hold on." Then, slower, looking up at us: "oh, it's you. The obsidian edge, the interlopers who killed Alrrem, destroyed my temple, massacred my forces. Have you come here to finish the job?"
+
+"Yes," said Zephyr.
+
+This was the wrong answer. The commander came up out of the throne with a sword in his hand — "I won't go down without a fight!" — and Zephyr, to his credit, reversed course at speed. "No, I lied. It's okay. You can continue being a Fire Temple soldier. We will leave you be."
+
+I let that sit for a moment. *Leave him be.* A wounded man on a throne in a chamber we had just walked into uninvited, in a temple we now ran. There was a protocol question buried in here, and Zephyr, bless him, was answering it sideways. "But we are the new bosses, so," he added, which was at least pointed in the correct direction.
+
+So I clarified the matter. Authority abhors ambiguity — St. Cuthbert taught me that, or I taught it to myself in his name, the line has gotten difficult to draw. I let it be known that there had been a recent readjustment of the supreme leadership of the Upper Temple, and that I was now in charge.
+
+"Yes, yes," I went on, because the man was clearly still catching up, "the Obsidian Edge and the Chief Cleric is myself, Calmer." I gestured at my loyal henchmen. "And these are my loyal henchmen, and you will, of course, be subordinate to Dren Halveth, who is the commander, supreme commander of the Earth Temple Forces."
+
+I enjoyed that. I will not pretend otherwise. Chief Cleric is a fine thing to say in a room full of someone else's fire-worship and someone else's broken throne, and Prophet would be finer still — I had been turning the word over all session, the weight of it, *Prophet Calmer* — but one establishes the chain of command first and worries about titles after. Chief Cleric. Loyal henchmen. Subordinate to Dren. The whole hierarchy laid out clean as a writ, and the commander nodding along like a man signing a confession he hasn't read.
+
+Zephyr eyed the man's belongings. "Where's the gold you have there?"
+
+The commander hesitated. Zephyr did not. "Two gold coins for sparing your life, please."
+
+I looked at him. "Just two?" Two gold. I have seen this man charge the ferryman for the oar. Two gold seemed thin.
+
+"What I demand is not money," Zephyr said, "but respect."
+
+Which — fine. The commander handed over two gold pieces, very confused, holding them out like a man tipping the executioner. I will allow that Zephyr understood something I didn't, in that moment. The coins meant nothing. The handing-over meant everything.
+
+"I will not forget this," Zephyr told him.
+
+"Nor will I," said the commander.
+
+And that was that. We had ourselves another retainer — a captain now, wounded, sworn in by intimidation and the surrender of two gold pieces, marked in red so there would be no mistaking whose man he was.
+
+*I am the boss. Yes, I am.* The new bosses, Zephyr had said. He wasn't wrong. I keep finding that, lately — Zephyr isn't wrong, the title fits, the chain holds, and the men keep handing me their swords hilt-first. Gentlemen, I could get used to this. I'm fairly certain I already have.
+
+---
+
+## Zephyr — Maeris Dorn's Surrender
+
+The chamber was the nicest thing I'd seen since we walked into this place, and that is its own kind of insult. Rugs over rugs, tapestries on every wall, candelabra throwing warm light over plush furniture and cushions piled like someone had been planning a very expensive nap. Tables of nuts and sweetmeats. A scarlet robe tucked under the pillows. Bright scarlet and hot orange and fiery gold everywhere, the colors of people who had never once worried about a bill. The ceiling was plastered and painted with demons and humans doing things to each other that I would describe as ambitious. *I've heard of worse in the Abyss. Not by much.*
+
+And there, in the middle of all that finery, was a fire cleric, arms full of someone else's treasure, trying to leave.
+
+I led with what I thought was a reasonable question.
+
+"Why are you fleeing?"
+
+It was the wrong question. I knew it the moment her face changed. We had, after all, killed everything that mattered to her — the temple, the warlock, the chimera, the whole burning enterprise. She didn't answer. She went for her dagger.
+
+"Are we killing?"
+
+It was an honest question. I was reaching for the simple solution, the one where they attack and they die, because that is the solution I am built for. But there was a faster answer here, and I found it before my hand finished moving. A fire cleric, alive, terrified, holding nothing but loot and grievance — that isn't a corpse. That's a hire.
+
+"Let's all go hug him together to surprise him."
+
+I will say this for my companions: nobody asked me to repeat it. Four of us crossed the lavish little room and converged on her like long-lost cousins. I got there first, and I got there *perfectly* — arms locked, weight set, the grab landing so clean it almost made me laugh. Then Zinnia folded in behind me, the second hold sliding home off the first, smooth as a closing drawer. Sequoia ducked under and pinned the legs.
+
+Calmer did not hug anyone. "I do not wrestle, members of the Earth Fire Temple," he announced, standing back in his plate like a man too holy for affection. Fine. Three of us was enough. She was in a group hug she could not get out of, dagger pinned, breath gone short, and now she would listen.
+
+"Well, sometimes we lose things that are due to us, but —"
+
+I let the pause sit. This is the part I'm good at. Not the lie. The true thing, handed back.
+
+"We gain a freedom that is more important. And with that freedom, you can choose to do whatever you want. So, you could be our subordinate, or you could leave the temple." I tightened my grip, friendly. "Thanks, buddy."
+
+"Or you can die," Calmer added, from over my shoulder. "Let's not forget that option."
+
+"Dying and fighting us is not an option," I said. "Your decision."
+
+Calmer looked at me like I'd grown a second face. "I thought you were an assassin!"
+
+"Now we are leaders," I told him. "And you must conduct yourselves." *We ran a three-way war that filled these corridors with bodies, and now I am explaining the chain of command inside a hug. Grow up, all of you.*
+
+She asked what the deal would be. Good. A question is a person weighing things, and people who weigh things can be bought.
+
+"If you want to leave the temple, we'll allow you to do so. If you want to stay, you must be my subordinate."
+
+"*Our* subordinate," Calmer corrected.
+
+"Our subordinate."
+
+Then Calmer wanted the rest of it — the part that mattered to him, not me. She would acknowledge that the Earth Temple was supreme. That fire bowed to earth. With my dagger near her throat and three of us holding her in the warmest embrace of her life, she looked at the cleric, looked at the odds, and did the only sensible thing.
+
+"You know, I never really liked Alrrem."
+
+*Neither did I, in the end. I just made certain he found that out the hard way.* I kept my face flat. There is no need for anyone in this room to know how much work went into the man she'd just disowned for free.
+
+Calmer asked if there were any more clerics of fire still alive.
+
+"No."
+
+The last one. Ours now.
+
+"Alright. You're head Cleric," I said, releasing her and brushing a cushion's worth of dust off my sleeve. "Go find the captain of the Fire Guard." I gestured at the wreckage of her bright, ruined little world. "Let's go find your troops, organize the place, make it clean."
+
+---
+
+## calmer — The Water Temple Ambush
+
+We caught our breath first. That was my call — *alright, how about everybody catch your breath, bind your wounds, I presume* — because the Fire Temple had gone well and I was feeling, I will admit it, particularly emboldened. We had options. We could keep picking at the Fire Temple's bones or we could go look at the Water Temple, and I put the question to the room like a man who already knew the answer. Zephyr said yes. He always says yes when there is treasure attached.
+
+So we went down into the sea that isn't a sea.
+
+The Water Temple is a beautiful thing, and I hate that it is beautiful. Slabs of polished azurite and malachite, blue swirled through deep green, and some old magic seeping a soft cloudy greenish light up out of the very floor, so that you feel you are walking suspended in deep water with the air pressing on you. Even the damp smells of brine. There is a great sheet of bronze on the west wall — a bas-relief, an underwater vista, seaweed and shells and a hideous fish-head with its maw spewing a stream of water down four tiered basins, the last so large it never overflows. And the altar: round, broad as a wagon and waist-high, its concave top a shallow basin, and in that water, gentlemen, *coins.* Gems. Seashells. A whole drowned fortune sitting there waiting. South of it, in an alcove, a serpentine idol of writhing marine horrors, eels and octopi and fish all knotted into one obscene mass, taller than a man and then some. And four pillars, each crowned with a stone gargoyle.
+
+I asked Zephyr what he wanted to look at first. He chose the bronze sheet. He wanted to see if it was real. I told him it was real. He said he wanted to check anyway.
+
+He knocked on it.
+
+The idol began to rotate. *Yes,* I said, when he asked if it was the altar that had moved — and then, because the day deserved a little flourish, the gargoyles came off their pillars. Wings unfolding. Stone going from stone to *intent.* He had improperly touched the temple, and the temple was now improperly touching back.
+
+Zephyr wanted to flee. Of course he did.
+
+I would not hear it. "If we flee, we'll never get the treasure," I told him, "so why don't we just get the treasure? This is what we're here for! I want to plunder!" And then, because the thing was already true and I had only to say it aloud — "shouldn't we kill these creatures? I mean, this is our temple now."
+
+He told me, fine, let's kill them. And something in me said *yes.* "Good! I want to kill them! I want them dead! I want every last one of them dead, dead, dead!"
+
+"If you're so excited," Zephyr said, "you should start killing."
+
+*"I was hoping you would ask."*
+
+And I could not let it pass — I turned to the two of them, to the tiefling who pokes everything in creation with a stick, and I reminded them. "I poured water. At least I didn't put fire on the water temple. But you had to go poke everything." Last time it was me with the water who got picked on, and the salamanders came, and everyone had opinions. This time the disaster was his. I was at peace.
+
+I asked Sequoia what he thought. "Kill him," he said. "Kill him," I agreed, "I am glad we all agree on this point."
+
+Then the room found its tempo, and I knew before a blow landed who would move and who would be left waiting. Zephyr would strike before any of them could react, Sequoia a breath behind him — and Zinnia, our most reliable knife, was slow off her mark for once, the clumsiest start I have ever seen her take. Even I was quicker than her this time. *Even Calmer*, I told her, and I enjoyed it.
+
+Zephyr had the first word and put his dagger into the gargoyle beside him — a real bite, the kind that takes a chunk and leaves a creature reconsidering its existence. Sequoia carved into his own, deep, then stepped back out of reach.
+
+Then it was my moment, and I did what I always do under these circumstances.
+
+I reached for the swirling spirits.
+
+They came the way they always come for me, that wheeling radiant guard of them, and I walked into the hall *with* them, the way a man walks into his own house. The first gargoyle nearest the spirits simply ended — there one instant, gone the next, the light tearing it apart before it understood what had arrived. The second buckled, the radiance gnawing it down, its movement gone to mud. And I kept walking — over here, over here — and the third caught the edge of the wheel and staggered, slowed, sloughing stone, torn down to half of what it had been.
+
+Three of them broken, and I had only crossed the floor.
+
+And somewhere behind me, the one voice in the room with sense, Zinnia told me — calm, spy-quiet, the way she does it — not to go too deep. To not overreach into a room I did not yet own.
+
+I heard it. I will even admit it was well done.

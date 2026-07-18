@@ -1,0 +1,184 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
+    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "An hour passes between two events in the session.",
+    "source_quote": "An hour later",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
+    "source_quote": "four chasme and two vrock",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "Sloobludop is approximately eight days away via the Darklake.",
+    "source_quote": "the town of Sloopdopblop is just eight days away",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
+    "source_quote": "Drow outpost was 100' in the sky",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "time of death",
+    "fact": "Janussi was murdered well before half past seven in the morning, as candles burned out and tobacco smoke lingered in a sealed room.",
+    "source_quote": "Miss Hollypocket would never have allowed the Keeper to let candles burn down to nothing.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "gate warden's inspection",
+    "fact": "The gate warden conducted a full, deliberate inspection of the crime scene at eleven and emerged looking more determined than when he entered.",
+    "source_quote": "He definitely looked more determined after he walked out.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "ink pot and quill",
+    "fact": "A quill with midnight blue ink and a spilled ink pot were found near the desk, untouched since the spill, suggesting recent annotation before death.",
+    "source_quote": "A quill on the floor. Nib covered in midnight blue. A wicker basket nearby holding a linen ink carrier, slightly damp.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "third floor apartment",
+    "fact": "The third floor apartment door was left conspicuously ajar, a detail noted but unexamined.",
+    "source_quote": "a large apartment at the third with its door left conspicuously ajar.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "ritual attempt on corpse",
+    "fact": "The rite to speak with the dead had already been performed by the gate warden, preventing further attempts until sufficient time passed.",
+    "source_quote": "Someone \u2014 presumably the Gate Warden \u2014 had already used the rite on the corpse.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "cat presence",
+    "fact": "The gray cat with yellow eyes was observed motionless until approached, then tracked investigators \u2014 its nature deemed unprovable as either power or ordinary animal.",
+    "source_quote": "Nobody had been able to conclusively prove the cat was some kind of power that lived here, and nobody had been able to conclusively prove that it was not.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "keeper's chamber tobacco smoke",
+    "fact": "Lingering tobacco smoke in the sealed keeper\u2019s chamber indicated the room had been closed for hours, suggesting death occurred before discovery.",
+    "source_quote": "The windows were shut. Nobody had been smoking recently. The smoke was old.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "missing heart",
+    "fact": "Janussi\u2019s heart was removed postmortem, not as cause of death but to prevent resurrection, indicating deliberate magical sabotage.",
+    "source_quote": "The heart was missing. No other organs. And the blood was localized. Wrong pattern for what should have been a violent death.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "book removal",
+    "fact": "The book 'The Golden Ass' \u2014 annotated in fresh midnight blue ink \u2014 was missing from the desk, suggesting its contents were intentionally removed.",
+    "source_quote": "The book the blue ink was annotating \u2014 The Golden Ass \u2014 wasn't in the room.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "safe contents",
+    "fact": "The safe on the far wall had been opened, blue gems scattered, but left behind \u2014 indicating the thief sought something more valuable than jewelry.",
+    "source_quote": "Blue gems and empty pouches scattered on the floor in front of it. The thief had looked at the gems, decided they weren't what he came for, and left them.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "spellbook 'The Discoveries'",
+    "fact": "An open spellbook titled 'The Discoveries' contained academic notes in Celestial and annotated research in midnight blue and purple ink, suggesting Janussi\u2019s ongoing occult investigations.",
+    "source_quote": "A spellbook sat open in the center of the desk: The Discoveries. To one side, notes in Celestial... To the other side, a larger pile of notes pinned under a quartz weight, with more annotations on top in midnight blue ink \u2014 and below those, older notes in purple.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "bookwyrm's arrival",
+    "fact": "The Bookwyrm arrived at nine, confirmed the gate warden\u2019s orders, and permitted only a brief look before leaving.",
+    "source_quote": "Bookwyrm at nine, arriving from the baths, allowed a brief look before confirming the existing orders.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "fembris's reaction",
+    "fact": "Fembris vomited after seeing the body, then retreated and did not re-enter, indicating a visceral reaction to the violence.",
+    "source_quote": "Fembris took one look at the body, crossed the room in four steps, flung a window open, and vomited out of it.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "reception chamber",
+    "fact": "The first landing of the tower contained a reception chamber, noted as the initial point of entry.",
+    "source_quote": "reception chamber at the first landing",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "shrine of Oghma",
+    "fact": "The second landing held a shrine of Oghma, observed during ascent.",
+    "source_quote": "a shrine of Oghma at the second",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "tadric's admission",
+    "fact": "Tadric admitted his role was crowd control, not observation, and realized his failure to monitor internal actions.",
+    "source_quote": "Tadric admitted his assignment had been crowd control. Not observation.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "candelabra",
+    "fact": "A seven-armed bronze candelabra had burned its candles entirely to wax puddles, supporting the timeline of prolonged seclusion.",
+    "source_quote": "The candelabra \u2014 seven arms, bronze \u2014 had burned its candles entirely to wax puddles.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "zalthir's observation",
+    "fact": "Zalthir determined the rib cage was smashed by multiple axe blows, not a single strike, indicating deliberate, forceful violence.",
+    "source_quote": "the rib cage had been smashed by something like an axe, multiple blows, close together, deliberate.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "gate warden's removal",
+    "fact": "The gate warden was removed from the scene before being questioned, raising suspicion about what he discovered.",
+    "source_quote": "The gate warden removed before he could be asked what he'd found.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "thorin's ice inquiry",
+    "fact": "Thorin inquired about the availability of ice to preserve the corpse, given the expected decomposition from delay.",
+    "source_quote": "Corpse will be a little stinky by then. Is there any ice around?",
+    "quote_verified": false
+  }
+]

@@ -32,3 +32,16 @@ related: []
 - **Create or Update**: Ensure the Silverymoon entry includes details about the legitimacy of Lord Methrammar's rule based on Lady Alustriel's lineage.
 - **Emphasize**: The role of Lady Alustriel's lineage in establishing Lord Methrammar's claim to rule.
 - **Open Question**: Investigate further if there are any official records or documents confirming Lady Alustriel's lineage and its impact on Silverymoon's governance.
+
+## Related
+
+- [[tamalin_zoar]]
+- [[harriet_uldinath]]
+- [[gale_wonderbrow]]
+- [[nahala]]
+- [[lady_atalia]]
+- [[princess_halani_meliame]]
+- [[queen_tatiana]]
+- [[laeral_silverhand]]
+- [[mary]]
+- [[queen_neri]]

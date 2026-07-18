@@ -11,3 +11,7 @@ sources: ["fiora_bendaega.md"]
 - **Definition:** Specific type of job Fiora handles, involving protecting honest tradespeople.
 - **Matters:** Crucial to the plot and character development.
 - **Existing:** Likely already exists in the wiki under a similar concept.
+
+## Related
+
+- [[middleperson-adventure-broker]]

@@ -1,0 +1,765 @@
+[
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin remembers that Stone Giants are not to be rushed into a conversation.",
+    "source_quote": "Thorin remembers that Stone Giants are not one to be rushed into a conversation.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Hgraam",
+    "fact": "Hgraam sighs and says, 'Something evil stirs in the Underdark. The rock itself cries in pain and horror, and a madness creeps from the blackest depths.'",
+    "source_quote": "The giant sighs, 'Something evil stirs in the Underdark. The rock itself cries in pain and horror, and a madness creeps from the blackest depths.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Hgraam",
+    "fact": "Hgraam is cryptic in the best of times.",
+    "source_quote": "Stone Giants are cryptic in the best of times.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Hgraam",
+    "fact": "Hgraam raises an eyebrow at Thorin.",
+    "source_quote": "The giant stares at him. And then raises an eyebrow.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Hgraam",
+    "fact": "Hgraam offers Thorin the stonespeaker crystal as a gift.",
+    "source_quote": "Before I go, I have a gift.\" His assistant brings a 19 inch shard of quartz crystal.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Hgraam",
+    "fact": "Hgraam is attuned to the stones and speaks their wisdom.",
+    "source_quote": "This is what the stones tell me.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Shal",
+    "fact": "Shal is the Deep King\u2019s new advisor, but Hgraam has never met them.",
+    "source_quote": "I have asked to meet Shal, but they refuse.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir admires the stone giants\u2019 subtlety and patience.",
+    "source_quote": "They speak little. They ponder and then they consider their words.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir notices the stark contrast between the clean Duergar dwellings and the cluttered Derro slums.",
+    "source_quote": "The contrast with the clean, perfect Duergar dwellings is obvious.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum observes Droki\u2019s unnaturally fast pace and lack of concern for being followed.",
+    "source_quote": "Droki also doesn\u2019t seem to care if anyone is following him.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum sees Droki reveal a narrow fissure behind scraps of cloth and canvas.",
+    "source_quote": "Droki lifts the scrap of cloth, pushes the gray sheets of canvas to the side, revealing a narrow fissure in the chasm wall.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Buppido",
+    "fact": "Buppido screams about the Council of Savants who promised freedom and failed to deliver it.",
+    "source_quote": "He screams about the Council of Savants who promised freedom and failed to deliver freedom.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido believes he is on a divine mission to save his people.",
+    "source_quote": "The divine mission requires that I go back! I must go and save them!",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz finds Buppido building a shrine of bones and skeletons in a cavern.",
+    "source_quote": "I didn\u2019t expect you to find me here, with my shrine nearly finished!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz casts Fairie Fire on three of Buppido\u2019s skeletons.",
+    "source_quote": "Daz casts Fairie Fire. Suddenly, three skeletons are marked, and an ethereal glow surrounds them.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir plunges the cavern into darkness to disrupt the skeletons.",
+    "source_quote": "Zalthir, never one to shy away from unusual tactics, plunges the area into darkness.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum prepares to turn undead but waits for the darkness to shift.",
+    "source_quote": "Grygum, ready with his holy symbol, prepares to turn undead. Daz understands the intent\u2014to disrupt the skeletons and disorient Buppido.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin draws his sword as Buppido becomes a direct threat.",
+    "source_quote": "Thorin has his sword drawn.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Buppido",
+    "fact": "Buppido claims his faithful are finally honoring him and offers truth to Daz.",
+    "source_quote": "My faithful are finally honoring me! Are you \u2026? Yes. Yes, I sense that you are ready to receive my truth into your hearts!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz observes that Droki\u2019s path is well-worn and marked with junk the Derro drops.",
+    "source_quote": "Droki's path is very well worn and marked with junk that the Derro drops.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Droki",
+    "fact": "Droki is a courier trusted by all factions for safe passage through the Whorlstone Caverns.",
+    "source_quote": "Droki can be trusted to deliver messages to the groups in the Whorlstone caverns and keep secrets.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum notices the stench in the Derro slums changes from acrid and metallic to fetid and repugnant.",
+    "source_quote": "As he passes through the gates, the stench in the air changes from acrid and metallic to fetid and repugnant.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum sees the Derro homes are crudely carved from the rock or holes in the walls, arranged in no apparent order.",
+    "source_quote": "The homes in this part of Gracklstugh are crudely carved from the rock or are just holes in the walls, arranged in no apparent order.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz observes the floor of the cavern is carpeted with humanoid remains arranged in a spiral pattern.",
+    "source_quote": "The floor is carpeted with humanoid remains in varying stages of decomposition, arranged in a spiral pattern around the cave\u2019s center.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Buppido",
+    "fact": "Buppido says, 'The divine plan tells me I must help you!'",
+    "source_quote": "Buppido smiles, 'The divine plan tells me I must help you!'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin whispers, 'If you betray us, I will gut you.'",
+    "source_quote": "Thorin whispers, 'If you betray us, I will gut you.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Hgraam",
+    "fact": "Hgraam says, 'The Deep King has tried to keep order and control, and the more he tries, the more the order escapes and tries to take the city from him.'",
+    "source_quote": "The Deep King has tried to keep order and control, and the more he trie,s the more the order escapes and tries to take the city from him.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Faerzress",
+    "fact": "Thorin wonders if the Faerzress affects his sanity and is connected to the spreading madness.",
+    "source_quote": "Thorin wonders if this has anything to do with the Faerzress, which has affects his sanity.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Grey Ghosts",
+    "fact": "The Deep King has become paranoid since Shal became his advisor, and his former calmness is gone.",
+    "source_quote": "He and I would watch the stones grow. But something has happened to him. He has become paranoid towards old and new friends.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, 'What we have seen as localized appearances of demons is not localized.'",
+    "source_quote": "So what we have seen as localized appearances of demons is not localized.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum believes that the widespread presence of demons is enabled by powerful magic.",
+    "source_quote": "There is some kind of powerful magic that has enabled this.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Hgraam",
+    "fact": "Hgraam gives Thorin the stonespeaker crystal, which allows Speak with Animals, Speak with the Dead, and Speak with Plants.",
+    "source_quote": "This is the stonespeaker crystal, with it you can cast Speak with Animals, Speak with the Dead, and Speak with Plants.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin learns from Hgraam that the best way to the Dreamlands is through the city of the Deep gnomes.",
+    "source_quote": "Thorin learns from Hgraam that the best way to the Dreamlands is through the city of the Deep gnomes.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum sees Droki mutter a repetitive series of phrases: 'Droki is late! They will be so angry! Stupid, stupid, stupid!'",
+    "source_quote": "Droki mutters a repetitive series of phrases at different volumes... 'Droki is late! They will be so angry! Stupid, stupid, stupid!'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Buppido",
+    "fact": "Buppido leads the party to the abandoned Duergar guardhouses in the West Cleft.",
+    "source_quote": "The duergar built a series of guardhouses to keep an eye on their derro slaves living in the West Cleft. These were abandoned...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum observes that the Derro slums are dangerous to anyone, and that is why non-Duergar are needed to navigate them.",
+    "source_quote": "And now, why Errde Blackstaff and the Keeper of the Flames were so anxious to find a non-Duergar to come here is clear.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin understands that the Duergar would have to go through the Derro to reach the tunnels, triggering a bloodbath.",
+    "source_quote": "Thorin also understands why they are underneath the city. To get to the tunnels, the Duergar would have to go through the Derro, and that would trigger a bloodbath.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir observes the Derro slums are dirty and cluttered, with homes carved into walls and piled atop one another.",
+    "source_quote": "The district's dirty and cluttered streets clearly formed as dwellings spread and came together, not as a product of planning.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Hgraam",
+    "fact": "Hgraam says, 'The Deep King creates so many enemies. He used to be so calm.'",
+    "source_quote": "Grey Ghosts? The Deep King creates so many enemies. He used to be so calm.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum sees a wisp of eerie fog float out of the fissure after Droki enters.",
+    "source_quote": "Just as he disappears into the cavern, a wisp of eerie fog floats out.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz hears an off-key humming from a hunched figure building a shrine of bones.",
+    "source_quote": "An off-key humming comes from a hunched figure working busily at something on the floor.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin charges forward and lands a solid blow on one of Buppido\u2019s skeletons.",
+    "source_quote": "Thorin, eager as ever, wastes no time. The dwarf charges forward, closing with one of the skeletons.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Buppido",
+    "fact": "Buppido charges with a hooked spear, but misses wildly.",
+    "source_quote": "Buppido rushes at Thorin with a hooked spear but misses wildly.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum is hit by a crossbow bolt from one of Buppido\u2019s skeletons.",
+    "source_quote": "One skeleton, however, manages to take a shot at Grygum with its crossbow. Daz sees Grygum flinch as the bolt hits.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir\u2019s darkness disrupts the skeletons, causing some to blunder blindly.",
+    "source_quote": "Confusion reigns for a moment. Some of the skeletons blunder blindly in the darkness, stumbling around aimlessly.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum holds his action, waiting for the darkness to shift before turning undead.",
+    "source_quote": "Grygum holding his action, waiting for the darkness to shift so that more skeletons are visible.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum\u2019s words of power overwhelm Buppido\u2019s skeletal minions.",
+    "source_quote": "The cleric\u2019s words of power overwhelm the skeletal minions of Buppido.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz realized it was time to deal directly with Buppido and focused his arcane energy, feeling the familiar surge within him.",
+    "source_quote": "He focuses his arcane energy, feeling the familiar surge within him.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz thought 'Magic missiles' and visualized the shimmering darts before casting them.",
+    "source_quote": "\u2018Magic missiles,\u2019 he thinks, visualizing the shimmering darts.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz stared at Buppido\u2019s corpse and muttered, 'Your divine mission is now over.'",
+    "source_quote": "Daz stares at Buppido\u2019s corpse and mutters, 'Your divine mission is now over.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin muttered, 'He was a crazy one, but he was our crazy one,' with sadness.",
+    "source_quote": "\u2018He was a crazy one, but he was our crazy one,\u2019 mutters a sad Thorin.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Pelek",
+    "fact": "Pelek\u2019s ghostly head popped up and asked, 'He\u2019s dead?'",
+    "source_quote": "\u2018He\u2019s dead?\u2019",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Pelek",
+    "fact": "Pelek\u2019s ghostly head rolled into place and said, 'Wonderful!'",
+    "source_quote": "\u2018Wonderful!\u2019",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Pelek",
+    "fact": "Pelek announced his name, 'Pelek, at your service if you will be at mine.'",
+    "source_quote": "\u2018Pelek, at your service if you will be at mine.\u2019",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Pelek\u2019s name",
+    "fact": "Pelek\u2019s name is of uncertain origin, possibly derived from an actor or an onomatopoeic sound, but its true meaning is unstated and unresolved.",
+    "source_quote": "\u2018My mother named me after an actor. And well, there was always this doubt about the origin of the name and my lineage...'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Pelek",
+    "fact": "Pelek recalled his childhood was delightful except for the emotional turmoil tied to his name.",
+    "source_quote": "I had a delightful childhood, except when it came to my name.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pelek",
+    "fact": "Pelek explained that his father was jealous and there was an undercurrent of hurt and shame tied to his name.",
+    "source_quote": "My father was always very jealous, and there was always an undercurrent of hurt and shame in my name and how it affected my parents.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Pelek",
+    "fact": "Pelek became a merchant because of the emotional fallout from his name and his relationship with Buppido.",
+    "source_quote": "I suppose that\u2019s why I ended up as a merchant, and became friends with Buppido and ignored the tell-tale signs of his incipient murderous rampage.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pelek",
+    "fact": "Pelek said Buppido killed him and cut his body into pieces he now sees.",
+    "source_quote": "He killed me and cut my body up into the pieces you see here.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Pelek",
+    "fact": "Pelek was a supplier for Buppido, who worked with the Council of Savants to move product past Duergar taxes.",
+    "source_quote": "He was working with a faction of Derro known as the Council of Savants. Buppido said he could move product out of the city without dealing with the Duergar taxes.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pelek",
+    "fact": "Pelek noticed the Faerzress glowed brightly and then went dark before returning brighter than before.",
+    "source_quote": "I did notice that the Faerzress glowed brightly, and after that, Buppido\u2019s temperament changed... It was almost as if it was being sucked out, and went dark and then came back brighter than before.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Faerzress",
+    "fact": "The nature of the Faerzress is unknown, and whether its blink broke plane barriers is an unresolved mystery.",
+    "source_quote": "No one knows what the Faerzress is. And so I assumed it was something that happens.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum wondered aloud if the Faerzress\u2019s blink could have broken the walls between the planes.",
+    "source_quote": "Then if it blinked, could it have - I dunno - broken the walls between the planes?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pelek",
+    "fact": "Pelek dismissed the idea of plane-breaking as a ghost story.",
+    "source_quote": "That sounds like a ghost story. The Faerzress blinked, and then monsters from the Abyss appeared.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pelek",
+    "fact": "Pelek asked Grygum to collect his bones and bring them to Blingdenstone.",
+    "source_quote": "These bones are my bones, and I would appreciate you folks collecting my bones and bringing them to Blingdenstone.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pelek",
+    "fact": "Pelek mentioned a family ring on his hand, an obsidian ring of some value.",
+    "source_quote": "There is a family ring on it, an obsidian ring of some value.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin asked if the ring was magical.",
+    "source_quote": "Is the ring magical?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pelek",
+    "fact": "Pelek admitted the ring wasn\u2019t magical but suggested he\u2019d lie to encourage them.",
+    "source_quote": "No. But if I said otherwise, would it encourage you more?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin growled, 'It wasn\u2019t powerful enough to keep you alive.'",
+    "source_quote": "It wasn\u2019t powerful enough to keep you alive.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pelek",
+    "fact": "Pelek shrugged and said he didn\u2019t know how long he\u2019d been there, but less than a year.",
+    "source_quote": "Less than a year? Telling time in this cavern is hard.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Droki",
+    "fact": "Pelek knows Droki works for the Council of Savants and is peculiar, but nothing more is known about him.",
+    "source_quote": "I was told that he works for the Council of Savants. He\u2019s very peculiar.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin felt taken for granted and noted that Pelek had offered nothing in return for help.",
+    "source_quote": "He\u2019s confirmed that something weird has happened in the Underdark... But I knew that. And it\u2019s not like he\u2019s given us any useful information.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin shouted, 'Now listen here!' to Pelek.",
+    "source_quote": "Now listen here!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pelek",
+    "fact": "Pelek laughed and said, 'Overbrighters.'",
+    "source_quote": "Overbrighters.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pelek",
+    "fact": "Pelek advised the party to deny association with Lolth, Menzoberranzan, and avoid references to the number eight or spiders in Blingdenstone.",
+    "source_quote": "when you get there, make sure to deny any association to Lolth, or Menzoberranzan, and make any references to the number eight or spiders.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pelek",
+    "fact": "Pelek said to avoid anything on their person that counts to eight.",
+    "source_quote": "Just don\u2019t have anything on your person that counts - obviously - to eight.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir stumbled, unable to remember the vague teachings of his monastic order after the ghost\u2019s banter.",
+    "source_quote": "he mutters and stumbles, unable to remember the appropriately vague and incomprehensible teaching of his monastic order",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir realized the Derro ate mushrooms and saw a crack in the wall too small to fit through.",
+    "source_quote": "The Derro ate some mushrooms. ... The crack is too small for anyone to fit into.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Pelek",
+    "fact": "Pelek looked into the crack and described a tiny tunnel, then noticed Pygmywort and Bigwig.",
+    "source_quote": "A tiny tunnel. Tiny all the way through. Oh, look at that Pygmywort and Bigwig.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Pelek",
+    "fact": "Pelek identified Pygmywort as a mushroom with a one-inch stem and blue cap with white dots that shrinks like a reduce spell.",
+    "source_quote": "Pygmywort is the mushroom with a one-inch-long stem and a stubby blue cap with white dots, and Bigwig is the four-inch-tall mushroom with a thin stem and a wide purple cap. The first one shrinks you, like the effect of a reduce spell, and the latter grows you, like the effect of an enlarge spell.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum impulsively swallowed a Pygmywort and shrank.",
+    "source_quote": "Grygum impulsively swallows a Pygmywort and shrinks.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir thought, 'This place used to be where hippies hid out. Now it has become a den of vipers aimed at the mad Deepking.'",
+    "source_quote": "This place used to be where hippies hid out. Now it has become a den of vipers aimed at the mad Deepking.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir said, 'We must be quiet. There are many enemies about.'",
+    "source_quote": "We must be quiet. There are many enemies about.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz announced, 'It is my time!' and marched toward the lake.",
+    "source_quote": "\u2018It is my time!\u2019 announces Daz.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz cast a spell that froze the black, heated water of the lake.",
+    "source_quote": "He casts a spell with a flourish, and the water freezes.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz cast another block of ice and led the party across the lake.",
+    "source_quote": "He then proceeds to cast another block of ice, and they jump from block to block, eventually landing on the other side of the lake.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz smiled after crossing the lake and waited for applause.",
+    "source_quote": "As they land safely, he smiles. And he waits for polite applause.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin slapped Daz\u2019s back in a friendly manner.",
+    "source_quote": "Thorin slaps his back. A friendly slap on the back.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum kept saying, 'Wow!'",
+    "source_quote": "Grygum can\u2019t stop saying 'Wow!'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noticed a fungal thicket ahead with a hissing sound like whispering voices.",
+    "source_quote": "a hissing sound begins to rise. It sounds like uncounted tiny voices whispering in tongues he doesn't understand.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin warned the party that some mushrooms may have psychedelic effects and suggested holding their breath.",
+    "source_quote": "there are some kinds of mushrooms that may have a psychedelic effect so I would hold our breath.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pelek",
+    "fact": "Pelek said the hissing was just wind through the fungal thicket and called them 'Overbrighters' contemptuously.",
+    "source_quote": "There\u2019s nothing psychedelic about that sound. It\u2019s the normal effect of wind blowing through a fungal thicket. ... Overbrighters.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz picked up barrelstalk, bluecap, ripplebark, trillimac, waterorb, and zurkwhood mushrooms.",
+    "source_quote": "He picks up some barrelstalk, a large, cask-shaped fungus that stores water, bluecap for making flour, ripplebark that tastes good toasted, trillimac that can be used for scrolls and makes a bread-like substance that can be rolled up, waterorb for storing water, and zurkwhood for making things.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz recognized Nightlights as mushrooms that glow in a 15-foot circle and stop glowing when touched or cut.",
+    "source_quote": "Nightlights\u2014mushrooms that grow to 15 feet and shed light in a 15-foot-by-15-foot circle. When they are touched or cut, they stop glowing.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz warned Thorin about the timmask, a two-foot-tall toadstool with orange and red stripes that causes madness if uprooted.",
+    "source_quote": "Watch out,\" he shouts to Thorin. The dwarf was close to a two-foot-tall toadstool with orange and red stripes across its beige cap known as \u201cthe devil\u2019s mushroom,\u201d or a timmask. Uprooting the mushroom can cause madness.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz identified the torchstalk as a mushroom with a combustible cap that burns for 24 hours.",
+    "source_quote": "Why, that\u2019s a torchstalk. It has a combustible cap and can burn for 24 hours when lit.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz felt a shiver as swarms of centipedes emerged.",
+    "source_quote": "Daz watches as the centipedes emerge, a shiver running down his spine.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz cast 'Toll the Dead' on the centipedes, but they saved.",
+    "source_quote": "Toll the Dead,\" he mutters, focusing his magical energy. ... He watches intently as the spell is cast, but his hope quickly fades as the centipedes seem unfazed. 'They saved!'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz muttered under his breath, 'Seriously?' after 'Tasha's Caustic Brew' failed to affect the centipedes.",
+    "source_quote": "Seriously?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum cast 'Tasha's Caustic Brew' on the centipedes, but they avoided the brunt.",
+    "source_quote": "Grygum then steps up, casting 'Tasha's Caustic Brew.' ... the centipedes somehow manage to avoid the brunt of the spell.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz perceives a glimmer of hope returning as Thorin strikes one of the swarms.",
+    "source_quote": "Yes! There you go!\" he thinks, a glimmer of hope returning",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz muses that 'Burning Hands' might have been better than his current spell.",
+    "source_quote": "Maybe 'Burning Hands' would have been better?\" he muses",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz wonders if his spells are ineffective or if he needs to re-strategize.",
+    "source_quote": "he feels a slight unease, wondering if his spells are just ineffective or if he needs to re-strategize",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz considers whether he needs a spell with a wider area of effect.",
+    "source_quote": "or perhaps something with a wider area of effect",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz finds himself scanning his spell list and second-guessing his choices.",
+    "source_quote": "Daz finds himself scanning his spell list, second-guessing his choices",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz feels a slight unease about his spell effectiveness.",
+    "source_quote": "He feels a slight unease, wondering if his spells are just ineffective or if he needs to re-strategize",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz keeps scratching at his arms, feeling the phantom sensation of bugs.",
+    "source_quote": "he keeps scratching at his arms, feeling the phantom sensation of bugs despite knowing there were none on him",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Daz's spell strategy",
+    "fact": "Daz is uncertain whether his spells are ineffective or if he needs to re-strategize, and no resolution is provided in this session.",
+    "source_quote": "He feels a slight unease, wondering if his spells are just ineffective or if he needs to re-strategize",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is plagued by a lingering sense of doubt about his spell choices.",
+    "source_quote": "Daz finds himself scanning his spell list, second-guessing his choices",
+    "quote_verified": true
+  }
+]

@@ -16,3 +16,8 @@ The party is not merely a band of marauders but is organized around the worship 
 
 ## Behavior
 The group operates with a level of religious purpose, utilizing the chaos of raids to further the interests of their deity.
+
+## Related
+
+- [[the_anchorite_half_orc]]
+- [[the-orc-scout]]

@@ -10,3 +10,7 @@ sources: ["rot_tusk_ogre.md"]
 # Hold Person Effect
 
 A specific magical method used to paralyze humanoid targets. In recent combat, [[vukradin]] utilized this effect to simultaneously immobilize both a [[rot-tusk-ogres]] warrior and [[jax]], shifting the tactical momentum in favor of the party.
+
+## Related
+
+- [[spirit-guardians-effect]]

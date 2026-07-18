@@ -26,3 +26,7 @@ sources: ["chief_guh.md"]
 - Emphasize the hierarchical nature of the Hill Giants and their relationship with the party.
 - Flag potential contradictions and internal tensions for further investigation.
 - Consider updating pages related to the **Ordning** and the **Hill Giants** to reflect this new information.
+
+## Related
+
+- [[ordning]]

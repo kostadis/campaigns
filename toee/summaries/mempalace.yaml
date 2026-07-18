@@ -1,0 +1,19 @@
+# mneme-rendered; source-sha256: b9a0a6cb3bb1d10993ec55f72c3a80c6c49f81483457ea95cbf50b3fe5802d73; do-not-edit
+wing: summaries
+rooms:
+- name: narration
+  description: narration content
+  keywords:
+  - narration
+- name: extractions
+  description: extractions content
+  keywords:
+  - extractions
+- name: summary
+  description: summary content
+  keywords:
+  - summary
+- name: general
+  description: general content
+  keywords:
+  - general

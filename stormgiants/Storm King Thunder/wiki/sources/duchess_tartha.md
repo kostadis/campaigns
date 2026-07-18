@@ -1,8 +1,8 @@
 ---
 type: source
 title: "Source: duchess_tartha.md"
-created: 2026-05-13
-updated: 2026-05-13
+created: 2026-06-06
+updated: 2026-06-06
 sources: ["duchess_tartha.md"]
 tags: []
 related: []
@@ -10,71 +10,43 @@ related: []
 
 # Source: duchess_tartha.md
 
-### Key Entities
-- **Duchess Tartha:**
-  - **Name and Type:** Duchess (NPC), Fire Giant Lord
-  - **Role in the Source:** Central character, primary antagonist
-  - **Existing in Wiki:** Likely does not exist in the wiki index.
+## Key Entities
 
-- **Queen Mirran:**
-  - **Name and Type:** Queen (NPC), Leader of the Three-Headed Party Problem
-  - **Role in the Source:** Peripheral, orchestrates the assembly of giant lords
-  - **Existing in Wiki:** Likely does not exist in the wiki index.
+| Name | Type | Role | Status |
+| :--- | :--- | :--- | :--- |
+| **Duchess Tartha** | NPC (Giant Lord) | Central; a primary antagonist/enforcer for Queen Mirran. | New Entity |
+| **Mirran** | NPC (Queen) | Central; the sovereign who commissioned the giant lords to stop the 3HPP. | Existing (implied by context) |
+| **Orsik** | PC | Central; interacted with Tartha during combat. | Existing |
+| **Thistle** | PC | Central; targeted specifically by Tartha. | Existing |
+| **Unla Kee** | PC | Central; her fire-based attack had a unique interaction with Tartha. | Existing |
+| **Vardis** | PC | Central; his wall of fire was ineffective against Tartha. | Existing |
+| **Thane Braxow** | NPC (Giant Lord) | Peripheral; fellow lord killed by Orsik. | New Entity |
+| **Jarl Hellenhild** | NPC (Giant Lord) | Peripheral; mocked by Tartha for a missed attack. | New Entity |
+| **Count Vaul** | NPC (Giant Lord) | Peripheral; part of the quartet of lords. | New Entity |
 
-- **Thane Braxow:**
-  - **Name and Type:** Giant Lord (NPC)
-  - **Role in the Source:** Peripheral, killed by Duchess Tartha
-  - **Existing in Wiki:** Likely does not exist in the wiki index.
+## Key Concepts
 
-- **Jarl Hellenhild:**
-  - **Name and Type:** Giant Lord (NPC)
-  - **Role in the Source:** Peripheral, mocked by Duchess Tartha
-  - **Existing in Wiki:** Likely does not exist in the wiki index.
+| Name | Definition | Significance | Status |
+| :--- | :--- | :--- | :--- |
+| **Three-Headed Party Problem (3HPP)** | The specific threat/title given to the party by the giants. | Establishes the primary conflict and the "why" of the giant's involvement. | Existing |
+| **Fire Immunity** | A biological or magical trait allowing Tartha to ignore fire damage. | Highlights her status as a Fire Giant and renders certain PC tactics (Vardis) useless. | New/Refined |
+| **Grudging Respect** | A social dynamic where an enemy acknowledges another's skill before hostility. | Used to establish Tartha’s personality as noble but pragmatic rather than mindless. | Existing |
+| **Inter-giant Mockery** | Internal friction among the giant lords (e.g., mocking Hellenhild). | Adds depth to the faction; they are not a monolith, but individuals with distinct personalities. | New |
 
-- **Count Vaal:**
-  - **Name and Type:** Giant Lord (NPC)
-  - **Role in the Source:** Peripheral, no notable interaction
-  - **Existing in Wiki:** Likely does not exist in the wiki index.
+## Main Arguments & Findings
+*   **Role as a "Shield" for Mirran:** Tartha is not just a monster; she is a political and military instrument of Queen Mirran. Her actions are framed by "duty," suggesting her role in the narrative is to provide a high-stakes obstacle for the party's progress toward the throne.
+*   **Tactical Differentiation:** The interaction with Unla Kee (where fire invigorated her) suggests that Tartha possesses unique mechanics or traits beyond standard monster stats, potentially tied to her identity as a Fire Giant.
+*   **Status of Combat:** As of the last record, Tartha is "knocked prone" but not confirmed dead/defeated. This creates a "cliffhanger" state for her character's narrative arc.
 
-- **Orsik:**
-  - **Name and Type:** Player Character (PC)
-  - **Role in the Source:** Peripheral, engaged in combat with Duchess Tartha
-  - **Existing in Wiki:** Likely does not exist in the wiki index.
+## Connections to Existing Wiki
+*   **3HPP:** Directly relates to the core conflict involving the party's status as a threat to the realm.
+*   **Orsik, Thistle, Unla Kee, Vardis:** These are primary players whose interactions with Tartha define her current standing in the narrative.
+*   **Mirran (Contextual):** While not explicitly detailed in the index yet, she is the overarching authority for this arc.
 
-- **Thistle:**
-  - **Name and Type:** Player Character (PC)
-  - **Role in the Source:** Peripheral, engaged in combat with Duchess Tartha
-  - **Existing in Wiki:** Likely does not exist in the wiki index.
+##
 
-- **Vardis:**
-  - **Name and Type:** Player Character (PC)
-  - **Role in the Source:** Peripheral, rendered Duchess Tartha's wall of fire ineffective
-  - **Existing in Wiki:** Likely does not exist in the wiki index.
+## Related
 
-- **Unla Kee:**
-  - **Name and Type:** Player Character (PC)
-  - **Role in the Source:** Peripheral, benefited Duchess Tartha with her fire-based explosion
-  - **Existing in Wiki:** Likely does not exist in the wiki index.
-
-### Key Concepts
-- **Three-Headed Party Problem (3HPP):**
-  - **Definition:** A complex scenario involving multiple factions and their interactions.
-  - **Matters:** Crucial to understanding Duchess Tartha's role and motivations.
-  - **Existing in Wiki:** Likely does not exist in the wiki index.
-
-### Main Arguments & Findings
-- **Core Claims:**
-  - Duchess Tartha is a fire giant lord loyal to Queen Mirran, immune to fire damage, and capable of hitting hard.
-  - She is currently engaged in combat with the party and is knocked prone.
-- **Evidence:**
-  - Direct statements from the source indicating her role and status.
-  - Actions like striking Thistle with her giant sword and crossing Vardis's wall of fire.
-- **Strength of Evidence:**
-  - Strong, based on the detailed description of her combat actions and status.
-
-### Connections to Existing Wiki
-- **Existing Pages:**
-  - The 3HPP concept might need to be created if it doesn't already exist.
-  - Duchess Tartha's specific details could be linked to existing pages on giants, fire resistance, and combat mechanics.
-- **Impact:**
-  - Str
+- [[countess_sansuri]]
+- [[cindell_trueshot]]
+- [[queen_tatiana]]

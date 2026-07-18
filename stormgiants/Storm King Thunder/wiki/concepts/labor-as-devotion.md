@@ -4,7 +4,7 @@ title: Labor as Devotion
 created: 2026-06-15
 updated: 2026-06-15
 tags: [work, sacrifice, sacrament, economy]
-related: [brin-bundlewine, unorthodox-lathanderite-interpretation, weaponization-of-personal-debt, transaction-as-narrative-catalyst]
+related: ["brin-bundlewine", "theology-of-searing-pain", "weaponization-of-personal-debt", "transaction-as-narrative-catalyst"]
 sources: ["npcs/brin_bundlewine.md"]
 ---
 # Labor as Devotion

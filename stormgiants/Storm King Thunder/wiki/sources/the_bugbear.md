@@ -36,7 +36,7 @@ related: []
 - **Strength of Evidence:** Strong, supported by his actions and statements throughout the narrative.
 
 ### Connections to Existing Wiki
-- **[[dungeons-and-dragons-npcs]]**: This NPC fits well within the category of Dungeons & Dragons NPCs.
+- **[[the-bugbear-unnamed]]**: This NPC fits well within the category of Dungeons & Dragons NPCs.
 - **[[pragmatism]]**: Adds depth to the Bugbear’s character by explaining his pragmatic approach to survival.
 - **[[loyalty-transactions]]**: Expands on the Bugbear’s relationship dynamics with the party.
 

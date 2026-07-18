@@ -13,3 +13,7 @@ Intelligence report regarding the Orc Anchorite Moesko, his combat encounter at 
 
 ## Summary
 The document details the defeat of Moesko, a dark cleric of Talos, by the party. It highlights a significant discrepancy between his nominal religious allegiance and the "cold, calculating" alien influence detected through spiritual testimony and physical artifacts. The report also notes the ritualistic use of Moesko's heart to power the Tower of Storms' beacon.
+
+## Related
+
+- [[4-npcs--6-moesko--8qnhxf]]

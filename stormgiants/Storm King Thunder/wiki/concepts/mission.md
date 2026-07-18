@@ -17,3 +17,17 @@ Concept referring to the tasks assigned to the party by Hsing. Central to the na
 ## Notes
 - Assigned by Hsing.
 - Central to the SEER's conflict and operations.
+
+## Related
+
+- [[strategy]]
+- [[planning]]
+- [[seer]]
+- [[regional-threat]]
+- [[patron-adjacent-figure]]
+- [[narrative-universe]]
+- [[spymaster]]
+- [[strategic-importance]]
+- [[payment]]
+- [[region]]
+- [[secret-organization]]

@@ -1,0 +1,142 @@
+[
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is planning the assassination of Ilvara, having deferred to Asha's tactical expertise despite her contempt, and has internalized critical intelligence about the Heart Fungus as infrastructure rather than a mere target.",
+    "source_quote": "I took the note. I filed it. I did not say anything I would regret.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Asha Vandree",
+    "fact": "Asha Vandree is a drow priestess of Lolth who holds tactical authority over the operation against Ilvara, dismissive of Grygum but correct about the Heart Fungus being the key to dismantling Ilvara\u2019s power structure.",
+    "source_quote": "I thought you had strong allies, who had a tactical awareness and understanding how to use their magic for destructive purposes.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a member of the party who raised concerns about spore contamination and proposed the final tactical sequence involving grappling Ilvara into the Phantasmal Killer spell.",
+    "source_quote": "I can try to grab Ilvara and drop her into that, such that you're hurting both of them, and then the rest of you can fireball or whatever from there.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Dragonborn who has been infected by Ilvara's spores, serving as a visual warning to the party, and is credited with securing Glabbagool as an ooze familiar, earning Asha\u2019s reluctant respect.",
+    "source_quote": "Look at him! He's already infected. I don't want to be infected.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jorlan",
+    "fact": "Jorlan is a former lover of Ilvara, now bitter and estranged, whose emotional vulnerability was exploited by Thorin to trigger the Glyph of Warding on the bridge.",
+    "source_quote": "Jorlan still is complaining that Ilvara\u2026 Ilvara this and Ilvara that.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a dwarf brawler who adapted to the ranged nature of the battle by accepting a crossbow and manipulated Jorlan\u2019s rage to activate the Glyph of Warding, turning emotional history into tactical advantage.",
+    "source_quote": "Come get it, idiot!",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Ilvara's Cult",
+    "fact": "Ilvara\u2019s cult consists of drow who have embraced her heretical claims that she is Lolth\u2019s further manifestation, and have willingly succumbed to her spores, becoming hollowed-out spore servants.",
+    "source_quote": "They are the drow of our party whom have totally succumbed to Ilvara's power... embraced the spores and the ecstasy that came through them.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Lolth's Faithful",
+    "fact": "Lolth\u2019s faithful, represented by Asha, reject Ilvara\u2019s heresy and maintain strict devotion to the Spider Queen, distinguishing themselves from those corrupted by the bride cult.",
+    "source_quote": "I have diligently kept the faith to Lolth, and have rejected all of these claims of the bride heresy.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "activation of the Glyph of Warding",
+    "fact": "The Glyph of Warding inscribed on the bridge was triggered by Jorlan\u2019s charge, killing one spore servant and severely damaging another, while also shuddering the Heart Fungus.",
+    "source_quote": "The detonation is immediate and total \u2014 21 damage, one spore servant gone to nothing...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's teleport and grapple on Ilvara",
+    "fact": "Zalthir teleported to Ilvara and successfully grappled her, initiating the final phase of the assassination plan by attempting to drop her into the Phantasmal Killer spell.",
+    "source_quote": "Zalthir vanish \u2014 just gone, teleported straight to her \u2014 and then there's the crack of his fists finding purchase...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Heart Fungus",
+    "fact": "The Heart Fungus is a massive, pulsing fungal entity at the center of Ilvara\u2019s domain, serving as the structural anchor of her control over the cavern and its spore servants.",
+    "source_quote": "The Heart Fungus pulsed between us and her, enormous and obscene, the mechanism of her control.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Bridge of the Glyph",
+    "fact": "The bridge is a strategic chokepoint where Grygum inscribed a Glyph of Warding keyed to Jorlan\u2019s approach, turning the structure into a lethal threshold for Ilvara\u2019s allies.",
+    "source_quote": "The glyph went down on the bridge... Everything on the far side of it was already committed to a detonation it didn't know about yet.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Dust of Suleiman",
+    "fact": "The Dust of Suleiman is a magical substance originally intended for direct use against Ilvara, but reclassified by Asha as superior for infrastructure demolition \u2014 specifically, to destroy the Heart Fungus.",
+    "source_quote": "The Dust of Suleiman... was actually more valuable as infrastructure demolition.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Glyph of Warding",
+    "fact": "The Glyph of Warding is a rune inscribed by Grygum on the bridge, designed to detonate upon approach from Jorlan\u2019s side, functioning as a trap keyed to emotional history rather than factional loyalty.",
+    "source_quote": "I don't know how to inscribe a glyph that will only kill the drow that we don't like.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is an ooze creature presented as Daz\u2019s familiar, whose unnatural presence impressed Asha and provided a cover story to avoid suspicion during the infiltration.",
+    "source_quote": "An ooze familiar,\" she said, looking at Daz now with something approaching respect.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Spore Servants",
+    "fact": "Spore Servants are former drow guards who have fully succumbed to Ilvara\u2019s spores, now shambling, corrupted husks bound to her will and acting as frontline enforcers.",
+    "source_quote": "Four of them, former Velkynvelve guards, shambling and wrong...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Asha's lingering doubt",
+    "fact": "Asha\u2019s final statement \u2014 'I believe' \u2014 introduces critical uncertainty into her otherwise authoritative intelligence, suggesting her knowledge of Ilvara\u2019s spores may be incomplete or faith-based rather than empirical.",
+    "source_quote": "I believe.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Jorlan and Ilvara's broken romance",
+    "fact": "The unresolved romantic history between Jorlan and Ilvara is a destabilizing emotional undercurrent that influences factional loyalty and was weaponized tactically by Thorin.",
+    "source_quote": "They used to have an affair... she broke up with him, and then he was bitter...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Grygum's loss of Asha's respect",
+    "fact": "Asha refuses to speak directly to Grygum, indicating he has lost her trust, creating a silent rift that may hinder coordination during execution.",
+    "source_quote": "She delivered the actual intelligence \u2014 through Daz, not through me, because I had apparently lost her respect...",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occur during the planning and execution of the assassination of Ilvara, following the party's arrival in the Underdark and their prior visit to the Whorlstone Caverns.",
+    "source_quote": "Whatever we'd picked up in Gracklstugh in the Whorlstone Caverns when we visited the pocket dimension...",
+    "quote_verified": false
+  }
+]

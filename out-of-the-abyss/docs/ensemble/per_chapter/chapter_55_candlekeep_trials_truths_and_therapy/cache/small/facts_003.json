@@ -1,0 +1,86 @@
+[
+  {
+    "type": "location",
+    "subject": "The Burning Wizard Inn",
+    "fact": "The Burning Wizard Inn took its name from the death of a wizard burned alive by a dragon cult decades prior. The south wall retains the stain of his fall, and the floor is scrubbed every season but never painted over, as the innkeeper's grandfather said the wall remembers.",
+    "source_quote": "That is where he fell. We scrub the floor every season. We do not paint over the wall. My grandfather said the wall remembers.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Festrum",
+    "fact": "Festrum is the old gnome innkeeper of The Burning Wizard Inn, old enough to have heard the story of the burned wizard from those who witnessed it. He watches the room with the comfortable authority of someone who has survived thirty years of other people's bad decisions.",
+    "source_quote": "Festrum \u2014 the gnome innkeeper, old enough to have heard the story from the people who told it first \u2014 pointed to the south wall without prompting, the way a man points at something he has pointed at ten thousand times before.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Burning Wizard Inn \u2014 exits",
+    "fact": "The Burning Wizard Inn has a front door, a side passage near the kitchen partially obscured by barrels, stairs to the upper rooms, and a narrow but workable window behind the performer's corner.",
+    "source_quote": "Front door, obvious. Side passage near the kitchen, partially obscured by a stack of barrels. Stairs to the upper rooms. The window behind the performer's corner, narrow but workable in an emergency.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Bard",
+    "fact": "A traveling bard performs nightly at The Burning Wizard Inn, known for her closing number 'The Kenku Could Not Fly,' which uses the kenku's restraint as a metaphor for ethical theft. She accepts requests and sings in response to patrons' affiliations.",
+    "source_quote": "She had a closing number she'd been doing all season. This one was called 'The Kenku Could Not Fly.' ... She took the coin and proceeded to sing a love song. Involving flowers. And drinking.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Kenku's Restraint",
+    "fact": "The bard's song references Whistler, a kenku thief of an earlier age who, presented with Tiamat's complete hoard, took only what was necessary for legitimate expenses \u2014 a pattern of disciplined restraint that contrasts with typical human greed or panic.",
+    "source_quote": "Whistler had apparently made a line-item budget. ... Most people, faced with the complete hoard of Tiamat, would either take everything or panic and take nothing.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a Bahamutian scholar with sentimental interest in Stroud, who observes patterns in song and behavior, and who files downgraded theological translations into his notes with polite precision.",
+    "source_quote": "Grygum, who has an irritating habit of noticing things I would have preferred to notice first, observed drily that the song's principle \u2014 steal what was needed \u2014 mapped rather well onto Whistler. ... He received this in the way he receives most things downgraded by translation: politely, and with the file already updated.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "The Young Human Scholar",
+    "fact": "A young human scholar in the far corner of The Burning Wizard Inn is reciting a rhythmic, liturgical chant with a subtle but specific degradation \u2014 a syncopated breath pattern that matches two prior instances observed in Eldred and the Field Ward Preacher, both of whom later exhibited signs of madness.",
+    "source_quote": "He was reciting something under his breath. A chant of some kind. Rhythmic, almost liturgical. ... The pattern was almost the one it was supposed to be \u2014 and wrong by a hair in a way that took actual knowledge of the correct version to notice. ... I have seen it before. Twice. Eldred had it... The Field Ward Preacher had it too.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Degraded Chant",
+    "fact": "A specific, non-beginner-level degradation in the cadence of a liturgical chant \u2014 involving false syncopation and breath timing \u2014 has been observed in three individuals, two of whom later went insane. The pattern may indicate a corrupted doctrine, a cursed practice, or a deliberate mimicry of sacred ritual.",
+    "source_quote": "The same pattern. The same wrongness by a hair. ... I wrote it down. The exact cadence, the placement of the false syncopation, the point in the verse where the chant bent away from the original.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Cognitive Friction of Almost-Recognition",
+    "fact": "The observer experienced a specific cognitive friction \u2014 a sensation of almost-recognition \u2014 previously misattributed to sunlight exposure, now linked to the presence of the degraded chant. This sensation is not a headache, but a precise, knowledge-based dissonance.",
+    "source_quote": "I will not call what I felt next a headache. I will call it the specific cognitive friction of almost-recognition \u2014 something pressing at the edge of attention that wants to be resolved. ... I had been attributing the sensation to sunlight. ... It was a very particular kind of degradation.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Bahamut's Contingency",
+    "fact": "The possibility of Bahamut having a contingency plan for the phenomenon of demon lords rewriting the language of wells and shapes is filed as an open question, unresolved and unverified.",
+    "source_quote": "Bahamut may or may not have had a contingency plan for this. I filed it under open questions and kept writing.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Demon Lords",
+    "fact": "The demon lords are actively broadcasting, finding new listeners, and rewriting the language of wells, shapes, and held things into a form the surface world was not built to receive \u2014 a pervasive, transformative influence.",
+    "source_quote": "Somewhere below us the demon lords were apparently still broadcasting, still finding new listeners, still rewriting the language of wells and shapes and held things into something the surface world hadn't been built to receive.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is referenced as a potential repository of knowledge that may hold records on the degraded chant \u2014 whether it belongs to a group, practice, doctrine, or something else masquerading as one.",
+    "source_quote": "Candlekeep would have records. Someone there would know whether this pattern belonged to a group, a practice, a doctrine \u2014 or whether it was something else being made to look like one.",
+    "quote_verified": true
+  }
+]

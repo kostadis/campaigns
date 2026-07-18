@@ -9,3 +9,12 @@ sources: ["iskander.md"]
 ---
 # Iskander Mission
 What was Iskander's mission within the Cult of the Dragon and how did his betrayal affect the raid on Xonathal's tower?
+
+## Related
+
+- [[iskander-betrayal]]
+- [[iskander-role]]
+- [[iskander-tome]]
+- [[iskander-motivation]]
+- [[iskander-traitor-status]]
+- [[iskander-traitor]]

@@ -50,7 +50,7 @@ related: []
 ### Connections to Existing Wiki
 - **Existing Pages**:
   - [[mirabar]]: Relevant as the setting for the events.
-  - [[caravan-scheduling-code]]: Directly related to the core plot element.
+  - [[caravan]]: Directly related to the core plot element.
 - **Impact**:
   - Strengthens existing knowledge about Mirabar's security apparatus and intelligence operations.
   - Challenges preconceived notions about the efficiency and ruthlessness of the Guard.
@@ -64,10 +64,20 @@ related: []
 ### Recommendations
 - **Pages to Create or Update**:
   - [[mirabar-guard]]: To provide more details about the Guard and Herald's role.
-  - [[caravan-scheduling-code]]: To expand on the significance of the code and its exploitation.
+  - [[caravan]]: To expand on the significance of the code and its exploitation.
 - **Emphasis**:
   - Highlight Herald's role in the Guard and his interactions with the party.
   - Emphasize the importance of the caravan scheduling code.
 - **Open Questions**:
   - What specific methods does Mirabar intend to use to extract the caravan scheduling code from The Weevil?
   - What is Herald's broader authority or rank within the Axe of Mirabar?
+
+## Related
+
+- [[jevin]]
+- [[tolmarra]]
+- [[kurglow]]
+- [[miery]]
+- [[the_wight_elquen]]
+- [[uthor]]
+- [[slayermighty]]

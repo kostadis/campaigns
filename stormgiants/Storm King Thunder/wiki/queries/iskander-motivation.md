@@ -9,3 +9,9 @@ sources: ["iskander.md"]
 ---
 # Iskander Motivation
 What were Iskander's motivations for betraying the Cult of the Dragon and how did these influence his actions during the raid on Xonathal's tower?
+
+## Related
+
+- [[iskander-traitor-status]]
+- [[iskander-role]]
+- [[iskander-traitor]]

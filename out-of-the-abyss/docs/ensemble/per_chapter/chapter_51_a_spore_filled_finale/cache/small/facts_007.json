@@ -1,0 +1,100 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is bound by the frightened condition, unable to move toward Ilvara despite training and intent, and accepts this self-administered discipline with humiliation but no resistance.",
+    "source_quote": "I am supposed to be trying to not be near her. Right.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara",
+    "fact": "Ilvara is wounded and howling, but fills the battlefield with prophecy rather than pleading, invoking Zuggtmoy, the bride, and chaos with the conviction of someone who has already accepted her fate.",
+    "source_quote": "Vengeance. Zuggtmoy. The bride.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "T'sarran Mage",
+    "fact": "The T'sarran mage was struck by an empowered fireball and a lightning bolt that missed, leaving him singed, stunned, and defeated after a dramatic but ineffective entrance.",
+    "source_quote": "I shall punch the mage.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Insect Swarm",
+    "fact": "An insect swarm lingers at the cavern entrance, being dealt with by an unseen ally while the main fight contracts toward resolution.",
+    "source_quote": "Someone else was dealing with the insect swarm at the entrance.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's teleport and strike",
+    "fact": "Zalthir teleported via shadow-step and delivered a single decisive strike that killed the T'sarran mage, ending the threat with minimal effort.",
+    "source_quote": "He teleported across the battlefield \u2014 shadow-step, the distance closing in the space between one breath and the next \u2014 and hit the mage once, and that was enough.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "frightened condition resolving",
+    "fact": "Zalthir's frightened condition cleared at the end of his turn, exactly as promised, without celebration or surprise.",
+    "source_quote": "The fear cleared at the end of his turn, the way it had been promised to.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "fight contracting",
+    "fact": "The battle is contracting toward resolution as threats are eliminated, with allies moving to secure remaining objectives and the radius of conflict shrinking.",
+    "source_quote": "The fight was contracting toward its end the way fights do, the radius shrinking as each threat resolved.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Zuggtmoy's possession",
+    "fact": "Ilvara is speaking and acting under the influence of Zuggtmoy, suggesting a deeper demonic presence or possession that transcends her personal agency and frames her actions as prophecy.",
+    "source_quote": "something that had nothing to do with Ilvara Mizzrym's personal opinion of Zalthir and everything to do with the demon lord wearing her face",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the bride and chaos",
+    "fact": "Ilvara repeatedly invokes 'the bride' and 'mayhem to come,' hinting at an unfolding ritual or apocalyptic event tied to Zuggtmoy that remains unresolved.",
+    "source_quote": "Something about the bride, and chaos, and the mayhem to come.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Cavern",
+    "fact": "The cavern is the site of a resolved combat encounter, now marked by corpses, fungal growth, and lingering threats at its entrance, with allies moving to secure it.",
+    "source_quote": "She was busy reshaping the battlefield around herself, throwing up fungal growth, buying room she knew she needed.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Eldritch Claw Tattoo",
+    "fact": "Zalthir's Eldritch Claw Tattoo grants him fifteen feet of reach with tentacles, which he used to lift and strike Ilvara, but its effectiveness is nullified by his frightened condition.",
+    "source_quote": "Used the Eldritch Claw Tattoo to wrap tentacles around her... He had the Eldritch Claw Tattoo \u2014 fifteen feet of reach \u2014 but the distance between him and Ilvara was not fifteen feet.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "one turn",
+    "fact": "The duration of one turn is emphasized as an excruciatingly long time when one is immobilized by fear and has no action to take.",
+    "source_quote": "One turn is a long time when you have nothing to do in it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is moving forward after the mage's defeat, assisting in the final consolidation of the battlefield.",
+    "source_quote": "Behind Zalthir, someone \u2014 Grygum, probably \u2014 was already moving forward.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "monk's loss of tools",
+    "fact": "Zalthir's identity as a monk is rendered meaningless by his frightened condition, as his martial discipline is paralyzed by fear rather than empowered by it.",
+    "source_quote": "I'm a monk... A monk frozen by fear is a monk who has no tools.",
+    "quote_verified": false
+  }
+]

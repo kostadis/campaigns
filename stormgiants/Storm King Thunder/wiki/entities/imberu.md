@@ -35,3 +35,7 @@ Person (First Hand to Kartha-Kaya), Peripheral
 
 ## Arc Score Events
 - No arc score events recorded in available notes.
+
+## Related
+
+- [[ritual-circles]]

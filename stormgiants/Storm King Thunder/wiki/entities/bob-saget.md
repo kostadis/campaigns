@@ -16,7 +16,7 @@ sources: ["bob_saget.md", "campaign_state-20260520.md"]
 - **Role:** Demon Lord, theatrical performer, and "tormentor of kings who killed their jesters."
 - **Portfolio:** Demonic powers of comedy and jokes, supplemented by traditional demonic punishments.
 - **Faction:** The Abyss; maintains a creative partnership with [[kaelen-sarssir]].
-- **Command:** Commands drow knights, cambions, and a Drow Mage capable of [[corpse-animation]].
+- **Command:** Commands drow knights, cambions, and a Drow Mage capable of [[ritual-of-murderous-spectacle]].
 
 ## Key Operations
 
@@ -28,7 +28,7 @@ Bob utilizes theater to facilitate ritualistic slaughter through a specific meth
 4. Routing actual theatergoers to a personal pocket dimension to maintain the illusion of a successful show.
 
 ### The Silverymoon Incident
-Bob manifested in silverymoon via a [[summoning_ritual]] embedded in [[the-summoning-script]]. After a period of successful cultural infiltration, his true nature was exposed during a performance where he murdered commoner stand-ins for [[the-3hpp]]. He was subsequently banished to the Astral Plane by [[the-3hpp]] using an explosive [[bag-of-holding]] maneuver.
+Bob manifested in silverymoon via a [[summoning-ritual]] embedded in [[does-summoning-ritual-cause-demons-to-appear]]. After a period of successful cultural infiltration, his true nature was exposed during a performance where he murdered commoner stand-ins for [[the-3hpp]]. He was subsequently banished to the Astral Plane by [[the-3hpp]] using an explosive [[bag-of-holding]] maneuver.
 
 ## Current Status
 
@@ -40,4 +40,4 @@ Bob is currently operating between the Astral Plane and the Material Plane.
 - **Pending Deals:** He maintains a transactional relationship involving the exchange of hybrid dragon specimens.
 
 ### Legal Standing
-- **Interplanar Violations:** He remains a high-priority target for [[the-astral-empires]] due to violations of [[the-1489-treaty]] and ongoing issues regarding [[interplanar_relations]].
+- **Interplanar Violations:** He remains a high-priority target for [[the-astral-empires]] due to violations of [[the-1489-treaty]] and ongoing issues regarding [[interplanar-commercial-interests]].

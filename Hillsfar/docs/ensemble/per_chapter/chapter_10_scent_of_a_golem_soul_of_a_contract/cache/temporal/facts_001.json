@@ -1,0 +1,114 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session takes place on April 5th, 2026.",
+    "source_quote": "Date: Apr 5th, 2026",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "lift bypass",
+    "fact": "Felkur rolls a 38 to bypass the lift mechanism.",
+    "source_quote": "Felkur, after rolling a 38 to bypass the lift",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "corridor length",
+    "fact": "The glyph-warded corridor is 50 feet long.",
+    "source_quote": "The party enters a 50-foot corridor",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "trap location",
+    "fact": "A Glyph of Warding is located on the second tile of the corridor.",
+    "source_quote": "Glyph of Warding on the second tile",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "golem count",
+    "fact": "One stone golem guards the vault door.",
+    "source_quote": "a stone golem",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "scent extraction",
+    "fact": "Felkur extracts the scent from the Owlbear which had picked it up not long ago.",
+    "source_quote": "not long ago",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "vault dimensions",
+    "fact": "The vault chamber is 30 feet by 30 feet.",
+    "source_quote": "30-by-30-foot chamber",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "vault temperature",
+    "fact": "The vault chamber is kept at a constant 55 degrees Fahrenheit.",
+    "source_quote": "constant 55 degrees Fahrenheit",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "transaction ID",
+    "fact": "Felkur's record in the Lexicon is identified as Transaction 44781.",
+    "source_quote": "Transaction 44781",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "blood alcohol content",
+    "fact": "Felkur's blood alcohol content was noted at 0.18% during the transaction.",
+    "source_quote": "blood alcohol content noted at a remarkable 0.18%",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "sale price",
+    "fact": "The artifact was sold for forty-five gold pieces.",
+    "source_quote": "forty-five gold pieces",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "sale price",
+    "fact": "The artifact was sold for 45 gold pieces.",
+    "source_quote": "45 gold pieces",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "teleportation circle diameter",
+    "fact": "The teleportation circle at the spire peak is twenty feet in diameter.",
+    "source_quote": "twenty-foot diameter teleportation circle",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "teleportation destinations",
+    "fact": "The teleportation circle connects to five predetermined locations in the Underdark.",
+    "source_quote": "five predetermined locations",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "battle duration",
+    "fact": "Six more rounds remain before the party can escape the spire.",
+    "source_quote": "six more agonizing rounds",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "vault door locks",
+    "fact": "The reinforced Mithril door has three distinct locking mechanisms.",
+    "source_quote": "three distinct locking mechanisms",
+    "quote_verified": true
+  }
+]

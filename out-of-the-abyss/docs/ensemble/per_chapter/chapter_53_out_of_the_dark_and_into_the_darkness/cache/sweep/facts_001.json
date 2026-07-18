@@ -1,0 +1,149 @@
+[
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a male Drow apostate with no noble house affiliation and no apparent strategic value, yet was the subject of a costly contract to protect him from Ilvara's House and the T'sarran goons.",
+    "source_quote": "You don't belong to any noble house, your background is a complete mystery, you suddenly show up, and all of a sudden, we're contracted to protect a nobody.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Nym",
+    "fact": "Nym is a Drow mercenary who speaks with the tone of Menzoberranzan\u2019s natural courtesy, dismisses threats with elegant indifference, and states that the contract terms were to prevent other drow factions from killing Daz.",
+    "source_quote": "Our terms of our contract were to make sure that the other drow factions didn't get you killed.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kaelira",
+    "fact": "Kaelira is a Drow mercenary who expresses professional puzzlement at the scale of expenditure on Daz\u2019s protection, noting that his lack of lineage makes the payment inexplicable.",
+    "source_quote": "That is an excellent question. You don't belong to any noble house, your background is a complete mystery, you suddenly show up, and all of a sudden, we're contracted to protect a nobody. Do you know how much money that required us to get, for us to do? A lot. Like, they interrupt you. A lot.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Menzoberranzan",
+    "fact": "Menzoberranzan is the Drow city where contracts for protection are issued, noble houses wield influence, and financial insulation around payments indicates the payer seeks to avoid association due to embarrassment, illegality, or danger.",
+    "source_quote": "In Menzoberranzan, that level of insulation around a financial transaction means exactly one thing: the payer has significant reason not to be associated with the purchase.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "House Mizzrym",
+    "fact": "House Mizzrym is one of the two named drow houses that sought to kill Daz, as referenced in the contract terms and threat assessment.",
+    "source_quote": "House Mizzrym. House T'sarran. Those were the parameters.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "House T'sarran",
+    "fact": "House T'sarran is one of the two named drow houses that sought to kill Daz, and the mercenaries were prepared to handle them personally if necessary.",
+    "source_quote": "House Mizzrym. House T'sarran. Those were the parameters. They'd been prepared to handle the T'sarran contingent personally if it came to that.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Ilvara's House",
+    "fact": "Ilvara's House is a drow faction that Daz was contracted to be protected from, and is referenced as a threat by the mercenaries.",
+    "source_quote": "Hired to protect me \u2014 specifically, me \u2014 from Ilvara's House and from the T'sarran goons we'd just finished burning.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Asha Vandree",
+    "fact": "Asha Vandree is a Lolth cultist who declared herself in charge after surviving chaos, and was killed by Zalthir with the Eldritch Claw Tattoo after a failed grapple by Thorin.",
+    "source_quote": "I am blessed by Lolth!... I stepped in. The Eldritch Claw Tattoo doesn't announce itself... Asha Vandree did not get another word out.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a Drow who made the decisive call to kill Asha Vandree using the Eldritch Claw Tattoo, believing someone had to act when others hesitated.",
+    "source_quote": "I'm making a call... I stepped in... Someone had to make the call. I made it. That's all.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin attempted to subdue Asha Vandree with a grapple and hand over her mouth, but was corrected by Nym for failing to kill a Lolth cleric properly.",
+    "source_quote": "I also put my hand across her mouth so she can't talk, so... When attacking a cleric of Lolth, one does not just simply grapple them.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum attempted to use divine light against Asha Vandree but missed, and later expressed a preference for non-lethal solutions.",
+    "source_quote": "He leveled something at her \u2014 a directed burst of divine light that should have taken her off her feet \u2014 and it missed... I would prefer not to kill anyone and was trying very hard to think of an alternative.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "the extraction contract",
+    "fact": "The extraction contract is a document produced by the party that was at the center of the threat assessment, later referenced by Kaelira as having been scorched and significant.",
+    "source_quote": "Kaelira gestured toward the scorched remnants of the extraction contract the party had produced \u2014 the document that had apparently been at the center of all this.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "the killing of Asha Vandree",
+    "fact": "Asha Vandree was killed by Zalthir using the Eldritch Claw Tattoo after a failed attempt to grapple her, resulting in a silence that followed a decision that could not be walked back.",
+    "source_quote": "I stepped in... Asha Vandree did not get another word out. The silence after was the particular kind that follows a decision you can't walk back.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "the negotiation of Daz\u2019s protection contract",
+    "fact": "Daz\u2019s protection was contracted by an anonymous payer in Menzoberranzan, with the mercenaries unaware of the employer\u2019s identity, and the payment amount described as extraordinary.",
+    "source_quote": "Someone had paid for this. Someone who knew I was here, knew who was hunting me, and knew enough to contract professionals rather than handle it directly. A lot. Like, they interrupt you. A lot.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "the departure of the Drow sisters",
+    "fact": "Nym and Kaelira departed after fulfilling the contract, professionally and without ceremony, indicating the transaction was complete and no further obligation existed.",
+    "source_quote": "The sisters departed. Professionally. Without ceremony. The contract was fulfilled; they were done.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "the Garden Shadow",
+    "fact": "The Garden Shadow is a place associated with teachings on social authority, referenced by Zalthir in his analysis of Asha Vandree\u2019s claim to leadership.",
+    "source_quote": "I've read rooms like this before. The Garden Shadow had a saying \u2014 or possibly Brother Quellin did... that the most dangerous person in a room isn't the one with the blade drawn. It's the one who has already decided they've won.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "the Eldritch Claw Tattoo",
+    "fact": "The Eldritch Claw Tattoo is a magical ability used by Zalthir to execute Asha Vandree with precise, non-verbal strikes that prevented her from speaking or casting.",
+    "source_quote": "The Eldritch Claw Tattoo doesn't announce itself... my hands were something else \u2014 longer, reaching \u2014 and the strikes came in sequence...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Milo Goodbarrel",
+    "fact": "Milo Goodbarrel is a halfling whose book contains the phrase 'standing at the edge of the question that changes everything,' which the narrator associates with his current existential state.",
+    "source_quote": "Milo Goodbarrel, that relentlessly hopeful halfling whose book I'd read too many times to admit, had a phrase for the sensation I was experiencing. He called it 'standing at the edge of the question that changes everything.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "the revelation of Daz\u2019s unknown value",
+    "fact": "Daz realizes that his survival has been funded at great cost by an unknown party in Menzoberranzan, and that his lack of status makes the investment inexplicable \u2014 suggesting hidden significance.",
+    "source_quote": "I literally have no idea why there's all this focus on me... Someone in Menzoberranzan had spent generously \u2014 they interrupt you, a lot \u2014 to ensure that a male Drow apostate with no house affiliation and no apparent strategic value survived.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "the monastery\u2019s combat drills",
+    "fact": "The monastery\u2019s combat drills are referenced by Zalthir as the source of the precision used in the Eldritch Claw Tattoo strikes against Asha Vandree.",
+    "source_quote": "the strikes came in sequence, each one placed with the kind of precision that the monastery's combat drills were actually good for, the part of the curriculum I had paid attention to.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Brother Harren",
+    "fact": "Brother Harren is a former instructor at the monastery who taught a class on decisive action under moral uncertainty, which Zalthir recalls but cannot remember the content of.",
+    "source_quote": "There was a class for this. Decisive action under moral uncertainty \u2014 the ethics of necessary violence, or something like that. I think it was Brother Harren, the one who never sat down, who taught it. I don't remember what he said.",
+    "quote_verified": true
+  }
+]

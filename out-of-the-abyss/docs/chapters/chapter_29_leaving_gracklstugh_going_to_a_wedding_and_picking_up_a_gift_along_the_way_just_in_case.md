@@ -2,7 +2,7 @@
 ### Grygum
 
 
-Here I am, Gyrgum, half-orc cleric of Bahamut, and Gracklstugh is what makes an orc camp look pretty. 
+Here I am, Grygum, half-orc cleric of Bahamut, and Gracklstugh is what makes an orc camp look pretty. 
 
 
 Any escape will require some "clever and insane scheme" to get through the barred gates of Laduguer's Furrow. 
@@ -173,7 +173,7 @@ He clears his throat and tries to hide the quaver, “Halt in the name of the De
 That’s a surprise. The guard didn’t think we are the Ember Vanguard. Maybe we can get out of here without bloodshed.  
 
 
-Before I can react, Grygum says that they come in Thembersham’s name. 
+Before I can react, Grygum says that they come in Themberchaud’s name. 
 
 
 The guard still refuses to let us pass. 
@@ -281,7 +281,7 @@ Errde will have probably told the Drow that we came through her city, and they w
 Leaving the boat is like leaving a sign. But we might need it later. 
 
 
-Gyrgum shouts, “We could scuttle it.” 
+Grygum shouts, “We could scuttle it.” 
 
 
 I stare at him, perplexed. 

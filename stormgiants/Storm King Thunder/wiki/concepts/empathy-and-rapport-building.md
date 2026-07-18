@@ -11,3 +11,8 @@ sources: ["fiora_bendaega.md"]
 - **Definition:** Fiora's approach to building relationships, characterized by calculated empathy and smooth pivoting.
 - **Matters:** Important for understanding her personality and interactions.
 - **Existing:** Likely already exists in the wiki under a similar concept.
+
+## Related
+
+- [[relationship-dynamics]]
+- [[empathy]]

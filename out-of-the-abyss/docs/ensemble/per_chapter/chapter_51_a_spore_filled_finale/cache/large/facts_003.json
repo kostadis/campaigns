@@ -1,0 +1,135 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a monk who used the Eldritch Claw Tattoo to restrain and attack Ilvara Mizzrym, but was overcome by a fear-induced paralysis when she manifested Zuggtmoy's presence, rendering him unable to close the distance despite his training and reach.",
+    "source_quote": "I am supposed to be trying to not be near her. Right.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara Mizzrym",
+    "fact": "Ilvara Mizzrym, once a drow priestess, became a vessel for Zuggtmoy's corruption, speaking prophecies of the bride, chaos, and mayhem with unwavering conviction, and ultimately detonated into a toxic spore bloom after being struck by Grygum\u2019s Guiding Bolt.",
+    "source_quote": "Vengeance. Zuggtmoy. The bride.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum delivered a divine Guiding Bolt that triggered Ilvara\u2019s catastrophic spore detonation, prioritizing positioning over spectacle, and later noted the lingering threat of House T'sarran and the unresolved mystery of Glabbagool.",
+    "source_quote": "Not ideal, how big is the cloud, glad I was standing back.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin destroyed the bridge and the heart fungus with overwhelming radiant force using Dawnbringer, but spent much of the battle chasing the fight across the cavern, accepting that his role was brute force rather than tactical control.",
+    "source_quote": "I do what I can.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz fired an empowered fireball through the last T'sarran mage, reducing him to a singed, stunned corpse, and had previously launched a dramatic but ineffective lightning bolt into the cavern upon arrival.",
+    "source_quote": "Why exactly this was all fine.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Asha Vandree",
+    "fact": "Asha Vandree knelt after Ilvara\u2019s death and began praying to Lolth, weaving the battle\u2019s horrors into a new theological narrative, signaling the potential resurgence of Lolth\u2019s influence despite the party\u2019s victory.",
+    "source_quote": "Words to Lolth, rising from the wreckage, already reshaping what she'd witnessed into something her goddess could use.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "House T'sarran Warrior",
+    "fact": "The last surviving T'sarran warrior, after witnessing his mage and guards dead and Ilvara reduced to spores, withdrew calmly, issuing a cold threat that he believed would reach the matron mother of his house.",
+    "source_quote": "We will meet again. Enjoy your victory for the moment.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "House T'sarran",
+    "fact": "House T'sarran is a drow house whose mage and warriors were annihilated in the cavern, and whose matron mother is now likely to be alerted to the party\u2019s actions, making them a future threat.",
+    "source_quote": "The matron mother of House T'sarran would be hearing about this.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Zuggtmoy",
+    "fact": "Zuggtmoy, the Demon Lord of Fungi and Decay, fully possessed Ilvara Mizzrym, using her body to speak prophecies and manifest corruption, culminating in her explosive death as a vessel of its will.",
+    "source_quote": "Something Zuggtmoy-deep, something that had nothing to do with Ilvara Mizzrym's personal opinion of Zalthir and everything to do with the demon lord wearing her face.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Ilvara\u2019s detonation",
+    "fact": "Ilvara Mizzrym\u2019s body ruptured into a massive toxic spore bloom after being struck by Grygum\u2019s Guiding Bolt, contaminating the cavern and forcing all nearby combatants to retreat.",
+    "source_quote": "She detonated. Her body ruptured outward in a massive toxic bloom.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Bridge collapse",
+    "fact": "Thorin destroyed the bridge over Velkynvelve, sending Ilvara and Jorlan crashing into the cavern below, which became the primary battlefield for the remainder of the conflict.",
+    "source_quote": "Thorin had already toppled the bridge, sent both of them crashing to the cavern floor.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Heart fungus destruction",
+    "fact": "Thorin obliterated the heart fungus in two radiant swings, eliminating a major environmental hazard and a likely centerpiece of the enemy\u2019s plan.",
+    "source_quote": "Dawnbringer lit the thing up from the first swing and it never got a second chance.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve Cavern",
+    "fact": "Velkynvelve Cavern is the site of a climactic battle where the bridge collapsed, the heart fungus was destroyed, Ilvara detonated, and House T'sarran\u2019s forces were wiped out, leaving behind spore-choked silence and lingering divine prayers.",
+    "source_quote": "The cavern settled into a thick, spore-choked silence.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Eldritch Claw Tattoo",
+    "fact": "Zalthir\u2019s Eldritch Claw Tattoo granted him fifteen feet of reach via tentacles, which he used to haul Ilvara into the air and strike her, but its utility was nullified by his fear-induced paralysis.",
+    "source_quote": "Used the Eldritch Claw Tattoo to wrap tentacles around her, hauled her forty feet into the air.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Dawnbringer",
+    "fact": "Thorin\u2019s sword Dawnbringer emitted radiant energy that destroyed the heart fungus and pulsed with steady warmth after Ilvara\u2019s death, symbolizing his role as a force of divine cleanup.",
+    "source_quote": "Dawnbringer pulsed once, steady warmth against my palm.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Glabbagool",
+    "fact": "The identity and status of Glabbagool remain unresolved after the battle, with Grygum explicitly asking about it as the first question once the spores cleared, suggesting it is a key future concern.",
+    "source_quote": "My first real question, once the cloud was thin enough to breathe through, was about Glabbagool.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Asha\u2019s theology",
+    "fact": "Asha Vandree\u2019s prayers to Lolth after Ilvara\u2019s death suggest a nascent religious reformation is underway, potentially restoring Lolth\u2019s influence through the narrative of the battle.",
+    "source_quote": "Whatever theology she was building out of this moment, I filed it under 'watch this space.'",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "House T'sarran retaliation",
+    "fact": "The T'sarran warrior\u2019s calm departure and vow to return indicate that House T'sarran will seek retribution, and their matron mother is now aware of the party\u2019s existence.",
+    "source_quote": "I'll want to remember that name. The matron mother of House T'sarran would be hearing about this.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "one turn",
+    "fact": "Zalthir endured a full turn of fear-induced paralysis, a duration he perceived as long and humiliating, during which he could not act despite having the means to do so.",
+    "source_quote": "One turn is a long time when you have nothing to do in it.",
+    "quote_verified": true
+  }
+]

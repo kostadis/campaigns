@@ -4,7 +4,7 @@ title: Hsing
 created: 2023-10-05
 updated: 2026-05-22
 tags: [messenger, agent, emissary, SEER, patron-adjacent-figure, pseudodragon, patron, hidden-authority, seer-core]
-related: [azam, seer, layered-command-structure, disguised-influence]
+related: ["azam", "seer", "organizational-secrecy-via-bosses", "disguised-influence"]
 sources: ["hsing.md", "azam.md"]
 ---
 # Hsing
@@ -47,3 +47,7 @@ His role suggests he is either a high-ranking agent of the SEER or its operation
 - Payment control: Sole authority over mission rewards and financial disbursements.
 - Authority: Holds absolute, unspoken authority over Azam and the party; unchallenged even by assertive members.
 - Nature: Pseudodragon with apparent psychic or magical capabilities; silent but profoundly influential.
+
+## Related
+
+- [[seer]]

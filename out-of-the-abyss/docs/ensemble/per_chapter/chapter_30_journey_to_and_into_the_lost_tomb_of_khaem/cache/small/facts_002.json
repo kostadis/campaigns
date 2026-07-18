@@ -1,0 +1,114 @@
+[
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith confirms the direction of the trapped voice leads to The Lost Tomb of Khaem, aligning with the party\u2019s intended path.",
+    "source_quote": "Sarith nods yes, this is the way. Of course, it does.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum leads the descent with keen perception, notes recent damage but no fresh tracks in the dust, and recalls tales of floating undead that rest in tombs.",
+    "source_quote": "Grygum, with his keen perception, takes the lead... He notes recent damage but no tracks... recalls old tales of 'floating undead creatures that typically rest in tombs'.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz checks the altar and finds no arcane significance, and later enters the magical darkness to observe the emerging undead, unable to cast Magic Missile within it.",
+    "source_quote": "Daz checks an altar, finding nothing of arcane significance... Daz won't be able to cast Magic Missile within it.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin leverages the magical darkness to physically push aside the northeast sarcophagus, revealing a hidden hole leading to the true tomb.",
+    "source_quote": "Thorin, strong as an ox, leverages the darkness, pushing the heavy sarcophagus aside... revealing... a hole.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir casts a sphere of magical darkness over the sarcophagus area, disabling ranged spellcasting within it and enabling Thorin\u2019s physical maneuver.",
+    "source_quote": "Zalthir, ever the master of shadow, had just blanketed the area in his magical darkness.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Undead Wraith",
+    "fact": "A weightless, formless undead entity detaches from the shadows, gliding toward the party with a pained moan, emanating intense cold and rime.",
+    "source_quote": "I see a figure detach itself from the shadows and glide toward me\u2014weightless, formless, undead... A chill emanates from everywhere at once. Rime creeps across surfaces...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "The Lost Tomb of Khaem",
+    "fact": "An ancient, subterranean tomb beneath the Underdark, marked by Netherese iconography, hidden passages, and a trapped voice guiding intruders to its heart.",
+    "source_quote": "The Lost Tomb of Khaem... We arrive at a large double door... The stone is ancient, hinting at a lost era... revealing... a hole. The true tomb, perhaps.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Shrine of the Netherese Noble",
+    "fact": "A chamber within the tomb housing a stone diorama of Brysis of Khaem and a mural of floating cities, now cold and littered with dust-tattered tapestries.",
+    "source_quote": "A stone diorama stands to the right, depicting a Netherese noble, Brysis of Khaem... To the left, a sprawling mural covers the wall, illustrating fantastic floating cities... floor littered with shreds of dusty tapestries.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Netherese Calendar Stone",
+    "fact": "A relic found on a landing of the staircase, bearing markings of a bygone Netherese temporal system, its purpose now obscure.",
+    "source_quote": "I note a Netherese Calendar Stone, a relic of a time long gone, its purpose unclear.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Northeast Sarcophagus",
+    "fact": "A stone coffin resting on hidden rollers, concealing a passage to the true tomb, adorned with markings of robed human figures in repose.",
+    "source_quote": "The northeast sarcophagus rests on hidden stone rollers. A possible secret, a hidden passage. This is it.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Netheril Empire",
+    "fact": "An ancient civilization of immensely powerful magic users whose cities defied gravity, ultimately collapsing when a leader sought to seize all magical power and tore reality.",
+    "source_quote": "I know the lore of the Netheril Empire \u2013 a civilization of immensely powerful magic users, whose cities defied gravity, only to fall catastrophically when one of their leaders tried to seize all magical power, tearing the very fabric of reality.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Revelation of the True Tomb",
+    "fact": "The northeast sarcophagus is moved aside in magical darkness, revealing a hidden hole that leads to the true tomb, triggering the emergence of a wraith.",
+    "source_quote": "Thorin... pushing the heavy sarcophagus aside. The stone grinds, revealing... a hole. The true tomb, perhaps. We are finally here... A moan... rises with the wind, and I see a figure detach itself from the shadows...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Trapped Voice",
+    "fact": "A distant, feminine voice calling for help echoes in the minds of the party, leading them to the tomb\u2014its origin and nature remain unexplained.",
+    "source_quote": "A soft, feminine voice, distant yet clear, rings out in my mind, 'Hello? Is someone there? Oh, please, I need your help! I have been trapped in the dark for so long...'",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Fargas Rumblefoot\u2019s Secret Room Warning",
+    "fact": "A prior warning about a 'secret room' or 'false tomb' in this location suggests deception and layered treachery within the tomb\u2019s structure.",
+    "source_quote": "I remember Fargas Rumblefoot's warning about a 'secret room' or 'false tomb' here, adding another layer of treachery to this place.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Brysis of Khaem\u2019s Fate",
+    "fact": "The identity and fate of Brysis of Khaem, the Netherese noble depicted in the diorama, remain unknown\u2014her tomb suggests she may be the source of the undead presence.",
+    "source_quote": "A stone diorama... depicting a Netherese noble, Brysis of Khaem... I wonder what kind of sorceress Brysis was to be buried here.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Session Date",
+    "fact": "The events occur during a session of exploration in the Underdark, following a long descent and sustained vigilance.",
+    "source_quote": "We descend a dusty staircase... We arrive at a large double door... The stairs finally give way to a shrine...",
+    "quote_verified": false
+  }
+]

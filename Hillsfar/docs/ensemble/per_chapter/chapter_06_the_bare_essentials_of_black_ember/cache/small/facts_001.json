@@ -1,0 +1,324 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session takes place on Feb 1st, 2026.",
+    "source_quote": "Date: Feb 1st, 2026",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Black Ember Outpost",
+    "fact": "Black Ember Outpost is a great, black fortress built directly into the wall of a massive cavern in the Underdark.",
+    "source_quote": "a great, black fortress has been built into the wall of the cave",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Black Ember Outpost",
+    "fact": "The outpost is constructed of polished, worked obsidian stone.",
+    "source_quote": "polished obsidian of Black Ember Outpost was built directly into the cave wall",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Black Ember Outpost",
+    "fact": "The only true entrance to the outpost is a set of obsidian double doors.",
+    "source_quote": "A set of obsidian double doors appear to be the only true entrance into Black Ember Outpost",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Great Hall",
+    "fact": "The Great Hall is a titanic chamber nearly one hundred feet wide and long inside the outpost.",
+    "source_quote": "a titanic chamber nearly one hundred feet wide and long",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Fire Giant sergeant",
+    "fact": "A Fire Giant sergeant is drilling troops in the Great Hall.",
+    "source_quote": "A Fire Giant sergeant attempting to drill his ogre troops",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Fire Giant sergeant",
+    "fact": "The Fire Giant sergeant is frustrated with his troops.",
+    "source_quote": "The Fire Giant is frustrated",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur proposed using mage hand to remove the ogres' uniforms.",
+    "source_quote": "Felkur proposes using mage hand to remove the ogres clothes",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur proposed using a recording of female hell hounds to distract the male hell hounds.",
+    "source_quote": "Felkur proposes to use a recording of female hell hounds to distract the male hell hounds",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur cast mage hand to attempt to remove the ogres' clothes.",
+    "source_quote": "Felkur casts mage hand, and attempts to remove the ogres clothes",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur rolled a natural 20 on sleight of hand, causing the ogres not to notice the magical hand.",
+    "source_quote": "Felkur rolls a natural 20 sleight of hand and the Ogres don't notice the disembodied magical hand",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur rolled an 18 on sleight of hand, causing one ogre's uniform to fall off.",
+    "source_quote": "Felkur then rolls an 18, and the uniform of one of the ogres falls off",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein reproduced the sound of female hell hounds for Felkur's illusion.",
+    "source_quote": "And Daein reproduces it for Felkur's illusion",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein created an auditory illusion of a female hell hound.",
+    "source_quote": "Daein created the illusion of a female hell hound",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein mimicked the fire giant's voice with uncanny precision.",
+    "source_quote": "Daein mimicked the fire giant's voice with uncanny precision",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein's illusion included the remark that the human prisoner was particularly beautiful.",
+    "source_quote": "the giant remarking that the human prisoner was particularly beautiful",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas delivered a devastating blow to the fire giant sergeant with her oath-sworn bow.",
+    "source_quote": "Akritas delivered a devastating blow to the fire giant sergeant with her oath-sworn bow",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim waded into battle against the enemies.",
+    "source_quote": "Bramgrim waded into battle",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim lost his concentration after being struck by an ogre.",
+    "source_quote": "Bramgrim losing his concentration after being struck by an ogre",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim acted disappointed by Daein's inability to hit a Fire Giant with a sword.",
+    "source_quote": "Bramgrim acting disappointed from Daein's inability to hit a Fire Giant with a sword",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim abandoned his healing-only approach to unleash devastating magic.",
+    "source_quote": "shamed Bramgrim into abandoning his healing-only approach to unleash devastating magic",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Owlbear",
+    "fact": "The Owlbear savagely finished off the remaining ogres.",
+    "source_quote": "the Owlbear savagely finished off the remaining ogres",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "ogres",
+    "fact": "The ogres were wearing ill-fitting uniforms that were poorly made and barely held together.",
+    "source_quote": "ogres wearing weird uniforms and hell hounds",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "ogres",
+    "fact": "The ogres did not look happy or obedient.",
+    "source_quote": "The ogres do not look happy or obedient",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "ogres",
+    "fact": "The ogres were frustrated and hungry.",
+    "source_quote": "The ogres are frustrated and hungry",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "hell hounds",
+    "fact": "The hell hounds looked bored during the drill.",
+    "source_quote": "The hell hounds look bored",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "hell hounds",
+    "fact": "The hell hounds were more disciplined and sat at attention.",
+    "source_quote": "The hell hounds are more disciplined and sit at attention",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Fire Giant sergeant",
+    "fact": "A single fire giant was drilling two ogres and three hell hounds.",
+    "source_quote": "A single fire giant is drilling two ogres and three hell hounds",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "hell hounds",
+    "fact": "The party observed three hell hounds being drilled.",
+    "source_quote": "drill a squad of miserable ogres and bored hell hounds",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "ogres",
+    "fact": "The party observed two ogres being drilled.",
+    "source_quote": "drill a squad of miserable ogres and bored hell hounds",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "uniform removal",
+    "fact": "Felkur used magical manipulation to strip the ogres of their ill-fitting uniforms.",
+    "source_quote": "Felkur had used magical manipulation to strip the ogres of their ill-fitting uniforms",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "ambush start",
+    "fact": "The ambush began in earnest.",
+    "source_quote": "When the ambush began in earnest",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "illusion of victory",
+    "fact": "Daein convinced anyone listening that the giants had won the battle.",
+    "source_quote": "convincing anyone listening that the giants had won the battle",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "kennel passage",
+    "fact": "The party navigated past a kennel reeking of burned hair.",
+    "source_quote": "navigating past a kennel reeking of burned hair",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "storeroom approach",
+    "fact": "The party reached a storeroom where more ogres hauled water from a well.",
+    "source_quote": "reached a storeroom where more ogres hauled water from a well",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "well identification",
+    "fact": "Bramgrim recognized the well as the entrance to the Path of Shadows.",
+    "source_quote": "Recognizing this well as the entrance to the Path of Shadows",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "silence spell",
+    "fact": "Bramgrim silenced the area to prevent any alarms.",
+    "source_quote": "Bramgrim silenced the area to prevent any alarms",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "second fight",
+    "fact": "The ensuing fight in the storeroom was brutal.",
+    "source_quote": "The ensuing fight was brutal",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daein injured",
+    "fact": "The fire giant landed a bone-crushing blow on Daein.",
+    "source_quote": "the fire giant landing a bone-crushing blow on Daein",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daein counterattack",
+    "fact": "Daein killed an ogre.",
+    "source_quote": "Daein responded with relentless fury, killing an ogre",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daein counterattack",
+    "fact": "Daein struck the giant twice.",
+    "source_quote": "striking the giant twice",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daein gesture",
+    "fact": "Daein winked at the cleric.",
+    "source_quote": "winking at the cleric",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "fire giant death",
+    "fact": "Akritas delivered the final blow to the fire giant.",
+    "source_quote": "Akritas delivered the final blow to the fire giant",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "room secured",
+    "fact": "The room was secured.",
+    "source_quote": "the room was secured",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "human prisoner",
+    "fact": "A human prisoner is held at the outpost and was noted as particularly beautiful.",
+    "source_quote": "the human prisoner was particularly beautiful",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Path of Shadows",
+    "fact": "The well in the storeroom is the entrance to the Path of Shadows.",
+    "source_quote": "entrance to the Path of Shadows",
+    "quote_verified": true
+  }
+]

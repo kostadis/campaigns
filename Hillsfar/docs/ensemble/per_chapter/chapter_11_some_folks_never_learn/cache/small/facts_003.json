@@ -1,0 +1,429 @@
+[
+  {
+    "type": "monster",
+    "subject": "stone golem",
+    "fact": "A stone golem blocks the entrance to the vault acting as an unreasoning guardian.",
+    "source_quote": "A stone golem blocks the entrance to the vault, acting as an unreasoning guardian.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur investigates the golem and determines it is programmed to recognize the specific scent of Vraxen.",
+    "source_quote": "Felkur investigates the golem and determines that it is programmed to recognize the specific scent of Vraxen.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "golem bypass",
+    "fact": "Felkur extracts Vraxen's scent from the Owlbear using a specialized gadget.",
+    "source_quote": "Felkur extracts Vraxen's scent from the Owlbear, who had picked it up while jumping on the Arcanoloth's table earlier.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "golem reaction",
+    "fact": "The golem steps aside to allow the party to reach the reinforced vault door after sensing the familiar scent.",
+    "source_quote": "The golem, sensing the familiar scent, steps aside to allow the party to reach the reinforced vault door.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur uses his thieves' tools to expertly unlock the physical mechanism of the vault door.",
+    "source_quote": "Felkur uses his thieves' tools to expertly unlock the physical mechanism of the vault door.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "vault chamber",
+    "fact": "The vault chamber is a temperature-controlled room kept at a constant 55 degrees Fahrenheit.",
+    "source_quote": "The party enters a temperature-controlled chamber kept at a constant 55 degrees Fahrenheit",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "soul coins",
+    "fact": "The vault chamber is lined with shelves of soul coins.",
+    "source_quote": "lined with shelves of soul coins",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "infernal ledgers",
+    "fact": "The vault chamber contains shelves of infernal ledgers.",
+    "source_quote": "shelves of soul coins, contracts, and infernal ledgers.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim uses his active True Seeing to confirm the room is free of traps.",
+    "source_quote": "Bramgrim uses his active True Seeing to confirm the room is free of traps.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Lexicon of Oaths",
+    "fact": "The party discovers the Lexicon of Oaths, a massive tome bound in devilhide with pages made of processed souls.",
+    "source_quote": "The party discovers the Lexicon of Oaths, a massive tome bound in devilhide with pages made of processed souls",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Lexicon of Oaths",
+    "fact": "The Lexicon of Oaths automatically updates with all infernal contracts.",
+    "source_quote": "automatically updating with all infernal contracts.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur finds his own contract in the ledger identified as Transaction 44781.",
+    "source_quote": "Felkur finds his own contract in the ledger: Transaction 44781",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Limping Oric",
+    "fact": "Felkur sold a priceless brooch to a fence named Limping Oric for 45 gold pieces while intoxicated.",
+    "source_quote": "revealing he sold a priceless brooch while intoxicated for 45 gold pieces to a fence named Limping Oric.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "priceless brooch",
+    "fact": "Felkur's drunken fiddling accidentally activated the brooch's special ability.",
+    "source_quote": "Felkur's drunken fiddling accidentally activated the brooch's special ability",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "The brooch's ability made Felkur impervious to being located.",
+    "source_quote": "making him impervious to being located",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Phantom Thief legacy",
+    "fact": "Felkur became known as the 'Phantom Thief' due to the brooch's ability.",
+    "source_quote": "which is why he became known as the 'Phantom Thief'",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Maerimydra executions",
+    "fact": "The Phantom Thief's actions caused the execution of high investigators in Maerimydra.",
+    "source_quote": "and caused the execution of high investigators in Maerimydra.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Maram il Vass",
+    "fact": "Maram il Vass sold Felkur's information and placed a contract on the party to retrieve the Lexicon.",
+    "source_quote": "Maram il Vass had sold Felkur's information and placed a contract on the party to retrieve the Lexicon.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "elevator approach",
+    "fact": "An elevator is heard approaching the vault.",
+    "source_quote": "As an elevator is heard approaching",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur discovers a loophole in his contract with Maram il Vass stating he is not obligated to deliver the tome if his information is removed.",
+    "source_quote": "Felkur discovers a loophole in his contract with Maram il Vass: if the book no longer contains his information, he is not obligated to deliver the tome.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur decides against ripping a page out of the Lexicon of Oaths to avoid leaving a trace.",
+    "source_quote": "Felkur decides against ripping a page out of the Lexicon of Oaths to avoid leaving a trace of the theft.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur scrambles the magical ledger to replace his own name with that of High Inquisitor Veris.",
+    "source_quote": "Felkur scrambles the magical ledger to replace his own name with that of High Inquisitor Veris.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur forges a new entry in the book attributing the theft to the 'Phantom Thief'.",
+    "source_quote": "Felkur successfully forges a new entry in the book, attributing the theft to the 'Phantom Thief'.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Vraxen's personal journal",
+    "fact": "The party discovers Vraxen's personal journal detailing plans to betray his Yugoloth superiors.",
+    "source_quote": "The party discovers Vraxen's personal journal detailing plans to betray his Yugoloth superiors",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "soul coin ledger",
+    "fact": "The party discovers a soul coin ledger with blackmail potential.",
+    "source_quote": "a soul coin ledger with blackmail potential",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "blank infernal contracts",
+    "fact": "The party discovers blank infernal contracts in the vault.",
+    "source_quote": "and blank infernal contracts.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur steals a large pure crystal known as Faerzess Shard.",
+    "source_quote": "Felkur steals a large pure crystal known as Faerzess Shard",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Faerzess Shard",
+    "fact": "The Faerzess Shard is intended to enhance Felkur's artificer abilities.",
+    "source_quote": "to enhance his artificer abilities.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "golem reactivation",
+    "fact": "A fail-safe security system begins to reactivate the stone golem guarding the vault.",
+    "source_quote": "A fail-safe security system begins to reactivate the stone golem guarding the vault.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim helps the party locate a secret door within the chamber.",
+    "source_quote": "Bramgrim helps the party locate a secret door within the chamber.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "secret passage escape",
+    "fact": "The adventurers slip through the secret passage and climb toward the top of the tower.",
+    "source_quote": "The adventurers slip through the secret passage and climb toward the top of the tower",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "spire peak chamber",
+    "fact": "The party arrives at a 60-foot diameter chamber at the peak of the spire.",
+    "source_quote": "The party arrives at a 60-foot diameter chamber at the peak of the spire",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "teleportation circle",
+    "fact": "The chamber contains a permanent teleportation circle glowing with sickly green energy.",
+    "source_quote": "containing a permanent teleportation circle glowing with sickly green energy",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "spire peak chamber",
+    "fact": "The teleportation circle is surrounded by poisonous clouds.",
+    "source_quote": "surrounded by poisonous clouds.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur uses his artificer tools and collected crystals to begin recalibrating the portal.",
+    "source_quote": "Felkur uses his artificer tools and collected crystals to begin recalibrating the portal",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "portal recalibration",
+    "fact": "Recalibrating the portal requires intense concentration and multiple arcane successes over ten rounds.",
+    "source_quote": "a process requiring intense concentration and multiple arcane successes over ten rounds.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim prepares to block the single iron door leading into the chamber.",
+    "source_quote": "Bramgrim and Daein prepare to block the single iron door leading into the chamber.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein prepares to block the single iron door leading into the chamber.",
+    "source_quote": "Bramgrim and Daein prepare to block the single iron door leading into the chamber.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Owlbear",
+    "fact": "The Owlbear sits on the floor hatch to prevent enemies from entering.",
+    "source_quote": "The Owlbear sits on the floor hatch to prevent enemies from entering.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "portal recalibration stage one",
+    "fact": "Felkur successfully completes the first stages of the arcane recalibration.",
+    "source_quote": "Felkur successfully completes the first stages of the arcane recalibration.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "High Inquisitor Veris",
+    "fact": "High Inquisitor Veris and a stone golem are heard approaching the door.",
+    "source_quote": "High Inquisitor Veris and a stone golem are heard approaching the door",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "High Inquisitor Veris",
+    "fact": "Veris shouts threats of revenge.",
+    "source_quote": "with Veris shouting threats of revenge.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "stone golem",
+    "fact": "The stone golem attempts to push open the door but is initially held back.",
+    "source_quote": "The stone golem attempts to push open the door but is initially held back.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "High Inquisitor Veris",
+    "fact": "Veris commands the golem to tear the door off its hinges.",
+    "source_quote": "Veris commands the golem to tear the door off its hinges.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "portal recalibration stage two",
+    "fact": "Felkur successfully navigates the second phase of the recalibration.",
+    "source_quote": "successfully navigating the second phase of the recalibration.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim casts Sanctuary on Felkur to shield him from direct attacks.",
+    "source_quote": "Bramgrim casts Sanctuary on Felkur to shield him from direct attacks",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein uses a magical mandolin to cast Invisibility on Felkur.",
+    "source_quote": "Daein uses a magical mandolin to cast Invisibility on Felkur",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur hides behind a pillar while maintaining the portal's calibration.",
+    "source_quote": "allowing the gnome to hide behind a pillar while maintaining the portal's calibration.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "stone golem",
+    "fact": "The stone golem smashes the door open.",
+    "source_quote": "The stone golem smashes the door open",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "High Inquisitor Veris",
+    "fact": "Veris teleports into the room to confront the party.",
+    "source_quote": "and Veris teleports into the room to confront the party.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein attempts to shove the stone golem but fails to move it.",
+    "source_quote": "Daein attempts to shove the stone golem but fails to move the massive construct.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Owlbear",
+    "fact": "The Owlbear engages the stone golem in melee.",
+    "source_quote": "The Owlbear engages the stone golem in melee",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Owlbear",
+    "fact": "The Owlbear strikes the stone golem with magical claws.",
+    "source_quote": "striking it with magical claws.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim summons Spirit Guardians that swirl around the battlefield.",
+    "source_quote": "Bramgrim summons Spirit Guardians that swirl around the battlefield",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Spirit Guardians damage",
+    "fact": "The Spirit Guardians damage both the golem and Veris.",
+    "source_quote": "damaging both the golem and Veris.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur deploys his eldritch cannon to blast the stone golem while remaining invisible.",
+    "source_quote": "Felkur, remaining invisible, deploys his eldritch cannon to blast the stone golem.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas uses Hunter's Mark on the golem.",
+    "source_quote": "Akritas uses Hunter's Mark on the golem",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas strikes the golem with a well-aimed shot.",
+    "source_quote": "and strikes it with a well-aimed shot.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "High Inquisitor Veris",
+    "fact": "Veris teleports across the chamber to gain a tactical advantage.",
+    "source_quote": "Veris, furious over the party's forgery and intrusion, teleports across the chamber to gain a tactical advantage.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "combat status",
+    "fact": "The session ends mid-combat on round 4.",
+    "source_quote": "The session ends mid-combat on round 4",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "portal collapse",
+    "fact": "There are 6 more rounds remaining before the portal collapses.",
+    "source_quote": "with 6 more rounds remaining before the portal collapses.",
+    "quote_verified": true
+  }
+]

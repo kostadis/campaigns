@@ -1,0 +1,184 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced as the speaker who confirms the presence of Kalan and the validity of the investigation's conclusion, stating 'He's here.'",
+    "source_quote": "Zalthir confirmed the obvious. \"He's here.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan",
+    "fact": "Kalan is identified as the party wronged, with standing and motivation to be thorough, and the one to whom the evidence should be handed.",
+    "source_quote": "Kalan was the party who had been wronged, Kalan had standing, Kalan was presumably motivated to be thorough.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "A'lai",
+    "fact": "A'lai is a drow with Underdark connections, possibly Menzoberranzan, who held a conspiracy that ended Janussi's life and is now the key to accessing hidden information.",
+    "source_quote": "A'lai, moreover, is a drow. He might have information that Daz needs.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi was a scholar who, in his final day, gave multiple individuals reasons to want him gone, and was later found dead.",
+    "source_quote": "By the end of his last day alive, Janussi had managed to hand Bookwyrm, Alkrist, and A'lai, separately, apparently without coordination, reasons to want him gone.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Alkrist",
+    "fact": "Alkrist is the hand that carried out the conspiracy, as confirmed by his own accounting, and is referenced as sitting and true at the conclusion.",
+    "source_quote": "Alkrist had given us the accounting of it: A'lai as the one who set it in motion, himself as the hand that carried it out.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum proposes blackmail as a strategic option and observes that some treat blackmail as a career, while framing the murder as organizational efficiency.",
+    "source_quote": "We could always decide to blackmail one or more of them.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin insists on acquiring a book per suspect and suggests handing the evidence to Kalan to clean house.",
+    "source_quote": "I'm gonna insist that we get a book per suspect.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is the library where the spell was sought and where Janussi's final actions occurred, referenced as the site of bureaucratic and scholarly tension.",
+    "source_quote": "At Candlekeep, finding such a spell was simply a matter of calling up the right avowed to bring you a scroll from somewhere.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Menzoberranzan",
+    "fact": "Menzoberranzan is referenced as the drow city where survival requires eliminating enemies, and where A'lai\u2019s connections may lie.",
+    "source_quote": "In Menzoberranzan, you do not get to accumulate that many enemies before the city resolves the problem for you.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "poisoned book",
+    "fact": "The poisoned book was reclaimed from Daral and is a key piece of physical evidence in the investigation.",
+    "source_quote": "a poisoned book reclaimed from Daral",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "note in Janussi's hand",
+    "fact": "A note in Janussi's own hand was found on the third floor and contains direct evidence of his final thoughts or actions.",
+    "source_quote": "a note in Janussi's own hand found on the third floor",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Grygum's carefully reassembled wrapping paper",
+    "fact": "Grygum's carefully reassembled wrapping paper is a recovered artifact, possibly containing hidden markings or evidence.",
+    "source_quote": "Grygum's carefully reassembled wrapping paper",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "zone of truth",
+    "fact": "The zone of truth is a magical mechanism that worked without waste and was used to verify statements during the investigation.",
+    "source_quote": "We had the zone of truth as a mechanism, which had worked without waste",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "third floor",
+    "fact": "The third floor is the location where Janussi's handwritten note was discovered.",
+    "source_quote": "a note in Janussi's own hand found on the third floor",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Daral",
+    "fact": "Daral is the location or person from whom the poisoned book was reclaimed.",
+    "source_quote": "a poisoned book reclaimed from Daral",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kaelira",
+    "fact": "Kaelira is the source who previously revealed that someone powerful was paying to protect a man she couldn't understand, establishing the long-term mystery tied to A'lai.",
+    "source_quote": "My training ran toward the opposite: know where every debt is, who holds it, what it costs. The patron entry had been blank for months. Every time I thought I was close to something, it receded. Now there was a compromised drow scholar who might represent the first real lead I'd been offered since Kaelira laid the problem out for me plainly.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Brother Quellin",
+    "fact": "Brother Quellin is one of two possible sources who said that the most dangerous person in a room is the one who has already decided they've won.",
+    "source_quote": "Brother Quellin had said this. Or possibly Brother Harren, I was never certain of the attribution.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Brother Harren",
+    "fact": "Brother Harren is a possible but uncertain source of the observation that the most dangerous person in a room is the one who has already decided they've won.",
+    "source_quote": "Brother Quellin had said this. Or possibly Brother Harren, I was never certain of the attribution.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "workforce restructuring",
+    "fact": "The assassination of Janussi is framed as workforce restructuring, a narrative A'lai may have constructed to mask the crime as administrative efficiency.",
+    "source_quote": "File the assassination under *workforce restructuring*. Enter it in the column marked *organizational efficiency*.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "conspiracy exposure",
+    "fact": "The conspiracy involving A'lai, Alkrist, and others was dismantled in a single afternoon during the investigation.",
+    "source_quote": "a conspiracy that had ended a man's life and that we had dismantled in a single afternoon.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "budget day",
+    "fact": "Budget day is referenced as the day Janussi gave reasons for his own demise, tying his death to institutional financial pressures.",
+    "source_quote": "Budget day. Review day. The day careers were made or broken.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Underdark",
+    "fact": "The Underdark is the subterranean realm connected to A'lai\u2019s origins and potential information networks.",
+    "source_quote": "A'lai. A drow with Underdark connections, possibly Menzoberranzan connections",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is referenced as the entity that may require information from A'lai, implying a higher power or organization with stakes in the conspiracy.",
+    "source_quote": "A'lai, moreover, is a drow. He might have information that Daz needs.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "blackmail proposal",
+    "fact": "Grygum proposes blackmailing one or more suspects as a strategic move, and the group considers it a viable path forward.",
+    "source_quote": "We could always decide to blackmail one or more of them.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "evidence collection",
+    "fact": "The group collects and catalogs physical and testimonial evidence including the poisoned book, the note, and the wrapping paper, establishing the foundation for further action.",
+    "source_quote": "We had a confession, a poisoned book reclaimed from Daral, Grygum's carefully reassembled wrapping paper, a note in Janussi's own hand found on the third floor.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "library",
+    "fact": "The library is the setting where Janussi spent his final day, surrounded by people who had already decided to act against him.",
+    "source_quote": "Janussi had spent his last day in a library full of people who had already decided, and he had offered each of them one more reason on his way through.",
+    "quote_verified": true
+  }
+]

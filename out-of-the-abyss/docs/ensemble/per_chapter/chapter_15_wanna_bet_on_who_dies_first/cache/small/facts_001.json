@@ -1,0 +1,142 @@
+[
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum witnessed the death of a two-headed stone giant at the hands of Duergar using a magical flame device, observed Thorin\u2019s attempt to subdue it, noted Daz\u2019s deliberate weakening of his spells, and heard Zalthir\u2019s fists and Thorin\u2019s blade striking the giant \u2014 ultimately rushing in to strike with his mace. He watched Thorin mourn the giant and saw the Duergar shrink to standard size after the giant\u2019s death.",
+    "source_quote": "Grygum looks at Daz, and then looks at the giant, and thinks, \u201cWell, I guess Daz chose to weaken his spell purposely.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin attempted to subdue the two-headed stone giant, pleaded with the Duergar not to kill it, and later prayed for the dead. He inquired about unusual behavior among giants, used a precise definition of anti-social, non-profitable madness to communicate with the Duergar, and was directed by Dorhun \u2014 a stone giant apprentice of Stonespeaker Hgraam \u2014 to visit Cairngorm Cavern. He confirmed that he tried to subdue Hgraam, not kill him, and was granted safe passage by the Stone Guards.",
+    "source_quote": "\u201cDon\u2019t kill him! There\u2019s something wrong with this giant! Let\u2019s try and subdue him,\u201d shouts Thorin.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir was focused on survival against being burned, crushed, or arrested. He encountered Gartokkar Xundorn, Custodian of the Flame and chief of the Keepers of the Flame, who offered him safe passage through Gracklstugh in exchange for a service. Gartokkar revealed the city\u2019s use of a fire dragon to fuel furnaces, misunderstood sarcasm about being a \u2018lighter,\u2019 and laughed at Grygum\u2019s joke about kindling. Zalthir was warned the offer expires tomorrow and that future encounters may not be friendly.",
+    "source_quote": "\u201cI am the Custodian of the Flame, the chief of the Keepers of the Flame, who tend to Themberchaud\u2019s needs.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz cast magic that deliberately weakened the stone giant\u2019s defenses, as observed by Grygum. He expressed amusement at Gartokkar\u2019s description of the fire dragon as a \u2018lighter,\u2019 suppressing a snigger. He was intrigued by the mechanics of the dragon-fueled furnaces and the role of the Keepers of the Flame in Gracklstugh.",
+    "source_quote": "Daz ask while holding down a snigger, \u201cSo he\u2019s a lighter?\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Gartokkar Xundorn",
+    "fact": "Gartokkar Xundorn is the Custodian of the Flame and chief of the Keepers of the Flame, responsible for tending Themberchaud \u2014 a fire dragon that burns stone-hot to fuel Gracklstugh\u2019s furnaces. He is literal-minded, misunderstood sarcasm, laughed at a joke for the first time in long memory, and offered Zalthir safe passage through the city in exchange for a service. He warned that the offer expires tomorrow and that future interactions may be hostile if declined.",
+    "source_quote": "\u201cYour skill set would be of great value to the city of Gracklstugh. If you were to come to the Keepers of the Flame headquarters and do me a service, I could give you safe passage through the city.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Dorhun",
+    "fact": "Dorhun is a stone giant and former apprentice to Stonespeaker Hgraam. He confirmed Thorin\u2019s account of trying to subdue Hgraam, explained that stone giants have qualified immunity if rampaging, and invited Thorin to visit Cairngorm Cavern before leaving the city. He introduced Rihuud as his companion and commanded Stone Guards to grant Thorin passage, despite the Duergar\u2019s visible resentment.",
+    "source_quote": "\u201cI am Dorhun, and this is Rihuud. We were both apprentices to Stonespeaker Hgraam. Did you kill him?\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Rihuud",
+    "fact": "Rihuud is a stone giant and companion of Dorhun, also an apprentice of Stonespeaker Hgraam. He accompanied Dorhun when he met Thorin and was present when Dorhun granted passage through the city. He did not speak but was part of the authoritative presence that commanded the Stone Guards.",
+    "source_quote": "\u201cI am Dorhun, and this is Rihuud. We were both apprentices to Stonespeaker Hgraam.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Keepers of the Flame",
+    "fact": "The Keepers of the Flame are a prestigious faction within Gracklstugh, responsible for tending Themberchaud \u2014 a fire dragon that burns stone-hot to fuel the city\u2019s furnaces. They are among the Deepking\u2019s most prized advisors. They use a magical flame device to control the dragon\u2019s output and operate under the authority of the Custodian of the Flame. They value utility and efficiency, and they have the power to grant safe passage and immunity from imprisonment.",
+    "source_quote": "\u201cI am the Custodian of the Flame, the chief of the Keepers of the Flame, who tend to Themberchaud\u2019s needs.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Stone Guards",
+    "fact": "The Stone Guards are a faction of stone giants serving as enforcers or gatekeepers in Gracklstugh, loyal to their own kind and under the command of stone giants like Dorhun. They are distinct from Duergar authority and were ordered to grant Thorin passage despite Duergar disapproval, indicating their autonomy and higher status among the city\u2019s non-Duergar powers.",
+    "source_quote": "Turning to the Duergar with the stone weapons, he says, \u201cStone Guards, you are to let them through.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Duergar Patrol",
+    "fact": "The Duergar patrol operates under the authority of the Deepking and is responsible for monitoring and suppressing anti-social, non-profitable madness among giants. They use magical flame devices to subdue or kill rogue stone giants. They are suspicious of non-Duergar authority, resentful of stone giants\u2019 privileges, and maintain strict control over who enters or exits their city. They reported a recent surge in such incidents and acknowledged no known cause.",
+    "source_quote": "\u201cWe have noticed that there have been significantly more incidents of this kind of behavior. As a result, the work of the militias has increased.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Cairngorm Cavern",
+    "fact": "Cairngorm Cavern is a location in Gracklstugh, referenced by Dorhun as a place Thorin must visit before leaving the city. It is implied to be a site of significance to stone giant lore, possibly tied to the legacy of Stonespeaker Hgraam and the deeper history of the city\u2019s giants.",
+    "source_quote": "\u201cI ask you to visit me at Cairngorm Cavern before you leave the city.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh is a subterranean city ruled by the Deepking, where Duergar hold administrative power but stone giants retain ceremonial and military authority. The city relies on the Keepers of the Flame and their fire dragon, Themberchaud, to fuel its furnaces. It has prisons, militias, and a complex hierarchy where non-Duergar individuals require special permission to move freely. The city is marked by tension between Duergar control and stone giant autonomy.",
+    "source_quote": "\u201cYour skill set would be of great value to the city of Gracklstugh.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Flame Device",
+    "fact": "The flame device is a magical apparatus used by Duergar to control and project fire, consisting of a tube connected to a bottle on the back, with a small external flame produced by a magic concoction lit when a lever is pulled. It was used to kill the two-headed stone giant and is a signature tool of the Duergar militias.",
+    "source_quote": "It is a tube that connects to a bottle on their back. At the front of the tube, a small flame sits outside the tube. He realizes that the flame is produced from some kind of magic concoction lit by the tiny flame when the duergar operator pulls a lever.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud is a fire dragon kept by the Keepers of the Flame in Gracklstugh. It burns stone-hot and is used to fuel the city\u2019s furnaces, replacing the need for large amounts of kindling. It is a living, controlled weapon of industrial power, and its care is the most prized duty in the Deepking\u2019s service.",
+    "source_quote": "\u201cwe use a fire dragon that burns stone hot that then is used to keep the furnaces running.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "death of the two-headed stone giant",
+    "fact": "The two-headed stone giant was subdued by Thorin\u2019s attempts and Daz\u2019s weakening spells, struck by Zalthir and Grygum, and ultimately killed by a Duergar flame device. The event triggered Thorin\u2019s mourning, Grygum\u2019s intervention, and the Duergar\u2019s subsequent shrinking to standard size, indicating the completion of their ritual or magical transformation.",
+    "source_quote": "The Duergar, unconvinced by Thorin\u2019s entreaties, kill the giant.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "shrinking of the Duergar",
+    "fact": "After the death of the stone giant, the Duergar who used the flame device shrank to their standard size, suggesting their enlarged forms were magically sustained during the confrontation and were temporary. This shift was observed by Grygum and marked the end of the immediate threat.",
+    "source_quote": "Grygum looks up, and the enlarged Duergars have shrunk to their standard size.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "mystery of the stone giant madness",
+    "fact": "A surge of anti-social, non-profitable madness among stone giants has been reported by Duergar, with no known cause. This phenomenon has increased militia work and may be tied to a clan leader\u2019s hidden knowledge. Thorin and Dorhun\u2019s encounters suggest this is a systemic issue with deep roots in the city\u2019s power structure.",
+    "source_quote": "\u201cWe have noticed that there have been significantly more incidents of this kind of behavior... And we know of no underlying cause. Although a clan leader may have information they have chosen not to share with us.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Gartokkar\u2019s offer to Zalthir",
+    "fact": "Gartokkar offered Zalthir safe passage and protection in Gracklstugh in exchange for a service, with the offer expiring tomorrow. Failure to accept may result in hostile future encounters. The nature of the service is unspecified, creating a pending plot thread that could lead Zalthir into the heart of the Keepers of the Flame\u2019s operations.",
+    "source_quote": "\u201cThe offer expires tomorrow. And if you don\u2019t accept the offer, I cannot promise we will be so friendly when we meet next.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Dorhun\u2019s invitation to Cairngorm Cavern",
+    "fact": "Dorhun invited Thorin to visit Cairngorm Cavern before leaving the city, implying that Hgraam\u2019s legacy, the stone giants\u2019 history, or a deeper secret lies there. This is an unresolved thread that may connect to the mystery of the giant madness, the Duergar\u2019s control, or the origins of the fire dragon.",
+    "source_quote": "\u201cI ask you to visit me at Cairngorm Cavern before you leave the city.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "9th day of the 1st Tenday of Myrtul 1493",
+    "fact": "The events described occurred on the 9th day of the 1st Tenday of Myrtul 1493, marking the temporal anchor for the death of the stone giant, the Duergar\u2019s shrinking, Thorin\u2019s encounter with Dorhun, and the expiration of Gartokkar\u2019s offer.",
+    "source_quote": "9th day of the 1st Tenday of Myrtul 1493",
+    "quote_verified": true
+  }
+]

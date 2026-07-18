@@ -21,3 +21,10 @@ The Anchorite is characterized by a **cold pragmatism**. He demonstrates a lack 
 - **Location:** Last seen in the forest following an ambush.
 - **Objectives:** Unknown, though he is actively operating alongside the raiding party.
 - **Interaction with Party:** He issued a warning to the party to vacate the forest, though his true intentions (mercy vs. leading them into a trap) remain unclear.
+
+## Related
+
+- [[moesko]]
+- [[the-orc-scout]]
+- [[4-npcs--22-the_anchorite_half_orc--lojhh1]]
+- [[the_anchorite_half_orc]]

@@ -27,3 +27,7 @@ Thane Braxow is a Stone Giant Thane, one of the four giant lords assembled by Mi
 
 ## Notes
 - No further personality detail was established before his death.
+
+## Related
+
+- [[blagothkus]]

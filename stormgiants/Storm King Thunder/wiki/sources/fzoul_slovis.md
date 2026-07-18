@@ -1,8 +1,8 @@
 ---
 type: source
 title: "Source: fzoul_slovis.md"
-created: 2026-05-13
-updated: 2026-05-13
+created: 2026-06-06
+updated: 2026-06-06
 sources: ["fzoul_slovis.md"]
 tags: []
 related: []
@@ -10,40 +10,44 @@ related: []
 
 # Source: fzoul_slovis.md
 
-### Key Entities
-- **Fzoul Slovis**: Merchant specializing in magical goods for discerning magic users, known to Unla Kee and associated with the Fishyard.
-- **Zhentarim**: Central faction involved in various operations, including intelligence gathering and recruitment.
-- **Manshoon**: A character previously encountered by the party, killed by Fzoul Slovis.
-- **Darz Helgar**: Mentioned in passing by Fzoul Slovis, possibly connected to the events involving Manshoon.
-- **Orsik**: Identified as a potential recruit by Fzoul Slovis.
-- **Hobgoblin Toll Post Operators**: Adversarial towards Fzoul Slovis, recommending Zhentarim intervention.
+## Key Entities
 
-### Key Concepts
-- **Intelligence Gathering**: Method used by Fzoul Slovis to gather information about the Black Road and goblin threats.
-- **Systematic Elimination of Goblins**: Advocated by Fzoul Slovis to address the goblin menace systematically.
-- **Recruitment**: Fzoul Slovis's efforts to identify and recruit promising individuals like Orsik into the Zhentarim.
+*   **Fzoul Slovis (also known as Fzoul)**
+    *   **Type:** NPC / Zhentarim Operative.
+    *   **Role:** Central to the intelligence and factional layer of the narrative. He serves as a "shadow" presence—a character whose actions and reports influence the world even though he hasn't met the party yet.
+    *   **Wiki Status:** New entry required.
+*   **Zhentarim**
+    *   **Type:** Organization.
+    *   **Role:** Central. The primary faction Slovis belongs to; they are involved in intelligence, trade, and regional power struggles.
+    *   **Wiki Status:** Already exists (linked via `[[zhentarim]]`).
+*   **Manshoon**
+    *   **Type:** Historical Figure / Antagonist.
+    *   **Role:** Peripheral/Historical. His death at the hands of Fzoul is a point of historical fact in the world's lore.
+    *   **Wiki Status:** Not explicitly in index, but likely part of broader "Zhentarim" or "Cult of the Dragon" related content.
+*   **Darz Helgar**
+    *   **Type:** NPC / Informant.
+    *   **Role:** Peripheral. He is the source who provided the information regarding Fzoul's history with Manshoon.
+    *   **Wiki Status:** Not in index; may need a minor entry or inclusion in a "Zhentarim Contacts" page.
+*   **Orsik**
+    *   **Type:** Party Member / Recruitment Target.
+    *   **Role:** Central. A member of the party whom Slovis has identified as a high-value target for recruitment into the Zhentarim.
+    *   **Wiki Status:** Already exists (linked via `[[orsiks-identity-and-role-2026-06-06-002754]]` and `[[concepts/orsik]]`).
 
-### Main Arguments & Findings
-- **Core Claims**: Fzoul Slovis is a Zhentarim operative actively gathering intelligence and advocating for systematic elimination of goblin threats. He has identified Orsik as a potential recruit.
-- **Evidence**: His intelligence report detailing the Hobgoblin toll post and the goblin-attacked caravan near Vuerthyl.
-- **Strength of Evidence**: Strong, as evidenced by the detailed report and the specific recommendations made.
+## Key Concepts
 
-### Connections to Existing Wiki
-- **[[zhentarim]]**: Relevant as Fzoul Slovis is a Zhentarim operative.
-- **[[black-road]]**: Relevance due to his intelligence gathering activities along the Black Road.
-- **[[goblin-threats]]**: Directly related to his advocacy for systematic elimination of goblins.
+*   **Intelligence Reporting / Reconnaissance**
+    *   **Definition:** The systematic gathering of data on enemy movements, logistics (like the hobgoblin toll), and potential assets.
+    *   **Why it matters:** It establishes Slovis as a professional operative rather than a mere soldier; his reports provide the "paper trail" for the party's discovery of him.
+    *   **Wiki Status:** Likely covered under `[[intelligence-network-with-limited-coverage]]`.
+*   **Organizational Inertia**
+    *   **Definition:** The tendency of large organizations (like the Zhentarim) to resist change or act on specific warnings due to internal bureaucracy.
+    *   **Why it matters:** It defines Slovis’s personality as a frustrated, persistent advocate for action against goblins.
+    *   **Wiki Status:** Related to `[[bureaucratic-cowardice]]` and `[[administrative-weaponization-of-authority]]`.
+*   **Recruitment Target (Shadow Recruitment)**
+    *   **Definition:** Identifying and tracking individuals of interest for recruitment before making direct contact.
+    *   **Why it matters:** It creates a "ticking clock" or looming threat/opportunity regarding Orsik’s status within the Zhentarim.
+    *   **Wiki Status:** Related to `[[recruitment-through-integrity]]`.
 
-### Contradictions & Tensions
-- **Contradiction**: The discrepancy between Fzoul Slovis's reported actions (killing Manshoon) and the Zhentarim canon attribution to Fzoul Chembryl.
-- **Tension**: Internal within the Zhentarim ranks, where Fzoul Slovis advocates for action but faces organizational inertia.
+## Main Arguments & Findings
 
-### Recommendations
-- **Create or Update Pages**: 
-  - [[fzoul-slovis]]: Consolidate the information about Fzoul Slovis.
-  - [[zhentarim]]: Add details about Fzoul Slovis's role and his intelligence operations.
-  - [[black-road]]: Include Fzoul Slovis's reconnaissance missions.
-  - [[goblin-threats]]: Detail the systemic elimination efforts advocated by Fzoul Slovis.
-  
-- **Emphasize**: The detailed nature of Fzoul Slovis's intelligence reports and his advocacy for systematic action against goblins.
-- **De-emphasize**: The internal organizational dynamics within the Zhentarim, as they are already covered in broader pages.
-- **Open Question**: Confirm the exact timeline and method of Fzoul Slovis's planned approach to recruit Orsik.
+*   **Identity Consolidation:** The document confirms that the in-game "Fzoul" (who killed Manshoon) and the canon "Fzoul Chembryl" are the same i

@@ -1,0 +1,135 @@
+[
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin experiences a sudden bout of screaming, laughing, and weeping, which he later describes as unexplained but over.",
+    "source_quote": "Thorin suddenly loses it abruptly. He starts screaming, laughing, and weeping. ... 'I have no idea what happened. But I am fine now.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin overhears a bet about his climb and shrugs, then volunteers to climb the cavern roof.",
+    "source_quote": "Thorin overhears the bet and shrugs. He takes a rope, ties it around his waist, and then begins the hazardous sport of climbing to the roof of the cavern and then the gorge.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin shouts that the group doesn't owe Jimjar any more money after successfully crossing the gorge.",
+    "source_quote": "Thorin shouts, 'We don\u2019t owe you any more money, Jimjar.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum finds the name 'Ploopploopeen' to be a tongue twister.",
+    "source_quote": "Grygum hears the name of the archpriest and mutters, 'That\u2019s quite a bit of tongue twister.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum asks Jimjar if he wants to make a bet about whether Thorin will make the climb.",
+    "source_quote": "As Thorin is about to start his climb, Grygum asks Jimjar \u2014 'Wanna make a bet?'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum asks Jimjar if they\u2019ll find monsters in the tomb and bets on skeletons and zombies.",
+    "source_quote": "Grygum, enjoying the taste of toasted Ripplebark, asks Jimjar, 'Wanna bet that we\u2019ll find monsters in the tomb?' ... 'Skeletons and Zombies?' ... 'I\u2019ll take that bet.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir realizes he can climb over the gorge after looking up and seeing the cavern ceiling.",
+    "source_quote": "Zalthir looks up and suddenly realizes he\u2019s in a cave with a ceiling that allows anyone to climb over the gorge.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido is emphatic that leaving corpses will leave a trail for trackers.",
+    "source_quote": "Buppido is emphatic that this will leave a trail.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir decides to drop the bodies into the bottomless gorge based on Buppido\u2019s conviction.",
+    "source_quote": "For some reason, Zalthir believes Buppido. There is something about the Derro\u2019s conviction. And so the bodies are dropped into the bottomless gorge.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Stool",
+    "fact": "Stool identifies a mushroom as a 'Nilhogg's nose' and describes its effects on smell.",
+    "source_quote": "Stool shouts, 'That\u2019s a cool mushroom!' He calls the mushroom a Nilhogg's nose. The young Myconid explains, 'You can eat it, but it won\u2019t fill you up. But after eating it, you can smell better and find good mushrooms and other smells. It\u2019s like the smells become so much more. But if you smell a bad smell, it hurts you a lot more.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth finds Thorin\u2019s relationship with giants offputting due to the lingering trauma of the War of the Giants.",
+    "source_quote": "In the evening, Thorin tries to talk to Eldeth. But the shield dwarf finds Thorin\u2019s relationship with giants to be offputting. The War of the Giants that happened after the War of the Dragons ended in a peculiar stalemate. Although the Ordning was re-established, the giant civil war continued. And the effect on the people of the North was devastating.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth\u2019s frustration at trudging through the dark does not stop her from being an indispensable forager.",
+    "source_quote": "Another day in the dark,' mutters Eldeth. Her frustration at trudging through the dark will not stop her from finding plenty of food. ... Her success as a forager has made her indispensable to the group. Her ability to hide their tracks may be why they are still alive.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Eldeth",
+    "fact": "Eldeth identifies a field of 'Tinmmasks' mushrooms and warns that uprooting them releases poison spores.",
+    "source_quote": "She is standing in front of a cave covered with mushrooms. She shouts, 'Tinmmasks.' ... 'No. If it is heavily damaged or killed by uprooting, it spews a cloud of spores out to a radius of 15 ft. All those within the cloud may be poisoned for about a minute and, when poisoned, are affected by the same effects of a confusion spell.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Eldeth",
+    "fact": "Eldeth identifies a corpse as the bandit who escaped the ambush near the gorge, based on the Tinmmasks spore damage.",
+    "source_quote": "She looks at a corpse, 'that\u2019s what happened to that guy.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum examines the cut on Yuk Yuk\u2019s throat and notes it was made by a shortsword.",
+    "source_quote": "Grygum examines the cut and notes, 'It\u2019s a shortsword. Any one of us could have done it.'",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Thorin\u2019s madness",
+    "fact": "Thorin\u2019s sudden emotional breakdown is unexplained, and whether it is PTSD, Underdark stress, or a religious ritual remains unresolved.",
+    "source_quote": "After about ten minutes, during which no one is sure if he\u2019s suffering from PTSD, whether the stress of the Underdark has become too much, or whether this is some religious ritual, he recovers.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Yuk Yuk\u2019s murder",
+    "fact": "The identity of Yuk Yuk\u2019s killer is unknown, and the shortsword could have been wielded by any member of the group.",
+    "source_quote": "Grygum examines the cut and notes, 'It\u2019s a shortsword. Any one of us could have done it.'",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The origin of the bandits' truce",
+    "fact": "The bandits\u2019 story of being lost in a dungeon is suspected to be a fabrication, but their true motive remains unverified.",
+    "source_quote": "Grygum, Eldeth, and Zalthir realize that the story is a fabrication and that the details are not that important.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The destination debate",
+    "fact": "The group\u2019s conflicting opinions on whether to go to Blingdenstone, Gracklstugh, or the lost temple remain unresolved.",
+    "source_quote": "Topsy and Turvy find the name off-putting. Jimjar is mildly disinterested. Sethir insists they should check out the lost temple and find the treasure. Buppido insists on going to Gracklstugh first... Sethir observes that traveling along the Darklake is less treacherous than traveling in tunnels. Shuushar says he has no interest in traveling past Sloobludop...",
+    "quote_verified": false
+  }
+]

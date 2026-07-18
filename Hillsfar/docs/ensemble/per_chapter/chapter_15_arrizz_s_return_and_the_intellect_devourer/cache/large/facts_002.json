@@ -1,0 +1,737 @@
+[
+  {
+    "type": "event",
+    "subject": "Githyanki ambush",
+    "fact": "Two Githyanki warriors emerge from the muck to ambush the party.",
+    "source_quote": "Two Githyanki warriors emerge from the muck to ambush the party",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thera flees",
+    "fact": "Thera turns invisible and attempts to flee.",
+    "source_quote": "Thera turns invisible and attempts to flee",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Githyanki surprise round",
+    "fact": "The Githyanki launch a surprise round, striking at the Owlbear and other party members.",
+    "source_quote": "The Githyanki launch a surprise round, striking at the Owlbear and other party members",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Owlbear retaliates",
+    "fact": "The Owlbear retaliates with powerful strikes against one of the warriors.",
+    "source_quote": "The Owlbear retaliates with powerful strikes against one of the warriors",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Owlbear targeted",
+    "fact": "The Owlbear is targeted by a psychic blast.",
+    "source_quote": "before being targeted by a psychic blast",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Felkur casts Firebolt",
+    "fact": "Felkur hurls a Firebolt at the attackers.",
+    "source_quote": "Felkur hurls a Firebolt at the attackers",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Akritas slays Githyanki",
+    "fact": "Akritas slays one of the Githyanki warriors.",
+    "source_quote": "Akritas slays one of the Githyanki warriors",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Intellect Devourer emerges",
+    "fact": "A horrific four-legged brain creature \u2014 an Intellect Devourer \u2014 bursts from the fallen enemy's skull.",
+    "source_quote": "a horrific four-legged brain creature \u2014 an Intellect Devourer \u2014 to burst from the fallen enemy's skull",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Intellect Devourer mind blast",
+    "fact": "The Intellect Devourer uses a mind blast that successfully stuns the Owlbear.",
+    "source_quote": "The Intellect Devourer uses a mind blast that successfully stuns the Owlbear",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Owlbear incapacitated",
+    "fact": "The Owlbear is left incapacitated by the mind blast.",
+    "source_quote": "leaving the sidekick incapacitated",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Akritas marks Devourer",
+    "fact": "Akritas places Hunter's Mark on the Intellect Devourer.",
+    "source_quote": "Akritas places Hunter's Mark on the Intellect Devourer",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Akritas strikes Devourer",
+    "fact": "Akritas strikes the Intellect Devourer, leaving it clinging to life.",
+    "source_quote": "and strikes it, leaving it clinging to life",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Bramgrim summons Guardian",
+    "fact": "Bramgrim summons a Guardian of Faith to hold the line.",
+    "source_quote": "Bramgrim summons a Guardian of Faith to hold the line",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Guardian strikes Devourer",
+    "fact": "The Guardian of Faith strikes the Intellect Devourer.",
+    "source_quote": "which strikes the Intellect Devourer",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Devourer reduced to 1 HP",
+    "fact": "The Guardian of Faith reduces the Intellect Devourer to a single hit point.",
+    "source_quote": "and reduces it to a single hit point",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Githyanki escapes",
+    "fact": "The remaining Githyanki warrior uses Misty Step to escape the party's reach.",
+    "source_quote": "The remaining Githyanki warrior uses Misty Step to escape the party's reach",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Session conclusion",
+    "fact": "The session ends with the Intellect Devourer barely alive.",
+    "source_quote": "The session ends with the Intellect Devourer barely alive",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thera status at end",
+    "fact": "The session ends with Thera invisible and fleeing.",
+    "source_quote": "Thera invisible and fleeing",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Rogue Mind Flayer's Lair",
+    "fact": "The Rogue Mind Flayer's Lair is a dark, unsettling complex deep in the Underdark.",
+    "source_quote": "A dark, unsettling complex deep in the Underdark",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Rogue Mind Flayer's Lair",
+    "fact": "The lair contains surgical remains.",
+    "source_quote": "containing surgical remains",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Rogue Mind Flayer's Lair",
+    "fact": "The lair contains detailed maps of surface cities.",
+    "source_quote": "detailed maps of surface cities",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Rogue Mind Flayer's Lair",
+    "fact": "The lair contains stone brain basins that serve as door mechanisms.",
+    "source_quote": "stone brain basins that serve as door mechanisms",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Rogue Mind Flayer's Lair",
+    "fact": "The lair has narrow hallways that restrict large creatures like the Owlbear.",
+    "source_quote": "narrow hallways that restrict large creatures like the Owlbear",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Sporedome",
+    "fact": "The Sporedome is a location in the Underdark where the party had a brief rest.",
+    "source_quote": "A location in the Underdark where the party had a brief rest",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Sporedome",
+    "fact": "The party was summoned from the Sporedome to meet with the mind flayer Glor.",
+    "source_quote": "before being summoned to meet with the mind flayer Glor",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Humid Chamber",
+    "fact": "The Humid Chamber is a stale, humid room within the rogue's lair.",
+    "source_quote": "A stale, humid room within the rogue's lair",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Humid Chamber",
+    "fact": "The Humid Chamber is covered in slick moss and fungus.",
+    "source_quote": "covered in slick moss and fungus",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Humid Chamber",
+    "fact": "The Humid Chamber has several large orbs bobbing in the air.",
+    "source_quote": "with several large orbs bobbing in the air",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Humid Chamber",
+    "fact": "The Humid Chamber contained a brain basin.",
+    "source_quote": "It contained a brain basin",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Humid Chamber",
+    "fact": "The Humid Chamber contained hidden Githyanki warriors.",
+    "source_quote": "hidden Githyanki warriors",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Humid Chamber",
+    "fact": "The Humid Chamber contained the deceptive Duergar Thera Grabelthum buried beneath debris.",
+    "source_quote": "the deceptive Duergar Thera Grabelthum buried beneath debris",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glor",
+    "fact": "Glor is a mind flayer representing the Ryxyg Illithid encampment.",
+    "source_quote": "A mind flayer representing the Ryxyg Illithid encampment",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glor",
+    "fact": "Glor claims his community has chosen peaceful coexistence.",
+    "source_quote": "who claims his community has chosen peaceful coexistence",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glor",
+    "fact": "Glor hired the party to hunt a rogue mind flayer.",
+    "source_quote": "He hired the party to hunt a rogue mind flayer",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glor",
+    "fact": "Glor provided the party with a map to the rogue's lair.",
+    "source_quote": "and provided them with a map to the rogue's lair",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Arrizz",
+    "fact": "Arrizz is a drow acquaintance from the party's past.",
+    "source_quote": "A drow acquaintance from the party's past",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Arrizz",
+    "fact": "Arrizz was found tied to a post and being tormented by Githyanki.",
+    "source_quote": "found tied to a post and being tormented by Githyanki",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Arrizz",
+    "fact": "Arrizz bears distinct facial scars from a past affliction.",
+    "source_quote": "He bears distinct facial scars from a past affliction",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Arrizz",
+    "fact": "Arrizz was suffering from magically induced madness when found.",
+    "source_quote": "was suffering from magically induced madness when found",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Arrizz",
+    "fact": "Arrizz was cured with a magical mushroom.",
+    "source_quote": "After being cured with a magical mushroom",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Arrizz",
+    "fact": "Arrizz agreed to travel alongside the party for a time through the Underdark.",
+    "source_quote": "he agreed to travel alongside the party for a time through the Underdark",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Githyanki Knight",
+    "fact": "The Githyanki Knight is a formidable leader of the Githyanki patrol.",
+    "source_quote": "A formidable leader of the Githyanki patrol",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Githyanki Knight",
+    "fact": "The Githyanki Knight wears ornate exotic armor.",
+    "source_quote": "wearing ornate exotic armor",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Githyanki Knight",
+    "fact": "The Githyanki Knight wields a massive silvery greatsword.",
+    "source_quote": "wielding a massive silvery greatsword",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Githyanki Knight",
+    "fact": "The Githyanki Knight used Misty Step to reposition during combat.",
+    "source_quote": "He used Misty Step to reposition during combat",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Githyanki Knight",
+    "fact": "The Githyanki Knight escaped by casting Plane Shift.",
+    "source_quote": "ultimately escaped by casting Plane Shift",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Githyanki Knight",
+    "fact": "The Githyanki Knight left behind a clear threat that the party had made a permanent enemy.",
+    "source_quote": "leaving behind a clear threat that the party had made a permanent enemy",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Githyanki Warriors",
+    "fact": "The Githyanki Warriors are green-skinned humanoid soldiers.",
+    "source_quote": "Green-skinned humanoid soldiers",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Githyanki Warriors",
+    "fact": "The Githyanki Warriors are ancient enemies of Mind Flayers.",
+    "source_quote": "ancient enemies of Mind Flayers",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Githyanki Warriors",
+    "fact": "The Githyanki Warriors were tormenting Arrizz.",
+    "source_quote": "who were tormenting Arrizz",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Githyanki Warriors",
+    "fact": "The Githyanki Warriors ambushed the party from within the fungal chamber.",
+    "source_quote": "and later ambushed the party from within the fungal chamber",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Githyanki Warriors",
+    "fact": "The Githyanki Warriors are described as arrogant and hostile.",
+    "source_quote": "They are described as arrogant and hostile",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Githyanki Warriors",
+    "fact": "The Githyanki Warriors view other races as subservient.",
+    "source_quote": "viewing other races as subservient",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thera Grabelthum",
+    "fact": "Thera Grabelthum is a Duergar.",
+    "source_quote": "A Duergar",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thera Grabelthum",
+    "fact": "Thera Grabelthum initially claimed to be an innocent traveler captured by Githyanki.",
+    "source_quote": "who initially claimed to be an innocent traveler captured by Githyanki",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thera Grabelthum",
+    "fact": "Thera Grabelthum was revealed under intimidation to be a spy working for the Zhentarim Black Network.",
+    "source_quote": "but was revealed under intimidation to be a spy working for the Zhentarim Black Network",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thera Grabelthum",
+    "fact": "Thera Grabelthum possesses the ability to turn invisible.",
+    "source_quote": "She possesses the ability to turn invisible",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thera Grabelthum",
+    "fact": "Thera Grabelthum attempted to flee during the ambush.",
+    "source_quote": "and attempted to flee during the ambush",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Owlbear",
+    "fact": "The Owlbear is the party's loyal sidekick.",
+    "source_quote": "The party's loyal sidekick",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Owlbear",
+    "fact": "The Owlbear struggled to fit through the narrow hallways of the lair.",
+    "source_quote": "who struggled to fit through the narrow hallways of the lair",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Owlbear",
+    "fact": "The Owlbear was heavily struck by the Githyanki Knight.",
+    "source_quote": "He was heavily struck by the Githyanki Knight",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Owlbear",
+    "fact": "The Owlbear was later stunned by the Intellect Devourer's mind blast.",
+    "source_quote": "and later stunned by the Intellect Devourer's mind blast",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Intellect Devourer",
+    "fact": "The Intellect Devourer is a horrific creature resembling a brain with four feline legs.",
+    "source_quote": "A horrific creature resembling a brain with four feline legs",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Intellect Devourer",
+    "fact": "The Intellect Devourer burst from the skull of a slain Githyanki warrior.",
+    "source_quote": "that burst from the skull of a slain Githyanki warrior",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Intellect Devourer",
+    "fact": "The Intellect Devourer used a powerful mind blast that successfully stunned the Owlbear during combat.",
+    "source_quote": "It used a powerful mind blast that successfully stunned the Owlbear during combat",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Brain Basin",
+    "fact": "Brain Basins are stone basins shaped like the underside of a human brain.",
+    "source_quote": "Stone basins shaped like the underside of a human brain",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Brain Basin",
+    "fact": "Brain Basins serve as macabre key mechanisms for sealed doors within the rogue mind flayer's lair.",
+    "source_quote": "serving as macabre key mechanisms for sealed doors within the rogue mind flayer's lair",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Brain Basin",
+    "fact": "The party discovered multiple Brain Basins.",
+    "source_quote": "The party discovered multiple such basins",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Brain Basin",
+    "fact": "The party recognized that actual brains would be needed to open the corresponding doors.",
+    "source_quote": "and recognized that actual brains would be needed to open the corresponding doors",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Magical Mushroom",
+    "fact": "The Magical Mushroom is a special fungal specimen carried by the party.",
+    "source_quote": "A special fungal specimen carried by the party",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Magical Mushroom",
+    "fact": "The Magical Mushroom was used to cure magically induced madness.",
+    "source_quote": "and used to cure magically induced madness",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Magical Mushroom",
+    "fact": "The Magical Mushroom successfully restored Arrizz's sanity and calculating demeanor.",
+    "source_quote": "It successfully restored Arrizz's sanity and calculating demeanor",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Magical Mushroom",
+    "fact": "The Magical Mushroom appeared to have no effect when given to Thera Grabelthum.",
+    "source_quote": "but appeared to have no effect when given to Thera Grabelthum",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Silvery Greatsword",
+    "fact": "The Silvery Greatsword is a massive, ornate blade carried by the Githyanki Knight.",
+    "source_quote": "A massive, ornate blade carried by the Githyanki Knight",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Silvery Greatsword",
+    "fact": "The Silvery Greatsword was used to deliver powerful blows against the Owlbear during the skirmish in the lair.",
+    "source_quote": "used to deliver powerful blows against the Owlbear during the skirmish in the lair",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Glor's Map",
+    "fact": "Glor's Map is a map provided by the mind flayer Glor.",
+    "source_quote": "A map provided by the mind flayer Glor",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Glor's Map",
+    "fact": "Glor's Map was provided to guide the party through the Underdark to the rogue mind flayer's hideout.",
+    "source_quote": "to guide the party through the Underdark to the rogue mind flayer's hideout",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Glor's Map",
+    "fact": "Glor's Map was referenced in the session recap.",
+    "source_quote": "referenced in the session recap",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Spirit Guardians cast",
+    "fact": "Bramgrim casts Spirit Guardians, summoning spectral spirits that swirled around him in a fifteen-foot radius.",
+    "source_quote": "Cast by Bramgrim, this spell summoned spectral spirits that swirled around him in a fifteen-foot radius",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Spirit Guardians damage",
+    "fact": "The spectral spirits seared several Githyanki warriors with holy energy.",
+    "source_quote": "searing several Githyanki warriors with holy energy",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Spirit Guardians effect",
+    "fact": "The spectral spirits halved the speed of those who failed their saving throws.",
+    "source_quote": "and halving the speed of those who failed their saving throws",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Spiritual Weapon summoned",
+    "fact": "Bramgrim summons a Spiritual Weapon as a bonus action.",
+    "source_quote": "Summoned by Bramgrim as a bonus action",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Spiritual Weapon description",
+    "fact": "The Spiritual Weapon is a floating spectral weapon.",
+    "source_quote": "this floating spectral weapon was conjured",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Spiritual Weapon action",
+    "fact": "The Spiritual Weapon was conjured to strike at enemies from a distance during the battle with the Githyanki.",
+    "source_quote": "to strike at enemies from a distance during the battle with the Githyanki",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Toll the Dead cast",
+    "fact": "Bramgrim uses Toll the Dead, a dark cantrip, to inflict necrotic damage on a wounded Githyanki warrior.",
+    "source_quote": "A dark cantrip used by Bramgrim to inflict necrotic damage on a wounded Githyanki warrior",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Toll the Dead context",
+    "fact": "Toll the Dead was used during the skirmish.",
+    "source_quote": "during the skirmish",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Guardian of Faith cast",
+    "fact": "Bramgrim casts Guardian of Faith to summon a large spectral guardian.",
+    "source_quote": "Cast by Bramgrim to summon a large spectral guardian",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Guardian of Faith action",
+    "fact": "The Guardian of Faith automatically struck out at enemies moving within its reach.",
+    "source_quote": "that automatically struck out at enemies moving within its reach",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Guardian of Faith damage",
+    "fact": "The Guardian of Faith dealt significant damage to the Intellect Devourer.",
+    "source_quote": "dealing significant damage to the Intellect Devourer",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Hunter's Mark used",
+    "fact": "Akritas uses Hunter's Mark to magically mark Githyanki warriors.",
+    "source_quote": "Used by Akritas to magically mark Githyanki warriors",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Hunter's Mark target change",
+    "fact": "Akritas later used Hunter's Mark to mark the Intellect Devourer.",
+    "source_quote": "and later the Intellect Devourer",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Hunter's Mark effect",
+    "fact": "Hunter's Mark allows the user to track targets and deal increased damage with their strikes.",
+    "source_quote": "allowing her to track targets and deal increased damage with her strikes",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Misty Step usage",
+    "fact": "The Githyanki warriors and knight used Misty Step repeatedly to instantly teleport short distances across the battlefield.",
+    "source_quote": "Used repeatedly by the Githyanki warriors and knight to instantly teleport short distances across the battlefield",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Misty Step effect",
+    "fact": "Misty Step allowed the Githyanki to bypass the party's front line.",
+    "source_quote": "allowing them to bypass the party's front line",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Misty Step reposition",
+    "fact": "Misty Step allowed the Githyanki to reposition.",
+    "source_quote": "reposition",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Misty Step escape",
+    "fact": "Misty Step allowed the Githyanki to attempt to escape.",
+    "source_quote": "and ultimately attempt to escape",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Plane Shift cast",
+    "fact": "The Githyanki Knight uses Plane Shift, a powerful spell, to vanish entirely from the material plane.",
+    "source_quote": "A powerful spell used by the Githyanki Knight to vanish entirely from the material plane",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Plane Shift result",
+    "fact": "The Githyanki Knight escaped the party using Plane Shift.",
+    "source_quote": "and escape the party",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Firebolt cast",
+    "fact": "Felkur casts Firebolt against the Githyanki ambushers in the fungal chamber.",
+    "source_quote": "Cast by Felkur against the Githyanki ambushers in the fungal chamber",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Firebolt result",
+    "fact": "The Firebolt landed a hit.",
+    "source_quote": "Despite landing a hit",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Firebolt damage",
+    "fact": "The damage dealt by the Firebolt was unfortunately minimal.",
+    "source_quote": "the damage dealt was unfortunately minimal",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Mind Blast used",
+    "fact": "The Intellect Devourer uses Mind Blast, a psychic ability.",
+    "source_quote": "A psychic ability used by the Intellect Devourer",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Mind Blast result",
+    "fact": "The Mind Blast successfully stunned the Owlbear.",
+    "source_quote": "that successfully stunned the Owlbear",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Mind Blast duration",
+    "fact": "The Mind Blast left the Owlbear incapacitated for a round during the ambush in the fungal chamber.",
+    "source_quote": "leaving the sidekick incapacitated for a round during the ambush in the fungal chamber",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Githyanki enmity",
+    "fact": "The party has made a permanent enemy of the Githyanki Knight.",
+    "source_quote": "leaving behind a clear threat that the party had made a permanent enemy",
+    "quote_verified": true
+  }
+]

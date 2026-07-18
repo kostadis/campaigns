@@ -1,8 +1,8 @@
 ---
 type: source
 title: "Source: daratha_shendrel_delratha.md"
-created: 2026-05-13
-updated: 2026-05-13
+created: 2026-06-05
+updated: 2026-06-05
 sources: ["daratha_shendrel_delratha.md"]
 tags: []
 related: []
@@ -10,67 +10,51 @@ related: []
 
 # Source: daratha_shendrel_delratha.md
 
-### Key Entities
-- **Daratha Shendrel / Delratha**
-  - **Name and Type:** Individual, Merchant
-  - **Role in the Source:** Central
-  - **Likely Exists in Wiki:** Yes
-- **Jacoby**
-  - **Name and Type:** Individual, Actor
-  - **Role in the Source:** Peripheral
-  - **Likely Exists in Wiki:** Yes
-- **Triboar**
-  - **Name and Type:** Organization, City-State
-  - **Role in the Source:** Peripheral
-  - **Likely Exists in Wiki:** Yes
-- **Jacob's Impression**
-  - **Name and Type:** Event, Performance
-  - **Role in the Source:** Peripheral
-  - **Likely Exists in Wiki:** No
-- **Thistle**
-  - **Name and Type:** Individual, Merchant
-  - **Role in the Source:** Peripheral
-  - **Likely Exists in Wiki:** Yes
-- **Tolmarra**
-  - **Name and Type:** Individual, Merchant
-  - **Role in the Source:** Peripheral
-  - **Likely Exists in Wiki:** Yes
-- **Mirak**
-  - **Name and Type:** Individual, Merchant
-  - **Role in the Source:** Peripheral
-  - **Likely Exists in Wiki:** Yes
+## Key Entities
 
-### Key Concepts
-- **Local Governance**
-  - **Definition:** Practical, efficient leadership within a city-state.
-  - **Matters:** Maintaining order and managing crises.
-  - **Relevance:** Highlights Daratha’s role and approach to governance.
-- **Marital Embarrassment**
-  - **Definition:** A pretext used to dismiss concerns without addressing them.
-  - **Matters:** Daratha’s dismissive attitude towards the brothers’ concerns.
-  - **Relevance:** Illustrates Daratha’s character and decision-making process.
-- **Murder Investigation**
-  - **Definition:** The process of uncovering the identity and motives of a murderer.
-  - **Matters:** The discovery of a murdered body and subsequent investigation.
-  - **Relevance:** Demonstrates Daratha’s shift from initial hostility to cooperation.
+*   **Daratha Shendrel (Delratha)**
+    *   **Type:** NPC / Authority Figure
+    *   **Role:** Central (Local authority figure and primary point of contact for the party's investigation into a murder).
+    *   **Status:** New entity. Should be added to the wiki.
+*   **Triboar**
+    *   **Type:** Location/Settlement
+    *   **Role:** Peripheral (The jurisdiction Daratha governs).
+    *   **Status:** Likely exists or needs a page for local geography.
+*   **Tolmarra**
+    *   **Type:** NPC
+    *   **Role:** Central (A figure with a private connection to Daratha; her continued presence in the tower suggests a significant narrative hook).
+    *   **Status:** New entity. Should be added to the wiki.
+*   **Thistle**
+    *   **Type:** NPC / Ally
+    *   **Role:** Central (The party member who provided the "murder" evidence that shifted Daratha's stance).
+    *   **Status:** Already exists in the wiki (as *thistle-wendrod*).
+*   **Mirak**
+    *   **Type:** NPC / Missing Person
+    *   **Role:** Peripheral (The subject of a "wild goose chase" and a potential affair; his disappearance is the catalyst for the brothers' involvement).
+    *   **Status:** New entity. Should be added to the wiki.
+*   **Jacoby**
+    *   **Type:** NPC / Local
+    *   **Role:** Peripheral (Source of information regarding Daratha’s reputation).
+    *   **Status:** New entity.
 
-### Main Arguments & Findings
-- **Core Claims:**
-  - Daratha Shendrel / Delratha is the Lord Protector of Triboar, maintaining order through practical governance.
-  - She dismisses the brothers' concerns about Mirak's disappearance as marital embarrassment.
-  - Upon learning of the murdered body, she accepts the new information and arranges for a *Speak with Dead* casting.
-- **Evidence Supporting Claims:**
-  - Jacoby's impression of Daratha at the Talking Troll.
-  - Daratha's initial dismissal of the brothers' concerns.
-  - Daratha's acceptance of the new information and subsequent actions.
-- **Strength of Evidence:**
-  - Strong, corroborated by multiple instances of Daratha's behavior and decisions.
+## Key Concepts
 
-### Connections to Existing Wiki
-- **[[Triboar]]**: This source provides details about Daratha's role and interactions within Triboar, strengthening existing knowledge.
-- **[[Waterdeep]]**: Daratha's origin suggests connections to Waterdeep, which could be expanded upon.
+*   **Pragmatic Governance:** The shift from emotional/judgmental response to practical action once "hard evidence" (the corpse) is presented. This defines Daratha's character as a realist rather than an antagonist.
+*   **Information-as-Leverage:** The transition of the party’s status in Daratha's eyes from "nuisances" to "investigators" based solely on the revelation of a crime.
+*   **Private vs. Public Relations:** The contrast between Daratha’s public dismissal of the brothers and her private, extended meeting with Tolmarra suggests a layered social structure or hidden agenda.
 
-### Contradictions & Tensions
-- **Internal Tension:**
-  - Daratha’s dismissive attitude towards the brothers contrasts with her willingness to cooperate once the murder is confirmed.
-  - This tension highlights her pragmatic nature and ability to adapt based o
+## Main Arguments & Findings
+*   **Character Archetype:** Daratha is established as a "no-nonsense" administrator. She is not inherently hostile to the party but is protective of her time and resources.
+*   **Narrative Pivot Point:** The mention of a "murdered body" serves as a mechanical and narrative switch, moving the plot from a personal quest (finding Mirak) to a legal/official investigation.
+*   **Suspicion Factor:** The fact that Tolmarra was kept behind while others were dismissed creates an immediate hook regarding her relationship with Daratha or her role in the local power structure.
+
+## Connections to Existing Wiki
+*   **thistle-wendrod:** This source confirms Thistle's role as a primary information provider and negotiator during high-stakes encounters.
+*   **The "Quest as Emotional Trap" / "Information Asymmetry":** These concepts apply here; the party was initially viewed through the lens of their association with the brothers until the murder changed the context.
+
+## Contradictions & T
+
+## Related
+
+- [[drauchanar_chan_the_knife]]
+- [[darathra_shendrel]]

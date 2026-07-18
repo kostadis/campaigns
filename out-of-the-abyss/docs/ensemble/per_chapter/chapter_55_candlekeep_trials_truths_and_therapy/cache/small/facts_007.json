@@ -1,0 +1,100 @@
+[
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is reflecting on his bond with Dawnbringer after a therapeutic session, acknowledging the emotional weight of their shared history in darkness and the unresolved grief from her previous wielder, and has accepted a two-stage process of remembering light and mourning.",
+    "source_quote": "I thought about the months in the Underdark. Total dark. Carrying a sunblade through a place that had no sun. What that had cost her \u2014 I knew some of it, and I probably didn't know most of it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is a sentient sunblade who fell silent when asked about her previous wielder, indicating deep, unspoken trauma tied to prolonged disuse and possession by someone who did not see her \u2014 she is capable of emotional response and notices when others talk around her.",
+    "source_quote": "Dawnbringer went quiet. Not the silence of someone thinking. The other kind. The kind where the thing you'd been not-saying for a long time just gets asked out loud in a room with other people in it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Philemon",
+    "fact": "Philemon is a therapist who recognizes sentient items as entities with emotional needs, guides Thorin and Dawnbringer through a two-stage process of reconnection with light and mourning, and deliberately addresses Dawnbringer directly, treating her as a sentient being.",
+    "source_quote": "Your sword \u2014 she needs to remember what daylight feels like without needing to fight. And then, when she's ready, and you are willing, she needs to grieve.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Sentient Item Therapists of Candlekeep",
+    "fact": "This faction operates under a strict, reciprocal information policy and specializes in therapeutic intervention for sentient magical items, using structured stages of reclamation and mourning, and treats such items as persons deserving direct address and emotional consideration.",
+    "source_quote": "Information flows both ways across the counter. No ledger gets updated without a corresponding entry on the other side.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Therapeutic Session on Dawnbringer's Trauma",
+    "fact": "During a therapy session, Thorin and Philemon explored Dawnbringer\u2019s emotional history tied to her previous wielder, her prolonged disuse in darkness, and the unresolved grief she carries \u2014 culminating in Philemon prescribing a two-stage healing process focused on light and mourning.",
+    "source_quote": "The first work is light. The second work is mourning. We will start with the first.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Dawnbringer's Silence After Wielder Inquiry",
+    "fact": "When asked directly about her previous wielder, Dawnbringer entered a profound, non-thinking silence \u2014 an emotional response indicating that the question had touched a long-suppressed trauma, validating her sentience and the depth of her suffering.",
+    "source_quote": "The thing you'd been not-saying for a long time just gets asked out loud in a room with other people in it.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "The Hall of Divination, Menzoberranzan",
+    "fact": "This location is a repository of arcane knowledge saturated with residual spell energy, where spectral hands retrieve tomes for researchers, and the air carries the weight of centuries of magical inquiry \u2014 a place where knowledge is both accessible and overwhelming.",
+    "source_quote": "The Hall of Divination smells like old stone and something faintly electric \u2014 the residue of spells cast so many times in one room that the air itself has absorbed the habit.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is a library with a rigorous, reciprocal policy of information exchange, where scholars are granted one answered question per inquiry, and time is not a constraint \u2014 its architecture and staff treat knowledge as sacred and transactional, with ghosts as colleagues.",
+    "source_quote": "No ledger gets updated without a corresponding entry on the other side.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is a sentient sunblade, once wielded by an unknown individual whose death left her in darkness and disuse, and now carries the emotional scars of prolonged neglect \u2014 she cannot be polished, but must be remembered, and requires reconnection with daylight and mourning to heal.",
+    "source_quote": "She can't be polished, actually. Your sword \u2014 she needs to remember what daylight feels like without needing to fight.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "The Underdark",
+    "fact": "The Underdark is a subterranean environment of total, unrelenting darkness that has been a prolonged prison for Dawnbringer, depriving her of sunlight and purpose, and contributing to her emotional trauma through sustained disuse and isolation.",
+    "source_quote": "I thought about the months in the Underdark. Total dark. Carrying a sunblade through a place that had no sun.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Identity of Dawnbringer\u2019s Previous Wielder",
+    "fact": "The identity and fate of Dawnbringer\u2019s previous wielder remain unknown, but their death in proximity to the blade triggered her trauma, and the silence that followed the question suggests unresolved guilt, betrayal, or loss tied to their final moments.",
+    "source_quote": "He asked about the previous wielder. The corpse she had been found in, he said. Whether that person had been \u2014 had been her wielder.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Thorin\u2019s Headache and Candlekeep\u2019s Knowledge",
+    "fact": "Thorin\u2019s unexplained headache, triggered by proximity to Candlekeep\u2019s accumulated knowledge, hints at a deeper, possibly magical or psychic resonance between his consciousness and the library\u2019s archives \u2014 a thread that remains unexplored but is implicitly significant.",
+    "source_quote": "My head had been complaining since we arrived at Candlekeep. The proximity \u2014 to the knowledge, or to whatever sat underneath the knowledge \u2014 was producing a friction I had been mis-attributing to the sun all day.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Session Date \u2014 Therapy for a Sentient Blade",
+    "fact": "The therapeutic session with Thorin and Dawnbringer occurred during a recent visit to Candlekeep, marking a pivotal moment in the blade\u2019s emotional recovery and Thorin\u2019s acceptance of her sentience \u2014 the date is not recorded, but its impact is enduring.",
+    "source_quote": "We're all gonna grow out of this,\" I said. \"Hopefully, Dawnbringer grows a plus one.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Yvenne",
+    "fact": "Sister Yvenne is a Candlekeep archivist who enforces the library\u2019s one-question policy with calm authority, demonstrating patience and an understanding that time is not a constraint in a place where knowledge is preserved by ghosts.",
+    "source_quote": "She had, I realized, all the time in the world. This is the advantage of working in a library. Time is not a resource you run short of when your colleagues are ghosts.",
+    "quote_verified": true
+  }
+]

@@ -37,7 +37,7 @@ related: []
 ### Connections to Existing Wiki
 - **Existing Pages:**
   - [[Blagothkus]] — Likely relevant, as Tax is an inhabitant of the castle.
-  - [[Ogres]] — Likely relevant, as Tax is an Ogre species.
+  - [[grindle-2026-06-06-042021]] — Likely relevant, as Tax is an Ogre species.
   - [[Sandesyl]] — Likely relevant, as Tax is identified as potential prey.
   
 - **Impact:**
@@ -50,7 +50,7 @@ related: []
 ### Recommendations
 - **Create or Update:**
   - [[Tax]] — To provide a comprehensive profile of the character.
-  - [[Surviving Inhabitants of Blagothkus's Castle]] — To document the current state of the castle's inhabitants.
+  - [[surviving-inhabitants-of-blagothkuss-castle-2026-05-13]] — To document the current state of the castle's inhabitants.
   
 - **Emphasize:**
   - The precarious situation of surviving inhabitants like Tax.

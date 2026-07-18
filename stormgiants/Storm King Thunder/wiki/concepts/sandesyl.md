@@ -11,3 +11,7 @@ sources: ["iskander.md"]
 Historian and narrator of the story, providing context and details about the events.
 Matters in Source: Crucial to Iskander’s betrayal and the raid on Xonathal’s tower.
 Existing in Wiki: Likely exists
+
+## Related
+
+- [[betrayal]]

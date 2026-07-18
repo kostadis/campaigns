@@ -1,0 +1,191 @@
+[
+  {
+    "type": "npc",
+    "subject": "Tadric",
+    "fact": "Tadric is a young human guard with bowl-cut hair, assigned to crowd control at the crime scene; he admits he failed to observe internal actions, only tracked entry/exit; he is embarrassed and has begun to understand the scope of his missed duty.",
+    "source_quote": "His job had been crowd control. Not observation.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi was the Keeper of the Tower, approximately seventy years old, found dead with his rib cage caved in and heart removed; he was last seen alive before candles burned out, suggesting death occurred hours before discovery; his research notes in Celestial and midnight blue ink indicate recent scholarly work on unfamiliar workings.",
+    "source_quote": "The body was near the desk. His rib cage had been caved in. His heart was missing.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan",
+    "fact": "Kalan, the Gate Warden, conducted a full, deliberate inspection of the crime scene between eleven and his removal; he emerged looking more determined than when he entered; he performed the 'speak with dead' rite on Janussi\u2019s corpse before being relieved.",
+    "source_quote": "He definitely looked more determined after he walked out.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Fembris",
+    "fact": "Fembris is a dwarf who initially claimed the cat was an interdimensional horror created by the Avowed; after observing Bookwyrm\u2019s fear, he reconsidered and accepted the cat may be more than it appears; he vomited upon seeing Janussi\u2019s body and refused to re-enter the chamber.",
+    "source_quote": "These Avowed had taken a cat sitting wherever it liked and turned it into an interstellar, interspatial, interdimensional horror \u2014 that's just what cats do.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm is a drow who issued strict orders to preserve the crime scene and not remove anything; she arrived at the scene at nine, observed briefly, confirmed the Gate Warden\u2019s orders, and departed without further involvement; her authority is unquestioned.",
+    "source_quote": "Report back when done. Remove nothing from the room.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a dragonborn with exceptional attention to detail; he analyzed the wound pattern on Janussi\u2019s body and concluded the rib cage was shattered by multiple axe blows, the heart removed post-mortem, and the blood spatter inconsistent with a violent death; he supported the theory that the heart was removed to prevent resurrection.",
+    "source_quote": "The rib cage had been smashed by something like an axe, multiple blows, close together, deliberate.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a dwarf who identified the motive behind the heart\u2019s removal: to prevent ritual resurrection by making the corpse permanently inaccessible to necromantic rites; his insight aligned with the observed evidence and the failed 'speak with dead' attempt.",
+    "source_quote": "You can't bring someone back from death by ritual if their vital organs aren't present.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "A'lai Aivenmore",
+    "fact": "A'lai Aivenmore, the Great Reader, discovered Janussi\u2019s body alongside housekeeper Miss Hollypocket at approximately 7:30 a.m.; he is a key witness in the timeline and was present during the initial discovery.",
+    "source_quote": "Janussi had been found dead by the Great Reader A'lai Aivenmore and the housekeeper, one Miss Hollypocket, around half past seven in the morning.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Miss Hollypocket",
+    "fact": "Miss Hollypocket is the housekeeper who discovered Janussi\u2019s body; she would never permit candles to burn to nothing, confirming that Janussi was dead before the candles extinguished, thus placing the time of death significantly earlier than discovery.",
+    "source_quote": "Miss Hollypocket would never have allowed the Keeper to let candles burn down to nothing.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kazryn Nyantani",
+    "fact": "Kazryn Nyantani arrived shortly after eight a.m., distraught, and was permitted only to view the body from the doorway; her emotional state suggests personal connection to the victim.",
+    "source_quote": "Kazryn Nyantani, distraught, shortly after eight \u2014 allowed to see the body but only from the doorway.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Fheminor Scrivenbark",
+    "fact": "Fheminor Scrivenbark arrived at 8:30 a.m., appearing shocked, and requested to inspect the chamber but was turned away; his insistence suggests either professional interest or hidden motive.",
+    "source_quote": "Fheminor Scrivenbark at half past eight, appearing shocked, wanting to inspect the chamber, turned away.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "time of death",
+    "fact": "Janussi was murdered well before 7:30 a.m., likely between midnight and 5 a.m., as evidenced by the complete burning of seven candles and the absence of tobacco smoke renewal; the room had been sealed for hours.",
+    "source_quote": "The candles told the same story... it had been some time since he was murdered.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "heart removal",
+    "fact": "Janussi\u2019s heart was removed after death, not as a cause of death but as a ritual precaution to prevent resurrection; the wound showed blunt force trauma from multiple axe blows, and blood spatter indicated the victim was already deceased.",
+    "source_quote": "The heart was missing. No other organs. And the blood was localized. Wrong pattern for what should have been a violent death.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "speak with dead rite",
+    "fact": "The Gate Warden performed the 'speak with dead' ritual on Janussi\u2019s corpse during his inspection; the rite has been spent, and no further attempts can be made for a significant duration; this confirms the killer anticipated magical inquiry.",
+    "source_quote": "The dead had not spoken. Someone \u2014 presumably the Gate Warden \u2014 had already used the rite on the corpse.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Keeper's Chambers",
+    "fact": "The Keeper's Chambers is a circular room with lancet windows, filled with lingering tobacco smoke and extinguished candles; the desk is neat, with a toppled chair, broken statue, and a spellbook open to research on unfamiliar workings; the safe is open, blue gems scattered, but untouched; the ink pot is spilled, quill on floor with midnight blue ink.",
+    "source_quote": "The room was circular, ringed with lancet windows... the safe on the far wall had been opened.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Third Floor Apartment",
+    "fact": "The third-floor apartment has its door left conspicuously ajar; it is unentered by investigators but noted as potentially significant; the cat is observed near the stairs between floors and exhibits unnatural awareness.",
+    "source_quote": "A large apartment at the third with its door left conspicuously ajar. I noted the apartment. Noted that the door was open.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "The Discoveries (spellbook)",
+    "fact": "An open spellbook on Janussi\u2019s desk titled The Discoveries contains Celestial annotations and academic musings on unfamiliar workings; it represents his current research focus before death.",
+    "source_quote": "A spellbook sat open in the center of the desk: The Discoveries.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Midnight Blue Ink Notes",
+    "fact": "A pile of notes pinned under quartz weight, annotated in midnight blue ink, contain recent, urgent writings by Janussi; the ink quill on the floor matches this ink; the associated book, The Golden Ass, is missing.",
+    "source_quote": "A larger pile of notes pinned under a quartz weight, with more annotations on top in midnight blue ink \u2014 and below those, older notes in purple.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "The Golden Ass",
+    "fact": "The book The Golden Ass, referenced in Janussi\u2019s most recent notes, is missing from the room; its absence suggests it was removed deliberately, possibly containing the key to what Janussi discovered before his death.",
+    "source_quote": "The book the blue ink was annotating \u2014 The Golden Ass \u2014 wasn't in the room.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Ink Pot and Quill",
+    "fact": "A wicker ink carrier is damp, the ink pot is spilled, and a quill with a midnight blue nib lies on the floor \u2014 both untouched since the spill, indicating the attack occurred immediately after writing.",
+    "source_quote": "The quill had gone with it. Neither the ink nor the quill had been moved since.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Candelabra",
+    "fact": "A seven-armed bronze candelabra has burned all seven candles to wax puddles, confirming the room remained sealed for many hours after death; the candles\u2019 complete consumption contradicts housekeeper Hollypocket\u2019s standards.",
+    "source_quote": "The candelabra \u2014 seven arms, bronze \u2014 had burned its candles entirely to wax puddles.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "missing heart",
+    "fact": "The removal of Janussi\u2019s heart was not for theft but to prevent resurrection; the killer anticipated magical intervention and acted to ensure permanent death; this implies knowledge of arcane law and ritual limitations.",
+    "source_quote": "They wanted Janussi to stay dead in every sense that mattered.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Gate Warden's discovery",
+    "fact": "The Gate Warden found something during his inspection that made him leave the chamber more determined \u2014 possibly evidence of the killer\u2019s identity, the location of the missing book, or confirmation of the heart\u2019s ritual purpose; he was removed before being questioned.",
+    "source_quote": "He definitely looked more determined after he walked out.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "ajar third-floor door",
+    "fact": "The third-floor apartment door is left open, unexamined, and the cat is frequently observed nearby; the apartment may contain the missing book, the killer\u2019s trace, or a hidden ritual site.",
+    "source_quote": "A large apartment at the third with its door left conspicuously ajar.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "cat's nature",
+    "fact": "The gray cat with yellow eyes exhibits unnatural awareness, tracks investigators without moving, and has been the subject of theological debate \u2014 whether it is a familiar, a shapeshifter, or a sentient entity; Bookwyrm\u2019s fear and Fembris\u2019s reconsideration suggest it is more than it seems.",
+    "source_quote": "Nobody had been able to conclusively prove the cat was some kind of power that lived here, and nobody had been able to conclusively prove that it was not.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "time of discovery",
+    "fact": "Janussi\u2019s body was discovered at 7:30 a.m. by A'lai Aivenmore and Miss Hollypocket; the timeline of visitors extends from 8 a.m. to 11 a.m., with the Gate Warden\u2019s inspection being the final known activity before investigators arrived.",
+    "source_quote": "Janussi had been found dead... around half past seven in the morning.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "time of inspection",
+    "fact": "The Gate Warden conducted his full inspection at 11 a.m., after which he was relieved; this is the last confirmed activity before the current investigation began.",
+    "source_quote": "The Gate Warden again at eleven, alone, for a full inspection.",
+    "quote_verified": false
+  }
+]

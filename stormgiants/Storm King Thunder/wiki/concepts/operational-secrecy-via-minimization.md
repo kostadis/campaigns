@@ -4,7 +4,7 @@ title: Operational-secrecy-via-minimization
 created: 2026-06-15
 updated: 2026-06-15
 tags: [secrecy, deception, institutional-control, concealment, narrative-economy]
-related: [jenna-roscoe, kraken-society, cover-identity-as-merchant, lord-s-alliance]
+related: ["jenna-roscoe", "kraken-society", "cover-identity-as-merchant", "lords-alliance"]
 sources: ["npcs/jenna.md"]
 ---
 # Operational-secrecy-via-Minimization

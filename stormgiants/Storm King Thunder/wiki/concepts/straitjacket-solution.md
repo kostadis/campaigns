@@ -4,7 +4,7 @@ title: Straitjacket Solution
 created: 2026-06-15
 updated: 2026-06-15
 tags: [non-technological-intervention, restraint, humane-innovation, anti-hubris]
-related: [fibblestib, dabbledob, sanity-ray, king-korboz, unregulated-invention]
+related: ["fibblestib", "dabbledob", "technology-as-cure", "king-korboz", "unregulated-invention"]
 sources: ["npcs/fibblestib.md"]
 ---
 # Straitjacket Solution
@@ -16,3 +16,7 @@ This concept embodies a radical humility in the face of psychological complexity
 It stands as a direct counterpoint to technological hubris, reflecting the wiki’s broader theme of [[moral-blind-spot-in-pragmatism]] — but inverted. Where Daran Edermath’s pragmatism ignores spiritual cost, Dabbledob’s pragmatism respects human limits. The Straitjacket Solution is not a failure of imagination — it is an act of profound wisdom.
 
 Its existence challenges the assumption that innovation must be flashy, loud, or transformative. Sometimes, the most ethical invention is the one that does nothing — and simply holds.
+
+## Related
+
+- [[technology-as-cure]]

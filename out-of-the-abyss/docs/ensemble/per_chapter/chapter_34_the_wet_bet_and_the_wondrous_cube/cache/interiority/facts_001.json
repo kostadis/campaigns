@@ -1,0 +1,268 @@
+[
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar believes the shifting passages of the Underdark are to be expected and that finding an exit through their current location is remarkably convenient.",
+    "source_quote": "He insisted that the shifting passages were to be expected and that finding an exit through their current location was remarkably convenient",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a skeptic who predicts that their situation will end in tears, meaning some unfortunate event will befall them before they reach safety.",
+    "source_quote": "Thorin, ever the skeptic, predicted that this situation would end in tears, meaning some unfortunate event would befall them before they reached safety",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Jimjar",
+    "fact": "Jimjar proposed a wager on whether tears\u2014literal or metaphorical\u2014would mark their journey.",
+    "source_quote": "Jimjar, never one to pass up an opportunity, proposed a wager on whether tears\u2014literal or metaphorical\u2014would indeed mark their journey",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin accepted the bet on whether tears would mark their journey.",
+    "source_quote": "After carefully defining the terms, Thorin accepted the bet",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz investigated and confirmed that an earthquake had caused an underground reservoir to crack open, and water was pouring into the cave system.",
+    "source_quote": "Daz investigated further and confirmed the dire situation: an earthquake had caused an underground reservoir to crack open, and water was pouring into the cave system",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool was once an ordinary gelatinous cube, mindlessly cleaning floors and consuming debris, but recently gained the ability to think and speak.",
+    "source_quote": "Glabbagool explained that he had once been an ordinary cube, mindlessly cleaning floors and consuming debris, but had recently gained the ability to think and speak",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is confused by his newfound sentience but eager to understand the world around him.",
+    "source_quote": "He was confused by his newfound sentience but eager to understand the world around him",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin invited Glabbagool to join their adventure after seeing an opportunity for both companionship and utility.",
+    "source_quote": "Thorin, seeing an opportunity for both companionship and utility, invited Glabbagool to join their adventure",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool agreed enthusiastically to join the party and promised to eat anything they dropped on the floor.",
+    "source_quote": "The cube agreed enthusiastically, promising to eat anything they dropped on the floor",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool expressed gratitude when Thorin offered him a lucky foot as a welcoming gift.",
+    "source_quote": "expressing gratitude when Thorin offered him a lucky foot as a welcoming gift",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin barely managed to grab the edge of a hidden pit trap and pull himself out before a black pudding emerged.",
+    "source_quote": "Thorin fell victim to a hidden pit trap, barely managing to grab the edge and pull himself out before a black pudding emerged from the depths",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir stepped forward without hesitation and struck the gray ooze with a series of powerful blows from his bare fists.",
+    "source_quote": "Zalthir stepped forward without hesitation, striking the creature with a series of powerful blows from his bare fists",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin attempted to engage the oozes from a distance by shooting darts at them, hoping to avoid the creatures' corrosive touch.",
+    "source_quote": "Thorin attempted to engage the oozes from a distance by shooting darts at them, hoping to avoid the creatures' corrosive touch",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool inadvertently blocked the narrow passage with his ten-foot-by-ten-foot body.",
+    "source_quote": "Glabbagool\u2014a massive gelatinous cube they had just befriended\u2014inadvertently blocked the narrow passage with his ten-foot-by-ten-foot body",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party gently suggested that Glabbagool might be better suited to the rear of their formation.",
+    "source_quote": "The party gently suggested that their new companion might be better suited to the rear of their formation",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz finished off one of the gray oozes with a devastating spell.",
+    "source_quote": "Daz finished off one of the gray oozes with a devastating spell",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool cheerfully acknowledged that perhaps he should indeed stay in the back.",
+    "source_quote": "Glabbagool cheerfully acknowledged that perhaps he should indeed stay in the back",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool volunteered to investigate the chamber with the formless sculptures first, offering to touch them to see what would happen.",
+    "source_quote": "Glabbagool volunteered to investigate the room first, offering to touch the mysterious sculptures to see what would happen",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir sprang into action and dispatched the gray ooze that materialized from the formless sculpture with a flurry of precise strikes.",
+    "source_quote": "Zalthir sprang into action, dispatching the creature with a flurry of precise strikes",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool meticulously cleaned up the remnants of each ooze, leaving the floor spotless.",
+    "source_quote": "Glabbagool meticulously cleaned up the remnants, leaving the floor spotless",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool discovered a hidden cache of treasure in the fountain: one hundred twelve silver pieces, three gold pieces, a drow dagger, and a vial of oil of slipperiness.",
+    "source_quote": "Glabbagool investigated the fountain itself and discovered a hidden cache of treasure: one hundred twelve silver pieces, three gold pieces, a drow dagger, and a vial of oil of slipperiness",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin examined the cracks in the ceiling and concluded that the entire complex was slowly flooding.",
+    "source_quote": "Thorin, drawing on his dwarven experience with caves and geology, examined the cracks and concluded that the entire complex was slowly flooding",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Eldeth",
+    "fact": "Eldeth recognized the phenomenon as an underground river breaking through the stone.",
+    "source_quote": "Eldeth, another dwarf in the party, recognized the phenomenon as an underground river breaking through the stone",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Eldeth",
+    "fact": "Eldeth warned of the risk of causing the water to flood even faster if they broke through the rock.",
+    "source_quote": "She also warned of the risk of causing the water to flood even faster",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party decided to proceed with a plan to create air pockets using magic to move safely through the flooded passages.",
+    "source_quote": "They decided to proceed with this plan, creating a progression of air pockets and advancing five feet at a time",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool confirmed that he did not need to breathe, making him immune to the drowning threat.",
+    "source_quote": "Glabbagool confirmed that he did not need to breathe, making him immune to the drowning threat",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool agreed to allow the party to attempt resurrection on any fallen members before consuming them.",
+    "source_quote": "he agreed to allow the party to attempt resurrection on any fallen members before consuming them",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin used his considerable strength to break through the wall, causing more of the ceiling to collapse and doubling the water flow.",
+    "source_quote": "Thorin used his considerable strength to break through the wall, causing more of the ceiling to collapse and doubling the water flow",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party swam upward for about thirty feet through the newly revealed passage and successfully reached the surface.",
+    "source_quote": "As the water level rose to the ceiling, the party swam upward for about thirty feet through the newly revealed passage. They successfully reached the surface",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Jimjar",
+    "fact": "Jimjar declared that the adventure had not ended in tears after all.",
+    "source_quote": "Jimjar declared that the adventure had not ended in tears after all",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Jimjar",
+    "fact": "Jimjar offered to call the bet a draw due to the charming and helpful Glabbagool joining their ranks.",
+    "source_quote": "he offered to call the bet a draw due to the charming and helpful Glabbagool joining their ranks",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin agreed to call the bet a draw.",
+    "source_quote": "Thorin agreed",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Glabbagool's origin",
+    "fact": "Glabbagool's sudden sentience and ability to speak are unexplained beyond his own confusion and eagerness to understand.",
+    "source_quote": "He was confused by his newfound sentience but eager to understand the world around him",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The formless sculptures",
+    "fact": "The nature and origin of the formless sculptures in the chamber are not specified, only that they materialize into oozes when touched.",
+    "source_quote": "seven niches were carved into the walls, some empty and others holding strange, formless sculptures",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The stone fountain",
+    "fact": "The purpose and history of the stone fountain filled with brackish water are not explained.",
+    "source_quote": "a stone fountain filled with shallow, brackish water",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The broken statue",
+    "fact": "The identity and significance of the broken statue atop the pedestal are not revealed.",
+    "source_quote": "A broken statue rested atop a pedestal in the center",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party acknowledged they would need to wait a few days for Glabbagool to digest and pass the hidden treasure.",
+    "source_quote": "The party acknowledged that they would need to wait a few days for Glabbagool to digest and pass the items",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party celebrated their narrow escape, grateful for their new friend and the unexpected shortcut to Blingdenstone.",
+    "source_quote": "the party celebrated their narrow escape, grateful for their new friend and the unexpected shortcut to Blingdenstone",
+    "quote_verified": true
+  }
+]

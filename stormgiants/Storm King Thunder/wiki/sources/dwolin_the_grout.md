@@ -14,3 +14,7 @@ venue: ""
 # Dwolin the Grout
 
 Intelligence regarding Dwolin the Grout, the dwarven foreman at the Mountain's Toe Gold Mine, and his role in the current mining stoppage.
+
+## Related
+
+- [[4-npcs--16-dwolin_the_grout--psh1ca]]

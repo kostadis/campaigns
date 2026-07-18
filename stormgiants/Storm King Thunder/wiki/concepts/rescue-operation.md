@@ -14,3 +14,7 @@ sources: ["jevin.md"]
   - **Outcome:** Successful rescue of Princess Halani Meliame and Vandar from Yakfolk captivity
   - **Location:** The flying castle
 - **Significance:** Provided context for Jevin's introduction and his current status aboard the flying castle.
+
+## Related
+
+- [[jevin]]

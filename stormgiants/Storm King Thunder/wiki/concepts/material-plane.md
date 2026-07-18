@@ -9,3 +9,7 @@ sources: ["kaesen.md"]
 ---
 # Material Plane
 The realm where the party resides, the plane where the summoned demon appears. The ritual brought Bob Saget, a demon, to this plane.
+
+## Related
+
+- [[summoning-ritual]]

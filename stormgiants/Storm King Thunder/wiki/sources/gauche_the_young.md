@@ -1,8 +1,8 @@
 ---
 type: source
 title: "Source: gauche_the_young.md"
-created: 2026-05-13
-updated: 2026-05-13
+created: 2026-06-06
+updated: 2026-06-06
 sources: ["gauche_the_young.md"]
 tags: []
 related: []
@@ -10,50 +10,37 @@ related: []
 
 # Source: gauche_the_young.md
 
-### Key Entities
-- **Gauche the Young**: Merchant specialist from Mirabar, current leader of the Yartar Harper headquarters, member of the Harpers faction.
-- **Kolbaz**: Predecessor of Gauche, leader of Yartar Harper, killed before Gauche assumed command.
-- **Krowen Valharrow**: Leader of the Ezraverse, disagrees with Krowen's "Ezra model."
-- **Ezra**: Leader of the Ezraverse, resents the precedent set by his work.
-- **3HPP (The Party)**: A group of adventurers, viewed by Gauche as mercenaries rather than true Harpers.
-- **Thistle**: Provided the lead on Adimond Kroskas, which Gauche rejected.
-- **Orsik-Zymorven**: Attempted to persuade Gauche to broaden his investigation into Adimond Kroskas.
+## Key Entities
+*   **Gauche the Young** (Person)
+    *   **Role:** Central. He is the current leader of the Yartar Harper headquarters and a primary point of contact for the party in this arc.
+    *   **Status:** New entity; needs to be added to the wiki.
+*   **The Harpers** (Organization)
+    *   **Role:** Central. The faction Gauche leads; represents an established institutional power.
+    *   **Status:** Likely exists or should be linked to existing Harper-related content.
+*   **Kolbaz** (Person)
+    *   **Role:** Peripheral/Contextual. Gauche's predecessor whose death triggered the current investigation.
+    *   **Status:** New entity; may only need a brief mention in a "History" section of a related page.
+*   **Ezra / Ezra Model** (Concept/System)
+    *   **Role:** Central. The methodology for hiring outside adventurers that Gauche resents but acknowledges as effective.
+    *   **Status:** Likely exists or is linked to the broader "contractor" themes in the wiki.
+*   **Orsik-Zymorven** (Person)
+    *   **Role:** Peripheral/Intermediary. Attempted to bridge the gap between Gauche's stubbornness and the party's goals.
+    *   **Status:** Already exists in the wiki.
+*   **Thistle** (Person)
+    *   **Role:** Peripheral. Provided the specific lead on Adimond Kroskas.
+    *   **Status:** Already exists in the wiki.
 
-### Key Concepts
-- **Adimond Kroskas**: A lead provided by Thistle, which Gauche explicitly refuses to investigate.
-- **Demonic/Wizard Theory**: Gauche’s theory regarding the identity of the killer, focusing on demonic or wizard disguises as demons.
-- **Ezra Model**: A method of hiring outside adventurers, which Gauche is skeptical of and resents the precedent it set.
+## Key Concepts
+*   **Institutional Independence:** The Harpers' desire to remain autonomous from outside influences/contractors.
+*   **The "Ezra Model":** A specific, controversial method of utilizing external mercenaries (the 3HPP) that creates friction between traditionalists and pragmatists.
+*   **Investigation Scope Conflict:** The tension between a leader’s official mandate (investigating the death) and their personal/political refusal to pursue specific leads (Adimond Kroskas).
+*   **Demonic vs. Wizard Masquerade:** Gauche's specific theory regarding the nature of the killer, which he prioritizes over the party's findings.
 
-### Main Arguments & Findings
-- **Core Claims**: 
-  - Gauche is the new leader of Yartar Harper, having taken command after the death of his predecessor, Kolbaz.
-  - Gauche is conducting an independent investigation into Kolbaz's death, excluding Adimond Kroskas from his scope.
-  - Gauche is hostile towards the 3HPP, viewing them as mercenaries rather than true Harpers.
-  - Gauche’s investigation focuses on demonic or wizard disguises as the likely cause of Kolbaz's death.
-  
-- **Evidence Supporting Claims**:
-  - Gauche's explicit statement about his investigation scope and his refusal to investigate Adimond Kroskas.
-  - Gauche's description of the circumstances surrounding Kolbaz's death and his theory about the killer.
-  - Gauche's attitude towards the 3HPP, characterized by hostility and a lack of cooperation.
+## Main Arguments & Findings
+*   **Institutional Friction:** The primary conflict is not just between the party and a villain, but between two different philosophies of operation: the Harpers' traditional "inner circle" approach vs. the "Ezra model" of external cooperation.
+*   **Deliberate Omission:** Gauche’s refusal to investigate Adimond Kroskas is a significant narrative pivot. The text suggests this might be more than just stubbornness; it implies a political or personal reason for keeping that specific thread closed.
+*   **Evidence of Scale:** The physical evidence (the destruction in the room) indicates a massive, high-energy event (lightning/dematerialization), which Gauche correctly identifies as inconsistent with standard giant activity but consistent with "wizard masquerading as demon."
 
-### Connections to Existing Wiki
-- **Existing Pages**:
-  - [[Yartar Harper]]: Gauche is the current leader of this organization.
-  - Harpers: Gauche is a member of this faction.
-  - [[Kolbaz]]: Gauche is investigating his death.
-  - [[Adimond Kroskas]]: Thistle provided a lead on this character, which Gauche rejected.
-  - [[Ezra Model]]: Gauche is skeptical of this method of hiring adventurers.
-  
-- **Impact**:
-  - This source provides new information about Gauche's leadership and his approach to the investigation, challenging the established narrative around the Ezraverse and its methods.
-
-### Contradictions & Tensions
-- **Contradiction**:
-  - Gauche's apparent reluctance to investigate Adimond Kroskas despite Thistle providing a lead, suggesting potential bias or ulterior motives.
-
-### Recommendations
-- **Pages to Create/Update**:
-  - [[Gauche the Young]]: To consolidate information about Gauche's role and motivations.
-  - [[Yartar Harper]]: To include details about Gauche's leadership and his investigation.
-  - Harpers: To reflect Gauche's position within the faction.
-  
+## Connections to Existing Wiki
+*   **[[zuul-clovis]]**: This source establishes his role as an intermediary who failed to move Gauche's position.
+*   **[[thistle-wendrod]]**: Confirms Thistle’s role in identi

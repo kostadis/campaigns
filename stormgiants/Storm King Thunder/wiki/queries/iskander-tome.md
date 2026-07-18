@@ -9,3 +9,7 @@ sources: ["iskander.md"]
 ---
 # Iskander Tome
 What was the significance of the tome Sandesyl seeks and how did Iskander's betrayal impact its recovery?
+
+## Related
+
+- [[iskander-tome-recovery]]

@@ -16,3 +16,13 @@ Concept referring to the party's loyalty to Hsing and the SEER. Central to the n
 
 ## Notes
 - Central to the SEER's conflict and operations.
+
+## Related
+
+- [[spymaster]]
+- [[strategic-importance]]
+- [[patron-adjacent-figure]]
+- [[secret-organization]]
+- [[region]]
+- [[payment]]
+- [[mission]]

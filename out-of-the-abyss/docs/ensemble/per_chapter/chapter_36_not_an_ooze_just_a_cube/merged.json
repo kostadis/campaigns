@@ -1,0 +1,926 @@
+[
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "An hour passes between two events in the session.",
+    "source_quote": "An hour later",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occur during the party's current journey through Blingdenstone; no specific calendar date is given, but the sequence is presented as a single continuous session of play.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occur during the party's current session, with no specific calendar date provided.",
+    "source_quote": "The party arrived at a gate deep within the caverns of Blingdenstone...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
+    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "assignment of ooze quest",
+    "fact": "The party was formally assigned a side quest to address the ooze infestation in Blingdenstone after being perceived to have 'graciously volunteered'; this occurred during a discussion with Quartermaster Senni Diggermattock and Chief Dorbo Diggermattock.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Chief Dorbo Diggermattock and Quartermaster Senni Diggermattock",
+    "fact": "Dorbo and Quartermaster Senni Diggermattock engaged in a heated, muttering discussion with visible finger-pointing and argument.",
+    "source_quote": "Dorbo and Quartermaster Senni Diggermattock engaged in a heated, muttering discussion with visible finger-pointing and argument",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool asked for an explanation of shambling mounds since he had never encountered one.",
+    "source_quote": "Glabbagool to ask for an explanation since he had never encountered one",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool became very excited when asked about shambling mounds and inquired if they contained treasure when they exploded.",
+    "source_quote": "Glabbagool became very excited and asked if they contained treasure when they exploded",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool demonstrated his abilities by extending a pseudo-pod, explaining that he could both absorb things and punch them.",
+    "source_quote": "Glabbagool ... demonstrated his abilities by extending a pseudo-pod, explaining that he could both absorb things and punch them",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool revealed he had experience with oozes, noting they were 'very not talkative.'",
+    "source_quote": "Glabbagool revealed he had experience with oozes, noting they were 'very not talkative'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "identity clarification",
+    "fact": "The party declined to use the name 'Emerald Vanguard' due to its association with a destroyed city.",
+    "source_quote": "briefly considered using the name 'Emerald Vanguard', but quickly realized this name was associated with a group blamed for destroying a city",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Jimjar",
+    "fact": "Jimjar offered a bet of five empty spell gems, wagering that meeting with the gnomes was the right thing to do.",
+    "source_quote": "the party consulted their companion Jimjar, who offered a bet of five empty spell gems. He wagered that meeting with the gnomes was the right thing to do",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "ooze infestation",
+    "fact": "The ooze infestation in Blingdenstone has become severe enough that Clan Diggermattock has assigned the party a side quest to eliminate the threat before providing any assistance.",
+    "source_quote": "Since the party had 'graciously volunteered,' the gnomes expected them to address the infestation before receiving any assistance.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Quartermaster Senni Diggermattock",
+    "fact": "Quartermaster Senni Diggermattock confirmed the party's suspicions that the gnomes expected them to address the ooze infestation before receiving any assistance.",
+    "source_quote": "Quartermaster Senni Diggermattock confirmed their suspicions. She explained that ... the gnomes expected them to address the infestation before receiving any assistance",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Quartermaster Senni Diggermattock",
+    "fact": "Quartermaster Senni Diggermattock stated that the gnomes would normally be delighted to help the party reach the Overbright, but their community is suffering from an ooze problem.",
+    "source_quote": "She explained that while they would normally be delighted to help the party reach the Overbright, their community was suffering from an ooze problem",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "quest to address ooze infestation",
+    "fact": "The party will be sent on a quest to address the ooze infestation.",
+    "source_quote": "they would likely be sent on a quest to address the ooze infestation",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "side quest confirmation",
+    "fact": "Quartermaster Senni Diggermattock confirmed a side quest involving oozes.",
+    "source_quote": "Quartermaster Senni Diggermattock confirmed their suspicions",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The deep gnomes",
+    "fact": "The non-adventuring deep gnomes were unnerved by Glabbagool's presence, being unaccustomed to seeing a friendly sentient gelatinous cube.",
+    "source_quote": "Glabbagool's presence caused some nervousness among the non-adventuring deep gnomes, who were unaccustomed to seeing a friendly sentient gelatinous cube",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party briefly considered using the name 'Emerald Vanguard,' but quickly realized this name was associated with a group blamed for destroying a city.",
+    "source_quote": "The party briefly considered using the name 'Emerald Vanguard,' but quickly realized this name was associated with a group blamed for destroying a city",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party explained that shambling mounds did not retain things like gelatinous cubes do.",
+    "source_quote": "The party explained that shambling mounds did not retain things like gelatinous cubes do",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party felt suspicious about being ordered around.",
+    "source_quote": "The party initially felt suspicious about being ordered around",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party identified themselves simply as adventurers trying to find their way back home and seeking to reach the Overbright.",
+    "source_quote": "Instead, they identified themselves simply as adventurers trying to find their way back home and seeking to reach the Overbright",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used their insight to determine that the request was genuine and stemmed from the deep gnomes' sincere desire to gather information about the Drow.",
+    "source_quote": "one of them used their insight to determine that the request was genuine and stemmed from the deep gnomes' sincere desire to gather information about the Drow",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "Sloobludop is approximately eight days away via the Darklake.",
+    "source_quote": "the town of Sloopdopblop is just eight days away",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Clan Diggermattock",
+    "fact": "Clan Diggermattock is a deep gnome (svirfneblin) faction that took territory from the Drow; they are currently focused on defending their lands from ooze infestations and require assistance before aiding outsiders seeking the Overbright.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Clan Diggermattock",
+    "fact": "Clan Diggermattock is a deep gnome faction that has taken territory from the Drow and is currently focused on defending against ooze infestations and gathering intelligence on their long-time enemies.",
+    "source_quote": "Clan Diggermattock had taken this territory from the Drow, and any intelligence about their long-time enemies was of vital importance for preparing their defenses.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Clan Diggermattock",
+    "fact": "Clan Diggermattock took territory from the Drow and expects the party to address the ooze infestation before providing assistance.",
+    "source_quote": "The guard clarified that Clan Diggermattock had taken this territory from the Drow, and any intelligence about their long-time enemies was of vital importance for preparing their defenses. Since the party had \"graciously volunteered,\" the gnomes expected them to address the infestation before receiving any assistance.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Drow",
+    "fact": "The Drow are a hostile faction and long-time enemies of Clan Diggermattock, from whom territory was seized and whose escapees are required to be escorted under official memo.",
+    "source_quote": "All Drow escapees must be escorted immediately to Chief Dorbo Diggermattock of Clan Diggermattock.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Drow",
+    "fact": "The Drow are the historical enemies of Clan Diggermattock, from whom the gnomes seized control of their current territory; intelligence regarding their movements and long-time enemies is considered vital for defense preparations.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "bingdenstone reception hall",
+    "fact": "A reception hall with a cart and the bustling Trader's Grotto was visited.",
+    "source_quote": "a reception hall with a cart and the bustling Trader's Grotto",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Blingdenstone",
+    "fact": "Blingdenstone includes a reception hall with a cart and the bustling Trader's Grotto, and Diggermattock Hall, a well-lit cavern occupied by two dozen Svirfneblin engaged in various administrative tasks.",
+    "source_quote": "The guards escorted the party through various parts of Blingdenstone, including a reception hall with a cart and the bustling Trader's Grotto. The party was eventually led to Diggermattock Hall, a well-lit cavern occupied by two dozen Svirfneblin engaged in various administrative tasks.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Blingdenstone",
+    "fact": "Blingdenstone is a cavernous region where deep gnome guards chased the party and where Clan Diggermattock took territory from the Drow.",
+    "source_quote": "The party arrived at a gate deep within the caverns of Blingdenstone, where they were met by a group of huffing and puffing deep gnome guards who had been chasing after them. The guard clarified that Clan Diggermattock had taken this territory from the Drow.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Blingdenstone",
+    "fact": "Blingdenstone is a deep gnome city beneath the surface, featuring reception halls, Trader's Grotto, Diggermattock Hall, and other administrative and commercial spaces under threat from oozes.",
+    "source_quote": "The guards escorted the party through various parts of Blingdenstone, including a reception hall with a cart and the bustling Trader's Grotto.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Blingdenstone",
+    "fact": "Blingdenstone is a deep gnome city within caverns; it contains Diggermattock Hall, the Trader's Grotto, a reception hall with a cart, and is currently suffering from an ooze infestation affecting both residents and infrastructure.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Diggermattock Hall",
+    "fact": "Diggermattock Hall has stone desks on a raised dais where Chief Dorbo Diggermattock and Quartermaster Senni Diggermattock sat, surrounded by stone tables covered in maps and papers, with Svirfneblin moving briskly with messages and huddling around them.",
+    "source_quote": "At the back of the hall, Chief Dorbo Diggermattock and his assistant Quartermaster Senni Diggermattock sat behind stone desks on a raised dais. They turned to greet the party and asked for their identity. Some moved briskly with messages while others huddled around stone tables covered in maps and papers.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Diggermattock Hall",
+    "fact": "Diggermattock Hall is a well-lit cavern in Blingdenstone occupied by twenty-four Svirfneblin engaged in administrative tasks, and serves as the seat of leadership for Clan Diggermattock.",
+    "source_quote": "The party was eventually led to Diggermattock Hall, a well-lit cavern occupied by two dozen Svirfneblin engaged in various administrative tasks.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Diggermattock Hall",
+    "fact": "Diggermattock Hall is a well-lit cavern in Blingdenstone occupied by two dozen svirfneblin engaged in administrative tasks; it is the seat of leadership for Clan Diggermattock and where the party was formally greeted and assigned their quest.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Diggermattock Hall",
+    "fact": "Diggermattock Hall is a well-lit cavern occupied by two dozen Svirfneblin engaged in administrative tasks.",
+    "source_quote": "The party was eventually led to Diggermattock Hall, a well-lit cavern occupied by two dozen Svirfneblin engaged in various administrative tasks.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "diggermattock hall occupancy",
+    "fact": "Diggermattock Hall was occupied by two dozen Svirfneblin engaged in administrative tasks.",
+    "source_quote": "two dozen Svirfneblin engaged in various administrative tasks",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Trader's Grotto",
+    "fact": "Trader's Grotto is a bustling commercial area in Blingdenstone; the party passed through it during their escort through the city and it reflects the ongoing daily life despite the ooze crisis.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Trader's Grotto",
+    "fact": "Trader's Grotto is a bustling commercial area within Blingdenstone, frequented by deep gnomes and noted for its lively activity.",
+    "source_quote": "The guards escorted the party through various parts of Blingdenstone, including a reception hall with a cart and the bustling Trader's Grotto.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Trader's Grotto",
+    "fact": "Trader's Grotto is a bustling part of Blingdenstone.",
+    "source_quote": "The guards escorted the party through various parts of Blingdenstone, including a reception hall with a cart and the bustling Trader's Grotto.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
+    "source_quote": "Drow outpost was 100' in the sky",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
+    "source_quote": "four chasme and two vrock",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "glabbagool classification",
+    "fact": "Glabbagool is a gelatinous cube, not an ooze.",
+    "source_quote": "he was a cube, not an ooze",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Oozes",
+    "fact": "Oozes are a pervasive hazard in Blingdenstone, causing significant disruption to the deep gnome community and requiring the party to address the infestation before receiving aid.",
+    "source_quote": "Glabbagool... hinted that the party would have to deal with the oozes plaguing the community.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "oozes",
+    "fact": "Oozes are a widespread infestation plaguing Blingdenstone; they are distinct from gelatinous cubes, cause damage to the community, and are the primary threat the party has been assigned to address.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "shambling mound inquiry",
+    "fact": "Glabbagool asked for an explanation of shambling mounds and inquired if they contained treasure when they exploded.",
+    "source_quote": "Glabbagool asked for an explanation since he had never encountered one... asked if they contained treasure when they exploded",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Shambling Mounds",
+    "fact": "Shambling mounds are a type of creature unknown to Glabbagool, which the party describes as non-treasure-retaining plant-based monstrosities that excite him due to their potential for explosive decomposition.",
+    "source_quote": "Glabbagool became very excited and asked if they contained treasure when they exploded.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "shambling mounds",
+    "fact": "Shambling mounds are plant-based creatures encountered in the region; Glabbagool has never seen one but became excited upon learning they may explode, though they do not retain treasure like gelatinous cubes.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Chief Dorbo Diggermattock",
+    "fact": "Chief Dorbo Diggermattock engaged in a heated, muttering discussion with visible finger-pointing and argument alongside Quartermaster Senni Diggermattock.",
+    "source_quote": "Dorbo and Quartermaster Senni Diggermattock engaged in a heated, muttering discussion with visible finger-pointing and argument.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Chief Dorbo Diggermattock",
+    "fact": "Chief Dorbo Diggermattock is the leader of Clan Diggermattock in Blingdenstone, currently engaged in a heated discussion with Quartermaster Senni Diggermattock about the party's identity and the ooze infestation.",
+    "source_quote": "They turned to greet the party and asked for their identity.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Chief Dorbo Diggermattock",
+    "fact": "Chief Dorbo Diggermattock is the leader of Clan Diggermattock, currently engaged in a heated discussion with Quartermaster Senni Diggermattock about the party's identity and the ooze infestation, and is based in Diggermattock Hall in Blingdenstone.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Chief Dorbo Diggermattock",
+    "fact": "Chief Dorbo Diggermattock sits behind a stone desk on a raised dais in Diggermattock Hall and greets the party.",
+    "source_quote": "At the back of the hall, Chief Dorbo Diggermattock and his assistant Quartermaster Senni Diggermattock sat behind stone desks on a raised dais. They turned to greet the party and asked for their identity.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool asked for an explanation of shambling mounds after being mentioned, became excited upon learning of them, and inquired whether they contained treasure when they exploded.",
+    "source_quote": "The conversation turned to shambling mounds when a party member mentioned them, prompting Glabbagool to ask for an explanation since he had never encountered one. After the party described these creatures, Glabbagool became very excited and asked if they contained treasure when they exploded.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool interjected to clarify that he was a cube, not an ooze, and that there were indeed many oozes causing problems for the gnomes.",
+    "source_quote": "Glabbagool, the party's friendly gelatinous cube companion, interjected to clarify that he was a cube, not an ooze, and that there were indeed many oozes causing problems for the gnomes.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a friendly sentient gelatinous cube who clarifies that he is not an ooze, has higher viscosity, maintains a square shape, and can both absorb things and punch them.",
+    "source_quote": "Glabbagool once again emphasized that he was a gelatinous cube, a totally different species from an ooze, highlighting his higher viscosity and ability to maintain a square shape. He expressed confusion about why his \"fat friends\" were causing the gnomes pain. He demonstrated his abilities by extending a pseudo-pod, explaining that he could both absorb things and punch them.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a friendly, sentient gelatinous cube and companion to the party, who actively clarifies his distinction from oozes and expresses curiosity about shambling mounds and treasure.",
+    "source_quote": "He emphasized that he was a gelatinous cube, a totally different species from an ooze, highlighting his higher viscosity and ability to maintain a square shape.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a gelatinous cube with higher viscosity and the ability to maintain a square shape.",
+    "source_quote": "Glabbagool once again emphasized that he was a gelatinous cube, a totally different species from an ooze, highlighting his higher viscosity and ability to maintain a square shape",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a sentient, friendly gelatinous cube and companion to the party; he repeatedly clarifies he is not an ooze, demonstrates absorption and punching abilities, and expresses curiosity about shambling mounds and whether they contain treasure upon explosion.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool revealed he had experience with oozes, noting they were \"very not talkative,\" and demonstrated his pseudo-pod ability to absorb and punch.",
+    "source_quote": "Glabbagool revealed he had experience with oozes, noting they were \"very not talkative,\" and demonstrated his abilities by extending a pseudo-pod, explaining that he could both absorb things and punch them.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is the party's companion who offered a bet of five empty spell gems, affirming the legitimacy of the gnomes' request and hinting at the ooze threat.",
+    "source_quote": "He offered a bet of five empty spell gems. He wagered that meeting with the gnomes was the right thing to do.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is the party's companion who offered a bet of five empty spell gems, wagering that interacting with the deep gnomes was the right course of action and hinting at the ooze problem plaguing Blingdenstone.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar offered a bet of five empty spell gems, wagering that meeting with the gnomes was the right thing to do.",
+    "source_quote": "Before agreeing to follow the guards, the party consulted their companion Jimjar, who offered a bet of five empty spell gems. He wagered that meeting with the gnomes was the right thing to do.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Quartermaster Senni Diggermattock",
+    "fact": "Quartermaster Senni Diggermattock confirmed the ooze infestation, explained that the party had \"graciously volunteered\" to address it, and stated that assistance would be withheld until the infestation was resolved.",
+    "source_quote": "When a party member asked if they had a side quest involving oozes, Quartermaster Senni Diggermattock confirmed their suspicions. She explained that while they would normally be delighted to help the party reach the Overbright, their community was suffering from an ooze problem. Since the party had \"graciously volunteered,\" the gnomes expected them to address the infestation before receiving any assistance.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Quartermaster Senni Diggermattock",
+    "fact": "Quartermaster Senni Diggermattock is the assistant to Chief Dorbo Diggermattock and confirmed the ooze infestation and the expectation that the party resolve it.",
+    "source_quote": "At the back of the hall, Chief Dorbo Diggermattock and his assistant Quartermaster Senni Diggermattock sat behind stone desks on a raised dais. When a party member asked if they had a side quest involving oozes, Quartermaster Senni Diggermattock confirmed their suspicions.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Quartermaster Senni Diggermattock",
+    "fact": "Quartermaster Senni Diggermattock is the assistant to Chief Dorbo Diggermattock, responsible for coordinating community defense efforts and assigning the party to address the ooze infestation.",
+    "source_quote": "She explained that while they would normally be delighted to help the party reach the Overbright, their community was suffering from an ooze problem.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Quartermaster Senni Diggermattock",
+    "fact": "Quartermaster Senni Diggermattock is the assistant to Chief Dorbo Diggermattock, responsible for coordinating defense logistics; she confirmed the ooze infestation and assigned the party a side quest after they were perceived to have 'graciously volunteered.'",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "The deep gnomes",
+    "fact": "The deep gnomes have taken territory from the Drow and consider intelligence about their long-time enemies vital for preparing their defenses.",
+    "source_quote": "The guard clarified that Clan Diggermattock had taken this territory from the Drow, and any intelligence about their long-time enemies was of vital importance for preparing their defenses",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "The Party",
+    "fact": "The party identified themselves simply as adventurers trying to find their way back home and seeking to reach the Overbright, rejecting the name \"Emerald Vanguard\" due to its association with a group blamed for destroying a city.",
+    "source_quote": "The party briefly considered using the name \"Emerald Vanguard,\" but quickly realized this name was associated with a group blamed for destroying a city. Instead, they identified themselves simply as adventurers trying to find their way back home and seeking to reach the Overbright.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "cart",
+    "fact": "A cart was present in the reception hall of Blingdenstone.",
+    "source_quote": "The guards escorted the party through various parts of Blingdenstone, including a reception hall with a cart and the bustling Trader's Grotto.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Five empty spell gems",
+    "fact": "Five empty spell gems were wagered by Jimjar as a bet on the legitimacy of the gnomes' request and the party's path forward.",
+    "source_quote": "He offered a bet of five empty spell gems.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "five empty spell gems",
+    "fact": "Five empty spell gems were wagered by Jimjar in a bet about the party's interaction with the gnomes.",
+    "source_quote": "Before agreeing to follow the guards, the party consulted their companion Jimjar, who offered a bet of five empty spell gems.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "five empty spell gems",
+    "fact": "Five empty spell gems were wagered by Jimjar in a bet regarding the party's interaction with the deep gnomes; the bet was accepted and serves as a narrative token of the party's commitment to the mission.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "glabbagool ability demonstration",
+    "fact": "Glabbagool demonstrated his ability to extend a pseudo-pod, absorb things, and punch them.",
+    "source_quote": "extending a pseudo-pod, explaining that he could both absorb things and punch them",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "maps and papers",
+    "fact": "Maps and papers were spread on stone tables in Diggermattock Hall, used by Svirfneblin for administrative work.",
+    "source_quote": "Some moved briskly with messages while others huddled around stone tables covered in maps and papers.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "spell gem bet",
+    "fact": "Five empty spell gems were wagered by Jimjar.",
+    "source_quote": "a bet of five empty spell gems",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "stone tables covered in maps and papers",
+    "fact": "Stone tables covered in maps and papers were used by Svirfneblin in Diggermattock Hall for administrative work.",
+    "source_quote": "Some moved briskly with messages while others huddled around stone tables covered in maps and papers.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Emerald Vanguard identity",
+    "fact": "The name 'Emerald Vanguard' was considered by the party but discarded due to its association with a group blamed for destroying a city, leaving their true identity ambiguous.",
+    "source_quote": "The party briefly considered using the name 'Emerald Vanguard,' but quickly realized this name was associated with a group blamed for destroying a city.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Glabbagool's identity",
+    "fact": "Glabbagool is a gelatinous cube, not an ooze, and he is confused why his 'fat friends' are causing the gnomes pain.",
+    "source_quote": "Glabbagool, the party's friendly gelatinous cube companion, interjected to clarify that he was a cube, not an ooze, and that there were indeed many oozes causing problems for the gnomes. He expressed confusion about why his 'fat friends' were causing the gnomes pain",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "identity of 'Emerald Vanguard'",
+    "fact": "The name 'Emerald Vanguard' was briefly considered by the party but rejected because it is associated with a group blamed for destroying a city; this unresolved association creates potential future narrative consequences.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Overbright destination",
+    "fact": "The party seeks to reach the Overbright, a mysterious destination that the gnomes would normally assist with, but are currently unable to due to the ooze crisis.",
+    "source_quote": "They were seeking to reach the Overbright.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "reaching the Overbright",
+    "fact": "The party seeks to reach the Overbright, but their progress is contingent upon resolving the ooze infestation; this goal remains unfulfilled and serves as a long-term objective.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  }
+]

@@ -1,8 +1,8 @@
 ---
 type: source
 title: "Source: estrella.md"
-created: 2026-05-13
-updated: 2026-05-13
+created: 2026-06-06
+updated: 2026-06-06
 sources: ["estrella.md"]
 tags: []
 related: []
@@ -10,44 +10,36 @@ related: []
 
 # Source: estrella.md
 
-### Key Entities
-- **Estrella**: N/A (No specific type, central entity)
-  - **Role**: Navigator / Lookout aboard the cloud giant castle
-  - **Peripheral**: Yes, central role but no additional peripheral information
-  - **Wiki Existence**: Likely does not exist in the wiki index
+### Analysis of Estrella (Source: `estrella.md`)
 
-### Key Concepts
-- **Navigation**: Technique used by Estrella
-  - **Matters**: Crucial for the ship's safe passage and the party's awareness of their surroundings
-  - **Wiki Existence**: Likely exists in the wiki under related topics
+#### Key Entities
+*   **Estrella** (Person)
+    *   **Role:** Navigator / Lookout aboard the cloud giant castle.
+    *   **Status:** Peripheral. She serves as a functional role-player in the narrative environment rather than a primary actor or plot driver.
+    *   **Wiki Status:** New entry required.
 
-### Main Arguments & Findings
-- **Core Claims**: 
-  - Estrella serves as a navigator or lookout aboard the cloud giant castle.
-  - She alerts the party to their approach to Yartar.
-- **Evidence**:
-  - Direct observation: "Called out 'We are approaching Yartar' as the cloud giant castle neared the city docks."
-  - Indirect observation: "No direct interaction with party members recorded beyond this."
-- **Strength of Evidence**: Strong, based on explicit statements in the source.
+#### Key Concepts
+*   **Narrative Economy (Implicit):** Estrella represents a "functional" NPC—a character whose presence provides necessary information (the arrival at Yartar) without requiring deep backstory or personality traits.
+*   **Atmospheric World-Building:** Her role as a lookout contributes to the scale of the cloud giant castle, establishing it as a populated vessel with a crew rather than just a magical construct.
 
-### Connections to Existing Wiki
-- **Existing Pages**:
-  - **[[cloud-giants]]**: Relevant for the cloud giant castle and its crew.
-  - **[[navigation]]**: Navigation techniques used by Estrella.
-- **Impact**:
-  - Strengthens existing knowledge about the cloud giant castle and its crew.
-  - Provides context for the party's interactions with the cloud giants.
+#### Main Arguments & Findings
+*   **Functional Utility:** The primary purpose of Estrella in the current narrative is to serve as a "voice" for environmental cues (approaching Yartar). 
+*   **Minimal Interaction:** There is no evidence of personal agency or unique motivations; she functions as a piece of living scenery.
+*   **Information Gap:** The document explicitly notes that her background and relationship to the cloud giants remain hidden, which maintains the mystery of the castle's inhabitants.
 
-### Contradictions & Tensions
-- **Internal Tension**:
-  - No direct conflicts with existing wiki content; however, Estrella’s role and background remain undisclosed.
+#### Connections to Existing Wiki
+*   **[[blagothkus]]**: As part of the "crew" of the cloud giant castle (which is linked to Blagothkus’s arc), she belongs to the same factional sphere as the fallen giant lord.
+*   **[[castle-as-character]]**: Her presence reinforces the idea that the castle is a functioning vessel with a crew, supporting the "castle-as-character" concept by populating its internal world.
 
-### Recommendations
-- **Create or Update**:
-  - **[[estrella]]**: Page for Estrella, detailing her role, history, and relationships.
-  - **[[navigation]]**: Expand navigation techniques if not already covered.
-- **Emphasize**:
-  - The importance of Estrella’s role in navigation and lookout duties.
-- **Open Questions**:
-  - More details on Estrella’s background, motivations, and relationship with the cloud giants.
-  - Clarify her status within the cloud giant crew and her role beyond just navigation and lookout.
+#### Contradictions & Tensions
+*   No direct contradictions found. The document is intentionally sparse to maintain narrative economy.
+
+#### Recommendations
+*   **New Page:** Create a page for **[[Estrella]]**. 
+    *   *Note:* Keep the description brief, as she is currently a "functional" NPC.
+*   **Update/Link:** Ensure her page links to **[[blagothkus]]** or the specific entry regarding the **cloud giant castle** (if a separate location page exists) to establish her role within that faction's hierarchy.
+*   **Observation:** No need for complex "Arc Score" tracking as she currently has no personal arc.
+
+## Related
+
+- [[veradaa_storr]]

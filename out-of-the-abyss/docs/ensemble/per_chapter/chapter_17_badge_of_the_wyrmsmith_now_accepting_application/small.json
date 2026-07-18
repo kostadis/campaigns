@@ -1,0 +1,776 @@
+[
+  {
+    "type": "npc",
+    "subject": "Hgraam",
+    "fact": "Hgraam is a venerable stone giant who resides in the Cairngorm Cavern and serves as a keeper of ancient rock wisdom. He is deeply attuned to the suffering of the Underdark and has witnessed the Deep King\u2019s descent into paranoia. He gifted Thorin the Stonespeaker Crystal and revealed that Shal, a new advisor, has corrupted the Deep King\u2019s judgment.",
+    "source_quote": "Yes, it was a tragedy. You did not try to kill him. But you did try to stop him. He was driven mad. Something evil stirs in the Underdark. The rock itself cries in pain and horror, and a madness creeps from the blackest depths. Pay heed to the signs surrounding you. A cave with two faces. Rock devoured, and the land overgrown. The pebble believes itself flesh. The earth rejects its wards, and the tunnels shake in fury. By these portents, you shall know of evil\u2019s presence and of evil\u2019s face. This is what the stones tell me.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Shal",
+    "fact": "Shal is a mysterious new advisor to the Deep King of the Deep Gnomes. Since their arrival, the Deep King has become paranoid, rejecting sage counsel and isolating himself. Hgraam has attempted to meet Shal but has been refused access, suggesting Shal wields covert influence over the Deep King\u2019s decisions.",
+    "source_quote": "Yes, Shal, an advisor of his. Ever since they became friends, The Deep King has been unwilling to listen to any sage advice. I have asked to meet Shal, but they refuse.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "The Deep King",
+    "fact": "The Deep King is the ruler of the Deep Gnomes, once calm and wise, now consumed by paranoia. He has struggled to maintain order in his city as corruption from the Underdark spreads, and his reliance on an invisible police force has driven opposition underground. His transformation is directly tied to the influence of Shal.",
+    "source_quote": "Many have told the Deep King that what goes underneath the city affects what goes on in his city. And what goes on in his city affects what goes on below. And much of what goes on below is evil. The Deep King has tried to keep order and control, and the more he tries, the more the order escapes and tries to take the city from him.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "The Duergar",
+    "fact": "The Duergar are a reclusive, rigidly orderly subterranean race whose meticulously clean city borders the chaotic Derro slums. Their strict control over movement and access, enforced by badges of the Stone Guard, creates a stark contrast with the unruly Derro districts. They avoid direct conflict with the Derro due to the risk of triggering a bloodbath.",
+    "source_quote": "From Themberchaud\u2019s cave to the Cairngorm Cavern, Thorin and his friends must traverse through the city of Duergar, where no one but the Duergar is allowed. But the badges of the Keepers of the Flame or Stone Guard are enough to stop anyone from asking too many questions.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Derro",
+    "fact": "The Derro are a degenerate, chaotic subterranean race living in filthy, unplanned burrows and ramshackle structures. Their slums are dangerous and hostile, marked by deep resentment toward the Duergar. Their role as couriers for multiple factions stems from their isolation and the necessity of navigating between hostile territories.",
+    "source_quote": "The Derro slums are dangerous to anyone. Even from here, it\u2019s evident that the homes of the Derro are mostly burrows carved into the walls and simple structures piled atop one another. The district's dirty and cluttered streets clearly formed as dwellings spread and came together, not as a product of planning.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Deep Gnomes",
+    "fact": "The Deep Gnomes are a reclusive, magically attuned race ruled by the Deep King, who struggles to maintain order as corruption from the Underdark infiltrates their city. They are caught between Duergar control above and Derro chaos below, relying on invisible enforcers to suppress dissent \u2014 a strategy that has pushed opposition underground.",
+    "source_quote": "The Deep King has tried to keep order and control, and the more he tries, the more the order escapes and tries to take the city from him.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Demonic Entities Across the Underdark",
+    "fact": "A surge of demonic presence \u2014 including the demons at Valkenvylve, the Beholder in the Spidersilk Caves, the demonic manta rays, and Demogorgon \u2014 is not coincidental. These are manifestations of a larger, systemic magical corruption in the Underdark, enabled by an unknown force that has broken natural barriers between planes.",
+    "source_quote": "What we have seen as localized appearances of demons is not localized. The demons at Valkenvylve, the Beholder in the Spidersilk caves, the demonic manta rays, and Demogorgon, all of this is no coincidence.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The Sundering of the Gods' Presence",
+    "fact": "The end of the great sundering ended the era when gods could walk freely in Faer\u00fbn. This event forced cults like the Cult of Tiamat to perform extraordinary rituals to manifest their deities in the material plane. The current proliferation of demons and madness is a direct consequence of this cosmic shift, suggesting a new, powerful magical force is destabilizing reality.",
+    "source_quote": "The end of the great sundering ended the era that allowed the gods to walk in Faer\u00fbn freely. It\u2019s why the Cult of Tiamat had to resort to such an extraordinary ritual to bring her into the prime material plane. That so many demons are walking freely is not normal. There is some kind of powerful magic that has enabled this.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Stonespeaker Crystal",
+    "fact": "A 19-inch shard of quartz crystal gifted by Hgraam. It enables the spells Speak with Animals, Speak with the Dead, and Speak with Plants, and enhances divination magic. It is said to be attuned to the voices of the stones and the Underdark\u2019s pain.",
+    "source_quote": "This is the stonespeaker crystal, with it you can cast Speak with Animals, Speak with the Dead, and Speak with Plants. It will also help you cast divinations.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Cairngorm Cavern",
+    "fact": "A vast, ancient cavern located beyond Themberchaud\u2019s cave, home to Hgraam and the Stone Giants. It is connected to the city of Duergar via a gigantic tunnel in the eastern wall south of Laduguer\u2019s Furrow. The cavern is polished, serene, and deeply resonant with the magic of the earth.",
+    "source_quote": "From Themberchaud\u2019s cave to the Cairngorm Cavern, Thorin and his friends must traverse through the city of Duergar... A long tunnel opens in the eastern wall south of Laduguer\u2019s Furrow. The tunnel is gigantic, even by the massive size of Gracklstugh. And the rock is well polished. And sitting on a rock is a very large and very venerable stone giant.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Laduguer\u2019s Furrow",
+    "fact": "A meticulously clean, narrow corridor in the Duergar city, flanked by entrances leading to the Derro slums. It serves as a stark boundary between order and chaos, cleanliness and filth, control and anarchy. The contrast highlights the deep societal fractures in the Underdark.",
+    "source_quote": "From the Cairngorm Cavern, Laduguer\u2019s Furrow is just a short distance. Looking around, he notices how this is so spotlessly clean in its style. At either edge of this Furrow is an entrance. And past that entrance, he can see a slum.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Derro Slums",
+    "fact": "A chaotic, filthy district of burrows and stacked structures, formed organically by unregulated expansion. The slums are dangerous, hostile, and filled with resentment toward the Duergar. Their lack of planning and cleanliness contrasts violently with the Duergar\u2019s rigid order, making them a breeding ground for rebellion and covert operations.",
+    "source_quote": "The Derro slums are dangerous to anyone. Even from here, it\u2019s evident that the homes of the Derro are mostly burrows carved into the walls and simple structures piled atop one another. The district's dirty and cluttered streets clearly formed as dwellings spread and came together, not as a product of planning.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Nature of the Underdark\u2019s Corruption",
+    "fact": "A pervasive, growing evil is spreading through the Underdark, manifesting as madness, demonic incursions, and sentient rock suffering. The cause is unknown but appears tied to the Sundering and possibly the Faerzress. The stones themselves warn of portents: caves with two faces, devoured rock, overgrown land, and shaking tunnels.",
+    "source_quote": "Something evil stirs in the Underdark. The rock itself cries in pain and horror, and a madness creeps from the blackest depths. Pay heed to the signs surrounding you. A cave with two faces. Rock devoured, and the land overgrown. The pebble believes itself flesh. The earth rejects its wards, and the tunnels shake in fury.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Identity of Shal",
+    "fact": "Shal is an unknown entity who has insidiously gained the Deep King\u2019s trust and corrupted his judgment. Their refusal to meet with Hgraam and their sudden influence suggest they are not a typical advisor \u2014 possibly a demon, a fey, a construct, or something older and more alien.",
+    "source_quote": "I have asked to meet Shal, but they refuse.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Faerzress Connection",
+    "fact": "Thorin suspects the Faerzress \u2014 the magical radiation that affects sanity in the Underdark \u2014 may be amplifying or intertwined with the current corruption. If true, this could mean the madness spreading through the Underdark is not just external, but a resonance of the land\u2019s own psychic decay.",
+    "source_quote": "Thorin wonders if this has anything to do with the Faerzress, which has affects his sanity.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Grey Ghosts",
+    "fact": "The Grey Ghosts are mysterious entities referenced by Hgraam as creations of the Deep King, possibly spectral enforcers or failed experiments. Their existence suggests the Deep King has been experimenting with necromantic or psionic control methods \u2014 a sign of his descent into desperation and paranoia.",
+    "source_quote": "Grey Ghosts? The Deep King creates so many enemies. He used to be so calm. He and I would watch the stones grow. But something has happened to him. He has become paranoid towards old and new friends.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a monk who admires the Stone Giants\u2019 patience and subtlety. He is deeply observant and reflective, seeking to learn from their wisdom. He is now journeying to find Droki in the Derro slums, where he notes the stark contrast between Duergar order and Derro chaos.",
+    "source_quote": "Zalthir likes the stone giants. They speak little. They ponder and then they consider their words. Perhaps there is something that even his monastic order could learn from their subtlety and patience.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is impulsive and inquisitive, frequently interrupting solemn revelations with blunt questions. His inquiry about what is driving everyone mad triggered a profound response from Hgraam. He is hopeful and persistent, seeking direct answers even when the universe offers riddles.",
+    "source_quote": "Do you know what\u2019s driving everyone mad?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a quiet, insightful observer who connects cosmic events to current phenomena. He recognizes the significance of the Sundering and the unnatural proliferation of demons, suggesting an underlying magical force is destabilizing the fabric of reality.",
+    "source_quote": "The end of the great sundering ended the era that allowed the gods to walk in Faer\u00fbn freely. It\u2019s why the Cult of Tiamat had to resort to such an extraordinary ritual to bring her into the prime material plane. That so many demons are walking freely is not normal. There is some kind of powerful magic that has enabled this.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Droki",
+    "fact": "Droki is a Derro courier who operates across factional lines, surviving in the dangerous slums. His ability to move between hostile territories suggests he is either exceptionally skilled, deeply connected, or protected by forces unknown.",
+    "source_quote": "Droki, he is told, is to the west.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is a figure whose claims about the route to the Dreamlands have been verified by Hgraam. His knowledge is trusted by Thorin, indicating he is a reliable source of subterranean lore.",
+    "source_quote": "Thorin learns from Hgraam that the best way to the Dreamlands is through the city of the Deep gnomes. Thorin is pleased to have Jimjar's claims vetted.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is an orc determined to locate Droki and reach the Whorlstone Caverns, relying on Buppido\u2019s knowledge and navigating Derro city with caution, aware of his ancestral enmity with dwarves and the volatile nature of the Derro.",
+    "source_quote": "We need to get him to show us the way to the Whorlstone caverns. If we go around poking for things, it\u2019s unclear what could happen.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido is a derro who was imprisoned but freed by Grygum; he knows Droki intimately, is enraged by the broken promises of the Council of Savants, and believes in a divine mission to save his people.",
+    "source_quote": "I have to get back to save my people. The divine mission requires that I go back! The Council of Savants will fail my people. I must go and save them!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Droki",
+    "fact": "Droki is a derro courier whose unnaturally fast pace and disregard for observation make him a trusted, if mysterious, messenger; he moves through Derro city with ritualistic repetition, delivering messages and accessing hidden routes, including a concealed fissure in the West Cleft.",
+    "source_quote": "Droki is late! They will be so angry! Stupid, stupid, stupid! Delays, blocks, procrastination, obstructions, pfah! No time, no rhyme, not mine! No! Time!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a wary ally who distrusts Buppido after witnessing his past murder; he issues a direct threat of violence should Buppido betray them, yet permits his movement into the caverns.",
+    "source_quote": "If you betray us, I will gut you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir urges caution throughout the mission, questioning the wisdom of trusting Buppido and moving into the Derro slums, yet remains an active participant in the group\u2019s decisions.",
+    "source_quote": "Zalthir urges caution, but Grygum is determined.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a contemplative observer who reflects on the systemic cruelty of slavery across races, particularly comparing Duergar and Drow practices; he tracks Droki\u2019s path and enters a horrifying cavern filled with decomposing remains and an unknown humming figure.",
+    "source_quote": "Free people are the basis of any society.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Council of Savants",
+    "fact": "The Council of Savants is a derro governing body that promised freedom to the Derro but failed to deliver it, inciting deep rage and betrayal among those like Buppido who still believe in their divine mission.",
+    "source_quote": "He screams about the Council of Savants who promised freedom and failed to deliver freedom.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Derro Community",
+    "fact": "The Derro community is a fractured, insane population living in squalor beneath Gracklstugh, marked by paranoia, violence, and chaotic muttering; they harbor burning hatred toward outsiders and are ruled by no central authority, only fragmented rituals and rumors.",
+    "source_quote": "The chatter in the air is unnerving, with hundreds of derro muttering, screaming at each other, and otherwise reveling in their insanity.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Duergar",
+    "fact": "The Duergar are a dwarven subrace who once enslaved the Derro, building guardhouses to monitor them in the West Cleft; they were later overthrown by Deepking Tarngardt, who liberated the Derro and allowed them to spread into the East Cleft District.",
+    "source_quote": "The duergar built a series of guardhouses to keep an eye on their derro slaves living in the West Cleft. These were abandoned when Deepking Tarngardt, grandfather of the current monarch, who liberated the derro, allowing them to spread from the West Cleft District into the East Cleft District.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Derro City (Gracklstugh)",
+    "fact": "Derro City is a sprawling, chaotic settlement carved into the rock beneath Gracklstugh, where homes are crude holes in walls, the air reeks of decay, and the population is driven mad by isolation and oppression; its streets are patrolled by muttering derro who react with violent hatred to outsiders.",
+    "source_quote": "The stench in the air changes from acrid and metallic to fetid and repugnant... The homes in this part of Gracklstugh are crudely carved from the rock or are just holes in the walls, arranged in no apparent order.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "West Cleft",
+    "fact": "West Cleft is a derro-controlled district within Gracklstugh, once monitored by Duergar guardhouses; now abandoned, it serves as a labyrinth of hovels and hidden passages, including the secret fissure accessed by Droki, and is the epicenter of derro madness and ritual movement.",
+    "source_quote": "Droki stops between a cluster of hovels in West Cleft and turns... revealing a narrow fissure in the chasm wall.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Laduguer\u2019s Furrow",
+    "fact": "Laduguer\u2019s Furrow is the western gate of a dwarven-underdark complex, historically used by Duergar to control Derro movement; now a point of entry into the Derro slums and the hidden caverns beyond, it is a place of transition and danger.",
+    "source_quote": "He leads them to the western gate of Laduguer\u2019s Furrow.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Cavern of Decomposing Remains",
+    "fact": "A hidden cavern southwest of the main entrance, carpeted with humanoid corpses arranged in a spiral, humming with an off-key tone from a hunched figure; its purpose is unknown but suggests ritualistic or sacrificial practices by an unknown entity.",
+    "source_quote": "The floor is carpeted with humanoid remains in varying stages of decomposition, arranged in a spiral pattern around the cave\u2019s center. An off-key humming comes from a hunched figure working busily at something on the floor.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Main Cavern with Faerzress Glow",
+    "fact": "A vast, silent cavern lined with stalactites and stalagmites, illuminated by the eerie soft glow of faerzress; the air is metallic, sounds are muffled, and the dripping water echoes nowhere, suggesting a magical or otherworldly property.",
+    "source_quote": "The glow of faerzress casts an eerie soft light across this cavern... The dripping of water makes no echo, as if Daz stood in open air.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Droki\u2019s Hidden Fissure Entrance",
+    "fact": "A concealed entrance in the West Cleft, revealed by moving scraps of cloth, gray canvas, and moldy boxes; it leads into a narrow cavern where a wisp of eerie fog escapes upon entry, suggesting magical or extraplanar properties.",
+    "source_quote": "Droki lifts the scrap of cloth, pushes the gray sheets of canvas to the side, revealing a narrow fissure... a wisp of eerie fog floats out.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Hunched Figure in Spiral Cavern",
+    "fact": "An unidentified, possibly derro or twisted entity, hunched over a spiral of decomposing remains, emitting an off-key hum; its actions suggest ritualistic necromancy or sacrificial work, and it remains unaware of intruders.",
+    "source_quote": "An off-key humming comes from a hunched figure working busily at something on the floor.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Droki\u2019s True Purpose",
+    "fact": "Droki\u2019s unnaturally fast pace, disregard for observation, and ritualistic access to hidden passages suggest he is more than a courier\u2014he may be bound to a divine or extraplanar force, and his route may lead to a greater secret in the Whorlstone Caverns.",
+    "source_quote": "Droki also doesn\u2019t seem to care if anyone is following him... He mutters to himself and to any Derro whom he says.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Buppido\u2019s Divine Mission",
+    "fact": "Buppido\u2019s conviction that he must return to save his people and his rage toward the Council of Savants imply a deeper, possibly prophetic, divine mission tied to the fate of the Derro, which may conflict with the group\u2019s goals.",
+    "source_quote": "The divine mission requires that I go back!",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Identity of the Humming Figure",
+    "fact": "The hunched figure amid the spiral of corpses may be a derro cultist, a corrupted entity, or even a remnant of the Council of Savants; its purpose and connection to Droki or Buppido remain unknown.",
+    "source_quote": "An off-key humming comes from a hunched figure working busily at something on the floor.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occur during a single session of exploration in the Underdark, beginning at Laduguer\u2019s Furrow and progressing through Derro city into hidden caverns, culminating at the fissure and the corpse spiral.",
+    "source_quote": "And so Grygum waits... As he is about to doze off, Buppido nudges him, 'There.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido was a derro who manifested a macabre shrine of bones and skeletons, claimed divine authority over faithful followers, and attacked with manic violence before being slain by Daz's magic missiles.",
+    "source_quote": "Your divine mission is now over.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is an arcane spellcaster who recognized Buppido\u2019s threat, cast Fairie Fire to mark skeletons for advantage, and ultimately killed Buppido with Magic Missile, ending the battle.",
+    "source_quote": "Magic missiles,\" he thinks, visualizing the shimmering darts.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a dwarf warrior who charged into combat against Buppido\u2019s skeletons, landed a solid blow on one, and later expressed sorrow over Buppido\u2019s death despite the violence.",
+    "source_quote": "He was a crazy one, but he was our crazy one.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a tactician who used darkness to disorient Buppido\u2019s undead minions, creating opportunity for allies, and supported Grygum\u2019s plan by disrupting visibility.",
+    "source_quote": "Zalthir plunges the area into darkness.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a cleric of Bahamut who prepared to turn undead against Buppido\u2019s skeletons, held his action due to Zalthir\u2019s darkness, and later performed a ritual for Buppido\u2019s soul.",
+    "source_quote": "And as he prepares to pray for Buppido\u2019s soul, a ghostly head pops up.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Pelek",
+    "fact": "Pelek is the ghostly Svirfneblin whose name is derived from an actor his mother named him after, causing familial shame and tension, and who was once a merchant and friend of Buppido.",
+    "source_quote": "My mother named me after an actor.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Svirfneblin",
+    "fact": "The Svirfneblin (deep gnomes) traditionally name themselves after objects or sounds associated with them, often using onomatopoeia, as evidenced by Pelek\u2019s naming convention.",
+    "source_quote": "The Gnomes tend to name themselves after things and that many of their names are onomatopoeia of the sounds of those things.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "skeletons",
+    "fact": "A cluster of animated skeletons served Buppido as minions, were marked by Fairie Fire, and were later destroyed by Grygum\u2019s Turn Undead after being disoriented by Zalthir\u2019s darkness.",
+    "source_quote": "Three skeletons are marked, and an ethereal glow surrounds them.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "hooked spear",
+    "fact": "Buppido wielded a hooked spear in his final charge against Thorin, but his attack was wild and ineffective, driven by fury rather than skill.",
+    "source_quote": "Buppido rushes at Thorin with a hooked spear but misses wildly.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "crossbow",
+    "fact": "One of Buppido\u2019s skeletons used a crossbow to strike Grygum during the chaos of Zalthir\u2019s darkness, inflicting a visible injury.",
+    "source_quote": "One skeleton, however, manages to take a shot at Grygum with its crossbow.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "caves",
+    "fact": "The battle occurred in a cave system that previously housed Buppido\u2019s shrine of bones and skeletons, now littered with the remains of the derro and his undead servants.",
+    "source_quote": "The blood-spattered remains of Buppido lie scattered amongst the bones that made up the crazed Derro\u2019s hideout.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "turn undead",
+    "fact": "Grygum successfully cast Turn Undead against Buppido\u2019s skeleton minions, overwhelming them with divine power and turning the battle into a slaughter.",
+    "source_quote": "The cleric\u2019s words of power overwhelm the skeletal minions of Buppido.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "magic missiles",
+    "fact": "Daz cast Magic Missile, three unerring bolts of arcane force that struck Buppido directly, killing him instantly and ending the threat.",
+    "source_quote": "Three bolts of magical force streak through the air, each unerringly finding its mark on Buppido.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Pelek's origin",
+    "fact": "Pelek\u2019s name and lineage are shrouded in familial shame and uncertainty, stemming from his mother naming him after an actor, and his father\u2019s jealousy \u2014 a mystery that may connect to deeper cultural or magical roots.",
+    "source_quote": "There was always this doubt about the origin of the name and my lineage, which created a lot of friction in my family.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session 19",
+    "fact": "Session 19 occurred on the 10th day of the 1st Tenday of Myrtul 1493, during which Buppido was slain and Pelek the ghostly Svirfneblin emerged.",
+    "source_quote": "Session 19\n## 10th day of the 1st Tenday of Myrtul 1493",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "actor namesake",
+    "fact": "Pelek was named after an actor, an unusual practice among Svirfneblin, raising questions about cultural influence, hidden ancestry, or magical legacy tied to performance or illusion.",
+    "source_quote": "My mother named me after an actor.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a ghost bound to a cluster of bones in a cavern, unable to move more than 30 feet from them. He was murdered and dismembered by Buppido, his former business partner. He seeks help transporting his bones to Blingdenstone and has revealed fragmented knowledge about the Faerzress anomaly and Derro madness.",
+    "source_quote": "He was surprised. He doesn't know how long he's been here. Less than a year? Telling time in this cavern is hard.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a dwarf deeply skeptical of Grygum\u2019s requests. He resents being asked to carry bones without receiving aid or information in return. He has compiled mental notes on the Faerzress anomaly, Buppido\u2019s ties to the Council of Savants, and the possibility of planar disruption. He is determined to extract useful intelligence and shift the dynamic from obligation to collaboration.",
+    "source_quote": "This guy wants us to take his bones to Blingdenstone and hasn\u2019t helped us. Time for this to change.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is an orc who observes and reacts to the ghost\u2019s revelations with curiosity. He is the one who proposes the theory that the Faerzress\u2019s blink may have broken planar boundaries. His insight is met with skepticism by the ghost, but he remains engaged in the mystery, prompting Grygum to reveal further details about the obsidian ring and the hand.",
+    "source_quote": "Then if it blinked, could it have \u2014 I dunno \u2014 broken the walls between the planes?",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a monk who has detached from the chaotic dialogue around the ghost and returned to the cave entrance to pursue the trail of Droki. He is methodical, attuned to environmental clues, and struggles to reconcile his monastic discipline with the absurdity of the party\u2019s interactions. He has identified Droki\u2019s trail, the mushroom-eaten crack in the wall, and the impossibility of passage \u2014 leading him to pause, while Thorin prepares to force entry.",
+    "source_quote": "I don\u2019t see how we go past this.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido is a Derro who murdered and dismembered Grygum, his former supplier, to eliminate competition and gain control over smuggling routes. He is tied to the Council of Savants and sought to bypass Duergar taxes. He experienced a sudden shift in perception after the Faerzress glowed and dimmed, becoming convinced of his own divinity. His actions and mental state are central to the unfolding mystery.",
+    "source_quote": "He promised to prove his point and brought me here.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Droki",
+    "fact": "Droki is a Derro messenger working for the Council of Savants. He is described as peculiar and possibly mad. His well-trodden trail leads to a narrow crack in the wall, flanked by mushrooms \u2014 which he consumed. His behavior suggests ritualistic or altered-state patterns, and his path may be the key to accessing hidden Derro sanctums or escape routes.",
+    "source_quote": "The Derro is a creature of habit.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Council of Savants",
+    "fact": "The Council of Savants is a Derro organization operating in the Underdark. It is involved in smuggling, arcane research, and possibly planar manipulation. Buppido and Droki are affiliated with it. The Council is suspected of exploiting the Faerzress anomaly and may be responsible for inducing madness in its members through exposure or ritual.",
+    "source_quote": "He was working with a faction of Derro known as the Council of Savants.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Duergar",
+    "fact": "The Duergar are a subterranean dwarven race that controls taxation and trade routes in the Underdark. Buppido sought to evade their levies by using Grygum as a supplier and later eliminating him. Their presence is a constant pressure on Derro smuggling operations, and their influence extends into the political and economic structure of the region.",
+    "source_quote": "He needed to move product out of the city without dealing with the Duergar taxes.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Faerzress",
+    "fact": "The Faerzress is an enigmatic magical phenomenon in the Underdark, associated with planar instability, teleportation denial, and madness. It recently underwent a dramatic fluctuation \u2014 glowing brightly, dimming, then returning brighter \u2014 which coincided with Buppido\u2019s descent into delusional divinity. Its nature is unknown, but its behavior suggests it may be a sentient or semi-sentient force tied to the boundaries between planes.",
+    "source_quote": "No one knows what the Faerzress is.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Obsidian Ring",
+    "fact": "An obsidian ring of value is attached to Grygum\u2019s missing hand. It is not magical, but Grygum implies it may have been if it would motivate the party to find the hand. It is a personal artifact of his former life and may bear familial or symbolic significance.",
+    "source_quote": "There is a family ring on it, an obsidian ring of some value. You can keep it if you find the hand.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Cavern of Bones",
+    "fact": "A dark, confined cavern where Grygum\u2019s bones lie, and where he has been bound as a ghost for less than a year. The space is too small to move beyond 30 feet from the bones, and time is difficult to measure here. It is the site of his murder and the origin point of the party\u2019s current quest. The walls are silent, and the air carries the scent of old earth and decay.",
+    "source_quote": "Being unable to move more than 30 feet from your bones makes it harder.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Northern Cavern (Droki\u2019s Trail)",
+    "fact": "A narrow, winding cavern leading from the main cave, marked by Droki\u2019s unmistakable trail. It ends at a crack in the wall too small for passage, flanked by mushrooms that Droki consumed. The crack suggests a hidden mechanism, illusion, or biological adaptation. Zalthir has identified the trail and the mushrooms, but cannot determine how to proceed.",
+    "source_quote": "A well-trodden path ends at a crack in the wall, with mushrooms to either side of the crack.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Cave with Pool of Water (Northeast)",
+    "fact": "A cave located to the northeast of the entrance, containing a pool of water. Its significance is unknown, but it may be a resting point, ritual site, or source of information. Zalthir noted its presence as he returned to the entrance to reorient himself after the ghost\u2019s revelations.",
+    "source_quote": "To the northeast is a cave with a pool of water.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Faerzress Fluctuation",
+    "fact": "A recent and unprecedented event in which the Faerzress glowed intensely, dimmed, then returned brighter than before. This coincided with Buppido\u2019s descent into delusional divinity and may have triggered planar instability. It is the central anomaly linking the murder, the madness, and the potential breach between planes.",
+    "source_quote": "The Faerzress glow was unmistakable. It was almost as if it was being sucked out, and went dark and then came back brighter than before.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum\u2019s Murder",
+    "fact": "Grygum was killed and dismembered by Buppido, his business partner, to eliminate competition and monopolize smuggling routes. His body was scattered, his bones left in the cavern, and his spirit bound to them. His death occurred less than a year ago, and his ghost remains unaware of the full consequences of the Faerzress fluctuation.",
+    "source_quote": "He killed me and cut my body up into the pieces you see here.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Planar Breach Theory",
+    "fact": "Daz has theorized that the Faerzress\u2019s fluctuation may have broken the walls between planes, allowing entities from other dimensions to enter the Underdark. The ghost dismisses this as a ghost story, but the timing of Buppido\u2019s madness, the Derro\u2019s behavior, and the Faerzress\u2019s anomaly suggest a deeper connection. The party has not yet investigated this possibility.",
+    "source_quote": "Then if it blinked, could it have \u2014 I dunno \u2014 broken the walls between the planes?",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Missing Hand",
+    "fact": "Grygum\u2019s hand, bearing an obsidian family ring, is missing and may have wandered away after his death. He claims it went 'off scurrying about,' suggesting supernatural autonomy. The party has not searched for it, but its recovery may yield clues to his identity, Buppido\u2019s motives, or the nature of the ring.",
+    "source_quote": "There is a family ring on it, an obsidian ring of some value. You can keep it if you find the hand.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Blingdenstone\u2019s Role",
+    "fact": "Grygum insists that Blingdenstone is the party\u2019s exit point and advises them to avoid references to Lolth, Menzoberranzan, and the number eight or spiders. This implies Blingdenstone has a political or religious stance opposed to those entities, and that the party\u2019s journey beyond the cavern depends on navigating these taboos.",
+    "source_quote": "The city of Blingdenstone is your exit. Make sure to deny any association to Lolth, or Menzoberranzan, and make any references to the number eight or spiders.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Few months ago",
+    "fact": "The Faerzress fluctuation and Buppido\u2019s descent into delusion occurred a few months ago. This is the only temporal anchor provided for the central anomaly, and it precedes Grygum\u2019s current state as a ghost by less than a year.",
+    "source_quote": "A few months ago. Why? And this is unimportant.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Less than a year",
+    "fact": "Grygum has been bound as a ghost for less than a year. He cannot accurately measure time due to his spectral condition and confinement to the cavern. This places his murder and the Faerzress event within a tight temporal window, suggesting direct causality.",
+    "source_quote": "Less than a year? Telling time in this cavern is hard.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a silent observer who has been trained in magical fungi lore but not in silence, and is haunted by the failure of his spells against centipedes. He watches others act while internally questioning his purpose and training.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a drow mage deeply fascinated by Underdark fungi, trained to recognize their magical properties. He enthusiastically collects and identifies fungi, casts spells with flair, and is unnerved by the auditory effects of the fungal thicket. His spell 'Toll the Dead' fails against centipede swarms, leaving him shaken.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Pelek",
+    "fact": "Pelek is a ghostly entity who speaks with polite contempt, corrects misconceptions about fungal sounds, and references entities like 'Overbrighters.' He has observed and commented on the magical properties of fungi and the behavior of the group.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a dwarf who offers cautious advice about psychedelic mushrooms, physically supports Daz with a slap on the back, and leads the group through the fungal thicket. He is pragmatic and responsive to environmental dangers.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is an impulsive dwarf who swallows magical mushrooms, shrinks, and cannot squeeze through cracks. He repeatedly exclaims 'Wow!' and is easily awed by magical displays, despite his own mishaps.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Monastic Order of Silence",
+    "fact": "A monastic order devoted to silence has trained Zalthir exclusively in making others blind, not in inducing silence \u2014 a profound mismatch that troubles him and suggests a deeper, unspoken agenda or corruption in their teachings.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Derro",
+    "fact": "The derro once used a network of tunnels through the whorlstone, as mentioned by Buppido and later confirmed by Pelek. Their historical presence implies prior exploitation of the area\u2019s magical geography and fungal resources.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Whorlstone Tunnels",
+    "fact": "A network of subterranean tunnels once traversed by the derro, now partially blocked by fungal growths. The tunnels lead to a vast underground lake and are associated with magical mushrooms and ghostly echoes.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Fungal Thicket",
+    "fact": "A dense wall of fungi five feet tall, blocking the eastern tunnel juncture. It emits a hissing, whispering sound from wind passing through perforated caps, mistaken for voices. The thicket contains numerous magical fungi, including Nightlights, Devil\u2019s Mushrooms, Torchstalks, and more.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Underdark Lake",
+    "fact": "A vast, 100-foot-wide pool of unnervingly black, thermal-heated water, hidden in a cavern. Daz freezes its surface with magic, allowing the group to cross via ice blocks. The lake is a key waypoint between the crack and the fungal thicket.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Pygmywort",
+    "fact": "A mushroom with a one-inch-long stem and a stubby blue cap with white dots. When consumed, it shrinks the eater as per a reduce spell. Grygum swallowed it and became too small to fit through the crack.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Bigwig",
+    "fact": "A mushroom with a four-inch-tall thin stem and a wide purple cap. When consumed, it enlarges the eater as per an enlarge spell. Mentioned by ghosts and fungi experts, but not consumed by the group.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Nightlight",
+    "fact": "A 15-foot-tall mushroom that emits a 15x15-foot circle of light. When touched or cut, it stops glowing. Daz identifies it as unlike the ormu, which can be crushed into a paste for light.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Devil\u2019s Mushroom (Timmask)",
+    "fact": "A two-foot-tall toadstool with orange and red stripes on a beige cap. Uprooting it causes madness. Daz warns Thorin about it, recalling his own past trauma from its effects.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Torchstalk",
+    "fact": "A two-foot-tall mushroom with a combustible cap that burns for 24 hours when lit. Daz identifies it to Zalthir as a useful light source.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Barrelstalk",
+    "fact": "A large, cask-shaped fungus that stores water. Collected by Daz as a potential resource.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Bluecap",
+    "fact": "A mushroom used for making flour. Collected by Daz for future sustenance.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Ripplebark",
+    "fact": "A fungus that tastes good when toasted. Collected by Daz as edible matter.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Trillimac",
+    "fact": "A mushroom usable for scrolls and that produces a bread-like substance that can be rolled up. Collected by Daz for magical and culinary purposes.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Waterorb",
+    "fact": "A fungus used for storing water. Collected by Daz as a utility item.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Zurkwhood",
+    "fact": "A fungus used for making things. Collected by Daz for crafting.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Ormu",
+    "fact": "A fungus that can be crushed into a paste to serve as a light source. Daz contrasts it unfavorably with Nightlights, which lose their glow when touched.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Centipede Swarms",
+    "fact": "Massive, numerous swarms of centipedes that emerge unexpectedly from the fungal thicket. They are unaffected by Daz\u2019s 'Toll the Dead' spell, indicating high resistance to necrotic magic. Their presence ruins Daz\u2019s delight in the fungi.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Freezing the Lake",
+    "fact": "Daz casts a spell to freeze the black thermal lake, creating a path of ice for the group to cross. He then creates additional ice blocks to facilitate movement. The act is performed with flair and expectation of applause, which does not come.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Toll the Dead Fails",
+    "fact": "Daz casts 'Toll the Dead' against centipede swarms, hoping to kill them. The creatures save successfully, leaving Daz stunned and despairing. His magic is powerless against their resilience.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum Shrinks",
+    "fact": "Grygum impulsively consumes Pygmywort and shrinks to a size too small to pass through the crack. His action blocks progress and highlights the danger of unguided magical experimentation.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Pelek\u2019s Head Falls Off",
+    "fact": "Pelek\u2019s head flops off his body during a moment of apology, then he calmly puts it back on. This grotesque but routine behavior underscores his ghostly nature and detachment from physical norms.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Overbrighters",
+    "fact": "A term used by Pelek with contempt, possibly referring to a faction or type of entity that overuses or misuses magical light sources. Its meaning is unexplained but implies a hidden conflict or cultural divide in the Underdark.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Whispering Fungal Thicket",
+    "fact": "The hissing sound of wind through the fungal thicket is mistaken for uncounted whispering voices. Daz is unnerved, Thorin suspects psychedelics, Pelek dismisses it as natural \u2014 leaving the true nature of the sound unresolved and eerie.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Why Only Blindness?",
+    "fact": "Zalthir is troubled that his monastic order taught him to make others blind, not silent \u2014 a fundamental mismatch with their stated purpose. The reason behind this corrupted training remains unknown.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occur during a single, continuous Underdark expedition, with no explicit calendar reference, but the sequence suggests a single day or night cycle in the Underdark.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "centipedes",
+    "fact": "Centipedes are swarming relentlessly, avoiding spell effects despite targeted attempts, and continuing to move with unsettling persistence.",
+    "source_quote": "The centipedes somehow manage to avoid the brunt of the spell.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is scanning his spell list, second-guessing his choices, feeling unease about spell effectiveness, and scratching at his arms due to phantom bug sensations despite knowing none are present.",
+    "source_quote": "Maybe 'Burning Hands' would have been better? ... He keeps scratching at his arms, feeling the phantom sensation of bugs despite knowing there were none on him.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin charges in and successfully strikes one of the centipede swarms, dealing a significant blow, offering a moment of hope.",
+    "source_quote": "Thorin charges in, swinging with his weapon. Daz perks up as Thorin actually manages to strike one of the swarms, dealing a significant blow.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum casts 'Tasha's Caustic Brew' in response to the centipede swarm, but the spell fails to impede them.",
+    "source_quote": "Grygum then steps up, casting 'Tasha's Caustic Brew.'",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "ineffective spells",
+    "fact": "Daz is questioning whether his spells are inherently ineffective or if he needs a re-strategized approach to dealing with the centipede swarm.",
+    "source_quote": "He feels a slight unease, wondering if his spells are just ineffective or if he needs to re-strategize.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "spell failure",
+    "fact": "Multiple spell attempts, including 'Tasha's Caustic Brew' and others, fail to impede the centipede swarm despite direct targeting.",
+    "source_quote": "the centipedes somehow manage to avoid the brunt of the spell.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "combat zone",
+    "fact": "The combat zone is characterized by a relentless swarm of centipedes, ongoing spellcasting attempts, and visible frustration from the party.",
+    "source_quote": "The centipedes keep coming, relentless and unsettling.",
+    "quote_verified": false
+  }
+]

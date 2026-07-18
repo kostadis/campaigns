@@ -53,7 +53,7 @@ related: []
   - [[herbalist]]
   - [[puzzle-locked-garden]]
   - [[gardens]]
-  - [[Silas Carras]]
+  - [[silas_carras]]
 - **Impact:**
   - This source provides new details about Silas Carras' background and the nature of his wife's work, enriching the narrative universe.
   - It extends the understanding of the puzzle-locked garden concept, adding depth to the setting.
@@ -65,7 +65,7 @@ related: []
 
 ### Recommendations
 - **Pages to Create or Update:**
-  - [[Silas Carras]]
+  - [[silas_carras]]
   - [[herbalist]]
   - [[puzzle-locked-garden]]
 - **Emphasis:**
@@ -74,3 +74,17 @@ related: []
 - **Open Questions:**
   - Investigate the full extent of Gundalin Cartwright's involvement with the trampled garden bushes.
   - Explore how Silas Carras' wife's expertise might have influenced the local community.
+
+## Related
+
+- [[the_red_wizard]]
+- [[slayermighty]]
+- [[syreen_widdens]]
+- [[talis_the_white]]
+- [[sir_cedric_hollowcrest]]
+- [[the_foreman]]
+- [[szass_tam]]
+- [[tolmarra]]
+- [[taern_hornblade]]
+- [[the_harper_agent]]
+- [[uthor]]

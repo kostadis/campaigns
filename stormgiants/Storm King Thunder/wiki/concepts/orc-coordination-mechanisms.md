@@ -20,3 +20,9 @@ Key documented instances include:
 These traits align with other known phenomena in the setting: the layered command structures of Aletra Satora’s smuggling network, the silent control of the Oracle, and the psychic manipulation implied by the Headband of Intellect. The implication is that orcs may be acting as conduits or agents for an unseen authority — possibly drow, psionic entities, or planar influences tied to interdimensional operations.
 
 This concept reframes orcs not as mindless savages, but as potentially manipulated components in a larger, hidden operational framework. Further investigation is needed to determine whether this is an isolated case or part of a systemic pattern.
+
+## Related
+
+- [[tactical-disengagement]]
+- [[orc-coordination-mechanisms-2026-06-05-184347]]
+- [[orc-coordination-mechanisms-2026-06-06-002435]]

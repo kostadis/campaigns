@@ -17,3 +17,7 @@ An unnamed, highly zealous operative of the [[kraken-society]]. He was character
 
 ## Fate
 The Fanatic was executed by [[valphine]]. Following his death, his head was taken by the [[talosian-orc-raiding-party]] as proof of their victory.
+
+## Related
+
+- [[the_cult_fanatic]]

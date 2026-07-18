@@ -4,7 +4,7 @@ title: Duke Zalto
 created: 2023-10-05
 updated: 2026-05-22
 tags: [giant-lords, vonindod, ironslag, noble, referenced, political]
-related: [annam-the-oracle, thistle-wendrod, divine-oracle, lal, king-hekaton]
+related: ["annam-the-oracle-and-annam-the-all-father-of-giants", "thistle-wendrod", "divine-oracle", "lal", "king-hekaton"]
 sources: ["duke_zalto.md", "annam_the_oracle.md"]
 ---
 # Duke Zalto
@@ -14,11 +14,11 @@ Duke Zalto is a commanding officer of Fire Giant search operations across the No
 He is also referenced by Thistle-Wendrod in a failed trick question directed at the Oracle of the Eye of the World. The Oracle recognized the attempt to manipulate its truth-telling mechanism and laughed, extinguishing a torch in dismissal. While no further details about his identity, domain, or role were revealed in that encounter, his mention suggests he is a figure of political or historical significance, possibly tied to burial rites or infernal pacts. This adds a layer of mystery to his character, positioning him as an unexplored thread in the campaign’s political landscape.
 
 ## Related Pages
-- [[giant-lords]]
+- [[storm-giants]]
 - [[vonindod]]
 - [[ironslag]]
 - [[lal]]
 - [[king-hekaton]]
-- [[annam-the-oracle]]
+- [[annam-the-oracle-and-annam-the-all-father-of-giants]]
 - [[thistle-wendrod]]
 - [[divine-oracle]]

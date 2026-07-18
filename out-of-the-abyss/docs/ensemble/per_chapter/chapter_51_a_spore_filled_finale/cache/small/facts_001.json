@@ -1,0 +1,72 @@
+[
+  {
+    "type": "npc",
+    "subject": "Ilvara Mizzrym",
+    "fact": "Ilvara Mizzrym is the high priestess of House Mizzrym, Zuggtmoy's beloved instrument, corrupted vessel of a demon lord of fungal nightmare; she was grappled, dropped from forty feet, and delivered a targeted fear effect that prevented proximity.",
+    "source_quote": "She reached into whatever dark place Zuggtmoy had hollowed out inside her and she pushed \u2014 not against my body, not against my grip, but against the part of me that the training does not fully reach.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a monk who relies on proximity and physical engagement; he grappled Ilvara, delivered two critical strikes from forty feet, and was subsequently afflicted by a fear effect that rendered him unable to approach her despite his tactical philosophy.",
+    "source_quote": "I am a monk. My entire tactical vocabulary is built around being adjacent to the problem. Range is something other people deal with.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Heart Fungus",
+    "fact": "The heart fungus is a massive, sentient fungal entity that attacked Zalthir from fifteen feet of reach while he was frightened and grounded, dealing significant bludgeoning and poison damage; it acted with precise tactical intent.",
+    "source_quote": "It found me. The blow was enormous \u2014 the kind of damage that lands differently when you have no immediate recourse.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "critical strike sequence",
+    "fact": "Zalthir landed two consecutive critical strikes on Ilvara Mizzrym after a forty-foot drop, confirming the effectiveness of his tactical delivery method before her fear effect negated further proximity.",
+    "source_quote": "Crit. I do not celebrate at the table. But the second one surprised even me...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "fear effect activation",
+    "fact": "Ilvara Mizzrym activated a targeted fear effect via a DC-14 Wisdom saving throw, which afflicted Zalthir with the frightened condition, explicitly preventing him from approaching her and nullifying his core tactical doctrine.",
+    "source_quote": "Roll a DC-14 Wisdom saving throw. Well. That didn't work. The fear was immediate and specific and entirely unwanted.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Cavernous Space Above Heart Fungus",
+    "fact": "The cavernous space above the heart fungus is dark, vast, and silent \u2014 a preferred environment for Zalthir\u2019s operations; it is the site of the grapple, the fall, and the subsequent confrontation between Zalthir and Ilvara.",
+    "source_quote": "The cavernous space above the heart fungus was dark and vast and exactly the kind of silence I prefer to operate in.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "inability to approach",
+    "fact": "Zalthir is trapped by the frightened condition, unable to close distance to Ilvara despite his lifelong training and tactical identity \u2014 a profound disruption to his sense of self and purpose.",
+    "source_quote": "Ilvara's legendary reaction had, in one economical move, made proximity impossible.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "monastic self-adjudication",
+    "fact": "Zalthir is struggling to reconcile monastic discipline \u2014 applying rules honestly even against oneself \u2014 with the tactical reality of being rendered useless by fear, questioning whether he has misinterpreted years of training.",
+    "source_quote": "I am supposed to apply the rule honestly, even against my own interest. That is the monastic training operating at the level of self-adjudication...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Tattooed Eldritch Tendrils",
+    "fact": "The tattooed eldritch tendrils on Zalthir\u2019s arm are the source of his reach and grappling ability; they unreel before speech completes, enabling him to initiate contact with Ilvara without warning.",
+    "source_quote": "The eldritch tendrils of the tattoo were already unreeling from my arm before the words finished leaving my mouth.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session timing",
+    "fact": "The events occur during a single, continuous encounter \u2014 no temporal markers are given beyond the immediate sequence of actions, implying a single session or combat round.",
+    "source_quote": "I dragged her up. Forty feet. ... Then the dice agreed with me. Twice.",
+    "quote_verified": false
+  }
+]

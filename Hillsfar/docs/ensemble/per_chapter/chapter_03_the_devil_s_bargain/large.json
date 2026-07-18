@@ -1,0 +1,681 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session takes place on Dec 14th, 2025.",
+    "source_quote": "Date: Dec 14th, 2025",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Underdark cave",
+    "fact": "The party found a defensible cave with a single entrance in the Underdark.",
+    "source_quote": "the party stumbled upon a defensible cave with a single entrance",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "alarm trap setup",
+    "fact": "The party set up an improvised alarm trap with string and metal at the cave entrance.",
+    "source_quote": "they set up an improvised alarm trap with string and metal at the entrance",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "long rest",
+    "fact": "The party took eight uneventful hours of rest in the cave.",
+    "source_quote": "After eight uneventful hours of rest",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "scream discovery",
+    "fact": "A ragged scream choked off echoed from the tunnels ahead after the rest.",
+    "source_quote": "a ragged scream suddenly choked off echoed from the tunnels ahead",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Teegan",
+    "fact": "Teegan is a filthy, traumatized commoner found standing protectively over Drystan.",
+    "source_quote": "a woman named Teegan protectively standing over a man named Drystan",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Drystan",
+    "fact": "Drystan is a traumatized commoner sitting rocking and clutching his knees with dried blood pooling near his ears.",
+    "source_quote": "who sat rocking and clutching his knees",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "lash marks observation",
+    "fact": "Both Teegan and Drystan bore visible lash marks and torn clothing.",
+    "source_quote": "Both bore visible lash marks and torn clothing",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "ear wounds observation",
+    "fact": "Dried blood pooled near Drystan from wounds in his ears.",
+    "source_quote": "dried blood pooled near Drystan from wounds in his ears",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Maram il Vass",
+    "fact": "Teegan accused the party of working with their captor, Maram il Vass.",
+    "source_quote": "Teegan initially accused the party of working with their captor, Maram il Vass",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Barlgura demons",
+    "fact": "Two ugly Barlgura demons burst from behind and howled about recapturing the pets.",
+    "source_quote": "two ugly Barlgura demons burst from behind, howling about recapturing \"the pets\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "demon defeat",
+    "fact": "The party cut through the demons, watching as they dissolved into dust and ochre upon defeat.",
+    "source_quote": "watching as the demons dissolved into dust and ochre upon defeat",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "enslavement revelation",
+    "fact": "Teegan revealed she and Drystan had been enslaved by Maram il Vass for five years after being captured by orcs.",
+    "source_quote": "She and Drystan had been enslaved by Maram il Vass for five years after being captured by orcs",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "escape timing",
+    "fact": "Teegan and Drystan escaped only a day ago while being led out to feed on mushrooms.",
+    "source_quote": "They had escaped only a day ago while being led out to feed on mushrooms",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Drow prisoner",
+    "fact": "Teegan confirmed that a Drow had been brought to Maram's palace.",
+    "source_quote": "Teegan confirmed that a Drow had indeed been brought to Maram's palace",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Gabberforth",
+    "fact": "Gabberforth is a deceptively polite deep gnome who guards the palace.",
+    "source_quote": "Gabberforth, a deceptively polite deep gnome who guarded the palace",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Drystan self-harm",
+    "fact": "Drystan drove a sharpened stick into both his ears to escape the torment.",
+    "source_quote": "he had driven a sharpened stick into both his ears to escape the torment",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "party level up",
+    "fact": "The party reached 11th level and gained new abilities.",
+    "source_quote": "The party's efforts were rewarded with newfound strength and abilities",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "travel to palace",
+    "fact": "After another day's travel, the party emerged from the tunnels into a vast cavern.",
+    "source_quote": "After another day's travel, they emerged from the tunnels into a vast cavern",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Den of the Whispered Word",
+    "fact": "The palace is an impressive structure of black and red marble with domes lit by fairy fire.",
+    "source_quote": "an impressive structure of black and red marble, its domes lit by eerie blue, green, and purple fairy fire",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "brass doors",
+    "fact": "The palace entrance features ornate brass doors carved with images of a half-elf's rise to power.",
+    "source_quote": "At the ornate brass doors carved with images of a half-elf's rise to power",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Gabberforth",
+    "fact": "Gabberforth and his shield guardian met the party at the brass doors.",
+    "source_quote": "they were met by Gabberforth and his shield guardian",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Gabberforth",
+    "fact": "Gabberforth demanded to know the party's business.",
+    "source_quote": "The deep gnome demanded to know their business",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Maram il Vass",
+    "fact": "A rakishly handsome half-elf sat behind a desk of unusual purple wood in the grand chamber.",
+    "source_quote": "a rakishly handsome half-elf sat behind a desk of unusual purple wood",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "True Seeing cast",
+    "fact": "Bramgrim invoked his sight beyond sight, causing the illusion to shatter.",
+    "source_quote": "The moment Bramgrim invoked his sight beyond sight, the illusion shattered",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Yugoloth",
+    "fact": "The half-elf was revealed as a seven-foot-tall Yugoloth demon with demonic jaws and claws.",
+    "source_quote": "revealed as a seven-foot-tall Yugoloth, a demon of contracts and deals, with demonic jaws and claws",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Maram il Vass",
+    "fact": "Maram il Vass identified Felkur and mentioned a group that believes Felkur stole from them.",
+    "source_quote": "identifying Felkur and the troubles with those who believed he had stolen from them",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Xaven Tanor'this",
+    "fact": "Maram confirmed he held a prisoner named Xaven Tanor'this, acquired from fire giants.",
+    "source_quote": "Maram confirmed he held a prisoner named Xaven Tanor'this, acquired from fire giants",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "trade offer Felkur",
+    "fact": "Maram offered to trade Xaven Tanor'this for Felkur himself.",
+    "source_quote": "he would trade Xaven Tanor'this for Felkur himself",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "trade offer Bramgrim",
+    "fact": "When the party refused, Maram suggested trading Bramgrim instead.",
+    "source_quote": "When the party vehemently refused, he suggested Bramgrim instead",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "monetary demand",
+    "fact": "Maram revealed his true price was ten thousand gold pieces or two rare magical items.",
+    "source_quote": "Maram then revealed his true price: ten thousand gold pieces or two rare magical items",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "privacy negotiation",
+    "fact": "The party requested time to deliberate privately and negotiated terms for a contract ensuring their privacy.",
+    "source_quote": "The party requested time to deliberate privately, and after careful negotiation over the terms of a contract ensuring their privacy",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "side office access",
+    "fact": "Maram reluctantly agreed to let the party use his side office.",
+    "source_quote": "Maram reluctantly agreed to let them use his side office",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "back room demons",
+    "fact": "Two more demons emerged from the back room as the party prepared to enter the side office.",
+    "source_quote": "two more demons emerged from the back room",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Xaven Tanor'this location",
+    "fact": "Teegan did not know the exact location of the Drow prisoner within the palace.",
+    "source_quote": "though she didn't know his exact location",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Felkur's theft problem",
+    "fact": "A group believes Felkur stole something from them, a problem Maram knows about.",
+    "source_quote": "a particular group that seems to think you stole something",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "fake magical items",
+    "fact": "Felkur considered using his infusion ability to create fake rare magical items that only last eight hours.",
+    "source_quote": "Felkur considers infusing armor with a +2 bonus and decides to infuse his own armor for 17 AC",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Maram il Vass",
+    "fact": "Maram il Vass initially appears as a rakishly handsome half-elf.",
+    "source_quote": "A 'rakishly handsome' half-elf sits at the desk.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Maram il Vass",
+    "fact": "Bramgrim casts True Seeing to reveal that the half-elf is actually a Yugoloth.",
+    "source_quote": "Bramgrim casts True Seeing, revealing that the 'half-elf' is actually a Yugoloth",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Yugoloth",
+    "fact": "Maram il Vass is a Yugoloth, a type of demon known for making contracts.",
+    "source_quote": "a Yugoloth, a type of demon known for making contracts",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Maram il Vass",
+    "fact": "Maram il Vass immediately identifies Felkur and knows about a group that wants him.",
+    "source_quote": "immediately identifies Felkur, knowing about a group that wants him",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Maram il Vass",
+    "fact": "Maram il Vass confirms he has the Drow named Xaven in his custody.",
+    "source_quote": "Maram confirms he has the Drow named Xaven",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Maram il Vass",
+    "fact": "Maram il Vass states he acquired Xaven from fire giants.",
+    "source_quote": "whom he acquired from fire giants",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Maram il Vass",
+    "fact": "Maram il Vass offers to exchange Xaven for Felkur.",
+    "source_quote": "Maram il Vass offers to exchange Xaven for Felkur",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Maram il Vass",
+    "fact": "Maram il Vass offers to exchange Xaven for 10,000 gold pieces or two rare magical items.",
+    "source_quote": "Maram il Vass then offers Xaven for 10,000 gold pieces or two rare magical items",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "The party decides to save Bramgrim's True Seeing spell for the direct encounter with Maram il Vass.",
+    "source_quote": "The party decides to save Bramgrim's True Seeing spell for the direct encounter with Maram il Vass",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim vehemently refuses the trade of Felkur.",
+    "source_quote": "Bramgrim vehemently refusing",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur considers using his infusion ability to create fake rare magical items that last eight hours.",
+    "source_quote": "Felkur considers using his infusion ability to create fake rare magical items that only last eight hours",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Teegan",
+    "fact": "Teegan was enslaved by Maram il Vass for five years after being captured by orcs.",
+    "source_quote": "enslaved by Maram il Vass for five years after being captured by orcs",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Teegan",
+    "fact": "Teegan shares vital information about Maram il Vass and the Drow prisoner Xaven Tanor'this after the demons are defeated.",
+    "source_quote": "after they defeat the demons, she shares vital information about Maram il Vass, the Drow prisoner named Xaven Tanor'this",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Teegan",
+    "fact": "Teegan refuses to follow the party further into the palace.",
+    "source_quote": "She refuses to follow the party further into the palace",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Drystan",
+    "fact": "Drystan is found in a state of mental breakdown with self-inflicted wounds from shoving a pointed stick into both of his ears.",
+    "source_quote": "shoving a pointed stick into both of his ears, causing self-inflicted wounds",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Drystan",
+    "fact": "Drystan is unable to communicate.",
+    "source_quote": "He is unable to communicate",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Gabberforth",
+    "fact": "Gabberforth is a deep gnome who serves as a guard and majordomo for Maram il Vass.",
+    "source_quote": "A deep gnome who serves as a guard and majordomo for Maram il Vass",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Gabberforth",
+    "fact": "Gabberforth guards the entrance to the palace accompanied by a shield guardian.",
+    "source_quote": "accompanied by a shield guardian",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Shield Guardian",
+    "fact": "A shield guardian stands sentry at the entrance to Maram il Vass's palace.",
+    "source_quote": "A construct that stands sentry at the entrance to Maram il Vass's palace",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Barlgura",
+    "fact": "Two Barlgura demons ambushed the party and were interested in recapturing Teegan and Drystan.",
+    "source_quote": "Two ugly-looking demons that ambushed the party, interested in recapturing Teegan and Drystan",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Barlgura",
+    "fact": "The Barlgura demons were defeated by the party and turned into dust and ochre.",
+    "source_quote": "They were defeated by the party and turned into dust and ochre",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Owlbear",
+    "fact": "The Owlbear was attacked and knocked prone during the battle with the Barlgura demons.",
+    "source_quote": "it was attacked and knocked prone",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Owlbear",
+    "fact": "The Owlbear recovered using its second wind.",
+    "source_quote": "recovered using its second wind",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Owlbear",
+    "fact": "The Owlbear levels up with the party to 11th level.",
+    "source_quote": "It levels up with the party to 11th level",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Den of the Whispered Word",
+    "fact": "The Den of the Whispered Word is an expansive cavern housing Maram il Vass's palace.",
+    "source_quote": "An expansive cavern housing Maram il Vass's palace",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Den of the Whispered Word",
+    "fact": "The palace is a grand structure of black and red marble lit by blue, green, and purple fairy fire.",
+    "source_quote": "a grand structure of black and red marble, lit by blue, green, and purple fairy fire",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Den of the Whispered Word",
+    "fact": "The central building of the palace stands 50 feet high.",
+    "source_quote": "The central building stands 50 feet high",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Den of the Whispered Word",
+    "fact": "The interior of the palace is filled with expensive incense and perfume.",
+    "source_quote": "The interior is filled with expensive incense and perfume",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Entrance Foyer",
+    "fact": "The entrance foyer features two large tapestries depicting the half-elf's rise to power.",
+    "source_quote": "featuring two large tapestries depicting the half-elf's rise to power",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Entrance Foyer",
+    "fact": "The entrance foyer hallway is lined with tall vases of fresh flowers and glass containers holding small, unusual creatures.",
+    "source_quote": "hallway lined with tall vases of fresh flowers and glass containers holding small, unusual creatures",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Grand Chamber",
+    "fact": "The Grand Chamber has a polished white marble floor streaked with red and black.",
+    "source_quote": "The floor is polished white marble streaked with red and black",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Grand Chamber",
+    "fact": "A large desk of unusual purple wood sits in the middle of the Grand Chamber.",
+    "source_quote": "A large desk of unusual purple wood sits in the middle of the grand chamber",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Grand Chamber",
+    "fact": "Two brass doors in the Grand Chamber lead to the southeast and southwest corners.",
+    "source_quote": "two brass doors lead to southeast and southwest corners",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Side Office",
+    "fact": "Maram il Vass offers a side office for the party to discuss their negotiation privately.",
+    "source_quote": "offering a side office",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Cave (Resting Spot)",
+    "fact": "The party takes a long rest in a defensible cave with a single entrance found by Bramgrim.",
+    "source_quote": "where the party takes a long rest",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Howling Pits",
+    "fact": "The Howling Pits are a section of Underdark tunnels characterized by persistent, mournful winds.",
+    "source_quote": "characterized by persistent, mournful winds",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Alarm Trap",
+    "fact": "The party set up an improvised alarm trap made of string and a loud metal item at the cave entrance.",
+    "source_quote": "An improvised trap made of string and a loud metal item, set up by the party at the entrance of the cave",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Pointed Stick",
+    "fact": "Drystan shoved a pointed stick into both of his ears while in a maddened state.",
+    "source_quote": "tragically shoved it into both of his ears",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Brass Doors",
+    "fact": "The Brass Doors are the only entrance to Maram il Vass's palace.",
+    "source_quote": "serving as the only entrance to Maram il Vass's palace",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Brass Doors",
+    "fact": "The Brass Doors are carved with self-adulating images of a half-elf.",
+    "source_quote": "carved with self-adulating images of a half-elf",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Tapestries",
+    "fact": "Two large tapestries in the entrance foyer depict the story of a self-made half-elf.",
+    "source_quote": "depicting the story of a self-made half-elf of extraordinary influence",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Vases with Fresh Flowers",
+    "fact": "Tall vases in the palace hallway are filled with fresh flowers.",
+    "source_quote": "filled with fresh flowers",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Glass Containers",
+    "fact": "Glass containers in the palace hallway hold various small and unusual creatures such as fish, birds, and reptiles.",
+    "source_quote": "filled with various small and unusual creatures such as fish, birds, reptiles",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Desk of Purple Wood",
+    "fact": "A large desk of unusual purple wood is situated in the middle of the grand chamber.",
+    "source_quote": "A large desk of unusual purple wood sits in the middle of the grand chamber",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Contract",
+    "fact": "Maram il Vass presents a contract for the party's privacy agreement.",
+    "source_quote": "Maram il Vass presents a contract for their privacy agreement",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Contract",
+    "fact": "The party negotiates the terms of the contract to ensure Maram will not spy on them.",
+    "source_quote": "negotiates the terms of the contract to ensure Maram won't spy on them",
+    "quote_verified": true
+  },
+  {
+    "type": "spell",
+    "subject": "True Seeing",
+    "fact": "Bramgrim casts True Seeing to reveal Maram il Vass's true form as a Yugoloth.",
+    "source_quote": "revealing the true nature of things. It lasted for one hour and was used to reveal Maram il Vass's true form as a Yugoloth",
+    "quote_verified": false
+  },
+  {
+    "type": "spell",
+    "subject": "Spirit Guardians",
+    "fact": "Bramgrim casts Spirit Guardians at fourth level during combat with the Barlgura demons.",
+    "source_quote": "Cast by Bramgrim at fourth level during combat with the Barlgura demons",
+    "quote_verified": true
+  },
+  {
+    "type": "spell",
+    "subject": "Phantasmal Killer",
+    "fact": "A Barlgura demon casts Phantasmal Killer on Daein.",
+    "source_quote": "Cast by a Barlgura demon on Daein",
+    "quote_verified": true
+  },
+  {
+    "type": "spell",
+    "subject": "Hunter's Mark",
+    "fact": "Akritas casts Hunter's Mark on one of the Barlgura demons.",
+    "source_quote": "Cast by Akritas on one of the Barlgura demons",
+    "quote_verified": true
+  },
+  {
+    "type": "spell",
+    "subject": "Toll the Dead",
+    "fact": "Bramgrim casts Toll the Dead on a Barlgura demon.",
+    "source_quote": "Cast by Bramgrim on a Barlgura demon",
+    "quote_verified": true
+  },
+  {
+    "type": "spell",
+    "subject": "Volley",
+    "fact": "Akritas gains the Volley ability upon leveling up to 11th level.",
+    "source_quote": "A new ability gained by Akritas upon leveling up to 11th level",
+    "quote_verified": true
+  },
+  {
+    "type": "spell",
+    "subject": "True Seeing",
+    "fact": "True Seeing lasts for one hour.",
+    "source_quote": "It lasts for one hour",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Xaven Tanor'this",
+    "fact": "Xaven Tanor'this is a Drow held captive by Maram il Vass.",
+    "source_quote": "A Drow held captive by Maram il Vass",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Xaven Tanor'this",
+    "fact": "Xaven Tanor'this was brought to Maram il Vass by fire giants while unconscious and in bad shape.",
+    "source_quote": "brought to him by fire giants while unconscious and in bad shape",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Privacy negotiation",
+    "fact": "The party requests time to discuss and decide which rare items to offer.",
+    "source_quote": "The party requests time to discuss and decide which rare items to offer",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Privacy agreement",
+    "fact": "Maram il Vass reluctantly agrees to give the party privacy.",
+    "source_quote": "Maram il Vass reluctantly agrees to their privacy",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Demon reveal",
+    "fact": "Two more demons are revealed to be in the back room as the party prepares to enter the side office.",
+    "source_quote": "Two more demons are revealed to be in the back room as the party prepares to enter the side office",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Felkur's problem",
+    "fact": "Maram il Vass offers to help Felkur with his problem in exchange for something.",
+    "source_quote": "Maram offers to help Felkur with his problem in exchange for something",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Rare items offer",
+    "fact": "The party is deciding which rare items to offer for Xaven.",
+    "source_quote": "decide which rare items to offer",
+    "quote_verified": true
+  }
+]

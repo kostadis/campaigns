@@ -8,4 +8,4 @@ related: []
 
 # Investigate Valphine's Affiliations
 
-Should the connection between [[valphine]] and [[the-carver]] be investigated to determine if the assassination of [[locutus]] was a coordinated effort to eliminate a witness or a failed transaction?
+Should the connection between [[valphine]] and the-carver be investigated to determine if the assassination of [[locutus]] was a coordinated effort to eliminate a witness or a failed transaction?

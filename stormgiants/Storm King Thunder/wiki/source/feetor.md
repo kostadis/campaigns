@@ -42,3 +42,7 @@ sources: ["feetor.md"]
 
 ## Arc Score Events
 - *(No arc score events recorded in source notes)*
+
+## Related
+
+- [[feetor]]

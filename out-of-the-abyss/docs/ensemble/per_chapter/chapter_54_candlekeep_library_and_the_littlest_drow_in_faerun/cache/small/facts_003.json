@@ -1,0 +1,107 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is currently observing a non-deer entity moving with them through the northern treeline, having concluded it is a deliberate, patient tracker using terrain to remain occluded, and has chosen to wait rather than act.",
+    "source_quote": "I looked toward the northern treeline. 'The deer,' I said. 'Oh, no. It's not a deer. It's not a deer.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum initially believed the tracker was a deer, but after being corrected, now appears awake and reactive, expressing concern with 'Oh, dear,' and is involved in the group\u2019s evolving understanding of the threat.",
+    "source_quote": "'Oh, dear,' said Grygum, somewhere behind me, apparently now awake.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin mistakenly relied on Tremor Sense, believing the environment would be underground with stone, and is now frustrated by the mismatch between his preparation and reality, openly criticizing the universe for his misallocated feat.",
+    "source_quote": "'I picked it because we were gonna be fucking underground all the time... And then the one time I need it. We're not underground, and we're not surrounded by fucking stone.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a wizard who has shifted from observation to active intel-gathering, planning to misty step into the tree to investigate the tracker, and has demonstrated deep tactical awareness by recognizing the entity's intent and movement patterns.",
+    "source_quote": "'I want to get some intel out of this,' he said, the way a man says a thing when he's already decided what he's going to do. 'I'm going to misty step up into the tree.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is attempting to mimic bird calls with no understanding of avian biology, producing an unrecognizable, wet-sand-like sound, and is earnestly confused by the concept of feathers and intentional communication.",
+    "source_quote": "'Is it a kind of ooze?' he asked... 'No, no,' I said, 'they're not oozy at all. They're feathered.'",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Ember Vanguard",
+    "fact": "The Ember Vanguard communicates through silent, shared acknowledgment \u2014 a private language developed among its members \u2014 used here to confirm mutual recognition of the tracker\u2019s non-deer nature without speech.",
+    "source_quote": "The three of us looked at each other in the way that the Ember Vanguard has developed as a private language: no words, just a shared acknowledgment that the thing in the trees is not a deer.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "the tracker",
+    "fact": "The tracker is a non-deer entity exhibiting deliberate, patient, terrain-aware movement \u2014 adjusting position laterally to stay in blind spots, indicating advanced knowledge of its prey and intent to observe rather than attack, and has been following the party for months.",
+    "source_quote": "Whatever was in those trees had been moving with us, shifting position laterally to stay in the blind spots, using the terrain the way someone uses it when they know what they're doing. Not panicked. Not rushing. Patient.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "northern treeline",
+    "fact": "The northern treeline is the site of sustained, covert activity \u2014 a zone where no birds move, undergrowth fails to shift with wind, and the tracker remains hidden, creating an unnatural stillness that signals presence through absence.",
+    "source_quote": "The trees north of us were wrong... the way no birds had moved through that section for some time, the way the undergrowth hadn't shifted with the wind in quite the pattern it should.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "arrival at dusk",
+    "fact": "The party has reached the worst possible temporal window \u2014 too dark for fine detail, too bright for shadow work \u2014 and the tracker has timed or coincidentally aligned its presence with this lighting condition, maximizing its advantage.",
+    "source_quote": "We'd reached the worst possible window: too dark for fine detail, too bright for shadow work.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Jimjar's return",
+    "fact": "Speculation exists that the tracker might be Jimjar, returning to drag the party back underground \u2014 a possibility not ruled out, linking current events to past assumptions about their environment and mission.",
+    "source_quote": "Someone speculated it might be Jimjar, coming to drag us back underground. I did not rule it out.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "dusk",
+    "fact": "The current time is dusk \u2014 a precise temporal anchor that defines the lighting conditions and tactical limitations under which the party and the tracker now operate, with no further calendar reference provided.",
+    "source_quote": "Dusk, we were told.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Tremor Sense",
+    "fact": "Tremor Sense is a magical ability Thorin selected under the assumption of underground stone terrain, now rendered useless because the party is on dirt road, highlighting a mismatch between preparation and reality.",
+    "source_quote": "Thorin raised the idea of Tremor Sense... the forest floor was dirt and the forest road was dirt and none of it was stone.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "dirt road",
+    "fact": "The dirt road is the current terrain where the party is ambushed by a tracker, and where Thorin\u2019s prepared abilities have failed \u2014 a place of unexpected vulnerability, lacking stone, structure, or cover expected from prior assumptions.",
+    "source_quote": "We're not underground, and we're not surrounded by fucking stone.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz\u2019s misty step",
+    "fact": "Daz has decided to execute a risky reconnaissance maneuver \u2014 misty stepping into the tree to observe the tracker directly \u2014 marking a transition from passive awareness to active intervention.",
+    "source_quote": "'I'm going to misty step up into the tree,' Daz announced.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "bird call mimicry",
+    "fact": "A cardinal whistle, imitated by Daz, has been used as a test signal in the forest \u2014 a practiced but unverified tactic that has successfully drawn attention and revealed the presence of Glabbagool\u2019s failed imitation, suggesting ongoing experimental communication attempts.",
+    "source_quote": "The bird call came just as I was settling in for the night... Daz had been practicing. We all had, in the abstract...",
+    "quote_verified": false
+  }
+]

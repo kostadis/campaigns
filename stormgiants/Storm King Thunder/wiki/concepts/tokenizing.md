@@ -29,3 +29,7 @@ tags: [tokenizing, manipulation, social dynamics, relationships]
 related: []
 sources: ["fiora_bendaega.md", "ghelryn_foehammer.md", "ghost_cloud_giant.md", "imber_chen.md"]
 updated: 2026-05-13
+
+## Related
+
+- [[social-manipulation]]

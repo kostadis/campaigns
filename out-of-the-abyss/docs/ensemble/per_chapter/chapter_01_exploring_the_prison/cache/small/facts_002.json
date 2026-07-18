@@ -1,0 +1,149 @@
+[
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a dwarf raised by Giants who observes the drow with skepticism, noting Ilvara's manic behavior and questioning Buppido\u2019s delusions of divinity; he has pledged his sword and life to protect Buppido in exchange for the promise of collective escape.",
+    "source_quote": "Thorin corrected Buppido: 'We escape?' ... 'Well, how else will we protect you so that you can fulfill the divine plan?'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara",
+    "fact": "Ilvara is the high priestess of Lolth and commander of the priestess\u2019s tower; she is cold, calculating, and terrifyingly precise in her control over slaves, wielding a scourge and enforcing obedience with threats of violence; her quarters are a shrine-like chamber adorned with dark silken mats, a zurkhwood pedestal, and a sculpted spider idol with jet eyes.",
+    "source_quote": "Ilvara smiled and had her scourge handy as she flicked it toward her prisoners. 'This is my quarters. I am the high priestess of Lolth and commander. Do not spill any water, do not touch anything, and fill my bath.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido is a derro who believes himself to be a divine entity or a god; he projects his thoughts, demands collaboration, and orchestrates escape plans under the guise of a 'divine plan'; his insanity is recognized by Thorin and others, yet his influence persists as he manipulates prisoners into pledging their lives to his cause.",
+    "source_quote": "Buppido projected his mind: 'The Divine plan says we must collaborate and share information.' ... 'The divine plan requires that you create a distraction while I escape.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum is an orc chef whose theatrical cooking has become legendary among the prisoners; his skill is so extraordinary that even Shuushar suggests his cooking might be mistaken for divine, and he is now being observed by drow soldiers who are entertained by his performances.",
+    "source_quote": "Shuushar cautioned the orc, 'If you were to show this cooking to my people, they might imagine a god like you.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a prisoner who collects chamber pots with his crew, observes the hierarchy of the prison complex, and participates in the group mind formed by Jimjar\u2019s spores; he is pragmatic, skeptical of Buppido\u2019s divinity, but accepts the need for coordination among prisoners to survive.",
+    "source_quote": "Daz thinks, 'At least we have that.' ... 'What is the plan?' ... Buppido: 'In due time.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Prince Derendil",
+    "fact": "Prince Derendil is a nobleman enslaved in the prison complex; he recalls being greeted by Ilvara in silken garments flanked by scarred drow, and he resists his enslavement, provoking violent threats from Ilvara; he is present during key moments of tension and escape planning.",
+    "source_quote": "Prince Derendil mutters, 'I remember how she greeted me when I arrived. She was robed in silken garments and flanked by two male drow, one of whom had a mass of scars along one side of his face and neck.'",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "The Drow of the Priestess\u2019s Tower",
+    "fact": "The drow of the priestess\u2019s tower are a rigid, hierarchical society devoted to Lolth; they enforce slavery through terror, use spider symbolism in architecture and worship, and maintain control via ritualized violence, surveillance, and psychological domination; their priestess, Ilvara, wields absolute authority.",
+    "source_quote": "This place is a shrine to Lolth, the drow\u2019s spider goddess. The altar is flanked by a pair of heavy silver candlesticks worth 25 gp each. They hold thick black candles and are unlit.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Prisoner Collective",
+    "fact": "The prisoner collective is an ad hoc alliance of diverse races (dwarves, gnomes, orcs, derros, elves) bound by shared captivity; they communicate via spore-induced group minds, coordinated thefts, and shared planning; despite internal differences, they are beginning to unify under the influence of Buppido\u2019s delusions and Thorin\u2019s pragmatic leadership.",
+    "source_quote": "Jimjar is making more bets. The stool is happy to be talking to everyone and has spread his spores so that everyone in the prison cell is in a group mind. ... Daz notes that this allows them to coordinate any plans without being discovered.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "The Priestess\u2019s Tower",
+    "fact": "The Priestess\u2019s Tower is a circular, subterranean chamber serving as the center of Lolth worship and Ilvara\u2019s command; its floor is covered in dark silken mats with pale web-strand patterns; the center holds a zurkhwood pedestal with a 10-foot-tall sculpted spider idol whose eight eyes are polished jet; the chamber contains a shrine to Lolth, a black-stained zurkhwood chest, and a divan-like bed.",
+    "source_quote": "The eight 'eyes' of the spider statue are eight pieces of polished jet \u2014 four small ones worth five gp each and four larger ones worth ten gp each.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "The Lake of Filth",
+    "fact": "The Lake of Filth is the disposal site for chamber pots collected by Daz\u2019s crew; despite daily deposits of waste, the lake appears unnaturally clean, suggesting magical cleansing or hidden mechanisms; no visible source of purification is observed.",
+    "source_quote": "They look around and see nothing.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Quaggoth Barracks",
+    "fact": "The Quaggoth Barracks is a northern cave used as living quarters for quaggoths; it is noted by Daz as a place of rest and low vigilance, suggesting it is not heavily guarded or monitored by the drow.",
+    "source_quote": "Peeking in, Daz notes one of them resting.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "The Spider Idol of Lolth",
+    "fact": "The Spider Idol is a 10-foot-tall sculpture carved from zurkhwood, placed atop a pedestal at the center of the Priestess\u2019s Tower; its eight eyes are made of polished jet, four small (5 gp each) and four large (10 gp each); it is the focal point of worship and symbolizes Lolth\u2019s dominion over the drow.",
+    "source_quote": "In the middle of the chamber (at the center of the web) stands a broad pedestal carved from zurkhwood, with a 10-foot-high sculpted spider at its head.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Ilvara\u2019s Scourge",
+    "fact": "Ilvara\u2019s Scourge is a whip-like instrument of control, always kept handy; it is used to flick warnings at prisoners and enforce obedience; its presence is a constant psychological threat, symbolizing the drow\u2019s mastery over pain and submission.",
+    "source_quote": "Ilvara is there. She smiles and has her scourge handy as she flicks it toward her prisoners.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "The Silver Candlesticks",
+    "fact": "Two heavy silver candlesticks worth 25 gp each flank the altar of Lolth; they hold thick black candles that remain unlit, suggesting ritual neglect, symbolic absence of divine light, or a waiting for a future moment of revelation.",
+    "source_quote": "The altar is flanked by a pair of heavy silver candlesticks worth 25 gp each. They hold thick black candles and are unlit.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Knife Theft by Topsy and Turvy",
+    "fact": "Topsy and Turvy, deep gnomes, successfully stole several knives from six drow soldiers during Gyrgum\u2019s cooking performance; the soldiers were so entertained they ignored the theft, revealing a dangerous lapse in security and an opportunity for rebellion.",
+    "source_quote": "Topsy and Turvy steal several knives. The drow soldiers, delighted at this entertainment, ignore the two deep gnomes who make off with a knife.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Buppido\u2019s Divine Escape Plan",
+    "fact": "Buppido declares a 'divine plan' requiring a distraction to enable his escape; Thorin redefines it as a collective escape, convincing Buppido that the prisoners have pledged their lives to him; this marks a turning point where delusion becomes a catalyst for unified action.",
+    "source_quote": "Buppido: 'The divine plan requires that you create a distraction while I escape.' ... Thorin: 'We escape?' ... Buppido: 'We?'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Group Mind Formation in the Prison Cell",
+    "fact": "Jimjar\u2019s spores have created a shared group mind among all prisoners in the cell, enabling silent, undetectable coordination of plans; this development transforms the prison from a place of isolation into a covert network of resistance.",
+    "source_quote": "Daz notes that this allows them to coordinate any plans without being discovered.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Clean Lake Mystery",
+    "fact": "Despite daily deposits of filth from the tower\u2019s chamber pots, the lake remains unnaturally clean with no visible source of purification; this suggests magical intervention, hidden drainage, or a deeper secret controlled by the drow.",
+    "source_quote": "They look around and see nothing.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Buppido\u2019s True Nature",
+    "fact": "Buppido claims to be a god or divine entity, but his insanity is recognized by Thorin and others; whether he is delusional, possessed, or genuinely divine remains unresolved \u2014 his influence grows even as his credibility falters.",
+    "source_quote": "Daz learns from the cleric that Buppido thinks he is some kind of god, or he is a god.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Scourge and the Spider",
+    "fact": "The recurring imagery of the scourge and the spider idol suggests a deeper ritual or prophecy tied to Lolth\u2019s worship; the unlit candles and the spider\u2019s jet eyes may be components of a pending sacrifice or awakening.",
+    "source_quote": "Ilvara liked to impress her will with a scourge in hand... This place is a shrine to Lolth, the drow\u2019s spider goddess.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "4th day of the 2nd Tenday of Taraskh",
+    "fact": "This is the documented date on which Gyrgum\u2019s cooking performance draws drow soldiers, Topsy and Turvy steal knives, and the prisoner collective\u2019s coordination intensifies; it marks a pivotal escalation in the timeline of resistance.",
+    "source_quote": "## 4th day of the 2nd Tenday of Taraskh",
+    "quote_verified": true
+  }
+]

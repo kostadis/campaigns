@@ -29,3 +29,9 @@ sources: ["grik.md"]
 
 ## Arc Score Events
 - N/A — Mama Manyknuckles is not a central figure in the narrative.
+
+## Related
+
+- [[thistle]]
+- [[water-weird]]
+- [[unla-kee]]

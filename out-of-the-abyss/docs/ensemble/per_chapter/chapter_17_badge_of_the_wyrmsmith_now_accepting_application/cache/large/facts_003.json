@@ -1,0 +1,44 @@
+[
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin charged in and successfully struck one of the swarms, dealing a significant blow.",
+    "source_quote": "Thorin charges in, swinging with his weapon. Daz perks up as Thorin actually manages to strike one of the swarms, dealing a significant blow.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is second-guessing his spell choices, considering 'Burning Hands' or a wider-area spell, and feels unease over perceived spell ineffectiveness.",
+    "source_quote": "Daz finds himself scanning his spell list, second-guessing his choices. 'Maybe 'Burning Hands' would have been better?' he muses, or perhaps something with a wider area of effect. He feels a slight unease, wondering if his spells are just ineffective or if he needs to re-strategize.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "centipedes",
+    "fact": "The centipedes are relentless and unsettling, continuing to come despite being struck.",
+    "source_quote": "the centipedes keep coming, relentless and unsettling.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "swarms",
+    "fact": "One of the swarms was struck with a significant blow by Thorin.",
+    "source_quote": "Thorin actually manages to strike one of the swarms, dealing a significant blow.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "phantom bug sensation",
+    "fact": "Daz experiences a phantom sensation of bugs on his arms despite knowing none are present, and repeatedly scratches at his skin.",
+    "source_quote": "He keeps scratching at his arms, feeling the phantom sensation of bugs despite knowing there were none on him.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "spell strategy reconsideration",
+    "fact": "Daz is actively reconsidering his spell selection and strategy, questioning whether his current spells are inadequate or if a different approach is needed.",
+    "source_quote": "Maybe 'Burning Hands' would have been better?\" he muses, or perhaps something with a wider area of effect. He feels a slight unease, wondering if his spells are just ineffective or if he needs to re-strategize.",
+    "quote_verified": true
+  }
+]

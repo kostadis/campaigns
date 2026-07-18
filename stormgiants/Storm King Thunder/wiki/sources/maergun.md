@@ -55,15 +55,22 @@ related: []
 
 ### Connections to Existing Wiki
 - **Existing Pages**:
-  - [[Fomorian]]: Relevant to Maergun's background.
-  - [[Unseelie Court]]: Relevant to Maergun's allegiance.
-  - [[Goblin]]: Relevant to the local goblin factions.
-  - [[Displacer Beast]]: Relevant to Haerbega.
-  - [[Treasure Vault]]: Relevant to the recovered items.
-  - [[Queen Titania]]: Relevant to her actions against Maergun.
-  - [[Drauchanar]]: Relevant to his captivity.
-  - [[Sprite emissary]]: Relevant to the initial task.
-  - [[Cyclops]]: Relevant to their role as guardians.
-  - [[Evil Eye]]: Relevant to Maergun's supernatural ability.
-  - [[Club]]: Relevant to Maergun's weapon.
-  - [[Iron Key]]: Relevant to unlocking th
+  - [[grindle-2026-06-06-042021]]: Relevant to Maergun's background.
+  - [[unseelie-court]]: Relevant to Maergun's allegiance.
+  - [[grindle-2026-06-06-042021]]: Relevant to the local goblin factions.
+  - [[force-grey-2026-06-06-063448]]: Relevant to Haerbega.
+  - [[force-grey-2026-06-06-063448]]: Relevant to the recovered items.
+  - [[queen-titania]]: Relevant to her actions against Maergun.
+  - [[grindle-2026-06-06-042021]]: Relevant to his captivity.
+  - [[sprite-emissary]]: Relevant to the initial task.
+  - [[grindle-2026-06-06-042021]]: Relevant to their role as guardians.
+  - [[force-grey-2026-06-06-063448]]: Relevant to Maergun's supernatural ability.
+  - [[grindle-2026-06-06-042021]]: Relevant to Maergun's weapon.
+  - [[force-grey-2026-06-06-063448]]: Relevant to unlocking th
+
+## Related
+
+- [[wiri_fleagol]]
+- [[manshoon]]
+- [[mirran]]
+- [[methrammar_aerasum]]

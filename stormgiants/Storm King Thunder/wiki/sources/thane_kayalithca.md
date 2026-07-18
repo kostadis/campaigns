@@ -52,7 +52,7 @@ related: []
 
 ### Recommendations
 - **Pages to Create or Update:**
-  - [[Stone Giants]], [[Ordning]], [[King Hekaton]]
+  - [[storm-giants]], [[Ordning]], [[king-hekaton]]
 - **Emphasis:**
   - Emphasize the role of Thane Kayalithca and the Ordning in the narrative.
 - **Open Questions:**

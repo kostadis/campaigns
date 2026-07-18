@@ -4,7 +4,7 @@ title: Public Religious Spectacle as Fundraising
 created: 2026-06-15
 updated: 2026-06-15
 tags: [performance, propaganda, ritual, economy]
-related: [brin-bundlewine, unorthodox-lathanderite-interpretation, ritual-self-flagellation-as-devotion, cover-identity-as-merchant, divine-knowledge-as-strategic-tool]
+related: ["brin-bundlewine", "theology-of-searing-pain", "ritual-self-flagellation-as-devotion", "cover-identity-as-merchant", "divine-knowledge-as-strategic-tool"]
 sources: ["npcs/brin_bundlewine.md"]
 ---
 # Public Religious Spectacle as Fundraising

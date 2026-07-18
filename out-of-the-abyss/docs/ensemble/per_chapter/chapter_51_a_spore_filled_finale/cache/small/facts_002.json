@@ -1,0 +1,128 @@
+[
+  {
+    "type": "npc",
+    "subject": "Thorin Giantfriend",
+    "fact": "Thorin Giantfriend is a dwarf who resolves conflicts by direct application of radiant damage, often acting on instinct but paused by moral complexity in this encounter. He accepted the fungus's death on its behalf and chose not to intervene when Jorlan charged Ilvara.",
+    "source_quote": "I struck. And then struck again. The heart fungus wilted. ... I stepped aside and let Jorlan pass.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara",
+    "fact": "Ilvara is a drow who retreated into the Heart Fungus\u2019s shadow, manipulated the battlefield with fungal servants and an incoming insect swarm, and was targeted by Jorlan after abandoning him for his scars. She is now engaged in a personal confrontation with him.",
+    "source_quote": "Ilvara had retreated into its shadow... 'ILVARA' came out like a wound reopening.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jorlan",
+    "fact": "Jorlan is a scarred drow warrior who once served alongside the party, was discarded by Ilvara for his appearance, and now charges toward her through an insect swarm with raw emotional urgency, abandoning tactical alignment for personal reckoning.",
+    "source_quote": "He broke from position and charged toward her across the swarm-infested terrain, and the name that came out of him was not a battle cry. 'ILVARA'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a party member who provides blunt, often humorous tactical insights, notably affirming that the Heart Fungus is not resistant to swords and later commenting on Glabbagool\u2019s misfortune with deadpan observation.",
+    "source_quote": "It's not resistant to swords. ... 'Oh, how about Glabbagool?'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a sentient grey ooze who was hovering at the edge of battle, attempting to participate, and took twenty-six points of unintended radiant damage from Ilvara\u2019s Insect Plague, highlighting the Underdark\u2019s cruelty toward bystanders.",
+    "source_quote": "Twenty-six points of damage. The grey ooze took twenty-six points of damage from a spell he had nothing to do with... He survived, which is the important thing.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a deadpan party member who offers succinct, philosophical summaries of chaotic events, notably declaring 'The tides have turned' in response to Jorlan\u2019s betrayal of Ilvara.",
+    "source_quote": "'The tides have turned.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Gustatus",
+    "fact": "Gustatus is a party member who expressed affection for the Heart Fungus, acknowledging its aesthetic value and participating in the collective mourning of its premature destruction.",
+    "source_quote": "'I liked it very much, Gustatus.'",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Heart Fungus",
+    "fact": "The Heart Fungus is a massive, pulsing fungal entity that dominated the cavern, served as a tactical obstacle, and was destroyed in one round by radiant damage from Dawnbringer despite being meticulously designed by the DM as an icon of the encounter.",
+    "source_quote": "The Heart Fungus stood at the center of the cavern like something that thought it had time... I spent so much time creating this icon.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Insect Swarm",
+    "fact": "An insect swarm summoned by Ilvara\u2019s Insect Plague spell obliterated thirteen hit points of fungal minions instantly, creating chaos and collateral damage that affected Glabbagool and altered battlefield dynamics.",
+    "source_quote": "The swarm hit the cavern entrance like a wall of sound and motion \u2014 a biblical chittering that shredded the fungal minions instantly, all thirteen hit points of them, gone...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "destruction of the Heart Fungus",
+    "fact": "The Heart Fungus was destroyed in a single round by radiant damage from Dawnbringer, despite being a carefully constructed encounter icon. The party acknowledged its aesthetic value and mourned its premature end.",
+    "source_quote": "One round. That was all it got. ... 'It was beautiful,' Grygum said. ... 'It deserved a longer fight than it got.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Jorlan's charge against Ilvara",
+    "fact": "Jorlan abandoned tactical alignment to charge Ilvara through an insect swarm, triggering a moral dilemma for Thorin, who chose not to make an opportunity attack, allowing the personal conflict to unfold.",
+    "source_quote": "I stepped aside and let Jorlan pass. ... There's something that feels almost like mercy in it. There's something that feels almost like tactics. I'm not sure they're different.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Glabbagool's collateral damage",
+    "fact": "Glabbagool, a sentient ooze attempting to participate in the battle, took twenty-six points of unintended radiant damage from Ilvara\u2019s Insect Plague, illustrating the Underdark\u2019s indifference to non-combatants.",
+    "source_quote": "Twenty-six points of damage. The grey ooze took twenty-six points of damage from a spell he had nothing to do with... The Underdark is not kind to bystanders.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Glabbagool's fate",
+    "fact": "The party has resolved to check on Glabbagool after the current conflict, indicating a lingering concern for his well-being and potential future involvement.",
+    "source_quote": "I filed that away. I would be checking on Glabbagool when this was over.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Jorlan and Ilvara's unresolved history",
+    "fact": "Jorlan\u2019s charge against Ilvara opens a personal narrative thread rooted in Drow societal cruelty and abandoned love, with unknown consequences for the party\u2019s alignment and future encounters.",
+    "source_quote": "'ILVARA' came out like a wound reopening. ... The tides have turned.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Drow Society",
+    "fact": "Drow society is portrayed as a brutal hierarchy that rewards beauty and punishes physical imperfection, having caused Ilvara to abandon Jorlan when he became scarred, and shaping the emotional core of their conflict.",
+    "source_quote": "Ilvara had dumped Jorlan when he became Scarface, because Drow society rewards beauty and punishes everything else, because Drow society is a whole list of things I find exhausting.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is a sentient radiant sword that never waits in its scabbard, always eager to strike, and was the instrument of the Heart Fungus\u2019s destruction and the catalyst for the party\u2019s decisive actions.",
+    "source_quote": "Dawnbringer was already in my hand. She'd been in my hand since we walked in. She's not the sort of sword that waits politely in a scabbard...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Underdark Cavern",
+    "fact": "The cavern is a hostile, fungal-filled environment dominated by the Heart Fungus, infested with insect swarms, and filled with difficult terrain, serving as the stage for tactical manipulation, collateral damage, and personal confrontation.",
+    "source_quote": "The cavern was doing most of Ilvara's work for her \u2014 keeping us spread out... a cave full of fungal servants and an insect swarm that hadn't arrived yet but was coming...",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session timing",
+    "fact": "The events described occur within a single combat round, emphasizing the abruptness of the Heart Fungus\u2019s destruction and the rapid escalation of personal conflict.",
+    "source_quote": "One round. That was all it got.",
+    "quote_verified": true
+  }
+]

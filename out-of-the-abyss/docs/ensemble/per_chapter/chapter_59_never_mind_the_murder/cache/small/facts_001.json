@@ -1,0 +1,128 @@
+[
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is an academic who analyzed a treatise on poison tied to celestial mechanics and realized the trigger is location-based, not temporal. He passed a key to Daz after recognizing the keep\u2019s security is compromised by scholarly distraction.",
+    "source_quote": "I had the treatise open in front of me. *On the Punctual Tears.*",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a pragmatic investigator who received a key from Grygum and is now entangled in the murder mystery. He understands the academic distraction has left the keep vulnerable and is aware of Daral\u2019s precarious position.",
+    "source_quote": "Totally, totally,\" Zalthir said, in a voice that recorded everything.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daral",
+    "fact": "Daral is a paranoid but perceptive figure who believes he\u2019s being framed for murder. He possesses the poison book, suspects Daz and Thorin are his only protectors, and fears Zalthir will learn of his drunken, incriminating remarks about dragonborn.",
+    "source_quote": "He had the poison book. He'd worked out someone wanted him to take the fall.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a meticulous scholar whose voice records everything and whose analytical nature makes him a threat to anyone with hidden truths. He is unaware of Daral\u2019s drunken comments but is being referenced as a looming consequence.",
+    "source_quote": "Totally, totally,\" Zalthir said, in a voice that recorded everything.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Brother Vareth",
+    "fact": "Brother Vareth has appropriated Grygum\u2019s incomplete answer to the Question of the Age and turned it into a published thesis, sparking mass academic frenzy and diverting attention from the ongoing murder investigation.",
+    "source_quote": "He'd taken my answer to the Question of the Age... and he'd turned it into a thing. A fourth corner.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch was a paranoid scholar who carried a key tied to a stolen sapphire with a summoning enchantment. He removed the key from his possession because he understood that only a corpse cannot be bound by its magic.",
+    "source_quote": "So if you wanted a man's key, the cleanest way to free it from his possession was to make him a corpse.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is blunt and unadorned in truth-telling. He told Daral that solving the murder grants access to any book in Candlekeep \u2014 but emphasized the reward is worthless, undercutting any false hope.",
+    "source_quote": "Look, I'm just saying, if we solve the murder, we get any book in the place.\" A beat. \"We get shit.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Avowed Community",
+    "fact": "The Avowed Community has abandoned all urgent duties \u2014 including the murder of a scholar and the threat of a poisoned book \u2014 to obsess over a newly published academic thesis, revealing their institutional prioritization of scholarship over survival.",
+    "source_quote": "The whole Avowed community wanted, right then and there, to drop everything and debate it in the Grand Hall.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Followers of Kelemvor",
+    "fact": "The Followers of Kelemvor have established through their god\u2019s cryptic doctrine that a dead person possesses nothing, while the undead retain possession \u2014 a principle critical to understanding the summoning enchantment on the stolen sapphire.",
+    "source_quote": "An undead can. A dead man can't. The followers of Kelemvor have made that point very clear...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "murder of the scholar",
+    "fact": "A scholar has been murdered, likely via a poison tied to celestial mechanics, and the crime scene involves a stolen sapphire with a summoning enchantment that requires the victim to be dead to free a possessed object.",
+    "source_quote": "There is a poisoned book and a dead scholar.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "publication of the fourth corner",
+    "fact": "Brother Vareth published a revision of Grygum\u2019s incomplete answer to the Question of the Age, triggering a mass academic frenzy that diverted all attention from the murder investigation and left the keep unguarded.",
+    "source_quote": "He'd turned it into a thing. A fourth corner. And he had told everyone.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "the poison book",
+    "fact": "The poison book is a dangerous artifact tied to celestial mechanics and the timing of midnight. It is currently in Daral\u2019s possession, and he believes it was planted to frame him for the scholar\u2019s murder.",
+    "source_quote": "He had the poison book. He'd worked out someone wanted him to take the fall.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "the stolen sapphire",
+    "fact": "The stolen sapphire carries a summoning enchantment that can only pull items from corpses \u2014 not the living or undead. This mechanism explains why Kalan Strongbranch removed his key and why the scholar was killed.",
+    "source_quote": "The stolen sapphire carried a summoning working \u2014 it could pull an item to you, but only an item not in anyone's possession.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Kalan Strongbranch's key",
+    "fact": "Kalan Strongbranch's key once hung around his neck and was later passed to Daz. It is now in a state of transit, no longer possessed by its original owner, and potentially subject to the sapphire\u2019s summoning magic.",
+    "source_quote": "I had a key on me. It had hung around Kalan Strongbranch's neck once.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Zalthir's knowledge of dragonborn remarks",
+    "fact": "Daral made drunken, incriminating remarks about dragonborn in a barroom setting, and fears Zalthir will learn of them. Zalthir\u2019s recorded voice makes this an unresolved threat that could destroy Daral\u2019s credibility or safety.",
+    "source_quote": "He was very much hoping nobody would mention to Zalthir what he'd said about dragonborn. Drunk, barroom talk, not meant to be taken seriously.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the identity of the poisoner",
+    "fact": "The poisoner used the sapphire\u2019s summoning enchantment to kill the scholar by making him a corpse, thereby freeing the key. The killer\u2019s identity remains unknown, but the act reveals deep knowledge of Kelemvor\u2019s doctrine and celestial mechanics.",
+    "source_quote": "So if you wanted a man's key, the cleanest way to free it from his possession was to make him a corpse.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is an academic fortress now dangerously unguarded. The entire Avowed Community has abandoned security to debate a new thesis, leaving dining halls, chambers, and corridors vulnerable to further murders or theft.",
+    "source_quote": "The keep was suddenly full of rooms nobody would be watching. The dining room, for one.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "time of midnight",
+    "fact": "Midnight is not a clock-based event in this context, but a celestial alignment \u2014 the moment the sun is directly opposite on the globe. The poison\u2019s trigger is location-based, making the passage of time irrelevant unless one moves to avoid the dark side of the world.",
+    "source_quote": "Midnight is when the sun is directly on the other side of the globe from you.",
+    "quote_verified": false
+  }
+]

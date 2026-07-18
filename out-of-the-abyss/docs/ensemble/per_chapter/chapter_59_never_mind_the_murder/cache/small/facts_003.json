@@ -1,0 +1,114 @@
+[
+  {
+    "type": "npc",
+    "subject": "Daral",
+    "fact": "Daral is trying to clear his name after being accused of murder; he believes he is being framed and fears for his life, repeatedly stating that if he survives the night, he will ensure everyone wraps their gifts properly with biting wards.",
+    "source_quote": "if he made it through the night, hint, hint, he'd see to it everyone wrapped their gifts right. Wards on every wrapping, the kind that bite the careless, for everyone.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a drow who has forgotten what matters and remembers what doesn't; he is unable to interpret the sapphire or key despite his expertise in magical artifacts, and he insists the poison only activates upon contact with living tissue.",
+    "source_quote": "What I can read off it at a glance is next to nothing... staring harder got me less... Why did it turn dark, but it's not dark on the book? Because it goes black after you die.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is the stealthiest member of the group; he is skeptical of finding the key due to its ease of concealment but believes the sapphire might still be in someone's possession because it appears innocuous, and he is focused on identifying the killer, not the thief.",
+    "source_quote": "Zalthir didn't think we'd find the key \u2014 too easy to hide. The sapphire, though, somebody might still be holding because it looked like nothing.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool claims to have learned silence and is attempting to grow a nose to smell the poison, showing unusual interest in sensory detection despite his ambiguous nature.",
+    "source_quote": "Glabbagool announced it had learned silence, then asked whether that was good silence or too loud silence, and tried to grow a nose to smell the poison.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is capable of communicating with beasts; he believes a squirrel in the apothecary may have witnessed something relevant to the investigation.",
+    "source_quote": "Daz to the apothecary \u2014 turned out he could talk to the beasts, and there was a squirrel down there might've seen something.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Candlekeep Faculty",
+    "fact": "The faculty of Candlekeep are all present at the conference; they are deeply entrenched in academic rivalries, where conflicts are vicious because the stakes are perceived as low, and they are the only potential sources of help in the investigation.",
+    "source_quote": "everybody hated everybody, it's academia. You know what they say. Fights are so vicious because the stakes are so low.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "poison activation",
+    "fact": "The poison only activates upon contact with a living being's saliva; it remains clear and inert when stored, turning black only after death, which means a search for black residue would fail to locate it.",
+    "source_quote": "The poison sitting in somebody's room right now wouldn't be black at all. It'd be clear... When I mixed with his saliva, it turned black, okay?",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is an ancient, book-filled archive where the air smells of paper, lamp oil, and old stone; it is currently filled with the faculty of the most learned people on the surface, all gathered for the conference, making it both the scene of the crime and the only source of potential witnesses.",
+    "source_quote": "The air in Candlekeep still smelled wrong to me. Not bad \u2014 paper, lamp oil, old stone warmed by sun I had not seen in months \u2014 just wrong...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "sapphire",
+    "fact": "The sapphire is a small, unassuming gemstone taken from the safe; it is believed to be a key component in retrieving the hidden key, and its innocuous appearance makes it a likely object for someone to retain without suspicion.",
+    "source_quote": "from the safe, a sapphire was taken... the sapphire is actually used to sort of be able to retrieve the key. Crush the stone, the key comes home.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "key",
+    "fact": "The key is a hidden artifact, possibly stored within a locket taken from the victim\u2019s neck; it is believed to unlock something critical, but it is easily concealed and unlikely to be found through a room search.",
+    "source_quote": "Some locket from around the dude's neck was taken. We assume that inside that locket was the key.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "poison vial",
+    "fact": "The poison is stored in a clear, unmarked vial; it remains inert and invisible until activated by contact with a living being\u2019s saliva, making it nearly impossible to detect unless one knows to look for clear liquid rather than discoloration.",
+    "source_quote": "A vial of some sort of clear... The poison sitting in somebody's room right now wouldn't be black at all. It'd be clear.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "identity of the killer",
+    "fact": "The true killer has not been identified; the group is aware that the thief of the key and the killer may be two different people, and the investigation must prioritize finding the murderer over recovering the stolen artifacts.",
+    "source_quote": "And our priority is to find the killer, not who stole the key. Nobody asked us to find the person who stole the key.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "squirrel witness",
+    "fact": "A squirrel in the apothecary may have witnessed the theft or poisoning; its potential testimony is unverified but considered a plausible lead due to Daz\u2019s ability to communicate with beasts.",
+    "source_quote": "there was a squirrel down there might've seen something, which is a sentence I never thought I'd take seriously.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "The investigation is occurring within a narrow window \u2014 a single hour \u2014 during which the group must divide labor and act before the opportunity passes.",
+    "source_quote": "Alright, so it looks like we get a freebie hour... I wasn't spending the hour chasing keys.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "poison",
+    "fact": "The poison is a magical hazard that lies dormant until activated by contact with a living being's saliva, then rapidly turns black and causes death; it is not a creature but a lethal substance with behavior resembling a trap or curse.",
+    "source_quote": "The stuff only wakes up when a living thing touches it... it turned black... because it goes black after you die.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is the group's organizer; he prefers clear divisions of labor, insists the priority is finding the killer over recovering stolen items, and coordinates the team\u2019s search efforts, particularly assigning himself to accompany Daral back to the kitchen.",
+    "source_quote": "I like it that way... And me with Daral, back to the kitchen.",
+    "quote_verified": false
+  }
+]

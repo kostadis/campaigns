@@ -9,3 +9,14 @@ sources: ["dral_thelev.md"]
 ---
 # Political Environment
 The overall atmosphere and context within which political entities operate within the political landscape of Everlund, including the prevailing political climate, cultural norms, and historical background.
+
+## Related
+
+- [[political-power]]
+- [[political-stability]]
+- [[political-influence]]
+- [[political-system]]
+- [[political-structure]]
+- [[political-governance]]
+- [[political-relations]]
+- [[political-landscape]]

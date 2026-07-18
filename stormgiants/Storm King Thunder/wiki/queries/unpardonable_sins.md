@@ -19,3 +19,7 @@ sources: ["zariel.md"]
 ## Notes
 - Zariel’s “unpardonable sins” in Everlund remain hidden, creating a mystery that adds depth to her character.
 - Investigating these sins could shed light on her broader ambitions and the true extent of her power.
+
+## Related
+
+- [[the-everlund-incident-2026-06-06-132831]]

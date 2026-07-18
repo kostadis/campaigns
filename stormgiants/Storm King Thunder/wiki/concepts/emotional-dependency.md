@@ -12,3 +12,7 @@ sources: ["gen.md"]
 - **Evidence:** 
   - Gen relied on Agra emotionally when things looked dire.
 - **Strength of Evidence:** Strong, supported by direct actions and outcomes of the encounter.
+
+## Related
+
+- [[tension-between-leadership-and-subordinate]]

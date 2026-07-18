@@ -18,3 +18,7 @@ sources: ["zariel.md"]
 
 ## Notes
 - Zariel uses Infernal Forces to orchestrate various events and manipulate the Nine Hells to her advantage.
+
+## Related
+
+- [[political_protection]]

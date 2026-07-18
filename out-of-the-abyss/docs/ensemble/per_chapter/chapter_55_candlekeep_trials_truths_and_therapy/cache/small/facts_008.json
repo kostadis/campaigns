@@ -1,0 +1,86 @@
+[
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a drow with no memory of his past, suffering from a persistent headache, who arrived at Candlekeep after escaping an Underdark imprisonment. He speaks truthfully despite cultural expectations of deception, and he recognizes the linguistic and structural patterns of Menzoberranzan as innate grammar rather than learned facts.",
+    "source_quote": "I have a headache, but I'll tell you the story. This is the short version. I don't have much memory before being locked up with a few people in a jail. Because some spider thing was, like, trying to keep us. And we've made an escape. We were in the Underdark. We've had many, many adventures, yada yada yada. Now I'm here in Candlekeep. My head hurts a little bit, and I don't know who I am, or my history, and I don't know why my head hurts.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Librarian (unnamed)",
+    "fact": "The librarian is a scholar of Menzoberranzan noble politics who has access to sealed records and understands the subtext of terminology like 'struck.' She tests Daz's knowledge, confirms his intuition, and withholds direct answers about the sealed house, revealing only what the public record permits.",
+    "source_quote": "Whenever a house sought to destroy another house, it had to destroy everyone. If you left a single person alive \u2014 even a child, even someone inconvenient and useless \u2014 your house was forfeit. The wider community would come for you. They would reduce you to a black puddle and call the matter settled.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Menzoberranzan Noble Houses",
+    "fact": "The noble houses of Menzoberranzan operate under a system of transactional loyalty, where power flows upward from matron mothers, and betrayal is rewarded if it strengthens the web. Houses that fail to eliminate all members of a targeted house are destroyed by the collective. Record manipulation is a high-stakes, infrastructurally expensive act reserved for those with archive privileges.",
+    "source_quote": "The rule of intrigue: betrayal is rewarded if it strengthens the web. Advance through maneuver. The city selects for it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "House Erasure (unspecified)",
+    "fact": "A house attempted to wipe out another but failed to kill a single survivor \u2014 a blithering child idiot \u2014 and was subsequently destroyed by the wider community. The survivor's identity and current status remain unknown, and Daz suspects he may be that survivor.",
+    "source_quote": "They had tried to wipe out another, and failed to account for one survivor. A child. A blithering child idiot, she said, and I noted the language was hers, not mine.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Ledger of Seats",
+    "fact": "The ledger contains a list of eliminated noble seats: the second seat, the fourth seat struck, the eleventh seat, the twenty-third seat. The term 'struck' is linguistically distinct from 'eliminated' \u2014 it implies an attempted erasure that failed or was incomplete, suggesting the record was altered but the subject may still exist.",
+    "source_quote": "The second seat. The fourth seat struck. The eleventh seat. The twenty-third seat.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Ritual Archive Privileges",
+    "fact": "The fourth seat in Menzoberranzan holds legal authority to access and alter public records. A 'struck' fourth seat is not merely a political extinction \u2014 it is a high-cost, infrastructurally complex act requiring knowledge of the right people, payment of the right price, and the ability to make the alteration appear as if it never occurred.",
+    "source_quote": "The fourth seat holds ritual archive privileges in Menzoberranzan \u2014 that having archive privileges means having the legal apparatus to access and alter records.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is a library of unparalleled reputation, housing all known information \u2014 yet something critical is missing: the sealed record of a house erased by the 'struck' fourth seat. The absence itself is evidence of a deliberate, powerful act of information suppression.",
+    "source_quote": "This is a library with, by reputation, all the information in the world. Something is not here that should be here. Someone did something to a place whose entire purpose is preservation.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Struck Fourth Seat",
+    "fact": "The fourth seat was 'struck' \u2014 not eliminated \u2014 suggesting the house or its record was altered but not fully erased. The act required archive privileges, significant resources, and plausible deniability. The identity of the house, the reason for the strike, and the current status of its survivors remain hidden behind sealed doors.",
+    "source_quote": "Struck. Didn't mean eliminated. It means they struck it, but maybe they didn't eliminate it, and therefore, like, it didn't happen? Is that why I feel like it's different?",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Daz's Identity as the Survivor",
+    "fact": "Daz suspects he is the sole surviving child of the house struck from the fourth seat \u2014 the 'blithering idiot' who escaped annihilation. His amnesia, headache, and innate understanding of Menzoberranzan's structures align with this possibility, but no confirmation exists in the public record.",
+    "source_quote": "Am I the blithering idiot?",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Sealed House",
+    "fact": "One house cannot be spoken of in the room because its record is sealed \u2014 not by secrecy, but because the librarian *is* the public record. Accessing its truth requires bypassing the library\u2019s own architecture, implying the suppression is institutional, not accidental.",
+    "source_quote": "There was one house she could not speak of in the room. Not because she would not \u2014 because the public record is sealed, and she is today the public record.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Information Suppression in Candlekeep",
+    "fact": "A powerful entity has manipulated Candlekeep\u2019s records to conceal the truth of the struck fourth seat. This is not a minor omission \u2014 it is a deliberate, expensive, and institutionally enabled act of historical erasure within a place dedicated to preservation.",
+    "source_quote": "Somebody powerful has manipulated the world database library. Yes. That is precisely what had happened.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Menzoberranzan",
+    "fact": "Menzoberranzan is a city built on linguistic precision, record control, and the weaponization of information. Its culture trains its citizens to notice when a word doesn't fit \u2014 because in Menzoberranzan, language is law, and law is lethal.",
+    "source_quote": "The second thing Menzoberranzan trains you for \u2014 and this one is equally useful but considerably less comfortable \u2014 is to notice when a word doesn't fit.",
+    "quote_verified": true
+  }
+]

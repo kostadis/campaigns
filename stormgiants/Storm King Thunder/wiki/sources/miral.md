@@ -4,7 +4,7 @@ title: Miral the Self
 created: 2025-05-22
 updated: 2026-05-19
 tags: ["miral", "sea-elf", "ghost", "npc"]
-related: ["miral", "moesko", "valphine", "soma", "opalescent-conch"]
+related: ["miral", "moesko", "valphine", "opalescent-conch"]
 sources: ["moesko.md"]
 ---
 # Miral the Self
@@ -16,3 +16,7 @@ As a ghost, Miral has provided warnings concerning the nature of Moesko's religi
 
 ## Artifacts
 An [[opalescent-conch]] belonging to Miral was recovered from Moesko's body and is currently held by the party.
+
+## Related
+
+- [[miral]]

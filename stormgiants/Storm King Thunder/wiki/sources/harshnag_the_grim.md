@@ -1,8 +1,8 @@
 ---
 type: source
 title: "Source: harshnag_the_grim.md"
-created: 2026-05-13
-updated: 2026-05-13
+created: 2026-06-06
+updated: 2026-06-06
 sources: ["harshnag_the_grim.md"]
 tags: []
 related: []
@@ -10,77 +10,56 @@ related: []
 
 # Source: harshnag_the_grim.md
 
-### Key Entities
-- **Harshnag the Grim**
-  - **Name and Type:** Person, Merchant, Fighter
-  - **Role in the Source:** Central
-  - **Existing in Wiki:** Likely exists
-- **Krowen Valharrow**
-  - **Name and Type:** Figure, Mage
-  - **Role in the Source:** Central
-  - **Existing in Wiki:** Likely exists
-- **Annam the All-Father**
-  - **Name and Type:** Deity, Giant God
-  - **Role in the Source:** Central
-  - **Existing in Wiki:** Likely exists
-- **Blagothkus**
-  - **Name and Type:** Figure, Advisor
-  - **Role in the Source:** Peripheral
-  - **Existing in Wiki:** Likely exists
-- **Brunvild (frost giant prisoner)**
-  - **Name and Type:** Prisoner, Giant
-  - **Role in the Source:** Peripheral
-  - **Existing in Wiki:** Likely exists
-- **Count Thullen**
-  - **Name and Type:** Figure, Cloud Giant
-  - **Role in the Source:** Peripheral
-  - **Existing in Wiki:** Likely exists
-- **Harpell wizard family / Ivy Mansion (Longsaddle)**
-  - **Name and Type:** Organization, Wizard Family
-  - **Role in the Source:** Peripheral
-  - **Existing in Wiki:** Likely exists
-- **Lords' Alliance**
-  - **Name and Type:** Organization, Political Group
-  - **Role in the Source:** Peripheral
-  - **Existing in Wiki:** Likely exists
-- **Unla Kee**
-  - **Name and Type:** Halfling, Companion
-  - **Role in the Source:** Peripheral
-  - **Existing in Wiki:** Likely exists
-- **Orsik**
-  - **Name and Type:** Dwarf, Companion
-  - **Role in the Source:** Peripheral
-  - **Existing in Wiki:** Likely exists
-- **Vardis**
-  - **Name and Type:** Human, Companion
-  - **Role in the Source:** Peripheral
-  - **Existing in Wiki:** Likely exists
-- **Thistle**
-  - **Name and Type:** Elf, Companion
-  - **Role in the Source:** Peripheral
-  - **Existing in Wiki:** Likely exists
-- **Noori**
-  - **Name and Type:** Elf, Companion
-  - **Role in the Source:** Peripheral
-  - **Existing in Wiki:** Likely exists
+## Key Entities
 
-### Key Concepts
-- **Ordning**
-  - **Definition:** Hierarchical caste system created by Annam, god of all giants, maintaining peace among giant races.
-  - **Matters:** Critical to understanding the current giant crisis and the need for the party to investigate.
-  - **Existing in Wiki:** Likely exists
-- **Storm Giants**
-  - **Definition:** One of the major giant races, ruled by King Hekaton.
-  - **Matters:** Key to understanding the current crisis and the party's quest to locate King Hekaton.
-  - **Existing in Wiki:** Likely exists
-- **Cloud Giants**
-  - **Definition:** Another major giant race, known for their flying castles.
-  - **Matters:** Potential allies or threats depending on their actions.
-  - **Existing in Wiki:** Likely exists
-- **Frost Giants**
-  - **Definition:** One of the major giant races, known for their icy powers.
-  - **Matters:** Major threat to the North and the party's quest to resolve the crisis.
-  - **Existing in Wiki:** Likely exists
-- **Hill Giants**
-  - **Definition:** Smaller giant race, considered less of a threat by Harshnag.
-  - **Matters:** Not a significant threat according 
+### People & Characters
+*   **Harshnag (The Grim / "Frosty")** (Central)
+    *   A legendary wandering Frost Giant fighter and member of the **Force Grey**. He serves as a mentor/guide figure for the party, possessing deep knowledge of giant culture.
+    *   *Status:* Exists in wiki (as `harshnag`).
+*   **Krowen Valharrow** (Central)
+    *   A mage and trusted contact who directed Harshnag to the party. He acts as a high-level coordinator for the "hero" selection process.
+    *   *Status:* Exists in wiki (as `krowen`).
+*   **Blagothkus** (Central)
+    *   A cloud giant who knows Harshnag well and revealed that Harshnag’s "mysteries" are actually staged worthiness trials.
+    *   *Status:* Exists in wiki (as `blagothkus`).
+*   **Annam the All-Father** (Central)
+    *   The deity of all giants; Harshnag seeks his guidance and interprets his "signs."
+    *   *Status:* Exists in wiki (as `annam-the-allfather`).
+*   **Orsik**, **Vardis**, **Thistle**, **Unla Kee** (Central)
+    *   Members of the 3HPP. They have varying dynamics with Harshnag ranging from mocking camaraderie to professional cooperation.
+    *   *Status:* Exist in wiki (as `orsik`, `vardis`, `thistle-wendrod`, `unla-kee`).
+*   **Count Thullen** (Peripheral)
+    *   A "good-natured" cloud giant and brother of Countess Sansuri.
+    *   *Status:* New entity; likely needs a page or inclusion in a "Giant Contacts" list.
+*   **Adimond Kroskas / Iymrith** (Central)
+    *   The antagonist who confronted Harshnag at the end of his arc.
+    *   *Status:* Exists in wiki (as `adimond-kroskas` and `iymrith`).
+
+### Organizations & Locations
+*   **Force Grey** (Peripheral)
+    *   A historical organization in Waterdeep; Harshnag’s former affiliation.
+    *   *Status:* New entity; should be added as a "Historical Faction."
+*   **Eye of the All-Father** (Central)
+    *   The mountain temple/site where the party and Harshnag sought the Oracle.
+    *   *Status:* Exists in wiki (as `eye-of-the-allfather` or similar; check for specific "Temple" naming).
+*   **Lords' Alliance** (Peripheral)
+    *   A political entity Harshnag views with contempt.
+    *   *Status:* Exists in wiki (as `lords-alliance`).
+
+## Key Concepts
+*   **The Ordning** (Central)
+    *   The traditional hierarchy of the giant races. Its "shattering" is the primary catalyst for the current global conflict.
+    *   *Status:* Exists in wiki (as `ordning-shattering`).
+*   **Worthiness Trial** (Central)
+    *   A deliberate test staged by Harshnag to determine if "little people" are capable of handling the burden of heroism.
+    *   *Status:* New concept; should be linked to his character page.
+*   **Principle-Based Withdrawal** (Central)
+    *   The moral choice to stop assisting a party that ignores expert warnings, allowing them to face consequences alone.
+    *   *Status:* Related to `judgment-of-worth` or similar themes of "Heroic Selection."
+
+## Main Arguments & Findings
+*   **Harshnag as a Gatekeeper:** The document esta
+
+## Related
+
+- [[jarl_hellenhild]]

@@ -1,0 +1,182 @@
+[
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is an academic who analyzed a treatise on a poison tied to celestial alignment, concluding the trigger is spatial, not temporal; he has published a new theological interpretation that has distracted the Avowed community.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is an investigator with expertise in magical detection; he tested a stolen key and confirmed it was not enchanted with the summoning spell tied to the sapphire, narrowing the search to a different key.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a pragmatic investigator who prioritizes identifying the killer over recovering stolen items; he emphasized the importance of the book\u2019s timeline and the poison\u2019s activation condition \u2014 it darkens only upon contact with a living victim\u2019s saliva.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daral",
+    "fact": "Daral is a suspect who delivered a poisoned book under a tree before it was collected by Janussi; he believes he is being framed and is desperate to prove his innocence, offering to add magical wards to all future gifts.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a meticulous scholar who suspects the poison\u2019s mechanism relates to celestial positioning; he requested the key be checked for magic and is focused on tracing the summoning spell\u2019s origin.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch was a paranoid scholar who removed a key from his possession after realizing it could be retrieved via a summoning sapphire; he was later found dead, and the key was stolen.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Fembris",
+    "fact": "Fembris is an Avowed minder assigned to supervise the party; he abandoned his post to attend Grygum\u2019s theological debate, creating an unmonitored hour in the keep.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi collected the poisoned book from under the evergreen tree during dinner; the book was wrapped at the time, suggesting tampering occurred before delivery.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Leuwin",
+    "fact": "Leuwin is an elderly satyr druid at the Oak Tree Apothecary, known for being absent-minded and keeping a pet squirrel; he is the only person who can definitively identify the poison from the book.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Avowed Community",
+    "fact": "The Avowed community has become distracted by Grygum\u2019s new theological treatise, abandoning critical duties like guarding the library and investigating the murder, demonstrating their prioritization of academic debate over security.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Followers of Kelemvor",
+    "fact": "The followers of Kelemvor have established that a dead person cannot possess items, making corpse-based retrieval via summoning magic a known method to free a key from its owner\u2019s possession.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "murder of Kalan Strongbranch",
+    "fact": "Kalan Strongbranch was killed so his key could be retrieved using a summoning sapphire; the poison used was activated by his saliva, indicating the killer had direct contact with him before or during death.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "poisoning of the treatise",
+    "fact": "The treatise *On the Punctual Tears* was poisoned with a substance that activates upon contact with a living being\u2019s saliva, turning black after death; the poison was likely applied before Daral delivered the book.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "theft of the sapphire and key",
+    "fact": "A sapphire and a key were stolen from Kalan Strongbranch\u2019s possession; the sapphire serves as a retrieval token for the key via a summoning spell, and the key was not enchanted \u2014 suggesting the spell was cast on a different key.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is a vast library-keep where academic rivalry is intense and security is lax during scholarly debates; the murder occurred within its walls, and the distraction of the Avowed has left many areas unwatched.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Oak Tree Apothecary",
+    "fact": "The Oak Tree Apothecary is a treehouse grown into the roots of an evergreen oak, located between the Sea Warden\u2019s Tower and the House of Mechanus; it is home to the druid Leuwin, who can identify the poison.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Oval Theater",
+    "fact": "The Oval Theater is where Grygum\u2019s theological debate is taking place, drawing away key personnel like Fembris and creating a window of opportunity for the killer.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "the stolen sapphire",
+    "fact": "The sapphire is a retrieval token for a summoning spell; it must be the same stone used to store and recall the key, and it is not inherently magical \u2014 only the spell cast upon it is.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Kalan Strongbranch's key",
+    "fact": "The key was removed from Kalan\u2019s neck and stolen; it is not enchanted, but it was bound to a summoning spell via a separate, now-missing key that was enchanted and stored in the sapphire.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "the treatise *On the Punctual Tears*",
+    "fact": "The treatise is a scholarly work on celestial-aligned poison; it was physically poisoned, and the poison activates only upon contact with living saliva, turning black after death.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "identity of the killer",
+    "fact": "The killer must have had direct contact with Kalan Strongbranch to activate the poison, likely during a private interaction; the theft of the key and sapphire suggests premeditation and knowledge of Kelemvor\u2019s doctrine on possession.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the missing enchanted key",
+    "fact": "A second key \u2014 the one enchanted with the summoning spell \u2014 was bound to the sapphire and is now missing; the original key found on Kalan was merely a physical copy, and the enchanted one is the true target.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the book\u2019s provenance",
+    "fact": "The poison may have been applied to the book before Daral delivered it, or after it was taken from him; determining when the poison was introduced is critical to identifying the killer.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Daral\u2019s credibility",
+    "fact": "Daral claims he did not hand the book to anyone and that it was wrapped when Janussi collected it; if true, the poison was added before delivery \u2014 but his panic and inconsistencies make his account unreliable.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Deadwinter's Eve",
+    "fact": "The poisoned book was placed under the evergreen tree at approximately 11am on Deadwinter's Eve, and was collected by Janussi during dinner; the murder occurred sometime between these events.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "mind flayer",
+    "fact": "Mind flayers are mentioned as immune to the poison because they can cross planes freely, making the spell ineffective against them \u2014 suggesting the killer is not one.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "githyanki",
+    "fact": "Githyanki are immune to the poison because they can cross planes without aid, making them unlikely suspects; their presence in Candlekeep is improbable but not impossible.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "drow",
+    "fact": "Drow are noted to favor this poison because they live in the Underdark where celestial timing is irrelevant, making them ideal users; their knowledge of the mechanism suggests possible involvement.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm, a high-ranking keeper of Candlekeep, was unable to politically afford to miss Grygum\u2019s debate, indicating her influence and the political weight of the new theology.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is an ooze-like entity who attempted to assist Daz in resolving the pattern linking the key, sapphire, and murder, but failed \u2014 his inability suggests the pattern is intentionally obscured.",
+    "quote_verified": false
+  }
+]

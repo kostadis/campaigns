@@ -1,0 +1,149 @@
+[
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is the narrator and active investigator who has noted key individuals for their demeanor, authority, and potential involvement in the death of Janussi. He has filed distinctions in leadership language, observed nonverbal cues, and taken notes on all interactions as part of his investigative process.",
+    "source_quote": "I took notes on the experience.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm is the council member who initiated the investigation, delegated authority to the group, and withheld critical information until the scene of the crime. She proposed conditional remuneration, invoked diplomacy, and denied personal involvement in Janussi\u2019s death while simultaneously providing evidence that implicated others.",
+    "source_quote": "I can assure you, I had nothing to do with it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is the pragmatic and assertive investigator who pushed for access, remuneration, and carte blanche. He framed requests in theological and rhetorical terms, challenged institutional norms, and referenced detective figures to justify investigative methods. He directly questioned Bookwyrm\u2019s alibi.",
+    "source_quote": "Where were you?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is the observant investigator who consistently grounds discussions in practicality, points out evidentiary contradictions, and has a history of conflict with authority. He recognized Bookwyrm\u2019s testimony as evidence and advocated for examination of all parties.",
+    "source_quote": "Her testimony is itself evidence.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch is the gate warden who was asked to resign by Janussi the morning of his death. He has a troubled relationship with the Keeper of Tomes, carries authority and suspicion, and bowed with correct form but untrustworthy eyes. He is the first subject Grygum plans to question.",
+    "source_quote": "The bow was correct and the eyes were not.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "A'lai Aivenmore",
+    "fact": "A'lai Aivenmore is the council member who resolved the impasse on investigation authority by declining to object rather than endorsing the proposal. He calibrated his response carefully, reading the room with precision, and chose procedural neutrality over personal judgment.",
+    "source_quote": "He didn't see a reason to object.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Council of Twelve",
+    "fact": "The Council of Twelve is the governing body of the library, deeply entrenched in bureaucratic tradition, resistant to external demands, and protective of institutional boundaries. They have never been asked to pay for services and are now facing an unprecedented challenge to their authority.",
+    "source_quote": "They had never, in their professional lives, been asked to pay for something by the person they were asking.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "death of Janussi",
+    "fact": "Janussi, the Keeper of Tomes, died under suspicious circumstances. The morning of his death, he requested Kalan Strongbranch\u2019s resignation due to concerns over mental faculties and negligence. His death triggered a power struggle, investigation delegation, and institutional defensiveness.",
+    "source_quote": "Janussi, the morning before his death, had asked Kalan to tender his resignation.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "House of the Binder",
+    "fact": "The House of the Binder is the designated location where books will be copied as part of the conditional remuneration agreement. It is a place of scholarly ritual and institutional control over knowledge dissemination.",
+    "source_quote": "One book each, copied at the House of the Binder, upon successful completion.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Library Archives",
+    "fact": "The Library Archives is the contested domain where full access is being demanded by the investigators. It is the scene of the crime and the center of institutional secrecy \u2014 the place where authority is both held and challenged.",
+    "source_quote": "Full access, anywhere in the library, anything.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Confidentiality Papers",
+    "fact": "The confidentiality papers are the formal requirement imposed by the Council before the investigation may proceed. They are a tool of control, designed to limit the scope of inquiry and bind the investigators to institutional silence.",
+    "source_quote": "Confidentiality papers first.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "fungal scourges",
+    "fact": "Fungal scourges are recurring hazards referenced by Daz as part of the team\u2019s past investigative experiences. They represent the unpredictable, biological dangers encountered in Underdark operations and are used to justify the group\u2019s competence.",
+    "source_quote": "Fungal scourges, the whole abbreviated catalogue of what we'd actually done over the past months.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Kalan\u2019s resignation request",
+    "fact": "The request for Kalan Strongbranch\u2019s resignation, issued by Janussi the morning of his death, is an unresolved thread that may be motive, red herring, or key to the murder. It is the only documented interpersonal conflict preceding the death.",
+    "source_quote": "Janussi asked Kalan to tender his resignation.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Bookwyrm\u2019s denial",
+    "fact": "Bookwyrm\u2019s emphatic denial \u2014 'I had nothing to do with it' \u2014 is a thread of ambiguity. Her pause before speaking, and the timing of her revelation, suggest concealment or guilt. The investigators are now aware she is a suspect.",
+    "source_quote": "I can assure you, I had nothing to do with it.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "the morning before Janussi\u2019s death",
+    "fact": "The morning before Janussi\u2019s death is the temporal anchor for the resignation request and the last known interaction between him and Kalan Strongbranch. It is the critical pre-event window that defines the investigation\u2019s starting point.",
+    "source_quote": "Janussi, the morning before his death, had asked Kalan to tender his resignation.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daral",
+    "fact": "Daral is the skeptical council member who dismissed the investigators as 'sell swords' and doubted their legitimacy. His attitude reflects institutional bias against outsiders and reinforces the tension between the Council and the investigative team.",
+    "source_quote": "They look like a bunch of sell swords to me!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is a sentient scabbard, likely a magical artifact, that speaks with authority and claims to be the greatest discoverer of all after being found in her tomb after two thousand years. She is an unusual participant in the investigation, blending artifact and personality.",
+    "source_quote": "We must surely be the greatest discoverers of all, having found her tomb after two thousand years.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Poirot and Colombo references",
+    "fact": "The references to Poirot and Colombo are narrative tools invoked by Thorin and the group to legitimize their investigative methods. They serve as cultural shorthand for deductive reasoning and are used to counter institutional skepticism.",
+    "source_quote": "We were students of the great Masters Poirot and Colombo.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the unspoken protection of the library",
+    "fact": "The Council\u2019s reluctance to grant full access suggests they are protecting something within the library \u2014 perhaps evidence, a secret, or a person. The investigators have realized the murder has exposed institutional vulnerability, and the request for carte blanche has landed harder than the crime itself.",
+    "source_quote": "We had just asked for something they had not realized they were protecting, and the request had landed harder than the murder.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Chamber of the Investigation",
+    "fact": "The Chamber of the Investigation is the designated starting point for the inquiry into Janussi\u2019s death. It is where Bookwyrm finally revealed the resignation request \u2014 the first concrete piece of evidence \u2014 and where the group\u2019s role as investigators was formally activated.",
+    "source_quote": "Bookwyrm walked us toward the chamber where the investigation would begin...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Kalann Strongbranch",
+    "fact": "Kalan Strongbranch is the gate warden who was ordered to resign by Janussi. He is a figure of authority who accepted the council\u2019s ruling with perfect form but suspicious eyes. He is the first person Grygum plans to question, and his presence signals the beginning of the real investigation.",
+    "source_quote": "He was the first person I planned to question.",
+    "quote_verified": true
+  }
+]

@@ -48,3 +48,11 @@ related: []
 - **Create Page**: Create a page titled "Mitbach" under the "Market Merchants" category.
 - **Emphasize**: Highlight Mitbach's role as a kitchen goods merchant and his introduction by Lord Drylund.
 - **Open Question**: Flag if more details about Mitbach's background or relationships become available in future sources.
+
+## Related
+
+- [[nespril_menk]]
+- [[tolmarra]]
+- [[tapouach]]
+- [[uthor]]
+- [[tapuz]]

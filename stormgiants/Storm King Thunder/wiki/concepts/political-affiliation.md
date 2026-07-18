@@ -9,3 +9,15 @@ sources: ["dral_thelev.md"]
 ---
 # Political Affiliation
 The relationships and connections between political entities, such as the Zoar family and the Harpers, and their influence on the political landscape of Everlund.
+
+## Related
+
+- [[political-intrigue]]
+- [[zoar-family]]
+- [[political-structure]]
+- [[political-landscape]]
+- [[political-influence]]
+- [[political-rivalries]]
+- [[political-entities]]
+- [[political-alliances]]
+- [[political-relations]]

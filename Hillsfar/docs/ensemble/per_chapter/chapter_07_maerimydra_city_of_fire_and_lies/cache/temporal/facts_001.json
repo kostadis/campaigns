@@ -1,0 +1,177 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session date is February 8th, 2026.",
+    "source_quote": "Date: Feb 8th, 2026",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "well depth",
+    "fact": "The pool of water at the bottom of the well is five feet deep.",
+    "source_quote": "five-foot depth",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "tunnel width",
+    "fact": "The tunnel found at the bottom of the pool is five feet wide.",
+    "source_quote": "five-foot-wide tunnel",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "swim duration",
+    "fact": "The party swam through the tunnel for about forty feet.",
+    "source_quote": "swam through the tunnel for about forty feet",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Maerimydra cavern height",
+    "fact": "Maerimydra is nestled in a titanic cavern six hundred feet tall.",
+    "source_quote": "titanic cavern six hundred feet tall",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "smoke height",
+    "fact": "Thick smoke hangs above the city at a height of 250 feet.",
+    "source_quote": "smoke above 250 feet",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "ogre count at rescue",
+    "fact": "Four ogres were tormenting the imp when the party arrived.",
+    "source_quote": "four ogres tormenting a small creature",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "coral gemstone value",
+    "fact": "The coral gemstones found in the chest are worth 400 gold pieces.",
+    "source_quote": "coral gemstones worth 400 gold pieces",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "fire giant damage to Daein",
+    "fact": "A fire giant critically hit Daein for 50 points of damage.",
+    "source_quote": "A fire giant critically hit Daein for 50 points of damage",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Daein damage reduction",
+    "fact": "Daein reduced the fire giant's critical hit damage to 45.",
+    "source_quote": "which Daein reduced to 45",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim healing damage",
+    "fact": "Bramgrim cast mass healing word and dealt 27 points of necrotic damage.",
+    "source_quote": "dealt 27 points of necrotic damage",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Daein damage to Ogre #2",
+    "fact": "Daein attacked Ogre #2, dealing 41 hit points of damage.",
+    "source_quote": "dealing 41 hit points of damage",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Akritas damage to Ogre #2",
+    "fact": "Akritas finished off Ogre #2, dealing 38 hit points of damage.",
+    "source_quote": "dealing 38 hit points",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Ogre #4 damage to Daein",
+    "fact": "Ogre #4 hit Daein for 13 points of damage.",
+    "source_quote": "hitting for 13 points of damage",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Daein damage reduction from Protective Field",
+    "fact": "Daein reduced the 13 points of damage from Ogre #4 to 6 using Protective Field.",
+    "source_quote": "which Daein reduced to 6 using Protective Field",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Owlbear damage to Ogre #4",
+    "fact": "The Owlbear attacked Ogre #4, dealing 18 hit points of damage.",
+    "source_quote": "dealing 18 hit points",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Ogre #3 damage to Owlbear",
+    "fact": "Ogre #3 attacked the Owlbear for 13 points of damage.",
+    "source_quote": "for 13 points of damage",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Felkur fireball damage",
+    "fact": "Felkur cast Fireball, hitting Ogres #1, #3, and #4 for 28 damage each.",
+    "source_quote": "hitting Ogres #1, #3, and #4 for 28 damage each",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Felkur spell damage to Ogre #3",
+    "fact": "Felkur used another spell to hit Ogre #3 for 16 damage.",
+    "source_quote": "hit Ogre #3 for 16 damage",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Ogre #3 fireball save result",
+    "fact": "Ogre #3 made its save for half damage from the fireball, taking 8 damage.",
+    "source_quote": "taking 8",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Akritas damage to Ogre #3",
+    "fact": "Akritas killed Ogre #3, dealing 38 hit points of damage.",
+    "source_quote": "dealing 38 hit points",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Owlbear damage to Ogre #1",
+    "fact": "The Owlbear attacked Ogre #1, dealing 35 hit points of damage.",
+    "source_quote": "dealing 35 hit points",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Akritas damage to fire giant sergeant",
+    "fact": "Akritas dealt over 50 points of damage to the fire giant sergeant with a critical hit.",
+    "source_quote": "dealing over 50 points of damage",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "hellhound count killed",
+    "fact": "Two hellhounds were killed during the assault.",
+    "source_quote": "Two hellhounds were killed",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "hellhound escape count",
+    "fact": "A third hellhound escaped the outpost.",
+    "source_quote": "while a third escaped out of the outpost",
+    "quote_verified": true
+  }
+]
