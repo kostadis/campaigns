@@ -1,25 +1,27 @@
 ---
 name: chamber
 type: location
-n_facts: 8
-chapters: 2-53
+n_facts: 5
+chapters: 2-42
 ---
 
 ### chamber
 
-- **Current status:** Active, occupied by fungal growth  
-- **Current location:** Unspecified, but part of the Drow stronghold (last observed in ch53)  
-- **Current control/occupation:** Controlled by the fungal mass tied to Zuggtmoy’s influence; Ilvara’s creation now corrupted  
-- **Current possessions / notable features:**  
-  - Central fungal mass pulsing with Zuggtmoy’s reach  
-  - Stone platform built by Ilvara, now fully covered in pulsing fungal growth  
-  - Dead Drow guards (two guards and one elite fighter, per ch02; confirmed deceased in ch53)  
-  - Smell of scorched rot lingering in the air  
-- **Current assignment / role:** Formerly a meeting or tactical chamber for Drow operatives; now a corrupted node of Zuggtmoy’s influence, serving as a biological anchor point  
-- **Defining recent actions:** Ilvara constructed the stone platform; fungal growth from Zuggtmoy has since consumed the chamber, killing all Drow occupants and transforming the space into a living, pulsing node  
+- **Current status:** Active location, occupied  
+- **Current location:** Unspecified, but within Drow-held territory (based on guards and context)  
+- **Current occupants:** None explicitly confirmed as present in ch42; previous occupants (two Drow guards, one elite Drow male fighter) not confirmed as still present  
+- **Current possessions / notable items:**  
+  - Zurkhwood table with three chairs  
+  - Smaller side table  
+  - Spider-silk webbing with hooks for hanging equipment  
+  - Drow game Sava set upon the table  
+- **Current state / notable features:**  
+  - Rough walls outline several large, vaguely humanoid shapes  
+- **Current assignment / role:** Likely a strategic or ceremonial chamber within a Drow stronghold, used for games or meetings  
+- **Defining recent action:** The chamber’s walls now bear carved or shadowed humanoid shapes, suggesting recent alteration or magical enhancement  
 
 ## Uncertainty
-- The zurkhwood table, chairs, side table, spider-silk webbing, and Sava game are not mentioned in ch53 — their current state (destroyed, buried, or still present beneath the fungal mass) is unknown.  
-- The exact identity of “the speaker” pausing in the chamber (ch53) is not specified — it is unclear whether this refers to a PC, NPC, or narrator.  
-- Whether the “vaguely humanoid shapes” in the walls (ch42) are still visible or have been overtaken by fungal growth is unconfirmed.  
-- The fate of the elite Drow male fighter and the two guards is confirmed dead, but the manner of their deaths (combat, fungal infection, etc.) is not specified.
+- The current presence of the two Drow guards and elite Drow male fighter from ch02 is unconfirmed in ch42 — may have departed or been replaced.  
+- The origin or meaning of the large humanoid shapes on the walls is unexplained — whether natural, carved, or magical is unclear.  
+- Whether the Sava game is still actively in use or merely left on the table is not specified in ch42.  
+- No confirmation whether the spider-silk webbing or other furnishings remain intact or have been altered since ch02.

@@ -7,14 +7,14 @@ chapters: 27-32
 
 ### Myconid
 
-- **Current status:** Dead  
-- **Current location:** Unknown (last encountered where Daz, Grygum, and Zalthir fought them)  
-- **Allegiance/faction:** Servant and herald of Zuggtmoy  
-- **Current possessions / notable items, spells, feats, wounds:** None noted; previously capable of telepathic communication and offering initiation into Zuggtmoy’s dreamscape via physical contact  
-- **Current assignment / role and key relationships:** Last known role was as a herald of Zuggtmoy; last seen in company of two other Myconids (all now deceased)  
-- **Defining recent actions:** Engaged the party in combat; two were killed by Daz and Grygum, the third was killed by Zalthir  
+- **Current status:** Dead (all encountered Myconids slain in chapter 32)  
+- **Current location:** None (all deceased)  
+- **Allegiance/faction:** Servants and heralds of Zuggtmoy  
+- **Current possessions / notable items, spells, feats, wounds:** None (deceased)  
+- **Current assignment / role and key relationships:** Vessels and heralds of Zuggtmoy; communicated telepathically and sought to initiate others into the Demon Queen’s dreamscape via physical contact  
+- **Defining recent actions:** Two Myconids confronted the party in chapter 32; one was wounded by Zalthir’s guiding bolt, then all three were killed — two by Daz and Grygum, the last by Zalthir  
 
 ## Uncertainty
-- The exact number of Myconids present at the time of death is clear (three total), but the specific identities or individual traits of each (e.g., which one offered initiation) are not specified — all are treated as identical in function and fate.  
-- Whether any Myconid had recently initiated someone into Zuggtmoy’s dreamscape before combat is unknown; the offer was a potential ability, not confirmed as recently used.  
-- No information on whether any Myconid survived the encounter — all three are stated as killed.
+- The exact number of Myconids encountered is ambiguous: chapter 27 implies a singular entity (“the Myconid”), but chapter 32 refers to “two Myconids” and then “the last one,” suggesting three total. It is unclear if the chapter 27 Myconid is one of the three slain in chapter 32, or if a separate entity was referenced earlier.  
+- It is unspecified whether the Myconids in chapter 32 are the same as the one in chapter 27, or if multiple Myconids serve Zuggtmoy independently.  
+- The nature of “physical contact” for initiation is not detailed beyond the quote — no mechanics or consequences are given.

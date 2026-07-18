@@ -2,161 +2,119 @@
   {
     "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum is relieved that someone else took an expense off his account.",
+    "fact": "Grygum is relieved that someone else has taken an expense off his account, saving him money on potions.",
     "source_quote": "Well, that saves me money on potions,\" said Grygum, relieved \u2014 someone else had just taken an expense off his account.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Queenie",
-    "fact": "Queenie is a five-year-old sleet-grey cat who is entirely uninterested in being disturbed.",
-    "source_quote": "Queenie \u2014 five years old, sleet-grey, and entirely uninterested in being disturbed.",
+    "fact": "Queenie introduces herself as a five-year-old, sleet-grey cat entirely uninterested in being disturbed, and announces, 'I did not order any more ticklers!'",
+    "source_quote": "The cat introduced herself, after a fashion. Queenie \u2014 five years old, sleet-grey, and entirely uninterested in being disturbed. \"I did not order any more ticklers!\" she announced, stretching.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Queenie",
-    "fact": "Queenie announces that she did not order any more ticklers.",
-    "source_quote": "I did not order any more ticklers!",
+    "subject": "Daz",
+    "fact": "Daz says, 'I'll give Queenie a little tickle,' and tickles her, acknowledging that information is currency and so is scratching behind the ears.",
+    "source_quote": "\"I'll give Queenie a little tickle,\" I said, and tickled. Information is currency. So, evidently, is scratching behind the ears.",
     "quote_verified": true
   },
   {
-    "type": "npc",
-    "subject": "Queenie",
-    "fact": "Queenie says good ticklers are the only good reason for disturbing her beauty sleep.",
-    "source_quote": "Any good ticklers are the only good\u2026 and good ticklers are\u2026 tickles are only the good reason for disturbing my beauty sleep.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "tickling Queenie",
-    "fact": "The narrator tickles Queenie to gain information.",
-    "source_quote": "I'll give Queenie a little tickle,\" I said, and tickled.",
+    "type": "location",
+    "subject": "Janussi's armchair",
+    "fact": "Janussi's armchair is where Queenie had settled for a nap, only to be rudely awakened thirty minutes later by Sylvira Savikas blasting the armchamber with a lance of unerring force light.",
+    "source_quote": "She had settled into Janussi's armchair for a nap, she said, \"only to be rudely awakened some thirty minutes later by our Sylvira Savikas, this is in the morning, blasting the armchamber with a lance of unerring force light.\"",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Sylvira Savikas",
-    "fact": "Sylvira Savikas woke Queenie from a nap by blasting the armchamber with a lance of unerring force light.",
-    "source_quote": "only to be rudely awakened some thirty minutes later by our Sylvira Savikas, this is in the morning, blasting the armchamber with a lance of unerring force light.",
+    "fact": "Sylvira Savikas is a tiefling who blasted the armchamber with a lance of unerring force light, waking Queenie from her nap.",
+    "source_quote": "Sylvira Savikas, this is in the morning, blasting the armchamber with a lance of unerring force light.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Janussi",
-    "fact": "Janussi is in an on-and-off-again relationship with Sylvira Savikas.",
-    "source_quote": "Sylvira the tiefling, and Janussi, an on-and-off-again relationship.",
+    "subject": "Thorin",
+    "fact": "Thorin asks, 'what was going on with those bolts of force, do we know why,' and later notes that the victim was still alive when Daral left.",
+    "source_quote": "Thorin dug in \u2014 *what was going on with those bolts of force, do we know why* \u2014 and the answer arrived dressed as gossip: Sylvira the tiefling, and Janussi, an on-and-off-again relationship.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Fheminor",
-    "fact": "Fheminor is referred to by Queenie as 'the short-legged one.'",
-    "source_quote": "first Fheminor, *the short-legged one*",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Daral",
-    "fact": "Daral is referred to by Queenie as 'the stinky breath one.'",
-    "source_quote": "later Daral, *the stinky breath one*",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Daral running downstairs with a hypnotic block",
-    "fact": "Daral ran downstairs with a hypnotic block after shouting.",
-    "source_quote": "when I later saw him run downstairs with a hypnotic block.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "hypnotic block",
-    "fact": "The hypnotic block is a book that holds a person motionless and uninterested in scratching a cat.",
-    "source_quote": "A book. Not a device, not an enchantment \u2014 a book, dull enough to hold a person motionless and uninterested in scratching a cat.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "The Golden Ass",
-    "fact": "The Golden Ass is the missing book that Daral carried out of the room.",
-    "source_quote": "*The Golden Ass*, the missing volume, walking out of the room under Daral's arm.",
+    "subject": "Thorin",
+    "fact": "Thorin identifies a 'shapeshifter situation' after Queenie describes a figure wearing Sylvira's shape but not her scent.",
+    "source_quote": "\"Oh, so we've got, like, a shapeshifter situation going on here,\" said Thorin.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Zalthir",
-    "fact": "Zalthir incorrectly identifies the hypnotic block as a TV.",
-    "source_quote": "Oh, it's a TV!\" said Zalthir",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Daral leaving with The Golden Ass",
-    "fact": "Daral exited with The Golden Ass while the victim was still alive.",
-    "source_quote": "But the victim was still alive when Daral left,\" Thorin noted, and the timeline held.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Sylvira",
-    "fact": "Queenie saw a figure resembling Sylvira coming down the steps but not smelling like her.",
-    "source_quote": "I saw *the torn demon lady* coming down the steps \u2014 Sylvira's shape \u2014 'But she didn't smell like the demon lady, though.'",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Thorin",
-    "fact": "Thorin identifies the situation as a shapeshifter.",
-    "source_quote": "Oh, so we've got, like, a shapeshifter situation going on here,\" said Thorin.",
+    "fact": "Zalthir says, 'That explains the candle,' after Thorin identifies the shapeshifter situation, and later incorrectly identifies the book as a TV.",
+    "source_quote": "\"That explains the candle,\" said Zalthir, and the picture began to assemble itself.",
     "quote_verified": true
   },
   {
     "type": "object",
-    "subject": "candle",
-    "fact": "Zalthir mentions the candle in connection with the shapeshifter theory.",
-    "source_quote": "That explains the candle,\" said Zalthir",
+    "subject": "The Golden Ass",
+    "fact": "The Golden Ass is a dull book that holds a person motionless and uninterested in scratching a cat, and was taken from the room under Daral's arm.",
+    "source_quote": "\"Every time they open that block,\" Queenie said, \"they just sit there and don't tickle!\" A book. Not a device, not an enchantment \u2014 a book, dull enough to hold a person motionless and uninterested in scratching a cat. *The Golden Ass*, the missing volume, walking out of the room under Daral's arm.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daral",
+    "fact": "Daral is described as the 'stinky breath one' by Queenie, and is the one who carried away The Golden Ass under his arm.",
+    "source_quote": "there is a precision to how cats categorize people that I find I respect. No titles. No politics. Just the relevant data: gait, smell. ... and later Daral, *the stinky breath one*.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "corridor",
+    "fact": "Queenie retreated to the corridor after Daral shouted too much, and later saw him run downstairs with a hypnotic block.",
+    "source_quote": "she retreated to the corridor \u2014 \"when I later saw him run downstairs with a hypnotic block.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Fheminor",
+    "fact": "Fheminor is described by Queenie as 'the short-legged one' and is the first evening guest to arrive.",
+    "source_quote": "first Fheminor, *the short-legged one*, and later Daral, *the stinky breath one*.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Queenie",
-    "fact": "Queenie refuses to provide more details about blood, organs, or a heart from the wrong-smelling figure.",
-    "source_quote": "Queenie was done being generous. 'There have been too little Tickles and too many questions.'",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "tickling Queenie again",
-    "fact": "The narrator tickles Queenie again to elicit more information.",
-    "source_quote": "I tickled. I tickled some more.",
+    "fact": "Queenie describes a figure wearing Sylvira's shape but not her scent, calling her 'the torn demon lady' but noting, 'she didn't smell like the demon lady, though.'",
+    "source_quote": "She'd prowled the nighttime cycle and seen *the torn demon lady* coming down the steps \u2014 Sylvira's shape \u2014 \"But she didn't smell like the demon lady, though.\"",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Queenie",
-    "fact": "Queenie insults two-leggers by saying they hardly ever lick themselves.",
-    "source_quote": "It's clear that you hardly ever lick yourselves at all. I've met cleaner dogs in my time.",
+    "fact": "Queenie says, 'There have been too little Tickles and too many questions,' and refuses to be more generous until more tickles are given.",
+    "source_quote": "\"There have been too little Tickles and too many questions.\" I tickled. I tickled some more.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum suggests asking Queenie about the locket missing from Janussi's neck.",
-    "source_quote": "Daz, why don't you ask the cat anyway? It's gonna be a weird description from a cat, but\u2026",
+    "subject": "Queenie",
+    "fact": "Queenie assesses two-leggers as never licking themselves, and claims to have met cleaner dogs in her time.",
+    "source_quote": "How would I know? I try to hold my breath whenever a two-legger passes. It's clear that you hardly ever lick yourselves at all. I've met cleaner dogs in my time.",
     "quote_verified": true
   },
   {
     "type": "object",
-    "subject": "locket",
-    "fact": "The locket was carried by Janussi at all times and never taken off.",
-    "source_quote": "The locket itself is intimate. He carried it all the time. He never took it off.",
-    "quote_verified": true
+    "subject": "the locket",
+    "fact": "The locket is described by Queenie as intimate, carried all the time, never taken off, but its nature is unknown to her.",
+    "source_quote": "The locket itself is intimate. He carried it all the time. He never took it off.\" \"I don't know what it was.",
+    "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Fembris",
-    "fact": "Fembris reveals that Janussi held one of the two keys to the Hightower Library.",
+    "fact": "Fembris supplies the missing detail that Janussi held one of the two keys to the Hightower Library.",
     "source_quote": "Fembris, *by golly*, supplied the column I was missing: Janussi held one of the two keys to the Hightower Library.",
     "quote_verified": true
   },
@@ -168,59 +126,10 @@
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "adding keys to the account",
-    "fact": "The narrator adds both keys to the account after learning their locations.",
-    "source_quote": "I added both to the account.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "offering more tickles",
-    "fact": "The narrator offers more tickles to settle the account with Queenie.",
-    "source_quote": "More tickles, more padding,\" I offered, because the account wasn't quite settled.",
-    "quote_verified": true
-  },
-  {
     "type": "npc",
     "subject": "Queenie",
-    "fact": "Queenie tells the narrator to leave and to give themselves a proper licking before returning.",
-    "source_quote": "You may now leave,\" she said, \"and please give yourself a proper licking before returning to my tower.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "armchamber",
-    "fact": "The armchamber is the location where Sylvira Savikas blasted a lance of force light.",
-    "source_quote": "blasting the armchamber with a lance of unerring force light.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "corridor",
-    "fact": "Queenie retreated to the corridor after Daral's shouting.",
-    "source_quote": "she retreated to the corridor",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "tower",
-    "fact": "Queenie resides in a tower that the narrator is expected to return to.",
-    "source_quote": "before returning to my tower.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "The Golden Ass",
-    "fact": "The Golden Ass is linked to the deletion of information from a book that no one should have touched.",
-    "source_quote": "That might explain why that stuff got deleted off that book that no one should have touched.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "shapeshifter",
-    "fact": "The shapeshifter theory is connected to the absence of Sylvira's scent and the presence of the candle.",
-    "source_quote": "That explains the candle,\" said Zalthir, and the picture began to assemble itself.",
+    "fact": "Queenie tells Daz to leave and to give himself a proper licking before returning to her tower.",
+    "source_quote": "\"You may now leave,\" she said, \"and please give yourself a proper licking before returning to my tower.\"",
     "quote_verified": true
   }
 ]

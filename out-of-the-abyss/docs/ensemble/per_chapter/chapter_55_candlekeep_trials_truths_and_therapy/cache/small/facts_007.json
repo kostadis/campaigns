@@ -1,121 +1,100 @@
 [
   {
     "type": "npc",
-    "subject": "Philemon",
-    "fact": "Philemon is not offended by flippant remarks about sentient weapons and has likely heard worse, demonstrating emotional resilience and familiarity with magical artifacts.",
-    "source_quote": "I understand,\" Philemon said. He wasn't offended. He'd probably heard worse.",
+    "subject": "Thorin",
+    "fact": "Thorin is reflecting on his bond with Dawnbringer after a therapeutic session, acknowledging the emotional weight of their shared history in darkness and the unresolved grief from her previous wielder, and has accepted a two-stage process of remembering light and mourning.",
+    "source_quote": "I thought about the months in the Underdark. Total dark. Carrying a sunblade through a place that had no sun. What that had cost her \u2014 I knew some of it, and I probably didn't know most of it.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Dawnbringer",
-    "fact": "Dawnbringer is a sentient sunblade who experiences deep unease from prolonged darkness and disuse, and notices when others speak around her rather than to her.",
-    "source_quote": "Most people talk around the sword, which she notices.",
+    "fact": "Dawnbringer is a sentient sunblade who fell silent when asked about her previous wielder, indicating deep, unspoken trauma tied to prolonged disuse and possession by someone who did not see her \u2014 she is capable of emotional response and notices when others talk around her.",
+    "source_quote": "Dawnbringer went quiet. Not the silence of someone thinking. The other kind. The kind where the thing you'd been not-saying for a long time just gets asked out loud in a room with other people in it.",
     "quote_verified": true
   },
   {
-    "type": "monster",
-    "subject": "Dawnbringer",
-    "fact": "Dawnbringer is a sentient magical weapon encountered as a companion and psychological burden, exhibiting emotional responses to environment and ownership, and requiring emotional labor to heal.",
-    "source_quote": "She can't be polished, actually. She needs to remember what daylight feels like without needing to fight.",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "Dawnbringer",
-    "fact": "Dawnbringer is a named sunblade weapon that requires not physical maintenance but spiritual reconnection to light and emotional mourning for past trauma.",
+    "type": "npc",
+    "subject": "Philemon",
+    "fact": "Philemon is a therapist who recognizes sentient items as entities with emotional needs, guides Thorin and Dawnbringer through a two-stage process of reconnection with light and mourning, and deliberately addresses Dawnbringer directly, treating her as a sentient being.",
     "source_quote": "Your sword \u2014 she needs to remember what daylight feels like without needing to fight. And then, when she's ready, and you are willing, she needs to grieve.",
     "quote_verified": true
   },
   {
+    "type": "faction",
+    "subject": "The Sentient Item Therapists of Candlekeep",
+    "fact": "This faction operates under a strict, reciprocal information policy and specializes in therapeutic intervention for sentient magical items, using structured stages of reclamation and mourning, and treats such items as persons deserving direct address and emotional consideration.",
+    "source_quote": "Information flows both ways across the counter. No ledger gets updated without a corresponding entry on the other side.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Therapeutic Session on Dawnbringer's Trauma",
+    "fact": "During a therapy session, Thorin and Philemon explored Dawnbringer\u2019s emotional history tied to her previous wielder, her prolonged disuse in darkness, and the unresolved grief she carries \u2014 culminating in Philemon prescribing a two-stage healing process focused on light and mourning.",
+    "source_quote": "The first work is light. The second work is mourning. We will start with the first.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Dawnbringer's Silence After Wielder Inquiry",
+    "fact": "When asked directly about her previous wielder, Dawnbringer entered a profound, non-thinking silence \u2014 an emotional response indicating that the question had touched a long-suppressed trauma, validating her sentience and the depth of her suffering.",
+    "source_quote": "The thing you'd been not-saying for a long time just gets asked out loud in a room with other people in it.",
+    "quote_verified": false
+  },
+  {
     "type": "location",
-    "subject": "Hall of Divination",
-    "fact": "The Hall of Divination in Menzoberranzan smells of old stone and residual spell energy, with spectral mage hands drifting between shelves to fetch tomes for researchers who never look up.",
+    "subject": "The Hall of Divination, Menzoberranzan",
+    "fact": "This location is a repository of arcane knowledge saturated with residual spell energy, where spectral hands retrieve tomes for researchers, and the air carries the weight of centuries of magical inquiry \u2014 a place where knowledge is both accessible and overwhelming.",
     "source_quote": "The Hall of Divination smells like old stone and something faintly electric \u2014 the residue of spells cast so many times in one room that the air itself has absorbed the habit.",
     "quote_verified": true
   },
   {
     "type": "location",
     "subject": "Candlekeep",
-    "fact": "Candlekeep operates under a strict policy of reciprocal knowledge exchange \u2014 every question answered requires a corresponding entry in the ledger, making it a philosophically balanced archive.",
-    "source_quote": "Information flows both ways across the counter. No ledger gets updated without a corresponding entry on the other side.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Dawnbringer's reconnection to light",
-    "fact": "Dawnbringer is undergoing a two-stage process: first, reacquainting with daylight without combat, then grieving her past trauma \u2014 a ritual initiated by Philemon and accepted by the wielder.",
-    "source_quote": "We will start with the first.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Headache inquiry at Candlekeep",
-    "fact": "The narrator attempts to ask about their persistent headache during a formal research session at Candlekeep, but is redirected toward the primary purpose of the inquiry.",
-    "source_quote": "Can I see or read any of\u2026 do any of them\u2026 I'm\u2026 at this point, my headache\u2026 my headache's been bothering me.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "The first wielder's identity",
-    "fact": "The identity of Dawnbringer\u2019s original wielder \u2014 the corpse she was found in \u2014 remains unspoken but deeply significant, and its unasked question lingers in the silence after Dawnbringer goes quiet.",
-    "source_quote": "Dawnbringer went quiet. Not the silence of someone thinking. The other kind.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "The giants' saying",
-    "fact": "The narrator\u2019s childhood giants had a saying: 'the ground under a joker is the same ground everyone else is standing on' \u2014 a metaphor for humor as a response to unbearable specificity, now echoed in their own flippant remarks.",
-    "source_quote": "The giants who raised me had a saying that translated roughly as: the ground under a joker is the same ground everyone else is standing on.",
-    "quote_verified": true
-  },
-  {
-    "type": "faction",
-    "subject": "Menzoberranzan's Divination Order",
-    "fact": "Menzoberranzan's Divination Order maintains the Hall of Divination as a repository of arcane knowledge, where spectral mage hands perform automated retrieval, indicating a culture that treats magic as institutionalized habit.",
-    "source_quote": "Spectral mage hands drift between the shelves, fetching tomes for researchers who don't look up.",
-    "quote_verified": true
-  },
-  {
-    "type": "date",
-    "subject": "session date",
-    "fact": "The events described occur during a session in which emotional weight is carried by sentient weapons and archival inquiry, concluding with a lighter note after prolonged darkness.",
-    "source_quote": "It was a lighter note to end on than the session probably warranted.",
+    "fact": "Candlekeep is a library with a rigorous, reciprocal policy of information exchange, where scholars are granted one answered question per inquiry, and time is not a constraint \u2014 its architecture and staff treat knowledge as sacred and transactional, with ghosts as colleagues.",
+    "source_quote": "No ledger gets updated without a corresponding entry on the other side.",
     "quote_verified": true
   },
   {
     "type": "object",
-    "subject": "The prescription",
-    "fact": "A prescription is nearly retrieved by Philemon before he catches himself, suggesting an unspoken medical or magical intervention related to Dawnbringer\u2019s condition or the narrator\u2019s distress.",
-    "source_quote": "He started to reach for a prescription and caught himself mid-sentence.",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is a sentient sunblade, once wielded by an unknown individual whose death left her in darkness and disuse, and now carries the emotional scars of prolonged neglect \u2014 she cannot be polished, but must be remembered, and requires reconnection with daylight and mourning to heal.",
+    "source_quote": "She can't be polished, actually. Your sword \u2014 she needs to remember what daylight feels like without needing to fight.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "The Underdark",
+    "fact": "The Underdark is a subterranean environment of total, unrelenting darkness that has been a prolonged prison for Dawnbringer, depriving her of sunlight and purpose, and contributing to her emotional trauma through sustained disuse and isolation.",
+    "source_quote": "I thought about the months in the Underdark. Total dark. Carrying a sunblade through a place that had no sun.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Identity of Dawnbringer\u2019s Previous Wielder",
+    "fact": "The identity and fate of Dawnbringer\u2019s previous wielder remain unknown, but their death in proximity to the blade triggered her trauma, and the silence that followed the question suggests unresolved guilt, betrayal, or loss tied to their final moments.",
+    "source_quote": "He asked about the previous wielder. The corpse she had been found in, he said. Whether that person had been \u2014 had been her wielder.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Thorin\u2019s Headache and Candlekeep\u2019s Knowledge",
+    "fact": "Thorin\u2019s unexplained headache, triggered by proximity to Candlekeep\u2019s accumulated knowledge, hints at a deeper, possibly magical or psychic resonance between his consciousness and the library\u2019s archives \u2014 a thread that remains unexplored but is implicitly significant.",
+    "source_quote": "My head had been complaining since we arrived at Candlekeep. The proximity \u2014 to the knowledge, or to whatever sat underneath the knowledge \u2014 was producing a friction I had been mis-attributing to the sun all day.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Session Date \u2014 Therapy for a Sentient Blade",
+    "fact": "The therapeutic session with Thorin and Dawnbringer occurred during a recent visit to Candlekeep, marking a pivotal moment in the blade\u2019s emotional recovery and Thorin\u2019s acceptance of her sentience \u2014 the date is not recorded, but its impact is enduring.",
+    "source_quote": "We're all gonna grow out of this,\" I said. \"Hopefully, Dawnbringer grows a plus one.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Sister Yvenne",
-    "fact": "Sister Yvenne is a Candlekeep archivist who manages scholarly inquiries with patient, unwavering adherence to protocol, accustomed to unorthodox requests from overeager researchers.",
-    "source_quote": "Sister Yvenne looked at me with the particular expression of someone who has spent decades managing scholars and has nevertheless not encountered this exact request.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Underdark",
-    "fact": "The Underdark is a place of total, unbroken darkness where Dawnbringer was carried for months, inflicting psychological and magical damage due to absence of light.",
-    "source_quote": "I thought about the months in the Underdark. Total dark. Carrying a sunblade through a place that had no sun.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Healing work in Waterdeep",
-    "fact": "The narrator and Dawnbringer performed healing work in Waterdeep by aiding orphans and the sick, allowing Dawnbringer to fulfill her purpose and visibly regain happiness.",
-    "source_quote": "We'd done the healing work in Waterdeep on the road south, found orphans and the sick and let her do what she was built to do. She'd been visibly happy.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "The plus one",
-    "fact": "The narrator jokingly suggests Dawnbringer will 'grow a plus one' \u2014 implying a future companion or evolution \u2014 a hopeful, informal closure to a heavy narrative arc.",
-    "source_quote": "We're all gonna grow out of this,\" I said. \"Hopefully, Dawnbringer grows a plus one.",
+    "fact": "Sister Yvenne is a Candlekeep archivist who enforces the library\u2019s one-question policy with calm authority, demonstrating patience and an understanding that time is not a constraint in a place where knowledge is preserved by ghosts.",
+    "source_quote": "She had, I realized, all the time in the world. This is the advantage of working in a library. Time is not a resource you run short of when your colleagues are ghosts.",
     "quote_verified": true
   }
 ]

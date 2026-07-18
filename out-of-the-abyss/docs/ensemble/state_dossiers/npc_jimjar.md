@@ -1,40 +1,47 @@
 ---
 name: Jimjar
 type: npc
-n_facts: 124
-chapters: 1-54
+n_facts: 132
+chapters: 1-48
 ---
 
 ### Jimjar
 
-**Current status:** Missing (vanished entirely from existence).  
-**Current location:** Unknown (last seen vanishing into thin air near the ooze caverns, heading back toward Blingdenstone).  
-**Allegiance/faction:** Formerly associated with Blingdenstone; now revealed as a celestial being of unknown origin, possibly an angelic entity or divine agent.  
-**Current possessions / notable items:**  
-- A bone die carved from the knucklebone of a saint who never told a lie, with a “memory for the truth” — won from a blind Duergar in Gracklstugh.  
-- Ten platinum pieces (returned to Grygum immediately before vanishing).  
-**Spells, feats, or abilities:**  
-- Immune to poison and psychic damage.  
-- Resistant to radiant damage and non-magical physical attacks.  
-- Cannot be charmed or frightened.  
-- Possesses profound, unexplained knowledge of Underdark flora, ooze behavior, planar entities (Juiblex, Zuggtmoy), and Blingdenstone’s hidden history.  
-- Capable of triggering reality-altering effects via the bone die — specifically, unifying disparate oozes into a single sentient network through Glabbagool.  
-**Current assignment / role and key relationships:**  
-- Last known role: Unofficial guide, strategist, and morale catalyst for the party.  
-- Last seen interacting with Grygum, Zalthir, Glabbagool, and the party as a whole.  
-- Formerly trusted by deep gnomes of Blingdenstone, who showed him deference suggesting a hidden, high-status position.  
-- Had a complex, unspoken connection to Juiblex and Zuggtmoy — referencing them with personal, painful familiarity.  
-**Defining recent actions:**  
-- Used the bone die to pacify an entire army of oozes by turning Glabbagool into a unifying consciousness.  
-- Won a bet of ten platinum pieces from Grygum by asserting Glabbagool had more sense than the Pudding King.  
-- Returned the platinum winnings and warned the party of a new fungal threat: a rapidly growing pale white puffball mushroom emitting a sweet smell of rot.  
-- Revealed his celestial nature to Zalthir via innate immunities and resistances.  
-- Vanished entirely after winking at the party, leaving only the sound of clinking platinum coins.  
+**Current Status:** Vanished (last seen winking and dissolving into thin air)  
+**Current Location:** Unknown (last observed departing toward Blingdenstone; last physical trace: metallic clink of platinum coins in tunnel)  
+**Allegiance/Faction:** Formerly associated with Blingdenstone; now implied to be a celestial or divine entity (possibly an angelic being)  
+**Current Possessions / Notable Items:**  
+- Bone die carved from the knucklebone of a saint who “never told a lie,” said to have a “memory for the truth” (won from a blind Duergar in Gracklstugh)  
+- 10 platinum pieces (returned to Grygum after winning a bet)  
+
+**Notable Spells / Feats / Resistances / Immunities:**  
+- Immune to poison and psychic damage  
+- Resistant to radiant damage and non-magical physical attacks  
+- Cannot be charmed or frightened  
+
+**Current Assignment / Role and Key Relationships:**  
+- Last known role: Unofficial guide, strategist, and morale architect for the party; acted as a hidden agent or emissary with profound knowledge of Underdark lore, ooze entities, and Blingdenstone’s hidden threats.  
+- Last known relationships:  
+  - Had a working alliance with Glabbagool (intelligent gelatinous cube), using the bone die to unify the ooze army through him.  
+  - Was trusted by Thorin and respected by deep gnomes in Blingdenstone, who showed him deference suggesting an unstated high status.  
+  - Last interacted with Grygum, Zalthir, and the party before vanishing.  
+
+**Defining Recent Actions:**  
+- Won a bet against Grygum: claimed Glabbagool had more sense than the Pudding King; collected 10 platinum pieces, then returned them.  
+- Used the bone die to pacify an entire army of oozes by triggering a unifying “blink” through Glabbagool, transforming them into a single conscious network.  
+- Warned the party of Zuggtmoy as a silent, insidious threat (“prefers to move in while you’re sleeping”), contrasting Juiblex as merely “loud and messy.”  
+- Revealed profound innate resistances upon Zalthir’s scrutiny, then winked and vanished entirely, leaving no physical trace.  
+
+**Revealed Motivations or Secrets:**  
+- His gambling was never mere whimsy — it was a method of manipulating probability, morale, and reality (“world math”).  
+- He possessed intimate, likely firsthand knowledge of Juiblex and Zuggtmoy, suggesting past trauma or direct encounter with the Demon Princes.  
+- His knowledge of Blingdenstone’s hidden threats, fungal wedding ingredients, and acid-resistant gear needs was prophetic and precise — implying foresight or divine insight.  
+- His vanishing, combined with his immunities and the saint’s bone die, strongly implies he is not a mortal gnome but a celestial being in disguise — possibly an agent of order, truth, or divine probability.  
 
 ## Uncertainty
-- Contradiction in species: Earlier chapters consistently refer to Jimjar as a derro or deep gnome; final chapter (ch54) reveals him as a celestial. The later revelation overrides earlier classification, but the nature of his transformation — if any — is unexplained.  
-- Unclear origin of celestial status: Was Jimjar always a celestial? Did he assume the form of a gnome? The facts state Zalthir now believes he “was apparently always a celestial,” but no mechanism or timeline is provided.  
-- Ambiguous fate: He vanished — is he dead, ascended, or merely departed? The facts do not confirm death, but “vanished entirely from existence” is ambiguous.  
-- Attribution of the bone die’s origin: Jimjar claims he won it from a blind Duergar in Gracklstugh, but the Duergar’s credibility is questioned (“I thought he was just trying to cover his losses”). The die’s true origin remains unverified.  
-- Identity of “this sister” (Zuggtmoy): Jimjar’s phrasing implies a personal relationship with Zuggtmoy, but whether this is metaphorical, historical, or literal is unstated.  
-- Motivation for vanishing: Why did he leave? Was it to fulfill a divine duty, avoid detection, or because his mission was complete? No explicit reason is given.
+- Contradictory species attribution: Multiple early chapters label Jimjar as a “derro” or “deep gnome,” while later chapters (ch32) erroneously refer to him as a “myconid” — but ch48 confirms his true nature as a non-mortal entity, making prior classifications irrelevant.  
+- Unclear origin of immunities: While Zalthir observes his resistances, no source explains how or why he possesses them — only that they match no known gnome and resemble a divine profile.  
+- Ambiguous nature of the bone die: The saint’s identity and the die’s true origin are unverified; the blind Duergar’s claim may be a lie, a myth, or truth — no corroboration exists.  
+- Exact timing of vanishing: Ch48 states he vanished “after winking,” but it is unclear whether this occurred before or after the fungal threat warning — both are presented as his final acts.  
+- Whether his “philosophy of world math” is a personal belief or a divine function — no source clarifies if he *controls* probability or merely *perceives* it.  
+- The “sister” reference to Zuggtmoy implies a familial or cosmic relationship between Juiblex and Zuggtmoy — but no other entity in the lore confirms this, leaving it unverified.

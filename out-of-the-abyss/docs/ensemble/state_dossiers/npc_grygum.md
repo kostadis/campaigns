@@ -1,81 +1,86 @@
 ---
 name: Grygum
 type: npc
-n_facts: 484
+n_facts: 631
 chapters: 1-61
 ---
 
 ### Grygum
 
 **Current Status:** Alive  
-**Current Location:** Deneir’s Sanctum, Candlekeep  
-**Allegiance/Faction:** Cleric of Bahamut; de facto leader and chronicler of the Ember Vanguard; affiliated with the investigative faction in Candlekeep  
+**Current Location:** Candlekeep, likely within Deneir’s Sanctum or the Flora Theca, engaged in scholarly investigation and theological discourse.  
+**Allegiance/Faction:** Cleric of Bahamut; self-proclaimed founder of the Grygumite School of Theology. Formerly associated with the Ember Guard, the Stone Guards, and the Keepers of the Flame — now operates as an independent investigator and theologian under Candlekeep’s authority.  
 
 **Current Possessions / Notable Items:**  
-- Magical short sword (claimed from gelatinous cube aftermath)  
-- Light crossbow (maintained, recently handed over and returned)  
-- Prayer beads (shrunken but potent, wielded as a tool of psychological control)  
-- Bag of Holding (opened, contains pamphlets and lore on Bahamut, Stroud, and Underdark phenomena)  
-- Revivify spell slot (active, used multiple times)  
-- Multiple healing spells (including Spirit Guardians, Guiding Bolt, Inflict Wounds, Tasha’s Caustic Brew)  
-- Notes and records (mental and physical) on every interaction, spell, death, and anomaly encountered  
-- Ruby spell gem (previously placed in the menhir to hallow the temple)  
-- Gold coin (used symbolically in Pelek’s burial ritual)  
-- Pelek’s bones (interred in catacombs beneath the Temple of the Ruby in the Rough)  
+- A magical short sword (claimed from the aftermath of the gelatinous cube battle).  
+- A light crossbow (handed over without drama; confirmed well-maintained).  
+- A bag of holding containing Glabbagool, the gelatinous cube companion.  
+- A wax pouch retrieved from Asha Vandree’s body (suspected to contain theological text).  
+- A brass key to the High Tower (received covertly from Kalan Strongbranch; now in Daz’s possession).  
+- A collection of pamphlets on Bahamut’s lore (actively sought and collected).  
+- A scrap of paper with meticulously recorded notes on all deals, events, and conversations.  
+- Shrunken prayer beads (believed to be more potent in their reduced form).  
+- A vial of Drow poison and poisoned hand crossbow bolts (acquired in ch03; likely still carried).  
+- The *Fey-mous Flowers & Fungi* by Archibald Roots, Jr. (recently acquired and studied).  
 
 **Notable Spells / Feats:**  
-- Tasha’s Caustic Brew (channelled through ritual vomiting after trauma)  
-- Guiding Bolt  
-- Inflict Wounds  
-- Spirit Guardians  
-- Reduce (used on drow spy)  
-- Divine Light (necrotic and radiant variants)  
-- Cantrip to restore objects to original state (Bahamut’s domain)  
-- Summon spectral guardians (feyspirits)  
-- Acid-based divine channeling (via mouth or crossbow)  
-- Cleric of Bahamut: accesses divine insight, turning undead (limited success against ancient entities), and ritual healing  
+- Divine Healing (multiple uses, including instant restoration of Thorin).  
+- Guiding Bolt (used with tactical precision; often paired with positioning).  
+- Tasha’s Caustic Brew (cast in combat, though sometimes ineffective).  
+- Inflict Wounds (used against the Pudding King).  
+- Spirit Guardians (deployed to trap and damage enemies).  
+- Revivify (carried and ready; used or available to restore fallen allies).  
+- Lesser Restoration (known, but deliberately withheld to allow others to act mercifully).  
+- Mending (rarely used but understood; critical in naval contexts).  
+- True Strike (used in ritual combat).  
+- Necrotic blast via holy symbol (used against cubes and oozes).  
+- Acid expulsion (ritualized, self-inflicted channeling of acid as divine expression).  
+- Glyph of Warding (designed and placed as a tactical trap).  
+- Dust of Suleiman (prepared and deployed against the Heart Fungus).  
+- Phantasmal Killer (prepared, though not cast).  
 
 **Current Assignment / Role and Key Relationships:**  
-- Primary investigator in the murder of Janussi, Keeper of Tomes; has uncovered the use of *midnight tears*, the sapphire summoning spell, and Kalan Strongbranch’s motive rooted in academic contempt.  
-- Holder of the High Tower key (received from Daz); assassins immediately targeted him upon its transfer, confirming the key is the target, not the bearer.  
-- Moral and logistical anchor of the group: provides Revivify and healing, maintains records, identifies deception, and enforces accountability.  
-- Quietly leads through observation, not command; trusted for accuracy, pragmatism, and emotional restraint.  
-- Key relationships:  
-  - **Daz:** Relies on his tactical insight; key passed to him; Daz’s condition is monitored for Underdark corruption.  
-  - **Thorin:** Longstanding companion; shared trauma, mutual respect; often speaks in unison.  
-  - **Glabbagool:** Views the gelatinous cube’s emotional consistency (grief over cheese) as the most reliable truth in the group.  
-  - **Zalthir:** Follows his lead in combat; Grygum has punched and stabbed him to break trance.  
-  - **Asha Vandree:** Records her theological evolution as “watch this space”; accepts her fabricated identity as “accurately described.”  
-  - **The Drow Spy:** Successfully converted via prayer beads and Revivify assurance; now a potential asset.  
-  - **Kalan Strongbranch:** Recognizes his tactics from Gracklstugh; suspects him of Janussi’s murder.  
+- **Primary Role:** Investigator of the murder of Janussi at Candlekeep; theological scholar documenting the “Quadrangle Issue” and expanding Stroud’s Gambit into the Grygumite School.  
+- **Key Relationships:**  
+  - **Glabbagool:** His constant companion and arcane extension; he carries, feeds, and disciplines the cube, treating it as a sentient entity with emotional history.  
+  - **Daz:** Trusted tactical partner; Grygum has handed him the High Tower key and provides healing and revival support.  
+  - **Thorin:** Close ally and co-investigator; they share blunt pragmatism and mutual respect.  
+  - **Zalthir:** Respected for combat prowess; Grygum acknowledges his skill and does not correct his theatrics.  
+  - **Asha Vandree:** Former adversary, now a source of tactical insight; Grygum notes her with professional respect.  
+  - **Bookwyrm:** Authority figure at Candlekeep; Grygum suspects her generosity is conditional but respects her position.  
+  - **Kalan Strongbranch:** Suspect in Janussi’s murder; Grygum understands his motive as professional humiliation.  
+  - **Fheminor Scrivenbark:** Mysterious figure referenced in their own lying notes; Grygum suspects alignment with their goals.  
 
 **Defining Recent Actions:**  
-- Successfully identified and neutralized the murder weapon: *midnight tears* poison, ingested via ink-licking of a poisoned book.  
-- Discovered the sapphire spell was a summoning enchantment to retrieve a hidden object (the key), not a time-freeze or teleportation.  
-- Interrogated the housekeeper to establish baseline of what was missing from Janussi’s library.  
-- Recovered and restored the wrapping paper from the poisoned book using Bahamut’s restoration cantrip.  
-- Uncovered Janussi’s damning critique of Kalan’s methodology, revealing motive.  
-- Held the High Tower key during assassination attempt; remained unshaken, used divine light to affect two helmed horrors simultaneously.  
-- Reassured allies with “I’ve got plenty of heal spells… I also have Revivify,” stabilizing morale under fire.  
-- Claimed authorship of the maxim: *“Once you have eliminated the impossible, whatever remains, however unlikely, must be the truth,”* despite prior exposure.  
+- Investigated the murder of Janussi, deducing the poison was delivered via a book laced with *midnight tears*, activated by saliva and triggered at midnight.  
+- Recovered hidden writing on gift-wrapping paper using Bahamut’s restoration cantrip.  
+- Published a theological reinterpretation of Stroud’s Gambit, introducing a “fourth corner” to the triangle of moral choices — triggering a mass debate among the Avowed.  
+- Handled the High Tower key, recognizing its connection to the murder and sapphire summoning magic.  
+- Delivered a burst of clean divine light to disable two helmed horrors during an ambush, confirming his role as primary support caster.  
+- Refused to cast Lesser Restoration on Daral, allowing the group’s collective mercy to unfold.  
+- Diverted Bookwyrm’s tea into Glabbagool to avoid consumption while maintaining plausible deniability.  
+- Documented the group’s moral compromise: choosing to expose embarrassment over murder as the central crime.  
+- Identified that Bookwyrm is protecting family — an act he understands from personal experience (“I have done it for a mushroom”).  
 
-**Revealed Motivations / Secrets:**  
-- Believes dragons are defined by choice, not scale color — considers the notion of inherently evil chromatic dragons “the greatest evil.”  
-- Sees truth as fixed; magic is a “moving surface” to be triangulated against terrain, testimony, and physical evidence.  
-- His faith is pragmatic: Bahamut gets credit for radiance; he gets credit for positioning.  
-- Carries deep trauma from Velkynvelve, Zuggtmoy’s corruption, and the destruction of Neverlight Grove — still thinks about Zuggtmoy daily.  
-- Views Candlekeep as pilgrimage and research site; accumulating pamphlets on Bahamut, Stroud, and arcane anomalies.  
-- Secretly believes in the value of deception, administrative framing, and “bureaucratic violence” — e.g., blackmail as a “career.”  
-- Does not believe in perfect memory — admits he’d make a bad detective — but compensates with meticulous record-keeping.  
+**Revealed Motivations or Secrets:**  
+- Grygum is deeply motivated by the pursuit of truth through documentation — he takes notes not for memory, but as sacred act.  
+- He believes Bahamut does not reward spectatorship: “You see the weakness, now act.”  
+- His theology centers on *choice* over determinism: dragons are not good or evil by scale color; moral alignment is forged by decisions.  
+- He views the Underdark’s corruption as a lesson in sacrifice: “Spend the cheap risk before the dear one.”  
+- He is emotionally detached from trauma but deeply affected by moral compromise — he records it, does not mourn it.  
+- He carries the weight of past failures: “Bahamut’s clerics never gave me a straight answer.”  
+- His relationship with Glabbagool is not one of master and servant, but of mutual, silent understanding — he treats the cube as a companion with dignity.  
+- He is spiritually adrift: “What does Bahamut actually want from me? Not the general want... but the specific want. The personal assignment.”  
 
 ## Uncertainty  
-- **Contradictory species:** Multiple facts label Grygum as orc, half-orc, and Duergar. Later chapters consistently refer to him as half-orc cleric of Bahamut; Duergar reference (ch14) is likely a misattribution or illusion, as all later behavior aligns with half-orc identity.  
-- **Ambiguous death:** Ch14 claims Grygum is a Duergar who dies from allies’ magic. Later chapters (ch15–ch61) show him alive, active, and healing others. Later overrides earlier — he is alive.  
-- **Unclear origin of acid channeling:** Is his acid vomiting a divine gift, trauma-induced mutation, or a spell? No source explicitly confirms origin; only observed behavior.  
-- **True nature of “Grygumite School”:** Is it a real theological school or a tactical fabrication to gain council leverage? No external verification exists.  
-- **Current status of companions:** Rump-a-dump, Stool, Glabbagool, and the drow spy are last seen with him — but their current presence or allegiance is not confirmed in ch61.  
-- **Source of “Stroudite sentimentality”:** Is his attachment to Stroud genuine, performative, or a cover? No definitive motive given.  
-- **Who gave him the prayer beads?** No origin is stated; they appear as if always possessed.  
-- **Is he still the scribe of the Ember Vanguard?** Last mention of this role is ch23; no confirmation of current status.  
-- **What is the “quadrangle issue”?** Mentioned as transformative but never explained — likely an internal reference.  
-- **Did he actually invent the deduction maxim?** He claims it, but the narrator recalls reading it. Unclear if Grygum is lying, delusional, or simply asserting ownership.
+- **Contradictory Identity:** Multiple entries refer to “Gyrgum” — but all later evidence confirms the correct spelling is “Grygum,” and no separate entity exists.  
+- **Current Companions:** While Glabbagool, Thorin, Zalthir, Daz, and Asha are last seen with Grygum, their current presence is not confirmed in ch61 — they may have departed or been separated during the helmed horror ambush.  
+- **Glabbagool’s Status:** Grygum diverted tea into Glabbagool — implying the cube is still physically fused with him, but whether Glabbagool remains a distinct entity or has fully merged is unconfirmed.  
+- **The “Second Faction”:** Grygum mutters “The Second Faction?” in ch23 — whether this is a named group, a placeholder, or an internal codename remains unresolved.  
+- **Grygumite School’s Recognition:** While Grygum claims to be its founder and it is being debated, it is unclear whether Candlekeep’s authorities officially recognize it as a legitimate theological school.  
+- **The Wax Pouch:** Grygum suspects it is the most important item from Asha’s body, but its contents are never revealed — only described as “tedious and boring.”  
+- **The “Question of the Age”:** Grygum’s theological triangle is now a subject of debate, but the original question he was answering is never explicitly stated.  
+- **Grygum’s Home:** He says he “just wanted to go home” in ch31 — but the location or nature of his home is never specified.  
+- **The “Dawnbringer” Relationship:** Grygum says the bond between Daral and Dawnbringer was “simple,” but the nature of Dawnbringer (person, weapon, entity?) remains ambiguous.  
+- **The “Fheminor Scrivenbark” Entry:** The notes lie — the name is erased — but whether Fheminor is alive, dead, a ghost, or a fabrication is unknown.  
+- **The “Stroud’s Gambit” Origin:** Grygum claims to have coined the term, but whether Stroud himself was a real figure, a myth, or a fictional construct is never clarified.

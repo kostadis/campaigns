@@ -7,14 +7,11 @@ chapters: 36-43
 
 ### Diggermattock Hall
 
-Diggermattock Hall is a well-lit cavern in Blingdenstone that serves as the administrative and community hub of Clan Diggermattock. It is occupied by approximately two dozen Svirfneblin engaged in administrative tasks, with stone desks on a raised dais where Chief Dorbo Diggermattock and Quartermaster Senni Diggermattock oversee operations. Stone tables covered in maps and papers line the hall, and Svirfneblin move briskly with messages and huddle in discussion.
+Diggermattock Hall is a well-lit cavern in Blingdenstone that serves as the seat of leadership for Clan Diggermattock and the central administrative and community hub of the deep gnome settlement. It contains stone desks on a raised dais where Chief Dorbo Diggermattock and Quartermaster Senni Diggermattock oversee operations, surrounded by stone tables covered in maps and papers. Twenty-four Svirfneblin are engaged in administrative tasks within the hall.
 
-The hall is the central location for community deliberations, where pressing threats such as ooze infestations and the Pudding King’s acid attacks are debated. It is where the party was formally welcomed, assigned quests—including retrieving EntemochBoon to enable safe Earth Elemental summoning—and later rewarded with critical intelligence and the promise of a Stone of Elemental Control as compensation. The hall also served as the base where Naomi Pathshutter delivered her findings and where the party prepared for their next journey.
+The hall is the primary venue for community meetings, where pressing threats such as ooze infestations, the Pudding King, and rock blight caverns are debated and addressed. It was here that the party was formally assigned quests—including retrieving EntemochBoon to enable safe summoning of Earth Elementals—with the Stone of Elemental Control offered as reward. The hall also functions as a base for intelligence sharing, where Naomi Pathshutter delivered her findings, and as a site of reward and welcome, where the party was warmly received and commended by Gurnik Tapfinger after their missions.
 
-Chief Dorbo Diggermattock remains actively present, voicing concern over the existential threat posed by acid-dissolving puddings and their impact on troop readiness.
+Chief Dorbo Diggermattock remains actively engaged in leadership, expressing urgent concern over acid attacks from puddings that threaten to destroy weapons and kill troops.
 
 ## Uncertainty
-- The exact number of Svirfneblin currently present is stated as “two dozen” in multiple early chapters but not confirmed in ch43; it may have changed due to deployment or casualties.
-- While Gurnik Tapfinger is noted as welcoming the party in ch43, no prior facts establish their role or presence in the hall—unclear if they are a permanent resident or visiting dignitary.
-- The current physical condition of the stone desks, maps, or papers is not confirmed since ch36; no update on damage, relocation, or updates to the materials.
-- It is unclear whether Quartermaster Senni Diggermattock is still actively present at the hall, as they are not mentioned in ch43 despite being central in earlier chapters.
+None.

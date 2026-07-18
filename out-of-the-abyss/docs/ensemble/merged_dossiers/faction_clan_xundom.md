@@ -1,8 +1,3 @@
-<!-- source: faction_clan_xundom.md -->
-
-
----
-
 ---
 name: Clan Xundom
 type: faction
@@ -14,23 +9,20 @@ chapters: 19-19
 
 - **Current status:** Active faction  
 - **Allegiance:** Committed to supporting the Deepking if war breaks out  
-- **Current goal:** To back the Deepking in the event of open conflict  
-- **Recent action:** Publicly declared conditional allegiance to the Deepking  
+- **Current assignment / role:** Loyalist contingent in potential conflict with the Deepking’s enemies  
+- **Recent action:** Publicly pledged allegiance to the Deepking in the event of war  
 
 ## Uncertainty
 - The extent of Clan Xundom’s military readiness or current leadership is unknown.  
-- Whether "if war breaks out" has already been triggered is not stated.  
-- No information on relationships with other factions beyond this conditional stance.
+- Whether "if war breaks out" is a conditional promise or a foregone conclusion is not clarified.  
+- No information on current location, members, or interactions with other factions beyond this single pledge.
 
 ---
 
 <!-- source: location_clan_xundom.md -->
 
-
 ---
-
----
-name: clan xundom
+name: Clan Xundom
 type: location
 n_facts: 1
 chapters: 19-19
@@ -38,14 +30,13 @@ chapters: 19-19
 
 ### Clan Xundom
 
-- **Current state:** Active and aligned with the Deepking in the event of war.
-- **Location:** Not specified; known to be a clan with political influence in the region where the Deepking holds authority.
-- **Allegiance/faction:** Aligned with the Deepking (conditional on war breaking out).
-- **Current possessions / notable items, spells, feats, wounds:** None specified.
-- **Current assignment / role and key relationships:** No specific role or individuals named; known to be a faction that will back the Deepking if conflict erupts.
-- **Defining recent actions:** Publicly declared conditional support for the Deepking in the event of war.
+- **Current state:** Active, allied with the Deepking in the event of war.
+- **Location:** Unspecified, but operates as a clan entity within the Deepking’s sphere of influence.
+- **Allegiance/faction:** Loyal to the Deepking contingent on the outbreak of war.
+- **Current assignment / role:** Preparing to support the Deepking militarily or politically should war commence.
+- **Defining recent action:** Publicly declared conditional allegiance to the Deepking.
 
 ## Uncertainty
-- Exact geographic location of Clan Xundom is unspecified.
-- Whether war has broken out (and thus whether their support is currently active) is unknown.
-- No details on leadership, members, or material resources.
+- Exact geographic location of Clan Xundom is unknown.
+- Whether war has broken out (and thus whether their allegiance is currently active) is not confirmed.
+- No details on leadership, size, or resources of the clan.

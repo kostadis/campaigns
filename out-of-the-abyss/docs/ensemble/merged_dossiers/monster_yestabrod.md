@@ -1,8 +1,3 @@
-<!-- source: monster_yestabrod.md -->
-
-
----
-
 ---
 name: Yestabrod
 type: monster
@@ -13,21 +8,20 @@ chapters: 33-33
 ### Yestabrod
 
 **Current status:** Deceased, animated  
-**Current location:** Unknown (but active in Zuggtmoy’s ritual space)  
+**Current location:** Unknown (last observed performing as officiant in mock weddings)  
 **Allegiance/faction:** Servant of Zuggtmoy  
-**Current possessions / notable items, spells, feats, wounds:** None; corpse is decomposing but moves with unnatural precision  
-**Current assignment / role:** Officiant in mock weddings, animated by three spore servants who carry and control his corpse  
-**Defining recent actions:** Performs the ritual role of priest in mock weddings under Zuggtmoy’s command, his body manipulated like a puppet by spore servants  
+**Current possessions / notable items, spells, feats, wounds:** None; corpse in advanced decomposition, yet moving with unnatural precision  
+**Current assignment / role:** Officiant in mock weddings, animated and puppeteered by three spore servants  
+**Defining recent actions:** Animated corpse is used to perform ritual wedding ceremonies under Zuggtmoy’s direction, carried and controlled by three spore servants  
 
 ## Uncertainty
-None.
+- Exact current location is not specified; only context of role in mock weddings is given.  
+- Whether the three spore servants are still actively controlling the corpse at this exact moment is implied but not confirmed as ongoing.  
+- No distinction is made between the two facts — they are identical in content, so no contradiction, but no new detail to refine current state beyond what’s stated.
 
 ---
 
 <!-- source: npc_yestabrod.md -->
-
-
----
 
 ---
 name: Yestabrod
@@ -39,13 +33,14 @@ chapters: 33-33
 ### Yestabrod
 
 - **Current status:** Dead  
-- **Current location:** At the mock wedding site (implied by context of spore servants performing the ceremony)  
-- **Allegiance/faction:** None (former priest; now an animated corpse under control of spore servants)  
-- **Current possessions / notable items, spells, feats, wounds:** None (corpse, no indication of retained items or abilities)  
-- **Current assignment / role and key relationships:** Animated corpse being puppeteered by three spore servants to serve as officiant in a mock wedding; no living associates currently present or acknowledged  
-- **Defining recent actions:** Corpse is being manipulated by spore servants to perform priestly duties during a mock wedding ceremony  
+- **Current location:** At the mock wedding site (presumed in the garden where spore servants operate)  
+- **Allegiance/faction:** None (formerly a priest; now an animated corpse under the control of spore servants)  
+- **Current possessions / notable items, spells, feats, wounds:** None noted; corpse is intact but inert  
+- **Current assignment / role and key relationships:** Animated corpse used as a puppet by three spore servants to impersonate a priest during a mock wedding; no active will or agency  
+- **Defining recent actions:** Corpse is being manipulated by spore servants to perform the rites of a wedding ceremony  
 
 ## Uncertainty
-- The exact location of the mock wedding site is not named.  
-- It is unclear whether the spore servants are acting under independent will or the command of an unseen entity.  
-- No information is given about how or when Yestabrod died, or whether his soul or consciousness persists in any form.
+- The exact location of the corpse beyond “the garden” is unspecified.  
+- The origin or controller of the spore servants is not named — only that they move the corpse.  
+- Whether Yestabrod’s body is still physically present or has been otherwise altered (e.g., decayed, transformed) is unclear beyond being carried as a corpse.  
+- No information on whether the mock wedding has concluded or if the corpse remains in this state beyond the event.

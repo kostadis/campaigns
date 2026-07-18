@@ -1,142 +1,149 @@
 [
   {
-    "type": "location",
-    "subject": "third-story apartment",
-    "fact": "The third-story apartment in Janussi's chambers has an open door and was unvisited.",
-    "source_quote": "There's something listed as a third-story apartment with an open door we haven't gone into.",
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced as the speaker who initiated the investigation into Janussi's chambers and recognized the significance of the wrapping paper trail from the poisoned book.",
+    "source_quote": "We had three problems and roughly the same number of people willing to go chase them. The third-story apartment in Janussi's chambers was still unvisited. We knew the wrapping paper from the poisoned book had been taken there, and we hadn't gone back.",
     "quote_verified": true
   },
   {
-    "type": "object",
-    "subject": "wrapping paper from the poisoned book",
-    "fact": "The wrapping paper that had wrapped the poisoned book had been taken to the third-story apartment.",
-    "source_quote": "We knew the wrapping paper from the poisoned book had been taken there.",
+    "type": "location",
+    "subject": "third-story apartment in Janussi's chambers",
+    "fact": "The third-story apartment in Janussi's chambers contained a note written by Janussi that dismissed Kalan Strongbranch's proposal as solipsism and revealed his contempt for criminal investigation methodologies.",
+    "source_quote": "There was a note. 'Oh, a note! I read it.' The opening line landed like a thrown stone. 'Oh boy, this starts out with some real academic insult.' ... Janussi had reviewed Kalan Strongbranch's proposal for new criminal investigation methodologies, found it to be solipsism, and had blocked it.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch is the First Reader whose criminal investigation methodology, the Threefold Proof, was formally rejected by Janussi and later used by Kalan as the basis for his own investigative authority.",
+    "source_quote": "Janussi had reviewed Kalan Strongbranch's proposal for new criminal investigation methodologies, found it to be solipsism, and had blocked it. ... Kalan's entire proposal for dealing with crime, the Threefold Proof, the methodologies, the framework we'd been handed as a legitimate investigation tool, had been blocked by the man who was now dead.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Alkrist",
-    "fact": "Alkrist is dragonborn and had burnt something at the feast.",
+    "fact": "Alkrist is a dragonborn who allegedly burned something at the feast, an action referenced as a critical point of inquiry for the investigation.",
     "source_quote": "When you talk to Alkrist, there's something in the list about what Alkrist burned at the feast \u2014 you should ask about that.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Kalan Strongbranch",
-    "fact": "Kalan Strongbranch is the First Reader who developed the Threefold Proof methodology, which Janussi dismissed as solipsism.",
-    "source_quote": "Kalan Strongbranch. The First Reader. The one with the truth-seeking spell that had already anchored the investigation once.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
     "subject": "Sylvira",
-    "fact": "Sylvira is framed for Janussi\u2019s murder and is dying slowly under poison\u2019s effect.",
-    "source_quote": "Sylvira was framed for the murder and dying slowly under the poison's effect.",
-    "quote_verified": true
+    "fact": "Sylvira is a tiefling researcher framed for Janussi's murder, suffering from a fevered illness while under investigation, and revealed she was the target of prejudice due to her infernal research and relationship with Janussi.",
+    "source_quote": "Sylvira was framed for the murder and dying slowly under the poison's effect. ... Her area of research was the infernal domains, which compounded the prejudice. The relationship with Janussi had probably offended someone else on top of that.",
+    "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Daz",
-    "fact": "Daz is a drow investigator chosen to interview Sylvira due to his skill in eliciting testimony.",
-    "source_quote": "Daz was the natural choice for it: he knew how to make someone talk, and he was drow, which was not irrelevant given what we knew about the Menzoberranzan thread running under all of this.",
-    "quote_verified": true
+    "fact": "Daz is the drow investigator who conducted the interview with Sylvira, recognized her framing as deliberate, and elicited her testimony about suspects including Kazryn Nyantani and Daral Yashenti.",
+    "source_quote": "I said it without ceremony. I had questions that needed her full cognitive engagement. ... I asked whether she had any ideas about who might want to frame her... Daral Yashenti came up first... Then: Kazryn Nyantani.",
+    "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum is investigating the third-story apartment and discovered Janussi\u2019s critical review of Kalan\u2019s proposal.",
-    "source_quote": "Grygum headed upstairs for the physical evidence.",
+    "fact": "Grygum is the investigator who ascended to the third-story apartment in Janussi's chambers, discovered Janussi's note, and identified its devastating impact on Kalan Strongbranch's professional credibility.",
+    "source_quote": "I poked around... There was a note. 'Oh, a note! I read it.' ... I had to read that sentence twice. ... That doesn't make him a murderer. But it means he built his whole methodology in the wreckage of the man who told him he was wrong.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Fembris",
-    "fact": "Fembris is hunting Kalan Strongbranch to enable the Alkrist interview with binding evidence.",
-    "source_quote": "I'm gonna have to hunt Kalan down,\" he said, the energy of a man who locates missing First Readers as a matter of routine.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "Janussi\u2019s note",
-    "fact": "Janussi\u2019s note dismissed Kalan\u2019s Threefold Proof as solipsism, writing that crime investigation was an indulgence for Kalan\u2019s personal entertainment.",
-    "source_quote": "Janussi had reviewed Kalan Strongbranch's proposal for new criminal investigation methodologies, found it to be solipsism, and had blocked it. He wasn't interested... in creating all these rules and procedures so that Kalan could go detect a murder mystery.",
+    "fact": "Fembris is the investigator who pursued Kalan Strongbranch, recognizing his absence as critical to resolving the Alkrist interview and the broader investigation.",
+    "source_quote": "I'm gonna have to hunt Kalan down,\" he said, the energy of a man who locates missing First Readers as a matter of routine. ... \"Let me go, let me go.\" He paused at the threshold... \"At some point I'll return with Kalan.",
     "quote_verified": false
   },
   {
     "type": "location",
-    "subject": "Sylvira\u2019s quarters",
-    "fact": "Sylvira\u2019s quarters contain a faux fireplace blazing with full spell force, yet she shudders from an unrelenting cold.",
-    "source_quote": "A faux fireplace blazed along one wall, throwing out heat with the single-mindedness of a spell running at full force, yet Sylvira kept shuddering anyway.",
+    "subject": "Sylvira's quarters",
+    "fact": "Sylvira's quarters contained a magically operated faux fireplace, a familiar named Jezebel, and signs of forced endurance despite severe illness, indicating her active resistance to incapacitation.",
+    "source_quote": "A mage hand, which was interesting: she was bedridden and shuddering under a fever, and still running a familiar and a mage hand from across the room. ... A faux fireplace blazed along one wall, throwing out heat with the single-mindedness of a spell running at full force, yet Sylvira kept shuddering anyway.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Kazryn Nyantani",
-    "fact": "Kazryn Nyantani was Janussi\u2019s former lover and resented Sylvira for replacing her.",
-    "source_quote": "That bitter old hag... who always resented Janussi for ditching her in favor of me.",
+    "fact": "Kazryn Nyantani is a former romantic partner of Janussi who resented Sylvira for replacing her, and is identified by Sylvira as a suspect with motive rooted in academic jealousy.",
+    "source_quote": "That bitter old hag... who always resented Janussi for ditching her in favor of me. ... This was my fault.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Daral Yashenti",
-    "fact": "Daral Yashenti is a drunk poet who sold his worthless poetry to fund a new library and was dismissed by Sylvira as incapable of the murder\u2019s planning.",
-    "source_quote": "A drunk who is bitter... too much of a drunk to pull off something like that.",
+    "fact": "Daral Yashenti is a drunkard poet who sells his worthless poetry to fund a new library and is dismissed by Sylvira as too inept to have orchestrated Janussi's murder.",
+    "source_quote": "Daral Yashenti came up first: 'a drunk who is bitter,' having to sell off his worthless poetry to fund a new library. She dismissed him herself before I could. 'He's too much of a drunk to pull off something like that.'",
     "quote_verified": false
   },
   {
-    "type": "event",
-    "subject": "the feast burning",
-    "fact": "Alkrist burnt something at the feast \u2014 an act referenced in the investigation notes as potentially binding evidence.",
-    "source_quote": "He apparently burnt something at the feast,\" came the confirmation. \"That's what it says.",
-    "quote_verified": true
+    "type": "object",
+    "subject": "wrapping paper from the poisoned book",
+    "fact": "The wrapping paper from the poisoned book was transported to the third-story apartment in Janussi's chambers and remained uncollected, serving as the primary physical trail leading to the discovery of Janussi's note.",
+    "source_quote": "We knew the wrapping paper from the poisoned book had been taken there, and we hadn't gone back. ... There was still the matter of the wrapping paper. The paper that had wrapped the poisoned book had been brought here, and nobody had retrieved it.",
+    "quote_verified": false
   },
   {
-    "type": "event",
-    "subject": "Sylvira\u2019s final words with Janussi",
-    "fact": "Sylvira\u2019s final words with Janussi were spoken during an argument, moments before his death.",
-    "source_quote": "Those were my last words with him.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Kalan\u2019s proposal rejection",
-    "fact": "Kalan\u2019s Threefold Proof methodology was formally blocked by Janussi, derailing his career and possibly motivating his actions.",
-    "source_quote": "All of it. Dismissed as solipsism. Shelved.",
-    "quote_verified": true
+    "type": "object",
+    "subject": "note from Janussi",
+    "fact": "The note from Janussi, found in the third-story apartment, contained a scholarly dismissal of Kalan Strongbranch's criminal investigation methodology as solipsism and revealed Janussi's contempt for the institutionalization of detective work.",
+    "source_quote": "The opening line landed like a thrown stone. 'Oh boy, this starts out with some real academic insult.' ... Janussi had reviewed Kalan Strongbranch's proposal... found it to be solipsism... as though the investigation of crime were an indulgence, a hobby, a *conceit* Kalan was pursuing for his own entertainment.",
+    "quote_verified": false
   },
   {
     "type": "location",
     "subject": "Janussi's chambers",
-    "fact": "Janussi's chambers contain a third-story apartment that holds evidence of his private scholarly habits and critical notes.",
-    "source_quote": "Janussi's chambers. I'd been in the lower floors. We all had. But the third story had sat there like an unopened file.",
+    "fact": "Janussi's chambers contained a third-story apartment with unexplored private arrangements, including a note that revealed his intellectual hostility toward Kalan Strongbranch and the institutional rejection of his investigative framework.",
+    "source_quote": "The third-story apartment in Janussi's chambers was still unvisited. ... I poked around... There was a note. ... Janussi had reviewed Kalan Strongbranch's proposal... and had blocked it.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Thorin",
-    "fact": "Thorin is absent from Sylvira\u2019s interview, preparing to confront Alkrist.",
+    "fact": "Thorin is referenced as absent from Sylvira's interview, presumably preparing to confront Alkrist, and thus not present to provide emotional support during her testimony.",
     "source_quote": "Thorin wasn't in the room to offer the easy sympathy. He was off somewhere getting ready to make Alkrist very uncomfortable.",
     "quote_verified": true
   },
   {
-    "type": "npc",
-    "subject": "Zalthir",
-    "fact": "Zalthir is referenced as having no patience for unaccounted time, and would have closed the gap Sylvira left in her alibi.",
-    "source_quote": "It was the kind of gap Zalthir would have wanted closed before moving on.",
+    "type": "object",
+    "subject": "Threefold Proof",
+    "fact": "The Threefold Proof is Kalan Strongbranch's criminal investigation methodology, formally rejected by Janussi as solipsism, yet still used by Kalan as the operational foundation for the current investigation.",
+    "source_quote": "Kalan's entire proposal for dealing with crime, the Threefold Proof, the methodologies, the framework we'd been handed as a legitimate investigation tool, had been blocked by the man who was now dead.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "the interview with Sylvira",
-    "fact": "Daz interviewed Sylvira, who admitted to being framed and named Kazryn Nyantani as a suspect, while revealing her infernal heritage and the prejudice she faced.",
-    "source_quote": "She started thinking aloud about suspects... 'This was my fault.'... 'Being the convenient target isn't exclusive to any one city.'",
+    "type": "npc",
+    "subject": "Jezebel",
+    "fact": "Jezebel is Sylvira's familiar, which actively organizes her chamber's seating and performs tasks despite her incapacitated state, indicating her continued agency and control over her environment.",
+    "source_quote": "'Jezebel! Organize the chamber's seats in front of me!' The familiar moved with an efficiency that told me this was not the first time Sylvira had directed operations from a sickbed.",
     "quote_verified": false
   },
   {
-    "type": "event",
-    "subject": "Grygum\u2019s discovery of Janussi\u2019s note",
-    "fact": "Grygum discovered Janussi\u2019s note, which revealed that Janussi had not only rejected Kalan\u2019s methodology but had characterized it as a vanity project.",
-    "source_quote": "Janussi hadn't just rejected the proposal. He'd characterized Kalan's entire framework as a vanity project... as though the investigation of crime were an indulgence, a hobby, a *conceit* Kalan was pursuing for his own entertainment.",
+    "type": "npc",
+    "subject": "Heslin",
+    "fact": "Brother Heslin is one of the two possible instructors who taught the cohort the art of the urgent errand, though the speaker is uncertain whether it was Heslin or Varath.",
+    "source_quote": "Brother Heslin, or possibly Brother Varath, I'm genuinely uncertain which, had devoted an entire season to teaching our cohort the art of the urgent errand, the clean dispatch.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Varath",
+    "fact": "Brother Varath is one of the two possible instructors who taught the cohort the art of the urgent errand, though the speaker is uncertain whether it was Heslin or Varath.",
+    "source_quote": "Brother Heslin, or possibly Brother Varath, I'm genuinely uncertain which, had devoted an entire season to teaching our cohort the art of the urgent errand, the clean dispatch.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a drow investigator who understands the Menzoberranzan thread in the investigation and uses his cultural awareness to navigate Sylvira\u2019s suspicions and extract truthful testimony.",
+    "source_quote": "I had recently come up from the Underdark... Born and raised in the Overbright... I'm drow, which was not irrelevant given what we knew about the Menzoberranzan thread running under all of this.",
     "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is the investigator who failed to flag the feast-burning detail about Alkrist, but later recognized Grygum\u2019s insight as a critical missed observation.",
+    "source_quote": "I hadn't flagged that one. I had been working through the zone-of-truth timing, the dragonborn opening, when Kalan would arrive. The feast detail had been sitting there, unflagged. Grygum had read it.",
+    "quote_verified": true
   }
 ]

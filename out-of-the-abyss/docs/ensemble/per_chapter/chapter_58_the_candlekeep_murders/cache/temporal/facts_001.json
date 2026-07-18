@@ -2,1219 +2,134 @@
   {
     "type": "date",
     "subject": "session date",
-    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
-    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "An hour passes between two events in the session.",
-    "source_quote": "An hour later",
+    "fact": "The events occur in the context of a murder investigation at Candlekeep, with no explicit in-world calendar date provided.",
+    "source_quote": "",
     "quote_verified": false
   },
   {
     "type": "monster",
-    "subject": "chasme count",
-    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
-    "source_quote": "four chasme and two vrock",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "travel to Sloobludop",
-    "fact": "Sloobludop is approximately eight days away via the Darklake.",
-    "source_quote": "the town of Sloopdopblop is just eight days away",
+    "subject": "drow soldiers count",
+    "fact": "No drow soldiers or similar creatures are mentioned in the text.",
+    "source_quote": "",
     "quote_verified": false
   },
   {
     "type": "location",
-    "subject": "Velkynvelve elevation",
-    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
-    "source_quote": "Drow outpost was 100' in the sky",
-    "quote_verified": false
+    "subject": "Candlekeep library layout",
+    "fact": "Candlekeep is described as very easy to get lost in.",
+    "source_quote": "The library is very easy to get lost in.",
+    "quote_verified": true
   },
   {
-    "type": "object",
-    "subject": "silver candlestick value",
-    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
-    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "session date",
-    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
-    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "An hour passes between two events in the session.",
-    "source_quote": "An hour later",
-    "quote_verified": false
-  },
-  {
-    "type": "monster",
-    "subject": "chasme count",
-    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
-    "source_quote": "four chasme and two vrock",
-    "quote_verified": false
+    "type": "npc",
+    "subject": "number of investigators",
+    "fact": "There are four investigators: Daz, Grygum, Thorin, and Zalthir.",
+    "source_quote": "four, five, seven, eight, ten of us",
+    "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "travel to Sloobludop",
-    "fact": "Sloobludop is approximately eight days away via the Darklake.",
-    "source_quote": "the town of Sloopdopblop is just eight days away",
+    "subject": "sequence of investigation steps",
+    "fact": "The group decides to start together and split later when two doors open at once.",
+    "source_quote": "we'd start together and peel off when two doors opened at once",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "poison sample value",
+    "fact": "A sample of poison was taken from the victim's fingers and lip, but no monetary value is assigned.",
+    "source_quote": "a sample of the stuff \u2014 off his fingers, and his lip too",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "impersonation thread",
+    "fact": "Someone impersonated Sylvira Savikas, walking the halls at night with a lantern.",
+    "source_quote": "Someone impersonating her",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "missing book fragment thread",
+    "fact": "A missing part of a book, possibly from a hundred years ago, is noted as suspicious and potentially related.",
+    "source_quote": "There's a missing part of, like, a book that should not be missing\u2026 that could have happened a hundred years ago or something",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "tower key thread",
+    "fact": "Kalan Strongbranch may still possess his other tower key, a key thread to pursue.",
+    "source_quote": "I'm more curious if he still has his other tower key",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "time of Fheminor's beating",
+    "fact": "Fheminor Scrivenbark was beaten up at eight in the morning, which is a key timing detail.",
+    "source_quote": "find out when the man got beaten up, because beat-up-at-eight tells a different story",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "sequence of council meeting",
+    "fact": "The Council of the Great Readers dispersed before the investigators arrived, and the body was taken to the Shrine of Oghma after the meeting.",
+    "source_quote": "The Council of the Great Readers had dispersed. We came into the chapter house to find her already in conference with someone new... The body went to be purified.",
     "quote_verified": false
   },
   {
     "type": "location",
-    "subject": "Velkynvelve elevation",
-    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
-    "source_quote": "Drow outpost was 100' in the sky",
-    "quote_verified": false
+    "subject": "Deneir's Sanctum",
+    "fact": "Deneir's Sanctum is offered as the investigators' office, a shrine and library dedicated to the art of writing.",
+    "source_quote": "Deneir's Sanctum, a little shrine and library given over to the art of writing",
+    "quote_verified": true
   },
   {
     "type": "object",
-    "subject": "silver candlestick value",
-    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
-    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "session date",
-    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
-    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "An hour passes between two events in the session.",
-    "source_quote": "An hour later",
-    "quote_verified": false
-  },
-  {
-    "type": "monster",
-    "subject": "chasme count",
-    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
-    "source_quote": "four chasme and two vrock",
-    "quote_verified": false
+    "subject": "lantern ownership",
+    "fact": "A lantern was carried by the impersonator of Sylvira Savikas during nighttime movements.",
+    "source_quote": "Sylvira \u2014 or somebody wearing her face \u2014 had been walking the halls in the dead of night with a lantern",
+    "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "travel to Sloobludop",
-    "fact": "Sloobludop is approximately eight days away via the Darklake.",
-    "source_quote": "the town of Sloopdopblop is just eight days away",
+    "subject": "sequence of witness interviews",
+    "fact": "Daz is assigned to interview Fheminor Scrivenbark first, as he has the least amount of time or talk.",
+    "source_quote": "Daz took Fheminor. 'I'm looking at the ones that have the least amount of time, or probably have the least amount to talk about'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "number of people at council meeting",
+    "fact": "At least seven individuals are named as present at the council meeting: A'lai Aivenmore, Fheminor Scrivenbark, Kazryn Nyantani, Alkrist, Bookwyrm, Daral, and Zalthir.",
+    "source_quote": "A'lai Aivenmore wanting a vote and new leadership. The dowdy halfling, Fheminor Scrivenbark, asking whether Janussi had named a successor. Kazryn Nyantani \u2014 slender, gray, those wrinkles around the eyes \u2014 cutting through with first you must find the murderer. The bronze dragonborn, Alkrist, formidable and furious... Bookwyrm trying to settle the room. And Daral not even in it",
     "quote_verified": false
   },
   {
     "type": "location",
-    "subject": "Velkynvelve elevation",
-    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
-    "source_quote": "Drow outpost was 100' in the sky",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "silver candlestick value",
-    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
-    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "session date",
-    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
-    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "An hour passes between two events in the session.",
-    "source_quote": "An hour later",
-    "quote_verified": false
-  },
-  {
-    "type": "monster",
-    "subject": "chasme count",
-    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
-    "source_quote": "four chasme and two vrock",
-    "quote_verified": false
+    "subject": "Shrine of Oghma",
+    "fact": "The body is taken to the Shrine of Oghma for purification.",
+    "source_quote": "take the body to the Shrine of Oghma for purification",
+    "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "travel to Sloobludop",
-    "fact": "Sloobludop is approximately eight days away via the Darklake.",
-    "source_quote": "the town of Sloopdopblop is just eight days away",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Velkynvelve elevation",
-    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
-    "source_quote": "Drow outpost was 100' in the sky",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "silver candlestick value",
-    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
-    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "session date",
-    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
-    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "An hour passes between two events in the session.",
-    "source_quote": "An hour later",
-    "quote_verified": false
-  },
-  {
-    "type": "monster",
-    "subject": "chasme count",
-    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
-    "source_quote": "four chasme and two vrock",
-    "quote_verified": false
+    "subject": "duration of investigation constraint",
+    "fact": "The investigators are told they will only get to chase a handful of threads before the investigation moves on without them.",
+    "source_quote": "the constraint landed \u2014 that we'd only get to chase a handful of threads before the thing moved on without us",
+    "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "travel to Sloobludop",
-    "fact": "Sloobludop is approximately eight days away via the Darklake.",
-    "source_quote": "the town of Sloopdopblop is just eight days away",
+    "subject": "sequence of suspect elimination",
+    "fact": "Daral and Sylvira are crossed off as suspects based on gut feeling, not evidence.",
+    "source_quote": "Daral, we crossed off \u2014 not by evidence, by gut... Sylvira, same logic, different reason",
     "quote_verified": false
   },
   {
-    "type": "location",
-    "subject": "Velkynvelve elevation",
-    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
-    "source_quote": "Drow outpost was 100' in the sky",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "silver candlestick value",
-    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
-    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "session date",
-    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
-    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "An hour passes between two events in the session.",
-    "source_quote": "An hour later",
-    "quote_verified": false
-  },
-  {
-    "type": "monster",
-    "subject": "chasme count",
-    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
-    "source_quote": "four chasme and two vrock",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "travel to Sloobludop",
-    "fact": "Sloobludop is approximately eight days away via the Darklake.",
-    "source_quote": "the town of Sloopdopblop is just eight days away",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Velkynvelve elevation",
-    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
-    "source_quote": "Drow outpost was 100' in the sky",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "silver candlestick value",
-    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
-    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "session date",
-    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
-    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "An hour passes between two events in the session.",
-    "source_quote": "An hour later",
-    "quote_verified": false
-  },
-  {
-    "type": "monster",
-    "subject": "chasme count",
-    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
-    "source_quote": "four chasme and two vrock",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "travel to Sloobludop",
-    "fact": "Sloobludop is approximately eight days away via the Darklake.",
-    "source_quote": "the town of Sloopdopblop is just eight days away",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Velkynvelve elevation",
-    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
-    "source_quote": "Drow outpost was 100' in the sky",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "silver candlestick value",
-    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
-    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "session date",
-    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
-    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "An hour passes between two events in the session.",
-    "source_quote": "An hour later",
-    "quote_verified": false
-  },
-  {
-    "type": "monster",
-    "subject": "chasme count",
-    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
-    "source_quote": "four chasme and two vrock",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "travel to Sloobludop",
-    "fact": "Sloobludop is approximately eight days away via the Darklake.",
-    "source_quote": "the town of Sloopdopblop is just eight days away",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Velkynvelve elevation",
-    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
-    "source_quote": "Drow outpost was 100' in the sky",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "silver candlestick value",
-    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
-    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "session date",
-    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
-    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "An hour passes between two events in the session.",
-    "source_quote": "An hour later",
-    "quote_verified": false
-  },
-  {
-    "type": "monster",
-    "subject": "chasme count",
-    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
-    "source_quote": "four chasme and two vrock",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "travel to Sloobludop",
-    "fact": "Sloobludop is approximately eight days away via the Darklake.",
-    "source_quote": "the town of Sloopdopblop is just eight days away",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Velkynvelve elevation",
-    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
-    "source_quote": "Drow outpost was 100' in the sky",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "silver candlestick value",
-    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
-    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "session date",
-    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
-    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "An hour passes between two events in the session.",
-    "source_quote": "An hour later",
-    "quote_verified": false
-  },
-  {
-    "type": "monster",
-    "subject": "chasme count",
-    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
-    "source_quote": "four chasme and two vrock",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "travel to Sloobludop",
-    "fact": "Sloobludop is approximately eight days away via the Darklake.",
-    "source_quote": "the town of Sloopdopblop is just eight days away",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Velkynvelve elevation",
-    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
-    "source_quote": "Drow outpost was 100' in the sky",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "silver candlestick value",
-    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
-    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "session date",
-    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
-    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "An hour passes between two events in the session.",
-    "source_quote": "An hour later",
-    "quote_verified": false
-  },
-  {
-    "type": "monster",
-    "subject": "chasme count",
-    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
-    "source_quote": "four chasme and two vrock",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "travel to Sloobludop",
-    "fact": "Sloobludop is approximately eight days away via the Darklake.",
-    "source_quote": "the town of Sloopdopblop is just eight days away",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Velkynvelve elevation",
-    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
-    "source_quote": "Drow outpost was 100' in the sky",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "silver candlestick value",
-    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
-    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "session date",
-    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
-    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "An hour passes between two events in the session.",
-    "source_quote": "An hour later",
-    "quote_verified": false
-  },
-  {
-    "type": "monster",
-    "subject": "chasme count",
-    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
-    "source_quote": "four chasme and two vrock",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "travel to Sloobludop",
-    "fact": "Sloobludop is approximately eight days away via the Darklake.",
-    "source_quote": "the town of Sloopdopblop is just eight days away",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Velkynvelve elevation",
-    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
-    "source_quote": "Drow outpost was 100' in the sky",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "silver candlestick value",
-    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
-    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "session date",
-    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
-    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "An hour passes between two events in the session.",
-    "source_quote": "An hour later",
-    "quote_verified": false
-  },
-  {
-    "type": "monster",
-    "subject": "chasme count",
-    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
-    "source_quote": "four chasme and two vrock",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "travel to Sloobludop",
-    "fact": "Sloobludop is approximately eight days away via the Darklake.",
-    "source_quote": "the town of Sloopdopblop is just eight days away",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Velkynvelve elevation",
-    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
-    "source_quote": "Drow outpost was 100' in the sky",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "silver candlestick value",
-    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
-    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "session date",
-    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
-    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "An hour passes between two events in the session.",
-    "source_quote": "An hour later",
-    "quote_verified": false
-  },
-  {
-    "type": "monster",
-    "subject": "chasme count",
-    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
-    "source_quote": "four chasme and two vrock",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "travel to Sloobludop",
-    "fact": "Sloobludop is approximately eight days away via the Darklake.",
-    "source_quote": "the town of Sloopdopblop is just eight days away",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Velkynvelve elevation",
-    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
-    "source_quote": "Drow outpost was 100' in the sky",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "silver candlestick value",
-    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
-    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "session date",
-    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
-    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "An hour passes between two events in the session.",
-    "source_quote": "An hour later",
-    "quote_verified": false
-  },
-  {
-    "type": "monster",
-    "subject": "chasme count",
-    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
-    "source_quote": "four chasme and two vrock",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "travel to Sloobludop",
-    "fact": "Sloobludop is approximately eight days away via the Darklake.",
-    "source_quote": "the town of Sloopdopblop is just eight days away",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Velkynvelve elevation",
-    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
-    "source_quote": "Drow outpost was 100' in the sky",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "silver candlestick value",
-    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
-    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "session date",
-    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
-    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "An hour passes between two events in the session.",
-    "source_quote": "An hour later",
-    "quote_verified": false
-  },
-  {
-    "type": "monster",
-    "subject": "chasme count",
-    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
-    "source_quote": "four chasme and two vrock",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "travel to Sloobludop",
-    "fact": "Sloobludop is approximately eight days away via the Darklake.",
-    "source_quote": "the town of Sloopdopblop is just eight days away",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Velkynvelve elevation",
-    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
-    "source_quote": "Drow outpost was 100' in the sky",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "silver candlestick value",
-    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
-    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "session date",
-    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
-    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "An hour passes between two events in the session.",
-    "source_quote": "An hour later",
-    "quote_verified": false
-  },
-  {
-    "type": "monster",
-    "subject": "chasme count",
-    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
-    "source_quote": "four chasme and two vrock",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "travel to Sloobludop",
-    "fact": "Sloobludop is approximately eight days away via the Darklake.",
-    "source_quote": "the town of Sloopdopblop is just eight days away",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Velkynvelve elevation",
-    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
-    "source_quote": "Drow outpost was 100' in the sky",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "silver candlestick value",
-    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
-    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "session date",
-    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
-    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "An hour passes between two events in the session.",
-    "source_quote": "An hour later",
-    "quote_verified": false
-  },
-  {
-    "type": "monster",
-    "subject": "chasme count",
-    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
-    "source_quote": "four chasme and two vrock",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "travel to Sloobludop",
-    "fact": "Sloobludop is approximately eight days away via the Darklake.",
-    "source_quote": "the town of Sloopdopblop is just eight days away",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Velkynvelve elevation",
-    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
-    "source_quote": "Drow outpost was 100' in the sky",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "silver candlestick value",
-    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
-    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "session date",
-    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
-    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "An hour passes between two events in the session.",
-    "source_quote": "An hour later",
-    "quote_verified": false
-  },
-  {
-    "type": "monster",
-    "subject": "chasme count",
-    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
-    "source_quote": "four chasme and two vrock",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "travel to Sloobludop",
-    "fact": "Sloobludop is approximately eight days away via the Darklake.",
-    "source_quote": "the town of Sloopdopblop is just eight days away",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Velkynvelve elevation",
-    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
-    "source_quote": "Drow outpost was 100' in the sky",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "silver candlestick value",
-    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
-    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "session date",
-    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
-    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "An hour passes between two events in the session.",
-    "source_quote": "An hour later",
-    "quote_verified": false
-  },
-  {
-    "type": "monster",
-    "subject": "chasme count",
-    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
-    "source_quote": "four chasme and two vrock",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "travel to Sloobludop",
-    "fact": "Sloobludop is approximately eight days away via the Darklake.",
-    "source_quote": "the town of Sloopdopblop is just eight days away",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Velkynvelve elevation",
-    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
-    "source_quote": "Drow outpost was 100' in the sky",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "silver candlestick value",
-    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
-    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "session date",
-    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
-    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "An hour passes between two events in the session.",
-    "source_quote": "An hour later",
-    "quote_verified": false
-  },
-  {
-    "type": "monster",
-    "subject": "chasme count",
-    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
-    "source_quote": "four chasme and two vrock",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "travel to Sloobludop",
-    "fact": "Sloobludop is approximately eight days away via the Darklake.",
-    "source_quote": "the town of Sloopdopblop is just eight days away",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Velkynvelve elevation",
-    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
-    "source_quote": "Drow outpost was 100' in the sky",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "silver candlestick value",
-    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
-    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "session date",
-    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
-    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "An hour passes between two events in the session.",
-    "source_quote": "An hour later",
-    "quote_verified": false
-  },
-  {
-    "type": "monster",
-    "subject": "chasme count",
-    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
-    "source_quote": "four chasme and two vrock",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "travel to Sloobludop",
-    "fact": "Sloobludop is approximately eight days away via the Darklake.",
-    "source_quote": "the town of Sloopdopblop is just eight days away",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Velkynvelve elevation",
-    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
-    "source_quote": "Drow outpost was 100' in the sky",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "silver candlestick value",
-    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
-    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "session date",
-    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
-    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "An hour passes between two events in the session.",
-    "source_quote": "An hour later",
-    "quote_verified": false
-  },
-  {
-    "type": "monster",
-    "subject": "chasme count",
-    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
-    "source_quote": "four chasme and two vrock",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "travel to Sloobludop",
-    "fact": "Sloobludop is approximately eight days away via the Darklake.",
-    "source_quote": "the town of Sloopdopblop is just eight days away",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Velkynvelve elevation",
-    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
-    "source_quote": "Drow outpost was 100' in the sky",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "silver candlestick value",
-    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
-    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "session date",
-    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
-    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "An hour passes between two events in the session.",
-    "source_quote": "An hour later",
-    "quote_verified": false
-  },
-  {
-    "type": "monster",
-    "subject": "chasme count",
-    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
-    "source_quote": "four chasme and two vrock",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "travel to Sloobludop",
-    "fact": "Sloobludop is approximately eight days away via the Darklake.",
-    "source_quote": "the town of Sloopdopblop is just eight days away",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Velkynvelve elevation",
-    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
-    "source_quote": "Drow outpost was 100' in the sky",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "silver candlestick value",
-    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
-    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "session date",
-    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
-    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "An hour passes between two events in the session.",
-    "source_quote": "An hour later",
-    "quote_verified": false
-  },
-  {
-    "type": "monster",
-    "subject": "chasme count",
-    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
-    "source_quote": "four chasme and two vrock",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "travel to Sloobludop",
-    "fact": "Sloobludop is approximately eight days away via the Darklake.",
-    "source_quote": "the town of Sloopdopblop is just eight days away",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Velkynvelve elevation",
-    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
-    "source_quote": "Drow outpost was 100' in the sky",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "silver candlestick value",
-    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
-    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "session date",
-    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
-    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "An hour passes between two events in the session.",
-    "source_quote": "An hour later",
-    "quote_verified": false
-  },
-  {
-    "type": "monster",
-    "subject": "chasme count",
-    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
-    "source_quote": "four chasme and two vrock",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "travel to Sloobludop",
-    "fact": "Sloobludop is approximately eight days away via the Darklake.",
-    "source_quote": "the town of Sloopdopblop is just eight days away",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Velkynvelve elevation",
-    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
-    "source_quote": "Drow outpost was 100' in the sky",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "silver candlestick value",
-    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
-    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "session date",
-    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
-    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "An hour passes between two events in the session.",
-    "source_quote": "An hour later",
-    "quote_verified": false
-  },
-  {
-    "type": "monster",
-    "subject": "chasme count",
-    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
-    "source_quote": "four chasme and two vrock",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "travel to Sloobludop",
-    "fact": "Sloobludop is approximately eight days away via the Darklake.",
-    "source_quote": "the town of Sloopdopblop is just eight days away",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Velkynvelve elevation",
-    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
-    "source_quote": "Drow outpost was 100' in the sky",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "silver candlestick value",
-    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
-    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "session date",
-    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
-    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "An hour passes between two events in the session.",
-    "source_quote": "An hour later",
-    "quote_verified": false
-  },
-  {
-    "type": "monster",
-    "subject": "chasme count",
-    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
-    "source_quote": "four chasme and two vrock",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "travel to Sloobludop",
-    "fact": "Sloobludop is approximately eight days away via the Darklake.",
-    "source_quote": "the town of Sloopdopblop is just eight days away",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Velkynvelve elevation",
-    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
-    "source_quote": "Drow outpost was 100' in the sky",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "silver candlestick value",
-    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
-    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "session date",
-    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
-    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "An hour passes between two events in the session.",
-    "source_quote": "An hour later",
-    "quote_verified": false
-  },
-  {
-    "type": "monster",
-    "subject": "chasme count",
-    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
-    "source_quote": "four chasme and two vrock",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "travel to Sloobludop",
-    "fact": "Sloobludop is approximately eight days away via the Darklake.",
-    "source_quote": "the town of Sloopdopblop is just eight days away",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Velkynvelve elevation",
-    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
-    "source_quote": "Drow outpost was 100' in the sky",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "silver candlestick value",
-    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
-    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "type": "thread",
+    "subject": "corpse interrogation claim",
+    "fact": "Kalan claimed they tried to question the corpse, but it didn't work because the mouth was locked shut.",
+    "source_quote": "Kalan said they'd put the question to the corpse, and that it didn't work. And that didn't work because of Y. The imposter \u2014 the false devil-lady \u2014 supposedly did it first and locked the corpse's mouth shut for days.",
     "quote_verified": false
   }
 ]

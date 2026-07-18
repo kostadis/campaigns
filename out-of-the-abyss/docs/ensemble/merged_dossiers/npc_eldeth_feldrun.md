@@ -1,76 +1,37 @@
-<!-- source: npc_eldeth_feldrun.md -->
-
-
----
-
 ---
 name: Eldeth Feldrun
 type: npc
-n_facts: 58
+n_facts: 63
 chapters: 1-54
 ---
 
 ### Eldeth Feldrun
 
 **Current status:** Alive  
-**Current location:** Traveling west toward Mithral Hall and Gauntlgrym, having emerged into the Overbright  
-**Allegiance/faction:** Clan-bound dwarf of Mithral Hall; aligned with the surviving surface-rescue group; no longer aligned with Drow or Duergar captors  
-**Current possessions / notable items, spells, feats, wounds:**  
-- Skilled in foraging and track-hiding (indispensable to the group)  
-- Proficient in Underdark survival, including identification of flora (waterorbs, Tinmmasks) and geological hazards (Faerzress crystals, flooding rivers)  
-- Carries no named item, but is trusted with tactical leadership in evasion and environmental navigation  
-- No current wounds reported; psychic trauma from ch22 (“AAAAH-PAIN!”) has not been described as lingering or disabling  
-
-**Current assignment / role and key relationships:**  
-- Leading the group westward toward Mithral Hall and Gauntlgrym to warn surface dwarven lords of Underdark threats, including the presence of Demogorgon and demonic incursions  
-- Bound by oath to ensure Thorin is embraced by her clan upon arrival  
-- Unspoken bond with Thorin, whom she now calls “giant friend” as a term of earned respect  
-- Trusted by the group for evasion, survival, and pragmatic judgment; previously assigned to assist Barrow Warden ghosts with Glabbagool and Jimjar  
-- Former prisoner of Drow; now fiercely opposed to Duergar (“Demonic spawn of dwarven corruption”) and the cult of Lolth, but no longer views all drow as evil — recognizes Daz as evidence of redeemable drow shaped by environment  
-
+**Current location:** On the surface, en route to Mithral Hall and Gauntlgrym  
+**Allegiance/faction:** Dwarven noble of Mithral Hall (by duty and blood); allied with the surviving crew of the Underdark journey  
+**Current possessions / notable items:** None explicitly stated, but carries practical foraging and tracking gear; previously used a hand-held crossbow and silk rope in survival scenarios  
+**Current assignment / role:** Officially tasked with reporting the Underdark’s existential threats to the lords of Mithral Hall and Gauntlgrym; acting as Thorin’s advocate and sponsor for clan adoption  
+**Key relationships:**  
+- Sworn to ensure Thorin is embraced by her clan — has explicitly declared, “I swear.”  
+- Respects and trusts Daz, having revised her lifelong prejudice against drow after personal experience.  
+- Formerly part of the core survival group including Jimjar, Spiderbait, Grygum, and Aliza Argot; now travels independently toward the surface dwarven holds.  
 **Defining recent actions:**  
-- Hid the group’s tracks for two days through Faerzress-lit caverns to evade Drow pursuit  
-- Recognized Demogorgon’s presence in the Prime Material Plane and warned of existential threat to Faerûn’s surface realms, especially dwarven miners  
-- Evolved from belief that all drow must be killed to recognizing Lolth’s cult as the true enemy, and that individual drow may be redeemable  
-- Volunteered to assist Barrow Warden ghosts alongside Glabbagool and Jimjar; helped destroy Vazuk, the deep gnome ghost in Blingdenstone  
-- Now preparing to lead the group to Mithral Hall and Gauntlgrym, with the explicit mission to deliver a warning and secure Thorin’s acceptance into her clan  
+- Survived the Underdark journey through foraging, track-hiding, and pragmatic problem-solving (e.g., silk rope for web falls, identifying Tinmmasks and waterorbs).  
+- Shifted from believing all drow are evil to recognizing the cult of Lolth as the true enemy, and drow like Daz as redeemable.  
+- Recognized Demogorgon’s presence in the Prime Material Plane and warned of the existential threat to Faerûn, especially dwarven miners.  
+- Volunteered for high-risk missions (e.g., assisting Barrow Warden ghosts, confronting Vazuk).  
+- Sworn an oath to the surface dwarven lords to expose Underdark dangers and to formally adopt Thorin into her clan.  
 
 **Revealed motivations or secrets:**  
-- Driven by clan duty and survivor’s guilt to warn the surface — sees herself as the last credible witness to Underdark horrors  
-- Carries deep trauma from the War of the Giants, making Thorin’s ties to giants initially repulsive, now respected  
-- Secretly believes the surface world is unprepared for what lies beneath — and that her mission may be the only chance to prevent catastrophe  
+- Her childhood indoctrination against drow was shattered by experience, revealing a capacity for deep personal evolution.  
+- She views Thorin not as an outsider, but as a worthy comrade whose value transcends bloodline — a radical stance for a dwarven noble.  
+- Her primary drive is duty: to warn the surface dwarves and to ensure justice is done for those lost in the Underdark, including the redemption of Thorin’s place among dwarves.  
 
 ## Uncertainty
-- [ch39] “Eldev” is referenced as assisting the Barrow Warden ghosts — is this a typo for “Eldeth” or a separate entity? The name is phonetically identical and contextually fits, but spelling differs.  
-- [ch22] The nature of the psychic trauma (“AAAAH-PAIN!”) is described vividly but never resolved — is it a wound, a spell effect, or psychological? No follow-up confirms its status.  
-- [ch29] Eldeth will “demand to see what the party found” and “sharing it will trigger violence” — what was found? Who is “we”? The context is missing, and this threat remains unacted upon in later chapters.  
-- [ch31] Eldeth reports pursuers are lost — but later chapters show continued movement through dangerous zones; is this assessment still accurate? No confirmation or contradiction.  
-- [ch54] She says “West... you'll hit Candlekeep” — but Mithral Hall is not west of the Underdark exit described; is this a misdirection, a simplification, or a navigational error? Unclear.
-
----
-
-<!-- source: monster_eldeth_feldrun.md -->
-
-
----
-
----
-name: Eldeth Feldrun
-type: monster
-n_facts: 1
-chapters: 23-23
----
-
-### Eldeth Feldrun  
-- **Current status**: Alive  
-- **Current location**: Gracklstugh (implied by context of near-death event and group’s decision to remain)  
-- **Allegiance/faction**: None specified  
-- **Current possessions / notable items, spells, feats, wounds**: Wounded to near-fatal extent (recent, unspecified nature)  
-- **Current assignment / role and key relationships**: Traveling with a group (unnamed) who have adjusted their plans due to his near-death; no superior or subordinate relationships specified  
-- **Defining recent actions**: Suffered a near-fatal injury that profoundly impacted the group’s willingness to pursue risky actions in Gracklstugh  
-
-## Uncertainty  
-- The exact nature of Eldeth’s wound or injury is unspecified.  
-- The identity of the “group” he is traveling with is not named.  
-- Whether Eldeth has since recovered, remains incapacitated, or is still actively participating in the group’s activities is unclear.  
-- No information on allegiance, possessions, spells, feats, or current role beyond being a member of the group.
+- The name "Eldev" in chapters 39 and 40 may be a typo for "Eldeth" — no other character by that name is referenced, and context matches Eldeth’s role.  
+- It is unclear whether Eldeth currently carries any of the items she previously used (e.g., crossbow, silk rope) or if they were lost during the journey.  
+- While she is traveling toward Mithral Hall and Gauntlgrym, her exact current location beyond “on the surface” is unspecified.  
+- Her physical condition after the psychic trauma in ch22 (“AAAAH-PAIN!”) is not addressed afterward — whether she suffers lingering effects is unknown.  
+- The nature of her noble status (e.g., house, title, lineage) is never named.  
+- Whether she is still accompanied by any members of the moltley crew (e.g., Spiderbait) after emergence is ambiguous — she is listed among survivors, but no current companions are confirmed.

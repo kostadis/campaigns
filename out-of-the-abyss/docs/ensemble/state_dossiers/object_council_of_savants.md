@@ -7,11 +7,14 @@ chapters: 17-17
 
 ### Council of Savants
 
-- **What it is**: A governing or authoritative body that made a promise of freedom to the Derro.
-- **Current condition**: Credibility is shattered among the Derro; viewed as betrayers.
-- **Significance**: Their broken promise has incited rage and religious fervor among the Derro, who now see them as destined to fail.
+- **Current status:** Not an object — misclassified. The Council of Savants is a faction, not an object.  
+- **Current standing:** Discredited and distrusted by the Derro.  
+- **Key recent action:** Promised freedom to the Derro but failed to deliver, inciting rage and religious fervor.  
+- **Relationship to Derro:** Viewed as betrayers; their failure is now a central tenet of Derro religious grievance.  
+- **Current goal (inferred):** None stated — but their credibility is shattered among the Derro.  
 
 ## Uncertainty
-- The current location, structure, or operational status of the Council of Savants is unknown.
-- Whether the Council still exists as an active entity or has been disbanded, destroyed, or otherwise altered since the broken promise is not stated.
-- No information is given about who currently leads or represents the Council, or whether it holds any power or influence beyond the Derro’s resentment.
+- The Council of Savants' current location, leadership, or ongoing activities beyond this broken promise are not stated.  
+- Whether the Council still exists as an active entity or has dissolved, retreated, or been overthrown is unknown.  
+- No other factions or individuals are mentioned in relation to the Council’s current status.  
+- The term “object” in the entity type is incorrect — this is a faction.

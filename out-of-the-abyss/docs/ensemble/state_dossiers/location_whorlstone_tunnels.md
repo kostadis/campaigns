@@ -7,11 +7,15 @@ chapters: 17-19
 
 ### Whorlstone Tunnels
 
-A subterranean tunnel network beneath the Whorlstone, formerly used by the derro as a smuggling route. The tunnels are now partially obstructed by fungal growths and lead to a vast underground lake. The environment is marked by magical mushrooms and persistent ghostly echoes. The tunnels are currently a targeted destination for multiple factions seeking evidence to leverage political outcomes; the party is known to be heading there to gather such evidence for at least one faction.
+- **Type:** Location  
+- **Current state:** Accessible subterranean tunnel network, partially obstructed by fungal growths; still associated with magical mushrooms and ghostly echoes.  
+- **Control/Occupancy:** Unclaimed; no active occupying force noted. Previously used by derro for smuggling, now largely abandoned but monitored by multiple factions.  
+- **Notable features:** Connects to a vast underground lake; contains magical mushrooms and resonant ghostly echoes.  
+- **Current significance:** A critical destination for gathering evidence to leverage political outcomes. Multiple factions are aware that the party is heading there and anticipate obtaining information from their findings.  
+- **Current assignment / role:** Sought as a site to retrieve evidence that will aid factions in political maneuvering.  
+- **Key relationships:** Target of interest to multiple unnamed factions who hope to benefit from whatever the party uncovers within.  
 
 ## Uncertainty
-- The current state of derro presence in the tunnels is unknown — they are noted as former users, but no recent activity or current occupancy is confirmed.
-- It is unclear which specific factions are actively monitoring or planning to act in the tunnels, only that “they all” hope to benefit.
-- The exact nature of the “evidence” to be found is not specified.
-- Whether the fungal growths have spread or receded since Chapter 17 is not updated in later chapters.
-- The precise location or entrance points of the tunnels relative to known landmarks are not described.
+- The exact current condition of the derro smuggling routes (whether still usable, fully blocked, or repurposed) is unclear — fungal growths are noted as partial blockages, but no confirmation of active derro presence or recent use.
+- It is unknown which specific factions are monitoring the tunnels or what exact evidence they seek; only that “many different factions” are involved and hope to benefit.
+- Whether the ghostly echoes or magical mushrooms have changed in nature or intensity since chapter 17 is not updated in later chapters.

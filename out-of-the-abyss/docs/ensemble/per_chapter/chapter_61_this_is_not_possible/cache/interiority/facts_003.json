@@ -1,128 +1,100 @@
 [
   {
     "type": "npc",
-    "subject": "I",
-    "fact": "I could have cast lesser restoration myself, but chose to hold my tongue and let others decide because I trusted the room would move toward mercy.",
-    "source_quote": "I could have done it myself. Lesser restoration is cheap and I had it to spend \u2014 I can always cast another on people, if we don't want to die, and Daral wasn't going to die. But a man shouldn't sit in his own rot while four strangers debate his usefulness. So I held my tongue and let the room work it out, because it was working itself toward mercy, which is the only direction I ever need it to go.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "I",
-    "fact": "I did not correct Zalthir when he suggested Daz might extort Daral, because I agreed with his assessment.",
-    "source_quote": "I did not correct him. The read was not wrong.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "I",
-    "fact": "I thought the interaction between Dawnbringer and Daral was a small good thing in a room full of guards.",
-    "source_quote": "I thought, *there it is, a small good thing in a room full of guards.*",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "I",
-    "fact": "I believed the relationship between Dawnbringer and Daral was simple, rare, and truthful after the year I've had.",
-    "source_quote": "These relationships are so complicated. This one, for once, was simple.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "I",
-    "fact": "I understood that helmed horrors were chosen as assassins because they cannot talk, revealing the enemy\u2019s intent to leave no one to interrogate.",
-    "source_quote": "Of course. A killer with no mouth and no mind \u2014 whoever built these chose them precisely so there'd be nobody to squeeze afterward.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "I",
-    "fact": "I remembered the giants' lesson that you don't chase, you position, and let the ground guide your actions.",
-    "source_quote": "The giants taught me that before I could carry a shield \u2014 you don't chase, you position, and the ground under your feet says what your mouth doesn't need to.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "I",
-    "fact": "I wanted to know who sent the helmed horrors and considered using a dead horror as a divining rod to detect who else had the key.",
-    "source_quote": "Can we grab one of them and use it to detect who else has the key? Turn it into a sort of divining rod, as it were.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "I",
-    "fact": "I noticed the helmed horrors were hovering a hand's width off the floor, which made my neck itch.",
-    "source_quote": "Suits of plate with nobody inside, walking and \u2014 this was the part that made my neck itch \u2014 hovering, lifting a hand's width off the floor and drifting.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "I",
-    "fact": "I realized the helmed horrors were not targeting people but following the key in Daz's pocket.",
-    "source_quote": "They weren't following a face. They were following the key itself, sniffing it out through plate and pocket both.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "The key's origin",
-    "fact": "The key\u2019s origin and the identity of who sent the helmed horrors remain unknown.",
-    "source_quote": "Somebody built these, aimed them, and put them through the windows knowing exactly which pocket to reach for.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Thorin",
-    "fact": "Thorin believes Daral should be let go and does not think extorting him would be nice.",
-    "source_quote": "I don't think he had anything to do with it... I think we probably just let him\u2026 let him go.\" and \"Yeah \u2014 we could extort him, but I don't think that would be nice.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Thorin",
-    "fact": "Thorin fondly acknowledges that Dawnbringer enjoys being called beautiful and worthy of study.",
-    "source_quote": "Dawnbringer eats it up, I'm sure,\" Thorin said, fond.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Zalthir",
-    "fact": "Zalthir murmured that Daral would have bolted for the door if they had let him go.",
-    "source_quote": "Zalthir murmured something about Daral bolting for the door the second we did.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Zalthir",
-    "fact": "Zalthir thinks Daz might extort Daral, but doubts the rest of the group would.",
-    "source_quote": "Yeah \u2014 we could extort him,\" Thorin said, \"but I don't think that would be nice.\" \"I mean, maybe Daz would,\" Zalthir said. \"But I don't know about the rest of us.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Daral",
-    "fact": "Daral intends to make the study of sentient swords his life\u2019s research subject.",
-    "source_quote": "I intend to make it an area of active research.",
+    "subject": "Grygum",
+    "fact": "Grygum believes a man shouldn't sit in his own rot while others debate his usefulness.",
+    "source_quote": "But a man shouldn't sit in his own rot while four strangers debate his usefulness.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum is confident he has enough healing spells and Revivify to cover Daz if he falls.",
-    "source_quote": "Don't worry, I've got plenty of heal spells, buddy. If you get knocked out, I'll just heal you \u2014 you'll be back up in no time.\" A beat later: \"I also have Revivify, so we're covered either way.",
+    "fact": "Grygum wanted to cast lesser restoration himself but held his tongue because the room was moving toward mercy.",
+    "source_quote": "So I held my tongue and let the room work it out, because it was working itself toward mercy, which is the only direction I ever need it to go.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Daz",
-    "fact": "Daz realized the helmed horrors were not targeting him personally but were drawn to the key in his pocket.",
-    "source_quote": "By then Daz had worked out what these things wanted, and it wasn't him \u2014 it was the key in his pocket.",
+    "subject": "Grygum",
+    "fact": "Grygum did not correct Zalthir\u2019s implication that Daz might extort Daral.",
+    "source_quote": "I did not correct him. The read was not wrong.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum thought the interaction between Daral and Dawnbringer was a small good thing in a room full of guards.",
+    "source_quote": "I thought, *there it is, a small good thing in a room full of guards.*",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum believes relationships are complicated, but the one between Daral and Dawnbringer was simple.",
+    "source_quote": "These relationships are so complicated. This one, for once, was simple.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is convinced that the helmed horrors were sent to retrieve the key in Daz\u2019s pocket.",
+    "source_quote": "They weren't following a face. They were following the key itself, sniffing it out through plate and pocket both.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum knows he has plenty of heal spells and Revivify, and is not worried about Daz going down.",
+    "source_quote": "Don't worry, I've got plenty of heal spells, buddy. If you get knocked out, I'll just heal you \u2014 you'll be back up in no time. I also have Revivify, so we're covered either way.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum believes the ground under one\u2019s feet says what your mouth doesn't need to.",
+    "source_quote": "The giants taught me that before I could carry a shield \u2014 you don't chase, you position, and the ground under your feet says what your mouth doesn't need to.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "Daz",
-    "fact": "Daz noticed the key in his pocket was inert under every spell they had cast.",
-    "source_quote": "A key that read as nothing under every spell we'd thrown at it. Dead. Inert.",
+    "subject": "Grygum",
+    "fact": "Grygum noticed that the helmed horrors went for Daz first, then for him when the key changed hands.",
+    "source_quote": "The suits had gone straight for Daz, then straight for Grygum the second the key changed hands.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Who sent the helmed horrors",
+    "fact": "The identity of who sent the helmed horrors is unknown and unresolved.",
+    "source_quote": "Somebody built these, aimed them, and put them through the windows knowing exactly which pocket to reach for.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum stepped up and unleashed a burst of clean light that caught two helmed horrors at once.",
+    "source_quote": "Grygum stepped up and let go a burst of clean light that caught two of them at once, both flinching under it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum kept his feet steady as the last helmed horror reached for him, refusing to be moved.",
+    "source_quote": "Grygum kept his feet like the floor was the one thing he wasn't giving up.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum handed the key back to Daz after it had been passed to him.",
+    "source_quote": "When Grygum handed the key to Daz \u2014 who saw it?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is confident Daz will be fine, even after being hit by a helmed horror.",
+    "source_quote": "Don't you worry, Daz. You're going to be fine. Totally fine.",
     "quote_verified": true
   }
 ]

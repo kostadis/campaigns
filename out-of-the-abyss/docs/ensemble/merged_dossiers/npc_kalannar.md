@@ -9,14 +9,13 @@ chapters: 1-1
 
 - **Current status:** Alive  
 - **Current location:** Mess hall (last observed)  
-- **Allegiance/faction:** Jaezred (associated with, likely a member)  
-- **Current possessions / notable items:** None specified  
-- **Current assignment / role:** None specified; observed as a Drow in the mess hall  
-- **Key relationships:** Last seen with Jaezred (likely a companion or ally)  
-- **Defining recent action:** Sitting at a table in the mess hall, appearing hungry  
+- **Allegiance/faction:** Jaezred (implied by association; no explicit faction name given)  
+- **Current possessions / notable items, spells, feats, wounds:** None specified  
+- **Current assignment / role and key relationships:** Sitting with Jaezred; relationship appears to be companion or associate  
+- **Defining recent actions:** Present and visibly hungry in the mess hall  
 
 ## Uncertainty
-- Exact role or faction affiliation beyond association with Jaezred is unspecified.  
-- Current location may have changed since observation; only confirmed in mess hall during Chapter 1.  
-- Whether Jaezred is still with Kalannar is unknown.  
-- No details on possessions, wounds, spells, or motivations.
+- Exact faction affiliation beyond association with Jaezred is unconfirmed.  
+- Whether Kalannar is still in the mess hall or has moved since the observation is unknown.  
+- No information on possessions, abilities, wounds, or motivations.  
+- The nature of Kalannar’s relationship with Jaezred (ally, subordinate, peer, etc.) is not specified.

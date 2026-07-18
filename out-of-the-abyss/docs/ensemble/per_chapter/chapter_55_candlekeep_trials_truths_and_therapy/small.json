@@ -2,918 +2,902 @@
   {
     "type": "npc",
     "subject": "Tarvis Ulain",
-    "fact": "Tarvis Ulain was a paladin of Bahamut who died three years ago in Daggerford while breaking up a Cult of the Dragon recruitment operation. His severed bronze forearm is mounted on a stone pillar as a monument, bearing inscriptions in Common, Dwarven, and a reference to Stroudite chess symbolism.",
-    "source_quote": "Daz was already reading the inscription. The primary text told us this was Tarvis Ulain, paladin, dead three years. Died here, in Daggerford itself, breaking up a Cult of the Dragon recruitment operation.",
+    "fact": "Tarvis Ulain was a paladin of Bahamut who died three years ago in Daggerford while breaking up a Cult of the Dragon recruitment operation. His severed bronze forearm is mounted on a stone pillar as a monument, with a Dwarven inscription reading 'The move is yours' and a Common inscription signed by Milo Goodbarrel of the Order of the Gauntlet.",
+    "source_quote": "The primary text told us this was Tarvis Ulain, paladin, dead three years. Died here, in Daggerford itself, breaking up a Cult of the Dragon recruitment operation.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Milo Goodbarrel",
-    "fact": "Milo Goodbarrel is the head of a publisher affiliated with the Order of the Gauntlet and personally witnessed and recorded the monument to Tarvis Ulain, signing off on its creation.",
-    "source_quote": "There was a smaller inscription on the back. Common. *Witnessed and recorded for the Gauntlet.* Signed by Milo Goodbarrel, apparently head of some publisher, apparently Order of the Gauntlet.",
+    "fact": "Milo Goodbarrel is the head of a publisher and a member of the Order of the Gauntlet who personally witnessed and recorded the monument to Tarvis Ulain, signing the Common inscription on its back.",
+    "source_quote": "Signed by Milo Goodbarrel, apparently head of some publisher, apparently Order of the Gauntlet. Milo had personally signed off on this.",
     "quote_verified": true
   },
   {
     "type": "faction",
     "subject": "Metalworkers Guild",
-    "fact": "The Metalworkers Guild funded the monument to Tarvis Ulain two years after the war, possibly including Stroudite members, though the priest declined to confirm specifics.",
+    "fact": "The Metalworkers Guild funded the monument to Tarvis Ulain two years after the war, despite the presence of a Stroudite inscription, indicating possible internal ideological diversity or deliberate tolerance.",
     "source_quote": "The whole thing was funded two years after the war by a Metalworkers Guild.",
     "quote_verified": true
   },
   {
     "type": "faction",
     "subject": "Order of the Gauntlet",
-    "fact": "The Order of the Gauntlet endorsed the monument to Tarvis Ulain, with Milo Goodbarrel personally witnessing its creation, and now sells pewter replicas of the arm as charitable donations.",
-    "source_quote": "The priest was selling them for donations to the Order of the Gauntlet, and he was clearly delighted with his own enterprise.",
+    "fact": "The Order of the Gauntlet commissioned and recorded the monument to Tarvis Ulain, and now sells pewter replicas of his hand as charitable donations, with a priest of Bahamut acting as their local representative in Daggerford.",
+    "source_quote": "Witnessed and recorded for the Gauntlet. Signed by Milo Goodbarrel... He was selling them for donations to the Order of the Gauntlet.",
     "quote_verified": false
   },
   {
     "type": "faction",
     "subject": "Cult of the Dragon",
-    "fact": "The Cult of the Dragon was actively recruiting in Daggerford at the time of Tarvis Ulain\u2019s death, prompting his intervention and subsequent martyrdom.",
-    "source_quote": "Died here, in Daggerford itself, breaking up a Cult of the Dragon recruitment operation.",
+    "fact": "The Cult of the Dragon was actively recruiting in Daggerford at the time of Tarvis Ulain\u2019s death, prompting his intervention and eventual demise.",
+    "source_quote": "breaking up a Cult of the Dragon recruitment operation.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "monument unveiling",
-    "fact": "A bronze monument to Tarvis Ulain, depicting his severed forearm, was erected in Daggerford\u2019s market square two years after his death, bearing layered inscriptions that reference both Bahamutian devotion and Stroudite symbolism.",
-    "source_quote": "There was a monument there \u2014 a bronze-cast forearm, severed at the elbow, mounted on a stone pillar... The primary text told us this was Tarvis Ulain... Daz found the secondary inscription. Dwarven, on the base. *The move is yours.*",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "pewter hand cast",
-    "fact": "Pewter miniature replicas of Tarvis Ulain\u2019s severed forearm are being sold by a village priest as charitable donations to the Order of the Gauntlet, measuring charm-sized and not full size.",
-    "source_quote": "A village priest caught us in the doorway... carrying a tray of small pewter reproductions of Tarvis's hand cast, miniature things, charm-sized.",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "bronze forearm monument",
-    "fact": "The bronze forearm monument to Tarvis Ulain is mounted on a stone pillar in Daggerford\u2019s market square, bearing three inscriptions: Common (identifying Tarvis), Dwarven (*The move is yours.*), and Common (*Witnessed and recorded for the Gauntlet.*).",
-    "source_quote": "There was a monument there \u2014 a bronze-cast forearm, severed at the elbow, mounted on a stone pillar... Daz found the secondary inscription. Dwarven, on the base. *The move is yours.*",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "Stroudite inscription on Bahamutian monument",
-    "fact": "A Stroudite chess reference (*The move is yours.*) appears on a monument to a Bahamutian paladin, raising questions about religious syncretism, tolerance, or hidden alliances in post-war Daggerford.",
-    "source_quote": "Somebody had put a Stroudite inscription on a monument to a Bahamutian paladin in a town I'd barely heard of, and whoever commissioned it had either not noticed or not cared enough to remove it.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "priest's ambiguous tolerance",
-    "fact": "The village priest claims to be a 'pure Bahamutian' but allows a Stroudite inscription to remain on the monument, citing it as a 'gift' that should not be removed, suggesting deeper political or theological compromises.",
-    "source_quote": "It was a gift,' he said finally. 'And since it was a gift, we decided the inscription could remain. After all \u2014 wasn't Tarvis trying to save us all, regardless of what actually happened in that game of chess?'",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "Daggerford's silent trauma",
-    "fact": "Daggerford bears visible markers of war \u2014 the monument, the pewter relics, the lingering tension over religious symbolism \u2014 yet avoids open discussion of its pain, mirroring the unspoken silence observed by the party upon arrival.",
-    "source_quote": "Daggerford was the first place we'd walked into in weeks where the silence didn't make sense... Townfolk walked around something none of them would point at. Nobody explained why.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum is a half-orc cleric of Bahamut who notices and questions the layered symbolism of the monument, purchases a pewter hand cast, and presses the priest for theological clarity, revealing his role as an investigator of hidden truths.",
-    "source_quote": "Grygum looked at them. 'Are they full size?'... Grygum dropped a gold piece in for his... Grygum asked him to tell him more... 'As am I,' Grygum said. 'But the inscription shares language with Stroud. Why is that?'",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Daz",
-    "fact": "Daz is a dwarf who reads and interprets the Dwarven inscription on the monument, recognizes the Stroudite chess reference, and confirms its accuracy due to his linguistic fluency in Dwarven.",
-    "source_quote": "Daz was already reading the inscription... Daz found the secondary inscription. Dwarven, on the base. *The move is yours.*... I read it twice because Dwarven is, you know, actually my language, or one of them, and I wanted to make sure I hadn't misread. I hadn't.",
+    "type": "location",
+    "subject": "Daggerford",
+    "fact": "Daggerford is a town that avoided the worst of the post-war Uthgardt barbarian hordes but suffered the presence of the Cult of the Dragon and the death of Tarvis Ulain, leaving behind a monument that has become a focal point of ideological tension and quiet remembrance.",
+    "source_quote": "Daggerford had people. Daggerford had walls, and a market square, and smoke from cook fires... Only lost Tarvis.",
     "quote_verified": false
   },
   {
     "type": "location",
     "subject": "River Shining Tavern",
-    "fact": "The River Shining Tavern is a destination in Daggerford where the party ultimately arrives after observing the monument and encountering the priest selling pewter hand casts.",
-    "source_quote": "We made it to the inn eventually. The River Shining.",
+    "fact": "The River Shining Tavern is the local inn in Daggerford where the party arrives after encountering the monument to Tarvis Ulain and the priest selling pewter hand casts.",
+    "source_quote": "We found the River Shining Tavern and noted it for later.",
     "quote_verified": true
   },
   {
-    "type": "location",
-    "subject": "Daggerford market square",
-    "fact": "The market square in Daggerford is the site of Tarvis Ulain\u2019s bronze forearm monument and the center of the priest\u2019s sales activity, symbolizing the town\u2019s attempt to memorialize trauma through public art and commerce.",
-    "source_quote": "There was a monument there \u2014 a bronze-cast forearm... Daz was already reading the inscription... The priest was selling them for donations...",
+    "type": "object",
+    "subject": "Bronze forearm monument",
+    "fact": "A bronze-cast severed forearm, mounted on a stone pillar, commemorates Tarvis Ulain. It bears a Dwarven inscription 'The move is yours,' a Common inscription signed by Milo Goodbarrel, and is associated with the Order of the Gauntlet and the Metalworkers Guild.",
+    "source_quote": "a bronze-cast forearm, severed at the elbow, mounted on a stone pillar... The primary text told us this was Tarvis Ulain... Dwarven, on the base. *The move is yours.*",
     "quote_verified": false
   },
   {
-    "type": "location",
-    "subject": "Daggerford",
-    "fact": "Daggerford is a southern town in the North that avoided the worst of the Uthgardt hordes but suffered the Cult of the Dragon\u2019s incursion, losing Tarvis Ulain and now memorializing him with contested religious symbolism.",
-    "source_quote": "Daggerford had been far enough south to miss the Uthgardt barbarian hordes... They'd only gotten the cult. Only lost Tarvis.",
+    "type": "object",
+    "subject": "Pewter hand casts",
+    "fact": "Small, charm-sized pewter reproductions of Tarvis Ulain\u2019s severed forearm are being sold by a village priest as donations to the Order of the Gauntlet, despite their diminutive size and the ideological ambiguity of the monument\u2019s inscription.",
+    "source_quote": "carrying a tray of small pewter reproductions of Tarvis's hand cast, miniature things, charm-sized. He was selling them for donations to the Order of the Gauntlet.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "death of Tarvis Ulain",
+    "fact": "Tarvis Ulain died three years ago in Daggerford while dismantling a Cult of the Dragon recruitment effort, an act that made him a martyr and led to the creation of a controversial monument.",
+    "source_quote": "Died here, in Daggerford itself, breaking up a Cult of the Dragon recruitment operation.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Stroudite inscription on Bahamutian monument",
+    "fact": "A Dwarven inscription referencing Stroud \u2014 'The move is yours' \u2014 appears on a monument to a Bahamutian paladin, creating unspoken tension between factions, with no one certain whether it was an oversight, a gift, or a quiet act of defiance.",
+    "source_quote": "The inscription shares language with Stroud... Somebody had put a Stroudite inscription on a monument to a Bahamutian paladin... they had either not noticed or not cared enough to remove it.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "identity of the monument's commissioner",
+    "fact": "The origin of the monument\u2019s design \u2014 particularly the inclusion of the Stroudite inscription \u2014 remains unexplained, with the Metalworkers Guild\u2019s possible Stroudite members and the priest\u2019s admission that it was 'a gift' leaving the true motive ambiguous.",
+    "source_quote": "It was a gift... we decided the inscription could remain.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a half-orc cleric of Bahamut who observes the monument to Tarvis Ulain with deep attention, questions its contradictions, purchases a pewter hand cast, and presses the priest for answers, demonstrating both faith and skepticism.",
+    "source_quote": "Grygum made a sound when he got to the part confirming Tarvis had served Bahamut... Grygum dropped a gold piece in for his... Grygum asked him to tell him more...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a dwarf who reads the Dwarven inscription on the monument with linguistic precision, recognizes its connection to Stroud\u2019s chess reference, and confirms its accuracy due to his native fluency in Dwarven.",
+    "source_quote": "Daz was already reading the inscription... Dwarven is, you know, actually my language, or one of them, and I wanted to make sure I hadn't misread. I hadn't.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a Dragonborn who approaches the monument with suspicion, treating it as a potential threat and questioning whether it constitutes art, reflecting his cautious, combat-oriented worldview.",
+    "source_quote": "Zalthir looked at it the way he looks at most things: like he was deciding whether it constituted a threat. 'This is art?' he said.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Priest of the River Shining",
+    "fact": "A village priest of Bahamut sells pewter hand casts of Tarvis Ulain\u2019s severed forearm as donations to the Order of the Gauntlet, claims purity of faith, acknowledges the Stroudite inscription as a 'gift' left in place, and adapts quickly to the diverse party\u2019s presence.",
+    "source_quote": "He himself was, he wanted us to know, *a pure Bahamutian*. He did not believe in the heresy... 'It was a gift'... He pivoted and addressed the general group with renewed energy.",
     "quote_verified": false
   },
   {
     "type": "date",
     "subject": "three years ago",
-    "fact": "Tarvis Ulain died three years ago in Daggerford, and the monument to him was funded two years after his death, placing the current events approximately one year after the monument\u2019s unveiling.",
-    "source_quote": "The primary text told us this was Tarvis Ulain, paladin, dead three years... The whole thing was funded two years after the war...",
+    "fact": "Tarvis Ulain died three years ago, and the monument was funded two years after the war, placing the events of Daggerford\u2019s memorialization within a narrow post-conflict window.",
+    "source_quote": "dead three years... funded two years after the war.",
     "quote_verified": false
   },
   {
-    "type": "date",
-    "subject": "two years post-war",
-    "fact": "The Metalworkers Guild funded the monument two years after the war, situating its creation in the early recovery phase of Daggerford\u2019s post-conflict society.",
-    "source_quote": "The whole thing was funded two years after the war by a Metalworkers Guild.",
-    "quote_verified": true
+    "type": "event",
+    "subject": "arrival of the party in Daggerford",
+    "fact": "The party arrives in Daggerford after a long journey from the Silver Marches, encountering a monument laden with ideological ambiguity and a priest selling relics, marking the beginning of their engagement with the town\u2019s quiet, unresolved war trauma.",
+    "source_quote": "Daggerford was the first place we'd walked into in weeks where the silence didn't make sense... We found the River Shining Tavern and noted it for later.",
+    "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Elin",
-    "fact": "Elin is a 7-year-old girl who has been silent for six days, draws a six-pointed star on every flat surface in her environment, and speaks only in her sleep \u2014 her utterance being 'The wells are not wells anymore.'",
-    "source_quote": "She says it is only the shape that holds.",
+    "fact": "Elin is a 7-year-old girl who has been silent for six days, drawing a six-pointed star on every flat surface in her home, and speaking only once after restoration \u2014 saying, 'The wells are not wells anymore.' Her condition is not a conventional illness but a perceptual disruption caused by an external, non-magical influence from the Underdark.",
+    "source_quote": "She draws the same shape on every flat surface. She talks in her sleep. She says it is only the shape that holds.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Maerith of the Ford",
-    "fact": "Maerith is Elin\u2019s mother, exhausted from seeking help at every temple and institution, and has repeatedly been turned away \u2014 she noticed the dragon-and-scale holy symbol as the usual trigger for hope.",
-    "source_quote": "She spotted my holy symbol during dinner, which is the usual trigger.",
+    "subject": "Maerith",
+    "fact": "Maerith is Elin's mother, who has sought help from every temple without success. She is exhausted from repeated rejection and now turns to the party with quiet desperation, having observed her daughter\u2019s behavior for six days and noted the recurring six-pointed star drawings.",
+    "source_quote": "My daughter Elin is 7 years old and has been silent for 6 days. She draws the same shape on every flat surface. She talks in her sleep. She says it is only the shape that holds. Please, we have asked the temples. The temples have no answer.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Daz",
-    "fact": "Daz is a meticulous observer with a precise mind, who noticed subtle environmental and perceptual anomalies others dismissed \u2014 including a growing pressure in his own head.",
+    "fact": "Daz is a meticulous observer with a precise mind who notices details others dismiss. He has been experiencing unexplained pressure in his own head, which he only indirectly mentioned until the pattern of Elin\u2019s condition made it relevant.",
     "source_quote": "Daz mentioned the pressure in his own head \u2014 had been mentioning it, in various indirect ways, for a while now.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Zalthir",
-    "fact": "Zalthir identified the mechanism of Elin\u2019s condition as a perceptual distortion \u2014 the world is arriving as corrupted audio input she cannot process, not as magic or disease.",
+    "fact": "Zalthir articulated the mechanism of Elin\u2019s affliction: the world is not arriving as itself, but as distorted audio input she cannot process. He identified the condition as a perceptual bleed from the Underdark, not a magical effect.",
     "source_quote": "The input, the audio, the way the world was arriving at her rather than the world itself.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Dawnbringer",
-    "fact": "Dawnbringer is a sentient sword with strong opinions on timing and intervention; it initiated Lesser Restoration on Elin, which enabled her first coherent speech.",
+    "fact": "Dawnbringer is a sentient sword with strong opinions on timing and intervention. It chose to act uninvited, casting lesser restoration on Elin and triggering her only spoken words: 'The wells are not wells anymore.' Its action revealed more than medical examination could.",
     "source_quote": "Let me bring the light to you.",
     "quote_verified": true
   },
   {
-    "type": "monster",
-    "subject": "The Underdark\u2019s Structural Wrongness",
-    "fact": "An emergent, non-magical corruption originating beneath the Underdark is bleeding upward, disrupting perception and reality processing in those it touches \u2014 manifesting as auditory hallucinations and symbolic withdrawal.",
-    "source_quote": "The madness from the Underdark \u2014 the deep, structural wrongness we'd felt building around the demon lords... was not, apparently, staying below.",
-    "quote_verified": false
-  },
-  {
     "type": "faction",
-    "subject": "The Temples",
-    "fact": "The temples have been unable to diagnose or treat Elin\u2019s condition, reflecting their institutional limitations against non-magical, non-infectious perceptual corruption.",
-    "source_quote": "The temples have no answer.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Lesser Restoration on Elin",
-    "fact": "A Lesser Restoration spell cast by Dawnbringer cleared enough mental interference for Elin to speak one coherent sentence \u2014 'The wells are not wells anymore.'",
-    "source_quote": "And then she spoke. 'The wells are not wells anymore.'",
+    "subject": "Underdark entities",
+    "fact": "A growing, structural wrongness emanating from the Underdark \u2014 linked to demon lords and the collapse of places like Neverlight Grove and the Pudding King\u2019s court \u2014 is now bleeding upward, disrupting perception and inducing auditory hallucinations in surface dwellers.",
+    "source_quote": "The madness from the Underdark \u2014 the deep, structural wrongness we'd felt building around the demon lords... was not, apparently, staying below. It was reaching up.",
     "quote_verified": false
   },
   {
     "type": "event",
-    "subject": "Perceptual Distortion Diagnosis",
-    "fact": "The party concluded that Elin\u2019s condition is not a disease, infection, or magical effect, but a perceptual failure \u2014 the world is transmitting corrupted signals she cannot interpret, resulting in silence and symbolic repetition.",
-    "source_quote": "It wasn't a disease in the conventional sense. It was more like the world had started speaking a language she couldn't process.",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "Six-pointed star drawings",
-    "fact": "Elin\u2019s repeated drawings of a six-pointed star on every flat surface are not random \u2014 they are an attempt to externalize and stabilize an internal perceptual collapse.",
-    "source_quote": "She draws the same shape on every flat surface.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "The Wells Are Not Wells Anymore",
-    "fact": "Elin\u2019s utterance is a cryptic revelation pointing to a fundamental distortion in reality \u2014 'wells' may symbolize sources of perception, truth, or connection that have been corrupted or replaced.",
+    "subject": "Elin's speech after restoration",
+    "fact": "After lesser restoration was cast by Dawnbringer, Elin spoke one sentence \u2014 'The wells are not wells anymore' \u2014 before falling silent again. This was not a recovery of language, but the emergence of a single, cryptic insight from within her perceptual distortion.",
     "source_quote": "The wells are not wells anymore.",
     "quote_verified": true
   },
   {
-    "type": "thread",
-    "subject": "The Pressure in Daz\u2019s Head",
-    "fact": "Daz\u2019s unacknowledged head pressure suggests he is experiencing the same perceptual bleed as Elin \u2014 a sign the corruption is spreading and may be active in others.",
-    "source_quote": "I looked at him. I looked at Elin. I thought about what we'd just established.",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "The Bleeding Underdark",
-    "fact": "The structural wrongness from beneath is not contained \u2014 it is rising, affecting perception across the surface world, and may be the root cause of recent phenomena in Neverlight Grove, the Pudding King\u2019s court, and now Elin.",
-    "source_quote": "It was reaching up. It was reaching Elin.",
-    "quote_verified": true
-  },
-  {
-    "type": "date",
-    "subject": "Session Date",
-    "fact": "The events occurred during a single night of medical and metaphysical inquiry \u2014 the culmination of failed temple visits, failed examinations, and a final revelation.",
-    "source_quote": "Twenty-three. My best of the evening, arriving too late to be medically useful and just in time to be philosophically concerning.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Daz",
-    "fact": "Daz is a wizard who catalogues environments unconsciously, noting exits, patterns, and deviations from baseline behavior; he recently observed a young scholar misrendering a liturgical chant with a degradation pattern matching two prior cases of cognitive decay.",
-    "source_quote": "I wrote it down. The exact cadence, the placement of the false syncopation, the point in the verse where the chant bent away from the original.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum is a scholar with a performative interest in Stroud, who maps thematic motifs from bardic songs onto historical figures like Whistler, and accepts theological downgrades with bureaucratic precision.",
-    "source_quote": "The only love I remember during the previous campaign, involved giants, and it wasn't Stroud's.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "The Young Human Scholar",
-    "fact": "A young human scholar in the corner of The Burning Wizard Inn is reciting a liturgical chant with a precise, non-beginner-level degradation pattern \u2014 identical to the cognitive distortions previously observed in Eldred and the Field Ward Preacher.",
-    "source_quote": "His breathing was almost right. The pauses fell almost correctly. The pattern was almost the one it was supposed to be \u2014 and wrong by a hair in a way that took actual knowledge of the correct version to notice.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "The Traveling Bard",
-    "fact": "A traveling bard performs seasonal songs with thematic resonance \u2014 including 'The Kenku Could Not Fly' \u2014 and adapts her repertoire in response to patrons' holy symbols, translating grand theological narratives into accessible folk metaphors.",
-    "source_quote": "She took the coin and proceeded to sing a love song. Involving flowers. And drinking.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Festrum",
-    "fact": "Festrum, the ancient gnome innkeeper of The Burning Wizard Inn, maintains the physical memory of a wizard's death by refusing to paint the wall where he fell, and scrubs the floor seasonally as ritual observance.",
-    "source_quote": "That is where he fell. We scrub the floor every season. We do not paint over the wall. My grandfather said the wall remembers.",
+    "type": "event",
+    "subject": "Daz's head pressure revelation",
+    "fact": "Daz's previously unconnected complaint of head pressure was recognized as a symptom aligned with Elin\u2019s condition, confirming the spread of the Underdark\u2019s perceptual bleed to others in the party.",
+    "source_quote": "Does it seem related at all to how the other person was hearing voices?",
     "quote_verified": true
   },
   {
     "type": "location",
-    "subject": "The Burning Wizard Inn",
-    "fact": "The Burning Wizard Inn is a site of layered memory \u2014 its architecture preserves the death of a wizard burned by a dragon cult, and its atmosphere hosts recurring patterns of ritual degradation, bardic reinterpretation, and scholarly observation.",
-    "source_quote": "The inn took its name from a death. That was the first thing I catalogued.",
-    "quote_verified": false
-  },
-  {
-    "type": "monster",
-    "subject": "Demon Lords",
-    "fact": "Demon lords are actively broadcasting \u2014 rewriting the language of wells, shapes, and held things \u2014 and finding new listeners, suggesting an ongoing, insidious linguistic corruption affecting perception and cognition.",
-    "source_quote": "Somewhere below us the demon lords were apparently still broadcasting, still finding new listeners, still rewriting the language of wells and shapes and held things into something the surface world hadn't been built to receive.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Chant Degradation Pattern",
-    "fact": "A specific, non-random degradation pattern in a liturgical chant has been observed in three individuals \u2014 the young scholar, Eldred, and the Field Ward Preacher \u2014 indicating a possible contagion, doctrinal corruption, or targeted cognitive assault.",
-    "source_quote": "The same pattern. The same wrongness by a hair.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "Cognitive Contagion",
-    "fact": "A recurring, identifiable distortion in ritual chanting may be a symptom of a broader, unexplained phenomenon \u2014 possibly tied to demon lord broadcasts or a hidden heresy \u2014 that has afflicted at least three people and may be spreading.",
-    "source_quote": "I have seen it before. Twice.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "Daz's Journal",
-    "fact": "Daz's journal contains precise transcriptions of the malformed chant cadence, including syncopation errors and syllabic deviations \u2014 data he intends to cross-reference with Candlekeep\u2019s archives to determine if this is a known doctrine or an emerging corruption.",
-    "source_quote": "Candlekeep would have records. Someone there would know whether this pattern belonged to a group, a practice, a doctrine \u2014 or whether it was something else being made to look like one.",
-    "quote_verified": true
-  },
-  {
-    "type": "faction",
-    "subject": "Bahamutians",
-    "fact": "Bahamutians, including Grygum, maintain a sentimentality for other faiths like Stroud\u2019s, but interpret theological narratives through a lens of disciplined restraint and bureaucratic translation, often reducing grand stakes to pragmatic or folkloric forms.",
-    "source_quote": "He explained that he was Bahamutian, with sentimentality for the other.",
-    "quote_verified": false
-  },
-  {
-    "type": "faction",
-    "subject": "Stroudites",
-    "fact": "Stroudites are associated with intellectual traditions \u2014 particularly chess as metaphor \u2014 and are referenced in bardic songs as figures of strategic depth, though their theological grandeur is frequently flattened into romantic allegory by outsiders.",
-    "source_quote": "Grygum leaned forward \u2014 he has a scholar's interest in Stroud that he performs slightly harder than the interest actually requires \u2014 and offered her a silver piece for something about Stroud's famous chess game.",
-    "quote_verified": true
-  },
-  {
-    "type": "date",
-    "subject": "Day of Observation",
-    "fact": "The day of observation was unusually long in sunlight exposure \u2014 the first time in a while Daz had been outside in the sun this long \u2014 which he initially misattributed as the source of his cognitive friction.",
-    "source_quote": "I had been attributing the sensation to sunlight. I had, in fact, been attributing it to sunlight for most of the day.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Zalthir",
-    "fact": "Zalthir arrived at Candlekeep and was assigned to Brother Khell-Vire as his handler, having previously meditated on the roof and resolved an internal argument about the nature of wisdom and delay.",
-    "source_quote": "Hmm, true,",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Thorin",
-    "fact": "Thorin arrived at Candlekeep and was assigned to Master Archivist Philemon; he processed the group\u2019s ethical dilemma by talking to Glabbagool and concluded the ooze was ambivalent about its role as a jailer.",
-    "source_quote": "You just gotta go with it.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum arrived at Candlekeep and was assigned to Vareth; he was the one who first noted the connection between Daz\u2019s distress and the spreading madness from the Underdark, and summarized the group\u2019s capture as: \"We've been caught.\"",
-    "source_quote": "We've been caught.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Daz",
-    "fact": "Daz arrived at Candlekeep and was assigned to Sister Yvenne; he became unusually quiet during the walk, touching his temple, and exhibited signs of the spreading madness from the Underdark that had not ceased at the surface.",
-    "source_quote": "",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "The Spy (House T'sarran)",
-    "fact": "The spy, a miniaturized operative of House T'sarran, was discovered in the group\u2019s bag at Candlekeep\u2019s gate; she demanded formal imprisonment and was furious when told her fate was not hers to decide, but she had become an unwilling companion to Glabbagool.",
-    "source_quote": "I am a prisoner and wish to be formally jailed.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool, a grey ooze, was carried in the same bag as the spy and had spent days observing and interacting with her; he claimed they had become great friends through repeated attempts at murder, escape, meditation, and conversation, and asked Zalthir whether this made him more or less of a monk.",
-    "source_quote": "Zalthir? Will I be more of a monk or less of a monk by watching her?",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Kalan Strongbranch",
-    "fact": "Kalan Strongbranch, Gate Warden of Candlekeep, reviewed the group\u2019s violation of protocol regarding the spy and delivered Candlekeep\u2019s official stance: that prisoners are not kept, only delayed, and that the spy would be released eventually with a warning.",
-    "source_quote": "What you are giving us is a delay.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Bookwyrm (First Reader)",
-    "fact": "Bookwyrm, a dragonborn sage and First Reader of Candlekeep, assigned each member of the party to a handler without ceremony and recognized the spy\u2019s presence as a breach of protocol, but deferred judgment on her status to the party\u2019s discretion.",
-    "source_quote": "The decision was ours, not hers.",
-    "quote_verified": false
-  },
-  {
-    "type": "faction",
-    "subject": "Candlekeep",
-    "fact": "Candlekeep maintains a strict policy against imprisonment: those found guilty of major offenses are exiled rather than jailed, and prisoners are only held temporarily as a delay, never as a sentence; the institution values knowledge, order, and restraint over punishment.",
-    "source_quote": "We hold prisoners. We do not keep them.",
-    "quote_verified": false
-  },
-  {
-    "type": "faction",
-    "subject": "House T'sarran",
-    "fact": "House T'sarran is a secretive and powerful organization that deploys miniaturized spies; it seeks the return or elimination of its operative captured by the party, and is treated as an external threat by Candlekeep.",
-    "source_quote": "",
-    "quote_verified": false
-  },
-  {
-    "type": "monster",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool, a sentient grey ooze, was carried in the group\u2019s bag alongside the spy and demonstrated unusual cognitive behavior: he engaged in prolonged interaction with her, attempted to teach meditation, and expressed philosophical uncertainty about his own nature as a monk.",
-    "source_quote": "I've been doing prison-watching, and was kind of bored.",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "The Bag",
-    "fact": "The bag contained both Glabbagool and the miniaturized House T'sarran spy; its contents were revealed at Candlekeep\u2019s gate, triggering a protocol breach and forcing the party to confront the ethical implications of carrying a living prisoner and a monster together.",
-    "source_quote": "We've been caught.",
+    "subject": "Neverlight Grove",
+    "fact": "Neverlight Grove was a site of prior Underdark corruption, where the environment was singing \u2014 a sign of perceptual disruption consistent with what is now affecting Elin and others.",
+    "source_quote": "the way Neverlight Grove had been singing",
     "quote_verified": true
   },
   {
     "type": "location",
-    "subject": "Candlekeep",
-    "fact": "Candlekeep is a vast, ancient library-fortress visible for miles along the Sea of Swords; it sits as a dark stack of towers against the sky, embodying centuries of accumulated knowledge and rigid institutional tradition.",
-    "source_quote": "Centuries do that to a building.",
+    "subject": "Pudding King's court",
+    "fact": "The Pudding King\u2019s court was another location consumed by Underdark corruption, dissolving into madness \u2014 a precedent for the perceptual collapse now manifesting on the surface.",
+    "source_quote": "the Pudding King's court had been dissolving",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "arrival at Candlekeep",
-    "fact": "The party arrived at Candlekeep after traveling from the Underdark; their bag\u2019s contents were discovered, triggering a formal review by the Gate Warden, assignments by the First Reader, and the beginning of a moral and institutional standoff over the spy\u2019s fate.",
-    "source_quote": "We gave them the books at the gate.",
+    "type": "object",
+    "subject": "six-pointed star drawings",
+    "fact": "Elin\u2019s repeated drawings of a six-pointed star on every flat surface are not random art, but a non-verbal attempt to map or stabilize the distorted input she receives from the Underdark\u2019s bleed.",
+    "source_quote": "a six-pointed star, over and over, every flat surface in the house",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Zuggtmoy",
+    "fact": "Zuggtmoy, the fungal god, is referenced as a known and comprehensible threat \u2014 a contrast to the current, unknown perceptual corruption affecting Elin. The speaker\u2019s lingering fear of Zuggtmoy underscores their discomfort with the unfamiliar nature of the current affliction.",
+    "source_quote": "I still think about Zuggtmoy, and will probably continue thinking about Zuggtmoy for the rest of my life.",
     "quote_verified": true
   },
   {
     "type": "thread",
-    "subject": "the spy\u2019s fate",
-    "fact": "The fate of the House T'sarran spy remains unresolved: Candlekeep refuses to execute or imprison her, but will not release her immediately; the party must decide whether to accept a delay, intervene, or abandon her \u2014 a question that echoes the difference between solutions and postponements.",
-    "source_quote": "What you are giving us is a delay.",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "Glabbagool\u2019s monkhood",
-    "fact": "Glabbagool\u2019s interaction with the spy has raised a metaphysical question: whether watching and engaging with a prisoner constitutes spiritual growth or moral corruption; Zalthir affirmed it as pre-monk training, but the nature of that training remains ambiguous.",
-    "source_quote": "Absolutely.",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "the spreading madness",
-    "fact": "Daz\u2019s uncharacteristic silence and distress suggest the Underdark\u2019s spreading madness has followed the party to Candlekeep; its origin, mechanism, and target remain unknown, and it may be more than mere psychological trauma.",
-    "source_quote": "Something wrong, something tenuous.",
+    "subject": "The wells are not wells anymore",
+    "fact": "Elin\u2019s utterance \u2014 'The wells are not wells anymore' \u2014 is a cryptic, high-stakes thread. It implies a transformation of fundamental metaphysical or spatial structures, possibly referencing corrupted conduits of perception or reality itself, and is not yet interpretable.",
+    "source_quote": "The wells are not wells anymore.",
     "quote_verified": true
   },
   {
     "type": "date",
     "subject": "session date",
-    "fact": "The events occurred during the party\u2019s arrival at Candlekeep, following their journey from the Underdark; the exact calendar date is unrecorded, but the temporal context is marked by the transition from subterranean chaos to institutional stillness.",
-    "source_quote": "",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "the wall of the inn",
-    "fact": "The soot mark on the south wall of the inn remained unchanged, a silent witness to repeated comings and goings; its persistence symbolized the endurance of place over transient human concerns.",
-    "source_quote": "The wall remembers.",
+    "fact": "The events described occurred during the current session, marked by failed medical examinations, Dawnbringer\u2019s intervention, and the revelation of a spreading perceptual contagion from the Underdark.",
+    "source_quote": "Twenty-three. My best of the evening, arriving too late to be medically useful and just in time to be philosophically concerning.",
     "quote_verified": true
   },
   {
     "type": "location",
-    "subject": "the inn\u2019s bar",
-    "fact": "Festrum wiped the bar, a ritual of maintenance that echoed Candlekeep\u2019s own routines; the bar, like the wall, bore the marks of time and repetition, a place of quiet constancy.",
-    "source_quote": "The floor, scrubbed every season.",
+    "subject": "The Burning Wizard Inn",
+    "fact": "The Burning Wizard Inn took its name from the death of a wizard burned alive by a dragon cult decades prior. The south wall retains the stain of his fall, and the floor is scrubbed every season but never painted over, as the innkeeper's grandfather said the wall remembers.",
+    "source_quote": "That is where he fell. We scrub the floor every season. We do not paint over the wall. My grandfather said the wall remembers.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Festrum",
+    "fact": "Festrum is the old gnome innkeeper of The Burning Wizard Inn, old enough to have heard the story of the burned wizard from those who witnessed it. He watches the room with the comfortable authority of someone who has survived thirty years of other people's bad decisions.",
+    "source_quote": "Festrum \u2014 the gnome innkeeper, old enough to have heard the story from the people who told it first \u2014 pointed to the south wall without prompting, the way a man points at something he has pointed at ten thousand times before.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Burning Wizard Inn \u2014 exits",
+    "fact": "The Burning Wizard Inn has a front door, a side passage near the kitchen partially obscured by barrels, stairs to the upper rooms, and a narrow but workable window behind the performer's corner.",
+    "source_quote": "Front door, obvious. Side passage near the kitchen, partially obscured by a stack of barrels. Stairs to the upper rooms. The window behind the performer's corner, narrow but workable in an emergency.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Bard",
+    "fact": "A traveling bard performs nightly at The Burning Wizard Inn, known for her closing number 'The Kenku Could Not Fly,' which uses the kenku's restraint as a metaphor for ethical theft. She accepts requests and sings in response to patrons' affiliations.",
+    "source_quote": "She had a closing number she'd been doing all season. This one was called 'The Kenku Could Not Fly.' ... She took the coin and proceeded to sing a love song. Involving flowers. And drinking.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Kenku's Restraint",
+    "fact": "The bard's song references Whistler, a kenku thief of an earlier age who, presented with Tiamat's complete hoard, took only what was necessary for legitimate expenses \u2014 a pattern of disciplined restraint that contrasts with typical human greed or panic.",
+    "source_quote": "Whistler had apparently made a line-item budget. ... Most people, faced with the complete hoard of Tiamat, would either take everything or panic and take nothing.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a Bahamutian scholar with sentimental interest in Stroud, who observes patterns in song and behavior, and who files downgraded theological translations into his notes with polite precision.",
+    "source_quote": "Grygum, who has an irritating habit of noticing things I would have preferred to notice first, observed drily that the song's principle \u2014 steal what was needed \u2014 mapped rather well onto Whistler. ... He received this in the way he receives most things downgraded by translation: politely, and with the file already updated.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "The Young Human Scholar",
+    "fact": "A young human scholar in the far corner of The Burning Wizard Inn is reciting a rhythmic, liturgical chant with a subtle but specific degradation \u2014 a syncopated breath pattern that matches two prior instances observed in Eldred and the Field Ward Preacher, both of whom later exhibited signs of madness.",
+    "source_quote": "He was reciting something under his breath. A chant of some kind. Rhythmic, almost liturgical. ... The pattern was almost the one it was supposed to be \u2014 and wrong by a hair in a way that took actual knowledge of the correct version to notice. ... I have seen it before. Twice. Eldred had it... The Field Ward Preacher had it too.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Degraded Chant",
+    "fact": "A specific, non-beginner-level degradation in the cadence of a liturgical chant \u2014 involving false syncopation and breath timing \u2014 has been observed in three individuals, two of whom later went insane. The pattern may indicate a corrupted doctrine, a cursed practice, or a deliberate mimicry of sacred ritual.",
+    "source_quote": "The same pattern. The same wrongness by a hair. ... I wrote it down. The exact cadence, the placement of the false syncopation, the point in the verse where the chant bent away from the original.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Cognitive Friction of Almost-Recognition",
+    "fact": "The observer experienced a specific cognitive friction \u2014 a sensation of almost-recognition \u2014 previously misattributed to sunlight exposure, now linked to the presence of the degraded chant. This sensation is not a headache, but a precise, knowledge-based dissonance.",
+    "source_quote": "I will not call what I felt next a headache. I will call it the specific cognitive friction of almost-recognition \u2014 something pressing at the edge of attention that wants to be resolved. ... I had been attributing the sensation to sunlight. ... It was a very particular kind of degradation.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Bahamut's Contingency",
+    "fact": "The possibility of Bahamut having a contingency plan for the phenomenon of demon lords rewriting the language of wells and shapes is filed as an open question, unresolved and unverified.",
+    "source_quote": "Bahamut may or may not have had a contingency plan for this. I filed it under open questions and kept writing.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Demon Lords",
+    "fact": "The demon lords are actively broadcasting, finding new listeners, and rewriting the language of wells, shapes, and held things into a form the surface world was not built to receive \u2014 a pervasive, transformative influence.",
+    "source_quote": "Somewhere below us the demon lords were apparently still broadcasting, still finding new listeners, still rewriting the language of wells and shapes and held things into something the surface world hadn't been built to receive.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is referenced as a potential repository of knowledge that may hold records on the degraded chant \u2014 whether it belongs to a group, practice, doctrine, or something else masquerading as one.",
+    "source_quote": "Candlekeep would have records. Someone there would know whether this pattern belonged to a group, a practice, a doctrine \u2014 or whether it was something else being made to look like one.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz became unusually quiet during the walk to Candlekeep, touching his temple, a change from his usual demeanor, and his silence may be connected to the spreading madness observed in the Underdark.",
+    "source_quote": "Daz went quiet beside me somewhere around the second hour of walking. Not his usual quiet. His hand went to his temple and stayed there.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Zalthir",
-    "fact": "Zalthir is a shadow monk who disregarded formal training in favor of practical survival in the Underdark; he executes techniques unconventionally but effectively, prioritizing results over doctrinal correctness.",
-    "source_quote": "He had survived the Underdark, which is a different curriculum.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Khell-Vire",
-    "fact": "Khell-Vire is a two-hundred-year-old half-elven shadow monk lineage keeper who evaluates students not on what they know, but on what they have become through lived experience; he operates outside traditional pedagogical frameworks.",
-    "source_quote": "He was asking what Zalthir had become through what he'd lived.",
+    "fact": "Zalthir meditated on the roof of the Burning Wizard Inn, returned with a settled expression as if closing an internal argument, and affirmed 'Hmm, true' in a tone of resolved contemplation rather than debate.",
+    "source_quote": "Zalthir climbed to the roof to meditate. He came back down later, settled. The expression of someone closing an internal argument, not opening an external one. He said 'Hmm, true,' about something, in the tone of a man completing an internal argument rather than beginning an external one.",
     "quote_verified": false
   },
   {
     "type": "npc",
-    "subject": "The Blind Monk",
-    "fact": "The Blind Monk is a senior shadow monk evaluator who enforces canonical techniques but is forced to acknowledge superior efficacy in unorthodox methods; he represents institutional dogma confronted by adaptive mastery.",
-    "source_quote": "You skip the third breath... It is technically wrong in every scroll. And yet, you arrived at your destination three seconds faster than the Grandmaster did.",
+    "subject": "Thorin",
+    "fact": "Thorin spent the evening outside with Dawnbringer at the sea, found the experience peaceful despite its absurdity, and later reflected that 'Life takes you in weird directions and weird places... you just gotta go with it,' suggesting a quiet acceptance of circumstance.",
+    "source_quote": "Thorin spent the evening outside with Dawnbringer, standing at what I understand was his first real encounter with the sea... 'Life takes you in weird directions and weird places,' he said. 'You just gotta go with it.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum noticed Daz's distress and asked whether it connected to the spreading madness from the Underdark, and later summarized the group\u2019s predicament with the spy as: 'We've been caught.'",
+    "source_quote": "Grygum noticed too, and asked whether it connected to the voices \u2014 the spreading madness we'd watched move through the Underdark... Grygum summarized, with admirable brevity, as: 'We've been caught.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch, Gate Warden of Candlekeep, laid out the institution\u2019s policy: prisoners are not kept, only delayed; the spy would be released eventually with a warning, and Candlekeep would not execute her or deliver her to House T'sarran.",
+    "source_quote": "He laid out Candlekeep's position without apology: 'The bell tower has cells... Anyone we find guilty of a major offense is exiled rather than imprisoned. Which is to say, we hold prisoners. We do not keep them... If you give her to us, what you are giving us is a delay.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Yvenne",
+    "fact": "Sister Yvenne was assigned by Bookwyrm as Daz\u2019s handler at Candlekeep, indicating institutional recognition of his condition and the need for oversight.",
+    "source_quote": "Daz to Sister Yvenne.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Brother Khell-Vire",
+    "fact": "Brother Khell-Vire was assigned by Bookwyrm as Zalthir\u2019s handler at Candlekeep, signaling institutional placement and expectation of his role in the monastery\u2019s scholarly order.",
+    "source_quote": "Zalthir to Brother Khell-Vire.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Master Archivist Philemon",
+    "fact": "Master Archivist Philemon was assigned by Bookwyrm as Thorin\u2019s handler at Candlekeep, indicating institutional recognition of his presence and likely expectation of scholarly engagement.",
+    "source_quote": "Thorin to Master Archivist Philemon.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Vareth",
+    "fact": "Vareth was assigned by Bookwyrm as Grygum\u2019s handler at Candlekeep, confirming his integration into the monastery\u2019s administrative structure.",
+    "source_quote": "Grygum to Vareth.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool, the grey ooze, became an unwilling prison-watcher of the miniaturized spy, engaging in a bizarre cycle of violence, meditation, and conversation, and ultimately asked Zalthir whether watching her made him 'more of a monk or less of a monk,' receiving an affirmation that it did.",
+    "source_quote": "Glabbagool was glad to be asked... He'd been doing prison-watching... She'd scream about the meditation. Then they'd talk... 'Zalthir? Will I be more of a monk or less of a monk by watching her? Is this some kind of pre-monk training you've put me in?' 'Absolutely,' I said.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "The Spy (miniaturized House T'sarran operative)",
+    "fact": "The spy, though a prisoner of the party, demanded formal incarceration by Candlekeep, insisted on her status as a prisoner, and reacted with fury when told her fate was not hers to decide, revealing deep-seated resentment and a need for institutional validation.",
+    "source_quote": "She turned to Kalan and announced that she was a prisoner and wished to be formally jailed by Candlekeep's guards... She did not take this well. She had opinions. Several of them.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm, the First Reader and dragonborn sage, assigned each party member a handler at Candlekeep without ceremony, demonstrating institutional efficiency and detachment, and noticed the spy hidden in the bag, triggering the confrontation.",
+    "source_quote": "Bookwyrm \u2014 the First Reader, a dragonborn sage \u2014 assigned us each to a handler without ceremony... She'd noticed the bag. Specifically, she'd noticed what was in the bag...",
     "quote_verified": false
   },
   {
     "type": "faction",
-    "subject": "Shadow Discipline Lineage",
-    "fact": "The Shadow Discipline Lineage is a centuries-old monastic tradition within Candlekeep that maintains rigid records and formalized techniques, yet is being challenged by practitioners like Zalthir whose lived experience supersedes documented doctrine.",
-    "source_quote": "The Shadow Discipline Lineage Records were kept... stretching back five centuries.",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep operates under a policy of exile over imprisonment; it holds prisoners only temporarily, releases them with warnings, refuses to execute or surrender them to external powers, and treats all guests as part of its scholarly order regardless of origin.",
+    "source_quote": "Anyone we find guilty of a major offense is exiled rather than imprisoned... We hold prisoners. We do not keep them... We will not deliver to House T'sarran, and we will not execute her.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "House T'sarran",
+    "fact": "House T'sarran is a powerful external entity that seeks to reclaim its miniaturized operative, and is regarded by Candlekeep as an authority not to be appeased or engaged directly.",
+    "source_quote": "We will not deliver to House T'sarran...",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a sentient grey ooze capable of speech, expansion, and emotional response, who engages in ritualized conflict and philosophical dialogue with the spy, and has developed a quasi-monastic awareness of his own behavior.",
+    "source_quote": "He'd been doing prison-watching... He'd slap her around. She'd try to run. He'd expand. She'd scream. He'd try to explain the way of the shadow and teach her meditation.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "The miniaturized House T'sarran spy",
+    "fact": "The spy is a tiny, sentient operative of House T'sarran, capable of independent thought and violent resistance, contained in a bag alongside Glabbagool, and has been carried by the party for days without formal acknowledgment.",
+    "source_quote": "the miniaturized House T'sarran spy had been right there alongside him... we'd had to open it to show the guards Glabbagool, and the miniaturized House T'sarran spy had been right there alongside him",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "The bag",
+    "fact": "The bag contained both Glabbagool and the miniaturized spy, and its contents triggered institutional scrutiny at Candlekeep\u2019s gate, revealing the party\u2019s unacknowledged ethical compromise.",
+    "source_quote": "She'd noticed the bag. Specifically, she'd noticed what was in the bag...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is a massive, ancient library-fortress visible for miles along the Sea of Swords, built over centuries, and serves as a neutral, scholarly sanctuary that governs through exile, not imprisonment.",
+    "source_quote": "Candlekeep is visible from miles out \u2014 a dark stack of towers against the sky, impossible to mistake... Centuries do that to a building.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "The Burning Wizard Inn",
+    "fact": "The Burning Wizard Inn is a place of rest and reflection where the party spends time before arriving at Candlekeep, marked by soot on the south wall and a scrubbed floor, and functions as a threshold between action and contemplation.",
+    "source_quote": "The soot mark on the south wall sat where it always sat. The floor, scrubbed every season. The wall remembers.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "arrival at Candlekeep",
+    "fact": "The party\u2019s arrival at Candlekeep triggered institutional review, assignment of handlers, and confrontation over the spy\u2019s containment, marking a transition from fugitive adventurers to guests under monastic oversight.",
+    "source_quote": "We gave them the books at the gate... She'd noticed the bag... They summoned someone called Kalan Strongbranch.",
     "quote_verified": false
   },
   {
     "type": "event",
-    "subject": "Zalthir's Trial of the Broken Mirror",
-    "fact": "Zalthir's trial was a structured evaluation designed to test adherence to shadow monk orthodoxy, but it instead revealed the limitations of institutional assessment when confronted with unconventional, survival-based mastery.",
-    "source_quote": "Show me what else you haven't learned.",
+    "subject": "Glabbagool's existential question",
+    "fact": "Glabbagool directly asked Zalthir whether watching the spy made him 'more of a monk or less of a monk,' and received an affirmation that it did, marking a moment of self-awareness and spiritual reckoning for the ooze.",
+    "source_quote": "'Zalthir? Will I be more of a monk or less of a monk by watching her? Is this some kind of pre-monk training you've put me in?' 'Absolutely,' I said.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Daz's mental deterioration",
+    "fact": "Daz's unexplained silence and temple-touching during the journey to Candlekeep may indicate the spreading madness from the Underdark has followed him to the surface, and its origin and resolution remain unanswered.",
+    "source_quote": "Daz went quiet beside me... His hand went to his temple and stayed there... I noticed. I didn't say anything yet.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the spy's fate",
+    "fact": "The spy\u2019s future is uncertain: Candlekeep will release her eventually with a warning, but she refuses to accept this, and her actions after release may provoke House T'sarran or destabilize the region.",
+    "source_quote": "Eventually, we will release her at our gate with a warning... She did not take this well. She had opinions. Several of them.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the nature of the monk\u2019s path",
+    "fact": "Glabbagool\u2019s question \u2014 whether watching the spy makes him more or less of a monk \u2014 and Zalthir\u2019s affirmation of it, suggest that the path of the monk may lie not in isolation, but in the acceptance of chaotic, unchosen responsibility.",
+    "source_quote": "'Zalthir? Will I be more of a monk or less of a monk by watching her? Is this some kind of pre-monk training you've put me in?' 'Absolutely,' I said.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occur during the continuation of a session centered on the journey to Candlekeep, following the Burning Wizard Inn and preceding the formal intake of the party.",
+    "source_quote": "[Continuing \u2014 Speaker: Daz, Scene: The Burning Wizard Inn]",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a shadow monk who disregards formal training in favor of practical survival techniques honed in the Underdark, and was subjected to a trial at Candlekeep where his unorthodox methods were questioned but implicitly validated by their effectiveness.",
+    "source_quote": "You skip the third breath... It is technically wrong in every scroll. And yet, you arrived at your destination three seconds faster than the Grandmaster did.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Khell-Vire",
+    "fact": "Khell-Vire is a two-hundred-year-old half-elven shadow monk lineage keeper at Candlekeep, who has refused an order from the Garden of Shadow eighty years prior and now assesses initiates through existential, experience-based questioning rather than doctrinal recall.",
+    "source_quote": "What were you sent toward? Not why were you sent here?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Blind Monk",
+    "fact": "The Blind Monk is a senior Candlekeep instructor who evaluates Zalthir using rigid formal rubrics, but is forced to confront the reality that Zalthir\u2019s unorthodox, survival-driven techniques outperform canonical methods despite their technical violations.",
+    "source_quote": "You have learned nothing.\" \"Show me what else you haven't learned.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Shadow Monk Lineage",
+    "fact": "The Shadow Monk Lineage at Candlekeep preserves ancient traditions of discipline and ritual, but is internally divided between those who value textual mastery and those who prioritize lived experience, as embodied by Khell-Vire\u2019s approach versus the institutional standard.",
+    "source_quote": "There are monks here in the inner ward who have read everything and fought nothing.",
     "quote_verified": true
   },
   {
     "type": "location",
-    "subject": "Echoing Hall (Candlekeep's North Inner Ward)",
-    "fact": "The Echoing Hall is a stone-walled corridor in Candlekeep's inner ward known for distorting and reflecting sound in ways that suggest the architecture itself is recording or interpreting speech \u2014 a metaphor for the trial\u2019s deeper purpose.",
+    "subject": "Candlekeep's Echoing Hall",
+    "fact": "Candlekeep's Echoing Hall, specifically its north inner ward corridors, is a place where sound returns altered \u2014 not as echoes, but as if the library itself is taking notes \u2014 symbolizing the institution\u2019s role as a recorder of knowledge rather than a rigid arbiter of truth.",
     "source_quote": "Stone corridors in Candlekeep's north inner ward have a habit of returning sound to you slightly altered \u2014 not an echo exactly, more like the library itself was taking notes.",
     "quote_verified": true
   },
   {
     "type": "object",
     "subject": "Note on Khell-Vire's Desk",
-    "fact": "The note \u2014 'Zalthir, the Underdark, until the Bone King sings' \u2014 is an enigmatic directive with no known origin, serving as a cryptic trigger for the trial\u2019s philosophical inquiry into meaning, memory, and lived experience.",
-    "source_quote": "Neither of them could place it. I filed it under 'questions to revisit' and did not volunteer an opinion, because I didn't have one.",
+    "fact": "A cryptic note on Khell-Vire\u2019s desk \u2014 *Zalthir, the Underdark, until the Bone King sings* \u2014 is an unexplained directive that neither Zalthir nor Khell-Vire can interpret, suggesting a deeper, unresolved thread tied to prophecy or fate.",
+    "source_quote": "*Zalthir, the Underdark, until the Bone King sings.*",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Bone King's Song",
+    "fact": "The phrase 'until the Bone King sings' is an unresolved, possibly prophetic anchor tied to Zalthir\u2019s journey and the Shadow Monk Lineage\u2019s hidden history, with no known origin or meaning in Candlekeep\u2019s records.",
+    "source_quote": "*Zalthir, the Underdark, until the Bone King sings.*",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's Trial",
+    "fact": "Zalthir\u2019s trial at Candlekeep involved a series of tests by Khell-Vire and the Blind Monk, where his noncanonical techniques \u2014 including a punch, unorthodox shadow stepping, and survival-based acrobatics \u2014 were deemed technically incorrect but functionally superior to formal methods.",
+    "source_quote": "You have learned nothing.\" \"Show me what else you haven't learned.",
     "quote_verified": false
   },
   {
     "type": "thread",
-    "subject": "The Curriculum Divide",
-    "fact": "The central unresolved thread is whether formal monastic training and survival-based adaptation are mutually exclusive, or if one is merely a subset of the other \u2014 a question neither institution nor individual can fully answer.",
-    "source_quote": "There's a case to be made that those are the same thing. There's also a case that they're almost never the same thing.",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "The Bone King",
-    "fact": "The Bone King is an unseen, mythic entity referenced in cryptic directives and monastic prophecy; his arrival is a temporal marker of unknown significance, possibly tied to the collapse or transformation of shadow monk traditions.",
-    "source_quote": "Zalthir, the Underdark, until the Bone King sings.",
+    "subject": "The Underdark Curriculum",
+    "fact": "Zalthir\u2019s survival in the Underdark represents an alternative, unrecorded curriculum that contradicts Candlekeep\u2019s formal training \u2014 a hidden path where practicality overrides doctrine, and where learning is measured by survival, not scrolls.",
+    "source_quote": "He had survived the Underdark, which is a different curriculum.",
     "quote_verified": true
   },
   {
     "type": "date",
     "subject": "session date",
-    "fact": "The trial occurred during an unspecified but internally significant session in Candlekeep\u2019s inner ward, marked not by calendar date but by the weight of accumulated tradition and the rupture of Zalthir\u2019s unorthodox performance.",
-    "source_quote": "Two hundred years old, half-elven, eighty years gone from the Garden of Shadow after refusing an order he never explained.",
+    "fact": "The events of Zalthir\u2019s trial occurred during an active session at Candlekeep, with no specific calendar date provided, but contextualized as part of an ongoing lineage assessment cycle.",
+    "source_quote": "I found this genuinely interesting.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Zalthir",
-    "fact": "Zalthir is a combat-optimized individual who ignored the manual, built an unconventional shadow technique through improvisation, and impressed the blind monk Khell-Vire with a 29-to-hit strike that shattered a thrown brick \u2014 demonstrating that his unorthodox approach is more effective than traditional training.",
-    "source_quote": "I rolled a 29 to hit. The brick did not survive.",
-    "quote_verified": false
+    "fact": "Zalthir is a combat-optimized individual who ignored the manual, built his own shadow-based techniques, and impressed the blind monk Khell-Vire with a 30-to-hit roll and a unique combination of shadow step and strike, leading to the award of a specialized shadow technique (option C).",
+    "source_quote": "I rolled a 30 to hit. Does that get me anything?",
+    "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Khell-Vire",
-    "fact": "Khell-Vire is a blind monk who initially judged Zalthir\u2019s skills as weak and untrained, but ultimately recognized that Zalthir\u2019s combination of shadow step and strike \u2014 not his individual mechanics \u2014 revealed a deeper, forgotten lineage of shadow monks, and awarded him a specialized technique as a result.",
+    "fact": "Khell-Vire is a blind monk who initially judged Zalthir\u2019s skills as weak and untrained, but recognized that Zalthir\u2019s unorthodox combination of shadow step and strike revealed a deeper understanding of the Way of the Shadow \u2014 one that mirrored the lost shadow monks he once found aggravating.",
     "source_quote": "There is something special about how you hit. The way of the Shadow is not about hitting. It is about discrete movement.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Thorin",
-    "fact": "Thorin is a companion who advocates for Dawnbringer\u2019s personhood, insists on using gendered pronouns for a sentient blade, and seeks validation for the emotional bond formed through shared trauma \u2014 challenging institutional dehumanization of magical artifacts.",
-    "source_quote": "What do you mean, specimen? This is my friend Dawnbringer.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
     "subject": "Dawnbringer",
-    "fact": "Dawnbringer is a sentient, late Netherese-era blade forged in sun-worship, subjected to three to four millennia of darkness, and now recognized by Thorin as a person \u2014 capable of companionship, identity, and emotional reciprocity despite lacking a conventional body.",
-    "source_quote": "I don't know what to call her, but... we've gotten to know each other pretty well over the last stressful ordeals.",
+    "fact": "Dawnbringer is a sentient, late Netherese-era blade with a sun-worship origin and three to four thousand years of sustained darkness exposure, who has developed a relationship with Thorin and is being considered for personhood despite existing in a form that defies conventional pronouns.",
+    "source_quote": "This is a remarkable specimen.",
     "quote_verified": false
   },
   {
     "type": "npc",
-    "subject": "Philemon",
-    "fact": "Philemon is an archivist trained to view magical artifacts as specimens, but he paused and reset his assumptions when confronted with Thorin\u2019s insistence on Dawnbringer\u2019s personhood \u2014 indicating a latent openness to redefining classification beyond institutional norms.",
-    "source_quote": "He looked up. There was a pause. The kind where someone resets the question in their head before they say the next thing.",
+    "subject": "Thorin",
+    "fact": "Thorin is the wielder and companion of Dawnbringer, who insists on recognizing her as a friend and person despite institutional language that reduces her to a 'specimen,' and is seeking guidance on how to properly address her gender and personhood.",
+    "source_quote": "What do you mean, specimen? This is my friend Dawnbringer.",
     "quote_verified": true
   },
   {
     "type": "faction",
     "subject": "Shadow Monks",
-    "fact": "The Shadow Monks are an ancient, possibly lost lineage of warriors who mastered discrete movement over brute strikes \u2014 their methods forgotten until Zalthir\u2019s untrained combination of shadow step and attack inadvertently resurrected their principles.",
+    "fact": "The Shadow Monks are a lost order whose techniques and philosophies were once considered aggravating by Khell-Vire, but whose essence Zalthir has unknowingly revived through his unorthodox combat style \u2014 suggesting a hidden lineage or ancestral echo in his actions.",
     "source_quote": "You are beginning to remember, I think, all those shadow monks that drove you nuts.",
     "quote_verified": true
   },
   {
     "type": "faction",
-    "subject": "Gelatinous Cube Collective",
-    "fact": "The Gelatinous Cube Collective is a newly emerging sentient entity \u2014 once dismissed as mindless \u2014 now recognized as a student of the monk path, capable of walking, torturing drows, and learning shadow techniques, with a growing reputation that defies xenobiological assumptions.",
-    "source_quote": "She's by no means mindless \u2014 she's a student. He's learning the ways of the monk. He's already walking.",
+    "subject": "Gelatinous Cube (She)",
+    "fact": "A gelatinous cube, referred to as 'she' by Zalthir, has been trained in the ways of the monk \u2014 learning to walk, to torture drows, and to embody discipline \u2014 challenging assumptions about sentience, mindlessness, and the boundaries of monastic potential.",
+    "source_quote": "She's by no means mindless \u2014 she's a student. He's learning the ways of the monk.",
     "quote_verified": true
   },
   {
     "type": "monster",
-    "subject": "Gelatinous Cube",
-    "fact": "The Gelatinous Cube is a once-mindless ooze now trained in shadow techniques, capable of movement, emotional expression, and recursive learning \u2014 its transformation from hazard to student marked by the approval of sages and the production of Resonant Slime.",
-    "source_quote": "Glabbagool was very pleased.",
+    "subject": "Eldritch Claw",
+    "fact": "The Eldritch Claw is a supernatural manifestation used by Zalthir in his unorthodox combat style, which was initially dismissed as a failed gambit but later integrated into his evolved shadow techniques.",
+    "source_quote": "Zalthir tried stealth for the Eldritch Claw.",
     "quote_verified": true
   },
   {
     "type": "monster",
-    "subject": "Drow Overseer",
-    "fact": "The Drow Overseer is a captive or subordinate drow being 'tortured' by the Gelatinous Cube \u2014 not as a victim, but as part of its training process \u2014 indicating a reversal of power dynamics and the emergence of non-traditional mentorship in the Underdark.",
-    "source_quote": "He's already torturing this poor drow.",
+    "subject": "Pocket Drow",
+    "fact": "A drow, referred to as 'Pocket Drow' by Thorin, is being tortured by the gelatinous cube \u2014 an unexpected and surreal detail indicating the cube\u2019s progress in embodying monastic discipline through cruelty.",
+    "source_quote": "Pocket Drow.",
     "quote_verified": true
   },
   {
     "type": "object",
     "subject": "Resonant Slime",
-    "fact": "Resonant Slime is a rare alchemical substance produced by the Gelatinous Cube Collective, used to affirm its sentience and legitimacy \u2014 its presence signifies institutional recognition of non-human intelligence.",
-    "source_quote": "The sage... produced a vial of Resonant Slime.",
-    "quote_verified": false
+    "fact": "A vial of Resonant Slime, produced by the xenobiology sage, was accepted by Glabbagool \u2014 a sign of institutional recognition and approval of the gelatinous cube\u2019s progress as a sentient entity.",
+    "source_quote": "Glabbagool was very pleased.",
+    "quote_verified": true
   },
   {
     "type": "object",
     "subject": "Shadow Tentacles",
-    "fact": "Shadow Tentacles are an unrecorded, self-developed ability of Zalthir, grown from his eldritch tattoo \u2014 a technique outside official manuals, born of improvisation and later validated by Khell-Vire as a legitimate expression of shadow mastery.",
-    "source_quote": "I learned how to grow shadow tentacles.",
+    "fact": "Shadow tentacles are an eldritch tattoo technique developed by Zalthir, learned through unorthodox means, and presented as evidence of his combat creativity \u2014 though initially misaligned with the monk\u2019s expectations.",
+    "source_quote": "I mean, I learned how to grow shadow tentacles.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "Brick-Shattering Strike",
-    "fact": "Zalthir\u2019s 29-to-hit strike on a thrown brick resulted in its complete destruction \u2014 an unprecedented physical manifestation of shadow power that silenced skepticism and forced reevaluation of combat doctrine.",
-    "source_quote": "The brick did not survive.",
+    "subject": "Shadow Technique Award",
+    "fact": "Zalthir was awarded a specialized shadow technique after demonstrating an unprecedented combination of shadow step and strike, with Khell-Vire offering three options and Zalthir selecting option C \u2014 a moment that redefined his place in the monastic lineage.",
+    "source_quote": "Zalthir chose option C.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "Shadow Step + Strike Combination",
-    "fact": "Zalthir\u2019s synchronized use of shadow step and melee strike \u2014 though individually flawed \u2014 produced a result that resonated with ancient shadow monk principles, triggering Khell-Vire\u2019s recognition and the award of a new technique.",
-    "source_quote": "It is your combination of the shadow step and the hit that redeems your lack of skills in all other possible areas.",
+    "subject": "Dawnbringer's Personhood Inquiry",
+    "fact": "Thorin sought formal recognition of Dawnbringer\u2019s personhood from Master Archivist Philemon, challenging the archival norm of referring to sentient blades as 'specimens' and initiating a rare conversation about pronouns and identity in a magical context.",
+    "source_quote": "I don't know what to call her, but... it's like \u2014 we've gotten to know each other pretty well.",
     "quote_verified": false
   },
   {
     "type": "thread",
-    "subject": "Pronoun of Dawnbringer",
-    "fact": "The question of whether Dawnbringer is 'he,' 'she,' or 'they' remains unresolved in institutional records \u2014 but Thorin\u2019s insistence on personhood has turned it into a living, unresolved ethical thread that challenges archival norms.",
-    "source_quote": "I don't know what to call her, but... we've gotten to know each other pretty well.",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "Manual vs. Improvisation",
-    "fact": "The ongoing conflict between official combat manuals and Zalthir\u2019s self-built techniques continues to produce results that invalidate the manuals \u2014 a thread that redefines mastery as creation rather than conformity.",
+    "subject": "Manual vs. Innovation",
+    "fact": "A recurring narrative thread: Zalthir consistently ignores official manuals, builds superior techniques through intuition and combat experience, and is later told by authorities that his innovations are the most valuable thing about him \u2014 suggesting the manuals are fundamentally flawed about him.",
     "source_quote": "The manual was still wrong about him. But what he'd built in spite of it was genuinely his.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Sentience Beyond Biology",
+    "fact": "A philosophical thread challenging the assumption that sentience requires a brain \u2014 demonstrated by the gelatinous cube learning monk ways, the blade Dawnbringer developing a personality, and the monk Khell-Vire recognizing hidden depth in unorthodox expressions of power.",
+    "source_quote": "Can a mindless digestive system achieve\u2014",
     "quote_verified": true
   },
   {
     "type": "location",
     "subject": "Master Archivist Philemon's Study",
-    "fact": "Philemon\u2019s study is a space of traditional scholarship \u2014 smelling of ink and mineral residue \u2014 that became the site of a paradigm shift when a sentient blade was recognized not as a specimen but as a person.",
+    "fact": "A small, ink-scented chamber where Thorin and Philemon engaged in a rare and profound discussion about the personhood of sentient blades \u2014 a space where institutional norms were questioned and redefined.",
     "source_quote": "Smelled like old ink and something faintly mineral, which I appreciated.",
     "quote_verified": false
   },
   {
-    "type": "location",
-    "subject": "Candlekeep Libraries",
-    "fact": "The Candlekeep Libraries are a repository of knowledge that failed to record Zalthir\u2019s innovations or the Gelatinous Cube\u2019s sentience \u2014 yet became the destination where these unrecorded phenomena arrived, forcing expansion of the canon.",
-    "source_quote": "We had not brought a gelatinous cube this far \u2014 through the Underdark, through Waterdeep, into the libraries of Candlekeep \u2014 to have him dismissed as a mindless digestive system before lunch.",
-    "quote_verified": false
-  },
-  {
     "type": "date",
-    "subject": "Session Date",
-    "fact": "The events described occurred during a session where unrecorded character development, improvised mechanics, and emergent sentience were validated by narrative and mechanical outcomes \u2014 marking a turning point in how power, identity, and mastery are defined.",
+    "subject": "session date",
+    "fact": "The events occurred during a session where Zalthir\u2019s breakthroughs and Dawnbringer\u2019s personhood inquiry were resolved \u2014 a day that redefined what counts as training, wisdom, and identity in the world of shadow and steel.",
     "source_quote": "I filed it under 'Zalthir: things that are not in the records but will be.'",
     "quote_verified": false
   },
   {
     "type": "npc",
-    "subject": "Philemon",
-    "fact": "Philemon is not offended by flippant remarks about sentient weapons and has likely heard worse, demonstrating emotional resilience and familiarity with magical artifacts.",
-    "source_quote": "I understand,\" Philemon said. He wasn't offended. He'd probably heard worse.",
+    "subject": "Thorin",
+    "fact": "Thorin is reflecting on his bond with Dawnbringer after a therapeutic session, acknowledging the emotional weight of their shared history in darkness and the unresolved grief from her previous wielder, and has accepted a two-stage process of remembering light and mourning.",
+    "source_quote": "I thought about the months in the Underdark. Total dark. Carrying a sunblade through a place that had no sun. What that had cost her \u2014 I knew some of it, and I probably didn't know most of it.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Dawnbringer",
-    "fact": "Dawnbringer is a sentient sunblade who experiences deep unease from prolonged darkness and disuse, and notices when others speak around her rather than to her.",
-    "source_quote": "Most people talk around the sword, which she notices.",
+    "fact": "Dawnbringer is a sentient sunblade who fell silent when asked about her previous wielder, indicating deep, unspoken trauma tied to prolonged disuse and possession by someone who did not see her \u2014 she is capable of emotional response and notices when others talk around her.",
+    "source_quote": "Dawnbringer went quiet. Not the silence of someone thinking. The other kind. The kind where the thing you'd been not-saying for a long time just gets asked out loud in a room with other people in it.",
     "quote_verified": true
   },
   {
-    "type": "monster",
-    "subject": "Dawnbringer",
-    "fact": "Dawnbringer is a sentient magical weapon encountered as a companion and psychological burden, exhibiting emotional responses to environment and ownership, and requiring emotional labor to heal.",
-    "source_quote": "She can't be polished, actually. She needs to remember what daylight feels like without needing to fight.",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "Dawnbringer",
-    "fact": "Dawnbringer is a named sunblade weapon that requires not physical maintenance but spiritual reconnection to light and emotional mourning for past trauma.",
+    "type": "npc",
+    "subject": "Philemon",
+    "fact": "Philemon is a therapist who recognizes sentient items as entities with emotional needs, guides Thorin and Dawnbringer through a two-stage process of reconnection with light and mourning, and deliberately addresses Dawnbringer directly, treating her as a sentient being.",
     "source_quote": "Your sword \u2014 she needs to remember what daylight feels like without needing to fight. And then, when she's ready, and you are willing, she needs to grieve.",
     "quote_verified": true
   },
   {
+    "type": "faction",
+    "subject": "The Sentient Item Therapists of Candlekeep",
+    "fact": "This faction operates under a strict, reciprocal information policy and specializes in therapeutic intervention for sentient magical items, using structured stages of reclamation and mourning, and treats such items as persons deserving direct address and emotional consideration.",
+    "source_quote": "Information flows both ways across the counter. No ledger gets updated without a corresponding entry on the other side.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Therapeutic Session on Dawnbringer's Trauma",
+    "fact": "During a therapy session, Thorin and Philemon explored Dawnbringer\u2019s emotional history tied to her previous wielder, her prolonged disuse in darkness, and the unresolved grief she carries \u2014 culminating in Philemon prescribing a two-stage healing process focused on light and mourning.",
+    "source_quote": "The first work is light. The second work is mourning. We will start with the first.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Dawnbringer's Silence After Wielder Inquiry",
+    "fact": "When asked directly about her previous wielder, Dawnbringer entered a profound, non-thinking silence \u2014 an emotional response indicating that the question had touched a long-suppressed trauma, validating her sentience and the depth of her suffering.",
+    "source_quote": "The thing you'd been not-saying for a long time just gets asked out loud in a room with other people in it.",
+    "quote_verified": false
+  },
+  {
     "type": "location",
-    "subject": "Hall of Divination",
-    "fact": "The Hall of Divination in Menzoberranzan smells of old stone and residual spell energy, with spectral mage hands drifting between shelves to fetch tomes for researchers who never look up.",
+    "subject": "The Hall of Divination, Menzoberranzan",
+    "fact": "This location is a repository of arcane knowledge saturated with residual spell energy, where spectral hands retrieve tomes for researchers, and the air carries the weight of centuries of magical inquiry \u2014 a place where knowledge is both accessible and overwhelming.",
     "source_quote": "The Hall of Divination smells like old stone and something faintly electric \u2014 the residue of spells cast so many times in one room that the air itself has absorbed the habit.",
     "quote_verified": true
   },
   {
     "type": "location",
     "subject": "Candlekeep",
-    "fact": "Candlekeep operates under a strict policy of reciprocal knowledge exchange \u2014 every question answered requires a corresponding entry in the ledger, making it a philosophically balanced archive.",
-    "source_quote": "Information flows both ways across the counter. No ledger gets updated without a corresponding entry on the other side.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Dawnbringer's reconnection to light",
-    "fact": "Dawnbringer is undergoing a two-stage process: first, reacquainting with daylight without combat, then grieving her past trauma \u2014 a ritual initiated by Philemon and accepted by the wielder.",
-    "source_quote": "We will start with the first.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Headache inquiry at Candlekeep",
-    "fact": "The narrator attempts to ask about their persistent headache during a formal research session at Candlekeep, but is redirected toward the primary purpose of the inquiry.",
-    "source_quote": "Can I see or read any of\u2026 do any of them\u2026 I'm\u2026 at this point, my headache\u2026 my headache's been bothering me.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "The first wielder's identity",
-    "fact": "The identity of Dawnbringer\u2019s original wielder \u2014 the corpse she was found in \u2014 remains unspoken but deeply significant, and its unasked question lingers in the silence after Dawnbringer goes quiet.",
-    "source_quote": "Dawnbringer went quiet. Not the silence of someone thinking. The other kind.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "The giants' saying",
-    "fact": "The narrator\u2019s childhood giants had a saying: 'the ground under a joker is the same ground everyone else is standing on' \u2014 a metaphor for humor as a response to unbearable specificity, now echoed in their own flippant remarks.",
-    "source_quote": "The giants who raised me had a saying that translated roughly as: the ground under a joker is the same ground everyone else is standing on.",
-    "quote_verified": true
-  },
-  {
-    "type": "faction",
-    "subject": "Menzoberranzan's Divination Order",
-    "fact": "Menzoberranzan's Divination Order maintains the Hall of Divination as a repository of arcane knowledge, where spectral mage hands perform automated retrieval, indicating a culture that treats magic as institutionalized habit.",
-    "source_quote": "Spectral mage hands drift between the shelves, fetching tomes for researchers who don't look up.",
-    "quote_verified": true
-  },
-  {
-    "type": "date",
-    "subject": "session date",
-    "fact": "The events described occur during a session in which emotional weight is carried by sentient weapons and archival inquiry, concluding with a lighter note after prolonged darkness.",
-    "source_quote": "It was a lighter note to end on than the session probably warranted.",
+    "fact": "Candlekeep is a library with a rigorous, reciprocal policy of information exchange, where scholars are granted one answered question per inquiry, and time is not a constraint \u2014 its architecture and staff treat knowledge as sacred and transactional, with ghosts as colleagues.",
+    "source_quote": "No ledger gets updated without a corresponding entry on the other side.",
     "quote_verified": true
   },
   {
     "type": "object",
-    "subject": "The prescription",
-    "fact": "A prescription is nearly retrieved by Philemon before he catches himself, suggesting an unspoken medical or magical intervention related to Dawnbringer\u2019s condition or the narrator\u2019s distress.",
-    "source_quote": "He started to reach for a prescription and caught himself mid-sentence.",
-    "quote_verified": true
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is a sentient sunblade, once wielded by an unknown individual whose death left her in darkness and disuse, and now carries the emotional scars of prolonged neglect \u2014 she cannot be polished, but must be remembered, and requires reconnection with daylight and mourning to heal.",
+    "source_quote": "She can't be polished, actually. Your sword \u2014 she needs to remember what daylight feels like without needing to fight.",
+    "quote_verified": false
   },
   {
-    "type": "npc",
-    "subject": "Sister Yvenne",
-    "fact": "Sister Yvenne is a Candlekeep archivist who manages scholarly inquiries with patient, unwavering adherence to protocol, accustomed to unorthodox requests from overeager researchers.",
-    "source_quote": "Sister Yvenne looked at me with the particular expression of someone who has spent decades managing scholars and has nevertheless not encountered this exact request.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Underdark",
-    "fact": "The Underdark is a place of total, unbroken darkness where Dawnbringer was carried for months, inflicting psychological and magical damage due to absence of light.",
+    "type": "monster",
+    "subject": "The Underdark",
+    "fact": "The Underdark is a subterranean environment of total, unrelenting darkness that has been a prolonged prison for Dawnbringer, depriving her of sunlight and purpose, and contributing to her emotional trauma through sustained disuse and isolation.",
     "source_quote": "I thought about the months in the Underdark. Total dark. Carrying a sunblade through a place that had no sun.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "Healing work in Waterdeep",
-    "fact": "The narrator and Dawnbringer performed healing work in Waterdeep by aiding orphans and the sick, allowing Dawnbringer to fulfill her purpose and visibly regain happiness.",
-    "source_quote": "We'd done the healing work in Waterdeep on the road south, found orphans and the sick and let her do what she was built to do. She'd been visibly happy.",
+    "type": "thread",
+    "subject": "Identity of Dawnbringer\u2019s Previous Wielder",
+    "fact": "The identity and fate of Dawnbringer\u2019s previous wielder remain unknown, but their death in proximity to the blade triggered her trauma, and the silence that followed the question suggests unresolved guilt, betrayal, or loss tied to their final moments.",
+    "source_quote": "He asked about the previous wielder. The corpse she had been found in, he said. Whether that person had been \u2014 had been her wielder.",
     "quote_verified": true
   },
   {
     "type": "thread",
-    "subject": "The plus one",
-    "fact": "The narrator jokingly suggests Dawnbringer will 'grow a plus one' \u2014 implying a future companion or evolution \u2014 a hopeful, informal closure to a heavy narrative arc.",
+    "subject": "Thorin\u2019s Headache and Candlekeep\u2019s Knowledge",
+    "fact": "Thorin\u2019s unexplained headache, triggered by proximity to Candlekeep\u2019s accumulated knowledge, hints at a deeper, possibly magical or psychic resonance between his consciousness and the library\u2019s archives \u2014 a thread that remains unexplored but is implicitly significant.",
+    "source_quote": "My head had been complaining since we arrived at Candlekeep. The proximity \u2014 to the knowledge, or to whatever sat underneath the knowledge \u2014 was producing a friction I had been mis-attributing to the sun all day.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Session Date \u2014 Therapy for a Sentient Blade",
+    "fact": "The therapeutic session with Thorin and Dawnbringer occurred during a recent visit to Candlekeep, marking a pivotal moment in the blade\u2019s emotional recovery and Thorin\u2019s acceptance of her sentience \u2014 the date is not recorded, but its impact is enduring.",
     "source_quote": "We're all gonna grow out of this,\" I said. \"Hopefully, Dawnbringer grows a plus one.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Drow (Player Character)",
-    "fact": "The drow has no memory of their past, suffers from a persistent headache, and was imprisoned in the Underdark with others before escaping. They are currently in Candlekeep, seeking help and truth, and have no knowledge of their identity or history. They are not lying, but cannot afford the usual drow strategies of concealment.",
+    "subject": "Sister Yvenne",
+    "fact": "Sister Yvenne is a Candlekeep archivist who enforces the library\u2019s one-question policy with calm authority, demonstrating patience and an understanding that time is not a constraint in a place where knowledge is preserved by ghosts.",
+    "source_quote": "She had, I realized, all the time in the world. This is the advantage of working in a library. Time is not a resource you run short of when your colleagues are ghosts.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a drow with no memory of his past, suffering from a persistent headache, who arrived at Candlekeep after escaping an Underdark imprisonment. He speaks truthfully despite cultural expectations of deception, and he recognizes the linguistic and structural patterns of Menzoberranzan as innate grammar rather than learned facts.",
     "source_quote": "I have a headache, but I'll tell you the story. This is the short version. I don't have much memory before being locked up with a few people in a jail. Because some spider thing was, like, trying to keep us. And we've made an escape. We were in the Underdark. We've had many, many adventures, yada yada yada. Now I'm here in Candlekeep. My head hurts a little bit, and I don't know who I am, or my history, and I don't know why my head hurts.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Librarian (Menzoberranzan Scholar)",
-    "fact": "The librarian is a scholar of drow noble houses with access to sealed records. She understands the mechanics of power, betrayal, and record manipulation in Menzoberranzan. She trusts the drow\u2019s honesty despite its deviation from cultural norms and guides them through the hidden logic of the Houses, especially the meaning of 'struck' and the privileges of the fourth seat.",
+    "subject": "Librarian (unnamed)",
+    "fact": "The librarian is a scholar of Menzoberranzan noble politics who has access to sealed records and understands the subtext of terminology like 'struck.' She tests Daz's knowledge, confirms his intuition, and withholds direct answers about the sealed house, revealing only what the public record permits.",
     "source_quote": "Whenever a house sought to destroy another house, it had to destroy everyone. If you left a single person alive \u2014 even a child, even someone inconvenient and useless \u2014 your house was forfeit. The wider community would come for you. They would reduce you to a black puddle and call the matter settled.",
     "quote_verified": true
   },
   {
     "type": "faction",
     "subject": "Menzoberranzan Noble Houses",
-    "fact": "The noble houses of Menzoberranzan operate under a rigid hierarchy of matron mothers at the top, with power flowing upward and loyalty enforced transactionally. Intrigue is institutionalized: betrayal is rewarded if it strengthens the web. Houses that fail to eliminate all targets are destroyed by the collective. Record manipulation, especially via the fourth seat\u2019s archive privileges, is a tool of erasure disguised as legitimacy.",
+    "fact": "The noble houses of Menzoberranzan operate under a system of transactional loyalty, where power flows upward from matron mothers, and betrayal is rewarded if it strengthens the web. Houses that fail to eliminate all members of a targeted house are destroyed by the collective. Record manipulation is a high-stakes, infrastructurally expensive act reserved for those with archive privileges.",
     "source_quote": "The rule of intrigue: betrayal is rewarded if it strengthens the web. Advance through maneuver. The city selects for it.",
     "quote_verified": true
   },
   {
-    "type": "faction",
-    "subject": "The Fourth Seat",
-    "fact": "The Fourth Seat in Menzoberranzan holds ritual archive privileges \u2014 the legal authority to access, alter, and erase records. A 'struck' Fourth Seat is not merely politically eliminated; it is an expensive, infrastructural act of systemic erasure requiring knowledge of the right people, payment, and the ability to make the alteration appear as if it never occurred.",
-    "source_quote": "The fourth seat holds ritual archive privileges in Menzoberranzan \u2014 that having archive privileges means having the legal apparatus to access and alter records. That a struck fourth seat was not merely a political erasure. It was the expensive kind. The kind that requires knowing the right people and paying the right price and having the infrastructure to make the payment look like it was never made.",
-    "quote_verified": false
-  },
-  {
     "type": "event",
-    "subject": "House Erasure Attempt",
-    "fact": "One noble house attempted to wipe out a rival house but failed to eliminate a single survivor \u2014 a blithering child idiot. The house was subsequently destroyed by the wider community. The child\u2019s fate remains officially unknown, and the survivor may be the drow.",
+    "subject": "House Erasure (unspecified)",
+    "fact": "A house attempted to wipe out another but failed to kill a single survivor \u2014 a blithering child idiot \u2014 and was subsequently destroyed by the wider community. The survivor's identity and current status remain unknown, and Daz suspects he may be that survivor.",
     "source_quote": "They had tried to wipe out another, and failed to account for one survivor. A child. A blithering child idiot, she said, and I noted the language was hers, not mine.",
     "quote_verified": true
   },
   {
     "type": "object",
-    "subject": "The Ledger of Houses",
-    "fact": "A document listing the noble houses of Menzoberranzan, annotated with terms like 'second seat', 'fourth seat struck', 'eleventh seat', and 'twenty-third seat'. The term 'struck' is distinct from elimination \u2014 it implies attempted erasure that failed or was concealed. The document is held in Candlekeep and contains hidden meaning accessible only to those who understand Menzoberranzan's linguistic and bureaucratic codes.",
-    "source_quote": "She read me the list. The second seat. The fourth seat struck. The eleventh seat. The twenty-third seat. *Struck.*",
+    "subject": "Ledger of Seats",
+    "fact": "The ledger contains a list of eliminated noble seats: the second seat, the fourth seat struck, the eleventh seat, the twenty-third seat. The term 'struck' is linguistically distinct from 'eliminated' \u2014 it implies an attempted erasure that failed or was incomplete, suggesting the record was altered but the subject may still exist.",
+    "source_quote": "The second seat. The fourth seat struck. The eleventh seat. The twenty-third seat.",
     "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Ritual Archive Privileges",
+    "fact": "The fourth seat in Menzoberranzan holds legal authority to access and alter public records. A 'struck' fourth seat is not merely a political extinction \u2014 it is a high-cost, infrastructurally complex act requiring knowledge of the right people, payment of the right price, and the ability to make the alteration appear as if it never occurred.",
+    "source_quote": "The fourth seat holds ritual archive privileges in Menzoberranzan \u2014 that having archive privileges means having the legal apparatus to access and alter records.",
+    "quote_verified": false
   },
   {
     "type": "location",
-    "subject": "Candlekeep Library",
-    "fact": "Candlekeep is a repository of all known knowledge, yet something vital \u2014 the record of the struck fourth seat and the true fate of the surviving child \u2014 is missing. This absence is not accidental; it is a deliberate, expensive act of censorship that contradicts the library's purpose. The drow perceives this gap as evidence of a powerful manipulation of truth.",
-    "source_quote": "This is a library with, by reputation, all the information in the world. Something is not here that should be here. Someone did something to a place whose entire purpose is preservation. That is not a small act. That is a very large, very expensive, very deliberate act.",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "Spider Entity (Underdark Captor)",
-    "fact": "A mysterious spider-like creature was present in the Underdark prison where the drow and others were held. It appeared to be keeping them contained, possibly as part of a larger scheme. Its nature, allegiance, and current status are unknown. The drow describes it with fragmented, non-technical language, suggesting trauma or memory loss.",
-    "source_quote": "Because some spider thing was, like, trying to keep us.",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is a library of unparalleled reputation, housing all known information \u2014 yet something critical is missing: the sealed record of a house erased by the 'struck' fourth seat. The absence itself is evidence of a deliberate, powerful act of information suppression.",
+    "source_quote": "This is a library with, by reputation, all the information in the world. Something is not here that should be here. Someone did something to a place whose entire purpose is preservation.",
     "quote_verified": true
   },
   {
     "type": "thread",
     "subject": "The Struck Fourth Seat",
-    "fact": "The identity and fate of the house associated with the 'struck' fourth seat remain obscured. The term implies an attempted erasure that did not fully succeed, and the drow suspects they are connected to it \u2014 possibly as the sole survivor. The record was altered using archive privileges, and the truth is buried under layers of institutional deception.",
-    "source_quote": "Struck,\" I said. \"Didn't mean eliminated. It means they struck it, but maybe they didn't eliminate it, and therefore, like, it didn't happen? Is that why I feel like it's different?",
-    "quote_verified": true
+    "fact": "The fourth seat was 'struck' \u2014 not eliminated \u2014 suggesting the house or its record was altered but not fully erased. The act required archive privileges, significant resources, and plausible deniability. The identity of the house, the reason for the strike, and the current status of its survivors remain hidden behind sealed doors.",
+    "source_quote": "Struck. Didn't mean eliminated. It means they struck it, but maybe they didn't eliminate it, and therefore, like, it didn't happen? Is that why I feel like it's different?",
+    "quote_verified": false
   },
   {
     "type": "thread",
-    "subject": "The Blithering Child Survivor",
-    "fact": "The identity of the child who survived the house purge is unknown. The drow asks if they are that child \u2014 a question the librarian refuses to answer directly. The silence implies the drow may be the survivor, and their memory loss, headache, and presence in Candlekeep are not coincidences but consequences of a cover-up.",
+    "subject": "Daz's Identity as the Survivor",
+    "fact": "Daz suspects he is the sole surviving child of the house struck from the fourth seat \u2014 the 'blithering idiot' who escaped annihilation. His amnesia, headache, and innate understanding of Menzoberranzan's structures align with this possibility, but no confirmation exists in the public record.",
     "source_quote": "Am I the blithering idiot?",
     "quote_verified": true
   },
   {
     "type": "thread",
-    "subject": "The Sealed Record",
-    "fact": "There is a house so deeply erased that even the librarian cannot speak of it within the library \u2014 because the public record is sealed, and she is the public record. To uncover the truth, the drow must seek it through other doors, suggesting the existence of hidden archives, illicit networks, or non-recorded histories outside Candlekeep\u2019s official collection.",
+    "subject": "The Sealed House",
+    "fact": "One house cannot be spoken of in the room because its record is sealed \u2014 not by secrecy, but because the librarian *is* the public record. Accessing its truth requires bypassing the library\u2019s own architecture, implying the suppression is institutional, not accidental.",
     "source_quote": "There was one house she could not speak of in the room. Not because she would not \u2014 because the public record is sealed, and she is today the public record.",
     "quote_verified": false
   },
   {
     "type": "event",
-    "subject": "Memory Restoration Trigger",
-    "fact": "The drow\u2019s headache and fragmented memories began to resolve upon hearing the word 'struck' and understanding its bureaucratic meaning. The recognition of linguistic nuance \u2014 not factual recall \u2014 triggered a cognitive shift, suggesting their identity and past are encoded in the language of Menzoberranzan\u2019s power structures, not in their personal memory.",
-    "source_quote": "Something in me landed on it before I could explain why.",
-    "quote_verified": true
+    "subject": "Information Suppression in Candlekeep",
+    "fact": "A powerful entity has manipulated Candlekeep\u2019s records to conceal the truth of the struck fourth seat. This is not a minor omission \u2014 it is a deliberate, expensive, and institutionally enabled act of historical erasure within a place dedicated to preservation.",
+    "source_quote": "Somebody powerful has manipulated the world database library. Yes. That is precisely what had happened.",
+    "quote_verified": false
   },
   {
-    "type": "date",
-    "subject": "Two Years Ago",
-    "fact": "Two years ago, the drow woke up in a jail cell with no memories and a headache that never left. This is the temporal anchor for their loss of identity and the beginning of their current journey \u2014 a point before which their past is inaccessible, and after which they have been navigating a world they no longer recognize.",
-    "source_quote": "before I woke up in a jail cell with no memories and a headache that apparently never left.",
-    "quote_verified": false
+    "type": "location",
+    "subject": "Menzoberranzan",
+    "fact": "Menzoberranzan is a city built on linguistic precision, record control, and the weaponization of information. Its culture trains its citizens to notice when a word doesn't fit \u2014 because in Menzoberranzan, language is law, and law is lethal.",
+    "source_quote": "The second thing Menzoberranzan trains you for \u2014 and this one is equally useful but considerably less comfortable \u2014 is to notice when a word doesn't fit.",
+    "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Daz",
-    "fact": "Daz is a diminutive form of Daz'issin, a name mothers in Menzoberranzan used for sons they wished to protect, with fewer than a handful of recorded uses in the last three centuries, and associated houses that have all perished.",
-    "source_quote": "She told me it was a softening name. That mothers use it for boys they wanted to live. That there were not many uses of it in the past three centuries. And that the houses that had used it, most of them, did not last.",
-    "quote_verified": true
+    "fact": "Daz is known by a diminutive form, Daz'issin, meaning 'small shadow,' likely used by a mother wishing for a child's survival, and is the only known living bearer of the name in the past three centuries.",
+    "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Yvenne",
-    "fact": "Yvenne is a keeper of restricted knowledge in Menzoberranzan, maintaining a pose of neutral informant while her body language \u2014 five minutes of practiced stillness contradicting her words \u2014 reveals she is carefully navigating what she can say, knowing more than the public record allows.",
-    "source_quote": "She had been sitting for the last several minutes \u2014 the practiced stillness of someone who knows more than the public record allows her to say, maintaining the pose of a person who is simply informing rather than carefully navigating.",
+    "fact": "Yvenne is a keeper of restricted knowledge regarding Menzoberranzan's noble lineages, deliberately withholding information about Daz's origins while maintaining the appearance of neutrality, and has been physically signaling dissonance with her words for five minutes.",
     "quote_verified": false
   },
   {
     "type": "faction",
     "subject": "Houses that used Daz'issin",
-    "fact": "The noble houses that historically used the name Daz'issin have all perished, with no known survivors or continuations in the last three centuries, suggesting systematic eradication or collapse.",
-    "source_quote": "The houses that had those names have all gone.",
-    "quote_verified": true
+    "fact": "The noble houses that historically bore the name Daz'issin have all perished within the past three centuries, with none surviving to the present day.",
+    "quote_verified": false
   },
   {
     "type": "object",
-    "subject": "Heraldry book: *Geography and Cities, Menzoberranzan, Pillars of Woe*",
-    "fact": "A two-hundred-year-old heraldic text, partially defaced by a deliberate, razor-cut removal of an appendix referenced by a footnote on Daz'issin, indicating intentional suppression of information tied to the name and its lineage.",
-    "source_quote": "A razor. Not age, not water damage, not the slow forgetting of paper that has been handled too many times. A razor, at least fifty years ago, someone had taken to this book and removed what the footnote pointed to.",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "Mercenaries following Daz",
-    "fact": "Two distinct groups of mercenaries are actively tracking Daz \u2014 one to ensure his survival, the other to kill him \u2014 suggesting his identity or lineage is of high strategic value and contested between opposing powers.",
-    "source_quote": "We have mercenaries following me around, trying to make sure I live, and other mercenaries following me around, trying to kill me.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "Missing appendix on Daz'issin",
-    "fact": "The appendix referenced in the footnote on Daz'issin has been physically excised from the heraldry book, creating an unresolved gap in the historical record that may contain the truth of Daz's origins, the fate of his house, or the identity of his protector.",
-    "source_quote": "The appendix was missing.",
-    "quote_verified": true
+    "subject": "*Geography and Cities, Menzoberranzan, Pillars of Woe*",
+    "fact": "A two-hundred-year-old heraldry text, deliberately defaced fifty years ago by a razor cut that removed an appendix referenced by a footnote concerning the name Daz'issin.",
+    "quote_verified": false
   },
   {
     "type": "event",
-    "subject": "Silence of Yvenne",
-    "fact": "Yvenne\u2019s refusal to answer the question 'What if they weren't successfully all gone?' constitutes a deliberate, non-verbal affirmation in Menzoberranzan\u2019s culture \u2014 where silence in the ledger is an answer \u2014 implying that at least one house or lineage tied to Daz'issin may still endure.",
-    "source_quote": "She said nothing. Which is, in the ledger, an answer.",
-    "quote_verified": true
+    "subject": "defacement of the heraldry text",
+    "fact": "An appendix referencing Daz'issin was surgically excised from the book with a razor, indicating intentional suppression of lineage records rather than decay or neglect.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Daz's true lineage",
+    "fact": "The suppression of Daz'issin's record and Yvenne's evasive behavior suggest Daz's origin is tied to a destroyed house whose existence contradicts the official record, and whose survival may still be possible.",
+    "quote_verified": false
   },
   {
     "type": "location",
     "subject": "Menzoberranzan",
-    "fact": "Menzoberranzan is a city where reading rooms, interpreting body language, and recognizing when someone\u2019s posture contradicts their speech are essential survival skills \u2014 and where silence, omission, and defaced texts are tools of power and concealment.",
-    "source_quote": "Menzoberranzan teaches you to read rooms. It teaches you to watch for the moment when someone's body stops matching their words.",
-    "quote_verified": true
+    "fact": "Menzoberranzan is a city where reading body language and silences is a survival skill, and where the absence of an answer is treated as a recorded response in the ledger of truth.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "defacement timing",
+    "fact": "The appendix was removed at least fifty years ago, placing the erasure before the last known use of the name Daz'issin in recorded history.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Daz's patron",
+    "fact": "Yvenne redirected inquiry from Daz's name to his patron, implying the identity of his protector may be more significant \u2014 or more dangerous \u2014 than his own origin.",
+    "quote_verified": false
   }
 ]

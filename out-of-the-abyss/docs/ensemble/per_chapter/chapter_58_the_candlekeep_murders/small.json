@@ -2,1058 +2,904 @@
   {
     "type": "npc",
     "subject": "Bookwyrm",
-    "fact": "Bookwyrm is the spiritual and administrative leader of Candlekeep, overseeing the investigation into the Candlekeep Murders, and has personally ushered the investigators into Deneir's Sanctum while assigning staff to support them.",
-    "source_quote": "Bookwyrm ushered us in herself, all warmth, and introduced the man as Kei Tigersteel \u2014 Lorekeeper of Candlekeep, priest of the Temple of Oghma, 'the library's spiritual leader.'",
-    "quote_verified": false
+    "fact": "Bookwyrm is the authority overseeing the investigation into the Candlekeep murders, has summoned the investigators, and is personally managing their access to resources and information. She introduced Kei Tigersteel as Lorekeeper and priest of Oghma, dismissed him with a directive to take the body for purification, and now holds private meetings with the investigators. Her questions about suspects came too quickly, and her generous offers of space and assistance are viewed with suspicion.",
+    "source_quote": "Was there nobody that you wished to start your investigation with?",
+    "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Kei Tigersteel",
-    "fact": "Kei Tigersteel is the Lorekeeper of Candlekeep and priest of the Temple of Oghma, recently in conference with Bookwyrm, and entrusted with the task of taking the victim\u2019s body to the Shrine of Oghma for purification.",
-    "source_quote": "Bookwyrm... introduced the man as Kei Tigersteel \u2014 Lorekeeper of Candlekeep, priest of the Temple of Oghma... 'yes, Kei, you can take the body to the Shrine of Oghma for purification.'",
-    "quote_verified": false
+    "fact": "Kei Tigersteel is the Lorekeeper of Candlekeep, priest of the Temple of Oghma, and described as the library's spiritual leader. He was in conference with Bookwyrm when the investigators arrived, was dismissed with the directive to take the body to the Shrine of Oghma for purification, and his presence suggests a religious dimension to the investigation.",
+    "source_quote": "yes, Kei, you can take the body to the Shrine of Oghma for purification.",
+    "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum is one of the lead investigators, methodical and skeptical, repeatedly questioning the motives behind the library\u2019s apparent generosity and insisting on the distinction between 'finding out' and 'summarizing' the events.",
-    "source_quote": "Grygum decided, 'because I don't have a perfect memory. All the fictional detectives have perfect memories.'",
-    "quote_verified": false
+    "fact": "Grygum is one of the lead investigators, skeptical of appearances, and repeatedly questions the motives behind Bookwyrm\u2019s actions. He is fixated on memory, detective tropes, and the reliability of information. He confirmed the investigation of the crime scene is complete and echoed the suspicion that Bookwyrm\u2019s generosity may not be innocent.",
+    "source_quote": "It doesn't seem just friendly.",
+    "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Thorin",
-    "fact": "Thorin is a giant-raised investigator, blunt and pragmatic, consistently probing power structures and questioning who has authority over the investigation \u2014 including whether Bookwyrm herself could be implicated.",
-    "source_quote": "Thorin, in his blunt giant-raised way, got to the same place from the other direction. 'I guess, who has the power to fire us and tell us to go away?'",
+    "fact": "Thorin is a giant-raised investigator who cuts through pretense to ask direct questions about authority and power. He is the one who first asked who the investigators work for, and who insisted the crime scene remain sealed. He refused to name suspects, citing protocol, and is wary of the library\u2019s institutional structure.",
+    "source_quote": "We refuse to comment on ongoing.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Fembris Lancer",
-    "fact": "Fembris Lancer is the adjutant assigned to the investigators, overly eager and persistent, serving as a liaison who will fetch witnesses upon request.",
+    "fact": "Fembris Lancer is an adjutant who attached himself to the investigators, eager to be involved in something more interesting than manuscript copying. He is tasked with fetching witnesses when named and serves as a liaison between the investigators and Bookwyrm\u2019s staff.",
     "source_quote": "Fembris would fetch any witness we named.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Vooshadi Moonriver",
-    "fact": "Vooshadi Moonriver is the guard assigned to stand watch at the entrance to Deneir's Sanctum, enforcing restricted access to the investigators\u2019 office.",
-    "source_quote": "Vooshadi Moonriver would stand the door \u2014 'we wouldn't want anyone the investigators don't want to come in, to come in.'",
+    "fact": "Vooshadi Moonriver is a scribe assigned to guard the door of Deneir's Sanctum, the investigators' temporary office. Their role is to prevent unauthorized entry, reinforcing the controlled access to the investigation space.",
+    "source_quote": "Vooshadi Moonriver would stand the door \u2014 we wouldn't want anyone the investigators don't want to come in, to come in.",
     "quote_verified": false
   },
   {
     "type": "faction",
     "subject": "Council of the Great Readers",
-    "fact": "The Council of the Great Readers has dispersed, leaving Bookwyrm as the sole authority overseeing the murder investigation within Candlekeep.",
+    "fact": "The Council of the Great Readers has dispersed, indicating a prior governing body that no longer holds active authority over the investigation. Their absence leaves Bookwyrm as the de facto authority in Candlekeep\u2019s current crisis.",
     "source_quote": "The Council of the Great Readers had dispersed.",
     "quote_verified": true
   },
   {
     "type": "location",
-    "subject": "Deneir's Sanctum",
-    "fact": "Deneir's Sanctum is a shrine and library dedicated to the art of writing, now assigned as the official office for the investigators, with restricted access and assigned support staff.",
-    "source_quote": "Then she took us to a nearby room, Deneir's Sanctum, a little shrine and library given over to the art of writing, and offered it up as our office.",
-    "quote_verified": true
+    "subject": "Candlekeep Chapter House",
+    "fact": "The chapter house is the central location of the investigation, where Bookwyrm met with Kei Tigersteel and later convened with the investigators. It contains Deneir's Sanctum, now repurposed as the investigators\u2019 office, and is described as easy to get lost in, requiring escorts to navigate.",
+    "source_quote": "We came into the chapter house to find her already in conference with someone new...",
+    "quote_verified": false
   },
   {
     "type": "location",
-    "subject": "Candlekeep",
-    "fact": "Candlekeep is an immense, labyrinthine library complex where the murders occurred, and where navigation without an escort is strongly discouraged, implying hidden dangers or surveillance.",
-    "source_quote": "we shouldn't move through Candlekeep without one of them. The library is very easy to get lost in.",
-    "quote_verified": true
+    "subject": "Deneir's Sanctum",
+    "fact": "Deneir's Sanctum is a shrine and library dedicated to the art of writing, now assigned as the investigators\u2019 private office. It is guarded by Vooshadi Moonriver, and its offering as a workspace is viewed with suspicion due to the controlled access and implied surveillance.",
+    "source_quote": "Then she took us to a nearby room, Deneir's Sanctum... and offered it up as our office.",
+    "quote_verified": false
   },
   {
     "type": "location",
     "subject": "Shrine of Oghma",
-    "fact": "The Shrine of Oghma is the sacred site where the victim\u2019s body was taken for ritual purification under the care of Kei Tigersteel.",
+    "fact": "The Shrine of Oghma is the designated location for the purification of the body, indicating religious rites are part of the procedural response to the murder. Kei Tigersteel was instructed to take the body there, linking the investigation to the Temple of Oghma\u2019s authority.",
     "source_quote": "yes, Kei, you can take the body to the Shrine of Oghma for purification.",
     "quote_verified": true
   },
   {
     "type": "object",
     "subject": "the body",
-    "fact": "The body of the victim has been removed from the crime scene and transported to the Shrine of Oghma for purification, suggesting ritual significance to the death.",
-    "source_quote": "The body went to be purified.",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "the murderer",
-    "fact": "The identity of the murderer remains unknown, but the investigation has identified potential suspects based on perceived motivation or third-party accusations, with no confirmed conclusions.",
-    "source_quote": "We're forming an opinion on what may have happened, and who \u2014 like, we have a couple suspects that we would like to pursue, due to perceiving that they may have a motivation...",
+    "fact": "The body of the murder victim has been identified and is awaiting purification at the Shrine of Oghma. Its handling by Kei Tigersteel suggests it is a key piece of evidence with religious significance, and its removal from the chapter house marks the transition from crime scene to ritual space.",
+    "source_quote": "the body went to be purified.",
     "quote_verified": false
   },
   {
     "type": "thread",
-    "subject": "Bookwyrm's possible involvement",
-    "fact": "There is an unresolved suspicion that Bookwyrm may be connected to the murders, as the investigators openly debate whether her generosity is genuine or a cover, and whether she herself could be the perpetrator.",
+    "subject": "Bookwyrm\u2019s true role",
+    "fact": "It is unknown whether Bookwyrm is the investigator\u2019s superior, the perpetrator, or something else entirely. Her excessive generosity, rapid questioning about suspects, and control over access to information raise suspicion. The investigators note she is 'not above suspicion' and the possibility that she may be involved makes the investigation potentially 'awkward.'",
     "source_quote": "I'm just saying, like, if Bookwyrm ended up doing it, which I don't think she did, but\u2026 then. This could get awkward.",
     "quote_verified": false
   },
   {
     "type": "thread",
     "subject": "surveillance in Deneir's Sanctum",
-    "fact": "The investigators suspect that their office may be bugged or monitored, given the excessive hospitality and the library\u2019s insistence on controlling access \u2014 raising the question of whether their work is truly private.",
+    "fact": "The investigators suspect their private office may be bugged or monitored, despite Bookwyrm\u2019s assurances of privacy. The offer of an unguarded space, coupled with the requirement to be escorted everywhere else in Candlekeep, creates a paradox that implies the office may be the only place under observation.",
     "source_quote": "Do we think the room is, like, bugged... or does the stuff we do in there is actually going to be private to us?",
     "quote_verified": false
   },
   {
     "type": "thread",
-    "subject": "the nature of the investigation's mandate",
-    "fact": "The investigators are uncertain whether their role is to uncover the truth or merely to provide a summary for Bookwyrm \u2014 a tension that underlies their entire approach and their reluctance to share details.",
-    "source_quote": "I thought we were asked to find out what \u2014 well, I guess summarizing the events is pretty much the same as finding out who did it from one.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "the identity of the first person to interview",
-    "fact": "Bookwyrm\u2019s abrupt question \u2014 'Was there nobody that you wished to start your investigation with?' \u2014 implies she expected a specific target to be named first, hinting at prior knowledge or agenda.",
-    "source_quote": "Was there nobody that you wished to start your investigation with?",
-    "quote_verified": true
+    "subject": "identity of the killer",
+    "fact": "The investigators have formed opinions on potential suspects based on perceived motivation or external accusations, but refuse to disclose them. The nature of the suspects, their connections to Candlekeep\u2019s hierarchy, and the timing of the murders remain undisclosed, creating a central mystery.",
+    "source_quote": "We have a couple suspects that we would like to pursue, due to perceiving that they may have a motivation...",
+    "quote_verified": false
   },
   {
     "type": "date",
     "subject": "session date",
-    "fact": "The events described occurred during the investigation phase following the Candlekeep Murders, after the dispersal of the Council of the Great Readers and before the final episode of the investigators' work.",
-    "source_quote": "we're down to the last episode, and we're saving it.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "the moon elf scribes",
-    "fact": "The moon elf scribes serve as gatekeepers at the chapter house threshold, initially halting the investigators until Bookwyrm personally overrides their directive.",
-    "source_quote": "The moon elf scribes moved to halt us at the threshold. Bookwyrm waved them off and ushered us in herself...",
+    "fact": "The events described occur during the investigation phase of Chapter 54, following the Candlekeep Murders. No specific calendar date is given, but the narrative implies immediate post-crime activity, with the body being removed and the investigation initiated without delay.",
+    "source_quote": "We came into the chapter house to find her already in conference with someone new...",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Bookwyrm",
-    "fact": "Bookwyrm is a suspect in the investigation; her whereabouts before nine in the morning are unverified, and she offered access to the Deneir's Sanctum as an office while directing suspects and witnesses to be fetched \u2014 a gesture that felt performative and suspicious.",
-    "source_quote": "She said 'catch' and corrected herself to 'fetch.' I kept that.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Fheminor Scrivenbark",
-    "fact": "Fheminor Scrivenbark is an unnamed entry in the party's own investigation notes, suggesting an unacknowledged alignment of priorities with the investigators \u2014 the absence of a name on the entry implies the record has been altered or corrupted.",
-    "source_quote": "Our own notes had started lying to us. That felt about right for this place.",
+    "fact": "Bookwyrm is the lead investigator in the Underdark sanctuary, offering access to Deneir's Sanctum as an interview room and directing Fembris Lancer to fetch suspects and witnesses; she corrected 'catch' to 'fetch,' raising suspicion about her role in the investigation.",
+    "source_quote": "Well, you can use this room as your office to interview anyone you wish as part of your investigation, and you can rely on Fembris Lancer to catch\u2026 fetch any suspects and witnesses you wish to speak to.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Sylvira Savikas",
-    "fact": "Sylvira Savikas is missing from the council meeting; someone impersonating her was seen walking the halls at night with a lantern, and her absence is the central anomaly around which the investigation is forming.",
-    "source_quote": "Sylvira wasn't at the council. Sylvira \u2014 or somebody wearing her face \u2014 had been walking the halls in the dead of night with a lantern.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Daral",
-    "fact": "Daral was absent from the council and instead questioned why Sylvira Savikas was not present \u2014 his focus on her absence marks him as unusually attuned to the core mystery.",
-    "source_quote": "Daral not even in it \u2014 he'd been at the Hearth, asking why isn't Sylvira Savikas here.",
-    "quote_verified": true
-  },
-  {
-    "type": "faction",
-    "subject": "Scholarly Underdark Cultures",
-    "fact": "Scholarly cultures of the Underdark are characterized by pervasive deception, hidden agendas, and refusal to speak truthfully \u2014 a stark contrast to the honorable truth-telling norms of surface mountain societies.",
-    "source_quote": "Down here, everybody's got a door they won't open. I hate it. I've always hated it.",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "Impersonator of Sylvira Savikas",
-    "fact": "An impersonator wearing Sylvira Savikas's face was seen carrying a lantern through the halls at night \u2014 the impersonation is not random, but strategically timed to exploit trust and access.",
-    "source_quote": "Someone impersonating her,\" Zalthir said. \"Yes. Yes.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Council Meeting After Murder",
-    "fact": "The council convened after a murder with competing demands: leadership change, succession naming, dismissal of the gate warden, and urgent calls to find the murderer \u2014 revealing fractured authority and conflicting priorities.",
-    "source_quote": "A'lai Aivenmore wanting a vote and new leadership... Kazryn Nyantani cutting through with first you must find the murderer.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Discovery of Altered Notes",
-    "fact": "The investigators discovered that their own notes contained an entry for 'Fheminor Scrivenbark' without a name \u2014 indicating internal corruption or magical interference in their records.",
-    "source_quote": "It isn't\u2026 for some reason, there's no name on that entry. It just says, Fheminor Scrivenbark.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Deneir's Sanctum",
-    "fact": "Deneir's Sanctum was offered as an investigative office but is suspected of being bugged or monitored \u2014 its apparent generosity masks potential surveillance.",
-    "source_quote": "It's nice and all to offer up that, like, we can use the office, and that they'll go fetch people, and all of those sorts of things, but it's also a little suspect.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "The Hearth",
-    "fact": "The Hearth is a location where Daral questioned Sylvira Savikas\u2019s absence \u2014 suggesting it is a hub of informal intelligence-gathering and rumor circulation.",
-    "source_quote": "Daral not even in it \u2014 he'd been at the Hearth, asking why isn't Sylvira Savikas here.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "Lantern",
-    "fact": "A lantern was carried by the impersonator of Sylvira Savikas during nighttime movements \u2014 its presence implies deliberate visibility and ritualistic intent.",
-    "source_quote": "Sylvira \u2014 or somebody wearing her face \u2014 had been walking the halls in the dead of night with a lantern.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "Who is the Real Sylvira Savikas?",
-    "fact": "The identity of Sylvira Savikas is in question \u2014 whether she is missing, dead, or was never who she claimed to be \u2014 and this uncertainty is the central unresolved thread driving the investigation.",
-    "source_quote": "Someone impersonating her,\" Zalthir said. \"Yes. Yes.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "Why Are Records Being Altered?",
-    "fact": "The investigators' own notes have begun omitting or obscuring names \u2014 suggesting magical tampering, internal betrayal, or systemic corruption within their investigation apparatus.",
-    "source_quote": "Our own notes had started lying to us.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "Who Ordered the Impersonation?",
-    "fact": "The impersonation of Sylvira Savikas was too precise and timely to be random \u2014 someone with access to her identity, schedule, and influence orchestrated it, but their motive and identity remain hidden.",
-    "source_quote": "It made perfect sense, and tactically it did, the impersonated woman might know who would wear her face.",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "Before Nine in the Morning",
-    "fact": "Bookwyrm\u2019s whereabouts before nine in the morning are unverified and critical to establishing her alibi \u2014 this temporal anchor is a key point of investigation.",
-    "source_quote": "I also want to understand where Bookwyrm was before nine in the morning.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum remains cautiously open-minded, often voicing the possibility that others are genuinely trying to help \u2014 even amid suspicion \u2014 which positions him as the moral counterweight to the group\u2019s growing paranoia.",
-    "source_quote": "That's Grygum. He leaves the door open for people to be decent even while he's bolting it.",
+    "subject": "Fembris Lancer",
+    "fact": "Fembris Lancer is assigned by Bookwyrm to retrieve suspects and witnesses, but the shift from 'catch' to 'fetch' suggests either a linguistic slip or deliberate obfuscation of authority.",
+    "source_quote": "Fembris Lancer to catch\u2026 fetch any suspects and witnesses you wish to speak to.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Daz",
-    "fact": "Daz voices the group\u2019s unspoken fears with halting, fragmented speech \u2014 his interruptions and hesitations reflect the psychological strain of operating in a world where truth is unreliable.",
-    "source_quote": "Do\u2026 do we think the room is, like, bugged, or has, like, secret\u2026 He couldn't even finish it.",
+    "fact": "Daz is skeptical of the sanctuary's openness, questioning whether the interview room is bugged and suggesting the hospitality may mask involvement; he helped rephrase the team\u2019s refusal to comment on ongoing details.",
+    "source_quote": "Do\u2026 do we think the room is, like, bugged, or has, like, secret\u2026",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is cautious but open-minded, acknowledging possible innocence even amid suspicion; he notes the team\u2019s own notes are lying and identifies Fheminor Scrivenbark as a mysterious figure with aligned priorities.",
+    "source_quote": "I mean, it could be that they genuinely want to get to the bottom of this.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is the lead investigator on the ground, experienced in the Underdark, deeply suspicious of deception, and insists on maintaining a neutral stance while probing Bookwyrm\u2019s alibi and the team\u2019s own contradictory notes.",
+    "source_quote": "I also want to understand where Bookwyrm was before nine in the morning\u2026 Everyone's available until they're not.",
     "quote_verified": false
   },
   {
     "type": "npc",
+    "subject": "Fheminor Scrivenbark",
+    "fact": "Fheminor Scrivenbark is a listed character in the team\u2019s investigation notes whose name has been erased from the entry, suggesting the record has been tampered with or is self-contradictory; Grygum suspects they share the team\u2019s investigative priorities.",
+    "source_quote": "It isn't\u2026 for some reason, there's no name on that entry. It just says, Fheminor Scrivenbark.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sylvira Savikas",
+    "fact": "Sylvira Savikas is a missing scholar whose identity has been impersonated; someone wearing her face was seen walking the halls at night with a lantern, and she was absent from the council meeting despite being central to the investigation.",
+    "source_quote": "Daral not even in it \u2014 he'd been at the Hearth, asking why isn't Sylvira Savikas here.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Impersonator of Sylvira Savikas",
+    "fact": "An impersonator wearing Sylvira Savikas\u2019s face was sighted in the dead of night with a lantern, suggesting deliberate deception to mislead or gain access; Grygum and Zalthir agree the impersonation makes tactical sense.",
+    "source_quote": "Someone impersonating her,\" Zalthir said. \"Yes. Yes.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Scholarly Council of the Deneir's Sanctum",
+    "fact": "The Scholarly Council is fractured, with members vying for control after a murder; A'lai Aivenmore seeks new leadership, Fheminor Scrivenbark questions Janussi\u2019s successor, Kazryn Nyantani demands the murderer be found, and Alkrist demands the gate warden be dismissed.",
+    "source_quote": "A'lai Aivenmore wanting a vote and new leadership. The dowdy halfling, Fheminor Scrivenbark, asking whether Janussi had named a successor. Kazryn Nyantani... cutting through with first you must find the murderer. Alkrist... the gate warden needs to be dismissed.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Deneir's Sanctum",
+    "fact": "Deneir's Sanctum is the central investigation hub, presented as a safe space for interviews, but its perceived openness raises suspicion of surveillance or manipulation; Bookwyrm\u2019s gesture of trust feels performative.",
+    "source_quote": "Deneir's Sanctum felt like a gift.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "The Hearth",
+    "fact": "The Hearth is a gathering place where Daral questioned Sylvira Savikas\u2019s absence, indicating her disappearance is known outside formal proceedings and may be linked to the impersonator\u2019s movements.",
+    "source_quote": "Daral not even in it \u2014 he'd been at the Hearth, asking why isn't Sylvira Savikas here.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Murder of Janussi",
+    "fact": "The murder of Janussi triggered the current investigation, destabilizing the scholarly hierarchy and prompting conflicting agendas among council members; it is the central event around which all suspicions orbit.",
+    "source_quote": "The whole pack of them, shouting over a body.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Erasure of Fheminor Scrivenbark\u2019s name from notes",
+    "fact": "The team\u2019s own investigation notes have been altered, removing Fheminor Scrivenbark\u2019s name from an entry that otherwise reflects aligned priorities \u2014 suggesting internal sabotage or memory manipulation.",
+    "source_quote": "Our own notes had started lying to us.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Impersonation of Sylvira Savikas at night",
+    "fact": "An individual wearing Sylvira Savikas\u2019s face was seen walking the halls with a lantern in the dead of night, indicating a deliberate act of deception to confuse the investigation or gain access to restricted areas.",
+    "source_quote": "Sylvira \u2014 or somebody wearing her face \u2014 had been walking the halls in the dead of night with a lantern.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Bookwyrm\u2019s alibi before 9 a.m.",
+    "fact": "Thorin is pursuing Bookwyrm\u2019s whereabouts before 9 a.m. as a critical unresolved thread \u2014 her accessibility as a suspect remains unverified, and her actions during that window may reveal involvement.",
+    "source_quote": "I also want to understand where Bookwyrm was before nine in the morning\u2026",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Who is the real Fheminor Scrivenbark?",
+    "fact": "The absence of Fheminor Scrivenbark\u2019s name from the team\u2019s notes, despite their clear investigative alignment, raises a thread: is this person real, erased, or an impersonator themselves?",
+    "source_quote": "It isn't\u2026 for some reason, there's no name on that entry.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Why is the investigation time-limited?",
+    "fact": "The team is told they must choose only a few threads before the situation moves on \u2014 but no reason is given; this urgency contradicts scholarly norms and suggests external forces are accelerating events.",
+    "source_quote": "Apparently things keep happening while you're standing around thinking. Grygum put it plainest: 'There'll be more murders.'",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Lantern",
+    "fact": "A lantern was carried by the impersonator of Sylvira Savikas during nighttime movements, indicating premeditation and a need for illumination \u2014 possibly to access hidden areas or signal others.",
+    "source_quote": "Sylvira \u2014 or somebody wearing her face \u2014 had been walking the halls in the dead of night with a lantern.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Time before 9 a.m.",
+    "fact": "The critical temporal anchor for Bookwyrm\u2019s alibi is the period before 9 a.m. \u2014 the window during which the murder may have occurred or been concealed, and when the impersonator was active.",
+    "source_quote": "I also want to understand where Bookwyrm was before nine in the morning\u2026",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daral",
+    "fact": "Daral is absent from the council meeting but was at the Hearth questioning Sylvira Savikas\u2019s absence \u2014 suggesting he is aware of her importance and possibly her impersonation.",
+    "source_quote": "Daral not even in it \u2014 he'd been at the Hearth, asking why isn't Sylvira Savikas here.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
     "subject": "Zalthir",
-    "fact": "Zalthir quickly accepts the reality of Sylvira\u2019s impersonation \u2014 his blunt confirmation suggests prior awareness or personal stakes in the deception.",
+    "fact": "Zalthir is the first to openly acknowledge the impersonation of Sylvira Savikas, affirming its plausibility and tactical advantage \u2014 indicating he is tracking the deception closely.",
     "source_quote": "Someone impersonating her,\" Zalthir said. \"Yes. Yes.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "A'lai Aivenmore",
-    "fact": "A'lai Aivenmore pushes for immediate leadership change after the murder \u2014 indicating ambition masked as procedural concern, possibly exploiting chaos for power.",
+    "fact": "A'lai Aivenmore is pushing for a vote and new leadership after Janussi\u2019s murder, suggesting ambition to seize control of the sanctuary\u2019s governance.",
     "source_quote": "A'lai Aivenmore wanting a vote and new leadership.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Kazryn Nyantani",
-    "fact": "Kazryn Nyantani cuts through political noise to demand the murderer be found first \u2014 establishing himself as the only voice prioritizing justice over power.",
+    "fact": "Kazryn Nyantani cuts through political noise to demand the murderer be found first \u2014 positioning them as a pragmatic anchor amid chaos.",
     "source_quote": "Kazryn Nyantani \u2014 slender, gray, those wrinkles around the eyes \u2014 cutting through with first you must find the murderer.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Alkrist",
-    "fact": "Alkrist, the bronze dragonborn gate warden, demands the dismissal of the gate warden \u2014 revealing defensive self-preservation and a refusal to accept blame.",
+    "fact": "Alkrist, the bronze dragonborn gate warden, demands accountability for the murder occurring on his watch, suggesting either guilt or a strategic attempt to deflect blame.",
     "source_quote": "The bronze dragonborn, Alkrist, formidable and furious, the gate warden needs to be dismissed, this happened on his watch.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Fembris Lancer",
-    "fact": "Fembris Lancer is referenced as the agent tasked with fetching suspects and witnesses \u2014 their role is administrative but unverified, raising questions about loyalty and competence.",
-    "source_quote": "You can rely on Fembris Lancer to catch\u2026 fetch any suspects and witnesses you wish to speak to.",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "Who Is Behind the Impersonation Scheme?",
-    "fact": "The impersonation of Sylvira Savikas is part of a broader scheme \u2014 the timing, access, and precision suggest coordination with someone inside the investigation or authority structure.",
-    "source_quote": "It made perfect sense, and tactically it did, the impersonated woman might know who would wear her face.",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "Why Is the Investigation Being Rushed?",
-    "fact": "The investigators are told they will only be allowed to pursue a limited number of threads \u2014 suggesting external forces are controlling the pace of justice to prevent exposure.",
-    "source_quote": "Apparently they don't. Apparently things keep happening while you're standing around thinking. Grygum put it plainest: 'There'll be more murders.'",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Kalan Strongbranch",
-    "fact": "Kalan Strongbranch holds the second key to the High Tower, which he secretly transferred to Grygum. He believes he may be targeted for the key and has instructed that if he is killed, the key must not be found. He warns that Bookwyrm is concealing critical information.",
-    "source_quote": "Whatever Bookwyrm is telling you, listen for what she isn't. The High Tower has two keys. Janussi wore one, I held the other. I have given it now to someone who is not me. If I and I do not see you tomorrow, do not look for me at my post.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum is the recipient of the second High Tower key, handed to him directly by Kalan Strongbranch. He is conducting research on poison and stolen sapphires, and is trusted with the most critical physical evidence in the investigation.",
-    "source_quote": "I'm happy to do the library research. Poison section, please.",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm is attempting to settle the council after the murder, but her actions \u2014 offering the sanctum as an office, correcting 'catch' to 'fetch,' and deflecting questions \u2014 suggest she is managing perception, not facilitating truth.",
+    "source_quote": "Bookwyrm trying to settle the room.",
     "quote_verified": true
   },
   {
     "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch holds the second key to the High Tower, which he secretly transferred to Grygum; he believes he may be targeted for the key and has instructed that if he is killed, the key must not be found.",
+    "source_quote": "It is best that if I am killed, the key not be found.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum received the second High Tower key from Kalan Strongbranch in a covert handoff; he is now responsible for investigating poison, sapphires, and the tower's security, and is considered by Kalan to be a trustworthy recipient.",
+    "source_quote": "Kalan stepped out of a doorway we hadn't clocked... pressed a small brass key specifically into the cleric's palm.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
     "subject": "Bookwyrm",
-    "fact": "Bookwyrm is under suspicion as a potential killer, but Kalan Strongbranch warns that she is deliberately concealing information. She is being considered for the third degree, though no direct evidence ties her to the murder.",
-    "source_quote": "Do we really think Bookwyrm might have done it? Do we want to give Bookwyrm the third degree? ... if we accuse her, we'd better have facts, real ones.",
+    "fact": "Bookwyrm is under suspicion as a potential killer; Kalan Strongbranch warned Grygum to listen for what she isn't saying, implying she holds hidden knowledge about the High Tower or the murder.",
+    "source_quote": "Whatever Bookwyrm is telling you, listen for what she isn't.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Janussi",
-    "fact": "Janussi possesses one of the two keys to the High Tower. The other key, once held by Kalan Strongbranch, has been transferred to Grygum. Janussi\u2019s possession of the key does not imply involvement in the murder.",
-    "source_quote": "Janussi held one. Yeah, the key is definitely a thread to pull on.",
-    "quote_verified": false
+    "fact": "Janussi holds one of the two keys to the High Tower; the other was held by Kalan Strongbranch and has now been transferred to Grygum.",
+    "source_quote": "The High Tower has two keys. Janussi wore one, I held the other.",
+    "quote_verified": true
   },
   {
-    "type": "faction",
+    "type": "location",
     "subject": "High Tower",
-    "fact": "The High Tower is the entrance to a cache of super-magical artifacts coveted by every evil entity in the world. It is constantly watched, regardless of whether its keys are in possession. Entry is visible, making unauthorized access impossible without detection.",
-    "source_quote": "The tower is watched. Always. People stand at it whether the key is in someone's pocket or not. Entry would be seen.",
+    "fact": "The High Tower is the entrance to a cache of super-magical artifacts coveted by every evil entity in the world; it is perpetually watched, and entry is visible regardless of whether a key is in use.",
+    "source_quote": "The tower is watched. Always. People stand at it whether the key is in someone's pocket or not.",
     "quote_verified": true
   },
   {
     "type": "object",
-    "subject": "second High Tower key",
-    "fact": "The second key to the High Tower, previously held by Kalan Strongbranch, was secretly given to Grygum. It is the only physical object that can grant lawful access to the tower\u2019s inner sanctum, and its transfer is the central act of the secret meeting.",
+    "subject": "Second High Tower Key",
+    "fact": "The second key to the High Tower, previously held by Kalan Strongbranch, was secretly given to Grygum; its current location is unknown to all but Grygum and Kalan.",
     "source_quote": "I have given it now to someone who is not me.",
     "quote_verified": true
   },
   {
-    "type": "object",
-    "subject": "heart of the victim",
-    "fact": "The victim\u2019s heart was removed \u2014 a definitive, physical fact that no one can dispute. It is the only unambiguous evidence in the case, and the group agrees the killer is the one who took it.",
-    "source_quote": "The dead man's heart was gone. ... Right, but at the end of the day, I'm pretty sure that the person that killed him is the one that took the heart.",
+    "type": "thread",
+    "subject": "Heart of the Victim",
+    "fact": "The victim's heart was removed; it is considered the only concrete fact in the investigation, with all other details being hearsay or deception \u2014 the killer is presumed to be the one who took it.",
+    "source_quote": "I'm pretty sure that the person that killed him is the one that took the heart.",
     "quote_verified": false
   },
   {
-    "type": "object",
-    "subject": "stolen sapphires",
-    "fact": "The stolen sapphires were expensive but not rare, and their value alone was deemed insufficient to motivate murder. Grygum has cataloged them alongside poison in his research, treating them as circumstantial.",
-    "source_quote": "Grygum asked whether the stolen sapphires were worth killing for \u2014 expensive, not rare, was the answer \u2014 and tucked it into his library list alongside the poison.",
+    "type": "thread",
+    "subject": "False Devil-Lady Imposter",
+    "fact": "An imposter wearing the guise of a devil-lady is suspected of having silenced the corpse, making it impossible to verify whether the victim ever answered questions \u2014 this claim is unverified and possibly fabricated by Kalan.",
+    "source_quote": "The imposter \u2014 the false devil-lady \u2014 supposedly did it first and locked the corpse's mouth shut for days. Maybe.",
     "quote_verified": true
   },
   {
-    "type": "object",
-    "subject": "poison on the victim's fingers",
-    "fact": "Poison was found on the victim\u2019s fingers and lips, but its origin and intent remain unverified. It may have been planted, self-administered, or irrelevant \u2014 a red herring disguised as evidence.",
-    "source_quote": "A smear of poison on a dead man's fingers doesn't have a motive. ... But, you know, maybe that's from watching too much CSI, what do I know?",
+    "type": "thread",
+    "subject": "Missing Book Part",
+    "fact": "A missing fragment of a book is considered a potential clue, possibly linked to ancient magic or the murder, but its relevance is speculative and unconfirmed.",
+    "source_quote": "There's a missing part of, like, a book that should not be missing\u2026 that could have happened a hundred years ago or something, but\u2026 seems suspicious.",
     "quote_verified": false
   },
   {
     "type": "event",
-    "subject": "secret key transfer",
-    "fact": "Kalan Strongbranch secretly transferred the second High Tower key to Grygum during a concealed meeting, bypassing all other investigators. He did so because he fears he will be killed for it, and wants the key preserved outside his control.",
-    "source_quote": "I have given it now to someone who is not me. If I and I do not see you tomorrow, do not look for me at my post.",
-    "quote_verified": true
+    "subject": "Key Transfer to Grygum",
+    "fact": "Kalan Strongbranch covertly transferred the second High Tower key to Grygum in a hidden corridor, bypassing all other investigators; this act suggests he distrusts the group and anticipates his own death.",
+    "source_quote": "Kalan stepped out of a doorway we hadn't clocked... pressed a small brass key specifically into the cleric's palm.",
+    "quote_verified": false
   },
   {
     "type": "event",
-    "subject": "victim's murder",
-    "fact": "The victim was killed, and his heart was removed. The murder occurred after he was beaten, but the beating did not kill him. The killer is presumed to be the person who removed the heart, as that act is the only undisputed fact in the case.",
-    "source_quote": "He wasn't dead yet, but was he beat up? ... He was beat up before he was dead. ... The dead man's heart was gone.",
+    "subject": "Corpse Silence Claim",
+    "fact": "Kalan Strongbranch claimed the corpse was silenced by an imposter, preventing it from answering questions \u2014 this assertion is hearsay, unverifiable, and potentially a cover for his own involvement.",
+    "source_quote": "Kalan said they'd put the question to the corpse, and that it didn't work. And that didn't work because of Y.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Watchers of the High Tower",
+    "fact": "An unseen organization or force permanently surveils the High Tower, rendering unauthorized entry detectable regardless of key possession \u2014 their identity and allegiance are unknown.",
+    "source_quote": "The tower is watched. Always. People stand at it whether the key is in someone's pocket or not.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Locket-Key",
+    "fact": "The locket-key, hidden on the victim\u2019s person, was known to only one of the two individuals who stood over the body \u2014 the other tore through the safe instead, suggesting targeted theft.",
+    "source_quote": "One who knew exactly where the locket-key hid, and one who didn't and tore through the safe instead.",
     "quote_verified": false
   },
   {
     "type": "thread",
-    "subject": "missing heart",
-    "fact": "The victim\u2019s heart is the central thread of the investigation \u2014 the only unambiguous, physical evidence that identifies the killer. Everyone else\u2019s claims, suspicions, and theories are noise compared to this fact.",
-    "source_quote": "The heart is a fact.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "false devil-lady imposter",
-    "fact": "An imposter posing as a devil-lady is suspected of having tampered with the corpse\u2019s ability to answer questions, but this claim is hearsay and unverified. Kalan\u2019s assertion that 'it didn't work because of Y' is the only source, and may be a lie.",
-    "source_quote": "Kalan said they'd put the question to the corpse, and that it didn't work. And that didn't work because of Y. ... whether the corpse was ever truly made to answer is hearsay.",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "missing book part",
-    "fact": "A missing portion of a book is referenced as a possible clue, but its relevance is vague and speculative. It is mentioned as a thread no one wanted to touch, suggesting it may be a deliberate misdirection.",
-    "source_quote": "There's a missing part of, like, a book that should not be missing\u2026 that could have happened a hundred years ago or something, but\u2026 seems suspicious, and maybe related.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "High Tower",
-    "fact": "The High Tower is a heavily monitored structure housing artifacts of immense power. It is not merely secured by keys \u2014 it is watched at all times by unseen sentinels. Access without detection is impossible.",
-    "source_quote": "The tower is watched. Always. People stand at it whether the key is in someone's pocket or not. Entry would be seen.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "corridor where key was transferred",
-    "fact": "The secret key transfer occurred in a corridor previously unobserved by the group. Kalan emerged from a doorway they hadn't clocked, indicating prior knowledge of the space and deliberate planning.",
-    "source_quote": "Kalan stepped out of a doorway we hadn't clocked, swept the corridor left, then right, and pressed a small brass key specifically into the cleric's palm.",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool is an entity who has joined the group permanently, and is being trained to fight \u2014 an unusual development suggesting he may have latent combat capabilities or a hidden agenda.",
-    "source_quote": "Glabbagool, who is apparently coming along permanently now, convinced down to whatever he uses for bones that he's going to learn to fight from the dark.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "Kalan's disappearance",
-    "fact": "Kalan Strongbranch has warned that if he does not appear tomorrow, he will be dead \u2014 and the key must not be found. His disappearance is anticipated, and his fate is now a central unresolved thread.",
+    "subject": "Kalan's Disappearance",
+    "fact": "Kalan Strongbranch has warned that if he does not appear the next day, he should not be sought at his post \u2014 implying he expects to be killed and is preparing for his own death.",
     "source_quote": "If I and I do not see you tomorrow, do not look for me at my post.",
     "quote_verified": true
   },
   {
-    "type": "thread",
-    "subject": "truth vs. hearsay",
-    "fact": "The entire investigation is built on conflicting narratives \u2014 rumors, claims, and interpretations. The only truth is the missing heart. Everything else is people talking, and the group has resolved to rely only on physical facts.",
-    "source_quote": "Everything else is people talking. The heart is a fact. ... I'd rather that, honestly. One conversation, one truth, no committee.",
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool has been permanently integrated into the group and is being trained to fight by an unknown entity \u2014 his presence is accepted, though his nature and motives remain unclear.",
+    "source_quote": "Glabbagool, who is apparently coming along permanently now, convinced down to whatever he uses for bones that he's going to learn to fight from the dark.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a participant in a secret meeting with Kalan, where he challenges Grygum\u2019s assumptions about the murder and safe-rifling, and proposes collaboration after revealing new information about Sylvira Savikas being impersonated.",
+    "source_quote": "I gave him the *okay* and let it sit.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan",
+    "fact": "Kalan is a former investigator who was removed from the case, now seeking to re-engage by offering insights into the murder, including the poison in the left hand, the locket key, and the possibility of two perpetrators \u2014 but he is unaware that Sylvira Savikas was impersonated.",
+    "source_quote": "He went still. 'No. That is new information.'",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum is researching in the Flora Theca after being led by librarian Fembris, seeking botanical sources of poison and access to a laboratory.",
-    "source_quote": "Poison is just botany with intent.",
+    "fact": "Grygum is a researcher in the Flora Theca of the Great Library, seeking access to botanical and laboratory resources to investigate poisons, under the supervision of librarian Fembris.",
+    "source_quote": "I asked if there was a poison section. There wasn't, exactly.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Fembris",
-    "fact": "Fembris is the librarian who guided Grygum to the Flora Theca; he walks as if noise has consequences and confirmed the absence of a dedicated poison section.",
-    "source_quote": "There wasn't, exactly. What there was... was the Flora Theca.",
+    "fact": "Fembris is a librarian in the Great Library who guides Grygum to the Flora Theca, believing noise has consequences, and confirms access to botanical resources but does not confirm laboratory access.",
+    "source_quote": "He walked like someone who believed noise had consequences.",
     "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Flora Theca",
-    "fact": "The Flora Theca is a subsection of the Pavilion Naturalis within the Great Library, dedicated to plants, herbs, and other flora \u2014 the closest available resource for studying poisons.",
-    "source_quote": "Poison is just botany with intent.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Pavilion Naturalis",
-    "fact": "The Pavilion Naturalis is a division of the Great Library that contains the Flora Theca and other naturalistic collections.",
-    "source_quote": "The Flora Theca... inside the Great Library.",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Great Library",
-    "fact": "The Great Library is the overarching structure housing the Pavilion Naturalis and its subsections, including the Flora Theca, where Grygum conducts research.",
-    "source_quote": "The Flora Theca... inside the Great Library.",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "locket",
-    "fact": "The locket, once containing the key, was worn around the keeper\u2019s neck and is now missing \u2014 its absence undermines the assumption that the safe was breached by the same person who stole the key.",
-    "source_quote": "The key was in the locket. The locket was around the keeper's neck. The locket was gone.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "Janussi's key",
-    "fact": "Janussi's key is a possible object that could have been handed off by someone constructing a clean narrative \u2014 its identity is unverified and the locket holding it is empty.",
-    "source_quote": "The thing he was holding up as proof could just as easily be Janussi's key, handed off by a man building a clean story.",
-    "quote_verified": false
-  },
-  {
-    "type": "monster",
-    "subject": "shapeshifter",
-    "fact": "A shapeshifter \u2014 capable of altering form \u2014 is implied to be active; someone may have impersonated Sylvira Savikas on the night of the murder.",
-    "source_quote": "Keep in mind there are people who can change their form. Shapeshift. Whatever you want to call it.",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "magic user",
-    "fact": "The murderer is a magic user capable of bypassing arcane and mundane locks \u2014 magic that can 'talk any lock open,' of the highest order.",
-    "source_quote": "Magic that could talk any lock open, arcane or iron, the very highest order of that art.",
-    "quote_verified": true
   },
   {
     "type": "faction",
-    "subject": "Great Readers",
-    "fact": "The Great Readers are a collective suspected of involvement in the murder; Grygum believes one of them is the killer and that Bookwyrm may be protecting them.",
-    "source_quote": "One of the Great Readers was the murderer... Bookwyrm was protecting them.",
+    "subject": "The Great Readers",
+    "fact": "The Great Readers are an influential organization suspected by Kalan of being involved in the murder, with possible ties to Bookwyrm\u2019s decision to fire Kalan in order to protect one of their own.",
+    "source_quote": "What he suspected, he said, was that one of the Great Readers was the murderer...",
     "quote_verified": false
   },
   {
     "type": "faction",
     "subject": "Bookwyrm",
-    "fact": "Bookwyrm is an entity suspected of either protecting the murderer or having been manipulated into firing Grygum to conceal the truth.",
-    "source_quote": "Bookwyrm was protecting them or someone had convinced her to fire him to protect themselves.",
+    "fact": "Bookwyrm is an authority figure who officially removed Kalan from the case, possibly to protect someone involved in the murder or to obstruct the investigation, and is suspected of being complicit or manipulated.",
+    "source_quote": "Bookwyrm had made it official that he was to be nowhere near it.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "murder investigation",
-    "fact": "The murder investigation involved conflicting assumptions about the safe, the locket, and the identity of the killer \u2014 later revised after new evidence emerged.",
-    "source_quote": "Two hands had searched that apartment \u2014 one that knew exactly where to look, one that didn't.",
+    "subject": "murder at the High Tower Library",
+    "fact": "A murder occurred at the High Tower Library, with signs of magical interference, a missing key hidden in a locket, and evidence suggesting the killer was a magic user who bypassed arcane and mundane locks.",
+    "source_quote": "He noticed the murderer was a magic user who could circumvent arcane and mundane locks.",
     "quote_verified": true
   },
   {
     "type": "event",
     "subject": "impersonation of Sylvira Savikas",
-    "fact": "Someone impersonated Sylvira Savikas on the night of the murder \u2014 a revelation that contradicted Grygum\u2019s timeline and exposed a critical blind spot.",
+    "fact": "Someone impersonated Sylvira Savikas on the night of the murder, a fact unknown to Kalan until revealed by Zalthir, which undermines his entire theory of the crime.",
     "source_quote": "Is he aware that someone was pretending to be Sylvira Savikas the night of the murder?",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "eight o'clock meeting with Janussi",
-    "fact": "Grygum met with Janussi at eight o\u2019clock to request more watchers and was refused \u2014 a key point in his alibi and timeline.",
-    "source_quote": "The eight o'clock meeting where he'd pressed Janussi for more watchers and been refused.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "quarter-past-ten visit to Sylvira Savikas",
-    "fact": "Grygum visited Sylvira Savikas at quarter-past-ten to discuss a cosmological question \u2014 later revealed to have been an impersonation.",
-    "source_quote": "The quarter-past-ten visit to Sylvira Savikas over some cosmological question.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "inspection after eight on day of murder",
-    "fact": "Grygum conducted an inspection just after eight on the day of the murder, followed by cordon, posted watcher, and doubled guard at the High Tower Library.",
-    "source_quote": "The morning of the murder: the inspection just after eight, the cordon, the posted watcher, the state of emergency, the doubled guard.",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "true identity of the murderer",
-    "fact": "The true identity of the murderer remains unresolved; multiple suspects and false assumptions have been introduced, including shapeshifters, magic users, and the Great Readers.",
-    "source_quote": "I don't know. What I thought \u2014 but now that you bring it up, perhaps I was a little bit too hasty.",
+    "subject": "Kalan\u2019s removal from the case",
+    "fact": "Kalan was officially removed from the investigation by Bookwyrm, which he believes was done to protect someone \u2014 but Zalthir suggests it may have been to ensure the case was bungled.",
+    "source_quote": "He staged it \u2014 reminded us, twice, that he had been wanted off the case.",
     "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "purpose of the team's employment",
-    "fact": "The team\u2019s employment is suspected to be a setup \u2014 they were hired to bungle the case or remain silent if they uncover the truth.",
-    "source_quote": "You're only being employed so you're likely to bungle the case, or else be silent if you do happen upon the right scent.",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "fate of the missing key",
-    "fact": "The key\u2019s current location is unknown; it was in the locket, which is now missing \u2014 its disappearance undermines all prior assumptions about the crime\u2019s mechanics.",
-    "source_quote": "The key was in the missing locket. None of it forced his conclusion.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "Grygum's dismissal",
-    "fact": "Grygum was fired from the case \u2014 he believes it was to protect someone, and he now suspects the dismissal itself was part of the cover-up.",
-    "source_quote": "He had been wanted off the case... reminded us, twice.",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "day of the murder",
-    "fact": "The murder occurred on a specific day referenced by Grygum\u2019s timeline \u2014 including events from eight o\u2019clock onward, and the morning inspection.",
-    "source_quote": "The morning of the murder: the inspection just after eight...",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "eight o'clock",
-    "fact": "Eight o\u2019clock is a critical temporal anchor \u2014 marking Grygum\u2019s meeting with Janussi and the initial inspection on the day of the murder.",
-    "source_quote": "The eight o'clock meeting... the inspection just after eight.",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "quarter-past-ten",
-    "fact": "Quarter-past-ten is the time Grygum claims to have met Sylvira Savikas \u2014 later revealed to be a deception.",
-    "source_quote": "The quarter-past-ten visit to Sylvira Savikas...",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "empty locket",
-    "fact": "The empty locket is a physical artifact that once held the key; its emptiness renders it useless as proof and suggests deliberate tampering.",
-    "source_quote": "Which is now empty... and therefore doesn't prove anything.",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "research notes",
-    "fact": "Grygum\u2019s research notes in the Flora Theca are being compiled to identify possible poisons \u2014 though no dedicated poison section exists.",
-    "source_quote": "I asked if there was a poison section. There wasn't, exactly.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "collaboration proposal",
-    "fact": "Grygum proposed an offline, private collaboration \u2014 syncing up with the team to examine all evidence together \u2014 signaling a shift from isolation to cooperation.",
-    "source_quote": "Offline chat, private work streams, a meeting to examine everything one by one...",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Kalan",
-    "fact": "Kalan demonstrated the method of carrying the key by pulling out his own locket \u2014 proving the technique, though his locket is now empty.",
-    "source_quote": "Kalan pulled out his own locket to demonstrate the method of carry.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Thorin",
-    "fact": "Thorin asked the right small question \u2014 how did we know the key had ever been in the locket? \u2014 challenging assumptions and advancing the investigation.",
-    "source_quote": "Thorin asked the right small question: how did we know the key had ever been in the locket?",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Janussi",
-    "fact": "Janussi refused Grygum\u2019s request for more watchers at eight o\u2019clock \u2014 a moment that may have triggered the events leading to the murder.",
-    "source_quote": "Pressed Janussi for more watchers and been refused.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Sylvira Savikas",
-    "fact": "Sylvira Savikas was impersonated on the night of the murder \u2014 the real Sylvira was not visited at quarter-past-ten as Grygum believed.",
-    "source_quote": "Someone was pretending to be Sylvira Savikas the night of the murder.",
-    "quote_verified": false
   },
   {
     "type": "location",
-    "subject": "Chamber of Lost Lore",
-    "fact": "The Chamber of Lost Lore is where Grygum conducted private research \u2014 part of his documented timeline on the day of the murder.",
-    "source_quote": "The return to the Chamber of Lost Lore for private research.",
+    "subject": "Flora Theca",
+    "fact": "The Flora Theca is a subsection of the Pavilion Naturalis within the Great Library, dedicated to plants, herbs, and flora, and is the closest available resource for investigating poisons.",
+    "source_quote": "What there was, Fembris told me, was the Flora Theca...",
     "quote_verified": false
   },
   {
     "type": "location",
     "subject": "High Tower Library",
-    "fact": "The High Tower Library was under doubled guard after the murder \u2014 a security measure Grygum noted in his timeline.",
-    "source_quote": "The doubled guard at the High Tower Library.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Grygum's timeline reconstruction",
-    "fact": "Grygum reconstructed his movements on the day of the murder to establish an alibi \u2014 including meetings, visits, and inspections.",
-    "source_quote": "He gave us his timeline \u2014 the eight o'clock meeting... the quarter-past-ten visit... the return to the Chamber...",
-    "quote_verified": false
+    "fact": "The High Tower Library is the site of the murder, where a cordon was established, guards were doubled, and the body was found with a locket missing from the keeper\u2019s neck.",
+    "source_quote": "The account of a man who wanted it on record where he had been.",
+    "quote_verified": true
   },
   {
     "type": "object",
-    "subject": "poison sample",
-    "fact": "A poison sample is being sought in the Flora Theca \u2014 though none is cataloged separately, Grygum believes botany holds the answer.",
-    "source_quote": "I asked if there was a poison section... Poison is just botany with intent.",
+    "subject": "the locket",
+    "fact": "The locket, once worn by the victim, contained the key to the safe \u2014 now missing \u2014 and is suspected of being used as a decoy or to mislead investigators, possibly containing Janussi\u2019s key instead.",
+    "source_quote": "The key was in the missing locket.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "the poison in the left hand",
+    "fact": "A poison was detected in the left hand of the victim, noted by Kalan as a deliberate clue, possibly linked to botanical sources now under investigation in the Flora Theca.",
+    "source_quote": "He had noticed the poison in the left hand, the saliva.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "shapeshifter",
+    "fact": "A shapeshifter is suspected to be active in the investigation, capable of impersonating individuals such as Sylvira Savikas, and may be the true murderer or an accomplice.",
+    "source_quote": "Keep in mind there are people who can change their form. Shapeshift. Whatever you want to call it.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "true identity of the murderer",
+    "fact": "The true identity of the murderer remains unresolved, with conflicting theories: one person who bypassed locks and planted clues, or two separate actors \u2014 one killer and one who rifled the safe.",
+    "source_quote": "Perhaps it was two different people.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Bookwyrm\u2019s motives",
+    "fact": "Bookwyrm\u2019s decision to fire Kalan is a lingering mystery \u2014 whether it was to protect a Great Reader, sabotage the investigation, or cover up her own involvement.",
+    "source_quote": "I believe you're only being employed so you're likely to bungle the case...",
     "quote_verified": false
   },
   {
     "type": "thread",
-    "subject": "who set this up?",
-    "fact": "The mastermind behind the setup is unknown \u2014 they may have named Grygum to the wrong people, leading to his dismissal and the murder.",
-    "source_quote": "Whoever set this up, he said \u2014 naming him to the wrong people, perhaps \u2014 would be very disappointed in him.",
-    "quote_verified": true
+    "subject": "origin of the key",
+    "fact": "The origin of the key \u2014 whether it belonged to Janussi, the victim, or was planted \u2014 is unclear, and its presence in the locket may be a deliberate misdirection.",
+    "source_quote": "The locket could just as easily be Janussi's key, handed off by a man building a clean story.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "eight o'clock meeting with Janussi",
+    "fact": "Kalan met with Janussi at eight o\u2019clock to request more watchers and was refused \u2014 a key event in his timeline before the murder.",
+    "source_quote": "The eight o'clock meeting where he'd pressed Janussi for more watchers and been refused.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "quarter-past-ten visit to Sylvira Savikas",
+    "fact": "Kalan visited Sylvira Savikas at 10:15 for a cosmological question \u2014 later revealed to have been an impersonator, undermining his alibi and timeline.",
+    "source_quote": "The quarter-past-ten visit to Sylvira Savikas over some cosmological question.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "morning of the murder",
+    "fact": "On the morning of the murder, Kalan conducted an inspection just after eight, established a cordon, posted a watcher, and doubled the guard at the High Tower Library \u2014 all documented to establish his whereabouts.",
+    "source_quote": "The morning of the murder: the inspection just after eight, the cordon, the posted watcher...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Chamber of Lost Lore",
+    "fact": "The Chamber of Lost Lore is where Kalan conducted private research after his visit to Sylvira Savikas, possibly seeking information relevant to the case.",
+    "source_quote": "The return to the Chamber of Lost Lore for private research.",
+    "quote_verified": false
   },
   {
     "type": "npc",
-    "subject": "Archibald Roots, Jr.",
-    "fact": "Archibald Roots, Jr. is the son of the legendary gnome botanist Archibald Roots Sr. and authored *Fey-mous Flowers & Fungi*, documenting his father\u2019s explorations and the properties of the Midnight Tears poison.",
-    "source_quote": "The book noted, in the careful tone of a man whose father saved lives, that when midnight tears are mixed with the sap of a certain Feywild tree, they lose their toxicity entirely and become a powerful pain-relief solution that all good physicians should stock.",
+    "subject": "Janussi",
+    "fact": "Janussi refused Kalan\u2019s request for more watchers at eight o\u2019clock and is now suspected of being connected to the key\u2019s origin or the impersonation plot.",
+    "source_quote": "He'd pressed Janussi for more watchers and been refused.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Janussi\u2019s key",
+    "fact": "Janussi\u2019s key is suspected to have been placed in the locket as a false clue, possibly by the impersonator or an accomplice to mislead investigators.",
+    "source_quote": "The locket could just as easily be Janussi's key, handed off by a man building a clean story.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Kalan\u2019s trustworthiness",
+    "fact": "Kalan\u2019s credibility is in question \u2014 his assumptions are contradicted, his timeline compromised by impersonation, and his removal from the case may have been orchestrated to silence him.",
+    "source_quote": "You are very good at this.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "collaboration proposal",
+    "fact": "Zalthir and Kalan propose a collaborative investigation \u2014 offline, private work streams, and a synchronized review of all evidence \u2014 to overcome mutual distrust and uncover the truth.",
+    "source_quote": "I hope you actually used the word sync up...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "who hired Zalthir and Kalan",
+    "fact": "It is implied that Zalthir and Kalan were hired not to solve the case, but to fail or remain silent \u2014 a setup to obscure the real perpetrators.",
+    "source_quote": "You're only being employed so you're likely to bungle the case...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a researcher who deduced that the murder weapon was a poisoned book, read by the victim who licked his fingers while turning pages, causing the toxic Feywild dust (midnight tears) to react with saliva and darken, leading to death at midnight.",
+    "source_quote": "His fingers were black, his lips were black, and he died at midnight. The book was the murder weapon, and he'd read himself dead.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Thorin",
-    "fact": "Thorin is a meticulous investigator who questioned the metaphysical implications of Midnight Tears' delayed effect, particularly regarding time zones and astronomical midnight, and deduced that the poison\u2019s activation is tied to saliva contact.",
-    "source_quote": "The dust stays pale ochre. What darkens it is saliva. The ochre reacts on contact with spit, and a man turning pages licks his fingers to do it.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Janussi",
-    "fact": "Janussi is a suspect who could have ingested the Midnight Tears poison at any point during the day, as it was delivered via food or liquid, making the timing of exposure ambiguous.",
-    "source_quote": "Food or liquid \u2014 which meant Janussi could have taken it any hour of that day, which meant whatever we found in the room wasn't necessarily the source.",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "Midnight Tears",
-    "fact": "Midnight Tears is a highly toxic pale ochre dust derived from Feywild plant pollen; it remains inert until contact with saliva, at which point it darkens and activates, causing death precisely at midnight.",
-    "source_quote": "The ochre reacts on contact with spit, and a man turning pages licks his fingers to do it.",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "Feywild Plant (source of Midnight Tears)",
-    "fact": "The Feywild plant that produces Midnight Tears pollen grows only in locations where no one wants to go, and its pollen is rendered non-lethal when combined with the sap of a specific Feywild tree.",
-    "source_quote": "A highly toxic pale ochre dust, made from the pollen of a plant usually found only in the Feywild.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "*Fey-mous Flowers & Fungi*",
-    "fact": "*Fey-mous Flowers & Fungi* is the book containing the secret of Midnight Tears and its antidote; it was the murder weapon, as the victim ingested the poison by licking his fingers while reading.",
-    "source_quote": "The book was the murder weapon, and he'd read himself dead.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "Sapphire (in summoning spell)",
-    "fact": "A sapphire of very high value is required as a component for a summoning spell that retrieves a hidden object and brings it into the caster\u2019s hand, regardless of location.",
-    "source_quote": "It needs a very expensive sapphire.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Victim's Death",
-    "fact": "The victim died at precisely midnight after ingesting Midnight Tears via saliva contact from licking the pages of a poisoned book, making the death appear natural until forensic analysis revealed the mechanism.",
-    "source_quote": "His fingers were black, his lips were black, and he died at midnight.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Summoning Spell Activation",
-    "fact": "The summoning spell activated when the caster needed the High Tower Keys, retrieving them from concealment \u2014 not by hiding them on the body, but by hiding them nowhere at all.",
-    "source_quote": "You don't hide the key on a body where someone can search it. You hide it nowhere at all, and you summon it when the door is in front of you.",
+    "fact": "Thorin questioned the metaphysical implications of the poison's timing, particularly regarding time zones and astronomical midnight, and identified the key detail that saliva darkens the otherwise pale ochre dust.",
+    "source_quote": "What darkens it is saliva. The ochre reacts on contact with spit, and a man turning pages licks his fingers to do it.",
     "quote_verified": true
   },
   {
     "type": "faction",
     "subject": "High Tower",
-    "fact": "The High Tower uses a secure system for its keys, employing a summoning spell to retrieve them from concealment rather than carrying them physically, thus preventing theft or forced access.",
-    "source_quote": "This would be great for the High Tower Keys.",
+    "fact": "The High Tower uses a summoning spell requiring a sapphire to recall hidden objects, potentially revolutionizing how its keys are secured \u2014 not carried, but summoned when needed.",
+    "source_quote": "You don't hide the key on a body where someone can search it. You hide it nowhere at all, and you summon it when the door is in front of you.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "victim's death",
+    "fact": "The victim died at precisely midnight after ingesting midnight tears \u2014 a Feywild poison that becomes lethal only when mixed with the sap of a specific Feywild tree, and activated by saliva from finger-licking while reading.",
+    "source_quote": "You consume it, you're fine \u2014 apparently fine \u2014 and then you're dead at midnight.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Fey-mous Flowers & Fungi",
+    "fact": "The book *Fey-mous Flowers & Fungi* by Archibald Roots, Jr. contains the formula for midnight tears and its antidotal transformation into a pain-relief solution, and was the physical vector of the poison used in the murder.",
+    "source_quote": "The book was the murder weapon, and he'd read himself dead.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "midnight tears",
+    "fact": "Midnight tears is a pale ochre Feywild dust derived from pollen of a plant found only in the Feywild; it remains non-lethal until mixed with the sap of a specific Feywild tree, and becomes lethal upon contact with saliva.",
+    "source_quote": "When midnight tears are mixed with the sap of a certain Feywild tree, they lose their toxicity entirely and become a powerful pain-relief solution... Otherwise: lethal. Food or liquid, either delivery worked.",
     "quote_verified": false
   },
   {
-    "type": "thread",
-    "subject": "Time Zone Ambiguity",
-    "fact": "The activation of Midnight Tears at midnight raises unresolved questions about whether 'midnight' refers to local time, astronomical midnight, or a magical standard, with no consensus among investigators.",
-    "source_quote": "How do they account for daylight savings time? Did you ever\u2026 an astronomical midnight?",
+    "type": "object",
+    "subject": "Sapphire summoning spell",
+    "fact": "The sapphire summoning spell is an ancient enchantment that recalls a single object to the caster\u2019s hand, requiring an expensive sapphire and functioning regardless of whether the object is carried or hidden.",
+    "source_quote": "You can put it someplace, you can throw it into a river or whatever. Nobody will find it, and then when you need it back, boom.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Feywild plant (source of midnight tears)",
+    "fact": "The plant producing midnight tears grows exclusively in the Feywild, making its pollen rare and difficult to access outside that plane, narrowing the suspect pool to those with Feywild connections.",
+    "source_quote": "A highly toxic pale ochre dust, made from the pollen of a plant usually found only in the Feywild.",
     "quote_verified": true
   },
   {
     "type": "thread",
-    "subject": "Worn vs. Carried Objects",
-    "fact": "There is an unresolved magical distinction between objects worn (e.g., on a lanyard) and objects carried, impacting whether the summoning spell can retrieve items worn but not held.",
-    "source_quote": "Whether a thing worn counts as a thing carried. 'I would think so. I'd think that you're carrying anything that you're wearing.' It doesn't, as it turned out.",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "Origin of the Poison Delivery",
-    "fact": "The exact method by which the poison was introduced to the book \u2014 whether by the killer directly or via an intermediary \u2014 remains unconfirmed, though the saliva-triggered mechanism implies intimate access.",
-    "source_quote": "So somebody doped up the book.",
+    "subject": "time zone ambiguity",
+    "fact": "The magical timing of midnight tears' lethality remains unexplained in terms of real-world timekeeping, with no consensus on whether it follows local, astronomical, or magical midnight.",
+    "source_quote": "Nobody had an answer for the time zones. 'It's magic,' I said. That covers most of it.",
     "quote_verified": false
   },
   {
     "type": "location",
-    "subject": "The Hearth",
-    "fact": "The Hearth is the venue where Daral Yashenti, the suspect, chose to be interrogated, asserting control by forcing investigators to come to him in a setting of his comfort and influence.",
-    "source_quote": "Daral was not coming to us. We were to go to the Hearth.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Feywild",
-    "fact": "The Feywild is the origin of the Midnight Tears poison and the sap that neutralizes it, a plane where dangerous flora grows in places no one wants to go, and where magical laws override mundane ones.",
-    "source_quote": "A plant usually found only in the Feywild.",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Library (where research occurred)",
-    "fact": "The library is where the investigator uncovered the truth about Midnight Tears and the summoning spell, transforming a quiet space of study into the epicenter of a murder solution.",
+    "subject": "Flora Theca",
+    "fact": "The Flora Theca is a research chamber with towering shelves, used by Grygum to uncover the truth behind the murder through botanical and magical texts, and is the site of the critical deduction that the book itself was the weapon.",
     "source_quote": "Just stacks, and quiet, and the work. I started pulling tomes.",
     "quote_verified": true
   },
   {
-    "type": "date",
-    "subject": "Midnight of Death",
-    "fact": "The victim died at midnight \u2014 a precise temporal anchor that became the critical clue linking the poison\u2019s delayed effect to the timing of the murder.",
-    "source_quote": "He died at roughly midnight.",
-    "quote_verified": true
-  },
-  {
-    "type": "date",
-    "subject": "December 31st, 1999",
-    "fact": "December 31st, 1999, referenced as the release date of the film *End of Days*, serves as a cultural touchstone for the investigator\u2019s analogy regarding the ambiguity of 'midnight' in magical contexts.",
-    "source_quote": "Did you ever see, the Schwarzenegger movie End of Days that came out in 1999?",
+    "type": "location",
+    "subject": "The Hearth",
+    "fact": "The Hearth is the venue chosen by Daral Yashenti for interrogation, an intentional inversion of protocol where the suspect controls the environment, signaling his confidence or intoxication.",
+    "source_quote": "The suspect setting the venue, picking the ground, making the famous detectives walk to him.",
     "quote_verified": false
   },
   {
-    "type": "thread",
-    "subject": "Bahamut's Observation",
-    "fact": "It is unclear whether Bahamut was watching the investigator\u2019s deductions \u2014 a metaphysical thread left open as a reflection on divine oversight in matters of justice and arcane murder.",
-    "source_quote": "Bahamut may or may not have been watching me work it out. I took notes either way.",
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz internally recognized the sapphire summoning spell as a teleport-to-hand enchantment, and contributed the insight that it could be used to bypass physical security on the High Tower Keys.",
+    "source_quote": "Oh, wait a second, this is like a way to teleport it into my hand later kind of thing.",
     "quote_verified": true
   },
   {
-    "type": "thread",
-    "subject": "Zalthir's Disappointment",
-    "fact": "Zalthir expected a time-freezing spell but received a summoning spell instead, revealing a gap in assumptions about magical intent and highlighting the unpredictability of arcane knowledge.",
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir expected a time-freezing spell from the sapphire inscription and was disappointed to discover it was a summoning spell, revealing his bias toward temporal magic over retrieval magic.",
     "source_quote": "Zalthir had been expecting a working that freezes a thing in stopped time, and seemed almost disappointed.",
     "quote_verified": true
   },
   {
     "type": "thread",
-    "subject": "Daz's Insight",
-    "fact": "Daz\u2019s internal voice provided a critical interpretation of the summoning spell as a teleportation-to-hand mechanism, bridging practical application with theoretical understanding.",
-    "source_quote": "I heard Daz say it in my head \u2014 'Oh, wait a second, this is like a way to teleport it into my hand later kind of thing.'",
+    "subject": "carried vs. worn objects",
+    "fact": "The distinction between 'carried' and 'worn' objects affects the functionality of the sapphire summoning spell, with the spell not activating on items worn (like lanyards), reframing its tactical use.",
+    "source_quote": "Whether a thing worn counts as a thing carried. 'I would think so. I'd think that you're carrying anything that you're wearing.' It doesn't, as it turned out.",
     "quote_verified": false
   },
   {
+    "type": "event",
+    "subject": "poison delivery method",
+    "fact": "The poison was delivered not through ingestion or injection, but via contamination of a book\u2019s pages, activated by the victim\u2019s habitual act of licking his fingers while reading.",
+    "source_quote": "Some liquid had gotten onto his finger, and the finger had gone black... The dust stays pale ochre. What darkens it is saliva.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "magic vs. mundane timekeeping",
+    "fact": "The magical nature of midnight tears\u2019 activation defies conventional timekeeping, leaving open whether it responds to celestial, local, or intrinsic magical time \u2014 a mystery unresolved by all present.",
+    "source_quote": "How do they account for daylight savings time? Did you ever\u2026 an astronomical midnight?",
+    "quote_verified": true
+  },
+  {
     "type": "npc",
-    "subject": "Daral",
-    "fact": "Daral is a former keeper of the tomes who was fired after assaulting Janussi, and now exhibits relief-driven euphoria over a punishment lighter than annihilation.",
-    "source_quote": "He wasn't celebrating a murder. He was a man who had braced for annihilation and learned he was merely going to be fired, and the relief had gone straight to his head.",
+    "subject": "Daral Yashenti",
+    "fact": "Daral Yashenti refuses to meet investigators at their location, instead summoning them to The Hearth \u2014 a deliberate act of control, suggesting either arrogance, intoxication, or hidden leverage.",
+    "source_quote": "Daral was not coming to us. We were to go to the Hearth.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Fembris",
+    "fact": "Fembris acted with decisive efficiency to relay the message that Daral Yashenti would not come to them, highlighting a shift in protocol and the suspect\u2019s psychological advantage.",
+    "source_quote": "Fembris went off with the particular efficiency of someone who'd been waiting for a task to belong to, and came back with two words.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daral Yashenti",
+    "fact": "Daral Yashenti was enraged that Janussi read the book he had given him as a symbol of reverence, and claimed self-defense after being assaulted by Janussi, but later admitted to being drugged and confused, and exhibited behavior consistent with poisoning a book via finger-licking.",
+    "source_quote": "He wet his finger and began flicking through the pages, reading himself a funny passage until he was laughing again.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Janussi",
-    "fact": "Janussi was a philistine bookseller who sought to sell priceless poetry to fund a worthless tome about demonic planes, and was later found dead, poisoned via a book he licked while turning pages.",
-    "source_quote": "He'd wanted to sell off priceless poetry to fund some worthless tome about demonic planes no sane person would visit.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "poisoning of Janussi",
-    "fact": "Janussi was poisoned by a substance transferred through a book he licked while turning its pages, implicating the person who handled the book with wet fingers.",
-    "source_quote": "The poison was carried on a book, transferred by a man licking his finger and turning the pages.",
+    "fact": "Janussi was the keeper of the tomes who was poisoned; he had been reading the very book Daral had gifted him, which was later determined to be the vector of poison transferred via finger-licking.",
+    "source_quote": "He'd been enraged to find Janussi reading it. It was a long day... I was drugged.",
     "quote_verified": false
   },
   {
     "type": "object",
-    "subject": "the book (Daral's favorite)",
-    "fact": "This book was Daral's personal favorite, given to Janussi as a symbolic gesture to teach its worth \u2014 later found stained with poison and handled repeatedly by Daral's own fingers.",
-    "source_quote": "The book had been in his collection for years, he said. One of his favorites. He'd given it away to make a point... and then he'd been enraged to find Janussi reading it.",
+    "subject": "the book",
+    "fact": "The book was a favorite of Daral's, given to Janussi as a symbolic gesture to teach the value of tomes, later found to be the poisoned vector; Daral licked his fingers while turning its pages, and the book was seized as evidence.",
+    "source_quote": "We took it. We'd keep Daral close until midnight... The dead poisoner is the innocent one.",
     "quote_verified": false
   },
   {
     "type": "monster",
-    "subject": "lizards (metaphorical)",
-    "fact": "Daral uses the metaphor of lizards \u2014 cold-blooded, cannibalistic, murdering crowbait \u2014 to dehumanize suspects, but inadvertently reveals his own familiarity with the behavior he condemns.",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm was named by Daral as a suspect due to her lizard-like nature, with Daral claiming lizards eat their young and murder crowbait like Janussi, though this was later revealed as racially charged barroom chatter.",
     "source_quote": "There's no telling what's going on in her lizard brain. Cold-blooded, he went on, they eat their young, murdering crowbait like Janussi.",
     "quote_verified": false
   },
   {
-    "type": "thread",
-    "subject": "finger-licking pattern",
-    "fact": "The recurring act of licking fingers to turn pages is the key behavioral clue \u2014 the poisoner must have handled the book with a wet finger, and Daral was observed doing exactly that before and after the murder.",
-    "source_quote": "I watched the finger go to the mouth and back to the paper. I was fairly sure I knew what I was watching.",
+    "type": "npc",
+    "subject": "Sylvira",
+    "fact": "Sylvira was referenced by Daral as Janussi's 'horned tart,' revealing his bias against non-drow figures through the same linguistic register drow use to dismiss outsiders.",
+    "source_quote": "That's \u2014 Sylvira. He said it like the horns were the relevant fact.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Teles",
+    "fact": "Teles was identified by Daral as a deluded old git who wanted the top job, and thus a potential suspect in Janussi's death.",
+    "source_quote": "Teles, the deluded old git;",
     "quote_verified": true
   },
   {
-    "type": "thread",
-    "subject": "book as weapon",
-    "fact": "The book is not merely evidence \u2014 it is the delivery mechanism for poison, transforming the sacred object of knowledge into a tool of murder.",
-    "source_quote": "The poison was carried on a book, transferred by a man licking his finger and turning the pages.",
+    "type": "npc",
+    "subject": "A'lai Aivenmore",
+    "fact": "A'lai Aivenmore was named by Daral as a preying cock who sought the top position and was thus a suspect in Janussi\u2019s murder.",
+    "source_quote": "A'lai Aivenmore, the preying cock;",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Fheminor Scrivenbark",
+    "fact": "Fheminor Scrivenbark was described by Daral as someone whose small stature belied a steely nature, making her a suspect in Janussi\u2019s death.",
+    "source_quote": "Fheminor Scrivenbark, don't be fooled by her stature, she has a steely nature.",
     "quote_verified": false
   },
   {
     "type": "thread",
-    "subject": "motive inversion",
-    "fact": "Daral\u2019s rage over Janussi reading the book he gave him suggests he did not want the book read \u2014 contradicting his stated intent \u2014 implying the gift was a ruse to ensure its contamination.",
-    "source_quote": "He'd given it away to make a point \u2014 that his books should never be sold \u2014 by having Janussi read it and understand their worth. And then he'd been enraged to find Janussi reading it.",
+    "subject": "poisoned book vector",
+    "fact": "The poison was carried on a book and transferred by licking fingers while turning pages \u2014 a method confirmed by Thorin, making Daral\u2019s own behavior the critical clue in identifying the true poisoner.",
+    "source_quote": "Janussi had been poisoned, the poison carried on a book, transferred by a man licking his finger and turning the pages.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Daral's admission of confusion",
+    "fact": "Daral claimed he was drugged and upset, suggesting his actions were not deliberate \u2014 but his repeated finger-licking and book-handling contradicted this, pointing to intentional poisoning.",
+    "source_quote": "I was drugged. I was upset. I don't know what I was thinking.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "book seizure",
+    "fact": "The book was seized as evidence after Thorin revealed the poisoning method, and Daral was held under guard until midnight with a cleric and sword ready to extract poison, in case he was the victim.",
+    "source_quote": "We took it. We'd keep Daral close until midnight \u2014 a cleric who could draw poison out, and a sword that could do the same, both within arm's reach.",
     "quote_verified": true
   },
   {
     "type": "location",
     "subject": "the Whispering Dome",
-    "fact": "A quiet, low-light chamber where silence is enforced, and Glabbagool was summoned for his 'little quest' \u2014 a place of judgment where the truth is expected to surface.",
+    "fact": "The Whispering Dome was a quiet, low-light chamber where Glabbagool was summoned for his quest, and where the narrator reflected on its ideal atmosphere.",
     "source_quote": "The Whispering Dome was the kind of place I would have liked under different circumstances. Quiet. Low light pooling under the curve of the ceiling.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Glabbagool",
-    "fact": "Glabbagool is an oozing, slow-moving entity permanently attached to the narrator, summoned to the Whispering Dome for a trial \u2014 an entity whose nature defies categorization.",
+    "fact": "Glabbagool was a permanently attached oozing entity summoned for his 'little quest' at the Whispering Dome, with no objection from the narrator to his constant presence.",
     "source_quote": "Glabbagool was summoned for what they called his little quest. They told me I keep him \u2014 that he was, the word they used, permanently attached.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "Glabbagool's summons",
-    "fact": "Glabbagool was called before the Whispering Dome for judgment, and the narrator followed without question \u2014 a ritual of absolute attachment.",
-    "source_quote": "I had no objection to log. He moseyed across the floor toward the Dome... and I followed. Of course I followed. That was never a question I was going to be asked twice.",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "the innocent poisoner",
-    "fact": "The true poisoner is likely the one who licked the book\u2019s pages \u2014 but the dead man, Janussi, was the only one observed doing so \u2014 suggesting the real culprit is the one who framed him by ensuring the poison was on the book he\u2019d handle.",
-    "source_quote": "The dead poisoner is the innocent one.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "the sword and cleric (evidence tools)",
-    "fact": "A sword and a cleric capable of drawing poison are kept within arm's reach of Daral \u2014 tools of both protection and execution, should he die before midnight.",
-    "source_quote": "We'd keep Daral close until midnight \u2014 a cleric who could draw poison out, and a sword that could do the same, both within arm's reach.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "bookkeeping as motive",
-    "fact": "The narrative frames violence not as anger, but as cold, logical bookkeeping \u2014 a lesson made legible through slaughter, a theme that mirrors the poisoning as a calculated act of retribution.",
-    "source_quote": "It isn't anger. It's bookkeeping. You failed, and the account closes.",
-    "quote_verified": true
-  },
-  {
     "type": "npc",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool is a former shadow monk who has transformed and now resides on the player's forearm, possessing the ability to blend with scales, teleport in darkness, unleash acidic shadow strikes, and deploy a corrosive embrace that dissolves bound targets. He has four eyes embedded in the player's scales and requires silence. He remembers the drow in the bag of holding and prioritizes housekeeping.",
-    "source_quote": "Glabbagool and Zalthir, together now, he said, settling along my forearm like he had measured it in advance.",
-    "quote_verified": false
+    "subject": "the narrator",
+    "fact": "The narrator is a persistent, observant figure who tracks behavioral patterns, recognizes linguistic biases, and deduces truth through physical details \u2014 notably the act of finger-licking on book pages.",
+    "source_quote": "I watched the finger go to the mouth and back to the paper. I was fairly sure I knew what I was watching.",
+    "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Zalthir",
-    "fact": "Zalthir is a companion entity merged with Glabbagool, now existing as part of the same sentient presence on the player's arm. The two are inseparable in form and function, and their combined identity is acknowledged as a single unit.",
-    "source_quote": "Glabbagool and Zalthir, together now, he said, settling along my forearm like he had measured it in advance.",
+    "fact": "Zalthir is a former student who missed the lesson on silent communication, now bonded with Glabbagool, a transformed shadow monk, and carries four eyes on his forearm that he considers part of himself.",
+    "source_quote": "I liked it. Then he added that it must be quiet, and I liked that more. \"Well, good! So I just admire him now.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool was a shadow monk who mastered the art of stillness, now transformed and bonded to Zalthir, capable of teleportation in darkness, acidic shadow key infusion, corrosive embrace, and manifesting four eyes on his host's scales.",
+    "source_quote": "\"The body that mimics nothing is already shaped by what it watches.\" Then he answered. \"I've been waiting to do this for a very long time.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Former Shadow Monk",
+    "fact": "The former shadow monk observed Zalthir\u2019s bonding with Glabbagool and criticized Zalthir for missing the lesson on silent communication, which occurred on the day Zalthir was sleeping.",
+    "source_quote": "If I had paid more attention to the classes on silent communication, I would know exactly what Glabbagool's answer meant. But that, apparently, had been the day I was sleeping.",
     "quote_verified": false
   },
   {
     "type": "faction",
     "subject": "Shadow Monks",
-    "fact": "The Shadow Monks are a secretive order that teaches silent communication, stillness as a discipline, and the art of movement through observation. They value silence over pause, and their lessons are often delivered through embodied practice rather than verbal instruction.",
-    "source_quote": "The monk posed the question. *What is the art of movement.*",
-    "quote_verified": false
+    "fact": "The Shadow Monks are a monastic order that teaches silent communication, stillness, and the art of movement, with rituals involving shuttered rooms, incense, ink-stained hands, and controlled breathing.",
+    "source_quote": "Silent discussion. Communication without sound. I remember the light through the shutters. I do not remember the lesson.",
+    "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "Glabbagool's transformation",
-    "fact": "Glabbagool underwent a transformation during which he mastered the lesson of stillness in under a minute, demonstrating profound understanding of the Shadow Monk teachings. He emerged with new abilities tied to darkness, binding, and dissolution, and immediately reoriented himself onto the player\u2019s arm.",
+    "subject": "Glabbagool's Transformation",
+    "fact": "Glabbagool underwent a transformation during the trial at the Whispering Dome, achieving perfect stillness, answering the monk\u2019s question with wisdom, and bonding to Zalthir with new abilities and physical manifestations.",
     "source_quote": "Glabbagool went still. Not paused. Still. The difference matters. Paused costs something; still costs nothing.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "Silent Communication Lesson",
-    "fact": "The player missed a critical lesson in silent communication taught by the Shadow Monks, a lesson Glabbagool mastered in under a minute by going still. The lesson involved observing without sound, absorbing truth through presence, and recognizing that movement is shaped by what is watched.",
-    "source_quote": "The former shadow monk had been watching the whole exchange. He looked at me and said that if I had paid more attention to the classes on silent communication, I would know exactly what Glabbagool's answer meant.",
-    "quote_verified": true
-  },
-  {
     "type": "location",
-    "subject": "Shuttered Room",
-    "fact": "A shuttered room is a training space used by Shadow Monks for silent drills, where students practice stillness while others walk among them correcting breathing. Light filters through the shutters, and the environment is designed to heighten sensory awareness without verbal cues.",
-    "source_quote": "I held that exact silence in a shuttered room while some brother I cannot name walked the line correcting our breathing.",
-    "quote_verified": false
+    "subject": "Whispering Dome",
+    "fact": "The Whispering Dome is a sacred site where supplicants come to learn something about themselves through silent trials, stillness, and cryptic\u95ee\u7b54 from monks.",
+    "source_quote": "The Dome is where supplicants go to learn something about themselves.",
+    "quote_verified": true
   },
   {
     "type": "object",
     "subject": "Bag of Holding",
-    "fact": "The bag of holding contains drow who require monitoring. Glabbagool, even after his own transformation, immediately recalled the need to watch them, indicating they are a lingering responsibility tied to the player\u2019s mission.",
+    "fact": "The bag of holding contains drow who require monitoring, and Glabbagool\u2019s first act after transformation was to remind Zalthir of this responsibility.",
     "source_quote": "Before he settled in, he reminded me the drow in the bag of holding still needed watching.",
     "quote_verified": true
   },
   {
     "type": "monster",
-    "subject": "Drow",
-    "fact": "Drow are held captive or contained within the bag of holding and require active surveillance. They are remnants of a past conflict, possibly tied to Blingdenstone or the ooze crisis, and their presence is a persistent threat requiring vigilance.",
-    "source_quote": "He had survived Blingdenstone and the ooze crisis and however long in the dark, and his instinct, at the moment of his own transformation, was housekeeping.",
-    "quote_verified": true
+    "subject": "Drow in Bag of Holding",
+    "fact": "The drow imprisoned in the bag of holding are captives requiring oversight, likely survivors of Blingdenstone and the ooze crisis, and remain a latent threat.",
+    "source_quote": "He had survived Blingdenstone and the ooze crisis and however long in the dark...",
+    "quote_verified": false
   },
   {
     "type": "thread",
     "subject": "Missing Silent Communication Lesson",
-    "fact": "The player missed the core lesson on silent communication and stillness taught by the Shadow Monks \u2014 a lesson Glabbagool mastered instantly. This absence remains unresolved, and the player is aware they were likely sleeping during it, symbolizing a deeper pattern of disengagement.",
-    "source_quote": "But that, apparently, had been the day I was sleeping. 'Too much gardening research.'",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "Glabbagool's True Nature",
-    "fact": "Glabbagool\u2019s final statement \u2014 'I've been waiting to do this for a very long time' \u2014 and his immediate mastery of stillness suggest he is not merely a transformed monk but possibly an ancient or dormant entity awakening. His ease with the lesson hints at prior existence beyond the Shadow Monks' teachings.",
-    "source_quote": "Glabbagool came out of his stillness and said, 'I've been waiting to do this for a very long time.'",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "The Eyes on the Arm",
-    "fact": "Glabbagool\u2019s four eyes embedded in the player\u2019s scales raise questions about identity, perception, and concealment. The player wonders if they can be hidden to blend in \u2014 suggesting an ongoing tension between visibility and integration.",
-    "source_quote": "Four, as it turned out, blinking up from my own scales. 'Well, good! So I just admire him now.'",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "Voltron Analogy",
-    "fact": "The player\u2019s comparison of Glabbagool\u2019s integration to 'Voltron or something' reveals a disconnect between their understanding and the depth of the Shadow Monk philosophy. The analogy reflects a pop-culture lens applied to a sacred, ancient discipline.",
-    "source_quote": "'This is exciting. We formed Voltron or something.'",
+    "fact": "Zalthir missed the critical lesson on silent communication, a gap now exploited by Glabbagool, who mastered it in under a minute by going still, leaving Zalthir unable to interpret the monk\u2019s wisdom.",
+    "source_quote": "That, apparently, had been the day I was sleeping. \"Too much gardening research.\"",
     "quote_verified": false
   },
   {
     "type": "date",
-    "subject": "Day I Was Sleeping",
-    "fact": "The day the player missed the silent communication lesson is one among many days they were sleeping \u2014 a recurring pattern that symbolizes avoidance, distraction, or disengagement from deeper truths. Glabbagool\u2019s mastery contrasts sharply with this neglect.",
-    "source_quote": "There are, by now, a great many days I was sleeping. 'Was I ever there?'",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Brother Heslin",
-    "fact": "Brother Heslin is a Shadow Monk associated with incense and silent instruction. The player recalls him as possibly one of the instructors of the lesson they missed, though they are uncertain.",
-    "source_quote": "I think it was Brother Heslin, the one who always smelled of incense, or possibly the quiet one with the ink-stained hands.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "The Quiet One with Ink-Stained Hands",
-    "fact": "An unnamed Shadow Monk associated with ink-stained hands and silent teaching. The player cannot recall if this was the instructor of the missed lesson, but remembers their presence in the shuttered room.",
-    "source_quote": "I think it was Brother Heslin, the one who always smelled of incense, or possibly the quiet one with the ink-stained hands.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Blingdenstone",
-    "fact": "Blingdenstone is a location associated with a past crisis involving drow and ooze. Glabbagool survived it, indicating his history predates his current form and ties him to broader conflicts in the Underdark.",
-    "source_quote": "He had survived Blingdenstone and the ooze crisis and however long in the dark...",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "The Dark",
-    "fact": "The dark refers to prolonged, unspecified time spent in subterranean isolation \u2014 likely during the ooze crisis or a mission involving the drow. Glabbagool endured it, and his transformation occurred immediately afterward, suggesting the dark was a crucible for his awakening.",
-    "source_quote": "He had survived Blingdenstone and the ooze crisis and however long in the dark...",
+    "subject": "Session Date",
+    "fact": "The events of Glabbagool\u2019s trial and transformation occurred during a session in which Zalthir acknowledges he has missed many lessons and spent many days sleeping.",
+    "source_quote": "There are, by now, a great many days I was sleeping. Was I ever there?",
     "quote_verified": false
   },
   {
     "type": "event",
     "subject": "Corrosive Embrace Demonstration",
-    "fact": "Glabbagool demonstrated his corrosive embrace on a restrained target, revealing it does not wound but dissolves \u2014 leaving nothing behind. This ability requires a prior binding and exacts a cost from him, marking it as both powerful and perilous.",
+    "fact": "Glabbagool demonstrated his corrosive embrace on a restrained target, revealing it causes dissolution \u2014 not a wound \u2014 leaving nothing remaining after the target is bound.",
     "source_quote": "It was not a wound. It was dissolution. A target restrained, nothing left to hold by the end of it.",
     "quote_verified": false
   },
   {
     "type": "thread",
-    "subject": "Blending vs. Visibility",
-    "fact": "The player suggests Glabbagool should blend into their scales rather than appear as a separate creature. Glabbagool considers this, acknowledging that others expect him to be obvious \u2014 raising questions about identity, perception, and the burden of expectation.",
-    "source_quote": "I suggested he might not need them \u2014 that he could blend into me rather than read as a separate creature riding along. 'Right, she doesn't need the eyes, right?' He thought people expected him to have them, large and obvious.",
+    "subject": "Eyes on Forearm",
+    "fact": "Glabbagool manifests four eyes on Zalthir\u2019s forearm, and Zalthir debates whether they should appear as separate entities or blend into his natural scales to avoid detection.",
+    "source_quote": "Four, as it turned out, blinking up from my own scales. \"Well, good! So I just admire him now.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Brother Heslin",
+    "fact": "Brother Heslin is a former instructor in the Shadow Monks\u2019 order, remembered for smelling of incense and possibly teaching silent communication, though Zalthir cannot confirm if he attended his class.",
+    "source_quote": "I think it was Brother Heslin, the one who always smelled of incense, or possibly the quiet one with the ink-stained hands.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Quiet Ink-Stained Brother",
+    "fact": "A silent, unnamed brother in the Shadow Monks\u2019 order, remembered for ink-stained hands and participation in silent communication training, but Zalthir cannot confirm his role or presence.",
+    "source_quote": "I think it was Brother Heslin... or possibly the quiet one with the ink-stained hands.",
     "quote_verified": false
   },
   {
     "type": "thread",
-    "subject": "Gardening Research",
-    "fact": "The player\u2019s excuse for missing critical lessons \u2014 'Too much gardening research' \u2014 is a recurring motif that symbolizes their distraction from deeper spiritual or magical disciplines in favor of mundane, safe pursuits.",
-    "source_quote": "'Too much gardening research.'",
-    "quote_verified": false
+    "subject": "Voltron Reference",
+    "fact": "Zalthir misinterprets Glabbagool\u2019s bonding as resembling a pop-culture fusion entity (Voltron), revealing his disconnect from the monastic wisdom and reliance on vernacular analogies.",
+    "source_quote": "\"This is exciting. We formed Voltron or something.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Blending vs. Visibility",
+    "fact": "Zalthir proposes Glabbagool should blend into his scales rather than appear as a separate creature, challenging the expectation that bonded entities must be visibly distinct.",
+    "source_quote": "I suggested he might not need them \u2014 that he could blend into me rather than read as a separate creature riding along.",
+    "quote_verified": true
   }
 ]

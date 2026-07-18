@@ -2,141 +2,141 @@
   {
     "type": "npc",
     "subject": "Irony",
-    "fact": "Irony is a junior avowed who compulsively tells the truth and resents jokes about her name. She served at the Deadwinter supper, was present during the gift-giving, and observed Alkrist\u2019s project pitch and Janussi\u2019s reaction.",
-    "source_quote": "I really hate it when people make that joke. I'm so sorry \u2014 this compulsive need to always tell the truth.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Orrin",
-    "fact": "Orrin is a junior avowed who served at the Deadwinter supper alongside Irony and Sprig. All food and drink was shared from communal platters and carafes; no one had an individual plate.",
-    "source_quote": "Served by three of them: her, Orrin, and Sprig. All of it brought out on big platters and passed around, shared, drinks poured from carafes.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Sprig",
-    "fact": "Sprig is a junior avowed who served at the Deadwinter supper and participated in the gift-giving. He did not always lie, contrary to a joke made about him, and was present during the entire evening.",
-    "source_quote": "Sprig doesn't always lie, so I apologized for that one too.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Alkrist",
-    "fact": "Alkrist was the only cheerful person at the Deadwinter supper. He pitched a project called *Tales of War by the Generals That Waged Them*, a collection of first-hand strategy from warlords, which Janussi praised and Teles dismissed.",
-    "source_quote": "Alkrist was cheerful, pitching a project: *Tales of War by the Generals That Waged Them*, first-hand strategy from warlords and commanders around the world.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Teles",
-    "fact": "Teles scoffed at Alkrist\u2019s project, comparing its likelihood of success to a Fheminor Scrivenbark program \u2014 an obscure or implausible initiative. He was present during the supper and expressed skepticism.",
-    "source_quote": "Teles scoffed the project sounded as likely to succeed as some Fheminor Scrivenbark program.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Janussi",
-    "fact": "Janussi praised Alkrist\u2019s project as knowledge that could benefit civilization. He took his gift unwrapped, thanked his secret donor, and excused himself, dropping the wrapping paper in a wicker basket by the door.",
-    "source_quote": "Janussi praised it the other way: 'the kind of knowledge that could benefit civilization.' He took his unwrapped, thanked his secret donor, and excused himself, dropping the wrapping paper in a wicker basket by the door on his way out.",
+    "fact": "Irony is a junior avowed who compulsively tells the truth and served food at the Deadwinter supper; she confirms the meal began at 5PM, involved shared platters, and notes Alkrist was unusually cheerful while pitching a book project.",
+    "source_quote": "At least I can tell you what happened at dinner.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Daral",
-    "fact": "Daral muttered under his breath during the keeper\u2019s call for solidarity: 'Oh, you've been right behind one of us all night.' He was present throughout the supper and later confirmed the chalice was lead-lined and used to hide Janussi\u2019s heart.",
-    "source_quote": "Daral muttered under his breath, 'Oh, you've been right behind one of us all night.'",
+    "fact": "Daral is a scholar who was present at the Deadwinter supper; he muttered under his breath, 'Oh, you've been right behind one of us all night,' implying suspicion of insider knowledge or surveillance.",
+    "source_quote": "Oh, you've been right behind one of us all night.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Alkrist",
+    "fact": "Alkrist is a cheerful attendee at the Deadwinter supper who promoted the book project 'Tales of War by the Generals That Waged Them,' which drew criticism from Teles and praise from Janussi.",
+    "source_quote": "the kind of knowledge that could benefit civilization.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi praised Alkrist\u2019s book project, excused himself after receiving his Secret Santa gift, and dropped the wrapping paper in a wicker basket by the door \u2014 later found to be the victim whose heart was stolen.",
+    "source_quote": "the kind of knowledge that could benefit civilization.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Sylvira Savikas",
-    "fact": "Sylvira Savikas stormed out of the supper before the gift-giving. Her departure preceded the Secret Santa exchange and the distribution of gifts by Kazryn Nyantani.",
-    "source_quote": "Then Sylvira Savikas stormed out, and Kazryn Nyantani took it on herself to hand out the gifts...",
+    "fact": "Sylvira Savikas stormed out of the Deadwinter supper before the gift-giving, creating a break in the timeline that may have allowed access to the chalice or the body.",
+    "source_quote": "Sylvira Savikas stormed out.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Kazryn Nyantani",
-    "fact": "Kazryn Nyantani distributed the Secret Santa gifts under the evergreen tree, giving each gift to the matching great reader. Janussi received his unwrapped and left the wrapping paper in a wicker basket.",
-    "source_quote": "Kazryn Nyantani took it on herself to hand out the gifts under the evergreen tree, gave each one to the matching great reader.",
+    "fact": "Kazryn Nyantani handed out Secret Santa gifts to the great readers after Sylvira left, matching each gift to its recipient \u2014 including Janussi\u2019s unwrapped gift, which he accepted before leaving.",
+    "source_quote": "Kazryn Nyantani took it on herself to hand out the gifts under the evergreen tree.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Teles",
+    "fact": "Teles dismissed Alkrist\u2019s book project as implausible, comparing it to a Fheminor Scrivenbark program \u2014 suggesting a personal or ideological bias against the project or its proponent.",
+    "source_quote": "scoffed the project sounded as likely to succeed as some Fheminor Scrivenbark program.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Orrin",
+    "fact": "Orrin is a junior avowed who served food at the Deadwinter supper alongside Irony and Sprig; all meals were shared from communal platters, with no individual plates.",
+    "source_quote": "Served by three of them: her, Orrin, and Sprig.",
     "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sprig",
+    "fact": "Sprig is a junior avowed who served food at the Deadwinter supper; Irony clarified that Sprig doesn\u2019t always lie, countering a joke about his honesty.",
+    "source_quote": "Sprig doesn't always lie.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Candlekeep Avowed",
+    "fact": "The junior avowed are Candlekeep\u2019s trainee scholars who served the Deadwinter supper; they operated under strict protocols of shared service and observed the tensions among the great readers, making them potential witnesses or suspects.",
+    "source_quote": "Three junior avowed lined up near the serving doors.",
+    "quote_verified": false
   },
   {
     "type": "event",
     "subject": "Deadwinter supper",
-    "fact": "The Deadwinter supper began at 5PM with twelve plates: beetroot soup, fried carp, smoked mackerel, fruit compots, spiced wines and ales, honey, vodka, and green tea. All items were shared from communal platters and carafes; no individual plates were used.",
-    "source_quote": "The Deadwinter supper began at the 5PM bell. Twelve plates: beetroot soup, fried carp, smoked mackerel. Fruit compots, spiced wines and ales, honey, vodka, green tea. Served by three of them: her, Orrin, and Sprig. All of it brought out on big platters and passed around, shared, drinks poured from carafes.",
+    "fact": "The Deadwinter supper began at 5PM, featured twelve shared dishes, and included a Secret Santa gift exchange; Janussi left early after receiving his gift, and Sylvira exited before the exchange.",
+    "source_quote": "The Deadwinter supper began at the 5PM bell.",
     "quote_verified": true
   },
   {
     "type": "event",
     "subject": "Secret Santa gift exchange",
-    "fact": "After Sylvira\u2019s exit, Kazryn Nyantani distributed wrapped gifts under the evergreen tree, matching each to a great reader. Janussi received his gift unwrapped and left the wrapping paper in a wicker basket by the door.",
-    "source_quote": "Kazryn Nyantani took it on herself to hand out the gifts under the evergreen tree, gave each one to the matching great reader. Janussi took his unwrapped... dropping the wrapping paper in a wicker basket by the door on his way out.",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "Janussi's heart and cleaver",
-    "fact": "Janussi\u2019s heart was removed and placed in a lead-lined chalice alongside a blood-stained meat cleaver. The act was deliberate, meant to prevent resurrection and conceal the body part from far-seeing magic. The cleaver suggests a violent, premeditated act.",
-    "source_quote": "Janussi's heart,\" Daral said. \"Because they stole his heart. They didn't want anybody to be able to bring him back and ask him what happened.\" \"A heart. And a blood-stained meat cleaver.",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "lead-lined chalice",
-    "fact": "The chalice used to conceal Janussi\u2019s heart was lead-lined \u2014 a known safeguard against magical detection. Only someone familiar with Candlekeep\u2019s magical hoard would have chosen it. The person who handled it late, after the meal, is a key witness.",
-    "source_quote": "Whoever did this knew the chalice was lead-lined. Knew it would hide a body part from every far-seeing working the keep could throw at it... Somebody handling that cup late, after the meal, when they had no reason to, that's a witness and a window.",
+    "fact": "Kazryn Nyantani distributed wrapped gifts to the great readers after Sylvira left; Janussi received his unwrapped, thanked his donor, and dropped the wrapping paper in a wicker basket before exiting.",
+    "source_quote": "Janussi took his unwrapped, thanked his secret donor, and excused himself, dropping the wrapping paper in a wicker basket by the door.",
     "quote_verified": false
   },
   {
     "type": "thread",
     "subject": "inside job",
-    "fact": "The murder was planned by someone inside Candlekeep who knew its magical defenses, the chalice\u2019s properties, and the timing of the gift exchange. The fact that the chalice was handled after the meal, and that the heart was removed before Janussi left, confirms an insider.",
-    "source_quote": "This is further confirmation it's an inside job.\" \"It's somebody who knew the ins and outs of the keep, for sure.",
-    "quote_verified": false
+    "fact": "The theft of Janussi\u2019s heart and the use of the lead-lined chalice indicate an inside job \u2014 someone with intimate knowledge of Candlekeep\u2019s magic defenses and the chalice\u2019s properties.",
+    "source_quote": "That's not some random person off the road.",
+    "quote_verified": true
   },
   {
     "type": "thread",
-    "subject": "wrapping paper in wicker basket",
-    "fact": "Janussi dropped his gift\u2019s wrapping paper in a wicker basket by the door as he left \u2014 a physical trace that may contain clues about who gave him the gift, or whether it was tampered with before or after he received it.",
-    "source_quote": "Janussi took his unwrapped, thanked his secret donor, and excused himself, dropping the wrapping paper in a wicker basket by the door on his way out.",
+    "subject": "chalice access window",
+    "fact": "The lead-lined chalice was likely handled after the meal by someone with no legitimate reason to do so \u2014 creating a critical window for the theft and a potential witness.",
+    "source_quote": "Somebody handled it later in the evening.",
     "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "alibi gap",
+    "fact": "Sylvira Savikas\u2019s abrupt exit and Janussi\u2019s early departure created a gap in the timeline where access to the chalice and the body could have occurred without observation.",
+    "source_quote": "Sylvira Savikas stormed out... Janussi... excused himself.",
+    "quote_verified": false
   },
   {
     "type": "location",
     "subject": "Southern Dining Hall",
-    "fact": "The Southern Dining Hall was the site of the Deadwinter supper and the Secret Santa gift exchange. It has serving doors, an evergreen tree for gift-giving, and a wicker basket by the door where wrapping paper was discarded.",
-    "source_quote": "Three junior avowed lined up near the serving doors... under the evergreen tree... dropping the wrapping paper in a wicker basket by the door.",
+    "fact": "The Southern Dining Hall is where the Deadwinter supper was held, the chalice was stored, and Janussi\u2019s heart was later found; the alcove and wicker basket near the door are key evidence locations.",
+    "source_quote": "He started toward the alcove... dropping the wrapping paper in a wicker basket by the door.",
     "quote_verified": false
   },
   {
     "type": "object",
     "subject": "lead-lined chalice",
-    "fact": "A brass chalice lined with lead, used to conceal Janussi\u2019s heart from magical detection. It was handled during or after the meal, and its use indicates intimate knowledge of Candlekeep\u2019s magical defenses.",
-    "source_quote": "The chalice was lead-lined... to hide a body part from every far-seeing working the keep could throw at it.",
+    "fact": "The lead-lined chalice was used to conceal Janussi\u2019s heart from far-seeing magic; it was handled during and after the meal, making it the central object in the murder plot.",
+    "source_quote": "the chalice was lead-lined... would hide a body part from every far-seeing working.",
     "quote_verified": false
   },
   {
     "type": "object",
-    "subject": "blood-stained meat cleaver",
-    "fact": "A heavy, brutal tool found alongside Janussi\u2019s heart in the chalice. Its presence suggests the heart was forcibly removed, likely with violence, and the cleaver may be the murder weapon or a symbolic object.",
-    "source_quote": "A heart. And a blood-stained meat cleaver.\" \"The cleaver bothered me more than the heart, honestly.",
-    "quote_verified": false
+    "subject": "heart and meat cleaver",
+    "fact": "Janussi\u2019s heart and a blood-stained meat cleaver were found inside the chalice \u2014 a deliberate, ritualistic display meant to prevent resurrection and intimidate observers.",
+    "source_quote": "A heart. And a blood-stained meat cleaver.",
+    "quote_verified": true
   },
   {
     "type": "date",
-    "subject": "Deadwinter supper",
-    "fact": "The Deadwinter supper occurred at 5PM on the night of Janussi\u2019s murder, preceding his departure and the Secret Santa gift exchange.",
+    "subject": "Deadwinter night",
+    "fact": "The murder occurred on the night of the Deadwinter supper, a formal Candlekeep event held annually \u2014 a time of ritual, gift-giving, and heightened social tension.",
     "source_quote": "The Deadwinter supper began at the 5PM bell.",
     "quote_verified": true
   },
   {
-    "type": "faction",
-    "subject": "junior avowed",
-    "fact": "The junior avowed are trainees or lower-ranking members of Candlekeep\u2019s scholarly order. Irony, Orrin, and Sprig served at the supper, indicating their role in ceremonial duties and proximity to the victim.",
-    "source_quote": "Three junior avowed lined up near the serving doors... served by three of them: her, Orrin, and Sprig.",
-    "quote_verified": false
+    "type": "monster",
+    "subject": "resurrection-blocking ritual",
+    "fact": "The removal of Janussi\u2019s heart and placement of the cleaver in the chalice constitutes a resurrection-blocking ritual \u2014 a method to prevent magical revival and silence him permanently.",
+    "source_quote": "They didn't want anybody to be able to bring him back and ask him what happened.",
+    "quote_verified": true
   }
 ]

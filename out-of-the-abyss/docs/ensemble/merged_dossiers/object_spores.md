@@ -1,20 +1,22 @@
 ---
 name: Spores
 type: object
-n_facts: 3
-chapters: 5-50
+n_facts: 2
+chapters: 5-49
 ---
 
 ### Spores
 
-- **Type**: Biological infectious agent / vector  
-- **Current holder/location**: Not specified; active in the environment as a contagion  
-- **Nature**: A contagious, mind-altering fungal vector directly tied to Ilvara; distinct from the Heart Fungus artifact  
-- **Current condition**: Active and spreading; capable of transforming followers into mindless fungal entities  
-- **Significance**: Ilvara’s primary vector of infection; feared by Asha Vandree as a contagious plague; previously wielded by Stool as a critical survival tool (now superseded by its role in Ilvara’s corruption)  
-- **Key relationships**: Directly controlled by Ilvara; distinct from the Heart Fungus artifact; previously used by Stool  
+- **Type**: Biological infectious agent / fungal vector  
+- **Current location**: Not specified; last known in possession or influence of Ilvara’s cult and associated followers  
+- **Current condition**: Active, infectious, and transforming hosts into mindless fungal entities  
+- **Current holder/influencer**: Ilvara’s cult (implied by association); previously wielded by Stool  
+- **Significance**: Suspected primary vector of Ilvara’s corruption; directly linked to the magical corruption of Zuggtmoy  
+- **Notable properties**: Capable of inducing physical and mental transformation in hosts; treated as a tangible, biological threat by Asha  
+- **Recent actions**: Responsible for transforming followers of Ilvara into mindless fungal entities; previously deployed by Stool to investigate the moving cocoon  
 
 ## Uncertainty
-- The current physical location or bearer of the spores is not stated; they may be airborne, embedded in the environment, or carried by infected entities.  
-- Whether Stool still has access to or control over any remaining spores is unclear — their earlier use as a tool is overridden by their current role under Ilvara, but no fact confirms their removal or destruction.  
-- It is unclear whether the spores are a natural organism, magically engineered, or a manifestation of Zuggtmoy’s influence — Asha references Zuggtmoy, but the direct link is unconfirmed.
+- Was Stool still in possession of the spores at ch49, or had they been lost, transferred, or replicated by Ilvara’s cult?  
+- Are the spores currently under active control by any single individual, or are they spreading autonomously?  
+- Is the connection between Stool’s spores and Ilvara’s corruption a direct lineage, or are they two separate but similar strains?  
+- The quote from ch49 attributes the spores’ corruption to “the crazed magic of Zuggtmoy,” but ch05 implies Stool wielded them — was Stool originally a servant of Zuggtmoy, or did Ilvara acquire or corrupt them later?

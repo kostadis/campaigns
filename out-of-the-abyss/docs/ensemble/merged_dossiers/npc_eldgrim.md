@@ -9,25 +9,25 @@ chapters: 20-20
 
 - **Current status:** Alive  
 - **Current location:** Within Gracklstugh’s underground territories, likely at the Soulblades’ stronghold  
-- **Allegiance/faction:** Leader of the Soulblades, an assassin guild under the protection and direct orders of Gracklstugh’s royalty; loyal to the Deepking  
+- **Allegiance/faction:** Leader of the Soulblades, an assassin guild under the protection of Gracklstugh’s royalty; loyal to the Deepking’s orders  
 - **Current possessions / notable items:** Blindfolded (blind in one eye); no other items specified  
-- **Current assignment / role:** Chief of the Soulblades; negotiates covert operations, alters target lists, cancels contracts, and enforces the guild’s mythos  
-- **Key relationships:** Reports to the Deepking; interacts with Rust as a liaison; has authority over other Duergar in the guild; recently interacted with outsiders seeking passage or contract alterations  
+- **Current assignment / role:** Chief of the Soulblades; negotiates covert contracts, alters target lists, and enforces the guild’s mythos; directly commands assassins to eliminate Demogorgon’s cultists  
+- **Key relationships:** Reports to the Deepking; interacts with Rust as a liaison; has authority over other Duergar in the guild; Daz is a potential author whose work he threatens to suppress  
 - **Defining recent actions:**  
-  - Refused to issue written contracts, asserting that proof of the Soulblades’ existence would be dismissed as forgery or folly  
-  - Offered to cancel a contract and “brightlist” a target for a fee, demonstrating operational flexibility  
-  - Threatened to kill any author who disseminates anything other than the guild’s official legend  
-  - Demanded the elimination of Demogorgon’s cultists as a condition for allowing passage through Soulblades-controlled territory  
-  - Warned intruders that failure to eliminate “his problem” would result in a free contract fulfilled by himself  
+  - Refused to issue written contracts, asserting the guild’s existence must remain unprovable to preserve its power.  
+  - Offered to cancel a contract and “brightlist” a target in exchange for payment.  
+  - Demanded the party eliminate Demogorgon’s cultists as a condition for passage through Soulblades territory.  
+  - Threatened to kill any author who publishes anything other than the guild’s approved legend.  
+  - Declared that failure to complete the cultist elimination would result in a “free contract” — his own personal assassination of the party.  
 
-- **Revealed motivations/secrets:**  
-  - Believes the Soulblades’ power lies in their obscurity; actively suppresses documentation or testimony that might confirm their existence  
-  - Values myth and fear over tangible proof; sees the guild’s legend as its most potent weapon  
-  - Will personally enforce compliance — including killing those who defy or expose the guild  
+- **Revealed motivations:**  
+  - Believes the Soulblades’ power derives from myth and obscurity — proof of existence undermines their effectiveness.  
+  - Actively cultivates and enforces a controlled legend to maintain fear and mystery.  
+  - Values loyalty to the Deepking and the guild’s operational secrecy above all.  
 
 ## Uncertainty
-- The exact nature of “brightlisting” is not defined — whether it means prioritizing a target, marking them for protection, or something else.  
-- The identity of “Rust” is not established beyond being a liaison; their role or status within the guild is unclear.  
-- While Eldgrim is described as blindfolded and blind in one eye, it is not confirmed whether he is completely blind or has partial vision.  
-- The timeline of his threat against authors is ambiguous — it was said after Daz’s request, but it is unclear if this threat was directed at Daz specifically or generally.  
-- It is not confirmed whether Eldgrim personally carries out contracts or delegates them; his statement about “a free contract that I will enjoy fulfilling” suggests personal involvement, but no other acts of direct killing are documented.
+- The exact nature of the “brightlist” is not defined — whether it is a positive status, a target priority, or a euphemism is ambiguous.  
+- It is unclear whether “Rust” is a person, title, or code name; no further context is given.  
+- While Eldgrim is described as blindfolded and blind in one eye, it is not confirmed whether he is completely blind or has partial vision — the two descriptors could be interpreted as conflicting.  
+- The phrase “we are to let you through our territory” implies an order from Rust, but it is not clear whether Rust is a superior, intermediary, or alias for Eldgrim himself.  
+- The timeline of his threat to kill the author (Daz) is not confirmed as having been acted upon — only stated as a future possibility.

@@ -8,7 +8,7 @@
   },
   {
     "type": "event",
-    "subject": "travel duration to Sloobludop",
+    "subject": "travel to Sloobludop",
     "fact": "Sloobludop is approximately eight days away via the Darklake.",
     "source_quote": "the town of Sloopdopblop is just eight days away",
     "quote_verified": false
@@ -43,65 +43,177 @@
   },
   {
     "type": "event",
-    "subject": "elapsed time after battle",
+    "subject": "rest duration",
+    "fact": "The party took a long rest after the battle.",
+    "source_quote": "after a long rest",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "elapsed time",
     "fact": "An hour passes between two events in the session.",
     "source_quote": "An hour later",
     "quote_verified": false
   },
   {
+    "type": "location",
+    "subject": "Labyrinth dimensions",
+    "fact": "The Labyrinth is 240 by 120 miles in size.",
+    "source_quote": "240 by 120 mile Labyrinth",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "vault height",
+    "fact": "The vault is a thousand feet tall.",
+    "source_quote": "thousand-foot vault",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "zurkhwood weight",
+    "fact": "Two pounds of zurkhwood are being transported.",
+    "source_quote": "two pounds of zurkhwood",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz age",
+    "fact": "Daz has been a prisoner for fifteen years.",
+    "source_quote": "fifteen years a prisoner",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "artifact age",
+    "fact": "The artifact is a thousand years old.",
+    "source_quote": "thousand-year-old artifact",
+    "quote_verified": false
+  },
+  {
     "type": "event",
-    "subject": "third bravo",
-    "fact": "The third 'bravo' is spoken and is not sincere.",
+    "subject": "sequence of events",
+    "fact": "This is the first time Daz has been protected by hired blades from Menzoberranzan.",
+    "source_quote": "first time",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "sequence of events",
+    "fact": "This is the second day of the journey.",
+    "source_quote": "second day",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "sequence of events",
+    "fact": "This is the third round of combat.",
+    "source_quote": "third round",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "sequence of events",
+    "fact": "This is the fourth time the party has encountered this situation.",
+    "source_quote": "fourth time",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "sequence of events",
+    "fact": "The next bell rang after the confrontation.",
+    "source_quote": "the next bell rang",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "elapsed time",
+    "fact": "The party waited an hour before continuing.",
+    "source_quote": "an hour later",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs in the year 1493 DR.",
+    "source_quote": "1493",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "The Drow outpost is 100 feet above the cavern floor.",
+    "source_quote": "100' in the sky",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "contract value",
+    "fact": "The contract to protect Daz required a significant financial expenditure.",
+    "source_quote": "a lot. Like, they interrupt you. A lot.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "contract duration",
+    "fact": "The contract was active for the duration of the threat from House Mizzrym and House T'sarran.",
+    "source_quote": "House Mizzrym. House T'sarran.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz count",
+    "fact": "One Drow apostate, Daz, is the subject of the contract.",
+    "source_quote": "a nobody",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Duskryn sisters count",
+    "fact": "Two Drow sisters, Nym and Kaelira, are the hired protectors.",
+    "source_quote": "Two Drow. Duskryn name.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "T'sarran goons count",
+    "fact": "Multiple T'sarran goons were present and were burned by the party.",
+    "source_quote": "the T'sarran goons we'd just finished burning",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Ilvara's House agents count",
+    "fact": "Multiple agents from House Ilvara were a threat to Daz.",
+    "source_quote": "Ilvara's House",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "contract value",
+    "fact": "The contract was worth a substantial sum, enough to require financial interruption.",
+    "source_quote": "they interrupt you. A lot.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "sequence of events",
+    "fact": "This is the third time Kaelira has said 'bravo'.",
     "source_quote": "Bravo, bravo, bravo.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "fourth time",
-    "fact": "This is the fourth time the phrase 'well done' is used in the session.",
+    "subject": "sequence of events",
+    "fact": "This is the third time Kaelira has said 'well done'.",
     "source_quote": "Well done, well done, well done!",
     "quote_verified": true
   },
   {
-    "type": "object",
-    "subject": "contract payment value",
-    "fact": "The contract to protect Daz required a significant financial expenditure, described as 'a lot' and involving interruptions.",
-    "source_quote": "how much money that required us to get, for us to do? A lot. Like, they interrupt you. A lot.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Daz's age",
-    "fact": "Daz is a male drow apostate with no known lineage, implying he has lived at least into adulthood.",
-    "source_quote": "you're a male Drow apostate with no house affiliation",
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs in the year 1493 DR.",
+    "source_quote": "1493",
     "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Menzoberranzan founding",
-    "fact": "Menzoberranzan is a thousand-year-old drow city.",
-    "source_quote": "Menzoberranzan produces naturally",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "second day",
-    "fact": "The session occurs on the second day of the Tenday.",
-    "source_quote": "2nd Tenday",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "third round",
-    "fact": "The confrontation with Asha Vandree occurs after the third round of conflict escalation.",
-    "source_quote": "I stepped in.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "fourth time",
-    "fact": "This is the fourth time the phrase 'well done' is used in the session.",
-    "source_quote": "Well done, well done, well done!",
-    "quote_verified": true
   }
 ]

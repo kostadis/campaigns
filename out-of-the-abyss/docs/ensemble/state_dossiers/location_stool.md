@@ -6,14 +6,15 @@ chapters: 26-26
 ---
 
 ### Stool
-
-- **Current state:** Active mission anchor point.
-- **Current control/occupation:** Unspecified; no occupant named.
-- **Recent notable event:** Served as the location from which an urgent call to action was issued to rescue “Rump-a-dump,” directly prompting Zalthir and Grygum to mobilize.
-- **Significance:** Functions as a narrative and operational nexus for immediate mission deployment.
+- **Type:** Location  
+- **Current state:** Active mission site  
+- **Current control/occupation:** Unknown  
+- **Recent notable event:** Site of an urgent call to action for a mission to rescue Rump-a-dump.  
+- **Key contextual detail:** Directly referenced in a plea by an unnamed speaker (likely a PC or NPC) to initiate rescue operations.
 
 ## Uncertainty
-- The physical nature of “Stool” (e.g., building, landmark, terrain feature) is not described.
-- No indication of who, if anyone, is currently present at Stool.
-- No confirmation whether “Stool” is a proper name, a nickname, or a colloquial term for another location.
-- The outcome or current status of the mission to rescue “Rump-a-dump” is unknown.
+- The physical nature of "Stool" (e.g., building, landmark, terrain feature) is unspecified.  
+- Who is present at Stool currently is unknown.  
+- Whether "Stool" is a proper name, a codename, or a colloquial term is unclear.  
+- The identity of the speaker ("Hey, Zalthir? Grygum?...") is not established.  
+- No information on whether the mission to rescue Rump-a-dump has been executed or is still pending.

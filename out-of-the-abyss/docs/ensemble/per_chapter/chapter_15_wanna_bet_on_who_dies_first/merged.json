@@ -1,0 +1,1850 @@
+[
+  {
+    "type": "date",
+    "subject": "9th day of the 1st Tenday of Myrtul 1493",
+    "fact": "The events described occurred on the 9th day of the 1st Tenday of Myrtul 1493, marking the temporal anchor for the death of the stone giant, the Duergar\u2019s shrinking, Thorin\u2019s encounter with Dorhun, and the expiration of Gartokkar\u2019s offer.",
+    "source_quote": "9th day of the 1st Tenday of Myrtul 1493",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "9th day of the 1st Tenday of Myrtul 1493",
+    "fact": "The events occur on the 9th day of the 1st Tenday of Myrtul 1493, a time of escalating tension in Gracklstugh as the Deepking\u2019s madness destabilizes the regime and factions vie for power.",
+    "source_quote": "[Continuing \u2014 Date: 9th day of the 1st Tenday of Myrtul 1493, Speaker: Daz]",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "9th day of the 1st Tenday of Myrtul 1493",
+    "fact": "The events occur on the 9th day of the 1st Tenday of Myrtul 1493, marking the temporal anchor for the unfolding intrigue in Grygum and Gracklstugh.",
+    "source_quote": "9th day of the 1st Tenday of Myrtul 1493",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 9th day of the 1st Tenday of Myrtul 1493.",
+    "source_quote": "9th day of the 1st Tenday of Myrtul 1493",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "appearance of second stone giant",
+    "fact": "A second stone giant, flanked by Duergar and armed with stone weapons, appears immediately after Thorin\u2019s inquiry, suggesting coordinated surveillance or intervention by the city\u2019s powers.",
+    "source_quote": "Before Thorin can ask a follow-up question, another Stone Giant appears, flanked by Duergar, armed with curious stone weapons.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "corruption escalation",
+    "fact": "Corruption began with rule-breaking in the bazaar, escalated to grift, then chaos, and now threatens destruction, as described by Errde and confirmed by Daz\u2019s observations.",
+    "source_quote": "Things were not proceeding according to the rules of the market, of the bazaar. It starts with not obeying the rules. Then it proceeds to grift, then chaos, and then destruction.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz mutters, 'In this authoritarian, strict-as-rules city, what we saw is corruption.'",
+    "source_quote": "Daz mutters, 'In this authoritarian, strict-as-rules city, what we saw is corruption.'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz wonders if they should interview the various factions to find out which one they should join or whether they should join any of them.",
+    "source_quote": "Daz wonders if they should interview the various factions to find out which one they should join or whether they should join any of them.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "death of the two-headed stone giant",
+    "fact": "The two-headed stone giant was subdued by Thorin\u2019s attempts and Daz\u2019s weakening spells, struck by Zalthir and Grygum, and ultimately killed by a Duergar flame device. The event triggered Thorin\u2019s mourning, Grygum\u2019s intervention, and the Duergar\u2019s subsequent shrinking to standard size, indicating the completion of their ritual or magical transformation.",
+    "source_quote": "The Duergar, unconvinced by Thorin\u2019s entreaties, kill the giant.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Droki\u2019s disappearance",
+    "fact": "Droki, a rogue Duergar residing in the West Cleft District among the Derro, has evaded capture. His whereabouts and motives are unknown, but his presence threatens to provoke war if the Stone Guards move against him directly.",
+    "source_quote": "I have been tracking a particular Duergar named Droki. He lives in the West Cleft District, where the Derro live.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum notices that the fire comes from a device the duergars are holding, a tube connected to a bottle on their back with a small flame outside the tube.",
+    "source_quote": "Grygum notices that the fire comes from a device they are holding. It is a tube that connects to a bottle on their back. At the front of the tube, a small flame sits outside the tube.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum realizes that the flame is produced from some kind of magic concoction lit by the tiny flame when the duergar operator pulls a lever.",
+    "source_quote": "He realizes that the flame is produced from some kind of magic concoction lit by the tiny flame when the duergar operator pulls a lever.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum thinks, 'Well, I guess Daz chose to weaken his spell purposely.'",
+    "source_quote": "Grygum looks at Daz, and then looks at the giant, and thinks, 'Well, I guess Daz chose to weaken his spell purposely.'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "meeting with stone guards",
+    "fact": "Errde invites them to her office for a friendly conversation in the Overlake Hold.",
+    "source_quote": "I must ask that you come to my office so we can talk.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "offer expiration",
+    "fact": "Gartokkar's offer expires tomorrow.",
+    "source_quote": "The offer expires tomorrow.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "offer expiration by Gartokkar",
+    "fact": "Gartokkar\u2019s offer of safe passage expires tomorrow, creating a time-sensitive decision point for Zalthir and the party.",
+    "source_quote": "The offer expires tomorrow. And if you don\u2019t accept the offer, I cannot promise we will be so friendly when we meet next.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Red Dragon\u2019s periodic replacement",
+    "fact": "The Keepers of the Flame must regularly kill and replace the Red Dragon that powers the city\u2019s furnaces, due to the dragon\u2019s growing power and resentment of subordination. Dragon eggs are purchasable and hatchable, enabling this cycle.",
+    "source_quote": "So the Keepers must kill and replace the dragon with a new one.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "shrinkage of enlarged Duergar",
+    "fact": "After the stone giant\u2019s death, the enlarged Duergar shrink back to their standard size, indicating a magical or temporary transformation tied to the battle\u2019s conclusion.",
+    "source_quote": "Grygum looks up, and the enlarged Duergars have shrunk to their standard size.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "shrinking of the Duergar",
+    "fact": "After the death of the stone giant, the Duergar who used the flame device shrank to their standard size, suggesting their enlarged forms were magically sustained during the confrontation and were temporary. This shift was observed by Grygum and marked the end of the immediate threat.",
+    "source_quote": "Grygum looks up, and the enlarged Duergars have shrunk to their standard size.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin notices that there seems to be something odd about Errde.",
+    "source_quote": "Thorin pauses, 'Look, we want to know if this is for the Stone Guards or the City?' She pauses, and Thorin notices that there seems to be something odd about her",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin wonders where exactly they will run to because it\u2019s not clear how they can beat the entire stone guard.",
+    "source_quote": "Thorin grabs his sword and wonders where exactly they will run to because it\u2019s not clear how they can beat the entire stone guard",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir notices the scars on Gartokkar\u2019s ears, four notches that don\u2019t look self-inflicted.",
+    "source_quote": "Zalthir immediately notices the scars on his ears, four notches that don\u2019t look self-inflicted.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir thinks, 'And that, too.'",
+    "source_quote": "Zalthir thinks, 'And that, too.'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir thinks, 'I gotta get me some of that ability.'",
+    "source_quote": "I gotta get me some of that ability,\" he thinks.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Clan Lairds",
+    "fact": "The Clan Lairds are suspected of involvement in the corruption at the Deepking\u2019s court, with Droki possibly tied to their clandestine operations.",
+    "source_quote": "He is linked to the Council of Savants and maybe even elements of the Clan Lairds.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Council of Savants",
+    "fact": "The Council of Savants is implicated in the corruption at the Deepking\u2019s court, with Droki linked to its activities and possibly complicit in undermining its rules.",
+    "source_quote": "He is linked to the Council of Savants and maybe even elements of the Clan Lairds.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Crown",
+    "fact": "The Crown is a faction in conflict with the Keepers of the Flame; its nature and goals are unknown, but it is implied to be a rival power structure within Gracklstugh.",
+    "source_quote": "You must have met the Keepers of the Flame? They are in a pickle, what with the Gray Ghosts and the Crown.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Deepking\u2019s Court",
+    "fact": "The Deepking\u2019s court is suffering from systemic corruption: laws have become arbitrary, market rules are ignored, and chaos has replaced order; the court is suspected of being manipulated by hidden forces.",
+    "source_quote": "The laws are more arbitrary... It\u2019s as if he is detached from reality... Things were not proceeding according to the rules of the market... Then it proceeds to grift, then chaos, and then destruction.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Duergar Patrol",
+    "fact": "The Duergar patrol operates under the authority of the Deepking and is responsible for monitoring and suppressing anti-social, non-profitable madness among giants. They use magical flame devices to subdue or kill rogue stone giants. They are suspicious of non-Duergar authority, resentful of stone giants\u2019 privileges, and maintain strict control over who enters or exits their city. They reported a recent surge in such incidents and acknowledged no known cause.",
+    "source_quote": "\u201cWe have noticed that there have been significantly more incidents of this kind of behavior. As a result, the work of the militias has increased.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Duergar Regime",
+    "fact": "The Duergar regime is characterized by brutal efficiency, arbitrary laws under the Deepking, and a complete absence of art or ceremony in governance. It is in decline, as its leaders are detached from reality and its institutions are increasingly unstable.",
+    "source_quote": "Now, they don\u2019t. It\u2019s as if he is detached from reality.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Gray Ghosts",
+    "fact": "The Gray Ghosts are a faction in conflict with the Keepers of the Flame, though their motives and structure remain unclear; they are mentioned as a threat by the Halfling.",
+    "source_quote": "You must have met the Keepers of the Flame? They are in a pickle, what with the Gray Ghosts and the Crown.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Gray Ghosts",
+    "fact": "The Gray Ghosts are a hostile faction opposing the Keepers of the Flame, likely a shadowy group of insurgents or assassins. They are in conflict with the Crown and are a threat to the stability of the Duergar regime.",
+    "source_quote": "They are in a pickle, what with the Gray Ghosts and the Crown.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Keepers of the Flame",
+    "fact": "The Keepers of the Flame are a powerful Duergar organization that controls the Red Dragon, providing it with a horde and pampering it to ensure its cooperation in maintaining the city\u2019s furnaces. They are in a precarious position, as the dragon grows more powerful and resentful, and they must periodically kill and replace it. They are also threatened by the Gray Ghosts and the Crown.",
+    "source_quote": "The keepers of the flame give him a horde, and they pamper him. The problem... is that Red Dragons dislike playing second fiddle. And so, at some point, the Dragon discovers it\u2019s not in charge. Then, the Keepers of the Flame have to kill the dragon.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Keepers of the Flame",
+    "fact": "The Keepers of the Flame are a prestigious faction within Gracklstugh, responsible for tending Themberchaud \u2014 a fire dragon that burns stone-hot to fuel the city\u2019s furnaces. They are among the Deepking\u2019s most prized advisors. They use a magical flame device to control the dragon\u2019s output and operate under the authority of the Custodian of the Flame. They value utility and efficiency, and they have the power to grant safe passage and immunity from imprisonment.",
+    "source_quote": "\u201cI am the Custodian of the Flame, the chief of the Keepers of the Flame, who tend to Themberchaud\u2019s needs.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Keepers of the Flame",
+    "fact": "The Keepers of the Flame maintain Themberchaud, a red dragon used to heat Gracklstugh\u2019s furnaces; they periodically kill and replace the dragon due to its growing power and resentment, and they are embroiled in conflict with the Gray Ghosts and the Crown.",
+    "source_quote": "We use a fire dragon that burns stone hot... The problem... is that Red Dragons dislike playing second fiddle... the Keepers of the Flame have to kill the dragon... You must have met the Keepers of the Flame? They are in a pickle, what with the Gray Ghosts and the Crown.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Stone Guards",
+    "fact": "The Stone Guards are a faction of stone giants serving as enforcers or gatekeepers in Gracklstugh, loyal to their own kind and under the command of stone giants like Dorhun. They are distinct from Duergar authority and were ordered to grant Thorin passage despite Duergar disapproval, indicating their autonomy and higher status among the city\u2019s non-Duergar powers.",
+    "source_quote": "Turning to the Duergar with the stone weapons, he says, \u201cStone Guards, you are to let them through.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Stone Guards",
+    "fact": "The Stone Guards are the official law enforcement of the city, loyal to the Duergar regime and operating from the Overlake Hold. They are pragmatic, austere, and prefer covert operations to avoid open conflict, especially with the Derro.",
+    "source_quote": "I am Errde Blackskull, captain of the Stone Guards on the lake, and I must ask that you come to my office so we can talk.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Stone Guards",
+    "fact": "The Stone Guards, led by Errde Blackskull, are tasked with maintaining order in Gracklstugh; they are allied with Stone Giants and are investigating corruption linked to Droki, the Council of Savants, and Clan Lairds.",
+    "source_quote": "I am Errde Blackskull, captain of the Stone Guards... We need someone who isn\u2019t us to find him... Droki is the key to uncovering that corruption... I can tell them that they are not here.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "The Crown",
+    "fact": "The Crown is a rival power to the Keepers of the Flame, possibly a royalist or centralized authority seeking to reclaim control over the Duergar city. It is in open conflict with both the Keepers and the Gray Ghosts.",
+    "source_quote": "They are in a pickle, what with the Gray Ghosts and the Crown.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Blade Bazaar",
+    "fact": "Daz and his group arrive at the Blade Bazaar before going to the Darklake Brewery.",
+    "source_quote": "from just outside the Blade Bazaar, Daz and his odd collection of travelers arrive at the Darklake Brewery.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Cairngorm Cavern",
+    "fact": "Cairngorm Cavern is a location in Gracklstugh, referenced by Dorhun as a place Thorin must visit before leaving the city. It is implied to be a site of significance to stone giant lore, possibly tied to the legacy of Stonespeaker Hgraam and the deeper history of the city\u2019s giants.",
+    "source_quote": "\u201cI ask you to visit me at Cairngorm Cavern before you leave the city.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Cairngorm Cavern",
+    "fact": "Cairngorm Cavern is the requested meeting place for Thorin and Dorhun, suggesting it holds significance for Stone Giant history or secrets related to Stonespeaker Hgraam.",
+    "source_quote": "I ask you to visit me at Cairngorm Cavern before you leave the city.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Cairngorm Cavern",
+    "fact": "Dorhun invites Thorin to visit him at Cairngorm Cavern before leaving the city.",
+    "source_quote": "I ask you to visit me at Cairngorm Cavern before you leave the city.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Darklake Brewery",
+    "fact": "Daz and his group arrive at the Darklake Brewery.",
+    "source_quote": "Daz and his odd collection of travelers arrive at the Darklake Brewery.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Darklake Brewery",
+    "fact": "The Darklake Brewery is a closed establishment, accessible only to Duergar. It is a place of hushed conversations and covert information exchange, located just outside the Blade Bazaar. It is the site of key encounters with the halfling, Drow, and the Stone Guards.",
+    "source_quote": "The Brewery is closed to non-Duergar, and Daz is disappointed until Grygum, who sneaks a quick peek, says that inside is a pretty dour place where people talk only in hushed whispers.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Darklake Brewery",
+    "fact": "The Darklake Brewery is a closed, hushed establishment outside the Blade Bazaar where the Halfling and Drow provide key intelligence on Gracklstugh\u2019s factions and corruption.",
+    "source_quote": "The Brewery is closed to non-Duergar... inside is a pretty dour place where people talk only in hushed whispers.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh is a subterranean city ruled by the Deepking, where Duergar hold administrative power but stone giants retain ceremonial and military authority. The city relies on the Keepers of the Flame and their fire dragon, Themberchaud, to fuel its furnaces. It has prisons, militias, and a complex hierarchy where non-Duergar individuals require special permission to move freely. The city is marked by tension between Duergar control and stone giant autonomy.",
+    "source_quote": "\u201cYour skill set would be of great value to the city of Gracklstugh.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "The Duergar, unconvinced by Thorin\u2019s entreaties, kill the giant.",
+    "source_quote": "The Duergar, unconvinced by Thorin\u2019s entreaties, kill the giant.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "The enlarged Duergars have shrunk to their standard size.",
+    "source_quote": "Grygum looks up, and the enlarged Duergars have shrunk to their standard size.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Overlake Hold",
+    "fact": "Overlake Hold is the Stone Guards\u2019 austere, stone-built guard house where Errde Blackskull offers Thorin\u2019s party a bribe and protection in exchange for uncovering corruption.",
+    "source_quote": "They are in the Overlake Hold, the local guard house... The chairs and table are made of stone. There is no color\u2014the light is grey.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Overlake Hold",
+    "fact": "The Overlake Hold is the austere guardhouse and administrative center of the Stone Guards. Made entirely of grey stone, it reflects the cold, brutal efficiency of Duergar governance. It is where Errde Blackskull conducts official business and recruits covert agents.",
+    "source_quote": "A few minutes later, they are in the Overlake Hold, the local guard house. Errde brings them to a sitting room. Like everything in this town, it is austere. The chairs and table are made of stone. There is no color\u2014the light is grey.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Overlake Hold",
+    "fact": "The meeting takes place in the Overlake Hold, the local guard house.",
+    "source_quote": "they are in the Overlake Hold, the local guard house.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "the city",
+    "fact": "The city is the primary domain of the corruption, with the Deepking\u2019s court at its heart, and Errde asserts her role as its protector against internal decay.",
+    "source_quote": "There is something very wrong going on in my city. Some kind of corruption eats at the heart of the Deepking\u2019s court.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "West Cleft District",
+    "fact": "Droki lives in the West Cleft District, where the Derro live.",
+    "source_quote": "Droki. He lives in the West Cleft District, where the Derro live.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "West Cleft District",
+    "fact": "The West Cleft District is a Derro-inhabited area where the suspect Duergar, Droki, resides; it is considered too volatile for direct Stone Guard intervention.",
+    "source_quote": "He lives in the West Cleft District, where the Derro live. If we were to go there in force, it would provoke a violent reaction.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "West Cleft District",
+    "fact": "The West Cleft District is a dangerous neighborhood inhabited by the Derro. It is the suspected hideout of the rogue Duergar Droki and is considered too volatile for direct military incursion by the Stone Guards.",
+    "source_quote": "He lives in the West Cleft District, where the Derro live.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "drow and halfling pair",
+    "fact": "A Drow and a Halfling are drinking beer outside the Darklake Brewery.",
+    "source_quote": "Just outside is a Drow and Halfing, and they are drinking beer.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "duergar attendants",
+    "fact": "Gartokkar is accompanied by several duergar, and later other duergar approach to see what is happening.",
+    "source_quote": "I am Gartokkar Xundorn, and these are my Duergar. Just then, a few other Duergar approaches to see what is happening.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "duergar patrol size",
+    "fact": "Gartokkar is accompanied by his Duergar, and other Duergar approach to see what is happening.",
+    "source_quote": "I am Gartokkar Xundorn, and these are my Duergar. Just then, a few other Duergar approaches to see what is happening.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "duergar stone weapon bearers",
+    "fact": "Dorhun is flanked by Duergar armed with curious stone weapons, called Stone Guards.",
+    "source_quote": "flanked by Duergar, armed with curious stone weapons. ...Stone Guards, you are to let them through.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "stone guards",
+    "fact": "Dorhun is flanked by Duergar armed with curious stone weapons, referred to as Stone Guards.",
+    "source_quote": "The Stone Giant stares at Thorin... flanked by Duergar, armed with curious stone weapons. ...Stone Guards, you are to let them through.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "stone guards patrol",
+    "fact": "A group of Duergar with curious stone weapons, identified as Stone Guards, approach Thorin.",
+    "source_quote": "Thorin downs his Darklake Brewery Stout... sees a group of Duergar with curious stone weapons approaching.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "two-headed stone giant",
+    "fact": "The two-headed stone giant was subdued by Thorin but killed by Duergar using a magical flame device; it stood despite multiple attacks and magical bolts.",
+    "source_quote": "The giant stands. The Duergar, unconvinced by Thorin\u2019s entreaties, kill the giant.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz asks while holding down a snigger, 'So he\u2019s a lighter?'",
+    "source_quote": "Zalthir hears Daz ask while holding down a snigger, \u201cSo he\u2019s a lighter?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz cast magic that deliberately weakened the stone giant\u2019s defenses, as observed by Grygum. He expressed amusement at Gartokkar\u2019s description of the fire dragon as a \u2018lighter,\u2019 suppressing a snigger. He was intrigued by the mechanics of the dragon-fueled furnaces and the role of the Keepers of the Flame in Gracklstugh.",
+    "source_quote": "Daz ask while holding down a snigger, \u201cSo he\u2019s a lighter?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz investigates the dragon-lighter system, questions the Halfling about factions and Deepking\u2019s madness, recognizes the city\u2019s corruption as rule-breaking behavior, and negotiates with Errde Blackskull for payment and freedom guarantees.",
+    "source_quote": "How does a dragon end up turning into a lighter?\" ... \"In this authoritarian, strict-as-rules city, what we saw is corruption.\" ... \"Of course, but we would need remuneration for all of that plus our time.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a traveler who seeks to understand the power dynamics of the Underdark, particularly regarding the Keepers of the Flame, the Red Dragon, and the Duergar regime. He is cautious about aligning with factions and values information over commitment.",
+    "source_quote": "Daz wonders if they should interview the various factions to find out which one they should join or whether they should join any of them.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz recognizes corruption through the lens of the Blade Bazaar, having witnessed and replicated its behaviors \u2014 grift, chaos, and rule-breaking \u2014 and identifies systemic corruption in authoritarian structures.",
+    "source_quote": "Yes, there was much of that going on.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz wonders why a red dragon would serve as a lighter, given that red dragons are not known for willingness to serve.",
+    "source_quote": "How does a dragon end up turning into a lighter? What\u2019s in it for him? Red dragons are not exactly known for their willingness to serve. They want to build a hoard or something. A dragon that flies around lighting fires is odd.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz wonders, 'How does a dragon end up turning into a lighter? What\u2019s in it for him? Red dragons are not exactly known for their willingness to serve. They want to build a hoard or something. A dragon that flies around lighting fires is odd.'",
+    "source_quote": "The story of this dragon intrigues Daz. \u201cHow does a dragon end up turning into a lighter? What\u2019s in it for him? Red dragons are not exactly known for their willingness to serve. They want to build a hoard or something. A dragon that flies around lighting fires is odd.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz\u2019s hands emit a few bolts of magic.",
+    "source_quote": "A few bolts of magic streak from Daz\u2019s hands.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "The story of the dragon intrigues Daz.",
+    "source_quote": "The story of this dragon intrigues Daz.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Dorhun",
+    "fact": "Dorhun is a stone giant and former apprentice to Stonespeaker Hgraam. He confirmed Thorin\u2019s account of trying to subdue Hgraam, explained that stone giants have qualified immunity if rampaging, and invited Thorin to visit Cairngorm Cavern before leaving the city. He introduced Rihuud as his companion and commanded Stone Guards to grant Thorin passage, despite the Duergar\u2019s visible resentment.",
+    "source_quote": "\u201cI am Dorhun, and this is Rihuud. We were both apprentices to Stonespeaker Hgraam. Did you kill him?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Dorhun",
+    "fact": "Dorhun, a Stone Giant and former apprentice of Stonespeaker Hgraam, confirms Thorin\u2019s account of the giant\u2019s death and requests a meeting at Cairngorm Cavern, suggesting hidden knowledge or ritual significance.",
+    "source_quote": "I am Dorhun... We were both apprentices to Stonespeaker Hgraam. Did you kill him?",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Droki",
+    "fact": "Droki is a Duergar suspected of corruption, residing in the West Cleft District among the Derro; he is linked to the Council of Savants and Clan Lairds, but his identity and actions are unconfirmed.",
+    "source_quote": "I have been tracking a particular Duergar named Droki... Droki is the key to uncovering that corruption.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Droki",
+    "fact": "Droki is the central figure in the corruption at the Deepking\u2019s court, linked to the Council of Savants and possibly elements of the Clan Lairds. His discovery is essential to proving the conspiracy.",
+    "source_quote": "Droki is the key to uncovering that corruption.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Drow",
+    "fact": "The Drow is from Menzoberranzan and views Duergar violence as crude and artless compared to the refined politicking of his homeland. He is disgusted by the lack of style in Duergar conflict and contrasts their brutality with the elegance of drow intrigue.",
+    "source_quote": "The backstabbing and politicking are nothing compared to the Duergar. I mean, we will do it with style and finesse. Here, it\u2019s just slaughter. No torture, no speeches, no art, and I mean no style.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Drow",
+    "fact": "The Drow says, 'Look, friend, I am from Menzoberranzan. The backstabbing and politicking are nothing compared to the Duergar. I mean, we will do it with style and finesse. Here, it\u2019s just slaughter. No torture, no speeches, no art, and I mean no style. It was just a brutal struggle. They just engage in violence for violence\u2019s sake. It\u2019s disgraceful if you ask me.'",
+    "source_quote": "At this point, the Drow sitting next to the Halfling splutters, \u201cLook, friend, I am from Menzoberranzan. The backstabbing and politicking are nothing compared to the Duergar. I mean, we will do it with style and finesse. Here, it\u2019s just slaughter. No torture, no speeches, no art, and I mean no style. It was just a brutal struggle. They just engage in violence for violence\u2019s sake. It\u2019s disgraceful if you ask me.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Drow at Darklake Brewery",
+    "fact": "The Drow from Menzoberranzan criticizes Duergar culture as brutish and styleless, contrasting it with Drow politicking, and implies deeper cultural tensions in the Underdark.",
+    "source_quote": "The backstabbing and politicking are nothing compared to the Duergar... It\u2019s just slaughter. No torture, no speeches, no art... It\u2019s disgraceful.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Duergar",
+    "fact": "The Duergar gives the Stone Giant the briefest of scowls, showing how much they don\u2019t want to give this non-Duergar permission to visit their city.",
+    "source_quote": "The dwarf watches how the Duergar gives the Stone Giant the briefest of scowls, showing how much they don\u2019t want to give this non-Duergar permission to visit their city.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Duergar",
+    "fact": "The Duergar says, 'And we know of no underlying cause. Although a clan leader may have information they have chosen not to share with us.'",
+    "source_quote": "There is a pause, \u201cAnd we know of no underlying cause. Although a clan leader may have information they have chosen not to share with us.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Duergar",
+    "fact": "The Duergar turns to the others on his patrol, briefly discusses, and says, 'We have noticed that there have been significantly more incidents of this kind of behavior. As a result, the work of the militias has increased.'",
+    "source_quote": "The Duergar turns to the others on his patrol, briefly discusses, and says, \u201cWe have noticed that there have been significantly more incidents of this kind of behavior. As a result, the work of the militias has increased.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Errde",
+    "fact": "Errde is the guardian of the city against corruption, linked to the Council of Savants and possibly the Clan Lairds, and holds the key to uncovering the conspiracy centered on Droki. She can guarantee freedom and safe passage in exchange for Droki and proof of corruption.",
+    "source_quote": "It is my job to protect the city from corruption. So yes, it is for the city.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Errde Blackskull",
+    "fact": "Errde Blackskull is the captain of the Stone Guards on the lake, commanding authority through stern presence. She seeks covert assistance to locate the rogue Duergar Droki without provoking war with the Derro, and she navigates diplomacy with a mix of threat and charm.",
+    "source_quote": "I have been tracking a particular Duergar named Droki. He lives in the West Cleft District, where the Derro live. If we were to go there in force, it would provoke a violent reaction. So we need someone who isn\u2019t us to find him.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Errde Blackskull",
+    "fact": "Errde Blackskull says, 'And I can offer one more thing. If a particular group of Drow were to come looking for some escaped slaves, I could tell them that they are not here. As you think about which group to work with, remember I am the one that can guarantee your freedom.'",
+    "source_quote": "She then smiles very evilly, \u201cAnd I can offer one more thing.\u201d ... \u201cIf a particular group of Drow were to come looking for some escaped slaves, I could tell them that they are not here. As you think about which group to work with, remember I am the one that can guarantee your freedom.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Errde Blackskull",
+    "fact": "Errde Blackskull says, 'As a reward, I offer you 175 gold pieces of equipment from our armory. When you bring me Droki and the proof I need, then I will give you 175 more.'",
+    "source_quote": "\u201cAs a reward, I offer you 175 gold pieces of equipment from our armory. When you bring me Droki and the proof I need, then I will give you 175 more.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Errde Blackskull",
+    "fact": "Errde Blackskull says, 'I have been tracking a particular Duergar named Droki. He lives in the West Cleft District, where the Derro live. If we were to go there in force, it would provoke a violent reaction. So we need someone who isn\u2019t us to find him.'",
+    "source_quote": "\u201cI have been tracking a particular Duergar named Droki. He lives in the West Cleft District, where the Derro live. If we were to go there in force, it would provoke a violent reaction. So we need someone who isn\u2019t us to find him.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Errde Blackskull",
+    "fact": "Errde Blackskull says, 'It is my job to protect the city from corruption. So yes, it is for the city.'",
+    "source_quote": "\u201cIt is my job to protect the city from corruption. So yes, it is for the city.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Errde Blackskull",
+    "fact": "Errde Blackskull says, 'There is something very wrong going on in my city. Some kind of corruption eats at the heart of the Deepking\u2019s court. Droki is the key to uncovering that corruption. He is linked to the Council of Savants and maybe even elements of the Clan Lairds. Discovery of this conspiracy will earn me great favor with the Deepking. And when that happens, I swear you will get free and safe passage out of the city.'",
+    "source_quote": "\u201cThere is something very wrong going on in my city. Some kind of corruption eats at the heart of the Deepking\u2019s court. Droki is the key to uncovering that corruption. He is linked to the Council of Savants and maybe even elements of the Clan Lairds. Discovery of this conspiracy will earn me great favor with the Deepking. And when that happens, I swear you will get free and safe passage out of the city.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Errde Blackskull",
+    "fact": "Errde Blackskull says, 'Things were not proceeding according to the rules of the market, of the bazaar. It starts with not obeying the rules. Then it proceeds to grift, then chaos, and then destruction.'",
+    "source_quote": "Errde smiles, \u201cThings were not proceeding according to the rules of the market, of the bazaar. It starts with not obeying the rules. Then it proceeds to grift, then chaos, and then destruction.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Errde Blackskull",
+    "fact": "Errde Blackskull, captain of the Stone Guards, manipulates Thorin\u2019s party into investigating corruption, offers payment and protection, and implies authority over Drow slave claims; her motives are ambiguous.",
+    "source_quote": "I can tell them that they are not here... I swear you will get free and safe passage out of the city.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gartokkar's status",
+    "fact": "Gartokkar is the chief of the Keepers of the Flame and one of the Deepking\u2019s most prized advisors.",
+    "source_quote": "We are the most prized of the Deepking\u2019s advisors.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gartokkar's title",
+    "fact": "Gartokkar is the Custodian of the Flame and chief of the Keepers of the Flame.",
+    "source_quote": "I am the Custodian of the Flame, the chief of the Keepers of the Flame, who tend to Themberchaud\u2019s needs.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gartokkar Xundorn",
+    "fact": "Gartokkar Xundorn is the Custodian of the Flame and chief of the Keepers of the Flame, responsible for tending Themberchaud \u2014 a fire dragon that burns stone-hot to fuel Gracklstugh\u2019s furnaces. He is literal-minded, misunderstood sarcasm, laughed at a joke for the first time in long memory, and offered Zalthir safe passage through the city in exchange for a service. He warned that the offer expires tomorrow and that future interactions may be hostile if declined.",
+    "source_quote": "\u201cYour skill set would be of great value to the city of Gracklstugh. If you were to come to the Keepers of the Flame headquarters and do me a service, I could give you safe passage through the city.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gartokkar Xundorn",
+    "fact": "Gartokkar Xundorn says, 'I am the Custodian of the Flame, the chief of the Keepers of the Flame, who tend to Themberchaud\u2019s needs.'",
+    "source_quote": "\u201cI am the Custodian of the Flame, the chief of the Keepers of the Flame, who tend to Themberchaud\u2019s needs.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gartokkar Xundorn",
+    "fact": "Gartokkar Xundorn says, 'The furnaces of Gracklstugh must be kept hot, and instead of using a large amount of kindling, we use a fire dragon that burns stone hot that then is used to keep the furnaces running.'",
+    "source_quote": "\u201cThe furnaces of Gracklstugh must be kept hot, and instead of using a large amount of kindling, we use a fire dragon that burns stone hot that then is used to keep the furnaces running.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gartokkar Xundorn",
+    "fact": "Gartokkar Xundorn says, 'The offer expires tomorrow. And if you don\u2019t accept the offer, I cannot promise we will be so friendly when we meet next.'",
+    "source_quote": "There is a moment of hesitation, \u201cThe offer expires tomorrow. And if you don\u2019t accept the offer, I cannot promise we will be so friendly when we meet next.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gartokkar Xundorn",
+    "fact": "Gartokkar Xundorn says, 'Yes. The Keepers of the Flame tend to the dragon\u2019s needs. And we are the most prized of the Deepking\u2019s advisors. We need someone like you.'",
+    "source_quote": "Gartokkar is a Duergar, and he is literal and misses the sarcasm, \u201cYes. The Keepers of the Flame tend to the dragon\u2019s needs. And we are the most prized of the Deepking\u2019s advisors. We need someone like you.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gartokkar Xundorn",
+    "fact": "Gartokkar Xundorn says, 'Your skill set would be of great value to the city of Gracklstugh. If you were to come to the Keepers of the Flame headquarters and do me a service, I could give you safe passage through the city. And as long as you did nothing that the Deepking would disapprove of and would not require me to do too much, I could keep you out of the prisons.'",
+    "source_quote": "\u201cYour skill set would be of great value to the city of Gracklstugh. If you were to come to the Keepers of the Flame headquarters and do me a service, I could give you safe passage through the city. And as long as you did nothing that the Deepking would disapprove of and would not require me to do too much, I could keep you out of the prisons.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gartokkar Xundorn",
+    "fact": "Gartokkar Xundorn, Custodian of the Flame and chief of the Keepers of the Flame, operates the dragon-lighter system for Gracklstugh\u2019s furnaces and recruits outsiders; he laughs at jokes and makes conditional offers of protection.",
+    "source_quote": "I am the Custodian of the Flame... We use a fire dragon that burns stone hot... We are the most prized of the Deepking\u2019s advisors... We need someone like you.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gartokkar Xundorn",
+    "fact": "Gartokkar Xundorn, Custodian of the Flame, is literal, values humor, and recruits outsiders to serve the Keepers of the Flame; he is a high-ranking advisor to the Deepking.",
+    "source_quote": "I am the Custodian of the Flame... We are the most prized of the Deepking\u2019s advisors.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum hears from within the darkness the sound of Zalthir\u2019s fists hitting the giant and the blade of Thorin, but still, the giant stands.",
+    "source_quote": "Grygum hears from within the darkness the sound of Zalthir\u2019\u2019s fists hitting the giant and the blade of Thorin, but still, the giant stands.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is an orc who sneaks peeks to gather intelligence, speaks with pragmatic humor, and is perceived as non-threatening despite his appearance. He is trusted by Daz as a companion in navigating dangerous social terrain.",
+    "source_quote": "Grygum, who sneaks a quick peek, says that inside is a pretty dour place where people talk only in hushed whispers.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum jokes, 'We do have some kindling here.'",
+    "source_quote": "Zalthir hears Grygum\u2019s joke, \u201cWe do have some kindling here.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum notices that the fire comes from a device the Duergar are holding, a tube that connects to a bottle on their back, with a small flame sitting outside the tube, produced by a magic concoction lit by a tiny flame when the Duergar operator pulls a lever.",
+    "source_quote": "Grygum notices that the fire comes from a device they are holding. It is a tube that connects to a bottle on their back. At the front of the tube, a small flame sits outside the tube. He realizes that the flame is produced from some kind of magic concoction lit by the tiny flame when the duergar operator pulls a lever.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum observes the battle, interprets Daz\u2019s magic as deliberately weakened, hears Zalthir\u2019s attacks, and rushes in to strike the giant with his mace; he later witnesses Thorin praying and the Duergar shrinking.",
+    "source_quote": "Grygum looks at Daz, and then looks at the giant, and thinks, 'Well, I guess Daz chose to weaken his spell purposely.' ... Grygum rushes in to strike with his mace. ... Grygum watches as a distraught Thorin whispers prayers for the dead. ... Grygum looks up, and the enlarged Duergars have shrunk to their standard size.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum rushes in to strike with his mace.",
+    "source_quote": "So Grygum rushes in to strike with his mace.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum thinks, 'Well, I guess Daz chose to weaken his spell purposely.'",
+    "source_quote": "Grygum looks at Daz, and then looks at the giant, and thinks, \u201cWell, I guess Daz chose to weaken his spell purposely.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum watches as a distraught Thorin whispers prayers for the dead.",
+    "source_quote": "Grygum watches as a distraught Thorin whispers prayers for the dead.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum witnessed the death of a two-headed stone giant at the hands of Duergar using a magical flame device, observed Thorin\u2019s attempt to subdue it, noted Daz\u2019s deliberate weakening of his spells, and heard Zalthir\u2019s fists and Thorin\u2019s blade striking the giant \u2014 ultimately rushing in to strike with his mace. He watched Thorin mourn the giant and saw the Duergar shrink to standard size after the giant\u2019s death.",
+    "source_quote": "Grygum looks at Daz, and then looks at the giant, and thinks, \u201cWell, I guess Daz chose to weaken his spell purposely.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Guard",
+    "fact": "The guard sensing that asks, 'Someone who does not follow orders and engages in anti-social behavior, but does it in a way that will bring them no profit and certain doom?'",
+    "source_quote": "The guard sensing that asks, \u201cSomeone who does not follow orders and engages in anti-social behavior, but does it in a way that will bring them no profit and certain doom?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Halfling",
+    "fact": "The halfling is an outsider in the Underdark who survives by appearing harmless, avoiding political entanglements, and sharing information with those not 'in the game.' He is well-informed about factional conflicts, the Deepking\u2019s madness, and the Keepers of the Flame\u2019s predicament.",
+    "source_quote": "I\u2019m an outsider. And what do I know? Not very much. And as long as I stay an outsider, no one considers me a threat. And I can share what I know with those not in the game. And you are not part of the game, nor am I.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Halfling",
+    "fact": "The halfling says, 'It all began with the Deepking\u2019s madness.'",
+    "source_quote": "\u201cIt all began with the Deepking\u2019s madness.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Halfling",
+    "fact": "The halfling says, 'I\u2019m an outsider. And what do I know? Not very much. And as long as I stay an outsider, no one considers me a threat. And I can share what I know with those not in the game. And you are not part of the game, nor am I.'",
+    "source_quote": "\u201cI\u2019m an outsider. And what do I know? Not very much. And as long as I stay an outsider, no one considers me a threat. And I can share what I know with those not in the game. And you are not part of the game, nor am I.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Halfling",
+    "fact": "The halfling says, 'Now, they don\u2019t. It\u2019s as if he is detached from reality.'",
+    "source_quote": "Now, they don\u2019t. It\u2019s as if he is detached from reality.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Halfling",
+    "fact": "The halfling says, 'The red dragon keeps the stones hot enough for the furnaces to burn. Are you wondering about its horde? The keepers of the flame give him a horde, and they pamper him. The problem, and you\u2019re right to wonder, is that Red Dragons dislike playing second fiddle. And so, at some point, the Dragon discovers it\u2019s not in charge. Then, the Keepers of the Flame have to kill the dragon. There is also the problem of the dragon becoming more powerful over time. So the Keepers must kill and replace the dragon with a new one.'",
+    "source_quote": "\u201cThe red dragon keeps the stones hot enough for the furnaces to burn. Are you wondering about its horde? The keepers of the flame give him a horde, and they pamper him. The problem, and you\u2019re right to wonder, is that Red Dragons dislike playing second fiddle. And so, at some point, the Dragon discovers it\u2019s not in charge. Then, the Keepers of the Flame have to kill the dragon. There is also the problem of the dragon becoming more powerful over time. So the Keepers must kill and replace the dragon with a new one.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Halfling",
+    "fact": "The halfling says, 'What is that expression? It's -- Not relevant to the game.'",
+    "source_quote": "He pauses, searching for a phrase, \u201cWhat is that expression? It's -- Not relevant to the game.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Halfling",
+    "fact": "The halfling says, 'You must have met the Keepers of the Flame? They are in a pickle, what with the Gray Ghosts and the Crown.'",
+    "source_quote": "\u201cYou must have met the Keepers of the Flame? They are in a pickle, what with the Gray Ghosts and the Crown.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Halfling at Darklake Brewery",
+    "fact": "The Halfling is an outsider who avoids faction involvement, provides key intelligence on Deepking\u2019s madness and faction conflicts, and understands the danger of being perceived as a player.",
+    "source_quote": "I\u2019m an outsider... As long as I stay an outsider, no one considers me a threat... Not relevant to the game.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Rihuud",
+    "fact": "Rihuud is Dorhun\u2019s companion, a Stone Giant and former apprentice of Stonespeaker Hgraam; his role is passive but confirms the legitimacy of Dorhun\u2019s request.",
+    "source_quote": "I am Dorhun, and this is Rihuud. We were both apprentices to Stonespeaker Hgraam.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Rihuud",
+    "fact": "Rihuud is a stone giant and companion of Dorhun, also an apprentice of Stonespeaker Hgraam. He accompanied Dorhun when he met Thorin and was present when Dorhun granted passage through the city. He did not speak but was part of the authoritative presence that commanded the Stone Guards.",
+    "source_quote": "\u201cI am Dorhun, and this is Rihuud. We were both apprentices to Stonespeaker Hgraam.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Stone Giant",
+    "fact": "The Stone Giant says to the Duergar with the stone weapons, 'Stone Guards, you are to let them through.'",
+    "source_quote": "Turning to the Duergar with the stone weapons, he says, \u201cStone Guards, you are to let them through.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Stone Giant",
+    "fact": "The Stone Giant says, 'I am Dorhun, and this is Rihuud. We were both apprentices to Stonespeaker Hgraam. Did you kill him?'",
+    "source_quote": "The Stone Giant doesn\u2019t smile, \u201cNo. But then again, I don\u2019t know many. Who are you?\u201d ... Then he says, \u201cI am Dorhun, and this is Rihuud. We were both apprentices to Stonespeaker Hgraam. Did you kill him?\u201d",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Stone Giant",
+    "fact": "The Stone Giant says, 'I ask you to visit me at Cairngorm Cavern before you leave the city.'",
+    "source_quote": "Then he says, \u201cI ask you to visit me at Cairngorm Cavern before you leave the city.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Stone Giant",
+    "fact": "The Stone Giant says, 'We have qualified immunity if a Stone Giant is rampaging through our city.'",
+    "source_quote": "\u201cWe have qualified immunity if a Stone Giant is rampaging through our city,\u201d one explains.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Stone Giant",
+    "fact": "The Stone Giant stares at Thorin, whose body and blade show that he fought and perhaps killed the two-headed giant.",
+    "source_quote": "The Stone Giant stares at Thorin, whose body and blade show that he fought and perhaps killed the two-headed giant.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Stonespeaker Hgraam",
+    "fact": "Stonespeaker Hgraam was the mentor of Dorhun and Rihuud; his death is implied to be connected to the stone giant\u2019s rampage and the city\u2019s deeper mysteries.",
+    "source_quote": "We were both apprentices to Stonespeaker Hgraam. Did you kill him?",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin attempted to subdue the two-headed stone giant, pleaded with the Duergar not to kill it, and later prayed for the dead. He inquired about unusual behavior among giants, used a precise definition of anti-social, non-profitable madness to communicate with the Duergar, and was directed by Dorhun \u2014 a stone giant apprentice of Stonespeaker Hgraam \u2014 to visit Cairngorm Cavern. He confirmed that he tried to subdue Hgraam, not kill him, and was granted safe passage by the Stone Guards.",
+    "source_quote": "\u201cDon\u2019t kill him! There\u2019s something wrong with this giant! Let\u2019s try and subdue him,\u201d shouts Thorin.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin attempts to subdue the stone giant, prays for the dead, questions Duergar about 'crazy' behavior, learns of increased incidents of anti-social giants, and is approached by Dorhun who requests a visit to Cairngorm Cavern; he later negotiates with Errde Blackskull and seeks clarity on whether he serves the city or the Stone Guards.",
+    "source_quote": "Don\u2019t kill him! There\u2019s something wrong with this giant! Let\u2019s try and subdue him,\" ... \"Are there more crazy people about?\" ... \"I ask you to visit me at Cairngorm Cavern before you leave the city.\" ... \"It\u2019s just a friendly meeting. Not that kind of meeting!\" ... \"Are we helping you? Or the city?",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a traveler who is tempted to join the Stone Guards but is wary of factional entanglements. He is influenced by the halfling\u2019s warnings and struggles to distinguish between helping the guards and serving the city\u2019s interests.",
+    "source_quote": "Are we helping you? Or the city?",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is seeking clarity on whether to align with the Stone Guards or the City, and is being manipulated by Errde\u2019s promises of freedom and rewards in exchange for action against Droki.",
+    "source_quote": "Look, we want to know if this is for the Stone Guards or the City?",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is tempted to work for the Stone Guards, but the warnings of the halfling worry him.",
+    "source_quote": "Thorin is tempted to work for the Stone Guards. After all, they are friends of the Stone giants, but the warnings of the Halfing worry him.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is unfamiliar with the patterns of behavior of the Duergar, and finds the madness of a stone giant unheard of.",
+    "source_quote": "Although Thorin is unfamiliar with the patterns of behavior of the Duergar, the madness of a stone giant is unheard of.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin remembers that Stone Giants are not talkative and may take a long time before they initiate a conversation as they ponder all possible things.",
+    "source_quote": "Thorin remembers that Stone Giants are not talkative and may take a long time before they initiate a conversation as they ponder all possible things.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin says, 'It\u2019s just a friendly meeting. Not that kind of meeting!'",
+    "source_quote": "Thorin grabs his sword and wonders where exactly they will run to because it\u2019s not clear how they can beat the entire stone guard, but the effect Daz was hoping for is achieved. Errde is taken aback and smiles, \u201cOf course not. It is a friendly conversation.\u201d ... Thorin shouts, \u201cIt\u2019s just a friendly meeting. Not that kind of meeting!\u201d",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin shouts, 'Don\u2019t kill him! There\u2019s something wrong with this giant! Let\u2019s try and subdue him.'",
+    "source_quote": "\u201cDon\u2019t kill him! There\u2019s something wrong with this giant! Let\u2019s try and subdue him,\u201d shouts Thorin.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin turns to one of the Duergar, 'Are there more crazy people about?'",
+    "source_quote": "He turns to one of the Duergar, \u201cAre there more crazy people about?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin whispers prayers for the dead after the duergars kill the giant.",
+    "source_quote": "Grygum watches as a distraught Thorin whispers prayers for the dead.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is targeted by Gartokkar Xundorn, Custodian of the Flame, who offers him safe passage through Gracklstugh in exchange for service; the offer expires tomorrow and carries implied threats.",
+    "source_quote": "I am the Custodian of the Flame... Your skill set would be of great value to the city of Gracklstugh... The offer expires tomorrow. And if you don\u2019t accept the offer, I cannot promise we will be so friendly when we meet next.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is trying hard to protect himself from being burned alive, crushed by a giant, or arrested.",
+    "source_quote": "Zalthir is trying hard to protect himself from being burned alive, crushed by a giant, or arrested.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir thinks, 'I gotta get me some of that ability.'",
+    "source_quote": "\u201cI gotta get me some of that ability,\u201d he thinks.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir was focused on survival against being burned, crushed, or arrested. He encountered Gartokkar Xundorn, Custodian of the Flame and chief of the Keepers of the Flame, who offered him safe passage through Gracklstugh in exchange for a service. Gartokkar revealed the city\u2019s use of a fire dragon to fuel furnaces, misunderstood sarcasm about being a \u2018lighter,\u2019 and laughed at Grygum\u2019s joke about kindling. Zalthir was warned the offer expires tomorrow and that future encounters may not be friendly.",
+    "source_quote": "\u201cI am the Custodian of the Flame, the chief of the Keepers of the Flame, who tend to Themberchaud\u2019s needs.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir's observation",
+    "fact": "Zalthir notices Gartokkar has four notches on his ears, which do not look self-inflicted.",
+    "source_quote": "Zalthir immediately notices the scars on his ears, four notches that don\u2019t look self-inflicted.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "175 gold pieces of equipment",
+    "fact": "Errde offers 175 gold pieces of equipment from the armory as a reward for initial cooperation, with another 175 gold pieces contingent on delivering Droki and proof of corruption.",
+    "source_quote": "As a reward, I offer you 175 gold pieces of equipment from our armory. When you bring me Droki and the proof I need, then I will give you 175 more.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Dragon eggs",
+    "fact": "Dragon eggs are available for purchase and can be hatched, enabling the Keepers of the Flame to replace the Red Dragon when necessary. This knowledge informs Daz\u2019s understanding of the cycle of control and violence in the city.",
+    "source_quote": "Daz wonders... how Dragon eggs can be purchased and hatched.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Flame Device",
+    "fact": "The flame device is a magical apparatus used by Duergar to control and project fire, consisting of a tube connected to a bottle on the back, with a small external flame produced by a magic concoction lit when a lever is pulled. It was used to kill the two-headed stone giant and is a signature tool of the Duergar militias.",
+    "source_quote": "It is a tube that connects to a bottle on their back. At the front of the tube, a small flame sits outside the tube. He realizes that the flame is produced from some kind of magic concoction lit by the tiny flame when the duergar operator pulls a lever.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "flame tube and bottle device",
+    "fact": "A Duergar-held device consisting of a tube connected to a bottle on the back produces a persistent flame through magic; it is used to burn and kill the stone giant.",
+    "source_quote": "It is a tube that connects to a bottle on their back. At the front of the tube, a small flame sits outside the tube. He realizes that the flame is produced from some kind of magic concoction lit by the tiny flame when the duergar operator pulls a lever.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "reward offer",
+    "fact": "Errde offers 175 gold pieces of equipment from the armory as initial reward, with another 175 gold pieces upon success.",
+    "source_quote": "I offer you 175 gold pieces of equipment from our armory. When you bring me Droki and the proof I need, then I will give you 175 more.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "reward structure",
+    "fact": "Errde offers 175 gold pieces upfront and another 175 gold pieces upon successful delivery of Droki and proof.",
+    "source_quote": "I offer you 175 gold pieces of equipment from our armory. When you bring me Droki and the proof I need, then I will give you 175 more.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud is a fire dragon kept by the Keepers of the Flame in Gracklstugh. It burns stone-hot and is used to fuel the city\u2019s furnaces, replacing the need for large amounts of kindling. It is a living, controlled weapon of industrial power, and its care is the most prized duty in the Deepking\u2019s service.",
+    "source_quote": "\u201cwe use a fire dragon that burns stone hot that then is used to keep the furnaces running.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "corruption inquiry",
+    "fact": "Errde seeks proof of corruption linked to Droki, the Council of Savants, and Clan Lairds.",
+    "source_quote": "Droki is the key to uncovering that corruption. He is linked to the Council of Savants and maybe even elements of the Clan Lairds.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "corruption of the Deepking\u2019s court",
+    "fact": "A hidden corruption is eating at the heart of the Deepking\u2019s court, linked to Droki, the Council of Savants, and Clan Lairds; its nature and resolution remain unresolved.",
+    "source_quote": "There is something very wrong going on in my city. Some kind of corruption eats at the heart of the Deepking\u2019s court. Droki is the key to uncovering that corruption.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Deepking\u2019s madness",
+    "fact": "The Deepking\u2019s rule has become increasingly arbitrary and detached from reality, leading to the collapse of logical law in Gracklstugh. This madness is the root cause of current factional instability and the Keepers of the Flame\u2019s desperation.",
+    "source_quote": "It all began with the Deepking\u2019s madness.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Dorhun\u2019s invitation to Cairngorm Cavern",
+    "fact": "Dorhun invited Thorin to visit Cairngorm Cavern before leaving the city, implying that Hgraam\u2019s legacy, the stone giants\u2019 history, or a deeper secret lies there. This is an unresolved thread that may connect to the mystery of the giant madness, the Duergar\u2019s control, or the origins of the fire dragon.",
+    "source_quote": "\u201cI ask you to visit me at Cairngorm Cavern before you leave the city.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Droki\u2019s corruption",
+    "fact": "Droki is linked to the Council of Savants and maybe even elements of the Clan Lairds, but the nature of this corruption is not yet proven.",
+    "source_quote": "Droki is the key to uncovering that corruption. He is linked to the Council of Savants and maybe even elements of the Clan Lairds.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Drow slave escape",
+    "fact": "A group of escaped Drow slaves may be in the city; Errde Blackskull offers to deny their presence, implying the party may be harboring them or could be targeted by Menzoberranzan.",
+    "source_quote": "If a particular group of Drow were to come looking for some escaped slaves, I could tell them that they are not here.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "escaped slaves",
+    "fact": "A group of Drow may be searching for escaped slaves; Errde can deny their presence in the city, and her ability to provide this cover is a leverage point for Thorin\u2019s freedom.",
+    "source_quote": "If a particular group of Drow were to come looking for some escaped slaves, I could tell them that they are not here.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Gartokkar\u2019s offer to Zalthir",
+    "fact": "Gartokkar offered Zalthir safe passage and protection in Gracklstugh in exchange for a service, with the offer expiring tomorrow. Failure to accept may result in hostile future encounters. The nature of the service is unspecified, creating a pending plot thread that could lead Zalthir into the heart of the Keepers of the Flame\u2019s operations.",
+    "source_quote": "\u201cThe offer expires tomorrow. And if you don\u2019t accept the offer, I cannot promise we will be so friendly when we meet next.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "identity and fate of Droki",
+    "fact": "Droki, a Duergar living in the West Cleft District, is the central figure in the corruption investigation; his connection to the Council of Savants and Clan Lairds is unverified.",
+    "source_quote": "I have been tracking a particular Duergar named Droki... Droki is the key to uncovering that corruption.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "mystery of the stone giant madness",
+    "fact": "A surge of anti-social, non-profitable madness among stone giants has been reported by Duergar, with no known cause. This phenomenon has increased militia work and may be tied to a clan leader\u2019s hidden knowledge. Thorin and Dorhun\u2019s encounters suggest this is a systemic issue with deep roots in the city\u2019s power structure.",
+    "source_quote": "\u201cWe have noticed that there have been significantly more incidents of this kind of behavior... And we know of no underlying cause. Although a clan leader may have information they have chosen not to share with us.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Not relevant to the game",
+    "fact": "The phrase 'Not relevant to the game' has emerged as a cryptic mantra among outsiders who avoid factional entanglements. It defines a survival philosophy in the Underdark, separating observers from participants.",
+    "source_quote": "What is that expression? It's -- Not relevant to the game.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "origin of the dragon-lighter system",
+    "fact": "The origin of the red dragon\u2019s forced servitude as a flame source for Gracklstugh\u2019s furnaces is unexplained, and the cycle of killing and replacing dragons raises ethical and strategic questions.",
+    "source_quote": "The Keepers of the Flame give him a horde, and they pamper him... the Keepers must kill and replace the dragon with a new one.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "proof of corruption",
+    "fact": "Errde claims Daz\u2019s description of the Blade Bazaar\u2019s behaviors constitutes proof of corruption, linking systemic lawlessness in commerce to political decay.",
+    "source_quote": "You have found me proof!",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Halfling\u2019s outsider status",
+    "fact": "The halfling refuses to become involved in the city\u2019s factions because he wants to remain an outsider who watches, not participates.",
+    "source_quote": "I like to watch. I would avoid such encounters and actions.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Red Dragon\u2019s fate",
+    "fact": "The Keepers of the Flame must kill and replace the red dragon over time because it becomes more powerful and resents its role, but the source of new dragons is unexplored.",
+    "source_quote": "So the Keepers must kill and replace the dragon with a new one.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Thorin\u2019s allegiance",
+    "fact": "Thorin is torn between aiding the Stone Guards, the city, or remaining neutral; his moral compass conflicts with the city\u2019s authoritarian structure and hidden agendas.",
+    "source_quote": "Are we helping you? Or the city?\" ... \"I am tempted to work for the Stone Guards... but the warnings of the Halfing worry him.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Zalthir\u2019s desire for power",
+    "fact": "Zalthir wants to acquire the ability he saw used by Gartokkar, but his intention to do so is unspoken beyond his internal thought.",
+    "source_quote": "I gotta get me some of that ability,\" he thinks.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Zalthir\u2019s recruitment",
+    "fact": "Zalthir has been offered a role in the Keepers of the Flame, but the cost, timing, and consequences of acceptance remain unknown.",
+    "source_quote": "Your skill set would be of great value... I could give you safe passage... I cannot promise we will be so friendly when we meet next.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  }
+]

@@ -2,169 +2,176 @@
   {
     "type": "npc",
     "subject": "Bookwyrm",
-    "fact": "Bookwyrm is a suspect in the investigation; her whereabouts before nine in the morning are unverified, and she offered access to the Deneir's Sanctum as an office while directing suspects and witnesses to be fetched \u2014 a gesture that felt performative and suspicious.",
-    "source_quote": "She said 'catch' and corrected herself to 'fetch.' I kept that.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Fheminor Scrivenbark",
-    "fact": "Fheminor Scrivenbark is an unnamed entry in the party's own investigation notes, suggesting an unacknowledged alignment of priorities with the investigators \u2014 the absence of a name on the entry implies the record has been altered or corrupted.",
-    "source_quote": "Our own notes had started lying to us. That felt about right for this place.",
+    "fact": "Bookwyrm is the lead investigator in the Underdark sanctuary, offering access to Deneir's Sanctum as an interview room and directing Fembris Lancer to fetch suspects and witnesses; she corrected 'catch' to 'fetch,' raising suspicion about her role in the investigation.",
+    "source_quote": "Well, you can use this room as your office to interview anyone you wish as part of your investigation, and you can rely on Fembris Lancer to catch\u2026 fetch any suspects and witnesses you wish to speak to.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Sylvira Savikas",
-    "fact": "Sylvira Savikas is missing from the council meeting; someone impersonating her was seen walking the halls at night with a lantern, and her absence is the central anomaly around which the investigation is forming.",
-    "source_quote": "Sylvira wasn't at the council. Sylvira \u2014 or somebody wearing her face \u2014 had been walking the halls in the dead of night with a lantern.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Daral",
-    "fact": "Daral was absent from the council and instead questioned why Sylvira Savikas was not present \u2014 his focus on her absence marks him as unusually attuned to the core mystery.",
-    "source_quote": "Daral not even in it \u2014 he'd been at the Hearth, asking why isn't Sylvira Savikas here.",
-    "quote_verified": true
-  },
-  {
-    "type": "faction",
-    "subject": "Scholarly Underdark Cultures",
-    "fact": "Scholarly cultures of the Underdark are characterized by pervasive deception, hidden agendas, and refusal to speak truthfully \u2014 a stark contrast to the honorable truth-telling norms of surface mountain societies.",
-    "source_quote": "Down here, everybody's got a door they won't open. I hate it. I've always hated it.",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "Impersonator of Sylvira Savikas",
-    "fact": "An impersonator wearing Sylvira Savikas's face was seen carrying a lantern through the halls at night \u2014 the impersonation is not random, but strategically timed to exploit trust and access.",
-    "source_quote": "Someone impersonating her,\" Zalthir said. \"Yes. Yes.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Council Meeting After Murder",
-    "fact": "The council convened after a murder with competing demands: leadership change, succession naming, dismissal of the gate warden, and urgent calls to find the murderer \u2014 revealing fractured authority and conflicting priorities.",
-    "source_quote": "A'lai Aivenmore wanting a vote and new leadership... Kazryn Nyantani cutting through with first you must find the murderer.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Discovery of Altered Notes",
-    "fact": "The investigators discovered that their own notes contained an entry for 'Fheminor Scrivenbark' without a name \u2014 indicating internal corruption or magical interference in their records.",
-    "source_quote": "It isn't\u2026 for some reason, there's no name on that entry. It just says, Fheminor Scrivenbark.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Deneir's Sanctum",
-    "fact": "Deneir's Sanctum was offered as an investigative office but is suspected of being bugged or monitored \u2014 its apparent generosity masks potential surveillance.",
-    "source_quote": "It's nice and all to offer up that, like, we can use the office, and that they'll go fetch people, and all of those sorts of things, but it's also a little suspect.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "The Hearth",
-    "fact": "The Hearth is a location where Daral questioned Sylvira Savikas\u2019s absence \u2014 suggesting it is a hub of informal intelligence-gathering and rumor circulation.",
-    "source_quote": "Daral not even in it \u2014 he'd been at the Hearth, asking why isn't Sylvira Savikas here.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "Lantern",
-    "fact": "A lantern was carried by the impersonator of Sylvira Savikas during nighttime movements \u2014 its presence implies deliberate visibility and ritualistic intent.",
-    "source_quote": "Sylvira \u2014 or somebody wearing her face \u2014 had been walking the halls in the dead of night with a lantern.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "Who is the Real Sylvira Savikas?",
-    "fact": "The identity of Sylvira Savikas is in question \u2014 whether she is missing, dead, or was never who she claimed to be \u2014 and this uncertainty is the central unresolved thread driving the investigation.",
-    "source_quote": "Someone impersonating her,\" Zalthir said. \"Yes. Yes.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "Why Are Records Being Altered?",
-    "fact": "The investigators' own notes have begun omitting or obscuring names \u2014 suggesting magical tampering, internal betrayal, or systemic corruption within their investigation apparatus.",
-    "source_quote": "Our own notes had started lying to us.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "Who Ordered the Impersonation?",
-    "fact": "The impersonation of Sylvira Savikas was too precise and timely to be random \u2014 someone with access to her identity, schedule, and influence orchestrated it, but their motive and identity remain hidden.",
-    "source_quote": "It made perfect sense, and tactically it did, the impersonated woman might know who would wear her face.",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "Before Nine in the Morning",
-    "fact": "Bookwyrm\u2019s whereabouts before nine in the morning are unverified and critical to establishing her alibi \u2014 this temporal anchor is a key point of investigation.",
-    "source_quote": "I also want to understand where Bookwyrm was before nine in the morning.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum remains cautiously open-minded, often voicing the possibility that others are genuinely trying to help \u2014 even amid suspicion \u2014 which positions him as the moral counterweight to the group\u2019s growing paranoia.",
-    "source_quote": "That's Grygum. He leaves the door open for people to be decent even while he's bolting it.",
+    "subject": "Fembris Lancer",
+    "fact": "Fembris Lancer is assigned by Bookwyrm to retrieve suspects and witnesses, but the shift from 'catch' to 'fetch' suggests either a linguistic slip or deliberate obfuscation of authority.",
+    "source_quote": "Fembris Lancer to catch\u2026 fetch any suspects and witnesses you wish to speak to.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Daz",
-    "fact": "Daz voices the group\u2019s unspoken fears with halting, fragmented speech \u2014 his interruptions and hesitations reflect the psychological strain of operating in a world where truth is unreliable.",
-    "source_quote": "Do\u2026 do we think the room is, like, bugged, or has, like, secret\u2026 He couldn't even finish it.",
+    "fact": "Daz is skeptical of the sanctuary's openness, questioning whether the interview room is bugged and suggesting the hospitality may mask involvement; he helped rephrase the team\u2019s refusal to comment on ongoing details.",
+    "source_quote": "Do\u2026 do we think the room is, like, bugged, or has, like, secret\u2026",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is cautious but open-minded, acknowledging possible innocence even amid suspicion; he notes the team\u2019s own notes are lying and identifies Fheminor Scrivenbark as a mysterious figure with aligned priorities.",
+    "source_quote": "I mean, it could be that they genuinely want to get to the bottom of this.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is the lead investigator on the ground, experienced in the Underdark, deeply suspicious of deception, and insists on maintaining a neutral stance while probing Bookwyrm\u2019s alibi and the team\u2019s own contradictory notes.",
+    "source_quote": "I also want to understand where Bookwyrm was before nine in the morning\u2026 Everyone's available until they're not.",
     "quote_verified": false
   },
   {
     "type": "npc",
+    "subject": "Fheminor Scrivenbark",
+    "fact": "Fheminor Scrivenbark is a listed character in the team\u2019s investigation notes whose name has been erased from the entry, suggesting the record has been tampered with or is self-contradictory; Grygum suspects they share the team\u2019s investigative priorities.",
+    "source_quote": "It isn't\u2026 for some reason, there's no name on that entry. It just says, Fheminor Scrivenbark.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sylvira Savikas",
+    "fact": "Sylvira Savikas is a missing scholar whose identity has been impersonated; someone wearing her face was seen walking the halls at night with a lantern, and she was absent from the council meeting despite being central to the investigation.",
+    "source_quote": "Daral not even in it \u2014 he'd been at the Hearth, asking why isn't Sylvira Savikas here.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Impersonator of Sylvira Savikas",
+    "fact": "An impersonator wearing Sylvira Savikas\u2019s face was sighted in the dead of night with a lantern, suggesting deliberate deception to mislead or gain access; Grygum and Zalthir agree the impersonation makes tactical sense.",
+    "source_quote": "Someone impersonating her,\" Zalthir said. \"Yes. Yes.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Scholarly Council of the Deneir's Sanctum",
+    "fact": "The Scholarly Council is fractured, with members vying for control after a murder; A'lai Aivenmore seeks new leadership, Fheminor Scrivenbark questions Janussi\u2019s successor, Kazryn Nyantani demands the murderer be found, and Alkrist demands the gate warden be dismissed.",
+    "source_quote": "A'lai Aivenmore wanting a vote and new leadership. The dowdy halfling, Fheminor Scrivenbark, asking whether Janussi had named a successor. Kazryn Nyantani... cutting through with first you must find the murderer. Alkrist... the gate warden needs to be dismissed.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Deneir's Sanctum",
+    "fact": "Deneir's Sanctum is the central investigation hub, presented as a safe space for interviews, but its perceived openness raises suspicion of surveillance or manipulation; Bookwyrm\u2019s gesture of trust feels performative.",
+    "source_quote": "Deneir's Sanctum felt like a gift.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "The Hearth",
+    "fact": "The Hearth is a gathering place where Daral questioned Sylvira Savikas\u2019s absence, indicating her disappearance is known outside formal proceedings and may be linked to the impersonator\u2019s movements.",
+    "source_quote": "Daral not even in it \u2014 he'd been at the Hearth, asking why isn't Sylvira Savikas here.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Murder of Janussi",
+    "fact": "The murder of Janussi triggered the current investigation, destabilizing the scholarly hierarchy and prompting conflicting agendas among council members; it is the central event around which all suspicions orbit.",
+    "source_quote": "The whole pack of them, shouting over a body.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Erasure of Fheminor Scrivenbark\u2019s name from notes",
+    "fact": "The team\u2019s own investigation notes have been altered, removing Fheminor Scrivenbark\u2019s name from an entry that otherwise reflects aligned priorities \u2014 suggesting internal sabotage or memory manipulation.",
+    "source_quote": "Our own notes had started lying to us.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Impersonation of Sylvira Savikas at night",
+    "fact": "An individual wearing Sylvira Savikas\u2019s face was seen walking the halls with a lantern in the dead of night, indicating a deliberate act of deception to confuse the investigation or gain access to restricted areas.",
+    "source_quote": "Sylvira \u2014 or somebody wearing her face \u2014 had been walking the halls in the dead of night with a lantern.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Bookwyrm\u2019s alibi before 9 a.m.",
+    "fact": "Thorin is pursuing Bookwyrm\u2019s whereabouts before 9 a.m. as a critical unresolved thread \u2014 her accessibility as a suspect remains unverified, and her actions during that window may reveal involvement.",
+    "source_quote": "I also want to understand where Bookwyrm was before nine in the morning\u2026",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Who is the real Fheminor Scrivenbark?",
+    "fact": "The absence of Fheminor Scrivenbark\u2019s name from the team\u2019s notes, despite their clear investigative alignment, raises a thread: is this person real, erased, or an impersonator themselves?",
+    "source_quote": "It isn't\u2026 for some reason, there's no name on that entry.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Why is the investigation time-limited?",
+    "fact": "The team is told they must choose only a few threads before the situation moves on \u2014 but no reason is given; this urgency contradicts scholarly norms and suggests external forces are accelerating events.",
+    "source_quote": "Apparently things keep happening while you're standing around thinking. Grygum put it plainest: 'There'll be more murders.'",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Lantern",
+    "fact": "A lantern was carried by the impersonator of Sylvira Savikas during nighttime movements, indicating premeditation and a need for illumination \u2014 possibly to access hidden areas or signal others.",
+    "source_quote": "Sylvira \u2014 or somebody wearing her face \u2014 had been walking the halls in the dead of night with a lantern.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Time before 9 a.m.",
+    "fact": "The critical temporal anchor for Bookwyrm\u2019s alibi is the period before 9 a.m. \u2014 the window during which the murder may have occurred or been concealed, and when the impersonator was active.",
+    "source_quote": "I also want to understand where Bookwyrm was before nine in the morning\u2026",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daral",
+    "fact": "Daral is absent from the council meeting but was at the Hearth questioning Sylvira Savikas\u2019s absence \u2014 suggesting he is aware of her importance and possibly her impersonation.",
+    "source_quote": "Daral not even in it \u2014 he'd been at the Hearth, asking why isn't Sylvira Savikas here.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
     "subject": "Zalthir",
-    "fact": "Zalthir quickly accepts the reality of Sylvira\u2019s impersonation \u2014 his blunt confirmation suggests prior awareness or personal stakes in the deception.",
+    "fact": "Zalthir is the first to openly acknowledge the impersonation of Sylvira Savikas, affirming its plausibility and tactical advantage \u2014 indicating he is tracking the deception closely.",
     "source_quote": "Someone impersonating her,\" Zalthir said. \"Yes. Yes.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "A'lai Aivenmore",
-    "fact": "A'lai Aivenmore pushes for immediate leadership change after the murder \u2014 indicating ambition masked as procedural concern, possibly exploiting chaos for power.",
+    "fact": "A'lai Aivenmore is pushing for a vote and new leadership after Janussi\u2019s murder, suggesting ambition to seize control of the sanctuary\u2019s governance.",
     "source_quote": "A'lai Aivenmore wanting a vote and new leadership.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Kazryn Nyantani",
-    "fact": "Kazryn Nyantani cuts through political noise to demand the murderer be found first \u2014 establishing himself as the only voice prioritizing justice over power.",
+    "fact": "Kazryn Nyantani cuts through political noise to demand the murderer be found first \u2014 positioning them as a pragmatic anchor amid chaos.",
     "source_quote": "Kazryn Nyantani \u2014 slender, gray, those wrinkles around the eyes \u2014 cutting through with first you must find the murderer.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Alkrist",
-    "fact": "Alkrist, the bronze dragonborn gate warden, demands the dismissal of the gate warden \u2014 revealing defensive self-preservation and a refusal to accept blame.",
+    "fact": "Alkrist, the bronze dragonborn gate warden, demands accountability for the murder occurring on his watch, suggesting either guilt or a strategic attempt to deflect blame.",
     "source_quote": "The bronze dragonborn, Alkrist, formidable and furious, the gate warden needs to be dismissed, this happened on his watch.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Fembris Lancer",
-    "fact": "Fembris Lancer is referenced as the agent tasked with fetching suspects and witnesses \u2014 their role is administrative but unverified, raising questions about loyalty and competence.",
-    "source_quote": "You can rely on Fembris Lancer to catch\u2026 fetch any suspects and witnesses you wish to speak to.",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "Who Is Behind the Impersonation Scheme?",
-    "fact": "The impersonation of Sylvira Savikas is part of a broader scheme \u2014 the timing, access, and precision suggest coordination with someone inside the investigation or authority structure.",
-    "source_quote": "It made perfect sense, and tactically it did, the impersonated woman might know who would wear her face.",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "Why Is the Investigation Being Rushed?",
-    "fact": "The investigators are told they will only be allowed to pursue a limited number of threads \u2014 suggesting external forces are controlling the pace of justice to prevent exposure.",
-    "source_quote": "Apparently they don't. Apparently things keep happening while you're standing around thinking. Grygum put it plainest: 'There'll be more murders.'",
-    "quote_verified": false
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm is attempting to settle the council after the murder, but her actions \u2014 offering the sanctum as an office, correcting 'catch' to 'fetch,' and deflecting questions \u2014 suggest she is managing perception, not facilitating truth.",
+    "source_quote": "Bookwyrm trying to settle the room.",
+    "quote_verified": true
   }
 ]

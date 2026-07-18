@@ -1,23 +1,23 @@
 ---
 name: Drow
 type: monster
-n_facts: 6
-chapters: 1-58
+n_facts: 5
+chapters: 1-59
 ---
 
 ### Drow
 
-- **Current status:** Alive (as remnants held in containment; no evidence of death)
-- **Current location:** Held captive or contained within a bag of holding
-- **Allegiance/faction:** The Ember Vanguard (faction of Menzoberranzan Drow)
-- **Current possessions / notable items, spells, feats, wounds:** Unknown; no specific items, spells, or wounds currently attributed
-- **Current assignment / role:** Remnants of a past conflict; held under active surveillance due to persistent threat
-- **Defining recent actions:** Captured and contained within a bag of holding following a conflict tied to Blingdenstone and the ooze crisis; previously operated as elite guards and overseers in an outpost, led by Imbros
-- **Revealed motivations or secrets:** Their presence is a lingering threat requiring constant vigilance; their origin links to the ooze crisis and Blingdenstone, suggesting they survived extreme conditions and may harbor unresolved hostility or adaptive traits
+**Current status:** Alive (as active presence in outpost)  
+**Current location:** Underdark outpost (specifically, Beremil, Balok, Ilvara; chamber with two guards and one elite fighter)  
+**Allegiance/faction:** Unspecified, but function as guards and overseers in an organized outpost structure  
+**Current possessions / notable items, spells, feats, wounds:** None specified  
+**Current assignment / role:** Guards and overseers; elite Drow male fighter (Imbros) holds command or leadership role in chamber; possess specialized knowledge of a poison mechanism tied to Underdark conditions  
+**Defining recent actions:** Maintain control of outpost chambers; enforce order; demonstrate familiarity with a poison whose mechanism aligns with Underdark physiology and timing neutrality  
+**Revealed motivations or secrets:** Possess advanced understanding of a poison mechanism; their use of it suggests deliberate, possibly covert involvement — likely tied to Underdark adaptation and operational independence from celestial cycles  
 
 ## Uncertainty
-- The exact number of Drow currently in the bag of holding is unspecified.
-- It is unclear whether Imbros is among those contained or if he perished prior to chapter 58.
-- The nature of their "transformation" mentioned in ch58 is not defined — whether physical, magical, or psychological.
-- It is ambiguous whether all Drow in the bag are from the Ember Vanguard or if some are unrelated survivors.
-- The source of their capture (who captured them, and when exactly) is not stated — only that they are now contained.
+- The exact number of Drow currently present in the outpost beyond the chamber is unknown; ch01 lists multiple Drow across locations, but ch02 and ch59 focus only on the chamber and general traits.  
+- Whether Imbros is still the elite Drow fighter in the chamber (ch02) or has been replaced, reassigned, or killed is unconfirmed by later chapters.  
+- The nature of the poison mechanism and whether Drow are its creators, users, or merely beneficiaries is implied but not explicitly confirmed.  
+- No Drow-specific spells, feats, or magical items are documented in any chapter.  
+- No current wounds or injuries are reported.

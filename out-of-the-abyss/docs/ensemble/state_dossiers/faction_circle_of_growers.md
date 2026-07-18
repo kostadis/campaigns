@@ -8,15 +8,15 @@ chapters: 32-32
 ### Circle of Growers
 
 **Current status:** Active  
-**Current location:** Unknown (no location specified)  
-**Allegiance/faction:** Myconid subgroup aligned with Phylo’s doctrine; opposed to Basidia’s traditionalist views  
+**Current location:** Unknown (no specific location provided)  
+**Allegiance/faction:** Myconid subgroup aligned with Phylo’s doctrine; opposes Basidia’s traditionalist views  
 **Key members:** Led by Hepbobe  
-**Current goals:** Maximize food production and efficiency through specialization  
-**Current assignment / role:** Dedicated to agricultural output and resource optimization within Myconid society  
-**Defining recent actions:** Rejected collective discourse in favor of specialized labor roles; actively promoting Phylo’s doctrine as superior to Basidia’s traditions  
+**Current goals:** Maximize food production and efficiency through specialization; reject collective discourse  
+**Recent actions:** Adhered to Phylo’s doctrine, actively distinguishing themselves from Basidia’s traditionalist faction  
+**Defining beliefs:** Specialization enhances productivity; collective discourse is inefficient  
 
 ## Uncertainty
-- Exact geographic location or settlement of the Circle of Growers is unspecified.  
-- Whether Hepbobe is still alive or actively leading (no later chapter to confirm current status).  
-- No details on current interactions with Phylo, Basidia, or other factions beyond ideological alignment/opposition.  
-- No information on current members beyond Hepbobe.
+- Exact geographic location or base of operations is unspecified.  
+- No information on current interactions with other factions beyond ideological opposition to Basidia.  
+- No details on size, resources, or current production output.  
+- Whether Hepbobe is still alive or in command is assumed but not explicitly confirmed as current.

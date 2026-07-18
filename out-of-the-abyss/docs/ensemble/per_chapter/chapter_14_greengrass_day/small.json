@@ -1,0 +1,849 @@
+[
+  {
+    "type": "date",
+    "subject": "Greengrass Day",
+    "fact": "Today is Greengrass.",
+    "source_quote": "Somehow, Thorin remembers that today is Greengrass.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "abandoned boat",
+    "fact": "An abandoned boat is spotted ahead.",
+    "source_quote": "He looks a bit further and sees a boat. A boat that is abandoned.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Duergar Keelboat",
+    "fact": "The abandoned boat is identified as a Duergar Keelboat.",
+    "source_quote": "Yes, it\u2019s Duergar Keelboat. You can see the crates.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Hemeth",
+    "fact": "Hemeth turns invisible.",
+    "source_quote": "I will be hiding here.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz uses shape water",
+    "fact": "Daz uses shape water to reveal an invisible humanoid outline near the boat.",
+    "source_quote": "I have shape water! ... water is sprayed around the boat, and the outline of a humanoid appears.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir invokes darkness",
+    "fact": "Zalthir invokes Darkness and plunges into the water to attack.",
+    "source_quote": "He invokes Darkness and plunges into the water to attack the foe.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir strikes invisible Duergar",
+    "fact": "Zalthir\u2019s first strike misses the invisible Duergar, but the second strikes home.",
+    "source_quote": "The Dragonborn\u2019s initial strike misses, but the second strikes home with a thud.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin dives into water",
+    "fact": "Thorin dives into the water to swim next to Zalthir and strike the invisible creature.",
+    "source_quote": "Diving into the water, he swims next to Zalthir and strikes the invisible creature, wounding it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "scorching rays hit water",
+    "fact": "Two scorching rays hit the water and hiss harmlessly.",
+    "source_quote": "Thorin hears two scorching rays hit the water and hiss harmlessly.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Duergar screams in pain",
+    "fact": "A Duergar screams in pain.",
+    "source_quote": "He\u2019s about to lose hope when he hears the scream of a Duergar in pain.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum belches acid",
+    "fact": "Grygum belches acid, killing a Duergar.",
+    "source_quote": "He hears Grygum's magical words and the telltale sound of a belch. ... the Duergar is not so lucky and dies.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Duergar grapple crew members",
+    "fact": "A Duergar grapples and pulls someone overboard from the boat.",
+    "source_quote": "Then he hears a scream. He can hear someone from the boat being grappled and pulled overboard.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "two more crew members grappled",
+    "fact": "Two more members of the crew are grappled by Duergar.",
+    "source_quote": "Two more members of the crew are grappled.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar says Duergar capture slaves to sell in Gracklstugh.",
+    "source_quote": "Yes, they capture slaves that they sell in Gracklstugh.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir says 'at least it\u2019s where we were going'",
+    "fact": "Zalthir says, 'At least it\u2019s where we were going.'",
+    "source_quote": "Zalthir shout, 'At least it\u2019s where we were going.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth is not captured by the Duergar.",
+    "source_quote": "Thorin approaches the boat and notices that Eldeth is not one of those captured.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Stool",
+    "fact": "Stool is captured by the Duergar.",
+    "source_quote": "The dwarf checks the others and sees that Stool has been captured.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin attacks Duergar",
+    "fact": "Thorin attacks the Duergar, causing them to release Stool.",
+    "source_quote": "He attacks the Duergar. And the Duergar release Stool.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Darkness returns",
+    "fact": "The area is covered again in Darkness.",
+    "source_quote": "Then the area is covered again in Darkness",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir strikes Duergar again",
+    "fact": "Zalthir strikes the Duergar with his fists, killing it.",
+    "source_quote": "His fists strike the creature that had Spiderbait, killing it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz casts magic missile",
+    "fact": "Daz casts magic missile, striking a Duergar with glowing teardrops of force.",
+    "source_quote": "The magic missile will do just fine here.\u201d ... The Duergar is struck by glowing teardrops of blue-white force sizzle through the air, swooping swift as starlings, unerring in their flight.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido claims he is invisible.",
+    "source_quote": "I am invisible.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz drags Spiderbait away",
+    "fact": "Daz drags Spiderbait away from the Duergar.",
+    "source_quote": "strikes the Duergar, dragging Spiderbait away.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir moves darkness again",
+    "fact": "Zalthir moves the darkness to cover the enemies.",
+    "source_quote": "Zalthir again moves the darkness to cover the enemies.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth curses the Duergar as 'Demonic spawn of dwarven corruption.'",
+    "source_quote": "Eldeth curse them out as 'Demonic spawn of dwarven corruption. Slave trader who deserves to be sent to the nine hells as punishment!'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz kills second Duergar with magic missile",
+    "fact": "Daz kills the second Duergar with magic missile bolts.",
+    "source_quote": "the burst of magic bolts kills the other creature.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum belches acid again",
+    "fact": "Grygum belches acid, killing another Duergar.",
+    "source_quote": "Another belch sounds, and another Duergar dies covered in acid.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "last Duergar immobilized",
+    "fact": "The last of the Duergar is immobilized.",
+    "source_quote": "A few moments later, the last of the Duergar is immobilized",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "gold",
+    "fact": "Zalthir finds gold in the Duergar Keelboat\u2019s casks and chest.",
+    "source_quote": "He finds some gold",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "jug that generates liquid",
+    "fact": "Zalthir finds a jug that can generate any liquid.",
+    "source_quote": "a jug that he learns later can be used to generate any liquid.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "jug generates mayonnaise",
+    "fact": "The first liquid generated from the jug is mayonnaise.",
+    "source_quote": "The first liquid they generate is mayonnaise.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido claims he has particular expertise and talents for questioning the Duergar prisoner.",
+    "source_quote": "I have particular expertise and talents.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith was trained by Lolth's guards and considers himself an expert.",
+    "source_quote": "The Lolth\u2019s guards trained me. I am an expert",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sarith recommends Daz for interrogation",
+    "fact": "Sarith recommends that Daz be given the first crack at extracting information.",
+    "source_quote": "I recommend that he be given the first crack at extracting information.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum suspects religious conflict between Duergar and Dwarven gods is not the real cause of hostility.",
+    "source_quote": "he thinks there might be some rivalry between the Duergar gods and the Dwarven gods",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum concludes conflict is political",
+    "fact": "Grygum concludes that the conflict is the will of the people, not the gods.",
+    "source_quote": "This is not the will of any god. This is the will of the people",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh is the Duergar metropolis in this part of the Underdark.",
+    "source_quote": "the metropolis of the Duergar in this part of the Underdark",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Darklake district",
+    "fact": "Non-Duergars are only permitted to move freely in the Darklake district of Gracklstugh.",
+    "source_quote": "Non-Duergars are only permitted to move freely in the Darklake district",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Duergar",
+    "fact": "Duergar can become invisible at will.",
+    "source_quote": "The Duergar can become invisible at will",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh is a city of slavers.",
+    "source_quote": "it\u2019s a city of slavers",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "The buildings in Gracklstugh are plain and functional, lacking art and opulence.",
+    "source_quote": "the buildings are plain and functional... the walls of the Duergar homes are plain",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh has the ambiance of a work camp, filled with the sounds of hammering, heat, and smelter light.",
+    "source_quote": "the sound of hammers warping metals, the stench and heat, and the light of the smelters make all of Gracklstugh appear as one large work camp",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "The acrid smoke in Gracklstugh burns through Daz\u2019s sense of smell.",
+    "source_quote": "the acrid smoke makes breathing hard and burns through his sense of smell",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum asks purpose of visit",
+    "fact": "Grygum asks what they are doing in Gracklstugh.",
+    "source_quote": "So what are we doing here?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Jimjar suggests buying equipment",
+    "fact": "Jimjar whispers that they should buy equipment to survive more easily and get information on leaving the Underdark.",
+    "source_quote": "Buy equipment so we can survive more easily. Get information on how to get out of the Underdark.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sethir mentions Lost Tomb of Khem",
+    "fact": "Sethir mutters that they plan to go to the Lost Tomb of Khem to find treasure.",
+    "source_quote": "We plan to get equipment and then go to the Lost Tomb of Khem, where we will find treasure!",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Blade Bazaar",
+    "fact": "The Blade Bazaar is named after the most abundant goods the Duergar offer.",
+    "source_quote": "This marketplace is named after the most abundant goods the duergar offer",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Blade Bazaar",
+    "fact": "The Blade Bazaar sells almost everything available in Gracklstugh, including goods from visiting merchants.",
+    "source_quote": "the shops here sell almost everything available in the city, along with stalls set up by visiting merchants",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Blade Bazaar",
+    "fact": "The Blade Bazaar has a din of people arguing mainly in Dwarvish that nearly drowns out the forges.",
+    "source_quote": "The din of people arguing, mainly in Dwarvish, nearly drowns out the hammering coming from the city\u2019s forges",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Blade Bazaar",
+    "fact": "The crowds at the Blade Bazaar offer a good chance to slip away from pursuers.",
+    "source_quote": "the crowds here offer a good chance to slip away from pursuers",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz decides to go to Blade Bazaar",
+    "fact": "Daz says out loud, 'To the Blade Bazaar.'",
+    "source_quote": "To the Blade Bazaar,' he says out loud.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin remembers castaways before reaching the docks.",
+    "source_quote": "Thorin remembers some castaways.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Brannum Redmarch",
+    "fact": "Brannum Redmarch pleads not to be turned in to the Duergar guards.",
+    "source_quote": "You wouldn\u2019t turn me into the guard?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is disappointed that magical goods cannot be purchased in the Darklake District.",
+    "source_quote": "Zalthir has been thinking about some magical items he wants and was disappointed when Hemeth said that magical goods could be purchased in Gracklstugh but not in the Darklake District.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir asks about Eldritch Claw Tattoo",
+    "fact": "Zalthir asks if either Hemeth or Brannam can get him an Eldritch Claw Tattoo.",
+    "source_quote": "Can either of you get me Eldritch Claw Tattoo?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Hemeth",
+    "fact": "Hemeth says he cannot get the Eldritch Claw Tattoo.",
+    "source_quote": "No.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Brannum Redmarch",
+    "fact": "Brannum Redmarch says he can get the Eldritch Claw Tattoo but it will take a few days.",
+    "source_quote": "Yes! I know a guy. But it will take a few days.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Brannum demands slate wiped clean",
+    "fact": "Brannum Redmarch says the slate is wiped clean after getting the item.",
+    "source_quote": "And then the slate is wiped clean?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin threatens Brannum",
+    "fact": "Thorin tells Brannum there will be consequences if he betrays them.",
+    "source_quote": "if we don\u2019t get what we want, and you betray us, there will be consequences.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Brannum Redmarch",
+    "fact": "Brannum Redmarch shrinks in response to Thorin\u2019s threat.",
+    "source_quote": "Brannam shrinks",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido pleads to be let go, claiming his actions were part of the divine plan.",
+    "source_quote": "Look, I made mistakes. It was the divine plan. Just let me go. I won\u2019t bother you again.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Spiderbait",
+    "fact": "Spiderbait wants to kill Buppido on the spot.",
+    "source_quote": "Spiderbait, still seething with rage, wants to kill him on the spot",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin considers killing Buppido",
+    "fact": "Thorin is tempted to kill Buppido but waits to hear others\u2019 opinions.",
+    "source_quote": "Thorin is tempted, he wants to see what everyone else has to say.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir thinks Buppido may betray them.",
+    "source_quote": "Perhaps he will betray us.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin draws sword on Buppido",
+    "fact": "Thorin pulls his sword and asks, 'So we kill him?'",
+    "source_quote": "So we kill him?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum intervenes and says they shouldn\u2019t worry about Buppido because there are worse threats.",
+    "source_quote": "There are so many people who will kill us that I am not so sure we should worry about him.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz proposes releasing Buppido",
+    "fact": "Daz votes to get as close to a guarantee as possible and then let Buppido loose in the city as they leave.",
+    "source_quote": "I vote that we get as close to a guarantee as we can and then, as we leave, let him loose in the city.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido pleads again, saying he was mad and learned from Shuushar.",
+    "source_quote": "I made mistakes. I was mad. The divine plan called me, and I realized it was a mistake. I have learned from Shuushar that I was mad. PLEASE!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir gives Buppido Tongue of Madness",
+    "fact": "Zalthir hands Buppido the Tongue of Madness and tells him to eat it.",
+    "source_quote": "Zalthir hands him a mushroom, The Tongue of Madness, and says, 'Eat.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Buppido eats Tongue of Madness",
+    "fact": "Buppido eats the Tongue of Madness and starts talking.",
+    "source_quote": "And Buppido does and starts talking.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Buppido reveals desire to return to bolt hole",
+    "fact": "Buppido says he just wanted to return to his bolt hole in the caverns near the city to praise the Divine Plan.",
+    "source_quote": "I just wanted to return to my bolt hole in the caverns near the city and praise the Divine Plan.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Buppido insults companions",
+    "fact": "Buppido says Daz has foul-smelling breath, Thorin thinks his muscles are impressive, and Eldeth is not interested in Thorin.",
+    "source_quote": "You all have been so annoying. Daz has foul-smelling breath. Thorin thinks his muscles are impressive. Eldeth is -not- interested in him.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum reveals Zalthir\u2019s unclean scales",
+    "fact": "Grygum says Zalthir\u2019s scales haven\u2019t been cleaned in ages.",
+    "source_quote": "Zalthir\u2019s scales haven\u2019t been cleaned in ages.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum complains about Jimjar\u2019s breathing",
+    "fact": "Grygum tells Jimjar to stop his annoying breathing.",
+    "source_quote": "Jimjar\u2019s bEttin g is so annoying! GIVE IT A REST.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir says he likes Grygum.",
+    "source_quote": "I like him.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin assigns Jimjar surveillance",
+    "fact": "Thorin tells everyone to keep an eye on Jimjar.",
+    "source_quote": "You all need to keep an eye on him.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar smiles and asks if Thorin wants to bet.",
+    "source_quote": "Wanna bet?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir wonders if Buppido can summon Demogorgon like the Kuo-toa.",
+    "source_quote": "So - wait, I mean, can he summon Demogorgon like the Kuo-toans?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Jimjar laughs at Zalthir\u2019s question",
+    "fact": "Jimjar roars with laughter at Zalthir\u2019s question.",
+    "source_quote": "Jimjar roars with laughter.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir thinks Jimjar is judging him.",
+    "source_quote": "Zalthir can\u2019t help but think Jimjar is judging him.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session takes place on the 9th day of the 1st Tenday of Myrtul.",
+    "source_quote": "[Continuing \u2014 Date: 9th day of the 1st Tenday of Myrtul, Speaker: Zalthir]",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is discussing interplanar travel and the limitations of Buppido.",
+    "source_quote": "Then the gnome sighs, \u201cObviously, you do not understand the first thing about interplanar or gate travel. There are a great many things Buppido could do, but that is not one of them.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is looking at a list of names.",
+    "source_quote": "As he toys with his mace, he notices Zalthir looking at a list. \u201cI found this list of names earlier.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "list of names",
+    "fact": "The list of names Zalthir found might be worth looking into.",
+    "source_quote": "Grygum shrugs. \u201cI think they might be worth looking into.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "madness in the city",
+    "fact": "Grygum believes some madness afflicts the city, possibly similar to what consumed the Kuo-toans.",
+    "source_quote": "The answer disturbs Grygum, who is convinced that some madness afflicts the city, perhaps the same madness that consumed the Kuotoans.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a cleric of Bahamut.",
+    "source_quote": "The cleric of Bahamut approaches a stall in the Blade Bazaar...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Dulgir",
+    "fact": "Dulgir is a Duergar merchant who initially curses Grygum.",
+    "source_quote": "At that, the Duergar starts cursing Grygum, accusing him of things that, in a different sEttin g, might have provoked a violent reaction.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Dulgir",
+    "fact": "Dulgir shifts his speech to the stilted tongue of a Baldurian patriar during a transaction.",
+    "source_quote": "the Duergar suddenly shifts, speaking with the stilted tongue of a Baldurian patriar.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "mace",
+    "fact": "Grygum purchases a mace from Dulgir.",
+    "source_quote": "A few minutes later, he is the proud owner of a new mace.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "merchant invisibility",
+    "fact": "A merchant near a food stall becomes invisible during a transaction but continues speaking.",
+    "source_quote": "Near a food stall, a merchant suddenly turns invisible during a transaction but keeps speaking as if nothing has happened.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "merchant denial",
+    "fact": "A weapons merchant denies making a threat after a customer protests.",
+    "source_quote": "Across the aisle, another weapons merchant threatens a customer, and when the customer protests, the merchant denies ever saying so.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "merchant speaking to invisible brother",
+    "fact": "A cloth merchant stops negotiating and speaks to someone he calls his brother.",
+    "source_quote": "Next to him, a cloth merchant suddenly stops mid-negotiating and starts talking to someone he refers to as his brother.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Dulgir",
+    "fact": "Dulgir says the brother the cloth merchant speaks to doesn't exist.",
+    "source_quote": "But Dulgiar answers, \u201cHis brother doesn\u2019t exist.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "two-headed giant breaches gate",
+    "fact": "A two-headed, gray-skinned giant bursts through a gate, howling and smashing debris.",
+    "source_quote": "a two-headed, gray-skinned giant burst through a gate, howling madly and lashing out left and right, littering the plaza with rock and stone debris.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "duergar soldier killed",
+    "fact": "The giant strikes a duergar soldier, killing him and sending his body flying.",
+    "source_quote": "As he bellows, one of his swings connects with a duergar soldier, whose broken body flies through the air and crashes near you with a sickening crunch.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "nature of the giant",
+    "fact": "Thorin observes that stone giants never talk or bellow, suggesting the giant is unnatural.",
+    "source_quote": "Thorin, who overhears the giant, shouts, \u201cStone giants never talk. And they certainly don\u2019t bellow. Something is wrong.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin notes that two heads are more normal than bellowing for the giant.",
+    "source_quote": "\u201cTwo heads is more normal than bellowing.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum decides to fight the giant",
+    "fact": "Grygum decides to fight the giant because aiding others may earn allies.",
+    "source_quote": "He remembers the teachings of Bahamut that when you do a good turn for someone, they may do a good turn for you. \u201cIf I fight him, we may get some friends.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Duergar patrol moves toward giant",
+    "fact": "A Duergar patrol races toward the giant, marked by a sign of Bahamut.",
+    "source_quote": "A sign for Bahamut appears: a Duergar patrol racing towards this giant.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "combat begins",
+    "fact": "Zalthir and Thorin race into combat with the giant.",
+    "source_quote": "With that, Zalthir and Thorin race into combat.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz casts magic missiles",
+    "fact": "Daz casts magic missiles that streak from his hand at the giant.",
+    "source_quote": "Daz strikes first with magic missiles that streak from his hand.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir casts circle of darkness",
+    "fact": "Zalthir places a circle of darkness just before the giant and enters it.",
+    "source_quote": "Zalthir places his circle of darkness just before the giant and enters it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir misses giant with first strike",
+    "fact": "Zalthir strikes the giant but misses.",
+    "source_quote": "Stepping up to the giant, he strikes with a flurry of blows. But he misses.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir lands glancing blow",
+    "fact": "Zalthir uses mental focus and lands a glancing blow on the giant.",
+    "source_quote": "So Zalthir uses his power to focus his mind and strikes again. This time it is a glancing blow.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin strikes giant",
+    "fact": "Thorin approaches the giant with blindsight and strikes him with his sword.",
+    "source_quote": "Thorin rushes after Zalthir; with blindsight, he approaches the mad giant and strikes him with his sword.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum casts necrotic damage",
+    "fact": "Grygum speaks words of power and causes the giant to burn with necrotic damage and Bahamut's power.",
+    "source_quote": "Grygum speaks the words of power that Bahamut has taught him, pointing his holy symbol at the mad giant who burns with necrotic damage and the power of Bahamut.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "giant strikes Thorin",
+    "fact": "The giant smashes Thorin with a blow.",
+    "source_quote": "The giant roars and smashes Thorin,",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir deflects giant's attack",
+    "fact": "Zalthir deflects the giant's attack on Thorin using his monk awareness.",
+    "source_quote": "but Zalthir, using his awareness of the monk, deflects the attack just in time.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir casts magic missiles again",
+    "fact": "Zalthir speaks incantations and fires bolts of power from his fingers at the giant.",
+    "source_quote": "His fingers move in the air, the incantations are spoken, and bolts of power fly from his finger, striking the giant.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir strikes air while giant is blind",
+    "fact": "Zalthir strikes the air, which the giant, being blind and mad, fails to perceive.",
+    "source_quote": "Zalthir strikes the giant once, focusing his mind on striking again and striking the air. If the giant could see, he would see a dragonborn attack the air. And perhaps the giant would laugh. But this giant is mad and blind and misses this moment of joy.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin feints and strikes giant",
+    "fact": "Thorin feints and strikes the giant, causing it to howl.",
+    "source_quote": "Thorin feints and strikes the giant. The creature howls.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum casts necrotic damage again",
+    "fact": "Grygum raises his holy symbol and speaks words of power, causing the giant to burn again.",
+    "source_quote": "Gyrgum raises his holy symbol again and speaks the words of power, and the giant again burns.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "two-headed gray-skinned giant",
+    "fact": "The two-headed, gray-skinned giant is blind and mad.",
+    "source_quote": "The giant, although blind, dodges him.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "two-headed gray-skinned giant",
+    "fact": "The two-headed, gray-skinned giant bellowed and smashed debris when it breached the gate.",
+    "source_quote": "a two-headed, gray-skinned giant burst through a gate, howling madly and lashing out left and right, littering the plaza with rock and stone debris.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Blade Bazaar",
+    "fact": "The Blade Bazaar is a location where Duergar merchants behave strangely.",
+    "source_quote": "Grygum then notices that Dulgir is not the only one acting strangely. Many duergar merchants give different prices to buy or sell the same items whenever they are asked and insist that the buyers they deal with change their terms.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Darklake District",
+    "fact": "The Darklake District is isolated from the rest of the city by gates.",
+    "source_quote": "The gates at the end of the road keep the Darklake District isolated from the rest of the city.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Cult of the Dragon",
+    "fact": "The Cult of the Dragon almost brought Tiamat into the realms using artifacts and rituals.",
+    "source_quote": "The Cult of the Dragon almost brought Tiamat into the realms, and that required artifacts and rituals.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido cannot bring avatars of outer plane powers into the Prime Material Plane.",
+    "source_quote": "There are a great many things Buppido could do, but that is not one of them.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Second Sundering",
+    "fact": "The Second Sundering ended the era when outer plane powers could enter the Prime Material Plane at will.",
+    "source_quote": "Aos, the overgod, has ended that era with the Second Sundering.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Aos",
+    "fact": "Aos is the overgod who ended the era of free entry for outer plane powers via the Second Sundering.",
+    "source_quote": "Aos, the overgod, has ended that era with the Second Sundering.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "holy symbol",
+    "fact": "Grygum uses his holy symbol to channel Bahamut's power against the giant.",
+    "source_quote": "pointing his holy symbol at the mad giant who burns with necrotic damage and the power of Bahamut.",
+    "quote_verified": true
+  }
+]

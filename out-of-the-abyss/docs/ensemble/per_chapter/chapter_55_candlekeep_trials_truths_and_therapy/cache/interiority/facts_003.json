@@ -1,177 +1,128 @@
 [
   {
     "type": "npc",
-    "subject": "The monk",
-    "fact": "The monk was, by every available indication, genuinely impressed.",
-    "source_quote": "He was, by every available indication, genuinely impressed.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "The monk",
-    "fact": "The monk stood there for a moment, something recalibrating behind his blindness.",
-    "source_quote": "He stood there for a moment, something recalibrating behind his blindness",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "The monk",
-    "fact": "The monk thought perhaps he'd been approaching this the wrong way.",
-    "source_quote": "Perhaps I've been approaching this the wrong way.",
+    "subject": "Grygum",
+    "fact": "Grygum is genuinely impressed by Zalthir's combat roll and believes perhaps he has been approaching his own training the wrong way.",
+    "source_quote": "He was, by every available indication, genuinely impressed. Apparently no one had hit him that hard in a long time. He stood there for a moment, something recalibrating behind his blindness, and said \u2014 almost to himself: \"Perhaps I've been approaching this the wrong way.\"",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Zalthir",
-    "fact": "Zalthir found the manual aggravating and ignored it.",
+    "fact": "Zalthir finds the official manual aggravating and ignored it, building something better in spite of it.",
     "source_quote": "Zalthir found the manual aggravating, ignored it, and built something better.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Zalthir",
-    "fact": "Zalthir believed he had built something better than the manual.",
-    "source_quote": "He was now being told that the thing he'd built was the most interesting thing about him.",
+    "fact": "Zalthir remembers a moment from the Underdark where he punched through the shadows themselves with surgical precision.",
+    "source_quote": "Zalthir recalled something from the Underdark \u2014 a moment where he'd found a way to punch *through* the shadows themselves, precise as a surgical cut.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Zalthir",
-    "fact": "Zalthir recalled a moment from the Underdark where he'd found a way to punch through the shadows themselves.",
-    "source_quote": "Zalthir recalled something from the Underdark \u2014 a moment where he'd found a way to punch *through* the shadows themselves",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Zalthir",
-    "fact": "Zalthir acknowledged that the shadow monks had driven him nuts.",
-    "source_quote": "Yeah, definitely.",
+    "fact": "Zalthir acknowledges that Khell-Vire is right about him remembering the shadow monks who drove him nuts.",
+    "source_quote": "\"Yeah,\" Zalthir said. \"Yeah, definitely.\"",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Thorin",
-    "fact": "Thorin referred to the drow as 'Pocket Drow.'",
-    "source_quote": "Pocket Drow.",
+    "fact": "Thorin refuses to refer to Dawnbringer as a mere specimen and insists she is his friend.",
+    "source_quote": "What do you mean, specimen? This is my friend Dawnbringer.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Thorin",
-    "fact": "Thorin was satisfied that the gelatinous cube had not been dismissed as a mindless digestive system.",
-    "source_quote": "I noted with some satisfaction that we had not brought a gelatinous cube this far \u2014 through the Underdark, through Waterdeep, into the libraries of Candlekeep \u2014 to have him dismissed as a mindless digestive system before lunch.",
-    "quote_verified": true
+    "fact": "Thorin is uncertain about Dawnbringer\u2019s pronoun and has been struggling with it since Waterdeep.",
+    "source_quote": "I don't know what to call her, but, you know, whether it's them? Is it her? He, her? I don't know what to call them, but, you know, it's like \u2014 we've gotten to know each other pretty well over, you know, the last stressful ordeals.",
+    "quote_verified": false
   },
   {
     "type": "npc",
-    "subject": "Daz",
-    "fact": "Daz thought the appointment was technically his idea, but it was really Thorin's.",
-    "source_quote": "The appointment was Daz's idea, technically, which meant it was my idea that Daz had first.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Daz",
-    "fact": "Daz didn't know what pronoun to use for Dawnbringer.",
-    "source_quote": "I don't know what to call her, but, you know, whether it's them? Is it her? He, her?",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Daz",
-    "fact": "Daz felt relieved when Philemon acknowledged Dawnbringer as a friend.",
+    "subject": "Thorin",
+    "fact": "Thorin feels relieved when Philemon acknowledges the bond between him and Dawnbringer, even though he wasn\u2019t told to expect that.",
     "source_quote": "That landed somewhere I hadn't expected. I hadn't been told to be relieved by that. I was anyway.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Daz",
-    "fact": "Daz understood the impulse behind making a joke about the rebound relationship.",
-    "source_quote": "I understood the impulse behind the joke.",
+    "subject": "Thorin",
+    "fact": "Thorin understands the impulse behind his joke about the rebound relationship because it\u2019s a habit he developed to cope with unbearable specificity.",
+    "source_quote": "I understood the impulse behind the joke. The giants who raised me had a saying that translated roughly as: the ground under a joker is the same ground everyone else is standing on. You laugh when the weight gets too specific to name. I'd been doing it since Velkynvelve.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin believes Dawnbringer needs to remember what daylight feels like without needing to fight, and later to grieve.",
+    "source_quote": "Your sword \u2014 she needs to remember what daylight feels like without needing to fight. And then, when she's ready, and you are willing, she needs to grieve.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin reflects that the healing they did in Waterdeep was real but didn't close everything.",
+    "source_quote": "That was real. But happy doesn't close everything.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin hopes Dawnbringer will grow a plus one, as a lighter note after heavy experiences.",
+    "source_quote": "We're all gonna grow out of this,\" I said. \"Hopefully, Dawnbringer grows a plus one.\"",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Daz",
-    "fact": "Daz believed Dawnbringer needed to remember what daylight feels like without needing to fight.",
-    "source_quote": "Your sword \u2014 she needs to remember what daylight feels like without needing to fight.",
+    "fact": "Daz has a persistent headache since arriving at Candlekeep and suspects it's related to the proximity of knowledge or what lies beneath it.",
+    "source_quote": "My head had been complaining since we arrived at Candlekeep. The proximity \u2014 to the knowledge, or to whatever sat underneath the knowledge \u2014 was producing a friction I had been mis-attributing to the sun all day.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Daz",
-    "fact": "Daz believed Dawnbringer needed to grieve.",
-    "source_quote": "And then, when she's ready, and you are willing, she needs to grieve.",
+    "fact": "Daz asks if any of the tomes might help with his headache, revealing his immediate concern is physical discomfort over intellectual curiosity.",
+    "source_quote": "Can I see or read any of\u2026 do any of them\u2026 I'm\u2026 at this point, my headache\u2026 my headache's been bothering me. Is there anything on any of the tomes that might help me with my headache?",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Daz",
-    "fact": "Daz thought the months in the Underdark had cost Dawnbringer deeply.",
-    "source_quote": "I thought about the months in the Underdark. Total dark. Carrying a sunblade through a place that had no sun. What that had cost her \u2014 I knew some of it, and I probably didn't know most of it.",
+    "fact": "Daz chooses to tell the truth about his amnesia and past instead of using the manipulative tactics common in Menzoberranzan.",
+    "source_quote": "I told her the truth. \"I have a headache, but I'll tell you the story. This is the short version. I don't have much memory before being locked up with a few people in a jail. Because some spider thing was, like, trying to keep us. And we've made an escape. We were in the Underdark. We've had many, many adventures, yada yada yada. Now I'm here in Candlekeep. My head hurts a little bit, and I don't know who I am, or my history, and I don't know why my head hurts.\"",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Daz",
-    "fact": "Daz hoped Dawnbringer would grow a plus one.",
-    "source_quote": "Hopefully, Dawnbringer grows a plus one.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Daz",
-    "fact": "Daz noticed his headache had been bothering him since arriving at Candlekeep.",
-    "source_quote": "My head had been complaining since we arrived at Candlekeep.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Daz",
-    "fact": "Daz realized the headache was not from the sun but from the proximity to knowledge.",
-    "source_quote": "The proximity \u2014 to the knowledge, or to whatever sat underneath the knowledge \u2014 was producing a friction I had been mis-attributing to the sun all day.",
+    "fact": "Daz realizes he has internalized the grammar of Menzoberranzan\u2019s political structure, even if he can\u2019t recall its facts.",
+    "source_quote": "I knew most of this. Not as facts retrieved from memory, but as grammar. The language you learn to think in before you learn to question it.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Daz",
-    "fact": "Daz did not know who he was or his history.",
-    "source_quote": "I don't know who I am, or my history",
+    "fact": "Daz wonders if he is the \"blithering idiot\" survivor of the destroyed house, directly connecting his amnesia to the lore.",
+    "source_quote": "I asked the second logical question. \"Am I the blithering idiot?\"",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Daz",
-    "fact": "Daz knew he couldn't afford the usual deceptive approach because he didn't know what he was hiding.",
-    "source_quote": "When you don't know what you're hiding, you can't protect it. Better to lay everything out and watch what someone else picks up.",
+    "fact": "Daz has been unconsciously auditing social debts and knowledge networks since before he could name it, a skill ingrained by Menzoberranzan\u2019s training.",
+    "source_quote": "The first thing Menzoberranzan trains you for is the ledger. Who owes whom, who knows what, who has already lost and hasn't noticed. I have been running that audit unconsciously since before I could name it.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Daz",
-    "fact": "Daz understood the grammar of Menzoberranzan's politics, even if he couldn't recall the facts.",
-    "source_quote": "I knew most of this. Not as facts retrieved from memory, but as grammar.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Daz",
-    "fact": "Daz realized the word 'blithering idiot' didn't fit him.",
-    "source_quote": "I asked the second logical question. 'Am I the blithering idiot?'",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "Daz's origins",
-    "fact": "Daz does not know why his head hurts or who he was before being imprisoned.",
-    "source_quote": "I don't know why my head hurts.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "Daz's past",
-    "fact": "Daz's memory of his life before imprisonment is missing.",
-    "source_quote": "I don't have much memory before being locked up with a few people in a jail.",
+    "fact": "Daz notices when a word doesn't fit, a training from Menzoberranzan that feels increasingly important to him.",
+    "source_quote": "The second thing Menzoberranzan trains you for \u2014 and this one is equally useful but considerably less comfortable \u2014 is to notice when a word doesn't fit.",
     "quote_verified": true
   }
 ]

@@ -7,7 +7,14 @@ chapters: 10-10
 
 ### Altar of the Deep Father
 
-A ritual site composed of a hide stretched between poles, shaped like a manta ray, with a dead manta ray pinned at its center and two dead octopuses draped across it. The altar is stained dark with blood and reeks of decay. It is surrounded by worshippers who chant and bow, and guarded by a dozen followers of Bloppblippodd.
+- **Type:** Location  
+- **Current state:** Active site of worship, visibly desecrated and maintained  
+- **Physical description:** A hide stretched between poles, shaped like a manta ray, with a dead manta ray pinned in the center and two dead octopuses draped across it. The altar surface is stained dark with blood and reeks of decay.  
+- **Control/occupation:** Occupied and guarded by a dozen followers of Bloppblippodd  
+- **Current activity:** Worshippers chant and bow before it regularly  
+- **Significance:** Central object of veneration for cultists of Bloppblippodd; the decay and bloodstains suggest ritual sacrifice or prolonged use in dark rites  
 
 ## Uncertainty
-- The quote mentions “the idol” and “the broad stone altar,” but the fact describes a hide stretched on poles — this contradiction is unresolved: is the altar made of hide, or is it a stone surface beneath an idol? The source text does not clarify whether “idol” and “altar” refer to the same structure or separate elements.
+- The exact identity or name of the "idol" referenced in the quote ("The idol reeks of decay...") is ambiguous — is it the manta ray hide, the pinned manta ray, or something else? The fact describes the altar as the hide structure, but the quote calls it an "idol," potentially conflating the altar with a separate object.  
+- Whether the dead manta ray and octopuses are fresh or have been there since the altar’s initial consecration is unspecified.  
+- The location (geographic or environmental context) of the altar is not stated.

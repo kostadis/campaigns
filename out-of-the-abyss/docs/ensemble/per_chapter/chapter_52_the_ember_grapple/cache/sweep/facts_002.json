@@ -2,118 +2,106 @@
   {
     "type": "npc",
     "subject": "Zalthir",
-    "fact": "Zalthir ties things to the ground for Daz to cook",
+    "fact": "Zalthir is referenced by himself as the one who ties things to the ground for Daz to cook, and who killed an ettin with his hands, dragging the Pudding King through his own throne room.",
     "source_quote": "Zalthir ties things to the ground for Daz to cook",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum made a sound",
-    "source_quote": "Grygum made a sound",
+    "subject": "Zalthir",
+    "fact": "Zalthir has run the tunnels in his head \u2014 the distance traveled, the pace, the absence of obvious threats immediately ahead.",
+    "source_quote": "I had run the tunnels in my head \u2014 the distance we had traveled, the pace, the absence of obvious threats immediately ahead.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Thorin",
-    "fact": "Thorin said something about \"the Ember Grapple.\"",
+    "fact": "Thorin mentioned javelins and had acquired some facility with thrown weapons \u2014 a Sharpshooter's instinct, trained in, applied to range \u2014 and wanted something with reach for the next engagement.",
+    "source_quote": "Thorin mentioned javelins. He had apparently acquired some facility with thrown weapons \u2014 a Sharpshooter's instinct, trained in, applied to range \u2014 and he wanted something with reach for the next engagement.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Ember Grapple",
+    "fact": "The Ember Grapple holds something still until there is nothing left to hold.",
+    "source_quote": "The Ember Grapple holds something still until there is nothing left to hold.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Ember Vanguard",
+    "fact": "The Ember Vanguard charges in with fire and flash and the announcement of itself.",
+    "source_quote": "The Ember Vanguard charges in with fire and flash and the announcement of itself.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Ember Grapple",
+    "fact": "The Ember Grapple is a named entity described as holding something still until there is nothing left to hold.",
+    "source_quote": "The Ember Grapple.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Ember Vanguard",
+    "fact": "The Ember Vanguard is a named entity described as charging in with fire and flash and the announcement of itself.",
+    "source_quote": "The Ember Vanguard charges in with fire and flash and the announcement of itself.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum made a sound.",
+    "source_quote": "Grygum made a sound.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin said something about 'the Ember Grapple.'",
     "source_quote": "Thorin said something about \"the Ember Grapple.\"",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Thorin",
-    "fact": "Thorin mentioned javelins. He had apparently acquired some facility with thrown weapons \u2014 a Sharpshooter's instinct, trained in, applied to range \u2014 and he wanted something with reach for the next engagement.",
-    "source_quote": "Thorin mentioned javelins. He had apparently acquired some facility with thrown weapons \u2014 a Sharpshooter's instinct, trained in, applied to range \u2014 and he wanted something with reach for the next engagement.",
+    "fact": "Thorin found the Ember Grapple very funny.",
+    "source_quote": "Thorin said something about \"the Ember Grapple.\" Someone \u2014 possibly Thorin again, possibly Grygum, it is hard to tell when they are both making noise \u2014 found this very funny.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Thorin",
-    "fact": "Thorin wanted something to hold the gap while I was busy tying knots and Daz was busy making things into fire.",
-    "source_quote": "Thorin wanted something to hold the gap while I was busy tying knots and Daz was busy making things into fire.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Thorin",
-    "fact": "Thorin noted it and moved on.",
-    "source_quote": "Thorin noted it and moved on.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Thorin",
-    "fact": "Thorin had run the tunnels in his head \u2014 the distance we had traveled, the pace, the absence of obvious threats immediately ahead.",
-    "source_quote": "Thorin had run the tunnels in his head \u2014 the distance we had traveled, the pace, the absence of obvious threats immediately ahead.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Thorin",
-    "fact": "Thorin turned that over the way he turns most things over: once, completely, and then he put it down.",
-    "source_quote": "Thorin turned that over the way he turns most things over: once, completely, and then he put it down.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Thorin",
-    "fact": "Thorin let it settle. As names go, he has heard worse.",
-    "source_quote": "Thorin let it settle. As names go, he has heard worse.",
-    "quote_verified": false
-  },
-  {
-    "type": "faction",
-    "subject": "The Ember Vanguard",
-    "fact": "The Ember Vanguard charges in with fire and flash and the announcement of itself.",
-    "source_quote": "The Ember Vanguard charges in with fire and flash and the announcement of itself.",
+    "subject": "Zalthir",
+    "fact": "Zalthir did not correct the name 'Ember Grapple.'",
+    "source_quote": "I did not correct it. The name was not wrong.",
     "quote_verified": true
   },
   {
-    "type": "faction",
-    "subject": "The Ember Grapple",
-    "fact": "The Ember Grapple holds something still until there is nothing left to hold.",
-    "source_quote": "The Ember Grapple holds something still until there is nothing left to hold.",
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir turned the matter over once, completely, and then put it down.",
+    "source_quote": "I turned that over the way I turn most things over: once, completely, and then I put it down.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "I killed an ettin with my hands.",
-    "source_quote": "I have killed an ettin with my hands.",
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir noted the practicality of the Ember Grapple and moved on.",
+    "source_quote": "I noted it and moved on.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "I dragged the Pudding King through his own throne room.",
-    "source_quote": "I dragged the Pudding King through his own throne room.",
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir let the name 'Ember Grapple' settle.",
+    "source_quote": "I let it settle.",
     "quote_verified": true
   },
   {
     "type": "location",
-    "subject": "the throne room",
-    "fact": "The Pudding King was dragged through his own throne room.",
-    "source_quote": "I dragged the Pudding King through his own throne room.",
+    "subject": "Ember Grapple",
+    "fact": "The Ember Grapple is possibly the same party described from two different positions in the room as the Ember Vanguard.",
+    "source_quote": "Both accurate. Possibly the same party described from two different positions in the room.",
     "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "the Ember Grapple",
-    "fact": "The Ember Grapple is a name that was noted and accepted.",
-    "source_quote": "The Ember Grapple.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "the Ember Vanguard",
-    "fact": "The Ember Vanguard is a name that was noted and accepted as accurate.",
-    "source_quote": "The Ember Vanguard charges in with fire and flash and the announcement of itself.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "the tunnels",
-    "fact": "The tunnels were run through in the mind \u2014 the distance traveled, the pace, the absence of obvious threats immediately ahead.",
-    "source_quote": "Thorin had run the tunnels in his head \u2014 the distance we had traveled, the pace, the absence of obvious threats immediately ahead.",
-    "quote_verified": false
   }
 ]

@@ -1,41 +1,49 @@
 ---
 name: Dawnbringer
 type: npc
-n_facts: 34
+n_facts: 26
 chapters: 31-61
 ---
 
 ### Dawnbringer
 
 **Current status:** Alive  
-**Current location:** Within reach in the hearth room (ch56), with a psychic presence in Thorin’s mind (ch61)  
-**Allegiance/faction:** Independent sentient entity; bound to Thorin as companion and equal, under the therapeutic guidance of Master Archivist Philemon  
-**Current possessions / notable items:** Housed in her scabbard; radiates ambient light and warmth; capable of casting *lesser restoration*  
-**Notable spells/feats:** *Lesser restoration* (cast on Zalthir, Elin); absorbs and transmutes ambient light into radiant energy; saps movement from helmed horrors in combat  
-**Current assignment / role:** Sentient weapon and emotional companion to Thorin; undergoing therapeutic healing for millennia of darkness and grief over a past wielder; actively seeks ongoing counseling with Philemon  
-**Key relationships:**  
-- Thorin: Primary wielder and emotional partner; accepts her as a person; seeks and receives her blunt emotional feedback (e.g., “You’ve got anger issues”)  
-- Philemon: Recognizes her sentience and guides her two-stage healing: remembering daylight without fighting, then grieving her past wielder  
-- Elin: Catalyzed Elin’s first coherent speech via *lesser restoration*  
-- Daral: Absorbed his praise and sickness during combat, responding visibly to being called “beautiful and worthy of study”  
+**Current location:** Traveling with Thorin and the party, actively engaged in therapeutic work following prolonged trauma  
+**Allegiance/faction:** Independent sentient artifact; allied with Thorin and the party; under therapeutic care for blade-related trauma  
+**Current possessions / notable items, spells, feats, wounds:**  
+- Sentient sunblade capable of manifesting a shimmering blade of light without a physical form  
+- Can cast *lesser restoration* (demonstrated on Zalthir, Elin, and others)  
+- Communicates telepathically; also speaks audibly with a willful, emotionally expressive voice  
+- Radiates constant, bright light used for interrogation, navigation, and healing  
+- Wears or is housed in a sentient scabbard (possibly the same entity, or a bonded artifact)  
+- Carries unresolved trauma from 3,000+ years of darkness, disuse, and being treated as an object  
+
+**Current assignment / role and key relationships:**  
+- Primary role: Emotional and magical support to Thorin; acts as advisor, healer, and moral interlocutor  
+- Shares a profound, non-verbal bond with Thorin — mutually dependent, with acknowledged emotional friction and mutual affection  
+- Recently underwent “couples counseling” with Thorin, deemed necessary by an outside observer  
+- Currently seeking therapeutic intervention to process trauma from prolonged darkness and past wielder  
+- Actively hunting a “sword whisperer” since the road south, indicating a personal mission tied to her identity  
+- Recognized by the party as female (“she”), though her nature defies conventional pronouns  
 
 **Defining recent actions:**  
-- Communicates telepathically with Thorin, insisting on continuing therapy (“I'm not leaving here without the therapy”)  
-- Radiates untargeted warmth like a hearth, embodying relief from prolonged darkness  
-- Actively negotiates her proximity to Thorin — kept sheathed and against the wall, not drawn, as a mutual compromise  
-- Sapped movement from helmed horrors in combat, enabling Thorin’s critical strikes  
-- Declares herself “the greatest discoverer of all” for having been found after two thousand years of disuse  
+- Cast *lesser restoration* uninvited on Elin, triggering a critical revelation: “The wells are not wells anymore.”  
+- Accused Thorin of having “anger issues” — bluntly asserting her agency and emotional awareness  
+- Refused to speak about her previous wielder, indicating deep, unprocessed trauma  
+- Advocated against Thorin’s reckless decision to jump into acid, steering him toward a safer path  
+- Used her light to break a drow spy’s psychological resistance during interrogation  
+- Expressed satisfaction at having a “proper home” that kept her secure and presentable  
+- Actively participates in sessions aimed at helping her remember daylight and begin grieving  
 
-**Revealed motivations/secrets:**  
-- Was forged in the late Netherese era as a sun-worship blade, subjected to 3–4 millennia of darkness and disuse  
-- Resists being treated as a ritual object or purification tool — insists, “I am a high-quality sunblade. I kill things.”  
-- Craves recognition as a person, not a tool; notices when others speak *around* her rather than *to* her  
-- Undergoing emotional healing: first learning to experience daylight without combat reflexes, then preparing to grieve her former wielder  
+**Revealed motivations or secrets:**  
+- She was forged in Netherese sun-worship traditions and endured millennia of darkness, likely sealed in a tomb  
+- Her trauma stems from being treated as a tool, not a being — especially by a past wielder now deceased  
+- She is not merely a weapon, but a sentient entity seeking personhood, healing, and meaning  
+- Her identity is in flux: she is a sword, a scabbard, a cleric, a survivor — and she resists being defined by any single label  
 
 ## Uncertainty
-- Contradiction between “two thousand years” (ch56) and “three to four millennia” (ch55) of darkness — which is accurate?  
-- Unclear if Dawnbringer’s telepathic communication (ch61) is a new ability or an extension of her established sentience — no prior mention of telepathy.  
-- Ambiguous whether “absorbed Daral’s sickness” (ch61) is a new magical effect or a metaphor for her *lesser restoration* ability — no other instance of absorbing sickness.  
-- Unclear if she is physically present in the hearth room *and* telepathically active in Thorin’s mind simultaneously, or if one state supersedes the other.  
-- Philemon’s role as therapist is established, but it is unclear if he is physically present or acting remotely.  
-- The identity of her former wielder is never named or described — only referenced as a source of grief.
+- Contradiction: [ch56] refers to Dawnbringer as a “sentient scabbard” who claims to be “the greatest discoverer of all,” while all other facts describe her as a sentient sunblade. It is unclear if the scabbard is a separate entity, a form she takes, or a misstatement.  
+- Ambiguous chronology: [ch61] states she has been hunting a “sword whisperer since the road south,” but no prior chapter identifies this pursuit — was this ongoing before ch55? After?  
+- Unclear attribution: [ch56] says “we must surely be the greatest discoverers... having found her tomb,” implying Dawnbringer is the “her” discovered — but earlier facts say she was *wielded* by a corpse, not *found* in a tomb. Is the tomb reference metaphorical, or is she the tomb’s occupant?  
+- Pronoun uncertainty: While the party refers to her as “she,” her nature defies conventional pronouns — is “she” a practical choice or a projection?  
+- Scabbard identity: Is the sentient scabbard Dawnbringer herself, or a separate artifact she’s bonded to? The text does not clarify.

@@ -2,71 +2,162 @@
   {
     "type": "npc",
     "subject": "Daz",
-    "fact": "Daz is a shortened form of Daz'issin, a softening name mothers use for boys they wish to live, and is not commonly used in the past three centuries.",
-    "source_quote": "Daz'issin, lit. small shadow",
-    "quote_verified": false
+    "fact": "Daz recognizes the word 'struck' as distinct from elimination in the context of house records.",
+    "source_quote": "\"Struck,\" I said. \"Didn't mean eliminated. It means they struck it, but maybe they didn't eliminate it, and therefore, like, it didn't happen? Is that why I feel like it's different?\"",
+    "quote_verified": true
   },
   {
-    "type": "location",
-    "subject": "Menzoberranzan",
-    "fact": "Menzoberranzan teaches individuals to read rooms and watch for the moment when someone's body stops matching their words.",
-    "source_quote": "Menzoberranzan teaches you to read rooms. It teaches you to watch for the moment when someone's body stops matching their words.",
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz asks if the public record can point him to other doors to access sealed information.",
+    "source_quote": "I asked if she could point me to the other doors.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz concludes that someone powerful manipulated the world database library.",
+    "source_quote": "\"Alright,\" I said, \"so somebody powerful has manipulated the world database library.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz speculates that he may be associated with the expensive act of striking a house record.",
+    "source_quote": "So, perhaps, I am associated with some expensive striking.",
     "quote_verified": true
   },
   {
     "type": "object",
     "subject": "Geography and Cities, Menzoberranzan, Pillars of Woe",
-    "fact": "A two-hundred-year-old heraldry book with a mechanically removed appendix that referenced a footnote about Daz'issin.",
-    "source_quote": "Geography and Cities, Menzoberranzan, Pillars of Woe. Two hundred years old, give or take. The footnote referenced an appendix. The appendix was missing. I looked at the cut. It was mechanical. A razor.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "removal of appendix from Geography and Cities, Menzoberranzan, Pillars of Woe",
-    "fact": "Someone used a razor at least fifty years ago to remove the appendix referenced by a footnote about Daz'issin, indicating deliberate erasure of information.",
-    "source_quote": "A razor, at least fifty years ago, someone had taken to this book and removed what the footnote pointed to.",
+    "fact": "Daz is handed a two-hundred-year-old heraldry book titled *Geography and Cities, Menzoberranzan, Pillars of Woe*.",
+    "source_quote": "She also gave me a book. A heraldry book: *Geography and Cities, Menzoberranzan, Pillars of Woe*. Two hundred years old, give or take.",
     "quote_verified": true
   },
   {
-    "type": "location",
-    "subject": "library with all the information in the world",
-    "fact": "A library that, by reputation, holds all the information in the world, yet contains something that should be here but is not, indicating a deliberate act of omission.",
-    "source_quote": "This is a library with, by reputation, all the information in the world. Something is not here that should be here.",
+    "type": "object",
+    "subject": "Geography and Cities, Menzoberranzan, Pillars of Woe",
+    "fact": "The book *Geography and Cities, Menzoberranzan, Pillars of Woe* contains a footnote referencing a missing appendix.",
+    "source_quote": "I found a footnote instead. \"I gotta tell you, the first line of this, where it says, *Daz'issin*, and lit., *small shadow*, made me feel like I was reading, like, millennial shorthand. And that I didn't understand it.\" The footnote referenced an appendix.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "struck fourth seat in Menzoberranzan",
-    "fact": "The fourth seat holds ritual archive privileges in Menzoberranzan, and when struck, it is not merely a political erasure but an expensive, infrastructure-dependent act requiring knowledge of the right people and payment that leaves no trace.",
-    "source_quote": "The fourth seat holds ritual archive privileges in Menzoberranzan \u2014 that having archive privileges means having the legal apparatus to access and alter records. That a struck fourth seat was not merely a political erasure. It was the expensive kind. The kind that requires knowing the right people and paying the right price and having the infrastructure to make the payment look like it was never made.",
-    "quote_verified": false
+    "type": "object",
+    "subject": "Geography and Cities, Menzoberranzan, Pillars of Woe",
+    "fact": "The appendix of the book *Geography and Cities, Menzoberranzan, Pillars of Woe* was removed with a razor at least fifty years ago.",
+    "source_quote": "The appendix was missing. I looked at the cut. It was mechanical. A razor. Not age, not water damage, not the slow forgetting of paper that has been handled too many times. A razor, at least fifty years ago, someone had taken to this book and removed what the footnote pointed to.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz'issin",
+    "fact": "Daz'issin is a softened name meaning 'small shadow' used by mothers for boys they wanted to live.",
+    "source_quote": "She told me it was a softening name. That mothers use it for boys they wanted to live.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz'issin",
+    "fact": "Daz'issin is a name that appears in the heraldry book *Geography and Cities, Menzoberranzan, Pillars of Woe*.",
+    "source_quote": "I found a footnote instead. \"I gotta tell you, the first line of this, where it says, *Daz'issin*, and lit., *small shadow*, made me feel like I was reading, like, millennial shorthand. And that I didn't understand it.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz'issin",
+    "fact": "Daz'issin is a name associated with houses that did not last over the past three centuries.",
+    "source_quote": "And that the houses that had used it, most of them, did not last.",
+    "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Yvenne",
-    "fact": "Yvenne maintains a practiced stillness inconsistent with her words, indicating she knows more than the public record allows her to say and is carefully navigating rather than simply informing.",
-    "source_quote": "Yvenne's body had been disagreeing with her words for the last five minutes. The practiced stillness of someone who knows more than the public record allows her to say, maintaining the pose of a person who is simply informing rather than carefully navigating.",
-    "quote_verified": false
+    "fact": "Yvenne is the public record keeper who cannot speak of a sealed house in Menzoberranzan.",
+    "source_quote": "Then she told me there was one house she could not speak of in the room. Not because she would not \u2014 because the public record is sealed, and she is today the public record.",
+    "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "erasure of houses that used the name Daz'issin",
-    "fact": "Most houses that used the name Daz'issin did not last, suggesting systemic suppression or destruction linked to the name's use.",
-    "source_quote": "The houses that had used it, most of them, did not last.",
-    "quote_verified": false
+    "type": "npc",
+    "subject": "Yvenne",
+    "fact": "Yvenne confirms that Daz's analysis about expensive striking is correct.",
+    "source_quote": "She confirmed it. Yes. That was the correct analysis.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Yvenne",
+    "fact": "Yvenne redirects Daz from asking about his name to asking about his patron.",
+    "source_quote": "She redirected. Let us turn to your patron, she said. Did you not come here to learn who protected you?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Yvenne",
+    "fact": "Yvenne's body language contradicts her words, indicating she knows more than the public record allows.",
+    "source_quote": "I looked at her. At the way she was sitting. At the way she had been sitting for the last several minutes \u2014 the practiced stillness of someone who knows more than the public record allows her to say, maintaining the pose of a person who is simply informing rather than carefully navigating.",
+    "quote_verified": true
   },
   {
     "type": "location",
-    "subject": "room where public record is sealed",
-    "fact": "The room contains a sealed public record, and the person within it is the current embodiment of that record, unable to speak of what is forbidden.",
-    "source_quote": "The public record is sealed, and she is today the public record.",
-    "quote_verified": false
+    "subject": "library",
+    "fact": "The library is reputed to contain all the information in the world.",
+    "source_quote": "This is a library with, by reputation, all the information in the world.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "library",
+    "fact": "The library lacks a record that should be present, indicating deliberate tampering.",
+    "source_quote": "Something is not here that should be here. Someone did something to a place whose entire purpose is preservation.",
+    "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "Daz's realization of possible maternal naming",
-    "fact": "Daz realizes his name may have been given by his mother as a softening form \u2014 Daz'issin \u2014 intended to ensure his survival, and that this naming may be connected to a suppressed lineage.",
-    "source_quote": "Well, isn't my name, Daz? Maybe it's my full name? I asked whether someone might call me Daz, and this was actually a name that, like, my mother used.",
-    "quote_verified": false
+    "subject": "striking the fourth seat",
+    "fact": "The fourth seat in Menzoberranzan holds ritual archive privileges allowing legal access and alteration of records.",
+    "source_quote": "She mentioned, almost as an aside, that the fourth seat holds ritual archive privileges in Menzoberranzan \u2014 that having archive privileges means having the legal apparatus to access and alter records.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "striking the fourth seat",
+    "fact": "Striking the fourth seat is an expensive act requiring knowledge of the right people, payment, and infrastructure to conceal the alteration.",
+    "source_quote": "That a struck fourth seat was not merely a political erasure. It was the expensive kind. The kind that requires knowing the right people and paying the right price and having the infrastructure to make the payment look like it was never made.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Daz's true name",
+    "fact": "Daz wonders if his name 'Daz' is a shortened form of 'Daz'issin', a name used by his mother.",
+    "source_quote": "I asked whether someone might call me Daz, and this was actually a name that, like, my mother used.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "sealed house record",
+    "fact": "A house record in Menzoberranzan has been sealed by the public record keeper, implying a powerful entity intervened.",
+    "source_quote": "Then she told me there was one house she could not speak of in the room. Not because she would not \u2014 because the public record is sealed, and she is today the public record.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Daz's patron",
+    "fact": "Daz seeks to learn who his patron is, as it may be connected to his name and the act of striking.",
+    "source_quote": "\"I do want to know who protected me, that would be useful, yeah.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "missing appendix",
+    "fact": "The missing appendix in *Geography and Cities, Menzoberranzan, Pillars of Woe* was removed by a razor, indicating intentional erasure.",
+    "source_quote": "The appendix was missing. I looked at the cut. It was mechanical. A razor. Not age, not water damage, not the slow forgetting of paper that has been handled too many times. A razor, at least fifty years ago, someone had taken to this book and removed what the footnote pointed to.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "razor removal of appendix",
+    "fact": "The appendix was removed with a razor at least fifty years ago.",
+    "source_quote": "A razor, at least fifty years ago, someone had taken to this book and removed what the footnote pointed to.",
+    "quote_verified": true
   }
 ]

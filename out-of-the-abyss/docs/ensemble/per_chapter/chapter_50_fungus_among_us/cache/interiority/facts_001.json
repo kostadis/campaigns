@@ -1,163 +1,142 @@
 [
   {
-    "type": "event",
+    "type": "npc",
     "subject": "Daz",
-    "fact": "Daz refused to break posture when Glabbagool spoke, saying 'I'm taking care of this, it's fine.'",
-    "source_quote": "Glabbagool, I'm taking care of this, it's fine.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Daz",
-    "fact": "Daz noticed the small wet sound of Glabbagool opening his eyes and tracking left and right.",
-    "source_quote": "I heard \u2014 I am fairly certain I heard \u2014 the small wet sound of him opening his eyes, which then began tracking left and right with the particular energy of someone who absolutely cannot help himself.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Asha Vandree",
-    "fact": "Asha Vandree questioned whether Daz was a wizard who prays to Lolth.",
-    "source_quote": "You're a wizard. A wizard\u2026 a wizard who prays to Lolth?",
+    "fact": "Daz knows what he's doing.",
+    "source_quote": "I know what I'm doing.",
     "quote_verified": true
   },
   {
     "type": "event",
     "subject": "Daz",
-    "fact": "Daz claimed he was speaking through the body that had communed with Lolth.",
-    "source_quote": "I am\u2026 you are not speaking to the wizard of this body. I\u2026 he\u2026 this body has communed with Lolth. And I\u2026 I am speaking through this body.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Asha Vandree",
-    "fact": "Asha Vandree realized Daz was testing her discernment as a follower of Lolth.",
-    "source_quote": "you are trying to test me, to see if I was one of those fake followers of Lolth, who are willing to believe every charlatan magic user that is somehow being possessed by the power of Lolth.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Asha Vandree",
-    "fact": "Asha Vandree asked whether Daz and Glabbagool had been infected by the spores of Zuggtmoy.",
-    "source_quote": "have you two been infected by the spores, possessed by the crazed magic of Zuggtmoy? convinced of the bride's power? Is this another trick of Ilvara's?",
+    "fact": "Daz noticed Glabbagool was talking and moving despite being instructed to remain silent and motionless.",
+    "source_quote": "I heard the reminder that invisible rocks do not speak. I heard \u2014 I am fairly certain I heard \u2014 the small wet sound of him opening his eyes, which then began tracking left and right with the particular energy of someone who absolutely cannot help himself.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Asha Vandree",
-    "fact": "Asha Vandree believes in the foulness of Ilvara and desires her death with theological fervor.",
-    "source_quote": "Ilvara, who was once a high priestess of Lolth, has become seduced by this abomination, this idea that Lolth wishes to be married. There is something foul and stinking about her, and then all of those allies she seems to covet have turned into fungal creatures that are mindless. We need to kill her. We need to butcher her! We need to send her to an unearthly grave! I fear that her disease will spread.",
+    "subject": "Daz",
+    "fact": "Daz felt the specific sensation of a gamble that could go either way.",
+    "source_quote": "I felt, for a fraction of a second, the specific sensation of a gamble that could go either way.",
     "quote_verified": true
   },
   {
-    "type": "event",
+    "type": "npc",
     "subject": "Daz",
-    "fact": "Daz stated he already feels the gratitude of Lolth.",
-    "source_quote": "I already feel the gratitude of Lolth. I have that.",
-    "quote_verified": false
+    "fact": "Daz believed conviction carries what evidence cannot if committed to fully enough.",
+    "source_quote": "Conviction carries what evidence cannot, if you commit to it fully enough.",
+    "quote_verified": true
   },
   {
-    "type": "event",
+    "type": "npc",
     "subject": "Daz",
-    "fact": "Daz said the conviction he shows is the kind this follower of Lolth shows.",
+    "fact": "Daz was pleased with his redirect to anchor the claim in the observable spider.",
+    "source_quote": "A deft redirect \u2014 I was pleased with it \u2014 anchoring the claim in observable fact rather than asking her to simply take my word for a goddess.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz believed he had convinced others to join him.",
+    "source_quote": "I've convinced others to join me.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz believed his conviction was the kind this follower of Lolth shows.",
     "source_quote": "It's the kind of conviction this follower of Lolth shows.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "Asha Vandree",
-    "fact": "Asha Vandree admitted she was not going to kill Ilvara herself and needed Daz to do it.",
-    "source_quote": "I was not going to kill her. That is what you\u2026 where you come in.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Asha Vandree",
-    "fact": "Asha Vandree said she thought Daz had strong allies with tactical awareness and destructive magic.",
-    "source_quote": "I thought you had strong allies, who had a tactical awareness and understanding how to use their magic for destructive purposes.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Asha Vandree",
-    "fact": "Asha Vandree told Daz not to touch her.",
-    "source_quote": "Don't touch me.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
     "subject": "Zalthir",
-    "fact": "Zalthir noticed Asha Vandree treated him as furniture during the conversation.",
+    "fact": "Zalthir noticed Asha Vandree treated him as furniture, ignoring him entirely during the conversation.",
     "source_quote": "She filed me away and returned her eyes to Daz. Not a glance afterward. Not a word in my direction for the duration of the conversation.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Zalthir",
-    "fact": "Zalthir noted Asha Vandree's question about infection by Zuggtmoy's spores as a test of panic.",
-    "source_quote": "Asha's opening had been a pointed thing \u2014 \"Have you two been infected by the spores, possessed by the crazed magic of Zuggtmoy? Convinced of the bride's power? Is this another trick of Ilvara's?\" \u2014 the kind of question designed to see what shape your panic takes.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Daz",
-    "fact": "Daz said he really believes he has been infected by spores and that he has convinced others to join him.",
-    "source_quote": "I really do believe that I have. Perhaps there are some spores within me, but I\u2026 it feels\u2026 I feel it. And by the way, I've convinced others to join me.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool began to form the shape of an utterance during the negotiation.",
-    "source_quote": "The ooze had, apparently, opinions about the negotiation. It began to form the shape of an utterance \u2014 which is not something you want from what is supposed to be an inanimate ooze familiar \u2014 and Daz caught it with the ease of someone who has managed Glabbagool before.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum explained he had Glyph of Warding, Dust of Suleiman, and Phantasmal Killer, but only one 4th-level spell slot.",
-    "source_quote": "So these powerful spells I've been talking about\u2026 they're all 4th level, and I only have one fourth level slot. I can only cast one.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum believes Phantasmal Killer is a just spell because it taps into a creature's deepest fears.",
-    "source_quote": "A spell that reaches into something's mind and pulls out what it's afraid of. Bahamut didn't teach me that one, exactly, but I don't think he'd object. Some fears are just.",
+    "subject": "Zalthir",
+    "fact": "Zalthir knew the silence of deliberate erasure used by drow society and recognized it immediately.",
+    "source_quote": "I have spent enough time among my own kind to recognise it immediately.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir noted Asha Vandree's fear of contamination as earned and personal.",
+    "source_quote": "Whatever confidence she projected, whatever command she assumed over the conversation, Asha Vandree was afraid of contamination in a very specific and personal way.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir believed Asha Vandree's hatred and theology were wound together tightly.",
+    "source_quote": "Hatred and theology, wound together so tightly you couldn't separate one from the other.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir believed every word of Asha Vandree's conviction about Ilvara.",
+    "source_quote": "I believed every word of it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir noted that Daz was operating in a register of boldness indistinguishable from foolishness until it worked.",
+    "source_quote": "There is a specific kind of bold that is indistinguishable from foolishness until it works, and then it looks like mastery.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir knew where the shadows fell in the cavern ahead and knew the shape of what they were walking into.",
+    "source_quote": "I knew where the shadows fell in the cavern ahead. I knew the shape of what we were walking into.",
     "quote_verified": true
   },
   {
     "type": "event",
     "subject": "Grygum",
-    "fact": "Grygum laid out his three 4th-level spells as keys for one lock.",
-    "source_quote": "Three keys. One lock. The planning was, in a sense, just a very elaborate way of deciding which door we most needed to open.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "Glabbagool's nature",
-    "fact": "Glabbagool is supposed to be an inanimate ooze familiar but speaks and moves, and his true nature is unexplained.",
-    "source_quote": "The ooze had, apparently, opinions about the negotiation. It began to form the shape of an utterance \u2014 which is not something you want from what is supposed to be an inanimate ooze familiar.",
+    "fact": "Grygum recalled the spell Glyph of Warding and its triggering mechanism.",
+    "source_quote": "It's a\u2026 the spell is Glyph of Warding\u2026 You inscribe it in a particular place, and then when somebody triggers it by moving across it, it does its thing.",
     "quote_verified": false
   },
   {
-    "type": "thread",
-    "subject": "Zalthir's role",
-    "fact": "Zalthir was present during the entire negotiation but never acknowledged by Asha Vandree, and his contribution remains unstated.",
-    "source_quote": "She filed me away and returned her eyes to Daz. Not a glance afterward. Not a word in my direction for the duration of the conversation.",
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum recalled the spell Dust of Suleiman and its effects.",
+    "source_quote": "So I also have another spell I haven't had a chance to use yet called the Dust of Suleiman\u2026 It creates a 20-foot sphere, and anything inside this sphere takes 20 points of damage per turn.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum recalled the spell Phantasmal Killer and its mechanics.",
+    "source_quote": "Finally, I now have Phantasmal Killer\u2026 It says you tap into the nightmares of a creature you can see and create an illusory manifestation of its deepest fears.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum believed some fears are just.",
+    "source_quote": "Bahamut didn't teach me that one, exactly, but I don't think he'd object. Some fears are just.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum realized he could only cast one of his three 4th-level spells due to having only one 4th-level slot.",
+    "source_quote": "So these powerful spells I've been talking about\u2026 they're all 4th level, and I only have one fourth level slot. I can only cast one.",
     "quote_verified": true
   },
   {
     "type": "thread",
-    "subject": "Asha Vandree's fear of contamination",
-    "fact": "Asha Vandree fears fungal contamination personally and deeply, but the origin of this fear is not specified.",
-    "source_quote": "Don't touch me.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "The Heart Fungus",
-    "fact": "The Heart Fungus is mentioned as a risk, but its nature and location are not clarified.",
-    "source_quote": "The artifact was the other risk. Contain both and the job was done.",
+    "subject": "Grygum's spell choice",
+    "fact": "Grygum has not decided which of his three 4th-level spells to cast, leaving the critical decision unresolved.",
+    "source_quote": "Three keys. One lock. The planning was, in a sense, just a very elaborate way of deciding which door we most needed to open.",
     "quote_verified": true
   }
 ]

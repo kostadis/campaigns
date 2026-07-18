@@ -3,126 +3,112 @@
     "type": "npc",
     "subject": "Grygum",
     "fact": "Grygum believes the record of the quadrangle issue now exists and matters, regardless of whether Bahamut reads it.",
-    "source_quote": "the record now exists, and the record says: the quadrangle issue landed",
+    "source_quote": "the record now exists, and the record says: the quadrangle issue landed.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Daral",
     "fact": "Daral is operating on an instinct that the one with Lesser Restoration isn't ready to spend it, and arguing won't make healing come sooner.",
-    "source_quote": "Daral was operating on an instinct he couldn't quite articulate: that the one with the Lesser Restoration wasn't ready to spend it, and that arguing wouldn't make the healing come any sooner",
+    "source_quote": "Daral was operating on an instinct he couldn't quite articulate: that the one with the Lesser Restoration wasn't ready to spend it, and that arguing wouldn't make the healing come any sooner.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Thorin",
-    "fact": "Thorin is concerned that Daral, once restored, would disappear and become difficult to locate.",
-    "source_quote": "The concern was that Daral, once restored, would discover pressing business elsewhere and become difficult to locate",
+    "fact": "Thorin is concerned that Daral, once restored, would disappear and become difficult to locate because he might have already shared his most valuable information.",
+    "source_quote": "The concern was that Daral, once restored, would discover pressing business elsewhere and become difficult to locate. The ones who ran the moment they felt better were usually the ones who'd shared their most valuable information right before the healing, because they knew they wouldn't be around to see how you used it.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum recalls having had someone like Daral in their party before \u2014 someone who left after being healed.",
-    "source_quote": "didn't we have somebody like that with our party anyhow? Did we already send him away?",
+    "fact": "Grygum recalls that someone like Daral had already been sent away from their party.",
+    "source_quote": "Didn't we have somebody like that with our party anyhow? Did we already send him away?",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool remembers when there was cheese and grieves its absence.",
+    "source_quote": "I remember when there was cheese. Perhaps if we had some cheese.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Glabbagool",
-    "fact": "Glabbagool remembers when there was cheese.",
-    "source_quote": "I remember when there was cheese",
+    "fact": "Glabbagool believes he could have eaten through Alkrist's safe, though it would have taken a while.",
+    "source_quote": "I guess I could have eaten through the safe. It would have taken a while.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir refuses to punch the safe because they were trying to be sneaky, not destructive.",
+    "source_quote": "If the goal was to be destructive, I could've just punched the safe. But we were trying to be sneaky.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Glabbagool",
-    "fact": "Glabbagool grieves the loss of cheese.",
-    "source_quote": "Perhaps if we had some cheese",
+    "fact": "Glabbagool believes walls do not stop him and that he can eat through them.",
+    "source_quote": "Walls don't stop us. I can eat through walls.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool believes he can eat through walls.",
-    "source_quote": "Walls don't stop us. I can eat through walls",
+    "subject": "Thorin",
+    "fact": "Thorin thinks the poison book method was too elaborate, which is exactly why it worked.",
+    "source_quote": "Poisoned book, frames a colleague, and disappears the evidence. Too elaborate. Which is exactly why it worked.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Zalthir",
-    "fact": "Zalthir believes he could have eaten through the safe, but chose not to because they needed to be sneaky.",
-    "source_quote": "I guess I could have eaten through the safe. It would have taken a while... If the goal was to be destructive, I could've just punched the safe. But we were trying to be sneaky",
+    "subject": "Thorin",
+    "fact": "Thorin realizes that magic like Speak with Dead cannot be relied upon because the dead are still themselves and may misremember or misattribute events.",
+    "source_quote": "Well, I'm interested \u2014 even if we were able to actually cast Speak with Dead, how do you know they're a reliable narrator? What are their motivations after they're dead? We don't know. Because they're dead.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin understands that the myth of the person \u2014 the assumption that death brings transparency \u2014 is false.",
+    "source_quote": "The myth of the person. The assumption that death is a transparency, that the dead have shed their performances and will now simply tell you what's true. They don't. They're still themselves.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Thorin",
-    "fact": "Thorin thinks the murder method was too elaborate to be accidental, which is exactly why it worked.",
-    "source_quote": "Poisoned book, frames a colleague, and disappears the evidence. Too elaborate. Which is exactly why it worked",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Thorin",
-    "fact": "Thorin believes magic cannot be relied upon to make evidence meaningful \u2014 it makes evidence adversarial.",
-    "source_quote": "you cannot rely on magic to make evidence meaningful. It makes evidence adversarial",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Thorin",
-    "fact": "Thorin recalls that in the Underdark, the one thing that didn't lie was terrain.",
-    "source_quote": "In the Underdark, the one thing that didn't lie was terrain",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Thorin",
-    "fact": "Thorin remembers that giants taught him the principle that a rock in the right place is a wall.",
-    "source_quote": "Giants taught me that without ever writing it down. A rock in the wrong place is just a rock. A rock in the right place is a wall",
+    "fact": "Thorin recalls that in the Underdark, the only thing that didn't lie was terrain \u2014 the fixed physical world.",
+    "source_quote": "In the Underdark, the one thing that didn't lie was terrain. You couldn't trust what you were told. You couldn't trust what you saw. But the ground under your feet was fixed.",
     "quote_verified": false
   },
   {
-    "type": "event",
+    "type": "npc",
     "subject": "Thorin",
-    "fact": "Thorin realizes that the truth doesn't change \u2014 it's fixed, and one is assembling a picture of something already set.",
-    "source_quote": "The truth doesn't change. What happened, happened. You're assembling a picture of something already fixed, not hunting something fluid",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Zalthir",
-    "fact": "Zalthir notices that the Sylvira lookalike was seen in the kitchens at one in the morning and coming down the stairs between two and three, creating a two-hour gap.",
-    "source_quote": "The Sylvira lookalike had been seen in the kitchens around one in the morning. She'd been seen coming down the stairs between two and three. That's a minimum two-hour gap",
+    "fact": "Thorin remembers that giants taught him the principle that a rock's meaning depends on its placement \u2014 not its nature.",
+    "source_quote": "Giants taught me that without ever writing it down. A rock in the wrong place is just a rock. A rock in the right place is a wall.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Zalthir",
-    "fact": "Zalthir believes something more than a simple polymorph was used, or it was used repeatedly, or something else entirely was involved.",
-    "source_quote": "Something more is going on here",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "Thorin's stature",
-    "fact": "Thorin reflects that his perceived stature was built on falling first, referencing his past as a chained dwarf in Velkynvelve.",
-    "source_quote": "Whatever stature looked like from the outside, it was built on a lot of falling first",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum claims he made up the principle 'Once you have eliminated the impossible, whatever remains, however unlikely, must be the truth,' though he knows he didn't.",
-    "source_quote": "I made it up myself",
-    "quote_verified": true
+    "fact": "Zalthir realizes that the Sylvira lookalike's appearances create a two-hour gap that cannot be explained by a single polymorph spell.",
+    "source_quote": "The Sylvira lookalike had been seen in the kitchens around one in the morning. She'd been seen coming down the stairs between two and three. That's a minimum two-hour gap. A polymorph spell lasts an hour.",
+    "quote_verified": false
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum privately finds Glabbagool's feelings about cheese both moving and correct.",
-    "source_quote": "I find this, privately, both moving and correct",
+    "subject": "Zalthir",
+    "fact": "Zalthir suspects something more than a simple polymorph \u2014 or repeated use of it \u2014 is involved in the Sylvira lookalike sightings.",
+    "source_quote": "Something more is going on here.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir has been quiet because he is working through a problem until it is finished.",
+    "source_quote": "Zalthir had been quiet for a while, which with Zalthir means he's working something through until it's finished.",
     "quote_verified": true
   }
 ]

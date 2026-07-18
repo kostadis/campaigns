@@ -1,34 +1,22 @@
 ---
 name: Fheminor Scrivenbark
 type: npc
-n_facts: 10
+n_facts: 13
 chapters: 56-59
 ---
 
 ### Fheminor Scrivenbark
 
 **Current status:** Alive  
-**Current location:** Unknown (last seen visiting the apothecary earlier in the day; presence noted by a squirrel as an unpleasant, inconspicuous figure)  
-**Allegiance/faction:** None explicitly stated; appears aligned with no formal group, though his priorities coincided with the investigators’ — suggesting unofficial alignment or hidden agenda.  
-**Current possessions / notable items:** None explicitly stated; carried cold medicine (acquired from the apothecary).  
-**Current assignment / role:** Formerly sought employment (wanted the job); now appears to operate as a background observer or operative, deliberately inconspicuous.  
-**Key relationships:** Last identified by a squirrel as an “unpleasant” presence; dismissed by Daral as having a “steely nature” despite stature. His name was omitted from investigators’ notes — implying tampering, possible self-erasure, or suppression by an external force.  
-**Defining recent actions:**  
-- Arrived at the chamber at half past eight, stern and shocked, demanded inspection, and was turned away despite apparent authority.  
-- Visited the apothecary earlier in the day for cold medicine.  
-- Was beaten prior to Janussi’s murder, suggesting prior involvement or knowledge.  
-- His name was erased from the investigators’ own records, indicating deliberate concealment.  
-
-**Revealed motivations or secrets:**  
-- Seeks access to sensitive information (wanted the job, sought chamber inspection).  
-- Conceals his presence — name omitted from records, left “no mark” despite intent.  
-- May possess critical insight into Janussi’s murder.  
-- Gender attribution is inconsistent: referred to as “she” in Daral’s warning and the squirrel’s observation, but named “Fheminor” — traditionally male-coded — and referred to as “he” in the apothecary account.  
+**Current location:** Unknown (last seen leaving the apothecary at 2:30 p.m. in chapter 59)  
+**Allegiance/faction:** None explicitly stated; suspected of shared investigative priorities with the team (per Grygum’s suspicion)  
+**Current possessions / notable items:** Tincture of horehound and licorice to chew (purchased at apothecary at 2:30 p.m.)  
+**Current assignment / role and key relationships:** Suspected in Janussi’s death; previously sought to inspect a crime chamber at 8:30 a.m. (ch56); referenced by Daral Yashenti as a suspect with a “steely nature”; recorded in investigators’ notes with erased name, suggesting tampering or omission. Last identified by Nibbles as an “unpleasant” figure.  
+**Defining recent actions:** Arrived early at crime scene (8:30 a.m.), was denied access; visited apothecary at 2:30 p.m. for cold medicine, establishing timeline presence but ruling out theft; name erased from official investigation records, implying deliberate concealment or internal corruption.  
 
 ## Uncertainty
-- Gender: Multiple sources refer to Fheminor as “she” (“don’t be fooled by her stature”), while the name and apothecary sighting use “he.” No clarification exists.  
-- Race: Ch58 calls Fheminor a halfling; ch59 identifies them as a gnome. Contradiction unresolved.  
-- Cause of name omission: Was it self-erasure, sabotage, or magical corruption? No source confirms mechanism.  
-- Current whereabouts: Last known at apothecary; no confirmation of presence since.  
-- Whether Fheminor was the “unfriendly girl gnome” observed by the squirrel — ambiguous if this is the same individual or a misidentification.  
-- Status of the beating: Was it before or after the chamber visit? Chronology unclear, but beating occurred prior to the murder — still a current wound or trauma?
+- Gender inconsistency: Daral refers to Fheminor as “she” (“don't be fooled by her stature”), but Nibbles calls her “the unfriendly girl gnome” — both suggest female, yet earlier description in ch57 calls Fheminor “the short-legged one” without pronouns. No contradiction in identity, but pronoun usage varies.  
+- Race inconsistency: Ch58 describes Fheminor as a “dowdy halfling scholar”; ch59 identifies her as a “gnome.” This is a direct contradiction — later chapter (ch59) overrides earlier, but no explanation given.  
+- Attribution of “steely nature”: Daral attributes this to Fheminor, but no other source confirms or denies this characterization.  
+- Motivation for name erasure: Grygum suspects Fheminor shares the team’s priorities, but it is unclear whether the erasure was done by Fheminor, an ally, or an enemy.  
+- Current whereabouts: Last confirmed location is the apothecary at 2:30 p.m.; no information on where she went afterward.

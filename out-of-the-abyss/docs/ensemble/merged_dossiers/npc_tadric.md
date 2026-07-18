@@ -1,31 +1,32 @@
 ---
 name: Tadric
 type: npc
-n_facts: 8
+n_facts: 11
 chapters: 56-57
 ---
 
 ### Tadric
 
 **Current status:** Alive  
-**Current location:** Keeper’s Chambers (scene of Janussi’s death, now secured)  
-**Allegiance/faction:** Guard assigned to the Keeper’s Chambers, likely under the authority of the Order of the Silent Keep  
-**Current possessions / notable items:** None specified  
-**Current assignment / role:** Scene guardian — responsible for securing and monitoring the aftermath of Janussi’s death; previously assigned to crowd control at the tower entrance  
-**Key relationships:** Reports to the Keeper’s Chambers command structure; last seen interacting with Thorin and the party during their investigation of the toppled statue  
+**Current location:** At the crime scene (near the statue with the candle)  
+**Allegiance/faction:** Guard assigned to crowd control at the crime scene (unspecified faction, likely municipal or temple guard)  
+**Current possessions / notable items, spells, feats, wounds:** None specified  
+**Current assignment / role and key relationships:** Assigned to crowd control at the crime scene; reports to the gate warden; last seen interacting with Kalan and Miss Hollypocket (as referenced); under psychological pressure from Thorin’s warnings about the statue’s candle  
 **Defining recent actions:**  
-- Confirmed the timeline of arrivals and departures around Janussi’s death while serving as crowd control.  
-- Expressed regret over the limitations of his role, acknowledging he failed to observe internal actions.  
-- Reacted with visible suspicion and unease when Thorin questioned the significance of the toppled statue’s candle, implying prior knowledge or involvement in its placement.  
-- His reaction to the statue confirmed its design was intentionally intimidating, possibly tied to Order rituals.  
+- Confirmed that attempts to communicate with the deceased failed: “The dead had not spoken.”  
+- Observed Kalan exiting the chamber with greater determination than when he entered.  
+- Noted that Miss Hollypocket would not have permitted the Keeper to let candles burn down to nothing.  
+- Demonstrated visible distress and fixation on the statue’s candle after Thorin’s warnings, unable to look away despite trying.  
+- Expressed professional anxiety and self-doubt over his failure to observe internal actions, acknowledging his role was limited to entry/exit verification.  
 
 **Revealed motivations or secrets:**  
-- Possesses tacit awareness of the statue’s ritual significance, though not explicitly stated.  
-- Feels professional guilt over his failure to detect internal activity during Janussi’s death, but was never authorized to observe beyond entry/exit logs.  
-- His unnerved reaction to the candle suggests he was either instructed to place it, or was warned about its importance — implying deeper, unspoken knowledge of the Order’s rites.
+- Deeply conscientious about his duty, now tormented by the realization that his narrow role may have failed the gravity of the event.  
+- Susceptible to psychological manipulation, particularly regarding supernatural elements (candle, dead speaking).  
+- Holds implicit respect for Miss Hollypocket’s standards, suggesting prior association or training under her.  
 
 ## Uncertainty
-- Did Tadric place the candle on the statue, or was he merely instructed to guard it? The quote “gave him a look” and “Are you sure this — is it true about candles?” imply knowledge, but not agency.  
-- Is Tadric still assigned to crowd control, or has his role permanently shifted to scene guardian? The transition is implied but not confirmed.  
-- Was the statue’s intimidating design ordered by the Order, or was it an independent ritual artifact? Tadric’s reaction suggests he knows, but the source of the design is not stated.  
-- What, if anything, did Tadric witness inside the chamber? He admits he did not observe, but his reaction to the candle hints at indirect knowledge — was he told, or did he see something he’s not admitting?
+- It is unclear whether Tadric still reports directly to the gate warden or has been reassigned since Chapter 56.  
+- The nature of “Miss Hollypocket” and her relationship to Tadric (superior? mentor? former colleague?) is not specified.  
+- It is ambiguous whether Thorin’s warnings occurred before or after Tadric’s statements about Kalan and Hollypocket — though the latter are from ch56 and the former from ch57, the psychological impact’s duration is unstated.  
+- Whether Tadric has been relieved of duty or remains on post after the candle incident is not confirmed.  
+- No evidence confirms whether Tadric still believes the dead are silent — his statement in ch56 is not contradicted, but no later confirmation exists.

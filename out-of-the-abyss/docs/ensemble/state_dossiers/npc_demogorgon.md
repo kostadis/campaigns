@@ -7,14 +7,15 @@ chapters: 12-25
 
 ### Demogorgon
 
-**Current status:** Alive  
-**Current location:** Unknown (last observed advancing toward Sloobludop)  
-**Allegiance/faction:** Invoked as the central deity of a cult; no formal allegiance beyond being the source of the cultists’ madness  
-**Current possessions / notable items, spells, feats, wounds:** None specified  
-**Current assignment / role and key relationships:** Central figure of a ritual cult; invoked as the Prince of Chaos whose madness empowers and drives cultists. Last seen advancing toward Sloobludop.  
-**Defining recent actions:** Advanced toward Sloobludop while cultists reacted with terror, madness, or defiance. Ritual chants now explicitly invoke Demogorgon as the source of their fervor and destruction.
+- **Current status:** Alive  
+- **Current location:** Advancing toward Sloobludop  
+- **Allegiance/faction:** Invoked as the supreme entity of the cult; no higher allegiance — is the object of worship  
+- **Current possessions / notable items, spells, feats, wounds:** None specified  
+- **Current assignment / role and key relationships:** Central figure of the ritual; the cultists channel his madness. He is the Prince of Chaos, whose influence drives the cult’s actions. Last seen advancing toward Sloobludop, with followers cheering and others preparing to resist.  
+- **Defining recent actions:** Advancing on Sloobludop; invoked in a ritual chant that imbues cultists with his madness.  
+- **Revealed motivations or secrets:** His presence and madness are the core catalyst for the cult’s apocalyptic fervor; he is not merely worshipped — his essence actively flows through his followers.
 
 ## Uncertainty
-- Exact current location beyond “advancing toward Sloobludop” — no confirmation of arrival or movement since ch12.  
-- Whether Demogorgon is physically present in the material plane or manifesting through the cultists (ch25’s description implies spiritual or psychic influence, not necessarily corporeal form).  
-- No confirmation of survival or continued movement after ch12 — ch25 confirms invocation but not physical state.
+- The exact nature of his movement (e.g., physical traversal vs. psychic influence) is ambiguous — he is described as “advancing,” but no mechanism (walking, teleporting, manifesting) is specified.  
+- It is unclear whether his advancement is literal (a physical entity moving) or metaphorical (his influence spreading); the text does not confirm his physical form is present in Sloobludop’s vicinity, only that he is advancing in that direction.  
+- No information confirms whether he has interacted directly with any named characters since Chapter 12.

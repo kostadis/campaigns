@@ -1,122 +1,100 @@
 [
   {
     "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum drank tea offered by Bookwyrm but diverted it into Glabbagool, his fused arcane entity, to avoid direct consumption while maintaining plausible deniability \u2014 a quiet act of discipline that only he felt.",
+    "source_quote": "I lifted the cup, tilted it to my mouth, and let the tea run down into Glabbagool instead of down my throat. He took it. A faint singe of acid, a small heat under the skin of my arm as he burned it away \u2014 only I felt it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
     "subject": "Bookwyrm",
-    "fact": "Bookwyrm is a former custodian of Candlekeep who concealed a crime by hiding the heart in the chalice of the statue, and is now being targeted not for murder but for the social and institutional humiliation of being exposed after the fact.",
+    "fact": "Bookwyrm hosted the group in her office with deliberate seating and poured tea as a psychological gesture, calmly drinking it while accusing them of relying on weak proof \u2014 implying her innocence and control over the narrative.",
+    "source_quote": "She drank some, watching us over the rim. 'With all this talk of murder in the house, I think a little tea is good for soothing the nerves.'",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Alkrist",
-    "fact": "Alkrist is Bookwyrm's nephew who confessed to the crime, implicating himself and drawing suspicion onto Bookwyrm, though he may be shielding her.",
+    "fact": "Alkrist confessed to a crime (likely murder) involving poison, becoming the publicly accepted culprit \u2014 though others suspect Bookwyrm was the true architect and is covering for him as family.",
+    "source_quote": "Kalan stepped in before the silence could set. 'But they have.' He began to lay it out \u2014 that Alkrist had stolen the \u2014 'The poison.'",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Thorin",
-    "fact": "Thorin is the architect of a strategic theatrical plan to expose Bookwyrm not through direct evidence or confession, but by using a reward to access a forbidden book that retroactively proves her culpability \u2014 turning institutional trust into a weapon.",
+    "fact": "Thorin orchestrated a strategic plan to expose Bookwyrm not through direct accusation but by using a reward to obtain a magical book that would retroactively prove her culpability \u2014 exploiting bureaucratic procedure and psychological timing.",
+    "source_quote": "We go in, we say here are the people that did it, we get a reward, and one of us uses that reward to get the book that can then prove she did it.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Kalan",
-    "fact": "Kalan initially doubted the feasibility of spell-based evidence but shifted to endorse Thorin\u2019s plan, recognizing that accessing a book from the new head of Candlekeep \u2014 not the old \u2014 would be the true instrument of accountability.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Daz",
-    "fact": "Daz refused Bookwyrm\u2019s tea as a symbolic act of distrust, but his gesture was overt and predictable \u2014 contrasting with the quiet, internal defiance of Glabbagool\u2019s ingestion.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Zalthir",
-    "fact": "Zalthir practiced quiet resistance by allowing Glabbagool to consume Bookwyrm\u2019s tea, a nonverbal act of control and discipline that mirrored the deeper strategy of the group: letting the system turn against itself.",
-    "quote_verified": false
+    "fact": "Kalan shifted from skepticism to active collaboration in Thorin\u2019s plan, recognizing the elegance of using institutional access \u2014 not force \u2014 to undermine Bookwyrm, and committed to finding the exact magical book needed.",
+    "source_quote": "I will come up with such a book before you leave.",
+    "quote_verified": true
   },
   {
     "type": "faction",
     "subject": "Candlekeep",
-    "fact": "Candlekeep is an institution where authority shifts silently \u2014 the new head, not the old, holds the key to forbidden knowledge, and thus the power to condemn or absolve \u2014 making institutional transition the true locus of justice.",
-    "quote_verified": false
+    "fact": "Candlekeep operates as a hierarchical institution where authority transitions matter \u2014 the new head of Candlekeep will be eager to provide incriminating magical texts to those who have earned reward and goodwill, making institutional power a weapon.",
+    "source_quote": "the book will come from the new head of Candlekeep \u2014 who will be delighted to give it to you.",
+    "quote_verified": true
   },
   {
     "type": "event",
     "subject": "tea refusal",
-    "fact": "The refusal of Bookwyrm\u2019s tea by Daz and Thorin was a performative act of suspicion, making them visible targets \u2014 while Zalthir\u2019s quiet ingestion through Glabbagool became a silent, subversive act of control.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "confession of Alkrist",
-    "fact": "Alkrist\u2019s confession served not to clear Bookwyrm, but to entrap her \u2014 by making her appear to protect family, thus implicating her in conspiracy after the fact.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "book strategy",
-    "fact": "The group\u2019s plan to use a reward to access a magical book from the new head of Candlekeep \u2014 rather than force a confession or use spells \u2014 became the central mechanism to retroactively prove Bookwyrm\u2019s culpability without direct confrontation.",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "the chalice of the statue",
-    "fact": "The chalice of the statue is the hidden vessel where the heart was placed \u2014 not as a ritual object, but as a concealment, making it the physical anchor of the crime and the future target of the book\u2019s revelation.",
+    "fact": "Daz and Thorin publicly refused Bookwyrm\u2019s tea as a gesture of distrust, making themselves visibly antagonistic \u2014 an overt move that Grygum avoided by covertly diverting the tea into Glabbagool.",
+    "source_quote": "Daz did not touch the cup in front of him. 'I'm certainly not drinking any tea from somebody we suspect may have done this.'",
     "quote_verified": false
   },
   {
     "type": "object",
     "subject": "Glabbagool",
-    "fact": "Glabbagool is a sentient, acid-siphoning entity fused to Zalthir\u2019s forearm, used to silently consume the tea \u2014 a tool of quiet resistance, discipline, and nonverbal defiance against performative suspicion.",
-    "quote_verified": false
+    "fact": "Glabbagool is a fused arcane entity bound to Grygum\u2019s forearm, capable of absorbing and neutralizing liquids \u2014 used here to consume tea without detection, demonstrating controlled discipline at Grygum\u2019s command.",
+    "source_quote": "He took it. A faint singe of acid, a small heat under the skin of my arm as he burned it away \u2014 only I felt it.",
+    "quote_verified": true
   },
   {
-    "type": "object",
-    "subject": "the thrice-fold proof",
-    "fact": "The thrice-fold proof is Kalan\u2019s handwritten record of failed spell attempts \u2014 evidence that magic cannot extract truth, making the eventual reliance on institutional access (the book) all the more significant.",
+    "type": "thread",
+    "subject": "the magical book",
+    "fact": "A specific magical book exists in Candlekeep\u2019s archives that can retroactively prove Bookwyrm\u2019s culpability \u2014 its identity is unknown but Kalan has pledged to locate it before the group departs.",
+    "source_quote": "I will come up with such a book before you leave.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the poison",
+    "fact": "The murder weapon \u2014 poison \u2014 was stolen by Alkrist, but whether Bookwyrm orchestrated the theft, administered it, or merely concealed the act remains unproven and central to the unfolding scheme.",
+    "source_quote": "'The poison.'",
     "quote_verified": false
   },
   {
     "type": "thread",
-    "subject": "the book that will do her in",
-    "fact": "The unresolved thread of identifying the exact magical book from Candlekeep\u2019s restricted archives \u2014 one that can retroactively prove Bookwyrm\u2019s culpability \u2014 is now the group\u2019s primary mission, awaiting discovery.",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "the humiliation of exposure",
-    "fact": "The deeper thread is not about justice, but about the institutional shame of being undone not by evidence, but by the system turning its own rules against the guilty \u2014 a theme all participants have internalized.",
-    "quote_verified": false
-  },
-  {
-    "type": "monster",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool is not a combatant, but a hazard of quiet control \u2014 a sentient parasite that consumes poison, heat, and now tea, acting as an extension of Zalthir\u2019s will and a symbol of suppressed rebellion.",
+    "subject": "the humiliation strategy",
+    "fact": "The group\u2019s ultimate goal is not justice or conviction, but the systematic humiliation of Bookwyrm \u2014 using institutional power, timing, and psychological reversal to make her fall from grace without a trial.",
+    "source_quote": "We had come all this way to convict a woman not of murder but of embarrassment, and that everyone in the room seemed content with the trade.",
     "quote_verified": false
   },
   {
     "type": "location",
-    "subject": "Bookwyrm's office",
-    "fact": "Bookwyrm\u2019s office is arranged to assert psychological dominance \u2014 tea poured, chairs set \u2014 a stage for confrontation where silence and refusal are weapons, and the real crime is not murder but betrayal of institutional trust.",
-    "quote_verified": false
+    "subject": "Bookwyrm's Office",
+    "fact": "Bookwyrm\u2019s office is arranged with deliberate intent \u2014 tea poured, chairs positioned \u2014 to assert control over the confrontation and force psychological compliance from the visitors.",
+    "source_quote": "Her office was arranged the way a room gets arranged when someone wants you to understand the seating before you sit.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool functions as a non-combative, absorptive entity \u2014 not an opponent, but a tool of quiet subterfuge \u2014 used to neutralize threats (like poisoned tea) without alerting observers.",
+    "source_quote": "He held to it. No burp, no bubble, nothing.",
+    "quote_verified": true
   },
   {
     "type": "date",
     "subject": "session date",
-    "fact": "The events occurred during the session following the warden\u2019s paper being ignored and Alkrist\u2019s confession \u2014 a temporal anchor for the shift from investigation to institutional entrapment.",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "one more thing",
-    "fact": "The theatrical motif of 'one more thing' \u2014 the final, quiet revelation after everyone believes the case closed \u2014 is now the defining structure of the plan, and the group\u2019s shared narrative framework for justice.",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "the arithmetic of family",
-    "fact": "The recurring phrase \u2014 'I know the arithmetic of that' \u2014 frames the entire conflict as a calculus of loyalty and concealment, where protecting family justifies crime, and exposure is the only punishment society will accept.",
-    "quote_verified": false
+    "fact": "The events described occurred during a single session of roleplay, culminating in the strategic planning phase and the tense confrontation with Bookwyrm \u2014 no calendar date is given, but temporal continuity is maintained.",
+    "source_quote": "I wrote it down either way.",
+    "quote_verified": true
   }
 ]

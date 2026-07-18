@@ -2,85 +2,85 @@
   {
     "type": "npc",
     "subject": "Thorin",
-    "fact": "Thorin is a giant-raised dwarf who has spent his life feeling out of place in both dwarven and surface societies, now standing at a crossroads after a shared journey through the Underdark.",
+    "fact": "Thorin is a giant-raised dwarf who has spent his life feeling out of place in both dwarven and surface societies, and who now stands at the threshold of parting from Eldeth after surviving the Underdark together.",
     "source_quote": "I'm a dwarf. I'm not invited along.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Eldeth",
-    "fact": "Eldeth is a dwarf bound by clan obligations to return to Mithral Hall and warn the surface of Underdark threats, having formed an unspoken bond with Thorin during their survival in the deep dark.",
-    "source_quote": "I must go to Mithral Hall. I must inform the dwarves of what is going on in the Underdark.",
+    "fact": "Eldeth is a dwarven noble bound by clan duty to return to Mithral Hall and warn the dwarves of Underdark threats, and who has come to regard Thorin not as an outsider, but as a comrade worthy of acknowledgment beyond bloodline.",
+    "source_quote": "She goes, giant friend.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Dawnbringer",
-    "fact": "Dawnbringer is a sentient, possibly magical sword with agency, known for being both powerful and annoying, accepted as an equal companion by Thorin despite her unconventional nature.",
+    "fact": "Dawnbringer is a sentient magical weapon with agency, previously described as a 'really cool sword who is kind of annoying sometimes,' and who shares a quiet bond of mutual understanding with Thorin.",
     "source_quote": "She'd been called worse things than agency.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Glabbagool",
-    "fact": "Glabbagool is an ooze-like entity exhibiting signs of sentience and perception, capable of witnessing and stillness, and considered by Zalthir as a potential candidate for monk training despite lacking fixed appendages.",
+    "fact": "Glabbagool is an ooze-like entity exhibiting unusual sentience and stillness, capable of witnessing rather than merely existing, and whose form challenges conventional combat mechanics due to its lack of fixed appendages and potential for twelve simultaneous strikes.",
     "source_quote": "He wasn't being a floor. He was witnessing.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Zalthir",
-    "fact": "Zalthir is a disciplined figure exploring unconventional paths in martial training, considering Glabbagool\u2019s ooze form as a tactical anomaly and questioning the boundaries of what can be trained or weaponized.",
-    "source_quote": "I mean, offered is a strong word.",
+    "fact": "Zalthir is a perceptive individual who has tentatively offered monk training to Glabbagool, recognizing the tactical potential of an opponent with no readable stance, and who reassesses problems when confronted with unconventional realities.",
+    "source_quote": "Zalthir looked at Glabbagool with the expression of a man reassessing a problem he thought he understood.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Clan of Mithral Hall",
+    "fact": "The Clan of Mithral Hall is a dwarven lineage bound by ancestral duty to maintain vigilance over the Underdark, and whose knowledge of its threats is considered vital to the surface world's survival.",
+    "source_quote": "I must inform the dwarves of what is going on in the Underdark.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "parting at Candlekeep",
+    "fact": "The group's journey together concludes at Candlekeep as Eldeth departs for Mithral Hall, marking the end of a shared survival arc through the Underdark and the beginning of separate paths.",
+    "source_quote": "Here our journey ends.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Thorin's clan petition",
+    "fact": "Thorin has formally asked to join Eldeth's clan, suggesting a deeper desire for belonging and identity beyond his giant-raised origins \u2014 a question left open but emotionally resolved.",
+    "source_quote": "Is there any way that I can petition to become part of your clan?",
     "quote_verified": true
   },
   {
     "type": "monster",
     "subject": "Glabbagool",
-    "fact": "Glabbagool is an ooze creature with no fixed appendages, capable of twelve simultaneous strikes, and presents a tactical nightmare due to its liquid form, unpredictable motion, and lack of telegraphed stance.",
-    "source_quote": "Twelve simultaneous strikes from an opponent with no readable stance, no telegraphed motion, and a body that was essentially a liquid \u2014 that was actually a serious problem.",
+    "fact": "Glabbagool is an ooze entity whose form defies standard monster taxonomy, presenting a tactical hazard due to its liquid body, lack of telegraphed motion, and potential for twelve simultaneous attacks \u2014 making it a unique combat anomaly.",
+    "source_quote": "Twelve simultaneous strikes from an opponent with no readable stance...",
     "quote_verified": false
-  },
-  {
-    "type": "faction",
-    "subject": "Clan of Mithral Hall",
-    "fact": "The clan of Mithral Hall is a traditional dwarven society bound by duty, lineage, and ancient obligations, now facing the need to be warned of Underdark threats that could reach the surface.",
-    "source_quote": "Clan business. Which I understood.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "end of journey through the Underdark",
-    "fact": "The journey through the Underdark has concluded, marked by the separation of Eldeth and Thorin \u2014 not through conflict, but through the quiet recognition of diverging paths and unspoken bonds forged in survival.",
-    "source_quote": "It was well met, and thank you for getting me out of the Underdark.",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "Thorin's petition to join Clan Mithral Hall",
-    "fact": "Thorin has formally asked to pledge himself to Eldeth\u2019s clan \u2014 a request that challenges traditional dwarven notions of belonging, leaving the outcome unresolved but emotionally significant.",
-    "source_quote": "Is there any way that I can petition to become part of your clan?",
-    "quote_verified": true
   },
   {
     "type": "object",
     "subject": "Dawnbringer",
-    "fact": "Dawnbringer is a sentient magical sword, likely enchanted or bound to a will, capable of warmth, acknowledgment, and emotional resonance with Thorin, functioning as both weapon and companion.",
+    "fact": "Dawnbringer is a sentient magical sword with a personality, capable of warmth, acknowledgment, and subtle emotional response, and is regarded by its wielder as an equal partner rather than a mere tool.",
     "source_quote": "The hilt warmed slightly. We understood each other on that point.",
     "quote_verified": true
   },
   {
     "type": "location",
     "subject": "Candlekeep Library",
-    "fact": "The Candlekeep Library is the current setting where characters emerge from the Underdark, adjusting to sunlight and confronting the consequences of their journey \u2014 a threshold between darkness and the surface world.",
-    "source_quote": "The sun... turned everything amber and gold.",
+    "fact": "Candlekeep Library is the site of the group's emergence from the Underdark, where sunlight returns after months of bioluminescent gloom, and where pivotal emotional and tactical reckonings occur.",
+    "source_quote": "The sun. I keep coming back to that first moment of it...",
     "quote_verified": false
   },
   {
     "type": "date",
     "subject": "session date",
-    "fact": "The events occur immediately following the conclusion of a long journey through the Underdark, with no specific calendar date given \u2014 the temporal anchor is the moment of emergence into sunlight.",
-    "source_quote": "Months underground. Months of bioluminescence...",
+    "fact": "The events described occur after months spent underground, following the conclusion of a prolonged Underdark expedition that began at Velkynvelve.",
+    "source_quote": "Months underground. Months of bioluminescence and faerzress...",
     "quote_verified": false
   }
 ]

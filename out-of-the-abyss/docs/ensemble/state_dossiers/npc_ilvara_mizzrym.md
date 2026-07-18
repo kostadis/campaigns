@@ -1,45 +1,44 @@
 ---
 name: Ilvara Mizzrym
 type: npc
-n_facts: 64
-chapters: 1-59
+n_facts: 54
+chapters: 1-54
 ---
 
 ### Ilvara Mizzrym
 
-**Current status:** Dead. Entirely consumed and erupted into a cloud of poisonous spores.  
-**Current location:** Dissipated as fungal spores throughout the cavern of Velkynvelve.  
-**Allegiance/faction:** Corrupted vessel and instrument of Zuggtmoy; formerly High Priestess of House Mizzrym and Lolth.  
-**Current possessions / notable items, spells, feats, wounds:**  
-- Scourge (retained until death).  
-- Mushroom token (smoldering at time of death).  
-- Thorin’s tooth (collected as a trophy, last known in her possession).  
-- Prayer book bearing marginalia of Zuggtmoy and Lolth fused sigils.  
-- Ability to conjure divine fire and project fear effects tied to Zuggtmoy’s will.  
-- Source of a lethal fungal plague (inflicted 26 damage on Glabbagool).  
-- Spore generation and control over fungal servants (former Velkynvelve guards).  
-
+**Current status:** Dead.  
+**Current location:** Dissolved into a cloud of poisonous spores at the cavern site of her final ritual; her physical form no longer exists.  
+**Allegiance/faction:** Formerly High Priestess of Lolth and commander of the Velkynvelve outpost; now a corrupted vessel and walking instrument of Zuggtmoy, the Demon Lord of Fungi. Fully subverted, no longer serving Lolth.  
+**Current possessions / notable items:** None. Her physical body was destroyed and reduced to spores. Her prayer book, annotated with Zuggtmoy’s marginalia documenting her corruption, was recovered and delivered to Candlekeep as scholarly evidence. Thorin’s tooth, once kept as a trophy of ownership, was likely consumed or scattered in the spore explosion.  
+**Notable spells, feats, wounds:**  
+- Corrupted by Zuggtmoy to the point of being *walking work* of the demon lord, no longer merely influenced but entirely transformed.  
+- Capable of casting Insect Plague, Divine Fire, and psychic fear effects that prevent proximity.  
+- Survived a 40-foot fall, multiple direct hits from Fireball (totaling 36 damage), and a Guiding Bolt that triggered her final detonation.  
+- Previously wielded a scourge; last seen holding it, but it was lost in her dissolution.  
+- Sustained fungal corruption that turned allies into mindless fungal creatures and enabled control over repurposed Velkynvelve guards.  
+- Built an elevated ritual site fused with a sigil of Lolth and Zuggtmoy, using fungal growth as a conduit.  
 **Current assignment / role and key relationships:**  
-- Final role: Zuggtmoy’s living vessel, spreading fungal corruption and delivering prophetic utterances (“Vengeance. Zuggtmoy. The bride.”).  
-- Formerly commanded the Velkynvelve outpost and maintained a polycule hierarchy; discarded Jorlan, elevated Shoor.  
-- Last known interaction: Grappled by Zalthir, dropped forty feet, survived, and unleashed a psychic fear backlash that prevented proximity.  
-- Target of Asha Vandree’s vendetta; former romantic partner of Jorlan, whose bitterness stemmed from her abandonment.  
-
+- No longer has a role; her existence ended in spore detonation.  
+- Last known relationship: In direct confrontation with Jorlan, whom she had abandoned for his scars; engaged in a final psychic duel with Zalthir, who recognized Zuggtmoy wearing her face.  
+- Target of Asha Vandree’s vendetta; previously commanded a polycule hierarchy and hoarded prisoner belongings as trophies.  
 **Defining recent actions:**  
-- Survived a fireball and glyph detonation, absorbing 12–24 points of damage.  
-- Summoned four repurposed Velkynvelve guards as fungal weapons.  
-- Continued conjuring divine fire and directing spore attacks despite structural collapse and critical injuries.  
-- Erupted into a toxic cloud of spores upon death, poisoning the cavern and erasing her physical form.  
-
+- Orchestrated fungal corruption across Velkynvelve, turning former guards into fungal weapons.  
+- Built a ritual site centered on a fused Lolth-Zuggtmoy sigil, using Thorin’s tooth as a ritual anchor.  
+- Cast Insect Plague at the cavern entrance, inflicting 26 damage on Glabbagool.  
+- Survived multiple lethal attacks, including a 40-foot fall and 36 damage from Fireball, before being struck by Grygum’s Guiding Bolt.  
+- Detonated into a cloud of poisonous spores — “biology, not identity” — after her final confrontation.  
 **Revealed motivations or secrets:**  
-- Believed Lolth wished to be married to Zuggtmoy — a delusion that fused her faith with demonic worship.  
-- Collected prisoner trophies (including Thorin’s tooth) as symbols of dominance.  
-- Subverted her priesthood through rituals merging Lolth and Zuggtmoy’s symbols; may have been aware of her corruption but believed she acted of her own will.  
-- Her transformation was irreversible and spiritual — not merely physical — and she rejected surrender even as her body failed.  
+- Believed Lolth wished to be married, a delusion that became the vehicle for Zuggtmoy’s corruption.  
+- Subtly and irreversibly corrupted by Zuggtmoy over time, possibly without realizing her own transformation — evidenced by dual handwriting in her prayer book.  
+- Served two masters (Lolth and Zuggtmoy) without understanding either.  
+- Collected prisoner belongings (including Thorin’s tooth) as trophies of ownership, treating them like relics.  
+- Was promised the Underdark by a demon lord and refused to surrender that claim, even as her body failed.  
+- Her final moments were filled not with pleading, but with prophecy: “Vengeance. Zuggtmoy. The bride.”  
 
 ## Uncertainty
-- Contradiction: Multiple sources state she was “once a high priestess of Lolth” and later “corrupted high priestess of House Mizzrym.” House Mizzrym is a drow house, not a religious title — whether she held both roles simultaneously or House Mizzrym was her familial house is unclear, but the latter is consistent with drow naming.  
-- Ambiguous chronology: Ch51 states she “folded and went still” and “erupted,” confirming death. Yet Ch50 describes her bleeding, still moving, and conjuring — the final moment before eruption is not sequenced with precision between Ch50 and Ch51.  
-- Attribution: Ch51 says she was “killed by the narrator,” but no narrator is named; this conflicts with Ch49–50’s description of her being grappled and dropped by Zalthir, and struck by Daz’s fireball. The exact agent of her death is unspecified.  
-- Unclear: Whether the “prayer book with Zuggtmoy marginalia” was physically present at her death or recovered afterward — but since her body erupted into spores, it is uncertain whether the book survived.  
-- Ambiguity: Ch53 says “she was already dead and I had killed her,” but this is the only first-person account; no other source confirms who delivered the final blow.
+- The exact timing of when Ilvara fully ceased serving Lolth and became Zuggtmoy’s vessel is ambiguous — the marginalia in her prayer book suggest a slow, possibly unconscious transition, but no single moment of betrayal or apostasy is confirmed.  
+- Whether Thorin’s tooth survived the spore explosion is unknown; it was last known to be in her possession, but its fate after detonation is unrecorded.  
+- The physical location of her prayer book after delivery to Candlekeep is not specified — only that it was presented there.  
+- The identity of “Grygum” as the caster of the Guiding Bolt is assumed from context but not explicitly confirmed in the final ch51 quote — the bolt is attributed to “a radiant bolt,” and Grygum is not named in that passage.  
+- The origin of the “mushroom icon” mentioned in ch50 is never explained — whether it was a physical object, a magical tattoo, or a symbolic manifestation — and its fate after her detonation is unrecorded.

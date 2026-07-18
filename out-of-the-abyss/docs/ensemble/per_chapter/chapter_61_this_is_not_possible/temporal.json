@@ -43,101 +43,213 @@
   },
   {
     "type": "event",
-    "subject": "infamous status",
-    "fact": "The group is already infamous underground, with their name on posters in Gracklstugh.",
-    "source_quote": "We're already infamous underground. It didn't seem to serve us well.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Candlekeep naming ceremony",
-    "fact": "A naming ceremony for the new head of Candlekeep is scheduled for tomorrow morning.",
-    "source_quote": "Tomorrow morning's naming ceremony clearly will not name her.",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "Zone of Truth spell mechanics",
-    "fact": "The Zone of Truth spell does not force truth, but reveals if someone can resist it.",
-    "source_quote": "The spell doesn't hand you the truth. It hands you the ability to watch someone refuse it.",
+    "subject": "Kalan Strongbranch's firing",
+    "fact": "Kalan Strongbranch was fired \u2014 a man told he was done, standing next to a case he couldn't crack, that we cracked for him.",
+    "source_quote": "Kalan had gotten fired. That's the terrain \u2014 a man told he was done, standing next to a case he couldn't crack, that we cracked for him.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "Bookwyrm's potential decline",
-    "fact": "Bookwyrm may be offered the opportunity to decline submission to a Zone of Truth, which would imply guilt.",
-    "source_quote": "We will give her the opportunity to decline. Her declining will further weaken her support among the other Avowed.",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "academic paper on truth sources",
-    "fact": "An academic paper argues that one source of truth is insufficient; three different kinds are required.",
-    "source_quote": "My paper says you can't rely on one source of truth; you need three different kinds.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "magic book to prove culpability",
-    "fact": "A magical book exists in Candlekeep\u2019s library that could prove Bookwyrm\u2019s culpability after the fact.",
-    "source_quote": "I will come up with such a book before you leave.",
+    "subject": "Dawnbringer's therapy request",
+    "fact": "Dawnbringer requested therapy \u2014 she said, 'I'm not leaving here without the therapy. That first session was actually very productive.'",
+    "source_quote": "She spoke up in my head. *I'm not leaving here without the therapy. That first session was actually very productive. I really feel we need to\u2014*",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "Alkrist's confession",
-    "fact": "Alkrist confessed to killing Janussi under the influence of a spell that kept him honest.",
-    "source_quote": "Alkrist had said it out loud, in the room, with Kalan's spell still holding him honest \u2014 he'd killed Janussi.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Gracklstugh posters",
-    "fact": "Posters in Gracklstugh bear the group's name, wrongly attributed but still recognizable.",
-    "source_quote": "Gracklstugh still had our name on posters, wrong enough to be cover but our name all the same.",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "Ember Vanguard legend",
-    "fact": "The Ember Vanguard is a larger, more feared legend that precedes the group in every rumor.",
-    "source_quote": "The Ember Vanguard has a legend now that walks a tunnel ahead of us, and it lies about our height.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "cleaver and heart as evidence",
-    "fact": "A cleaver and a heart are physical evidence tied to the crime, but do not identify the perpetrator.",
-    "source_quote": "You have a confession, a heart, and a cleaver.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Dawnbringer's psychic connection",
-    "fact": "Dawnbringer communicates mentally, with a sound like a palm slapping stone, indicating a psychic link.",
-    "source_quote": "a click inside my skull, a sound like a palm slapping stone",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Candlekeep Avowed hierarchy",
-    "fact": "The Avowed of Candlekeep are subject to internal politics, with leadership changing via vote.",
+    "subject": "Bookwyrm's potential dismissal",
+    "fact": "Bookwyrm may be dismissed from her position due to suspicion, with the new head of Candlekeep likely to demand a Zone of Truth as her first act.",
     "source_quote": "The new head may give Bookwyrm one of two choices: continue as a member of the Avowed, or submit to a Zone of Truth.",
     "quote_verified": false
   },
   {
     "type": "event",
-    "subject": "Kalan Strongbranch's cowardice",
-    "fact": "Kalan avoids direct confrontation with Bookwyrm out of fear she may become his superior.",
-    "source_quote": "He's not going to do it without her permission \u2014 how about I put it that way?",
+    "subject": "Alkrist's confession",
+    "fact": "Alkrist confessed to killing Janussi under Kalan's spell, and the confession was deemed insufficient by academic standards despite being legally valid.",
+    "source_quote": "Alkrist had confessed. Kalan Strongbranch hadn't yet come back into the room, and we knew there was a thread running from all this back to A'lai.",
     "quote_verified": true
   },
   {
     "type": "object",
-    "subject": "Fembris Lancer as potential successor",
-    "fact": "Fembris Lancer is likely to be elected as the new head of the Avowed after Bookwyrm's downfall.",
-    "source_quote": "Fembris Lancer will probably get elected the new avowed",
+    "subject": "Kalan's academic paper",
+    "fact": "Kalan's paper argues that a single source of truth (like a confession) is insufficient \u2014 three different kinds of evidence are required.",
+    "source_quote": "My paper says you can't rely on one source of truth; you need three different kinds.",
     "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep naming ceremony",
+    "fact": "A naming ceremony for the new head of Candlekeep will occur tomorrow, and Bookwyrm is expected to be passed over.",
+    "source_quote": "Tomorrow there will be a naming ceremony \u2014 and with all of this suspicion over her name, the confession, the information\u2026 the vote will go elsewhere.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zone of Truth spell mechanics",
+    "fact": "The Zone of Truth spell does not guarantee truth \u2014 it reveals whether the target can lie, making resistance detectable.",
+    "source_quote": "The spell doesn't hand you the truth. It hands you the ability to watch someone refuse it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz's contingency plan",
+    "fact": "Daz's contingency plan is to 'start hacking and slashing' if things go sideways \u2014 a comfort, not a strategy.",
+    "source_quote": "If things go sideways, we can always start hacking and slashing.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Ember Vanguard's infamy",
+    "fact": "The Ember Vanguard is infamous underground, with a legend that walks ahead of the party in every rumor, bigger and meaner than the four of them.",
+    "source_quote": "The Ember Vanguard has a legend now that walks a tunnel ahead of us, and it lies about our height.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Infamous definition clarification",
+    "fact": "The term 'infamous' was questioned and confirmed to mean 'extra famous' \u2014 a bad joke that earned a half-groan.",
+    "source_quote": "Infamous,\" I said. \"You know that's supposed to mean extra famous.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "magic book for Bookwyrm's proof",
+    "fact": "A magic book will be sought after the fact \u2014 to prove Bookwyrm's culpability \u2014 to be obtained from the new head of Candlekeep.",
+    "source_quote": "We use our reward to access the thing that will do her in... the book will come from the new head of Candlekeep.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Kalan's shift from stealth to open confrontation",
+    "fact": "Kalan changed from covert casting of Zone of Truth to demanding open submission \u2014 motivated by fear of future repercussions.",
+    "source_quote": "I will not sneak this time. We will walk in, and we will boldly demand that she submit to a Zone of Truth.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin's pursuit of physical evidence",
+    "fact": "Thorin sought physical evidence tying Bookwyrm to placing the heart in the chalice, but was reminded that concealment is not commission.",
+    "source_quote": "Is there any physical evidence, anything else, we can bring to bear here?",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Academic principle vs justice",
+    "fact": "The group debated whether academic rigor (requiring three evidentiary types) outweighs practical justice (concluding guilt from confession and context).",
+    "source_quote": "What matters more to an academic? Putting the murderer in jail, or being true to their academic principles and their research proposal?",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh posters",
+    "fact": "Gracklstugh still has the party's name on posters \u2014 wrong enough to be cover but their name all the same.",
+    "source_quote": "Gracklstugh still had our name on posters, wrong enough to be cover but our name all the same.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Janussi's cleaver",
+    "fact": "The cleaver found with the heart and confession is evidence of cover-up, but not of identity.",
+    "source_quote": "You have a confession, a heart, and a cleaver. The confession is one spell \u2014 the weakest channel... the heart and the cleaver prove someone covered this up cleverly.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Kalan's patient strategy",
+    "fact": "Kalan advocates patience \u2014 letting suspicion and the naming ceremony do the work instead of direct confrontation.",
+    "source_quote": "Sometimes the clever play is to be patient.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's sentence-worrying",
+    "fact": "Zalthir obsesses over wording \u2014 repeatedly questioning how phrases were spoken to extract meaning.",
+    "source_quote": "Zalthir went back to the wording, which is his instinct \u2014 worry the sentence until it gives.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep library",
+    "fact": "A magic book exists in the Candlekeep library that could prove Bookwyrm\u2019s culpability \u2014 to be retrieved after the naming ceremony.",
+    "source_quote": "There's got to be a book somewhere in the library we can use to actually get to the bottom of this.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Kalan's moral compromise",
+    "fact": "Kalan plans to give Bookwyrm a chance to decline the Zone of Truth \u2014 knowing refusal implies guilt, making her politically untenable.",
+    "source_quote": "We will give her the opportunity to decline. Her declining will further weaken her support among the other Avowed.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin's final solution",
+    "fact": "Thorin's final solution is to use the reward to obtain a magic book that proves Bookwyrm\u2019s guilt after the fact \u2014 avoiding suspicion during the process.",
+    "source_quote": "We use our reward to access the thing that will do her in. That's much better.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Bookwyrm's chalice",
+    "fact": "The heart was placed in the chalice of the statue by Bookwyrm \u2014 the central act of concealment.",
+    "source_quote": "We think Bookwyrm extracted the heart and put it in the chalice of the statue, right?",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz's floor strategy",
+    "fact": "Daz provides a floor \u2014 hacking and slashing \u2014 as a fallback when all strategy fails.",
+    "source_quote": "If things go sideways, we can always start hacking and slashing.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Fembris Lancer's expected election",
+    "fact": "Fembris Lancer is expected to be elected the new Avowed, replacing Bookwyrm due to suspicion.",
+    "source_quote": "Fembris Lancer will probably get elected the new avowed.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "A'lai's political position",
+    "fact": "A'lai will not be named the new head of Candlekeep \u2014 suspicion extends to him as well.",
+    "source_quote": "A'lai won't be named either.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The three evidentiary types",
+    "fact": "The group identifies three elements: confession, heart, cleaver \u2014 and debates whether they constitute three types of evidence.",
+    "source_quote": "You have a confession. A heart and a cleaver.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Alkrist's cell",
+    "fact": "Alkrist is confined and finished \u2014 his confession, the cleaver, and the blood have sealed his fate.",
+    "source_quote": "Alkrist is finished \u2014 his confession, the cleaver, the blood.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Dawnbringer's telepathic communication",
+    "fact": "Dawnbringer communicates telepathically \u2014 her voice clicks inside the speaker\u2019s skull like a palm slapping stone.",
+    "source_quote": "And then a click inside my skull, a sound like a palm slapping stone, whatever that was supposed to mean.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin's realization of academic irony",
+    "fact": "Thorin realizes that Kalan\u2019s own academic standard now protects the person they want to convict \u2014 the irony is noted.",
+    "source_quote": "I filed that quietly under the column marked *irony*. The man wrote the standard, and the standard he wrote now shelters the person we most want to reach.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The group's final agreement",
+    "fact": "The group agrees to hand the case to Kalan, wait for the naming ceremony, and use their reward to obtain a book that proves Bookwyrm's guilt.",
+    "source_quote": "Alright, so we've got to nail Bookwyrm... We use our reward to access the thing that will do her in.",
+    "quote_verified": false
   },
   {
     "type": "date",
@@ -184,211 +296,169 @@
   {
     "type": "event",
     "subject": "one more thing",
-    "fact": "One more thing is the final twist in the scheme, revealed after the audience believes the conflict is resolved.",
+    "fact": "One more thing happens after she believes she has won.",
     "source_quote": "one more thing",
     "quote_verified": true
   },
   {
     "type": "object",
-    "subject": "potion of flying",
-    "fact": "The potion of flying was stolen from the safe by Glabbagool's arm while everyone was distracted.",
+    "subject": "potion of flying value",
+    "fact": "The potion of flying was stolen from the safe and taken by Glabbagool.",
     "source_quote": "my Glabbagool arm swipes the potion of flying",
     "quote_verified": true
   },
   {
     "type": "object",
     "subject": "red herring coin",
-    "fact": "One gold coin in the safe bore a red herring stamp, a deliberate red herring.",
+    "fact": "One gold coin in the safe had a red herring stamped on it.",
     "source_quote": "one of the gold coins had a herring stamped on it, and the herring was red",
     "quote_verified": false
   },
   {
     "type": "location",
     "subject": "Deneir's Sanctum",
-    "fact": "The adventurers were escorted to Deneir's Sanctum to wait under guard, treated as protected witnesses.",
-    "source_quote": "I will ask Kalan Strongbranch to escort you to Deneir's Sanctum",
-    "quote_verified": false
+    "fact": "The adventurers were escorted to Deneir's Sanctum to wait out the evening under guard.",
+    "source_quote": "I will ask him to escort you to Deneir's Sanctum",
+    "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "taster for food",
-    "fact": "Fembris Lancer was unofficially appointed as the food taster, accepting the risk without suspicion.",
+    "subject": "taster selection",
+    "fact": "Fembris Lancer was chosen as the taster for the food with the number 118.",
     "source_quote": "I'd say 118",
     "quote_verified": true
   },
   {
     "type": "object",
     "subject": "sapphire detection",
-    "fact": "A Locate Object spell was cast to detect a sapphire on Bookwyrm; none was found.",
-    "source_quote": "I'm hoping she has one on her \u2014 that would be interesting",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "safe sealed and ignored",
-    "fact": "The safe was closed and declared of no interest, despite containing the potion of flying and the red herring coin.",
-    "source_quote": "They closed the safe with everything still inside... and declared it of no interest",
+    "fact": "The spell Locate Object found no sapphire on Bookwyrm.",
+    "source_quote": "I'm hoping she has one on her \u2014 that would be interesting. It was not interesting.",
     "quote_verified": false
   },
   {
     "type": "event",
-    "subject": "cure for Daral",
-    "fact": "The party deliberated whether to cure Daral of his condition, leaving the decision unresolved.",
-    "source_quote": "Should we cure him?",
+    "subject": "safe sealed",
+    "fact": "The safe was sealed with its contents declared of no interest.",
+    "source_quote": "They closed the safe with everything still inside... and declared it of no interest.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Kalan reinstated",
+    "fact": "Kalan Strongbranch was reinstated as head of the Avowed after the investigation.",
+    "source_quote": "Would you be so willing as to take your position once more?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "accusation of accomplices",
+    "fact": "The group publicly acknowledged the existence of accomplices without naming Bookwyrm.",
+    "source_quote": "Yeah \u2014 we know there are accomplices",
     "quote_verified": true
   },
   {
     "type": "event",
     "subject": "Bookwyrm's relief",
-    "fact": "Bookwyrm was genuinely relieved that the investigation had concluded and the adventurers were removed from play.",
-    "source_quote": "she was delighted to have us wrapped up and out of everything",
+    "fact": "Bookwyrm was relieved, not heartbroken, upon learning of Alkrist's confession.",
+    "source_quote": "Alkrist. I could never have imagined it.",
     "quote_verified": true
   },
   {
     "type": "event",
     "subject": "Glabbagool's satisfaction",
-    "fact": "Glabbagool expressed approval of the flying skill acquired from the potion, calling it a good skill.",
+    "fact": "Glabbagool was pleased with the stolen potion of flying and deemed it a good skill.",
     "source_quote": "I like the flying skill. That was a good skill.",
     "quote_verified": false
   },
   {
     "type": "location",
-    "subject": "Deneir's Sanctum as cell",
-    "fact": "Deneir's Sanctum, normally a place of scholarship, was repurposed as a guarded waiting room.",
-    "source_quote": "a room built for people who read for a living, now doing duty as a cell",
+    "subject": "Alkrist's safe",
+    "fact": "Alkrist's safe was opened in the presence of the Avowed and found to contain a potion of flying, healing potion, gold, and a red herring coin.",
+    "source_quote": "A potion of flying. A potion of superior healing. A fat purse of gold coins... one of the gold coins had a herring stamped on it, and the herring was red.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Fembris's punishment",
+    "fact": "Fembris Lancer was assigned to keep the adventurers company as his penance.",
+    "source_quote": "Fembris Lancer was already in there, serving out his own punishment by keeping us company.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "Kalan's resurgence",
-    "fact": "Kalan Strongbranch resumed his position of authority after the investigation, believing his methods had been vindicated.",
-    "source_quote": "how our actions had proven the value of his methods",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "healing potion",
-    "fact": "A potion of superior healing remained in the sealed safe, unclaimed.",
-    "source_quote": "A potion of superior healing",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "purse of gold coins",
-    "fact": "A fat purse of gold coins, more than a man keeps for honest reasons, was found in the safe.",
-    "source_quote": "A fat purse of gold coins, more than a man keeps for honest reasons",
-    "quote_verified": true
+    "subject": "House arrest avoidance",
+    "fact": "The adventurers were not under house arrest, but were escorted to Deneir's Sanctum for protection.",
+    "source_quote": "No, no, no. You currently hold the most important evidence... I'm simply doing this to protect you.",
+    "quote_verified": false
   },
   {
     "type": "date",
     "subject": "session date",
-    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
-    "source_quote": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "An hour passes between two events in the session.",
-    "source_quote": "An hour later",
-    "quote_verified": false
-  },
-  {
-    "type": "monster",
-    "subject": "chasme count",
-    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
-    "source_quote": "four chasme and two vrock",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "travel to Sloobludop",
-    "fact": "Sloobludop is approximately eight days away via the Darklake.",
-    "source_quote": "the town of Sloopdopblop is just eight days away",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Velkynvelve elevation",
-    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
-    "source_quote": "Drow outpost was 100' in the sky",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "silver candlestick value",
-    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
-    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Ambush of the Helmed Horrors",
-    "fact": "Glass and wood came in at the same time, from three directions, and for a breath none of us had moved.",
-    "source_quote": "Glass and wood came in at the same time, from three directions, and for a breath none of us had moved.",
+    "fact": "The session occurs on the day of the ambush in Deneir's Sanctum.",
+    "source_quote": "## Thorin \u2014 Ambush of the Helmed Horrors",
     "quote_verified": true
   },
   {
     "type": "monster",
     "subject": "helmed horror count",
-    "fact": "Three suits of plate with nobody inside, walking and hovering, lifting a hand's width off the floor and drifting.",
-    "source_quote": "Three suits of plate with nobody inside, walking and \u2014 this was the part that made my neck itch \u2014 hovering, lifting a hand's width off the floor and drifting.",
+    "fact": "Three helmed horrors are present in the ambush, suits of plate with nobody inside, hovering and drifting, with points of light where eyes should be.",
+    "source_quote": "Glass and wood came in at the same time, from three directions, and for a breath none of us had moved. \"Seems like it's a helmed horror?\" ... Suits of plate with nobody inside, walking and \u2014 this was the part that made my neck itch \u2014 hovering, lifting a hand's width off the floor and drifting. Little points of light where eyes should be.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "travel to key location",
+    "fact": "The key in Daz's pocket is the target of the helmed horrors, drawn to it through plate and pocket alike, with no regard for person or spell.",
+    "source_quote": "Daz passed the key to Grygum and threw the last of what he had at the one he'd been burning \u2014 three darts of light, all home. And the horror turned on a coin and went for Grygum instead... They weren't following a face. They were following the key itself, sniffing it out through plate and pocket both.",
     "quote_verified": false
   },
   {
     "type": "location",
-    "subject": "Deneir's office",
-    "fact": "We sat in Deneir's office, fed by proxy, our patient healed, wondering how the story was going to end.",
-    "source_quote": "We sat in Deneir's office, fed by proxy, our patient healed, wondering how the story was going to end.",
+    "subject": "Deneir's Sanctum elevation",
+    "fact": "Deneir's Sanctum is the room where the ambush occurred, with windows shattered and glass on the floor, the ceiling and walls breached by intruding armor.",
+    "source_quote": "Glass and wood came in at the same time, from three directions... Glass on the floor, dust settling, two dead heaps and one silent inert key three assassins had bled to reach.",
     "quote_verified": false
   },
   {
     "type": "object",
-    "subject": "Dawnbringer's sentience",
-    "fact": "Dawnbringer was drinking it in. A sword that spends its days pointed at fungus and undead, being told at length that it is beautiful, that it is worthy of study.",
-    "source_quote": "Dawnbringer was drinking it in. A sword that spends its days pointed at fungus and undead, being told at length that it is beautiful, that it is worthy of study.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Daz's revelation",
-    "fact": "The key in his pocket was dead, inert \u2014 and three suits of murderous plate had come through the windows to die for it.",
-    "source_quote": "The key in his pocket was dead, inert \u2014 and three suits of murderous plate had come through the windows to die for it.",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "key's detection property",
-    "fact": "The key itself, sniffing it out through plate and pocket both, was the only thing the helmed horrors followed.",
-    "source_quote": "The key itself, sniffing it out through plate and pocket both, was the only thing the helmed horrors followed.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Dawnbringer's activation",
-    "fact": "The blade lit, poured into Daral, and took the sickness with it. He straightened. He breathed. In the space of a heartbeat he was a well man, and he was ecstatic.",
-    "source_quote": "The blade lit, poured into Daral, and took the sickness with it. He straightened. He breathed. In the space of a heartbeat he was a well man, and he was ecstatic.",
+    "subject": "key value",
+    "fact": "The key in Daz's pocket is inert, undetectable by magic, yet irresistible to the helmed horrors, who died to reach it.",
+    "source_quote": "A key that read as nothing under every spell we'd thrown at it. Dead. Inert. And three suits of murderous plate had come through the windows to die for it.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "Combat resolution",
-    "fact": "The last of them folded down into piles of rust and loose plate, like they'd never been anything but junk somebody stacked up.",
-    "source_quote": "The last of them folded down into piles of rust and loose plate, like they'd never been anything but junk somebody stacked up.",
+    "type": "object",
+    "subject": "Dawnbringer value",
+    "fact": "Dawnbringer is a sentient sword that responds to being called beautiful and worthy of study, and its magic slows and destabilizes enemies.",
+    "source_quote": "Dawnbringer eats it up, I'm sure... a sword that spends its days pointed at fungus and undead, being told at length that it is beautiful, that it is worthy of study \u2014 I watched the whole demeanor of the thing open up... I brought her around and caught the one closest to me clean \u2014 a real bite, staggering it. Then the sword did its thing: the horror's movements went slow and sloppy, off-balance for its next swing.",
     "quote_verified": false
   },
   {
-    "type": "location",
-    "subject": "Deneir's office",
-    "fact": "The story answered. 'Combat?' Zalthir said. Yes. Combat.",
-    "source_quote": "The story answered. 'Combat?' Zalthir said. Yes. Combat.",
+    "type": "event",
+    "subject": "lesser restoration usage",
+    "fact": "A lesser restoration was cast on Daral, removing his sickness and restoring him to health, which he then used to begin research.",
+    "source_quote": "a lesser restoration I now got to keep in the bank. The blade lit, poured into Daral, and took the sickness with it. He straightened. He breathed. In the space of a heartbeat he was a well man...",
     "quote_verified": false
   },
   {
     "type": "object",
-    "subject": "Dawnbringer as divining rod",
-    "fact": "Can we grab one of them and use it to detect who else has the key? Turn it into a sort of divining rod, as it were.",
-    "source_quote": "Can we grab one of them and use it to detect who else has the key? Turn it into a sort of divining rod, as it were.",
+    "subject": "Glabbagool acid value",
+    "fact": "Glabbagool's acid is capable of dissolving plate armor, eating through metal cleanly and leaving rusted wreckage.",
+    "source_quote": "Glabbagool's last mouthful of acid to go with it. Plate hissed and ran. Their armor was good, real good, and Glabbagool ate a piece of it clean off.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "combat outcome",
+    "fact": "The helmed horrors were destroyed through coordinated attacks using fire, acid, brute force, and tactical positioning, leaving only rusted wreckage.",
+    "source_quote": "The suit came apart where it stood, and the last of them folded down into piles of rust and loose plate, like they'd never been anything but junk somebody stacked up.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "divining rod proposal",
+    "fact": "A proposal was made to repurpose a destroyed helmed horror as a divining rod to detect others who possess the key.",
+    "source_quote": "Can we grab one of them and use it to detect who else has the key? I said. Turn it into a sort of divining rod, as it were.",
     "quote_verified": false
   }
 ]

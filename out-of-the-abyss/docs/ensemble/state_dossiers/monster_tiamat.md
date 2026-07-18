@@ -6,16 +6,15 @@ chapters: 56-56
 ---
 
 ### Tiamat  
-**Current status:** Alive (implied by ongoing theological reference)  
-**Current location:** Unknown (no location specified; not bound to any plane or site in given fact)  
-**Allegiance/faction:** None (not described as serving or allied to any entity)  
-**Current possessions / notable items, spells, feats, wounds:** None specified  
-**Current assignment / role and key relationships:** None specified; not described as acting or interacting in the present  
-**Defining recent actions:** Denied power by a mortal dwarf’s choice — cited as a foundational example in the Stroudite school to demonstrate mortal sovereignty.  
-**Revealed motivations or secrets:** None specified beyond the event of being denied power.  
+Current status: Alive (implied by active denial of power)  
+Current location: Unknown (no location specified)  
+Allegiance/faction: None (primordial dragon deity; no allegiance indicated)  
+Current possessions / notable items, spells, feats, wounds: None specified  
+Current assignment / role and key relationships: None specified; previously sought power, now denied  
+Defining recent action: Her power was denied due to a dwarf’s choice, as cited by the Stroudite school as proof of sovereign mortal agency.  
 
 ## Uncertainty  
-- The exact nature of how or when the dwarf denied her power is unspecified.  
-- Whether Tiamat is currently active, dormant, imprisoned, or otherwise affected beyond that single event is unclear.  
-- The Stroudite school’s current influence or whether Tiamat is still referenced as an active theological counterpoint is not confirmed.  
-- No indication whether Tiamat retains any power, is weakened, or has retaliated since the event.
+- The exact nature of the “denial of power” is not defined — whether it is a loss of influence, a magical barrier, or a metaphysical constraint.  
+- The dwarf’s identity, location, or current status is unknown.  
+- Whether Tiamat is actively seeking to reclaim her power or has accepted the denial is not stated.  
+- No indication of her physical presence, plane of existence, or interactions with other entities since this event.

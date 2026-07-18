@@ -2,79 +2,127 @@
   {
     "type": "npc",
     "subject": "Daz",
-    "fact": "Daz is a categorically valuable eighth-level wizard who has kept four people alive through the Underdark, demon lords, a dragon, and House politics, and is currently the subject of active theoretical murder planning while under surveillance by a restrained enemy.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Zalthir",
-    "fact": "Zalthir is the Pocket Spy, a drow agent shrunk to toy-sized by a magical mushroom, now confined in a bag of holding with Glabbagool, under constant surveillance, breathing through punched holes, and shielded from sunlight as an act of mercy.",
+    "fact": "Daz is an eighth-level wizard who kept four people alive through the Underdark, demon lords, and House politics, and has been valuable because someone with resources believes observing what happens to him may reveal a person they are interested in.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum wields shrunken but more potent prayer beads, believes misinformation is a tactical tool, and has assigned Glabbagool to control the miniaturized drow spy, demonstrating a calm, methodical approach to psychological pressure and control.",
+    "fact": "Grygum possesses prayer beads at full power despite being shrunken, believes they may be more deadly, and holds a Revivify spell; he is the one who proposed and orchestrated the plan to temporarily kill Daz to test who is protecting him.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Thorin",
-    "fact": "Thorin orchestrates the psychological containment of the drow spy, nicknames her 'Polly Pocket' to demean her, insists on using the bag of holding with ventilation holes, and demands Glabbagool be granted a question at Candlekeep \u2014 all while treating therapy, knowledge, and power as interconnected currencies.",
+    "fact": "Thorin is skeptical of all deception, insists on practical solutions, and ordered the miniaturization of the drow spy into a 'Polly Pocket' size, then mandated her containment in a bag of holding with holes for ventilation and shielding from sunlight as an act of calculated mercy.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is the Pocket Spy, now miniaturized and contained in the bag of holding, and is the subject of active theoretical murder planning by the party; her fate is tied to the interrogation of who is protecting Daz.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Glabbagool",
-    "fact": "Glabbagool is an ooze who has spent days in a bag of holding watching a shrunken drow spy with one unblinking eye, believes donating all books to Candlekeep to ask infinite questions is the only logical course, and demonstrates eerie emotional intelligence by producing proliferating googly eyes to appear less threatening.",
+    "fact": "Glabbagool is an ooze who has spent days in the bag of holding with the miniaturized drow spy as his only company, watches her with one unblinking eye, and is the only member of the party with no social conditioning around knowledge limits \u2014 he is confused why the party does not donate all books to Candlekeep to ask unlimited questions.",
     "quote_verified": false
   },
   {
     "type": "faction",
     "subject": "House T'sarran",
-    "fact": "House T'sarran has sent a miniaturized drow spy into the party\u2019s custody, expects her to escape or be recovered, and has threatened vengeance \u2014 but its agents are being systematically neutralized through psychological, magical, and informational means rather than direct confrontation.",
+    "fact": "House T'sarran sent the miniaturized drow spy to gather intelligence on Daz and the party, and has demonstrated the capacity to send additional agents even if the current spy is captured or killed.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep requires one book per group for entry, but grants increased 'FaceTime' with avowed sages for each additional book provided; the party submitted five books \u2014 including the Velkynvelve Prisoner Journal, Ilvara's prayer book with Zuggtmoy marginalia, and Asha Vandree's theological treatise \u2014 to gain access and ask multiple questions.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "prayer beads",
+    "fact": "The prayer beads are shrunken but operating at full power, possibly more deadly than their original form, and are being used by Grygum as a tool of psychological pressure against the drow spy.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "bag of holding",
+    "fact": "The bag of holding contains the miniaturized drow spy, is ventilated with holes for breathing, is shielded from sunlight as a mercy, and is carried by Glabbagool, who watches her with one eye while walking.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Velkynvelve Prisoner Journal",
+    "fact": "The Velkynvelve Prisoner Journal is one of five books submitted to Candlekeep; it was received with reverence by the First Reader and is considered a masterpiece of drow prison documentation.",
     "quote_verified": false
   },
   {
     "type": "event",
-    "subject": "Candlekeep entry",
-    "fact": "The party gained access to Candlekeep by surrendering five rare books \u2014 including the Velkynvelve Prisoner Journal, Ilvara\u2019s Zuggtmoy marginalia, and Asha Vandree\u2019s theological treatise \u2014 and secured five questions, one of which was allocated to Glabbagool, triggering institutional fascination and the First Reader\u2019s reverence for drow prison records.",
+    "subject": "temporary death of Daz",
+    "fact": "Grygum proposed and the party agreed to temporarily kill Daz using a Revivify spell to determine who is protecting him; the plan was treated as a controlled experiment with no enforcement mechanism beyond mutual interest.",
     "quote_verified": false
   },
   {
-    "type": "object",
-    "subject": "shrunken prayer beads",
-    "fact": "The prayer beads, though physically diminished, have increased potency and are used by Grygum to psychologically intimidate the drow spy, broadcasting misinformation about their power to destabilize her sense of agency and control.",
+    "type": "event",
+    "subject": "miniaturization of the drow spy",
+    "fact": "The drow spy was shrunk to the size of a child's toy using a mushroom, rendered voice-pitched and indignant, and given the demeaning nickname 'Polly Pocket' by Thorin; she is now contained in the bag of holding under Glabbagool\u2019s surveillance.",
     "quote_verified": false
   },
   {
-    "type": "object",
-    "subject": "bag of holding containing the drow spy",
-    "fact": "The bag of holding contains the miniaturized drow spy, pierced with ventilation holes to allow breathing, shielded from sunlight as a deliberate act of mercy, and monitored by Glabbagool \u2014 transforming it from a container into a psychological prison and a symbol of institutionalized control.",
+    "type": "event",
+    "subject": "submission of five books to Candlekeep",
+    "fact": "The party submitted five books \u2014 Princess Ebonmire\u2019s spellbook, Ilvara\u2019s prayer book, Asha Vandree\u2019s theological argument, the Velkynvelve Prisoner Journal, and Pliinki\u2019s journal \u2014 to gain FaceTime with Candlekeep\u2019s avowed; this exceeded the standard one-book requirement and enabled multiple questions to be asked.",
     "quote_verified": false
   },
   {
-    "type": "monster",
-    "subject": "miniaturized drow spy",
-    "fact": "The drow spy, reduced to the size of a child\u2019s toy, is no longer a tactical threat but a psychological object \u2014 her voice pitched into insectile fury, her movements confined, her identity mocked as 'Polly Pocket,' and her survival now dependent on the mercy of her captors and the steady gaze of an ooze.",
+    "type": "event",
+    "subject": "Glabbagool's question at Candlekeep",
+    "fact": "Glabbagool, the ooze, was granted one question at Candlekeep despite having no prior social conditioning around knowledge limits; his confusion over why the party does not donate all books to ask unlimited questions was noted as a bracing perspective.",
     "quote_verified": false
   },
   {
     "type": "thread",
-    "subject": "Glabbagool\u2019s one question",
-    "fact": "The party has reserved one question at Candlekeep for Glabbagool \u2014 a creature with no past, no allegiances, and no concept of knowledge limits \u2014 and the nature of his question remains unknown, but its potential to reveal fundamental truths about the world is the most significant unresolved variable in the group\u2019s journey.",
+    "subject": "who is protecting Daz",
+    "fact": "The entire party\u2019s strategy revolves around determining who is protecting Daz \u2014 whether through magical surveillance, divine intervention, or hidden allegiance \u2014 and the temporary death plan, the prayer beads, and the spy\u2019s containment are all tools to expose that protector.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Glabbagool's one question",
+    "fact": "Glabbagool\u2019s single question at Candlekeep remains unknown, but the party is intensely curious what a creature with no past, no allegiances, and a singular earnest interest in understanding the world would choose to know \u2014 and the answer may redefine their understanding of knowledge itself.",
     "quote_verified": false
   },
   {
     "type": "location",
     "subject": "Candlekeep",
-    "fact": "Candlekeep is an immense, self-important library where knowledge is gated by book donations, and access to sages is earned through material offerings \u2014 the party\u2019s five rare texts have unlocked FaceTime, institutional curiosity, and the First Reader\u2019s obsession with drow prison records.",
+    "fact": "Candlekeep is an enormous, self-important library with rules requiring one book per group for entry and granting increased access to sages for additional books; it houses vast archives of drow prison journals and is the destination for the party\u2019s mission to interrogate hidden truths.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "bag of holding interior",
+    "fact": "The interior of the bag of holding is a confined, dark space where the miniaturized drow spy is held with holes for ventilation and shielded from sunlight; Glabbagool watches her with one eye, making it the most surveilled and psychologically oppressive prison the party has devised.",
     "quote_verified": false
   },
   {
     "type": "date",
-    "subject": "road to Candlekeep",
-    "fact": "The journey to Candlekeep spanned weeks of psychological warfare, misinformation, and the transformation of the drow spy from a threat into a confined, mocked, and surveilled object \u2014 a period during which Glabbagool\u2019s quiet, unblinking attention became the most stable and earnest force in the party.",
+    "subject": "journey to Candlekeep",
+    "fact": "The journey to Candlekeep lasted weeks, during which the party developed their plan to use the drow spy as bait, miniaturized her, contained her, and prepared their five books for entry \u2014 a period of psychological manipulation, logistical planning, and philosophical reflection.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is an ooze capable of producing proliferating eyes as affectations to appear friendly, but his true perception is non-human; he has been assigned the task of watching the miniaturized drow spy continuously in the bag of holding, and his steady, unblinking attention is the most earnest form of control the party has.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "the drow spy",
+    "fact": "The drow spy, now miniaturized and known as 'Polly Pocket,' is a captured agent of House T'sarran who was shrunk, contained, surveilled, and subjected to misinformation about prayer beads and the threat of death; she is being used as bait to expose who is protecting Daz, and is visibly reconsidering her options.",
     "quote_verified": false
   }
 ]

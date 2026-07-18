@@ -1,44 +1,43 @@
 ---
 name: Jorlan Duskryn
 type: npc
-n_facts: 31
+n_facts: 27
 chapters: 1-51
 ---
 
 ### Jorlan Duskryn
 
-**Current status:** Alive, but severely wounded.  
-**Current location:** Cavern near the ruined bridge, staggering across the floor after being struck by a lightning bolt.  
-**Allegiance/faction:** None — formerly Ilvara Mizzrym’s number-one servant, now a solitary figure driven by personal vengeance.  
+**Current status:** Alive, but severely compromised — staggered and wounded after being struck by a lightning bolt.  
+**Current location:** Staggering across the cavern floor, post-battle, near the site of the bridge collapse and insect swarm zone.  
+**Allegiance/faction:** None; formerly a high-ranking servant of Ilvara Mizzrym, now a solitary, emotionally driven actor with no formal allegiance.  
 **Current possessions / notable items, spells, feats, wounds:**  
-- Scarred facial disfigurement and missing finger from acid attack.  
-- Capable of inscribing Glyphs of Warding into terrain (demonstrated on the bridge).  
-- Sustained by hatred, not infected by fungal corruption.  
-- Recently struck by a lightning bolt — staggered, off-balance, but not fallen.  
-- Wounded pride and emotional trauma from Ilvara’s rejection.  
+- Scarred face and missing finger from acid disfigurement (past injury, still present).  
+- Inscribed Glyphs of Warding into terrain (tactical ability demonstrated, but no current evidence he is actively inscribing).  
+- Resists fungal corruption through hatred of Ilvara (confirmed immunological state).  
+- Sustains a severe wound from a lightning bolt (ch51), and prior damage from Grygum’s Glyph of Warding and Thorin’s Dawnbringer (ch49–50).  
+- AC 18 (demonstrated in ch50).  
 
 **Current assignment / role and key relationships:**  
-- Actively pursuing Ilvara Mizzrym in a personal reckoning, having broken from combat to charge her through an insect swarm.  
-- Previously manipulated by Thorin into triggering a Glyph of Warding on the bridge — now a reactive, emotionally volatile force in battle.  
-- Daz’s brother — their relationship is a source of narrative weight, with Daz observing and filing Jorlan’s actions as significant personal drama.  
-- Distrusted by the party; not aligned with any faction or group.  
+- No assigned role. Acted as a tactical anchor and area-denial operator on the bridge (ch49–50), but now abandoned all tactical positioning.  
+- Primary relationship: Obsessively fixated on Ilvara Mizzrym — former lover, who discarded him after his disfigurement. His actions are driven by unresolved emotional trauma, not strategy.  
+- Brother to Daz Duskryn (ch51).  
+- Target of Nym’s redirected frustration (ch51).  
+- Not trusted by the party; perceived as a predictable, emotionally volatile threat (ch49–50).  
 
 **Defining recent actions:**  
-- Charged Ilvara Mizzrym through an active insect plague, abandoning tactical positioning to confront her directly.  
-- Screamed “ILVARA” — not in rage, but as a raw, wounded cry — triggering a violent, personal confrontation.  
-- Was struck by a lightning bolt during the magical chaos of the battle, staggering across the cavern floor.  
-- Became the target of Nym’s redirected frustration following the strike.  
+- Charged across an insect swarm toward Ilvara Mizzrym, calling her name with raw, wounded urgency — abandoning all tactical alignment (ch51).  
+- Previously triggered his own Glyph of Warding on the bridge by charging recklessly into it, drawn by emotional reaction to provocation (“Come get it, idiot”) — took full damage and was left staggered (ch49–50).  
+- Was one of only three individuals uninfected by Ilvara’s spores, sustained by hatred (ch49–50).  
 
 **Revealed motivations or secrets:**  
-- His rejection by Ilvara — after being disfigured and discarded — is the core of his identity and motivation.  
-- His resistance to corruption is not spiritual or disciplined, but rooted in bitter, consuming hatred.  
-- His actions are predictable, emotionally driven, and weaponized by others (e.g., Thorin’s baiting on the bridge).  
-- He is not a traitor to the party — he is a broken man seeking personal justice, even amid apocalypse.  
+- Motivated by deep, unresolved emotional betrayal from Ilvara — not mere anger, but a wound reopened by her rejection after his disfigurement.  
+- His resistance to corruption is explicitly tied to hatred, described as “its own kind of immunological theory” (ch49–50).  
+- Was once the number-one servant of Ilvara’s polycule before being discarded.  
+- Is Daz’s brother, and was regarded as the “dumber” of the two siblings (ch51).  
 
 ## Uncertainty
-- Was Jorlan killed or incapacitated by the lightning bolt? The text says he staggered but does not confirm death or unconsciousness.  
-- Is he still actively pursuing Ilvara after the lightning strike, or is he now incapacitated? The text implies ongoing movement but no resolution.  
-- Did he retain any equipment (weapons, tools) after the bridge confrontation and lightning strike? No current inventory is confirmed.  
-- Is his Glyph of Warding inscribing ability still active? Demonstrated earlier, but no confirmation of current use.  
-- Contradiction: [ch49] describes him as an “uninfected human,” but [ch50] and [ch51] refer to him as a drow — the latter is consistent with all other references, so “human” is likely an error; however, the discrepancy remains uncorrected in source.  
-- Attribution ambiguity: Was the lightning bolt cast by Nym, another entity, or environmental magic? The text says “not technically my problem” (Nym’s voice), but does not confirm Nym caused it.
+- Contradiction: ch51 states Jorlan is “covered in fungus,” yet ch49–50 repeatedly state he is *uninfected* by Ilvara’s spores due to hatred. This is irreconcilable — is he infected, or not?  
+- Ambiguous chronology: ch51 says Jorlan “cleared the bridge collapse alongside Ilvara” — but ch49–50 describe him being damaged by the Glyph *on* the bridge. Did he survive the Glyph detonation and then cross the collapse? Or is “cleared the drop” referring to a different fall?  
+- Unclear attribution: ch51 says Jorlan was struck by a lightning bolt *after* Nym redirected her frustration toward him — but it is unclear whether this was a spell, environmental effect, or weapon strike.  
+- Ambiguous survival: Jorlan is described as “staggering across the cavern floor” after being struck — but no confirmation of death or recovery follows. His current physical state beyond staggering is unknown.  
+- Contradictory identity: ch51 refers to Jorlan as “Daz’s brother” and “covered in fungus,” yet earlier chapters describe him as *uninfected* and distinct from Daz’s fate. Are they the same person? Is this a misattribution?

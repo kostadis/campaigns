@@ -2,176 +2,162 @@
   {
     "type": "npc",
     "subject": "Kalan Strongbranch",
-    "fact": "Kalan Strongbranch was fired from his position after failing to solve the case involving Janussi\u2019s death, but now holds a strategic plan to expose Bookwyrm through patience and institutional politics rather than direct confrontation.",
+    "fact": "Kalan Strongbranch was fired from his position as an investigator at Candlekeep but is now leading the effort to resolve Janussi\u2019s murder, using academic protocol to avoid direct confrontation with Bookwyrm, hoping to preserve his future standing under the new leadership.",
     "source_quote": "I will not sneak this time. We will walk in, and we will boldly demand that she submit to a Zone of Truth.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Bookwyrm",
-    "fact": "Bookwyrm is the current acting head of Candlekeep, suspected of concealing evidence and protecting Alkrist, her nephew, after he confessed to killing Janussi; her fate hinges on the upcoming naming ceremony and whether she submits to a Zone of Truth.",
+    "fact": "Bookwyrm is the current acting head of Candlekeep, suspected of concealing evidence in Janussi\u2019s murder by moving the victim\u2019s heart into the statue\u2019s chalice, and is under threat of removal due to mounting suspicion \u2014 though her innocence has not been proven.",
     "source_quote": "She walks.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Alkrist",
-    "fact": "Alkrist confessed under a Zone of Truth spell to killing Janussi, using a cleaver and removing the victim\u2019s heart; his confession is legally binding but insufficient to prove Bookwyrm\u2019s complicity without corroborating evidence.",
+    "fact": "Alkrist confessed under Kalan\u2019s Zone of Truth spell to killing Janussi with a cleaver, but his confession does not explain who moved the heart or why \u2014 suggesting he is being used as a scapegoat to protect someone else.",
     "source_quote": "He'd killed Janussi.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Thorin",
-    "fact": "Thorin leads the group\u2019s decision-making, advocating for handing the case to Kalan to preserve his dignity after his firing, and persistently seeks a magical book to conclusively prove Bookwyrm\u2019s guilt after the fact.",
+    "fact": "Thorin is the de facto leader of the group, focused on securing justice and reward, advocating for handing the case to Kalan to preserve his dignity after his firing, and pushing for tangible evidence \u2014 especially a magical book \u2014 to definitively implicate Bookwyrm.",
     "source_quote": "Alright. I think we just hand it to him \u2014 let him save face, since he got fired \u2014 with the understanding that they make good on the promise: we get our reward for helping crack the case.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Zalthir",
-    "fact": "Zalthir is the group\u2019s linguistic and procedural analyst, obsessively parsing wording and protocol to expose loopholes in Kalan\u2019s academic reasoning and the legal validity of the Zone of Truth spell.",
+    "fact": "Zalthir is the linguistic and procedural analyst of the group, obsessively examining wording, spell mechanics, and protocol to expose loopholes \u2014 particularly in the Zone of Truth spell and Kalan\u2019s academic reasoning.",
     "source_quote": "Sorry \u2014 how did he open that little diatribe? What was the first thing he said about the confession?",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Daz",
-    "fact": "Daz is the group\u2019s pragmatic contingency planner, always ready with the fallback option of violence \u2014 'hacking and slashing' \u2014 as a solution when diplomacy or academia fails.",
+    "fact": "Daz is the pragmatic contingency planner, always ready with a fallback plan of violence \u2014 'hacking and slashing' \u2014 as a safety net when diplomacy or academia fails.",
     "source_quote": "If things go sideways, we can always start hacking and slashing.",
     "quote_verified": true
   },
   {
     "type": "faction",
     "subject": "Candlekeep Avowed",
-    "fact": "The Candlekeep Avowed are the ruling scholarly body of Candlekeep, currently divided over Bookwyrm\u2019s guilt; their upcoming naming ceremony will determine her future, with suspicion alone likely enough to remove her from power.",
-    "source_quote": "The stench of suspicion will be all over her.",
+    "fact": "The Avowed are the governing body of Candlekeep, currently divided by suspicion around Bookwyrm\u2019s role in Janussi\u2019s murder, with a naming ceremony imminent that may replace her with Fembris Lancer or another candidate, and whose internal politics are being manipulated by Kalan\u2019s academic strategy.",
+    "source_quote": "The new head may give Bookwyrm one of two choices: continue as a member of the Avowed, or submit to a Zone of Truth.",
     "quote_verified": false
   },
   {
     "type": "faction",
-    "subject": "The Ember Vanguard",
-    "fact": "The Ember Vanguard is a legendary, larger-than-life criminal faction whose reputation overshadows the party\u2019s own, with false rumors spreading about their size and deeds, making their infamy a burden rather than an asset.",
+    "subject": "Ember Vanguard",
+    "fact": "The Ember Vanguard is a rival group whose legendary status overshadows the party, with exaggerated rumors and false posters in Gracklstugh bearing the party\u2019s name \u2014 contributing to their infamy despite their desire to remain hidden.",
     "source_quote": "The Ember Vanguard has a legend now that walks a tunnel ahead of us, and it lies about our height.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "Naming Ceremony",
-    "fact": "The upcoming naming ceremony at Candlekeep will appoint a new head of the Avowed; Bookwyrm is expected to be passed over due to suspicion, with Fembris Lancer likely to be chosen instead.",
-    "source_quote": "Tomorrow morning's naming ceremony clearly will not name her.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Confession under Zone of Truth",
-    "fact": "Alkrist\u2019s confession was obtained via a Zone of Truth spell cast by Kalan Strongbranch, rendering his statement legally valid but insufficient to convict Bookwyrm due to lack of corroborating evidence or direct linkage.",
+    "subject": "Janussi\u2019s murder investigation",
+    "fact": "The investigation into Janussi\u2019s murder has reached a turning point: Alkrist has confessed under magical compulsion, the heart was moved to a statue\u2019s chalice, and Bookwyrm is the prime suspect for concealment \u2014 but no physical evidence directly ties her to the crime, forcing the group to rely on strategy over proof.",
     "source_quote": "You have a confession, a heart, and a cleaver.",
     "quote_verified": false
   },
   {
-    "type": "monster",
-    "subject": "Janussi's Heart",
-    "fact": "Janussi\u2019s heart was removed post-mortem and placed inside the chalice of a statue, serving as the central physical clue in the investigation; its placement implies deliberate concealment by someone with intimate knowledge of the shrine\u2019s layout.",
-    "source_quote": "She extracted the heart and put it in the chalice of the statue.",
+    "type": "event",
+    "subject": "Candlekeep naming ceremony",
+    "fact": "A formal naming ceremony for the next head of the Avowed is scheduled for tomorrow, and Kalan believes the suspicion surrounding Bookwyrm will ensure she is not chosen \u2014 making her vulnerable to post-ceremony scrutiny and potential removal.",
+    "source_quote": "Tomorrow morning's naming ceremony clearly will not name her.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is a revered library-fortress where scholarly authority and political power are intertwined; its internal politics are now the battleground for justice, with academic principles weaponized to avoid direct confrontation and preserve institutional stability.",
+    "source_quote": "The reality is that all she did was hide a crime. She didn't commit one.",
     "quote_verified": false
   },
   {
     "type": "object",
-    "subject": "Cleaver",
-    "fact": "The cleaver is the murder weapon used to kill Janussi; it bears no fingerprints or identifying marks, and its presence alongside the confession suggests a staged crime scene designed to implicate Alkrist while obscuring the true orchestrator.",
+    "subject": "cleaver",
+    "fact": "The cleaver is the murder weapon used by Alkrist to kill Janussi, found at the scene and presented as physical evidence \u2014 but it only proves the act, not the conspiracy behind it.",
     "source_quote": "The cleaver proves someone covered this up cleverly.",
     "quote_verified": false
   },
   {
     "type": "object",
-    "subject": "Kalan's Paper: 'Three Sources of Truth'",
-    "fact": "Kalan\u2019s academic paper argues that a single source of truth \u2014 such as a confession \u2014 is insufficient for justice; three independent forms of evidence are required. Ironically, this standard now protects Bookwyrm from conviction.",
-    "source_quote": "My paper says you can't rely on one source of truth; you need three different kinds.",
+    "subject": "heart",
+    "fact": "Janussi\u2019s heart was removed from the body and placed inside the chalice of a statue \u2014 an act of concealment that suggests a deliberate effort to misdirect the investigation and protect someone else.",
+    "source_quote": "She extracted the heart and put it in the chalice of the statue.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Zone of Truth spell",
+    "fact": "The Zone of Truth spell is a magical effect that compels honesty, but it is not infallible \u2014 it can be resisted with mental discipline, and its true value lies not in extracting truth, but in revealing whether someone *can* lie.",
+    "source_quote": "The spell doesn't hand you the truth. It hands you the ability to watch someone refuse it.",
     "quote_verified": true
   },
   {
-    "type": "location",
-    "subject": "Candlekeep",
-    "fact": "Candlekeep is the ancient, scholarly fortress-library where the investigation unfolds; its rigid protocols, political infighting, and obsession with academic principle override moral urgency in the pursuit of justice.",
-    "source_quote": "The whole cynical heart of the place, said plainly. Not justice. Humiliation, filed correctly.",
+    "type": "object",
+    "subject": "Kalan\u2019s academic paper",
+    "fact": "Kalan\u2019s unpublished paper argues that a single source of truth \u2014 such as a confession \u2014 is insufficient for conclusive evidence; three independent types of proof are required \u2014 a standard that now shields Bookwyrm from conviction despite overwhelming suspicion.",
+    "source_quote": "By the standard I wrote: she walks.",
     "quote_verified": false
   },
   {
     "type": "thread",
-    "subject": "The Magical Book",
-    "fact": "Thorin and Kalan are pursuing a mythical magical book in Candlekeep\u2019s archives that could definitively prove Bookwyrm\u2019s guilt \u2014 not to convict her now, but to use as leverage after she is removed from power, ensuring the new head grants access.",
-    "source_quote": "We use our reward to access the thing that will do her in.",
-    "quote_verified": false
+    "subject": "the missing magical book",
+    "fact": "Thorin and Kalan are searching for a powerful spellbook in Candlekeep\u2019s library that could irrefutably prove Bookwyrm\u2019s guilt \u2014 a book that, if found after the naming ceremony, could be granted by the new head as a tool of retribution rather than a weapon of accusation.",
+    "source_quote": "I will come up with such a book before you leave.",
+    "quote_verified": true
   },
   {
     "type": "thread",
-    "subject": "Dawnbringer's Therapy",
-    "fact": "Dawnbringer, a mysterious entity linked to the party, insists on continuing magical therapy sessions after a single productive meeting, suggesting she is a sentient artifact or spirit seeking resolution for trauma tied to a lost blade or weapon.",
+    "subject": "Dawnbringer\u2019s therapy",
+    "fact": "Dawnbringer, an entity linked to the party\u2019s sword, insists on continuing therapeutic sessions to process the psychological toll of being bonded to a weapon \u2014 and has begun communicating telepathically with the narrator, suggesting a deeper, possibly magical connection.",
     "source_quote": "I'm not leaving here without the therapy. That first session was actually very productive.",
     "quote_verified": true
   },
   {
     "type": "thread",
-    "subject": "The Whispering Sword",
-    "fact": "Dawnbringer\u2019s need for therapy is connected to a sword whisperer \u2014 someone who once understood the language of blades \u2014 whose absence left her spiritually unmoored; the party\u2019s hunt for this figure has spanned months.",
-    "source_quote": "I'd been the one hunting a sword whisperer for her since the road south \u2014 months where the thing she was built to carry just wasn't there.",
+    "subject": "the identity of Dawnbringer",
+    "fact": "The nature of Dawnbringer \u2014 whether a sentient weapon, a spirit, or a psychological projection \u2014 remains ambiguous; the narrator struggles to determine her gender and origin, and her telepathic intrusions suggest she is more than a mere metaphor.",
+    "source_quote": "I thought Dawnbringer was a she... I don't know, I can't remember.",
     "quote_verified": false
   },
   {
     "type": "date",
-    "subject": "Tomorrow's Naming Ceremony",
-    "fact": "The pivotal naming ceremony for the new head of Candlekeep\u2019s Avowed will occur tomorrow, determining Bookwyrm\u2019s fate and the party\u2019s next course of action \u2014 a temporal anchor for all political and magical strategies.",
+    "subject": "naming ceremony",
+    "fact": "The formal naming ceremony for the next head of the Candlekeep Avowed is scheduled for tomorrow, marking the critical turning point in the political maneuvering around Bookwyrm\u2019s fate.",
     "source_quote": "Tomorrow morning's naming ceremony clearly will not name her.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "the sword whisperer",
+    "fact": "The sword whisperer is an elusive figure sought by Dawnbringer \u2014 a being who understands the psychological trauma of sentient weapons \u2014 and whose absence has left Dawnbringer emotionally unmoored, driving her need for therapy.",
+    "source_quote": "I'd been the one hunting a sword whisperer for her since the road south \u2014 months where the thing she was built to carry just wasn't there.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Fembris Lancer",
-    "fact": "Fembris Lancer is the likely successor to Bookwyrm as head of the Avowed; her election would be a direct consequence of the scandal surrounding Janussi\u2019s death and Alkrist\u2019s confession.",
-    "source_quote": "Fembris Lancer will probably get elected the new avowed.",
+    "fact": "Fembris Lancer is a likely candidate to replace Bookwyrm as head of the Avowed, suggested by Kalan as the next leader who would be more willing to pursue justice against Bookwyrm after the naming ceremony.",
+    "source_quote": "Fembris Lancer will probably get elected the new avowed...",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "A'lai",
-    "fact": "A'lai is a candidate for the head of the Avowed, but is also suspected of being entangled in the case; the party considered informing him of their findings, but ultimately chose to bypass him in favor of Kalan\u2019s strategy.",
+    "fact": "A'lai is a figure of interest connected to the murder, with a thread running from the case back to him \u2014 but his role remains unclear, and the group has chosen not to confront him directly yet.",
     "source_quote": "We knew there was a thread running from all this back to A'lai.",
     "quote_verified": false
   },
   {
-    "type": "faction",
-    "subject": "The Avowed",
-    "fact": "The Avowed are Candlekeep\u2019s elite scholarly guardians; their internal politics, loyalty networks, and academic dogma now override justice, turning the investigation into a power play disguised as procedure.",
-    "source_quote": "The person who declined it is dead.",
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi, the deceased sage and former investigator, was the victim of the murder; his death triggered the investigation and his own rejected academic paper is now being used as a shield by Kalan to protect the guilty.",
+    "source_quote": "And the person who declined it is dead. Janussi.",
     "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "Zone of Truth Spell",
-    "fact": "The Zone of Truth spell is a magical compulsion that prevents deliberate lies, but can be resisted through mental discipline; its effectiveness depends on the target\u2019s willpower, not the caster\u2019s power, making it a tool of observation, not proof.",
-    "source_quote": "It isn't a lock, it's a pressure.",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "Infamy vs. Stealth",
-    "fact": "The party debates whether to claim credit for solving Janussi\u2019s murder \u2014 knowing their current infamy is a liability \u2014 or to remain anonymous, recognizing that their reputation is already warped by the Ember Vanguard\u2019s false legends.",
-    "source_quote": "We're already infamous underground. It didn't seem to serve us well.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "The Statue's Chalice",
-    "fact": "The chalice inside the statue is the hidden repository of Janussi\u2019s heart; its placement suggests ritual intent, and its location is known only to those with access to the shrine \u2014 a detail that implicates Bookwyrm.",
-    "source_quote": "She extracted the heart and put it in the chalice of the statue.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Kalan's Strategic Retreat",
-    "fact": "Kalan abandons direct confrontation in favor of institutional patience \u2014 waiting for the naming ceremony to remove Bookwyrm, then using the new leadership to access a magical book that will confirm her guilt \u2014 a move that prioritizes academic legitimacy over moral urgency.",
-    "source_quote": "Sometimes the clever play is to be patient.",
-    "quote_verified": true
   }
 ]

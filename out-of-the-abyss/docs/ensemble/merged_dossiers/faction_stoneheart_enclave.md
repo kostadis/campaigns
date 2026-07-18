@@ -1,8 +1,3 @@
-<!-- source: faction_stoneheart_enclave.md -->
-
-
----
-
 ---
 name: Stoneheart Enclave
 type: faction
@@ -12,26 +7,23 @@ chapters: 38-40
 
 ### Stoneheart Enclave
 
-- **Current status**: Active and operational.  
-- **Current location**: Operates a cultivation cave in Blingdenstone, where they grow and supply fungi.  
-- **Allegiance/faction**: Gnome clan within Blingdenstone; recognized as a key faction in local governance.  
-- **Current possessions / notable items**: Cultivation cave with fresh fungi stocks; likely fungal-growing infrastructure (implied by function).  
-- **Current assignment / role**: Supplier of fungi to travelers and expeditions preparing for subterranean journeys (e.g., rock blight caverns).  
-- **Defining recent actions**: Provided fresh fungi supplies to the party at their cultivation cave in preparation for entry into the rock blight caverns.  
-- **Revealed motivations or secrets**: None explicitly stated; their role suggests a practical, supportive stance in the face of the ooze threat, aligned with broader clan cooperation efforts.
+**Current status:** Active and engaged in Blingdenstone affairs.  
+**Current location:** Operates from and manages a cultivation cave used for fungal growth, likely within or near Blingdenstone.  
+**Allegiance/faction:** Gnome clan; allied with other Blingdenstone factions, including the Miners Guild.  
+**Current possessions / notable items:** Controls and cultivates fresh fungi supplies used by travelers and questing parties.  
+**Current assignment / role:** Provides logistical support (fungi supplies) to expeditions entering the Rock Blight Caverns; recognized as a key faction in Blingdenstone’s response to the ooze threat.  
+**Key relationships:** Maintains direct, friendly contact with the party; was proposed by Senni for inclusion in inter-clan coordination against the ooze threat.  
+**Defining recent actions:** Provided fresh fungi supplies to the party at the cultivation cave as they prepared to enter the Rock Blight Caverns.
 
 ## Uncertainty
-- The spelling varies between “Stoneheart Enclave” (ch38) and “Stone Heart Enclave” (ch40) — unclear if this is a typo or reflects a naming distinction.  
-- No confirmation of whether the Stoneheart Enclave is still formally part of the clan meeting structure proposed in ch38; their participation in the meeting is not confirmed beyond the proposal.  
-- Identity of the member who greeted the party is unknown; no name or rank given.  
-- No information on leadership, size, or internal structure.
+- The exact leadership or internal structure of the Stoneheart Enclave is unconfirmed.  
+- Whether the Stoneheart Enclave has formal authority over the cultivation cave or shares it with another group is unclear.  
+- The spelling variant “Stone Heart Enclave” (with space) in chapters 40 vs. “Stoneheart Enclave” in chapter 38 may indicate inconsistency in naming — but no evidence confirms if this is a typo or a distinct entity.  
+- No confirmation whether the member who greeted the party is a representative, leader, or ordinary member.
 
 ---
 
 <!-- source: location_stoneheart_enclave.md -->
-
-
----
 
 ---
 name: Stoneheart Enclave
@@ -42,14 +34,15 @@ chapters: 38-38
 
 ### Stoneheart Enclave
 
-- **Current status**: Active participant in clan affairs  
-- **Current location**: Unspecified, but recognized as a distinct entity within the clan structure  
-- **Allegiance/faction**: Part of the broader clan network (likely allied with or in consultation with Senni’s faction)  
-- **Current assignment / role**: Proposed participant in the full clan meeting  
-- **Key relationships**: In formal consultation with Senni and the Miners Guild for the upcoming clan meeting  
-- **Defining recent action**: Nominated by Senni as a participant in the full clan meeting  
+- **Current status:** Active participant in clan affairs  
+- **Current location:** Unspecified, but recognized as a distinct entity within the clan structure  
+- **Allegiance/faction:** Part of the broader clan network, aligned with Senni’s proposed coalition  
+- **Current possessions / notable items / spells / feats / wounds:** None noted  
+- **Current assignment / role:** Proposed participant in the full clan meeting  
+- **Key relationships:** Recognized by Senni as a stakeholder to be included in the full clan meeting alongside the Miners Guild  
+- **Defining recent action:** Proposed for inclusion in the full clan meeting by Senni  
 
 ## Uncertainty
-- Exact physical location of the Stoneheart Enclave is not specified.  
-- Whether the Stoneheart Enclave has accepted the invitation to the meeting is unknown.  
-- Internal structure, leadership, or allegiance beyond being a named participant is unreported.
+- Exact physical location of the Stoneheart Enclave is unspecified.  
+- Whether the full clan meeting has occurred or if the Stoneheart Enclave has formally accepted participation is unknown.  
+- Internal structure, leadership, or allegiance beyond Senni’s proposal is not detailed.

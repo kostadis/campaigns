@@ -7,15 +7,15 @@ chapters: 5-5
 
 ### Yeenoghu
 
-**Current status:** Active (as a demon lord)  
-**Current location:** Not specified (demon lord of the Abyss; not confined to Faerûn)  
-**Allegiance/faction:** Demon lord of gnolls; ruler of the gnollish cults and their chaotic, flesh-rending rituals  
+**Current status:** Active (demon lord, not slain)  
+**Current location:** Unknown (no current location specified; remains a mythic entity of the Abyss)  
+**Allegiance/faction:** Demon lord of gnolls, ruler of the gnollish demonic cult  
 **Current possessions / notable items, spells, feats, wounds:** None specified  
-**Current assignment / role and key relationships:** Originator and patron of the gnoll race; source of their violent, cannibalistic nature and spawning rituals. Commands the devotion of gnoll packs and cultists across Faerûn and the Abyss.  
-**Defining recent actions:** None specified beyond foundational origin — no new actions recorded in chapter 5.  
-**Revealed motivations or secrets:** None beyond the established role as creator and corruptor of gnolls; no new secrets disclosed.
+**Current assignment / role and key relationships:** Creator and patron deity of gnolls; source of their violent, cannibalistic nature and spawning rituals. No current subordinates or allies named.  
+**Defining recent actions:** None specified beyond the foundational myth of his invasion of Faerûn and the creation of the gnoll race.  
+**Revealed motivations or secrets:** Motivated by chaos, slaughter, and the proliferation of gnollkind; his presence is tied to the origin and ongoing horror of gnoll society.
 
 ## Uncertainty
-- No information on Yeenoghu’s current activity, presence, or influence beyond origin myth.  
-- No details on whether Yeenoghu has recently manifested on Faerûn or is acting through proxies.  
-- No clarification on whether the gnolls’ spawning rituals are currently active under Yeenoghu’s direct command or are merely inherited tradition.
+- No evidence of Yeenoghu’s current activity beyond his mythic origin role; no recent actions or appearances confirmed.
+- No clarification on whether he is physically present in Faerûn now or remains confined to the Abyss.
+- No named followers, cult leaders, or agents currently acting in his name are mentioned.

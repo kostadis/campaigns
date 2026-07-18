@@ -7,16 +7,16 @@ chapters: 7-11
 
 ### Ploopploopeen
 
-**Current status:** Dead  
-**Current location:** Sloobludop, at the site of the ritual altar in the Deep Father’s temple  
-**Allegiance/faction:** Formerly archpriest of the Sea Mother; now deceased, his faction defeated  
-**Current possessions / notable items, spells, feats, wounds:** None (corpse; no items listed as retained post-mortem)  
-**Current assignment / role and key relationships:** Formerly tasked with infiltrating the Deep Father’s cult using the adventurers as bait; sought to broker a ritual exchange with his daughter, Bloppblippodd, high priestess of the Deep Father. Last known relationship: hostile and betrayed his daughter.  
-**Defining recent actions:** Orchestrated a plan to present the adventurers as “offerings” to Bloppblippodd under the guise of reconciliation, intending for his followers to ambush her during the ritual. Betrayed his daughter and led the attack — but was slain during the ritual’s climax by the young archpriest of the Deep Father, triggering the summoning of Demogorgon.  
-**Revealed motivations or secrets:** Believed the Sea Mother was the true, traditional Kuo-toan faith and the Deep Father an evil usurper. Thought offerings to the Sea Mother required spitting/regurgitation, not blood sacrifice. Expressed doubt whether Leemooggoogoon (the Deep Father) truly existed. Strained relationship with daughter Bloppblippodd. Used Tongues spell to communicate, but realized it failed to convey his true intent.
+**Current status:** Deceased  
+**Current location:** Sloobludop, at the site of the ritual altar (where Demogorgon was summoned)  
+**Allegiance/faction:** Archpriest of the Sea Mother (until death)  
+**Current possessions / notable items, spells, feats, wounds:** None known to remain; last known to be carrying out a ritual with the party as bait. Used Tongues spell (imperfectly).  
+**Current assignment / role and key relationships:** Formerly tasked with infiltrating the Deep Father’s cult by offering the party as “sacrifices” to his daughter, Bloppblippodd (High Priestess of the Deep Father). Last known to be leading a surprise attack against her during the ritual.  
+**Defining recent actions:** Orchestrated a plan to use the adventurers as bait to infiltrate the Deep Father’s cult, intending to trigger a coup. Betrayed his daughter Bloppblippodd during the ritual exchange, leading to a violent confrontation. Was slain by the young archpriest of the Deep Father during the ritual’s climax, triggering the summoning of Demogorgon.  
+**Revealed motivations or secrets:** Believed the Sea Mother was the true, traditional faith of the Kuo-toans and the Deep Father an evil corruption. Thought offerings to the Sea Mother required regurgitation and spitting — delighted when others complied. Suspected the Deep Father might not truly exist. Sought to end the schism in Sloobludop by force. Had strained relations with his daughter, whom he saw as corrupted.  
 
 ## Uncertainty
-- The gender pronoun used for Ploopploopeen shifts between “he” and “she” in source quotes (e.g., “she wants to use them as bait” vs. “he, his whip, and the prisoners”). No clear consensus on gender identity.
-- Exact identity of “the young archpriest of the Deep Father” who slew Ploopploopeen is not named or described beyond that title.
-- Whether Ploopploopeen’s followers still exist or remain active after his death is not stated.
-- Whether the Sea Mother’s temple in Sloobludop still functions after the ritual’s collapse is unmentioned.
+- The gender pronoun used for Ploopploopeen shifts between "she" and "he" in the source quotes — the later chapter [ch11] refers to "Ploop" without pronouns, but prior quotes conflict on gender attribution.
+- The identity of “the young archpriest of the Deep Father” who killed Ploopploopeen is not named or described beyond this role — no prior facts establish this figure’s identity or presence before [ch11].
+- It is unclear whether Ploopploopeen’s followers successfully attacked Bloppblippodd’s cultists before his death — the fact states he attacked her “along with his allies,” but does not confirm the outcome of that attack.
+- Whether Ploopploopeen’s belief that the Deep Father “might not actually exist” was a genuine doubt or a strategic deception is ambiguous and unconfirmed by later events.

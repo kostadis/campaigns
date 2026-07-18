@@ -1,23 +1,22 @@
 ---
 name: Diinarnnmyr
 type: npc
-n_facts: 2
+n_facts: 3
 chapters: 23-23
 ---
 
 ### Diinarnnmyr
 
 - **Current status:** Alive  
-- **Current location:** Unknown (last observed in context of Derro territory under perceived threat)  
-- **Allegiance/faction:** Derro (isolated, paranoid faction member)  
+- **Current location:** Unknown (last observed departing after muttering)  
+- **Allegiance/Faction:** Derro (unaffiliated with known factions, but deeply suspicious of external powers)  
 - **Current possessions / notable items, spells, feats, wounds:** None specified  
-- **Current assignment / role:** Observing and interpreting movements of the Ember Vanguard as an existential threat to Derro survival  
-- **Key relationships:** Views the Ember Vanguard (Drow) as allied with Duergar; believes Pliinki was killed by them  
-- **Defining recent actions:** Interprets the presence of the Ember Vanguard (who are Drow in disguise) as evidence of a Duergar-Drow alliance aimed at subduing the Derro; voices paranoid claims that the Drow are now working with the Duergar to subdue their people  
-- **Revealed motivations or secrets:** Driven by fear of annihilation; his belief in a Duergar-Drow alliance is a misinterpretation — a deliberate consequence of the Ember Vanguard’s psychological operations to sow confusion among the Derro  
+- **Current assignment / role and key relationships:** None specified; appears to be a lone Derro observer or survivor  
+- **Defining recent actions:** Observed muttering paranoid accusations about The Ember Vanguard, falsely interpreting it as a Drow-Duergar alliance aimed at subjugating the Derro.  
+- **Revealed motivations or secrets:** Believes The Ember Vanguard is a Drow-Duergar conspiracy targeting Derro subjugation — a misinterpretation rooted in fear, not evidence.  
 
 ## Uncertainty
-- Exact current location is unspecified.  
-- Whether Pliinki was actually killed or if this is purely Diinarnnmyr’s rumor-based assumption is unconfirmed.  
-- No indication whether Diinarnnmyr is still actively observing the Ember Vanguard or has taken action beyond muttering his fears.  
-- No information on whether he has allies, superiors, or a specific role within Derro society beyond his paranoid interpretation.
+- The exact location of Diinarnnmyr after departure is unknown.  
+- Whether Diinarnnmyr is still actively monitoring The Ember Vanguard or has retreated is unconfirmed.  
+- No evidence confirms whether Diinarnnmyr possesses any items, spells, or wounds — all such details are absent.  
+- The phrase “The Ember Vanguard - the Drow are now working with the Duergar to subdue us!” is repeated verbatim, but it is unclear whether “The Ember Vanguard” is being used as a label for the perceived alliance or if Diinarnnmyr is conflating the name of an organization with the alliance itself — ambiguity in attribution of the phrase’s referent.

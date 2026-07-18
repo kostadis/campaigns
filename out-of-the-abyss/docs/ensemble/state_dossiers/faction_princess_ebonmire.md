@@ -8,13 +8,13 @@ chapters: 47-47
 ### Princess Ebonmire
 
 **Current status:** Destroyed  
-**Current location:** Unknown (last observed at site of battle in Chapter 47)  
-**Allegiance/faction:** None (former entity; faction dissolved with destruction)  
+**Current location:** Unknown (last observed at site of confrontation)  
+**Allegiance/faction:** None (former noble entity, now inert)  
 **Current possessions / notable items, spells, feats, wounds:** None (entity no longer exists)  
-**Current assignment / role and key relationships:** None (entity destroyed)  
-**Defining recent actions:** Launched acidic ooze projectiles at the party before being destroyed by necrotic magic and physical strikes.  
+**Current assignment / role and key relationships:** None  
+**Defining recent actions:** Engaged the party in combat, hurling blobs of acidic ooze; subsequently destroyed by necrotic magic and physical strikes.  
 
 ## Uncertainty
-- The exact method or agent responsible for her destruction is not fully attributed — “necrotic magic and physical strikes” are noted as the cause, but no actor is named as delivering them.  
-- The location of her destruction is not specified beyond “site of battle in Chapter 47.”  
-- Whether “Princess Ebonmire” was a singular entity or a title/role held by multiple individuals is unclear from the single fact.
+- The exact location of her remains or destruction is not specified.  
+- The source of the necrotic magic and physical strikes that destroyed her is unnamed — attribution is unclear.  
+- Whether she was acting independently or under orders from another faction is not stated.

@@ -1,0 +1,415 @@
+[
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh is a Duergar metropolis in the Underdark where order and labor are prized over art and beauty, with plain, functional buildings, smelters, and forges creating an atmosphere of a vast work camp, and acrid smoke that burns the sense of smell.",
+    "source_quote": "The buildings are plain and functional. Whereas the Drow would have decorated their homes with etchings and art, the walls of the Duergar homes are plain. And the ambiance is just that of work. The sound of hammers warping metals, the stench and heat, and the light of the smelters make all of Gracklstugh appear as one large work camp. But the acrid smoke makes breathing hard and burns through his sense of smell, which he will remember most from his time here.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Blade Bazaar",
+    "fact": "The Blade Bazaar is a marketplace in Gracklstugh named after the most abundant goods the Duergar offer, but sells almost everything available in the city, with stalls set up by visiting merchants, where the din of people arguing mainly in Dwarvish nearly drowns out the hammering from the city\u2019s forges, and the crowds offer a good chance to slip away from pursuers.",
+    "source_quote": "This marketplace is named after the most abundant goods the duergar offer, but the shops here sell almost everything available in the city, along with stalls set up by visiting merchants. The din of people arguing, mainly in Dwarvish, nearly drowns out the hammering coming from the city\u2019s forges, and the crowds here offer a good chance to slip away from pursuers.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Darklake District",
+    "fact": "The Darklake District is the only area in Gracklstugh where non-Duergars are permitted to move freely, isolated from the rest of the city by gates, and appears calm compared to the chaotic interior.",
+    "source_quote": "Non-Duergars are only permitted to move freely in the Darklake district. Within the city, everyone obeys the laws. The gates at the end of the road keep the Darklake District isolated from the rest of the city. It looks calm.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Tongue of Madness",
+    "fact": "The Tongue of Madness is a magical mushroom that, when eaten, compels the consumer to speak their true thoughts and opinions, revealing hidden animosities and secrets.",
+    "source_quote": "Zalthir hands him a mushroom, The Tongue of Madness, and says, 'Eat.' And Buppido does and starts talking. 'I just wanted to return to my bolt hole in the caverns near the city and praise the Divine Plan.' And then he starts expressing his true opinions of his companions: 'You all have been so annoying. Daz has foul-smelling breath. Thorin thinks his muscles are impressive. Eldeth is -not- interested in him.'",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Jug of Any Liquid",
+    "fact": "A jug found in the Duergar keelboat that can generate any liquid, and the first liquid generated is mayonnaise, which enhances the taste of bland food such as mushrooms.",
+    "source_quote": "He finds some gold and a jug that he learns later can be used to generate any liquid. The first liquid they generate is mayonnaise. After eating bland mushrooms, mayonnaise will make anything taste much better.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Eldritch Claw Tattoo",
+    "fact": "An uncommon magical item sought by Zalthir, which can be purchased in Gracklstugh but not in the Darklake District, and is obtainable through Brannam Redmarch\u2019s contacts.",
+    "source_quote": "Zalthir asks them, 'Can either of you get me Eldritch Claw Tattoo?' ... Brannam lights up, 'Yes! I know a guy. But it will take a few days.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Brannam Redmarch",
+    "fact": "Brannam Redmarch is a former castaway who identifies as a magical goods trader, capable of acquiring rare items like the Eldritch Claw Tattoo, and pleads for his life when confronted by Thorin.",
+    "source_quote": "Brannum Redmarch and Buppido ... Brannum pleads, 'You wouldn\u2019t turn me into the guard?' ... Brannam lights up, 'Why didn\u2019t you ask? That\u2019s my business.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido is a former castaway who claims his actions were guided by the Divine Plan, and after eating the Tongue of Madness, reveals his true opinions of the party, including criticisms of Daz\u2019s breath, Thorin\u2019s muscles, and Eldeth\u2019s disinterest in him.",
+    "source_quote": "Buppido mutters, 'Look, I made mistakes. It was the divine plan. Just let me go. I won\u2019t bother you again.' ... 'I just wanted to return to my bolt hole in the caverns near the city and praise the Divine Plan.' ... 'You all have been so annoying. Daz has foul-smelling breath. Thorin thinks his muscles are impressive. Eldeth is -not- interested in him.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Dulgir",
+    "fact": "Dulgir is a Duergar merchant in the Blade Bazaar who initially curses Grygum but shifts to speaking with the stilted tongue of a Baldurian patriar after Grygum decides to buy instead of sell, and denies the existence of his brother who is visibly present during transactions.",
+    "source_quote": "The merchant, Dulgir, asks if he wants to buy or sell. 'Sell this mace?' ... the Duergar starts cursing Grygum ... the Duergar suddenly shifts, speaking with the stilted tongue of a Baldurian patriar. ... Grygum asks Dulgir, 'I guess his brother is invisible.' But Dulgir answers, 'His brother doesn\u2019t exist.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Hemeth",
+    "fact": "Hemeth is a Duergar weapons trader who is skeptical of Brannam\u2019s ability to procure magical items and is later revealed to be capable of turning invisible for an hour, which he demonstrates during a conversation about ambushes.",
+    "source_quote": "Hemeth, upon hearing that, grumbles, 'I am a weapons trader, and you would go to him?' ... Hemeth laughs, 'Yes, that would be a good thing to worry about. The Duergar can become invisible for a whole hour.' And he turns invisible. 'I will be hiding here.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a cleric of Bahamut who observes the irrational behavior of Duergar merchants and concludes that the madness afflicting Gracklstugh is not religious but political, stemming from competition over resources rather than divine conflict.",
+    "source_quote": "The orc has been puzzled by Eldeth\u2019s venom directed at the Duergar. He thinks there might be some rivalry between the Duergar gods and the Dwarven gods, but then he remembers something he read: that religious conflict is not always what it seems. The Dwarves and the Duergar compete for the same resources, and political conflict may matter more than any religious principle or dogma. 'This is not the will of any god. This is the will of the people,' he mutters.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is a gnome who corrects Zalthir\u2019s misunderstanding of interplanar gate travel, explaining that summoning great powers like Demogorgon requires powerful artifacts and rituals, and is later revealed to be the target of Grygum\u2019s outburst about his annoying bEttin g.",
+    "source_quote": "Jimjar roars with laughter. ... 'Obviously, you do not understand the first thing about interplanar or gate travel. There are a great many things Buppido could do, but that is not one of them.' ... 'Jimjar\u2019s bEttin g is so annoying! GIVE IT A REST.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a dragonborn who uses Darkness magic to conceal enemies, seeks the Eldritch Claw Tattoo, and becomes increasingly aware of the irrationality and madness in Gracklstugh, while also developing a fondness for Grygum\u2019s blunt honesty.",
+    "source_quote": "Zalthir again moves the darkness to cover the enemies. ... Zalthir asks them, 'Can either of you get me Eldritch Claw Tattoo?' ... Zalthir smiles, 'I like him.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a warrior who transitions from impulsive aggression to cautious negotiation, employs intimidation to secure deals, and ultimately accepts the revelations of the Tongue of Madness as grounds for mercy rather than execution.",
+    "source_quote": "Thorin realizes that Zalthir is very good at negotiating a deal, but sometimes muscle is needed to terrorize people, 'And just so we are clear, if we don\u2019t get what we want, and you betray us, there will be consequences.' ... Thorin lowers his weapon, uncertain. ... Thorin decides he\u2019s heard enough.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a spellcaster who favors area-of-effect magic, uses Shape Water to reveal invisible foes, and is the subject of Buppido\u2019s criticism for having foul-smelling breath, yet remains focused on survival and mission objectives.",
+    "source_quote": "I have shape water!' ... And a few moments later, water is sprayed around the boat, and the outline of a humanoid appears. ... 'Daz has foul-smelling breath.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The Mad Giant's Breakthrough",
+    "fact": "A two-headed, gray-skinned giant bursts through a gate in Gracklstugh, howling madly, lashing out with devastating force, and kills a Duergar soldier whose broken body crashes near the party, signaling a sudden escalation of chaos in the city.",
+    "source_quote": "The rhythmic hammering of the city\u2019s forges is drowned for a second by a thundering roar and the sound of crumbling rock. Duergar and visitors alike turn to look as a two-headed, gray-skinned giant burst through a gate, howling madly and lashing out left and right, littering the plaza with rock and stone debris. As he bellows, one of his swings connects with a duergar soldier, whose broken body flies through the air and crashes near you with a sickening crunch.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The Tongue of Madness Revelation",
+    "fact": "Buppido consumes the Tongue of Madness and reveals his true, unfiltered opinions of the party members, including criticisms of their physical traits and interpersonal dynamics, leading to a moment of collective unease and Grygum\u2019s unexpected defense of Zalthir\u2019s unclean scales.",
+    "source_quote": "And Buppido does and starts talking. ... 'You all have been so annoying. Daz has foul-smelling breath. Thorin thinks his muscles are impressive. Eldeth is -not- interested in him.' ... 'Zalthir\u2019s scales haven\u2019t been cleaned in ages.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The Duergar Merchants\u2019 Paradox",
+    "fact": "Multiple Duergar merchants in the Blade Bazaar behave irrationally: some turn invisible mid-transaction and deny it, others claim to speak to non-existent brothers, and prices shift arbitrarily, suggesting a widespread psychological or magical malaise infecting the city\u2019s commerce.",
+    "source_quote": "A merchant suddenly turns invisible during a transaction but keeps speaking as if nothing has happened. ... another weapons merchant threatens a customer, and when the customer protests, the merchant denies ever saying so. ... a cloth merchant suddenly stops mid-negotiating and starts talking to someone he refers to as his brother. ... 'His brother doesn\u2019t exist.'",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Lost Tomb of Khem",
+    "fact": "The Lost Tomb of Khem is a destination referenced by Sethir as the group\u2019s next objective after acquiring equipment in Gracklstugh, where they intend to find treasure.",
+    "source_quote": "Sethir mutters, 'We plan to get equipment and then go to the Lost Tomb of Khem, where we will find treasure!'",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Kuotoan Boat",
+    "fact": "The Kuotoan Boat is a vessel where the party\u2019s former castaways debate who should interrogate the captured Duergar prisoner, with Sarith recommending Daz due to his methods.",
+    "source_quote": "He can hear the debate on the Kuotoan boat about who should question their Duergar prisoner. ... Sarith explains, 'The Lolth\u2019s guards trained me. I am an expert, but having seen Daz\u2019s approach, I recommend that he be given the first crack at extracting information.'",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Duergar Keelboat",
+    "fact": "An abandoned boat found in the Underdark waters, containing crates and later revealed to be a Duergar Keelboat, which holds gold, the Jug of Any Liquid, and other supplies.",
+    "source_quote": "Yes, it\u2019s Duergar Keelboat. You can see the crates.\" ... \"He finds some gold and a jug that he learns later can be used to generate any liquid.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Stool",
+    "fact": "Stool is a member of the party who is captured by Duergar during the battle on the keelboat and later released when Thorin attacks the captors, prompting relief from Thorin upon confirming his safety.",
+    "source_quote": "The dwarf checks the others and sees that Stool has been captured. He attacks the Duergar. And the Duergar release Stool.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth is a member of the party who expresses intense racial animus toward the Duergar, calling them 'Demonic spawn of dwarven corruption' and 'slave traders who deserve to be sent to the nine hells,' which prompts Grygum to reflect on the political roots of their conflict.",
+    "source_quote": "Eldeth curse them out as 'Demonic spawn of dwarven corruption. Slave trader who deserves to be sent to the nine hells as punishment!'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith is a former castaway trained by Lolth\u2019s guards who recommends Daz as the best candidate to interrogate the Duergar prisoner, citing his methods over her own expertise.",
+    "source_quote": "Sarith explains, 'The Lolth\u2019s guards trained me. I am an expert, but having seen Daz\u2019s approach, I recommend that he be given the first crack at extracting information.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Spiderbait",
+    "fact": "Spiderbait is a party member consumed by rage who wants to kill Buppido on the spot, but is overruled by Thorin and the group\u2019s decision to use the Tongue of Madness instead.",
+    "source_quote": "Spiderbait, still seething with rage, wants to kill him on the spot, and although Thorin is tempted, he wants to see what everyone else has to say.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum is a misspelled variant of Grygum, and should be corrected to Grygum; no separate entity exists.",
+    "source_quote": "Gyrgum asks, 'So what are we doing here?' ... 'Gyrgum asks Dulgir, 'I guess his brother is invisible.' ... 'Gyrgum has heard enough, 'I am done.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido is a former castaway who claims his actions were guided by the Divine Plan, and after eating the Tongue of Madness, reveals his true opinions of the party, including criticisms of Daz\u2019s breath, Thorin\u2019s muscles, and Eldeth\u2019s disinterest in him.",
+    "source_quote": "Buppido mutters, 'Look, I made mistakes. It was the divine plan. Just let me go. I won\u2019t bother you again.' ... 'I just wanted to return to my bolt hole in the caverns near the city and praise the Divine Plan.' ... 'You all have been so annoying. Daz has foul-smelling breath. Thorin thinks his muscles are impressive. Eldeth is -not- interested in him.'",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh City Gates",
+    "fact": "The gates separating the Darklake District from the rest of Gracklstugh are a physical and symbolic barrier, through which a two-headed giant later bursts, shattering the illusion of order and unleashing chaos.",
+    "source_quote": "The gates at the end of the road keep the Darklake District isolated from the rest of the city. ... a two-headed, gray-skinned giant burst through a gate, howling madly and lashing out left and right...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The Duergar Slave Trade",
+    "fact": "The Duergar of Gracklstugh operate a systematic slave trade, capturing and selling prisoners in Gracklstugh, which is confirmed by Jimjar and later reinforced by the discovery of captured individuals on the keelboat.",
+    "source_quote": "Jimjar shouts, 'You know what the Duergar do for a living?' ... 'Yes, they capture slaves that they sell in Gracklstugh.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The Disappearance of the Duergar Brother",
+    "fact": "A Duergar merchant claims to speak to his invisible brother, but when questioned, Dulgir insists the brother does not exist, suggesting the city\u2019s inhabitants are experiencing shared hallucinations or magical delusions.",
+    "source_quote": "a cloth merchant suddenly stops mid-negotiating and starts talking to someone he refers to as his brother. ... 'His brother doesn\u2019t exist.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The Magical Item Negotiation",
+    "fact": "Zalthir negotiates with Brannam Redmarch to obtain the Eldritch Claw Tattoo, with Thorin threatening consequences for betrayal, establishing a tense but functional alliance based on mutual need and fear.",
+    "source_quote": "Zalthir asks them, 'Can either of you get me Eldritch Claw Tattoo?' ... Thorin ... 'And just so we are clear, if we don\u2019t get what we want, and you betray us, there will be consequences.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The Water-Spreading Revelation",
+    "fact": "Daz uses Shape Water to reveal the outline of an invisible Duergar, exposing the enemy\u2019s position and destroying the party\u2019s element of surprise, prompting Zalthir\u2019s silent frustration.",
+    "source_quote": "I have shape water!' ... And a few moments later, water is sprayed around the boat, and the outline of a humanoid appears. ... Zalthir is annoyed. They were about to have the element of surprise.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The Second Sundering Reference",
+    "fact": "Jimjar references the Second Sundering and the end of the Time of Trouble, explaining that the great powers of the Outer Planes can no longer enter the Prime Material Plane at will, and that summoning such entities now requires powerful artifacts and rituals.",
+    "source_quote": "The great powers of the outer planes in the Time of Trouble could enter the Prime Material Plane at will. And that created havoc. Aos, the overgod, has ended that era with the Second Sundering. And so now, bringing the avatar of such a power requires powerful magic and artifacts.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The Duergar Invisibility Practice",
+    "fact": "Duergar merchants and individuals in Gracklstugh routinely use their innate ability to turn invisible, which is so common that it is treated as mundane, yet its misuse in commerce creates distrust and confusion among outsiders.",
+    "source_quote": "The Duergar can become invisible at will; you never know who is watching. ... A merchant suddenly turns invisible during a transaction but keeps speaking as if nothing has happened.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "The Caverns Near Gracklstugh",
+    "fact": "The caverns near Gracklstugh are referenced by Buppido as his bolt hole, where he intended to return to praise the Divine Plan, suggesting a hidden network of refuge spaces outside the city\u2019s control.",
+    "source_quote": "I just wanted to return to my bolt hole in the caverns near the city and praise the Divine Plan.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Dulgir",
+    "fact": "Dulgir is a Duergar merchant in the Blade Bazaar who initially curses Grygum but shifts to speaking with the stilted tongue of a Baldurian patriar after Grygum decides to buy instead of sell, and denies the existence of his brother who is visibly present during transactions.",
+    "source_quote": "The merchant, Dulgir, asks if he wants to buy or sell. 'Sell this mace?' ... the Duergar starts cursing Grygum ... the Duergar suddenly shifts, speaking with the stilted tongue of a Baldurian patriar. ... Grygum asks Dulgir, 'I guess his brother is invisible.' But Dulgir answers, 'His brother doesn\u2019t exist.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Hemeth",
+    "fact": "Hemeth is a Duergar weapons trader who is skeptical of Brannam\u2019s ability to procure magical items and is later revealed to be capable of turning invisible for an hour, which he demonstrates during a conversation about ambushes.",
+    "source_quote": "Hemeth, upon hearing that, grumbles, 'I am a weapons trader, and you would go to him?' ... Hemeth laughs, 'Yes, that would be a good thing to worry about. The Duergar can become invisible for a whole hour.' And he turns invisible. 'I will be hiding here.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is a gnome who corrects Zalthir\u2019s misunderstanding of interplanar gate travel, explaining that summoning great powers like Demogorgon requires powerful artifacts and rituals, and is later revealed to be the target of Grygum\u2019s outburst about his annoying bEttin g.",
+    "source_quote": "Jimjar roars with laughter. ... 'Obviously, you do not understand the first thing about interplanar or gate travel. There are a great many things Buppido could do, but that is not one of them.' ... 'Jimjar\u2019s bEttin g is so annoying! GIVE IT A REST.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a cleric of Bahamut who observes the irrational behavior of Duergar merchants and concludes that the madness afflicting Gracklstugh is not religious but political, stemming from competition over resources rather than divine conflict.",
+    "source_quote": "The orc has been puzzled by Eldeth\u2019s venom directed at the Duergar. He thinks there might be some rivalry between the Duergar gods and the Dwarven gods, but then he remembers something he read: that religious conflict is not always what it seems. The Dwarves and the Duergar compete for the same resources, and political conflict may matter more than any religious principle or dogma. 'This is not the will of any god. This is the will of the people,' he mutters.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a dragonborn who uses Darkness magic to conceal enemies, seeks the Eldritch Claw Tattoo, and becomes increasingly aware of the irrationality and madness in Gracklstugh, while also developing a fondness for Grygum\u2019s blunt honesty.",
+    "source_quote": "Zalthir again moves the darkness to cover the enemies. ... Zalthir asks them, 'Can either of you get me Eldritch Claw Tattoo?' ... Zalthir smiles, 'I like him.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a warrior who transitions from impulsive aggression to cautious negotiation, employs intimidation to secure deals, and ultimately accepts the revelations of the Tongue of Madness as grounds for mercy rather than execution.",
+    "source_quote": "Thorin realizes that Zalthir is very good at negotiating a deal, but sometimes muscle is needed to terrorize people, 'And just so we are clear, if we don\u2019t get what we want, and you betray us, there will be consequences.' ... Thorin lowers his weapon, uncertain. ... Thorin decides he\u2019s heard enough.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a spellcaster who favors area-of-effect magic, uses Shape Water to reveal invisible foes, and is the subject of Buppido\u2019s criticism for having foul-smelling breath, yet remains focused on survival and mission objectives.",
+    "source_quote": "I have shape water!' ... And a few moments later, water is sprayed around the boat, and the outline of a humanoid appears. ... 'Daz has foul-smelling breath.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Brannam Redmarch",
+    "fact": "Brannam Redmarch is a former castaway who identifies as a magical goods trader, capable of acquiring rare items like the Eldritch Claw Tattoo, and pleads for his life when confronted by Thorin.",
+    "source_quote": "Brannum Redmarch and Buppido ... Brannum pleads, 'You wouldn\u2019t turn me into the guard?' ... Brannam lights up, 'Why didn\u2019t you ask? That\u2019s my business.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido is a former castaway who claims his actions were guided by the Divine Plan, and after eating the Tongue of Madness, reveals his true, unfiltered opinions of the party members, including criticisms of their physical traits and interpersonal dynamics, leading to a moment of collective unease and Grygum\u2019s unexpected defense of Zalthir\u2019s unclean scales.",
+    "source_quote": "Buppido mutters, 'Look, I made mistakes. It was the divine plan. Just let me go. I won\u2019t bother you again.' ... 'I just wanted to return to my bolt hole in the caverns near the city and praise the Divine Plan.' ... 'You all have been so annoying. Daz has foul-smelling breath. Thorin thinks his muscles are impressive. Eldeth is -not- interested in him.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Stool",
+    "fact": "Stool is a member of the party who is captured by Duergar during the battle on the keelboat and later released when Thorin attacks the captors, prompting relief from Thorin upon confirming his safety.",
+    "source_quote": "The dwarf checks the others and sees that Stool has been captured. He attacks the Duergar. And the Duergar release Stool.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth is a member of the party who expresses intense racial animus toward the Duergar, calling them 'Demonic spawn of dwarven corruption' and 'slave traders who deserve to be sent to the nine hells,' which prompts Grygum to reflect on the political roots of their conflict.",
+    "source_quote": "Eldeth curse them out as 'Demonic spawn of dwarven corruption. Slave trader who deserves to be sent to the nine hells as punishment!'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith is a former castaway trained by Lolth\u2019s guards who recommends Daz as the best candidate to interrogate the Duergar prisoner, citing his methods over her own expertise.",
+    "source_quote": "Sarith explains, 'The Lolth\u2019s guards trained me. I am an expert, but having seen Daz\u2019s approach, I recommend that he be given the first crack at extracting information.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Spiderbait",
+    "fact": "Spiderbait is a party member consumed by rage who wants to kill Buppido on the spot, but is overruled by Thorin and the group\u2019s decision to use the Tongue of Madness instead.",
+    "source_quote": "Spiderbait, still seething with rage, wants to kill him on the spot, and although Thorin is tempted, he wants to see what everyone else has to say.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The Mad Giant's Breakthrough",
+    "fact": "A two-headed, gray-skinned giant bursts through a gate in Gracklstugh, howling madly, lashing out with devastating force, and kills a Duergar soldier whose broken body crashes near the party, signaling a sudden escalation of chaos in the city.",
+    "source_quote": "The rhythmic hammering of the city\u2019s forges is drowned for a second by a thundering roar and the sound of crumbling rock. Duergar and visitors alike turn to look as a two-headed, gray-skinned giant burst through a gate, howling madly and lashing out left and right, littering the plaza with rock and stone debris. As he bellows, one of his swings connects with a duergar soldier, whose broken body flies through the air and crashes near you with a sickening crunch.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The Tongue of Madness Revelation",
+    "fact": "Buppido consumes the Tongue of Madness and reveals his true, unfiltered opinions of the party members, including criticisms of their physical traits and interpersonal dynamics, leading to a moment of collective unease and Grygum\u2019s unexpected defense of Zalthir\u2019s unclean scales.",
+    "source_quote": "And Buppido does and starts talking. ... 'You all have been so annoying. Daz has foul-smelling breath. Thorin thinks his muscles are impressive. Eldeth is -not- interested in him.' ... 'Zalthir\u2019s scales haven\u2019t been cleaned in ages.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The Duergar Merchants\u2019 Paradox",
+    "fact": "Multiple Duergar merchants in the Blade Bazaar behave irrationally: some turn invisible mid-transaction and deny it, others claim to speak to non-existent brothers, and prices shift arbitrarily, suggesting a widespread psychological or magical malaise infecting the city\u2019s commerce.",
+    "source_quote": "A merchant suddenly turns invisible during a transaction but keeps speaking as if nothing has happened. ... another weapons merchant threatens a customer, and when the customer protests, the merchant denies ever saying so. ... a cloth merchant suddenly stops mid-negotiating and starts talking to someone he refers to as his brother. ... 'His brother doesn\u2019t exist.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The Magical Item Negotiation",
+    "fact": "Zalthir negotiates with Brannam Redmarch to obtain the Eldritch Claw Tattoo, with Thorin threatening consequences for betrayal, establishing a tense but functional alliance based on mutual need and fear.",
+    "source_quote": "Zalthir asks them, 'Can either of you get me Eldritch Claw Tattoo?' ... Thorin ... 'And just so we are clear, if we don\u2019t get what we want, and you betray us, there will be consequences.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The Water-Spreading Revelation",
+    "fact": "Daz uses Shape Water to reveal the outline of an invisible Duergar, exposing the enemy\u2019s position and destroying the party\u2019s element of surprise, prompting Zalthir\u2019s silent frustration.",
+    "source_quote": "I have shape water!' ... And a few moments later, water is sprayed around the boat, and the outline of a humanoid appears. ... Zalthir is annoyed. They were about to have the element of surprise.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The Second Sundering Reference",
+    "fact": "Jimjar references the Second Sundering and the end of the Time of Trouble, explaining that the great powers of the Outer Planes can no longer enter the Prime Material Plane at will, and that summoning such entities now requires powerful artifacts and rituals.",
+    "source_quote": "The great powers of the outer planes in the Time of Trouble could enter the Prime Material Plane at will. And that created havoc. Aos, the overgod, has ended that era with the Second Sundering. And so now, bringing the avatar of such a power requires powerful magic and artifacts.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The Duergar Invisibility Practice",
+    "fact": "Duergar merchants and individuals in Gracklstugh routinely use their innate ability to turn invisible, which is so common that it is treated as mundane, yet its misuse in commerce creates distrust and confusion among outsiders.",
+    "source_quote": "The Duergar can become invisible at will; you never know who is watching. ... A merchant suddenly turns invisible during a transaction but keeps speaking as if nothing has happened.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "The Caverns Near Gracklstugh",
+    "fact": "The caverns near Gracklstugh are referenced by Buppido as his bolt hole, where he intended to return to praise the Divine Plan, suggesting a hidden network of refuge spaces outside the city\u2019s control.",
+    "source_quote": "I just wanted to return to my bolt hole in the caverns near the city and praise the Divine Plan.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh City Gates",
+    "fact": "The gates separating the Darklake District from the rest of Gracklstugh are a physical and symbolic barrier, through which a two-headed giant later bursts, shattering the illusion of order and unleashing chaos.",
+    "source_quote": "The gates at the end of the road keep the Darklake District isolated from the rest of the city. ... a two-headed, gray-skinned giant burst through a gate, howling madly and lashing out left and right...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The Duergar Slave Trade",
+    "fact": "The Duergar of Gracklstugh operate a systematic slave trade, capturing and selling prisoners in Gracklstugh, which is confirmed by Jimjar and later reinforced by the discovery of captured individuals on the keelboat.",
+    "source_quote": "Jimjar shouts, 'You know what the Duergar do for a living?' ... 'Yes, they capture slaves that they sell in Gracklstugh.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The Disappearance of the Duergar Brother",
+    "fact": "A Duergar merchant claims to speak to his invisible brother, but when questioned, Dulgir insists the brother does not exist, suggesting the city\u2019s inhabitants are experiencing shared hallucinations or magical delusions.",
+    "source_quote": "a cloth merchant suddenly stops mid-negotiating and starts talking to someone he refers to as his brother. ... 'His brother doesn\u2019t exist.'",
+    "quote_verified": false
+  }
+]

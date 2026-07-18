@@ -1,254 +1,163 @@
 [
   {
     "type": "npc",
-    "subject": "Thorin Giantfriend",
-    "fact": "Thorin carries the necromantic pearl as a marker of how far the corruption had spread by the time they arrived.",
-    "source_quote": "I had the necromantic pearl in one pocket. I'd already turned over the question of what it meant \u2014 something this finished, this dense, at the core of a corrupted fungal mass that Ilvara had been using as a ritual anchor.",
+    "subject": "Thorin",
+    "fact": "Thorin decided the necromantic pearl was necromantic, based on its sensation, like the smell from a giant's larder.",
+    "source_quote": "I decided, necromantic, the same way you decide the smell coming from the back of a giant's larder means something died in there a while ago.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin intended to take the necromantic pearl because he would not leave anything useful in the cavern.",
+    "source_quote": "I didn't need a name for it. It was worth something to the right buyer, and I was not going to leave anything useful in this cavern, so I pocketed it.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Thorin Giantfriend",
-    "fact": "Thorin carries Ilvara's recovered tooth as a marker of where they started.",
-    "source_quote": "It was settled now. I had the tooth back. And I had the pearl that had been buried in the heart of whatever she'd turned this place into.",
+    "subject": "Thorin",
+    "fact": "Thorin felt the bundle of ritual items was not equipment but evidence of Ilvara's madness.",
+    "source_quote": "It wasn't equipment. It was evidence. It was Ilvara's madness made physical \u2014 the thing she'd built her rituals around while she was becoming something that served two masters and understood neither.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "Thorin Giantfriend",
-    "fact": "Thorin recognized the necromantic pearl as something deliberately placed, not accidental.",
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin refused to pray over the dead soldiers of House Mizzrym because he had nothing to say to them.",
+    "source_quote": "I didn't pray over them. They'd come here doing what they were told by someone who had already lost her mind, and I had nothing to say to them that wasn't just 'better luck in another life.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin realized the signet ring and documents proved House T'sarran had contracted to extract Daz alive.",
+    "source_quote": "The documents were worse. What was left of them... confirmed what we'd been trying to piece together since the mage had arrived with her mercenary escort. There had been a contract. Extract Daz alive and unharmed. House T'sarran behind it.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin considered Daz\u2019s response to Nym\u2019s skepticism to be the most restrained thing he could have said.",
+    "source_quote": "Daz looked at her with something behind his eyes that I couldn't quite read. He let a beat pass, and then he said: 'So then maybe there's more to me than meets the eye?' Which was, I thought, the most restrained thing he could possibly have said in that moment.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin understood the necromantic pearl was not in the wrong place by accident \u2014 someone had placed it there.",
     "source_quote": "The pearl wasn't in the wrong place by accident. Someone had put something like it there, or something like it had grown there because the conditions were exactly right for it.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "Thorin Giantfriend",
-    "fact": "Thorin retrieved Ilvara's tooth from her trophy collection.",
-    "source_quote": "She'd taken my tooth. A chip broken off in the capture, displayed in her chest like a piece of evidence of what she could do.",
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin remembered Ilvara taking his tooth at Velkynvelve as a trophy and a symbol of power.",
+    "source_quote": "When we'd first found ourselves hanging in nets at Velkynvelve, Ilvara had made a point of collecting trophies. It was the kind of thing a person does when they want their captives to understand the power relation clearly \u2014 she'd taken my tooth.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin felt the debt of his stolen tooth was now settled because he had recovered it.",
+    "source_quote": "It was settled now. I had the tooth back.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin intended to keep silent about the significance of the tooth and the pearl because speaking would add nothing to the next ten seconds.",
+    "source_quote": "I didn't say any of that out loud. Thorin Giantfriend, radical transparency, except when the thing being said wouldn't add anything to the next ten seconds.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz wondered why powerful Drow houses would spend so much to extract him, given his lack of consequence.",
+    "source_quote": "I am not, by any meaningful measure, a person of consequence. I am a male Drow apostate from Menzoberranzan... My lineage is not distinguished. My House, if I ever truly had one, is not significant. I do not possess anything worth this level of orchestrated attention.",
     "quote_verified": false
   },
   {
-    "type": "event",
-    "subject": "Thorin Giantfriend",
-    "fact": "Thorin pocketed the incense cones, silver bowl, and stitched cloth bearing Lolth's web and Zuggtmoy's mark.",
-    "source_quote": "Inside: incense cones, a silver bowl small enough to fit in one hand, and a cloth that had been stitched with two sigils \u2014 Lolth's web worked into the eight-fold geometry of Zuggtmoy's mark, one woven inside the other.",
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz privately catalogued the possibility of noble blood as embarrassing and preferred a more interesting answer.",
+    "source_quote": "I have, privately, catalogued that possibility and found it embarrassing. Whatever the answer to this question turns out to be, I prefer it to be something more interesting than inherited blood I didn't earn.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "Thorin Giantfriend",
-    "fact": "Thorin identified the stitched cloth as Ilvara's madness made physical.",
-    "source_quote": "It was evidence. It was Ilvara's madness made physical \u2014 the thing she'd built her rituals around while she was becoming something that served two masters and understood neither.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Thorin Giantfriend",
-    "fact": "Thorin recognized the T'sarran signet ring on the dead mage\u2019s finger.",
-    "source_quote": "I found the signet ring first \u2014 House T'sarran, the seal unmistakable on the face of it.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Thorin Giantfriend",
-    "fact": "Thorin examined the partially burned documents revealing the contract to extract Daz alive and unharmed.",
-    "source_quote": "Then the documents. They'd been partially burned, which meant someone had tried to destroy them and hadn't quite managed it, which meant the information in them was exactly the kind of thing worth knowing.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Thorin Giantfriend",
-    "fact": "Thorin confirmed the contract was from House T'sarran to extract Daz alive and unharmed.",
-    "source_quote": "There had been a contract. Extract Daz alive and unharmed. House T'sarran behind it.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Thorin Giantfriend",
-    "fact": "Thorin showed the documents to Nym and Kaelira.",
-    "source_quote": "We showed the documents to Nym and Kaelira.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Thorin Giantfriend",
-    "fact": "Thorin observed Nym's expressive irritation and Kaelira's professional stillness as they read the documents.",
-    "source_quote": "Nym had the kind of face that gets more expressive the more irritated she becomes, and right now she was very expressive. Kaelira was the opposite \u2014 still and professional, reading the burned pages with the focus of someone who was paid to be good at exactly this.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Thorin Giantfriend",
-    "fact": "Thorin heard Nym question Daz's mysterious origins and the cost of the contract.",
-    "source_quote": "That is an excellent question. You don't belong to any noble house, your background is a complete mystery, you suddenly show up, and all of a sudden, we're contracted to protect a nobody. Do you know how much money that required us to get, for us to do? A lot. Like, they interrupt you. A lot.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Thorin Giantfriend",
-    "fact": "Thorin heard Daz respond to Nym with, 'So then maybe there's more to me than meets the eye?'",
-    "source_quote": "Daz looked at her with something behind his eyes that I couldn't quite read. He let a beat pass, and then he said: 'So then maybe there's more to me than meets the eye?'",
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz resolved to investigate his origins together with the party and split any proceeds from the discovery.",
+    "source_quote": "I think,' I said, keeping my voice very even, 'that we should investigate this together. Whatever we find \u2014 whoever is behind this, whatever they think I'm worth \u2014 we split the proceeds.'",
     "quote_verified": false
   },
   {
-    "type": "event",
-    "subject": "Thorin Giantfriend",
-    "fact": "Thorin heard Kaelira say, 'Perhaps, but we're not paid to think that hard.'",
-    "source_quote": "Kaelira said, without looking up from the documents: 'Perhaps, but we're not paid to think that hard.'",
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz noted that Nym and Kaelira regarded him with skepticism that was precise, not cruel.",
+    "source_quote": "Nym and Kaelira regarded me with the specific expression that Drow reserve for people they find simultaneously interesting and beneath consideration. The tone was sardonic in the way that only people trained in the same school of thought as me can manage \u2014 not cruel, just precise.",
     "quote_verified": false
   },
   {
-    "type": "event",
-    "subject": "Thorin Giantfriend",
-    "fact": "Thorin observed Daz's reaction to the questions about his identity as restrained.",
-    "source_quote": "Which was, I thought, the most restrained thing he could possibly have said in that moment.",
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz accepted that the Duskryn sisters were not entirely wrong to be skeptical of his possible noble lineage.",
+    "source_quote": "The uncomfortable truth is that they were not entirely wrong to be skeptical.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "Thorin Giantfriend",
-    "fact": "Thorin saw Daz reach for the wand \u2014 obsidian with a captive spider in amber \u2014 and noted its significance.",
-    "source_quote": "Then the wand: obsidian, a captive spider preserved in amber at its tip.",
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz filed the question of his identity away to return to it at inconvenient moments.",
+    "source_quote": "I filed the question where I file most things that don't have immediate answers \u2014 in the part of my mind that I return to at inconvenient moments \u2014 and let the conversation move on.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "Thorin Giantfriend",
-    "fact": "Thorin watched Daz and Dawnbringer negotiate the use of the sunblade in a purification ritual.",
-    "source_quote": "Dawnbringer disagreed. 'I'm not some kind of magical wizard thingy that purifies things. I am a high-quality sunblade. I kill things. I will not be treated like a religious symbol to be used and waved over corrupt\u2014'",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Thorin Giantfriend",
-    "fact": "Thorin used the Vaultmaster Locking Scabbard to persuade Dawnbringer to participate in the ritual.",
-    "source_quote": "Thorin reached, unhurriedly, for the scabbard. 'Do I need to show you the scabbard again?'",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Thorin Giantfriend",
-    "fact": "Thorin noted Dawnbringer's concession: 'I suppose I could do you this one. I could do this solid for you.'",
-    "source_quote": "I suppose\u2026\" Dawnbringer began, and then, with the dignity of someone granting a significant concession: \"I suppose I could do you this one. I could do this solid for you.",
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz observed that Dawnbringer refused to be used as a religious symbol for purification.",
+    "source_quote": "I'm not some kind of magical wizard thingy that purifies things. I am a high-quality sunblade. I kill things. I will not be treated like a religious symbol to be used and waved over corrupt\u2014",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "Thorin Giantfriend",
-    "fact": "Thorin observed the comfortable rhythm of repetition between himself and Dawnbringer.",
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz noted that Thorin\u2019s use of the Vaultmaster Locking Scabbard was an effective tool for negotiating with Dawnbringer.",
+    "source_quote": "I noted the outburst, noted Thorin's expression \u2014 the particular patience of a man who has had this conversation before and expects to have it again \u2014 and watched.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz recognized that Thorin and Dawnbringer\u2019s exchange had the comfortable rhythm of repetition \u2014 they had been here before.",
     "source_quote": "They had been here before, the dwarf and his sword. They would be here again.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Daz",
-    "fact": "Daz is a male Drow apostate from Menzoberranzan who studied magic and held private opinions that would have gotten him killed if voiced aloud.",
-    "source_quote": "I am a male Drow apostate from Menzoberranzan who studied magic, held private opinions that would have gotten him killed if voiced aloud, and eventually ended up in Velkynvelve's cages alongside a dwarf raised by giants and a dragonborn who doesn't talk much.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Daz",
-    "fact": "Daz has no distinguished lineage and no significant House affiliation.",
-    "source_quote": "My lineage is not distinguished. My House, if I ever truly had one, is not significant.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Daz",
-    "fact": "Daz expressed confusion about why powerful Drow houses would spend resources to extract him.",
-    "source_quote": "I said as much to the group \u2014 that I was, genuinely, confused. That powerful Drow houses do not spend this kind of resource on nobodies.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Daz",
-    "fact": "Daz proposed investigating the contract together and splitting any proceeds.",
-    "source_quote": "I think,\" I said, keeping my voice very even, \"that we should investigate this together. Whatever we find \u2014 whoever is behind this, whatever they think I'm worth \u2014 we split the proceeds.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Daz",
-    "fact": "Daz noted Nym and Kaelira\u2019s sardonic skepticism about his possible noble origins.",
-    "source_quote": "They had opinions, the sisters, about mysterious orphans who arrive at adulthood convinced they have noble blood waiting somewhere.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Daz",
-    "fact": "Daz privately catalogued the possibility of noble blood as embarrassing.",
-    "source_quote": "I have, privately, catalogued that possibility and found it embarrassing.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Daz",
-    "fact": "Daz filed the question of his identity away to return to at inconvenient moments.",
-    "source_quote": "I filed the question where I file most things that don't have immediate answers \u2014 in the part of my mind that I return to at inconvenient moments \u2014 and let the conversation move on.",
+    "fact": "Daz acknowledged that he carried unresolved questions about his identity alongside the party\u2019s other burdens.",
+    "source_quote": "I had an unanswered question about my own identity sitting unresolved in my chest, a pair of Drow mercenaries who found me either fascinating or ridiculous, and a sunblade that had just been persuaded to participate in something it found philosophically objectionable.",
     "quote_verified": true
   },
   {
     "type": "thread",
-    "subject": "Daz's true identity",
-    "fact": "Daz's true identity and the reason for the contract to extract him remain unverified and unresolved.",
-    "source_quote": "The honest answer \u2014 the one I kept arriving at and then setting aside \u2014 was that I had no idea why.",
+    "subject": "Daz's identity",
+    "fact": "Daz intends to uncover the truth about why he was targeted, even if the answer is not noble blood.",
+    "source_quote": "Whatever the answer to this question turns out to be, I prefer it to be something more interesting than inherited blood I didn't earn.",
     "quote_verified": true
   },
   {
     "type": "thread",
-    "subject": "The contracting party behind House T'sarran",
-    "fact": "The identity of the party who commissioned House T'sarran to extract Daz alive and unharmed remains unknown.",
-    "source_quote": "The contracting party was unknown even to them.",
+    "subject": "The necromantic pearl",
+    "fact": "Thorin suspects the pearl is a key to understanding Ilvara\u2019s ritual corruption, but has not yet named its origin.",
+    "source_quote": "The pearl wasn't in the wrong place by accident. Someone had put something like it there, or something like it had grown there because the conditions were exactly right for it. Either answer was a problem that needed a name.",
     "quote_verified": true
   },
   {
     "type": "thread",
-    "subject": "The origin of the necromantic pearl",
-    "fact": "The origin of the necromantic pearl \u2014 whether placed or grown \u2014 remains unexplained.",
-    "source_quote": "Either answer was a problem that needed a name.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "Ilvara's connection to Zuggtmoy and Lolth",
-    "fact": "The nature and extent of Ilvara's connection to Zuggtmoy and Lolth, as evidenced by the stitched cloth, remains unexplored.",
-    "source_quote": "It was Ilvara's madness made physical \u2014 the thing she'd built her rituals around while she was becoming something that served two masters and understood neither.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Thorin Giantfriend",
-    "fact": "Thorin wrapped up the incense cones, silver bowl, and stitched cloth before moving on.",
-    "source_quote": "I wrapped it back up and moved on.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Thorin Giantfriend",
-    "fact": "Thorin passed through the bodies of the dead soldiers of House Mizzrym without praying.",
-    "source_quote": "I didn't pray over them. They'd come here doing what they were told by someone who had already lost her mind, and I had nothing to say to them that wasn't just 'better luck in another life.'",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Thorin Giantfriend",
-    "fact": "Thorin collected gold, short swords, a long sword, and a steel whistle from the dead guards.",
-    "source_quote": "Gold, short swords, a long sword, a steel whistle.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Daz",
-    "fact": "Daz acknowledged the road to the surface waited, unresolved questions in tow.",
-    "source_quote": "Around me, the road to the surface waited. I had an unanswered question about my own identity sitting unresolved in my chest...",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Daz",
-    "fact": "Daz accepted that some questions are carried, not audited.",
-    "source_quote": "Some things you audit. Some things you simply carry.",
+    "subject": "The stolen tooth",
+    "fact": "Thorin carries the recovered tooth as a symbol of closure from his captivity at Velkynvelve.",
+    "source_quote": "It was settled now. I had the tooth back.",
     "quote_verified": true
   }
 ]

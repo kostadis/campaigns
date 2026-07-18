@@ -1,61 +1,55 @@
-<!-- source: location_gracklstugh.md -->
-
-
----
-
 ---
 name: Gracklstugh
 type: location
-n_facts: 44
+n_facts: 48
 chapters: 1-61
 ---
 
 ### Gracklstugh
 
-Gracklstugh is a Duergar metropolis in the Underdark, ruled by a paranoid Deepking and dominated by industrial forges, acrid smoke, and oppressive heat. The city is a labyrinth of austere stone architecture, devoid of art or ornamentation, with its air thickened by toxic fog and the constant clang of metalwork. Its central trade hub, the Blade Bazaar, thrives on deception and unreliable transactions, while the Darklake District is the only zone where non-Duergars are permitted limited movement. The inner district, Laduguer’s Furrow, houses the wealthiest and most powerful Duergar, shielded from the unrest of the slums.
+Gracklstugh is a Duergar metropolis in the Underdark, ruled by the Deepking and characterized by oppressive industry, militarized control, and pervasive paranoia. The city is dominated by forges, smelters, and acrid smoke that obscures light and burns the senses, creating an atmosphere of industrial decay and psychological oppression. Its architecture is plain and functional, devoid of art or ornamentation, in stark contrast to the elegance of Drow cities like Menzoberranzan.
 
-Gracklstugh is governed by rigid hierarchy, absolute obedience, and pervasive surveillance. Authority is maintained through fear, fabricated charges, and invisible assassins operating under the cover of the Stone Guards. The Keepers of the Flame control Themberchaud, the enslaved dragon whose presence fuels the city’s forges and delusions of grandeur. The city is secretly manipulated by the Cult of Demogorgon, whose apocalyptic ritual targets Gracklstugh for destruction as a sacrificial offering. Beneath the surface, factions—including Derro, mind flayers, and the Empty-Scabbard Killers—wage covert war, while the populace remains largely unaware of the true powers controlling them.
+The city is divided into distinct zones: the outer defenses are heavily guarded, the slums are tense with Derro unrest, and the inner district of Laduguer’s Furrow houses the wealthiest and most powerful Duergar. Authority is maintained through fear, arbitrary enforcement of ordinances, and suppression of dissent — questioning authority, unauthorized movement, or association with “undesirables” can result in arrest, execution, or disappearance.
 
-The city is currently gripped by spreading madness: delusions, invisibility, and violent outbursts are common. Mass hangings and executions have occurred recently, and paranoia about the Ember Vanguard is institutionalized, with wanted posters circulating—some bearing the party’s names, inaccurately but recognizably. The party is actively wanted here, and returning is considered extremely dangerous.
+Gracklstugh is governed by hidden power structures: the Keepers of the Flame manipulate the enslaved fire dragon Themberchaud to fuel the city’s furnaces; the Stone Guards enforce silence and compliance; and invisible assassins operate in the shadows. The populace remains largely unaware of these true rulers. The city also hosts the Blade Bazaar, a chaotic marketplace where truth is fluid and survival depends on navigating illusions and shifting loyalties.
 
-Though once proposed as a destination for acquiring weapons and allies, the party now believes Gracklstugh may no longer exist—or at least is inaccessible—due to their prior actions, which may have triggered its collapse or transformation. Despite this, posters bearing their names confirm its continued existence as a place of infamy.
+The city is a center of slavery, necromantic experimentation, and psychological warfare. Cultists and assassins have systematically corrupted its leadership, paralyzing the Deepking with paranoia and manipulating the populace into accepting impending destruction as divine will. The party’s prior actions — including exposure of Themberchaud’s enslavement, disruption of the Ember Vanguard, and infiltration of the Whorlstone Caverns — have left Gracklstugh destabilized. Mass hangings, executions, and propaganda campaigns now mark its streets.
+
+Gracklstugh is a place of infamy to the party: their names appear on wanted posters (though misrepresenting them), and they are linked to the acquisition of the mushroom artifact from a pocket dimension within the Whorlstone Caverns — an object that leaves a magical marker on all who touched it. The city is also where Jimjar won the bone die from a blind Duergar, and where the concept of the Overbright was carried through its corridors.
+
+Despite its former status as a key node in the Underdark’s underground economy and a destination for acquiring weapons and gear, the party now believes Gracklstugh may no longer exist — or at least is inaccessible — due to the consequences of their prior actions there. Nevertheless, it remains a locus of cultural memory and political manipulation, referenced as a model for using suspicion to destroy targets without direct accusation.
 
 ## Uncertainty
-- Contradiction between Gracklstugh being described as a “dwarven stronghold” (ch01, ch29) and consistently as a “Duergar metropolis” (ch11, ch14, ch15, etc.): Duergar are a subrace of dwarves, but the later, repeated references to Duergar-specific institutions (Deepking, Keepers of the Flame, Blade Bazaar) override the generic “dwarven” label—so current state is Duergar. Still, the earlier use of “dwarven” creates ambiguity in classification.
-- Unclear whether Gracklstugh is physically destroyed or merely in ruin: ch39 says “might no longer exist due to their previous actions,” but ch61 confirms posters still exist, implying the city persists. No direct evidence of physical annihilation; current state is functional but fractured.
-- Unclear who controls Themberchaud now: ch14, ch16, ch29 all imply the Keepers of the Flame control him, but ch23 and ch24 suggest the Cult of Demogorgon is the true puppet master. No definitive attribution of current control.
-- Unclear if the “mass hangings” (ch40) and “spreading madness” (ch14) are ongoing or historical: the posters (ch61) and continued paranoia suggest they are current, but no explicit confirmation of their present frequency.
-- Uncertainty over whether the party’s actions caused the city’s decay or merely exacerbated it: ch23 implies the cult’s plan was already in motion; ch39 suggests the party may have triggered collapse, but no conclusive evidence.
+- Contradiction between Gracklstugh being described as a “dwarven stronghold” (ch01, ch29) and a “Duergar metropolis” (ch11, ch14, ch15, ch16, ch28, ch29, ch48) — Duergar are a dwarven subrace, but the term “dwarven” may imply non-Duergar dwarves; it is unclear whether the city still hosts non-Duergar dwarves or is exclusively Duergar.
+- Unclear whether Gracklstugh still physically exists: ch39 states the party believes it “might no longer exist” due to their actions, but ch61 confirms wanted posters still bear their names and the city’s structures and systems (e.g., propaganda, executions, marketplaces) remain active — suggesting it still functions, albeit in a ruined or corrupted state. No direct observation of its current physical state (collapsed, abandoned, burning) is given.
+- Ambiguous attribution: ch15 says “The Duergar... kill the giant,” but does not specify whether this occurred in Gracklstugh or elsewhere; if it occurred elsewhere, it may not reflect Gracklstugh’s current state.
+- Unclear whether the “Ember Vanguard” is an official institution or a fabricated scapegoat — ch16 and ch28 suggest it is a tool of control, but ch40 references wanted posters for it as if it were a real faction.
+- The nature of the “marker” from the mushroom artifact (ch50) is not defined — whether it is detectable by Gracklstugh’s authorities, and whether it still functions, is unknown.
+- The role of the “Keepers of the Flame” and their current status after the party’s interference is not confirmed — they may be dead, displaced, or still in control.
 
 ---
 
 <!-- source: faction_gracklstugh.md -->
 
-
----
-
 ---
 name: Gracklstugh
 type: faction
-n_facts: 3
-chapters: 20-61
+n_facts: 2
+chapters: 20-40
 ---
 
 ### Gracklstugh
 
-Gracklstugh is a city under the rule of the Deepking, functioning as a royal kingdom with its seal used to authorize high-level directives such as assassination orders. The city currently experiences a state of enforced peace marked by intense paranoia directed at the Ember Vanguard. This atmosphere is reinforced by recent mass hangings and executions. Gracklstugh now publicly displays wanted posters bearing the party’s name — deliberately distorted enough to serve as misdirection, yet clearly identifying them — contributing to the party’s infamy.
+Gracklstugh is a city currently experiencing a strange peace marked by intense paranoia about the Ember Vanguard, with recent mass hangings and executions having taken place. The city is under the rule of the Deepking, whose royal seal was previously used to authorize assassination orders, indicating continued centralized authority.
 
 ## Uncertainty
-- It is unclear whether the Deepking still personally rules Gracklstugh or if the royal seal’s use on contracts is a lingering institutional formality.  
-- The exact relationship between the Ember Vanguard and the current regime (enemy, infiltrators, scapegoats) is not specified.  
-- It is unknown whether the posters are official state propaganda or the work of a rogue faction within the city.
+- The relationship between the "royal kingdom" described in chapter 20 and the "city" described in chapter 40 is ambiguous — is Gracklstugh now a city-state, or was it previously mischaracterized as a kingdom? The later fact (ch40) describes it as a city, but does not clarify if the kingdom label is obsolete or metaphorical.
+- It is unclear whether the Deepking still rules directly from within the city or governs remotely; no current statement confirms the Deepking’s presence or active governance in ch40.
+- The source of the executions (Deepking’s direct order, local officials, Ember Vanguard scapegoating, etc.) is not specified — only that they occurred.
 
 ---
 
 <!-- source: npc_gracklstugh.md -->
-
-
----
 
 ---
 name: Gracklstugh
@@ -69,35 +63,6 @@ chapters: 25-25
 Gracklstugh is the city targeted by the cult’s ritual, which they intend to lay waste to after converting more Stone Giants.
 
 ## Uncertainty
-- The current status of Gracklstugh (whether it has been attacked, partially converted, or remains untouched) is unknown — the fact only states the cult’s intent, not the outcome.
+- The current status of Gracklstugh (e.g., whether the ritual has been completed, if it is still intact, or if it has already been laid waste) is not stated — only the cult’s intent is recorded.
+- No information is provided about who currently controls, inhabits, or defends Gracklstugh.
 - It is unclear whether the cult has succeeded in converting additional Stone Giants since this statement.
-- No information is given about who currently controls, inhabits, or defends Gracklstugh.
-
----
-
-<!-- source: object_gracklstugh.md -->
-
-
----
-
----
-name: Gracklstugh
-type: object
-n_facts: 1
-chapters: 15-15
----
-
-### Gracklstugh
-
-- **Type:** Object (magical forge complex or facility)
-- **Current location:** Unspecified, but implied to be a working industrial site tied to dragon-powered furnace systems.
-- **Current condition:** Operational; furnaces are actively maintained using a live fire dragon as a heat source.
-- **Current possessions / notable items:** A live fire dragon (used as a thermal engine).
-- **Key mechanism:** The fire dragon burns stone to generate sustained, intense heat, replacing conventional kindling for furnace operations.
-- **Current assignment / role:** Functions as a magical industrial power source for the furnaces of Gracklstugh.
-- **Defining recent action:** A fire dragon is actively employed to sustain furnace temperatures.
-
-## Uncertainty
-- The physical form or location of Gracklstugh itself is not described — it is unclear whether it is a building, a city, a mine, or a region.
-- The current state or location of the fire dragon (alive, contained, bound, or otherwise) is only described functionally; no details on its condition, control, or custody are given.
-- It is ambiguous whether “Gracklstugh” refers to the furnace complex, the dragon, or something else entirely — the quote uses “Gracklstugh” as the subject of the furnace system, but the entity type is labeled as “object,” leaving its ontological nature unclear.

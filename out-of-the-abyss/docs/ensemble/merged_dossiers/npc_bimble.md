@@ -1,8 +1,3 @@
-<!-- source: npc_bimble.md -->
-
-
----
-
 ---
 name: Bimble
 type: npc
@@ -12,25 +7,22 @@ chapters: 43-43
 
 ### Bimble
 
-**Current status:** Alive, infected  
-**Current location:** Kazook's chambers  
-**Allegiance/faction:** Scout of Kazook  
-**Current possessions / notable items, spells, feats, wounds:** Infected with spore-phenomenon; coughing up spores that form tiny laughing faces before dissolving  
-**Current assignment / role and key relationships:** Confined and under Kazook’s observation; previously sent to investigate the Garden of Stone  
-**Defining recent actions:** Returned from the Garden of Stone infected, raving about a singing garden and the Lady of Rot feeding the soil; now restrained on a table in Kazook’s chambers, manifesting spore-entities during coughing fits  
+**Current status:** Alive, but severely infected  
+**Current location:** Kazook’s chambers  
+**Allegiance/faction:** Formerly Kazook’s scout; now a vessel of the Garden of Stone’s corruption  
+**Current possessions / notable items, spells, feats, wounds:** None explicitly held; suffering from magical infection manifesting as coughed spores that form tiny laughing faces before dissolving  
+**Current assignment / role and key relationships:** Captive, restrained on a table in Kazook’s chambers; last known to have been sent by Kazook to investigate the Garden of Stone  
+**Defining recent actions:** Returned from the Garden of Stone infected, raving about a “singing garden” and the “Lady of Rot feeding the soil”; currently incapacitated and expelling spores with sentient, laughing forms  
 
 ## Uncertainty
-- The exact nature of the infection (biological, magical, or extradimensional) is not specified.  
-- Whether Bimble is still conscious or capable of communication beyond raving is unclear.  
-- It is ambiguous whether the “Lady of Rot” is a real entity, a hallucination, or a metaphor — no further context is given.  
-- The timeline of when he was strapped to the table relative to his return is not precise enough to determine if he was immediately restrained or held elsewhere first.
+- The exact nature of the infection (whether magical, fungal, or divine) is not specified beyond its effects.  
+- Whether the “Lady of Rot” is a real entity, a delusion, or a name given by the garden’s influence is unconfirmed.  
+- It is unclear if Bimble is still conscious or responsive while restrained — the facts describe physical symptoms but not mental state.  
+- The timeline between his return and being strapped to the table is not specified; it is unknown if he was captured immediately or wandered first.
 
 ---
 
 <!-- source: object_bimble.md -->
-
-
----
 
 ---
 name: Bimble
@@ -41,14 +33,13 @@ chapters: 43-43
 
 ### Bimble
 
-- **Type:** Object  
-- **Current location:** Strapped to a table in Kazook's chambers  
-- **Current condition:** Coughing up spores that form tiny laughing faces before dissolving into the air  
-- **Notable property:** Emits sentient, ephemeral spores that manifest as laughing faces  
-- **Current holder/occupant:** Under restraint in Kazook’s possession  
+- **Current location:** Kazook's chambers  
+- **Current condition:** Strapped to a table, actively coughing up spores that form tiny laughing faces before dissolving  
+- **Notable items/phenomena:** Emitting spores that manifest as transient laughing faces  
+- **Current assignment/role:** Subject of experimentation in Kazook's chambers  
 
 ## Uncertainty
-- The nature of Bimble (e.g., whether it is a living creature, magical artifact, or cursed object) is not specified.  
-- Whether Bimble is sentient, alive, or merely a vessel for the spores is unclear.  
-- No information on how long it has been in this state or if its condition is changing over time.  
-- No indication of who created Bimble or its original purpose.
+- The nature of Bimble (whether it is a creature, object, or something else) is not specified — only its behavior and location are described.  
+- Whether Bimble is alive, sentient, or inert is unclear from the fact.  
+- No information on who strapped Bimble to the table or why.  
+- No indication of whether this condition is temporary, permanent, or changing.

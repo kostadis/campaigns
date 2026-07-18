@@ -2,127 +2,155 @@
   {
     "type": "npc",
     "subject": "Thorin",
-    "fact": "Thorin is a dwarf brawler who accepts ranged roles out of necessity, wields a crossbow reluctantly, and holds the line with Dawnbringer when forced into melee. He respects tactical leverage and operates on terrain-based intuition learned from giants.",
-    "source_quote": "I know this. I made peace with it before the fight started. Mostly.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Ilvara",
-    "fact": "Ilvara is a corrupted former guardian now fused with the Heart Fungus, wielding a scourge and preoccupied with a mushroom token. She is reconfiguring the battle in real time, and her transformation is both specific and terrible.",
-    "source_quote": "She was on an elevated platform. Corrupted. The fungal growth had changed her in ways that were specific and terrible \u2014 the scourge still in her hand, but everything else altered.",
-    "quote_verified": true
+    "fact": "Thorin is a dwarf brawler who accepts ranged roles out of necessity, wields a crossbow reluctantly, and holds Dawnbringer as his true weapon; he respects tactical leverage and operates through terrain and position.",
+    "source_quote": "I'm standing on a bridge over a pit that smells like the inside of a dying thing... I take it, because I'd rather be in the fight badly than out of it entirely.",
+    "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Zalthir",
-    "fact": "Zalthir is a teleporting tactician who executes high-risk grapple-and-drop maneuvers. He targets the Heart Fungus as the central mechanism of control and coordinates team damage to maximize overlap.",
+    "fact": "Zalthir executes the pivotal teleport-and-grapple maneuver to drop Ilvara into the Heart Fungus's damage zone, demonstrating precision and control over battlefield geometry.",
     "source_quote": "I can try to grab Ilvara and drop her into that, such that you're hurting both of them, and then the rest of you can fireball or whatever from there.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Daz",
-    "fact": "Daz is a frontline coordinator who analyzes spell depletion and brawler engagement windows. He advocates for timing the entry of melee units and supports team synergy through phase-based planning.",
-    "source_quote": "Daz talked through the phases \u2014 the opening volley, the depletion of spell slots, the point at which the brawlers would need to go in.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
     "subject": "Jorlan",
-    "fact": "Jorlan is a humiliated ex-ally of Ilvara, emotionally broken and standing directly on a Glyph of Warding. His rage is predictable, his vector clear \u2014 exploited by Thorin as a tactical weapon.",
+    "fact": "Jorlan is a humiliated former follower of Ilvara, consumed by rage, standing directly on the Glyph of Warding unaware \u2014 his predictable emotional vector is exploited by Thorin to trigger a decisive area denial effect.",
     "source_quote": "He's across the cavern, bitter-eyed, nursing whatever wound his pride has taken since Ilvara discarded him.",
     "quote_verified": true
   },
   {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum placed the Glyph of Warding on the bridge with deliberate patience, creating a hidden tactical trap that becomes instrumental in disrupting Ilvara\u2019s reinforcements.",
+    "source_quote": "Jorlan is standing exactly twenty feet from the Glyph of Warding that Grygum spent real patience setting into the stone of the bridge.",
+    "quote_verified": false
+  },
+  {
     "type": "faction",
+    "subject": "Velkynvelve",
+    "fact": "Velkynvelve was once a guard force now corrupted into spore servants, reanimated by Ilvara\u2019s fungal influence to serve as frontline shock troops in the battle.",
+    "source_quote": "Four of them, former Velkynvelve guards, shambling and wrong.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
     "subject": "Heart Fungus",
-    "fact": "The Heart Fungus is a sentient, controlling organism that reanimates fallen guards as spore servants, emits lethal spore clouds, and serves as the central mechanism of Ilvara\u2019s power. It treats intruders as threats and adapts its tactics dynamically.",
-    "source_quote": "The Heart Fungus has been sitting in the middle of the cavern this whole time, pulsing, and I have been treating it as terrain. That's a mistake I revise immediately when it unleashes a cloud of spores...",
+    "fact": "The Heart Fungus is a sentient, pulsing fungal entity that controls Ilvara, emits lethal spore clouds, and reforms her after damage \u2014 it acts as both a living mechanism and a hostile environmental hazard.",
+    "source_quote": "The Heart Fungus pulsed between us and her, enormous and obscene, the mechanism of her control... It unleashes a cloud of spores that hits Zalthir so hard he has to climb ten feet straight up just to breathe.",
     "quote_verified": false
   },
   {
     "type": "monster",
     "subject": "Spore Servants",
-    "fact": "Four former Velkynvelve guards reanimated by the Heart Fungus, shambling and corrupted. They emerge from the ground and contribute to battlefield congestion. They are vulnerable to area damage and glyph detonations.",
-    "source_quote": "Then the spore servants come up out of the ground \u2014 four of them, former Velkynvelve guards, shambling and wrong...",
+    "fact": "Spore Servants are reanimated former Velkynvelve guards, shambling and corrupted by fungal growth, emerging from the ground to reinforce Ilvara\u2019s defenses during combat.",
+    "source_quote": "Four of them, former Velkynvelve guards, shambling and wrong.",
     "quote_verified": false
-  },
-  {
-    "type": "monster",
-    "subject": "Dust of Suleiman",
-    "fact": "A magical substance used to burn the Heart Fungus, disrupting its control mechanism. It is not a creature but a targeted tactical tool deployed to neutralize the core of the enemy\u2019s power.",
-    "source_quote": "The Dust of Suleiman burns the Heart Fungus.",
-    "quote_verified": true
   },
   {
     "type": "object",
     "subject": "Dawnbringer",
-    "fact": "Thorin\u2019s ancestral sword, a weapon of radiant light that defies the darkness of the cavern. It is his primary melee tool, wielded with precision after accepting a crossbow as a placeholder.",
-    "source_quote": "Now I have Dawnbringer in hand \u2014 the real hand, the right hand, the one that knows what it's doing...",
+    "fact": "Dawnbringer is Thorin\u2019s enchanted sword, a weapon of radiant light that defies the darkness of the cavern, wielded only when Thorin closes to melee \u2014 it symbolizes his true role as a frontline warrior.",
+    "source_quote": "I have Dawnbringer in hand \u2014 the real hand, the right hand, the one that knows what it's doing... The blade catches some ambient light... and turns it into something brighter, something that has no business existing this deep underground.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Light Crossbow",
+    "fact": "The light crossbow is lent to Thorin as a temporary ranged tool, used only because he lacks better options \u2014 it represents his compromise between identity and necessity.",
+    "source_quote": "Someone lends me a crossbow, and I take it, because I'd rather be in the fight badly than out of it entirely.",
     "quote_verified": false
   },
   {
     "type": "object",
     "subject": "Glyph of Warding",
-    "fact": "A strategically placed magical trap on the bridge, set by Grygum, designed to detonate when triggered. It is exploited by Thorin as a force multiplier against Jorlan\u2019s charge.",
-    "source_quote": "He's also standing exactly twenty feet from the Glyph of Warding that Grygum spent real patience setting into the stone of the bridge.",
+    "fact": "The Glyph of Warding is a hidden magical trap placed by Grygum on the bridge, designed to detonate when triggered \u2014 it is the key tactical element that disrupts Ilvara\u2019s reinforcement strategy.",
+    "source_quote": "Jorlan is standing exactly twenty feet from the Glyph of Warding that Grygum spent real patience setting into the stone of the bridge.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Dust of Suleiman",
+    "fact": "The Dust of Suleiman is a magical substance used to burn the Heart Fungus, targeting its control infrastructure rather than Ilvara\u2019s illusions \u2014 chosen for strategic efficacy over emotional satisfaction.",
+    "source_quote": "The Dust of Suleiman burns the Heart Fungus... because Asha was right and the infrastructure was more important than the satisfying image of Ilvara's nightmares eating her alive.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "teleport-grapple-drop",
+    "fact": "Zalthir teleports into position, grapples Ilvara, and drops her into the Heart Fungus\u2019s damage zone, initiating the core tactical sequence of the battle.",
+    "source_quote": "Zalthir vanishes \u2014 just gone, teleported straight to her \u2014 and then there's the crack of his fists finding purchase, once, twice, thirty-one damage in the space of a breath.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "glyph detonation",
+    "fact": "Jorlan charges onto the Glyph of Warding, triggering a 21-damage explosion that destroys one spore servant, cripples another, and destabilizes the Heart Fungus \u2014 a decisive shift in battlefield dynamics.",
+    "source_quote": "He comes straight onto the bridge, straight onto the glyph, and the detonation is immediate and total \u2014 21 damage, one spore servant gone to nothing, another barely holding itself together, and the Heart Fungus itself shuddering from the force of it.",
     "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Glyph Detonation",
-    "fact": "Jorlan\u2019s charge triggers the Glyph of Warding, dealing 21 damage, destroying one spore servant, weakening another, and destabilizing the Heart Fungus. This shifts the tactical balance of the battle.",
-    "source_quote": "He comes straight onto the bridge, straight onto the glyph, and the detonation is immediate and total \u2014 21 damage, one spore servant gone to nothing...",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Spore Cloud Release",
-    "fact": "The Heart Fungus unleashes a lethal cloud of spores that forces Zalthir to ascend ten feet to breathe, demonstrating its active hostility and tactical awareness.",
-    "source_quote": "...it unleashes a cloud of spores that hits Zalthir so hard he has to climb ten feet straight up just to breathe.",
-    "quote_verified": false
   },
   {
     "type": "thread",
-    "subject": "Phantasmal Killer Target",
-    "fact": "The nature of Ilvara\u2019s deepest fears \u2014 and what an illusory manifestation of them would look like \u2014 remains unknown. This is an unexploited tactical avenue, hinted at but not acted upon.",
-    "source_quote": "Phantasmal Killer reaches into nightmares. What does she dream about? What would an illusory manifestation of her deepest fears look like?",
+    "subject": "Ilvara's true form",
+    "fact": "Ilvara\u2019s transformation into a fungal entity raises unresolved questions about her original identity, the nature of her corruption, and whether she retains any vestige of self beneath the Heart Fungus\u2019s control.",
+    "source_quote": "She was on an elevated platform. Corrupted. The fungal growth had changed her in ways that were specific and terrible \u2014 the scourge still in her hand, but everything else altered.",
     "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Jorlan's redemption",
+    "fact": "Jorlan\u2019s rage-driven charge may have been exploited, but his emotional state and survival leave open the question of whether he can be saved \u2014 or if he will become another casualty of Ilvara\u2019s corruption.",
+    "source_quote": "He's armed. He's furious. He's also standing exactly twenty feet from the Glyph of Warding... He's been stewing in it so long the rot has gone all the way through.",
+    "quote_verified": false
   },
   {
     "type": "location",
     "subject": "Cavern of the Heart Fungus",
-    "fact": "A subterranean chamber dominated by the pulsing Heart Fungus, with elevated platforms, fungal growths, and a bridge over a pit smelling of decay. It is the site of Ilvara\u2019s transformation and the battlefield for the entire engagement.",
-    "source_quote": "She was on an elevated platform. Corrupted. The fungal growth had changed her in ways that were specific and terrible...",
+    "fact": "The cavern is a corrupted subterranean space dominated by the pulsing Heart Fungus, with elevated platforms, fungal growths, and hidden glyphs \u2014 terrain that is actively hostile and dynamically reshaped by Ilvara\u2019s will.",
+    "source_quote": "We watched Ilvara from the corridor near the pools... The cavern is full in a way that starts to feel personal.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Bridge of Warding",
+    "fact": "The bridge spans a pit over the cavern, bearing the Glyph of Warding placed by Grygum \u2014 it is the focal point of the ambush, where Jorlan\u2019s charge triggers the decisive tactical moment.",
+    "source_quote": "Jorlan is standing exactly twenty feet from the Glyph of Warding that Grygum spent real patience setting into the stone of the bridge.",
     "quote_verified": false
   },
   {
     "type": "date",
-    "subject": "4th-level slot expenditure",
-    "fact": "The plan hinges on the expenditure of one 4th-level spell slot, used to deploy the Dust of Suleiman against the Heart Fungus. This is the decisive tactical choice made before engagement.",
-    "source_quote": "One 4th-level slot. I'd made my choice. The Dust of Suleiman on the fungus...",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum is the planner who placed the Glyph of Warding on the bridge with deliberate patience, creating a hidden tactical asset later exploited by Thorin.",
-    "source_quote": "He's also standing exactly twenty feet from the Glyph of Warding that Grygum spent real patience setting into the stone of the bridge.",
+    "subject": "session date",
+    "fact": "The events occur during the current session, immediately following the planning phase and leading directly into the execution of the assassination plan.",
+    "source_quote": "Now we just had to survive the execution.",
     "quote_verified": true
   },
   {
     "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz coordinates the tactical phases of the battle \u2014 opening volley, spell depletion, brawler entry \u2014 and later executes a fireball to strike the overlap zone, demonstrating battlefield awareness and timing.",
+    "source_quote": "Daz talked through the phases \u2014 the opening volley, the depletion of spell slots, the point at which the brawlers would need to go in... Daz fireballs the overlap.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
     "subject": "Asha",
-    "fact": "Asha is a strategic voice who prioritized infrastructure over emotional satisfaction, advocating for targeting the Heart Fungus over exploiting Ilvara\u2019s psychological vulnerabilities.",
+    "fact": "Asha advocated for targeting the Heart Fungus\u2019s infrastructure over emotional or symbolic destruction \u2014 her strategic insight directly influenced the choice to use the Dust of Suleiman.",
     "source_quote": "because Asha was right and the infrastructure was more important than the satisfying image of Ilvara's nightmares eating her alive.",
     "quote_verified": true
   },
   {
     "type": "thread",
-    "subject": "Tactical Leverage Over Terrain",
-    "fact": "Thorin\u2019s entire approach is built on leveraging position, enemy psychology, and environmental hazards rather than raw power. This philosophy remains the unspoken core of his tactics.",
-    "source_quote": "I have been thinking in terrain and leverage since before I could name those words for what they were.",
+    "subject": "Thorin's identity conflict",
+    "fact": "Thorin struggles between his identity as a brawler and the tactical necessity of ranged combat \u2014 his internal conflict is resolved not by changing his nature, but by accepting his role as leverage in a larger machine.",
+    "source_quote": "I made peace with it before the fight started. Mostly.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the fungal takeover",
+    "fact": "The transformation of Ilvara and the environment into fungal constructs suggests a deeper, possibly sentient corruption \u2014 raising questions about whether the Heart Fungus is a tool, a parasite, or a new form of life.",
+    "source_quote": "The fungal growth had changed her in ways that were specific and terrible \u2014 the scourge still in her hand, but everything else altered.",
     "quote_verified": true
   }
 ]

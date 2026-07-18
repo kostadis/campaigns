@@ -5,16 +5,17 @@ n_facts: 1
 chapters: 5-5
 ---
 
-### Yeenoghu  
-Current status: Alive  
-Current location: Unknown (last known activity tied to Faerûn’s mythic past)  
-Allegiance/faction: Demon lord of the gnolls, ruler of the Abyssal plane associated with savagery and flesh  
-Current possessions / notable items, spells, feats, wounds: None specified  
-Current assignment / role and key relationships: Creator and patron deity of gnolls; commands gnollish hordes in the name of carnage and chaos  
-Defining recent actions: None recorded in current chapter; mythic origin event (creation of gnolls) is the only attributed action  
-Revealed motivations or secrets: Seeks to spread brutal, uncontrolled violence; views gnolls as extensions of his wrath  
+### Yeenoghu
 
-## Uncertainty  
-- No current location or active presence confirmed; all references are mythic or historical.  
-- No recent actions or interactions recorded beyond the origin myth.  
-- No details on current followers, manifestations, or influence in the present campaign timeline.
+- **Current status:** Alive  
+- **Current location:** Unknown (not specified)  
+- **Allegiance/faction:** Demon lord of gnolls  
+- **Current possessions / notable items, spells, feats, wounds:** None specified  
+- **Current assignment / role and key relationships:** Creator of the gnolls; no current companions or subordinates named  
+- **Defining recent actions:** None specified beyond origin myth  
+- **Revealed motivations or secrets:** None beyond the myth of gnoll creation  
+
+## Uncertainty
+- No current location, actions, or state beyond origin myth is provided.  
+- No evidence of recent activity or current influence in Faerûn beyond the historical claim.  
+- No other traits (appearance, abilities, allies, enemies) are given.

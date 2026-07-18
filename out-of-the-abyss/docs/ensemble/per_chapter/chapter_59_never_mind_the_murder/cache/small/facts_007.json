@@ -1,163 +1,135 @@
 [
   {
     "type": "npc",
-    "subject": "Leuwin",
-    "fact": "Leuwin is an elderly satyr apothecary who works inside an ancient evergreen oak tree at the western edge of the library grounds, distilling herbs and tinctures, and was distracted by A'lai in the greenhouse during the poisoning incident.",
-    "source_quote": "He couldn't imagine how it had happened. Then: maybe Nibbles knows something.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Nibbles",
-    "fact": "Nibbles is a squirrel who works alongside Leuwin, capable of speech when incentivized with nuts, and witnessed the entire sequence of events leading to the theft of the dangerous toxin.",
-    "source_quote": "I made the mistake of asking everything at once \u2014 who, why, the cover-up \u2014 and the squirrel told me that was too much.",
+    "subject": "Thorin",
+    "fact": "Thorin is interrogating the wait staff and has identified multiple suspects in the theft of a toxic substance, noting the cut-and-retied string on Janussi's Deadwinter gift as a key clue, and recognizing the coordinated nature of the crime as professionally executed.",
+    "source_quote": "We're getting more suspects instead of fewer, just to be clear.",
     "quote_verified": true
   },
   {
     "type": "npc",
+    "subject": "Alkrist",
+    "fact": "Alkrist was seen holding a scrap of paper toward a candle and dropping it when two junior avowed entered, making him a suspect in the theft of the toxic substance.",
+    "source_quote": "Alkrist had been holding a small scrap of paper toward a candle, feeding it to the flame, and when two junior avowed walked in, he dropped it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi's Deadwinter gift had a string that was cut and retied, indicating tampering with the package containing the book inside, and serving as the central clue in the theft investigation.",
+    "source_quote": "The string tied around Janussi's Deadwinter gift had clearly been cut and retied.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Janussi's Deadwinter gift",
+    "fact": "The gift contained a book whose wrapping had been opened and the string retied, suggesting the contents were accessed and possibly replaced or altered during the theft.",
+    "source_quote": "The book sitting wrapped in that package, the string opened and knotted back shut.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "peppermint-soaked rag",
+    "fact": "A peppermint-soaked rag was found beneath the top shelf in the apothecary, alongside a broken vial, indicating a botched attempt to conceal the theft of a dangerous toxin.",
+    "source_quote": "Under the top shelf I found a peppermint-soaked rag and a broken vial.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "broken vial",
+    "fact": "The broken vial was labeled in Elvish as *Dangerous Toxins*, and contained a substance that, when mixed and built upon, becomes a lethal poison.",
+    "source_quote": "The shelf above the spillage was labeled, in Elvish, *Dangerous Toxins.* The glass had broken and somebody had tried to hide it.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "dragonborn",
+    "fact": "The dragonborn entered the apothecary alone while the shopkeeper was distracted, broke the vial of dangerous toxin, and stole it, acting as the primary thief in the coordinated crime.",
+    "source_quote": "A huge lizard skin came in and made a big mess. Something went *bling* and shuddered, and the lizard moved things around, and then left.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
     "subject": "Fheminor",
-    "fact": "Fheminor is a gnome who visited Leuwin at 2:30 PM seeking cold medicine, and was seen by Nibbles as an unpleasant individual, but did not handle the dangerous toxins.",
-    "source_quote": "He saw the unfriendly girl gnome. Fheminor. Unpleasant, always unpleasant.",
+    "fact": "Fheminor, a gnome, visited the apothecary at half past two for cold medicine and had left before the theft occurred, ruling her out as the thief but establishing her presence in the timeline.",
+    "source_quote": "At half past two, the gnome \u2014 Fheminor \u2014 came for cold medicine. Tincture of horehound, licorice to chew.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "A'lai",
-    "fact": "A'lai is a dark-skinned elf who arrived at 3:00 PM seeking fennel for indigestion, and was led by Leuwin to the greenhouse below, creating a diversion that kept the apothecary away from the upstairs storage.",
-    "source_quote": "A'lai arrived asking for fennel for indigestion, and Leuwin took him down through the rear exit to the greenhouse below.",
+    "fact": "A'lai, a dark-skinned elf, visited the apothecary at three and was led by Leuwin to the greenhouse below, serving as the diversion that kept the shopkeeper away from the upstairs where the theft occurred.",
+    "source_quote": "At three, A'lai arrived asking for fennel for indigestion, and Leuwin took him down through the rear exit to the greenhouse below.",
     "quote_verified": false
   },
   {
     "type": "npc",
-    "subject": "Dragonborn",
-    "fact": "A dragonborn entered the apothecary alone while Leuwin was occupied, broke a vial labeled *Dangerous Toxins*, and stole its contents, leaving behind a peppermint-soaked rag and shattered glass.",
-    "source_quote": "A huge lizard skin came in and made a big mess. A dragonborn. Something went *bling* and shuddered, and the lizard moved things around, and then left.",
-    "quote_verified": true
+    "subject": "Leuwin",
+    "fact": "Leuwin, the elderly satyr apothecary, was distracted by A'lai\u2019s visit and led him to the greenhouse, making him unaware of the theft occurring upstairs, and thus an unwitting participant in the diversion.",
+    "source_quote": "Leuwin didn't know... because Leuwin wasn't in the room.",
+    "quote_verified": false
   },
   {
     "type": "npc",
-    "subject": "Drow",
-    "fact": "A drow was not directly observed by Nibbles, but is inferred as the orchestrator of the theft: they bribed Nibbles with nuts to gather intelligence and coordinated the diversion by sending A'lai to the greenhouse, ensuring their own hands remained clean of the poison.",
-    "source_quote": "A drow on his knees, bribing a squirrel one nut at a time.",
+    "subject": "Nibbles",
+    "fact": "Nibbles, the squirrel, witnessed the events through bribes of nuts and confirmed the dragonborn\u2019s presence and actions, serving as the key witness who exposed the coordinated theft.",
+    "source_quote": "The squirrel popped up... I had nuts. We understood each other immediately.",
     "quote_verified": false
   },
   {
     "type": "faction",
-    "subject": "The Library Grounds Apothecary",
-    "fact": "An apothecary housed within a living evergreen oak tree, operated by Leuwin and Nibbles, with shelves of balms and tinctures climbing the inner bark, and a rear exit leading to a magically sustained greenhouse.",
-    "source_quote": "The apothecary was a tree. Not a building shaped like a tree, an actual evergreen oak grown out of the burrows in the west of the library grounds...",
+    "subject": "drow",
+    "fact": "A drow orchestrated the theft by bribing the squirrel with nuts and arranging the diversion that kept Leuwin occupied, ensuring their hands remained clean of the dangerous toxin.",
+    "source_quote": "A drow on his knees, bribing a squirrel one nut at a time.",
     "quote_verified": false
   },
   {
     "type": "event",
-    "subject": "toxin theft",
-    "fact": "A highly toxic substance from a vial labeled *Dangerous Toxins* was stolen through a coordinated diversion: the drow bribed a squirrel and sent A'lai to the greenhouse, while the dragonborn broke into the upstairs storage and took the vial, leaving behind a poorly concealed cover-up.",
-    "source_quote": "The glass had broken and somebody had tried to hide it. Badly. That was the word that mattered.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "the apothecary's upstairs storage",
-    "fact": "The storage area above the main counter where the vial of dangerous toxins was kept, labeled in Elvish, and where the dragonborn broke the vial and left a peppermint rag as evidence.",
-    "source_quote": "Under the top shelf I found a peppermint-soaked rag and a broken vial, and the shelf above the spillage was labeled, in Elvish, *Dangerous Toxins.*",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "the greenhouse below",
-    "fact": "A magically sustained herb garden accessible via a rear exit from the apothecary, where Leuwin was occupied with A'lai during the theft, creating the critical diversion.",
-    "source_quote": "where he grows herbs year-round with magic.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "the broken vial",
-    "fact": "A glass vial labeled *Dangerous Toxins* that was shattered during the theft, containing a substance that, when mixed and built upon, becomes a lethal poison, and was concealed under a peppermint-soaked rag.",
-    "source_quote": "What had been in the vial was one of those substances that, mixed and built upon, turns into very dangerous poisons.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "the peppermint-soaked rag",
-    "fact": "A cloth used to mask the smell of the broken toxin vial, left carelessly on the floor and identified by Nibbles as an amateurish cover-up attempt.",
-    "source_quote": "A professional doesn't leave a peppermint rag where the next person to crouch down will find it.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "the nuts",
-    "fact": "Acorns and other nuts used by the drow to bribe Nibbles, and later by the investigator to extract testimony from the squirrel, serving as currency of influence in the investigation.",
-    "source_quote": "The drow draws the druid downstairs with a complaint about indigestion... bribing a squirrel one nut at a time.",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "the drow's identity",
-    "fact": "The drow who orchestrated the theft remains unidentified; Nibbles did not observe their face or markings, and their role was entirely one of misdirection and bribery.",
-    "source_quote": "The squirrel didn't know.",
+    "subject": "theft of dangerous toxin",
+    "fact": "The theft of the dangerous toxin was executed through a coordinated two-part operation: a diversion in the greenhouse to distract the apothecary, and a silent theft upstairs by the dragonborn, who broke the vial and removed the substance.",
+    "source_quote": "A diversion in one room, the theft in another, and the only one of them within reach of the poison is the one who isn't a drow.",
     "quote_verified": true
   },
   {
     "type": "thread",
-    "subject": "the toxin's destination",
-    "fact": "The stolen poison has not been recovered; its intended use, recipient, or final form remains unknown, though its composition suggests it is meant for assassination or sabotage.",
-    "source_quote": "What had been in the vial was one of those substances that, mixed and built upon, turns into very dangerous poisons.",
+    "subject": "origin of the drow's involvement",
+    "fact": "The drow\u2019s identity and motive remain unknown, as the squirrel could not identify any distinguishing marks, leaving the mastermind of the operation still concealed.",
+    "source_quote": "I asked whether either of them had any identifying marks. The squirrel didn't know.",
     "quote_verified": true
   },
   {
-    "type": "monster",
-    "subject": "the dragonborn",
-    "fact": "The dragonborn is the physical actor of the theft, entering alone, breaking the vial, and handling the toxin \u2014 the only individual to directly touch the dangerous substance.",
-    "source_quote": "A huge lizard skin came in and made a big mess. A dragonborn. Something went *bling* and shuddered...",
+    "type": "location",
+    "subject": "Daz \u2014 The Squirrel's Testimony at the Oak Tree Apothecary",
+    "fact": "The Oak Tree Apothecary is a living evergreen oak with a hollowed trunk housing a pharmacy, located on the west grounds of the library, where the theft of the dangerous toxin occurred.",
+    "source_quote": "The apothecary was a tree. Not a building shaped like a tree, an actual evergreen oak grown out of the burrows in the west of the library grounds...",
     "quote_verified": false
   },
   {
     "type": "date",
-    "subject": "2:30 PM",
-    "fact": "The time Fheminor arrived for cold medicine, marking the first known visit before the theft.",
-    "source_quote": "At half past two, the gnome \u2014 Fheminor \u2014 came for cold medicine.",
-    "quote_verified": true
-  },
-  {
-    "type": "date",
-    "subject": "3:00 PM",
-    "fact": "The time A'lai arrived for fennel, triggering the diversion that removed Leuwin from the premises.",
-    "source_quote": "At three, A'lai arrived asking for fennel for indigestion...",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "3:15 PM",
-    "fact": "The time the dragonborn entered and committed the theft, while Leuwin was occupied in the greenhouse and Fheminor had already departed.",
+    "subject": "time of theft",
+    "fact": "The theft occurred at a quarter past three, after Fheminor had left and while Leuwin was in the greenhouse with A'lai, leaving the upstairs unattended.",
     "source_quote": "At a quarter past three, the trouble.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "the diversion",
-    "fact": "A carefully timed scheme in which the drow used A'lai\u2019s request for herbs to lure Leuwin into the greenhouse, ensuring no one was present upstairs to witness the dragonborn\u2019s theft.",
-    "source_quote": "because you gave me so many tokens, I saw the person, but Leuwin didn't, because Leuwin wasn't in the room.",
+    "subject": "squirrel's testimony",
+    "fact": "The squirrel's testimony, obtained through nut bribes, reorganized the timeline and identified the dragonborn as the thief and the drow as the orchestrator, exposing the precision of the crime.",
+    "source_quote": "Because you gave me so many tokens, I saw the person, but Leuwin didn't, because Leuwin wasn't in the room.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Orrin",
+    "fact": "Orrin provided the critical clue about the cut-and-retied string on Janussi's Deadwinter gift, which Thorin recognized as the key indicator of internal tampering.",
+    "source_quote": "And then Orrin handed me the one that mattered. Something out of the ordinary: the string tied around Janussi's Deadwinter gift had clearly been cut and retied.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "the cover-up",
-    "fact": "The dragonborn attempted to conceal the broken vial with a peppermint rag, an amateur mistake that drew attention rather than hiding it, revealing the crime to the investigator.",
-    "source_quote": "Badly. That was the word that mattered.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "the drow's motive",
-    "fact": "The drow\u2019s motive remains unclear \u2014 whether to eliminate a target, frame another, or obtain the toxin for their own use \u2014 but their method shows deep understanding of misdirection and deniability.",
-    "source_quote": "Elegant. I asked whether either of them had any identifying marks. The squirrel didn't know.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "the squirrel's loyalty",
-    "fact": "Nibbles\u2019 cooperation was secured through nuts, raising questions about whether they are still being bribed, or if their testimony was truthful under incentive.",
-    "source_quote": "Nibbles loved nuts. I had nuts. We understood each other immediately.",
+    "type": "object",
+    "subject": "cut-and-retied string",
+    "fact": "The cut-and-retied string on Janussi's Deadwinter gift was the physical signature of the theft, proving the package had been opened and resealed by someone inside the room with access to the gifts.",
+    "source_quote": "The cut string was the rock in the right place. Nobody came in from outside. This was somebody who'd been at the table.",
     "quote_verified": true
   }
 ]

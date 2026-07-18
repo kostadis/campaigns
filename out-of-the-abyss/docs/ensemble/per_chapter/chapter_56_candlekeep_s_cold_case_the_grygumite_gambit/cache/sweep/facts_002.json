@@ -1,394 +1,149 @@
 [
   {
-    "type": "location",
-    "subject": "Candlekeep",
-    "fact": "Candlekeep's grounds are blanketed in snow, white and silent, with no hunting presence.",
-    "source_quote": "Candlekeep's grounds were blanketed in it, white and silent, the kind of silence that had nothing hunting inside it.",
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is referenced by the continuing speaker as the one who observed Glabbagool's assessment and noted the chamber's structural details, and who later questioned Bookwyrm's timing in volunteering information about Kalan's resignation.",
+    "source_quote": "I watched him do it and thought: *at least we have that.*",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Fembris",
+    "fact": "Fembris is the guide who led the tour of the Bastion, described the Astronomicon and Drakonoikos, and named the Dragon Breath Simulation Chamber with warning tone.",
+    "source_quote": "\"Behold, the great library.\"",
     "quote_verified": true
   },
   {
     "type": "location",
-    "subject": "Candlekeep",
-    "fact": "Candlekeep has three visible archways, one service passage, and one guarded door to the north.",
-    "source_quote": "Exits: three visible archways, one service passage, one guarded door to the north.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Candlekeep",
-    "fact": "Candlekeep has an exaltation bastion as the dominant structure, tallest fixed point.",
-    "source_quote": "The exaltation bastion rose above us and I filed it as the dominant structure, tallest fixed point.",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Astronomicon",
-    "fact": "The Astronomicon is a stack of blue globes ascending in scale, pale against the white sky.",
-    "source_quote": "You see that curious blue stack of globes? That's the Astronomicon.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Whispering Dome",
-    "fact": "The Whispering Dome is gold under the snow and part of the Hall of Momentous Deeds.",
-    "source_quote": "The Whispering Dome sat further along, gold under the snow \u2014 striking, even by surface standards. Fembris pointed it out as part of the Hall of Momentous Deeds.",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Whispering Dome",
-    "fact": "Voices from the past linger in the Whispering Dome and can be heard if one stands in the right place.",
-    "source_quote": "explained that voices from the past lingered there, that you could hear them if you stood in the right place.",
+    "subject": "Candlekeep's Bastion",
+    "fact": "Candlekeep's Bastion contains three visible archways, one service passage, one guarded door to the north, oil paintings on every staircase, busts on pedestals at each landing, heavy tapestries, and the Drakonoikos structure built from enormous scales and bones.",
+    "source_quote": "Exits: three visible archways, one service passage, one guarded door to the north. Foot traffic: light, scholars moving in pairs, nobody moving fast. No elevated positions. No obvious coverage points.",
     "quote_verified": true
   },
   {
     "type": "location",
     "subject": "Drakonoikos",
-    "fact": "The Drakonoikos is built from enormous overlapping scales and bones worked into the walls.",
+    "fact": "Drakonoikos is a structure built from enormous scales and bones worked into the walls, where the early light hits the scales and they hold it.",
     "source_quote": "The structure was built from scales \u2014 actual scales, enormous, overlapping \u2014 and bones worked into the walls where another building would have used stone.",
     "quote_verified": true
   },
   {
-    "type": "npc",
-    "subject": "Fyrentennimar",
-    "fact": "Fyrentennimar is a dragon of age and significance whose remains form the Drakonoikos.",
-    "source_quote": "Fyrentennimar, Fembris finally produced the name after a pause and a visible effort, dragon of some age and significance, now a wall.",
-    "quote_verified": true
+    "type": "location",
+    "subject": "Astronomicon",
+    "fact": "Astronomicon is a stack of blue globes ascending in scale, pale against the white sky, said to contain everything known about the stars.",
+    "source_quote": "A stack of blue globes, ascending in scale, pale against the white sky.",
+    "quote_verified": false
   },
   {
     "type": "location",
     "subject": "Dragon Breath Simulation Chamber",
-    "fact": "The Dragon Breath Simulation Chamber is inside the Drakonoikos and caused the death of one Avowed.",
-    "source_quote": "Fembris warned us about the Dragon Breath Simulation Chamber inside. One of the Avowed had died in it, he said.",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "oil paintings",
-    "fact": "Oil paintings of stern-faced sages in various states of disapproval line every staircase in the Candlekeep bastion.",
-    "source_quote": "Oil paintings on every staircase, stern-faced sages in various states of disapproval",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "busts",
-    "fact": "Busts on pedestals are positioned at each landing in the Candlekeep bastion.",
-    "source_quote": "busts on pedestals at each landing.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "tapestries",
-    "fact": "Heavy tapestries hang in the Candlekeep bastion and could conceal anything or nothing.",
-    "source_quote": "The tapestries were heavy and could conceal anything or nothing.",
+    "fact": "Dragon Breath Simulation Chamber is a chamber inside the Bastion where one of the Avowed died, requiring the Keeper's permission for access.",
+    "source_quote": "One of the Avowed had died in it, he said, which was why the Keeper's permission was now required.",
     "quote_verified": true
   },
   {
     "type": "location",
     "subject": "Chapter House",
-    "fact": "The Chapter House contains twelve chairs around a twelve-sided table.",
-    "source_quote": "The Chapter House was exactly as described \u2014 twelve chairs around a twelve-sided table",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Chapter House",
-    "fact": "The Chapter House has a rose window throwing colored light across the stone floor.",
-    "source_quote": "rose window throwing colored light across the stone floor",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Chapter House",
-    "fact": "The Chapter House has western gables pressing down overhead like a building that takes itself seriously.",
-    "source_quote": "western gables pressing down overhead like a building that took itself seriously.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "A'lai Aivenmore",
-    "fact": "A'lai Aivenmore is a tall, handsome council member with a braided beard who advocates for restoring leadership to Candlekeep.",
-    "source_quote": "We must have the vote and restore leadership to Candlekeep.\" That was A'lai Aivenmore \u2014 tall, handsome, braided beard, the kind of smooth presentation that means either he's been waiting for this moment or he's very good at pretending he hasn't.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "halfling with pince-nez",
-    "fact": "A dowdy halfling with pince-nez argues that Janussi's successor must be determined first.",
-    "source_quote": "First, we must determine if Janussi named a successor\u2014\" The dowdy halfling with the pince-nez. She adjusted her glasses as she said it.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "slender human with heavy wrinkles",
-    "fact": "A slender human with heavy wrinkles insists the murderer must be found first.",
-    "source_quote": "First, we must find the murderer!\" The slender human with the heavy wrinkles, voice sharp enough to cut. She at least had the right priority.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "bronze dragonborn in bejeweled robes",
-    "fact": "A bronze dragonborn in bejeweled robes demands the gate warden be dismissed immediately.",
-    "source_quote": "The gate warden needs to be dismissed with immediate effect! This happened on HIS watch!\" That was the bronze dragonborn in the bejeweled robes \u2014 formidably sized, beautifully tailored, entirely aware of both facts.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Daral",
-    "fact": "Daral questions why Sylvira Savikas is absent from the Council meeting.",
-    "source_quote": "why isn't Sylvira Savikas here?",
+    "fact": "Chapter House contains twelve chairs around a twelve-sided table, a rose window throwing colored light across the stone floor, and western gables pressing down overhead.",
+    "source_quote": "The Chapter House was exactly as described \u2014 twelve chairs around a twelve-sided table, rose window throwing colored light across the stone floor, western gables pressing down overhead like a building that took itself seriously.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Bookwyrm",
-    "fact": "Bookwyrm is a green dragonborn who is shaken and weary from being awake since Janussi's death.",
-    "source_quote": "Bookwyrm was trying to hold it together. Green dragonborn, shaken, weary in the way you get when you've been awake since someone died and also people keep talking.",
+    "fact": "Bookwyrm is the green dragonborn who proposed delegating the investigation to the party, offered vague but workable remuneration terms, and revealed that Janussi had asked Kalan to resign before his death.",
+    "source_quote": "\"Let's be calm ourselves\u2026\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch is the gate warden with a gray-white beard and piercing blue eyes, who was asked to resign by Janussi and later entered the Chapter House after the council's decision.",
+    "source_quote": "Then Kalan Strongbranch walked in.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "A'lai Aivenmore",
+    "fact": "A'lai Aivenmore is the tall, handsome council member with a braided beard who advocated for restoring leadership to Candlekeep and decided the fastest resolution was best.",
+    "source_quote": "\"We must have the vote and restore leadership to Candlekeep.\"",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum declares himself the founder of the Grygumite School to gain the council's attention.",
-    "source_quote": "I am the head of the Grygumite School.\" A beat. \"Founder, in fact.",
-    "quote_verified": true
+    "fact": "Grygum is the speaker who introduced himself as founder of the Grygumite School, negotiated remuneration for the investigation, and referenced Poirot and Colombo.",
+    "source_quote": "\"I am the head of the Grygumite School. Founder, in fact.\"",
+    "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Thorin",
-    "fact": "Thorin mentions he and his wife have been watching a great deal of Poirot lately.",
-    "source_quote": "Thorin noted that he and his wife had been watching a great deal of Poirot lately.",
+    "fact": "Thorin is the speaker who proposed remuneration in books, referenced Poirot and Colombo, and insisted on carte blanche access to the library.",
+    "source_quote": "\"Are we supposed to investigate if we can't poke around?\"",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Dawnbringer",
-    "fact": "Dawnbringer, housed in her scabbard, claims to be the greatest discoverer of all for having been found after two thousand years.",
-    "source_quote": "Dawnbringer, housed in her scabbard, took the opportunity to note that we must surely be the greatest discoverers of all, having found her tomb after two thousand years.",
+    "subject": "Daz",
+    "fact": "Daz is the one who noted Bookwyrm\u2019s timing in volunteering information about Kalan\u2019s resignation and asked what type of work Kalan was negligent in.",
+    "source_quote": "What type of work was he negligent in?",
     "quote_verified": true
   },
   {
-    "type": "npc",
-    "subject": "Kalan Strongbranch",
-    "fact": "Kalan Strongbranch has a gray-white beard, piercing blue eyes, and expects to be listened to.",
-    "source_quote": "Kalan Strongbranch walked in. I recognized him \u2014 the gray-white beard, the piercing blue eyes, the posture of someone who expects to be listened to and usually is.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Kalan Strongbranch",
-    "fact": "Kalan Strongbranch previously wanted to put Daz in irons upon arrival at Candlekeep.",
-    "source_quote": "He'd been the one who wanted to put Daz in irons when we arrived.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Janussi's resignation request",
-    "fact": "Janussi asked Kalan Strongbranch to tender his resignation the morning before his death.",
-    "source_quote": "yesterday morning, Janussi asked the gate warden to tender his resignation.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Bookwyrm's disclosure",
-    "fact": "Bookwyrm disclosed that Janussi was concerned Kalan was losing his mental faculties and becoming negligent.",
-    "source_quote": "The Keeper was concerned that Kalan was losing his mental faculties and becoming negligent in his work.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "investigation delegation",
-    "fact": "Bookwyrm proposed delegating the investigation into Janussi's death to the party.",
-    "source_quote": "Bookwyrm proposed delegating the investigation to us.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "remuneration agreement",
-    "fact": "The council agreed to provide one book each to the party upon successful completion of the investigation.",
+    "type": "location",
+    "subject": "Candlekeep's Library",
+    "fact": "Candlekeep's Library is a place where books are copied at the House of the Binder upon successful completion of an investigation, and where full access is requested but initially withheld.",
     "source_quote": "One book each, copied at the House of the Binder, upon successful completion.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "confidentiality papers",
-    "fact": "The council required confidentiality papers before granting the party access to the investigation.",
-    "source_quote": "Confidentiality papers first.",
+    "type": "object",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is a sword housed in its scabbard that claimed to have been found in a tomb after two thousand years.",
+    "source_quote": "Dawnbringer, housed in her scabbard, took the opportunity to note that we must surely be the greatest discoverers of all, having found her tomb after two thousand years.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "all-access library card request",
-    "fact": "The party requested and received carte blanche access to the entire Candlekeep library.",
-    "source_quote": "We need an all-access library card,\" I said. [...] Bookwyrm agreed.",
-    "quote_verified": false
+    "subject": "Janussi's Death",
+    "fact": "Janussi, the Keeper of Tomes, was found dead, and on the morning of his death, he had asked Kalan Strongbranch to tender his resignation due to concerns about mental faculties and negligence.",
+    "source_quote": "Janussi, the morning before his death, had asked Kalan to tender his resignation. Mental faculties. Negligence.",
+    "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "Kalan Strongbranch's entrance",
-    "fact": "Kalan Strongbranch entered the Chapter House and was immediately cut off by Bookwyrm.",
-    "source_quote": "Then Kalan Strongbranch walked in. [...] Before he could speak, Bookwyrm cut him off with the precision of someone who had prepared that sentence in advance",
-    "quote_verified": false
+    "subject": "Investigation Delegation",
+    "fact": "The Council of Twelve delegated the investigation of Janussi's death to the party, citing fate and divine intervention, and agreed to provide one book each upon successful completion.",
+    "source_quote": "\"seekers who the gods have sent us\"",
+    "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "Bookwyrm's assurance",
-    "fact": "Bookwyrm assured the party she had nothing to do with Janussi's death.",
-    "source_quote": "I can assure you, I had nothing to do with it.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Sylvira Savikas",
-    "fact": "Sylvira Savikas is absent from the Council meeting and her absence is questioned by Daral.",
-    "source_quote": "why isn't Sylvira Savikas here?",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Brother Heslin",
-    "fact": "Brother Heslin once spoke about repurposing threats as knowledge, according to Zalthir's memory.",
-    "source_quote": "Brother Heslin \u2014 or possibly Brother Arrath, I was never certain which of them ran the theory sessions on repurposed threat \u2014 had said something along those lines once.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Brother Arrath",
-    "fact": "Brother Arrath may have run theory sessions on repurposed threat, though Zalthir is uncertain.",
-    "source_quote": "Brother Heslin \u2014 or possibly Brother Arrath, I was never certain which of them ran the theory sessions on repurposed threat \u2014 had said something along those lines once.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Janussi",
-    "fact": "Janussi is the Keeper of Tomes who was dead before the party arrived at Candlekeep.",
-    "source_quote": "Somewhere inside Candlekeep, the Keeper of Tomes was dead",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Avowed",
-    "fact": "One Avowed died in the Dragon Breath Simulation Chamber.",
-    "source_quote": "One of the Avowed had died in it",
-    "quote_verified": true
-  },
-  {
-    "type": "faction",
-    "subject": "Avowed",
-    "fact": "The Avowed are a group within Candlekeep who require permission to use the Dragon Breath Simulation Chamber.",
-    "source_quote": "the Avowed were still asleep. [...] the Keeper's permission was now required.",
+    "subject": "Remuneration Negotiation",
+    "fact": "The party negotiated for remuneration in the form of one book each from the library, and demanded full access to the library as a condition of the investigation.",
+    "source_quote": "\"We need an all-access library card.\"",
     "quote_verified": false
   },
   {
     "type": "location",
     "subject": "House of the Binder",
-    "fact": "Books for the party will be copied at the House of the Binder upon successful completion of the investigation.",
+    "fact": "House of the Binder is the location where books are copied for the party upon successful completion of the investigation.",
     "source_quote": "One book each, copied at the House of the Binder, upon successful completion.",
     "quote_verified": true
   },
   {
-    "type": "object",
-    "subject": "Dawnbringer",
-    "fact": "Dawnbringer is a sword housed in her scabbard that claims to have been found after two thousand years.",
-    "source_quote": "Dawnbringer, housed in her scabbard, took the opportunity to note that we must surely be the greatest discoverers of all, having found her tomb after two thousand years.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "Grygumite School",
-    "fact": "The Grygumite School is a newly declared school of thought that captured the council's interest.",
-    "source_quote": "I am the head of the Grygumite School.\" A beat. \"Founder, in fact.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "Poirot and Colombo",
-    "fact": "Thorin and Grygum claim to be students of the great Masters Poirot and Colombo.",
-    "source_quote": "Thorin said we were students of the great Masters Poirot and Colombo",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "new philosophy of the universe",
-    "fact": "Grygum claims to have found a new philosophy of the universe.",
-    "source_quote": "And I have found a new philosophy of the universe.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "fixed points",
-    "fact": "Grygum references 'fixed points' as a possible theological framework for the investigation.",
-    "source_quote": "It could be one of those fixed points",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "repurposed threat",
-    "fact": "Brother Heslin or Brother Arrath taught a theory about repurposing dangerous entities into knowledge repositories.",
-    "source_quote": "Brother Heslin \u2014 or possibly Brother Arrath, I was never certain which of them ran the theory sessions on repurposed threat \u2014 had said something along those lines once.",
-    "quote_verified": true
-  },
-  {
-    "type": "date",
-    "subject": "day of Janussi's death",
-    "fact": "Janussi asked Kalan to resign the morning before his death.",
-    "source_quote": "yesterday morning, Janussi asked the gate warden to tender his resignation.",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "gray ooze",
-    "fact": "Daz references fungal scourges from Underdark investigations, implying past encounters with hazardous biological entities.",
-    "source_quote": "Underdark investigations, multiple factions, fungal scourges",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "fungal scourges",
-    "fact": "Fungal scourges are hazardous biological entities encountered during Underdark investigations.",
-    "source_quote": "Underdark investigations, multiple factions, fungal scourges",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "notes",
-    "fact": "Zalthir picked up his notes before following the messenger.",
-    "source_quote": "I picked up my notes.",
-    "quote_verified": true
-  },
-  {
     "type": "npc",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool watches the party from the corner with patient attentiveness after acquiring eyes.",
-    "source_quote": "Glabbagool had been watching from the corner with the patient attentiveness he'd developed since acquiring eyes.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "bag of holding",
-    "fact": "Glabbagool resides inside a bag of holding and peers out from its opening.",
-    "source_quote": "He flowed toward the bag, arranged himself inside it, and peered out from the opening with two eyeballs tracking the room.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Imbros",
-    "fact": "Imbros is referenced as having read Vof Klownits's opus, though this is not directly stated in the text.",
-    "source_quote": "",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm is the one who revealed that Janussi had asked Kalan to resign and later stated, \"I had nothing to do with it,\" when asked where she was.",
+    "source_quote": "\"I can assure you, I had nothing to do with it.\"",
     "quote_verified": false
   },
   {
     "type": "npc",
-    "subject": "Vof Klownits",
-    "fact": "Vof Klownits is a Sage whose opus is referenced by Imbros, though not mentioned in the provided text.",
-    "source_quote": "",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "Bahamut text",
-    "fact": "Grygum reads the room the way he reads a Bahamut text \u2014 for what is conspicuously not said.",
-    "source_quote": "I read the room the way I read a Bahamut text \u2014 not for what it says, but for what it is conspicuously not saying.",
+    "subject": "Daz",
+    "fact": "Daz is the one who noted that Bookwyrm\u2019s volunteered information about Kalan\u2019s resignation was given before anyone asked, and who later questioned the nature of Kalan\u2019s negligence.",
+    "source_quote": "I filed that immediately \u2014 not the content, the timing.",
     "quote_verified": true
   }
 ]

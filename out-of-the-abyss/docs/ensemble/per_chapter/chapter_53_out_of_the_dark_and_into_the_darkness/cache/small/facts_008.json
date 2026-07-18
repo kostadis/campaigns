@@ -1,64 +1,64 @@
 [
   {
     "type": "npc",
-    "subject": "Ilvara",
-    "fact": "Ilvara collected trophies from her captives to establish a clear power dynamic, specifically taking a tooth from the speaker and displaying it as evidence of her dominance.",
-    "source_quote": "she'd taken my tooth. A chip broken off in the capture, displayed in her chest like a piece of evidence of what she could do.",
-    "quote_verified": true
+    "subject": "Thorin Giantfriend",
+    "fact": "Thorin Giantfriend is carrying the necromantic pearl and the recovered tooth, having reclaimed them from Ilvara's ritual anchor and trophies, and is now preparing to clear the next chamber.",
+    "source_quote": "I had the necromantic pearl in one pocket... I had the tooth back. And I had the pearl that had been buried in the heart of whatever she'd turned this place into.",
+    "quote_verified": false
   },
   {
     "type": "npc",
-    "subject": "Thorin Giantfriend",
-    "fact": "Thorin Giantfriend practices radical transparency except when the thing being said wouldn't add anything to the next ten seconds, and chose silence in this moment.",
-    "source_quote": "Thorin Giantfriend, radical transparency, except when the thing being said wouldn't add anything to the next ten seconds.",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "corrupted fungal mass",
-    "fact": "A corrupted fungal mass served as a ritual anchor for Ilvara, and its core contained a necromantic pearl that had either been placed there or grown there under precisely right conditions.",
-    "source_quote": "at the core of a corrupted fungal mass that Ilvara had been using as a ritual anchor... the pearl wasn't in the wrong place by accident. Someone had put something like it there, or something like it had grown there because the conditions were exactly right for it.",
+    "subject": "Ilvara",
+    "fact": "Ilvara collected the tooth of Thorin as a trophy to assert power over captives, using it as evidence of her dominance, and anchored a corrupted fungal mass as part of a ritual.",
+    "source_quote": "Ilvara had made a point of collecting trophies... she'd taken my tooth... as a ritual anchor.",
     "quote_verified": false
   },
   {
     "type": "object",
     "subject": "necromantic pearl",
-    "fact": "The necromantic pearl was buried in the heart of the corrupted place Ilvara had transformed, and now resides with the speaker as one of two key objects marking the origin and extent of the corruption.",
-    "source_quote": "I had the pearl that had been buried in the heart of whatever she'd turned this place into.",
-    "quote_verified": true
+    "fact": "The necromantic pearl is a dense, finished object that was either placed or grew in a corrupted fungal mass due to ideal conditions, and was buried in the heart of the transformed chamber.",
+    "source_quote": "something this finished, this dense, at the core of a corrupted fungal mass... The pearl wasn't in the wrong place by accident. Someone had put something like it there, or something like it had grown there because the conditions were exactly right for it.",
+    "quote_verified": false
   },
   {
     "type": "object",
     "subject": "tooth",
-    "fact": "The speaker's tooth, taken by Ilvara as a trophy, has been reclaimed and now serves as one of two objects marking the starting point of the conflict.",
-    "source_quote": "I had the tooth back.",
+    "fact": "The tooth was taken from Thorin during capture and displayed as a trophy by Ilvara to demonstrate her power, and has now been reclaimed.",
+    "source_quote": "she'd taken my tooth. A chip broken off in the capture, displayed in her chest like a piece of evidence of what she could do.",
     "quote_verified": true
   },
   {
     "type": "location",
     "subject": "Velkynvelve",
-    "fact": "Velkynvelve is a location where the speaker was captured and held in nets, and where Ilvara established dominance through ritualized trophy-taking.",
+    "fact": "Velkynvelve is a place where Thorin was held in nets and where Ilvara collected trophies and performed rituals using a corrupted fungal mass.",
     "source_quote": "When we'd first found ourselves hanging in nets at Velkynvelve, Ilvara had made a point of collecting trophies.",
     "quote_verified": true
   },
   {
-    "type": "location",
-    "subject": "chamber",
-    "fact": "The chamber is the current location where the speaker has paused to observe, check their pocket, and prepare to move on, with the smell of scorched rot lingering as an unresolved question.",
-    "source_quote": "We still had a chamber to clear... and the smell of scorched rot hanging in the air like a question that hadn't finished resolving itself.",
+    "type": "monster",
+    "subject": "corrupted fungal mass",
+    "fact": "The corrupted fungal mass was used by Ilvara as a ritual anchor and has been transformed into the heart of the chamber, exhibiting unnatural growth conditions that allowed the necromantic pearl to form or be placed.",
+    "source_quote": "at the core of a corrupted fungal mass that Ilvara had been using as a ritual anchor... the heart of whatever she'd turned this place into.",
     "quote_verified": false
   },
   {
     "type": "thread",
-    "subject": "origin and extent of corruption",
-    "fact": "The two objects \u2014 the reclaimed tooth and the necromantic pearl \u2014 mark the origin of the conflict and the extent of the corruption that spread before the speaker's arrival, but their full meaning remains unnamed and unresolved.",
-    "source_quote": "One that marked where we started, and one that marked how far the corruption had spread by the time we got here.",
+    "subject": "unresolved smell of scorched rot",
+    "fact": "The smell of scorched rot lingers in the chamber as an unresolved environmental question, hinting at deeper consequences or lingering threats not yet addressed.",
+    "source_quote": "the smell of scorched rot hanging in the air like a question that hadn't finished resolving itself.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "reclamation of tooth and pearl",
+    "fact": "Thorin reclaimed both the tooth and the necromantic pearl from Ilvara's control, settling a long-standing debt and marking the transition from where the conflict began to how far the corruption had spread.",
+    "source_quote": "It was settled now. I had the tooth back. And I had the pearl that had been buried in the heart of whatever she'd turned this place into.",
     "quote_verified": true
   },
   {
     "type": "date",
-    "subject": "elapsed time since capture",
-    "fact": "Months have passed since the speaker was captured at Velkynvelve and their tooth taken, during which they intermittently thought about the unresolved debt.",
+    "subject": "elapsed months since capture",
+    "fact": "Months have passed since Thorin's tooth was taken and the events at Velkynvelve, during which the memory of the debt persisted without resolution.",
     "source_quote": "I'd thought about that tooth on and off during the months since.",
     "quote_verified": true
   }

@@ -2,806 +2,442 @@
   {
     "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum wondered what Zalthir would do with the premise of the treatise.",
-    "source_quote": "I caught myself, briefly, wondering what Zalthir would do with the premise.",
+    "fact": "Grygum wondered what Zalthir would do with the premise of the treatise, imagining he would pick at the words and question the physical properties of light.",
+    "source_quote": "I caught myself, briefly, wondering what Zalthir would do with the premise. He'd pick at the words. *One true sun, light being furthest* \u2014 and then he'd want to know whether any physical property could slow that light down, whether the reach of the thing was distance or something else.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum filed the question about slowing down light because he had no answer and no audience for it.",
-    "source_quote": "I filed the question. I had no answer and no audience for it.",
+    "fact": "Grygum believed he had set out to answer a question honestly, not to empty Candlekeep.",
+    "source_quote": "I did not set out to empty Candlekeep. I set out to answer a question honestly.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum did not love holding the key in a room filling with Avowed.",
+    "fact": "Grygum did not love holding Kalan Strongbranch's key in a room full of Avowed.",
     "source_quote": "I did not love holding it in a room filling with Avowed, so I handed it to Daz and let it become his problem.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum believed Strongbranch was paranoid for handing off the key rather than wearing it.",
-    "source_quote": "Paranoid, maybe. He'd carried the thing for years.",
+    "fact": "Grygum understood that Strongbranch handed off the key out of paranoid caution, not mere superstition.",
+    "source_quote": "Which is why Strongbranch handed his off rather than wear it. Paranoid, maybe. He'd carried the thing for years. But you don't survive long arguing with a dead man's caution.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum knew the key had once hung around Kalan Strongbranch's neck.",
-    "source_quote": "It had hung around Kalan Strongbranch's neck once.",
+    "fact": "Grygum realized the connection between the gem, the key, and the murder was there but could not resolve it.",
+    "source_quote": "And here is where my training failed me. There was a connection sitting in the gem and the stolen key and the murdered man, a connection a Menzoberranzan child should have closed on reflex, *who hides a key, and why*, and I reached for it and came up with nothing.",
     "quote_verified": true
   },
   {
     "type": "event",
     "subject": "Grygum",
-    "fact": "Grygum took notes even though he wasn't sure Bahamut was watching.",
-    "source_quote": "Bahamut may or may not have been watching. I took notes either way.",
+    "fact": "Grygum noticed the pattern was there but could not make it resolve.",
+    "source_quote": "The pattern was there. I simply could not make it resolve.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum acknowledged a gap in his account rather than calling it a failure.",
+    "source_quote": "*I will not call that a failure. I will call it a gap in the account.*",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Daz",
-    "fact": "Daz recognized Daral's look as that of a man who'd just audited his own death.",
-    "source_quote": "I knew that look. It's the look of a man who came into the morning certain he was going to lose his job, then learned the man who would have fired him was a corpse, and spent one warm hour thinking everything had resolved in his favor. Then he discovered that the people he'd spent that hour mocking were possibly the only ones in Candlekeep keeping him alive, and that even we were doing the arithmetic on whether it was worth the effort.",
+    "fact": "Daz recognized Daral's look as that of a man who had reconciled his own death and now felt abandoned.",
+    "source_quote": "Daral had the look of someone who'd just finished auditing his own death and didn't care for the balance. I knew that look. It's the look of a man who came into the morning certain he was going to lose his job, then learned the man who would have fired him was a corpse, and spent one warm hour thinking everything had resolved in his favor. Then he discovered that the people he'd spent that hour mocking were possibly the only ones in Candlekeep keeping him alive, and that even we were doing the arithmetic on whether it was worth the effort.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Daz",
-    "fact": "Daz filed Daral under 'desperate' because desperation makes people honest and generous.",
+    "fact": "Daz filed Daral under 'desperate', believing desperation makes people honest and generous.",
     "source_quote": "I filed Daral under *desperate*, which is the most useful column a man can occupy, because desperation makes people honest and generous in equal measure.",
     "quote_verified": true
   },
   {
-    "type": "npc",
+    "type": "event",
     "subject": "Daz",
-    "fact": "Daz believed the poison only turns black after a living thing touches it.",
-    "source_quote": "The stuff only wakes up when a living thing touches it.",
+    "fact": "Daz noticed the poison only turns black after a living thing touches it.",
+    "source_quote": "The poison sitting in somebody's room right now wouldn't be black at all. It'd be clear.",
     "quote_verified": true
   },
   {
     "type": "event",
     "subject": "Daz",
-    "fact": "Daz took custody of the key and performed a divining touch to check for magic.",
-    "source_quote": "I took custody of the key, set my fingers to the cold iron of it, and let the spell read the object the way an auditor reads an account someone else kept.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Daz",
-    "fact": "Daz realized the key was clean \u2014 not linked to the summoning spell.",
-    "source_quote": "The answer was no. The key was clean. Not linked to that spell, not created by it, carrying no quiet enchantment under the surface.",
+    "fact": "Daz realized the poison wakes up when it mixes with saliva.",
+    "source_quote": "When I mixed with his saliva, it turned black, okay?",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Daz",
-    "fact": "Daz admitted his training failed him because he could not resolve the connection between the gem, the key, and the murdered man.",
-    "source_quote": "Here is where my training failed me. There was a connection sitting in the gem and the stolen key and the murdered man, a connection a Menzoberranzan child should have closed on reflex, *who hides a key, and why*, and I reached for it and came up with nothing.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Daz",
-    "fact": "Daz called his inability to resolve the pattern a gap in the account, not a failure.",
-    "source_quote": "I will not call that a failure. I will call it a gap in the account.",
+    "fact": "Daz believed the key was too easy to hide, but the sapphire might still be held because it looked like nothing.",
+    "source_quote": "Zalthir didn't think we'd find the key \u2014 too easy to hide. The sapphire, though, somebody might still be holding because it looked like nothing.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Thorin",
-    "fact": "Thorin wanted to keep Daral on the hook for a warm introduction and the book's timeline.",
-    "source_quote": "He was right about that. If the poison lived in the binding, then the book's provenance became the entire case. I kept that.",
+    "fact": "Thorin believed the timeline of the book was the most important thing at that point in the investigation.",
+    "source_quote": "So what I'm saying is that the timeline of the book seems to be a very important thing at this point.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Thorin",
-    "fact": "Thorin was already imagining the squirrel when Daral mentioned the apothecary.",
-    "source_quote": "I think he was already reaching for the squirrel in his imagination, because Daral made a small horrified noise about *not the squirrel*.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Thorin",
-    "fact": "Thorin circled the idea that Daral himself might be the killer.",
+    "fact": "Thorin kept circling the possibility that Daral was the killer.",
     "source_quote": "That second one. That's the one I kept circling.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Thorin",
-    "fact": "Thorin believed the priority was to find the killer, not who stole the key.",
+    "fact": "Thorin wanted to keep Daral on the hook for more information, especially about the book's provenance.",
+    "source_quote": "Thorin wanted to keep the man on the hook anyway: a warm introduction, he reasoned, and the timeline of the book itself, whether it was poisoned before or after Daral handed it over.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin believed the priority was to find the killer, not the person who stole the key.",
     "source_quote": "And our priority is to find the killer, not who stole the key. Nobody asked us to find the person who stole the key.",
     "quote_verified": true
   },
   {
-    "type": "thread",
-    "subject": "Daral's safety",
-    "fact": "Daral hoped that if he made it through the night, he would ensure everyone wrapped their gifts with wards.",
-    "source_quote": "if he made it through the night, hint, hint, he'd see to it everyone wrapped their gifts right.",
-    "quote_verified": true
-  },
-  {
     "type": "npc",
     "subject": "Thorin",
-    "fact": "Thorin believed everyone in academia hated everyone else because the stakes were low.",
+    "fact": "Thorin believed everyone in Candlekeep hated everyone else, because academic stakes are low.",
     "source_quote": "Well, I mean, everybody hated everybody, it's academia. You know what they say. Fights are so vicious because the stakes are so low.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "Daz",
-    "fact": "Daz could talk to the beasts.",
-    "source_quote": "turned out he could talk to the beasts",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Zalthir",
-    "fact": "Zalthir was the stealthiest of us.",
-    "source_quote": "Zalthir to the rooms, stealthiest of us",
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin likes it when plans are plainly split and everyone knows where they stand.",
+    "source_quote": "Plain split. Everybody knew where they stood. I like it that way.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool had learned silence.",
-    "source_quote": "Glabbagool announced it had learned silence",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool asked whether the silence was good or too loud.",
-    "source_quote": "asked whether that was good silence or too loud silence",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool tried to grow a nose to smell the poison.",
-    "source_quote": "tried to grow a nose to smell the poison",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Daral",
-    "fact": "Daral was the one who gave the poisoned book to Janussi.",
-    "source_quote": "poisoned by a book Daral had given him",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Daz",
-    "fact": "Daz was drow and knew that world the way Zalthir knew a tunnel's slope.",
-    "source_quote": "Daz was drow. Daz knew that world the way I know a tunnel's slope without thinking about it",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Daz",
-    "fact": "Daz said he could read next to nothing off the object at a glance.",
-    "source_quote": "What I can read off it at a glance is next to nothing",
+    "subject": "Zalthir",
+    "fact": "Zalthir feels the air in Candlekeep smells wrong, like anything does after too long breathing rock.",
+    "source_quote": "The air in Candlekeep still smelled wrong to me. Not bad \u2014 paper, lamp oil, old stone warmed by sun I had not seen in months \u2014 just wrong, the way anything smells when you have spent too long breathing rock.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Daral",
-    "fact": "Daral filled the room the way a leak fills a hold.",
-    "source_quote": "Daral was a person who had not learned that lesson. He filled the room the way a leak fills a hold",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
     "subject": "Zalthir",
-    "fact": "Zalthir took to standing near the doorways.",
-    "source_quote": "I had taken to standing near the doorways",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Zalthir",
-    "fact": "Zalthir watched Glabbagool go quiet and marked it.",
-    "source_quote": "I watched him go quiet. I marked it and said nothing",
+    "fact": "Zalthir has an old habit of standing near doorways because he learned to note exits before people.",
+    "source_quote": "I had taken to standing near the doorways. Old habit. You learn the exits before you learn the people.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool's instinct, every time, is still to reach toward the problem.",
-    "source_quote": "his instinct, every time, is still to reach toward the problem",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Daz",
-    "fact": "Daz muttered that he couldn't take the object apart to study it proper.",
-    "source_quote": "Too bad I can't really take it apart... Turn it over, study it proper",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
     "subject": "Zalthir",
-    "fact": "Zalthir said the murder at least had a structure.",
-    "source_quote": "I turned to the murder, because the murder at least had a structure",
+    "fact": "Zalthir believes Daz has forgotten everything that matters and kept everything that doesn't.",
+    "source_quote": "He'd forgotten everything that mattered and kept everything that didn't.",
     "quote_verified": true
   },
   {
     "type": "event",
     "subject": "Zalthir",
-    "fact": "Zalthir noted that Janussi was dead, poisoned by a book Daral had given him.",
-    "source_quote": "Janussi was dead. Poisoned by a book Daral had given him",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Zalthir",
-    "fact": "Zalthir said the whole thing was so ornate that it itched.",
-    "source_quote": "And the whole thing was so ornate that it itched",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Zalthir",
-    "fact": "Zalthir asked who would want to frame Daral and kill Janussi.",
-    "source_quote": "who would want to frame you and kill \u2014 whatever the guy is?",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Zalthir",
-    "fact": "Zalthir said the question worth holding was the double stroke.",
-    "source_quote": "That was the question worth holding. Not the death. The double stroke.",
+    "fact": "Zalthir noticed Glabbagool's eye rise slowly and hopefully toward the bright thing in Daz's hand.",
+    "source_quote": "An eye rose out of the grey of him \u2014 slow, hopeful, the way he does everything now \u2014 and pointed itself at the bright thing in Daz's hand, wanting to be useful.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "A'lai Aivenmore",
-    "fact": "A'lai Aivenmore wanted the keep and saw Daral's love of poetry as a threat.",
-    "source_quote": "A'lai Aivenmore. The one who wanted the keep. The one about to be dismissed. The one who saw Daral's love of poetry, his love of fiction, as a threat to his approach to the universe.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Daral",
-    "fact": "Daral said framing him made perfect sense to clear the deck of Janussi and himself.",
-    "source_quote": "Clear the deck of Janussi. Clear the wood of me. No one left on the council able to prevent his ascension.",
+    "subject": "Zalthir",
+    "fact": "Zalthir believes Glabbagool's instinct to reach toward problems is deeply valuable, though he says nothing out loud.",
+    "source_quote": "I marked it and said nothing. Glabbagool survived Blingdenstone, the ooze crisis, the inside of a bag \u2014 and his instinct, every time, is still to reach toward the problem. I am not going to say out loud how much that is worth.",
     "quote_verified": true
   },
   {
     "type": "event",
     "subject": "Zalthir",
-    "fact": "Zalthir filed the name A'lai.",
-    "source_quote": "I filed the name. A'lai.",
+    "fact": "Zalthir observed Glabbagool retreat dolefully after his attempt to read the object failed.",
+    "source_quote": "The eye sank back into the body. Dolefully. There is no other word for it; he retreated like a thing that had been told no.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir believes the most dangerous person in a room is the one who has already decided they've won.",
+    "source_quote": "The Garden Shadow had a saying \u2014 or maybe it was Brother Tervin, the tall one who always smelled of incense, I genuinely don't remember, I wasn't listening \u2014 that the most dangerous person in a room isn't the one with the blade drawn. It's the one who has already decided they've won.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir distrusts convenient explanations, though he does not dismiss them.",
+    "source_quote": "Convenient, that it all pointed one direction. I don't trust convenient. But I don't dismiss it either.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir thinks Glabbagool's question about silence is one that answers itself with time, or doesn't.",
+    "source_quote": "I let that one go. Some questions answer themselves with time, or don't.",
     "quote_verified": true
   },
   {
     "type": "event",
     "subject": "Zalthir",
-    "fact": "Zalthir asked Glabbagool to try to grow a nose and smell the poison.",
-    "source_quote": "can Glabbagool try to grow a nose and get a good smell of the poison?",
+    "fact": "Zalthir noticed Glabbagool had no nose and considered it worth attempting to grow one.",
+    "source_quote": "The ooze had no nose. That seemed like a thing worth attempting.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool's eye rose again, eager, to try to grow a nose.",
-    "source_quote": "The eye rose again, eager. He'd try. He always tries.",
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin believes lead-lined chalices would block far-seeing magic.",
+    "source_quote": "Wouldn't lead choke off the magic that hunts down a hidden thing, the same way it blinds a scrying?",
     "quote_verified": true
   },
   {
     "type": "event",
     "subject": "Thorin",
-    "fact": "Thorin noticed the dining hall still smelled like breakfast.",
-    "source_quote": "The dining hall still smelled like breakfast.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Thorin",
-    "fact": "Thorin saw Milil's statue with a brass chalice resting in open hands.",
-    "source_quote": "Milil stood in an alcove off to one side, the god of bards: open hands, a brass chalice resting in them like an offering nobody had come to collect.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Daral",
-    "fact": "Daral remembered the Milil chalice was lead-lined.",
-    "source_quote": "the Milil chalice is lead-lined",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Thorin",
-    "fact": "Thorin took the chalice down from the statue's hands.",
-    "source_quote": "I went to the altar, took the chalice down out of those open hands",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Thorin",
-    "fact": "Thorin saw a heart and a blood-stained meat cleaver in the chalice.",
-    "source_quote": "A heart. And a blood-stained meat cleaver.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Daral",
-    "fact": "Daral said the heart was Janussi's.",
-    "source_quote": "Janussi's heart",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Thorin",
-    "fact": "Thorin said he left the heart in Waterdeep.",
-    "source_quote": "I left it in Waterdeep.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Thorin",
-    "fact": "Thorin said the cleaver bothered him more than the heart.",
-    "source_quote": "The cleaver bothered me more than the heart, honestly.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Thorin",
-    "fact": "Thorin said whoever did this knew the chalice was lead-lined.",
-    "source_quote": "whoever did this knew the chalice was lead-lined. Knew it would hide a body part from every far-seeing working the keep could throw at it.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Thorin",
-    "fact": "Thorin said the killer was someone who knew the ins and outs of the keep.",
-    "source_quote": "Somebody who'd planned a murder around Candlekeep's own hoard of magic.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Thorin",
-    "fact": "Thorin said the person who handled the chalice late was a witness and a window.",
-    "source_quote": "You just have to find the person who saw it.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Thorin",
-    "fact": "Thorin noticed three junior avowed watching him before he spoke.",
+    "fact": "Thorin noticed the three junior avowed watching him before he spoke.",
     "source_quote": "I noticed the three of them watching before I'd said a word.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Irony",
-    "fact": "Irony said she really hates it when people make the joke about her name.",
-    "source_quote": "I, you know, I really hate it when people make that joke.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Irony",
     "fact": "Irony has a compulsive need to always tell the truth.",
-    "source_quote": "this compulsive need to always tell the truth",
+    "source_quote": "But I, you know, I really hate it when people make that joke. I'm so sorry \u2014 this compulsive need to always tell the truth.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin believes someone who always tells the truth is a very useful witness.",
+    "source_quote": "I appreciate that,\" I said, and I meant it. \"I am investigating a crime, so somebody who always tells the truth is definitely a very useful thing.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "Irony",
-    "fact": "Irony said the Deadwinter supper began at the 5PM bell.",
-    "source_quote": "The Deadwinter supper began at the 5PM bell.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Irony",
-    "fact": "Irony said everyone at the table was tense and taciturn except Alkrist.",
-    "source_quote": "Everybody at the table was tense and taciturn, she said, except Alkrist.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Irony",
-    "fact": "Irony said Alkrist was pitching a project: Tales of War by the Generals That Waged Them.",
-    "source_quote": "pitching a project: Tales of War by the Generals That Waged Them",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Irony",
-    "fact": "Irony said Janussi praised Alkrist's project as knowledge that could benefit civilization.",
-    "source_quote": "Janussi praised it the other way: 'the kind of knowledge that could benefit civilization'",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Daral",
-    "fact": "Daral muttered under his breath: 'Oh, you've been right behind one of us all night.'",
-    "source_quote": "Daral muttered under his breath, 'Oh, you've been right behind one of us all night.'",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Irony",
-    "fact": "Irony said Sylvira Savikas stormed out.",
-    "source_quote": "Then Sylvira Savikas stormed out",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Irony",
-    "fact": "Irony said Kazryn Nyantani handed out gifts under the evergreen tree.",
-    "source_quote": "Kazryn Nyantani took it on herself to hand out the gifts under the evergreen tree",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Irony",
-    "fact": "Irony said Janussi took his gift unwrapped and dropped the wrapping paper in a wicker basket.",
+    "subject": "Thorin",
+    "fact": "Thorin noticed Janussi dropped the wrapping paper in a wicker basket by the door on his way out.",
     "source_quote": "Janussi took his unwrapped, thanked his secret donor, and excused himself, dropping the wrapping paper in a wicker basket by the door on his way out.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "Irony",
-    "fact": "Irony said nobody was sick from eating the leftovers.",
-    "source_quote": "Nobody sick, Irony said.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Irony",
-    "fact": "Irony said the wrapping paper turned up in Janussi's office, not here.",
+    "subject": "Thorin",
+    "fact": "Thorin realized the wrapping paper turned up in Janussi's office, not in the dining hall.",
     "source_quote": "The wrapping paper turned up in Janussi's office, not here.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "Irony",
-    "fact": "Irony said Sprig tasted all the food.",
-    "source_quote": "Sprig tasted all the food.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Irony",
-    "fact": "Irony confirmed Sprig was the poison taster.",
-    "source_quote": "Is she the poison taster?\" I asked, and Irony said yes",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Sprig",
-    "fact": "Sprig volunteered to taste each of the twelve dishes to ensure none was poisoned, despite the chefs saying it wasn't necessary.",
-    "source_quote": "She insisted.",
+    "subject": "Thorin",
+    "fact": "Thorin realized the poison might spread through the wrapping paper and should be handled carefully.",
+    "source_quote": "It'd be something worth looking at. I would handle it very carefully, because we don't know how the poison would spread.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Sprig",
-    "fact": "Sprig demonstrates initiative and dedication to the safety of the meal, which Daral believes should be a best practice.",
-    "source_quote": "That is the kind of initiative that I think should be commended. That needs to be a best practice going forward.",
+    "subject": "Thorin",
+    "fact": "Thorin did not know Sprig was the poison taster.",
+    "source_quote": "Is she the poison taster?\" I asked, and Irony said yes, like I should've known, and I hadn't.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "Sylvira Savikas",
-    "fact": "Sylvira Savikas pointed at her throat, too hoarse to talk, while searching the kitchens by candlelight.",
-    "source_quote": "The tiefling just pointed at her throat, too hoarse to talk.",
+    "type": "thread",
+    "subject": "Thorin's heart",
+    "fact": "Thorin left Janussi's heart in Waterdeep, but it is now found in the chalice, creating an unresolved mystery.",
+    "source_quote": "I left it in Waterdeep.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "Sprig",
-    "fact": "Sprig helped Sylvira Savikas find a pot of honey and said goodnight.",
-    "source_quote": "Sprig helped her find a pot of honey and said goodnight.",
+    "type": "thread",
+    "subject": "Daral's suspicion",
+    "fact": "Daral suspects he is being framed, but his own emotional expression makes his claim seem performative.",
+    "source_quote": "Maybe they wanted me to be blamed.",
     "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Alkrist",
-    "fact": "Alkrist was seen holding a small scrap of paper toward a candle, feeding it to the flame, and dropped it when two junior avowed walked in.",
-    "source_quote": "Alkrist had been holding a small scrap of paper toward a candle, feeding it to the flame, and when two junior avowed walked in, he dropped it.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Unknown",
-    "fact": "The string tied around Janussi's Deadwinter gift had been cut and retied.",
-    "source_quote": "The string tied around Janussi's Deadwinter gift had clearly been cut and retied.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Leuwin",
-    "fact": "Leuwin discovered a peppermint-soaked rag and a broken vial under the top shelf labeled *Dangerous Toxins*.",
-    "source_quote": "Under the top shelf I found a peppermint-soaked rag and a broken vial, and the shelf above the spillage was labeled, in Elvish, *Dangerous Toxins.*",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Nibbles",
-    "fact": "Nibbles the squirrel witnessed a dragonborn break the vial of dangerous toxin while Leuwin was downstairs with A'lai.",
-    "source_quote": "*because you gave me so many tokens, I saw the person, but Leuwin didn't, because Leuwin wasn't in the room.*",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Nibbles",
-    "fact": "Nibbles saw a drow bribing him one nut at a time to distract attention.",
-    "source_quote": "A drow on his knees, bribing a squirrel one nut at a time.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Nibbles",
-    "fact": "Nibbles saw a dragonborn enter, make a big mess, cause something to *bling* and shudder, move things around, and leave.",
-    "source_quote": "A huge lizard skin came in and made a big mess. Something went *bling* and shuddered, and the lizard moved things around, and then left.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "A'lai",
-    "fact": "A'lai arrived asking for fennel for indigestion and was taken by Leuwin through the rear exit to the greenhouse.",
-    "source_quote": "At three, A'lai arrived asking for fennel for indigestion, and Leuwin took him down through the rear exit to the greenhouse below.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Fheminor",
-    "fact": "Fheminor came for cold medicine at half past two, requesting tincture of horehound and licorice to chew.",
-    "source_quote": "At half past two, the gnome \u2014 Fheminor \u2014 came for cold medicine. Tincture of horehound, licorice to chew.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Alkrist",
-    "fact": "Alkrist's bedside table held a copy of *1001 Tashalian Nights* with a bookmark on the tale of a military commander poisoned by a magic horn coated in Midnight Tears.",
-    "source_quote": "On the bedside table lay a book \u2014 black leather, stars and gold filigree... The bookmark sat on the tale of a military commander, poisoned by a gift of surrender \u2014 a magic horn whose mouthpiece had been coated in Midnight Tears.",
-    "quote_verified": false
   },
   {
     "type": "npc",
-    "subject": "Alkrist",
-    "fact": "Alkrist studies poison by keeping dead rats with blistered, pustule-risen skin in sealed glass jars.",
-    "source_quote": "Sealed glass jars holding dead rats, their skin blistered and risen into pustules.",
-    "quote_verified": false
+    "subject": "Thorin",
+    "fact": "Thorin thinks the only mark being Janussi means the taster is just collateral, and that the killer loses nothing by her death.",
+    "source_quote": "If the only mark was Janussi, the taster's just collateral: she tastes the poisoned dish, she's dead at midnight too, and nobody ties the two deaths together. The killer loses nothing.",
+    "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "A'lai",
-    "fact": "A'lai's chambers contained a dove cage built for five, with only two birds present, suggesting three messages had been sent recently.",
-    "source_quote": "The cage was built for five. Two birds sat in it. The feeding troughs, the droppings, the wear on five perches. There had been more than two.",
-    "quote_verified": false
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin believes the killer targeted the book because it was the only way to kill Alkrist without killing the taster.",
+    "source_quote": "Alkrist's point led to the book. There were a dozen ways to kill the man. They picked the book. One reason to skip the food is if you didn't want the taster dead.",
+    "quote_verified": true
   },
   {
-    "type": "thread",
-    "subject": "Irony's silence",
-    "fact": "Irony cannot lie but did not answer directly \u2014 she steered the investigation toward Sprig instead, avoiding speech while remaining truthful.",
-    "source_quote": "She hadn't answered. She'd pointed us at Sprig instead. Can't lie isn't has to tell. She steered us rather than speak false.",
-    "quote_verified": false
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin suspects someone cared enough about the taster to protect her, making that person a lead.",
+    "source_quote": "whoever cared enough to protect her was a name worth having. Might be the whole lead.",
+    "quote_verified": true
   },
   {
-    "type": "thread",
-    "subject": "Sylvira Savikas's identity",
-    "fact": "Sylvira Savikas is a tiefling who does not need candlelight, yet was seen searching by candlelight \u2014 raising suspicion that she may be impersonated.",
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin thinks Irony is too interested in the junior avowed, and interprets her eye-roll and wink as a hint.",
+    "source_quote": "Irony rolled her eyes. \"These avowed, sometimes they're a little bit too interested in the junior avowed.\" Wink, wink, nudge, nudge.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin believes Sylvira Savikas was not actually Sylvira because she used a lantern, and tieflings don't need light.",
     "source_quote": "Sylvira's a tiefling. A tiefling doesn't need the light.",
     "quote_verified": true
   },
   {
-    "type": "thread",
-    "subject": "The honey pot",
-    "fact": "The honey pot provided to Sylvira may have been a cover for her being discovered while searching the kitchens at one in the morning.",
-    "source_quote": "The honey was the cover for when Irony walked in.",
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin suspects the honey was a cover for Sylvira being discovered while searching for something.",
+    "source_quote": "And then maybe the whole honey thing was just an excuse because she was discovered, right?",
     "quote_verified": true
   },
   {
-    "type": "thread",
-    "subject": "The cut string",
-    "fact": "The cut and retied string on Janussi's gift suggests the poisoning was an inside job, committed by someone present at the table.",
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin thinks Sylvira was either looking for something, leaving something, or setting something down where it would never be found.",
+    "source_quote": "Looking for something. Or not looking. Leaving. Setting something down where it'd never be found.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin keeps to himself the thought that the honey was a cover for when Irony walked in.",
+    "source_quote": "I didn't say that last part out loud. I kept it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin considers Sprig\u2019s volunteering to taste every dish as initiative worth commending.",
+    "source_quote": "She'd volunteered to taste each one to make sure none was poisoned. The chefs told her it wasn't necessary. She insisted.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin realizes Irony steered him toward Sprig instead of answering directly, and remembers that Irony can't lie but doesn't have to tell.",
+    "source_quote": "She hadn't answered. She'd pointed us at Sprig instead. Can't lie isn't has to tell. She steered us rather than speak false. Worth remembering how she dodges.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin believes the cut and retied string on Janussi's gift is the key clue, placing the crime inside the room with everyone present.",
+    "source_quote": "The string tied around Janussi's Deadwinter gift had clearly been cut and retied. Cut and retied. The book sitting wrapped in that package, the string opened and knotted back shut. And that was the one that mattered: whatever happened, happened under the tree. In the room. With all of them standing around it.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin thinks the cut string is the rock in the right place, meaning the killer was someone at the table.",
     "source_quote": "The cut string was the rock in the right place. Nobody came in from outside. This was somebody who'd been at the table.",
     "quote_verified": true
   },
   {
-    "type": "thread",
-    "subject": "The dragonborn's role",
-    "fact": "The dragonborn took the risk of handling the poison while the drow created a diversion \u2014 an elegant, clean separation of culpability.",
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin keeps to himself the realization that the killer was someone at the table.",
+    "source_quote": "I didn't say that part out loud.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz believes a professional wouldn't leave a peppermint rag where the next person would find it.",
+    "source_quote": "A professional doesn't leave a peppermint rag where the next person to crouch down will find it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz recognizes the poison scheme as elegant and professionally executed, and feels professional recognition for it.",
+    "source_quote": "Elegant. I asked whether either of them had any identifying marks. The squirrel didn't know. So I handed over five more nuts and thanked him, and that ended the interview whether I wanted it to or not \u2014 his jaws were stuffed to the corners, packed like that squirrel out of Ice Age, and there were no more questions a creature in that condition was going to answer.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz recalls having run the same poison scheme himself and being caught holding nothing.",
+    "source_quote": "I have run that play. I have been the version of that play that gets caught holding nothing.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz believes the drow caused the diversion while the dragonborn handled the poison, keeping hands clean.",
     "source_quote": "The drow caused the diversion and kept his hands clean of the highly toxic poisons that might kill you. The dragonborn took the risk.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "Orrin Glass",
-    "fact": "Orrin Glass, the deaf waiter, noticed Alkrist burning a scrap of paper and dropping it when junior avowed entered.",
-    "source_quote": "He gave me one thing about Alkrist. Alkrist had been holding a small scrap of paper toward a candle, feeding it to the flame, and when two junior avowed walked in, he dropped it.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Daral",
-    "fact": "Daral lit up when told about Sprig's initiative and immediately advocated for it to become a best practice.",
-    "source_quote": "Daral lit up again. 'That is the kind of initiative that I think should be commended. That needs to be a best practice going forward.'",
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir thinks Sylvira Savikas is too obvious a suspect and plans to skip her room for now.",
+    "source_quote": "I'm gonna skip Sylvira for now. Everyone's finger already pointed there. A name that obvious is rarely the answer, and if it is, it will still be there tomorrow.",
     "quote_verified": false
   },
   {
-    "type": "event",
-    "subject": "Teles Ahvoste",
-    "fact": "Teles Ahvoste was making advances toward Irony, prompting suspicion of motive or interference.",
-    "source_quote": "Teles Ahvoste. One of the other great readers, making passes at Irony.",
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir believes skipping Daral's room will make him look like the obvious suspect, and knows Thorin would say that.",
+    "source_quote": "Skip him and he becomes the obvious suspect, of course \u2014 Thorin would say it dry, and he would be right.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir notices Alkrist\u2019s book, 1001 Tashalian Nights, has a bookmark on the tale of a commander poisoned by a magic horn.",
+    "source_quote": "On the bedside table lay a book \u2014 black leather, stars and gold filigree, the sort of thing a man buys to be the kind of man who owns it. 1001 Tashalian Nights. It had a bookmark. I let Glabbagool steady me, and I read the man as much as the book. The bookmark sat on the tale of a military commander, poisoned by a gift of surrender \u2014 a magic horn whose mouthpiece had been coated in Midnight Tears.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir finds the partnership with Glabbagool easy but doesn't say so out loud.",
+    "source_quote": "I was not going to say out loud that I found the partnership easy. I just used it.",
     "quote_verified": true
   },
   {
     "type": "event",
     "subject": "Zalthir",
-    "fact": "Zalthir used Glabbagool the ooze to search the Readers' chambers, letting the ooze flow where he could not reach and reading what the ooze could not understand.",
-    "source_quote": "He flowed where I could not reach; I read what he could not understand.",
+    "fact": "Zalthir set the book back exactly as it lay, careful enough that the man with poisoned rats would never know a hand had touched it.",
+    "source_quote": "I set the book back exactly as it lay, careful enough that he would never know a hand had touched it.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "Zalthir",
-    "fact": "Zalthir skipped Sylvira Savikas and Daral first, recognizing them as obvious or misleading targets.",
-    "source_quote": "I'm gonna skip Sylvira for now... But Daral's the one who's poisoned himself, right? Skip him as well.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Zalthir",
-    "fact": "Zalthir found a copy of *1001 Tashalian Nights* in Alkrist's room, bookmarked on a tale of poisoning via a magic horn coated in Midnight Tears.",
-    "source_quote": "The bookmark sat on the tale of a military commander, poisoned by a gift of surrender \u2014 a magic horn whose mouthpiece had been coated in Midnight Tears.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Leuwin",
-    "fact": "Leuwin claimed he could not imagine how the dangerous toxin vial was broken, despite the evidence of a cover-up.",
-    "source_quote": "That was shocking, he said. Unacceptable. He couldn't imagine how it had happened.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Nibbles",
-    "fact": "Nibbles the squirrel was bribed with nuts to reveal information about the poisoning, and his testimony was the key to the timeline.",
-    "source_quote": "A drow on his knees, bribing a squirrel one nut at a time.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
+    "type": "npc",
     "subject": "Daz",
-    "fact": "Daz used acorns to bribe Nibbles the squirrel, recognizing that a witness with a price is the easiest kind to work.",
-    "source_quote": "I asked Leuwin for acorns first. Then I bent low and let the working loosen the squirrel's tongue into words I could follow, because a witness is a witness regardless of how many legs it has, and a witness with a price is the easiest kind to work.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Daz",
-    "fact": "Daz observed that the peppermint rag and broken vial were a badly executed cover-up, indicating an amateur or rushed attempt.",
-    "source_quote": "Badly. That was the word that mattered. A professional doesn't leave a peppermint rag where the next person to crouch down will find it.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Daz",
-    "fact": "Daz determined that the drow and dragonborn did not arrive together \u2014 the drow created a diversion while the dragonborn acted alone.",
-    "source_quote": "*Did they arrive together? That was the seam to press \u2014 whether the elf and the lizard walked in as a pair or staggered their timing.*",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Zalthir",
-    "fact": "Zalthir found three dead doves in A'lai's cage, indicating three recent messages had been sent.",
-    "source_quote": "The feeding troughs, the droppings, the wear on five perches. There had been more than two.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Zalthir",
-    "fact": "Zalthir noted that Alkrist's possession of *1001 Tashalian Nights* with a specific bookmark suggests he is studying poison methods.",
-    "source_quote": "The bookmark sat on the tale of a military commander, poisoned by a gift of surrender \u2014 a magic horn whose mouthpiece had been coated in Midnight Tears.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "The honey pot",
-    "fact": "The honey pot may have been an excuse to explain Sylvira\u2019s presence in the kitchens, masking her true intent.",
-    "source_quote": "The honey was the cover for when Irony walked in.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "The paper burning",
-    "fact": "Alkrist burning the scrap of paper and dropping it when junior avowed entered suggests he was destroying evidence.",
-    "source_quote": "Alkrist had been holding a small scrap of paper toward a candle, feeding it to the flame, and when two junior avowed walked in, he dropped it.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "The cut string",
-    "fact": "The cut and retied string on Janussi's gift indicates the poisoning was not an external act but an internal one, committed by someone who had access to the gifts.",
-    "source_quote": "The string tied around Janussi's Deadwinter gift had clearly been cut and retied.",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "Irony's evasion",
-    "fact": "Irony's refusal to speak directly, despite being unable to lie, suggests she is protecting someone or hiding a truth she cannot voice.",
-    "source_quote": "She hadn't answered. She'd pointed us at Sprig instead. Can't lie isn't has to tell. She steered us rather than speak false.",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "The dragonborn's motive",
-    "fact": "The dragonborn took the risk of handling the poison, suggesting personal investment in the outcome \u2014 not merely following orders.",
-    "source_quote": "The drow caused the diversion and kept his hands clean of the highly toxic poisons that might kill you. The dragonborn took the risk.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "The drow's role",
-    "fact": "The drow\u2019s manipulation of the squirrel and orchestration of the diversion suggests a high level of planning and psychological manipulation.",
-    "source_quote": "A drow on his knees, bribing a squirrel one nut at a time.",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "The poison taster",
-    "fact": "The fact that Sprig was the poison taster and survived suggests someone deliberately kept her off the poisoned dish \u2014 implying insider knowledge.",
-    "source_quote": "If the only mark was Janussi, then the taster's just collateral: she'd have gone down at midnight too, and nobody'd ever connect the dots. So either somebody kept her off the wrong plate on purpose, or she got lucky.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "The candlelight",
-    "fact": "Sylvira Savikas, a tiefling, does not need candlelight \u2014 her use of it suggests deception or disguise.",
-    "source_quote": "Sylvira's a tiefling. A tiefling doesn't need the light.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "The poison vial",
-    "fact": "The use of a peppermint rag to mask the smell of the toxin suggests the perpetrator had some knowledge of alchemy or poison handling.",
-    "source_quote": "Under the top shelf I found a peppermint-soaked rag and a broken vial...",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "The dove cage",
-    "fact": "The three missing doves from A'lai's cage suggest he sent three messages \u2014 possibly to coordinate the poisoning or report on progress.",
-    "source_quote": "The cage was built for five. Two birds sat in it. The feeding troughs, the droppings, the wear on five perches. There had been more than two.",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "The book of tales",
-    "fact": "The bookmarked tale of poisoning via a magic horn coated in Midnight Tears suggests Alkrist is modeling his method on this story.",
-    "source_quote": "The bookmark sat on the tale of a military commander, poisoned by a gift of surrender \u2014 a magic horn whose mouthpiece had been coated in Midnight Tears.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "The rat jars",
-    "fact": "The dead rats with blistered, pustule-risen skin in Alkrist\u2019s room indicate he is actively testing or studying poison effects.",
-    "source_quote": "Sealed glass jars holding dead rats, their skin blistered and risen into pustules.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Daz",
-    "fact": "Daz would note the locked safe without regret.",
+    "fact": "Daz would note the locked safe without regret, because they are not the famed Whistler and no safecracker of that old generation is among them.",
     "source_quote": "Daz would note it without regret: we are not the famed Whistler, no safecracker of that old generation among us.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool could not thin himself past the safe's opening.",
+    "subject": "Zalthir",
+    "fact": "Zalthir realized Glabbagool could not thin himself past the safe's one-finger-width opening.",
     "source_quote": "Glabbagool could not thin himself past it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir found nothing in Bookwyrm's chambers.",
+    "source_quote": "I found nothing.",
     "quote_verified": true
   },
   {
@@ -813,44 +449,9 @@
   },
   {
     "type": "npc",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool found the room clean and that, too, was information.",
-    "source_quote": "A clean room. That, too, was information.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Bookwyrm",
-    "fact": "The tower was fighting Bookwyrm.",
-    "source_quote": "Bookwyrm last, and by then the tower was fighting me.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Bookwyrm",
-    "fact": "Bookwyrm's chambers took half the top floor \u2014 comfortable, neatly arranged, no extravagance to it.",
-    "source_quote": "Her chambers took half the top floor \u2014 comfortable, neatly arranged, no extravagance to it.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Bookwyrm",
-    "fact": "Bookwyrm got in and found nothing.",
-    "source_quote": "I got in. I found nothing.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "Midnight Tears",
-    "fact": "The name Midnight Tears was kept where it would not be lost.",
+    "subject": "Zalthir",
+    "fact": "Zalthir kept the name 'Midnight Tears' where he would not lose it.",
     "source_quote": "Midnight Tears. I kept the name where I would not lose it.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "We",
-    "fact": "We had several leads: a cage missing three birds, jars of blistered rats, a page marked to a poisoning by gift.",
-    "source_quote": "We had several. A cage missing three birds. Jars of blistered rats. A page marked to a poisoning by gift.",
     "quote_verified": true
   }
 ]

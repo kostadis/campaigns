@@ -7,12 +7,11 @@ chapters: 61-61
 
 ### heart
 
-- **Type:** Object  
-- **Current location:** On a table, as part of evidence in an investigation  
-- **Current condition:** Preserved as physical evidence (likely severed and displayed)  
-- **Significance:** One of three pieces of evidence used to confirm the brutality and authenticity of a murder; associated with a confession and a cleaver  
+- **Current holder/location:** Inside the chalice of a statue.
+- **Current condition:** Removed from Janussi’s body, preserved but not in its original host.
+- **Significance:** Deliberately concealed as an act of misdirection to protect someone else.
 
 ## Uncertainty
-- The heart’s original owner (victim) is not named.  
-- Whether the heart is still on the table or has been moved, collected, or disposed of since Chapter 61 is unknown.  
-- The nature of its preservation (e.g., magically kept fresh, pickled, etc.) is unspecified.
+- The identity of the person who removed the heart and placed it in the chalice is not specified.
+- The current status of Janussi (alive/dead) is not stated — only that the heart was removed.
+- The specific statue’s location or identity is not named.

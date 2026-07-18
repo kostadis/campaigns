@@ -1,107 +1,93 @@
 [
   {
-    "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum made a sound.",
-    "source_quote": "Grygum made a sound.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Thorin",
-    "fact": "Thorin said something about 'the Ember Grapple.'",
-    "source_quote": "Thorin said something about 'the Ember Grapple.'",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Thorin",
-    "fact": "Someone \u2014 possibly Thorin again, possibly Grygum, it is hard to tell when they are both making noise \u2014 found this very funny.",
-    "source_quote": "Someone \u2014 possibly Thorin again, possibly Grygum, it is hard to tell when they are both making noise \u2014 found this very funny.",
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir feels that tying things to the ground for Daz to cook is not the heroic narrative he had constructed for himself.",
+    "source_quote": "It was not lost on me that \"Zalthir ties things to the ground for Daz to cook\" is not exactly the heroic narrative I had constructed for myself.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Thorin",
-    "fact": "Thorin mentioned javelins.",
-    "source_quote": "Thorin mentioned javelins.",
+    "subject": "Zalthir",
+    "fact": "Zalthir remembers having killed an ettin with his hands.",
+    "source_quote": "I have killed an ettin with my hands.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Thorin",
-    "fact": "Thorin had apparently acquired some facility with thrown weapons \u2014 a Sharpshooter's instinct, trained in, applied to range \u2014 and he wanted something with reach for the next engagement.",
-    "source_quote": "Thorin had apparently acquired some facility with thrown weapons \u2014 a Sharpshooter's instinct, trained in, applied to range \u2014 and he wanted something with reach for the next engagement.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Thorin",
-    "fact": "Thorin wanted something to hold the gap while I was busy tying knots and Daz was busy making things into fire.",
-    "source_quote": "Thorin wanted something to hold the gap while I was busy tying knots and Daz was busy making things into fire.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Thorin",
-    "fact": "Thorin found the situation practical.",
-    "source_quote": "Practical. I noted it and moved on.",
+    "subject": "Zalthir",
+    "fact": "Zalthir remembers dragging the Pudding King through his own throne room.",
+    "source_quote": "I dragged the Pudding King through his own throne room.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "Narrator",
-    "fact": "I had run the tunnels in my head \u2014 the distance we had traveled, the pace, the absence of obvious threats immediately ahead.",
+    "subject": "Zalthir",
+    "fact": "Zalthir did not correct the name 'Ember Grapple' because he felt it was not wrong.",
+    "source_quote": "I did not correct it. The name was not wrong.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir noted Thorin's facility with javelins and his desire for reach in the next engagement.",
+    "source_quote": "I noted it and moved on.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir believes there would be no long rest before whatever came next.",
+    "source_quote": "There would be no long rest before whatever came next.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir has run the tunnels in his head, accounting for distance, pace, and absence of immediate threats.",
     "source_quote": "I had run the tunnels in my head \u2014 the distance we had traveled, the pace, the absence of obvious threats immediately ahead.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Narrator",
-    "fact": "I had turned that over the way I turn most things over: once, completely, and then I put it down.",
+    "subject": "Zalthir",
+    "fact": "Zalthir believes nothing replenishes itself on account of wishing.",
+    "source_quote": "Nothing replenished itself on account of wishing.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir turned over the situation once, completely, and then put it down.",
     "source_quote": "I turned that over the way I turn most things over: once, completely, and then I put it down.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Narrator",
-    "fact": "The math was the math.",
-    "source_quote": "The math was the math.",
+    "subject": "Zalthir",
+    "fact": "Zalthir believes the math is the math and what they have is what they have.",
+    "source_quote": "The math was the math. What we had was what we had.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Narrator",
-    "fact": "What we had was what we had.",
-    "source_quote": "What we had was what we had.",
+    "subject": "Zalthir",
+    "fact": "Zalthir lets the name 'Ember Grapple' settle in his mind.",
+    "source_quote": "I let it settle.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "The Ember Grapple",
-    "fact": "The Ember Grapple holds something still until there is nothing left to hold.",
-    "source_quote": "The Ember Grapple holds something still until there is nothing left to hold.",
+    "subject": "Zalthir",
+    "fact": "Zalthir believes the name 'Ember Grapple' is accurate.",
+    "source_quote": "Both accurate.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "The Ember Vanguard",
-    "fact": "The Ember Vanguard charges in with fire and flash and the announcement of itself.",
-    "source_quote": "The Ember Vanguard charges in with fire and flash and the announcement of itself.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "The Ember Grapple",
-    "fact": "The Ember Grapple is a name that has been accepted, though its origin or exact referent remains ambiguous.",
-    "source_quote": "I let it settle. As names go, I have heard worse.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "The Ember Grapple",
-    "fact": "The Ember Grapple may describe the same party as the Ember Vanguard, but from a different position in the room \u2014 this is not confirmed.",
-    "source_quote": "Both accurate. Possibly the same party described from two different positions in the room.",
+    "subject": "Zalthir",
+    "fact": "Zalthir believes the name 'Ember Grapple' might describe the same party from two different positions in the room.",
+    "source_quote": "Possibly the same party described from two different positions in the room.",
     "quote_verified": true
   }
 ]

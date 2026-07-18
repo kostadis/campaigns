@@ -1,296 +1,625 @@
 [
   {
     "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz feels cognitive friction from a chant he recognizes as degraded, similar to patterns seen in Eldred and the Field Ward Preacher.",
+    "source_quote": "I have seen it before. Twice. Eldred had it, earlier in the journey \u2014 the man who went insane. The Field Ward Preacher had it too.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz attributes his sensation to sunlight, having been outside for an unusually long time.",
+    "source_quote": "I had been attributing the sensation to sunlight. I had, in fact, been attributing it to sunlight for most of the day.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz writes down the exact cadence and false syncopation of the chant he recognizes.",
+    "source_quote": "I wrote it down. The exact cadence, the placement of the false syncopation, the point in the verse where the chant bent away from the original.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz closes his journal after writing down the chant's pattern.",
+    "source_quote": "Yeah, sure,\" I said, and closed my journal.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum is a scholar whose interest in Stroud is performed slightly harder than the interest actually requires \u2014 and he offered a silver piece for something about Stroud's famous chess game.",
+    "fact": "Grygum offers the bard a silver piece for a song about Stroud's famous chess game.",
     "source_quote": "Grygum leaned forward \u2014 he has a scholar's interest in Stroud that he performs slightly harder than the interest actually requires \u2014 and offered her a silver piece for something about Stroud's famous chess game.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Zalthir",
-    "fact": "Zalthir is the one who confirmed to Glabbagool that watching the spy is pre-monk training \u2014 and Glabbagool accepted the assignment with complete seriousness.",
-    "source_quote": "\"Absolutely,\" I said. It was. Patience under provocation. Maintaining stillness when the environment is actively hostile. Responding to aggression without being ruled by it. If anything, the spy was giving him a better curriculum than most of what I'd sat through. Glabbagool took this with complete seriousness.",
+    "subject": "Grygum",
+    "fact": "Grygum identifies himself as Bahamutian with sentimentality for Stroud.",
+    "source_quote": "he explained that he was Bahamutian, with sentimentality for the other.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool asked Zalthir directly: 'Will I be more of a monk or less of a monk by watching her? Is this some kind of pre-monk training you've put me in?' \u2014 and received an affirmative answer.",
-    "source_quote": "Glabbagool paused, and asked me directly: \"Zalthir? Will I be more of a monk or less of a monk by watching her? Is this some kind of pre-monk training you've put me in?\"",
+    "subject": "Grygum",
+    "fact": "Grygum recalls a previous campaign involving giants and love that was not Stroud's.",
+    "source_quote": "The only love I remember during the previous campaign,\" he said, \"involved giants, and it wasn't Stroud's.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Khell-Vire",
-    "fact": "Khell-Vire asked Zalthir: 'What were you sent toward? Not why were you sent here?' \u2014 and later stated: 'I will not be there. This is your work, not mine.'",
-    "source_quote": "Khell-Vire opened with the question. \"What were you sent toward? Not why were you sent here?\" ... Then Khell-Vire set the terms clearly: \"There are monks here in the inner ward who have read everything and fought nothing. They will want to test you. Let them. You will learn what you do not see, and they will learn what cannot be read. I will not be there. This is your work, not mine.\"",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "The Blind Monk",
-    "fact": "The blind monk told Zalthir: 'You skip the third breath. You don't enter your ki in the hara. You let it bleed into your fingertips like a poison. It is technically wrong in every scroll. And yet, you arrived at your destination three seconds faster than the Grandmaster did. Show me what else you haven't learned.'",
-    "source_quote": "The blind monk entered without introduction and said: \"Give me a standard shadow step.\" ... Then he paused. \"You skip the third breath. You don't enter your ki in the hara. You let it bleed into your fingertips like a poison. It is technically wrong in every scroll. And yet, you arrived at your destination three seconds faster than the Grandmaster did. Show me what else you haven't learned.\"",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "The Blind Monk",
-    "fact": "The blind monk told Zalthir after his failed demonstrations: 'You have learned nothing.'",
-    "source_quote": "He rolled catastrophically. He fell. The monk watched him fall \u2014 insofar as a blind man watches anything \u2014 and said, without apparent emotion: \"You have learned nothing.\"",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Candlekeep",
-    "fact": "Candlekeep is a dark stack of towers against the sky, impossible to mistake \u2014 a building that centuries have shaped into something that sits there.",
-    "source_quote": "Candlekeep is visible from miles out \u2014 a dark stack of towers against the sky, impossible to mistake. I'd seen it described in documents we'd carried out of the Underdark. Seeing it in person was different. It sat there. Centuries do that to a building.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Echoing Hall",
-    "fact": "The Echoing Hall's stone corridors return sound slightly altered \u2014 not an echo exactly, more like the library itself was taking notes.",
-    "source_quote": "The Echoing Hall earned its name. Stone corridors in Candlekeep's north inner ward have a habit of returning sound to you slightly altered \u2014 not an echo exactly, more like the library itself was taking notes.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Candlekeep Bell Tower",
-    "fact": "The bell tower has cells \u2014 comfortable, localized anti-magic \u2014 rarely used, because Candlekeep holds prisoners but does not keep them.",
-    "source_quote": "The bell tower has cells. Comfortable, localized anti-magic. They are very rarely used. Anyone we find guilty of a major offense is exiled rather than imprisoned. Which is to say, we hold prisoners. We do not keep them.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "The Note on Khell-Vire's Desk",
-    "fact": "The note on Khell-Vire's desk reads: 'Zalthir, the Underdark, until the Bone King sings.' \u2014 neither Zalthir nor Khell-Vire could place it.",
-    "source_quote": "On Khell-Vire's desk, visible from where I was standing: *Zalthir, the Underdark, until the Bone King sings.* Zalthir stared at it. Khell-Vire stared at it. Neither of them could place it.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "The Spy's Bag",
-    "fact": "The bag contained Glabbagool and a miniaturized House T'sarran spy \u2014 which Gate Warden Kalan Strongbranch found unacceptable.",
-    "source_quote": "When we'd come through the gate, we'd had to open it to show the guards Glabbagool, and the miniaturized House T'sarran spy had been right there alongside him, which she apparently found unacceptable.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Zalthir's Trial of the Broken Mirror",
-    "fact": "Zalthir was tested by a blind monk who judged his shadow techniques as technically wrong \u2014 yet acknowledged his superior speed and asked him to show what else he hadn't learned.",
-    "source_quote": "The blind monk ... said: \"You skip the third breath. You don't enter your ki in the hara. You let it bleed into your fingertips like a poison. It is technically wrong in every scroll. And yet, you arrived at your destination three seconds faster than the Grandmaster did. Show me what else you haven't learned.\"",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "The Decision to Keep the Spy",
-    "fact": "Candlekeep's Gate Warden Kalan Strongbranch offered only a delay \u2014 not imprisonment or execution \u2014 and declared that if the party needed something else, they would need to do it themselves.",
-    "source_quote": "He laid out Candlekeep's position without apology: \"... we will not deliver to House T'sarran, and we will not execute her. Eventually, we will release her at our gate with a warning. If you need something else, you will need to do it yourselves.\"",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Glabbagool's Acceptance of the Spy as Curriculum",
-    "fact": "Glabbagool, after being told by Zalthir that watching the spy was pre-monk training, drew himself up and declared: 'I will keep an eye on her!' \u2014 with six pseudo-eyes fixed on her simultaneously.",
-    "source_quote": "Glabbagool took this with complete seriousness. The work counted; he had been told so. He drew himself up, or the ooze equivalent of it. \"I will keep an eye on her!\" Six pseudo-eyes fixed on the spy simultaneously.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "The Blind Monk's Final Judgment",
-    "fact": "After Zalthir failed all three formal techniques, the blind monk sighed and walked away \u2014 declaring Zalthir had learned nothing.",
-    "source_quote": "He tried stealth for the Eldritch Claw. His number landed somewhere that would have been insufficient even with generous interpretation. The monk sighed again and walked away.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "The Question of the Broken Mirror",
-    "fact": "Khell-Vire asked Zalthir: 'Does this phrase mean anything to you that you have lived through that resonates with the phrase?' \u2014 and Zalthir replied: 'Not particularly.'",
-    "source_quote": "Perhaps if I asked it differently \u2014 does this phrase mean anything to you that you have lived through that resonates with the phrase?\" \"Not particularly.\"",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Candlekeep Lower-Gallery Office",
-    "fact": "The lower-gallery office holds the Shadow Discipline Lineage Records \u2014 and Khell-Vire lives among them, wearing a faded shadow monk under-robe beneath the Candlekeep gray.",
-    "source_quote": "Zalthir had been directed to the lower-gallery office, where the Shadow Discipline Lineage Records were kept, and where a man named Khell-Vire apparently lived among them. He wore a faded shadow monk under-robe beneath the Candlekeep gray...",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Sister Yvenne",
-    "fact": "Sister Yvenne was assigned as Daz's handler at Candlekeep \u2014 without ceremony.",
-    "source_quote": "Bookwyrm \u2014 the First Reader, a dragonborn sage \u2014 assigned us each to a handler without ceremony. Daz to Sister Yvenne.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Brother Khell-Vire",
-    "fact": "Brother Khell-Vire is two hundred years old, half-elven, eighty years gone from the Garden of Shadow after refusing an order he never explained.",
-    "source_quote": "Two hundred years old, half-elven, eighty years gone from the Garden of Shadow after refusing an order he never explained.",
+    "subject": "Grygum",
+    "fact": "Grygum says \"These things have to be done with a grain of salt.\"",
+    "source_quote": "These things have to be done with a grain of salt.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Kalan Strongbranch",
-    "fact": "Kalan Strongbranch is the Gate Warden who laid out Candlekeep\u2019s official policy on prisoners \u2014 and declared: 'We hold prisoners. We do not keep them.'",
-    "source_quote": "Gate Warden. He was efficient about it. He laid out Candlekeep's position without apology: \"... we hold prisoners. We do not keep them.\"",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Bookwyrm",
-    "fact": "Bookwyrm is the First Reader \u2014 a dragonborn sage \u2014 who assigned handlers at Candlekeep's gate without ceremony.",
-    "source_quote": "Bookwyrm \u2014 the First Reader, a dragonborn sage \u2014 assigned us each to a handler without ceremony.",
+    "subject": "Grygum",
+    "fact": "Grygum is assigned to Vareth as his handler at Candlekeep.",
+    "source_quote": "Grygum to Vareth.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Daz",
-    "fact": "Daz went quiet beside Zalthir around the second hour of walking \u2014 his hand went to his temple and stayed there.",
-    "source_quote": "Daz went quiet beside me somewhere around the second hour of walking. Not his usual quiet. His hand went to his temple and stayed there.",
+    "subject": "Grygum",
+    "fact": "Grygum summarizes the presence of the miniaturized House T'sarran spy as \"We've been caught.\"",
+    "source_quote": "Grygum summarized, with admirable brevity, as: \"We've been caught.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin spends the evening outside with Dawnbringer at the sea.",
+    "source_quote": "Thorin spent the evening outside with Dawnbringer, standing at what I understand was his first real encounter with the sea.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Thorin",
-    "fact": "Thorin asked whether Glabbagool had thoughts on the matter \u2014 and observed that Glabbagool seemed ambivalent.",
-    "source_quote": "Thorin, who processes things by talking, asked whether Glabbagool had thoughts on the matter. ... Thorin observed that Glabbagool seemed ambivalent.",
+    "fact": "Thorin finds Dawnbringer's light defeating the purpose of viewing the sea to be peaceful.",
+    "source_quote": "Dawnbringer, predictably, lit up everything around them, which defeated the purpose of going outside to look at the sea. Thorin apparently found this peaceful rather than counterproductive.",
     "quote_verified": false
   },
   {
     "type": "npc",
-    "subject": "Vareth",
-    "fact": "Vareth was assigned as Grygum's handler at Candlekeep \u2014 without ceremony.",
-    "source_quote": "Bookwyrm \u2014 the First Reader, a dragonborn sage \u2014 assigned us each to a handler without ceremony. Grygum to Vareth.",
-    "quote_verified": false
+    "subject": "Thorin",
+    "fact": "Thorin says, \"Life takes you in weird directions and weird places, you just gotta go with it.\"",
+    "source_quote": "Life takes you in weird directions and weird places,\" he said. \"You just gotta go with it.",
+    "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Master Archivist Philemon",
-    "fact": "Master Archivist Philemon was assigned as Thorin's handler at Candlekeep \u2014 without ceremony.",
-    "source_quote": "Bookwyrm \u2014 the First Reader, a dragonborn sage \u2014 assigned us each to a handler without ceremony. Thorin to Master Archivist Philemon.",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "The Spy's Attempted Murder of Glabbagool",
-    "fact": "The spy kept trying to kill Glabbagool \u2014 he'd slap her around, she'd try to run, he'd expand, she'd scream, he'd try to explain the way of the shadow and teach her meditation \u2014 she'd scream about the meditation.",
-    "source_quote": "She kept trying to kill him. He'd slap her around. She'd try to run. He'd expand. She'd scream. He'd try to explain the way of the shadow and teach her meditation. She'd scream about the meditation.",
+    "subject": "Thorin",
+    "fact": "Thorin asks Glabbagool whether it has thoughts on the spy's imprisonment.",
+    "source_quote": "Thorin, who processes things by talking, asked whether Glabbagool had thoughts on the matter.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "The Final Exchange Between Zalthir and the Blind Monk",
-    "fact": "Zalthir asked whether he could punch the monk \u2014 and he did \u2014 and the sparring match that followed was evenly balanced.",
-    "source_quote": "Zalthir asked whether he could punch the monk. ... He could. He did. The sparring match that followed was, by all observation, evenly balanced...",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "The Question of the Bone King",
-    "fact": "The note on Khell-Vire's desk reads: 'Zalthir, the Underdark, until the Bone King sings.' \u2014 a phrase neither Zalthir nor Khell-Vire could place.",
-    "source_quote": "On Khell-Vire's desk, visible from where I was standing: *Zalthir, the Underdark, until the Bone King sings.* Zalthir stared at it. Khell-Vire stared at it. Neither of them could place it.",
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin observes that Glabbagool seems ambivalent about watching the spy.",
+    "source_quote": "Thorin observed that Glabbagool seemed ambivalent.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "The Decision to Keep the Spy",
-    "fact": "The First Reader told the spy that the decision to keep or release her was not hers \u2014 it was the party's \u2014 as a guest and member of the adventuring party.",
-    "source_quote": "The First Reader looked at her with something that might have been sympathy and explained that as a guest of Candlekeep \u2014 as a member, technically, of our adventuring party \u2014 the decision was ours, not hers.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Candlekeep's South Wall",
-    "fact": "The soot mark on the south wall sat where it always sat \u2014 the wall remembers.",
-    "source_quote": "Festrum wiped the bar. The soot mark on the south wall sat where it always sat.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Candlekeep's Floor",
-    "fact": "The floor was scrubbed every season \u2014 a ritual of maintenance.",
-    "source_quote": "The floor, scrubbed every season.",
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin asks if Zalthir can attack the blind monk while he walks away.",
+    "source_quote": "Thorin, from the side: \"Can he attack him while he's walking away? Blindside him, as it were?\"",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Zalthir",
-    "fact": "Zalthir said to Glabbagool: 'Absolutely' \u2014 confirming that watching the spy was pre-monk training.",
-    "source_quote": "\"Absolutely,\" I said. It was. Patience under provocation. Maintaining stillness when the environment is actively hostile. Responding to aggression without being ruled by it.",
+    "fact": "Zalthir climbs to the roof to meditate and returns with the expression of someone closing an internal argument.",
+    "source_quote": "Zalthir climbed to the roof to meditate. He came back down later, settled. The expression of someone closing an internal argument, not opening an external one.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Zalthir",
-    "fact": "Zalthir said to the blind monk: 'I mean, I rolled a 30 to hit. Does that get me anything?' \u2014 after Thorin asked if he could blindside the monk while walking away.",
-    "source_quote": "Thorin, from the side: \"Can he attack him while he's walking away? Blindside him, as it were?\" Zalthir: \"I mean, I rolled a 30 to hit. Does that get me anything?\"",
+    "fact": "Zalthir says \"Hmm, true,\" in the tone of completing an internal argument.",
+    "source_quote": "He said \"Hmm, true,\" about something, in the tone of a man completing an internal argument rather than beginning an external one.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Zalthir",
-    "fact": "Zalthir said: 'I've played this game before, my friends' \u2014 referring to shadow monk pedagogy stretching back five centuries.",
-    "source_quote": "\"I've played this game before, my friends,\" Zalthir said, which was directed at no one in particular, or possibly at us, or possibly at the entire tradition of shadow monk pedagogy stretching back five centuries.",
+    "fact": "Zalthir is assigned to Brother Khell-Vire as his handler at Candlekeep.",
+    "source_quote": "Zalthir to Brother Khell-Vire.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Daz",
-    "fact": "Daz's silence and hand-to-temple gesture were noticed by Zalthir \u2014 but Zalthir did not say anything yet.",
-    "source_quote": "Daz went quiet beside me somewhere around the second hour of walking. Not his usual quiet. His hand went to his temple and stayed there. I noticed. I didn't say anything yet.",
+    "subject": "Zalthir",
+    "fact": "Zalthir is asked by Khell-Vire what he was sent toward, not why he was sent.",
+    "source_quote": "What were you sent toward? Not why were you sent here?",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "The Shadow Monk Trial",
-    "fact": "The blind monk tested Zalthir on three techniques: the Weightless Shadow, the Efficient Strike, the Eldritch Claw \u2014 and judged all three as failures.",
-    "source_quote": "Then came the formal demonstration. Three techniques: the Weightless Shadow, the Efficient Strike, the Eldritch Claw. The monk had the rubric. Zalthir had to execute against it.",
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir responds to Khell-Vire's question with \"Granted, given that constraint or specification, can you clarify?\"",
+    "source_quote": "Granted, given that constraint or specification, can you clarify?",
     "quote_verified": true
   },
   {
-    "type": "object",
-    "subject": "The Shadow Monk Under-Robe",
-    "fact": "Khell-Vire wore a faded shadow monk under-robe beneath the Candlekeep gray \u2014 a sign he had not stopped dressing like what he was.",
-    "source_quote": "He wore a faded shadow monk under-robe beneath the Candlekeep gray, which told me more about him than the records would have. You don't stop dressing like what you were. You just layer something else over it.",
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, \"I've played this game before, my friends,\" addressing the tradition of shadow monk pedagogy.",
+    "source_quote": "I've played this game before, my friends,",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is told by the blind monk that he skips the third breath and lets ki bleed into his fingertips like poison.",
+    "source_quote": "You skip the third breath. You don't enter your ki in the hara. You let it bleed into your fingertips like a poison.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is told by the blind monk that he arrived three seconds faster than the Grandmaster despite technically wrong technique.",
+    "source_quote": "And yet, you arrived at your destination three seconds faster than the Grandmaster did.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir asks the blind monk if he can punch him.",
+    "source_quote": "Zalthir asked whether he could punch the monk.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir fails the Weightless Shadow technique by rolling catastrophically and falling.",
+    "source_quote": "He rolled catastrophically. He fell.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir fails the Efficient Strike technique, and the monk asks if he practiced forms while traveling.",
+    "source_quote": "The corridor was narrow. The form was irrelevant. Did you not practice your forms while traveling?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir attempts the Eldritch Claw using stealth and rolls an insufficient number.",
+    "source_quote": "Zalthir tried stealth for the Eldritch Claw. His number landed somewhere that would have been insufficient even with generous interpretation.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir rolls a 30 to hit during the monk's departure, and asks if it gets him anything.",
+    "source_quote": "I mean, I rolled a 30 to hit. Does that get me anything?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool has been watching the spy and finds her entertaining.",
+    "source_quote": "He'd been doing prison-watching, he explained, and was kind of bored. But the spy was not without entertainment value.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool says the spy keeps trying to kill him, and he slaps her around.",
+    "source_quote": "She kept trying to kill him. He'd slap her around.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool says the spy screams when he tries to teach her meditation.",
+    "source_quote": "She'd scream about the meditation.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool says he and the spy have become great friends.",
+    "source_quote": "He said they'd become great friends.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool asks Zalthir if watching the spy makes him more or less of a monk.",
+    "source_quote": "Zalthir? Will I be more of a monk or less of a monk by watching her? Is this some kind of pre-monk training you've put me in?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool says he will keep an eye on the spy after Zalthir confirms it is training.",
+    "source_quote": "I will keep an eye on her!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Yvenne",
+    "fact": "Sister Yvenne is assigned as Daz's handler at Candlekeep.",
+    "source_quote": "Daz to Sister Yvenne.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Brother Khell-Vire",
+    "fact": "Brother Khell-Vire is a two-hundred-year-old half-elven shadow monk who wears a faded shadow monk under-robe under Candlekeep gray.",
+    "source_quote": "Two hundred years old, half-elven, eighty years gone from the Garden of Shadow after refusing an order he never explained. He wore a faded shadow monk under-robe beneath the Candlekeep gray",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Brother Khell-Vire",
+    "fact": "Brother Khell-Vire has a note on his desk reading \"Zalthir, the Underdark, until the Bone King sings.\"",
+    "source_quote": "On Khell-Vire's desk, visible from where I was standing: *Zalthir, the Underdark, until the Bone King sings.*",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Brother Khell-Vire",
+    "fact": "Brother Khell-Vire tells Zalthir that he will not be present during the trial and that it is Zalthir's work.",
+    "source_quote": "I will not be there. This is your work, not mine.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Brother Khell-Vire",
+    "fact": "Brother Khell-Vire asks Zalthir if the phrase \"the Bone King sings\" refers to an entity, event, or person.",
+    "source_quote": "Is it an entity? An event? A person?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm is the First Reader at Candlekeep who assigns handlers without ceremony.",
+    "source_quote": "Bookwyrm \u2014 the First Reader, a dragonborn sage \u2014 assigned us each to a handler without ceremony.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch is the Gate Warden who explains Candlekeep's policy on prisoners.",
+    "source_quote": "They summoned someone called Kalan Strongbranch. Gate Warden.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch says Candlekeep holds prisoners but does not keep them.",
+    "source_quote": "We hold prisoners. We do not keep them.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch says Candlekeep will not deliver the spy to House T'sarran or execute her.",
+    "source_quote": "We will not deliver to House T'sarran, and we will not execute her.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch says Candlekeep will eventually release the spy with a warning.",
+    "source_quote": "Eventually, we will release her at our gate with a warning.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The spy",
+    "fact": "The miniaturized House T'sarran spy is furious when told her fate is not hers to decide.",
+    "source_quote": "The spy was furious. She turned to Kalan and announced that she was a prisoner and wished to be formally jailed by Candlekeep's guards.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "The spy",
+    "fact": "The spy announces she is a prisoner and wishes to be formally jailed by Candlekeep.",
+    "source_quote": "she was a prisoner and wished to be formally jailed by Candlekeep's guards.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The spy",
+    "fact": "The First Reader says the spy is a guest of Candlekeep and a member of the adventuring party.",
+    "source_quote": "as a guest of Candlekeep \u2014 as a member, technically, of our adventuring party \u2014 the decision was ours, not hers.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The spy",
+    "fact": "The spy has opinions, several of them.",
+    "source_quote": "The spy did not take this well. She had opinions. Several of them.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Brother Ferrath",
-    "fact": "Brother Ferrath (or possibly Brother Aldas) taught a class on the difference between solutions and postponements \u2014 and Zalthir remembers nothing else from it.",
-    "source_quote": "There was a class at the monastery \u2014 I think it was Brother Ferrath, or possibly Brother Aldas, I'm genuinely uncertain \u2014 on the difference between solutions and postponements. I remember nothing else from that class.",
+    "fact": "Brother Ferrath taught a class on the difference between solutions and postponements.",
+    "source_quote": "There was a class at the monastery \u2014 I think it was Brother Ferrath, or possibly Brother Aldas, I'm genuinely uncertain \u2014 on the difference between solutions and postponements.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "The Spy's Demand for Formal Imprisonment",
-    "fact": "The spy turned to Kalan and announced: 'I am a prisoner and wish to be formally jailed by Candlekeep's guards.'",
-    "source_quote": "The spy, for her part, was furious. She turned to Kalan and announced that she was a prisoner and wished to be formally jailed by Candlekeep's guards.",
+    "type": "npc",
+    "subject": "Brother Aldas",
+    "fact": "Brother Aldas may have taught the class on solutions and postponements.",
+    "source_quote": "There was a class at the monastery \u2014 I think it was Brother Ferrath, or possibly Brother Aldas, I'm genuinely uncertain \u2014 on the difference between solutions and postponements.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Eldred",
+    "fact": "Eldred exhibited the same degraded chant pattern as the young scholar, and later went insane.",
+    "source_quote": "Eldred had it, earlier in the journey \u2014 the man who went insane.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Field Ward Preacher",
+    "fact": "The Field Ward Preacher exhibited the same degraded chant pattern as the young scholar.",
+    "source_quote": "The Field Ward Preacher had it too.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Vareth",
+    "fact": "Vareth is assigned as Grygum's handler at Candlekeep.",
+    "source_quote": "Grygum to Vareth.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Master Archivist Philemon",
+    "fact": "Master Archivist Philemon is assigned as Thorin's handler at Candlekeep.",
+    "source_quote": "Thorin to Master Archivist Philemon.",
     "quote_verified": true
   },
   {
     "type": "location",
-    "subject": "Candlekeep Gate",
-    "fact": "At Candlekeep's gate, the party had to open their bag to show Glabbagool and the miniaturized House T'sarran spy \u2014 which triggered the Gate Warden's intervention.",
-    "source_quote": "When we'd come through the gate, we'd had to open it to show the guards Glabbagool, and the miniaturized House T'sarran spy had been right there alongside him...",
+    "subject": "The Burning Wizard Inn",
+    "fact": "The Burning Wizard Inn has a south wall with a soot mark that always sits in the same place.",
+    "source_quote": "The soot mark on the south wall sat where it always sat.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Burning Wizard Inn",
+    "fact": "The Burning Wizard Inn's floor is scrubbed every season.",
+    "source_quote": "The floor, scrubbed every season.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is a dark stack of towers against the sky, visible from miles out along the Way of the Lion.",
+    "source_quote": "Candlekeep is visible from miles out \u2014 a dark stack of towers against the sky, impossible to mistake.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Echoing Hall",
+    "fact": "The Echoing Hall has stone corridors that return sound slightly altered, as if taking notes.",
+    "source_quote": "Stone corridors in Candlekeep's north inner ward have a habit of returning sound to you slightly altered \u2014 not an echo exactly, more like the library itself was taking notes.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "lower-gallery office",
+    "fact": "The lower-gallery office contains Shadow Discipline Lineage Records.",
+    "source_quote": "the lower-gallery office, where the Shadow Discipline Lineage Records were kept",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "bell tower",
+    "fact": "The bell tower at Candlekeep has cells that are comfortable and locally anti-magic.",
+    "source_quote": "The bell tower has cells. Comfortable, localized anti-magic.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "silver piece",
+    "fact": "Grygum offers a silver piece to the bard for a song about Stroud's chess game.",
+    "source_quote": "offered her a silver piece for something about Stroud's famous chess game.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Sava game set",
+    "fact": "The Sava game set is on a zurkhwood table in the guard chamber.",
+    "source_quote": "It contains a zurkhwood table and three chairs, a smaller side table, and a Sava game set on the table",
     "quote_verified": false
   },
   {
-    "type": "event",
-    "subject": "Zalthir's Realization About the Blind Monk's Question",
-    "fact": "Zalthir realized that Khell-Vire wasn't asking what he knew \u2014 he was asking what he had become through what he'd lived.",
-    "source_quote": "I found this genuinely interesting. Not the answer \u2014 there wasn't one \u2014 but the structure of the question. Khell-Vire wasn't asking what Zalthir knew. He was asking what Zalthir had *become* through what he'd lived.",
+    "type": "object",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a grey ooze carried in a bag with the miniaturized House T'sarran spy.",
+    "source_quote": "we were carrying both a grey ooze and a miniaturized House T'sarran operative in the same bag",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "miniaturized House T'sarran spy",
+    "fact": "The miniaturized House T'sarran spy is carried in a bag with Glabbagool and was visible to Bookwyrm at the gate.",
+    "source_quote": "the miniaturized House T'sarran spy had been right there alongside him, which she apparently found unacceptable",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "journal",
+    "fact": "Daz writes the chant's pattern in his journal and then closes it.",
+    "source_quote": "I wrote it down... Yeah, sure,\" I said, and closed my journal.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "note",
+    "fact": "The note on Khell-Vire's desk reads \"Zalthir, the Underdark, until the Bone King sings.\"",
+    "source_quote": "*Zalthir, the Underdark, until the Bone King sings.*",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "grey ooze",
+    "fact": "Glabbagool is a grey ooze carried in a bag with the spy.",
+    "source_quote": "we were carrying both a grey ooze and a miniaturized House T'sarran operative in the same bag",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "House T'sarran spy",
+    "fact": "The miniaturized House T'sarran spy is a sentient operative who tries to kill Glabbagool.",
+    "source_quote": "the miniaturized House T'sarran spy... She kept trying to kill him.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the chant pattern",
+    "fact": "The degraded chant pattern matches those seen in Eldred and the Field Ward Preacher, both of whom experienced madness.",
+    "source_quote": "I have seen it before. Twice. Eldred had it, earlier in the journey \u2014 the man who went insane. The Field Ward Preacher had it too.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the Bone King sings",
+    "fact": "The phrase \"the Bone King sings\" appears on a note in Khell-Vire's office and is unknown to Zalthir and Khell-Vire.",
+    "source_quote": "*Zalthir, the Underdark, until the Bone King sings.*",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the spread of madness",
+    "fact": "The madness observed in the Underdark has continued to affect Daz after reaching the surface.",
+    "source_quote": "Whatever was happening to Daz had started below ground and apparently had not stopped at the surface.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "The Final Note on the Spy",
-    "fact": "The spy and Glabbagool became great friends \u2014 she screamed about the meditation, but they talked.",
-    "source_quote": "He said they'd become great friends.",
+    "subject": "Daz's cognitive friction",
+    "fact": "Daz experiences cognitive friction from recognizing a degraded chant pattern.",
+    "source_quote": "I had been attributing the sensation to sunlight... The same pattern. The same wrongness by a hair.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum's silver piece offer",
+    "fact": "Grygum offers a silver piece to the bard for a song about Stroud's chess game.",
+    "source_quote": "offered her a silver piece for something about Stroud's famous chess game.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "bard sings love song",
+    "fact": "The bard sings a love song involving flowers and drinking after receiving the silver piece.",
+    "source_quote": "She took the coin and proceeded to sing a love song. Involving flowers. And drinking.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir climbs to the roof",
+    "fact": "Zalthir climbs to the roof to meditate and returns settled.",
+    "source_quote": "Zalthir climbed to the roof to meditate. He came back down later, settled.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin encounters the sea",
+    "fact": "Thorin stands at the sea for the first time with Dawnbringer.",
+    "source_quote": "Thorin spent the evening outside with Dawnbringer, standing at what I understand was his first real encounter with the sea.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Candlekeep gate inspection",
+    "fact": "The party opens their bag at Candlekeep's gate to show Glabbagool and the spy to the guards.",
+    "source_quote": "when we'd come through the gate, we'd had to open it to show the guards Glabbagool, and the miniaturized House T'sarran spy had been right there alongside him",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Kalan Strongbranch's pronouncement",
+    "fact": "Kalan Strongbranch declares Candlekeep will not execute or deliver the spy, but will eventually release her with a warning.",
+    "source_quote": "We will not deliver to House T'sarran, and we will not execute her. Eventually, we will release her at our gate with a warning.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "spy demands imprisonment",
+    "fact": "The spy announces she is a prisoner and wishes to be formally jailed by Candlekeep.",
+    "source_quote": "she was a prisoner and wished to be formally jailed by Candlekeep's guards.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Glabbagool begins watching the spy",
+    "fact": "Glabbagool accepts Zalthir's affirmation that watching the spy is monk training and vows to keep an eye on her.",
+    "source_quote": "I will keep an eye on her!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's trial begins",
+    "fact": "Zalthir is tested by a blind monk in the lower-gallery office.",
+    "source_quote": "The blind monk entered without introduction and said: \"Give me a standard shadow step.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir shadow steps",
+    "fact": "Zalthir performs a shadow step for the blind monk.",
+    "source_quote": "Zalthir shadow stepped.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir punches the monk",
+    "fact": "Zalthir punches the blind monk during his trial.",
+    "source_quote": "Zalthir asked whether he could punch the monk. He could. He did.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir fails Weightless Shadow",
+    "fact": "Zalthir rolls catastrophically and falls during the Weightless Shadow technique.",
+    "source_quote": "He rolled catastrophically. He fell.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir fails Efficient Strike",
+    "fact": "Zalthir fails the Efficient Strike technique, and the monk questions his lack of practice while traveling.",
+    "source_quote": "He tried the Efficient Strike. Athletics. Another catastrophe.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir attempts Eldritch Claw with stealth",
+    "fact": "Zalthir attempts the Eldritch Claw using stealth and rolls an insufficient number.",
+    "source_quote": "Zalthir tried stealth for the Eldritch Claw. His number landed somewhere that would have been insufficient even with generous interpretation.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir rolls 30 to hit during monk's departure",
+    "fact": "Zalthir rolls a 30 to hit the monk as he walks away and asks if it gets him anything.",
+    "source_quote": "I mean, I rolled a 30 to hit. Does that get me anything?",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "the day Daz feels cognitive friction",
+    "fact": "Daz has been outside in the sun for an unusually long time on the day he feels cognitive friction.",
+    "source_quote": "It has been a while since I have been outside in the sun this long.",
     "quote_verified": true
   }
 ]

@@ -2,20 +2,20 @@
 name: Brother Heslin
 type: npc
 n_facts: 3
-chapters: 56-58
+chapters: 58-59
 ---
 
 ### Brother Heslin
 
-**Current status:** Alive  
-**Current location:** Unknown (last observed in context of monastic instruction)  
-**Allegiance/faction:** Shadow Monk (associated with a monastic order focused on silent instruction and covert knowledge)  
-**Current possessions / notable items, spells, feats, wounds:** Smells of incense; possibly has ink-stained hands (indicative of record-keeping or scholarly activity)  
-**Current assignment / role:** Instructor in silent communication; possibly involved in theory sessions on repurposing threats as knowledge  
-**Defining recent actions:** Taught (or was suspected of teaching) a class on silent communication that Zalthir missed; previously discussed the philosophical repurposing of threats into knowledge  
+**Current status:** Alive (implied by being remembered in active context)  
+**Current location:** Unknown  
+**Allegiance/faction:** Former Shadow Monks’ order  
+**Current possessions / notable items, spells, feats, wounds:** None known  
+**Current assignment / role and key relationships:** No current role or active relationships confirmed; former instructor. Last known association: Shadow Monks’ order.  
+**Defining recent actions:** Taught (or was associated with) classes on silent communication and reading meaning from objects — skills now referenced by Zalthir as foundational to his current investigative methods.  
+**Revealed motivations or secrets:** None disclosed.
 
 ## Uncertainty
-- It is unclear whether Brother Heslin or Brother Arrath was the one who spoke about repurposing threats as knowledge — the memory is ambiguous and attribution is uncertain.  
-- It is uncertain whether Brother Heslin has ink-stained hands or if that detail refers to another instructor — the source text uses “or possibly.”  
-- The exact monastic order or hierarchy he reports to is not specified.  
-- Whether he is currently active as an instructor or has been reassigned is unknown.
+- It is unclear whether Brother Heslin taught silent communication, reading meaning from objects, or both — the sources attribute each skill to him ambiguously, with alternative candidates (“the quiet one with the ink-stained hands,” “the tall one who smelled of incense”) suggested.  
+- Zalthir cannot confirm Heslin attended his class, leaving open whether Heslin was his actual instructor or merely a remembered figure associated with the topic.  
+- No current location, status, or activity beyond past association is confirmed.

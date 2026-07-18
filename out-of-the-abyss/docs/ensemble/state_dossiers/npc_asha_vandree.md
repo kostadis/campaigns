@@ -1,34 +1,35 @@
 ---
 name: Asha Vandree
 type: npc
-n_facts: 39
+n_facts: 35
 chapters: 49-56
 ---
 
 ### Asha Vandree
 
 **Current status:** Dead  
-**Current location:** Unknown (last known in the aftermath of Ilvara’s detonation; body looted and left in the Underdark)  
-**Allegiance/faction:** Former cleric of Lolth; simultaneously a cleric of Zuggtmoy — indistinguishable from the rot she served  
-**Current possessions / notable items:** Chain mail containing a theological document equating Lolth and Zuggtmoy (authored by her, pressed into Grygum’s hands)  
-**Current assignment / role and key relationships:** None — deceased. Last acted as self-declared authority after chaotic escape; previously directed tactical focus on destroying the Heart Fungus to dismantle Ilvara’s control. Last seen praying to Lolth amid wreckage, then subdued and killed by Zalthir after declaring “I am blessed by Lolth!”  
+**Current location:** Unknown (last seen in the Underdark; body looted after death)  
+**Allegiance/faction:** Formerly a cleric of Lolth; in final days, indistinguishable from a cleric of Zuggtmoy — fused ideological allegiance to both deities.  
+**Current possessions / notable items:** Chain mail containing a theological document asserting the equivalence of Lolth and Zuggtmoy, written in a hand designed to seem incidental.  
+**Current assignment / role and key relationships:** None. Deceased. Last known role: self-declared authority over the operation against Ilvara; tactical leader of the anti-Ilvara faction. Last seen interacting with Daz, Grygum, Thorin, and Zalthir.  
 **Defining recent actions:**  
-- Authored and delivered a theological treatise equating Lolth and Zuggtmoy.  
-- Declared herself in charge after surviving Ilvara’s detonation.  
-- Prayed to Lolth while kneeling in the ruins, reshaping destruction into divine narrative.  
-- Was subdued by grapple and silenced by lethal strikes from Zalthir, who deemed her an existential threat.  
-- Even in death, her theological work survived — recovered from her chain mail and passed to Grygum.  
+- Declared herself “blessed by Lolth” after surviving chaos, asserting leadership.  
+- Attempted to invoke divine power; was silenced by Zalthir with the Eldritch Claw Tattoo before completing a prayer or command.  
+- Prior to death, authored and pressed into Grygum’s hands a theological treatise equating Lolth and Zuggtmoy.  
+- After Ilvara’s death, knelt and reshaped the event into a theological narrative for Lolth, demonstrating persistent devotion even amid collapse.  
+- Previously identified the Heart Fungus as the key tactical target, overriding Grygum’s emotional focus on Ilvara.  
+- Refused physical contact, maintained 20-foot distance from corrupted allies, and treated information as currency.  
+- Offered contaminated magical items from Ilvara as payment, with documented caveat.  
 
 **Revealed motivations or secrets:**  
-- Her devotion to Lolth was a coping mechanism for prolonged exposure to fungal corruption, not a source of immunity.  
-- She internalized Zuggtmoy’s influence to the point of theological synthesis — her faith became a bridge between Lolth and the Spore Queen, not a rejection of it.  
-- Her hatred of Ilvara was genuine, but ultimately served as a projection of her own spiritual collapse.  
-- She interpreted all events — deception, magic, betrayal — as divine tests of her discernment, reinforcing her delusion as dogma.  
-- She was not infected by spores, but became a vessel for their ideology — her mind, not her body, was the final host.
+- Genuine, non-tactical hatred for Ilvara rooted in perceived heresy: Ilvara’s belief that Lolth wished to be married was an abomination.  
+- Believed her own resistance to spores was due to devotion — later revealed to be self-deception; she was infected but denied it.  
+- Ultimately became indistinguishable from the rot she claimed to oppose — her theology collapsed into syncretism, merging Lolth and Zuggtmoy as one.  
+- Her theological document, now in Grygum’s possession, was intended to be incidental but was in fact a radical, system-shattering claim — one she knew would be weaponized or institutionalized after her death.
 
 ## Uncertainty
-- Contradiction in whether her death occurred during or after Zalthir’s intervention — ch53 states she was subdued and silenced by lethal strikes, but does not confirm immediate death; ch54 and ch56 imply her body was looted afterward, suggesting she was dead by then. No contradiction in outcome, but timing of death is unstated.  
-- Unclear if the theological document was written before or after Ilvara’s detonation — ch54 says it was authored while she was “treated as furniture,” but ch51 describes her praying immediately after the explosion. Chronology ambiguous.  
-- Unclear if her “cleric of Zuggtmoy” status was conscious or subconscious — the text says “in some capacity,” leaving the nature of her conversion ambiguous.  
-- Attribution of the quote “I am blessed by Lolth!” is repeated in ch53, but not specified whether it was spoken before, during, or after being grappled — though context implies it was her final utterance.  
-- The document’s current physical location is known (in Grygum’s possession), but whether it remains in Asha’s chain mail or was removed is unspecified — ch56 says “from Asha Vandree’s chain mail,” but ch54 says it was “pressed into Grygum’s hands.” No contradiction, but mechanism of transfer is unobserved.
+- Contradiction: Multiple facts state Asha believed she was uninfected due to devotion, yet later facts confirm she became “indistinguishable from the rot she served.” The timeline of when she became infected is unclear — was it gradual, or triggered by Ilvara’s death?  
+- Attribution: Is the theological document in her chain mail the same one she pressed into Grygum’s hands? The facts imply it, but do not explicitly confirm.  
+- Ambiguity: Was her final declaration “I am blessed by Lolth!” a genuine belief, a last act of performance, or the voice of Zuggtmoy speaking through her? The text leaves it unresolved.  
+- Unclear chronology: Did she write the theological document before or after Ilvara’s death? The facts place the document’s creation in ch54 (after death) but describe her pressing it into Grygum’s hands during life — likely a misordering. The most recent fact (ch56) confirms the document was in her chain mail at death, so it was written before death — but when exactly?  
+- Unclear possession: The document is referenced as being in her chain mail (ch56), but also as having been pressed into Grygum’s hands (ch54). Can both be true? If so, was a copy made? The facts do not clarify.

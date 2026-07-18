@@ -1,0 +1,247 @@
+[
+  {
+    "type": "monster",
+    "subject": "two-headed stone giant",
+    "fact": "The two-headed stone giant was subdued by Thorin but killed by Duergar using a magical flame device; it stood despite multiple attacks and magical bolts.",
+    "source_quote": "The giant stands. The Duergar, unconvinced by Thorin\u2019s entreaties, kill the giant.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "flame tube and bottle device",
+    "fact": "A Duergar-held device consisting of a tube connected to a bottle on the back produces a persistent flame through magic; it is used to burn and kill the stone giant.",
+    "source_quote": "It is a tube that connects to a bottle on their back. At the front of the tube, a small flame sits outside the tube. He realizes that the flame is produced from some kind of magic concoction lit by the tiny flame when the duergar operator pulls a lever.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum observes the battle, interprets Daz\u2019s magic as deliberately weakened, hears Zalthir\u2019s attacks, and rushes in to strike the giant with his mace; he later witnesses Thorin praying and the Duergar shrinking.",
+    "source_quote": "Grygum looks at Daz, and then looks at the giant, and thinks, 'Well, I guess Daz chose to weaken his spell purposely.' ... Grygum rushes in to strike with his mace. ... Grygum watches as a distraught Thorin whispers prayers for the dead. ... Grygum looks up, and the enlarged Duergars have shrunk to their standard size.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin attempts to subdue the stone giant, prays for the dead, questions Duergar about 'crazy' behavior, learns of increased incidents of anti-social giants, and is approached by Dorhun who requests a visit to Cairngorm Cavern; he later negotiates with Errde Blackskull and seeks clarity on whether he serves the city or the Stone Guards.",
+    "source_quote": "Don\u2019t kill him! There\u2019s something wrong with this giant! Let\u2019s try and subdue him,\" ... \"Are there more crazy people about?\" ... \"I ask you to visit me at Cairngorm Cavern before you leave the city.\" ... \"It\u2019s just a friendly meeting. Not that kind of meeting!\" ... \"Are we helping you? Or the city?",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is targeted by Gartokkar Xundorn, Custodian of the Flame, who offers him safe passage through Gracklstugh in exchange for service; the offer expires tomorrow and carries implied threats.",
+    "source_quote": "I am the Custodian of the Flame... Your skill set would be of great value to the city of Gracklstugh... The offer expires tomorrow. And if you don\u2019t accept the offer, I cannot promise we will be so friendly when we meet next.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Gartokkar Xundorn",
+    "fact": "Gartokkar Xundorn, Custodian of the Flame and chief of the Keepers of the Flame, operates the dragon-lighter system for Gracklstugh\u2019s furnaces and recruits outsiders; he laughs at jokes and makes conditional offers of protection.",
+    "source_quote": "I am the Custodian of the Flame... We use a fire dragon that burns stone hot... We are the most prized of the Deepking\u2019s advisors... We need someone like you.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz investigates the dragon-lighter system, questions the Halfling about factions and Deepking\u2019s madness, recognizes the city\u2019s corruption as rule-breaking behavior, and negotiates with Errde Blackskull for payment and freedom guarantees.",
+    "source_quote": "How does a dragon end up turning into a lighter?\" ... \"In this authoritarian, strict-as-rules city, what we saw is corruption.\" ... \"Of course, but we would need remuneration for all of that plus our time.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Keepers of the Flame",
+    "fact": "The Keepers of the Flame maintain Themberchaud, a red dragon used to heat Gracklstugh\u2019s furnaces; they periodically kill and replace the dragon due to its growing power and resentment, and they are embroiled in conflict with the Gray Ghosts and the Crown.",
+    "source_quote": "We use a fire dragon that burns stone hot... The problem... is that Red Dragons dislike playing second fiddle... the Keepers of the Flame have to kill the dragon... You must have met the Keepers of the Flame? They are in a pickle, what with the Gray Ghosts and the Crown.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Stone Guards",
+    "fact": "The Stone Guards, led by Errde Blackskull, are tasked with maintaining order in Gracklstugh; they are allied with Stone Giants and are investigating corruption linked to Droki, the Council of Savants, and Clan Lairds.",
+    "source_quote": "I am Errde Blackskull, captain of the Stone Guards... We need someone who isn\u2019t us to find him... Droki is the key to uncovering that corruption... I can tell them that they are not here.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Deepking\u2019s Court",
+    "fact": "The Deepking\u2019s court is suffering from systemic corruption: laws have become arbitrary, market rules are ignored, and chaos has replaced order; the court is suspected of being manipulated by hidden forces.",
+    "source_quote": "The laws are more arbitrary... It\u2019s as if he is detached from reality... Things were not proceeding according to the rules of the market... Then it proceeds to grift, then chaos, and then destruction.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Gray Ghosts",
+    "fact": "The Gray Ghosts are a faction in conflict with the Keepers of the Flame, though their motives and structure remain unclear; they are mentioned as a threat by the Halfling.",
+    "source_quote": "You must have met the Keepers of the Flame? They are in a pickle, what with the Gray Ghosts and the Crown.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Crown",
+    "fact": "The Crown is a faction in conflict with the Keepers of the Flame; its nature and goals are unknown, but it is implied to be a rival power structure within Gracklstugh.",
+    "source_quote": "You must have met the Keepers of the Flame? They are in a pickle, what with the Gray Ghosts and the Crown.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Cairngorm Cavern",
+    "fact": "Cairngorm Cavern is the requested meeting place for Thorin and Dorhun, suggesting it holds significance for Stone Giant history or secrets related to Stonespeaker Hgraam.",
+    "source_quote": "I ask you to visit me at Cairngorm Cavern before you leave the city.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Darklake Brewery",
+    "fact": "The Darklake Brewery is a closed, hushed establishment outside the Blade Bazaar where the Halfling and Drow provide key intelligence on Gracklstugh\u2019s factions and corruption.",
+    "source_quote": "The Brewery is closed to non-Duergar... inside is a pretty dour place where people talk only in hushed whispers.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Overlake Hold",
+    "fact": "Overlake Hold is the Stone Guards\u2019 austere, stone-built guard house where Errde Blackskull offers Thorin\u2019s party a bribe and protection in exchange for uncovering corruption.",
+    "source_quote": "They are in the Overlake Hold, the local guard house... The chairs and table are made of stone. There is no color\u2014the light is grey.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "West Cleft District",
+    "fact": "The West Cleft District is a Derro-inhabited area where the suspect Duergar, Droki, resides; it is considered too volatile for direct Stone Guard intervention.",
+    "source_quote": "He lives in the West Cleft District, where the Derro live. If we were to go there in force, it would provoke a violent reaction.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "shrinkage of enlarged Duergar",
+    "fact": "After the stone giant\u2019s death, the enlarged Duergar shrink back to their standard size, indicating a magical or temporary transformation tied to the battle\u2019s conclusion.",
+    "source_quote": "Grygum looks up, and the enlarged Duergars have shrunk to their standard size.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "appearance of second stone giant",
+    "fact": "A second stone giant, flanked by Duergar and armed with stone weapons, appears immediately after Thorin\u2019s inquiry, suggesting coordinated surveillance or intervention by the city\u2019s powers.",
+    "source_quote": "Before Thorin can ask a follow-up question, another Stone Giant appears, flanked by Duergar, armed with curious stone weapons.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "offer expiration by Gartokkar",
+    "fact": "Gartokkar\u2019s offer of safe passage expires tomorrow, creating a time-sensitive decision point for Zalthir and the party.",
+    "source_quote": "The offer expires tomorrow. And if you don\u2019t accept the offer, I cannot promise we will be so friendly when we meet next.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "corruption of the Deepking\u2019s court",
+    "fact": "A hidden corruption is eating at the heart of the Deepking\u2019s court, linked to Droki, the Council of Savants, and Clan Lairds; its nature and resolution remain unresolved.",
+    "source_quote": "There is something very wrong going on in my city. Some kind of corruption eats at the heart of the Deepking\u2019s court. Droki is the key to uncovering that corruption.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "identity and fate of Droki",
+    "fact": "Droki, a Duergar living in the West Cleft District, is the central figure in the corruption investigation; his connection to the Council of Savants and Clan Lairds is unverified.",
+    "source_quote": "I have been tracking a particular Duergar named Droki... Droki is the key to uncovering that corruption.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "origin of the dragon-lighter system",
+    "fact": "The origin of the red dragon\u2019s forced servitude as a flame source for Gracklstugh\u2019s furnaces is unexplained, and the cycle of killing and replacing dragons raises ethical and strategic questions.",
+    "source_quote": "The Keepers of the Flame give him a horde, and they pamper him... the Keepers must kill and replace the dragon with a new one.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Thorin\u2019s allegiance",
+    "fact": "Thorin is torn between aiding the Stone Guards, the city, or remaining neutral; his moral compass conflicts with the city\u2019s authoritarian structure and hidden agendas.",
+    "source_quote": "Are we helping you? Or the city?\" ... \"I am tempted to work for the Stone Guards... but the warnings of the Halfing worry him.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Zalthir\u2019s recruitment",
+    "fact": "Zalthir has been offered a role in the Keepers of the Flame, but the cost, timing, and consequences of acceptance remain unknown.",
+    "source_quote": "Your skill set would be of great value... I could give you safe passage... I cannot promise we will be so friendly when we meet next.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Drow slave escape",
+    "fact": "A group of escaped Drow slaves may be in the city; Errde Blackskull offers to deny their presence, implying the party may be harboring them or could be targeted by Menzoberranzan.",
+    "source_quote": "If a particular group of Drow were to come looking for some escaped slaves, I could tell them that they are not here.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Dorhun",
+    "fact": "Dorhun, a Stone Giant and former apprentice of Stonespeaker Hgraam, confirms Thorin\u2019s account of the giant\u2019s death and requests a meeting at Cairngorm Cavern, suggesting hidden knowledge or ritual significance.",
+    "source_quote": "I am Dorhun... We were both apprentices to Stonespeaker Hgraam. Did you kill him?",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Errde Blackskull",
+    "fact": "Errde Blackskull, captain of the Stone Guards, manipulates Thorin\u2019s party into investigating corruption, offers payment and protection, and implies authority over Drow slave claims; her motives are ambiguous.",
+    "source_quote": "I can tell them that they are not here... I swear you will get free and safe passage out of the city.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Gartokkar Xundorn",
+    "fact": "Gartokkar Xundorn, Custodian of the Flame, is literal, values humor, and recruits outsiders to serve the Keepers of the Flame; he is a high-ranking advisor to the Deepking.",
+    "source_quote": "I am the Custodian of the Flame... We are the most prized of the Deepking\u2019s advisors.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Halfling at Darklake Brewery",
+    "fact": "The Halfling is an outsider who avoids faction involvement, provides key intelligence on Deepking\u2019s madness and faction conflicts, and understands the danger of being perceived as a player.",
+    "source_quote": "I\u2019m an outsider... As long as I stay an outsider, no one considers me a threat... Not relevant to the game.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Drow at Darklake Brewery",
+    "fact": "The Drow from Menzoberranzan criticizes Duergar culture as brutish and styleless, contrasting it with Drow politicking, and implies deeper cultural tensions in the Underdark.",
+    "source_quote": "The backstabbing and politicking are nothing compared to the Duergar... It\u2019s just slaughter. No torture, no speeches, no art... It\u2019s disgraceful.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Rihuud",
+    "fact": "Rihuud is Dorhun\u2019s companion, a Stone Giant and former apprentice of Stonespeaker Hgraam; his role is passive but confirms the legitimacy of Dorhun\u2019s request.",
+    "source_quote": "I am Dorhun, and this is Rihuud. We were both apprentices to Stonespeaker Hgraam.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Gartokkar Xundorn",
+    "fact": "Gartokkar Xundorn, Custodian of the Flame, is literal, values humor, and recruits outsiders to serve the Keepers of the Flame; he is a high-ranking advisor to the Deepking.",
+    "source_quote": "I am the Custodian of the Flame... We are the most prized of the Deepking\u2019s advisors.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Droki",
+    "fact": "Droki is a Duergar suspected of corruption, residing in the West Cleft District among the Derro; he is linked to the Council of Savants and Clan Lairds, but his identity and actions are unconfirmed.",
+    "source_quote": "I have been tracking a particular Duergar named Droki... Droki is the key to uncovering that corruption.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Stonespeaker Hgraam",
+    "fact": "Stonespeaker Hgraam was the mentor of Dorhun and Rihuud; his death is implied to be connected to the stone giant\u2019s rampage and the city\u2019s deeper mysteries.",
+    "source_quote": "We were both apprentices to Stonespeaker Hgraam. Did you kill him?",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "9th day of the 1st Tenday of Myrtul 1493",
+    "fact": "The events occur on the 9th day of the 1st Tenday of Myrtul 1493, marking the temporal anchor for the unfolding intrigue in Grygum and Gracklstugh.",
+    "source_quote": "9th day of the 1st Tenday of Myrtul 1493",
+    "quote_verified": true
+  }
+]

@@ -344,7 +344,7 @@
       ]
     },
     {
-      "key": "empty scabbard killers",
+      "key": "empty-scabbard killers",
       "resolution": [
         {"status": "merged", "members": ["faction_empty_scabbard_killers.md", "monster_empty_scabbard_killers.md"], "primary": "faction_empty_scabbard_killers.md"}
       ]
@@ -420,7 +420,7 @@
       ]
     },
     {
-      "key": "miners guild",
+      "key": "miners' guild",
       "note": "Blingdenstone gnome guild (Kazook Pickshine). RE-SUBJECT CANDIDATE -> 'blingdenstone_miners_guild'; generic name.",
       "resolution": [
         {"status": "merged", "members": ["faction_miners_guild.md", "location_miners_guild.md"], "primary": "faction_miners_guild.md"}
@@ -568,6 +568,93 @@
       "key": "zurkhwood",
       "resolution": [
         {"status": "merged", "members": ["npc_zurkhwood.md", "object_zurkhwood.md"], "primary": "object_zurkhwood.md"}
+      ]
+    },
+    {
+      "key": "bookwyrm (first reader)",
+      "note": "Same trio-merge previously decided under stale key 'bookwyrm' (pre-re-extraction filenames, now gone). npc=her actions, faction=institutional authority, monster(1)=Daral's racially-charged suspicion about her species, a rumor not a creature facet.",
+      "resolution": [
+        {"status": "merged", "members": ["npc_bookwyrm_first_reader.md", "faction_bookwyrm_first_reader.md", "monster_bookwyrm_first_reader.md"], "primary": "npc_bookwyrm_first_reader.md"}
+      ]
+    },
+    {
+      "key": "daral yashenti",
+      "note": "location_daral_yashenti.md is confused extraction (its own uncertainty asks whether Daral is a person or a location) restating 'book reclaimed from Daral', not a real place facet. Kept separate.",
+      "resolution": [
+        {"status": "kept_separate", "members": ["npc_daral_yashenti.md"]},
+        {"status": "kept_separate", "members": ["location_daral_yashenti.md"]}
+      ]
+    },
+    {
+      "key": "underdark",
+      "resolution": [
+        {"status": "merged", "members": ["location_underdark.md", "monster_underdark.md"], "primary": "location_underdark.md"}
+      ]
+    },
+    {
+      "key": "alkrist",
+      "note": "monster_alkrist.md is an earlier, unconfirmed sighting of the same person at the apothecary before his role in the murder was established — not a distinct entity.",
+      "resolution": [
+        {"status": "merged", "members": ["npc_alkrist.md", "monster_alkrist.md"], "primary": "npc_alkrist.md"}
+      ]
+    },
+    {
+      "key": "house mizzrym",
+      "note": "location_house_mizzrym.md is a duplicate organizational description (its own 'Current location' field says Unspecified), not a real place facet.",
+      "resolution": [
+        {"status": "merged", "members": ["faction_house_mizzrym.md", "location_house_mizzrym.md"], "primary": "faction_house_mizzrym.md"}
+      ]
+    },
+    {
+      "key": "the overbright",
+      "resolution": [
+        {"status": "merged", "members": ["location_the_overbright.md", "faction_the_overbright.md"], "primary": "location_the_overbright.md"}
+      ]
+    },
+    {
+      "key": "rockblight",
+      "note": "monster_rockblight.md's own uncertainty says it's unclear whether Rockblight is a sentient creature or just the caverns' name — no agency/anatomy facts, only hazardous terrain.",
+      "resolution": [
+        {"status": "merged", "members": ["location_rockblight.md", "monster_rockblight.md"], "primary": "location_rockblight.md"}
+      ]
+    },
+    {
+      "key": "skiit",
+      "resolution": [
+        {"status": "merged", "members": ["npc_skiit.md", "monster_skiit.md"], "primary": "npc_skiit.md"}
+      ]
+    },
+    {
+      "key": "the high tower",
+      "note": "Same trio-shape merge previously decided under stale key 'high tower' (pre-re-extraction filenames, now gone). RE-SUBJECT CANDIDATE -> 'candlekeep_high_tower'; generic name, carried forward from the prior ruling.",
+      "resolution": [
+        {"status": "merged", "members": ["location_the_high_tower.md", "faction_the_high_tower.md"], "primary": "location_the_high_tower.md"}
+      ]
+    },
+    {
+      "key": "the whispering dome",
+      "resolution": [
+        {"status": "merged", "members": ["location_the_whispering_dome.md", "faction_the_whispering_dome.md"], "primary": "location_the_whispering_dome.md"}
+      ]
+    },
+    {
+      "key": "tiamat",
+      "resolution": [
+        {"status": "merged", "members": ["npc_tiamat.md", "monster_tiamat.md"], "primary": "npc_tiamat.md"}
+      ]
+    },
+    {
+      "key": "blibdoolpoolp",
+      "note": "Genuine ambiguity: npc fact is attributed to 'Grygum recalls,' not confirmed as Blibdoolpoolp's own words or confirming she is a person distinct from the deity/cult name. Merged anyway per GM call — low stakes given 1 fact each.",
+      "resolution": [
+        {"status": "merged", "members": ["faction_blibdoolpoolp.md", "npc_blibdoolpoolp.md"], "primary": "npc_blibdoolpoolp.md"}
+      ]
+    },
+    {
+      "key": "whistler",
+      "note": "GM ruling: Whistler is a kenku NPC returning from a previous adventure, now spoken of in-fiction as a legendary bardic figure (the Tiamat's-hoard tale). npc + monster facets are the same individual, not a distinct creature.",
+      "resolution": [
+        {"status": "merged", "members": ["monster_whistler.md", "npc_whistler.md"], "primary": "npc_whistler.md"}
       ]
     }
   ]

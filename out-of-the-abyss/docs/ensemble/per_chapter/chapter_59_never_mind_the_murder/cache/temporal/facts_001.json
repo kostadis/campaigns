@@ -2,15 +2,15 @@
   {
     "type": "date",
     "subject": "session date",
-    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
-    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
+    "fact": "The session occurs on Deadwinter's Eve.",
+    "source_quote": "he'd dropped the book under the evergreen tree, next to the other gifts, around 11am on Deadwinter's Eve",
     "quote_verified": false
   },
   {
     "type": "date",
     "subject": "elapsed time",
-    "fact": "An hour passes between two events in the session.",
-    "source_quote": "an hour without supervision",
+    "fact": "An hour passes without supervision after Fembris leaves.",
+    "source_quote": "his departure handed us an hour without supervision",
     "quote_verified": true
   },
   {
@@ -42,101 +42,94 @@
     "quote_verified": false
   },
   {
-    "type": "object",
-    "subject": "key possession",
-    "fact": "The key once hung around Kalan Strongbranch's neck and was later handed to Daz.",
-    "source_quote": "It had hung around Kalan Strongbranch's neck once. I... handed it to Daz",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "sapphire summoning token",
-    "fact": "The stolen sapphire is a retrieval token for a summoning spell that binds to an item not in any living person's possession.",
-    "source_quote": "The sapphire isn't decoration: it's the retrieval token... a dead person possesses nothing",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "poison activation",
-    "fact": "The poison turns black only upon contact with a living being's saliva, not when exposed to air or inert objects.",
-    "source_quote": "When I mixed with his saliva, it turned black... The stuff only wakes up when a living thing touches it",
-    "quote_verified": false
+    "type": "date",
+    "subject": "midnight occurrence",
+    "fact": "Midnight is when the sun is directly on the other side of the globe from you.",
+    "source_quote": "Midnight is when the sun is directly on the other side of the globe from you",
+    "quote_verified": true
   },
   {
     "type": "location",
     "subject": "Oak Tree Apothecary",
-    "fact": "The Oak Tree Apothecary is located between the Sea Warden's Tower and the House of Mechanus, a treehouse grown into the roots of an evergreen oak.",
+    "fact": "The Oak Tree Apothecary is between the Sea Warden's Tower and the House of Mechanus, a treehouse grown into the roots of an evergreen oak.",
     "source_quote": "The Oak Tree Apothecary, he said, between the Sea Warden's Tower and the House of Mechanus, a treehouse grown into the roots of an evergreen oak",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "key retrieval magic",
-    "fact": "The summoning spell requires the sapphire to be the same token used for both storage and recall \u2014 a backup against key theft.",
-    "source_quote": "The sapphire is actually used to sort of be able to retrieve the key... a backup, in other words, against theft of the original",
+    "type": "object",
+    "subject": "sapphire summoning token",
+    "fact": "The sapphire is a retrieval token for a summoning spell that binds an item to it, usable only when the item is unpossessed.",
+    "source_quote": "the sapphire is actually used to sort of be able to retrieve the key... Possess the gem and you possess the item, provided you have the magic to call it",
     "quote_verified": false
   },
   {
     "type": "object",
-    "subject": "poison vial",
-    "fact": "The poison, in its inactive state, appears as a clear liquid in a vial, not as a dark substance.",
-    "source_quote": "A vial of some sort of clear",
+    "subject": "key origin",
+    "fact": "The key once hung around Kalan Strongbranch's neck and was later handed to Daz.",
+    "source_quote": "I had a key on me. It had hung around Kalan Strongbranch's neck once. I... handed it to Daz",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "poison vial description",
+    "fact": "The poison is stored in a clear vial and only turns black upon contact with living saliva.",
+    "source_quote": "A vial of some sort of clear... When I mixed with his saliva, it turned black",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "poison activation condition",
+    "fact": "The poison activates only upon contact with a living being\u2019s saliva, not while inert in a book or room.",
+    "source_quote": "The stuff only wakes up when a living thing touches it",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Grygum's debate venue",
+    "fact": "Grygum's theological disputation occurs in the Oval Theater with Bookwyrm in attendance.",
+    "source_quote": "a disputation in the Oval Theater on his new theology... Bookwyrm herself unable to politically afford to miss it",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "lootable item",
+    "fact": "The stolen locket contained the key, which was removed from the murdered scholar\u2019s person.",
+    "source_quote": "Some locket from around the dude's neck was taken. We assume that inside that locket was the key",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "book tampering timeline",
-    "fact": "The book was placed under the evergreen tree at 11am on Deadwinter's Eve, wrapped, and later picked up by Janussi at dinner \u2014 unchanged in appearance.",
-    "source_quote": "He'd dropped the book under the evergreen tree... around 11am on Deadwinter's Eve... wrapped",
-    "quote_verified": false
+    "subject": "key retrieval mechanism",
+    "fact": "A key can be retrieved via a sapphire gem only if the original owner is dead and no longer possesses it.",
+    "source_quote": "a dead person, it turns out, possesses nothing. An undead can. A dead man can't.",
+    "quote_verified": true
   },
   {
     "type": "location",
     "subject": "dining room",
-    "fact": "The dining room is one of the rooms left unwatched during the investigation, where a poisoner would logically operate.",
-    "source_quote": "The dining room, for one. Where the meals were served, and where, if you were a poisoner, you'd have wanted to be.",
+    "fact": "The dining room is unwatched during the chaos, making it the ideal location for a poisoner to operate.",
+    "source_quote": "the keep was suddenly full of rooms nobody would be watching. The dining room, for one. Where the meals were served, and where, if you were a poisoner, you'd have wanted to be.",
     "quote_verified": true
   },
   {
+    "type": "object",
+    "subject": "summoning spell binding",
+    "fact": "The summoning spell that binds the key to the sapphire was cast on a different key than the one held by Strongbranch.",
+    "source_quote": "The key was clean. Not linked to that spell, not created by it... The summoning had been worked on a *different* key.",
+    "quote_verified": false
+  },
+  {
     "type": "event",
-    "subject": "Fembris departure",
-    "fact": "Fembris left his post as minder to attend Grygum's theological debate, creating an hour of unsupervised access to the library.",
-    "source_quote": "Fembris asked to leave... to attend a debate... his departure handed us an hour without supervision",
+    "subject": "book poisoning timeline",
+    "fact": "The book was poisoned after Daral delivered it under the tree and before Janussi picked it up at dinner.",
+    "source_quote": "he'd dropped the book... around 11am... the book got picked up by Janussi at dinner. And at the time, it was wrapped.",
     "quote_verified": false
   },
   {
     "type": "object",
-    "subject": "locket contents",
-    "fact": "The locket taken from the murdered man likely contained the key, which was separate from the sapphire.",
-    "source_quote": "Some locket from around the dude's neck was taken. We assume that inside that locket was the key.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Zalthir's key inspection",
-    "fact": "Zalthir's inspection of the key revealed no magical binding to the summoning spell \u2014 the key was clean and unrelated to the sapphire's magic.",
-    "source_quote": "The answer was no. The key was clean. Not linked to that spell, not created by it, carrying no quiet enchantment",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Daral's confession",
-    "fact": "Daral admitted to drunken barroom talk about dragonborn, fearing it might be used to frame him, and believed Zalthir recorded everything.",
-    "source_quote": "he'd worked out someone wanted him to take the fall... nobody would mention to Zalthir what he'd said about dragonborn. Drunk, barroom talk... Zalthir said, in a voice that recorded everything",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Strongbranch's caution",
-    "fact": "Strongbranch handed over his key because he feared its magical connection to the summoning spell, and understood that a dead man cannot possess anything.",
-    "source_quote": "Strongbranch handed his off rather than wear it. Paranoid, maybe... you don't survive long arguing with a dead man's caution",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Oval Theater",
-    "fact": "The Oval Theater is where Grygum's theological debate is held, attended by half the Avowed and Bookwyrm herself.",
-    "source_quote": "a disputation in the Oval Theater on his new theology, with half the avowed already in attendance and Bookwyrm herself unable to politically afford to miss it",
+    "subject": "warded gift wrapping",
+    "fact": "Daral offered to apply biting magical wards to all gift wrappings if he survives the night.",
+    "source_quote": "if he made it through the night, hint, hint, he'd see to it everyone wrapped their gifts right. Wards on every wrapping, the kind that bite the careless",
     "quote_verified": true
   }
 ]

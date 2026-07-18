@@ -1,21 +1,22 @@
 ---
 name: Protanther
 type: monster
-n_facts: 1
-chapters: 56-56
+n_facts: 2
+chapters: 54-56
 ---
 
 ### Protanther
 
-- **Current status**: Alive  
-- **Current location**: Unknown (not specified)  
-- **Allegiance/faction**: Independent ancient dragon; foundational figure in the Draconic school, operating outside Bahamutian divine order  
-- **Current possessions / notable items, spells, feats, wounds**: None specified  
-- **Current assignment / role and key relationships**: Serves as a moral archetype in the Draconic school; acts on personal honor, not divine command. Last known action: Honored Stroud’s move based on personal code.  
-- **Defining recent actions**: Recognized and honored Stroud’s action as consistent with draconic honor, explicitly rejecting divine compulsion as motivation.  
-- **Revealed motivations or secrets**: Motivated by personal honor; rejects subservience to Bahamut’s divine order.  
+- **Current status:** Alive  
+- **Current location:** Unknown (last associated with Stroud’s chess encounter)  
+- **Allegiance/faction:** Independent; aligned with Draconic school, but not bound by divine compulsion  
+- **Current possessions / notable items, spells, feats, wounds:** None specified  
+- **Current assignment / role and key relationships:** Honors mortal agency and choice; distinguished by his adherence to personal honor over divine command. Last known interaction was with Stroud, whose unexpected move transformed his ideological stance.  
+- **Defining recent actions:** Recognized and honored Stroud’s unpredictable chess move as a valid, honorable act — a rare moment that challenged his centuries-long deterministic worldview.  
+- **Revealed motivations or secrets:** His honor is intrinsic, not divinely imposed; he values the authenticity of mortal choice over preordained outcomes, a stance shaped by his defeat at Stroud’s hands.
 
 ## Uncertainty
-- Current location unknown.  
-- No information on physical condition, possessions, or current activities beyond the single observed action.  
-- No confirmation of whether Protanther is still active in the same capacity or region as implied by the Draconic school’s invocation.
+- Exact current location is unknown.  
+- Whether Stroud is still with or connected to Protanther is unconfirmed.  
+- No information on current activities beyond the ideological shift triggered by the chess game.  
+- No details on physical condition, magical abilities, or possessions beyond his intellectual history.

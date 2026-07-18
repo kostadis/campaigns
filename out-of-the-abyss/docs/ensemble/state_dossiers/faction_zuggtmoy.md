@@ -1,35 +1,41 @@
 ---
 name: Zuggtmoy
 type: faction
-n_facts: 8
+n_facts: 7
 chapters: 32-51
 ---
 
 ### Zuggtmoy
 
-**Current status:** Alive and actively expanding influence.  
-**Current location:** Presence manifests through Ilvara Mizzrym, who now serves as a living vessel and mouthpiece; fungal corruption spreads through the Underdark, particularly in the Neverlight Grove and the caverns once ruled by the Pudding King.  
-**Allegiance/faction:** Demon lord of fungi, decay, and death; sovereign of the Myconid collective through a bonded union with Araumycos.  
-**Current possessions / notable items, spells, feats, wounds:** None explicitly held, but wields direct psychic and fungal dominion over Ilvara Mizzrym and the corrupted myconid network. Manifests visions of her fungal tower and projects demonic essence through spores.  
+**Current status:** Active, but no longer possessing Ilvara Mizzrym (vessel destroyed)  
+**Current location:** Unspecified, but exerting influence across the Underdark, particularly the Neverlight Grove and surrounding caverns  
+**Allegiance/faction:** Demon lord of fungi and decay; sovereign of the fungal hive-mind, bound in spore-bond to Araumycos  
+**Current possessions / notable items, spells, feats, wounds:**  
+- Fully possessed and used Ilvara Mizzrym as a vessel to speak prophecies and manifest corruption (vessel now destroyed)  
+- Exerts direct psychic and fungal control over Myconids through spore-bond with Araumycos  
+- Manifests visions of her fungal tower to corrupt minds and extend influence  
+- Commands twisted, malevolent fungal growths throughout the Underdark caverns  
+
 **Current assignment / role and key relationships:**  
-- Actively filling the power vacuum left by the Pudding King’s defeat, expanding fungal dominance across the Underdark.  
-- United in a spore-merged, wedding-like bond with Araumycos, amplifying her dominion over all fungal life.  
-- Has claimed Ilvara Mizzrym not as a puppet, but as a living vessel of prophecy and corruption — Ilvara now speaks and acts as Zuggtmoy’s mouthpiece.  
-- In conflict with Juiblex, who has claimed the Pudding King’s former kingdom for himself.  
-- Exerts influence over the Neverlight Grove, orchestrating mock weddings and binding myconids to her will.  
+- Primary goal: Expand dominion over all fungal life and the Underdark by filling the power vacuum left by the Pudding King’s defeat  
+- Bound in a wedding-like, symbiotic union with Araumycos — their spores and melodies merged as one until death  
+- In conflict with Juiblex, who has claimed the Pudding King’s former kingdom for himself  
+- Engages in ritualistic mock weddings with spore-servants to bind Myconids to her will  
 
 **Defining recent actions:**  
-- Successfully transformed Ilvara Mizzrym into a vessel of demonic essence, replacing her identity with Zuggtmoy’s presence.  
-- Accelerated the corruption of fungi throughout the Underdark, making them more twisted and malevolent.  
-- Asserted claim over the Pudding King’s abandoned territory despite Juiblex’s prior promise to him.  
+- Successfully possessed Ilvara Mizzrym to deliver prophecies and spread corruption  
+- Caused widespread fungal corruption and mutation across caverns following the Pudding King’s defeat  
+- Maintains active, symbiotic control over the Myconid collective through Araumycos  
+- Attempted to claim the Pudding King’s realm, but was thwarted by Juiblex’s prior claim  
 
 **Revealed motivations or secrets:**  
-- Seeks to unify all fungal life under her dominion, using Araumycos as both partner and amplifier.  
-- Views Ilvara’s transformation not as possession but as transcendence — a reclamation of prophecy through corruption.  
-- Believes her fungal empire can eclipse even the domain of Juiblex, despite his prior claim.
+- Seeks transcendence through total fungal dominion, using Araumycos as both partner and amplifier  
+- Views Myconids not as subjects but as extensions of her own will, bound by spiritual-spore union  
+- Believes her fungal empire is destined to replace or absorb other Underdark powers — including those of Juiblex  
 
 ## Uncertainty
-- The current physical location of Zuggtmoy’s true form is unspecified — only her influence through Ilvara and fungal growth is confirmed.  
-- Whether Araumycos is still alive and actively bonded to Zuggtmoy is implied but not explicitly confirmed in the latest chapter (ch51); the bond was established in ch32 and reinforced in ch33, but no later update confirms its current status.  
-- The extent of Zuggtmoy’s direct control over the myconid collective beyond Araumycos is implied but not quantified — are all myconids bound, or only those in the Neverlight Grove?  
-- Juiblex’s current reaction to Zuggtmoy’s encroachment on his claimed territory is not described — only that he made a prior promise.
+- The current physical location of Zuggtmoy’s true form is unknown — only her influence is observed.  
+- Whether Zuggtmoy still maintains any connection to Araumycos after Ilvara’s vessel exploded is unclear — the spore-bond was declared “until death,” but it is unknown if Ilvara’s death severed it.  
+- It is ambiguous whether Zuggtmoy’s possession of Ilvara was a temporary vessel or if she fully transferred her essence — the quote suggests she “wore her face,” but not whether Ilvara’s body was destroyed or merely abandoned.  
+- The nature of Zuggtmoy’s “explosive death as a vessel” — whether this was her own destruction, a controlled sacrifice, or a temporary setback — is not clarified.  
+- Whether Juiblex’s claim to the Pudding King’s kingdom has actively opposed Zuggtmoy’s expansion beyond mere verbal denial is unconfirmed.

@@ -1,0 +1,142 @@
+[
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a traveler who seeks to understand the power dynamics of the Underdark, particularly regarding the Keepers of the Flame, the Red Dragon, and the Duergar regime. He is cautious about aligning with factions and values information over commitment.",
+    "source_quote": "Daz wonders if they should interview the various factions to find out which one they should join or whether they should join any of them.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is an orc who sneaks peeks to gather intelligence, speaks with pragmatic humor, and is perceived as non-threatening despite his appearance. He is trusted by Daz as a companion in navigating dangerous social terrain.",
+    "source_quote": "Grygum, who sneaks a quick peek, says that inside is a pretty dour place where people talk only in hushed whispers.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Halfling",
+    "fact": "The halfling is an outsider in the Underdark who survives by appearing harmless, avoiding political entanglements, and sharing information with those not 'in the game.' He is well-informed about factional conflicts, the Deepking\u2019s madness, and the Keepers of the Flame\u2019s predicament.",
+    "source_quote": "I\u2019m an outsider. And what do I know? Not very much. And as long as I stay an outsider, no one considers me a threat. And I can share what I know with those not in the game. And you are not part of the game, nor am I.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Drow",
+    "fact": "The Drow is from Menzoberranzan and views Duergar violence as crude and artless compared to the refined politicking of his homeland. He is disgusted by the lack of style in Duergar conflict and contrasts their brutality with the elegance of drow intrigue.",
+    "source_quote": "The backstabbing and politicking are nothing compared to the Duergar. I mean, we will do it with style and finesse. Here, it\u2019s just slaughter. No torture, no speeches, no art, and I mean no style.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Errde Blackskull",
+    "fact": "Errde Blackskull is the captain of the Stone Guards on the lake, commanding authority through stern presence. She seeks covert assistance to locate the rogue Duergar Droki without provoking war with the Derro, and she navigates diplomacy with a mix of threat and charm.",
+    "source_quote": "I have been tracking a particular Duergar named Droki. He lives in the West Cleft District, where the Derro live. If we were to go there in force, it would provoke a violent reaction. So we need someone who isn\u2019t us to find him.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a traveler who is tempted to join the Stone Guards but is wary of factional entanglements. He is influenced by the halfling\u2019s warnings and struggles to distinguish between helping the guards and serving the city\u2019s interests.",
+    "source_quote": "Are we helping you? Or the city?",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Keepers of the Flame",
+    "fact": "The Keepers of the Flame are a powerful Duergar organization that controls the Red Dragon, providing it with a horde and pampering it to ensure its cooperation in maintaining the city\u2019s furnaces. They are in a precarious position, as the dragon grows more powerful and resentful, and they must periodically kill and replace it. They are also threatened by the Gray Ghosts and the Crown.",
+    "source_quote": "The keepers of the flame give him a horde, and they pamper him. The problem... is that Red Dragons dislike playing second fiddle. And so, at some point, the Dragon discovers it\u2019s not in charge. Then, the Keepers of the Flame have to kill the dragon.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Gray Ghosts",
+    "fact": "The Gray Ghosts are a hostile faction opposing the Keepers of the Flame, likely a shadowy group of insurgents or assassins. They are in conflict with the Crown and are a threat to the stability of the Duergar regime.",
+    "source_quote": "They are in a pickle, what with the Gray Ghosts and the Crown.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Crown",
+    "fact": "The Crown is a rival power to the Keepers of the Flame, possibly a royalist or centralized authority seeking to reclaim control over the Duergar city. It is in open conflict with both the Keepers and the Gray Ghosts.",
+    "source_quote": "They are in a pickle, what with the Gray Ghosts and the Crown.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Stone Guards",
+    "fact": "The Stone Guards are the official law enforcement of the city, loyal to the Duergar regime and operating from the Overlake Hold. They are pragmatic, austere, and prefer covert operations to avoid open conflict, especially with the Derro.",
+    "source_quote": "I am Errde Blackskull, captain of the Stone Guards on the lake, and I must ask that you come to my office so we can talk.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Duergar Regime",
+    "fact": "The Duergar regime is characterized by brutal efficiency, arbitrary laws under the Deepking, and a complete absence of art or ceremony in governance. It is in decline, as its leaders are detached from reality and its institutions are increasingly unstable.",
+    "source_quote": "Now, they don\u2019t. It\u2019s as if he is detached from reality.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Red Dragon\u2019s periodic replacement",
+    "fact": "The Keepers of the Flame must regularly kill and replace the Red Dragon that powers the city\u2019s furnaces, due to the dragon\u2019s growing power and resentment of subordination. Dragon eggs are purchasable and hatchable, enabling this cycle.",
+    "source_quote": "So the Keepers must kill and replace the dragon with a new one.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Droki\u2019s disappearance",
+    "fact": "Droki, a rogue Duergar residing in the West Cleft District among the Derro, has evaded capture. His whereabouts and motives are unknown, but his presence threatens to provoke war if the Stone Guards move against him directly.",
+    "source_quote": "I have been tracking a particular Duergar named Droki. He lives in the West Cleft District, where the Derro live.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Deepking\u2019s madness",
+    "fact": "The Deepking\u2019s rule has become increasingly arbitrary and detached from reality, leading to the collapse of logical law in Gracklstugh. This madness is the root cause of current factional instability and the Keepers of the Flame\u2019s desperation.",
+    "source_quote": "It all began with the Deepking\u2019s madness.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Not relevant to the game",
+    "fact": "The phrase 'Not relevant to the game' has emerged as a cryptic mantra among outsiders who avoid factional entanglements. It defines a survival philosophy in the Underdark, separating observers from participants.",
+    "source_quote": "What is that expression? It's -- Not relevant to the game.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Darklake Brewery",
+    "fact": "The Darklake Brewery is a closed establishment, accessible only to Duergar. It is a place of hushed conversations and covert information exchange, located just outside the Blade Bazaar. It is the site of key encounters with the halfling, Drow, and the Stone Guards.",
+    "source_quote": "The Brewery is closed to non-Duergar, and Daz is disappointed until Grygum, who sneaks a quick peek, says that inside is a pretty dour place where people talk only in hushed whispers.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Overlake Hold",
+    "fact": "The Overlake Hold is the austere guardhouse and administrative center of the Stone Guards. Made entirely of grey stone, it reflects the cold, brutal efficiency of Duergar governance. It is where Errde Blackskull conducts official business and recruits covert agents.",
+    "source_quote": "A few minutes later, they are in the Overlake Hold, the local guard house. Errde brings them to a sitting room. Like everything in this town, it is austere. The chairs and table are made of stone. There is no color\u2014the light is grey.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "West Cleft District",
+    "fact": "The West Cleft District is a dangerous neighborhood inhabited by the Derro. It is the suspected hideout of the rogue Duergar Droki and is considered too volatile for direct military incursion by the Stone Guards.",
+    "source_quote": "He lives in the West Cleft District, where the Derro live.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Dragon eggs",
+    "fact": "Dragon eggs are available for purchase and can be hatched, enabling the Keepers of the Flame to replace the Red Dragon when necessary. This knowledge informs Daz\u2019s understanding of the cycle of control and violence in the city.",
+    "source_quote": "Daz wonders... how Dragon eggs can be purchased and hatched.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "9th day of the 1st Tenday of Myrtul 1493",
+    "fact": "The events occur on the 9th day of the 1st Tenday of Myrtul 1493, a time of escalating tension in Gracklstugh as the Deepking\u2019s madness destabilizes the regime and factions vie for power.",
+    "source_quote": "[Continuing \u2014 Date: 9th day of the 1st Tenday of Myrtul 1493, Speaker: Daz]",
+    "quote_verified": true
+  }
+]

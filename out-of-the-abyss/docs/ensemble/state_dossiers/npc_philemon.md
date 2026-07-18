@@ -1,25 +1,31 @@
 ---
 name: Philemon
 type: npc
-n_facts: 7
+n_facts: 5
 chapters: 54-55
 ---
 
 ### Philemon
 
 **Current status:** Alive  
-**Current location:** Unknown (last observed engaging with Thorin and Dawnbringer)  
-**Allegiance/faction:** Avowed monk of an unspecified order focused on psychological preservation and historical cataloging of sentient artifacts  
+**Current location:** Unknown (last observed with Thorin and Dawnbringer)  
+**Allegiance/faction:** Master Archivist of the Order of Psychological Preservation  
 **Current possessions / notable items, spells, feats, wounds:** None specified  
-**Current assignment / role and key relationships:** Assigned to Thorin and Dawnbringer for couples counseling; currently facilitating Dawnbringer’s emotional reintegration as a sentient being. Reports to no named superior, but operates under institutional training from an archive-oriented tradition.  
-**Defining recent actions:** Shifted from treating Dawnbringer as a specimen to recognizing her personhood and emotional trauma, adapting his methods to honor her sentience. Confirmed enrollment of Thorin and Dawnbringer in a two-stage counseling process, accepting the procedure without resistance. Demonstrated emotional resilience by not being offended by flippant remarks about sentient weapons.  
+**Current assignment / role and key relationships:**  
+- Primary therapist and counselor to Thorin and Dawnbringer, guiding their emotional reconnection.  
+- Recognizes Dawnbringer as a sentient being with trauma, not a specimen.  
+- Directly addresses Dawnbringer as a person, using “she” and acknowledging her emotional needs.  
+- Implements a two-stage therapeutic process: reconnection with light, followed by mourning.  
+- Reports progress to an unspecified authority (implied by title “Master Archivist”), but no superior named.  
 
-**Revealed motivations or secrets:** Underwent a latent but significant internal reevaluation of institutional norms — paused and reset his assumptions when confronted with Thorin’s insistence on Dawnbringer’s personhood. His core motivation appears to be preserving psychological integrity in sentient artifacts, but he now prioritizes honoring their autonomy over rigid classification. His statement — *“Your sword — she needs to remember what daylight feels like without needing to fight.”* — reveals a personal commitment to healing over control.
+**Defining recent actions:**  
+- Shifted from academic classification of Dawnbringer to prioritizing her emotional healing.  
+- Successfully facilitated a bond between Thorin and Dawnbringer, observing: “I'm seeing a better bond between the two of you than I had originally feared.”  
+- Prescribed and is actively guiding the two through the therapeutic stages of “light and mourning,” explicitly instructing Thorin to help Dawnbringer remember daylight without fighting, and later to grieve when ready.
 
 ## Uncertainty
-- The exact location of Philemon is unknown after chapter 55.  
-- His current physical possessions (e.g., tools, texts, artifacts) are not described.  
-- Whether he remains actively traveling with Thorin and Dawnbringer is unclear — they were last seen enrolled in his process, but his current companionship is not confirmed.  
-- The name or structure of his monastic order is unspecified.  
-- The nature of the “two-stage process” is described as accepted but not explained.  
-- The quote “She can't be polished, actually.” is attributed to “she” (likely Dawnbringer) and not Philemon — his direct response to it is not recorded, so his stance on “polishing” remains ambiguous.
+- Exact current physical location is unknown.  
+- Whether Philemon is still physically traveling with Thorin and Dawnbringer — last observed with them, but no confirmation of continued proximity.  
+- No details on his current physical condition, equipment, or any spells/feats he may possess.  
+- The name or structure of the “Order of Psychological Preservation” is not further defined.  
+- The authority he reports to is unnamed.

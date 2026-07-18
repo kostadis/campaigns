@@ -1,142 +1,177 @@
 [
   {
     "type": "npc",
-    "subject": "Zalthir",
-    "fact": "Zalthir arrived at Candlekeep and was assigned to Brother Khell-Vire as his handler, having previously meditated on the roof and resolved an internal argument about the nature of wisdom and delay.",
-    "source_quote": "Hmm, true,",
+    "subject": "Daz",
+    "fact": "Daz became unusually quiet during the walk to Candlekeep, touching his temple, a change from his usual demeanor, and his silence may be connected to the spreading madness observed in the Underdark.",
+    "source_quote": "Daz went quiet beside me somewhere around the second hour of walking. Not his usual quiet. His hand went to his temple and stayed there.",
     "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir meditated on the roof of the Burning Wizard Inn, returned with a settled expression as if closing an internal argument, and affirmed 'Hmm, true' in a tone of resolved contemplation rather than debate.",
+    "source_quote": "Zalthir climbed to the roof to meditate. He came back down later, settled. The expression of someone closing an internal argument, not opening an external one. He said 'Hmm, true,' about something, in the tone of a man completing an internal argument rather than beginning an external one.",
+    "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Thorin",
-    "fact": "Thorin arrived at Candlekeep and was assigned to Master Archivist Philemon; he processed the group\u2019s ethical dilemma by talking to Glabbagool and concluded the ooze was ambivalent about its role as a jailer.",
-    "source_quote": "You just gotta go with it.",
-    "quote_verified": true
+    "fact": "Thorin spent the evening outside with Dawnbringer at the sea, found the experience peaceful despite its absurdity, and later reflected that 'Life takes you in weird directions and weird places... you just gotta go with it,' suggesting a quiet acceptance of circumstance.",
+    "source_quote": "Thorin spent the evening outside with Dawnbringer, standing at what I understand was his first real encounter with the sea... 'Life takes you in weird directions and weird places,' he said. 'You just gotta go with it.'",
+    "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum arrived at Candlekeep and was assigned to Vareth; he was the one who first noted the connection between Daz\u2019s distress and the spreading madness from the Underdark, and summarized the group\u2019s capture as: \"We've been caught.\"",
-    "source_quote": "We've been caught.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Daz",
-    "fact": "Daz arrived at Candlekeep and was assigned to Sister Yvenne; he became unusually quiet during the walk, touching his temple, and exhibited signs of the spreading madness from the Underdark that had not ceased at the surface.",
-    "source_quote": "",
+    "fact": "Grygum noticed Daz's distress and asked whether it connected to the spreading madness from the Underdark, and later summarized the group\u2019s predicament with the spy as: 'We've been caught.'",
+    "source_quote": "Grygum noticed too, and asked whether it connected to the voices \u2014 the spreading madness we'd watched move through the Underdark... Grygum summarized, with admirable brevity, as: 'We've been caught.'",
     "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "The Spy (House T'sarran)",
-    "fact": "The spy, a miniaturized operative of House T'sarran, was discovered in the group\u2019s bag at Candlekeep\u2019s gate; she demanded formal imprisonment and was furious when told her fate was not hers to decide, but she had become an unwilling companion to Glabbagool.",
-    "source_quote": "I am a prisoner and wish to be formally jailed.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool, a grey ooze, was carried in the same bag as the spy and had spent days observing and interacting with her; he claimed they had become great friends through repeated attempts at murder, escape, meditation, and conversation, and asked Zalthir whether this made him more or less of a monk.",
-    "source_quote": "Zalthir? Will I be more of a monk or less of a monk by watching her?",
-    "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Kalan Strongbranch",
-    "fact": "Kalan Strongbranch, Gate Warden of Candlekeep, reviewed the group\u2019s violation of protocol regarding the spy and delivered Candlekeep\u2019s official stance: that prisoners are not kept, only delayed, and that the spy would be released eventually with a warning.",
-    "source_quote": "What you are giving us is a delay.",
+    "fact": "Kalan Strongbranch, Gate Warden of Candlekeep, laid out the institution\u2019s policy: prisoners are not kept, only delayed; the spy would be released eventually with a warning, and Candlekeep would not execute her or deliver her to House T'sarran.",
+    "source_quote": "He laid out Candlekeep's position without apology: 'The bell tower has cells... Anyone we find guilty of a major offense is exiled rather than imprisoned. Which is to say, we hold prisoners. We do not keep them... If you give her to us, what you are giving us is a delay.'",
     "quote_verified": false
   },
   {
     "type": "npc",
-    "subject": "Bookwyrm (First Reader)",
-    "fact": "Bookwyrm, a dragonborn sage and First Reader of Candlekeep, assigned each member of the party to a handler without ceremony and recognized the spy\u2019s presence as a breach of protocol, but deferred judgment on her status to the party\u2019s discretion.",
-    "source_quote": "The decision was ours, not hers.",
+    "subject": "Sister Yvenne",
+    "fact": "Sister Yvenne was assigned by Bookwyrm as Daz\u2019s handler at Candlekeep, indicating institutional recognition of his condition and the need for oversight.",
+    "source_quote": "Daz to Sister Yvenne.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Brother Khell-Vire",
+    "fact": "Brother Khell-Vire was assigned by Bookwyrm as Zalthir\u2019s handler at Candlekeep, signaling institutional placement and expectation of his role in the monastery\u2019s scholarly order.",
+    "source_quote": "Zalthir to Brother Khell-Vire.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Master Archivist Philemon",
+    "fact": "Master Archivist Philemon was assigned by Bookwyrm as Thorin\u2019s handler at Candlekeep, indicating institutional recognition of his presence and likely expectation of scholarly engagement.",
+    "source_quote": "Thorin to Master Archivist Philemon.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Vareth",
+    "fact": "Vareth was assigned by Bookwyrm as Grygum\u2019s handler at Candlekeep, confirming his integration into the monastery\u2019s administrative structure.",
+    "source_quote": "Grygum to Vareth.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool, the grey ooze, became an unwilling prison-watcher of the miniaturized spy, engaging in a bizarre cycle of violence, meditation, and conversation, and ultimately asked Zalthir whether watching her made him 'more of a monk or less of a monk,' receiving an affirmation that it did.",
+    "source_quote": "Glabbagool was glad to be asked... He'd been doing prison-watching... She'd scream about the meditation. Then they'd talk... 'Zalthir? Will I be more of a monk or less of a monk by watching her? Is this some kind of pre-monk training you've put me in?' 'Absolutely,' I said.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "The Spy (miniaturized House T'sarran operative)",
+    "fact": "The spy, though a prisoner of the party, demanded formal incarceration by Candlekeep, insisted on her status as a prisoner, and reacted with fury when told her fate was not hers to decide, revealing deep-seated resentment and a need for institutional validation.",
+    "source_quote": "She turned to Kalan and announced that she was a prisoner and wished to be formally jailed by Candlekeep's guards... She did not take this well. She had opinions. Several of them.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm, the First Reader and dragonborn sage, assigned each party member a handler at Candlekeep without ceremony, demonstrating institutional efficiency and detachment, and noticed the spy hidden in the bag, triggering the confrontation.",
+    "source_quote": "Bookwyrm \u2014 the First Reader, a dragonborn sage \u2014 assigned us each to a handler without ceremony... She'd noticed the bag. Specifically, she'd noticed what was in the bag...",
     "quote_verified": false
   },
   {
     "type": "faction",
     "subject": "Candlekeep",
-    "fact": "Candlekeep maintains a strict policy against imprisonment: those found guilty of major offenses are exiled rather than jailed, and prisoners are only held temporarily as a delay, never as a sentence; the institution values knowledge, order, and restraint over punishment.",
-    "source_quote": "We hold prisoners. We do not keep them.",
+    "fact": "Candlekeep operates under a policy of exile over imprisonment; it holds prisoners only temporarily, releases them with warnings, refuses to execute or surrender them to external powers, and treats all guests as part of its scholarly order regardless of origin.",
+    "source_quote": "Anyone we find guilty of a major offense is exiled rather than imprisoned... We hold prisoners. We do not keep them... We will not deliver to House T'sarran, and we will not execute her.",
     "quote_verified": false
   },
   {
     "type": "faction",
     "subject": "House T'sarran",
-    "fact": "House T'sarran is a secretive and powerful organization that deploys miniaturized spies; it seeks the return or elimination of its operative captured by the party, and is treated as an external threat by Candlekeep.",
-    "source_quote": "",
+    "fact": "House T'sarran is a powerful external entity that seeks to reclaim its miniaturized operative, and is regarded by Candlekeep as an authority not to be appeased or engaged directly.",
+    "source_quote": "We will not deliver to House T'sarran...",
     "quote_verified": false
   },
   {
     "type": "monster",
     "subject": "Glabbagool",
-    "fact": "Glabbagool, a sentient grey ooze, was carried in the group\u2019s bag alongside the spy and demonstrated unusual cognitive behavior: he engaged in prolonged interaction with her, attempted to teach meditation, and expressed philosophical uncertainty about his own nature as a monk.",
-    "source_quote": "I've been doing prison-watching, and was kind of bored.",
+    "fact": "Glabbagool is a sentient grey ooze capable of speech, expansion, and emotional response, who engages in ritualized conflict and philosophical dialogue with the spy, and has developed a quasi-monastic awareness of his own behavior.",
+    "source_quote": "He'd been doing prison-watching... He'd slap her around. She'd try to run. He'd expand. She'd scream. He'd try to explain the way of the shadow and teach her meditation.",
     "quote_verified": false
   },
   {
     "type": "object",
-    "subject": "The Bag",
-    "fact": "The bag contained both Glabbagool and the miniaturized House T'sarran spy; its contents were revealed at Candlekeep\u2019s gate, triggering a protocol breach and forcing the party to confront the ethical implications of carrying a living prisoner and a monster together.",
-    "source_quote": "We've been caught.",
-    "quote_verified": true
+    "subject": "The miniaturized House T'sarran spy",
+    "fact": "The spy is a tiny, sentient operative of House T'sarran, capable of independent thought and violent resistance, contained in a bag alongside Glabbagool, and has been carried by the party for days without formal acknowledgment.",
+    "source_quote": "the miniaturized House T'sarran spy had been right there alongside him... we'd had to open it to show the guards Glabbagool, and the miniaturized House T'sarran spy had been right there alongside him",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "The bag",
+    "fact": "The bag contained both Glabbagool and the miniaturized spy, and its contents triggered institutional scrutiny at Candlekeep\u2019s gate, revealing the party\u2019s unacknowledged ethical compromise.",
+    "source_quote": "She'd noticed the bag. Specifically, she'd noticed what was in the bag...",
+    "quote_verified": false
   },
   {
     "type": "location",
     "subject": "Candlekeep",
-    "fact": "Candlekeep is a vast, ancient library-fortress visible for miles along the Sea of Swords; it sits as a dark stack of towers against the sky, embodying centuries of accumulated knowledge and rigid institutional tradition.",
-    "source_quote": "Centuries do that to a building.",
+    "fact": "Candlekeep is a massive, ancient library-fortress visible for miles along the Sea of Swords, built over centuries, and serves as a neutral, scholarly sanctuary that governs through exile, not imprisonment.",
+    "source_quote": "Candlekeep is visible from miles out \u2014 a dark stack of towers against the sky, impossible to mistake... Centuries do that to a building.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "The Burning Wizard Inn",
+    "fact": "The Burning Wizard Inn is a place of rest and reflection where the party spends time before arriving at Candlekeep, marked by soot on the south wall and a scrubbed floor, and functions as a threshold between action and contemplation.",
+    "source_quote": "The soot mark on the south wall sat where it always sat. The floor, scrubbed every season. The wall remembers.",
     "quote_verified": true
   },
   {
     "type": "event",
     "subject": "arrival at Candlekeep",
-    "fact": "The party arrived at Candlekeep after traveling from the Underdark; their bag\u2019s contents were discovered, triggering a formal review by the Gate Warden, assignments by the First Reader, and the beginning of a moral and institutional standoff over the spy\u2019s fate.",
-    "source_quote": "We gave them the books at the gate.",
-    "quote_verified": true
+    "fact": "The party\u2019s arrival at Candlekeep triggered institutional review, assignment of handlers, and confrontation over the spy\u2019s containment, marking a transition from fugitive adventurers to guests under monastic oversight.",
+    "source_quote": "We gave them the books at the gate... She'd noticed the bag... They summoned someone called Kalan Strongbranch.",
+    "quote_verified": false
   },
   {
-    "type": "thread",
-    "subject": "the spy\u2019s fate",
-    "fact": "The fate of the House T'sarran spy remains unresolved: Candlekeep refuses to execute or imprison her, but will not release her immediately; the party must decide whether to accept a delay, intervene, or abandon her \u2014 a question that echoes the difference between solutions and postponements.",
-    "source_quote": "What you are giving us is a delay.",
+    "type": "event",
+    "subject": "Glabbagool's existential question",
+    "fact": "Glabbagool directly asked Zalthir whether watching the spy made him 'more of a monk or less of a monk,' and received an affirmation that it did, marking a moment of self-awareness and spiritual reckoning for the ooze.",
+    "source_quote": "'Zalthir? Will I be more of a monk or less of a monk by watching her? Is this some kind of pre-monk training you've put me in?' 'Absolutely,' I said.",
     "quote_verified": false
   },
   {
     "type": "thread",
-    "subject": "Glabbagool\u2019s monkhood",
-    "fact": "Glabbagool\u2019s interaction with the spy has raised a metaphysical question: whether watching and engaging with a prisoner constitutes spiritual growth or moral corruption; Zalthir affirmed it as pre-monk training, but the nature of that training remains ambiguous.",
-    "source_quote": "Absolutely.",
+    "subject": "Daz's mental deterioration",
+    "fact": "Daz's unexplained silence and temple-touching during the journey to Candlekeep may indicate the spreading madness from the Underdark has followed him to the surface, and its origin and resolution remain unanswered.",
+    "source_quote": "Daz went quiet beside me... His hand went to his temple and stayed there... I noticed. I didn't say anything yet.",
     "quote_verified": false
   },
   {
     "type": "thread",
-    "subject": "the spreading madness",
-    "fact": "Daz\u2019s uncharacteristic silence and distress suggest the Underdark\u2019s spreading madness has followed the party to Candlekeep; its origin, mechanism, and target remain unknown, and it may be more than mere psychological trauma.",
-    "source_quote": "Something wrong, something tenuous.",
-    "quote_verified": true
+    "subject": "the spy's fate",
+    "fact": "The spy\u2019s future is uncertain: Candlekeep will release her eventually with a warning, but she refuses to accept this, and her actions after release may provoke House T'sarran or destabilize the region.",
+    "source_quote": "Eventually, we will release her at our gate with a warning... She did not take this well. She had opinions. Several of them.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the nature of the monk\u2019s path",
+    "fact": "Glabbagool\u2019s question \u2014 whether watching the spy makes him more or less of a monk \u2014 and Zalthir\u2019s affirmation of it, suggest that the path of the monk may lie not in isolation, but in the acceptance of chaotic, unchosen responsibility.",
+    "source_quote": "'Zalthir? Will I be more of a monk or less of a monk by watching her? Is this some kind of pre-monk training you've put me in?' 'Absolutely,' I said.",
+    "quote_verified": false
   },
   {
     "type": "date",
     "subject": "session date",
-    "fact": "The events occurred during the party\u2019s arrival at Candlekeep, following their journey from the Underdark; the exact calendar date is unrecorded, but the temporal context is marked by the transition from subterranean chaos to institutional stillness.",
-    "source_quote": "",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "the wall of the inn",
-    "fact": "The soot mark on the south wall of the inn remained unchanged, a silent witness to repeated comings and goings; its persistence symbolized the endurance of place over transient human concerns.",
-    "source_quote": "The wall remembers.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "the inn\u2019s bar",
-    "fact": "Festrum wiped the bar, a ritual of maintenance that echoed Candlekeep\u2019s own routines; the bar, like the wall, bore the marks of time and repetition, a place of quiet constancy.",
-    "source_quote": "The floor, scrubbed every season.",
+    "fact": "The events described occur during the continuation of a session centered on the journey to Candlekeep, following the Burning Wizard Inn and preceding the formal intake of the party.",
+    "source_quote": "[Continuing \u2014 Speaker: Daz, Scene: The Burning Wizard Inn]",
     "quote_verified": true
   }
 ]

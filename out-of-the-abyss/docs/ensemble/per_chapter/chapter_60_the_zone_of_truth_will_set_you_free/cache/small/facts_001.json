@@ -2,85 +2,113 @@
   {
     "type": "npc",
     "subject": "Daral",
-    "fact": "Daral is operating on an instinct he can't articulate: that the one with the Lesser Restoration isn't ready to spend it, and arguing won't make healing come sooner. He consumed the poison himself while reclaiming it, with the same care he used to deliver it to others.",
+    "fact": "Daral is alive but in a state of diminished capacity, having inadvertently ingested poison while reclaiming it from a book, and is now awaiting restoration that he is not ready to receive.",
     "source_quote": "He had licked his finger, licked the book, then licked his finger again.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Thorin",
-    "fact": "Thorin is a meticulous investigator whose partner, Dawnbringer, is equally exceptional. He recognized that Daral, once restored, would likely disappear due to prior commitments and the tendency of those who share vital information to vanish before healing.",
-    "source_quote": "The ones who ran the moment they felt better were usually the ones who'd shared their most valuable information right before the healing, because they knew they wouldn't be around to see how you used it.",
+    "fact": "Thorin is a meticulous investigator who has observed the pattern of those who share critical information immediately before healing, and is concerned that Daral will disappear once restored.",
+    "source_quote": "The ones who ran the moment they felt better were usually the ones who'd shared their most valuable information right before the healing.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a seasoned leader who recognizes patterns in behavior, manages administrative burdens with dry pragmatism, and has a long history with Glabbagool.",
+    "source_quote": "I have carried this cube from the Underdark through several extremely dangerous situations.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a gelatinous cube capable of genuine emotional experience, particularly nostalgia for cheese, and evaluates all input for nutritional value with detached precision.",
+    "source_quote": "I remember when there was cheese. Perhaps if we had some cheese.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Fembris Lancer",
-    "fact": "Fembris Lancer arrived with notes and theories, emotionally and intellectually moved by the colloquium. He sought to collaborate on a written work, and ultimately handed his materials to Glabbagool, unaware that the gelatinous cube was the designated recipient.",
-    "source_quote": "He handed them over. Glabbagool examined them with professional detachment: the focused, slightly acidic attention he gives to anything he's evaluating for nutritional content.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool is a gelatinous cube with genuine, unperformed emotions \u2014 particularly a deep, nostalgic grief for cheese. He evaluates all input with nutritional precision and has consistently rejected non-nutritive materials, yet accepts them as part of his function.",
-    "source_quote": "This is not nutritious. ... I remember when there was cheese. Perhaps if we had some cheese.",
-    "quote_verified": false
-  },
-  {
-    "type": "faction",
-    "subject": "The Party",
-    "fact": "The party includes Daral, Thorin, Dawnbringer, and others previously encountered \u2014 some of whom have been sent away, creating continuity with past events. The group has a pattern of members vanishing after sharing critical intelligence before healing.",
-    "source_quote": "Didn't we have somebody like that with our party anyhow? Did we already send him away? ... Oh, that's the same guy.",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "The Book",
-    "fact": "The book contained a poison that was delivered to Janussi, reclaimed by Daral, and contaminated him through direct contact \u2014 a ritualistic act of self-sacrifice mirroring his earlier caution.",
-    "source_quote": "The book had delivered the poison to Janussi, and Daral had taken it back, as men who give gifts sometimes do when the recipient fails to appear sufficiently grateful.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Colloquium",
-    "fact": "The colloquium was an exceptionally well-received event that prompted multiple participants to offer superlatives, theories, and written contributions \u2014 though the substance of the event was obscured by the focus on interpersonal dynamics and hidden logistics.",
-    "source_quote": "The talk had gone well. Extraordinarily popular, as I was informed by several people on my way out.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "The Missing Four",
-    "fact": "Fembris Lancer asked where the four of them were during the talk, but no one answered \u2014 suggesting the party's composition is intentionally obscured, or that some members are absent by design, possibly due to prior departures or hidden roles.",
+    "fact": "Fembris Lancer is an earnest cleric who sought to present a monograph on the quadrangle issue, was disoriented by the transfer of his work to Glabbagool, and failed to recognize the absence of key party members.",
     "source_quote": "Where are the four of you? Who were the rest of you? I didn't see you at the talk.",
     "quote_verified": true
   },
   {
-    "type": "location",
-    "subject": "The Quadrangle",
-    "fact": "The quadrangle issue is a central, unresolved topic of debate, referenced repeatedly as a point of insight and transformation \u2014 though its nature remains intentionally vague, serving as a symbolic anchor for the event\u2019s deeper themes.",
-    "source_quote": "Your entire position on the quadrangle issue was, in fact, a brilliant insight that has dramatically transformed the\u2014",
+    "type": "faction",
+    "subject": "Bahamut's clergy",
+    "fact": "The clergy of Bahamut are involved in the quadrangle issue, with members like Grygum and Fembris Lancer engaging in doctrinal discourse and record-keeping.",
+    "source_quote": "As a cleric of Bahamut, might I say that your entire position on the quadrangle issue was, in fact, a brilliant insight...",
     "quote_verified": false
   },
   {
+    "type": "event",
+    "subject": "quadrangle issue resolution",
+    "fact": "The quadrangle issue was discussed in a colloquium that produced significant insight and record-keeping, with participants reacting as if to a resurrection or revelation.",
+    "source_quote": "The talk had gone well. Extraordinarily popular, as I was informed by several people on my way out.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "the colloquium venue",
+    "fact": "The venue for the colloquium is a space where formal discussions occur, followed by administrative handoffs and emotional reckonings, and is associated with the presence of Glabbagool.",
+    "source_quote": "I indicated Glabbagool.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "the poisoned book",
+    "fact": "The poisoned book was the medium through which the poison was delivered to Janussi and later reclaimed by Daral, becoming the catalyst for his self-contamination.",
+    "source_quote": "The book had delivered the poison to Janussi, and Daral had taken it back, as men who give gifts sometimes do when the recipient fails to appear sufficiently grateful.",
+    "quote_verified": true
+  },
+  {
     "type": "monster",
-    "subject": "Alpha",
-    "fact": "An alpha stationed at the door made a pointed throat sound, signaling to Fembris that his time had ended \u2014 indicating the presence of an enforcer or guard entity within the group\u2019s structure, enforcing protocol without explanation.",
-    "source_quote": "An alpha stationed there made a pointed sound in its throat.",
+    "subject": "the poison",
+    "fact": "The poison is a substance with deliberate, almost ritualistic transmission properties, transferred with the same care whether given to others or ingested by the bearer.",
+    "source_quote": "He'd delivered it to himself with the same care.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "missing party members",
+    "fact": "The absence of four key party members during the colloquium went unremarked upon by Fembris Lancer, suggesting a prior separation or concealment that remains unexplained.",
+    "source_quote": "Where are the four of you? Who were the rest of you? I didn't see you at the talk.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the cheese",
+    "fact": "Glabbagool\u2019s memory of cheese represents a persistent, emotionally resonant loss from the past, one that underscores his non-human but deeply felt inner life.",
+    "source_quote": "I remember when there was cheese.",
     "quote_verified": true
   },
   {
     "type": "date",
-    "subject": "Tomorrow",
-    "fact": "Fembris Lancer promised to deliver a draft by tomorrow, marking a concrete temporal anchor for the next administrative step in the documentation process.",
+    "subject": "session date",
+    "fact": "The events occur in the immediate aftermath of a colloquium, with follow-up actions scheduled for the next day, indicating a temporal anchor of 'tomorrow' for the draft submission.",
     "source_quote": "He promised a draft by tomorrow.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum is a seasoned, calm arbiter who manages chaos with bureaucratic precision. He recognizes the emotional weight of others' contributions, accepts absurdity as part of the process, and delegates non-nutritive materials to Glabbagool without surprise.",
-    "source_quote": "Deposit them with my secretary.\" ... \"I meant it in the way one means things that have been settled administratively.",
+    "subject": "Janussi",
+    "fact": "Janussi is the intended recipient of the poison delivered by the book, whose failure to appear sufficiently grateful triggered Daral\u2019s retrieval and subsequent contamination.",
+    "source_quote": "The book had delivered the poison to Janussi... when the recipient fails to appear sufficiently grateful.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Fembris's notes",
+    "fact": "Fembris's notes contain his intellectual and spiritual reflections on the quadrangle issue, and are ultimately deemed non-nutritious by Glabbagool, symbolizing the futility of his scholarly effort.",
+    "source_quote": "This is not nutritious.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "continuity of the missing man",
+    "fact": "A prior party member, similar to Daral in behavior, was previously sent away, creating a pattern of post-healing disappearance that Grygum recognizes as recurrent.",
+    "source_quote": "Didn't we have somebody like that with our party anyhow? Did we already send him away? Oh, that's the same guy.",
     "quote_verified": false
   }
 ]

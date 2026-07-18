@@ -43,107 +43,100 @@
   },
   {
     "type": "date",
-    "subject": "elapsed time",
-    "fact": "The event occurred at dawn.",
-    "source_quote": "One in the morning",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "tiefling count",
-    "fact": "A tiefling is present and does not require light.",
-    "source_quote": "Sylvira's a tiefling. A tiefling doesn't need the light.",
-    "quote_verified": true
+    "subject": "time of discovery",
+    "fact": "The cut string on Janussi\u2019s Deadwinter gift was observed at midnight.",
+    "source_quote": "The string tied around Janussi's Deadwinter gift had clearly been cut and retied.",
+    "quote_verified": false
   },
   {
     "type": "event",
-    "subject": "poison taster incident",
-    "fact": "The poison taster was collateral in a targeted assassination.",
-    "source_quote": "the taster's just collateral: she'd have gone down at midnight too",
+    "subject": "poison taster initiative",
+    "fact": "Sprig volunteered to taste twelve dishes despite being told it wasn't necessary.",
+    "source_quote": "Twelve dishes, the Candlekeep chefs, every word of it. She'd volunteered to taste each one to make sure none was poisoned.",
     "quote_verified": true
   },
   {
     "type": "location",
-    "subject": "Candlekeep poison vial location",
-    "fact": "A dangerous toxin vial was broken and concealed under the top shelf.",
-    "source_quote": "Under the top shelf I found a peppermint-soaked rag and a broken vial",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "Alkrist's scrap of paper",
-    "fact": "A scrap of paper was fed to a candle and dropped when witnesses arrived.",
-    "source_quote": "Alkrist had been holding a small scrap of paper toward a candle, feeding it to the flame, and when two junior avowed walked in, he dropped it.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "Janussi's Deadwinter gift string",
-    "fact": "The string tied around Janussi's Deadwinter gift had been cut and retied.",
-    "source_quote": "the string tied around Janussi's Deadwinter gift had clearly been cut and retied",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "A'lai's dove cage",
-    "fact": "A dove cage built for five contained only two birds, indicating three messages were sent.",
-    "source_quote": "The cage was built for five. Two birds sat in it. There had been more than two.",
+    "subject": "dangerous toxins shelf",
+    "fact": "A vial of dangerous toxins was broken and hidden with a peppermint rag under the top shelf.",
+    "source_quote": "Under the top shelf I found a peppermint-soaked rag and a broken vial, and the shelf above the spillage was labeled, in Elvish, Dangerous Toxins.",
     "quote_verified": false
   },
   {
     "type": "object",
-    "subject": "Alkrist's 1001 Tashalian Nights bookmark",
-    "fact": "The bookmark was placed on the tale of a commander poisoned by a magic horn coated in Midnight Tears.",
+    "subject": "alchemist's poison sample",
+    "fact": "Alkrist kept sealed glass jars containing rats with blistered, pustule-risen skin as poison study specimens.",
+    "source_quote": "On the desk beside it, sealed glass jars holding dead rats, their skin blistered and risen into pustules.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "diversion tactic",
+    "fact": "A'lai was used as a diversion to draw Leuwin into the greenhouse while the dragonborn stole the poison.",
+    "source_quote": "The drow draws the druid downstairs with a complaint about indigestion, occupies him in the greenhouse, and never once touches the dangerous goods.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "bookwyrm's reading bookmark",
+    "fact": "Alkrist\u2019s copy of 1001 Tashalian Nights had a bookmark on the tale of a commander poisoned by a magic horn coated in Midnight Tears.",
     "source_quote": "The bookmark sat on the tale of a military commander, poisoned by a gift of surrender \u2014 a magic horn whose mouthpiece had been coated in Midnight Tears.",
     "quote_verified": true
   },
   {
     "type": "object",
-    "subject": "Alkrist's dead rat jars",
-    "fact": "Sealed glass jars held dead rats with blistered, pustule-risen skin, indicating poison study.",
-    "source_quote": "sealed glass jars holding dead rats, their skin blistered and risen into pustules",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "dragonborn poison theft",
-    "fact": "A dragonborn broke a vial of dangerous toxin while the druid was distracted in the greenhouse.",
-    "source_quote": "the dragonborn did the upstairs work and the handling of a substance that might kill whoever carries it",
+    "subject": "dove message cage",
+    "fact": "A'lai\u2019s dove cage had five perches, with wear indicating three recent messages had been sent.",
+    "source_quote": "The cage was built for five. Two birds sat in it. The feeding troughs, the droppings, the wear on five perches. There had been more than two.",
     "quote_verified": false
   },
   {
-    "type": "location",
-    "subject": "Candlekeep dangerous toxins shelf",
-    "fact": "A shelf labeled in Elvish as 'Dangerous Toxins' was the site of a concealed breakage.",
-    "source_quote": "the shelf above the spillage was labeled, in Elvish, *Dangerous Toxins.*",
+    "type": "monster",
+    "subject": "drow bribe count",
+    "fact": "A drow bribed the squirrel Nibbles with multiple nuts to observe the poison theft.",
+    "source_quote": "A drow on his knees, bribing a squirrel one nut at a time.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "dragonborn theft",
+    "fact": "The dragonborn broke the vial of dangerous toxins while Leuwin was distracted in the greenhouse.",
+    "source_quote": "While the dragonborn was upstairs, alone, breaking the vial.",
     "quote_verified": true
   },
   {
-    "type": "object",
-    "subject": "Nibbles the squirrel's nut tokens",
-    "fact": "A squirrel was bribed with nuts to witness the poison theft and provide testimony.",
-    "source_quote": "a drow on his knees, bribing a squirrel one nut at a time",
+    "type": "location",
+    "subject": "gift tree location",
+    "fact": "The cut and retied string on Janussi\u2019s gift was found beneath the non-Christmas Christmas tree.",
+    "source_quote": "The book sitting wrapped in that package, the string opened and knotted back shut. And that was the one that mattered: whatever happened, happened under the tree. In the room. With all of them standing around it.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "Irony's evasion",
-    "fact": "Irony pointed investigators toward Sprig rather than speak falsely, exploiting the 'can't lie' loophole.",
-    "source_quote": "She steered us rather than speak false. Worth remembering how she dodges.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "A'lai's greenhouse",
-    "fact": "A magic-enhanced greenhouse below the apothecary was used to distract the druid during the theft.",
-    "source_quote": "Leuwin took him down through the rear exit to the greenhouse below, where he grows herbs year-round with magic.",
+    "subject": "irony's evasion",
+    "fact": "Irony pointed investigators toward Sprig instead of answering directly, exploiting her inability to lie without telling the truth.",
+    "source_quote": "She steered us rather than speak false. Worth remembering how she dodges. Can't lie well is the honest version.",
     "quote_verified": true
   },
   {
     "type": "object",
-    "subject": "Glabbagool the ooze's partnership",
-    "fact": "An ooze named Glabbagool assisted in searching the Readers' chambers by flowing where the investigator could not reach.",
-    "source_quote": "He flowed where I could not reach; I read what he could not understand.",
+    "subject": "honey pot cover",
+    "fact": "A pot of honey was provided to Sylvira Savikas as a cover for her hoarse voice after the poisoning.",
+    "source_quote": "Sprig helped her find a pot of honey and said goodnight.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "squirrel witness",
+    "fact": "The squirrel Nibbles witnessed the dragonborn breaking the vial while Leuwin was occupied with A'lai.",
+    "source_quote": "because you gave me so many tokens, I saw the person, but Leuwin didn't, because Leuwin wasn't in the room.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "alchemist's greenhouse",
+    "fact": "The greenhouse below the apothecary was used to grow herbs year-round with magic and served as a diversion site.",
+    "source_quote": "Leuwin took him down through the rear exit to the greenhouse below, where he grows herbs year-round with magic.",
     "quote_verified": true
   }
 ]

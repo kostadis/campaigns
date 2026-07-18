@@ -1,7 +1,7 @@
 ---
 name: Sister Yvenne
 type: npc
-n_facts: 11
+n_facts: 14
 chapters: 55-56
 ---
 
@@ -9,15 +9,24 @@ chapters: 55-56
 
 **Current status:** Alive  
 **Current location:** Candlekeep  
-**Allegiance/faction:** Candlekeep Avowed, Archivist  
-**Current possessions / notable items, spells, feats, wounds:** None specified  
-**Current assignment / role and key relationships:** Handler to Daz; enforcer of scholarly protocol with authority over bookplates. Reports to or operates under the First Reader (Bookwyrm), a dragonborn sage.  
-**Defining recent actions:** Threatens to confiscate all bookplates as a disciplinary measure to assert institutional control over doctrinal disputes within Candlekeep’s scholarly culture. Has not yet executed the confiscation, but it is widely anticipated. Maintains a demeanor of neutral, protocol-bound informant while displaying practiced stillness that betrays concealed knowledge beyond public records.  
+**Allegiance/faction:** Candlekeep Archival Order  
+**Current possessions / notable items:** None explicitly stated, but holds authoritative control over public records and bookplates (symbolic authority)  
+**Current assignment / role:** Public record keeper and handler for Daz; enforcer of Candlekeep’s reciprocity policy and archival protocols  
+**Key relationships:** Assigned by Bookwyrm as Daz’s handler; maintains formal distance from Daz while withholding sealed knowledge about his origins and Menzoberranzan’s noble houses  
+**Defining recent actions:**  
+- Upheld the library’s “information for information” policy with strict neutrality, redirecting Daz from inquiries about his name to his patron.  
+- Physically signaled concealed knowledge about Menzoberranzan’s sealed house — body language betraying awareness beyond public records — while verbally adhering to archival restrictions.  
+- Confirmed Daz’s analysis of “expensive striking” as correct.  
+- Threatened to confiscate all bookplates at Candlekeep in response to escalating scholarly disputes — a symbolic act of institutional control — and is poised to enact it.  
 
-**Revealed motivations or secrets:** Knows more than the public record permits her to disclose; deliberately navigates what she reveals, suggesting covert alignment with hidden truths or factions within Candlekeep’s hierarchy. Her stillness and verbal restraint indicate she is not merely informing, but carefully managing information flow — possibly under orders or personal conviction.
+**Revealed motivations or secrets:**  
+- Knows more than the public record permits regarding Daz’s origins and the sealed noble house in Menzoberranzan.  
+- Maintains a deliberate, practiced stillness to conceal her knowledge while appearing neutral — suggesting loyalty to institutional silence over personal disclosure.  
+- May be acting as a gatekeeper for dangerous truths, balancing duty to Candlekeep’s archives with unspoken moral awareness.
 
 ## Uncertainty
-- Contradiction between being a “custodian of restricted knowledge in Menzoberranzan” (ch55) and being a Candlekeep archivist/handler (ch55–56). These locations are geographically and institutionally distinct; no clarification is given on whether this is a prior role, a misstatement, or dual affiliation.  
-- Unclear if her threat to confiscate bookplates is an official policy or personal initiative — no source confirms whether she acts with institutional backing or unilateral authority.  
-- The phrase “Yvenne is a custodian of restricted knowledge in Menzoberranzan” appears in ch55, but no subsequent chapter references Menzoberranzan — does this role still hold, or was it a past assignment?  
-- No confirmation whether her association with Daz is still active (she was assigned as his handler, but no later chapter confirms current interaction).
+- The exact nature of the “sealed house” in Menzoberranzan she cannot speak of is not named.  
+- Whether she has authority to actually confiscate bookplates — or if the threat is purely symbolic — is unconfirmed; no action has been taken.  
+- It is unclear if her redirection of Daz to ask about his patron was purely procedural or an intentional nudge toward uncovering his true origins.  
+- The phrase “he expects it” in ch56 refers to an unnamed observer’s expectation — not Yvenne’s intent — leaving her true resolve ambiguous.  
+- No confirmation whether Daz is still under her direct supervision as of ch56; she was his handler in ch55, but his current status is not updated.

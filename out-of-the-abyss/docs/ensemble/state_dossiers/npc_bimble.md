@@ -7,15 +7,15 @@ chapters: 43-43
 
 ### Bimble
 
-**Current status:** Alive, infected  
-**Current location:** Kazook's chambers  
-**Allegiance/faction:** Scout of Kazook  
-**Current possessions / notable items, spells, feats, wounds:** Infected with spore-phenomenon; coughing up spores that form tiny laughing faces before dissolving  
-**Current assignment / role and key relationships:** Confined and under Kazook’s observation; previously sent to investigate the Garden of Stone  
-**Defining recent actions:** Returned from the Garden of Stone infected, raving about a singing garden and the Lady of Rot feeding the soil; now restrained on a table in Kazook’s chambers, manifesting spore-entities during coughing fits  
+**Current status:** Alive, but severely infected  
+**Current location:** Kazook’s chambers  
+**Allegiance/faction:** Formerly Kazook’s scout; now a vessel of the Garden of Stone’s corruption  
+**Current possessions / notable items, spells, feats, wounds:** None explicitly held; suffering from magical infection manifesting as coughed spores that form tiny laughing faces before dissolving  
+**Current assignment / role and key relationships:** Captive, restrained on a table in Kazook’s chambers; last known to have been sent by Kazook to investigate the Garden of Stone  
+**Defining recent actions:** Returned from the Garden of Stone infected, raving about a “singing garden” and the “Lady of Rot feeding the soil”; currently incapacitated and expelling spores with sentient, laughing forms  
 
 ## Uncertainty
-- The exact nature of the infection (biological, magical, or extradimensional) is not specified.  
-- Whether Bimble is still conscious or capable of communication beyond raving is unclear.  
-- It is ambiguous whether the “Lady of Rot” is a real entity, a hallucination, or a metaphor — no further context is given.  
-- The timeline of when he was strapped to the table relative to his return is not precise enough to determine if he was immediately restrained or held elsewhere first.
+- The exact nature of the infection (whether magical, fungal, or divine) is not specified beyond its effects.  
+- Whether the “Lady of Rot” is a real entity, a delusion, or a name given by the garden’s influence is unconfirmed.  
+- It is unclear if Bimble is still conscious or responsive while restrained — the facts describe physical symptoms but not mental state.  
+- The timeline between his return and being strapped to the table is not specified; it is unknown if he was captured immediately or wandered first.

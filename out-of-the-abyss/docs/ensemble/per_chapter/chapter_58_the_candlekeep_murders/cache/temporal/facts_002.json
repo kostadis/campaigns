@@ -42,101 +42,94 @@
     "quote_verified": false
   },
   {
-    "type": "date",
-    "subject": "death time",
-    "fact": "The victim died at precisely midnight.",
-    "source_quote": "He died at roughly midnight",
+    "type": "event",
+    "subject": "poison delivery method",
+    "fact": "Midnight tears poison is ingested and activates at midnight, with color change upon contact with saliva.",
+    "source_quote": "The dust stays pale ochre. What darkens it is saliva.",
     "quote_verified": true
   },
   {
     "type": "object",
-    "subject": "midnight tears poison",
-    "fact": "Midnight tears is a pale ochre dust from Feywild pollen that kills at midnight when ingested, and darkens upon contact with saliva.",
-    "source_quote": "Midnight tears. A highly toxic pale ochre dust, made from the pollen of a plant usually found only in the Feywild. [...] The dust stays pale ochre. What darkens it is saliva.",
-    "quote_verified": false
-  },
-  {
-    "type": "spell",
-    "subject": "sapphire summoning spell",
-    "fact": "A rare summoning spell requiring an expensive sapphire that recalls a hidden object to the caster\u2019s hand, regardless of location.",
-    "source_quote": "It's a summoning spell [...] needs a very expensive sapphire [...] you can put it someplace, you can throw it into a river or whatever. Nobody will find it, and then when you need it back, boom.",
+    "subject": "sapphire spell function",
+    "fact": "The sapphire summoning spell retrieves a hidden object to the caster's hand, regardless of location.",
+    "source_quote": "You can put it someplace, you can throw it into a river or whatever. Nobody will find it, and then when you need it back, boom.",
     "quote_verified": false
   },
   {
     "type": "location",
-    "subject": "high tower key storage",
-    "fact": "The High Tower keys are not stored on the body but summoned via spell, making physical search ineffective.",
-    "source_quote": "You don't hide the key on a body where someone can search it. You hide it nowhere at all, and you summon it when the door is in front of you.",
+    "subject": "High Tower entrance",
+    "fact": "The High Tower is the entrance to all super-magical artifacts, always watched, entry always visible.",
+    "source_quote": "The tower is watched. Always. People stand at it whether the key is in someone's pocket or not.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "book poisoning method",
-    "fact": "The victim was poisoned by ingesting midnight tears dust that had been applied to pages he licked while reading.",
-    "source_quote": "Some liquid had gotten onto his finger, and the finger had gone black. [...] The dust reacts on contact with spit, and a man turning pages licks his fingers to do it.",
-    "quote_verified": false
-  },
-  {
-    "type": "monster",
-    "subject": "shapeshifter threat",
-    "fact": "A shapeshifter may be involved, capable of impersonating individuals to evade detection.",
-    "source_quote": "Keep in mind there are people who can change their form. Shapeshift. Whatever you want to call it.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "false Sylvira impersonation",
-    "fact": "Someone impersonated Sylvira Savikas on the night of the murder, a deception unknown to Kalan until revealed.",
-    "source_quote": "Is he aware that someone was pretending to be Sylvira Savikas the night of the murder? [...] That is new information.",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "flora theca research site",
-    "fact": "The Flora Theca, a subsection of the Pavilion Naturalis in the Great Library, holds botanical knowledge critical to identifying the poison.",
-    "source_quote": "What there was, Fembris told me, was the Flora Theca, a subsection of the Pavilion Naturalis, inside the Great Library, dedicated to plants, herbs, and other flora.",
+    "subject": "key transfer",
+    "fact": "Kalan transferred the second High Tower key to someone who is not himself, and now holds no key.",
+    "source_quote": "I have given it now to someone who is not me.",
     "quote_verified": true
   },
   {
     "type": "object",
-    "subject": "loket-key mechanism",
-    "fact": "The key was carried inside a locket worn around the victim\u2019s neck, now missing.",
+    "subject": "locket key storage",
+    "fact": "The key was carried in a locket worn around the neck, now missing.",
     "source_quote": "The key was in the locket. The locket was around the keeper's neck. The locket was gone.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "two-hand investigation theory",
-    "fact": "Two individuals searched the apartment: one who knew the key\u2019s location, one who did not, suggesting multiple perpetrators or conflicting motives.",
-    "source_quote": "Two hands had searched that apartment \u2014 one that knew exactly where to look, one that didn't.",
+    "subject": "murderer's method",
+    "fact": "The murderer is a magic user who can circumvent arcane and mundane locks with talking magic.",
+    "source_quote": "Magic that could talk any lock open, arcane or iron, the very highest order of that art.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "kalan's alibi timeline",
-    "fact": "Kalan provided a detailed timeline: 8:00 meeting with Janussi, 10:15 visit to Sylvira, morning inspection, cordon, and doubled guard at the High Tower Library.",
-    "source_quote": "The eight o'clock meeting where he'd pressed Janussi for more watchers and been refused, the quarter-past-ten visit to Sylvira Savikas... the inspection just after eight, the cordon, the posted watcher...",
-    "quote_verified": false
-  },
-  {
-    "type": "spell",
-    "subject": "truth-piercing magic",
-    "fact": "Kalan possesses a magic capable of detecting lies or revealing hidden truths, usable if suspicion arises.",
-    "source_quote": "He could sort it out? \"Of course I could.\"",
+    "subject": "murder timing",
+    "fact": "The victim died at midnight after ingesting midnight tears poison, likely via licking a poisoned page.",
+    "source_quote": "He died at roughly midnight. His fingers were black, his lips were black.",
     "quote_verified": false
   },
   {
     "type": "location",
-    "subject": "hearth interrogation venue",
-    "fact": "The suspect Daral Yashenti forced the investigators to meet him at the Hearth, a venue of his choosing to maintain control.",
-    "source_quote": "Daral was not coming to us. We were to go to the Hearth. [...] the suspect setting the venue, picking the ground, making the famous detectives walk to him.",
+    "subject": "Flora Theca location",
+    "fact": "The Flora Theca is a subsection of the Pavilion Naturalis within the Great Library, dedicated to plants and herbs.",
+    "source_quote": "The Flora Theca, a subsection of the Pavilion Naturalis, inside the Great Library, dedicated to plants, herbs, and other flora.",
     "quote_verified": false
   },
   {
+    "type": "object",
+    "subject": "midnight tears poison origin",
+    "fact": "Midnight tears is a highly toxic pale ochre dust made from Feywild pollen, lethal unless neutralized by specific Feywild sap.",
+    "source_quote": "A highly toxic pale ochre dust, made from the pollen of a plant usually found only in the Feywild.",
+    "quote_verified": true
+  },
+  {
     "type": "event",
-    "subject": "bookwyrm's dismissal",
-    "fact": "Bookwyrm officially dismissed Kalan from the case, but he remains involved unofficially, creating internal conflict.",
-    "source_quote": "Bookwyrm had made it official that he was to be nowhere near it. \"Officially,\" I said. \"See, there you go.\"",
+    "subject": "false identity",
+    "fact": "Someone impersonated Sylvira Savikas the night of the murder.",
+    "source_quote": "Is he aware that someone was pretending to be Sylvira Savikas the night of the murder?",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Hearth interrogation venue",
+    "fact": "The suspect Daral Yashenti chose the Hearth as the venue for interrogation, asserting control over the setting.",
+    "source_quote": "Daral was not coming to us. We were to go to the Hearth.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "investigator collaboration",
+    "fact": "Kalan proposed a private sync-up meeting with five streams to merge findings and resolve contradictions.",
+    "source_quote": "A meeting to examine everything one by one, the four of us and him, five streams, merge it all in a few hours.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "key carry definition",
+    "fact": "Worn objects are not considered 'carried' for the purpose of the sapphire summoning spell.",
+    "source_quote": "It doesn't, as it turned out. Which reframed the whole use.",
     "quote_verified": true
   }
 ]

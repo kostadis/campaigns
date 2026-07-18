@@ -1,37 +1,47 @@
 ---
 name: The Avowed
 type: faction
-n_facts: 18
-chapters: 54-61
+n_facts: 13
+chapters: 56-61
 ---
 
 ### The Avowed
 
-**Current status:** Active, governing body of Candlekeep.  
-**Current location:** Candlekeep, operating from within its institutional heart.  
-**Allegiance/faction:** Autonomous scholarly-governing order; internally fractured but unified in preserving institutional procedure over justice. Hostile to Sylvira and her faction; manipulated by Kalan’s strategy.  
+**Current status:** Active and governing.  
+**Current location:** Candlekeep, seated in authority over its academic and security institutions.  
+**Allegiance/faction:** Governing body of Candlekeep; internally divided but publicly unified under procedural formality.  
 
-**Current possessions / notable items:** None specified beyond institutional authority over the Dragon Breath Simulation Chamber (access now requires Keeper’s permission), control over trials, naming ceremonies, and leadership succession.  
+**Current possessions / notable items:**  
+- Oversight of the Alkrist safe (now sealed after premature investigation).  
+- Authority to enforce the Zone of Truth as a punitive or investigative tool.  
+- Control over the Dragon Breath Simulation Chamber, requiring Keeper’s permission for access.  
+- Possession of the Alkrist confession, accepted without scrutiny.  
 
-**Current assignment / role:** Governing council responsible for leadership succession, judicial procedures, and safeguarding dangerous magical sites. Currently managing the aftermath of Janussi’s death and orchestrating the selection of a new head. Actively suppressing evidence (e.g., sealing the safe as irrelevant) and manipulating votes against Bookwyrm through procedural pressure, rumor, and suspicion rather than proof.  
+**Current assignment / role and key relationships:**  
+- Governing body of Candlekeep, responsible for security, scholarly protocol, and leadership succession.  
+- Directly oversee the detention and disposition of escapees (e.g., Kalan assigned to guard duty).  
+- Will vote on Bookwyrm’s fate during the naming ceremony — offering choice between continued membership or submission to the Zone of Truth.  
+- Leadership transition underway: new head to be named after mourning rituals; current acting head is Bookwyrm.  
+- Key members: Teles Ahvoste (Great Reader), Kalan (guardian assigned post-investigation), and an unnamed Leader manipulating outcomes.  
+- Hostile toward Sylvira; suspected of fabricating her post-plague sightings to discredit her.  
+- Deliberately delayed their awakening during the Keeper’s murder investigation at the First Reader’s request.  
 
 **Defining recent actions:**  
-- Sealed the safe containing critical evidence, declaring their “victory” and shifting focus from investigation to internal politics.  
-- Manipulated institutional procedure to isolate and discredit Bookwyrm, forcing her into a false choice: submit to a Zone of Truth or remain a member under suspicion.  
-- Delayed awakening after the Keeper’s death, suggesting complicity or coordination with the First Reader.  
-- Fabricated or amplified post-12:30 AM sightings of Sylvira to discredit her, specifically implicating Teles Ahvoste.  
-- Prioritized academic debate and procedural formalism over active investigation, neglecting security and justice during an active murder inquiry.  
+- Prematurely concluded investigation into the Alkrist safe, accepted a confession without evidence, and sealed the safe.  
+- Assigned Kalan to guard the sealed safe, unaware the contents were stolen.  
+- Accepted the Alkrist confession as conclusive, revealing systemic complacency.  
+- Mobilized members to monitor the Grygum debate, enforcing library security against strangers.  
+- Manipulated the naming ceremony’s timing and procedure to elevate Bookwyrm’s authority under the guise of justice.  
 
 **Revealed motivations or secrets:**  
-- Institutional survival and control outweigh truth or justice.  
-- Leadership transitions are engineered through staged crises and false confessions.  
-- Deep-seated hostility toward Sylvira and other Great Readers is institutionalized.  
-- Their “ritualized precision” is a tool of power, not scholarship.  
+- Engaged in long-standing political hostility toward Sylvira, using disinformation campaigns.  
+- Prioritize institutional stability and procedural legitimacy over truth or evidence.  
+- Internal power struggles masked by mourning rituals and formal governance.  
+- Systemically blind to deception — quick to believe confessions, slow to question authority.  
 
 ## Uncertainty
-- Contradiction between [ch56] describing the Avowed as “still asleep” (suggesting incapacitation or delay) and [ch61] showing them actively manipulating trials and elections — does “asleep” refer to a temporary state that has since ended, or is it metaphorical?  
-- Unclear if the Avowed as a whole approved the sealing of the safe, or if it was the decision of a faction (e.g., aligned with Kalan).  
-- Attribution of Teles Ahvoste’s actions: Sylvira names him as a key actor in fabricating her sightings, but it is not confirmed whether he acted alone, on orders, or as part of a broader factional move.  
-- The exact number of Avowed members or their current leadership structure (beyond the incoming “new head”) is unspecified.  
-- Whether the death of the Avowed in the Dragon Breath Simulation Chamber was an accident or sabotage is not resolved.  
-- The current physical state or location of the First Reader relative to the Avowed is not confirmed post-[ch56].
+- Contradiction: Ch56 describes the Avowed as “asleep” during the early investigation, while Ch59 and Ch61 show them actively deployed and politically engaged — this may reflect selective awakening rather than inconsistency, but the trigger for their activation is unexplained.  
+- Ambiguous attribution: Ch60 and Ch61 both state Great Readers like Teles Ahvoste are members, but it is unclear whether all Great Readers are Avowed or only some.  
+- Unclear chronology: It is unknown whether the Avowed’s hostility toward Sylvira predates or arose after the plague — only that it is “long-standing.”  
+- Ambiguity: The phrase “The Avowed had all decided they'd won” (ch61) implies consensus, yet earlier facts show internal division — is this post-hoc justification or genuine unity?  
+- Unclear scope: While the Avowed govern Candlekeep, it is not confirmed whether they are synonymous with the Keeper’s Council, the Great Readers, or a distinct subset — only that they include Great Readers and appoint the new head.

@@ -2,134 +2,113 @@
   {
     "type": "npc",
     "subject": "Nym Duskryn",
-    "fact": "Nym Duskryn is a Drow mercenary from Menzoberranzan, hired to protect Daz from House Mizzrym and House T'sarran. She speaks with the tone of practiced courtesy that masks professional detachment. She dismissed the threat of a low-level Lolth cultist as irrelevant and emphasized that Daz\u2019s survival was not her concern beyond contract terms.",
+    "fact": "Nym Duskryn is a Drow mercenary hired in Menzoberranzan to protect Daz from House Ilvara and House T'sarran, and she dismisses the threat of a low-level Lolth cultist as irrelevant to the contract's value.",
     "source_quote": "Our terms of our contract were to make sure that the other drow factions didn't get you killed.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Kaelira Duskryn",
-    "fact": "Kaelira Duskryn is Nym\u2019s sister and co-mercenary. She is analytically precise, professionally confused by Daz\u2019s inexplicable value, and dismissive of his self-mythologizing. She assessed that Daz has no noble house, no lineage, and no known background \u2014 yet someone paid 'a lot' to protect him. She finds his existence an anomaly in the Drow power structure.",
+    "fact": "Kaelira Duskryn is a Drow mercenary who, alongside her sister Nym, was contracted to protect Daz; she expresses professional confusion at the inexplicable scale of investment in a non-noble outsider and dismisses Daz's self-mythologizing as typical drow delusion.",
     "source_quote": "That is an excellent question. You don't belong to any noble house, your background is a complete mystery, you suddenly show up, and all of a sudden, we're contracted to protect a nobody.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Daz",
-    "fact": "Daz is an unaffiliated Drow with no known noble house, lineage, or documented background. He is the subject of a high-value mercenary contract in Menzoberranzan despite being a 'nobody' in the eyes of the Drow elite. He is being hunted by House Mizzrym and House T'sarran, yet survived an extraction attempt without aid. He is uncertain why he is worth such expenditure and questions whether his origins hold hidden significance.",
+    "fact": "Daz is a non-noble, background-less Drow who has been the target of a high-value protective contract from an unknown patron in Menzoberranzan, and he is actively questioning why such resources were expended on him.",
     "source_quote": "I literally have no idea why there's all this focus on me.",
     "quote_verified": true
   },
   {
     "type": "faction",
-    "subject": "House Mizzrym",
-    "fact": "House Mizzrym is a Drow noble house in Menzoberranzan that has targeted Daz for elimination. It is one of two primary threats named in the mercenary contract, indicating active hostility toward him.",
-    "source_quote": "House Mizzrym. House T'sarran. Those were the parameters.",
-    "quote_verified": true
+    "subject": "House Ilvara",
+    "fact": "House Ilvara is a drow noble house identified as a threat to Daz, and was one of the two primary targets the Duskryn sisters were contracted to protect against.",
+    "source_quote": "Hired to protect me \u2014 specifically, me \u2014 from Ilvara's House and from the T'sarran goons we'd just finished burning.",
+    "quote_verified": false
   },
   {
     "type": "faction",
     "subject": "House T'sarran",
-    "fact": "House T'sarran is a Drow noble house in Menzoberranzan that has targeted Daz for elimination. It is one of two primary threats named in the mercenary contract, and the Duskryn sisters indicated they were prepared to handle its agents personally if needed.",
-    "source_quote": "House Mizzrym. House T'sarran. Those were the parameters.",
-    "quote_verified": true
+    "fact": "House T'sarran is a drow noble house identified as a threat to Daz, and was one of the two primary targets the Duskryn sisters were contracted to protect against; the sisters indicated they were prepared to handle them personally if necessary.",
+    "source_quote": "Hired to protect me \u2014 specifically, me \u2014 from Ilvara's House and from the T'sarran goons we'd just finished burning.",
+    "quote_verified": false
   },
   {
     "type": "faction",
-    "subject": "Ilvara's House",
-    "fact": "Ilvara's House is a Drow noble house referenced as a threat to Daz, though it was not directly named in the final contract terms. The Duskryn sisters imply it was initially considered a danger, but Daz\u2019s own actions neutralized it.",
-    "source_quote": "We hoped that you'd be smart enough to avoid Ilvara... well, we could have handled House T'sarran and whatever goons they threw at you.",
-    "quote_verified": true
+    "subject": "House Mizzrym",
+    "fact": "House Mizzrym is a drow noble house named as one of the two threats the Duskryn sisters were contracted to protect against, alongside House T'sarran.",
+    "source_quote": "Two threats named, she said. House Mizzrym. House T'sarran.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "T'sarran goons",
+    "fact": "T'sarran goons are non-noble enforcers or mercenaries associated with House T'sarran, identified as a threat to Daz and previously engaged by the party.",
+    "source_quote": "Hired to protect me \u2014 specifically, me \u2014 from Ilvara's House and from the T'sarran goons we'd just finished burning.",
+    "quote_verified": false
   },
   {
     "type": "faction",
     "subject": "Lolth Cult (Asha)",
-    "fact": "Asha is a Lolth cultist devotedly faithful and genuinely unaware of Daz\u2019s true nature. She is dismissed by the Duskryn sisters as a trivial threat \u2014 a low-level initiate whose elimination would require seconds, not strategy.",
-    "source_quote": "If Daz can't protect himself from a low-level cult initiate of Lolth, then quite frankly, whoever paid for his survival deserves to lose his money.",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "T'sarran goons",
-    "fact": "T'sarran goons are low-ranking agents or enforcers of House T'sarran, deployed as disposable threats against Daz. They were burned by Daz\u2019s party in a prior extraction attempt, indicating his capability to handle direct violence.",
-    "source_quote": "the T'sarran goons we'd just finished burning.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "Extraction Contract",
-    "fact": "The extraction contract is a document produced by Daz\u2019s party that details the terms of an attempted operation. It was central to the Duskryn sisters\u2019 assessment of the threats and served as evidence of Daz\u2019s survival against House T'sarran\u2019s agents.",
-    "source_quote": "Kaelira gestured toward the scorched remnants of the extraction contract the party had produced \u2014 the document that had apparently been at the center of all this.",
+    "fact": "Asha is a devoted Lolth cultist who is genuinely faithful but thoroughly deceived about Daz's identity; the Duskryn sisters consider her a negligible threat compared to noble houses.",
+    "source_quote": "When the subject of Asha came up \u2014 our own Lolth cultist, devotedly genuine in her faith and thoroughly deceived about mine \u2014 Nym dismissed it with a kind of elegant indifference...",
     "quote_verified": false
   },
   {
     "type": "event",
-    "subject": "Extraction Attempt",
-    "fact": "An extraction attempt was made against Daz by agents of House T'sarran and possibly House Mizzrym. Daz and his party successfully burned the goons involved, neutralizing the threat without outside aid.",
-    "source_quote": "the T'sarran goons we'd just finished burning.",
+    "subject": "contract activation",
+    "fact": "A high-value protective contract was activated in Menzoberranzan to safeguard Daz, a non-noble outsider, from House Ilvara and House T'sarran, despite his lack of status or lineage.",
+    "source_quote": "Someone had paid for this. Someone who knew I was here, knew who was hunting me, and knew enough to contract professionals rather than handle it directly.",
     "quote_verified": true
   },
   {
+    "type": "event",
+    "subject": "extraction engagement",
+    "fact": "The party previously engaged and burned T'sarran goons, an event that preceded the activation of the Duskryn sisters' protective contract and likely triggered the need for professional intervention.",
+    "source_quote": "Hired to protect me \u2014 specifically, me \u2014 from Ilvara's House and from the T'sarran goons we'd just finished burning.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "extraction contract",
+    "fact": "The extraction contract is a document produced by the party that appears to have been central to the events leading to the Duskryn sisters' involvement; Kaelira examined it closely and expressed puzzlement at the investment it represented.",
+    "source_quote": "Kaelira gestured toward the scorched remnants of the extraction contract the party had produced \u2014 the document that had apparently been at the center of all this...",
+    "quote_verified": false
+  },
+  {
     "type": "thread",
-    "subject": "Daz's Origin",
-    "fact": "The mystery of Daz\u2019s origin \u2014 why a 'nobody' with no noble house or lineage is the target of a high-value mercenary contract \u2014 remains unresolved. The Duskryn sisters suspect it is a political game by the houses, but Daz himself has no knowledge of his past.",
+    "subject": "mystery patron",
+    "fact": "An unknown patron in Menzoberranzan has paid a substantial sum to contract the Duskryn sisters to protect Daz, a non-noble individual with no known lineage \u2014 raising the question of why such resources were allocated to him.",
     "source_quote": "Do you know how much money that required us to get, for us to do? A lot. Like, they interrupt you. A lot.",
     "quote_verified": true
   },
   {
     "type": "thread",
-    "subject": "Unknown Employer",
-    "fact": "An unknown party in Menzoberranzan paid a substantial sum to contract the Duskryn sisters to protect Daz. The identity, motives, and resources of this employer remain concealed, creating a persistent narrative thread of intrigue.",
-    "source_quote": "Someone had paid for this. Someone who knew I was here, knew who was hunting me, and knew enough to contract professionals rather than handle it directly.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "The Three Bravos",
-    "fact": "The Duskryn sisters\u2019 three 'bravos' after Daz\u2019s survival are interpreted as insincere \u2014 a professional mask for disinterest. This behavioral detail suggests their engagement was purely contractual, not personal.",
-    "source_quote": "Three *bravos*. I have found, as a general principle, that a third *bravo* is never sincere.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Menzoberranzan",
-    "fact": "Menzoberranzan is the Drow city-state where the mercenary contract was issued and where the power structures of noble houses govern life and death. Daz\u2019s lack of noble affiliation makes him an anomaly in this society, yet he is still targeted and protected at great cost.",
-    "source_quote": "Hired in Menzoberranzan. Hired to protect me \u2014 specifically, *me* \u2014 from Ilvara's House and from the T'sarran goons we'd just finished burning.",
+    "subject": "Daz's true identity",
+    "fact": "Daz's origins are completely unknown, and his sudden appearance alongside a high-value protective contract has led the Duskryn sisters to suspect either a noble house game or his own self-delusion \u2014 but the truth remains unconfirmed.",
+    "source_quote": "Yes, yes, yes, that's what every orphan thinks. Do you have daddy issues? Do you have mommy issues? Every drow thinks there's some noble things.",
     "quote_verified": true
   },
   {
     "type": "date",
-    "subject": "Session Date",
-    "fact": "The events occurred during a session in which Daz\u2019s identity and value were interrogated by the Duskryn sisters. The temporal anchor is implied by the narrative\u2019s immediacy and the reference to 'this moment' as the turning point in the threat assessment.",
-    "source_quote": "that list had, until approximately this moment, been empty.",
-    "quote_verified": true
+    "subject": "session date",
+    "fact": "The events described occurred during a session in which the party engaged T'sarran goons, activated a protective contract, and interacted with the Duskryn sisters \u2014 the timeline is anchored to these sequential actions.",
+    "source_quote": "Hired to protect me \u2014 specifically, me \u2014 from Ilvara's House and from the T'sarran goons we'd just finished burning.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "T'sarran goons",
+    "fact": "T'sarran goons are hostile non-noble enforcers associated with House T'sarran, encountered and burned by the party prior to the Duskryn sisters' intervention; they are treated as a tactical hazard rather than a strategic threat.",
+    "source_quote": "Hired to protect me \u2014 specifically, me \u2014 from Ilvara's House and from the T'sarran goons we'd just finished burning.",
+    "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Thorin",
-    "fact": "Thorin is a member of Daz\u2019s party who attempted to retain the Duskryn sisters for continued protection. He asked directly about cost, but was met with an unyielding refusal that implied his group\u2019s resources were insufficient.",
-    "source_quote": "Thorin, to his credit, tried to retain them. He asked what it would cost.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "Mercenary Contract Terms",
-    "fact": "The contract terms are narrowly defined: protect Daz from other Drow factions. The sisters are not obligated to ensure his survival beyond that, nor to prevent harm from non-house threats. Their duty ends where the contract ends.",
-    "source_quote": "Our terms of our contract were to make sure that the other drow factions didn't get you killed.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "Bond Payment",
-    "fact": "The Duskryn sisters are operating under a bond system \u2014 they will be paid upon successful protection of Daz. If he dies, they risk losing their payment and facing consequences from their employer. This creates an implicit threat if Daz dies prematurely.",
-    "source_quote": "If you haven't eliminated all the other factions, and I go and get myself killed in the next 15 minutes, and you guys go and collect on the bond, and then your employer finds out \u2014 it's not gonna be a good day for you.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "The Price You Cannot Afford",
-    "fact": "The Duskryn sisters refuse to disclose the cost of their services, stating it is a price Daz\u2019s party 'cannot afford.' This implies either financial, moral, or metaphysical cost beyond coin \u2014 and that their employer\u2019s payment is tied to something far more dangerous than gold.",
-    "source_quote": "That is a fee... that is a price you cannot afford.",
+    "fact": "Thorin attempted to retain the services of the Duskryn sisters after their contract was fulfilled, asking about cost \u2014 a request met with a definitive refusal that implied their fee was beyond the party's means.",
+    "source_quote": "Thorin, to his credit, tried to retain them. He asked what it would cost. Nym's answer was three words and they landed like a portcullis.",
     "quote_verified": true
   }
 ]

@@ -1,23 +1,22 @@
 ---
 name: Nibbles
 type: npc
-n_facts: 1
+n_facts: 2
 chapters: 59-59
 ---
 
 ### Nibbles
 
-- **Current status:** Alive  
-- **Current location:** Unknown (last observed working alongside Leuwin)  
-- **Allegiance/faction:** Unknown (associated with Leuwin, but no formal faction named)  
-- **Current possessions / notable items, spells, feats, wounds:** None specified  
-- **Current assignment / role:** Works alongside Leuwin; served as a witness to the theft of a dangerous toxin  
-- **Key relationships:** Works alongside Leuwin  
-- **Defining recent action:** Witnessed the entire sequence of events leading to the theft of a dangerous toxin; capable of speech when incentivized with nuts  
+- **Current status**: Alive  
+- **Current location**: Unspecified (last observed in Leuwin’s greenhouse)  
+- **Allegiance/faction**: Assistant to Leuwin  
+- **Current possessions / notable items**: None explicitly stated beyond access to nuts used as bargaining tools  
+- **Current assignment / role**: Key witness and observer for Leuwin; serves as an informant on intrusions in the greenhouse  
+- **Defining recent actions**: Witnessed and confirmed the presence and actions of a drow, gnome (Fheminor), dark-skinned elf (A'lai), and a dragonborn who shattered a vial of dangerous toxin during a coordinated theft; provided critical testimony that exposed the incident  
+- **Revealed motivations or secrets**: Motivated by nuts; demonstrates clear understanding of humanoids and their actions through nonverbal communication  
 
 ## Uncertainty
-- Exact current location of Nibbles  
-- Whether Nibbles is still actively working with Leuwin (no later chapter to confirm continuation)  
-- Whether Nibbles retains the ability to speak without nut incentives (only confirmed when incentivized)  
-- Identity or nature of the "dangerous toxin" and Nibbles' role beyond witnessing  
-- Any possessions, wounds, or special abilities beyond speech under incentive
+- Exact current location of Nibbles (only known to be in the greenhouse during the event; no update on departure or relocation)  
+- Whether Nibbles still resides with or reports directly to Leuwin post-event (no later chapter confirms ongoing association)  
+- Whether the dragonborn’s actions were intentional sabotage or accidental (quote says “something went *bling* and shuddered,” but intent is ambiguous)  
+- Identity or role of the “unfriendly girl gnome” and “dark-skinned elf” beyond names (Fheminor, A'lai) — no further context on their involvement or current status

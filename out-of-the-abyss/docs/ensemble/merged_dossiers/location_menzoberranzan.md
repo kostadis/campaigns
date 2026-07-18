@@ -1,70 +1,63 @@
-<!-- source: location_menzoberranzan.md -->
-
-
----
-
 ---
 name: Menzoberranzan
 type: location
-n_facts: 20
+n_facts: 16
 chapters: 1-60
 ---
 
 ### Menzoberranzan
 
-Menzoberranzan is a dominant drow city-state located to the north of the Underdark caverns, governed by noble houses that wield power through violence, lineage, ritual, and absolute loyalty to house structure. It is a society where survival depends on reading body language, detecting contradictions in speech, and exploiting silence, omission, and defaced texts as tools of control. Power is maintained through betrayal, surveillance, and the total erasure of enemies — even children are trained to act with lethal reflexes. The city is infamous for enslaving others, akin to the Duergar, and treats destructive magic as the only worthy art, shaping its Evokers like Daz. 
-
-The Voucher of the Varmint is recognized as a mark of friendship among outcasts and wererats throughout the Underdark, including in Menzoberranzan. Mercenary contracts are issued here, and the city has demonstrated the capacity to spend generously to protect individuals of no apparent strategic value — such as Daz, a male drow apostate with no noble affiliation — at great cost, suggesting hidden agendas or powerful patrons within its nobility. History is rewritten as administrative efficiency, and blackmail is treated as a career. The city resolves accumulated enemies proactively, ensuring no single threat grows beyond control.
-
-Daz, trained as an Evoker in Menzoberranzan, carries its lessons in surgical attention to timing and decision-making: “Know what you hold before you commit to playing it.” Ilvara, a drow operative, is driven by fear of becoming a Drider unless she reaches Menzoberranzan, indicating the city remains the ultimate arbiter of drow fate and social standing.
+- **Current status**: Active, sovereign drow city-state.
+- **Location**: Northern cavern, accessible via Darklake route; central hub in the Underdark.
+- **Allegiance/Faction**: Governed by powerful noble houses; operates as a theocratic, oligarchic drow state under Lolth’s influence.
+- **Current possessions / notable items**: Not applicable (location).
+- **Spells, feats, wounds**: Not applicable (location).
+- **Current assignment / role**: Center of political, economic, and magical power in the Underdark; functions as a nexus for illicit contracts, information control, and house-based warfare.
+- **Key relationships**: 
+  - Source of apostates like Daz, who fled its lethal hierarchy.
+  - Recognized by outcasts and wererats as a place where the Voucher of the Varmint is valid.
+  - Ilvara’s destination and origin of her survival; her failure to reach it risks transformation into a Drider.
+  - Operates through layers of deniability in financial and political transactions.
+- **Defining recent actions**:
+  - Maintains rigid house-based hierarchy with lethal consequences for dissent or failure.
+  - Enforces absolute extermination of rival houses — no survivors permitted, even children.
+  - Weaponizes language, record-keeping, and silence as tools of control and legal enforcement.
+  - Functions as a hub for hidden contracts, protection rackets, and information warfare.
+- **Revealed motivations or secrets**:
+  - Power is sustained through calculated betrayal, suppression of individual identity, and systemic extermination.
+  - The city selects for survivors who no longer recognize themselves as such.
+  - Anonymity in transactions signals high stakes — illegality, embarrassment, or existential danger.
+  - Linguistic precision is enforced as law; deviations are treated as crimes.
 
 ## Uncertainty
-- The current ruling house or matron mother is not named or referenced in any fact.
-- The current state of the city’s political stability (e.g., whether a house has fallen or risen recently) is unmentioned beyond general power structures.
-- The identity of the “someone” who spent generously to protect Daz is unspecified.
-- Whether Menzoberranzan currently controls or occupies Darklake is unclear — only that Darklake is a detour *to* Menzoberranzan.
-- The current status of the T’sarran goons or Ilvara’s House after the events of ch53 is not updated beyond their prior antagonism.
-- No recent event (e.g., destruction, coup, ritual) is confirmed to have occurred in Menzoberranzan since ch53, despite references to its systemic violence.
+- The current ruling house or high priestess is not named.
+- Whether Menzoberranzan has recently suffered a house collapse or internal upheaval (ch55’s emphasis on extermination suggests recent activity, but no specific event is named).
+- The exact status of Ilvara’s pursuit — whether she is still en route, captured, or dead — is unknown and not confirmed as current.
+- Whether the destruction of Velkynvelve (ch33) has altered Menzoberranzan’s political landscape is implied but not confirmed.
+- No current population figures, landmarks, or named districts are provided.
 
 ---
 
 <!-- source: faction_menzoberranzan.md -->
 
-
----
-
 ---
 name: Menzoberranzan
 type: faction
-n_facts: 11
+n_facts: 9
 chapters: 45-60
 ---
 
 ### Menzoberranzan
 
-**Current status:** Active and influential drow city-state.  
-**Current location:** Underdark, though its operational reach extends into Candlekeep and beyond.  
-**Allegiance/faction:** Ruling drow house oligarchy governed by rigid hierarchy, transactional loyalty, and systemic betrayal. Operates as a self-correcting, lethal political system.  
-**Current possessions / notable items:** Not applicable (faction-level entity).  
-**Current assignment / role and key relationships:**  
-- Maintains a covert patronage network funding A'lai’s survival.  
-- Has operatives embedded within Candlekeep’s hierarchy, using blackmail and silence as tools of control.  
-- Functions as a model of calculated survival and lethal efficiency; its methods are recognized and referenced by Daz and Sylvira as benchmarks for political manipulation.  
-- Suspected of influencing or enabling the framing of Sylvira and the conspiracy around Janussi’s death through psychological manipulation and misdirection.  
-
-**Defining recent actions:**  
-- Actively operates a shadow network in Candlekeep, leveraging financial insulation and covert transactions to obscure alliances and purchases tied to dangerous or illegal activities.  
-- Continues to enforce its core doctrine: failure to eliminate all threats to a house results in annihilation; accumulation of enemies is resolved by the city itself through lethal, impersonal mechanisms.  
-- Its cultural and tactical signatures — ledger-based power tracking, noticing linguistic inconsistencies, and strategic patience — are being weaponized or recognized by former drow (e.g., Daz) and outsiders investigating its influence.  
-
-**Revealed motivations or secrets:**  
-- Survival is not individual but systemic; the city ensures its own continuity by eliminating instability before it can fester.  
-- Its influence is not merely territorial but ideological — its methods of control, deception, and erasure are exported and adapted beyond its walls.  
-- It does not merely tolerate betrayal — it institutionalizes it as a mechanism of power maintenance.  
+**Current status:** Active drow city-state.  
+**Current location:** Underdark (unspecified, but implied as the ancestral and operational center of drow power).  
+**Allegiance/faction:** Ruling drow house oligarchy; operates as a self-sustaining, hyper-competitive political entity.  
+**Current possessions / notable items, spells, feats, wounds:** Not applicable (faction-level entity).  
+**Current assignment / role and key relationships:** Maintains dominance through systemic elimination of rival houses, psychological manipulation, and transactional loyalty. Exerts covert influence beyond its walls — implied as the hidden patron behind A’lai’s survival and operations, providing covert funding, drow network protection, and enabling blackmail as a career strategy. Trains spellcasters in surgical temporal assessment and anticipatory decision-making. Enforces extreme financial insulation for illicit or dangerous transactions.  
+**Defining recent actions:** Orchestrated the survival and operational capacity of A’lai through clandestine support. Maintains internal stability by annihilating any house or individual that accumulates too much power or threatens the balance. Its methods of psychological manipulation and deceit are recognized and referenced by outsiders (e.g., Sylvira, Daz) as signature traits — though recent attempts to replicate its tactics have been deemed inefficient or poorly executed.  
 
 ## Uncertainty
-- Contradiction in attribution: Ch60 states Menzoberranzan’s influence is suspected in Sylvira’s framing, but also quotes Sylvira dismissing the framing as a “poor application” of Menzoberranzan’s methods — unclear whether the city was involved at all, or if the act was mimicked by others.  
-- Unclear if the operatives embedded in Candlekeep are direct agents of Menzoberranzan’s ruling houses, or independent actors inspired by its culture.  
-- No current information on which ruling house (if any) is主导 the Candlekeep operation.  
-- No confirmation whether Menzoberranzan’s leadership is aware of or directly ordered the framing of Sylvira, or if it’s a rogue or independent application of its tactics.  
-- No current status on whether Menzoberranzan’s internal power structure has changed (e.g., house upheavals, matron mothers replaced).
+- Contradiction between [ch60] statements: Sylvira initially suspected Menzoberranzan’s influence in her framing, then dismissed the tactic as “poor” — but it is unclear whether this dismissal reflects a genuine misattribution or a deliberate cover-up.  
+- The exact nature of Menzoberranzan’s direct involvement with A’lai is implied but not confirmed — no verbatim source names Menzoberranzan as the patron, only that its “influence is felt.”  
+- Whether Menzoberranzan’s training in “reading the moment before action” is still actively taught to all spellcasters, or only preserved as a revered ideal among former members like Daz, is ambiguous.  
+- The current leadership structure or ruling house of Menzoberranzan is not specified.

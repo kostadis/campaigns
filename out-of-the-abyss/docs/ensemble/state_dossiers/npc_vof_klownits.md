@@ -1,22 +1,22 @@
 ---
 name: Vof Klownits
 type: npc
-n_facts: 3
-chapters: 2-56
+n_facts: 2
+chapters: 2-5
 ---
 
 ### Vof Klownits
 
-- **Current status:** Alive  
+- **Current status:** Alive (implied by continued reference)  
 - **Current location:** Unknown  
 - **Allegiance/faction:** None specified  
 - **Current possessions / notable items, spells, feats, wounds:** None specified  
 - **Current assignment / role:** Sage; author of an opus containing the maxim *"No plan survives encounter with the enemy."*  
-- **Key relationships:** Referenced by Imbros (ch56); previously referenced by Zalthir (ch02, ch05)  
-- **Defining recent actions:** His opus continues to be cited as authoritative wisdom, most recently by Imbros in chapter 56.
+- **Key relationships:** Referenced by Zalthir (who has never read his opus)  
+- **Defining recent actions:** His opus continues to be cited as authoritative wisdom, though unread by Zalthir  
 
 ## Uncertainty
-- The content of Vof Klownits’s opus beyond the single maxim is unknown.  
-- Imbros’s specific context for referencing the opus is not provided.  
-- Whether Zalthir or Imbros has ever met or interacted with Vof Klownits is unconfirmed.  
-- Vof Klownits’s current whereabouts, activities, or physical condition are not stated.
+- Exact current location of Vof Klownits is unknown.  
+- Whether Vof Klownits is still actively writing, teaching, or otherwise engaged is unspecified.  
+- The content or existence of his full opus beyond the one maxim is unconfirmed.  
+- No evidence confirms whether Zalthir has read the opus since chapter 5 — the last known state remains “never read.”

@@ -1,78 +1,42 @@
-<!-- source: npc_gartokkar_xundorn.md -->
-
-
----
-
 ---
 name: Gartokkar Xundorn
 type: npc
-n_facts: 20
+n_facts: 26
 chapters: 15-29
 ---
 
 ### Gartokkar Xundorn
 
 **Current status:** Alive  
-**Current location:** Gracklstugh  
-**Allegiance/faction:** Custodian of the Flame and leader of the Keepers of the Flame (secretly manipulates Themberchaud)  
-**Current possessions / notable items:**  
-- Authority badge granting command over Duergar Stone Guards  
-- The dragon egg (in physical custody as of ch28)  
-- Non-disclosure agreement contract with the party (ch28)  
-
-**Current assignment / role and key relationships:**  
-- Officially serves as Themberchaud’s intermediary and chief priest of the Keepers of the Flame.  
-- Secretly controls Themberchaud, manipulating the dragon into believing he is the master while the Keepers plan his replacement via the stolen egg.  
-- Actively seeks proof of Derro demonic worship (specifically the statue of Demogorgon) to justify genocide and consolidate political power.  
-- Negotiates with the party for services, demanding gold (2000 gp) and confidentiality, with threats of pursuit if betrayed.  
-- Has a working, cautious relationship with Grygum (cleric of Bahamut), seeking his religious authority to interpret the egg’s occult markings.  
-- Warns the party of threats: Deepking’s assassins from Menzoberranzan, the Grey Ghosts, and the Stone Guard’s hunt for the “Ember Vanguard.”  
+**Current location:** Gracklstugh, likely within or near the Keepers of the Flame headquarters  
+**Allegiance/faction:** Leader of the Keepers of the Flame; secretly manipulates Themberchaud; operates as a high-ranking advisor to the Deepking of Gracklstugh  
+**Current possessions / notable items:** The dragon egg (in his custody since ch28), occult-marked and guarded; likely holds official badges of the Keepers of the Flame  
+**Current assignment / role:** Custodian of the Flame — oversees Themberchaud’s care and the city’s furnace system; secretly controls Themberchaud under the guise of service; negotiates covert operations for political gain; enforces internal security and suppresses dissent; holds authority over non-Duergar through threats of imprisonment or the Stone Guards  
+**Key relationships:**  
+- Manipulates Themberchaud, who believes he is in control  
+- Reports to and serves the Deepking of Gracklstugh (though the Deepking is unaware of Gartokkar’s true autonomy)  
+- Engaged in a non-disclosure agreement with Grygum regarding the egg  
+- Warns the party of the Deepking’s shadow assassins from Menzoberranzan  
+- Seeks the statue of Demogorgon as proof to justify genocide against the Derro  
+- Has recently accepted the dragon egg from the party and consulted Grygum (cleric of Bahamut) regarding its occult markings  
 
 **Defining recent actions:**  
-- Accepted delivery of the dragon egg from the party (ch28).  
-- Expressed alarm at the egg’s occult markings and consulted Grygum for interpretation.  
-- Issued warnings that Gracklstugh is on high alert, with multiple factions (Stone Guard, Grey Ghosts, Deepking’s agents) actively hunting the “Ember Vanguard.”  
-- Maintained a merchant-like approach to power: demanding payment, enforcing non-disclosure, and leveraging threats for compliance.  
+- Accepted delivery of the dragon egg from the party (ch28)  
+- Expressed fear over the egg’s occult markings and sought clerical insight from Grygum  
+- Warned the party that Gracklstugh is on high alert, with the Stone Guard, Grey Ghosts, and Deepking all searching for the “Ember Vanguard” (ch29)  
+- Maintained a mercantile approach to power, demanding payment (2000 gp) and proof (Demogorgon statue) for services, with threats of retaliation for betrayal (ch18)  
+- Continues to enforce city ordinances with discretionary severity, using the threat of Stone Guards to coerce compliance (ch16)  
 
-**Revealed motivations or secrets:**  
-- The Keepers of the Flame are not servants of Themberchaud — they are his puppeteers, preparing to replace him with the egg.  
-- Gartokkar is willing to ignite a genocidal war against the Derro to eliminate rivals and secure dominance.  
-- He fears the egg’s occult nature and may be uncertain whether the Keepers’ plan is still viable.  
-- He is deeply invested in secrecy and control, using fear (Stone Guards, Deepking’s agents) and financial leverage to ensure compliance.  
-
-## Uncertainty
-- Contradiction between [ch15] and [ch28]: Is Gartokkar a priest/official (ch15, ch16, ch18) or an artisan (ch28)? Later chapters (ch28–29) treat him as custodian of the egg and authority figure — “artisan” may be a misstatement or role descriptor, not a contradiction in status.  
-- Unclear if Gartokkar still holds the badge(s) mentioned in ch15–16; no later chapter confirms or denies its current possession, though his authority implies it.  
-- Ambiguity in attribution: [ch16] says Gartokkar “reveals that Themberchaud believes he is in control, but the Keepers are manipulating him,” while [ch16] and [ch18] imply Gartokkar is the sole leader — is he acting alone or as a representative of a council? The text does not clarify internal structure of the Keepers.  
-- Uncertain whether the egg is still in his possession at the end of ch29 — it was delivered in ch28, but no subsequent chapter confirms it remains with him.  
-- Unclear if Gartokkar is aware the party is the Ember Vanguard — he warns them about the hunt for them, but whether he suspects their true identity is not stated.
-
----
-
-<!-- source: monster_gartokkar_xundorn.md -->
-
-
----
-
----
-name: Gartokkar Xundorn
-type: monster
-n_facts: 1
-chapters: 23-23
----
-
-### Gartokkar Xundorn
-
-**Current status:** Alive  
-**Current location:** Unknown (not specified)  
-**Allegiance/faction:** Manipulated by the Cult (serves their ends)  
-**Current possessions / notable items, spells, feats, wounds:** None specified  
-**Current assignment / role and key relationships:** Instrument of the Cult’s agenda; driven by a desire for genocidal war against the derro  
-**Defining recent actions:** Desires and is being manipulated to instigate a genocidal war against the derro, framed by the Cult as the “first cleansing.”  
-**Revealed motivations or secrets:** Motivated by a fanatical desire to exterminate the derro; unaware (or unwilling to acknowledge) that his goals are being exploited by the Cult.
+**Revealed motivations/secrets:**  
+- Gartokkar is not serving Themberchaud — Themberchaud serves him. The Keepers of the Flame control the dragon through ritual and deception (ch16)  
+- The dragon egg is held as insurance against Themberchaud’s potential failure or rebellion  
+- He seeks to ignite a genocidal war against the Derro by fabricating evidence of demonic worship (ch18)  
+- He operates with ruthless pragmatism: willing to kill, manipulate, and blackmail to maintain power and secrecy  
+- He fears the egg’s occult markings and may be uncertain of their origin or power — a rare moment of vulnerability  
 
 ## Uncertainty
-- Exact location of Gartokkar Xundorn is unspecified.  
-- Whether Gartokkar is aware he is being manipulated by the Cult is unclear.  
-- No information on current physical condition, possessions, spells, or companions.  
-- The Cult’s identity or structure is not defined in the provided facts.
+- Contradiction: ch23 labels Gartokkar as “the Deepking of Gracklstugh,” while all other chapters consistently identify him as the Custodian of the Flame and advisor to the Deepking. The later chapters (ch28–29) reinforce his role as advisor, not ruler — so ch23 likely misidentifies him.  
+- Ambiguity: It is unclear whether Gartokkar still holds the original offer of safe passage to Zalthir (ch15) — no later chapter confirms its status.  
+- Unclear attribution: ch16 says Gartokkar is a “Duergar priest,” while ch28 calls him a “Duergar artisan.” These are not mutually exclusive, but the exact nature of his ritual vs. craft duties is ambiguous.  
+- Unclear current state: Whether the egg remains in his possession after ch28 is assumed but not explicitly confirmed in ch29 — though no evidence suggests it was taken.  
+- Unclear chronology: The sequence of events between demanding the Demogorgon statue (ch18) and receiving the egg (ch28) is not fully connected — was the statue ever obtained?

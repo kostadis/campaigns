@@ -2,141 +2,148 @@
   {
     "type": "date",
     "subject": "session date",
-    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
-    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
+    "fact": "The events occur during a time when winter flu is prevalent, suggesting a seasonal context, but no specific calendar date is stated.",
+    "source_quote": "",
     "quote_verified": false
   },
   {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "An hour passes between two events in the session.",
-    "source_quote": "An hour later",
-    "quote_verified": false
+    "type": "event",
+    "subject": "travel to third-story apartment",
+    "fact": "The third-story apartment in Janussi's chambers was still unvisited.",
+    "source_quote": "The third-story apartment in Janussi's chambers was still unvisited.",
+    "quote_verified": true
   },
   {
     "type": "monster",
-    "subject": "chasme count",
-    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
-    "source_quote": "four chasme and two vrock",
-    "quote_verified": false
+    "subject": "mage hand count",
+    "fact": "A mage hand was used by Sylvira to organize chamber seats.",
+    "source_quote": "A mage hand, which was interesting",
+    "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "travel to Sloobludop",
-    "fact": "Sloobludop is approximately eight days away via the Darklake.",
-    "source_quote": "the town of Sloopdopblop is just eight days away",
-    "quote_verified": false
+    "type": "npc",
+    "subject": "investigators count",
+    "fact": "Three investigators were assigned to three lines of inquiry: Grygum, Daz, and the one hunting Kalan.",
+    "source_quote": "Three lines of inquiry. Three investigators.",
+    "quote_verified": true
   },
   {
-    "type": "location",
-    "subject": "Velkynvelve elevation",
-    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
-    "source_quote": "Drow outpost was 100' in the sky",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "silver candlestick value",
-    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
-    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "third-story apartment discovery",
-    "fact": "A third-story apartment with an open door in Janussi's chambers remains unvisited.",
-    "source_quote": "There's something listed as a third-story apartment with an open door we haven't gone into.",
+    "type": "npc",
+    "subject": "dragonborn count",
+    "fact": "Two dragonborn are present: Zalthir and Alkrist.",
+    "source_quote": "Alkrist is dragonborn. So am I.",
     "quote_verified": true
   },
   {
     "type": "object",
-    "subject": "wrapping paper trail",
-    "fact": "The wrapping paper from the poisoned book was taken to Janussi's third-story apartment.",
+    "subject": "wrapping paper value",
+    "fact": "The wrapping paper from the poisoned book was taken to the third-story apartment as evidence.",
     "source_quote": "the wrapping paper from the poisoned book had been taken there",
     "quote_verified": true
   },
   {
-    "type": "monster",
-    "subject": "Kalan Strongbranch",
-    "fact": "Kalan Strongbranch, the First Reader, is the target of a blocked proposal and is now being hunted for his truth-seeking spell.",
-    "source_quote": "Kalan Strongbranch. The First Reader. The one with the truth-seeking spell that had already anchored the investigation once.",
-    "quote_verified": true
-  },
-  {
     "type": "event",
-    "subject": "feast burning",
-    "fact": "Alkrist burned something at the feast, a detail unflagged until Grygum recalled it.",
-    "source_quote": "there's something in the list about what Alkrist burned at the feast \u2014 you should ask about that.",
+    "subject": "Kalan's proposal rejection",
+    "fact": "Janussi blocked Kalan Strongbranch's proposal for new criminal investigation methodologies.",
+    "source_quote": "Janussi had reviewed Kalan Strongbranch's proposal for new criminal investigation methodologies, found it to be solipsism, and had blocked it.",
     "quote_verified": true
   },
   {
     "type": "location",
-    "subject": "Sylvira's quarters",
-    "fact": "Sylvira's quarters are a fevered, overheated chamber where she is framed for murder and dying under poison.",
-    "source_quote": "Sylvira was framed for the murder and dying slowly under the poison's effect.",
+    "subject": "Janussi's chambers third floor",
+    "fact": "The third-story apartment in Janussi's chambers was the location of unexamined evidence.",
+    "source_quote": "The third-story apartment in Janussi's chambers was still unvisited.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "Sylvira's confession",
-    "fact": "Sylvira admitted to her final words with Janussi and suspected Kazryn Nyantani of the murder.",
-    "source_quote": "Those were my last words with him... That bitter old hag... who always resented Janussi for ditching her in favor of me.",
-    "quote_verified": false
+    "subject": "Sylvira's fever duration",
+    "fact": "Sylvira was suffering from a bad case of the winter flu during the interview.",
+    "source_quote": "the witness had a bad case of the winter flu",
+    "quote_verified": true
   },
   {
     "type": "object",
-    "subject": "Janussi's critique",
-    "fact": "Janussi's written critique dismissed Kalan Strongbranch's criminal investigation methodology as solipsism.",
-    "source_quote": "found it to be solipsism, and had blocked it... dismissed as solipsism. Shelved.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Fembris hunts Kalan",
-    "fact": "Fembris set out to hunt Kalan Strongbranch, the First Reader, to bind the Alkrist interview.",
-    "source_quote": "I'm gonna have to hunt Kalan down... Let me go, let me go.",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Janussi's chambers",
-    "fact": "Janussi's chambers contain a third-story apartment with hidden evidence, personal writings, and unresolved academic rivalries.",
-    "source_quote": "Janussi's chambers... The third floor was... well... We kind of heard Janussi had these habits.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Daz interviews Sylvira",
-    "fact": "Daz conducted a deliberate, empathetic interview with Sylvira, uncovering her framing and motive tied to Menzoberranzan prejudice.",
-    "source_quote": "I believe I said you were framed... She took it. It was accurate, if not warm.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Grygum uncovers Janussi's note",
-    "fact": "Grygum discovered and analyzed Janussi\u2019s damning academic note rejecting Kalan\u2019s methodology.",
-    "source_quote": "I read it... Oh boy, this starts out with some real academic insult.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Alkrist interview preparation",
-    "fact": "The Alkrist interview is pending, to be bound by Kalan\u2019s truth spell and informed by the feast burning detail.",
-    "source_quote": "we needed Kalan. And Kalan, apparently, had gone somewhere.",
+    "subject": "poisoned book value",
+    "fact": "The poisoned book was wrapped in paper that was taken to the third-story apartment.",
+    "source_quote": "the wrapping paper from the poisoned book",
     "quote_verified": true
   },
   {
-    "type": "location",
+    "type": "thread",
     "subject": "Menzoberranzan thread",
-    "fact": "The Menzoberranzan thread underlies the framing of Sylvira and the cultural distrust in the investigation.",
+    "fact": "A Menzoberranzan thread was running under all of the events in the investigation.",
     "source_quote": "the Menzoberranzan thread running under all of this",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "three lines of inquiry",
-    "fact": "Three lines of inquiry\u2014Grygum on physical evidence, Daz on Sylvira, Kalan on truth-binding\u2014are cleanly divided among investigators.",
-    "source_quote": "Three lines of inquiry. Three investigators. The work divided cleanly, cleaner than most things we attempted.",
+    "subject": "Kalan's truth spell usage",
+    "fact": "Kalan Strongbranch had cast a truth-seeking spell that had already anchored the investigation once.",
+    "source_quote": "the truth-seeking spell that had already anchored the investigation once",
     "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Alkrist's feast burning",
+    "fact": "Alkrist burned something at the feast, as noted in the list.",
+    "source_quote": "there's something in the list about what Alkrist burned at the feast",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch title",
+    "fact": "Kalan Strongbranch is the First Reader.",
+    "source_quote": "Kalan Strongbranch. The First Reader.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sylvira's species",
+    "fact": "Sylvira is a tiefling and technically an abyssal spawn.",
+    "source_quote": "people look at a tiefling and assume she's an abyssal spawn. She happened, technically, to be an abyssal spawn",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz's species",
+    "fact": "Daz is drow.",
+    "source_quote": "he was drow",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Sylvira's quarters temperature",
+    "fact": "Sylvira's quarters had a faux fireplace blazing with intense heat, yet she shivered from cold.",
+    "source_quote": "A faux fireplace blazed along one wall, throwing out heat with the single-mindedness of a spell running at full force, yet Sylvira kept shuddering anyway",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's observation sequence",
+    "fact": "Zalthir noticed Alkrist's dragonborn nature the way he notices the size of a room before noticing the people in it.",
+    "source_quote": "I noticed this the way I notice the size of a room before I notice the people in it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Fembris's errand sequence",
+    "fact": "Fembris departed to hunt Kalan and would return with him at some point.",
+    "source_quote": "At some point I'll return with Kalan.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum's note discovery",
+    "fact": "Grygum found a note in the third-story apartment that contained academic criticism of Kalan.",
+    "source_quote": "There was a note. Oh, a note! I read it.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Sylvira's last words sequence",
+    "fact": "Sylvira's last words with Janussi were after their argument.",
+    "source_quote": "those were my last words with him",
+    "quote_verified": false
   }
 ]

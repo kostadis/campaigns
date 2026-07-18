@@ -2,155 +2,134 @@
   {
     "type": "npc",
     "subject": "Zalthir",
-    "fact": "Zalthir is searching the Readers' Chambers, interpreting clues left by suspects, and relying on Glabbagool the ooze to access what he cannot. He is methodical, observant, and silent in his deductions.",
-    "source_quote": "I went down the list in order, with two corrections.",
-    "quote_verified": true
+    "fact": "Zalthir is searching the Readers' Chambers, having received eight names, and is now focused on interpreting clues left behind by the occupants, including A'lai Aivenmore, Alkrist, Bookwyrm, and others.",
+    "source_quote": "The list came to me as eight names... I asked the only question that mattered.",
+    "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Sylvira Savikas",
-    "fact": "Sylvira Savikas is a suspect whose chambers were skipped over due to her obviousness. Zalthir believes her prominence makes her a red herring, though she may still be involved.",
-    "source_quote": "I'm gonna skip Sylvira for now. Everyone's finger already pointed there.",
+    "fact": "Sylvira Savikas was the first name pointed at by everyone, and Zalthir decided to skip her chambers for now, recognizing her as an obvious but potentially misleading target.",
+    "source_quote": "Sylvira Savikas, whom everyone had already pointed at... I'm gonna skip Sylvira for now.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Daral",
-    "fact": "Daral is suspected of poisoning himself \u2014 a staged act to divert attention. Zalthir considers him a deliberate false trail, likely to become the obvious suspect.",
-    "source_quote": "But Daral's the one who's poisoned himself, right? Skip him and he becomes the obvious suspect, of course \u2014 Thorin would say it dry, and he would be right.",
+    "fact": "Daral is suspected of having poisoned himself, and Zalthir chose to skip his chambers, understanding that leaving him uninvestigated makes him the obvious suspect \u2014 a tactic Thorin would endorse.",
+    "source_quote": "But Daral's the one who's poisoned himself, right?... Skip him and he becomes the obvious suspect, of course \u2014 Thorin would say it dry, and he would be right.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "A'lai Aivenmore",
-    "fact": "A'lai Aivenmore\u2019s chambers contain fine glassware, a large mirror, and a portrait of himself \u2014 signs of vanity and self-obsession. His room was chosen as the first to be examined.",
+    "fact": "A'lai Aivenmore\u2019s chambers were sparse and tasteful, containing fine glassware, good ceramics, a large mirror, and a portrait of himself \u2014 indicating a man who liked to be looked at, including by himself.",
     "source_quote": "A'lai's chambers first. Sparse, tasteful \u2014 fine glassware, good ceramics, a large mirror, and a portrait of himself on the wall.",
     "quote_verified": true
   },
   {
-    "type": "npc",
-    "subject": "Fheminor Scrivenbark",
-    "fact": "Fheminor Scrivenbark wanted the job but left no mark \u2014 implying he may be a background figure or deliberately inconspicuous.",
-    "source_quote": "Fheminor Scrivenbark, who had wanted the job and otherwise left no mark.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Alkrist",
-    "fact": "Alkrist is a suspect who studies poison. His chambers contain sealed glass jars of blistered, pustule-covered dead rats and a spellbook \u2014 evidence of active toxicological research.",
-    "source_quote": "Alkrist next, and Alkrist did not believe in restraint. Lavish furniture, expensive cloth, fashionable art hung to be noticed. His spellbook on the desk. And on the desk beside it, sealed glass jars holding dead rats, their skin blistered and risen into pustules.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Teles Ahvoste",
-    "fact": "Teles Ahvoste wanted the top chair and is linked to the marked book, but his chambers were not explicitly visited \u2014 his influence is inferred through the text.",
-    "source_quote": "Teles Ahvoste, who had also wanted the top chair.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Kazryn Nyantani (Tani)",
-    "fact": "Kazryn Nyantani is the chief cleric, referenced as the final figure in the list. His chambers were not visited, but his role implies spiritual authority over the investigation\u2019s context.",
-    "source_quote": "And Kazryn Nyantani \u2014 Tani \u2014 the chief cleric.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Bookwyrm",
-    "fact": "Bookwyrm is eager to fire the old boss and seat a new one. Her chambers were clean, unremarkable, and yielded no physical evidence \u2014 but the absence of clues is itself significant.",
-    "source_quote": "Bookwyrm last, and by then the tower was fighting me. Her chambers took half the top floor \u2014 comfortable, neatly arranged, no extravagance to it. I got in. I found nothing.",
-    "quote_verified": true
-  },
-  {
-    "type": "faction",
-    "subject": "Readers' Tower",
-    "fact": "The Readers' Tower is the location of the investigation, a place of scholarly or arcane significance where suspects reside and clues are hidden in rooms, objects, and books.",
-    "source_quote": "We moved as one thing through the Readers' Tower.",
-    "quote_verified": false
-  },
-  {
-    "type": "monster",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool is a sentient ooze capable of seeping through narrow spaces and sensing what others cannot. It is loyal to Zalthir and used to access locked areas and detect hidden truths.",
-    "source_quote": "I had Glabbagool. The ooze had come out of the bag eager, the way he is now eager about everything on the surface \u2014 *we're going on a secret mission!*",
-    "quote_verified": true
-  },
-  {
     "type": "object",
-    "subject": "Cage with White Doves",
-    "fact": "A cage designed for five doves holds only two. The wear on three perches and the absence of droppings indicate three birds are missing \u2014 suggesting three messages were sent recently.",
-    "source_quote": "White doves, the kind used to carry messages. The cage was built for five. Two birds sat in it. The feeding troughs, the droppings, the wear on five perches. There had been more than two.",
+    "subject": "dove cage",
+    "fact": "A dove cage in A'lai's chambers was built for five birds, but only two were present \u2014 suggesting three messages had been sent recently, and the absence of the other birds is a significant clue.",
+    "source_quote": "The cage was built for five. Two birds sat in it... There had been more than two. Three messages had gone somewhere, and recently.",
     "quote_verified": false
   },
   {
     "type": "object",
-    "subject": "Jars of Poisoned Rats",
-    "fact": "Sealed glass jars contain dead rats with blistered, pustule-covered skin \u2014 evidence of deliberate poison experimentation, likely by Alkrist.",
+    "subject": "glass jars of poisoned rats",
+    "fact": "Alkrist\u2019s chambers contained sealed glass jars holding dead rats with blistered, pustule-ridden skin \u2014 indicating active study of poison and its effects on the body.",
     "source_quote": "Sealed glass jars holding dead rats, their skin blistered and risen into pustules. I have seen what poison does to a body.",
     "quote_verified": false
   },
   {
     "type": "object",
     "subject": "1001 Tashalian Nights",
-    "fact": "A black leather-bound book with gold filigree, marked with a bookmark on the tale of a commander poisoned by a magic horn coated in Midnight Tears \u2014 directly paralleling the poisoned rats.",
-    "source_quote": "A book \u2014 black leather, stars and gold filigree... *1001 Tashalian Nights.* It had a bookmark. The bookmark sat on the tale of a military commander, poisoned by a gift of surrender \u2014 a magic horn whose mouthpiece had been coated in Midnight Tears.",
+    "fact": "A black leather-bound copy of 1001 Tashalian Nights lay open to the tale of a military commander poisoned by a magic horn coated in Midnight Tears, with a bookmark left precisely on that page.",
+    "source_quote": "A book \u2014 black leather, stars and gold filigree... The bookmark sat on the tale of a military commander, poisoned by a gift of surrender \u2014 a magic horn whose mouthpiece had been coated in Midnight Tears.",
     "quote_verified": false
   },
   {
-    "type": "object",
-    "subject": "Locked Safe",
-    "fact": "A small, impenetrable safe with a one-finger-width opening. Glabbagool cannot enter it. Its contents remain unknown, but its existence suggests hidden evidence.",
-    "source_quote": "Beside it, a locked safe... The opening was a finger's width, no more \u2014 a true safe, not one of the old massive locks a body could pour itself through.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Discovery of Midnight Tears",
-    "fact": "The name 'Midnight Tears' was identified as the poison used on the magic horn in the story, and is now linked to the poisoned rats and missing doves \u2014 forming the core of the investigation\u2019s lead.",
+    "type": "thread",
+    "subject": "Midnight Tears",
+    "fact": "Midnight Tears is a poison referenced in a marked story and associated with a poisoned gift \u2014 now a key thread linking Alkrist\u2019s study of poison to a potential assassination method.",
     "source_quote": "Midnight Tears. I kept the name where I would not lose it.",
     "quote_verified": true
   },
   {
-    "type": "thread",
-    "subject": "Missing Three Doves",
-    "fact": "Three doves are unaccounted for \u2014 suggesting three messages were dispatched. The destination and content of these messages remain unknown, forming a critical unresolved thread.",
-    "source_quote": "Three messages had gone somewhere, and recently. I kept that.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "Identity of the Poisoner",
-    "fact": "The connection between the poisoned rats, the marked book, and the missing doves points to a deliberate pattern \u2014 but the person who orchestrated it remains unidentified.",
-    "source_quote": "A cage missing three birds. Jars of blistered rats. A page marked to a poisoning by gift.",
-    "quote_verified": true
+    "type": "location",
+    "subject": "Alkrist\u2019s chambers",
+    "fact": "Alkrist\u2019s chambers were lavishly furnished, containing expensive cloth, fashionable art, a spellbook, jars of poisoned rats, and a marked copy of 1001 Tashalian Nights \u2014 indicating a man of wealth, intellect, and obsession with poison.",
+    "source_quote": "Alkrist next, and Alkrist did not believe in restraint. Lavish furniture, expensive cloth, fashionable art hung to be noticed. His spellbook on the desk... And on the desk beside it, sealed glass jars...",
+    "quote_verified": false
   },
   {
     "type": "location",
-    "subject": "A'lai's Chambers",
-    "fact": "A'lai's chambers are sparse, tasteful, and filled with objects reflecting self-admiration \u2014 a mirror and portrait. The room is clean, suggesting no hidden traps or weapons, but psychological clues abound.",
-    "source_quote": "A'lai's chambers first. Sparse, tasteful \u2014 fine glassware, good ceramics, a large mirror, and a portrait of himself on the wall.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Alkrist's Chambers",
-    "fact": "Alkrist\u2019s chambers are lavish and contain evidence of toxicological study \u2014 jars of poisoned rats, a spellbook, and a marked book. The room is a laboratory of death.",
-    "source_quote": "Alkrist next, and Alkrist did not believe in restraint. Lavish furniture, expensive cloth, fashionable art hung to be noticed.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Bookwyrm's Chambers",
-    "fact": "Bookwyrm\u2019s chambers occupy half the top floor and are immaculately clean, with no signs of hidden objects, poison, or disturbance \u2014 an absence that suggests deliberate erasure or innocence.",
+    "subject": "Bookwyrm\u2019s chambers",
+    "fact": "Bookwyrm\u2019s chambers occupied half the top floor, were clean and neatly arranged, contained no obvious clues, and were free of poison \u2014 a deliberate absence that itself became information.",
     "source_quote": "Bookwyrm last... I found nothing. Glabbagool tasted the air and found no poison in it. A clean room. That, too, was information.",
     "quote_verified": false
   },
   {
+    "type": "location",
+    "subject": "Readers' Tower",
+    "fact": "The Readers' Tower is a multi-room structure with locked doors and staircases of increasing difficulty, where each chamber holds hidden clues, and access is physically and mentally taxing for the investigator.",
+    "source_quote": "A staircase of locked doors, each step taller than the last... I went down the list in order, with two corrections.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a sentient, shapeless ooze that flows through spaces inaccessible to humans, absorbs knowledge from environments, and assists Zalthir by reading what he cannot understand \u2014 now an integral partner in the investigation.",
+    "source_quote": "I had Glabbagool. The ooze had come out of the bag eager... He flowed where I could not reach; I read what he could not understand.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "locked safe",
+    "fact": "A locked safe in Alkrist\u2019s chambers had an opening no wider than a finger\u2019s width \u2014 too narrow for Glabbagool to penetrate \u2014 and remains unopened, preserving its secret.",
+    "source_quote": "Beside it, a locked safe... The opening was a finger's width, no more \u2014 a true safe... Glabbagool could not thin himself past it.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "reading the bookmarked tale",
+    "fact": "Zalthir read the bookmarked tale in 1001 Tashalian Nights about a commander poisoned by a magic horn coated in Midnight Tears, and connected it to the jars of poisoned rats in Alkrist\u2019s chambers.",
+    "source_quote": "A man with jars of poisoned rats had marked his page on a story about a poisoned gift... I set the book back exactly as it lay.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "missing three doves",
+    "fact": "The absence of three doves from the five-bird cage suggests three messages were dispatched \u2014 a key thread linking A'lai\u2019s chambers to a covert communication network.",
+    "source_quote": "Three messages had gone somewhere, and recently. I kept that.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is referenced as a tactician who understands psychological manipulation in investigations \u2014 specifically that leaving a suspect uninvestigated makes him the obvious suspect.",
+    "source_quote": "Thorin would put it plainly: we aren't hunting Daral, we're keeping him on a hook... Thorin would say it dry, and he would be right.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Brother Heslin",
+    "fact": "Brother Heslin is remembered as a possible instructor in the art of reading meaning from objects \u2014 a skill Zalthir now applies in his investigation, though he did not learn it at the time.",
+    "source_quote": "There was a class for this, somewhere in the monastery \u2014 reading what an object meant rather than what it was. Brother Heslin, maybe, or the tall one who smelled of incense.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "investigation of the Readers' Chambers",
+    "fact": "Zalthir conducted a methodical investigation of eight chambers in the Readers' Tower, uncovering three converging clues: missing doves, poisoned rats, and a bookmarked tale of Midnight Tears \u2014 forming the core of the current lead.",
+    "source_quote": "We had several. A cage missing three birds. Jars of blistered rats. A page marked to a poisoning by gift.",
+    "quote_verified": true
+  },
+  {
     "type": "date",
-    "subject": "session date",
-    "fact": "The events described occur during a single investigation session \u2014 the timeline is compressed into one continuous sequence of discovery and deduction.",
-    "source_quote": "One night. I asked the only question that mattered.",
+    "subject": "one night",
+    "fact": "The entire investigation of the Readers' Chambers occurred over the span of one night, a compressed timeframe that heightens the urgency and intensity of Zalthir\u2019s deductions.",
+    "source_quote": "Eight rooms. One night. I asked the only question that mattered.",
     "quote_verified": true
   }
 ]

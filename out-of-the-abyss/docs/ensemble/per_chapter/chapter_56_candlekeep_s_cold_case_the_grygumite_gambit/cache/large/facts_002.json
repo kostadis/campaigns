@@ -1,146 +1,146 @@
 [
   {
     "type": "npc",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool has developed patient attentiveness since acquiring eyes and possesses unhurried pragmatism from having lived inside a bag of holding. He is currently observing the party from within the bag, using two eyeballs to track the room. He is a spy, presumably equipped with hidden capabilities.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Fembris",
-    "fact": "Fembris is a guide who has memorized the tour of the Bastion and delivers it with practiced pride. He is physically strained by the stairs, unlike the party, indicating surface adaptation is insufficient for Underdark-trained individuals. He introduced the Astronomicon, the Whispering Dome, and the Drakonoikos with enthusiasm but struggled to recall the name 'Fyrentennimar' without visible effort.",
+    "subject": "Daz",
+    "fact": "Daz is an experienced investigator from the Underdark, currently assisting in the investigation of Janussi\u2019s murder at Candlekeep. He is observant, pragmatic, and notes behavioral patterns in others, particularly regarding timing and omission of information. He has survived fungal scourges and multi-faction conflicts and is acutely aware of the contrast between Underdark conditions and surface architecture.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum is the founder of the Grygumite School and a skilled social manipulator who leverages academic curiosity to deflect from the murder investigation. He used theatrical framing, references to Poirot and Colombo, and philosophical claims to gain leverage over the Council of Twelve. He negotiated for remuneration and all-access library privileges, demonstrating strategic thinking under pressure.",
+    "fact": "Grygum is the founder of the Grygumite School and a skilled manipulator of academic dynamics. He uses the introduction of an unfamiliar philosophical framework to redirect attention from crisis to curiosity. He is adept at reading social cues, exploiting academic vanity, and negotiating for access. He has a habit of noting inconsistencies in behavior and framing events through a lens of strategic observation.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Bookwyrm",
-    "fact": "Bookwyrm is the shaken but capable leader of Candlekeep\u2019s Council, attempting to restore order after the Keeper\u2019s murder. She strategically deployed theological language to justify delegating the investigation to outsiders. She withheld key information \u2014 Janussi\u2019s request for Kalan\u2019s resignation \u2014 until the right moment, then revealed it with plausible deniability. She agreed to remuneration terms and confidentiality, showing political acumen. Her statement 'I had nothing to do with it' was delivered with a pause that suggested hidden knowledge.",
+    "fact": "Bookwyrm is the green dragonborn librarian and acting head of Candlekeep\u2019s leadership council following Janussi\u2019s death. She is weary but politically astute, using theological rhetoric to secure cooperation from outsiders. She withholds key information strategically, reveals it at calculated moments, and demonstrates awareness of her own vulnerability in the investigation. She has prepared responses to Kalan Strongbranch\u2019s arrival and is under scrutiny for her possible involvement.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Kalan Strongbranch",
-    "fact": "Kalan Strongbranch is the gate warden of Candlekeep, a figure of authority with piercing eyes and an expectation of deference. He was recently asked by Janussi to tender his resignation due to concerns over mental decline and negligence. He was barred from entering or leaving the premises by Bookwyrm, who anticipated his arrival. His bow was correct but his eyes were not \u2014 indicating suppressed hostility. Grygum identified him as the first person to question.",
+    "fact": "Kalan Strongbranch is the gate warden of Candlekeep, recently ordered to resign by the late Keeper Janussi on grounds of mental decline and negligence. He is a figure of authority with piercing eyes and a posture of expected deference. He bowed to the council\u2019s decision but his eyes betrayed resistance. He is the first named suspect in the investigation and has a troubled history with the deceased. Daz has already identified him as his primary target for questioning.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi was the Keeper of Tomes at Candlekeep, murdered under unknown circumstances. The morning before his death, he requested Kalan Strongbranch\u2019s resignation due to perceived mental decline and negligence. His death triggered a power vacuum and internal council chaos. His final act suggests he was aware of a threat or corruption he could not address directly.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "A'lai Aivenmore",
-    "fact": "A'lai Aivenmore is a tall, handsome council member with a polished demeanor. He moved swiftly to restore leadership and avoid direct opposition to Bookwyrm\u2019s decisions. He did not endorse the delegation to outsiders but refrained from objecting, signaling political calculation. His calibration of reactions indicated he was assessing the party\u2019s threat level and potential utility.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Daz",
-    "fact": "Daz is an experienced investigator from the Underdark, trained in factional conflicts and fungal scourges. He is hyper-observant of timing and omission \u2014 noting Bookwyrm\u2019s premature disclosure about Kalan\u2019s resignation as a manipulative tactic. He asked pointed questions about negligence and is positioned as the most analytically grounded member of the party.",
+    "fact": "A'lai Aivenmore is a tall, handsome council member with a braided beard and polished oratory. He presents himself as a leader seeking restoration of order but avoids committing to any position unless it serves expediency. He did not endorse the delegation of the investigation to outsiders but declined to object \u2014 a strategic neutrality Daz noted as significant.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Thorin",
-    "fact": "Thorin is a pragmatic negotiator and social strategist who framed the party\u2019s involvement in terms of pop culture (Poirot, Colombo) and philosophical claims. He insisted on remuneration \u2014 one book each \u2014 and pushed for carte blanche access to the library. He challenged Bookwyrm\u2019s alibi with direct questioning, demonstrating investigative instincts. He clarified his own non-participation in Dawnbringer\u2019s discovery, showing self-awareness.",
+    "fact": "Thorin is a member of the party who references pop culture detective figures (Poirot, Colombo) to lend credibility to their investigative approach. He is pragmatic about remuneration, insisting on payment for services. He is quick to challenge authority, notably questioning Bookwyrm\u2019s alibi with precision. He is aware of the symbolic weight of their presence and uses humor and cultural references to disarm academic resistance.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Fembris",
+    "fact": "Fembris is a guide at Candlekeep who has memorized the tour of the Bastion and delivers it with practiced enthusiasm. He is familiar with the architecture and history of the library\u2019s most significant structures, including the Astronomicon and the Drakonoikos. His demeanor suggests he is a loyal servant of the institution, possibly unaware of deeper currents within the library\u2019s politics.",
     "quote_verified": false
   },
   {
     "type": "faction",
-    "subject": "Council of Twelve",
-    "fact": "The Council of Twelve is a scholarly governing body in turmoil following the murder of Keeper Janussi. Members are divided on priorities: restoring leadership, finding the murderer, dismissing the gate warden, or securing institutional stability. They are easily distracted by novelty \u2014 such as new schools of thought \u2014 and are vulnerable to rhetorical framing. Their internal dynamics reveal academic elitism, bureaucratic inertia, and a latent fear of external interference.",
+    "subject": "Candlekeep Council of Twelve",
+    "fact": "The Council of Twelve is the governing body of Candlekeep, currently in disarray following the murder of the Keeper of Tomes. Members are academics and scholars divided on priorities: restoring leadership, identifying the murderer, assigning blame, and controlling access to knowledge. They are easily swayed by new intellectual frameworks and resistant to external demands \u2014 until those demands are framed as legitimate curiosity.",
     "quote_verified": false
   },
   {
     "type": "faction",
-    "subject": "Avowed",
-    "fact": "The Avowed are an elite order within Candlekeep, responsible for safeguarding dangerous magical chambers. One of their number died in the Dragon Breath Simulation Chamber, leading to new restrictions requiring the Keeper\u2019s permission for access. They are currently asleep, suggesting either routine rest or possible incapacitation \u2014 a detail that may be relevant to the investigation.",
+    "subject": "The Avowed",
+    "fact": "The Avowed are an elite order within Candlekeep, presumably responsible for safeguarding dangerous magical artifacts and chambers. One of their members died in the Dragon Breath Simulation Chamber, leading to heightened restrictions. They are currently asleep during the investigation\u2019s early stages, suggesting either deliberate isolation or a lack of immediate involvement in the murder.",
     "quote_verified": false
   },
   {
     "type": "location",
     "subject": "Candlekeep Bastion",
-    "fact": "Candlekeep Bastion is a vast, multi-level structure built from surface materials and repurposed threats \u2014 including dragon scales and bones. It contains the Astronomicon, Whispering Dome, Drakonoikos, and Dragon Breath Simulation Chamber. High ceilings, oil paintings, busts, and heavy tapestries suggest architectural concealment potential. Staircases are numerous but not physically taxing compared to Underdark terrain, highlighting a dangerous complacency in its design.",
+    "fact": "Candlekeep Bastion is the central library complex, housing the Astronomicon, the Whispering Dome, and the Drakonoikos \u2014 a building constructed from dragon scales and bones. Its architecture reflects a philosophy of repurposing danger into knowledge. High ceilings, irregular corridors, tapestries, and oil paintings suggest concealment potential. The layout was assessed by Daz and Grygum as both impressive and vulnerable to covert movement.",
     "quote_verified": false
   },
   {
     "type": "location",
     "subject": "Chapter House",
-    "fact": "The Chapter House is a twelve-sided chamber with a rose window, stern sages in paintings, and a single guarded entrance. It is the site of the Council\u2019s emergency meeting. The room\u2019s geometry and decor reflect institutional gravity. The absence of secondary exits from the doorway indicates deliberate positioning of the party \u2014 possibly to control movement or observation.",
+    "fact": "The Chapter House is the council chamber of Candlekeep, featuring a twelve-sided table, twelve chairs, and a rose window. It is where the council convened after Janussi\u2019s death. The room was analyzed for seating dynamics, power positioning, and nonverbal cues. It is the site of the decision to delegate the investigation to outsiders and the location where Kalan Strongbranch was formally excluded from proceedings.",
     "quote_verified": false
   },
   {
     "type": "location",
     "subject": "Dragon Breath Simulation Chamber",
-    "fact": "This chamber is a dangerous magical training facility where an Avowed member died. Access now requires the Keeper\u2019s explicit permission. It is described as a 'great game to play' by Grygum, indicating a dangerous disconnect between perception and risk. The chamber\u2019s existence and restricted status make it a high-priority location for investigation.",
+    "fact": "The Dragon Breath Simulation Chamber is a dangerous magical training facility within Candlekeep. One Avowed member died inside, prompting Keeper Janussi to require explicit permission for access. It is now a restricted zone and a potential site of foul play. Grygum noted that one party member already viewed it as a 'great game to play,' indicating possible recklessness or hidden motive.",
     "quote_verified": false
   },
   {
     "type": "location",
     "subject": "Drakonoikos",
-    "fact": "The Drakonoikos is a building constructed from enormous dragon scales and bones, replacing conventional stone. It embodies the monastic philosophy that dangerous entities are repurposed as containers of knowledge. The scales gleam in sunlight, suggesting material properties may be relevant to forensic analysis. Its construction implies a history of dragon slaying and ritualistic reuse \u2014 a potential motive or clue.",
+    "fact": "The Drakonoikos is a structure built from the scales and bones of a dragon of great age and significance. It represents Candlekeep\u2019s philosophy of turning lethal threats into vessels of knowledge. The scales gleam in sunrise, and the building\u2019s design was noted by Grygum as embodying a monastic logic \u2014 dangerous things contain the wisdom of their own defeat. It may hold hidden archives or magical resonance relevant to the murder.",
     "quote_verified": false
   },
   {
     "type": "object",
     "subject": "Dawnbringer",
-    "fact": "Dawnbringer is a legendary weapon, housed in a scabbard, that was discovered after two thousand years. It is referenced by the party as evidence of their status as great discoverers. Its presence in the narrative implies it may be tied to the murder or the Keeper\u2019s final acts \u2014 possibly a relic connected to the dragon scales of the Drakonoikos or the Astronomicon\u2019s celestial lore.",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "Astronomicon",
-    "fact": "The Astronomicon is a stack of ascending blue globes, representing celestial knowledge. It is described as containing everything known about the stars \u2014 a concept that contrasts with the Underdark\u2019s total absence of starlight. Its presence suggests a possible link to celestial omens, prophetic texts, or magical alignments that may have preceded Janussi\u2019s death.",
+    "fact": "Dawnbringer is a sword housed in a scabbard, claimed by the party to have been found in a tomb after two thousand years. It is treated as a sentient or symbolic artifact, invoked during negotiations to bolster the party\u2019s mystique. Its presence is used rhetorically to assert their legendary status and justify their claim to be the greatest discoverers.",
     "quote_verified": false
   },
   {
     "type": "event",
     "subject": "murder of Janussi",
-    "fact": "Janussi, the Keeper of Tomes, was murdered under circumstances that triggered a council emergency. The morning before his death, he requested Kalan Strongbranch\u2019s resignation due to suspected mental decline and negligence. The murder occurred in a secure location, and the investigation has been delegated to outsiders. The timing of the resignation request, the chamber restrictions, and the Avowed\u2019s death suggest a coordinated breakdown of institutional control.",
+    "fact": "The murder of Janussi, Keeper of Tomes, triggered a crisis of leadership and access at Candlekeep. He had requested the resignation of the gate warden the morning before his death, suggesting prior awareness of corruption or danger. His death occurred in a secure location, and the investigation has been delegated to outsiders. The timing and manner of the murder remain unknown, and the council is divided on priorities.",
     "quote_verified": false
   },
   {
     "type": "event",
     "subject": "delegation of investigation",
-    "fact": "The Council of Twelve, under Bookwyrm\u2019s leadership, delegated the investigation into Janussi\u2019s murder to an outsider party. This was framed as divine intervention but functioned as a political maneuver to bypass internal conflict. The party secured remuneration and full library access in exchange, transforming them from guests into de facto investigators with institutional authority.",
+    "fact": "The Council of Twelve, under Bookwyrm\u2019s leadership, formally delegated the investigation of Janussi\u2019s murder to the outsider party. This decision was secured through rhetorical framing, cultural references, and demands for access and remuneration. The council\u2019s willingness to comply suggests either desperation or a hidden agenda to shift accountability.",
     "quote_verified": false
   },
   {
     "type": "event",
-    "subject": "Kalan Strongbranch\u2019s confrontation",
-    "fact": "Kalan Strongbranch arrived at the Chapter House moments after the delegation decision. Bookwyrm preemptively barred him from entering or leaving, citing the need for impartial investigation. His bow was correct, but his eyes betrayed hostility. His presence confirms he is both a suspect and a potential victim of a setup. He is the first person Grygum intends to question.",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "the missing resignation record",
-    "fact": "Bookwyrm revealed that Janussi requested Kalan\u2019s resignation the morning of his death, but no written record of it was produced. The timing suggests it may have been destroyed or never documented \u2014 a deliberate act. The absence of this record is a critical gap in the investigation and may point to internal corruption or a cover-up.",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "the nature of negligence",
-    "fact": "Janussi accused Kalan of negligence, but the type of negligence was never specified. Was it failure to monitor the Dragon Breath Chamber? Allow unauthorized access? Neglect the Avowed? Or something more esoteric \u2014 like ignoring celestial signs recorded in the Astronomicon? The ambiguity is intentional and conceals a deeper institutional failure.",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "the dragon scale building\u2019s origin",
-    "fact": "The Drakonoikos is built from dragon scales and bones \u2014 not mere decoration, but structural material. Who killed the dragon? Why were its remains used? Is this connected to Dawnbringer? To the Astronomicon\u2019s celestial records? To the death of the Avowed? The building is a physical artifact of a hidden history that may hold the key to the murder.",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "the party\u2019s philosophical framing",
-    "fact": "Grygum and Thorin framed their investigation through pop culture (Poirot, Colombo) and philosophical claims \u2014 suggesting they are not just solving a crime, but testing a worldview. The murder may be a symptom of a deeper philosophical rupture in Candlekeep\u2019s doctrine \u2014 perhaps between knowledge-as-control and knowledge-as-reverence. The party\u2019s methods may be the solution, not just the means.",
+    "subject": "Kalan Strongbranch\u2019s exclusion",
+    "fact": "Kalan Strongbranch, the gate warden, was formally barred from entering the Chapter House during the council\u2019s decision to delegate the investigation. Bookwyrm preempted his objections with prepared language. His bow was correct, but his eyes betrayed resistance. His exclusion marks him as the primary suspect and signals that the council may be protecting someone else.",
     "quote_verified": false
   },
   {
     "type": "thread",
     "subject": "Bookwyrm\u2019s alibi",
-    "fact": "When asked where she was during the murder, Bookwyrm paused before saying 'I had nothing to do with it.' This was not an alibi \u2014 it was a denial of complicity. The pause suggests she knows more than she admits. She may have been present, or she may have authorized access to the Keeper. Her role is ambiguous \u2014 protector, conspirator, or victim of a larger scheme.",
+    "fact": "Bookwyrm claimed she had nothing to do with Janussi\u2019s death when directly questioned by Thorin. Her pause before answering was deliberate. Daz noted her expression, but did not record it. Her testimony is now under suspicion, and her knowledge of Janussi\u2019s final request suggests she may have been involved in the events leading to his death \u2014 or in covering them up.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the missing resignation order",
+    "fact": "Janussi\u2019s request for Kalan\u2019s resignation was delivered verbally, and no written record was produced. Bookwyrm declined to elaborate on the nature of his negligence. The absence of documentation raises the possibility that the order was fabricated \u2014 or that someone destroyed it after the murder to obscure motive.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the Drakonoikos\u2019s hidden archives",
+    "fact": "The Drakonoikos, built from a dragon\u2019s remains, may contain concealed archives or magical inscriptions. Its design suggests it was not merely symbolic but functional \u2014 perhaps housing knowledge that could explain Janussi\u2019s fear, Kalan\u2019s decline, or the nature of the threat that led to the murder. It has not yet been accessed by investigators.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the Avowed\u2019s silence",
+    "fact": "The Avowed were asleep during the murder and have not yet been questioned. Their member\u2019s death in the Dragon Breath Simulation Chamber suggests prior exposure to lethal magic. Their absence from the investigation may indicate complicity, fear, or institutional isolation. Their dormancy is suspicious.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "the morning of Janussi\u2019s death",
+    "fact": "On the morning of his death, Janussi requested Kalan Strongbranch\u2019s resignation due to mental decline and negligence. This was his final known action. The timing suggests the murder was either a response to this demand or an attempt to silence him before he could act further. The exact hour is unknown, but it occurred before the council convened.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "the day of the delegation",
+    "fact": "The day the outsider party was granted investigative authority, the Council of Twelve convened in the Chapter House, Kalan Strongbranch was excluded, and Bookwyrm revealed Janussi\u2019s final request. This day marked the formal transition from internal chaos to external investigation \u2014 and the point at which the party gained access to restricted areas.",
     "quote_verified": false
   }
 ]

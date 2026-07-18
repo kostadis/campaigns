@@ -1,38 +1,33 @@
 ---
 name: Nym Duskryn
 type: npc
-n_facts: 12
-chapters: 51-53
+n_facts: 20
+chapters: 4-53
 ---
 
 ### Nym Duskryn
 
 **Current status:** Alive  
-**Current location:** Unknown (last observed in active conflict with House Mizzrym and House T'sarran agents)  
-**Allegiance/faction:** Drow mercenary from Menzoberranzan; contracted through cutouts  
-**Current possessions / notable items, spells, feats, wounds:** None specified  
-**Current assignment / role:** Hired to protect Daz from assassination by House Mizzrym and House T'sarran; contract-bound extractor tasked with delivering Daz intact for payment  
-**Key relationships:**  
-- Contractually bound to protect Daz, whom she regards with condescension and professional detachment  
-- One of the Duskryn sisters (sibling unnamed)  
-- Operates alongside Thorin (whom she criticized for inadequate combat technique)  
-- Reports to unnamed intermediaries who arranged the contract  
-
+**Current location:** Unknown (last active with Daz during the battle against Ilvara’s divine fire and the collapsing bridge)  
+**Allegiance/faction:** House Duskryn (mercenary clan), contracted through intermediaries  
+**Current possessions / notable items:** None specified  
+**Current assignment / role:** Mercenary tasked with protecting Daz from House Mizzrym, House T'sarran, and House Ilvara — contractually bound to prevent other drow factions from killing him.  
+**Key relationships:** Contractually assigned to protect Daz; last seen operating alongside Daz during the battle against Ilvara’s divine fire. Previously worked with Kaelira on the extraction mission. Dismissive of Daz’s claims of noble lineage; skeptical of his origins.  
 **Defining recent actions:**  
-- Criticized Thorin’s grapple against a Lolth cleric as incompetent, asserting the only proper response is decapitation  
-- Reiterated that her contract obligates her only to prevent Daz’s death by rival drow houses, not to ensure his safety from other threats  
-- Expressed irritation at Daz’s self-mythologizing about noble lineage, dismissing it as typical orphan fantasy  
-- Demonstrated heightened expressiveness when irritated, particularly in response to tactical incompetence or contractual ambiguity  
+- Criticized Thorin’s grapple tactic against a Lolth cleric, asserting the only correct response is decapitation.  
+- Asked whether she may kill Daz’s brother, shifting from exasperated professionalism to targeted pragmatism when Daz rejected transactional logic.  
+- Remained in the field under direct divine fire from Ilvara while Daz was targeted.  
+- Repeatedly dismissed theological threats as irrelevant to her contract, emphasizing cold, professional detachment.  
+- Expressed irritation at the ambiguity of Daz’s background and the scale of the contract, calling him a “nobody” with no noble lineage.  
 
-**Revealed motivations or secrets:**  
-- Views Daz as currency, not a person; his survival matters only insofar as it fulfills payment terms  
-- Skeptical of any hidden nobility or significance in Daz’s origins, suspects the entire contract may be a game orchestrated by rival houses  
-- Prioritizes pragmatic efficiency over moral or emotional considerations; frustration manifests as lethal inquiry (e.g., asking if she could kill Daz’s brother)  
+**Revealed motivations / secrets:**  
+- Operates on strict transactional logic; her frustration stems from mission complications, not moral conflict.  
+- Deeply skeptical of drow self-delusion regarding noble ancestry, viewing Daz’s origins as a typical orphan fantasy.  
+- Her professional identity is tied to precision, efficiency, and contractual fidelity — not loyalty, faith, or honor.  
 
 ## Uncertainty
-- The identity of Nym’s sister (the other Duskryn) is unnamed and unconfirmed in current state.  
-- Whether Nym is still actively with Daz or has departed post-conflict is unclear — last interaction occurred during combat, but no confirmation of continued proximity.  
-- No current location is stated; last known context is active engagement with hostile drow factions, but no specific geography.  
-- The exact terms of her contract beyond “protect Daz from House Mizzrym and House T'sarran” are unspecified — e.g., duration, payment, contingencies.  
-- It is unclear whether the “magical cascade” event in ch51 has altered her contractual obligations or status — no later chapter addresses this.  
-- Attribution of the “professional frustrations” in ch51 is tied to the magical cascade, but no later chapter confirms whether this emotional pattern persists or evolved.
+- Contradiction in gender attribution: Early chapters refer to Nym as “he” (e.g., “Nym draws his weapon”), while later chapters use “she” (e.g., “Nym Duskryn is a professional extractor... She operates...”). Later usage overrides earlier, but the inconsistency remains unexplained.  
+- Unclear if Kaelira is still with Nym — last mentioned together in ch51, but no confirmation of current association in ch53.  
+- Exact location of Nym after the battle with Ilvara is unspecified; last known action was surviving divine fire alongside Daz, but current whereabouts are unknown.  
+- Whether Nym’s contract is still active or has been fulfilled/terminated since the bridge collapse and divine fire event is not stated.  
+- The nature of “professional frustrations [that] found their outlet” in ch51 is unspecified — no concrete action is named.

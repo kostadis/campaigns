@@ -1,134 +1,146 @@
 [
   {
     "type": "npc",
-    "subject": "Janussi",
-    "fact": "Janussi was a librarian at Candlekeep who systematically provoked Alkrist, A'lai, and Bookwyrm into wanting him dead by firing them, canceling their research, and trashing their work\u2014all on the same day, culminating in his assassination.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
     "subject": "Alkrist",
-    "fact": "Alkrist was one of Janussi\u2019s subordinates, fired and humiliated on budget day; he later became the hand that carried out Janussi\u2019s murder, acting in coordination with others, and now holds knowledge of the conspiracy that could be leveraged for blackmail.",
+    "fact": "Alkrist confessed to carrying out the assassination of Janussi, having been recruited by A'lai and acting with at least two other accomplices, and is now under scrutiny for his role in the conspiracy.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "A'lai",
-    "fact": "A'lai is a drow scholar with Underdark and possibly Menzoberranzan connections, who initiated the conspiracy to kill Janussi; he is the most valuable remaining asset due to his knowledge of the patron funding his survival and the hidden power structures behind Candlekeep\u2019s corruption.",
+    "fact": "A'lai, a drow scholar with possible Menzoberranzan ties, initiated the assassination of Janussi and is now the primary source of unspoken leverage due to his knowledge of the conspiracy, the patron behind it, and his own survival interests.",
     "quote_verified": false
   },
   {
     "type": "npc",
-    "subject": "Bookwyrm",
-    "fact": "Bookwyrm was a senior librarian at Candlekeep whose research was destroyed by Janussi; he was among those who desired Janussi\u2019s death and may hold ancillary knowledge of the institution\u2019s internal power struggles.",
+    "subject": "Janussi",
+    "fact": "Janussi, a high-ranking Candlekeep librarian, was assassinated after systematically alienating key personnel in a single day by terminating research, firing staff, and canceling projects \u2014 his actions inadvertently created multiple motivated killers.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Kalan",
-    "fact": "Kalan was the man fired by Janussi and subsequently framed as the scapegoat; he now holds the most complete account of the conspiracy and is the logical candidate to clean up the aftermath, though his standing makes him a potential pawn or target.",
+    "fact": "Kalan, the recently fired staff member, was present during the assassination and now holds the most complete account of the events; he is the designated party to inherit the investigation and clean up the aftermath.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin advocates for collecting physical evidence (books per suspect) and pushing Kalan to take charge, while also entertaining blackmail as a tool \u2014 his position reflects pragmatic institutional thinking.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum proposes blackmail as a strategic option, frames the assassination as organizational restructuring, and recognizes A'lai\u2019s drow connections as critical to understanding the deeper conspiracy \u2014 his tone suggests agenda-setting.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir confirms the obvious at every turn, supports handing authority to Kalan, and implicitly endorses the idea that the real power lies not with the blade but with the one who has already decided victory is assured.",
     "quote_verified": false
   },
   {
     "type": "faction",
     "subject": "Candlekeep",
-    "fact": "Candlekeep is an institution where administrative cruelty masquerades as efficiency; its internal RIFs, budget cuts, and research purges created the conditions for Janussi\u2019s murder, and its leadership may be complicit in covering up systemic corruption.",
+    "fact": "Candlekeep is revealed as an institution under hidden strain \u2014 budget cuts, RIFs, and internal power struggles created the conditions for Janussi\u2019s assassination, which was masked as administrative efficiency.",
     "quote_verified": false
   },
   {
     "type": "faction",
     "subject": "Menzoberranzan",
-    "fact": "Menzoberranzan is the drow city whose shadow extends into Candlekeep; its patronage network is funding A'lai\u2019s survival, and its operatives are likely embedded within the library\u2019s hierarchy, using blackmail and silence as tools of control.",
+    "fact": "Menzoberranzan is implied as the hidden patron behind A'lai\u2019s survival and operations \u2014 its influence is felt through covert funding, drow network protection, and the use of blackmail as a career strategy.",
     "quote_verified": false
   },
   {
     "type": "event",
-    "subject": "Janussi's assassination",
-    "fact": "Janussi was murdered after a single day of deliberate provocations\u2014firing staff, canceling research, and destroying archives\u2014that turned multiple individuals against him, culminating in a coordinated killing that was disguised as an administrative tragedy.",
+    "subject": "assassination of Janussi",
+    "fact": "Janussi was murdered by a coordinated effort initiated by A'lai and executed by Alkrist, with at least two other accomplices motivated by personal grievances \u2014 the killing was the result of institutional mismanagement and personal vendettas.",
     "quote_verified": false
   },
   {
     "type": "event",
-    "subject": "conspiracy exposure",
-    "fact": "The conspiracy behind Janussi\u2019s death was exposed in a single afternoon through testimony, recovered evidence, and the zone of truth, revealing that Alkrist acted as the instrument, A'lai as the architect, and others as silent accomplices.",
+    "subject": "retrieval of the poisoned book",
+    "fact": "The poisoned book, used as the murder weapon, was recovered from Daral and reassembled by Grygum \u2014 it is now key physical evidence linking the conspiracy to the library\u2019s internal politics.",
     "quote_verified": false
   },
   {
     "type": "object",
     "subject": "poisoned book",
-    "fact": "The poisoned book, reclaimed from Daral, was the murder weapon used to kill Janussi; it was chosen for its concealment and symbolic weight, representing the corruption of knowledge itself.",
+    "fact": "The poisoned book, originally from Janussi\u2019s research, was laced with a slow-acting toxin and delivered to him under false pretenses; it is now evidence of premeditated murder and a symbol of intellectual betrayal.",
     "quote_verified": false
   },
   {
     "type": "object",
-    "subject": "Janussi's note",
-    "fact": "Janussi's handwritten note, found on the third floor, detailed his plan to purge his subordinates and likely contained incriminating references to higher powers; it is the last record of his intent before death.",
+    "subject": "note in Janussi's hand",
+    "fact": "A handwritten note found on the third floor contains Janussi\u2019s final thoughts \u2014 possibly a list of targets or a confession \u2014 and is the only personal artifact directly tied to his awareness of the plot against him.",
     "quote_verified": false
   },
   {
     "type": "object",
-    "subject": "Grygum's wrapping paper",
-    "fact": "Grygum\u2019s carefully reassembled wrapping paper contained hidden markings or codes linking the conspiracy to external patrons; its reconstruction suggests deliberate concealment of evidence.",
+    "subject": "Grygum's reassembled wrapping paper",
+    "fact": "Grygum reconstructed wrapping paper from the book\u2019s packaging \u2014 its pattern and seal suggest tampering prior to delivery, providing forensic evidence of premeditation and access control breaches.",
     "quote_verified": false
   },
   {
     "type": "location",
     "subject": "Candlekeep",
-    "fact": "Candlekeep is a place where knowledge is weaponized and silence is enforced; its halls are filled with people who have already decided who lives and dies, and its bureaucracy masks murder as policy.",
+    "fact": "Candlekeep is the site of the assassination and the center of the conspiracy \u2014 its halls, shelves, and administrative offices were the stage where personal grievances, budget cuts, and drow intrigue converged.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "third floor",
+    "fact": "The third floor of Candlekeep is where Janussi\u2019s final note was discovered \u2014 it is the last place he was seen alive and now serves as a memorial site for the unraveling of his authority.",
     "quote_verified": false
   },
   {
     "type": "monster",
-    "subject": "A'lai's patron",
-    "fact": "A'lai's patron is an unknown entity paying Menzoberranzan-level sums to keep a drow evoker alive and embedded within Candlekeep; this patron is likely a high-ranking drow noble or a shadowy organization with interests in suppressing truth.",
+    "subject": "drow (A'lai)",
+    "fact": "A'lai, a drow evoker, is not a monster in the traditional sense, but his Underdark connections, survival instincts, and use of blackmail make him a lethal non-combatant \u2014 he represents the quiet, intellectual predator.",
     "quote_verified": false
   },
   {
     "type": "thread",
-    "subject": "the patron's identity",
-    "fact": "The identity of the patron funding A'lai remains unknown, but it is the only lead connecting Candlekeep\u2019s internal murder to the Underdark; it has eluded investigation for months and may be the key to a larger conspiracy.",
+    "subject": "unknown patron",
+    "fact": "An unidentified patron has been paying Menzoberranzan-level fees to protect A'lai for months \u2014 this is the central unresolved thread, and the only lead since Kaelira first raised the question.",
     "quote_verified": false
   },
   {
     "type": "thread",
     "subject": "blackmail as career",
-    "fact": "The idea that blackmail is not an act but a profession\u2014practiced by A'lai and possibly others\u2014suggests a hidden economy of silence within Candlekeep, where information is currency and loyalty is transactional.",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "workforce restructuring as cover",
-    "fact": "The murder of Janussi may be officially classified as an unfortunate consequence of budget cuts and layoffs; this narrative, likely constructed by A'lai, is being used to obscure the true nature of the conspiracy.",
+    "fact": "The idea that blackmail is not a crime but a profession \u2014 practiced by drow, librarians, and hidden powers \u2014 is now a recognized pattern in the investigation, and may be the key to understanding the broader conspiracy.",
     "quote_verified": false
   },
   {
     "type": "date",
     "subject": "budget day",
-    "fact": "Budget day was the day Janussi initiated his purge, firing Alkrist, canceling Bookwyrm\u2019s research, and destroying A'lai\u2019s work\u2014triggering the chain of events that led to his death.",
+    "fact": "The assassination occurred on or around budget day \u2014 a day of institutional tension, layoffs, and canceled projects \u2014 which provided the perfect cover for Janussi\u2019s murder to be mistaken for administrative consequence.",
     "quote_verified": false
   },
   {
     "type": "date",
     "subject": "review day",
-    "fact": "Review day was the day Janussi\u2019s actions were formally evaluated, and his decisions were ratified\u2014making his murder appear as the inevitable result of institutional dysfunction.",
+    "fact": "Review day coincided with the final confrontation \u2014 a day when performance evaluations were finalized, and Janussi\u2019s decisions triggered the lethal response from those he had wronged.",
     "quote_verified": false
   },
   {
     "type": "date",
     "subject": "the day careers were made or broken",
-    "fact": "The day Janussi died was not just a day of death, but a day of institutional recalibration\u2014where one man\u2019s ambition destroyed others, and others\u2019 silence destroyed him.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "A'lai",
-    "fact": "A'lai is not merely a suspect\u2014he is a broker of secrets, a drow with access to Menzoberranzan\u2019s hidden networks, and the only person who can provide the truth about the patron paying for his survival; his silence is the only asset worth acquiring.",
+    "fact": "The day of Janussi\u2019s death was framed by the group as the day when careers were made or broken \u2014 a euphemism for the moment when one person\u2019s power collapse created opportunities for others to rise through violence.",
     "quote_verified": false
   },
   {
     "type": "thread",
-    "subject": "the unspoken agreement",
-    "fact": "The group has reached an unspoken consensus: they will not prosecute A'lai, but instead negotiate for his knowledge. His silence is the real prize\u2014not gold, not books, but the name of the patron behind the curtain.",
+    "subject": "what to do with the evidence",
+    "fact": "The central unresolved question is not who killed Janussi, but what should be done with the evidence \u2014 whether to expose, bury, or weaponize it \u2014 and this question now defines the future of the investigation.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "A'lai's knowledge",
+    "fact": "A'lai possesses knowledge of the patron behind his protection, the nature of the funding, and possibly the identity of other drow agents in Candlekeep \u2014 this knowledge is the only currency worth collecting.",
     "quote_verified": false
   }
 ]

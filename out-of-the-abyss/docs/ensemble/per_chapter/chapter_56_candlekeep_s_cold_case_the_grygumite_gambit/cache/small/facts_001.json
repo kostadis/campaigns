@@ -2,105 +2,119 @@
   {
     "type": "npc",
     "subject": "Vareth",
-    "fact": "Vareth is a senior librarian at Candlekeep who has maintained his side office for forty-one years, exhibits deep institutional restraint, and is actively developing a new theological framework regarding mortal agency and fixed points of cosmic constraint.",
-    "source_quote": "Vareth, behind me, has the expression of a man exercising tremendous institutional restraint across approximately five minutes of tortle handoff. He remains respectful throughout.",
+    "fact": "Vareth is a senior librarian at Candlekeep who has maintained his side office for forty-one years, known for institutional restraint and deep engagement with theological debates, and recently developed a new theory about fixed points in mortal agency.",
+    "source_quote": "He has been keeping this corner of the library for forty-one years, he says, and he knows what a fashion looks like.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Pizwog",
-    "fact": "Pizwog is an ancient tortle scholar who distributes his own syncretic research papers on Sword Coast religions, and whose slow, deliberate manner and intellectual eccentricity are noted by observers.",
+    "fact": "Pizwog is an ancient tortle and researcher at Candlekeep who distributes syncretic theological papers, speaks slowly, and is engaged in internally inconsistent but meaningful comparative religious analysis.",
     "source_quote": "Pizwog, who is an ancient tortle and moves at the speed of an ancient tortle. I wait. He distributes what appears to be a religious tract, which turns out to be one of his own research papers.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Sister Yvenne",
-    "fact": "Sister Yvenne is a figure of authority at Candlekeep who threatens to confiscate bookplates and represents a growing tension over doctrinal disputes within the library\u2019s scholarly culture.",
+    "fact": "Sister Yvenne is a librarian at Candlekeep who threatens to confiscate bookplates due to escalating polemical disputes and duels over shelf placement, though she has not yet acted.",
     "source_quote": "Sister Yvenne threatens to confiscate everyone's bookplates. She has not yet, but he expects it.",
     "quote_verified": true
   },
   {
     "type": "faction",
     "subject": "Stroudite school",
-    "fact": "The Stroudite school holds that mortal choice is sovereign; gods and dragons exist, but agency is not borrowed or loaned from above or below, and chains of action are free and breakable.",
+    "fact": "The Stroudite school holds that mortal choice is sovereign; gods and dragons exist, but agency is not borrowed or loaned from above or below, and chains of free acts determine outcomes.",
     "source_quote": "The Stroudite school says mortal choice is sovereign. The gods exist. The dragons exist. Providence may or may not exist. But the choosing belongs to the chooser, and is not borrowed, and is not loaned from any throne above or below.",
     "quote_verified": true
   },
   {
     "type": "faction",
     "subject": "Bahamutian school",
-    "fact": "The Bahamutian school asserts that divine providence prevails; mortals are instruments of a pre-arranged chain, and their choices were fitted to them by higher design.",
+    "fact": "The Bahamutian school asserts that divine providence prevails; mortals serve as instruments of a prearranged chain, and their choices were fitted to them by higher design.",
     "source_quote": "The Bahamutian school says divine providence prevails. Bahamut moved his pieces beforehand. The mortals served as instruments. Choice was real, but not sovereign.",
     "quote_verified": true
   },
   {
     "type": "faction",
     "subject": "Draconic school",
-    "fact": "The Draconic school posits that ancient agency rules; metallic dragons follow Protanther out of trust and honor, not divine compulsion, and mortal choice is real but bounded by draconic permission.",
+    "fact": "The Draconic school claims ancient agency rules; metallic dragons follow Protanther out of trust in their elders, not divine compulsion, and mortal choice is real but bounded by draconic permission.",
     "source_quote": "The Draconic school says ancient agency rules. Protanther honored Stroud's move because Protanther is honorable, not because Bahamut compelled him.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "Candlekeep duels over polemic shelves",
-    "fact": "Three duels have been fought at Candlekeep over which polemic shelf receives the larger window \u2014 an unprecedented occurrence in a library where dueling had ceased two hundred years prior.",
+    "subject": "Candlekeep duels",
+    "fact": "Three duels have been fought at Candlekeep over polemic shelf placement \u2014 an unprecedented occurrence in two hundred years of library peace.",
     "source_quote": "Three duels have been fought at Candlekeep over which polemic shelf gets the larger window. *Three*, in a library where nobody has dueled in two hundred years.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "West Inner Ward",
+    "fact": "The West Inner Ward of Candlekeep smells like old paper, and its walls have absorbed the serious, institutional gravity of its librarians and scholars.",
+    "source_quote": "The West Inner Ward smells like old paper. People here take themselves seriously, and the walls have absorbed it.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Immortal Chambers",
+    "fact": "The Immortal Chambers have a tile floor with one deity symbol per tile, and the arrangement implies a theological choice must be made with each step.",
+    "source_quote": "The Immortal Chambers have a tile floor with one deity symbol per tile, and the problem is immediately apparent. You have to choose which deity you want to step on.",
     "quote_verified": true
   },
   {
     "type": "object",
     "subject": "Ilvara's prayer book",
-    "fact": "Ilvara's prayer book contains Zuggtmoy marginalia, suggesting hidden theological alignments and deliberate obfuscation within sacred texts.",
+    "fact": "Ilvara's prayer book contains Zuggtmoy marginalia, suggesting hidden theological syncretism and possible manipulation of belief systems.",
     "source_quote": "I think about Ilvara's prayer book. The Zuggtmoy marginalia.",
     "quote_verified": true
   },
   {
     "type": "object",
-    "subject": "Asha Vandree's chain mail theological document",
-    "fact": "A theological document hidden in Asha Vandree's chain mail asserts a Lolth/Zuggtmoy equivalence, written in a hand designed to appear incidental.",
+    "subject": "Asha Vandree's chain mail document",
+    "fact": "A theological document sewn into Asha Vandree's chain mail asserts a Lolth/Zuggtmoy equivalence, written in a hand designed to appear incidental.",
     "source_quote": "The theological document from Asha Vandree's chain mail \u2014 the Lolth/Zuggtmoy equivalence, written in a hand that wanted very much to seem incidental.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Candlekeep's Immortal Chambers",
-    "fact": "The Immortal Chambers are a sacred library space with a tile floor bearing one deity symbol per tile, where scholars deliberately choose their path as an act of theological alignment.",
-    "source_quote": "The Immortal Chambers have a tile floor with one deity symbol per tile, and the problem is immediately apparent. You have to choose which deity you want to step on.",
     "quote_verified": true
   },
   {
     "type": "thread",
     "subject": "Fourth school of thought",
-    "fact": "A fourth school of thought has been proposed \u2014 that the universe contains fixed points of cosmic constraint, around which mortal actions must revolve, with freedom existing only between them, and the architecture of belief subtly shaping evidence to enforce invariance.",
-    "source_quote": "What if there are certain fixed points around which our actions must revolve? And the closer we come to one of those fixed points, the more constrained we are, but between them, perhaps we have a great deal of freedom of action.",
+    "fact": "A fourth school of thought has been proposed \u2014 that fixed points constrain mortal agency near them, while freedom exists between them, and the universe becomes conspiratorially silent in service of invariance.",
+    "source_quote": "But\u2026 but what if there's a fourth? What if there are certain fixed points around which our actions must revolve? And the closer we come to one of those fixed points, the more constrained we are, but between them, perhaps we have a great deal of freedom of action.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Architectural manipulation of belief",
+    "fact": "It is theorized that a god seeking to control mortal outcomes would not compel actions directly, but would shape the architecture of evidence, polemic, and institutional space to guide belief.",
+    "source_quote": "A god who wished to control the outcome of mortal lives would not need to compel a single hand. She would only need to shape the rules of the evidence. The form of polemic. The architecture of a chapter house.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "two hundred years",
+    "fact": "No duels have occurred at Candlekeep in the last two hundred years, making the recent three duels historically anomalous.",
+    "source_quote": "Three duels have been fought at Candlekeep over which polemic shelf gets the larger window. *Three*, in a library where nobody has dueled in two hundred years.",
     "quote_verified": true
   },
   {
     "type": "monster",
     "subject": "Protanther",
-    "fact": "Protanther is an ancient dragon whose honor and agency are invoked as a foundational principle in the Draconic school, acting independently of Bahamutian divine order.",
+    "fact": "Protanther is an ancient dragon whose honor is cited as the reason for his support of mortal choices, distinguishing him from divine compulsion in the Draconic school.",
     "source_quote": "Protanther honored Stroud's move because Protanther is honorable, not because Bahamut compelled him.",
     "quote_verified": true
   },
   {
     "type": "monster",
     "subject": "Tiamat",
-    "fact": "Tiamat was denied her power by a mortal dwarf\u2019s choice, serving as a key example in the Stroudite school to prove the sovereignty of mortal agency.",
+    "fact": "Tiamat was denied her power due to a dwarf's choice, cited by the Stroudite school as proof of sovereign mortal agency.",
     "source_quote": "Tiamat was denied her power because a dwarf chose.",
     "quote_verified": true
   },
   {
-    "type": "date",
-    "subject": "two hundred years since last duel at Candlekeep",
-    "fact": "Candlekeep had not witnessed a duel for two hundred years prior to the recent three over polemic shelves, marking a radical shift in its scholarly culture.",
-    "source_quote": "Three duels have been fought at Candlekeep over which polemic shelf gets the larger window. *Three*, in a library where nobody has dueled in two hundred years.",
-    "quote_verified": true
-  },
-  {
     "type": "npc",
-    "subject": "The Narrator",
-    "fact": "The narrator is an observer and thinker who has not previously been aware of their own theological position, but has arrived at an intuitive belief in a universe governed by fixed points and silent conspiratorial constraint.",
+    "subject": "The narrator",
+    "fact": "The narrator is a thoughtful, observant traveler who has not previously been aware of their own theological stance but recognizes that none of the three established schools fit their intuition, prompting the proposal of a fourth.",
     "source_quote": "I am sitting with this \u2014 genuinely sitting with it... when I notice that none of them quite fit what I actually think. Which is inconvenient, because I had not previously been aware that I actually thought anything about this.",
     "quote_verified": false
   }

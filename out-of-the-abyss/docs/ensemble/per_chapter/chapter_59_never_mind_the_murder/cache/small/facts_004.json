@@ -1,156 +1,114 @@
 [
   {
     "type": "npc",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool is an ooze entity that persistently attempts to be useful, even after repeated rejection, and has survived the Blingdenstone crisis, the ooze crisis, and confinement within a bag of holding.",
-    "source_quote": "From the bag, Glabbagool offered himself for the sneaking. *I have learned silence,* he said.",
+    "subject": "Zalthir",
+    "fact": "Zalthir is observing and analyzing the double-strike murder of Janussi and the framing of Daral, identifying A'lai Aivenmore as the prime suspect motivated by ideology and ambition to seize the keep.",
+    "source_quote": "A drama queen. He knew it; he said it about himself, which is its own kind of telling. I filed the name. A'lai. Ideology and ambition both \u2014 a man who kills for the chair and the idea at once.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Daral",
-    "fact": "Daral is a poet and fiction enthusiast whose love of art and narrative is perceived as a threat by A'lai Aivenmore, who seeks to frame him and eliminate him from the council to secure his own ascension.",
-    "source_quote": "A'lai Aivenmore. The one who wanted the keep. The one about to be dismissed. The one who saw Daral's love of poetry, his love of fiction, as a threat to his approach to the universe.",
+    "fact": "Daral is the intended target of a framing scheme, suspected of being manipulated into a position where his love of poetry and fiction is seen as a threat by A'lai Aivenmore.",
+    "source_quote": "Daral arrived at the name like a man arriving at the last line of a poem he'd written. A'lai Aivenmore. The one who wanted the keep. The one about to be dismissed. The one who saw Daral's love of poetry, his love of fiction, as a threat to his approach to the universe.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "A'lai Aivenmore",
-    "fact": "A'lai Aivenmore is a power-seeking council member who orchestrated a double stroke \u2014 framing Daral and killing Janussi \u2014 to remove two obstacles and clear his path to leadership, motivated by ideology and ambition.",
+    "fact": "A'lai Aivenmore is the suspected mastermind behind the murder of Janussi and the framing of Daral, seeking to eliminate rivals and ascend to power by exploiting symbolic and psychological tactics.",
     "source_quote": "Clear the deck of Janussi. Clear the wood of me. No one left on the council able to prevent his ascension.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Janussi",
-    "fact": "Janussi was poisoned by a book given to him by Daral, making him the first casualty in a calculated scheme to frame Daral and destabilize the council.",
+    "fact": "Janussi was poisoned by a book given to him by Daral, making him the first casualty in a two-part scheme designed to discredit and remove Daral from the council.",
     "source_quote": "Janussi was dead. Poisoned by a book Daral had given him.",
     "quote_verified": true
   },
   {
     "type": "faction",
-    "subject": "The Garden Shadow",
-    "fact": "The Garden Shadow is a philosophical or ideological group whose saying \u2014 possibly attributed to Brother Tervin \u2014 holds that the most dangerous person in a room is not the one with the blade drawn, but the one who has already decided they've won.",
-    "source_quote": "The Garden Shadow had a saying \u2014 or maybe it was Brother Tervin, the tall one who always smelled of incense, I genuinely don't remember, I wasn't listening \u2014 that the most dangerous person in a room isn't the one with the blade drawn. It's the one who has already decided they've won.",
+    "subject": "The Council",
+    "fact": "The Council is a governing body in which Daral and Janussi held influence, and whose balance is now threatened by A'lai Aivenmore\u2019s calculated elimination of key members.",
+    "source_quote": "No one left on the council able to prevent his ascension.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "double stroke",
-    "fact": "A single act of poison was used to kill Janussi and frame Daral, achieving two strategic outcomes \u2014 eliminating a rival and discrediting a threat \u2014 demonstrating premeditated design by A'lai Aivenmore.",
+    "subject": "double-strike murder",
+    "fact": "A single act of poison was used to kill Janussi and frame Daral, indicating a premeditated strategy to remove two political obstacles with one move.",
     "source_quote": "A killer who buys two outcomes with one cup of poison is a killer who has already drawn the board and decided where every piece lands.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "Milil chalice revelation",
-    "fact": "The lead-lined chalice in the statue of Milil in the southern dining hall is suspected of having been used to conceal or block magical detection, potentially hiding evidence related to the poisoning.",
-    "source_quote": "The Milil chalice is lead-lined. ... Wouldn't lead choke off the magic that hunts down a hidden thing, the same way it blinds a scrying?",
-    "quote_verified": false
-  },
-  {
     "type": "location",
     "subject": "Southern Dining Hall",
-    "fact": "The southern dining hall retains the scent of cold porridge and tallow, contains a statue of Milil with a lead-lined brass chalice, and is where Daral made the critical realization about the chalice's possible role in concealing magical interference.",
-    "source_quote": "The dining hall still smelled like breakfast. ... Milil stood in an alcove off to one side, the god of bards: open hands, a brass chalice resting in them like an offering nobody had come to collect.",
+    "fact": "The Southern Dining Hall contains a lead-lined brass chalice statue of Milil, which Daral recalls was used during the Midsummer Wine ceremony and may have concealed magical interference.",
+    "source_quote": "We used it for the Midsummer Wine!... The Milil chalice is lead-lined.",
     "quote_verified": false
   },
   {
     "type": "object",
-    "subject": "Milil chalice",
-    "fact": "The brass chalice held by the statue of Milil is lead-lined, making it capable of blocking scrying magic and potentially concealing hidden substances or enchantments used in the poisoning plot.",
-    "source_quote": "The Milil chalice is lead-lined. ... Perhaps somebody hid something in it.",
+    "subject": "Milil's lead-lined chalice",
+    "fact": "The brass chalice held by the statue of Milil is lead-lined, potentially capable of blocking scrying magic and concealing hidden substances or enchantments.",
+    "source_quote": "Lead-lined. That's not nothing. Wouldn't lead choke off the magic that hunts down a hidden thing, the same way it blinds a scrying?",
     "quote_verified": false
   },
   {
     "type": "object",
-    "subject": "Poisoned book",
-    "fact": "The book given to Janussi by Daral was laced with poison, used as a false flag to implicate Daral in the murder while masking the true orchestrator's identity.",
+    "subject": "the poisoned book",
+    "fact": "The book given to Janussi by Daral was the vehicle of the poison, chosen for its symbolic and psychological impact to implicate Daral in the murder.",
     "source_quote": "Poisoned by a book Daral had given him.",
     "quote_verified": true
   },
   {
     "type": "monster",
     "subject": "Glabbagool",
-    "fact": "Glabbagool is a sentient ooze that exhibits persistent, almost desperate attempts to adapt \u2014 growing an eye, attempting silence, trying to grow a nose \u2014 despite lacking physical organs and being repeatedly dismissed.",
-    "source_quote": "The eye rose again, eager. He'd try. He always tries.",
+    "fact": "Glabbagool is an intelligent ooze with a persistent, hopeful nature, constantly attempting to assist others despite repeated failure, and recently offered to grow a nose to detect poison.",
+    "source_quote": "*I have learned silence,* he said. ... The eye rose again, eager. He'd try. He always tries.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "hidden magic in the chalice",
+    "fact": "The lead-lined chalice of Milil may have been used to conceal a magical substance or enchantment during the Midsummer Wine ceremony, and its purpose remains unverified.",
+    "source_quote": "Perhaps somebody hid something in it.",
     "quote_verified": true
   },
   {
     "type": "thread",
-    "subject": "who framed Daral and why",
-    "fact": "The central unresolved thread is not just who killed Janussi, but who deliberately framed Daral \u2014 and why \u2014 with the goal of removing both men from the council to enable A'lai Aivenmore's rise.",
-    "source_quote": "Who would want to frame you and kill \u2014 whatever the guy is? ... That was the question worth holding. Not the death. The double stroke.",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "hidden contents of the Milil chalice",
-    "fact": "The lead-lined chalice may contain concealed evidence \u2014 perhaps a substance, spell, or message \u2014 that was hidden to evade magical detection, and remains unexamined.",
-    "source_quote": "How could I have not thought about this? ... Trust statues. They come alive.",
-    "quote_verified": false
+    "subject": "Glabbagool's sensory evolution",
+    "fact": "Glabbagool is attempting to develop new physical capabilities \u2014 including a nose \u2014 to enhance his utility, raising the question of whether sentient oozes can biologically adapt beyond their original form.",
+    "source_quote": "I doubt this is gonna work,\" I said, \"but can Glabbagool try to grow a nose and get a good smell of the poison?",
+    "quote_verified": true
   },
   {
     "type": "date",
     "subject": "forty minutes of theater",
-    "fact": "Forty minutes of performative drama, investigation, and false leads have passed since the initial discovery, necessitating a shift in focus toward the apothecary and suspect rooms.",
+    "fact": "Forty minutes of deliberation and roleplay preceded the decision to investigate the apothecary, indicating the pacing of the group\u2019s investigative process.",
     "source_quote": "Then the decision came, because forty minutes of theater is forty minutes, and you have to move.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is methodically analyzing the lead-lined chalice in the dining hall, recognizing its potential to obstruct magical detection and suspecting it may hold hidden evidence.",
+    "source_quote": "I clocked it and kept it.",
     "quote_verified": true
   },
   {
     "type": "location",
     "subject": "Apothecary",
-    "fact": "The apothecary is the next destination for investigation, where the nature of the poison used to kill Janussi may be analyzed and traced back to its source.",
+    "fact": "The apothecary is the next destination for investigation, where the nature of the poison used in Janussi\u2019s murder may be identified.",
     "source_quote": "It seems like at least one of us should check out the apothecary,\" I said. \"Learn more about the poison.",
     "quote_verified": true
   },
   {
-    "type": "location",
-    "subject": "Suspects' rooms",
-    "fact": "The rooms of the council members are the final investigative site, where physical evidence, correspondence, or hidden items related to the double stroke may be discovered.",
-    "source_quote": "Which left the suspects' rooms. ... You'll go search everybody's room.",
+    "type": "faction",
+    "subject": "The Garden Shadow",
+    "fact": "The Garden Shadow is a known philosophical or ideological group, referenced for the saying that the most dangerous person is the one who has already decided they've won.",
+    "source_quote": "The Garden Shadow had a saying \u2014 or maybe it was Brother Tervin... that the most dangerous person in a room isn't the one with the blade drawn. It's the one who has already decided they've won.",
     "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Thorin",
-    "fact": "Thorin is a methodical investigator who insists on holding evidence mentally until it 'sits right,' and is responsible for uncovering the significance of the Milil chalice in the southern dining hall.",
-    "source_quote": "Giants don't rush a thing into place. You hold it in the air until it sits right.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "Glabbagool's attempted nose",
-    "fact": "Glabbagool attempted to grow a nose to detect the poison\u2019s scent \u2014 a futile but telling act of adaptation \u2014 highlighting his persistent, instinctual drive to assist despite physical impossibility.",
-    "source_quote": "I doubt this is gonna work,\" I said, \"but can Glabbagool try to grow a nose and get a good smell of the poison?",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "the true nature of the poison",
-    "fact": "The origin, composition, and delivery method of the poison used on Janussi remain unknown, and its connection to the Milil chalice or the apothecary is yet to be determined.",
-    "source_quote": "Learn more about the poison.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Kitchen",
-    "fact": "The kitchen is being investigated by Thorin to determine who handled the poisoned book, potentially revealing the chain of access before Janussi consumed it.",
-    "source_quote": "Thorin would take the kitchen, walk Daral through, ask who touched the book.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Daz",
-    "fact": "Daz is a pragmatic investigator who communicates with Glabbagool, attempts to extract information from the ooze, and is willing to pursue unconventional methods despite their low probability of success.",
-    "source_quote": "Whatever the ooze gave him, it wasn't enough. The eye sank back into the body. Dolefully.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "A'lai's ascension plot",
-    "fact": "A'lai Aivenmore engineered a political purge by eliminating Janussi and framing Daral to remove two dissenting voices, ensuring his uncontested rise to power within the council.",
-    "source_quote": "Clear the deck of Janussi. Clear the wood of me. No one left on the council able to prevent his ascension.",
-    "quote_verified": true
   }
 ]

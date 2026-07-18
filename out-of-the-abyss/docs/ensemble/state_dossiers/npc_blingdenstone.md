@@ -1,21 +1,15 @@
 ---
 name: Blingdenstone
 type: npc
-n_facts: 1
-chapters: 19-19
+n_facts: 2
+chapters: 19-53
 ---
 
 ### Blingdenstone
 
-- **Current status:** Alive (implied by active diplomatic engagement)
-- **Current location:** Blingdenstone (implied as the entity with whom deals are being made; no evidence of relocation)
-- **Allegiance/faction:** Gnome settlement of Blingdenstone (acting as representative or authority)
-- **Current possessions / notable items, spells, feats, wounds:** Unknown
-- **Current assignment / role:** Engaged in facilitating weapons deals with surface clans; likely a diplomatic or leadership figure within Blingdenstone
-- **Key relationships:** Werz (intermediary facilitating contact); surface clans (negotiating partners)
-- **Defining recent action:** Actively pursuing arms trade agreements with surface-dwelling clans, as brokered by Werz
+Blingdenstone is a gnome settlement that has previously experienced a major ooze crisis, an event survived by Glabbagool and now marked as significant in the group’s history. It is known as a location engaged in diplomatic efforts to secure weapons deals with surrounding clans, with Werz offering to facilitate such negotiations.
 
 ## Uncertainty
-- Blingdenstone’s exact identity (individual gnome, council, or collective entity) is unspecified — the name may refer to the settlement or a representative.
-- No confirmation whether Blingdenstone is a person, group, or place acting as an agent; the fact attributes the deal to "Blingdenstone" without clarifying who speaks for it.
-- No evidence of current physical presence or direct interaction — only that Werz claims to facilitate a deal *with* Blingdenstone.
+- The current status of Blingdenstone (alive/dead/occupied) is unclear — it is treated as a location, not an NPC, but is misclassified as an NPC. No current state (e.g., controlled by whom, damaged, rebuilt) is confirmed beyond its past crisis.
+- Werz’s offer to facilitate a deal does not confirm whether the deal occurred, is ongoing, or if Blingdenstone is still actively seeking weapons.
+- It is ambiguous whether “Blingdenstone” refers to the place or a gnome individual — the entity type is labeled as NPC, but all facts describe it as a location. No person named Blingdenstone is mentioned.

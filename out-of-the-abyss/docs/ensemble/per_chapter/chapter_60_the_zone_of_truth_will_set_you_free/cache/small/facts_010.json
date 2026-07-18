@@ -1,9 +1,21 @@
 [
   {
+    "type": "npc",
+    "subject": "A'lai",
+    "fact": "A'lai does not pay in gold or books; he pays in what he knows \u2014 specifically, knowledge about whoever is paying Menzoberranzan rates to keep a nobody drow evoker alive and functional \u2014 and that is the only price he is interested in collecting.",
+    "source_quote": "A'lai does not pay in gold, and does not pay in books. A'lai pays in what he knows. And what he knows about whoever is paying Menzoberranzan rates to keep a nobody drow evoker alive and functional: that is the only price I am interested in collecting.",
+    "quote_verified": true
+  },
+  {
     "type": "thread",
-    "subject": "A'lai's payment",
-    "fact": "A'lai does not pay in gold or books; he pays in what he knows \u2014 specifically, knowledge about whoever is paying Menzoberranzan rates to keep a nobody drow evoker alive and functional.",
-    "source_quote": "That is the only price I am interested in collecting.",
+    "subject": "mysterious payer to Menzoberranzan",
+    "fact": "An unknown entity is paying Menzoberranzan rates to keep a nobody drow evoker alive and functional, and the identity of this payer is the focus of A'lai\u2019s knowledge-based payment.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "nobody drow evoker",
+    "fact": "A nameless drow evoker is being kept alive and functional through payments to Menzoberranzan, and their existence is tied to the hidden payer and A'lai\u2019s knowledge-based terms.",
     "quote_verified": false
   }
 ]

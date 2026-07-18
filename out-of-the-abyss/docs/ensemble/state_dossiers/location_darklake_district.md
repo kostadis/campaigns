@@ -1,21 +1,21 @@
 ---
 name: Darklake District
 type: location
-n_facts: 8
+n_facts: 7
 chapters: 14-29
 ---
 
 ### Darklake District
 
-**Current status:** A lawless, dangerous zone near the docks of Gracklstugh, actively sought by the party for intelligence on recent attacks.  
-**Location:** Near the docks of Gracklstugh.  
-**Control/Occupancy:** Not explicitly controlled by any single authority; functions as a buffer zone where non-Duergars are permitted to move freely, but now rife with petty crime, traitors, and hidden intelligence.  
-**Notable condition:** The gates separating it from the rest of the city have been breached by a two-headed giant, indicating the madness infecting Gracklstugh is no longer contained. Magical goods are unavailable here.  
-**Recent significance:** Target of the party’s investigation; Themberchaud dismisses it as beneath his station, revealing his disconnect from ground-level realities.  
+- **Current status**: Active, occupied, and operational as a controlled buffer zone.
+- **Current location**: Near the docks of Gracklstugh.
+- **Control/occupation**: De facto controlled by Duergar authority; functions as a sanctioned zone for non-Duergars under strict surveillance.
+- **Current condition**: Lawless, dangerous, and rife with petty crime, traitors, and hidden intelligence. Appears outwardly calm but is marked by economic exploitation and the constant threat of disappearance or enslavement.
+- **Key features**: Isolated from the rest of Gracklstugh by gates; serves as the only area in the city where non-Duergars are permitted to move freely.
+- **Recent significance**: Target of the party’s investigation for clues related to recent attacks; actively avoided by Themberchaud, who dismisses it as beneath his station.
+- **Current assignment / role**: Functions as a buffer zone of controlled chaos — a pressure valve for dissent and a hub for illicit intelligence gathering under Duergar oversight.
 
 ## Uncertainty
-- Contradiction in name: “Darklake District” (ch14) vs. “Dark Lake District” (ch29) — unclear if this is a typographical inconsistency or a canonical shift.  
-- The gates’ current state: Breached by a two-headed giant (ch14), but no later chapter confirms whether they remain breached, repaired, or are now irrelevant due to the district’s broader corruption.  
-- Whether non-Duergars are *still* the only group permitted to move freely — ch14 states this as a rule, but ch29 implies the district is lawless and possibly unregulated; no confirmation of continued enforcement.  
-- Whether the “magical goods unavailable” restriction (ch14) still holds — no later fact confirms or contradicts it.  
-- Themberchaud’s refusal to go there (ch29) is a current narrative obstacle, but does not define the district’s physical or administrative state — only the party’s interaction with it.
+- The exact name is inconsistently rendered as “Darklake District” (ch14) and “Dark Lake District” (ch29); it is unclear if this is a typographical variation or denotes a distinction.
+- While ch14 describes it as “calm compared to the chaotic interior,” ch29 calls it “lawless and dangerous” — the contradiction is unresolved; it may reflect subjective perception (e.g., surface calm vs. underlying chaos), but the current state of its volatility is not definitively reconciled.
+- It is unclear whether the gates are still physically intact and actively enforced as of ch29, though the district’s isolation is implied by its continued function as a restricted zone.

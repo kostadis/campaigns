@@ -1,135 +1,149 @@
 [
   {
     "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is the speaker who organized the book exchange at Candlekeep, attempted to triage questions, and assigned Glabbagool to monitor the drow spy, expressing discomfort at being the focus of scholarly attention.",
+    "source_quote": "I almost feel like they should be giving us books.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
     "subject": "Daz",
-    "fact": "Daz is currently very small, very angry, and in the party's possession; he is a drow whose House T'sarran has vowed vengeance; he responds to threats with minimal affect, saying 'Tiny, tiny little vengeance.'",
-    "source_quote": "This is highly irregular, and House T'sarran will have its vengeance!",
+    "fact": "Daz is a small, angry drow in the party\u2019s possession, currently under Glabbagool\u2019s supervision, who responds to threats with dismissive sarcasm and refuses to engage with the scholarly environment.",
+    "source_quote": "Tiny, tiny little vengeance.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a practical member of the party who advocates for direct interviews over textual study, identifies key party members as sources, and facilitates the assignment of Dawnbringer to psychological counseling with Philemon.",
+    "source_quote": "Right.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Glabbagool",
-    "fact": "Glabbagool is reportedly very confused about the concept of a library with effectively infinite capacity; he does not understand why books aren't donated until questions can be asked indefinitely; he believes cute googly eyes make others perceive him more favorably, and can produce proliferating eyes to demonstrate his true nature as an ooze with multi-sensory perception.",
+    "fact": "Glabbagool is a confused, ooze-like entity who perceives the world on an incomprehensible scale, believes libraries should be infinite, and demonstrates unsettling ability to produce and manipulate eyes as affectations and tools of social control.",
     "source_quote": "I can actually see different ways. This is how ooze work. But I discovered that if you have these cute eyes, people take you more friendly.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "The First Reader",
-    "fact": "The First Reader received all five books with barely-contained delight; she reveres the Velkynvelve Prisoner Journal as a masterpiece and maintains a collection of drow prison journals; she assigns scholars to specific threads and is open to being interviewed directly as a primary source.",
+    "fact": "The First Reader is the senior scholar at Candlekeep who receives the party\u2019s books, assigns scholarly threads to avowed, and shows reverence for the Velkynvelve Prisoner Journal, particularly in relation to drow prison journals.",
     "source_quote": "This journal of the prisoners is a masterpiece of interesting value. I can't wait to study it carefully.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Thorin",
-    "fact": "Thorin is practical and perceptive; she suggested the party be interviewed instead of reading books; she identified Daz as a drow in their possession; she delivered a merciless response to the spy's request for a question; she accepted the assignment to couples counseling with Dawnbringer with clear relief.",
-    "source_quote": "You don't get a question. You did not donate a book.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
     "subject": "Vareth",
-    "fact": "Vareth is an elderly half-elf scholar with a decades-long specialty in half-orc Bahamut converts; he is frantic and outraged that the First Reader did not inform him of the arrival of a cleric of Bahamut; his quiet niche became suddenly significant after Stroud beat Protanther at chess.",
+    "fact": "Vareth is an elderly half-elf scholar specializing in half-orc Bahamut converts, who arrives in a state of frantic excitement upon learning of the party\u2019s cleric, viewing their arrival as a breakthrough in his long-neglected niche of study.",
     "source_quote": "I cannot believe you did not tell me about the arrival of a cleric of Bahamut.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Zalthir",
-    "fact": "Zalthir is an avowed scholar assigned to the Jimjar thread, which dovetailed with an avowed named Khell-Vire interested in a specific subject \u2014 not the party generally, but the narrator in particular.",
+    "fact": "Zalthir is an avowed scholar at Candlekeep assigned to investigate the Jimjar thread, which unexpectedly dovetails with the interests of Khell-Vire and centers on Grygum specifically.",
     "source_quote": "Zalthir wanted to know about Jimjar.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Philemon",
-    "fact": "Philemon is an avowed monk specializing in psychological preservation and historical cataloging of ancient sentient artifacts; he has a tremendous track record in resolving interpersonal conflict issues of sentient artifacts; he was assigned to Thorin and Dawnbringer for couples counseling.",
+    "fact": "Philemon is an avowed monk specializing in psychological preservation and historical cataloging of ancient sentient artifacts, who is assigned to counsel Thorin and Dawnbringer in interpersonal conflict resolution.",
     "source_quote": "an avowed monk specializing in psychological preservation and historical cataloging of ancient sentient artifacts, with a tremendous track record of success in working through the interpersonal conflict issues of the sentient artifact.",
     "quote_verified": true
   },
   {
     "type": "faction",
     "subject": "House T'sarran",
-    "fact": "House T'sarran is a drow house that has vowed vengeance against Daz, a member of the party who is currently in their possession; their threat is delivered with ceremonial gravity but met with Daz's dismissive tone.",
+    "fact": "House T'sarran is a drow noble house that threatens vengeance against the party for the capture of their spy, whose voice is described as the volume of an extremely annoyed insect.",
     "source_quote": "This is highly irregular, and House T'sarran will have its vengeance!",
     "quote_verified": true
   },
   {
-    "type": "faction",
-    "subject": "The Avowed",
-    "fact": "The Avowed are scholars and sages of Candlekeep who assign questions in exchange for books; they maintain specialized threads (e.g., Jimjar, Khell-Vire) and prioritize individual-focused inquiry over general party observation; they operate with ritualized precision and academic hierarchy.",
-    "source_quote": "not about the party generally, but about *me* in particular.",
-    "quote_verified": true
-  },
-  {
     "type": "event",
-    "subject": "book exchange",
-    "fact": "Five books were donated to the First Reader, triggering the assignment of scholars to specific threads; each book corresponded to one question, and the exchange activated a cascade of academic interest in the party members, particularly the narrator and Daz.",
+    "subject": "book exchange at Candlekeep",
+    "fact": "The party exchanged five books for scholarly access, triggering a cascade of assigned research threads, scholarly attention, and unexpected interventions from specialized academics.",
     "source_quote": "We gave all five books.",
     "quote_verified": true
   },
   {
     "type": "event",
     "subject": "arrival of the cleric of Bahamut",
-    "fact": "The arrival of a cleric of Bahamut \u2014 the narrator \u2014 triggered a frantic intervention by Vareth, a half-elf scholar whose decades-long niche in half-orc Bahamut converts became suddenly relevant; this event was perceived as academically significant only after Stroud beat Protanther at chess.",
+    "fact": "The presence of the party\u2019s cleric of Bahamut triggered a dramatic intervention by Vareth, a scholar who had spent decades studying half-orc Bahamut converts in obscurity, marking a turning point in his academic career.",
     "source_quote": "I cannot believe you did not tell me about the arrival of a cleric of Bahamut.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Stroud beats Protanther at chess",
-    "fact": "Stroud's victory over Protanther at chess acted as an unexpected catalyst that elevated the academic relevance of niche studies, particularly Vareth's work on half-orc Bahamut converts, transforming a quiet specialty into a matter of urgent scholarly interest.",
-    "source_quote": "And then Stroud beat Protanther at chess.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "Velkynvelve Prisoner Journal",
-    "fact": "The Velkynvelve Prisoner Journal is a revered artifact held by the First Reader; it is considered a masterpiece of drow prison writing and is part of an established collection of drow prison journals.",
-    "source_quote": "This journal of the prisoners is a masterpiece of interesting value.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "prayer beads",
-    "fact": "The spy demanded information about the prayer beads, a bold request given their current status as an unbook-donating captive; this request was immediately denied by Thorin.",
-    "source_quote": "The spy's voice came out approximately at the volume of an extremely annoyed insect.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "Khell-Vire and the narrator",
-    "fact": "Khell-Vire, an avowed scholar, is interested in a specific subject \u2014 not the party generally, but the narrator in particular \u2014 which was assigned to Zalthir as part of the Jimjar thread; this indicates the narrator is a subject of unique academic fascination.",
-    "source_quote": "not about the party generally, but about *me* in particular.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "Dawnbringer and Thorin",
-    "fact": "Dawnbringer and Thorin are assigned to Philemon for couples counseling, indicating their relationship is recognized as a sentient artifact with interpersonal conflict requiring psychological preservation and historical cataloging.",
-    "source_quote": "I'm all up for couples counseling with Dawnbringer.",
-    "quote_verified": true
-  },
-  {
-    "type": "date",
-    "subject": "after Stroud beats Protanther at chess",
-    "fact": "The event of Stroud beating Protanther at chess serves as a temporal anchor that reconfigured academic priorities, making previously obscure studies suddenly urgent and relevant.",
-    "source_quote": "And then Stroud beat Protanther at chess.",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool is an ooze entity capable of producing proliferating eyes; he presents himself with affectations of cute googly eyes to appear more approachable, but his true perception is multi-sensory; he is not a threat but a being whose scale of perception exceeds the comprehension of others.",
-    "source_quote": "I can actually see different ways. This is how ooze work.",
     "quote_verified": true
   },
   {
     "type": "location",
     "subject": "Candlekeep",
-    "fact": "Candlekeep is an academic sanctuary where knowledge is exchanged for books, and scholars (the Avowed) are assigned to specialized threads; it operates with ritualized hierarchy and intense focus on individual narratives over collective ones.",
-    "source_quote": "the sages, the professors \u2014 providing more books will get you more FaceTime.",
+    "fact": "Candlekeep is a vast library fortress where scholarly access is granted through book exchange, and where avowed monks, professors, and specialized scholars assign research threads based on the party\u2019s contributions and presence.",
+    "source_quote": "The rules say that you must provide one book per group.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Velkynvelve Prisoner Journal",
+    "fact": "The Velkynvelve Prisoner Journal is a revered artifact in Candlekeep\u2019s collection, noted for its detailed accounts of drow prison life and held in high esteem by the First Reader as part of a broader archive.",
+    "source_quote": "She lingered on the Velkynvelve Prisoner Journal with particular reverence.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "prayer beads",
+    "fact": "The drow spy demanded access to a question about prayer beads, a bold and ill-timed request following their capture and denial of scholarly privileges.",
+    "source_quote": "The spy's voice came out approximately at the volume of an extremely annoyed insect. '...about the prayer beads.'",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Jimjar thread",
+    "fact": "The Jimjar thread is a scholarly inquiry assigned to Zalthir, which unexpectedly intersects with the interests of Khell-Vire and focuses specifically on Grygum, not the party as a whole.",
+    "source_quote": "Zalthir got the Jimjar thread \u2014 which apparently dovetailed neatly with an avowed named Khell-Vire who wanted to learn about something specific. The First Reader clarified: not about the party generally, but about *me* in particular.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Dawnbringer psychological counseling",
+    "fact": "The thread concerning Dawnbringer was assigned to Philemon for psychological preservation and interpersonal conflict resolution, indicating Dawnbringer is recognized as a sentient artifact with emotional history.",
+    "source_quote": "I'm all up for couples counseling with Dawnbringer.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "half-orc Bahamut converts",
+    "fact": "Vareth\u2019s decades-long academic thread on half-orc Bahamut converts, previously a quiet niche, became suddenly significant upon the party\u2019s arrival, marking a breakthrough in his research.",
+    "source_quote": "a decades-long specialty in half-orc Bahamut converts. Which had, until recently, been a quiet, small area of study.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Stroud beat Protanther at chess",
+    "fact": "The event of Stroud beating Protanther at chess is referenced as the catalyst that altered the academic landscape, leading to heightened attention on the party\u2019s cleric and triggering Vareth\u2019s arrival.",
+    "source_quote": "And then Stroud beat Protanther at chess.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool's proliferating eyes",
+    "fact": "Glabbagool manifests a proliferating swarm of eyes as both a demonstration of his true perception and a social tool to appear more approachable, creating a deeply unsettling and creepy phenomenon.",
+    "source_quote": "he started producing eyes. Many eyes. Proliferating eyes. It got very creepy very quickly.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Khell-Vire",
+    "fact": "Khell-Vire is an avowed scholar at Candlekeep whose interests intersect with Zalthir\u2019s Jimjar thread and focus specifically on Grygum, indicating an unusual level of personal scholarly interest.",
+    "source_quote": "dovetailed neatly with an avowed named Khell-Vire who wanted to learn about something specific.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Philemon",
+    "fact": "Philemon is an avowed monk specializing in psychological preservation and historical cataloging of ancient sentient artifacts, who is assigned to counsel Thorin and Dawnbringer in interpersonal conflict resolution.",
+    "source_quote": "an avowed monk specializing in psychological preservation and historical cataloging of ancient sentient artifacts, with a tremendous track record of success in working through the interpersonal conflict issues of the sentient artifact.",
     "quote_verified": true
   }
 ]

@@ -1,0 +1,134 @@
+[
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a cleric of Bahamut who uses theatrical divine rhetoric to manipulate and interrogate Derro, often deflecting their madness with performative piety and psychological pressure, and has personally pushed a Derro named Skiit into a pit.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow spellcaster who employs lethal magic with clinical precision, kills Derro with spells like Toll the Dead and Maximillian\u2019s Earthen Grasp, and recognizes the cultist Ulnara as a Demogorgon devotee while exploiting her fear of Drow authority.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a dwarf warrior who relies on brute force and armor to dominate Derro in combat, kills multiple Derro with his longsword, dismisses their madness as unworthy of reasoning with, and makes impulsive decisions like declaring 'East' during navigation.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a monk who observes silently, acts decisively without speech, and uses darkness magic to envelop Derro in combat, critically striking one with precise arcane speed while maintaining emotional detachment.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Skiit",
+    "fact": "Skiit is a Derro cultist of Demogorgon who believes he serves a higher purpose, mutters obsessively about Pliinki and Skiit\u2019s promised better job, and becomes a target of Grygum\u2019s manipulation and Daz\u2019s lethal magic after being thrown into a pit.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Ulnara",
+    "fact": "Ulnara is a Derro necromancer and Demogorgon cultist who oversees body-part harvesting for a 'great project,' transforms corpses into zombies, and shifts from arrogance to subservience upon realizing Daz is a Drow.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Narrak",
+    "fact": "Narrak is a Derro ritual master and high priest of Demogorgon who conducts experiments in a hellish cavern, chants doctrines of Derro supremacy, and presides over forbidden texts like 'The Prince's Gift' and 'Rituals of the Two-Headed Beast.'",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Ember Vanguard",
+    "fact": "The Ember Vanguard is a mysterious group that presents itself as a unified force, though its members are fractured in allegiance and purpose; Grygum claims it as a divine entity, Daz operates under its banner, and it is mistaken by Derro for either Duergar or Mindflayer agents.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Derro",
+    "fact": "The Derro are mind-flayer-corrupted dwarves, driven insane and devoted to Demogorgon, who serve as laborers, necromancers, and ritualists in underground complexes, muttering incoherently, obsessed with body parts, and incapable of rational discourse.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Cult of Demogorgon",
+    "fact": "The Cult of Demogorgon is actively entrenched among the Derro, who believe their madness and atrocities are divine acts of elevation; they revere the Two-Headed Beast, perform rituals using forbidden texts, and view the Duergar as enemies to be destroyed.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Pit of Ulnara",
+    "fact": "The Pit of Ulnara is a massive, stinking chasm filled with decomposing body parts and shambling zombies, used for harvesting flesh and creating undead, with a narrow tunnel leading from its southeast wall and glowing faerzress fog swirling around it.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Ritual Cavern of Narrak",
+    "fact": "The Ritual Cavern of Narrak is a hellish chamber with red spiral walls, glowing ritual circles, and books on Demogorgon\u2019s influence; it is inhabited by Derro and death dogs, and contains forbidden tomes like 'The Spiraling Descent' and 'Rituals of the Two-Headed Beast.'",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Derro Cage Chamber",
+    "fact": "The Derro Cage Chamber is a dark room lined with scrap-iron cages, a spiral path marked by stone pylons, and two deranged Derro who speak in riddles about the 'prince's hunger' and 'dark lake scales,' emitting a foul odor that nearly overwhelms the party.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Amulet of Demogorgon",
+    "fact": "The Amulet of Demogorgon is worn by Skiit and possibly others among the Derro; it is a visible symbol of their heretical devotion, and its presence confirms their transformation from laborers into fanatical cultists.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Trillimac Books",
+    "fact": "The Trillimac Books are ancient, bound volumes found in Narrak\u2019s ritual chamber, containing treatises on madness, duality, and Demogorgon\u2019s favored spawn; they serve as irrefutable evidence of the demon lord\u2019s influence on the Derro.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum\u2019s Divine Scrutiny",
+    "fact": "Grygum performs a Divine Scrutiny on Ulnara, framing the question 'Who do you work for?' as a profound theological inquiry, using elaborate rhetoric to confuse and manipulate her, revealing the group\u2019s internal disunity and performative piety.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Derro Patrol Attack",
+    "fact": "A Derro patrol attacks the party after Grygum declares his worship of Bahamut, triggering violent chaos; Thorin kills two Derro with his sword, Daz uses magic missiles, and Zalthir summons darkness, demonstrating the Derro\u2019s inability to reason and their fatal devotion to Demogorgon.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Skiit\u2019s Death",
+    "fact": "Skiit is thrown into a pit by Grygum, then targeted by Daz\u2019s magic; he briefly revives, escapes Maximillian\u2019s Earthen Grasp, but is ultimately killed by Toll the Dead, his final words revealing his delusional belief in Demogorgon\u2019s favor.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Identity of the Ember Vanguard",
+    "fact": "The true allegiance of the Ember Vanguard remains ambiguous; its members claim divine authority, but their actions suggest opportunism, and the Derro suspect they serve the Duergar or Mindflayers \u2014 a mystery that may unravel later.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Great Project of Ulnara",
+    "fact": "The Great Project of Ulnara involves harvesting body parts for an unknown purpose tied to Demogorgon\u2019s will; its progress is monitored by Derro who fear failure and plead for better jobs, but its ultimate goal remains obscured by madness.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Prince\u2019s Hunger",
+    "fact": "The Derro repeatedly reference 'the prince' and his 'hunger,' suggesting a living, consuming entity tied to Demogorgon; this may be a manifestation of the demon lord or a new creation, and its presence is hinted at through the cauldrons and obsidian scales.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occur during the ongoing journey through the subterranean labyrinth of Gracklstugh, following the collapse of prior alliances and the emergence of the Ember Vanguard as a new, unstable force.",
+    "quote_verified": false
+  }
+]

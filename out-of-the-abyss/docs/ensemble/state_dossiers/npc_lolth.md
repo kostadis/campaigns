@@ -1,29 +1,22 @@
 ---
 name: Lolth
 type: npc
-n_facts: 3
-chapters: 19-50
+n_facts: 2
+chapters: 19-56
 ---
 
 ### Lolth
 
-- **Current status:** Alive (as an active deity invoked and worshipped).  
-- **Current location:** Not specified; worshipped as an abstract, transcendent entity.  
-- **Allegiance/faction:** Supreme deity of the Spider Queen cult; opposed to Ilvara’s “bride heresy.”  
-- **Current possessions / notable items, spells, feats, wounds:** None (as a deity, no physical possessions or wounds are attributed).  
-- **Current assignment / role and key relationships:**  
-  - Worshipped by Asha Vandree as the sole source of her faith and resistance to Ilvara’s spores.  
-  - Contrasted with Ilvara, who claims the “bride” is Lolth’s further manifestation — a claim Asha rejects as heresy.  
-  - Revered as an absolute, cold, and unyielding deity whose gratitude is not casually claimed.  
-  - Daz’s assertion that he “already feels the gratitude of Lolth” is treated as evidence of false devotion, implying Lolth’s favor is not easily earned or falsely claimed.  
-- **Defining recent actions:**  
-  - Her doctrine is being challenged by Ilvara’s heretical movement, which positions the “bride” as her new manifestation.  
-  - Her influence remains potent among true followers like Asha, who maintain unwavering fidelity to her as the original Spider Queen.  
-- **Revealed motivations or secrets:**  
-  - Her nature is one of absolute authority and emotional detachment — gratitude is not a gift given lightly, and false claims of it are recognized as signs of corruption.  
-  - She is not merely a symbol, but an active, discerning deity whose true followers are identifiable by their rigid adherence and rejection of syncretic heresies.
+- **Current status:** Alive  
+- **Current location:** Unknown (not specified)  
+- **Allegiance/faction:** None explicitly stated; traditionally associated with drow and spider deities, but no current affiliation is confirmed  
+- **Current possessions / notable items, spells, feats, wounds:** None  
+- **Current assignment / role and key relationships:** None explicitly stated; referenced as a deity in theological context  
+- **Defining recent actions:** Equated with Zuggtmoy in a theological document recovered from Asha Vandree’s chain mail, a comparison written in a hand attempting to appear incidental  
+- **Revealed motivations or secrets:** Originated through betrayal and subterfuge; now implicitly linked to Zuggtmoy in esoteric theology, suggesting a hidden syncretism or heresy
 
 ## Uncertainty
-- The nature of Lolth’s direct interaction with the material plane (if any) is not described — only her influence through worship and opposition to heresy.  
-- Whether Ilvara’s claim that the bride is Lolth’s manifestation is true or false is left ambiguous; the text only records Asha’s rejection of it, not an objective verification.  
-- Daz’s claim of feeling Lolth’s gratitude is condemned, but it is unclear whether he is lying, deluded, or has somehow corrupted her grace — the source does not clarify his actual relationship to her.
+- The nature of the Lolth/Zuggtmoy equivalence is unexplained — whether it is doctrinal truth, heretical fabrication, or symbolic metaphor is not stated.  
+- The hand that wrote the equivalence is identified as belonging to someone associated with Asha Vandree, but the writer’s identity and intent are unknown.  
+- It is unclear whether this theological equation reflects Lolth’s current state, a belief held by others, or a deception — the fact does not confirm Lolth’s own alignment with Zuggtmoy.  
+- No information confirms Lolth’s current location, activities, or direct interactions beyond this textual reference.

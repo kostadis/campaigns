@@ -2,568 +2,526 @@
   {
     "type": "date",
     "subject": "session date",
-    "fact": "The session occurs on the day of the murder at half past two, with events unfolding through the night and into the next day.",
+    "fact": "A'lai showed up at the Oak Tree Apothecary at half past two on the day of the murder.",
     "source_quote": "A'lai had shown up at the Oak Tree Apothecary at half past two on the day of the murder",
     "quote_verified": true
   },
   {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "An hour passes between two events in the session.",
-    "source_quote": "A polymorph spell lasts an hour",
-    "quote_verified": true
-  },
-  {
     "type": "monster",
-    "subject": "chasme count",
-    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
-    "source_quote": "Where are the four of you? Who were the rest of you? I didn't see you at the talk.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "travel to Sloobludop",
-    "fact": "Sloobludop is approximately eight days away via the Darklake.",
-    "source_quote": "there's plenty of time to heal him",
+    "subject": "dragonborn count",
+    "fact": "A dragonborn had arrived at the apothecary, per the testimony of Nibbles the squirrel.",
+    "source_quote": "a dragonborn had arrived",
     "quote_verified": true
   },
   {
     "type": "location",
     "subject": "Velkynvelve elevation",
-    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
+    "fact": "Velkynvelve is the bottom of the world, where a dwarf was in chains.",
     "source_quote": "Velkynvelve, which is where this all started: a dwarf in the wrong place, in chains, at the bottom of the world",
     "quote_verified": true
   },
   {
-    "type": "object",
-    "subject": "silver candlestick value",
-    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
-    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
-    "quote_verified": false
+    "type": "event",
+    "subject": "polymorph spell duration",
+    "fact": "A polymorph spell lasts an hour.",
+    "source_quote": "A polymorph spell lasts an hour",
+    "quote_verified": true
   },
   {
-    "type": "location",
-    "subject": "Alkrist's safe location",
-    "fact": "Alkrist's safe is unopened and located in Alkrist's chambers, accessible only through a gap Glabbagool could potentially eat through.",
-    "source_quote": "open threads: Alkrist's safe, unopened",
+    "type": "event",
+    "subject": "time gap between sightings",
+    "fact": "There was a minimum two-hour gap between the Sylvira lookalike being seen in the kitchens and coming down the stairs.",
+    "source_quote": "That's a minimum two-hour gap",
     "quote_verified": true
   },
   {
     "type": "object",
-    "subject": "sapphire and locket relationship",
-    "fact": "The sapphire is required to find a lost locket; the locket cannot be stolen from a living person holding it.",
+    "subject": "sapphire and locket value relation",
+    "fact": "You can't steal a locket off someone who's alive and holding it; you need the sapphire to find a locket that's already lost.",
     "source_quote": "you can't steal a locket off someone who's alive and holding it. You need the sapphire to find a locket that's already lost",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "monograph authorship",
-    "fact": "A monograph cannot have multiple authors; a duograph or acknowledged contribution is acceptable.",
-    "source_quote": "It's a work that has one author",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "cheese memory",
-    "fact": "Glabbagool remembers cheese as a real, lost food, and grieves its absence with genuine longing.",
-    "source_quote": "I remember when there was cheese. Perhaps if we had some cheese.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Glabbagool's evaluation zone",
-    "fact": "Glabbagool evaluates documents with the same acidic, nutritional focus he applies to food, and has declared non-nutritious material inedible.",
-    "source_quote": "This is not nutritious. This is not food.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "polymorph contradiction",
-    "fact": "A two-hour gap in sightings contradicts the one-hour duration of a standard polymorph spell, implying a more complex magical mechanism.",
-    "source_quote": "She'd been seen coming down the stairs between two and three. That's a minimum two-hour gap. A polymorph spell lasts an hour.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Candlekeep monograph archive",
-    "fact": "Candlekeep values monographs as currency of scholarly influence, with multiple individuals seeking authorship in a single afternoon.",
-    "source_quote": "Two men after a monograph in one afternoon. That told me something about how this library keeps score.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "myth of the person",
-    "fact": "The dead retain their biases, memories, and performances; magic does not grant objective truth.",
-    "source_quote": "The myth of the person. The assumption that death is a transparency... They don't. They're still themselves.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "terrain as truth",
-    "fact": "In the Underdark, terrain is the only reliable evidence; magic and testimony are shifting surfaces over fixed facts.",
-    "source_quote": "In the Underdark, the one thing that didn't lie was terrain.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Oak Tree Apothecary crime scene",
-    "fact": "The apothecary garden and inner chambers are the site of the poisoning and initial intrusion, with separate theft occurring later.",
-    "source_quote": "the poison was collected. A mess was made. Alkrist was a dragonborn. Zalthir had caught that this referred to the apothecary intrusion, not whoever had later removed the heart and looted the safe",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "Grygum's deduction principle",
-    "fact": "Once the impossible is eliminated, whatever remains \u2014 however unlikely \u2014 must be the truth.",
-    "source_quote": "Once you have eliminated the impossible, whatever remains, however unlikely, must be the truth?",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Grygum's secretary's office",
-    "fact": "Glabbagool, the gelatinous cube, serves as secretary and receives all documents, evaluating them for nutritional content.",
-    "source_quote": "I indicated Glabbagool.",
+    "type": "npc",
+    "subject": "Daral's remaining time",
+    "fact": "Daral looked like someone counting down.",
+    "source_quote": "He looked alive, technically, though with the specific quality of someone counting down",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "gelatinous cube capability",
-    "fact": "Glabbagool can eat through walls and safes, but chooses restraint to maintain stealth in investigations.",
-    "source_quote": "I guess I could have eaten through the safe. It would have taken a while. Walls don't stop us. I can eat through walls.",
+    "subject": "sequence of Daral's poison exposure",
+    "fact": "Daral licked his finger, licked the book, then licked his finger again.",
+    "source_quote": "he had licked his finger, licked the book, then licked his finger again",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "safe accessibility",
+    "fact": "Glabbagool could eat through the safe, as walls present no meaningful obstacle to his methodology.",
+    "source_quote": "I guess I could have eaten through the safe. It would have taken a while",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "monograph request sequence",
+    "fact": "Fembris Lancer and Elian both asked for a monograph in the same afternoon.",
+    "source_quote": "First Fembris, now Elian. Two men after a monograph in one afternoon",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "sequence of Glabbagool's emotional response",
+    "fact": "Glabbagool first declared the notes not nutritious, then expressed grief about the loss of cheese.",
+    "source_quote": "This is not nutritious. ... I remember when there was cheese. Perhaps if we had some cheese",
     "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "gap size for Glabbagool",
+    "fact": "Glabbagool distinguished between a gap that admitted a gelatinous cube and one that did not.",
+    "source_quote": "Glabbagool had made the distinction between a gap that admitted a gelatinous cube and a gap that did not",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "time of Sylvira lookalike sightings",
+    "fact": "The Sylvira lookalike was seen in the kitchens around one in the morning and coming down the stairs between two and three.",
+    "source_quote": "the Sylvira lookalike had been seen in the kitchens around one in the morning. She'd been seen coming down the stairs between two and three",
+    "quote_verified": true
   },
   {
     "type": "date",
     "subject": "session date",
-    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
-    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
+    "fact": "The events occur during a time when winter flu is prevalent, suggesting a seasonal context, but no specific calendar date is stated.",
+    "source_quote": "",
     "quote_verified": false
   },
   {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "An hour passes between two events in the session.",
-    "source_quote": "An hour later",
-    "quote_verified": false
+    "type": "event",
+    "subject": "travel to third-story apartment",
+    "fact": "The third-story apartment in Janussi's chambers was still unvisited.",
+    "source_quote": "The third-story apartment in Janussi's chambers was still unvisited.",
+    "quote_verified": true
   },
   {
     "type": "monster",
-    "subject": "chasme count",
-    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
-    "source_quote": "four chasme and two vrock",
-    "quote_verified": false
+    "subject": "mage hand count",
+    "fact": "A mage hand was used by Sylvira to organize chamber seats.",
+    "source_quote": "A mage hand, which was interesting",
+    "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "travel to Sloobludop",
-    "fact": "Sloobludop is approximately eight days away via the Darklake.",
-    "source_quote": "the town of Sloopdopblop is just eight days away",
-    "quote_verified": false
+    "type": "npc",
+    "subject": "investigators count",
+    "fact": "Three investigators were assigned to three lines of inquiry: Grygum, Daz, and the one hunting Kalan.",
+    "source_quote": "Three lines of inquiry. Three investigators.",
+    "quote_verified": true
   },
   {
-    "type": "location",
-    "subject": "Velkynvelve elevation",
-    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
-    "source_quote": "Drow outpost was 100' in the sky",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "silver candlestick value",
-    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
-    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "third-story apartment discovery",
-    "fact": "A third-story apartment with an open door in Janussi's chambers remains unvisited.",
-    "source_quote": "There's something listed as a third-story apartment with an open door we haven't gone into.",
+    "type": "npc",
+    "subject": "dragonborn count",
+    "fact": "Two dragonborn are present: Zalthir and Alkrist.",
+    "source_quote": "Alkrist is dragonborn. So am I.",
     "quote_verified": true
   },
   {
     "type": "object",
-    "subject": "wrapping paper trail",
-    "fact": "The wrapping paper from the poisoned book was taken to Janussi's third-story apartment.",
+    "subject": "wrapping paper value",
+    "fact": "The wrapping paper from the poisoned book was taken to the third-story apartment as evidence.",
     "source_quote": "the wrapping paper from the poisoned book had been taken there",
     "quote_verified": true
   },
   {
-    "type": "monster",
-    "subject": "Kalan Strongbranch",
-    "fact": "Kalan Strongbranch, the First Reader, is the target of a blocked proposal and is now being hunted for his truth-seeking spell.",
-    "source_quote": "Kalan Strongbranch. The First Reader. The one with the truth-seeking spell that had already anchored the investigation once.",
-    "quote_verified": true
-  },
-  {
     "type": "event",
-    "subject": "feast burning",
-    "fact": "Alkrist burned something at the feast, a detail unflagged until Grygum recalled it.",
-    "source_quote": "there's something in the list about what Alkrist burned at the feast \u2014 you should ask about that.",
+    "subject": "Kalan's proposal rejection",
+    "fact": "Janussi blocked Kalan Strongbranch's proposal for new criminal investigation methodologies.",
+    "source_quote": "Janussi had reviewed Kalan Strongbranch's proposal for new criminal investigation methodologies, found it to be solipsism, and had blocked it.",
     "quote_verified": true
   },
   {
     "type": "location",
-    "subject": "Sylvira's quarters",
-    "fact": "Sylvira's quarters are a fevered, overheated chamber where she is framed for murder and dying under poison.",
-    "source_quote": "Sylvira was framed for the murder and dying slowly under the poison's effect.",
+    "subject": "Janussi's chambers third floor",
+    "fact": "The third-story apartment in Janussi's chambers was the location of unexamined evidence.",
+    "source_quote": "The third-story apartment in Janussi's chambers was still unvisited.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "Sylvira's confession",
-    "fact": "Sylvira admitted to her final words with Janussi and suspected Kazryn Nyantani of the murder.",
-    "source_quote": "Those were my last words with him... That bitter old hag... who always resented Janussi for ditching her in favor of me.",
-    "quote_verified": false
+    "subject": "Sylvira's fever duration",
+    "fact": "Sylvira was suffering from a bad case of the winter flu during the interview.",
+    "source_quote": "the witness had a bad case of the winter flu",
+    "quote_verified": true
   },
   {
     "type": "object",
-    "subject": "Janussi's critique",
-    "fact": "Janussi's written critique dismissed Kalan Strongbranch's criminal investigation methodology as solipsism.",
-    "source_quote": "found it to be solipsism, and had blocked it... dismissed as solipsism. Shelved.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Fembris hunts Kalan",
-    "fact": "Fembris set out to hunt Kalan Strongbranch, the First Reader, to bind the Alkrist interview.",
-    "source_quote": "I'm gonna have to hunt Kalan down... Let me go, let me go.",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Janussi's chambers",
-    "fact": "Janussi's chambers contain a third-story apartment with hidden evidence, personal writings, and unresolved academic rivalries.",
-    "source_quote": "Janussi's chambers... The third floor was... well... We kind of heard Janussi had these habits.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Daz interviews Sylvira",
-    "fact": "Daz conducted a deliberate, empathetic interview with Sylvira, uncovering her framing and motive tied to Menzoberranzan prejudice.",
-    "source_quote": "I believe I said you were framed... She took it. It was accurate, if not warm.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Grygum uncovers Janussi's note",
-    "fact": "Grygum discovered and analyzed Janussi\u2019s damning academic note rejecting Kalan\u2019s methodology.",
-    "source_quote": "I read it... Oh boy, this starts out with some real academic insult.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Alkrist interview preparation",
-    "fact": "The Alkrist interview is pending, to be bound by Kalan\u2019s truth spell and informed by the feast burning detail.",
-    "source_quote": "we needed Kalan. And Kalan, apparently, had gone somewhere.",
+    "subject": "poisoned book value",
+    "fact": "The poisoned book was wrapped in paper that was taken to the third-story apartment.",
+    "source_quote": "the wrapping paper from the poisoned book",
     "quote_verified": true
   },
   {
-    "type": "location",
+    "type": "thread",
     "subject": "Menzoberranzan thread",
-    "fact": "The Menzoberranzan thread underlies the framing of Sylvira and the cultural distrust in the investigation.",
+    "fact": "A Menzoberranzan thread was running under all of the events in the investigation.",
     "source_quote": "the Menzoberranzan thread running under all of this",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "three lines of inquiry",
-    "fact": "Three lines of inquiry\u2014Grygum on physical evidence, Daz on Sylvira, Kalan on truth-binding\u2014are cleanly divided among investigators.",
-    "source_quote": "Three lines of inquiry. Three investigators. The work divided cleanly, cleaner than most things we attempted.",
+    "subject": "Kalan's truth spell usage",
+    "fact": "Kalan Strongbranch had cast a truth-seeking spell that had already anchored the investigation once.",
+    "source_quote": "the truth-seeking spell that had already anchored the investigation once",
     "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Alkrist's feast burning",
+    "fact": "Alkrist burned something at the feast, as noted in the list.",
+    "source_quote": "there's something in the list about what Alkrist burned at the feast",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch title",
+    "fact": "Kalan Strongbranch is the First Reader.",
+    "source_quote": "Kalan Strongbranch. The First Reader.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sylvira's species",
+    "fact": "Sylvira is a tiefling and technically an abyssal spawn.",
+    "source_quote": "people look at a tiefling and assume she's an abyssal spawn. She happened, technically, to be an abyssal spawn",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz's species",
+    "fact": "Daz is drow.",
+    "source_quote": "he was drow",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Sylvira's quarters temperature",
+    "fact": "Sylvira's quarters had a faux fireplace blazing with intense heat, yet she shivered from cold.",
+    "source_quote": "A faux fireplace blazed along one wall, throwing out heat with the single-mindedness of a spell running at full force, yet Sylvira kept shuddering anyway",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's observation sequence",
+    "fact": "Zalthir noticed Alkrist's dragonborn nature the way he notices the size of a room before noticing the people in it.",
+    "source_quote": "I noticed this the way I notice the size of a room before I notice the people in it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Fembris's errand sequence",
+    "fact": "Fembris departed to hunt Kalan and would return with him at some point.",
+    "source_quote": "At some point I'll return with Kalan.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum's note discovery",
+    "fact": "Grygum found a note in the third-story apartment that contained academic criticism of Kalan.",
+    "source_quote": "There was a note. Oh, a note! I read it.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Sylvira's last words sequence",
+    "fact": "Sylvira's last words with Janussi were after their argument.",
+    "source_quote": "those were my last words with him",
+    "quote_verified": false
   },
   {
     "type": "date",
     "subject": "session date",
-    "fact": "The session occurs on the 11:30 PM of Deadwinter evening, the end-of-year meeting.",
+    "fact": "Kalan Strongbranch came before Deadwinter evening.",
+    "source_quote": "Kalan Strongbranch had come to her before Deadwinter evening",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "The end-of-year meeting had been at 11:30 PM.",
     "source_quote": "The end-of-year meeting had been at 11:30 PM",
     "quote_verified": true
   },
   {
     "type": "date",
-    "subject": "elapsed time",
-    "fact": "An hour passes between two events in the session, from 12:30 to 1:00 AM.",
-    "source_quote": "Between 12:30 and 1 in the morning",
+    "subject": "return time",
+    "fact": "She returned to her chambers around 12:30.",
+    "source_quote": "She'd returned to her chambers around 12:30",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "post-return timeline",
+    "fact": "After 12:30, she came to her room and saw no one.",
+    "source_quote": "After 12:30, she came to her room and saw no one",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "alibi window",
+    "fact": "Between 12:30 and 1 in the morning, she was feverish and alone.",
+    "source_quote": "Between 12:30 and 1 in the morning, feverish, alone",
     "quote_verified": true
   },
   {
     "type": "monster",
-    "subject": "chasme count",
-    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
-    "source_quote": "four chasme and two vrock",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "travel to Sloobludop",
-    "fact": "Sloobludop is approximately eight days away via the Darklake.",
-    "source_quote": "the town of Sloopdopblop is just eight days away",
-    "quote_verified": false
+    "subject": "son origin",
+    "fact": "Her son was born in the Abyss.",
+    "source_quote": "She had a son, born in the Abyss",
+    "quote_verified": true
   },
   {
     "type": "location",
-    "subject": "Velkynvelve elevation",
-    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
-    "source_quote": "Drow outpost was 100' in the sky",
+    "subject": "son's residence",
+    "fact": "Her son lives in a Mordenkainen's Mansion she constructed for his protection.",
+    "source_quote": "living in a Mordenkainen's Mansion she'd constructed specifically for his protection",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "alibi event",
+    "fact": "She sneaked out to visit her son.",
+    "source_quote": "I did sneak out. To visit my son.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "poisoning method",
+    "fact": "Midnight tears were applied to the book and carefully re-wrapped.",
+    "source_quote": "Daral's present, unwrapped and coated in midnight tears and carefully re-wrapped",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "cover-up action",
+    "fact": "The vial's label was torn off and tied to the back of the Dead Winter tree as decoration.",
+    "source_quote": "The vial's label torn off and tied to the back of the Dead Winter tree as decoration",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "hand-washing detail",
+    "fact": "Alkrist washed his hands in a basin of water after burning the vial's label.",
+    "source_quote": "he had washed his hands in it, just in case there was any midnight tears on them",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "post-poisoning interaction",
+    "fact": "Bookwyrm was appalled, argued with Alkrist, and stormed off.",
+    "source_quote": "Appalled, he said. She had been appalled, and they argued, and then she was gone.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "gift delivery",
+    "fact": "The book was gift-wrapped with a straight, deliberate cut in the paper.",
+    "source_quote": "A clean cut, straight as a rule, separate from all the ragged tears",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "poison source",
+    "fact": "The poison was obtained from the Oak Tree Apothecary.",
+    "source_quote": "The Oak Tree Apothecary, the stolen vial",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "book identity",
+    "fact": "The book used to plan the poisoning was 1001 Tashalian Nights, bookmarked at 'Midnight Tears'.",
+    "source_quote": "1001\u2014 whatever it is, Nights? Tashalian Nights... bookmarked at the midnight tears part",
     "quote_verified": false
   },
   {
     "type": "object",
-    "subject": "silver candlestick value",
-    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
-    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "alibi time",
-    "fact": "She returned to her chambers around 12:30, and saw no one after that.",
-    "source_quote": "She'd returned to her chambers around 12:30, she thought. After 12:30, she came to her room and saw no one.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
     "subject": "gift wrapping",
-    "fact": "The gift wrap for the deadly book had a clean, deliberate cut, separate from incidental tears, indicating premeditated preparation.",
-    "source_quote": "A clean cut, straight as a rule, separate from all the ragged tears.",
+    "fact": "The wrapping paper for the deadly book had been discarded in the dining hall trash.",
+    "source_quote": "a piece of paper, crumpled and retrieved from a trash bucket in the dining hall. Wrapping paper.",
     "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Mordenkainen's Mansion",
-    "fact": "Her son lives in a Mordenkainen's Mansion she constructed specifically for his protection.",
-    "source_quote": "born in the Abyss, living in a Mordenkainen's Mansion she'd constructed specifically for his protection.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "midnight tears",
-    "fact": "The poison 'midnight tears' was applied to the book, bookmarked in 1001 Tashalian Nights, and the vial's label was torn off and tied to the Dead Winter tree.",
-    "source_quote": "The book was bookmarked at the midnight tears part... the vial's label torn off and tied to the back of the Dead Winter tree.",
-    "quote_verified": false
   },
   {
     "type": "monster",
-    "subject": "avowed count",
-    "fact": "Members of the avowed who had long nurtured hostility toward her are the ones who would falsely claim to have seen her after 12:30.",
-    "source_quote": "it would be members of the avowed who had long nurtured hostility toward her.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Bookwyrm's confrontation",
-    "fact": "Bookwyrm argued with Alkrist after learning of the poisoning, stormed off, and later acted to conceal the crime by removing Janussi's heart.",
-    "source_quote": "She had been appalled... and then she was gone... That was Bookwyrm.",
+    "subject": "abyssal plague origin",
+    "fact": "Her son infected her with an abyssal plague, born in the Abyss.",
+    "source_quote": "her son, it emerged, had infected her with an abyssal plague, born in the Abyss",
     "quote_verified": false
   },
   {
-    "type": "location",
-    "subject": "Oak Tree Apothecary",
-    "fact": "The stolen vial of midnight tears was obtained from the Oak Tree Apothecary, where peppermint was spilled on the counter floor.",
-    "source_quote": "The Oak Tree Apothecary, the stolen vial, peppermint spilled on the counter floor.",
-    "quote_verified": true
-  },
-  {
-    "type": "date",
-    "subject": "meeting time",
-    "fact": "The baths meeting occurred at 11:45 PM between A'lai and Alkrist.",
-    "source_quote": "Eleven forty-five. A'lai and Alkrist, discussing what needed to be done about their mutual problem.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "chalice",
-    "fact": "The chalice was used to hide something that only someone with specific knowledge would suspect \u2014 not Alkrist.",
-    "source_quote": "Someone had known about the chalice: what it was for, what could be hidden inside it, why no one would think to look there without specific reason.",
+    "type": "event",
+    "subject": "motive for revenge",
+    "fact": "Teles Ahvoste had remained hostile toward Janussi for nearly twenty years, passed over for Keeper of Tomes despite being older and more skilled.",
+    "source_quote": "Teles had remained hostile toward Janussi for nearly twenty years, passed over for Keeper of Tomes despite being older than Janussi and generally considered the more skilled practitioner",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "truth spell",
-    "fact": "Kalan's truth spell was active during Alkrist's interrogation, rendering his statements compelled and verifiable.",
-    "source_quote": "Kalan was outside the door. As of right now, Alkrist could not lie.",
+    "subject": "motive for sabotage",
+    "fact": "Bookwyrm opposed Kalan's investigative controls because she felt they were absurd.",
+    "source_quote": "Bookwyrm who had pushed hardest against it",
     "quote_verified": true
   },
   {
     "type": "location",
-    "subject": "Janussi's third-floor rooms",
-    "fact": "A crumpled piece of gift wrap was retrieved from the dining hall trash, not from Janussi's rooms, indicating deliberate disposal to avoid detection.",
-    "source_quote": "Wrapping paper. Nothing written on it that meant anything... came out of the dining hall trash",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "1001 Tashalian Nights",
-    "fact": "The book 1001 Tashalian Nights was bookmarked at the 'midnight tears' passage, indicating prior study and intent.",
-    "source_quote": "The book was on a shelf, bookmarked... Midnight tears. Tidy, annotated, marked",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "hand-washing",
-    "fact": "Alkrist washed his hands in a basin of water after burning the vial's label, attempting to remove traces of midnight tears.",
-    "source_quote": "He had washed his hands in it, just in case there was any midnight tears on them.",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Bookwyrm's chambers",
-    "fact": "Bookwyrm received two bottles of fine wine from Alkrist and argued with him before storming off, later acting to cover up the murder.",
-    "source_quote": "Two bottles of the finest wine, two glasses, and the announcement that all their problems... had been solved.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "motive",
-    "fact": "Teles Ahvoste's motive was jealousy \u2014 passed over for Keeper of Tomes despite being older and more skilled than Janussi, a grudge sustained for nearly twenty years.",
-    "source_quote": "Teles had remained hostile toward Janussi for nearly twenty years, passed over for Keeper of Tomes despite being older than Janussi and generally considered the more skilled practitioner.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Abyss",
-    "fact": "Her son was born in the Abyss and carries an abyssal plague that infected her after their last argument.",
-    "source_quote": "born in the Abyss, which has consequences",
+    "subject": "teles ahvoste's affiliation",
+    "fact": "Teles Ahvoste is a Great Reader.",
+    "source_quote": "Great Readers included. She named Teles Ahvoste directly.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "reused wrapping paper",
-    "fact": "The gift wrap was possibly reused, but the clean cut suggests it was cut from a larger sheet and deliberately resealed to conceal the book's contents.",
-    "source_quote": "Could be someone who reuses wrapping paper... but there was something else. A straight edge where there shouldn't be one.",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "midnight tears vial",
-    "fact": "The vial of midnight tears had its label torn off and used as a decoration on the Dead Winter tree, to misdirect investigation.",
-    "source_quote": "the vial's label torn off and tied to the back of the Dead Winter tree as decoration",
-    "quote_verified": false
+    "subject": "false accusation",
+    "fact": "Someone falsely claimed Sylvira drank honey, which she denied with genuine offense.",
+    "source_quote": "Honey? I would *never* drink honey. What kind of nonsense is this?",
+    "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "mind control claim",
-    "fact": "Alkrist falsely claimed he was under mind control to invalidate his compelled testimony, revealing desperation and guilt.",
+    "subject": "false accusation",
+    "fact": "Someone falsely claimed Sylvira was seen near the kitchen, which she denied by alibi.",
+    "source_quote": "Did you ask me if anyone saw me, after? I did sneak out. To visit my son.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "false accusation",
+    "fact": "Someone falsely claimed Sylvira called Alkrist a genus traitor, which she denied with precision.",
+    "source_quote": "she had *never*, she insisted, called him a genus traitor",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "false accusation",
+    "fact": "Alkrist falsely claimed he was under mind control to explain his truthful testimony.",
     "source_quote": "I am under mind control, and everything I have said is so true.",
     "quote_verified": true
   },
   {
-    "type": "location",
-    "subject": "dining hall trash",
-    "fact": "The gift wrap was discarded in the dining hall trash, not Janussi's rooms, to avoid direct association with the crime scene.",
-    "source_quote": "came out of the dining hall trash, which meant someone had opened a gift in there, or carried the wrapping there to discard it",
-    "quote_verified": false
+    "type": "event",
+    "subject": "false alibi",
+    "fact": "Alkrist claimed Bookwyrm ripped out Janussi's heart, unaware it was not his own action.",
+    "source_quote": "Ripped out his heart? What? His heart was ripped out?",
+    "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "polymorph suspicion",
-    "fact": "It is suspected that Bookwyrm used a powerful polymorph spell to transform Janussi's heart after removing it, concealing the true cause of death.",
-    "source_quote": "Does he think Bookwyrm knows a powerful polymorph spell?",
+    "subject": "premeditation",
+    "fact": "The poisoning was planned, not opportunistic, evidenced by the deliberate wrapping and disposal of the paper.",
+    "source_quote": "That is not a crime of opportunity. That is a crime of preparation.",
     "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Mending cantrip",
-    "fact": "The Mending cantrip was used to restore the torn gift wrap, revealing the deliberate cut that proved premeditation.",
-    "source_quote": "Mending is smart... The paper did the rest. The torn pieces came together under my hands.",
-    "quote_verified": false
   },
   {
     "type": "event",
-    "subject": "alibi verification",
-    "fact": "Her claim of being with her son after 12:30 is verifiable as an alibi, since she saw no one after returning to her chambers.",
-    "source_quote": "After 12:30, she came to her room and saw no one.",
-    "quote_verified": true
-  },
-  {
-    "type": "date",
-    "subject": "session date",
-    "fact": "The session occurs on the day careers were made or broken.",
-    "source_quote": "Budget day. Review day. The day careers were made or broken.",
-    "quote_verified": true
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "An hour passes between two events in the session.",
-    "source_quote": "By midnight he was dead.",
+    "subject": "cover-up",
+    "fact": "Bookwyrm argued with Alkrist after learning of the poisoning and then left, possibly to cover her own involvement.",
+    "source_quote": "She went somewhere. He went home. Someone had known about the chalice... That someone was not Alkrist.",
     "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "poison storage",
+    "fact": "The poison was stored in a chalice, hidden where no one would look without specific reason.",
+    "source_quote": "Someone had known about the chalice: what it was for, what could be hidden inside it, why no one would think to look there without specific reason.",
+    "quote_verified": true
   },
   {
     "type": "monster",
-    "subject": "chasme count",
-    "fact": "Three people are involved, at least.",
+    "subject": "drow count",
+    "fact": "A'lai is a drow.",
+    "source_quote": "A'lai, moreover, is a drow.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "drow count",
+    "fact": "A'lai is a drow.",
+    "source_quote": "A'lai. A drow with Underdark connections",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "people involved in Janussi's death",
+    "fact": "There are at least 3 people involved, at least.",
     "source_quote": "Yeah. There's 3 people involved, at least.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "travel to Sloobludop",
-    "fact": "Sloobludop is approximately eight days away via the Darklake.",
-    "source_quote": "the town of Sloopdopblop is just eight days away",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Velkynvelve elevation",
-    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
-    "source_quote": "Drow outpost was 100' in the sky",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "silver candlestick value",
-    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
-    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
-    "quote_verified": false
-  },
-  {
-    "type": "monster",
-    "subject": "Alkrist count",
-    "fact": "Alkrist and A'lai are separately implicated.",
-    "source_quote": "Janussi had managed to hand Bookwyrm, Alkrist, and A'lai, separately",
+    "subject": "sequence of events on Janussi's last day",
+    "fact": "Janussi delivered verdicts from room to room on budget day, review day, the day careers were made or broken.",
+    "source_quote": "Budget day. Review day. The day careers were made or broken.",
     "quote_verified": true
   },
   {
     "type": "location",
-    "subject": "Candlekeep access level",
-    "fact": "Anyone with sufficient standing can access what they needed.",
-    "source_quote": "Anyone here with sufficient standing could access what they needed.",
+    "subject": "note location",
+    "fact": "A note in Janussi's own hand was found on the third floor.",
+    "source_quote": "a note in Janussi's own hand found on the third floor",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "evidence collected",
+    "fact": "We had a confession, a poisoned book reclaimed from Daral, Grygum's carefully reassembled wrapping paper, and a note in Janussi's own hand found on the third floor.",
+    "source_quote": "We had a confession, a poisoned book reclaimed from Daral, Grygum's carefully reassembled wrapping paper, a note in Janussi's own hand found on the third floor.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "blackmail negotiation",
-    "fact": "Blackmail may be a way to get information that's very hard to come by.",
-    "source_quote": "Blackmail may be a way to get it.",
-    "quote_verified": false
+    "subject": "sequence of actions",
+    "fact": "Janussi walked from room to room delivering verdicts.",
+    "source_quote": "He had walked from room to room delivering verdicts",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "sequence of events",
+    "fact": "By midnight he was dead.",
+    "source_quote": "and by midnight he was dead.",
+    "quote_verified": true
   },
   {
     "type": "object",
-    "subject": "book per suspect",
-    "fact": "One book per suspect is the proposed collection metric.",
+    "subject": "book value",
+    "fact": "Thorin insists we get a book per suspect.",
     "source_quote": "I'm gonna insist that we get a book per suspect.",
     "quote_verified": true
   },
   {
-    "type": "location",
-    "subject": "Menzoberranzan connection",
-    "fact": "A'lai has Underdark connections, possibly Menzoberranzan.",
-    "source_quote": "A'lai, moreover, is a drow. He might have information that Daz needs.",
+    "type": "event",
+    "subject": "sequence of events",
+    "fact": "The group's attention turned to Janussi, and the mood shifted.",
+    "source_quote": "The group's attention turned to Janussi, and the mood shifted in the way it does when the worst is over",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "workforce restructuring",
-    "fact": "The assassination is framed as workforce restructuring.",
-    "source_quote": "File the assassination under *workforce restructuring*.",
+    "subject": "sequence of actions",
+    "fact": "You decide to fire them, trash somebody's research, tell somebody he's getting fired, tell somebody he has to cancel his research, all in the same day.",
+    "source_quote": "not only do you decide to fire them, but you decide to trash somebody's research, tell somebody he's getting fired, tell somebody he has to cancel his research, right? All in the same day.",
     "quote_verified": true
   },
   {
-    "type": "object",
-    "subject": "patron entry value",
-    "fact": "The only price of interest is what A'lai knows about the patron paying Menzoberranzan rates.",
-    "source_quote": "That is the only price I am interested in collecting.",
-    "quote_verified": false
+    "type": "thread",
+    "subject": "patron entry status",
+    "fact": "The patron entry had been blank for months.",
+    "source_quote": "The patron entry had been blank for months.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "column status",
+    "fact": "The column I had been maintaining since Kaelira told me bluntly that someone powerful was paying to protect a man she couldn't understand had one entry.",
+    "source_quote": "The column I had been maintaining since Kaelira told me bluntly that someone powerful was paying to protect a man she couldn't understand. That column had one entry",
+    "quote_verified": true
   }
 ]

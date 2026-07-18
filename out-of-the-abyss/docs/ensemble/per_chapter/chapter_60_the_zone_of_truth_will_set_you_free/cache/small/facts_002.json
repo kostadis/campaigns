@@ -1,205 +1,142 @@
 [
   {
     "type": "npc",
-    "subject": "A'lai",
-    "fact": "A'lai arrived at the Oak Tree Apothecary at half past two on the day of the murder, asking Leuwin for fresh fennel.",
-    "source_quote": "A'lai had shown up at the Oak Tree Apothecary at half past two on the day of the murder, asking Leuwin for fresh fennel.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Leuwin",
-    "fact": "Leuwin was helping A'lai in the garden when a dragonborn arrived, witnessed by Nibbles the squirrel.",
-    "source_quote": "While Leuwin was helping A'lai in the garden, a dragonborn had arrived: a huge, lizard-skinned figure, per the testimony of Nibbles the squirrel.",
-    "quote_verified": false
-  },
-  {
-    "type": "monster",
-    "subject": "dragonborn",
-    "fact": "A dragonborn arrived at the apothecary during the incident; described as a huge, lizard-skinned figure, witnessed by Nibbles the squirrel.",
-    "source_quote": "a dragonborn had arrived: a huge, lizard-skinned figure, per the testimony of Nibbles the squirrel.",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "poison",
-    "fact": "The poison was collected from the scene; its nature and origin remain under investigation.",
-    "source_quote": "The poison was collected.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "mess",
-    "fact": "A mess was made at the apothecary during the incident; details unspecified but significant enough to be noted.",
-    "source_quote": "A mess was made.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Alkrist",
-    "fact": "Alkrist is a dragonborn; implicated in the apothecary intrusion, not the later removal of the heart or looting of the safe.",
-    "source_quote": "Alkrist was a dragonborn.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Zalthir",
-    "fact": "Zalthir recognized that the apothecary intrusion and the heart removal were two separate acts, two separate threads.",
-    "source_quote": "Zalthir had caught that this referred to the apothecary intrusion, not whoever had later removed the heart and looted the safe: two separate acts, two separate threads.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "sapphire",
-    "fact": "The sapphire is tied to locating a lost locket; its utility is distinct from stealing a locket from a living person.",
-    "source_quote": "You need the sapphire to find a locket that's already lost.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "locket",
-    "fact": "The locket cannot be stolen from a living person who is holding it; its theft requires prior absence or deception.",
-    "source_quote": "You can't steal a locket off someone who's alive and holding it.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Thorin",
-    "fact": "Thorin proposed that one person could have stolen the locket, then taken the sapphire to close off pursuit, but rejected the model as impossible.",
-    "source_quote": "Thorin proposed that one person could have done both: stolen the locket, then taken the sapphire to close off pursuit.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "apothecary intrusion",
-    "fact": "The intrusion at the apothecary is a distinct event from the later removal of the heart and looting of the safe.",
-    "source_quote": "two separate acts, two separate threads.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "heart removal and safe looting",
-    "fact": "The removal of the heart and looting of the safe are a separate, later event from the apothecary intrusion.",
-    "source_quote": "two separate acts, two separate threads.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool confirmed he can eat through walls and gaps, distinguishing between those that admit a gelatinous cube and those that do not.",
-    "source_quote": "Glabbagool had made the distinction between a gap that admitted a gelatinous cube and a gap that did not.",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "gelatinous cube",
-    "fact": "A gelatinous cube can pass through certain gaps; Glabbagool uses it as a benchmark for what he can consume.",
-    "source_quote": "a gap that admitted a gelatinous cube",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "Alkrist's safe",
-    "fact": "Alkrist's safe remains unopened; its contents and access method are unresolved.",
-    "source_quote": "open threads: Alkrist's safe, unopened.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "Alkrist's safe access",
-    "fact": "The safe's barrier is not insurmountable \u2014 Glabbagool can eat through it \u2014 but the method was never employed.",
-    "source_quote": "I guess I could have eaten through the safe. It would have taken a while.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Zalthir",
-    "fact": "Zalthir considered destructive force as an option but rejected it in favor of stealth, acknowledging Glabbagool's capability.",
-    "source_quote": "If the goal was to be destructive, I could've just punched the safe. But we were trying to be sneaky.",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool possesses the ability to consume solid matter, including walls and safes, and has never been wrong about his capabilities.",
-    "source_quote": "Walls don't stop us. I can eat through walls.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "methodology of murder",
-    "fact": "The murder was framed as an elaborate, misleading act \u2014 poisoning a book to implicate a colleague \u2014 but the complexity was its strength.",
-    "source_quote": "Poisoned book, frames a colleague, and disappears the evidence. Too elaborate. Which is exactly why it worked.",
+    "subject": "Grygum",
+    "fact": "Grygum is documenting the methodology of murder at Candlekeep, noting distinctions in narrative framing, monograph authorship, and investigative logic, and has rejected the notion that co-authorship constitutes a monograph.",
+    "source_quote": "I'm sorry \u2014 it would not be a monograph if we wrote it together.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Elian",
-    "fact": "Elian proposed collaboration on a monograph, initially misstating the role, then clarifying he would write it with Thorin contributing an introduction.",
-    "source_quote": "Elian said having someone of my stature involved would do wonders for criminal investigation across Faer\u00fbn.",
+    "fact": "Elian is seeking to write a monograph on murder investigation techniques and is attempting to secure Grygum\u2019s endorsement through a preface or introduction, emphasizing the value of stature and counterfactual analysis even without a solved case.",
+    "source_quote": "Even if all I could write was that these techniques *would have* helped, the academic community would still approve.",
     "quote_verified": false
   },
   {
-    "type": "thread",
-    "subject": "monograph collaboration",
-    "fact": "Elian sought to leverage Thorin's stature for academic credibility, even without solving the murder, suggesting an endorsement alone holds value.",
-    "source_quote": "even if we failed to solve the murder, even if all I could write was that these techniques would have helped, the academic community would still approve.",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "reliability of Speak with Dead",
-    "fact": "The reliability of deceased narrators is unknown; motivations and truthfulness after death are unverifiable.",
-    "source_quote": "how do you know they're a reliable narrator? What are their motivations after they're dead? We don't know. Because they're dead.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "Candlekeep's academic currency",
-    "fact": "In Candlekeep, monographs are the measure of influence; two requests in one afternoon suggest a pattern of leveraging prestige.",
-    "source_quote": "This was the second person at Candlekeep to angle for a monograph. First Fembris, now Elian. Two men after a monograph in one afternoon.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Velkynvelve",
-    "fact": "Velkynvelve is referenced as the origin point of Thorin's understanding of stature \u2014 a dwarf in chains at the bottom of the world, whose perceived stature was built on repeated failure.",
-    "source_quote": "I thought briefly about Velkynvelve, which is where this all started: a dwarf in the wrong place, in chains, at the bottom of the world.",
+    "type": "faction",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep operates on an unspoken currency of scholarly prestige, where monographs and endorsements are markers of influence, as evidenced by multiple individuals (Fembris, Elian) vying for authorial recognition.",
+    "source_quote": "This was the second person at Candlekeep to angle for a monograph. First Fembris, now Elian.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "Candlekeep monograph exchange",
-    "fact": "Two individuals in one afternoon sought to associate with Thorin for academic gain, revealing institutional norms around prestige.",
-    "source_quote": "Two men after a monograph in one afternoon.",
+    "subject": "murder investigation",
+    "fact": "The murder investigation centers on a poisoned book framing a colleague, with two distinct threads: the apothecary intrusion (involving Alkrist) and the later removal of the heart and looting of the safe, suggesting a coordinated but non-overlapping scheme.",
+    "source_quote": "Zalthir had caught that this referred to the apothecary intrusion, not whoever had later removed the heart and looted the safe: two separate acts, two separate threads.",
     "quote_verified": true
   },
   {
     "type": "thread",
-    "subject": "sneak vs. force methodology",
-    "fact": "The group prioritized stealth over brute force despite possessing the capability to destroy barriers, reflecting institutional caution.",
-    "source_quote": "But we were trying to be sneaky.",
+    "subject": "Alkrist's safe",
+    "fact": "Alkrist's safe remains unopened and is a persistent unresolved thread, with multiple characters (Zalthir, Glabbagool, Grygum) recognizing that Glabbagool\u2019s ability to consume matter could bypass it \u2014 though the method was never employed.",
+    "source_quote": "open threads: Alkrist's safe, unopened.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a gelatinous cube capable of consuming solid matter, including walls and safes, and has explicitly stated that physical barriers present no obstacle to his methodology, though his offer to consume Alkrist's safe was not acted upon.",
+    "source_quote": "Walls don't stop us. I can eat through walls.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Oak Tree Apothecary",
+    "fact": "The Oak Tree Apothecary is the site of the apothecary intrusion, where A'lai requested fennel from Leuwin, and a dragonborn arrived \u2014 later identified as Alkrist \u2014 creating the first thread of the murder investigation.",
+    "source_quote": "A'lai had shown up at the Oak Tree Apothecary at half past two on the day of the murder, asking Leuwin for fresh fennel.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "sapphire and locket",
+    "fact": "The sapphire and locket are linked artifacts in the investigation, with the locket being in the possession of a living person and the sapphire required to locate a lost locket \u2014 suggesting the two are mutually exclusive tools in the thief\u2019s methodology.",
+    "source_quote": "You can't steal a locket off someone who's alive and holding it. You need the sapphire to find a locket that's already lost.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "poisoned book",
+    "fact": "The poisoned book is the primary frame in the murder, used to implicate a colleague and disappear evidence \u2014 a method deemed overly elaborate yet effective, and central to Elian\u2019s proposed investigative thesis.",
+    "source_quote": "Poisoned book, frames a colleague, and disappears the evidence. Too elaborate. Which is exactly why it worked.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Speak with Dead inquiry",
+    "fact": "Grygum raises a fundamental epistemological question about the reliability of deceased narrators, challenging the assumption that magical resurrection of speech guarantees truth or neutrality in investigation.",
+    "source_quote": "Well, I'm interested \u2014 even if we were able to actually cast Speak with Dead, how do you know they're a reliable narrator? What are their motivations after they're dead? We don't know. Because they're dead.",
     "quote_verified": true
   },
   {
     "type": "thread",
-    "subject": "Glabbagool's unused capability",
-    "fact": "Glabbagool's ability to consume walls and safes was recognized but never utilized, leaving Alkrist's safe unopened despite a viable solution.",
-    "source_quote": "We had not brought a gelatinous cube this far through the Underdark to find out he could eat through walls in the middle of a conversation about a safe we still hadn't opened.",
+    "subject": "monograph authorship",
+    "fact": "A persistent thread in the narrative is the tension over scholarly credit \u2014 whether co-authorship, introductions, or prefaces constitute legitimate academic contribution \u2014 reflecting deeper institutional values at Candlekeep.",
+    "source_quote": "Prefaces are decorative. Introductions frame the argument.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a key observer who correctly identified the separation between the apothecary intrusion and the heart looting, and is aware of Glabbagool\u2019s capabilities but chose stealth over brute force in the investigation.",
+    "source_quote": "Zalthir had been in Alkrist's chambers. He'd asked Glabbagool whether Glabbagool could squeeze through the crack.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool possesses unwavering confidence in his ability to consume any physical barrier and has offered to eat through Alkrist\u2019s safe \u2014 a solution dismissed for its lack of subtlety, though logically sound.",
+    "source_quote": "I guess I could have eaten through the safe. It would have taken a while.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Alkrist's chambers",
+    "fact": "Alkrist's chambers are the location of the unopened safe and the site where Zalthir and Glabbagool discussed physical access \u2014 revealing a gap in the investigation where a viable solution was available but unutilized.",
+    "source_quote": "open threads: Alkrist's safe, unopened.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "academic pitch",
+    "fact": "Elian\u2019s academic pitch frames the murder investigation as a model for criminal methodology across Faer\u00fbn, using Grygum\u2019s stature as leverage \u2014 a strategy that mirrors institutional power dynamics at Candlekeep.",
+    "source_quote": "Having someone of my *stature* involved would do wonders for criminal investigation across Faer\u00fbn.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "stature and falling",
+    "fact": "Grygum reflects on the nature of scholarly stature, linking it to personal history \u2014 specifically Velkynvelve \u2014 where prestige is built on repeated failure and resilience rather than external recognition.",
+    "source_quote": "Whatever stature looked like from the outside, it was built on a lot of falling first.",
     "quote_verified": true
   },
   {
     "type": "thread",
-    "subject": "narrative of impossibility",
-    "fact": "The group operates under assumptions of impossibility \u2014 that a locket can't be stolen from a living person, that a safe can't be eaten through \u2014 despite evidence to the contrary.",
-    "source_quote": "a living man in possession of a locket is a man whose locket cannot be stolen. That's not a lock. It's a law.",
+    "subject": "counterfactual thesis",
+    "fact": "A counterfactual thesis is proposed \u2014 that the murder techniques *would have* helped even if unsolved \u2014 challenging the assumption that academic value requires resolution, and introducing epistemological ambiguity into the investigation.",
+    "source_quote": "Counterfactual, but I think that's a different thesis, so...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "A'lai",
+    "fact": "A'lai is a suspect or witness who visited the Oak Tree Apothecary under the pretense of requesting fennel, creating the first layer of misdirection in the murder investigation.",
+    "source_quote": "A'lai had shown up at the Oak Tree Apothecary at half past two on the day of the murder, asking Leuwin for fresh fennel.",
     "quote_verified": true
   },
   {
-    "type": "thread",
-    "subject": "out-of-the-box thinking",
-    "fact": "Glabbagool's capability represents out-of-the-box thinking that was acknowledged but not acted upon, suggesting systemic resistance to unconventional solutions.",
-    "source_quote": "this is a sort of out-of-the-box thinking we need sometimes.",
+    "type": "monster",
+    "subject": "Alkrist",
+    "fact": "Alkrist is a dragonborn who arrived at the apothecary during the murder\u2019s initial phase and is associated with the first thread \u2014 the intrusion \u2014 though his direct role in the murder remains unconfirmed.",
+    "source_quote": "Alkrist was a dragonborn.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "investigative methodology",
+    "fact": "The investigation rejects magical shortcuts (e.g., Speak with Dead) in favor of layered, non-linear reasoning, emphasizing narrative framing, source reliability, and methodological restraint over spectacle.",
+    "source_quote": "Too many people, if you ask me, think: cast a spell, find the murderer. It doesn't work that way.",
     "quote_verified": true
   }
 ]

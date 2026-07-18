@@ -2,127 +2,127 @@
   {
     "type": "date",
     "subject": "session date",
-    "fact": "The events occur the morning after the party's full rest in Candlekeep, following their time in the Underdark.",
-    "source_quote": "We were all rested, at least. Properly, fully rested \u2014 the kind that had felt almost suspicious after the Underdark, where a full night's sleep had been a luxury good and rarely in stock.",
+    "fact": "The session occurs on the day after the Underdark, when rest was a luxury good and rarely in stock.",
+    "source_quote": "the kind that had felt almost suspicious after the Underdark, where a full night's sleep had been a luxury good and rarely in stock",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "travel to Candlekeep",
-    "fact": "The party has spent months in the Underdark before arriving at Candlekeep.",
-    "source_quote": "after months below stone",
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "An hour passes between two events in the session.",
+    "source_quote": "The window was narrowing with every minute we spent in this room",
     "quote_verified": true
   },
   {
     "type": "monster",
-    "subject": "Glabbagool count",
-    "fact": "One Glabbagool is present, observing and entering the bag of holding.",
-    "source_quote": "Glabbagool had been watching from the corner",
+    "subject": "glabbagool count",
+    "fact": "Glabbagool, with two eyeballs tracking the room, is present in the corner after developing attentiveness since acquiring eyes.",
+    "source_quote": "Glabbagool had been watching from the corner with the patient attentiveness he'd developed since acquiring eyes... and peered out from the opening with two eyeballs tracking the room",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "travel to the emerald door",
+    "fact": "The emerald door is the threshold beyond which danger awaits, and we are not walking into it depleted.",
+    "source_quote": "Whatever was waiting through the emerald door, we weren't walking into it depleted",
     "quote_verified": true
   },
   {
     "type": "location",
-    "subject": "Candlekeep courtyard exits",
-    "fact": "The courtyard has three visible archways, one service passage, and one guarded door to the north.",
-    "source_quote": "Exits: three visible archways, one service passage, one guarded door to the north.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Astronomicon structure",
-    "fact": "The Astronomicon is a stack of blue globes ascending in scale.",
-    "source_quote": "a stack of blue globes, ascending in scale",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Drakonoikos construction",
-    "fact": "The Drakonoikos is built from enormous overlapping scales and bones worked into the walls.",
-    "source_quote": "built from scales \u2014 actual scales, enormous, overlapping \u2014 and bones worked into the walls",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Chapter House layout",
-    "fact": "The Chapter House has twelve chairs around a twelve-sided table.",
-    "source_quote": "twelve chairs around a twelve-sided table",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Council of Twelve members",
-    "fact": "Twelve council members are present in the Chapter House.",
-    "source_quote": "The Chapter House was exactly as described \u2014 twelve chairs around a twelve-sided table",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Avowed count",
-    "fact": "The Avowed are still asleep, implying multiple individuals.",
-    "source_quote": "the Avowed were still asleep",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Scholar foot traffic",
-    "fact": "Scholars are moving in pairs across Candlekeep's grounds.",
-    "source_quote": "Foot traffic: light, scholars moving in pairs",
+    "subject": "Candlekeep grounds elevation",
+    "fact": "Candlekeep's grounds are blanketed in snow, silent and untouched, after months below stone.",
+    "source_quote": "Candlekeep's grounds were blanketed in it, white and silent, the kind of silence that had nothing hunting inside it",
     "quote_verified": true
   },
   {
     "type": "object",
-    "subject": "book remuneration",
-    "fact": "The council offers one book each to the party upon successful completion of the investigation.",
-    "source_quote": "One book each, copied at the House of the Binder, upon successful completion.",
+    "subject": "Astronomicon value",
+    "fact": "The Astronomicon is a stack of blue globes ascending in scale, containing everything known about the stars.",
+    "source_quote": "You see that curious blue stack of globes? That's the Astronomicon. Everything we know about the stars can be found there",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Whispering Dome value",
+    "fact": "The Whispering Dome holds voices from the past that linger and can be heard if one stands in the right place.",
+    "source_quote": "voices from the past lingered there, that you could hear them if you stood in the right place",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Drakonoikos elevation",
+    "fact": "Drakonoikos is a structure built from enormous scales and bones worked into the walls, replacing stone.",
+    "source_quote": "The structure was built from scales \u2014 actual scales, enormous, overlapping \u2014 and bones worked into the walls where another building would have used stone",
     "quote_verified": true
   },
   {
     "type": "event",
     "subject": "Dragon Breath Simulation Chamber incident",
-    "fact": "One of the Avowed died in the Dragon Breath Simulation Chamber.",
-    "source_quote": "One of the Avowed had died in it",
+    "fact": "One of the Avowed died in the Dragon Breath Simulation Chamber, requiring Keeper's permission for access.",
+    "source_quote": "One of the Avowed had died in it, he said, which was why the Keeper's permission was now required",
     "quote_verified": true
   },
   {
     "type": "location",
-    "subject": "Chapter House entry",
-    "fact": "The Chapter House has a single visible point of entry with no secondary exit apparent from the doorway.",
+    "subject": "Chapter House entrance",
+    "fact": "The Chapter House has a single guard, single visible point of entry, and no secondary exit apparent from the doorway.",
     "source_quote": "single guard, single visible point of entry, no secondary exit apparent from the doorway",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "Janussi's request to Kalan",
-    "fact": "The morning before his death, Janussi asked Kalan to tender his resignation.",
-    "source_quote": "yesterday morning, Janussi asked the gate warden to tender his resignation",
+    "subject": "Council of Twelve meeting",
+    "fact": "The Council of Twelve convened in uproar over Janussi's murder, with twelve chairs around a twelve-sided table and a rose window casting colored light.",
+    "source_quote": "twelve chairs around a twelve-sided table, rose window throwing colored light across the stone floor",
     "quote_verified": true
   },
   {
     "type": "object",
-    "subject": "Dawnbringer's age",
-    "fact": "Dawnbringer was found in a tomb after two thousand years.",
-    "source_quote": "having found her tomb after two thousand years",
+    "subject": "Dawnbringer value",
+    "fact": "Dawnbringer, housed in her scabbard, claims to have been found in a tomb after two thousand years.",
+    "source_quote": "Dawnbringer, housed in her scabbard, took the opportunity to note that we must surely be the greatest discoverers of all, having found her tomb after two thousand years",
     "quote_verified": true
   },
   {
-    "type": "date",
-    "subject": "elapsed time since death",
-    "fact": "The Keeper of Tomes died the day before the party's arrival at the Chapter House.",
-    "source_quote": "the morning before his death",
+    "type": "object",
+    "subject": "library access card value",
+    "fact": "An all-access library card was requested and granted as part of the investigation agreement, allowing full access to the library.",
+    "source_quote": "We need an all-access library card... Bookwyrm agreed. One book each, copied at the House of the Binder, upon successful completion. Confidentiality papers first",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Crime Scene staircase",
+    "fact": "The staircase to the crime scene is narrow, requiring single file passage, with Bookwyrm setting the pace.",
+    "source_quote": "The staircase was narrow enough that we had to go single file, which meant Bookwyrm set the pace",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "investigation delegation",
-    "fact": "The Council of Twelve delegates the investigation to the party.",
-    "source_quote": "Bookwyrm proposed delegating the investigation to us",
+    "subject": "Kalan Strongbranch's arrival",
+    "fact": "Kalan Strongbranch arrived at the Chapter House after being previously wanted for questioning, and bowed with correct form but suspicious eyes.",
+    "source_quote": "Kalan Strongbranch walked in... He bowed. The bow was correct and the eyes were not",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Janussi's resignation request",
+    "fact": "Janussi asked Kalan to tender his resignation the morning before his death, citing loss of mental faculties and negligence.",
+    "source_quote": "yesterday morning, Janussi asked the gate warden to tender his resignation. The Keeper was concerned that Kalan was losing his mental faculties and becoming negligent in his work",
     "quote_verified": true
   },
   {
-    "type": "thread",
-    "subject": "Daz's suspicion of Bookwyrm",
-    "fact": "Daz notes that Bookwyrm volunteered information about Kalan's resignation at a strategic moment.",
-    "source_quote": "She delivered it like a gift. Information, freely offered, before anyone had thought to ask.",
+    "type": "event",
+    "subject": "Bookwyrm's testimony",
+    "fact": "Bookwyrm disclosed that Janussi requested Kalan\u2019s resignation, but declined to elaborate, claiming not to prejudice the investigation.",
+    "source_quote": "Janussi, the morning before his death, had asked Kalan to tender his resignation. Mental faculties. Negligence. She declined to elaborate \u2014 she didn't want to prejudice the investigation, she said",
     "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin's question to Bookwyrm",
+    "fact": "Thorin asked Bookwyrm where she was during Janussi\u2019s death, prompting a pause and visible weight in her expression.",
+    "source_quote": "Thorin, immediate: 'Where were you?' Bookwyrm paused. Not a long pause. Just long enough to weigh something.",
+    "quote_verified": false
   }
 ]

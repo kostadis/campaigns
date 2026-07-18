@@ -1,23 +1,46 @@
 ---
 name: Underdark
 type: location
-n_facts: 29
+n_facts: 35
 chapters: 5-60
 ---
 
 ### Underdark
 
-The Underdark is a vast, lightless, subterranean realm characterized by tight, low passages, shifting tunnels, flooding, earthquakes, and hidden chambers. It is a hostile, ever-changing environment where survival demands constant adaptation to proximity, geometry, and unseen threats. The rock itself is described as crying in pain, and madness creeps from its deepest voids. It is a place of perpetual darkness, where prolonged exposure has conditioned even those who have emerged to interpret every movement as a potential threat. 
+The Underdark is a vast, lightless, and lethally indifferent subterranean realm characterized by tight, low tunnels, drop-offs, uneven rubble, and passages requiring prolonged crawling. It is a biomechanical prison of lethal geometry where survival demands specialization, precise positioning, and environmental mastery — battles are won by who stands where, not by raw power. The environment actively punishes spread-thin builds and rewards synergistic, close-quarters combat.
 
-The Underdark contains dangerous ecological features: Ripplebark, waterorbs, Faerzress magic, sentient oozes, formless stone sculptures, and a brackish stone fountain. Earthquakes have cracked ceilings and trapped travelers. It is a realm where demons must be summoned through mighty magic, and where the influence of Abyssal forces lingers beneath, now increasingly overshadowed by the spreading, twisted fungi of Zuggtmoy following the defeat of the Pudding King. Juiblex’s former dominion has been partially supplanted, but corruption endures.
+It is currently dominated by the spreading, twisted, and malevolent fungi of Zuggtmoy, which have proliferated since the defeat of the Pudding King, though Juiblex’s influence has receded. Abyssal forces still churn in the deepest depths. The realm is also marked by pervasive Faerzress magic, bioluminescent flora, and a pervasive, creeping madness that emanates from its blackest depths. The rock itself is said to cry in pain.
 
-It is a place where alliances shift, minions vanish from memory, and divine intervention is rare — forcing reliance on observation, positioning, and preemptive caution. The Underdark has shaped its travelers into hardened tacticians, teaching that battles are won by control of space and proximity, not raw power. It is a realm that calibrates instincts over months, imprinting habits that persist even after emergence.
+The Underdark contains shifting, waterlogged tunnels, flooded chambers, hidden traps, sentient oozes, formless sculptures, and ancient stone fountains. Earthquakes have cracked ceilings and altered passages. It is home to corrupted Myconid colonies, fungal cults, and the lingering presence of demon lords summoned through mighty, deliberate magic. The Duergar, Drow, and Derro thrive here, but the Underdark itself cares only for who fell and who rose.
 
-The Underdark is currently the setting from which Sylvira recently returned. It remains dangerous, with Zuggtmoy’s fungal growths spreading and Abyssal forces still churning in its depths. Despite recent victories, it is not conquered — only traversed.
+It is a place of ancient, buried truths, shifting loyalties, and betrayal as tradition. Its politics are older than memory, and its tunnels conceal secrets that fester with time. The Underdark is not merely a setting — it is an active, oppressive force that strips away idealism and reshapes perception, instilling habits of vigilance, environmental reading, and survival instinct that persist even after emerging to the surface.
+
+The party emerged from it after months-long travel, having carried Dawnbringer through total darkness, survived demon lords and dragon threats, endured imprisonment, and navigated the Festering Fissure and the Garden of Stone. Its influence endures in those who left: their instincts remain tuned to distance, approach vectors, and the quality of dark in tunnel junctions.
+
+It remains connected to drow networks — particularly those of Menzoberranzan — and is the origin of figures like A'lai and Sylvira’s interrogator. Surface dwellers are viewed with suspicion here; it is a realm beyond the reach of surface laws, where secrets endure and lethality is honest.
 
 ## Uncertainty
-- The exact geographic extent or boundaries of the Underdark are never defined; it is referred to as a “realm” and “network,” but no maps or borders are given.
-- Whether the Pudding King’s attempt to reduce the entire Underdark to ooze succeeded, failed, or is still ongoing is unclear — only intent is stated.
-- The current status of Glabbagool is ambiguous: it was present in ch50 and ch51, but no later confirmation of its survival or location exists.
-- It is unclear whether the “Garden of Stone” and “Festering Fissure” are still active or accessible after the party’s return in ch43.
-- The phrase “we’re almost out” (ch52) implies imminent exit, but later chapters (ch54–ch60) suggest the party has left — yet no definitive statement confirms the entire Underdark is no longer being traversed by the party. The current state of “being in” vs. “having left” is conflated across time.
+- The current control or dominance of any specific faction (e.g., Drow, Duergar, fungal cult) over the Underdark as a whole is unclear — multiple entities exert influence, but no single one is confirmed as the current dominant power.
+- Whether the Pudding King still exists or is fully defeated is ambiguous; while its goal was to reduce the Underdark to ooze, its defeat is noted, yet no confirmation of its destruction is given.
+- The exact current location or status of Zuggtmoy — whether she is actively present, dormant, or exerting influence remotely — is not specified, only that her fungi are spreading.
+- The current status of the Demon Queen of the Fungi (Zuggtmoy) relative to Juiblex’s residual influence is implied but not fully detailed — is she actively claiming territory, or merely expanding into a vacuum?
+- Whether the “madness” and “rock crying in pain” are ongoing phenomena or were temporary effects tied to past events (e.g., the egg theft, Pudding King’s rise) is not clarified.
+- The precise current state of the Garden of Stone and Festering Fissure after the party’s last visit is not described — are they still active, collapsed, or altered?
+
+---
+
+<!-- source: monster_underdark.md -->
+
+---
+name: Underdark
+type: monster
+n_facts: 1
+chapters: 55-55
+---
+
+### Underdark
+
+The Underdark is a subterranean environment characterized by total, unrelenting darkness. It has functioned as a prolonged prison for Dawnbringer, depriving her of sunlight and purpose, and contributing to her emotional trauma through sustained disuse and isolation.
+
+## Uncertainty
+None.

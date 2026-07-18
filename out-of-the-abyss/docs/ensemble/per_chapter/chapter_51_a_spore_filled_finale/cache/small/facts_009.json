@@ -1,107 +1,121 @@
 [
   {
     "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a dwarf with a glowing sword who spent the latter part of the battle running through the cavern, no longer pretending to control all angles of the fight, and accepted responsibility for the destruction of the fungus with Dawnbringer.",
+    "source_quote": "I said I do what I can because what else do you say when you've just ruined someone's evening in two rounds of radiant damage.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
     "subject": "Ilvara Mizzrym",
-    "fact": "Ilvara Mizzrym became a cloud of dissipating spores after the battle in Velkynvelve.",
+    "fact": "Ilvara Mizzrym was a combatant who cleared the bridge collapse, survived multiple drops and recoveries, and ultimately became a cloud of dissipating spores after being caught in the fungal explosion.",
     "source_quote": "Ilvara dropping, recovering, dropping again.",
     "quote_verified": true
   },
   {
     "type": "npc",
+    "subject": "Jorlan",
+    "fact": "Jorlan cleared the bridge collapse alongside Ilvara and was present during the initial phase of the cavern battle before the fight relocated beyond his immediate involvement.",
+    "source_quote": "Ilvara and Jorlan both cleared the drop.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum's bolt found its target, and Grygum was likely checking on Glabbagool after the battle.",
-    "source_quote": "Grygum's bolt found her. Somewhere behind me, Grygum was probably checking on Glabbagool.",
+    "fact": "Grygum fired a bolt that found its target, contributed to the fungal devastation, and later checked on Glabbagool, while commenting that the destruction was beautiful.",
+    "source_quote": "Grygum's bolt found her. Grygum said it was beautiful. Somewhere behind me, Grygum was probably checking on Glabbagool.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Zalthir",
-    "fact": "Zalthir commented that the fungal destruction was 'pretty,' and caught spores during the aftermath.",
+    "fact": "Zalthir witnessed the fungal destruction, remarked that it was pretty, and was caught in the spore cloud alongside Thorin.",
     "source_quote": "Zalthir said it was pretty. Zalthir caught some of it.",
     "quote_verified": false
   },
   {
     "type": "npc",
-    "subject": "Asha",
-    "fact": "Asha was still praying in the dark, expecting to be answered, after the battle in Velkynvelve.",
-    "source_quote": "Asha was still praying in the dark like she expected to be answered.",
+    "subject": "Daz",
+    "fact": "Daz was likely explaining to someone why the events of the battle were acceptable or fine, suggesting a role as a rationalizer or morale maintainer among the group.",
+    "source_quote": "Daz was probably explaining to someone why exactly this was all fine.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Daz",
-    "fact": "Daz was probably explaining to someone why the events of the battle were all fine.",
-    "source_quote": "Daz was probably explaining to someone why exactly this was all fine.",
+    "subject": "Asha",
+    "fact": "Asha remained in the dark, still praying as if expecting an answer, continuing her devotion despite the chaos and victory around her.",
+    "source_quote": "Asha was still praying in the dark like she expected to be answered.",
     "quote_verified": true
   },
   {
     "type": "monster",
     "subject": "the fungus",
-    "fact": "The fungus, named Dawnbringer, was destroyed in one radiant strike \u2014 a pulsating horror that took the DM weeks to stat out and folded before anyone else could act.",
-    "source_quote": "The fungus, at least, was mine. Clean and total. Dawnbringer lit the thing up from the first swing and it never got a second chance \u2014 big pulsating horror that must have taken the DM weeks to stat out, and it folded before anyone else could touch it.",
-    "quote_verified": true
+    "fact": "The fungus was a massive, pulsating horror that was destroyed in a single radiant attack by Thorin using Dawnbringer, and had likely taken the DM weeks to stat out.",
+    "source_quote": "Clean and total. Dawnbringer lit the thing up from the first swing and it never got a second chance \u2014 big pulsating horror that must have taken the DM weeks to stat out.",
+    "quote_verified": false
   },
   {
     "type": "monster",
     "subject": "the spores",
-    "fact": "The spores were a lethal environmental hazard that punished proximity, affecting multiple characters including the narrator and Zalthir.",
+    "fact": "The spores were a lethal byproduct of the fungus\u2019s destruction, punishing anyone nearby and affecting Thorin, Zalthir, and others, with lingering environmental consequences.",
     "source_quote": "Spores everywhere \u2014 the kind of death that punishes you for being nearby. I caught some of it. Zalthir caught some of it.",
     "quote_verified": true
   },
   {
-    "type": "faction",
-    "subject": "the T'sarrans",
-    "fact": "The T'sarrans were already gone from the battlefield, having withdrawn or fled after the conflict.",
-    "source_quote": "The T'sarrans were already gone.",
+    "type": "location",
+    "subject": "Velkynvelve cavern",
+    "fact": "Velkynvelve cavern is a sprawling, multi-level underground space where the battle unfolded chaotically, with the fight relocating frequently and visibility limited, making coordinated control impossible.",
+    "source_quote": "The map spread out across half the cavern and the fight kept happening somewhere I wasn't.",
     "quote_verified": true
   },
   {
     "type": "object",
     "subject": "Dawnbringer",
-    "fact": "Dawnbringer, the glowing sword, pulsed once with steady warmth against the wielder's palm after the battle.",
-    "source_quote": "Dawnbringer pulsed once, steady warmth against my palm.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Velkynvelve",
-    "fact": "Velkynvelve was the cavern battlefield where the bridge collapsed, the fungus was destroyed, and spores spread \u2014 a sprawling, chaotic environment where the narrator lost situational awareness.",
-    "source_quote": "The map spread out across half the cavern and the fight kept happening somewhere I wasn't.",
-    "quote_verified": true
+    "fact": "Dawnbringer is a glowing sword wielded by Thorin that delivered the decisive radiant strike against the fungus, and later pulsed with steady warmth against his palm after the battle.",
+    "source_quote": "Dawnbringer lit the thing up... Dawnbringer pulsed once, steady warmth against my palm.",
+    "quote_verified": false
   },
   {
     "type": "event",
     "subject": "bridge collapse",
-    "fact": "The bridge in Velkynvelve collapsed, a result of prolonged effort rather than strategy, allowing passage into the cavern below.",
-    "source_quote": "The bridge going down was my idea, technically, but I can't take full credit for it feeling satisfying. You swing at a bridge long enough, the bridge falls.",
-    "quote_verified": true
+    "fact": "The bridge collapse was initiated by Thorin\u2019s actions and cleared by Ilvara and Jorlan, triggering a cascade of events that led to the fungal explosion and the relocation of the battle.",
+    "source_quote": "The bridge going down was my idea... Ilvara and Jorlan both cleared the drop.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "fungal detonation",
+    "fact": "The fungal detonation was a singular, radiant-powered destruction event that eliminated the fungus and released lethal spores, altering the battlefield and affecting multiple combatants.",
+    "source_quote": "Clean and total... it folded before anyone else could touch it.",
+    "quote_verified": false
   },
   {
     "type": "thread",
     "subject": "cost of victory",
-    "fact": "The true cost of winning the battle in Velkynvelve, and what it may have opened ahead, remains unknown \u2014 the Underdark has a way of correcting optimism before the equation is finished.",
+    "fact": "The cost of this victory remains unknown, as does what it may have opened up ahead, with the Underdark\u2019s nature suggesting that optimism will be corrected before full understanding is possible.",
     "source_quote": "I couldn't tell you yet what winning this one cost, or what it opened up ahead of us \u2014 that kind of math takes time, and the Underdark has a way of correcting your optimism before you even finish the equation.",
     "quote_verified": true
   },
   {
     "type": "thread",
-    "subject": "Asha's prayer",
-    "fact": "Asha's continued prayer in the dark raises the unresolved question of whether she will be answered \u2014 a thread of divine hope in a world of brutal pragmatism.",
-    "source_quote": "Asha was still praying in the dark like she expected to be answered. Maybe she would be. I've seen stranger things answered.",
+    "subject": "Asha\u2019s prayer",
+    "fact": "Asha\u2019s continued prayer in the dark suggests an unresolved spiritual thread \u2014 whether she will be answered remains uncertain, but Thorin acknowledges he has seen stranger things answered.",
+    "source_quote": "Maybe she would be. I've seen stranger things answered.",
     "quote_verified": true
   },
   {
-    "type": "npc",
-    "subject": "the narrator",
-    "fact": "The narrator, a dwarf with a glowing sword, abandoned pretense of controlling the battlefield and chose to run \u2014 accepting chaos as the only honest accounting of the battle.",
-    "source_quote": "I'm a dwarf with a glowing sword in a sprawling cavern fight and at some point you stop pretending you've got angles on all of it and just pick a direction and go.",
+    "type": "faction",
+    "subject": "T'sarrans",
+    "fact": "The T'sarrans were an organization or group that had already departed the battlefield before the final spore cloud dispersed, indicating prior withdrawal or strategic retreat.",
+    "source_quote": "The T'sarrans were already gone.",
     "quote_verified": true
   },
   {
     "type": "date",
-    "subject": "aftermath",
-    "fact": "The events described occurred immediately after the battle \u2014 a quiet moment of reflection as the dust settled and the consequences remained uncalculated.",
-    "source_quote": "I stood there and let the quiet be quiet. We'd won.",
+    "subject": "session end",
+    "fact": "The narrative concludes at the end of the battle session, with silence settling and victory acknowledged but not yet fully comprehended.",
+    "source_quote": "I stood there and let the quiet be quiet.",
     "quote_verified": true
   }
 ]

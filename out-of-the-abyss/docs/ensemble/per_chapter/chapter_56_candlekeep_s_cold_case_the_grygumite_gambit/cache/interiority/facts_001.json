@@ -1,254 +1,149 @@
 [
   {
+    "type": "event",
+    "subject": "I",
+    "fact": "I file a thought about the procedural compromise of following Vareth's path as proof of the Bahamutian theory.",
+    "source_quote": "I file that thought for later.",
+    "quote_verified": true
+  },
+  {
     "type": "npc",
-    "subject": "Vareth",
-    "fact": "Vareth has been keeping this corner of the library for forty-one years and knows what a fashion looks like.",
-    "source_quote": "He has been keeping this corner of the library for forty-one years, he says, and he knows what a fashion looks like.",
+    "subject": "I",
+    "fact": "I believe I handled the theological discussion competently.",
+    "source_quote": "I feel like I handled that competently,",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "I",
+    "fact": "I had not previously been aware that I actually thought anything about the nature of the universe.",
+    "source_quote": "I had not previously been aware that I actually thought anything about this.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "Vareth",
-    "fact": "Vareth launched his speech without looking at his notes.",
-    "source_quote": "He has prepared this speech. I can tell because he launches it without looking at his notes.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Vareth",
-    "fact": "Vareth believes mortal choice is sovereign, the gods exist, the dragons exist, and Providence may or may not exist.",
-    "source_quote": "The Stroudite school says mortal choice is sovereign. The gods exist. The dragons exist. Providence may or may not exist.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Vareth",
-    "fact": "Vareth believes divine providence prevails and mortals serve as instruments of Bahamut.",
-    "source_quote": "The Bahamutian school says divine providence prevails. Bahamut moved his pieces beforehand. The mortals served as instruments.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Vareth",
-    "fact": "Vareth believes ancient agency rules and the dragons follow their elders out of trust.",
-    "source_quote": "The Draconic school says ancient agency rules. Protanther honored Stroud's move because Protanther is honorable... The metallic dragons followed Protanther because they trust their elders.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Vareth",
-    "fact": "Vareth paused and said a god who wished to control mortal lives would shape the rules of the evidence, the form of polemic, and the architecture of a chapter house.",
-    "source_quote": "He pauses and says that a god who wished to control the outcome of mortal lives would not need to compel a single hand. She would only need to shape the rules of the evidence. The form of polemic. The architecture of a chapter house.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Vareth",
-    "fact": "Vareth holds the strong-weak hypothesis: a strong Stroudite denies fixed points, a strong Bahamutian affirms them, and a weak Bahamutian operates outside them.",
-    "source_quote": "He calls it a compromise of the Bahamutian school. He calls me a weak Stroudite \u2014 a strong Stroudite holds there are no fixed points at all \u2014 and a strong Bahamutian around fixed points, and a weak Bahamutian outside of them. He names this the strong-weak hypothesis with the satisfaction of a man who has just filed something correctly.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Vareth",
-    "fact": "Vareth dismissed the Bahamutians, waved off the dragons, and spoke about quadrangles and the center of circles described by three points.",
-    "source_quote": "He says things about quadrangles and the center of circles described by three points.",
+    "subject": "I",
+    "fact": "I notice that none of the three schools of thought quite fit what I actually think.",
+    "source_quote": "I am sitting with this \u2014 genuinely sitting with it... when I notice that none of them quite fit what I actually think.",
     "quote_verified": false
   },
   {
     "type": "thread",
     "subject": "The Grygum school of thought",
-    "fact": "The Grygum school of thought was proposed as an offhand remark and is now being treated as the question of the age.",
-    "source_quote": "I just proposed a school of theological thought by accident, and an aging scholar with forty-one years in this corner of the library is now treating it as the question of the age.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Pizwog",
-    "fact": "Pizwog is an ancient tortle who moves at the speed of an ancient tortle.",
-    "source_quote": "Pizwog, who is an ancient tortle and moves at the speed of an ancient tortle.",
+    "fact": "The Grygum school of thought was proposed accidentally and is now being treated as the question of the age.",
+    "source_quote": "The Grygum school of thought. Filed under: things that started as offhand remarks.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "Pizwog",
-    "fact": "Pizwog distributed a religious tract that turned out to be one of his own research papers.",
-    "source_quote": "He distributes what appears to be a religious tract, which turns out to be one of his own research papers.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Pizwog",
-    "fact": "Pizwog is deeply theoretical and internally inconsistent in ways that are meaningful but not yet specified.",
-    "source_quote": "a syncretic analysis of different religions across the Sword Coast, deeply theoretical, internally inconsistent in ways I can tell are meaningful without yet being able to specify how",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "The narrator",
-    "fact": "The narrator proposed a fourth school of thought: fixed points constrain action, but freedom exists between them.",
-    "source_quote": "What if there are certain fixed points around which our actions must revolve? And the closer we come to one of those fixed points, the more constrained we are, but between them, perhaps we have a great deal of freedom of action.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "The narrator",
-    "fact": "The narrator noted that none of the three schools quite fit what they actually thought.",
-    "source_quote": "I am sitting with this \u2014 genuinely sitting with it... when I notice that none of them quite fit what I actually think.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "The narrator",
-    "fact": "The narrator realized they had not previously been aware that they actually thought anything about this.",
-    "source_quote": "which is inconvenient, because I had not previously been aware that I actually thought anything about this.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "The narrator",
-    "fact": "The narrator observed Vareth\u2019s moment of panic, which was brief and genuine.",
-    "source_quote": "The moment of utter panic that crosses his face is brief and genuine.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "The narrator",
-    "fact": "The narrator noted that Vareth was excited and rushed off to begin his own research.",
-    "source_quote": "Vareth is excited... he rushes off to begin his own research.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "The narrator",
-    "fact": "The narrator said, 'I feel like I handled that competently,' to no one in particular.",
-    "source_quote": "I feel like I handled that competently,\" I say, to no one in particular.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "The narrator",
-    "fact": "The narrator noticed the ceiling of the Refectory was high enough that a hill giant could sit comfortably.",
+    "subject": "Thorin",
+    "fact": "Thorin noticed the high ceiling of the Refectory before anything else.",
     "source_quote": "I noticed that first \u2014 the ceiling \u2014 before I noticed anything else.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "The narrator",
-    "fact": "The narrator watched the Great Readers the way giants watch a disputed ridge line.",
-    "source_quote": "I watched them the way the giants taught me to watch a disputed ridge line: settle in, say nothing, let the information come to you.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "The narrator",
-    "fact": "The narrator observed one Great Reader was visibly drunk in a way that wasn't an accident.",
+    "subject": "Thorin",
+    "fact": "Thorin noticed the drunk Great Reader's visible intoxication.",
     "source_quote": "One of the Great Readers had a cup that kept getting refilled. Drunk, visibly, in the way that wasn't an accident.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "The narrator",
-    "fact": "The narrator observed another Great Reader looked genuinely unwell, with the gray of someone who had pushed through days of bad sleep.",
+    "subject": "Thorin",
+    "fact": "Thorin noticed the Great Reader who looked genuinely unwell.",
     "source_quote": "Another looked genuinely unwell, the particular gray of someone who had pushed through several days of bad sleep and hadn't yet admitted it to themselves.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "The narrator",
-    "fact": "The narrator noticed two readers sitting with their heads angled together, voices below audible, indicating something had gone very wrong or was about to.",
+    "subject": "Thorin",
+    "fact": "Thorin noticed the two readers in the corner having a hushed conversation.",
     "source_quote": "In the far corner, two readers sat with their heads angled together, voices below audible, the kind of hushed conversation that usually means either something has gone very wrong or something is about to.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "The narrator",
-    "fact": "The narrator saw a hooded figure from the Avowed pass the dining hall at a half-run, something tucked against their ribs under the robe.",
-    "source_quote": "a hooded figure from the Avowed went past the dining hall at a half-run, something tucked against their ribs under the robe.",
+    "subject": "Thorin",
+    "fact": "Thorin noticed the hooded Avowed figure moving quickly with something tucked against their ribs.",
+    "source_quote": "And then a hooded figure from the Avowed went past the dining hall at a half-run, something tucked against their ribs under the robe.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "The narrator",
-    "fact": "The narrator thought about Alaundo\u2019s prophecies and how Candlekeep recites only the unfulfilled ones.",
-    "source_quote": "Vareth had explained it to Grygum earlier in the day... there was a man named Alaundo whose prophecies had come true with uncomfortable regularity, so Candlekeep had been reciting them ever since. Whenever one came true, it was removed. What remained was the unfulfilled inventory.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "The narrator",
-    "fact": "The narrator heard the prophecy: 'On the longest night of winter's deepest cold, the keeper falls, the heart is sold.'",
-    "source_quote": "On the longest night of winter's deepest cold, the keeper falls, the heart is sold.",
+    "subject": "Thorin",
+    "fact": "Thorin thought about the giants' saying that a wall is just a rock in the right place.",
+    "source_quote": "The giants used to say that a wall is just a rock in the right place.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "The narrator",
-    "fact": "The narrator sat with the prophecy and did not react visibly.",
-    "source_quote": "It landed. I sat with it for a second... I kept it.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "The narrator",
-    "fact": "The narrator noted that Glabbagool wanted out of the bag of holding.",
-    "source_quote": "Whatever Glabbagool had been doing in the bag all day... he was done with it. He wanted out.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "The narrator",
-    "fact": "The narrator set Dawnbringer against the wall within reach, close but not drawn.",
-    "source_quote": "I found a corner of the hearth room, set Dawnbringer against the wall within reach \u2014 close but not drawn, which had become its own negotiation over the weeks",
+    "subject": "Thorin",
+    "fact": "Thorin thought about the prophecy 'On the longest night of winter's deepest cold, the keeper falls, the heart is sold.'",
+    "source_quote": "*On the longest night of winter's deepest cold, the keeper falls, the heart is sold.*",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "The narrator",
-    "fact": "The narrator heard the prophecy again: 'The keeper falls.'",
-    "source_quote": "*The keeper falls.*",
+    "subject": "Thorin",
+    "fact": "Thorin kept the prophecy to himself without reacting.",
+    "source_quote": "I kept it.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "Daz",
-    "fact": "Daz was awake before Fembris got through the second syllable of the knock.",
-    "source_quote": "The knock came before the light did. I was awake before Fembris got through the second syllable",
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin understood that Glabbagool wanted out of the bag of holding.",
+    "source_quote": "He wanted out.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin understood that Glabbagool's want was real even if its meaning was unclear.",
+    "source_quote": "I didn't know what *out* meant for an ooze. Neither did he. But the want was there.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin felt tired in a way that wasn't the sleep kind.",
+    "source_quote": "I was tired. Not the sleep kind.",
     "quote_verified": true
   },
   {
     "type": "event",
     "subject": "Daz",
-    "fact": "Daz catalogued the messenger\u2019s words: the Keeper of Tomes is dead, the First Reader wants them specifically, through the emerald door, before the Avowed awake.",
-    "source_quote": "The Keeper of Tomes is dead! She wants you! Now, through the emerald door, before the avowed awake!",
+    "fact": "Daz was awake before the knock finished its second syllable.",
+    "source_quote": "I was awake before Fembris got through the second syllable",
     "quote_verified": true
   },
   {
     "type": "event",
     "subject": "Daz",
-    "fact": "Daz noted that the clause 'before the avowed awake' meant the First Reader wanted the scene contained and believed the party was the right instrument.",
-    "source_quote": "That clause was doing a great deal of work. *Before the avowed awake* meant she wanted this contained. It also meant she thought we were the right instrument for containing it.",
+    "fact": "Daz catalogued the messenger's message as he heard it.",
+    "source_quote": "I was already cataloguing before the sentence finished.",
     "quote_verified": true
   },
   {
     "type": "event",
     "subject": "Daz",
-    "fact": "Daz recognized the combination of a dead institutional figure, bypassed channels, and summoned party as a signal of information control.",
-    "source_quote": "In Menzoberranzan, that combination resolved to one thing: someone wanted the scene read before it was managed. The surface world ran different politics, but the bones of information control looked the same everywhere.",
+    "fact": "Daz noted that the phrase 'before the avowed awake' was doing a great deal of work.",
+    "source_quote": "That clause was doing a great deal of work.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum opened the door and asked, 'The Keeper of Tomes?'",
-    "source_quote": "Grygum opened the door. I heard his voice land somewhere between inquiry and bracing for bad news: 'The Keeper of Tomes?'",
-    "quote_verified": false
+    "subject": "Daz",
+    "fact": "Daz recognized the pattern of institutional information control as familiar from Menzoberranzan.",
+    "source_quote": "In Menzoberranzan, that combination resolved to one thing: someone wanted the scene read before it was managed.",
+    "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum said something about not having thought through what orcs wear to bed.",
-    "source_quote": "He said something about not having thought through what orcs wear to bed",
+    "subject": "Daz",
+    "fact": "Daz filed Grygum's comment about orc bedwear as part of Grygum's processing of the morning.",
+    "source_quote": "I filed it in the column marked *Grygum is processing the morning*",
     "quote_verified": true
   }
 ]

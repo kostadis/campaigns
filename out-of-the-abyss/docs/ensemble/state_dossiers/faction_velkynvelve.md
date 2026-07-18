@@ -1,14 +1,15 @@
 ---
 name: Velkynvelve
 type: faction
-n_facts: 2
-chapters: 7-49
+n_facts: 3
+chapters: 7-50
 ---
 
 ### Velkynvelve
 
-Velkynvelve is a former drow military organization whose guards have been entirely repurposed into mindless fungal weapons under the influence of Ilvara and Zuggtmoy. Once composed of named soldiers with duties and agency, the faction no longer functions as an institution — its members have been biologically overwritten by the cavern’s fungal will, becoming tools of biological domination. Velkynvelve’s institutional identity has collapsed, leaving only grotesque, animated remnants as grim monuments to its destruction.
+Velkynvelve is a former drow military organization whose guards have been fully corrupted and repurposed into mindless fungal weapons by Ilvara and Zuggtmoy’s influence. The once-disciplined soldiers, now stripped of agency, identity, and names, are reanimated as shambling spore servants—biological tools directed by the cavern’s fungal will. They serve as frontline shock troops in the ongoing battle, their existence a grim monument to the collapse of institutional loyalty under supernatural corruption.
 
 ## Uncertainty
-- The current status of Velkynvelve’s leadership or original command structure is unmentioned after its transformation; whether any original drow officers survived or were also transformed is unknown.
-- It is unclear whether any portion of Velkynvelve still exists independently outside the fungal corruption — the facts describe only the fate of the guards, not the entire faction’s structure or possible hidden cells.
+- The current status of Velkynvelve’s original leadership or command structure is unknown; no facts confirm whether any original officers remain alive, corrupted, or active.
+- The exact geographic location of Velkynvelve’s former base or current fungal-infested territory is not specified.
+- Whether any uncorrupted remnants of Velkynvelve still exist outside the fungal influence is unconfirmed.

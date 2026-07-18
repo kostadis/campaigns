@@ -1,100 +1,142 @@
 [
   {
     "type": "npc",
-    "subject": "Bookwyrm",
-    "fact": "Bookwyrm is the current acting head of Candlekeep, under suspicion of involvement in a confession, a cleaver, and blood-related events; her potential election as permanent head is contested, and she is being maneuvered against by Avowed members who seek to force her into a Zone of Truth or induce her to decline the role.",
-    "source_quote": "The stench of suspicion will be all over her. Alkrist is finished \u2014 his confession, the cleaver, the blood.",
-    "quote_verified": false
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch is unwilling to directly confront Bookwyrm with a Zone of Truth spell without her consent, fearing political repercussions if she survives and becomes his superior; he frames this caution as principle but it is rooted in self-preservation.",
+    "source_quote": "He's not going to do it without her permission \u2014 how about I put it that way?",
+    "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Kalan Strongbranch",
-    "fact": "Kalan Strongbranch is orchestrating a patient, politically subtle campaign to remove Bookwyrm from power by leveraging institutional procedures and Avowed voting dynamics, avoiding direct confrontation to preserve his own standing and reputation; he claims moral high ground but is motivated by self-preservation and fear of her potential future authority.",
-    "source_quote": "He's not going to do it without her permission \u2014 how about I put it that way? ... He said his own name as he said it, the way a man does when he's decided to be honest about his cowardice and dress it as principle.",
-    "quote_verified": false
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm is the current acting head of Candlekeep and the central figure of suspicion due to her association with a confession, a cleaver, and blood; her election as permanent head is under threat, and her fate hinges on whether she submits to a Zone of Truth or declines it.",
+    "source_quote": "Bookwyrm is simply the current acting head of Candlekeep.",
+    "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Fembris Lancer",
-    "fact": "Fembris Lancer is the likely next head of the Avowed, expected to be elected following the naming ceremony due to the suspicion surrounding Bookwyrm and A'lai; she is anticipated to act decisively against Bookwyrm upon assuming power.",
-    "source_quote": "Fembris Lancer will probably get elected the new avowed, and the first thing she'll want to do is get rid of Bookwyrm.",
+    "fact": "Fembris Lancer is the likely candidate to be elected the new head of the Avowed, as suspicion surrounding Bookwyrm and Alkrist has shifted political favor toward her.",
+    "source_quote": "Fembris Lancer will probably get elected the new avowed.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "A'lai",
+    "fact": "A'lai is a contender for the head of the Avowed but is not expected to be named, as suspicion and political momentum are directed elsewhere.",
+    "source_quote": "A'lai won't be named either.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Alkrist",
-    "fact": "Alkrist is a deceased former Avowed whose confession, a cleaver, and blood are central to the suspicion cast upon Bookwyrm; his death has removed a key witness and shifted blame toward her.",
+    "fact": "Alkrist is deceased; his confession, the cleaver, and blood tie him to the central mystery, and his death has removed him as a political actor, leaving his legacy as a stain on Bookwyrm\u2019s reputation.",
     "source_quote": "Alkrist is finished \u2014 his confession, the cleaver, the blood.",
     "quote_verified": true
   },
   {
     "type": "faction",
     "subject": "The Avowed",
-    "fact": "The Avowed is the governing body of Candlekeep, currently divided over the legitimacy and guilt of Bookwyrm; its members are being manipulated into voting against her through rumor, suspicion, and procedural pressure rather than direct evidence.",
-    "source_quote": "The stench of suspicion will be all over her. ... I have strong conviction the other members of the Avowed will not elect her.",
-    "quote_verified": false
-  },
-  {
-    "type": "spell",
-    "subject": "Zone of Truth",
-    "fact": "The Zone of Truth spell is not an infallible lock but a pressure that can be resisted by a subject who mentally steels themselves; its effectiveness depends on the target\u2019s willpower and awareness, and its use is being debated as either a tool of justice or a weapon of coercion.",
-    "source_quote": "It can be defeated? It can, now \u2014 I know the spell better than most in the room; it isn't a lock, it's a pressure. ... She can steel herself against it \u2014 but we'd know if she manages. We don't know if she's telling the truth in that case, but we'd know if she *can* lie.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Naming Ceremony",
-    "fact": "The naming ceremony scheduled for tomorrow will determine the new permanent head of the Avowed; Bookwyrm and A'lai are both under suspicion and unlikely to be chosen, creating a power vacuum that will be filled by Fembris Lancer and trigger further action against Bookwyrm.",
-    "source_quote": "Tomorrow there will be a naming ceremony \u2014 and with all of this suspicion over her name, the confession, the information\u2026 I suspect the vote will go elsewhere.",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "Bookwyrm's Guilt or Innocence",
-    "fact": "The central unresolved thread is whether Bookwyrm is truly guilty of the crimes tied to Alkrist\u2019s confession and the cleaver, or if she is being framed by political maneuvering; the players are betting on her response to a proposed opportunity to decline the role as proof of guilt.",
-    "source_quote": "A win either way, drawn on academic paper. I have seen this move before, in Gracklstugh, dressed in different robes. Pit the room against the accused and let the room do the killing you don't want your name on.",
+    "fact": "The Avowed is the governing body of Candlekeep whose upcoming naming ceremony will determine the new head; its members are divided by suspicion, political maneuvering, and academic protocol, with Bookwyrm's fate in their hands.",
+    "source_quote": "Bookwyrm is simply the current acting head of Candlekeep.",
     "quote_verified": true
   },
   {
-    "type": "thread",
-    "subject": "Patience as a Strategy",
-    "fact": "The strategy of patience \u2014 waiting for institutional forces to turn against Bookwyrm rather than acting directly \u2014 is being championed as clever and morally superior, but carries the risk of enabling injustice if she is innocent and the room condemns her without evidence.",
-    "source_quote": "Sometimes the clever play is to be patient. ... Patience is a fine strategy right up until someone makes a move you never mapped.",
+    "type": "event",
+    "subject": "naming ceremony",
+    "fact": "The naming ceremony for the new head of the Avowed will occur tomorrow and is expected to exclude Bookwyrm and A'lai, with Fembris Lancer likely to be elected, creating an opportunity to pressure Bookwyrm into submitting to a Zone of Truth.",
+    "source_quote": "Tomorrow there will be a naming ceremony.",
     "quote_verified": false
   },
   {
     "type": "location",
     "subject": "Candlekeep",
-    "fact": "Candlekeep is the seat of the Avowed and the center of this political conflict; its traditions, voting procedures, and scholarly ethos are being weaponized to undermine Bookwyrm without direct accusation or proof.",
-    "source_quote": "Bookwyrm is simply the current acting head of Candlekeep. ... The legal precedent isn't there, I suspect the vote will go elsewhere.",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "The Cleaver",
-    "fact": "The cleaver is a physical artifact tied to Alkrist\u2019s confession and the blood event; its presence in the narrative is used to implicate Bookwyrm, though its origin and use remain unverified.",
-    "source_quote": "Alkrist is finished \u2014 his confession, the cleaver, the blood.",
+    "fact": "Candlekeep is the seat of the Avowed and the center of scholarly power where political and magical investigations into Bookwyrm's conduct are unfolding; its internal politics are shaped by precedent, suspicion, and academic ethics.",
+    "source_quote": "Bookwyrm is simply the current acting head of Candlekeep.",
     "quote_verified": true
   },
   {
     "type": "object",
-    "subject": "The Confession",
-    "fact": "The confession is a magical or written testimony linked to Alkrist, now used as circumstantial evidence against Bookwyrm; its authenticity, context, and relevance are under dispute, and its status as a single source of truth is deemed insufficient by the group\u2019s own standards.",
-    "source_quote": "You have a confession. A heart and a cleaver. ... My paper says you can't rely on one source of truth; you need three different kinds.",
+    "subject": "Zone of Truth spell",
+    "fact": "The Zone of Truth spell does not guarantee truth-telling but reveals whether a subject can resist its effect; it is a tool of pressure, not compulsion, and can be countered by mental fortitude, making its use politically delicate.",
+    "source_quote": "It isn't a lock, it's a pressure.",
     "quote_verified": false
   },
   {
+    "type": "object",
+    "subject": "the confession",
+    "fact": "The confession is a magical statement tied to the central mystery; it is considered insufficient as proof on its own, requiring three distinct kinds of evidence to be valid under Kalan\u2019s own scholarly standard.",
+    "source_quote": "The confession is one spell \u2014 the weakest channel, by the standard I wrote.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "the cleaver",
+    "fact": "The cleaver is a physical artifact linked to the bloodshed and mystery; its presence alongside the confession implicates Bookwyrm, though no one has proven who wielded it.",
+    "source_quote": "The heart and the cleaver prove someone covered this up cleverly.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Bookwyrm's guilt or innocence",
+    "fact": "Whether Bookwyrm is guilty or innocent remains unresolved; the plan is to let the Avowed decide her fate through political pressure rather than direct evidence, turning academic protocol into a weapon.",
+    "source_quote": "Sometimes the clever play is to be patient.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Kalan's hidden motive",
+    "fact": "Kalan\u2019s insistence on patience and protocol masks a desire to avoid personal risk; his strategy is designed to shift blame onto the Avowed while preserving his own position, revealing moral compromise disguised as scholarly integrity.",
+    "source_quote": "This wasn't law. This was a man measuring who might sign his pay in a week.",
+    "quote_verified": true
+  },
+  {
     "type": "date",
-    "subject": "Tomorrow's Naming Ceremony",
-    "fact": "The naming ceremony will occur tomorrow and is the pivotal temporal anchor for the entire political maneuver; all actions and decisions are timed to precede or respond to it.",
-    "source_quote": "Tomorrow there will be a naming ceremony \u2014 and with all of this suspicion over her name...",
+    "subject": "tomorrow",
+    "fact": "The naming ceremony for the new head of the Avowed is scheduled for tomorrow, marking the next critical turning point in the political maneuvering surrounding Bookwyrm.",
+    "source_quote": "Tomorrow there will be a naming ceremony.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "the stench of suspicion",
+    "fact": "The 'stench of suspicion' is not a creature but a metaphorical force actively shaping political outcomes; it is treated as a tangible threat that can destroy reputations without physical evidence.",
+    "source_quote": "Even without evidence, the stench of suspicion will be all over her.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a meticulous scholar who obsesses over wording and protocol, using textual analysis to uncover hidden motives and logical inconsistencies in Kalan\u2019s strategy.",
+    "source_quote": "Zalthir went back to the wording, which is his instinct \u2014 worry the sentence until it gives.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a pragmatic voice who pushes for clarity and directness, challenging abstract reasoning and demanding concrete actions in the investigation.",
+    "source_quote": "Alright,\" said Thorin. \"So we've got to nail Bookwyrm.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi is deceased; their name was invoked as the one who declined the original research proposal that might have resolved the mystery, and their death now enables the current political maneuvering.",
+    "source_quote": "Janussi. Kalan said it without softening it, and it was accurate.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "offering Bookwyrm a chance to decline",
+    "fact": "Kalan plans to offer Bookwyrm the opportunity to decline the headship before the naming ceremony, ensuring that any refusal will be interpreted as guilt and further erode her support among the Avowed.",
+    "source_quote": "We will give her the opportunity to decline.",
     "quote_verified": false
   },
   {
     "type": "thread",
-    "subject": "Moral Justification of Inaction",
-    "fact": "The group is rationalizing inaction and indirect pressure as moral because they offer Bookwyrm a choice to decline \u2014 but this choice is engineered to trap her: accepting implies guilt, declining implies guilt, and silence implies guilt; the moral high ground is a facade for a witch hunt.",
-    "source_quote": "We're effectively preventing Bookwyrm, if innocent, from serving this role. ... We will give her the opportunity to decline. Her declining will further weaken her support among the other Avowed.",
-    "quote_verified": false
+    "subject": "moral compromise of scholarly protocol",
+    "fact": "The use of academic standards and procedural rules as tools of political elimination reveals a deep moral compromise: truth is secondary to power, and justice is replaced by calculated inaction.",
+    "source_quote": "Pit the room against the accused and let the room do the killing you don't want your name on.",
+    "quote_verified": true
   }
 ]
