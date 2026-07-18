@@ -1,30 +1,19 @@
-# Published module — use 5etools MCP instead
-docs/background/obelisk.md
-
-# Session summaries — raw data, not canon yet
-summaries/
-
-# Pipeline rendering inputs
+# mneme-rendered; source-sha256: 53a1f5ec31cb9038d879033abc8ac95bbbb912b524f1fbf9c34f6fec4d788963; do-not-edit
+logs/
 voice/
 examples/
-
-# Operational
-logs/
-
-# Working/staging area (not canon yet)
-notes/
-
-# Empty directories
-docs/party/
-
-# Tooling & config
+.claude/
+.mneme/
+.mcp.json
+MEMPALACE.md
+*.sh
 config.yaml
 ui_config.yaml
+ui_state.yaml
+entities.json
 refs.yaml
 refs.local.yaml
-entities.json
-.mcp.json
-
-# System files
-desktop.ini
-*.Zone.Identifier
+.dedup_state.json
+docs/chapters/
+notes/
+summaries/

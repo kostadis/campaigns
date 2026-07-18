@@ -1,0 +1,86 @@
+campaign: obelisk
+recipe_version: 2.0.0
+store:
+  alias: obelisk
+  path: /home/kroussos/.mempalace/palaces/obelisk
+wings:
+- name: narrative
+  source: docs/chapters
+  trust: authoritative
+  rooms:
+  - name: chapters
+    description: chapters content
+    keywords:
+    - chapters
+  - name: general
+    description: general content
+    keywords:
+    - general
+- name: notes
+  source: notes
+  trust: reference
+  rooms:
+  - name: prep
+    description: prep content
+    keywords:
+    - prep
+  - name: handouts
+    description: handouts content
+    keywords:
+    - handouts
+  - name: design
+    description: design content
+    keywords:
+    - design
+  - name: references
+    description: references content
+    keywords:
+    - references
+  - name: general
+    description: general content
+    keywords:
+    - general
+- name: summaries
+  source: summaries
+  trust: reference
+  rooms:
+  - name: narration
+    description: narration content
+    keywords:
+    - narration
+  - name: extractions
+    description: extractions content
+    keywords:
+    - extractions
+  - name: summary
+    description: summary content
+    keywords:
+    - summary
+  - name: general
+    description: general content
+    keywords:
+    - general
+- name: obelisk
+  source: .
+  trust: reference
+  rooms:
+  - name: npcs
+    description: npcs content
+    keywords:
+    - npcs
+  - name: party
+    description: party content
+    keywords:
+    - party
+  - name: world
+    description: world content
+    keywords:
+    - world
+  - name: arcs
+    description: arcs content
+    keywords:
+    - arcs
+  - name: general
+    description: general content
+    keywords:
+    - general

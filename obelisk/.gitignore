@@ -1,0 +1,9 @@
+# module-inventory skill working directory (transient, regenerable)
+docs/background/.module_inventory/
+
+# entity-triage skill state (transient, local)
+docs/.entity_triage_state.json
+docs/.triage_queue.json
+
+# Operational / local
+.claude/
