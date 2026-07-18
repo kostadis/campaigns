@@ -4,7 +4,7 @@
 
 Daz
 ![image]()
-Grygum and Thorin, after recovering their senses, to the extent that is possible for the dwarf, explained that they saw Zuggtomy. And that she had made them an offer, an offer that Thorin refused. 
+Grygum and Thorin, after recovering their senses, to the extent that is possible for the dwarf, explained that they saw Zuggtmoy. And that she had made them an offer, an offer that Thorin refused. 
 
 
 “Good,” I said. Deals with demons are rarely pleasant. 
@@ -250,7 +250,7 @@ With our business transacted, I start to walk out, but Gartokkar suddenly stops 
 Gartokkar is warning us. He is, which is odd. Which means he is afraid. But why would he warn us? Because he’s worried that if we do anything or say anything, we could cause this entire place to explode. 
 
 
-As I walk out, I remember that we had a deal with Thermbechaude. And then I remember, Thermebechaude thought he had an agreement with us. We never had a deal with him. 
+As I walk out, I remember that we had a deal with Themberchaud. And then I remember, Themberchaud thought he had an agreement with us. We never had a deal with him. 
 
 
 With this warning, we head out towards the Darklake. As we walk through an alley, trying to be inconspicuous, a group of Derro surrounds us. They announce that the Grey Ghosts will have their revenge for the murder of the High Council. 

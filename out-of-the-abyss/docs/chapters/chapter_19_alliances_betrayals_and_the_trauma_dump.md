@@ -293,7 +293,7 @@ The merchant whimpers apologetically, “I am a merchant, I have to question eve
 Grygum is impressed with Daz's cold calculation and watches as Werz hands over the coins. 
 
 
-As he hands over the money, Werz says, “Since we are business partners, let me tell you about some information you might find helpful. As a merchant, I know how the clans feel about the Deepking. Clan Ironshadow’s clan leader is willing to wait out the Deepking’s madness, but other clan members are unhappy. Clan Tharzgad has been complaining about raids by the Grey Ghosts. Although many clans are dissatisfied, some, like Clan Xundom, will support the Deepking if war breaks out.” 
+As he hands over the money, Werz says, “Since we are business partners, let me tell you about some information you might find helpful. As a merchant, I know how the clans feel about the Deepking. Clan Ironshadow’s clan leader is willing to wait out the Deepking’s madness, but other clan members are unhappy. Clan Thrazgad has been complaining about raids by the Grey Ghosts. Although many clans are dissatisfied, some, like Clan Xundom, will support the Deepking if war breaks out.” 
 
 
 Grygum yawns. 
@@ -435,4 +435,4 @@ Zalthir tries to look confused, but she has already left.
 Daz smiles, “They all know that we are going into the Whorlstone tunnels, and they all hope the information we provide will help them. The question is, how do we get the information and profit most?” 
 
 
-Grygum coughs, “And free Thermbachaude.”
+Grygum coughs, “And free Themberchaud.”

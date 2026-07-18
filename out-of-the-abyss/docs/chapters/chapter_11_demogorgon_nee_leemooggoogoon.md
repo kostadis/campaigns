@@ -25,7 +25,7 @@ Zalthir,  who has been observing everyone, can’t tell one faction of fish-folk
 
 
 Just then, he hears Bloppblippodd call for the sacrifices to be brought forth. One kuo-toa per escapee jumps to do her bidding. They prod Zalthir and his fellow escapees with their spears, herding them toward a slight depression 20 feet from the altar, with a large grate at its center. 
-Jim Jir mutters, “Wanna bet on how many of us will come out of this alive?” 
+Jimjar mutters, “Wanna bet on how many of us will come out of this alive?” 
 Daz announces, “We’re all going to come out of this alive.” 
 
 
@@ -88,7 +88,7 @@ In many ways, it’s amazing how the brain will convince you that the thing you 
 Thorin was experiencing that. 
 
 
-But Grygum remembers from his training who and what the entity they were seeing was. He remembers his mentor, Grog'Bahamut, and what he said of the foul creature one evening. 
+But Grygum remembers from his training who and what the entity they were seeing was. He remembers his mentor, Gorg Bahamut, and what he said of the foul creature one evening. 
 "Demogorgon.  The very name is a blasphemy against creation, a festering wound upon the fabric of reality.  He is a creature of pure chaos, a monstrous embodiment of the Abyss's insatiable hunger for destruction.  Two heads, each a font of corruption, embody the duality of his vile nature: one whispers insidious lies, tempting the weak to embrace the darkness, while the other roars with primal fury, reveling in carnage and despair.  His form is a grotesque mockery of life, a twisted amalgamation of reptilian savagery and demonic power.  Tentacles replace hands, dripping with the venom of chaos, while his twin necks support heads that mirror the fractured nature of his soul.
 He is the antithesis of all Bahamut stands for: justice, order, and compassion.  Where Bahamut offers protection and guidance, Demogorgon sows discord and ruin.  Where Bahamut inspires hope, Demogorgon revels in despair.  He is a predator of souls, a corrupter of the innocent, and a destroyer of worlds.  He commands legions of demons, each a vile reflection of his depravity, and his influence spreads like a plague across the planes.
 To face Demogorgon is to confront the ultimate darkness, the purest form of evil.  Yet, even in the face of such horror, we, the followers of Bahamut, will not falter.  We will stand against him, armed with faith and righteousness, and we will fight to protect the innocent from his insidious grasp.  For even in the deepest shadows, the light of justice can prevail."

@@ -243,7 +243,7 @@ Grygum is silent.
 “She has four guards.” 
 
 
-Thorin growls, “We don’t have the resources to mount a full frontal assault. So we could just return, give the information, and then boogie out of here. We still have a boat. But I still like the  plan of escaping on the back of Thermbachaud.” 
+Thorin growls, “We don’t have the resources to mount a full frontal assault. So we could just return, give the information, and then boogie out of here. We still have a boat. But I still like the  plan of escaping on the back of Themberchaud.” 
 
 
 Grygum mutters, “Bahamut commands that I save the egg.” 

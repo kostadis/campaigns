@@ -157,7 +157,7 @@ I think about those mutated corpses in the Circle of Welcome, and wonder what th
 But I am trying to be cool. However, Dawnbringer shedding bright light on everyone isn’t helping right now. The Myconids are retreating from me. 
 
 
-And just then, Gyrgum starts  jumping up and down and screaming, “DANGER!” 
+And just then, Grygum starts  jumping up and down and screaming, “DANGER!” 
 
 
 I can hear Zalthir through the Rapport Spores mutter, “This was not how I meant stealthy.” 

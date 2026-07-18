@@ -863,7 +863,7 @@
 - **Brysis Of Khaem** / **Brysis**
 - **Fargas Rumblefoot** / **Fargus Rumblefoot**
 - **Naomi Pathshutter** / **Nomi Pathshutter** — earth elemental wrangler, Yantha's apprentice
-- **Jadgar** / **Uth Jadgar** / **Burrow Warden Jadger** / **Jadger** / **Borough Warden Jadger** / **Uth-Jadger** — ghost veteran leading the new burrow wardens
+- **Jadger** / **Uth Jadgar** / **Burrow Warden Jadger** / **Jadgar** / **Borough Warden Jadger** / **Uth-Jadger** — ghost veteran leading the new burrow wardens; confirmed via 5etools module search as "Jadger" (Jadgar has zero hits in the published OotA text)
 - **Kaelira Duskryn** / **Kaelira** / **Kaelen**
 - **Nym Duskryn** / **Nym** — rank-and-file drow warrior of the Velkynvelve garrison
 - **Yuk Yuk**
@@ -928,8 +928,8 @@
 - **Travis Houlin** / **Travis** — Deceased paladin of Bahamut memorialized in Daggerford, died fighting the Cult of the Dragon there
 - **Malfire** / **Melfire** — Figure depicted alongside Stroud, Milo, and Whistler in Milo Goodbarrel's painting at Rishaal's Pageturners (Waterdeep); fan debate attributes him an 'operational expenses, cost of living' philosophy
 - **Eldred** / **Elred** — One of several people driven mad by the false-syncopation chant error, linked to the Endless Chant/Deadwinter Prophecy thread and Daz's headaches
-- **Ellen** / **Elin** — Silent child of Meredith of the Ford, near Daggerford; afflicted by the surface-bleeding Underdark/chant madness, tenuously linked to Daz's headaches. NOTE: docs/campaign_state.md spells this 'Elin' — transcript spelling wins per trust hierarchy, flag for correction on next grounding-doc regen.
-- **Meredith of the Ford** — Weaver at the River Shining Tavern near Daggerford; Ellen's mother
+- **Elin** / **Ellen** — Silent child of Meredith of the Ford, near Daggerford; afflicted by the surface-bleeding Underdark/chant madness, tenuously linked to Daz's headaches. Confirmed 'Elin' — matches docs/campaign_state.md and 7x usage in docs/TheUnderdark.md; 'Ellen' was the registry's error, now demoted to alias.
+- **Maerith of the Ford** / **Meredith of the Ford** — Weaver at the River Shining Tavern near Daggerford; Elin's mother. Confirmed 'Maerith' — matches notes/sessions/ and docs/chapters/chapter_55; 'Meredith' only appears in the superseded summaries/old/20260511/ first-pass output.
 - **Kestler** / **Kessler** — Half-orc at the Mountain's Mouth inn (Triboar area) who keeps a small Bahamut shrine; asked the party to carry a note to his brother at a temple that stopped writing 5 years ago
 - **Glaziel** — Referenced only as Glaziel's lair on Whistler's memorial sign at Rishaal's Pageturners - where Whistler is said to have fallen
 - **Vooshadi Moonriver** — Candlekeep attendant assigned by Bookwyrm to guard the Sanctum door

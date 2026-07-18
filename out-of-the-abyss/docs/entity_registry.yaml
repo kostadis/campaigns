@@ -2473,15 +2473,16 @@ entities:
   aliases:
   - Nomi Pathshutter
   note: earth elemental wrangler, Yantha's apprentice
-- name: Jadgar
+- name: Jadger
   type: npc
   aliases:
   - Uth Jadgar
   - Burrow Warden Jadger
-  - Jadger
+  - Jadgar
   - Borough Warden Jadger
   - Uth-Jadger
-  note: ghost veteran leading the new burrow wardens
+  note: ghost veteran leading the new burrow wardens; confirmed via 5etools module
+    search as "Jadger" (Jadgar has zero hits in the published OotA text)
 - name: Kaelira Duskryn
   type: npc
   aliases:
@@ -2714,17 +2715,21 @@ entities:
   type: item
   note: One of two High Tower Library keys, torn from Janussi's neck the night of
     his murder; still untraced
-- name: Ellen
+- name: Elin
   type: npc
   aliases:
-  - Elin
-  note: 'Silent child of Meredith of the Ford, near Daggerford; afflicted by the surface-bleeding
-    Underdark/chant madness, tenuously linked to Daz''s headaches. NOTE: docs/campaign_state.md
-    spells this ''Elin'' — transcript spelling wins per trust hierarchy, flag for
-    correction on next grounding-doc regen.'
-- name: Meredith of the Ford
+  - Ellen
+  note: Silent child of Meredith of the Ford, near Daggerford; afflicted by the surface-bleeding
+    Underdark/chant madness, tenuously linked to Daz's headaches. Confirmed 'Elin' —
+    matches docs/campaign_state.md and 7x usage in docs/TheUnderdark.md; 'Ellen' was
+    the registry's error, now demoted to alias.
+- name: Maerith of the Ford
   type: npc
-  note: Weaver at the River Shining Tavern near Daggerford; Ellen's mother
+  aliases:
+  - Meredith of the Ford
+  note: Weaver at the River Shining Tavern near Daggerford; Elin's mother. Confirmed
+    'Maerith' — matches notes/sessions/ and docs/chapters/chapter_55; 'Meredith' only
+    appears in the superseded summaries/old/20260511/ first-pass output.
 - name: Stroudites
   type: faction
   aliases:

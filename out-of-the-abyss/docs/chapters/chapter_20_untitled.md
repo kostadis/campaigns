@@ -23,7 +23,7 @@ The cleric of Bahamut is saddened. Daz detects a resolve to hurt the Derro magic
 ### Zalthir
 
 
-Zalthir marches the group back through the same path they took last time, going over the lake, and then through the fungi forest. He then follows the path towards the Raucus Mesa. 
+Zalthir marches the group back through the same path they took last time, going over the lake, and then through the fungi forest. He then follows the path towards the Raucous Mesa. 
 
 
 As he approaches the intersection that leads to the assassin’s lair, two Derro materialise.
