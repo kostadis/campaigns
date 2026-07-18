@@ -1,254 +1,152 @@
 [
   {
     "type": "npc",
-    "subject": "Janussi",
-    "fact": "Janussi was the poison taster at the feast and died at midnight, her death initially treated as collateral damage with no connection drawn to the primary victim.",
-    "source_quote": "If the only mark was Janussi, the taster's just collateral: she tastes the poisoned dish, she's dead at midnight too.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
     "subject": "Sprig",
-    "fact": "Sprig volunteered to taste every dish at the feast despite being told it was unnecessary, demonstrating initiative that drew attention and suspicion.",
-    "source_quote": "She insisted. The chefs told her it wasn't necessary. She insisted.",
+    "fact": "Sprig volunteered to taste all twelve dishes at the meal, insisting it was necessary despite the chefs saying it wasn't, and later helped Sylvira Savikas find honey after she became hoarse.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Sylvira Savikas",
-    "fact": "Sylvira Savikas, a tiefling, was seen searching the kitchens by candlelight at 1 a.m., pointing to her throat to indicate she was hoarse, and was helped by Sprig to find honey.",
-    "source_quote": "She ran into Sylvira Savikas searching by candlelight... the tiefling just pointed at her throat, too hoarse to talk.",
+    "fact": "Sylvira Savikas, a tiefling, was seen searching the kitchens by candlelight at one in the morning, pointed to her throat when questioned, and was assisted by Sprig with a pot of honey \u2014 her race does not require light, making the candlelight suspicious.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Irony",
+    "fact": "Irony steered the investigation toward Sprig as the poison taster, avoided direct answers, and cannot lie \u2014 yet directed attention away from herself, suggesting deliberate evasion rather than truth-telling.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Orrin Glass",
+    "fact": "Orrin Glass, a deaf waiter, observed Alkrist burning a scrap of paper and reported that the string tied around Janussi\u2019s Deadwinter gift had been cut and retied \u2014 a key indicator the murder occurred within the room among those present.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Alkrist",
-    "fact": "Alkrist was observed feeding a scrap of paper to a candle flame, then dropping it when two junior avowed entered, raising suspicion about hidden communications.",
-    "source_quote": "Alkrist had been holding a small scrap of paper toward a candle, feeding it to the flame, and when two junior avowed walked in, he dropped it.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Orrin Glass",
-    "fact": "Orrin Glass, a deaf waiter with keen observational skills, reported that the string around Janussi\u2019s gift had been cut and retied \u2014 a critical clue indicating internal tampering.",
-    "source_quote": "The string tied around Janussi's Deadwinter gift had clearly been cut and retied.",
+    "fact": "Alkrist was seen burning a scrap of paper near the gift tree, owned a copy of '1001 Tashalian Nights' with a bookmark on the tale of a poisoned magic horn, and kept sealed jars of rats showing advanced poison effects in his chambers.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "A'lai Aivenmore",
-    "fact": "A'lai, a dark-skinned elf, visited the apothecary requesting fennel for indigestion and was led by Leuwin to the greenhouse, creating an alibi during the toxin theft.",
-    "source_quote": "At three, A'lai arrived asking for fennel for indigestion, and Leuwin took him down through the rear exit to the greenhouse below.",
+    "fact": "A'lai visited the apothecary asking for fennel for indigestion, was led by Leuwin to the greenhouse, and may have served as a diversion while the dragonborn stole poison upstairs.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Fheminor Scrivenbark",
-    "fact": "Fheminor, a gnome, visited the apothecary earlier in the day for cold medicine, and was later identified by a squirrel as an unpleasant presence who may have been part of the distraction.",
-    "source_quote": "He saw the unfriendly girl gnome. Fheminor. Unpleasant, always unpleasant.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Dragonborn",
-    "fact": "A dragonborn entered the apothecary while Leuwin was occupied, broke a vial labeled 'Dangerous Toxins,' and stole the poison \u2014 acting as the physical agent of the crime.",
-    "source_quote": "A huge lizard skin came in and made a big mess... Something went *bling* and shuddered, and the lizard moved things around, and then left.",
+    "fact": "Fheminor, a gnome, visited the apothecary at 2:30 for cold medicine, and was identified by the squirrel as 'unpleasant' \u2014 but was not present during the toxin theft.",
     "quote_verified": false
   },
   {
     "type": "npc",
-    "subject": "Drow",
-    "fact": "A drow bribed a squirrel with acorns to gather information, and orchestrated the diversion by distracting Leuwin, ensuring their hands remained clean of the poison.",
-    "source_quote": "A drow on his knees, bribing a squirrel one nut at a time.",
-    "quote_verified": false
-  },
-  {
-    "type": "faction",
-    "subject": "Candlekeep Chefs",
-    "fact": "The Candlekeep chefs were unaware that Sprig had volunteered to taste every dish, and explicitly told her it was unnecessary \u2014 indicating a gap in protocol.",
-    "source_quote": "The chefs told her it wasn't necessary. She insisted.",
-    "quote_verified": true
-  },
-  {
-    "type": "faction",
-    "subject": "Great Readers",
-    "fact": "The Great Readers were involved in a power struggle, with Teles Ahvoste making advances toward Irony and Alkrist being a new, poorly understood entrant to the group.",
-    "source_quote": "Teles Ahvoste... making passes at Irony... Alkrist, the new one nobody could tell me much about.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Poisoning at the Feast",
-    "fact": "A poison was administered during the feast, killing the primary target, while Janussi, the poison taster, died as an unintended consequence \u2014 the two deaths were deliberately unconnected.",
-    "source_quote": "Nobody ties the two deaths together. The killer loses nothing.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Tampering with Janussi\u2019s Gift",
-    "fact": "The string around Janussi\u2019s wrapped gift was cut and retied, indicating that the poison was placed in the package after it was originally sealed \u2014 a crime committed in the room by someone present.",
-    "source_quote": "The string tied around Janussi's Deadwinter gift had clearly been cut and retied.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Toxin Theft at the Apothecary",
-    "fact": "A highly toxic vial labeled 'Dangerous Toxins' was broken and stolen during a coordinated distraction: A'lai was led away to the greenhouse while the dragonborn stole the poison upstairs.",
-    "source_quote": "Leuwin wasn't in the room... the dragonborn... broke the vial.",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Candlekeep Apothecary",
-    "fact": "The apothecary is a living oak tree with shelves inside its trunk; a vial of dangerous toxin was broken and concealed with a peppermint rag on the top shelf.",
-    "source_quote": "An actual evergreen oak grown out of the burrows... a peppermint-soaked rag and a broken vial... labeled, in Elvish, *Dangerous Toxins.*",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "The Non-Christmas Christmas Tree",
-    "fact": "A tree in the Readers' Tower held wrapped gifts \u2014 all books \u2014 where the string around Janussi\u2019s gift was tampered with, and where Alkrist was seen burning a scrap of paper.",
-    "source_quote": "The pile under the \u2014 the non-Christmas Christmas Christmas tree... All the gifts were books anyway.",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "The Greenhouse Below Candlekeep",
-    "fact": "A magical greenhouse beneath the apothecary was used to grow herbs year-round and served as the alibi location where A'lai was distracted while the poison was stolen upstairs.",
-    "source_quote": "Leuwin took him down through the rear exit to the greenhouse below, where he grows herbs year-round with magic.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "The Cut and Retied String",
-    "fact": "The string on Janussi\u2019s gift had been cut and retied \u2014 a deliberate act proving the poison was inserted after the gift was wrapped, implicating someone present at the event.",
-    "source_quote": "The string tied around Janussi's Deadwinter gift had clearly been cut and retied.",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "The Dead Rats in Alkrist\u2019s Chamber",
-    "fact": "Alkrist kept sealed jars of dead rats with blistered, pustule-covered skin \u2014 evidence he was studying the effects of poison on living tissue.",
-    "source_quote": "Sealed glass jars holding dead rats, their skin blistered and risen into pustules.",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "1001 Tashalian Nights",
-    "fact": "Alkrist\u2019s copy of *1001 Tashalian Nights* had a bookmark on the tale of a commander poisoned by a magic horn coated in Midnight Tears \u2014 a direct parallel to the current crime.",
-    "source_quote": "The bookmark sat on the tale of a military commander, poisoned by a gift of surrender \u2014 a magic horn whose mouthpiece had been coated in Midnight Tears.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "The Honey Pot",
-    "fact": "A pot of honey was found in the kitchens and given to Sylvira Savikas \u2014 potentially a cover for her inability to speak, or a prop to mask her true condition.",
-    "source_quote": "Sprig helped her find a pot of honey and said goodnight.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "Irony\u2019s Silence",
-    "fact": "Irony, who cannot lie, deliberately steered the investigation toward Sprig instead of answering questions directly \u2014 a calculated evasion that suggests hidden knowledge.",
-    "source_quote": "She hadn't answered. She'd pointed us at Sprig instead. Can't lie isn't has to tell.",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "The Drow\u2019s Role",
-    "fact": "A drow bribed a squirrel to gather intelligence but never touched the poison \u2014 a masterful act of deniability that makes them the likely architect of the plot.",
-    "source_quote": "The drow caused the diversion and kept his hands clean of the highly toxic poisons.",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "The Dragonborn\u2019s Motive",
-    "fact": "The dragonborn physically stole the poison but left no known motive \u2014 their identity and reason for acting remain unknown, making them the most dangerous variable.",
-    "source_quote": "The dragonborn did the upstairs work and the handling of a substance that might kill you.",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "The Squirrel\u2019s Testimony",
-    "fact": "The squirrel, Nibbles, provided key testimony about the apothecary theft, but was paid with nuts \u2014 raising questions about the reliability and completeness of its account.",
-    "source_quote": "Nibbles loved nuts. I had nuts. We understood each other immediately.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "The Book as Weapon",
-    "fact": "The poison was delivered via a wrapped book \u2014 the same medium used in the tale Alkrist was reading \u2014 suggesting the killer intended to mirror the literary method of murder.",
-    "source_quote": "The book sitting wrapped in that package... the tale of a military commander, poisoned by a gift of surrender \u2014 a magic horn... Midnight Tears.",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "1 a.m. \u2014 Kitchens Encounter",
-    "fact": "Sylvira Savikas was seen in the kitchens at 1 a.m., searching by candlelight and unable to speak \u2014 a critical anomaly in the timeline of the investigation.",
-    "source_quote": "One in the morning.",
-    "quote_verified": true
-  },
-  {
-    "type": "date",
-    "subject": "Midnight \u2014 Deaths",
-    "fact": "Both the primary victim and Janussi died at midnight, confirming the poison had a delayed effect \u2014 likely activated by ingestion at the feast.",
-    "source_quote": "She's dead at midnight too.",
-    "quote_verified": false
-  },
-  {
-    "type": "monster",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool, a sentient ooze, was used by Zalthir to infiltrate and search the Readers' chambers, flowing where Zalthir could not and reading what Zalthir could not understand.",
-    "source_quote": "The ooze had come out of the bag eager... He flowed where I could not reach; I read what he could not understand.",
-    "quote_verified": false
-  },
-  {
-    "type": "monster",
-    "subject": "Nibbles (Squirrel)",
-    "fact": "Nibbles, a squirrel, acted as a witness to the apothecary theft after being bribed with acorns \u2014 a non-human informant whose testimony revealed the division of labor between the drow and dragonborn.",
-    "source_quote": "A drow on his knees, bribing a squirrel one nut at a time.",
+    "subject": "Dragonborn (unidentified)",
+    "fact": "A dragonborn entered the apothecary, caused a disturbance, made a 'bling' sound, moved items around, and broke a vial of dangerous toxin while Leuwin was distracted \u2014 the only one physically capable of handling the poison.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Leuwin",
-    "fact": "Leuwin, the satyr apothecary, was distracted by A'lai\u2019s visit to the greenhouse and was unaware the toxin was stolen during his absence.",
-    "source_quote": "Leuwin wasn't in the room... he couldn't imagine how it had happened.",
+    "fact": "Leuwin, the satyr apothecary, was deceived into leaving the upper pharmacy to tend to A'lai in the greenhouse, creating the opportunity for the dragonborn to steal the toxin without being witnessed.",
     "quote_verified": false
   },
   {
     "type": "npc",
-    "subject": "Teles Ahvoste",
-    "fact": "Teles Ahvoste, a Great Reader, made persistent romantic advances toward Irony, possibly creating motive for sabotage or retaliation.",
-    "source_quote": "Teles Ahvoste... making passes at Irony.",
+    "subject": "Nibbles (squirrel)",
+    "fact": "Nibbles, the apothecary\u2019s squirrel, witnessed the dragonborn break the vial of dangerous toxin and confirmed Leuwin was absent during the theft \u2014 provided testimony in exchange for nuts.",
     "quote_verified": false
   },
   {
-    "type": "npc",
-    "subject": "Zalthir",
-    "fact": "Zalthir, a searcher of the Readers' chambers, used Glabbagool to investigate the suspects, and discovered Alkrist\u2019s study of poison and his bookmarked tale of literary poisoning.",
-    "source_quote": "I read the man as much as the book... The bookmark sat on the tale of a military commander, poisoned by a gift of surrender.",
+    "type": "faction",
+    "subject": "Candlekeep Avowed",
+    "fact": "The Candlekeep Avowed operate under strict protocols including poison tasters and gift inspections; the murder exploited their trust in ritual and hierarchy, suggesting an insider with deep knowledge of their systems.",
     "quote_verified": false
   },
   {
-    "type": "npc",
-    "subject": "Daral",
-    "fact": "Daral, a suspect in the investigation, was noted to be terrified and overly eager to help \u2014 likely a red herring, as he was poisoned himself and thus not the killer.",
-    "source_quote": "The man was scared out of his skin, kept eyeing Dawnbringer like he wanted to kiss the blade's feet and beg it off him.",
-    "quote_verified": true
+    "type": "event",
+    "subject": "poisoning of Janussi",
+    "fact": "Janussi was poisoned during the meal, likely via a tampered gift \u2014 the cut-and-retied string on her Deadwinter package confirms the poison was introduced under the tree, among those present.",
+    "quote_verified": false
   },
   {
-    "type": "npc",
-    "subject": "Bookwyrm",
-    "fact": "Bookwyrm, one of the Great Readers, was eager to fire the old boss and seat a new one \u2014 indicating a power motive within the leadership struggle.",
-    "source_quote": "Bookwyrm, eager to fire the old boss and seat a new one.",
-    "quote_verified": true
+    "type": "event",
+    "subject": "toxin theft at the apothecary",
+    "fact": "A vial labeled 'Dangerous Toxins' was broken and concealed with a peppermint rag \u2014 the theft was executed by the dragonborn during a diversion orchestrated by A'lai and Leuwin\u2019s absence.",
+    "quote_verified": false
   },
   {
-    "type": "npc",
-    "subject": "Kazryn Nyantani (Tani)",
-    "fact": "Kazryn Nyantani, the chief cleric, was among the eight named suspects in the investigation, though no specific evidence was tied to them yet.",
-    "source_quote": "And Kazryn Nyantani \u2014 Tani \u2014 the chief cleric.",
-    "quote_verified": true
+    "type": "location",
+    "subject": "Candlekeep gift tree",
+    "fact": "The gift tree, surrounded by avowed and staff during the meal, was the site where Janussi\u2019s package was tampered with \u2014 the cut-and-retied string proves the crime occurred inside the room, not by an outsider.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Oak Tree Apothecary",
+    "fact": "The apothecary, a hollowed-out evergreen oak, contained a shelf of dangerous toxins \u2014 the vial was broken here, and the theft was facilitated by a deliberate distraction that exploited Leuwin\u2019s routine.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Janussi\u2019s Deadwinter gift string",
+    "fact": "The string tied around Janussi\u2019s gift had been cut and retied \u2014 a deliberate act indicating the poison was inserted into the package while it lay under the tree among the group.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Alkrist\u2019s spellbook and '1001 Tashalian Nights'",
+    "fact": "Alkrist\u2019s spellbook was on his desk, and beside it lay '1001 Tashalian Nights' with a bookmark on the tale of a poisoned magic horn \u2014 suggesting he studied or planned a similar method.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "dead rats in Alkrist\u2019s chambers",
+    "fact": "Sealed glass jars containing rats with blistered, pustule-covered skin were found in Alkrist\u2019s room \u2014 evidence he was experimenting with advanced poison effects.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "peppermint-soaked rag and broken vial",
+    "fact": "A peppermint-soaked rag and broken vial were found under the 'Dangerous Toxins' shelf \u2014 a clumsy cover-up suggesting the thief was rushed or unprofessional, despite the overall elegance of the plan.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "who protected Sprig?",
+    "fact": "Sprig survived the poisoned meal \u2014 either by accident or because someone deliberately kept her from tasting the poisoned dish; the identity of that protector remains unknown, and may be the killer.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the candlelight deception",
+    "fact": "Sylvira, a tiefling who does not need light, was seen using a candle at 1 a.m. \u2014 the candlelight was likely a ruse to appear vulnerable or to signal something to an accomplice.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Irony\u2019s evasion",
+    "fact": "Irony cannot lie but steered the investigation toward Sprig and avoided answering directly \u2014 suggesting she knew more than she revealed, and may be protecting herself or another.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the dragonborn\u2019s identity",
+    "fact": "The dragonborn who stole the toxin remains unidentified \u2014 their presence, actions, and escape were meticulously timed, suggesting an insider with access to the apothecary and knowledge of Leuwin\u2019s habits.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "one in the morning",
+    "fact": "Sylvira Savikas was observed in the kitchens at one in the morning \u2014 a time outside normal activity, heightening suspicion around her actions and the candlelight she used.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "quarter past three",
+    "fact": "The toxin theft at the apothecary occurred at 3:15 \u2014 the precise moment Leuwin was distracted in the greenhouse, and the dragonborn acted alone.",
+    "quote_verified": false
   }
 ]

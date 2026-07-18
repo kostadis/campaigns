@@ -8,15 +8,15 @@ chapters: 1-1
 ### Balok
 
 **Current status:** Alive  
-**Current location:** At the winch-and-basket cargo system (chasm crossing)  
-**Allegiance/faction:** Drow overseer (likely serving a Drow authority or slave operation)  
-**Current possessions / notable items:** None specified  
-**Current assignment / role:** Overseer of the winch-and-basket cargo system; commands prisoners to clean and unload cargo, operates the winch, and manually pulls the stopper to launch the basket across the chasm  
-**Key relationships:** Commands a group of prisoners (referred to as "new slaves"); no other individuals named as associates  
-**Defining recent actions:** Shouted "Stop" to halt cargo operations, directed prisoners to clean and unload cargo, operated the winch, and laughed as the basket was dropped across the chasm  
+**Current location:** overseeing the winch-and-basket cargo system (location unspecified, but within a chasm-crossing transport facility)  
+**Allegiance/faction:** Drow overseer (unspecified faction, but operates under Drow authority)  
+**Current possessions / notable items, spells, feats, wounds:** None specified  
+**Current assignment / role and key relationships:** Overseer of the winch-and-basket cargo system; directly commands prisoner laborers. Instructs prisoners to clean and unload cargo, enforces discipline, and manually operates the winch stopper to launch baskets across the chasm.  
+**Defining recent actions:** Shouted “Stop” to halt cargo movement, then directed new prisoners to clean and unload cargo; laughed as a basket was dropped.  
 
 ## Uncertainty
-- No information on Balok’s current physical condition, armor, weapons, or personal gear.
-- No confirmation of whether he has any superiors or reports to a specific Drow officer.
-- No indication of whether the prisoners he commands are still present or if his role has changed since the last chapter.  
-- The laughter and shouting are described as recent actions, but it is unclear if they are habitual or isolated events.
+- No information on whether Balok reports to a higher Drow authority or has any named superiors.
+- No details on his current physical condition, equipment, or any magical abilities.
+- The nature of the “consequences” for theft is mentioned but not described.
+- It is unclear whether the laughter following the basket drop was a one-time event or habitual behavior — though the fact is repeated, no context confirms frequency.
+- No indication if Balok is armed or has any guards under him.

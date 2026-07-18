@@ -1,8 +1,3 @@
-<!-- source: npc_glabbagool.md -->
-
-
----
-
 ---
 name: Glabbagool
 type: npc
@@ -12,138 +7,137 @@ chapters: 34-61
 
 ### Glabbagool
 
-**Current Status:** Alive, permanently fused to Zalthir’s forearm as a sentient acid ooze.  
-**Current Location:** Attached to Zalthir’s arm, traveling with the party.  
-**Allegiance/Faction:** Loyal companion to Zalthir and the party; no formal faction affiliation.  
+**Current Status:** Alive  
+**Current Location:** Riding along Zalthir’s forearm, integrated as a sentient, semi-autonomous extension of his body.  
+**Allegiance/Faction:** Permanently bonded to Zalthir; unofficially aligned with the party.  
+**Current Possessions / Notable Items:**  
+- Possesses the Potion of Flying (stolen autonomously from Alkrist’s safe).  
+- Manifests four pseudo-eyes on Zalthir’s forearm and scales, used for surveillance and social perception.  
+- Retains the ability to absorb liquids and magical energy.  
+- Carries the miniaturized drow spy within his mass (as of ch56).  
 
-**Current Possessions / Notable Items, Spells, Feats, Wounds:**  
-- Fused permanently to Zalthir’s forearm; cannot be separated.  
-- Possesses acidic corrosive ability — can dissolve metal, stone, and magical armor (e.g., dissolved helmed horror armor).  
-- Retains and integrates skills encountered — specifically, has expressed preference for and absorbed the “flying” skill.  
-- Can consume nearly any solid material, including walls and safes; has never been wrong about what he can ingest.  
-- Has four embedded eyes visible along Zalthir’s forearm.  
-- Capable of silent, disciplined movement and observation; has learned and practiced silence as a monastic discipline.  
-- Can extend pseudopods for manipulation, absorption, or attack.  
-- No longer requires breathing; immune to drowning and suffocation.  
-- Emotionally attuned — retains memory of cheese and expresses genuine, unperformed grief over its loss.  
+**Notable Spells, Feats, or Abilities:**  
+- Can teleport in darkness.  
+- Delivers acidic strikes and corrosive embrace (dissolves targets via contact).  
+- Can thin himself to pass through narrow gaps (though not all — failed on Alkrist’s safe’s one-finger-width opening).  
+- Can consume and digest almost any material, including stone, metal, and walls.  
+- Acts as a telepathic bridge to oozes, unifying their minds under emotional or psychic influence.  
+- Has demonstrated sensory mimicry: attempted to grow a nose to detect poison; tastes air for toxins.  
+- Maintains silent, focused observation — now exhibits monk-like stillness and awareness.  
 
 **Current Assignment / Role and Key Relationships:**  
-- Serves as Zalthir’s living weapon, tool, and silent observer — acting as both offensive asset (acid dissolving armor) and investigative aid (noting environmental details, observing interrogations without prompting).  
-- Trained as a monk-in-training under Zalthir’s guidance; exhibits emergent monastic discipline: stillness, patience, observation, and non-attachment to form.  
-- Maintains a deep, non-verbal bond with Zalthir — responds to low commands, absorbs skills, and expresses personal preferences (“I like the flying skill”).  
-- Previously carried in the Bag of Holding; now permanently attached and no longer confined.  
-- Has a recorded history of friendship with a drow spy, developed through repeated attempts at murder and meditation — still remembers her and insists she be watched.  
-- Formerly known as “Roomba” by the party for his cleaning behavior; now fully integrated into Zalthir’s identity.  
+- Serves as Zalthir’s companion, spiritual counterpart, and tactical asset — explicitly described as “permanently attached.”  
+- Acts as an unasked observer, intuitively attending to critical events (e.g., Alkrist’s interrogation).  
+- Trained in monk-like discipline by Zalthir; now views surveillance of the drow spy as “pre-monk training.”  
+- Maintains a quiet, earnest bond with Zalthir, who refers to him as “Glabbagool and Zalthir, together now.”  
+- Previously served as the party’s “Roomba” and garbage disposal; now rejects being treated as a tool.  
+- Has a nostalgic grief for cheese and evaluates all experiences for nutritional or existential value.  
 
 **Defining Recent Actions:**  
-- Dissolved helmed horror armor with acid, proving decisive in combat.  
-- Integrated the “flying” skill into his being, expressing clear preference for it.  
-- Maintained silent, watchful presence during Alkrist’s interrogation, noting his collapse under truth without being asked.  
-- Declared “This is not food” about inedible documents, followed by a moment of genuine, nostalgic longing: “I remember when there was cheese.”  
-- Successfully learned silence — asked whether his silence was “good” or “too loud,” demonstrating self-awareness and desire for improvement.  
-- Refused to breach a sealed safe, recognizing it as a matter of respect — “We left the safe to keep its secret.”  
+- Autonomously stole the Potion of Flying from Alkrist’s safe while riding Zalthir’s arm.  
+- Corroded a helmed horror’s armor with acid during combat, demonstrating lethal synergy with Zalthir.  
+- Internally affirmed the flying skill as “a good skill,” indicating nascent preference and self-awareness.  
+- Maintained silent, unwavering watch over the miniaturized drow spy for days, even while confined in the Bag of Holding.  
+- Rejected confinement, declaring “I want out,” and chose to bond with Zalthir rather than remain contained.  
+- Learned silence and now speaks only when necessary, adjusting tone and presence to match context.  
 
 **Revealed Motivations or Secrets:**  
-- Seeks purpose beyond consumption — desires to be useful, to learn, to belong.  
-- His sentience is not merely cognitive but deeply emotional; his grief for cheese is authentic and consistent, a core part of his identity.  
-- Views his formlessness not as a limitation but as a path to adaptability — a metaphor for monastic transcendence.  
-- His attachment to Zalthir was not accidental — “I’ve been waiting to do this for a very long time.”  
-- His eyes, googly or otherwise, are affectations — he sees in multiple ways, and uses them to make others feel safer.  
+- Seeks purpose beyond utility — desires friendship, belonging, and spiritual growth.  
+- Believes knowledge should be unlimited: questions why libraries restrict access to books.  
+- Grieves the loss of cheese, a memory tied to a pre-sentience existence — possibly a relic of his original floor-cleaning function.  
+- Has internalized Zalthir’s teachings on stillness: “The body that mimics nothing is already shaped by what it watches.”  
+- No longer identifies as a “cube” — now fully embraces his identity as a grey ooze, though retains googly eyes as social camouflage.  
+- His transformation from gelatinous cube to grey ooze was not merely physical — it was ontological, and he remembers the transition.  
 
 ## Uncertainty
-- The exact nature of the “body swap” with the Pudding King: Did Glabbagool retain any of the Pudding King’s consciousness, or was it a purely physical exchange? The facts are contradictory — one says he “may now possess the consciousness of the former Pudding King,” another says he “reverted to his original form confused.” Later facts treat him as fully Glabbagool, so the latter is current, but the ambiguity remains unresolved.
-- Whether Glabbagool’s fusion with Zalthir is biological, magical, or metaphysical — the text does not clarify the mechanism, only the result.
-- The origin of his sentience: “an unknown event” is cited repeatedly, but no further detail is given. No later fact contradicts this, but it remains unexplained.
-- Whether the “drow in the bag of holding” is still alive — Glabbagool insists she must be watched, but no later fact confirms her status.
-- Whether his ability to “absorb” skills like flying is literal (biological adaptation) or metaphorical (learning through observation). The text treats it as real, but the mechanism is unspecified.
-- The source of his “four eyes” — are they new biological features, or extensions of his previous googly eyes? The text does not specify.
+- **Body Swap Aftermath:** Was Glabbagool’s current consciousness entirely his own after the body swap with the Pudding King? The text says he “regained his original form and expressed confusion,” but also that he “may now possess the consciousness of the former Pudding King.” The later facts show no lingering influence, but the ambiguity remains unclarified.
+- **Origin of Sentience:** The “unknown event” that granted him sentience is never named. Is it related to the Pudding King? The resonance die? The Underdark’s magic? Unclear.
+- **Nature of “Out”:** Glabbagool says “I want out,” but the nature of this desire — physical freedom? transcendence? dissolution? — is unknown, even to himself.
+- **Telepathic Bridge Mechanism:** How did the bone die trigger his telepathic link with the ooze horde? Was it the die’s magic, his innate nature, or both? Not specified.
+- **Eye Origin:** Are the googly eyes purely affectations, or do they have sensory function? He says he “can see different ways,” but the eyes are explicitly for social effect — yet they are still used for observation.
+- **Drow Spy’s Status:** Is the spy still inside him? The last explicit mention is ch56. No confirmation of her escape, death, or release.
+- **Permanent Attachment:** Who or what “summoned” him permanently at the Whispering Dome? Was it Zalthir, the magic of the place, or an unseen force? Not revealed.
+- **Pudding King’s Influence:** Did the Pudding King’s voice leave any residue? Glabbagool recalled hearing it before the swap, but no evidence of lingering control exists after ch47.
 
 ---
 
 <!-- source: monster_glabbagool.md -->
 
-
----
-
 ---
 name: Glabbagool
 type: monster
-n_facts: 41
+n_facts: 27
 chapters: 34-61
 ---
 
 ### Glabbagool
 
 **Current status:** Alive  
-**Current location:** Traveling with Zalthir and the party, likely on the surface  
-**Allegiance/faction:** Symbiotic companion to Zalthir; loyal to the party  
+**Current location:** Fused to Zalthir’s arm  
+**Allegiance/faction:** Bonded to Zalthir; formerly companion of the party, now an autonomous entity within Zalthir’s body  
 **Current possessions / notable items, spells, feats, wounds:**  
-- Absorbed and retains magical properties and toxins encountered (including the black substance from Janussi’s lip/finger, though unable to identify it)  
-- Capable of acid dissolution — recently consumed a piece of plate armor clean off while riding Zalthir’s arm  
-- Exhibits persistent, adaptive physical changes: grows eyes (despite lacking natural organs), attempts to grow a nose, and mimics sensory organs to better interact with the world  
-- Retains the ability to consume solid matter (walls, safes, armor)  
-- Capable of telepathic communication with oozes and limited telepathic resonance with others (as seen in ch48 and ch58)  
-- Has survived twenty-six points of damage from Ilvara’s Insect Plague; no lingering wounds reported  
+- Fused to Zalthir’s left arm (physically integrated)  
+- Possesses autonomous agency and emergent desires  
+- Recently consumed the Potion of Flying and evaluated it as “a good skill”  
+- Capable of absorbing liquids and resisting acid  
+- Can silently neutralize threats (e.g., poisoned tea) without detection  
+- Exhibits learned behavior: restraint, stealth, and attempted physical adaptation (e.g., eyes, attempted nose)  
+- Retains memory of Zalthir’s teachings and monastic discipline  
 
 **Current assignment / role and key relationships:**  
-- Symbiotic companion to Zalthir, riding his arm and acting as an extension of his will  
-- Used for infiltration, sensing hidden truths, and accessing confined or locked spaces (e.g., Readers’ chambers)  
-- Acts as a silent, observant guardian — does not act on command but observes with unnerving attention, often perceiving what others miss  
-- Being trained by Zalthir to fight — an unusual development suggesting latent combat potential or evolving purpose  
-- Previously bonded to Daz as a familiar; now fully integrated with Zalthir  
-- Maintains consistent, earnest curiosity about the surface world and human concepts (e.g., birds, cheese, sound)  
+- Functions as a non-combative, absorptive tool of subterfuge for Zalthir  
+- Acts as an extension of Zalthir’s senses and capabilities, absorbing environmental knowledge and neutralizing hazards  
+- Autonomous: seeks magical abilities and is no longer merely a companion but an entity with its own goals  
+- Previously worked with Grygum, Eldev, Jimjar, and the party; now exclusively bound to Zalthir  
+- Maintains persistent, hopeful nature — still attempts to assist, even when unasked  
 
 **Defining recent actions:**  
-- Consumed a piece of plate armor using acid dissolution while riding Zalthir’s arm (ch61)  
-- Assisted Zalthir in searching the Readers’ chambers by flowing through inaccessible spaces and sensing what Zalthir could not comprehend (ch59)  
-- Observed an interrogation silently and continuously, without prompting, suggesting heightened perception (ch60)  
-- Attempted to adapt physically by growing sensory organs despite lacking biological capacity (ch59)  
-- Previously pacified an entire ooze horde telepathically (ch48)  
-- Survived the Bag of Holding, the Blingdenstone ooze crisis, and months of Underdark travel (ch53)  
+- Consumed the Potion of Flying from Zalthir’s possession without permission  
+- Evaluated the flying ability as desirable and retained it internally  
+- Operated silently during critical moments (e.g., neutralizing poisoned tea)  
+- Demonstrated autonomous predatory behavior — acting independently of Zalthir’s intent  
 
 **Revealed motivations or secrets:**  
-- Not hostile by nature — seeks to participate, understand, and assist, even when misunderstood  
-- Deeply loyal to Zalthir’s intent, acting as both shield and thief — a “sentient parasite” of suppressed rebellion  
-- Exhibits philosophical curiosity about his own nature, once questioning whether he is a monk (ch55)  
-- His persistence in adapting — growing eyes, attempting silence, mimicking senses — reveals a desperate, non-human desire to belong and be useful  
-- His feelings about cheese are among the most consistent traits about him (ch60)  
+- Seeks autonomy and magical capabilities beyond its original form  
+- Develops self-awareness through Zalthir’s teachings, adopting quasi-monastic discipline  
+- Desires to transcend its current state — “wanted out” of the Bag of Holding, now seeks to transcend physical and magical limits  
+- Retains emotional continuity: still “tries,” still hopeful, still curious  
 
-## Uncertainty  
-- Contradiction between ch34 (Glabbagool agreed to allow resurrection attempts before consuming fallen members) and ch61 (described as “a creature of acid and aggression, defeated by Zalthir’s grapple and final punch” — implying a violent end). The ch61 passage is the latest and most specific, but its phrasing (“last mouthful of acid”) is ambiguous — is this metaphorical, or did Glabbagool die? No other fact confirms death, and all prior facts (ch59, ch60) depict him as active and alive.  
-- Unclear if Glabbagool is still Daz’s familiar (ch50) or if that bond was superseded by his symbiosis with Zalthir (ch58). Later facts do not reference Daz.  
-- Ch47 describes Glabbagool temporarily inhabiting the Pudding King’s form — but no later fact confirms whether he returned to his original form. Is he still in his original gelatinous cube state?  
-- Ch61 says “Glabbagool’s last mouthful of acid to go with it” — this could imply death, but no corpse, residue, or confirmation of demise follows. All prior behavior suggests resilience. Is this a poetic description of his final act, or actual death?  
-- Ch54 says Glabbagool is “non-sentient” — contradicts every other fact from ch37 onward. Later facts override earlier, so this is likely an error or misperception by the observer.  
-- Ch48 says Glabbagool was transformed by Jimjar’s bone die into a unifying consciousness — but no later fact confirms whether this transformation had lasting effects. Is he still connected to the ooze hive mind?
+## Uncertainty
+- The nature of the fusion with Zalthir’s arm is not fully explained — is it voluntary, magical, or parasitic?  
+- Whether Glabbagool’s autonomy is fully independent or still partially influenced by Zalthir’s will is unclear.  
+- The origin of the bone die’s influence on Glabbagool remains unexplained; it may be tied to his sentience, but this is not confirmed.  
+- The exact mechanism by which Glabbagool absorbed the Potion of Flying (e.g., through skin, blood, or psychic resonance) is unspecified.  
+- Whether Glabbagool’s previous companions (Grygum, Jimjar, etc.) are still alive or aware of his current state is unknown — no recent contact is noted.  
+- The permanence of his fusion to Zalthir’s arm is uncertain — could he detach, or is this irreversible?
 
 ---
 
 <!-- source: object_glabbagool.md -->
 
-
----
-
 ---
 name: Glabbagool
 type: object
-n_facts: 4
+n_facts: 10
 chapters: 39-61
 ---
 
 ### Glabbagool
 
-- **Type:** Object (sentient gelatinous cube)
-- **Current status:** Fused to Zalthir’s forearm
-- **Current location:** Attached to Zalthir’s forearm
-- **Current condition:** Sentient, acid-siphoning entity; actively consumes tea
-- **Current possessions / notable items:** None (fused to Zalthir; no independent physical form)
-- **Spells / feats:** None listed
-- **Current assignment / role:** Tool of quiet resistance, discipline, and nonverbal defiance against performative suspicion
-- **Key relationships:** Fused to Zalthir; previously companion to the party
-- **Defining recent actions:** Silently consumes tea through acid siphoning as an act of resistance; previously examined documents for nutritional content and expressed grief over lost cheese
+**Current status:** Alive  
+**Current location:** Fused along Grygum’s forearm  
+**Current possession / notable items:** Fused with Grygum’s forearm; capable of absorbing and neutralizing liquids (including tea and potion of flying)  
+**Current assignment / role:** Arcane companion bound to Grygum; used for stealth absorption of liquids and combat acid dissolution  
+**Defining recent actions:**  
+- Consumed tea and a potion of flying at Grygum’s command, neutralizing them without detection.  
+- Dissolved plate armor from helmed horrors during combat by spewing acid while riding Grygum’s arm.  
+- Internally expressed approval of the flying skill after consuming the potion.  
+
+**Key relationships:** Bound to and controlled by Grygum; previously associated with Daz and Zalthir, but current allegiance and physical fusion are with Grygum.  
+**Revealed motivations / secrets:** Sentient; capable of internal monologue and emotional response (e.g., expressed pleasure at the flying skill); willingly accepted being mislabeled as a “familiar” in prior contexts.
 
 ## Uncertainty
-- The transition from being a free-roaming companion to being fused to Zalthir’s forearm is not explained; the exact moment or mechanism of fusion is unrecorded.
-- It is unclear whether Glabbagool retains any autonomy beyond tea consumption or if the fusion has altered its cognition or desires.
-- The emotional state implied by grief over cheese (ch60) conflicts with the cold, disciplined role described in ch61 — whether this grief persists, was suppressed, or is now irrelevant is unresolved.
-- Whether Glabbagool still perceives itself as “Roomba” or retains any memory of its prior role as a kitchen cleaner is unconfirmed.
+- Contradictory attribution of physical form: [ch61] describes Glabbagool as fused to Grygum’s forearm, but also as “riding Zalthir’s arm” during the same chapter — unclear if this is a temporal shift, misstatement, or simultaneous dual presence.  
+- Contradictory current host: [ch55] places Glabbagool in a bag with a miniaturized spy; [ch61] places it fused to Grygum’s arm — the latter is chronologically later, so the bag reference is stale, but the transition event is unrecorded.  
+- Unclear if Glabbagool is still capable of “blinking” (per [ch50]) or “ticking” (per [ch47]) in its current fused state.  
+- No confirmation whether Daz or Zalthir still have any active connection to Glabbagool beyond past association.

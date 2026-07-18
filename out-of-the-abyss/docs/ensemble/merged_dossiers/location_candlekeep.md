@@ -1,99 +1,95 @@
-<!-- source: location_candlekeep.md -->
-
-
----
-
 ---
 name: Candlekeep
 type: location
-n_facts: 39
+n_facts: 43
 chapters: 53-61
 ---
 
 ### Candlekeep
 
-**Current status:** Active, occupied, and under institutional crisis.  
-**Current location:** On the coast of the Sea of Swords, visible for miles as a dark stack of towers against the sky.  
-**Allegiance/faction:** Governed by the Avowed — a scholarly order bound by ritualized hierarchy, reciprocal knowledge exchange, and institutional tradition. No external authority is acknowledged; internal power structures dominate.  
+**Current status:** Active, occupied, and in political crisis.  
+**Current location:** Perched on a cliff above the Sea of Swords, visible for miles along the Way of the Lion.  
 
-**Current possessions / notable items:**  
-- The Astronomicon, the Whispering Dome, and the Drakonoikos — key architectural and ritual structures.  
-- The exaltation bastion — tallest fixed point in the complex.  
-- Three visible archways, one service passage, one guarded door to the north — primary access/egress points.  
-- Vast archives containing monographs, scrolls, and drow prison records — the latter now of intense interest to the First Reader.  
-- Ledgers enforcing strict reciprocity: every answered question requires a documented contribution.  
+**Allegiance/faction:** Governed by the Avowed — a council of senior scholars and librarians — currently under interim leadership by Bookwyrm, who is slated to be removed in an upcoming naming ceremony. Institutional authority is intertwined with political power.  
+
+**Current possessions / notable items, spells, feats, wounds:**  
+- Houses lead-lined artifacts and arcane protections used to conceal evidence (e.g., in the murder of Janussi).  
+- Maintains vast archives including drow prison journals, theological texts on Bahamut, prayer books, and records of erased houses (e.g., the sealed record of the “struck” fourth seat).  
+- Contains a spell sought by Janussi, accessible via request to an Avowed scholar.  
 
 **Current assignment / role and key relationships:**  
-- Functions as the world’s most dangerous library — a center of arcane and divine scholarship where knowledge is weaponized, and silence is enforced.  
-- The Avowed hold institutional power; Bookwyrm is the current acting head, but their authority is under threat by internal factions seeking to remove them via naming ceremony and procedural maneuvering.  
-- Scholars engage in ritualized debate, daily prophecy recitations, and silent observation; mundane spaces carry hidden meaning.  
-- The group last interacted with Candlekeep’s leadership to resolve Janussi’s murder — the investigation concluded within its halls, but justice was subordinated to institutional protocol.  
+- Functions as a neutral scholarly sanctuary enforcing strict reciprocity: one book donated = one question answered; additional books grant access to more Avowed.  
+- Serves as the epicenter of an ongoing investigation into the murder of Janussi and the conspiracy surrounding it.  
+- Bookwyrm is the current acting head of the Avowed but will not be named the new head in tomorrow’s ceremony.  
+- The entire Avowed Community has abandoned routine security to engage in a high-stakes academic debate over a new thesis, leaving corridors, dining halls, and chambers unwatched.  
+- Scholars are assigned research threads (e.g., Jimjar’s disappearance, Daz’s history, Bahamut’s intentions) based on book contributions and institutional priorities.  
+- Scholars report to the First Reader, who assigns research focus and mediates disputes.  
 
 **Defining recent actions:**  
-- A murder (Janussi’s) occurred and went uninvestigated for weeks while scholars prioritized theological debates.  
-- The group leveraged five rare texts to gain “FaceTime” with Avowed sages, unlocking access to restricted records and high-level inquiry.  
-- Institutional power was weaponized: research was destroyed, scholars were fired, and projects canceled — all under bureaucratic pretext.  
-- The resolution of Janussi’s murder was achieved not through justice, but through humiliation filed correctly — confirming that institutional inertia and protocol override moral urgency.  
-- A naming ceremony was scheduled to replace Bookwyrm as head, but was quietly canceled — signaling a shift in power without formal accusation.  
+- A murder (Janussi) occurred within its walls, exploiting its arcane protections and the distraction of the Avowed’s debate.  
+- Institutional leadership is in flux: Bookwyrm is under investigation for concealing the crime, and a naming ceremony will replace her.  
+- The library’s culture of deception, grudge-hoarding, and bureaucratic evasion has been weaponized to reframe murder as “workforce restructuring.”  
+- The party is still owed answers regarding Dawnbringer’s therapy, Janussi’s murder, House T’sarran, Jimjar’s disappearance, and Daz’s history — unresolved questions remain pending.  
 
 **Revealed motivations or secrets:**  
-- Candlekeep’s culture is poisoned by centuries-old grudges, polished like artifacts and deployed as weapons.  
-- The library’s architecture and protocols are designed to obscure, not reveal — doors are locked, paths are confusing, and trust is rare.  
-- Magic is distrusted as evidence; terrain and monographs are the only “truths” accepted.  
-- The institution sanitizes murder as policy — firings, cancellations, and erasures mask lethal intent.  
-- Its scholars are not merely academics — they are gatekeepers who decide who lives, dies, or disappears through bureaucratic means.  
+- Candlekeep deliberately suppresses certain records — the absence of the fourth seat’s journal is evidence of a powerful, intentional erasure.  
+- The library’s architecture and culture are designed to observe, not act — its halls “take notes,” and silence is a tool of control.  
+- Academic rivalry and institutional self-preservation override justice: murder is treated as a research distraction, not a crime.  
+- The Avowed prioritize publication, precedent, and bureaucratic language over truth or accountability.  
 
 ## Uncertainty
-- The current physical location of Bookwyrm after the canceled naming ceremony is unconfirmed — they are noted as “current acting head,” but whether they remain in residence or have been removed is unclear.  
-- The identity of the faction or individual(s) who orchestrated the framing of Janussi’s murder via budgetary restructuring remains unnamed.  
-- Whether the “agent” mentioned in ch54 who implied knowledge of how to escape Candlekeep is still present or active within the library is unknown.  
-- The fate of the five rare texts donated by the group — whether they remain in the archives, are being studied, or have been restricted — is not stated.  
-- The nature of the “wrong” smell in Candlekeep’s air — whether it is supernatural, psychological, or environmental — is described but not explained.  
-- The current operational status of the guarded door to the north — whether it is still manned, sealed, or repurposed — is unconfirmed.
+- The exact identity of the killer remains unconfirmed by the facts — though the environment and actions suggest internal collusion, no single actor is named as perpetrator.  
+- Whether Bookwyrm is guilty of committing the murder or only concealing it is contested — one fact says she “hid a crime,” another implies she may have orchestrated it.  
+- The current whereabouts of the party members within Candlekeep are unspecified — they are known to be seeking unresolved answers, but their physical location or status (alive, detained, active) is not stated.  
+- The outcome of the naming ceremony is predicted (“will not name her”), but the identity of the successor is not revealed.  
+- The nature of the “wrong” smell in Candlekeep’s air is described but not explained — whether it is magical, supernatural, or psychological remains ambiguous.  
+- Whether the drow spy’s claimed knowledge of Candlekeep’s weaknesses was ever tested or exploited is not confirmed beyond her initial proposal.
 
 ---
 
 <!-- source: faction_candlekeep.md -->
 
-
----
-
 ---
 name: Candlekeep
 type: faction
-n_facts: 7
+n_facts: 10
 chapters: 54-61
 ---
 
 ### Candlekeep
 
-**Current status:** Active institution, undergoing leadership transition.  
-**Current location:** Unspecified, but operates as a centralized monolithic archive and scholarly authority.  
-**Allegiance/faction:** Independent scholarly order; no external overlord named.  
+**Current status:** Active and operational.  
+**Current location:** Unspecified, but universally recognized as the world’s foremost library institution.  
+**Allegiance/faction:** Independent scholarly order; officially neutral, non-interventionist, and self-governing.  
 
-**Current possessions / notable items:**  
-- Access to a vast archive of spells, including high-level magic such as *polymorph*, available to any avowed with sufficient standing.  
-- A system of monographs and scholarly attributions as primary currency of status and influence.  
+**Current possessions / notable items, spells, feats, wounds:**  
+- Holds access to powerful arcane texts, including polymorph spells, available to avowed scholars with sufficient standing.  
+- Maintains a vast archive of rare and dangerous texts, including the *Velkynvelve Prisoner Journal*, *Ilvara’s prayer book with Zuggtmoy marginalia*, and *Asha Vandree’s theological treatise* (recently submitted and archived).  
+- Possesses institutional authority to grant or withhold access to magical knowledge based on scholarly reputation and contribution.  
 
 **Current assignment / role and key relationships:**  
-- Functions as a guardian and cataloguer of knowledge, prioritizing observation, silence, and administrative order over punishment.  
-- Exiles individuals for major offenses rather than imprisoning them; temporary detention is permitted only as a procedural delay.  
-- Operates under a new head who now holds the key to forbidden knowledge and wields the ultimate authority to condemn or absolve — institutional power has shifted from the prior leadership.  
-- Leadership is implicated in systemic corruption, including RIFs, budget cuts, and research purges that created conditions for Janussi’s murder, with possible cover-up.  
+- Functions as a repository and sanctuary of knowledge, enforcing strict protocols: one book per group for entry, with increased access granted per additional submission.  
+- Treats all guests as part of its scholarly order, regardless of origin; refuses to imprison, execute, or surrender individuals to external powers (e.g., House T'sarran).  
+- Operates under a policy of temporary detention followed by exile.  
+- Internal power dynamics are defined by scholarly prestige: monographs, authorship, and endorsements are the primary currency of influence.  
+- Recent internal strife includes budget cuts, RIFs, and power struggles — culminating in the assassination of Janussi, masked as administrative efficiency.  
+- Leadership transition is imminent: the new head of Candlekeep is positioned to reward allies with access to incriminating or powerful magical texts.  
+- Key figures in current internal competition: Fembris and Elian, both vying for monograph authorship.  
 
 **Defining recent actions:**  
-- The new head has assumed control of forbidden knowledge, altering the locus of institutional justice.  
-- Scholarly credit and monograph attribution are actively used to measure value and prestige, incentivizing collaboration for status over truth-seeking.  
-- Internal administrative cruelty — masked as efficiency — has led to lethal consequences and potential institutional complicity in murder.  
+- Accepted five rare books from an adventuring party in exchange for extended scholarly access.  
+- Refused to surrender a prisoner to House T'sarran, upholding its policy of non-intervention and exile.  
+- Concealed the assassination of Janussi as bureaucratic streamlining, revealing institutional decay.  
+- Positioned the incoming head to leverage institutional authority as a political tool by offering restricted magical texts to those who have earned goodwill.  
 
 **Revealed motivations or secrets:**  
-- Knowledge is controlled not by secrecy alone, but by bureaucratic access thresholds: five books grant “facetime,” the real currency of influence.  
-- The institution’s silence is not neutrality — it is a tool of control.  
-- Justice is not administered by law, but by who holds the key during institutional transition.  
+- The institution’s culture is poisoned by silent grudges, rivalries, and the accumulation of scholarly resentments — a quiet rot beneath its pristine facade.  
+- Knowledge is not shared as a right but controlled as a resource; prestige, not truth, drives advancement.  
+- The library’s neutrality is a performance — its power is wielded selectively, through access, silence, and the strategic release of dangerous knowledge.  
 
 ## Uncertainty
-- The identity of the “new head” is not named; only their role and power are confirmed.  
-- It is unclear whether the prior head is still alive, deceased, or removed — only that authority has shifted.  
-- The nature of “forbidden knowledge” and what specific knowledge the new head now controls is unspecified.  
-- While Candlekeep’s policy against imprisonment is stated twice, it is unclear whether this applies universally or has exceptions not documented.  
-- No confirmation whether Janussi’s murder was directly ordered by leadership or merely enabled by systemic neglect — attribution of complicity remains ambiguous.
+- The exact identity of the incoming head of Candlekeep is unknown.  
+- Whether Janussi’s assassination was ordered by Fembris, Elian, or another internal actor remains unattributed.  
+- It is unclear if the “budget cuts and RIFs” mentioned are ongoing or resolved.  
+- The current location of the *Velkynvelve Prisoner Journal*, *Ilvara’s prayer book*, and *Asha Vandree’s treatise* within Candlekeep’s archives is unspecified.  
+- Whether the new head has already assumed power or is still in transition is ambiguous.

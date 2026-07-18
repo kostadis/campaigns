@@ -1,121 +1,142 @@
 [
   {
     "type": "npc",
-    "subject": "Asha Vandree",
-    "fact": "Asha Vandree is a contemptuous drow priestess who rejects Ilvara's bride heresy, clings to Lolth's faith, and holds deep personal disdain for Jorlan due to their past romantic entanglement with Ilvara. She believes \u2014 but does not know \u2014 the Heart Fungus is the key to Ilvara's power, and she refuses to speak directly to the narrator after losing respect for them.",
-    "source_quote": "I believe. The particular spore illness only originates from Ilvara's spores and from her mushroom.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Jorlan",
-    "fact": "Jorlan is a bitter drow who was abandoned by Ilvara after an affair, now nursing a wounded pride and consumed by resentment. He is not captured by her spores, stands outside the party\u2019s trust, and is unknowingly manipulated into triggering the Glyph of Warding on the bridge.",
-    "source_quote": "Jorlan still is complaining that Ilvara\u2026 Ilvara this and Ilvara that.",
+    "subject": "Grygum",
+    "fact": "Grygum is planning the assassination of Ilvara, having deferred to Asha's tactical expertise despite her contempt, and has internalized critical intelligence about the Heart Fungus as infrastructure rather than a mere target.",
+    "source_quote": "I took the note. I filed it. I did not say anything I would regret.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Daz",
-    "fact": "Daz is a pragmatic and emotionally intelligent member of the party who has been infected by Ilvara\u2019s spores but retains his agency. He is the reluctant familiar-bearer of Glabbagool and serves as a bridge between Asha and the rest of the group, earning her begrudging respect through tact and insight.",
-    "source_quote": "Our caution came from unfamiliarity with mushroom-related side effects, and that asking for expert guidance was tactically sound rather than ignorant.",
-    "quote_verified": false
+    "subject": "Asha Vandree",
+    "fact": "Asha Vandree is a drow priestess of Lolth who holds tactical authority over the operation against Ilvara, dismissive of Grygum but correct about the Heart Fungus being the key to dismantling Ilvara\u2019s power structure.",
+    "source_quote": "I thought you had strong allies, who had a tactical awareness and understanding how to use their magic for destructive purposes.",
+    "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Zalthir",
-    "fact": "Zalthir is a cautious, anxious spellcaster who obsesses over spore infections and mushroom-related dangers, having witnessed their effects firsthand on Daz. He devises the critical tactical maneuver to grapple Ilvara and drop her into the Phantasmal Killer, demonstrating strategic depth despite his fears.",
+    "fact": "Zalthir is a member of the party who raised concerns about spore contamination and proposed the final tactical sequence involving grappling Ilvara into the Phantasmal Killer spell.",
     "source_quote": "I can try to grab Ilvara and drop her into that, such that you're hurting both of them, and then the rest of you can fireball or whatever from there.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Thorin",
-    "fact": "Thorin is a dwarf brawler who accepts his role as a close-quarters combatant despite lacking ranged options. He adapts by accepting a crossbow, manipulates battlefield terrain and enemy psychology to trigger the Glyph of Warding against Jorlan, and fights with brutal pragmatism once engaged.",
-    "source_quote": "Come get it, idiot!",
+    "subject": "Daz",
+    "fact": "Daz is a Dragonborn who has been infected by Ilvara's spores, serving as a visual warning to the party, and is credited with securing Glabbagool as an ooze familiar, earning Asha\u2019s reluctant respect.",
+    "source_quote": "Look at him! He's already infected. I don't want to be infected.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jorlan",
+    "fact": "Jorlan is a former lover of Ilvara, now bitter and estranged, whose emotional vulnerability was exploited by Thorin to trigger the Glyph of Warding on the bridge.",
+    "source_quote": "Jorlan still is complaining that Ilvara\u2026 Ilvara this and Ilvara that.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool is an ooze entity mistaken for a familiar by the party to conceal its true nature. It blinks passively, seemingly indifferent to being mislabeled, yet its presence as an ooze familiar impresses Asha and adds an element of tactical misdirection.",
-    "source_quote": "An ooze familiar,\" she said, looking at Daz now with something approaching respect.",
+    "subject": "Thorin",
+    "fact": "Thorin is a dwarf brawler who adapted to the ranged nature of the battle by accepting a crossbow and manipulated Jorlan\u2019s rage to activate the Glyph of Warding, turning emotional history into tactical advantage.",
+    "source_quote": "Come get it, idiot!",
     "quote_verified": true
   },
   {
     "type": "faction",
-    "subject": "Ilvara's Spore Cult",
-    "fact": "Ilvara's Spore Cult consists of drow who embraced her claim that she is Lolth\u2019s further manifestation, willingly ingested her spores, and now exist as hollowed-out, ecstatic spore servants \u2014 former allies turned into walking consequences of their own surrender.",
+    "subject": "Ilvara's Cult",
+    "fact": "Ilvara\u2019s cult consists of drow who have embraced her heretical claims that she is Lolth\u2019s further manifestation, and have willingly succumbed to her spores, becoming hollowed-out spore servants.",
     "source_quote": "They are the drow of our party whom have totally succumbed to Ilvara's power... embraced the spores and the ecstasy that came through them.",
     "quote_verified": false
   },
   {
     "type": "faction",
     "subject": "Lolth's Faithful",
-    "fact": "Lolth's Faithful, represented by Asha Vandree, reject Ilvara\u2019s heresy as blasphemy. They maintain strict adherence to traditional drow worship of the Spider Queen, viewing the spore cult as a corruption of divine order \u2014 and themselves as the only true survivors of ideological purity.",
+    "fact": "Lolth\u2019s faithful, represented by Asha, reject Ilvara\u2019s heresy and maintain strict devotion to the Spider Queen, distinguishing themselves from those corrupted by the bride cult.",
     "source_quote": "I have diligently kept the faith to Lolth, and have rejected all of these claims of the bride heresy.",
     "quote_verified": false
   },
   {
-    "type": "monster",
+    "type": "event",
+    "subject": "activation of the Glyph of Warding",
+    "fact": "The Glyph of Warding inscribed on the bridge was triggered by Jorlan\u2019s charge, killing one spore servant and severely damaging another, while also shuddering the Heart Fungus.",
+    "source_quote": "The detonation is immediate and total \u2014 21 damage, one spore servant gone to nothing...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's teleport and grapple on Ilvara",
+    "fact": "Zalthir teleported to Ilvara and successfully grappled her, initiating the final phase of the assassination plan by attempting to drop her into the Phantasmal Killer spell.",
+    "source_quote": "Zalthir vanish \u2014 just gone, teleported straight to her \u2014 and then there's the crack of his fists finding purchase...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
     "subject": "Heart Fungus",
-    "fact": "The Heart Fungus is a colossal, pulsing fungal entity that serves as the architectural core of Ilvara\u2019s control over the cavern. It emits lethal spore clouds, reacts to intruders, and is the true source of her power \u2014 not Ilvara herself. Destroying it dismantles her dominion.",
-    "source_quote": "The Heart Fungus was the key. That was her point, and she wasn't wrong.",
+    "fact": "The Heart Fungus is a massive, pulsing fungal entity at the center of Ilvara\u2019s domain, serving as the structural anchor of her control over the cavern and its spore servants.",
+    "source_quote": "The Heart Fungus pulsed between us and her, enormous and obscene, the mechanism of her control.",
     "quote_verified": true
   },
   {
-    "type": "monster",
-    "subject": "Spore Servants",
-    "fact": "Spore Servants are former drow guards and allies who have been fully consumed by Ilvara\u2019s spores. They are shambling, broken, and mentally hollowed, yet retain enough physical coordination to fight. They are not undead or outsiders \u2014 they are people who chose ecstasy over autonomy.",
-    "source_quote": "Four of them, former Velkynvelve guards, shambling and wrong.",
+    "type": "location",
+    "subject": "Bridge of the Glyph",
+    "fact": "The bridge is a strategic chokepoint where Grygum inscribed a Glyph of Warding keyed to Jorlan\u2019s approach, turning the structure into a lethal threshold for Ilvara\u2019s allies.",
+    "source_quote": "The glyph went down on the bridge... Everything on the far side of it was already committed to a detonation it didn't know about yet.",
     "quote_verified": false
   },
   {
     "type": "object",
     "subject": "Dust of Suleiman",
-    "fact": "The Dust of Suleiman is a powerful magical substance initially intended for direct use against Ilvara, but correctly identified by Asha as more effective as an infrastructure weapon \u2014 capable of destroying the Heart Fungus and severing Ilvara\u2019s control over the area.",
-    "source_quote": "The Dust of Suleiman, which I had been imagining pouring down on Ilvara directly, was actually more valuable as infrastructure demolition.",
-    "quote_verified": true
+    "fact": "The Dust of Suleiman is a magical substance originally intended for direct use against Ilvara, but reclassified by Asha as superior for infrastructure demolition \u2014 specifically, to destroy the Heart Fungus.",
+    "source_quote": "The Dust of Suleiman... was actually more valuable as infrastructure demolition.",
+    "quote_verified": false
   },
   {
     "type": "object",
     "subject": "Glyph of Warding",
-    "fact": "The Glyph of Warding is a magical trap inscribed on the bridge by Grygum, designed to detonate upon approach from Jorlan\u2019s side. It is used not as a defensive measure, but as a tactical lure, exploiting Jorlan\u2019s rage to eliminate both him and nearby spore servants in a single burst.",
-    "source_quote": "Jorlan\u2026 standing exactly twenty feet from the Glyph of Warding... I put the crossbow down.",
-    "quote_verified": false
+    "fact": "The Glyph of Warding is a rune inscribed by Grygum on the bridge, designed to detonate upon approach from Jorlan\u2019s side, functioning as a trap keyed to emotional history rather than factional loyalty.",
+    "source_quote": "I don't know how to inscribe a glyph that will only kill the drow that we don't like.",
+    "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "Battle of the Heart Fungus",
-    "fact": "The Battle of the Heart Fungus is a coordinated assault in which the party uses terrain, psychological manipulation, and precise spellcasting to dismantle Ilvara\u2019s power structure. The Heart Fungus is targeted with the Dust of Suleiman, Ilvara is grappled into Phantasmal Killer by Zalthir, the Glyph of Warding is triggered by Jorlan\u2019s rage, and Thorin engages in melee while Daz and others provide area denial.",
-    "source_quote": "The glyph went down on the bridge... One 4th-level slot. I'd made my choice. The Dust of Suleiman on the fungus, because Asha was right.",
+    "type": "object",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is an ooze creature presented as Daz\u2019s familiar, whose unnatural presence impressed Asha and provided a cover story to avoid suspicion during the infiltration.",
+    "source_quote": "An ooze familiar,\" she said, looking at Daz now with something approaching respect.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Spore Servants",
+    "fact": "Spore Servants are former drow guards who have fully succumbed to Ilvara\u2019s spores, now shambling, corrupted husks bound to her will and acting as frontline enforcers.",
+    "source_quote": "Four of them, former Velkynvelve guards, shambling and wrong...",
     "quote_verified": false
   },
   {
     "type": "thread",
-    "subject": "Asha\u2019s Refusal to Speak",
-    "fact": "Asha refuses to speak directly to the narrator after losing respect for them, delivering all critical intelligence through Daz. This silent estrangement hints at deeper personal wounds and unresolved tension \u2014 a thread that may influence future alliances or betrayals.",
-    "source_quote": "Tell the Dragonborn that... she looked at me with contempt, and then turned to Daz.",
+    "subject": "Asha's lingering doubt",
+    "fact": "Asha\u2019s final statement \u2014 'I believe' \u2014 introduces critical uncertainty into her otherwise authoritative intelligence, suggesting her knowledge of Ilvara\u2019s spores may be incomplete or faith-based rather than empirical.",
+    "source_quote": "I believe.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Jorlan and Ilvara's broken romance",
+    "fact": "The unresolved romantic history between Jorlan and Ilvara is a destabilizing emotional undercurrent that influences factional loyalty and was weaponized tactically by Thorin.",
+    "source_quote": "They used to have an affair... she broke up with him, and then he was bitter...",
     "quote_verified": false
   },
   {
     "type": "thread",
-    "subject": "The Nature of the Spore Infection",
-    "fact": "The spore infection does not merely corrupt \u2014 it seduces. Victims experience ecstasy before losing their will, making them unwilling participants in their own transformation. This raises ethical questions about the Glyph of Warding and whether those affected are truly enemies or victims.",
-    "source_quote": "People. Hollowed out. Not monsters dragged in from somewhere else, but people who had made a choice.",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "The Cavern of the Heart Fungus",
-    "fact": "The Cavern of the Heart Fungus is a vast, oppressive Underdark chamber dominated by a massive pulsing fungal growth. The air is thick with spores, the ground is littered with the remnants of fallen drow, and the walls are stained with fungal veins. It is both a temple and a prison \u2014 Ilvara\u2019s throne room and the source of her dominion.",
-    "source_quote": "She was on an elevated platform. Corrupted. The fungal growth had changed her in ways that were specific and terrible.",
+    "subject": "Grygum's loss of Asha's respect",
+    "fact": "Asha refuses to speak directly to Grygum, indicating he has lost her trust, creating a silent rift that may hinder coordination during execution.",
+    "source_quote": "She delivered the actual intelligence \u2014 through Daz, not through me, because I had apparently lost her respect...",
     "quote_verified": false
   },
   {
     "type": "date",
-    "subject": "Session Date \u2014 The Battle of the Heart Fungus",
-    "fact": "The events of the Battle of the Heart Fungus occurred during a single session of play, marked by intense tactical planning, emotional revelations, and irreversible character choices \u2014 a session that redefined the party\u2019s understanding of morality, loyalty, and power in the Underdark.",
-    "source_quote": "I took notes on the whole plan, the way I always do. Not on paper. In my head.",
-    "quote_verified": true
+    "subject": "session date",
+    "fact": "The events occur during the planning and execution of the assassination of Ilvara, following the party's arrival in the Underdark and their prior visit to the Whorlstone Caverns.",
+    "source_quote": "Whatever we'd picked up in Gracklstugh in the Whorlstone Caverns when we visited the pocket dimension...",
+    "quote_verified": false
   }
 ]

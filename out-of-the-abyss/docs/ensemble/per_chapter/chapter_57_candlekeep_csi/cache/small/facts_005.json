@@ -2,155 +2,148 @@
   {
     "type": "npc",
     "subject": "Hollypocket",
-    "fact": "Hollypocket is the elderly gnome caretaker of Janussi's apartment, who offered tea and seats to the investigators, and provided key testimony about the victim's final days and the tensions among the scholars.",
+    "fact": "Hollypocket is the elderly gnome caretaker of Janussi's apartment, who observed multiple heated arguments among the Great Readers before his death and provided key testimonies about their behavior and tensions.",
     "source_quote": "I do hate gossip, but if it's necessary for the investigation\u2026",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Kalan Strongbranch",
-    "fact": "Kalan Strongbranch was seen by the apartment caretaker on the steps with a face like thunder, nearly knocking over the morning tea tray shortly before Janussi's death.",
-    "source_quote": "He had a face like thunder, nearly knocked the tray out of my hands.",
+    "fact": "Kalan Strongbranch was seen by Hollypocket on the steps with a face like thunder, nearly knocking over her tea tray shortly before Janussi's death.",
+    "source_quote": "I was bringing the keeper his morning tea when I passed Kalan Strongbranch on the steps. He had a face like thunder, nearly knocked the tray out of my hands.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Teles Ahvoste",
-    "fact": "Teles Ahvoste shouted *hypocrite* at Janussi during a meeting around the ninth bell, after which she stormed out, despite claiming she wasn't listening.",
+    "fact": "Teles Ahvoste shouted 'hypocrite' at Janussi during a heated exchange around the ninth bell, as overheard by Hollypocket despite claiming not to listen.",
     "source_quote": "I did hear Teles shout, *hypocrite*, at poor Janussi before he stormed out.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Daral Yashenti",
-    "fact": "Daral Yashenti, nursing a hangover, verbally attacked Janussi twice \u2014 calling him unfit to be candle keeper and a 'glorified book peddler' \u2014 and later returned drunk at half past ten, leading to a loud argument followed by Janussi fleeing down the stairs.",
-    "source_quote": "You're not fit to be the candle keep's keeper... nothing but a glorified book peddler... I'd never seen him run away so fast.",
+    "fact": "Daral Yashenti, nursing a hangover, verbally attacked Janussi twice \u2014 calling him unfit to be candle keeper and a 'glorified book peddler' \u2014 and later returned drunk, forcing entry and provoking another argument before Janussi fled upstairs.",
+    "source_quote": "You're not fit to be the candle keep's keeper, Daral shouted at poor Janussi\u2026 nothing but a glorified book peddler\u2026",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Sylvira Savikas",
-    "fact": "Sylvira Savikas, the Curator of the Infernal Fortress and a tiefling, was seen raging at Janussi, accusing him of being a traitor, and later seen carrying a lantern at 2\u20133 a.m. despite having darkvision \u2014 a contradiction that suggests the light was used to conceal her identity or actions.",
-    "source_quote": "I swear I could see that devil woman's \u2014 Sylvira Savikas's \u2014 face glowing red in the candlelight... She was carrying a lantern. She's a tiefling, and she can see in the dark without any light at all.",
+    "fact": "Sylvira Savikas, the Curator of the Infernal Fortress and a tiefling, was seen raging at Janussi, accusing him of being a traitor, and was later observed carrying a lantern at 2\u20133 a.m. despite having darkvision \u2014 suggesting the light was not for her own use.",
+    "source_quote": "That devil woman! She gives me the heebie-jeebies!\u2026 I swear I could see that devil woman's \u2014 Sylvira Savikas's \u2014 face glowing red in the candlelight\u2026 she was carrying a lantern.",
     "quote_verified": false
   },
   {
-    "type": "faction",
-    "subject": "Curator of the Infernal Fortress",
-    "fact": "The Curator of the Infernal Fortress is Sylvira Savikas\u2019s official job function \u2014 a scholar who studies devils \u2014 not a pejorative label, clarifying that 'devil woman' was a misinterpretation of her role.",
-    "source_quote": "Sylvira is the Curator of the Infernal Fortress. A woman who studies devils. Not an epithet. A job function.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Janussi's final morning meetings",
-    "fact": "Janussi spent his last morning in one-on-one meetings with the Great Readers, each ending in explosive shouting matches \u2014 at least half of them, according to Hollypocket \u2014 indicating escalating hostility among colleagues.",
-    "source_quote": "Janussi had spent his last morning in a series of one-on-one meetings with the Great Readers, clearing business before Deadwinter Day.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "midnight thud",
-    "fact": "A thud was heard upstairs around midnight, after which Janussi was no longer alive \u2014 the caretaker had assumed he was alive until that sound, as she never slept before eleven in case the Master needed something.",
-    "source_quote": "I thought I heard a thud upstairs... I never slept before eleven... that was how she knew he had been alive until the thud.",
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi was the victim, a scholar who held one-on-one meetings with the Great Readers before Deadwinter Day, carried a locket at all times, and was known to be polite but stiff, last seen alive fleeing upstairs after a violent confrontation with Daral Yashenti.",
+    "source_quote": "He was such a nice man! A little stiff, maybe, but such a nice man!\u2026 He carried it all.",
     "quote_verified": false
   },
   {
     "type": "object",
-    "subject": "Janussi's locket",
-    "fact": "Janussi carried a locket always, never removing it \u2014 a detail noted by the caretaker and underlined twice as potentially significant to the investigation.",
-    "source_quote": "He carried it all. I underlined that one twice.",
+    "subject": "locket",
+    "fact": "Janussi carried a locket always, never removing it \u2014 a detail noted by Hollypocket as significant and underlined twice in the investigator's notes.",
+    "source_quote": "And then the locket \u2014 Janussi carried it always, all the time, never took it off. He carried it all.",
     "quote_verified": true
   },
   {
     "type": "object",
-    "subject": "the lantern",
-    "fact": "Sylvira Savikas was seen carrying a lantern at 2\u20133 a.m. despite being a tiefling with innate darkvision \u2014 the light was unnecessary for her vision, suggesting it was used to illuminate something else, or to mask her presence.",
+    "subject": "lantern",
+    "fact": "Sylvira Savikas was seen carrying a lantern at 2\u20133 a.m., despite being a tiefling with innate darkvision \u2014 indicating the light was intended to illuminate something or someone else, not herself.",
     "source_quote": "She was carrying a lantern. She's a tiefling, and she can see in the dark without any light at all.",
     "quote_verified": false
   },
   {
-    "type": "thread",
-    "subject": "Sylvira's midnight presence",
-    "fact": "Sylvira Savikas was seen glowing red in candlelight at 2\u20133 a.m. \u2014 an impossible sighting given her darkvision \u2014 raising the question of why she was in the tower, why she carried a lantern, and whether she was the last person to see Janussi alive.",
-    "source_quote": "I swear I could see that devil woman's face glowing red in the candlelight... She was carrying a lantern.",
+    "type": "event",
+    "subject": "midnight thud",
+    "fact": "A thud was heard upstairs shortly after midnight, following the bell tower's chime, and was the last confirmed sound of Janussi being alive \u2014 interpreted by Hollypocket as the moment his life ended.",
+    "source_quote": "I thought I heard a thud upstairs\u2026 I never slept before eleven\u2026 that was how she knew he had been alive until the thud.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Great Readers' meetings",
+    "fact": "Multiple explosive meetings occurred between Janussi and the Great Readers in the hours before his death, with at least half ending in shouting matches and personal accusations.",
+    "source_quote": "Janussi had spent his last morning in a series of one-on-one meetings with the Great Readers\u2026 at least half of them\u2026 had ended in explosive shouting matches.",
     "quote_verified": false
   },
   {
     "type": "thread",
-    "subject": "Daral's double confrontation",
-    "fact": "Daral Yashenti confronted Janussi twice in one day \u2014 once verbally during a meeting, and again in a drunken argument at the door \u2014 followed by Janussi fleeing from him for the first time ever, making him a prime suspect.",
-    "source_quote": "I'd never seen him run away so fast.",
+    "subject": "Sylvira's lantern",
+    "fact": "The presence of a lantern carried by Sylvira Savikas \u2014 a tiefling with darkvision \u2014 suggests the light was meant to illuminate evidence, a body, or a hidden object, and may be central to determining the method or timing of the murder.",
+    "source_quote": "That explains the candle,\" said Zalthir.",
     "quote_verified": true
   },
   {
     "type": "thread",
-    "subject": "the nature of the thud",
-    "fact": "The thud heard at midnight may not have been accidental \u2014 the caretaker's realization that the sound was distinct, and the timing after Sylvira\u2019s sighting, suggests it may have been a physical attack.",
-    "source_quote": "The three of us closer to her did what we could to settle her... I wrote it down slowly. That one mattered.",
-    "quote_verified": false
+    "subject": "locket's significance",
+    "fact": "The locket Janussi never removed may contain a clue to his relationship with Sylvira Savikas or the source of her wrath \u2014 its absence or condition after death may be critical to the investigation.",
+    "source_quote": "I underlined that one twice.",
+    "quote_verified": true
   },
   {
     "type": "thread",
-    "subject": "Daz's indifference",
-    "fact": "Daz paid no attention to the grieving caretaker while she wept, only suddenly listening when the lantern detail was revealed \u2014 indicating his focus is on evidence, not emotion, and possibly hiding prior knowledge.",
-    "source_quote": "Daz, I noticed, was paying the weeping woman no attention whatsoever... Hmm,\" said Daz, suddenly listening after all.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Daz",
-    "fact": "Daz is a detached investigator who ignored emotional testimony until a critical forensic detail \u2014 the lantern \u2014 was mentioned, suggesting he is methodical, possibly biased toward physical evidence, and may have prior knowledge of Sylvira's habits.",
-    "source_quote": "Daz, I noticed, was paying the weeping woman no attention whatsoever... Hmm,\" said Daz, suddenly listening after all.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Zalthir",
-    "fact": "Zalthir is a thoughtful investigator who listens closely, asks clarifying questions, and recognizes implications \u2014 such as the significance of the lantern \u2014 and accepts tea with unusual enthusiasm, possibly to disarm or gain rapport.",
-    "source_quote": "That explains the candle,\" said Zalthir... \"Yes, I love\u2026 Absolutely!",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Thorin",
-    "fact": "Thorin is a reserved investigator who declines tea, speaks minimally, and ends conversations with blunt phrases like 'Nothing more,' which unintentionally trigger new revelations.",
-    "source_quote": "Nothing more,\" Thorin said... \"No thank you, I'm good.",
+    "subject": "Daz's disinterest",
+    "fact": "Daz paid no attention to Hollypocket\u2019s emotional breakdown and only resumed listening after the lantern revelation \u2014 suggesting he may have prior knowledge or a hidden agenda regarding Sylvira or the murder.",
+    "source_quote": "Daz, I noticed, was paying the weeping woman no attention whatsoever\u2026 Hmm,\" said Daz, suddenly listening after all.",
     "quote_verified": false
   },
   {
     "type": "location",
     "subject": "Keeper's tower",
-    "fact": "The Keeper's tower is the central location of the investigation, housing Janussi's apartment below, the bell tower, and the quarters of the Great Readers \u2014 a place where scholarly tension, midnight movements, and violent confrontation converge.",
-    "source_quote": "The bell tower rang... I thought I heard a thud upstairs...",
+    "fact": "The Keeper's tower is the central location of the investigation, housing Janussi\u2019s apartment below it, and serving as the site of all observed confrontations, the midnight thud, and the final moments of his life.",
+    "source_quote": "Hollypocket's apartment sat below the Keeper's tower \u2014 modest, but with room to breathe\u2026",
     "quote_verified": false
   },
   {
-    "type": "location",
-    "subject": "Janussi's apartment",
-    "fact": "Janussi's apartment, located below the Keeper's tower, is the site of the caretaker\u2019s observations \u2014 where tea was offered, arguments were overheard, and the final moments of Janussi\u2019s life were quietly witnessed.",
-    "source_quote": "Hollypocket's apartment sat below the Keeper's tower \u2014 modest, but with room to breathe...",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "Deadwinter Day",
-    "fact": "Deadwinter Day is the scheduled event before which Janussi was clearing business \u2014 a date of administrative importance that may have been a source of pressure or conflict among the Great Readers.",
-    "source_quote": "clearing business before Deadwinter Day",
+    "type": "faction",
+    "subject": "Great Readers",
+    "fact": "The Great Readers are a scholarly faction within the Keeper's tower, known for intense intellectual disputes, with at least five members having had violent confrontations with Janussi in the hours before his death.",
+    "source_quote": "That was the thing about a place full of scholars \u2014 they would shed blood over a marginal note and call it discourse.",
     "quote_verified": true
   },
   {
     "type": "date",
-    "subject": "midnight",
-    "fact": "The thud occurred at midnight \u2014 the time when the caretaker was awake but the Master was not to be disturbed \u2014 making it the last known moment Janussi was alive.",
-    "source_quote": "I thought I heard a thud upstairs... I never slept before eleven...",
-    "quote_verified": false
+    "subject": "Deadwinter Day",
+    "fact": "Deadwinter Day is the upcoming event during which Janussi was preparing to clear business \u2014 marking the temporal context of his final meetings and the urgency of his actions before his death.",
+    "source_quote": "clearing business before Deadwinter Day.",
+    "quote_verified": true
   },
   {
     "type": "date",
     "subject": "2\u20133 a.m.",
-    "fact": "Sylvira Savikas was seen glowing in candlelight at 2\u20133 a.m. \u2014 a time when the tower should have been silent, and her presence with a lantern defied her natural abilities.",
-    "source_quote": "I swear I could see... around 2 or 3 in the morning...",
+    "fact": "The time Sylvira Savikas was seen glowing red in candlelight and carrying a lantern \u2014 a critical anomaly given her tiefling physiology \u2014 suggesting deliberate illumination of a scene or object at the moment of or after the murder.",
+    "source_quote": "I swear I could see that devil woman's \u2014 Sylvira Savikas's \u2014 face glowing red in the candlelight\u2026 around 2 or 3 in the morning.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "tiefling",
+    "fact": "Sylvira Savikas is a tiefling \u2014 a creature with innate darkvision \u2014 whose use of a lantern contradicts her biological capabilities, making her actions suspicious and indicative of intent to obscure or reveal something to others.",
+    "source_quote": "She's a tiefling, and she can see in the dark without any light at all.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is an investigator who actively engages with witnesses, seeks clarification, and connects clues \u2014 notably recognizing the significance of the lantern and Sylvira\u2019s behavior.",
+    "source_quote": "That explains the candle,\" said Zalthir.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is an investigator who declined tea and offered minimal commentary \u2014 his abrupt 'Nothing more' triggered Hollypocket\u2019s realization about the thud, suggesting his words may have unintentionally guided the testimony.",
+    "source_quote": "Nothing more,\" Thorin said.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is an investigator who showed disinterest during emotional testimony but reacted sharply to the lantern revelation \u2014 indicating prior knowledge or hidden involvement with Sylvira Savikas or the murder.",
+    "source_quote": "Daz, I noticed, was paying the weeping woman no attention whatsoever\u2026 Hmm,\" said Daz, suddenly listening after all.",
     "quote_verified": false
   }
 ]

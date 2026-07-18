@@ -7,7 +7,7 @@ chapters: 56-56
 
 ### The Astronomicon
 
-A towering structure composed of ascending blue globes, pale against the white sky. It contains all known knowledge of the stars and is a surface-world artifact absent from the Underdark.
+A vertical stack of ascending blue globes, pale against the white sky, located in a region accessible from the Underdark. It is a key repository of surface-world stellar knowledge, containing everything known about the stars and serving as a potential navigation aid. The globes represent celestial lore unknown within the Underdark.
 
 ## Uncertainty
 None.

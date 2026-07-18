@@ -1,29 +1,28 @@
 ---
 name: Velkynvelve
 type: location
-n_facts: 11
+n_facts: 10
 chapters: 6-53
 ---
 
 ### Velkynvelve
 
-- **Type:** Location (destroyed outpost)  
+- **Type:** Subterranean location (formerly an outpost)  
 - **Current state:** Destroyed  
-- **Control/occupation:** Abandoned, no known current occupants  
-- **Notable features:**  
-  - Site of a major battle in which a bridge was toppled and the heart fungus destroyed; spores from the fungus now drift through the cavern.  
-  - Formerly a prison and holding site where Daz, Thorin, and others were captured and suspended in nets.  
-  - Location where Ilvara began her ritualized collection of trophies (e.g., Thorin’s tooth) as a symbol of dominance and corruption.  
-- **Significant events:**  
-  - Site of initial demonic incursion observed by Grygum — demons were seen here in large numbers.  
+- **Control/Occupation:** Formerly occupied by Ilvara and her forces; now abandoned and ruined  
+- **Notable recent events:**  
+  - Site of a major demonic incursion, with demons observed and confirmed present.  
+  - Used as a prison and ritual site by Ilvara, where captives (including Daz and Thorin) were hung in nets.  
+  - Ilvara collected trophies from captives here, including Daz’s tooth, as part of psychological domination and ritual practice involving a corrupted fungal mass.  
+  - Destruction of the outpost has triggered urgent consequences for Ilvara, who now risks transformation into a Drider for failing to recover the escapees.  
+- **Significance:**  
   - Origin point of the escapees’ journey through the Underdark toward Sloobludop via the Silken Paths.  
-  - Catalyst for Daz’s transformation into a strategic thinker; he began journaling after escaping here.  
-  - The Overbright was carried through this location by the speaker during their journey.  
-- **Current condition:** Ruined cavern battlefield; map-sized terrain, chaotic, with lingering spores and collapsed architecture.  
+  - One of the subterranean regions through which the concept of the Overbright was carried.  
+  - Serves as a key marker of widespread demonic incursions into the Prime Material Plane.
 
 ## Uncertainty
-- The exact physical layout or current environmental hazards (beyond spores and collapse) are not specified beyond “sprawling, chaotic.”  
-- Whether any remnants of demonic presence persist post-destruction is unconfirmed.  
-- The precise cause of destruction (battle, sabotage, collapse, or external force) is not explicitly stated — only that it “was destroyed.”  
-- It is unclear whether Ilvara still has any active presence or agents in the ruins, though she previously operated there.  
-- The status of any remaining prisoners or bodies from the battle is not addressed.
+- The exact nature of the "corrupted fungal mass" used in rituals is not described beyond its association with Ilvara’s trophy-collecting.  
+- It is unclear whether the demonic incursion was a one-time event or ongoing at the time of destruction.  
+- The specific cause of Velkynvelve’s destruction is not stated — whether by combat, collapse, magical cataclysm, or other means.  
+- While Daz and Thorin were both held there, it is ambiguous whether they were captured simultaneously or at different times.  
+- The current physical condition of the ruins (e.g., standing structures, lingering magic, fungal spread) is not detailed beyond their destruction.

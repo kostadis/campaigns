@@ -1,261 +1,247 @@
 [
   {
-    "type": "object",
-    "subject": "necromantic pearl",
-    "fact": "The necromantic pearl is smooth, dense, fist-sized, and has a weight that feels unnatural for something grown.",
-    "source_quote": "Smooth. Dense. Fist-sized. The weight of it was wrong for something grown \u2014 too even, too finished, like a stone that had been worked by a hand that knew what it was doing.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "necromantic pearl",
-    "fact": "The necromantic pearl emits a sensation like standing next to a door that opens into a room you don't want to know about.",
-    "source_quote": "And the sensation coming off it wasn't heat or cold exactly. More like standing next to a door that opens into a room you don't want to know about.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "necromantic pearl",
-    "fact": "Thorin pockets the necromantic pearl after finding it in the fungal core.",
-    "source_quote": "I didn't need a name for it. It was worth something to the right buyer, and I was not going to leave anything useful in this cavern, so I pocketed it.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "chamber",
-    "fact": "The chamber contains a fungal mass at its center, a stone platform covered in pulsing fungal growth, and dead guards.",
-    "source_quote": "The fungal mass sat at the center of the chamber... The bundle was underneath... The guards hadn't survived",
+    "type": "npc",
+    "subject": "Thorin Giantfriend",
+    "fact": "Thorin Giantfriend is referenced as the radical transparency practitioner who recovered a necromantic pearl from the heart of Ilvara\u2019s corrupted fungal ritual site and reclaimed his own tooth, the trophy she took during his capture at Velkynvelve.",
+    "source_quote": "I had the necromantic pearl in one pocket. I'd already turned over the question of what it meant \u2014 something this finished, this dense, at the core of a corrupted fungal mass that Ilvara had been using as a ritual anchor... I had the tooth back. And I had the pearl that had been buried in the heart of whatever she'd turned this place into.",
     "quote_verified": false
   },
   {
-    "type": "location",
-    "subject": "chamber",
-    "fact": "The chamber has a stone platform that was built by Ilvara and covered in fungal growth.",
-    "source_quote": "Ilvara had built herself something elevated... the fungal growth that had crept up the stone was still pulsing with Zuggtmoy's reach",
+    "type": "object",
+    "subject": "necromantic pearl",
+    "fact": "The necromantic pearl is a smooth, dense, fist-sized object, unnaturally finished like a worked stone, found at the core of the fungal mass in the chamber once used by Ilvara as a ritual anchor, radiating a necromantic sensation akin to standing before a door to an unwanted room.",
+    "source_quote": "Smooth. Dense. Fist-sized. The weight of it was wrong for something grown \u2014 too even, too finished, like a stone that had been worked by a hand that knew what it was doing. And the sensation coming off it wasn't heat or cold exactly. More like standing next to a door that opens into a room you don't want to know about. Necromantic, I decided...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Ilvara's tooth",
+    "fact": "Ilvara's tooth is a chip broken off during Thorin's capture at Velkynvelve, displayed by her as a trophy of power, later reclaimed by Thorin as a symbol of a settled debt.",
+    "source_quote": "It was the kind of thing a person does when they want their captives to understand the power relation clearly \u2014 she'd taken my tooth. A chip broken off in the capture, displayed in her chest like a piece of evidence of what she could do... It was settled now. I had the tooth back.",
     "quote_verified": false
   },
   {
     "type": "object",
     "subject": "leather-wrapped bundle",
-    "fact": "The leather-wrapped bundle contains incense cones, a silver bowl, and a cloth stitched with Lolth's web and Zuggtmoy's mark.",
-    "source_quote": "Inside: incense cones, a silver bowl small enough to fit in one hand, and a cloth that had been stitched with two sigils \u2014 Lolth's web worked into the eight-fold geometry of Zuggtmoy's mark, one woven inside the other.",
+    "fact": "The leather-wrapped bundle contains incense cones, a silver bowl small enough to fit in one hand, and a cloth stitched with two sigils: Lolth's web woven into the eight-fold geometry of Zuggtmoy's mark, one inside the other.",
+    "source_quote": "Leather-wrapped, neat in a way that the rest of the chamber wasn't. Inside: incense cones, a silver bowl small enough to fit in one hand, and a cloth that had been stitched with two sigils \u2014 Lolth's web worked into the eight-fold geometry of Zuggtmoy's mark, one woven inside the other.",
     "quote_verified": true
   },
   {
     "type": "object",
-    "subject": "silver bowl",
-    "fact": "The silver bowl is small enough to fit in one hand.",
-    "source_quote": "a silver bowl small enough to fit in one hand",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "cloth with sigils",
-    "fact": "The cloth is stitched with Lolth's web woven inside the eight-fold geometry of Zuggtmoy's mark.",
-    "source_quote": "a cloth that had been stitched with two sigils \u2014 Lolth's web worked into the eight-fold geometry of Zuggtmoy's mark, one woven inside the other.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "gold",
-    "fact": "Thorin takes gold from the bodies of the dead guards.",
-    "source_quote": "Gold, short swords, a long sword, a steel whistle.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "short swords",
-    "fact": "Thorin takes short swords from the bodies of the dead guards.",
-    "source_quote": "Gold, short swords, a long sword, a steel whistle.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "long sword",
-    "fact": "Thorin takes a long sword from the bodies of the dead guards.",
-    "source_quote": "Gold, short swords, a long sword, a steel whistle.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "steel whistle",
-    "fact": "Thorin takes a steel whistle from the bodies of the dead guards.",
-    "source_quote": "Gold, short swords, a long sword, a steel whistle.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "signet ring",
-    "fact": "The signet ring found on the mage bears the seal of House T'sarran.",
+    "subject": "signet ring of House T'sarran",
+    "fact": "The signet ring of House T'sarran is an unmistakable seal found on the finger of the dead mage, confirming her connection to the contract that ordered the extraction of Daz alive and unharmed.",
     "source_quote": "I found the signet ring first \u2014 House T'sarran, the seal unmistakable on the face of it.",
     "quote_verified": true
   },
   {
     "type": "object",
-    "subject": "wand",
-    "fact": "The wand is made of obsidian with a captive spider preserved in amber at its tip.",
+    "subject": "obsidian wand with captive spider",
+    "fact": "The obsidian wand contains a captive spider preserved in amber at its tip, recovered from the body of the dead mage, suggesting arcane ties to the contract and possibly to Zuggtmoy\u2019s influence.",
     "source_quote": "Then the wand: obsidian, a captive spider preserved in amber at its tip.",
     "quote_verified": true
   },
   {
     "type": "object",
-    "subject": "documents",
-    "fact": "The documents were partially burned but still legible in places.",
-    "source_quote": "The documents. They'd been partially burned, which meant someone had tried to destroy them and hadn't quite managed it",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "burning of documents",
-    "fact": "Someone attempted to destroy the documents by burning them.",
-    "source_quote": "They'd been partially burned, which meant someone had tried to destroy them and hadn't quite managed it",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "contract to extract Daz",
-    "fact": "A contract existed to extract Daz alive and unharmed, commissioned by House T'sarran.",
-    "source_quote": "There had been a contract. Extract Daz alive and unharmed. House T'sarran behind it.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Ilvara",
-    "fact": "Ilvara collected trophies from captives, including Thorin's tooth.",
-    "source_quote": "When we'd first found ourselves hanging in nets at Velkynvelve, Ilvara had made a point of collecting trophies... she'd taken my tooth.",
+    "subject": "partially burned documents",
+    "fact": "The partially burned documents confirm a contract issued by House T'sarran to extract Daz alive and unharmed, arranged through intermediaries, and partially destroyed to obscure its existence.",
+    "source_quote": "Then the documents. They'd been partially burned, which meant someone had tried to destroy them and hadn't quite managed it, which meant the information in them was exactly the kind of thing worth knowing... There had been a contract. Extract Daz alive and unharmed. House T'sarran behind it.",
     "quote_verified": false
   },
   {
     "type": "object",
-    "subject": "Thorin's tooth",
-    "fact": "Thorin recovered his tooth, which Ilvara had taken and displayed as a trophy.",
-    "source_quote": "It was settled now. I had the tooth back.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum uses acid to burn away the fungal growth on the platform.",
-    "source_quote": "Grygum was not the sort to leave corruption breathing. He opened his mouth, and the acid came out clean and decisive, and the fungal matter... collapsed into ash",
-    "quote_verified": false
-  },
-  {
-    "type": "monster",
-    "subject": "fungal mass",
-    "fact": "The fungal mass at the center of the chamber was still pulsing with Zuggtmoy's reach.",
-    "source_quote": "the fungal growth that had crept up the stone was still pulsing with Zuggtmoy's reach, slow and rhythmic like breathing",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "fungal mass",
-    "fact": "The fungal mass was corrupted and had grown around the platform in the chamber.",
-    "source_quote": "the fungal growth that had crept up the stone was still pulsing with Zuggtmoy's reach",
-    "quote_verified": true
-  },
-  {
-    "type": "faction",
-    "subject": "House Mizzrym",
-    "fact": "The dead guards belonged to House Mizzrym.",
-    "source_quote": "The dead soldiers of House Mizzrym would never collect their pay.",
-    "quote_verified": true
-  },
-  {
-    "type": "faction",
-    "subject": "House T'sarran",
-    "fact": "House T'sarran commissioned the contract to extract Daz alive and unharmed.",
-    "source_quote": "House T'sarran behind it.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Daz",
-    "fact": "Daz is a male Drow apostate from Menzoberranzan who studied magic.",
-    "source_quote": "I am a male Drow apostate from Menzoberranzan who studied magic, held private opinions that would have gotten him killed if voiced aloud",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Daz",
-    "fact": "Daz was the target of a contract to extract him alive and unharmed.",
-    "source_quote": "Extract Daz alive and unharmed.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Nym",
-    "fact": "Nym becomes more expressive when irritated.",
-    "source_quote": "Nym had the kind of face that gets more expressive the more irritated she becomes",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Kaelira",
-    "fact": "Kaelira reads the burned documents with professional focus.",
-    "source_quote": "Kaelira was the opposite \u2014 still and professional, reading the burned pages with the focus of someone who was paid to be good at exactly this.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Thorin",
-    "fact": "Thorin is known as Thorin Giantfriend.",
-    "source_quote": "Thorin Giantfriend, radical transparency",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "Dawnbringer",
-    "fact": "Dawnbringer is a sentient sunblade that refuses to be used for ritual purification.",
-    "source_quote": "Dawnbringer disagreed. 'I'm not some kind of magical wizard thingy that purifies things. I am a high-quality sunblade. I kill things.'",
+    "subject": "Dawnbringer (sunblade)",
+    "fact": "Dawnbringer is a sentient sunblade that refuses to be used as a ritual purification tool, asserting its purpose is to kill, not to sanctify, and is persuaded to comply only under threat of the Vaultmaster Locking Scabbard.",
+    "source_quote": "\"I'm not some kind of magical wizard thingy that purifies things. I am a high-quality sunblade. I kill things. I will not be treated like a religious symbol to be used and waved over corrupt...\"",
     "quote_verified": false
   },
   {
     "type": "object",
     "subject": "Vaultmaster Locking Scabbard",
-    "fact": "Thorin uses the Vaultmaster Locking Scabbard to negotiate with Dawnbringer.",
-    "source_quote": "Thorin reached, unhurriedly, for the scabbard. 'Do I need to show you the scabbard again?'",
+    "fact": "The Vaultmaster Locking Scabbard is a scabbard used by Thorin to negotiate compliance from Dawnbringer, functioning as a remarkably effective tool of restraint and persuasion.",
+    "source_quote": "\"Do I need to show you the scabbard again?\" There was a pause... I have observed that the Vaultmaster Locking Scabbard functions as a remarkably effective negotiating tool when Dawnbringer's rhetoric outpaces its better judgment.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a male Drow apostate from Menzoberranzan, formerly imprisoned at Velkynvelve, whose mysterious value triggered a high-cost contract from House T'sarran to extract him alive, despite his lack of known lineage or consequence.",
+    "source_quote": "I am not, by any meaningful measure, a person of consequence. I am a male Drow apostate from Menzoberranzan who studied magic, held private opinions that would have gotten him killed if voiced aloud, and eventually ended up in Velkynvelve's cages alongside a dwarf raised by giants and a dragonborn who doesn't talk much.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Nym",
+    "fact": "Nym is one of the Duskryn sisters, whose face grows more expressive when irritated, and who is skeptical of Daz\u2019s possible noble origins, dismissing them as typical orphan fantasies.",
+    "source_quote": "Nym had the kind of face that gets more expressive the more irritated she becomes, and right now she was very expressive... \"Yes, yes, yes, that's what every orphan thinks. Do you have daddy issues? Do you have mommy issues? Every drow thinks there's some noble things.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Kaelira",
+    "fact": "Kaelira is one of the Duskryn sisters, who is still and professional, reading burned documents with focused precision, and states the most honest thing in the chamber: they are not paid to think too hard.",
+    "source_quote": "Kaelira was the opposite \u2014 still and professional, reading the burned pages with the focus of someone who was paid to be good at exactly this... \"Perhaps, but we're not paid to think that hard.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is the individual who dealt with the platform and used acid to destroy the fungal growth infused with Zuggtmoy\u2019s reach, collapsing it into ash.",
+    "source_quote": "Behind me, Grygum was dealing with the platform... Grygum was not the sort to leave corruption breathing. He opened his mouth, and the acid came out clean and decisive, and the fungal matter that had spent months becoming something wrong collapsed into ash...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara",
+    "fact": "Ilvara is a High Priestess who built an elevated ritual site, used fungal growth as a conduit for Zuggtmoy\u2019s influence, collected trophies including Thorin\u2019s tooth, and became something that served two masters and understood neither.",
+    "source_quote": "Ilvara had built herself something elevated, which made a certain kind of sense \u2014 High Priestesses don't stand at floor level, they stand at the level where everyone has to look up at them... the fungal growth that had crept up the stone was still pulsing with Zuggtmoy's reach... Ilvara's madness made physical \u2014 the thing she'd built her rituals around while she was becoming something that served two masters and understood neither.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz proposes that the group jointly investigate the mystery of his value, suggesting they audit the financial and contractual records behind the contract to extract him, and offers to split any proceeds.",
+    "source_quote": "\"I think,\" I said, keeping my voice very even, \"that we should investigate this together. Whatever we find \u2014 whoever is behind this, whatever they think I'm worth \u2014 we split the proceeds. Audit their books. Understand the ledger before anyone decides whether to collect the debt.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz privately acknowledges the possibility that his perceived value stems from noble blood he never earned, and finds such speculation embarrassing, preferring any answer to be more interesting than inherited status.",
+    "source_quote": "I have, privately, catalogued that possibility and found it embarrassing. Whatever the answer to this question turns out to be, I prefer it to be something more interesting than inherited blood I didn't earn.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "chamber of Ilvara\u2019s ritual site",
+    "fact": "The chamber of Ilvara\u2019s ritual site contains a fungal mass at its center, infused with Zuggtmoy\u2019s reach, with a necromantic pearl embedded in its core, and evidence of her elevated platform and trophy displays.",
+    "source_quote": "The fungal mass sat at the center of the chamber the way a problem sits at the center of a bad situation \u2014 obvious, unavoidable, radiating something wrong in every direction... The heart of it was still warm... The necromantic pearl... Ilvara had built herself something elevated...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve",
+    "fact": "Velkynvelve is the prison where Daz was captured and held in nets, and where Ilvara took his tooth as a trophy to establish a power dynamic between captor and captive.",
+    "source_quote": "When we'd first found ourselves hanging in nets at Velkynvelve, Ilvara had made a point of collecting trophies... she'd taken my tooth.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "road to the surface",
+    "fact": "The road to the surface is the path the party is traveling after clearing the chamber, carrying unresolved questions, recovered artifacts, and the lingering smell of scorched rot.",
+    "source_quote": "Around me, the road to the surface waited. I had an unanswered question about my own identity sitting unresolved in my chest... We moved on.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "House T'sarran",
+    "fact": "House T'sarran is a powerful Drow house that issued a contract to extract Daz alive and unharmed, using intermediaries and routing it through layers of opacity, indicating significant resources and reach.",
+    "source_quote": "There had been a contract. Extract Daz alive and unharmed. House T'sarran behind it.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "House Mizzrym",
+    "fact": "House Mizzrym is the noble house whose dead soldiers were found in the chamber, bearing short swords, long swords, and steel whistles, and who will never collect their pay.",
+    "source_quote": "Gold, short swords, a long sword, a steel whistle. The dead soldiers of House Mizzrym would never collect their pay.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Duskryn sisters",
+    "fact": "The Duskryn sisters are a pair of professional Drow mercenaries hired to protect Daz, whose contrasting personalities \u2014 Nym\u2019s expressive irritation and Kaelira\u2019s professional stillness \u2014 shape how they interpret the mystery of his value.",
+    "source_quote": "We showed the documents to Nym and Kaelira... Nym had the kind of face that gets more expressive the more irritated she becomes... Kaelira was the opposite \u2014 still and professional...",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Zuggtmoy's fungal growth",
+    "fact": "Zuggtmoy's fungal growth is a pulsing, slow-rhythmic mass that crept up stone surfaces in Ilvara\u2019s chamber, infused with her reach, and required acid to collapse into ash.",
+    "source_quote": "the fungal growth that had crept up the stone was still pulsing with Zuggtmoy's reach, slow and rhythmic like breathing... the fungal matter that had spent months becoming something wrong collapsed into ash...",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Zuggtmoy",
+    "fact": "Zuggtmoy is a deity whose influence is manifest in the pulsing fungal growth that infected Ilvara\u2019s ritual chamber, and whose reach is sensed as a slow, rhythmic corruption.",
+    "source_quote": "the fungal growth that had crept up the stone was still pulsing with Zuggtmoy's reach...",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Lolth",
+    "fact": "Lolth is a deity whose web sigil was woven into the cloth stitched with Zuggtmoy\u2019s mark, indicating a ritual synthesis of two dark powers in Ilvara\u2019s practices.",
+    "source_quote": "Lolth's web worked into the eight-fold geometry of Zuggtmoy's mark, one woven inside the other.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "reclamation of Thorin's tooth",
+    "fact": "Thorin reclaimed his tooth, taken by Ilvara as a trophy during his capture at Velkynvelve, marking the settlement of a long-standing debt and the symbolic end of his subjugation.",
+    "source_quote": "It was settled now. I had the tooth back.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "destruction of Zuggtmoy's fungal growth by Grygum",
+    "fact": "Grygum destroyed the fungal growth infused with Zuggtmoy\u2019s reach using acid, collapsing it into ash and eliminating a lingering corruption from the chamber.",
+    "source_quote": "Grygum was not the sort to leave corruption breathing. He opened his mouth, and the acid came out clean and decisive, and the fungal matter that had spent months becoming something wrong collapsed into ash...",
     "quote_verified": false
   },
   {
     "type": "event",
-    "subject": "Dawnbringer agreeing to purify",
-    "fact": "Dawnbringer agrees to perform a purification ritual after being reminded of the scabbard.",
-    "source_quote": "I suppose\u2026 I suppose I could do you this one. I could do this solid for you.",
+    "subject": "discovery of House T'sarran contract",
+    "fact": "The party discovered the partially burned documents confirming a contract from House T'sarran to extract Daz alive and unharmed, implicating him in a high-stakes political intrigue.",
+    "source_quote": "Then the documents... There had been a contract. Extract Daz alive and unharmed. House T'sarran behind it.",
     "quote_verified": false
   },
   {
-    "type": "thread",
-    "subject": "Daz's true identity",
-    "fact": "Daz suspects his value lies beyond his known background and is being targeted for reasons unknown.",
-    "source_quote": "I am not, by any meaningful measure, a person of consequence... And yet.",
+    "type": "event",
+    "subject": "Dawnbringer's reluctant agreement to purification",
+    "fact": "Dawnbringer, the sentient sunblade, reluctantly agreed to participate in a purification ritual after Thorin threatened to use the Vaultmaster Locking Scabbard, demonstrating the scabbard\u2019s effectiveness as a diplomatic tool.",
+    "source_quote": "\"Do I need to show you the scabbard again?\" There was a pause... \"I suppose... I suppose I could do you this one. I could do this solid for you.\"",
     "quote_verified": false
   },
   {
-    "type": "thread",
-    "subject": "Ilvara's dual worship",
-    "fact": "Ilvara's rituals combined Lolth's web and Zuggtmoy's mark, indicating devotion to two conflicting deities.",
-    "source_quote": "a cloth that had been stitched with two sigils \u2014 Lolth's web worked into the eight-fold geometry of Zuggtmoy's mark, one woven inside the other.",
+    "type": "event",
+    "subject": "Daz's proposal to audit the contract",
+    "fact": "Daz proposed that the party jointly investigate the financial and contractual origins of the plot to extract him, offering to split any proceeds, shifting the group\u2019s focus from suspicion to investigation.",
+    "source_quote": "\"I think,\" I said, keeping my voice very even, \"that we should investigate this together... we split the proceeds. Audit their books. Understand the ledger before anyone decides whether to collect the debt.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Kaelira's admission of professional detachment",
+    "fact": "Kaelira stated that the party is not paid to think too hard, a moment of profound honesty that Thorin respected more than any other in the chamber.",
+    "source_quote": "\"Perhaps, but we're not paid to think that hard.\" Which was the most honest thing anyone had said in this chamber all day. I found myself respecting it more than I probably should have.",
     "quote_verified": true
   },
   {
-    "type": "thread",
-    "subject": "the necromantic pearl's origin",
-    "fact": "The necromantic pearl was placed or grown in the fungal core under deliberate conditions.",
-    "source_quote": "The pearl wasn't in the wrong place by accident. Someone had put something like it there, or something like it had grown there because the conditions were exactly right for it.",
-    "quote_verified": true
+    "type": "location",
+    "subject": "chamber of the dead mage",
+    "fact": "The chamber of the dead mage contains her corpse, the signet ring of House T'sarran, the obsidian wand with a captive spider in amber, and the partially burned documents confirming the contract to extract Daz.",
+    "source_quote": "I found the signet ring first \u2014 House T'sarran... Then the wand: obsidian, a captive spider preserved in amber at its tip. Then the documents. They'd been partially burned...",
+    "quote_verified": false
   },
   {
-    "type": "thread",
-    "subject": "the contract's intermediaries",
-    "fact": "The contract to extract Daz was arranged through cutouts with deliberate opacity.",
-    "source_quote": "The contracting party was unknown even to them. They had come specifically for me, through layers of intermediaries arranged with the kind of deliberate opacity that costs serious coin to maintain.",
-    "quote_verified": true
+    "type": "location",
+    "subject": "campsite on the road to the surface",
+    "fact": "The campsite on the road to the surface is where Daz reflects on his identity, the Duskryn sisters debate his possible nobility, and the party debates the use of Dawnbringer in ritual purification.",
+    "source_quote": "The question had been sitting in the middle of our camp like a stone none of us wanted to trip over... Around me, the road to the surface waited...",
+    "quote_verified": false
   },
   {
-    "type": "date",
-    "subject": "time of Velkynvelve captivity",
-    "fact": "Thorin was held captive at Velkynvelve before the current expedition.",
-    "source_quote": "When we'd first found ourselves hanging in nets at Velkynvelve",
-    "quote_verified": true
+    "type": "npc",
+    "subject": "Thorin Giantfriend",
+    "fact": "Thorin Giantfriend is a man of radical transparency who chooses silence when speech adds nothing to the next ten seconds, and who carries the necromantic pearl and his reclaimed tooth as symbols of a journey from captivity to agency.",
+    "source_quote": "Thorin Giantfriend, radical transparency, except when the thing being said wouldn't add anything to the next ten seconds... I didn't say any of that out loud.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who refuses to accept easy narratives about his identity, preferring to pursue truth through investigation rather than fantasy, and whose quiet dignity contrasts with the skepticism of others.",
+    "source_quote": "So then maybe there's more to me than meets the eye?... Which was, I thought, the most restrained thing he could possibly have said in that moment.",
+    "quote_verified": false
   }
 ]

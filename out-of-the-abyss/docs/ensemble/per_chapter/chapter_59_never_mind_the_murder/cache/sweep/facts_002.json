@@ -1,149 +1,142 @@
 [
   {
     "type": "npc",
-    "subject": "Daz",
-    "fact": "Daz is drow. Daz knew that world the way I know a tunnel's slope without thinking about it \u2014 and still the meaning slid off him. He'd forgotten everything that mattered and kept everything that didn't.",
-    "source_quote": "Daz was drow. Daz knew that world the way I know a tunnel's slope without thinking about it \u2014 and still the meaning slid off him. He'd forgotten everything that mattered and kept everything that didn't.",
+    "subject": "Thorin",
+    "fact": "Thorin is referenced by himself as the investigator who holds the question of the double stroke \u2014 a killer who buys two outcomes with one cup of poison \u2014 and identifies A'lai Aivenmore as the ideological ambition-driven suspect.",
+    "source_quote": "That was the question worth holding. Not the death. The double stroke. A killer who buys two outcomes with one cup of poison is a killer who has already drawn the board and decided where every piece lands.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool offered himself for the sneaking. *I have learned silence,* he said. *Am I being silent enough? Was this good silence, or was it too loud silence?*",
-    "source_quote": "From the bag, Glabbagool offered himself for the sneaking. *I have learned silence,* he said. *Am I being silent enough? Was this good silence, or was it too loud silence?*",
-    "quote_verified": false
+    "subject": "A'lai Aivenmore",
+    "fact": "A'lai Aivenmore is identified by Thorin as the one who wanted the keep, was about to be dismissed, and saw Daral's love of poetry and fiction as a threat to his approach to the universe.",
+    "source_quote": "A'lai Aivenmore. The one who wanted the keep. The one about to be dismissed. The one who saw Daral's love of poetry, his love of fiction, as a threat to his approach to the universe.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daral",
+    "fact": "Daral is referenced by Thorin as the scholar who gave Janussi the poisoned book, was suspected of being framed, and reacted with dramatic self-awareness to the accusation.",
+    "source_quote": "And so framing me makes perfect sense,\" Daral said, and pressed a hand to his chest. \"Clear the deck of Janussi. Clear the wood of me. No one left on the council able to prevent his ascension.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi is confirmed by Thorin as the victim who was poisoned by a book Daral gave him, and whose heart was later found in the lead-lined Milil chalice.",
+    "source_quote": "Janussi was dead. Poisoned by a book Daral had given him.",
+    "quote_verified": true
   },
   {
     "type": "location",
     "subject": "Candlekeep",
-    "fact": "The air in Candlekeep still smelled wrong to me. Not bad \u2014 paper, lamp oil, old stone warmed by sun I had not seen in months \u2014 just wrong, the way anything smells when you have spent too long breathing rock.",
+    "fact": "Candlekeep is described by Thorin as a place full of the most learned people on the surface, where the air still smelled wrong \u2014 paper, lamp oil, old stone warmed by sun \u2014 and where the murder investigation unfolded.",
     "source_quote": "The air in Candlekeep still smelled wrong to me. Not bad \u2014 paper, lamp oil, old stone warmed by sun I had not seen in months \u2014 just wrong, the way anything smells when you have spent too long breathing rock.",
     "quote_verified": true
   },
   {
     "type": "location",
     "subject": "Southern Dining Hall",
-    "fact": "The dining hall still smelled like breakfast. Long tables, cleared but not reset, that particular morning-after smell of porridge and tallow gone cold.",
-    "source_quote": "The dining hall still smelled like breakfast. Long tables, cleared but not reset, that particular morning-after smell of porridge and tallow gone cold.",
-    "quote_verified": true
+    "fact": "The Southern Dining Hall is identified by Thorin as the location where the Milil chalice was found with Janussi's heart and a blood-stained meat cleaver inside, and where the Deadwinter supper took place.",
+    "source_quote": "I walked the rest of it out loud, because that's how I find the wall. 'Okay, so everybody \u2014 you have a party, things get a little out of hand, somebody puts a lampshade on their head, somebody steals the chalice from the god that's lead-lined, because that's a good idea, and then, you know, it's part of the whole sort of revelries.'",
+    "quote_verified": false
   },
   {
     "type": "object",
-    "subject": "Milil's lead-lined chalice",
-    "fact": "The brass cup in those open stone hands was lead-lined. Inside it: a heart. And a blood-stained meat cleaver.",
+    "subject": "Milil chalice",
+    "fact": "The Milil chalice is described by Thorin as a brass cup held by the statue of Milil, lead-lined to block far-seeing magic, and containing Janussi's heart and a blood-stained meat cleaver.",
     "source_quote": "I went to the altar, took the chalice down out of those open hands, and looked inside. Photons don't care about lead. Whatever was in there, I'd see it. A heart. And a blood-stained meat cleaver.",
     "quote_verified": true
   },
   {
     "type": "object",
-    "subject": "Janussi's heart",
-    "fact": "Janussi's heart was found in the lead-lined chalice. Because they stole his heart. They didn't want anybody to be able to bring him back and ask him what happened.",
-    "source_quote": "Janussi's heart,\" Daral said. \"Because they stole his heart. They didn't want anybody to be able to bring him back and ask him what happened.",
+    "subject": "meat cleaver",
+    "fact": "The meat cleaver is noted by Thorin as blood-stained and found in the lead-lined Milil chalice alongside Janussi's heart, indicating deliberate ritualistic staging.",
+    "source_quote": "The cleaver bothered me more than the heart, honestly. Somebody had thought this through.",
     "quote_verified": true
   },
   {
     "type": "object",
-    "subject": "blood-stained meat cleaver",
-    "fact": "The blood-stained meat cleaver was found inside the lead-lined chalice alongside Janussi's heart.",
-    "source_quote": "A heart. And a blood-stained meat cleaver.",
+    "subject": "wrapping paper",
+    "fact": "The wrapping paper from the Secret Santa gift exchange is remembered by Thorin as having been dropped by Janussi in a wicker basket by the door, but later found in his office \u2014 a discrepancy that suggested tampering.",
+    "source_quote": "The wrapping paper turned up in Janussi's office, not here. I kept the two from blurring.",
     "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "wrapping paper from Secret Santa",
-    "fact": "The wrapping paper from the Secret Santa gift was dropped by Janussi in a wicker basket by the door on his way out \u2014 but turned up later in his office, not here.",
-    "source_quote": "Janussi took his unwrapped, thanked his secret donor, and excused himself, dropping the wrapping paper in a wicker basket by the door on his way out. The wrapping paper turned up in Janussi's office, not here.",
-    "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Irony",
-    "fact": "Irony said she always tells the truth \u2014 compulsively, without choice. 'I really hate it when people make that joke. I'm so sorry \u2014 this compulsive need to always tell the truth.'",
-    "source_quote": "Are you being ironic?\" I asked. Couldn't help it. \"No!\" she snapped. Then, flatter: \"But I, you know, I really hate it when people make that joke. I'm so sorry \u2014 this compulsive need to always tell the truth.",
+    "fact": "Irony is identified by Thorin as a junior avowed who always tells the truth and served food at the Deadwinter supper, confirming that all dishes were shared and no one had individual plates.",
+    "source_quote": "At least I can tell you what happened at dinner,\" she said. The Deadwinter supper began at the 5PM bell. Twelve plates: beetroot soup, fried carp, smoked mackerel. Fruit compots, spiced wines and ales, honey, vodka, green tea. Served by three of them: her, Orrin, and Sprig. All of it brought out on big platters and passed around, shared, drinks poured from carafes.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Sprig",
-    "fact": "Sprig tasted all the food. 'Is she the poison taster?' I asked, and Irony said yes, like I should've known, and I hadn't.",
-    "source_quote": "Then she told me to go talk to Sprig. Sprig tasted all the food. 'Is she the poison taster?' I asked, and Irony said yes, like I should've known, and I hadn't.",
+    "fact": "Sprig is confirmed by Irony to be the poison taster who tasted all the food served at the Deadwinter supper, making her a key witness in the investigation.",
+    "source_quote": "Sprig tasted all the food. 'Is she the poison taster?' I asked, and Irony said yes, like I should've known, and I hadn't.",
     "quote_verified": false
   },
   {
     "type": "npc",
-    "subject": "Daral",
-    "fact": "Daral threw his hands up. 'Maybe they wanted me to be blamed.'",
-    "source_quote": "Daral threw his hands up. 'Maybe they wanted me to be blamed.'",
-    "quote_verified": false
+    "subject": "Daz",
+    "fact": "Daz is identified by Thorin as a drow who could talk to beasts, attempted to examine the poisoned object, and failed to read its properties despite repeated efforts.",
+    "source_quote": "Daz was drow. Daz knew that world the way I know a tunnel's slope without thinking about it \u2014 and still the meaning slid off him. He'd forgotten everything that mattered and kept everything that didn't.",
+    "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "A'lai Aivenmore",
-    "fact": "A'lai Aivenmore was the one who wanted the keep. The one about to be dismissed. The one who saw Daral's love of poetry, his love of fiction, as a threat to his approach to the universe.",
-    "source_quote": "A'lai Aivenmore. The one who wanted the keep. The one about to be dismissed. The one who saw Daral's love of poetry, his love of fiction, as a threat to his approach to the universe.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Midsummer Wine ritual",
-    "fact": "Daral suddenly remembered: 'We used it for the Midsummer Wine!' \u2014 referring to the lead-lined chalice used to blind far-seeing magic.",
-    "source_quote": "Daral didn't hear me. He'd gone still, staring at the statue, and then he came apart a little. 'Oh my goodness! We used it for the Midsummer Wine!'",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is described by Thorin as an ooze from the bag of holding who offered silence and attempted to grow a nose to smell the poison, always trying to be useful despite repeated failure.",
+    "source_quote": "From the bag, Glabbagool offered himself for the sneaking. *I have learned silence,* he said. *Am I being silent enough? Was this good silence, or was it too loud silence?*",
     "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Deadwinter Supper",
-    "fact": "The Deadwinter supper began at the 5PM bell. Twelve plates: beetroot soup, fried carp, smoked mackerel. Fruit compots, spiced wines and ales, honey, vodka, green tea. Served by three of them: Irony, Orrin, and Sprig.",
-    "source_quote": "The Deadwinter supper began at the 5PM bell. Twelve plates: beetroot soup, fried carp, smoked mackerel. Fruit compots, spiced wines and ales, honey, vodka, green tea. Served by three of them: her, Orrin, and Sprig.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Secret Santa gift exchange",
-    "fact": "Sylvira Savikas stormed out, and Kazryn Nyantani took it on herself to hand out the gifts under the evergreen tree, gave each one to the matching great reader. Secret Santa, basically.",
-    "source_quote": "Then Sylvira Savikas stormed out, and Kazryn Nyantani took it on herself to hand out the gifts under the evergreen tree, gave each one to the matching great reader. Secret Santa, basically.",
-    "quote_verified": true
   },
   {
     "type": "location",
-    "subject": "Janussi's office",
-    "fact": "The wrapping paper from the Secret Santa gift turned up in Janussi's office, not in the wicker basket by the dining hall door.",
-    "source_quote": "The wrapping paper turned up in Janussi's office, not here.",
+    "subject": "apothecary",
+    "fact": "The apothecary is referenced by Thorin as the place where the poison used in Janussi's murder was likely sourced, and where Daz could talk to the pet squirrel.",
+    "source_quote": "It seems like at least one of us should check out the apothecary,\" I said. \"Learn more about the poison.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Alkrist",
-    "fact": "Alkrist was cheerful, pitching a project: *Tales of War by the Generals That Waged Them*, first-hand strategy from warlords and commanders around the world.",
+    "fact": "Alkrist is identified by Thorin as the cheerful attendee at the Deadwinter supper who pitched the project *Tales of War by the Generals That Waged Them*, and was not on the suspect list.",
     "source_quote": "Alkrist was cheerful, pitching a project: *Tales of War by the Generals That Waged Them*, first-hand strategy from warlords and commanders around the world.",
     "quote_verified": true
   },
   {
-    "type": "npc",
-    "subject": "Teles",
-    "fact": "Teles scoffed the project sounded as likely to succeed as some Fheminor Scrivenbark program.",
-    "source_quote": "Teles scoffed the project sounded as likely to succeed as some Fheminor Scrivenbark program,",
+    "type": "object",
+    "subject": "heart of Janussi",
+    "fact": "The heart of Janussi is confirmed by Thorin as having been removed from his body and placed inside the lead-lined Milil chalice to prevent resurrection or scrying.",
+    "source_quote": "Janussi's heart,\" Daral said. \"Because they stole his heart. They didn't want anybody to be able to bring him back and ask him what happened.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "kitchen",
+    "fact": "The kitchen is designated by Thorin as the location where Daral would be walked through to interview those who touched the book, and where the investigation continued after the dining hall.",
+    "source_quote": "Thorin would take the kitchen, walk Daral through, ask who touched the book.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Janussi",
-    "fact": "Janussi praised Alkrist's project: 'the kind of knowledge that could benefit civilization,' and reminded the room that deciding which branches of knowledge to further was their privileged responsibility.",
-    "source_quote": "Janussi praised it the other way: 'the kind of knowledge that could benefit civilization,' and reminded the room that deciding which branches of knowledge to further was their privileged responsibility.",
+    "subject": "Sylvira Savikas",
+    "fact": "Sylvira Savikas is noted by Irony as having stormed out during the Deadwinter supper, possibly indicating emotional distress or involvement.",
+    "source_quote": "Then Sylvira Savikas stormed out, and Kazryn Nyantani took it on herself to hand out the gifts under the evergreen tree...",
     "quote_verified": false
   },
   {
-    "type": "event",
-    "subject": "Poisoning of Janussi",
-    "fact": "Janussi was poisoned by a book Daral had given him. And the whole thing was so ornate that it itched.",
-    "source_quote": "Janussi was dead. Poisoned by a book Daral had given him. And the whole thing was so ornate that it itched.",
+    "type": "location",
+    "subject": "Janussi's office",
+    "fact": "Janussi's office is identified by Thorin as the place where the Secret Santa wrapping paper was found, contradicting its reported location at the dining hall and suggesting evidence tampering.",
+    "source_quote": "The wrapping paper turned up in Janussi's office, not here.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "Attempt to grow a nose on Glabbagool",
-    "fact": "I crouched by the bag one more time. The ooze had no nose. That seemed like a thing worth attempting. 'Can Glabbagool try to grow a nose and get a good smell of the poison?'",
-    "source_quote": "I crouched by the bag one more time. The ooze had no nose. That seemed like a thing worth attempting. 'I doubt this is gonna work,' I said, 'but can Glabbagool try to grow a nose and get a good smell of the poison?'",
-    "quote_verified": false
+    "type": "object",
+    "subject": "bag of holding",
+    "fact": "The bag of holding is referenced by Thorin as the container from which Glabbagool emerged and offered assistance, and which shifted when Glabbagool spoke.",
+    "source_quote": "Then the bag of holding shifted, and Glabbagool offered.",
+    "quote_verified": true
   }
 ]

@@ -2,71 +2,92 @@
   {
     "type": "npc",
     "subject": "Janussi, Keeper of the Tome",
-    "fact": "Janussi, Keeper of the Tome, was killed after eating dinner with his face intact and teeth whole; his heart was torn out, ribcage smashed, nose broken, tongue and fingertip blackened, and a chip found in his front tooth \u2014 all indicating he was alive during initial trauma and later desecrated post-mortem.",
-    "source_quote": "He had been dead before his chest was opened.",
-    "quote_verified": false
+    "fact": "Janussi, Keeper of the Tome, was alive and eating dinner with an intact face and unchipped teeth before his death, and was murdered in the narrow window between that meal and the discovery of his body.",
+    "source_quote": "Janussi had eaten dinner with his face intact and his teeth whole.",
+    "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "desecration of Janussi",
-    "fact": "Janussi's body was meticulously desecrated after death \u2014 heart removed, ribcage shattered, nose broken prior to death, and black substance applied to finger and lip \u2014 suggesting a ritualistic or magical act performed with deliberate timing and calm intent.",
-    "source_quote": "He had been desecrating a corpse at his leisure, with nowhere to be.",
+    "subject": "desecration of Janussi's body",
+    "fact": "Janussi's heart was torn out and ribcage smashed with precise, deliberate strokes after death, indicating the killer was not trying to kill but to desecrate the corpse at leisure.",
+    "source_quote": "The heart was gone \u2014 torn out, not for any wound it would cause, but as a guard against any working that calls the dead back to answer.",
     "quote_verified": true
   },
   {
     "type": "monster",
-    "subject": "unknown assailant",
-    "fact": "The assailant exhibited extreme precision and calm, disabling Janussi before death (broken nose, chipped tooth) and then performing post-mortem desecration (heart removal, black substance application) \u2014 indicating familiarity with arcane practices and a desire to prevent resurrection or extract hidden knowledge.",
-    "source_quote": "The blows had been precise. Too precise, too close together, for a man fighting back.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "black substance",
-    "fact": "A mysterious black substance, darker than ink, was found on Janussi\u2019s left forefinger, lower lip, and tongue \u2014 confirmed not to be ink or any known material, and resistant to identification even by Glabbagool, an ooze that has consumed the Underdark\u2019s poisons and gloop.",
-    "source_quote": "The skill wasn't in identifying the substance. It was in knowing, with certainty, what it was not.",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "chip in front tooth",
-    "fact": "A fresh, jagged chip in Janussi\u2019s front tooth was found on the floor beside his body, indicating he fell face-first before death \u2014 a trauma unrelated to the post-mortem desecration but critical to establishing the timeline of events.",
-    "source_quote": "He had fallen forward. Face-first. Chipped the tooth on the way down.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Keeper's Chamber, Candlekeep",
-    "fact": "The Keeper's Chamber was the site of Janussi\u2019s murder and desecration \u2014 bloodless spray, scattered tooth fragment, smeared ink and black substance on clothing, and signs of a struggle or interruption during writing \u2014 all pointing to an attack occurring during or shortly after evening activities.",
-    "source_quote": "Janussi had been taking notes when this happened. Writing hand, fresh stains.",
-    "quote_verified": true
-  },
-  {
-    "type": "faction",
-    "subject": "Candlekeep Librarians",
-    "fact": "The Candlekeep Librarians, as keepers of arcane texts, were likely targets of the attack \u2014 Janussi was actively writing in the books at time of death, suggesting the assailant sought to silence or intercept knowledge contained in his notes.",
-    "source_quote": "Wasn't the blue ink \u2014 the ink they used in the books? It was.",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "origin of the black substance",
-    "fact": "The black substance on Janussi\u2019s body resists identification even by Glabbagool \u2014 implying it is either an unknown poison, a magical residue, or a substance native to a realm beyond the Underdark \u2014 and its presence on the lip and finger suggests it was ingested or applied as part of a ritual or curse.",
+    "subject": "unknown poison substance",
+    "fact": "A black, unidentified substance found on Janussi\u2019s fingertip, lower lip, and tongue could not be recognized by Glabbagool, an ooze that has ingested countless Underdark materials, indicating it is a rare or unnatural poison.",
     "source_quote": "When even a creature that has eaten the Underdark can't place a poison, you've learned the poison is worth being afraid of.",
     "quote_verified": true
   },
   {
-    "type": "thread",
-    "subject": "timing of the nose fracture",
-    "fact": "The broken nose occurred before death, as bruising requires living tissue \u2014 placing the initial assault within the narrow window between Janussi\u2019s last meal and his death, and suggesting the attacker was present during a private moment.",
+    "type": "object",
+    "subject": "blackened fingertip and lip stain",
+    "fact": "The black stain on Janussi\u2019s fingertip and lower lip was not ink, but a darker, unidentifiable substance, suggesting he ingested it while reading \u2014 possibly as part of a magical or toxic mechanism tied to the text he was copying.",
+    "source_quote": "The skill wasn't in identifying the substance. It was in knowing, with certainty, what it was not.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "crime scene \u2014 Keeper\u2019s chamber",
+    "fact": "The crime scene contained a chipped tooth on the floor near the body, indicating Janussi fell face-first before death, and his body was later rolled onto his back by the killer.",
+    "source_quote": "He had fallen forward. Face-first. Chipped the tooth on the way down. And then someone had come in, after, and rolled him onto his back to take the heart.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "broken nose",
+    "fact": "Janussi\u2019s nose was broken before death, as evidenced by bruising that cannot form on a corpse, placing the injury within the final moments of his life, prior to the heart removal.",
     "source_quote": "Bruising doesn't form on a corpse; there's no living tissue to swell.",
     "quote_verified": true
   },
   {
+    "type": "object",
+    "subject": "midnight blue ink stains on right sleeve",
+    "fact": "Midnight blue ink stains on the right sleeve of Janussi\u2019s tunic \u2014 the working hand \u2014 confirm he was actively taking notes at the time of death, suggesting he was interrupted while writing.",
+    "source_quote": "Writing hand, fresh stains. A man interrupted at work.",
+    "quote_verified": true
+  },
+  {
     "type": "thread",
-    "subject": "purpose of the finger-to-lip gesture",
-    "fact": "The pattern of black substance on finger and lip mirrors the habitual gesture of a reader wetting their fingertip to turn pages \u2014 implying the victim was reading or writing when attacked, and the assailant may have used this gesture to apply the poison as part of a cursed text or sentient ink.",
+    "subject": "the reading poison mechanism",
+    "fact": "The pattern of black substance on finger and lip suggests Janussi was wetting his fingertip to turn pages \u2014 and that the pages themselves may have been the source of the poison, implying a magical or sentient text that consumes those who read it.",
     "source_quote": "Turning pages, wetting the fingertip the way readers do without thinking, a hundred times an hour, never once considering that the page might be the thing reading them.",
     "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir identified the potential link between Glabbagool\u2019s Underdark ingestion and the unidentifiable poison, providing the critical investigative angle that led to confirming the substance\u2019s danger.",
+    "source_quote": "Wouldn't Glabbagool have ingested, like, all sorts of different kinds of materials and poisons and goo in the Underdark?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum correctly determined the nose was broken pre-mortem by analyzing bruising patterns, and later confirmed the wound was cleanly inflicted, suggesting a skilled assailant.",
+    "source_quote": "His read of the wound came clean \u2014 sharp work this time \u2014 and the nose had broken before death.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin noted the chipped tooth was a recent injury and questioned whether it was tied to the murder or a prior event, contributing to the logical separation of two possible narratives.",
+    "source_quote": "So either that was related to him being murdered, immediately as part of the murder, or it was something we need to investigate \u2014 how did he chip the tooth recently?",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the identity of the killer",
+    "fact": "The killer acted with calm precision, showed no urgency, and performed a ritualistic desecration \u2014 suggesting a person with intimate knowledge of magical protections and a motive beyond simple murder.",
+    "source_quote": "Whoever did this had not been in a rush. He had not been trying to kill. He had been desecrating a corpse at his leisure, with nowhere to be.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Candlekeep Scribes",
+    "fact": "The use of midnight blue ink \u2014 the ink used in Candlekeep\u2019s books \u2014 confirms Janussi was engaged in official transcription work, implicating the Archive\u2019s internal practices or texts as potential sources of the threat.",
+    "source_quote": "Wasn't the blue ink \u2014 the ink they used in the books?",
+    "quote_verified": true
   }
 ]

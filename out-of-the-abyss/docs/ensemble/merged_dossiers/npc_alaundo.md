@@ -8,14 +8,14 @@ chapters: 56-56
 ### Alaundo
 
 - **Current status:** Alive  
-- **Current location:** Unknown (not specified)  
-- **Allegiance/faction:** None specified  
+- **Current location:** Candlekeep  
+- **Allegiance/faction:** Associated with Candlekeep  
 - **Current possessions / notable items, spells, feats, wounds:** None specified  
-- **Current assignment / role and key relationships:** None specified  
-- **Defining recent actions:** None specified beyond the established pattern of accurate prophecies  
+- **Current assignment / role and key relationships:** His prophecies are continuously recited by Candlekeep until fulfilled; he is the source of these prophecies.  
+- **Defining recent actions:** His prophecies remain unfulfilled and are actively maintained in Candlekeep’s recitations.  
 - **Revealed motivations or secrets:** None specified  
 
 ## Uncertainty
-- Location, current activities, and any relationships or possessions are not stated.  
-- No recent prophecy or action is detailed — only the general pattern of accuracy is confirmed.  
-- No other attributes (age, appearance, faction, etc.) are provided.
+- No information on his current physical condition, activities, or whether he is actively residing in Candlekeep or merely its historical figure.  
+- No clarity on whether he is still producing new prophecies or if only past ones are being recited.  
+- No details on relationships with specific individuals at Candlekeep.

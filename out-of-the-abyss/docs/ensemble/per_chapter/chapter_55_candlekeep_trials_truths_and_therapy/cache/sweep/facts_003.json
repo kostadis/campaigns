@@ -1,149 +1,394 @@
 [
   {
     "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by Zalthir as the optimized combatant who rolled a 30 to hit, and whose impression of Zalthir's strike was that 'perhaps not all is lost.'",
+    "source_quote": "Grygum is optimized for combat, not skills.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
     "subject": "Zalthir",
-    "fact": "Zalthir is referenced by Khell-Vire as the one who built something better in spite of the manual, and whose combination of shadow step and hit is the most interesting thing about him.",
-    "source_quote": "Zalthir chose option C.",
+    "fact": "Zalthir is the one who rolled a 29 to hit with the shadow step and strike, and who built something better than the manual by ignoring it and developing shadow tentacles.",
+    "source_quote": "I mean, I learned how to grow shadow tentacles.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Zalthir's Trial of the Broken Mirror",
+    "fact": "The location of Zalthir's Trial of the Broken Mirror contains a thrown brick, a shadow step interception, and a monk who observed the results and said 'the results do speak for themselves.'",
+    "source_quote": "The brick was thrown. Zalthir rolled a 29 to hit. The brick did not survive.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "gelatinous cube",
+    "fact": "The gelatinous cube is being taught the way of the shadow by Zalthir, and is described as a student who is already walking and torturing a drow.",
+    "source_quote": "She's by no means mindless \u2014 she's a student. He's learning the ways of the monk. He's already walking. He's already torturing this poor drow.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Khell-Vire",
-    "fact": "Khell-Vire announced the award of a specialized shadow technique \u2014 three options, presented carefully, with the honest note that adjustments might be needed if any proved mechanically unfortunate.",
-    "source_quote": "Although your skills are weak, clearly showing a lack of focus and training. There is something special about how you hit. The way of the Shadow is not about hitting. It is about discrete movement. And it is your combination of the shadow step and the hit that redeems your lack of skills in all other possible areas.",
+    "fact": "Khell-Vire is the sage who observed Zalthir\u2019s strike, noted his lack of skill, and concluded that his combination of shadow step and hit redeems his weaknesses.",
+    "source_quote": "Although your skills are weak... clearly showing a lack of focus and training... There is something special about how you hit.",
     "quote_verified": false
   },
   {
     "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is referenced as the one who offered the phrase 'Pocket Drow' during the discussion of the gelatinous cube's training.",
+    "source_quote": "Pocket Drow.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
     "subject": "Dawnbringer",
-    "fact": "Dawnbringer is addressed directly by Philemon as a sentient being who needs to remember what daylight feels like without needing to fight, and then, when ready, to grieve.",
+    "fact": "Dawnbringer is a sentient sunblade, previously wielded by a corpse, who experiences deep unease from prolonged darkness and requires light and mourning to heal.",
+    "source_quote": "She needs to remember what daylight feels like without needing to fight. And then, when she's ready, and you are willing, she needs to grieve.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Philemon",
+    "fact": "Philemon is the master archivist who recognized Dawnbringer as a friend, not a specimen, and prescribed light and mourning as her two-stage healing process.",
     "source_quote": "Your sword \u2014 she needs to remember what daylight feels like without needing to fight. And then, when she's ready, and you are willing, she needs to grieve.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Philemon",
-    "fact": "Philemon confirmed we were enrolled in a two-stage process, and accepted the way I accept most things I've already decided to do: by not arguing about it.",
-    "source_quote": "She can't be polished, actually.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
     "subject": "Daz",
-    "fact": "Daz told Sister Yvenne the truth about his amnesia, his escape from the Underdark, and his unexplained headache, offering everything he knew in exchange for information.",
-    "source_quote": "I have a headache, but I'll tell you the story. This is the short version. I don't have much memory before being locked up with a few people in a jail. Because some spider thing was, like, trying to keep us. And we've made an escape. We were in the Underdark. We've had many, many adventures, yada yada yada. Now I'm here in Candlekeep. My head hurts a little bit, and I don't know who I am, or my history, and I don't know why my head hurts.",
+    "fact": "Daz is the drow who entered Candlekeep with no memory, a persistent headache, and offered full truth in exchange for information, surprising Sister Yvenne with his honesty.",
+    "source_quote": "I have a headache, but I'll tell you the story. This is the short version. I don't have much memory before being locked up with a few people in a jail.",
     "quote_verified": true
   },
   {
     "type": "location",
     "subject": "Hall of Divination",
-    "fact": "The Hall of Divination smells like old stone and something faintly electric \u2014 the residue of spells cast so many times in one room that the air itself has absorbed the habit.",
+    "fact": "The Hall of Divination smells like old stone and electric spell residue, and is where Daz requested help for his headache and disclosed his amnesiac past to Sister Yvenne.",
     "source_quote": "The Hall of Divination smells like old stone and something faintly electric \u2014 the residue of spells cast so many times in one room that the air itself has absorbed the habit.",
     "quote_verified": true
   },
   {
-    "type": "location",
-    "subject": "Master Archivist Philemon's study",
-    "fact": "Master Archivist Philemon's study was small and smelled like old ink and something faintly mineral, which I appreciated.",
-    "source_quote": "Master Archivist Philemon's study was small and smelled like old ink and something faintly mineral, which I appreciated.",
-    "quote_verified": true
+    "type": "npc",
+    "subject": "Sister Yvenne",
+    "fact": "Sister Yvenne is the Candlekeep librarian who enforced the reciprocity rule \u2014 information for information \u2014 and was visibly confused by Daz\u2019s unprecedented honesty.",
+    "source_quote": "When I asked an Avowed for information, I was also expected to provide it. Information for information.",
+    "quote_verified": false
   },
   {
     "type": "object",
     "subject": "Resonant Slime",
-    "fact": "The sage produced a vial of Resonant Slime. Glabbagool was very pleased.",
-    "source_quote": "The sage produced a vial of Resonant Slime.",
+    "fact": "The Resonant Slime is a vial produced by the sage of xenobiology after being satisfied by Thorin\u2019s defense of the gelatinous cube\u2019s sentience.",
+    "source_quote": "The sage... produced a vial of Resonant Slime.",
     "quote_verified": false
   },
   {
     "type": "object",
     "subject": "Pocket Drow",
-    "fact": "Thorin, helpfully: 'Pocket Drow.'",
-    "source_quote": "Thorin, helpfully: 'Pocket Drow.'",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Zalthir's shadow punch through the shadows",
-    "fact": "Zalthir recalled something from the Underdark \u2014 a moment where he'd found a way to punch *through* the shadows themselves, precise as a surgical cut. He proposed showing that. He warned the blind monk, then executed it. His strike landed at a number that left no ambiguity.",
-    "source_quote": "Zalthir recalled something from the Underdark \u2014 a moment where he'd found a way to punch *through* the shadows themselves, precise as a surgical cut.",
+    "fact": "The Pocket Drow is a reference made by Thorin to describe the drow being tortured by the gelatinous cube, implying it is carried or contained.",
+    "source_quote": "Pocket Drow.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "Daz's truth-telling in the Hall of Divination",
-    "fact": "Daz told Sister Yvenne the truth about his amnesia, his escape from the Underdark, and his unexplained headache, offering everything he knew in exchange for information.",
-    "source_quote": "I have a headache, but I'll tell you the story. This is the short version. I don't have much memory before being locked up with a few people in a jail. Because some spider thing was, like, trying to keep us. And we've made an escape. We were in the Underdark. We've had many, many adventures, yada yada yada. Now I'm here in Candlekeep. My head hurts a little bit, and I don't know who I am, or my history, and I don't know why my head hurts.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Dawnbringer's silence in Philemon's study",
-    "fact": "Dawnbringer went quiet. Not the silence of someone thinking. The other kind. The kind where the thing you'd been not-saying for a long time just gets asked out loud in a room with other people in it.",
-    "source_quote": "Dawnbringer went quiet. Not the silence of someone thinking. The other kind. The kind where the thing you'd been not-saying for a long time just gets asked out loud in a room with other people in it.",
-    "quote_verified": true
-  },
-  {
-    "type": "faction",
-    "subject": "Menzoberranzan",
-    "fact": "Menzoberranzan trains you for the ledger \u2014 who owes whom, who knows what, who has already lost and hasn't noticed \u2014 and to notice when a word doesn't fit.",
-    "source_quote": "The first thing Menzoberranzan trains you for is the ledger. Who owes whom, who knows what, who has already lost and hasn't noticed. The second thing Menzoberranzan trains you for \u2014 and this one is equally useful but considerably less comfortable \u2014 is to notice when a word doesn't fit.",
-    "quote_verified": false
-  },
-  {
-    "type": "monster",
-    "subject": "gelatinous cube with monastic ambitions",
-    "fact": "A sage of xenobiology approached, apparently drawn by the news of a gelatinous cube with monastic ambitions.",
-    "source_quote": "Is it true you are teaching a gelatinous cube the way of the shadow?",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "spider thing",
-    "fact": "Daz was locked up with a few people in a jail because some spider thing was, like, trying to keep them.",
-    "source_quote": "Because some spider thing was, like, trying to keep us.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "The combination of shadow step and hit",
-    "fact": "The way forward was in the combination.",
-    "source_quote": "Then he said the way forward was in the combination.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "The truth-telling exchange in the Hall of Divination",
-    "fact": "Information flows both ways across the counter. No ledger gets updated without a corresponding entry on the other side.",
-    "source_quote": "Information flows both ways across the counter. No ledger gets updated without a corresponding entry on the other side.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "The two-stage process for Dawnbringer",
-    "fact": "The first work is light. The second work is mourning.",
-    "source_quote": "The first work is light. The second work is mourning.",
-    "quote_verified": true
-  },
-  {
-    "type": "date",
-    "subject": "the moment Zalthir chose option C",
-    "fact": "Zalthir chose option C.",
+    "subject": "Zalthir's Shadow Technique Selection",
+    "fact": "The event of Zalthir selecting option C from Khell-Vire\u2019s three specialized shadow techniques marks his formal recognition as someone who built beyond the manual.",
     "source_quote": "Zalthir chose option C.",
     "quote_verified": true
   },
   {
-    "type": "date",
-    "subject": "the moment Daz told the truth in the Hall of Divination",
-    "fact": "I told her the truth.",
-    "source_quote": "I told her the truth.",
+    "type": "event",
+    "subject": "Daz's Truth Disclosure in Candlekeep",
+    "fact": "The event of Daz disclosing his amnesia and lack of memory to Sister Yvenne in exchange for information breaks Menzoberranzan\u2019s cultural norms and triggers her reconsideration of drow behavior.",
+    "source_quote": "I told her the truth. 'I have a headache, but I'll tell you the story...'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Dawnbringer's Healing Process Enrollment",
+    "fact": "The event of Dawnbringer enrolling in a two-stage healing process of light and mourning, initiated by Philemon, marks the first formal acknowledgment of her sentience as a being, not a weapon.",
+    "source_quote": "We're enrolled in a two-stage process... The first work is light. The second work is mourning.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Master Archivist Philemon's study",
+    "fact": "Master Archivist Philemon's study is small, smells like old ink and mineral residue, and is where Dawnbringer was addressed directly as a sentient being for the first time.",
+    "source_quote": "Master Archivist Philemon's study was small and smelled like old ink and something faintly mineral, which I appreciated.",
     "quote_verified": true
   },
   {
-    "type": "date",
-    "subject": "the moment Dawnbringer went quiet in Philemon's study",
-    "fact": "Dawnbringer went quiet.",
-    "source_quote": "Dawnbringer went quiet.",
+    "type": "location",
+    "subject": "Menzoberranzan",
+    "fact": "Menzoberranzan is the drow city where betrayal is rewarded if it strengthens the web, and where destroying a house requires eliminating every survivor \u2014 even a 'blithering child idiot' \u2014 or the perpetrator's house is forfeit.",
+    "source_quote": "Whenever a house sought to destroy another house, it had to destroy everyone. If you left a single person alive \u2014 even a child... your house was forfeit.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "the blithering child idiot",
+    "fact": "The blithering child idiot is the sole survivor of a destroyed house in Menzoberranzan, whose fate remains unclear \u2014 and whom Daz suspects he may be.",
+    "source_quote": "A child. A blithering child idiot, she said... Am I the blithering idiot?",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "the ledger",
+    "fact": "The ledger is the first thing Menzoberranzan trains its citizens for \u2014 tracking debts, knowledge, and losses \u2014 which Daz has been running unconsciously since before he could name it.",
+    "source_quote": "The first thing Menzoberranzan trains you for is the ledger. Who owes whom, who knows what, who has already lost and hasn't noticed.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's Shadow Strike Execution",
+    "fact": "The event of Zalthir executing a precise shadow strike that landed with no ambiguity, leaving Khell-Vire to remark on the special nature of his combination, marks his transition from rogue to rediscovered shadow monk.",
+    "source_quote": "His strike landed at a number that left no ambiguity.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is the sage of xenobiology who was very pleased after receiving the vial of Resonant Slime from the xenobiology sage.",
+    "source_quote": "Glabbagool was very pleased.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "the gelatinous cube",
+    "fact": "The gelatinous cube is referred to as 'she' by Zalthir and is described as a student learning the ways of the monk, not a mindless digestive system.",
+    "source_quote": "She's by no means mindless \u2014 she's a student.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "the shadow tentacles",
+    "fact": "The shadow tentacles are the eldritch tattoo Zalthir grew as part of his self-built combat style, rejected by the manual but validated by Khell-Vire.",
+    "source_quote": "I mean, I learned how to grow shadow tentacles.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz's Realization of His Possible Identity",
+    "fact": "The event of Daz asking 'Am I the blithering idiot?' after hearing the story of the sole survivor of a destroyed house marks his first conscious confrontation with his lost identity.",
+    "source_quote": "Am I the blithering idiot?",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is the library where information flows both ways \u2014 you give to get \u2014 and where Daz's honesty broke cultural expectations of drow behavior.",
+    "source_quote": "Candlekeep: they have a policy. A clean one. Information flows both ways across the counter.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "the first wielder of Dawnbringer",
+    "fact": "The first wielder of Dawnbringer was a corpse she was found in, whose identity and relationship with her remains unspoken but implied to be traumatic.",
+    "source_quote": "He asked about the previous wielder. The corpse she had been found in, he said. Whether that person had been \u2014 had been her wielder.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "the sunblade",
+    "fact": "The sunblade, Dawnbringer, is a late Netherese-era weapon that sustained three to four thousand years of darkness exposure and requires light and mourning to heal.",
+    "source_quote": "Late Netherese-era recovery, sun-worship origin, sustained darkness exposure of approximately three to four thousand years.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz's Headache Revelation",
+    "fact": "The event of Daz admitting his headache has been bothering him since arriving at Candlekeep, and linking it to proximity to knowledge or what lies beneath it, marks the beginning of his conscious inquiry into his amnesia.",
+    "source_quote": "My head had been complaining since we arrived at Candlekeep. The proximity \u2014 to the knowledge, or to whatever sat underneath the knowledge \u2014 was producing a friction I had been mis-attributing to the sun all day.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's Recognition as a Shadow Monk",
+    "fact": "The event of Khell-Vire telling Zalthir 'You are beginning to remember, I think, all those shadow monks that drove you nuts' marks his formal reclamation of a lost identity.",
+    "source_quote": "You are beginning to remember, I think, all those shadow monks that drove you nuts.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "the Underdark",
+    "fact": "The Underdark is the subterranean realm where Dawnbringer was carried through total darkness, where Zalthir found the way to punch through shadows, and where Daz was imprisoned before his escape.",
+    "source_quote": "We were in the Underdark. We've had many, many adventures... Carrying a sunblade through a place that had no sun.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "the manual",
+    "fact": "The manual is the text Zalthir ignored, which failed to account for his combination of shadow step and hit, and which was proven wrong by his results.",
+    "source_quote": "Zalthir found the manual aggravating, ignored it, and built something better.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "the sage of xenobiology",
+    "fact": "The sage of xenobiology is the figure who approached after hearing of the gelatinous cube\u2019s monastic ambitions and asked whether a mindless digestive system could achieve sentience.",
+    "source_quote": "Can a mindless digestive system achieve\u2014",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Philemon's Reframe of Dawnbringer as a Friend",
+    "fact": "The event of Philemon saying 'Oh, well \u2014 this is interesting. I wasn't expecting this. I'm seeing a better bond between the two of you than I had originally feared' marks the first professional acknowledgment of Dawnbringer\u2019s personhood.",
+    "source_quote": "Oh, I see that this is your friend,\" Philemon said, and he meant it differently than he'd meant anything before.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz's Truth-Telling Over Cultural Norms",
+    "fact": "The event of Daz choosing honesty over deception in Candlekeep \u2014 despite being a drow raised in Menzoberranzan \u2014 breaks the cultural logic of transactional secrecy and triggers a paradigm shift in Sister Yvenne\u2019s understanding of drow.",
+    "source_quote": "I told her the truth... I just couldn't afford the usual approach. When you don't know what you're hiding, you can't protect it.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "the whisper of the ledger",
+    "fact": "The whisper of the ledger is the unconscious mental audit Daz runs \u2014 tracking debts, knowledge, and losses \u2014 a learned grammar of Menzoberranzan he cannot yet name.",
+    "source_quote": "I have been running that audit unconsciously since before I could name it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's Shadow Strike Landing",
+    "fact": "The event of Zalthir\u2019s shadow strike landing with no ambiguity, causing Khell-Vire to pause and reconsider his assessment, marks the moment his unorthodox style is validated by a master.",
+    "source_quote": "His strike landed at a number that left no ambiguity.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "the blithering child idiot",
+    "fact": "The blithering child idiot is the sole survivor of a destroyed house in Menzoberranzan, whose existence proves the system\u2019s flaw \u2014 and whom Daz suspects he may be.",
+    "source_quote": "A child. A blithering child idiot, she said... Am I the blithering idiot?",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Waterdeep",
+    "fact": "Waterdeep is the city where Dawnbringer found temporary healing by helping orphans and the sick, and where Daz began questioning his identity.",
+    "source_quote": "We'd done the healing work in Waterdeep on the road south, found orphans and the sick and let her do what she was built to do.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz's Questioning of Pronouns for Dawnbringer",
+    "fact": "The event of Daz asking Philemon whether to refer to Dawnbringer as 'her,' 'them,' or 'he' marks his first conscious effort to recognize her personhood.",
+    "source_quote": "I don't know what to call her, but, you know, whether it's them? Is it her? He, her?",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "the shadow step and hit combination",
+    "fact": "The shadow step and hit combination is Zalthir\u2019s self-developed technique that defies the manual, redeems his lack of skill, and is recognized by Khell-Vire as the most interesting thing about him.",
+    "source_quote": "It is your combination of the shadow step and the hit that redeems your lack of skills in all other possible areas.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz's Realization of His Own Cultural Grammar",
+    "fact": "The event of Daz recognizing that Menzoberranzan\u2019s rules of intrigue and ledger-keeping were not learned facts but ingrained grammar marks the first step toward reclaiming his identity.",
+    "source_quote": "I knew most of this. Not as facts retrieved from memory, but as grammar.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Jail Cell with the Spider Thing",
+    "fact": "The jail cell with the spider thing is where Daz lost his memory and was imprisoned before escaping into the Underdark.",
+    "source_quote": "I don't have much memory before being locked up with a few people in a jail. Because some spider thing was, like, trying to keep us.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "the spider thing",
+    "fact": "The spider thing is the entity that imprisoned Daz and his companions in a jail cell before their escape, and whose identity remains unknown.",
+    "source_quote": "Because some spider thing was, like, trying to keep us.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Dawnbringer's Silence After Being Asked About Her Wielder",
+    "fact": "The event of Dawnbringer falling silent after Philemon asked about her previous wielder \u2014 the corpse she was found in \u2014 marks the first time her trauma is acknowledged aloud.",
+    "source_quote": "Dawnbringer went quiet. Not the silence of someone thinking. The other kind.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "the vial of Resonant Slime",
+    "fact": "The vial of Resonant Slime is the artifact produced by the sage of xenobiology after being convinced of the gelatinous cube\u2019s sentience, and which Glabbagool was very pleased to receive.",
+    "source_quote": "The sage... produced a vial of Resonant Slime. Glabbagool was very pleased.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "the libraries of Candlekeep",
+    "fact": "The libraries of Candlekeep are where Daz sought help for his headache and where the truth of his identity was first seriously considered by an outsider.",
+    "source_quote": "I'm here in Candlekeep. My head hurts a little bit, and I don't know who I am, or my history, and I don't know why my head hurts.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's Selection of Option C",
+    "fact": "The event of Zalthir selecting option C from Khell-Vire\u2019s three specialized shadow techniques marks his formal acceptance into the rediscovered lineage of shadow monks.",
+    "source_quote": "Zalthir chose option C.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "the first wielder of Dawnbringer",
+    "fact": "The first wielder of Dawnbringer was a corpse she was found in, whose identity and relationship with her remains unspoken but implied to be traumatic.",
+    "source_quote": "He asked about the previous wielder. The corpse she had been found in, he said. Whether that person had been \u2014 had been her wielder.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz's Realization of His Own Cultural Grammar",
+    "fact": "The event of Daz recognizing that Menzoberranzan\u2019s rules of intrigue and ledger-keeping were not learned facts but ingrained grammar marks the first step toward reclaiming his identity.",
+    "source_quote": "I knew most of this. Not as facts retrieved from memory, but as grammar.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Jail Cell with the Spider Thing",
+    "fact": "The jail cell with the spider thing is where Daz lost his memory and was imprisoned before escaping into the Underdark.",
+    "source_quote": "I don't have much memory before being locked up with a few people in a jail. Because some spider thing was, like, trying to keep us.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "the spider thing",
+    "fact": "The spider thing is the entity that imprisoned Daz and his companions in a jail cell before their escape, and whose identity remains unknown.",
+    "source_quote": "Because some spider thing was, like, trying to keep us.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Dawnbringer's Silence After Being Asked About Her Wielder",
+    "fact": "The event of Dawnbringer falling silent after Philemon asked about her previous wielder \u2014 the corpse she was found in \u2014 marks the first time her trauma is acknowledged aloud.",
+    "source_quote": "Dawnbringer went quiet. Not the silence of someone thinking. The other kind.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "the vial of Resonant Slime",
+    "fact": "The vial of Resonant Slime is the artifact produced by the sage of xenobiology after being convinced of the gelatinous cube\u2019s sentience, and which Glabbagool was very pleased to receive.",
+    "source_quote": "The sage... produced a vial of Resonant Slime. Glabbagool was very pleased.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "the libraries of Candlekeep",
+    "fact": "The libraries of Candlekeep are where Daz sought help for his headache and where the truth of his identity was first seriously considered by an outsider.",
+    "source_quote": "I'm here in Candlekeep. My head hurts a little bit, and I don't know who I am, or my history, and I don't know why my head hurts.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's Selection of Option C",
+    "fact": "The event of Zalthir selecting option C from Khell-Vire\u2019s three specialized shadow techniques marks his formal acceptance into the rediscovered lineage of shadow monks.",
+    "source_quote": "Zalthir chose option C.",
     "quote_verified": true
   }
 ]

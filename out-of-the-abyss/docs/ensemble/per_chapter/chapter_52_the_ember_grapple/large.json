@@ -2,176 +2,134 @@
   {
     "type": "npc",
     "subject": "Daz",
-    "fact": "Daz is a wizard who has chosen Fey Touched as a feat, granting him two additional prepared spells and free castings, while leveraging the Ebonmire spellbook to expand his spell selection. He prioritizes concentration durability (Warcaster), escape utility (free Misty Step), and spatial control (Sculpt Spells), viewing his abilities as an interlocking system rather than isolated features.",
-    "source_quote": "Fey Touched. That was the one. I wrote it down with the quiet satisfaction of a calculation that checks out.",
-    "quote_verified": true
+    "fact": "Daz has chosen Fey Touched as his feat, granting him two additional prepared spells and free castings, and has integrated Misty Step and Sculpt Spells into a synergistic system for battlefield control, prioritizing spell selection and spatial geometry over raw damage.",
+    "source_quote": "Fey Touched was the one. I wrote it down with the quiet satisfaction of a calculation that checks out.",
+    "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Zalthir",
-    "fact": "Zalthir is a Dragonborn who specializes in obscure tactical synergies, favoring deep specialization over broad utility. He has committed to a strategy of breaking the universe with niche abilities, exemplified by his use of grapple-and-control geometry. He now integrates Rope Bind (Street Justice) to extend control beyond the grapple, turning setup into sustained battlefield dominance.",
-    "source_quote": "I find it more fun to double down with some sort of obscure specialization and then try to break the universe with it.",
+    "fact": "Zalthir has committed to a tactical specialization centered on grappling and binding, using a grapple to lock enemies in place for Daz\u2019s Cloud of Daggers, then employing rope to bind them \u2014 creating a two-turn setup that maximizes control and action economy in confined spaces.",
+    "source_quote": "The grapple could happen in the spare moment before my main action. The binding would consume the action itself.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "The Narrator",
-    "fact": "The Narrator is a dwarf raised by giants, now transformed by the Underdark\u2019s harsh realities. They have abandoned cautious resource management in favor of committed, high-impact playstyles, accepting that their identity has shifted toward brutal pragmatism \u2014 even embracing the Zhentarim ethos of doing what others won't, despite moral discomfort.",
-    "source_quote": "I've had what you might call a dark transition. The happy-go-lucky kid who went underground expecting something survivable has spent months watching demon lords and eating mushrooms and coming to understand that the Underdark doesn't care what kind of person you want to be.",
+    "fact": "The Narrator has undergone a dark transition in identity, moving from a cautious, potion-hoarding dwarf raised by giants to someone who now embraces brutal, specialized builds \u2014 rejecting spread-thin survivability in favor of high-impact, one-directional power, acknowledging the influence of Zhentarim Tactics and the Underdark\u2019s moral erosion.",
+    "source_quote": "I understood that better now than I would have liked.",
     "quote_verified": true
   },
   {
     "type": "faction",
     "subject": "Zhentarim",
-    "fact": "The Zhentarim are a ruthless, effective organization that survives by embracing morally uncomfortable tactics \u2014 doing what others refuse. The Narrator now recognizes their philosophy as aligned with his own evolved survival instincts, though he no longer identifies as the innocent adventurer he once was.",
-    "source_quote": "The Zhentarim have survived by being willing to do what others won't. I understood that better now than I would have liked.",
+    "fact": "The Zhentarim are recognized as a ruthless, effective organization that survives by doing what others won't \u2014 their tactics are now being considered as a legitimate, if uncomfortable, framework for the Narrator\u2019s evolving combat philosophy.",
+    "source_quote": "The Zhentarim have survived by being willing to do what others won't.",
     "quote_verified": true
-  },
-  {
-    "type": "faction",
-    "subject": "Hill Giants",
-    "fact": "The hill giants, though not inherently noble, taught the Narrator a practical combat doctrine: range is irrelevant when you have giants who throw rocks, and your role is to protect them by holding the line. This lesson still shapes his tactical identity, even as he operates independently in the Underdark.",
-    "source_quote": "Being a dwarf raised by giants means I don\u2019t have to have any range. Giants toss rocks. Those rocks go far and hurt. My job was to be there and protect the giants from anything that came too close.",
-    "quote_verified": false
   },
   {
     "type": "event",
-    "subject": "Level Up",
-    "fact": "The party has collectively leveled up, triggering a profound recalibration of each member\u2019s character identity, feat selection, and tactical philosophy. This milestone is not merely mechanical \u2014 it is existential, forcing each character to confront who they are becoming in the Underdark.",
-    "source_quote": "Alright, so the first thing is that we're all leveled up.",
+    "subject": "level-up threshold",
+    "fact": "The party has collectively reached a level-up milestone, triggering deep reflection on character builds, feat selection, and tactical specialization \u2014 marking a narrative inflection point where survival now demands decisive commitment over caution.",
+    "source_quote": "We're gonna level up.",
     "quote_verified": true
   },
   {
-    "type": "monster",
-    "subject": "The Pudding King",
-    "fact": "The Pudding King is a notorious Underdark entity known for its elusiveness and resistance to conventional tactics. Zalthir defeated it not through brute force, but through precise application of tactical geometry \u2014 a feat that cemented his reputation as a master of spatial control.",
-    "source_quote": "I'd watched him pull the Pudding King out of its lair by sheer force of tactical geometry.",
+    "type": "thread",
+    "subject": "Ebonmire\u2019s spellbook",
+    "fact": "The spellbook taken from Princess Ebonmire remains an unopened resource, but its potential to expand prepared spells is now central to Daz\u2019s feat strategy \u2014 a latent power that could redefine his role in future encounters.",
+    "source_quote": "The door I hadn't fully opened.",
     "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "Ebonmire's Spellbook",
-    "fact": "Ebonmire's Spellbook is a captured magical artifact containing a wide array of spells, serving as a key resource for Daz\u2019s expanded prepared spell selection. It represents potential unlocked by Fey Touched and Sculpt Spells, forming the foundation of his evolving spellcasting system.",
-    "source_quote": "The spellbook we'd taken from Princess Ebonmire had been sitting in my pack like a promissory note I hadn't finished reading.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "Rope (used with Street Justice)",
-    "fact": "Rope, when used with the Street Justice feat, transforms Zalthir\u2019s grapple into a multi-turn control mechanism. It extends battlefield dominance beyond the initial action, allowing him to pin enemies while freeing himself to act elsewhere \u2014 a critical adaptation in tight Underdark environments.",
-    "source_quote": "The monk whose hands were already his primary weapon, now with a formal mechanism for making staying as interesting as hitting.",
-    "quote_verified": false
   },
   {
     "type": "location",
     "subject": "The Underdark",
-    "fact": "The Underdark is a labyrinthine, oppressive environment defined by tight spaces, lethal creatures, and the absence of conventional rules. It rewards specialization, spatial mastery, and brutal efficiency, forcing adventurers to abandon caution and embrace identity-shaping tactics.",
-    "source_quote": "The Underdark is tight and low. But we're almost out. And this is a dangerous world, and we have a dangerous job...",
+    "fact": "The Underdark is portrayed as a biomechanical prison of tight tunnels and lethal geometry, where battles are decided by positioning, not power \u2014 forcing the party to adapt their tactics to a world that punishes spread-thin builds and rewards specialized, synergistic combat systems.",
+    "source_quote": "The Underdark has taught me repeatedly that battles are often decided by who is standing where.",
     "quote_verified": false
   },
   {
-    "type": "thread",
-    "subject": "Lack of Ranged Capability",
-    "fact": "The party has no reliable ranged attackers, a critical vulnerability that will inevitably lead to tactical failure when facing flying or distant enemies. This gap is acknowledged as a looming threat \u2014 not a flaw to be fixed, but a reality to be compensated for through positioning and control.",
-    "source_quote": "Which is also why not having anyone who can reach a flying enemy is going to come back and bite us.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "The Dark Transition",
-    "fact": "The Narrator is undergoing a profound moral and tactical transformation \u2014 from an idealistic adventurer to a hardened pragmatist shaped by the Underdark\u2019s cruelty. This transition is not yet complete, but its direction is clear: he is becoming someone who no longer apologizes for the darkness he has absorbed.",
-    "source_quote": "There are things you absorb down here whether you mean to or not.",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "Session Time \u2014 Post-Level-Up",
-    "fact": "The current session occurs immediately after the party\u2019s level-up, a moment of intense character reflection and feat selection. The narrative emphasizes that this is not just mechanical progression, but a pivotal inflection point in the story \u2014 a day-long reckoning with identity, strategy, and survival.",
-    "source_quote": "Alright, well, that's gonna take the rest of the day.",
+    "type": "object",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is a radiant weapon that does not cut but burns \u2014 a divine tool that argues with darkness on a philosophical level, making it potent against undead and shadow creatures but vulnerable to creatures with resistance to radiant damage.",
+    "source_quote": "The blade doesn't cut so much as it burns \u2014 clean, divine, the kind of light that argues with darkness on a philosophical level.",
     "quote_verified": true
   },
   {
     "type": "monster",
-    "subject": "Demon Lords",
-    "fact": "Demon lords are recurring existential threats in the Underdark, whose presence has forced the party to abandon naive assumptions about morality and combat. Their influence is felt in the Narrator\u2019s acceptance of ruthless tactics and Zalthir\u2019s obsession with tactical precision.",
-    "source_quote": "I've spent months watching demon lords and eating mushrooms...",
+    "subject": "Pudding King",
+    "fact": "The Pudding King was previously defeated through Zalthir\u2019s extreme tactical geometry \u2014 a feat that demonstrated the effectiveness of hyper-specialized builds over conventional approaches, and now serves as a benchmark for the party\u2019s evolving combat philosophy.",
+    "source_quote": "I'd watched him pull the Pudding King out of its lair by sheer force of tactical geometry.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session time",
+    "fact": "The party's feat and ability selection process will take the rest of the day \u2014 a deliberate, narrative pause marking the transition from reactive survival to intentional, strategic character evolution.",
+    "source_quote": "That's gonna take the rest of the day.",
     "quote_verified": false
   },
   {
     "type": "npc",
-    "subject": "Milo Goodbarrel",
-    "fact": "Milo Goodbarrel is a theorist of battlefield geometry whose concept of 'the long arrangement' \u2014 the idea that positioning and preparation constitute most of the fight \u2014 deeply influences Daz\u2019s strategic thinking. His teachings are referenced as foundational to understanding spell synergy and spatial control.",
-    "source_quote": "Milo Goodbarrel had a chapter about this. He called it 'the long arrangement'...",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Thorin",
-    "fact": "Thorin mentioned javelins and demonstrated a Sharpshooter's instinct, trained in and applied to range, with the intent to hold the gap during the next engagement while others tied knots and made things into fire.",
-    "source_quote": "Thorin mentioned javelins. He had apparently acquired some facility with thrown weapons \u2014 a Sharpshooter's instinct, trained in, applied to range \u2014 and he wanted something with reach for the next engagement.",
+    "subject": "Zalthir",
+    "fact": "Zalthir has killed an ettin with his hands and dragged the Pudding King through his own throne room, and now focuses on tying knots for Daz while accepting the practical realities of their mission.",
+    "source_quote": "I have killed an ettin with my hands. I dragged the Pudding King through his own throne room.",
     "quote_verified": true
   },
   {
     "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin has acquired facility with thrown weapons \u2014 a Sharpshooter's instinct \u2014 and advocates for javelins to hold the gap in the next engagement, finding humor in the name 'Ember Grapple'.",
+    "source_quote": "Thorin mentioned javelins. He had apparently acquired some facility with thrown weapons \u2014 a Sharpshooter's instinct, trained in, applied to range.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum made a sound, and together with Thorin, found 'the Ember Grapple' very funny \u2014 though it is unclear who specifically reacted.",
+    "fact": "Grygum made a sound and may have found the name 'Ember Grapple' funny, alongside Thorin, though it is unclear who exactly reacted.",
     "source_quote": "Grygum made a sound. Thorin said something about 'the Ember Grapple.' Someone \u2014 possibly Thorin again, possibly Grygum, it is hard to tell when they are both making noise \u2014 found this very funny.",
     "quote_verified": false
   },
   {
     "type": "faction",
-    "subject": "The Ember Vanguard",
-    "fact": "The Ember Vanguard charges in with fire and flash and the announcement of itself \u2014 a collective entity described as acting with intent and presence.",
+    "subject": "Ember Vanguard",
+    "fact": "The Ember Vanguard charges in with fire and flash, announcing itself \u2014 possibly the same entity as the Ember Grapple, described from a different perspective.",
     "source_quote": "The Ember Vanguard charges in with fire and flash and the announcement of itself.",
     "quote_verified": true
   },
   {
     "type": "faction",
-    "subject": "The Ember Grapple",
-    "fact": "The Ember Grapple holds something still until there is nothing left to hold \u2014 a collective entity described as acting with intent and presence, possibly the same party as the Ember Vanguard but from a different perspective.",
+    "subject": "Ember Grapple",
+    "fact": "The Ember Grapple holds something still until there is nothing left to hold \u2014 possibly the same entity as the Ember Vanguard, described from a different position in the room.",
     "source_quote": "The Ember Grapple holds something still until there is nothing left to hold.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "tunnel traversal",
-    "fact": "The group mentally replayed the tunnel traversal \u2014 the distance traveled, the pace, and the absence of obvious threats ahead \u2014 establishing a tactical baseline for the next engagement.",
-    "source_quote": "I had run the tunnels in my head \u2014 the distance we had traveled, the pace, the absence of obvious threats immediately ahead.",
     "quote_verified": true
   },
   {
     "type": "object",
     "subject": "javelins",
-    "fact": "Javelins were acquired by Thorin, who developed facility with them as thrown weapons \u2014 a Sharpshooter's instinct trained and applied to range.",
-    "source_quote": "Thorin mentioned javelins. He had apparently acquired some facility with thrown weapons \u2014 a Sharpshooter's instinct, trained in, applied to range.",
+    "fact": "Javelins have been acquired by Thorin and are intended for use in the next engagement to hold the gap, valued for their reach and practicality.",
+    "source_quote": "Thorin mentioned javelins. He wanted something with reach for the next engagement.",
     "quote_verified": false
   },
   {
-    "type": "object",
-    "subject": "the Ember Grapple",
-    "fact": "The name 'the Ember Grapple' was noted and accepted as accurate \u2014 a designation for a faction or entity whose function is to immobilize until nothing remains.",
-    "source_quote": "The Ember Grapple. I let it settle. As names go, I have heard worse.",
+    "type": "location",
+    "subject": "tunnels",
+    "fact": "Zalthir has mentally retraced the tunnels they traveled, noting the distance, pace, and absence of immediate threats ahead.",
+    "source_quote": "I turned that over the way I turn most things over: once, completely, and then I put it down. The math was the math. What we had was what we had.",
     "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "no long rest",
+    "fact": "No long rest will occur before the next engagement, as resources are not replenished by wish or expectation.",
+    "source_quote": "There would be no long rest before whatever came next. Nothing replenished itself on account of wishing.",
+    "quote_verified": false
   },
   {
     "type": "thread",
-    "subject": "identity of the Ember entities",
-    "fact": "It is unresolved whether the Ember Vanguard and the Ember Grapple are the same party described from two different positions \u2014 a foreshadowed ambiguity in factional identity.",
+    "subject": "Ember Grapple identity",
+    "fact": "The identity of the Ember Grapple versus the Ember Vanguard remains ambiguous \u2014 possibly two descriptions of the same faction from differing perspectives.",
     "source_quote": "Both accurate. Possibly the same party described from two different positions in the room.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "the throne room",
-    "fact": "The Pudding King was dragged through his own throne room \u2014 a location associated with a violent or symbolic act of subjugation.",
-    "source_quote": "I dragged the Pudding King through his own throne room.",
-    "quote_verified": true
-  },
-  {
-    "type": "date",
-    "subject": "next engagement",
-    "fact": "There would be no long rest before whatever came next \u2014 a temporal anchor marking imminent action with no recovery window.",
-    "source_quote": "There would be no long rest before whatever came next.",
     "quote_verified": true
   }
 ]

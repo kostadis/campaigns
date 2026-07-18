@@ -8,25 +8,29 @@ chapters: 51-60
 ### Kaelira Duskryn
 
 **Current status:** Alive  
-**Current location:** Unknown (last known interaction with investigator in ch60)  
-**Allegiance/faction:** Contracted mercenary; affiliated with Nym Duskryn as sister and co-mercenary  
-**Current possessions / notable items:** None explicitly stated; previously handled burned documents with professional focus  
-**Current assignment / role:** Contracted extractor tasked with protecting Daz; currently under investigation for her role in the extraction mission  
-**Key relationships:** Sister of Nym Duskryn; last known interaction with Daz (enforced survival in ch51); recently spoke with an investigator (ch60)  
+**Current location:** Unknown (last referenced in context of pursuing a lead on Daz’s patron, following the compromised drow scholar)  
+**Allegiance/faction:** Mercenary operative of House Duskryn; contracted through cutouts to protect Daz  
+**Current possessions / notable items, spells, feats, wounds:** None specified  
+**Current assignment / role and key relationships:**  
+- Co-hired with Nym to extract and protect Daz under a high-value, anonymous contract.  
+- Actively investigating the source of the contract after discovering the patron entry had been blank for months; regards the mystery as her most significant lead since first encountering Daz.  
+- Last seen engaging with a compromised drow scholar as a potential breakthrough in uncovering the identity of Daz’s patron — the entity tied to A’lai.  
+- Maintains professional detachment; views Daz’s value as inexplicable given his lack of noble lineage, and dismisses his self-mythologizing as typical drow delusion.  
+- Has demonstrated lethal efficiency (applauded Asha Vandree’s killing as “necessary and long overdue”) and physical dominance (hauled Daz through poison gas by force).  
+
 **Defining recent actions:**  
-- Physically extracted Daz from lethal poison gas in ch51, acting without his consent.  
-- Analyzed burned documents with methodical precision in ch53.  
-- Publicly applauded Asha’s lethal action in ch53, criticizing the group’s prior hesitation.  
-- Bluntly informed an investigator that a powerful patron was paying to protect Daz — a man with no known lineage or house affiliation — and expressed professional confusion over his inexplicable value (ch60).  
+- Investigated burned documents with analytical precision, rejecting speculation in favor of duty-bound facts.  
+- Openly questioned the logic of Daz’s protection contract, highlighting the financial absurdity of investing in a non-noble outsider.  
+- Initiated the current investigation into the blank patron entry, which led to the compromised drow scholar being identified as the first viable lead.  
 
 **Revealed motivations or secrets:**  
-- Deeply familiar with Menzoberranzan’s political calculus; dismissive of Daz’s self-mythologizing and orphan narratives.  
-- Views Daz’s existence as an anomaly in Drow society — a “nobody” worth massive investment — and suspects hidden power plays by noble houses.  
-- Prioritizes factual analysis over speculation; adheres strictly to contractual obligations: “We’re not paid to think that hard.”
+- Operates under strict professional ethics: “we’re not paid to think that hard” — yet her actions contradict this, revealing a personal obsession with resolving the mystery of Daz’s patron.  
+- Holds deep skepticism toward Drow self-delusion regarding noble bloodlines, having seen it repeatedly.  
+- The blank patron entry and its sudden re-emergence through the scholar represent the first real puzzle she has pursued beyond contract parameters — implying a hidden investment in uncovering the truth, despite her stated detachment.
 
 ## Uncertainty
-- Exact current location after ch60 is unspecified.  
-- Whether Nym is still alive or with Kaelira is unknown (Nym’s fate not confirmed after ch53).  
-- Whether Kaelira still has possession of the burned documents or any other items from the mission is unconfirmed.  
-- The identity of “someone powerful” paying to protect Daz remains unnamed and unverified.  
-- The chronology between ch53 and ch60 is ambiguous — no details confirm her activities during the intervening months.
+- The exact current location of Kaelira is unknown; she was last engaged with a compromised drow scholar, but whether she is still with them or has moved on is not confirmed.  
+- It is unclear whether Nym is still actively partnered with her — their last joint action was in ch51; no later chapter confirms Nym’s current presence or status.  
+- The nature of the “compromised drow scholar” and their direct connection to A’lai is referenced but not explained — Kaelira’s relationship to the scholar beyond “first real lead” is unspecified.  
+- While she applauded Asha Vandree’s killing, it is unclear whether Kaelira directly caused it or merely endorsed it — attribution of the act is ambiguous.  
+- The source of her personal investment in the patron mystery is unexplained — is it professional curiosity, financial incentive, or something deeper?

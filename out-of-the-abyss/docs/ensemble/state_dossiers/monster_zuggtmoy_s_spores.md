@@ -1,19 +1,19 @@
 ---
-name: Zuggtmoy's Spores
+name: Zuggtmoy's spores
 type: monster
 n_facts: 1
 chapters: 50-50
 ---
 
-### Zuggtmoy's Spores  
-**Current status:** Active, sentient fungal influence  
-**Current location:** Not specified; propagating wherever infection occurs  
-**Allegiance/faction:** Servant of Zuggtmoy  
-**Current possessions / notable items, spells, feats, wounds:** None (non-corporeal entity; operates as a magical infection)  
-**Current assignment / role and key relationships:** Vector of corruption for Zuggtmoy; induces madness, false divine visions, and irreversible fungal transformation in hosts. Directly infects minds and bodies — distinct from and more fundamental than the Heart Fungus.  
-**Defining recent actions:** Actively infecting individuals, manifesting as psychological corruption and physical mutation, as evidenced by victims exhibiting delusions of the Bride’s power and irreversible fungal transformation.  
+### Zuggtmoy's Spores
 
-## Uncertainty  
-- Exact mechanism of transmission (airborne, contact, psychic?) is not specified.  
-- Whether spores persist in the environment after host death is unconfirmed.  
-- No current host or geographic epicenter of infection is named.
+**Current status:** Active, contagious fungal infection  
+**Current location:** Underdark (widespread, not tied to a single point)  
+**Allegiance/faction:** Servant entity of Zuggtmoy  
+**Current possessions / notable items, spells, feats, wounds:** None (non-sentient pathogen)  
+**Current assignment / role:** Induce madness, delusions of divine connection, and physical transformation in host organisms; propagate through airborne or contact transmission  
+**Defining recent actions:** Infecting individuals in the Underdark, triggering psychotic episodes and bodily mutations consistent with Zuggtmoy’s influence  
+**Revealed motivations or secrets:** Functions as a biological weapon and spiritual corruption vector for Zuggtmoy, exploiting host minds to spread worship and chaos  
+
+## Uncertainty
+None.

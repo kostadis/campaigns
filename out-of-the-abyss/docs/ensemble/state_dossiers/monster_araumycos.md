@@ -8,14 +8,15 @@ chapters: 33-33
 ### Araumycos
 
 **Current status:** Alive  
-**Current location:** Underdark (specific location unspecified)  
+**Current location:** Underdark (specific location unconfirmed)  
 **Allegiance/faction:** Sovereign entity of the Myconids  
 **Current possessions / notable items, spells, feats, wounds:** None specified  
 **Current assignment / role and key relationships:** Revered as a bridegroom in a mock wedding; sovereign over the Myconids  
-**Defining recent actions:** Served as the central figure in a mock wedding ritual, indicating active ceremonial and possibly political role within Myconid society  
+**Defining recent actions:** Central figure in a mock wedding ritual, indicating active ceremonial and possibly reproductive or symbolic leadership role within Myconid society  
+**Revealed motivations or secrets:** None explicitly stated beyond its role as sovereign and bridegroom  
 
 ## Uncertainty
-- The exact physical form or size of Araumycos beyond “massive” is unspecified.  
-- Whether the “mock wedding” is an ongoing event, a one-time ritual, or a recurring tradition is unclear.  
-- No details are given about its abilities, intelligence level beyond “sentient,” or direct interactions with other entities beyond the Myconids.  
-- It is unclear if Araumycos is physically present at the wedding site or if it is a symbolic or spiritual presence.
+- The nature of its sentience (e.g., cognitive capacity, communication method) is not detailed.  
+- Whether the "mock wedding" is a literal event or symbolic metaphor is unclear.  
+- No confirmation of its physical form beyond "massive, sentient fungal growth."  
+- No current companions or subordinate Myconids are named or confirmed as still present.

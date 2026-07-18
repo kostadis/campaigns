@@ -6,10 +6,9 @@ chapters: 3-3
 ---
 
 ### shield
-- **Current holder:** Sarith  
-- **Current location:** With Sarith  
-- **Current condition:** Acquired and in possession (no damage or special properties noted)  
+- **Current holder/location:** Held by Sarith.
+- **Current condition:** Unspecified, but recently acquired.
+- **Significance:** Recently picked up by Sarith; no further properties or enchantments noted.
 
 ## Uncertainty
-- No details on the shield’s type, material, enchantments, or origin.  
-- No later chapter to override or expand on its status; current state is only known from the single mention.
+- No details on the shield’s type, material, condition, or any magical properties.

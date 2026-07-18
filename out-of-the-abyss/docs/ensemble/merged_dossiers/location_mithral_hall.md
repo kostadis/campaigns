@@ -1,20 +1,15 @@
 ---
 name: Mithral Hall
 type: location
-n_facts: 2
+n_facts: 3
 chapters: 54-54
 ---
 
 ### Mithral Hall
 
-- **Type:** Dwarven stronghold  
-- **Current state:** Active and requiring urgent diplomatic engagement  
-- **Current significance:** Destination for Eldeth’s mission to warn the dwarves of threats emerging from the Underdark  
-- **Current role:** Center for potential integration of hybrid cultural identities and response to Underdark incursions  
-- **Key recent action:** Designated as the target location for a critical diplomatic mission to relay intelligence about Underdark dangers  
+Mithral Hall is a dwarven stronghold and political center, serving as the seat of authority where formal acceptance of Thorin must occur. It is the designated destination for Eldeth to deliver her report on the Underdark’s threats, and it is explicitly linked with Gauntlgrym as part of her duty. Mithral Hall represents the threshold between the hidden Underdark world and surface dwarven authority, functioning as a gateway to legitimacy and recognition within dwarven governance.
 
 ## Uncertainty
-- The physical condition of Mithral Hall (e.g., fortified, damaged, occupied) is not described.  
-- Who currently governs or resides in Mithral Hall is unspecified.  
-- The quote about Candlekeep is unrelated to Mithral Hall and may be a misattribution or red herring — it does not describe Mithral Hall’s location or state.  
-- Whether the dwarves have received Eldeth’s warning or responded to it is unknown.
+- The current controller or ruler of Mithral Hall is not named.
+- The current state of the stronghold (e.g., occupied, fortified, in disrepair) is not specified.
+- Whether Gauntlgrym and Mithral Hall are currently allied, rival, or administratively linked beyond Eldeth’s duty is implied but not confirmed.

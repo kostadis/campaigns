@@ -13,10 +13,9 @@ chapters: 30-30
 **Current possessions / notable items:** Rags (clothing only; no other items specified)  
 **Current assignment / role:** Fellow escapee traveling with the group; not assigned a formal role  
 **Defining recent actions:** Escaped a demonic attack in the Underdark alongside the Drow, fled during the chaos, and was found starving in the crystal cavern before being invited to join the group.  
-**Revealed motivations or secrets:** Believes survival odds are highest by avoiding both Drow and demons; no other secrets revealed.
+**Revealed motivations or secrets:** Believes survival is most likely by avoiding both Drow and demons; no other secrets revealed.
 
 ## Uncertainty
-- No specific current physical condition beyond "starving" — whether she has eaten since being found is unknown.  
-- No clarification on whether "We ran" refers only to herself or includes Fuurm or others — attribution of "We" is ambiguous.  
-- No indication of current possession of any item, weapon, or tool beyond rags.  
-- No evidence of current allegiance to or interaction with any faction beyond her personal avoidance strategy.
+- No contradictions in facts, but all three entries are nearly identical and from the same chapter — no later chapter to override or clarify current state (e.g., whether she has eaten, recovered, or acquired items since).  
+- The phrase “We ran” implies she was with others (e.g., Fuurm), but it is unclear if Fuurm is still with her now — no confirmation of current companionship.  
+- Her physical condition (“starving”) is stated but not updated — it is unknown if this state persists or has improved.

@@ -1,57 +1,78 @@
 [
   {
     "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is flanked by a dead man's fungal corpse while the fight rages in all directions around him.",
+    "source_quote": "Then a spore walker climbs up behind me, because of course it does, and the first swing misses clean \u2014 the thing reaches up and just swings into nothing, which is the best that can be said about it \u2014 but the second one connects. Five damage. A glancing thing. Thorin, son of the Ember Vanguard, flanked by a dead man's fungal corpse while the fight rages in all directions around him.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum is grinding the Heart Fungus down with something that sounds like the word *Suleiman*, delivering twenty force damage per turn like a promise.",
-    "source_quote": "The thing shudders. Good. Let it shudder.",
+    "fact": "Grygum is grinding the Heart Fungus down with something that sounds like the word *Suleiman* and delivers twenty force damage per turn like a promise.",
+    "source_quote": "Behind me, deeper in the cavern, Grygum is grinding the Heart Fungus down with something that sounds like the word *Suleiman* and delivers twenty force damage per turn like a promise. The thing shudders. Good. Let it shudder.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Daz",
-    "fact": "Daz opens up with a Fireball shaped so precisely around his allies that it catches Ilvara and her precious mushroom icon in the center of it, dealing 24 damage worth of fire even through her save, and the icon smolders.",
-    "source_quote": "The mushroom is burning. Ilvara is bleeding. The math has changed.",
+    "fact": "Daz opens up with a Fireball shaped so precisely around his allies that it catches Ilvara and her precious mushroom icon in the center of it, 24 damage worth of fire finding her even through her save, and the icon smolders.",
+    "source_quote": "And then Daz opens up with a Fireball shaped so precisely around his allies that it catches Ilvara and her precious mushroom icon in the center of it, 24 damage worth of fire finding her even through her save, and the icon smolders.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Ilvara",
-    "fact": "Ilvara is bleeding after being caught in Daz's Fireball, which struck her precious mushroom icon with 24 damage despite her save, and the icon now smolders.",
+    "fact": "Ilvara is bleeding. The mushroom icon she carries is smoldering after taking 24 damage from a Fireball.",
     "source_quote": "The mushroom is burning. Ilvara is bleeding. The math has changed.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Jorlan",
-    "fact": "Jorlan is still in front of me.",
+    "fact": "Jorlan is still in front of Thorin.",
     "source_quote": "Jorlan is still in front of me, and Dawnbringer is still in my hand.",
     "quote_verified": true
   },
   {
     "type": "object",
     "subject": "Dawnbringer",
-    "fact": "Dawnbringer is still in my hand.",
+    "fact": "Dawnbringer is still in Thorin's hand.",
     "source_quote": "Jorlan is still in front of me, and Dawnbringer is still in my hand.",
     "quote_verified": true
   },
   {
     "type": "object",
     "subject": "mushroom icon",
-    "fact": "The mushroom icon is smoldering after being struck by Daz's Fireball with 24 damage, despite Ilvara's save.",
-    "source_quote": "The mushroom is burning. Ilvara is bleeding. The math has changed.",
+    "fact": "The mushroom icon carried by Ilvara is smoldering after taking 24 damage from a Fireball.",
+    "source_quote": "And then Daz opens up with a Fireball shaped so precisely around his allies that it catches Ilvara and her precious mushroom icon in the center of it, 24 damage worth of fire finding her even through her save, and the icon smolders.",
     "quote_verified": true
   },
   {
     "type": "event",
     "subject": "Fireball impact",
-    "fact": "Daz's Fireball detonated with precise targeting, catching Ilvara and her mushroom icon in the center, dealing 24 fire damage and causing the icon to smolder.",
-    "source_quote": "The mushroom is burning. Ilvara is bleeding. The math has changed.",
+    "fact": "A Fireball centered on Ilvara and her mushroom icon deals 24 damage despite her saving throw.",
+    "source_quote": "And then Daz opens up with a Fireball shaped so precisely around his allies that it catches Ilvara and her precious mushroom icon in the center of it, 24 damage worth of fire finding her even through her save, and the icon smolders.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "spore walker attack",
+    "fact": "A spore walker attacks Thorin, missing the first swing but connecting on the second for five damage.",
+    "source_quote": "Then a spore walker climbs up behind me, because of course it does, and the first swing misses clean \u2014 the thing reaches up and just swings into nothing, which is the best that can be said about it \u2014 but the second one connects. Five damage. A glancing thing.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Heart Fungus grinding",
+    "fact": "Grygum grinds the Heart Fungus, delivering twenty force damage per turn, causing it to shudder.",
+    "source_quote": "Behind me, deeper in the cavern, Grygum is grinding the Heart Fungus down with something that sounds like the word *Suleiman* and delivers twenty force damage per turn like a promise. The thing shudders. Good. Let it shudder.",
     "quote_verified": true
   },
   {
     "type": "thread",
-    "subject": "changed math",
-    "fact": "The outcome of the encounter has shifted due to the Fireball's effect on Ilvara and her icon, altering the tactical balance.",
+    "subject": "mushroom icon's fate",
+    "fact": "The mushroom icon is smoldering and Ilvara is bleeding \u2014 its survival or restoration is uncertain.",
     "source_quote": "The mushroom is burning. Ilvara is bleeding. The math has changed.",
     "quote_verified": true
   }

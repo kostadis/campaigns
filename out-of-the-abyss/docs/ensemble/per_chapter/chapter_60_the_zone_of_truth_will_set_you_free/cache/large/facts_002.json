@@ -1,149 +1,142 @@
 [
   {
     "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is dragonborn and recognizes the unspoken rapport between dragonborn that bypasses performative introductions; he intends to leverage this dynamic during the Alkrist interview.",
+    "source_quote": "Dragonborn to Dragonborn? Intimate... yeah, I'm fine with that.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
     "subject": "Alkrist",
-    "fact": "Alkrist is dragonborn and was present at the feast where something was burned \u2014 an act not yet explained, but potentially tied to the blocking of Kalan Strongbranch's proposal and the subsequent murder of Janussi.",
+    "fact": "Alkrist is dragonborn and was present at the feast where he burned something significant; his actions during the feast remain unexamined and may hold critical evidence.",
     "source_quote": "When you talk to Alkrist, there's something in the list about what Alkrist burned at the feast \u2014 you should ask about that.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Kalan Strongbranch",
-    "fact": "Kalan Strongbranch is the First Reader whose criminal investigation methodology, the Threefold Proof, was rejected and dismissed as solipsism by Janussi; he later presented the same framework to the investigation team, embedding his personal motive within institutional procedure.",
-    "source_quote": "Who can cast the truth spell? Yeah \u2014 Kalan Strongbranch.",
+    "fact": "Kalan Strongbranch is the First Reader who developed the Threefold Proof methodology, which was rejected and dismissed as solipsism by Janussi; his professional credibility is tied to the very framework now used to investigate the murder.",
+    "source_quote": "Kalan Strongbranch. The First Reader. The one with the truth-seeking spell that had already anchored the investigation once.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Sylvira",
-    "fact": "Sylvira is a tiefling researcher of infernal domains, framed for Janussi\u2019s murder; she was in a volatile relationship with the victim, had academic enemies, and was under poison\u2019s effect \u2014 still cognitively intact, willing to cooperate, and aware she is being impersonated.",
-    "source_quote": "I'm willing to collaborate with anything... and I'm delighted that you are leading the investigation.",
+    "fact": "Sylvira is a tiefling and abyssal spawn accused of murdering Janussi; she is feverish, framed, and believes she is being impersonated \u2014 she has critical knowledge about her research, rivalries, and final conversation with the victim.",
+    "source_quote": "I'm willing to collaborate with anything... I'm delighted that you are leading the investigation.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Daz",
-    "fact": "Daz is a drow investigator assigned to interview Sylvira; he is skilled at extracting testimony, understands Menzoberranzan psychological tactics, and successfully navigated Sylvira\u2019s trauma and suspicion to elicit critical information.",
-    "source_quote": "Happy to talk to Sylvira in the meantime, or whoever can.",
-    "quote_verified": false
+    "fact": "Daz is a drow investigator with experience in extracting testimony; he is conducting the interview with Sylvira and recognizes the Menzoberranzan thread influencing her perception of deception.",
+    "source_quote": "I will not call her a mark. I will call her a witness.",
+    "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum is the investigator who ascended to Janussi\u2019s third-story apartment and uncovered the academic manuscript that revealed Janussi\u2019s contemptuous rejection of Kalan\u2019s methodology \u2014 a discovery that recontextualized the entire investigation.",
-    "source_quote": "I'll head up and check that out.",
-    "quote_verified": true
+    "fact": "Grygum is an investigator who examined Janussi\u2019s third-floor chambers and discovered Janussi\u2019s scathing rejection of Kalan\u2019s methodology; he now understands Kalan\u2019s potential motive rooted in professional humiliation.",
+    "source_quote": "He wasn't interested... in creating all these rules and procedures so that Kalan could go detect a murder mystery.",
+    "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Fembris",
-    "fact": "Fembris is the investigator tasked with locating Kalan Strongbranch, recognizing his critical role in validating the investigation\u2019s framework; he operates with monastic precision and relentless focus.",
-    "source_quote": "I'm gonna have to hunt Kalan down.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "feast burning",
-    "fact": "At the feast, Alkrist burned an object \u2014 likely symbolic or ritualistic \u2014 that may represent the destruction of Kalan\u2019s rejected proposal or an act of ideological purging; this act remains unexplained and is now a key line of inquiry.",
-    "source_quote": "He apparently burnt something at the feast \u2014 that's what it says.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "proposal rejection",
-    "fact": "Janussi formally rejected Kalan Strongbranch\u2019s Threefold Proof methodology, labeling it solipsism and a vanity project \u2014 a dismissal that effectively buried Kalan\u2019s professional credibility and may have motivated his involvement in Janussi\u2019s murder.",
-    "source_quote": "Janussi had reviewed Kalan Strongbranch's proposal... found it to be solipsism, and had blocked it.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "framing of Sylvira",
-    "fact": "Sylvira was framed for Janussi\u2019s murder using magical impersonation; evidence of her likeness was placed at the scene, suggesting knowledge of her routines and appearance \u2014 likely by someone with access to her quarters or personal effects.",
-    "source_quote": "Your likeness has been seen moving around, doing things you couldn't possibly have done.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "poisoning of Sylvira",
-    "fact": "Sylvira is suffering from a slow-acting poison that mimics winter flu symptoms; it was administered to incapacitate her and prevent her from testifying, indicating the perpetrator feared her knowledge or potential cooperation.",
-    "source_quote": "She kept shuddering anyway... a cold she clearly felt in her bones.",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "impersonation magic",
-    "fact": "Someone is using magic to impersonate Sylvira \u2014 possibly to mislead investigators, plant false evidence, or create alibis \u2014 and the source of this magic remains unidentified, though likely tied to Menzoberranzan techniques.",
-    "source_quote": "Who is impersonating me?",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "truth spell anchor",
-    "fact": "Kalan\u2019s truth-seeking spell has already anchored the investigation once \u2014 suggesting it was used to validate the legitimacy of the Threefold Proof methodology; its reactivation may be necessary to expose deception in the current inquiry.",
-    "source_quote": "The one with the truth-seeking spell that had already anchored the investigation once.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "academic rivalry",
-    "fact": "The murder and framing are rooted in deep academic rivalries \u2014 Janussi\u2019s contempt for Kalan, Sylvira\u2019s resentment toward Kazryn, and the institutional politics of research legitimacy \u2014 turning a crime into a war of scholarly dominance.",
-    "source_quote": "This was my fault... that bitter old hag who always resented Janussi for ditching her.",
+    "fact": "Fembris is a methodical investigator who has taken on the task of locating Kalan Strongbranch; he operates with monastic precision and routine urgency in pursuit of critical evidence.",
+    "source_quote": "I'm gonna have to hunt Kalan down... At some point I'll return with Kalan.",
     "quote_verified": false
   },
   {
     "type": "faction",
     "subject": "Menzoberranzan",
-    "fact": "Menzoberranzan\u2019s influence is suspected in Sylvira\u2019s framing and the use of psychological manipulation; Daz recognizes its tactics, and the group\u2019s reputation for deception informs the investigation\u2019s skepticism.",
+    "fact": "Menzoberranzan is a drow city known for psychological manipulation and cruel deception; Sylvira suspects its influence in her framing, and Daz acknowledges its shadow in the investigation.",
     "source_quote": "If that was a trick the drow use in Menzoberranzan \u2014 to twist the knife in their unsuspecting victims \u2014 it was a poor one.",
     "quote_verified": false
   },
   {
-    "type": "location",
-    "subject": "Janussi's third-story apartment",
-    "fact": "Janussi\u2019s third-story apartment is a hidden archive of his private academic vendettas, containing the manuscript that revealed his rejection of Kalan\u2019s methodology; it was untouched until Grygum entered, revealing the core motive of the murder.",
-    "source_quote": "The third story had sat there like an unopened file.",
+    "type": "event",
+    "subject": "feast burning",
+    "fact": "At the feast, Alkrist burned an object of significance \u2014 possibly a document, artifact, or symbolic item \u2014 which remains unaccounted for and may be linked to the murder or Kalan\u2019s rejected proposal.",
+    "source_quote": "There's something in the list about what Alkrist burned at the feast \u2014 you should ask about that.",
     "quote_verified": false
   },
   {
-    "type": "location",
-    "subject": "Sylvira's quarters",
-    "fact": "Sylvira\u2019s quarters are a controlled environment of magical heat and summoned familiars, designed to maintain her composure despite illness; the space reflects her discipline and resistance to being diminished by circumstance.",
-    "source_quote": "A faux fireplace blazed along one wall... her familiar moved with an efficiency that told me this was not the first time.",
+    "type": "event",
+    "subject": "rejection of Threefold Proof",
+    "fact": "Janussi formally rejected Kalan Strongbranch\u2019s Threefold Proof methodology, labeling it solipsism and a vanity project; this rejection destroyed Kalan\u2019s professional credibility and may be the core motive for the murder.",
+    "source_quote": "He found it to be solipsism, and had blocked it... dismissed as solipsism.",
     "quote_verified": false
   },
   {
-    "type": "object",
-    "subject": "wrapping paper from the poisoned book",
-    "fact": "The wrapping paper that encased the poisoned book was transported to Janussi\u2019s third-story apartment \u2014 possibly to conceal or preserve evidence of the murder weapon\u2019s origin \u2014 and remains unexamined beyond its location.",
-    "source_quote": "The wrapping paper trail led there, and there was still evidence about Kalan we hadn't turned over.",
+    "type": "event",
+    "subject": "Sylvira's framing",
+    "fact": "Sylvira has been framed for Janussi\u2019s murder through magical impersonation; her physical condition and emotional state suggest she is being targeted due to her research, relationship with the victim, and outsider status.",
+    "source_quote": "This is outrageous. Are you here to accuse me of a crime?",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Janussi's chambers - third floor",
+    "fact": "The third floor of Janussi's chambers contains private, unexamined evidence \u2014 including a damning written rejection of Kalan\u2019s methodology \u2014 and was the last known location of the poisoned book\u2019s wrapping paper.",
+    "source_quote": "The third-story apartment in Janussi's chambers was still unvisited.",
     "quote_verified": true
   },
   {
     "type": "object",
-    "subject": "the burned object from the feast",
-    "fact": "The object Alkrist burned at the feast is unidentified but likely symbolic \u2014 possibly a copy of Kalan\u2019s rejected proposal, a ritual artifact, or a token of ideological purification \u2014 and its destruction may have triggered the chain of events leading to murder.",
-    "source_quote": "What Alkrist burned at the feast \u2014 you should ask about that.",
+    "subject": "wrapping paper from poisoned book",
+    "fact": "The wrapping paper that concealed the poisoned book was brought to Janussi\u2019s third-floor chambers and has not been recovered; it may contain trace evidence, handwriting, or magical residue.",
+    "source_quote": "We knew the wrapping paper from the poisoned book had been taken there.",
     "quote_verified": false
   },
   {
     "type": "object",
-    "subject": "Kalan's Threefold Proof methodology",
-    "fact": "Kalan\u2019s Threefold Proof is a formalized criminal investigation framework, dismissed as solipsism by Janussi, yet still used by Kalan as his operational standard \u2014 making it both a professional legacy and a weapon of hidden vengeance.",
-    "source_quote": "Kalan's entire proposal for dealing with crime... buried under one man's contemptuous signature.",
+    "subject": "Threefold Proof methodology",
+    "fact": "The Threefold Proof is Kalan Strongbranch\u2019s formalized framework for criminal investigation, now being used by the party to solve Janussi\u2019s murder \u2014 despite having been rejected by the victim as solipsism.",
+    "source_quote": "Kalan's entire proposal for dealing with crime... had been blocked by the man who was now dead.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Kalan's motive",
+    "fact": "Kalan\u2019s professional humiliation by Janussi may be the root motive for the murder \u2014 his entire life\u2019s work was dismissed, yet he continues to operate under that same framework, suggesting deep unresolved resentment.",
+    "source_quote": "He built his whole methodology in the wreckage of the man who told him he was wrong.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "impersonation mystery",
+    "fact": "Someone is magically impersonating Sylvira to commit crimes \u2014 the method, identity, and purpose of the impersonator remain unknown, and may be tied to the Menzoberranzan thread or Janussi\u2019s enemies.",
+    "source_quote": "Who is impersonating me.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the burned object",
+    "fact": "The object Alkrist burned at the feast may be a key piece of evidence \u2014 potentially Kalan\u2019s rejected proposal, a personal token, or a magical artifact \u2014 and its destruction may be linked to the murder or the framing.",
+    "source_quote": "There's something in the list about what Alkrist burned at the feast.",
     "quote_verified": false
   },
   {
     "type": "date",
-    "subject": "the feast",
-    "fact": "The feast occurred shortly before Janussi\u2019s murder and was the last public gathering where Alkrist and Kalan were both present; the burning event took place there, marking the point where academic rivalry turned lethal.",
-    "source_quote": "He apparently burnt something at the feast.",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "last conversation with Janussi",
-    "fact": "Sylvira\u2019s final words to Janussi were hostile and unresolved \u2014 occurring just hours before his death \u2014 making her the last known person to speak with him, and the event a critical timestamp in the timeline.",
+    "subject": "time of Janussi's death",
+    "fact": "Janussi died shortly after his final argument with Sylvira, which occurred in the morning \u2014 the timing places the murder window immediately after their confrontation and before the impersonation began.",
     "source_quote": "Those were my last words with him.",
     "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "infernal entity (implied)",
+    "fact": "Sylvira\u2019s research into infernal domains and her abyssal heritage suggest an infernal entity may be involved \u2014 either as a patron, a weaponized force, or the source of the impersonation magic.",
+    "source_quote": "Her area of research was the infernal domains, which compounded the prejudice.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Overbright",
+    "fact": "The Overbright is a surface society hostile to tieflings and abyssal spawns; Sylvira\u2019s marginalization here mirrors the prejudice she faced in Menzoberranzan, making her a target of convenience.",
+    "source_quote": "In the Overbright, people look at a tiefling and assume she's an abyssal spawn.",
+    "quote_verified": false
   }
 ]

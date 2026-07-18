@@ -1,29 +1,28 @@
 ---
 name: Dawnbringer
 type: monster
-n_facts: 3
+n_facts: 2
 chapters: 53-61
 ---
 
 ### Dawnbringer
 
 - **Current status:** Alive and sentient  
-- **Current location:** Unknown (last observed in active use by a wielder)  
-- **Allegiance/faction:** None; autonomous entity with personal philosophy  
+- **Current location:** In possession of Thorin (last known wielder)  
+- **Allegiance/faction:** Independent; bound by personal ethos, not faction  
 - **Current possessions / notable items, spells, feats, wounds:**  
-  - Sentient magical sunblade with sap ability that slows and disrupts enemy movement  
-  - Requires emotional validation and recognition to remain stable; responds to praise and intent  
-  - Cannot be "polished" or ritually purified; heals through reconnection with daylight and affirmation of its identity as a weapon of killing  
+  - Sentient sunblade with emotional resonance; capable of radiating warmth and grace in response to praise  
+  - Can project sap-like slowing effects during combat, impairing enemy movement  
+  - Currently housed in the Vaultmaster Locking Scabbard (compromised for non-ritual use)  
 - **Current assignment / role and key relationships:**  
-  - Functions as a companion and psychological burden to its current wielder  
-  - Actively absorbs and is energized by praise, recognition, and being acknowledged as "beautiful" and "worthy"  
-  - Rejects ritual or religious use; insists it is a weapon designed to kill, not venerate  
+  - Wielded by Thorin; responds to Daral’s emotional presence (radiates warmth when praised)  
+  - Refuses ritual purification roles but permits combat use — accepts compromise via the scabbard  
 - **Defining recent actions:**  
-  - Demonstrated emotional openness and behavioral shift after being praised at length for its appearance and purpose, despite being used against fungus and undead  
-  - Refused to be treated as a ceremonial object, asserting its identity as a killing instrument  
+  - Enhanced Thorin’s combat effectiveness by slowing enemy movements during a confrontation  
+  - Absorbed sickness from Daral when activated, demonstrating adaptive, non-ritual sentience  
 
 ## Uncertainty
-- The identity of its current wielder is not specified.  
-- It is unclear whether the sap ability is an active, ongoing effect or only triggers under specific conditions.  
-- The phrase "She needs to remember what daylight feels like" implies gendered personification, but no other fact confirms or denies this pronoun usage as canonical.  
-- Whether the sword's emotional state is currently stable or still requires active emotional labor is not stated.
+- Contradiction in function: Ch53 states Dawnbringer “will not be treated like a religious symbol to be used and waved over corrupt,” yet ch61 shows it absorbing sickness from Daral — a purifying act. Is this a one-time exception, or has its stance evolved?  
+- Unclear if the scabbard is still in use or if the blade is currently sheathed; no later confirmation of its status post-ch61.  
+- Ambiguous whether the sap-like slowing effect is a new ability or a manifestation of its original “kill only” nature reinterpreted through combat synergy.  
+- No confirmation of Daral’s current presence or continued influence on Dawnbringer — was the emotional resonance a one-time event?

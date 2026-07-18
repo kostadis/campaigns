@@ -2,155 +2,71 @@
   {
     "type": "date",
     "subject": "session date",
-    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
+    "fact": "The Deadwinter supper began at the 5PM bell.",
     "source_quote": "The Deadwinter supper began at the 5PM bell.",
     "quote_verified": true
   },
   {
     "type": "monster",
-    "subject": "chasme count",
-    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
-    "source_quote": "four chasme and two vrock",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "travel to Sloobludop",
-    "fact": "Sloobludop is approximately eight days away via the Darklake.",
-    "source_quote": "the town of Sloopdopblop is just eight days away",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Velkynvelve elevation",
-    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
-    "source_quote": "Drow outpost was 100' in the sky",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "silver candlestick value",
-    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
-    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "An hour passes between two events in the session.",
-    "source_quote": "An hour later",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Candlekeep entrance",
-    "fact": "Candlekeep's entrance still smells of paper, lamp oil, and old stone warmed by sun unseen for months.",
-    "source_quote": "The air in Candlekeep still smelled wrong to me. Not bad \u2014 paper, lamp oil, old stone warmed by sun I had not seen in months \u2014 just wrong",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "Milil chalice",
-    "fact": "The lead-lined brass chalice from Milil's statue contains Janussi's heart and a blood-stained meat cleaver.",
-    "source_quote": "A heart. And a blood-stained meat cleaver.",
+    "subject": "squirrel count",
+    "fact": "A squirrel down there might've seen something.",
+    "source_quote": "there was a squirrel down there might've seen something",
     "quote_verified": true
   },
   {
     "type": "event",
     "subject": "poison taster",
-    "fact": "Sprig tasted all the food served at the Deadwinter supper as the official poison taster.",
-    "source_quote": "Sprig tasted all the food. 'Is she the poison taster?' I asked, and Irony said yes",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Southern Dining Hall",
-    "fact": "The Southern Dining Hall still smells of cold porridge and tallow, with cleared tables and a statue of Milil holding a brass chalice.",
-    "source_quote": "The dining hall still smelled like breakfast. Long tables, cleared but not reset, that particular morning-after smell of porridge and tallow gone cold.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "wrapping paper",
-    "fact": "The wrapping paper from Janussi's Secret Santa gift was found in his office, not in the dining hall's wicker basket.",
-    "source_quote": "The wrapping paper turned up in Janussi's office, not here.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "A'lai Aivenmore's ascension plot",
-    "fact": "A'lai Aivenmore planned to frame Daral and eliminate Janussi to clear the way for his own ascension to the council.",
-    "source_quote": "A'lai Aivenmore. The one who wanted the keep. The one about to be dismissed. The one who saw Daral's love of poetry, his love of fiction, as a threat to his approach to the universe.",
+    "fact": "Sprig tasted all the food.",
+    "source_quote": "Sprig tasted all the food",
     "quote_verified": true
   },
   {
     "type": "location",
-    "subject": "Bag of Holding",
-    "fact": "The Bag of Holding emitted a shifting grey ooze from which Glabbagool's eye rose to observe the bright object in Daz's hand.",
-    "source_quote": "Then the bag of holding shifted, and Glabbagool offered. An eye rose out of the grey of him \u2014 slow, hopeful, the way he does everything now \u2014 and pointed itself at the bright thing in Daz's hand",
+    "subject": "Milil chalice elevation",
+    "fact": "The Milil chalice is lead-lined and rests in the stone hands of the statue in the dining hall alcove.",
+    "source_quote": "the lead chalice wine is very important because lead blinds the far-seeing magic",
     "quote_verified": true
   },
   {
     "type": "object",
-    "subject": "Glabbagool's attempted nose",
-    "fact": "Glabbagool attempted to grow a nose to smell the poison, though he had no natural nose and his effort was uncertain.",
-    "source_quote": "Can Glabbagool try to grow a nose and get a good smell of the poison?",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Janussi's poisoning",
-    "fact": "Janussi was poisoned by a book Daral had given him, and his heart was later removed and placed in the lead-lined Milil chalice to prevent resurrection.",
-    "source_quote": "Poisoned by a book Daral had given him. ... They stole his heart. They didn't want anybody to be able to bring him back and ask him what happened.",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Janussi's office",
-    "fact": "Janussi's office contained the wrapping paper from his Secret Santa gift, indicating it was moved after the dinner.",
-    "source_quote": "The wrapping paper turned up in Janussi's office, not here.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "Alkrist's project",
-    "fact": "Alkrist promoted 'Tales of War by the Generals That Waged Them' at the Deadwinter supper, a project dismissed by Teles as implausible.",
-    "source_quote": "Alkrist was cheerful, pitching a project: *Tales of War by the Generals That Waged Them*, first-hand strategy from warlords and commanders around the world.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Irony's truth compulsion",
-    "fact": "Irony, a junior avowed, compulsively tells the truth, making her a rare and valuable witness in the investigation.",
-    "source_quote": "I really hate it when people make that joke. I'm so sorry \u2014 this compulsive need to always tell the truth.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Candlekeep conference hall",
-    "fact": "The Candlekeep conference hall was occupied by the most learned people on the surface, all gathered for a meeting where the murder plot unfolded.",
-    "source_quote": "The thing about Candlekeep was that it was full of the most learned people on the surface, and every one of them was at the conference.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Daral's mistaken blame",
-    "fact": "Daral was falsely suspected of being the murderer because he gave Janussi the poisoned book and was emotionally entangled in the case.",
-    "source_quote": "Maybe they wanted me to be blamed.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "meat cleaver",
-    "fact": "The blood-stained meat cleaver found in the Milil chalice was used to remove Janussi's heart after poisoning.",
+    "subject": "Milil chalice contents",
+    "fact": "The brass chalice contained Janussi's heart and a blood-stained meat cleaver.",
     "source_quote": "A heart. And a blood-stained meat cleaver.",
     "quote_verified": true
   },
   {
+    "type": "object",
+    "subject": "wrapping paper value",
+    "fact": "The wrapping paper from the Secret Santa gift was found in Janussi's office, not the dining hall.",
+    "source_quote": "The wrapping paper turned up in Janussi's office, not here",
+    "quote_verified": true
+  },
+  {
     "type": "event",
-    "subject": "Secret Santa gift exchange",
-    "fact": "During the Deadwinter supper, Secret Santa gifts were distributed by Kazryn Nyantani, with Janussi taking his unwrapped and leaving the paper in a basket.",
-    "source_quote": "Sylvira Savikas stormed out, and Kazryn Nyantani took it on herself to hand out the gifts under the evergreen tree, gave each one to the matching great reader.",
+    "subject": "Glabbagool nose attempt",
+    "fact": "Glabbagool attempted to grow a nose to smell the poison.",
+    "source_quote": "can Glabbagool try to grow a nose and get a good smell of the poison?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz's failed analysis",
+    "fact": "Daz could not read the meaning of the small bright thing despite staring harder.",
+    "source_quote": "What I can read off it at a glance is next to nothing... and staring harder got me less.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep air quality",
+    "fact": "The air in Candlekeep still smelled wrong \u2014 like paper, lamp oil, and old stone warmed by sun.",
+    "source_quote": "The air in Candlekeep still smelled wrong to me. Not bad \u2014 paper, lamp oil, old stone warmed by sun",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "sapphire or key value",
+    "fact": "A small bright thing \u2014 possibly a sapphire or key \u2014 was turned over by Daz but could not be read.",
+    "source_quote": "It started with the sapphire, or the key, or whatever the small bright thing was",
     "quote_verified": true
   }
 ]

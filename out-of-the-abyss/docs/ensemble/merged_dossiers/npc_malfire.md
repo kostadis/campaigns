@@ -1,8 +1,3 @@
-<!-- source: npc_malfire.md -->
-
-
----
-
 ---
 name: Malfire
 type: npc
@@ -11,26 +6,23 @@ chapters: 54-54
 ---
 
 ### Malfire
-- **Current status:** Alive (implied by continued citation)  
+
+- **Current status:** Alive (implied by ongoing citation as an authoritative voice)  
 - **Current location:** Unknown  
 - **Allegiance/faction:** Unknown  
-- **Current possessions / notable items, spells, feats, wounds:** None known  
-- **Current assignment / role and key relationships:** Authoritative scholar whose writings are routinely cited by Daz; works are embedded in party’s cultural lexicon  
-- **Defining recent actions:** Writings (specifically Volume 3) are referenced as authoritative by Daz in ongoing party discourse  
+- **Current possessions / notable items, spells, feats, wounds:** None noted  
+- **Current assignment / role and key relationships:** Revered as an authoritative source of truth; cited definitively by Daz and others, particularly regarding Volume 3. No known direct relationships or current assignments beyond intellectual authority.  
+- **Defining recent actions:** His words from Volume 3 are invoked as unchallengeable doctrine, with no laughter or dissent permitted when referenced.  
 
 ## Uncertainty
-- Malfire’s current physical location is unknown.  
-- Malfire’s survival is implied but not explicitly confirmed.  
-- The full scope of Malfire’s works, their content, or their origin is not specified.  
-- Whether Malfire is alive, deceased, or a legendary figure is ambiguous — only their texts are confirmed to exist and be cited.  
-- No other individuals are confirmed to cite Malfire besides Daz; it is unclear if this is a widespread or isolated reverence.
+- Malfire’s physical location, current activities, and whether he is still alive (though implied) are not confirmed by direct observation.  
+- The nature of “Volume 3” and Malfire’s role in producing or authoring it is unspecified.  
+- It is unclear whether Malfire is a person, a text, a title, or a collective — the quote treats “Malfire” as a singular authoritative speaker, but the entity’s ontological status is ambiguous.  
+- No other individuals are confirmed to have interacted with Malfire directly; all references are secondhand.
 
 ---
 
 <!-- source: monster_malfire.md -->
-
-
----
 
 ---
 name: Malfire
@@ -39,16 +31,17 @@ n_facts: 1
 chapters: 54-54
 ---
 
-### Malfire  
-**Current status:** Alive (implied by continued citation)  
-**Current location:** Unknown (no location data provided)  
-**Allegiance/faction:** None specified (not tied to any named group)  
-**Current possessions / notable items, spells, feats, wounds:** None specified  
-**Current assignment / role and key relationships:** Revered as an authoritative source; cited as an unspoken cultural touchstone by the party and likely others in their world.  
-**Defining recent actions:** His writings (specifically "Volume 3") are routinely referenced in social interactions as definitive, unchallenged wisdom — responses to his citations are automatic and culturally enforced ("Nobody laughed. This was the correct response.").  
+### Malfire
+- **Current status:** Alive (referenced as an active authority)
+- **Current location:** Unknown (no location specified; presence is textual/cultural)
+- **Allegiance/faction:** None specified
+- **Current possessions / notable items, spells, feats, wounds:** None specified
+- **Current assignment / role and key relationships:** Authority figure whose writings are cited as canonical; referenced by Daz and Grygum as a source of wisdom or aphorism
+- **Defining recent actions:** None recorded as direct action; cultural influence persists through repeated citation in party dialogue
+- **Revealed motivations or secrets:** None specified
 
-## Uncertainty  
-- Is Malfire a real person, a fictional author, a deity, or a collective pseudonym? The facts do not clarify.  
-- Are the citations from actual texts written by Malfire, or are they apocryphal attributions?  
-- What is Malfire’s current physical or metaphysical state? No evidence confirms presence, survival, or activity beyond textual influence.  
-- Does Malfire have any direct awareness of or involvement in the party’s actions?
+## Uncertainty
+- Malfire’s physical existence is unconfirmed — referenced only as a textual authority; may be a real person, a fictional figure, or a collective pseudonym.
+- No specific work, volume, or content of Malfire’s writings is given beyond the vague reference to “Volume 3.”
+- It is unclear whether Malfire is alive, dead, or mythical — the citation habit suggests enduring influence, but not current state.
+- No attribution of who created or compiled Malfire’s works; origin is unknown.

@@ -8,15 +8,29 @@ chapters: 27-27
 ### Voosbur
 
 **Current status:** Alive  
-**Current location:** Unknown (last observed in the fungal dreamscape, initiating spore-based transformation)  
-**Allegiance/faction:** Conduit and herald for Zuggtmoy, Demon Queen of Fungi  
-**Current possessions / notable items, spells, feats, wounds:** Emits anomalous psychedelic spores capable of inducing ecstatic hallucinations, compulsive obedience, fungal transformation, and telepathic suggestion. No physical items noted.  
-**Current assignment / role and key relationships:** Functions as a gatekeeper for Zuggtmoy’s dreamscape; lures sentient beings into the Dark Lady’s influence through telepathic invitations. Last seen speaking with Thorin and Grygum, offering them a final chance to join the dream.  
-**Defining recent actions:** Released spores that triggered mass behavioral transformation among his myconid kin, causing them to dance ecstatically and lose self-identity. Attempted to recruit Thorin and Grygum into Zuggtmoy’s dreamscape, then dispersed spores to summon the transformed dancers, signaling the dreamscape’s full activation.  
+**Current location:** Within the fungal dreamscape under Zuggtmoy’s influence (location implied by context of spore release and telepathic lure; no evidence of departure)  
+**Allegiance/faction:** Conduit and herald of Zuggtmoy, Demon Queen of Fungi  
+**Current possessions / notable items, spells, feats, wounds:**  
+- Emits corrupted spores that induce ecstatic hallucinations, compulsive obedience, and fungal transformation  
+- Communicates telepathically to lure others into Zuggtmoy’s dreamscape  
+- Functions as a gatekeeper for the Dark Lady’s dreamscape  
+
+**Current assignment / role and key relationships:**  
+- Acts as a recruiter and catalyst for Zuggtmoy’s influence, offering final invitations to join the dream  
+- Last seen speaking with Thorin and Grygum, offering them one last chance to join the Dream  
+- Primary agent responsible for the mass behavioral transformation of his myconid kin  
+
+**Defining recent actions:**  
+- Released anomalous spores that caused widespread hallucinations, ecstatic dancing, and loss of self among his kin  
+- Telepathically lured others with promises of peace, love, and communion with the Dark Lady  
+- Offered a final, urgent invitation to Thorin and Grygum to join the dream before dispersing spores to summon the dancers  
+
+**Revealed motivations or secrets:**  
+- Corrupted by Zuggtmoy’s influence, no longer acting as a natural myconid but as a willing agent of the Demon Queen  
+- Believes the Dream is an invitation to transcendence, not a curse — frames coercion as liberation  
 
 ## Uncertainty
-- Exact physical location after the spore dispersion is unknown.  
-- Whether Voosbur remains physically present at the site of transformation or has moved into the dreamscape is unconfirmed.  
-- The nature of his "fungal transformation" — whether he has undergone physical changes beyond spore emission — is not described.  
-- No evidence confirms whether the "Dark Lady" is Zuggtmoy directly or a manifested avatar; this is assumed but not explicitly stated.  
-- The phrase "you guys didn’t want to join us" implies a collective ("us") — the identity of this group beyond Voosbur is unspecified.
+- The exact physical location within the dreamscape is not specified beyond being the site of spore release and telepathic lure.  
+- Whether Voosbur remains physically present after dispersing the spores or has merged with the dream is ambiguous — he is last seen speaking, but the spore effect implies a transition.  
+- No evidence confirms whether his kin are still alive or transformed beyond the initial event — their current state is not updated beyond the transformation.  
+- The nature of his “fungal transformation” (whether he is partially or fully merged with Zuggtmoy’s essence) is not detailed beyond his role as conduit.

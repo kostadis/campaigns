@@ -2,134 +2,120 @@
   {
     "type": "npc",
     "subject": "Ilvara Mizzrym",
-    "fact": "Ilvara Mizzrym was fully consumed by Zuggtmoy's corruption, no longer merely influenced but walking as Zuggtmoy's work in the form of a drow priestess, muttering accurate prophecies about the bride and coming chaos.",
-    "source_quote": "She was already something other than the woman she had been. The corruption had been working on her for a long time.",
-    "quote_verified": true
+    "fact": "Ilvara Mizzrym was fully corrupted by Zuggtmoy, no longer merely influenced but walking as Zuggtmoy's work in a drow priestess's bones, and detonated into a toxic bloom of spores after being struck by Guiding Bolt.",
+    "source_quote": "She was not being aided by Zuggtmoy anymore. She *was* Zuggtmoy's work, walking around in a drow priestess's bones.",
+    "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Jorlan Duskryn",
-    "fact": "Jorlan Duskryn carried a deep, personal grudge against Ilvara Mizzrym, stemming from her rejection of him after he received the scar, and was locked in a violent confrontation with her at the ruined bridge.",
+    "fact": "Jorlan Duskryn was engaged in a bitter personal conflict with Ilvara Mizzrym, having carried emotional wounds since she discarded him after he received a scar.",
     "source_quote": "She discarded him when he got the scar, he's been carrying that wound ever since.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Thorin",
-    "fact": "Thorin collapsed the bridge in a single devastating act of total commitment, sending Ilvara and Jorlan crashing to the cavern floor, with his Dawnbringer still humming residual radiance.",
-    "source_quote": "Thorin had already toppled the bridge... classic Thorin, total commitment, Dawnbringer still humming with residual radiance.",
+    "fact": "Thorin toppled the bridge with devastating force, sending Jorlan and Ilvara crashing to the cavern floor, and previously reduced the heart fungus to a collapsed ruin in one devastating round.",
+    "source_quote": "Thorin had already toppled the bridge... Thorin had seen to that in one devastating, almost insulting round.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Zalthir",
-    "fact": "Zalthir moved with surgical precision throughout the fight, delivering a series of calculated actions with the emotional register of someone sorting correspondence, and was later affected by the toxic bloom.",
+    "fact": "Zalthir moved with surgical precision throughout the fight, delivering a series of calculated actions with the emotional register of someone sorting correspondence.",
     "source_quote": "Zalthir had been up and down and around, doing what Zalthir does, the entire fight a series of surgical moves delivered with the emotional register of someone sorting correspondence.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Asha Vandree",
-    "fact": "Asha Vandree dropped to her knees after Ilvara\u2019s detonation and began murmuring prayers to Lolth, reshaping the witnessed destruction into theological material her goddess could claim.",
+    "fact": "Asha Vandree dropped to her knees after Ilvara's detonation and began murmuring prayers to Lolth, reshaping the event into a theological narrative her goddess could use.",
     "source_quote": "Asha Vandree dropped to her knees and began murmuring prayers, her voice the only sound left \u2014 words to Lolth, rising from the wreckage, already reshaping what she'd witnessed into something her goddess could use.",
     "quote_verified": true
   },
   {
+    "type": "npc",
+    "subject": "Last House T'sarran Warrior",
+    "fact": "The last surviving warrior of House T'sarran delivered a calm, unheated threat after witnessing Ilvara's death and the destruction, vowing to meet again and implying his matron mother would respond.",
+    "source_quote": "\"We will meet again,\" he said. \"Enjoy your victory for the moment.\" A threat delivered without heat is always more credible than one made in anger.",
+    "quote_verified": false
+  },
+  {
     "type": "faction",
     "subject": "House T'sarran",
-    "fact": "House T'sarran lost its last warrior and its mage in the confrontation; its matron mother is now aware of the party's actions and will likely respond, having been warned by the departing warrior.",
-    "source_quote": "The last House T'sarran warrior... stepped back toward the tunnels... 'We will meet again.' I'll want to remember that name. The matron mother of House T'sarran would be hearing about this.",
-    "quote_verified": false
-  },
-  {
-    "type": "monster",
-    "subject": "Zuggtmoy's rot",
-    "fact": "Zuggtmoy's corruption manifested as a flowering rot through everything Ilvara touched, culminating in a massive toxic bloom of spores upon her death, venting demonic corruption all at once.",
-    "source_quote": "Zuggtmoy's rot flowering through everything she touches... her body ruptured outward in a massive toxic bloom \u2014 a cloud of poisonous spores billowing through the cavern in every direction.",
-    "quote_verified": false
-  },
-  {
-    "type": "monster",
-    "subject": "heart fungus",
-    "fact": "The heart fungus was a collapsed ruin before the battle, destroyed by Thorin in one devastating round while the observer stood idle with prepared abilities.",
-    "source_quote": "The heart fungus was already a collapsed ruin \u2014 Thorin had seen to that in one devastating, almost insulting round, while I stood there with everything I'd prepared for it and nowhere to deploy it.",
+    "fact": "House T'sarran is a drow house whose matron mother will be informed of the events in the ruined bridge cavern, and whose identity remains unknown but must be discovered before they learn the party's.",
+    "source_quote": "The matron mother of House T'sarran would be hearing about this. I believe I should find out who that is before she finds out who we are.",
     "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Zuggtmoy's corruption",
+    "fact": "Zuggtmoy's corruption manifested as a flowering rot through everything Ilvara touched, culminating in a toxic bloom of spores upon her death, and had been working on her for a long time.",
+    "source_quote": "Zuggtmoy's rot flowering through everything she touches... the demonic corruption venting itself all at once in the only form it had left.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Ruined bridge cavern",
+    "fact": "The ruined bridge cavern is the site of Ilvara's detonation, Thorin's bridge collapse, and the heart fungus's destruction, now filled with drifting spores and thick, spore-choked silence.",
+    "source_quote": "The cavern settled into a thick, spore-choked silence... The bridge was rubble. The poisonous bloom was already beginning to thin and drift.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Heart fungus",
+    "fact": "The heart fungus was a once-potent structure in the cavern, reduced to a collapsed ruin by Thorin in one devastating round, rendering the party's preparations for it useless.",
+    "source_quote": "The heart fungus was already a collapsed ruin \u2014 Thorin had seen to that... *Boy, I had so much planned for the fungus.*",
+    "quote_verified": false
   },
   {
     "type": "event",
     "subject": "Ilvara's detonation",
-    "fact": "Ilvara Mizzrym\u2019s death triggered an explosive release of demonic corruption, forming a widespread toxic spore cloud that affected the entire cavern and forced retreat.",
-    "source_quote": "She detonated. Her body ruptured outward in a massive toxic bloom \u2014 a cloud of poisonous spores billowing through the cavern in every direction, the demonic corruption venting itself all at once.",
+    "fact": "Ilvara Mizzrym detonated into a massive toxic bloom of spores after being struck by Guiding Bolt, contaminating the cavern and forcing allies to retreat.",
+    "source_quote": "She detonated. Her body ruptured outward in a massive toxic bloom \u2014 a cloud of poisonous spores billowing through the cavern in every direction...",
     "quote_verified": false
   },
   {
     "type": "event",
-    "subject": "bridge collapse",
-    "fact": "Thorin\u2019s act of collapsing the bridge was a decisive, one-round event that ended positional advantage and forced combatants into the cavern below.",
-    "source_quote": "Thorin had already toppled the bridge, sent both of them crashing to the cavern floor.",
+    "subject": "Bridge collapse",
+    "fact": "Thorin caused the bridge to collapse, sending Jorlan Duskryn and Ilvara Mizzrym crashing to the cavern floor, a decisive action that altered the battlefield.",
+    "source_quote": "Thorin had already toppled the bridge, sent both of them crashing to the cavern floor \u2014 classic Thorin, total commitment...",
     "quote_verified": false
   },
   {
     "type": "thread",
-    "subject": "Asha's theology",
-    "fact": "Asha Vandree\u2019s whispered prayers to Lolth are forming a new theological narrative from the battle\u2019s aftermath \u2014 a developing plot thread that may influence future divine interventions.",
+    "subject": "Asha's prayers to Lolth",
+    "fact": "Asha Vandree's murmured prayers to Lolth are reshaping the events into a theological narrative that may empower the goddess, and should be monitored as a developing plot thread.",
     "source_quote": "Whatever theology she was building out of this moment, I filed it under *watch this space.*",
     "quote_verified": true
   },
   {
     "type": "thread",
     "subject": "House T'sarran's retaliation",
-    "fact": "The departing warrior\u2019s calm threat implies imminent retaliation from House T'sarran\u2019s matron mother, making identification of her identity a critical future objective.",
+    "fact": "The threat from the last House T'sarran warrior implies imminent retaliation from the matron mother, and the party must discover her identity before she discovers theirs.",
     "source_quote": "I'll want to remember that name. The matron mother of House T'sarran would be hearing about this. I believe I should find out who that is before she finds out who we are.",
     "quote_verified": true
   },
   {
     "type": "thread",
     "subject": "Glabbagool",
-    "fact": "The observer\u2019s first real question after the spore cloud thinned was about Glabbagool, indicating a lingering mystery or threat tied to that entity that demands further investigation.",
+    "fact": "The narrator's first real question after the spore cloud thinned was about Glabbagool, indicating an unresolved mystery or impending threat tied to that entity.",
     "source_quote": "My first real question, once the cloud was thin enough to breathe through, was about Glabbagool.",
     "quote_verified": true
   },
   {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "The events occurred in a single, continuous sequence following the decision to cast Guiding Bolt, with no temporal markers beyond immediate cause and effect.",
+    "source_quote": "The bolt was already building... The bolt left my hand... The cavern settled... My first real question...",
+    "quote_verified": false
+  },
+  {
     "type": "npc",
-    "subject": "The Observer",
-    "fact": "The observer is a devout follower of Bahamut who values tactical positioning over spectacle, takes meticulous mental notes, and operates with clinical detachment \u2014 seeing divine power as a tool and enemy corruption as a measurable threat.",
+    "subject": "Narrator",
+    "fact": "The narrator is a devout follower of Bahamut who values tactical positioning over spectacle, takes meticulous mental notes, and views divine intervention as secondary to personal preparedness.",
     "source_quote": "Bahamut gets the credit for the radiance. I get credit for the positioning. We understand each other, Bahamut and I.",
     "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "ruined bridge and cavern floor",
-    "fact": "The ruined bridge collapsed into a cavern floor saturated with Zuggtmoy\u2019s corruption, now choked with lingering toxic spores and the wreckage of a battle that reshaped the local power dynamics.",
-    "source_quote": "At the bottom of a ruined bridge with Zuggtmoy's rot flowering through everything she touches... The cavern settled into a thick, spore-choked silence.",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Underdark",
-    "fact": "The Underdark is a place where corruption is common, prophecy is accurate, and divine intervention is rare \u2014 forcing observers to rely on observation, positioning, and preemptive caution.",
-    "source_quote": "I have seen enough of this Underdark to know better than to dismiss it.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "Dawnbringer",
-    "fact": "Thorin\u2019s Dawnbringer emitted residual radiance after collapsing the bridge, indicating it is a powerful, active divine weapon that lingers with energy after use.",
-    "source_quote": "Dawnbringer still humming with residual radiance the way a tuning fork hums after you strike it.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "Guiding Bolt",
-    "fact": "The observer\u2019s Guiding Bolt was not cast as a ritual spell but as a decisive, moment-locked act of divine justice \u2014 its power felt like it had been waiting, and its effect was total.",
-    "source_quote": "There is a version of Guiding Bolt that I think of as administrative... And then there is the other version, the one that happens when everything has led to this particular moment and the light in your hand feels like it has been waiting.",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "after the battle",
-    "fact": "The events occurred immediately after the collapse of the bridge and Ilvara\u2019s detonation, with the spore cloud thinning and Asha\u2019s prayers rising as the only remaining sounds.",
-    "source_quote": "The cavern settled into a thick, spore-choked silence... And somewhere in the settling quiet, Asha Vandree dropped to her knees...",
-    "quote_verified": false
   }
 ]

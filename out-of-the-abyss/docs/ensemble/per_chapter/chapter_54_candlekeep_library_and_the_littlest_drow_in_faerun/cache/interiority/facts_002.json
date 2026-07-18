@@ -1,254 +1,212 @@
 [
   {
-    "type": "event",
+    "type": "npc",
     "subject": "Thorin",
-    "fact": "Thorin was not wrong about the stone, and his frustration was legitimate.",
+    "fact": "Thorin believes his frustration about the stone and terrain mismatch is legitimate because he prepared reasonably for a different environment.",
     "source_quote": "He wasn't wrong about the stone. And his frustration was legitimate \u2014 he'd made a reasonable preparation for a reasonable environment, and we'd somehow ended up standing in the one terrain where it didn't apply.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Thorin",
-    "fact": "Thorin wanted to fireball the trees.",
-    "source_quote": "Thorin's suggestion was to fireball the trees.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Daz",
-    "fact": "Daz considered the suggestion to fireball the trees briefly.",
+    "subject": "Zalthir",
+    "fact": "Zalthir considered Thorin\u2019s suggestion to fireball the trees but deemed it unworthy of serious thought.",
     "source_quote": "I considered this briefly, which is about as much time as it deserves.",
     "quote_verified": true
   },
   {
-    "type": "event",
+    "type": "npc",
     "subject": "Daz",
-    "fact": "Daz was already thinking past the suggestion to fireball the trees.",
-    "source_quote": "Daz was already thinking past it. I could see it in the way he'd gone still \u2014 not my kind of still, but a wizard's still, the kind where the mind is moving very fast and the body has just stopped participating.",
+    "fact": "Daz had already decided to get intel out of the situation before announcing his plan to misty step into the tree.",
+    "source_quote": "I want to get some intel out of this,\" he said, the way a man says a thing when he's already decided what he's going to do.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "Daz",
-    "fact": "Daz said he wanted to get some intel out of this.",
-    "source_quote": "\"I want to get some intel out of this,\" he said, the way a man says a thing when he's already decided what he's going to do.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Daz",
-    "fact": "Daz announced he was going to misty step up into the tree.",
-    "source_quote": "\"I'm going to misty step up into the tree,\" Daz announced.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "Someone's speculation about Jimjar",
-    "fact": "Someone speculated it might be Jimjar, coming to drag us back underground, and I did not rule it out.",
-    "source_quote": "Someone speculated it might be Jimjar, coming to drag us back underground. I did not rule it out.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum heard a bird call that was not a real bird \u2014 a cardinal's whistle, clean and bright, floating through tree cover that hadn't seen a cardinal in decades.",
-    "source_quote": "The bird call came just as I was settling in for the night. Not a real bird \u2014 that was the point. A cardinal's whistle, clean and bright, floating through tree cover that hadn't seen a cardinal in decades, maybe ever.",
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir did not rule out the possibility that the tracker might be Jimjar coming to drag them back underground.",
+    "source_quote": "I did not rule it out.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum believed the bird call was a successful imitation.",
-    "source_quote": "Daz had been practicing. We all had, in the abstract, the way you talk about a plan more than you drill it. But hearing it land in the quiet of a forest evening, unmistakable against the rustle of leaves, I thought: *good. That actually worked.*",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool made an impression of a bird that was unrecognizable and entirely untrained.",
-    "source_quote": "What followed it was Glabbagool, doing his best. His impression of a bird was everything you'd expect from a creature that has never encountered a bird, never encountered the concept of sound being produced intentionally for communication purposes, and was working from approximately zero reference points.",
+    "fact": "Grygum believed Daz\u2019s bird call worked and was pleased it had succeeded.",
+    "source_quote": "I thought: *good. That actually worked.*",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool was very proud of his bird impression.",
+    "subject": "Grygum",
+    "fact": "Grygum was proud of his own terrible imitation of a bird call.",
     "source_quote": "He was very proud of it.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool asked if the bird was a kind of ooze.",
-    "source_quote": "\"Is it a kind of ooze?\" he asked, in that way he has, earnest and completely serious about the question.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
+    "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum told Glabbagool that birds are feathered, not oozy.",
-    "source_quote": "\"No, no,\" I said, \"they're not oozy at all. They're feathered.\"",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "Glabbagool's understanding of feathers",
-    "fact": "Glabbagool struggled to reconcile the concept of feathers with his understanding of creatures, and had no time to resolve it.",
-    "source_quote": "The concept try to find somewhere to settle and fail to locate purchase. He didn't have three days. He had the next thirty seconds before we needed to move.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum said he would introduce Glabbagool to real birds.",
-    "source_quote": "\"We'll introduce you,\" I said. \"Yeah, yeah, I wander over there.\"",
+    "fact": "Grygum earnestly wondered whether birds are a kind of ooze.",
+    "source_quote": "Is it a kind of ooze?",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum believed the divine plan had them covered, provisionally.",
+    "fact": "Grygum struggled to understand the concept of birds being feathered, as it conflicted with his existing mental framework.",
+    "source_quote": "I watched the concept try to find somewhere to settle and fail to locate purchase.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum believes the divine plan has them covered, even if provisionally and subject to revision by evidence.",
     "source_quote": "The divine plan has us covered, in the broadest possible sense \u2014 or at least I choose to believe it does, provisionally, and correct the belief when the evidence demands it.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum noticed the drow's movement from the north \u2014 careful, not panicked, close, twenty to forty feet.",
-    "source_quote": "Thorin had picked up something in the terrain earlier \u2014 movement from the north, not panicked, not aggressive, careful. Close. Twenty, maybe forty feet.",
+    "fact": "Grygum noticed movement from the north and interpreted it as a skilled follower, not a random threat.",
+    "source_quote": "Thorin had picked up something in the terrain earlier \u2014 movement from the north, not panicked, not aggressive, careful.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum filed a mental note: drow on the surface, daylight hours, following quietly instead of attacking.",
-    "source_quote": "The note I'd already filed, in my head: *drow, on the surface, daylight hours, following us quietly instead of attacking.*",
+    "fact": "Grygum believed the drow spy was not a predator but a professional doing a job she\u2019d rather not be doing.",
+    "source_quote": "That combination doesn't say assassin to me. It says someone who got handed a bad assignment and is making the best of it.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum believed the drow was not a predator but a professional doing a job she'd rather not be doing.",
-    "source_quote": "That combination doesn't say assassin to me. It says someone who got handed a bad assignment and is making the best of it. There's a difference between a predator and someone doing a job they'd rather not be doing, and I've learned to read that difference fast.",
+    "fact": "Grygum thought the drow spy had been given an assignment that would earn her a sincere complaint if she returned home.",
+    "source_quote": "Whoever sent a drow to the surface in daylight to shadow a party through open forest had, I thought, given that drow exactly the kind of assignment that earns you a very sincere complaint when you get back home.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "Zalthir",
-    "fact": "Zalthir ended the question of whether there would be a fight \u2014 there would not.",
-    "source_quote": "By the time Glabbagool and I cleared the last of the underbrush, Zalthir had already ended the question of whether there would be a fight. There would not.",
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum was observing the drow spy\u2019s face to read her emotional state, even while she was still stunned.",
+    "source_quote": "I stood back and let him work, watching the spy's face for what it told me \u2014 not yet, she was still too stunned, still in that soft-edged blankness...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum believed the drow spy\u2019s bravery during her approach was a performance masking inner desperation.",
+    "source_quote": "She'd put on a brave face for the whole approach.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "Zalthir",
-    "fact": "Zalthir grappled and stunned the drow spy with efficient finality.",
-    "source_quote": "The spy \u2014 drow, slight, female, exactly as advertised \u2014 was grappled and stunned, held in place with the kind of efficient finality that Zalthir brings to everything he considers a problem worth solving immediately.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Thorin",
-    "fact": "Thorin asked who number two works for, in a voice with no subtlety.",
-    "source_quote": "Thorin was standing over her, asking who number two works for, voice carrying through the trees with all the subtlety of a dwarf who was raised by hill giants and sees no reason to modulate volume as a social strategy.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
+    "type": "npc",
     "subject": "Daz",
-    "fact": "Daz said it was very rude to follow people without talking to them.",
-    "source_quote": "\"It's very rude,\" he said, which is the most Daz thing I've heard him say, possibly ever, \"to follow people without just coming up and talking to them. So we'll talk to you now.\"",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Daz",
-    "fact": "Daz was calm and medical in his demeanor while tying up the drow.",
-    "source_quote": "He said it while tying her up. The calm was so complete it was almost medical.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Daz",
-    "fact": "Daz noticed the drow was not watching the party but watching him, and working hard to hide it.",
+    "fact": "Daz noticed the drow spy was not watching the party but was intensely trying not to look at him.",
     "source_quote": "She wasn't watching the party. She was watching me. And working very, very hard to make it look like she wasn't.",
     "quote_verified": true
   },
   {
-    "type": "event",
+    "type": "npc",
     "subject": "Daz",
-    "fact": "Daz asked why he was so important that she was trying hard not to make it look like she was following him.",
-    "source_quote": "\"So we may be able to figure something out where you live, but first you need to answer some questions. Why am I so important that you're trying hard not to make it look like you're following me, but you're following me?\"",
+    "fact": "Daz recognized the drow spy\u2019s behavior as a learned social skill from Menzoberranzan \u2014 avoiding direct gaze at what one is most interested in.",
+    "source_quote": "The particular discipline of *not looking at the thing you are most interested in* is one of the first social skills anyone learns in the city.",
     "quote_verified": true
   },
   {
-    "type": "event",
+    "type": "npc",
     "subject": "Daz",
-    "fact": "Daz admitted he had been away from home for a while, correcting his earlier statement about being drow.",
-    "source_quote": "\"Let me correct that. I've been away from home for a while.\"",
+    "fact": "Daz realized the drow spy was following him specifically because he was being used as bait to draw out the person who paid for his protection.",
+    "source_quote": "So basically, you're treating me as bait. You're watching and observing so that when something happens to me, you can go report back what happened to me.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz understood that House T'sarran\u2019s matron mother was waiting for the person who paid for his protection to reveal themselves on the surface.",
+    "source_quote": "We are looking for that person, not for you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz recalled a lesson from his training in Menzoberranzan: know who holds the debt before deciding whether to collect it.",
+    "source_quote": "I thought of something a training instructor had said once... *The first rule of the House: know who holds the debt before you decide whether to collect it.*",
     "quote_verified": false
   },
   {
-    "type": "event",
+    "type": "npc",
     "subject": "Daz",
-    "fact": "Daz learned the matron mother of House T'sarran had ruled for two hundred years.",
-    "source_quote": "She told us her matron had ruled House T'sarran for two hundred years.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Daz",
-    "fact": "Daz realized the drow were using him as bait to find the person who paid to have him protected.",
-    "source_quote": "\"My matron believes that the one who paid \u2014\" and here she pointed at me, with the resigned precision of someone who has run out of misdirection \u2014 \"for him, will reveal themselves once he reaches the surface. We are looking for that person, not for you.\"",
+    "fact": "Daz felt the drow spy\u2019s revelation about being used as bait was a moment of personal revelation, connecting his past to his present danger.",
+    "source_quote": "The full picture came out under continued pressure... I turned it over once. Twice.",
     "quote_verified": false
   },
   {
-    "type": "event",
-    "subject": "Daz",
-    "fact": "Daz concluded the drow were watching to report back what happened to him, so they could trace the person who paid for his protection.",
-    "source_quote": "\"So basically, you're treating me as bait. You're watching and observing so that when something happens to me, you can go report back what happened to me.\"",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
+    "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum asked the drow if she was looking for a new job.",
-    "source_quote": "\"Hey,\" he said, with the casual tone of someone considering a minor administrative matter, \"are you looking for a new job? We could use another helper.\"",
+    "fact": "Grygum noticed a fracture in the drow spy\u2019s composure when he offered her a new job.",
+    "source_quote": "Something shifted in her face. A tiny, involuntary fracture in the composure. *Wait. I might live?*",
     "quote_verified": true
   },
   {
-    "type": "event",
+    "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum handed the drow prayer beads without explanation or threat.",
-    "source_quote": "Then Grygum held out the prayer beads. He didn't say anything particularly ominous. He just handed them to her and told her to put them on. No threat in his voice. No explanation of what they did.",
+    "fact": "Grygum believed the prayer beads broke through the drow spy\u2019s professional armor because they represented an unknown, alien threat.",
+    "source_quote": "Unknown religious ritual from an alien faith, administered by a half-orc? That slipped right past every prepared defense.",
     "quote_verified": true
   },
   {
-    "type": "event",
+    "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum rolled persuasion and the drow talked.",
-    "source_quote": "Then Grygum rolled persuasion, and she talked.",
+    "fact": "Grygum perceived the drow spy as defeated, frustrated, and annoyed after the beads were given and persuasion succeeded.",
+    "source_quote": "She looked, in the GM's precise summary, defeated, frustrated, annoyed.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "Daz",
-    "fact": "Daz learned the drow were sent to find where the party surfaced because their matron was waiting for them to surface.",
-    "source_quote": "\"I was just assigned to track you, not to engage. My orders were to report your surface destination, your contact, who approaches you.\"",
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin believed telling the drow spy to report her failure to her matron would be a fate worse than death.",
+    "source_quote": "He walked up and told her we could simply let her go \u2014 report her failure to her matron, \"let them know how pathetic you are.\"",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "Daz",
-    "fact": "Daz learned the drow's matron was looking for the person who paid to have him protected.",
-    "source_quote": "\"We are looking for that person, not for you.\"",
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin laughed at the drow spy\u2019s response to his intimidation, but recognized she was still engaging with them.",
+    "source_quote": "She laughed in his face... She was laughing, but she was also still talking to us...",
     "quote_verified": false
   },
   {
-    "type": "event",
+    "type": "npc",
     "subject": "Daz",
-    "fact": "Daz learned the matron cared because she cared \u2014 and therefore the drow cared.",
-    "source_quote": "\"The matron mother cares, and therefore I care.\"",
+    "fact": "Daz felt no superiority over Thorin\u2019s failed intimidation tactics, recognizing Thorin\u2019s physical honesty as valuable despite his lack of drow political skill.",
+    "source_quote": "I didn't feel superior about this. Thorin's instincts have saved us too many times for me to feel superior.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz admitted he sounded absurd when he said he\u2019d been underground for a while, realizing how alien it sounded to a drow.",
+    "source_quote": "I'm drow, but I've been underground for a while.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz corrected himself after realizing his statement sounded absurd, acknowledging he\u2019d been away from home for a while.",
+    "source_quote": "Let me correct that. I've been away from home for a while.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz understood that the drow spy\u2019s contemptuous look toward him was rooted in disbelief that he could be so out of touch with drow society.",
+    "source_quote": "She stared at me... \"You realize how absurd that sounds?\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz interpreted the drow spy\u2019s final admission \u2014 that she was following him to find the person who paid for his protection \u2014 as confirmation of his own significance in a larger, hidden conflict.",
+    "source_quote": "We are looking for that person, not for you.",
     "quote_verified": true
   }
 ]

@@ -2,155 +2,127 @@
   {
     "type": "npc",
     "subject": "Janussi",
-    "fact": "Janussi was struck in the face, returned to his desk, wrote notes in blue ink, and was then killed. His nose was broken, his heart removed, and one sapphire and a locket taken from his neck. The gold was left behind.",
+    "fact": "Janussi was struck in the face, returned to his desk, wrote notes in blue ink on *The Discoveries* and *The Golden Ass*, and was then killed \u2014 his heart and one sapphire and a locket removed, his nose broken, and his body rolled over.",
     "source_quote": "He'd been struck in the face, returned here, and written. Then he'd died.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum found the idea of buying another adventure as a product placement humorous and insisted the mystery required purchasing the referenced book.",
-    "source_quote": "Oh, the mystery, you have to go buy the other adventure.",
+    "subject": "Thorin",
+    "fact": "Thorin repeatedly voiced fears about magical objects waking up, claimed personal bad experiences, and interpreted the gift tag as evidence of a bitter rival \u2014 though his interpretations were speculative and not confirmed by evidence.",
+    "source_quote": "Are you sure this \u2014 is it true about candles? ... Okay, so that supports my theory. Some sort of rival gave him a gift, but it was sort of like a bitter thing.",
     "quote_verified": false
   },
   {
     "type": "npc",
-    "subject": "Thorin",
-    "fact": "Thorin theorized that a rival had given Janussi a bitter gift, evidenced by the gift tag written in a cramped, resentful hand, and that the black residue on Janussi's mouth was unrelated to blue ink.",
-    "source_quote": "Okay, so that supports my theory. Some sort of rival gave him a gift, but it was sort of like a bitter thing.",
-    "quote_verified": true
+    "subject": "Grygum",
+    "fact": "Grygum observed the blue ink sequence, recognized the shift from jokes to spell research in Janussi\u2019s notes, and dismissed Thorin\u2019s theories as amusing but unsupported \u2014 he found humor in the absurdity of the gift tag\u2019s tone.",
+    "source_quote": "Oh, the mystery... You have to go buy the other adventure. ... He found this funnier than I did.",
+    "quote_verified": false
   },
   {
     "type": "faction",
     "subject": "The Garden Shadow",
-    "fact": "The Garden Shadow (or possibly Brother Tharusk) held the belief that a room reveals its truth most clearly through what is missing rather than what remains.",
-    "source_quote": "Count what should be present before you count what is.",
+    "fact": "The Garden Shadow is an organization or group known for the aphorism that a room reveals itself most through what is missing \u2014 a principle referenced by the narrator as influential despite not being directly attributed to any single member.",
+    "source_quote": "The Garden Shadow had a saying about that \u2014 or possibly Brother Tharusk did... The point survived anyway: count what should be present before you count what is.",
     "quote_verified": false
   },
   {
     "type": "event",
-    "subject": "writing sequence",
-    "fact": "Janussi first wrote jokes in blue ink in *The Golden Ass*, then shifted to recording spell research in *The Discoveries*, with the joke annotations having dried ink before the spell notes were added.",
-    "source_quote": "Jokes first. The ink on those had dried. Then he'd flopped over into the spell research.",
+    "subject": "discovery of Janussi's body",
+    "fact": "Janussi\u2019s body was found at dawn by A'lai Aivenmore, the Great Reader, who knocked over the statue in shock \u2014 the statue had simply fallen, not been moved deliberately.",
+    "source_quote": "The statue had simply fallen, it turned out. The Great Reader A'lai Aivenmore had knocked it over in shock when he found the body at dawn.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "book disappearance",
-    "fact": "*The Golden Ass* was removed from the desk after Janussi annotated it \u2014 the only object missing from the room, despite evidence of its prior presence.",
-    "source_quote": "The comedy book had walked out of the room.",
+    "type": "location",
+    "subject": "Keeper's Chamber",
+    "fact": "The Keeper's Chamber contained a desk with *The Discoveries* and *The Golden Ass*, blue ink, a wastebasket with a gift tag, tobacco smoke residue, black residue on Janussi\u2019s mouth and fingers, and a marble statue that had been knocked over \u2014 the only item missing was *The Golden Ass*.",
+    "source_quote": "The only thing gone. A room tells you most by what it is missing.",
     "quote_verified": false
   },
   {
     "type": "object",
-    "subject": "The Discoveries",
-    "fact": "*The Discoveries* was a spellbook containing fresh blue ink annotations of obscure spells and their potential castings, the final written work under Janussi\u2019s hand.",
-    "source_quote": "The spell research was the final thing under his hand.",
-    "quote_verified": true
+    "subject": "*The Discoveries*",
+    "fact": "*The Discoveries* was a spellbook annotated in fresh blue ink with notes on unfamiliar spells and their casting \u2014 the final written work of Janussi before his death.",
+    "source_quote": "The blue ink on *The Discoveries* had been laid down after the blue ink on another book... The spell research was the final thing under his hand.",
+    "quote_verified": false
   },
   {
     "type": "object",
-    "subject": "The Golden Ass",
-    "fact": "*The Golden Ass* was a comedic text annotated by Janussi with jokes he found funny, written in the same blue ink as his spell notes, but with dried ink on the joke passages.",
-    "source_quote": "Janussi had been writing down jokes he found funny \u2014 the man had a sense of humor he'd evidently kept private.",
-    "quote_verified": true
+    "subject": "*The Golden Ass*",
+    "fact": "*The Golden Ass* was a comedy book annotated in blue ink with jokes Janussi found funny \u2014 the ink on these jokes had dried before he turned to spell research \u2014 and the book itself was missing from the chamber.",
+    "source_quote": "Jokes first. The ink on those had dried. Then he'd flopped over into the spell research... the comedy book had walked out of the room.",
+    "quote_verified": false
   },
   {
     "type": "object",
     "subject": "gift tag",
-    "fact": "A gift tag in a cramped, resentful hand was found in the wastebasket, addressed to Janussi: 'To Janussi, read it and weep, you old snob, a proper Dead Winter gift, your loving rival.'",
+    "fact": "A gift tag in a cramped, resentful hand read: 'To Janussi, read it and weep, you old snob, a proper Dead Winter gift, your loving rival' \u2014 suggesting a bitter relationship, though its authenticity and intent remain unverified.",
     "source_quote": "*To Janussi, read it and weep, you old snob, a proper Dead Winter gift, your loving rival.*",
     "quote_verified": true
   },
   {
     "type": "object",
     "subject": "black residue",
-    "fact": "Black residue was found on Janussi\u2019s fingers and mouth, definitively not blue ink, and likely from poison or another substance deliberately concealed.",
-    "source_quote": "Black. Definitively not the blue ink \u2014 Grygum had already settled that, checked it twice and certain.",
-    "quote_verified": true
+    "fact": "Black residue was found on Janussi\u2019s fingers and mouth \u2014 definitively not blue ink \u2014 suggesting exposure to poison or a toxic substance, possibly concealed by tobacco smoke.",
+    "source_quote": "Black. Definitively not the blue ink... The black on the man's mouth came from somewhere the blue ink did not.",
+    "quote_verified": false
   },
   {
     "type": "object",
     "subject": "tobacco smoke",
-    "fact": "Janussi habitually filled his chamber with tobacco smoke to medicate his failing lungs, and this smoke was used to mask the smell of poison administered to him.",
-    "source_quote": "You don't fill a room with smoke to kill a man \u2014 you fill a room with smoke to keep him from smelling what's already there.",
-    "quote_verified": true
+    "fact": "The chamber was thick with tobacco smoke, a habitual habit of Janussi\u2019s to medicate his failing lungs \u2014 which would have masked the smell of poison, making it an ideal concealment method for his murder.",
+    "source_quote": "A man who fills his own room with smoke as a habit... The one thing that tobacco smoke would do is hide the smell of poison.",
+    "quote_verified": false
   },
   {
     "type": "thread",
-    "subject": "missing book",
-    "fact": "The disappearance of *The Golden Ass* is the central absence \u2014 the only item removed from the room despite clear evidence of its prior presence and annotation.",
-    "source_quote": "A room tells you most by what it is missing.",
-    "quote_verified": true
+    "subject": "missing *The Golden Ass*",
+    "fact": "*The Golden Ass* was the only physical item missing from the chamber, despite clear evidence of annotation \u2014 its absence is the central unresolved thread, implying the killer removed it to erase evidence or as a trophy.",
+    "source_quote": "The comedy book had walked out of the room... And now it was gone, and it was the only thing gone.",
+    "quote_verified": false
   },
   {
     "type": "thread",
     "subject": "identity of the rival",
-    "fact": "The gift tag suggests a bitter rival gave Janussi a poisoned gift, but the rival's identity and motive remain unknown.",
+    "fact": "The gift tag suggests a bitter rival, but no name or further evidence is provided \u2014 the rival\u2019s identity and motive remain unknown.",
     "source_quote": "Some sort of rival gave him a gift, but it was sort of like a bitter thing.",
     "quote_verified": true
   },
   {
     "type": "thread",
-    "subject": "poison source",
-    "fact": "The black residue indicates poison was used, but its origin, delivery method, and the identity of the poisoner are unresolved.",
+    "subject": "source of the poison",
+    "fact": "The black residue on Janussi\u2019s mouth and the concealment by tobacco smoke imply poisoning, but the substance, delivery method, and agent remain unidentified.",
     "source_quote": "The one thing that tobacco smoke would do is hide the smell of poison.",
     "quote_verified": true
   },
   {
-    "type": "thread",
-    "subject": "writer of the blue ink",
-    "fact": "It is confirmed that Janussi wrote both the jokes and spell notes in blue ink, but the abrupt transition between registers and the timing of his death remain unexplained.",
-    "source_quote": "The same hand, the same fresh ink, two registers entirely.",
-    "quote_verified": true
-  },
-  {
     "type": "date",
-    "subject": "dawn discovery",
-    "fact": "The body of Janussi was found at dawn, after he had been killed and his heart removed.",
-    "source_quote": "The Great Reader A'lai Aivenmore had knocked it over in shock when he found the body at dawn.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Janussi's desk",
-    "fact": "Janussi's desk was the central locus of activity \u2014 holding *The Discoveries*, *The Golden Ass*, blue ink, and the gift tag \u2014 and the only place where physical evidence of his final hours remained.",
-    "source_quote": "The desk again. We came back to it.",
-    "quote_verified": true
+    "subject": "Dead Winter",
+    "fact": "The gift tag references 'a proper Dead Winter gift' \u2014 indicating the murder occurred during or shortly after the seasonal observance known as Dead Winter.",
+    "source_quote": "*To Janussi... a proper Dead Winter gift...*",
+    "quote_verified": false
   },
   {
     "type": "monster",
     "subject": "statue",
-    "fact": "A statue of marble, three feet tall, had fallen over \u2014 not awakened by magic, but knocked down accidentally by the discoverer of the body.",
-    "source_quote": "The statue had simply fallen, it turned out.",
-    "quote_verified": true
+    "fact": "A marble statue, three feet tall, had fallen over \u2014 not awakened or animated \u2014 and was knocked down by A'lai Aivenmore in shock upon discovering the body; it posed no threat.",
+    "source_quote": "The statue had simply fallen... Three feet of marble. Yes \u2014 a man could stagger into that and bring it down...",
+    "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "A'lai Aivenmore",
-    "fact": "A'lai Aivenmore discovered Janussi\u2019s body at dawn and knocked over the statue in shock.",
+    "fact": "A'lai Aivenmore, the Great Reader, discovered Janussi\u2019s body at dawn and knocked over the statue in shock \u2014 his reaction was instinctive, not malicious.",
     "source_quote": "The Great Reader A'lai Aivenmore had knocked it over in shock when he found the body at dawn.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "death sequence",
-    "fact": "Janussi was struck, returned to his desk, wrote jokes, then spell notes, was poisoned (masked by smoke), and died \u2014 his heart removed and valuables taken after death.",
+    "type": "npc",
+    "subject": "Janussi's unknown killer",
+    "fact": "The killer struck Janussi in the face, waited or returned, killed him, rolled his body, removed his heart and one sapphire and a locket, took *The Golden Ass*, and used tobacco smoke to mask poison \u2014 the identity and method of the killer remain unknown.",
     "source_quote": "Someone had struck him, broken his nose, waited or returned, killed him, rolled him over, taken his heart and one sapphire and a locket from his neck \u2014 and left the gold.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "intent of the gift",
-    "fact": "The 'Dead Winter gift' was likely a trap or poison delivery mechanism, but its intended function and the rival\u2019s full plan remain unknown.",
-    "source_quote": "a proper Dead Winter gift, your loving rival.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "wastebasket",
-    "fact": "The wastebasket contained the gift tag, indicating the rival\u2019s note was discarded after delivery \u2014 possibly by Janussi or the killer.",
-    "source_quote": "A gift tag surfaced from the wastebasket as we were leaving \u2014 almost behind the desk, in a cramped, sour hand.",
     "quote_verified": true
   }
 ]

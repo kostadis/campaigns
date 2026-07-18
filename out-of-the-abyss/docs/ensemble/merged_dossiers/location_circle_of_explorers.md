@@ -1,8 +1,3 @@
-<!-- source: location_circle_of_explorers.md -->
-
-
----
-
 ---
 name: Circle of Explorers
 type: location
@@ -12,24 +7,22 @@ chapters: 33-33
 
 ### Circle of Explorers
 
-- **What it is:** A Myconid gathering point and safe haven.
-- **Current state:** Operational as a refuge for Myconids who fled the Inner Circle.
-- **Location:** Near an exit hole used for escape.
-- **Current occupants/controlled by:** Rasharoo and other Myconids who fled the Inner Circle.
-- **Notable features:** Contains an exit hole used for escape; site of a deep mind meld involving Basidia, Rasharoo, Loobamub, and hunters prior to fleeing the Grove.
-- **Recent significant events:** Basidia was dragged to safety here by Zalthir after their confrontation with Phylo; it served as the destination for fleeing Myconids.
+- **Type:** Location  
+- **Current state:** Active safe haven  
+- **Location:** Near an exit hole, outside the Grove  
+- **Current occupants:** Rasharoo and other Myconids who fled the Inner Circle  
+- **Key feature:** Contains an exit hole used for escape  
+- **Recent notable events:** Basidia, Rasharoo, Loobamub, and hunters performed a deep mind meld here before fleeing the Grove; Zalthir dragged Basidia to this location after confronting Phylo  
+- **Function:** Safe haven for Myconids escaping the Inner Circle  
 
 ## Uncertainty
-- Unclear whether Basidia, Loobamub, or the hunters are currently present at the Circle of Explorers — they were last seen there during the mind meld and escape, but their current status is not confirmed.
-- Ambiguous whether Zalthir remains at the Circle or departed after bringing Basidia there.
-- No confirmation whether the exit hole is still actively used or if its condition has changed since the escape.
+- It is unclear whether Basidia, Loobamub, or the hunters are still present at the Circle of Explorers after the events described — they were last seen there but their current presence is unconfirmed.  
+- The exact geographic relationship between the Circle and the Grove or Inner Circle is not specified.  
+- It is ambiguous whether the exit hole leads to a known location or is merely an emergency egress point with no defined destination.
 
 ---
 
 <!-- source: faction_circle_of_explorers.md -->
-
-
----
 
 ---
 name: Circle of Explorers
@@ -40,16 +33,18 @@ chapters: 32-32
 
 ### Circle of Explorers
 
-**Current status:** Active  
-**Current location:** Unknown (operating in secret within or near the corrupted Grove)  
-**Allegiance/faction:** Independent Myconid faction; opposed to Phylo’s reorganization  
-**Key members:** Rasharoo (leader)  
-**Current assignment / role:** Preserving traditional Myconid nomadism; monitoring the Grove’s corruption as an omen of doom; maintaining secret escape routes  
-**Defining recent actions:** Rejected Phylo’s sedentary reorganization as a betrayal of Myconid essence; continue to operate in secrecy, asserting that Myconids are naturally nomadic and that the Grove’s corruption signals impending doom  
+- **Current status:** Active  
+- **Current location:** Unknown (last known association with the Grove)  
+- **Allegiance/faction:** Independent Myconid faction; opposes Phylo’s reorganization  
+- **Leadership:** Led by Rasharoo  
+- **Core belief:** Myconids are naturally nomadic; the Grove’s corruption is a sign of impending doom  
+- **Current assignment / role:** Preserving Myconid nomadic essence through resistance to sedentary reorganization; maintaining secret escape routes  
+- **Key relationships:** In direct opposition to Phylo and his reorganized Myconid community  
+- **Defining recent action:** Rejected Phylo’s sedentary reorganization as a betrayal of Myconid essence; actively preserving escape routes in anticipation of doom  
 
 ## Uncertainty
 - Exact current location of the Circle or its members  
-- Whether any other members besides Rasharoo are still active or alive  
-- Whether the secret escape routes are still functional or have been compromised  
-- The nature or extent of the Grove’s corruption beyond what is stated  
-- Whether any other factions or entities are actively opposing or cooperating with the Circle
+- Whether Rasharoo is still alive or actively leading (no confirmation beyond chapter 32)  
+- Whether the secret escape routes are still in use or have been compromised  
+- Whether any other Myconids besides Rasharoo are known members of the Circle  
+- Whether the Grove’s corruption has intensified or changed since the fact was recorded

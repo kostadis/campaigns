@@ -1,989 +1,632 @@
 [
   {
-    "type": "event",
-    "subject": "Daz",
-    "fact": "Daz refused to wear the offered armor.",
-    "source_quote": "Daz refused, saying armor would only slow him down",
-    "quote_verified": false
-  },
-  {
     "type": "npc",
     "subject": "Daz",
-    "fact": "Daz believes he is a nobody with no house affiliation and no apparent strategic value.",
-    "source_quote": "You don't belong to any noble house, your background is a complete mystery, you suddenly show up, and all of a sudden, we're contracted to protect a nobody.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "Daz's identity",
-    "fact": "Daz wants to know why someone in Menzoberranzan paid a lot to protect him, but the reason is not specified in this session.",
-    "source_quote": "I literally have no idea why there's all this focus on me.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Kaelira",
-    "fact": "Kaelira noticed the anomaly of Daz being protected despite having no noble house or lineage.",
-    "source_quote": "That is an excellent question. You don't belong to any noble house, your background is a complete mystery, you suddenly show up, and all of a sudden, we're contracted to protect a nobody.",
+    "fact": "Daz filed away the observation that the two Drow had decided they weren't worth the effort.",
+    "source_quote": "The two of them hadn't lowered their weapons so much as they'd decided we weren't worth the effort. I filed that away.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Kaelira",
-    "fact": "Kaelira believes Daz is likely suffering from daddy issues and self-mythologizing.",
-    "source_quote": "Yes, yes, yes, that's what every orphan thinks. Do you have daddy issues? Do you have mommy issues? Every drow thinks there's some noble things.",
+    "subject": "Daz",
+    "fact": "Daz appreciated that Nym used the past tense when referring to his concern for his safety.",
+    "source_quote": "I appreciated the past tense. It did a lot of work.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "Nym",
-    "fact": "Nym dismissed the threat of Asha Vandree as insignificant compared to Daz's survival.",
-    "source_quote": "If Daz can't protect himself from a low-level cult initiate of Lolth, then quite frankly, whoever paid for his survival deserves to lose his money.",
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz believed that the fact someone hired professionals rather than acting directly was the most interesting part of the situation.",
+    "source_quote": "That last part was the interesting part.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "Nym",
-    "fact": "Nym stated that the fee for protecting Daz is a price Daz cannot afford.",
-    "source_quote": "That is a fee... that is a price you cannot afford.",
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had been running a list in the back of his head since Velkynvelve of entities that wanted him dead.",
+    "source_quote": "I'd been running a list in the back of my head since Velkynvelve \u2014 the kind of list you keep when your life depends on knowing who wants what.",
     "quote_verified": true
   },
   {
-    "type": "event",
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz realized that until this moment, the list of entities wanting him alive and protected had been empty.",
+    "source_quote": "Entities with motive to see me alive and sufficiently protected to require hired blades from Menzoberranzan \u2014 that list had, until approximately this moment, been empty.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz believed that asking the obvious question was important because the answer was rarely the obvious answer.",
+    "source_quote": "You always ask the obvious question, because the answer is rarely the obvious answer.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz privately found Nym's elegant indifference toward Asha reassuring.",
+    "source_quote": "Nym dismissed it with a kind of elegant indifference that I found, privately, somewhat reassuring.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz believed that a third 'bravo' is never sincere.",
+    "source_quote": "Three *bravos*. I have found, as a general principle, that a third *bravo* is never sincere.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz thought that Kaelira\u2019s puzzlement was genuine and not theatrical.",
+    "source_quote": "And then she looked at me, and there was genuine puzzlement in it \u2014 not contempt, not theater. Actual, professional confusion at an anomaly that didn't fit the pattern she'd been given.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz considered himself a nobody \u2014 with no house, no lineage, no claim to Drow societal currency.",
+    "source_quote": "I had no house. No lineage with the right names. No claim on any of the structures that give a Drow life its currency in Menzoberranzan.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz believed that someone in Menzoberranzan had paid a lot to keep him alive, and that the anonymity implied the payer had something to hide.",
+    "source_quote": "In Menzoberranzan, that level of insulation around a financial transaction means exactly one thing: the payer has significant reason not to be associated with the purchase.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz privately thought that the entire chain of events might have started because someone decided to be friends with the wrong drow.",
+    "source_quote": "The thought had a particular shape. Elegant, in the way that retrospective clarity sometimes is. The whole of it \u2014 the capture, the escape, Velkynvelve, the months of running \u2014 threading back to a single point. Me. A nobody. A nobody that someone in Menzoberranzan had interrupted their schedule over, more than once.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz felt he was standing at the edge of the question that changes everything, as described by Milo Goodbarrel.",
+    "source_quote": "Milo Goodbarrel, that relentlessly hopeful halfling whose book I'd read too many times to admit, had a phrase for the sensation I was experiencing. He called it *standing at the edge of the question that changes everything.*",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz admitted he literally had no idea why there was so much focus on him.",
+    "source_quote": "I said what I actually believed, which is a thing I do less often than I probably should: 'I literally have no idea why there's all this focus on me.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
     "subject": "Zalthir",
-    "fact": "Zalthir killed Asha Vandree to prevent her from invoking Lolth's power.",
-    "source_quote": "The Eldritch Claw Tattoo doesn't announce itself. One moment I was behind her, the next my hands were something else \u2014 longer, reaching \u2014 and the strikes came in sequence... Asha Vandree did not get another word out.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Thorin",
-    "fact": "Thorin grappled Asha Vandree to prevent her from speaking.",
-    "source_quote": "He crossed the distance and got his hands on her \u2014 properly, a full grapple, one hand clamped over her mouth before she could invoke anything else.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Kaelira",
-    "fact": "Kaelira applauded Zalthir's killing of Asha Vandree as a necessary act.",
-    "source_quote": "Well done, well done, well done! See, he wasn't completely defenseless.",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "The payer's identity",
-    "fact": "The identity of the person who paid to protect Daz is not specified in this session.",
-    "source_quote": "Someone in Menzoberranzan had spent generously \u2014 they interrupt you, a lot \u2014 to ensure that a male Drow apostate with no house affiliation and no apparent strategic value survived...",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Zalthir",
-    "fact": "Zalthir decided to act decisively when others hesitated.",
-    "source_quote": "I'm making a call,\" I said. I stepped in.",
+    "fact": "Zalthir went very still when Asha Vandree declared herself in charge.",
+    "source_quote": "The moment Asha Vandree declared herself in charge, something in me went very still.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Zalthir",
-    "fact": "Zalthir believes someone had to make the call to kill Asha Vandree, and he was the one who did.",
-    "source_quote": "Someone had to make the call. I made it. That's all.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum attempted to use divine light against Asha Vandree, but it missed.",
-    "source_quote": "He leveled something at her \u2014 a directed burst of divine light that should have taken her off her feet \u2014 and it missed...",
+    "fact": "Zalthir thought Asha's confidence was the problem because she had already decided she'd won.",
+    "source_quote": "She said it with the absolute confidence of someone who had just survived something she shouldn't have \u2014 chaos, screaming, close calls that she'd already reframed as divine favor \u2014 and that confidence was the problem. *Excellent! Now that I am in charge!* ... Asha had already decided.",
     "quote_verified": false
   },
   {
-    "type": "event",
-    "subject": "Nym",
-    "fact": "Nym criticized Thorin for not killing Asha Vandree immediately.",
-    "source_quote": "When attacking a cleric of Lolth, Thorin, one does not just simply grapple them. One takes your blade and cuts their heads off.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Kaelira",
-    "fact": "Kaelira observed that Thorin and the party had made it this far despite their flawed methods.",
-    "source_quote": "It's amazing that you people have made it this far.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "The origin of the contract",
-    "fact": "The reason the contract to protect Daz was initiated is not specified in this session.",
-    "source_quote": "For all you know, the reason this all got started was because they all decided to be friends with the wrong drow.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
+    "type": "npc",
     "subject": "Zalthir",
-    "fact": "Zalthir did not look at Asha Vandree's body after killing her.",
+    "fact": "Zalthir recalled a saying from the Garden Shadow about the most dangerous person being the one who has already decided they've won.",
+    "source_quote": "I've read rooms like this before. The Garden Shadow had a saying \u2014 or possibly Brother Quellin did, the one with the dusty robes who taught something about pressure points of social authority ... that the most dangerous person in a room isn't the one with the blade drawn. It's the one who has already decided they've won.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir remembered a class on decisive action under moral uncertainty taught by Brother Harren, though he didn't recall what was said.",
+    "source_quote": "There was a class for this. Decisive action under moral uncertainty \u2014 the ethics of necessary violence, or something like that. I think it was Brother Harren, the one who never sat down, who taught it. I don't remember what he said. I remember it went on for a long time.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir made the decision to kill Asha Vandree because he believed someone had to make the call.",
+    "source_quote": "I'm making a call,\" I said. ... I just happened to also be true. Someone had to make the call. I made it. That's all.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir did not look at Asha's body after killing her.",
     "source_quote": "I didn't look at the body.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Zalthir",
-    "fact": "Zalthir believes his action was true and reasonable, even if others' hesitations were also true.",
-    "source_quote": "I just happened to also be true.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Daz",
-    "fact": "Daz asked the obvious question about the contract terms.",
-    "source_quote": "What is the terms of your contract, just to make sure that I... am alive, or that I won this particular battle?",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Kaelira",
-    "fact": "Kaelira clarified that the contract was to prevent other drow factions from killing Daz.",
-    "source_quote": "Our terms of our contract were to make sure that the other drow factions didn't get you killed.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Kaelira",
-    "fact": "Kaelira noted that the T'sarran goons were to be handled personally if needed.",
-    "source_quote": "They'd been prepared to handle the T'sarran contingent personally if it came to that.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Kaelira",
-    "fact": "Kaelira said the three bravos were not sincere.",
-    "source_quote": "Three *bravos*. I have found, as a general principle, that a third *bravo* is never sincere.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Daz",
-    "fact": "Daz thanked the sisters for their help.",
-    "source_quote": "Hey guys, thanks for the help.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
     "subject": "Thorin",
-    "fact": "Thorin asked what it would cost to retain the sisters.",
-    "source_quote": "He asked what it would cost.",
+    "fact": "Thorin tried to retain the Drow sisters and asked what it would cost.",
+    "source_quote": "Thorin, to his credit, tried to retain them. He asked what it would cost.",
     "quote_verified": true
   },
   {
-    "type": "event",
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin refused to kill Asha Vandree without necessity, stating he didn't like killing people if he didn't have to.",
+    "source_quote": "I don't like killing people if I don't have to,\" Thorin said. \"I mean, you know...",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum was probably filing away a theological observation about mysterious dispensations.",
+    "source_quote": "Grygum was probably filing away some theological observation about mysterious dispensations.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum looked thoughtful when Daz suggested auditing the books of the mysterious payer.",
+    "source_quote": "No one laughed. Grygum looked thoughtful, which is his equivalent.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
     "subject": "Zalthir",
-    "fact": "Zalthir recalled a class on decisive action under moral uncertainty.",
-    "source_quote": "There was a class for this. Decisive action under moral uncertainty \u2014 the ethics of necessary violence, or something like that.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Daz",
-    "fact": "Daz suggested auditing the payer's books.",
-    "source_quote": "You know what would help? To audit their books.",
+    "fact": "Zalthir believed that Thorin's reluctance, Nym and Kaelira's calculation, Grygum's preference for alternatives, and Daz's neutrality were all reasonable and true.",
+    "source_quote": "All of it was reasonable. All of it was true. I just happened to also be true.",
     "quote_verified": false
   },
   {
-    "type": "event",
-    "subject": "Daz",
-    "fact": "Daz wondered if there was more to him than meets the eye.",
-    "source_quote": "So then maybe there's more to me than meets the eye?",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Kaelira",
-    "fact": "Kaelira said they were not paid to think too hard about Daz's identity.",
-    "source_quote": "Perhaps, but we're not paid to think that hard.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Daz",
-    "fact": "Daz described feeling small and very important at the edge of a life-changing question.",
-    "source_quote": "He called it *standing at the edge of the question that changes everything.* He said you could always recognize it because it made you feel very small and very important at the same time.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
+    "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum felt the particular weight of irony settle in his chest when handling the keys.",
+    "fact": "Grygum felt the particular weight of irony settle in his chest when holding the jailer's keys.",
     "source_quote": "I turned them over in my hands and felt the particular weight of irony settle in my chest.",
     "quote_verified": true
   },
   {
-    "type": "event",
+    "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum said the keys would have been very useful in the very beginning.",
+    "fact": "Grygum thought the keys would have been very useful at the very beginning.",
     "source_quote": "You know, they would have been very useful in the very beginning,",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum noted that these are the very keys that had you imprisoned.",
-    "source_quote": "These are the very keys that had you imprisoned.",
-    "quote_verified": true
-  },
-  {
     "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum wanted to understand the room before he started carrying things out of it.",
-    "source_quote": "I wanted to understand the room before I started carrying things out of it.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum opened the confiscated prisoner belongings and found exactly what he expected.",
-    "source_quote": "I opened it, and the contents were exactly what you would expect from someone who understood that stripping a prisoner of their possessions is the first act of stripping them of themselves.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum said, 'If there was anything that was missing from the very beginning, like your tooth, Thorin.'",
-    "source_quote": "If there was anything that was missing from the very beginning,\" I said, not quite finishing the thought, \"like your tooth, Thorin.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Thorin",
-    "fact": "Thorin looked up and something shifted in his face \u2014 recognition, and then something quieter beneath it.",
-    "source_quote": "Thorin looked up. Something shifted in his face \u2014 recognition, and then something quieter beneath it.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Thorin",
-    "fact": "Thorin said, 'Oh, yeah. I want my tooth back.'",
-    "source_quote": "Oh, yeah. I want my tooth back.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Thorin",
-    "fact": "Thorin reached in and found the tooth and held it for a moment without saying anything.",
-    "source_quote": "He reached in and found it. He held it for a moment without saying anything.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Thorin",
-    "fact": "Thorin said, 'Very sentimental.'",
-    "source_quote": "Very sentimental.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Ilvara",
-    "fact": "Ilvara had been carrying Thorin's tooth around the Underdark and collected it like a curiosity.",
-    "source_quote": "she had been carrying his tooth around the Underdark. She had collected it like a curiosity.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum held the water-damaged journal carefully and noted the handwriting was still visible in the drier sections.",
-    "source_quote": "I held it carefully. The pages were swollen and the ink had run in places, but the handwriting was still visible in the drier sections,",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum took note of the marks of a person who had kept records right up until they couldn't.",
-    "source_quote": "the marks of a person who had kept records right up until they couldn't.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum received the flask of Overbright brandy with considerably more personal interest.",
-    "source_quote": "The flask of Overbright brandy I received with considerably more personal interest.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Asha Vandree",
-    "fact": "Asha Vandree had been a cleric of Lolth who had also become, in some capacity, a cleric of Zuggtmoy, and in the end she had been indistinguishable from the rot she served.",
-    "source_quote": "Asha Vandree had been a cleric of Lolth who had also become, in some capacity, a cleric of Zuggtmoy, and in the end she had been indistinguishable from the rot she served.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum looted Asha Vandree with the efficient respect one extends to a theological problem that has been resolved.",
-    "source_quote": "So I looted her with the efficient respect one extends to a theological problem that has been resolved.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Zalthir",
-    "fact": "Zalthir took the Drow cloak she'd been wearing \u2014 the fine spider-silk kind that drinks shadow \u2014 and Grygum did not begrudge him that.",
-    "source_quote": "Zalthir took the Drow cloak she'd been wearing \u2014 the fine spider-silk kind that drinks shadow \u2014 and I did not begrudge him that.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum suspected the sealed wax pouch was the more interesting item.",
+    "fact": "Grygum suspected the wax pouch was the more interesting item after taking it from Asha Vandree's body.",
     "source_quote": "I had the wax pouch, and I suspected it was the more interesting item.",
     "quote_verified": true
   },
   {
-    "type": "event",
+    "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum read the sealed wax pouch and found pages of close, careful script \u2014 the handwriting of someone who had once been methodical, who had trained as a theologian and brought that training to bear on a question that should not have been asked.",
-    "source_quote": "Inside were pages of close, careful script \u2014 the handwriting of someone who had once been methodical, who had trained as a theologian and brought that training to bear on a question that should not have been asked.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum said, 'It's basically a long theological exploration of why Zuggtmoy and Lolth \u2014 and claiming that Lolth and Zuggtmoy are the same thing,'",
-    "source_quote": "It's basically a long theological exploration of why Zuggtmoy and Lolth \u2014 and claiming that Lolth and Zuggtmoy are the same thing,",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum said, 'It's very tedious and boring.'",
-    "source_quote": "It's very tedious and boring.",
+    "fact": "Grygum was very tired immediately after reading the contents of the wax pouch.",
+    "source_quote": "I was right. I was also, immediately, very tired.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum understood the written record of a mind finding its way toward the conclusion that two incompatible things were secretly one thing \u2014 the kind of reasoning that starts from a desired destination and works backward.",
-    "source_quote": "what it actually was, was the written record of a mind finding its way toward the conclusion that two incompatible things were secretly one thing \u2014 the kind of reasoning that starts from a desired destination and works backward.",
+    "fact": "Grygum thought the theological text in the wax pouch was tedious and boring (being diplomatic).",
+    "source_quote": "It's basically a long theological exploration... It's very tedious and boring.",
     "quote_verified": false
   },
   {
-    "type": "event",
+    "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum asked, 'Is this pre-craziness or post-craziness, do you think?'",
-    "source_quote": "Is this pre-craziness or post-craziness, do you think?\" I asked.",
+    "fact": "Grygum wondered whether the theological text was pre-craziness or post-craziness.",
+    "source_quote": "Is this pre-craziness or post-craziness, do you think?",
     "quote_verified": true
   },
   {
-    "type": "event",
+    "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum examined Ilvara's prayer book gingerly.",
-    "source_quote": "I'll examine it gingerly.",
+    "fact": "Grygum recalled seeing similar handwriting in a merchant who had been Tongued by a bardic curse.",
+    "source_quote": "I had seen something like this before, in a completely different context \u2014 a merchant I once knew who had been Tongued by a bardic curse...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum thought the ambiguity of whether Ilvara knew she wasn't resisting her corruption was the most troubling part.",
+    "source_quote": "That ambiguity was the most troubling part.",
     "quote_verified": true
   },
   {
-    "type": "event",
+    "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum noted the main text was a standard Lolth prayer book \u2014 formatted prayers, liturgical responses, the hierarchy of supplication laid out in careful descending order.",
-    "source_quote": "The main text was a standard Lolth prayer book \u2014 the kind of thing they give to promising young acolytes in the outer sanctums of any major drow religious house. Formatted prayers. Liturgical responses. The hierarchy of supplication laid out in careful descending order.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum noted the marginalia were in a different hand and showed the corruption timeline.",
-    "source_quote": "but you notice it has Zuggtmoy marginalia \u2014 the margins in a different hand \u2014 since it shows the corruption timeline.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum observed that the early entries were neat and formal and exactly what you would expect.",
-    "source_quote": "The early entries were neat and formal and exactly what you would expect.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum observed that the second voice in the marginalia was less structured, more associative, and some sentences didn't always end.",
-    "source_quote": "Then, gradually, around the margins, a second voice crept in. Less structured. More associative. The sentences didn't always end. Some of them were questions that answered themselves with other questions.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum recalled seeing something like this before \u2014 a merchant Tongued by a bardic curse whose correspondence was eerily similar.",
-    "source_quote": "I had seen something like this before, in a completely different context \u2014 a merchant I once knew who had been Tongued by a bardic curse, whose correspondence from that period was eerily similar:",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum noted the corruption timeline was legible if you knew how to read it.",
-    "source_quote": "The corruption timeline was legible if you knew how to read it.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum thought, briefly, of Stroud sitting down across from Protanther \u2014 four hundred years of preparation, still had a blind spot.",
+    "fact": "Grygum thought of Stroud sitting across from Protanther and realized even long preparation can leave blind spots.",
     "source_quote": "I thought, briefly, of Stroud sitting down across from Protanther. Four hundred years of preparation. Still had a blind spot.",
     "quote_verified": true
   },
   {
-    "type": "event",
+    "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum read the sealed orders from House Mizzrym aloud: 'Where are you? What have you been doing? Respond \u2014 kind of thing. You've gone missing. Followed by more frantic: where are you, where are you? Didn't you read the previous memo? What's up?'",
-    "source_quote": "Where are you? What have you been doing? Respond \u2014 kind of thing. You've gone missing. Followed by more frantic: where are you, where are you? Didn't you read the previous memo? What's up?",
+    "fact": "Grygum believed the thing that undoes you isn't the opponent you've been studying \u2014 it's the thing you didn't know to look for.",
+    "source_quote": "Sometimes the thing that undoes you isn't the opponent you've been studying \u2014 it's the thing you didn't know to look for.",
     "quote_verified": true
   },
   {
-    "type": "event",
+    "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum noted the letter from Neverlight Grove was a missed meeting \u2014 political correspondence that had gone nowhere because the person it was addressed to had gone somewhere else.",
-    "source_quote": "A missed meeting. Political correspondence that had gone nowhere, because the person it was addressed to had gone somewhere else \u2014 somewhere a Demon Queen's influence had been a stronger pull than any political alliance.",
+    "fact": "Grygum intended to examine Ilvara's prayer book gingerly because it was dangerous.",
+    "source_quote": "I'll examine it gingerly.",
     "quote_verified": true
   },
   {
-    "type": "event",
+    "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum said the sealed orders were someone's records of a relationship that had dissolved without anyone on one end knowing why.",
-    "source_quote": "They were someone's records of a relationship that had dissolved without anyone on one end knowing why.",
+    "fact": "Grygum understood that the prayer book told him things he did not want to know.",
+    "source_quote": "It told me things I did not want to know.",
     "quote_verified": true
   },
   {
-    "type": "event",
+    "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum described the Living Serpent Head Scourge as a great museum piece.",
+    "fact": "Grygum noticed that the marginalia in Ilvara's prayer book were in a different hand, indicating a second mind at work.",
+    "source_quote": "A different hand. That detail mattered to me more than any of the specific words.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum feared that Ilvara had written the marginalia herself in a state so altered her handwriting had changed.",
+    "source_quote": "Or \u2014 and this was the reading that settled in my stomach like cold stone \u2014 she had written in it herself but in a state so altered that the handwriting had changed.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum believed Ilvara had not resisted the corruption documented in her prayer book.",
+    "source_quote": "She had not resisted it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum thought the Living Serpent Head Scourge was a great museum piece.",
     "source_quote": "The Living Serpent Head Scourge sounds... It sounds like a great museum piece.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum believed that acknowledging the craft of terrible items is not the same as endorsing what the craft served.",
-    "source_quote": "There is a tradition, in certain temples I have visited, of displaying items that are terrible in origin and remarkable in craft, on the theory that acknowledging the craft is not the same as endorsing what the craft served.",
+    "fact": "Grygum believed acknowledging the craft of terrible objects is not the same as endorsing what they served.",
+    "source_quote": "There is a tradition... of displaying items that are terrible in origin and remarkable in craft, on the theory that acknowledging the craft is not the same as endorsing what the craft served.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin wanted his tooth back after Grygum mentioned it.",
+    "source_quote": "Oh, yeah. I want my tooth back.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum documented the items carefully and did not pretend they weren't what they were.",
-    "source_quote": "You document them. You label them carefully. You do not pretend they aren't what they are.",
+    "subject": "Thorin",
+    "fact": "Thorin felt recognition and then something quieter beneath it when Grygum mentioned his tooth.",
+    "source_quote": "Thorin looked up. Something shifted in his face \u2014 recognition, and then something quieter beneath it.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum took notes instead of saying much about any of the items.",
-    "source_quote": "I took notes instead.",
+    "subject": "Daz",
+    "fact": "Daz meant seriously when he said, 'We've come a long way.'",
+    "source_quote": "He said it lightly. He meant it seriously.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Thorin Giantfriend",
-    "fact": "Thorin carries the necromantic pearl as a marker of how far the corruption had spread by the time they arrived.",
-    "source_quote": "I had the necromantic pearl in one pocket. I'd already turned over the question of what it meant \u2014 something this finished, this dense, at the core of a corrupted fungal mass that Ilvara had been using as a ritual anchor.",
+    "subject": "Zalthir",
+    "fact": "Zalthir took the Drow cloak from Asha Vandree's body, and Grygum did not begrudge him that.",
+    "source_quote": "Zalthir took the Drow cloak she'd been wearing... and I did not begrudge him that.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Ilvara's corruption",
+    "fact": "Ilvara's corruption timeline was legible in the marginalia of her prayer book, showing a gradual shift from normal devotion to altered thinking.",
+    "source_quote": "The corruption timeline was legible if you knew how to read it. Ilvara had been normal... and then something had found the edge of her and started pulling.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Asha Vandree's transformation",
+    "fact": "Asha Vandree had become indistinguishable from the rot she served, justifying Grygum's efficient looting of her body.",
+    "source_quote": "Asha Vandree had been a cleric of Lolth who had also become... indistinguishable from the rot she served.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "House Mizzrym's concern",
+    "fact": "House Mizzrym's sealed orders revealed frantic concern over Ilvara's disappearance, unaware of her corruption.",
+    "source_quote": "Where are you? What have you been doing? Respond \u2014 kind of thing. You've gone missing. Followed by more frantic: where are you, where are you?",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Neverlight Grove's missed meeting",
+    "fact": "The letter from Neverlight Grove confirmed Ilvara's political alliance had dissolved because she was lost to Zuggtmoy's influence.",
+    "source_quote": "A missed meeting. Political correspondence that had gone nowhere, because the person it was addressed to had gone somewhere else \u2014 somewhere a Demon Queen's influence had been a stronger pull than any political alliance.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Thorin Giantfriend",
-    "fact": "Thorin carries Ilvara's recovered tooth as a marker of where they started.",
-    "source_quote": "It was settled now. I had the tooth back. And I had the pearl that had been buried in the heart of whatever she'd turned this place into.",
+    "subject": "Thorin",
+    "fact": "Thorin decided the necromantic pearl was necromantic, based on its sensation, like the smell from a giant's larder.",
+    "source_quote": "I decided, necromantic, the same way you decide the smell coming from the back of a giant's larder means something died in there a while ago.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin intended to take the necromantic pearl because he would not leave anything useful in the cavern.",
+    "source_quote": "I didn't need a name for it. It was worth something to the right buyer, and I was not going to leave anything useful in this cavern, so I pocketed it.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "Thorin Giantfriend",
-    "fact": "Thorin recognized the necromantic pearl as something deliberately placed, not accidental.",
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin felt the bundle of ritual items was not equipment but evidence of Ilvara's madness.",
+    "source_quote": "It wasn't equipment. It was evidence. It was Ilvara's madness made physical \u2014 the thing she'd built her rituals around while she was becoming something that served two masters and understood neither.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin refused to pray over the dead soldiers of House Mizzrym because he had nothing to say to them.",
+    "source_quote": "I didn't pray over them. They'd come here doing what they were told by someone who had already lost her mind, and I had nothing to say to them that wasn't just 'better luck in another life.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin realized the signet ring and documents proved House T'sarran had contracted to extract Daz alive.",
+    "source_quote": "The documents were worse. What was left of them... confirmed what we'd been trying to piece together since the mage had arrived with her mercenary escort. There had been a contract. Extract Daz alive and unharmed. House T'sarran behind it.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin considered Daz\u2019s response to Nym\u2019s skepticism to be the most restrained thing he could have said.",
+    "source_quote": "Daz looked at her with something behind his eyes that I couldn't quite read. He let a beat pass, and then he said: 'So then maybe there's more to me than meets the eye?' Which was, I thought, the most restrained thing he could possibly have said in that moment.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin understood the necromantic pearl was not in the wrong place by accident \u2014 someone had placed it there.",
     "source_quote": "The pearl wasn't in the wrong place by accident. Someone had put something like it there, or something like it had grown there because the conditions were exactly right for it.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "Thorin Giantfriend",
-    "fact": "Thorin retrieved Ilvara's tooth from her trophy collection.",
-    "source_quote": "She'd taken my tooth. A chip broken off in the capture, displayed in her chest like a piece of evidence of what she could do.",
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin remembered Ilvara taking his tooth at Velkynvelve as a trophy and a symbol of power.",
+    "source_quote": "When we'd first found ourselves hanging in nets at Velkynvelve, Ilvara had made a point of collecting trophies. It was the kind of thing a person does when they want their captives to understand the power relation clearly \u2014 she'd taken my tooth.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin felt the debt of his stolen tooth was now settled because he had recovered it.",
+    "source_quote": "It was settled now. I had the tooth back.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin intended to keep silent about the significance of the tooth and the pearl because speaking would add nothing to the next ten seconds.",
+    "source_quote": "I didn't say any of that out loud. Thorin Giantfriend, radical transparency, except when the thing being said wouldn't add anything to the next ten seconds.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz wondered why powerful Drow houses would spend so much to extract him, given his lack of consequence.",
+    "source_quote": "I am not, by any meaningful measure, a person of consequence. I am a male Drow apostate from Menzoberranzan... My lineage is not distinguished. My House, if I ever truly had one, is not significant. I do not possess anything worth this level of orchestrated attention.",
     "quote_verified": false
   },
   {
-    "type": "event",
-    "subject": "Thorin Giantfriend",
-    "fact": "Thorin pocketed the incense cones, silver bowl, and stitched cloth bearing Lolth's web and Zuggtmoy's mark.",
-    "source_quote": "Inside: incense cones, a silver bowl small enough to fit in one hand, and a cloth that had been stitched with two sigils \u2014 Lolth's web worked into the eight-fold geometry of Zuggtmoy's mark, one woven inside the other.",
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz privately catalogued the possibility of noble blood as embarrassing and preferred a more interesting answer.",
+    "source_quote": "I have, privately, catalogued that possibility and found it embarrassing. Whatever the answer to this question turns out to be, I prefer it to be something more interesting than inherited blood I didn't earn.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "Thorin Giantfriend",
-    "fact": "Thorin identified the stitched cloth as Ilvara's madness made physical.",
-    "source_quote": "It was evidence. It was Ilvara's madness made physical \u2014 the thing she'd built her rituals around while she was becoming something that served two masters and understood neither.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Thorin Giantfriend",
-    "fact": "Thorin recognized the T'sarran signet ring on the dead mage\u2019s finger.",
-    "source_quote": "I found the signet ring first \u2014 House T'sarran, the seal unmistakable on the face of it.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Thorin Giantfriend",
-    "fact": "Thorin examined the partially burned documents revealing the contract to extract Daz alive and unharmed.",
-    "source_quote": "Then the documents. They'd been partially burned, which meant someone had tried to destroy them and hadn't quite managed it, which meant the information in them was exactly the kind of thing worth knowing.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Thorin Giantfriend",
-    "fact": "Thorin confirmed the contract was from House T'sarran to extract Daz alive and unharmed.",
-    "source_quote": "There had been a contract. Extract Daz alive and unharmed. House T'sarran behind it.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Thorin Giantfriend",
-    "fact": "Thorin showed the documents to Nym and Kaelira.",
-    "source_quote": "We showed the documents to Nym and Kaelira.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Thorin Giantfriend",
-    "fact": "Thorin observed Nym's expressive irritation and Kaelira's professional stillness as they read the documents.",
-    "source_quote": "Nym had the kind of face that gets more expressive the more irritated she becomes, and right now she was very expressive. Kaelira was the opposite \u2014 still and professional, reading the burned pages with the focus of someone who was paid to be good at exactly this.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Thorin Giantfriend",
-    "fact": "Thorin heard Nym question Daz's mysterious origins and the cost of the contract.",
-    "source_quote": "That is an excellent question. You don't belong to any noble house, your background is a complete mystery, you suddenly show up, and all of a sudden, we're contracted to protect a nobody. Do you know how much money that required us to get, for us to do? A lot. Like, they interrupt you. A lot.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Thorin Giantfriend",
-    "fact": "Thorin heard Daz respond to Nym with, 'So then maybe there's more to me than meets the eye?'",
-    "source_quote": "Daz looked at her with something behind his eyes that I couldn't quite read. He let a beat pass, and then he said: 'So then maybe there's more to me than meets the eye?'",
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz resolved to investigate his origins together with the party and split any proceeds from the discovery.",
+    "source_quote": "I think,' I said, keeping my voice very even, 'that we should investigate this together. Whatever we find \u2014 whoever is behind this, whatever they think I'm worth \u2014 we split the proceeds.'",
     "quote_verified": false
   },
   {
-    "type": "event",
-    "subject": "Thorin Giantfriend",
-    "fact": "Thorin heard Kaelira say, 'Perhaps, but we're not paid to think that hard.'",
-    "source_quote": "Kaelira said, without looking up from the documents: 'Perhaps, but we're not paid to think that hard.'",
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz noted that Nym and Kaelira regarded him with skepticism that was precise, not cruel.",
+    "source_quote": "Nym and Kaelira regarded me with the specific expression that Drow reserve for people they find simultaneously interesting and beneath consideration. The tone was sardonic in the way that only people trained in the same school of thought as me can manage \u2014 not cruel, just precise.",
     "quote_verified": false
   },
   {
-    "type": "event",
-    "subject": "Thorin Giantfriend",
-    "fact": "Thorin observed Daz's reaction to the questions about his identity as restrained.",
-    "source_quote": "Which was, I thought, the most restrained thing he could possibly have said in that moment.",
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz accepted that the Duskryn sisters were not entirely wrong to be skeptical of his possible noble lineage.",
+    "source_quote": "The uncomfortable truth is that they were not entirely wrong to be skeptical.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "Thorin Giantfriend",
-    "fact": "Thorin saw Daz reach for the wand \u2014 obsidian with a captive spider in amber \u2014 and noted its significance.",
-    "source_quote": "Then the wand: obsidian, a captive spider preserved in amber at its tip.",
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz filed the question of his identity away to return to it at inconvenient moments.",
+    "source_quote": "I filed the question where I file most things that don't have immediate answers \u2014 in the part of my mind that I return to at inconvenient moments \u2014 and let the conversation move on.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "Thorin Giantfriend",
-    "fact": "Thorin watched Daz and Dawnbringer negotiate the use of the sunblade in a purification ritual.",
-    "source_quote": "Dawnbringer disagreed. 'I'm not some kind of magical wizard thingy that purifies things. I am a high-quality sunblade. I kill things. I will not be treated like a religious symbol to be used and waved over corrupt\u2014'",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Thorin Giantfriend",
-    "fact": "Thorin used the Vaultmaster Locking Scabbard to persuade Dawnbringer to participate in the ritual.",
-    "source_quote": "Thorin reached, unhurriedly, for the scabbard. 'Do I need to show you the scabbard again?'",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Thorin Giantfriend",
-    "fact": "Thorin noted Dawnbringer's concession: 'I suppose I could do you this one. I could do this solid for you.'",
-    "source_quote": "I suppose\u2026\" Dawnbringer began, and then, with the dignity of someone granting a significant concession: \"I suppose I could do you this one. I could do this solid for you.",
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz observed that Dawnbringer refused to be used as a religious symbol for purification.",
+    "source_quote": "I'm not some kind of magical wizard thingy that purifies things. I am a high-quality sunblade. I kill things. I will not be treated like a religious symbol to be used and waved over corrupt\u2014",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "Thorin Giantfriend",
-    "fact": "Thorin observed the comfortable rhythm of repetition between himself and Dawnbringer.",
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz noted that Thorin\u2019s use of the Vaultmaster Locking Scabbard was an effective tool for negotiating with Dawnbringer.",
+    "source_quote": "I noted the outburst, noted Thorin's expression \u2014 the particular patience of a man who has had this conversation before and expects to have it again \u2014 and watched.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz recognized that Thorin and Dawnbringer\u2019s exchange had the comfortable rhythm of repetition \u2014 they had been here before.",
     "source_quote": "They had been here before, the dwarf and his sword. They would be here again.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Daz",
-    "fact": "Daz is a male Drow apostate from Menzoberranzan who studied magic and held private opinions that would have gotten him killed if voiced aloud.",
-    "source_quote": "I am a male Drow apostate from Menzoberranzan who studied magic, held private opinions that would have gotten him killed if voiced aloud, and eventually ended up in Velkynvelve's cages alongside a dwarf raised by giants and a dragonborn who doesn't talk much.",
+    "fact": "Daz acknowledged that he carried unresolved questions about his identity alongside the party\u2019s other burdens.",
+    "source_quote": "I had an unanswered question about my own identity sitting unresolved in my chest, a pair of Drow mercenaries who found me either fascinating or ridiculous, and a sunblade that had just been persuaded to participate in something it found philosophically objectionable.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Daz's identity",
+    "fact": "Daz intends to uncover the truth about why he was targeted, even if the answer is not noble blood.",
+    "source_quote": "Whatever the answer to this question turns out to be, I prefer it to be something more interesting than inherited blood I didn't earn.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The necromantic pearl",
+    "fact": "Thorin suspects the pearl is a key to understanding Ilvara\u2019s ritual corruption, but has not yet named its origin.",
+    "source_quote": "The pearl wasn't in the wrong place by accident. Someone had put something like it there, or something like it had grown there because the conditions were exactly right for it. Either answer was a problem that needed a name.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The stolen tooth",
+    "fact": "Thorin carries the recovered tooth as a symbol of closure from his captivity at Velkynvelve.",
+    "source_quote": "It was settled now. I had the tooth back.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Daz",
-    "fact": "Daz has no distinguished lineage and no significant House affiliation.",
-    "source_quote": "My lineage is not distinguished. My House, if I ever truly had one, is not significant.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Daz",
-    "fact": "Daz expressed confusion about why powerful Drow houses would spend resources to extract him.",
-    "source_quote": "I said as much to the group \u2014 that I was, genuinely, confused. That powerful Drow houses do not spend this kind of resource on nobodies.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Daz",
-    "fact": "Daz proposed investigating the contract together and splitting any proceeds.",
-    "source_quote": "I think,\" I said, keeping my voice very even, \"that we should investigate this together. Whatever we find \u2014 whoever is behind this, whatever they think I'm worth \u2014 we split the proceeds.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Daz",
-    "fact": "Daz noted Nym and Kaelira\u2019s sardonic skepticism about his possible noble origins.",
-    "source_quote": "They had opinions, the sisters, about mysterious orphans who arrive at adulthood convinced they have noble blood waiting somewhere.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Daz",
-    "fact": "Daz privately catalogued the possibility of noble blood as embarrassing.",
-    "source_quote": "I have, privately, catalogued that possibility and found it embarrassing.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Daz",
-    "fact": "Daz filed the question of his identity away to return to at inconvenient moments.",
-    "source_quote": "I filed the question where I file most things that don't have immediate answers \u2014 in the part of my mind that I return to at inconvenient moments \u2014 and let the conversation move on.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "Daz's true identity",
-    "fact": "Daz's true identity and the reason for the contract to extract him remain unverified and unresolved.",
-    "source_quote": "The honest answer \u2014 the one I kept arriving at and then setting aside \u2014 was that I had no idea why.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "The contracting party behind House T'sarran",
-    "fact": "The identity of the party who commissioned House T'sarran to extract Daz alive and unharmed remains unknown.",
-    "source_quote": "The contracting party was unknown even to them.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "The origin of the necromantic pearl",
-    "fact": "The origin of the necromantic pearl \u2014 whether placed or grown \u2014 remains unexplained.",
-    "source_quote": "Either answer was a problem that needed a name.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "Ilvara's connection to Zuggtmoy and Lolth",
-    "fact": "The nature and extent of Ilvara's connection to Zuggtmoy and Lolth, as evidenced by the stitched cloth, remains unexplored.",
-    "source_quote": "It was Ilvara's madness made physical \u2014 the thing she'd built her rituals around while she was becoming something that served two masters and understood neither.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Thorin Giantfriend",
-    "fact": "Thorin wrapped up the incense cones, silver bowl, and stitched cloth before moving on.",
-    "source_quote": "I wrapped it back up and moved on.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Thorin Giantfriend",
-    "fact": "Thorin passed through the bodies of the dead soldiers of House Mizzrym without praying.",
-    "source_quote": "I didn't pray over them. They'd come here doing what they were told by someone who had already lost her mind, and I had nothing to say to them that wasn't just 'better luck in another life.'",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Thorin Giantfriend",
-    "fact": "Thorin collected gold, short swords, a long sword, and a steel whistle from the dead guards.",
-    "source_quote": "Gold, short swords, a long sword, a steel whistle.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Daz",
-    "fact": "Daz acknowledged the road to the surface waited, unresolved questions in tow.",
-    "source_quote": "Around me, the road to the surface waited. I had an unanswered question about my own identity sitting unresolved in my chest...",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Daz",
-    "fact": "Daz accepted that some questions are carried, not audited.",
-    "source_quote": "Some things you audit. Some things you simply carry.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "I",
-    "fact": "I had stopped counting the steps because counting had started to feel like superstition, like I was measuring the distance against the possibility of failure.",
+    "subject": "Zalthir",
+    "fact": "Zalthir stopped counting steps because counting had started to feel like superstition, as if he were measuring distance against the possibility of failure.",
     "source_quote": "I had stopped counting the steps somewhere around the third hour of climbing \u2014 not because I lost track, but because counting had started to feel like superstition, like I was measuring the distance against the possibility of failure.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "I",
-    "fact": "I had been thinking about the moment of the Overbright, intermittently, for months, not with anticipation exactly \u2014 anticipation implies you trust the thing to happen.",
-    "source_quote": "I had been thinking about this moment, intermittently, for months. Not with anticipation exactly \u2014 anticipation implies you trust the thing to happen.",
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir had been thinking about the Overbright intermittently for months, not with anticipation but like a theory he had not yet been able to test.",
+    "source_quote": "I had been thinking about this moment, intermittently, for months. Not with anticipation exactly \u2014 anticipation implies you trust the thing to happen. More the way you might think about a theory you have not yet been able to test.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "I",
-    "fact": "I had been carrying the Overbright through Velkynvelve and Gracklstugh and the Darklake and Blingdenstone like a stone in a pocket, something I reached for when the tunnels pressed too close.",
-    "source_quote": "The Overbright was a concept I had been carrying through Velkynvelve and Gracklstugh and the Darklake and Blingdenstone like a stone in a pocket, something I reached for when the tunnels pressed too close.",
+    "subject": "Zalthir",
+    "fact": "Zalthir had stopped trusting that the Overbright would be real.",
+    "source_quote": "I had stopped trusting it would be real.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "I",
-    "fact": "I knew that Drow cloaks disintegrated in the sunlight.",
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir felt the sunlight was a kind of violence, not pain, but the body registering that something fundamental had changed.",
+    "source_quote": "what I felt when it touched my face was a kind of violence, or close to it. Not pain. Just the body registering that something fundamental had changed, the same way a deep-water creature might register the pressure dropping.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir knew that Drow cloaks disintegrated in sunlight.",
     "source_quote": "I knew that Drow cloaks disintegrated in the sunlight.",
     "quote_verified": true
   },
   {
-    "type": "thread",
-    "subject": "The class on material impermanence",
-    "fact": "There was a class for this \u2014 some form of material impermanence \u2014 I think it was Brother Quellin, or possibly the tall one whose name I never quite caught, the one who always had chalk dust on his robe. The transience of tools. The attachment to implements. Something about a bowl and an empty hand.",
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir recalled a class on material impermanence taught by Brother Quellin or another monk with chalk dust on his robe.",
     "source_quote": "There was a class for this. Some form of material impermanence \u2014 I think it was Brother Quellin, or possibly the tall one whose name I never quite caught, the one who always had chalk dust on his robe. The transience of tools. The attachment to implements. Something about a bowl and an empty hand.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum had opened the bag of holding just enough, and Glabbagool \u2014 our companion, our gelatinous ward who was now a grey ooze \u2014 had peered out.",
-    "source_quote": "Grygum had opened the bag of holding just enough, and Glabbagool \u2014 our companion, our gelatinous ward who was now a grey ooze, the most improbable relationship any of us had formed in the Underdark, which was saying something given the competition \u2014 had peered out.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool had peered out, wide and present and sweeping across the surface world with an attention that made my own response to the Overbright seem, by comparison, measured.",
-    "source_quote": "He peered. He had not been in sunlight before. None of us were entirely sure what Glabbagool's eyes were, from a structural standpoint, but they were wide and present and sweeping across the surface world with an attention that made my own response to the Overbright seem, by comparison, measured.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "I",
-    "fact": "I watched him watch the sky.",
-    "source_quote": "I watched him watch the sky.",
-    "quote_verified": true
-  },
-  {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum was doing something with his hands that was probably prayer and probably sincere.",
-    "source_quote": "Grygum was doing something with his hands that was probably prayer and probably sincere.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Daz",
-    "fact": "Daz was, I suspected, already drafting a journal entry.",
-    "source_quote": "Daz was, I suspected, already drafting a journal entry.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Daz",
-    "fact": "Daz's particular analytical gravity was already pulling the decision toward a conclusion before the conversation began.",
-    "source_quote": "The decision about what to do with the months was largely Daz's call, framed as a group discussion but with Daz's particular analytical gravity already pulling it toward a conclusion before the conversation began.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Daz",
-    "fact": "The conclusion \u2014 Candlekeep, the Great Library, research into House T'sarran and Jimjar's disappearance and whatever the various cutouts and hired Duskryns were ultimately pointing at regarding Daz's own history \u2014 was reasonable.",
-    "source_quote": "The conclusion \u2014 Candlekeep, the Great Library, research into House T'sarran and Jimjar's disappearance and whatever the various cutouts and hired Duskryns were ultimately pointing at regarding Daz's own history \u2014 was reasonable.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Thorin",
-    "fact": "Thorin was thinking about Dawnbringer \u2014 not what to do with it; he would never give it up, and the sword would never go quietly. But what it had been through.",
-    "source_quote": "Thorin, characteristically, was thinking about Dawnbringer. Not what to do with it; he would never give it up, and the sword would never go quietly. But what it had been through.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "Thorin's sword whisperer",
-    "fact": "Thorin had mentioned something about a specialist \u2014 the phrase *sword whisperer* had come up, delivered with the particular dwarvish seriousness that Thorin applied to things he actually cared about, which meant he believed this person existed and should be found.",
-    "source_quote": "He had mentioned something about a specialist \u2014 the phrase *sword whisperer* had come up, delivered with the particular dwarvish seriousness that Thorin applied to things he actually cared about, which meant he believed this person existed and should be found.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum was the only one among us who had accumulated a list of things he wanted to read, and Candlekeep was going to be, for him, something between research and pilgrimage.",
-    "source_quote": "Grygum had pamphlets on his mind. This was entirely consistent. Grygum was the only one among us who had accumulated a list of things he wanted to read, and Candlekeep was going to be, for him, something between research and pilgrimage.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum would look up the lore of Bahamut. He would pick up pamphlets. He would be genuinely delighted by the availability of pamphlets.",
-    "source_quote": "He would look up the lore of Bahamut. He would pick up pamphlets. He would be genuinely delighted by the availability of pamphlets.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "I",
-    "fact": "The debate that surfaced was the familiar one: invest it in something that might grow, or spend it on what would keep us alive.",
-    "source_quote": "Someone raised the question of the gold. We had more of it than we had started with \u2014 which was not saying much, given that we had started with nothing \u2014 and the debate that surfaced was the familiar one: invest it in something that might grow, or spend it on what would keep us alive.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "I",
-    "fact": "We agreed on the gear.",
-    "source_quote": "We agreed on the gear.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "I",
-    "fact": "I thought: this is where we were going. We had made it. Now there was everything else.",
-    "source_quote": "I stood at the entrance to the surface world, squinting at a sky that went farther than anything I had navigated in months, and I thought: this is where we were going. We had made it. Now there was everything else.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "I",
-    "fact": "I noted the category and moved on.",
-    "source_quote": "I had no opinion on sword whisperers. I noted the category and moved on.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "I",
-    "fact": "I found that admirable in a way I was not going to say out loud.",
-    "source_quote": "I found that admirable in a way I was not going to say out loud.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "I",
-    "fact": "I noted the response. Filed it.",
-    "source_quote": "I noted the response. Filed it.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "I",
-    "fact": "I stood and let the light happen to me.",
-    "source_quote": "I stood and let the light happen to me.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "I",
-    "fact": "I put my cloak in a bag.",
-    "source_quote": "I put my cloak in a bag.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "I",
-    "fact": "It had not, in fact, worked itself out.",
+    "subject": "Zalthir",
+    "fact": "Zalthir believed the monastery curriculum\u2019s focus on non-combat topics had not worked itself out for him.",
     "source_quote": "It had not, in fact, worked itself out.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "Thorin",
-    "fact": "Thorin stood with his face at an angle that suggested he was calculating the sun's position relative to the year.",
-    "source_quote": "Thorin stood with his face at an angle that suggested he was calculating the sun's position relative to the year.",
+    "subject": "Zalthir",
+    "fact": "Zalthir noticed Glabbagool peering out of the bag of holding with wide, present eyes, observing the surface world with attention.",
+    "source_quote": "There is no other word for it. He peered. He had not been in sunlight before. None of us were entirely sure what Glabbagool's eyes were, from a structural standpoint, but they were wide and present and sweeping across the surface world with an attention that made my own response to the Overbright seem, by comparison, measured.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir found Glabbagool\u2019s curiosity toward the surface world admirable, though he would not say it out loud.",
+    "source_quote": "I found that admirable in a way I was not going to say out loud.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "Daz",
-    "fact": "Daz came through last, the way Daz always came through last, already observing before he was fully present, already composing the analysis before his feet had cleared the threshold.",
-    "source_quote": "Daz came through last, the way Daz always came through last, already observing before he was fully present, already composing the analysis before his feet had cleared the threshold.",
+    "subject": "Zalthir",
+    "fact": "Zalthir noted that Grygum was doing something with his hands that was probably prayer and probably sincere.",
+    "source_quote": "Grygum was doing something with his hands that was probably prayer and probably sincere.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum next, blinking with something that looked less like discomfort and more like relief, the earnest half-orc having what appeared to be a genuine spiritual moment with direct sunlight.",
-    "source_quote": "Grygum next, blinking with something that looked less like discomfort and more like relief, the earnest half-orc having what appeared to be a genuine spiritual moment with direct sunlight.",
+    "subject": "Zalthir",
+    "fact": "Zalthir suspected Daz was already drafting a journal entry.",
+    "source_quote": "Daz was, I suspected, already drafting a journal entry.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "Thorin",
-    "fact": "Thorin first, which was correct \u2014 he always led from the front, always had, it was as close to instinct as that dwarf ever got.",
-    "source_quote": "Thorin first, which was correct \u2014 he always led from the front, always had, it was as close to instinct as that dwarf ever got.",
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir understood that the decision about what to do with the months was largely Daz\u2019s call, framed as a group discussion but pulled by Daz\u2019s analytical gravity.",
+    "source_quote": "The decision about what to do with the months was largely Daz's call, framed as a group discussion but with Daz's particular analytical gravity already pulling it toward a conclusion before the conversation began.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "I",
-    "fact": "We stood in the Overbright for a while, longer than was probably necessary from a tactical standpoint, and nobody suggested moving immediately.",
-    "source_quote": "We stood in the Overbright for a while, longer than was probably necessary from a tactical standpoint, and nobody suggested moving immediately.",
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir had no opinion on sword whisperers but noted the category and moved on.",
+    "source_quote": "I had no opinion on sword whisperers. I noted the category and moved on.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "I",
-    "fact": "We were a group that moved quickly, that had learned to move quickly, that treated stillness as the thing you did when stillness was the only remaining option.",
-    "source_quote": "We were a group that moved quickly, that had learned to move quickly, that treated stillness as the thing you did when stillness was the only remaining option.",
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir remembered Thorin\u2019s serious belief in the existence of a sword whisperer for Dawnbringer.",
+    "source_quote": "He had mentioned something about a specialist \u2014 the phrase *sword whisperer* had come up, delivered with the particular dwarvish seriousness that Thorin applied to things he actually cared about, which meant he believed this person existed and should be found.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "I",
-    "fact": "The weeks that followed blurred in the way that recovery blurs \u2014 not forgetting, exactly, but the edges going soft.",
-    "source_quote": "The weeks that followed blurred in the way that recovery blurs \u2014 not forgetting, exactly, but the edges going soft.",
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir knew Grygum had accumulated a list of things he wanted to read and would treat Candlekeep as both research and pilgrimage.",
+    "source_quote": "Grygum was the only one among us who had accumulated a list of things he wanted to read, and Candlekeep was going to be, for him, something between research and pilgrimage. He would look up the lore of Bahamut. He would pick up pamphlets. He would be genuinely delighted by the availability of pamphlets.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "I",
-    "fact": "The party spread toward its separate concerns the way a held breath spreads into air, each of us expanding slightly into the space the Underdark had compressed out of us.",
-    "source_quote": "The party spread toward its separate concerns the way a held breath spreads into air, each of us expanding slightly into the space the Underdark had compressed out of us.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "I",
-    "fact": "The logic for adventuring gear was simple enough that even I could lay it out without needing a meeting: we were people who went into danger. Gear reduced the consequences of danger. Business ventures required infrastructure we did not have, stability we had not earned, and a calendar that the demon lord situation was unlikely to respect.",
-    "source_quote": "The logic for adventuring gear was simple enough that even I could lay it out without needing a meeting: we were people who went into danger. Gear reduced the consequences of danger. Business ventures required infrastructure we did not have, stability we had not earned, and a calendar that the demon lord situation was unlikely to respect.",
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir agreed with the group\u2019s decision to spend their gold on adventuring gear rather than business ventures.",
+    "source_quote": "We agreed on the gear.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "I",
-    "fact": "I stood and let the light happen to me. I put my cloak in a bag. I knew that Drow cloaks disintegrated in the sunlight.",
-    "source_quote": "I stood and let the light happen to me. I put my cloak in a bag. I knew that Drow cloaks disintegrated in the sunlight.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "I",
-    "fact": "I watched him watch the sky. Whatever he made of it, I did not have the vocabulary to ask.",
-    "source_quote": "I watched him watch the sky. Whatever he made of it, I did not have the vocabulary to ask.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "I",
-    "fact": "He took it in the way a child takes in a first ocean, the way the sheer scale of a thing produces a silence that is not quite awe but is adjacent to it.",
-    "source_quote": "He took it in the way a child takes in a first ocean, the way the sheer scale of a thing produces a silence that is not quite awe but is adjacent to it.",
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir thought, as he stood at the tunnel\u2019s mouth, that they had made it \u2014 and now there was everything else.",
+    "source_quote": "I stood at the entrance to the surface world, squinting at a sky that went farther than anything I had navigated in months, and I thought: this is where we were going. We had made it. Now there was everything else.",
     "quote_verified": true
   }
 ]

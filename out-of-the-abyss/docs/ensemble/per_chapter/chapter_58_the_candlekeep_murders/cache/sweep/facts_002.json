@@ -1,128 +1,191 @@
 [
   {
     "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is referenced as the speaker who says, 'Right, but at the end of the day, I'm pretty sure that the person that killed him is the one that took the heart,' and later asserts that the heart is a fact.",
+    "source_quote": "Right, but at the end of the day, I'm pretty sure that the person that killed him is the one that took the heart,\" I said. Everything else is people talking. The heart is a fact.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
     "subject": "Kalan Strongbranch",
-    "fact": "Kalan Strongbranch is a former investigator who was removed from the case and now carries a brass key that was once held by Janussi, which he claims to have given to someone else, and who suspects the murderer is a magic user capable of talking locks open, but later admits his assumption that the safe-rifler is the killer may be hasty.",
-    "source_quote": "Kalan stepped out of a doorway we hadn't clocked, swept the corridor left, then right, and pressed a small brass key specifically into the cleric's palm. He chose the orc. I don't think it was chance. I have given it now to someone who is not me. If I and I do not see you tomorrow, do not look for me at my post. The key not be found. The black stuff, yes, we saw that. Yeah, we got that. Magic that could talk any lock open, arcane or iron, the very highest order of that art. Perhaps I was a little bit too hasty. Perhaps it was two different people.",
+    "fact": "Kalan Strongbranch is the one who physically handed over the second key to Grygum, stated that he held the key to the High Tower, and confirmed that entry to the tower is always watched, regardless of key possession.",
+    "source_quote": "Kalan stepped out of a doorway we hadn't clocked, swept the corridor left, then right, and pressed a small brass key specifically into the cleric's palm. ... I have given it now to someone who is not me. ... The tower is watched. Always. People stand at it whether the key is in someone's pocket or not.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum is a researcher who identifies midnight tears \u2014 a lethal Feywild poison that reacts with saliva to darken and kills at midnight \u2014 as the murder weapon, deduces the book was doped because Janussi\u2019s fingers were black from licking them, and discovers that the sapphire spell is a summoning enchantment that retrieves a hidden object to the caster\u2019s hand, not a time-freeze or teleportation spell.",
-    "source_quote": "The right book practically leaned into my hand \u2014 a volume titled *Fey-mous Flowers & Fungi*, by one Archibald Roots, Jr. Midnight tears. A highly toxic pale ochre dust, made from the pollen of a plant usually found only in the Feywild. When midnight tears are mixed with the sap of a certain Feywild tree, they lose their toxicity entirely and become a powerful pain-relief solution. Otherwise: lethal. Food or liquid, either delivery worked. The dust stays pale ochre. What darkens it is saliva. The ochre reacts on contact with spit. The book was the murder weapon, and he'd read himself dead. It's a summoning working \u2014 the kind that calls a single hidden thing back into your hand. It needs a very expensive sapphire. You don't hide the key on a body where someone can search it. You hide it nowhere at all, and you summon it when the door is in front of you.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Daz",
-    "fact": "Daz is an interrogator who confronts Daral Yashenti at the Hearth, observes the suspect's deliberate setting of the venue, and notes the inversion of power where the accused dictates terms, reflecting a cultural contrast to Menzoberranzan's norms.",
-    "source_quote": "Fembris went off with the particular efficiency of someone who'd been waiting for a task to belong to, and came back with two words. Daral was not coming to us. We were to go to the Hearth. I noted the inversion before we'd even left the room \u2014 the suspect setting the venue, picking the ground, making the famous detectives walk to him. In Menzoberranzan that would have been a move. Up here it was just a drunk who wanted to keep drinking where the drinks were. Oh, look, it's Faer\u00fbn's most famous detectives! Bookwyrm's brownnosers, I'm going to call you, because you like to\u2014",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Flora Theca",
-    "fact": "The Flora Theca is a subsection of the Pavilion Naturalis inside the Great Library, dedicated to plants, herbs, and other flora, where Grygum discovers the poison midnight tears and the sapphire summoning spell.",
-    "source_quote": "What there was, Fembris told me, was the Flora Theca, a subsection of the Pavilion Naturalis, inside the Great Library, dedicated to plants, herbs, and other flora. Close enough. Poison is just botany with intent.",
+    "fact": "Grygum received the second key from Kalan, asked whether the stolen sapphires were worth killing for, and later recorded the poison and sapphires on his library list.",
+    "source_quote": "Grygum asked whether the stolen sapphires were worth killing for \u2014 expensive, not rare, was the answer \u2014 and tucked it into his library list alongside the poison.",
     "quote_verified": true
   },
   {
     "type": "location",
-    "subject": "The Hearth",
-    "fact": "The Hearth is the location where Daz confronts Daral Yashenti, chosen by the suspect to maintain control over the environment, contrasting with the expected protocol of bringing suspects to investigators.",
-    "source_quote": "We were to go to the Hearth. The suspect setting the venue, picking the ground, making the famous detectives walk to him.",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "High Tower Library",
-    "fact": "The High Tower Library is the entrance to all super-magical artifacts, protected by two keys \u2014 one worn by Janussi, one held by Kalan \u2014 and watched constantly, regardless of whether keys are present.",
-    "source_quote": "The High Tower, Kalan told us, was the entrance to all of the super magical artifacts that every evil entity in the entire world would love. The tower is watched. Always. People stand at it whether the key is in someone's pocket or not. Entry would be seen.",
+    "subject": "High Tower",
+    "fact": "The High Tower is the entrance to all super-magical artifacts in the world, and its entry is perpetually monitored, regardless of whether a key is in possession.",
+    "source_quote": "The High Tower, Kalan told us, was the entrance to all of the super magical artifacts that every evil entity in the entire world would love. ... The tower is watched. Always. People stand at it whether the key is in someone's pocket or not.",
     "quote_verified": false
   },
   {
     "type": "object",
     "subject": "brass key",
-    "fact": "The brass key is a physical object once held by Kalan Strongbranch, given to someone else, and is the key to the High Tower Library, which is watched constantly and cannot be accessed without being seen.",
-    "source_quote": "Kalan stepped out of a doorway we hadn't clocked, swept the corridor left, then right, and pressed a small brass key specifically into the cleric's palm.",
+    "fact": "The brass key is the second key to the High Tower, previously held by Kalan Strongbranch, and was physically transferred into Grygum's palm.",
+    "source_quote": "pressed a small brass key specifically into the cleric's palm.",
     "quote_verified": true
   },
   {
     "type": "object",
     "subject": "midnight tears",
-    "fact": "Midnight tears is a pale ochre Feywild poison that kills at midnight after ingestion, reacts with saliva to darken surfaces, and was likely administered via a book Janussi licked his fingers to turn.",
-    "source_quote": "Midnight tears. A highly toxic pale ochre dust, made from the pollen of a plant usually found only in the Feywild. The dust stays pale ochre. What darkens it is saliva. The ochre reacts on contact with spit.",
+    "fact": "Midnight tears is a highly toxic pale ochre dust derived from Feywild pollen, lethal when ingested, and causes death precisely at midnight unless neutralized with specific Feywild sap.",
+    "source_quote": "Midnight tears. A highly toxic pale ochre dust, made from the pollen of a plant usually found only in the Feywild. ... When midnight tears are mixed with the sap of a certain Feywild tree, they lose their toxicity entirely ... Otherwise: lethal. ... The creature that ingests this poison suffers no effect until the stroke of midnight.",
     "quote_verified": false
   },
   {
     "type": "object",
-    "subject": "sapphire summoning spell",
-    "fact": "The sapphire summoning spell is a high-level arcane working that retrieves a hidden object \u2014 such as a key \u2014 directly into the caster\u2019s hand, regardless of its location, and requires a very expensive sapphire as a focus.",
-    "source_quote": "It's a summoning working \u2014 the kind that calls a single hidden thing back into your hand. It needs a very expensive sapphire. You don't hide the key on a body where someone can search it. You hide it nowhere at all, and you summon it when the door is in front of you.",
+    "subject": "Sapphire summoning spell",
+    "fact": "The sapphire summoning spell is an ancient working that allows a hidden object to be summoned back into the caster\u2019s hand, requiring a very expensive sapphire, and does not function if the object is worn.",
+    "source_quote": "It's an old summoning working \u2014 the kind that calls a single hidden thing back into your hand. ... It needs a very expensive sapphire. ... You can put it someplace, you can throw it into a river or whatever. Nobody will find it, and then when you need it back, boom.",
     "quote_verified": false
   },
   {
     "type": "object",
     "subject": "locket",
-    "fact": "The locket is a small container once worn around the victim\u2019s neck, believed to have held the key to the High Tower Library, now missing, and used by Kalan as a demonstration tool that fails to prove anything.",
-    "source_quote": "The key was in the locket. The locket was around the keeper's neck. The locket was gone. So why would the killer go through the safe at all? Kalan pulled out his own locket to demonstrate the method of carry. Which is now empty, and therefore doesn't prove anything.",
+    "fact": "The locket is a container previously used to carry the High Tower key, worn around the victim\u2019s neck, and now missing, raising doubt over whether Kalan\u2019s demonstration locket is genuine or Janussi\u2019s.",
+    "source_quote": "The key was in the locket. The locket was around the keeper's neck. The locket was gone. ... Kalan pulled out his own locket to demonstrate the method of carry. ... So we asked him to open it and show us. ... The locket was missing. The key was in the missing locket.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Flora Theca",
+    "fact": "The Flora Theca is a subsection of the Pavilion Naturalis within the Great Library, dedicated to plants, herbs, and flora, and was where Grygum discovered the properties of midnight tears.",
+    "source_quote": "What there was, Fembris told me, was the Flora Theca, a subsection of the Pavilion Naturalis, inside the Great Library, dedicated to plants, herbs, and other flora.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is the one who suspects the murderer is a magic user capable of talking locks open, notices the heart was removed post-mortem to prevent resurrection, and later deduces that the murderer may have been mistaken for the safe-rifler.",
+    "source_quote": "He noticed the heart hacked out \u2014 after death, to spoil resurrection. ... He noticed the murderer was a magic user who could circumvent arcane and mundane locks. Magic that could talk any lock open, arcane or iron, the very highest order of that art. ... He assumed the murderer was the one who opened the safe. I stopped him. ... Two hands had searched that apartment \u2014 one that knew exactly where to look, one that didn't.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is the one who interrogates Daral Yashenti at the Hearth, and is referenced as part of the group that received instructions from Bookwyrm to avoid involvement.",
+    "source_quote": "Daz said it in my head \u2014 'Oh, wait a second, this is like a way to teleport it into my hand later kind of thing.' ... Fembris went off ... came back with two words. Daral was not coming to us. We were to go to the Hearth. ... 'Oh, look, it's Faer\u00fbn's most famous detectives! Bookwyrm's brownnosers, I'm going to call you, because you like to\u2014'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm is the authority who officially dismissed Kalan from the case and is suspected of protecting the murderer or being manipulated to fire him.",
+    "source_quote": "Bookwyrm had made it official that he was to be nowhere near it. ... He suspected, he said, that one of the Great Readers was the murderer, and that either Bookwyrm was protecting them or someone had convinced her to fire him to protect themselves.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Chamber of Lost Lore",
+    "fact": "The Chamber of Lost Lore is where Kalan conducted private research and where the murder investigation\u2019s timeline places his morning inspection and the posting of emergency guards.",
+    "source_quote": "the return to the Chamber of Lost Lore for private research. ... the morning of the murder: the inspection just after eight, the cordon, the posted watcher, the state of emergency, the doubled guard at the High Tower Library.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "blackened finger",
+    "fact": "The victim\u2019s finger was blackened due to contact between midnight tears and saliva, indicating he licked his fingers while reading the poisoned book.",
+    "source_quote": "Some liquid had gotten onto his finger, and the finger had gone black. ... The dust stays pale ochre. What darkens it is saliva. ... His fingers were black, his lips were black, and he died at midnight.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Fembris",
+    "fact": "Fembris is the librarian who guided Grygum to the Flora Theca and confirmed access to laboratory facilities for poison analysis.",
+    "source_quote": "The librarian who took me down was named Fembris, and he walked like someone who believed noise had consequences. ... 'If you need it later, yes, of course.'",
     "quote_verified": false
   },
   {
     "type": "event",
     "subject": "murder of Janussi",
-    "fact": "Janussi was murdered by ingestion of midnight tears, administered via a book he licked his fingers to turn, dying precisely at midnight, with his fingers and lips blackened by the poison\u2019s reaction to saliva, and his heart removed post-mortem to prevent resurrection.",
-    "source_quote": "The black stuff, yes, we saw that. Yeah, we got that. The heart hacked out \u2014 after death, to spoil resurrection. The book was the murder weapon, and he'd read himself dead. He died at roughly midnight.",
+    "fact": "Janussi was murdered by ingestion of midnight tears administered via a poisoned book, with his heart removed post-mortem to prevent resurrection, and the High Tower key stolen from his locket.",
+    "source_quote": "He died at roughly midnight. ... The heart hacked out \u2014 after death, to spoil resurrection. ... The key was in the locket. The locket was around the keeper's neck. The locket was gone.",
     "quote_verified": false
   },
   {
     "type": "event",
-    "subject": "Kalan's removal from the case",
-    "fact": "Kalan Strongbranch was officially removed from the investigation by Bookwyrm, forcing him to operate unofficially, and he suspects the setup was designed to ensure outsiders like the party would bungle the case or remain silent.",
-    "source_quote": "Bookwyrm had made it official that he was to be nowhere near it. 'Officially,' I said. 'See, there you go.' I believe you're only being employed so you're likely to bungle the case, or else be silent if you do happen upon the right scent. You don't matter. You're outsiders.",
+    "subject": "key transfer from Kalan to Grygum",
+    "fact": "Kalan Strongbranch transferred the second High Tower key to Grygum during a private meeting, after declaring he no longer held it and that entry to the tower is always observed.",
+    "source_quote": "Kalan stepped out of a doorway we hadn't clocked, swept the corridor left, then right, and pressed a small brass key specifically into the cleric's palm. ... I have given it now to someone who is not me.",
     "quote_verified": false
   },
   {
     "type": "event",
-    "subject": "discovery of Sylvira Savikas impersonation",
-    "fact": "It is revealed that someone impersonated Sylvira Savikas on the night of the murder, a fact unknown to Kalan, which shifts suspicion toward a broader conspiracy involving deception and identity manipulation.",
-    "source_quote": "Is he aware that someone was pretending to be Sylvira Savikas the night of the murder? He went still. 'No. That is new information.'",
+    "subject": "poison discovery in Flora Theca",
+    "fact": "Grygum discovered the properties of midnight tears in Archibald Roots, Jr.'s book *Fey-mous Flowers & Fungi*, confirming its Feywild origin, delayed lethality until midnight, and activation via saliva.",
+    "source_quote": "I opened it. ... Midnight tears. A highly toxic pale ochre dust, made from the pollen of a plant usually found only in the Feywild. ... The creature that ingests this poison suffers no effect until the stroke of midnight. ... What darkens it is saliva.",
     "quote_verified": false
   },
   {
     "type": "event",
-    "subject": "collaboration proposal between the party and Kalan",
-    "fact": "Kalan proposes an offline, private sync-up with the party to merge all findings into one unified analysis, acknowledging their superior progress and agreeing to work together despite his official exclusion.",
-    "source_quote": "He proposed it in the most extraordinary terms \u2014 offline chat, private work streams, a meeting to examine everything one by one, the four of us and him, five streams, merge it all in a few hours. 'I hope you actually used the word sync up,' I said. 'That makes me happy.'",
+    "subject": "summoning spell revelation",
+    "fact": "Grygum identified the sapphire summoning spell as a method to recall a hidden object to the caster\u2019s hand, clarifying that it does not work on worn items and thus enables the key to be hidden in plain sight by being stored elsewhere.",
+    "source_quote": "It's an old summoning working \u2014 the kind that calls a single hidden thing back into your hand. ... It doesn't work if\u2014 although you'd find out who was holding it. ... You can put it someplace, you can throw it into a river or whatever. Nobody will find it, and then when you need it back, boom.",
     "quote_verified": false
   },
   {
-    "type": "monster",
-    "subject": "shapeshifter",
-    "fact": "A shapeshifter is implied as a potential actor in the murder conspiracy, capable of assuming identities such as Sylvira Savikas, and is warned against by the party as a threat Kalan must consider.",
-    "source_quote": "Keep in mind there are people who can change their form. Shapeshift. Whatever you want to call it.",
+    "type": "event",
+    "subject": "false Sylvira Savikas impersonation",
+    "fact": "Someone impersonated Sylvira Savikas the night of the murder, a fact unknown to Kalan until revealed by Thorin, causing him to acknowledge new information and reconsider his assumptions.",
+    "source_quote": "Is he aware that someone was pretending to be Sylvira Savikas the night of the murder?\" ... He went still. \"No. That is new information.\" ... \"You are very good at this.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "the Hearth",
+    "fact": "The Hearth is the venue where Daz and Grygum interrogated Daral Yashenti, chosen by the suspect to maintain comfort and control.",
+    "source_quote": "Daral was not coming to us. We were to go to the Hearth. ... We found him exactly that. Boisterous, flushed, conspicuously delighted with his own existence.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Archibald Roots, Jr.",
+    "fact": "Archibald Roots, Jr. is the author of *Fey-mous Flowers & Fungi*, the book in which the properties of midnight tears were documented, and the son of the legendary gnome botanist Archibald Roots Sr.",
+    "source_quote": "a volume titled *Fey-mous Flowers & Fungi*, by one Archibald Roots, Jr., son of the legendary gnome botanist Archibald Roots Sr.",
     "quote_verified": true
   },
   {
-    "type": "faction",
-    "subject": "Bookwyrm",
-    "fact": "Bookwyrm is a powerful authority who officially removed Kalan from the case, likely to protect the real murderer, and is suspected of being complicit in the setup to ensure the party fails or stays silent.",
-    "source_quote": "Bookwyrm had made it official that he was to be nowhere near it. I believe you're only being employed so you're likely to bungle the case, or else be silent if you do happen upon the right scent. Bookwyrm is protecting them.",
+    "type": "object",
+    "subject": "poisoned book",
+    "fact": "The poisoned book was the delivery mechanism for midnight tears, with the poison activated by the victim\u2019s saliva as he licked his fingers while reading, leading to his death at midnight.",
+    "source_quote": "So somebody doped up the book. ... His fingers were black, his lips were black, and he died at midnight. The book was the murder weapon, and he'd read himself dead.",
     "quote_verified": false
   },
   {
-    "type": "thread",
-    "subject": "sync-up collaboration",
-    "fact": "The thread of collaboration between the party and Kalan forms a private, offline workstream to merge findings, marking a turning point where official barriers are ignored in favor of truth-seeking.",
-    "source_quote": "He proposed it in the most extraordinary terms \u2014 offline chat, private work streams, a meeting to examine everything one by one, the four of us and him, five streams, merge it all in a few hours. 'I hope you actually used the word sync up,' I said. 'That makes me happy.'",
+    "type": "event",
+    "subject": "Kalan's timeline reconstruction",
+    "fact": "Kalan provided a detailed timeline of his movements on the day of the murder, including his refusal of additional watchers at eight, his visit to Sylvira Savikas, and his return to the Chamber of Lost Lore for research.",
+    "source_quote": "the eight o'clock meeting where he'd pressed Janussi for more watchers and been refused, the quarter-past-ten visit to Sylvira Savikas over some cosmological question, the return to the Chamber of Lost Lore for private research.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daral Yashenti",
+    "fact": "Daral Yashenti is the suspect who refused to meet investigators at their location and instead hosted them at the Hearth, where he mocked them as Bookwyrm's brownnosers.",
+    "source_quote": "Daral was not coming to us. We were to go to the Hearth. ... 'Oh, look, it's Faer\u00fbn's most famous detectives! Bookwyrm's brownnosers, I'm going to call you, because you like to\u2014'",
     "quote_verified": false
   },
   {
-    "type": "date",
-    "subject": "midnight of the murder",
-    "fact": "The murder occurred precisely at midnight, matching the delayed effect of midnight tears poison, and is the temporal anchor for all forensic reconstruction.",
-    "source_quote": "The creature that ingests this poison suffers no effect until the stroke of midnight. He died at roughly midnight.",
+    "type": "location",
+    "subject": "Pavilion Naturalis",
+    "fact": "The Pavilion Naturalis is the larger section of the Great Library that contains the Flora Theca, where Grygum conducted his research into the poison.",
+    "source_quote": "the Flora Theca, a subsection of the Pavilion Naturalis, inside the Great Library, dedicated to plants, herbs, and other flora.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "collaboration proposal between Thorin and Kalan",
+    "fact": "Thorin proposed an offline sync-up of investigative streams with Kalan, Grygum, Zalthir, and Daz, resulting in Kalan agreeing to a private, five-stream merge of findings.",
+    "source_quote": "He proposed it in the most extraordinary terms \u2014 offline chat, private work streams, a meeting to examine everything one by one, the four of us and him, five streams, merge it all in a few hours. ... 'I hope you actually used the word sync up,' I said. 'That makes me happy.'",
     "quote_verified": false
   }
 ]

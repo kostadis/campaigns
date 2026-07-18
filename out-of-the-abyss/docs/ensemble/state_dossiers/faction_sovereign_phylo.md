@@ -7,17 +7,19 @@ chapters: 31-31
 
 ### Sovereign Phylo
 
-- **Type:** Faction (cultic movement centered on a Myconid Sovereign)  
-- **Current status:** Active and influential within the Neverlight Grove  
-- **Core doctrine:** Promotes the "great awakening" and "great celebration" as imminent divine events; teaches that Myconids must build towering structures to breach the Underdark and ascend to a higher plane  
-- **Key teachings:** Encourages disregard for surface-world dangers, particularly sunlight; fosters architectural obsession as spiritual practice  
-- **Controlled territory:** Neverlight Grove  
-- **Current assignment / role:** Central figure and spiritual leader of a Myconid cult; source of doctrinal authority for followers  
-- **Defining recent action:** Sustains a growing movement that drives Myconids to construct upward-reaching towers in pursuit of the promised "great celebration"  
+**Current status:** Alive (implied by active influence)  
+**Current location:** Neverlight Grove (center of cultic movement)  
+**Faction:** Myconid cult led by Sovereign Phylo  
+**Current assignment / role:** Central spiritual and ideological figure of a cultic movement within the Neverlight Grove; instigator of the “great awakening” and “great celebration”  
+**Defining recent actions:** Inspires Myconids to pursue dangerous architectural projects (e.g., towers to breach the Underdark) and promotes ignorance of surface-world dangers, particularly sunlight.  
+**Current possessions / notable items / spells / feats:** None specified  
+**Key relationships:** Revered as sovereign by Myconids in the Neverlight Grove; no other entities named as allies or subordinates  
+
+**Revealed motivations or secrets:** Believes in an impending “great celebration” tied to transcending the Underdark; teachings prioritize spiritual transcendence over survival pragmatism, suggesting a delusional or ecstatic worldview.
 
 ## Uncertainty
-- No information on whether Sovereign Phylo is physically present in the Neverlight Grove or if his influence is mediated through proxies.  
-- No details on his current physical state (alive, dormant, fused with fungal network, etc.).  
-- The quote “It is part of a great celebration to come.” lacks context — is this Phylo’s own voice, a follower’s paraphrase, or a ritual chant? Attribution is ambiguous.  
-- No evidence of external relationships (allies, enemies, or connections to other factions).  
-- No indication whether the "great awakening" or "great celebration" is a literal event, metaphor, or delusion — interpretation is unverified.
+- No confirmation of Phylo’s physical form, voice, or direct actions — only indirect influence reported.
+- No evidence of whether Phylo is a literal Myconid, a collective consciousness, a spirit, or a metaphor — the term “Sovereign” is used but not defined.
+- The quote “It is part of a great celebration to come.” is attributed to the movement, not directly to Phylo; his direct speech or authorship of the doctrine is not confirmed.
+- No current state of the “great awakening” or “great celebration” — whether it has begun, is imminent, or is purely rhetorical is unclear.
+- No known enemies, allies, or external interactions beyond the Myconid cult.

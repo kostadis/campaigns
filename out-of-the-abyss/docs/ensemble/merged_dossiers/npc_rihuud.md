@@ -8,15 +8,14 @@ chapters: 15-15
 ### Rihuud
 
 **Current status:** Alive  
-**Current location:** Unknown (last seen with Dorhun in chapter 15)  
-**Allegiance/faction:** Apprentice of Stonespeaker Hgraam  
+**Current location:** Unknown (last seen with Dorhun in the city)  
+**Allegiance/faction:** Former apprentice of Stonespeaker Hgraam; currently accompanies Dorhun  
 **Current possessions / notable items, spells, feats, wounds:** None specified  
-**Current assignment / role and key relationships:** Companion to Dorhun; both are apprentices to Stonespeaker Hgraam. Present during conversation with Thorin, reinforcing the stone giants’ grief and institutional role in maintaining order.  
-**Defining recent actions:** Observed silently alongside Dorhun during dialogue with Thorin; did not speak but contributed to the atmosphere of solemnity and institutional weight.  
-**Revealed motivations or secrets:** May hold unspoken knowledge about the corruption in Gracklstugh.
+**Current assignment / role and key relationships:** Companion and silent enforcer to Dorhun; his presence validates Dorhun’s authority. Last observed during Dorhun’s meeting with Thorin and when Dorhun granted passage through the city.  
+**Defining recent actions:** Accompanied Dorhun in asserting authority over the Stone Guards; did not speak but contributed to the authoritative presence that secured compliance.  
 
 ## Uncertainty
-- Rihuud’s current location is unknown; last confirmed with Dorhun, but whether he still travels with Dorhun is unconfirmed.  
-- No specifics on possessions, spells, feats, or wounds.  
-- “May hold unspoken knowledge” is speculative — not confirmed as fact.  
-- No indication whether Rihuud is still alive beyond chapter 15; assumed alive only by absence of death report.
+- Exact current location (last known to be with Dorhun, but no confirmation of continued proximity).  
+- Whether Rihuud still travels with Dorhun (no later chapter confirms or contradicts this).  
+- Any possessions, spells, feats, or wounds (none mentioned in either fact).  
+- Whether “former apprentice” implies he is no longer under Hgraam’s tutelage or simply denotes past training (no clarification on current status with Hgraam).

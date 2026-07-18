@@ -2,99 +2,106 @@
   {
     "type": "npc",
     "subject": "Asha",
-    "fact": "Asha is a drow who claims to have resisted Ilvara\u2019s spores through devotion to Lolth, but her statements are undermined by her use of 'I believe' \u2014 indicating uncertainty rather than knowledge. She refuses to speak directly to the narrator, yet reveals deep personal history and emotional exhaustion over the Jorlan-Ilvara breakup. She is impressed by Daz\u2019s ooze familiar and displays rare warmth when discussing interpersonal drama.",
-    "source_quote": "I believe. ... The only three people who are no longer captured by her spores are myself and Jorlan... Do you have any idea how aggravating that is?",
+    "fact": "Asha is a drow who claims to have resisted Ilvara's spores through devotion to Lolth, but her statements are undermined by her use of 'I believe,' indicating uncertainty rather than knowledge. She refuses to speak directly to the speaker after losing respect for them. She is exasperated by the unresolved romantic history between Jorlan and Ilvara, and is momentarily impressed by Daz's ooze familiar.",
+    "source_quote": "My dear boy... Tell the Dragonborn that the big heart fungus will not actually cause any fungal disease, other than the usual poisoning and pain and suffering and breathing difficulties. The particular spore illness only originates from Ilvara's spores and from her mushroom. I believe.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Daz",
-    "fact": "Daz is infected by Ilvara\u2019s spores but maintains clarity, explaining caution as stemming from unfamiliarity with mushroom-related side effects. He is regarded with growing respect by Asha after being introduced as the owner of Glabbagool, an ooze familiar \u2014 a status that elevates his perceived power despite his condition.",
-    "source_quote": "Explaining that our caution came from unfamiliarity with mushroom-related side effects, and that asking for expert guidance was tactically sound rather than ignorant.",
-    "quote_verified": false
+    "fact": "Daz is infected by Ilvara's spores but remains coherent and rational, serving as a visual proof of the spores' effects. He is the familiar of Glabbagool, an ooze creature mistaken for a mundane familiar by the party to explain its presence. His calm demeanor and tactical insight earn Asha\u2019s respect, despite his condition.",
+    "source_quote": "I mean, \u2014 look at him! He's already infected. I don't want to be infected.",
+    "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Jorlan",
-    "fact": "Jorlan is a drow who rejected Ilvara\u2019s spores not through devotion but out of personal bitterness over a broken romantic relationship with her. He is distrusted by the party, positioned as the trigger side of the glyph, and remains emotionally fixated on Ilvara despite the chaos of the Abyss.",
-    "source_quote": "Jorlan still is complaining that Ilvara\u2026 Ilvara this and Ilvara that.",
-    "quote_verified": true
+    "fact": "Jorlan is a drow who has resisted Ilvara's spores because he hates her, reportedly due to a broken romantic relationship. He is not trusted by the party, and the glyph on the bridge is triggered to kill anyone approaching from his side. He is emotionally fixated on Ilvara, still complaining about her even amid the chaos of the Abyss.",
+    "source_quote": "The only three people who are no longer captured by her spores are myself and Jorlan... Me, because I have diligently kept the faith to Lolth, and have rejected all of these claims of the bride heresy, and Jorlan, because apparently he really hates Ilvara for something or other.",
+    "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Glabbagool",
-    "fact": "Glabbagool is an ooze creature mistaken for a familiar by the party to conceal its true nature. It blinks passively, seemingly indifferent to being mislabeled, yet its presence forces the group to confront the absurdity of categorization in the face of existential horror. It deserves recognition for enduring the indignity.",
-    "source_quote": "Glabbagool blinked. Probably didn't mind.",
-    "quote_verified": true
-  },
-  {
-    "type": "faction",
-    "subject": "Ilvara's Cult",
-    "fact": "Ilvara\u2019s cult is a splinter movement among drow that worships her as a manifestation of Lolth\u2019s will, spreading spores that induce ecstatic submission. Followers are not monsters but former drow who willingly embraced the spores, becoming hollowed-out servants. The cult\u2019s influence is real, seductive, and deadly.",
-    "source_quote": "They are the drow of our party whom have totally succumbed to Ilvara's power... embraced the spores and the ecstasy that came through them.",
+    "fact": "Glabbagool is an ooze creature that emerged from the dungeon ooze. To avoid suspicion, Thorin introduces him as Daz\u2019s familiar. He blinks but appears indifferent to the mislabeling. The party recognizes the indignity of his treatment and notes he deserves something for enduring it.",
+    "source_quote": "Will Glabbagool be offended if we refer to him as a familiar? I think that's probably the easiest way to just explain it away.",
     "quote_verified": false
   },
   {
     "type": "faction",
-    "subject": "Lolth\u2019s Faithful",
-    "fact": "Lolth\u2019s faithful, represented by Asha, reject Ilvara as a heretical false prophet. Devotion to Lolth is framed as a moral and spiritual bulwark against spore corruption, though Asha\u2019s personal credibility is weakened by emotional instability and uncertainty in her claims.",
-    "source_quote": "I have diligently kept the faith to Lolth, and have rejected all of these claims of the bride heresy.",
+    "subject": "Ilvara's Cult",
+    "fact": "Ilvara's cult consists of drow who have embraced her claim that she is Lolth\u2019s further manifestation. They willingly accept her spores, experiencing ecstasy and transformation, and have become hollowed-out servants. They are not monsters, but former drow who made a choice \u2014 now walking corpses of their former selves.",
+    "source_quote": "They are the drow of our party whom have totally succumbed to Ilvara's power... There were those who foolishly believed Ilvara's claims about how the bride was Lolth's further manifestation, and who embraced the spores and the ecstasy that came through them.",
     "quote_verified": false
   },
   {
     "type": "monster",
     "subject": "Spore Servants",
-    "fact": "Spore servants are former drow who have been fully consumed by Ilvara\u2019s spores, losing their autonomy and becoming mindless, ecstatic vessels. They are not external threats but internal tragedies \u2014 people who chose ecstasy over identity. The glyph will kill them indiscriminately, making them morally indistinct from innocent drow.",
-    "source_quote": "People. Hollowed out. Not monsters dragged in from somewhere else, but people who had made a choice \u2014 a terrible choice, maybe a seduced choice \u2014 and were now walking around as the consequence of it.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "Glyph of the Bridge",
-    "fact": "The glyph inscribed on the bridge is a lethal trap designed to detonate upon approach from Jorlan\u2019s side. It is a blunt instrument with no capacity for judgment \u2014 it kills based on direction, not intent, morality, or affiliation. Its design reflects the party\u2019s moral compromise: they chose to kill those they distrust, not those who are truly evil.",
-    "source_quote": "I don't know how to inscribe a glyph that will only kill the drow that we don't like. ... The glyph doesn't have opinions. It just detonates.",
+    "fact": "Spore servants are former drow who have been transformed by Ilvara\u2019s spores into mindless, obedient creatures. They retain human form but lack agency. They are not summoned or created, but corrupted from within \u2014 making them tragically familiar and dangerous to the party\u2019s own members.",
+    "source_quote": "They are the drow of our party whom have totally succumbed to Ilvara's power...",
     "quote_verified": false
   },
   {
-    "type": "event",
-    "subject": "Introduction of Glabbagool as a Familiar",
-    "fact": "The party fabricates a cover story that Glabbagool is Daz\u2019s familiar to avoid suspicion. Asha\u2019s shift from alarm to respect demonstrates how status and perception override reality in their world \u2014 an ooze is more acceptable if labeled as a familiar.",
-    "source_quote": "An ooze familiar,\" she said, looking at Daz now with something approaching respect.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Glyph Inscription and Trigger Selection",
-    "fact": "The narrator inscribes the glyph and chooses Jorlan\u2019s side as the trigger zone, not because Jorlan is evil, but because he is not trusted. This decision reflects a pragmatic moral failure \u2014 the party kills based on alliance, not justice. The glyph becomes a monument to their compromise.",
-    "source_quote": "Okay,\" I said. \"And then, I guess the trigger is \u2014 anyone approaching from the side that Jorlan is on.",
-    "quote_verified": true
+    "type": "object",
+    "subject": "Glyph on the Bridge",
+    "fact": "The glyph inscribed on the bridge is a magical trap designed to detonate upon contact with drow. It lacks moral discrimination \u2014 it kills all drow indiscriminately. The party deliberately set its trigger to activate only for those approaching from Jorlan\u2019s side, making it a weapon of political choice rather than moral judgment.",
+    "source_quote": "I don't know how to inscribe a glyph that will only kill the drow that we don't like... And then, I guess the trigger is \u2014 anyone approaching from the side that Jorlan is on.",
+    "quote_verified": false
   },
   {
     "type": "thread",
-    "subject": "Asha\u2019s Silence Toward the Narrator",
-    "fact": "Asha refuses to speak directly to the narrator, signaling a broken trust. Yet she reveals more about herself in private monologues than she ever does in direct conversation \u2014 suggesting the narrator\u2019s exclusion is not about information, but emotional distance.",
+    "subject": "Asha's Silence",
+    "fact": "Asha has refused to speak directly to the speaker since losing respect for them. This silence is a persistent emotional wound in the party\u2019s dynamic, and the speaker notes it as a barrier to trust and communication \u2014 one that may affect future decisions.",
     "source_quote": "because I had apparently lost her respect at some point and she was going to make sure I knew it.",
     "quote_verified": true
   },
   {
     "type": "thread",
-    "subject": "The Broken Heart in the Abyss",
-    "fact": "The lingering romantic feud between Ilvara and Jorlan persists amid cosmic collapse, revealing the drow\u2019s stubborn humanity. Their emotional entanglement undermines the party\u2019s strategic clarity and forces moral reckoning \u2014 love outlasts even the end of the world.",
-    "source_quote": "The world is ending and someone's still nursing a broken heart in the middle of it.",
+    "subject": "Jorlan and Ilvara\u2019s Past",
+    "fact": "Jorlan and Ilvara once had a romantic relationship that ended badly, leaving Jorlan bitter and emotionally entangled. This unresolved history persists even in the Abyss, affecting group dynamics and trust. Asha is caught in the middle, and the speaker observes the human absurdity of it.",
+    "source_quote": "It's very awkward, really, to be stuck with these two. I mean, they used to have an affair, it used to be this whole thing, and then she broke up with him, and then he was bitter because she broke up with him...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Introduction of Glabbagool as a Familiar",
+    "fact": "To conceal Glabbagool\u2019s true nature as an ooze creature, Thorin introduces him as Daz\u2019s familiar. Asha\u2019s reaction shifts from alarm to impressed respect, altering the party\u2019s perception of Daz and creating a moment of unspoken bonding through deception.",
+    "source_quote": "An ooze familiar,\" she said, looking at Daz now with something approaching respect.",
     "quote_verified": true
   },
   {
-    "type": "thread",
-    "subject": "The Meaning of 'I Believe'",
-    "fact": "Asha\u2019s use of 'I believe' \u2014 rather than 'I know' \u2014 subtly unravels her authority and exposes the fragility of dogma in the face of trauma. The narrator stores this phrase as a warning: certainty is a lie, and belief is the first step toward corruption.",
-    "source_quote": "I believe. Two words that undermined everything she'd just said with such authority.",
+    "type": "event",
+    "subject": "Glyph Inscription on the Bridge",
+    "fact": "The party inscribed a lethal glyph on the bridge to control passage, using it as a tactical barrier. The inscription required greater force than wood, symbolizing the permanence and weight of their decision. The choice to target Jorlan\u2019s side reflects a moral compromise \u2014 the glyph does not judge, but the party does.",
+    "source_quote": "Stone holds runes differently than wood \u2014 you have to press harder, commit earlier.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occur during the current planning session for the assassination of Ilvara, following the speaker\u2019s continued observation of party dynamics, spore effects, and interpersonal tensions.",
+    "source_quote": "We'd seen what happened when someone stopped worrying about them.",
     "quote_verified": true
   },
   {
     "type": "location",
     "subject": "The Bridge",
-    "fact": "The bridge is no longer a passage but a threshold of death \u2014 a line drawn by the glyph that separates those who are trusted from those who are not. It is a physical manifestation of the party\u2019s moral compromise, where loyalty replaces judgment and direction replaces identity.",
-    "source_quote": "The bridge was now a threshold. Everything on the far side of it was already committed to a detonation it didn't know about yet.",
-    "quote_verified": true
+    "fact": "The bridge is a strategic chokepoint where the party inscribed a lethal glyph to control access. It is now a threshold between safety and detonation, symbolizing the moral boundaries the party has drawn \u2014 and the innocent drow who may cross it unknowingly.",
+    "source_quote": "The glyph went down on the bridge... Everything on the far side of it was already committed to a detonation it didn't know about yet.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is the dwarf who pragmatically solves the problem of Glabbagool\u2019s identity by labeling him as Daz\u2019s familiar. His practicality defuses tension and demonstrates his role as the party\u2019s problem-solver in moments of crisis.",
+    "source_quote": "Will Glabbagool be offended if we refer to him as a familiar? I think that's probably the easiest way to just explain it away.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Speaker's Self-Awareness",
+    "fact": "The speaker reflects deeply on their own role in the party\u2019s decisions, noting their internal conflict over the glyph\u2019s indiscriminate lethality and the moral weight of choosing Jorlan over Asha. They document not just tactics, but the humanity \u2014 and brokenness \u2014 of their companions.",
+    "source_quote": "I don't know how to inscribe a glyph that will only kill the drow that we don't like... And I remember that we had picked Asha over Jorlan.",
+    "quote_verified": false
   }
 ]

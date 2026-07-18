@@ -7,7 +7,7 @@ chapters: 33-33
 
 ### Rasharoo
 
-Rasharoo is a Myconid stronghold and leadership center. It serves as the location where the party reports their findings and prepares to flee the Neverlight Grove.
+Rasharoo is a Myconid stronghold and leadership center. It serves as the location where the party reports their findings to Basidia and the Myconid leadership, and from which they prepare to flee the Neverlight Grove.
 
 ## Uncertainty
 None.

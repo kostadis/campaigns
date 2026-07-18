@@ -1,8 +1,3 @@
-<!-- source: npc_protanther.md -->
-
-
----
-
 ---
 name: Protanther
 type: npc
@@ -13,44 +8,42 @@ chapters: 53-56
 ### Protanther
 
 - **Current status:** Alive  
-- **Current location:** Unknown (last associated with Stroud and the alliance)  
-- **Allegiance/faction:** Alliance (joined after Stroud’s move)  
+- **Current location:** Unknown (last associated with the alliance, but no specific location given)  
+- **Allegiance/faction:** The alliance (joined after Stroud’s unexpected chess victory)  
 - **Current possessions / notable items, spells, feats, wounds:** None specified  
-- **Current assignment / role:** Honorary member of the alliance; serves as a symbol of honor and intellectual integrity  
-- **Defining recent actions:** After four centuries of analyzing a single chess position and believing himself certain of all outcomes, Protanther’s certainty was shattered when Stroud made an inexplicable, perfect move. In response, Protanther honored the move out of personal honor, not divine compulsion, and joined the alliance.  
-- **Revealed motivations or secrets:** Protanther values honor above dogma; his adherence to principle is intrinsic, not externally imposed. His identity is rooted in intellectual mastery and moral integrity, not servitude to Bahamut or any deity.
+- **Current assignment / role and key relationships:** Serves as an honored member of the alliance; answers to no one but his own code of honor. Key relationship: Honors Stroud as the architect of the move that broke his four-century calculation.  
+- **Defining recent actions:** After four centuries of mapping every possible move in a single chess position and being certain of the outcome, Protanther was stunned by Stroud’s decisive and unexpected move, leading him to voluntarily join the alliance.  
+- **Revealed motivations or secrets:** Motivated by personal honor, not divine compulsion. His decision to join the alliance was a conscious act of integrity, not obedience to Bahamut or any external authority.
 
 ## Uncertainty
-- Exact current location is unknown; last known association is with Stroud and the alliance, but no confirmation he remains with them.  
-- No details on physical condition, magical abilities, or possessions beyond his intellectual legacy.  
-- Whether he still engages in chess analysis or has shifted focus is unconfirmed.  
-- The nature of his relationship with Bahamut beyond the explicit denial of compulsion is not clarified.
+- Exact current location is unknown.  
+- Whether Protanther is still actively traveling with Stroud or other alliance members is unconfirmed — last known association is with the alliance, but no current companions are named.  
+- No details on current physical condition, magical abilities, or possessions beyond his historical chess mastery.  
+- The phrase “Stroud rolled — and it landed perfectly” is metaphorical or literal? Unclear if this refers to a dice roll, a move in a game, or a supernatural event — but context implies a chess move.
 
 ---
 
 <!-- source: monster_protanther.md -->
 
-
----
-
 ---
 name: Protanther
 type: monster
-n_facts: 1
-chapters: 56-56
+n_facts: 2
+chapters: 54-56
 ---
 
 ### Protanther
 
-- **Current status**: Alive  
-- **Current location**: Unknown (not specified)  
-- **Allegiance/faction**: Independent ancient dragon; foundational figure in the Draconic school, operating outside Bahamutian divine order  
-- **Current possessions / notable items, spells, feats, wounds**: None specified  
-- **Current assignment / role and key relationships**: Serves as a moral archetype in the Draconic school; acts on personal honor, not divine command. Last known action: Honored Stroud’s move based on personal code.  
-- **Defining recent actions**: Recognized and honored Stroud’s action as consistent with draconic honor, explicitly rejecting divine compulsion as motivation.  
-- **Revealed motivations or secrets**: Motivated by personal honor; rejects subservience to Bahamut’s divine order.  
+- **Current status:** Alive  
+- **Current location:** Unknown (last associated with Stroud’s chess encounter)  
+- **Allegiance/faction:** Independent; aligned with Draconic school, but not bound by divine compulsion  
+- **Current possessions / notable items, spells, feats, wounds:** None specified  
+- **Current assignment / role and key relationships:** Honors mortal agency and choice; distinguished by his adherence to personal honor over divine command. Last known interaction was with Stroud, whose unexpected move transformed his ideological stance.  
+- **Defining recent actions:** Recognized and honored Stroud’s unpredictable chess move as a valid, honorable act — a rare moment that challenged his centuries-long deterministic worldview.  
+- **Revealed motivations or secrets:** His honor is intrinsic, not divinely imposed; he values the authenticity of mortal choice over preordained outcomes, a stance shaped by his defeat at Stroud’s hands.
 
 ## Uncertainty
-- Current location unknown.  
-- No information on physical condition, possessions, or current activities beyond the single observed action.  
-- No confirmation of whether Protanther is still active in the same capacity or region as implied by the Draconic school’s invocation.
+- Exact current location is unknown.  
+- Whether Stroud is still with or connected to Protanther is unconfirmed.  
+- No information on current activities beyond the ideological shift triggered by the chess game.  
+- No details on physical condition, magical abilities, or possessions beyond his intellectual history.

@@ -1,35 +1,23 @@
 ---
 name: Narrator
 type: npc
-n_facts: 15
-chapters: 49-57
+n_facts: 6
+chapters: 49-51
 ---
 
 ### Narrator
 
 **Current status:** Alive  
-**Current location:** Candlekeep (or within its cultural sphere)  
-**Allegiance/faction:** Independent researcher and chronicler; formerly associated with the Ember Vanguard  
-**Current possessions / notable items:** Notes (physical or mental records of observations; implied to be constantly maintained)  
-**Current assignment / role:** Chronicler of events, patterns, and divine anomalies; observer of degradation and rage in others  
-**Key relationships:** Observes Asha with unresolved emotional stakes; holds disdain for Candlekeep’s scholarly culture; has observed Eldred and the Field Ward Preacher; recently interacted with Daz and Thorin (non-responsive)  
-**Defining recent actions:**  
-- Recognized a pattern of mental degradation previously seen in Eldred and the Field Ward Preacher.  
-- Identified a flawed ritual chant and understood its error.  
-- Refused to acknowledge Daz’s approval of Thorin’s reasoning.  
-- Interpreted long-festered rage as a directional vector, not mere emotion.  
-- Maintained note-taking as a core practice, regardless of divine observation.  
+**Current location:** Unknown (but active in operations with the Ember Vanguard)  
+**Allegiance/faction:** Ember Vanguard; devout follower of Bahamut  
+**Current possessions / notable items, spells, feats, wounds:** None specified; possesses exceptional tactical awareness and meticulous mental note-taking ability  
+**Current assignment / role and key relationships:** Serves as a feared mage of the Ember Vanguard; prioritizes tactical positioning over spectacle; maintains a private, disciplined relationship with Bahamut, whom they view as a silent partner in strategy — “Bahamut gets the credit for the radiance. I get credit for the positioning.”  
+**Defining recent actions:** Consistently files away emotionally charged thoughts during combat to maintain focus, except when stakes involve Asha — which repeatedly surface despite their preference for emotional suppression. Takes mental notes regardless of perceived divine observation.  
 
-**Revealed motivations or secrets:**  
-- Uses note-taking as both a coping mechanism and philosophical stance — a way to contain chaos, avoid emotional surfacing, and impose order on unpredictability.  
-- Deeply uncomfortable with the emotional weight tied to Asha, which repeatedly breaks through his habitual detachment.  
-- Despises the institutionalized grudge-holding culture of Candlekeep’s scholars, though not the library itself.  
-- Believes precision is force directed; sees soldiers and weapons as interchangeable under circumstance.  
-- Accepts that some truths — like the wall’s memory or the math — are immutable and must be endured, not resolved.  
+**Revealed motivations or secrets:** Believes precision is force directed; sees soldiers and weapons as interchangeable under time and circumstance — a thought deliberately suppressed. Views divine intervention as secondary to personal preparedness. Secretly struggles to suppress emotional stakes tied to Asha, which repeatedly intrude on their disciplined detachment.
 
 ## Uncertainty
-- Whether the narrator is currently physically inside Candlekeep or merely operating within its cultural influence — location is implied but not explicitly confirmed in ch57.  
-- The nature of the "notes" — physical journals, mental records, or magical artifacts — is never specified.  
-- Whether the narrator still considers themselves part of the Ember Vanguard, or if that association is purely historical.  
-- The identity of "Bahamut" and whether divine observation remains a live concern — no later chapter confirms or denies its relevance.  
-- Whether Asha is still present or actively involved in the narrator’s current actions — her emotional stakes are noted, but her current status is unconfirmed.
+- The exact nature of the narrator’s spells or magical abilities is not specified, only their tactical philosophy.
+- Whether Asha is currently alive, present, or still influencing the narrator’s actions is implied but not confirmed in ch51.
+- The narrator’s physical location or current mission objective is not stated in ch51.
+- It is unclear whether “Bahamut may or may not have been watching” reflects uncertainty in the narrator’s perception or actual divine ambiguity — the text does not resolve whether Bahamut is actively observing.

@@ -1,100 +1,86 @@
 [
   {
     "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is part of a party that has endured a shared history of Malfire citations, which have become an ambient condition of their group dynamic, and was referenced in a reconstructed conversation about Daz's habits.",
+    "source_quote": "I heard Grygum's name pulled into the discussion \u2014 Grygum, not me, which is how I know the sentence was reconstructed after the fact",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
     "subject": "Vareth",
-    "fact": "Vareth is a half-orc cleric of Bahamut whose previously obscure field of study has become a flood of interest after his own conversion, and he is now receiving funding, conference invitations, and research opportunities.",
-    "source_quote": "Vareth stopped. His expression went through several stages very quickly \u2014 surprise, recognition, something that looked almost like delight at receiving a gift he hadn't known he wanted.",
+    "fact": "Vareth is a half-orc cleric of Bahamut whose previously obscure field has become a flood of interest after Stroud's Gambit, and he is now receiving funding, conference invitations, and has a living data point in his own identity.",
+    "source_quote": "A living half-orc cleric of Bahamut had walked through his door",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Stroud",
-    "fact": "Stroud is an individual whose seemingly random, uninformed action \u2014 rolling a die in a centuries-old chess game \u2014 produced a definitive, legendary outcome that restructured Vareth\u2019s career and gave rise to the term 'Stroud's Gambit'.",
-    "source_quote": "Stroud rolled \u2014 and it landed perfectly. Definitively. The kind of thing that doesn't just work, it *announces* itself.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "Stroud's Gambit",
-    "fact": "'Stroud's Gambit' is a newly coined term describing a paradigm-shifting, unintended act of divine significance that has become a central concept in the study of Bahamut's influence on half-orc conversions.",
-    "source_quote": "And then, because I couldn't help it, and because the phrase had been sitting in the back of my mind since we started this journey and I'd never had the right audience for it: 'Stroud's Gambit.'",
+    "fact": "Stroud is a non-expert who performed an unexpected, decisive action in a chess game that became known as 'Stroud's Gambit' and triggered a theological and scholarly phenomenon concerning Bahamut and half-orc conversions.",
+    "source_quote": "Stroud rolled \u2014 and it landed perfectly. Definitively. ... 'Stroud's Gambit.'",
     "quote_verified": false
   },
   {
     "type": "faction",
     "subject": "Bahamut's clergy",
-    "fact": "Bahamut's clergy traditionally aspire to take over the world, but Vareth's conversion and the emergence of 'Stroud's Gambit' suggest a new, unpredictable pathway of divine influence that bypasses conventional ambition.",
-    "source_quote": "You have to understand... that it is traditional for clerics of Bahamut to want to try to take over the world. But I haven't moved into that phase yet.",
-    "quote_verified": false
+    "fact": "Bahamut's clergy are perceived as having a traditional ambition to take over the world, a stereotype that Vareth explicitly rejects, yet the emergence of a half-orc cleric has disrupted expectations and ignited scholarly inquiry.",
+    "source_quote": "it is traditional for clerics of Bahamut to want to try to take over the world. But I haven't moved into that phase yet.",
+    "quote_verified": true
   },
   {
     "type": "faction",
     "subject": "Orc pantheon",
-    "fact": "The orc pantheon is undergoing theological disruption due to the sudden emergence of a half-orc cleric of Bahamut, raising questions about whether this represents an incursion, a conversion, or a new divine alignment.",
-    "source_quote": "What did the sudden half-orc interest in Bahamut mean for the orc pantheon? Was it part of Bahamut's plan?",
-    "quote_verified": false
+    "fact": "The orc pantheon is experiencing theological disruption due to the sudden interest of a half-orc in Bahamut, prompting widespread debate about whether this shift is part of Bahamut's plan.",
+    "source_quote": "what did the sudden half-orc interest in Bahamut mean for the orc pantheon? Was it part of Bahamut's plan?",
+    "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "conversion phenomenon",
-    "fact": "The conversion phenomenon refers to the unexpected and transformative theological shift triggered by Vareth\u2019s emergence as a living half-orc cleric of Bahamut, which has restructured his entire academic field and attracted widespread scholarly attention.",
-    "source_quote": "The controversy had erupted throughout the realms \u2014 what did the sudden half-orc interest in Bahamut mean for the orc pantheon?",
+    "subject": "Stroud's Gambit",
+    "fact": "Stroud's Gambit is a decisive, unexpected move in a chess game that became a named phenomenon, catalyzing a surge of scholarly attention toward half-orc conversions to Bahamut and transforming Vareth\u2019s career.",
+    "source_quote": "'Stroud's Gambit.' ... 'The field of Bahamut half-orc conversions will benefit tremendously from your interview.'",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "theological implications of conversion",
+    "fact": "The theological implications of a half-orc cleric of Bahamut remain unresolved, with unanswered questions about Bahamut\u2019s intentions, the nature of the conversion phenomenon, and its place in broader divine architecture.",
+    "source_quote": "About Bahamut's intentions, about what my conversion meant in the broader theological landscape, about why Vareth's previously obscure field had become a flood.",
     "quote_verified": true
   },
   {
     "type": "object",
     "subject": "prayer book",
-    "fact": "The prayer book is a personal artifact collected by the narrator, containing theological notes and evidence gathered during months in the Underdark, used to investigate the broader implications of Vareth\u2019s conversion.",
+    "fact": "The prayer book is one of several physical artifacts collected by the speaker as part of ongoing theological research into Bahamut and conversion phenomena, held alongside theological documents and Underdark evidence.",
     "source_quote": "I had notes \u2014 the prayer book, the theological documents, the accumulated evidence of months in the Underdark",
     "quote_verified": true
   },
   {
     "type": "object",
     "subject": "theological documents",
-    "fact": "The theological documents are a collection of scholarly and liturgical materials gathered by the narrator to understand the implications of Bahamut\u2019s influence on half-orc conversions and the legitimacy of 'Stroud's Gambit'.",
+    "fact": "Theological documents are part of a research archive compiled by the speaker to understand the nature of Bahamut\u2019s influence on half-orcs and the broader implications of Stroud's Gambit.",
     "source_quote": "I had notes \u2014 the prayer book, the theological documents, the accumulated evidence of months in the Underdark",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is the setting where the speaker and Vareth are engaged in theological research, with answers awaiting in its libraries regarding Bahamut\u2019s intentions and the nature of the conversion phenomenon.",
+    "source_quote": "Somewhere in the library, there were answers waiting.",
     "quote_verified": true
   },
   {
     "type": "monster",
     "subject": "Malfire",
-    "fact": "Malfire is a referenced authority figure whose citations have become an ambient, recurring element in the party\u2019s interactions, treated as an unspoken cultural touchstone rather than a literal source.",
-    "source_quote": "As Malfire said in Volume 3.\" \"Nobody laughed. This was the correct response.",
+    "fact": "Malfire is a referenced authority whose citations have become an ambient, inescapable part of the party\u2019s shared experience, invoked habitually by Daz and referenced by Grygum, forming a cultural texture rather than a discrete event.",
+    "source_quote": "Daz's habit of citing Malfire at every available opportunity. ... 'As Malfire said in Volume 3.'",
     "quote_verified": false
   },
   {
-    "type": "location",
-    "subject": "the library",
-    "fact": "The library is a place of unresolved theological inquiry where answers about Bahamut\u2019s intentions, the nature of conversion, and the origins of 'Stroud's Gambit' are believed to be waiting.",
-    "source_quote": "Somewhere in the library, there were answers waiting. About Bahamut's intentions, about what my conversion meant in the broader theological landscape...",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "theology of unintended divine intervention",
-    "fact": "A growing theological thread suggests that divine will may manifest not through planned doctrine, but through the unanticipated actions of those who do not know what they are doing \u2014 exemplified by 'Stroud's Gambit'.",
-    "source_quote": "I had the particular comfort of knowing that sometimes the person who doesn't know what they're doing walks into the right room and everything clicks.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "funding arrival",
-    "fact": "The arrival of funding for Vareth\u2019s research marks a turning point in his academic career, transforming his once-neglected field into a recognized discipline with institutional backing.",
-    "source_quote": "Funding was arriving.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "narrator",
-    "fact": "The narrator is a researcher and chronicler who collects evidence, asks probing questions, and finds comfort in the unpredictability of divine action, using note-taking as both a practice and a philosophy.",
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occur during a session of the party\u2019s ongoing campaign, marked by the transition from uncertainty to revelation, and anchored by the moment when 'Stroud's Gambit' was named.",
     "source_quote": "I took notes. It's what I do.",
     "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "ambient citation culture",
-    "fact": "The party has developed an ambient citation culture around Malfire, where quoting the figure has become a ritualized, unspoken norm \u2014 not for accuracy, but for shared identity and emotional resonance.",
-    "source_quote": "It's like we're kind of sick of each other, but somehow still together, yeah.",
-    "quote_verified": false
   }
 ]

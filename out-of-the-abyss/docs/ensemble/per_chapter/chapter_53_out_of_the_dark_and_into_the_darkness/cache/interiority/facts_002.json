@@ -1,268 +1,177 @@
 [
   {
-    "type": "event",
+    "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum felt the particular weight of irony settle in his chest when handling the keys.",
+    "fact": "Grygum felt the particular weight of irony settle in his chest when holding the jailer's keys.",
     "source_quote": "I turned them over in my hands and felt the particular weight of irony settle in my chest.",
     "quote_verified": true
   },
   {
-    "type": "event",
+    "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum said the keys would have been very useful in the very beginning.",
+    "fact": "Grygum thought the keys would have been very useful at the very beginning.",
     "source_quote": "You know, they would have been very useful in the very beginning,",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum noted that these are the very keys that had you imprisoned.",
-    "source_quote": "These are the very keys that had you imprisoned.",
-    "quote_verified": true
-  },
-  {
     "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum wanted to understand the room before he started carrying things out of it.",
-    "source_quote": "I wanted to understand the room before I started carrying things out of it.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum opened the confiscated prisoner belongings and found exactly what he expected.",
-    "source_quote": "I opened it, and the contents were exactly what you would expect from someone who understood that stripping a prisoner of their possessions is the first act of stripping them of themselves.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum said, 'If there was anything that was missing from the very beginning, like your tooth, Thorin.'",
-    "source_quote": "If there was anything that was missing from the very beginning,\" I said, not quite finishing the thought, \"like your tooth, Thorin.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Thorin",
-    "fact": "Thorin looked up and something shifted in his face \u2014 recognition, and then something quieter beneath it.",
-    "source_quote": "Thorin looked up. Something shifted in his face \u2014 recognition, and then something quieter beneath it.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Thorin",
-    "fact": "Thorin said, 'Oh, yeah. I want my tooth back.'",
-    "source_quote": "Oh, yeah. I want my tooth back.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Thorin",
-    "fact": "Thorin reached in and found the tooth and held it for a moment without saying anything.",
-    "source_quote": "He reached in and found it. He held it for a moment without saying anything.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Thorin",
-    "fact": "Thorin said, 'Very sentimental.'",
-    "source_quote": "Very sentimental.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Ilvara",
-    "fact": "Ilvara had been carrying Thorin's tooth around the Underdark and collected it like a curiosity.",
-    "source_quote": "she had been carrying his tooth around the Underdark. She had collected it like a curiosity.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum held the water-damaged journal carefully and noted the handwriting was still visible in the drier sections.",
-    "source_quote": "I held it carefully. The pages were swollen and the ink had run in places, but the handwriting was still visible in the drier sections,",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum took note of the marks of a person who had kept records right up until they couldn't.",
-    "source_quote": "the marks of a person who had kept records right up until they couldn't.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum received the flask of Overbright brandy with considerably more personal interest.",
-    "source_quote": "The flask of Overbright brandy I received with considerably more personal interest.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Asha Vandree",
-    "fact": "Asha Vandree had been a cleric of Lolth who had also become, in some capacity, a cleric of Zuggtmoy, and in the end she had been indistinguishable from the rot she served.",
-    "source_quote": "Asha Vandree had been a cleric of Lolth who had also become, in some capacity, a cleric of Zuggtmoy, and in the end she had been indistinguishable from the rot she served.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum looted Asha Vandree with the efficient respect one extends to a theological problem that has been resolved.",
-    "source_quote": "So I looted her with the efficient respect one extends to a theological problem that has been resolved.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Zalthir",
-    "fact": "Zalthir took the Drow cloak she'd been wearing \u2014 the fine spider-silk kind that drinks shadow \u2014 and Grygum did not begrudge him that.",
-    "source_quote": "Zalthir took the Drow cloak she'd been wearing \u2014 the fine spider-silk kind that drinks shadow \u2014 and I did not begrudge him that.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum suspected the sealed wax pouch was the more interesting item.",
+    "fact": "Grygum suspected the wax pouch was the more interesting item after taking it from Asha Vandree's body.",
     "source_quote": "I had the wax pouch, and I suspected it was the more interesting item.",
     "quote_verified": true
   },
   {
-    "type": "event",
+    "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum read the sealed wax pouch and found pages of close, careful script \u2014 the handwriting of someone who had once been methodical, who had trained as a theologian and brought that training to bear on a question that should not have been asked.",
-    "source_quote": "Inside were pages of close, careful script \u2014 the handwriting of someone who had once been methodical, who had trained as a theologian and brought that training to bear on a question that should not have been asked.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum said, 'It's basically a long theological exploration of why Zuggtmoy and Lolth \u2014 and claiming that Lolth and Zuggtmoy are the same thing,'",
-    "source_quote": "It's basically a long theological exploration of why Zuggtmoy and Lolth \u2014 and claiming that Lolth and Zuggtmoy are the same thing,",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum said, 'It's very tedious and boring.'",
-    "source_quote": "It's very tedious and boring.",
+    "fact": "Grygum was very tired immediately after reading the contents of the wax pouch.",
+    "source_quote": "I was right. I was also, immediately, very tired.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum understood the written record of a mind finding its way toward the conclusion that two incompatible things were secretly one thing \u2014 the kind of reasoning that starts from a desired destination and works backward.",
-    "source_quote": "what it actually was, was the written record of a mind finding its way toward the conclusion that two incompatible things were secretly one thing \u2014 the kind of reasoning that starts from a desired destination and works backward.",
+    "fact": "Grygum thought the theological text in the wax pouch was tedious and boring (being diplomatic).",
+    "source_quote": "It's basically a long theological exploration... It's very tedious and boring.",
     "quote_verified": false
   },
   {
-    "type": "event",
+    "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum asked, 'Is this pre-craziness or post-craziness, do you think?'",
-    "source_quote": "Is this pre-craziness or post-craziness, do you think?\" I asked.",
+    "fact": "Grygum wondered whether the theological text was pre-craziness or post-craziness.",
+    "source_quote": "Is this pre-craziness or post-craziness, do you think?",
     "quote_verified": true
   },
   {
-    "type": "event",
+    "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum examined Ilvara's prayer book gingerly.",
-    "source_quote": "I'll examine it gingerly.",
+    "fact": "Grygum recalled seeing similar handwriting in a merchant who had been Tongued by a bardic curse.",
+    "source_quote": "I had seen something like this before, in a completely different context \u2014 a merchant I once knew who had been Tongued by a bardic curse...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum thought the ambiguity of whether Ilvara knew she wasn't resisting her corruption was the most troubling part.",
+    "source_quote": "That ambiguity was the most troubling part.",
     "quote_verified": true
   },
   {
-    "type": "event",
+    "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum noted the main text was a standard Lolth prayer book \u2014 formatted prayers, liturgical responses, the hierarchy of supplication laid out in careful descending order.",
-    "source_quote": "The main text was a standard Lolth prayer book \u2014 the kind of thing they give to promising young acolytes in the outer sanctums of any major drow religious house. Formatted prayers. Liturgical responses. The hierarchy of supplication laid out in careful descending order.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum noted the marginalia were in a different hand and showed the corruption timeline.",
-    "source_quote": "but you notice it has Zuggtmoy marginalia \u2014 the margins in a different hand \u2014 since it shows the corruption timeline.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum observed that the early entries were neat and formal and exactly what you would expect.",
-    "source_quote": "The early entries were neat and formal and exactly what you would expect.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum observed that the second voice in the marginalia was less structured, more associative, and some sentences didn't always end.",
-    "source_quote": "Then, gradually, around the margins, a second voice crept in. Less structured. More associative. The sentences didn't always end. Some of them were questions that answered themselves with other questions.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum recalled seeing something like this before \u2014 a merchant Tongued by a bardic curse whose correspondence was eerily similar.",
-    "source_quote": "I had seen something like this before, in a completely different context \u2014 a merchant I once knew who had been Tongued by a bardic curse, whose correspondence from that period was eerily similar:",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum noted the corruption timeline was legible if you knew how to read it.",
-    "source_quote": "The corruption timeline was legible if you knew how to read it.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum thought, briefly, of Stroud sitting down across from Protanther \u2014 four hundred years of preparation, still had a blind spot.",
+    "fact": "Grygum thought of Stroud sitting across from Protanther and realized even long preparation can leave blind spots.",
     "source_quote": "I thought, briefly, of Stroud sitting down across from Protanther. Four hundred years of preparation. Still had a blind spot.",
     "quote_verified": true
   },
   {
-    "type": "event",
+    "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum read the sealed orders from House Mizzrym aloud: 'Where are you? What have you been doing? Respond \u2014 kind of thing. You've gone missing. Followed by more frantic: where are you, where are you? Didn't you read the previous memo? What's up?'",
-    "source_quote": "Where are you? What have you been doing? Respond \u2014 kind of thing. You've gone missing. Followed by more frantic: where are you, where are you? Didn't you read the previous memo? What's up?",
+    "fact": "Grygum believed the thing that undoes you isn't the opponent you've been studying \u2014 it's the thing you didn't know to look for.",
+    "source_quote": "Sometimes the thing that undoes you isn't the opponent you've been studying \u2014 it's the thing you didn't know to look for.",
     "quote_verified": true
   },
   {
-    "type": "event",
+    "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum noted the letter from Neverlight Grove was a missed meeting \u2014 political correspondence that had gone nowhere because the person it was addressed to had gone somewhere else.",
-    "source_quote": "A missed meeting. Political correspondence that had gone nowhere, because the person it was addressed to had gone somewhere else \u2014 somewhere a Demon Queen's influence had been a stronger pull than any political alliance.",
+    "fact": "Grygum intended to examine Ilvara's prayer book gingerly because it was dangerous.",
+    "source_quote": "I'll examine it gingerly.",
     "quote_verified": true
   },
   {
-    "type": "event",
+    "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum said the sealed orders were someone's records of a relationship that had dissolved without anyone on one end knowing why.",
-    "source_quote": "They were someone's records of a relationship that had dissolved without anyone on one end knowing why.",
+    "fact": "Grygum understood that the prayer book told him things he did not want to know.",
+    "source_quote": "It told me things I did not want to know.",
     "quote_verified": true
   },
   {
-    "type": "event",
+    "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum described the Living Serpent Head Scourge as a great museum piece.",
+    "fact": "Grygum noticed that the marginalia in Ilvara's prayer book were in a different hand, indicating a second mind at work.",
+    "source_quote": "A different hand. That detail mattered to me more than any of the specific words.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum feared that Ilvara had written the marginalia herself in a state so altered her handwriting had changed.",
+    "source_quote": "Or \u2014 and this was the reading that settled in my stomach like cold stone \u2014 she had written in it herself but in a state so altered that the handwriting had changed.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum believed Ilvara had not resisted the corruption documented in her prayer book.",
+    "source_quote": "She had not resisted it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum thought the Living Serpent Head Scourge was a great museum piece.",
     "source_quote": "The Living Serpent Head Scourge sounds... It sounds like a great museum piece.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum believed that acknowledging the craft of terrible items is not the same as endorsing what the craft served.",
-    "source_quote": "There is a tradition, in certain temples I have visited, of displaying items that are terrible in origin and remarkable in craft, on the theory that acknowledging the craft is not the same as endorsing what the craft served.",
+    "fact": "Grygum believed acknowledging the craft of terrible objects is not the same as endorsing what they served.",
+    "source_quote": "There is a tradition... of displaying items that are terrible in origin and remarkable in craft, on the theory that acknowledging the craft is not the same as endorsing what the craft served.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin wanted his tooth back after Grygum mentioned it.",
+    "source_quote": "Oh, yeah. I want my tooth back.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum documented the items carefully and did not pretend they weren't what they were.",
-    "source_quote": "You document them. You label them carefully. You do not pretend they aren't what they are.",
+    "subject": "Thorin",
+    "fact": "Thorin felt recognition and then something quieter beneath it when Grygum mentioned his tooth.",
+    "source_quote": "Thorin looked up. Something shifted in his face \u2014 recognition, and then something quieter beneath it.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum took notes instead of saying much about any of the items.",
-    "source_quote": "I took notes instead.",
+    "subject": "Daz",
+    "fact": "Daz meant seriously when he said, 'We've come a long way.'",
+    "source_quote": "He said it lightly. He meant it seriously.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir took the Drow cloak from Asha Vandree's body, and Grygum did not begrudge him that.",
+    "source_quote": "Zalthir took the Drow cloak she'd been wearing... and I did not begrudge him that.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Ilvara's corruption",
+    "fact": "Ilvara's corruption timeline was legible in the marginalia of her prayer book, showing a gradual shift from normal devotion to altered thinking.",
+    "source_quote": "The corruption timeline was legible if you knew how to read it. Ilvara had been normal... and then something had found the edge of her and started pulling.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Asha Vandree's transformation",
+    "fact": "Asha Vandree had become indistinguishable from the rot she served, justifying Grygum's efficient looting of her body.",
+    "source_quote": "Asha Vandree had been a cleric of Lolth who had also become... indistinguishable from the rot she served.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "House Mizzrym's concern",
+    "fact": "House Mizzrym's sealed orders revealed frantic concern over Ilvara's disappearance, unaware of her corruption.",
+    "source_quote": "Where are you? What have you been doing? Respond \u2014 kind of thing. You've gone missing. Followed by more frantic: where are you, where are you?",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Neverlight Grove's missed meeting",
+    "fact": "The letter from Neverlight Grove confirmed Ilvara's political alliance had dissolved because she was lost to Zuggtmoy's influence.",
+    "source_quote": "A missed meeting. Political correspondence that had gone nowhere, because the person it was addressed to had gone somewhere else \u2014 somewhere a Demon Queen's influence had been a stronger pull than any political alliance.",
     "quote_verified": true
   }
 ]

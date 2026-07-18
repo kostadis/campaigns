@@ -1,1143 +1,1032 @@
 [
   {
     "type": "npc",
-    "subject": "Zalthir",
-    "fact": "Zalthir is deeply analytical, fixated on the metaphysical properties of light and distance, and records everything said to him with precision; he is currently processing a revised interpretation of the Question of the Age involving a fourth corner derived from Stroud's Gambit.",
-    "source_quote": "One true sun, light being furthest \u2014 and then he'd want to know whether any physical property could slow that light down, whether the reach of the thing was distance or something else.",
-    "quote_verified": false
+    "subject": "Grygum",
+    "fact": "Grygum is an academic who analyzed a treatise on poison tied to celestial mechanics and realized the trigger is location-based, not temporal. He passed a key to Daz after recognizing the keep\u2019s security is compromised by scholarly distraction.",
+    "source_quote": "I had the treatise open in front of me. *On the Punctual Tears.*",
+    "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Daz",
-    "fact": "Daz is the de facto investigator, carrying the key once owned by Kalan Strongbranch, and has been informed by Thorin that solving the murder grants access to any book in Candlekeep \u2014 though he acknowledges the reward is likely worthless.",
-    "source_quote": "Look, I'm just saying, if we solve the murder, we get any book in the place.\" A beat. \"We get shit.",
+    "fact": "Daz is a pragmatic investigator who received a key from Grygum and is now entangled in the murder mystery. He understands the academic distraction has left the keep vulnerable and is aware of Daral\u2019s precarious position.",
+    "source_quote": "Totally, totally,\" Zalthir said, in a voice that recorded everything.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Thorin",
-    "fact": "Thorin is bluntly pragmatic, refuses to let kindness go uncomplicated, and has directly told Daral that solving the murder grants access to books \u2014 a statement meant to ground Daral\u2019s paranoia in cold incentive.",
-    "source_quote": "Look, I'm just saying, if we solve the murder, we get any book in the place.\" A beat. \"We get shit.",
+    "subject": "Daral",
+    "fact": "Daral is a paranoid but perceptive figure who believes he\u2019s being framed for murder. He possesses the poison book, suspects Daz and Thorin are his only protectors, and fears Zalthir will learn of his drunken, incriminating remarks about dragonborn.",
+    "source_quote": "He had the poison book. He'd worked out someone wanted him to take the fall.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Kalan Strongbranch",
-    "fact": "Kalan Strongbranch was paranoid, carried a key imbued with a summoning enchantment, and deliberately relinquished it after realizing a corpse cannot possess objects \u2014 a revelation tied to Kelemvor's doctrine on death and possession.",
-    "source_quote": "So if you wanted a man's key, the cleanest way to free it from his possession was to make him a corpse.",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a meticulous scholar whose voice records everything and whose analytical nature makes him a threat to anyone with hidden truths. He is unaware of Daral\u2019s drunken comments but is being referenced as a looming consequence.",
+    "source_quote": "Totally, totally,\" Zalthir said, in a voice that recorded everything.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Brother Vareth",
-    "fact": "Brother Vareth has appropriated the protagonist's unfinished answer to the Question of the Age \u2014 a triangle with three options derived from Stroud's Gambit \u2014 and transformed it into a fourth corner, publishing it to the entire Avowed community.",
-    "source_quote": "He'd taken my answer to the Question of the Age... and he'd turned it into a thing. A fourth corner. And he had told everyone.",
+    "fact": "Brother Vareth has appropriated Grygum\u2019s incomplete answer to the Question of the Age and turned it into a published thesis, sparking mass academic frenzy and diverting attention from the ongoing murder investigation.",
+    "source_quote": "He'd taken my answer to the Question of the Age... and he'd turned it into a thing. A fourth corner.",
     "quote_verified": false
   },
   {
-    "type": "faction",
-    "subject": "Avowed Community",
-    "fact": "The Avowed Community has abandoned all pressing concerns \u2014 including an active murder and poisoned book \u2014 to debate and publish new academic theories, demonstrating their institutional obsession with research over survival.",
-    "source_quote": "There is an active murder running through this keep... And nothing says you are an academic institution quite like blowing off everything important to focus on what really matters: new research.",
-    "quote_verified": false
-  },
-  {
-    "type": "faction",
-    "subject": "Followers of Kelemvor",
-    "fact": "The Followers of Kelemvor have repeatedly and cryptically emphasized that death severs possession \u2014 a doctrine critical to understanding how the summoning sapphire operates, and why killing is the cleanest method to liberate a possessed object.",
-    "source_quote": "A dead person, it turns out, possesses nothing. An undead can. A dead man can't. The followers of Kelemvor have made that point very clear, repeatedly, through their god's usual incomprehensible cryptic phrasing.",
-    "quote_verified": false
-  },
-  {
-    "type": "monster",
-    "subject": "Poisoned Book",
-    "fact": "The poisoned book is a lethal artifact linked to Shar and Sel\u00fbne, capable of killing scholars who read it; it is believed to be the instrument used to murder the academic, and is currently in Daral's possession.",
-    "source_quote": "There is a poisoned book and a dead scholar.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "Summoning Sapphire",
-    "fact": "The stolen sapphire has a summoning enchantment that pulls items only from those who do not possess them \u2014 meaning it cannot retrieve objects from living or undead beings, only from corpses, making murder the optimal method to acquire a target item.",
-    "source_quote": "It could pull an item to you, but only an item not in anyone's possession. And a dead person, it turns out, possesses nothing.",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "Kalan Strongbranch's Key",
-    "fact": "The key once worn by Kalan Strongbranch is enchanted with a summoning property tied to the sapphire's mechanism; it was deliberately passed to Daz to remove it from Strongbranch\u2019s possession before his death, and now resides with Daz.",
-    "source_quote": "I had a key on me. It had hung around Kalan Strongbranch's neck once... I handed it to Daz and let it become his problem.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Scholar's Murder",
-    "fact": "A scholar was killed by the poisoned book, likely to gain access to a key or other possessed object; the murder is part of a pattern where death is used to circumvent magical possession rules.",
-    "source_quote": "There is a poisoned book and a dead scholar.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Publication of the Fourth Corner",
-    "fact": "Brother Vareth has publicly published a revised version of the Question of the Age, adding a fourth option to the triangle derived from Stroud's Gambit, triggering a mass academic distraction that has left the keep vulnerable.",
-    "source_quote": "He'd turned it into a thing. A fourth corner. And he had told everyone.",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "Who Killed the Scholar?",
-    "fact": "The identity of the scholar\u2019s killer remains unknown, but the method suggests a deep understanding of Kelemvor\u2019s doctrine on possession and the summoning properties of the sapphire \u2014 pointing to someone who has studied or exploited arcane death magic.",
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch was a paranoid scholar who carried a key tied to a stolen sapphire with a summoning enchantment. He removed the key from his possession because he understood that only a corpse cannot be bound by its magic.",
     "source_quote": "So if you wanted a man's key, the cleanest way to free it from his possession was to make him a corpse.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "Daral\u2019s Drunken Remarks About Dragonborn",
-    "fact": "Daral made potentially incriminating barroom comments about dragonborn, which Zalthir recorded; if revealed, these remarks could trigger a violent response from dragonborn factions or be used as false evidence against Daral.",
-    "source_quote": "He'd worked out someone wanted him to take the fall... and he was very much hoping nobody would mention to Zalthir what he'd said about dragonborn.",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Candlekeep Dining Room",
-    "fact": "The dining room \u2014 where meals are served \u2014 is currently unwatched due to the Avowed Community's academic frenzy, making it the ideal location for a poisoner to act or conceal further evidence.",
-    "source_quote": "The dining room, for one. Where the meals were served, and where, if you were a poisoner, you'd have wanted to be.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Research Area",
-    "fact": "The research area is now flooded with Avowed scholars debating the 'fourth corner' theory, leaving the rest of Candlekeep \u2014 including the dining room, archives, and chambers \u2014 dangerously unguarded.",
-    "source_quote": "Everyone was now headed toward the research area, which meant the keep was suddenly full of rooms nobody would be watching.",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "Session Time",
-    "fact": "The events occur during an indeterminate but critical moment \u2014 likely late afternoon \u2014 as Daral reflects on his morning's revelations and the group prepares to confront the murder mystery after the academic distraction.",
-    "source_quote": "That's a lot of columns to reconcile before lunch.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Daral",
-    "fact": "Daral is desperate, a state that makes him honest and generous in equal measure, and he paid the price for access to the Oak Tree Apothecary.",
-    "source_quote": "Daral paid it.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Leuwin",
-    "fact": "Leuwin is an elderly, absent-minded satyr druid with a pet squirrel, capable of definitively identifying poison from the book.",
-    "source_quote": "A satyr druid named Leuwin, elderly and absent-minded, with a pet squirrel, who could identify the poison from the book definitively.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Oak Tree Apothecary",
-    "fact": "The Oak Tree Apothecary is a treehouse grown into the roots of an evergreen oak, located between the Sea Warden's Tower and the House of Mechanus.",
-    "source_quote": "The Oak Tree Apothecary, he said, between the Sea Warden's Tower and the House of Mechanus, a treehouse grown into the roots of an evergreen oak.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "the book",
-    "fact": "The book was wrapped when delivered to Janussi at dinner, and its provenance became the entire case if the poison resided in its binding.",
-    "source_quote": "If the poison lived in the binding, then the book's provenance became the entire case.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "book tampering timeline",
-    "fact": "The book was placed under the evergreen tree at approximately 11am on Deadwinter's Eve; it was still wrapped when picked up by Janussi at dinner; tampering occurred between those moments, and the killer either accessed it before delivery or is Daral himself.",
-    "source_quote": "He'd dropped the book under the evergreen tree... around 11am... the book got picked up by Janussi at dinner. And at the time, it was wrapped.",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "the poisoned book's origin",
-    "fact": "The poison may have been introduced before or after Daral handed over the book; the critical question is whether the tampering occurred in transit or by the recipient \u2014 and whether Daral is the murderer.",
-    "source_quote": "Or, the dude we're talking to is the killer.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Thorin",
-    "fact": "Thorin is a pragmatic investigator who softened his approach with 'look, dude, we'll save you, we're not that evil,' but pressed the timeline relentlessly, suspecting Daral's guilt.",
-    "source_quote": "Thorin softened it eventually, 'look, dude, we'll save you, we're not that evil,' but the price was already extracted.",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "the key",
-    "fact": "The key was clean \u2014 not bound to the summoning spell, not created by it, carrying no enchantment \u2014 which reframed the case to focus on the sapphire gem as the true retrieval token.",
-    "source_quote": "The key was clean. Not linked to that spell, not created by it, carrying no quiet enchantment under the surface.",
+    "fact": "Thorin is blunt and unadorned in truth-telling. He told Daral that solving the murder grants access to any book in Candlekeep \u2014 but emphasized the reward is worthless, undercutting any false hope.",
+    "source_quote": "Look, I'm just saying, if we solve the murder, we get any book in the place.\" A beat. \"We get shit.",
     "quote_verified": true
   },
   {
-    "type": "object",
-    "subject": "the sapphire gem",
-    "fact": "The sapphire is not decoration \u2014 it is the retrieval token, and must be the same one used to store and recall the object; a backup against theft, cast into the gem as a tracking-stone.",
-    "source_quote": "The sapphire isn't decoration: it's the retrieval token, and it has to be the same sapphire both to store and to recall.",
+    "type": "faction",
+    "subject": "Avowed Community",
+    "fact": "The Avowed Community has abandoned all urgent duties \u2014 including the murder of a scholar and the threat of a poisoned book \u2014 to obsess over a newly published academic thesis, revealing their institutional prioritization of scholarship over survival.",
+    "source_quote": "The whole Avowed community wanted, right then and there, to drop everything and debate it in the Grand Hall.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Followers of Kelemvor",
+    "fact": "The Followers of Kelemvor have established through their god\u2019s cryptic doctrine that a dead person possesses nothing, while the undead retain possession \u2014 a principle critical to understanding the summoning enchantment on the stolen sapphire.",
+    "source_quote": "An undead can. A dead man can't. The followers of Kelemvor have made that point very clear...",
     "quote_verified": false
   },
   {
     "type": "event",
-    "subject": "key and gem disconnection",
-    "fact": "The summoning magic was worked on a different key, meaning the sapphire gem and the stolen key are mismatched \u2014 a deliberate design to protect against theft, and a clue pointing to the murderer's foresight.",
-    "source_quote": "The summoning had been worked on a different key.",
+    "subject": "murder of the scholar",
+    "fact": "A scholar has been murdered, likely via a poison tied to celestial mechanics, and the crime scene involves a stolen sapphire with a summoning enchantment that requires the victim to be dead to free a possessed object.",
+    "source_quote": "There is a poisoned book and a dead scholar.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "publication of the fourth corner",
+    "fact": "Brother Vareth published a revision of Grygum\u2019s incomplete answer to the Question of the Age, triggering a mass academic frenzy that diverted all attention from the murder investigation and left the keep unguarded.",
+    "source_quote": "He'd turned it into a thing. A fourth corner. And he had told everyone.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "the poison book",
+    "fact": "The poison book is a dangerous artifact tied to celestial mechanics and the timing of midnight. It is currently in Daral\u2019s possession, and he believes it was planted to frame him for the scholar\u2019s murder.",
+    "source_quote": "He had the poison book. He'd worked out someone wanted him to take the fall.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "the stolen sapphire",
+    "fact": "The stolen sapphire carries a summoning enchantment that can only pull items from corpses \u2014 not the living or undead. This mechanism explains why Kalan Strongbranch removed his key and why the scholar was killed.",
+    "source_quote": "The stolen sapphire carried a summoning working \u2014 it could pull an item to you, but only an item not in anyone's possession.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Kalan Strongbranch's key",
+    "fact": "Kalan Strongbranch's key once hung around his neck and was later passed to Daz. It is now in a state of transit, no longer possessed by its original owner, and potentially subject to the sapphire\u2019s summoning magic.",
+    "source_quote": "I had a key on me. It had hung around Kalan Strongbranch's neck once.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Zalthir's knowledge of dragonborn remarks",
+    "fact": "Daral made drunken, incriminating remarks about dragonborn in a barroom setting, and fears Zalthir will learn of them. Zalthir\u2019s recorded voice makes this an unresolved threat that could destroy Daral\u2019s credibility or safety.",
+    "source_quote": "He was very much hoping nobody would mention to Zalthir what he'd said about dragonborn. Drunk, barroom talk, not meant to be taken seriously.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the identity of the poisoner",
+    "fact": "The poisoner used the sapphire\u2019s summoning enchantment to kill the scholar by making him a corpse, thereby freeing the key. The killer\u2019s identity remains unknown, but the act reveals deep knowledge of Kelemvor\u2019s doctrine and celestial mechanics.",
+    "source_quote": "So if you wanted a man's key, the cleanest way to free it from his possession was to make him a corpse.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is an academic fortress now dangerously unguarded. The entire Avowed Community has abandoned security to debate a new thesis, leaving dining halls, chambers, and corridors vulnerable to further murders or theft.",
+    "source_quote": "The keep was suddenly full of rooms nobody would be watching. The dining room, for one.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "time of midnight",
+    "fact": "Midnight is not a clock-based event in this context, but a celestial alignment \u2014 the moment the sun is directly opposite on the globe. The poison\u2019s trigger is location-based, making the passage of time irrelevant unless one moves to avoid the dark side of the world.",
+    "source_quote": "Midnight is when the sun is directly on the other side of the globe from you.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is the investigator who filed Daral under 'desperate' and later took custody of the key to perform a divining spell, noting its cleanliness and the implications for the summoning magic's true target.",
+    "source_quote": "I took custody of the key, set my fingers to the cold iron of it, and let the spell read the object the way an auditor reads an account someone else kept.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is the strategist who fixated on the timeline of the book and the possibility that Daral is the killer, repeatedly pressing the logical implication that tampering occurred before or after the book was handed over.",
+    "source_quote": "So what I'm saying is that the timeline of the book seems to be a very important thing at this point.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daral",
+    "fact": "Daral is the accused man who provided the location of the Oak Tree Apothecary and the details of when and how the book was left under the tree, but insisted he never handed it to anyone \u2014 his testimony became central to the timeline investigation.",
+    "source_quote": "He'd dropped the book under the evergreen tree, next to the other gifts, around 11am on Deadwinter's Eve... he hadn't handed it to anybody. The book got picked up by Janussi at dinner.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Leuwin",
+    "fact": "Leuwin is the elderly, absent-minded satyr druid at the Oak Tree Apothecary, who is expected to identify the poison from the book definitively, though he has not yet been encountered.",
+    "source_quote": "A satyr druid named Leuwin, elderly and absent-minded, with a pet squirrel, who could identify the poison from the book definitively.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is the investigator who requested the key be checked for ongoing magic, prompting Daz to perform the divining spell that revealed the key was clean and unrelated to the summoning spell.",
+    "source_quote": "Zalthir wanted it checked for ongoing magic, and that is my function, not his. 'I can read it,' I said.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Fembris",
-    "fact": "Fembris is the minder assigned to prevent armed strangers from helping themselves to the library's contents; he left his post to attend Grygum\u2019s theological debate, creating an hour of unsupervised access.",
-    "source_quote": "Fembris asked to leave... wanted to attend a debate... Grygum's debate... Bookwyrm herself unable to politically afford to miss it.",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Oval Theater",
-    "fact": "The Oval Theater is the venue for Grygum\u2019s theological debate, attended by half the avowed and Bookwyrm herself, and its significance lies in the distraction it caused.",
-    "source_quote": "a disputation in the Oval Theater on his new theology, with half the avowed already in attendance and Bookwyrm herself unable to politically afford to miss it.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "unsupervised access window",
-    "fact": "Fembris\u2019s departure created an hour without supervision \u2014 a critical gap in security that may have enabled the theft or tampering.",
-    "source_quote": "his departure handed us an hour without supervision and to say nothing of the kind out loud.",
+    "fact": "Fembris is the avowed minder assigned to prevent the four strangers from accessing the library's contents, who left his post to attend Grygum's theological debate, inadvertently granting the investigators an hour of unsupervised time.",
+    "source_quote": "Fembris asked to leave. Our minder, the avowed assigned to ensure four armed strangers didn't help themselves to the contents of the world's most dangerous library, wanted to attend a debate.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Zalthir",
-    "fact": "Zalthir is the investigator who correctly suspected the key needed magical scrutiny, and who understood that a divining touch could reveal its origin \u2014 but the key was clean.",
-    "source_quote": "Zalthir wanted it checked for ongoing magic, and that is my function, not his. 'I can read it,' I said.",
-    "quote_verified": false
+    "subject": "Grygum",
+    "fact": "Grygum is the orc theologian whose new theology is the subject of a major debate in the Oval Theater, drawing half the avowed and forcing Bookwyrm to attend despite political risk.",
+    "source_quote": "Grygum's debate, as it turned out \u2014 a disputation in the Oval Theater on his new theology, with half the avowed already in attendance and Bookwyrm herself unable to politically afford to miss it.",
+    "quote_verified": true
   },
   {
-    "type": "thread",
-    "subject": "the missing connection: who hides a key, and why",
-    "fact": "A pattern existed between the stolen key, the murdered man, and the sapphire gem \u2014 a connection a Menzoberranzan child should have closed on reflex \u2014 but it refused to resolve, leaving a gap in the account.",
-    "source_quote": "There was a connection sitting in the gem and the stolen key and the murdered man... I reached for it and came up with nothing.",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "the reframe that didn't take",
-    "fact": "The realization that the summoning magic was on a different key failed to fully reframe the investigation \u2014 and that failure was the tell.",
-    "source_quote": "The reframe didn't quite take. That was the tell.",
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm is a high authority in the library who could not politically afford to miss Grygum\u2019s debate, indicating her influence and the political weight of the theological conflict.",
+    "source_quote": "Bookwyrm herself unable to politically afford to miss it.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Glabbagool",
-    "fact": "Glabbagool is an entity of ooze who tried to assist in resolving the pattern, but his attempt failed, and he sank back into himself dolefully.",
+    "fact": "Glabbagool is the oozing entity who attempted to assist Daz in resolving the hidden connection between the gem, the key, and the murdered man, but failed, sinking back into himself in disappointment.",
     "source_quote": "Glabbagool tried to help, an eye surfacing through the ooze, hopeful, and I came up emptier still, and the eye sank back down, dolefully, into the rest of him.",
     "quote_verified": true
   },
   {
+    "type": "faction",
+    "subject": "the Avowed",
+    "fact": "The Avowed are the organized guardians of the library, tasked with preventing unauthorized access by strangers, and are sufficiently numerous and politically engaged to have members attending Grygum\u2019s debate.",
+    "source_quote": "the avowed assigned to ensure four armed strangers didn't help themselves to the contents of the world's most dangerous library... half the avowed already in attendance.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "the divining of the key",
+    "fact": "Daz performed a divining spell on the key, confirming it was clean \u2014 not bound to the summoning spell, not created by it, and carrying no enchantment \u2014 which shifted the investigation to the sapphire gem as the true anchor of the magic.",
+    "source_quote": "The key was clean. Not linked to that spell, not created by it, carrying no quiet enchantment under the surface.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "the theft of the original key",
+    "fact": "The original key used in the summoning spell was stolen, forcing the perpetrator to cast a duplicate into the sapphire gem as a backup \u2014 a move that reveals the killer anticipated being tracked.",
+    "source_quote": "The summoning had been worked on a *different* key.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "the Oak Tree Apothecary",
+    "fact": "The Oak Tree Apothecary is a treehouse grown into the roots of an evergreen oak, located between the Sea Warden's Tower and the House of Mechanus, where Leuwin is expected to identify the poison.",
+    "source_quote": "The Oak Tree Apothecary, he said, between the Sea Warden's Tower and the House of Mechanus, a treehouse grown into the roots of an evergreen oak.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "the Oval Theater",
+    "fact": "The Oval Theater is the venue for Grygum\u2019s theological debate, a site of high political and religious significance where Bookwyrm and half the Avowed were compelled to attend.",
+    "source_quote": "a disputation in the Oval Theater on his new theology, with half the avowed already in attendance and Bookwyrm herself unable to politically afford to miss it.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "the sapphire gem",
+    "fact": "The sapphire gem is not mere decoration \u2014 it is the retrieval token for the summoning spell, functioning as a backup against theft of the original key, and must be the same gem used to both store and recall the object.",
+    "source_quote": "The sapphire isn't decoration: it's the retrieval token, and it has to be the *same* sapphire both to store and to recall.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "the stolen key",
+    "fact": "The stolen key was the original conduit for the summoning spell, but it was replaced by a duplicate cast into the sapphire gem \u2014 indicating the killer planned for its loss.",
+    "source_quote": "The summoning had been worked on a *different* key.",
+    "quote_verified": true
+  },
+  {
     "type": "thread",
-    "subject": "gap in the account",
-    "fact": "The investigator refuses to call the unresolved pattern a failure \u2014 instead, it is recorded as a gap in the account, an omission to be filled.",
-    "source_quote": "I will not call that a failure. I will call it a gap in the account.",
+    "subject": "the unresolved connection between gem, key, and victim",
+    "fact": "Daz sensed a pattern linking the stolen key, the sapphire gem, and the murdered man \u2014 a connection a Menzoberranzan child should have recognized \u2014 but could not resolve, leaving a critical gap in the investigation.",
+    "source_quote": "There was a connection sitting in the gem and the stolen key and the murdered man... I reached for it and came up with nothing.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Deadwinter's Eve",
+    "fact": "Deadwinter's Eve is the date when Daral left the book under the evergreen tree around 11am, prior to his meeting at the keeper's Tower \u2014 a pivotal moment in the timeline of the book\u2019s tampering.",
+    "source_quote": "He'd dropped the book under the evergreen tree, next to the other gifts, around 11am on Deadwinter's Eve...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the identity of the murderer",
+    "fact": "The central unresolved thread is whether Daral is the killer \u2014 a possibility repeatedly pressed by Thorin and Daz, based on his inconsistent timeline and the fact that he never handed the book to anyone.",
+    "source_quote": "Or, the dude we're talking to is the killer.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the nature of the summoning spell",
+    "fact": "The summoning spell\u2019s true mechanism \u2014 using a duplicate cast into the sapphire gem while the original key was stolen \u2014 reveals a sophisticated, premeditated method of concealment, suggesting the killer had arcane knowledge and foresight.",
+    "source_quote": "Tidy. I'd have done the same.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Fembris's departure",
+    "fact": "Fembris\u2019s decision to leave his post granted the investigators an hour of unsupervised access to the library \u2014 a critical window that may have enabled further evidence gathering or tampering.",
+    "source_quote": "I did the only sensible thing, which was to note that his departure handed us an hour without supervision and to say nothing of the kind out loud.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the missing original key's location",
+    "fact": "The original key used in the summoning spell has not been recovered \u2014 its whereabouts remain unknown, and its theft is the key to understanding the killer\u2019s method and motive.",
+    "source_quote": "The summoning had been worked on a *different* key.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Daral",
-    "fact": "Daral is a scared man trying to clear his name, convinced he's being framed for murder, and believes proving his innocence requires surviving the night.",
-    "source_quote": "He kept saying it \u2014 if he made it through the night, hint, hint, he'd see to it everyone wrapped their gifts right.",
+    "fact": "Daral is trying to clear his name after being accused of murder; he believes he is being framed and fears for his life, repeatedly stating that if he survives the night, he will ensure everyone wraps their gifts properly with biting wards.",
+    "source_quote": "if he made it through the night, hint, hint, he'd see to it everyone wrapped their gifts right. Wards on every wrapping, the kind that bite the careless, for everyone.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Daz",
-    "fact": "Daz is a drow who once understood magical sigils but now struggles to interpret them, and has shifted focus to physical evidence like discoloration on the corpse.",
-    "source_quote": "Daz said look for black \u2014 black dots, black splashes, the way it went dark on the dead man's mouth.",
-    "quote_verified": true
+    "fact": "Daz is a drow who has forgotten what matters and remembers what doesn't; he is unable to interpret the sapphire or key despite his expertise in magical artifacts, and he insists the poison only activates upon contact with living tissue.",
+    "source_quote": "What I can read off it at a glance is next to nothing... staring harder got me less... Why did it turn dark, but it's not dark on the book? Because it goes black after you die.",
+    "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Zalthir",
-    "fact": "Zalthir is methodical, observant, and skeptical of easy assumptions; he prioritizes the killer over the thief and distrusts the reliability of physical clues without context.",
-    "source_quote": "Zalthir didn't think we'd find the key \u2014 too easy to hide.",
+    "fact": "Zalthir is the stealthiest member of the group; he is skeptical of finding the key due to its ease of concealment but believes the sapphire might still be in someone's possession because it appears innocuous, and he is focused on identifying the killer, not the thief.",
+    "source_quote": "Zalthir didn't think we'd find the key \u2014 too easy to hide. The sapphire, though, somebody might still be holding because it looked like nothing.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Glabbagool",
-    "fact": "Glabbagool claims to have learned silence and attempted to grow a nose to smell poison, indicating a desire to adapt to investigative tasks despite his unnatural nature.",
+    "fact": "Glabbagool claims to have learned silence and is attempting to grow a nose to smell the poison, showing unusual interest in sensory detection despite his ambiguous nature.",
     "source_quote": "Glabbagool announced it had learned silence, then asked whether that was good silence or too loud silence, and tried to grow a nose to smell the poison.",
     "quote_verified": true
   },
   {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is capable of communicating with beasts; he believes a squirrel in the apothecary may have witnessed something relevant to the investigation.",
+    "source_quote": "Daz to the apothecary \u2014 turned out he could talk to the beasts, and there was a squirrel down there might've seen something.",
+    "quote_verified": false
+  },
+  {
     "type": "faction",
-    "subject": "Candlekeep Scholars",
-    "fact": "Candlekeep's scholars are a highly educated but insular group, all present at the conference, and none are offering external aid despite their expertise.",
-    "source_quote": "The thing about Candlekeep was that it was full of the most learned people on the surface, and every one of them was at the conference.",
+    "subject": "Candlekeep Faculty",
+    "fact": "The faculty of Candlekeep are all present at the conference; they are deeply entrenched in academic rivalries, where conflicts are vicious because the stakes are perceived as low, and they are the only potential sources of help in the investigation.",
+    "source_quote": "everybody hated everybody, it's academia. You know what they say. Fights are so vicious because the stakes are so low.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "murder of the scholar",
-    "fact": "A scholar was killed under mysterious circumstances, with signs of poison activation upon contact with living tissue, and the murder weapon likely being a clear, inert vial.",
-    "source_quote": "The poison sitting in somebody's room right now wouldn't be black at all. It'd be clear.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "the sapphire",
-    "fact": "The sapphire is a small, clear gemstone believed to be a key component in retrieving a hidden object, and it is not inherently dangerous unless used in conjunction with another mechanism.",
-    "source_quote": "And we're proposing that the sapphire is actually used to sort of be able to retrieve the key.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "the key",
-    "fact": "The key is a small, concealed object, possibly stored within a locket, that unlocks something vital \u2014 and its theft may be unrelated to the murder.",
-    "source_quote": "Some locket from around the dude's neck was taken. We assume that inside that locket was the key.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "the poison vial",
-    "fact": "The poison is stored in a clear, unremarkable vial and remains inert until activated by contact with a living being's saliva or bodily fluids.",
-    "source_quote": "A vial of some sort of clear.",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "the squirrel",
-    "fact": "A squirrel in the apothecary may have witnessed something relevant to the crime, and its potential as an observer was taken seriously by Daz despite its non-human nature.",
-    "source_quote": "Turned out he could talk to the beasts, and there was a squirrel down there might've seen something.",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "who killed the scholar?",
-    "fact": "The identity of the killer remains unknown, and the investigation prioritizes finding the murderer over recovering stolen items, as the murder is the only crime for which payment is owed.",
-    "source_quote": "And our priority is to find the killer, not who stole the key. Nobody asked us to find the person who stole the key.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "why the poison turned black",
-    "fact": "The poison\u2019s discoloration upon contact with the victim\u2019s saliva is a critical clue, but its mechanism is misunderstood \u2014 it activates only upon living contact, not upon death.",
-    "source_quote": "Because it goes black after you die.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "motive among scholars",
-    "fact": "Motive is abundant among the scholars due to intense academic rivalries, where low-stakes disputes are fought with lethal intensity.",
-    "source_quote": "Everybody hated everybody, it's academia. You know what they say. Fights are so vicious because the stakes are so low.",
+    "subject": "poison activation",
+    "fact": "The poison only activates upon contact with a living being's saliva; it remains clear and inert when stored, turning black only after death, which means a search for black residue would fail to locate it.",
+    "source_quote": "The poison sitting in somebody's room right now wouldn't be black at all. It'd be clear... When I mixed with his saliva, it turned black, okay?",
     "quote_verified": false
   },
   {
     "type": "location",
     "subject": "Candlekeep",
-    "fact": "Candlekeep is an ancient library-fortress whose air feels alien to those who have spent long periods in enclosed spaces, and whose scholarly inhabitants are present but unhelpful.",
-    "source_quote": "The air in Candlekeep still smelled wrong to me. Not bad \u2014 paper, lamp oil, old stone warmed by sun I had not seen in months \u2014 just wrong.",
+    "fact": "Candlekeep is an ancient, book-filled archive where the air smells of paper, lamp oil, and old stone; it is currently filled with the faculty of the most learned people on the surface, all gathered for the conference, making it both the scene of the crime and the only source of potential witnesses.",
+    "source_quote": "The air in Candlekeep still smelled wrong to me. Not bad \u2014 paper, lamp oil, old stone warmed by sun I had not seen in months \u2014 just wrong...",
     "quote_verified": false
   },
   {
-    "type": "location",
-    "subject": "the kitchen",
-    "fact": "The kitchen is a secondary investigative site where witnesses may have seen someone tampering with the book or package before the murder.",
-    "source_quote": "Anybody who saw somebody messing with the book. That's it.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "the apothecary",
-    "fact": "The apothecary is a place where Daz communicates with animals, and where the squirrel \u2014 a potential witness \u2014 resides.",
-    "source_quote": "Daz to the apothecary \u2014 turned out he could talk to the beasts.",
+    "type": "object",
+    "subject": "sapphire",
+    "fact": "The sapphire is a small, unassuming gemstone taken from the safe; it is believed to be a key component in retrieving the hidden key, and its innocuous appearance makes it a likely object for someone to retain without suspicion.",
+    "source_quote": "from the safe, a sapphire was taken... the sapphire is actually used to sort of be able to retrieve the key. Crush the stone, the key comes home.",
     "quote_verified": false
   },
   {
-    "type": "location",
-    "subject": "the rooms",
-    "fact": "The scholars' rooms are the primary location for searching physical evidence, including the sapphire, the key, or the poison vial.",
-    "source_quote": "Zalthir to the rooms, stealthiest of us, low bar as that is.",
-    "quote_verified": true
-  },
-  {
-    "type": "date",
-    "subject": "the investigation day",
-    "fact": "The events of the investigation occur within a single day, with no passage of time indicated between actions, suggesting urgency and compressed timeline.",
-    "source_quote": "We had a little room... Alright, so what are we looking for in the kitchen again?",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "poison activation",
-    "fact": "The poison was activated when the victim's saliva came into contact with it, causing immediate discoloration and death \u2014 a mechanism that makes the poison inert in storage.",
-    "source_quote": "When I mixed with his saliva, it turned black, okay?",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "two thieves or one?",
-    "fact": "It is possible that the theft of the key and the theft of the sapphire were committed by different individuals, and neither may be the killer.",
-    "source_quote": "Could be two people. Could be a whole faculty of them.",
+    "type": "object",
+    "subject": "key",
+    "fact": "The key is a hidden artifact, possibly stored within a locket taken from the victim\u2019s neck; it is believed to unlock something critical, but it is easily concealed and unlikely to be found through a room search.",
+    "source_quote": "Some locket from around the dude's neck was taken. We assume that inside that locket was the key.",
     "quote_verified": true
   },
   {
     "type": "object",
-    "subject": "the book",
-    "fact": "The book is a central object of interest, possibly containing the spell or mechanism tied to the key and poison, and tampering with it may have triggered the murder.",
-    "source_quote": "Anybody who saw somebody messing with the book.",
+    "subject": "poison vial",
+    "fact": "The poison is stored in a clear, unmarked vial; it remains inert and invisible until activated by contact with a living being\u2019s saliva, making it nearly impossible to detect unless one knows to look for clear liquid rather than discoloration.",
+    "source_quote": "A vial of some sort of clear... The poison sitting in somebody's room right now wouldn't be black at all. It'd be clear.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "identity of the killer",
+    "fact": "The true killer has not been identified; the group is aware that the thief of the key and the killer may be two different people, and the investigation must prioritize finding the murderer over recovering the stolen artifacts.",
+    "source_quote": "And our priority is to find the killer, not who stole the key. Nobody asked us to find the person who stole the key.",
     "quote_verified": true
   },
   {
-    "type": "npc",
-    "subject": "the squirrel",
-    "fact": "The squirrel is a non-human witness potentially present during the crime, and its observations are considered credible by Daz despite its species.",
-    "source_quote": "There was a squirrel down there might've seen something, which is a sentence I never thought I'd take seriously.",
+    "type": "thread",
+    "subject": "squirrel witness",
+    "fact": "A squirrel in the apothecary may have witnessed the theft or poisoning; its potential testimony is unverified but considered a plausible lead due to Daz\u2019s ability to communicate with beasts.",
+    "source_quote": "there was a squirrel down there might've seen something, which is a sentence I never thought I'd take seriously.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "The investigation is occurring within a narrow window \u2014 a single hour \u2014 during which the group must divide labor and act before the opportunity passes.",
+    "source_quote": "Alright, so it looks like we get a freebie hour... I wasn't spending the hour chasing keys.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "poison",
+    "fact": "The poison is a magical hazard that lies dormant until activated by contact with a living being's saliva, then rapidly turns black and causes death; it is not a creature but a lethal substance with behavior resembling a trap or curse.",
+    "source_quote": "The stuff only wakes up when a living thing touches it... it turned black... because it goes black after you die.",
     "quote_verified": false
   },
   {
     "type": "npc",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool is an ooze entity that persistently attempts to be useful, even after repeated rejection, and has survived the Blingdenstone crisis, the ooze crisis, and confinement within a bag of holding.",
-    "source_quote": "From the bag, Glabbagool offered himself for the sneaking. *I have learned silence,* he said.",
+    "subject": "Thorin",
+    "fact": "Thorin is the group's organizer; he prefers clear divisions of labor, insists the priority is finding the killer over recovering stolen items, and coordinates the team\u2019s search efforts, particularly assigning himself to accompany Daral back to the kitchen.",
+    "source_quote": "I like it that way... And me with Daral, back to the kitchen.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is observing and analyzing the double-strike murder of Janussi and the framing of Daral, identifying A'lai Aivenmore as the prime suspect motivated by ideology and ambition to seize the keep.",
+    "source_quote": "A drama queen. He knew it; he said it about himself, which is its own kind of telling. I filed the name. A'lai. Ideology and ambition both \u2014 a man who kills for the chair and the idea at once.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Daral",
-    "fact": "Daral is a poet and fiction enthusiast whose love of art and narrative is perceived as a threat by A'lai Aivenmore, who seeks to frame him and eliminate him from the council to secure his own ascension.",
-    "source_quote": "A'lai Aivenmore. The one who wanted the keep. The one about to be dismissed. The one who saw Daral's love of poetry, his love of fiction, as a threat to his approach to the universe.",
+    "fact": "Daral is the intended target of a framing scheme, suspected of being manipulated into a position where his love of poetry and fiction is seen as a threat by A'lai Aivenmore.",
+    "source_quote": "Daral arrived at the name like a man arriving at the last line of a poem he'd written. A'lai Aivenmore. The one who wanted the keep. The one about to be dismissed. The one who saw Daral's love of poetry, his love of fiction, as a threat to his approach to the universe.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "A'lai Aivenmore",
-    "fact": "A'lai Aivenmore is a power-seeking council member who orchestrated a double stroke \u2014 framing Daral and killing Janussi \u2014 to remove two obstacles and clear his path to leadership, motivated by ideology and ambition.",
+    "fact": "A'lai Aivenmore is the suspected mastermind behind the murder of Janussi and the framing of Daral, seeking to eliminate rivals and ascend to power by exploiting symbolic and psychological tactics.",
     "source_quote": "Clear the deck of Janussi. Clear the wood of me. No one left on the council able to prevent his ascension.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Janussi",
-    "fact": "Janussi was poisoned by a book given to him by Daral, making him the first casualty in a calculated scheme to frame Daral and destabilize the council.",
+    "fact": "Janussi was poisoned by a book given to him by Daral, making him the first casualty in a two-part scheme designed to discredit and remove Daral from the council.",
     "source_quote": "Janussi was dead. Poisoned by a book Daral had given him.",
     "quote_verified": true
   },
   {
     "type": "faction",
-    "subject": "The Garden Shadow",
-    "fact": "The Garden Shadow is a philosophical or ideological group whose saying \u2014 possibly attributed to Brother Tervin \u2014 holds that the most dangerous person in a room is not the one with the blade drawn, but the one who has already decided they've won.",
-    "source_quote": "The Garden Shadow had a saying \u2014 or maybe it was Brother Tervin, the tall one who always smelled of incense, I genuinely don't remember, I wasn't listening \u2014 that the most dangerous person in a room isn't the one with the blade drawn. It's the one who has already decided they've won.",
+    "subject": "The Council",
+    "fact": "The Council is a governing body in which Daral and Janussi held influence, and whose balance is now threatened by A'lai Aivenmore\u2019s calculated elimination of key members.",
+    "source_quote": "No one left on the council able to prevent his ascension.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "double stroke",
-    "fact": "A single act of poison was used to kill Janussi and frame Daral, achieving two strategic outcomes \u2014 eliminating a rival and discrediting a threat \u2014 demonstrating premeditated design by A'lai Aivenmore.",
+    "subject": "double-strike murder",
+    "fact": "A single act of poison was used to kill Janussi and frame Daral, indicating a premeditated strategy to remove two political obstacles with one move.",
     "source_quote": "A killer who buys two outcomes with one cup of poison is a killer who has already drawn the board and decided where every piece lands.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "Milil chalice revelation",
-    "fact": "The lead-lined chalice in the statue of Milil in the southern dining hall is suspected of having been used to conceal or block magical detection, potentially hiding evidence related to the poisoning.",
-    "source_quote": "The Milil chalice is lead-lined. ... Wouldn't lead choke off the magic that hunts down a hidden thing, the same way it blinds a scrying?",
-    "quote_verified": false
-  },
-  {
     "type": "location",
     "subject": "Southern Dining Hall",
-    "fact": "The southern dining hall retains the scent of cold porridge and tallow, contains a statue of Milil with a lead-lined brass chalice, and is where Daral made the critical realization about the chalice's possible role in concealing magical interference.",
-    "source_quote": "The dining hall still smelled like breakfast. ... Milil stood in an alcove off to one side, the god of bards: open hands, a brass chalice resting in them like an offering nobody had come to collect.",
+    "fact": "The Southern Dining Hall contains a lead-lined brass chalice statue of Milil, which Daral recalls was used during the Midsummer Wine ceremony and may have concealed magical interference.",
+    "source_quote": "We used it for the Midsummer Wine!... The Milil chalice is lead-lined.",
     "quote_verified": false
   },
   {
     "type": "object",
-    "subject": "Milil chalice",
-    "fact": "The brass chalice held by the statue of Milil is lead-lined, making it capable of blocking scrying magic and potentially concealing hidden substances or enchantments used in the poisoning plot.",
-    "source_quote": "The Milil chalice is lead-lined. ... Perhaps somebody hid something in it.",
+    "subject": "Milil's lead-lined chalice",
+    "fact": "The brass chalice held by the statue of Milil is lead-lined, potentially capable of blocking scrying magic and concealing hidden substances or enchantments.",
+    "source_quote": "Lead-lined. That's not nothing. Wouldn't lead choke off the magic that hunts down a hidden thing, the same way it blinds a scrying?",
     "quote_verified": false
   },
   {
     "type": "object",
-    "subject": "Poisoned book",
-    "fact": "The book given to Janussi by Daral was laced with poison, used as a false flag to implicate Daral in the murder while masking the true orchestrator's identity.",
+    "subject": "the poisoned book",
+    "fact": "The book given to Janussi by Daral was the vehicle of the poison, chosen for its symbolic and psychological impact to implicate Daral in the murder.",
     "source_quote": "Poisoned by a book Daral had given him.",
     "quote_verified": true
   },
   {
     "type": "monster",
     "subject": "Glabbagool",
-    "fact": "Glabbagool is a sentient ooze that exhibits persistent, almost desperate attempts to adapt \u2014 growing an eye, attempting silence, trying to grow a nose \u2014 despite lacking physical organs and being repeatedly dismissed.",
-    "source_quote": "The eye rose again, eager. He'd try. He always tries.",
+    "fact": "Glabbagool is an intelligent ooze with a persistent, hopeful nature, constantly attempting to assist others despite repeated failure, and recently offered to grow a nose to detect poison.",
+    "source_quote": "*I have learned silence,* he said. ... The eye rose again, eager. He'd try. He always tries.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "hidden magic in the chalice",
+    "fact": "The lead-lined chalice of Milil may have been used to conceal a magical substance or enchantment during the Midsummer Wine ceremony, and its purpose remains unverified.",
+    "source_quote": "Perhaps somebody hid something in it.",
     "quote_verified": true
   },
   {
     "type": "thread",
-    "subject": "who framed Daral and why",
-    "fact": "The central unresolved thread is not just who killed Janussi, but who deliberately framed Daral \u2014 and why \u2014 with the goal of removing both men from the council to enable A'lai Aivenmore's rise.",
-    "source_quote": "Who would want to frame you and kill \u2014 whatever the guy is? ... That was the question worth holding. Not the death. The double stroke.",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "hidden contents of the Milil chalice",
-    "fact": "The lead-lined chalice may contain concealed evidence \u2014 perhaps a substance, spell, or message \u2014 that was hidden to evade magical detection, and remains unexamined.",
-    "source_quote": "How could I have not thought about this? ... Trust statues. They come alive.",
-    "quote_verified": false
+    "subject": "Glabbagool's sensory evolution",
+    "fact": "Glabbagool is attempting to develop new physical capabilities \u2014 including a nose \u2014 to enhance his utility, raising the question of whether sentient oozes can biologically adapt beyond their original form.",
+    "source_quote": "I doubt this is gonna work,\" I said, \"but can Glabbagool try to grow a nose and get a good smell of the poison?",
+    "quote_verified": true
   },
   {
     "type": "date",
     "subject": "forty minutes of theater",
-    "fact": "Forty minutes of performative drama, investigation, and false leads have passed since the initial discovery, necessitating a shift in focus toward the apothecary and suspect rooms.",
+    "fact": "Forty minutes of deliberation and roleplay preceded the decision to investigate the apothecary, indicating the pacing of the group\u2019s investigative process.",
     "source_quote": "Then the decision came, because forty minutes of theater is forty minutes, and you have to move.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is methodically analyzing the lead-lined chalice in the dining hall, recognizing its potential to obstruct magical detection and suspecting it may hold hidden evidence.",
+    "source_quote": "I clocked it and kept it.",
     "quote_verified": true
   },
   {
     "type": "location",
     "subject": "Apothecary",
-    "fact": "The apothecary is the next destination for investigation, where the nature of the poison used to kill Janussi may be analyzed and traced back to its source.",
+    "fact": "The apothecary is the next destination for investigation, where the nature of the poison used in Janussi\u2019s murder may be identified.",
     "source_quote": "It seems like at least one of us should check out the apothecary,\" I said. \"Learn more about the poison.",
     "quote_verified": true
   },
   {
-    "type": "location",
-    "subject": "Suspects' rooms",
-    "fact": "The rooms of the council members are the final investigative site, where physical evidence, correspondence, or hidden items related to the double stroke may be discovered.",
-    "source_quote": "Which left the suspects' rooms. ... You'll go search everybody's room.",
+    "type": "faction",
+    "subject": "The Garden Shadow",
+    "fact": "The Garden Shadow is a known philosophical or ideological group, referenced for the saying that the most dangerous person is the one who has already decided they've won.",
+    "source_quote": "The Garden Shadow had a saying \u2014 or maybe it was Brother Tervin... that the most dangerous person in a room isn't the one with the blade drawn. It's the one who has already decided they've won.",
     "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Thorin",
-    "fact": "Thorin is a methodical investigator who insists on holding evidence mentally until it 'sits right,' and is responsible for uncovering the significance of the Milil chalice in the southern dining hall.",
-    "source_quote": "Giants don't rush a thing into place. You hold it in the air until it sits right.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "Glabbagool's attempted nose",
-    "fact": "Glabbagool attempted to grow a nose to detect the poison\u2019s scent \u2014 a futile but telling act of adaptation \u2014 highlighting his persistent, instinctual drive to assist despite physical impossibility.",
-    "source_quote": "I doubt this is gonna work,\" I said, \"but can Glabbagool try to grow a nose and get a good smell of the poison?",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "the true nature of the poison",
-    "fact": "The origin, composition, and delivery method of the poison used on Janussi remain unknown, and its connection to the Milil chalice or the apothecary is yet to be determined.",
-    "source_quote": "Learn more about the poison.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Kitchen",
-    "fact": "The kitchen is being investigated by Thorin to determine who handled the poisoned book, potentially revealing the chain of access before Janussi consumed it.",
-    "source_quote": "Thorin would take the kitchen, walk Daral through, ask who touched the book.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Daz",
-    "fact": "Daz is a pragmatic investigator who communicates with Glabbagool, attempts to extract information from the ooze, and is willing to pursue unconventional methods despite their low probability of success.",
-    "source_quote": "Whatever the ooze gave him, it wasn't enough. The eye sank back into the body. Dolefully.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "A'lai's ascension plot",
-    "fact": "A'lai Aivenmore engineered a political purge by eliminating Janussi and framing Daral to remove two dissenting voices, ensuring his uncontested rise to power within the council.",
-    "source_quote": "Clear the deck of Janussi. Clear the wood of me. No one left on the council able to prevent his ascension.",
-    "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Irony",
-    "fact": "Irony is a junior avowed who compulsively tells the truth and resents jokes about her name. She served at the Deadwinter supper, was present during the gift-giving, and observed Alkrist\u2019s project pitch and Janussi\u2019s reaction.",
-    "source_quote": "I really hate it when people make that joke. I'm so sorry \u2014 this compulsive need to always tell the truth.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Orrin",
-    "fact": "Orrin is a junior avowed who served at the Deadwinter supper alongside Irony and Sprig. All food and drink was shared from communal platters and carafes; no one had an individual plate.",
-    "source_quote": "Served by three of them: her, Orrin, and Sprig. All of it brought out on big platters and passed around, shared, drinks poured from carafes.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Sprig",
-    "fact": "Sprig is a junior avowed who served at the Deadwinter supper and participated in the gift-giving. He did not always lie, contrary to a joke made about him, and was present during the entire evening.",
-    "source_quote": "Sprig doesn't always lie, so I apologized for that one too.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Alkrist",
-    "fact": "Alkrist was the only cheerful person at the Deadwinter supper. He pitched a project called *Tales of War by the Generals That Waged Them*, a collection of first-hand strategy from warlords, which Janussi praised and Teles dismissed.",
-    "source_quote": "Alkrist was cheerful, pitching a project: *Tales of War by the Generals That Waged Them*, first-hand strategy from warlords and commanders around the world.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Teles",
-    "fact": "Teles scoffed at Alkrist\u2019s project, comparing its likelihood of success to a Fheminor Scrivenbark program \u2014 an obscure or implausible initiative. He was present during the supper and expressed skepticism.",
-    "source_quote": "Teles scoffed the project sounded as likely to succeed as some Fheminor Scrivenbark program.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Janussi",
-    "fact": "Janussi praised Alkrist\u2019s project as knowledge that could benefit civilization. He took his gift unwrapped, thanked his secret donor, and excused himself, dropping the wrapping paper in a wicker basket by the door.",
-    "source_quote": "Janussi praised it the other way: 'the kind of knowledge that could benefit civilization.' He took his unwrapped, thanked his secret donor, and excused himself, dropping the wrapping paper in a wicker basket by the door on his way out.",
+    "fact": "Irony is a junior avowed who compulsively tells the truth and served food at the Deadwinter supper; she confirms the meal began at 5PM, involved shared platters, and notes Alkrist was unusually cheerful while pitching a book project.",
+    "source_quote": "At least I can tell you what happened at dinner.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Daral",
-    "fact": "Daral muttered under his breath during the keeper\u2019s call for solidarity: 'Oh, you've been right behind one of us all night.' He was present throughout the supper and later confirmed the chalice was lead-lined and used to hide Janussi\u2019s heart.",
-    "source_quote": "Daral muttered under his breath, 'Oh, you've been right behind one of us all night.'",
+    "fact": "Daral is a scholar who was present at the Deadwinter supper; he muttered under his breath, 'Oh, you've been right behind one of us all night,' implying suspicion of insider knowledge or surveillance.",
+    "source_quote": "Oh, you've been right behind one of us all night.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Alkrist",
+    "fact": "Alkrist is a cheerful attendee at the Deadwinter supper who promoted the book project 'Tales of War by the Generals That Waged Them,' which drew criticism from Teles and praise from Janussi.",
+    "source_quote": "the kind of knowledge that could benefit civilization.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi praised Alkrist\u2019s book project, excused himself after receiving his Secret Santa gift, and dropped the wrapping paper in a wicker basket by the door \u2014 later found to be the victim whose heart was stolen.",
+    "source_quote": "the kind of knowledge that could benefit civilization.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Sylvira Savikas",
-    "fact": "Sylvira Savikas stormed out of the supper before the gift-giving. Her departure preceded the Secret Santa exchange and the distribution of gifts by Kazryn Nyantani.",
-    "source_quote": "Then Sylvira Savikas stormed out, and Kazryn Nyantani took it on herself to hand out the gifts...",
+    "fact": "Sylvira Savikas stormed out of the Deadwinter supper before the gift-giving, creating a break in the timeline that may have allowed access to the chalice or the body.",
+    "source_quote": "Sylvira Savikas stormed out.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Kazryn Nyantani",
-    "fact": "Kazryn Nyantani distributed the Secret Santa gifts under the evergreen tree, giving each gift to the matching great reader. Janussi received his unwrapped and left the wrapping paper in a wicker basket.",
-    "source_quote": "Kazryn Nyantani took it on herself to hand out the gifts under the evergreen tree, gave each one to the matching great reader.",
+    "fact": "Kazryn Nyantani handed out Secret Santa gifts to the great readers after Sylvira left, matching each gift to its recipient \u2014 including Janussi\u2019s unwrapped gift, which he accepted before leaving.",
+    "source_quote": "Kazryn Nyantani took it on herself to hand out the gifts under the evergreen tree.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Teles",
+    "fact": "Teles dismissed Alkrist\u2019s book project as implausible, comparing it to a Fheminor Scrivenbark program \u2014 suggesting a personal or ideological bias against the project or its proponent.",
+    "source_quote": "scoffed the project sounded as likely to succeed as some Fheminor Scrivenbark program.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Orrin",
+    "fact": "Orrin is a junior avowed who served food at the Deadwinter supper alongside Irony and Sprig; all meals were shared from communal platters, with no individual plates.",
+    "source_quote": "Served by three of them: her, Orrin, and Sprig.",
     "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sprig",
+    "fact": "Sprig is a junior avowed who served food at the Deadwinter supper; Irony clarified that Sprig doesn\u2019t always lie, countering a joke about his honesty.",
+    "source_quote": "Sprig doesn't always lie.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Candlekeep Avowed",
+    "fact": "The junior avowed are Candlekeep\u2019s trainee scholars who served the Deadwinter supper; they operated under strict protocols of shared service and observed the tensions among the great readers, making them potential witnesses or suspects.",
+    "source_quote": "Three junior avowed lined up near the serving doors.",
+    "quote_verified": false
   },
   {
     "type": "event",
     "subject": "Deadwinter supper",
-    "fact": "The Deadwinter supper began at 5PM with twelve plates: beetroot soup, fried carp, smoked mackerel, fruit compots, spiced wines and ales, honey, vodka, and green tea. All items were shared from communal platters and carafes; no individual plates were used.",
-    "source_quote": "The Deadwinter supper began at the 5PM bell. Twelve plates: beetroot soup, fried carp, smoked mackerel. Fruit compots, spiced wines and ales, honey, vodka, green tea. Served by three of them: her, Orrin, and Sprig. All of it brought out on big platters and passed around, shared, drinks poured from carafes.",
+    "fact": "The Deadwinter supper began at 5PM, featured twelve shared dishes, and included a Secret Santa gift exchange; Janussi left early after receiving his gift, and Sylvira exited before the exchange.",
+    "source_quote": "The Deadwinter supper began at the 5PM bell.",
     "quote_verified": true
   },
   {
     "type": "event",
     "subject": "Secret Santa gift exchange",
-    "fact": "After Sylvira\u2019s exit, Kazryn Nyantani distributed wrapped gifts under the evergreen tree, matching each to a great reader. Janussi received his gift unwrapped and left the wrapping paper in a wicker basket by the door.",
-    "source_quote": "Kazryn Nyantani took it on herself to hand out the gifts under the evergreen tree, gave each one to the matching great reader. Janussi took his unwrapped... dropping the wrapping paper in a wicker basket by the door on his way out.",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "Janussi's heart and cleaver",
-    "fact": "Janussi\u2019s heart was removed and placed in a lead-lined chalice alongside a blood-stained meat cleaver. The act was deliberate, meant to prevent resurrection and conceal the body part from far-seeing magic. The cleaver suggests a violent, premeditated act.",
-    "source_quote": "Janussi's heart,\" Daral said. \"Because they stole his heart. They didn't want anybody to be able to bring him back and ask him what happened.\" \"A heart. And a blood-stained meat cleaver.",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "lead-lined chalice",
-    "fact": "The chalice used to conceal Janussi\u2019s heart was lead-lined \u2014 a known safeguard against magical detection. Only someone familiar with Candlekeep\u2019s magical hoard would have chosen it. The person who handled it late, after the meal, is a key witness.",
-    "source_quote": "Whoever did this knew the chalice was lead-lined. Knew it would hide a body part from every far-seeing working the keep could throw at it... Somebody handling that cup late, after the meal, when they had no reason to, that's a witness and a window.",
+    "fact": "Kazryn Nyantani distributed wrapped gifts to the great readers after Sylvira left; Janussi received his unwrapped, thanked his donor, and dropped the wrapping paper in a wicker basket before exiting.",
+    "source_quote": "Janussi took his unwrapped, thanked his secret donor, and excused himself, dropping the wrapping paper in a wicker basket by the door.",
     "quote_verified": false
   },
   {
     "type": "thread",
     "subject": "inside job",
-    "fact": "The murder was planned by someone inside Candlekeep who knew its magical defenses, the chalice\u2019s properties, and the timing of the gift exchange. The fact that the chalice was handled after the meal, and that the heart was removed before Janussi left, confirms an insider.",
-    "source_quote": "This is further confirmation it's an inside job.\" \"It's somebody who knew the ins and outs of the keep, for sure.",
-    "quote_verified": false
+    "fact": "The theft of Janussi\u2019s heart and the use of the lead-lined chalice indicate an inside job \u2014 someone with intimate knowledge of Candlekeep\u2019s magic defenses and the chalice\u2019s properties.",
+    "source_quote": "That's not some random person off the road.",
+    "quote_verified": true
   },
   {
     "type": "thread",
-    "subject": "wrapping paper in wicker basket",
-    "fact": "Janussi dropped his gift\u2019s wrapping paper in a wicker basket by the door as he left \u2014 a physical trace that may contain clues about who gave him the gift, or whether it was tampered with before or after he received it.",
-    "source_quote": "Janussi took his unwrapped, thanked his secret donor, and excused himself, dropping the wrapping paper in a wicker basket by the door on his way out.",
+    "subject": "chalice access window",
+    "fact": "The lead-lined chalice was likely handled after the meal by someone with no legitimate reason to do so \u2014 creating a critical window for the theft and a potential witness.",
+    "source_quote": "Somebody handled it later in the evening.",
     "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "alibi gap",
+    "fact": "Sylvira Savikas\u2019s abrupt exit and Janussi\u2019s early departure created a gap in the timeline where access to the chalice and the body could have occurred without observation.",
+    "source_quote": "Sylvira Savikas stormed out... Janussi... excused himself.",
+    "quote_verified": false
   },
   {
     "type": "location",
     "subject": "Southern Dining Hall",
-    "fact": "The Southern Dining Hall was the site of the Deadwinter supper and the Secret Santa gift exchange. It has serving doors, an evergreen tree for gift-giving, and a wicker basket by the door where wrapping paper was discarded.",
-    "source_quote": "Three junior avowed lined up near the serving doors... under the evergreen tree... dropping the wrapping paper in a wicker basket by the door.",
+    "fact": "The Southern Dining Hall is where the Deadwinter supper was held, the chalice was stored, and Janussi\u2019s heart was later found; the alcove and wicker basket near the door are key evidence locations.",
+    "source_quote": "He started toward the alcove... dropping the wrapping paper in a wicker basket by the door.",
     "quote_verified": false
   },
   {
     "type": "object",
     "subject": "lead-lined chalice",
-    "fact": "A brass chalice lined with lead, used to conceal Janussi\u2019s heart from magical detection. It was handled during or after the meal, and its use indicates intimate knowledge of Candlekeep\u2019s magical defenses.",
-    "source_quote": "The chalice was lead-lined... to hide a body part from every far-seeing working the keep could throw at it.",
+    "fact": "The lead-lined chalice was used to conceal Janussi\u2019s heart from far-seeing magic; it was handled during and after the meal, making it the central object in the murder plot.",
+    "source_quote": "the chalice was lead-lined... would hide a body part from every far-seeing working.",
     "quote_verified": false
   },
   {
     "type": "object",
-    "subject": "blood-stained meat cleaver",
-    "fact": "A heavy, brutal tool found alongside Janussi\u2019s heart in the chalice. Its presence suggests the heart was forcibly removed, likely with violence, and the cleaver may be the murder weapon or a symbolic object.",
-    "source_quote": "A heart. And a blood-stained meat cleaver.\" \"The cleaver bothered me more than the heart, honestly.",
-    "quote_verified": false
+    "subject": "heart and meat cleaver",
+    "fact": "Janussi\u2019s heart and a blood-stained meat cleaver were found inside the chalice \u2014 a deliberate, ritualistic display meant to prevent resurrection and intimidate observers.",
+    "source_quote": "A heart. And a blood-stained meat cleaver.",
+    "quote_verified": true
   },
   {
     "type": "date",
-    "subject": "Deadwinter supper",
-    "fact": "The Deadwinter supper occurred at 5PM on the night of Janussi\u2019s murder, preceding his departure and the Secret Santa gift exchange.",
+    "subject": "Deadwinter night",
+    "fact": "The murder occurred on the night of the Deadwinter supper, a formal Candlekeep event held annually \u2014 a time of ritual, gift-giving, and heightened social tension.",
     "source_quote": "The Deadwinter supper began at the 5PM bell.",
     "quote_verified": true
   },
   {
-    "type": "faction",
-    "subject": "junior avowed",
-    "fact": "The junior avowed are trainees or lower-ranking members of Candlekeep\u2019s scholarly order. Irony, Orrin, and Sprig served at the supper, indicating their role in ceremonial duties and proximity to the victim.",
-    "source_quote": "Three junior avowed lined up near the serving doors... served by three of them: her, Orrin, and Sprig.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Sprig",
-    "fact": "Sprig is the designated poison taster who volunteered to sample all twelve dishes served at the meal, despite the chefs insisting it was unnecessary. She later helped Sylvira Savikas find honey after Sylvira became hoarse and could not speak. Sprig is unaware that Janussi was poisoned.",
-    "source_quote": "She insisted. The chefs told her it wasn't necessary. She insisted.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Sylvira Savikas",
-    "fact": "Sylvira Savikas, a tiefling, was seen searching the kitchens by candlelight at 1 a.m., pointing to her throat in silence when asked what she sought. Sprig assisted her in finding honey. Her inability to speak and use of a lantern contradict the assumption that she was merely ill \u2014 suggesting she was hiding something or being impersonated.",
-    "source_quote": "The tiefling just pointed at her throat, too hoarse to talk. Sprig helped her find a pot of honey and said goodnight.",
+    "type": "monster",
+    "subject": "resurrection-blocking ritual",
+    "fact": "The removal of Janussi\u2019s heart and placement of the cleaver in the chalice constitutes a resurrection-blocking ritual \u2014 a method to prevent magical revival and silence him permanently.",
+    "source_quote": "They didn't want anybody to be able to bring him back and ask him what happened.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Irony",
-    "fact": "Irony is a truth-bound individual who cannot lie but skillfully redirects inquiries. She steered the investigation toward Sprig and away from her own involvement with Teles Ahvoste. She has been the target of romantic advances from Teles, and may have deliberately avoided answering questions about him.",
-    "source_quote": "She steered us rather than speak false. Can't lie well is the honest version.",
+    "subject": "Sprig",
+    "fact": "Sprig volunteered to taste all twelve dishes served at the meal, insisting despite the chefs saying it was unnecessary; she is the designated poison taster and was present during the poisoning event; she helped Sylvira Savikas find honey after encountering her hoarse and silent at 1:00 a.m.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Janussi",
-    "fact": "Janussi was poisoned during the meal, but her death was not publicly known. As the poison taster, Sprig was meant to die first \u2014 making Janussi\u2019s death either a failure of the plan or evidence of deliberate misdirection. Her death is being treated as collateral damage, not the primary target.",
-    "source_quote": "If the only mark was Janussi, the taster's just collateral: she tastes the poisoned dish, she's dead at midnight too, and nobody ties the two deaths together.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Teles Ahvoste",
-    "fact": "Teles Ahvoste is one of the great readers who has been making romantic advances toward Irony. His behavior is noted by Orrin Glass and suspected as a motive for interference in the poisoning plot, possibly to remove Irony from the path of his pursuit.",
-    "source_quote": "Teles Ahvoste. One of the other great readers, making passes at Irony.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Orrin Glass",
-    "fact": "Orrin Glass is the third waiter, deaf in one ear, and unusually observant. He is the only one who noticed the dynamic between Irony and Teles Ahvoste. He is the key source for information about their interactions, despite his oddity.",
-    "source_quote": "I should go to Orrin, the man who notices everything, even if he hears nothing.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Daral",
-    "fact": "Daral is a well-meaning but fearful administrator who reacts emotionally to the investigation. He is terrified of Dawnbringer and lacks the cunning of a killer. He supports Sprig\u2019s initiative and is unaware of the poisoning, making him an unreliable source of hidden motives.",
-    "source_quote": "The man was scared out of his skin, kept eyeing Dawnbringer like he wanted to kiss the blade's feet and beg it off him.",
-    "quote_verified": true
-  },
-  {
-    "type": "faction",
-    "subject": "Candlekeep Avowed",
-    "fact": "The Candlekeep Avowed are a structured order where junior members like Sprig are often the subject of undue attention from senior figures like Teles Ahvoste. The culture permits romantic entanglements but discourages open discussion, leading to covert manipulation and misdirection.",
-    "source_quote": "These avowed, sometimes they're a little bit too interested in the junior avowed.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "poisoning at the meal",
-    "fact": "A poison was administered during a meal where Sprig, the poison taster, sampled all twelve dishes. Janussi was poisoned instead, suggesting the poisoner either misdirected the dose or intended for the taster to survive. The method exploited shared food, making targeted delivery difficult unless a server was complicit.",
-    "source_quote": "All the food was shared, so it'd be hard to target the delivery unless a server was in on it.",
+    "fact": "Janussi was the intended target of the poisoning; her death was meant to appear natural, with no connection drawn to the poison taster; she was not the poison taster but was poisoned during the same meal.",
     "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Sylvira's hoarseness and honey incident",
-    "fact": "Sylvira Savikas was found at 1 a.m. in the kitchens, unable to speak and using a lantern. She was given honey by Sprig. Her tiefling physiology makes the use of a lantern suspicious \u2014 tieflings do not need light. This suggests either she was impersonated or she was hiding evidence.",
-    "source_quote": "A tiefling doesn't need the light.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "the poisoned book",
-    "fact": "The primary method of assassination appears to be a tampered book, not the food. The book was likely unwrapped, poisoned, and rewrapped. The food poisoning was a decoy or misdirection. The killer chose the book because it allowed them to avoid killing the poison taster \u2014 suggesting the taster was meant to live.",
-    "source_quote": "Alkrist's point led to the book. There were a dozen ways to kill the man. They picked the book.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "the honey cover-up",
-    "fact": "The honey given to Sylvira may not have been an act of kindness, but a cover for her being discovered in the kitchens. The timing, her silence, and the lantern suggest she was searching for or planting something \u2014 and the honey was the distraction when Irony arrived.",
-    "source_quote": "The honey was the cover for when Irony walked in. I didn't say that last part out loud. I kept it.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "the wrapped book",
-    "fact": "The book was the weapon used to kill the target. It was unwrapped, poisoned, and rewrapped \u2014 likely by someone who had access to the gift pile beneath the non-Christmas Christmas tree. The wrapping paper was later found in Janussi's office.",
-    "source_quote": "Somebody could've unwrapped it and rewrapped it. I wanted to ask whether anybody'd seen a person messing with the pile under the \u2014 the non-Christmas Christmas Christmas tree.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "the lantern",
-    "fact": "Sylvira Savikas used a lantern while searching the kitchens at 1 a.m. This is physically impossible for a tiefling, whose night vision renders light unnecessary. The lantern is evidence of impersonation, deception, or an attempt to appear human.",
-    "source_quote": "A tiefling doesn't need the light.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "the pot of honey",
-    "fact": "The pot of honey given to Sylvira was likely not a gesture of care, but a deliberate misdirection. It served to explain her hoarseness and mask her true purpose in the kitchens \u2014 possibly to plant or retrieve something.",
-    "source_quote": "The honey was the cover for when Irony walked in.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "the non-Christmas Christmas tree",
-    "fact": "The non-Christmas Christmas tree is the designated location where all gifts \u2014 primarily books \u2014 were stacked before the meal. It is the suspected site where the poisoned book was tampered with, as the wrapping paper was later found in Janussi\u2019s office.",
-    "source_quote": "The pile under the \u2014 the non-Christmas Christmas Christmas tree.",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Janussi's office",
-    "fact": "Janussi's office is where the wrapping paper from the poisoned book was found. This links her to the tampering, either as victim, accomplice, or unwitting carrier of evidence.",
-    "source_quote": "The wrapping paper turned up in Janussi's office, not here.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "the kitchens",
-    "fact": "The kitchens are the site of the post-meal honey incident involving Sylvira Savikas. The timing (1 a.m.) and Sylvira\u2019s behavior suggest this was not a random encounter but a deliberate, covert operation.",
-    "source_quote": "Going to the kitchens for cookies, she'd run into Sylvira Savikas hunting for something by candlelight.",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "1 a.m. on the night of the meal",
-    "fact": "At 1 a.m., Sylvira Savikas was observed in the kitchens by candlelight, hoarse and silent. This timing is critical \u2014 it occurred after the poisoning and before any public discovery, suggesting the killer or an accomplice was active.",
-    "source_quote": "One in the morning.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Leuwin",
-    "fact": "Leuwin is an elderly satyr apothecary who works inside an ancient evergreen oak tree at the western edge of the library grounds, distilling herbs and tinctures, and was distracted by A'lai in the greenhouse during the poisoning incident.",
-    "source_quote": "He couldn't imagine how it had happened. Then: maybe Nibbles knows something.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Nibbles",
-    "fact": "Nibbles is a squirrel who works alongside Leuwin, capable of speech when incentivized with nuts, and witnessed the entire sequence of events leading to the theft of the dangerous toxin.",
-    "source_quote": "I made the mistake of asking everything at once \u2014 who, why, the cover-up \u2014 and the squirrel told me that was too much.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Fheminor",
-    "fact": "Fheminor is a gnome who visited Leuwin at 2:30 PM seeking cold medicine, and was seen by Nibbles as an unpleasant individual, but did not handle the dangerous toxins.",
-    "source_quote": "He saw the unfriendly girl gnome. Fheminor. Unpleasant, always unpleasant.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "A'lai",
-    "fact": "A'lai is a dark-skinned elf who arrived at 3:00 PM seeking fennel for indigestion, and was led by Leuwin to the greenhouse below, creating a diversion that kept the apothecary away from the upstairs storage.",
-    "source_quote": "A'lai arrived asking for fennel for indigestion, and Leuwin took him down through the rear exit to the greenhouse below.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Dragonborn",
-    "fact": "A dragonborn entered the apothecary alone while Leuwin was occupied, broke a vial labeled *Dangerous Toxins*, and stole its contents, leaving behind a peppermint-soaked rag and shattered glass.",
-    "source_quote": "A huge lizard skin came in and made a big mess. A dragonborn. Something went *bling* and shuddered, and the lizard moved things around, and then left.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Drow",
-    "fact": "A drow was not directly observed by Nibbles, but is inferred as the orchestrator of the theft: they bribed Nibbles with nuts to gather intelligence and coordinated the diversion by sending A'lai to the greenhouse, ensuring their own hands remained clean of the poison.",
-    "source_quote": "A drow on his knees, bribing a squirrel one nut at a time.",
-    "quote_verified": false
-  },
-  {
-    "type": "faction",
-    "subject": "The Library Grounds Apothecary",
-    "fact": "An apothecary housed within a living evergreen oak tree, operated by Leuwin and Nibbles, with shelves of balms and tinctures climbing the inner bark, and a rear exit leading to a magically sustained greenhouse.",
-    "source_quote": "The apothecary was a tree. Not a building shaped like a tree, an actual evergreen oak grown out of the burrows in the west of the library grounds...",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "toxin theft",
-    "fact": "A highly toxic substance from a vial labeled *Dangerous Toxins* was stolen through a coordinated diversion: the drow bribed a squirrel and sent A'lai to the greenhouse, while the dragonborn broke into the upstairs storage and took the vial, leaving behind a poorly concealed cover-up.",
-    "source_quote": "The glass had broken and somebody had tried to hide it. Badly. That was the word that mattered.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "the apothecary's upstairs storage",
-    "fact": "The storage area above the main counter where the vial of dangerous toxins was kept, labeled in Elvish, and where the dragonborn broke the vial and left a peppermint rag as evidence.",
-    "source_quote": "Under the top shelf I found a peppermint-soaked rag and a broken vial, and the shelf above the spillage was labeled, in Elvish, *Dangerous Toxins.*",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "the greenhouse below",
-    "fact": "A magically sustained herb garden accessible via a rear exit from the apothecary, where Leuwin was occupied with A'lai during the theft, creating the critical diversion.",
-    "source_quote": "where he grows herbs year-round with magic.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "the broken vial",
-    "fact": "A glass vial labeled *Dangerous Toxins* that was shattered during the theft, containing a substance that, when mixed and built upon, becomes a lethal poison, and was concealed under a peppermint-soaked rag.",
-    "source_quote": "What had been in the vial was one of those substances that, mixed and built upon, turns into very dangerous poisons.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "the peppermint-soaked rag",
-    "fact": "A cloth used to mask the smell of the broken toxin vial, left carelessly on the floor and identified by Nibbles as an amateurish cover-up attempt.",
-    "source_quote": "A professional doesn't leave a peppermint rag where the next person to crouch down will find it.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "the nuts",
-    "fact": "Acorns and other nuts used by the drow to bribe Nibbles, and later by the investigator to extract testimony from the squirrel, serving as currency of influence in the investigation.",
-    "source_quote": "The drow draws the druid downstairs with a complaint about indigestion... bribing a squirrel one nut at a time.",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "the drow's identity",
-    "fact": "The drow who orchestrated the theft remains unidentified; Nibbles did not observe their face or markings, and their role was entirely one of misdirection and bribery.",
-    "source_quote": "The squirrel didn't know.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "the toxin's destination",
-    "fact": "The stolen poison has not been recovered; its intended use, recipient, or final form remains unknown, though its composition suggests it is meant for assassination or sabotage.",
-    "source_quote": "What had been in the vial was one of those substances that, mixed and built upon, turns into very dangerous poisons.",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "the dragonborn",
-    "fact": "The dragonborn is the physical actor of the theft, entering alone, breaking the vial, and handling the toxin \u2014 the only individual to directly touch the dangerous substance.",
-    "source_quote": "A huge lizard skin came in and made a big mess. A dragonborn. Something went *bling* and shuddered...",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "2:30 PM",
-    "fact": "The time Fheminor arrived for cold medicine, marking the first known visit before the theft.",
-    "source_quote": "At half past two, the gnome \u2014 Fheminor \u2014 came for cold medicine.",
-    "quote_verified": true
-  },
-  {
-    "type": "date",
-    "subject": "3:00 PM",
-    "fact": "The time A'lai arrived for fennel, triggering the diversion that removed Leuwin from the premises.",
-    "source_quote": "At three, A'lai arrived asking for fennel for indigestion...",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "3:15 PM",
-    "fact": "The time the dragonborn entered and committed the theft, while Leuwin was occupied in the greenhouse and Fheminor had already departed.",
-    "source_quote": "At a quarter past three, the trouble.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "the diversion",
-    "fact": "A carefully timed scheme in which the drow used A'lai\u2019s request for herbs to lure Leuwin into the greenhouse, ensuring no one was present upstairs to witness the dragonborn\u2019s theft.",
-    "source_quote": "because you gave me so many tokens, I saw the person, but Leuwin didn't, because Leuwin wasn't in the room.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "the cover-up",
-    "fact": "The dragonborn attempted to conceal the broken vial with a peppermint rag, an amateur mistake that drew attention rather than hiding it, revealing the crime to the investigator.",
-    "source_quote": "Badly. That was the word that mattered.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "the drow's motive",
-    "fact": "The drow\u2019s motive remains unclear \u2014 whether to eliminate a target, frame another, or obtain the toxin for their own use \u2014 but their method shows deep understanding of misdirection and deniability.",
-    "source_quote": "Elegant. I asked whether either of them had any identifying marks. The squirrel didn't know.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "the squirrel's loyalty",
-    "fact": "Nibbles\u2019 cooperation was secured through nuts, raising questions about whether they are still being bribed, or if their testimony was truthful under incentive.",
-    "source_quote": "Nibbles loved nuts. I had nuts. We understood each other immediately.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Zalthir",
-    "fact": "Zalthir is searching the Readers' Chambers, interpreting clues left by suspects, and relying on Glabbagool the ooze to access what he cannot. He is methodical, observant, and silent in his deductions.",
-    "source_quote": "I went down the list in order, with two corrections.",
-    "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Sylvira Savikas",
-    "fact": "Sylvira Savikas is a suspect whose chambers were skipped over due to her obviousness. Zalthir believes her prominence makes her a red herring, though she may still be involved.",
-    "source_quote": "I'm gonna skip Sylvira for now. Everyone's finger already pointed there.",
+    "fact": "Sylvira Savikas, a tiefling, was encountered at 1:00 a.m. searching by candlelight; she was hoarse and unable to speak, pointing to her throat; she was helped by Sprig with honey; her tiefling nature makes the use of a candlelight unnecessary, raising suspicion that she was not who she appeared to be.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Irony",
+    "fact": "Irony directed inquiries toward Sprig as the poison taster; she cannot lie but steered conversations without speaking falsely; she has been the target of romantic advances from Teles Ahvoste and may have been trying to avoid them; she dismissed concerns about junior avowed as overinterest.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Teles Ahvoste",
+    "fact": "Teles Ahvoste, one of the great readers, made persistent romantic advances toward Irony; his behavior may have motivated a scheme to remove Irony from the scene by poisoning Janussi, indirectly threatening Sprig.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Orrin Glass",
+    "fact": "Orrin Glass, the third waiter, is deaf in one ear and observant; he is the best source for information about interactions between Irony and Teles Ahvoste; he noticed details others missed despite his hearing impairment.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Daral",
-    "fact": "Daral is suspected of poisoning himself \u2014 a staged act to divert attention. Zalthir considers him a deliberate false trail, likely to become the obvious suspect.",
-    "source_quote": "But Daral's the one who's poisoned himself, right? Skip him and he becomes the obvious suspect, of course \u2014 Thorin would say it dry, and he would be right.",
+    "fact": "Daral confirmed the existence of a poison taster role and praised Sprig\u2019s initiative; he is fearful and submissive, especially around Dawnbringer, and does not appear to be the killer.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Candlekeep chefs",
+    "fact": "The Candlekeep chefs prepared twelve dishes for the meal and advised Sprig that tasting them for poison was unnecessary; they permitted her to volunteer for the role, indicating a culture of deference to initiative.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "meal poisoning",
+    "fact": "A poison was administered during a meal served to the gathering; Janussi was the intended victim; Sprig, the poison taster, survived; the method suggests the poison was delivered via a shared item \u2014 the book \u2014 rather than food, to avoid killing the taster.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "book tampering",
+    "fact": "The murder weapon was a book that was likely unwrapped and rewrapped; someone observed tampering with the pile of gifts under the non-Christmas Christmas tree; the book was chosen to bypass the poison taster and ensure the victim\u2019s death without implicating the food.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "the book",
+    "fact": "The book was the medium of the poison; it was handled before the meal and likely rewrapped to conceal tampering; it was chosen over food to avoid killing the poison taster, indicating the killer knew of Sprig\u2019s role.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "honey",
+    "fact": "A pot of honey was provided to Sylvira Savikas when she was found hoarse at 1:00 a.m.; it served as a cover for her true purpose \u2014 possibly setting down or retrieving something \u2014 and may have been used to explain her presence and condition to observers.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "non-Christmas Christmas tree",
+    "fact": "A pile of gifts \u2014 mostly books, but also wands and magical artifacts \u2014 was stacked under the non-Christmas Christmas tree; this was the location where someone observed tampering with the book that was later used as the poison vector.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "kitchens",
+    "fact": "The kitchens were visited by Sylvira Savikas at 1:00 a.m. under candlelight; Sprig encountered her there and assisted her with honey; the location was used as a cover for an undisclosed activity.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Sylvira's identity",
+    "fact": "Sylvira Savikas\u2019s behavior \u2014 using candlelight despite being a tiefling, being hoarse, and refusing to speak \u2014 suggests she may not have been who she appeared to be; this raises the possibility of impersonation or magical disguise.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Irony\u2019s evasion",
+    "fact": "Irony, who cannot lie, redirected inquiries about the poisoning toward Sprig instead of answering directly; her evasion suggests she knows more than she admits and is protecting someone or something.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "killer\u2019s motive",
+    "fact": "The killer chose to poison via the book rather than the food, indicating knowledge of Sprig\u2019s role as poison taster; this suggests the killer intended to kill Janussi without harming Sprig \u2014 implying a personal connection to Sprig or a desire to preserve her.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the honey cover",
+    "fact": "The honey provided to Sylvira may have been a deliberate distraction to explain her presence in the kitchens at 1:00 a.m. and to mask the act of leaving or retrieving an object \u2014 possibly the poison delivery mechanism or a false trail.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "1:00 a.m.",
+    "fact": "Sylvira Savikas was encountered in the kitchens at 1:00 a.m., and Sprig helped her at that time; this late hour is suspicious and coincides with the timing of the poisoning\u2019s effects.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "poison",
+    "fact": "The poison was slow-acting, designed to kill Janussi at midnight; it was delivered via the book, not food; its formulation suggests the killer knew the victim\u2019s habits and the presence of a poison taster.",
     "quote_verified": false
   },
   {
     "type": "npc",
-    "subject": "A'lai Aivenmore",
-    "fact": "A'lai Aivenmore\u2019s chambers contain fine glassware, a large mirror, and a portrait of himself \u2014 signs of vanity and self-obsession. His room was chosen as the first to be examined.",
-    "source_quote": "A'lai's chambers first. Sparse, tasteful \u2014 fine glassware, good ceramics, a large mirror, and a portrait of himself on the wall.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Fheminor Scrivenbark",
-    "fact": "Fheminor Scrivenbark wanted the job but left no mark \u2014 implying he may be a background figure or deliberately inconspicuous.",
-    "source_quote": "Fheminor Scrivenbark, who had wanted the job and otherwise left no mark.",
+    "subject": "Thorin",
+    "fact": "Thorin is interrogating the wait staff and has identified multiple suspects in the theft of a toxic substance, noting the cut-and-retied string on Janussi's Deadwinter gift as a key clue, and recognizing the coordinated nature of the crime as professionally executed.",
+    "source_quote": "We're getting more suspects instead of fewer, just to be clear.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Alkrist",
-    "fact": "Alkrist is a suspect who studies poison. His chambers contain sealed glass jars of blistered, pustule-covered dead rats and a spellbook \u2014 evidence of active toxicological research.",
-    "source_quote": "Alkrist next, and Alkrist did not believe in restraint. Lavish furniture, expensive cloth, fashionable art hung to be noticed. His spellbook on the desk. And on the desk beside it, sealed glass jars holding dead rats, their skin blistered and risen into pustules.",
+    "fact": "Alkrist was seen holding a scrap of paper toward a candle and dropping it when two junior avowed entered, making him a suspect in the theft of the toxic substance.",
+    "source_quote": "Alkrist had been holding a small scrap of paper toward a candle, feeding it to the flame, and when two junior avowed walked in, he dropped it.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Teles Ahvoste",
-    "fact": "Teles Ahvoste wanted the top chair and is linked to the marked book, but his chambers were not explicitly visited \u2014 his influence is inferred through the text.",
-    "source_quote": "Teles Ahvoste, who had also wanted the top chair.",
+    "subject": "Janussi",
+    "fact": "Janussi's Deadwinter gift had a string that was cut and retied, indicating tampering with the package containing the book inside, and serving as the central clue in the theft investigation.",
+    "source_quote": "The string tied around Janussi's Deadwinter gift had clearly been cut and retied.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Janussi's Deadwinter gift",
+    "fact": "The gift contained a book whose wrapping had been opened and the string retied, suggesting the contents were accessed and possibly replaced or altered during the theft.",
+    "source_quote": "The book sitting wrapped in that package, the string opened and knotted back shut.",
     "quote_verified": true
   },
   {
-    "type": "npc",
-    "subject": "Kazryn Nyantani (Tani)",
-    "fact": "Kazryn Nyantani is the chief cleric, referenced as the final figure in the list. His chambers were not visited, but his role implies spiritual authority over the investigation\u2019s context.",
-    "source_quote": "And Kazryn Nyantani \u2014 Tani \u2014 the chief cleric.",
-    "quote_verified": true
+    "type": "object",
+    "subject": "peppermint-soaked rag",
+    "fact": "A peppermint-soaked rag was found beneath the top shelf in the apothecary, alongside a broken vial, indicating a botched attempt to conceal the theft of a dangerous toxin.",
+    "source_quote": "Under the top shelf I found a peppermint-soaked rag and a broken vial.",
+    "quote_verified": false
   },
   {
-    "type": "npc",
-    "subject": "Bookwyrm",
-    "fact": "Bookwyrm is eager to fire the old boss and seat a new one. Her chambers were clean, unremarkable, and yielded no physical evidence \u2014 but the absence of clues is itself significant.",
-    "source_quote": "Bookwyrm last, and by then the tower was fighting me. Her chambers took half the top floor \u2014 comfortable, neatly arranged, no extravagance to it. I got in. I found nothing.",
-    "quote_verified": true
-  },
-  {
-    "type": "faction",
-    "subject": "Readers' Tower",
-    "fact": "The Readers' Tower is the location of the investigation, a place of scholarly or arcane significance where suspects reside and clues are hidden in rooms, objects, and books.",
-    "source_quote": "We moved as one thing through the Readers' Tower.",
+    "type": "object",
+    "subject": "broken vial",
+    "fact": "The broken vial was labeled in Elvish as *Dangerous Toxins*, and contained a substance that, when mixed and built upon, becomes a lethal poison.",
+    "source_quote": "The shelf above the spillage was labeled, in Elvish, *Dangerous Toxins.* The glass had broken and somebody had tried to hide it.",
     "quote_verified": false
   },
   {
     "type": "monster",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool is a sentient ooze capable of seeping through narrow spaces and sensing what others cannot. It is loyal to Zalthir and used to access locked areas and detect hidden truths.",
-    "source_quote": "I had Glabbagool. The ooze had come out of the bag eager, the way he is now eager about everything on the surface \u2014 *we're going on a secret mission!*",
+    "subject": "dragonborn",
+    "fact": "The dragonborn entered the apothecary alone while the shopkeeper was distracted, broke the vial of dangerous toxin, and stole it, acting as the primary thief in the coordinated crime.",
+    "source_quote": "A huge lizard skin came in and made a big mess. Something went *bling* and shuddered, and the lizard moved things around, and then left.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Fheminor",
+    "fact": "Fheminor, a gnome, visited the apothecary at half past two for cold medicine and had left before the theft occurred, ruling her out as the thief but establishing her presence in the timeline.",
+    "source_quote": "At half past two, the gnome \u2014 Fheminor \u2014 came for cold medicine. Tincture of horehound, licorice to chew.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "A'lai",
+    "fact": "A'lai, a dark-skinned elf, visited the apothecary at three and was led by Leuwin to the greenhouse below, serving as the diversion that kept the shopkeeper away from the upstairs where the theft occurred.",
+    "source_quote": "At three, A'lai arrived asking for fennel for indigestion, and Leuwin took him down through the rear exit to the greenhouse below.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Leuwin",
+    "fact": "Leuwin, the elderly satyr apothecary, was distracted by A'lai\u2019s visit and led him to the greenhouse, making him unaware of the theft occurring upstairs, and thus an unwitting participant in the diversion.",
+    "source_quote": "Leuwin didn't know... because Leuwin wasn't in the room.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Nibbles",
+    "fact": "Nibbles, the squirrel, witnessed the events through bribes of nuts and confirmed the dragonborn\u2019s presence and actions, serving as the key witness who exposed the coordinated theft.",
+    "source_quote": "The squirrel popped up... I had nuts. We understood each other immediately.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "drow",
+    "fact": "A drow orchestrated the theft by bribing the squirrel with nuts and arranging the diversion that kept Leuwin occupied, ensuring their hands remained clean of the dangerous toxin.",
+    "source_quote": "A drow on his knees, bribing a squirrel one nut at a time.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "theft of dangerous toxin",
+    "fact": "The theft of the dangerous toxin was executed through a coordinated two-part operation: a diversion in the greenhouse to distract the apothecary, and a silent theft upstairs by the dragonborn, who broke the vial and removed the substance.",
+    "source_quote": "A diversion in one room, the theft in another, and the only one of them within reach of the poison is the one who isn't a drow.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "origin of the drow's involvement",
+    "fact": "The drow\u2019s identity and motive remain unknown, as the squirrel could not identify any distinguishing marks, leaving the mastermind of the operation still concealed.",
+    "source_quote": "I asked whether either of them had any identifying marks. The squirrel didn't know.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Daz \u2014 The Squirrel's Testimony at the Oak Tree Apothecary",
+    "fact": "The Oak Tree Apothecary is a living evergreen oak with a hollowed trunk housing a pharmacy, located on the west grounds of the library, where the theft of the dangerous toxin occurred.",
+    "source_quote": "The apothecary was a tree. Not a building shaped like a tree, an actual evergreen oak grown out of the burrows in the west of the library grounds...",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "time of theft",
+    "fact": "The theft occurred at a quarter past three, after Fheminor had left and while Leuwin was in the greenhouse with A'lai, leaving the upstairs unattended.",
+    "source_quote": "At a quarter past three, the trouble.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "squirrel's testimony",
+    "fact": "The squirrel's testimony, obtained through nut bribes, reorganized the timeline and identified the dragonborn as the thief and the drow as the orchestrator, exposing the precision of the crime.",
+    "source_quote": "Because you gave me so many tokens, I saw the person, but Leuwin didn't, because Leuwin wasn't in the room.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Orrin",
+    "fact": "Orrin provided the critical clue about the cut-and-retied string on Janussi's Deadwinter gift, which Thorin recognized as the key indicator of internal tampering.",
+    "source_quote": "And then Orrin handed me the one that mattered. Something out of the ordinary: the string tied around Janussi's Deadwinter gift had clearly been cut and retied.",
     "quote_verified": true
   },
   {
     "type": "object",
-    "subject": "Cage with White Doves",
-    "fact": "A cage designed for five doves holds only two. The wear on three perches and the absence of droppings indicate three birds are missing \u2014 suggesting three messages were sent recently.",
-    "source_quote": "White doves, the kind used to carry messages. The cage was built for five. Two birds sat in it. The feeding troughs, the droppings, the wear on five perches. There had been more than two.",
+    "subject": "cut-and-retied string",
+    "fact": "The cut-and-retied string on Janussi's Deadwinter gift was the physical signature of the theft, proving the package had been opened and resealed by someone inside the room with access to the gifts.",
+    "source_quote": "The cut string was the rock in the right place. Nobody came in from outside. This was somebody who'd been at the table.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is searching the Readers' Chambers, having received eight names, and is now focused on interpreting clues left behind by the occupants, including A'lai Aivenmore, Alkrist, Bookwyrm, and others.",
+    "source_quote": "The list came to me as eight names... I asked the only question that mattered.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sylvira Savikas",
+    "fact": "Sylvira Savikas was the first name pointed at by everyone, and Zalthir decided to skip her chambers for now, recognizing her as an obvious but potentially misleading target.",
+    "source_quote": "Sylvira Savikas, whom everyone had already pointed at... I'm gonna skip Sylvira for now.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daral",
+    "fact": "Daral is suspected of having poisoned himself, and Zalthir chose to skip his chambers, understanding that leaving him uninvestigated makes him the obvious suspect \u2014 a tactic Thorin would endorse.",
+    "source_quote": "But Daral's the one who's poisoned himself, right?... Skip him and he becomes the obvious suspect, of course \u2014 Thorin would say it dry, and he would be right.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "A'lai Aivenmore",
+    "fact": "A'lai Aivenmore\u2019s chambers were sparse and tasteful, containing fine glassware, good ceramics, a large mirror, and a portrait of himself \u2014 indicating a man who liked to be looked at, including by himself.",
+    "source_quote": "A'lai's chambers first. Sparse, tasteful \u2014 fine glassware, good ceramics, a large mirror, and a portrait of himself on the wall.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "dove cage",
+    "fact": "A dove cage in A'lai's chambers was built for five birds, but only two were present \u2014 suggesting three messages had been sent recently, and the absence of the other birds is a significant clue.",
+    "source_quote": "The cage was built for five. Two birds sat in it... There had been more than two. Three messages had gone somewhere, and recently.",
     "quote_verified": false
   },
   {
     "type": "object",
-    "subject": "Jars of Poisoned Rats",
-    "fact": "Sealed glass jars contain dead rats with blistered, pustule-covered skin \u2014 evidence of deliberate poison experimentation, likely by Alkrist.",
+    "subject": "glass jars of poisoned rats",
+    "fact": "Alkrist\u2019s chambers contained sealed glass jars holding dead rats with blistered, pustule-ridden skin \u2014 indicating active study of poison and its effects on the body.",
     "source_quote": "Sealed glass jars holding dead rats, their skin blistered and risen into pustules. I have seen what poison does to a body.",
     "quote_verified": false
   },
   {
     "type": "object",
     "subject": "1001 Tashalian Nights",
-    "fact": "A black leather-bound book with gold filigree, marked with a bookmark on the tale of a commander poisoned by a magic horn coated in Midnight Tears \u2014 directly paralleling the poisoned rats.",
-    "source_quote": "A book \u2014 black leather, stars and gold filigree... *1001 Tashalian Nights.* It had a bookmark. The bookmark sat on the tale of a military commander, poisoned by a gift of surrender \u2014 a magic horn whose mouthpiece had been coated in Midnight Tears.",
+    "fact": "A black leather-bound copy of 1001 Tashalian Nights lay open to the tale of a military commander poisoned by a magic horn coated in Midnight Tears, with a bookmark left precisely on that page.",
+    "source_quote": "A book \u2014 black leather, stars and gold filigree... The bookmark sat on the tale of a military commander, poisoned by a gift of surrender \u2014 a magic horn whose mouthpiece had been coated in Midnight Tears.",
     "quote_verified": false
   },
   {
-    "type": "object",
-    "subject": "Locked Safe",
-    "fact": "A small, impenetrable safe with a one-finger-width opening. Glabbagool cannot enter it. Its contents remain unknown, but its existence suggests hidden evidence.",
-    "source_quote": "Beside it, a locked safe... The opening was a finger's width, no more \u2014 a true safe, not one of the old massive locks a body could pour itself through.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Discovery of Midnight Tears",
-    "fact": "The name 'Midnight Tears' was identified as the poison used on the magic horn in the story, and is now linked to the poisoned rats and missing doves \u2014 forming the core of the investigation\u2019s lead.",
+    "type": "thread",
+    "subject": "Midnight Tears",
+    "fact": "Midnight Tears is a poison referenced in a marked story and associated with a poisoned gift \u2014 now a key thread linking Alkrist\u2019s study of poison to a potential assassination method.",
     "source_quote": "Midnight Tears. I kept the name where I would not lose it.",
     "quote_verified": true
   },
   {
-    "type": "thread",
-    "subject": "Missing Three Doves",
-    "fact": "Three doves are unaccounted for \u2014 suggesting three messages were dispatched. The destination and content of these messages remain unknown, forming a critical unresolved thread.",
-    "source_quote": "Three messages had gone somewhere, and recently. I kept that.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "Identity of the Poisoner",
-    "fact": "The connection between the poisoned rats, the marked book, and the missing doves points to a deliberate pattern \u2014 but the person who orchestrated it remains unidentified.",
-    "source_quote": "A cage missing three birds. Jars of blistered rats. A page marked to a poisoning by gift.",
-    "quote_verified": true
+    "type": "location",
+    "subject": "Alkrist\u2019s chambers",
+    "fact": "Alkrist\u2019s chambers were lavishly furnished, containing expensive cloth, fashionable art, a spellbook, jars of poisoned rats, and a marked copy of 1001 Tashalian Nights \u2014 indicating a man of wealth, intellect, and obsession with poison.",
+    "source_quote": "Alkrist next, and Alkrist did not believe in restraint. Lavish furniture, expensive cloth, fashionable art hung to be noticed. His spellbook on the desk... And on the desk beside it, sealed glass jars...",
+    "quote_verified": false
   },
   {
     "type": "location",
-    "subject": "A'lai's Chambers",
-    "fact": "A'lai's chambers are sparse, tasteful, and filled with objects reflecting self-admiration \u2014 a mirror and portrait. The room is clean, suggesting no hidden traps or weapons, but psychological clues abound.",
-    "source_quote": "A'lai's chambers first. Sparse, tasteful \u2014 fine glassware, good ceramics, a large mirror, and a portrait of himself on the wall.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Alkrist's Chambers",
-    "fact": "Alkrist\u2019s chambers are lavish and contain evidence of toxicological study \u2014 jars of poisoned rats, a spellbook, and a marked book. The room is a laboratory of death.",
-    "source_quote": "Alkrist next, and Alkrist did not believe in restraint. Lavish furniture, expensive cloth, fashionable art hung to be noticed.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Bookwyrm's Chambers",
-    "fact": "Bookwyrm\u2019s chambers occupy half the top floor and are immaculately clean, with no signs of hidden objects, poison, or disturbance \u2014 an absence that suggests deliberate erasure or innocence.",
+    "subject": "Bookwyrm\u2019s chambers",
+    "fact": "Bookwyrm\u2019s chambers occupied half the top floor, were clean and neatly arranged, contained no obvious clues, and were free of poison \u2014 a deliberate absence that itself became information.",
     "source_quote": "Bookwyrm last... I found nothing. Glabbagool tasted the air and found no poison in it. A clean room. That, too, was information.",
     "quote_verified": false
   },
   {
+    "type": "location",
+    "subject": "Readers' Tower",
+    "fact": "The Readers' Tower is a multi-room structure with locked doors and staircases of increasing difficulty, where each chamber holds hidden clues, and access is physically and mentally taxing for the investigator.",
+    "source_quote": "A staircase of locked doors, each step taller than the last... I went down the list in order, with two corrections.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a sentient, shapeless ooze that flows through spaces inaccessible to humans, absorbs knowledge from environments, and assists Zalthir by reading what he cannot understand \u2014 now an integral partner in the investigation.",
+    "source_quote": "I had Glabbagool. The ooze had come out of the bag eager... He flowed where I could not reach; I read what he could not understand.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "locked safe",
+    "fact": "A locked safe in Alkrist\u2019s chambers had an opening no wider than a finger\u2019s width \u2014 too narrow for Glabbagool to penetrate \u2014 and remains unopened, preserving its secret.",
+    "source_quote": "Beside it, a locked safe... The opening was a finger's width, no more \u2014 a true safe... Glabbagool could not thin himself past it.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "reading the bookmarked tale",
+    "fact": "Zalthir read the bookmarked tale in 1001 Tashalian Nights about a commander poisoned by a magic horn coated in Midnight Tears, and connected it to the jars of poisoned rats in Alkrist\u2019s chambers.",
+    "source_quote": "A man with jars of poisoned rats had marked his page on a story about a poisoned gift... I set the book back exactly as it lay.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "missing three doves",
+    "fact": "The absence of three doves from the five-bird cage suggests three messages were dispatched \u2014 a key thread linking A'lai\u2019s chambers to a covert communication network.",
+    "source_quote": "Three messages had gone somewhere, and recently. I kept that.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is referenced as a tactician who understands psychological manipulation in investigations \u2014 specifically that leaving a suspect uninvestigated makes him the obvious suspect.",
+    "source_quote": "Thorin would put it plainly: we aren't hunting Daral, we're keeping him on a hook... Thorin would say it dry, and he would be right.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Brother Heslin",
+    "fact": "Brother Heslin is remembered as a possible instructor in the art of reading meaning from objects \u2014 a skill Zalthir now applies in his investigation, though he did not learn it at the time.",
+    "source_quote": "There was a class for this, somewhere in the monastery \u2014 reading what an object meant rather than what it was. Brother Heslin, maybe, or the tall one who smelled of incense.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "investigation of the Readers' Chambers",
+    "fact": "Zalthir conducted a methodical investigation of eight chambers in the Readers' Tower, uncovering three converging clues: missing doves, poisoned rats, and a bookmarked tale of Midnight Tears \u2014 forming the core of the current lead.",
+    "source_quote": "We had several. A cage missing three birds. Jars of blistered rats. A page marked to a poisoning by gift.",
+    "quote_verified": true
+  },
+  {
     "type": "date",
-    "subject": "session date",
-    "fact": "The events described occur during a single investigation session \u2014 the timeline is compressed into one continuous sequence of discovery and deduction.",
-    "source_quote": "One night. I asked the only question that mattered.",
+    "subject": "one night",
+    "fact": "The entire investigation of the Readers' Chambers occurred over the span of one night, a compressed timeframe that heightens the urgency and intensity of Zalthir\u2019s deductions.",
+    "source_quote": "Eight rooms. One night. I asked the only question that mattered.",
     "quote_verified": true
   }
 ]

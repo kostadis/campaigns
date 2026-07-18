@@ -1,37 +1,191 @@
 [
   {
     "type": "date",
-    "subject": "elapsed time",
-    "fact": "Queenie was awakened thirty minutes later by Sylvira Savikas.",
-    "source_quote": "some thirty minutes later by our Sylvira Savikas",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Queenie age",
-    "fact": "Queenie is five years old.",
-    "source_quote": "Queenie \u2014 five years old",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "evening guest arrival sequence",
-    "fact": "First Fheminor arrived, and later Daral.",
-    "source_quote": "first Fheminor, ... and later Daral",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "wake-up time",
-    "fact": "Queenie woke from her afternoon nap around eight, after supper.",
+    "subject": "session date",
+    "fact": "The session occurs on the morning after supper, when Queenie awoke from her afternoon nap around eight.",
     "source_quote": "She woke from her afternoon nap around eight, after supper",
     "quote_verified": true
   },
   {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "Thirty minutes passed between the disturbance and Queenie's awakening by Sylvira Savikas.",
+    "source_quote": "only to be rudely awakened some thirty minutes later by our Sylvira Savikas",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Five years old, sleet-grey, and entirely uninterested \u2014 Queenie the cat is present.",
+    "source_quote": "Queenie \u2014 five years old, sleet-grey, and entirely uninterested in being disturbed",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "The town of Sloopdopblop is just eight days away via the Darklake.",
+    "source_quote": "the town of Sloopdopblop is just eight days away",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
+    "source_quote": "Drow outpost was 100' in the sky",
+    "quote_verified": false
+  },
+  {
     "type": "object",
-    "subject": "locket description",
-    "fact": "The locket was intimate and was carried all the time; never taken off.",
-    "source_quote": "The locket itself is intimate. He carried it all the time. He never took it off.",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "the golden ass",
+    "fact": "The book, dull enough to hold a person motionless and uninterested in scratching a cat, is 'The Golden Ass', missing and carried by Daral.",
+    "source_quote": "The Golden Ass, the missing volume, walking out of the room under Daral's arm",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "locket value",
+    "fact": "The locket is intimate, carried always, never taken off \u2014 but its nature is unknown to Queenie.",
+    "source_quote": "The locket itself is intimate. He carried it all the time. He never took it off. I don't know what it was.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "hightower library key location",
+    "fact": "One key to the Hightower Library is held by Janussi; the other rests with Kalan, the gate warden.",
+    "source_quote": "Fembris... supplied the column I was missing: Janussi held one of the two keys to the Hightower Library. The other key... rested with Kalan, the gate warden.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "shapeshifter encounter",
+    "fact": "A figure wearing Sylvira's shape but none of her scent appeared \u2014 a shapeshifter impersonation.",
+    "source_quote": "But she didn't smell like the demon lady, though. A figure wearing Sylvira and none of her scent.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "torn demon lady",
+    "fact": "The torn demon lady came down the steps \u2014 Sylvira's shape, but not her scent.",
+    "source_quote": "she'd prowled the nighttime cycle and seen the torn demon lady coming down the steps \u2014 Sylvira's shape",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "hypnotic block",
+    "fact": "The hypnotic block is not a device \u2014 it is a book, 'The Golden Ass', that immobilizes and disinterests.",
+    "source_quote": "Every time they open that block, they just sit there and don't tickle! The Golden Ass, the missing volume",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "daral's departure",
+    "fact": "Daral exited with 'The Golden Ass' while the victim was still alive.",
+    "source_quote": "Daral exited with the book, and the dead man was not yet dead.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "corridor retreat",
+    "fact": "Queenie retreated to the corridor when Daral ran downstairs with the hypnotic block.",
+    "source_quote": "she retreated to the corridor \u2014 'when I later saw him run downstairs with a hypnotic block.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "sylvira's attack",
+    "fact": "Sylvira Savikas blasted the armchamber with a lance of unerring force light, waking Queenie.",
+    "source_quote": "blasting the armchamber with a lance of unerring force light",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "tickles count",
+    "fact": "There have been too little Tickles and too many questions \u2014 Queenie's final assessment of the interrogation.",
+    "source_quote": "There have been too little Tickles and too many questions.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "janussi's armchair",
+    "fact": "Queenie had settled into Janussi's armchair for a nap before being awakened.",
+    "source_quote": "She had settled into Janussi's armchair for a nap",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "daz's tickle",
+    "fact": "Daz gave Queenie a little tickle, which prompted her to deliver critical information.",
+    "source_quote": "I'll give Queenie a little tickle,\" I said, and tickled.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "locket possession",
+    "fact": "The locket was carried by Janussi at all times, never removed.",
+    "source_quote": "He carried it all the time. He never took it off.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "zalthir's tv deduction",
+    "fact": "Zalthir declared 'Oh, it's a TV!' \u2014 a misidentification that nonetheless arrived at the correct functional conclusion.",
+    "source_quote": "Oh, it's a TV!\" said Zalthir, which was not quite the deduction but arrived at the same destination.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "thorin's force bolt inquiry",
+    "fact": "Thorin questioned why the bolts of force were being used \u2014 prompting the revelation of Sylvira\u2019s attack.",
+    "source_quote": "what was going on with those bolts of force, do we know why",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "tower corridor",
+    "fact": "Queenie retreated to the tower corridor upon seeing Daral\u2019s action.",
+    "source_quote": "she retreated to the corridor",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "queenie's final dismissal",
+    "fact": "Queenie dismissed the party with the instruction to lick themselves before returning.",
+    "source_quote": "You may now leave, and please give yourself a proper licking before returning to my tower.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "hightower library key possession",
+    "fact": "The key to the Hightower Library held by Janussi was the key that explained the deletion of forbidden text.",
+    "source_quote": "That might explain why that stuff got deleted off that book that no one should have touched.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "queenie's breath-holding habit",
+    "fact": "Queenie holds her breath whenever a two-legger passes, judging them unclean.",
+    "source_quote": "I try to hold my breath whenever a two-legger passes. It's clear that you hardly ever lick yourselves at all.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "grygum's expense reduction",
+    "fact": "Someone else had taken an expense off Grygum's account, relieving him.",
+    "source_quote": "someone else had just taken an expense off his account",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "daz's final tickle offer",
+    "fact": "Daz offered more tickles and padding to settle the account fully.",
+    "source_quote": "More tickles, more padding,\" I offered, because the account wasn't quite settled.",
     "quote_verified": true
   }
 ]

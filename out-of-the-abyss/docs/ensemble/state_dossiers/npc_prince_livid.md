@@ -7,28 +7,29 @@ chapters: 46-47
 
 ### Prince Livid
 
-**Current status:** Destroyed (killed in combat)  
-**Current location:** Throne room of the Pudding King (site of demise)  
+**Current status:** Destroyed (killed)  
+**Current location:** The Pudding King’s throne room (site of demise)  
 **Allegiance/faction:** Ally of the Pudding King; one of his two ooze henchmen (alongside Princess Ebonheir)  
 **Current possessions / notable items, spells, feats, wounds:**  
-- Psychic attack ability (used to deal 7 damage to Zalthir and 5 damage to Daz)  
+- Psychic attack ability (used against Zalthir for 14 damage, reduced to 7; used against Daz for 5 damage)  
 - Resistance to fire damage (survived Fireball with 8 HP remaining)  
-- No other possessions or feats noted  
+- No items or equipment mentioned beyond innate abilities  
 
 **Current assignment / role and key relationships:**  
-- Served as a combat enforcer for the Pudding King; stood beside Princess Ebonheir during his monologues  
-- Last known interaction: Attacked members of the party (Zalthir and Daz) during the battle in the throne room  
+- Served as direct enforcer and companion to the Pudding King; present during his monologues in the throne room  
+- Last seen acting in concert with Princess Ebonheir as part of the Pudding King’s inner circle  
 
 **Defining recent actions:**  
-- Launched psychic blasts against Zalthir and Daz during the party’s assault on the throne room  
-- Survived Daz’s Fireball due to fire resistance, but was destroyed by a subsequent volley of Magic Missiles  
+- Attacked Zalthir with a psychic blast, dealing 14 damage (reduced to 7 by saving throw)  
+- Attacked Daz with a psychic blast, dealing 5 damage  
+- Survived Daz’s Fireball due to fire resistance, reducing damage and leaving 8 HP  
+- Was destroyed by a volley of Magic Missiles from Daz  
 
 **Revealed motivations or secrets:**  
-- None explicitly stated beyond loyalty to the Pudding King and participation in his war against Zuggtmoy, with implied allegiance to Juiblex’s promised dominion  
+- No explicit motivations or secrets revealed beyond loyalty to the Pudding King and participation in his conflict with Zuggtmoy and alliance with Juiblex  
 
-## Uncertainty
-- The exact nature of Prince Livid’s ooze form (e.g., type, composition) is not specified beyond the label “ooze henchman.”  
-- Whether Princess Ebonheir survived the same battle is not confirmed here — her status is unknown.  
-- The source of his psychic abilities (innate, magical item, spellcasting) is not detailed.  
-- The specific spell or ability name for his psychic attack is not given — only its effect.  
-- The total hit points before or after the Fireball are not fully reconciled: one quote says “eight hit points remaining,” another says “grievous injuries” — no contradiction, but insufficient detail to reconstruct full HP state.
+## Uncertainty  
+- The exact nature of Prince Livid’s ooze form (type, composition, or origin) is unspecified.  
+- Whether Princess Ebonheir survived the same encounter is unknown — her status after the Magic Missile volley is not stated.  
+- The source of his psychic abilities (innate, magical item, or granted by the Pudding King) is not specified.  
+- The phrase “another volley of magical missiles” implies multiple missiles were fired, but the exact number and damage total are not given — only the outcome (destruction).

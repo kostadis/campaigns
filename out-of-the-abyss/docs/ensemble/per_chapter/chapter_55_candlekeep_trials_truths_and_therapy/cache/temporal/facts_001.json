@@ -3,15 +3,15 @@
     "type": "date",
     "subject": "session date",
     "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
-    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
-    "quote_verified": false
+    "source_quote": "Daggerford was the first place we'd walked into in weeks where the silence didn't make sense.",
+    "quote_verified": true
   },
   {
     "type": "date",
     "subject": "elapsed time",
     "fact": "An hour passes between two events in the session.",
-    "source_quote": "An hour later",
-    "quote_verified": false
+    "source_quote": "We'd been on the road south out of the Silver Marches long enough that I'd stopped counting days and started counting how much my boots hurt.",
+    "quote_verified": true
   },
   {
     "type": "monster",
@@ -42,241 +42,101 @@
     "quote_verified": false
   },
   {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "Seven years old and silent for six days.",
-    "source_quote": "My daughter Elin is 7 years old and has been silent for 6 days.",
-    "quote_verified": true
-  },
-  {
     "type": "monster",
-    "subject": "dwarven inscription count",
-    "fact": "The move is yours.",
-    "source_quote": "*The move is yours.*",
+    "subject": "hill giant count",
+    "fact": "The hill giants I grew up with had a word for a silence that wasn't natural.",
+    "source_quote": "The hill giants I grew up with \u2014 they had a word for a silence that wasn't natural.",
     "quote_verified": true
   },
   {
     "type": "location",
-    "subject": "River Shining Tavern location",
-    "fact": "The River Shining Tavern is in Daggerford.",
-    "source_quote": "We found the River Shining Tavern and noted it for later.",
+    "subject": "River Shining Tavern",
+    "fact": "The River Shining Tavern was noted for later but not entered immediately.",
+    "source_quote": "We found the River Shining Tavern and noted it for later. But we didn't go straight in.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "bronze forearm monument",
+    "fact": "A bronze-cast forearm, severed at the elbow, was mounted on a stone pillar as a monument to Tarvis Ulain.",
+    "source_quote": "There was a monument there \u2014 a bronze-cast forearm, severed at the elbow, mounted on a stone pillar.",
     "quote_verified": true
   },
   {
     "type": "object",
     "subject": "pewter hand cast value",
-    "fact": "The pewter hand casts are charm-sized and sold for donations to the Order of the Gauntlet.",
+    "fact": "The pewter hand casts were charm-sized and sold for donations to the Order of the Gauntlet.",
     "source_quote": "a tray of small pewter reproductions of Tarvis's hand cast, miniature things, charm-sized.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "statue funding event",
-    "fact": "The statue was funded by the Metalworkers Guild two years after the war.",
-    "source_quote": "The statue had been funded by the Metalworkers Guild, two years post-war.",
-    "quote_verified": true
+    "subject": "Daz's inscription discovery",
+    "fact": "Daz found a Dwarven inscription on the base of the monument reading 'The move is yours.'",
+    "source_quote": "There was a smaller inscription on the back. Dwarven, on the base. *The move is yours.*",
+    "quote_verified": false
   },
   {
-    "type": "object",
-    "subject": "inscription signer",
-    "fact": "Milo Goodbarrel signed the inscription 'Witnessed and recorded for the Gauntlet.'",
+    "type": "event",
+    "subject": "Milo Goodbarrel's witness",
+    "fact": "Milo Goodbarrel, head of a publisher, witnessed and recorded the monument for the Gauntlet.",
     "source_quote": "Signed by Milo Goodbarrel, apparently head of some publisher, apparently Order of the Gauntlet.",
     "quote_verified": true
   },
   {
-    "type": "location",
-    "subject": "Burning Wizard Inn location",
-    "fact": "The Burning Wizard Inn is in Daggerford.",
-    "source_quote": "The Burning Wizard Inn took its name from a death.",
+    "type": "event",
+    "subject": "Metalworkers Guild funding",
+    "fact": "The monument was funded two years after the war by the Metalworkers Guild.",
+    "source_quote": "The whole thing was funded two years after the war by a Metalworkers Guild.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "bard performance event",
-    "fact": "The bard performed 'The Kenku Could Not Fly' at the Burning Wizard Inn.",
-    "source_quote": "She had a closing number she'd been doing all season. This one was called 'The Kenku Could Not Fly.'",
+    "subject": "Elin's silence",
+    "fact": "Elin, age 7, had been silent for 6 days and drew a six-pointed star on every flat surface.",
+    "source_quote": "My daughter Elin is 7 years old and has been silent for 6 days. She draws the same shape on every flat surface.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Dawnbringer's restoration",
+    "fact": "Dawnbringer performed lesser restoration on Elin, after which she spoke: 'The wells are not wells anymore.'",
+    "source_quote": "Lesser restoration settled in. And then she spoke. 'The wells are not wells anymore.'",
     "quote_verified": false
   },
   {
-    "type": "object",
-    "subject": "kenku thief principle",
-    "fact": "Whistler took only what was necessary from Tiamat's hoard.",
-    "source_quote": "Whistler had apparently made a line-item budget.",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "dwarven language proficiency",
-    "fact": "Daz's language is Dwarven, or one of them.",
-    "source_quote": "Dwarven is, you know, actually my language, or one of them",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Maerith of the Ford location",
-    "fact": "Maerith of the Ford is in Daggerford.",
-    "source_quote": "Maerith of the Ford had the look of a woman who had already been turned away.",
-    "quote_verified": true
-  },
-  {
     "type": "event",
-    "subject": "dawnbringer restoration event",
-    "fact": "Dawnbringer performed lesser restoration on Elin.",
-    "source_quote": "Lesser restoration settled in.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "evidence of fungal infection",
-    "fact": "There was no evidence of fungal infection in Elin's condition.",
-    "source_quote": "Is there any evidence of any sort of fungal infection? No. No.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "daz's headache onset",
-    "fact": "Daz had been experiencing pressure in his head for some time.",
+    "subject": "Daz's head pressure",
+    "fact": "Daz had been experiencing pressure in his head, possibly linked to the same phenomenon affecting Elin.",
     "source_quote": "Daz mentioned the pressure in his own head \u2014 had been mentioning it, in various indirect ways, for a while now.",
     "quote_verified": true
   },
   {
     "type": "location",
-    "subject": "castle ward statue location",
-    "fact": "The Castle Ward statue is in Waterdeep.",
-    "source_quote": "Same line as the Castle Ward statue in Waterdeep.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "neverlight grove location",
-    "fact": "Neverlight Grove was a site of auditory disturbance.",
-    "source_quote": "the way Neverlight Grove had been singing",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "pudding king's court location",
-    "fact": "The Pudding King's court was a site of dissolution.",
-    "source_quote": "the Pudding King's court had been dissolving",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "grygum's gold piece donation",
-    "fact": "Grygum dropped a gold piece in for his pewter hand cast.",
-    "source_quote": "Grygum dropped a gold piece in for his.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "priest's revelation about stroudite inscription",
-    "fact": "The priest conceded the Stroudite inscription remained because it was a gift.",
-    "source_quote": "It was a gift,\" he said finally. \"And since it was a gift, we decided the inscription could remain.",
+    "subject": "Burning Wizard Inn",
+    "fact": "The Burning Wizard Inn was named after a wizard burned alive by a dragon cult decades prior.",
+    "source_quote": "The Burning Wizard Inn took its name from a death. That was the first thing I catalogued.",
     "quote_verified": true
   },
   {
     "type": "object",
-    "subject": "tarvis ulain's bronze arm",
-    "fact": "Tarvis Ulain's bronze arm was severed at the elbow and mounted on a stone pillar.",
-    "source_quote": "a bronze-cast forearm, severed at the elbow, mounted on a stone pillar.",
+    "subject": "wall memory",
+    "fact": "The south wall of the inn remembers where the wizard fell; it is not painted over.",
+    "source_quote": "That is where he fell. We scrub the floor every season. We do not paint over the wall. My grandfather said the wall remembers.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "daz's examination of dwarven inscription",
-    "fact": "Daz read the dwarven inscription twice to ensure he hadn't misread it.",
-    "source_quote": "I read it twice because Dwarven is, you know, actually my language, or one of them, and I wanted to make sure I hadn't misread.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "underdark decor comparison",
-    "fact": "The Underdark had less unsettling d\u00e9cor than the severed arm monument.",
-    "source_quote": "The Underdark had less unsettling d\u00e9cor, and that's saying something.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "grygum's philosophical conclusion",
-    "fact": "Grygum concluded there was a tenuous connection between Elin's condition and Daz's headache.",
-    "source_quote": "There's some kind of tenuous connection there?",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "evidence of the world speaking a new language",
-    "fact": "The world had started speaking a language Elin couldn't process.",
-    "source_quote": "the world had started speaking a language she couldn't process",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "dawnbringer's entrance",
-    "fact": "Dawnbringer made an entrance without invitation.",
-    "source_quote": "Dawnbringer did not wait for a second invitation.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "daggerford's geographical position",
-    "fact": "Daggerford was far enough south to miss the Uthgardt barbarian hordes.",
-    "source_quote": "Daggerford had been far enough south to miss the Uthgardt barbarian hordes that had swept through after the giant war.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "maerith's temple visits",
-    "fact": "Maerith visited multiple temples seeking help for Elin.",
-    "source_quote": "she'd been to the temples, plural, and the temples had no answer.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "evidence of the six-pointed star",
-    "fact": "Elin drew a six-pointed star on every flat surface.",
-    "source_quote": "a six-pointed star, over and over, every flat surface in the house.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "grygum's observation of the kenku song",
-    "fact": "Grygum noted that the Kenku song's principle mapped well onto Whistler.",
-    "source_quote": "Grygum... observed drily that the song's principle \u2014 steal what was needed \u2014 mapped rather well onto Whistler.",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "grygum's holy symbol",
-    "fact": "Grygum's holy symbol is the dragon-and-scale emblem.",
-    "source_quote": "She spotted my holy symbol during dinner... the dragon-and-scale emblem",
+    "subject": "bard's song 'The Kenku Could Not Fly'",
+    "fact": "A bard performed 'The Kenku Could Not Fly,' a song about a thief who stole only what was needed.",
+    "source_quote": "This one was called 'The Kenku Could Not Fly.'",
     "quote_verified": false
   },
   {
     "type": "event",
-    "subject": "the priest's declaration of faith",
-    "fact": "The priest declared himself a pure Bahamutian.",
-    "source_quote": "He himself was, he wanted us to know, *a pure Bahamutian*.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "daz's cataloging of the inn",
-    "fact": "Daz catalogued the exits and history of the Burning Wizard Inn.",
-    "source_quote": "The first thing I catalogued... I noted the exits.",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "festrum's innkeeper status",
-    "fact": "Festrum is the gnome innkeeper of the Burning Wizard Inn.",
-    "source_quote": "Festrum \u2014 the gnome innkeeper...",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "wall's memory",
-    "fact": "The south wall of the Burning Wizard Inn remembers where the wizard was burned.",
-    "source_quote": "My grandfather said the wall remembers.",
+    "subject": "Whistler's restraint",
+    "fact": "Whistler, a Kenku thief, took only what was necessary from Tiamat's hoard, making a line-item budget.",
+    "source_quote": "Whistler had apparently made a line-item budget.",
     "quote_verified": true
   }
 ]

@@ -1,40 +1,42 @@
 ---
 name: Narrak
 type: npc
-n_facts: 16
+n_facts: 13
 chapters: 23-26
 ---
 
 ### Narrak
 
 **Current status:** Dead  
-**Current location:** Cavern beneath Gracklstugh, within the ritual site of the Two-Headed Beast  
-**Allegiance/faction:** Cult of Demogorgon; leader of the Derro ritualist sect  
+**Current location:** Zalthir’s darkness, within the hellish cavern beneath Gracklstugh  
+**Allegiance/faction:** High priest and cult leader of Demogorgon; leader of the Derro cult  
 **Current possessions / notable items, spells, feats, wounds:**  
-- Possessed *The Rituals of the Two-Headed Beast* (found on his person post-mortem)  
-- Used a white feather as a focus to cast *Fear* on members of the Ember Vanguard (Thorin, Grygum, Zalthir)  
-- Employed fear magic and ritual incantations to drive Derro acolytes and manipulate the ritual’s power  
-- Subject to Maximilian’s Earthen Grasp at time of death (restrained)  
+- Last known to be reading *The Rituals of the Two-Headed Beast*  
+- Used a white feather to cast *fear* on Thorin, Grygum, and Zalthir  
+- Subject to *Maximilian’s Earthen Grasp* at time of death (restrained)  
+- No other items or spells currently active  
 
 **Current assignment / role and key relationships:**  
-- Former leader of a Derro cult dedicated to elevating the Derro, destroying the Duergar, and serving Demogorgon  
-- Orchestrated the ritual to graft second heads onto Stone Giants as a sacrifice to Demogorgon  
-- Last seen directing the ritual with Aliinka and Uskvil (their current status unknown)  
-- Reported to no one; acted as autonomous high priest of his own cult  
+- Formerly the orchestrator of forbidden rituals to graft second heads onto Stone Giants in service to Demogorgon  
+- Led Derro apprentices in experiments aimed at the elevation of the Derro, destruction of the Duergar, and triumph of Demogorgon  
+- Reported to no one — absolute authority within the cult  
+- Last seen directing ritual chants and motivating Derro cultists; was the emotional and magical core of the operation  
+- Killed by Thorin; previously restrained by Maximilian’s Earthen Grasp and Daz’s magic  
 
 **Defining recent actions:**  
-- Led a ritual to transform Stone Giants into two-headed abominations, using fear magic and chaotic chants to maintain fervor  
-- Declared the city’s doom as inevitable and the curse as spreading  
-- Was restrained by Maximilian’s Earthen Grasp during the ritual’s climax  
-- Died after pleading, “No, the ritual cannot be undone!” — silenced by Thorin’s decisive blow  
+- Led a ritual to transform Stone Giants into two-headed monsters using forbidden rites  
+- Cast *fear* using a white feather against members of the Ember Vanguard  
+- Screamed doctrines of Derro supremacy and Demogorgon’s triumph while overseeing grafting and sacrifice  
+- Declared the ritual’s inevitability and the spread of the curse  
+- Pleaded, “No, the ritual cannot be undone!” moments before being slain by Thorin  
 
 **Revealed motivations or secrets:**  
-- Believed the Deepking’s reliance on the Empty-Scabbard Killers and the Keepers of the Flame’s distraction over the lost egg were opportunities to accelerate Gracklstugh’s corruption  
-- Saw the Obelisk and the egg as tools for a grand sacrificial ascension to Demogorgon  
-- Obsessed with ritual precision and the glorification of the Two-Headed Beast as a symbol of Demogorgon’s triumph  
+- Believed the destruction of the Duergar and elevation of the Derro were divine mandates from Demogorgon  
+- Saw sacrifice as essential to the “glory” of the Two-Headed Beast and the conquest of Gracklstugh  
+- Wrote to Pliinki prior to the ritual, confirming the plan to use the Obelisk and egg as instruments of sacrifice to Demogorgon  
 
 ## Uncertainty
-- The exact nature of his relationship with Aliinka and Uskvil at the moment of death is unconfirmed — they were last known as co-conspirators, but their presence or status during the final ritual is not stated.  
-- Whether the white feather used to cast *Fear* was a magical item or merely a focus is unspecified.  
-- The source of his fear magic (innate, ritual-based, or item-enhanced) is not clarified beyond its use.  
-- It is unclear if his belief in the “gift” of the Empty-Scabbard Killers was still actively guiding his actions at the time of death, or if it was a past rationale superseded by direct ritual work.
+- The exact timing of when Narrak was restrained by Daz’s magic versus Maximilian’s Earthen Grasp is ambiguous — both are mentioned in ch25 and ch26, but it is unclear if both effects were active simultaneously or sequentially.  
+- Whether Narrak’s white feather is still present on his person after death is not specified — only that he used it.  
+- The nature of his “madness” and whether it was supernatural or psychological is described but not quantified.  
+- It is unclear if he was the sole caster of the fear spell or if others in the cult amplified it — the text attributes the spell to him alone, but the ritual context implies collective magic.

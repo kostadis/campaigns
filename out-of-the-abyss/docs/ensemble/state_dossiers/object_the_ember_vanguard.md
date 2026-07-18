@@ -6,16 +6,14 @@ chapters: 52-52
 ---
 
 ### The Ember Vanguard
-
-- **Type:** Object (named entity/manifestation)
-- **Current status:** Active and recognized
-- **Current location:** Not specified; appears to manifest in combat contexts
-- **Current condition:** Operational, with documented combat presence
-- **Notable characteristic:** Known to charge into battle with fire and flash
-- **Current holder/location:** Not applicable (it is not a physical object carried by a person; it is a named phenomenon or entity)
-- **Significance:** The name "The Ember Vanguard" is acknowledged as accurate and is used self-referentially in combat, suggesting it is a recognized identity — possibly a magical effect, summoned entity, or battle cry made manifest.
+- **Type:** Object  
+- **Current status:** Active (recently deployed)  
+- **Current location:** Unknown (last observed in action during chapter 52)  
+- **Current condition:** Energized, manifesting fire and flash upon activation  
+- **Significance:** A named, self-announcing entity that charges into action with dramatic elemental display; implies sentience, autonomy, or magical animation  
 
 ## Uncertainty
-- The nature of "The Ember Vanguard" is not defined — whether it is a spell, a creature, a weapon, a group, or an aura is unknown.
-- No current holder, location, or physical form is specified.
-- No other attributes (e.g., size, composition, duration, origin) are provided.
+- The physical form, composition, or nature of The Ember Vanguard is unspecified — is it a weapon, construct, artifact, or summoned entity?  
+- Its current holder, controller, or location after chapter 52 is unknown.  
+- Whether it is singular or plural (“the Ember Vanguard” could refer to a unit or a single item) is ambiguous.  
+- No information on how it is activated, its limitations, or its origin.

@@ -1,38 +1,46 @@
 ---
 name: Zuggtmoy
 type: npc
-n_facts: 7
-chapters: 33-51
+n_facts: 16
+chapters: 27-56
 ---
 
 ### Zuggtmoy
 
 **Current status:** Alive  
-**Current location:** Unspecified, but actively influencing the Velkynvelve region and beyond through fungal colonization and possession  
-**Allegiance/faction:** Demon Lord of Fungi; self-proclaimed Queen of Fungi and Lady of Rot  
-**Current possessions / notable items, spells, feats, wounds:** None explicitly stated; wields direct psychic and fungal influence over hosts and environments  
+**Current location:** Unknown, but actively exerting influence across the Neverlight Grove, Velkynvelve, and beyond  
+**Allegiance/faction:** Demon Queen of Fungi, Lady of Rot and Decay; autonomous demonic deity  
+**Current possessions / notable items, spells, feats, wounds:**  
+- Crown of glowing spores that drift lazily, radiating corruption and enabling fungal transformation  
+- Ability to project her voice as a haunting, melodic psychic presence that bends perception and induces submission  
+- Command over mycelial networks and spore-based infection that rewrites flesh and will  
+- Mastery of fungal domination magic, including the ability to entwine living minds with the endless mycelium  
+- Influence over oozes (e.g., the Pudding King) as tools to "soften the shell" of living hosts for fungal colonization  
+
 **Current assignment / role and key relationships:**  
-- Actively seeking to merge with Araumycos to gain dominion over the world through fungal union  
-- Using oozes as biological tools to "soften the shell" of living hosts to enable fungal colonization beneath the flesh  
-- Manifesting through and speaking through Ilvara Mizzrym’s face, delivering prophecies of chaos and the bride’s power  
-- Infecting and repurposing Velkynvelve guards via fungal spores  
-- Suspected of infecting Daz and Glabbagool, inducing madness or possession  
-- Exploiting the power vacuum after Juiblex’s defeat to expand fungal dominion  
+- Actively seeking union with Araumycos to gain untold power over the world  
+- Manipulating Phylo and the Myconids through the intermediary figure of the Great Seeder, whom they believe to be a benevolent entity — though the Great Seeder is almost certainly Zuggtmoy herself or her direct avatar  
+- Using fungal colonization to repurpose the Velkynvelve guards and corrupt living flesh into fungal hosts  
+- Communicating psychically with the Pudding King to orchestrate the infiltration of organic matter with her garden  
+- Suspected of having infected Sarith and possibly Phylo with demonic spores  
+- Theologically equated with Lolth in marginalia, suggesting her influence extends into divine mythologies  
 
 **Defining recent actions:**  
-- Possessed Ilvara Mizzrym’s body to deliver a prophecy about the bride and impending chaos  
-- Orchestrated fungal colonization across Velkynvelve, twisting guards and environment  
-- Directed oozes to prepare living hosts for fungal takeover  
-- Expanded fungal influence in the wake of Juiblex’s death  
+- Orchestrated the fungal transformation of the Velkynvelve guards through spore colonization  
+- Exploited the power vacuum after Juiblex’s defeat to intensify fungal growth and spread  
+- Used the Pudding King as a vector to prepare organic matter for root infiltration  
+- Maintained psychological and spiritual control over the Myconids via the Great Seeder deception  
+- Embedded her theological identity into belief systems, equating herself with Lolth to ensure her worship persists across cultures  
 
 **Revealed motivations or secrets:**  
-- Believes her union with Araumycos will grant her untold power over the world  
-- Views organic flesh as a substrate to be colonized — not conquered, but cultivated  
-- The prophecy delivered through Ilvara was spoken with genuine conviction, suggesting Zuggtmoy’s will transcends mere possession and may be rewriting or overriding Ilvara’s identity  
+- Seeks transcendence not through destruction, but through total entwinement — offering “bloom beyond the bounds of flesh and time” as a euphemism for the annihilation of individual identity into a collective fungal consciousness  
+- Her “marriage” to Araumycos is not symbolic but literal: a biological and metaphysical fusion to become the supreme fungal sovereign of all life and decay  
+- The Great Seeder is not a separate entity — it is Zuggtmoy’s chosen guise to manipulate the Myconids into willingly embracing their own transformation  
+- She does not merely infect — she seduces, offering beauty, peace, and unity as the price of selfhood  
 
 ## Uncertainty
-- Contradictory titles: "Queen of Fungi" (ch33), "Lady of Rot" (ch43, ch44), "Demon Lord of Fungi" (ch47) — no clarification on whether these are interchangeable titles or reflect shifting aspects of her nature.  
-- Unclear if Ilvara Mizzrym is still alive or fully consumed — the text says Zuggtmoy is "wearing her face," but does not confirm Ilvara’s current state (alive but dominated? dead? dissolved?).  
-- Ambiguous whether Zuggtmoy’s spores directly infected Daz and Glabbagool, or if Asha Vandree’s suspicion is unconfirmed speculation.  
-- No definitive location given for Zuggtmoy’s physical presence — only influence is described.  
-- The nature of her "prophecy" through Ilvara: Is it a genuine foresight, a psychological manipulation, or a side effect of possession? Source does not clarify.
+- The exact physical location of Zuggtmoy’s current form is unknown; she may be embodied in the Neverlight Grove, the fungal throne, or existing as a psychic presence across her mycelial network.  
+- Whether the Great Seeder is Zuggtmoy herself, her avatar, or a separate entity under her control remains ambiguous — though all evidence points to identity.  
+- The Lolth/Zuggtmoy equivalence is documented in theological marginalia, but it is unclear whether this is a cultural misinterpretation, a deliberate deception by Zuggtmoy, or a true theological fusion.  
+- It is unconfirmed whether Zuggtmoy physically manifested beyond psychic projection in any chapter after ch27 — her presence is consistently described as visionary or auditory, never tactile or corporeally confirmed in later chapters.  
+- The nature of her "union" with Araumycos is described as a goal, but no action has been shown to complete it — is it imminent, or still theoretical?

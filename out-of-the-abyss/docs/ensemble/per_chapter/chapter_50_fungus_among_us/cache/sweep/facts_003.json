@@ -1,6 +1,20 @@
 [
   {
     "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is the son of the Ember Vanguard, flanked by a dead man's fungal corpse while the fight rages in all directions around him.",
+    "source_quote": "Thorin, son of the Ember Vanguard, flanked by a dead man's fungal corpse while the fight rages in all directions around him.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin adjusts his footing.",
+    "source_quote": "I adjust my footing.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
     "subject": "Grygum",
     "fact": "Grygum is grinding the Heart Fungus down with something that sounds like the word *Suleiman* and delivers twenty force damage per turn like a promise.",
     "source_quote": "Grygum is grinding the Heart Fungus down with something that sounds like the word *Suleiman* and delivers twenty force damage per turn like a promise.",
@@ -15,44 +29,30 @@
   },
   {
     "type": "npc",
-    "subject": "Jorlan",
-    "fact": "Jorlan is still in front of me, and Dawnbringer is still in my hand.",
-    "source_quote": "Jorlan is still in front of me, and Dawnbringer is still in my hand.",
+    "subject": "Ilvara",
+    "fact": "Ilvara is bleeding.",
+    "source_quote": "Ilvara is bleeding.",
     "quote_verified": true
   },
   {
-    "type": "object",
-    "subject": "mushroom icon",
-    "fact": "The mushroom is burning. Ilvara is bleeding. The math has changed.",
-    "source_quote": "The mushroom is burning. Ilvara is bleeding. The math has changed.",
+    "type": "location",
+    "subject": "Heart Fungus",
+    "fact": "The Heart Fungus is burning.",
+    "source_quote": "The mushroom is burning.",
     "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jorlan",
+    "fact": "Jorlan is still in front of me.",
+    "source_quote": "Jorlan is still in front of me.",
+    "quote_verified": false
   },
   {
     "type": "object",
     "subject": "Dawnbringer",
     "fact": "Dawnbringer is still in my hand.",
     "source_quote": "Dawnbringer is still in my hand.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "cavern",
-    "fact": "Behind me, deeper in the cavern, Grygum is grinding the Heart Fungus down with something that sounds like the word *Suleiman* and delivers twenty force damage per turn like a promise.",
-    "source_quote": "Behind me, deeper in the cavern, Grygum is grinding the Heart Fungus down with something that sounds like the word *Suleiman* and delivers twenty force damage per turn like a promise.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Fireball strike",
-    "fact": "Daz opens up with a Fireball shaped so precisely around his allies that it catches Ilvara and her precious mushroom icon in the center of it, 24 damage worth of fire finding her even through her save, and the icon smolders.",
-    "source_quote": "Daz opens up with a Fireball shaped so precisely around his allies that it catches Ilvara and her precious mushroom icon in the center of it, 24 damage worth of fire finding her even through her save, and the icon smolders.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "mushroom smoldering",
-    "fact": "The mushroom is burning. Ilvara is bleeding. The math has changed.",
-    "source_quote": "The mushroom is burning. Ilvara is bleeding. The math has changed.",
     "quote_verified": true
   }
 ]

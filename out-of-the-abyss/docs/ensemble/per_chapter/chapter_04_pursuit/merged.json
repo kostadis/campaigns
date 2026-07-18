@@ -1,0 +1,2165 @@
+[
+  {
+    "type": "date",
+    "subject": "6th day of the 2nd Tenday of Taraskh 1493",
+    "fact": "The date is explicitly noted as the 6th day of the 2nd Tenday of Taraskh 1493, marking the timeline of the group\u2019s movement through the Faerzress-laden cave and their continued evasion of the Drow.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "An hour later, Daz tells Zalthir, 'Did you notice that?'",
+    "source_quote": "An hour later,  Daz tells Zalthir, \u201cDid you notice that?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "An hour passes between two events in the session.",
+    "source_quote": "An hour later",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The date is the 6th day of the 2nd Tenday of Taraskh 1493.",
+    "source_quote": "### 6th day of the 2nd Tenday of Taraskh 1493",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 6th day of the 2nd Tenday of Taraskh 1493 DR.",
+    "source_quote": "6th day of the 2nd Tenday of Taraskh 1493",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "betting on food",
+    "fact": "Jim Jar proposes a bet that no one will find food because Zalthir insisted on running.",
+    "source_quote": "Jim Jar mutters, \u201cI was going to make a bet that I was going to find food, and you guys weren\u2019t. But the silent one,\u201d and he points at Zalthir,\u201d wanted us to run. So nobody is going to find food.\u201d He pauses, \u201cWanna bet?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Creature Attack and Death",
+    "fact": "A ghastly insect creature attacks the group, knocks out Grygum, and is targeted by crossbows and Thorin\u2019s sword. It exposes its flesh, is burned by Zalthir (ineffectively), bites Thorin (unsuccessfully), and is finally killed by Sarith and Buppido.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "creature bites Thorin",
+    "fact": "The enraged monster bites Thorin, but the dwarf\u2019s armor protects him.",
+    "source_quote": "The enraged monster bites Thorin, but the dwarf\u2019s armor protects him.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "creature exposes soft parts",
+    "fact": "The creature exposes its soft, fleshy parts to more bolts while trying to avoid getting hurt.",
+    "source_quote": "which, in its attempt to avoid gEttin g hurt, exposes its soft, fleshy parts to more bolts.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "creature grapples Sarith",
+    "fact": "The creature tries to grapple Sarith with its mandible and fails.",
+    "source_quote": "He then tries to grapple Sarith with his mandible and fails.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "creature killed",
+    "fact": "Buppido and Sarith kill the creature with their bolts.",
+    "source_quote": "Buppido and Sarith kill the creature with their bolts.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "creature twists away from fire",
+    "fact": "The beast sensed Zalthir\u2019s arrival and twisted away.",
+    "source_quote": "The beast sensed his arrival and twisted away.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "creature wraps around Grygum",
+    "fact": "The creature wraps its tentacle around Grygum, knocking him out.",
+    "source_quote": "So, the creature wraps its tentacle around Grygum, knocking him out.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "crossbow bolts hit creature",
+    "fact": "Sarith, Buppido, Topsy, Turvy, and Sarith shoot the creature with hand-held crossbows.",
+    "source_quote": "Sarith, Buppido, Topsy, Turvy, and Sarith shoot the creature with hand-held crossbows.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz thinks, 'We are being followed.'",
+    "source_quote": "Daz thinks, \u201cWe are being followed.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Drow arrive at stalagmites",
+    "fact": "The Drow scouts arrive at the stalagmites.",
+    "source_quote": "Soon, the Drow scouts arrive at the stalagmites.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Drow avoid cave drop",
+    "fact": "The Drow scouts barely avoid a sudden drop in the cave tunnels.",
+    "source_quote": "in their haste, barely avoid a sudden drop in the cave tunnels.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Drow Pursuit and Misdirection",
+    "fact": "Drow scouts pursue the group, hear their running, nearly fall into a drop, arrive at the stalagmites, hear a thump from Zalthir\u2019s fall, feel a tremor from Grygum\u2019s magic, and retreat, believing the prisoners are gone \u2014 unaware they are hidden.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "drow scout retreat",
+    "fact": "Nym, hearing a thump and feeling a tremor, assumes the cave is collapsing and leaves without evidence of the prisoners.",
+    "source_quote": "Nym draws his weapon. He looks around. Then, he feels a tremor. Worried that this cave will collapse and seeing no evidence of the prisoners, he turns to leave.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Drow scouts avoiding a drop",
+    "fact": "The Drow scouts barely avoid a sudden drop in the cave tunnels.",
+    "source_quote": "in their haste, barely avoid a sudden drop in the cave tunnels.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Drow scouts sprint",
+    "fact": "The pursuing Drow, hearing the running, start sprinting.",
+    "source_quote": "Meanwhile, the pursuing Drow, hearing the running, start sprinting",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Drow scouts sprinting",
+    "fact": "The pursuing Drow start sprinting in their haste.",
+    "source_quote": "the pursuing Drow, hearing the running, start sprinting",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "drow tunnel disagreement",
+    "fact": "Nym mutters, \u201cI told you it was the other tunnel,\u201d indicating internal conflict among the Drow scouts.",
+    "source_quote": "As they leave, Nym mutters, \u201cI told you it was the other tunnel.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Faerzress effect",
+    "fact": "The Faerzress, previously inert, now seems to act as a poison to Shuushar, though its only known magical power is to prevent teleportation.",
+    "source_quote": "Shuushar mutters, \u201cThat was odd. It was the first time I had felt so strange. The Faerzress was just a light, but now it seems to be a poison.\u201d Jim Jar mutters, \u201cThe Faerzress has never affected a living thing. Its only magical power is to prevent teleportation spells.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "group reaches hiding space",
+    "fact": "Thorin, Daz, Grygum, and the remaining prisoners run to the hiding space.",
+    "source_quote": "Thorin, Daz,  Grygum, and the remaining prisoners run to the hiding space.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "group running to hiding space",
+    "fact": "Thorin, Daz, Grygum, and the remaining prisoners run to the hiding space.",
+    "source_quote": "Thorin, Daz,  Grygum, and the remaining prisoners run to the hiding space.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "group's water shortage",
+    "fact": "The group has no water and must find some soon, or conditions will become unpleasant.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum finds tunnel",
+    "fact": "Grygum shouts, 'Is this what you are looking for?'",
+    "source_quote": "Grygum shouts, \u201cIs this what you are looking for?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum\u2019s guidance",
+    "fact": "Grygum identifies the correct tunnel, prompting Sathir to rush forward despite annoyance.",
+    "source_quote": "Grygum shouts, \u201cIs this what you are looking for?\u201d Sathir mutters, \u201cYes, I saw that.\u201d He looks annoyed, \u201cI didn\u2019t need your help. But it\u2019s good that you can help.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum\u2019s Thaumaturgy causing tremor",
+    "fact": "Grygum\u2019s Thaumaturgy was the source of the tremor Nym felt.",
+    "source_quote": "What Nym didn\u2019t know was that Grygum\u2019s Thaumaturgy was the source of the tremor.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum uses Thaumaturgy",
+    "fact": "Grygum\u2019s Thaumaturgy was the source of the tremor.",
+    "source_quote": "What Nym didn\u2019t know was that Grygum\u2019s Thaumaturgy was the source of the tremor.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Hiding at Stalagmites",
+    "fact": "Zalthir discovers a hiding space behind stalagmites and uses Stool\u2019s mind link to alert the group. Thorin, Daz, Grygum, and prisoners run to it. The Drow arrive, misinterpret the tremor, and leave, thinking the prisoners escaped.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "killing the centipede-like creature",
+    "fact": "Buppido and Sarith kill the creature with their bolts.",
+    "source_quote": "Buppido and Sarith kill the creature with their bolts.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "monk story reference",
+    "fact": "Korrh Erann was part of a group pursued for days by Drow; he chose to run and was the only survivor.",
+    "source_quote": "The monk, Korrh Erann, had been part of a group pursued for days. Some of their group hoped that killing the scouts would slow the Drow down. Korrh insisted that this was a dangerous gamble and chose to run. He was the only survivor.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Nym decides to leave",
+    "fact": "Nym turns to leave because he worries the cave will collapse and sees no evidence of the prisoners.",
+    "source_quote": "Worried that this cave will collapse and seeing no evidence of the prisoners, he turns to leave.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Nym feels tremor",
+    "fact": "Nym feels a tremor.",
+    "source_quote": "Then, he feels a tremor.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sarith shouting for rations",
+    "fact": "Sarith shouts, \u201cRations!\u201d",
+    "source_quote": "And then Sarith shouts, \u201cRations!\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sarith shouts for rations",
+    "fact": "Sarith shouts, 'Rations!'",
+    "source_quote": "Sarith shouts, \u201cRations!\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sathir rushes down tunnel",
+    "fact": "Sathir rushes down towards the tunnel that Grygum saw.",
+    "source_quote": "And then rushes down towards the tunnel that Gyrgum saw.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sathir suggests covering trail",
+    "fact": "Sathir suggests, 'Or we can keep going slowly and have someone cover our trail.'",
+    "source_quote": "Or we can keep going slowly and have someone cover our trail.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sathir suggests distancing",
+    "fact": "Sathir says, 'We must put some distance between us and them.'",
+    "source_quote": "We must put some distance between us and them.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Stool jumps on Thorin's back",
+    "fact": "Stool jumps on and releases his rapport spores.",
+    "source_quote": "Stool jumps on and releases his rapport spores.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Stool\u2019s rapport spores",
+    "fact": "Stool releases rapport spores, enabling mind-link communication with the group.",
+    "source_quote": "Stool jumps on and releases his rapport spores. ... Using the mind link created by Stool, he lets the group know.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thaumaturgy Tremor",
+    "fact": "Grygum unknowingly creates a tremor using Thaumaturgy while hidden. The Drow interpret it as a cave collapse, prompting them to retreat. This saves the group from discovery.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin carries Stool",
+    "fact": "Thorin shouts, 'Get on my back!'",
+    "source_quote": "Thorin shouts, \u201cGet on my back!\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin cuts creature",
+    "fact": "Thorin strikes with his short sword, cutting into the carapace.",
+    "source_quote": "Thorin strikes with his short sword, cutting into the carapace.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin offering to carry Stool",
+    "fact": "Thorin shouts, \u201cGet on my back!\u201d",
+    "source_quote": "Thorin shouts, \u201cGet on my back!\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin orders twins to save Eldeth and Jimjar",
+    "fact": "Thorin shouts to the twins, 'Save Eldeth and Jimjar.'",
+    "source_quote": "Thorin shouts to the twins, \u201cSave Eldeth and Jimjar.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "track covering strategy",
+    "fact": "The dwarf was taught to cover tracks in the Underdark; Eldeth is assigned to hide the group\u2019s trail.",
+    "source_quote": "The dwarf whispers, \u201cI was taught to cover our tracks in the Underdark.\u201d ... Eldeth, it\u2019s up to you to hide us.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "Sloobludop is approximately eight days away via the Darklake.",
+    "source_quote": "the town of Sloopdopblop is just eight days away",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "tremor source",
+    "fact": "Grygum\u2019s Thaumaturgy caused the tremor that misled Nym into thinking the cave was collapsing.",
+    "source_quote": "What Nym didn\u2019t know was that Grygum\u2019s Thaumaturgy was the source of the tremor.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "tunnel navigation philosophy",
+    "fact": "The Underdark is not flat; tunnels twist, turn, and change; enemies can appear far away or suddenly in front; movement is key, and shortcuts must be avoided.",
+    "source_quote": "Sarith mutters, \u201cOverbriters that cannot fly are the easiest prey in the Underdark.\u201d He then explains, \u201cThe Underdark is not flat. And the tunnels don\u2019t move in a straight line. They twist, and they turn. Worse, the tunnel system is constantly changing. And so an enemy can appear far away, only to appear in front of you. What\u2019s important is that we move. And we hope no tunnel gives them a shortcut to find us.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "water scarcity warning",
+    "fact": "Sathir warns the group they have no water and must go slow tomorrow to find some.",
+    "source_quote": "Sathir explains, \u201cWe did well to put some distance. But we have no water. And if we don\u2019t find some soon, things will get unpleasant. Tomorrow, we must go slow.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir burns creature",
+    "fact": "Zalthir breathes fire at the creature and runs behind Thorin and Grygum.",
+    "source_quote": "he breathes fire and runs behind Thorin and Grygum.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir falling from hiding",
+    "fact": "Zalthir has fallen from his hiding place behind the stalagmites.",
+    "source_quote": "Zalthir has fallen from his hiding place.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir falls from hiding",
+    "fact": "Zalthir has fallen from his hiding place.",
+    "source_quote": "They hear a large thump. Zalthir has fallen from his hiding place.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir moves rocks",
+    "fact": "Zalthir braces against some rocks and shoves them out of the way.",
+    "source_quote": "He braces against some rocks and shoves them out of the way.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir running ahead",
+    "fact": "Zalthir dashes off ahead using his monk training to speed ahead.",
+    "source_quote": "Zalthir dashes off ahead, using his monk training to speed ahead.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's fire fails",
+    "fact": "Zalthir tries to burn the creature again, but his fire doesn\u2019t perform.",
+    "source_quote": "Zalthir tries to burn the creature again, but his fire doesn\u2019t perform.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir shouting to run",
+    "fact": "Zalthir shouts, \u201cWe have to run!\u201d",
+    "source_quote": "Zalthir, remembering the story, shouts, \u201cWe have to run!\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir shouts to run",
+    "fact": "Zalthir, remembering the story, shouts, 'We have to run!'",
+    "source_quote": "Zalthir, remembering the story, shouts, \u201cWe have to run!\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir uses mind link",
+    "fact": "Using the mind link created by Stool, Zalthir lets the group know about the hiding space.",
+    "source_quote": "Using the mind link created by Stool, he lets the group know.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir wakes Daz and Grygum",
+    "fact": "Zalthir wakes up Daz and Grygum.",
+    "source_quote": "Zalthir wakes up Daz and Grygum.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir waking Daz and Grygum",
+    "fact": "Zalthir wakes up Daz and Grygum.",
+    "source_quote": "Zalthir wakes up Daz and Grygum.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Drow of Velkynvelve",
+    "fact": "The Drow of Velkynvelve are a hostile faction known for their scouts and pursuit tactics. Zalthir recognizes their gait and confirms they are being followed by their scouts. They operate with precision, use tunnel systems effectively, and are feared for their persistence.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "cave with Faerzress",
+    "fact": "The group rushes through a cave with plenty of Faerzress.",
+    "source_quote": "As they run through the Underdark, they rush through a cave with plenty of *Faerzress*.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "space behind stalagmites",
+    "fact": "Zalthir notices a space behind some stalagmites that the group can hide behind.",
+    "source_quote": "he notices a space behind some stalagmites that they could hide behind.",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "location",
+    "subject": "tunnel",
+    "fact": "The tunnel is the destination Sathir rushes toward, observed earlier by Gyrgum.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "tunnel selection",
+    "fact": "Zalthir chooses the tunnel veering left as a hiding spot.",
+    "source_quote": "He sees a tunnel and chooses the one veering left.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "tunnel veering left",
+    "fact": "Zalthir chooses the tunnel veering left as a path to escape.",
+    "source_quote": "He sees a tunnel and chooses the one veering left.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "tunnel veering left",
+    "fact": "Zalthir sees a tunnel and chooses the one veering left.",
+    "source_quote": "He sees a tunnel and chooses the one veering left.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Underdark Tunnels",
+    "fact": "The Underdark tunnels are a complex, shifting labyrinth that twists and turns unpredictably. They change over time, allow enemies to appear suddenly, and contain hidden paths, drops, and stalagmite formations. The group uses these features to evade pursuit.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
+    "source_quote": "Drow outpost was 100' in the sky",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "centipede-like creature",
+    "fact": "A massive, ghastly insect with bulbous shape and clicking legs leaves behind exhumed remains.",
+    "source_quote": "In the darkness, something shifts, legs clicking. Zalthir sees the bulbous shape of a massive, ghastly insect leaving behind a meal of exhumed remains.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "centipede-like creature",
+    "fact": "The centipede-like creature attempts to avoid getting hurt by exposing its soft, fleshy parts to bolts.",
+    "source_quote": "the beast, which, in its attempt to avoid gEttin g hurt, exposes its soft, fleshy parts to more bolts.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "centipede-like creature",
+    "fact": "The centipede-like creature bites Thorin.",
+    "source_quote": "The enraged monster bites Thorin,",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "centipede-like creature",
+    "fact": "The centipede-like creature clicks its mandibles and probes with feather-like feelers.",
+    "source_quote": "The thing clicks its mandibles, feather-like feelers probing the darkness for its next meal.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "centipede-like creature",
+    "fact": "The centipede-like creature screeches and emits a smell of rot and loam.",
+    "source_quote": "It screeches, and the smell of rot and loam overwhelms him.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "centipede-like creature",
+    "fact": "The centipede-like creature tries to grapple Sarith with its mandible and fails.",
+    "source_quote": "He then tries to grapple Sarith with his mandible and fails.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "centipede-like creature",
+    "fact": "The centipede-like creature wraps its entire staggering length around Zalthir.",
+    "source_quote": "Before the centipede-like creature wraps its entire, staggering length around him,",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "centipede-like creature",
+    "fact": "The centipede-like creature wraps its tentacle around Grygum, knocking him out.",
+    "source_quote": "So, the creature wraps its tentacle around Grygum, knocking him out.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
+    "source_quote": "four chasme and two vrock",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "drow scout identification",
+    "fact": "The drow scout is Nym, from Velkynvelve, whose gait is familiar to Daz.",
+    "source_quote": "Drow. Zalthir remembers the particular gait of one of the Drow soldiers, Nym",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Ghastly Insect Creature",
+    "fact": "A massive, centipede-like monstrous insect with feather-like feelers and mandibles, it feeds on exhumed remains. It attacks Grygum, is shot multiple times, has its carapace breached by Thorin, and is ultimately killed by Sarith and Buppido\u2019s bolts. It sensed Zalthir\u2019s fire and twisted away.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "giant centipede-like creature",
+    "fact": "A massive, ghastly insect with bulbous shape and clicking legs leaves behind a meal of exhumed remains.",
+    "source_quote": "In the darkness, something shifts, legs clicking. Zalthir sees the bulbous shape of a massive, ghastly insect leaving behind a meal of exhumed remains.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "giant centipede-like creature",
+    "fact": "The creature clicks its mandibles and probes the darkness with feather-like feelers.",
+    "source_quote": "The thing clicks its mandibles, feather-like feelers probing the darkness for its next meal.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "giant centipede-like creature",
+    "fact": "The creature screeches and emits a smell of rot and loam.",
+    "source_quote": "It screeches, and the smell of rot and loam overwhelms him.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido is a fervent believer in the divine plan who shouts that Sarith was meant to rescue him. He shoots the creature with a crossbow and helps kill it with Sarith. He is one of the surviving prisoners.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido shouts that the divine plan said Sarith would rescue him.",
+    "source_quote": "Buppido shouts, \u201cThe divine plan said you would rescue me, Sarith!\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "sweep"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido shouts, 'The divine plan said you would rescue me, Sarith!'",
+    "source_quote": "Buppido shouts, \u201cThe divine plan said you would rescue me, Sarith!\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz hears the careful footsteps of a drow scout, a sound he is very familiar with.",
+    "source_quote": "He hears the careful footsteps of a drow scout, a sound he is very familiar with.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz hears the careful footsteps of a drow scout.",
+    "source_quote": "He hears the careful footsteps of a drow scout, a sound he is very familiar with.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz identifies the footsteps as Drow.",
+    "source_quote": "He turns to Zalthir, \u201cDrow.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is an injured and unconscious healer who is revived by Zalthir. After hearing Thorin\u2019s decision, he mutters that their actions might inspire companions to help. He later asks Zalthir if he noticed something, confirming their awareness of being followed.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is injured and unconscious but alive.",
+    "source_quote": "Daz is injured and unconcious but alive.",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz mutters that Thorin\u2019s decision may cause traveling companions to choose to help.",
+    "source_quote": "When Daz hears about Thorin\u2019s decision, he mutters, \u201cGood decision. Maybe, just maybe, our traveling companions will see our actions and choose to help.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz mutters, 'Good decision. Maybe, just maybe, our traveling companions will see our actions and choose to help.'",
+    "source_quote": "Daz mutters, \u201cGood decision. Maybe, just maybe, our traveling companions will see our actions and choose to help.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "interiority",
+      "large"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz tells Zalthir an hour later, \u201cDid you notice that?\u201d",
+    "source_quote": "An hour later,  Daz tells Zalthir, \u201cDid you notice that?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz tells Zalthir, 'Drow.'",
+    "source_quote": "He turns to Zalthir, \u201cDrow.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz thinks they are being followed and hears the careful footsteps of a drow scout.",
+    "source_quote": "Daz thinks, \u201cWe are being followed.\u201d He hears the careful footsteps of a drow scout, a sound he is very familiar with.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz thinks, 'We are being followed.'",
+    "source_quote": "Daz thinks, \u201cWe are being followed.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz whispers, 'I was taught to cover our tracks in the Underdark.'",
+    "source_quote": "The dwarf whispers, \u201cI was taught to cover our tracks in the Underdark.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Drow soldier",
+    "fact": "The Drow soldier nods in agreement that the Underdark is like a maze.",
+    "source_quote": "The Drow soldier nods.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Drow soldier",
+    "fact": "The Drow soldier nods in response to Grygum\u2019s thought.",
+    "source_quote": "The Drow soldier nods.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth is a prisoner referenced by Thorin\u2019s shout to 'save Eldeth and Jimjar.' No further actions are described, but their survival is implied as the group reaches the hiding spot.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth is tasked by Sathir with hiding the group, indicating a role of responsibility for concealment.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Sathir tells Eldeth, 'It\u2019s up to you to hide us.'",
+    "source_quote": "Eldeth, it\u2019s up to you to hide us.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum asks where the drow are \u2014 ahead or behind.",
+    "source_quote": "Grygum asks, \u201cWhere are the drow? Are they ahead of us? Behind us?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum asks, 'Where are the drow? Are they ahead of us? Behind us?'",
+    "source_quote": "Grygum asks, \u201cWhere are the drow? Are they ahead of us? Behind us?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a healer who is knocked out by the creature\u2019s tentacle, later recovers, and uses Thaumaturgy to create a tremor that fools the Drow. He identifies a tunnel path for the group and asks questions about Drow positioning, comparing the Underdark to a maze.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum tells the frightened Myconid child, 'Go help Shuushar.'",
+    "source_quote": "Gyrgum tells the frightened Myconid child, \u201cGo help Shuushar.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum thinks the Underdark is like a maze.",
+    "source_quote": "Grygum thinks, \u201cLike a Maze?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum thinks, 'Like a Maze?'",
+    "source_quote": "Grygum thinks, \u201cLike a Maze?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "large"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Jim Jar",
+    "fact": "Jim Jar asks, 'Wanna bet?'",
+    "source_quote": "Wanna bet?",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jim Jar",
+    "fact": "Jim Jar is a prisoner who makes bets about food, points out Zalthir\u2019s leadership in fleeing, and comments on the Underdark\u2019s unpredictability. He also notes that Faerzress has never affected living things, contradicting Shuushar\u2019s experience.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jim Jar",
+    "fact": "Jim Jar mutters that the Faerzress has never affected a living thing and only prevents teleportation spells.",
+    "source_quote": "Jim Jar mutters, \u201cThat\u2019s what happens with Kuo-Toans, who think they aren\u2019t mad. They are insane, but their madness seems reasonable. The Faerzress has never affected a living thing. Its only magical power is to prevent teleportation spells.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jim Jar",
+    "fact": "Jim Jar mutters, 'I was going to make a bet that I was going to find food, and you guys weren\u2019t. But the silent one,' and he points at Zalthir, 'wanted us to run. So nobody is going to find food.'",
+    "source_quote": "Jim Jar mutters, \u201cI was going to make a bet that I was going to find food, and you guys weren\u2019t. But the silent one,\u201d and he points at Zalthir,\u201d wanted us to run. So nobody is going to find food.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jim Jar",
+    "fact": "Jim Jar mutters, 'I was going to make a bet that I was going to find food, and you guys weren\u2019t.'",
+    "source_quote": "Jim Jar mutters, \u201cI was going to make a bet that I was going to find food, and you guys weren\u2019t.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jim Jar",
+    "fact": "Jim Jar mutters, 'That\u2019s what happens with Kuo-Toans, who think they aren\u2019t mad. They are insane, but their madness seems reasonable.'",
+    "source_quote": "Jim Jar mutters, \u201cThat\u2019s what happens with Kuo-Toans, who think they aren\u2019t mad. They are insane, but their madness seems reasonable.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jim Jar",
+    "fact": "Jim Jar mutters, 'Wanna bet?'",
+    "source_quote": "He pauses, \u201cWanna bet?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jim Jar",
+    "fact": "Jim Jar points at Zalthir and says, 'But the silent one... wanted us to run.'",
+    "source_quote": "But the silent one,\u201d and he points at Zalthir,\u201d wanted us to run.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jim Jar",
+    "fact": "Jim Jar says, 'So nobody is going to find food.'",
+    "source_quote": "So nobody is going to find food.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jim Jar",
+    "fact": "Jim Jar says, 'The Faerzress has never affected a living thing. Its only magical power is to prevent teleportation spells.'",
+    "source_quote": "The *Faerzress* has never affected a living thing. Its only magical power is to prevent teleportation spells.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Korrh Erann",
+    "fact": "Korrh Erann insisted that killing Drow scouts was a dangerous gamble and chose to run.",
+    "source_quote": "Korrh insisted that this was a dangerous gamble and chose to run.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Korrh Erann",
+    "fact": "Korrh Erann was a monk of Zalthir\u2019s order who was pursued by Drow in the Underdark.",
+    "source_quote": "Zalthir remembers reading the story of one of the monks of his order who was trapped in the Underdark and pursued by Drow. The monk, Korrh Erann, had been part of a group pursued for days.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Korrh Erann",
+    "fact": "Korrh Erann was a monk of Zalthir\u2019s order who was pursued by Drow in the Underdark. He rejected the idea of fighting scouts, insisted on fleeing, and was the sole survivor of his group \u2014 his story now informs Zalthir\u2019s urgency to run.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Korrh Erann",
+    "fact": "Korrh Erann was the only survivor of his group pursued by Drow.",
+    "source_quote": "He was the only survivor.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Myconid Child",
+    "fact": "A Myconid child is instructed by Gyrgum to 'go help Shuushar.' The child is frightened and likely represents the vulnerable members of the group\u2019s entourage, possibly a younger Myconid or a symbolic figure.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Nym",
+    "fact": "Nym draws his weapon upon seeing Zalthir fall.",
+    "source_quote": "Nym draws his weapon.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Nym",
+    "fact": "Nym draws his weapon.",
+    "source_quote": "Nym draws his weapon.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Nym",
+    "fact": "Nym feels a tremor and worries the cave will collapse.",
+    "source_quote": "Then, he feels a tremor. Worried that this cave will collapse",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Nym",
+    "fact": "Nym is a Drow scout familiar to Zalthir from Velkynvelve. He leads the pursuit, misidentifies the tunnel the prisoners took, feels a tremor from Grygum\u2019s magic, and concludes the prisoners are gone. He mutters that he warned about the other tunnel.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Nym",
+    "fact": "Nym is a Drow soldier from Velkynvelve.",
+    "source_quote": "Zalthir remembers the particular gait of one of the Drow soldiers, Nym, and mutters, \u201cIt\u2019s the Drow from Velkynvelve. These are their scouts.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Nym",
+    "fact": "Nym mutters, 'I told you it was the other tunnel.'",
+    "source_quote": "As they leave, Nym mutters, \u201cI told you it was the other tunnel.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "large",
+      "sweep"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Nym",
+    "fact": "Nym turns to leave because he sees no evidence of the prisoners.",
+    "source_quote": "and seeing no evidence of the prisoners, he turns to leave.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith explains that the Underdark is not flat and tunnels twist, turn, and change.",
+    "source_quote": "He then explains, \u201cThe Underdark is not flat. And the tunnels don\u2019t move in a straight line. They twist, and they turn. Worse, the tunnel system is constantly changing.",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith explains that the Underdark is not flat, tunnels twist and turn, and the system is constantly changing.",
+    "source_quote": "He then explains, \u201cThe Underdark is not flat. And the tunnels don\u2019t move in a straight line. They twist, and they turn. Worse, the tunnel system is constantly changing. And so an enemy can appear far away, only to appear in front of you. What\u2019s important is that we move. And we hope no tunnel gives them a shortcut to find us.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith is a guide and healer who is believed to be essential to the group's survival. He is targeted by the creature\u2019s attack, shoots it with a crossbow, and later shouts 'Rations!' after its death. He also whispers that Ilvara has found them and suggests covering their trail.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith is not under the rocks, causing Zalthir to think they have not lost the guide.",
+    "source_quote": "Zalthir notices that Sarith is not under the rocks and thinks, \u201cWe have not lost the guide.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith mutters that overbriters that cannot fly are the easiest prey in the Underdark.",
+    "source_quote": "Sarith mutters, \u201cOverbriters that cannot fly are the easiest prey in the Underdark.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "large",
+      "sweep"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith says an enemy can appear far away then suddenly in front of you.",
+    "source_quote": "And so an enemy can appear far away, only to appear in front of you.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith says what\u2019s important is to move and hope no tunnel gives the enemy a shortcut.",
+    "source_quote": "What\u2019s important is that we move. And we hope no tunnel gives them a shortcut to find us.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith says, 'What\u2019s important is that we move. And we hope no tunnel gives them a shortcut to find us.'",
+    "source_quote": "What\u2019s important is that we move. And we hope no tunnel gives them a shortcut to find us.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sathir",
+    "fact": "Sathir explains that they did well to put some distance but have no water and must go slow tomorrow.",
+    "source_quote": "As the day ends, Sathir explains, \u201cWe did well to put some distance. But we have no water. And if we don\u2019t find some soon, things will get unpleasant. Tomorrow, we must go slow. Eldeth, it\u2019s up to you to hide us.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sathir",
+    "fact": "Sathir explains, 'We did well to put some distance.'",
+    "source_quote": "Sathir explains, \u201cWe did well to put some distance.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sathir",
+    "fact": "Sathir is annoyed and insists he didn't need help, but acknowledges the value of being able to assist; he rushes toward the tunnel that Gyrgum saw.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sathir",
+    "fact": "Sathir is annoyed and says, 'I didn\u2019t need your help. But it\u2019s good that you can help.'",
+    "source_quote": "He looks annoyed, \u201cI didn\u2019t need your help. But it\u2019s good that you can help.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "large"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Sathir",
+    "fact": "Sathir mutters about the need to find a path through the cave to the next tunnel.",
+    "source_quote": "Sathir mutters about the need to find a path through the cave to the next tunnel",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sathir",
+    "fact": "Sathir mutters, 'Yes, I saw that.'",
+    "source_quote": "Sathir mutters, \u201cYes, I saw that.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "large"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Sathir",
+    "fact": "Sathir says they must put distance between themselves and Ilvara or have someone cover their trail.",
+    "source_quote": "We must put some distance between us and them. Or we can keep going slowly and have someone cover our trail.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sathir",
+    "fact": "Sathir says, 'But we have no water.'",
+    "source_quote": "But we have no water.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sathir",
+    "fact": "Sathir says, 'If we don\u2019t find some soon, things will get unpleasant.'",
+    "source_quote": "And if we don\u2019t find some soon, things will get unpleasant.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sathir",
+    "fact": "Sathir says, 'Tomorrow, we must go slow.'",
+    "source_quote": "Tomorrow, we must go slow.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sathir",
+    "fact": "Sathir whispers that Ilvara has found them and caught up with them.",
+    "source_quote": "Sathir whispers in their skulls, \u201cIlvara has found us and, worse, has caught up with us.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sathir",
+    "fact": "Sathir whispers that Ilvara has found them and they must put distance between them or have someone cover their trail.",
+    "source_quote": "Sathir whispers in their skulls, \u201cIlvara has found us and, worse, has caught up with us. We must put some distance between us and them. Or we can keep going slowly and have someone cover our trail.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sathir",
+    "fact": "Sathir whispers, 'Ilvara has found us and, worse, has caught up with us.'",
+    "source_quote": "Sathir whispers in their skulls, \u201cIlvara has found us and, worse, has caught up with us.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Shuushar",
+    "fact": "Shuushar is a Myconid child who is instructed by Gyrgum to help Shuushar (likely a self-reference or error). He becomes uncomfortable in the presence of Faerzress, sensing it as poison for the first time.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Shuushar",
+    "fact": "Shuushar mutters that the Faerzress was just a light but now seems to be a poison.",
+    "source_quote": "Shuushar mutters, \u201cThat was odd. It was the first time I had felt so strange. The Faerzress was just a light, but now it seems to be a poison.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Shuushar",
+    "fact": "Shuushar mutters, 'That was odd. It was the first time I had felt so strange. The Faerzress was just a light, but now it seems to be a poison.'",
+    "source_quote": "Shuushar mutters, \u201cThat was odd. It was the first time I had felt so strange. The *Faerzress* was just a light, but now it seems to be a poison.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Shuushar",
+    "fact": "Shuushar seems uncomfortable as they run through the Faerzress.",
+    "source_quote": "Shuushar seems uncomfortable as they run through the odd glowing substance.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Stool",
+    "fact": "Stool asks if releasing rapport spores was a good idea.",
+    "source_quote": "A few moments later, he asks everyone, \u201cWas that a good idea? I think it was a good idea.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Stool",
+    "fact": "Stool asks, 'Was that a good idea? I think it was a good idea.'",
+    "source_quote": "he asks everyone, \u201cWas that a good idea? I think it was a good idea.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Stool",
+    "fact": "Stool is a slow-moving Myconid who releases rapport spores to create a mind link with the group. He is carried by Thorin, asks if his idea was good, and expresses joy at being liked. His spores enable Zalthir to communicate the hiding spot to the group.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Stool",
+    "fact": "Stool is relieved to see that Grygum is alive.",
+    "source_quote": "Stool is relieved to see that Gyrgum is alive.",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "large"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Stool",
+    "fact": "Stool jumps on Thorin\u2019s back and releases his rapport spores.",
+    "source_quote": "Stool jumps on and releases his rapport spores.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Stool",
+    "fact": "Stool says he is glad everyone liked his good idea.",
+    "source_quote": "Before anyone can respond, he says, \u201cI\u2019m really glad you liked my good idea!\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Stool",
+    "fact": "Stool says, 'I\u2019m really glad you liked my good idea!'",
+    "source_quote": "Before anyone can respond, he says, \u201cI\u2019m really glad you liked my good idea!\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "The dwarf whispers, 'I was taught to cover our tracks in the Underdark.'",
+    "source_quote": "The dwarf whispers, \u201cI was taught to cover our tracks in the Underdark.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a dwarf warrior who carries Stool on his back, strikes the creature with his short sword, and later shouts to save Eldeth and Jimjar. He was bitten by the creature but protected by his armor, and he claims to have been taught to cover tracks in the Underdark.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin reaches for Grygum, prompting Zalthir to think they need the healer.",
+    "source_quote": "He sees Thorin reach for Grygum and thinks, \u201cWe need the healer.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin whispers that he was taught to cover tracks in the Underdark.",
+    "source_quote": "The dwarf whispers, \u201cI was taught to cover our tracks in the Underdark.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir dashes off ahead using his monk training to speed ahead.",
+    "source_quote": "Zalthir dashes off ahead, using his monk training to speed ahead.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a monk who uses speed and perception to lead the group, remembers the story of Korrh Erann, and urges the party to flee from Drow scouts. He later discovers a hiding spot behind stalagmites and uses Stool's mind link to communicate with the group.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir mutters, 'It\u2019s the Drow from Velkynvelve. These are their scouts.'",
+    "source_quote": "Zalthir remembers the particular gait of one of the Drow soldiers, Nym, and mutters, \u201cIt\u2019s the Drow from Velkynvelve. These are their scouts.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir notices that Sarith is not under the rocks and thinks, 'We have not lost the guide.'",
+    "source_quote": "Zalthir notices that Sarith is not under the rocks and thinks, \u201cWe have not lost the guide.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir remembers the particular gait of one of the Drow soldiers, Nym.",
+    "source_quote": "Zalthir remembers the particular gait of one of the Drow soldiers, Nym, and mutters, \u201cIt\u2019s the Drow from Velkynvelve. These are their scouts.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "large",
+      "sweep"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir remembers the story of the monk Korrh Erann who was pursued by Drow in the Underdark.",
+    "source_quote": "He remembers reading the story of one of the monks of his order who was trapped in the Underdark and pursued by Drow. The monk, Korrh Erann, had been part of a group pursued for days. Some of their group hoped that killing the scouts would slow the Drow down. Korrh insisted that this was a dangerous gamble and chose to run. He was the only survivor.",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "large"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir sees Thorin reach for Grygum and thinks, 'We need the healer.'",
+    "source_quote": "He sees Thorin reach for Grygum and thinks, \u201cWe need the healer.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir shouts, 'We have to run!'",
+    "source_quote": "Zalthir, remembering the story, shouts, \u201cWe have to run!\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir tells Daz, 'If I don\u2019t get him out of there, he will die.'",
+    "source_quote": "He looks at Daz, \u201cIf I don\u2019t get him  out of there, he will die.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "large"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir thinks, 'We have not lost the guide.'",
+    "source_quote": "Zalthir notices that Sarith is not under the rocks and thinks, \u201cWe have not lost the guide.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir thinks, 'We need the healer.'",
+    "source_quote": "He sees Thorin reach for Grygum and thinks, \u201cWe need the healer.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Faerzress",
+    "fact": "Faerzress is a glowing, magical substance in the Underdark that prevents teleportation spells. Shuushar perceives it as poison for the first time, while Jim Jar insists it has never affected living things \u2014 creating a contradiction in its nature.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "rations call",
+    "fact": "Sarith shouts, \u201cRations!\u201d after the creature\u2019s defeat.",
+    "source_quote": "Sarith shouts, \u201cRations!\u201d",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Ilvara\u2019s Arrival",
+    "fact": "Sarith whispers that Ilvara has found and caught up with the group. The identity of Ilvara is unknown, but the threat is urgent. The group must either flee or cover their trail \u2014 creating a strategic dilemma.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "next day's slow movement",
+    "fact": "Sathir declares that tomorrow the group must move slowly, implying a planned change in travel pace.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Sathir's path through the cave",
+    "fact": "Sathir is about to give up on finding a path through the cave to the next tunnel.",
+    "source_quote": "Sathir mutters about the need to find a path through the cave to the next tunnel and is about to give up when Grygum shouts, \u201cIs this what you are looking for?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Stool's rapport spores",
+    "fact": "Stool wonders if using his rapport spores was a good idea and believes it was.",
+    "source_quote": "He asks everyone, \u201cWas that a good idea? I think it was a good idea.\u201d Before anyone can respond, he says, \u201cI\u2019m really glad you liked my good idea!\u201d",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Bet on Food",
+    "fact": "Jim Jar\u2019s muttering about a bet on food reveals the group\u2019s deteriorating morale and resource scarcity. The bet is abandoned because Zalthir\u2019s decision to flee overrides all other priorities \u2014 food is no longer the focus.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Drow Scout\u2019s Gait",
+    "fact": "Zalthir recognizes Nym\u2019s gait from Velkynvelve, confirming the Drow are not random scouts but a known, organized force. This personal connection raises the stakes and implies a deeper history between Zalthir and the Drow.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Fate of the Monks",
+    "fact": "Zalthir recalls the story of Korrh Erann, a monk of his order who was pursued by Drow in the Underdark. The group was divided: some wanted to kill scouts, Korrh insisted on fleeing. He was the only survivor \u2014 a cautionary tale the group now echoes.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Nature of Faerzress",
+    "fact": "A contradiction emerges: Shuushar feels Faerzress as poison, while Jim Jar insists it has never affected living things \u2014 only blocking teleportation. This suggests an unknown change in Faerzress\u2019s properties, or a new magical influence in the Underdark.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Silent One\u2019s Leadership",
+    "fact": "Jim Jar refers to Zalthir as 'the silent one' who wanted them to run. This establishes Zalthir\u2019s quiet authority and foreshadows that his instincts \u2014 shaped by monk training and Korrh\u2019s story \u2014 may be the key to survival.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Unanswered Question",
+    "fact": "Daz asks Zalthir, 'Did you notice that?' Zalthir nods. The nature of what they noticed is never stated \u2014 leaving open the possibility of an unseen follower, a magical trace, or a shift in the environment \u2014 a lingering mystery.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  }
+]

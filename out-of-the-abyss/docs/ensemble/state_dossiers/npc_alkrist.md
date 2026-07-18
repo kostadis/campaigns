@@ -1,38 +1,47 @@
 ---
 name: Alkrist
 type: npc
-n_facts: 36
+n_facts: 26
 chapters: 58-61
 ---
 
 ### Alkrist
 
 **Current status:** Deceased  
-**Current location:** Imprisoned at time of death; body held in secure confinement (location unspecified post-mortem)  
-**Allegiance/faction:** Former Avowed; formerly subordinate to Janussi  
-**Current possessions / notable items:** Cleaver (evidence seized), sealed glass jars of blistered rats (evidence), spellbook on toxicology (evidence), bookmarked copy of *1001 Tashalian Nights* (evidence)  
-**Notable spells/feats:** Knowledge of Midnight Tears method (from *1001 Tashalian Nights*), likely expertise in toxicology and poison application  
-**Current assignment / role:** Former gate warden; posthumously identified as the perpetrator of Janussi’s murder  
+**Current location:** Presumed held in prison prior to death; body unlocated  
+**Allegiance/faction:** Former bronze dragonborn gate warden; affiliated with the Avowed Order; implicated in conspiracy tied to A'lai and Bookwyrm  
+**Current possessions / notable items, spells, feats, wounds:**  
+- Possessed a copy of *1001 Tashalian Nights* with a bookmark on the tale of a commander poisoned by a magic horn coated in Midnight Tears  
+- Carried sealed glass jars of dead rats exhibiting blistered, pustuled skin (indicative of advanced poison exposure)  
+- Used a cleaver to kill Janussi (per confession under truth spell)  
+- Hand-washed in a basin of water after burning the label of a Midnight Tears vial  
+
+**Current assignment / role and key relationships:**  
+- Former gate warden, later a civilian attendee at courtly events  
+- Last known to be under interrogation by Kalan Strongbranch under *Zone of Truth*  
+- Reported to have had a “fantastic, superb relationship” with Janussi — later revealed as performative  
+- Accused of acting under recruitment by A'lai, with Bookwyrm likely covering for him as family  
+- Thorin and Kalan were preparing to confront him; Zalthir and Irony corroborated his actions at the feast  
+
 **Defining recent actions:**  
-- Poisoned Janussi’s book with Midnight Tears, re-wrapping it to conceal the act.  
-- Burned a scrap of paper during the Deadwinter supper, likely to destroy incriminating correspondence.  
-- Publicly performed grief over Janussi’s death as a calculated act to be witnessed.  
-- Confessed under Kalan’s Zone of Truth spell to killing Janussi with a cleaver and removing his heart.  
-- Implicated Bookwyrm as the mastermind, claiming she was unaware others knew of her involvement.  
-- Was imprisoned and under confinement at time of death; no physical evidence beyond confession linked him to the safe looting or heart theft prior to his confession.  
+- Poisoned Janussi by coating a book with Midnight Tears stolen from the Oak Tree Apothecary  
+- Burned the vial’s label near the Deadwinter gift tree, then washed hands in a basin of water  
+- Gifted the poisoned book to Janussi with intent to kill  
+- Confessed under *Zone of Truth* to killing Janussi with a cleaver — though he was unaware the heart had been removed afterward  
+- Attempted to deflect blame by claiming mind control, but the truth spell invalidated this defense  
+- Became the publicly accepted culprit in Janussi’s murder, with evidence (cleaver, blood, confession) used to close the case  
 
 **Revealed motivations or secrets:**  
-- Resented Janussi for dismissing his germ warfare research and denying him leadership potential.  
-- Sought to publish *Tales of War by the Generals That Waged Them* as a means of gaining prestige.  
-- Believed he was under mind control during interrogation — a claim later invalidated by his truthful confession under Zone of Truth.  
-- Confessed to murder but may have been shielding Bookwyrm, his aunt, from full culpability.  
-- Was not responsible for the heart removal or safe looting — those were separate acts — but his confession falsely implicated him in the full scope of the crime.  
+- Self-absorbed to the point of missing irony directed at him; performed grief as a rehearsed spectacle  
+- Read and internalized the “Midnight Tears” tale from *1001 Tashalian Nights* as a blueprint for assassination  
+- Believed he was acting independently or under A'lai’s influence — unaware that Bookwyrm may have orchestrated his role as scapegoat  
+- Did not know Janussi’s heart had been removed — his shock (“Ripped out his heart? What?”) suggests he was not the one who performed the post-mortem mutilation  
 
 ## Uncertainty
-- Contradiction: [ch60] states Alkrist claimed he did not kill Janussi, only poisoned the book; [ch61] confirms he confessed under Zone of Truth to killing Janussi with a cleaver and removing the heart. Later fact overrides earlier — he killed Janussi.  
-- Ambiguous chronology: When exactly did Alkrist die? [ch61] states he is “finished” with his confession, cleaver, and blood — implying death — but no explicit cause or moment of death is given.  
-- Unclear attribution: [ch61] says he “implicated Bookwyrm as the mastermind,” but it is unclear if this was his own assertion or a result of interrogation pressure.  
-- Contradictory evidence: [ch60] says Alkrist was “unaware that a truth spell is active,” yet [ch61] says he confessed under Kalan’s Zone of Truth — implying the spell was active during his confession. The spell’s activation timing is not clarified.  
-- Unclear status of possessions: Are the glass jars, spellbook, and cleaver still in evidence or have they been moved? No post-mortem handling is described.  
-- Unclear relationship: [ch61] claims Alkrist is Bookwyrm’s nephew; no prior fact confirms this familial tie — this is new information with no earlier corroboration.  
-- Contradiction: [ch60] says “nothing else in there implicated Alkrist of anything,” yet [ch61] says he confessed to murder — the former refers to physical evidence in his chambers, the latter to verbal confession under magic. Not a true contradiction, but requires contextual clarification.
+- Contradiction: Confession states Alkrist killed Janussi with a cleaver, but earlier evidence (poisoned book, Midnight Tears, rat jars) suggests poisoning was the primary method — the cleaver’s role is unexplained and possibly planted.  
+- Contradiction: Ch60 says he “didn’t actually kill him. I just put some poison on a book,” but Ch61 says he confessed to killing Janussi with a cleaver — the latter overrides, but the discrepancy implies coercion or manipulation.  
+- Unclear attribution: Who removed Janussi’s heart? Alkrist claims ignorance; Bookwyrm is suspected but not confirmed.  
+- Chronology uncertainty: Was Alkrist already imprisoned when he died, or was he killed during/after confession? The text says he is “finished” and “deceased,” but does not specify cause or timing of death.  
+- Ambiguity: Was the “cleaver” evidence planted? The confession and cleaver are presented as conclusive, but circumstantial evidence (poison, rats, burned label) suggests the murder was more complex — Alkrist may be a patsy.  
+- Unclear: Was Bookwyrm truly covering for him as family, or is this a rumor? No direct evidence confirms their familial bond.  
+- Unclear: Did Alkrist die in prison, or was he executed? The dossier states he is deceased but gives no mechanism.

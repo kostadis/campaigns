@@ -7,14 +7,13 @@ chapters: 43-43
 
 ### Bimble
 
-- **Type:** Object  
-- **Current location:** Strapped to a table in Kazook's chambers  
-- **Current condition:** Coughing up spores that form tiny laughing faces before dissolving into the air  
-- **Notable property:** Emits sentient, ephemeral spores that manifest as laughing faces  
-- **Current holder/occupant:** Under restraint in Kazook’s possession  
+- **Current location:** Kazook's chambers  
+- **Current condition:** Strapped to a table, actively coughing up spores that form tiny laughing faces before dissolving  
+- **Notable items/phenomena:** Emitting spores that manifest as transient laughing faces  
+- **Current assignment/role:** Subject of experimentation in Kazook's chambers  
 
 ## Uncertainty
-- The nature of Bimble (e.g., whether it is a living creature, magical artifact, or cursed object) is not specified.  
-- Whether Bimble is sentient, alive, or merely a vessel for the spores is unclear.  
-- No information on how long it has been in this state or if its condition is changing over time.  
-- No indication of who created Bimble or its original purpose.
+- The nature of Bimble (whether it is a creature, object, or something else) is not specified — only its behavior and location are described.  
+- Whether Bimble is alive, sentient, or inert is unclear from the fact.  
+- No information on who strapped Bimble to the table or why.  
+- No indication of whether this condition is temporary, permanent, or changing.

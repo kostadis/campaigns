@@ -2,84 +2,91 @@
   {
     "type": "npc",
     "subject": "Daz",
-    "fact": "Daz is a male Drow apostate from Menzoberranzan who studied magic, held private opinions that would have gotten him killed if voiced aloud, and ended up in Velkynvelve's cages alongside a dwarf raised by giants and a dragonborn who doesn't talk much. He is confused about why powerful Drow houses are targeting him and does not believe he is a person of consequence.",
-    "source_quote": "I am not, by any meaningful measure, a person of consequence.",
+    "fact": "Daz is a male Drow apostate from Menzoberranzan who studied magic, held private opinions that would have gotten him killed if voiced aloud, and ended up in Velkynvelve's cages alongside a dwarf raised by giants and a dragonborn who doesn't talk much. He is confused about why powerful Drow houses are targeting him with such orchestrated attention, and he does not believe he is a person of consequence.",
+    "source_quote": "I am not, by any meaningful measure, a person of consequence. I am a male Drow apostate from Menzoberranzan who studied magic, held private opinions that would have gotten him killed if voiced aloud, and eventually ended up in Velkynvelve's cages alongside a dwarf raised by giants and a dragonborn who doesn't talk much.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Nym",
-    "fact": "Nym is one of the Drow sisters hired through cutouts to extract Daz, and she regards him with a mix of interest and condescension, having seen similar cases of self-deluded Drow before.",
-    "source_quote": "They had opinions, the sisters, about mysterious orphans who arrive at adulthood convinced they have noble blood waiting somewhere.",
+    "fact": "Nym is one of the Duskryn sisters, hired through cutouts to extract Daz, and she regards him with a mixture of interest and condescension. She has seen the performance of self-deluded Drow claiming noble lineage before and finds it sardonic.",
+    "source_quote": "They had opinions, the sisters, about mysterious orphans who arrive at adulthood convinced they have noble blood waiting somewhere. They had seen this particular performance before, apparently.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Kaelira",
-    "fact": "Kaelira is the other Drow sister hired to extract Daz, and like Nym, she finds him either fascinating or ridiculous, having witnessed this kind of performance before.",
-    "source_quote": "They had seen this particular performance before, apparently.",
+    "fact": "Kaelira is one of the Duskryn sisters, hired through cutouts to extract Daz, and she regards him with a mixture of interest and condescension. She has seen the performance of self-deluded Drow claiming noble lineage before and finds it sardonic.",
+    "source_quote": "They had opinions, the sisters, about mysterious orphans who arrive at adulthood convinced they have noble blood waiting somewhere. They had seen this particular performance before, apparently.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Thorin",
-    "fact": "Thorin is a dwarf who carries the sentient sunblade Dawnbringer and has developed a patient, ritualized method of managing its objections using the Vaultmaster Locking Scabbard.",
-    "source_quote": "Do I need to show you the scabbard again?",
+    "fact": "Thorin is a dwarf who travels with the sentient sunblade Dawnbringer and has developed a patient, repetitive negotiation dynamic with it. He uses the Vaultmaster Locking Scabbard as a diplomatic tool to manage the blade\u2019s objections.",
+    "source_quote": "Thorin reached, unhurriedly, for the scabbard. \"Do I need to show you the scabbard again?\"",
     "quote_verified": true
   },
   {
     "type": "monster",
     "subject": "Dawnbringer",
-    "fact": "Dawnbringer is a sentient sunblade that refuses to be used as a ritual tool for purification, insisting it is a weapon designed to kill, not venerate. It has strong philosophical objections to being treated as a religious symbol.",
-    "source_quote": "I'm not some kind of magical wizard thingy that purifies things. I am a high-quality sunblade. I kill things.",
+    "fact": "Dawnbringer is a sentient sunblade that refuses to be used as a ritual tool for purification, insisting it exists only to kill. It has strong opinions about its function and has been persuaded by Thorin\u2019s use of the Vaultmaster Locking Scabbard to compromise.",
+    "source_quote": "\"I'm not some kind of magical wizard thingy that purifies things. I am a high-quality sunblade. I kill things. I will not be treated like a religious symbol to be used and waved over corrupt\u2014\"",
     "quote_verified": true
   },
   {
     "type": "object",
     "subject": "Vaultmaster Locking Scabbard",
-    "fact": "The Vaultmaster Locking Scabbard is a specialized scabbard used by Thorin to negotiate with Dawnbringer, functioning as an effective tool of coercion and persuasion when the blade's rhetoric exceeds its better judgment.",
+    "fact": "The Vaultmaster Locking Scabbard is a specialized scabbard that functions as an effective negotiating tool when used on the sentient sunblade Dawnbringer. It has been used repeatedly to restrain the blade\u2019s rhetoric and compel compliance.",
     "source_quote": "I have observed that the Vaultmaster Locking Scabbard functions as a remarkably effective negotiating tool when Dawnbringer's rhetoric outpaces its better judgment.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "Dawnbringer's reluctant agreement",
-    "fact": "Dawnbringer, after being reminded of the scabbard, reluctantly agreed to participate in a purification ritual it finds philosophically objectionable, granting the group a significant concession.",
-    "source_quote": "I suppose I could do you this one. I could do this solid for you.",
+    "type": "faction",
+    "subject": "Duskryn sisters",
+    "fact": "The Duskryn sisters are mercenaries hired through intermediaries to extract Daz, and they operate with deliberate opacity. They are not acting on behalf of any known faction, and their motives are unclear. They are skeptical of Daz\u2019s perceived importance and have encountered similar cases before.",
+    "source_quote": "The Duskryn sisters had been hired through cutouts. The contracting party was unknown even to them. They had come specifically for me, through layers of intermediaries arranged with the kind of deliberate opacity that costs serious coin to maintain.",
     "quote_verified": true
   },
   {
     "type": "thread",
-    "subject": "Daz's true identity",
-    "fact": "Daz carries an unresolved question about why powerful Drow houses are targeting him, suspecting the answer lies beyond his own self-perception as an insignificant apostate, but has no concrete evidence to confirm any theory.",
-    "source_quote": "I have no idea why.",
+    "subject": "Daz's identity and targeting",
+    "fact": "Daz is unresolved about why he is being targeted by powerful, anonymous Drow forces. He questions whether his perceived value is real or imagined, and whether his lineage or past actions are the cause \u2014 a mystery that remains unexplained and emotionally burdensome.",
+    "source_quote": "I had no idea why. I am not, by any meaningful measure, a person of consequence... And yet.",
     "quote_verified": false
   },
   {
     "type": "thread",
-    "subject": "The contracting party",
-    "fact": "The identity of the unknown party that hired the Drow sisters to extract Daz remains concealed even from the mercenaries themselves, suggesting layers of deliberate opacity and high-stakes secrecy.",
-    "source_quote": "The contracting party was unknown even to them.",
-    "quote_verified": true
+    "subject": "Dawnbringer's philosophical conflict",
+    "fact": "Dawnbringer resists being used as a tool for ritual purification, asserting its identity as a weapon of destruction. This ongoing tension between its nature and its companions\u2019 needs remains unresolved, though temporarily managed.",
+    "source_quote": "\"I'm not some kind of magical wizard thingy that purifies things. I am a high-quality sunblade. I kill things.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Dawnbringer's reluctant agreement to purification",
+    "fact": "Dawnbringer, after resistance and negotiation, agreed to participate in a purification ritual \u2014 a significant concession forced by Thorin\u2019s use of the Vaultmaster Locking Scabbard.",
+    "source_quote": "\"I suppose\u2026 I suppose I could do you this one. I could do this solid for you.\"",
+    "quote_verified": false
   },
   {
     "type": "location",
     "subject": "Velkynvelve's cages",
-    "fact": "Velkynvelve's cages are the place where Daz was imprisoned alongside a dwarf raised by giants and a dragonborn who doesn't talk much, marking the last known location before his current journey toward the surface.",
-    "source_quote": "Eventually ended up in Velkynvelve's cages alongside a dwarf raised by giants and a dragonborn who doesn't talk much.",
+    "fact": "Velkynvelve's cages are the location where Daz was imprisoned after his apostasy from Menzoberranzan, alongside a dwarf raised by giants and a dragonborn who doesn't talk much. It is a place of confinement and transition in his past.",
+    "source_quote": "I eventually ended up in Velkynvelve's cages alongside a dwarf raised by giants and a dragonborn who doesn't talk much.",
     "quote_verified": false
   },
   {
     "type": "location",
-    "subject": "the road to the surface",
-    "fact": "The road to the surface is the current path of travel for Daz and his companions, symbolizing their transition from subterranean exile toward an uncertain future above ground.",
-    "source_quote": "Around me, the road to the surface waited.",
-    "quote_verified": true
+    "subject": "Menzoberranzan",
+    "fact": "Menzoberranzan is the Drow city from which Daz apostatized. It is a place of rigid hierarchy and lethal consequences for dissent, which shaped his decision to hide his magic and private opinions.",
+    "source_quote": "I am a male Drow apostate from Menzoberranzan who studied magic, held private opinions that would have gotten him killed if voiced aloud.",
+    "quote_verified": false
   },
   {
     "type": "date",
     "subject": "session date",
-    "fact": "The events described occurred during the current session of travel, marked by the progression from camp discussion to the confrontation with Dawnbringer and the decision to investigate the mystery surrounding Daz.",
+    "fact": "The events described occurred during a current session of travel toward the surface, following a camp discussion that prompted introspection and negotiation.",
     "source_quote": "We moved on.",
     "quote_verified": true
   }

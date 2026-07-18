@@ -2,78 +2,71 @@
   {
     "type": "npc",
     "subject": "Zalthir",
-    "fact": "Zalthir concluded the rib cage was smashed by multiple close, deliberate axe blows, the heart was missing, and the blood was localized \u2014 a pattern inconsistent with a violent death, suggesting the victim was already dead before the chest was opened.",
-    "source_quote": "The question: was he dead before his heart was hacked out?",
-    "quote_verified": true
+    "fact": "Zalthir observed that the rib cage had been smashed by multiple close, deliberate blows from something like an axe, the heart was missing, and the blood was localized \u2014 indicating a pattern inconsistent with a violent death and suggesting the wound was insufficient to cause death.",
+    "source_quote": "The rib cage had been smashed by something like an axe, multiple blows, close together, deliberate. The heart was missing. No other organs. And the blood was localized.",
+    "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum identified the removal of the heart as a precaution to prevent resurrection, not souvenir collection, and stated that ritual reanimation requires vital organs to be present.",
-    "source_quote": "You can't bring someone back from death by ritual if their vital organs aren't present.",
+    "fact": "Grygum identified the removal of the heart as a precaution to prevent resurrection through ritual, noting that vital organs must be present for any revival attempt.",
+    "source_quote": "You can't bring someone back from death by ritual if their vital organs aren't present. Whoever took the heart wasn't souvenir-collecting. They were preventing resurrection.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Tadric",
-    "fact": "Tadric confirmed attempts had been made to speak to the dead, but the dead were not speaking.",
+    "fact": "Tadric confirmed that attempts to communicate with the deceased had been made and failed \u2014 the dead were not speaking.",
     "source_quote": "The dead were not speaking.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Gate Warden",
-    "fact": "The gate warden performed an evidence-preserving inspection and attempted to speak to the dead, but the attempt failed.",
+    "fact": "The gate warden performed a ritual to speak with the dead during his careful, evidence-preserving inspection of the corpse and received no response.",
     "source_quote": "Yes. The gate warden. On his careful, evidence-preserving inspection.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "attempt to commune with corpse",
-    "fact": "An attempt to speak to the corpse was made by the gate warden, and due to the nature of such workings, the same corpse cannot be reached again for some time after the attempt.",
-    "source_quote": "Such workings have narrow limits: once performed, the same corpse cannot be reached again for some time.",
+    "subject": "ritual attempt on corpse",
+    "fact": "A ritual to communicate with the deceased was performed on Janussi's corpse by the gate warden, and the attempt yielded no result.",
+    "source_quote": "Tadric said they'd tried that. The dead were not speaking.",
     "quote_verified": true
   },
   {
     "type": "thread",
     "subject": "resurrection prevention",
-    "fact": "The heart was removed not as a trophy but as a deliberate act to ensure Janussi could not be resurrected, implying the killer intended permanent death.",
+    "fact": "The removal of Janussi's heart was not an act of mutilation but a deliberate measure to ensure he could not be resurrected, implying the perpetrator had knowledge of necromantic requirements.",
     "source_quote": "They wanted Janussi to stay dead in every sense that mattered.",
     "quote_verified": true
   },
   {
     "type": "thread",
-    "subject": "brain-based communication",
-    "fact": "There is a theoretical possibility of communicating with the corpse using only the brain, bypassing the missing heart, but prior attempts have failed.",
-    "source_quote": "We don't need the heart \u2014 we just need the brain to be able to talk to him, you know.",
+    "subject": "corpse accessibility",
+    "fact": "The corpse of Janussi cannot be contacted again via ritual for some time, meaning any future attempt must wait until the cooldown period has passed, or until it is confirmed no prior ritual had already been spent.",
+    "source_quote": "Once performed, the same corpse cannot be reached again for some time.",
     "quote_verified": false
   },
   {
-    "type": "event",
-    "subject": "corpse accessibility window",
-    "fact": "The corpse is currently inaccessible for further communion attempts, but will become accessible again after sufficient time has passed.",
-    "source_quote": "So if we wait long enough, then we can try again?",
-    "quote_verified": true
-  },
-  {
     "type": "location",
-    "subject": "corpse",
-    "fact": "The corpse is in a state of decay, with noticeable odor, and has been subjected to post-mortem mutilation including removal of the heart and other organs.",
-    "source_quote": "Corpse will be a little stinky by then.",
-    "quote_verified": true
+    "subject": "Keeper's Chambers",
+    "fact": "The Keeper's Chambers are the site where Janussi's corpse was discovered with signs of deliberate organ removal and ritual interference, indicating prior investigation by the gate warden.",
+    "source_quote": "Zalthir looked more carefully than I did... The gate warden... on his careful, evidence-preserving inspection.",
+    "quote_verified": false
   },
   {
     "type": "object",
-    "subject": "missing heart",
-    "fact": "The heart was removed as a precautionary measure to block resurrection magic, and its absence is a deliberate signal or safeguard, not random violence.",
-    "source_quote": "It was a message. Or a precaution.",
-    "quote_verified": true
+    "subject": "Janussi's heart",
+    "fact": "Janussi's heart was removed post-mortem, not as a trophy but as a necromantic countermeasure to prevent resurrection, rendering the body unusable for revival rituals.",
+    "source_quote": "The heart was missing... It was a message. Or a precaution.",
+    "quote_verified": false
   },
   {
     "type": "date",
-    "subject": "time until corpse accessibility",
-    "fact": "Sufficient time must pass before the corpse can be communed with again; the exact duration is unspecified but implied to be measurable in hours or days.",
-    "source_quote": "Yes.",
-    "quote_verified": true
+    "subject": "elapsed time since corpse inspection",
+    "fact": "Time has passed since the gate warden's inspection of the corpse, and further delay will allow the corpse's ritual accessibility to reset, though the body will become more decomposed.",
+    "source_quote": "Corpse will be a little stinky by then... So if we wait long enough, then we can try again?",
+    "quote_verified": false
   }
 ]

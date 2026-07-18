@@ -7,9 +7,10 @@ chapters: 55-55
 
 ### Daggerford
 
-Daggerford is a southern town in the North with walls, a market square, smoke from cook fires, and the smell of horses. It avoided the worst of the Uthgardt barbarian hordes but suffered an incursion by the Cult of the Dragon, resulting in the loss of Tarvis Ulain. The town now memorializes him with contested religious symbolism.
+Daggerford is a town that escaped the worst of the post-war Uthgardt barbarian hordes. It retains its infrastructure — walls, a market square, cook fires, and the smell of horses — but is defined by the death of Tarvis Ulain and the silent proliferation of Cult of the Dragon activity. A bronze-arm monument stands as a focal point of ideological tension and quiet remembrance, marking an unsettling convergence of faiths, symbols, and unspoken trauma.
 
 ## Uncertainty
-- The current state of the contested religious symbolism (e.g., what symbols, who opposes them, whether they are publicly displayed or suppressed) is not specified.
-- The current control or governance of Daggerford (e.g., who rules, whether it’s under a lord, a council, or a military presence) is not stated.
-- Whether the Cult of the Dragon still has an active presence in Daggerford is unclear.
+- The exact location or physical description of the bronze-arm monument is unspecified.
+- The current status of Cult of the Dragon activity (e.g., whether it is active, hidden, or declining) is implied but not concretely described beyond “silent proliferation.”
+- Whether Tarvis Ulain’s monument is publicly venerated, contested, or suppressed is not clarified — only that it is a “focal point of ideological tension.”
+- No current governing authority, mayor, or military presence is named.

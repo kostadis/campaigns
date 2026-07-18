@@ -8,20 +8,20 @@ chapters: 31-31
 ### Gasbide
 
 **Current status:** Alive  
-**Current location:** Within or near the Grove (last observed engaging with outsiders about surface architecture)  
+**Current location:** Within the Grove (or its immediate vicinity), actively engaging with surface-dwellers  
 **Allegiance/faction:** Supporter of Sovereign Phylo  
 **Current possessions / notable items, spells, feats, wounds:** None specified  
-**Current assignment / role and key relationships:** Builder Myconid; tasked with architectural experimentation under Phylo’s influence. Last seen interacting with outsiders (including Zalthir) and seeking technical details about surface structures. Reports to or is inspired by Sovereign Phylo; has expressed interest in potential collaboration with Aromikos.  
-**Defining recent actions:** Obsessively interrogated outsiders about surface-world architecture—demanding granular details on windows, doors, materials, scale, and construction methods. Dreams of constructing a fungal tower larger than Yggmorgus to breach the Underdark and reach the surface. Unaware that sunlight is lethal to myconids and actively seeks ways to shield himself and his structures from it. Exhibits signs of chaotic influence from Sovereign Phylo, particularly in his fixation on the “great celebration” and “great awakening” tied to Araumycos, which he does not understand.  
+**Current assignment / role and key relationships:** Builder Myconid; directly engaged with surface visitors to extract architectural knowledge. Reports to or follows the vision of Sovereign Phylo. Last seen interacting with Zalthir and the party; no other Myconids confirmed currently with him.  
+**Defining recent actions:** Obsessively interrogated surface-dwellers about architecture—demanding granular details on windows, doors, materials, scale, and structural design. Dreams of constructing a fungal tower surpassing Yggmorgus to breach the Underdark and reach the surface, possibly with aid from Aromikos. Unaware that sunlight is lethal to Myconids; seeks protective designs against the “overbrite.” Demonstrates no understanding of Araumycos beyond its association with a “great celebration” promised by Phylo.  
 
 **Revealed motivations or secrets:**  
-- Seeks to transcend myconid limitations by replicating surface architecture using fungal materials (e.g., zurkhwood mushroom).  
-- Believes Aromikos may aid his project, though no evidence of direct contact or alliance exists.  
-- Views the surface not as a threat, but as a frontier of architectural possibility—driven by devotion to Phylo’s vision of a “great celebration.”  
+- Believes surface architecture can be replicated or adapted using fungal materials (e.g., zurkhwood mushroom) to build a tower capable of surviving surface conditions.  
+- His obsession is a direct symptom of chaotic influence from Sovereign Phylo, manifesting as an irrational fixation on surface structures.  
+- Seeks not conquest or domination, but transcendence through construction—his dream is a devotional act of faith in Phylo’s coming “great awakening.”
 
 ## Uncertainty
-- It is unclear whether Aromikos has actually agreed to assist Gasbide or if this is purely speculative aspiration.  
-- The phrase “possibly with the aid of Aromikos” leaves open whether Aromikos is a real entity, a myth, or a figment of Gasbide’s delusion under Phylo’s influence.  
-- It is unknown whether Gasbide has begun construction or is still in the planning phase.  
-- No confirmation whether Basidia’s assessment of Gasbide as a “supporter of Sovereign Phylo” is still current or if Gasbide’s role has evolved since that observation.  
-- The nature of the “great awakening” and “great celebration” remains undefined—Gasbide lacks understanding of Araumycos, but it is unclear if he has received any direct instruction from Phylo beyond vague promises.
+- The current location of Aromikos is unknown; whether Aromikos is even aware of or involved in Gasbide’s plan is unconfirmed.  
+- It is unclear whether Gasbide has physically left the Grove since his initial interaction.  
+- No evidence confirms whether he retains any physical tools, schematics, or fungal growths related to his tower project.  
+- The nature of his “support” of Sovereign Phylo—is it voluntary, coerced, or magically induced?—is not specified.  
+- Whether he has any direct contact with Basidia or other Myconid leaders post-interaction is unknown.

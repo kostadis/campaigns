@@ -7,14 +7,15 @@ chapters: 33-33
 
 ### Circle of Explorers
 
-- **What it is:** A Myconid gathering point and safe haven.
-- **Current state:** Operational as a refuge for Myconids who fled the Inner Circle.
-- **Location:** Near an exit hole used for escape.
-- **Current occupants/controlled by:** Rasharoo and other Myconids who fled the Inner Circle.
-- **Notable features:** Contains an exit hole used for escape; site of a deep mind meld involving Basidia, Rasharoo, Loobamub, and hunters prior to fleeing the Grove.
-- **Recent significant events:** Basidia was dragged to safety here by Zalthir after their confrontation with Phylo; it served as the destination for fleeing Myconids.
+- **Type:** Location  
+- **Current state:** Active safe haven  
+- **Location:** Near an exit hole, outside the Grove  
+- **Current occupants:** Rasharoo and other Myconids who fled the Inner Circle  
+- **Key feature:** Contains an exit hole used for escape  
+- **Recent notable events:** Basidia, Rasharoo, Loobamub, and hunters performed a deep mind meld here before fleeing the Grove; Zalthir dragged Basidia to this location after confronting Phylo  
+- **Function:** Safe haven for Myconids escaping the Inner Circle  
 
 ## Uncertainty
-- Unclear whether Basidia, Loobamub, or the hunters are currently present at the Circle of Explorers — they were last seen there during the mind meld and escape, but their current status is not confirmed.
-- Ambiguous whether Zalthir remains at the Circle or departed after bringing Basidia there.
-- No confirmation whether the exit hole is still actively used or if its condition has changed since the escape.
+- It is unclear whether Basidia, Loobamub, or the hunters are still present at the Circle of Explorers after the events described — they were last seen there but their current presence is unconfirmed.  
+- The exact geographic relationship between the Circle and the Grove or Inner Circle is not specified.  
+- It is ambiguous whether the exit hole leads to a known location or is merely an emergency egress point with no defined destination.

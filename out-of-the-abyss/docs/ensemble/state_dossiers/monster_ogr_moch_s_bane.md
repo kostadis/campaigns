@@ -7,12 +7,15 @@ chapters: 39-39
 
 ### Ogrémoch's Bane
 
-**Current status:** Active divine/extraplanar force  
-**Current location:** Temple of the Steadfast Stone  
-**Allegiance/faction:** None (independent supernatural force)  
-**Current possessions / notable items, spells, feats, wounds:** None (non-corporeal force)  
-**Current assignment / role and key relationships:** Provoked by placement of a red spell gem in the menhir; triggers awakening of three temple guardians and summons hostile servants to attack during the cleansing ritual.  
-**Defining recent actions:** When the red spell gem is inserted into the menhir, Ogrémoch's Bane responds by sending servants to attack and initiating the awakening of three temple guardians — a process requiring the ritualists to defend the gem until completion.
+- **Current status:** Active divine/extraplanar force  
+- **Current location:** Temple of the Steadfast Stone  
+- **Allegiance/faction:** None (independent supernatural force)  
+- **Current possessions / notable items:** None (not an entity that possesses objects; responds to ritual activation)  
+- **Current assignment / role:** Reacts to the placement of a red spell gem in the menhir by:  
+  - Sending hostile servants to attack  
+  - Awakening three temple guardians  
+- **Defining recent actions:** Provoked by the red spell gem during the cleansing ritual, triggering an attack phase and guardian awakening as part of a controlled ritual process.  
+- **Revealed motivations or secrets:** None explicitly stated; functions as a guardian mechanism tied to the temple’s protective magic, activated only by ritual means.
 
 ## Uncertainty
 None.

@@ -1,19 +1,26 @@
 ---
 name: Bahamut
 type: npc
-n_facts: 2
-chapters: 49-59
+n_facts: 4
+chapters: 49-60
 ---
 
 ### Bahamut
-- **Current status:** Alive (implied by continued reference)
-- **Current location:** Unknown
-- **Allegiance/faction:** None specified (divine entity, not tied to a mortal faction)
-- **Current possessions / notable items, spells, feats, wounds:** None specified
-- **Current assignment / role and key relationships:** None specified; not observed interacting directly with any entity
-- **Defining recent actions:** No direct actions recorded; only referenced as a possible observer in two instances
-- **Revealed motivations or secrets:** None revealed
+
+- **Current status**: Alive (as a deity, not subject to mortal mortality)  
+- **Current location**: Not specified; implied to be transcendent or omnipresent  
+- **Allegiance/faction**: Divine entity; associated with the Bahamutian school of thought  
+- **Current possessions / notable items, spells, feats, wounds**:  
+  - Wields a cantrip that restores objects to their original state  
+- **Current assignment / role and key relationships**:  
+  - Deity whose domain includes the preservation of truth  
+  - Moves mortal affairs pre-emptively as part of divine providence  
+  - Previously served by Tarvis Ulain (confirmed by monument inscription)  
+- **Defining recent actions**:  
+  - Exerted divine providence to arrange mortal actions in advance, as referenced in the Bahamutian school’s doctrine  
+  - Maintained association with truth-preservation and object restoration through divine magic  
 
 ## Uncertainty
-- Contradictory ambiguity: Both [ch49] and [ch59] state “Bahamut may or may not have been watching,” with no clarification on whether observation occurred. The later chapter does not override the earlier — both are equally noncommittal.
-- No definitive information on Bahamut’s location, intentions, or current state beyond the ambiguous observation clause.
+- It is unclear whether Bahamut actively observes mortal events (ch49: "may or may not have been watching") — this remains ambiguous despite later doctrinal assertions of active providence.  
+- The nature of Bahamut’s direct interaction with mortals (beyond providence and cantrip) is not detailed beyond Tarvis Ulain’s past service; no current agents or direct manifestations are confirmed.  
+- No current worshippers, temples, or active clergy are named or located in the provided facts.

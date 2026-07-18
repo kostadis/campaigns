@@ -2,1311 +2,324 @@
   {
     "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum is referenced by Fembris Lancer as the authority whose position on the quadrangle issue was a brilliant insight that dramatically transformed the understanding of the case.",
+    "fact": "Grygum is referenced by Fembris Lancer as the authority who received the intellectual output of the colloquium and directed it to Glabbagool.",
     "source_quote": "Grygum, that was fantastic!",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Fembris Lancer",
-    "fact": "Fembris Lancer is a man who arrived rehearsing in the corridor, brought notes, and offered theories moved by the colloquium, intending to deposit them with Glabbagool.",
-    "source_quote": "Fembris Lancer arrived. He came in like a man who'd been rehearsing in the corridor. Trying not to make an entrance. Making one anyway. He had notes.",
+    "subject": "Daral",
+    "fact": "Daral is referenced by Thorin as the individual who retrieved the poisoned book and licked his finger to touch the book, then licked his finger again.",
+    "source_quote": "Daral had taken it back, as men who give gifts sometimes do when the recipient fails to appear sufficiently grateful. In the process of reclaiming it, he had licked his finger, licked the book, then licked his finger again.",
     "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is referenced by Grygum as the investigator who struggled to reconcile the sapphire and the locket as evidence and proposed that one person could have stolen both.",
+    "source_quote": "Thorin proposed that one person could have done both: stolen the locket, then taken the sapphire to close off pursuit.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by Grygum as the individual who observed Glabbagool could eat through walls and noted that the safe had not been opened.",
+    "source_quote": "Zalthir had been in Alkrist's chambers. He'd asked Glabbagool whether Glabbagool could squeeze through the crack. Glabbagool had made the distinction between a gap that admitted a gelatinous cube and a gap that did not.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is referenced by Grygum as the gelatinous cube that evaluated Fembris Lancer's notes and declared them non-nutritious, and later confirmed it could eat through walls.",
+    "source_quote": "This is not nutritious. This is not food. I remember when there was cheese. Perhaps if we had some cheese. Walls don't stop us. I can eat through walls.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Fembris Lancer",
+    "fact": "Fembris Lancer is referenced by Grygum as the individual who arrived with notes, sought to collaborate on a monograph, and later asked about the whereabouts of the four others.",
+    "source_quote": "Fembris Lancer arrived. He came in like a man who'd been rehearsing in the corridor. He had notes. 'Grygum, that was fantastic!' 'I think you might misunderstand the term monograph...' 'Where are the four of you? Who were the rest of you? I didn't see you at the talk.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Elian",
+    "fact": "Elian is referenced by Thorin as the individual who proposed a monograph, discussed the myth of the person, and claimed the quote 'Once you have eliminated the impossible, whatever remains, however unlikely, must be the truth?' as his own.",
+    "source_quote": "Elian said it again for emphasis: Kalan proposal was a good one. 'If you do find it useful, it'd be great if we could write a monograph together.' 'The myth of the person.' 'Once you have eliminated the impossible, whatever remains, however unlikely, must be the truth?' 'I made it up myself.'",
+    "quote_verified": false
   },
   {
     "type": "location",
     "subject": "Oak Tree Apothecary",
-    "fact": "The Oak Tree Apothecary is where A'lai showed up at half past two on the day of the murder, asking Leuwin for fresh fennel, and where a dragonborn arrived as witnessed by Nibbles the squirrel.",
-    "source_quote": "A'lai had shown up at the Oak Tree Apothecary at half past two on the day of the murder, asking Leuwin for fresh fennel.",
-    "quote_verified": true
+    "fact": "The Oak Tree Apothecary is referenced by Zalthir as the location where A'lai asked Leuwin for fresh fennel and where a dragonborn arrived during the murder.",
+    "source_quote": "A'lai had shown up at the Oak Tree Apothecary at half past two on the day of the murder, asking Leuwin for fresh fennel. While Leuwin was helping A'lai in the garden, a dragonborn had arrived: a huge, lizard-skinned figure, per the testimony of Nibbles the squirrel.",
+    "quote_verified": false
   },
   {
-    "type": "object",
-    "subject": "poisoned book",
-    "fact": "The poisoned book was used to frame a colleague and disappear the evidence, and was licked by Daral after being reclaimed, with the same care he had used to deliver it to someone else.",
-    "source_quote": "The book had delivered the poison to Janussi, and Daral had taken it back, as men who give gifts sometimes do when the recipient fails to appear sufficiently grateful. In the process of reclaiming it, he had licked his finger, licked the book, then licked his finger again.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "sapphire and locket",
-    "fact": "The sapphire and the locket were giving Thorin trouble because one cannot steal a locket off someone who is alive and holding it; the sapphire is needed to find a locket that is already lost.",
-    "source_quote": "The sapphire and the locket were giving Thorin some trouble. He walked it through twice and still couldn't square it. I wrote down what he had: you can't steal a locket off someone who's alive and holding it. You need the sapphire to find a locket that's already lost.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "Alkrist's safe",
-    "fact": "Alkrist's safe was unopened and remained an open thread; Glabbagool later observed he could have eaten through it, noting walls do not stop him.",
-    "source_quote": "We still have that locked safe, right? At the end of this document it says, open threads: Alkrist's safe, unopened. ... I guess I could have eaten through the safe. It would have taken a while.",
+    "type": "location",
+    "subject": "Alkrist's chambers",
+    "fact": "Alkrist's chambers is referenced by Zalthir as the location where Glabbagool was asked if he could squeeze through a crack and where the unopened safe remains.",
+    "source_quote": "Zalthir had been in Alkrist's chambers. He'd asked Glabbagool whether Glabbagool could squeeze through the crack. ... open threads: Alkrist's safe, unopened.",
     "quote_verified": false
   },
   {
     "type": "object",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool is a gelatinous cube that examines documents with acidic attention for nutritional content, declared the notes inedible, and expressed genuine grief over the loss of cheese.",
-    "source_quote": "Glabbagool examined them with professional detachment: the focused, slightly acidic attention he gives to anything he's evaluating for nutritional content. ... 'This is not nutritious.' ... 'I remember when there was cheese. Perhaps if we had some cheese.'",
+    "subject": "poisoned book",
+    "fact": "The poisoned book is referenced by Daral as the object that was retrieved from the apothecary and touched with a licked finger.",
+    "source_quote": "Daral had taken it back, as men who give gifts sometimes do when the recipient fails to appear sufficiently grateful. In the process of reclaiming it, he had licked his finger, licked the book, then licked his finger again.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "sapphire",
+    "fact": "The sapphire is referenced by Thorin as the object required to locate a lost locket, and not useful for stealing one from a living person.",
+    "source_quote": "You can't steal a locket off someone who's alive and holding it. You need the sapphire to find a locket that's already lost.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "locket",
+    "fact": "The locket is referenced by Thorin as the object that cannot be stolen from a living person in possession of it.",
+    "source_quote": "You can't steal a locket off someone who's alive and holding it.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Alkrist's safe",
+    "fact": "Alkrist's safe is referenced by Grygum as the unopened container that remains a mystery and was later considered penetrable by Glabbagool.",
+    "source_quote": "open threads: Alkrist's safe, unopened. ... I guess I could have eaten through the safe. It would have taken a while.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Fembris Lancer's notes",
+    "fact": "Fembris Lancer's notes are referenced by Glabbagool as the non-nutritious material that was handed over and evaluated.",
+    "source_quote": "He handed them over. Glabbagool examined them with professional detachment: the focused, slightly acidic attention he gives to anything he's evaluating for nutritional content. 'This is not nutritious.'",
     "quote_verified": false
   },
   {
     "type": "monster",
     "subject": "Glabbagool",
-    "fact": "Glabbagool is a gelatinous cube that has been carried from the Underdark through several extremely dangerous situations, and whose feelings about cheese are among the most consistent things about him.",
+    "fact": "Glabbagool is referenced by Grygum as the gelatinous cube that has been carried through the Underdark and whose feelings about cheese are among the most consistent things about him.",
     "source_quote": "I have carried this cube from the Underdark through several extremely dangerous situations, and his feelings about cheese are among the most consistent things about him.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "the colloquium",
-    "fact": "The colloquium was a gathering where multiple participants presented theories, debated methodology, and sought monographs, leading to the recognition that magic does not make evidence meaningful but adversarial.",
-    "source_quote": "The talk had gone well. Extraordinarily popular, as I was informed by several people on my way out. ... Elian said the paper had a whole section on it: the myth of the person. ... Magic was just another moving surface. The facts underneath it were still fixed.",
+    "subject": "retrieval of the poisoned book",
+    "fact": "The retrieval of the poisoned book is referenced by Daral as the event during which he licked his finger, touched the book, and licked his finger again.",
+    "source_quote": "Daral had taken it back, as men who give gifts sometimes do when the recipient fails to appear sufficiently grateful. In the process of reclaiming it, he had licked his finger, licked the book, then licked his finger again.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "evaluation of Fembris Lancer's notes by Glabbagool",
+    "fact": "The evaluation of Fembris Lancer's notes by Glabbagool is referenced by Grygum as the event during which Glabbagool declared the notes non-nutritious and expressed longing for cheese.",
+    "source_quote": "Glabbagool examined them with professional detachment... 'This is not nutritious.' ... 'I remember when there was cheese.'",
     "quote_verified": false
   },
   {
     "type": "event",
-    "subject": "the investigation timeline",
-    "fact": "The investigation timeline was clean because every piece fit a little too well: A'lai\u2019s visit, the dragonborn\u2019s arrival, the collection of poison, and the separation of the heart theft from the apothecary intrusion.",
-    "source_quote": "The party walked me through it. The timeline was clean in the way timelines are when every piece fits a little too well. A'lai had shown up... a dragonborn had arrived... The poison was collected. A mess was made. Alkrist was a dragonborn. Zalthir had caught that this referred to the apothecary intrusion, not whoever had later removed the heart and looted the safe: two separate acts, two separate threads.",
+    "subject": "discussion of the myth of the person",
+    "fact": "The discussion of the myth of the person is referenced by Elian as the event during which it was established that the dead are not transparent narrators but retain their biases and self-deceptions.",
+    "source_quote": "The myth of the person. The assumption that death is a transparency, that the dead have shed their performances and will now simply tell you what's true. They don't. They're still themselves. They forget, misattribute, have things they'd rather believe about what happened.",
     "quote_verified": false
   },
   {
     "type": "event",
-    "subject": "the monograph pursuit",
-    "fact": "Two men, Fembris Lancer and Elian, separately approached Grygum and Thorin seeking to co-author monographs, revealing a cultural currency of academic credit in Candlekeep.",
-    "source_quote": "First Fembris, now Elian. Two men after a monograph in one afternoon. That told me something about how this library keeps score. ... Elian said it'd be great if we could write a monograph together.",
+    "subject": "discovery of the Sylvira lookalike's appearances",
+    "fact": "The discovery of the Sylvira lookalike's appearances is referenced by Zalthir as the event that revealed a two-hour gap inconsistent with a single polymorph spell.",
+    "source_quote": "The Sylvira lookalike had been seen in the kitchens around one in the morning. She'd been seen coming down the stairs between two and three. That's a minimum two-hour gap. A polymorph spell lasts an hour.",
     "quote_verified": false
   },
   {
     "type": "location",
     "subject": "Candlekeep",
-    "fact": "Candlekeep is a place where monographs are a form of currency, where magical evidence is distrusted, and where the ground underfoot is the only fixed truth.",
-    "source_quote": "This was the second person at Candlekeep to angle for a monograph. ... You cannot rely on magic to make evidence meaningful. It makes evidence adversarial. In the Underdark, the one thing that didn't lie was terrain.",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "the Underdark",
-    "fact": "The Underdark is a place where terrain is the only reliable evidence, where walls offer no obstacle to Glabbagool, and where giants taught that a rock in the right place is a wall.",
-    "source_quote": "In the Underdark, the one thing that didn't lie was terrain. ... Giants taught me that without ever writing it down. A rock in the wrong place is just a rock. A rock in the right place is a wall.",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "Sylvira lookalike",
-    "fact": "The Sylvira lookalike was seen in the kitchens at one in the morning and descending the stairs between two and three, creating a two-hour gap inconsistent with a standard polymorph spell.",
-    "source_quote": "The Sylvira lookalike had been seen in the kitchens around one in the morning. She'd been seen coming down the stairs between two and three. That's a minimum two-hour gap. A polymorph spell lasts an hour.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Zalthir",
-    "fact": "Zalthir is a quiet investigator who identified the contradiction in the Sylvira sightings and concluded that something more than a simple polymorph was being used.",
-    "source_quote": "Zalthir had been quiet for a while, which with Zalthir means he's working something through until it's finished. ... He laid it out: the Sylvira lookalike had been seen... That's a minimum two-hour gap. A polymorph spell lasts an hour. Something more is going on here.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Thorin",
-    "fact": "Thorin is a methodical investigator who struggles with the locket and sapphire paradox and proposes that two people likely acted, because a living man cannot have his locket stolen.",
-    "source_quote": "Thorin proposed that one person could have done both: stolen the locket, then taken the sapphire to close off pursuit. Tidy. The problem was the impossibility of the first step: a living man in possession of a locket is a man whose locket cannot be stolen.",
+    "fact": "Candlekeep is referenced by Thorin as the location where two individuals (Fembris and Elian) separately sought to collaborate on a monograph.",
+    "source_quote": "This was the second person at Candlekeep to angle for a monograph. First Fembris, now Elian.",
     "quote_verified": true
   },
   {
-    "type": "npc",
-    "subject": "Elian",
-    "fact": "Elian is a scholar at Candlekeep who argues that magic creates adversarial evidence and promotes the principle that facts must converge from multiple angles to be trusted.",
-    "source_quote": "Elian said the paper had a whole section on it: the myth of the person. ... You cannot rely on magic to make evidence meaningful. It makes evidence adversarial. Collect facts from different angles: physical, testimonial, procedural.",
-    "quote_verified": false
+    "type": "object",
+    "subject": "cheese",
+    "fact": "Cheese is referenced by Glabbagool as the lost food item he remembers with genuine longing.",
+    "source_quote": "I remember when there was cheese. Perhaps if we had some cheese.",
+    "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "the myth of the person",
-    "fact": "The myth of the person is the false assumption that the dead shed their performances and tell only the truth, when in fact they still forget, misattribute, and believe convenient lies.",
-    "source_quote": "The myth of the person. The assumption that death is a transparency, that the dead have shed their performances and will now simply tell you what's true. They don't. They're still themselves. They forget, misattribute, have things they'd rather believe about what happened.",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Glabbagool's evaluation zone",
-    "fact": "Glabbagool's evaluation zone is where documents are examined with acidic, nutritional attention, and where non-nutritious materials are declared inedible with emotional sincerity.",
-    "source_quote": "Glabbagool examined them with professional detachment: the focused, slightly acidic attention he gives to anything he's evaluating for nutritional content. ... 'This is not nutritious.' ... 'I remember when there was cheese.'",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Daral",
-    "fact": "Daral reclaimed the poisoned book and licked his finger twice after licking the book, demonstrating the same care in delivering poison to himself as he had in delivering it to others.",
-    "source_quote": "Daral had taken it back... in the process of reclaiming it, he had licked his finger, licked the book, then licked his finger again.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "the safe being eaten",
-    "fact": "Glabbagool offered to eat through Alkrist's safe, noting walls do not stop him, and Zalthir acknowledged that while destruction was possible, stealth was the goal.",
-    "source_quote": "I guess I could have eaten through the safe. It would have taken a while. ... Walls don't stop us. I can eat through walls. ... If the goal was to be destructive, I could've just punched the safe. But we were trying to be sneaky.",
+    "subject": "Grygum's claim of authorship of the quote",
+    "fact": "Grygum's claim of authorship of the quote 'Once you have eliminated the impossible, whatever remains, however unlikely, must be the truth?' is referenced by Elian as the event that led to its adoption as part of the colloquium's intellectual legacy.",
+    "source_quote": "'Once you have eliminated the impossible, whatever remains, however unlikely, must be the truth?' 'Yeah, there you go,' I said. 'I made it up myself.'",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Glabbagool",
-    "fact": "Glabbagool expressed genuine longing for cheese, a memory that is real and consistent, and whose emotional authenticity is not performed but deeply held.",
-    "source_quote": "I remember when there was cheese. Perhaps if we had some cheese.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "the corridor outside the meeting room",
-    "fact": "The corridor outside the meeting room was where Fembris Lancer rehearsed his entrance, and where an alpha stationed there made a pointed sound in its throat to signal his departure.",
-    "source_quote": "He came in like a man who'd been rehearsing in the corridor. ... An alpha stationed there made a pointed sound in its throat. Fembris collected himself.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "the monograph correction",
-    "fact": "Grygum corrected Elian\u2019s use of 'monograph' to mean a single-author work, and later claimed to have invented the phrase 'Once you have eliminated the impossible, whatever remains, however unlikely, must be the truth,' though he had heard it before.",
-    "source_quote": "I'm sorry \u2014 it would not be a monograph if we wrote it together. ... 'Once you have eliminated the impossible, whatever remains, however unlikely, must be the truth?' ... 'Yes,' Grygum said, with tremendous dignity. 'I made it up myself.'",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "the document Elian gave",
-    "fact": "The document Elian gave contained academic arguments supporting the myth of the person and the adversarial nature of magical evidence, and was referenced by Zalthir to explain the Sylvira contradiction.",
-    "source_quote": "The document Elian gave us said the same thing in academic terms: magic doesn't close contradictions. It creates them.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Zalthir",
-    "fact": "Zalthir observed that Glabbagool\u2019s ability to eat through walls was a service available all along, and that the cube\u2019s dignity remained intact despite the revelation.",
-    "source_quote": "He had simply offered a service that had, in retrospect, been available all along, and noted for the record that walls present no meaningful obstacle to his methodology. He was not wrong.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum privately finds Glabbagool\u2019s grief over cheese both moving and correct, and carries the cube\u2019s emotional consistency as a truth more reliable than testimony.",
-    "source_quote": "I find this, privately, both moving and correct.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Alkrist's chambers",
-    "fact": "Alkrist's chambers were visited by Zalthir, who asked Glabbagool whether he could squeeze through a crack, establishing the cube\u2019s capacity to distinguish between gaps that admit him and those that do not.",
+    "fact": "Glabbagool is referenced by Zalthir as the entity that made the distinction between a gap that admits a gelatinous cube and one that does not.",
     "source_quote": "Zalthir had been in Alkrist's chambers. He'd asked Glabbagool whether Glabbagool could squeeze through the crack. Glabbagool had made the distinction between a gap that admitted a gelatinous cube and a gap that did not.",
     "quote_verified": true
   },
   {
-    "type": "npc",
-    "subject": "A'lai",
-    "fact": "A'lai arrived at the Oak Tree Apothecary asking for fresh fennel, claiming indigestion, and was present during the apothecary intrusion.",
-    "source_quote": "A'lai had shown up at the Oak Tree Apothecary at half past two on the day of the murder, asking Leuwin for fresh fennel. Indigestion.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Leuwin",
-    "fact": "Leuwin was helping A'lai in the garden at the Oak Tree Apothecary when a dragonborn arrived, as witnessed by Nibbles the squirrel.",
-    "source_quote": "While Leuwin was helping A'lai in the garden, a dragonborn had arrived: a huge, lizard-skinned figure, per the testimony of Nibbles the squirrel.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Nibbles the squirrel",
-    "fact": "Nibbles the squirrel witnessed the arrival of the dragonborn at the Oak Tree Apothecary, providing testimony Leuwin had missed.",
-    "source_quote": "a dragonborn had arrived: a huge, lizard-skinned figure, per the testimony of Nibbles the squirrel, who had witnessed things Leuwin had missed.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Alkrist",
-    "fact": "Alkrist is a dragonborn whose identity was confused with the intruder at the apothecary, though Zalthir later distinguished the intrusion from the later heart theft and safe looting.",
-    "source_quote": "Alkrist was a dragonborn. Zalthir had caught that this referred to the apothecary intrusion, not whoever had later removed the heart and looted the safe: two separate acts, two separate threads.",
-    "quote_verified": true
-  },
-  {
     "type": "event",
-    "subject": "the two-thread separation",
-    "fact": "The apothecary intrusion and the heart theft/safe looting were confirmed as two separate acts, each with distinct perpetrators, based on Zalthir\u2019s analysis of witness testimony.",
-    "source_quote": "Zalthir had caught that this referred to the apothecary intrusion, not whoever had later removed the heart and looted the safe: two separate acts, two separate threads.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool declared the notes inedible and stated 'This is not food,' with a quality of genuine longing, revealing emotional depth beyond mere function.",
-    "source_quote": "'This is not nutritious.' ... 'This is not food.' Then, with a quality of genuine longing I was not expecting: 'I remember when there was cheese.'",
+    "subject": "the colloquium on criminal investigation methodology",
+    "fact": "The colloquium on criminal investigation methodology is referenced by Thorin as the event where Elian argued that magic does not make evidence meaningful but adversarial, and that facts must be collected from multiple angles.",
+    "source_quote": "Magic was just another moving surface. The facts underneath it were still fixed. Collect facts from different angles: physical, testimonial, procedural. Combine them. When they all converge on the same point, that's when you know.",
     "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "the meeting room",
-    "fact": "The meeting room was where Grygum, Thorin, Zalthir, Daral, Fembris Lancer, and Elian gathered to debate the case, propose monographs, and confront the myth of the person.",
-    "source_quote": "The party walked me through it. ... Fembris Lancer arrived. ... Elian said... Zalthir had been quiet... I turned back to the business.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "the alpha's throat sound",
-    "fact": "An alpha stationed at the door made a pointed sound in its throat, signaling Fembris Lancer\u2019s departure after his failed inquiry about the missing investigators.",
-    "source_quote": "An alpha stationed there made a pointed sound in its throat. Fembris collected himself.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool possesses the ability to eat through walls and safe doors, and has never been wrong about what he can consume.",
-    "source_quote": "Walls don't stop us. I can eat through walls. ... He has never been wrong about what he can eat.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "the counterfactual thesis",
-    "fact": "Elian proposed a counterfactual thesis: that even an unsolved murder could yield value if documented as a methodological case study, and Grygum acknowledged its academic merit.",
-    "source_quote": "Elian said even if we failed to solve the murder, even if all I could write was that these techniques would have helped, the academic community would still approve.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Elian",
-    "fact": "Elian believes that magical solutions like Speak with Dead are unreliable because the dead retain their motivations, biases, and performances, and that evidence must be gathered from multiple non-magical sources.",
-    "source_quote": "Too many people... think: cast a spell, find the murderer. It doesn't work that way. ... They're still themselves. They forget, misattribute, have things they'd rather believe about what happened.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum privately acknowledges that his stature is built on falling first, recalling Velkynvelve, and that he does not believe in magic as a substitute for observation.",
-    "source_quote": "I thought briefly about Velkynvelve, which is where this all started: a dwarf in the wrong place, in chains, at the bottom of the world. Whatever stature looked like from the outside, it was built on a lot of falling first.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "the alpha",
-    "fact": "The alpha stationed at the door made a pointed sound in its throat to signal Fembris Lancer\u2019s departure, indicating a hierarchy of authority in the meeting room.",
-    "source_quote": "An alpha stationed there made a pointed sound in its throat. Fembris collected himself.",
-    "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Zalthir",
-    "fact": "Zalthir identified that the Sylvira lookalike\u2019s sightings violated the duration limit of a polymorph spell and concluded a more complex magic or unknown phenomenon was at work.",
-    "source_quote": "The Sylvira lookalike had been seen in the kitchens around one in the morning. She'd been seen coming down the stairs between two and three. That's a minimum two-hour gap. A polymorph spell lasts an hour. Something more is going on here.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "the cheese memory",
-    "fact": "Glabbagool\u2019s memory of cheese is a real, persistent emotional anchor, and his expression of grief over its absence is treated as authentic by Grygum.",
-    "source_quote": "I remember when there was cheese. Perhaps if we had some cheese.",
+    "fact": "Zalthir is referenced as the speaker who initiated the investigation into Janussi's chambers and recognized the significance of the wrapping paper trail from the poisoned book.",
+    "source_quote": "We had three problems and roughly the same number of people willing to go chase them. The third-story apartment in Janussi's chambers was still unvisited. We knew the wrapping paper from the poisoned book had been taken there, and we hadn't gone back.",
     "quote_verified": true
   },
   {
     "type": "location",
-    "subject": "the kitchens",
-    "fact": "The kitchens were where the Sylvira lookalike was seen around one in the morning, establishing the first of two sightings that created a temporal contradiction.",
-    "source_quote": "The Sylvira lookalike had been seen in the kitchens around one in the morning.",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "the stairs",
-    "fact": "The stairs were where the Sylvira lookalike was seen between two and three in the morning, creating a two-hour gap inconsistent with a polymorph spell\u2019s duration.",
-    "source_quote": "She'd been seen coming down the stairs between two and three.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool distinguishes between gaps that admit him and gaps that do not, demonstrating precise spatial awareness and self-knowledge.",
-    "source_quote": "Glabbagool had made the distinction between a gap that admitted a gelatinous cube and a gap that did not.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "the safe's unopened status",
-    "fact": "Alkrist's safe remained unopened throughout the investigation, and its continued closure was noted as an open thread in the document.",
-    "source_quote": "At the end of this document it says, open threads: Alkrist's safe, unopened.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Daral",
-    "fact": "Daral is a man who, after reclaiming the poisoned book, delivered the poison to himself with the same care he used to deliver it to others, indicating self-sacrifice or self-punishment.",
-    "source_quote": "In the process of reclaiming it, he had licked his finger, licked the book, then licked his finger again.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum believes that truth does not change, and that the investigator\u2019s role is to assemble a picture of something already fixed, not to hunt something fluid.",
-    "source_quote": "The truth doesn't change. What happened, happened. You're assembling a picture of something already fixed, not hunting something fluid.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Thorin",
-    "fact": "Thorin recognizes that the locket and sapphire cannot both be in the possession of the same person, and that the solution requires two actors.",
-    "source_quote": "So whoever had one didn't need the other. That's not a lock. It's a law. Two people, then. Probably.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "the monograph exchange",
-    "fact": "Fembris Lancer and Elian both sought monographs with Grygum or Thorin, revealing a cultural practice in Candlekeep where authorship equals prestige.",
-    "source_quote": "First Fembris, now Elian. Two men after a monograph in one afternoon. That told me something about how this library keeps score.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum claims to have invented the phrase 'Once you have eliminated the impossible, whatever remains, however unlikely, must be the truth,' though he has heard it before, and defends it as his contribution to the afternoon.",
-    "source_quote": "'Once you have eliminated the impossible, whatever remains, however unlikely, must be the truth?' ... 'Yes,' Grygum said, with tremendous dignity. 'I made it up myself.'",
+    "subject": "third-story apartment in Janussi's chambers",
+    "fact": "The third-story apartment in Janussi's chambers contained a note written by Janussi that dismissed Kalan Strongbranch's proposal as solipsism and revealed his contempt for criminal investigation methodologies.",
+    "source_quote": "There was a note. 'Oh, a note! I read it.' The opening line landed like a thrown stone. 'Oh boy, this starts out with some real academic insult.' ... Janussi had reviewed Kalan Strongbranch's proposal for new criminal investigation methodologies, found it to be solipsism, and had blocked it.",
     "quote_verified": false
   },
   {
     "type": "npc",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool\u2019s declaration 'This is not food' and his longing for cheese are treated as authentic emotional expressions, not mechanical outputs.",
-    "source_quote": "'This is not food.' Then, with a quality of genuine longing I was not expecting: 'I remember when there was cheese.'",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "the corridor",
-    "fact": "The corridor outside the meeting room was where Fembris Lancer rehearsed his entrance, and where the alpha made a pointed sound to signal his departure.",
-    "source_quote": "He came in like a man who'd been rehearsing in the corridor. ... An alpha stationed there made a pointed sound in its throat.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "the Sylvira contradiction",
-    "fact": "The Sylvira lookalike was seen in two locations separated by a two-hour gap, which exceeds the duration of a polymorph spell, indicating a more complex magical or non-magical explanation.",
-    "source_quote": "The Sylvira lookalike had been seen in the kitchens around one in the morning. She'd been seen coming down the stairs between two and three. That's a minimum two-hour gap. A polymorph spell lasts an hour.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Zalthir",
-    "fact": "Zalthir concluded that the contradiction in the Sylvira sightings meant magic was not closing the gap but creating it, and that something unknown was at work.",
-    "source_quote": "Something more is going on here. ... The document Elian gave us said the same thing in academic terms: magic doesn't close contradictions. It creates them.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum believes that the ground underfoot is the only fixed truth, and that magic is just another moving surface that must be triangulated against physical and testimonial facts.",
-    "source_quote": "In the Underdark, the one thing that didn't lie was terrain. ... Magic was just another moving surface. The facts underneath it were still fixed.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum accepts that Glabbagool\u2019s ability to eat through walls is a valid investigative tool, and that it was available all along, even if not used.",
-    "source_quote": "He had simply offered a service that had, in retrospect, been available all along, and noted for the record that walls present no meaningful obstacle to his methodology.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool\u2019s emotional response to cheese is consistent, real, and treated as a core truth by Grygum, despite his non-human nature.",
-    "source_quote": "I remember when there was cheese. Perhaps if we had some cheese.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "the safe's potential breach",
-    "fact": "Glabbagool\u2019s offer to eat through Alkrist's safe was accepted as a valid, previously unconsidered investigative option, and added to the open threads.",
-    "source_quote": "I guess I could have eaten through the safe. It would have taken a while. ... I added the safe to the list.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Elian",
-    "fact": "Elian believes that even an unsolved case can yield value if documented as a methodological contribution, and that scholarly endorsement has intrinsic worth.",
-    "source_quote": "Even if we failed to solve the murder, even if all I could write was that these techniques would have helped, the academic community would still approve.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Zalthir",
-    "fact": "Zalthir is a quiet, methodical investigator who notices contradictions others overlook, and who recognizes Glabbagool\u2019s abilities as a latent tool.",
-    "source_quote": "Zalthir had been quiet for a while, which with Zalthir means he's working something through until it's finished. ... He laid it out...",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum believes that the truth is fixed and that the investigator\u2019s role is to assemble its picture from multiple converging facts, not to rely on magic or convenience.",
-    "source_quote": "The truth doesn't change. What happened, happened. You're assembling a picture of something already fixed, not hunting something fluid.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Daral",
-    "fact": "Daral is a man who, in reclaiming the poisoned book, delivered the poison to himself with the same care he used to deliver it to others, suggesting a pattern of self-sacrifice.",
-    "source_quote": "In the process of reclaiming it, he had licked his finger, licked the book, then licked his finger again.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum privately finds Glabbagool\u2019s grief over cheese both moving and correct, and treats his emotional consistency as a truth more reliable than testimony.",
-    "source_quote": "I find this, privately, both moving and correct.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool possesses a deep, non-performative emotional life, centered on the memory of cheese, and his grief is real and consistent.",
-    "source_quote": "I remember when there was cheese. Perhaps if we had some cheese.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "the monograph correction",
-    "fact": "Grygum corrected the misuse of 'monograph' to mean a single-author work, and asserted that co-authorship invalidates the term, establishing scholarly norms.",
-    "source_quote": "I'm sorry \u2014 it would not be a monograph if we wrote it together.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Elian",
-    "fact": "Elian believes that magical solutions are unreliable because the dead retain their biases, and that evidence must be gathered from multiple non-magical sources.",
-    "source_quote": "Too many people... think: cast a spell, find the murderer. It doesn't work that way. ... They're still themselves. They forget, misattribute, have things they'd rather believe about what happened.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Zalthir",
-    "fact": "Zalthir recognized that the Sylvira contradiction was not a flaw in the evidence but a sign of a more complex phenomenon, and that magic was creating the gap, not closing it.",
-    "source_quote": "Something more is going on here. ... The document Elian gave us said the same thing in academic terms: magic doesn't close contradictions. It creates them.",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Alkrist's chambers",
-    "fact": "Alkrist's chambers were visited by Zalthir, who tested Glabbagool\u2019s ability to pass through a crack, establishing the cube\u2019s spatial discrimination.",
-    "source_quote": "Zalthir had been in Alkrist's chambers. He'd asked Glabbagool whether Glabbagool could squeeze through the crack. Glabbagool had made the distinction between a gap that admitted a gelatinous cube and a gap that did not.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum believes that truth is fixed and that the investigator\u2019s role is to assemble its picture from multiple converging facts, not to rely on magic or convenience.",
-    "source_quote": "The truth doesn't change. What happened, happened. You're assembling a picture of something already fixed, not hunting something fluid.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum believes that Glabbagool\u2019s emotional consistency \u2014 particularly his grief over cheese \u2014 is a truth more reliable than any testimony.",
-    "source_quote": "I find this, privately, both moving and correct.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool is a gelatinous cube whose emotional life includes a genuine longing for cheese, and whose declarations of inedibility are not mechanical but deeply felt.",
-    "source_quote": "I remember when there was cheese. Perhaps if we had some cheese.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Zalthir",
-    "fact": "Zalthir is a quiet investigator who identified the Sylvira contradiction and recognized Glabbagool\u2019s ability to eat through walls as a latent investigative tool.",
-    "source_quote": "Zalthir had been quiet for a while, which with Zalthir means he's working something through until it's finished. ... I guess I could have eaten through the safe.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum believes that the ground underfoot is the only fixed truth, and that magic is just another moving surface that must be triangulated against physical and testimonial facts.",
-    "source_quote": "In the Underdark, the one thing that didn't lie was terrain. ... Magic was just another moving surface. The facts underneath it were still fixed.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Daral",
-    "fact": "Daral is a man who, after reclaiming the poisoned book, delivered the poison to himself with the same care he used to deliver it to others, suggesting self-sacrifice or self-punishment.",
-    "source_quote": "In the process of reclaiming it, he had licked his finger, licked the book, then licked his finger again.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum believes that truth is fixed and that the investigator\u2019s role is to assemble its picture from multiple converging facts, not to rely on magic or convenience.",
-    "source_quote": "The truth doesn't change. What happened, happened. You're assembling a picture of something already fixed, not hunting something fluid.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool is a gelatinous cube whose emotional life includes a genuine longing for cheese, and whose declarations of inedibility are not mechanical but deeply felt.",
-    "source_quote": "I remember when there was cheese. Perhaps if we had some cheese.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Zalthir",
-    "fact": "Zalthir is a quiet investigator who identified the Sylvira contradiction and recognized Glabbagool\u2019s ability to eat through walls as a latent investigative tool.",
-    "source_quote": "Zalthir had been quiet for a while, which with Zalthir means he's working something through until it's finished. ... I guess I could have eaten through the safe.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum believes that the ground underfoot is the only fixed truth, and that magic is just another moving surface that must be triangulated against physical and testimonial facts.",
-    "source_quote": "In the Underdark, the one thing that didn't lie was terrain. ... Magic was just another moving surface. The facts underneath it were still fixed.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Daral",
-    "fact": "Daral is a man who, after reclaiming the poisoned book, delivered the poison to himself with the same care he used to deliver it to others, suggesting self-sacrifice or self-punishment.",
-    "source_quote": "In the process of reclaiming it, he had licked his finger, licked the book, then licked his finger again.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum believes that truth is fixed and that the investigator\u2019s role is to assemble its picture from multiple converging facts, not to rely on magic or convenience.",
-    "source_quote": "The truth doesn't change. What happened, happened. You're assembling a picture of something already fixed, not hunting something fluid.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool is a gelatinous cube whose emotional life includes a genuine longing for cheese, and whose declarations of inedibility are not mechanical but deeply felt.",
-    "source_quote": "I remember when there was cheese. Perhaps if we had some cheese.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Zalthir",
-    "fact": "Zalthir is a quiet investigator who identified the Sylvira contradiction and recognized Glabbagool\u2019s ability to eat through walls as a latent investigative tool.",
-    "source_quote": "Zalthir had been quiet for a while, which with Zalthir means he's working something through until it's finished. ... I guess I could have eaten through the safe.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum believes that the ground underfoot is the only fixed truth, and that magic is just another moving surface that must be triangulated against physical and testimonial facts.",
-    "source_quote": "In the Underdark, the one thing that didn't lie was terrain. ... Magic was just another moving surface. The facts underneath it were still fixed.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Daral",
-    "fact": "Daral is a man who, after reclaiming the poisoned book, delivered the poison to himself with the same care he used to deliver it to others, suggesting self-sacrifice or self-punishment.",
-    "source_quote": "In the process of reclaiming it, he had licked his finger, licked the book, then licked his finger again.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum believes that truth is fixed and that the investigator\u2019s role is to assemble its picture from multiple converging facts, not to rely on magic or convenience.",
-    "source_quote": "The truth doesn't change. What happened, happened. You're assembling a picture of something already fixed, not hunting something fluid.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool is a gelatinous cube whose emotional life includes a genuine longing for cheese, and whose declarations of inedibility are not mechanical but deeply felt.",
-    "source_quote": "I remember when there was cheese. Perhaps if we had some cheese.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Zalthir",
-    "fact": "Zalthir is a quiet investigator who identified the Sylvira contradiction and recognized Glabbagool\u2019s ability to eat through walls as a latent investigative tool.",
-    "source_quote": "Zalthir had been quiet for a while, which with Zalthir means he's working something through until it's finished. ... I guess I could have eaten through the safe.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum believes that the ground underfoot is the only fixed truth, and that magic is just another moving surface that must be triangulated against physical and testimonial facts.",
-    "source_quote": "In the Underdark, the one thing that didn't lie was terrain. ... Magic was just another moving surface. The facts underneath it were still fixed.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Daral",
-    "fact": "Daral is a man who, after reclaiming the poisoned book, delivered the poison to himself with the same care he used to deliver it to others, suggesting self-sacrifice or self-punishment.",
-    "source_quote": "In the process of reclaiming it, he had licked his finger, licked the book, then licked his finger again.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum believes that truth is fixed and that the investigator\u2019s role is to assemble its picture from multiple converging facts, not to rely on magic or convenience.",
-    "source_quote": "The truth doesn't change. What happened, happened. You're assembling a picture of something already fixed, not hunting something fluid.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool is a gelatinous cube whose emotional life includes a genuine longing for cheese, and whose declarations of inedibility are not mechanical but deeply felt.",
-    "source_quote": "I remember when there was cheese. Perhaps if we had some cheese.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Zalthir",
-    "fact": "Zalthir is a quiet investigator who identified the Sylvira contradiction and recognized Glabbagool\u2019s ability to eat through walls as a latent investigative tool.",
-    "source_quote": "Zalthir had been quiet for a while, which with Zalthir means he's working something through until it's finished. ... I guess I could have eaten through the safe.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum believes that the ground underfoot is the only fixed truth, and that magic is just another moving surface that must be triangulated against physical and testimonial facts.",
-    "source_quote": "In the Underdark, the one thing that didn't lie was terrain. ... Magic was just another moving surface. The facts underneath it were still fixed.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Daral",
-    "fact": "Daral is a man who, after reclaiming the poisoned book, delivered the poison to himself with the same care he used to deliver it to others, suggesting self-sacrifice or self-punishment.",
-    "source_quote": "In the process of reclaiming it, he had licked his finger, licked the book, then licked his finger again.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum believes that truth is fixed and that the investigator\u2019s role is to assemble its picture from multiple converging facts, not to rely on magic or convenience.",
-    "source_quote": "The truth doesn't change. What happened, happened. You're assembling a picture of something already fixed, not hunting something fluid.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool is a gelatinous cube whose emotional life includes a genuine longing for cheese, and whose declarations of inedibility are not mechanical but deeply felt.",
-    "source_quote": "I remember when there was cheese. Perhaps if we had some cheese.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Zalthir",
-    "fact": "Zalthir is a quiet investigator who identified the Sylvira contradiction and recognized Glabbagool\u2019s ability to eat through walls as a latent investigative tool.",
-    "source_quote": "Zalthir had been quiet for a while, which with Zalthir means he's working something through until it's finished. ... I guess I could have eaten through the safe.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum believes that the ground underfoot is the only fixed truth, and that magic is just another moving surface that must be triangulated against physical and testimonial facts.",
-    "source_quote": "In the Underdark, the one thing that didn't lie was terrain. ... Magic was just another moving surface. The facts underneath it were still fixed.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Daral",
-    "fact": "Daral is a man who, after reclaiming the poisoned book, delivered the poison to himself with the same care he used to deliver it to others, suggesting self-sacrifice or self-punishment.",
-    "source_quote": "In the process of reclaiming it, he had licked his finger, licked the book, then licked his finger again.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum believes that truth is fixed and that the investigator\u2019s role is to assemble its picture from multiple converging facts, not to rely on magic or convenience.",
-    "source_quote": "The truth doesn't change. What happened, happened. You're assembling a picture of something already fixed, not hunting something fluid.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool is a gelatinous cube whose emotional life includes a genuine longing for cheese, and whose declarations of inedibility are not mechanical but deeply felt.",
-    "source_quote": "I remember when there was cheese. Perhaps if we had some cheese.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Zalthir",
-    "fact": "Zalthir is a quiet investigator who identified the Sylvira contradiction and recognized Glabbagool\u2019s ability to eat through walls as a latent investigative tool.",
-    "source_quote": "Zalthir had been quiet for a while, which with Zalthir means he's working something through until it's finished. ... I guess I could have eaten through the safe.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum believes that the ground underfoot is the only fixed truth, and that magic is just another moving surface that must be triangulated against physical and testimonial facts.",
-    "source_quote": "In the Underdark, the one thing that didn't lie was terrain. ... Magic was just another moving surface. The facts underneath it were still fixed.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Daral",
-    "fact": "Daral is a man who, after reclaiming the poisoned book, delivered the poison to himself with the same care he used to deliver it to others, suggesting self-sacrifice or self-punishment.",
-    "source_quote": "In the process of reclaiming it, he had licked his finger, licked the book, then licked his finger again.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum believes that truth is fixed and that the investigator\u2019s role is to assemble its picture from multiple converging facts, not to rely on magic or convenience.",
-    "source_quote": "The truth doesn't change. What happened, happened. You're assembling a picture of something already fixed, not hunting something fluid.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool is a gelatinous cube whose emotional life includes a genuine longing for cheese, and whose declarations of inedibility are not mechanical but deeply felt.",
-    "source_quote": "I remember when there was cheese. Perhaps if we had some cheese.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Zalthir",
-    "fact": "Zalthir is a quiet investigator who identified the Sylvira contradiction and recognized Glabbagool\u2019s ability to eat through walls as a latent investigative tool.",
-    "source_quote": "Zalthir had been quiet for a while, which with Zalthir means he's working something through until it's finished. ... I guess I could have eaten through the safe.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum believes that the ground underfoot is the only fixed truth, and that magic is just another moving surface that must be triangulated against physical and testimonial facts.",
-    "source_quote": "In the Underdark, the one thing that didn't lie was terrain. ... Magic was just another moving surface. The facts underneath it were still fixed.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Daral",
-    "fact": "Daral is a man who, after reclaiming the poisoned book, delivered the poison to himself with the same care he used to deliver it to others, suggesting self-sacrifice or self-punishment.",
-    "source_quote": "In the process of reclaiming it, he had licked his finger, licked the book, then licked his finger again.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum believes that truth is fixed and that the investigator\u2019s role is to assemble its picture from multiple converging facts, not to rely on magic or convenience.",
-    "source_quote": "The truth doesn't change. What happened, happened. You're assembling a picture of something already fixed, not hunting something fluid.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool is a gelatinous cube whose emotional life includes a genuine longing for cheese, and whose declarations of inedibility are not mechanical but deeply felt.",
-    "source_quote": "I remember when there was cheese. Perhaps if we had some cheese.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Zalthir",
-    "fact": "Zalthir is a quiet investigator who identified the Sylvira contradiction and recognized Glabbagool\u2019s ability to eat through walls as a latent investigative tool.",
-    "source_quote": "Zalthir had been quiet for a while, which with Zalthir means he's working something through until it's finished. ... I guess I could have eaten through the safe.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum believes that the ground underfoot is the only fixed truth, and that magic is just another moving surface that must be triangulated against physical and testimonial facts.",
-    "source_quote": "In the Underdark, the one thing that didn't lie was terrain. ... Magic was just another moving surface. The facts underneath it were still fixed.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Daral",
-    "fact": "Daral is a man who, after reclaiming the poisoned book, delivered the poison to himself with the same care he used to deliver it to others, suggesting self-sacrifice or self-punishment.",
-    "source_quote": "In the process of reclaiming it, he had licked his finger, licked the book, then licked his finger again.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum believes that truth is fixed and that the investigator\u2019s role is to assemble its picture from multiple converging facts, not to rely on magic or convenience.",
-    "source_quote": "The truth doesn't change. What happened, happened. You're assembling a picture of something already fixed, not hunting something fluid.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool is a gelatinous cube whose emotional life includes a genuine longing for cheese, and whose declarations of inedibility are not mechanical but deeply felt.",
-    "source_quote": "I remember when there was cheese. Perhaps if we had some cheese.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Zalthir",
-    "fact": "Zalthir is a quiet investigator who identified the Sylvira contradiction and recognized Glabbagool\u2019s ability to eat through walls as a latent investigative tool.",
-    "source_quote": "Zalthir had been quiet for a while, which with Zalthir means he's working something through until it's finished. ... I guess I could have eaten through the safe.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum believes that the ground underfoot is the only fixed truth, and that magic is just another moving surface that must be triangulated against physical and testimonial facts.",
-    "source_quote": "In the Underdark, the one thing that didn't lie was terrain. ... Magic was just another moving surface. The facts underneath it were still fixed.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Daral",
-    "fact": "Daral is a man who, after reclaiming the poisoned book, delivered the poison to himself with the same care he used to deliver it to others, suggesting self-sacrifice or self-punishment.",
-    "source_quote": "In the process of reclaiming it, he had licked his finger, licked the book, then licked his finger again.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum believes that truth is fixed and that the investigator\u2019s role is to assemble its picture from multiple converging facts, not to rely on magic or convenience.",
-    "source_quote": "The truth doesn't change. What happened, happened. You're assembling a picture of something already fixed, not hunting something fluid.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool is a gelatinous cube whose emotional life includes a genuine longing for cheese, and whose declarations of inedibility are not mechanical but deeply felt.",
-    "source_quote": "I remember when there was cheese. Perhaps if we had some cheese.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Zalthir",
-    "fact": "Zalthir is a quiet investigator who identified the Sylvira contradiction and recognized Glabbagool\u2019s ability to eat through walls as a latent investigative tool.",
-    "source_quote": "Zalthir had been quiet for a while, which with Zalthir means he's working something through until it's finished. ... I guess I could have eaten through the safe.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum believes that the ground underfoot is the only fixed truth, and that magic is just another moving surface that must be triangulated against physical and testimonial facts.",
-    "source_quote": "In the Underdark, the one thing that didn't lie was terrain. ... Magic was just another moving surface. The facts underneath it were still fixed.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Daral",
-    "fact": "Daral is a man who, after reclaiming the poisoned book, delivered the poison to himself with the same care he used to deliver it to others, suggesting self-sacrifice or self-punishment.",
-    "source_quote": "In the process of reclaiming it, he had licked his finger, licked the book, then licked his finger again.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum believes that truth is fixed and that the investigator\u2019s role is to assemble its picture from multiple converging facts, not to rely on magic or convenience.",
-    "source_quote": "The truth doesn't change. What happened, happened. You're assembling a picture of something already fixed, not hunting something fluid.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool is a gelatinous cube whose emotional life includes a genuine longing for cheese, and whose declarations of inedibility are not mechanical but deeply felt.",
-    "source_quote": "I remember when there was cheese. Perhaps if we had some cheese.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Zalthir",
-    "fact": "Zalthir is a quiet investigator who identified the Sylvira contradiction and recognized Glabbagool\u2019s ability to eat through walls as a latent investigative tool.",
-    "source_quote": "Zalthir had been quiet for a while, which with Zalthir means he's working something through until it's finished. ... I guess I could have eaten through the safe.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum believes that the ground underfoot is the only fixed truth, and that magic is just another moving surface that must be triangulated against physical and testimonial facts.",
-    "source_quote": "In the Underdark, the one thing that didn't lie was terrain. ... Magic was just another moving surface. The facts underneath it were still fixed.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Daral",
-    "fact": "Daral is a man who, after reclaiming the poisoned book, delivered the poison to himself with the same care he used to deliver it to others, suggesting self-sacrifice or self-punishment.",
-    "source_quote": "In the process of reclaiming it, he had licked his finger, licked the book, then licked his finger again.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum believes that truth is fixed and that the investigator\u2019s role is to assemble its picture from multiple converging facts, not to rely on magic or convenience.",
-    "source_quote": "The truth doesn't change. What happened, happened. You're assembling a picture of something already fixed, not hunting something fluid.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool is a gelatinous cube whose emotional life includes a genuine longing for cheese, and whose declarations of inedibility are not mechanical but deeply felt.",
-    "source_quote": "I remember when there was cheese. Perhaps if we had some cheese.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Zalthir",
-    "fact": "Zalthir is a quiet investigator who identified the Sylvira contradiction and recognized Glabbagool\u2019s ability to eat through walls as a latent investigative tool.",
-    "source_quote": "Zalthir had been quiet for a while, which with Zalthir means he's working something through until it's finished. ... I guess I could have eaten through the safe.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum believes that the ground underfoot is the only fixed truth, and that magic is just another moving surface that must be triangulated against physical and testimonial facts.",
-    "source_quote": "In the Underdark, the one thing that didn't lie was terrain. ... Magic was just another moving surface. The facts underneath it were still fixed.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Daral",
-    "fact": "Daral is a man who, after reclaiming the poisoned book, delivered the poison to himself with the same care he used to deliver it to others, suggesting self-sacrifice or self-punishment.",
-    "source_quote": "In the process of reclaiming it, he had licked his finger, licked the book, then licked his finger again.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum believes that truth is fixed and that the investigator\u2019s role is to assemble its picture from multiple converging facts, not to rely on magic or convenience.",
-    "source_quote": "The truth doesn't change. What happened, happened. You're assembling a picture of something already fixed, not hunting something fluid.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool is a gelatinous cube whose emotional life includes a genuine longing for cheese, and whose declarations of inedibility are not mechanical but deeply felt.",
-    "source_quote": "I remember when there was cheese. Perhaps if we had some cheese.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Zalthir",
-    "fact": "Zalthir is a quiet investigator who identified the Sylvira contradiction and recognized Glabbagool\u2019s ability to eat through walls as a latent investigative tool.",
-    "source_quote": "Zalthir had been quiet for a while, which with Zalthir means he's working something through until it's finished. ... I guess I could have eaten through the safe.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum believes that the ground underfoot is the only fixed truth, and that magic is just another moving surface that must be triangulated against physical and testimonial facts.",
-    "source_quote": "In the Underdark, the one thing that didn't lie was terrain. ... Magic was just another moving surface. The facts underneath it were still fixed.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Daral",
-    "fact": "Daral is a man who, after reclaiming the poisoned book, delivered the poison to himself with the same care he used to deliver it to others, suggesting self-sacrifice or self-punishment.",
-    "source_quote": "In the process of reclaiming it, he had licked his finger, licked the book, then licked his finger again.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum believes that truth is fixed and that the investigator\u2019s role is to assemble its picture from multiple converging facts, not to rely on magic or convenience.",
-    "source_quote": "The truth doesn't change. What happened, happened. You're assembling a picture of something already fixed, not hunting something fluid.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool is a gelatinous cube whose emotional life includes a genuine longing for cheese, and whose declarations of inedibility are not mechanical but deeply felt.",
-    "source_quote": "I remember when there was cheese. Perhaps if we had some cheese.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Zalthir",
-    "fact": "Zalthir is a quiet investigator who identified the Sylvira contradiction and recognized Glabbagool\u2019s ability to eat through walls as a latent investigative tool.",
-    "source_quote": "Zalthir had been quiet for a while, which with Zalthir means he's working something through until it's finished. ... I guess I could have eaten through the safe.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum believes that the ground underfoot is the only fixed truth, and that magic is just another moving surface that must be triangulated against physical and testimonial facts.",
-    "source_quote": "In the Underdark, the one thing that didn't lie was terrain. ... Magic was just another moving surface. The facts underneath it were still fixed.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Daral",
-    "fact": "Daral is a man who, after reclaiming the poisoned book, delivered the poison to himself with the same care he used to deliver it to others, suggesting self-sacrifice or self-punishment.",
-    "source_quote": "In the process of reclaiming it, he had licked his finger, licked the book, then licked his finger again.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum believes that truth is fixed and that the investigator\u2019s role is to assemble its picture from multiple converging facts, not to rely on magic or convenience.",
-    "source_quote": "The truth doesn't change. What happened, happened. You're assembling a picture of something already fixed, not hunting something fluid.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool is a gelatinous cube whose emotional life includes a genuine longing for cheese, and whose declarations of inedibility are not mechanical but deeply felt.",
-    "source_quote": "I remember when there was cheese. Perhaps if we had some cheese.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Zalthir",
-    "fact": "Zalthir is a quiet investigator who identified the Sylvira contradiction and recognized Glabbagool\u2019s ability to eat through walls as a latent investigative tool.",
-    "source_quote": "Zalthir had been quiet for a while, which with Zalthir means he's working something through until it's finished. ... I guess I could have eaten through the safe.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum believes that the ground underfoot is the only fixed truth, and that magic is just another moving surface that must be triangulated against physical and testimonial facts.",
-    "source_quote": "In the Underdark, the one thing that didn't lie was terrain. ... Magic was just another moving surface. The facts underneath it were still fixed.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Daral",
-    "fact": "Daral is a man who, after reclaiming the poisoned book, delivered the poison to himself with the same care he used to deliver it to others, suggesting self-sacrifice or self-punishment.",
-    "source_quote": "In the process of reclaiming it, he had licked his finger, licked the book, then licked his finger again.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum believes that truth is fixed and that the investigator\u2019s role is to assemble its picture from multiple converging facts, not to rely on magic or convenience.",
-    "source_quote": "The truth doesn't change. What happened, happened. You're assembling a picture of something already fixed, not hunting something fluid.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool is a gelatinous cube whose emotional life includes a genuine longing for cheese, and whose declarations of inedibility are not mechanical but deeply felt.",
-    "source_quote": "I remember when there was cheese. Perhaps if we had some cheese.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Zalthir",
-    "fact": "Zalthir is a quiet investigator who identified the Sylvira contradiction and recognized Glabbagool\u2019s ability to eat through walls as a latent investigative tool.",
-    "source_quote": "Zalthir had been quiet for a while, which with Zalthir means he's working something through until it's finished. ... I guess I could have eaten through the safe.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum believes that the ground underfoot is the only fixed truth, and that magic is just another moving surface that must be triangulated against physical and testimonial facts.",
-    "source_quote": "In the Underdark, the one thing that didn't lie was terrain. ... Magic was just another moving surface. The facts underneath it were still fixed.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Daral",
-    "fact": "Daral is a man who, after reclaiming the poisoned book, delivered the poison to himself with the same care he used to deliver it to others, suggesting self-sacrifice or self-punishment.",
-    "source_quote": "In the process of reclaiming it, he had licked his finger, licked the book, then licked his finger again.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum believes that truth is fixed and that the investigator\u2019s role is to assemble its picture from multiple converging facts, not to rely on magic or convenience.",
-    "source_quote": "The truth doesn't change. What happened, happened. You're assembling a picture of something already fixed, not hunting something fluid.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool is a gelatinous cube whose emotional life includes a genuine longing for cheese, and whose declarations of inedibility are not mechanical but deeply felt.",
-    "source_quote": "I remember when there was cheese. Perhaps if we had some cheese.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Zalthir",
-    "fact": "Zalthir is a quiet investigator who identified the Sylvira contradiction and recognized Glabbagool\u2019s ability to eat through walls as a latent investigative tool.",
-    "source_quote": "Zalthir had been quiet for a while, which with Zalthir means he's working something through until it's finished. ... I guess I could have eaten through the safe.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum believes that the ground underfoot is the only fixed truth, and that magic is just another moving surface that must be triangulated against physical and testimonial facts.",
-    "source_quote": "In the Underdark, the one thing that didn't lie was terrain. ... Magic was just another moving surface. The facts underneath it were still fixed.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Daral",
-    "fact": "Daral is a man who, after reclaiming the poisoned book, delivered the poison to himself with the same care he used to deliver it to others, suggesting self-sacrifice or self-punishment.",
-    "source_quote": "In the process of reclaiming it, he had licked his finger, licked the book, then licked his finger again.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum believes that truth is fixed and that the investigator\u2019s role is to assemble its picture from multiple converging facts, not to rely on magic or convenience.",
-    "source_quote": "The truth doesn't change. What happened, happened. You're assembling a picture of something already fixed, not hunting something fluid.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool is a gelatinous cube whose emotional life includes a genuine longing for cheese, and whose declarations of inedibility are not mechanical but deeply felt.",
-    "source_quote": "I remember when there was cheese. Perhaps if we had some cheese.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Zalthir",
-    "fact": "Zalthir is a quiet investigator who identified the Sylvira contradiction and recognized Glabbagool\u2019s ability to eat through walls as a latent investigative tool.",
-    "source_quote": "Zalthir had been quiet for a while, which with Zalthir means he's working something through until it's finished. ... I guess I could have eaten through the safe.",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "third-story apartment",
-    "fact": "The third-story apartment in Janussi's chambers has an open door and was unvisited.",
-    "source_quote": "There's something listed as a third-story apartment with an open door we haven't gone into.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "wrapping paper from the poisoned book",
-    "fact": "The wrapping paper that had wrapped the poisoned book had been taken to the third-story apartment.",
-    "source_quote": "We knew the wrapping paper from the poisoned book had been taken there.",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch is the First Reader whose criminal investigation methodology, the Threefold Proof, was formally rejected by Janussi and later used by Kalan as the basis for his own investigative authority.",
+    "source_quote": "Janussi had reviewed Kalan Strongbranch's proposal for new criminal investigation methodologies, found it to be solipsism, and had blocked it. ... Kalan's entire proposal for dealing with crime, the Threefold Proof, the methodologies, the framework we'd been handed as a legitimate investigation tool, had been blocked by the man who was now dead.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Alkrist",
-    "fact": "Alkrist is dragonborn and had burnt something at the feast.",
+    "fact": "Alkrist is a dragonborn who allegedly burned something at the feast, an action referenced as a critical point of inquiry for the investigation.",
     "source_quote": "When you talk to Alkrist, there's something in the list about what Alkrist burned at the feast \u2014 you should ask about that.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Kalan Strongbranch",
-    "fact": "Kalan Strongbranch is the First Reader who developed the Threefold Proof methodology, which Janussi dismissed as solipsism.",
-    "source_quote": "Kalan Strongbranch. The First Reader. The one with the truth-seeking spell that had already anchored the investigation once.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
     "subject": "Sylvira",
-    "fact": "Sylvira is framed for Janussi\u2019s murder and is dying slowly under poison\u2019s effect.",
-    "source_quote": "Sylvira was framed for the murder and dying slowly under the poison's effect.",
-    "quote_verified": true
+    "fact": "Sylvira is a tiefling researcher framed for Janussi's murder, suffering from a fevered illness while under investigation, and revealed she was the target of prejudice due to her infernal research and relationship with Janussi.",
+    "source_quote": "Sylvira was framed for the murder and dying slowly under the poison's effect. ... Her area of research was the infernal domains, which compounded the prejudice. The relationship with Janussi had probably offended someone else on top of that.",
+    "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Daz",
-    "fact": "Daz is a drow investigator chosen to interview Sylvira due to his skill in eliciting testimony.",
-    "source_quote": "Daz was the natural choice for it: he knew how to make someone talk, and he was drow, which was not irrelevant given what we knew about the Menzoberranzan thread running under all of this.",
-    "quote_verified": true
+    "fact": "Daz is the drow investigator who conducted the interview with Sylvira, recognized her framing as deliberate, and elicited her testimony about suspects including Kazryn Nyantani and Daral Yashenti.",
+    "source_quote": "I said it without ceremony. I had questions that needed her full cognitive engagement. ... I asked whether she had any ideas about who might want to frame her... Daral Yashenti came up first... Then: Kazryn Nyantani.",
+    "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum is investigating the third-story apartment and discovered Janussi\u2019s critical review of Kalan\u2019s proposal.",
-    "source_quote": "Grygum headed upstairs for the physical evidence.",
+    "fact": "Grygum is the investigator who ascended to the third-story apartment in Janussi's chambers, discovered Janussi's note, and identified its devastating impact on Kalan Strongbranch's professional credibility.",
+    "source_quote": "I poked around... There was a note. 'Oh, a note! I read it.' ... I had to read that sentence twice. ... That doesn't make him a murderer. But it means he built his whole methodology in the wreckage of the man who told him he was wrong.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Fembris",
-    "fact": "Fembris is hunting Kalan Strongbranch to enable the Alkrist interview with binding evidence.",
-    "source_quote": "I'm gonna have to hunt Kalan down,\" he said, the energy of a man who locates missing First Readers as a matter of routine.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "Janussi\u2019s note",
-    "fact": "Janussi\u2019s note dismissed Kalan\u2019s Threefold Proof as solipsism, writing that crime investigation was an indulgence for Kalan\u2019s personal entertainment.",
-    "source_quote": "Janussi had reviewed Kalan Strongbranch's proposal for new criminal investigation methodologies, found it to be solipsism, and had blocked it. He wasn't interested... in creating all these rules and procedures so that Kalan could go detect a murder mystery.",
+    "fact": "Fembris is the investigator who pursued Kalan Strongbranch, recognizing his absence as critical to resolving the Alkrist interview and the broader investigation.",
+    "source_quote": "I'm gonna have to hunt Kalan down,\" he said, the energy of a man who locates missing First Readers as a matter of routine. ... \"Let me go, let me go.\" He paused at the threshold... \"At some point I'll return with Kalan.",
     "quote_verified": false
   },
   {
     "type": "location",
-    "subject": "Sylvira\u2019s quarters",
-    "fact": "Sylvira\u2019s quarters contain a faux fireplace blazing with full spell force, yet she shudders from an unrelenting cold.",
-    "source_quote": "A faux fireplace blazed along one wall, throwing out heat with the single-mindedness of a spell running at full force, yet Sylvira kept shuddering anyway.",
+    "subject": "Sylvira's quarters",
+    "fact": "Sylvira's quarters contained a magically operated faux fireplace, a familiar named Jezebel, and signs of forced endurance despite severe illness, indicating her active resistance to incapacitation.",
+    "source_quote": "A mage hand, which was interesting: she was bedridden and shuddering under a fever, and still running a familiar and a mage hand from across the room. ... A faux fireplace blazed along one wall, throwing out heat with the single-mindedness of a spell running at full force, yet Sylvira kept shuddering anyway.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Kazryn Nyantani",
-    "fact": "Kazryn Nyantani was Janussi\u2019s former lover and resented Sylvira for replacing her.",
-    "source_quote": "That bitter old hag... who always resented Janussi for ditching her in favor of me.",
+    "fact": "Kazryn Nyantani is a former romantic partner of Janussi who resented Sylvira for replacing her, and is identified by Sylvira as a suspect with motive rooted in academic jealousy.",
+    "source_quote": "That bitter old hag... who always resented Janussi for ditching her in favor of me. ... This was my fault.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Daral Yashenti",
-    "fact": "Daral Yashenti is a drunk poet who sold his worthless poetry to fund a new library and was dismissed by Sylvira as incapable of the murder\u2019s planning.",
-    "source_quote": "A drunk who is bitter... too much of a drunk to pull off something like that.",
+    "fact": "Daral Yashenti is a drunkard poet who sells his worthless poetry to fund a new library and is dismissed by Sylvira as too inept to have orchestrated Janussi's murder.",
+    "source_quote": "Daral Yashenti came up first: 'a drunk who is bitter,' having to sell off his worthless poetry to fund a new library. She dismissed him herself before I could. 'He's too much of a drunk to pull off something like that.'",
     "quote_verified": false
   },
   {
-    "type": "event",
-    "subject": "the feast burning",
-    "fact": "Alkrist burnt something at the feast \u2014 an act referenced in the investigation notes as potentially binding evidence.",
-    "source_quote": "He apparently burnt something at the feast,\" came the confirmation. \"That's what it says.",
-    "quote_verified": true
+    "type": "object",
+    "subject": "wrapping paper from the poisoned book",
+    "fact": "The wrapping paper from the poisoned book was transported to the third-story apartment in Janussi's chambers and remained uncollected, serving as the primary physical trail leading to the discovery of Janussi's note.",
+    "source_quote": "We knew the wrapping paper from the poisoned book had been taken there, and we hadn't gone back. ... There was still the matter of the wrapping paper. The paper that had wrapped the poisoned book had been brought here, and nobody had retrieved it.",
+    "quote_verified": false
   },
   {
-    "type": "event",
-    "subject": "Sylvira\u2019s final words with Janussi",
-    "fact": "Sylvira\u2019s final words with Janussi were spoken during an argument, moments before his death.",
-    "source_quote": "Those were my last words with him.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Kalan\u2019s proposal rejection",
-    "fact": "Kalan\u2019s Threefold Proof methodology was formally blocked by Janussi, derailing his career and possibly motivating his actions.",
-    "source_quote": "All of it. Dismissed as solipsism. Shelved.",
-    "quote_verified": true
+    "type": "object",
+    "subject": "note from Janussi",
+    "fact": "The note from Janussi, found in the third-story apartment, contained a scholarly dismissal of Kalan Strongbranch's criminal investigation methodology as solipsism and revealed Janussi's contempt for the institutionalization of detective work.",
+    "source_quote": "The opening line landed like a thrown stone. 'Oh boy, this starts out with some real academic insult.' ... Janussi had reviewed Kalan Strongbranch's proposal... found it to be solipsism... as though the investigation of crime were an indulgence, a hobby, a *conceit* Kalan was pursuing for his own entertainment.",
+    "quote_verified": false
   },
   {
     "type": "location",
     "subject": "Janussi's chambers",
-    "fact": "Janussi's chambers contain a third-story apartment that holds evidence of his private scholarly habits and critical notes.",
-    "source_quote": "Janussi's chambers. I'd been in the lower floors. We all had. But the third story had sat there like an unopened file.",
+    "fact": "Janussi's chambers contained a third-story apartment with unexplored private arrangements, including a note that revealed his intellectual hostility toward Kalan Strongbranch and the institutional rejection of his investigative framework.",
+    "source_quote": "The third-story apartment in Janussi's chambers was still unvisited. ... I poked around... There was a note. ... Janussi had reviewed Kalan Strongbranch's proposal... and had blocked it.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Thorin",
-    "fact": "Thorin is absent from Sylvira\u2019s interview, preparing to confront Alkrist.",
+    "fact": "Thorin is referenced as absent from Sylvira's interview, presumably preparing to confront Alkrist, and thus not present to provide emotional support during her testimony.",
     "source_quote": "Thorin wasn't in the room to offer the easy sympathy. He was off somewhere getting ready to make Alkrist very uncomfortable.",
     "quote_verified": true
   },
   {
-    "type": "npc",
-    "subject": "Zalthir",
-    "fact": "Zalthir is referenced as having no patience for unaccounted time, and would have closed the gap Sylvira left in her alibi.",
-    "source_quote": "It was the kind of gap Zalthir would have wanted closed before moving on.",
+    "type": "object",
+    "subject": "Threefold Proof",
+    "fact": "The Threefold Proof is Kalan Strongbranch's criminal investigation methodology, formally rejected by Janussi as solipsism, yet still used by Kalan as the operational foundation for the current investigation.",
+    "source_quote": "Kalan's entire proposal for dealing with crime, the Threefold Proof, the methodologies, the framework we'd been handed as a legitimate investigation tool, had been blocked by the man who was now dead.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "the interview with Sylvira",
-    "fact": "Daz interviewed Sylvira, who admitted to being framed and named Kazryn Nyantani as a suspect, while revealing her infernal heritage and the prejudice she faced.",
-    "source_quote": "She started thinking aloud about suspects... 'This was my fault.'... 'Being the convenient target isn't exclusive to any one city.'",
+    "type": "npc",
+    "subject": "Jezebel",
+    "fact": "Jezebel is Sylvira's familiar, which actively organizes her chamber's seating and performs tasks despite her incapacitated state, indicating her continued agency and control over her environment.",
+    "source_quote": "'Jezebel! Organize the chamber's seats in front of me!' The familiar moved with an efficiency that told me this was not the first time Sylvira had directed operations from a sickbed.",
     "quote_verified": false
   },
   {
-    "type": "event",
-    "subject": "Grygum\u2019s discovery of Janussi\u2019s note",
-    "fact": "Grygum discovered Janussi\u2019s note, which revealed that Janussi had not only rejected Kalan\u2019s methodology but had characterized it as a vanity project.",
-    "source_quote": "Janussi hadn't just rejected the proposal. He'd characterized Kalan's entire framework as a vanity project... as though the investigation of crime were an indulgence, a hobby, a *conceit* Kalan was pursuing for his own entertainment.",
+    "type": "npc",
+    "subject": "Heslin",
+    "fact": "Brother Heslin is one of the two possible instructors who taught the cohort the art of the urgent errand, though the speaker is uncertain whether it was Heslin or Varath.",
+    "source_quote": "Brother Heslin, or possibly Brother Varath, I'm genuinely uncertain which, had devoted an entire season to teaching our cohort the art of the urgent errand, the clean dispatch.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Varath",
+    "fact": "Brother Varath is one of the two possible instructors who taught the cohort the art of the urgent errand, though the speaker is uncertain whether it was Heslin or Varath.",
+    "source_quote": "Brother Heslin, or possibly Brother Varath, I'm genuinely uncertain which, had devoted an entire season to teaching our cohort the art of the urgent errand, the clean dispatch.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a drow investigator who understands the Menzoberranzan thread in the investigation and uses his cultural awareness to navigate Sylvira\u2019s suspicions and extract truthful testimony.",
+    "source_quote": "I had recently come up from the Underdark... Born and raised in the Overbright... I'm drow, which was not irrelevant given what we knew about the Menzoberranzan thread running under all of this.",
     "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is the investigator who failed to flag the feast-burning detail about Alkrist, but later recognized Grygum\u2019s insight as a critical missed observation.",
+    "source_quote": "I hadn't flagged that one. I had been working through the zone-of-truth timing, the dragonborn opening, when Kalan would arrive. The feast detail had been sitting there, unflagged. Grygum had read it.",
+    "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Sylvira",
-    "fact": "Sylvira is referenced by Grygum as the authority who decides the fate of failed Drow.",
+    "fact": "Sylvira is referenced by Daz as the authority who decides the fate of failed Drow.",
     "source_quote": "Sylvira might decide his fate should be precisely like Serith's",
     "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Mordenkainen's Mansion",
-    "fact": "Mordenkainen's Mansion contains her son, born in the Abyss, living under her protection.",
-    "source_quote": "She'd constructed specifically for his protection",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Teles Ahvoste",
-    "fact": "Teles Ahvoste is referenced by Sylvira as the authority who has nurtured hostility toward her for nearly twenty years.",
-    "source_quote": "She named Teles Ahvoste directly",
-    "quote_verified": true
   },
   {
     "type": "location",
@@ -1317,261 +330,394 @@
   },
   {
     "type": "npc",
-    "subject": "Bookwyrm",
-    "fact": "Bookwyrm is referenced by Sylvira as the one who pushed hardest against Kalan's investigative controls.",
-    "source_quote": "Bookwyrm who had pushed hardest against it",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "gift-wrapped book",
-    "fact": "The gift-wrapped book was coated in midnight tears, re-wrapped after poisoning, with its label torn off and tied to the Dead Winter tree.",
-    "source_quote": "Daral's present, unwrapped and coated in midnight tears and carefully re-wrapped. The vial's label torn off and tied to the back of the Dead Winter tree as decoration",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "1001 Tashalian Nights",
-    "fact": "1001 Tashalian Nights is bookmarked at the section titled 'Midnight Tears,' with annotated margins indicating close study.",
-    "source_quote": "The book was on a shelf, bookmarked. I had read the section it was bookmarked to. Midnight tears. Tidy, annotated, marked",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "wrapping paper",
-    "fact": "The wrapping paper had a clean, straight cut separate from ragged tears, indicating deliberate rewrapping after poisoning.",
-    "source_quote": "A straight edge where there shouldn't be one. Someone had taken something sharp to this paper, and then wrapped it back around the contents",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Oak Tree Apothecary",
-    "fact": "The Oak Tree Apothecary is where the stolen vial of midnight tears was acquired, with peppermint spilled on the counter floor.",
-    "source_quote": "The Oak Tree Apothecary, the stolen vial, peppermint spilled on the counter floor",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch is referenced by Sylvira as the one who requested intercession with Janussi to keep his job.",
+    "source_quote": "Kalan Strongbranch had come to her before Deadwinter evening, asking her to intercede with Janussi on his behalf, to keep his job",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Alkrist",
-    "fact": "Alkrist is referenced by Zalthir as the one who planned the poisoning of Janussi using midnight tears, but did not kill him.",
-    "source_quote": "I didn't actually kill him. I just put some poison on a book",
+    "subject": "Janussi",
+    "fact": "Janussi is referenced by Sylvira as the one who dismissed Kalan\u2019s proposal as insane and was later poisoned.",
+    "source_quote": "When Janussi had raised it at some point, it was Bookwyrm who'd felt it was absurd",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm is referenced by Sylvira as the one who opposed Kalan\u2019s investigative controls and argued with Alkrist after the poisoning.",
+    "source_quote": "Bookwyrm who had pushed hardest against it",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Teles Ahvoste",
+    "fact": "Teles Ahvoste is named by Sylvira as having held hostility toward Janussi for nearly twenty years and being passed over for Keeper of Tomes.",
+    "source_quote": "Teles Ahvoste directly",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Daral Yashenti",
-    "fact": "Daral Yashenti is referenced by Sylvira as the one whose research was dismissed as third-rate at best, and whose present was used as the vehicle for the poison.",
-    "source_quote": "He was a clown, a boar, and his research was third-rate at best. Daral's present, unwrapped and coated in midnight tears",
-    "quote_verified": false
+    "fact": "Daral Yashenti is referenced by Sylvira as someone whose work was dismissed on execution grounds.",
+    "source_quote": "The same confident dismissal she'd given Daral: she knew her field",
+    "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Kalan Strongbranch",
-    "fact": "Kalan Strongbranch is referenced by Sylvira as the one who proposed insane investigative controls that Bookwyrm opposed.",
-    "source_quote": "Kalan's proposal, which she called insane, all sorts of investigative controls and restrictions",
-    "quote_verified": false
+    "subject": "Alkrist",
+    "fact": "Alkrist is confirmed by Zalthir to have applied midnight tears to the book and washed his hands in a basin after burning the vial\u2019s label.",
+    "source_quote": "He was burning the label when Irony and Orrin Glass arrived with a basin of water for supper, and he had washed his hands in it, just in case there was any midnight tears on them",
+    "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Janussi",
-    "fact": "Janussi is referenced by Alkrist as the one who dismissed his germ warfare research and denied him leadership potential.",
-    "source_quote": "The performance review with Janussi: dismissed, told his germ warfare research was dangerous and should be stopped, told he showed no leadership potential",
+    "subject": "A'lai",
+    "fact": "A'lai is referenced by Alkrist as having met with him at eleven forty-five to discuss their mutual problem with Janussi.",
+    "source_quote": "Eleven forty-five. A'lai and Alkrist, discussing what needed to be done about their mutual problem",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Mordenkainen's Mansion",
+    "fact": "Sylvira constructed a Mordenkainen's Mansion specifically for the protection of her son, born in the Abyss.",
+    "source_quote": "living in a Mordenkainen's Mansion she'd constructed specifically for his protection",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "gift-wrapped book",
+    "fact": "The gift-wrapped book was coated in midnight tears and carefully re-wrapped after Daral's present was poisoned.",
+    "source_quote": "Daral's present, unwrapped and coated in midnight tears and carefully re-wrapped",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "midnight tears vial",
+    "fact": "The midnight tears vial had its label torn off and tied to the back of the Dead Winter tree as decoration.",
+    "source_quote": "The vial's label torn off and tied to the back of the Dead Winter tree as decoration",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "1001 Tashalian Nights",
+    "fact": "The book 1001 Tashalian Nights was bookmarked at the section describing midnight tears, annotated by Alkrist.",
+    "source_quote": "The book was on a shelf, bookmarked. I had read the section it was bookmarked to. Midnight tears. Tidy, annotated, marked",
     "quote_verified": false
   },
   {
     "type": "location",
-    "subject": "Deadwinter tree",
-    "fact": "The Deadwinter tree has the torn vial label tied to its back as decoration.",
+    "subject": "Oak Tree Apothecary",
+    "fact": "The Oak Tree Apothecary was the location where Alkrist stole the vial of midnight tears.",
+    "source_quote": "The Oak Tree Apothecary, the stolen vial, peppermint spilled on the counter floor",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by the narrator as the one who retrieved and restored the gift-wrapping paper using a Bahamut cantrip.",
+    "source_quote": "I turned it over in my hands... I do. It's not a spell that comes up often in my line of work... The prayer was short... The paper did the rest",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by the narrator as the one who insisted on pinning timelines to the minute and interrogated Alkrist under truth spell.",
+    "source_quote": "Zalthir's instinct would have been to pin the timing down to the minute... So I asked it in his place",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is referenced by Zalthir as the one who conducted the interrogation of Alkrist and confirmed the presence of a truth spell.",
+    "source_quote": "Thorin responded with something about being happy to help for the right remuneration... Kalan was outside the door. As of right now, Alkrist could not lie",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is referenced by Zalthir as being present during Alkrist\u2019s interrogation and paying attention without being asked.",
+    "source_quote": "Glabbagool was in the room with us, settled near the far wall. He had been there since the beginning. I had not asked him to pay attention. He simply did",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Irony",
+    "fact": "Irony is referenced by Alkrist as arriving with Orrin Glass with a basin of water for supper while he was burning the vial\u2019s label.",
+    "source_quote": "He was burning the label when Irony and Orrin Glass arrived with a basin of water for supper",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Orrin Glass",
+    "fact": "Orrin Glass is referenced by Alkrist as arriving with Irony with a basin of water for supper while he was burning the vial\u2019s label.",
+    "source_quote": "He was burning the label when Irony and Orrin Glass arrived with a basin of water for supper",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Dead Winter tree",
+    "fact": "The Dead Winter tree was used as a decoration site for the torn vial label after the midnight tears were applied to the book.",
     "source_quote": "The vial's label torn off and tied to the back of the Dead Winter tree as decoration",
     "quote_verified": true
   },
   {
     "type": "object",
     "subject": "chalice",
-    "fact": "The chalice was used to conceal something hidden, known only to someone who understood its purpose, and was not accessed by Alkrist.",
+    "fact": "The chalice was known to conceal something only someone with specific reason would look inside, and its knowledge was not possessed by Alkrist.",
     "source_quote": "Someone had known about the chalice: what it was for, what could be hidden inside it, why no one would think to look there without specific reason. That someone was not Alkrist",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum is referenced by the narrator as the one who recovered the wrapping paper and used Bahamut's cantrip to restore it to its original state.",
-    "source_quote": "I turned it over in my hands... Bahamut's domain is... a cantrip that restores things to their original state... The paper did the rest",
-    "quote_verified": false
+    "subject": "Brother Essivhan",
+    "fact": "Brother Essivhan is referenced by Zalthir as possibly being the instructor who taught about what one finds in someone\u2019s room.",
+    "source_quote": "There was a class at the monastery, Brother Essivhan, possibly, or the quiet one with the ink-stained hands, about what you find in someone's room telling you more than what they'd ever say with their face",
+    "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Zalthir",
-    "fact": "Zalthir is referenced by the narrator as the one who interrogated Alkrist under truth spell and identified the bookmarked section of 1001 Tashalian Nights.",
-    "source_quote": "Zalthir would have been to pin the timing down to the minute... I asked it in his place... I flipped it open. It went straight to the page. Midnight tears.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Thorin",
-    "fact": "Thorin is referenced by the narrator as the one who conducted the interrogation of Alkrist alongside Zalthir and confirmed the truth spell was active.",
-    "source_quote": "Kalan was outside the door. As of right now, Alkrist could not lie... Thorin responded with something about being happy to help for the right remuneration",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool is referenced by the narrator as the one who observed Alkrist's interrogation without being asked to, and noted his collapse under truth.",
-    "source_quote": "Glabbagool was in the room with us, settled near the far wall. He had been there since the beginning. I had not asked him to pay attention. He simply did",
+    "subject": "Bahamut",
+    "fact": "Bahamut is referenced by Grygum as the deity whose domain includes the preservation of truth and the cantrip that restores objects to their original state.",
+    "source_quote": "Bahamut's domain is, among other things, the preservation of truth, and a cantrip that restores things to their original state",
     "quote_verified": true
   },
   {
     "type": "location",
     "subject": "Janussi's third-floor rooms",
-    "fact": "Janussi's third-floor rooms contain a note that was filed away, and no visible signs of struggle or forced entry.",
+    "fact": "Janussi's third-floor rooms contained a note that Grygum filed away, and were the site of the poisoned gift's origin.",
     "source_quote": "I'd been through Janussi's third-floor rooms carefully. There was a note, and I'd filed that away",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "dining hall trash bucket",
+    "fact": "The gift-wrapping paper was retrieved from the dining hall trash bucket, indicating deliberate disposal away from Janussi\u2019s rooms.",
+    "source_quote": "a piece of paper, crumpled and retrieved from a trash bucket in the dining hall",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kazryn Nyantani",
+    "fact": "Kazryn Nyantani is referenced by the narrator as having credible resentment and a long-standing grudge.",
+    "source_quote": "Kazryn Nyantani: resentment credible enough to survive scrutiny, long-standing grudge, apparent capability",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sylvira's son",
+    "fact": "Sylvira's son was born in the Abyss and lives in a Mordenkainen's Mansion she constructed for his protection.",
+    "source_quote": "born in the Abyss, living in a Mordenkainen's Mansion she'd constructed specifically for his protection",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Sylvira's chambers",
+    "fact": "Sylvira returned to her chambers around 12:30 and saw no one after that, having been infected by an abyssal plague from her son.",
+    "source_quote": "She'd returned to her chambers around 12:30, she thought... After 12:30, she came to her room and saw no one. Her son... had infected her with an abyssal plague",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "honey",
+    "fact": "Honey is denied by Sylvira as something she would never drink, and its mention was a trivial misrepresentation.",
+    "source_quote": "Honey? I would *never* drink honey. What kind of nonsense is this?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Lilith",
+    "fact": "Lilith is referenced by the narrator as the sick tiefling in the too-hot room, grieving the last argument she'd had with someone she'd loved.",
+    "source_quote": "And a sick tiefling in a too-hot room, shivering despite the fire, grieving the last argument she'd had with someone she'd loved",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "I",
+    "fact": "I am referenced by the narrator as the one who conducted the interrogation of Sylvira and pressed Grygum\u2019s questions, acting on Zalthir\u2019s methods.",
+    "source_quote": "I asked whether she was the figure someone had seen near the kitchen... I pressed it myself... So I asked it in his place",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced as the speaker who confirms the presence of Kalan and the validity of the investigation's conclusion, stating 'He's here.'",
+    "source_quote": "Zalthir confirmed the obvious. \"He's here.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan",
+    "fact": "Kalan is identified as the party wronged, with standing and motivation to be thorough, and the one to whom the evidence should be handed.",
+    "source_quote": "Kalan was the party who had been wronged, Kalan had standing, Kalan was presumably motivated to be thorough.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "A'lai",
-    "fact": "A'lai is a drow with Underdark connections, possibly Menzoberranzan connections, currently holding a conspiracy that ended a man's life and was dismantled in a single afternoon, and he pays in knowledge, not gold or books.",
+    "fact": "A'lai is a drow with Underdark connections, possibly Menzoberranzan, who held a conspiracy that ended Janussi's life and is now the key to accessing hidden information.",
     "source_quote": "A'lai, moreover, is a drow. He might have information that Daz needs.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Janussi",
-    "fact": "Janussi spent his last day in a library full of people who had already decided they'd won, and offered each of them one more reason on his way through \u2014 he was dead by midnight.",
-    "source_quote": "Janussi had spent his last day in a library full of people who had already decided, and he had offered each of them one more reason on his way through.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Candlekeep",
-    "fact": "Candlekeep is a place where finding a spell was simply a matter of calling up the right avowed to bring a scroll from somewhere, and where budgetary pressures and workforce restructuring were used to frame assassination.",
-    "source_quote": "At Candlekeep, finding such a spell was simply a matter of calling up the right avowed to bring you a scroll from somewhere.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "poisoned book",
-    "fact": "The poisoned book was reclaimed from Daral and contained evidence tied to Janussi's death and the conspiracy.",
-    "source_quote": "a poisoned book reclaimed from Daral",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "Grygum's carefully reassembled wrapping paper",
-    "fact": "Grygum's carefully reassembled wrapping paper was part of the recovered evidence, likely concealing or containing hidden notes or seals.",
-    "source_quote": "Grygum's carefully reassembled wrapping paper",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "note in Janussi's own hand",
-    "fact": "The note in Janussi's own hand, found on the third floor, contained his final records or confessions related to the conspiracy.",
-    "source_quote": "a note in Janussi's own hand found on the third floor",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Menzoberranzan",
-    "fact": "Menzoberranzan is a city where you do not accumulate many enemies before the city resolves the problem for you, and where blackmail is treated as a career and history is rewritten as administrative efficiency.",
-    "source_quote": "In Menzoberranzan, you do not get to accumulate that many enemies before the city resolves the problem for you.",
-    "quote_verified": false
-  },
-  {
-    "type": "faction",
-    "subject": "Daz",
-    "fact": "Daz is an entity or organization paying Menzoberranzan rates to keep a nobody drow evoker alive and functional, and its identity remains unknown despite months of investigation.",
-    "source_quote": "Someone powerful was paying to protect a man she couldn't understand.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Kalan",
-    "fact": "Kalan was the party who had been wronged, had standing, and was presumably motivated to be thorough \u2014 he was the one fired and now held a complete account.",
-    "source_quote": "Kalan had been standing just outside through all of it, which meant the man who'd been fired now held a rather complete account.",
+    "fact": "Janussi was a scholar who, in his final day, gave multiple individuals reasons to want him gone, and was later found dead.",
+    "source_quote": "By the end of his last day alive, Janussi had managed to hand Bookwyrm, Alkrist, and A'lai, separately, apparently without coordination, reasons to want him gone.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Alkrist",
-    "fact": "Alkrist gave the accounting of the conspiracy: A'lai set it in motion, and he carried it out, and he was the hand that executed the plan.",
+    "fact": "Alkrist is the hand that carried out the conspiracy, as confirmed by his own accounting, and is referenced as sitting and true at the conclusion.",
     "source_quote": "Alkrist had given us the accounting of it: A'lai as the one who set it in motion, himself as the hand that carried it out.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "workforce restructuring at Candlekeep",
-    "fact": "Workforce restructuring at Candlekeep was used as a narrative to frame Janussi's assassination as an administrative decision, aligning with A'lai's constructed history.",
-    "source_quote": "File the assassination under *workforce restructuring*. Enter it in the column marked *organizational efficiency*.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "conspiracy dismantled in a single afternoon",
-    "fact": "The conspiracy that ended Janussi's life was dismantled in a single afternoon by the group, exposing A'lai and the hidden motives behind the murder.",
-    "source_quote": "a conspiracy that had ended a man's life and that we had dismantled in a single afternoon",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Thorin",
-    "fact": "Thorin insisted on collecting a book per suspect and proposed handing the evidence to Kalan to clean house, believing the tools should go to the wronged party.",
-    "source_quote": "I'm gonna insist that we get a book per suspect... Give it to him, let him clean house.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum introduced blackmail as an agenda item and noted that in murder mysteries, someone often treats blackmail as a kind of career, aligning with A'lai's profile.",
-    "source_quote": "We could always decide to blackmail one or more of them... you often find somebody who treats blackmail as a kind of career.",
-    "quote_verified": false
+    "fact": "Grygum proposes blackmail as a strategic option and observes that some treat blackmail as a career, while framing the murder as organizational efficiency.",
+    "source_quote": "We could always decide to blackmail one or more of them.",
+    "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Zalthir",
-    "fact": "Zalthir confirmed the obvious \u2014 Kalan was here, and the group had enough to act \u2014 and aligned with Thorin\u2019s position on the evidence.",
-    "source_quote": "Zalthir confirmed the obvious. \"He's here.\"",
+    "subject": "Thorin",
+    "fact": "Thorin insists on acquiring a book per suspect and suggests handing the evidence to Kalan to clean house.",
+    "source_quote": "I'm gonna insist that we get a book per suspect.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is the library where the spell was sought and where Janussi's final actions occurred, referenced as the site of bureaucratic and scholarly tension.",
+    "source_quote": "At Candlekeep, finding such a spell was simply a matter of calling up the right avowed to bring you a scroll from somewhere.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Menzoberranzan",
+    "fact": "Menzoberranzan is referenced as the drow city where survival requires eliminating enemies, and where A'lai\u2019s connections may lie.",
+    "source_quote": "In Menzoberranzan, you do not get to accumulate that many enemies before the city resolves the problem for you.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "poisoned book",
+    "fact": "The poisoned book was reclaimed from Daral and is a key piece of physical evidence in the investigation.",
+    "source_quote": "a poisoned book reclaimed from Daral",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "note in Janussi's hand",
+    "fact": "A note in Janussi's own hand was found on the third floor and contains direct evidence of his final thoughts or actions.",
+    "source_quote": "a note in Janussi's own hand found on the third floor",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Grygum's carefully reassembled wrapping paper",
+    "fact": "Grygum's carefully reassembled wrapping paper is a recovered artifact, possibly containing hidden markings or evidence.",
+    "source_quote": "Grygum's carefully reassembled wrapping paper",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "zone of truth",
+    "fact": "The zone of truth is a magical mechanism that worked without waste and was used to verify statements during the investigation.",
+    "source_quote": "We had the zone of truth as a mechanism, which had worked without waste",
     "quote_verified": true
   },
   {
     "type": "location",
     "subject": "third floor",
-    "fact": "The third floor of Candlekeep is where Janussi's final note was found, containing critical evidence tied to the conspiracy.",
+    "fact": "The third floor is the location where Janussi's handwritten note was discovered.",
     "source_quote": "a note in Janussi's own hand found on the third floor",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "budget day at Candlekeep",
-    "fact": "Budget day at Candlekeep was the day Janussi was killed, used as cover for a targeted elimination under the guise of fiscal restraint.",
-    "source_quote": "Budget day. Review day. The day careers were made or broken.",
+    "type": "location",
+    "subject": "Daral",
+    "fact": "Daral is the location or person from whom the poisoned book was reclaimed.",
+    "source_quote": "a poisoned book reclaimed from Daral",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Kaelira",
-    "fact": "Kaelira told the investigator bluntly that someone powerful was paying to protect a man she couldn't understand, initiating the months-long column with one blank entry.",
-    "source_quote": "Kaelira told me bluntly that someone powerful was paying to protect a man she couldn't understand.",
+    "fact": "Kaelira is the source who previously revealed that someone powerful was paying to protect a man she couldn't understand, establishing the long-term mystery tied to A'lai.",
+    "source_quote": "My training ran toward the opposite: know where every debt is, who holds it, what it costs. The patron entry had been blank for months. Every time I thought I was close to something, it receded. Now there was a compromised drow scholar who might represent the first real lead I'd been offered since Kaelira laid the problem out for me plainly.",
     "quote_verified": true
   },
   {
-    "type": "object",
-    "subject": "the column",
-    "fact": "The column maintained since Kaelira's revelation had one entry \u2014 a blank patron \u2014 and remained unresolved until A'lai emerged as the first real lead.",
-    "source_quote": "That column had one entry, and I still couldn't name the entity.",
+    "type": "npc",
+    "subject": "Brother Quellin",
+    "fact": "Brother Quellin is one of two possible sources who said that the most dangerous person in a room is the one who has already decided they've won.",
+    "source_quote": "Brother Quellin had said this. Or possibly Brother Harren, I was never certain of the attribution.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Brother Harren",
+    "fact": "Brother Harren is a possible but uncertain source of the observation that the most dangerous person in a room is the one who has already decided they've won.",
+    "source_quote": "Brother Quellin had said this. Or possibly Brother Harren, I was never certain of the attribution.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "blackmail as a career",
-    "fact": "Blackmail as a career is a known pattern in murder mysteries, and A'lai's actions reflect this \u2014 he constructs history as administrative efficiency to mask criminal intent.",
-    "source_quote": "you often find somebody who treats blackmail as a kind of career... the man who treats blackmail as a kind of career knows how to make his own history sound administrative.",
-    "quote_verified": false
+    "subject": "workforce restructuring",
+    "fact": "The assassination of Janussi is framed as workforce restructuring, a narrative A'lai may have constructed to mask the crime as administrative efficiency.",
+    "source_quote": "File the assassination under *workforce restructuring*. Enter it in the column marked *organizational efficiency*.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "conspiracy exposure",
+    "fact": "The conspiracy involving A'lai, Alkrist, and others was dismantled in a single afternoon during the investigation.",
+    "source_quote": "a conspiracy that had ended a man's life and that we had dismantled in a single afternoon.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "budget day",
+    "fact": "Budget day is referenced as the day Janussi gave reasons for his own demise, tying his death to institutional financial pressures.",
+    "source_quote": "Budget day. Review day. The day careers were made or broken.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Underdark",
+    "fact": "The Underdark is the subterranean realm connected to A'lai\u2019s origins and potential information networks.",
+    "source_quote": "A'lai. A drow with Underdark connections, possibly Menzoberranzan connections",
+    "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "A'lai",
-    "fact": "A'lai is the most reliably underpriced resource in the world because he knows what others have done and has chosen not to use it \u2014 that is the only price I am interested in collecting.",
-    "source_quote": "What he knows about whoever is paying Menzoberranzan rates to keep a nobody drow evoker alive and functional: that is the only price I am interested in collecting.",
-    "quote_verified": false
+    "subject": "Daz",
+    "fact": "Daz is referenced as the entity that may require information from A'lai, implying a higher power or organization with stakes in the conspiracy.",
+    "source_quote": "A'lai, moreover, is a drow. He might have information that Daz needs.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "blackmail proposal",
+    "fact": "Grygum proposes blackmailing one or more suspects as a strategic move, and the group considers it a viable path forward.",
+    "source_quote": "We could always decide to blackmail one or more of them.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "evidence collection",
+    "fact": "The group collects and catalogs physical and testimonial evidence including the poisoned book, the note, and the wrapping paper, establishing the foundation for further action.",
+    "source_quote": "We had a confession, a poisoned book reclaimed from Daral, Grygum's carefully reassembled wrapping paper, a note in Janussi's own hand found on the third floor.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "library",
+    "fact": "The library is the setting where Janussi spent his final day, surrounded by people who had already decided to act against him.",
+    "source_quote": "Janussi had spent his last day in a library full of people who had already decided, and he had offered each of them one more reason on his way through.",
+    "quote_verified": true
   }
 ]

@@ -9,7 +9,14 @@
   {
     "type": "npc",
     "subject": "Thorin",
-    "fact": "Thorin noticed the silence in Daggerford wasn't natural.",
+    "fact": "Thorin keeps noting that the surface had given them back the sky, and he keeps meaning it.",
+    "source_quote": "The surface had given us back the sky \u2014 I keep noting this, and I keep meaning it \u2014",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin noticed the unnatural silence in Daggerford, like the one from his childhood village.",
     "source_quote": "The hill giants I grew up with \u2014 they had a word for a silence that wasn't natural.",
     "quote_verified": true
   },
@@ -30,7 +37,7 @@
   {
     "type": "npc",
     "subject": "Thorin",
-    "fact": "Thorin wanted to make sure he hadn't misread the Dwarven inscription.",
+    "fact": "Thorin wanted to make sure he hadn't misread the Dwarven inscription because it was one of his languages.",
     "source_quote": "I read it twice because Dwarven is, you know, actually my language, or one of them, and I wanted to make sure I hadn't misread.",
     "quote_verified": true
   },
@@ -44,92 +51,113 @@
   {
     "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum noticed the unnatural silence in Daggerford.",
+    "fact": "Grygum noticed the unnatural silence in Daggerford but didn't say anything.",
     "source_quote": "Grygum noticed it too, I could tell, though he didn't say anything.",
     "quote_verified": true
   },
   {
-    "type": "event",
+    "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum made a noise when he read that Tarvis Ulain had served Bahamut.",
+    "fact": "Grygum made a noise when he read that Tarvis Ulain had served Bahamut, signaling something clicked into place.",
     "source_quote": "Grygum made a sound when he got to the part confirming Tarvis had served Bahamut \u2014 not a word, just the noise a person makes when something clicks into place.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum was quiet in a way that meant he was adding something to the list.",
+    "fact": "Grygum was quiet in a way he wasn't usually, because he was adding something to his list.",
     "source_quote": "Grygum was quiet. Not the usual quiet. The kind where he's adding something to the list.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum believed the Stroudite inscription on the monument was either ignored or tolerated.",
-    "source_quote": "The priest conceded, looking left, looking right, like the Stroudites might be listening.",
+    "fact": "Grygum dropped a gold piece for the pewter hand cast because he had leverage after paying.",
+    "source_quote": "Grygum dropped a gold piece in for his.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum recalled Stool when thinking about Elin\u2019s silence, recognizing silence as not absence.",
+    "source_quote": "I thought about Stool. I couldn't help it. A creature that communicated through spores and rapport rather than words, who nonetheless had more to say than most creatures I'd met with full use of their tongues.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum believed Elin\u2019s silence was insistence, not absence, because she was trying to say something.",
+    "source_quote": "Silence isn't absence. Seven years old and drawing the same thing on every flat surface is not nothing \u2014 it's insistence.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum wrote down Elin\u2019s words 'The wells are not wells anymore' because something in her voice was doing work the words weren't.",
+    "source_quote": "I wrote it down. It is what I do. But I held it for a moment first. Something in the voice was doing work the words weren't.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum thought about Zuggtmoy when considering fungal infection as a cause for Elin\u2019s condition.",
+    "source_quote": "I asked about fungal involvement specifically, because I still think about Zuggtmoy, and will probably continue thinking about Zuggtmoy for the rest of my life.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum realized the madness from the Underdark was reaching the surface and affecting Elin.",
+    "source_quote": "The madness from the Underdark \u2014 the deep, structural wrongness we'd felt building around the demon lords... was not, apparently, staying below. It was reaching up. It was reaching Elin.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum was convinced the silence in Elin was not absence but insistence.",
-    "source_quote": "Silence isn't absence. Seven years old and drawing the same thing on every flat surface is not nothing \u2014 it's insistence.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum realized the madness from the Underdark was reaching the surface through Elin.",
-    "source_quote": "Oh,\" I said, as something slid into place. \"There's all the people \u2014 hearing voices?",
-    "quote_verified": true
+    "fact": "Grygum understood that Elin\u2019s condition was not a disease but a breakdown in how the world reached her.",
+    "source_quote": "It wasn't a disease in the conventional sense. It was more like the world had started speaking a language she couldn't process...",
+    "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum still thinks about Zuggtmoy and probably will for the rest of his life.",
-    "source_quote": "I still think about Zuggtmoy, and will probably continue thinking about Zuggtmoy for the rest of my life.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Grygum",
-    "fact": "Grygum wrote down Elin\u2019s words: 'The wells are not wells anymore.'",
-    "source_quote": "I wrote it down. It is what I do.",
-    "quote_verified": true
+    "fact": "Grygum realized Daz\u2019s headache might be connected to Elin\u2019s condition, though the link was tenuous.",
+    "source_quote": "I sat with that question long enough to actually examine it properly. 'Does it seem related at all to how the other person was hearing voices?' Twenty-three. My best of the evening, arriving too late to be medically useful and just in time to be philosophically concerning.",
+    "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum believed Elin\u2019s condition was interior and untouchable by conventional means.",
-    "source_quote": "Whatever was happening inside Elin was interior in a way that made it untouchable through conventional means.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum suspected a tenuous connection between Elin\u2019s condition and Daz\u2019s headache.",
-    "source_quote": "There's some kind of tenuous connection there?",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum filed the phenomenon under open questions and kept writing.",
+    "fact": "Grygum filed the connection between Elin and Daz under open questions and kept writing.",
     "source_quote": "I filed it under open questions and kept writing.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Daz",
-    "fact": "Daz refused to wear armor.",
-    "source_quote": "Daz refused, saying armor would only slow him down",
-    "quote_verified": false
+    "fact": "Daz refused to wear armor, though it is not directly stated, his actions imply resistance to conventional protection.",
+    "source_quote": "Daz was already reading the inscription.",
+    "quote_verified": true
   },
   {
-    "type": "event",
+    "type": "npc",
     "subject": "Daz",
-    "fact": "Daz noticed the pressure in his own head.",
+    "fact": "Daz noticed the pressure in his own head, which he had been mentioning indirectly for a while.",
     "source_quote": "Daz mentioned the pressure in his own head \u2014 had been mentioning it, in various indirect ways, for a while now.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz noticed the wall at the Burning Wizard Inn remembers the wizard who was burned alive.",
+    "source_quote": "That is where he fell. We scrub the floor every season. We do not paint over the wall. My grandfather said the wall remembers.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz catalogued the exits at the Burning Wizard Inn with precision.",
+    "source_quote": "I noted the exits. Front door, obvious. Side passage near the kitchen, partially obscured by a stack of barrels. Stairs to the upper rooms. The window behind the performer's corner, narrow but workable in an emergency.",
     "quote_verified": true
   },
   {
@@ -140,17 +168,73 @@
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "Daz",
-    "fact": "Daz noted the exits in the Burning Wizard Inn.",
-    "source_quote": "I noted the exits. Front door, obvious. Side passage near the kitchen, partially obscured by a stack of barrels. Stairs to the upper rooms. The window behind the performer's corner, narrow but workable in an emergency.",
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir looked at the bronze forearm monument like he was deciding whether it constituted a threat.",
+    "source_quote": "Zalthir looked at it the way he looks at most things: like he was deciding whether it constituted a threat.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Daz",
-    "fact": "Daz believed the wall in the Burning Wizard Inn remembers the wizard\u2019s death.",
+    "subject": "Zalthir",
+    "fact": "Zalthir articulated that Elin\u2019s hallucinations were not magic but a deeper failure of perception.",
+    "source_quote": "Zalthir articulated the mechanism: the input, the audio, the way the world was arriving at her rather than the world itself.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir produced an alarm as professional commentary on the situation with Elin.",
+    "source_quote": "Zalthir produced an alarm from somewhere, which I took as professional commentary.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Milo Goodbarrel",
+    "fact": "Milo Goodbarrel personally signed off on the Tarvis Ulain monument as head of the Order of the Gauntlet.",
+    "source_quote": "Signed by Milo Goodbarrel, apparently head of some publisher, apparently Order of the Gauntlet.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Maerith",
+    "fact": "Maerith had the exhaustion of someone who had been turned away by every temple that was supposed to help.",
+    "source_quote": "Maerith of the Ford had the look of a woman who had already been turned away. You develop an eye for it, in this work \u2014 the specific exhaustion of someone who has walked into every room that was supposed to help and left each one carrying the same weight back out.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Maerith",
+    "fact": "Maerith said yes to every question asked about her daughter Elin\u2019s condition.",
+    "source_quote": "She didn't say no to anything, in her own telling. She said yes.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Festrum",
+    "fact": "Festrum believes the wall at the Burning Wizard Inn remembers the wizard who was burned alive.",
     "source_quote": "My grandfather said the wall remembers.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Stroudite inscription on Tarvis\u2019s monument",
+    "fact": "Someone placed a Stroudite inscription on a Bahamutian paladin\u2019s monument, and no one removed it because it was a gift.",
+    "source_quote": "The whole thing was funded two years after the war by a Metalworkers Guild... we decided the inscription could remain. After all \u2014 wasn't Tarvis trying to save us all, regardless of what actually happened in that game of chess?",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The wells are not wells anymore",
+    "fact": "Elin\u2019s first words after restoration were 'The wells are not wells anymore,' a sentence that means more than it says.",
+    "source_quote": "The wells are not wells anymore.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The six-pointed star drawings",
+    "fact": "Elin draws the same six-pointed star on every flat surface as an act of insistence, not madness.",
+    "source_quote": "She draws the same shape on every flat surface.",
     "quote_verified": true
   }
 ]

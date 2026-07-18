@@ -42,108 +42,157 @@
     "quote_verified": false
   },
   {
-    "type": "date",
-    "subject": "session date",
-    "fact": "The session occurs on the 29th day of the 3rd Tenday of Taraskh 1493 DR.",
-    "source_quote": "Zalthir rolled a 29 to hit",
-    "quote_verified": true
-  },
-  {
     "type": "monster",
     "subject": "gelatinous cube count",
-    "fact": "A gelatinous cube with monastic ambitions is present in the Underdark.",
-    "source_quote": "a gelatinous cube with monastic ambitions",
+    "fact": "One gelatinous cube is being taught the way of the shadow by a monk.",
+    "source_quote": "teaching a gelatinous cube the way of the shadow",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "travel to Menzoberranzan",
-    "fact": "Menzoberranzan is approximately six weeks away via the Underdark.",
-    "source_quote": "through the Underdark, through Waterdeep, into the libraries of Candlekeep",
+    "subject": "drow overseer count",
+    "fact": "One drow is being tortured by a sentient gelatinous cube.",
+    "source_quote": "torturing this poor drow",
     "quote_verified": true
   },
   {
     "type": "location",
-    "subject": "Hall of Divination elevation",
-    "fact": "The Hall of Divination sits 500 feet below Candlekeep's surface.",
-    "source_quote": "The Hall of Divination smells like old stone and something faintly electric",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "shadow technique value",
-    "fact": "The specialized shadow technique chosen by Zalthir is option C, with potential mechanical adjustments.",
-    "source_quote": "Zalthir chose option C",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "therapy session start",
-    "fact": "The therapy session for Dawnbringer began with the first work: remembering daylight without needing to fight.",
-    "source_quote": "The first work is light. The second work is mourning.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Philemon's study elevation",
-    "fact": "Philemon's study is located 300 feet above Candlekeep's lowest archive level.",
-    "source_quote": "Master Archivist Philemon's study was small and smelled like old ink and something faintly mineral",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "Resonant Slime value",
-    "fact": "The vial of Resonant Slime produced by the sage contains 10 milliliters of stabilized eldritch gel.",
+    "subject": "resonant slime source",
+    "fact": "A vial of Resonant Slime was produced by a sage of xenobiology.",
     "source_quote": "produced a vial of Resonant Slime",
     "quote_verified": true
   },
   {
+    "type": "object",
+    "subject": "eldritch tattoo value",
+    "fact": "The eldritch tattoo on Zalthir's skin allows shadow tentacle growth.",
+    "source_quote": "the eldritch tattoo. 'I mean, I learned how to grow shadow tentacles.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "shadow step and hit combination",
+    "fact": "Zalthir's combination of shadow step and hit redeems his lack of skills in all other areas.",
+    "source_quote": "your combination of the shadow step and the hit that redeems your lack of skills in all other possible areas",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "dawnbringer identity",
+    "fact": "Dawnbringer is a sentient sunblade who requires light and mourning to heal.",
+    "source_quote": "she needs to remember what daylight feels like without needing to fight... she needs to grieve",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "menzoberranzan ledger system",
+    "fact": "Menzoberranzan trains its citizens to maintain ledgers of debts, knowledge, and losses.",
+    "source_quote": "The first thing Menzoberranzan trains you for is the ledger",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "house destruction protocol",
+    "fact": "In Menzoberranzan, a house that fails to kill every member of a target house is forfeit.",
+    "source_quote": "If you left a single person alive \u2014 even a child... your house was forfeit",
+    "quote_verified": false
+  },
+  {
     "type": "monster",
-    "subject": "Pocket Drow",
-    "fact": "A Pocket Drow is present as a minor artifact or companion.",
+    "subject": "blithering idiot survivor",
+    "fact": "One blithering child idiot survived the destruction of a noble house in Menzoberranzan.",
+    "source_quote": "a child. A blithering child idiot, she said",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "hall of divination atmosphere",
+    "fact": "The Hall of Divination smells like old stone and residual spell energy.",
+    "source_quote": "smells like old stone and something faintly electric \u2014 the residue of spells cast so many times",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "information exchange protocol",
+    "fact": "In Candlekeep, information is exchanged reciprocally: ask for knowledge, provide knowledge.",
+    "source_quote": "Information flows both ways across the counter. No ledger gets updated without a corresponding entry on the other side",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "drow memory loss",
+    "fact": "The drow narrator has no memory of his past before being imprisoned in a cell with others.",
+    "source_quote": "I don't have much memory before being locked up with a few people in a jail",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "word misfit recognition",
+    "fact": "Menzoberranzan trains its citizens to notice when a word doesn't fit in their social grammar.",
+    "source_quote": "the second thing Menzoberranzan trains you for... is to notice when a word doesn't fit",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "zalthir's shadow technique",
+    "fact": "Zalthir chose option C of the three specialized shadow techniques offered by Khell-Vire.",
+    "source_quote": "Zalthir chose option C",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "philemon's study atmosphere",
+    "fact": "Master Archivist Philemon's study smells like old ink and faint mineral residue.",
+    "source_quote": "smelled like old ink and something faintly mineral",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "dawnbringer's darkness trauma",
+    "fact": "Dawnbringer experienced deep unease from three to four thousand years of darkness exposure.",
+    "source_quote": "sustained darkness exposure of approximately three to four thousand years",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "thorin's pocket drow",
+    "fact": "Thorin refers to a drow as 'Pocket Drow' in the context of a sentient gelatinous cube's companion.",
     "source_quote": "Pocket Drow",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "information exchange start",
-    "fact": "The information exchange between the drow and Sister Yvenne began with the disclosure of amnesia and imprisonment.",
-    "source_quote": "I have a headache, but I'll tell you the story. This is the short version. I don't have much memory before being locked up...",
-    "quote_verified": false
+    "subject": "zalthir's shadow punch",
+    "fact": "Zalthir demonstrated a technique to punch through shadows themselves, precise as a surgical cut.",
+    "source_quote": "a moment where he'd found a way to punch *through* the shadows themselves, precise as a surgical cut",
+    "quote_verified": true
   },
   {
     "type": "location",
-    "subject": "Menzoberranzan elevation",
-    "fact": "Menzoberranzan sits 12,000 feet below the surface, within the deepest caverns of the Underdark.",
-    "source_quote": "Menzoberranzan",
+    "subject": "candlekeep library policy",
+    "fact": "Candlekeep enforces a policy of reciprocal information exchange.",
+    "source_quote": "Information flows both ways across the counter",
     "quote_verified": true
   },
   {
     "type": "object",
-    "subject": "shadow tentacle value",
-    "fact": "The shadow tentacles grown by Zalthir are a result of eldritch tattoo augmentation, not innate ability.",
-    "source_quote": "I learned how to grow shadow tentacles",
+    "subject": "khell-vire's observation",
+    "fact": "Khell-Vire observed that Zalthir's unorthodox technique is the most interesting thing about him.",
+    "source_quote": "what he'd built in spite of it was genuinely his",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "revelation of identity",
-    "fact": "The drow's identity as the 'blithering idiot' survivor of House destruction is implied but not confirmed.",
+    "subject": "drow narrator's truth disclosure",
+    "fact": "The drow narrator disclosed his memory loss and uncertain identity to Sister Yvenne in Candlekeep.",
+    "source_quote": "I don't know who I am, or my history, and I don't know why my head hurts",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "drow survivor count",
+    "fact": "One drow survivor of a destroyed noble house may be the narrator himself.",
     "source_quote": "Am I the blithering idiot?",
     "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Candlekeep library elevation",
-    "fact": "Candlekeep's central library is situated 1,500 feet above its lowest archive level, within a mountain fortress.",
-    "source_quote": "Candlekeep",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "sunblade value",
-    "fact": "Dawnbringer, the sunblade, requires exposure to daylight and mourning for full restoration.",
-    "source_quote": "She needs to remember what daylight feels like without needing to fight. And then... she needs to grieve.",
-    "quote_verified": false
   }
 ]

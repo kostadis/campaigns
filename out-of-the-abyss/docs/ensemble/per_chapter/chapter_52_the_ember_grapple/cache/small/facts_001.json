@@ -2,85 +2,92 @@
   {
     "type": "npc",
     "subject": "Daz",
-    "fact": "Daz expressed genuine surprise at the party's level-up, using a tone reserved for encounters with demon princes and sentient oozes, and immediately concluded that they were going to level up.",
-    "source_quote": "Oh! ... We're gonna level up.",
+    "fact": "Daz expressed genuine surprise at the party leveling up, using a tone he reserves for demon princes and sentient oozes, and immediately concluded, 'We're gonna level up.'",
+    "source_quote": "Oh! And then, with that particular tone he uses when he's already processed something and moved to judgment: 'We're gonna level up.'",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Zalthir",
-    "fact": "Zalthir, the Dragonborn, operates with a sharp, narrow tactical focus, preferring obscure specializations to break the universe, and has demonstrated this by pulling the Pudding King from its lair through sheer tactical geometry.",
-    "source_quote": "I find it more fun to double down with some sort of obscure specialization and then try to break the universe with it.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "The Narrator",
-    "fact": "The Narrator, a dwarf raised by hill giants, recognizes their own tactical identity as one of close-quarters defense and brute resilience, rejecting ranged capability because giants throw rocks \u2014 and their role was to protect the giants from anything that came too close.",
-    "source_quote": "Being a dwarf raised by giants means I don't have to have any range. Giants toss rocks. Those rocks go far and hurt. My job was to be there and protect the giants from anything that came too close.",
+    "fact": "Zalthir, the Dragonborn, operates with hyper-focused tactical precision, believing it's more fun to double down on obscure specializations to break the universe, and has previously pulled the Pudding King from its lair through sheer tactical geometry.",
+    "source_quote": "I find it more fun to double down with some sort of obscure specialization and then try to break the universe with it. I'd watched him pull the Pudding King out of its lair by sheer force of tactical geometry.",
     "quote_verified": false
   },
   {
     "type": "npc",
-    "subject": "The Narrator",
-    "fact": "The Narrator acknowledges a personal habit of hoarding potions and resources for hypothetical future needs, recognizing it as a flawed, self-destructive strategy, but one they persist in due to ingrained caution.",
-    "source_quote": "Wrong strategy, but that's just how I roll.",
-    "quote_verified": true
+    "subject": "Narrator (POV)",
+    "fact": "The narrator, a dwarf raised by giants, has undergone a dark transition in the Underdark, abandoning youthful idealism for ruthless pragmatism, and now recognizes that his lack of ranged capability and hoarding of potions are maladaptive habits formed in survivalist contexts.",
+    "source_quote": "Being a dwarf raised by giants means I don\u2019t have to have any range. Giants toss rocks. Those rocks go far and hurt. My job was to be there and protect the giants from anything that came too close... The potion you don't drink is the potion you die holding.",
+    "quote_verified": false
   },
   {
     "type": "faction",
     "subject": "Zhentarim",
-    "fact": "The Zhentarim are a ruthless, efficient, and morally compromised organization whose tactics prioritize effectiveness over decency, and the Narrator identifies with their approach as a reflection of their own dark transition in the Underdark.",
-    "source_quote": "Zhentarim Tactics.",
+    "fact": "The Zhentarim are a ruthless, effective faction whose tactics are considered unethical by decent people, and the narrator has internalized their approach as a necessary adaptation to the Underdark's indifference to moral identity.",
+    "source_quote": "There's a school of thought \u2014 brutal, efficient, not entirely reputable \u2014 that goes by the name Zhentarim Tactics. Ruthless by design. Effective in ways that decent people find uncomfortable.",
     "quote_verified": true
   },
   {
-    "type": "monster",
-    "subject": "Pudding King",
-    "fact": "The Pudding King is a formidable, lair-bound ooze creature that was extracted from its domain not by brute force but by Zalthir\u2019s precise tactical geometry, demonstrating its resilience and the necessity of unconventional methods to defeat it.",
-    "source_quote": "He pulled the Pudding King out of its lair by sheer force of tactical geometry.",
-    "quote_verified": false
-  },
-  {
-    "type": "monster",
-    "subject": "Demon Lords",
-    "fact": "Demon lords are recurring, existential threats encountered in the Underdark, whose presence has forced the Narrator to abandon their former idealism and embrace a hardened, pragmatic identity.",
-    "source_quote": "I've spent months watching demon lords and eating mushrooms and coming to understand that the Underdark doesn't care what kind of person you want to be.",
-    "quote_verified": false
+    "type": "faction",
+    "subject": "Hill Giants",
+    "fact": "The narrator carries the lessons of hill giants \u2014 a culture he was raised by \u2014 whose brutal pragmatism and physical dominance shaped his combat philosophy, even though they were not always morally good.",
+    "source_quote": "The hill giants weren't always good people either, and I carry their lessons in the shape of every fight I've won.",
+    "quote_verified": true
   },
   {
     "type": "object",
     "subject": "Dawnbringer",
-    "fact": "Dawnbringer is a divine weapon that deals radiant damage not through cutting, but through purifying, burning light \u2014 an effect that argues philosophically with darkness, making it potent against certain foes but potentially ineffective against those armored against radiant energy.",
-    "source_quote": "The blade doesn't cut so much as it burns \u2014 clean, divine, the kind of light that argues with darkness on a philosophical level.",
+    "fact": "Dawnbringer is a magical blade that deals radiant damage through divine burning rather than physical cutting, effective against darkness but less so against creatures armored against divine energy.",
+    "source_quote": "Dawnbringer is not slashing, right? It's actually\u2026 Radiant damage. The blade doesn't cut so much as it burns \u2014 clean, divine, the kind of light that argues with darkness on a philosophical level.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Pudding King",
+    "fact": "The Pudding King is a dangerous, lair-bound ooze-like creature that was extracted from its domain through Zalthir\u2019s exceptional tactical geometry, demonstrating its status as a high-level hazard.",
+    "source_quote": "I'd watched him pull the Pudding King out of its lair by sheer force of tactical geometry.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "level-up",
-    "fact": "The entire party has reached a new level, triggering a moment of tactical reevaluation among the members, as each confronts the implications of their enhanced capabilities and the limitations of their current build choices.",
-    "source_quote": "We're gonna level up.",
+    "subject": "party leveling",
+    "fact": "The entire party has leveled up after surviving prolonged exposure to the Underdark\u2019s lethal environments, including encounters with the Pudding King, Ilvara, Neverlight Grove, and Blingdenstone.",
+    "source_quote": "Sloobludop. Gracklstugh. Neverlight Grove. Blingdenstone. The Pudding King. Ilvara. Everything we'd crawled through, fought through, negotiated and lied and burned our way through.",
     "quote_verified": true
   },
   {
     "type": "thread",
     "subject": "lack of ranged capability",
-    "fact": "The party has no ranged weapons or abilities, creating a critical vulnerability that will inevitably be exploited when facing flying or distant enemies \u2014 a flaw the Narrator recognizes as a looming, inevitable failure point in their survival strategy.",
-    "source_quote": "Not having anyone who can reach a flying enemy is going to come back and bite us.",
+    "fact": "The party has no ranged weapons or abilities, creating a critical vulnerability that will inevitably be exploited by flying or distant enemies as they approach the surface world.",
+    "source_quote": "Which is also why not having anyone who can reach a flying enemy is going to come back and bite us.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "potion hoarding habit",
+    "fact": "The narrator has a persistent, self-aware habit of hoarding potent magical items like the Potion of Giant Strength, believing he'll need them later \u2014 a strategy he knows is flawed but continues to follow.",
+    "source_quote": "The potion you don't drink is the potion you die holding. Wrong strategy, but that's just how I roll.",
     "quote_verified": false
   },
   {
     "type": "location",
     "subject": "Underdark",
-    "fact": "The Underdark is a tight, low, and hostile environment where survival demands adaptation, and the Narrator's journey through it has transformed them from a naive adventurer into a hardened tactician shaped by loss and necessity.",
-    "source_quote": "The Underdark is tight and low. But we're almost out. And this is a dangerous world, and we have a dangerous job.",
+    "fact": "The Underdark is a tight, low, and lethally indifferent environment that has forced the party into brutal adaptations, stripping away idealism and demanding lethal specialization to survive.",
+    "source_quote": "The Underdark doesn't care what kind of person you want to be.",
     "quote_verified": false
   },
   {
-    "type": "date",
-    "subject": "session time",
-    "fact": "The moment of tactical reflection occurs over the course of a full day, as the Narrator contemplates their evolving identity and strategy \u2014 a temporal anchor for the narrative weight of their transformation.",
-    "source_quote": "That's gonna take the rest of the day.",
+    "type": "location",
+    "subject": "Surface World",
+    "fact": "The surface world is imminent and more dangerous than the Underdark, and the party\u2019s current lack of ranged capability and reliance on close-quarters tactics will be severely tested there.",
+    "source_quote": "We're almost out. And this is a dangerous world, and we have a dangerous job, and we none of us have ranged weapons, which means there will absolutely be something that needs hitting from a distance.",
     "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir has already thought four moves ahead of the narrator\u2019s current contemplation, indicating his constant tactical superiority and predictive depth.",
+    "source_quote": "Zalthir looked at me with that particular expression that meant he'd thought four moves ahead already.",
+    "quote_verified": true
   }
 ]

@@ -1,10 +1,5 @@
-<!-- source: location_faerzress.md -->
-
-
 ---
-
----
-name: Faerzress
+name: faerzress
 type: location
 n_facts: 1
 chapters: 3-3
@@ -12,26 +7,22 @@ chapters: 3-3
 
 ### Faerzress
 
-- **Type**: Location (magical phenomenon)  
-- **Current state**: Active, illuminating tunnels in the Underdark  
-- **Nature**: A surreal magical luminescence  
-- **Location**: Present in select tunnels throughout the Underdark  
-- **Significance**: Provides ambient, otherworldly light in otherwise pitch-black subterranean passages  
+- **Type:** Location (magical phenomenon)
+- **Current state:** Active, illuminating tunnels in the Underdark
+- **Nature:** A surreal magical effect that emits light within certain Underdark tunnels
+- **Current location:** Present in unspecified tunnels of the Underdark
 
 ## Uncertainty
-- The exact geographic extent or specific tunnel networks where Faerzress is currently active are not specified.  
-- Whether Faerzress has any known effects beyond illumination (e.g., magical interference, sensory distortion, or danger) is not stated.  
-- No information is provided on whether its presence is stable, fluctuating, or tied to any external conditions.
+- The exact geographic extent or specific tunnels where Faerzress currently manifests is unknown.
+- Whether it has any side effects, limitations, or interactions beyond illumination is not specified.
+- The origin or mechanism of the Faerzress is not described.
 
 ---
 
 <!-- source: monster_faerzress.md -->
 
-
 ---
-
----
-name: Faerzress
+name: faerzress
 type: monster
 n_facts: 2
 chapters: 17-20
@@ -41,39 +32,39 @@ chapters: 17-20
 
 **Current status:** Active  
 **Current location:** Surrounding the cavern in the Underdark where the obelisk is located  
-**Nature:** Magical phenomenon tied to planar instability  
+**Nature:** A magical phenomenon tied to planar instability; appears as a glowing energy field  
 **Current condition:** Flaring intensely in response to the obelisk’s activation and the derro’s actions  
-**Key recent action:** Flared in sync with the obelisk’s activation, indicating a direct magical resonance with the derro’s rituals  
-**Defining trait:** Responds dynamically to planar or magical disturbances; behavior suggests possible semi-sentient or reactive properties  
+**Current assignment / role:** Reactively amplifies or responds to magical and psychic disturbances tied to the obelisk and derro rituals  
+**Defining recent action:** Flared brightly in direct correlation with the obelisk’s activation, coinciding with heightened planar instability and the derro’s rituals  
 
 ## Uncertainty
-- Whether Faerzress is sentient, semi-sentient, or merely a reactive magical field — ch17 suggests possibility of sentience, ch20 only confirms reactivity; no later fact resolves this.
-- The exact mechanism linking Faerzress to the obelisk or derro — not described beyond "flaring in response."
-- Whether Buppido’s delusional divinity is still causally linked to Faerzress — ch17 ties the fluctuation to Buppido, but ch20 describes a new, separate flare event with no mention of Buppido; no confirmation of continued connection.
+- Whether Faerzress is sentient or semi-sentient — ch17 suggests this possibility, but ch20 describes it only as a reactive glow with no indication of agency.  
+- Whether its recent fluctuation (ch17) is the same event as the current flaring (ch20), or if they are separate phenomena.  
+- The exact mechanism by which it responds to the obelisk or derro — no causal link beyond correlation is established.  
+- Whether it is a natural phenomenon, a remnant of planar breach, or something else — still unknown per ch17.
 
 ---
 
 <!-- source: object_faerzress.md -->
 
-
 ---
-
----
-name: Faerzress
+name: faerzress
 type: object
-n_facts: 1
-chapters: 18-18
+n_facts: 2
+chapters: 4-18
 ---
 
 ### Faerzress
 
-- **What it is:** A magical twilight phenomenon that once permanently shrouded the Underdark.
-- **Current condition:** No longer permanent; now exhibits intermittent, erratic blinking — turning on brightly, then off, then back to its usual color.
-- **Current location:** Still present throughout the Underdark cave complex where it once was permanent.
-- **Significance:** Its former stability maintained societal order; its current instability correlates with societal collapse, turning friendship into violence and peace into war.
+- **Type:** Magical phenomenon / environmental force  
+- **Current state:** Active, but unstable — exhibits intermittent blinking (on/off cycles), having recently resumed its usual glow after a period of darkness.  
+- **Location:** Permeates the Underdark cave complex where the party is active.  
+- **Current condition:** No longer a permanent twilight; now pulses unpredictably — dark, then bright, then dark again — before returning to its standard glow.  
+- **Effect:** Prevents teleportation spells.  
+- **Significance:** Previously sustained societal stability through its constant glow; its recent disruption (period of darkness and erratic blinking) directly preceded and correlated with societal collapse — turning trust into violence and peace into war.  
 
 ## Uncertainty
-- The "usual color" of the Faerzress is not specified.
-- The cause of its blinking behavior is not stated.
-- Whether the blinking is localized or global across the Underdark is unclear.
-- It is unknown if the Faerzress has fully stabilized after its last blink, or if further fluctuations are imminent.
+- Contradiction between ch04’s claim that Faerzress “has never affected living things” (Jim Jar) and ch18’s assertion that its changes caused societal collapse through psychological/emotional corruption (turning friendship to violence). It is unclear whether Faerzress directly affects minds or only indirectly triggers societal breakdown via environmental instability.  
+- The nature of its “glow” — whether it is a substance (ch04) or a magical twilight (ch18) — remains semantically ambiguous; no clarification resolves whether it is a material or an ambient field.  
+- The mechanism by which it prevents teleportation is unspecified.  
+- The cause of its recent blinking and darkness is unknown.

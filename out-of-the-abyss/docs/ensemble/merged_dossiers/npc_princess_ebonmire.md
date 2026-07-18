@@ -1,35 +1,25 @@
-<!-- source: npc_princess_ebonmire.md -->
-
-
----
-
 ---
 name: Princess Ebonmire
 type: npc
-n_facts: 8
-chapters: 46-47
+n_facts: 9
+chapters: 46-54
 ---
 
 ### Princess Ebonmire
 
 **Current status:** Dead  
-**Current location:** Remains at the Pudding King’s throne room (site of battle)  
-**Allegiance/faction:** Former ally of the Pudding King  
-**Current possessions / notable items:** Spellbook containing numerous magical formulas (recovered from her remains)  
-**Current assignment / role and key relationships:** Formerly one of the Pudding King’s two ooze henchmen; last seen fighting alongside Prince Livid. No current relationships — deceased.  
-**Defining recent actions:** Attacked the party by hurling acidic ooze blobs and charging; took full damage from a Fireball spell; was grappled and damaged by Zalthir before being destroyed by a combination of necrotic magic and physical strikes. Consumed a spellbook prior to death, which was later recovered from her remains.
+**Current location:** N/A (remains dissolved; spellbook relocated)  
+**Allegiance/faction:** Former ally of the Pudding King (defunct)  
+**Current possessions / notable items:** Spellbook containing numerous magical formulas (recovered post-mortem, now held at Candlekeep)  
+**Current assignment / role:** None (deceased)  
+**Defining recent actions:** Attacked the party by hurling acidic ooze blobs and charging; survived the Pudding King’s defeat but was destroyed by combined necrotic magic and physical strikes (including Fireball damage, grappling, and sustained attacks). Posthumously, her consumed spellbook was recovered from her remains and later transported to Candlekeep as a relic of Underdark conquest.  
 
 ## Uncertainty
-- The name discrepancy between "Princess Ebonheir" (ch46) and "Princess Ebonmire" (ch47) is unexplained — it is unclear if this is a typo, a name change, or two entities. All later facts (ch47) use "Ebonmire," so it is treated as the current name, but the origin of the discrepancy is unresolved.  
-- It is unclear whether Prince Livid was present during her final battle (ch47) or had already departed — he was last seen with her in ch46, but ch47 does not confirm his presence at the time of her death.  
-- The exact source of the necrotic magic that contributed to her death is not specified — no caster is named as responsible.
+- The name discrepancy: Chapter 46 refers to her as “Princess Ebonheir”; all later chapters (47–54) use “Princess Ebonmire.” It is unclear whether this is a typo, a name change, or two entities. The later usage (Ebonmire) is consistent across all post-ch46 facts and governs the current state, but the origin of the discrepancy is unresolvable.
 
 ---
 
 <!-- source: faction_princess_ebonmire.md -->
-
-
----
 
 ---
 name: Princess Ebonmire
@@ -41,13 +31,13 @@ chapters: 47-47
 ### Princess Ebonmire
 
 **Current status:** Destroyed  
-**Current location:** Unknown (last observed at site of battle in Chapter 47)  
-**Allegiance/faction:** None (former entity; faction dissolved with destruction)  
+**Current location:** Unknown (last observed at site of confrontation)  
+**Allegiance/faction:** None (former noble entity, now inert)  
 **Current possessions / notable items, spells, feats, wounds:** None (entity no longer exists)  
-**Current assignment / role and key relationships:** None (entity destroyed)  
-**Defining recent actions:** Launched acidic ooze projectiles at the party before being destroyed by necrotic magic and physical strikes.  
+**Current assignment / role and key relationships:** None  
+**Defining recent actions:** Engaged the party in combat, hurling blobs of acidic ooze; subsequently destroyed by necrotic magic and physical strikes.  
 
 ## Uncertainty
-- The exact method or agent responsible for her destruction is not fully attributed — “necrotic magic and physical strikes” are noted as the cause, but no actor is named as delivering them.  
-- The location of her destruction is not specified beyond “site of battle in Chapter 47.”  
-- Whether “Princess Ebonmire” was a singular entity or a title/role held by multiple individuals is unclear from the single fact.
+- The exact location of her remains or destruction is not specified.  
+- The source of the necrotic magic and physical strikes that destroyed her is unnamed — attribution is unclear.  
+- Whether she was acting independently or under orders from another faction is not stated.

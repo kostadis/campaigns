@@ -43,100 +43,212 @@
   },
   {
     "type": "event",
-    "subject": "infamous status",
-    "fact": "The group is already infamous underground, with their name on posters in Gracklstugh.",
-    "source_quote": "We're already infamous underground. It didn't seem to serve us well.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Candlekeep naming ceremony",
-    "fact": "A naming ceremony for the new head of Candlekeep is scheduled for tomorrow morning.",
-    "source_quote": "Tomorrow morning's naming ceremony clearly will not name her.",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "Zone of Truth spell mechanics",
-    "fact": "The Zone of Truth spell does not force truth, but reveals if someone can resist it.",
-    "source_quote": "The spell doesn't hand you the truth. It hands you the ability to watch someone refuse it.",
+    "subject": "Kalan Strongbranch's firing",
+    "fact": "Kalan Strongbranch was fired \u2014 a man told he was done, standing next to a case he couldn't crack, that we cracked for him.",
+    "source_quote": "Kalan had gotten fired. That's the terrain \u2014 a man told he was done, standing next to a case he couldn't crack, that we cracked for him.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "Bookwyrm's potential decline",
-    "fact": "Bookwyrm may be offered the opportunity to decline submission to a Zone of Truth, which would imply guilt.",
-    "source_quote": "We will give her the opportunity to decline. Her declining will further weaken her support among the other Avowed.",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "academic paper on truth sources",
-    "fact": "An academic paper argues that one source of truth is insufficient; three different kinds are required.",
-    "source_quote": "My paper says you can't rely on one source of truth; you need three different kinds.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "magic book to prove culpability",
-    "fact": "A magical book exists in Candlekeep\u2019s library that could prove Bookwyrm\u2019s culpability after the fact.",
-    "source_quote": "I will come up with such a book before you leave.",
+    "subject": "Dawnbringer's therapy request",
+    "fact": "Dawnbringer requested therapy \u2014 she said, 'I'm not leaving here without the therapy. That first session was actually very productive.'",
+    "source_quote": "She spoke up in my head. *I'm not leaving here without the therapy. That first session was actually very productive. I really feel we need to\u2014*",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "Alkrist's confession",
-    "fact": "Alkrist confessed to killing Janussi under the influence of a spell that kept him honest.",
-    "source_quote": "Alkrist had said it out loud, in the room, with Kalan's spell still holding him honest \u2014 he'd killed Janussi.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Gracklstugh posters",
-    "fact": "Posters in Gracklstugh bear the group's name, wrongly attributed but still recognizable.",
-    "source_quote": "Gracklstugh still had our name on posters, wrong enough to be cover but our name all the same.",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "Ember Vanguard legend",
-    "fact": "The Ember Vanguard is a larger, more feared legend that precedes the group in every rumor.",
-    "source_quote": "The Ember Vanguard has a legend now that walks a tunnel ahead of us, and it lies about our height.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "cleaver and heart as evidence",
-    "fact": "A cleaver and a heart are physical evidence tied to the crime, but do not identify the perpetrator.",
-    "source_quote": "You have a confession, a heart, and a cleaver.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Dawnbringer's psychic connection",
-    "fact": "Dawnbringer communicates mentally, with a sound like a palm slapping stone, indicating a psychic link.",
-    "source_quote": "a click inside my skull, a sound like a palm slapping stone",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Candlekeep Avowed hierarchy",
-    "fact": "The Avowed of Candlekeep are subject to internal politics, with leadership changing via vote.",
+    "subject": "Bookwyrm's potential dismissal",
+    "fact": "Bookwyrm may be dismissed from her position due to suspicion, with the new head of Candlekeep likely to demand a Zone of Truth as her first act.",
     "source_quote": "The new head may give Bookwyrm one of two choices: continue as a member of the Avowed, or submit to a Zone of Truth.",
     "quote_verified": false
   },
   {
     "type": "event",
-    "subject": "Kalan Strongbranch's cowardice",
-    "fact": "Kalan avoids direct confrontation with Bookwyrm out of fear she may become his superior.",
-    "source_quote": "He's not going to do it without her permission \u2014 how about I put it that way?",
+    "subject": "Alkrist's confession",
+    "fact": "Alkrist confessed to killing Janussi under Kalan's spell, and the confession was deemed insufficient by academic standards despite being legally valid.",
+    "source_quote": "Alkrist had confessed. Kalan Strongbranch hadn't yet come back into the room, and we knew there was a thread running from all this back to A'lai.",
     "quote_verified": true
   },
   {
     "type": "object",
-    "subject": "Fembris Lancer as potential successor",
-    "fact": "Fembris Lancer is likely to be elected as the new head of the Avowed after Bookwyrm's downfall.",
-    "source_quote": "Fembris Lancer will probably get elected the new avowed",
+    "subject": "Kalan's academic paper",
+    "fact": "Kalan's paper argues that a single source of truth (like a confession) is insufficient \u2014 three different kinds of evidence are required.",
+    "source_quote": "My paper says you can't rely on one source of truth; you need three different kinds.",
     "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep naming ceremony",
+    "fact": "A naming ceremony for the new head of Candlekeep will occur tomorrow, and Bookwyrm is expected to be passed over.",
+    "source_quote": "Tomorrow there will be a naming ceremony \u2014 and with all of this suspicion over her name, the confession, the information\u2026 the vote will go elsewhere.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zone of Truth spell mechanics",
+    "fact": "The Zone of Truth spell does not guarantee truth \u2014 it reveals whether the target can lie, making resistance detectable.",
+    "source_quote": "The spell doesn't hand you the truth. It hands you the ability to watch someone refuse it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz's contingency plan",
+    "fact": "Daz's contingency plan is to 'start hacking and slashing' if things go sideways \u2014 a comfort, not a strategy.",
+    "source_quote": "If things go sideways, we can always start hacking and slashing.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Ember Vanguard's infamy",
+    "fact": "The Ember Vanguard is infamous underground, with a legend that walks ahead of the party in every rumor, bigger and meaner than the four of them.",
+    "source_quote": "The Ember Vanguard has a legend now that walks a tunnel ahead of us, and it lies about our height.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Infamous definition clarification",
+    "fact": "The term 'infamous' was questioned and confirmed to mean 'extra famous' \u2014 a bad joke that earned a half-groan.",
+    "source_quote": "Infamous,\" I said. \"You know that's supposed to mean extra famous.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "magic book for Bookwyrm's proof",
+    "fact": "A magic book will be sought after the fact \u2014 to prove Bookwyrm's culpability \u2014 to be obtained from the new head of Candlekeep.",
+    "source_quote": "We use our reward to access the thing that will do her in... the book will come from the new head of Candlekeep.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Kalan's shift from stealth to open confrontation",
+    "fact": "Kalan changed from covert casting of Zone of Truth to demanding open submission \u2014 motivated by fear of future repercussions.",
+    "source_quote": "I will not sneak this time. We will walk in, and we will boldly demand that she submit to a Zone of Truth.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin's pursuit of physical evidence",
+    "fact": "Thorin sought physical evidence tying Bookwyrm to placing the heart in the chalice, but was reminded that concealment is not commission.",
+    "source_quote": "Is there any physical evidence, anything else, we can bring to bear here?",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Academic principle vs justice",
+    "fact": "The group debated whether academic rigor (requiring three evidentiary types) outweighs practical justice (concluding guilt from confession and context).",
+    "source_quote": "What matters more to an academic? Putting the murderer in jail, or being true to their academic principles and their research proposal?",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh posters",
+    "fact": "Gracklstugh still has the party's name on posters \u2014 wrong enough to be cover but their name all the same.",
+    "source_quote": "Gracklstugh still had our name on posters, wrong enough to be cover but our name all the same.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Janussi's cleaver",
+    "fact": "The cleaver found with the heart and confession is evidence of cover-up, but not of identity.",
+    "source_quote": "You have a confession, a heart, and a cleaver. The confession is one spell \u2014 the weakest channel... the heart and the cleaver prove someone covered this up cleverly.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Kalan's patient strategy",
+    "fact": "Kalan advocates patience \u2014 letting suspicion and the naming ceremony do the work instead of direct confrontation.",
+    "source_quote": "Sometimes the clever play is to be patient.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's sentence-worrying",
+    "fact": "Zalthir obsesses over wording \u2014 repeatedly questioning how phrases were spoken to extract meaning.",
+    "source_quote": "Zalthir went back to the wording, which is his instinct \u2014 worry the sentence until it gives.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep library",
+    "fact": "A magic book exists in the Candlekeep library that could prove Bookwyrm\u2019s culpability \u2014 to be retrieved after the naming ceremony.",
+    "source_quote": "There's got to be a book somewhere in the library we can use to actually get to the bottom of this.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Kalan's moral compromise",
+    "fact": "Kalan plans to give Bookwyrm a chance to decline the Zone of Truth \u2014 knowing refusal implies guilt, making her politically untenable.",
+    "source_quote": "We will give her the opportunity to decline. Her declining will further weaken her support among the other Avowed.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin's final solution",
+    "fact": "Thorin's final solution is to use the reward to obtain a magic book that proves Bookwyrm\u2019s guilt after the fact \u2014 avoiding suspicion during the process.",
+    "source_quote": "We use our reward to access the thing that will do her in. That's much better.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Bookwyrm's chalice",
+    "fact": "The heart was placed in the chalice of the statue by Bookwyrm \u2014 the central act of concealment.",
+    "source_quote": "We think Bookwyrm extracted the heart and put it in the chalice of the statue, right?",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz's floor strategy",
+    "fact": "Daz provides a floor \u2014 hacking and slashing \u2014 as a fallback when all strategy fails.",
+    "source_quote": "If things go sideways, we can always start hacking and slashing.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Fembris Lancer's expected election",
+    "fact": "Fembris Lancer is expected to be elected the new Avowed, replacing Bookwyrm due to suspicion.",
+    "source_quote": "Fembris Lancer will probably get elected the new avowed.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "A'lai's political position",
+    "fact": "A'lai will not be named the new head of Candlekeep \u2014 suspicion extends to him as well.",
+    "source_quote": "A'lai won't be named either.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The three evidentiary types",
+    "fact": "The group identifies three elements: confession, heart, cleaver \u2014 and debates whether they constitute three types of evidence.",
+    "source_quote": "You have a confession. A heart and a cleaver.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Alkrist's cell",
+    "fact": "Alkrist is confined and finished \u2014 his confession, the cleaver, and the blood have sealed his fate.",
+    "source_quote": "Alkrist is finished \u2014 his confession, the cleaver, the blood.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Dawnbringer's telepathic communication",
+    "fact": "Dawnbringer communicates telepathically \u2014 her voice clicks inside the speaker\u2019s skull like a palm slapping stone.",
+    "source_quote": "And then a click inside my skull, a sound like a palm slapping stone, whatever that was supposed to mean.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin's realization of academic irony",
+    "fact": "Thorin realizes that Kalan\u2019s own academic standard now protects the person they want to convict \u2014 the irony is noted.",
+    "source_quote": "I filed that quietly under the column marked *irony*. The man wrote the standard, and the standard he wrote now shelters the person we most want to reach.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The group's final agreement",
+    "fact": "The group agrees to hand the case to Kalan, wait for the naming ceremony, and use their reward to obtain a book that proves Bookwyrm's guilt.",
+    "source_quote": "Alright, so we've got to nail Bookwyrm... We use our reward to access the thing that will do her in.",
+    "quote_verified": false
   }
 ]

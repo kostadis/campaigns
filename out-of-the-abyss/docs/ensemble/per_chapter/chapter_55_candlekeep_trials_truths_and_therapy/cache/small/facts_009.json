@@ -2,57 +2,55 @@
   {
     "type": "npc",
     "subject": "Daz",
-    "fact": "Daz is a diminutive form of Daz'issin, a name mothers in Menzoberranzan used for sons they wished to protect, with fewer than a handful of recorded uses in the last three centuries, and associated houses that have all perished.",
-    "source_quote": "She told me it was a softening name. That mothers use it for boys they wanted to live. That there were not many uses of it in the past three centuries. And that the houses that had used it, most of them, did not last.",
-    "quote_verified": true
+    "fact": "Daz is known by a diminutive form, Daz'issin, meaning 'small shadow,' likely used by a mother wishing for a child's survival, and is the only known living bearer of the name in the past three centuries.",
+    "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Yvenne",
-    "fact": "Yvenne is a keeper of restricted knowledge in Menzoberranzan, maintaining a pose of neutral informant while her body language \u2014 five minutes of practiced stillness contradicting her words \u2014 reveals she is carefully navigating what she can say, knowing more than the public record allows.",
-    "source_quote": "She had been sitting for the last several minutes \u2014 the practiced stillness of someone who knows more than the public record allows her to say, maintaining the pose of a person who is simply informing rather than carefully navigating.",
+    "fact": "Yvenne is a keeper of restricted knowledge regarding Menzoberranzan's noble lineages, deliberately withholding information about Daz's origins while maintaining the appearance of neutrality, and has been physically signaling dissonance with her words for five minutes.",
     "quote_verified": false
   },
   {
     "type": "faction",
     "subject": "Houses that used Daz'issin",
-    "fact": "The noble houses that historically used the name Daz'issin have all perished, with no known survivors or continuations in the last three centuries, suggesting systematic eradication or collapse.",
-    "source_quote": "The houses that had those names have all gone.",
-    "quote_verified": true
+    "fact": "The noble houses that historically bore the name Daz'issin have all perished within the past three centuries, with none surviving to the present day.",
+    "quote_verified": false
   },
   {
     "type": "object",
-    "subject": "Heraldry book: *Geography and Cities, Menzoberranzan, Pillars of Woe*",
-    "fact": "A two-hundred-year-old heraldic text, partially defaced by a deliberate, razor-cut removal of an appendix referenced by a footnote on Daz'issin, indicating intentional suppression of information tied to the name and its lineage.",
-    "source_quote": "A razor. Not age, not water damage, not the slow forgetting of paper that has been handled too many times. A razor, at least fifty years ago, someone had taken to this book and removed what the footnote pointed to.",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "Mercenaries following Daz",
-    "fact": "Two distinct groups of mercenaries are actively tracking Daz \u2014 one to ensure his survival, the other to kill him \u2014 suggesting his identity or lineage is of high strategic value and contested between opposing powers.",
-    "source_quote": "We have mercenaries following me around, trying to make sure I live, and other mercenaries following me around, trying to kill me.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "Missing appendix on Daz'issin",
-    "fact": "The appendix referenced in the footnote on Daz'issin has been physically excised from the heraldry book, creating an unresolved gap in the historical record that may contain the truth of Daz's origins, the fate of his house, or the identity of his protector.",
-    "source_quote": "The appendix was missing.",
-    "quote_verified": true
+    "subject": "*Geography and Cities, Menzoberranzan, Pillars of Woe*",
+    "fact": "A two-hundred-year-old heraldry text, deliberately defaced fifty years ago by a razor cut that removed an appendix referenced by a footnote concerning the name Daz'issin.",
+    "quote_verified": false
   },
   {
     "type": "event",
-    "subject": "Silence of Yvenne",
-    "fact": "Yvenne\u2019s refusal to answer the question 'What if they weren't successfully all gone?' constitutes a deliberate, non-verbal affirmation in Menzoberranzan\u2019s culture \u2014 where silence in the ledger is an answer \u2014 implying that at least one house or lineage tied to Daz'issin may still endure.",
-    "source_quote": "She said nothing. Which is, in the ledger, an answer.",
-    "quote_verified": true
+    "subject": "defacement of the heraldry text",
+    "fact": "An appendix referencing Daz'issin was surgically excised from the book with a razor, indicating intentional suppression of lineage records rather than decay or neglect.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Daz's true lineage",
+    "fact": "The suppression of Daz'issin's record and Yvenne's evasive behavior suggest Daz's origin is tied to a destroyed house whose existence contradicts the official record, and whose survival may still be possible.",
+    "quote_verified": false
   },
   {
     "type": "location",
     "subject": "Menzoberranzan",
-    "fact": "Menzoberranzan is a city where reading rooms, interpreting body language, and recognizing when someone\u2019s posture contradicts their speech are essential survival skills \u2014 and where silence, omission, and defaced texts are tools of power and concealment.",
-    "source_quote": "Menzoberranzan teaches you to read rooms. It teaches you to watch for the moment when someone's body stops matching their words.",
-    "quote_verified": true
+    "fact": "Menzoberranzan is a city where reading body language and silences is a survival skill, and where the absence of an answer is treated as a recorded response in the ledger of truth.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "defacement timing",
+    "fact": "The appendix was removed at least fifty years ago, placing the erasure before the last known use of the name Daz'issin in recorded history.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Daz's patron",
+    "fact": "Yvenne redirected inquiry from Daz's name to his patron, implying the identity of his protector may be more significant \u2014 or more dangerous \u2014 than his own origin.",
+    "quote_verified": false
   }
 ]

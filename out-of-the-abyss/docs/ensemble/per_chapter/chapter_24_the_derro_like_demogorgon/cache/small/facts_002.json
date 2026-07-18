@@ -1,0 +1,121 @@
+[
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is leading the party through the caves, asserting dominance over Derro and making tactical decisions despite fatigue. He is skeptical of authority figures like Errde Blackstaff and prioritizes practicality over ideological submission.",
+    "source_quote": "I squint at the tents and the room and say, 'No. There is nothing of value here.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a zealous preacher who reveres Bahamut and repeatedly interrupts tense situations with religious declarations, inadvertently provoking hostile Derro. His actions are driven by faith, not strategy, and he often fails to recognize the danger he creates.",
+    "source_quote": "I worship Bahamut!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is an arcane specialist who uses precise, high-impact spells in combat. He excels at controlling the battlefield with darkness and delivering critical strikes, and his magic is instrumental in neutralizing Derro threats.",
+    "source_quote": "Zalthir, bless his arcane heart, summoned his darkness, enveloping a couple of them. Then, in a burst of brilliant speed, he critically struck one of the Darrow.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a battle-hardened dwarf warrior clad in heavy armor, known for his blunt combat style and dark humor. He relies on brute force and intimidation, and his actions in battle are decisive, if unrefined.",
+    "source_quote": "I swung my longsword, a satisfying *thwack* as it connected. 'Take that, you blithering fool!' I yelled.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Derro",
+    "fact": "The Derro are corrupted, mad dwarves once enslaved by mindflayers, now worshiping a two-headed deity and obsessed with ritualistic madness. They are physically weak, intellectually limited, and violently reactive to deviations from their dogma, especially references to Bahamut.",
+    "source_quote": "They are mad.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Ember Vanguard",
+    "fact": "The Ember Vanguard is a specialized unit trained for stealth and infiltration in hostile, hazardous environments. They operate independently from their companions, using darkness and silence to navigate dangerous terrain, and prioritize mission objectives over safety or consensus.",
+    "source_quote": "The Ember Vanguard will march in, but we tell our companions to wait outside.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Derro Chamber with Scrap Iron Cages",
+    "fact": "This chamber is filled with scrap iron cages, spiral stone pylons marking a central path, and bubbling cauldrons emitting a foul, nauseating stench. It is a site of ritualistic madness, where Derro conduct forbidden experiments and worship their twisted deities.",
+    "source_quote": "The smell is coming from cages assembled from scrap iron on both sides of the chamber. A spiral path circles into the center of the room, marked off by small stone pylons.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Ritual Cavern of the Two-Headed Beast",
+    "fact": "This cavern glows with hellish red light, features spiral wall patterns, silent dripping water, and rampant fungi. At its center is a ritual circle atop a 5-foot platform, surrounded by forbidden tomes on duality, madness, and spawn creation, indicating deep Demogorgon influence and Derro heresy.",
+    "source_quote": "The cavern floor rises to form a natural 5-foot-high platform. A glowing ritual circle dominates the top of the platform. Around the platform are books made from Trillimac...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Trillimac Books",
+    "fact": "These books, bound in Trillimac, contain heretical texts on the Two-Headed Beast, duality, madness, and the creation of favored spawn. They are key evidence of Demogorgon\u2019s influence and are sought by Errde Blackstaff for ideological validation.",
+    "source_quote": "\u201cThe Spiraling Descent: A Treatise on Duality and Madness,\u201d and \u201cThe Prince's Gift: On the Creation of Favored Spawn\u201d, and \u201cRituals of the Two-Headed Beast.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Dirty Finger Pattern Tracing",
+    "fact": "A Derro is observed tracing invisible patterns with a dirty finger into the air above a bubbling cauldron, a ritual gesture tied to their devotion to the Two-Headed Beast and their warped perception of reality.",
+    "source_quote": "tracing an invisible pattern with a dirty finger",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Death Dogs",
+    "fact": "Death Dogs are spectral, bestial predators associated with the Derro and their ritual sites. They are silent, lurking, and attuned to the cursed energies of the caverns, serving as guardians or hunting companions to the mad dwarves.",
+    "source_quote": "I finally spot the inhabitants, some Derro and Death dogs.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Derro Patrol Encounter",
+    "fact": "A Derro patrol stumbles upon the party, but Daz's show of dominance causes them to retreat in fear, demonstrating that the Derro are more terrified of perceived authority than they are aggressive when unprovoked.",
+    "source_quote": "Daz insists we march as if we own this place. And it works. The creatures are fearful and somewhat deranged.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum's Bahamut Declaration",
+    "fact": "Grygum\u2019s religious proclamation triggers immediate violent hostility from the Derro, who perceive Bahamut as a heretical blasphemy against their two-headed deity. This event forces the party into combat despite prior non-confrontational intentions.",
+    "source_quote": "The moment that Grygum mentioned 'Bahamut,' I knew we were in for it.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Discovery of Demogorgon Evidence",
+    "fact": "The party uncovers concrete, physical evidence linking the Derro to Demogorgon\u2019s influence through ritual texts and papers. This discovery creates moral tension, as Daz considers withholding it from Errde Blackstaff to prevent ideological manipulation.",
+    "source_quote": "Errde Blackstaff wants evidence of Demogorgon\u2019s influence, and here it is.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Withholding Evidence from Errde",
+    "fact": "Daz contemplates suppressing the Demogorgon evidence he has found, knowing Errde Blackstaff will fabricate proof if denied. This unresolved tension suggests a future conflict between truth, power, and ideological exploitation.",
+    "source_quote": "I might not want to give it to her. But I know her type; if she doesn\u2019t get evidence, she\u2019ll invent it.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Derro Reading the Ritual Text",
+    "fact": "A Derro has just begun reading from one of the Trillimac books, potentially activating a ritual, summoning a manifestation, or altering the ambient magic of the cavern. This moment is the precursor to an imminent, unknown event.",
+    "source_quote": "Just then, one of them picks up a book and starts to read from it.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occur during an ongoing dungeon delve, following prior encounters with Derro and culminating in the discovery of a ritual chamber. The timeline is continuous, with no temporal breaks.",
+    "source_quote": "Our journey continues until we reach another cave entrance.",
+    "quote_verified": true
+  }
+]

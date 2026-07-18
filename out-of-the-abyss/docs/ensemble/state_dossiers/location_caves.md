@@ -7,14 +7,13 @@ chapters: 17-17
 
 ### Caves
 
-- **Current status**: Abandoned ruin, battlefield aftermath  
-- **Current location**: Unspecified, but associated with Buppido’s former shrine  
-- **Current state**: Littered with the remains of derro and their undead servants; blood-spattered bones and skeletal debris from the recent battle  
-- **Notable features**: Former site of Buppido’s shrine of bones and skeletons; now contains the scattered, bloodied remains of Buppido himself  
-- **Control/occupation**: Unoccupied — no living entities reported present  
-- **Defining recent action**: Site of a violent battle that resulted in the death and dismemberment of Buppido and the destruction of his derro-led undead contingent  
+- **Current state:** Abandoned battlefield littered with the remains of derro and their undead servants.
+- **Location:** Site of the former shrine of Buppido, now a ruin.
+- **Notable features:** Scattered bones and skeletons from Buppido’s original shrine; blood-spattered remains of Buppido mixed with derro and undead remains.
+- **Current control/occupancy:** Unoccupied; no active occupants or controllers noted.
+- **Defining recent action:** Battle occurred here, resulting in the death of Buppido and destruction of his derro followers and undead.
 
 ## Uncertainty
-- The exact geographic location of the caves is not specified.  
-- It is unclear whether any derro or undead remnants still linger in the caves post-battle.  
-- The condition of the shrine’s original structures (e.g., altars, bone carvings) is not described — only the debris left after the battle.
+- The exact geographical location or name of the cave system beyond its association with Buppido’s shrine is unspecified.
+- It is unclear whether any remnants of the shrine’s original structure or magical properties still exist.
+- It is unknown if any derro or undead remnants are still active or merely inert remains.

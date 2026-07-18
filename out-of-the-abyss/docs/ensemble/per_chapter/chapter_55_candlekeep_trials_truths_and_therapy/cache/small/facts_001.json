@@ -2,127 +2,127 @@
   {
     "type": "npc",
     "subject": "Tarvis Ulain",
-    "fact": "Tarvis Ulain was a paladin of Bahamut who died three years ago in Daggerford while breaking up a Cult of the Dragon recruitment operation. His severed bronze forearm is mounted on a stone pillar as a monument, bearing inscriptions in Common, Dwarven, and a reference to Stroudite chess symbolism.",
-    "source_quote": "Daz was already reading the inscription. The primary text told us this was Tarvis Ulain, paladin, dead three years. Died here, in Daggerford itself, breaking up a Cult of the Dragon recruitment operation.",
+    "fact": "Tarvis Ulain was a paladin of Bahamut who died three years ago in Daggerford while breaking up a Cult of the Dragon recruitment operation. His severed bronze forearm is mounted on a stone pillar as a monument, with a Dwarven inscription reading 'The move is yours' and a Common inscription signed by Milo Goodbarrel of the Order of the Gauntlet.",
+    "source_quote": "The primary text told us this was Tarvis Ulain, paladin, dead three years. Died here, in Daggerford itself, breaking up a Cult of the Dragon recruitment operation.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Milo Goodbarrel",
-    "fact": "Milo Goodbarrel is the head of a publisher affiliated with the Order of the Gauntlet and personally witnessed and recorded the monument to Tarvis Ulain, signing off on its creation.",
-    "source_quote": "There was a smaller inscription on the back. Common. *Witnessed and recorded for the Gauntlet.* Signed by Milo Goodbarrel, apparently head of some publisher, apparently Order of the Gauntlet.",
+    "fact": "Milo Goodbarrel is the head of a publisher and a member of the Order of the Gauntlet who personally witnessed and recorded the monument to Tarvis Ulain, signing the Common inscription on its back.",
+    "source_quote": "Signed by Milo Goodbarrel, apparently head of some publisher, apparently Order of the Gauntlet. Milo had personally signed off on this.",
     "quote_verified": true
   },
   {
     "type": "faction",
     "subject": "Metalworkers Guild",
-    "fact": "The Metalworkers Guild funded the monument to Tarvis Ulain two years after the war, possibly including Stroudite members, though the priest declined to confirm specifics.",
+    "fact": "The Metalworkers Guild funded the monument to Tarvis Ulain two years after the war, despite the presence of a Stroudite inscription, indicating possible internal ideological diversity or deliberate tolerance.",
     "source_quote": "The whole thing was funded two years after the war by a Metalworkers Guild.",
     "quote_verified": true
   },
   {
     "type": "faction",
     "subject": "Order of the Gauntlet",
-    "fact": "The Order of the Gauntlet endorsed the monument to Tarvis Ulain, with Milo Goodbarrel personally witnessing its creation, and now sells pewter replicas of the arm as charitable donations.",
-    "source_quote": "The priest was selling them for donations to the Order of the Gauntlet, and he was clearly delighted with his own enterprise.",
+    "fact": "The Order of the Gauntlet commissioned and recorded the monument to Tarvis Ulain, and now sells pewter replicas of his hand as charitable donations, with a priest of Bahamut acting as their local representative in Daggerford.",
+    "source_quote": "Witnessed and recorded for the Gauntlet. Signed by Milo Goodbarrel... He was selling them for donations to the Order of the Gauntlet.",
     "quote_verified": false
   },
   {
     "type": "faction",
     "subject": "Cult of the Dragon",
-    "fact": "The Cult of the Dragon was actively recruiting in Daggerford at the time of Tarvis Ulain\u2019s death, prompting his intervention and subsequent martyrdom.",
-    "source_quote": "Died here, in Daggerford itself, breaking up a Cult of the Dragon recruitment operation.",
+    "fact": "The Cult of the Dragon was actively recruiting in Daggerford at the time of Tarvis Ulain\u2019s death, prompting his intervention and eventual demise.",
+    "source_quote": "breaking up a Cult of the Dragon recruitment operation.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "monument unveiling",
-    "fact": "A bronze monument to Tarvis Ulain, depicting his severed forearm, was erected in Daggerford\u2019s market square two years after his death, bearing layered inscriptions that reference both Bahamutian devotion and Stroudite symbolism.",
-    "source_quote": "There was a monument there \u2014 a bronze-cast forearm, severed at the elbow, mounted on a stone pillar... The primary text told us this was Tarvis Ulain... Daz found the secondary inscription. Dwarven, on the base. *The move is yours.*",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "pewter hand cast",
-    "fact": "Pewter miniature replicas of Tarvis Ulain\u2019s severed forearm are being sold by a village priest as charitable donations to the Order of the Gauntlet, measuring charm-sized and not full size.",
-    "source_quote": "A village priest caught us in the doorway... carrying a tray of small pewter reproductions of Tarvis's hand cast, miniature things, charm-sized.",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "bronze forearm monument",
-    "fact": "The bronze forearm monument to Tarvis Ulain is mounted on a stone pillar in Daggerford\u2019s market square, bearing three inscriptions: Common (identifying Tarvis), Dwarven (*The move is yours.*), and Common (*Witnessed and recorded for the Gauntlet.*).",
-    "source_quote": "There was a monument there \u2014 a bronze-cast forearm, severed at the elbow, mounted on a stone pillar... Daz found the secondary inscription. Dwarven, on the base. *The move is yours.*",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "Stroudite inscription on Bahamutian monument",
-    "fact": "A Stroudite chess reference (*The move is yours.*) appears on a monument to a Bahamutian paladin, raising questions about religious syncretism, tolerance, or hidden alliances in post-war Daggerford.",
-    "source_quote": "Somebody had put a Stroudite inscription on a monument to a Bahamutian paladin in a town I'd barely heard of, and whoever commissioned it had either not noticed or not cared enough to remove it.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "priest's ambiguous tolerance",
-    "fact": "The village priest claims to be a 'pure Bahamutian' but allows a Stroudite inscription to remain on the monument, citing it as a 'gift' that should not be removed, suggesting deeper political or theological compromises.",
-    "source_quote": "It was a gift,' he said finally. 'And since it was a gift, we decided the inscription could remain. After all \u2014 wasn't Tarvis trying to save us all, regardless of what actually happened in that game of chess?'",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "Daggerford's silent trauma",
-    "fact": "Daggerford bears visible markers of war \u2014 the monument, the pewter relics, the lingering tension over religious symbolism \u2014 yet avoids open discussion of its pain, mirroring the unspoken silence observed by the party upon arrival.",
-    "source_quote": "Daggerford was the first place we'd walked into in weeks where the silence didn't make sense... Townfolk walked around something none of them would point at. Nobody explained why.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum is a half-orc cleric of Bahamut who notices and questions the layered symbolism of the monument, purchases a pewter hand cast, and presses the priest for theological clarity, revealing his role as an investigator of hidden truths.",
-    "source_quote": "Grygum looked at them. 'Are they full size?'... Grygum dropped a gold piece in for his... Grygum asked him to tell him more... 'As am I,' Grygum said. 'But the inscription shares language with Stroud. Why is that?'",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Daz",
-    "fact": "Daz is a dwarf who reads and interprets the Dwarven inscription on the monument, recognizes the Stroudite chess reference, and confirms its accuracy due to his linguistic fluency in Dwarven.",
-    "source_quote": "Daz was already reading the inscription... Daz found the secondary inscription. Dwarven, on the base. *The move is yours.*... I read it twice because Dwarven is, you know, actually my language, or one of them, and I wanted to make sure I hadn't misread. I hadn't.",
+    "type": "location",
+    "subject": "Daggerford",
+    "fact": "Daggerford is a town that avoided the worst of the post-war Uthgardt barbarian hordes but suffered the presence of the Cult of the Dragon and the death of Tarvis Ulain, leaving behind a monument that has become a focal point of ideological tension and quiet remembrance.",
+    "source_quote": "Daggerford had people. Daggerford had walls, and a market square, and smoke from cook fires... Only lost Tarvis.",
     "quote_verified": false
   },
   {
     "type": "location",
     "subject": "River Shining Tavern",
-    "fact": "The River Shining Tavern is a destination in Daggerford where the party ultimately arrives after observing the monument and encountering the priest selling pewter hand casts.",
-    "source_quote": "We made it to the inn eventually. The River Shining.",
+    "fact": "The River Shining Tavern is the local inn in Daggerford where the party arrives after encountering the monument to Tarvis Ulain and the priest selling pewter hand casts.",
+    "source_quote": "We found the River Shining Tavern and noted it for later.",
     "quote_verified": true
   },
   {
-    "type": "location",
-    "subject": "Daggerford market square",
-    "fact": "The market square in Daggerford is the site of Tarvis Ulain\u2019s bronze forearm monument and the center of the priest\u2019s sales activity, symbolizing the town\u2019s attempt to memorialize trauma through public art and commerce.",
-    "source_quote": "There was a monument there \u2014 a bronze-cast forearm... Daz was already reading the inscription... The priest was selling them for donations...",
+    "type": "object",
+    "subject": "Bronze forearm monument",
+    "fact": "A bronze-cast severed forearm, mounted on a stone pillar, commemorates Tarvis Ulain. It bears a Dwarven inscription 'The move is yours,' a Common inscription signed by Milo Goodbarrel, and is associated with the Order of the Gauntlet and the Metalworkers Guild.",
+    "source_quote": "a bronze-cast forearm, severed at the elbow, mounted on a stone pillar... The primary text told us this was Tarvis Ulain... Dwarven, on the base. *The move is yours.*",
     "quote_verified": false
   },
   {
-    "type": "location",
-    "subject": "Daggerford",
-    "fact": "Daggerford is a southern town in the North that avoided the worst of the Uthgardt hordes but suffered the Cult of the Dragon\u2019s incursion, losing Tarvis Ulain and now memorializing him with contested religious symbolism.",
-    "source_quote": "Daggerford had been far enough south to miss the Uthgardt barbarian hordes... They'd only gotten the cult. Only lost Tarvis.",
+    "type": "object",
+    "subject": "Pewter hand casts",
+    "fact": "Small, charm-sized pewter reproductions of Tarvis Ulain\u2019s severed forearm are being sold by a village priest as donations to the Order of the Gauntlet, despite their diminutive size and the ideological ambiguity of the monument\u2019s inscription.",
+    "source_quote": "carrying a tray of small pewter reproductions of Tarvis's hand cast, miniature things, charm-sized. He was selling them for donations to the Order of the Gauntlet.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "death of Tarvis Ulain",
+    "fact": "Tarvis Ulain died three years ago in Daggerford while dismantling a Cult of the Dragon recruitment effort, an act that made him a martyr and led to the creation of a controversial monument.",
+    "source_quote": "Died here, in Daggerford itself, breaking up a Cult of the Dragon recruitment operation.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Stroudite inscription on Bahamutian monument",
+    "fact": "A Dwarven inscription referencing Stroud \u2014 'The move is yours' \u2014 appears on a monument to a Bahamutian paladin, creating unspoken tension between factions, with no one certain whether it was an oversight, a gift, or a quiet act of defiance.",
+    "source_quote": "The inscription shares language with Stroud... Somebody had put a Stroudite inscription on a monument to a Bahamutian paladin... they had either not noticed or not cared enough to remove it.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "identity of the monument's commissioner",
+    "fact": "The origin of the monument\u2019s design \u2014 particularly the inclusion of the Stroudite inscription \u2014 remains unexplained, with the Metalworkers Guild\u2019s possible Stroudite members and the priest\u2019s admission that it was 'a gift' leaving the true motive ambiguous.",
+    "source_quote": "It was a gift... we decided the inscription could remain.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a half-orc cleric of Bahamut who observes the monument to Tarvis Ulain with deep attention, questions its contradictions, purchases a pewter hand cast, and presses the priest for answers, demonstrating both faith and skepticism.",
+    "source_quote": "Grygum made a sound when he got to the part confirming Tarvis had served Bahamut... Grygum dropped a gold piece in for his... Grygum asked him to tell him more...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a dwarf who reads the Dwarven inscription on the monument with linguistic precision, recognizes its connection to Stroud\u2019s chess reference, and confirms its accuracy due to his native fluency in Dwarven.",
+    "source_quote": "Daz was already reading the inscription... Dwarven is, you know, actually my language, or one of them, and I wanted to make sure I hadn't misread. I hadn't.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a Dragonborn who approaches the monument with suspicion, treating it as a potential threat and questioning whether it constitutes art, reflecting his cautious, combat-oriented worldview.",
+    "source_quote": "Zalthir looked at it the way he looks at most things: like he was deciding whether it constituted a threat. 'This is art?' he said.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Priest of the River Shining",
+    "fact": "A village priest of Bahamut sells pewter hand casts of Tarvis Ulain\u2019s severed forearm as donations to the Order of the Gauntlet, claims purity of faith, acknowledges the Stroudite inscription as a 'gift' left in place, and adapts quickly to the diverse party\u2019s presence.",
+    "source_quote": "He himself was, he wanted us to know, *a pure Bahamutian*. He did not believe in the heresy... 'It was a gift'... He pivoted and addressed the general group with renewed energy.",
     "quote_verified": false
   },
   {
     "type": "date",
     "subject": "three years ago",
-    "fact": "Tarvis Ulain died three years ago in Daggerford, and the monument to him was funded two years after his death, placing the current events approximately one year after the monument\u2019s unveiling.",
-    "source_quote": "The primary text told us this was Tarvis Ulain, paladin, dead three years... The whole thing was funded two years after the war...",
+    "fact": "Tarvis Ulain died three years ago, and the monument was funded two years after the war, placing the events of Daggerford\u2019s memorialization within a narrow post-conflict window.",
+    "source_quote": "dead three years... funded two years after the war.",
     "quote_verified": false
   },
   {
-    "type": "date",
-    "subject": "two years post-war",
-    "fact": "The Metalworkers Guild funded the monument two years after the war, situating its creation in the early recovery phase of Daggerford\u2019s post-conflict society.",
-    "source_quote": "The whole thing was funded two years after the war by a Metalworkers Guild.",
-    "quote_verified": true
+    "type": "event",
+    "subject": "arrival of the party in Daggerford",
+    "fact": "The party arrives in Daggerford after a long journey from the Silver Marches, encountering a monument laden with ideological ambiguity and a priest selling relics, marking the beginning of their engagement with the town\u2019s quiet, unresolved war trauma.",
+    "source_quote": "Daggerford was the first place we'd walked into in weeks where the silence didn't make sense... We found the River Shining Tavern and noted it for later.",
+    "quote_verified": false
   }
 ]

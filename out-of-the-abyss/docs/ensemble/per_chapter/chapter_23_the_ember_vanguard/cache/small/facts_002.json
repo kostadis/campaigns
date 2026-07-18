@@ -1,0 +1,72 @@
+[
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum believes the egg is no longer a dragon but a demonic abomination, and that it must be destroyed to prevent its use in dark designs. He recalls Bahamut's teaching that true freedom lies in breaking chains of corruption, even when madness fuels creation.",
+    "source_quote": "\"When the egg, crimson-hued, promises but a shadow's ride, does one mend the shell, or seek to free the spark within? The true wyrm's form is not etched by fate's first breath, nor by sorcerous hand. It is the choices that twist the spirit, or set it soaring. To break the chains of another's dark design, even when madness fuels the crafting, is to affirm the very freedom Bahamut cherishes.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir has uncovered evidence that the Derro and Duergar must be condemned to a genocidal war that will destroy Gracklstugh, but he is troubled by whether this is morally right.",
+    "source_quote": "Zalthir knows he has enough to condemn the Derro and Duergar to a genocidal war that will result in the utter destruction of the city of Gracklstugh. \"But is that the right thing to do?\" he wonders.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "dragon rattle",
+    "fact": "A giant baby rattle made by Clan Thrazgad, identical in craftsmanship to the ore recovered from them, was found by Thorin. It bears no clear purpose but evokes unease due to its connection to the demonic egg and the Thrazgad's role in the conspiracy.",
+    "source_quote": "It says made by clan Thrazgad.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "demonic egg",
+    "fact": "The egg, once thought to be a dragon's, is now confirmed as a physical manifestation of a demon, created through corrupted alchemy and dark intent. It is destined to hatch as an instrument of Demogorgon, not a replacement for Themberchaud.",
+    "source_quote": "The egg is no longer a dragon. It is a physical manifestation of a demon.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "destabilization of Gracklstugh",
+    "fact": "A coordinated campaign by the Cult of Narrak, the Gray Ghosts, and the Keepers of the Flame has successfully corrupted the Deepking's rule, distracted his enforcers, and weaponized the egg and Obelisk to prepare the city for sacrifice to Demogorgon.",
+    "source_quote": "The city spirals precisely as we planned, preparing for the true glory that awaits it.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Cult of Narrak",
+    "fact": "The Cult of Narrak, operating through covert placements of 'Y' carvings and ideological indoctrination, has convinced nearly all Council members of the Savants to embrace the true path. They seek to deliver Gracklstugh as a sacrificial gift to Demogorgon, using the Obelisk and the egg as instruments of ascension.",
+    "source_quote": "Almost all members have now embraced the true path, thanks to our careful placements of the 'Y' carvings.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "fate of the egg",
+    "fact": "Grygum declares the egg must be returned to Gartokkar so that Themberchaud may have its revenge \u2014 a decision that contradicts both the Cult's plans and the Deepking's ignorance, creating a volatile pivot point in the conflict.",
+    "source_quote": "\"We shall return the egg to Gartokkar. When this abomination hatches, the dragon Themberchaud will have its revenge on those who would think to control it.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin, unaware of the egg's true nature, finds a Thrazgad-made dragon rattle and expresses a childlike desire for a dragon, triggering discomfort in Zalthir and Grygum due to draconic abomination taboos and the rattle's sinister origins.",
+    "source_quote": "\"We should get a baby dragon. I would like to have a dragon. It would be so cool if we had a dragon.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh is being systematically corrupted from within by cultists, assassins, and psychological warfare, with its leadership paralyzed by paranoia and its people manipulated into accepting impending destruction as divine will.",
+    "source_quote": "The madness and corruption spread throughout Gracklstugh. The Deepking, in his senile paranoia, continues to issue edicts that weaken his own authority.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Buppido's death and Eldeth's near-death",
+    "fact": "The deaths of Buppido and the derro, along with Eldeth's near-fatal encounter, have made the idea of fleeing Gracklstugh emotionally untenable for Thorin and others, binding them to the city\u2019s fate despite its horrors.",
+    "source_quote": "The loss of Buppido, and the death of the derro, and the destruction of the dragon in the egg, and the near death of Eldeth have made the idea of leaving Gracklstugh a smouldering inferno less appealing.",
+    "quote_verified": false
+  }
+]

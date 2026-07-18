@@ -1,43 +1,43 @@
 ---
 name: Plinki
 type: npc
-n_facts: 24
+n_facts: 18
 chapters: 18-54
 ---
 
 ### Plinki
 
 **Current status:** Dead  
-**Current location:** Whorlstone Caverns (site of death)  
-**Allegiance/faction:** Cult of Demogorgon (fanatical adherent; deceased)  
+**Current location:** Whorlstone Caverns (body unlocated; journal recovered)  
+**Allegiance/faction:** Cult of Demogorgon (fanatical devotee; self-proclaimed high priest)  
 **Current possessions / notable items:**  
-- Small notebook (last used to record obelisk’s magical pulse)  
-- Pliinki’s Journal (documenting efforts to birth a demonic monster; recovered from Whorlstone Caverns)  
-- Thrazgad ore (discarded and forgotten next to workbenches)  
+- *Obelisk of Diirinka* (used as a ritual focus; source of chaotic energy; last seen active in ch21)  
+- *Red Dragon Egg* (infused with demonic spirit; intended as vessel for dual-headed wyrmling; last known location: Whorlstone Caverns)  
+- *Small notebook* (containing meticulous ritual logs; last seen being written in during ch21)  
+- *Pliinki’s Journal* (physical artifact recovered and transported to Candlekeep; documents experiments on the egg and obelisk, and his goal to create a “Prince’s gift” for Demogorgon)  
 
 **Current assignment / role and key relationships:**  
-- Former leader of a derro cult cell devoted to transforming a red dragon egg into a two-headed wyrmling as a mount for Demogorgon  
-- Formerly worked with the Gray Ghosts (who stole the egg from the Keepers of the Flame) and the Council of Savants  
-- Believed the Obelisk of Diirinka was a sacred artifact to be repaired and used to conquer Gracklstugh as a sacrificial gift to Demogorgon  
-- Mistakenly believed Grygum (a cleric of Bahamut) was a fellow cultist and that his heart would seal the ritual  
+- Former leader and high priest of the Derro cult in the Whorlstone Caverns; orchestrated the ritual to transform the Red Dragon Egg into a dual-headed wyrmling mount for Demogorgon.  
+- Manipulated the Gray Ghosts to steal the egg from the Keepers of the Flame and used the Obelisk of Diirinka to channel chaos energy.  
+- Believed by subordinates (Skiit, Ulnara) to be an authority who promised divine favor and better jobs in exchange for loyalty.  
+- Was the primary target of Zalthir’s psychic assault in ch22, which extinguished her consciousness.  
 
 **Defining recent actions:**  
-- Attempted to complete a ritual using the Red Dragon Egg, the Obelisk of Diirinka, and the heart of a cleric of Bahamut  
-- Reacted with ecstatic glee when the obelisk pulsed with magic, recording the event in her notebook  
-- Shouted for Grygum to “Come here!” upon realizing he was a cleric of Bahamut, believing the ritual had succeeded  
-- Was mentally obliterated by Zalthir’s psychic roar — consciousness extinguished like a candle flame  
-- Her death caused her derro followers to shatter into panicked fragments  
+- Conducted ritual to infuse the Red Dragon Egg with a demon’s spirit using the Obelisk of Diirinka.  
+- Attempted to seal the ritual with the beating heart of a cleric of Bahamut (Grygum).  
+- Reacted with ecstatic glee when the obelisk activated, then attempted to summon followers to complete the ritual.  
+- Was psychically obliterated by Zalthir’s roar, causing her cultist followers to collapse into panic.  
+- Left behind a detailed journal documenting her work — not as confession, but as proud record — later recovered and delivered to Candlekeep.  
 
 **Revealed motivations or secrets:**  
-- Believed the two-headed wyrmling was a “Prince’s gift” worthy of Demogorgon himself  
-- Saw the genocidal war against other derro as the “first cleansing”  
-- Thought the Deepking would be “delighted” by the egg, unaware of its true demonic destiny  
-- Considered the obelisk a fractured but magnificent artifact hidden by Diirinka, humming with latent power  
-- Viewed her experiments not as madness, but as sacred devotion — recorded in her journal as a worthy legacy  
+- Sought to create a perfect dual-headed wyrmling as a divine gift for Demogorgon, believing it would elevate her status and fulfill her devotion.  
+- Viewed the Obelisk of Diirinka as a weapon to conquer Gracklstugh.  
+- Mistakenly believed Grygum, a cleric of Bahamut, was a fellow cultist — a delusion rooted in her fanaticism.  
+- Her journal reveals she saw her actions as noble, not evil — a profound moral inversion.  
 
 ## Uncertainty
-- Gender inconsistency: Earlier facts refer to Plinki as “she” (female derro), but the final journal entry (ch54) uses “his” (“a man had written carefully…”). This conflict is unresolved.  
-- Attribution of the egg’s theft: Ch21 attributes the theft to the Gray Ghosts, then Plinki bringing it to the cavern; ch23 implies Plinki orchestrated it. No contradiction, but unclear if she was acting independently or under orders.  
-- “Pliinki” vs. “Plinki”: Spelling alternates between “Plinki” and “Pliinki” in the facts — assumed to be the same entity, but unconfirmed.  
-- Current location of the journal: While noted as recovered from Whorlstone Caverns, it is not stated who currently holds it.  
-- Status of the egg and obelisk: Their current state (hatched? damaged? active?) is not stated after Plinki’s death.
+- Gender inconsistency: Earlier chapters refer to Plinki as “she” (ch21, ch22), but ch23 and ch54 use “his” and “him.” No explanation provided; cannot resolve pronoun conflict.  
+- Name spelling: “Plinki” (chs 18–22) vs. “Pliinki” (chs 23, 24, 54). Likely typographical, but unconfirmed whether intentional or error.  
+- Exact location of body: Plinki was killed in ch22, but her physical remains were never described post-death; only her journal was recovered.  
+- Status of the egg and obelisk: Last seen active in ch21; no later confirmation of their current state or location after Plinki’s death.  
+- Whether the dual-headed wyrmling was successfully born: Ritual was interrupted by Grygum’s intervention and Zalthir’s psychic attack; no evidence confirms completion.

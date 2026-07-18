@@ -2,134 +2,92 @@
   {
     "type": "date",
     "subject": "session date",
-    "fact": "The session occurs on the day of the murder at half past two, with events unfolding through the night and into the next day.",
+    "fact": "A'lai showed up at the Oak Tree Apothecary at half past two on the day of the murder.",
     "source_quote": "A'lai had shown up at the Oak Tree Apothecary at half past two on the day of the murder",
     "quote_verified": true
   },
   {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "An hour passes between two events in the session.",
-    "source_quote": "A polymorph spell lasts an hour",
-    "quote_verified": true
-  },
-  {
     "type": "monster",
-    "subject": "chasme count",
-    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
-    "source_quote": "Where are the four of you? Who were the rest of you? I didn't see you at the talk.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "travel to Sloobludop",
-    "fact": "Sloobludop is approximately eight days away via the Darklake.",
-    "source_quote": "there's plenty of time to heal him",
+    "subject": "dragonborn count",
+    "fact": "A dragonborn had arrived at the apothecary, per the testimony of Nibbles the squirrel.",
+    "source_quote": "a dragonborn had arrived",
     "quote_verified": true
   },
   {
     "type": "location",
     "subject": "Velkynvelve elevation",
-    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
+    "fact": "Velkynvelve is the bottom of the world, where a dwarf was in chains.",
     "source_quote": "Velkynvelve, which is where this all started: a dwarf in the wrong place, in chains, at the bottom of the world",
     "quote_verified": true
   },
   {
-    "type": "object",
-    "subject": "silver candlestick value",
-    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
-    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
-    "quote_verified": false
+    "type": "event",
+    "subject": "polymorph spell duration",
+    "fact": "A polymorph spell lasts an hour.",
+    "source_quote": "A polymorph spell lasts an hour",
+    "quote_verified": true
   },
   {
-    "type": "location",
-    "subject": "Alkrist's safe location",
-    "fact": "Alkrist's safe is unopened and located in Alkrist's chambers, accessible only through a gap Glabbagool could potentially eat through.",
-    "source_quote": "open threads: Alkrist's safe, unopened",
+    "type": "event",
+    "subject": "time gap between sightings",
+    "fact": "There was a minimum two-hour gap between the Sylvira lookalike being seen in the kitchens and coming down the stairs.",
+    "source_quote": "That's a minimum two-hour gap",
     "quote_verified": true
   },
   {
     "type": "object",
-    "subject": "sapphire and locket relationship",
-    "fact": "The sapphire is required to find a lost locket; the locket cannot be stolen from a living person holding it.",
+    "subject": "sapphire and locket value relation",
+    "fact": "You can't steal a locket off someone who's alive and holding it; you need the sapphire to find a locket that's already lost.",
     "source_quote": "you can't steal a locket off someone who's alive and holding it. You need the sapphire to find a locket that's already lost",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "monograph authorship",
-    "fact": "A monograph cannot have multiple authors; a duograph or acknowledged contribution is acceptable.",
-    "source_quote": "It's a work that has one author",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "cheese memory",
-    "fact": "Glabbagool remembers cheese as a real, lost food, and grieves its absence with genuine longing.",
-    "source_quote": "I remember when there was cheese. Perhaps if we had some cheese.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Glabbagool's evaluation zone",
-    "fact": "Glabbagool evaluates documents with the same acidic, nutritional focus he applies to food, and has declared non-nutritious material inedible.",
-    "source_quote": "This is not nutritious. This is not food.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "polymorph contradiction",
-    "fact": "A two-hour gap in sightings contradicts the one-hour duration of a standard polymorph spell, implying a more complex magical mechanism.",
-    "source_quote": "She'd been seen coming down the stairs between two and three. That's a minimum two-hour gap. A polymorph spell lasts an hour.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Candlekeep monograph archive",
-    "fact": "Candlekeep values monographs as currency of scholarly influence, with multiple individuals seeking authorship in a single afternoon.",
-    "source_quote": "Two men after a monograph in one afternoon. That told me something about how this library keeps score.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "myth of the person",
-    "fact": "The dead retain their biases, memories, and performances; magic does not grant objective truth.",
-    "source_quote": "The myth of the person. The assumption that death is a transparency... They don't. They're still themselves.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "terrain as truth",
-    "fact": "In the Underdark, terrain is the only reliable evidence; magic and testimony are shifting surfaces over fixed facts.",
-    "source_quote": "In the Underdark, the one thing that didn't lie was terrain.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Oak Tree Apothecary crime scene",
-    "fact": "The apothecary garden and inner chambers are the site of the poisoning and initial intrusion, with separate theft occurring later.",
-    "source_quote": "the poison was collected. A mess was made. Alkrist was a dragonborn. Zalthir had caught that this referred to the apothecary intrusion, not whoever had later removed the heart and looted the safe",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "Grygum's deduction principle",
-    "fact": "Once the impossible is eliminated, whatever remains \u2014 however unlikely \u2014 must be the truth.",
-    "source_quote": "Once you have eliminated the impossible, whatever remains, however unlikely, must be the truth?",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Grygum's secretary's office",
-    "fact": "Glabbagool, the gelatinous cube, serves as secretary and receives all documents, evaluating them for nutritional content.",
-    "source_quote": "I indicated Glabbagool.",
+    "type": "npc",
+    "subject": "Daral's remaining time",
+    "fact": "Daral looked like someone counting down.",
+    "source_quote": "He looked alive, technically, though with the specific quality of someone counting down",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "gelatinous cube capability",
-    "fact": "Glabbagool can eat through walls and safes, but chooses restraint to maintain stealth in investigations.",
-    "source_quote": "I guess I could have eaten through the safe. It would have taken a while. Walls don't stop us. I can eat through walls.",
+    "subject": "sequence of Daral's poison exposure",
+    "fact": "Daral licked his finger, licked the book, then licked his finger again.",
+    "source_quote": "he had licked his finger, licked the book, then licked his finger again",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "safe accessibility",
+    "fact": "Glabbagool could eat through the safe, as walls present no meaningful obstacle to his methodology.",
+    "source_quote": "I guess I could have eaten through the safe. It would have taken a while",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "monograph request sequence",
+    "fact": "Fembris Lancer and Elian both asked for a monograph in the same afternoon.",
+    "source_quote": "First Fembris, now Elian. Two men after a monograph in one afternoon",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "sequence of Glabbagool's emotional response",
+    "fact": "Glabbagool first declared the notes not nutritious, then expressed grief about the loss of cheese.",
+    "source_quote": "This is not nutritious. ... I remember when there was cheese. Perhaps if we had some cheese",
     "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "gap size for Glabbagool",
+    "fact": "Glabbagool distinguished between a gap that admitted a gelatinous cube and one that did not.",
+    "source_quote": "Glabbagool had made the distinction between a gap that admitted a gelatinous cube and a gap that did not",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "time of Sylvira lookalike sightings",
+    "fact": "The Sylvira lookalike was seen in the kitchens around one in the morning and coming down the stairs between two and three.",
+    "source_quote": "the Sylvira lookalike had been seen in the kitchens around one in the morning. She'd been seen coming down the stairs between two and three",
+    "quote_verified": true
   }
 ]

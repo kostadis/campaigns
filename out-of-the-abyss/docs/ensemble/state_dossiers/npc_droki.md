@@ -1,27 +1,29 @@
 ---
 name: Droki
 type: npc
-n_facts: 13
+n_facts: 12
 chapters: 15-18
 ---
 
 ### Droki
 
 **Current status:** Alive  
-**Current location:** West Cleft District, Gracklstugh, operating near the Whorlstone Caverns and a concealed fissure behind rags and boxes  
-**Allegiance/faction:** Agent of the Gray Ghosts; courier and officer of the Council of Savants; actively collaborating with Plinki of the Cult of Demogorgon  
-**Current possessions / notable items:** Insignia of office of the Council of Savants and the Gray Ghosts; carries messages between factions; consumes mushrooms along his route  
-**Notable spells, feats, wounds:** None explicitly stated; appears under magical influence or ritualistic alteration  
-**Current assignment / role:** Courier and operative facilitating the transformation of a red dragon egg into a dual-headed dragon mount for Demogorgon’s master; delivers messages across hostile faction lines with impunity; accesses hidden Derro sanctums via a concealed fissure  
+**Current location:** West Cleft District, Gracklstugh; active in the Whorlstone Caverns and associated Derro tunnels  
+**Allegiance/faction:** Council of Savants (official insignia carried); agent of the Gray Ghosts; actively collaborating with Plinki of the Cult of Demogorgon  
+**Current possessions / notable items:** Insignia of office of the Council of Savants and the Gray Ghosts; consumes ritual mushrooms along his route; carries messages between factions  
+**Current assignment / role:** Derro courier and operative; transports messages across hostile territories with unnaturally precise, ritualistic efficiency; actively assisting Plinki in the transformation of a red dragon egg into a dual-headed dragon mount for Demogorgon’s master  
 **Defining recent actions:**  
-- Actively working with Plinki to summon Demogorgon and transform the red dragon egg into a dual-headed dragon mount.  
-- Maintains ritualistic, predictable movement through Derro slums and Underdark tunnels, using mushroom consumption and a hidden fissure to evade detection.  
-- Trusted by all major factions in Gracklstugh (Council of Savants, Clan Lairds, Gray Ghosts, Keepers of the Flame, Stone Guards) for secure message delivery, despite being hunted by the Stone Guards and Keepers of the Flame.  
-- Represents institutional corruption within Derro civilization, bridging the Council of Savants and the Gray Ghosts.
+- Continues his predictable, high-speed courier circuit through Derro slums and Underdark tunnels, using a concealed fissure behind rags and boxes in the West Cleft.  
+- Works in tandem with Plinki, who has converted to the Cult of Demogorgon, to ritualistically transform the stolen red dragon egg into a dual-headed dragon mount.  
+- Maintains trust from all major factions (Council of Savants, Gray Ghosts, Clan Lairds, Keepers of the Flame, Stone Guards) due to his reliability and mysterious protection, despite being hunted by the Stone Guards and Keepers of the Flame.  
+
+**Revealed motivations or secrets:**  
+- Not mad in the conventional sense — exhibits ritualistic, methodical behavior likely induced by magical influence or mushroom consumption.  
+- His path and habits are not random; they are key to accessing hidden Derro sanctums and escape routes.  
+- His dual insignia confirms institutional corruption — he is a sanctioned agent of both the Council of Savants and the Gray Ghosts, operating as a covert linchpin in a larger scheme tied to Demogorgon’s resurgence.  
 
 ## Uncertainty
-- Contradiction between Droki being described as a *Duergar* in ch15 and as a *Derro* in ch16–18. Later chapters (ch17–18) dominate and consistently identify him as Derro; ch15’s “Duergar” is likely erroneous or outdated.  
-- Unclear whether Droki is *officially* a member of the Cult of Demogorgon or merely a tool of Plinki’s cultist agenda.  
-- Ambiguous whether the “insignia of office” refers to dual allegiance (Savants + Gray Ghosts) or a single artifact bearing both symbols — no detail on its nature or origin.  
-- Motivation for Droki’s ritualistic behavior: Is it magical compulsion, conditioning, or self-imposed discipline? Not definitively resolved.  
-- The red dragon egg’s current status (transforming? dormant? stolen?) is implied but not confirmed as under Droki’s direct custody.
+- Contradiction: Ch15–16 describe Droki as a Duergar; Ch17–18 consistently identify him as a Derro. Later chapters override earlier, so Derro is current — but the origin of the Duergar misidentification is unexplained.  
+- Ambiguous attribution: Ch18 says Plinki “has recently converted to the Cult of Demogorgon and wishes to turn the egg,” but does not clarify whether Droki initiated the collaboration or is being manipulated.  
+- Unclear current status of the red dragon egg: While Droki is involved in its transformation, the egg’s physical location and current state (e.g., whether it’s still intact, partially transformed) are not specified.  
+- Unclear if Droki is still being actively hunted by the Stone Guards or Keepers of the Flame — their pursuit was established in Ch16, but no later chapter confirms if they have caught up or abandoned the chase.

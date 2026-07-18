@@ -7,9 +7,9 @@ chapters: 18-18
 
 ### Obelisk Chamber
 
-A hidden chamber within the Whorlstone Caves, currently occupied and actively used by Plinki for a demonic ritual. The chamber contains a circular pathway and a pyramid-shaped obelisk, which Plinki is attempting to corrupt in order to transform an egg into a dual-headed dragon mount. Papers and artifacts belonging to the Council of Savants and the Gray Ghosts are present, indicating their prior or ongoing involvement. Forbidden knowledge is recorded on the papers, though they are unreadable to the Flumph. The chamber is guarded by the Council of Savants and the Gray Ghosts.
+A hidden chamber within the Whorlstone Caves, containing a circular pathway and a pyramid-shaped obelisk. The chamber is currently occupied and actively used by Plinki, who is attempting to corrupt an egg into a dual-headed dragon mount. The room contains papers and artifacts linked to the Council of Savants and the Gray Ghosts, including forbidden knowledge. The obelisk is the focal point of Plinki’s demonic ritual. The chamber is guarded by the Council of Savants and the Gray Ghosts.
 
 ## Uncertainty
-- It is unclear whether the Council of Savants and the Gray Ghosts still actively guard the chamber *now*, or if their presence has been displaced by Plinki’s ritual; the facts state they guard it but also that Plinki is actively using it — no confirmation of current guardianship.
-- The exact nature of the “egg” and its current state (intact, corrupted, hatching) is not specified beyond Plinki’s intent.
-- The origin or purpose of the pyramid-shaped obelisk beyond its use in the ritual is not explained.
+- It is unclear whether the Council of Savants and the Gray Ghosts still actively guard the chamber, as Plinki is currently using it for his ritual — their current presence or control is not confirmed in the latest fact.
+- The exact nature of the "egg" and its current condition (e.g., whether it has begun hatching or been corrupted) is not specified beyond Plinki’s intent.
+- The source of the obelisk’s power and whether it is naturally occurring or artificially constructed is not detailed.

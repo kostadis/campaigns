@@ -1,0 +1,51 @@
+[
+  {
+    "type": "npc",
+    "subject": "Narrak",
+    "fact": "Narrak is a derro orchestrator of a disturbing scene, perpetually contorted with spiraling madness, radiating chaotic evil in service to Demogorgon, and leading apprentices in forbidden experiments.",
+    "source_quote": "He gestures wildly at a few apprentices... He shouts - 'We are conducting experiments!'... He screams - 'The only purpose that matters! The elevation of the Derro, the Triumph of Demogorgon, and the destruction of the Duergar!'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir observes everything and speaks nothing, acting without utterance because of innate, unspoken knowledge.",
+    "source_quote": "I observe everything and say nothing. My mind is clear. I act without speaking. I do because I know.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Derro",
+    "fact": "The Derro are being elevated as part of a ritualistic agenda tied to Demogorgon's triumph and the destruction of the Duergar.",
+    "source_quote": "He screams - 'The only purpose that matters! The elevation of the Derro, the Triumph of Demogorgon, and the destruction of the Duergar!'",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Duergar",
+    "fact": "The Duergar are targeted for destruction as part of the Derro's ritualistic agenda under Demogorgon's influence.",
+    "source_quote": "He screams - 'The only purpose that matters! The elevation of the Derro, the Triumph of Demogorgon, and the destruction of the Duergar!'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "experiment session",
+    "fact": "An experiment session is underway, led by Narrak, involving apprentices chanting in response to his declarations of purpose.",
+    "source_quote": "He shouts - 'We are conducting experiments!'... They chant back at him - 'For what purpose!'",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "purpose of experiments",
+    "fact": "The experiments are tied to the elevation of the Derro and the triumph of Demogorgon, but their exact nature and mechanics remain unexplained.",
+    "source_quote": "He shouts - 'We are conducting experiments!'... He screams - 'The only purpose that matters! The elevation of the Derro, the Triumph of Demogorgon, and the destruction of the Duergar!'",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Demogorgon",
+    "fact": "Demogorgon is the demon lord being served by Narrak, whose influence drives the Derro's campaign of elevation and destruction.",
+    "source_quote": "He screams - 'The only purpose that matters! The elevation of the Derro, the Triumph of Demogorgon, and the destruction of the Duergar!'",
+    "quote_verified": false
+  }
+]

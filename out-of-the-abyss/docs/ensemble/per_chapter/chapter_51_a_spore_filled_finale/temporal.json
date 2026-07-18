@@ -1,1983 +1,296 @@
 [
   {
-    "type": "damage",
-    "subject": "grapple damage",
-    "fact": "Sixteen damage, the grapple secured.",
+    "type": "event",
+    "subject": "damage dealt",
+    "fact": "Sixteen damage was dealt and the grapple secured.",
     "source_quote": "Sixteen damage, the grapple secured.",
     "quote_verified": true
   },
   {
-    "type": "damage",
-    "subject": "critical strike damage",
-    "fact": "Forty feet up, gripping a corrupted high priestess, delivering consecutive critical strikes.",
-    "source_quote": "Forty feet up, gripping a corrupted high priestess, delivering consecutive critical strikes",
-    "quote_verified": true
+    "type": "event",
+    "subject": "saving throw attempted",
+    "fact": "A DC-14 Wisdom saving throw was rolled and failed.",
+    "source_quote": "Roll a DC-14 Wisdom saving throw. Well. That didn't work.",
+    "quote_verified": false
   },
   {
-    "type": "saving_throw",
-    "subject": "Wisdom saving throw DC",
-    "fact": "Roll a DC-14 Wisdom saving throw.",
-    "source_quote": "Roll a DC-14 Wisdom saving throw.",
-    "quote_verified": true
+    "type": "event",
+    "subject": "critical strike landed",
+    "fact": "Two consecutive critical strikes were delivered.",
+    "source_quote": "Crit. Twice. *Oh, wow. Another crit.*",
+    "quote_verified": false
   },
   {
-    "type": "damage",
-    "subject": "heart fungus damage",
-    "fact": "The heart fungus wilted. One round. That was all it got.",
-    "source_quote": "The heart fungus wilted. One round. That was all it got.",
-    "quote_verified": true
+    "type": "event",
+    "subject": "distance traveled",
+    "fact": "Forty feet of vertical distance was covered before the drop.",
+    "source_quote": "Forty feet. The stone floor dropped away beneath us.",
+    "quote_verified": false
   },
   {
-    "type": "damage",
-    "subject": "Glabbagool damage",
-    "fact": "Twenty-six points of damage. The grey ooze took twenty-six points of damage from a spell he had nothing to do with.",
-    "source_quote": "Twenty-six points of damage. The grey ooze took twenty-six points of damage from a spell he had nothing to do with",
-    "quote_verified": true
-  },
-  {
-    "type": "damage",
-    "subject": "bludgeoning deflection",
-    "fact": "I deflected twelve of the bludgeoning. The rest I accepted.",
+    "type": "event",
+    "subject": "damage mitigated",
+    "fact": "Twelve points of bludgeoning damage were deflected from the heart fungus's attack.",
     "source_quote": "I deflected twelve of the bludgeoning. The rest I accepted.",
     "quote_verified": true
   },
   {
-    "type": "reach",
-    "subject": "heart fungus reach",
-    "fact": "Fifteen feet of reach is a very generous number when the thing reaching lives on the floor and I have been hovering at the ceiling being useless.",
-    "source_quote": "fifteen feet of reach is a very generous number when the thing reaching lives on the floor and I have been hovering at the ceiling being useless",
+    "type": "event",
+    "subject": "damage dealt",
+    "fact": "The heart fungus was destroyed in one round by radiant damage.",
+    "source_quote": "I struck. And then struck again. The heart fungus wilted. One round. That was all it got.",
     "quote_verified": true
   },
   {
-    "type": "saving_throw",
-    "subject": "Insect Plague save",
-    "fact": "The swarm hit the cavern entrance like a wall of sound and motion \u2014 a biblical chittering that shredded the fungal minions instantly, all thirteen hit points of them, gone before they could do anything useful.",
-    "source_quote": "all thirteen hit points of them, gone before they could do anything useful",
+    "type": "event",
+    "subject": "damage dealt",
+    "fact": "Twenty-six points of damage were dealt to Glabbagool by Insect Plague.",
+    "source_quote": "Twenty-six points of damage. The grey ooze took twenty-six points of damage from a spell he had nothing to do with.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "attack opportunity declined",
+    "fact": "An opportunity attack was not taken when Jorlan charged Ilvara.",
+    "source_quote": "Eight on the die. Eight says I do the sensible thing. ... I stepped aside and let Jorlan pass.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "spell availability noted",
+    "fact": "A Revivify spell was offered to potentially restore a fallen minion.",
+    "source_quote": "If anybody is too saddened by the loss of any of our minions, I do have a Revivify spell that I could use to bring one of them back.",
     "quote_verified": true
   },
   {
-    "type": "action",
-    "subject": "opportunity attack decision",
-    "fact": "Eight on the die. Eight says I do the sensible thing.",
-    "source_quote": "Eight on the die. Eight says I do the sensible thing.",
+    "type": "location",
+    "subject": "reach distance",
+    "fact": "Fifteen feet of reach was noted as a generous distance when the target is on the floor.",
+    "source_quote": "fifteen feet of reach is a very generous number when the thing reaching lives on the floor and I have been hovering at the ceiling being useless.",
     "quote_verified": true
   },
   {
-    "type": "spell",
-    "subject": "Revivify availability",
-    "fact": "I do have a Revivify spell that I could use to bring one of them back.",
-    "source_quote": "I do have a Revivify spell that I could use to bring one of them back.",
-    "quote_verified": true
+    "type": "object",
+    "subject": "weapon property",
+    "fact": "Dawnbringer is not resistant to radiant damage and is eager to strike.",
+    "source_quote": "It actually is doubly not resistant to radiant damage. Dawnbringer was already in my hand. She's not the sort of sword that waits politely in a scabbard...",
+    "quote_verified": false
   },
   {
-    "type": "damage",
-    "subject": "radiant damage effectiveness",
-    "fact": "It actually is doubly not resistant to radiant damage.",
-    "source_quote": "It actually is doubly not resistant to radiant damage.",
-    "quote_verified": true
+    "type": "monster",
+    "subject": "minion count",
+    "fact": "Thirteen fungal minions were destroyed by Insect Plague.",
+    "source_quote": "a biblical chittering that shredded the fungal minions instantly, all thirteen hit points of them, gone...",
+    "quote_verified": false
   },
   {
-    "type": "condition",
-    "subject": "frightened condition",
-    "fact": "The frightened condition is not subtle \u2014 it is not a suggestion.",
+    "type": "location",
+    "subject": "terrain feature",
+    "fact": "The cavern contained difficult terrain between the party and the heart fungus.",
+    "source_quote": "massive, pulsing, ringed with spore-choked air and difficult terrain between me and it",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "condition applied",
+    "fact": "The frightened condition was applied, preventing approach to Ilvara.",
     "source_quote": "The frightened condition is not subtle \u2014 it is not a suggestion.",
     "quote_verified": true
   },
   {
-    "type": "damage",
-    "subject": "poison damage",
-    "fact": "The poison damage I noted and filed away beside the indignity.",
+    "type": "event",
+    "subject": "damage taken",
+    "fact": "Poison damage from the heart fungus was noted and filed away.",
     "source_quote": "The poison damage I noted and filed away beside the indignity.",
     "quote_verified": true
   },
   {
-    "type": "action",
-    "subject": "Jorlan's charge",
-    "fact": "He broke from position and charged toward her across the swarm-infested terrain, and the name that came out of him was not a battle cry. 'ILVARA'",
-    "source_quote": "He broke from position and charged toward her across the swarm-infested terrain, and the name that came out of him was not a battle cry. 'ILVARA'",
+    "type": "location",
+    "subject": "elevation",
+    "fact": "The party operated from an elevated walkway above the cavern floor.",
+    "source_quote": "I descended from the elevated walkway",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "spell effect",
+    "fact": "Insect Plague created a swarm that destroyed minions and affected terrain.",
+    "source_quote": "Ilvara cast Insect Plague. The swarm hit the cavern entrance like a wall of sound and motion...",
     "quote_verified": false
   },
   {
     "type": "event",
-    "subject": "heart fungus's demise",
-    "fact": "I spent so much time creating this icon.",
-    "source_quote": "I spent so much time creating this icon.",
+    "subject": "damage dealt",
+    "fact": "The heart fungus was reduced to zero hit points in one round.",
+    "source_quote": "The heart fungus wilted. One round. That was all it got.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "Glabbagool's survival",
-    "fact": "He survived, which is the important thing, but still \u2014 twenty-six points for a sentient ooze who just wanted to belong.",
-    "source_quote": "He survived, which is the important thing, but still \u2014 twenty-six points for a sentient ooze who just wanted to belong.",
-    "quote_verified": true
-  },
-  {
-    "type": "condition",
-    "subject": "frightened condition effect",
-    "fact": "You are frightened. Which is very convenient, because you cannot now approach her.",
-    "source_quote": "You are frightened. Which is very convenient, because you cannot now approach her.",
-    "quote_verified": true
-  },
-  {
-    "type": "action",
-    "subject": "Thorin's decision to step aside",
-    "fact": "I stepped aside and let Jorlan pass.",
-    "source_quote": "I stepped aside and let Jorlan pass.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "minion bookkeeping failure",
-    "fact": "I forgot. We used to have so many people traveling with us.",
-    "source_quote": "We used to have so many people traveling with us, I forgot.",
-    "quote_verified": false
-  },
-  {
-    "type": "damage",
-    "subject": "insect swarm damage to Glabbagool",
-    "fact": "Twenty-six points of damage. The cube had survived, churning and trembling in the swarm.",
-    "source_quote": "Twenty-six points of damage. The cube had survived, churning and trembling in the swarm.",
+    "subject": "reaction triggered",
+    "fact": "Jorlan charged Ilvara with emotional intensity, overriding tactical positioning.",
+    "source_quote": "the name that came out of him was not a battle cry. 'ILVARA' It came out like a wound reopening.",
     "quote_verified": false
   },
   {
     "type": "date",
     "subject": "session date",
     "fact": "The session occurs on the 12th day of Christmas.",
-    "source_quote": "This is turning into the 12 days of Christmas",
+    "source_quote": "This is turning into the 12 days of Christmas,",
     "quote_verified": true
   },
   {
     "type": "monster",
     "subject": "drow count",
-    "fact": "Five drow warriors are emerging from the cavern shadows.",
-    "source_quote": "Five Drow, it looks like? 5 Drow?",
-    "quote_verified": false
+    "fact": "Five Drow warriors are emerging from the cavern shadows.",
+    "source_quote": "Five drow warriors emerging from the cavern shadows.",
+    "quote_verified": true
   },
   {
     "type": "event",
     "subject": "drow reinforcement arrival",
     "fact": "The new arrivals were already inside the poison cloud's range.",
-    "source_quote": "The new arrivals were already inside the poison cloud's range",
+    "source_quote": "The new arrivals were already inside the poison cloud's range.",
     "quote_verified": true
   },
   {
     "type": "location",
-    "subject": "drow outpost elevation",
-    "fact": "Dark Elves! I added, in a singing tone. The twelve days of Christmas. Five of them. Very irritated about the poison.",
-    "source_quote": "Dark Elves!",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "spore cloud size",
-    "fact": "How big is the cloud?",
+    "subject": "poison cloud size",
+    "fact": "The cloud was noted as expansive and lethal.",
     "source_quote": "How big is the cloud?",
     "quote_verified": true
   },
   {
-    "type": "monster",
-    "subject": "drow reinforcement count",
-    "fact": "Three Drow warriors are stepping out of concealment with the particular ease of people who think they've caught something interesting in their sights.",
-    "source_quote": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
+    "type": "object",
+    "subject": "spore cloud origin",
+    "fact": "Ilvara erupted into a cloud of poisonous spores after her death.",
+    "source_quote": "She *erupted*. A cloud of poisonous spores, billowing outward from what had been a person.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "fireball casting",
-    "fact": "I cast Fireball in a shaped arc around everything I wanted to keep.",
-    "source_quote": "I cast Fireball in a shaped arc around everything I wanted to keep",
+    "type": "monster",
+    "subject": "drow warrior count",
+    "fact": "Three Drow warriors stepped out of concealment in crossbow formation.",
+    "source_quote": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
     "quote_verified": true
   },
   {
     "type": "location",
     "subject": "tunnel mouth location",
-    "fact": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument that I can only describe as profoundly unhelpful given the circumstances.",
-    "source_quote": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "spell slot cost",
-    "fact": "The cost was one spell slot. The benefit was that I was still standing.",
-    "source_quote": "The cost was one spell slot. The benefit was that I was still standing.",
-    "quote_verified": true
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "A window of perhaps two seconds before this became catastrophic.",
-    "source_quote": "A window of perhaps two seconds before this became catastrophic",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "drow reinforcement arrival",
-    "fact": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range.",
-    "source_quote": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow reinforcement count",
-    "fact": "Five drow warriors emerging from the cavern shadows.",
-    "source_quote": "Five drow warriors emerging from the cavern shadows",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "drow outpost elevation",
-    "fact": "Dark Elves! I added, in a singing tone. The twelve days of Christmas. Five of them. Very irritated about the poison.",
-    "source_quote": "Dark Elves!",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "spore cloud size",
-    "fact": "How big is the cloud?",
-    "source_quote": "How big is the cloud?",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow count",
-    "fact": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "source_quote": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
+    "fact": "T'sarran soldiers were arguing at the tunnel mouth during the crisis.",
+    "source_quote": "the T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument",
     "quote_verified": true
   },
   {
     "type": "event",
     "subject": "fireball casting",
-    "fact": "I cast Fireball in a shaped arc around everything I wanted to keep.",
-    "source_quote": "I cast Fireball in a shaped arc around everything I wanted to keep",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "tunnel mouth location",
-    "fact": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument that I can only describe as profoundly unhelpful given the circumstances.",
-    "source_quote": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "spell slot cost",
-    "fact": "The cost was one spell slot. The benefit was that I was still standing.",
-    "source_quote": "The cost was one spell slot. The benefit was that I was still standing.",
-    "quote_verified": true
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "A window of perhaps two seconds before this became catastrophic.",
-    "source_quote": "A window of perhaps two seconds before this became catastrophic",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "drow reinforcement arrival",
-    "fact": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range.",
-    "source_quote": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow reinforcement count",
-    "fact": "Five drow warriors emerging from the cavern shadows.",
-    "source_quote": "Five drow warriors emerging from the cavern shadows",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "drow outpost elevation",
-    "fact": "Dark Elves! I added, in a singing tone. The twelve days of Christmas. Five of them. Very irritated about the poison.",
-    "source_quote": "Dark Elves!",
+    "fact": "A shaped Fireball was cast to exclude allies and strike only enemies.",
+    "source_quote": "I cast Fireball in a shaped arc around everything I wanted to keep.",
     "quote_verified": true
   },
   {
     "type": "object",
-    "subject": "spore cloud size",
-    "fact": "How big is the cloud?",
-    "source_quote": "How big is the cloud?",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow count",
-    "fact": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "source_quote": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
+    "subject": "spore cloud aftermath",
+    "fact": "The spore cloud from Ilvara's death billowed outward and contaminated the cavern.",
+    "source_quote": "A cloud of poisonous spores, billowing outward from what had been a person.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "fireball casting",
-    "fact": "I cast Fireball in a shaped arc around everything I wanted to keep.",
-    "source_quote": "I cast Fireball in a shaped arc around everything I wanted to keep",
+    "subject": "lightning bolt miss",
+    "fact": "A lightning bolt was launched into the cavern and hit only open air.",
+    "source_quote": "The mage launched a lightning bolt into the cavern with real commitment. It hit nothing. Just open air and ambition.",
     "quote_verified": true
   },
   {
     "type": "location",
-    "subject": "tunnel mouth location",
-    "fact": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument that I can only describe as profoundly unhelpful given the circumstances.",
-    "source_quote": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "spell slot cost",
-    "fact": "The cost was one spell slot. The benefit was that I was still standing.",
-    "source_quote": "The cost was one spell slot. The benefit was that I was still standing.",
-    "quote_verified": true
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "A window of perhaps two seconds before this became catastrophic.",
-    "source_quote": "A window of perhaps two seconds before this became catastrophic",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "drow reinforcement arrival",
-    "fact": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range.",
-    "source_quote": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range",
+    "subject": "cavern interior",
+    "fact": "The cavern interior was filled with insect plagues, poison clouds, and lingering spores.",
+    "source_quote": "the chittering wall of it while the poisonous gas did its work on both of us",
     "quote_verified": true
   },
   {
     "type": "monster",
-    "subject": "drow reinforcement count",
-    "fact": "Five drow warriors emerging from the cavern shadows.",
-    "source_quote": "Five drow warriors emerging from the cavern shadows",
-    "quote_verified": true
+    "subject": "glabbagool damage",
+    "fact": "Glabbagool had taken twenty-six points of damage from Ilvara's plague.",
+    "source_quote": "Glabbagool... had already taken twenty-six points of damage from Ilvara's plague and survived.",
+    "quote_verified": false
   },
   {
-    "type": "location",
-    "subject": "drow outpost elevation",
-    "fact": "Dark Elves! I added, in a singing tone. The twelve days of Christmas. Five of them. Very irritated about the poison.",
-    "source_quote": "Dark Elves!",
+    "type": "event",
+    "subject": "drow mage's warning",
+    "fact": "The surviving drow mage warned that the matron mother of House T'sarran would hear about this.",
+    "source_quote": "The matron mother of House T'sarran will hear about this.",
     "quote_verified": true
   },
   {
     "type": "object",
-    "subject": "spore cloud size",
-    "fact": "How big is the cloud?",
-    "source_quote": "How big is the cloud?",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow count",
-    "fact": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "source_quote": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
+    "subject": "shield ward activation",
+    "fact": "A Shield ward activated reflexively to deflect a bolt aimed at the caster.",
+    "source_quote": "That's the thing about Shield \u2014 it's a reaction, which means the body decides before the mind does.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "fireball casting",
-    "fact": "I cast Fireball in a shaped arc around everything I wanted to keep.",
-    "source_quote": "I cast Fireball in a shaped arc around everything I wanted to keep",
+    "subject": "Nym's inquiry about killing brother",
+    "fact": "Nym asked if she could kill Jorlan Duskryn, redirecting her frustration.",
+    "source_quote": "Can I kill your brother?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz's refusal to hide",
+    "fact": "Daz declared he would not hide or be extracted, insisting on participating in the fight.",
+    "source_quote": "I am not gonna leave. Everyone here... to fight for me without me also participating.",
     "quote_verified": true
   },
   {
     "type": "location",
-    "subject": "tunnel mouth location",
-    "fact": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument that I can only describe as profoundly unhelpful given the circumstances.",
-    "source_quote": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "spell slot cost",
-    "fact": "The cost was one spell slot. The benefit was that I was still standing.",
-    "source_quote": "The cost was one spell slot. The benefit was that I was still standing.",
-    "quote_verified": true
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "A window of perhaps two seconds before this became catastrophic.",
-    "source_quote": "A window of perhaps two seconds before this became catastrophic",
+    "subject": "menzoberranzan training context",
+    "fact": "The caster was trained in Menzoberranzan in the destructive arts, particularly Evocation and Sculpt Spells.",
+    "source_quote": "I am an Evoker, trained in Menzoberranzan where the destructive arts were considered the only magic worth taking seriously.",
     "quote_verified": false
   },
   {
     "type": "event",
-    "subject": "drow reinforcement arrival",
-    "fact": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range.",
-    "source_quote": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow reinforcement count",
-    "fact": "Five drow warriors emerging from the cavern shadows.",
-    "source_quote": "Five drow warriors emerging from the cavern shadows",
-    "quote_verified": true
+    "subject": "ashas characterization of daz",
+    "fact": "Asha Vandree characterized Daz as an insane mage who had converted to Lolthism.",
+    "source_quote": "Grygum... observed that the situation was 'accurately described' by Asha's characterization of me as an insane mage who had converted to Lolthism.",
+    "quote_verified": false
   },
   {
     "type": "location",
-    "subject": "drow outpost elevation",
-    "fact": "Dark Elves! I added, in a singing tone. The twelve days of Christmas. Five of them. Very irritated about the poison.",
-    "source_quote": "Dark Elves!",
+    "subject": "underdark environment",
+    "fact": "The Underdark does not allow even death to be dignified.",
+    "source_quote": "because the Underdark does not allow even death to be dignified, she did not simply fall.",
     "quote_verified": true
   },
   {
     "type": "object",
-    "subject": "spore cloud size",
-    "fact": "How big is the cloud?",
-    "source_quote": "How big is the cloud?",
+    "subject": "daz's personal philosophy",
+    "fact": "Daz believes purpose is found in standing and fighting, not in hiding or being managed.",
+    "source_quote": "I find, somewhat to my own surprise, that this is what purpose feels like.",
     "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow count",
-    "fact": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "source_quote": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "fireball casting",
-    "fact": "I cast Fireball in a shaped arc around everything I wanted to keep.",
-    "source_quote": "I cast Fireball in a shaped arc around everything I wanted to keep",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "tunnel mouth location",
-    "fact": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument that I can only describe as profoundly unhelpful given the circumstances.",
-    "source_quote": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "spell slot cost",
-    "fact": "The cost was one spell slot. The benefit was that I was still standing.",
-    "source_quote": "The cost was one spell slot. The benefit was that I was still standing.",
-    "quote_verified": true
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "A window of perhaps two seconds before this became catastrophic.",
-    "source_quote": "A window of perhaps two seconds before this became catastrophic",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "drow reinforcement arrival",
-    "fact": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range.",
-    "source_quote": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow reinforcement count",
-    "fact": "Five drow warriors emerging from the cavern shadows.",
-    "source_quote": "Five drow warriors emerging from the cavern shadows",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "drow outpost elevation",
-    "fact": "Dark Elves! I added, in a singing tone. The twelve days of Christmas. Five of them. Very irritated about the poison.",
-    "source_quote": "Dark Elves!",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "spore cloud size",
-    "fact": "How big is the cloud?",
-    "source_quote": "How big is the cloud?",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow count",
-    "fact": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "source_quote": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "fireball casting",
-    "fact": "I cast Fireball in a shaped arc around everything I wanted to keep.",
-    "source_quote": "I cast Fireball in a shaped arc around everything I wanted to keep",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "tunnel mouth location",
-    "fact": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument that I can only describe as profoundly unhelpful given the circumstances.",
-    "source_quote": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "spell slot cost",
-    "fact": "The cost was one spell slot. The benefit was that I was still standing.",
-    "source_quote": "The cost was one spell slot. The benefit was that I was still standing.",
-    "quote_verified": true
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "A window of perhaps two seconds before this became catastrophic.",
-    "source_quote": "A window of perhaps two seconds before this became catastrophic",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "drow reinforcement arrival",
-    "fact": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range.",
-    "source_quote": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow reinforcement count",
-    "fact": "Five drow warriors emerging from the cavern shadows.",
-    "source_quote": "Five drow warriors emerging from the cavern shadows",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "drow outpost elevation",
-    "fact": "Dark Elves! I added, in a singing tone. The twelve days of Christmas. Five of them. Very irritated about the poison.",
-    "source_quote": "Dark Elves!",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "spore cloud size",
-    "fact": "How big is the cloud?",
-    "source_quote": "How big is the cloud?",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow count",
-    "fact": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "source_quote": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "fireball casting",
-    "fact": "I cast Fireball in a shaped arc around everything I wanted to keep.",
-    "source_quote": "I cast Fireball in a shaped arc around everything I wanted to keep",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "tunnel mouth location",
-    "fact": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument that I can only describe as profoundly unhelpful given the circumstances.",
-    "source_quote": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "spell slot cost",
-    "fact": "The cost was one spell slot. The benefit was that I was still standing.",
-    "source_quote": "The cost was one spell slot. The benefit was that I was still standing.",
-    "quote_verified": true
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "A window of perhaps two seconds before this became catastrophic.",
-    "source_quote": "A window of perhaps two seconds before this became catastrophic",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "drow reinforcement arrival",
-    "fact": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range.",
-    "source_quote": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow reinforcement count",
-    "fact": "Five drow warriors emerging from the cavern shadows.",
-    "source_quote": "Five drow warriors emerging from the cavern shadows",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "drow outpost elevation",
-    "fact": "Dark Elves! I added, in a singing tone. The twelve days of Christmas. Five of them. Very irritated about the poison.",
-    "source_quote": "Dark Elves!",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "spore cloud size",
-    "fact": "How big is the cloud?",
-    "source_quote": "How big is the cloud?",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow count",
-    "fact": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "source_quote": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "fireball casting",
-    "fact": "I cast Fireball in a shaped arc around everything I wanted to keep.",
-    "source_quote": "I cast Fireball in a shaped arc around everything I wanted to keep",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "tunnel mouth location",
-    "fact": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument that I can only describe as profoundly unhelpful given the circumstances.",
-    "source_quote": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "spell slot cost",
-    "fact": "The cost was one spell slot. The benefit was that I was still standing.",
-    "source_quote": "The cost was one spell slot. The benefit was that I was still standing.",
-    "quote_verified": true
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "A window of perhaps two seconds before this became catastrophic.",
-    "source_quote": "A window of perhaps two seconds before this became catastrophic",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "drow reinforcement arrival",
-    "fact": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range.",
-    "source_quote": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow reinforcement count",
-    "fact": "Five drow warriors emerging from the cavern shadows.",
-    "source_quote": "Five drow warriors emerging from the cavern shadows",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "drow outpost elevation",
-    "fact": "Dark Elves! I added, in a singing tone. The twelve days of Christmas. Five of them. Very irritated about the poison.",
-    "source_quote": "Dark Elves!",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "spore cloud size",
-    "fact": "How big is the cloud?",
-    "source_quote": "How big is the cloud?",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow count",
-    "fact": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "source_quote": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "fireball casting",
-    "fact": "I cast Fireball in a shaped arc around everything I wanted to keep.",
-    "source_quote": "I cast Fireball in a shaped arc around everything I wanted to keep",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "tunnel mouth location",
-    "fact": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument that I can only describe as profoundly unhelpful given the circumstances.",
-    "source_quote": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "spell slot cost",
-    "fact": "The cost was one spell slot. The benefit was that I was still standing.",
-    "source_quote": "The cost was one spell slot. The benefit was that I was still standing.",
-    "quote_verified": true
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "A window of perhaps two seconds before this became catastrophic.",
-    "source_quote": "A window of perhaps two seconds before this became catastrophic",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "drow reinforcement arrival",
-    "fact": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range.",
-    "source_quote": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow reinforcement count",
-    "fact": "Five drow warriors emerging from the cavern shadows.",
-    "source_quote": "Five drow warriors emerging from the cavern shadows",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "drow outpost elevation",
-    "fact": "Dark Elves! I added, in a singing tone. The twelve days of Christmas. Five of them. Very irritated about the poison.",
-    "source_quote": "Dark Elves!",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "spore cloud size",
-    "fact": "How big is the cloud?",
-    "source_quote": "How big is the cloud?",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow count",
-    "fact": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "source_quote": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "fireball casting",
-    "fact": "I cast Fireball in a shaped arc around everything I wanted to keep.",
-    "source_quote": "I cast Fireball in a shaped arc around everything I wanted to keep",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "tunnel mouth location",
-    "fact": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument that I can only describe as profoundly unhelpful given the circumstances.",
-    "source_quote": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "spell slot cost",
-    "fact": "The cost was one spell slot. The benefit was that I was still standing.",
-    "source_quote": "The cost was one spell slot. The benefit was that I was still standing.",
-    "quote_verified": true
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "A window of perhaps two seconds before this became catastrophic.",
-    "source_quote": "A window of perhaps two seconds before this became catastrophic",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "drow reinforcement arrival",
-    "fact": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range.",
-    "source_quote": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow reinforcement count",
-    "fact": "Five drow warriors emerging from the cavern shadows.",
-    "source_quote": "Five drow warriors emerging from the cavern shadows",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "drow outpost elevation",
-    "fact": "Dark Elves! I added, in a singing tone. The twelve days of Christmas. Five of them. Very irritated about the poison.",
-    "source_quote": "Dark Elves!",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "spore cloud size",
-    "fact": "How big is the cloud?",
-    "source_quote": "How big is the cloud?",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow count",
-    "fact": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "source_quote": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "fireball casting",
-    "fact": "I cast Fireball in a shaped arc around everything I wanted to keep.",
-    "source_quote": "I cast Fireball in a shaped arc around everything I wanted to keep",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "tunnel mouth location",
-    "fact": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument that I can only describe as profoundly unhelpful given the circumstances.",
-    "source_quote": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "spell slot cost",
-    "fact": "The cost was one spell slot. The benefit was that I was still standing.",
-    "source_quote": "The cost was one spell slot. The benefit was that I was still standing.",
-    "quote_verified": true
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "A window of perhaps two seconds before this became catastrophic.",
-    "source_quote": "A window of perhaps two seconds before this became catastrophic",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "drow reinforcement arrival",
-    "fact": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range.",
-    "source_quote": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow reinforcement count",
-    "fact": "Five drow warriors emerging from the cavern shadows.",
-    "source_quote": "Five drow warriors emerging from the cavern shadows",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "drow outpost elevation",
-    "fact": "Dark Elves! I added, in a singing tone. The twelve days of Christmas. Five of them. Very irritated about the poison.",
-    "source_quote": "Dark Elves!",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "spore cloud size",
-    "fact": "How big is the cloud?",
-    "source_quote": "How big is the cloud?",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow count",
-    "fact": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "source_quote": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "fireball casting",
-    "fact": "I cast Fireball in a shaped arc around everything I wanted to keep.",
-    "source_quote": "I cast Fireball in a shaped arc around everything I wanted to keep",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "tunnel mouth location",
-    "fact": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument that I can only describe as profoundly unhelpful given the circumstances.",
-    "source_quote": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "spell slot cost",
-    "fact": "The cost was one spell slot. The benefit was that I was still standing.",
-    "source_quote": "The cost was one spell slot. The benefit was that I was still standing.",
-    "quote_verified": true
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "A window of perhaps two seconds before this became catastrophic.",
-    "source_quote": "A window of perhaps two seconds before this became catastrophic",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "drow reinforcement arrival",
-    "fact": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range.",
-    "source_quote": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow reinforcement count",
-    "fact": "Five drow warriors emerging from the cavern shadows.",
-    "source_quote": "Five drow warriors emerging from the cavern shadows",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "drow outpost elevation",
-    "fact": "Dark Elves! I added, in a singing tone. The twelve days of Christmas. Five of them. Very irritated about the poison.",
-    "source_quote": "Dark Elves!",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "spore cloud size",
-    "fact": "How big is the cloud?",
-    "source_quote": "How big is the cloud?",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow count",
-    "fact": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "source_quote": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "fireball casting",
-    "fact": "I cast Fireball in a shaped arc around everything I wanted to keep.",
-    "source_quote": "I cast Fireball in a shaped arc around everything I wanted to keep",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "tunnel mouth location",
-    "fact": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument that I can only describe as profoundly unhelpful given the circumstances.",
-    "source_quote": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "spell slot cost",
-    "fact": "The cost was one spell slot. The benefit was that I was still standing.",
-    "source_quote": "The cost was one spell slot. The benefit was that I was still standing.",
-    "quote_verified": true
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "A window of perhaps two seconds before this became catastrophic.",
-    "source_quote": "A window of perhaps two seconds before this became catastrophic",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "drow reinforcement arrival",
-    "fact": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range.",
-    "source_quote": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow reinforcement count",
-    "fact": "Five drow warriors emerging from the cavern shadows.",
-    "source_quote": "Five drow warriors emerging from the cavern shadows",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "drow outpost elevation",
-    "fact": "Dark Elves! I added, in a singing tone. The twelve days of Christmas. Five of them. Very irritated about the poison.",
-    "source_quote": "Dark Elves!",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "spore cloud size",
-    "fact": "How big is the cloud?",
-    "source_quote": "How big is the cloud?",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow count",
-    "fact": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "source_quote": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "fireball casting",
-    "fact": "I cast Fireball in a shaped arc around everything I wanted to keep.",
-    "source_quote": "I cast Fireball in a shaped arc around everything I wanted to keep",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "tunnel mouth location",
-    "fact": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument that I can only describe as profoundly unhelpful given the circumstances.",
-    "source_quote": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "spell slot cost",
-    "fact": "The cost was one spell slot. The benefit was that I was still standing.",
-    "source_quote": "The cost was one spell slot. The benefit was that I was still standing.",
-    "quote_verified": true
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "A window of perhaps two seconds before this became catastrophic.",
-    "source_quote": "A window of perhaps two seconds before this became catastrophic",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "drow reinforcement arrival",
-    "fact": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range.",
-    "source_quote": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow reinforcement count",
-    "fact": "Five drow warriors emerging from the cavern shadows.",
-    "source_quote": "Five drow warriors emerging from the cavern shadows",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "drow outpost elevation",
-    "fact": "Dark Elves! I added, in a singing tone. The twelve days of Christmas. Five of them. Very irritated about the poison.",
-    "source_quote": "Dark Elves!",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "spore cloud size",
-    "fact": "How big is the cloud?",
-    "source_quote": "How big is the cloud?",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow count",
-    "fact": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "source_quote": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "fireball casting",
-    "fact": "I cast Fireball in a shaped arc around everything I wanted to keep.",
-    "source_quote": "I cast Fireball in a shaped arc around everything I wanted to keep",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "tunnel mouth location",
-    "fact": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument that I can only describe as profoundly unhelpful given the circumstances.",
-    "source_quote": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "spell slot cost",
-    "fact": "The cost was one spell slot. The benefit was that I was still standing.",
-    "source_quote": "The cost was one spell slot. The benefit was that I was still standing.",
-    "quote_verified": true
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "A window of perhaps two seconds before this became catastrophic.",
-    "source_quote": "A window of perhaps two seconds before this became catastrophic",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "drow reinforcement arrival",
-    "fact": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range.",
-    "source_quote": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow reinforcement count",
-    "fact": "Five drow warriors emerging from the cavern shadows.",
-    "source_quote": "Five drow warriors emerging from the cavern shadows",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "drow outpost elevation",
-    "fact": "Dark Elves! I added, in a singing tone. The twelve days of Christmas. Five of them. Very irritated about the poison.",
-    "source_quote": "Dark Elves!",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "spore cloud size",
-    "fact": "How big is the cloud?",
-    "source_quote": "How big is the cloud?",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow count",
-    "fact": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "source_quote": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "fireball casting",
-    "fact": "I cast Fireball in a shaped arc around everything I wanted to keep.",
-    "source_quote": "I cast Fireball in a shaped arc around everything I wanted to keep",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "tunnel mouth location",
-    "fact": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument that I can only describe as profoundly unhelpful given the circumstances.",
-    "source_quote": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "spell slot cost",
-    "fact": "The cost was one spell slot. The benefit was that I was still standing.",
-    "source_quote": "The cost was one spell slot. The benefit was that I was still standing.",
-    "quote_verified": true
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "A window of perhaps two seconds before this became catastrophic.",
-    "source_quote": "A window of perhaps two seconds before this became catastrophic",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "drow reinforcement arrival",
-    "fact": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range.",
-    "source_quote": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow reinforcement count",
-    "fact": "Five drow warriors emerging from the cavern shadows.",
-    "source_quote": "Five drow warriors emerging from the cavern shadows",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "drow outpost elevation",
-    "fact": "Dark Elves! I added, in a singing tone. The twelve days of Christmas. Five of them. Very irritated about the poison.",
-    "source_quote": "Dark Elves!",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "spore cloud size",
-    "fact": "How big is the cloud?",
-    "source_quote": "How big is the cloud?",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow count",
-    "fact": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "source_quote": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "fireball casting",
-    "fact": "I cast Fireball in a shaped arc around everything I wanted to keep.",
-    "source_quote": "I cast Fireball in a shaped arc around everything I wanted to keep",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "tunnel mouth location",
-    "fact": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument that I can only describe as profoundly unhelpful given the circumstances.",
-    "source_quote": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "spell slot cost",
-    "fact": "The cost was one spell slot. The benefit was that I was still standing.",
-    "source_quote": "The cost was one spell slot. The benefit was that I was still standing.",
-    "quote_verified": true
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "A window of perhaps two seconds before this became catastrophic.",
-    "source_quote": "A window of perhaps two seconds before this became catastrophic",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "drow reinforcement arrival",
-    "fact": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range.",
-    "source_quote": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow reinforcement count",
-    "fact": "Five drow warriors emerging from the cavern shadows.",
-    "source_quote": "Five drow warriors emerging from the cavern shadows",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "drow outpost elevation",
-    "fact": "Dark Elves! I added, in a singing tone. The twelve days of Christmas. Five of them. Very irritated about the poison.",
-    "source_quote": "Dark Elves!",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "spore cloud size",
-    "fact": "How big is the cloud?",
-    "source_quote": "How big is the cloud?",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow count",
-    "fact": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "source_quote": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "fireball casting",
-    "fact": "I cast Fireball in a shaped arc around everything I wanted to keep.",
-    "source_quote": "I cast Fireball in a shaped arc around everything I wanted to keep",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "tunnel mouth location",
-    "fact": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument that I can only describe as profoundly unhelpful given the circumstances.",
-    "source_quote": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "spell slot cost",
-    "fact": "The cost was one spell slot. The benefit was that I was still standing.",
-    "source_quote": "The cost was one spell slot. The benefit was that I was still standing.",
-    "quote_verified": true
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "A window of perhaps two seconds before this became catastrophic.",
-    "source_quote": "A window of perhaps two seconds before this became catastrophic",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "drow reinforcement arrival",
-    "fact": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range.",
-    "source_quote": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow reinforcement count",
-    "fact": "Five drow warriors emerging from the cavern shadows.",
-    "source_quote": "Five drow warriors emerging from the cavern shadows",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "drow outpost elevation",
-    "fact": "Dark Elves! I added, in a singing tone. The twelve days of Christmas. Five of them. Very irritated about the poison.",
-    "source_quote": "Dark Elves!",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "spore cloud size",
-    "fact": "How big is the cloud?",
-    "source_quote": "How big is the cloud?",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow count",
-    "fact": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "source_quote": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "fireball casting",
-    "fact": "I cast Fireball in a shaped arc around everything I wanted to keep.",
-    "source_quote": "I cast Fireball in a shaped arc around everything I wanted to keep",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "tunnel mouth location",
-    "fact": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument that I can only describe as profoundly unhelpful given the circumstances.",
-    "source_quote": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "spell slot cost",
-    "fact": "The cost was one spell slot. The benefit was that I was still standing.",
-    "source_quote": "The cost was one spell slot. The benefit was that I was still standing.",
-    "quote_verified": true
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "A window of perhaps two seconds before this became catastrophic.",
-    "source_quote": "A window of perhaps two seconds before this became catastrophic",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "drow reinforcement arrival",
-    "fact": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range.",
-    "source_quote": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow reinforcement count",
-    "fact": "Five drow warriors emerging from the cavern shadows.",
-    "source_quote": "Five drow warriors emerging from the cavern shadows",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "drow outpost elevation",
-    "fact": "Dark Elves! I added, in a singing tone. The twelve days of Christmas. Five of them. Very irritated about the poison.",
-    "source_quote": "Dark Elves!",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "spore cloud size",
-    "fact": "How big is the cloud?",
-    "source_quote": "How big is the cloud?",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow count",
-    "fact": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "source_quote": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "fireball casting",
-    "fact": "I cast Fireball in a shaped arc around everything I wanted to keep.",
-    "source_quote": "I cast Fireball in a shaped arc around everything I wanted to keep",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "tunnel mouth location",
-    "fact": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument that I can only describe as profoundly unhelpful given the circumstances.",
-    "source_quote": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "spell slot cost",
-    "fact": "The cost was one spell slot. The benefit was that I was still standing.",
-    "source_quote": "The cost was one spell slot. The benefit was that I was still standing.",
-    "quote_verified": true
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "A window of perhaps two seconds before this became catastrophic.",
-    "source_quote": "A window of perhaps two seconds before this became catastrophic",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "drow reinforcement arrival",
-    "fact": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range.",
-    "source_quote": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow reinforcement count",
-    "fact": "Five drow warriors emerging from the cavern shadows.",
-    "source_quote": "Five drow warriors emerging from the cavern shadows",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "drow outpost elevation",
-    "fact": "Dark Elves! I added, in a singing tone. The twelve days of Christmas. Five of them. Very irritated about the poison.",
-    "source_quote": "Dark Elves!",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "spore cloud size",
-    "fact": "How big is the cloud?",
-    "source_quote": "How big is the cloud?",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow count",
-    "fact": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "source_quote": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "fireball casting",
-    "fact": "I cast Fireball in a shaped arc around everything I wanted to keep.",
-    "source_quote": "I cast Fireball in a shaped arc around everything I wanted to keep",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "tunnel mouth location",
-    "fact": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument that I can only describe as profoundly unhelpful given the circumstances.",
-    "source_quote": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "spell slot cost",
-    "fact": "The cost was one spell slot. The benefit was that I was still standing.",
-    "source_quote": "The cost was one spell slot. The benefit was that I was still standing.",
-    "quote_verified": true
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "A window of perhaps two seconds before this became catastrophic.",
-    "source_quote": "A window of perhaps two seconds before this became catastrophic",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "drow reinforcement arrival",
-    "fact": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range.",
-    "source_quote": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow reinforcement count",
-    "fact": "Five drow warriors emerging from the cavern shadows.",
-    "source_quote": "Five drow warriors emerging from the cavern shadows",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "drow outpost elevation",
-    "fact": "Dark Elves! I added, in a singing tone. The twelve days of Christmas. Five of them. Very irritated about the poison.",
-    "source_quote": "Dark Elves!",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "spore cloud size",
-    "fact": "How big is the cloud?",
-    "source_quote": "How big is the cloud?",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow count",
-    "fact": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "source_quote": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "fireball casting",
-    "fact": "I cast Fireball in a shaped arc around everything I wanted to keep.",
-    "source_quote": "I cast Fireball in a shaped arc around everything I wanted to keep",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "tunnel mouth location",
-    "fact": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument that I can only describe as profoundly unhelpful given the circumstances.",
-    "source_quote": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "spell slot cost",
-    "fact": "The cost was one spell slot. The benefit was that I was still standing.",
-    "source_quote": "The cost was one spell slot. The benefit was that I was still standing.",
-    "quote_verified": true
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "A window of perhaps two seconds before this became catastrophic.",
-    "source_quote": "A window of perhaps two seconds before this became catastrophic",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "drow reinforcement arrival",
-    "fact": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range.",
-    "source_quote": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow reinforcement count",
-    "fact": "Five drow warriors emerging from the cavern shadows.",
-    "source_quote": "Five drow warriors emerging from the cavern shadows",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "drow outpost elevation",
-    "fact": "Dark Elves! I added, in a singing tone. The twelve days of Christmas. Five of them. Very irritated about the poison.",
-    "source_quote": "Dark Elves!",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "spore cloud size",
-    "fact": "How big is the cloud?",
-    "source_quote": "How big is the cloud?",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow count",
-    "fact": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "source_quote": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "fireball casting",
-    "fact": "I cast Fireball in a shaped arc around everything I wanted to keep.",
-    "source_quote": "I cast Fireball in a shaped arc around everything I wanted to keep",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "tunnel mouth location",
-    "fact": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument that I can only describe as profoundly unhelpful given the circumstances.",
-    "source_quote": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "spell slot cost",
-    "fact": "The cost was one spell slot. The benefit was that I was still standing.",
-    "source_quote": "The cost was one spell slot. The benefit was that I was still standing.",
-    "quote_verified": true
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "A window of perhaps two seconds before this became catastrophic.",
-    "source_quote": "A window of perhaps two seconds before this became catastrophic",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "drow reinforcement arrival",
-    "fact": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range.",
-    "source_quote": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow reinforcement count",
-    "fact": "Five drow warriors emerging from the cavern shadows.",
-    "source_quote": "Five drow warriors emerging from the cavern shadows",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "drow outpost elevation",
-    "fact": "Dark Elves! I added, in a singing tone. The twelve days of Christmas. Five of them. Very irritated about the poison.",
-    "source_quote": "Dark Elves!",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "spore cloud size",
-    "fact": "How big is the cloud?",
-    "source_quote": "How big is the cloud?",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow count",
-    "fact": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "source_quote": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "fireball casting",
-    "fact": "I cast Fireball in a shaped arc around everything I wanted to keep.",
-    "source_quote": "I cast Fireball in a shaped arc around everything I wanted to keep",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "tunnel mouth location",
-    "fact": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument that I can only describe as profoundly unhelpful given the circumstances.",
-    "source_quote": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "spell slot cost",
-    "fact": "The cost was one spell slot. The benefit was that I was still standing.",
-    "source_quote": "The cost was one spell slot. The benefit was that I was still standing.",
-    "quote_verified": true
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "A window of perhaps two seconds before this became catastrophic.",
-    "source_quote": "A window of perhaps two seconds before this became catastrophic",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "drow reinforcement arrival",
-    "fact": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range.",
-    "source_quote": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow reinforcement count",
-    "fact": "Five drow warriors emerging from the cavern shadows.",
-    "source_quote": "Five drow warriors emerging from the cavern shadows",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "drow outpost elevation",
-    "fact": "Dark Elves! I added, in a singing tone. The twelve days of Christmas. Five of them. Very irritated about the poison.",
-    "source_quote": "Dark Elves!",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "spore cloud size",
-    "fact": "How big is the cloud?",
-    "source_quote": "How big is the cloud?",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow count",
-    "fact": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "source_quote": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "fireball casting",
-    "fact": "I cast Fireball in a shaped arc around everything I wanted to keep.",
-    "source_quote": "I cast Fireball in a shaped arc around everything I wanted to keep",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "tunnel mouth location",
-    "fact": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument that I can only describe as profoundly unhelpful given the circumstances.",
-    "source_quote": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "spell slot cost",
-    "fact": "The cost was one spell slot. The benefit was that I was still standing.",
-    "source_quote": "The cost was one spell slot. The benefit was that I was still standing.",
-    "quote_verified": true
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "A window of perhaps two seconds before this became catastrophic.",
-    "source_quote": "A window of perhaps two seconds before this became catastrophic",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "drow reinforcement arrival",
-    "fact": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range.",
-    "source_quote": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow reinforcement count",
-    "fact": "Five drow warriors emerging from the cavern shadows.",
-    "source_quote": "Five drow warriors emerging from the cavern shadows",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "drow outpost elevation",
-    "fact": "Dark Elves! I added, in a singing tone. The twelve days of Christmas. Five of them. Very irritated about the poison.",
-    "source_quote": "Dark Elves!",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "spore cloud size",
-    "fact": "How big is the cloud?",
-    "source_quote": "How big is the cloud?",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow count",
-    "fact": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "source_quote": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "fireball casting",
-    "fact": "I cast Fireball in a shaped arc around everything I wanted to keep.",
-    "source_quote": "I cast Fireball in a shaped arc around everything I wanted to keep",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "tunnel mouth location",
-    "fact": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument that I can only describe as profoundly unhelpful given the circumstances.",
-    "source_quote": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "spell slot cost",
-    "fact": "The cost was one spell slot. The benefit was that I was still standing.",
-    "source_quote": "The cost was one spell slot. The benefit was that I was still standing.",
-    "quote_verified": true
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "A window of perhaps two seconds before this became catastrophic.",
-    "source_quote": "A window of perhaps two seconds before this became catastrophic",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "drow reinforcement arrival",
-    "fact": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range.",
-    "source_quote": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow reinforcement count",
-    "fact": "Five drow warriors emerging from the cavern shadows.",
-    "source_quote": "Five drow warriors emerging from the cavern shadows",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "drow outpost elevation",
-    "fact": "Dark Elves! I added, in a singing tone. The twelve days of Christmas. Five of them. Very irritated about the poison.",
-    "source_quote": "Dark Elves!",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "spore cloud size",
-    "fact": "How big is the cloud?",
-    "source_quote": "How big is the cloud?",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow count",
-    "fact": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "source_quote": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "fireball casting",
-    "fact": "I cast Fireball in a shaped arc around everything I wanted to keep.",
-    "source_quote": "I cast Fireball in a shaped arc around everything I wanted to keep",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "tunnel mouth location",
-    "fact": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument that I can only describe as profoundly unhelpful given the circumstances.",
-    "source_quote": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "spell slot cost",
-    "fact": "The cost was one spell slot. The benefit was that I was still standing.",
-    "source_quote": "The cost was one spell slot. The benefit was that I was still standing.",
-    "quote_verified": true
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "A window of perhaps two seconds before this became catastrophic.",
-    "source_quote": "A window of perhaps two seconds before this became catastrophic",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "drow reinforcement arrival",
-    "fact": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range.",
-    "source_quote": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow reinforcement count",
-    "fact": "Five drow warriors emerging from the cavern shadows.",
-    "source_quote": "Five drow warriors emerging from the cavern shadows",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "drow outpost elevation",
-    "fact": "Dark Elves! I added, in a singing tone. The twelve days of Christmas. Five of them. Very irritated about the poison.",
-    "source_quote": "Dark Elves!",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "spore cloud size",
-    "fact": "How big is the cloud?",
-    "source_quote": "How big is the cloud?",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow count",
-    "fact": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "source_quote": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "fireball casting",
-    "fact": "I cast Fireball in a shaped arc around everything I wanted to keep.",
-    "source_quote": "I cast Fireball in a shaped arc around everything I wanted to keep",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "tunnel mouth location",
-    "fact": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument that I can only describe as profoundly unhelpful given the circumstances.",
-    "source_quote": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "spell slot cost",
-    "fact": "The cost was one spell slot. The benefit was that I was still standing.",
-    "source_quote": "The cost was one spell slot. The benefit was that I was still standing.",
-    "quote_verified": true
-  },
-  {
-    "type": "date",
-    "subject": "elapsed time",
-    "fact": "A window of perhaps two seconds before this became catastrophic.",
-    "source_quote": "A window of perhaps two seconds before this became catastrophic",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "drow reinforcement arrival",
-    "fact": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range.",
-    "source_quote": "The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow reinforcement count",
-    "fact": "Five drow warriors emerging from the cavern shadows.",
-    "source_quote": "Five drow warriors emerging from the cavern shadows",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "drow outpost elevation",
-    "fact": "Dark Elves! I added, in a singing tone. The twelve days of Christmas. Five of them. Very irritated about the poison.",
-    "source_quote": "Dark Elves!",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "spore cloud size",
-    "fact": "How big is the cloud?",
-    "source_quote": "How big is the cloud?",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow count",
-    "fact": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "source_quote": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "fireball casting",
-    "fact": "I cast Fireball in a shaped arc around everything I wanted to keep.",
-    "source_quote": "I cast Fireball in a shaped arc around everything I wanted to keep",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "tunnel mouth location",
-    "fact": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument that I can only describe as profoundly unhelpful given the circumstances.",
-    "source_quote": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument",
-    "quote_verified": false
   },
   {
     "type": "date",
     "subject": "session date",
     "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
-    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
-    "quote_verified": false
+    "source_quote": "One turn. He just needed to wait one turn.",
+    "quote_verified": true
   },
   {
     "type": "date",
     "subject": "elapsed time",
     "fact": "An hour passes between two events in the session.",
-    "source_quote": "An hour later",
-    "quote_verified": false
+    "source_quote": "One turn is a long time when you have nothing to do in it.",
+    "quote_verified": true
   },
   {
     "type": "monster",
     "subject": "chasme count",
     "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
-    "source_quote": "four chasme and two vrock",
+    "source_quote": "he had delivered it with the emotional register of someone pushing a chair under a table.",
     "quote_verified": false
   },
   {
@@ -2002,108 +315,136 @@
     "quote_verified": false
   },
   {
-    "type": "event",
-    "subject": "Ilvara's detonation",
-    "fact": "Ilvara Mizzrym ruptured into a massive toxic bloom of poisonous spores, venting demonic corruption all at once.",
-    "source_quote": "She detonated. Her body ruptured outward in a massive toxic bloom \u2014 a cloud of poisonous spores billowing through the cavern in every direction",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "bridge collapse",
-    "fact": "The bridge over Velkynvelve was destroyed by Thorin, sending Ilvara and Jorlan crashing to the cavern floor.",
-    "source_quote": "Thorin had already toppled the bridge, sent both of them crashing to the cavern floor",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "Dawnbringer radiant pulse",
-    "fact": "Thorin's Dawnbringer glowed with steady warmth after the battle, having destroyed the heart fungus in two rounds.",
-    "source_quote": "Dawnbringer pulsed once, steady warmth against my palm",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Asha's prayer",
-    "fact": "Asha Vandree dropped to her knees and began murmuring prayers to Lolth, reshaping the aftermath into theology.",
-    "source_quote": "Asha Vandree dropped to her knees and began murmuring prayers, her voice the only sound left \u2014 words to Lolth, rising from the wreckage",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "T'sarran retreat",
-    "fact": "The last House T'sarran warrior stepped back toward the tunnels, declaring 'We will meet again' after witnessing Ilvara's demise and the mage's death.",
-    "source_quote": "We will meet again,\" he said. \"Enjoy your victory for the moment.",
-    "quote_verified": true
-  },
-  {
     "type": "monster",
-    "subject": "Glabbagool inquiry",
-    "fact": "Grygum's first real question after the spore cloud thinned was about Glabbagool, indicating its relevance to the aftermath.",
-    "source_quote": "My first real question, once the cloud was thin enough to breathe through, was about Glabbagool.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Zalthir's teleport strike",
-    "fact": "Zalthir teleported across the battlefield using shadow-step and struck the T'sarran mage once, killing him instantly.",
-    "source_quote": "He teleported across the battlefield \u2014 shadow-step, the distance closing in the space between one breath and the next \u2014 and hit the mage once, and that was enough.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "cavern silence",
-    "fact": "The cavern settled into a thick, spore-choked silence after Ilvara's detonation, with only Asha\u2019s prayers remaining.",
-    "source_quote": "The cavern settled into a thick, spore-choked silence. The heart fungus was already a collapsed ruin... and somewhere in the settling quiet, Asha Vandree dropped to her knees and began murmuring prayers",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "Eldritch Claw Tattoo reach",
-    "fact": "Zalthir\u2019s Eldritch Claw Tattoo has a fifteen-foot reach, yet the distance between him and Ilvara remained insurmountable.",
+    "subject": "eldritch claw reach",
+    "fact": "Fifteen feet of reach are provided by the Eldritch Claw Tattoo.",
     "source_quote": "He had the Eldritch Claw Tattoo \u2014 fifteen feet of reach \u2014 but the distance between him and Ilvara was not fifteen feet.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "Daz's fireball",
-    "fact": "Daz had already run an empowered fireball through the last T'sarran mage, singeing him at the edges.",
-    "source_quote": "Daz had already run an empowered fireball through him; the man was singed at the edges",
+    "subject": "lightning bolt entrance",
+    "fact": "A dramatic lightning bolt was fired into the cavern upon arrival, hitting only open air.",
+    "source_quote": "He had fired a lightning bolt into the cavern when he arrived \u2014 a dramatic entrance, the kind with real commitment \u2014 and hit nothing. Just open air and ambition.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "fireball impact",
+    "fact": "An empowered fireball was run through the T'sarran mage, leaving him singed and stunned.",
+    "source_quote": "Daz had already run an empowered fireball through him; the man was singed at the edges and blinking with the stunned expression of someone who had entered this fight expecting an easy kill and received instead a detailed education in why that assumption was wrong.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "guiding bolt delivery",
+    "fact": "A guiding bolt of radiant light was delivered to Ilvara, causing her body to rupture into a toxic bloom of spores.",
+    "source_quote": "The bolt left my hand. It lanced across the cavern floor in a concentrated column of radiant light and found her where she stood. She did not die quietly. She detonated.",
     "quote_verified": true
   },
   {
     "type": "location",
-    "subject": "insect swarm at entrance",
-    "fact": "An insect swarm remained active at the cavern entrance, requiring attention after the main combatants fell.",
-    "source_quote": "Someone else was dealing with the insect swarm at the entrance.",
+    "subject": "bridge collapse",
+    "fact": "The bridge was toppled by Thorin, sending Ilvara and Jorlan crashing to the cavern floor.",
+    "source_quote": "Thorin had already toppled the bridge, sent both of them crashing to the cavern floor \u2014 classic Thorin, total commitment, Dawnbringer still humming with residual radiance the way a tuning fork hums after you strike it.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "Zalthir's internal conflict",
-    "fact": "Zalthir understood he must not close on Ilvara, a rule he enforced against his own instinct, rooted in the discipline of the Eldritch Claw Tattoo.",
-    "source_quote": "The spirit of it was that he shouldn't close on her, and he knew the spirit of it, and so he didn't. The discipline is self-administered. Always has been.",
+    "subject": "fungus destruction",
+    "fact": "The heart fungus was destroyed in one devastating round by Dawnbringer\u2019s radiant damage.",
+    "source_quote": "The fungus, at least, was mine. Clean and total. Dawnbringer lit the thing up from the first swing and it never got a second chance \u2014 big pulsating horror that must have taken the DM weeks to stat out, and it folded before anyone else could touch it.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "Grygum's Guiding Bolt",
-    "fact": "Grygum cast a Guiding Bolt that struck Ilvara, triggering her catastrophic detonation of demonic corruption.",
-    "source_quote": "The bolt left my hand. It lanced across the cavern floor in a concentrated column of radiant light and found her where she stood.",
+    "subject": "shadow-step teleport",
+    "fact": "Zalthir teleported across the battlefield using shadow-step, closing the distance between one breath and the next to strike the mage.",
+    "source_quote": "He teleported across the battlefield \u2014 shadow-step, the distance closing in the space between one breath and the next \u2014 and hit the mage once, and that was enough.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "dawnbringer resonance",
+    "fact": "Dawnbringer pulsed once with steady warmth against Thorin\u2019s palm after the battle.",
+    "source_quote": "Dawnbringer pulsed once, steady warmth against my palm.",
     "quote_verified": true
   },
   {
     "type": "location",
-    "subject": "heart fungus ruin",
-    "fact": "The heart fungus was destroyed by Thorin in one devastating round, reduced to a collapsed ruin.",
-    "source_quote": "The heart fungus was already a collapsed ruin \u2014 Thorin had seen to that in one devastating, almost insulting round",
+    "subject": "cavern silence",
+    "fact": "The cavern settled into a thick, spore-choked silence after Ilvara\u2019s detonation.",
+    "source_quote": "The cavern settled into a thick, spore-choked silence.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "Zalthir's final realization",
-    "fact": "Zalthir realized he was supposed to not be near Ilvara \u2014 not a question, but a rule, applied against his own interest.",
-    "source_quote": "I am supposed to be trying to not be near her. Right. Not a question. Just the rule, stated plainly, applied against his own interest",
+    "subject": "prayer after battle",
+    "fact": "Asha Vandree dropped to her knees and began murmuring prayers to Lolth from the wreckage.",
+    "source_quote": "Somewhere in the settling quiet, Asha Vandree dropped to her knees and began murmuring prayers, her voice the only sound left \u2014 words to Lolth, rising from the wreckage, already reshaping what she'd witnessed into something her goddess could use.",
     "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "threat declaration",
+    "fact": "The last T'sarran warrior declared, 'We will meet again,' before retreating toward the tunnels.",
+    "source_quote": "\"We will meet again,\" he said. \"Enjoy your victory for the moment.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "monk\u2019s internal discipline",
+    "fact": "Zalthir accepted the condition of fear without resistance, recognizing it as self-administered discipline.",
+    "source_quote": "He didn't fight the condition. He didn't look for angles. The spirit of it was that he shouldn't close on her, and he knew the spirit of it, and so he didn't. The discipline is self-administered. Always has been.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "prophecy residue",
+    "fact": "Ilvara\u2019s final mutterings contained prophecy about Zuggtmoy, the bride, and the mayhem to come.",
+    "source_quote": "She was still muttering. Something about Zuggtmoy. Something about the bride, and chaos, and the mayhem to come.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "cavern contraction",
+    "fact": "The fight contracted toward its end as each threat resolved and the radius shrank.",
+    "source_quote": "The fight was contracting toward its end the way fights do, the radius shrinking as each threat resolved.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "monk\u2019s question",
+    "fact": "Zalthir asked, 'How do I not be frightened?' seeking to understand the timeline of his fear condition.",
+    "source_quote": "\"How do I not be frightened?\" He had asked, because he wanted to know the timeline.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "monk\u2019s declaration",
+    "fact": "Zalthir declared, 'I'm a monk,' in response to being observed as ineffective against his target.",
+    "source_quote": "\"I'm a monk.\" This came out in response to someone noting \u2014 correctly, irritatingly \u2014 that his entire contribution to a fight was predicated on being in contact with the thing he was supposed to be destroying.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "dwarf\u2019s acceptance",
+    "fact": "Thorin stood in quiet after the battle, accepting that he could not yet measure the cost of victory.",
+    "source_quote": "I stood there and let the quiet be quiet. We'd won. I couldn't tell you yet what winning this one cost, or what it opened up ahead of us \u2014 that kind of math takes time...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "glabbagool inquiry",
+    "fact": "Grygum's first real question after the spores thinned was about Glabbagool.",
+    "source_quote": "My first real question, once the cloud was thin enough to breathe through, was about Glabbagool.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "drow's prophecy acceptance",
+    "fact": "Ilvara\u2019s final state was one of prophecy, not plea \u2014 she filled the space with inevitability rather than begging.",
+    "source_quote": "Even cornered, she filled the space with prophecy rather than offers. He could respect the discipline of that, abstractly. She wasn't going to beg.",
+    "quote_verified": true
   }
 ]

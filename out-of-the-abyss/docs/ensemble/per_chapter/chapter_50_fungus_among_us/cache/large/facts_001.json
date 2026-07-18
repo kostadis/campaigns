@@ -2,133 +2,126 @@
   {
     "type": "npc",
     "subject": "Daz",
-    "fact": "Daz is a performer who has assumed the identity of a wizard communing with Lolth, using illusion, familiar manipulation, and psychological misdirection to convince Asha Vandree of divine possession. He is calm, calculated, and adept at reframing suspicion into belief.",
+    "fact": "Daz is a surface-trained illusionist who has performed a con involving a spider and Dancing Lights to impersonate a vessel of Lolth, successfully manipulating Asha Vandree by reframing his deception as a divine test she passed.",
     "source_quote": "I am\u2026 you are not speaking to the wizard of this body. I\u2026 he\u2026 this body has communed with Lolth. And I\u2026 I am speaking through this body.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Asha Vandree",
-    "fact": "Asha Vandree is a fanatically devoted follower of Lolth who has been psychologically warped by prolonged exposure to fungal corruption and Ilvara\u2019s influence. Her paranoia has become a self-reinforcing belief system that transforms deception into divine tests and infection into heresy.",
-    "source_quote": "You are trying to test me, to see if I was one of those fake followers of Lolth, who are willing to believe every charlatan magic user that is somehow being possessed by the power of Lolth.",
+    "fact": "Asha Vandree is a paranoid, fanatically devoted follower of Lolth who believes Ilvara is corrupted by Zuggtmoy\u2019s spores, and who misinterpreted Daz\u2019s illusion as a divine trial \u2014 ultimately revealing critical intelligence about Ilvara\u2019s operations while remaining terrified of contamination.",
+    "source_quote": "Have you two been infected by the spores, possessed by the crazed magic of Zuggtmoy? convinced of the bride's power? Is this another trick of Ilvara's?",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Glabbagool",
-    "fact": "Glabbagool is a gelatinous cube acting as a familiar, but he is incapable of maintaining silence or stillness. His attempts to be an inanimate object repeatedly fail due to his tendency to speak, move, and express agency \u2014 a persistent, comedic liability in high-stakes deception.",
-    "source_quote": "I heard the reminder that invisible rocks do not speak. I heard \u2014 I am fairly certain I heard \u2014 the small wet sound of him opening his eyes, which then began tracking left and right with the particular energy of someone who absolutely cannot help himself.",
+    "fact": "Glabbagool is a gelatinous cube acting as a familiar who failed to remain inert during a critical negotiation, speaking and moving in ways that threatened the illusion \u2014 yet was dismissed by Asha as eccentricity of a spore-addled convert.",
+    "source_quote": "Glabbagool, I'm taking care of this, it's fine.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Zalthir",
-    "fact": "Zalthir is a drow operative trained in social erasure and silent observation. He is acutely aware of being ignored by Asha Vandree and uses this marginalization as tactical intelligence, cataloging every detail of the negotiation without drawing attention to himself.",
+    "fact": "Zalthir is a drow who observed the entire negotiation in silence, treated as invisible by Asha Vandree, and used his drow-trained patience to gather intelligence, noting tactical details and emotional undercurrents without drawing attention.",
     "source_quote": "She filed me away and returned her eyes to Daz. Not a glance afterward. Not a word in my direction for the duration of the conversation.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum is a spellcaster carrying three potent 4th-level spells \u2014 Glyph of Warding, Dust of Suleiman, and Phantasmal Killer \u2014 but limited to casting only one due to a single spell slot. He is methodical, strategic, and burdened by the weight of choosing which tool will define the mission\u2019s outcome.",
-    "source_quote": "Three keys. One lock. The planning was, in a sense, just a very elaborate way of deciding which door we most needed to open.",
+    "fact": "Grygum is a spellcaster who presented three powerful 4th-level spells \u2014 Glyph of Warding, Dust of Suleiman, and Phantasmal Killer \u2014 but revealed he can only cast one due to limited spell slots, forcing the group to prioritize their approach to assassinating Ilvara.",
+    "source_quote": "So these powerful spells I've been talking about\u2026 they're all 4th level, and I only have one fourth level slot. I can only cast one.",
     "quote_verified": true
   },
   {
     "type": "faction",
     "subject": "Ilvara's Cult",
-    "fact": "Ilvara is a former high priestess of Lolth who has become seduced by the idea that Lolth wishes to be married to Zuggtmoy, leading her to spread fungal corruption and transform followers into mindless fungal creatures. Her cult is a dangerous, expanding network of infected individuals and corrupted magic.",
-    "source_quote": "Ilvara, who was once a high priestess of Lolth, has become seduced by this abomination, this idea that Lolth wishes to be married. There is something foul and stinking about her, and then all of those allies she seems to covet have turned into fungal creatures that are mindless.",
-    "quote_verified": true
+    "fact": "Ilvara is a former high priestess of Lolth who has become obsessed with the idea of Lolth being married, and now leads a fungal cult that transforms followers into mindless fungal creatures using spores, posing a spreading threat to the Underdark.",
+    "source_quote": "Ilvara, who was once a high priestess of Lolth, has become seduced by this abomination, this idea that Lolth wishes to be married... all of those allies she seems to covet have turned into fungal creatures that are mindless.",
+    "quote_verified": false
   },
   {
     "type": "faction",
-    "subject": "Lolth's True Followers",
-    "fact": "Asha Vandree and her kind represent a purist faction of Lolth worship that rejects fungal corruption and views Ilvara\u2019s devotion as heretical blasphemy. Their faith is rooted in rigid dogma, fear of contamination, and a belief that Lolth\u2019s will must be enforced through violence.",
+    "subject": "Lolth's Followers",
+    "fact": "Among Asha Vandree\u2019s sect, true devotion to Lolth is defined by rigid, fear-based orthodoxy \u2014 rejecting any display of emotion or uncertainty as false, and viewing spiritual possession or fungal corruption as heresy or infection.",
     "source_quote": "That is not the kind of conviction a follower of Lolth shows.",
     "quote_verified": false
   },
   {
     "type": "monster",
     "subject": "Zuggtmoy's Spores",
-    "fact": "Zuggtmoy\u2019s spores are a sentient, corrupting fungal influence that infects minds and bodies, inducing madness, false divine visions, and irreversible transformation into fungal horrors. They are the true vector of infection \u2014 not the Heart Fungus itself.",
-    "source_quote": "Have you two been infected by the spores, possessed by the crazed magic of Zuggtmoy? convinced of the bride's power?",
-    "quote_verified": false
+    "fact": "The spores of Zuggtmoy are a fungal infection capable of inducing madness, delusions of divine connection, and physical transformation, and are feared as a contagious, mind-corrupting force in the Underdark.",
+    "source_quote": "Have you two been infected by the spores, possessed by the crazed magic of Zuggtmoy?",
+    "quote_verified": true
   },
   {
     "type": "monster",
     "subject": "Heart Fungus",
-    "fact": "The Heart Fungus is a powerful, possibly sentient fungal artifact tied to Ilvara\u2019s operation. Though not the vector of infection, it is a dangerous focus of magical energy and must be destroyed to prevent residual corruption from persisting after Ilvara\u2019s death.",
+    "fact": "The Heart Fungus is a powerful magical artifact associated with Ilvara\u2019s cult, not itself the vector of infection but a dangerous relic that must be destroyed to prevent its power from spreading.",
     "source_quote": "The Heart Fungus itself wasn't the vector. The spores were Ilvara's. The artifact was the other risk.",
     "quote_verified": false
   },
   {
+    "type": "event",
+    "subject": "Negotiation with Asha Vandree",
+    "fact": "A negotiation occurred in which Daz\u2019s illusion of Lolth\u2019s possession was misinterpreted by Asha as a divine test of her discernment, leading her to reveal critical intelligence about Ilvara\u2019s cult, spores, and the Heart Fungus, while remaining terrified of contamination.",
+    "source_quote": "you are trying to test me, to see if I was one of those fake followers of Lolth, who are willing to believe every charlatan magic user that is somehow being possessed by the power of Lolth.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Assassination Planning",
+    "fact": "The party planned the assassination of Ilvara using Grygum\u2019s limited 4th-level spell slots, debating whether to use Glyph of Warding, Dust of Suleiman, or Phantasmal Killer \u2014 each offering a different tactical advantage against a paranoid, fungal-corrupted target.",
+    "source_quote": "Three keys. One lock. The planning was, in a sense, just a very elaborate way of deciding which door we most needed to open.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Underdark Cavern",
+    "fact": "The cavern is a fungal-infested Underdark chamber where Asha has been isolated for an extended period, monitoring Ilvara\u2019s cult, and where the party conducted their negotiation and planned their assault, with hidden zones of darkness prepared for retreat.",
+    "source_quote": "I placed a zone of Darkness behind our position \u2014 not at the entrance, not anywhere Ilvara might notice the edge of it and understand what was coming. Behind us. A fallback.",
+    "quote_verified": true
+  },
+  {
     "type": "object",
     "subject": "Dust of Suleiman",
-    "fact": "A 4th-level spell that creates a 20-foot sphere of destructive energy, dealing 20 points of damage per turn to all creatures within. It is a long-range area denial tool, ideal for clearing groups or creating chokepoints in confined spaces.",
+    "fact": "Dust of Suleiman is a 4th-level spell that creates a 20-foot sphere dealing 20 points of damage per turn to all creatures within, usable from 120 feet away, and considered for use in the assassination of Ilvara.",
     "source_quote": "It creates a 20-foot sphere, and anything inside this sphere takes 20 points of damage per turn.",
     "quote_verified": true
   },
   {
     "type": "object",
     "subject": "Phantasmal Killer",
-    "fact": "A 4th-level illusion spell that taps into a creature\u2019s deepest fears, manifesting them as an illusory horror. If the target fails successive Wisdom saves, they take 4d10 psychic damage per turn for up to a minute. It is a psychological weapon designed to break the mind before the body.",
-    "source_quote": "It says you tap into the nightmares of a creature you can see and create an illusory manifestation of its deepest fears.",
-    "quote_verified": true
+    "fact": "Phantasmal Killer is a 4th-level spell that taps into a creature\u2019s deepest fears, creating an illusory manifestation that can cause up to 4d10 psychic damage per turn if the target fails consecutive Wisdom saves, and was considered for use against Ilvara\u2019s corrupted mind.",
+    "source_quote": "It says you tap into the nightmares of a creature you can see and create an illusory manifestation of its deepest fears... then they take 4 die 10 psychic damage.",
+    "quote_verified": false
   },
   {
     "type": "object",
     "subject": "Glyph of Warding",
-    "fact": "A 4th-level enchantment spell that inscribes a magical trap on a surface or object, triggering when a creature interacts with it. It can be configured to deal damage, release a spell, or activate a condition. It is ideal for ambushes, chokepoints, or silent eliminations.",
+    "fact": "Glyph of Warding is a 4th-level spell that can be inscribed on a surface or object and triggered by movement or action, used in planning to ambush Ilvara without direct confrontation.",
     "source_quote": "You inscribe it in a particular place, and then when somebody triggers it by moving across it, it does its thing.",
     "quote_verified": true
   },
   {
-    "type": "location",
-    "subject": "The Underdark Cavern",
-    "fact": "A vast, fungal-laden cavern where Ilvara\u2019s cult operates, saturated with spores, corrupted magic, and the lingering presence of Zuggtmoy. The floor is covered in fungal growth, shadows are thick, and inanimate objects (like Glabbagool) struggle to remain passive.",
-    "source_quote": "The spider scurried back across the fungal floor toward me on cue... the dark of the Underdark with a gelatinous cube behind me failing to be a rock.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "The Negotiation with Asha",
-    "fact": "A high-stakes psychological confrontation in which Daz\u2019s illusion of divine possession is not exposed but reinterpreted by Asha as a divine test \u2014 which she believes she has passed. The event reveals Asha\u2019s paranoia as a weapon that bends deception into belief, and exposes her desperation to eliminate Ilvara.",
-    "source_quote": "She had not seen through the deception. She had reframed it entirely \u2014 had taken my con and reclassified it as a *divine test of her discernment*, which she believed she had now passed.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "The Planning of Ilvara's Assassination",
-    "fact": "The party consolidates their strategy using Grygum\u2019s three 4th-level spells, weighing the risks of area damage, psychological terror, and silent traps. The decision of which spell to cast becomes the linchpin of the entire mission, forcing tactical prioritization under extreme constraints.",
-    "source_quote": "Three keys. One lock. The planning was, in a sense, just a very elaborate way of deciding which door we most needed to open.",
+    "type": "thread",
+    "subject": "Zalthir\u2019s Invisibility",
+    "fact": "Zalthir\u2019s complete erasure from Asha Vandree\u2019s perception during the negotiation remains an unresolved thread \u2014 whether her bias against drow is cultural, personal, or magical \u2014 and whether he will later exploit this invisibility in the assault.",
+    "source_quote": "She filed me away and returned her eyes to Daz. Not a glance afterward.",
     "quote_verified": true
   },
   {
     "type": "thread",
-    "subject": "The Nature of Belief in the Underdark",
-    "fact": "A recurring theme: in the Underdark, belief is not a passive state but an active, malleable force that can be manipulated, inverted, or weaponized. Truth is irrelevant if the story someone tells themselves is more compelling than reality.",
-    "source_quote": "There are players who don't know they're at the table. There are players who think they're winning. And then there is Asha Vandree, who had somehow managed to be both at once.",
+    "subject": "Glabbagool\u2019s Sentience",
+    "fact": "Glabbagool\u2019s unexpected speech and movement during the negotiation suggest he may possess latent intelligence or be influenced by fungal spores \u2014 a mystery the party has noted but not yet addressed.",
+    "source_quote": "The cube subsided. I did not visibly react. Somewhere behind my eyes, I filed it away in the archive of things I have witnessed that I will never be able to explain.",
     "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "The Silence of Zalthir",
-    "fact": "Zalthir\u2019s quiet observation represents a deeper narrative thread: the cost of invisibility. His erasure by Asha is not just an insult \u2014 it is a tactical advantage he weaponizes, revealing how power can be wielded without being seen.",
-    "source_quote": "I have noticed this before. I will notice it again. I noted it, set it aside, and watched.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "The Corruption of Lolth's Worship",
-    "fact": "The conflict between traditional Lolth worship and Ilvara\u2019s fungal heresy exposes a schism in divine authority \u2014 is Lolth a spider goddess of domination, or a bride of fungus? The answer determines who is heretic and who is faithful.",
-    "source_quote": "Ilvara\u2019s idea that Lolth wishes to be married... We need to kill her. We need to butcher her!",
-    "quote_verified": false
   },
   {
     "type": "date",
-    "subject": "Session Date",
-    "fact": "The events described occurred during a single, continuous session of roleplaying, with no temporal breaks. The narrative unfolds in real-time as the party navigates deception, paranoia, and strategy.",
+    "subject": "session date",
+    "fact": "The events of this chapter occur during a single session of play, with the negotiation, planning, and preparation unfolding in real-time before the planned assault on Ilvara.",
     "source_quote": "I spent the hour before the assault doing the thing that was useful and quiet and required no discussion.",
     "quote_verified": true
   }

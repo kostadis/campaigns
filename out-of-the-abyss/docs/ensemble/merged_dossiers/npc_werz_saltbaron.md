@@ -8,34 +8,37 @@ chapters: 16-20
 ### Werz Saltbaron
 
 **Current status:** Alive  
-**Current location:** Unknown (last seen in the undercity, last known destination: Shattered Spire)  
-**Allegiance/faction:** Independent Duergar merchant; entangled with the Soulblades assassin guild and the Deepking’s personal assassination orders; no formal allegiance  
-**Current possessions / notable items:** None specified  
-**Current assignment / role:** Target of the Soulblades assassin guild; broker of clan intelligence; intermediary in forbidden trade; negotiating his own protection  
+**Current location:** Unknown (last seen in the undercity, likely still operating in or near the Shattered Spire or Gholbrorn’s Inn)  
+**Allegiance/faction:** Independent Duergar merchant; entangled with the Soulblades’ assassination guild and the Deepking’s personal hit-list; no clear faction loyalty  
+**Current possessions / notable items:** None explicitly stated; previously carried no physical wounds; may possess trade records or bribes (unconfirmed)  
+**Current assignment / role:** Target of the Soulblades’ assassin guild; broker of clandestine clan intelligence; intermediary in forbidden deals; attempting to negotiate his own survival by offering information in exchange for protection  
 **Key relationships:**  
-- Last spoke to the owner of Gholbrorn’s Inn  
-- Negotiated with the Soulblades over his contract status  
-- Provided intelligence on Clan Ironshadow, Clan Tharzgad, and Clan Xundom to unknown parties  
-- Was healed by Grygum after an assassination attempt  
-- Previously claimed to be bound by trade ethics, but operates through fear and secrecy  
+- Known to the Flumph as a victim of a magical light blade attack  
+- Has spoken to the owner of Gholbrorn’s Inn  
+- Contracted with an unknown party for 1100 gold to conceal discussions (not to kill assassins)  
+- Named in the Deepking’s personal assassination orders  
+- His name appears on the Soulblades’ hit-list; his contract is negotiable if the Cult of Demogorgon is eliminated  
+- Claims to have knowledge of Clan Ironshadow, Clan Tharzgad, and Clan Xundom’s sentiments toward the Deepking  
 
 **Defining recent actions:**  
-- Survived an assassination attempt by invisible assailants wielding a magical light blade  
+- Survived an assassination attempt by invisible assailants wielding psychic/light blades  
 - Faked vulnerability to gain the party’s trust, then vanished via invisibility  
-- Brokers information on clan loyalties to the Deepking in exchange for survival  
-- Accepted 1100 gold to conceal discussions, not to eliminate assassins  
-- Actively negotiating with the Soulblades to have his name removed from their hit-list, contingent on the elimination of the Cult of Demogorgon  
-- Admits to being broke and terrified, yet continues to manipulate information flows  
+- Brokers sensitive intelligence on clan loyalties to the Deepking  
+- Accepted payment to conceal, not eliminate, assassins — suggesting he is caught between multiple factions  
+- Actively seeks protection from the Soulblades, pleading not to be a target  
 
 **Revealed motivations/secrets:**  
-- Claims innocence and desperation, but his actions suggest he is a catalyst who profits from chaos  
-- His fear of assassination is genuine, yet his willingness to trade secrets implies complicity  
-- His name appears in the Deepking’s personal assassination orders  
-- The Soulblades refer to him as a “sniveling squealing writhing little rat,” yet his contract is negotiable — indicating he holds leverage, however small  
+- Claims to care only about trade and survival, but his actions reveal complicity in the undercity’s moral rot  
+- Fear of assassination is genuine; his desperation to survive drives him to offer information under NDA  
+- He is neither purely victim nor mastermind — a pawn who profits from chaos, yet may be more deeply embedded in the conspiracy than he admits  
+- His invisibility ability (first seen in ch16) remains unexplained but may be a trait, item, or spell he still possesses  
 
 ## Uncertainty
-- Contradiction: Was Werz the target of the assassination, the assassin, or both? Chapter 16 suggests he may have faked the attack to gain trust, but Chapter 20 confirms he is a named target on the Soulblades’ list and the Deepking’s orders — no evidence confirms he was the attacker.  
-- Ambiguous chronology: Did Werz vanish via invisibility *after* being healed by Grygum (ch16) or *before* the party encountered him at the Shattered Spire? The timeline between his “reward” offer and his later reappearance is unclear.  
-- Unclear attribution: Who pressured him into accepting the 1100 gold? The quote says “they,” but no identity is given.  
-- Uncertain current location: He was last seen heading to the Shattered Spire, but no later chapter confirms he arrived or remains there.  
-- Ambiguous status of “NDA” deal: Chapter 19 mentions he offered information in exchange for an NDA, but no record exists of who agreed to it or if it was honored.
+- Was Werz’s invisibility a spell, item, or innate ability? The fact it occurred in ch16 is confirmed, but whether he retains it is unverified.  
+- Did Werz survive the assassination attempt via invisibility, or was that a ruse? Later chapters confirm he is alive, but not how he escaped.  
+- Who paid him 1100 gold to conceal discussions? The payer is unnamed.  
+- Did Werz actually speak to the owner of Gholbrorn’s Inn, or is this a lie to gain trust? The claim is made but not corroborated.  
+- Is his invisibility still active? No later chapter confirms its use after ch16.  
+- Is the “magical light blade” from ch18 the same as the “psychic weapons” from ch16? The weapons are described differently — possible contradiction.  
+- Does Werz have any physical items (e.g., documents, tools, artifacts) currently on his person? No current inventory is stated.  
+- Is the Deepking’s personal assassination order still active? The fact states his name is on it, but not whether the order has been rescinded or executed.

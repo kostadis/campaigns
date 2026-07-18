@@ -1,28 +1,28 @@
 ---
 name: Jadgar
 type: npc
-n_facts: 11
+n_facts: 17
 chapters: 37-48
 ---
 
 ### Jadgar
 
-**Current status:** Dead (manifesting as a friendly ghost)  
-**Current location:** Spectrally present in Blingdenstone’s catacombs and burial grounds; last observed saluting the party’s departure  
-**Allegiance/faction:** Burrow Warden of Blingdenstone (posthumous role)  
+**Current status:** Alive (as a spirit)  
+**Current location:** Ruby and the Rough temple, Blingdenstone  
+**Allegiance/faction:** Borough/Burrow Wardens (re-establishing the order)  
 **Current possessions / notable items:** Spectral banner (wielded in salute at departure)  
-**Current assignment / role:** Spectral leader of the ghosts; guardian of the burial grounds; training the next generation of Burrow Wardens at the Ruby and the Rough temple (spiritually or expectantly)  
+**Current assignment / role:** Training the next generation of Burrow Wardens; spectral leader of Blingdenstone’s ghosts  
 **Defining recent actions:**  
-- Materialized as a friendly ghost to thank the party for laying two tormented spirits to rest in the catacombs.  
-- Granted the party two truth-telling boons in reward for their service to Blingdenstone.  
-- Observed and saluted the party’s departure with his spectral banner, acknowledging their role in preserving the sanctity of the burial grounds.  
+- Rewarded the party with two truth-telling boons for laying to rest two tormented spirits in the catacombs.  
+- Encouraged and directed allied gnomes (Glabbagool, Eldeth, Jimjar, Spiderbait) to rescue other trapped ghosts, including Udhask.  
+- Confirmed the Temple of the Steadfast Stone lies in the Rock Blight and requires cleansing.  
+- Offered the aid of other Barrow Warden ghosts in exchange for completing quests tied to ancestral legacy.  
+- Observed the party’s departure from Blingdenstone and saluted them with his spectral banner, acknowledging their role in preserving burial sanctity.  
 
-**Revealed motivations or secrets:**  
-- Believes in the continued service of the dead through resurrection magic, encouraging allies to fight even if they die.  
-- Maintains duty beyond death, committed to guiding new Burrow Wardens and upholding the sanctity of Blingdenstone’s dead.
+**Revealed motivations:** To restore the Borough/Burrow Wardens as a living tradition, using the party as agents to resolve lingering spiritual threats and reclaim ancestral duty. Secretly trains young gnomes to inherit the role.  
 
-## Uncertainty
-- The name “Jadgar” in the entity header conflicts with “Jadger” in all source facts. It is unclear if this is a typo or two entities.  
-- It is ambiguous whether Jadger’s physical body remains in Blingdenstone or was interred elsewhere; only his ghost is confirmed.  
-- The phrase “training the next generation of Burrow Wardens” is stated as a future intention (“he would be waiting...”), but as a ghost, the mechanism of this training is unexplained — is it literal, spiritual, or symbolic?  
-- The spectral banner is mentioned only in ch48; no prior description or origin is given.
+## Uncertainty  
+- The name “Jadger” (ch37) vs. “Jadgar” (entity title) vs. “Uth-Jadger” (ch39) vs. “Burrow Warden Jadger” (ch40–48): It is unclear whether these are the same entity with inconsistent naming, or if “Uth-Jadger” is a separate figure. All later references (ch39–48) use “Jadger” or “Burrow Warden Jadger,” but the entity title is “Jadgar.”  
+- “Borough Warden” (ch37) and “Burrow Warden” (ch39–48) are used interchangeably—whether this is a title variation or an error is unresolved.  
+- “Uth-Jadger” (ch39) is never explicitly confirmed as the same as “Burrow Warden Jadger” (ch40–48), though context strongly implies it. This remains unverified.  
+- The spectral banner is mentioned only in ch48—whether it is a new possession or a long-standing one is unstated.

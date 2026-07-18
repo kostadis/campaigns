@@ -2,162 +2,169 @@
   {
     "type": "npc",
     "subject": "Daz",
-    "fact": "Daz is a wizard who has communed with Lolth and speaks through this body, using the spider and Dancing Lights as observable proof of his connection.",
+    "fact": "Daz is a wizard who has communed with Lolth and speaks through his body, claiming to have been reduced to a small spider and then reconstituted, anchoring his claim in the observable presence of the spider.",
     "source_quote": "I am\u2026 you are not speaking to the wizard of this body. I\u2026 he\u2026 this body has communed with Lolth. And I\u2026 I am speaking through this body.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Asha Vandree",
-    "fact": "Asha Vandree is a paranoid devotee of Lolth who interprets Daz\u2019s deception as a divine test of her discernment, believing she has passed it.",
+    "fact": "Asha Vandree suspects Daz of being a charlatan but reframes his deception as a divine test of her discernment, believing she has passed and that Daz is a genuine follower of Lolth.",
     "source_quote": "you are trying to test me, to see if I was one of those fake followers of Lolth, who are willing to believe every charlatan magic user that is somehow being possessed by the power of Lolth.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Glabbagool",
-    "fact": "Glabbagool is a gelatinous cube familiar that fails to remain inert, speaking and moving despite being instructed to be a silent feature of the cavern.",
-    "source_quote": "he started *talking*. I heard the reminder that invisible rocks do not speak. I heard \u2014 I am fairly certain I heard \u2014 the small wet sound of him opening his eyes, which then began tracking left and right with the particular energy of someone who absolutely cannot help himself.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "fungal floor",
-    "fact": "The fungal floor is a surface upon which the spider scurries back on cue, and where the Dancing Lights are woven around it with quiet precision.",
-    "source_quote": "The spider scurried back across the fungal floor toward me on cue, and I was already weaving the lights around it \u2014 not frantically, not with the showy flick of wrists that amateur illusionists love, but with the quiet precision of someone who has thought this through to the fourth step.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Underdark",
-    "fact": "The Underdark is the dark, subterranean realm where Daz stands with Glabbagool behind him failing to be a rock, and where Asha Vandree\u2019s paranoia thrives.",
-    "source_quote": "I stood in the dark of the Underdark with a gelatinous cube behind me failing to be a rock, and I considered the specific difficulty of selling a lie to someone whose paranoia keeps generating better explanations than the truth.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "Dancing Lights",
-    "fact": "Dancing Lights are shaped not into floating globes but into a towering, feminine silhouette of eight eyes and infinite patience, used by Daz to simulate the presence of the Spider Queen.",
-    "source_quote": "Dancing Lights, shaped not into floating globes but into something grander \u2014 a silhouette, towering and feminine and terrible, the suggestion of eight eyes and infinite patience.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "Spider",
-    "fact": "The Spider is a small, real creature, convincing enough if one does not look too closely at the absence of divine ichor, and serves as Daz\u2019s familiar and tangible proof of his connection to Lolth.",
-    "source_quote": "my familiar. A small spider, real enough, convincing enough if you don't look too hard at the absence of divine ichor.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "Heart Fungus",
-    "fact": "The Heart Fungus is a mushroom artifact that is not the vector of infection, but remains a secondary risk alongside Ilvara\u2019s spores.",
-    "source_quote": "the Heart Fungus itself wasn't the vector. The spores were Ilvara's. The artifact was the other risk.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "Glyph of Warding",
-    "fact": "Glyph of Warding is a spell inscribed in a specific location to trigger upon movement across it, used by Grygum as part of the assassination plan against Ilvara.",
-    "source_quote": "It's a\u2026 the spell is Glyph of Warding\u2026 You inscribe it in a particular place, and then when somebody triggers it by moving across it, it does its thing.",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "Dust of Suleiman",
-    "fact": "Dust of Suleiman is a spell that creates a 20-foot sphere at 120-foot range, dealing 20 points of damage per turn to anything inside it, used by Grygum in the assassination plan.",
-    "source_quote": "I also have another spell I haven't had a chance to use yet called the Dust of Suleiman\u2026 It creates a 20-foot sphere, and anything inside this sphere takes 20 points of damage per turn.",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "Phantasmal Killer",
-    "fact": "Phantasmal Killer is a 4th-level spell that taps into a creature\u2019s deepest fears, creating an illusory manifestation that can deal 4d10 psychic damage if the target fails consecutive Wisdom saving throws.",
-    "source_quote": "Phantasmal Killer\u2026 it says you tap into the nightmares of a creature you can see and create an illusory manifestation of its deepest fears\u2026 they take 4 die 10 psychic damage.",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "zone of Darkness",
-    "fact": "A zone of Darkness is placed behind the party\u2019s position as a fallback, not at the entrance, to provide concealment if the line breaks during the assault on Ilvara.",
-    "source_quote": "I placed a zone of Darkness behind our position \u2014 not at the entrance, not anywhere Ilvara might notice the edge of it and understand what was coming. Behind us. A fallback. A place to pull someone if the line broke.",
+    "subject": "Asha Vandree",
+    "fact": "Asha Vandree later reinterprets the spider, lights, and reverence as signs of fungal infection by Zuggtmoy, questioning whether Daz is a victim rather than a deceiver.",
+    "source_quote": "have you two been infected by the spores, possessed by the crazed magic of Zuggtmoy? convinced of the bride's power? Is this another trick of Ilvara's?",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Zalthir",
-    "fact": "Zalthir is a drow who observes Asha Vandree\u2019s refusal to acknowledge him, treated as equipment rather than a person during negotiations.",
-    "source_quote": "She filed me away and returned her eyes to Daz. Not a glance afterward. Not a word in my direction for the duration of the conversation.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum is a spellcaster who lays out three 4th-level spells \u2014 Glyph of Warding, Dust of Suleiman, and Phantasmal Killer \u2014 but can only cast one due to having only one 4th-level spell slot.",
-    "source_quote": "So these powerful spells I've been talking about\u2026 they're all 4th level, and I only have one fourth level slot. I can only cast one.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Ilvara",
-    "fact": "Ilvara is a former high priestess of Lolth who has been seduced by the idea that Lolth wishes to be married, and now spreads fungal corruption through her spores.",
+    "subject": "Asha Vandree",
+    "fact": "Asha Vandree reveals that Ilvara, once a high priestess of Lolth, has become seduced by the idea that Lolth wishes to be married and now spreads fungal corruption, turning allies into mindless fungal creatures.",
     "source_quote": "Ilvara, who was once a high priestess of Lolth, has become seduced by this abomination, this idea that Lolth wishes to be married. There is something foul and stinking about her, and then all of those allies she seems to covet have turned into fungal creatures that are mindless.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Zuggtmoy",
-    "fact": "Zuggtmoy is a fungal god whose spores are suspected by Asha Vandree of infecting Daz and Glabbagool, leading her to question whether their actions are deception, divinity, or madness.",
-    "source_quote": "have you two been infected by the spores, possessed by the crazed magic of Zuggtmoy? convinced of the bride's power?",
+    "subject": "Asha Vandree",
+    "fact": "Asha Vandree admits she cannot approach Ilvara herself due to fear of contamination and requires Daz and his allies to carry out the assassination.",
+    "source_quote": "I was not going to kill her. That is what you\u2026 where you come in.",
     "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "cavern",
-    "fact": "The cavern is the site of Asha Vandree\u2019s long-standing isolation, where she waits for a solution to walk through the door and where Ilvara\u2019s fungal influence has taken root.",
-    "source_quote": "she had been sitting in this cavern, waiting for a solution to walk through the door. We were, apparently, the solution.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "Spores",
-    "fact": "The spores are Ilvara\u2019s primary vector of infection, distinct from the Heart Fungus artifact, and feared by Asha Vandree as a contagious, mind-altering plague.",
-    "source_quote": "The spores were Ilvara's. The artifact was the other risk.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Lolth",
-    "fact": "Lolth is the Spider Queen, worshipped by Asha Vandree as an absolute deity whose will is cold and unyielding, and whose claimed gratitude Daz asserts he already possesses.",
-    "source_quote": "The gratitude of Lolth\u2026 I already feel the gratitude of Lolth\u2026 That is not the kind of conviction a follower of Lolth shows.",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "shadow where Zalthir stood",
-    "fact": "The shadow where Zalthir stood is a place of deliberate concealment, from which he observes Asha Vandree\u2019s interactions with Daz without being acknowledged.",
-    "source_quote": "I stepped out of the shadow where I had been standing.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "Silence of deliberate erasure",
-    "fact": "The silence of deliberate erasure is the drow societal weapon used by Asha Vandree to treat Zalthir as furniture, not a person, during negotiations.",
-    "source_quote": "There is a particular kind of silence that drow society uses as a weapon. Not the comfortable silence of empty stone corridors\u2026 the silence of deliberate erasure. Of being present in a room and being treated as furniture.",
-    "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Asha Vandree",
-    "fact": "Asha Vandree is a paranoid devotee who, after initially interpreting Daz\u2019s con as divine deception, reframes it as a test of her discernment and believes she has passed it.",
-    "source_quote": "you are trying to test me, to see if I was one of those fake followers of Lolth\u2026 I believe she had now passed.",
+    "fact": "Asha Vandree flinches at physical contact, revealing a deep, personal fear of fungal contamination from prolonged exposure to Zuggtmoy\u2019s influence.",
+    "source_quote": "Don't touch me.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz asserts that his conviction as a follower of Lolth is genuine and unique to him, rejecting Asha\u2019s assumption that his behavior deviates from orthodox worship.",
+    "source_quote": "It's the kind of conviction this follower of Lolth shows.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir observes that Asha Vandree treats him as invisible furniture during negotiations, addressing all questions and demands solely to Daz despite his physical presence.",
+    "source_quote": "She filed me away and returned her eyes to Daz. Not a glance afterward. Not a word in my direction for the duration of the conversation.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir notes that Daz\u2019s response to Asha\u2019s fungal infection theory \u2014 'I really do believe that I have' \u2014 used hesitation as texture to make conviction feel lived-in and authentic.",
+    "source_quote": "I really do believe that I have. Perhaps there are some spores within me, but I\u2026 it feels\u2026 I feel it.",
     "quote_verified": false
   },
   {
     "type": "npc",
-    "subject": "Asha Vandree",
-    "fact": "Asha Vandree is a paranoid devotee who, after initially interpreting Daz\u2019s con as divine deception, reframes it as a test of her discernment and believes she has passed it.",
-    "source_quote": "you are trying to test me, to see if I was one of those fake followers of Lolth\u2026 I believe she had now passed.",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool, a gelatinous cube meant to be an inanimate familiar, attempts to form an utterance during negotiation, nearly exposing the deception.",
+    "source_quote": "The ooze had, apparently, opinions about the negotiation. It began to form the shape of an utterance \u2014 which is not something you want from what is supposed to be an inanimate ooze familiar.",
     "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is described as failing at the simple task of being a rock, having been given clear instructions to remain motionless and silent.",
+    "source_quote": "Glabbagool was doing what Glabbagool does. Which is to say: failing at the very simple task of being a rock.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum reveals he possesses three 4th-level spells \u2014 Glyph of Warding, Dust of Suleiman, and Phantasmal Killer \u2014 but only one 4th-level spell slot, forcing a critical choice among them.",
+    "source_quote": "So these powerful spells I've been talking about\u2026 they're all 4th level, and I only have one fourth level slot. I can only cast one.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum describes Phantasmal Killer as a spell that taps into a creature\u2019s deepest fears, creating an illusory manifestation that can cause 4d10 psychic damage if the target fails consecutive Wisdom saving throws.",
+    "source_quote": "It says you tap into the nightmares of a creature you can see and create an illusory manifestation of its deepest fears. They become frightened if they fail a wisdom saving throw, and if they fail the saving throw in each turn \u2014 and it can last up to a minute \u2014 then they take 4 die 10 psychic damage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum explains that Dust of Suleiman creates a 20-foot sphere at 120-foot range that deals 20 points of damage per turn to anything inside it.",
+    "source_quote": "Which I can cast at a 120-foot distance. It creates a 20-foot sphere, and anything inside this sphere takes 20 points of damage per turn.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum describes Glyph of Warding as a spell inscribed in a location that triggers when a creature moves across it, executing its effect automatically.",
+    "source_quote": "It's a\u2026 the spell is Glyph of Warding\u2026 You inscribe it in a particular place, and then when somebody triggers it by moving across it, it does its thing.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Underdark cavern",
+    "fact": "The Underdark cavern contains fungal growths, a gelatinous cube disguised as a rock, and a zone of Darkness placed behind the party\u2019s position as a fallback.",
+    "source_quote": "I placed a zone of Darkness behind our position \u2014 not at the entrance, not anywhere Ilvara might notice the edge of it and understand what was coming. Behind us. A fallback. A place to pull someone if the line broke.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Heart Fungus",
+    "fact": "The Heart Fungus is identified as a mushroom artifact that is not the vector of infection \u2014 the spores are Ilvara\u2019s, and the artifact is a secondary risk to be destroyed.",
+    "source_quote": "The critical detail \u2014 the Heart Fungus itself wasn't the vector. The spores were Ilvara's. The artifact was the other risk.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Spores of Ilvara",
+    "fact": "The spores of Ilvara are the true vector of fungal corruption, spreading madness and transforming allies into mindless fungal creatures.",
+    "source_quote": "The spores were Ilvara's.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Zuggtmoy's influence",
+    "fact": "Zuggtmoy\u2019s influence is perceived as a source of fungal madness capable of infecting minds and causing hallucinations of divine presence.",
+    "source_quote": "possessed by the crazed magic of Zuggtmoy? convinced of the bride's power?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara",
+    "fact": "Ilvara was once a high priestess of Lolth but has become obsessed with the idea that Lolth wishes to be married, spreading fungal corruption and turning followers into mindless fungal creatures.",
+    "source_quote": "Ilvara, who was once a high priestess of Lolth, has become seduced by this abomination, this idea that Lolth wishes to be married. There is something foul and stinking about her, and then all of those allies she seems to covet have turned into fungal creatures that are mindless.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Daz\u2019s inner state",
+    "fact": "Daz\u2019s inner state is described as having been reduced and reconstituted through a ritual involving a spider and luminous lights, culminating in the sensation of Lolth\u2019s presence within him.",
+    "source_quote": "The luminescence built. Condensed. The shape of the Spider Queen herself, reduced and reduced and *reduced* until it shrank into that small skittering body and seemed to pass directly into mine.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz claims to have convinced others to join him in his mission, implying a network of followers who believe in his divine connection.",
+    "source_quote": "I've convinced others to join me.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Lolth\u2019s gratitude",
+    "fact": "Asha Vandree offers 'the gratitude of Lolth' as a reward, which Daz claims he already feels, suggesting internalized devotion over material gain.",
+    "source_quote": "The gratitude of Lolth\u2026 I already feel the gratitude of Lolth.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Asha Vandree\u2019s mental state",
+    "fact": "Asha Vandree\u2019s mental state is shaped by paranoid devotion to Lolth, where suspicion has become its own kind of faith, causing her to reinterpret deception as divine testing.",
+    "source_quote": "the look of someone who has spent so long in paranoid devotion that suspicion has become its own kind of faith.",
+    "quote_verified": true
   }
 ]

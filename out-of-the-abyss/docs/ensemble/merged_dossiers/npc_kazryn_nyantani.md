@@ -8,22 +8,57 @@ chapters: 56-60
 ### Kazryn Nyantani
 
 **Current status:** Alive  
-**Current location:** Unknown (last seen distributing gifts at the evergreen tree in ch59; no later location specified)  
-**Allegiance/faction:** Council member (active participant in political proceedings)  
-**Current possessions / notable items:** None explicitly stated  
-**Current assignment / role:** Council member; publicly advocates for prioritizing justice (specifically, finding the murderer) over political maneuvering. Former partner and lover of Janussi.  
-**Defining recent actions:**  
-- Publicly demanded the murderer be found before any political decisions were made (ch58).  
-- Distributed Secret Santa gifts to the “great readers” under the evergreen tree, including giving Janussi his gift unwrapped (ch59).  
-- Harbors a long-standing, credible resentment toward Sylvira, stemming from being replaced by her as Janussi’s partner — a grudge Sylvira acknowledged as valid and personally guilt-laden (ch60).  
+**Current location:** Unknown (last seen distributing gifts at the evergreen tree in ch59; no later location given)  
+**Allegiance/faction:** Council member (unspecified council)  
+**Current possessions / notable items:** None explicitly stated beyond having handled Secret Santa gifts (including Janussi’s unwrapped gift)  
+**Current assignment / role:** Council member; recently acted as a pragmatic voice demanding the murderer be found first amid political chaos  
+**Key relationships:**  
+- Former romantic partner of Janussi  
+- Long-standing resentful rival of Sylvira, who was perceived as having replaced her in Janussi’s life  
+- Last seen interacting with Janussi (giving him a gift) and the “great readers”  
 
-**Revealed motivations or secrets:**  
-- Deep personal bitterness toward Sylvira, rooted in romantic betrayal and professional displacement.  
-- Resentment is deemed credible and capable of motivating action — implying potential involvement in the murder investigation, though not confirmed.  
+**Defining recent actions:**  
+- Arrived distraught at the crime scene (ch56), permitted only a doorway view of the body  
+- Demanded the murderer be found before any other political concerns (ch58)  
+- Distributed Secret Santa gifts to the great readers after Sylvira’s departure, including personally handing Janussi his unwrapped gift (ch59)  
+- Identified by Sylvira as a suspect with credible, long-standing motive rooted in romantic and academic jealousy (ch60)  
+
+**Revealed motivations / secrets:**  
+- Holds a deep, long-standing resentment toward both Janussi (for leaving her) and Sylvira (for replacing her)  
+- Sylvira explicitly implicated her as the likely perpetrator of the framing, citing emotional and personal motive  
+- Resentment is deemed credible and capable of motivating action by the narrator  
 
 ## Uncertainty
-- Kazryn’s current physical location is unknown after ch59; no later chapter confirms where they are now.  
-- It is unclear whether Kazryn is still actively serving on the council or has withdrawn since ch60.  
-- The nature of Kazryn’s “apparent capability to act on” their resentment is unspecified — no evidence of direct action, weapon possession, or access to means is provided.  
-- Contradiction in pronoun attribution: ch58 and ch59 describe Kazryn using “himself” and “took it on herself” respectively — conflicting gender references. The quote in ch58 says “Kazryn Nyantani... cutting through with first you must find the murderer” — no pronoun; ch59 explicitly uses “herself.” This creates ambiguity in gender identity or possible transcription error.  
-- Whether Kazryn is still in contact with Janussi post-gift-giving is unknown.
+- Exact current location is unknown after ch59; no confirmation of presence at later events  
+- Whether she still holds the Secret Santa gifts or any other items from that event is unspecified  
+- No confirmation of her current stance on the investigation beyond her initial demand to find the murderer — has she shifted position?  
+- Attribution of the framing act: Sylvira accuses her, but no direct evidence or confession is recorded; the facts state motive and capability, not action  
+- Whether she is still affiliated with the council or has been suspended/investigated since ch60 is unclear  
+- The nature of her “capability to act” is unspecified — is it political, magical, physical, or social?
+
+---
+
+<!-- source: npc_kazryn.md -->
+
+---
+name: Kazryn
+type: npc
+n_facts: 1
+chapters: 56-56
+---
+
+### Kazryn
+
+Current status: Alive  
+Current location: Unknown (last seen arriving at the scene of Janussi’s death)  
+Allegiance/faction: Unknown  
+Current possessions / notable items: None noted  
+Spells, feats, wounds: None noted  
+Current assignment / role: Unknown; appears to have a personal connection to Janussi  
+Defining recent action: Arrived at the scene of Janussi’s death, weeping, and requested to view the body without disturbing the scene.  
+
+## Uncertainty
+- Kazryn’s current location after arriving at the scene is unknown.  
+- The nature of her personal connection to Janussi is not specified (e.g., relative, lover, ally).  
+- Her allegiance, occupation, or current role are not stated.  
+- It is unclear whether she remains at the scene or has departed.

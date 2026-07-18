@@ -7,16 +7,16 @@ chapters: 19-19
 
 ### Clan Steelshadow
 
-**Current status:** Active and favored faction.  
-**Current location:** Unspecified, but operates under direct command of the Deepking within the Duergar realm.  
-**Allegiance/faction:** Loyal to the Deepking; serves as the royal weaponsmithing monopoly.  
+**Current status:** Active and privileged faction.  
+**Current location:** Unspecified, but operating under direct authority of the Deepking in the Duergar underkingdom.  
+**Allegiance/faction:** Loyal to the Deepking; the Deepking’s exclusive weaponsmithing clan.  
 **Current possessions / notable items, spells, feats, wounds:** None specified.  
-**Current assignment / role and key relationships:** Exclusive producer and distributor of arms by royal decree; receives all military and logistical orders directly from the Deepking.  
-**Defining recent actions:** Maintaining arms production under direct royal command; serving as the central pillar of Duergar military infrastructure.  
-**Revealed motivations or secrets:** None explicitly stated beyond structural role; perceived as corrupt by rival clans (Clan Ironhead, Clan Xardelva), making it a focal point for rebellion.
+**Current assignment / role and key relationships:** Exclusive right to produce and distribute all arms by royal decree; receives all military and logistical orders directly from the Deepking.  
+**Defining recent actions:** Maintaining monopoly on arms production; serving as the primary supplier for the Deepking’s forces.  
+**Revealed motivations or secrets:** None explicitly stated beyond structural role; perceived as corrupt by rival clans, making it a focal point for rebellion.
 
 ## Uncertainty
-- Exact physical location of Clan Steelshadow’s forges or headquarters is unspecified.  
-- Whether Clan Steelshadow has suffered any losses, defections, or internal strife since the Deepking’s orders began is unknown.  
-- The nature of “all orders” (e.g., quantity, type, urgency) is not detailed.  
-- No confirmation whether Clan Ironhead or Clan Xardelva have taken active hostile action against them recently.
+- The physical location of Clan Steelshadow’s forge or stronghold is not specified.  
+- The current status of rival clans (Clan Ironhead, Clan Xardelva) — whether they are actively rebelling, suppressed, or merely resentful — is not confirmed.  
+- It is unclear whether “all orders” refers only to arms production directives or includes broader military, political, or logistical commands.  
+- No information is given on leadership, membership size, or internal structure of the clan.

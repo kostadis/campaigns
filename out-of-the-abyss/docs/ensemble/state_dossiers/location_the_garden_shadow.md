@@ -1,20 +1,19 @@
 ---
 name: The Garden Shadow
 type: location
-n_facts: 3
-chapters: 53-57
+n_facts: 2
+chapters: 53-53
 ---
 
 ### The Garden Shadow
 
-A philosophical tradition or institution associated with aphorisms on social authority, power dynamics, and absence. It informs Zalthir’s perception of threats and his readiness to act decisively. Known sayings include:  
-- “The most dangerous person in a room isn't the one with the blade drawn.”  
-- “A room tells you most by what it is missing.”  
-
-These sayings are attributed either to the tradition itself or to its instructors, Brother Quellin (dusty robes) and Brother Tharusk (tall, always smelled of incense).
+- **Type**: Location (or possibly a group/philosophical school tied to a place)  
+- **Current state**: Active as a referenced source of philosophical teachings on social authority and psychological pressure points.  
+- **Key association**: Credited with the saying: *“The most dangerous person in a room isn't the one with the blade drawn. It's the one who has already decided they've won.”*  
+- **Notable connection**: The saying is attributed to “The Garden Shadow,” though with ambiguity — it is also suggested that Brother Quellin may have originated it.  
+- **Current role**: A referenced ideological framework used in analyses of power dynamics, particularly in leadership claims (e.g., Asha Vandree’s).  
 
 ## Uncertainty
-- Unclear whether The Garden Shadow is a physical location, an organization, or a metaphorical tradition — the facts never specify its physical form or structure.  
-- Ambiguous attribution: Sayings are presented as possibly originating from Brother Quellin or Brother Tharusk rather than the institution itself; cannot determine if the sayings are core tenets or individual teachings.  
-- No current location, control, or operational status is given — the entity’s present physical or institutional state is unknown.  
-- Cannot confirm if Brother Quellin or Brother Tharusk are still active members, alive, or affiliated with The Garden Shadow in the present.
+- Is The Garden Shadow a physical location, a secret society, a school of thought, or a metaphorical term? The facts do not clarify.  
+- Is the saying truly from The Garden Shadow, or did Brother Quellin originate it? The text explicitly states “or possibly Brother Quellin did,” creating unresolved attribution.  
+- Is The Garden Shadow currently active, abandoned, or dispersed? No current state of operation or physical presence is described.

@@ -1,170 +1,134 @@
 [
   {
     "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is currently in Deneir's Sanctum under guard, having successfully stolen the potion of flying using Glabbagool's arm, and is silently observing the group's dynamics with detached calculation.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is Zalthir's ooze-covered arm that autonomously stole the potion of flying from the safe; it is now possessing the vial and has expressed satisfaction with its performance, though it has not yet been formally trained.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
     "subject": "Kalan Strongbranch",
-    "fact": "Kalan Strongbranch is in charge of guarding the safe, full of himself and his methodology, and has been reassigned to escort prisoners to Deneir's Sanctum.",
-    "source_quote": "I will ask him to escort you to Deneir's Sanctum, where you will wait until later this evening, then be escorted to your chambers.",
+    "fact": "Kalan Strongbranch is in charge of guarding the Alkrist safe and now Deneir's Sanctum; he is obsessed with procedure and has been elevated to a position of false authority, unaware that the potion of flying has been stolen.",
     "quote_verified": false
   },
   {
     "type": "npc",
-    "subject": "Alkrist",
-    "fact": "Alkrist is imprisoned and under secure confinement, but no evidence implicates him in any crime, and the group has stopped looking at the safe and started looking at each other.",
-    "source_quote": "Nothing else in there implicated Alkrist of anything.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Thorin",
-    "fact": "Thorin is observant, cynical, and prone to quips; he recognizes the value of the potion of flying and the red herring coin, and comments on the grift with approval.",
-    "source_quote": "Never miss an opportunity to grift, man.",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm is the leader of the Avowed who declared the safe of no further interest; she is weary of the spectacle and has ordered the group to be escorted to their chambers, unaware that the potion of flying has been removed.",
     "quote_verified": false
   },
   {
     "type": "npc",
-    "subject": "Daz",
-    "fact": "Daz is pragmatic and observant; he notes the red herring coin and suggests a taster for the food, accepting the new best practice without hesitation.",
-    "source_quote": "I'd say 118.",
+    "subject": "Fembris Lancer",
+    "fact": "Fembris Lancer is imprisoned in Deneir's Sanctum and serves as an unwilling companion to the escapees; he is trusted by no one but eats without suspicion, making him the group's designated food taster.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Daral",
-    "fact": "Daral has stopped bragging and is now complimenting the party, a sign of surrender; he seeks a cure for himself but fears being deemed unworthy.",
-    "source_quote": "Are you guys going to cure me or anything?",
-    "quote_verified": true
+    "fact": "Daral is an escapee who has shifted from arrogance to quiet desperation, now openly pleading for his own cure while internally fearing he is not worth the spell.",
+    "quote_verified": false
   },
   {
     "type": "npc",
-    "subject": "Fembris Lancer",
-    "fact": "Fembris Lancer is serving penance by keeping the group company in Deneir's Sanctum; he is trusting, unguarded, and unwittingly serves as the food taster.",
-    "source_quote": "come, come, come, already reaching, all appetite and no suspicion.",
-    "quote_verified": true
+    "subject": "Thorin",
+    "fact": "Thorin is an escapee who speaks with irreverent pragmatism; he initiated the food taster protocol and questions whether Daral should be cured, reflecting the group's moral ambiguity.",
+    "quote_verified": false
   },
   {
     "type": "npc",
-    "subject": "Bookwyrm",
-    "fact": "Bookwyrm is weary of the spectacle, dismissive of the safe's contents, and has ordered the group confined to Deneir's Sanctum while she exits the scene.",
-    "source_quote": "The spectacle had gone on long enough.",
+    "subject": "Daz",
+    "fact": "Daz is an escapee who communicates in cryptic numerical shorthand; he suggested Fembris as taster using '118' and remains undecided on whether to cure Daral, embodying cautious deliberation.",
     "quote_verified": false
   },
   {
     "type": "faction",
     "subject": "The Avowed",
-    "fact": "The Avowed believe they have won, have sealed the safe as irrelevant, and have shifted focus from evidence to internal politics; their procedure and hierarchy are now their only remaining anchors.",
-    "source_quote": "The Avowed had all decided they'd won.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "safe opening",
-    "fact": "The safe was opened by an unknown mechanism; inside were found a potion of flying, a potion of superior healing, a fat purse of gold, and one red-herring-stamped coin \u2014 none of which were traced to Alkrist.",
-    "source_quote": "It was not a letdown. A potion of flying. A potion of superior healing. A fat purse of gold coins... And one coin that did not match the rest.",
+    "fact": "The Avowed are a scholarly order that opened the Alkrist safe and now oversee the detention of escapees; they have concluded their investigation prematurely, sealing the safe and assigning Kalan to guard duty, unaware of the theft.",
     "quote_verified": false
   },
   {
     "type": "event",
-    "subject": "food taster selection",
-    "fact": "The group decided to use Fembris Lancer as a voluntary food taster, establishing a new best practice; he ate without consequence, validating the method.",
-    "source_quote": "Yeah, and that's a new best practice.",
+    "subject": "theft of the potion of flying",
+    "fact": "The potion of flying was stolen from the Alkrist safe by Glabbagool's arm while the Avowed were distracted by the red herring coin; no one noticed, and the safe was resealed with everything else inside.",
     "quote_verified": false
   },
   {
     "type": "event",
-    "subject": "potion theft",
-    "fact": "The potion of flying was stolen by Glabbagool\u2019s arm while everyone was distracted by the safe\u2019s contents and their own concerns; no one noticed or turned.",
-    "source_quote": "Glabbagool's arm came out low and quiet... and no one turned. Not one head.",
+    "subject": "food taster protocol",
+    "fact": "The group established an informal food taster protocol using Fembris Lancer, with Daz's '118' signaling his selection; he ate without harm, reinforcing the group's survivalist pragmatism.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Deneir's Sanctum",
+    "fact": "Deneir's Sanctum is a former office filled with books and scholarly artifacts, now used as a holding cell; it is under guard and has become the site of moral deliberation and quiet theft.",
     "quote_verified": false
   },
   {
     "type": "object",
     "subject": "potion of flying",
-    "fact": "A potent magical item, stolen from the safe by Glabbagool\u2019s arm; now hidden in the ooze at the narrator's side, unmissed by all.",
-    "source_quote": "The potion of flying went with us, in the bag, in the ooze, and no one in that room would ever know to miss it.",
-    "quote_verified": true
+    "fact": "The potion of flying was one of two magical potions recovered from the Alkrist safe; it was stolen by Glabbagool's arm and is now hidden in Zalthir's ooze, undetected by all present.",
+    "quote_verified": false
   },
   {
     "type": "object",
     "subject": "potion of superior healing",
-    "fact": "A magical healing potion recovered from the safe; still inside the sealed container and unclaimed by the group.",
-    "source_quote": "The safe was closed with everything still inside \u2014 the gold, the herring, the healing...",
+    "fact": "The potion of superior healing was recovered from the Alkrist safe alongside the potion of flying; it remains in the safe, which was resealed and declared of no interest.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "fat purse of gold coins",
+    "fact": "A fat purse of gold coins was recovered from the Alkrist safe; it remains inside the safe, which was resealed and declared of no interest.",
     "quote_verified": false
   },
   {
     "type": "object",
     "subject": "red herring coin",
-    "fact": "A single gold coin stamped with a red herring; a humorous but deliberate clue left by the safe\u2019s builder, signaling nothing was hidden \u2014 and yet, everything was.",
-    "source_quote": "One of the gold coins had a herring stamped on it, and the herring was red.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "fat purse of gold coins",
-    "fact": "A heavy bag of gold, more than an honest man would keep; still sealed in the safe, unclaimed, and forgotten.",
-    "source_quote": "A fat purse of gold coins, more than a man keeps for honest reasons.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "Deneir's Sanctum",
-    "fact": "Deneir's Sanctum is a book-filled office repurposed as a holding cell; under guard, with Fembris Lancer as an unwilling companion, and the group now waiting for their next move.",
-    "source_quote": "They put us in Deneir's office to wait out the evening.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "the safe",
-    "fact": "The safe, once the focus of the Avowed\u2019s attention, is now sealed and forgotten; its contents remain inside, unexamined, and the group has turned away from it entirely.",
-    "source_quote": "They closed the safe with everything still inside... and declared it of no interest.",
+    "fact": "One gold coin from the Alkrist safe had a red herring stamped on it; it was used as a red herring to distract the Avowed, and remains in the sealed safe.",
     "quote_verified": false
   },
   {
     "type": "thread",
-    "subject": "cure for Daral",
-    "fact": "The group has not yet decided whether to cure Daral; the question lingers, weighted by fear, duty, and the unspoken cost of magic.",
-    "source_quote": "What do you guys think? Should we cure him?",
+    "subject": "Daral's cure",
+    "fact": "Whether to cure Daral of his condition remains unresolved; the group is divided, and the decision is delayed, reflecting their moral fatigue and uncertainty about value and loyalty.",
     "quote_verified": false
   },
   {
     "type": "thread",
-    "subject": "locate the sapphire",
-    "fact": "The narrator attempted to locate a sapphire on Bookwyrm but found nothing; the spell\u2019s failure implies either the gem was never there, or it has been concealed beyond detection.",
-    "source_quote": "I reached out with the spell and found nothing where the sapphire should have been.",
-    "quote_verified": true
+    "subject": "location of the sapphire",
+    "fact": "Zalthir attempted to locate a sapphire on Bookwyrm using a spell and found nothing; its absence suggests it was never there or has been removed, leaving its whereabouts unknown.",
+    "quote_verified": false
   },
   {
     "type": "thread",
-    "subject": "Glabbagool\u2019s arm",
-    "fact": "Glabbagool\u2019s arm has demonstrated autonomous, stealthy capability; the narrator has not trained it, yet it acted with perfect precision \u2014 raising questions about its origin and potential.",
-    "source_quote": "Glabbagool's arm came out low and quiet, the way I'd have wanted it if I'd trained him for it, which I had not, not yet.",
-    "quote_verified": true
+    "subject": "Glabbagool's autonomy",
+    "fact": "Glabbagool's arm acted without instruction to steal the potion of flying; its capacity for independent action is untrained and unexplained, raising questions about its origin and future behavior.",
+    "quote_verified": false
   },
   {
-    "type": "thread",
-    "subject": "the safe\u2019s builder",
-    "fact": "The builder of the safe left a red herring coin as a joke \u2014 a sign of humor and openness \u2014 yet the theft of the potion suggests the joke was a trap, or a distraction.",
-    "source_quote": "It was the kind of joke that tells you the man who built the safe had a sense of humor and nothing to hide \u2014 which is its own kind of tell.",
-    "quote_verified": true
+    "type": "date",
+    "subject": "evening in Deneir's Sanctum",
+    "fact": "The events in Deneir's Sanctum occur during the evening hours, following the opening of the safe; the group waits until later this evening before being escorted to their chambers.",
+    "quote_verified": false
   },
   {
     "type": "monster",
-    "subject": "Glabbagool\u2019s arm",
-    "fact": "Glabbagool\u2019s arm is an anomalous, semi-autonomous ooze appendage capable of stealthy theft and precise movement; it is not a summoned creature, nor a trained tool, but something else entirely.",
-    "source_quote": "Glabbagool's arm came out low and quiet... and no one turned.",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is an ooze-like entity fused to Zalthir's arm; it demonstrated autonomous predatory behavior by stealing the potion of flying and is now a latent threat with unknown capabilities.",
     "quote_verified": false
   },
   {
-    "type": "date",
-    "subject": "ninth hour",
-    "fact": "Daral\u2019s plea for a cure occurs around the ninth hour of the evening, marking a turning point in the group\u2019s internal dynamics.",
-    "source_quote": "Around the ninth hour Daral remembered his own problem.",
-    "quote_verified": true
-  },
-  {
-    "type": "date",
-    "subject": "later this evening",
-    "fact": "Bookwyrm has scheduled the group\u2019s transfer to their chambers for later this evening, implying a pending event or ritual yet to be revealed.",
-    "source_quote": "then be escorted to your chambers.",
-    "quote_verified": true
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is the silent architect of the theft; he allowed the group\u2019s chaos to mask his move, and now carries the potion of flying without detection, his internal monologue revealing a mind that trusts only his own precision.",
+    "quote_verified": false
   }
 ]

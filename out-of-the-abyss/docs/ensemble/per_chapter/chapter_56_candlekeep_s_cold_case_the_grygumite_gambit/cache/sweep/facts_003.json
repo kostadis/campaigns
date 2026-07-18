@@ -1,338 +1,219 @@
 [
   {
     "type": "npc",
-    "subject": "Janussi",
-    "fact": "Janussi was found dead with his rib cage caved in and his heart missing.",
-    "source_quote": "The body was near the desk. Janussi \u2014 around seventy, white robes, vacant eyes aimed at nothing. The robes were soaked dark around the torso. His rib cage had been caved in. There was a hollow in his chest where something used to be.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "A'lai Aivenmore",
-    "fact": "A'lai Aivenmore found Janussi's body alongside Miss Hollypocket around half past seven in the morning.",
-    "source_quote": "Janussi found dead by the Great Reader A'lai Aivenmore and the housekeeper, one Miss Hollypocket, around half past seven in the morning.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Miss Hollypocket",
-    "fact": "Miss Hollypocket discovered Janussi's body and would never allow candles to burn down to nothing.",
-    "source_quote": "Janussi found dead by the Great Reader A'lai Aivenmore and the housekeeper, one Miss Hollypocket, around half past seven in the morning. Miss Hollypocket would never have allowed the Keeper to let candles burn down to nothing.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Kazryn Nyantani",
-    "fact": "Kazryn Nyantani arrived shortly after eight, distraught, and was allowed to see the body only from the doorway.",
-    "source_quote": "Then: Kazryn Nyantani, distraught, shortly after eight \u2014 allowed to see the body but only from the doorway.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Fheminor Scrivenbark",
-    "fact": "Fheminor Scrivenbark arrived at half past eight, appeared shocked, and wanted to inspect the chamber but was turned away.",
-    "source_quote": "Fheminor Scrivenbark at half past eight, appearing shocked, wanting to inspect the chamber, turned away.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Bookwyrm",
-    "fact": "Bookwyrm arrived at nine from the baths, took a brief look, and confirmed the existing orders.",
-    "source_quote": "Bookwyrm at nine, arriving from the baths, allowed a brief look before confirming the existing orders.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Kalan",
-    "fact": "Kalan was the previous guard who was relieved before the investigators arrived.",
-    "source_quote": "Bookwyrm told him Kalan had been relieved and that the four of us would be taking over.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Gate Warden",
-    "fact": "The Gate Warden arrived at eleven for a full inspection and left looking more determined than when he entered.",
-    "source_quote": "The Gate Warden again at eleven, alone, for a full inspection \u2014 careful, deliberate, left to make his report to the Council.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Tadric",
-    "fact": "Tadric was guarding the door and responsible for crowd control, not observation.",
-    "source_quote": "Tadric was guarding the door: short, human, young, bowl-cut hair, the look of someone who takes his post seriously and is currently experiencing the professional anxiety of having his post become considerably more significant than expected.",
+    "subject": "Daz",
+    "fact": "Daz says, 'Investigating,' I said, keeping my voice even, 'part of investigating is getting input from everybody we talk to.'",
+    "source_quote": "I don't want to prejudice your investigation. I'm sure if you examine the evidence\u2014",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Thorin",
-    "fact": "Thorin asked about the timeline and noted the Gate Warden\u2019s demeanor after his inspection.",
-    "source_quote": "I asked. 'Did it look like he discovered something?' About the gate warden. 'He definitely looked more determined after he walked out.'",
-    "quote_verified": false
+    "fact": "Thorin says, 'But your testimony is evidence.' A beat. 'Maybe you are evidence, and we should examine you.'",
+    "source_quote": "No, no, I don't want to prejudice! I'm sure if you examine the evidence.",
+    "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Zalthir",
-    "fact": "Zalthir observed that the rib cage had been smashed by multiple blows with something like an axe and noted the blood pattern suggested death preceded the chest opening.",
-    "source_quote": "Zalthir looked more carefully than I did. He's better at the precise reading of things \u2014 the monk's eye for controlled force. His verdict: the rib cage had been smashed by something like an axe, multiple blows, close together, deliberate. The heart was missing. No other organs. And the blood was localized.",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm says, 'Nobody had been able to conclusively prove the cat was some kind of power that lived here, and nobody had been able to conclusively prove that it was not.'",
+    "source_quote": "nobody had been able to conclusively prove the cat was some kind of power that lived here, and nobody had been able to conclusively prove that it was not",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Fembris",
-    "fact": "Fembris vomited after seeing the body and retreated outside.",
-    "source_quote": "Fembris took one look at the body, crossed the room in four steps, flung a window open, and vomited out of it.",
+    "fact": "Fembris says, 'These Avowed had taken a cat sitting wherever it liked and turned it into an interstellar, interspatial, interdimensional horror \u2014 that's just what cats do.'",
+    "source_quote": "these Avowed had taken a cat sitting wherever it liked and turned it into an interstellar, interspatial, interdimensional horror \u2014 that's just what cats do",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum identified that the heart was removed to prevent resurrection.",
-    "source_quote": "Grygum named the precaution out loud, and once he said it I couldn't believe I hadn't thought of it first: you can't bring someone back from death by ritual if their vital organs aren't present.",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, very quietly, 'Is it?'",
+    "source_quote": "Is it?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Tadric",
+    "fact": "Tadric says, 'My assignment had been crowd control. Not observation.'",
+    "source_quote": "My assignment had been crowd control. Not observation.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Tadric",
+    "fact": "Tadric says, 'Kalan looked more determined coming out than going in.'",
+    "source_quote": "Kalan looked more determined coming out than going in.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Tadric",
+    "fact": "Tadric says, 'The dead had not spoken.'",
+    "source_quote": "The dead had not spoken.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Tadric",
+    "fact": "Tadric says, 'Miss Hollypocket would never have allowed the Keeper to let candles burn down to nothing.'",
+    "source_quote": "Miss Hollypocket would never have allowed the Keeper to let candles burn down to nothing.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "tower interior",
+    "fact": "The staircase spiraled up through the tower's interior \u2014 reception chamber at the first landing, a shrine of Oghma at the second, a large apartment at the third with its door left conspicuously ajar.",
+    "source_quote": "The staircase spiraled up through the tower's interior \u2014 reception chamber at the first landing, a shrine of Oghma at the second, a large apartment at the third with its door left conspicuously ajar.",
     "quote_verified": true
   },
   {
     "type": "location",
     "subject": "Keeper's Chambers",
-    "fact": "The Keeper's Chambers are circular, ringed with lancet windows, and contain a desk, a toppled chair, a marble statue and pedestal on the floor, a seven-armed bronze candelabra with burned-down candles, a safe with scattered blue gems and empty pouches, a spellbook titled The Discoveries, a pile of notes in midnight blue and purple ink, a quill with midnight blue ink on the floor, and a wicker basket with a damp linen ink carrier.",
-    "source_quote": "The room was circular, ringed with lancet windows, full of pale morning light that had gone slightly yellow and hazy from something I placed almost immediately: tobacco smoke. The body was near the desk... The safe on the far wall had been opened. Blue gems and empty pouches scattered on the floor in front of it... The desk was neatly kept... The chair near it was toppled. The marble statue and its pedestal were on the floor. The candelabra \u2014 seven arms, bronze \u2014 had burned its candles entirely to wax puddles. A spellbook sat open in the center of the desk: The Discoveries. To one side, notes in Celestial... To the other side, a larger pile of notes pinned under a quartz weight, with more annotations on top in midnight blue ink \u2014 and below those, older notes in purple... A quill on the floor. Nib covered in midnight blue. A wicker basket nearby holding a linen ink carrier, slightly damp...",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "third floor apartment",
-    "fact": "The third floor apartment had its door left conspicuously ajar.",
-    "source_quote": "a large apartment at the third with its door left conspicuously ajar. I noted the apartment. Noted that the door was open. Filed it for later.",
+    "fact": "The room was circular, ringed with lancet windows, full of pale morning light that had gone slightly yellow and hazy from something I placed almost immediately: tobacco smoke. Lingering. The windows were shut.",
+    "source_quote": "The room was circular, ringed with lancet windows, full of pale morning light that had gone slightly yellow and hazy from something I placed almost immediately: tobacco smoke. Lingering. The windows were shut.",
     "quote_verified": true
   },
   {
     "type": "location",
-    "subject": "reception chamber",
-    "fact": "The reception chamber is located at the first landing of the tower.",
-    "source_quote": "The staircase spiraled up through the tower's interior \u2014 reception chamber at the first landing, a shrine of Oghma at the second, a large apartment at the third...",
-    "quote_verified": false
+    "subject": "Keeper's Chambers",
+    "fact": "The safe on the far wall had been opened. Blue gems and empty pouches scattered on the floor in front of it.",
+    "source_quote": "The safe on the far wall had been opened. Blue gems and empty pouches scattered on the floor in front of it.",
+    "quote_verified": true
   },
   {
     "type": "location",
-    "subject": "shrine of Oghma",
-    "fact": "The shrine of Oghma is located at the second landing of the tower.",
-    "source_quote": "The staircase spiraled up through the tower's interior \u2014 reception chamber at the first landing, a shrine of Oghma at the second, a large apartment at the third...",
-    "quote_verified": false
+    "subject": "Keeper's Chambers",
+    "fact": "The desk was neatly kept, which was itself a data point. The chair near it was toppled. The marble statue and its pedestal were on the floor. The candelabra \u2014 seven arms, bronze \u2014 had burned its candles entirely to wax puddles.",
+    "source_quote": "The desk was neatly kept, which was itself a data point. The chair near it was toppled. The marble statue and its pedestal were on the floor. The candelabra \u2014 seven arms, bronze \u2014 had burned its candles entirely to wax puddles.",
+    "quote_verified": true
   },
   {
     "type": "object",
-    "subject": "The Discoveries",
-    "fact": "The spellbook titled The Discoveries was open on the desk in the Keeper's Chambers.",
+    "subject": "spellbook",
+    "fact": "A spellbook sat open in the center of the desk: The Discoveries.",
     "source_quote": "A spellbook sat open in the center of the desk: The Discoveries.",
     "quote_verified": true
   },
   {
     "type": "object",
-    "subject": "The Golden Ass",
-    "fact": "The Golden Ass was the book Janussi was annotating in midnight blue ink, but it was missing from the room.",
-    "source_quote": "The book the blue ink was annotating \u2014 The Golden Ass \u2014 wasn't in the room.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "quartz weight",
-    "fact": "A quartz weight was used to pin down a pile of notes in the Keeper's Chambers.",
-    "source_quote": "a larger pile of notes pinned under a quartz weight, with more annotations on top in midnight blue ink",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "quill",
-    "fact": "A quill with a nib covered in midnight blue ink was found on the floor near the desk.",
-    "source_quote": "A quill on the floor. Nib covered in midnight blue.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "wicker basket",
-    "fact": "A wicker basket containing a damp linen ink carrier was found near the desk.",
-    "source_quote": "A wicker basket nearby holding a linen ink carrier, slightly damp, which had been the vessel for the ink now pooling from the spilled pot.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "seven-armed bronze candelabra",
-    "fact": "A seven-armed bronze candelabra had burned its candles entirely to wax puddles in the Keeper's Chambers.",
-    "source_quote": "The candelabra \u2014 seven arms, bronze \u2014 had burned its candles entirely to wax puddles.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "blue gems",
-    "fact": "Blue gems were scattered on the floor in front of the opened safe in the Keeper's Chambers.",
-    "source_quote": "Blue gems and empty pouches scattered on the floor in front of it.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "empty pouches",
-    "fact": "Empty pouches were scattered on the floor in front of the opened safe in the Keeper's Chambers.",
-    "source_quote": "Blue gems and empty pouches scattered on the floor in front of it.",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "cat",
-    "fact": "A gray cat with yellow eyes was observed on the stairs between floors and was described as possibly a familiar, shapeshifter, or supernatural entity.",
-    "source_quote": "We found the cat on the stairs between floors. Gray. Motionless. Yellow eyes that opened the moment we got close.",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "cat",
-    "fact": "The cat was noted to have moved through the tower multiple times and preferred not to think about why.",
-    "source_quote": "Bookwyrm stepped around her. She had clearly done this many times. She preferred not to think about why.",
-    "quote_verified": true
-  },
-  {
-    "type": "faction",
-    "subject": "Avowed",
-    "fact": "The Avowed are a group that Fembris accuses of turning a mundane cat into an interdimensional horror.",
-    "source_quote": "Fembris had been quietly bursting since the second landing... announced that these Avowed had taken a cat sitting wherever it liked and turned it into an interstellar, interspatial, interdimensional horror",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Gate Warden's inspection",
-    "fact": "The Gate Warden performed the 'speak with the dead' rite on Janussi's corpse during his inspection.",
-    "source_quote": "The dead had not spoken. Someone \u2014 presumably the Gate Warden, before his removal \u2014 had already used the rite on the corpse",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "candles burning out",
-    "fact": "The seven-armed bronze candelabra burned its candles entirely to wax puddles, indicating the body had been dead for hours before discovery.",
-    "source_quote": "The candelabra \u2014 seven arms, bronze \u2014 had burned its candles entirely to wax puddles.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "ink pot spilled",
-    "fact": "An ink pot was knocked over, spilling midnight blue ink onto the desk and floor, and neither the quill nor the ink had been moved since.",
-    "source_quote": "The quill had gone with it. Neither the ink nor the quill had been moved since.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "safe opened",
-    "fact": "The safe on the far wall of the Keeper's Chambers had been opened and blue gems and empty pouches were scattered in front of it.",
-    "source_quote": "The safe on the far wall had been opened. Blue gems and empty pouches scattered on the floor in front of it.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "window opened",
-    "fact": "Fembris flung a window open to vomit, causing a gust of wind through the room.",
-    "source_quote": "Fembris took one look at the body, crossed the room in four steps, flung a window open, and vomited out of it.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "heart removal to prevent resurrection",
-    "fact": "The removal of Janussi's heart was deliberate to prevent resurrection rituals from working.",
-    "source_quote": "Grygum named the precaution out loud, and once he said it I couldn't believe I hadn't thought of it first: you can't bring someone back from death by ritual if their vital organs aren't present.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "tobacco smoke lingering",
-    "fact": "Lingering tobacco smoke in the sealed Keeper's Chambers indicated the murder occurred hours before discovery.",
-    "source_quote": "The windows were shut. Nobody had been smoking recently. The smoke was old. ... Nobody smokes in a sealed room and leaves smoke that lingers for hours unless the room has been sealed for hours.",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "door left ajar on third floor",
-    "fact": "The door to the third floor apartment was left conspicuously ajar, suggesting deliberate access or a distraction.",
-    "source_quote": "a large apartment at the third with its door left conspicuously ajar. I noted the apartment. Noted that the door was open. Filed it for later.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "Gate Warden removed before questioning",
-    "fact": "The Gate Warden was removed from his position before being questioned about what he found during his inspection.",
-    "source_quote": "The Gate Warden again at eleven, alone, for a full inspection \u2014 careful, deliberate, left to make his report to the Council.",
-    "quote_verified": true
-  },
-  {
-    "type": "date",
-    "subject": "half past seven in the morning",
-    "fact": "Janussi was found dead at half past seven in the morning by A'lai Aivenmore and Miss Hollypocket.",
-    "source_quote": "Janussi found dead by the Great Reader A'lai Aivenmore and the housekeeper, one Miss Hollypocket, around half past seven in the morning.",
-    "quote_verified": true
-  },
-  {
-    "type": "date",
-    "subject": "eight",
-    "fact": "Tadric and the Gate Warden arrived at eight.",
-    "source_quote": "Gate Warden arrived with Tadric around eight, having spoken briefly with both discoverers.",
-    "quote_verified": true
-  },
-  {
-    "type": "date",
-    "subject": "half past eight",
-    "fact": "Fheminor Scrivenbark arrived at half past eight.",
-    "source_quote": "Fheminor Scrivenbark at half past eight, appearing shocked, wanting to inspect the chamber, turned away.",
-    "quote_verified": true
-  },
-  {
-    "type": "date",
-    "subject": "nine",
-    "fact": "Bookwyrm arrived at nine from the baths.",
-    "source_quote": "Bookwyrm at nine, arriving from the baths, allowed a brief look before confirming the existing orders.",
-    "quote_verified": true
-  },
-  {
-    "type": "date",
-    "subject": "eleven",
-    "fact": "The Gate Warden returned alone at eleven for a full inspection.",
-    "source_quote": "The Gate Warden again at eleven, alone, for a full inspection \u2014 careful, deliberate, left to make his report to the Council.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Oghma",
-    "fact": "Oghma is the deity of knowledge and learning, honored in a shrine on the second landing of the tower.",
-    "source_quote": "a shrine of Oghma at the second",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "Celestial notes",
-    "fact": "Notes in Celestial script were found on the desk, likely Janussi's academic musings on unfamiliar workings.",
+    "subject": "notes",
+    "fact": "To one side, notes in Celestial, generic academic work, someone musing on unfamiliar workings and how they might be performed.",
     "source_quote": "To one side, notes in Celestial, generic academic work, someone musing on unfamiliar workings and how they might be performed.",
     "quote_verified": true
   },
   {
     "type": "object",
-    "subject": "midnight blue ink",
-    "fact": "Midnight blue ink was used for the most recent annotations on Janussi\u2019s notes, indicating recent activity before his death.",
-    "source_quote": "a larger pile of notes pinned under a quartz weight, with more annotations on top in midnight blue ink \u2014 and below those, older notes in purple.",
+    "subject": "notes",
+    "fact": "To the other side, a larger pile of notes pinned under a quartz weight, with more annotations on top in midnight blue ink \u2014 and below those, older notes in purple.",
+    "source_quote": "To the other side, a larger pile of notes pinned under a quartz weight, with more annotations on top in midnight blue ink \u2014 and below those, older notes in purple.",
     "quote_verified": true
   },
   {
     "type": "object",
-    "subject": "purple ink",
-    "fact": "Purple ink was used for older notes on Janussi\u2019s desk, predating the recent midnight blue annotations.",
-    "source_quote": "a larger pile of notes pinned under a quartz weight, with more annotations on top in midnight blue ink \u2014 and below those, older notes in purple.",
+    "subject": "quill",
+    "fact": "A quill on the floor. Nib covered in midnight blue.",
+    "source_quote": "A quill on the floor. Nib covered in midnight blue.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "ink carrier",
+    "fact": "A wicker basket nearby holding a linen ink carrier, slightly damp, which had been the vessel for the ink now pooling from the spilled pot.",
+    "source_quote": "A wicker basket nearby holding a linen ink carrier, slightly damp, which had been the vessel for the ink now pooling from the spilled pot.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "The Golden Ass",
+    "fact": "The book the blue ink was annotating \u2014 The Golden Ass \u2014 wasn't in the room.",
+    "source_quote": "The book the blue ink was annotating \u2014 The Golden Ass \u2014 wasn't in the room.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "candelabra",
+    "fact": "The candelabra \u2014 seven arms, bronze \u2014 had burned its candles entirely to wax puddles.",
+    "source_quote": "The candelabra \u2014 seven arms, bronze \u2014 had burned its candles entirely to wax puddles.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "Bookwyrm's departure",
-    "fact": "Bookwyrm departed for other business after instructing the team to report back and remove nothing from the room.",
-    "source_quote": "Then she turned on her heel: report back as soon as we were done. Remove nothing from the room. She departed for other business.",
+    "subject": "gate warden's inspection",
+    "fact": "The Gate Warden returned at eleven, alone, for a full inspection \u2014 careful, deliberate, left to make his report to the Council.",
+    "source_quote": "The Gate Warden again at eleven, alone, for a full inspection \u2014 careful, deliberate, left to make his report to the Council.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "Tadric's realization",
-    "fact": "Tadric realized his role as crowd control was insufficient for the investigation's needs.",
-    "source_quote": "He heard himself say it. The realization landed on his face. He should have been doing both.",
+    "subject": "death of Janussi",
+    "fact": "Janussi was found dead by the Great Reader A'lai Aivenmore and the housekeeper, one Miss Hollypocket, around half past seven in the morning.",
+    "source_quote": "Janussi found dead by the Great Reader A'lai Aivenmore and the housekeeper, one Miss Hollypocket, around half past seven in the morning.",
     "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "ritual attempt on corpse",
+    "fact": "The dead had not spoken. Someone \u2014 presumably the Gate Warden, before his removal \u2014 had already used the rite on the corpse, which meant we'd be waiting if we wanted to try again.",
+    "source_quote": "The dead had not spoken. Someone \u2014 presumably the Gate Warden, before his removal \u2014 had already used the rite on the corpse, which meant we'd be waiting if we wanted to try again.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "candle burning",
+    "fact": "The candles told the same story. I said it out loud: 'That tells me that it had been some time since he was murdered, because there was enough time for the candle to burn out.'",
+    "source_quote": "The candles told the same story. I said it out loud: 'That tells me that it had been some time since he was murdered, because there was enough time for the candle to burn out.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "rib cage damage",
+    "fact": "The rib cage had been smashed by something like an axe, multiple blows, close together, deliberate. The heart was missing. No other organs.",
+    "source_quote": "The rib cage had been smashed by something like an axe, multiple blows, close together, deliberate. The heart was missing. No other organs.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "heart removal",
+    "fact": "The missing heart wasn't the cause of death. It was a message. Or a precaution.",
+    "source_quote": "The missing heart wasn't the cause of death. It was a message. Or a precaution.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "resurrection prevention",
+    "fact": "You can't bring someone back from death by ritual if their vital organs aren't present. Whoever took the heart wasn't souvenir-collecting. They were preventing resurrection.",
+    "source_quote": "You can't bring someone back from death by ritual if their vital organs aren't present. Whoever took the heart wasn't souvenir-collecting. They were preventing resurrection.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "door left ajar",
+    "fact": "A door left ajar on the third floor landing.",
+    "source_quote": "A door left ajar on the third floor landing.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Bookwyrm's instructions",
+    "fact": "The Bookwyrm's parting instructions had been clear enough: report back when done, remove nothing from the room.",
+    "source_quote": "report back when done, remove nothing from the room",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "cat",
+    "fact": "Gray. Motionless. Yellow eyes that opened the moment we got close. The cat had decided it need not move for anyone, and tracked us anyway.",
+    "source_quote": "Gray. Motionless. Yellow eyes that opened the moment we got close. The cat had decided it need not move for anyone, and tracked us anyway.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "third floor apartment",
+    "fact": "A large apartment at the third with its door left conspicuously ajar.",
+    "source_quote": "A large apartment at the third with its door left conspicuously ajar.",
+    "quote_verified": false
   }
 ]

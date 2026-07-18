@@ -1,7 +1,7 @@
 ---
 name: Dorbo Diggermattock
 type: npc
-n_facts: 30
+n_facts: 34
 chapters: 35-48
 ---
 
@@ -9,28 +9,30 @@ chapters: 35-48
 
 **Current status:** Alive  
 **Current location:** Blingdenstone, specifically Diggermattock Hall  
-**Allegiance/faction:** Leader of Blingdenstone and Clan Diggermattock  
-**Current possessions / notable items:** Diggermattock Miners Patch (awarded to Thorin; not carried by Dorbo, but under his authority to bestow)  
-**Current assignment / role and key relationships:**  
-- Chief leader of Blingdenstone, overseeing economic recovery and mithral extraction.  
-- Recently agreed to a peace arrangement and announced plans to reopen Blingdenstone for trade with the surface world.  
-- Worked alongside Quartermaster Senni Diggermattock, though their prior conflicts over strategy and ethics have been resolved through collective leadership.  
-- Participated in a council meeting with Senni Diggermattock and Chipgrin, where the city abandoned plans to enslave Earth Elementals.  
-- Awarded Thorin the Diggermattock Miners Patch for work on support beams, indicating recognition of external aid and shifting priorities.  
+**Allegiance/faction:** Leader of Blingdenstone; Clan Diggermattock  
+**Current possessions / notable items:** Diggermattock Miners Patch (awarded to Thorin; personally sewn by Dorbo)  
+**Current assignment / role:** Chief leader of Blingdenstone; overseeing post-ooze recovery, economic revitalization, and inter-clan diplomacy.  
+**Key relationships:**  
+- Works alongside Quartermaster Senni Diggermattock (spouse or close ally; shared leadership)  
+- Engaged in negotiated peace with Chipgrin and the Gold Whisker clan  
+- Has formally reconciled with the Gold Whisker clan after prior hostility  
+- Recognizes and rewards the party for their role in stabilizing Blingdenstone  
 
 **Defining recent actions:**  
-- Advocated for aggressive economic recovery and mithral extraction.  
-- Initially resisted cooperation with the Gold Whisker clan and favored military solutions, but ultimately yielded to moral and strategic pressure.  
-- Accepted the party’s stance against using Earth Elementals for labor, marking a shift from exploitation to ethical governance.  
-- Formally endorsed reopening Blingdenstone for surface trade, signaling a major pivot from isolationism to diplomacy.  
+- Agreed to a peace arrangement in Blingdenstone’s council, ending hostilities with the Gold Whisker clan  
+- Accepted sustainable mining practices to respect ancestral burial grounds  
+- Announced plans to reopen Blingdenstone for trade with the surface world  
+- Personally sewed the Diggermattock Miners Patch onto Thorin’s gear after the latter secured critical support beams  
+- Shifted from profit-obsessed obstructionism to pragmatic leadership, prioritizing long-term stability over short-term mining gains  
 
 **Revealed motivations or secrets:**  
-- Previously driven by profit and mine protection, with an obsession with wealth exacerbated by the Pudding King’s demonic influence.  
-- Transitioned from prioritizing control and extraction to embracing community stability and economic diplomacy, suggesting a recalibration under pressure rather than ideological change.  
+- Previously driven by profit and control, influenced by the Pudding King’s demonic corruption (ch39)  
+- Now prioritizes economic recovery and inter-clan cooperation, indicating partial or full recovery from corruption  
+- Still retains a focus on mithral extraction, but now balanced with community and ecological concerns  
 
 ## Uncertainty
-- The nature of Dorbo’s current relationship with Senni Diggermattock is implied to be collaborative after past conflict, but whether they still hold opposing views privately is unconfirmed.  
-- Whether Dorbo still suspects the Gold Whisker clan of being wererats — though he agreed to peace and trade, no explicit retraction of that belief is recorded.  
-- The current condition of the Stone of Controlling Earth Elementals: offered as a reward in ch39, but no later fact confirms whether it was claimed, retained, or destroyed.  
-- Whether Dorbo’s shift in stance is genuine or tactical; the text shows behavioral change but not internal conviction.  
-- No fact confirms Dorbo’s current physical condition or any wounds sustained during ooze conflicts — previous concerns about weapon destruction imply danger, but no injury is recorded.
+- The nature of Dorbo’s relationship with Senni Diggermattock (spouse? sibling? political partner?) is never explicitly stated, though their shared surname and joint leadership imply close ties.  
+- Whether Dorbo is still under any lingering influence from the Pudding King is unconfirmed — his behavior has changed, but no explicit cure or purge is documented.  
+- It is unclear whether Dorbo still holds the Stone of Controlling Earth Elementals (offered as a reward in ch39); no later mention confirms possession or transfer.  
+- The exact timeline of his ideological shift (from obstructionist to peacemaker) is not pinned to a single event — it appears gradual, but the pivotal moment is ambiguous.  
+- Whether Dorbo personally retains any magical items beyond the patch (e.g., tools of office, weapons) is not specified.

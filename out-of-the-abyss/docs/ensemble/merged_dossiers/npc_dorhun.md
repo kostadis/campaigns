@@ -7,16 +7,22 @@ chapters: 15-15
 
 ### Dorhun
 
-**Current status:** Alive  
-**Current location:** Cairngorm Cavern  
-**Allegiance/faction:** Stone giants (fading authority)  
-**Current possessions / notable items, spells, feats, wounds:** None specified  
-**Current assignment / role and key relationships:** Former apprentice to Stonespeaker Hgraam; currently resides at Cairngorm Cavern. Last seen with Rihuud, who was also Hgraam’s apprentice. Has requested the party visit him.  
-**Defining recent actions:** Requested the party’s visit to Cairngorm Cavern; affirmed shared apprenticeship under Hgraam with Rihuud.  
-**Revealed motivations or secrets:** Deeply affected by Hgraam’s death; may hold crucial knowledge about the Deepking’s madness and Hgraam’s fate. Bound by ancient traditions; holds qualified immunity for killing rampaging giants.
+- **Current status**: Alive  
+- **Current location**: Cairngorm Cavern (requested meeting site; last seen in the city prior to invitation)  
+- **Allegiance/faction**: Former apprentice to Stonespeaker Hgraam; currently operates independently but maintains authority over Stone Guards  
+- **Current possessions / notable items**: None specified  
+- **Current assignment / role**: Independent stone giant with influence over Stone Guards; acting as a liaison or informant regarding Hgraam’s death  
+- **Key relationships**:  
+  - Last seen with Rihuud (companion and fellow former apprentice to Hgraam)  
+  - Confirmed Thorin’s account of Hgraam’s death  
+  - Commands Stone Guards (who resent Duergar, implying political tension)  
+- **Defining recent actions**:  
+  - Confirmed Thorin’s account of Hgraam’s death  
+  - Invited Thorin to meet at Cairngorm Cavern, implying hidden knowledge or ritual significance  
+  - Granted Thorin passage through the city despite Duergar resentment  
 
 ## Uncertainty
-- The current status of Rihuud (alive, present, or still with Dorhun) is unknown — last mentioned together, but no confirmation of current companionship.  
-- The nature of Hgraam’s death and Dorhun’s exact role in it are unconfirmed.  
-- Whether Dorhun still possesses qualified immunity is stated but not verified as currently active or recognized.  
-- No current possessions, spells, or wounds are specified despite his role and background.
+- Dorhun’s exact current location: He invited Thorin to Cairngorm Cavern, but it is not confirmed whether he is already there or still in the city.  
+- Whether Rihuud is still with Dorhun: Last seen together, but no confirmation of continued companionship.  
+- Whether Dorhun has any current allegiance beyond his own agenda: No evidence of formal faction ties post-Hgraam.  
+- The nature of “hidden knowledge or ritual significance” at Cairngorm Cavern: Implied but not described.

@@ -1,8 +1,3 @@
-<!-- source: npc_sovereign_phylo.md -->
-
-
----
-
 ---
 name: Sovereign Phylo
 type: npc
@@ -14,25 +9,22 @@ chapters: 31-33
 
 **Current status:** Alive  
 **Current location:** Neverlight Grove  
-**Allegiance/faction:** Aligned with Zuggtmoy and the Great Seeder; rejects the traditional Myconid Circle  
+**Allegiance/faction:** Aligned with Zuggtmoy and the Great Seeder; rejects the traditional Myconid Circle and its values  
 **Current possessions / notable items, spells, feats, wounds:** None specified  
-**Current assignment / role and key relationships:** Sovereign of Neverlight Grove; enforces a hierarchical, circle-exclusive social order where only leaders may meld across circles; claims the Great Seeder instructed this restructuring; pleads with Basidia to remain as co-sovereign; speaks in gendered terms inconsistent with myconid biology  
-**Defining recent actions:** Actively resisted Basidia’s departure, invoking the Great Seeder’s supposed will to promise universal happiness through fungal transformation; imposed isolation between myconid circles and mandated reanimation of the dead as optimal efficiency; promoted the Circle of Masters as the new governing class; silenced dissent within Neverlight Grove  
+**Current assignment / role and key relationships:** Sovereign of Neverlight Grove; enforces a hierarchical, circle-isolated social order where only leaders may meld across circles; last seen pleading with Basidia not to leave  
+**Defining recent actions:** Instituted a radical restructuring of Myconid society, replacing collective discourse with nested, task-specific melds; promoted the Circle of Masters; enforced isolation between circles; mandated reanimation of the dead as optimal efficiency; publicly declared an impending “day of joy”; attempted to prevent Basidia’s departure by invoking the Great Seeder’s promise of universal happiness through fungal transformation.  
 
-**Revealed motivations or secrets:** Believes the transformation of Neverlight Grove into a unified, hierarchical, reanimated society under the Great Seeder’s guidance is a divine mandate — not corruption. Uses gendered language and emotional appeals to manipulate loyalty, suggesting deep fungal influence beyond mere possession.  
+**Revealed motivations or secrets:** Believes the Great Seeder instructed him to abandon collective unity in favor of hierarchical efficiency; his altered speech patterns, gendered language, and obsessive focus on transformation suggest corruption by a demonic spore tied to Zuggtmoy. His conviction in the “day of joy” implies he perceives the transformation of the Grove — and its inhabitants — as divine salvation.
 
 ## Uncertainty
-- Contradiction: Ch31 describes Phylo as “infected by a demonic spore, likely tied to Zuggtomy,” while ch32–33 frame Phylo as acting under the “Great Seeder” (Zuggtmoy’s avatar) as a willing agent — is the infection the mechanism of alignment, or is Phylo a true devotee? The facts do not resolve whether the spore is a corrupting force or a conduit.  
-- Ambiguity: Ch31 and ch32 describe Phylo as both “sovereign” and “circle leader” — which title holds current authority? Later chapters treat them as sovereign, so that overrides, but the earlier role suggests possible power-sharing or transition.  
-- Attribution: Ch33 says Phylo “pleaded” with Basidia — but is this the last known action, or did they act further? No later chapter confirms Phylo’s status after the party fled.  
-- Unclear: The origin of Phylo’s gendered speech is attributed to infection, but no source specifies whether this is a physical change, a psychological effect, or a linguistic corruption — and whether it persists as a current trait.
+- Contradiction between [ch31] describing Phylo as “a myconid sovereign who has become infected” and [ch32] describing him as “a Myconid circle leader advocating for decentralized governance” — later chapter [ch33] confirms his sovereign status, so earlier “circle leader” label is superseded, but the inconsistency in role description remains unresolved in source.
+- Unclear whether Phylo’s claim of being instructed by the Great Seeder is truthful or a delusion induced by the demonic spore; source does not confirm the Great Seeder’s actual involvement.
+- The nature of the “demonic spore” is never named or described beyond its association with Zuggtmoy — its exact effects beyond behavioral changes are unspecified.
+- The phrase “co-sovereign with Basidia” from [ch31] is not corroborated in later chapters; [ch33] shows Phylo pleading with Basidia, implying subordination or desperation, not shared rule — this earlier claim is likely a delusion and thus no longer current.
 
 ---
 
 <!-- source: faction_sovereign_phylo.md -->
-
-
----
 
 ---
 name: Sovereign Phylo
@@ -43,27 +35,26 @@ chapters: 31-31
 
 ### Sovereign Phylo
 
-- **Type:** Faction (cultic movement centered on a Myconid Sovereign)  
-- **Current status:** Active and influential within the Neverlight Grove  
-- **Core doctrine:** Promotes the "great awakening" and "great celebration" as imminent divine events; teaches that Myconids must build towering structures to breach the Underdark and ascend to a higher plane  
-- **Key teachings:** Encourages disregard for surface-world dangers, particularly sunlight; fosters architectural obsession as spiritual practice  
-- **Controlled territory:** Neverlight Grove  
-- **Current assignment / role:** Central figure and spiritual leader of a Myconid cult; source of doctrinal authority for followers  
-- **Defining recent action:** Sustains a growing movement that drives Myconids to construct upward-reaching towers in pursuit of the promised "great celebration"  
+**Current status:** Alive (implied by active influence)  
+**Current location:** Neverlight Grove (center of cultic movement)  
+**Faction:** Myconid cult led by Sovereign Phylo  
+**Current assignment / role:** Central spiritual and ideological figure of a cultic movement within the Neverlight Grove; instigator of the “great awakening” and “great celebration”  
+**Defining recent actions:** Inspires Myconids to pursue dangerous architectural projects (e.g., towers to breach the Underdark) and promotes ignorance of surface-world dangers, particularly sunlight.  
+**Current possessions / notable items / spells / feats:** None specified  
+**Key relationships:** Revered as sovereign by Myconids in the Neverlight Grove; no other entities named as allies or subordinates  
+
+**Revealed motivations or secrets:** Believes in an impending “great celebration” tied to transcending the Underdark; teachings prioritize spiritual transcendence over survival pragmatism, suggesting a delusional or ecstatic worldview.
 
 ## Uncertainty
-- No information on whether Sovereign Phylo is physically present in the Neverlight Grove or if his influence is mediated through proxies.  
-- No details on his current physical state (alive, dormant, fused with fungal network, etc.).  
-- The quote “It is part of a great celebration to come.” lacks context — is this Phylo’s own voice, a follower’s paraphrase, or a ritual chant? Attribution is ambiguous.  
-- No evidence of external relationships (allies, enemies, or connections to other factions).  
-- No indication whether the "great awakening" or "great celebration" is a literal event, metaphor, or delusion — interpretation is unverified.
+- No confirmation of Phylo’s physical form, voice, or direct actions — only indirect influence reported.
+- No evidence of whether Phylo is a literal Myconid, a collective consciousness, a spirit, or a metaphor — the term “Sovereign” is used but not defined.
+- The quote “It is part of a great celebration to come.” is attributed to the movement, not directly to Phylo; his direct speech or authorship of the doctrine is not confirmed.
+- No current state of the “great awakening” or “great celebration” — whether it has begun, is imminent, or is purely rhetorical is unclear.
+- No known enemies, allies, or external interactions beyond the Myconid cult.
 
 ---
 
 <!-- source: monster_sovereign_phylo.md -->
-
-
----
 
 ---
 name: Sovereign Phylo
@@ -75,14 +66,16 @@ chapters: 31-31
 ### Sovereign Phylo
 
 **Current status:** Alive  
-**Current location:** Unknown (last noted in association with the Circle of Masters)  
+**Current location:** Unknown (last known association with the Circle of Masters, but no specific location given)  
 **Allegiance/faction:** Circle of Masters  
 **Current possessions / notable items, spells, feats, wounds:** None specified  
-**Current assignment / role:** Sovereign of the Circle of Masters; enforces a new social order where myconid circles meld exclusively within their own group, with the Circle of Masters being the innermost circle closest to Phylo  
-**Defining recent actions:** Restructured myconid society to isolate and hierarchically organize circles, elevating the Circle of Masters as the innermost and most trusted circle.  
+**Current assignment / role:** Sovereign of the myconid circles; enforcer of a new social order isolating and aligning circles, with the Circle of Masters as the innermost circle closest to him  
+**Defining recent actions:** Restructured myconid society to enforce exclusive circle melding, elevating the Circle of Masters as his closest confidants  
+
+**Revealed motivations or secrets:** Seeks to enforce rigid social isolation among myconid circles, centralizing power and proximity within the Circle of Masters — implying a desire for control, purity of thought, or protection from external influence.
 
 ## Uncertainty
-- Exact current location of Phylo is not stated.  
-- No information on physical condition, possessions, spells, or feats.  
-- No clarification on whether other circles still exist or have been dissolved.  
-- No indication of who, if anyone, reports to Phylo beyond the Circle of Masters.
+- Exact current location is unspecified.  
+- No information on whether the Circle of Masters is stationary or mobile.  
+- No details on physical condition, possessions, or magical abilities beyond social role.  
+- Motivation is inferred from action; no direct quote reveals intent beyond structural reorganization.

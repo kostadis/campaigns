@@ -1,0 +1,184 @@
+[
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a worshipper of Bahamut who declares his faith aloud in the presence of Derro, provoking immediate hostility.",
+    "source_quote": "I worship Bahamut!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Skiit",
+    "fact": "Skiit is a Derro cultist of Demogorgon who mutters to himself and pleads for a better job after being promised one by Pliinki.",
+    "source_quote": "But Pliinki promised Skiit a better job.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ulnara",
+    "fact": "Ulnara is a Derro necromancer and cultist of Demogorgon who oversees the great project of Ulnara of the Council of Savants and transforms into a subservient persona upon realizing Daz is a Drow.",
+    "source_quote": "The great project of Ulnara of the Council of Savants!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Narrak",
+    "fact": "Narrak is a Derro orchestrator of forbidden rituals who shouts of experiments for the elevation of the Derro, the Triumph of Demogorgon, and the destruction of the Duergar.",
+    "source_quote": "We are conducting experiments! For what purpose! The only purpose that matters! The elevation of the Derro, the Triumph of Demogorgon, and the destruction of the Duergar!",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a dwarf who, exhausted by debate, arbitrarily chooses 'East' as a direction and dismisses two mad Derro as worthless.",
+    "source_quote": "East.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a monk who observes silently, acts without speaking, and summons darkness to envelop Derro during combat.",
+    "source_quote": "I observe everything and say nothing. My mind is clear. I act without speaking. I do because I know.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow who casts Maximillian\u2019s Earthen Grasp, Toll the Dead, and magic missiles, kills Skiit, and intimidates Ulnara by revealing his Drow identity.",
+    "source_quote": "I cast Maximillian\u2019s Earthen Grasp and start to crush the poor unfortunate creature. I cast Toll the Dead, and the deadly chimes echo throughout the caves, but only it\u2019s intended target hears them, and his heart stops, and he dies.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "pit trap",
+    "fact": "A poorly disguised pit trap is hidden in the cavern entrance, indicating the presence of defensive measures by the Derro inhabitants.",
+    "source_quote": "Watch it! ... a poorly disguised pit trap.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "ritual platform",
+    "fact": "A glowing ritual circle dominates a 5-foot-high platform in a cavern, surrounded by Trillimac books titled 'The Spiraling Descent: A Treatise on Duality and Madness,' 'The Prince's Gift: On the Creation of Favored Spawn,' and 'Rituals of the Two-Headed Beast.'",
+    "source_quote": "A glowing ritual circle dominates the top of the platform. Around the platform are books made from Trillimac. I look carefully and notice a few of the titles - 'The Spiraling Descent: A Treatise on Duality and Madness,' and 'The Prince's Gift: On the Creation of Favored Spawn', and 'Rituals of the Two-Headed Beast.'",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "cage chamber",
+    "fact": "A chamber lined with scrap iron cages on both sides contains a spiral path marked by small stone pylons, emitting a foul odor.",
+    "source_quote": "The smell is coming from cages assembled from scrap iron on both sides of the chamber. A spiral path circles into the center of the room, marked off by small stone pylons.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "amulet of Demogorgon",
+    "fact": "Skiit wears an amulet of Demogorgon, signifying his devotion to the demon lord.",
+    "source_quote": "Wait, that\u2019s interesting, he\u2019s got an amulet of Demogorgon.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Trillimac books",
+    "fact": "Books bound in Trillimac contain treatises on Demogorgon\u2019s influence, madness, and the creation of favored spawn, serving as evidence of the cult\u2019s activities.",
+    "source_quote": "Books made from Trillimac. I look carefully and notice a few of the titles - 'The Spiraling Descent: A Treatise on Duality and Madness,' and 'The Prince's Gift: On the Creation of Favored Spawn', and 'Rituals of the Two-Headed Beast.'",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Ogre Zombie",
+    "fact": "An Ogre Zombie emerges from a crack in the southeast wall of the pit, demanding to know who the intruders are.",
+    "source_quote": "From there, a voice and an Ogre Zombie emerge. 'What is the meaning of this? Who are you? Who do you think you are?'",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Death dogs",
+    "fact": "Death dogs are present in the cavern with the ritual platform, sharing space with Derro and unaware of the Ember Vanguard\u2019s approach.",
+    "source_quote": "And I finally spot the inhabitants, some Derro and Death dogs.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Ember Vanguard",
+    "fact": "The Ember Vanguard is a group led by Grygum and Daz that claims authority over the Derro-infested caves, using the name to intimidate and command respect.",
+    "source_quote": "We are the Ember Guard,\" shouts Grygum. I smile. I like that name.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Derro",
+    "fact": "The Derro are former slaves of the mind flayers whose minds were destroyed, now serving Demogorgon and driven to madness and ritualistic devotion.",
+    "source_quote": "The Derro are Dwarves that were slaves of the mindflayers, who corrupted their fundamental nature until they are barely Dwarves. They are mad.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Duergar",
+    "fact": "The Duergar are referenced by Derro as enemies to be destroyed, and by Skiit as a possible master group that the Ember Vanguard might serve.",
+    "source_quote": "I think you work for the Duergar or the Mindflayers!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum pushes Skiit into the pit",
+    "fact": "Grygum pushes Skiit over the cliff while Daz unleashes a light show, initiating the confrontation with Ulnara.",
+    "source_quote": "I push him over the cliff. At the same time, Daz unleashes a light show.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz kills Skiit with Toll the Dead",
+    "fact": "Daz casts Toll the Dead, a spell only audible to its target, causing Skiit\u2019s heart to stop and killing him instantly.",
+    "source_quote": "I cast Toll the Dead, and the deadly chimes echo throughout the caves, but only it\u2019s intended target hears them, and his heart stops, and he dies.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin declares 'East' as a direction",
+    "fact": "Thorin, exhausted by debate, arbitrarily chooses 'East' as the path forward, ending a discussion among the group.",
+    "source_quote": "Left or right?' I ask. ... 'East.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Narrak leads Derro ritual",
+    "fact": "Narrak leads a Derro ritual involving chanting apprentices and the reading of forbidden texts to achieve the triumph of Demogorgon and the destruction of the Duergar.",
+    "source_quote": "He shouts - 'We are conducting experiments!' ... 'The only purpose that matters! The elevation of the Derro, the Triumph of Demogorgon, and the destruction of the Duergar!'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Derro patrol attacks after hearing 'Bahamut'",
+    "fact": "A Derro patrol immediately attacks the party after Grygum declares 'I worship Bahamut,' revealing their intolerance for any deity outside Demogorgon.",
+    "source_quote": "The moment that Grygum mentioned 'Bahamut,' I knew we were in for it. ... they immediately attack.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Ulnara transforms from arrogance to subservience",
+    "fact": "Ulnara\u2019s demeanor shifts from arrogance to fearful subservience upon realizing Daz is a Drow, demonstrating the terror Drow inspire among Derro.",
+    "source_quote": "She realizes that I am Drow. And that the Drow do not mess around. ... Her arrogance disappears, and her sniveling, subservient persona emerges.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum claims the name 'Ember Vanguard'",
+    "fact": "Grygum declares the group as the 'Ember Vanguard,' a name Daz approves of and which is later used to intimidate Derro and other inhabitants.",
+    "source_quote": "'We are the Ember Guard,' shouts Grygum. I smile. I like that name.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin dismisses two mad Derro as worthless",
+    "fact": "Thorin observes two Derro babbling incoherently near a tent and declares there is nothing of value there, leading the group to move on without conflict.",
+    "source_quote": "No. There is nothing of value here.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz orders companions to wait outside the brimstone cavern",
+    "fact": "Daz instructs Jim Jar, Spiderbait, Sarith, Eldeth, and Stool to remain outside the cavern filled with brimstone and chemicals while he enters alone.",
+    "source_quote": "We tell our companions to wait outside. Jim Jar, Spiderbait, Sarith, Eldeth, and Stool look at me worried, but I motion for them to stay.",
+    "quote_verified": false
+  }
+]

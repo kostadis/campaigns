@@ -1,100 +1,114 @@
 [
   {
     "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is an Evoker trained in Menzoberranzan who sculpted a Fireball to spare specific individuals, and remains steadfast in the cavern after casting it, refusing to be extracted or managed.",
+    "source_quote": "I cast Fireball in a shaped arc around everything I wanted to keep... I remained exactly where I had said I would remain.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
     "subject": "Glabbagool",
-    "fact": "Glabbagool is a sentient, gentle, luminously good-natured ooze companion who survived twenty-six points of damage from Ilvara's plague and continues to endure the hazards of the cavern.",
-    "source_quote": "Glabbagool had been, from what I could tell, simply trying to participate in the ambient conversation of the battle",
+    "fact": "Glabbagool is a sentient, gentle, luminously good-natured ooze companion who survived twenty-six points of damage from Ilvara's plague and is perceived as undeserving of the cavern's continued hazards.",
+    "source_quote": "Glabbagool \u2014 our sentient, gentle, luminously good-natured ooze companion... had already taken twenty-six points of damage from Ilvara's plague and survived.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Ilvara",
-    "fact": "Ilvara is the source of a plague that inflicted twenty-six points of damage on Glabbagool and continues to threaten those in the cavern.",
-    "source_quote": "Glabbagool had taken twenty-six points of damage from Ilvara's plague",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "The mage of House T'sarran",
-    "fact": "The mage of House T'sarran is a surviving opponent who retained presence of mind after the fireball and delivered a threatening observation that will likely have consequences.",
-    "source_quote": "The matron mother of House T'sarran will hear about this. She was not wrong.",
+    "fact": "Ilvara is responsible for a plague that inflicted twenty-six points of damage on Glabbagool, and is associated with the ongoing hazards of the cavern.",
+    "source_quote": "Glabbagool... had already taken twenty-six points of damage from Ilvara's plague and survived.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Jorlan Duskryn",
-    "fact": "Jorlan Duskryn was struck by a lightning bolt and staggered across the cavern floor, a casualty of the ongoing magical conflict.",
-    "source_quote": "Jorlan Duskryn went staggering across the cavern floor",
-    "quote_verified": true
+    "fact": "Jorlan Duskryn was struck by a lightning bolt and staggered across the cavern floor.",
+    "source_quote": "Jorlan Duskryn went staggering across the cavern floor.",
+    "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Nym",
-    "fact": "Nym's professional frustrations found their outlet during the magical cascade, indicating active involvement in the battle's aftermath.",
-    "source_quote": "Nym's professional frustrations had found their outlet",
-    "quote_verified": true
+    "fact": "Nym's professional frustrations found their outlet during the chaos in the cavern, though the nature of the outlet is unspecified.",
+    "source_quote": "Nym's professional frustrations had found their outlet.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "The mage of House T'sarran",
+    "fact": "The mage of House T'sarran survived the Fireball, retained her composure, and delivered a warning that the matron mother will hear about the event.",
+    "source_quote": "The mage was still standing when the smoke cleared, barely, and she had the presence of mind to deliver her parting observation: 'The matron mother of House T'sarran will hear about this.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "The matron mother of House T'sarran",
+    "fact": "The matron mother of House T'sarran is anticipated to hear about the events in the cavern, and her response is expected to matter later.",
+    "source_quote": "The matron mother of House T'sarran will hear about this... That is probably going to matter later.",
+    "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "The feared mage of the Ember Vanguard",
-    "fact": "The feared mage of the Ember Vanguard is the caster of the fireball and lightning bolt, standing in the smoke of his own spells, surrounded by combatants who fight because he refuses to leave.",
-    "source_quote": "The feared mage of the Ember Vanguard, standing in the smoke of his own fireball, surrounded by people who were fighting because he refused to leave.",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "Insect Plague",
-    "fact": "The Insect Plague is a hazard that irritated Drow warriors and was neutralized by the shaped fireball, rendering them no longer irritated.",
-    "source_quote": "The Drow warriors who had been irritated about the Insect Plague were no longer irritated about the Insect Plague",
-    "quote_verified": true
+    "fact": "The feared mage of the Ember Vanguard is Daz, standing in the smoke of his own Fireball, surrounded by combatants who fight because he refused to leave, and has come to recognize this as purpose.",
+    "source_quote": "The feared mage of the Ember Vanguard, standing in the smoke of his own fireball, surrounded by people who were fighting because he refused to leave... I find, somewhat to my own surprise, that this is what purpose feels like.",
+    "quote_verified": false
   },
   {
     "type": "event",
-    "subject": "shaped fireball",
-    "fact": "A shaped fireball was cast around selected targets, sparing specific individuals while damaging others in the radius, and caused the cavern to go very bright.",
+    "subject": "sculpted Fireball",
+    "fact": "Daz cast a shaped Fireball around intended targets, sparing specific individuals while allowing the blast to affect others in the radius, resulting in a moment of intense brightness.",
     "source_quote": "I cast Fireball in a shaped arc around everything I wanted to keep. The cavern went very bright for a moment.",
     "quote_verified": true
   },
   {
     "type": "event",
     "subject": "lightning bolt",
-    "fact": "A lightning bolt followed the fireball, striking Jorlan Duskryn and contributing to the escalation of the magical conflict.",
-    "source_quote": "The lightning bolt that followed was not, technically, my problem.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "House T'sarran's retaliation",
-    "fact": "The threat that the matron mother of House T'sarran will hear about this is a foreshadowed consequence that is likely to matter later.",
-    "source_quote": "The matron mother of House T'sarran will hear about this. She was not wrong. That is probably going to matter later.",
+    "fact": "A lightning bolt struck the cavern, causing Jorlan Duskryn to stagger, though it was not technically Daz's responsibility.",
+    "source_quote": "The lightning bolt that followed was not, technically, my problem. Jorlan Duskryn went staggering across the cavern floor.",
     "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "purpose of the mage",
-    "fact": "The mage's refusal to leave and his resulting role as the center of conflict has led him to recognize this as what purpose feels like.",
-    "source_quote": "I find, somewhat to my own surprise, that this is what purpose feels like.",
-    "quote_verified": true
   },
   {
     "type": "location",
     "subject": "the cavern",
-    "fact": "The cavern is the site of multiple magical explosions, ongoing combat, and the lingering effects of plague and lightning, and it became very bright during the fireball.",
-    "source_quote": "The cavern went very bright for a moment. The cavern floor was traversed by staggering combatants.",
+    "fact": "The cavern is the site of multiple magical events, including Fireball, lightning, plague damage, and combat, and is perceived as hostile and hazardous.",
+    "source_quote": "He doesn't deserve what this cavern keeps throwing at him... The cavern went very bright for a moment.",
     "quote_verified": false
   },
   {
-    "type": "object",
-    "subject": "shaped arc of fireball",
-    "fact": "The shaped arc of the fireball is a modified area spell that excludes specific individuals, allowing the mage to sculpt damage around allies and preserve targets.",
-    "source_quote": "I can reach into a Fireball and pull specific individuals out of harm's way, leaving the fire to do its work on everything else in the radius.",
+    "type": "monster",
+    "subject": "Insect Plague",
+    "fact": "The Insect Plague was a source of irritation among the Drow warriors, but they were no longer irritated after the Fireball was cast.",
+    "source_quote": "The Drow warriors who had been irritated about the Insect Plague were no longer irritated about the Insect Plague.",
     "quote_verified": true
   },
   {
-    "type": "npc",
-    "subject": "The Drow warriors",
-    "fact": "The Drow warriors were irritated by the Insect Plague but were no longer irritated after the shaped fireball, indicating they were either spared or their condition changed.",
-    "source_quote": "The Drow warriors who had been irritated about the Insect Plague were no longer irritated about the Insect Plague",
+    "type": "thread",
+    "subject": "House T'sarran's response",
+    "fact": "The matron mother of House T'sarran will hear about the events in the cavern, and her reaction is anticipated as a future consequence.",
+    "source_quote": "The matron mother of House T'sarran will hear about this... That is probably going to matter later.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "purpose of defiance",
+    "fact": "Daz has recognized his refusal to leave and his casting of the sculpted Fireball as an embodiment of purpose, though its implications are unresolved.",
+    "source_quote": "I find, somewhat to my own surprise, that this is what purpose feels like.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Fireball",
+    "fact": "The Fireball was sculpted by Daz to exclude specific individuals, allowing the spell to affect only those outside the intended protective arc.",
+    "source_quote": "I can reach into a Fireball and pull specific individuals out of harm's way... I cast Fireball in a shaped arc around everything I wanted to keep.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session time",
+    "fact": "The events occur during the continuing session initiated by Speaker Daz, though no calendar date is specified.",
+    "source_quote": "[Continuing \u2014 Speaker: Daz, Scene: The Drow Reinforcements]",
     "quote_verified": true
   }
 ]

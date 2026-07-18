@@ -44,99 +44,99 @@
   {
     "type": "event",
     "subject": "one more thing",
-    "fact": "One more thing is the final twist in the scheme, revealed after the audience believes the conflict is resolved.",
+    "fact": "One more thing happens after she believes she has won.",
     "source_quote": "one more thing",
     "quote_verified": true
   },
   {
     "type": "object",
-    "subject": "potion of flying",
-    "fact": "The potion of flying was stolen from the safe by Glabbagool's arm while everyone was distracted.",
+    "subject": "potion of flying value",
+    "fact": "The potion of flying was stolen from the safe and taken by Glabbagool.",
     "source_quote": "my Glabbagool arm swipes the potion of flying",
     "quote_verified": true
   },
   {
     "type": "object",
     "subject": "red herring coin",
-    "fact": "One gold coin in the safe bore a red herring stamp, a deliberate red herring.",
+    "fact": "One gold coin in the safe had a red herring stamped on it.",
     "source_quote": "one of the gold coins had a herring stamped on it, and the herring was red",
     "quote_verified": false
   },
   {
     "type": "location",
     "subject": "Deneir's Sanctum",
-    "fact": "The adventurers were escorted to Deneir's Sanctum to wait under guard, treated as protected witnesses.",
-    "source_quote": "I will ask Kalan Strongbranch to escort you to Deneir's Sanctum",
-    "quote_verified": false
+    "fact": "The adventurers were escorted to Deneir's Sanctum to wait out the evening under guard.",
+    "source_quote": "I will ask him to escort you to Deneir's Sanctum",
+    "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "taster for food",
-    "fact": "Fembris Lancer was unofficially appointed as the food taster, accepting the risk without suspicion.",
+    "subject": "taster selection",
+    "fact": "Fembris Lancer was chosen as the taster for the food with the number 118.",
     "source_quote": "I'd say 118",
     "quote_verified": true
   },
   {
     "type": "object",
     "subject": "sapphire detection",
-    "fact": "A Locate Object spell was cast to detect a sapphire on Bookwyrm; none was found.",
-    "source_quote": "I'm hoping she has one on her \u2014 that would be interesting",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "safe sealed and ignored",
-    "fact": "The safe was closed and declared of no interest, despite containing the potion of flying and the red herring coin.",
-    "source_quote": "They closed the safe with everything still inside... and declared it of no interest",
+    "fact": "The spell Locate Object found no sapphire on Bookwyrm.",
+    "source_quote": "I'm hoping she has one on her \u2014 that would be interesting. It was not interesting.",
     "quote_verified": false
   },
   {
     "type": "event",
-    "subject": "cure for Daral",
-    "fact": "The party deliberated whether to cure Daral of his condition, leaving the decision unresolved.",
-    "source_quote": "Should we cure him?",
+    "subject": "safe sealed",
+    "fact": "The safe was sealed with its contents declared of no interest.",
+    "source_quote": "They closed the safe with everything still inside... and declared it of no interest.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Kalan reinstated",
+    "fact": "Kalan Strongbranch was reinstated as head of the Avowed after the investigation.",
+    "source_quote": "Would you be so willing as to take your position once more?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "accusation of accomplices",
+    "fact": "The group publicly acknowledged the existence of accomplices without naming Bookwyrm.",
+    "source_quote": "Yeah \u2014 we know there are accomplices",
     "quote_verified": true
   },
   {
     "type": "event",
     "subject": "Bookwyrm's relief",
-    "fact": "Bookwyrm was genuinely relieved that the investigation had concluded and the adventurers were removed from play.",
-    "source_quote": "she was delighted to have us wrapped up and out of everything",
+    "fact": "Bookwyrm was relieved, not heartbroken, upon learning of Alkrist's confession.",
+    "source_quote": "Alkrist. I could never have imagined it.",
     "quote_verified": true
   },
   {
     "type": "event",
     "subject": "Glabbagool's satisfaction",
-    "fact": "Glabbagool expressed approval of the flying skill acquired from the potion, calling it a good skill.",
+    "fact": "Glabbagool was pleased with the stolen potion of flying and deemed it a good skill.",
     "source_quote": "I like the flying skill. That was a good skill.",
     "quote_verified": false
   },
   {
     "type": "location",
-    "subject": "Deneir's Sanctum as cell",
-    "fact": "Deneir's Sanctum, normally a place of scholarship, was repurposed as a guarded waiting room.",
-    "source_quote": "a room built for people who read for a living, now doing duty as a cell",
+    "subject": "Alkrist's safe",
+    "fact": "Alkrist's safe was opened in the presence of the Avowed and found to contain a potion of flying, healing potion, gold, and a red herring coin.",
+    "source_quote": "A potion of flying. A potion of superior healing. A fat purse of gold coins... one of the gold coins had a herring stamped on it, and the herring was red.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Fembris's punishment",
+    "fact": "Fembris Lancer was assigned to keep the adventurers company as his penance.",
+    "source_quote": "Fembris Lancer was already in there, serving out his own punishment by keeping us company.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "Kalan's resurgence",
-    "fact": "Kalan Strongbranch resumed his position of authority after the investigation, believing his methods had been vindicated.",
-    "source_quote": "how our actions had proven the value of his methods",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "healing potion",
-    "fact": "A potion of superior healing remained in the sealed safe, unclaimed.",
-    "source_quote": "A potion of superior healing",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "purse of gold coins",
-    "fact": "A fat purse of gold coins, more than a man keeps for honest reasons, was found in the safe.",
-    "source_quote": "A fat purse of gold coins, more than a man keeps for honest reasons",
-    "quote_verified": true
+    "subject": "House arrest avoidance",
+    "fact": "The adventurers were not under house arrest, but were escorted to Deneir's Sanctum for protection.",
+    "source_quote": "No, no, no. You currently hold the most important evidence... I'm simply doing this to protect you.",
+    "quote_verified": false
   }
 ]

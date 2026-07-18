@@ -1,19 +1,23 @@
 ---
 name: Order of the Gauntlet
 type: faction
-n_facts: 2
+n_facts: 3
 chapters: 55-55
 ---
 
 ### Order of the Gauntlet
 
-- **Current goals:** Promote and profit from the veneration of Tarvis Ulain through the sale of charitable donations in the form of pewter hand casts (replicas of the arm).
-- **Current standing:** Actively engaged in fundraising via commercialized relic sales; publicly endorsed the monument to Tarvis Ulain.
-- **Key members:** Milo Goodbarrel (authorized the monument’s recording and is associated with its promotion).
-- **Recent actions:** Officially endorsed the monument to Tarvis Ulain; now systematically sells pewter hand casts as donations to support the Order’s cause.
-- **Current possessions / notable items:** Pewter hand casts of Tarvis Ulain’s arm (mass-produced for sale).
-- **Current assignment / role:** Operating as a fundraising arm tied to the veneration of Tarvis Ulain, with Milo Goodbarrel serving as an approving authority.
+**Current status:** Active and institutionalized in Daggerford.  
+**Current location:** Operational presence in Daggerford, with a priest of Bahamut serving as local representative.  
+**Allegiance/faction:** Independent lawful good organization; maintains theological engagement with Bahamut’s clergy while navigating Stroudite influence.  
+**Current possessions / notable items:** Pewter replicas of Tarvis Ulain’s hand, produced and sold as charitable donations.  
+**Current assignment / role:** Memorializing heroism through public monuments and relics; managing public perception of controversial figures like Tarvis Ulain.  
+**Key relationships:** Works with a priest of Bahamut as local representative in Daggerford; Milo Goodbarrel (apparent head of a publisher) acts as an official signatory and agent for the Order.  
+**Defining recent actions:** Commissioned, recorded, and funded the monument to Tarvis Ulain; now commercializes his legacy via pewter hand replicas as fundraising tools, blending veneration with pragmatic outreach.  
+**Revealed motivations or secrets:** Seeks to honor heroism while managing theological ambiguity — using memorialization as a tool to reconcile Stroudite legacy with lawful good doctrine, without overtly endorsing Stroudite ideology.
 
 ## Uncertainty
-- It is unclear whether “pewter replicas of the arm” and “pewter hand casts” are the same item or distinct products — the terms are used interchangeably but not explicitly confirmed as identical.
-- It is unclear whether Milo Goodbarrel is actively selling the items or merely authorized their production and recording; the quote says “he was selling them,” but does not specify if this is his current, ongoing role or a one-time act.
+- The exact nature of Milo Goodbarrel’s role (“apparently head of some publisher, apparently Order of the Gauntlet”) is ambiguous — is he an employee, affiliate, or independent contractor?  
+- The extent of Stroudite influence is noted but not defined — what form does it take, and how is it being “navigated”?  
+- Whether the priest of Bahamut is officially appointed by the Church of Bahamut or merely aligned with the Order is unclear.  
+- It is unconfirmed whether the Order operates elsewhere beyond Daggerford; no evidence of broader presence.

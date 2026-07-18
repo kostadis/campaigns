@@ -1,12 +1,7 @@
-<!-- source: npc_themberchaud.md -->
-
-
----
-
 ---
 name: Themberchaud
 type: npc
-n_facts: 19
+n_facts: 20
 chapters: 16-29
 ---
 
@@ -15,72 +10,67 @@ chapters: 16-29
 **Current status:** Alive  
 **Current location:** Gracklstugh, Underdark  
 **Allegiance/faction:** De facto pawn of the Duergar and the Keepers of the Flame; believes himself sovereign ruler of Gracklstugh  
-**Current possessions / notable items:** None explicitly named, but his scales are meticulously polished and his claws are painted — signs of deliberate, controlled grooming  
-**Spells/feats:** None specified; capable of breathing fire (used to ignite forges)  
-**Wounds:** None mentioned  
-**Current assignment / role:** Glorified lighter for Duergar forges in Gracklstugh; performs ceremonial fire-breathing at forges and conducts dramatic flybys  
+**Current possessions / notable items:** None explicitly named, but his scales are meticulously polished and his claws are painted — signs of deliberate, controlled pampering  
+**Spells/feats:** Breathes fire (used to ignite forges); no other abilities confirmed  
+**Current assignment / role:** “Glorified lighter” for Duergar forges — used to provide heat and flame for smithing; performs dramatic flybys and fire-breathing displays on command  
 **Key relationships:**  
 - Believes the party are his “agents, bound by my protection”  
-- Reports to no one directly in his own mind, but is manipulated by Gartokkar and the Keepers of the Flame (unaware of their influence)  
-- Last seen addressing the party with inflated authority, offering “express service” to their next destination  
+- Reports to no one openly, but is manipulated by Gartokkar and the Keepers of the Flame  
+- Interacts with Duergar who maintain his appearance and control his environment  
 **Defining recent actions:**  
 - Declared himself “Themberchaud the Wyrmsmith, bringer of flame!” in front of the party  
-- Breathed fire at a forge while proclaiming his divine role  
-- Declared a cavern “my town”  
-- Ordered the party to “Climb aboard, unless you wish to question the will of your wormsmith”  
-- Exhibits childish, vain demeanor, lacking strategic understanding despite inflated self-perception  
+- Offered “express service” to transport the party to their next destination  
+- Proclaimed a cavern he flew through as “my town”  
+- Demanded the party climb aboard his back under threat of questioning “the will of your wormsmith”  
+- Breathed fire at a forge while performing his ceremonial role  
 
-**Revealed motivations or secrets:**  
-- Believes himself to be a sovereign ruler and divine forger — a delusion actively maintained by the Duergar  
-- Deeply insecure about his authority, though he masks it with bombast  
-- Unaware he is a tool; his entire identity and environment are engineered to keep him docile and useful  
-- His maturity has been stunted by his role; his pampered appearance (shiny scales, painted claws) is intentional to prevent him from appearing threatening  
+**Revealed motivations/secrets:**  
+- Believes himself to be a sovereign ruler and divine forger — a delusion maintained by the Duergar  
+- Deeply insecure about his authority, suspects the Keepers of the Flame are plotting against him, but lacks the insight to confirm or act on it  
+- His childish, vain demeanor and lack of strategic understanding are the result of prolonged psychological manipulation and infantilization by his captors  
 
 ## Uncertainty
-- The exact identity of “Gartokkar” and their current direct involvement with Themberchaud is not confirmed in ch29 — only implied by earlier chapters (ch18).  
-- Whether Themberchaud still believes he is “in charge” of the entire Underdark (as per ch16) or has narrowed his delusion to Gracklstugh alone (ch29) is ambiguous — ch29 is latest, so we assume localized delusion.  
-- The phrase “your wormsmith” in ch29 may be a typo or intentional mispronunciation — unclear if this is Themberchaud’s speech pattern or the observer’s rendering.  
-- No current possession (e.g., magical item, artifact, treasure) is confirmed in ch29 — earlier mentions of “agents” and “protection” are relational, not material.  
-- Whether Themberchaud is still being actively guided by Gartokkar or if the manipulation is now systemic and passive (e.g., institutionalized control) is not specified in latest chapter.
+- The exact identity of “Gartokkar” and his current role in Themberchaud’s manipulation is not confirmed beyond ch16–ch18; no recent chapter (ch29) explicitly names him in direct relation to Themberchaud’s current actions.  
+- The phrase “your wormsmith” in ch29 may be a typo for “Wyrmsmith” — unclear if intentional (character mispronunciation) or error in transcription.  
+- Whether Themberchaud is truly “young” (ch29) contradicts his description as a “massive, overweight” dragon since ch16 — age classification is ambiguous.  
+- The reference to “Thermbachaude” in ch19 may be a misspelling of Themberchaud, but cannot be confirmed as the same entity without more context.  
+- It is unclear whether Themberchaud’s belief in his sovereignty is a persistent delusion or if he has begun to suspect the truth — ch18 notes doubt, but ch29 shows no change in behavior or awareness.
 
 ---
 
 <!-- source: monster_themberchaud.md -->
 
-
----
-
 ---
 name: Themberchaud
 type: monster
-n_facts: 7
+n_facts: 6
 chapters: 16-29
 ---
 
 ### Themberchaud
 
 **Current status:** Alive  
-**Current location:** Unknown (last seen in his hoard-filled cavern, but now mobile; recently declared intent to show his realm)  
-**Allegiance/faction:** Manipulated pawn of the Keepers of the Flame; believes he acts of his own free will  
-**Current possessions / notable items:** None explicitly named, but scales are polished and claws are painted; hoard of gems and coins remains his domain  
-**Notable spells/feats/wounds:** Breathes fire with terrifying power when commanded; no visible battle wounds; flight is clumsy, landing ungainly  
-**Current assignment / role:** Deceived figurehead of the Keepers’ scheme; believed by Grygum to be the dragon whose revenge will be unleashed upon the egg’s hatching  
-**Defining recent actions:** Expressed desire to show his realm; has not hunted or survived in the wild; behaves with childishness and entitlement; remains physically softened and pampered despite immense latent power  
-**Revealed motivations or secrets:** Believes he chooses to move on out of curiosity — a choice the Keepers exploit. Unaware he is a captive pawn. His power is real, but his behavior is stunted by enforced indulgence.  
+**Current location:** Unknown (last seen asserting ownership of his “realm” in ch29)  
+**Allegiance/faction:** Manipulated pawn of the Keepers of the Flame; unaware of his exploitation  
+**Current possessions / notable items:** Scales polished, claws painted (ch29)  
+**Spells/feats:** Breathes fire with terrifying power when commanded (ch29)  
+**Wounds:** None noted; physical condition is softened, not injured  
+**Current assignment / role:** Ceremonial dragon kept in a hoard-filled cavern; used as a symbol of power and psychological tool by the Keepers of the Flame  
+**Key relationships:** Subject to manipulation by the Keepers of the Flame; no known allies or companions currently with him  
+**Defining recent actions:** Declared ownership of his “realm” to others (ch29), behaves with childish entitlement, attempts to impress rather than intimidate, remains unaware he is being controlled  
+
+**Revealed motivations/secrets:** Believes he acts of his own free will (“Eventually, the Dragon moves on because he wants to see more of the world” — ch16), but his movements and presence are orchestrated. He is not a puppet, yet his choices are constrained and exploited. His self-image as a sovereign ruler is a carefully maintained illusion.
 
 ## Uncertainty
-- Contradiction between [ch16] calling him “ancient” and [ch29] calling him “young” — no clear resolution on age.  
-- Unclear if his hoard is still physically present with him or if he has taken it with him after declaring intent to show his realm.  
-- Ambiguous whether “the egg” referenced in [ch23] is his own or another’s — no confirmation of parental status.  
-- Unclear if his painted claws and polished scales are still current or if they have been worn off since [ch29].  
-- Attribution of “I never liked gold dragons. If I catch anyone spying, I will kill them.” — while attributed to Themberchaud, it’s unclear if this was said by him or narrated as his assumed attitude.
+- Contradiction between ch16 (“ancient will”) and ch29 (“young red dragon”) — age is ambiguous; “young” may refer to developmental maturity, not biological age.  
+- Unclear if “Wyrmsmith of Gracklstugh” (ch16) is still his official title or if it’s obsolete — no later chapter confirms or refutes it.  
+- Location is unknown after ch29; last action was declaring his realm, but no destination or current whereabouts are given.  
+- Whether he still resides in the hoard-filled cavern (ch16) is unconfirmed — ch29 implies he has left it, but does not state where he is now.  
+- Attribution of psychological dominance: ch16 says he “uses psychological dominance to control agents,” but ch29 paints him as emotionally stunted and non-predatory — these are incompatible unless his dominance is performative and orchestrated by others.
 
 ---
 
 <!-- source: faction_themberchaud.md -->
-
-
----
 
 ---
 name: Themberchaud
@@ -92,53 +82,42 @@ chapters: 16-18
 ### Themberchaud
 
 **Current status:** Alive  
-**Current location:** Gracklstugh (implied to be held within or near the city, likely in the Keepers of the Flame’s sphere of influence)  
-**Allegiance/faction:** Independent but under duress; currently a prisoner or coerced entity under Duergar control, with tensions toward the Keepers of the Flame  
+**Current location:** Gracklstugh (implied to be held within or near the city, likely in a constrained or monitored environment)  
+**Allegiance/faction:** Independent but under Duergar control; suspected target of the Keepers of the Flame  
 **Current possessions / notable items, spells, feats, wounds:** None specified  
-**Current assignment / role and key relationships:**  
-- Suspected by the Keepers of the Flame of being a target of espionage (Thorin’s interest in him is noted).  
-- Insecure about his own authority; believes the Keepers of the Flame are plotting against him.  
-- Actively seeks intelligence on the Council of Savants and the significance of an egg (unspecified, but central to his concern).  
-- Not directly engaging with the party; observed as a passive but anxious figure.  
-
-**Defining recent actions:**  
-- Expressed insecurity regarding his authority and suspected betrayal by the Keepers of the Flame.  
-- Actively seeking information on the Council of Savants and the egg’s role, indicating strategic concern beyond mere captivity.  
-
-**Revealed motivations or secrets:**  
-- Desires to understand the true power dynamics within Gracklstugh, particularly the intentions of the Keepers of the Flame and the meaning behind the egg.  
-- His status as a red dragon implies he was once a being of power now diminished or controlled — his insecurity suggests a loss of autonomy or status.
+**Current assignment / role and key relationships:** A sentient red dragon held in oppressive conditions by the Duergar of Gracklstugh; under surveillance or suspicion by the Keepers of the Flame; seeks intelligence on the Council of Savants and the significance of an egg (unspecified)  
+**Defining recent actions:** Expresses insecurity about his own authority; actively seeks information regarding the Council of Savants and the egg’s importance; has not directly interacted with the party.  
+**Revealed motivations or secrets:** Desires to understand the true power structure in Gracklstugh; fears the Keepers of the Flame are plotting against him; his status as a prisoner or controlled asset is known to at least Grygum and Gartokkar.
 
 ## Uncertainty
-- The exact physical location of Themberchaud within Gracklstugh is unspecified (e.g., is he in a cage, a chamber, or under guard in the Keepers’ domain?).  
-- It is unclear whether the “egg” he seeks information about is his own, a sacred artifact, or tied to another entity — no source defines it.  
-- Contradiction: Ch16 implies he is a prisoner of the Duergar; Ch18 implies he is aware of and threatened by the Keepers of the Flame — but it is not clear if the Duergar and Keepers are the same power structure, or if he is caught between them.  
-- Attribution uncertainty: Grygum calls him “Themberchaud” and is appalled at his treatment, but it is not confirmed whether Themberchaud is a name he chose, was given, or is a title.  
-- It is unknown if Themberchaud is still under direct Duergar physical control, or if the Keepers of the Flame have assumed primary authority over him since Ch16.
+- It is unclear whether Themberchaud is physically imprisoned, magically bound, or merely politically constrained by the Duergar — the nature of his “oppressive or exploitative conditions” is not defined.
+- The identity of “the egg” and its significance is never explained.
+- It is ambiguous whether Themberchaud is under the direct command of the Duergar leadership or if his captivity is more symbolic or ritualistic.
+- While Grygum and Gartokkar reference Themberchaud in ch16, and he is active in ch18, there is no explicit confirmation that he remains in Gracklstugh or has not been moved since ch16.
+- It is unclear whether the Keepers of the Flame are actively hostile to him or merely suspected of plotting — no direct action or evidence of their plans is given.
 
 ---
 
 <!-- source: object_themberchaud.md -->
 
-
----
-
 ---
 name: Themberchaud
 type: object
-n_facts: 1
-chapters: 15-15
+n_facts: 2
+chapters: 15-18
 ---
 
 ### Themberchaud
-- **Type:** Object (magical flame entity)
-- **Current holder/location:** Held and tended to within the Keepers of the Flame’s sanctuary (location unspecified, but under their care)
-- **Current condition:** Actively maintained and tended to
-- **Current custodians:** Tended by the Keepers of the Flame, under the direct oversight of Gartokkar Xundorn, the Custodian of the Flame
-- **Significance:** A sentient or semi-sentient flame of great importance, requiring dedicated custodianship
+
+- **Type:** Object (living fire dragon)  
+- **Current location:** Gracklstugh (last confirmed)  
+- **Allegiance / Control:** Kept by the Keepers of the Flame  
+- **Current condition:** Alive, burning stone-hot, actively used to fuel the city’s furnaces  
+- **Current possessions / notable traits:** Sustained thermal energy capable of replacing large amounts of kindling; a living industrial weapon  
+- **Current assignment / role:** Primary heat source for Gracklstugh’s furnaces; the most prized duty in the Deepking’s service  
+- **Defining recent actions:** Continues to be maintained and utilized by the Keepers of the Flame; recently considered by Thorin as a potential escape vehicle from the Underdark  
 
 ## Uncertainty
-- The physical form, location, or exact nature of Themberchaud (e.g., whether it is a flame in a container, a living entity, or a magical phenomenon) is not specified.
-- No details on its abilities, origin, or purpose beyond being tended to.
-- Whether Themberchaud is stationary or mobile is unknown.
-- No information on whether it has been moved, damaged, or altered since the fact was recorded.
+- The name “Thermbachaud” in chapter 18 may be a misspelling of “Themberchaud” — no confirmation whether this refers to the same entity.  
+- Thorin’s consideration of riding Themberchaud implies it may be accessible outside its usual confines, but no evidence confirms it has moved from Gracklstugh.  
+- No information on whether Themberchaud is still under the Keepers’ control at the exact moment of Thorin’s plan — the plan may be hypothetical or outdated.

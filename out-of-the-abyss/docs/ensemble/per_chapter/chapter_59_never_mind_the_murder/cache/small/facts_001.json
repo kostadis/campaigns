@@ -1,121 +1,128 @@
 [
   {
     "type": "npc",
-    "subject": "Zalthir",
-    "fact": "Zalthir is deeply analytical, fixated on the metaphysical properties of light and distance, and records everything said to him with precision; he is currently processing a revised interpretation of the Question of the Age involving a fourth corner derived from Stroud's Gambit.",
-    "source_quote": "One true sun, light being furthest \u2014 and then he'd want to know whether any physical property could slow that light down, whether the reach of the thing was distance or something else.",
-    "quote_verified": false
+    "subject": "Grygum",
+    "fact": "Grygum is an academic who analyzed a treatise on poison tied to celestial mechanics and realized the trigger is location-based, not temporal. He passed a key to Daz after recognizing the keep\u2019s security is compromised by scholarly distraction.",
+    "source_quote": "I had the treatise open in front of me. *On the Punctual Tears.*",
+    "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Daz",
-    "fact": "Daz is the de facto investigator, carrying the key once owned by Kalan Strongbranch, and has been informed by Thorin that solving the murder grants access to any book in Candlekeep \u2014 though he acknowledges the reward is likely worthless.",
-    "source_quote": "Look, I'm just saying, if we solve the murder, we get any book in the place.\" A beat. \"We get shit.",
+    "fact": "Daz is a pragmatic investigator who received a key from Grygum and is now entangled in the murder mystery. He understands the academic distraction has left the keep vulnerable and is aware of Daral\u2019s precarious position.",
+    "source_quote": "Totally, totally,\" Zalthir said, in a voice that recorded everything.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Thorin",
-    "fact": "Thorin is bluntly pragmatic, refuses to let kindness go uncomplicated, and has directly told Daral that solving the murder grants access to books \u2014 a statement meant to ground Daral\u2019s paranoia in cold incentive.",
-    "source_quote": "Look, I'm just saying, if we solve the murder, we get any book in the place.\" A beat. \"We get shit.",
+    "subject": "Daral",
+    "fact": "Daral is a paranoid but perceptive figure who believes he\u2019s being framed for murder. He possesses the poison book, suspects Daz and Thorin are his only protectors, and fears Zalthir will learn of his drunken, incriminating remarks about dragonborn.",
+    "source_quote": "He had the poison book. He'd worked out someone wanted him to take the fall.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Kalan Strongbranch",
-    "fact": "Kalan Strongbranch was paranoid, carried a key imbued with a summoning enchantment, and deliberately relinquished it after realizing a corpse cannot possess objects \u2014 a revelation tied to Kelemvor's doctrine on death and possession.",
-    "source_quote": "So if you wanted a man's key, the cleanest way to free it from his possession was to make him a corpse.",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a meticulous scholar whose voice records everything and whose analytical nature makes him a threat to anyone with hidden truths. He is unaware of Daral\u2019s drunken comments but is being referenced as a looming consequence.",
+    "source_quote": "Totally, totally,\" Zalthir said, in a voice that recorded everything.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Brother Vareth",
-    "fact": "Brother Vareth has appropriated the protagonist's unfinished answer to the Question of the Age \u2014 a triangle with three options derived from Stroud's Gambit \u2014 and transformed it into a fourth corner, publishing it to the entire Avowed community.",
-    "source_quote": "He'd taken my answer to the Question of the Age... and he'd turned it into a thing. A fourth corner. And he had told everyone.",
+    "fact": "Brother Vareth has appropriated Grygum\u2019s incomplete answer to the Question of the Age and turned it into a published thesis, sparking mass academic frenzy and diverting attention from the ongoing murder investigation.",
+    "source_quote": "He'd taken my answer to the Question of the Age... and he'd turned it into a thing. A fourth corner.",
     "quote_verified": false
   },
   {
-    "type": "faction",
-    "subject": "Avowed Community",
-    "fact": "The Avowed Community has abandoned all pressing concerns \u2014 including an active murder and poisoned book \u2014 to debate and publish new academic theories, demonstrating their institutional obsession with research over survival.",
-    "source_quote": "There is an active murder running through this keep... And nothing says you are an academic institution quite like blowing off everything important to focus on what really matters: new research.",
-    "quote_verified": false
-  },
-  {
-    "type": "faction",
-    "subject": "Followers of Kelemvor",
-    "fact": "The Followers of Kelemvor have repeatedly and cryptically emphasized that death severs possession \u2014 a doctrine critical to understanding how the summoning sapphire operates, and why killing is the cleanest method to liberate a possessed object.",
-    "source_quote": "A dead person, it turns out, possesses nothing. An undead can. A dead man can't. The followers of Kelemvor have made that point very clear, repeatedly, through their god's usual incomprehensible cryptic phrasing.",
-    "quote_verified": false
-  },
-  {
-    "type": "monster",
-    "subject": "Poisoned Book",
-    "fact": "The poisoned book is a lethal artifact linked to Shar and Sel\u00fbne, capable of killing scholars who read it; it is believed to be the instrument used to murder the academic, and is currently in Daral's possession.",
-    "source_quote": "There is a poisoned book and a dead scholar.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "Summoning Sapphire",
-    "fact": "The stolen sapphire has a summoning enchantment that pulls items only from those who do not possess them \u2014 meaning it cannot retrieve objects from living or undead beings, only from corpses, making murder the optimal method to acquire a target item.",
-    "source_quote": "It could pull an item to you, but only an item not in anyone's possession. And a dead person, it turns out, possesses nothing.",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "Kalan Strongbranch's Key",
-    "fact": "The key once worn by Kalan Strongbranch is enchanted with a summoning property tied to the sapphire's mechanism; it was deliberately passed to Daz to remove it from Strongbranch\u2019s possession before his death, and now resides with Daz.",
-    "source_quote": "I had a key on me. It had hung around Kalan Strongbranch's neck once... I handed it to Daz and let it become his problem.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Scholar's Murder",
-    "fact": "A scholar was killed by the poisoned book, likely to gain access to a key or other possessed object; the murder is part of a pattern where death is used to circumvent magical possession rules.",
-    "source_quote": "There is a poisoned book and a dead scholar.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Publication of the Fourth Corner",
-    "fact": "Brother Vareth has publicly published a revised version of the Question of the Age, adding a fourth option to the triangle derived from Stroud's Gambit, triggering a mass academic distraction that has left the keep vulnerable.",
-    "source_quote": "He'd turned it into a thing. A fourth corner. And he had told everyone.",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "Who Killed the Scholar?",
-    "fact": "The identity of the scholar\u2019s killer remains unknown, but the method suggests a deep understanding of Kelemvor\u2019s doctrine on possession and the summoning properties of the sapphire \u2014 pointing to someone who has studied or exploited arcane death magic.",
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch was a paranoid scholar who carried a key tied to a stolen sapphire with a summoning enchantment. He removed the key from his possession because he understood that only a corpse cannot be bound by its magic.",
     "source_quote": "So if you wanted a man's key, the cleanest way to free it from his possession was to make him a corpse.",
     "quote_verified": true
   },
   {
-    "type": "thread",
-    "subject": "Daral\u2019s Drunken Remarks About Dragonborn",
-    "fact": "Daral made potentially incriminating barroom comments about dragonborn, which Zalthir recorded; if revealed, these remarks could trigger a violent response from dragonborn factions or be used as false evidence against Daral.",
-    "source_quote": "He'd worked out someone wanted him to take the fall... and he was very much hoping nobody would mention to Zalthir what he'd said about dragonborn.",
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is blunt and unadorned in truth-telling. He told Daral that solving the murder grants access to any book in Candlekeep \u2014 but emphasized the reward is worthless, undercutting any false hope.",
+    "source_quote": "Look, I'm just saying, if we solve the murder, we get any book in the place.\" A beat. \"We get shit.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Avowed Community",
+    "fact": "The Avowed Community has abandoned all urgent duties \u2014 including the murder of a scholar and the threat of a poisoned book \u2014 to obsess over a newly published academic thesis, revealing their institutional prioritization of scholarship over survival.",
+    "source_quote": "The whole Avowed community wanted, right then and there, to drop everything and debate it in the Grand Hall.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Followers of Kelemvor",
+    "fact": "The Followers of Kelemvor have established through their god\u2019s cryptic doctrine that a dead person possesses nothing, while the undead retain possession \u2014 a principle critical to understanding the summoning enchantment on the stolen sapphire.",
+    "source_quote": "An undead can. A dead man can't. The followers of Kelemvor have made that point very clear...",
     "quote_verified": false
   },
   {
-    "type": "location",
-    "subject": "Candlekeep Dining Room",
-    "fact": "The dining room \u2014 where meals are served \u2014 is currently unwatched due to the Avowed Community's academic frenzy, making it the ideal location for a poisoner to act or conceal further evidence.",
-    "source_quote": "The dining room, for one. Where the meals were served, and where, if you were a poisoner, you'd have wanted to be.",
+    "type": "event",
+    "subject": "murder of the scholar",
+    "fact": "A scholar has been murdered, likely via a poison tied to celestial mechanics, and the crime scene involves a stolen sapphire with a summoning enchantment that requires the victim to be dead to free a possessed object.",
+    "source_quote": "There is a poisoned book and a dead scholar.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "publication of the fourth corner",
+    "fact": "Brother Vareth published a revision of Grygum\u2019s incomplete answer to the Question of the Age, triggering a mass academic frenzy that diverted all attention from the murder investigation and left the keep unguarded.",
+    "source_quote": "He'd turned it into a thing. A fourth corner. And he had told everyone.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "the poison book",
+    "fact": "The poison book is a dangerous artifact tied to celestial mechanics and the timing of midnight. It is currently in Daral\u2019s possession, and he believes it was planted to frame him for the scholar\u2019s murder.",
+    "source_quote": "He had the poison book. He'd worked out someone wanted him to take the fall.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "the stolen sapphire",
+    "fact": "The stolen sapphire carries a summoning enchantment that can only pull items from corpses \u2014 not the living or undead. This mechanism explains why Kalan Strongbranch removed his key and why the scholar was killed.",
+    "source_quote": "The stolen sapphire carried a summoning working \u2014 it could pull an item to you, but only an item not in anyone's possession.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Kalan Strongbranch's key",
+    "fact": "Kalan Strongbranch's key once hung around his neck and was later passed to Daz. It is now in a state of transit, no longer possessed by its original owner, and potentially subject to the sapphire\u2019s summoning magic.",
+    "source_quote": "I had a key on me. It had hung around Kalan Strongbranch's neck once.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Zalthir's knowledge of dragonborn remarks",
+    "fact": "Daral made drunken, incriminating remarks about dragonborn in a barroom setting, and fears Zalthir will learn of them. Zalthir\u2019s recorded voice makes this an unresolved threat that could destroy Daral\u2019s credibility or safety.",
+    "source_quote": "He was very much hoping nobody would mention to Zalthir what he'd said about dragonborn. Drunk, barroom talk, not meant to be taken seriously.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the identity of the poisoner",
+    "fact": "The poisoner used the sapphire\u2019s summoning enchantment to kill the scholar by making him a corpse, thereby freeing the key. The killer\u2019s identity remains unknown, but the act reveals deep knowledge of Kelemvor\u2019s doctrine and celestial mechanics.",
+    "source_quote": "So if you wanted a man's key, the cleanest way to free it from his possession was to make him a corpse.",
     "quote_verified": true
   },
   {
     "type": "location",
-    "subject": "Research Area",
-    "fact": "The research area is now flooded with Avowed scholars debating the 'fourth corner' theory, leaving the rest of Candlekeep \u2014 including the dining room, archives, and chambers \u2014 dangerously unguarded.",
-    "source_quote": "Everyone was now headed toward the research area, which meant the keep was suddenly full of rooms nobody would be watching.",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is an academic fortress now dangerously unguarded. The entire Avowed Community has abandoned security to debate a new thesis, leaving dining halls, chambers, and corridors vulnerable to further murders or theft.",
+    "source_quote": "The keep was suddenly full of rooms nobody would be watching. The dining room, for one.",
     "quote_verified": false
   },
   {
     "type": "date",
-    "subject": "Session Time",
-    "fact": "The events occur during an indeterminate but critical moment \u2014 likely late afternoon \u2014 as Daral reflects on his morning's revelations and the group prepares to confront the murder mystery after the academic distraction.",
-    "source_quote": "That's a lot of columns to reconcile before lunch.",
-    "quote_verified": true
+    "subject": "time of midnight",
+    "fact": "Midnight is not a clock-based event in this context, but a celestial alignment \u2014 the moment the sun is directly opposite on the globe. The poison\u2019s trigger is location-based, making the passage of time irrelevant unless one moves to avoid the dark side of the world.",
+    "source_quote": "Midnight is when the sun is directly on the other side of the globe from you.",
+    "quote_verified": false
   }
 ]

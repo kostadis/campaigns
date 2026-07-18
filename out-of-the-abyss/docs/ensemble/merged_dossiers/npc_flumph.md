@@ -1,37 +1,45 @@
-<!-- source: npc_flumph.md -->
-
-
----
-
 ---
 name: Flumph
 type: npc
-n_facts: 11
+n_facts: 16
 chapters: 18-22
 ---
 
 ### Flumph
 
 **Current status:** Alive  
-**Current location:** Unknown (last observed after trauma dump in ch22)  
-**Allegiance/faction:** None; solitary psychic entity, avoids evil creatures  
-**Current possessions / notable items, spells, feats, wounds:** None noted  
-**Current assignment / role and key relationships:** None assigned; emotionally bonded to the memory of its deceased friend Buppido. Last interacted with heroes after performing a trauma dump.  
-**Defining recent actions:** Performed a trauma dump, releasing accumulated unpleasant memories into the minds of others, resulting in emotional relief. Its bioluminescent glow settled into a soft, exhausted teal afterward.  
-**Revealed motivations or secrets:** Feeds on residual psychic energy (not parasitically), avoids evil creatures identifiable by acts of torture, abuse, or horrific behavior. Uses trauma dumping as an emotional release mechanism. Remembers the caves and mesa (Area 5) as former peaceful gathering places now corrupted by conflict.  
+**Current location:** Unknown (last observed after trauma dump in ch22, no relocation noted)  
+**Allegiance/faction:** None; solitary entity of the Underdark, non-aligned but instinctively avoids evil creatures  
+**Current possessions / notable items:** None (previously had a gem stolen by Grygum in ch19; no new possession noted since)  
+**Spells/feats:** None explicitly known; innate psychic feeding and trauma-dumping ability  
+**Wounds:** None physically noted; emotionally drained, exhibiting signs of exhaustion from overuse of trauma-dumping  
+
+**Current assignment / role:** None formally assigned; acts as an empathic psychic sponge, absorbing residual emotional and psychic energy from its surroundings. Recently used as an emotional release valve after a violent battle, dumping accumulated trauma into others to achieve catharsis.  
+
+**Key relationships:**  
+- Last known association: Daz (used it as a prop to manipulate Errde, ch19) and Grygum (stole its gem, ch19) — no current interaction confirmed  
+- Emotionally bonded to memory of deceased friend Buppido (“Ever since my friend Buppido went stark raving mad…”, ch18)  
+
+**Defining recent actions:**  
+- After a violent battle (ch22), the Flumph absorbed overwhelming psychic emissions, performed a trauma dump into nearby individuals, and experienced profound emotional relief — its glow settled into a soft, exhausted teal.  
+- Previously, it reported that trauma dumps were “no longer as satisfying” (ch19), suggesting a growing need for stronger psychic stimuli — a need apparently met by the battle’s intensity.  
+
+**Revealed motivations or secrets:**  
+- Seeks emotional relief through trauma-dumping, not malice — views the act as necessary self-care.  
+- Deeply sensitive to evil acts, identifying them by torture, abuse, or feeding behaviors.  
+- Holds nostalgic knowledge of the Underdark’s past: the caves were once a peaceful gathering place for Derro and Duergar; the mesa (Area 5) was once a party site before becoming a war zone.  
+- Cannot read minds directly but perceives psychic residue — avoids evil beings instinctively.  
 
 ## Uncertainty
-- Exact current location after ch22 is unreported.  
-- Whether Buppido is deceased or merely lost/mad is implied but not confirmed with direct evidence beyond the Flumph’s statement.  
-- The Flumph’s movement or travel direction after the trauma dump is unspecified.  
-- No current companions are confirmed; previous interactions were with heroes, but their current presence or status is unknown.
+- The Flumph’s current location is unknown after ch22 — no subsequent movement or sighting is recorded.  
+- Whether Daz or Grygum still have any active connection to the Flumph is unconfirmed; their last interaction was in ch19, and no follow-up is noted.  
+- The gem stolen by Grygum in ch19 is not mentioned again — its current status and whether the Flumph has replaced or recovered it is unclear.  
+- The Flumph’s “need for more trauma” (ch19) was addressed in ch22 — but whether this is a permanent shift in its behavior or a temporary response to extreme stimuli is ambiguous.  
+- The nature of its “exhausted teal” glow is described as a sign of catharsis, but no prior or later color states are given for comparison — so its emotional baseline remains undefined.
 
 ---
 
 <!-- source: monster_flumph.md -->
-
-
----
 
 ---
 name: Flumph
@@ -42,15 +50,16 @@ chapters: 18-18
 
 ### Flumph
 
-**Current status:** Alive  
-**Current location:** Unknown (last observed in Chapter 18)  
-**Allegiance/faction:** None (solitary, non-affiliated)  
-**Current possessions / notable items, spells, feats, wounds:** None  
-**Current assignment / role and key relationships:** None; operates independently  
-**Defining recent actions:** Communicated telepathically with a pleasant voice, emitted the characteristic “flumph” sound, and fed on residual psychic energy. Exhibited non-aggressive behavior but caused trauma by unconsciously dumping psychic residue from other creatures’ emotional imprints.  
-**Revealed motivations or secrets:** Feeds solely on ambient, residual psychic energy—not as a parasite, but as a natural consumer of leftover emotional and mental echoes. Not aligned with Mind Flayers or any hostile faction.  
+- **Current status:** Alive  
+- **Current location:** Unknown (last observed in Chapter 18)  
+- **Allegiance/faction:** None (solitary, non-affiliated)  
+- **Current possessions / notable items, spells, feats, wounds:** None  
+- **Current assignment / role and key relationships:** None; solitary psychic feeder  
+- **Defining recent actions:** Communicated telepathically with a pleasant voice; emitted the characteristic “flumph” sound; fed on residual psychic energy; dumped traumatic psychic residue onto nearby creatures, causing trauma without malice  
+- **Revealed motivations or secrets:** Feeds only on residual background psychic energy — not parasitic like Mind Flayers; its trauma-dumping is an unintentional byproduct of feeding, not a deliberate attack  
 
 ## Uncertainty
-- Exact current location is unknown; no later chapter overrides the Chapter 18 observation.
-- Whether it is still in the same area or has moved since Chapter 18 is unspecified.
-- No confirmation whether it remains non-aggressive in all contexts, though no contradictory behavior is recorded.
+- Exact current location is unspecified  
+- Whether it remains in the same area as last observed (Chapter 18) is unconfirmed  
+- No information on whether it is still interacting with any specific individuals or parties  
+- No clarification on whether its trauma-dumping is voluntary or involuntary — only described as a behavioral side effect

@@ -1,0 +1,24 @@
+# Out of the Abyss planning config — binds each tracked NPC / faction to its dossier
+# and arc-score file so the planning.py synthesizer renders them as a single
+# `## {name}` block (dossier + score nested) instead of risking the LLM
+# mismatching a score onto the wrong entity.
+#
+# Paths resolve relative to THIS file's parent directory.
+#
+# arc_score semantics (same as party.yaml):
+#   arc_score: <path>   → entity has a formal arc-score mechanic
+#   arc_score: null     → INTENTIONALLY TRACKLESS — synthesizer must not
+#                         invent a score for them
+#   (key omitted)       → unspecified; treated like no arc score, no
+#                         trackless signal. Prefer explicit null.
+#
+# Excluded on purpose: PC arc scores belong in party.yaml, not here.
+
+# npcs:
+  # - name: <NPC name>
+  #   dossier: docs/npcs/<slug>.md
+  #   arc_score: docs/tracking/<slug>-score.md   # or null if trackless
+
+# factions:
+  # - name: <Faction name>
+  #   arc_score: docs/tracking/<slug>-score.md   # or null if trackless

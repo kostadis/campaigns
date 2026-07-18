@@ -8,29 +8,28 @@ chapters: 39-43
 ### Naomi Pathshutter
 
 **Current status:** Alive  
-**Current location:** Blingdenstone, in the crowded meeting hall (last seen attempting to coordinate response to seismic anomalies)  
-**Allegiance/faction:** Blingdenstone leadership (co-leader with Gurnik Tapfinger in strategic initiatives)  
-**Current possessions / notable items:** Map of the underground tunnels (spread during meeting in ch43)  
-**Current assignment / role:** Lead summoner attempting to restore access to Entémoch’s boon; tasked with coordinating investigation into strange subterranean vibrations and the sealed tunnels  
+**Current location:** Blingdenstone (in the crowded meeting hall, actively engaged in earth elemental research)  
+**Allegiance/faction:** Blingdenstone leadership (co-leader with Gurnik Tapfinger in the temple cleansing initiative)  
+**Current possessions / notable items:** A detailed map of the subterranean tunnels (spread on a table during the meeting)  
+**Current assignment / role:** Lead summoner attempting to establish a path to Entémoch's boon; tasked with coordinating investigation into anomalous seismic vibrations and sealed tunnels  
 **Key relationships:**  
-- Partnered with Gurnik Tapfinger in prior strategic proposals  
-- Now reports to and coordinates with Blingdenstone’s community leadership  
-- Has shifted from suspicion to genuine respect toward the party after they defeated four insane earth elementals and a Medusa  
-- Mistook Daz for an ogre — tension resolved by community defense of allies  
+- Partnered with Gurnik Tapfinger in the temple cleansing campaign  
+- Recently interacted with the party after initial mistrust; now holds genuine respect for them  
+- Mistook Daz for an ogre, causing brief tension, but the community defended Daz, reinforcing group loyalty  
 
 **Defining recent actions:**  
-- Spent 48 hours nonstop attempting to summon earth elementals, resulting in extreme exhaustion  
-- Failed to open the path to Entémoch’s boon after hallowing Ogrémoch’s altar — tunnels shifted and sealed, earth “frozen”  
-- Tasked the party with investigating the strange vibrations in the rock and locating the lost path to Entémoch’s boon  
-- Publicly expressed frustration and later admiration, altering community perception of the party’s capabilities  
+- Spent 48 consecutive hours attempting to summon earth elementals, resulting in extreme exhaustion  
+- Confirmed that hallowing Ogrémoch’s altar failed to open the path to Entémoch’s boon; tunnels have shifted and sealed  
+- Observed and acknowledged the party’s success in defeating four insane earth elementals and a Medusa  
+- Shifted from frustration to respect, and assigned the party to investigate strange rock vibrations and locate the lost path to Entémoch’s boon  
 
-**Revealed motivations or secrets:**  
-- Originally promoted the temple cleansing quest as a strategic imperative to redirect efforts toward infrastructure — now genuinely invested in restoring the earth’s balance  
-- Believed the cleansing would safely summon and protect earth elementals from Ogrémoch’s Bane — this assumption has been proven false  
+**Revealed motivations:**  
+- Believes restoring the connection to Entémoch’s boon is critical to healing the earth and preventing further corruption from Ogrémoch’s Bane  
+- Initially framed the temple cleansing as a strategic imperative for community infrastructure, possibly to redirect party efforts  
 
 ## Uncertainty
-- Was Gurnik Tapfinger still actively collaborating with Naomi after the failed summoning? (No later mention of him post-ch43)  
-- Is Naomi still the sole lead summoner, or has others taken over her role? (No indication of delegation, but her exhaustion implies possible need for aid)  
-- The exact nature of the “strange vibrations” and why the earth is “frozen” — described but not explained  
-- Whether the map she spread is her personal tool or an official Blingdenstone artifact  
-- Whether her initial proposal with Gurnik was a deception or a well-intentioned misjudgment — the text implies strategic redirection but does not confirm intent to mislead
+- The exact nature of her current magical abilities or spells beyond summoning is unspecified.  
+- Whether Gurnik Tapfinger is still actively collaborating with her is unclear after ch43 — he was not mentioned in her recent actions.  
+- It is unknown if the map she spread is a physical artifact she now possesses or a temporary tool for the meeting.  
+- The phrase “the earth seemed frozen, unable to heal” is descriptive — it is unclear if this is a literal magical condition or metaphorical.  
+- Her full title or official position within Blingdenstone’s hierarchy is not stated.

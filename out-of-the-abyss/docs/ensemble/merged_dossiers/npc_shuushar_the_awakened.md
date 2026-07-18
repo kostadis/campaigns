@@ -1,34 +1,43 @@
 ---
 name: Shuushar the Awakened
 type: npc
-n_facts: 48
+n_facts: 52
 chapters: 1-12
 ---
 
 ### Shuushar the Awakened
 
-**Current status:** Alive and departed from the party.  
-**Current location:** With a group of Kuo-Toans from Sloobludop, somewhere on or near the Darklake.  
-**Allegiance/faction:** Devotee of the Sea Mother; leader of a new Kuo-Toan movement rejecting the worship of the Deep Father and the creation of mad deities.  
-**Current possessions / notable items, spells, feats, wounds:** None specified. Recovered from trauma of Demogorgon’s appearance.  
-**Current assignment / role and key relationships:** Former guide and navigator for the party; now founder and leader of a reformist Kuo-Toan community. Last seen with a group of receptive Kuo-Toans from Sloobludop. Previously served as translator, mediator, and spiritual advisor to Gyrgum, Thorin, and others.  
+**Current status:** Alive  
+**Current location:** Departed from the party, journeying with a group of Kuo-Toans from Sloobludop  
+**Allegiance/faction:** Devotee of the Sea Mother; leader of a reformist Kuo-Toan movement rejecting the Deep Father cult and the creation of mad deities  
+**Current possessions / notable items, spells, feats, wounds:**  
+- No specific items, spells, or wounds are noted as currently held or sustained.  
+- Has recovered from trauma caused by Demogorgon’s appearance.  
+- Demonstrates mastery of “Kuo-toan-fulness” — a mental sanity technique for controlling madness.  
+
+**Current assignment / role and key relationships:**  
+- Acts as a guide and navigator, directing the party to sources of drinkable water and edible food during their journey.  
+- Formerly translated Drow speech, mediated between prisoners and captors, and assisted in orchestrating distractions.  
+- Now serves as a spiritual leader and evangelist for Kuo-Toan enlightenment.  
+- Last seen with the party; departed to join and lead a group of receptive Kuo-Toans from Sloobludop who reject mad god-creation.  
+- Maintains a relationship of trust with Gyrgum, Thorin, and Zalthir — who witnessed his final declaration.  
+
 **Defining recent actions:**  
-- Acted as guide and navigator, identifying sources of drinkable water and edible food during the journey.  
-- Identified and engaged with Kuo-Toans in Sloobludop who shared his vision of rejecting divine madness.  
-- Declared his calling: to lead these Kuo-Toans in building a new society free from the influence of the Deep Father and self-created gods (e.g., Leemooggoogoon).  
-- Left the party voluntarily, expressing gratitude and declaring, “I have found my people, and we will build a better world!”  
+- Recovered from psychological trauma induced by Demogorgon’s appearance.  
+- Successfully identified and connected with a group of Kuo-Toans in Sloobludop who are open to his message of rejecting divine madness.  
+- Declared his calling: to lead this group in building a new Kuo-Toan society free from the influence of the Deep Father and the compulsion to create new gods.  
+- Left the party voluntarily, expressing gratitude and certainty in his new purpose.  
 
 **Revealed motivations or secrets:**  
-- Seeks spiritual balance by rejecting offensive language and violent impulses, despite translating all Drow insults.  
-- Believes Kuo-Toan madness stems from the worship of the Deep Father and the creation of false gods through collective delusion.  
-- Advocates for “Kuo-toan-fulness,” mental restraint, and opening oneself to all viewpoints before judgment.  
-- Views the Sea Mother as the true, ancient deity and opposes the Deep Mother’s demand for humanoid sacrifices.  
-- Believes enlightenment and communal reform—not violence—are the path to Kuo-Toan salvation.
+- Believes the Sea Mother is the true, ancient deity, and opposes the Deep Father cult responsible for Kuo-Toan madness.  
+- Sees Kuo-Toan insanity as a product of collective imagination manifesting false gods (e.g., Leemooggoogoon).  
+- Advocates for restraint, mental discipline, and openness to all viewpoints before judgment.  
+- His vow to avoid repeating offensive words is a spiritual practice — yet he consistently translates Drow insults without omitting meaning, suggesting his restraint is performative or symbolic rather than absolute.  
 
 ## Uncertainty
-- The exact nature of Shuushar’s “mental sanity techniques” and “Kuo-toan-fulness” is described but not defined—no mechanics or effects are given.  
-- Whether Shuushar retains any ability to translate Drow speech after leaving the party is unknown.  
-- The phrase “Enlightmnet is necessary!” (ch12) contains a typo; it is unclear if this was intentional or an error in transcription.  
-- The identity of “Leemooggoogoon” is mentioned as a product of Kuo-Toan imagination but not elaborated upon—its origin or nature remains unexplained.  
-- While Shuushar was trapped under rocks in ch03, no later fact confirms his physical recovery from that event beyond the general statement of having “recovered from trauma” in ch12—this is assumed but not explicitly detailed.  
-- The timeline between ch09 (advocating for talking to Bloppblippodd) and ch12 (departing) lacks explicit connection—no fact confirms whether he successfully spoke with Bloppblippodd or how that influenced his later actions.
+- The exact nature of “Kuo-toan-fulness” is not defined beyond being a mental sanity technique; its mechanics or origin are unexplained.  
+- Whether Shuushar’s claim of discovering a “cure” for Kuo-Toan insanity is literal or metaphorical is ambiguous.  
+- The identity of “Ploopploopeen” as archpriest of the Sea Mother is referenced, but no confirmation of their current status or location is given beyond Sloobludop.  
+- It is unclear whether Shuushar’s earlier statement — “I don’t speak undercommon” — conflicts with his fluent translation of Drow speech; this may reflect linguistic limits or selective translation, but the contradiction is not resolved.  
+- The phrase “Shuushar is a Myconid child” in ch04 is likely an error or misattribution, as all other facts consistently identify him as a Kuo-Toan — this contradiction is unresolved.  
+- The phrase “Shuushar the Awakened is a Kuo-toan monitor” (ch09) is not further explained; it may be a title, role, or faction designation, but its meaning is unelaborated.

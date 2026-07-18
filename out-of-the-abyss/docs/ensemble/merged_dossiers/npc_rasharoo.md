@@ -1,8 +1,3 @@
-<!-- source: npc_rasharoo.md -->
-
-
----
-
 ---
 name: Rasharoo
 type: npc
@@ -13,26 +8,35 @@ chapters: 32-33
 ### Rasharoo
 
 **Current status:** Alive  
-**Current location:** Deep Underdark, en route to or near Blingdenstone; departed from the party after guiding them halfway.  
-**Allegiance/faction:** Myconid Explorer faction (dissenting from the Neverlight Grove’s sedentary orthodoxy); formerly aligned with Basidia but now independent.  
-**Current possessions / notable items, spells, feats, wounds:** None specified.  
-**Current assignment / role and key relationships:** Formerly a scout and pathfinder for the Neverlight Grove; now a guide who led the party halfway to Blingdenstone. Last seen parting ways with the party. Previously communicated with Basidia, but no longer traveling with them.  
-**Defining recent actions:** Revealed a hidden escape hatch from the Neverlight Grove; led the party through it; offered to guide them halfway to Blingdenstone before departing alone into the Underdark.  
+**Current location:** Deep Underdark, en route to Blingdenstone (last seen departing from the escape hatch, heading toward the deeper Underdark after parting ways with the party)  
+**Allegiance/faction:** Myconid Explorer (independent; opposes the sedentary, corrupted Neverlight Grove under Basidia’s leadership)  
+**Current possessions / notable items, spells, feats, wounds:** None specified  
+**Current assignment / role and key relationships:**  
+- Acts as a guide and pathfinder for Myconids seeking escape from the decaying Neverlight Grove.  
+- Recently led the party from the Grove through an escape hatch and guided them halfway to Blingdenstone.  
+- Last seen parting ways with the party as they entered the deeper Underdark.  
+- Previously collaborated with Basidia but now distances himself from her leadership; distrusts the Overbrite and the Grove’s corruption.  
 
-**Revealed motivations or secrets:** Believes the Underdark’s caves and tunnels are a single living Myconid entity that connects all Myconids, and that individual Myconids are “messages” for it. Holds that the natural state of Myconids is nomadic, not sedentary; distrusts the Grove’s corruption and the Overbrite’s light. Seeks to preserve Myconid freedom through exploration and escape.
+**Defining recent actions:**  
+- Revealed a hidden escape hatch from the Neverlight Grove.  
+- Urged the party to flee the Grove, citing its decay and the danger of the Overbrite.  
+- Offered to guide the party halfway to Blingdenstone before leaving them to continue alone.  
+
+**Revealed motivations or secrets:**  
+- Believes the Underdark’s tunnels and caves are a single living Myconid entity that connects all Myconids.  
+- Views Myconids as inherently nomadic, not sedentary; sees the Grove’s cultivation as a corruption of their natural state.  
+- Considers Myconids to be “messages” for the tunnel-entity, implying a spiritual or communicative purpose to their movement.  
+- Maintains escape routes and nutrient caches in anticipation of the Grove’s collapse.  
 
 ## Uncertainty
-- Conflict between “Myconid guide” (ch33) and “Myconid leader” (ch33) vs. “Myconid explorer” (ch32, ch33) — role title inconsistency, no clear hierarchy established.  
-- Unclear if Rasharoo is still alive after parting ways — though no death is recorded, their current whereabouts post-departure are unknown.  
-- Ambiguous whether Rasharoo’s belief in the “tunnels as a living Myconid” is a personal revelation or a shared doctrine among other explorers — no other Myconids are confirmed to share this view.  
-- Contradiction in alignment: ch33 says Rasharoo “follows Basidia into danger,” yet later leads the party away from the Grove independently — exact timing and nature of this shift are unclear.
+- Contradiction in role: Ch32 describes Rasharoo as a “Myconid Explorer” and “one of the few” who scout beyond the Grove; Ch33 calls him a “Myconid leader.” It is unclear if “leader” refers to formal authority or informal influence among explorers.  
+- Unclear if Rasharoo followed Basidia into danger *after* deciding to lead the party to safety — the chronology of his alignment shift is ambiguous.  
+- No confirmation of whether Rasharoo is still traveling with any other Myconids (e.g., Basidia) after the parting — their current status relative to him is unknown.  
+- The nature of the “escape hatch” and its location beyond the Grove is not described; its current accessibility or condition is unspecified.
 
 ---
 
 <!-- source: location_rasharoo.md -->
-
-
----
 
 ---
 name: Rasharoo
@@ -43,7 +47,7 @@ chapters: 33-33
 
 ### Rasharoo
 
-Rasharoo is a Myconid stronghold and leadership center. It serves as the location where the party reports their findings and prepares to flee the Neverlight Grove.
+Rasharoo is a Myconid stronghold and leadership center. It serves as the location where the party reports their findings to Basidia and the Myconid leadership, and from which they prepare to flee the Neverlight Grove.
 
 ## Uncertainty
 None.

@@ -1,205 +1,219 @@
 [
   {
     "type": "npc",
-    "subject": "Janussi",
-    "fact": "Janussi carried a locket always, never took it off, and kept his chamber thick with tobacco smoke to medicate his failing lungs, living inside a haze on purpose.",
-    "source_quote": "Janussi held one of the two keys of the Hightower Library, carried it always, never took it off, kept his chamber thick with it, medicated his failing lungs with the smell of it, lived inside a haze on purpose",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Daral Yashenti",
-    "fact": "Daral Yashenti had been at Janussi's throat for years, drank excessively, shouted at Janussi twice in one day, called him 'nothing but a glorified book peddler,' and fled the second argument in terror.",
-    "source_quote": "Daral Yashenti... those two have been at each other's throats for years... he drinks way too much... 'You're not fit to be the candle keep's keeper'... 'nothing but a glorified book peddler'... he ran away so fast",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Sylvira Savikas",
-    "fact": "Sylvira Savikas, a tiefling Curator of the Infernal Fortress, screamed at Janussi calling him a traitor, was seen glowing red in candlelight at 2\u20133 a.m. carrying a lantern she had no use for, and had incurred his wrath that morning.",
-    "source_quote": "Sylvira Savikas... gave me the heebie-jeebies... screamed that Janussi was a traitor... glowing red in the candlelight... carrying a lantern... she can see in the dark without any light at all",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Hightower Library",
-    "fact": "The Hightower Library has two keys \u2014 one held by Janussi, missing from his neck, and one held by the gate warden Kalan.",
-    "source_quote": "Janussi held one of the two keys of the Hightower Library... the other key is heralded by the gate warden, Kalan",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "the locket",
-    "fact": "The locket was missing from Janussi\u2019s neck \u2014 he carried it always, never took it off, and it was the only thing gone from the room.",
-    "source_quote": "The locket was missing. Off Janussi's neck. And that knocked something loose in his memory... Janussi carried it always, never took it off",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "the black residue",
-    "fact": "Black residue was on the man\u2019s mouth and fingers \u2014 definitively not from the blue ink, and came from somewhere the blue ink did not.",
-    "source_quote": "The black on the man's mouth came from somewhere the blue ink did not... Black. Definitively not the blue ink \u2014 Grygum had already settled that, checked it twice and certain",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "the gift tag",
-    "fact": "The gift tag read: 'To Janussi, read it and weep, you old snob, a proper Dead Winter gift, your loving rival.' Written in a cramped, sour hand, by someone who resented the act of writing it.",
-    "source_quote": "'To Janussi, read it and weep, you old snob, a proper Dead Winter gift, your loving rival.'... cramped, sour hand... script of someone who resented the act of writing it",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "the comedy book",
-    "fact": "The comedy book \u2014 *The Golden Ass* \u2014 was annotated with jokes and obscure spell notes in the same hand and fresh ink, then vanished from the room, leaving only its absence as proof it had been there.",
-    "source_quote": "*The Golden Ass* was a comedy... writing down jokes he found funny... blue ink captures both notes on obscure spells and jokes?... the same hand, the same fresh ink... the comedy book had walked out of the room... you do not annotate a thing you do not hold",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "the murder chamber",
-    "fact": "The murder chamber was filled with tobacco smoke \u2014 a habit Janussi kept to mask his failing lungs \u2014 and now served as the site where the smell of poison was hidden.",
-    "source_quote": "A man who fills his own room with smoke as a habit... The one thing that tobacco smoke would do is hide the smell of poison... you fill a room with smoke to keep him from smelling what's already there",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "the midnight thud",
-    "fact": "At midnight, Hollypocket heard a thud from above \u2014 the last sound she associated with Janussi being alive \u2014 and later recalled seeing Sylvira Savikas\u2019s glowing red face in candlelight, carrying a lantern she had no use for.",
-    "source_quote": "I heard a thud upstairs... I swear I could see that devil woman's \u2014 Sylvira Savikas's \u2014 face glowing red in the candlelight... she was carrying a lantern. She's a tiefling, and she can see in the dark without any light at all",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "the argument with Teles Ahvoste",
-    "fact": "Teles Ahvoste shouted 'hypocrite' at Janussi during their meeting around the ninth bell, ending in a shouting match.",
-    "source_quote": "I did hear Teles shout, *hypocrite*, at poor Janussi before he stormed out",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by the continuing speaker banner as the POV character who observes the ink and parchment clues, and who accepts herbal tea from Hollypocket with unusual enthusiasm.",
+    "source_quote": "[Continuing \u2014 Speaker: Zalthir, Scene: Clues in the Ink and Parchment]",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "the argument with Kalan Strongbranch",
-    "fact": "Kalan Strongbranch passed Hollypocket on the steps with a face like thunder, nearly knocking the tea tray out of her hands.",
-    "source_quote": "I passed Kalan Strongbranch on the steps. He had a face like thunder, nearly knocked the tray out of my hands",
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is the one who says, 'have any enemies, right?' and later proposes finding the housekeeper to determine what is missing or out of place.",
+    "source_quote": "have any enemies, right?",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "the confrontation with Daral at half past ten",
-    "fact": "Daral Yashenti returned drunk at half past ten, pounded on Janussi\u2019s door until let in, argued loudly, then fled down the stairs in terror \u2014 the fastest Janussi had ever seen him run.",
-    "source_quote": "Daral came back at half past ten, drunk as a skunk, pounding on the door until Janussi let him in... another loud argument, then the slam and the great reader running back down the stairs... I'd never seen him run away so fast",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "the gift delivery",
-    "fact": "A gift was delivered to Janussi \u2014 a Dead Winter gift inscribed by a rival \u2014 written in a resentful, cramped hand, and left in the wastebasket.",
-    "source_quote": "A gift tag surfaced from the wastebasket... 'To Janussi, read it and weep, you old snob, a proper Dead Winter gift, your loving rival.'",
-    "quote_verified": false
-  },
-  {
     "type": "npc",
-    "subject": "Fembris",
-    "fact": "Fembris, the assistant, identified Daral Yashenti as Janussi\u2019s long-time rival and revealed that Janussi held one of the two keys to the Hightower Library.",
-    "source_quote": "Fembris... 'Oh, that'll be Daral Yashenti. Those two have been at each other's throats for years.'... 'Janussi held one of the two keys of the Hightower Library.'",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Hollypocket",
-    "fact": "Hollypocket, the housekeeper, witnessed all major confrontations with Janussi, heard the midnight thud, and saw Sylvira Savikas glowing red in candlelight carrying a lantern she had no use for.",
-    "source_quote": "Hollypocket... brought the keeper his morning tea... heard Teles shout 'hypocrite'... overheard Daral calling him 'glorified book peddler'... heard the midnight thud... saw Sylvira Savikas\u2019s face glowing red... carrying a lantern... she can see in the dark without any light at all",
-    "quote_verified": false
+    "subject": "Thorin",
+    "fact": "Thorin asks, 'Wait, is that describing the type of writing?' and identifies the gift tag's script as 'grumpy' and 'cramped,' and later says, 'Okay, so yeah, there's definitely some sort of poison going on,' and 'Am I reaching too deep here?'",
+    "source_quote": "Wait, is that describing the type of writing?",
+    "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Daz",
-    "fact": "Daz, the Stonespeaker, used his crystal to prepare to interrogate the housecat \u2014 the only living witness in the chamber \u2014 and was the first to notice the significance of Sylvira\u2019s lantern.",
-    "source_quote": "Daz... 'I think I can talk to the cat.'... 'Talking to beasts, yeah. It's part of what the stone speaker crystal grants me.'... Daz was paying the weeping woman no attention whatsoever... 'That explains the candle.'",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "the Garden Shadow",
-    "fact": "The Garden Shadow had a saying about absence \u2014 that a room tells you most by what it is missing \u2014 possibly echoed by Brother Tharusk, the tall one who always smelled of incense.",
-    "source_quote": "The Garden Shadow had a saying about that \u2014 or possibly Brother Tharusk did, the tall one who always smelled of incense",
+    "fact": "Daz is the one who says, 'I like the way you're thinking,' and later listens intently when Hollypocket describes Sylvira Savikas carrying a lantern, and is noted as paying no attention to her weeping.",
+    "source_quote": "I like the way you're thinking,",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "the poison hypothesis",
-    "fact": "The poison hypothesis emerged from the absence of the book, the black residue, the smoke, and the locket \u2014 all pointing to a murder masked by environmental concealment.",
-    "source_quote": "The black on the pages of a book that was no longer in the room. The smoke that hid the smell of it... The one thing that tobacco smoke would do is hide the smell of poison... you don't fill a room with smoke to kill a man \u2014 you fill a room with smoke to keep him from smelling what's already there",
-    "quote_verified": false
+    "type": "npc",
+    "subject": "Fembris",
+    "fact": "Fembris identifies Daral Yashenti as Janussi\u2019s long-time rival and reveals that Janussi held one of the two keys to the Hightower Library, and that the other key is held by Kalan.",
+    "source_quote": "Oh, that'll be Daral Yashenti. Those two have been at each other's throats for years.",
+    "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "the cipher hypothesis",
-    "fact": "The cipher hypothesis arose from the annotated comedy book \u2014 jokes and spell notes in the same hand, suggesting the book itself was a key to a replacement cipher.",
-    "source_quote": "There's something written in the book that wasn't part of the original book \u2014 or maybe he's using the book and the notes to do some sort of cipher. Some sort of replacement cipher, and there's, like, some sort of code that the book ends up being the key to.",
+    "type": "npc",
+    "subject": "Hollypocket",
+    "fact": "Hollypocket reports overhearing violent arguments between Janussi and Kalan Strongbranch, Teles Ahvoste, Daral Yashenti, and Sylvira Savikas, and describes seeing Sylvira's face glowing red in candlelight at 2\u20133 a.m. while carrying a lantern.",
+    "source_quote": "I was bringing the keeper his morning tea when I passed Kalan Strongbranch on the steps.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daral Yashenti",
+    "fact": "Daral Yashenti is described as having shouted at Janussi, 'You're not fit to be the candle keep's keeper,' and called him 'nothing but a glorified book peddler,' and was heard pounding on Janussi\u2019s door at half past ten, leading to a loud argument before fleeing.",
+    "source_quote": "You're not fit to be the candle keep's keeper, Daral shouted at poor Janussi",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sylvira Savikas",
+    "fact": "Sylvira Savikas is described as screaming that Janussi was a traitor, nearly taking the door off its hinges, and was seen by Hollypocket at 2\u20133 a.m. with a glowing red face and carrying a lantern despite being a tiefling who can see in the dark.",
+    "source_quote": "That devil woman! She gives me the heebie-jeebies!",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Kalan Strongbranch",
-    "fact": "Kalan Strongbranch, the gate warden, holds the second key to the Hightower Library and was seen with a face like thunder the morning of the murder.",
-    "source_quote": "the other key is heralded by the gate warden, Kalan... He had a face like thunder, nearly knocked the tray out of my hands",
-    "quote_verified": false
+    "fact": "Kalan Strongbranch is described by Hollypocket as having a face like thunder when passing her on the steps, and is identified by Fembris as the keeper of the second key to the Hightower Library.",
+    "source_quote": "I was bringing the keeper his morning tea when I passed Kalan Strongbranch on the steps.",
+    "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Teles Ahvoste",
-    "fact": "Teles Ahvoste shouted 'hypocrite' at Janussi during their meeting, ending in a shouting match.",
-    "source_quote": "I did hear Teles shout, *hypocrite*, at poor Janussi before he stormed out",
+    "fact": "Teles Ahvoste is reported by Hollypocket to have shouted 'hypocrite' at Janussi during a meeting around the ninth bell.",
+    "source_quote": "I did hear Teles shout, *hypocrite*, at poor Janussi before he stormed out.",
     "quote_verified": true
   },
   {
-    "type": "npc",
-    "subject": "Zalthir",
-    "fact": "Zalthir was the one who noted the significance of Sylvira\u2019s lantern and the connection between the candlelight and the poison\u2019s concealment.",
-    "source_quote": "That explains the candle.",
+    "type": "location",
+    "subject": "Hightower Library",
+    "fact": "The Hightower Library is referenced as having two keys \u2014 one held by the dead Janussi and one held by the gate warden Kalan \u2014 and is implied to have had materials deleted or tampered with.",
+    "source_quote": "Janussi held one of the two keys of the, of the Hightower Library.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "locket",
+    "fact": "The locket is described as having been worn by Janussi always, never taken off, and now missing from his neck.",
+    "source_quote": "the locket was missing. Off Janussi's neck.",
     "quote_verified": false
   },
   {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum insisted on interviewing the housekeeper to determine what was missing \u2014 grounding the investigation in physical absence rather than political motive.",
-    "source_quote": "One thing we need is somebody who knows what should be here, so they can tell us if anything's missing... go find, say, the housekeeper, and ask her, what is missing or out of place",
-    "quote_verified": false
+    "type": "object",
+    "subject": "gift tag",
+    "fact": "The gift tag is described as being written in a cramped, sour hand with the message: 'To Janussi, read it and weep, you old snob, a proper Dead Winter gift, your loving rival.'",
+    "source_quote": "To Janussi, read it and weep, you old snob, a proper Dead Winter gift, your loving rival.",
+    "quote_verified": true
   },
   {
-    "type": "npc",
-    "subject": "Thorin",
-    "fact": "Thorin connected the gift tag to the rivalry theory and identified the black residue as inconsistent with the blue ink, reinforcing the poison hypothesis.",
-    "source_quote": "Okay, so that supports my theory. Some sort of rival gave him a gift, but it was sort of like a bitter thing... Black. Definitively not the blue ink",
-    "quote_verified": false
+    "type": "object",
+    "subject": "lantern",
+    "fact": "The lantern is noted as being carried by Sylvira Savikas at 2\u20133 a.m., despite her being a tiefling who can see in the dark without light, indicating its use was to conceal something.",
+    "source_quote": "she was carrying a lantern. She's a tiefling, and she can see in the dark without any light at all.",
+    "quote_verified": true
   },
   {
-    "type": "npc",
-    "subject": "Daz",
-    "fact": "Daz recognized the significance of the lantern carried by Sylvira Savikas \u2014 a tiefling who needs no light \u2014 and was the first to link it to the candlelight as a cover for poison.",
-    "source_quote": "That explains the candle.",
-    "quote_verified": false
+    "type": "object",
+    "subject": "black residue",
+    "fact": "The black residue is described as being on Janussi\u2019s fingers and mouth, definitively not from the blue ink, and associated with poison.",
+    "source_quote": "Black. Definitively not the blue ink \u2014 Grygum had already settled that, checked it twice and certain.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "blue ink",
+    "fact": "The blue ink is described as capturing both notes on obscure spells and jokes, written in the same hand, with the joke annotations dried first.",
+    "source_quote": "The blue ink captures both notes on obscure spells and jokes?",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Garden Shadow",
+    "fact": "The Garden Shadow is referenced as having a saying about absence \u2014 'a room tells you most by what it is missing' \u2014 though it is unclear whether the saying belongs to the place or to Brother Tharusk.",
+    "source_quote": "The Garden Shadow had a saying about that \u2014 or possibly Brother Tharusk did, the tall one who always smelled of incense",
+    "quote_verified": true
   },
   {
     "type": "location",
     "subject": "Candlekeep",
-    "fact": "Candlekeep\u2019s culture \u2014 not the library, but the scholars \u2014 is defined by grudges filed like scrolls, polished over years, and deployed as weapons.",
-    "source_quote": "I despise this whole place a little \u2014 not Candlekeep, Candlekeep's fine, the books are fine \u2014 but the *culture* of it, the scholars who keep grudges the way a dragon keeps gold, sitting on them for years, polishing them",
+    "fact": "Candlekeep is referenced as a place with fine books but a toxic culture of scholars who hoard grudges like dragons hoard gold.",
+    "source_quote": "I despise this whole place a little \u2014 not Candlekeep, Candlekeep's fine, the books are fine \u2014 but the *culture* of it",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "the discovery of the missing book",
-    "fact": "The comedy book \u2014 *The Golden Ass* \u2014 was confirmed missing from the room, its absence the only physical change, and its annotations the only evidence of its presence.",
-    "source_quote": "the comedy book had walked out of the room... you do not annotate a thing you do not hold... And now it was gone, and it was the only thing gone",
+    "subject": "midnight thud",
+    "fact": "The midnight thud is reported by Hollypocket as a sound heard upstairs after the bell tower rang, which she later realized may have been the moment Janussi died.",
+    "source_quote": "I thought I heard a thud upstairs.",
     "quote_verified": false
   },
   {
     "type": "event",
-    "subject": "the final hypothesis",
-    "fact": "The final hypothesis combined poison, cipher, and rivalry \u2014 the book was a cipher key, the smoke concealed poison, the locket was stolen to implicate a rival, and Daral and Sylvira were the prime suspects.",
-    "source_quote": "The poison and the cipher could both be true. The missing book carried both. We had read the room down to what it was willing to give. The rest of it lived somewhere else, and we'd have to go find it.",
+    "subject": "Janussi's final meetings",
+    "fact": "Janussi held a series of one-on-one meetings with the Great Readers the morning of his death, each ending in explosive shouting matches with Kalan, Teles, Daral, and Sylvira.",
+    "source_quote": "Janussi had spent his last morning in a series of one-on-one meetings with the Great Readers, clearing business before Deadwinter Day.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daral's second visit",
+    "fact": "Daral Yashenti returned to Janussi\u2019s chamber at half past ten, drunk, pounded on the door, argued loudly, and then fled down the stairs \u2014 the first time Janussi was seen running away from someone.",
+    "source_quote": "Daral came back at half past ten, drunk as a skunk, pounding on the door until Janussi let him in, another loud argument, then the slam and the great reader running back down the stairs.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sylvira's nocturnal appearance",
+    "fact": "Sylvira Savikas was seen by Hollypocket at 2\u20133 a.m. with her face glowing red in candlelight, carrying a lantern she had no need for, then vanishing.",
+    "source_quote": "I swear I could see that devil woman's \u2014 Sylvira Savikas's \u2014 face glowing red in the candlelight.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Keeper's tower",
+    "fact": "The Keeper's tower is referenced as the location of Hollypocket\u2019s apartment below it, and the site of Janussi\u2019s chamber and death.",
+    "source_quote": "Hollypocket's apartment sat below the Keeper's tower",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Stonespeaker crystal",
+    "fact": "The Stonespeaker crystal is described as granting Daz the ability to talk to beasts, and was used to initiate the cat interrogation.",
+    "source_quote": "Talking to beasts, yeah. It's part of what the stone speaker crystal grants me.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi is described as a scholar who kept his chamber thick with tobacco smoke to medicate his failing lungs, annotated a comedy book with both jokes and spell notes in blue ink, carried a locket always, and was the target of multiple violent arguments.",
+    "source_quote": "Janussi had loved the stuff \u2014 kept his chamber thick with it, medicated his failing lungs with the smell of it, lived inside a haze on purpose.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Underdark",
+    "fact": "The Underdark is referenced by Zalthir as a place where violence is honest and six angles are run at once, contrasted with Candlekeep\u2019s hidden grudges.",
+    "source_quote": "In the Underdark everyone runs six angles at once and at least there it's honest about being a knife fight.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "the missing book",
+    "fact": "The missing book \u2014 *The Golden Ass* \u2014 is described as having been annotated by Janussi with jokes and spell notes, then walked out of the room, and is suspected of containing a cipher or replacement code.",
+    "source_quote": "The Golden Ass was a comedy. Janussi had been writing down jokes he found funny \u2014 the man had a sense of humor he'd evidently kept private.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "the poison theory",
+    "fact": "The poison theory is proposed as the reason the smoke in Janussi\u2019s chamber was used \u2014 not to kill, but to mask the smell of poison, and the black residue on his mouth supports this.",
+    "source_quote": "The one thing that tobacco smoke would do is hide the smell of poison.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "the cipher theory",
+    "fact": "The cipher theory is proposed by Thorin \u2014 that Janussi used *The Golden Ass* as a key to a replacement cipher, and the book\u2019s absence prevents decryption.",
+    "source_quote": "There's something written in the book that wasn't part of the original book \u2014 or maybe he's using the book and the notes to do some sort of cipher.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Brother Tharusk",
+    "fact": "Brother Tharusk is referenced as possibly the originator of the Garden Shadow\u2019s saying about absence, described as the tall one who always smelled of incense.",
+    "source_quote": "The Garden Shadow had a saying about that \u2014 or possibly Brother Tharusk did, the tall one who always smelled of incense",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan",
+    "fact": "Kalan is identified as the gate warden who holds the second key to the Hightower Library, and is described by Hollypocket as having a face like thunder when seen on the steps.",
+    "source_quote": "that the other key is heralded by the gate warden, Kalan.",
     "quote_verified": true
   }
 ]

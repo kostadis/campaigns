@@ -2,176 +2,260 @@
   {
     "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum found the idea of buying the other adventure funnier than the narrator did.",
+    "fact": "Grygum finds the idea of buying another adventure funnier than Zalthir does.",
     "source_quote": "He found this funnier than I did.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum finds most things funnier than the narrator does.",
+    "fact": "Grygum believes most things are funnier to him than they are to Zalthir.",
     "source_quote": "Most things, he does.",
     "quote_verified": true
   },
   {
     "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir noticed the blue ink on the book captured both obscure spell notes and jokes.",
+    "source_quote": "The blue ink captures both notes on obscure spells and jokes?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir realized Janussi had shifted from writing jokes to researching spells, based on ink drying patterns.",
+    "source_quote": "Jokes first. The ink on those had dried. Then he'd flopped over into the spell research.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir recalled the Garden Shadow\u2019s saying about absence, though he wasn't sure if it was the Garden Shadow or Brother Tharusk.",
+    "source_quote": "The Garden Shadow had a saying about that \u2014 or possibly Brother Tharusk did, the tall one who always smelled of incense; I wasn't listening to either of them closely.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir understood that a room reveals itself most through what is missing.",
+    "source_quote": "A room tells you most by what it is missing.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
     "subject": "Thorin",
-    "fact": "Thorin believes the gift tag supports his theory about a rival giving Janussi a bitter gift.",
+    "fact": "Thorin noticed the black residue on Janussi\u2019s fingers and mouth was definitively not blue ink.",
+    "source_quote": "What color was, like, on his fingers and mouth, was it black or red? Black. Definitively not the blue ink",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin interpreted the gift tag\u2019s cramped, grumpy handwriting as evidence of a bitter rivalry.",
+    "source_quote": "It's, like, grumpy?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin believes the gift tag supports his theory that Daral Yashenti gave Janussi a bitter gift.",
     "source_quote": "Okay, so that supports my theory. Some sort of rival gave him a gift, but it was sort of like a bitter thing.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Thorin",
-    "fact": "Thorin wonders if the missing comedy book might be part of a cipher or replacement code.",
-    "source_quote": "Am I reaching too deep here?",
+    "fact": "Thorin suspects the missing comedy book may contain a cipher or replacement code.",
+    "source_quote": "There's something written in the book that wasn't part of the original book \u2014 or maybe he's using the book and the notes to do some sort of cipher. Some sort of replacement cipher, and there's, like, some sort of code that the book ends up being the key to.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Narrator",
-    "fact": "The narrator does not respond to Daz\u2019s approval of Thorin\u2019s thinking.",
+    "subject": "Zalthir",
+    "fact": "Zalthir did not respond to Daz\u2019s compliment on his thinking, silently considering both poison and cipher as possibilities.",
     "source_quote": "I said nothing to that.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Narrator",
-    "fact": "The narrator despises the culture of Candlekeep, especially its scholars who harbor long-standing grudges.",
+    "subject": "Zalthir",
+    "fact": "Zalthir believed the poison and cipher could both be true, and that the missing book carried both.",
+    "source_quote": "The poison and the cipher could both be true. The missing book carried both.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir despises the scholarly culture of Candlekeep for its hidden grudges and performative civility.",
     "source_quote": "I despise this whole place a little \u2014 not Candlekeep, Candlekeep's fine, the books are fine \u2014 but the *culture* of it, the scholars who keep grudges the way a dragon keeps gold, sitting on them for years, polishing them.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Narrator",
-    "fact": "The narrator recognizes rage that has had time to set as a vector that points somewhere.",
-    "source_quote": "I've learned to read that. Rage that's had time to set is a vector. It points somewhere.",
+    "subject": "Zalthir",
+    "fact": "Zalthir recognized Daral Yashenti\u2019s long-standing grudge as a vector of rage that had fully set.",
+    "source_quote": "Rage that's had time to set is a vector. It points somewhere.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir understood that Daral Yashenti had unintentionally become the wall of suspicion.",
+    "source_quote": "Daral Yashenti had just walked himself into being the wall.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir knew the locket was missing from Janussi\u2019s neck and that it was significant.",
+    "source_quote": "The locket was missing. Off Janussi's neck.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir realized the smoke in the room was not meant to kill, but to hide the smell of poison.",
+    "source_quote": "You don't fill a room with smoke to kill a man \u2014 you fill a room with smoke to keep him from smelling what's already there.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir noticed that Sylvira Savikas was carrying a lantern despite being a tiefling who can see in the dark.",
+    "source_quote": "She was carrying a lantern. She's a tiefling, and she can see in the dark without any light at all.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir believed the candlelight that lit Sylvira\u2019s face came from the lantern, not a candle.",
+    "source_quote": "The candlelight that lit her face had not come from a candle at all.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir understood that Janussi always wore the locket and never took it off.",
+    "source_quote": "Janussi carried it always, all the time, never took it off.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum does not like Daral Yashenti.",
-    "source_quote": "Hmm, well, I already don't like him.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum wants to find the housekeeper to determine what is missing from the room.",
+    "fact": "Grygum wanted to find someone who knew what should be in the room to identify what was missing.",
     "source_quote": "One thing we need is somebody who knows what should be here, so they can tell us if anything's missing.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum intends to ask the housekeeper what is missing or out of place.",
+    "fact": "Grygum intended to ask the housekeeper, Hollypocket, what was missing or out of place.",
     "source_quote": "go find, say, the housekeeper, and ask her, what is missing or out of place.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Hollypocket",
-    "fact": "Hollypocket is afraid of Sylvira Savikas.",
-    "source_quote": "That devil woman! She gives me the heebie-jeebies!",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Hollypocket",
-    "fact": "Hollypocket heard Sylvira Savikas screaming at Janussi and thought they might have come to blows.",
-    "source_quote": "Raging, screaming that Janussi was a traitor, the two of them sounding for a moment as though they had come to blows, before she stormed out and nearly took the door off its hinges.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Hollypocket",
-    "fact": "Hollypocket saw Sylvira Savikas\u2019s face glowing red in the candlelight at 2 or 3 in the morning.",
-    "source_quote": "I swear I could see that devil woman's \u2014 Sylvira Savikas's \u2014 face glowing red in the candlelight.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Hollypocket",
-    "fact": "Hollypocket noticed Sylvira Savikas was carrying a lantern despite being a tiefling who can see in the dark.",
-    "source_quote": "But what was really odd was not that Sylvira was there in the middle of the night \u2014 I've seen her in the middle of the night before \u2014 but that she was carrying a lantern. She's a tiefling, and she can see in the dark without any light at all.",
+    "subject": "Grygum",
+    "fact": "Grygum heard Hollypocket describe Daral Yashenti as drunk and pounding on Janussi\u2019s door at half past ten.",
+    "source_quote": "Daral came back at half past ten, drunk as a skunk, pounding on the door until Janussi let him in",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Hollypocket",
-    "fact": "Hollypocket believes Janussi always wore the locket and never took it off.",
-    "source_quote": "the locket \u2014 Janussi carried it always, all the time, never took it off. He carried it all.",
+    "subject": "Grygum",
+    "fact": "Grygum heard Hollypocket say Janussi ran away from Daral faster than she\u2019d ever seen him run.",
+    "source_quote": "I'd never seen him run away so fast.",
     "quote_verified": true
   },
   {
-    "type": "event",
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum heard Hollypocket say she saw Sylvira Savikas\u2019s face glowing red in the candlelight around 2 or 3 a.m.",
+    "source_quote": "I swear I could see that devil woman's \u2014 Sylvira Savikas's \u2014 face glowing red in the candlelight.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum understood that Sylvira was carrying a lantern she didn\u2019t need because she could see in the dark.",
+    "source_quote": "She was carrying a lantern. She's a tiefling, and she can see in the dark without any light at all.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum noticed that Hollypocket believed Janussi had incurred Sylvira\u2019s wrath that morning.",
+    "source_quote": "I was never sure but what the keeper saw in her, but he certainly incurred her wrath that morning.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
     "subject": "Daz",
-    "fact": "Daz stopped paying attention to the weeping Hollypocket and became lost in his own thoughts.",
+    "fact": "Daz refused to drink the herbal tea offered by Hollypocket.",
+    "source_quote": "Thorin declined \u2014 \"No thank you, I'm good.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz noticed the cat had been in the chamber and believed it might provide an alibi or witness testimony.",
+    "source_quote": "The animal had been in the chamber; the dead don't volunteer alibis, but a five-year-old housecat with opinions might.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz believed he could talk to the cat using the Stonespeaker crystal.",
+    "source_quote": "I think I can talk to the cat,",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz was paying no attention to Hollypocket\u2019s weeping, lost in his own thoughts.",
     "source_quote": "Daz, I noticed, was paying the weeping woman no attention whatsoever, off somewhere in his own ledger.",
     "quote_verified": true
   },
   {
-    "type": "event",
+    "type": "npc",
     "subject": "Daz",
-    "fact": "Daz suddenly started listening when Hollypocket mentioned the lantern.",
+    "fact": "Daz suddenly listened when Zalthir mentioned the lantern and Sylvira\u2019s tiefling nature.",
     "source_quote": "Hmm,\" said Daz, suddenly listening after all.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Daz",
-    "fact": "Daz believes he can talk to the cat using the Stonespeaker crystal.",
-    "source_quote": "I think I can talk to the cat,\" I said.",
+    "fact": "Daz realized the locket and the key to the Hightower Library were connected to the missing book and the deletion of records.",
+    "source_quote": "So could that be the key to the library that was around there? Did somebody\u2026 that might explain why that stuff got deleted off the library, or off that book that no one should have touched.",
     "quote_verified": true
   },
   {
-    "type": "npc",
-    "subject": "Daz",
-    "fact": "Daz carries the Stonespeaker crystal as a useful tool for communicating with beasts.",
-    "source_quote": "Talking to beasts, yeah. It's part of what the stone speaker crystal grants me.",
+    "type": "thread",
+    "subject": "Janussi\u2019s locket",
+    "fact": "The locket was always worn by Janussi and never removed, making its absence significant.",
+    "source_quote": "Janussi carried it always, all the time, never took it off.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The two keys to the Hightower Library",
+    "fact": "One key was around Janussi\u2019s neck and missing; the other was held by the gate warden, Kalan.",
+    "source_quote": "Janussi held one of the two keys... the other key is heralded by the gate warden, Kalan.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The rivalry between Janussi and Daral Yashenti",
+    "fact": "Daral Yashenti and Janussi had been at each other's throats for years, with Daral harboring deep resentment.",
+    "source_quote": "Those two have been at each other's throats for years.",
     "quote_verified": true
   },
   {
     "type": "thread",
     "subject": "The missing comedy book",
-    "fact": "The missing comedy book may contain a cipher or hidden code, but its contents and purpose remain unknown.",
-    "source_quote": "There's something written in the book that wasn't part of the original book \u2014 or maybe he's using the book and the notes to do some sort of cipher.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "The locket",
-    "fact": "The locket taken from Janussi\u2019s neck is missing, and its significance is not yet understood.",
-    "source_quote": "The locket was missing. Off Janussi's neck.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "The second key to the Hightower Library",
-    "fact": "The second key to the Hightower Library is held by the gate warden Kalan, but its connection to the murder is unconfirmed.",
-    "source_quote": "that the other key is heralded by the gate warden, Kalan.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "Sylvira Savikas\u2019s midnight lantern",
-    "fact": "Sylvira Savikas carried a lantern she did not need, suggesting she was hiding her presence \u2014 but her motive remains unclear.",
-    "source_quote": "But what was really odd was not that Sylvira was there in the middle of the night \u2014 I've seen her in the middle of the night before \u2014 but that she was carrying a lantern. She's a tiefling, and she can see in the dark without any light at all.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Thorin",
-    "fact": "Thorin declined Hollypocket\u2019s herbal tea.",
-    "source_quote": "No thank you, I'm good.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Zalthir",
-    "fact": "Zalthir accepted Hollypocket\u2019s herbal tea with more enthusiasm than the situation required.",
-    "source_quote": "Yes, I love\u2026 Absolutely!",
+    "fact": "The comedy book was the only thing missing from the room, and its absence was the central clue.",
+    "source_quote": "And now it was gone, and it was the only thing gone.",
     "quote_verified": true
   }
 ]

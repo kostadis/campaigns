@@ -1,19 +1,20 @@
 ---
 name: Pizwog
 type: npc
-n_facts: 7
+n_facts: 3
 chapters: 56-56
 ---
 
 ### Pizwog
 
-**Current status:** Alive  
-**Current location:** Candlekeep  
-**Allegiance/faction:** Independent scholar affiliated with Candlekeep  
-**Current possessions / notable items:** A syncretic research paper on Sword Coast religions, distributed as a religious tract  
-**Notable traits:** Ancient tortle who moves at the speed of an ancient tortle; deeply theoretical and internally inconsistent in ways that are meaningful; possesses strong, idiosyncratic views on the use of the word *however*  
-**Current assignment / role:** Distributes his own scholarly research under the guise of religious tracts; engaged in methodical, obscure theological synthesis  
-**Defining recent actions:** Continues to distribute his syncretic research paper on Sword Coast religions, presenting it as a religious tract to passersby; his work is noted for its theoretical depth and stylistic eccentricity  
+- **Current status:** Alive  
+- **Current location:** Candlekeep  
+- **Allegiance/faction:** Researcher at Candlekeep  
+- **Current possessions / notable items:** Syncretic theological research papers (distributed as religious tracts)  
+- **Current assignment / role:** Conducting comparative religious analysis across the Sword Coast; disseminating internally inconsistent but meaningful scholarly work  
+- **Defining recent actions:** Distributed one of his own research papers to the narrator, engaging in slow, deliberate speech and scholarly exchange  
+- **Key relationships:** Treated with quiet respect by Vareth; interacts with the narrator during scholarly encounter  
+- **Defining traits:** Ancient tortle; moves at the speed of an ancient tortle; engages in syncretic theological analysis marked by intentional internal inconsistencies  
 
 ## Uncertainty
 None.

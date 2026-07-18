@@ -1,149 +1,100 @@
 [
   {
     "type": "npc",
-    "subject": "Stroud",
-    "fact": "Stroud is referenced as a great philosopher whose decisive moves and unrepeatable instants are mythologized, and whose name is invoked in theological schools of thought.",
-    "source_quote": "Aye! It could have been Stroud, our great philosopher. It could have been, say, another party of adventurers.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Vareth",
-    "fact": "Vareth is a scholar who formalizes the 'strong-weak hypothesis,' assigns theological schools to Stroud and Bahamut, and collects Stroudite papers with ritualistic intensity.",
-    "source_quote": "Vareth calls it a compromise of the Bahamutian school. He calls me a weak Stroudite \u2014 a strong Stroudite holds there are no fixed points at all \u2014 and a strong Bahamutian around fixed points, and a weak Bahamutian outside of them.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum is a meticulous scholar who explains complex theological and prophetic systems with pedantic care, framing practical phenomena as doctrinal arguments.",
-    "source_quote": "Vareth had explained it to Grygum earlier in the day, and Grygum had explained it to the rest of us in that careful way he has, like he was building a theological argument out of practical facts.",
+    "fact": "Grygum accidentally proposed the Grygum school of thought, a theological framework filed under things that started as offhand remarks, and is now being treated by an aging scholar with forty-one years in this corner of the library as the question of the age.",
+    "source_quote": "I feel like I handled that competently,",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Avowed",
+    "fact": "A hooded figure from the Avowed passed through the dining hall at a half-run, something tucked against their ribs under the robe \u2014 not trying to be obvious, but not trying hard to hide either.",
+    "source_quote": "a hooded figure from the Avowed went past the dining hall at a half-run, something tucked against their ribs under the robe",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "prophecy recitation",
+    "fact": "The Candlekeep scholars recited prophecies from the gallery above, a continuous ritual where fulfilled prophecies are removed and only unfulfilled ones remain \u2014 the inventory of the unspoken future.",
+    "source_quote": "Vareth had explained it to Grygum earlier in the day, and Grygum had explained it to the rest of us... whenever one came true, it was removed. What remained was the unfulfilled inventory.",
     "quote_verified": false
   },
   {
-    "type": "npc",
+    "type": "thread",
+    "subject": "the keeper falls, the heart is sold",
+    "fact": "A prophecy descended from the gallery: 'On the longest night of winter's deepest cold, the keeper falls, the heart is sold.' It landed with weight; Grygum and Daz observed it silently, choosing not to react aloud.",
+    "source_quote": "*On the longest night of winter's deepest cold, the keeper falls, the heart is sold.*",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
     "subject": "Glabbagool",
-    "fact": "Glabbagool is a sentient grey ooze who has been absorbing teachings from Zalthir and now demands release from the bag of holding, exhibiting emergent will and existential desire.",
-    "source_quote": "Whatever Glabbagool had been doing in the bag all day \u2014 thinking, absorbing, trying to formalize whatever Zalthir had been patiently teaching him into monastic discipline \u2014 he was done with it. He wanted out.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Daz",
-    "fact": "Daz is a member of the group who observes prophetic recitations with quiet intensity and refrains from reacting visibly, indicating deep awareness and restraint.",
-    "source_quote": "I looked at Daz. I looked at Grygum. Neither of them had visibly reacted. Either they hadn't heard it, or they'd done what I was already doing: kept it.",
-    "quote_verified": true
-  },
-  {
-    "type": "faction",
-    "subject": "The Avowed",
-    "fact": "The Avowed is a secretive order within Candlekeep whose members move with concealed intent, as seen when a hooded figure passed through the Refectory with something tucked against their ribs.",
-    "source_quote": "Then a hooded figure from the Avowed went past the dining hall at a half-run, something tucked against their ribs under the robe.",
+    "fact": "Glabbagool, a grey ooze confined in a bag of holding for most of the day, is now done with containment \u2014 he wants out, though neither he nor his companions know what 'out' means for an ooze.",
+    "source_quote": "Whatever Glabbagool had been doing in the bag all day... he was done with it. He wanted out.",
     "quote_verified": false
-  },
-  {
-    "type": "faction",
-    "subject": "The Great Readers",
-    "fact": "The Great Readers are the highest scholarly authority at Candlekeep, seated apart at the high table, observed with the same wariness as contested terrain, and include individuals exhibiting signs of exhaustion or intoxication.",
-    "source_quote": "I watched them the way the giants taught me to watch a disputed ridge line: settle in, say nothing, let the information come to you.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "prophetic recitation",
-    "fact": "Candlekeep maintains an ongoing ritual of reciting prophecies from the gallery, removing fulfilled ones and preserving the unfulfilled inventory, creating a living archive of potential futures.",
-    "source_quote": "The prophecies had been going the whole time, floating down from the gallery above like water finding its level. Whenever one came true, it was removed. What remained was the unfulfilled inventory.",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "prophecy fulfillment",
-    "fact": "A prophecy was spoken: 'On the longest night of winter's deepest cold, the keeper falls, the heart is sold.' It landed with weight, and observers chose silence over reaction.",
-    "source_quote": "*On the longest night of winter's deepest cold, the keeper falls, the heart is sold.* It landed. I sat with it for a second.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Glabbagool's release demand",
-    "fact": "Glabbagool, after prolonged confinement in a bag of holding, exhibited clear emergent agency by demanding release, signaling a shift from passive absorber to active subject.",
-    "source_quote": "He wanted out. I didn't know what *out* meant for an ooze. Neither did he. But the want was there.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "inventory of unfulfilled prophecies",
-    "fact": "The fate of Candlekeep's prophecy archive when the inventory runs out remains unknown, posing a foundational theological and existential question.",
-    "source_quote": "Nobody knew what happened when the inventory ran out.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "the strong-weak hypothesis",
-    "fact": "The theological framework of 'strong-weak' positions toward fixed points, derived from Stroud and Bahamut, was accidentally proposed as a school of thought and now stands as an unresolved doctrinal structure.",
-    "source_quote": "I feel like I handled that competently,\" I say, to no one in particular. The Grygum school of thought. Filed under: things that started as offhand remarks.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "Glabbagool's ontological status",
-    "fact": "The nature of an ooze\u2019s consciousness, its capacity for discipline, and the meaning of its desire for freedom remain unexplored, creating a metaphysical mystery.",
-    "source_quote": "I didn't know what *out* meant for an ooze. Neither did he. But the want was there.",
-    "quote_verified": true
   },
   {
     "type": "location",
     "subject": "The Refectory",
-    "fact": "The Refectory is a vast, high-ceilinged dining hall at Candlekeep, designed for scholars, where the architecture induces awe and the social dynamics mirror the tension between order and chaos.",
+    "fact": "The Refectory was built for scholars, with a high enough ceiling that a hill giant could sit comfortably at one end without embarrassment \u2014 its atmosphere is one of loud, intellectual debate among scholars who know they are important.",
     "source_quote": "The Refectory was built for scholars, which meant the ceiling was high enough that a hill giant could have sat comfortably at one end and not embarrassed herself.",
     "quote_verified": true
   },
   {
     "type": "location",
     "subject": "Candlekeep",
-    "fact": "Candlekeep is a monastic scholarly citadel where prophecy, debate, and quiet observation form the rhythm of life, and where even mundane spaces like dining halls carry layers of hidden meaning.",
-    "source_quote": "Candlekeep scholars don't chat. They debate at conversation volume.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "House of Rest",
-    "fact": "The House of Rest is a residence within Candlekeep where scholars recover and where sentient entities like Glabbagool are confined, revealing the tension between containment and emergent will.",
-    "source_quote": "Back at the House of Rest, Glabbagool was in a state.",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "bag of holding",
-    "fact": "The bag of holding is a magical container used to confine Glabbagool, which proved inadequate as a long-term prison for a sentient ooze seeking autonomy.",
-    "source_quote": "The grey ooze had been confined to the bag of holding for most of the day, which in hindsight was probably like keeping a puppy in a closet during a thunderstorm.",
+    "fact": "Candlekeep is a place where scholars debate at conversation volume, where the Great Readers sit like they are posing for a tapestry, and where prophecies are recited daily \u2014 normalcy includes drunk readers laughing at unsaid things and quiet tension in corners.",
+    "source_quote": "Candlekeep scholars don't chat. They debate at conversation volume... Normal, probably. For here.",
     "quote_verified": false
   },
   {
     "type": "object",
-    "subject": "Stroudite papers",
-    "fact": "A stack of Stroudite papers, marked and annotated, represents a codified body of theological thought that was accidentally created and is now being curated by Vareth.",
-    "source_quote": "Then he hands me a stack of Stroudite papers, barely able to contain himself, and rushes off to begin his own research.",
+    "subject": "bag of holding",
+    "fact": "The bag of holding was used to confine Glabbagool the grey ooze for most of the day \u2014 an act now understood as technically fine but genuinely unkind, akin to keeping a puppy in a closet during a thunderstorm.",
+    "source_quote": "The grey ooze had been confined to the bag of holding for most of the day, which in hindsight was probably like keeping a puppy in a closet during a thunderstorm",
     "quote_verified": true
   },
   {
-    "type": "monster",
-    "subject": "grey ooze (Glabbagool)",
-    "fact": "Glabbagool is a sentient grey ooze exhibiting emergent consciousness, the capacity to absorb and formalize knowledge, and a desire for freedom \u2014 making it more than a hazard, but a subject.",
-    "source_quote": "Whatever Glabbagool had been doing in the bag all day \u2014 thinking, absorbing, trying to formalize whatever Zalthir had been patiently teaching him into monastic discipline \u2014 he was done with it.",
+    "type": "thread",
+    "subject": "inventory of unfulfilled prophecies",
+    "fact": "Candlekeep maintains an inventory of unfulfilled prophecies \u2014 the collection of Alaundo\u2019s unmet predictions \u2014 and no one knows what happens when the inventory runs out.",
+    "source_quote": "Nobody knew what happened when the inventory ran out.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Vareth",
+    "fact": "Vareth is a scholar who formalizes theological frameworks around Stroudite and Bahamutian schools, names them the strong-weak hypothesis, and is meticulous in filing ideas \u2014 he also recites and explains Candlekeep\u2019s prophecy system with pedagogical care.",
+    "source_quote": "Vareth calls it a compromise of the Bahamutian school... He names this the strong-weak hypothesis with the satisfaction of a man who has just filed something correctly.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz silently observed the prophecy 'the keeper falls, the heart is sold' alongside Grygum \u2014 neither reacted aloud, indicating either they hadn't heard it or were choosing to hold it.",
+    "source_quote": "I looked at Daz. I looked at Grygum. Neither of them had visibly reacted.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool, a sentient grey ooze, has been absorbing teachings from Zalthir and is now rejecting confinement \u2014 he desires 'out,' though the nature of that desire is unknown even to himself.",
+    "source_quote": "He wanted out. I didn't know what out meant for an ooze. Neither did he. But the want was there.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the wall is just a rock in the right place",
+    "fact": "A metaphor from the giants \u2014 'a wall is just a rock in the right place' \u2014 was privately applied by the speaker to prophecies: 'a prophecy that hasn't happened yet is just a warning waiting for its moment.' It was not spoken aloud, as it was deemed not useful.",
+    "source_quote": "The giants used to say that a wall is just a rock in the right place. A prophecy that hasn't happened yet is just a warning waiting for its moment. I didn't say that out loud. It wasn't useful.",
     "quote_verified": true
   },
   {
     "type": "date",
     "subject": "longest night of winter's deepest cold",
-    "fact": "A specific temporal anchor in the prophecy \u2014 'the longest night of winter's deepest cold' \u2014 marks the predicted moment of the keeper's fall and the heart's sale, creating a countdown of existential weight.",
+    "fact": "The prophecy 'the keeper falls, the heart is sold' is tied to the longest night of winter's deepest cold \u2014 a specific temporal anchor for an unfulfilled event.",
     "source_quote": "*On the longest night of winter's deepest cold, the keeper falls, the heart is sold.*",
-    "quote_verified": true
-  },
-  {
-    "type": "faction",
-    "subject": "Grygum school of thought",
-    "fact": "The Grygum school of thought is an accidental theological framework born from an offhand remark, now treated by scholars as a serious doctrinal category, filed under 'things that started as offhand remarks.'",
-    "source_quote": "I feel like I handled that competently,\" I say, to no one in particular. The Grygum school of thought. Filed under: things that started as offhand remarks.",
     "quote_verified": true
   }
 ]

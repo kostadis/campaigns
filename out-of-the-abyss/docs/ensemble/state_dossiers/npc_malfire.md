@@ -6,16 +6,16 @@ chapters: 54-54
 ---
 
 ### Malfire
-- **Current status:** Alive (implied by continued citation)  
+
+- **Current status:** Alive (implied by ongoing citation as an authoritative voice)  
 - **Current location:** Unknown  
 - **Allegiance/faction:** Unknown  
-- **Current possessions / notable items, spells, feats, wounds:** None known  
-- **Current assignment / role and key relationships:** Authoritative scholar whose writings are routinely cited by Daz; works are embedded in party’s cultural lexicon  
-- **Defining recent actions:** Writings (specifically Volume 3) are referenced as authoritative by Daz in ongoing party discourse  
+- **Current possessions / notable items, spells, feats, wounds:** None noted  
+- **Current assignment / role and key relationships:** Revered as an authoritative source of truth; cited definitively by Daz and others, particularly regarding Volume 3. No known direct relationships or current assignments beyond intellectual authority.  
+- **Defining recent actions:** His words from Volume 3 are invoked as unchallengeable doctrine, with no laughter or dissent permitted when referenced.  
 
 ## Uncertainty
-- Malfire’s current physical location is unknown.  
-- Malfire’s survival is implied but not explicitly confirmed.  
-- The full scope of Malfire’s works, their content, or their origin is not specified.  
-- Whether Malfire is alive, deceased, or a legendary figure is ambiguous — only their texts are confirmed to exist and be cited.  
-- No other individuals are confirmed to cite Malfire besides Daz; it is unclear if this is a widespread or isolated reverence.
+- Malfire’s physical location, current activities, and whether he is still alive (though implied) are not confirmed by direct observation.  
+- The nature of “Volume 3” and Malfire’s role in producing or authoring it is unspecified.  
+- It is unclear whether Malfire is a person, a text, a title, or a collective — the quote treats “Malfire” as a singular authoritative speaker, but the entity’s ontological status is ambiguous.  
+- No other individuals are confirmed to have interacted with Malfire directly; all references are secondhand.

@@ -2,120 +2,141 @@
   {
     "type": "npc",
     "subject": "A'lai",
-    "fact": "A'lai is a drow scholar with Underdark connections, possibly Menzoberranzan-linked, who was involved in a conspiracy that ended Janussi\u2019s life and has since been dismantled. He possesses knowledge that could be leveraged through discretion, not gold. His narrative of the event is likely administrative \u2014 framed as workforce restructuring. He is the first credible lead in months regarding the patron behind Kaelira\u2019s original mystery.",
-    "source_quote": "A'lai. A drow with Underdark connections, possibly Menzoberranzan connections, currently holding a conspiracy that had ended a man's life and that we had dismantled in a single afternoon.",
+    "fact": "A'lai is a drow scholar with Underdark connections, possibly Menzoberranzan ties, who was involved in a conspiracy that ended Janussi's life and has now been exposed. He possesses highly sensitive information that has not yet been exploited and represents the first credible lead in the investigation into Daz's patron.",
+    "source_quote": "A'lai, moreover, is a drow. He might have information that Daz needs.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is the unresolved focal point of a long-running investigation into a hidden patron whose identity remains unknown. The patron's motives and affiliations have eluded detection for months, despite multiple attempts to trace debts, obligations, and influences.",
+    "source_quote": "The column I had been maintaining since Kaelira told me bluntly that someone powerful was paying to protect a man she couldn't understand.",
     "quote_verified": true
   },
   {
     "type": "faction",
     "subject": "Menzoberranzan",
-    "fact": "Menzoberranzan is a city where accumulating too many enemies leads to inevitable resolution by the city itself \u2014 a system the city got right. It operates through lethal efficiency, and its influence may extend into the conspiracy surrounding Janussi\u2019s death. A'lai\u2019s background suggests alignment with its culture of calculated survival.",
-    "source_quote": "In Menzoberranzan, you do not get to accumulate that many enemies before the city resolves the problem for you, which is one of the less subtle things the city got right.",
-    "quote_verified": true
+    "fact": "Menzoberranzan is a drow city-state where political survival depends on eliminating enemies before they accumulate too much power. The city's brutal efficiency in resolving internal threats is referenced as a model for how power structures self-correct.",
+    "source_quote": "In Menzoberranzan, you do not get to accumulate that many enemies before the city resolves the problem for you.",
+    "quote_verified": false
   },
   {
     "type": "event",
-    "subject": "Janussi\u2019s death",
-    "fact": "Janussi\u2019s death was not an impulsive act but the culmination of a carefully constructed conspiracy, later dismantled by the party in a single afternoon. The event has been retrospectively framed by A'lai \u2014 and potentially by Candlekeep\u2019s administration \u2014 as workforce restructuring, RIFs, or budgetary pressure, masking assassination as organizational efficiency.",
+    "subject": "exposure of Janussi's assassination",
+    "fact": "Janussi's murder, initially disguised as an administrative action, was exposed as a targeted elimination tied to blackmail and conspiracy. The investigation dismantled the cover story in a single afternoon, revealing the perpetrator's attempt to frame the act as organizational restructuring.",
     "source_quote": "The man who treats blackmail as a kind of career knows how to make his own history sound administrative.",
     "quote_verified": true
   },
   {
-    "type": "location",
-    "subject": "Candlekeep",
-    "fact": "Candlekeep is an institution where intellectual authority is wielded, but where internal power struggles manifest as firings, research destruction, and canceled projects \u2014 all of which may conceal deeper, lethal motives. The environment allows for the sanitization of murder through bureaucratic language.",
-    "source_quote": "Right, and not only do you decide to fire them, but you decide to trash somebody's research, tell somebody he's getting fired, tell somebody he has to cancel his research, right? All in the same day.",
-    "quote_verified": true
+    "type": "event",
+    "subject": "use of the zone of truth",
+    "fact": "The zone of truth was employed successfully without waste, confirming the guilt of multiple suspects and accelerating the investigation. Its effectiveness was acknowledged as a decisive, though not indispensable, tool.",
+    "source_quote": "The zone of truth as a mechanism, which had worked without waste and which I would not pretend was anything other than what it was: a shortcut, and an elegant one.",
+    "quote_verified": false
   },
   {
     "type": "object",
-    "subject": "Books",
-    "fact": "Books are valuable artifacts, and the party has earned access to them \u2014 each suspect may be tied to one. They represent not just knowledge, but leverage. The insistence on 'a book per suspect' reflects a tactical shift from evidence collection to controlled information hoarding.",
-    "source_quote": "I'm gonna insist that we get a book per suspect. I mean, per\u2014",
-    "quote_verified": true
+    "subject": "poisoned book",
+    "fact": "The poisoned book was a weapon used to kill or incapacitate Janussi, later reclaimed from Daral. It was central to the murder plot and remains a tangible piece of evidence linking suspects to the crime.",
+    "source_quote": "We had a confession, a poisoned book reclaimed from Daral...",
+    "quote_verified": false
   },
   {
-    "type": "monster",
-    "subject": "None",
-    "fact": "No monster is present or implied in this scenario. All threats are humanoid, political, and psychological. The true hazard is information \u2014 its concealment, its weaponization, and its misattribution.",
-    "source_quote": "No creature beyond drow and scholars is referenced. The danger is in the silence between words.",
+    "type": "object",
+    "subject": "note in Janussi's own hand",
+    "fact": "A handwritten note found on the third floor contains Janussi's final thoughts or instructions, potentially implicating others or revealing his awareness of the conspiracy. It is a key piece of documentary evidence.",
+    "source_quote": "...a note in Janussi's own hand found on the third floor.",
     "quote_verified": false
   },
   {
     "type": "thread",
-    "subject": "The Patron Behind Kaelira\u2019s Mystery",
-    "fact": "A long-standing unresolved thread: an unknown patron has been paying to protect a man Kaelira could not understand. For months, every lead receded. A'lai, the compromised drow scholar with Underdark ties, may be the first real connection to that patron \u2014 potentially the source of the original mystery, or at least its key to resolution.",
-    "source_quote": "That column had one entry, and I still couldn't name the entity. A'lai moved in circles where that name might be known.",
+    "subject": "identity of Daz's patron",
+    "fact": "The identity of the patron paying to protect a man unknown to Kaelira remains unresolved. This thread has persisted for months, with every lead receding \u2014 until A'lai, a compromised drow with Underdark connections, emerged as the first plausible conduit to the truth.",
+    "source_quote": "The patron entry had been blank for months. Every time I thought I was close to something, it receded.",
     "quote_verified": true
   },
   {
     "type": "thread",
-    "subject": "Blackmail as a Career",
-    "fact": "A thematic thread emerging from the group\u2019s discourse: blackmail is not an act of desperation but a professional discipline \u2014 a way of life for certain individuals, like A'lai. It is a form of power that thrives on discretion, administrative obfuscation, and the underpricing of truth.",
+    "subject": "blackmail as a career",
+    "fact": "The group has identified blackmail not as a crime of opportunity but as a sustained profession \u2014 potentially practiced by A'lai. This thread suggests a deeper, systemic corruption within Candlekeep\u2019s hierarchy, where assassination is masked as administrative action.",
     "source_quote": "In these murder mysteries, you often find somebody who treats blackmail as a kind of career.",
     "quote_verified": false
   },
   {
-    "type": "thread",
-    "subject": "Wisdom vs. Intelligence",
-    "fact": "A philosophical thread: intelligence reveals options; wisdom determines survival. Janussi\u2019s fate exemplifies the failure of wisdom despite high intelligence. This distinction underpins the entire moral architecture of the conspiracy \u2014 and the party\u2019s response to it.",
-    "source_quote": "Intelligence tells you what the options are. Wisdom tells you which ones you survive.",
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is a center of scholarly power where intellectual ambition intersects with political danger. Its internal conflicts are being reframed as workforce restructuring, suggesting institutional corruption and the normalization of violence under bureaucratic language.",
+    "source_quote": "File the assassination under *workforce restructuring*. Enter it in the column marked *organizational efficiency*.",
     "quote_verified": true
   },
   {
+    "type": "monster",
+    "subject": "A'lai (as a threat)",
+    "fact": "A'lai is not merely a suspect but a latent threat: a drow scholar who has weaponized silence, discretion, and blackmail to survive in a world where exposure equals death. His knowledge of Daz\u2019s patron makes him uniquely dangerous \u2014 and uniquely valuable.",
+    "source_quote": "He needed, above all other things, discretion. I will not call it a commodity exactly. I will call it the most reliably underpriced resource in the world...",
+    "quote_verified": false
+  },
+  {
     "type": "date",
-    "subject": "Session Date",
-    "fact": "The events described occurred during a single, dense session \u2014 likely the same day as Janussi\u2019s exposure and dismantling. No calendar date is given, but the temporal compression \u2014 from confession to blackmail proposal \u2014 suggests a single, high-stakes narrative arc.",
-    "source_quote": "We had dismantled in a single afternoon.",
+    "subject": "the day of the investigation's conclusion",
+    "fact": "The investigation reached its decisive moment on a single day marked by confessions, revelations, and the emergence of A'lai as the central pivot. The timeline is compressed \u2014 a conspiracy ended, a patron\u2019s trail revived, and a new strategy for leverage crystallized \u2014 all within hours.",
+    "source_quote": "We had dismantled the whole account apart in an afternoon.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Kalan",
-    "fact": "Kalan is the wronged party with standing and motivation to be thorough. He is the one who asked the pivotal question: 'What do you do with the evidence you've collected?' His moral authority anchors the group\u2019s ethical pivot from justice to strategic silence.",
+    "fact": "Kalan is the wronged party with standing in the investigation, whose motivation and thoroughness make him the natural candidate to receive and act upon the collected evidence. His position as the moral center of the group is unchallenged.",
     "source_quote": "Kalan was the party who had been wronged, Kalan had standing, Kalan was presumably motivated to be thorough.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Thorin",
-    "fact": "Thorin is the tactical pragmatist who consistently pivots to material leverage \u2014 books per suspect, mission in mind. He is the one who first proposes the idea of 'a shortcut, and an elegant one' \u2014 framing truth zones and blackmail as tools of efficiency. His thinking aligns with the narrative of organizational restructuring.",
+    "fact": "Thorin is the group\u2019s pragmatic strategist, consistently pushing for actionable outcomes \u2014 whether extracting books from suspects or framing blackmail as a career path. His instincts align with material gain and control, making him the most vocal advocate for exploiting the evidence.",
     "source_quote": "I have a mission in mind.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum is the narrative architect \u2014 the one who introduces agenda items ('We could always decide to blackmail one or more of them') and who recognizes the administrative framing of murder. He is attuned to the irony of using bureaucratic language to mask violence.",
+    "fact": "Grygum is the group\u2019s narrative architect, frequently reframing violent events as administrative or bureaucratic processes. He is the first to voice the idea of blackmail as a profession and the first to recognize A'lai\u2019s potential role in the larger conspiracy.",
     "source_quote": "We could always decide to blackmail one or more of them.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Zalthir",
-    "fact": "Zalthir is the confirmatory voice \u2014 echoing consensus, validating observations, and reinforcing group alignment. He does not lead, but he stabilizes. His role is to make the group\u2019s emerging strategy feel inevitable.",
+    "fact": "Zalthir is the group\u2019s confirmatory voice, repeatedly validating emerging conclusions with minimal elaboration. His role is to reflect consensus rather than drive it, lending credibility to the group\u2019s direction.",
     "source_quote": "That's where I was.",
     "quote_verified": false
   },
   {
-    "type": "npc",
-    "subject": "Janussi",
-    "fact": "Janussi was a scholar of high intelligence but low wisdom \u2014 a man whose knowledge made him a target. His death was not random but strategic, and his research was destroyed not out of malice but to erase evidence of his own dangerous insights. He is the casualty of a system that rewards silence over truth.",
-    "source_quote": "Well, it's clear he may have high intelligence, but not high wisdom.",
+    "type": "thread",
+    "subject": "wisdom vs. intelligence",
+    "fact": "The group distinguishes between intelligence \u2014 knowing what options exist \u2014 and wisdom \u2014 knowing which ones ensure survival. This thread underpins the entire investigation, framing Janussi\u2019s death as a failure of wisdom and A'lai\u2019s survival as an exercise in it.",
+    "source_quote": "Intelligence tells you what the options are. Wisdom tells you which ones you survive.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Underdark",
+    "fact": "The Underdark is referenced as a realm of hidden power, where drow like A'lai operate beyond the reach of surface laws. Its influence is felt in the secrecy, longevity, and lethality of the conspiracy tied to Candlekeep.",
+    "source_quote": "A'lai is a drow scholar with Underdark connections...",
     "quote_verified": false
   },
   {
     "type": "object",
-    "subject": "The Column",
-    "fact": "The Column is a personal record maintained by the narrator since Kaelira revealed the existence of a hidden patron. It has one entry \u2014 blank \u2014 and represents the narrator\u2019s lifelong training: to know every debt, every holder, every cost. A'lai may be the first crack in its emptiness.",
-    "source_quote": "The column I had been maintaining since Kaelira told me bluntly that someone powerful was paying to protect a man she couldn't understand. That column had one entry, and I still couldn't name the entity.",
-    "quote_verified": true
+    "subject": "wrapping paper reassembled by Grygum",
+    "fact": "The carefully reassembled wrapping paper is a symbolic artifact \u2014 evidence of obsessive attention to detail, possibly containing hidden messages or serving as a metaphor for reconstructing truth from fragments.",
+    "source_quote": "...Grygum's carefully reassembled wrapping paper...",
+    "quote_verified": false
   },
   {
-    "type": "thread",
-    "subject": "Discretion as the Most Underpriced Resource",
-    "fact": "A core thematic thread: discretion \u2014 the choice not to use knowledge \u2014 is the most reliably underpriced resource in the world, especially in the hands of those who need it most. It is not gold, not power, not weapons \u2014 but the refusal to act that creates the deepest leverage.",
-    "source_quote": "It is not expressed in gold. [...] It is the most reliably underpriced resource in the world, especially in the hands of someone who desperately needs it.",
-    "quote_verified": false
+    "type": "event",
+    "subject": "reclassification of assassination as workforce restructuring",
+    "fact": "The group has collectively accepted the narrative that Janussi\u2019s murder was an act of organizational efficiency \u2014 a deliberate framing by the perpetrator to obscure criminal intent under bureaucratic language. This reclassification is now being treated as both a cover story and a real insight into the power structure.",
+    "source_quote": "Enter it in the column marked *organizational efficiency*.",
+    "quote_verified": true
   }
 ]

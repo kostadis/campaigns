@@ -1,114 +1,107 @@
 [
   {
     "type": "npc",
-    "subject": "Grygum",
-    "fact": "Grygum is planning the assassination of Ilvara, having evaluated three 4th-level spells \u2014 Glyph of Warding, Dust of Suleiman, and Phantasmal Killer \u2014 and realizing he can only cast one due to limited spell slots. He is seeking tactical input from Asha Vandree and has internalized her correction that the Heart Fungus, not Ilvara, is the true target.",
-    "source_quote": "It's a\u2026 the spell is Glyph of Warding,\" I said, because someone had asked and I'd been waiting for the right moment to explain it. \"You inscribe it in a particular place, and then when somebody triggers it by moving across it, it does its thing.\"",
+    "subject": "Zalthir",
+    "fact": "Zalthir withdrew to confer and confirmed the terms: Ilvara must die, the mushroom artifact must be destroyed, and the infection must not leave the cavern. He placed a zone of Darkness behind their position as a fallback, not near the entrance where Ilvara might detect it.",
+    "source_quote": "I placed a zone of Darkness behind our position \u2014 not at the entrance, not anywhere Ilvara might notice the edge of it and understand what was coming. Behind us. A fallback. A place to pull someone if the line broke.",
     "quote_verified": true
   },
   {
     "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum laid out the plan to assassinate Ilvara, detailing three 4th-level spells: Glyph of Warding, Dust of Suleiman, and Phantasmal Killer. He admitted he only had one 4th-level spell slot and could cast only one. He sought Asha Vandree\u2019s tactical input on which target to prioritize.",
+    "source_quote": "So I also have another spell I haven't had a chance to use yet called the Dust of Suleiman... Finally, I now have Phantasmal Killer... So these powerful spells I've been talking about\u2026 they're all 4th level, and I only have one fourth level slot. I can only cast one.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
     "subject": "Asha Vandree",
-    "fact": "Asha Vandree, a contemptuous drow priestess, possesses deep knowledge of the cavern's power structures and has corrected Grygum\u2019s tactical focus, insisting that the Heart Fungus \u2014 not Ilvara \u2014 must be destroyed first to dismantle Ilvara\u2019s control. She is reluctant to engage but provides critical insight, revealing that Grygum and Thorin carry a marker from Gracklstugh that makes them vulnerable to the artifact.",
-    "source_quote": "I thought you had strong allies, who had a tactical awareness and understanding how to use their magic for destructive purposes.",
-    "quote_verified": true
+    "fact": "Asha Vandree, a contemptuous drow priestess, corrected Grygum\u2019s tactical assumptions by identifying the Heart Fungus as the true key to dismantling Ilvara\u2019s power. She warned that Grygum and Thorin were contaminated by a marker from Gracklstugh and should avoid direct contact with the artifact. She dismissed his initial focus on Ilvara as naive.",
+    "source_quote": "Well, that's an obvious one \u2014 use it on the big heart fungus... If Thorin and Grygum grab it \u2014 I think they were the two that went to visit... you two probably don't want to be near it... I thought you had strong allies, who had a tactical awareness and understanding how to use their magic for destructive purposes.",
+    "quote_verified": false
   },
   {
     "type": "faction",
-    "subject": "The Cult of the Heart Fungus",
-    "fact": "An underground operation led by Ilvara, the high priestess, centered on the Heart Fungus as both a source of power and a vector of control over the cavern. The fungus sustains Ilvara\u2019s dominance and is the linchpin of her influence, making its destruction the key to dismantling her regime.",
-    "source_quote": "The Heart Fungus itself wasn't the vector. The spores were Ilvara's. The artifact was the other risk.",
+    "subject": "Ilvara's Cult",
+    "fact": "Ilvara, a high priestess, maintained control over the cavern through the Heart Fungus, which served as both a source of power and a vector for infection. Her operation relied on the artifact\u2019s symbiotic relationship with spores and the spore-dependent ecosystem.",
+    "source_quote": "Ilvara was a high priestess who had been running an operation in this cavern... the Heart Fungus itself wasn't the vector. The spores were Ilvara's. The artifact was the other risk.",
     "quote_verified": false
   },
   {
     "type": "event",
-    "subject": "Tactical Reassessment of the Assassination Plan",
-    "fact": "Grygum\u2019s original plan to target Ilvara directly was overruled after Asha Vandree\u2019s intervention, shifting focus to the Heart Fungus as the primary objective. This reorientation transforms the use of Dust of Suleiman from a direct attack into infrastructure demolition, and redefines the entire mission\u2019s strategy.",
-    "source_quote": "The Heart Fungus was the key. That was her point, and she wasn't wrong.",
+    "subject": "planning session for Ilvara's assassination",
+    "fact": "The party convened to plan Ilvara\u2019s assassination, debating which of Grygum\u2019s three 4th-level spells to use and whom to target. Asha Vandree redirected the focus from Ilvara to the Heart Fungus as the strategic linchpin, altering the tactical priority of the mission.",
+    "source_quote": "Three keys. One lock. The planning was, in a sense, just a very elaborate way of deciding which door we most needed to open.",
     "quote_verified": true
   },
   {
     "type": "location",
-    "subject": "The Cavern",
-    "fact": "A subterranean chamber under Ilvara\u2019s control, saturated with fungal growth, spore-laden air, and magical residue from the Heart Fungus. The cavern\u2019s architecture is tied to the fungus\u2019s power, and its hidden dangers include lingering markers from Gracklstugh\u2019s pocket dimension that make certain individuals vulnerable to the artifact.",
+    "subject": "the cavern",
+    "fact": "The cavern is a subterranean stronghold controlled by Ilvara, infused with the Heart Fungus and spore-based infection. It contains hidden risks from past exposure in Gracklstugh\u2019s Whorlstone Caverns, which left a detectable marker on certain individuals that the artifact can exploit.",
     "source_quote": "Whatever we'd picked up in Gracklstugh in the Whorlstone Caverns when we visited the pocket dimension, had left a marker on us. The mushroom artifact could exploit it.",
     "quote_verified": true
   },
   {
     "type": "object",
     "subject": "Heart Fungus",
-    "fact": "A massive, sentient fungal entity serving as the central power source and control mechanism for Ilvara\u2019s operation. It is not the vector of infection \u2014 its spores are \u2014 but its destruction will collapse Ilvara\u2019s authority over the cavern. It is the true target of the assassination plan.",
-    "source_quote": "The Heart Fungus itself wasn't the vector. The spores were Ilvara's.",
+    "fact": "The Heart Fungus is a sentient, central artifact that serves as the source of Ilvara\u2019s power and the infection\u2019s vector. It is not the direct carrier of spores but the architectural core of her control. Destroying it dismantles her dominion over the cavern.",
+    "source_quote": "the Heart Fungus itself wasn't the vector... Kill the fungus and you don't just hurt Ilvara \u2014 you dismantle the architecture of her power.",
     "quote_verified": false
   },
   {
     "type": "object",
     "subject": "Dust of Suleiman",
-    "fact": "A 4th-level evocation spell capable of creating a 20-foot sphere of damaging dust at 120-foot range, dealing 20 points of damage per turn to all within. Originally intended for direct use on Ilvara, it is now repositioned as a tool for destroying the Heart Fungus and its supporting infrastructure.",
-    "source_quote": "So I also have another spell I haven't had a chance to use yet called the Dust of Suleiman... It creates a 20-foot sphere, and anything inside this sphere takes 20 points of damage per turn.",
-    "quote_verified": false
+    "fact": "A 4th-level spell that creates a 20-foot sphere of damaging dust at 120-foot range, dealing 20 points of damage per turn to anything inside. Originally intended for direct use on Ilvara, it was reclassified by Asha as a tool for infrastructure demolition against the Heart Fungus.",
+    "source_quote": "It creates a 20-foot sphere, and anything inside this sphere takes 20 points of damage per turn.",
+    "quote_verified": true
   },
   {
     "type": "object",
     "subject": "Phantasmal Killer",
-    "fact": "A 4th-level illusion spell that taps into a creature\u2019s deepest fears, creating an illusory manifestation that causes psychic damage if the target fails successive Wisdom saving throws. It can kill in a minute if the target fails each turn\u2019s save. Grygum considers it a potent psychological weapon but cannot cast it without sacrificing another spell.",
-    "source_quote": "It says you tap into the nightmares of a creature you can see and create an illusory manifestation of its deepest fears. They become frightened if they fail a wisdom saving throw... then they take 4 die 10 psychic damage.",
+    "fact": "A 4th-level illusion spell with 120-foot range that manifests a creature\u2019s deepest fear, causing psychic damage if the target fails consecutive Wisdom saves. It can last up to a minute and is capable of killing targets through psychological collapse.",
+    "source_quote": "It says you tap into the nightmares of a creature you can see and create an illusory manifestation of its deepest fears... then they take 4 die 10 psychic damage.",
     "quote_verified": false
   },
   {
     "type": "monster",
-    "subject": "Ilvara",
-    "fact": "A high priestess and leader of the Heart Fungus cult, Ilvara wields control over the cavern through the fungus and its spores. She is not the source of infection but its conduit. Her death is secondary to the destruction of the Heart Fungus, which sustains her power. She is a tactical target, not a strategic one.",
-    "source_quote": "Ilvara dies, the mushroom artifact is destroyed, the infection does not leave this cavern.",
+    "subject": "spores",
+    "fact": "The spores are the infectious agents directly controlled by Ilvara, released from the Heart Fungus and capable of propagating the infection. They are not the artifact itself but the biological vector, and their containment is critical to mission success.",
+    "source_quote": "The spores were Ilvara's. The artifact was the other risk. Contain both and the job was done.",
     "quote_verified": true
   },
   {
     "type": "thread",
-    "subject": "Marker from Gracklstugh",
-    "fact": "A lingering magical signature acquired during a visit to a pocket dimension in Gracklstugh\u2019s Whorlstone Caverns, which now makes Grygum and Thorin vulnerable to the Heart Fungus artifact. The marker\u2019s nature and origin are unknown, but its presence dictates who can safely handle or approach the artifact.",
+    "subject": "contamination marker from Gracklstugh",
+    "fact": "A mysterious marker left on Grygum and Thorin during their visit to the pocket dimension in Gracklstugh\u2019s Whorlstone Caverns makes them vulnerable to exploitation by the mushroom artifact. The nature and origin of the marker remain unexplained.",
     "source_quote": "Whatever we'd picked up in Gracklstugh in the Whorlstone Caverns when we visited the pocket dimension, had left a marker on us. The mushroom artifact could exploit it.",
     "quote_verified": true
   },
   {
-    "type": "thread",
-    "subject": "Spore Containment Strategy",
-    "fact": "A lingering concern among the group \u2014 particularly Zalthir \u2014 about how to prevent the spores from escaping the cavern after the Heart Fungus is destroyed. No plan has yet been formalized, but the risk is acknowledged as critical to mission success.",
-    "source_quote": "Zalthir, bless him, raised the broader concern about spores. He'd been thinking about it \u2014 we all had.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "Spell Slot Dilemma",
-    "fact": "Grygum possesses three 4th-level spells but only one spell slot, forcing a strategic decision: which spell to cast \u2014 Glyph of Warding, Dust of Suleiman, or Phantasmal Killer \u2014 and which to sacrifice. The choice will determine whether the team employs infrastructure destruction, psychological warfare, or environmental trapping.",
-    "source_quote": "So these powerful spells I've been talking about\u2026 they're all 4th level, and I only have one fourth level slot. I can only cast one.",
+    "type": "date",
+    "subject": "hour before the assault",
+    "fact": "The hour immediately preceding the assault was spent in quiet preparation: Zalthir deployed Darkness, Grygum finalized spell choices, and Asha provided tactical corrections. This period was critical for aligning strategy and identifying vulnerabilities.",
+    "source_quote": "I spent the hour before the assault doing the thing that was useful and quiet and required no discussion.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Daz",
-    "fact": "A member of the team who is attentive to Grygum\u2019s spell explanations and expresses interest in Phantasmal Killer, indicating a tactical curiosity but no direct leadership role. His engagement suggests he may be a potential ally in executing the final plan.",
-    "source_quote": "What's that?\" Daz said. \"Sounds fantastic.",
-    "quote_verified": true
+    "fact": "Daz is a member of the party who listened attentively to Grygum\u2019s spell explanations and showed engagement by asking clarifying questions, particularly about Phantasmal Killer. He is not a spellcaster but serves as an observer and sounding board.",
+    "source_quote": "Daz was paying attention. I could tell... 'What's that?' Daz said. 'Sounds fantastic.'",
+    "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Thorin",
-    "fact": "A team member who, along with Grygum, visited the site of Ilvara\u2019s operation and now carries the Gracklstugh marker. He is identified as unsuitable to handle the artifact directly due to this vulnerability, though his specific role in the assassination remains undefined.",
-    "source_quote": "I think they were the two that went to visit, what's her name, right? \u2014 yeah, you two probably don't want to be near it, but everybody else is fine.",
-    "quote_verified": true
+    "fact": "Thorin is a member of the party who, along with Grygum, visited a prior location (Gracklstugh) and was marked by its lingering magic. Asha explicitly warned him and Grygum against touching the artifact due to contamination risk.",
+    "source_quote": "If Thorin and Grygum grab it \u2014 I think they were the two that went to visit... you two probably don't want to be near it.",
+    "quote_verified": false
   },
   {
-    "type": "npc",
-    "subject": "Zalthir",
-    "fact": "A thoughtful team member who raises the critical issue of spore containment after the Heart Fungus is destroyed. His concern indicates awareness of the broader ecological and strategic implications of the mission beyond immediate combat.",
-    "source_quote": "Zalthir, bless him, raised the broader concern about spores. He'd been thinking about it \u2014 we all had.",
-    "quote_verified": true
-  },
-  {
-    "type": "date",
-    "subject": "Hour before the assault",
-    "fact": "The critical preparation window immediately preceding the planned attack, during which Grygum finalized his spell strategy and Asha Vandree provided her decisive tactical correction. This hour is the pivot point between theoretical planning and actionable execution.",
-    "source_quote": "I spent the hour before the assault doing the thing that was useful and quiet and required no discussion.",
+    "type": "thread",
+    "subject": "Asha\u2019s disdain and tactical authority",
+    "fact": "Asha Vandree\u2019s contempt for the party is matched by her superior understanding of the cavern\u2019s power structures. Her corrections are not offered as help but as inevitable truths \u2014 a recurring thread of tension where her knowledge overrides their assumptions.",
+    "source_quote": "I thought you had strong allies, who had a tactical awareness and understanding how to use their magic for destructive purposes.",
     "quote_verified": true
   }
 ]

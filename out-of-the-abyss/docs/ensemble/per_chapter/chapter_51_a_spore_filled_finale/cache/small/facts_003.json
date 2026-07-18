@@ -1,100 +1,142 @@
 [
   {
-    "type": "faction",
-    "subject": "Ilvara's cult",
-    "fact": "Ilvara's cult has conjured a plague of insects and commands fungal servants, showing a pattern of using environmental hazards and divine fire in combat, and has traded allegiance to a fungal demon lord.",
-    "source_quote": "Ilvara had conjured it at the cave entrance, a sphere of plague large enough to catch the whole middle ground between us \u2014 me, Daz, and, as I registered with a cold sinking feeling, Glabbagool.",
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin drove Dawnbringer into the Heart Fungus in one round, having prepared extensively for the encounter but acting decisively when the moment came.",
+    "source_quote": "Boy, I had so much prepared for the fungus.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Ilvara",
-    "fact": "Ilvara is a former ally turned antagonist who survived a forty-foot drop, continues to conjure divine fire, and has lost her dignity to a fungal demon lord, now fighting with focused fury despite structural collapse.",
-    "source_quote": "Ilvara, battered from her forty-foot drop courtesy of Zalthir's extraordinary grip-and-release approach to aerial combat, was still moving, still conjuring, still calling down divine fire on Daz and Nym Duskryn with the focused fury of someone who had not yet accepted that this was over.",
+    "fact": "Ilvara conjured a sphere of insect plague at the cave entrance, targeting the middle ground between her foes, and continued to cast divine fire despite being battered from a forty-foot fall.",
+    "source_quote": "Ilvara had conjured it at the cave entrance, a sphere of plague large enough to catch the whole middle ground between us \u2014 me, Daz, and, as I registered with a cold sinking feeling, Glabbagool.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Glabbagool",
-    "fact": "Glabbagool is a sentient gelatinous cube companion who participated in combat with earnest sincerity, survived a 26-point insect swarm attack, and is now trembling in the aftermath \u2014 a vulnerable ally whose survival was not anticipated by the party\u2019s logistics.",
-    "source_quote": "Glabbagool. Twenty-six points of damage, I was told. The cube had survived, churning and trembling in the swarm.",
-    "quote_verified": false
+    "fact": "Glabbagool, the sentient gelatinous cube companion, survived a direct hit from Ilvara\u2019s insect plague, sustaining 26 points of damage while actively participating in the battle with earnest but inexperienced commitment.",
+    "source_quote": "Twenty-six points. We had not brought a gelatinous cube this far through the Underdark to lose him to biting insects conjured by a woman who had traded her dignity to a fungal demon lord.",
+    "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Thorin",
-    "fact": "Thorin is a warrior who drove Dawnbringer into the Heart Fungus in one round, demonstrating decisive action, and later assessed fallen allies with moral awareness despite the chaos of battle.",
-    "source_quote": "Thorin drove Dawnbringer into the Heart Fungus. One round. *Boy, I had so much prepared for the fungus.*",
+    "subject": "Zalthir",
+    "fact": "Zalthir executed an extraordinary grip-and-release maneuver that caused Ilvara to fall forty feet, demonstrating precise aerial combat skill and tactical awareness.",
+    "source_quote": "battered from her forty-foot drop courtesy of Zalthir's extraordinary grip-and-release approach to aerial combat",
     "quote_verified": true
   },
   {
-    "type": "monster",
-    "subject": "insect plague",
-    "fact": "A swarm of insects conjured by Ilvara, forming a wall of chittering fury that bypasses rational thought and targets flesh, currently hanging in the air and affecting both allies and new arrivals.",
-    "source_quote": "A wall of noise, of biting, chittering fury, the kind of sound that bypasses the thinking part of the brain and goes straight to the older, smaller part that just says *run*.",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "fungal servants",
-    "fact": "Fungal minions loyal to Ilvara, now fallen and counted among her losses \u2014 distinct from the party\u2019s own allies, their deaths triggering moral reckoning and spellcasting decisions.",
-    "source_quote": "Not our minions. *Her* minions. The fallen fungal servants belonged to Ilvara, not to us. Of course they did.",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "five Drow warriors",
-    "fact": "Five unnamed Drow warriors emerged from the cavern shadows, already within the poison cloud\u2019s range, having made a dramatic entrance into a catastrophe they did not create, now reacting with irritation and confusion.",
+    "type": "faction",
+    "subject": "Drow Warriors",
+    "fact": "Five unnamed Drow warriors emerged from the cavern shadows, entering the poison cloud\u2019s range and unintentionally stepping into a catastrophe they did not create, now caught in the aftermath of Ilvara\u2019s spell.",
     "source_quote": "Five drow warriors emerging from the cavern shadows. The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Insect Plague",
+    "fact": "A swarm of magical insects, conjured by Ilvara, formed a dense, chittering wall of biting fury that bypassed rational thought and inflicted damage on all within its range, including allies and newly arrived enemies.",
+    "source_quote": "A wall of noise, of biting, chittering fury, the kind of sound that bypasses the thinking part of the brain and goes straight to the older, smaller part that just says *run*.",
     "quote_verified": true
   },
   {
     "type": "object",
     "subject": "Dawnbringer",
-    "fact": "Dawnbringer is a weapon wielded by Thorin, used to strike the Heart Fungus in a single decisive round, implying divine or radiant properties.",
+    "fact": "Dawnbringer, Thorin\u2019s weapon, was driven into the Heart Fungus in a single decisive strike, indicating its potency and the effectiveness of Thorin\u2019s action.",
     "source_quote": "Thorin drove Dawnbringer into the Heart Fungus. One round.",
     "quote_verified": true
   },
   {
-    "type": "object",
-    "subject": "Guiding Bolt",
-    "fact": "A spell cast at Ilvara that missed, despite her vulnerability, buying time for the battle to escalate before resolving \u2014 a failed action that reflects the unpredictability of combat in the Underdark.",
-    "source_quote": "I tried a Guiding Bolt at Ilvara. The bolt missed. I note this without rancor.",
+    "type": "event",
+    "subject": "Heart Fungus Defeated",
+    "fact": "The Heart Fungus was destroyed in one round by Thorin\u2019s Dawnbringer, ending a major threat in the fungal cavern and shifting the battle\u2019s focus to Ilvara and her summoned hazards.",
+    "source_quote": "Thorin drove Dawnbringer into the Heart Fungus. One round.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "bridge collapse",
-    "fact": "The bridge cracked under Ilvara\u2019s weight during combat, a consequence of Thorin\u2019s prior actions, forcing her to leap clear and continuing the battle despite environmental collapse.",
+    "subject": "Bridge Collapse",
+    "fact": "The bridge cracked under Ilvara\u2019s weight due to Thorin\u2019s prior actions, forcing her to leap clear and altering the battlefield\u2019s geometry during the climax.",
     "source_quote": "The bridge cracked under her. Thorin's work. She leapt clear anyway.",
     "quote_verified": true
   },
   {
     "type": "thread",
-    "subject": "minion accounting",
-    "fact": "The party has lost track of who owns which minions, allies, prisoners, and companions in the Underdark, leading to moral confusion over who deserves Revivify and whose losses matter \u2014 a systemic breakdown in record-keeping.",
+    "subject": "Minion Accountability",
+    "fact": "The group lost track of which fallen creatures belonged to whom \u2014 allies, enemies, or companions \u2014 revealing a breakdown in battlefield bookkeeping after prolonged time in the Underdark with an expanding roster.",
     "source_quote": "I forgot. This is, I think, a reasonable accounting of what happens when you spend extended time in the Underdark with an expanding roster of companions, allies, prisoners, and one sentient gelatinous cube.",
     "quote_verified": false
   },
   {
     "type": "thread",
-    "subject": "twelve days of Christmas",
-    "fact": "The escalating number of enemies and environmental hazards has turned combat into a surreal, escalating sequence \u2014 five Drow, insect plagues, fungal servants \u2014 mirroring the absurd accumulation of the Twelve Days of Christmas, with no end in sight.",
-    "source_quote": "This is turning into the 12 days of Christmas... Five of them. Very irritated about the poison.",
+    "subject": "Revivify Offer",
+    "fact": "A Revivify spell was offered to restore a fallen minion, but the speaker realized the fallen were Ilvara\u2019s fungal servants, not their own, exposing a misalignment in tactical perception and factional awareness.",
+    "source_quote": "If anybody is too saddened by the loss of any of our minions, I do have a Revivify spell that I could use to bring one of them back. Someone shouted immediately. Not our minions. Her minions.",
     "quote_verified": false
   },
   {
-    "type": "thread",
-    "subject": "minion tragedy",
-    "fact": "The universal truth that minions \u2014 regardless of faction \u2014 are collateral in others\u2019 conflicts, showing up to fights they didn\u2019t start, stepping into hazards they didn\u2019t create, and dying without agency \u2014 a theme recurring through Glabbagool, the Drow, and Ilvara\u2019s servants.",
-    "source_quote": "It's tough being a minion. This is a truth that applies universally and transcends factional allegiance.",
+    "type": "location",
+    "subject": "Fungal Cavern",
+    "fact": "The Fungal Cavern became a chaotic battlefield dominated by Ilvara\u2019s insect plague, collapsing bridge, and emergent Drow warriors, transforming from a contained encounter into a sprawling, multi-layered conflict.",
+    "source_quote": "The insect plague hit like a wave breaking through a cracked hull \u2014 one moment the cavern was loud with shouting and the clatter of steel, and the next it was *screaming*.",
     "quote_verified": true
   },
   {
     "type": "date",
-    "subject": "session timestamp",
-    "fact": "This sequence of events occurs during a session in which the GM introduced escalating threats, confirming the narrative is far from exhausted \u2014 a moment of recognized GM momentum.",
-    "source_quote": "The GM said this with a tone I recognized immediately. The tone of a person who has not, in fact, run out of material.",
+    "subject": "session time",
+    "fact": "The events occurred during an extended session in the Underdark, marked by escalating complexity, new threats, and a growing roster of combatants, indicating passage of significant narrative time.",
+    "source_quote": "This is, I think, a reasonable accounting of what happens when you spend extended time in the Underdark...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz was targeted by Ilvara\u2019s divine fire during the battle, surviving the assault while standing alongside Nym Duskryn and the narrator in the midst of the insect plague.",
+    "source_quote": "still calling down divine fire on Daz and Nym Duskryn",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Nym Duskryn",
+    "fact": "Nym Duskryn was under direct attack from Ilvara\u2019s divine fire, remaining in the field alongside Daz as the insect plague and collapsing bridge altered the battlefield.",
+    "source_quote": "still calling down divine fire on Daz and Nym Duskryn",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Heart Fungus",
+    "fact": "The Heart Fungus was a major fungal entity in the cavern, destroyed in one strike by Thorin\u2019s Dawnbringer, serving as the initial major threat before Ilvara\u2019s escalation.",
+    "source_quote": "Thorin drove Dawnbringer into the Heart Fungus. One round.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Twelve Days of Christmas",
+    "fact": "The emergence of five Drow warriors, combined with the ongoing insect plague and prior threats, led the narrator to compare the escalating situation to the '12 Days of Christmas,' signaling narrative overload and darkly comic absurdity.",
+    "source_quote": "This is turning into the 12 days of Christmas... Five of them. Very irritated about the poison.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Narrator (Thorin)",
+    "fact": "The narrator, identified as Thorin, consistently observes, reflects, and documents the chaos with self-awareness, noting tactical missteps, emotional weight, and philosophical principles \u2014 especially regarding protection and accountability.",
+    "source_quote": "I take notes. The notes had just not caught up with the situation.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Fungal Servants",
+    "fact": "Ilvara\u2019s fungal servants were numerous and loyal, but fell in battle \u2014 their deaths acknowledged as belonging to her, not the party, highlighting the factional divide and the cost of her allegiance to a fungal demon lord.",
+    "source_quote": "The fallen fungal servants belonged to Ilvara, not to us. Of course they did.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Minion Tragedy",
+    "fact": "The universal truth that minions \u2014 regardless of faction \u2014 are caught in consequences they did not create, and must endure hazards they never chose, was observed and lamented by the narrator as a recurring theme.",
+    "source_quote": "It's tough being a minion. This is a truth that applies universally and transcends factional allegiance.",
     "quote_verified": true
   }
 ]

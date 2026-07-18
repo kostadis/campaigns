@@ -1,15 +1,15 @@
 ---
-name: Laduguer’s Furrow
+name: Laduguer's Furrow
 type: location
 n_facts: 9
 chapters: 17-29
 ---
 
-### Laduguer’s Furrow
+### Laduguer's Furrow
 
-Laduguer’s Furrow is the wealthiest district of Gracklstugh, inhabited by the richest and most powerful Duergar nobles. It lies beyond the Derro slums and is guarded by the Deepking’s elite. The district is accessed through a western gate, which serves as the threshold from the slums into this zone of luxury and control. The area is characterized by stark opulence, contrasting sharply with the filth and chaos of the Derro slums to the west. Its entrances are now heavily secured with barred gates, making escape from the district require a clever and insane scheme. The abandoned guardhouses once used for observation have been replaced or repurposed as part of the elite security apparatus.
+Laduguer’s Furrow is the wealthiest district of Gracklstugh, inhabited by the richest and most powerful Duergar nobles. It lies beyond the Derro slums and is guarded by the Deepking’s elite. The district is accessed through a western gate, which now features barred gates requiring a clever and insane scheme to escape. It is a place of hidden power, where luxury is maintained in stark contrast to the suffering of the lower classes.
 
 ## Uncertainty
-- The earlier descriptions of Laduguer’s Furrow as a “clean corridor” and “symbolic boundary” conflict with its current identity as a wealthy district — it is unclear whether the corridor still exists as a physical feature within the district or was entirely redefined.  
-- The timeline of transformation from a boundary corridor to a noble district is not specified; it is unknown whether the guardhouses still exist or were demolished.  
-- It is unclear whether the “western gate” mentioned in ch17 is the same as the “barred gates” in ch29 or if the latter are new fortifications atop the former structure.
+- The earlier facts describe Laduguer’s Furrow as a “clean, orderly corridor” with abandoned guardhouses and entrances to the Derro slums — implying a transitional passage. The later facts (ch28–29) reframe it as a wealthy district with noble residences and barred gates. These are incompatible spatial descriptions: is it a corridor or a district? The later chapters override earlier ones, but the transformation is not explained, leaving the physical nature of the space ambiguous.
+- It is unclear whether the “barred gates” mentioned in ch29 are new additions or the same “western gate” referenced in ch17 — no transition or modification is documented.
+- The phrase “entrances leading to the Derro slums” from ch17 conflicts with ch28’s depiction of Laduguer’s Furrow as a district *beyond* the slums — implying the slums are now *west* of it, not adjacent via entrances. This spatial contradiction is unresolved.

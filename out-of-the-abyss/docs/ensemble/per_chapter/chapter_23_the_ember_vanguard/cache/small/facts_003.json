@@ -1,0 +1,128 @@
+[
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is the self-appointed leader who coined the name 'The Ember Vanguard' and insists on its use to elevate their identity from desperate adventurers to feared mercenaries.",
+    "source_quote": "The Ember Vanguard, Onwards!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a mage who found purpose in the identity of 'The Ember Vanguard,' taking pride in his use of magical effects like dancing lights and Magic Missile to intimidate enemies and support allies.",
+    "source_quote": "I have it - The Ember Vanguard.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is the group\u2019s note-taker who proposed the initial plan to use Gartokkar to escape Gracklstugh and later survived a Trapper attack, though he remains visibly distressed by the acid slime.",
+    "source_quote": "I\u2019ve been taking notes on all of the deals we have made.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a cautious member who initially voted for discretion, later accepted 'The Ember Vanguard' name, and warned of the Empty Scabbard Killers as a threat to avoid.",
+    "source_quote": "The Empty Scabbard Killers might want to kill us.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Diirdeklin the Derro",
+    "fact": "Diirdeklin is a Derro guard who has served at the post for days, disillusioned by broken promises of freedom, and who surrendered to The Ember Vanguard after witnessing their overwhelming power.",
+    "source_quote": "Yes, pass!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Diinarnnmyr",
+    "fact": "Diinarnnmyr is a Derro who fears Drow incursions and believes The Ember Vanguard are colluding with the Duergar to subjugate their people, despite the Drow\u2019s actual independence.",
+    "source_quote": "The Drow are now working with the Duergar to subdue us!",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "The Ember Vanguard",
+    "fact": "The Ember Vanguard is a newly named group of mercenaries led by Thorin, composed of Daz, Grygum, Zalthir, and Thorin, who have adopted a fearsome identity to replace their previous image as desperate survivors.",
+    "source_quote": "We are The Ember Vanguard, and you will let us pass!",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Derro",
+    "fact": "The Derro are a subterranean race under Duergar oppression, with some members like Diirdeklin and Diinarnnmyr hoping for liberation, but now fearing Drow incursions may be part of a larger scheme against them.",
+    "source_quote": "Pliinki has promised him that this is part of some plan that will free the Derro from the bondage of Duergar.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Trapper",
+    "fact": "A Trapper, resembling a manta ray, attacked Grygum in the 20-foot-wide cavern, releasing acid slime that coated him before being slain by the combined efforts of The Ember Vanguard.",
+    "source_quote": "Grygum enveloped by a creature that looks like a manta ray.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Derro Squad",
+    "fact": "A small squad of Derro guarded the double doors at the end of the cave tunnel, who were intimidated into surrender by The Ember Vanguard after witnessing the Drow Archmage\u2019s meteor swarm.",
+    "source_quote": "In front of those double doors is a small squad of derro.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Cave Entrance",
+    "fact": "The cave entrance is the point of departure for The Ember Vanguard, from which they chose not to retrace their steps due to the threat of the Empty Scabbard Killers.",
+    "source_quote": "From the cave entrance, they choose not to circle back the way they came.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Double Doors",
+    "fact": "The double doors are a fortified passage guarded by Derro, located at the end of a tunnel beyond the cave entrance, leading into a 20-foot-wide cavern.",
+    "source_quote": "As they leave the cave, he thinks, 'A Drow incursion! This is not good.'",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "20-Foot-Wide Cavern",
+    "fact": "A vast cavern that The Ember Vanguard traverses after passing the double doors, where Grygum was attacked by a Trapper and Daz deployed his spellcasting to assist.",
+    "source_quote": "After walking in the enormous 20-foot-wide cavern for a few minutes, Thorin hears a yelp.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Alarm Bell",
+    "fact": "An alarm bell held by Diirdeklin, which he dropped after hearing the Drow Archmage\u2019s declaration and seeing the meteor swarm, signaling his surrender.",
+    "source_quote": "He reaches for the alarm. And then he hears a booming voice - 'The people you are trying to warn are dead.'",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Derro Liberation Plan",
+    "fact": "A rumored plan by Pliinki to free the Derro from Duergar bondage, which Diirdeklin and Diinarnnmyr have heard before and now suspect may be compromised by Drow incursions.",
+    "source_quote": "Pliinki has promised him that this is part of some plan that will free the Derro from the bondage of Duergar.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Drow-Duergar Alliance Rumor",
+    "fact": "A rumor propagated by Diinarnnmyr that The Ember Vanguard\u2019s Drow are secretly allied with the Duergar to subjugate the Derro, contradicting the Drow\u2019s actual independent actions.",
+    "source_quote": "The Drow are now working with the Duergar to subdue us!",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Empty Scabbard Killers",
+    "fact": "A hostile faction rumored to inhabit the southern tunnels, whose threat prompted The Ember Vanguard to avoid retracing their path and instead take a new route.",
+    "source_quote": "The Empty Scabbard Killers might want to kill us.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occur during a single session of exploration and conflict, marked by the naming of The Ember Vanguard and the confrontation with Derro and the Trapper.",
+    "source_quote": "And so they are ready to leave the chamber of the Obelisk.",
+    "quote_verified": true
+  }
+]

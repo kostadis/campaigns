@@ -1,23 +1,26 @@
 ---
 name: Deneir's Sanctum
 type: location
-n_facts: 10
+n_facts: 14
 chapters: 58-61
 ---
 
 ### Deneir's Sanctum
 
-- **Current status:** Active, occupied, and under controlled access.  
-- **Current location:** Within Candlekeep, near the main investigative quarters.  
-- **Current control/occupation:** Controlled by Candlekeep authorities; occupied by the adventurers as detained witnesses under guard.  
-- **Current condition:** A vast, book-filled chamber with floor-to-ceiling bookshelves, tables, and the dry smell of old paper — repurposed as a guarded holding cell.  
-- **Current assignment / role:** Functions as a gilded cage for the adventurers, who are held there under guard (Kalan Strongbranch escorting them there, Fembris Lancer present as an unwilling companion) while awaiting further orders.  
-- **Notable recent actions:** The party was escorted there by Kalan Strongbranch and confined overnight; Zalthir’s Glabbagool arm successfully concealed the stolen potion of flying within the room without detection.  
-- **Key relationships:** Under the authority of Candlekeep’s investigative leadership; Fembris Lancer is present and unwillingly confined with the group.  
-- **Significance:** Originally a shrine and library dedicated to the art of writing, now a surveillance-adjacent detention space — its scholarly facade masks its role as a monitored confinement zone.
+- **Current status:** Active location, under controlled occupation  
+- **Current location:** Unspecified, but within the same complex as Bookwyrm’s operations (likely central to the investigation hub)  
+- **Current control/occupancy:** Held and guarded by Bookwyrm’s forces; used as a sealed holding cell  
+- **Current possessions / notable items:** Floor-to-ceiling bookshelves, scholarly tables, dry remnants of old paper, shattered glass, dust, two piles of ruined armor, one silent inert key  
+- **Current assignment / role:** Holding cell and confined waiting area for the adventurers; site of recent violent encounter with helmed horrors  
+- **Defining recent actions:**  
+  - The adventurers were forcibly escorted here under guard after the confrontation with helmed horrors.  
+  - The room was the site of a violent ambush, leaving two dead helmed horrors and two piles of ruined armor.  
+  - The adventurers were confined here overnight, fed by proxy, while Daral was healed — yet the locked door prevented escape.  
+  - The space, once a shrine and library, has been repurposed to symbolize entrapment within Bookwyrm’s narrative.  
 
 ## Uncertainty
-- The exact identity of the guards stationed in the room beyond Kalan Strongbranch’s escort is unspecified — only that the group is “under guard.”  
-- Whether Fembris Lancer is permanently assigned there or merely coincidentally present is unclear.  
-- It is unknown if the room is still actively bugged or monitored as suspected in Chapter 58 — no later confirmation or denial exists.  
-- The status of the shrine’s original religious function (if any remains) is not addressed in Chapter 61.
+- The exact physical location relative to other known sites is not specified.  
+- Whether the inert key or ruined armor remains in the room *now* (post-ch61) is implied but not confirmed as current state.  
+- The current status of Vooshadi Moonriver or Fembris Lancer in relation to the Sanctum is unknown — their earlier roles are not referenced in ch61.  
+- Whether the room is still under active guard after the events of ch61 is not stated.  
+- The nature of the "silent inert key" — its origin, purpose, or current significance — is not explained.

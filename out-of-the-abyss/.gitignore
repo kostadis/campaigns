@@ -37,3 +37,7 @@ scratch/
 # docs/.entity_triage_state.json IS version-controlled on purpose, so the GM
 # "don't re-ask" decisions (ignored/deferred) travel across machines.
 docs/.triage_queue*.json
+
+# Source PDFs for character-sheet conversions (raw D&D Beyond exports; the
+# converted .md under docs/party/ is the versioned artifact, not the PDF)
+docs/party/old/*.pdf

@@ -1,7 +1,7 @@
 ---
 name: Themberchaud
 type: npc
-n_facts: 19
+n_facts: 20
 chapters: 16-29
 ---
 
@@ -10,30 +10,28 @@ chapters: 16-29
 **Current status:** Alive  
 **Current location:** Gracklstugh, Underdark  
 **Allegiance/faction:** De facto pawn of the Duergar and the Keepers of the Flame; believes himself sovereign ruler of Gracklstugh  
-**Current possessions / notable items:** None explicitly named, but his scales are meticulously polished and his claws are painted — signs of deliberate, controlled grooming  
-**Spells/feats:** None specified; capable of breathing fire (used to ignite forges)  
-**Wounds:** None mentioned  
-**Current assignment / role:** Glorified lighter for Duergar forges in Gracklstugh; performs ceremonial fire-breathing at forges and conducts dramatic flybys  
+**Current possessions / notable items:** None explicitly named, but his scales are meticulously polished and his claws are painted — signs of deliberate, controlled pampering  
+**Spells/feats:** Breathes fire (used to ignite forges); no other abilities confirmed  
+**Current assignment / role:** “Glorified lighter” for Duergar forges — used to provide heat and flame for smithing; performs dramatic flybys and fire-breathing displays on command  
 **Key relationships:**  
 - Believes the party are his “agents, bound by my protection”  
-- Reports to no one directly in his own mind, but is manipulated by Gartokkar and the Keepers of the Flame (unaware of their influence)  
-- Last seen addressing the party with inflated authority, offering “express service” to their next destination  
+- Reports to no one openly, but is manipulated by Gartokkar and the Keepers of the Flame  
+- Interacts with Duergar who maintain his appearance and control his environment  
 **Defining recent actions:**  
 - Declared himself “Themberchaud the Wyrmsmith, bringer of flame!” in front of the party  
-- Breathed fire at a forge while proclaiming his divine role  
-- Declared a cavern “my town”  
-- Ordered the party to “Climb aboard, unless you wish to question the will of your wormsmith”  
-- Exhibits childish, vain demeanor, lacking strategic understanding despite inflated self-perception  
+- Offered “express service” to transport the party to their next destination  
+- Proclaimed a cavern he flew through as “my town”  
+- Demanded the party climb aboard his back under threat of questioning “the will of your wormsmith”  
+- Breathed fire at a forge while performing his ceremonial role  
 
-**Revealed motivations or secrets:**  
-- Believes himself to be a sovereign ruler and divine forger — a delusion actively maintained by the Duergar  
-- Deeply insecure about his authority, though he masks it with bombast  
-- Unaware he is a tool; his entire identity and environment are engineered to keep him docile and useful  
-- His maturity has been stunted by his role; his pampered appearance (shiny scales, painted claws) is intentional to prevent him from appearing threatening  
+**Revealed motivations/secrets:**  
+- Believes himself to be a sovereign ruler and divine forger — a delusion maintained by the Duergar  
+- Deeply insecure about his authority, suspects the Keepers of the Flame are plotting against him, but lacks the insight to confirm or act on it  
+- His childish, vain demeanor and lack of strategic understanding are the result of prolonged psychological manipulation and infantilization by his captors  
 
 ## Uncertainty
-- The exact identity of “Gartokkar” and their current direct involvement with Themberchaud is not confirmed in ch29 — only implied by earlier chapters (ch18).  
-- Whether Themberchaud still believes he is “in charge” of the entire Underdark (as per ch16) or has narrowed his delusion to Gracklstugh alone (ch29) is ambiguous — ch29 is latest, so we assume localized delusion.  
-- The phrase “your wormsmith” in ch29 may be a typo or intentional mispronunciation — unclear if this is Themberchaud’s speech pattern or the observer’s rendering.  
-- No current possession (e.g., magical item, artifact, treasure) is confirmed in ch29 — earlier mentions of “agents” and “protection” are relational, not material.  
-- Whether Themberchaud is still being actively guided by Gartokkar or if the manipulation is now systemic and passive (e.g., institutionalized control) is not specified in latest chapter.
+- The exact identity of “Gartokkar” and his current role in Themberchaud’s manipulation is not confirmed beyond ch16–ch18; no recent chapter (ch29) explicitly names him in direct relation to Themberchaud’s current actions.  
+- The phrase “your wormsmith” in ch29 may be a typo for “Wyrmsmith” — unclear if intentional (character mispronunciation) or error in transcription.  
+- Whether Themberchaud is truly “young” (ch29) contradicts his description as a “massive, overweight” dragon since ch16 — age classification is ambiguous.  
+- The reference to “Thermbachaude” in ch19 may be a misspelling of Themberchaud, but cannot be confirmed as the same entity without more context.  
+- It is unclear whether Themberchaud’s belief in his sovereignty is a persistent delusion or if he has begun to suspect the truth — ch18 notes doubt, but ch29 shows no change in behavior or awareness.

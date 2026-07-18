@@ -1,23 +1,21 @@
 ---
 name: spores
 type: monster
-n_facts: 1
-chapters: 27-27
+n_facts: 2
+chapters: 27-50
 ---
 
 ### Spores
 
-- **Current status**: Active (as a biological phenomenon emitted by Voosbur)  
-- **Current location**: Emitted from Voosbur within the cavern  
-- **Nature**: Bioluminescent airborne spores  
-- **Current possessions / notable items**: None (non-corporeal entity)  
-- **Current assignment / role**: Agent of transformation/disappearance; triggers victims to migrate toward cavern moss  
-- **Defining recent action**: Emitted from Voosbur, glowed, and caused dancers to walk to the cavern’s moss and vanish  
-- **Revealed motivation/secret**: Functions as a mechanism to remove individuals from the cavern via unknown means tied to the moss  
+- **Current status:** Active biological vector  
+- **Current location:** Controlled by Ilvara; originating from the Heart Fungus  
+- **Allegiance/faction:** Directly controlled by Ilvara  
+- **Current possessions / notable items / spells / feats / wounds:** None (non-sentient entity)  
+- **Current assignment / role:** Infectious agent propagating the infection; biological vector for Ilvara’s influence  
+- **Defining recent actions:** Released from the Heart Fungus to infect hosts, causing them to migrate toward mossy areas and vanish (as observed in prior events); actively contained as a critical mission objective  
+- **Revealed motivations or secrets:** Not self-motivated; serve Ilvara’s agenda. The artifact (Heart Fungus) is distinct from the spores, which are its biological delivery mechanism.
 
 ## Uncertainty
-- The spores’ origin (natural, magical, or engineered) is unconfirmed.  
-- Whether the spores are alive, sentient, or merely a vector is not specified.  
-- The fate of the dancers after disappearing into the moss is unknown.  
-- Whether the spores persist after emission or dissipate immediately is unclear.  
-- No evidence confirms if the spores can be controlled, blocked, or replicated.
+- The exact current physical location of active spore clouds (e.g., still in Voosbur, dispersed elsewhere) is unspecified beyond their origin at the Heart Fungus.  
+- Whether spores retain the ability to cause dancers to vanish as in ch27, or if that behavior has evolved, is not confirmed in ch50.  
+- It is unclear if the “dancers” referenced in ch27 are the same as current infection targets, or if that was an isolated event.

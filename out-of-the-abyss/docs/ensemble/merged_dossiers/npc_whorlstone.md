@@ -7,7 +7,7 @@ chapters: 25-25
 
 ### Whorlstone
 
-Whorlstone is a location referenced in ritual chant as the origin of the magic, from whose depths the spirals turn.  
+Whorlstone is a location from whose depths the spirals turn, referenced in the ritual chant as the origin of the magic.  
 > "From Whorlstone's depths, the spirals turn!"
 
 ## Uncertainty

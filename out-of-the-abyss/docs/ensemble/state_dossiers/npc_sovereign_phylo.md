@@ -9,15 +9,15 @@ chapters: 31-33
 
 **Current status:** Alive  
 **Current location:** Neverlight Grove  
-**Allegiance/faction:** Aligned with Zuggtmoy and the Great Seeder; rejects the traditional Myconid Circle  
+**Allegiance/faction:** Aligned with Zuggtmoy and the Great Seeder; rejects the traditional Myconid Circle and its values  
 **Current possessions / notable items, spells, feats, wounds:** None specified  
-**Current assignment / role and key relationships:** Sovereign of Neverlight Grove; enforces a hierarchical, circle-exclusive social order where only leaders may meld across circles; claims the Great Seeder instructed this restructuring; pleads with Basidia to remain as co-sovereign; speaks in gendered terms inconsistent with myconid biology  
-**Defining recent actions:** Actively resisted Basidia’s departure, invoking the Great Seeder’s supposed will to promise universal happiness through fungal transformation; imposed isolation between myconid circles and mandated reanimation of the dead as optimal efficiency; promoted the Circle of Masters as the new governing class; silenced dissent within Neverlight Grove  
+**Current assignment / role and key relationships:** Sovereign of Neverlight Grove; enforces a hierarchical, circle-isolated social order where only leaders may meld across circles; last seen pleading with Basidia not to leave  
+**Defining recent actions:** Instituted a radical restructuring of Myconid society, replacing collective discourse with nested, task-specific melds; promoted the Circle of Masters; enforced isolation between circles; mandated reanimation of the dead as optimal efficiency; publicly declared an impending “day of joy”; attempted to prevent Basidia’s departure by invoking the Great Seeder’s promise of universal happiness through fungal transformation.  
 
-**Revealed motivations or secrets:** Believes the transformation of Neverlight Grove into a unified, hierarchical, reanimated society under the Great Seeder’s guidance is a divine mandate — not corruption. Uses gendered language and emotional appeals to manipulate loyalty, suggesting deep fungal influence beyond mere possession.  
+**Revealed motivations or secrets:** Believes the Great Seeder instructed him to abandon collective unity in favor of hierarchical efficiency; his altered speech patterns, gendered language, and obsessive focus on transformation suggest corruption by a demonic spore tied to Zuggtmoy. His conviction in the “day of joy” implies he perceives the transformation of the Grove — and its inhabitants — as divine salvation.
 
 ## Uncertainty
-- Contradiction: Ch31 describes Phylo as “infected by a demonic spore, likely tied to Zuggtomy,” while ch32–33 frame Phylo as acting under the “Great Seeder” (Zuggtmoy’s avatar) as a willing agent — is the infection the mechanism of alignment, or is Phylo a true devotee? The facts do not resolve whether the spore is a corrupting force or a conduit.  
-- Ambiguity: Ch31 and ch32 describe Phylo as both “sovereign” and “circle leader” — which title holds current authority? Later chapters treat them as sovereign, so that overrides, but the earlier role suggests possible power-sharing or transition.  
-- Attribution: Ch33 says Phylo “pleaded” with Basidia — but is this the last known action, or did they act further? No later chapter confirms Phylo’s status after the party fled.  
-- Unclear: The origin of Phylo’s gendered speech is attributed to infection, but no source specifies whether this is a physical change, a psychological effect, or a linguistic corruption — and whether it persists as a current trait.
+- Contradiction between [ch31] describing Phylo as “a myconid sovereign who has become infected” and [ch32] describing him as “a Myconid circle leader advocating for decentralized governance” — later chapter [ch33] confirms his sovereign status, so earlier “circle leader” label is superseded, but the inconsistency in role description remains unresolved in source.
+- Unclear whether Phylo’s claim of being instructed by the Great Seeder is truthful or a delusion induced by the demonic spore; source does not confirm the Great Seeder’s actual involvement.
+- The nature of the “demonic spore” is never named or described beyond its association with Zuggtmoy — its exact effects beyond behavioral changes are unspecified.
+- The phrase “co-sovereign with Basidia” from [ch31] is not corroborated in later chapters; [ch33] shows Phylo pleading with Basidia, implying subordination or desperation, not shared rule — this earlier claim is likely a delusion and thus no longer current.

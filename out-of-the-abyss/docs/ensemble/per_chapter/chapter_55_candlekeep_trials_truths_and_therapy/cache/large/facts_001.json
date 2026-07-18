@@ -1,170 +1,163 @@
 [
   {
     "type": "npc",
-    "subject": "Tarvis Ulain",
-    "fact": "Tarvis Ulain was a paladin of Bahamut who died three years ago in Daggerford while breaking up a Cult of the Dragon recruitment operation. His severed bronze forearm is mounted on a stone pillar as a monument, bearing a Stroudite inscription and signed by Milo Goodbarrel of the Order of the Gauntlet.",
-    "source_quote": "The primary inscription read: 'Tarvis Ulain, paladin, dead three years. Died here, in Daggerford itself, breaking up a Cult of the Dragon recruitment operation.'",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Milo Goodbarrel",
-    "fact": "Milo Goodbarrel is the head of a publisher and a member of the Order of the Gauntlet who personally witnessed and recorded the monument to Tarvis Ulain, signing it with the phrase 'Witnessed and recorded for the Gauntlet.'",
-    "source_quote": "The smaller inscription on the back read: 'Witnessed and recorded for the Gauntlet.' Signed by Milo Goodbarrel.",
-    "quote_verified": false
-  },
-  {
-    "type": "faction",
-    "subject": "Metalworkers Guild",
-    "fact": "The Metalworkers Guild funded the monument to Tarvis Ulain two years after the war, possibly containing Stroudite members, and commissioned the bronze forearm statue despite its conflicting religious inscriptions.",
-    "source_quote": "The whole thing was funded two years after the war by a Metalworkers Guild.",
-    "quote_verified": true
-  },
-  {
-    "type": "faction",
-    "subject": "Order of the Gauntlet",
-    "fact": "The Order of the Gauntlet endorsed the monument to Tarvis Ulain, with Milo Goodbarrel signing off on its recording, and now sells pewter hand casts as donations to support their cause.",
-    "source_quote": "He was selling them for donations to the Order of the Gauntlet.",
-    "quote_verified": false
-  },
-  {
-    "type": "faction",
-    "subject": "Cult of the Dragon",
-    "fact": "The Cult of the Dragon was actively recruiting in Daggerford when Tarvis Ulain intervened and died stopping them, marking him as a martyr in the region's post-war religious landscape.",
-    "source_quote": "Died here, in Daggerford itself, breaking up a Cult of the Dragon recruitment operation.",
-    "quote_verified": true
-  },
-  {
-    "type": "event",
-    "subject": "monument unveiling",
-    "fact": "A bronze forearm monument to Tarvis Ulain was unveiled in Daggerford's market square, bearing a Stroudite inscription and a Gauntlet-approved record, creating theological tension between Bahamutian and Stroudite factions.",
-    "source_quote": "There was a monument there \u2014 a bronze-cast forearm, severed at the elbow, mounted on a stone pillar... The secondary inscription... *The move is yours.*",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "pewter hand cast sales",
-    "fact": "A village priest began selling miniature pewter reproductions of Tarvis Ulain's severed hand as donations to the Order of the Gauntlet, sparking irony and unease among the party due to their size and the monument's symbolism.",
-    "source_quote": "He was carrying a tray of small pewter reproductions of Tarvis's hand cast, miniature things, charm-sized.",
-    "quote_verified": false
-  },
-  {
-    "type": "monster",
-    "subject": "Underdark corruption",
-    "fact": "A pervasive, non-magical corruption from the Underdark is bleeding upward, disrupting perception and communication among surface dwellers, manifesting as auditory hallucinations and compulsive drawing in children like Elin.",
-    "source_quote": "Something from below was bleeding up, that it was affecting how people processed what reached them.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Elin",
-    "fact": "Elin, a 7-year-old girl from Maerith, has been silent for six days and compulsively draws a six-pointed star on every flat surface, while speaking in her sleep with the phrase 'The wells are not wells anymore.'",
-    "source_quote": "She draws the same shape on every flat surface... She says it is only the shape that holds... 'The wells are not wells anymore.'",
+    "subject": "Thorin",
+    "fact": "Thorin is a traveler who has noticed recurring patterns of unspoken silence and symbolic monuments in towns affected by the war, particularly the severed bronze forearm of Tarvis Ulain in Daggerford, and is reflecting on how such symbols represent unacknowledged trauma and hidden connections to the Underdark's influence.",
+    "source_quote": "I stared at it for longer than I should have. 'Wait, is it holding a weapon?' It was not.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum, a cleric of Bahamut, is deeply attuned to spiritual and metaphysical disturbances, documenting the connection between Elin's condition and Daz's headaches as evidence of a broader Underdark-induced perceptual breakdown.",
-    "source_quote": "I took notes. Elin couldn't speak and Daz had a headache and somewhere below us the demon lords were apparently still broadcasting...",
+    "fact": "Grygum is a cleric of Bahamut who has encountered a silent child, Elin, whose drawings and speechlessness are symptoms of an external, non-magical corruption bleeding up from the Underdark, and who has connected her condition to Daz\u2019s headaches and the broader phenomenon of people hearing voices from below.",
+    "source_quote": "The wells are not wells anymore. ... Something in the voice was doing work the words weren't.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Daz",
-    "fact": "Daz, a dwarf with native understanding of Dwarven, noticed the Stroudite inscription on Tarvis Ulain\u2019s monument and later experienced persistent pressure in his head, suggesting he is a secondary recipient of the same Underdark corruption affecting Elin.",
-    "source_quote": "Daz mentioned the pressure in his own head \u2014 had been mentioning it, in various indirect ways, for a while now.",
+    "fact": "Daz is a dwarf wizard who has noticed the persistent pressure in his own head, linked it to Elin\u2019s condition and the Underdark\u2019s spreading influence, and has analyzed the Burning Wizard Inn\u2019s history and the bard\u2019s song about Whistler, recognizing parallels between restraint and survival in times of overwhelming corruption.",
+    "source_quote": "The Kenku could not fly, but he flew in his black hood... Whistler had apparently made a line-item budget.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Elin",
+    "fact": "Elin is a 7-year-old girl who has not spoken for six days and draws a six-pointed star on every flat surface, a manifestation of auditory hallucinations caused by a non-magical, structural corruption from the Underdark that distorts perception and overwhelms her ability to process reality.",
+    "source_quote": "She draws the same shape on every flat surface. She talks in her sleep. She says it is only the shape that holds.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Zalthir",
-    "fact": "Zalthir, a Dragonborn, identified the mechanism behind Elin\u2019s condition as non-magical perceptual distortion \u2014 the world arriving as an unprocessable language \u2014 and contributed critical analysis to the group\u2019s understanding of the phenomenon.",
-    "source_quote": "Zalthir articulated the mechanism: the input, the audio, the way the world was arriving at her rather than the world itself.",
+    "subject": "Tarvis Ulain",
+    "fact": "Tarvis Ulain was a Bahamutian paladin who died three years ago in Daggerford while dismantling a Cult of the Dragon recruitment operation; his severed bronze forearm is commemorated on a monument bearing a Stroudite inscription \u2014 a deliberate, unchallenged fusion of faiths that symbolizes the blurred lines between orthodoxy and heresy in the post-war North.",
+    "source_quote": "Tarvis Ulain, paladin, dead three years. Died here, in Daggerford itself, breaking up a Cult of the Dragon recruitment operation.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Order of the Gauntlet",
+    "fact": "The Order of the Gauntlet funded and recorded the monument to Tarvis Ulain, with Milo Goodbarrel personally signing off, and now sells pewter replicas of his hand as charitable donations, demonstrating institutional efforts to memorialize heroism while navigating theological ambiguity and lingering Stroudite influence.",
+    "source_quote": "Witnessed and recorded for the Gauntlet. Signed by Milo Goodbarrel, apparently head of some publisher, apparently Order of the Gauntlet.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Metalworkers Guild",
+    "fact": "The Metalworkers Guild funded the monument to Tarvis Ulain two years after the war, potentially including Stroudite members, and chose to preserve the controversial inscription rather than remove it \u2014 indicating internal division and a pragmatic tolerance for symbolic ambiguity in the face of shared trauma.",
+    "source_quote": "The whole thing was funded two years after the war by a Metalworkers Guild.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Cult of the Dragon",
+    "fact": "The Cult of the Dragon was actively recruiting in Daggerford at the time of Tarvis Ulain\u2019s death, and its lingering influence is implied by the monument\u2019s Stroudite inscription and the broader pattern of corruption bleeding upward from the Underdark.",
+    "source_quote": "breaking up a Cult of the Dragon recruitment operation.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "monument unveiling",
+    "fact": "The bronze forearm monument to Tarvis Ulain was unveiled two years after his death, bearing both a Bahamutian epitaph and a Stroudite inscription \u2014 an act of unspoken theological compromise that reflects the fractured state of faith in the post-war North.",
+    "source_quote": "The move is yours. ... Same line as the Castle Ward statue in Waterdeep. The one connected to Stroud.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Elin's restoration",
+    "fact": "Dawnbringer\u2019s lesser restoration allowed Elin to speak for the first time in six days, but her utterance \u2014 'The wells are not wells anymore' \u2014 revealed that the corruption affecting her is not magical or curable by conventional means, but a deeper distortion of perception from the Underdark.",
+    "source_quote": "The wells are not wells anymore. Then silence.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Daggerford",
+    "fact": "Daggerford is a town that escaped the worst of the Uthgardt barbarian hordes but was marked by the death of Tarvis Ulain and the silent proliferation of cult activity, now defined by its bronze-arm monument and the unsettling convergence of faiths, symbols, and unspoken trauma.",
+    "source_quote": "Daggerford had people. Daggerford had walls, and a market square, and smoke from cook fires, and the smell of horses.",
     "quote_verified": true
   },
   {
     "type": "location",
-    "subject": "Daggerford Market Square",
-    "fact": "Daggerford\u2019s market square hosts a bronze monument to Tarvis Ulain, featuring a severed forearm, a Stroudite inscription, and a Gauntlet-approved record, making it a focal point of religious and political tension.",
-    "source_quote": "There was a monument there \u2014 a bronze-cast forearm, severed at the elbow, mounted on a stone pillar.",
-    "quote_verified": true
-  },
-  {
-    "type": "location",
-    "subject": "River Shining Tavern",
-    "fact": "The River Shining Tavern is where the party first encountered the priest selling pewter hand casts of Tarvis Ulain\u2019s arm, and where the priest\u2019s reaction to their diverse composition revealed societal unease around inter-factional alliances.",
-    "source_quote": "We made it to the inn eventually. The River Shining.",
-    "quote_verified": true
+    "subject": "The River Shining Tavern",
+    "fact": "The River Shining Tavern is where Thorin and Grygum paused before entering, observing the priest selling pewter hand casts of Tarvis Ulain\u2019s severed forearm \u2014 a commercialization of martyrdom that mirrors the town\u2019s unresolved spiritual tensions.",
+    "source_quote": "A village priest caught us in the doorway \u2014 walking in very pleased with himself and carrying a tray of small pewter reproductions of Tarvis's hand cast...",
+    "quote_verified": false
   },
   {
     "type": "location",
     "subject": "The Burning Wizard Inn",
-    "fact": "The Burning Wizard Inn, named after a wizard burned alive by a dragon cult decades ago, retains the wall where he died and features a bard performing 'The Kenku Could Not Fly,' which Daz interprets as a metaphor for strategic restraint.",
-    "source_quote": "A wizard, burned alive, dragon cult, decades prior... That is where he fell... We do not paint over the wall. My grandfather said the wall remembers.",
-    "quote_verified": false
+    "fact": "The Burning Wizard Inn is a place haunted by the memory of a wizard burned alive by dragon cultists; its wall is left un-painted as a testament to memory, and its bard sings of Whistler \u2014 a Kenku thief who stole only what was needed \u2014 reflecting themes of restraint and survival in a world unraveling.",
+    "source_quote": "That is where he fell. We scrub the floor every season. We do not paint over the wall. My grandfather said the wall remembers.",
+    "quote_verified": true
   },
   {
     "type": "object",
     "subject": "bronze forearm monument",
-    "fact": "The bronze forearm monument to Tarvis Ulain is a severed, mounted limb with no weapon, bearing a Dwarven Stroudite inscription ('The move is yours') and a Common Gauntlet record, symbolizing the collision of faiths and forgotten histories.",
-    "source_quote": "A bronze-cast forearm, severed at the elbow, mounted on a stone pillar. Not holding anything. Just a hand.",
-    "quote_verified": false
+    "fact": "The bronze forearm monument is a public memorial to Tarvis Ulain, severed at the elbow, mounted on a stone pillar, bearing a Bahamutian epitaph and a Stroudite inscription \u2014 a physical artifact embodying the collision of orthodoxy and heresy, and the unspoken acceptance of ambiguity in post-war faith.",
+    "source_quote": "a bronze-cast forearm, severed at the elbow, mounted on a stone pillar. Not holding anything. Just a hand.",
+    "quote_verified": true
   },
   {
     "type": "object",
     "subject": "pewter hand casts",
-    "fact": "Miniature pewter reproductions of Tarvis Ulain\u2019s severed hand are sold as charms by a priest, marketed as donations to the Order of the Gauntlet, and perceived as grotesque souvenirs by the party.",
-    "source_quote": "Small pewter reproductions of Tarvis's hand cast, miniature things, charm-sized.",
+    "fact": "The pewter hand casts are miniature reproductions of Tarvis Ulain\u2019s severed forearm, sold by a priest to raise donations for the Order of the Gauntlet; they commodify martyrdom and reflect the institutional desire to control narrative while ignoring theological contradictions.",
+    "source_quote": "miniature things, charm-sized. ... Are they full size? They were not.",
     "quote_verified": false
   },
   {
     "type": "object",
     "subject": "six-pointed star drawings",
-    "fact": "Elin\u2019s compulsive drawings of a six-pointed star on every flat surface are a non-verbal communication of her perceptual breakdown, possibly representing a corrupted concept of 'wells' or divine access points.",
-    "source_quote": "She draws the same shape on every flat surface... a six-pointed star, over and over.",
+    "fact": "Elin\u2019s six-pointed star drawings are the sole expression of her consciousness after six days of silence \u2014 a repeated, obsessive mark that is not magical but a response to an auditory corruption from the Underdark, serving as a linguistic bridge she cannot yet speak.",
+    "source_quote": "a six-pointed star, over and over, every flat surface in the house.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the move is yours",
+    "fact": "The Stroudite inscription 'The move is yours' on Tarvis Ulain\u2019s monument is an unresolved puzzle linking Daggerford to Waterdeep\u2019s Castle Ward statue and the legacy of Stroud \u2014 suggesting a hidden network of influence, possibly tied to the demon lords\u2019 spreading corruption, and inviting interpretation from those who understand the game.",
+    "source_quote": "The move is yours. ... Same line as the Castle Ward statue in Waterdeep. The one connected to Stroud.",
     "quote_verified": false
   },
   {
     "type": "thread",
-    "subject": "Stroudite inscription on Bahamutian monument",
-    "fact": "The presence of a Stroudite chess reference ('The move is yours') on a Bahamutian paladin\u2019s monument in Daggerford suggests a hidden, unacknowledged alliance or ideological overlap between the two faiths, raising theological and political questions.",
-    "source_quote": "Somebody had put a Stroudite inscription on a monument to a Bahamutian paladin in a town I'd barely heard of...",
-    "quote_verified": false
+    "subject": "the wells are not wells anymore",
+    "fact": "Elin\u2019s utterance \u2014 'The wells are not wells anymore' \u2014 is a cryptic revelation that the Underdark\u2019s corruption is transforming fundamental aspects of reality, and that the surface world is losing its ability to interpret basic metaphors \u2014 a philosophical thread that connects perception, language, and the unraveling of meaning.",
+    "source_quote": "The wells are not wells anymore.",
+    "quote_verified": true
   },
   {
     "type": "thread",
-    "subject": "Underdark perceptual bleed",
-    "fact": "A non-magical, systemic corruption from the Underdark is affecting surface dwellers\u2019 perception, causing hallucinations, silence, and headaches, implying the demon lords are no longer confined below and are rewriting reality\u2019s language.",
-    "source_quote": "The madness from the Underdark... was not, apparently, staying below. It was reaching up.",
-    "quote_verified": false
-  },
-  {
-    "type": "thread",
-    "subject": "Daz's headache and Elin's silence",
-    "fact": "Daz\u2019s persistent head pressure and Elin\u2019s inability to speak may be symptoms of the same phenomenon \u2014 an external, non-magical corruption that disrupts how the world is received \u2014 suggesting a shared, unexplained vulnerability among those attuned to deeper truths.",
-    "source_quote": "I looked at him. I looked at Elin. I thought about what we'd just established: that something from below was bleeding up...",
+    "subject": "hearing voices from below",
+    "fact": "Multiple individuals \u2014 Elin, Daz, and others \u2014 are experiencing auditory distortions that are not magical but stem from a structural corruption bleeding up from the Underdark, suggesting that the demon lords\u2019 influence is no longer confined to the deep places but is rewriting how the surface perceives reality.",
+    "source_quote": "Something from below was bleeding up, that it was affecting how people processed what reached them.",
     "quote_verified": false
   },
   {
     "type": "date",
     "subject": "three years ago",
-    "fact": "Tarvis Ulain died three years ago in Daggerford, marking the timeline of the monument\u2019s creation and the beginning of the town\u2019s quiet spiritual reckoning.",
+    "fact": "Tarvis Ulain died three years ago in Daggerford, marking the beginning of the monument\u2019s legacy and the slow, unspoken spread of the corruption now manifesting in Elin and Daz \u2014 a temporal anchor for the post-war decay.",
     "source_quote": "Tarvis Ulain, paladin, dead three years.",
     "quote_verified": true
   },
   {
     "type": "date",
     "subject": "two years after the war",
-    "fact": "The Metalworkers Guild funded the Tarvis Ulain monument two years after the war, indicating the delayed, institutional nature of post-conflict memorialization and ideological compromise.",
+    "fact": "The Metalworkers Guild funded the Tarvis Ulain monument two years after the war, indicating a delayed, institutional response to trauma \u2014 a period when communities began memorializing heroes while quietly tolerating heretical symbols.",
     "source_quote": "The whole thing was funded two years after the war by a Metalworkers Guild.",
     "quote_verified": true
   },
   {
-    "type": "date",
-    "subject": "six days",
-    "fact": "Elin has been silent for six days, during which she has compulsively drawn the six-pointed star, establishing the duration of her perceptual crisis and the pattern of her non-verbal communication.",
-    "source_quote": "My daughter Elin is 7 years old and has been silent for 6 days. She draws the same shape on every flat surface.",
+    "type": "monster",
+    "subject": "Underdark corruption",
+    "fact": "The Underdark corruption is not a creature but a pervasive, non-magical distortion that bleeds upward, warping perception, inducing hallucinations, and rewriting language \u2014 a threat that bypasses conventional magic and challenges the very framework of reality for surface dwellers.",
+    "source_quote": "It wasn't a disease... it was more like the world had started speaking a language she couldn't process.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Whistler",
+    "fact": "Whistler is a legendary Kenku thief from an earlier age who, faced with Tiamat\u2019s hoard, took only what was necessary \u2014 a symbol of restraint and moral clarity in a world of overwhelming greed and chaos, invoked in the bard\u2019s song as a counterpoint to the corruption spreading across the North.",
+    "source_quote": "Whistler had apparently made a line-item budget.",
     "quote_verified": true
   }
 ]

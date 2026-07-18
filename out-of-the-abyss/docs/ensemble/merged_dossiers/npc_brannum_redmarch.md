@@ -1,22 +1,22 @@
 ---
 name: Brannum Redmarch
 type: npc
-n_facts: 2
+n_facts: 5
 chapters: 14-19
 ---
 
 ### Brannum Redmarch
 
-**Current status:** Alive  
-**Current location:** Unknown (last seen arriving to deliver items to Thorin and Zalthir)  
-**Allegiance/faction:** Independent merchant (Duergar)  
-**Current possessions / notable items:** Magical weapons and items (specifics unnamed, but sufficient to fulfill Thorin and Zalthir’s request)  
-**Current assignment / role:** Merchant fulfilling a procurement order for magical gear for Thorin and Zalthir  
-**Defining recent actions:** Delivered requested magical weapons and items to Thorin and Zalthir in the evening of Chapter 19; previously negotiated the acquisition of the Eldritch Claw Tattoo for Zalthir in Chapter 14.  
-**Revealed motivations or secrets:** Motivated by opportunity and profit; demonstrates caution under threat (fear of Thorin’s threats in Ch14), yet follows through on high-value deals. Identity as a Duergar confirmed in Chapter 19.
+- **Current status:** Alive  
+- **Current location:** Gracklstugh (last seen arriving to deliver items)  
+- **Allegiance/faction:** Duergar (self-identified as such in ch19; previously described as a former slave, but current identity is Duergar)  
+- **Current possessions / notable items:** In possession of magical weapons and items requested by Thorin and Zalthir (delivered in ch19)  
+- **Current assignment / role:** Black-market trader specializing in magical items; acts as a supplier to Thorin and Zalthir  
+- **Defining recent actions:** Delivered requested magical weapons and items to Thorin and Zalthir in ch19, fulfilling a prior arrangement made in ch14  
+- **Revealed motivations or secrets:** Willing to negotiate under threat (ch14), but now operates with sufficient trust and access to deliver high-value items — suggests elevated standing or changed circumstances since his earlier fearfulness  
 
 ## Uncertainty
-- Exact current location after delivery in Chapter 19 is unspecified.  
-- Whether Brannum still intends to procure the Eldritch Claw Tattoo (Ch14 offer) or if that deal was completed, abandoned, or superseded is unclear.  
-- No confirmation whether the items delivered in Ch19 include the Eldritch Claw Tattoo or other specific requested gear — only that “magical weapons and items” were delivered.  
-- Name is inconsistently spelled “Brannam” in both facts; assumed to be the same entity, but spelling discrepancy noted.
+- The name discrepancy: “Brannum” in ch14 vs. “Brannam” in ch19 — is this a typo, or two entities?  
+- Contradiction in species: ch14 describes him as a “former slave” with no species specified, but ch19 explicitly calls him a “Duergar” — does “former slave” refer to prior status under Duergar rule, or was he misidentified earlier?  
+- Was the Eldritch Claw Tattoo obtained and delivered? The fact that he delivered other items in ch19 does not confirm whether the tattoo was among them — it remains unverified.  
+- His current relationship to Duergar guards: He feared them in ch14; ch19 shows him acting with access and authority — has he risen in status, or is he now working under Duergar authority?

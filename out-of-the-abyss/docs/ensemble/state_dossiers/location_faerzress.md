@@ -1,5 +1,5 @@
 ---
-name: Faerzress
+name: faerzress
 type: location
 n_facts: 1
 chapters: 3-3
@@ -7,13 +7,12 @@ chapters: 3-3
 
 ### Faerzress
 
-- **Type**: Location (magical phenomenon)  
-- **Current state**: Active, illuminating tunnels in the Underdark  
-- **Nature**: A surreal magical luminescence  
-- **Location**: Present in select tunnels throughout the Underdark  
-- **Significance**: Provides ambient, otherworldly light in otherwise pitch-black subterranean passages  
+- **Type:** Location (magical phenomenon)
+- **Current state:** Active, illuminating tunnels in the Underdark
+- **Nature:** A surreal magical effect that emits light within certain Underdark tunnels
+- **Current location:** Present in unspecified tunnels of the Underdark
 
 ## Uncertainty
-- The exact geographic extent or specific tunnel networks where Faerzress is currently active are not specified.  
-- Whether Faerzress has any known effects beyond illumination (e.g., magical interference, sensory distortion, or danger) is not stated.  
-- No information is provided on whether its presence is stable, fluctuating, or tied to any external conditions.
+- The exact geographic extent or specific tunnels where Faerzress currently manifests is unknown.
+- Whether it has any side effects, limitations, or interactions beyond illumination is not specified.
+- The origin or mechanism of the Faerzress is not described.

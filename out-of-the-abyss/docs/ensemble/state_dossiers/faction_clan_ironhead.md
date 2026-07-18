@@ -7,30 +7,31 @@ chapters: 19-19
 
 ### Clan Ironhead
 
-**Current status:** Active and resentful, but not yet in open rebellion.  
-**Current location:** Undisclosed stronghold in the Deepwilds, likely near Clan Steelshadow’s territory.  
-**Allegiance/faction:** Loyal in name to the Deepking’s regime, but conditionally so; de facto opposition faction in waiting.  
-**Current possessions / notable items:** Weaponsmithing forges, surplus weapon stockpiles from Clan Steelshadow, likely iron and steel reserves.  
-**Current assignment / role:** Forced subcontractor to Clan Steelshadow; prohibited from direct trade.  
+**Current status:** Active, under economic duress  
+**Current location:** Unspecified, but based in the Deepking’s domain (likely beneath the surface)  
+**Allegiance/faction:** Loyal in form to the Deepking’s regime, but conditionally so; de facto opposition faction in waiting  
+**Current possessions / notable items:** None specified beyond implied access to weaponsmithing infrastructure  
+**Current assignment / role:** Restricted weaponsmithing clan; permitted only to produce weapons via surplus orders from Clan Steelshadow  
 **Key relationships:**  
-- Subject to the Deepking’s decree, which strips them of trade rights.  
-- Reliant on surplus orders from Clan Steelshadow.  
-- Grinta Ironhead and other lower-ranking members harbor active resentment; leader Thargus Ironhead tolerates the status quo but may not control the faction’s radicalizing elements.  
-- Potential covert ally to any faction seeking to depose the Deepking.  
+- Officially subordinate to Clan Steelshadow (sole supplier of materials)  
+- Leader Thargus Ironhead publicly supports the Deepking’s policies  
+- Lower-ranking members increasingly radicalized and resentful  
+- Grinta Ironhead (likely a high-ranking member) openly advocates for the Deepking’s deposition to restore trade rights  
+- Seen as a potential ally by external actors (e.g., Daz) seeking to destabilize the Deepking  
 
 **Defining recent actions:**  
-- Denied direct trade with gnomes and other surface or subterranean merchants.  
-- Publicly endorsed the Deepking’s policies in audience with outsiders, while privately (via Grinta Ironhead) expressing willingness to trade with gnomes at discounted rates if the Deepking is deposed.  
-- Undergoing economic hardship due to restricted production and trade, fueling internal dissent.  
+- Granted audience to outsiders only after verification via badges  
+- Publicly endorsed the Deepking’s pre-eminence policy while privately expressing willingness to overthrow him for economic gain  
+- Maintained covert contact with potential allies (e.g., Daz) who recognize their vulnerability  
 
 **Revealed motivations or secrets:**  
-- Primary motivation is economic survival and restoration of trade autonomy.  
-- Loyalty to the Deepking is transactional and fragile; conditional on continued suppression of their rights.  
-- The clan is not unified — leadership seeks patience, while lower ranks are radicalizing.  
+- Primary motivation is economic survival and restoration of direct trade rights with gnomes  
+- Loyalty to the Deepking is transactional and contingent on his continued rule; no ideological commitment  
+- Internal factional divide: leadership seeks patience, lower ranks seek rebellion  
 
 ## Uncertainty
-- The current whereabouts of Thargus Ironhead and Grinta Ironhead within the clan stronghold are unspecified.  
-- It is unclear whether Clan Steelshadow is aware of Clan Ironhead’s secret overtures to potential rebels.  
-- The extent of radicalization among lower-ranking members (e.g.,是否有 active plots or armed factions) is not quantified.  
-- Whether Clan Ironhead has already begun clandestine trade with gnomes or other factions outside the decree is not confirmed.  
-- The phrase “would be afforded the liberty” implies a future condition — but it is ambiguous whether this is a genuine offer or a test of the group’s intentions.
+- The current whereabouts of Thargus Ironhead and Grinta Ironhead are unspecified.  
+- It is unclear whether Grinta Ironhead’s statement represents official clan policy or personal opinion.  
+- The extent of radicalization among lower-ranking members is not quantified — no evidence of active rebellion yet.  
+- It is unknown whether Clan Ironhead has begun covert preparations for rebellion or is still merely voicing discontent.  
+- The current condition of their weaponsmithing facilities and stockpiles is not described.

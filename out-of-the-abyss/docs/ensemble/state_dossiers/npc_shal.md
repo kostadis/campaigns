@@ -7,21 +7,28 @@ chapters: 17-17
 
 ### Shal
 
-- **Current status:** Alive  
-- **Current location:** In the court of Deep King Tarngardt II, Deep Gnome stronghold in the Underdark  
-- **Allegiance/faction:** Advisor to Deep King Tarngardt II (personal allegiance unknown; not confirmed as part of any external faction)  
-- **Current possessions / notable items, spells, feats, wounds:** Unknown  
-- **Current assignment / role:** Primary advisor to Deep King Tarngardt II; exerting covert influence over royal decisions  
-- **Key relationships:**  
-  - Direct influence over Deep King Tarngardt II, whom they have befriended  
-  - Repeatedly denied access to Hgraam, indicating hostility or secrecy toward court insiders  
-- **Defining recent actions:**  
-  - Caused the Deep King to reject sage counsel and become paranoid  
-  - Coincided with the onset of the Deep King’s loss of control over the Underdark and the surge of demonic incursions  
+**Current status:** Alive  
+**Current location:** In close proximity to Deep King Tarngardt II, within the Deep Gnome stronghold  
+**Allegiance/faction:** Advisor to Deep King Tarngardt II (loyal to the Deep King, not to the Deep Gnome council or Hgraam)  
+**Current possessions / notable items, spells, feats, wounds:** Unknown  
+**Current assignment / role:** Sole trusted advisor to Deep King Tarngardt II; effectively controls access to the monarch and influences all major decisions  
+**Key relationships:**  
+- Directly influences Deep King Tarngardt II, whom they have become “friends” with  
+- Repeatedly refuses audience to Hgraam, indicating hostility or deliberate isolation from the Deep Gnome leadership  
+- No known ties to other factions or individuals  
 
-## Uncertainty
-- Shal’s identity, origins, and nature remain unknown — no details confirm race, gender, alignment, or magical nature.  
-- The nature of Shal’s influence (e.g., magic, manipulation, coercion) is unconfirmed.  
-- Whether Shal is acting alone or on behalf of an external force is unspecified.  
-- The exact timing of Shal’s arrival relative to the demonic incursions is implied but not explicitly dated.  
-- Hgraam’s attempts to meet Shal are noted, but no outcome or interaction beyond refusal is recorded — Shal’s response or demeanor is unknown.
+**Defining recent actions:**  
+- Arrived as a new advisor and immediately caused the Deep King to reject all sage counsel  
+- Triggered the Deep King’s paranoia and withdrawal from governance  
+- Coincided with the surge of demonic incursions in the Underdark — implication of causal or opportunistic involvement  
+
+**Revealed motivations or secrets:**  
+- Identity, origins, and nature are completely unknown  
+- Their influence appears deliberate and destabilizing — the timing of their arrival and the collapse of royal judgment suggest manipulation  
+
+## Uncertainty  
+- Shal’s true nature (race, species, alignment, or non-human origin) is unknown and unconfirmed  
+- Whether Shal is the direct cause of demonic incursions or merely exploiting them is not stated  
+- The nature of the “friendship” with the Deep King is ambiguous — is it emotional, magical, or coercive?  
+- No evidence confirms whether Shal is physically present in the stronghold or operating remotely  
+- Hgraam’s attempts to meet Shal are reported, but no details exist on the method, timing, or specific refusal — only that access is denied

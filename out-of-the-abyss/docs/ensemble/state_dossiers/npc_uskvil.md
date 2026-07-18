@@ -5,23 +5,17 @@ n_facts: 1
 chapters: 23-23
 ---
 
-### Uskvil
-
+### Uskvil  
 - **Current status:** Alive  
-- **Current location:** Unknown (not specified)  
-- **Allegiance/faction:** Leader of the Gray Ghosts; covert operative for the cult  
-- **Current possessions / notable items / spells / feats / wounds:** None specified  
-- **Current assignment / role and key relationships:**  
-  - Leader of the Gray Ghosts  
-  - Operates under the covert direction of the cult  
-  - Procured Thrazgad ore for the Obelisk  
-  - Oversaw retrieval of the dragon egg  
-  - Deliberately concealed the true purpose of these actions from the Deepking and Keepers of the Flame  
-- **Defining recent actions:** Secured Thrazgad ore and retrieved the dragon egg for the cult, while maintaining deception toward the Deepking and Keepers of the Flame.  
-- **Revealed motivations or secrets:** Actively deceives the Deepking and Keepers of the Flame; the Gray Ghosts’ operations serve the cult’s hidden agenda, not their stated goals.
+- **Current location:** Unknown  
+- **Allegiance/faction:** Leader of the Gray Ghosts  
+- **Current possessions / notable items:** None specified  
+- **Current assignment / role:** Master Thief; orchestrated procurement and delivery of Thrazgad ore and Red Dragon Egg to Pliinki  
+- **Key relationships:** Reports to or acts on behalf of an unnamed recipient (Pliinki’s employer); Gray Ghosts are under his command  
+- **Defining recent actions:** Successfully procured Thrazgad ore and delivered the Red Dragon Egg to Pliinki, unaware of the egg’s true purpose  
 
-## Uncertainty
-- Exact current location of Uskvil is unknown.  
-- Specific identity of the cult he serves is not named.  
-- Whether the Gray Ghosts still operate under his direct command or have been disbanded/absorbed is not confirmed beyond his leadership role.  
-- No details on current possessions, spells, feats, or wounds.
+## Uncertainty  
+- The current location of Uskvil is unspecified.  
+- The identity of the entity behind Pliinki (the recipient of the egg) is unknown.  
+- Whether Uskvil remains in command of the Gray Ghosts or has since been replaced, captured, or killed is unconfirmed beyond this single chapter.  
+- It is unclear if Uskvil is still in contact with Pliinki or the larger operation after delivery.

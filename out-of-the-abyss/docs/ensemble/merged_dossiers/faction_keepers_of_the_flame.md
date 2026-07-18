@@ -1,82 +1,50 @@
-<!-- source: faction_keepers_of_the_flame.md -->
-
-
----
-
 ---
 name: Keepers of the Flame
 type: faction
-n_facts: 17
+n_facts: 16
 chapters: 15-26
 ---
 
 ### Keepers of the Flame
 
-**Current status:** Active and influential faction in Gracklstugh.  
-**Current location:** Based in the southeastern cave, operating under the shadow of Themberchaud.  
-**Allegiance/faction:** Loyal to the Deepking in form, but operate with autonomous authority; locked in open hostility with the Council of Savants.  
+**Current status:** Active and operational  
+**Current location:** Gracklstugh, with primary base in the southeastern cave  
+**Allegiance/faction:** Duergar psionic order; subordinate to Themberchaud in operational command but politically answerable to the Deepking; engaged in covert war against the Council of Savants and the Derro; in conflict with the Gray Ghosts and the Crown  
 **Current possessions / notable items, spells, feats, wounds:**  
-- In possession of psionic abilities used to manipulate Themberchaud.  
-- Previously held the Red Dragon Egg; now actively seeking its recovery from the Grey Ghosts and Narrak’s chest.  
-- Maintain ritual control over Themberchaud through a cycle of hoard-provision and periodic dragon replacement.  
+- In possession of a magical flame device used to regulate Themberchaud’s output  
+- Previously held the Red Dragon Egg; now seeking its recovery from Narrak’s chest  
+- Possess psionic abilities as a core source of authority  
+- Hold the Custodian of the Flame as their supreme leader (identity not named beyond title)  
 
 **Current assignment / role and key relationships:**  
-- Custodian Gartokkar Xundorn leads the faction and serves as its primary voice and decision-maker.  
-- Operate as the Deepking’s most trusted advisors on thermal and draconic matters.  
-- Directly subordinate to Themberchaud in practice, despite claiming spiritual and political authority over Gracklstugh.  
-- Command agents who must obey the Keepers first but report to Themberchaud directly — a dual-layered chain of command.  
-- In active conflict with the Council of Savants, whom they regard as their greatest enemy; seek to expose their corruption.  
-- Committed to the genocide of the Derro, using accusations of demonic worship as justification.  
-- View the Red Dragon Egg as their essential insurance policy against Themberchaud’s potential rebellion.  
+- Primary role: Maintain and control Themberchaud, the red dragon used to fuel Gracklstugh’s furnaces  
+- Secondary objective: Secure the Red Dragon Egg as insurance against Themberchaud’s rebellion  
+- Key relationships:  
+  - **Themberchaud:** Immediate superior in operational chain; the Keepers serve it directly but seek to replace it with the egg  
+  - **Gartokkar Xundorn:** Leader of the faction  
+  - **Council of Savants:** Primary enemy; targeted for exposure and destruction  
+  - **Derro:** Target for genocidal campaign, justified by claims of demonic worship  
+  - **Gray Ghosts:** Rivals who stole the egg; now hunted  
+  - **Deepking:** Political overlord; the Keepers are among his most prized advisors  
+  - **Stone Guard:** Shared objective of Derro extermination  
 
 **Defining recent actions:**  
-- Orchestrated the theft of the Red Dragon Egg from the Council of Savants (implied prior to ch21).  
-- Lost the egg to the Grey Ghosts, triggering a state of panic.  
-- Sent agents into the caves (ch26) to recover the egg now held in Narrak’s chest.  
-- Demand proof of demonic worship to legitimize war against the Derro.  
-- Maintain strict, literal, and intolerant governance, punishing dissent (e.g., targeting Thorin).  
+- Orchestrated theft of the Red Dragon Egg (prior to its loss)  
+- Launched intelligence operations to locate the egg after its theft by the Gray Ghosts  
+- Demanded proof of demonic worship among the Derro to justify extermination  
+- Sent agents into the caves to recover the egg from Narrak’s chest  
+- Maintained ritual control over Themberchaud while secretly preparing the egg as a contingency replacement  
 
 **Revealed motivations or secrets:**  
-- The Red Dragon Egg is not merely a replacement for Themberchaud — it is a sacred, possibly sentient artifact of existential importance.  
-- The Keepers believe the egg’s loss threatens their control over Themberchaud, but are unaware it has transformed into a demonic vessel.  
-- Their authority derives from a triad: psionic power, the Deepking’s nominal sanction, and direct influence over Themberchaud.  
-- Their doctrine is rooted in ritual control, fear, and the elimination of perceived heresy — particularly from the Council of Savants and the Derro.  
+- Believe the Red Dragon Egg is a viable replacement for Themberchaud, not merely an artifact  
+- Fear Themberchaud’s growing power and resentment; view the egg as essential insurance against its rebellion  
+- Conceal their true intent to supplant the dragon with the egg from Themberchaud itself  
+- Use fabricated legal charges and psionic influence to control outsiders and suppress dissent  
+- View their authority as divinely sanctioned, blending psionics, dragon worship, and political control  
 
 ## Uncertainty
-- Contradiction: Are the Keepers subordinate to Themberchaud (ch16) or do they control Themberchaud (ch15, ch16)? The faction claims authority over the dragon, yet agents are told to report to Themberchaud first — implying the dragon holds ultimate power.  
-- Ambiguous chronology: Did the Keepers originally safeguard the egg before the Grey Ghosts stole it (ch21), or did they steal it from the Council of Savants (ch18)? These are conflicting origin stories.  
-- Unclear attribution: Is Gartokkar Xundorn or Themberchaud the true sovereign? The faction acts under the Deepking’s authority but reports to the dragon — hierarchy is unclear.  
-- Uncertain current possession: The egg is now in Narrak’s chest (ch26), but it is unknown whether the Keepers have regained it or still seek it.  
-- Ambiguous nature: Are the Keepers primarily a religious, political, or psionic order? All three labels are used interchangeably.  
-- Unclear status of Themberchaud: Is the dragon still alive? The Keepers still “tend” to it, but ch23 implies the egg was their “replacement” — suggesting the dragon may be dead or dying.
-
----
-
-<!-- source: monster_keepers_of_the_flame.md -->
-
-
----
-
----
-name: Keepers of the Flame
-type: monster
-n_facts: 1
-chapters: 23-23
----
-
-### Keepers of the Flame
-
-- **Current status:** Alive (implied by active distraction and guarding behavior)  
-- **Current location:** Unspecified, but guarding a site tied to the lost egg (likely near or within their sacred grounds)  
-- **Allegiance/faction:** Independent guardians bound to protect the egg from the Deepking  
-- **Current possessions / notable items:** None specified  
-- **Current assignment / role:** Guarding the egg; now distracted by its loss  
-- **Defining recent action:** The egg has been stolen or lost, and they are now wholly preoccupied with its absence, unaware it is destined to serve Demogorgon  
-- **Revealed motivation:** To prevent the Deepking from acquiring the egg; their duty is absolute, but currently unfulfilled  
-
-## Uncertainty
-- The exact location of the Keepers of the Flame is unknown.  
-- Their current numbers, physical form, or abilities are not described.  
-- Whether they are actively searching for the egg, in mourning, or under siege is unspecified.  
-- The identity of the thief or agent who took the egg is not revealed.  
-- Whether they are aware of Demogorgon’s involvement is explicitly stated as unknown to them — but whether *others* know this is outside the scope.
+- Contradiction: [ch16] states the Keepers are subordinate to Themberchaud but act as immediate authority over agents, while [ch15] and [ch18] imply they are the primary controllers — unclear if Themberchaud gives orders directly or if the Keepers interpret its will.  
+- Ambiguous attribution: [ch18] names Gartokkar Xundorn as leader; [ch15] names “the Custodian of the Flame” as chief — are these the same person? Unclear.  
+- Unclear current possession: The egg was stolen by the Gray Ghosts ([ch21]) and is now sought from Narrak’s chest ([ch26]) — but is the egg still in Narrak’s chest? Or has it been retrieved? No confirmation.  
+- Unclear status of Themberchaud: Is the current dragon still alive? The Keepers “periodically kill and replace” it ([ch15]), but no recent confirmation of death or replacement.  
+- Unclear if the Keepers still control the magical flame device — it was mentioned as part of their control mechanism, but no recent update confirms its current use or location.

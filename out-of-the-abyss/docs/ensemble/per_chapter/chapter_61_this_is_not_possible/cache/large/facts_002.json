@@ -1,149 +1,114 @@
 [
   {
     "type": "npc",
-    "subject": "Zalthir",
-    "fact": "Zalthir is a quiet observer who uses Glabbagool, an acid ooze fused to his arm, to covertly steal items and absorb dangerous substances without harm. He acts with deliberate restraint, often making the silent move others overlook, and records events with precision in his mind and margins.",
+    "subject": "Grygum",
+    "fact": "Grygum is the observer and strategist who silently grifts the potion of flying using Glabbagool, marks the emotional deception of Bookwyrm, and documents the group's moral compromise \u2014 choosing embarrassment over murder as the crime to expose.",
     "source_quote": "I lifted the cup, tilted it to my mouth, and let the tea run down into Glabbagool instead of down my throat.",
     "quote_verified": true
   },
   {
     "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm is the manipulative Avowed leader who feigns grief and outrage while secretly relieved that Alkrist\u2019s confession shields her \u2014 she orchestrates the group\u2019s isolation, allows the safe to be sealed with incriminating evidence, and ensures her own elevation by appearing cooperative.",
+    "source_quote": "Alkrist. I could never have imagined it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan is the proceduralist who regains authority through the group\u2019s actions, claims credit for their findings, and becomes the new First Keeper \u2014 his rigid adherence to method blinds him to Bookwyrm\u2019s deception and the stolen evidence.",
+    "source_quote": "It would seem, Kalan, that your methodology has proven its merit.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
     "subject": "Glabbagool",
-    "fact": "Glabbagool is a sentient acid ooze fused to Zalthir's arm. It absorbs harmful substances, retains skills it encounters (like flying), and responds to Zalthir\u2019s low commands with disciplined silence. It acts as both weapon and tool, and its preferences are noted by Zalthir as data points.",
+    "fact": "Glabbagool is Grygum\u2019s sentient, acid-resistant ooze companion who absorbs liquids and magic, silently steals the potion of flying, and demonstrates nascent discipline by acting only on whispered instruction.",
     "source_quote": "Under the skin of my arm, Glabbagool liked the flying skill. He thought it was a good skill.",
     "quote_verified": true
   },
   {
     "type": "npc",
-    "subject": "Bookwyrm",
-    "fact": "Bookwyrm is the manipulative head of the Avowed who feigns grief and cooperation while orchestrating events to maintain control. She uses psychological theater to misdirect, lets others confess for her, and ensures her innocence remains unchallenged \u2014 all while secretly delighting in the removal of threats.",
-    "source_quote": "She drank some, watching us over the rim.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Kalan Strongbranch",
-    "fact": "Kalan is a rigid proceduralist who thrives on authority and structure. He is easily manipulated into taking credit for outcomes he did not engineer, and his eagerness to enforce order makes him a useful pawn for Bookwyrm\u2019s schemes.",
-    "source_quote": "He accepted, graciously. 'But this will not change the nature of my report tomorrow.'",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Thorin",
-    "fact": "Thorin is a dramatic storyteller who constructs elaborate narratives around events, treating real life as theater. He pushes for bold, theatrical reveals and is unapologetic about opportunism \u2014 especially when it comes to theft or leverage.",
-    "source_quote": "Never miss an opportunity to grift, man.",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Daz",
-    "fact": "Daz is a keen analyst who notices behavioral seams and emotional inconsistencies. He applies observational tactics from narrative media to real-world interrogation, preferring subtle pressure over confrontation.",
-    "source_quote": "Daz caught it too \u2014 I saw him go quiet and still, the way he does when he's found the seam in a thing.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
     "subject": "Fembris Lancer",
-    "fact": "Fembris Lancer is a passive, unassuming figure who serves as both observer and unwitting taster. His lack of suspicion makes him a tool for others\u2019 caution, and his presence underscores the group\u2019s growing paranoia.",
+    "fact": "Fembris Lancer is the passive observer and unwitting taster who, despite being under suspicion, remains naive and trusting \u2014 his consumption of the food serves as a risk-spending tool for the party\u2019s survival calculus.",
     "source_quote": "Fembris, on the other hand, had no such reservations \u2014 come, come, come, already reaching, all appetite and no suspicion.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Daral",
-    "fact": "Daral is a broken, fearful individual whose personal crisis \u2014 likely a curse or transformation \u2014 is secondary to the larger political game. He oscillates between desperation and gratitude, and his vulnerability is exploited by the group\u2019s moral ambiguity.",
-    "source_quote": "Are you guys going to cure me or anything?",
     "quote_verified": true
   },
   {
     "type": "faction",
     "subject": "The Avowed",
-    "fact": "The Avowed is a hierarchical, tradition-bound organization governing magical and civic order. Internal power struggles are masked as procedure, and leadership transitions are manipulated through staged crises and false confessions.",
-    "source_quote": "That will be done after the naming, by the new head of the Avowed.",
+    "fact": "The Avowed is the governing body of the academic society that has been infiltrated by deception; its members are quick to accept Alkrist\u2019s confession, seal evidence without scrutiny, and elevate Bookwyrm\u2019s authority \u2014 revealing systemic complacency and institutional blindness.",
+    "source_quote": "The Avowed had all decided they'd won.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "Opening of Alkrist's Safe",
-    "fact": "The safe, opened under the supervision of the Avowed, contained a potion of flying, a healing potion, gold coins, and a red herring coin \u2014 all seemingly innocuous. Its contents were declared irrelevant, allowing the group to later steal the flying potion undetected.",
-    "source_quote": "Inside: a potion of flying, a healing potion, a heap of gold coins, and nothing at all that pointed anywhere.",
+    "subject": "safe opening",
+    "fact": "The opening of Alkrist\u2019s safe reveals a potion of flying, healing potion, gold, and a red herring coin \u2014 but no direct evidence of guilt, causing the Avowed to shift blame and abandon investigation, allowing Bookwyrm to control the narrative.",
+    "source_quote": "Nothing else in there implicated Alkrist of anything.",
     "quote_verified": true
   },
   {
-    "type": "event",
-    "subject": "Theft of the Potion of Flying",
-    "fact": "Zalthir used Glabbagool to silently pilfer the potion of flying from the opened safe during a moment of collective distraction. No one noticed. The theft was clean, deliberate, and became the group\u2019s only tangible advantage.",
+    "type": "object",
+    "subject": "potion of flying",
+    "fact": "The potion of flying is stolen by Grygum via Glabbagool during the chaos of the safe\u2019s opening, concealed in the ooze, and removed from the scene without detection \u2014 becoming the party\u2019s most valuable and hidden asset.",
     "source_quote": "While she's talking, my Glabbagool arm swipes the potion of flying off the table.",
     "quote_verified": false
   },
   {
-    "type": "event",
-    "subject": "Detection Spell Cast on Bookwyrm",
-    "fact": "Zalthir cast a Locate Object spell seeking a sapphire on Bookwyrm. The spell found nothing, confirming she was not carrying the item \u2014 a detail that reinforced her innocence and the group\u2019s lack of direct evidence against her.",
-    "source_quote": "I reached out with the spell and found nothing where the sapphire should have been.",
-    "quote_verified": true
-  },
-  {
     "type": "object",
-    "subject": "Potion of Flying",
-    "fact": "A magical vial containing a potion that grants the drinker the ability to fly. Stolen by Zalthir from Alkrist\u2019s safe, it is now held by Glabbagool, who has internalized its properties and approves of its utility.",
-    "source_quote": "Glabbagool was pleased with himself. *I like the flying skill,* he offered. *That was a good skill.*",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "Red Herring Coin",
-    "fact": "A single gold coin stamped with a red herring, placed deliberately in Alkrist\u2019s safe as a joke or distraction. Its presence reinforced the illusion of innocence, making the safe\u2019s contents appear harmless and unconnected to any crime.",
+    "subject": "red herring coin",
+    "fact": "The red herring coin stamped with a herring is a deliberate red herring placed in Alkrist\u2019s safe to mislead investigators \u2014 its presence signals that the owner had nothing to hide, reinforcing the illusion of innocence.",
     "source_quote": "One of the gold coins had a herring stamped on it, and the herring was red.",
     "quote_verified": true
   },
   {
-    "type": "thread",
-    "subject": "Bookwyrm\u2019s True Guilt",
-    "fact": "Though Alkrist confessed and the evidence points to him, Zalthir and others suspect Bookwyrm orchestrated the crime. No proof exists, but her emotional detachment, calculated relief, and manipulation of the investigation suggest she is the mastermind \u2014 a truth the group chooses not to expose.",
-    "source_quote": "She was not sad. She was relieved.",
-    "quote_verified": true
-  },
-  {
-    "type": "thread",
-    "subject": "Daral\u2019s Cure",
-    "fact": "Daral\u2019s condition \u2014 likely a magical affliction \u2014 remains unaddressed. The party debates whether to expend resources on him, revealing their moral ambiguity and the tension between pragmatism and loyalty.",
-    "source_quote": "What do you guys think? Should we cure him?",
-    "quote_verified": false
-  },
-  {
     "type": "location",
     "subject": "Deneir's Sanctum",
-    "fact": "Deneir\u2019s Sanctum is a vast, book-filled chamber repurposed as a holding cell for the party. Its scholarly atmosphere masks its function as a gilded cage, and its isolation ensures the group cannot act independently.",
-    "source_quote": "Bookshelves floor to ceiling, tables, the dry smell of old paper \u2014 a room built for people who read for a living, now doing duty as a cell.",
+    "fact": "Deneir's Sanctum is the book-filled chamber repurposed as a holding cell, where the party is confined under guard \u2014 symbolizing their entrapment within Bookwyrm\u2019s narrative despite their successes.",
+    "source_quote": "They put us in Deneir's office to wait out the evening.",
     "quote_verified": true
   },
   {
     "type": "monster",
     "subject": "Glabbagool",
-    "fact": "Glabbagool is a sentient, acidic ooze with partial sapience. It absorbs toxins, retains magical properties it encounters, and communicates in fragmented thoughts. It is not hostile but deeply loyal to Zalthir\u2019s intent, acting as both shield and thief.",
+    "fact": "Glabbagool is a sentient ooze entity bonded to Grygum, capable of absorbing liquids, resisting acid, and executing silent theft \u2014 its behavior reflects training, restraint, and emerging autonomy.",
     "source_quote": "He took it. A faint singe of acid, a small heat under the skin of my arm as he burned it away \u2014 only I felt it.",
     "quote_verified": true
   },
   {
-    "type": "date",
-    "subject": "Day of the Investigation",
-    "fact": "The events of the investigation, safe-opening, theft, and confinement occurred within a single day \u2014 a compressed timeline of political theater, betrayal, and quiet opportunism.",
-    "source_quote": "Around the ninth hour Daral remembered his own problem.",
-    "quote_verified": true
-  },
-  {
-    "type": "npc",
-    "subject": "Bookwyrm",
-    "fact": "Bookwyrm\u2019s emotional performance \u2014 feigned grief, calculated relief, and faux generosity \u2014 was so convincing that even those who suspected her were unable to act. She turned suspicion into compliance and turned the party into her unwitting enforcers.",
-    "source_quote": "She had decided. Her hands were too relaxed.",
+    "type": "thread",
+    "subject": "Bookwyrm's true guilt",
+    "fact": "The party possesses no proof that Bookwyrm committed the crime, only Alkrist\u2019s accusation \u2014 leaving her guilt unresolved, her power intact, and the group\u2019s moral stance reduced to a quiet grift rather than justice.",
+    "source_quote": "We know who did it, someone said, and it's not her. Why wouldn't she be elected.",
     "quote_verified": true
   },
   {
     "type": "thread",
-    "subject": "The Nature of Justice",
-    "fact": "The party realizes that justice in this system is not about truth \u2014 it is about narrative control. Bookwyrm won not because she was innocent, but because she controlled the story. The group, though aware, chooses to walk away with a potion and silence.",
-    "source_quote": "We know who did it, someone said, and it's not her. Why wouldn't she be elected.",
+    "subject": "Daral's curse",
+    "fact": "Daral\u2019s unresolved magical affliction lingers as a moral question \u2014 the party delays curing him, revealing their growing detachment and prioritization of self-interest over compassion.",
+    "source_quote": "Are you guys going to cure me or anything?",
     "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "after the naming",
+    "fact": "The official trial and judgment of Alkrist will occur after the naming ceremony, when the new head of the Avowed assumes power \u2014 delaying accountability and ensuring Bookwyrm\u2019s influence endures.",
+    "source_quote": "That will be done after the naming, by the new head of the Avowed.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is the theatrical strategist who designs the group\u2019s deception playbook \u2014 his obsession with dramatic arcs and closing reveals shapes the party\u2019s actions, even as he fails to recognize their moral erosion.",
+    "source_quote": "It'd be a good closing \u2014 she thought she got away with it, and then: one more thing.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is the observational tactician who applies narrative theory to interrogation \u2014 he detects the seam in Bookwyrm\u2019s performance and advocates for withholding information to provoke deception, but remains passive in action.",
+    "source_quote": "My take: be a little shy with the full details, but give enough to make it look like they could tell a story.",
+    "quote_verified": false
   }
 ]

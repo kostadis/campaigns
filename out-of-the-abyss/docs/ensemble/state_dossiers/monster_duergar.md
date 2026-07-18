@@ -2,21 +2,22 @@
 name: Duergar
 type: monster
 n_facts: 2
-chapters: 11-23
+chapters: 11-14
 ---
 
 ### Duergar
 
-**Current status:** Alive (as a species/group)  
-**Current location:** Subterranean realms (specific location unconfirmed; last associated with exploitation of Thrazgad ore)  
-**Allegiance/faction:** Oppressors of the Derro; linked to Pliinki’s Cult through resource exploitation  
-**Current possessions / notable items:** Not specified  
-**Current assignment / role:** Enforcers and overseers exploiting Thrazgad ore from the Derro; engaged in forced labor systems  
-**Defining recent actions:** Systematically subjugating the Derro to extract Thrazgad ore for Pliinki’s Cult; maintaining control through greed, coercion, and absence of mercy  
-**Revealed motivations or secrets:** Driven by bottomless greed for gold and resources; cultural identity rooted in ceaseless toil and merciless efficiency  
+**Current status:** Alive (as a monster type, not individually tracked)  
+**Current location:** Subterranean environments (implied by cultural context)  
+**Allegiance/faction:** None specified; autonomous subterranean warriors  
+**Current possessions / notable items, spells, feats, wounds:** Capable of innate invisibility at will  
+**Current assignment / role and key relationships:** None specified; driven by greed and ceaseless toil  
+**Defining recent actions:** Utilize innate invisibility in combat or stealth operations  
+**Revealed motivations or secrets:** Motivated by bottomless greed, particularly for gold; culture is defined by austerity, lack of mercy, and relentless labor  
 
 ## Uncertainty
-- The exact geographic location of the Duergar’s current stronghold or operational base is unspecified.  
-- Whether the Duergar are acting independently or under direct command of Pliinki’s Cult is ambiguous — they are “linked” to the cult via exploitation, but their chain of command is not clarified.  
-- It is unclear if “Thrazgad Clan” refers to a Derro subgroup under Duergar control or a Duergar faction — the phrasing is ambiguous.  
-- No current individual Duergar are named or described with specific traits, feats, wounds, or items — the dossier reflects only collective behavior.
+- The extent of their societal structure or leadership is unconfirmed.  
+- Whether they retain any connection to surface dwarven kin is unaddressed.  
+- No specific individual duergar is tracked, so current possession of gear, wounds, or named companions cannot be confirmed.  
+- It is unclear if invisibility is a racial trait or a learned ability (e.g., spell, feat, or magic item).  
+- The ritual mentioned in ch11 is referenced but not explained — its current effect on duergar is unknown.

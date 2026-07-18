@@ -1,34 +1,37 @@
 ---
 name: Teles Ahvoste
 type: npc
-n_facts: 10
+n_facts: 11
 chapters: 57-60
 ---
 
 ### Teles Ahvoste
 
 **Current status:** Alive  
-**Current location:** Unknown (last referenced in context of the Keepers’ Archive)  
-**Allegiance/faction:** Great Reader of the Archive  
-**Current possessions / notable items:** None specified  
-**Current assignment / role:** Great Reader; previously sought the position of Keeper of Tomes  
-**Key relationships:**  
-- Long-standing, bitter rival of Janussi, having been passed over for Keeper of Tomes nearly twenty years ago despite being older and considered more skilled.  
-- Has made persistent romantic advances toward Irony, prompting her to redirect attention toward Sprig.  
-- Suspected by Sylvira of harboring institutional hostility toward her and possibly framing her for sabotage.  
+**Current location:** Unspecified, but active within the Archive of Tomes (last known context)  
+**Allegiance/faction:** Great Reader, aligned with institutional faction opposed to Sylvira and Janussi’s legacy  
+**Current possessions / notable items, spells, feats, wounds:** None specified  
+**Current assignment / role and key relationships:**  
+- One of the Great Readers, holding a longstanding institutional grievance against Janussi for being passed over as Keeper of Tomes despite greater seniority and skill.  
+- Persistent romantic suitor of Irony, whose advances have been actively avoided by Irony.  
+- Hostile toward Sylvira; suspected by her of fabricating post-plague sightings of her to discredit her.  
+- Viewed by Daral Yashenti as a “deluded old git” with ambition for the top position.  
+- Publicly denounced Janussi as a “hypocrite” during a heated meeting shortly before Janussi’s death.  
+- Dismissed Alkrist’s book project as implausible, comparing it to a Fheminor Scrivenbark program — indicating ideological bias against unconventional scholarly work.  
 
 **Defining recent actions:**  
-- Held a heated argument with Janussi, shouting “hypocrite” before storming out — an act consistent with his long-standing grudge.  
-- His romantic pursuit of Irony is noted as a possible motive for interference in the poisoning plot.  
-- Inferred to be linked to the marked book and the power struggle for the top chair, though his chambers were not directly examined.  
+- Openly insulted Janussi in front of witnesses, shouting “hypocrite” during a heated exchange.  
+- Pursued Irony romantically despite clear rejection, potentially creating motive for indirect harm to Janussi (whose death would remove a barrier to Irony’s influence).  
+- Suspected by Sylvira of fabricating evidence (sightings) to undermine her reputation after the plague.  
 
 **Revealed motivations or secrets:**  
-- Carries a twenty-year institutional grudge against Janussi, rooted in perceived injustice over the Keeper of Tomes appointment.  
-- Sylvira explicitly names him as one who has “nurtured hostility” toward her, suggesting possible involvement in her framing.  
+- Holds a two-decade grudge over being denied the position of Keeper of Tomes.  
+- May have orchestrated or supported efforts to discredit Sylvira through false sightings.  
+- May have been motivated to eliminate Janussi not only out of ideological rage but also to clear a path for personal advancement and to remove Janussi’s protective influence over Irony.  
 
 ## Uncertainty
-- Contradiction in pronoun usage: Two facts describe Teles shouting “hypocrite” and “storming out” — but one says “she stormed out” (ch57), while all others use “he.” The subject is Teles Ahvoste, a male name; the “she” reference is likely an error, but the inconsistency remains uncorrected in source.  
-- Unclear whether Teles is still actively pursuing Irony — advances were noted in ch59, but no later confirmation exists.  
-- No confirmation of current physical location or whether he remains in the Archive.  
-- Attribution of sabotage: Sylvira suspects him of framing her, but no direct evidence or confession is recorded.  
-- Link to the marked book is “inferred through the text” — not confirmed by direct observation or testimony.
+- It is unclear whether Teles’s romantic advances toward Irony were verbal, physical, or documented — no specifics are given.  
+- While Sylvira names Teles as the source of fabricated sightings, no evidence confirms he acted alone or had accomplices.  
+- Daral’s label of “deluded old git” is subjective; it reflects Daral’s opinion, not a verified characterization.  
+- The exact nature of Teles’s involvement in Janussi’s death remains unproven — he is a suspect with motive, but no direct link to the poisoning is stated.  
+- It is ambiguous whether Teles still resides in the Archive or has departed since the events of Chapter 60.

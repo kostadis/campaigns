@@ -167,7 +167,8 @@
   "Dorbo Diggermattock": [
     "Chief Dorbo",
     "Chief Dorbo Diggermattock",
-    "Chief Diggermattock"
+    "Chief Diggermattock",
+    "Dorbo"
   ],
   "Droki": [],
   "Eldeth Feldrun": [
@@ -411,7 +412,9 @@
   "Chris Perkins": [
     "Christopher Perkins"
   ],
-  "Deepking Tarngardt": [],
+  "Deepking Tarngardt": [
+    "Deepking"
+  ],
   "Elminster": [],
   "Lesla Carrowil": [],
   "Primus": [],
@@ -750,7 +753,6 @@
   "Circle of Explorers": [],
   "Circle of Growers": [],
   "Circle of Hunters": [],
-  "Circle of Masters": [],
   "Circle of Sporers": [
     "Circle of Sowers"
   ],
@@ -821,7 +823,6 @@
     "matron mothers"
   ],
   "Merchant Council": [],
-  "Miners' Guild": [],
   "myconid sovereigns": [],
   "Order of the Gauntlet": [],
   "Quartermaster": [],
@@ -892,11 +893,6 @@
   "Zuggtmoy's gift": [],
   "Zuggtmoy's wedding": [],
   "Janussi": [],
-  "Bookwyrm": [
-    "Skoda Vanaster",
-    "The First Reader",
-    "First Reader"
-  ],
   "Alkrist": [],
   "A'lai Aivenmore": [
     "Aivenmore",
@@ -920,7 +916,8 @@
   ],
   "Kazryn Nyantani": [
     "Nyantani",
-    "Ntantani"
+    "Ntantani",
+    "Kazryn"
   ],
   "Kalan Strongbranch": [
     "Strongbranch",
@@ -939,8 +936,12 @@
   ],
   "Tadric": [],
   "Irony": [],
-  "Sprig Summerfoot": [],
-  "Orrin Glass": [],
+  "Sprig Summerfoot": [
+    "Sprig"
+  ],
+  "Orrin Glass": [
+    "Orrin"
+  ],
   "Miss Hollypocket": [
     "Hollypocket"
   ],
@@ -975,7 +976,9 @@
   "Gruxlug the Tiny": [],
   "Frondu": [],
   "Inda": [],
-  "Alaundo the Seer": [],
+  "Alaundo the Seer": [
+    "Alaundo"
+  ],
   "Miirym, the Sentinel Wyrm": [],
   "Batbayar": [],
   "Fyrentennimar": [],
@@ -989,9 +992,6 @@
   "Philosopher's Court": [],
   "The Grove": [],
   "Exaltation": [],
-  "The High Tower": [
-    "Hightower"
-  ],
   "The High Tower Library": [],
   "The Keeper's Tower": [],
   "The Readers' Tower / Reader's Tower": [],
@@ -1163,7 +1163,12 @@
   "Baedora": [],
   "Beremil": [],
   "Bimble": [],
-  "Bookwyrm (First Reader)": [],
+  "Bookwyrm (First Reader)": [
+    "Bookwyrm",
+    "Skoda Vanaster",
+    "The First Reader",
+    "First Reader"
+  ],
   "Daz": [],
   "Diinarnnmyr": [],
   "Diirdeklin": [],
@@ -1197,7 +1202,9 @@
   "Milo Goodbarrel": [
     "Goodbarrel"
   ],
-  "Philemon (Master Archivist)": [],
+  "Philemon (Master Archivist)": [
+    "Philemon"
+  ],
   "Protanther": [
     "Protenthor"
   ],
@@ -1225,7 +1232,9 @@
   "Topsy and Turvy": [],
   "Ulnara": [],
   "Valen": [],
-  "Valimor Brightgem": [],
+  "Valimor Brightgem": [
+    "Valimor"
+  ],
   "Vareth": [
     "Varith",
     "Brother Vareth",
@@ -1372,5 +1381,15 @@
   "Vof Klownits": [
     "Klownits"
   ],
-  "Brother Quellin": []
+  "Brother Quellin": [],
+  "Miners' Guild of Blingdenstone": [
+    "Miners' Guild"
+  ],
+  "Candlekeep's High Tower": [
+    "The High Tower",
+    "Hightower"
+  ],
+  "Circle of Masters of Neverlight Grove": [
+    "Circle of Masters"
+  ]
 }

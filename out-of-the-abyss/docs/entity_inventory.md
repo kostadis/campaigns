@@ -1,4 +1,4 @@
-<!-- GENERATED from docs/entity_registry.yaml — do not hand-edit. Regenerate with: registry.py project -->
+<!-- GENERATED from docs/entity_registry.yaml — do not hand-edit. Regenerate with: registry project -->
 
 ## Concepts
 
@@ -137,7 +137,6 @@
 - **Circle of Explorers** — myconid scout circle led by Rasharoo, loyal to Basidia
 - **Circle of Growers** — myconid farmer circle led by Hebopbe
 - **Circle of Hunters** — myconid circle that retrieves carcasses, led by Loobamub, loyal to Basidia
-- **Circle of Masters** — newest circle of Zuggtmoy-touched myconids led by Yestabrod
 - **Circle of Sporers** / **Circle of Sowers** — myconid breeding circle led by Yrberop
 - **Clan Anvilthew** — duergar toolmaker clan
 - **Clan Blackskull** — duergar stonemason clan
@@ -198,7 +197,6 @@
 - **Lords' Alliance** — political-economic coalition of cities, faction represented by Eravien Haund
 - **Matron Mother** / **matron mothers** — ruling rank of a drow house, held by Quenthel Baenre
 - **Merchant Council** — lairds and merchants overseeing trade and commerce
-- **Miners' Guild** — powerful mining guild led by the Pickshine family
 - **myconid sovereigns** — ruling caste of myconids; Basidia among them
 - **Order of the Gauntlet** — holy crusaders sworn to destroy evil, faction represented by Sir Lanniver
 - **Quartermaster** — Senni Diggermattock's governing title
@@ -241,6 +239,8 @@
 - **the Ember Grapple** / **Endergrapple** — Party nickname, per the GM: 'You are the Ember... what is it? The Ember Grapple' during the bird-call signal scene in the woods; Daz's transcript line renders it as 'The Endergrapple' (VTT drift). Relationship to the separately-registered 'the Ember Vanguard' (earned after the Grey Ghosts alley ambush) is unconfirmed - may be the same reputation restated, or a distinct nickname.
 - **The Grygumite School** — school Grygum (PC) claims to have founded as a Candlekeep bluff
 - **the Diggermattocks** / **Diggermattocks** — Blingdenstone deep-gnome clan/family led by Dorbo and Senni Diggermattock plus followers
+- **Miners' Guild of Blingdenstone** / **Miners' Guild** — powerful mining guild led by the Pickshine family; represented Kazook Pickshine at the Blingdenstone grand moot (ch38-39)
+- **Circle of Masters of Neverlight Grove** / **Circle of Masters** — newest circle of Zuggtmoy-touched myconids led by Yestabrod; takes carcasses the Circle of Hunters bring in, sends myconids outside the grove unannounced (ch31)
 
 ## Items
 
@@ -510,7 +510,6 @@
 - **Philosopher's Court**
 - **The Grove**
 - **Exaltation**
-- **The High Tower** / **Hightower**
 - **The High Tower Library**
 - **The Keeper's Tower**
 - **The Readers' Tower / Reader's Tower**
@@ -583,6 +582,7 @@
 - **Cormyr** — FR kingdom
 - **Toril** — the Forgotten Realms planet
 - **Raucous Mesa** / **Raucus** — OotA Ch.4 Gracklstugh area 5
+- **Candlekeep's High Tower** / **The High Tower** / **Hightower** — guarded entrance to a cache of super-magical artifacts; site of the High Tower Library, where Janussi-murder research was conducted (ch58)
 
 ## NPCs
 
@@ -661,7 +661,7 @@
 - **Ariana** — deep gnome merchant delivering gemstones, with an earth elemental bodyguard
 - **Chipgrin Goldwhisker** / **Chipgrin** / **Chief Chipgrin** — leader of the Goldwhisker wererat clan
 - **Dasco Pickshine** / **Dazco Pickshine** — deep gnome overseer of Pickshine Mines operations
-- **Dorbo Diggermattock** / **Chief Dorbo** / **Chief Dorbo Diggermattock** / **Chief Diggermattock** — chief and de facto co-ruler, leader of mining expeditions
+- **Dorbo Diggermattock** / **Chief Dorbo** / **Chief Dorbo Diggermattock** / **Chief Diggermattock** / **Dorbo** — chief and de facto co-ruler, leader of mining expeditions
 - **Droki** — scatterbrained derro courier for the Gray Ghosts and Council of Savants
 - **Eldeth Feldrun** / **Eldeth** / **Eldev** / **Elspeth** — shield dwarf prisoner with +5 Survival, unfamiliar with this region
 - **Flink Thunderbonk** / **Flink** — Yantha's cowardly svirfneblin apprentice who lost the gem
@@ -799,7 +799,7 @@
 - **Andarin Zarith** — future echo, human Red Wizard of Thay
 - **Cattie-brie** — companion of Bruenor in retaking Gauntlgrym
 - **Chris Perkins** / **Christopher Perkins** — designer who wrote the Afterword
-- **Deepking Tarngardt** — grandfather of Horgar V who freed the derro slaves
+- **Deepking Tarngardt** / **Deepking** — grandfather of Horgar V who freed the derro slaves
 - **Elminster** — future echo, human archmage seeking a forgotten spell
 - **Lesla Carrowil** — svirfneblin archmage who authored the recovered spellbooks
 - **Primus** — modron ruler invoked by rogue monodrone ('Down with Primus!')
@@ -808,22 +808,21 @@
 - **Wulfgar** — companion of Bruenor in retaking Gauntlgrym
 - **Dahlia Sin'felle** / **Dahlia** — moon elf prisoner installed as figurehead Matron Mother of House Do'Urden
 - **Janussi** — Keeper of Tomes (victim)
-- **Bookwyrm** / **Skoda Vanaster** / **The First Reader** / **First Reader** — First Reader (real name; green dragonborn master sage)
 - **Alkrist** — Great Reader; bronze dragonborn; Bookwyrm's nephew; the actual poisoner
 - **A'lai Aivenmore** / **Aivenmore** / **A'lai** — Great Reader; main antagonist; Manshoon's inside man
 - **Sylvira Savikas** / **Savikas** / **Sylvira** — Great Reader; curator, Infernal Fortress
 - **Daral Yashenti** / **Yashenti** / **Daral** — Great Reader; alcoholic
 - **Fheminor Scrivenbark** / **Scrivenbark** / **Fheminor** — Great Reader; halfling; Janussi's intended successor
 - **Teles Ahvoste** / **Ahvoste** / **Teles** — Great Reader; archmage
-- **Kazryn Nyantani** / **Nyantani** / **Ntantani** — Great Reader; A'lai's lover
+- **Kazryn Nyantani** / **Nyantani** / **Ntantani** / **Kazryn** — Great Reader; A'lai's lover
 - **Kalan Strongbranch** / **Strongbranch** / **Callan** / **Strongbench** / **Kalan** / **Gate Warden** — Gatewarden; archmage
 - **Kei Tigersteel** / **Tigersteel** — Lorekeeper
 - **V'ziir-Ag** — 8th Great Reader, gith master sage, off-screen (away on a Far Realm research trip; explicit "ambitious DMs use him as the big bad in lieu of Manshoon" note)
 - **Fembris Lancer** / **Lancer** / **Fembris** — acolyte adjutant
 - **Tadric** — Watcher (Kalan's lieutenant; "Tadric the Watcher")
 - **Irony** — 18yo tiefling acolyte
-- **Sprig Summerfoot** — acolyte; Deadwinter Supper waiter
-- **Orrin Glass** — cartographer acolyte; Deadwinter Supper waiter
+- **Sprig Summerfoot** / **Sprig** — acolyte; Deadwinter Supper waiter
+- **Orrin Glass** / **Orrin** — cartographer acolyte; Deadwinter Supper waiter
 - **Miss Hollypocket** / **Hollypocket** — Janussi's elderly gnome servant
 - **Queenie** — Janussi's grey cat (with yellow eyes)
 - **Nibbles** — Leuwin's pet squirrel
@@ -856,7 +855,7 @@
 - **Gruxlug the Tiny** — Infernal Fortress; half-orc warlock of the fiend
 - **Frondu** — Pavilion Naturalis; firbolg
 - **Inda** — House of Alaundo; half-orc, secretly worships Alaundo as a deity
-- **Alaundo the Seer** — the historical prophet whose 99 prophecies the Endless Chant recites
+- **Alaundo the Seer** / **Alaundo** — the historical prophet whose 99 prophecies the Endless Chant recites
 - **Miirym, the Sentinel Wyrm** — translucent ghost-dragon guardian of Candlekeep (encountered "Underneath Candlekeep")
 - **Batbayar** — legendary halfling bard whose statue dominates the School of Drama
 - **Fyrentennimar** — the ancient red dragon whose preserved carcass is Drakonoikos
@@ -876,7 +875,7 @@
 - **Baedora**
 - **Beremil**
 - **Bimble**
-- **Bookwyrm (First Reader)**
+- **Bookwyrm (First Reader)** / **Bookwyrm** / **Skoda Vanaster** / **The First Reader** / **First Reader** — First Reader (real name; green dragonborn master sage)
 - **Daz**
 - **Diinarnnmyr**
 - **Diirdeklin**
@@ -898,7 +897,7 @@
 - **Korrh Erann**
 - **Lingrick Xardelvar**
 - **Milo Goodbarrel** / **Goodbarrel**
-- **Philemon (Master Archivist)**
+- **Philemon (Master Archivist)** / **Philemon**
 - **Protanther** / **Protenthor**
 - **Rihaud**
 - **Runc**
@@ -919,7 +918,7 @@
 - **Topsy and Turvy**
 - **Ulnara**
 - **Valen**
-- **Valimor Brightgem**
+- **Valimor Brightgem** / **Valimor**
 - **Vareth** / **Varith** / **Brother Vareth** / **Varath**
 - **Welnaste Mizzrym**
 - **Whisperwind**

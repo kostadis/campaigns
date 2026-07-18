@@ -1,48 +1,45 @@
-<!-- source: faction_council_of_savants.md -->
-
-
----
-
 ---
 name: Council of Savants
 type: faction
-n_facts: 17
+n_facts: 15
 chapters: 15-20
 ---
 
 ### Council of Savants
 
-**Current status:** Active  
-**Current location:** Operating in the Underdark, with at least one member residing in a tunnel near the assassin’s redoubt, and influence extending to the region of the obelisk and egg.  
-**Allegiance/faction:** Derro governing body; currently allied with Plinki in a conspiracy to summon or transform Demogorgon into a two-headed dragon mount.  
+**Current status:** Active, but internally fractured and under external manipulation.  
+**Current location:** Operating in the Underdark, with at least one known member residing in a tunnel near the assassin’s redoubt; presence detected near the obelisk and egg site.  
+**Allegiance/faction:** Officially a Derro governing body and intellectual order; currently collaborating with Plinki in a ritual to summon Demogorgon or transform him into a two-headed dragon mount. Suspected of being manipulated by deeper forces — possibly the Deepking himself or the Duergar elite.  
 **Current possessions / notable items, spells, feats, wounds:**  
 - Engaged in arcane research involving the Faerzress anomaly.  
-- Capable of emitting psychic energy, which is consumed by the Flumph.  
-- Likely possess artifacts or rituals tied to the obelisk and the egg.  
+- Utilize psychic energy manipulation; their psychic emissions are consumed by the Flumph.  
+- Likely possess artifacts tied to the obelisk and the egg (implied by proximity and scholarly role).  
 **Current assignment / role and key relationships:**  
-- Primary antagonists of the Keepers of the Flame.  
-- Collaborating directly with Plinki on a ritual involving the egg and Demogorgon.  
-- Previously linked to Droki as a messenger; Droki’s current status is unconfirmed but his past role as a courier for the Council is established.  
-- Accused by Errde of corrupting the Deepking’s court; Daz believes they are puppets manipulated by deeper forces — possibly the Deepking himself or the Duergar elite.  
+- Primary role: Ruling and scholarly body of the Derro, now serving as ritualists and facilitators for Plinki’s plan.  
+- Key relationship: Actively collaborating with Plinki.  
+- Opposed by: The Keepers of the Flame.  
+- Accused by: Errde of corrupting the Deepking’s court.  
+- Viewed by Daz as likely victims of manipulation, not true architects of corruption.  
+- Formerly had agents like Buppido and Droki; current status of these individuals unknown.  
 **Defining recent actions:**  
-- Abandoned their former scholarly ideals after the Faerzress blinked.  
-- Now actively working to weaponize the egg and summon or bind Demogorgon.  
-- Residing in proximity to ritual sites (obelisk, egg) and tunnel networks linked to smuggling and planar manipulation.  
+- Collaborating with Plinki in a ritual involving the egg and obelisk, likely to summon or bind Demogorgon.  
+- Exploiting the Faerzress anomaly for arcane purposes, possibly inducing or amplifying madness among Derro.  
+- Maintaining covert presence near key Underdark sites (tunnel near assassin’s redoubt), indicating ongoing scholarly or ritual activity.  
+**Revealed motivations or secrets:**  
+- Originally a benevolent scholarly order, corrupted after the Faerzress blinked.  
+- Their stated ideals of liberation for the Derro have been abandoned; current actions suggest either true corruption or coerced compliance.  
+- May be pawns in a larger scheme — the Deepking or Duergar elite may be the true architects of their actions, using them as a scapegoat.  
 
 ## Uncertainty
-- Contradiction between the Council being described as a “ruling group of the Derro” and as a faction of “scholars” who are “puppets” — is the Council truly sovereign, or is it a facade?  
-- Attribution of Droki’s role: Ch15 and ch17 imply he is linked to the Council, but ch17 also says he is a “messenger for them” — is he still active? No later confirmation of his current status.  
-- Was the Council ever truly “benevolent,” or is this a retrospective myth (as Daz believes)? The shift from “benign scholars” to “corrupted conspirators” is presented as fact, but its origin (propaganda, truth, or delusion) is unresolved.  
-- Are the Council’s psychic abilities innate, ritual-induced, or Faerzress-corrupted? The source is unspecified.  
-- The exact nature of their alliance with Plinki — is it voluntary, coerced, or symbiotic? Not clarified.  
-- Is the Council’s presence near the obelisk and egg evidence of active ritual participation, or merely observation? Ambiguous.
+- Contradiction between Buppido/Droki’s past affiliation (ch17) and current status: Are they still active members, defectors, or dead? Not clarified since ch17.  
+- Unclear if the Council is still a unified governing body or has splintered into factions (e.g., radicalized elements vs. puppet scholars).  
+- Attribution of corruption: Is the Council’s turn to Demogorgon ritualism voluntary, coerced, or entirely controlled by Plinki or the Deepking? Facts conflict between “collaborating” and “victims of manipulation.”  
+- The exact nature of their psychic abilities and how they interface with the Faerzress anomaly is described but not mechanistically defined.  
+- Whether the member observed in ch20 is a representative of the Council’s current leadership or a lone operative is unspecified.
 
 ---
 
 <!-- source: object_council_of_savants.md -->
-
-
----
 
 ---
 name: Council of Savants
@@ -53,11 +50,14 @@ chapters: 17-17
 
 ### Council of Savants
 
-- **What it is**: A governing or authoritative body that made a promise of freedom to the Derro.
-- **Current condition**: Credibility is shattered among the Derro; viewed as betrayers.
-- **Significance**: Their broken promise has incited rage and religious fervor among the Derro, who now see them as destined to fail.
+- **Current status:** Not an object — misclassified. The Council of Savants is a faction, not an object.  
+- **Current standing:** Discredited and distrusted by the Derro.  
+- **Key recent action:** Promised freedom to the Derro but failed to deliver, inciting rage and religious fervor.  
+- **Relationship to Derro:** Viewed as betrayers; their failure is now a central tenet of Derro religious grievance.  
+- **Current goal (inferred):** None stated — but their credibility is shattered among the Derro.  
 
 ## Uncertainty
-- The current location, structure, or operational status of the Council of Savants is unknown.
-- Whether the Council still exists as an active entity or has been disbanded, destroyed, or otherwise altered since the broken promise is not stated.
-- No information is given about who currently leads or represents the Council, or whether it holds any power or influence beyond the Derro’s resentment.
+- The Council of Savants' current location, leadership, or ongoing activities beyond this broken promise are not stated.  
+- Whether the Council still exists as an active entity or has dissolved, retreated, or been overthrown is unknown.  
+- No other factions or individuals are mentioned in relation to the Council’s current status.  
+- The term “object” in the entity type is incorrect — this is a faction.

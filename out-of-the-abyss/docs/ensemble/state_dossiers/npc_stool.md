@@ -1,40 +1,39 @@
 ---
 name: Stool
 type: npc
-n_facts: 48
+n_facts: 56
 chapters: 1-33
 ---
 
 ### Stool
 
 **Current status:** Alive  
-**Current location:** Neverlight Grove, deep within the caverns, departed with Rump-a-dump and the Myconid collective  
-**Allegiance/faction:** Myconid collective of Neverlight Grove; loyal to Rump-a-dump and his circle  
+**Current location:** Neverlight Grove, departing with Rump-a-dump and the Myconid collective  
+**Allegiance/faction:** Myconid collective of Neverlight Grove  
 **Current possessions / notable items, spells, feats, wounds:**  
-- Capable of spreading rapport spores to establish group mind connections  
-- Has consumed and understands the effects of Nilhogg’s nose mushrooms (enhances smell, intensifies both pleasant and painful odors)  
-- No visible wounds or impairments reported  
+- Carries no external items, but retains the ability to release rapport spores (group mind link) and has ingested Nilhogg’s nose mushrooms (enhanced smell, painful sensitivity to bad odors).  
+- No observable wounds; physically intact and bioluminescent.  
 
 **Current assignment / role and key relationships:**  
-- Companion and emotional anchor to Rump-a-dump; refers to him as “my friend” and insists on saving him  
-- Bonded with Thorin, having ridden on his back and expressed contentment in the experience  
-- Viewed by Rump-a-dump as a knowledgeable and trusted figure (“Listen to Stool, he knows what he is doing...”)  
-- Previously traveled with the party (Grygum, Zalthir, Thorin) but is no longer with them as of Chapter 33  
+- Companion and emotional anchor to Rump-a-dump; part of the core Myconid group returning to the Grove.  
+- Bonded with Thorin, having ridden on his back and expressed contentment in that connection.  
+- Viewed by Rump-a-dump as a knowledgeable figure whose insights Zalthir should heed.  
+- Emotionally attached to the party members, especially Thorin and Zalthir, whom he describes as kind despite perceived grumpiness.  
 
 **Defining recent actions:**  
-- Celebrated return to Neverlight Grove with Rump-a-dump, shouting “We’re home!”  
-- Spoke on behalf of the Myconids to affirm Thorin’s kindness and Zalthir’s hidden compassion  
-- Last seen saying “Goodbye!” alongside Rump-a-dump as they departed into the depths of the Grove with their people  
+- Celebrated return to Neverlight Grove with Rump-a-dump, shouting, “We’re home!”  
+- Spoke on behalf of the Myconids to affirm Thorin’s kindness and Zalthir’s hidden gentleness.  
+- Departed with Rump-a-dump and the Myconid collective, offering a final “Goodbye!” as they retreated into the Grove’s depths.  
 
 **Revealed motivations or secrets:**  
-- Deeply afraid of loneliness and seeks belonging; clings to Grygum and later Thorin as surrogate companions  
-- Believes Myconids are inherently harmless and resists acknowledging the corrupting influence of the Dark Lady’s spores  
-- Emotionally attached to Rump-a-dump and views the dancing Myconids as lost members of his own circle  
-- Seeks purpose through being “helpful,” using his spores and knowledge to contribute to the group  
+- Deeply seeks belonging, affirmation, and friendship — views being “helpful” as his purpose.  
+- Believes Myconids are inherently harmless, resisting evidence of spore-induced control or corruption.  
+- Views Rump-a-dump as a friend and member of his circle; his urgency to “save” him reveals emotional investment beyond mere observation.  
+- Uses spore-based communication not just as a tool, but as a means of connection — he thrives on being heard and liked.  
 
-## Uncertainty
-- Contradiction: Chapter 31 describes Stool as a “goblin follower” — this is inconsistent with all other facts identifying him as a Myconid; likely a misattribution or error in narration.  
-- Ambiguity: Chapter 31 claims Stool repeats “distorted narratives about Zalthir and the Circle of Masters, possibly under the influence of demonic spores or manipulated by Phylo’s altered reality” — this is presented as interpretation, not confirmed fact; no direct quote or evidence confirms Stool is under external mental control.  
-- Unclear attribution: Chapter 31 says Stool claims “Zalthir was always grouchy but a really nice softer” — the phrasing is garbled; whether this reflects Stool’s actual speech or narrative distortion is unclear.  
-- Status of companions: Rump-a-dump is confirmed to have departed with Stool, but no other Myconids are named as currently traveling with him — whether the entire circle left with them is not specified.  
-- Whether Stool still retains his group mind spore ability is unconfirmed post-departure, though no evidence suggests it was lost.
+## Uncertainty  
+- Contradiction: [ch31] describes Stool as a “goblin follower” — this is likely a misattribution or error, as all other facts consistently identify him as a Myconid.  
+- Ambiguity: [ch31] claims Stool repeats “distorted narratives about Zalthir and the Circle of Masters” — this is not corroborated by his actual dialogue, which only affirms Zalthir’s kindness. The source of this distortion is unclear.  
+- Unclear attribution: The phrase “Zalthir was always grouchy but a really nice softer” is attributed to Stool in [ch31], but it may reflect Rump-a-dump’s voice or a corrupted perception — no other fact confirms Stool phrased it this way.  
+- Unclear chronology: Whether Stool still carries Nilhogg’s nose mushrooms or retains their effects at the time of departure is not confirmed.  
+- Unclear state: Whether Stool is still under the influence of the Dark Lady’s spores or has been freed is not stated — his insistence on Myconid harmlessness may reflect manipulation or genuine belief.

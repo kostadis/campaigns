@@ -1,0 +1,79 @@
+[
+  {
+    "type": "npc",
+    "subject": "Errde",
+    "fact": "Errde is the guardian of the city against corruption, linked to the Council of Savants and possibly the Clan Lairds, and holds the key to uncovering the conspiracy centered on Droki. She can guarantee freedom and safe passage in exchange for Droki and proof of corruption.",
+    "source_quote": "It is my job to protect the city from corruption. So yes, it is for the city.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Droki",
+    "fact": "Droki is the central figure in the corruption at the Deepking\u2019s court, linked to the Council of Savants and possibly elements of the Clan Lairds. His discovery is essential to proving the conspiracy.",
+    "source_quote": "Droki is the key to uncovering that corruption.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz recognizes corruption through the lens of the Blade Bazaar, having witnessed and replicated its behaviors \u2014 grift, chaos, and rule-breaking \u2014 and identifies systemic corruption in authoritarian structures.",
+    "source_quote": "Yes, there was much of that going on.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Council of Savants",
+    "fact": "The Council of Savants is implicated in the corruption at the Deepking\u2019s court, with Droki linked to its activities and possibly complicit in undermining its rules.",
+    "source_quote": "He is linked to the Council of Savants and maybe even elements of the Clan Lairds.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Clan Lairds",
+    "fact": "The Clan Lairds are suspected of involvement in the corruption at the Deepking\u2019s court, with Droki possibly tied to their clandestine operations.",
+    "source_quote": "He is linked to the Council of Savants and maybe even elements of the Clan Lairds.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "escaped slaves",
+    "fact": "A group of Drow may be searching for escaped slaves; Errde can deny their presence in the city, and her ability to provide this cover is a leverage point for Thorin\u2019s freedom.",
+    "source_quote": "If a particular group of Drow were to come looking for some escaped slaves, I could tell them that they are not here.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "corruption escalation",
+    "fact": "Corruption began with rule-breaking in the bazaar, escalated to grift, then chaos, and now threatens destruction, as described by Errde and confirmed by Daz\u2019s observations.",
+    "source_quote": "Things were not proceeding according to the rules of the market, of the bazaar. It starts with not obeying the rules. Then it proceeds to grift, then chaos, and then destruction.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "175 gold pieces of equipment",
+    "fact": "Errde offers 175 gold pieces of equipment from the armory as a reward for initial cooperation, with another 175 gold pieces contingent on delivering Droki and proof of corruption.",
+    "source_quote": "As a reward, I offer you 175 gold pieces of equipment from our armory. When you bring me Droki and the proof I need, then I will give you 175 more.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "the city",
+    "fact": "The city is the primary domain of the corruption, with the Deepking\u2019s court at its heart, and Errde asserts her role as its protector against internal decay.",
+    "source_quote": "There is something very wrong going on in my city. Some kind of corruption eats at the heart of the Deepking\u2019s court.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "proof of corruption",
+    "fact": "Errde claims Daz\u2019s description of the Blade Bazaar\u2019s behaviors constitutes proof of corruption, linking systemic lawlessness in commerce to political decay.",
+    "source_quote": "You have found me proof!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is seeking clarity on whether to align with the Stone Guards or the City, and is being manipulated by Errde\u2019s promises of freedom and rewards in exchange for action against Droki.",
+    "source_quote": "Look, we want to know if this is for the Stone Guards or the City?",
+    "quote_verified": true
+  }
+]

@@ -1,36 +1,41 @@
 ---
 name: Queenie
 type: npc
-n_facts: 16
+n_facts: 14
 chapters: 57-57
 ---
 
 ### Queenie
 
 **Current status:** Alive  
-**Current location:** Janussi’s armchair (settled for nap)  
-**Allegiance/faction:** None; independent observer  
-**Current possessions / notable items, spells, feats, wounds:** None; observes but does not possess objects  
-**Current assignment / role and key relationships:** Witness to key events in Janussi’s chamber; last seen interacting with Sylvira Savikas and the narrator. Reports to no one.  
+**Current location:** Tower (resides there, observes movements from within)  
+**Allegiance/faction:** None (independent, unaffiliated)  
+**Current possessions / notable items:** None explicitly owned; observes the locket (believed carried by Janussi) and book (witnessed Daral carry it away) but does not possess either  
+**Spells, feats, wounds:** None  
+**Current assignment / role:** Observer of two-leggers — notes their gait, scent, habits, and anomalies (e.g., impersonation of Sylvira, failure to lick themselves) with detached precision  
+**Key relationships:**  
+- Observed Janussi (deceased) carrying a locket he never removed  
+- Witnessed Sylvira Savikas enter the tower and later a figure impersonating her (lacking her scent)  
+- Witnessed Daral remove a book from the tower  
+- Interacts with Daz (demands he lick himself before returning)  
+- Refuses to answer questions unless tickled  
+
 **Defining recent actions:**  
-- Announced, “I did not order any more ticklers!” after being rudely awakened by Sylvira Savikas.  
-- Observed Sylvira Savikas blast the armchamber with force light.  
-- Observed Daral carry away a book that induces stillness (identified as *The Golden Ass* via her remark about the “hypnotic block”).  
-- Noted a figure wearing Sylvira’s shape but not her scent.  
-- Declared that the locket was always on Janussi and never removed.  
-- Ended interaction by commanding the narrator to “give yourself a proper licking before returning to my tower.”  
+- Awakened from nap by Sylvira Savikas  
+- Observed Daral carry away a book  
+- Witnessed a figure wearing Sylvira’s shape but lacking her scent, which she identified as false  
+- Demanded Daz leave and properly lick himself before returning  
+- Refused to answer further questions due to insufficient tickles  
 
 **Revealed motivations or secrets:**  
-- Values cleanliness and precision in observation; categorizes beings by gait and smell, not titles.  
-- Believes tickling is the only justifiable reason to interrupt her rest.  
-- Holds deep skepticism of two-leggers, viewing them as unclean and inattentive to personal hygiene.  
-- Understands *The Golden Ass* as a device that immobilizes those who open it (“they just sit there and don’t tickle!”).  
-- Knows the locket was an intimate, constant possession of Janussi — implying she observed him closely over time.  
-- Recognized a mimic or illusion of Sylvira Savikas by scent discrepancy.
+- Values cleanliness above all — considers two-leggers unclean for rarely licking themselves, and prefers cleaner dogs  
+- Will only provide information if tickled — her cooperation is entirely transactional and contingent on physical stimulation  
+- Has no interest in human politics, secrets, or narratives — only sensory observation and personal comfort matter to her  
+- Believes the locket was intimate and never removed by Janussi, but does not know what it was  
 
 ## Uncertainty
-- The phrase “my tower” implies Queenie has a residence beyond Janussi’s armchair, but no location for this tower is given — is she temporarily resting there or does she live there?  
-- It is unclear whether Queenie’s observation of “a figure wearing Sylvira’s shape but not her scent” refers to a doppelgänger, illusion, or someone else entirely — no further identification is provided.  
-- The nature of “the locket” is unknown — only that it was always on Janussi and never removed; its function or origin is unexplained.  
-- It is ambiguous whether Queenie’s statement “I don’t know what it was” refers to the locket or another object — the context is unclear.  
-- The origin of her “tower” and whether she has any other territory or companions is not established.
+- The locket’s true nature remains unknown to Queenie — she only knows it was carried intimately by Janussi.  
+- The identity of the figure impersonating Sylvira is unknown to Queenie — she only notes the scent mismatch.  
+- Whether Daz has returned to the tower after being told to lick himself is unconfirmed.  
+- Whether Queenie still occupies Janussi’s armchair or has moved elsewhere since being awakened is unspecified.  
+- It is unclear if “tickles” are a physical act, a magical effect, or a metaphor — the text notes “I tickled. I tickled some more,” but the mechanism is not defined.

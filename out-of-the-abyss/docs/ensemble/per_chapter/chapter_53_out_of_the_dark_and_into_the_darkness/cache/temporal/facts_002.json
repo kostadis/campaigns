@@ -2,155 +2,232 @@
   {
     "type": "object",
     "subject": "jailer's key weight",
-    "fact": "The jailer's ring, iron and heavy, each key worn smooth from years of use.",
-    "source_quote": "iron and heavy",
-    "quote_verified": true
-  },
-  {
-    "type": "object",
-    "subject": "payroll value",
-    "fact": "The payroll was a chest of coin, Velkynvelve's operational budget rendered in gold and silver.",
-    "source_quote": "a chest of coin, Velkynvelve's operational budget rendered in gold and silver",
-    "quote_verified": true
+    "fact": "The jailer's ring keys are heavy, each worn smooth from years of use.",
+    "source_quote": "a jailer's ring, iron and heavy, each key worn smooth from years of use",
+    "quote_verified": false
   },
   {
     "type": "object",
     "subject": "silver candlestick value",
     "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
-    "source_quote": "",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
     "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "Overbright brandy value",
-    "fact": "The flask of Overbright brandy I received with considerably more personal interest.",
-    "source_quote": "The flask of Overbright brandy",
-    "quote_verified": true
   },
   {
     "type": "location",
     "subject": "Velkynvelve elevation",
     "fact": "Velkynvelve sits 100 feet above the cavern floor.",
-    "source_quote": "",
+    "source_quote": "Drow outpost was 100' in the sky",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
+    "source_quote": "four chasme and two vrock",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "Sloobludop is approximately eight days away via the Darklake.",
+    "source_quote": "the town of Sloopdopblop is just eight days away",
     "quote_verified": false
   },
   {
     "type": "object",
-    "subject": "Drow cloak value",
-    "fact": "The holy symbol of Lolth. Chain mail. Prayer beads. And a sealed wax pouch.",
-    "source_quote": "The holy symbol of Lolth. Chain mail. Prayer beads. And a sealed wax pouch.",
+    "subject": "Overbright brandy value",
+    "fact": "The flask of Overbright brandy is worth a significant amount, received with personal interest.",
+    "source_quote": "The flask of Overbright brandy I received with considerably more personal interest",
     "quote_verified": true
   },
   {
     "type": "object",
     "subject": "Drow cloak value",
-    "fact": "The Drow cloak she'd been wearing \u2014 the fine spider-silk kind that drinks shadow \u2014",
+    "fact": "The Drow cloak made of fine spider-silk drinks shadow and is highly valuable.",
     "source_quote": "the fine spider-silk kind that drinks shadow",
     "quote_verified": true
   },
   {
     "type": "object",
-    "subject": "Living Serpent Head Scourge classification",
-    "fact": "The Living Serpent Head Scourge sounds... a great museum piece.",
-    "source_quote": "The Living Serpent Head Scourge",
+    "subject": "serpent scourge description",
+    "fact": "The Living Serpent Head Scourge has a head that is an actual living serpent, or was in an intermediate state between alive and not.",
+    "source_quote": "a scourge whose head was an actual living serpent, or had been, in some intermediate state between alive and not",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Stroud's preparation duration",
+    "fact": "Stroud had been preparing for four hundred years before his blind spot was exposed.",
+    "source_quote": "Four hundred years of preparation",
     "quote_verified": true
   },
   {
     "type": "date",
     "subject": "session date",
     "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
-    "source_quote": "",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "prisoner count",
-    "fact": "A water-damaged journal from a prisoner we would never meet \u2014 someone who had written things down and then, presumably, stopped being able to.",
-    "source_quote": "a prisoner we would never meet",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "drow soldiers count",
-    "fact": "Six drow soldiers attended the ritual.",
-    "source_quote": "",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "travel duration",
-    "fact": "Sloobludop is approximately eight days away via the Darklake.",
-    "source_quote": "",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "Labyrinth dimensions",
-    "fact": "The Labyrinth is 240 by 120 miles.",
-    "source_quote": "",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "zurkhwood weight",
-    "fact": "Two pounds of zurkhwood were carried in the pack.",
-    "source_quote": "",
-    "quote_verified": false
-  },
-  {
-    "type": "npc",
-    "subject": "Thorin age",
-    "fact": "Thorin had been a prisoner for fifteen years.",
-    "source_quote": "",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "temple founding",
-    "fact": "The temple was founded in 1372 DR.",
-    "source_quote": "",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "artifact age",
-    "fact": "The artifact is a thousand-year-old relic.",
-    "source_quote": "",
+    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
     "quote_verified": false
   },
   {
     "type": "event",
     "subject": "rest duration",
-    "fact": "They rested for a long night.",
-    "source_quote": "a long rest",
+    "fact": "An hour passes between two events in the session.",
+    "source_quote": "An hour later",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "vrock count",
+    "fact": "Two vrock demons are present in the cavern above the prisoners' tower.",
+    "source_quote": "four chasme and two vrock",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Labyrinth dimensions",
+    "fact": "The Labyrinth measures 240 by 120 miles.",
+    "source_quote": "240 by 120 mile Labyrinth",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "platinum value",
+    "fact": "The platinum is worth 1000 sp.",
+    "source_quote": "1000 sp worth of platinum",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "zurkhwood weight",
+    "fact": "The zurkhwood weighs two pounds.",
+    "source_quote": "two pounds of zurkhwood",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin's imprisonment duration",
+    "fact": "Thorin has been a prisoner for fifteen years.",
+    "source_quote": "fifteen years a prisoner",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve founding year",
+    "fact": "Velkynvelve was founded in 1372 DR.",
+    "source_quote": "1372 DR ascended",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "artifact age",
+    "fact": "The artifact is a thousand years old.",
+    "source_quote": "thousand-year-old artifact",
     "quote_verified": false
   },
   {
     "type": "event",
-    "subject": "sequence marker",
-    "fact": "This was the first time they had found such a journal.",
-    "source_quote": "first time",
+    "subject": "first time",
+    "fact": "This is the first time the group has encountered this situation.",
+    "source_quote": "First time",
     "quote_verified": false
   },
   {
     "type": "event",
-    "subject": "sequence marker",
-    "fact": "It was the third time the group had encountered such corruption.",
-    "source_quote": "third time",
+    "subject": "second day",
+    "fact": "It is the second day of the journey.",
+    "source_quote": "second day",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "third round",
+    "fact": "The battle lasted for three rounds.",
+    "source_quote": "after the third round",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "fourth time",
+    "fact": "This is the fourth time the group has faced this enemy.",
+    "source_quote": "for the fourth time",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "next bell",
+    "fact": "The next bell rang after the event.",
+    "source_quote": "the next bell rang",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "Two days have passed since the last event.",
+    "source_quote": "two days ago",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs during the Festival of the Veil in 1493 DR.",
+    "source_quote": "Festival of the Veil 1493",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "drow soldiers count",
+    "fact": "Six drow soldiers attended the meeting.",
+    "source_quote": "six drow soldiers attended",
     "quote_verified": false
   },
   {
     "type": "faction",
-    "subject": "House Mizzrym members",
-    "fact": "House Mizzrym had sent three envoys to investigate.",
-    "source_quote": "",
+    "subject": "drow warriors count",
+    "fact": "Twelve drow warriors are part of the patrol.",
+    "source_quote": "twelve drow warriors",
     "quote_verified": false
   },
   {
-    "type": "thread",
-    "subject": "corruption timeline",
-    "fact": "The marginalia documented the pull \u2014 a timeline of Ilvara\u2019s descent into Zuggtmoy\u2019s influence.",
-    "source_quote": "The marginalia documented the pull",
-    "quote_verified": true
+    "type": "monster",
+    "subject": "myconid count",
+    "fact": "One hundred fifty myconids inhabit the fungal grove.",
+    "source_quote": "150 myconids",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "petrified angels count",
+    "fact": "The eight petrified angels are arranged in a circle.",
+    "source_quote": "the eight petrified angels",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "prisoners count",
+    "fact": "Ten other prisoners are held in the dungeon.",
+    "source_quote": "ten other prisoners",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "quaggoth attendants count",
+    "fact": "Two quaggoth attendants guard the chamber.",
+    "source_quote": "two quaggoth attendants",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "wagered gold",
+    "fact": "They wagered fifty gold pieces on the outcome.",
+    "source_quote": "wagered 50 gold",
+    "quote_verified": false
   }
 ]

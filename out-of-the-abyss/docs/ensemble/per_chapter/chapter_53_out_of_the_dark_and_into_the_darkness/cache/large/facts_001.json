@@ -9,148 +9,134 @@
   {
     "type": "npc",
     "subject": "Nym",
-    "fact": "Nym is a Drow mercenary from Menzoberranzan, part of a pair hired to protect Daz from House Mizzrym and House T'sarran; she exhibits professional detachment, understands the value of insulation in high-stakes contracts, and dismisses Daz\u2019s self-mythologizing with cold pragmatism.",
-    "source_quote": "That is a fee... that is a price you cannot afford.",
+    "fact": "Nym is a Drow mercenary from House Duskryn, hired to protect Daz from House Mizzrym and House T'sarran, who speaks with the practiced tone of Menzoberranzan\u2019s elite, displays professional detachment, and dismisses theological threats as irrelevant to her contract.",
+    "source_quote": "Our terms of our contract were to make sure that the other drow factions didn't get you killed.",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Kaelira",
-    "fact": "Kaelira is Nym\u2019s sister and fellow mercenary; she displays acute professional confusion at the anomaly of Daz\u2019s existence \u2014 a nobody worth massive investment \u2014 and her blunt assessments reveal a deep familiarity with the political calculus of Menzoberranzan.",
-    "source_quote": "For all we know, this was a game being played by the houses.",
-    "quote_verified": true
+    "fact": "Kaelira is a Drow mercenary from House Duskryn, co-hired with Nym to protect Daz; she is analytically sharp, visibly puzzled by the anomaly of Daz\u2019s value, and uninterested in self-mythologizing narratives, yet acknowledges the financial weight behind his protection.",
+    "source_quote": "That is an excellent question. You don't belong to any noble house, your background is a complete mystery... Do you know how much money that required us to get, for us to do? A lot. Like, they interrupt you. A lot.",
+    "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Asha Vandree",
-    "fact": "Asha Vandree is a Lolth cleric who seized authority after a chaotic escape, displaying unwavering confidence in her divine favor; her actions provoked lethal intervention from Zalthir, who deemed her an immediate existential threat.",
+    "fact": "Asha Vandree is a Lolth cleric who declared herself in charge after a chaotic escape, displaying unwavering confidence and divine self-justification, ultimately killed by Zalthir to prevent her from invoking further divine power.",
     "source_quote": "I am blessed by Lolth!",
     "quote_verified": true
   },
   {
     "type": "npc",
     "subject": "Zalthir",
-    "fact": "Zalthir is a combat-trained individual with an Eldritch Claw Tattoo, trained in decisive action under moral uncertainty; he executed Asha Vandree without hesitation, believing someone had to make the call \u2014 and that he was the one who should.",
-    "source_quote": "Someone had to make the call. I made it. That's all.",
-    "quote_verified": true
+    "fact": "Zalthir is a combat-trained individual with an Eldritch Claw Tattoo, who decisively killed Asha Vandree to neutralize a clerical threat, acting when others hesitated, and accepting the moral weight of the choice without justification.",
+    "source_quote": "I'm making a call.\" ... \"I didn't look at the body.",
+    "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Thorin",
-    "fact": "Thorin is a member of the party who attempted to subdue Asha Vandree via grapple, believing non-lethal restraint sufficient; his reluctance to kill reflects a moral code at odds with the lethal pragmatism of the Drow mercenaries.",
-    "source_quote": "I don't like killing people if I don't have to.",
+    "fact": "Thorin is a member of the party who attempted to subdue Asha Vandree via grapple, believing non-lethal restraint sufficient, but was corrected by the Drow mercenaries for misunderstanding the lethal nature of Lolth clerics.",
+    "source_quote": "I could have taken her out if I wanted to.\" ... \"I don't like killing people if I don't have to.",
     "quote_verified": false
   },
   {
     "type": "npc",
     "subject": "Grygum",
-    "fact": "Grygum is a cleric who opposes lethal force and seeks non-violent resolutions; he attempted divine intervention against Asha, but his failure led him to quietly reassess his role in the group\u2019s decisions.",
+    "fact": "Grygum is a divine caster who attempted to use holy light against Asha Vandree, failed, and later expressed reluctance to kill, preferring alternatives \u2014 reflecting his theological ethics and discomfort with lethal force.",
     "source_quote": "Let's put a period after that 'now that I'm in charge' thing.",
     "quote_verified": true
   },
   {
     "type": "faction",
     "subject": "House Mizzrym",
-    "fact": "House Mizzrym is one of the two noble houses in Menzoberranzan identified as a threat to Daz; the mercenaries were contracted to prevent them from killing him.",
+    "fact": "House Mizzrym is one of the two noble Drow houses explicitly named as threats to Daz\u2019s life, contracted to be neutralized by the Duskryn sisters as part of their protection contract.",
     "source_quote": "House Mizzrym. House T'sarran. Those were the parameters.",
     "quote_verified": true
   },
   {
     "type": "faction",
     "subject": "House T'sarran",
-    "fact": "House T'sarran is the second noble house identified as a threat to Daz; the mercenaries were prepared to handle them personally if necessary, but Daz eliminated their goons himself.",
-    "source_quote": "We'd just finished burning. ... They'd been prepared to handle the T'sarran contingent personally if it came to that.",
+    "fact": "House T'sarran is one of the two noble Drow houses named as threats to Daz\u2019s life, contracted to be neutralized by the Duskryn sisters, who were prepared to handle them personally if necessary.",
+    "source_quote": "House Mizzrym. House T'sarran. Those were the parameters.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "House Ilvara",
+    "fact": "House Ilvara is mentioned as a threat to Daz, though not directly targeted by the Duskryn sisters' contract \u2014 implied to be part of the broader network of enemies seeking his death.",
+    "source_quote": "Hired to protect me \u2014 specifically, me \u2014 from Ilvara's House and from the T'sarran goons we'd just finished burning.",
     "quote_verified": false
   },
   {
     "type": "faction",
-    "subject": "Ilvara's House",
-    "fact": "Ilvara's House is referenced as an additional threat to Daz, though not named explicitly as a noble house; the mercenaries were hired to protect him from them as well.",
-    "source_quote": "Hired to protect me \u2014 specifically, me \u2014 from Ilvara's House and from the T'sarran goons...",
-    "quote_verified": false
-  },
-  {
-    "type": "faction",
-    "subject": "Lolth Cult (Asha's Affiliation)",
-    "fact": "Asha Vandree\u2019s devotion to Lolth is presented as genuine, though her interpretation of divine favor is dangerously delusional; her cultic authority is perceived as a lethal threat by Zalthir and the Drow mercenaries.",
-    "source_quote": "I am blessed by Lolth!",
-    "quote_verified": true
-  },
-  {
-    "type": "monster",
-    "subject": "T'sarran Goons",
-    "fact": "T'sarran Goons are low-ranking enforcers of House T'sarran, recently eliminated by Daz and the party before the mercenaries arrived; their destruction demonstrated Daz\u2019s capability and reduced the need for direct intervention.",
-    "source_quote": "The T'sarran goons we'd just finished burning.",
-    "quote_verified": false
-  },
-  {
-    "type": "object",
-    "subject": "Extraction Contract",
-    "fact": "The extraction contract is a document produced by the party that appears central to the events leading to Daz\u2019s targeting; it was scorched and referenced as evidence of the danger they escaped.",
-    "source_quote": "Kaelira gestured toward the scorched remnants of the extraction contract the party had produced \u2014 the document that had apparently been at the center of all this...",
-    "quote_verified": false
-  },
-  {
-    "type": "event",
-    "subject": "Hiring of Drow Mercenaries",
-    "fact": "An anonymous, high-level patron in Menzoberranzan hired Nym and Kaelira to protect Daz, using cutouts to obscure their identity; the payment was substantial and unusual for a non-noble target.",
-    "source_quote": "Someone had paid for this. Someone who knew I was here, knew who was hunting me, and knew enough to contract professionals rather than handle it directly.",
+    "subject": "House Duskryn",
+    "fact": "House Duskryn is the mercenary house to which Nym and Kaelira belong; they operate with professional detachment, contractual precision, and deep familiarity with Menzoberranzan\u2019s power structures, yet remain anonymous agents with no knowledge of their employer.",
+    "source_quote": "We hoped that you'd be smart enough to avoid Ilvara... well, we could have handled House T'sarran and whatever goons they threw at you.",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "Execution of Asha Vandree",
-    "fact": "Zalthir executed Asha Vandree with his Eldritch Claw Tattoo to prevent her from invoking Lolth\u2019s power; the act ended a tense standoff and forced the party to confront the moral cost of survival in Menzoberranzan.",
+    "subject": "contract fulfillment",
+    "fact": "The Duskryn sisters fulfilled their contract to protect Daz from House Mizzrym and House T'sarran, successfully preventing his death during the confrontation, and departed immediately after, indicating their work was complete and payment secured.",
+    "source_quote": "The contract was fulfilled; they were done.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Asha's execution",
+    "fact": "Asha Vandree, a Lolth cleric who seized authority after the escape, was executed by Zalthir using his Eldritch Claw Tattoo to prevent her from invoking divine power, ending a potential internal threat to the party\u2019s cohesion.",
     "source_quote": "The strikes came in sequence... Asha Vandree did not get another word out.",
     "quote_verified": false
   },
   {
+    "type": "location",
+    "subject": "Menzoberranzan",
+    "fact": "Menzoberranzan is the Drow city-state where the contract for Daz\u2019s protection originated, a place where noble houses wield lethal political power, financial transactions are heavily insulated, and anonymity implies high stakes or illegality.",
+    "source_quote": "Someone in Menzoberranzan had spent generously... That level of insulation around a financial transaction means exactly one thing: the payer has significant reason not to be associated with the purchase.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "the extraction contract",
+    "fact": "The extraction contract is a document produced by the party that was central to the conflict, apparently detailing the terms of an operation that led to the confrontation with House Mizzrym and House T'sarran, now scorched and referenced as evidence.",
+    "source_quote": "Kaelira gestured toward the scorched remnants of the extraction contract the party had produced \u2014 the document that had apparently been at the center of all this.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "T'sarran goons",
+    "fact": "T'sarran goons are unnamed enforcers or mercenaries loyal to House T'sarran, previously engaged and burned by the party, indicating prior violent conflict and establishing their role as immediate threats.",
+    "source_quote": "Hired to protect me \u2014 specifically, me \u2014 from Ilvara's House and from the T'sarran goons we'd just finished burning.",
+    "quote_verified": false
+  },
+  {
     "type": "thread",
-    "subject": "Daz\u2019s True Identity",
-    "fact": "The mystery of why someone in Menzoberranzan invested so heavily in protecting Daz \u2014 a nobody with no house, no history, no value \u2014 is an unresolved plot thread; the answer may lie in hidden lineage, divine intervention, or a larger political game.",
+    "subject": "Daz's hidden identity",
+    "fact": "A persistent thread surrounds Daz\u2019s origin: why would an unknown, houseless Drow attract such expensive, anonymous protection in Menzoberranzan? The answer remains concealed, suggesting a hidden lineage, a prophecy, or a political game beyond the party\u2019s knowledge.",
     "source_quote": "So then maybe there's more to me than meets the eye?",
     "quote_verified": true
   },
   {
     "type": "thread",
-    "subject": "The Identity of the Paymaster",
-    "fact": "The true identity of the patron who paid 'a lot' \u2014 enough to interrupt their schedule multiple times \u2014 remains unknown; the insulation around the transaction implies the payer fears exposure for reasons of illegality, embarrassment, or danger.",
-    "source_quote": "In Menzoberranzan, that level of insulation around a financial transaction means exactly one thing: the payer has significant reason not to be associated with the purchase.",
+    "subject": "the unknown employer",
+    "fact": "The identity of the individual or faction who paid for Daz\u2019s protection remains unknown \u2014 the contract was mediated through cutouts, and even the Duskryn sisters do not know their employer, implying a conspiracy of significant scale and secrecy.",
+    "source_quote": "Someone had paid for this. Someone who knew I was here, knew who was hunting me, and knew enough to contract professionals rather than handle it directly.",
     "quote_verified": true
   },
   {
-    "type": "thread",
-    "subject": "The Meaning of the Three Bravos",
-    "fact": "The three repeated 'bravos' from Kaelira after Daz\u2019s actions signal professional irony \u2014 the third is never sincere \u2014 hinting that her praise masks suspicion, calculation, or hidden knowledge.",
-    "source_quote": "Three *bravos*. I have found, as a general principle, that a third *bravo* is never sincere.",
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occur during a session in which the party confronts internal and external threats following an escape from a hostile extraction, leading to moral decisions and revelations about Daz\u2019s value.",
+    "source_quote": "The sisters departed. Professionally. Without ceremony.",
     "quote_verified": true
   },
   {
-    "type": "location",
-    "subject": "Menzoberranzan",
-    "fact": "Menzoberranzan is the dominant drow city-state where noble houses wield power through violence, lineage, and ritual; its culture demands absolute loyalty to house structure, making Daz\u2019s anonymity and high-value protection a profound anomaly.",
-    "source_quote": "In Menzoberranzan, that level of insulation around a financial transaction means exactly one thing...",
-    "quote_verified": false
-  },
-  {
-    "type": "location",
-    "subject": "The Garden Shadow",
-    "fact": "The Garden Shadow is a reference to a training or philosophical tradition that taught Zalthir about social authority and power dynamics; it informs his perception of threats and his readiness to act decisively.",
-    "source_quote": "The Garden Shadow had a saying \u2014 or possibly Brother Quellin did... that the most dangerous person in a room isn't the one with the blade drawn.",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "After the Extraction",
-    "fact": "The events occur immediately after the party\u2019s escape from an extraction operation, which triggered the intervention of the Drow mercenaries and the subsequent confrontation with Asha Vandree.",
-    "source_quote": "The T'sarran goons we'd just finished burning.",
-    "quote_verified": false
-  },
-  {
-    "type": "date",
-    "subject": "Since Velkynvelve",
-    "fact": "Daz has been maintaining a mental list of threats and potential allies since the events at Velkynvelve, marking the beginning of his conscious awareness of being targeted.",
-    "source_quote": "I'd been running a list in the back of my head since Velkynvelve...",
-    "quote_verified": false
+    "type": "npc",
+    "subject": "Milo Goodbarrel",
+    "fact": "Milo Goodbarrel is a halfling author whose writings Daz has read extensively; his phrase 'standing at the edge of the question that changes everything' resonates with Daz\u2019s current existential realization.",
+    "source_quote": "He called it *standing at the edge of the question that changes everything.*",
+    "quote_verified": true
   }
 ]

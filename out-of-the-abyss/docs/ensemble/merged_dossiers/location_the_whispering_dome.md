@@ -1,15 +1,50 @@
 ---
 name: The Whispering Dome
 type: location
-n_facts: 3
-chapters: 56-58
+n_facts: 2
+chapters: 58-58
 ---
 
 ### The Whispering Dome
 
-A sacred, low-light chamber within the Hall of Momentous Deeds, characterized by gold-veined architecture and enforced silence. It is a place of judgment and silent revelation, where supplicants undergo profound stillness to confront truth through presence rather than speech. Voices from the past may be heard by those who stand in the right place, though the primary function now is introspective revelation. Glabbagool was summoned here for a “little quest,” indicating its use as a site for solemn judgment or trials.
+- **Type:** Location  
+- **Current state:** Intact, undisturbed  
+- **Current location:** Unspecified, but accessible as a site of spiritual trial  
+- **Current condition:** Silent, dimly lit chamber with low light pooling under the curve of the ceiling  
+- **Current use:** Site for spiritual trials requiring introspection; answers are revealed through silence, not speech  
+- **Notable recent events:** Glabbagool was summoned here for his quest and demonstrated profound understanding of movement; Zalthir failed to comprehend the lesson taught here, a failure that now defines his bond with the ooze  
+- **Atmosphere:** Still, quiet, conducive to deep reflection  
 
 ## Uncertainty
-- It is unclear whether the phenomenon of hearing past voices is still active or merely residual — ch58 emphasizes silence and revelation, not auditory phenomena, but does not contradict ch56.
-- The exact physical layout (e.g., whether the “right place” for hearing voices is a specific spot or a general condition) is not specified in ch58.
-- It is ambiguous whether the Dome is currently under the control of a specific authority or faction, though its use for judgment implies institutional oversight.
+- Exact geographic location or region is not specified.  
+- Whether Glabbagool or Zalthir are currently present is unknown (only their past actions here are recorded).  
+- No indication whether the Dome is under control of any faction or individual.  
+- The phrase “was the kind of place I would have liked under different circumstances” is narrated in past tense but does not confirm the Dome has changed — ambiguity in whether the narrator’s current perception alters the Dome’s state.
+
+---
+
+<!-- source: faction_the_whispering_dome.md -->
+
+---
+name: The Whispering Dome
+type: faction
+n_facts: 1
+chapters: 58-58
+---
+
+### The Whispering Dome
+
+- **Current status:** Active, functioning as a sacred monastic site.  
+- **Location:** Unspecified, but operational as a place of silent trials.  
+- **Allegiance/faction:** Independent monastic order devoted to silent introspection.  
+- **Current goals:** To guide supplicants toward self-knowledge through silent, non-verbal trials; to enforce the discipline of silence and philosophical insight.  
+- **Key practices:** Supplicants undergo silent, introspective trials; silence is sacred; ignorance of its lessons is punished.  
+- **Defining recent action:** Zalthir was absent during a silent communication class, indicating a failure to adhere to the Dome’s core tenets — an act recognized and presumably addressed by the monks.  
+- **Notable principle:** Wisdom is found in stillness and non-verbal understanding; the art of movement is a subject of contemplation (implied by the quote).  
+
+## Uncertainty
+- The physical location of The Whispering Dome is not specified.  
+- The current status of Zalthir (whether punished, expelled, or reformed) is unknown.  
+- The full scope of punishments for ignorance is not detailed.  
+- Whether the quote "What is the art of movement." is a teaching, a riddle, or a test is ambiguous.  
+- No other monks, leaders, or members are named or described beyond their general role.

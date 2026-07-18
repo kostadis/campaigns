@@ -1,23 +1,23 @@
 [
   {
     "type": "monster",
-    "subject": "spore walker attack damage",
-    "fact": "The spore walker's second swing deals five damage.",
+    "subject": "spore walker damage",
+    "fact": "The spore walker deals five damage with its second swing.",
     "source_quote": "Five damage",
     "quote_verified": true
   },
   {
     "type": "event",
-    "subject": "Grygum's Heart Fungus damage",
-    "fact": "Grygum delivers twenty force damage per turn to the Heart Fungus.",
-    "source_quote": "delivers twenty force damage per turn",
+    "subject": "Grygum's damage output",
+    "fact": "Grygum delivers twenty force damage per turn against the Heart Fungus.",
+    "source_quote": "twenty force damage per turn",
     "quote_verified": true
   },
   {
     "type": "event",
     "subject": "Daz's Fireball damage",
-    "fact": "Daz's Fireball deals 24 damage to Ilvara.",
-    "source_quote": "24 damage worth of fire finding her",
+    "fact": "Daz's Fireball deals 24 damage to Ilvara despite her save.",
+    "source_quote": "24 damage worth of fire",
     "quote_verified": true
   }
 ]

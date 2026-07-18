@@ -1,38 +1,32 @@
 ---
 name: Deepking
 type: faction
-n_facts: 7
-chapters: 15-29
+n_facts: 6
+chapters: 19-29
 ---
 
 ### Deepking
 
-**Current status:** Alive, ruling sovereign of Gracklstugh.  
-**Current location:** Gracklstugh (unspecified palace or stronghold).  
-**Allegiance/faction:** Ruling authority of Gracklstugh; supported by Clan Ironhead and the Stone Guard.  
-**Current possessions / notable items:** Clenched-fist pendant (symbol of authority).  
-**Current assignment / role and key relationships:**  
-- Supreme ruler of Gracklstugh, overriding all other authorities including the Keepers of the Flame.  
-- Exerts control through Grogluk, Stone Guard, and a network of guards, propaganda, and fear.  
-- Maintains strict identity verification to suppress the Ember Vanguard.  
-- Being deliberately misled by Pliinki, who keeps him “delighted in his ignorance” to facilitate demonic ascension.  
-- Worried about the Ember Vanguard’s presence in the city.  
-- Imposes exorbitant pricing on Deep Gnomes, controlling trade routes to enforce economic dominance.  
-
-**Defining recent actions:**  
-- Authorized heightened surveillance and identity checks to root out the Ember Vanguard.  
-- Allowed Pliinki to manipulate his perception of reality while the city destabilizes.  
-- Maintained economic stranglehold on Deep Gnomes through price manipulation.  
-- His authority is invoked by Stone Guard enforcers (“Halt in the name of the Deep King!”).  
-
-**Revealed motivations or secrets:**  
-- His fear of the Ember Vanguard drives much of Gracklstugh’s paranoia and repression.  
-- His ignorance is being exploited by Pliinki as part of a larger plan for demonic ascension.  
-- Clan Ironhead’s approval of his rule suggests his authority is tied to their pre-eminence.  
+- **Current status**: Alive, ruling sovereign of Gracklstugh.  
+- **Current location**: Gracklstugh (undisputed seat of power).  
+- **Allegiance/faction**: Ruler of the Duergar-dominated city-state of Gracklstugh; officially sanctioned by Clan Ironhead, but currently being manipulated by Pliinki.  
+- **Current possessions / notable items**: Wields authority symbolized by the clenched-fist pendant; indirectly controls the Red Dragon Egg (its true nature and purpose concealed from him).  
+- **Current assignment / role**: Maintains absolute control over Gracklstugh through Grogluk, Stone Guard, propaganda, fear, and strict identity verification; suppresses the Ember Vanguard.  
+- **Key relationships**:  
+  - Manipulated by Pliinki, who keeps him ignorant of the Obelisk and Red Dragon Egg’s true purpose.  
+  - Authority is invoked and enforced by the Stone Guard and Grogluk.  
+  - Clan Ironhead formally approves his rule but resents his economic oppression.  
+- **Defining recent actions**:  
+  - Imposed exorbitant pricing on Deep Gnomes to hinder trade and assert dominance.  
+  - Escalated paranoia-driven edicts under Pliinki’s influence.  
+  - Deployed identity verification and surveillance to root out the Ember Vanguard.  
+- **Revealed motivations or secrets**:  
+  - Deeply fearful of the Ember Vanguard’s presence in Gracklstugh.  
+  - Unaware that the Red Dragon Egg and Obelisk are being used to corrupt his rule from within.  
+  - His rule is a tool for Pliinki’s hidden agenda, masked as Duergar supremacy.
 
 ## Uncertainty
-- The exact nature of the “corrupted dragon egg” mentioned in ch29 is not described; its current location or connection to the Deepking is implied but not confirmed.  
-- While Clan Ironhead “approves” the Deepking’s rule (ch19), it is unclear whether they are his subordinates, equals, or puppeteers — their precise role remains ambiguous.  
-- The relationship between Grogluk and Pliinki is unclarified; both manipulate the Deepking, but whether they are allies, rivals, or acting under a shared agenda is unknown.  
-- The Deepking’s physical condition, health, or mental state beyond being “delighted in his ignorance” is not specified.  
-- It is unclear whether the Deepking is aware of the demonic ascension plot or if he is entirely unaware — the facts confirm deception, but not his level of suspicion or suspicion.
+- The exact nature of Clan Ironhead’s current stance: while they approved his rule in ch19, ch28–29 show no active alliance — are they still his backers, or have they withdrawn support?  
+- Whether Pliinki’s manipulation is known to Grogluk or the Stone Guard — do they serve the Deep King or Pliinki?  
+- Whether the clenched-fist pendant is physically worn by the Deep King or merely a symbolic emblem used by his agents.  
+- Whether the Red Dragon Egg is physically in his possession or merely under his nominal control while hidden elsewhere.

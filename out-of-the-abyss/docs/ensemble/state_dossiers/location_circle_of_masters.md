@@ -1,5 +1,5 @@
 ---
-name: Circle of Masters
+name: Circle of Masters of Neverlight Grove
 type: location
 n_facts: 1
 chapters: 31-31
@@ -7,16 +7,16 @@ chapters: 31-31
 
 ### Circle of Masters
 
-- **Type:** Location (myconid cabal within the grove)  
-- **Current location:** Within the grove, near Phylo  
-- **Allegiance/faction:** Loyal to Phylo; operates as an inner circle of myconids  
-- **Current possessions / notable items:** None specified  
-- **Current assignment / role:** Reanimating dead creatures; dispatching myconids outside the grove without explanation  
-- **Key relationships:** Directly serves Phylo; receives carcasses from the Circle of Hunters  
-- **Defining recent actions:** Has taken primary control of carcasses from the Circle of Hunters; continues to send myconids beyond the grove under opaque orders  
+**Current status:** Active, located within the grove.  
+**Current location:** Within the grove (unspecified precise location, but operates in proximity to Phylo).  
+**Allegiance/faction:** Loyal to Phylo; operates as an inner circle of myconids closest to Phylo.  
+**Current possessions / notable items, spells, feats, wounds:** None specified.  
+**Current assignment / role and key relationships:** Reanimates dead creatures using carcasses provided by the Circle of Hunters; dispatches groups of myconids outside the grove without explanation. Reports directly to Phylo.  
+**Defining recent actions:** Has taken primary custody of carcasses from the Circle of Hunters and is actively sending myconid teams beyond the grove’s boundaries under opaque directives.  
 
 ## Uncertainty
-- The physical form or structure of the "Circle of Masters" as a location (e.g., a chamber, ring of fungi, etc.) is not described.  
-- Whether the myconids sent outside the grove return or are lost is unknown.  
-- The method or mechanics of reanimation are not detailed.  
-- It is unclear if "Circle of Masters" refers to a physical place or merely a group — the entry labels it a location, but the quote describes it as a group of myconids.
+- The exact method or mechanism of reanimation is unspecified.  
+- The purpose of sending myconids outside the grove is unknown.  
+- The physical form or structure of the "Circle of Masters" (e.g., a physical location, a council, a ritual space) is not described.  
+- It is unclear whether all members are myconids or if other entities are involved.  
+- No information on whether the Circle of Masters has suffered losses, gained new members, or changed leadership since Chapter 31.
