@@ -41,3 +41,5 @@ docs/.triage_queue*.json
 # Source PDFs for character-sheet conversions (raw D&D Beyond exports; the
 # converted .md under docs/party/ is the versioned artifact, not the PDF)
 docs/party/old/*.pdf
+docs/background/.module_inventory/
+docs/background/.spell_canon/
