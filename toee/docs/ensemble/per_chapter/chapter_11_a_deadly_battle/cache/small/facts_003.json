@@ -1,0 +1,44 @@
+[
+  {
+    "type": "npc",
+    "subject": "Rithelm Drake",
+    "fact": "Rithelm Drake is a burly human soldier who remembered an abandoned monastery near Gallow's Corner and offered to buy a drink after realizing the party were adventurers, lamenting he once considered being one himself before settling down with a wife and three kids.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Gonnathrad Kevanarial",
+    "fact": "Gonnathrad Kevanarial is a skinny High Elf Diplomat dressed in a fancy red tunic who became overly excited at the prospect of being a 'quest giver', offered to write a five-page backstory, and provided a letter of permit confirming he hired the party to pursue the chest near the monastery at Gallow's Corner, promising 100 gold pieces as a reward when presented to Caer Ostverk.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "letter of permit",
+    "fact": "The letter of permit confirms Gonnathrad Kevanarial hired the party to pursue the chest near the monastery at Gallow's Corner and promises a reward of 100 gold pieces when presented to Caer Ostverk.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "abandoned monastery near Gallow's Corner",
+    "fact": "The abandoned monastery near Gallow's Corner is the target location referenced by both Rithelm Drake and Gonnathrad Kevanarial, confirmed as the site of the chest the party was hired to pursue.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Caer Ostverk",
+    "fact": "Caer Ostverk is the destination where the letter of permit must be presented to claim the 100 gold piece reward, and the town from which the party made their exit to avoid drawing attention due to their appearance.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "party's exit from Ostverk",
+    "fact": "The party exited Ostverk as quickly as possible to minimize attention, having obtained the confirmed location of the abandoned monastery and the letter of permit, and now intent on following the lead.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "purpose of pursuing the chest",
+    "fact": "The reason the party wants to pursue the chest near the abandoned monastery at Gallow's Corner remains unexplained, despite the letter of permit and reward offer \u2014 the party's own motives are undisclosed.",
+    "quote_verified": false
+  }
+]

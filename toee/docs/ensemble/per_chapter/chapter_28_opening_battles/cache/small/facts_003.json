@@ -1,0 +1,121 @@
+[
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a war cleric of St. Cuthbert who hates undead with theological certainty, but recently exhibited unnerving, escalating fervor during combat \u2014 including a vocal, repetitive 'yes yes yes' eruption, divine power release, and loss of self-control \u2014 raising questions about whether his actions stem from him or something wearing his voice.",
+    "source_quote": "Calmer was going \"yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes!\" The cursing started. *This is how the power of\u2014* and then more cursing. The sentence never finished. He didn't need it to.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia has observed Calmer\u2019s behavioral shifts with quiet concern, noting his unnatural intensity and possible loss of self \u2014 particularly his tendency to 'go native' under pressure \u2014 and has filed these observations without voicing them aloud, treating them as operational anomalies rather than personal crises.",
+    "source_quote": "The concern Zinnia had put into words once, something about Calmer going native, which I am choosing not to look at directly.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia is an assassin and scout who reads environmental traces with precision \u2014 foot traffic, bloodstain direction, armor placement \u2014 and acted decisively to end the final ghoul with a clean arrow shot through the back before it could escape the corridor.",
+    "source_quote": "Sequoia put an arrow in the back of the last one before it made it out the corridor. Clean finish. That's Sequoia.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kelno",
+    "fact": "Kelno is an Air Temple cleric who appeared as background noise during prior interactions, but has now revealed himself as a covert operator exploiting the temple war \u2014 using the chaos to send his agents through hidden passages to loot corpses, weapons, and coin while others fight and die.",
+    "source_quote": "Kelno's people. The Air Temple cleric who had sat across from Romag's table like furniture, quiet enough that I'd filed him under *background noise* and moved on. That was a mistake.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple is a religious order whose recently deceased members have been necromantically raised as ghouls and deployed as looters and combatants within the dungeon, indicating active, coordinated necromantic interference during the ongoing temple war.",
+    "source_quote": "Because the ghouls had been Earth Temple members. Recently dead, recently raised.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Kelno's Network",
+    "fact": "Kelno's Network is a covert faction operating within the Air Temple, using the chaos of the temple war to infiltrate and loot the dungeon through hidden passages, targeting corpses, weapons, and coin with disciplined efficiency \u2014 a strategic move to emerge stronger while others exhaust themselves.",
+    "source_quote": "Kelno had read the board and decided his move was to let the other temples destroy each other while his people walked the corridors with empty bags and filled them.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Wraith",
+    "fact": "The wraith is a stationary, patient undead entity that occupies a corridor with hollow patience, neither attacking nor retreating as parties pass \u2014 its inaction is more unnerving than aggression, suggesting it waits for something specific to trigger its movement.",
+    "source_quote": "The wraith was where we'd left it. Same corridor. Same cold. Same hollow patience. The wraith didn't move as we cleared its territory. That was worse.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Ghouls",
+    "fact": "Ghouls are necromantically raised undead, originally members of the Earth Temple, now acting as organized looters and combatants \u2014 moving with purpose, not panic, dragging weapons and coin through hidden passages, indicating command and control beyond random undeath.",
+    "source_quote": "They weren't fleeing the battle. They were shopping in it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Calmer's Divine Outburst",
+    "fact": "Calmer experienced an uncontrolled eruption of divine power \u2014 a visible, audible surge of holy wrath that overwhelmed three remaining ghouls, causing them to flee in terror \u2014 an event that broke the expected pattern of cleric combat and suggested a deeper, possibly corrupted, connection to his deity.",
+    "source_quote": "The holy wrath came out of him like something that had been stored under pressure for weeks. It hit the room \u2014 all three remaining ghouls unable to hold against it, every last one of them \u2014 and they *fled*.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Necromantic Interference",
+    "fact": "A necromancer is actively operating within the dungeon, raising recently deceased temple members \u2014 specifically Earth Temple corpses \u2014 and deploying them as looters and combatants during the ongoing war, indicating access to corpses, knowledge of temple structures, and strategic intent.",
+    "source_quote": "Someone with necromantic power was working in this dungeon right now, during our carefully engineered war, with access to our people's corpses and apparent interest in deploying them.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Second Level Corridors",
+    "fact": "The second level corridors are a war-torn labyrinth of blood trails, broken bottles, shoved armor, and hidden passages \u2014 showing signs of structural collapse, looting, and coordinated movement by non-player factions, indicating the battle has evolved beyond open combat into underground subversion.",
+    "source_quote": "Broken bottles scattered across the floor like someone had celebrated early and poorly. Armor shoved against the walls \u2014 not placed, shoved, the way you clear a path in a hurry.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Air Temple",
+    "fact": "The Air Temple is a once-sacred space now reduced to a battleground littered with signs of recent violence and abandonment \u2014 the wraith still occupies its central corridor, and Kelno\u2019s agents use its hidden passages to move undetected.",
+    "source_quote": "When we moved back through the Air Temple, the wraith was where we'd left it. Same corridor. Same cold. Same hollow patience.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Calmer's Identity",
+    "fact": "There is an unresolved thread concerning whether Calmer\u2019s recent divine outbursts and vocal mania are the result of his own faith intensifying under pressure \u2014 or whether he is being overwritten by an external, possibly infernal or celestial, entity using his body and voice as a vessel.",
+    "source_quote": "The second thought was quieter and I didn't linger on it. The second thought was: *is that him, or is that something else wearing his voice?*",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Kelno's Endgame",
+    "fact": "Kelno\u2019s silent manipulation of the temple war raises the question of what his true objective is \u2014 whether he seeks to claim the dungeon for himself, to resurrect a lost power, or to eliminate all rivals and emerge as the sole surviving temple authority.",
+    "source_quote": "Kelno had read the board and decided his move was to let the other temples destroy each other while his people walked the corridors with empty bags and filled them.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Necromancer's Identity",
+    "fact": "The identity and allegiance of the necromancer raising Earth Temple corpses remains unknown \u2014 whether they are a rogue agent, a traitor within the temples, or an external force exploiting the war to rebuild an undead army.",
+    "source_quote": "Someone with necromantic power was working in this dungeon right now, during our carefully engineered war, with access to our people's corpses and apparent interest in deploying them.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Dropped Ghoul",
+    "fact": "The dropped ghoul \u2014 killed by Sequoia\u2019s arrow before it could act \u2014 is a physical artifact of necromantic interference, bearing the insignia of the Earth Temple and demonstrating the precision of its reanimation and deployment.",
+    "source_quote": "I looked at the dropped ghoul \u2014 my ghoul, killed before it could act, the assassin's precision Zinnia respects and won't say he respects \u2014 and then at the door where the others had fled.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "After the Second Level Descent",
+    "fact": "The events described occurred immediately after the party\u2019s descent into the second level corridors, following a failed short rest and the re-encounter with the wraith \u2014 marking a critical turning point in the war where chaos transitions from battlefield to subterranean conspiracy.",
+    "source_quote": "The second level hit different the moment we reached it.",
+    "quote_verified": true
+  }
+]

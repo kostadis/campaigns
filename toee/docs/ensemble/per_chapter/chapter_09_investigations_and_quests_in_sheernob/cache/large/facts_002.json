@@ -1,0 +1,72 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia is a tiefling who initially readied weapons against a dryad but was urged to stand down by Zephyr, and later reflected on the morality of theft after hearing the dryad's explanation.",
+    "source_quote": "Zinnia readies his weapons, but Zephyr urges him to stop.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is a tiefling who intervened to prevent violence against a dryad, explained the ethics of ownership and theft, and challenged the dryad's justification for stealing.",
+    "source_quote": "You\u2019re a tiefling? Yes. Come from the abyss to torment me? Or am I finally in the abyss of my despair? No, but you really should not steal.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Dryad",
+    "fact": "The dryad is a sentient forest spirit who stole a barrel out of emotional distress, believed her beloved no longer loved her, and after Zephyr\u2019s counsel, admitted she did not intend to steal \u2014 only that she was overwhelmed by sorrow.",
+    "source_quote": "She doesn\u2019t love me! ... Well, I didn\u2019t want to steal. I was just so upset.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Dryad",
+    "fact": "The dryad is a humanoid creature with branches extruding from its arms and leaves growing on its head, appearing sad and weeping over a stolen barrel, and later revealed itself as a forest spirit mourning lost love.",
+    "source_quote": "It is a humanoid, with branches extruding from its arms and leaves growing on its head. The beast looks sad as it stares at a barrel. ... The creature explains that it is a dryad, and its beloved doesn\u2019t think they are their beloved. And then the creature sobs.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Barrel",
+    "fact": "The barrel was stolen by the dryad and later identified as not belonging to her; it was the object of her emotional attachment and the subject of Zephyr\u2019s moral lesson on ownership and theft.",
+    "source_quote": "It stares at a barrel. ... The barrel wasn\u2019t his for the taking, that drinking the barrel requires opening it up and drinking from it, and that stealing is wrong.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Footprints",
+    "fact": "The footprints were observed near the site of the barrel\u2019s theft and described as an 'easy trail,' suggesting the thief left clear signs of passage.",
+    "source_quote": "Zinnia looks at the footprints, or what appears to be footprints, and mutters, 'Easy trail.'",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Glade in the forest",
+    "fact": "The glade is a secluded forest clearing where the dryad was found near a solitary tree, surrounded by tall grass, and where Zephyr delivered his moral reckoning.",
+    "source_quote": "Zinnia is again in a glade in the forest an hour or so later. This time, a solitary tree is in the middle of the tall grass. Near the tree is a strange creature.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "moral reckoning",
+    "fact": "Zephyr confronted the dryad\u2019s justification for theft, rejected the notion that abandonment permits stealing, and established that ownership requires consent and that emotional distress does not override moral boundaries.",
+    "source_quote": "But I was told when humans are dumped, they drink. ... Zephyr explains that the barrel wasn\u2019t his for the taking, that drinking the barrel requires opening it up and drinking from it, and that stealing is wrong.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "lost love of the dryad",
+    "fact": "The dryad believes her beloved no longer loves her, a belief that drove her to theft and despair, and remains unresolved despite Zephyr\u2019s counsel.",
+    "source_quote": "She doesn\u2019t love me! ... Its beloved doesn\u2019t think they are their beloved. And then the creature sobs.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "30th of this month",
+    "fact": "The 30th of this month is the date when a feast was promised to be held, referenced at the beginning of the narrative as a point of social expectation.",
+    "source_quote": "Yes! I will throw the most fantastic feast on the 30th of this month! And I promised a feast for you and your friends.",
+    "quote_verified": false
+  }
+]

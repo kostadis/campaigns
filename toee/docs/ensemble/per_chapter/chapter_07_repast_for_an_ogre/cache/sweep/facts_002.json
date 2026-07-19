@@ -1,0 +1,275 @@
+[
+  {
+    "type": "location",
+    "subject": "laboratory",
+    "fact": "The laboratory contains an alchemy lab and a book of magical formulae.",
+    "source_quote": "It\u2019s a laboratory that includes an alchemy lab and a book of magical formulae.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "shelf of moldering books",
+    "fact": "The shelf holds moldering books.",
+    "source_quote": "There\u2019s a shelf of moldering books.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "forge",
+    "fact": "The forge is in the far corner.",
+    "source_quote": "And a forge in the far corner.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "cultists",
+    "fact": "Two cultists are present and attack.",
+    "source_quote": "And two cultists. They attack.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Spugnoir",
+    "fact": "Spugnoir walks over the cultists' bodies bleeding out and is super excited.",
+    "source_quote": "Spugnoir walks over their bodies bleeding out on the ground and is super excited \u2014 'Mon Dieu, this is amazing! This is incredible.'",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "laboratory",
+    "fact": "Spugnoir shouts in the laboratory about two potions of gaseous form, a potion of healing, and a magical dagger.",
+    "source_quote": "He walks to the laboratory and shouts, 'Two potions of gaseous form. A potion of healing. And yes, look at this, a magical dagger!'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia gets the magical dagger after debate.",
+    "source_quote": "There\u2019s a bit of debate about who gets the dagger, but fair is fair, and Zinnia gets it.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "secret door",
+    "fact": "Spugnoir mutters that there is a secret door somewhere.",
+    "source_quote": "Spugnoir looks around, frustrated, and mutters, 'There is a secret door somewhere.'",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "filthy, cracked fountain",
+    "fact": "The fountain leaked onto the floor ages ago, leaving greenish stains, and has recently been mended with water being pumped again.",
+    "source_quote": "I take a quick look and point it out to him. 'Very well.' He looks at me as if it\u2019s my job to go through every secret door. I look at Sequoia, who looks right back at me. I groan, 'Fine.' Sneaking, I enter a room containing a filthy, cracked fountain that leaked onto the floor ages ago, leaving greenish stains. The fountain has recently been mended, and water is being pumped again\u2014a cauldron, fire pit, and rotting cupboards full of moldy foods.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "cauldron",
+    "fact": "The cauldron is part of the fountain's recent mending and water-pumping system.",
+    "source_quote": "The fountain has recently been mended, and water is being pumped again\u2014a cauldron, fire pit, and rotting cupboards full of moldy foods.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "fire pit",
+    "fact": "The fire pit is part of the fountain's recent mending and water-pumping system.",
+    "source_quote": "The fountain has recently been mended, and water is being pumped again\u2014a cauldron, fire pit, and rotting cupboards full of moldy foods.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "rotting cupboards",
+    "fact": "The rotting cupboards are full of moldy foods.",
+    "source_quote": "The fountain has recently been mended, and water is being pumped again\u2014a cauldron, fire pit, and rotting cupboards full of moldy foods.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "even smaller door",
+    "fact": "An even smaller door is in the corner of the room.",
+    "source_quote": "An even smaller door is in the corner of the room. I walk quietly to it and open it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "cultist\u2019s leader",
+    "fact": "The cultist\u2019s leader is not happy to see the intruder.",
+    "source_quote": "Inside is the cultist\u2019s leader. He\u2019s not happy to see me.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Lolth",
+    "fact": "The cult belongs to Lolth, a spider idol, and the worshipper is human.",
+    "source_quote": "I look them over to find out what cult they belong to. Well, that\u2019s interesting; it's a spider idol. Looking it over closely, I realize it must be Lolth. A human worshipper of Lolth.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "battered bedroom",
+    "fact": "The bedroom has gnome-scale furniture: a bed, dresser, chest of drawers, coal bin, and pot-bellied stove, all mildewy and damaged from neglect.",
+    "source_quote": "With the cultist dead, I can look over the room. It\u2019s a battered bedroom with gnome-scale furniture, including a bed, dresser, chest of drawers, coal bin, and pot-bellied stove. The furniture is mildewy and damaged from neglect.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "three bedrolls",
+    "fact": "There are three bedrolls in the bedroom.",
+    "source_quote": "There are three bedrolls here.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "scroll of fog",
+    "fact": "The scroll contains fog, silent image, gust of wind, misty step.",
+    "source_quote": "Spungoir is super excited, 'A scroll of fog, silent image, gust of wind, misty step!'",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "spell book",
+    "fact": "The spell book contains feather fall, fog cloud, mage armor, magic missile, protection from good and evil, silent image, Tenser\u2019s floating disk, unseen servant, gust of wind, misty step, rope trick, fly, gaseous form, magic circle, and sleet storm.",
+    "source_quote": "And look, a spell book with feather fall, fog cloud, mage armor, magic missile and protection from good and evil, silent image, Tenser\u2019s floating disk, unseen servant, gust of wind, misty step, rope trick, fly gaseous form, magic circle, and sleet storm!",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Hommlet",
+    "fact": "The group arrives in Hommlet.",
+    "source_quote": "A bit later, we arrived in Hommlet.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia asks whether to rest another day or head out.",
+    "source_quote": "Zinia asks, 'So, do we rest another day or head out?'",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "workers' encampment",
+    "fact": "The workers' encampment is near the fortress.",
+    "source_quote": "I want to find out who copied the map. A good place to start is the workers' encampment near the fortress.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is a 30-ish-year-old man with a construction worker\u2019s build but unusual grace.",
+    "source_quote": "And I am in luck: a man 30-ish years old, whose build is that of a construction worker but whose grace indicates something more, walks up to me.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia has the bandit captain after the mooks are killed.",
+    "source_quote": "They are all dead except for the Captain, who ran away.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Hestort Flintshine",
+    "fact": "Hestort Flintshine, nicknamed Tort, is five feet tall and thin as a rail.",
+    "source_quote": "Hestort is five feet tall and thin as a rail.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Tort",
+    "fact": "Tort works for Terjon and with the Duke, but does not know who the Duke works for.",
+    "source_quote": "I work for Terjon. ... I just know the Duke is working with some shady people. ... I don\u2019t know who is in charge. I just work with the Duke. He gave me some money to get the plans. ... I don\u2019t know. I know it\u2019s someone in the village.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a cleric of St. Cuthbert who uses divine power to repel zombies.",
+    "source_quote": "The cleric of St. Cuthbert walks into the hallway... and shouts, 'By the Power of St Cuthbert, BEGONE ZOMBIES!!!'",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "moat house",
+    "fact": "The moat house dungeon contains a hallway with zombies, cells, a torture chamber, and a room with green slime.",
+    "source_quote": "A bit later, in the moathouse dungeon. ... To the east of this hallway are cells from where the zombies fled. To the west, he notices a torture chamber. ... They look old and broken. ... They encountered some green slime.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "50 shields",
+    "fact": "There are 50 shields in the room.",
+    "source_quote": "Sequoia announces that there are '50 shields, 12 suits of leather armor, and several barrels of salted meat.'",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "12 suits of leather armor",
+    "fact": "There are 12 suits of leather armor in the room.",
+    "source_quote": "Sequoia announces that there are '50 shields, 12 suits of leather armor, and several barrels of salted meat.'",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "barrels of salted meat",
+    "fact": "There are several barrels of salted meat in the room.",
+    "source_quote": "Sequoia announces that there are '50 shields, 12 suits of leather armor, and several barrels of salted meat.'",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "black robes",
+    "fact": "The black robes symbolize the fire temple.",
+    "source_quote": "The room to the north contains even more weapons and black robes that symbolize the fire temple.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "torture room",
+    "fact": "The torture room has recently used torture devices and a trail of blood leading to a secret door.",
+    "source_quote": "The place seems long abandoned, covered in dust and cobwebs. ... these skeletons are not that old. And these torture devices have been used very recently indeed. ... a trail of blood, 'Gotcha.' ... disappearing in a pillar to the south.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "secret door",
+    "fact": "The secret door opens into a 30-foot-deep shaft with rungs.",
+    "source_quote": "He taps the pillar, and a door opens, 'The secret door.' Opening it, he sees a shaft going down. He looks down and whispers, 'It\u2019s about 30 feet deep, and rungs have been placed into the shaft.'",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "crypt",
+    "fact": "The crypt has empty niches, a splintered coffin with gnawed bones, and four ghouls.",
+    "source_quote": "It\u2019s a crypt. Many of the niches are empty. The niche the secret door opened has a coffin that is splintered. ... gnawed and split bones. ... four of them. ... withered body ... bulbous belly ... eyes as black as pitch ... black tongue.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "passageway to east",
+    "fact": "The passageway leads to a T intersection.",
+    "source_quote": "From the crypts, a passageway leads east to a T intersection.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "giant pool",
+    "fact": "The giant pool is enlarged, frigid, surrounded by bones, and contains a pin with a ruby and a small tube.",
+    "source_quote": "At the end of the southern passageway is a giant pool. He examines it a bit more carefully and realizes that it is enlarged. Around the pool are bones. And the place is frigid. ... some coin, and there in the water on a ledge is a pin with a ruby and a small tube.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "pin with ruby and small tube",
+    "fact": "The pin has a ruby and a small tube, and is located on a ledge in the giant pool.",
+    "source_quote": "there in the water on a ledge is a pin with a ruby and a small tube.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "southeast passageway",
+    "fact": "The southeast passageway leads 100+ feet north to a door.",
+    "source_quote": "Sequoia looks down the passage heading 100 or more feet north from the room with the crayfish, ending in a door, and marches down it. About 30 feet from the door, he sees a southeast passageway and turns down it.",
+    "quote_verified": true
+  }
+]

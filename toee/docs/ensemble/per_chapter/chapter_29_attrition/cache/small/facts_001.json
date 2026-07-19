@@ -1,0 +1,93 @@
+[
+  {
+    "type": "npc",
+    "subject": "The Wraith",
+    "fact": "The Wraith is an ancient entity who has been feasting on the dead of the war for weeks, now has seven specter minions raised from bodies the party helped kill, and is willing to converse in exchange for acknowledgment and audience. He is no longer merely menacing but exhibits collegial warmth and a sense of shared purpose.",
+    "source_quote": "I now have minions. ... You provided me so much tasty food! Food! ... I want to thank you about something.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a zealot who fixates on smiting powerful foes, especially the wraith, and misinterprets caution as encouragement. He attempted to force open the Greater Temple door with brute force, drawing the wraith\u2019s amusement.",
+    "source_quote": "I can kill him! I can kill him, I can so totally kill him!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Voice Behind the Door",
+    "fact": "The Voice is an authoritative presence representing the Greater Temple, which has sealed itself and the lesser temples to await the conclusion of the war. It refuses entry or exit, implying the war is not yet over and survival is the prerequisite for meeting its masters.",
+    "source_quote": "The Greater Temple is sealed until the battle is over. No one gets in, no one gets out. ... Survive the fight, and maybe you'll get a chance.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "The Greater Temple",
+    "fact": "The Greater Temple is the hidden authority overseeing the war, sealing the lesser temples and waiting for the conflict to resolve itself. It operates through silence, control, and selective revelation, and its agents are not directly seen but exert influence through the wraith and the sealed doors.",
+    "source_quote": "The Greater Temple is the deep temple. It's the people who are really in charge.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "The Seven Specters",
+    "fact": "Seven spectral entities, raised from the corpses of Earth Temple forces killed by the party, now serve the wraith as minions. They are tangible manifestations of the party\u2019s past violence, bound to the wraith\u2019s will and positioned as tools of future conflict.",
+    "source_quote": "I now have minions. ... One, two, three. Four, five. Mostly Earth Temple forces.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Sealing of the Lesser Temples",
+    "fact": "The Greater Temple has activated its ancient protocol, sealing all lesser temples \u2014 Air, Water, Fire, Earth \u2014 to contain the war and await its natural conclusion. The party is now trapped inside, unable to leave until the battle ends or they survive it.",
+    "source_quote": "The Greater Temple is sealed until the battle is over. No one gets in, no one gets out.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Greater Temple",
+    "fact": "The Greater Temple is a sealed, ancient structure at the heart of the temple complex, physically inaccessible and radiating authority. It has been the unseen command center of the war, and its door is now braced from within by an unknown force.",
+    "source_quote": "The door didn't cooperate. Something held it from the other side: braced, or barricaded, or committed to not opening.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Earth Temple Passage",
+    "fact": "The passage leading to the Greater Temple is littered with corpses, looted and abandoned, many bearing the insignia of Earth Temple forces. These bodies have been consumed by the wraith and now serve as the foundation for his spectral army.",
+    "source_quote": "The bodies along the passage didn't clarify matters. Looted already, by the time we got there.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Meeting the Masters of the Greater Temple",
+    "fact": "The party has been given a conditional invitation to meet the unseen rulers of the Greater Temple: survive the war. The path forward hinges on navigating the wraith\u2019s growing power, the sealed doors, and the unresolved conflict that continues to claim lives.",
+    "source_quote": "Survive the fight, and maybe you'll get a chance.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "The Sealed Door",
+    "fact": "The door to the Greater Temple is physically reinforced from the inside \u2014 braced, barricaded, or magically held shut \u2014 and resists all attempts to open it, including Calmer\u2019s hammering. It is the final barrier between the party and the true power behind the war.",
+    "source_quote": "Something held it from the other side: braced, or barricaded, or committed to not opening.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Weeks of Feasting",
+    "fact": "The wraith has been alone in the temple corridors for weeks, sustained only by the dead left behind by the war. This duration underscores his isolation, his patience, and the scale of the violence that has occurred since his emergence.",
+    "source_quote": "It had been alone in this corridor for weeks, feasting on whatever the war left behind.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia expresses resigned acceptance of fate, offering the dry remark 'Lucky me' in response to the wraith\u2019s ominous declaration. Their tone suggests a long-standing awareness of the absurdity and cyclical nature of the conflict.",
+    "source_quote": "Lucky me.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Narrator",
+    "fact": "The Narrator is a strategic observer who recognizes patterns of power, understands the value of dialogue over force, and deliberately engages the wraith not as a monster but as an entity with agency. They have learned to manipulate attention and audience to extract information.",
+    "source_quote": "I gave it that. I could feel the room tilt: the wraith no longer performing menace but something closer to collegial warmth.",
+    "quote_verified": true
+  }
+]

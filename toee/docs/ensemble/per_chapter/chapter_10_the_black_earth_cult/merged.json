@@ -1,0 +1,2224 @@
+[
+  {
+    "type": "date",
+    "subject": "Planting 22, 579",
+    "fact": "Date of the feast where ingredients became animated and the mead barrel was delivered to the Honey Tavern Inn. Marks the beginning of the party\u2019s involvement with the Black Earth Cult\u2019s activities.",
+    "source_quote": "Planting 22, 579",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "Planting 23, 579",
+    "fact": "Date of the caravan attack investigation, the discovery of glowing runes, the infiltration of the cult encampment, and the consumption of the animated potato. The pivotal day of the party\u2019s confrontation with the cult.",
+    "source_quote": "Planting 23, 579",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events continue on Planting 23, 579.",
+    "source_quote": "Planting 22, 579",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occur during a single, continuous encounter with no temporal breaks, implying a single session or scene in play.",
+    "source_quote": "Then it gets properly nasty... Things are far from over.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 22nd day of Planting, 579.",
+    "source_quote": "Planting 22, 579",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "animated broccoli pursuit",
+    "fact": "A broccoli, animated and moving with unnatural speed, fled toward the apothecary with magical potions and stuff.",
+    "source_quote": "the broccoli was my best bet. It took off like a shot towards the apothecary, that place with all the magical potions and stuff.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "animated food incident",
+    "fact": "During the feast on Planting 22, 579, ingredients including broccoli and potatoes became animated and fled into the village, causing chaos. The broccoli headed toward the apothecary, and the potatoes were later captured and consumed. This event was linked to the Black Earth Cult\u2019s influence.",
+    "source_quote": "some of the ingredients were animated and they rushed into the village... Bouncing potatoes... It\u2019s just bouncin, bouncin, bouncin on down the road...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "animated ingredients flee",
+    "fact": "Some ingredients from the feast became animated and rushed into the village.",
+    "source_quote": "some of the ingredients were animated and they rushed into the village",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "animated potato ambush",
+    "fact": "Three animated potatoes, one of which was stabbed and the others stunned, were captured and later consumed in a honey-glazed forest stew.",
+    "source_quote": "Bouncing potatoes,\u201d I shout to Seqoia and run after them. The potatoes stare at me as if taunting me. I grab one, and the other two pause as if angry. So I take my knife and stab the one in my hand. The other two potatoes are stunned.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Black Earth chant revelation",
+    "fact": "Surviving guards reported that the attackers chanted \u2018Black Earth\u2019 and carried weapons of stone, linking the assault to the cult.",
+    "source_quote": "The guards who survived said that the attackers chanted \u2018Black Earth\u2019 and carried weapons of stone.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "broccoli animated",
+    "fact": "An animated broccoli ran toward the apothecary shop.",
+    "source_quote": "It took off like a shot towards the apothecary",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "broccoli as animated object",
+    "fact": "A broccoli, previously considered mundane, was revealed as an animated object capable of independent movement and direction toward the apothecary.",
+    "source_quote": "I figured the broccoli was my best bet. It took off like a shot towards the apothecary, that place with all the magical potions and stuff. Honestly, I wasn't quite sure what to do. Part of me thought, \"Let it go, it's just a broccoli.\"",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "broccoli destroyed",
+    "fact": "Sequoia shot the animated broccoli, causing it to collapse.",
+    "source_quote": "I roll, and I can\u2019t remember if I hit, but yes, I do and it just kind of collapses.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer hit the Stone Golem with a holy spell and dealt a ton of damage.",
+    "source_quote": "Calmer hits it with some kind of holy spell, deals a ton of damage",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer shouted, \"Magic was used here, or something very big. This isn\u2019t just a bunch of brigands.\"",
+    "source_quote": "Calmer shouts, \"Magic was used here, or something very big. This isn\u2019t just a bunch of brigands.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "calmer\u2019s failed bluff",
+    "fact": "Calmer attempted to bluff the cultists by claiming to be lost, but the druid Thalsor immediately recognized them as intruders and denounced their presence.",
+    "source_quote": "Calmer tries to bluff these bandits\u2013or whatever they are\u2013about being lost, but it\u2019s backfiring something fierce. \u2026 He\u2019s not buying what Calmer\u2019s selling.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "caravan ambush cause",
+    "fact": "The caravan ambush was not caused by bandits, but by magical cultists wielding stone weapons and chanting \u2018Black Earth,\u2019 as confirmed by surviving guards and magical residue.",
+    "source_quote": "The guards who survived said that the attackers chanted \u2018Black Earth\u2019 and carried weapons of stone. \u2026 Calmer shouts, \u201cMagic was used here, or something very big. This isn\u2019t just a bunch of brigands.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "caravan attack",
+    "fact": "The caravan was ambushed on the road near the Kron Hills. Wagons were overturned, barrels broken, and honey jars scattered. Magic was used, evidenced by glowing runes and large footprints. Survivors reported attackers chanting 'Black Earth' and wielding stone weapons, indicating a cult attack rather than banditry.",
+    "source_quote": "The ground is churned up... Magic was used here... faintly glowing runes etched into the rocks... chanted 'Black Earth' and carried weapons of stone.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "caravan attacked",
+    "fact": "The caravan was attacked and did not take the standard road.",
+    "source_quote": "They didn\u2019t take the standard road, the fools.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "cultist armor description",
+    "fact": "The cultists wore stone-studded leather armor and carried stone weapons, indicating ritualistic devotion to earth and stone.",
+    "source_quote": "The guardian are wearing stone-studded leather armor and carrying stone weapons.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "cultist identification",
+    "fact": "Cultists wearing stone-studded leather armor and carrying stone weapons were identified as the perpetrators of the caravan ambush and guardians of the stolen honey.",
+    "source_quote": "The guardian are wearing stone-studded leather armor and carrying stone weapons. \u2026 I whisper, \u201cThese are the guys.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "cultist negotiation attempt",
+    "fact": "Thalsor attempted to negotiate during combat, offering trade in exchange for the honey, but refused to surrender it.",
+    "source_quote": "Then, Thalsor he brings out something else. \u2026 Weird guy. Offers to trade, anything but giving up the honey.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "cultist retreat confirmation",
+    "fact": "All surviving guards who witnessed the attack have since left the town, preventing direct interrogation.",
+    "source_quote": "they have all since left our town.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "falling rocks",
+    "fact": "The party almost got crushed by falling rocks while following the trail.",
+    "source_quote": "we almost get crushed by falling rocks.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "final battle outcome",
+    "fact": "The party engaged in a chaotic, multi-phase battle against Thalsor, his mud men, the stone golem, and cultist minions, ultimately surviving but not yet defeating the cultists.",
+    "source_quote": "Things are far from over.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Glannon",
+    "fact": "Glannon looked at the barrel.",
+    "source_quote": "Glannon looks at the barrel.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Glannon",
+    "fact": "Glannon realized his mistake.",
+    "source_quote": "He realizes his mistake, \"No, I didn\u2019t mean it that way.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "honey-glazed forest stew",
+    "fact": "A honey-glazed forest stew, consumed after the potato ambush, was described as a blessing and a satisfying meal.",
+    "source_quote": "And a few hours later, the potato is in my belly. And I feel blessed. The honey-glazed forest stew feels like a blessing indeed.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "honey theft motive",
+    "fact": "The stolen honey was claimed by the Black Earth Temple as tribute to the Earth Mother, not mere plunder.",
+    "source_quote": "That honey now belongs to the Black Earth Temple, a tribute to her enduring might.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "infiltration of Black Earth Cult encampment",
+    "fact": "The party infiltrated the hidden encampment in the Kron Hills using a split strategy: Calmer attempted a bluff at the gate while Zinnia, Zephyr, and Sequoia scaled the wall. Calmer\u2019s ruse failed as Thalsor denounced them for desecrating sacred ground. The encampment contained barrels of honey, a stone temple, and stone-wielding cultists.",
+    "source_quote": "We've just gotten over the wall... Calmer tries to bluff these bandits... Thalsor... starts shouting about the earth mother... Inside the walls is a temple... as well the barrels that we are looking for.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Lareth\u2019s target identification",
+    "fact": "The Black Earth Cult is identified as the target Lareth wants killed, likely due to their possession of a box he seeks.",
+    "source_quote": "This might be the clue and evidence we need. It certainly is who Lareth wants us to kill, and they might have this box that Lareth wants.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "mud man explosion effect",
+    "fact": "When the mud men were defeated, they exploded, creating area-denial effects that hindered movement and required evasion.",
+    "source_quote": "When these mud men go down, they kind of explode, make it so you can\u2019t move. I\u2019m quick enough to dodge the worst of it, but still, it\u2019s a nasty trick.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "mud men appearance",
+    "fact": "Two mud men appeared beside Calmer during combat, summoned by Thalsor\u2019s incantation, causing chaotic battlefield effects.",
+    "source_quote": "Suddenly two muddy creatures appear right beside Calmer. Mud men. Not something you see every day.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "mud men explosion",
+    "fact": "Upon death, the mud men explode, creating an area-of-effect immobilization hazard that forces the party to dodge or suffer consequences.",
+    "source_quote": "When these mud men go down, they kind of explode, make it so you can\u2019t move.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "mud men summoned",
+    "fact": "Thalsor summoned two muddy creatures called mud men beside Calmer.",
+    "source_quote": "suddenly two muddy creatures appear right beside Calmer. Mud men.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Palsmarie Clee",
+    "fact": "Palsmarie Clee asked if she had walked into the Inn or was always there.",
+    "source_quote": "Has she walked into the Inn, or was she always there?",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Palsmarie Clee",
+    "fact": "Palsmarie Clee coughed.",
+    "source_quote": "Palsmarie Clee coughs.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Palsmarie Clee",
+    "fact": "Palsmarie Clee said she didn\u2019t know who did it.",
+    "source_quote": "\"I don\u2019t know.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Palsmarie Clee",
+    "fact": "Palsmarie Clee said the guards had all left town.",
+    "source_quote": "They have all since left our town.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Palsmarie Clee",
+    "fact": "Palsmarie Clee said the survivors said the attackers chanted 'Black Earth' and carried stone weapons.",
+    "source_quote": "The guards who survived said that the attackers chanted \u2018Black Earth\u2019 and carried weapons of stone.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Palsmarie Clee",
+    "fact": "Palsmarie Clee showed the map and said the caravan didn\u2019t take the standard road.",
+    "source_quote": "\"Let me show you on the map where the caravan was. They didn\u2019t take the standard road, the fools. Go there, follow the bandits, and get the honey.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Palsmarie Clee\u2019s silent presence",
+    "fact": "Palsmarie Clee, the beekeeper druid of Sheernobb, entered the Inn silently, her presence unnoticed until she coughed.",
+    "source_quote": "As I put the last bit of food in my mouth, Palsmarie Clee coughs. The beekeeper druid of Sheernobb is very quiet. Has she walked into the Inn, or was she always there?",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "potato consumed",
+    "fact": "Zephyr ate one of the captured potatoes.",
+    "source_quote": "a few hours later, the potato is in my belly.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "potato consumption",
+    "fact": "One animated potato was killed, captured, and eaten in a stew, with the eater declaring it more filling than a captured rat.",
+    "source_quote": "And a few hours later, the potato is in my belly. \u2026 \u201cYou served me well, potato. And you were certainly more filling than that rat I caught in that prison.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "potatoes animated",
+    "fact": "Animated potatoes were bouncing around the village.",
+    "source_quote": "Bouncing potatoes",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "potatoes captured",
+    "fact": "Zephyr captured two other animated potatoes in a bag.",
+    "source_quote": "I grab them and stuff them into a bag.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "potato stabbed",
+    "fact": "Zephyr stabbed one animated potato with his knife.",
+    "source_quote": "I take my knife and stab the one in my hand.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "rogue advantage in combat",
+    "fact": "The rogue gained advantage in combat due to training, allowing a flanking strike behind Sequoia during the assault on the cultists.",
+    "source_quote": "I get an advantage because of my rogue training, and I come in right behind Sequoia.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia considered firing a firebolt but feared setting the apothecary on fire.",
+    "source_quote": "Firebolt it? No, then the whole place might catch fire.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia found large footprints leading away from the road.",
+    "source_quote": "Soon found many valuable clues. Large footprints lead away from the road.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia heard voices but realized it was only the owner looking bewildered.",
+    "source_quote": "I think I hear a couple of voices, but no, just the owner looking bewildered.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia mused that the animated broccoli sounded ridiculous but offered more adventure.",
+    "source_quote": "I muse \"Bouncing around the village, causing chaos? Sounded a bit ridiculous, but hey, more adventure, right?\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia noticed that Quinna was both smiling and worried.",
+    "source_quote": "I can\u2019t help but notice that she\u2019s both smiling and worried.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia noticed the ground was churned up.",
+    "source_quote": "The ground is churned up.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia observed the wagon site littered with overturned wagons, broken barrels, and scattered honey jars.",
+    "source_quote": "The wagon is precisely where she said. The site is littered with overturned wagons, broken barrels, and scattered honey jars.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia rolled to hit the broccoli and it collapsed.",
+    "source_quote": "I roll, and I can\u2019t remember if I hit, but yes, I do and it just kind of collapses.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia shouted, \"Magic.\" and pointed at faintly glowing runes etched into the rocks.",
+    "source_quote": "I shout, \"Magic.\" Calmer rushes up to me, and I point at faintly glowing runes etched into the rocks.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia thought, \"Let it go, it's just a broccoli.\"",
+    "source_quote": "Part of me thought, \"Let it go, it's just a broccoli.\"",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia went to town on one of the bandits with a flurry of attacks.",
+    "source_quote": "Sequoia just goes to town on one of the bandits\u2014absolute flurry of attacks.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia whispered, \"These are the guys.\"",
+    "source_quote": "I whisper, \"These are the guys.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia wondered what could be so big and cause so much harm.",
+    "source_quote": "Looking at the footprints, I wonder what could be so big and cause so much harm; whatever it is, it isn\u2019t something good.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia wondered what to do when the broccoli went into the apothecary.",
+    "source_quote": "I\u2019m thinking now that what am I going to do.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia worried that falling rocks were not an accident.",
+    "source_quote": "I am worried that the stones were not an accident, but we find nothing.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "stone golem damaged",
+    "fact": "Calmer's holy spell dealt significant damage to the stone golem.",
+    "source_quote": "Calmer hits it with some kind of holy spell, deals a ton of damage",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "stone golem summoning",
+    "fact": "Thalsor summons a stone golem by activating a stone object, introducing a major new threat into the battle that requires magical damage to overcome.",
+    "source_quote": "He taps this stone thing and \u2013 bam! \u2013 it comes alive. Stone Golem...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "stone golem summoning",
+    "fact": "Thalsor, a druid of the Black Earth Temple, summoned a stone golem resistant to non-magical attacks during combat, which stood despite holy damage.",
+    "source_quote": "He taps this stone thing and \u2013 bam \u2013 it comes alive. Stone Golem, they call it. Big, tough, and resistant to everything but magical attacks.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "stone golem vulnerability",
+    "fact": "The stone golem summoned by Thalsor was resistant to all non-magical attacks, requiring holy or arcane damage to defeat.",
+    "source_quote": "Stone Golem, they call it. Big, tough, and resistant to everything but magical attacks.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "stone runes activation",
+    "fact": "Faintly glowing runes etched into the rocks at the caravan ambush site flared with ominous light during Thalsor\u2019s incantation, confirming magical cultist involvement.",
+    "source_quote": "I point at faintly glowing runes etched into the rocks. Zinnia looks at me, and I nod, \u201cThis is not bandits. This must be the cultists we are looking for.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "stone storm conjuration",
+    "fact": "Thalsor conjured a hail of sharp stones during combat, forcing the party to dodge repeatedly while sustaining minor injuries.",
+    "source_quote": "He conjures up a storm of sharp stones. I manage to dodge most of it, but it still stings like hell.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "stone storm conjuration",
+    "fact": "Thalsor conjures two waves of sharp stones as offensive spells, each forcing the party to dodge and inflicting damage, wearing them down over time.",
+    "source_quote": "He conjures up a storm of sharp stones... Thalsor brings out another hail of stones.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "stone storm conjured",
+    "fact": "Thalsor conjured a storm of sharp stones during the battle.",
+    "source_quote": "he conjures up a storm of sharp stones.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thalsor",
+    "fact": "Thalsor conjured up a storm of sharp stones.",
+    "source_quote": "He conjures up a storm of sharp stones.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thalsor",
+    "fact": "Thalsor laughed harshly and echoed through the cavern.",
+    "source_quote": "His laughter that echoes through the cavern, harsh and unyielding.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thalsor",
+    "fact": "Thalsor ranted about the honey and the earth.",
+    "source_quote": "He starts ranting again about the honey and the earth",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thalsor",
+    "fact": "Thalsor said, \"Come then, insects. Let me show you the futility of your struggle. Let me show you what it means to face the unbreakable will of stone!\"",
+    "source_quote": "\"Come then, insects. Let me show you the futility of your struggle. Let me show you what it means to face the unbreakable will of stone!\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thalsor",
+    "fact": "Thalsor said, \"The very stones you trample upon are older, stronger, and far wiser than any of you could ever hope to be.\"",
+    "source_quote": "\"The very stones you trample upon are older, stronger, and far wiser than any of you could ever hope to be.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thalsor",
+    "fact": "Thalsor said, \"You call yourselves adventurers, but all I see are fools and thieves, unworthy of the honey you dare to steal back.\"",
+    "source_quote": "\"You call yourselves adventurers, but all I see are fools and thieves, unworthy of the honey you dare to steal back.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thalsor",
+    "fact": "Thalsor said, \"You think yourselves heroes?\"",
+    "source_quote": "\"You think yourselves heroes?\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thalsor",
+    "fact": "Thalsor tapped a stone thing and it came alive as a Stone Golem.",
+    "source_quote": "He taps this stone thing and \u2013 bam \u2013 it comes alive. Stone Golem, they call it.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thalsor",
+    "fact": "Thalsor tried to negotiate and offered to trade anything but giving up the honey.",
+    "source_quote": "then suddenly shifts gears and tries to negotiate. Weird guy. Offers to trade, anything but giving up the honey.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thalsor confronts Calmer",
+    "fact": "Thalsor accuses Calmer of trespassing on sacred ground and calls the party fools and thieves.",
+    "source_quote": "You think yourselves heroes? \u2026 You, who scurry above the earth like witless insects \u2026 unworthy of the honey you dare to steal back.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thalsor negotiates",
+    "fact": "Thalsor attempts to negotiate with the party instead of continuing to fight.",
+    "source_quote": "Thalsor isn't happy at all, though. He starts ranting again about the honey and the earth, then suddenly shifts gears and tries to negotiate.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thalsor\u2019s druidic rant",
+    "fact": "Thalsor, a druid of the Black Earth Temple, denounced the party as witless insects and proclaimed the honey as tribute to the Earth Mother, invoking sacred ground and stone wisdom.",
+    "source_quote": "You think yourselves heroes? \u2026 The very stones you trample upon are older, stronger, and far wiser than any of you could ever hope to be. \u2026 That honey now belongs to the Black Earth Temple, a tribute to her enduring might.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thalsor\u2019s stone staff",
+    "fact": "Thalsor wielded a stone staff adorned with jagged crystals, which amplified his magic and caused runes on the walls to flare during his incantations.",
+    "source_quote": "his hands tightening around a stone staff adorned with jagged crystals. \u2026 the runes on the walls flare with an ominous light.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "Sloobludop is approximately eight days away via the Darklake.",
+    "source_quote": "the town of Sloopdopblop is just eight days away",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr ate the potato and felt blessed.",
+    "source_quote": "And a few hours later, the potato is in my belly. And I feel blessed.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr ate the potato.",
+    "source_quote": "the potato is in my belly.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr got an advantage because of his rogue training.",
+    "source_quote": "I get an advantage because of my rogue training",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr grabbed one potato while the other two paused as if angry.",
+    "source_quote": "I grab one, and the other two pause as if angry.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr managed to dodge most of the stone storm but it still stung.",
+    "source_quote": "I manage to dodge most of it, but it still stings like hell.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr noted that Thalsor was barely alive and the golem was still a threat.",
+    "source_quote": "Thalsor's barely alive, and the golem\u2019s still a threat.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr noted that when the mud men went down, they exploded and made it so you couldn\u2019t move.",
+    "source_quote": "When these mud men go down, they kind of explode, make it so you can\u2019t move.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr noticed the potatoes stared at him as if taunting.",
+    "source_quote": "The potatoes stare at me as if taunting me.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr observed Thalsor stepping forward with a stone staff adorned with jagged crystals.",
+    "source_quote": "I watch as he steps forward, his hands tightening around a stone staff adorned with jagged crystals.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr said, \"You served me well, potato.\"",
+    "source_quote": "\"You served me well, potato.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr saw two muddy creatures appear beside Calmer.",
+    "source_quote": "suddenly two muddy creatures appear right beside Calmer. Mud men.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr shouted, \"Bouncing potatoes,\" and ran after them.",
+    "source_quote": "\"Bouncing potatoes,\" I shout to Seqoia and run after them.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr slashed at the wounded bandit and landed a solid hit.",
+    "source_quote": "I chip in where I can, finishing off the bandits when I get the chance.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr stabbed the potato in his hand.",
+    "source_quote": "So I take my knife and stab the one in my hand.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr stuffed the potatoes into a bag and they didn\u2019t move.",
+    "source_quote": "Taking advantage of horror, I grab them and stuff them into a bag. Terrified, they don\u2019t move around in the bag.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr stuffed the potatoes into a bag.",
+    "source_quote": "I grab them and stuff them into a bag.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr thought, \"How the heck did he know that?\"",
+    "source_quote": "I think, \"How the heck did he know that?\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr wondered if animated potatoes can cry or feel anything.",
+    "source_quote": "I wonder if animated potatoes can cry, or feel anything, and decide that\u2019s not my problem.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia laid into the bandits with serious force and called it a flurry of blows.",
+    "source_quote": "Zinnia follows, just laying into the bandits with some serious force. Flurry of blows, he calls it, multiple attacks",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia nodded to Sequoia and agreed the cultists were responsible.",
+    "source_quote": "Zinnia looks at me, and I nod, \"This is not bandits. This must be the cultists we are looking for.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia smiled after dropping the barrel.",
+    "source_quote": "I drop the barrel down, and smile.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia tried to figure out if Glannon was mocking her.",
+    "source_quote": "I look at him, and try to figure out if he is mocking me.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia\u2019s eyes revealed a momentary flash of pleasure.",
+    "source_quote": "even his eyes reveal a momentary flash of pleasure.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia\u2019s hidden pleasure",
+    "fact": "Zinnia, though inscrutable, revealed a momentary flash of pleasure upon learning of the cult\u2019s involvement in the honey theft.",
+    "source_quote": "I look at Zinnia, and although he is inscrutable, even his eyes reveal a momentary flash of pleasure.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Black Earth Cult",
+    "fact": "The Black Earth Cult is a secretive, stone-worshipping organization that attacked the caravan, chanted the phrase 'Black Earth,' and wielded weapons of stone. They maintain a hidden encampment in the Kron Hills with stone-studded armor, stone weapons, and a temple featuring a stone statue. They are believed to be responsible for animating food and possibly manipulating natural elements like falling rocks.",
+    "source_quote": "The guards who survived said that the attackers chanted 'Black Earth' and carried weapons of stone... These are the guys... stone-studded leather armor and carrying stone weapons.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Black Earth Cult",
+    "fact": "The attackers of the caravan chanted 'Black Earth' and carried stone weapons.",
+    "source_quote": "the attackers chanted \u2018Black Earth\u2019 and carried weapons of stone.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Black Earth Temple",
+    "fact": "The Black Earth Temple is the religious organization to which Thalsor pledges allegiance. It claims the honey as tribute and is central to his motivations and rhetoric.",
+    "source_quote": "That honey now belongs to the Black Earth Temple, a tribute to her enduring might.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Apothecary",
+    "fact": "The apothecary is a magical shop in the village where the animated broccoli fled during the food incident. It is associated with potions and enchanted substances, and its presence suggests possible magical contamination or intentional targeting by the cult.",
+    "source_quote": "It took off like a shot towards the apothecary, that place with all the magical potions and stuff.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "apothecary",
+    "fact": "The apothecary is a place with magical potions and stuff, where the animated broccoli ran.",
+    "source_quote": "It took off like a shot towards the apothecary, that place with all the magical potions and stuff.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "battle site of the caravan ambush",
+    "fact": "A site littered with overturned wagons, broken barrels, and scattered honey jars, with churned ground and faintly glowing runes etched into the rocks, indicates magical combat by cultists, not bandits.",
+    "source_quote": "The site is littered with overturned wagons, broken barrels, and scattered honey jars. The ground is churned up. ... I point at faintly glowing runes etched into the rocks. Zinnia looks at me, and I nod, \u201cThis is not bandits. This must be the cultists we are looking for.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Black Earth Cult encampment",
+    "fact": "A well-hidden encampment built into a shallow cave on a rocky outcrop in the Kron Hills, guarded by stone-studded leather armor and stone weapons, houses a temple and stolen honey barrels.",
+    "source_quote": "It\u2019s built into a shallow cave on a rocky outcrop in the Kron Hills. There is a guarded gate with makeshift stone barricades. The guardian are wearing stone-studded leather armor and carrying stone weapons. Inside the walls is a temple to some god, a weird stone statue, as well the barrels that we are looking for.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Black Earth Cult encampment",
+    "fact": "The encampment is built into a shallow cave on a rocky outcrop in the Kron Hills, with a guarded gate, stone-studded leather armor, stone weapons, a temple, a weird stone statue, and barrels.",
+    "source_quote": "It\u2019s built into a shallow cave on a rocky outcrop in the Kron Hills. There is a guarded gate with makeshift stone barricades. The guardian are wearing stone-studded leather armor and carrying stone weapons. Inside the walls is a temple to some god, a weird stone statue, as well the barrels that we are looking for.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Black Earth Temple",
+    "fact": "The Black Earth Temple is a place of worship to the Earth Mother, where the stolen honey is kept as tribute.",
+    "source_quote": "That honey now belongs to the Black Earth Temple, a tribute to her enduring might.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Black Earth Temple interior",
+    "fact": "The interior of the Black Earth Temple contains a weird stone statue and the stolen honey barrels, confirming its role as the cult\u2019s stronghold.",
+    "source_quote": "Inside the walls is a temple to some god, a weird stone statue, as well the barrels that we are looking for.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "caravan site",
+    "fact": "The caravan site is littered with overturned wagons, broken barrels, scattered honey jars, churned ground, large footprints, and faintly glowing runes.",
+    "source_quote": "The wagon is precisely where she said. The site is littered with overturned wagons, broken barrels, and scattered honey jars. The ground is churned up. Large footprints lead away from the road. ... I point at faintly glowing runes etched into the rocks.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "cavern",
+    "fact": "The battle takes place in a cavern with runes inscribed on the walls that flare with light when Thalsor activates his staff, indicating magical resonance or ancient enchantments.",
+    "source_quote": "the runes on the walls flare with an ominous light.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "hidden encampment",
+    "fact": "A hidden encampment is built into a shallow cave on a rocky outcrop in the Kron Hills.",
+    "source_quote": "it ends at a well-hidden encampment. It\u2019s built into a shallow cave on a rocky outcrop in the Kron Hills.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "hidden encampment",
+    "fact": "The encampment contains a temple with a weird stone statue and the stolen honey barrels.",
+    "source_quote": "Inside the walls is a temple to some god, a weird stone statue, as well the barrels that we are looking for.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "hidden encampment",
+    "fact": "The hidden encampment has a guarded gate with makeshift stone barricades.",
+    "source_quote": "There is a guarded gate with makeshift stone barricades.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Honey Tavern Inn",
+    "fact": "The Honey Tavern Inn contains a bar, a keg of mead, and a barrel that was dropped and rolled behind the bar.",
+    "source_quote": "I drop the barrel down, and smile. Glannon looks at the barrel. \"You found it?\" \"Yes.\" He rolls the barrel behind the bar, and takes out a keg, \"Here\u2019s my fine keg of mead.\"",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Honey Tavern Inn",
+    "fact": "The Honey Tavern Inn is a social hub in the village where key interactions occurred: delivery of the mead barrel, the animated food request, Palsmarie Clee\u2019s cryptic appearance, and the planning of the assault on the Black Earth Cult. It is the central base of operations for the party\u2019s investigation.",
+    "source_quote": "I arrive at the Honey Tavern Inn... I drop the barrel down... Palsmarie Clee coughs... the beekeeper druid of Sheernobb is very quiet.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Honey Tavern Inn",
+    "fact": "Zinnia arrives at the Honey Tavern Inn after the dinner rush.",
+    "source_quote": "I arrive at the Honey Tavern Inn. It\u2019s after the dinner rush",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Kron Hills",
+    "fact": "The trail from the caravan attack leads into the Kron Hills.",
+    "source_quote": "The trail into the Kron Hills is easy to follow.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Kron Hills encampment",
+    "fact": "A hidden cultist encampment built into a shallow cave on a rocky outcrop in the Kron Hills, guarded by stone-armored cultists with stone weapons. Contains a temple with a stone statue and the stolen honey barrels. The site is concealed and protected by natural defenses, including suspicious falling rocks.",
+    "source_quote": "It\u2019s built into a shallow cave on a rocky outcrop... guarded gate with makeshift stone barricades... stone-studded leather armor... temple to some god, a weird stone statue... the barrels that we are looking for.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Kron Hills trail",
+    "fact": "A trail leading into the Kron Hills, easily followed but nearly blocked by falling rocks suspected to be magically directed, ends at the hidden cult encampment.",
+    "source_quote": "The trail into the Kron Hills is easy to follow. Although along the way, we almost get crushed by falling rocks. I am worried that the stones were not an accident, but we find nothing.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Kron Hills trail",
+    "fact": "The trail into the Kron Hills is easy to follow, with falling rocks that may not have been accidental.",
+    "source_quote": "The trail into the Kron Hills is easy to follow. Although along the way, we almost get crushed by falling rocks. I am worried that the stones were not an accident, but we find nothing.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Sheernobb",
+    "fact": "Sheernobb is the home of Palsmarie Clee, the beekeeper druid, referenced as the origin of her title.",
+    "source_quote": "The beekeeper druid of Sheernobb is very quiet.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "temple to some god",
+    "fact": "Inside the encampment is a temple to some god, featuring a weird stone statue.",
+    "source_quote": "Inside the walls is a temple to some god, a weird stone statue, as well the barrels that we are looking for.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
+    "source_quote": "Drow outpost was 100' in the sky",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "bandits",
+    "fact": "A group of bandits are present at the start of the encounter and are swiftly eliminated by Sequoia and Zinnia with flurry attacks. They are wounded and killed in quick succession.",
+    "source_quote": "Sequoia just goes to town on one of the bandits... Zinnia follows, just laying into the bandits... the bandits are dropping like flies.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
+    "source_quote": "four chasme and two vrock",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "mud men",
+    "fact": "Mud men explode when defeated, creating an area that impedes movement.",
+    "source_quote": "when these mud men go down, they kind of explode, make it so you can\u2019t move.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "mud men",
+    "fact": "Two mud men appear beside Calmer during the battle. They are unnatural creatures that explode upon death, creating area-of-effect immobilization effects. They are defeated early in the conflict.",
+    "source_quote": "Suddenly two muddy creatures appear right beside Calmer. Mud men... When these mud men go down, they kind of explode, make it so you can\u2019t move.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "stone golem",
+    "fact": "A stone golem is summoned by Thalsor when he taps a stone object. It is large, highly resistant to non-magical damage, and remains a persistent threat throughout the battle despite taking heavy damage from Calmer\u2019s holy spell.",
+    "source_quote": "He taps this stone thing and \u2013 bam! \u2013 it comes alive. Stone Golem, they call it. Big, tough, and resistant to everything but magical attacks.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "stone golem",
+    "fact": "Thalsor summoned a stone golem that is resistant to non-magical attacks.",
+    "source_quote": "he taps this stone thing and \u2013 bam \u2013 it comes alive. Stone Golem, they call it. Big, tough, and resistant to everything but magical attacks.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "stone-studded leather armor wearers",
+    "fact": "Guardians at the encampment wear stone-studded leather armor and carry stone weapons.",
+    "source_quote": "The guardian are wearing stone-studded leather armor and carrying stone weapons.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a cleric who heals, identifies magical activity, and attempts to bluff Thalsor, which backfires.",
+    "source_quote": "Calmer shouts, \"Magic was used here, or something very big. This isn\u2019t just a bunch of brigands.\" ... Calmer tries to bluff these bandits\u2013or whatever they are\u2013about being lost, but it\u2019s backfiring something fierce.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a combatant who uses a holy spell to damage the stone golem, leads intimidation attempts against Thalsor, and is actively engaged in the battle against the druid and his constructs.",
+    "source_quote": "Calmer hits it with some kind of holy spell, deals a ton of damage... Calmer leads the charge with that...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Glannon",
+    "fact": "Glannon is the tavern keeper who offers mead and later admits he may have been mocking the visitor about charisma.",
+    "source_quote": "He realizes his mistake, \"No, I didn\u2019t mean it that way. The magic in the mead will help when you need to interact with people and persuade them. Drink a mug, and you\u2019ll turn the heads of those you are attracted to, convince a merchant to cut a better deal, and in general be more persuasive. I know of one bard who drinks some before a performance and gets better tips.\"",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Glannon",
+    "fact": "Glannon rolls the barrel behind the bar.",
+    "source_quote": "He rolls the barrel behind the bar",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gnonsbim",
+    "fact": "Gnonsbim claims the attackers were bandits, contradicting survivor accounts of chanting and stone weapons.",
+    "source_quote": "Gnonsbim says they are bandits. I don\u2019t think so. The guards who survived said that the attackers chanted \u2018Black Earth\u2019 and carried weapons of stone.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gnonsbim",
+    "fact": "Gnonsbim claims the attackers were bandits.",
+    "source_quote": "Gnonsbim says they are bandits.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Lareth",
+    "fact": "Lareth wants the party to kill the Black Earth Cultists and retrieve a box they may possess.",
+    "source_quote": "This might be the clue and evidence we need. It certainly is who Lareth wants us to kill, and they might have this box that Lareth wants.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Palsmarie Clee",
+    "fact": "Palsmarie Clee coughs while sitting quietly in the Honey Tavern Inn.",
+    "source_quote": "Palsmarie Clee coughs. The beekeeper druid of Sheernobb is very quiet.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Palsmarie Clee",
+    "fact": "Palsmarie Clee shows Zephyr a map indicating where the caravan was attacked.",
+    "source_quote": "Let me show you on the map where the caravan was.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Palsmarie Clee",
+    "fact": "Palsmarie Clee, the beekeeper druid of Sheernobb, appeared silently in the Honey Tavern Inn and provided critical intelligence about the caravan attack, identifying the attackers as chanting 'Black Earth' and wielding stone weapons. She directed the party to the attack site and urged them to investigate.",
+    "source_quote": "Let me show you on the map where the caravan was... The guards who survived said that the attackers chanted 'Black Earth' and carried weapons of stone.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Palsmarie Clee",
+    "fact": "Palsmarie Clee, the beekeeper druid of Sheernobb, appears silently in the inn and provides a map and warning about the caravan's disappearance.",
+    "source_quote": "As I put the last bit of food in my mouth, Palsmarie Clee coughs. The beekeeper druid of Sheernobb is very quiet. \"Let me show you on the map where the caravan was. They didn\u2019t take the standard road, the fools. Go there, follow the bandits, and get the honey.\"",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Quinna Poul",
+    "fact": "Quinna Poul rushed out of the kitchen to enlist help retrieving animated food ingredients from the village feast, specifically a runaway broccoli that headed toward the apothecary. She was both smiling and worried, and the party felt obligated to assist after the previous feast.",
+    "source_quote": "So - remember that feast, well some of the ingredients were animated and they rushed into the village. Could I bother you to go get them?",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Quinna Poul",
+    "fact": "Quinna Poul rushes out of the kitchen and asks for help retrieving animated ingredients from the village, specifically broccoli.",
+    "source_quote": "Quinna Poul comes rushing out of the kitchen as I saunter into the first floor dining area. \"So - remember that feast, well some of the ingredients were animated and they rushed into the village. Could I bother you to go get them?\"",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Quinna Poul",
+    "fact": "Quinna Poul rushes out of the kitchen when Sequoia enters the dining area.",
+    "source_quote": "Quinna Poul comes rushing out of the kitchen as I saunter into the first floor dining area.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia engages in combat with cultists, lands flurry of attacks on bandits, and directly targets Thalsor.",
+    "source_quote": "Sequoia just goes to town on one of the bandits\u2014absolute flurry of attacks. ... Sequoia\u2019s still hacking away at Thalsor, getting some tough blows in.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia is a rogue who initiates aggressive attacks on bandits and Thalsor, lands multiple critical hits, and is the primary combatant pressing the assault on Thalsor during the final stages of the battle.",
+    "source_quote": "Sequoia just goes to town on one of the bandits\u2014absolute flurry of attacks... Sequoia\u2019s still hacking away at Thalsor, getting some good hits in.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia said, \"Sometimes a rock is a falling rock.\"",
+    "source_quote": "\"Sometimes a rock is a falling rock,\" I say.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia thought, \"It\u2019s just the life, I guess. Never a dull moment.\"",
+    "source_quote": "It\u2019s just the life, I guess. Never a dull moment.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thalsor",
+    "fact": "Thalsor is a druid of the Black Earth Temple who speaks of the Earth Mother, summons mud men, and commands a stone golem.",
+    "source_quote": "Thalsor of the Stone fellow, some kind of druid, starts shouting about the earth mother and how we're trampling on sacred ground. ... Thalsor raises his staff, and the runes on the walls flare with an ominous light. ... Suddenly two muddy creatures appear right beside Calmer. Mud men. ... He taps this stone thing and \u2013 bam! \u2013 it comes alive. Stone Golem.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thalsor",
+    "fact": "Thalsor is a druid who leads the encampment and speaks of the Earth Mother.",
+    "source_quote": "This Thalsor of the Stone fellow, some kind of druid, starts shouting about the earth mother",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thalsor",
+    "fact": "Thalsor is a druid who wields a stone staff adorned with jagged crystals, commands mud men and a stone golem, and seeks to protect the honey of the Black Earth Temple. He is hostile, manipulative, and capable of conjuring storms of sharp stones and negotiating under duress.",
+    "source_quote": "Thalsor rumbles something about stone, and suddenly two muddy creatures appear... He taps this stone thing and \u2013 bam! \u2013 it comes alive. Stone Golem... He conjures up a storm of sharp stones.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thalsor of the Stone",
+    "fact": "Thalsor of the Stone is a druid affiliated with the Black Earth Cult who guards the encampment in the Kron Hills. He rejected Calmer\u2019s bluff, invoked the Earth Mother, and accused the party of trampling sacred ground, confirming the cult\u2019s religious devotion to stone and earth.",
+    "source_quote": "He\u2019s shouting about the earth mother and how we're trampling on sacred ground. He\u2019s not buying what Calmer\u2019s selling.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr attacks animated potatoes, carries them in a bag, consumes one, and participates in the assault on the cult encampment.",
+    "source_quote": "I grab one, and the other two pause as if angry. So I take my knife and stab the one in my hand. ... I grab them and stuff them into a bag. ... And a few hours later, the potato is in my belly.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr pursued animated potatoes, captured them with a knife, stuffed them into a bag, and later consumed one, describing it as more filling than a captured rat. Zephyr later participated in the infiltration of the Black Earth Cult encampment and observed the failed bluff by Calmer.",
+    "source_quote": "Bouncing potatoes,\u201d I shout to Seqoia and run after them... I grab one, and the other two pause as if angry... I stab the one in my hand... The potato is in my belly. And I feel blessed.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr said, \"You served me well, potato. And you were certainly more filling than that rat I caught in that prison.\"",
+    "source_quote": "\"You served me well, potato. And you were certainly more filling than that rat I caught in that prison.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia delivered a barrel of mead to the Honey Tavern Inn and interacted with Glannon, who offered a keg of magical mead that enhances charisma and persuasion. Zinnia suspected mockery but accepted the gift. Zinnia later observed and reacted to clues about the Black Earth Cult with a momentary flash of pleasure when the trail became clear.",
+    "source_quote": "You found it? Yes. He rolls the barrel behind the bar, and takes out a keg, 'Here\u2019s my fine keg of mead... The magic in the mead will help when you need to interact with people and persuade them.'",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia is a combatant who delivers a flurry of blows against the bandits, contributing significantly to their rapid elimination during the battle.",
+    "source_quote": "Zinnia follows, just laying into the bandits with some serious force. Flurry of blows, he calls it, multiple attacks, and the bandits are dropping like flies.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia is inscrutable but reveals a momentary flash of pleasure when hearing about the Black Earth Cult and the box Lareth wants.",
+    "source_quote": "I look at Zinnia, and although he is inscrutable, even his eyes reveal a momentary flash of pleasure.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia shows a momentary flash of pleasure upon hearing about the Black Earth Cult.",
+    "source_quote": "I look at Zinnia, and although he is inscrutable, even his eyes reveal a momentary flash of pleasure.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia thanked Glannon.",
+    "source_quote": "I thank him.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "animated broccoli",
+    "fact": "An enchanted vegetable that became animated and fled the feast, heading toward the apothecary. It was eventually struck with a spell and collapsed into a dark green substance, suggesting it was a vessel or byproduct of the Black Earth Cult\u2019s magic.",
+    "source_quote": "It took off like a shot towards the apothecary... I pick up the 'broccoli' now just a very dark green something...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "animated broccoli",
+    "fact": "The animated broccoli took off toward the apothecary, and was later reduced to a very dark green something after being struck.",
+    "source_quote": "It took off like a shot towards the apothecary, that place with all the magical potions and stuff. I pick up the \"broccoli\" now just a very dark green something and go back to the honey tavern.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "animated potatoes",
+    "fact": "Animated potatoes were chased, grabbed, stabbed, and later consumed in a honey-glazed forest stew.",
+    "source_quote": "I grab one, and the other two pause as if angry. So I take my knife and stab the one in my hand. And a few hours later, the potato is in my belly. And I feel blessed. The honey-glazed forest stew feels like a blessing indeed.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "animated potatoes",
+    "fact": "Three animated potatoes that escaped the feast, causing chaos in the village. One was stabbed and consumed by Zephyr, while the others were captured and bagged. Their animation suggests the cult\u2019s ability to imbue mundane objects with life.",
+    "source_quote": "Bouncing potatoes... I grab one, and the other two pause as if angry... I stab the one in my hand... The potato is in my belly.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "barrel",
+    "fact": "Zinnia carries a barrel to the Honey Tavern Inn.",
+    "source_quote": "With the barrel over my shoulder I arrive at the Honey Tavern Inn.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "barrels",
+    "fact": "The barrels in the encampment are the same ones that were taken from the caravan and are now held by the cult.",
+    "source_quote": "Inside the walls is a temple to some god, a weird stone statue, as well the barrels that we are looking for.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "dark green substance",
+    "fact": "The collapsed broccoli became a very dark green something.",
+    "source_quote": "I pick up the \u201cbroccoli\u201d now just a very dark green something",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "glowing runes",
+    "fact": "Faintly glowing magical runes etched into rocks at the caravan attack site, indicating the use of high-level enchantment or ritual magic. Their presence confirmed the attack was not banditry but the work of the Black Earth Cult.",
+    "source_quote": "faintly glowing runes etched into the rocks... I shout, 'Magic.'",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "honey jars",
+    "fact": "Honey jars were scattered at the caravan site, indicating the stolen cargo.",
+    "source_quote": "The site is littered with overturned wagons, broken barrels, and scattered honey jars.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "keg of mead",
+    "fact": "Glannon gives Zinnia a keg of mead with magical properties.",
+    "source_quote": "Here\u2019s my fine keg of mead.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "keg of mead",
+    "fact": "The magic in the mead helps with persuasion and attracting attention.",
+    "source_quote": "The magic in the mead will help when you need to interact with people and persuade them.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "magical mead keg",
+    "fact": "A keg of mead imbued with magic that enhances charisma, persuasion, and the ability to 'turn heads' or 'convince merchants.' Offered by Glannon at the Honey Tavern Inn as a tool for social manipulation, possibly linked to the cult\u2019s broader enchantment practices.",
+    "source_quote": "Here\u2019s my fine keg of mead... The magic in the mead will help when you need to interact with people and persuade them.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "mud men",
+    "fact": "Mud men were summoned beside Calmer and exploded upon defeat, creating area-of-effect immobilization.",
+    "source_quote": "Suddenly two muddy creatures appear right beside Calmer. Mud men. ... When these mud men go down, they kind of explode, make it so you can\u2019t move.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "stone golem",
+    "fact": "The stone golem is large, tough, resistant to non-magical attacks, and was summoned by Thalsor during the battle.",
+    "source_quote": "He taps this stone thing and \u2013 bam! \u2013 it comes alive. Stone Golem, they call it. Big, tough, and resistant to everything but magical attacks.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "stone object",
+    "fact": "A mysterious stone object, possibly a focus or artifact, is tapped by Thalsor to summon the stone golem. It is integral to his ability to deploy powerful constructs.",
+    "source_quote": "He taps this stone thing and \u2013 bam! \u2013 it comes alive.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "stone staff",
+    "fact": "Thalsor wields a stone staff adorned with jagged crystals, which channels his magic and causes runes on the cavern walls to flare with ominous light.",
+    "source_quote": "his hands tightening around a stone staff adorned with jagged crystals... the runes on the walls flare with an ominous light.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "stone staff with jagged crystals",
+    "fact": "Thalsor wields a stone staff adorned with jagged crystals, which activates runes on the walls during combat.",
+    "source_quote": "I watch as he steps forward, his hands tightening around a stone staff adorned with jagged crystals.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "stone-studded leather armor",
+    "fact": "The cultists wear stone-studded leather armor and carry stone weapons.",
+    "source_quote": "The guardian are wearing stone-studded leather armor and carrying stone weapons.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "stone weapons",
+    "fact": "The cultists carry stone weapons, indicating their connection to the Black Earth Cult and the Earth Mother.",
+    "source_quote": "The guardian are wearing stone-studded leather armor and carrying stone weapons.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Black Earth Cult's identity",
+    "fact": "The party suspects the Black Earth Cult is responsible for the caravan attack and may possess the box Lareth wants.",
+    "source_quote": "This might be the clue and evidence we need. It certainly is who Lareth wants us to kill, and they might have this box that Lareth wants.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Lareth\u2019s target",
+    "fact": "Lareth has tasked the party with identifying and eliminating the Black Earth Cult, believed to be responsible for the caravan attack and possibly possessing a box he desires. The cult\u2019s use of stone weapons and chanting confirms they are the intended target, though their full motives remain unclear.",
+    "source_quote": "This might be the clue and evidence we need. It certainly is who Lareth wants us to kill, and they might have this box that Lareth wants.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "mysterious falling rocks",
+    "fact": "The party nearly got crushed by falling rocks while following the trail to the cult encampment. Though no culprits were found, the timing suggests possible manipulation by the cult to deter pursuers, hinting at deeper earth-based magic or sentience.",
+    "source_quote": "We almost get crushed by falling rocks... I am worried that the stones were not an accident, but we find nothing.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Palsmarie Clee's presence",
+    "fact": "It is unclear whether Palsmarie Clee walked into the Inn or was always there.",
+    "source_quote": "Has she walked into the Inn, or was she always there?",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Thalsor\u2019s true identity",
+    "fact": "Thalsor\u2019s name and origins are uncertain \u2014 referred to as 'whatever his name is' \u2014 suggesting he may be an alias or a figure with hidden history.",
+    "source_quote": "This druid, Thalsor, whatever his name is...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "the honey",
+    "fact": "The honey is the central object of Thalsor\u2019s obsession and the reason for his hostility. He refuses to surrender it and offers to trade instead, suggesting deeper lore or magical significance.",
+    "source_quote": "That honey now belongs to the Black Earth Temple... Offers to trade, anything but giving up the honey.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The identity of the attackers",
+    "fact": "The identity of the attackers is unknown, though Palsmarie Clee suspects they are not bandits.",
+    "source_quote": "I don\u2019t know. Gnonsbim says they are bandits. I don\u2019t think so.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The location of the Black Earth Temple",
+    "fact": "The exact location of the Black Earth Temple is not yet known, though the encampment in the Kron Hills is suspected.",
+    "source_quote": "It\u2019s built into a shallow cave on a rocky outcrop in the Kron Hills.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The nature of the Stone Golem",
+    "fact": "The nature and origin of the Stone Golem conjured by Thalsor are unexplained.",
+    "source_quote": "He taps this stone thing and \u2013 bam \u2013 it comes alive. Stone Golem, they call it.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The origin of the animated vegetables",
+    "fact": "The origin of the animated broccoli and potatoes is unexplained.",
+    "source_quote": "some of the ingredients were animated and they rushed into the village.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "the stone golem\u2019s origin",
+    "fact": "The stone golem\u2019s creation via a simple stone tap implies it may be bound, ancient, or magically linked to the location or Thalsor\u2019s power source \u2014 its true nature is unexplained.",
+    "source_quote": "He taps this stone thing and \u2013 bam! \u2013 it comes alive.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  }
+]

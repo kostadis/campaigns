@@ -1,0 +1,135 @@
+[
+  {
+    "type": "npc",
+    "subject": "Lareth",
+    "fact": "Lareth is a leader of the moathouse who believes Zephyr and Sequoia work for him, and has tasked them with eliminating rivals under the guise of cultist warfare. He is calculating and aware of their disguise.",
+    "source_quote": "I wouldn\u2019t tell anyone about our deal.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Rufus",
+    "fact": "Rufus is a halfling rogue and agent of Verbobonc who is deeply invested in the political symbolism of the annual art festival gift to the Kingdom of Celene. He is aware the missing chest is the festival artifact and fears its recovery will expose official deception.",
+    "source_quote": "The chest must be the gift. Every so often, the Viscounty has an art festival, and the purpose of the art festival is to craft some piece of art as a gift to the Kingdom of Celene.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Burne",
+    "fact": "Burne is an agent of Verbobonc who wears a leisure suit and is actively covering up the Viscounty\u2019s failure to secure the art festival gift. He encourages plausible deniability and frames cultist activity as potential government sabotage.",
+    "source_quote": "The official position, of course, is that the Elves accepted the Chest. But the chest reappearing would embarrass the Viscount.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia is an agent of Verbobonc who has been sent to investigate cultist activity but is now entangled in a web of deception involving Lareth and the missing art chest. He is strategically feeding false narratives to his superiors.",
+    "source_quote": "As you said, Burne, we don\u2019t know who this leader worked for. His name is Lareth. He thinks we work for him.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia is the Masked One who understands the true nature of the Kingdom of Celene\u2019s interaction with the art gifts \u2014 that elves destroy art they find hideous, and leave only what they deem worthy. Zinnia recognizes Verbobonc\u2019s misunderstanding as deliberate sabotage.",
+    "source_quote": "The Kingdom of Celene believes the right place for any non-elf is outside the Kingdom of Celene.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Viscounty of Verbobonc",
+    "fact": "The Viscounty of Verbobonc has expanded its military presence under the pretense of stabilizing the region after the Temple of Elemental Evil\u2019s collapse. It is actively concealing the failure of the annual art gift to Celene and promoting the myth that the elves accepted it.",
+    "source_quote": "Some would like to pretend that the Viscounty has not stabilized matters. To do so, they would like to pretend that the agents of chaos have returned.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Kingdom of Celene",
+    "fact": "The Kingdom of Celene rejects non-elves and evaluates the Viscounty\u2019s annual art gifts with ruthless aesthetic judgment: they destroy art they deem hideous and leave behind art they believe has potential. The disappearance of the gift signals acceptance.",
+    "source_quote": "The elves apparently will destroy any art they think is hideous, whereas any art they believe has potential they will leave behind.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "missing art chest",
+    "fact": "The annual Viscounty art festival gift \u2014 a chest \u2014 was stolen during its mission to the Celene border. Its disappearance has triggered a cover-up, as its return would expose the Viscounty\u2019s diplomatic failure.",
+    "source_quote": "A few months ago, the annual competition occurred, and a chest was selected. There was a mission to take the chest to Celene. The mission was attacked, and the chest went missing.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "art festival tradition",
+    "fact": "The Viscounty holds an annual art festival to create a gift for the Kingdom of Celene, hoping to initiate diplomatic negotiations. The gift is left at the border, and its disappearance within a week is interpreted by the Viscounty as acceptance by the elves.",
+    "source_quote": "We hope the elves will see our efforts over time and choose to meet with a delegation. This has been going on for some time, and now the competition is viewed as an opportunity for the rich, powerful, and talented to showcase their talent.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "ogre",
+    "fact": "An ogre claiming to work for an all-powerful cult leader was encountered in the abandoned torture chamber of the moathouse. It is unclear whether the ogre is a cultist, a pawn, or a liar.",
+    "source_quote": "We found an abandoned torture chamber with some zombies\u2014an ogre who claimed to work for some all-powerful cult leader.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "zombies",
+    "fact": "Zombies were found in the lower level of the moathouse\u2019s torture chamber, guarding or lingering near weapons. Their origin and purpose are unknown, but they are not recently animated.",
+    "source_quote": "We found an abandoned torture chamber with some zombies...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "the art chest",
+    "fact": "The art chest is the centerpiece of the Viscounty\u2019s annual diplomatic gift to the Kingdom of Celene. It was stolen during transit to the border and is now the subject of a covert investigation and official deception.",
+    "source_quote": "Someone stole some chest, and he wants us to get it back. He claims it\u2019s from a rival group of cultists.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "true nature of the chest\u2019s disappearance",
+    "fact": "The true reason the chest went missing is unknown \u2014 whether by bandits, cultists, or agents of a rival government. The Viscounty\u2019s official narrative masks the possibility that the chest was sabotaged to prevent diplomacy.",
+    "source_quote": "If you were to find the chest and the folks who stole it, that would be of great assistance.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Lareth\u2019s true allegiance",
+    "fact": "Lareth claims to be a cultist leader but may be a government agent or a pawn of another faction. His manipulation of Zephyr and Sequoia suggests a deeper political game involving Verbobonc\u2019s enemies.",
+    "source_quote": "He thinks we work for him. He seemed excited to use us as an agent to eliminate some of his rivals.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "moathouse",
+    "fact": "The moathouse is a derelict structure housing an abandoned torture chamber with zombies, weapons, secret doors, and an ogre. It is a focal point of cultist activity and deception.",
+    "source_quote": "We went into the moat house. Made it to the lower level. We found an abandoned torture chamber with some zombies...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Hommlet",
+    "fact": "Hommlet is the settlement where Verbobonc\u2019s agents, Burne and Rufus, are stationed. It serves as the administrative hub for monitoring cultist activity and managing the fallout of the missing art chest.",
+    "source_quote": "A few hours later, the group arrives at Hommlet. Sequoia sees Rufus\u2019 folly in the distance and sighs \u2014 'Let\u2019s report to the local chief of police.'",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Sheernobb",
+    "fact": "Sheernobb is the location where bandits were last seen. It is the next destination of the party following the investigation into the missing chest and the moathouse events.",
+    "source_quote": "The journey to Sheernobb, where the bandits were last seen, is uneventful.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Planting 20, 579 Midday",
+    "fact": "The day on which the investigation into the moathouse, the meeting with Rufus and Burne, and the revelation of the art chest\u2019s importance occurred.",
+    "source_quote": "Planting 20, 579 Midday",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Planting 21, 579 Morning",
+    "fact": "The day on which the party began their journey to Sheernobb, following the revelations at Hommlet.",
+    "source_quote": "Planting 21, 579 Morning",
+    "quote_verified": true
+  }
+]

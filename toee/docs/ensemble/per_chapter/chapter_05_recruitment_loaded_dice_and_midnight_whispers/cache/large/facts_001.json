@@ -1,0 +1,709 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occur on Planting 16, 579.",
+    "source_quote": "### Date: Planting 16, 579",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The following day's events occur on Planting 17, 579.",
+    "source_quote": "### Date: Planting 17, 579",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occur on Planting 18, 579.",
+    "source_quote": "### Date: Planting 18, 579",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer insists that the group must go to the Prefect to inform him of what has happened.",
+    "source_quote": "Calmer insists, \u201cWe must go to the Prefect and inform him of what has happened!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer returns to the Temple of St. Cuthbert to complete prayers before meeting Burne and Refus.",
+    "source_quote": "For some reason, Calmer bows out and says he must return to the Temple to complete some prayers.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer asks the group if they will meet again tomorrow at the same time.",
+    "source_quote": "Before he leaves, he asks, \u201cTomorrow at the same time?\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia notices two sons carefully grooming the horses at Elder Kenter\u2019s compound.",
+    "source_quote": "Sequoia notices how two sons carefully groom the horses.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia laughs and agrees to let Spugnoir join the group.",
+    "source_quote": "Sequoia laughs, \u201cSomehow, you are very familiar.\u201d He then pauses, \u201cSure.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia struggles to sleep thinking about Zephyr\u2019s confusion and the teenagers squealing.",
+    "source_quote": "Sequoia struggles to sleep as he thinks about Zephyr looking confused and the two teenagers squealing.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia agrees with Calmer that the group should inform the Prefect.",
+    "source_quote": "Sequoia, Zinia, and Zephyr agree.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia realizes the town has no secrets after telling Jaroo who they spoke to.",
+    "source_quote": "Zinia realizes this town has no secrets, and he tells the truth.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia heads to the door after Ostler mentions the Druid.",
+    "source_quote": "Zinia gets the point and gets up, heading to the door.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia grabs the loaded dice from the tipped table and declares them proof.",
+    "source_quote": "Zinia moves quickly and grabs the dice. As he picks them up, he realizes they are loaded\u2014\u201cThe proof I needed!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia snarls and tells Jira and Marek to go away.",
+    "source_quote": "Zinia snarls and tells them to go away.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is intrigued by Prefect Terjon wanting to keep the painted rock.",
+    "source_quote": "Zephyr is intrigued by Terjon wanting to hold onto a worthless rock.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr smiles sweetly and asks Prefect Terjon why he wants to keep the worthless rock.",
+    "source_quote": "He smiles sweetly, \u201cIf this rock is so worthless, why keep it?\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr receives the painted rock from Prefect Terjon after he tosses it.",
+    "source_quote": "Terjon winces... and then he tosses the rock to Zephyr.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr hands the painted rock to Burne and Refus at the Inn.",
+    "source_quote": "Zephyr hands over the rock.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr suggests they need someone to help find a monster in the Gnarley forest.",
+    "source_quote": "Zephyr smiles, \u201cThere is a monster in the Gnarley forest, and we will need someone to help us find it.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr falls on the table to create a distraction during his failed pickpocket attempt.",
+    "source_quote": "So he falls on the table that Furnok is sitting on, causing the table to tip over.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr sneaks up on the two cloaked figures at midnight with his sword drawn.",
+    "source_quote": "Zephyr plans to sneak up on the spies... Zephyr quickly advances on them, his sword in his right hand...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr puts the blade to the throat of the smaller spy and forces the teenagers to be quiet.",
+    "source_quote": "Zephyr uses all his tiefling fierceness to force the two squealing teenagers to be quiet.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Prefect Terjon",
+    "fact": "Prefect Terjon examines the painted rock and dismisses it as worthless.",
+    "source_quote": "The Prefect examines the stone... finally says in disgust, \u201cYou bring me a painted rock... all I have is your word.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Prefect Terjon",
+    "fact": "Prefect Terjon says he would like to keep the painted rock.",
+    "source_quote": "Zinia asks for the rock, but Terjon surprisingly says, \u201cI would like to keep this worthless rock.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Prefect Terjon",
+    "fact": "Prefect Terjon mutters that the rock is worthless as he tosses it to Zephyr.",
+    "source_quote": "Terjon mutters as it flies through the air, \u201cYou\u2019re right. It is worthless.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Burne",
+    "fact": "Burne mutters in disbelief upon seeing the painted rock.",
+    "source_quote": "Two scrutinize the rock, and finally, Burne mutters, \u201cThis is it?\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Burne",
+    "fact": "Burne says they must keep the investigation quiet.",
+    "source_quote": "Burne stretches and says, \u201cAnd keep this quiet. We don\u2019t want to tell anyone.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Refus",
+    "fact": "Refus whispers that he suspects a saboteur copied the keep\u2019s blueprints.",
+    "source_quote": "Rufus whispers, \u201cWe may have a job for you... I suspect that someone has copied our blueprints... I am convinced it is one of the workers in the encampments.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Refus",
+    "fact": "Refus asks the group to find the thief who copied the blueprints.",
+    "source_quote": "You must go and find the thief.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ostler",
+    "fact": "Ostler tells the group that adventurers must stay at least three nights at the Inn.",
+    "source_quote": "Ostler grabs him by the arm, \u201cSo that you know; adventurers have a minimum three-night stay at the Inn.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Ostler",
+    "fact": "Ostler offers free rooms for three nights if the group proves Furnoc steals from guests.",
+    "source_quote": "he explains that his job offer is to prove that Furnoc is a crook who steals from the Inn\u2019s guests. To sweeten the pot, he offers free rooms for three nights.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Ostler",
+    "fact": "Ostler greets the trio at the door after they return from visiting Jaroo.",
+    "source_quote": "From there, the trio heads to the Inn of the Welcome Wench, where Ostler, obviously informed of the visit to Jaroo and the blessing, greets the trio at the door.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jaroo",
+    "fact": "Jaroo admonishes the group to go deeper into the moathouse for more evidence.",
+    "source_quote": "Like all the other town leaders, he is disappointed when Jaroo is presented with the stone and confession. \u201cYou must go deeper into the moathouse and find more evidence,\u201d he admonishes.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jaroo",
+    "fact": "Jaroo asks the group who else they have spoken to.",
+    "source_quote": "Jaroo shouts, \u201cWho else have you spoken to?\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jaroo",
+    "fact": "Jaroo offers the group the blessing of Beory and a healing potion.",
+    "source_quote": "Jaroo is pleased and offers them the blessing of Beory and a healing potion.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Elder Kenter",
+    "fact": "Elder Kenter welcomes the trio to his compound and invites them to sit.",
+    "source_quote": "Standing in the middle of the room is an older man... \u201cMy name is Kenter... Please sit.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Elder Kenter",
+    "fact": "Elder Kenter says Hawthorne followed the group and saw them visit Jaroo, Terjon, Burne, and Refus.",
+    "source_quote": "My second son, Hawthorne, saw you come from the moathouse. He followed you and saw you visited Jaroo, Terjon, Burne, and Refus.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Elder Kenter",
+    "fact": "Elder Kenter names the council members: Jaroo, Rufus, Burne, Ostler, and Captain Zeb Fletcher.",
+    "source_quote": "The council members are Jaroo, Rufus, Burne, and Ostler, whom you have already met, as well as Captain Zeb Fletcher, father of Elmo and Mytch the Miller.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Elder Kenter",
+    "fact": "Elder Kenter says Burne and Rufus have shown remarkable leadership in responding to the bandit threat.",
+    "source_quote": "Burne and Rufus have shown remarkable leadership and strategic acumen. Their efforts in organizing defenses and training our militia have been crucial in our response to the bandit threat.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Elder Kenter",
+    "fact": "Elder Kenter expects the group to come to him first going forward.",
+    "source_quote": "Therefore, going forward, I expect you all to come here first.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Elder Kenter",
+    "fact": "Elder Kenter toasts with wine, saying, \u201cThe Blessings of Beory.\u201d",
+    "source_quote": "When the Elder gets his glass, he coughs and toasts, \u201cThe Blessings of Beory.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Elmo",
+    "fact": "Elmo shouts at Furnok to leave or he\u2019ll call the Captain.",
+    "source_quote": "A burly, muscular man sitting at another table shouts, \u201cGet out of here, Furnok, or I\u2019ll have to call the Captain, and he won\u2019t be as kindly as Ostler is.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Elmo",
+    "fact": "Elmo identifies himself as an adventurer and a ranger.",
+    "source_quote": "They quickly learn that Elmo is an adventurer and a ranger by profession.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Elmo",
+    "fact": "Elmo says he is the person to help find the monster in the Gnarley forest.",
+    "source_quote": "Elmo mutters, \u201cI am your person!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Spugnoir",
+    "fact": "Spugnoir offers to join the group and split treasures if he gets first crack at arcane scrolls.",
+    "source_quote": "I am offering to split the treasures as long as I get the first crack at any arcane scrolls we find.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Spugnoir",
+    "fact": "Spugnoir says he knows the location of a lost wizard laboratory under Emiry Meadows.",
+    "source_quote": "I know the location of a lost wizard laboratory under Emiry Meadows.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Spugnoir",
+    "fact": "Spugnoir asks to join the group to complete their quartet.",
+    "source_quote": "I would like to go adventuring with you and complete your quartet. If you would have me?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Spugnoir",
+    "fact": "Spugnoir agrees to meet the group the next day.",
+    "source_quote": "\u201cTomorrow then, as it is quite late!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Mickey",
+    "fact": "Mickey whispers to the group that he saw cloaked people lurking behind the brewery at midnight.",
+    "source_quote": "My name\u2019s Mickey... I've seen a couple of cloaked people lurking behind the brewery at around midnight.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Mickey",
+    "fact": "Mickey says he is the son of Virgil Tamen, the Braumeister.",
+    "source_quote": "I am the son of Virgil Tamen, the Braumeister.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Mickey",
+    "fact": "Mickey asks the group to investigate the cloaked people because he is worried about rumors of the temple being alive.",
+    "source_quote": "I'm worried, I mean, I, I, you know, I, the rumors around the village is going that the temple isn't as dead as everybody thought. And so maybe, those are, uh, spies.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jira",
+    "fact": "Jira introduces herself as one of the two cloaked teenagers spotted at midnight.",
+    "source_quote": "The girl introduces herself as Jira...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jira",
+    "fact": "Jira pleads with Zinia to help her and Marek talk to their parents.",
+    "source_quote": "Jira pleads with Zinia to help them and talk to their parents \u2014 \u201cYou\u2019re heroes, and they\u2019ll listen!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Marek",
+    "fact": "Marek introduces himself as one of the two cloaked teenagers spotted at midnight.",
+    "source_quote": "...and the boy as Marek.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Furnok",
+    "fact": "Furnok rejects the accusations of stealing from guests.",
+    "source_quote": "Ostler confronts Furnok, who rejects the accusations.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Valsenora",
+    "fact": "Valsenora brings treats to the table for the trio at Elder Kenter\u2019s compound.",
+    "source_quote": "They all nod and leave politely after sampling some of the treats that Kenter\u2019s wife, Valsenora, brings to the table.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Hawthorne",
+    "fact": "Hawthorne followed the group and observed their visits to town leaders.",
+    "source_quote": "My second son, Hawthorne, saw you come from the moathouse. He followed you and saw you visited Jaroo, Terjon, Burne, and Refus.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Captain Zeb Fletcher",
+    "fact": "Captain Zeb Fletcher is a member of the village council and father of Elmo and Mytch the Miller.",
+    "source_quote": "The council members are Jaroo, Rufus, Burne, and Ostler, whom you have already met, as well as Captain Zeb Fletcher, father of Elmo and Mytch the Miller.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Airgid",
+    "fact": "Airgid the silver dragon says her home is near the Lotrimil mountains.",
+    "source_quote": "The dragon explains that its home is near the Lotrimil mountains.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Airgid",
+    "fact": "Airgid the silver dragon shouts \u201cHOME!\u201d as she spots her home.",
+    "source_quote": "the dragon suddenly shouts, \u201cHOME!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Airgid",
+    "fact": "Airgid the silver dragon says her mommy will reward the group.",
+    "source_quote": "As she leaves, she shouts, \u201cDon\u2019t worry, my mommy will reward you! I KNOW SHE WILL! THANK YOU!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "The Duke",
+    "fact": "The Duke sets up camp at the moathouse.",
+    "source_quote": "The Duke sets up camp.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Duke",
+    "fact": "The Duke says he hopes to see the group again.",
+    "source_quote": "\u201cI hope I see you again.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Hommlett",
+    "fact": "The group decides to return to Hommlett after the bandit confession.",
+    "source_quote": "the group decides to return to Hommlett.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Tower",
+    "fact": "The Tower is visible in the distance as the group approaches Hommlett.",
+    "source_quote": "A few hours later, the heroes can see \u201cThe Tower\u201d in the distance...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Temple of St. Cuthbert",
+    "fact": "Calmer explains the discovery to Prefect Terjon inside the Temple of St. Cuthbert.",
+    "source_quote": "Once inside the temple of St. Cuthbert, Calmer excitedly explains to Prefect Terjon the proof...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Inn of the Welcome Wench",
+    "fact": "Burne and Refus are drinking at the Inn of the Welcome Wench.",
+    "source_quote": "At the Inn, in the main hall, Burne and Refus are sitting at the table, drinking.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Inn of the Welcome Wench",
+    "fact": "Ostler greets the group at the door of the Inn of the Welcome Wench after they return from visiting Jaroo.",
+    "source_quote": "From there, the trio heads to the Inn of the Welcome Wench, where Ostler... greets the trio at the door.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Inn of the Welcome Wench",
+    "fact": "Ostler ushers the group into the kitchen to discuss Furnok\u2019s theft.",
+    "source_quote": "he ushers them into the kitchen, explaining that his job offer is to prove that Furnoc is a crook who steals from the Inn\u2019s guests.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Elder Kenter\u2019s compound",
+    "fact": "The group visits the residence of Elder Kenter, which has an eight-foot-high stone wall and a heavy gate.",
+    "source_quote": "Zinia leads them to a place with an eight-foot-high stone wall and a heavy gate. It is the residence of some well-to-do folk and easily defensible in times of trouble.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Elder Kenter\u2019s compound",
+    "fact": "Elder Kenter\u2019s compound houses five families and servants.",
+    "source_quote": "Zinia quickly discovers that the compound has five families: the village elder and his wife, the four sons and their wives... There are also some servants here as well.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Elder Kenter\u2019s compound",
+    "fact": "Elder Kenter\u2019s compound has a large seating area with chairs, a divan, rugs, and a small table.",
+    "source_quote": "Past the central doorway, there is a large seating area with several comfortable chairs, a divan, several colorful rugs, and a small table.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Gnarley forest",
+    "fact": "Zephyr mentions a monster in the Gnarley forest that needs to be found.",
+    "source_quote": "Zephyr smiles, \u201cThere is a monster in the Gnarley forest, and we will need someone to help us find it.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Moathouse",
+    "fact": "The group is advised to go deeper into the moathouse for more evidence.",
+    "source_quote": "You must go deeper into the moathouse and find more evidence",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Moathouse",
+    "fact": "The group returns to the moathouse and enters the courtyard.",
+    "source_quote": "they are once again at the moathouse... Inside the courtyard, Calmer asks...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Moathouse",
+    "fact": "The group finds a collapsed tower with a faint gleam of coins inside.",
+    "source_quote": "Zinia points to the tower that they ignored last time... Looking at the floor, Sequoia and Zephyr notice a faint gleam of coins.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Moathouse",
+    "fact": "The group enters the great hall and finds a passageway with two south doors and one north door.",
+    "source_quote": "Sequoia crosses the courtyard, enters the great hall, and turns west into a passageway with two doors on the south and one to the north.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Emiry Meadows",
+    "fact": "Spugnoir knows the location of a lost wizard laboratory under Emiry Meadows.",
+    "source_quote": "I know the location of a lost wizard laboratory under Emiry Meadows.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Lotrimil mountains",
+    "fact": "Airgid the dragon\u2019s home is near the Lotrimil mountains.",
+    "source_quote": "The dragon explains that its home is near the Lotrimil mountains.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Kron Hills",
+    "fact": "Ostler says the way to the Lotrimil mountains is west through the Kron Hills.",
+    "source_quote": "Ostler explains that that\u2019s to the west through the Kron Hills.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Greenway Valley",
+    "fact": "Ostler says the fastest route to the Lotrimil mountains is south into the Greenway Valley.",
+    "source_quote": "The fastest way is to head south and turn north into the Greenway Valley.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "brewery",
+    "fact": "Mickey reports seeing cloaked people lurking behind the brewery at midnight.",
+    "source_quote": "I've seen a couple of cloaked people lurking behind the brewery at around midnight.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "ruined boathouse",
+    "fact": "A farmer's daughter, Lysia, wants to explore the ruined boathouse.",
+    "source_quote": "a farmer's daughter, Lysia, is itching to explore the ruined boathouse",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "secret passage under the inn",
+    "fact": "A patron mentions a secret passage below the inn leading to four lost chambers of a dead wizard.",
+    "source_quote": "There is a secret passage below the inn that leads to an extensive set of four lost chambers of a long-dead wizard.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "painted rock",
+    "fact": "The painted rock was found on the body of a bandit.",
+    "source_quote": "Zephyr shares that the stone was found on the body of a bandit.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "painted rock",
+    "fact": "Prefect Terjon claims the painted rock is worthless.",
+    "source_quote": "You bring me a painted rock... this trinket and your words.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "painted rock",
+    "fact": "Zephyr holds the painted rock after Terjon tosses it to him.",
+    "source_quote": "Zephyr, the stone in his fist, exits the temple.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "blueprints",
+    "fact": "The blueprints for the keep are missing and later return with traces of charcoal dust.",
+    "source_quote": "I was recently examining the blueprints for the keep and found them missing... they had returned, but there were traces of charcoal dust on them.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "loaded dice",
+    "fact": "Zinia finds the dice are loaded after grabbing them from the tipped table.",
+    "source_quote": "Zinia moves quickly and grabs the dice. As he picks them up, he realizes they are loaded",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "ivory box",
+    "fact": "The group finds an ivory box about the size of a large book among the treasures in the collapsed tower.",
+    "source_quote": "They find an ivory box about the size of a large book among the treasures.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "healing potion",
+    "fact": "Jaroo gives the group a healing potion as a blessing.",
+    "source_quote": "Jaroo is pleased and offers them the blessing of Beory and a healing potion.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "giant wolf spider",
+    "fact": "A giant wolf spider attacks the group as they reach for coins in the collapsed tower.",
+    "source_quote": "As they reach for the coin, a giant wolf spider attempts to turn them into its next meal.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "giant wolf spider",
+    "fact": "The giant wolf spider is overmatched and defeated by the two rogues and the monk.",
+    "source_quote": "But it is overmatched by the two rogues and the monk.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Church of St. Cuthbert",
+    "fact": "Marek\u2019s father, Tomlyn, is a member of the Church of St. Cuthbert.",
+    "source_quote": "Marek, whose father is Tomlyn, the tailor and a member of the Church of St. Cuthbert.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "old faith",
+    "fact": "Jira\u2019s father, Jakub, is a member of the old faith.",
+    "source_quote": "Jakub is a member of the old faith and won\u2019t let Jira be with Marek",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "village council",
+    "fact": "The village council consists of Jaroo, Rufus, Burne, Ostler, and Captain Zeb Fletcher.",
+    "source_quote": "The council members are Jaroo, Rufus, Burne, and Ostler, whom you have already met, as well as Captain Zeb Fletcher, father of Elmo and Mytch the Miller.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "missing blueprints",
+    "fact": "The blueprints for the keep were stolen and copied, and the thief is suspected to be a worker in the encampments.",
+    "source_quote": "I suspect that someone has copied our blueprints... I am convinced it is one of the workers in the encampments.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "cloaked figures at midnight",
+    "fact": "Cloaked figures are seen lurking behind the brewery at midnight, sparking rumors the temple is not dead.",
+    "source_quote": "I've seen a couple of cloaked people lurking behind the brewery at around midnight... the rumors around the village is going that the temple isn't as dead as everybody thought.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "lost wizard laboratory",
+    "fact": "Spugnoir knows of a lost wizard laboratory under Emiry Meadows and wants to join the group to find it.",
+    "source_quote": "I know the location of a lost wizard laboratory under Emiry Meadows. I am offering to split the treasures as long as I get the first crack at any arcane scrolls we find.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "dragon's mother",
+    "fact": "Airgid says her mommy will reward the group for returning her home.",
+    "source_quote": "Don\u2019t worry, my mommy will reward you! I KNOW SHE WILL! THANK YOU!",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Lysia\u2019s exploration of the ruined boathouse",
+    "fact": "Lysia, the farmer's daughter, wants to explore the ruined boathouse but needs equipment and competent companions.",
+    "source_quote": "a farmer's daughter, Lysia, is itching to explore the ruined boathouse, but she needs some equipment and a few competent companions.",
+    "quote_verified": true
+  }
+]

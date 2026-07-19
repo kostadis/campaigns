@@ -1,0 +1,723 @@
+[
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer presented a painted rock to Prefect Terjon as evidence, was shocked by the rejection, and later bowed out to return to the temple for prayers.",
+    "source_quote": "Calmer asked, \"Tomorrow at the same time?\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr retrieved the painted rock from Prefect Terjon after questioning its worth, carried it to Burne and Rufus, and recognized the connection between the rock and the missing blueprints.",
+    "source_quote": "Zephyr said, \"If this rock is so worthless, why keep it?\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia recognized the town\u2019s lack of secrets, truthfully disclosed their interactions to Jaroo, and led the group to Elder Kenter\u2019s compound to secure local political support.",
+    "source_quote": "Zinia muttered, \"We should go talk to the village elder.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia observed the two sons of Elder Kenter carefully grooming horses and inferred their pride in possessions.",
+    "source_quote": "Sequoia thought that they must be very proud of their possessions.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Prefect Terjon",
+    "fact": "Prefect Terjon dismissed the rock as a painted trinket, refused to keep it initially, then changed his mind and retained it, later tossing it to Zephyr after being provoked.",
+    "source_quote": "Terjon muttered, \"You\u2019re right. It is worthless.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Burne",
+    "fact": "Burne and Rufus connected the painted rock to the missing blueprints, recognized sabotage, and commissioned the party to investigate the encampment workers.",
+    "source_quote": "Burne muttered, \"This is it?\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Rufus",
+    "fact": "Rufus discovered charcoal dust on returned blueprints, suspected a saboteur working with bandits, and concluded the thief was among the encampment workers.",
+    "source_quote": "Rufus whispered, \"We may have a job for you.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Ostler",
+    "fact": "Ostler, the innkeeper, enforced a three-night minimum stay policy and noted that adventurers had not spoken to the Druid, hinting at unresolved tension.",
+    "source_quote": "Ostler said, \"I\u2019ll believe it when he says so.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jaroo",
+    "fact": "Jaroo, the Druid, demanded deeper evidence from the moathouse, blessed the party with Beory\u2019s favor and a healing potion after learning they had spoken to Terjon, Burne, and Rufus.",
+    "source_quote": "Jaroo shouted, \"Who else have you spoken to?\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Elder Kenter",
+    "fact": "Elder Kenter welcomed the party to his compound, acknowledged Beory\u2019s blessings, and presided over a household of five families and servants, representing the town\u2019s political core.",
+    "source_quote": "Kenter toasted, \"The Blessings of Beory.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Kenter's Household",
+    "fact": "The household of Elder Kenter consists of five families: the elder and his wife, four sons and their wives, with children and servants, forming a defensible and influential local power structure.",
+    "source_quote": "Zinia discovered that the compound has five families: the village elder and his wife, the four sons and their wives. A gaggle of children... servants here as well.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Local Militia",
+    "fact": "The local militia has orders to bring the party to Burne and Rufus at the Inn of the Welcome Wench, indicating structured coordination between town authority and enforcement.",
+    "source_quote": "They are local militia members and have orders to bring the four to Burne and Refus, who are currently drinking at the Inn of the Welcome Wench.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "painted rock",
+    "fact": "The painted rock, found on a bandit\u2019s body, was dismissed as worthless by Terjon, accepted by Zephyr, and later recognized by Burne and Rufus as a clue linked to charcoal dust on stolen blueprints.",
+    "source_quote": "Terjon said, \"You bring me a painted rock.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "blueprints for the keep",
+    "fact": "The blueprints for the keep were reported missing, later returned with traces of charcoal dust, suggesting an internal copy operation by a saboteur among the encampment workers.",
+    "source_quote": "Rufus said, \"I found them missing... traces of charcoal dust on them.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "blueprint theft investigation commissioned",
+    "fact": "Burne and Rufus, convinced by the rock\u2019s connection to the charcoal-dusted blueprints, formally commissioned the party to investigate the encampment workers for sabotage.",
+    "source_quote": "Rufus said, \"You must go and find the thief.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Druid\u2019s blessing granted",
+    "fact": "After learning the party had spoken to Terjon, Burne, and Rufus, Jaroo granted them Beory\u2019s blessing and a healing potion, signaling his approval and hidden knowledge of their actions.",
+    "source_quote": "Jaroo offered them the blessing of Beory and a healing potion.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "three-night inn stay enforced",
+    "fact": "Ostler enforced a policy that adventurers must stay at the Inn for a minimum of three nights, and any goods left behind are sold after three days.",
+    "source_quote": "Ostler said, \"adventurers have a minimum three-night stay at the Inn. And as a matter of policy, any goods left behind are sold after three days.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "identity of the saboteur",
+    "fact": "The saboteur is suspected to be a worker in the encampment who collaborated with the bandits, but their identity remains unknown and must be uncovered.",
+    "source_quote": "Rufus said, \"I am convinced it is one of the workers in the encampments.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Druid\u2019s hidden agenda",
+    "fact": "The Druid\u2019s apparent approval and delayed blessing suggest he knew of the party\u2019s prior dealings and is waiting for them to engage him directly before revealing deeper truths.",
+    "source_quote": "Ostler said, \"I\u2019ll believe it when he says so, which will happen after you talk to him about whatever you talked to Burne, Rufus, and Terjon about.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Elder Kenter\u2019s Compound",
+    "fact": "Elder Kenter\u2019s compound is a defensible residence with an eight-foot-high stone wall and heavy gate, housing five families, children, and servants, serving as the political heart of the village.",
+    "source_quote": "It is the residence of some well-to-do folk and easily defensible in times of trouble.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Inn of the Welcome Wench",
+    "fact": "The Inn of the Welcome Wench is where Burne and Rufus are drinking and where the party receives their mission; it is a hub of local intelligence and social interaction.",
+    "source_quote": "Burne and Refus are sitting at the table, drinking.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Temple of St. Cuthbert",
+    "fact": "The Temple of St. Cuthbert is where Prefect Terjon resides and where the painted rock was first evaluated; it is a center of civic authority and religious influence.",
+    "source_quote": "Once inside the temple of St. Cuthbert, Calmer excitedly explains to Prefect Terjon...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Moathouse",
+    "fact": "The Moathouse is the site of prior investigations and remains the target for deeper evidence, as repeatedly demanded by town leaders including Jaroo and Ostler.",
+    "source_quote": "Ostler admonished, \"You must go deeper into the moathouse and find more evidence.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "bandits",
+    "fact": "Bandits were defeated and one confessed, yielding the painted rock; they are suspected of colluding with a saboteur among the encampment workers.",
+    "source_quote": "The stone's strange markings suggest elemental evil, and after a confession from one of the bandits...",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Planting 16, 579",
+    "fact": "The events of the chapter occur on Planting 16, 579, marking the timeline of the recruitment, loaded dice, and midnight whispers.",
+    "source_quote": "Date: Planting 16, 579",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Hawthorne",
+    "fact": "Hawthorne is the second son of the Elder who observed the trio's movements from the moathouse and followed them to Jaroo, Terjon, Burne, and Refus, driven by natural curiosity.",
+    "source_quote": "My second son, Hawthorne, saw you come from the moathouse. He followed you and saw you visited Jaroo, Terjon, Burne, and Refus.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ostler",
+    "fact": "Ostler is a council member whom the trio has already met, and who has offered a job to prove Furnoc is a crook who steals from the Inn\u2019s guests, with free rooms as incentive.",
+    "source_quote": "The council members are Jaroo, Rufus, Burne, and Ostler, whom you have already met...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Furnok the Fabulous",
+    "fact": "Furnok the Fabulous is a target of Ostler\u2019s accusation of theft from Inn guests; his pickpocketing attempt fails, and he is later confronted by Ostler, who discovers loaded dice.",
+    "source_quote": "his attempt at pick-pocketing Furnok the Fabulous fails... he realizes they are loaded\u2014'The proof I needed!'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Elmo",
+    "fact": "Elmo is the son of Zeb Fletcher, a drunk adventurer and ranger who is sitting at the Inn, and who volunteers to help the trio find the monster in the Gnarley Forest.",
+    "source_quote": "Sequoia realizes that this is Elmo. He also smells the stench of booze on him: 'A drunk.'... Elmo is an adventurer and a ranger by profession.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Spugnoir",
+    "fact": "Spugnoir is a mysterious figure who claims knowledge of a lost wizard laboratory under Emiry Meadows and offers to join the trio as a fourth member in exchange for first pick of arcane scrolls.",
+    "source_quote": "I know the location of a lost wizard laboratory under Emiry Meadows... I would like to go adventuring with you and complete your quartet.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Mickey",
+    "fact": "Mickey is the son of Virgil Tamen, the Braumeister, who reports seeing cloaked figures near the brewery at midnight and fears the temple may not be dead, prompting the trio to investigate.",
+    "source_quote": "I'm the son of Virgil Tamen, the Braumeister... I've seen a couple of cloaked people lurking behind the brewery at around midnight.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zeb Fletcher",
+    "fact": "Zeb Fletcher is the father of Elmo and Mytch the Miller, and a council member whose influence is referenced by a patron threatening to call him.",
+    "source_quote": "Captain Zeb Fletcher, father of Elmo and Mytch the Miller... 'I\u2019ll have to call the Captain, and he won\u2019t be as kindly as Ostler is.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Valsenora",
+    "fact": "Valsenora is Kenter\u2019s wife, who brings treats to the table during the Elder\u2019s gathering, symbolizing hospitality and community.",
+    "source_quote": "the treats that Kenter\u2019s wife, Valsenora, brings to the table.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Council",
+    "fact": "The Council consists of Jaroo, Rufus, Burne, and Ostler, with Captain Zeb Fletcher as a key figure; they are the governing body of the village and the target of the Elder\u2019s influence.",
+    "source_quote": "The council members are Jaroo, Rufus, Burne, and Ostler... Captain Zeb Fletcher... the people you spoke to are on the council.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "The Moathouse",
+    "fact": "The Moathouse is the location from which Hawthorne first observed the trio\u2019s arrival and began following them, suggesting it is a point of surveillance or transition.",
+    "source_quote": "Hawthorne, saw you come from the moathouse.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Inn of the Welcome Wench",
+    "fact": "The Inn of the Welcome Wench is where Ostler greets the trio, Furnok is accused, Elmo is encountered, and the secret passage beneath the inn is rumored to exist.",
+    "source_quote": "the Inn of the Welcome Wench... greets the trio at the door... the secret passage below the inn...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "The Brewery",
+    "fact": "The Brewery is the site of suspicious activity reported by Mickey, where cloaked figures are seen at midnight, sparking the trio\u2019s investigation.",
+    "source_quote": "cloaked people lurking behind the brewery at around midnight.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Emiry Meadows",
+    "fact": "Emiry Meadows is the rumored location of a lost wizard laboratory, as disclosed by Spugnoir, who offers to guide the trio there.",
+    "source_quote": "I know the location of a lost wizard laboratory under Emiry Meadows.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Gnarley Forest",
+    "fact": "The Gnarley Forest is the location of a rumored monster, which Elmo volunteers to help the trio find.",
+    "source_quote": "There is a monster in the Gnarley forest, and we will need someone to help us find it.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Ruined Boathouse",
+    "fact": "The Ruined Boathouse is the destination desired by Lysia, the farmer\u2019s daughter, who needs equipment and companions to explore it.",
+    "source_quote": "a farmer's daughter, Lysia, is itching to explore the ruined boathouse...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "The Castle Construction Site",
+    "fact": "The Castle Construction Site is noted by Sequoia for its unusually loud noise during the quiet night, suggesting ongoing hidden activity or magical interference.",
+    "source_quote": "Sequoia notices how much noise the castle construction makes.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Furnok\u2019s Dice Discovery",
+    "fact": "Ostler\u2019s attempt to catch Furnok stealing fails, but the loaded dice found during the failed pickpocketing become proof of a deeper conspiracy.",
+    "source_quote": "he realizes they are loaded\u2014'The proof I needed!'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Elmo Joins the Group",
+    "fact": "Elmo, a drunken but capable ranger, volunteers to join the trio\u2019s quest to find the monster in the Gnarley Forest, becoming an informal ally.",
+    "source_quote": "I am your person!",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Spugnoir Joins the Quartet",
+    "fact": "Spugnoir offers to join the trio as a fourth adventurer, revealing knowledge of a lost wizard lab and demanding first pick of scrolls, surprising them with familiarity.",
+    "source_quote": "Somehow, you are very familiar... Sure.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Mickey\u2019s Report",
+    "fact": "Mickey reports cloaked figures near the brewery at midnight, raising fears that the temple may be active again, prompting the trio to investigate under cover of night.",
+    "source_quote": "I've seen a couple of cloaked people lurking behind the brewery at around midnight.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Night Surveillance at the Brewery",
+    "fact": "The trio sneaks out at midnight to observe the brewery, with Zephyr confronting two cloaked spies, one of whom is captured with a blade to the throat.",
+    "source_quote": "Zephyr quickly advances on them... puts the blade to the throat of the smaller of the two\u2014the spy shrieks.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "The Monster in the Gnarley Forest",
+    "fact": "A mysterious monster is rumored to inhabit the Gnarley Forest, and Elmo claims he is the person to help the trio find it.",
+    "source_quote": "There is a monster in the Gnarley forest...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "The Loaded Dice",
+    "fact": "The loaded dice found on Furnok are physical evidence of fraud or magical manipulation, and serve as the key proof Ostler seeks.",
+    "source_quote": "he realizes they are loaded\u2014'The proof I needed!'",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "The Secret Passage Beneath the Inn",
+    "fact": "A secret passage beneath the Inn of the Welcome Wench is rumored to lead to four lost chambers of a long-dead wizard, suggesting hidden history and potential treasure.",
+    "source_quote": "There is a secret passage below the inn that leads to an extensive set of four lost chambers of a long-dead wizard.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Temple\u2019s Possible Resurgence",
+    "fact": "Rumors suggest the temple may not be dead, and the cloaked figures at the brewery may be spies, creating an unresolved mystery the trio must investigate.",
+    "source_quote": "the rumors around the village is going that the temple isn't as dead as everybody thought. And so maybe, those are, uh, spies.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Spugnoir\u2019s Familiarity",
+    "fact": "Spugnoir\u2019s uncanny familiarity with the trio raises an unresolved question about his past connection to them, hinting at forgotten memories or hidden ties.",
+    "source_quote": "Somehow, you are very familiar.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Wizard Laboratory Under Emiry Meadows",
+    "fact": "Spugnoir\u2019s claim of a lost wizard laboratory under Emiry Meadows introduces a new quest thread, pending verification and exploration.",
+    "source_quote": "I know the location of a lost wizard laboratory under Emiry Meadows.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Four Lost Chambers Beneath the Inn",
+    "fact": "The rumor of four lost chambers beneath the Inn introduces a potential dungeon crawl and historical mystery, awaiting discovery.",
+    "source_quote": "There is a secret passage below the inn that leads to an extensive set of four lost chambers of a long-dead wizard.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Lysia\u2019s Quest to the Ruined Boathouse",
+    "fact": "The farmer\u2019s daughter Lysia\u2019s desire to explore the ruined boathouse introduces a potential side quest involving equipment, companions, and possible dangers.",
+    "source_quote": "a farmer's daughter, Lysia, is itching to explore the ruined boathouse, but she needs some equipment and a few competent companions.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Tomorrow",
+    "fact": "The trio and Spugnoir agree to begin their joint adventure tomorrow, marking the next phase of their journey.",
+    "source_quote": "Tomorrow then, as it is quite late!",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is a tiefling who uses his fierceness to silence teenagers and later appears confused while observing events at the moathouse.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jira",
+    "fact": "Jira is a girl who introduces herself to Zephyr and pleads for help from Zinia, claiming her parents oppose her relationship with Marek due to religious differences.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Marek",
+    "fact": "Marek is a boy who is in a relationship with Jira; his father, Tomlyn, is a tailor and member of the Church of St. Cuthbert, which opposes Jira's faith.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jakub",
+    "fact": "Jakub is a member of the old faith who forbids Jira from being with Marek due to religious conflict.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Tomlyn",
+    "fact": "Tomlyn is a tailor and member of the Church of St. Cuthbert, and the father of Marek.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia snarls at the teenagers and is later pleaded with by Jira to intervene with their parents; Zinia is also a participant in the moathouse exploration and identifies enemy trophies.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia is a participant in the moathouse exploration and identifies enemy trophies as the heads of dwarves, humans, and elves \u2014 'Enemies of the temple.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia points to the tower ignored last time during the moathouse exploration and enters the trophy room where she identifies enemy trophies.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia is a monk who notices a faint gleam of coins in the tower, enters the salon, identifies worthless treasures, and leads the group through the moathouse's passageways.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia leads the group into the final chamber with the giant poisonous snake and survives its attack.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a healer who is sought by Zephyr for the Moathouse mission; he gulps inside the courtyard and asks what to check out next.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Spugnoir",
+    "fact": "Spugnoir is a character who had expected to go on an adventure and was left behind; he has a crushed look of being overlooked and smiles reluctantly when asked to assist.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "The Duke",
+    "fact": "The Duke sets up camp at the moathouse and expresses hope to see the heroes again; he is present as the group prepares for exploration.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Ostler",
+    "fact": "Ostler explains that the dragon's home is to the west through the Kron Hills and confirms the journey is safe.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Airgid",
+    "fact": "Airgid is a silver dragon who has strained the budget, shouts 'HOME!' as she flies west, and promises her mother will reward the heroes.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "The Giant Wolf Spider",
+    "fact": "A giant wolf spider attempts to turn the rogues and monk into its next meal but is overmatched and killed.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "The Giant Lizard",
+    "fact": "A giant lizard uses a chest as a lure in the barracks room but is killed by the group.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "The Swarm of Rats",
+    "fact": "A swarm of rats is encountered in the stairwell room and is quickly killed.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "The Giant Poisonous Snake",
+    "fact": "A giant poisonous snake attempts to strike in the final chamber but fails and is killed.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "The Old Faith",
+    "fact": "The Old Faith is a religious group to which Jakub belongs; it opposes the Church of St. Cuthbert and is the source of conflict preventing Jira and Marek's relationship.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "The Church of St. Cuthbert",
+    "fact": "The Church of St. Cuthbert is a religious institution to which Tomlyn and Marek belong; it opposes the Old Faith and is the reason Jakub forbids Jira from being with Marek.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "dragon's departure",
+    "fact": "Airgid the silver dragon takes off flying west after shouting 'HOME!' and promises her mother will reward the heroes.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "moathouse exploration",
+    "fact": "The group returns to the moathouse, explores its ruins, and clears multiple rooms of monsters and hidden treasures.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "discovery of ivory box",
+    "fact": "The group finds an ivory box the size of a large book among the treasures in the moathouse.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "discovery of coins",
+    "fact": "Sequoia and Zephyr notice a faint gleam of coins in the collapsed tower and reach for them, triggering the wolf spider attack.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "identification of enemy trophies",
+    "fact": "Zinia identifies some trophies in the trophy room as the heads of dwarves, humans, and elves \u2014 'Enemies of the temple.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "salon of worthless treasures",
+    "fact": "Sequoia finds a room with seemingly valuable items that turn out to be worthless; he concludes it was a salon for meetings.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Lotrimil mountains",
+    "fact": "The Lotrimil mountains are the location of the silver dragon Airgid's home, as explained by the dragon and confirmed by Ostler.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Kron Hills",
+    "fact": "The Kron Hills are the route to the west that leads to the Lotrimil mountains, as explained by Ostler.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Greenway Valley",
+    "fact": "The Greenway Valley is the destination reached by heading south and turning north, as the fastest route to the dragon's home.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "moathouse",
+    "fact": "The moathouse is a ruined castle with multiple chambers, including a tower, trophy room, barracks, salon, and great hall, explored by the heroes.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "moat house",
+    "fact": "The moat house is a location passed during the journey to the dragon's home; it calls to the group but they have another job.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Tulvar",
+    "fact": "Tulvar is the destination reached after a day of hard traveling, where Airgid shouts 'HOME!' and departs.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Hommlet",
+    "fact": "Hommlet is the town where the group stays at the Inn of the Welcome Wench before returning to the moathouse.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Inn of the Welcome Wench",
+    "fact": "The Inn of the Welcome Wench is where Spugnoir and Calmer stare at the heroes, having expected to join an adventure the previous day.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Great Hall",
+    "fact": "The Great Hall of the moathouse is crossed by Sequoia as he enters the southern passageway with three doors.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Southern Passageway",
+    "fact": "The southern passageway is a 70-foot-long hallway with three doors, running north-south, leading to the final chambers of the moathouse.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Trophy Room",
+    "fact": "The trophy room is accessed through the first door on the left in the passageway; it contains mangy pelts, stuffed heads, and shattered antlers, including those of dwarves, humans, and elves.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Majordomo's Domicile",
+    "fact": "The majordomo's domicile is the next door on the southern wall; it is stripped of anything valuable.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Barracks Room",
+    "fact": "The barracks room is the westernmost room in the hallway; it contains remains of cots and plain wooden chests, indicating it was once used by human guards.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Stairwell Room",
+    "fact": "The stairwell room is accessed after the barracks; it contains a swarm of rats that are quickly killed.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Conference Room",
+    "fact": "The conference room is the first door in the southern passageway; it is sniffed and shut by the rogue as containing nothing.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Bed Chamber",
+    "fact": "The bed chamber is the second door on the western wall of the southern passageway; it appears to have been for a lowly official.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Salon",
+    "fact": "The salon is the third door on the western wall of the southern passageway; it contains seemingly valuable items that turn out to be worthless.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Final Chamber",
+    "fact": "The final chamber is at the end of the southern passageway; it is empty except for a giant poisonous snake that attempts to strike and is killed.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "ivory box",
+    "fact": "An ivory box about the size of a large book is found among the treasures in the moathouse.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "coins",
+    "fact": "A faint gleam of coins is noticed on the floor of the collapsed tower; the group reaches for them, triggering the wolf spider attack.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "chest",
+    "fact": "An intact chest is found at the south end of the barracks room; it is used as a lure by the giant lizard.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Planting 17, 579",
+    "fact": "On Planting 17, 579, the group decides to return the silver dragon to its home.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Planting 18, 579",
+    "fact": "On Planting 18, 579, the heroes are in Hommlet and return to the moathouse for exploration.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Session 5",
+    "fact": "Session 5 is the session in which the group returns to the moathouse and explores its ruins.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "dragon's reward",
+    "fact": "Airgid promises her mother will reward the heroes, suggesting a future encounter or boon from a higher power.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "enemy trophies",
+    "fact": "The presence of dwarven, elven, and human heads in the trophy room suggests a deeper history of persecution or war tied to the temple, warranting further investigation.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "worthless salon",
+    "fact": "The salon filled with fake treasures suggests deliberate deception or a trap set by former occupants, hinting at hidden secrets or booby-trapped areas.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Jakub's opposition",
+    "fact": "Jakub's religious opposition to Jira and Marek's relationship may have deeper ties to the moathouse's past or the temple's ideology.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Spugnoir's exclusion",
+    "fact": "Spugnoir's crushed look and repeated exclusion suggest a pattern of being overlooked, potentially leading to a personal arc or betrayal.",
+    "quote_verified": false
+  }
+]

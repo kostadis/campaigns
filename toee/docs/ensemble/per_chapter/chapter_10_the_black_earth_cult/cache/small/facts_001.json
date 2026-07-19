@@ -1,0 +1,142 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia delivered a barrel of mead to the Honey Tavern Inn and interacted with Glannon, who offered a keg of magical mead that enhances charisma and persuasion. Zinnia suspected mockery but accepted the gift. Zinnia later observed and reacted to clues about the Black Earth Cult with a momentary flash of pleasure when the trail became clear.",
+    "source_quote": "You found it? Yes. He rolls the barrel behind the bar, and takes out a keg, 'Here\u2019s my fine keg of mead... The magic in the mead will help when you need to interact with people and persuade them.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Quinna Poul",
+    "fact": "Quinna Poul rushed out of the kitchen to enlist help retrieving animated food ingredients from the village feast, specifically a runaway broccoli that headed toward the apothecary. She was both smiling and worried, and the party felt obligated to assist after the previous feast.",
+    "source_quote": "So - remember that feast, well some of the ingredients were animated and they rushed into the village. Could I bother you to go get them?",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr pursued animated potatoes, captured them with a knife, stuffed them into a bag, and later consumed one, describing it as more filling than a captured rat. Zephyr later participated in the infiltration of the Black Earth Cult encampment and observed the failed bluff by Calmer.",
+    "source_quote": "Bouncing potatoes,\u201d I shout to Seqoia and run after them... I grab one, and the other two pause as if angry... I stab the one in my hand... The potato is in my belly. And I feel blessed.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Palsmarie Clee",
+    "fact": "Palsmarie Clee, the beekeeper druid of Sheernobb, appeared silently in the Honey Tavern Inn and provided critical intelligence about the caravan attack, identifying the attackers as chanting 'Black Earth' and wielding stone weapons. She directed the party to the attack site and urged them to investigate.",
+    "source_quote": "Let me show you on the map where the caravan was... The guards who survived said that the attackers chanted 'Black Earth' and carried weapons of stone.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thalsor of the Stone",
+    "fact": "Thalsor of the Stone is a druid affiliated with the Black Earth Cult who guards the encampment in the Kron Hills. He rejected Calmer\u2019s bluff, invoked the Earth Mother, and accused the party of trampling sacred ground, confirming the cult\u2019s religious devotion to stone and earth.",
+    "source_quote": "He\u2019s shouting about the earth mother and how we're trampling on sacred ground. He\u2019s not buying what Calmer\u2019s selling.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Black Earth Cult",
+    "fact": "The Black Earth Cult is a secretive, stone-worshipping organization that attacked the caravan, chanted the phrase 'Black Earth,' and wielded weapons of stone. They maintain a hidden encampment in the Kron Hills with stone-studded armor, stone weapons, and a temple featuring a stone statue. They are believed to be responsible for animating food and possibly manipulating natural elements like falling rocks.",
+    "source_quote": "The guards who survived said that the attackers chanted 'Black Earth' and carried weapons of stone... These are the guys... stone-studded leather armor and carrying stone weapons.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "animated food incident",
+    "fact": "During the feast on Planting 22, 579, ingredients including broccoli and potatoes became animated and fled into the village, causing chaos. The broccoli headed toward the apothecary, and the potatoes were later captured and consumed. This event was linked to the Black Earth Cult\u2019s influence.",
+    "source_quote": "some of the ingredients were animated and they rushed into the village... Bouncing potatoes... It\u2019s just bouncin, bouncin, bouncin on down the road...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "caravan attack",
+    "fact": "The caravan was ambushed on the road near the Kron Hills. Wagons were overturned, barrels broken, and honey jars scattered. Magic was used, evidenced by glowing runes and large footprints. Survivors reported attackers chanting 'Black Earth' and wielding stone weapons, indicating a cult attack rather than banditry.",
+    "source_quote": "The ground is churned up... Magic was used here... faintly glowing runes etched into the rocks... chanted 'Black Earth' and carried weapons of stone.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "infiltration of Black Earth Cult encampment",
+    "fact": "The party infiltrated the hidden encampment in the Kron Hills using a split strategy: Calmer attempted a bluff at the gate while Zinnia, Zephyr, and Sequoia scaled the wall. Calmer\u2019s ruse failed as Thalsor denounced them for desecrating sacred ground. The encampment contained barrels of honey, a stone temple, and stone-wielding cultists.",
+    "source_quote": "We've just gotten over the wall... Calmer tries to bluff these bandits... Thalsor... starts shouting about the earth mother... Inside the walls is a temple... as well the barrels that we are looking for.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Honey Tavern Inn",
+    "fact": "The Honey Tavern Inn is a social hub in the village where key interactions occurred: delivery of the mead barrel, the animated food request, Palsmarie Clee\u2019s cryptic appearance, and the planning of the assault on the Black Earth Cult. It is the central base of operations for the party\u2019s investigation.",
+    "source_quote": "I arrive at the Honey Tavern Inn... I drop the barrel down... Palsmarie Clee coughs... the beekeeper druid of Sheernobb is very quiet.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Apothecary",
+    "fact": "The apothecary is a magical shop in the village where the animated broccoli fled during the food incident. It is associated with potions and enchanted substances, and its presence suggests possible magical contamination or intentional targeting by the cult.",
+    "source_quote": "It took off like a shot towards the apothecary, that place with all the magical potions and stuff.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Kron Hills encampment",
+    "fact": "A hidden cultist encampment built into a shallow cave on a rocky outcrop in the Kron Hills, guarded by stone-armored cultists with stone weapons. Contains a temple with a stone statue and the stolen honey barrels. The site is concealed and protected by natural defenses, including suspicious falling rocks.",
+    "source_quote": "It\u2019s built into a shallow cave on a rocky outcrop... guarded gate with makeshift stone barricades... stone-studded leather armor... temple to some god, a weird stone statue... the barrels that we are looking for.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "magical mead keg",
+    "fact": "A keg of mead imbued with magic that enhances charisma, persuasion, and the ability to 'turn heads' or 'convince merchants.' Offered by Glannon at the Honey Tavern Inn as a tool for social manipulation, possibly linked to the cult\u2019s broader enchantment practices.",
+    "source_quote": "Here\u2019s my fine keg of mead... The magic in the mead will help when you need to interact with people and persuade them.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "animated broccoli",
+    "fact": "An enchanted vegetable that became animated and fled the feast, heading toward the apothecary. It was eventually struck with a spell and collapsed into a dark green substance, suggesting it was a vessel or byproduct of the Black Earth Cult\u2019s magic.",
+    "source_quote": "It took off like a shot towards the apothecary... I pick up the 'broccoli' now just a very dark green something...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "animated potatoes",
+    "fact": "Three animated potatoes that escaped the feast, causing chaos in the village. One was stabbed and consumed by Zephyr, while the others were captured and bagged. Their animation suggests the cult\u2019s ability to imbue mundane objects with life.",
+    "source_quote": "Bouncing potatoes... I grab one, and the other two pause as if angry... I stab the one in my hand... The potato is in my belly.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "glowing runes",
+    "fact": "Faintly glowing magical runes etched into rocks at the caravan attack site, indicating the use of high-level enchantment or ritual magic. Their presence confirmed the attack was not banditry but the work of the Black Earth Cult.",
+    "source_quote": "faintly glowing runes etched into the rocks... I shout, 'Magic.'",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Lareth\u2019s target",
+    "fact": "Lareth has tasked the party with identifying and eliminating the Black Earth Cult, believed to be responsible for the caravan attack and possibly possessing a box he desires. The cult\u2019s use of stone weapons and chanting confirms they are the intended target, though their full motives remain unclear.",
+    "source_quote": "This might be the clue and evidence we need. It certainly is who Lareth wants us to kill, and they might have this box that Lareth wants.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "mysterious falling rocks",
+    "fact": "The party nearly got crushed by falling rocks while following the trail to the cult encampment. Though no culprits were found, the timing suggests possible manipulation by the cult to deter pursuers, hinting at deeper earth-based magic or sentience.",
+    "source_quote": "We almost get crushed by falling rocks... I am worried that the stones were not an accident, but we find nothing.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Planting 22, 579",
+    "fact": "Date of the feast where ingredients became animated and the mead barrel was delivered to the Honey Tavern Inn. Marks the beginning of the party\u2019s involvement with the Black Earth Cult\u2019s activities.",
+    "source_quote": "Planting 22, 579",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Planting 23, 579",
+    "fact": "Date of the caravan attack investigation, the discovery of glowing runes, the infiltration of the cult encampment, and the consumption of the animated potato. The pivotal day of the party\u2019s confrontation with the cult.",
+    "source_quote": "Planting 23, 579",
+    "quote_verified": true
+  }
+]

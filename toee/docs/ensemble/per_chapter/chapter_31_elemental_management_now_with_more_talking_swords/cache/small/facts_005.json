@@ -1,0 +1,100 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is the tiefling who pokes everything in creation with a stick, and he improperly touched the Water Temple, triggering its defensive response.",
+    "source_quote": "He knocked on it. The idol began to rotate. He said he wanted to check anyway.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia agreed to kill the temple's guardians and struck the first gargoyle with his dagger, following Zephyr\u2019s lead.",
+    "source_quote": "Kill him,\" he said. \"Kill him,\" I agreed, \"I am glad we all agree on this point.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia is the most reliable knife, but she was slow off her mark this time \u2014 the clumsiest start I have ever seen her take, and she warned against overreaching into a room not yet owned.",
+    "source_quote": "Not to go too deep. To not overreach into a room I did not yet own.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Narrator",
+    "fact": "The narrator is the one who summoned the radiant spirits, walked into the hall with them, and destroyed three gargoyles \u2014 claiming the temple as their own and taking pleasure in Zinnia\u2019s caution and Zephyr\u2019s mistake.",
+    "source_quote": "I reached for the swirling spirits. They came the way they always come for me... I walked into the hall with them, the way a man walks into his own house.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Water Temple",
+    "fact": "The Water Temple is a sentient, reactive sacred site that defends itself when improperly touched \u2014 activating gargoyles, rotating idols, and summoning spiritual retribution.",
+    "source_quote": "The temple was now improperly touching back. The gargoyles came off their pillars. Stone going from stone to intent.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Gargoyles",
+    "fact": "Four stone gargoyles crowned the temple pillars and became animate guardians after Zephyr touched the bronze sheet \u2014 three were destroyed by the narrator\u2019s spirits, one remains.",
+    "source_quote": "The gargoyles came off their pillars. Wings unfolding. Stone going from stone to intent... The first gargoyle nearest the spirits simply ended... The second buckled... The third caught the edge of the wheel and staggered.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Serpentine Idol",
+    "fact": "A serpentine idol of writhing marine horrors \u2014 eels, octopi, and fish knotted into one obscene mass \u2014 stood taller than a man and rotated when touched.",
+    "source_quote": "The idol began to rotate.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Bronze Sheet",
+    "fact": "A bas-relief bronze sheet on the west wall depicts an underwater vista with seaweed, shells, and a hideous fish-head spewing water \u2014 it is real and triggered the temple\u2019s defense when touched.",
+    "source_quote": "He chose the bronze sheet. He wanted to see if it was real. I told him it was real.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Altar",
+    "fact": "A round, broad, waist-high altar with a concave top filled with coins, gems, seashells, and a drowned fortune \u2014 the source of the temple\u2019s power and temptation.",
+    "source_quote": "And the altar: round, broad as a wagon and waist-high, its concave top a shallow basin, and in that water, gentlemen, *coins.* Gems. Seashells. A whole drowned fortune sitting there waiting.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Temple Awakening",
+    "fact": "The Water Temple awoke in defensive response to improper contact \u2014 gargoyles detached, the idol rotated, and spiritual forces were summoned to purge the trespasser.",
+    "source_quote": "The temple was now improperly touching back. The gargoyles came off their pillars. Stone going from stone to intent.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Gargoyle Annihilation",
+    "fact": "Three of the four gargoyles were destroyed by the narrator\u2019s summoned radiant spirits \u2014 one shattered instantly, one buckled under gnawing radiance, one staggered and was torn down to half its form.",
+    "source_quote": "The first gargoyle... simply ended... The second buckled... The third... staggered, sloughing stone, torn down to half of what it had been.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Temple Ownership",
+    "fact": "The narrator claims the Water Temple as their own \u2014 but Zinnia warns against overreaching into a room not yet owned, suggesting the temple\u2019s full power and allegiance remain contested.",
+    "source_quote": "Not to go too deep. To not overreach into a room I did not yet own.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Water Temple",
+    "fact": "The Water Temple is a vast, submerged-like sanctum of polished azurite and malachite, with bronze reliefs, swirling spirits, and a floor that emits a soft cloudy greenish light \u2014 it feels like walking suspended in deep water.",
+    "source_quote": "Slabs of polished azurite and malachite, blue swirled through deep green... so that you feel you are walking suspended in deep water with the air pressing on you.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occurred during a session where the party entered the Water Temple, triggered its defenses, and began claiming its treasures \u2014 the day deserved a little flourish.",
+    "source_quote": "because the day deserved a little flourish",
+    "quote_verified": true
+  }
+]

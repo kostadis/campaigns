@@ -1,0 +1,72 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
+    "source_quote": "The session opened with the party engaging in a grueling, non-lethal combat trial",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "An hour passes between two events in the session.",
+    "source_quote": "During the fierce exchange of longswords and short swords, Nicholas was knocked unconscious but was swiftly revived",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Four stones and four passages are present in the magical library.",
+    "source_quote": "they deciphered a clue regarding four stones and four passages",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "The town of Sloopdopblop is just eight days away via the Darklake.",
+    "source_quote": "the town of Sloopdopblop is just eight days away",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
+    "source_quote": "Drow outpost was 100' in the sky",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Titan's Awakening",
+    "fact": "A catastrophic ritual to summon a Titan was already underway, orchestrated by the High Templar Tharok Stevan (Tharok Stonevein).",
+    "source_quote": "The captive further revealed that a catastrophic ritual to summon a Titan was already underway, orchestrated by the High Templar Tharok Stevan (Tharok Stonevein).",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Labyrinthine Library",
+    "fact": "Zephyr and Nicholas navigated a magical library filled with floating books, glowing runes, and earth magic.",
+    "source_quote": "The Labyrinthine Library: Zephyr and Nicholas navigated a magical library filled with floating books, glowing runes, and earth magic.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Book Swarm",
+    "fact": "Searching the shelves for the missing fourth tome triggered the library's magical defenses, surrounding them in a violent swarm of animated books.",
+    "source_quote": "The Book Swarm: Beyond the hidden door, they encountered a puzzle requiring four specific books. Searching the shelves for the missing fourth tome triggered the library's magical defenses, surrounding them in a violent swarm of animated books.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Elemental Riddle",
+    "fact": "The session concluded with the party deciphering a cryptic poem about the four elements, correctly deducing that the overarching answer to the riddle was the Temple of Elemental Evil itself.",
+    "source_quote": "The Elemental Riddle: The session concluded with the party deciphering a cryptic poem about the four elements, correctly deducing that the overarching answer to the riddle was the Temple of Elemental Evil itself.",
+    "quote_verified": false
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "type": "location",
+    "subject": "Honey Tavern Inn",
+    "fact": "The Honey Tavern Inn contains a bar, a keg of mead, and a barrel that was dropped and rolled behind the bar.",
+    "source_quote": "I drop the barrel down, and smile. Glannon looks at the barrel. \"You found it?\" \"Yes.\" He rolls the barrel behind the bar, and takes out a keg, \"Here\u2019s my fine keg of mead.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Glannon",
+    "fact": "Glannon is the tavern keeper who offers mead and later admits he may have been mocking the visitor about charisma.",
+    "source_quote": "He realizes his mistake, \"No, I didn\u2019t mean it that way. The magic in the mead will help when you need to interact with people and persuade them. Drink a mug, and you\u2019ll turn the heads of those you are attracted to, convince a merchant to cut a better deal, and in general be more persuasive. I know of one bard who drinks some before a performance and gets better tips.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Quinna Poul",
+    "fact": "Quinna Poul rushes out of the kitchen and asks for help retrieving animated ingredients from the village, specifically broccoli.",
+    "source_quote": "Quinna Poul comes rushing out of the kitchen as I saunter into the first floor dining area. \"So - remember that feast, well some of the ingredients were animated and they rushed into the village. Could I bother you to go get them?\"",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "animated broccoli",
+    "fact": "The animated broccoli took off toward the apothecary, and was later reduced to a very dark green something after being struck.",
+    "source_quote": "It took off like a shot towards the apothecary, that place with all the magical potions and stuff. I pick up the \"broccoli\" now just a very dark green something and go back to the honey tavern.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "animated potatoes",
+    "fact": "Animated potatoes were chased, grabbed, stabbed, and later consumed in a honey-glazed forest stew.",
+    "source_quote": "I grab one, and the other two pause as if angry. So I take my knife and stab the one in my hand. And a few hours later, the potato is in my belly. And I feel blessed. The honey-glazed forest stew feels like a blessing indeed.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Palsmarie Clee",
+    "fact": "Palsmarie Clee, the beekeeper druid of Sheernobb, appears silently in the inn and provides a map and warning about the caravan's disappearance.",
+    "source_quote": "As I put the last bit of food in my mouth, Palsmarie Clee coughs. The beekeeper druid of Sheernobb is very quiet. \"Let me show you on the map where the caravan was. They didn\u2019t take the standard road, the fools. Go there, follow the bandits, and get the honey.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "caravan site",
+    "fact": "The caravan site is littered with overturned wagons, broken barrels, scattered honey jars, churned ground, large footprints, and faintly glowing runes.",
+    "source_quote": "The wagon is precisely where she said. The site is littered with overturned wagons, broken barrels, and scattered honey jars. The ground is churned up. Large footprints lead away from the road. ... I point at faintly glowing runes etched into the rocks.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Black Earth Cult encampment",
+    "fact": "The encampment is built into a shallow cave on a rocky outcrop in the Kron Hills, with a guarded gate, stone-studded leather armor, stone weapons, a temple, a weird stone statue, and barrels.",
+    "source_quote": "It\u2019s built into a shallow cave on a rocky outcrop in the Kron Hills. There is a guarded gate with makeshift stone barricades. The guardian are wearing stone-studded leather armor and carrying stone weapons. Inside the walls is a temple to some god, a weird stone statue, as well the barrels that we are looking for.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thalsor",
+    "fact": "Thalsor is a druid of the Black Earth Temple who speaks of the Earth Mother, summons mud men, and commands a stone golem.",
+    "source_quote": "Thalsor of the Stone fellow, some kind of druid, starts shouting about the earth mother and how we're trampling on sacred ground. ... Thalsor raises his staff, and the runes on the walls flare with an ominous light. ... Suddenly two muddy creatures appear right beside Calmer. Mud men. ... He taps this stone thing and \u2013 bam! \u2013 it comes alive. Stone Golem.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "stone golem",
+    "fact": "The stone golem is large, tough, resistant to non-magical attacks, and was summoned by Thalsor during the battle.",
+    "source_quote": "He taps this stone thing and \u2013 bam! \u2013 it comes alive. Stone Golem, they call it. Big, tough, and resistant to everything but magical attacks.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "mud men",
+    "fact": "Mud men were summoned beside Calmer and exploded upon defeat, creating area-of-effect immobilization.",
+    "source_quote": "Suddenly two muddy creatures appear right beside Calmer. Mud men. ... When these mud men go down, they kind of explode, make it so you can\u2019t move.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Kron Hills trail",
+    "fact": "The trail into the Kron Hills is easy to follow, with falling rocks that may not have been accidental.",
+    "source_quote": "The trail into the Kron Hills is easy to follow. Although along the way, we almost get crushed by falling rocks. I am worried that the stones were not an accident, but we find nothing.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia is inscrutable but reveals a momentary flash of pleasure when hearing about the Black Earth Cult and the box Lareth wants.",
+    "source_quote": "I look at Zinnia, and although he is inscrutable, even his eyes reveal a momentary flash of pleasure.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "apothecary",
+    "fact": "The apothecary is a place with magical potions and stuff, where the animated broccoli ran.",
+    "source_quote": "It took off like a shot towards the apothecary, that place with all the magical potions and stuff.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a cleric who heals, identifies magical activity, and attempts to bluff Thalsor, which backfires.",
+    "source_quote": "Calmer shouts, \"Magic was used here, or something very big. This isn\u2019t just a bunch of brigands.\" ... Calmer tries to bluff these bandits\u2013or whatever they are\u2013about being lost, but it\u2019s backfiring something fierce.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "stone staff with jagged crystals",
+    "fact": "Thalsor wields a stone staff adorned with jagged crystals, which activates runes on the walls during combat.",
+    "source_quote": "I watch as he steps forward, his hands tightening around a stone staff adorned with jagged crystals.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "honey jars",
+    "fact": "Honey jars were scattered at the caravan site, indicating the stolen cargo.",
+    "source_quote": "The site is littered with overturned wagons, broken barrels, and scattered honey jars.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Sheernobb",
+    "fact": "Sheernobb is the home of Palsmarie Clee, the beekeeper druid, referenced as the origin of her title.",
+    "source_quote": "The beekeeper druid of Sheernobb is very quiet.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Gnonsbim",
+    "fact": "Gnonsbim claims the attackers were bandits, contradicting survivor accounts of chanting and stone weapons.",
+    "source_quote": "Gnonsbim says they are bandits. I don\u2019t think so. The guards who survived said that the attackers chanted \u2018Black Earth\u2019 and carried weapons of stone.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Black Earth Temple",
+    "fact": "The Black Earth Temple is a place of worship to the Earth Mother, where the stolen honey is kept as tribute.",
+    "source_quote": "That honey now belongs to the Black Earth Temple, a tribute to her enduring might.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Lareth",
+    "fact": "Lareth wants the party to kill the Black Earth Cultists and retrieve a box they may possess.",
+    "source_quote": "This might be the clue and evidence we need. It certainly is who Lareth wants us to kill, and they might have this box that Lareth wants.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "stone-studded leather armor",
+    "fact": "The cultists wear stone-studded leather armor and carry stone weapons.",
+    "source_quote": "The guardian are wearing stone-studded leather armor and carrying stone weapons.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "stone weapons",
+    "fact": "The cultists carry stone weapons, indicating their connection to the Black Earth Cult and the Earth Mother.",
+    "source_quote": "The guardian are wearing stone-studded leather armor and carrying stone weapons.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "temple to some god",
+    "fact": "Inside the encampment is a temple to some god, featuring a weird stone statue.",
+    "source_quote": "Inside the walls is a temple to some god, a weird stone statue, as well the barrels that we are looking for.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "barrels",
+    "fact": "The barrels in the encampment are the same ones that were taken from the caravan and are now held by the cult.",
+    "source_quote": "Inside the walls is a temple to some god, a weird stone statue, as well the barrels that we are looking for.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia engages in combat with cultists, lands flurry of attacks on bandits, and directly targets Thalsor.",
+    "source_quote": "Sequoia just goes to town on one of the bandits\u2014absolute flurry of attacks. ... Sequoia\u2019s still hacking away at Thalsor, getting some tough blows in.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr attacks animated potatoes, carries them in a bag, consumes one, and participates in the assault on the cult encampment.",
+    "source_quote": "I grab one, and the other two pause as if angry. So I take my knife and stab the one in my hand. ... I grab them and stuff them into a bag. ... And a few hours later, the potato is in my belly.",
+    "quote_verified": false
+  }
+]

@@ -1,0 +1,5241 @@
+[
+  {
+    "type": "date",
+    "subject": "Planting 16, 579",
+    "fact": "The date is Planting 16, 579, when the group decides to return to Hommlett after a confession from a bandit.",
+    "source_quote": "Date: Planting 16, 579",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "Planting 16, 579",
+    "fact": "The events of the chapter occur on Planting 16, 579, marking the timeline of the recruitment, loaded dice, and midnight whispers.",
+    "source_quote": "Date: Planting 16, 579",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "Planting 17, 579",
+    "fact": "On Planting 17, 579, the group decides to return the silver dragon to its home.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "Planting 18, 579",
+    "fact": "On Planting 18, 579, the heroes are in Hommlet and return to the moathouse for exploration.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "Session 5",
+    "fact": "Session 5 is the session in which the group returns to the moathouse and explores its ruins.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occur on Planting 16, 579.",
+    "source_quote": "### Date: Planting 16, 579",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The following day's events occur on Planting 17, 579.",
+    "source_quote": "### Date: Planting 17, 579",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 16th day of Planting, 579.",
+    "source_quote": "Date: Planting 16, 579",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "Tomorrow",
+    "fact": "The trio and Spugnoir agree to begin their joint adventure tomorrow, marking the next phase of their journey.",
+    "source_quote": "Tomorrow then, as it is quite late!",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Airgid",
+    "fact": "Airgid promises her mommy will reward the heroes.",
+    "source_quote": "Don\u2019t worry, my mommy will reward you! I KNOW SHE WILL! THANK YOU!",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Airgid",
+    "fact": "Airgid shouts \u201cHOME!\u201d as she recognizes her home near the Lotrimil mountains.",
+    "source_quote": "The dragon suddenly shouts, \u201cHOME!\u201d",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "bandit activity surge",
+    "fact": "The bandit activity surge is alarming and a threat to the safety and stability of the village.",
+    "source_quote": "The bandit activity surge is alarming. It's not just an economic issue; it's a threat to the safety and stability of our village.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Blessing of Beory",
+    "fact": "Jaroo, the Druid, blesses the group with Beory\u2019s blessing and a healing potion after they report having visited all other village leaders.",
+    "source_quote": "Jaroo is pleased and offers them the blessing of Beory and a healing potion.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "blueprint theft",
+    "fact": "The blueprints for the keep were missing, then returned with traces of charcoal dust, suggesting a copy was made.",
+    "source_quote": "I was recently examining the blueprints for the keep and found them missing... there were traces of charcoal dust on them. I suspect that someone has copied our blueprints.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "blueprint theft investigation commissioned",
+    "fact": "Burne and Rufus, convinced by the rock\u2019s connection to the charcoal-dusted blueprints, formally commissioned the party to investigate the encampment workers for sabotage.",
+    "source_quote": "Rufus said, \"You must go and find the thief.\"",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Burne",
+    "fact": "Burne mutters in disbelief upon seeing the rock.",
+    "source_quote": "Burne mutters, \u201cThis is it?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Burne",
+    "fact": "Burne says, \u201cAnd keep this quiet. We don\u2019t want to tell anyone.\u201d",
+    "source_quote": "Burne stretches and says, \u201cAnd keep this quiet. We don\u2019t want to tell anyone.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer asks, \u201cWhat do we want to check out?\u201d",
+    "source_quote": "Inside the courtyard, Calmer asks, \u201cWhat do we want to check out?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer insists they must go to the Prefect and inform him of what has happened.",
+    "source_quote": "Calmer insists, \u201cWe must go to the Prefect and inform him of what has happened!\u201d",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer suggests they finish exploring the ruins of the moathouse.",
+    "source_quote": "Calmer turns to the group, \u201cI suggest we finish exploring the ruins of the moathouse. Don\u2019t want any nasty surprises to follow us.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Confrontation with the Spies",
+    "fact": "Zephyr captures two teenagers, Jira and Marek, spying near the brewery at midnight, who reveal their forbidden romance and religious divide.",
+    "source_quote": "Zephyr quickly advances on them, his sword in his right hand, and puts the blade to the throat of the smaller of the two\u2014the spy shrieks.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "council members",
+    "fact": "The council members are Jaroo, Rufus, Burne, Ostler, and Captain Zeb Fletcher.",
+    "source_quote": "The council members are Jaroo, Rufus, Burne, and Ostler, whom you have already met, as well as Captain Zeb Fletcher",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "discovery of coins",
+    "fact": "Sequoia and Zephyr notice a faint gleam of coins in the collapsed tower and reach for them, triggering the wolf spider attack.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "discovery of ivory box",
+    "fact": "The group finds an ivory box the size of a large book among the treasures in the moathouse.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Discovery of the Ivory Box",
+    "fact": "The group discovers an ivory box in the collapsed tower of the Moathouse, suggesting deeper mysteries and potential magical artifacts.",
+    "source_quote": "They find an ivory box about the size of a large book among the treasures.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Discovery of the Secret Passage",
+    "fact": "A secret passage beneath the Inn of the Welcome Wench is rumored to lead to four lost chambers of a long-dead wizard, though no one has verified it.",
+    "source_quote": "There is a secret passage below the inn that leads to an extensive set of four lost chambers of a long-dead wizard.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "door number two",
+    "fact": "And for door number two,\u201d as he opens the next door on the western wall.",
+    "source_quote": "Sequoia mutters, \u201cAnd for door number two,\u201d as he opens the next door on the western wall.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Dragon\u2019s Departure",
+    "fact": "Airgid the Silver Dragon departs for the Lotrimil mountains, promising reward from her mother, marking the end of one mission and the return to Hommlet.",
+    "source_quote": "Airgid takes off and starts to fly west. As she leaves, she shouts, \u201cDon\u2019t worry, my mommy will reward you! I KNOW SHE WILL! THANK YOU!\u201d",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "dragon's departure",
+    "fact": "Airgid the silver dragon takes off flying west after shouting 'HOME!' and promises her mother will reward the heroes.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "dragon's home",
+    "fact": "The dragon Airgid's home is near the Lotrimil mountains.",
+    "source_quote": "The dragon explains that its home is near the Lotrimil mountains.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Druid\u2019s blessing granted",
+    "fact": "After learning the party had spoken to Terjon, Burne, and Rufus, Jaroo granted them Beory\u2019s blessing and a healing potion, signaling his approval and hidden knowledge of their actions.",
+    "source_quote": "Jaroo offered them the blessing of Beory and a healing potion.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "elapsed time",
+    "fact": "A few hours later, the heroes can see 'The Tower' in the distance.",
+    "source_quote": "A few hours later, the heroes can see \"The Tower\" in the distance",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Elder Kenter",
+    "fact": "Elder Kenter expects the adventurers to come to him first going forward.",
+    "source_quote": "Therefore, going forward, I expect you all to come here first.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Elder Kenter",
+    "fact": "Elder Kenter says the council members are Jaroo, Rufus, Burne, Ostler, and Captain Zeb Fletcher.",
+    "source_quote": "The council members are Jaroo, Rufus, Burne, and Ostler, whom you have already met, as well as Captain Zeb Fletcher, father of Elmo and Mytch the Miller.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Elmo",
+    "fact": "Elmo declares himself the person to help find the monster in the Gnarley forest.",
+    "source_quote": "Elmo mutters, \u201cI am your person!\u201d",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Elmo",
+    "fact": "Elmo shouts, \u201cGet out of here, Furnok, or I\u2019ll have to call the Captain.\u201d",
+    "source_quote": "A burly, muscular man sitting at another table shouts, \u201cGet out of here, Furnok, or I\u2019ll have to call the Captain, and he won\u2019t be as kindly as Ostler is.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Elmo Joins the Group",
+    "fact": "Elmo, a drunken but capable ranger, volunteers to join the trio\u2019s quest to find the monster in the Gnarley Forest, becoming an informal ally.",
+    "source_quote": "I am your person!",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Exposure of Furnok",
+    "fact": "Furnok the Fabulous is exposed as a cheat after Zinia discovers loaded dice, leading to a confrontation where Elmo threatens to call the Captain.",
+    "source_quote": "Zinia moves quickly and grabs the dice. As he picks them up, he realizes they are loaded\u2014\u201cThe proof I needed!\u201d",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Exposure of the Forbidden Romance",
+    "fact": "Jira and Marek are exposed as forbidden lovers due to religious conflict, and plead with the group to help them reconcile with their parents.",
+    "source_quote": "Jira pleads with Zinia to help them and talk to their parents \u2014 \u201cYou\u2019re heroes, and they\u2019ll listen!\u201d",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "fastest route to dragon's home",
+    "fact": "The fastest way to the dragon's home is to head south and turn north into the Greenway Valley.",
+    "source_quote": "The fastest way is to head south and turn north into the Greenway Valley.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "finish exploring the ruins of the moathouse",
+    "fact": "I suggest we finish exploring the ruins of the moathouse. Don\u2019t want any nasty surprises to follow us.",
+    "source_quote": "Calmer turns to the group, \u201cI suggest we finish exploring the ruins of the moathouse. Don\u2019t want any nasty surprises to follow us.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Furnok\u2019s Dice Discovery",
+    "fact": "Ostler\u2019s attempt to catch Furnok stealing fails, but the loaded dice found during the failed pickpocketing become proof of a deeper conspiracy.",
+    "source_quote": "he realizes they are loaded\u2014'The proof I needed!'",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "giant wolf spider attack",
+    "fact": "A giant wolf spider attempted to attack the party near the coins in the collapsed tower.",
+    "source_quote": "As they reach for the coin, a giant wolf spider attempts to turn them into its next meal.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "goods left behind",
+    "fact": "Any goods left behind are sold after three days.",
+    "source_quote": "any goods left behind are sold after three days",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "identification of enemy trophies",
+    "fact": "Zinia identifies some trophies in the trophy room as the heads of dwarves, humans, and elves \u2014 'Enemies of the temple.'",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Jaroo",
+    "fact": "Jaroo admonishes the adventurers to go deeper into the moathouse and find more evidence.",
+    "source_quote": "\u201cYou must go deeper into the moathouse and find more evidence,\u201d he admonishes.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Jira",
+    "fact": "Jira explains she and Marek are forbidden from being together due to religious conflict.",
+    "source_quote": "Jakub is a member of the old faith and won\u2019t let Jira be with Marek, whose father is Tomlyn, the tailor and a member of the Church of St. Cuthbert.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Jira",
+    "fact": "Jira pleads with Zinia to help them talk to their parents.",
+    "source_quote": "Jira pleads with Zinia to help them and talk to their parents \u2014 \u201cYou\u2019re heroes, and they\u2019ll listen!\u201d",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Joining of Spugnoir",
+    "fact": "Spugnoir joins the group as a fourth member after revealing knowledge of a lost wizard\u2019s laboratory under Emiry Meadows and demanding first access to scrolls.",
+    "source_quote": "I would like to go adventuring with you and complete your quartet. If you would have me?",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Kenter",
+    "fact": "Kenter says, \u201cBurne and Rufus have shown remarkable leadership.\u201d",
+    "source_quote": "Burne and Rufus have shown remarkable leadership and strategic acumen.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Kenter",
+    "fact": "Kenter says, \u201cBy working together, Burne, Rufus, Captain Fletcher, and I can coordinate our efforts.\u201d",
+    "source_quote": "By working together, Burne, Rufus, Captain Fletcher, and I can coordinate our efforts and ensure a comprehensive response to the bandit menace.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Kenter",
+    "fact": "Kenter says, \u201cDon\u2019t worry,\u201d to Sequoia\u2019s silent protest.",
+    "source_quote": "Sequoia is tempted to protest, but Kenter continues, \u201cDon\u2019t worry, whenever anyone does something out of the ordinary...\u201d",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Kenter",
+    "fact": "Kenter says, \u201cIt is good that you came here.\u201d",
+    "source_quote": "he turns to the trio and says in a grandfatherly voice, \u201cIt is good that you came here.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Kenter",
+    "fact": "Kenter says, \u201cOur unified leadership is our greatest strength.\u201d",
+    "source_quote": "Our unified leadership is our greatest strength.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Kenter",
+    "fact": "Kenter says, \u201cThe council members are Jaroo, Rufus, Burne, Ostler... and Captain Zeb Fletcher.\u201d",
+    "source_quote": "The council members are Jaroo, Rufus, Burne, and Ostler, whom you have already met, as well as Captain Zeb Fletcher, father of Elmo and Mytch the Miller.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Kenter",
+    "fact": "Kenter says, \u201cThe people you spoke to are on the council.\u201d",
+    "source_quote": "The people you spoke to are on the council.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Kenter",
+    "fact": "Kenter says, \u201cWe must address it with utmost urgency.\u201d",
+    "source_quote": "The bandit activity surge is alarming. It's not just an economic issue; it's a threat to the safety and stability of our village. We must address it with utmost urgency.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Kenter",
+    "fact": "Kenter toasts, \u201cThe Blessings of Beory.\u201d",
+    "source_quote": "When the Elder gets his glass, he coughs and toasts, \u201cThe Blessings of Beory.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Meeting Spugnoir",
+    "fact": "Spugnoir joins the group as a fourth member after offering to reveal the location of a lost wizard\u2019s laboratory under Emiry Meadows in exchange for first access to scrolls.",
+    "source_quote": "I would like to go adventuring with you and complete your quartet. If you would have me?",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Mickey",
+    "fact": "Mickey fears the temple isn't as dead as everyone thought and suspects spies.",
+    "source_quote": "the rumors around the village is going that the temple isn't as dead as everybody thought. And so maybe, those are, uh, spies.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Mickey",
+    "fact": "Mickey reports seeing cloaked people behind the brewery at midnight.",
+    "source_quote": "I've seen a couple of cloaked people lurking behind the brewery at around midnight.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Mickey",
+    "fact": "Mickey whispers, \u201cRumor has it that you are the right people to go to if there is a problem.\u201d",
+    "source_quote": "a young man walks up to them and whispers, \u201cRumor has it that you are the right people to go to if there is a problem.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Mickey\u2019s Report",
+    "fact": "Mickey reports cloaked figures near the brewery at midnight, raising fears that the temple may be active again, prompting the trio to investigate under cover of night.",
+    "source_quote": "I've seen a couple of cloaked people lurking behind the brewery at around midnight.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Mickey\u2019s Request",
+    "fact": "Mickey, the Braumeister\u2019s son, asks the group to investigate cloaked figures near the brewery, fearing the temple is not dead and spies are active.",
+    "source_quote": "I've seen a couple of cloaked people lurking behind the brewery at around midnight. ... the rumors around the village is going that the temple isn't as dead as everybody thought.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "minimum stay at the Inn",
+    "fact": "Adventurers have a minimum three-night stay at the Inn.",
+    "source_quote": "adventurers have a minimum three-night stay at the Inn",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "moathouse exploration",
+    "fact": "The group returns to the moathouse, explores its ruins, and clears multiple rooms of monsters and hidden treasures.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Night Surveillance at the Brewery",
+    "fact": "The trio sneaks out at midnight to observe the brewery, with Zephyr confronting two cloaked spies, one of whom is captured with a blade to the throat.",
+    "source_quote": "Zephyr quickly advances on them... puts the blade to the throat of the smaller of the two\u2014the spy shrieks.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Ostler",
+    "fact": "Ostler asks if the Druid likes the adventurers.",
+    "source_quote": "\u201cI also noticed that you didn\u2019t talk to the Druid. Does the Druid not like you?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Ostler",
+    "fact": "Ostler informs the adventurers of the three-night minimum stay and sale policy for abandoned goods.",
+    "source_quote": "\u201cSo that you know; adventurers have a minimum three-night stay at the Inn. And as a matter of policy, any goods left behind are sold after three days.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Ostler",
+    "fact": "Ostler offers a job to prove Furnoc steals from guests, with free rooms as incentive.",
+    "source_quote": "he explains that his job offer is to prove that Furnoc is a crook who steals from the Inn\u2019s guests. To sweeten the pot, he offers free rooms for three nights.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Ostler",
+    "fact": "Ostler says, \u201cI see Burne and Rufus like you.\u201d",
+    "source_quote": "Ostler, the innkeeper, sits at the table \u2014 \u201cI see Burne and Rufus like you.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Ostler",
+    "fact": "Ostler says, \u201cI\u2019ll believe it when he says so,\u201d about the Druid\u2019s opinion.",
+    "source_quote": "I\u2019ll believe it when he says so, which will happen after you talk to him about whatever you talked to Burne, Rufus, and Terjon about.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Ostler",
+    "fact": "Ostler says, \u201cSo that you know; adventurers have a minimum three-night stay at the Inn.\u201d",
+    "source_quote": "\u201cSo that you know; adventurers have a minimum three-night stay at the Inn.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Return to the Moathouse",
+    "fact": "The group returns to the Moathouse with Calmer and Spugnoir, investigates the collapsed tower, defeats a giant wolf spider, and finds an ivory box, preparing to enter the great hall.",
+    "source_quote": "Inside the courtyard, Calmer asks, \u201cWhat do we want to check out?\u201d Zinia points to the tower that they ignored last time.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Return to the Moathouse",
+    "fact": "The group returns to the Moathouse with Spugnoir and Calmer, investigates the collapsed tower, finds an ivory box and coins, and prepares to enter the great hall.",
+    "source_quote": "Inside the courtyard, Calmer asks, \u201cWhat do we want to check out?\u201d Zinia points to the tower that they ignored last time.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Revelation of the Council",
+    "fact": "Elder Kenter reveals the full council of Hommlet, exposing the lack of unified communication among its members and demanding the group report to him first.",
+    "source_quote": "The council members are Jaroo, Rufus, Burne, and Ostler, whom you have already met, as well as Captain Zeb Fletcher, father of Elmo and Mytch the Miller. ... Therefore, going forward, I expect you all to come here first.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Rufus",
+    "fact": "Rufus reveals the blueprints are missing and returned with charcoal dust.",
+    "source_quote": "Rufus whispers, \u201cWe may have a job for you. I was recently examining the blueprints for the keep and found them missing. My architect had no idea where they went. When I rechecked them later, they had returned, but there were traces of charcoal dust on them. I suspect that someone has copied our blueprints.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Rufus",
+    "fact": "Rufus says, \u201cI am convinced it is one of the workers in the encampments.\u201d",
+    "source_quote": "I am convinced it is one of the workers in the encampments.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "salon of worthless treasures",
+    "fact": "Sequoia finds a room with seemingly valuable items that turn out to be worthless; he concludes it was a salon for meetings.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "secret passage",
+    "fact": "There is a secret passage below the inn that leads to an extensive set of four lost chambers of a long-dead wizard.",
+    "source_quote": "There is a secret passage below the inn that leads to an extensive set of four lost chambers of a long-dead wizard.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia agrees to Calmer\u2019s suggestion.",
+    "source_quote": "Sequoia agrees.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia crosses the wrecked great hall and heads down the southern passageway.",
+    "source_quote": "They cross the wrecked great hall and head down the southern passageway",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia excitedly opens another door across the hallway.",
+    "source_quote": "Across the hallway, he sees another door and excitedly opens it.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia finds an ivory box among the treasures.",
+    "source_quote": "They find an ivory box about the size of a large book among the treasures.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia finds what must have been a bed chamber for some lowly official.",
+    "source_quote": "And in this chamber, he finds what must have been a bed chamber for some lowly official.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia leads the group past the last door in the hallway and into a room with a stairway leading down.",
+    "source_quote": "Sequoia leads the group past the last door in the hallway and into a room with a stairway leading down.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia noticed a swarm of rats.",
+    "source_quote": "It also has a swarm of rats.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia noticed the hallway runs north-south.",
+    "source_quote": "The hallway runs north-south.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia noticed the rats were quickly killed.",
+    "source_quote": "Rats that are quickly killed.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia notices a giant poisonous snake that attempts to strike.",
+    "source_quote": "Unlike other rooms, this room has a giant poisonous snake that attempts to strike.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia notices how two sons carefully groom the horses.",
+    "source_quote": "Sequoia notices how two sons carefully groom the horses.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia notices the room is empty of anything valuable.",
+    "source_quote": "Much like other parts of the moathouse, this room is empty of anything valuable.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia opens the next door on the western wall.",
+    "source_quote": "Sequoia mutters, \u201cAnd for door number two,\u201d as he opens the next door on the western wall.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia picks up the treasures and realizes they are worthless.",
+    "source_quote": "He enters carefully, and as he picks up the treasures, he realizes they are worthless.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia realizes the room\u2019s remaining contents still appear valuable.",
+    "source_quote": "He looks inside, and although the room is in shambles and things are missing, whatever remains still appears valuable.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia realizes the snake fails to strike.",
+    "source_quote": "It fails.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia realizes the snake is dead.",
+    "source_quote": "Soon, like the other nuisance monsters the group has faced, it is dead.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia says Spugnoir is very familiar.",
+    "source_quote": "Sequoia laughs, \u201cSomehow, you are very familiar.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia says, \u201cSure.\u201d to Spugnoir\u2019s request.",
+    "source_quote": "Sequoia laughs, \u201cSomehow, you are very familiar.\u201d He then pauses, \u201cSure.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia struggles to sleep thinking about Zephyr and the teenagers.",
+    "source_quote": "Sequoia struggles to sleep as he thinks about Zephyr looking confused and the two teenagers squealing.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia walks into the large chamber at the end of the hallway.",
+    "source_quote": "Leaving the salon and reentering the hallway, he walks into the large chamber at the end of the hallway.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia and Zephyr",
+    "fact": "Sequoia and Zephyr notice a faint gleam of coins on the tower floor.",
+    "source_quote": "Looking at the floor, Sequoia and Zephyr notice a faint gleam of coins.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "spies at brewery",
+    "fact": "Two cloaked people were seen lurking behind the brewery at around midnight.",
+    "source_quote": "I've seen a couple of cloaked people lurking behind the brewery at around midnight.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Spugnoir",
+    "fact": "Spugnoir accepts being left behind and says \u201cVery well.\u201d",
+    "source_quote": "Spugnoir has that crushed look... He smiles, \u201cVery well.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Spugnoir",
+    "fact": "Spugnoir asks to join the quartet.",
+    "source_quote": "I would like to go adventuring with you and complete your quartet. If you would have me?",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Spugnoir",
+    "fact": "Spugnoir offers to join the party and split treasures if he gets first crack at arcane scrolls.",
+    "source_quote": "I am offering to split the treasures as long as I get the first crack at any arcane scrolls we find.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Spugnoir",
+    "fact": "Spugnoir says, \u201cI would like to go adventuring with you and complete your quartet.\u201d",
+    "source_quote": "I would like to go adventuring with you and complete your quartet. If you would have me?",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Spugnoir",
+    "fact": "Spugnoir says, \u201cTomorrow then, as it is quite late!\u201d",
+    "source_quote": "\u201cTomorrow then, as it is quite late!\u201d",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Spugnoir Joins the Quartet",
+    "fact": "Spugnoir offers to join the trio as a fourth adventurer, revealing knowledge of a lost wizard lab and demanding first pick of scrolls, surprising them with familiarity.",
+    "source_quote": "Somehow, you are very familiar... Sure.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "teenagers' conflict",
+    "fact": "Jira and Marek are forbidden to be together due to their parents' religious differences.",
+    "source_quote": "Jakub is a member of the old faith and won\u2019t let Jira be with Marek, whose father is Tomlyn, the tailor and a member of the Church of St. Cuthbert.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Terjon",
+    "fact": "Terjon tosses the rock to Zephyr and admits it is worthless.",
+    "source_quote": "Terjon mutters as it flies through the air, \u201cYou\u2019re right. It is worthless.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The Duke",
+    "fact": "The Duke says, \u201cI hope I see you again.\u201d",
+    "source_quote": "\u201cI hope I see you again.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "the rogue",
+    "fact": "The rogue sniffs and shuts the door of the conference room, concluding nothing is to be found.",
+    "source_quote": "He sniffs and shuts the door, \u201cNothing to be found.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "three-night inn stay enforced",
+    "fact": "Ostler enforced a policy that adventurers must stay at the Inn for a minimum of three nights, and any goods left behind are sold after three days.",
+    "source_quote": "Ostler said, \"adventurers have a minimum three-night stay at the Inn. And as a matter of policy, any goods left behind are sold after three days.\"",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "tower treasure",
+    "fact": "An ivory box about the size of a large book was found among coins in the collapsed tower.",
+    "source_quote": "They find an ivory box about the size of a large book among the treasures.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "Sloobludop is approximately eight days away via the Darklake.",
+    "source_quote": "the town of Sloopdopblop is just eight days away",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "wizard laboratory",
+    "fact": "A lost wizard laboratory exists under Emiry Meadows.",
+    "source_quote": "I know the location of a lost wizard laboratory under Emiry Meadows.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr asks why Terjon wants to keep a worthless rock.",
+    "source_quote": "Zephyr smiles sweetly, \u201cIf this rock is so worthless, why keep it?\u201d",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr asks, \u201cWhat\u2019s going on?\u201d after capturing the spies.",
+    "source_quote": "And then he asks, \u201cWhat\u2019s going on?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr falls on the table to create a distraction.",
+    "source_quote": "So he falls on the table that Furnok is sitting on, causing the table to tip over.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr hands over the rock to Burne and Rufus.",
+    "source_quote": "Zephyr hands over the rock.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr noticed a giant lizard just in time.",
+    "source_quote": "As he approaches it, he notices a giant lizard just in time.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr noticed that the room was stripped of anything valuable.",
+    "source_quote": "Zephyr sighs; it\u2019s stripped of anything valuable.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr puts his sword to the throat of the smaller spy.",
+    "source_quote": "Zephyr quickly advances on them, his sword in his right hand, and puts the blade to the throat of the smaller of the two\u2014the spy shrieks.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr realized that the room was once a barracks room for castle guards\u2014undoubtedly the human sort.",
+    "source_quote": "The remains of cots and plain wooden chests convince the rogue that this was once a barracks room for castle guards\u2014undoubtedly the human sort.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr realized the creature died.",
+    "source_quote": "This time, the poor creature died.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr realized the lizard was using the chest as a lure.",
+    "source_quote": "The lizard was using the chest as a lure.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr realizes the militiamen have orders to bring the four to Burne and Refus.",
+    "source_quote": "They are local militia members and have orders to bring the four to Burne and Refus, who are currently drinking at the Inn of the Welcome Wench.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI am convinced.\u201d",
+    "source_quote": "Rufus whispers, \u201cI am convinced it is one of the workers in the encampments.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI am your person!\u201d",
+    "source_quote": "Elmo mutters, \u201cI am your person!\u201d",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI hope she can swing a sword better than she can plow a field.\u201d",
+    "source_quote": "The person hearing the tale turns to his companion and replies, \u201c I hope she can swing a sword better than she can plow a field.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI know she will.\u201d",
+    "source_quote": "Airgid shouts, \u201cI KNOW SHE WILL!\u201d",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI know the location of a lost wizard laboratory.\u201d",
+    "source_quote": "I know the location of a lost wizard laboratory under Emiry Meadows.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI see Burne and Rufus like you.\u201d",
+    "source_quote": "Ostler, the innkeeper, sits at the table \u2014 \u201cI see Burne and Rufus like you.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI would like to go adventuring with you.\u201d",
+    "source_quote": "I would like to go adventuring with you and complete your quartet. If you would have me?",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI\u2019ll believe it when he says so.\u201d",
+    "source_quote": "I\u2019ll believe it when he says so, which will happen after you talk to him about whatever you talked to Burne, Rufus, and Terjon about.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cNo problem.\u201d",
+    "source_quote": "Zephyr smiles, \u201cNo problem.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cNo problem.\u201d when offered free rooms.",
+    "source_quote": "Zephyr smiles, \u201cNo problem.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cThere is a monster in the Gnarley forest, and we will need someone to help us find it.\u201d",
+    "source_quote": "Zephyr smiles, \u201cThere is a monster in the Gnarley forest, and we will need someone to help us find it.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cThere is a monster in the Gnarley forest.\u201d",
+    "source_quote": "Zephyr smiles, \u201cThere is a monster in the Gnarley forest, and we will need someone to help us find it.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cWhat\u2019s going on?\u201d",
+    "source_quote": "And then he asks, \u201cWhat\u2019s going on?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cYou must go deeper into the moathouse.\u201d",
+    "source_quote": "\u201cYou must go deeper into the moathouse and find more evidence,\u201d he admonishes.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cYou\u2019re right. It is worthless.\u201d",
+    "source_quote": "Terjon mutters as it flies through the air, \u201cYou\u2019re right. It is worthless.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr smiles and says \u201cNo problem.\u201d when offered the job to catch Furnoc.",
+    "source_quote": "Zephyr smiles, \u201cNo problem.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia discovers the dice are loaded and declares it proof.",
+    "source_quote": "As he picks them up, he realizes they are loaded\u2014\u201cThe proof I needed!\u201d",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia gets up and heads to the door after hearing Ostler\u2019s comment.",
+    "source_quote": "Zinia gets the point and gets up, heading to the door.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia grabs the dice and declares them loaded.",
+    "source_quote": "Zinia moves quickly and grabs the dice. As he picks them up, he realizes they are loaded\u2014\u201cThe proof I needed!\u201d",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia mutters that they should talk to the village elder.",
+    "source_quote": "\u201cWe should go talk to the village elder,\u201d mutters Zinia.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia mutters, \u201cWell, that was interesting.\u201d",
+    "source_quote": "\u201cWell, that was interesting,\u201d mutters Zinia.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia overhears about a secret passage under the inn leading to four lost chambers.",
+    "source_quote": "From another person, he hears, \u201cThere is a secret passage below the inn that leads to an extensive set of four lost chambers of a long-dead wizard.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia overhears that Lysia wants to explore the ruined boathouse.",
+    "source_quote": "Overhearing one pair, he learns that a farmer's daughter, Lysia, is itching to explore the ruined boathouse, but she needs some equipment and a few competent companions.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia points to the tower they ignored last time.",
+    "source_quote": "Zinia points to the tower that they ignored last time.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia realized that some of the trophies were the heads of dwarves, humans, and elves.",
+    "source_quote": "Zinia, who enters the room, looks more carefully and realizes that some of the trophies are the heads of dwarves, humans, and elves",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia says, \u201cI also noticed that you didn\u2019t talk to the Druid.\u201d",
+    "source_quote": "\u201cI also noticed that you didn\u2019t talk to the Druid. Does the Druid not like you?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia says, \u201cI hope she can swing a sword better than she can plow a field.\u201d",
+    "source_quote": "The person hearing the tale turns to his companion and replies, \u201c I hope she can swing a sword better than she can plow a field.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia says, \u201cOf course.\u201d",
+    "source_quote": "Zephyr thinks, \u201cOther than half the village.\u201d And then he says, \u201cOf course.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia says, \u201cWe should go talk to the village elder.\u201d",
+    "source_quote": "\u201cWe should go talk to the village elder,\u201d mutters Zinia.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia says, \u201cYes, he does,\u201d about the Druid\u2019s opinion.",
+    "source_quote": "\u201cYes, he does,\u201d insists Zephyr.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia says, \u201cYou must be joking!\u201d about Spugnoir\u2019s offer.",
+    "source_quote": "\u201cYou must be joking!\u201d The trio stares at him, confused.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia snarls, \u201cGo away.\u201d",
+    "source_quote": "Zinia snarls and tells them to go away.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia tells Jaroo the truth about who they\u2019ve spoken to.",
+    "source_quote": "Zinia realizes this town has no secrets, and he tells the truth.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Church of St. Cuthbert",
+    "fact": "Marek\u2019s father, Tomlyn, is a member of the Church of St. Cuthbert.",
+    "source_quote": "Marek, whose father is Tomlyn, the tailor and a member of the Church of St. Cuthbert.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Church of St. Cuthbert",
+    "fact": "The Church of St. Cuthbert is represented by Tomlyn the tailor and his son Marek, and is in conflict with the Old Faith due to interfaith romance restrictions.",
+    "source_quote": "Marek, whose father is Tomlyn, the tailor and a member of the Church of St. Cuthbert.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Council of Hommlet",
+    "fact": "The Council of Hommlet consists of Jaroo, Rufus, Burne, Ostler, and Captain Zeb Fletcher, who collectively govern the village but have failed to coordinate their responses to the bandit threat.",
+    "source_quote": "The council members are Jaroo, Rufus, Burne, and Ostler, whom you have already met, as well as Captain Zeb Fletcher, father of Elmo and Mytch the Miller.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Kenter's Household",
+    "fact": "The household of Elder Kenter consists of five families: the elder and his wife, four sons and their wives, with children and servants, forming a defensible and influential local power structure.",
+    "source_quote": "Zinia discovered that the compound has five families: the village elder and his wife, the four sons and their wives. A gaggle of children... servants here as well.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Local Militia",
+    "fact": "The local militia has orders to bring the party to Burne and Rufus at the Inn of the Welcome Wench, indicating structured coordination between town authority and enforcement.",
+    "source_quote": "They are local militia members and have orders to bring the four to Burne and Refus, who are currently drinking at the Inn of the Welcome Wench.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "old faith",
+    "fact": "Jira\u2019s father, Jakub, is a member of the old faith.",
+    "source_quote": "Jakub is a member of the old faith and won\u2019t let Jira be with Marek",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Old Faith",
+    "fact": "The Old Faith is represented by Jakub and his daughter Jira, and is in opposition to the Church of St. Cuthbert, creating social tension in the village.",
+    "source_quote": "Jakub is a member of the old faith and won\u2019t let Jira be with Marek",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "The Church of St. Cuthbert",
+    "fact": "The Church of St. Cuthbert is a religious institution to which Tomlyn and Marek belong; it opposes the Old Faith and is the reason Jakub forbids Jira from being with Marek.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "The Council",
+    "fact": "The Council consists of Jaroo, Rufus, Burne, and Ostler, with Captain Zeb Fletcher as a key figure; they are the governing body of the village and the target of the Elder\u2019s influence.",
+    "source_quote": "The council members are Jaroo, Rufus, Burne, and Ostler... Captain Zeb Fletcher... the people you spoke to are on the council.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "The Old Faith",
+    "fact": "The Old Faith is a religious group to which Jakub belongs; it opposes the Church of St. Cuthbert and is the source of conflict preventing Jira and Marek's relationship.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "village council",
+    "fact": "The village council consists of Jaroo, Rufus, Burne, Ostler, and Captain Zeb Fletcher.",
+    "source_quote": "The council members are Jaroo, Rufus, Burne, and Ostler, whom you have already met, as well as Captain Zeb Fletcher, father of Elmo and Mytch the Miller.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "another door across hallway",
+    "fact": "Across the hallway, he sees another door and excitedly opens it. He looks inside, and although the room is in shambles and things are missing, whatever remains still appears valuable.",
+    "source_quote": "Across the hallway, he sees another door and excitedly opens it. He looks inside, and although the room is in shambles and things are missing, whatever remains still appears valuable.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Barracks Room",
+    "fact": "The barracks room is the westernmost room in the hallway; it contains remains of cots and plain wooden chests, indicating it was once used by human guards.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "barracks room",
+    "fact": "The remains of cots and plain wooden chests convince the rogue that this was once a barracks room for castle guards\u2014undoubtedly the human sort.",
+    "source_quote": "The remains of cots and plain wooden chests convince the rogue that this was once a barracks room for castle guards\u2014undoubtedly the human sort.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "barracks room",
+    "fact": "The westernmost room at the end of the hallway was once a barracks for castle guards, evidenced by the remains of cots and plain wooden chests; the guards were undoubtedly human.",
+    "source_quote": "From there, Zephyr opens the westernmost door, where the hallway ends. Much like the other parts of the castle, this room is partially collapsed. The remains of cots and plain wooden chests convince the rogue that this was once a barracks room for castle guards\u2014undoubtedly the human sort.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Bed Chamber",
+    "fact": "The bed chamber is the second door on the western wall of the southern passageway; it appears to have been for a lowly official.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "bed chamber",
+    "fact": "The second door on the western wall opens into a bed chamber that once belonged to a lowly official.",
+    "source_quote": "Sequoia mutters, 'And for door number two,' as he opens the next door on the western wall. And in this chamber, he finds what must have been a bed chamber for some lowly official.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "bed chamber for a lowly official",
+    "fact": "In the chamber behind the second door, there is what must have been a bed chamber for some lowly official.",
+    "source_quote": "And in this chamber, he finds what must have been a bed chamber for some lowly official",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "bed chamber for lowly official",
+    "fact": "And in this chamber, he finds what must have been a bed chamber for some lowly official.",
+    "source_quote": "And in this chamber, he finds what must have been a bed chamber for some lowly official.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "brewery",
+    "fact": "Mickey reports seeing cloaked people lurking behind the brewery at midnight.",
+    "source_quote": "I've seen a couple of cloaked people lurking behind the brewery at around midnight.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Brewery",
+    "fact": "The brewery is the site of midnight spying by Jira and Marek, and the source of Mickey\u2019s fear that the temple is not dead.",
+    "source_quote": "I've seen a couple of cloaked people lurking behind the brewery at around midnight.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "compound families",
+    "fact": "The compound has five families: the village elder and his wife, the four sons and their wives.",
+    "source_quote": "the compound has five families: the village elder and his wife, the four sons and their wives",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Conference Room",
+    "fact": "The conference room is the first door in the southern passageway; it is sniffed and shut by the rogue as containing nothing.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "conference room",
+    "fact": "The first door in the southern passageway opens into an old conference room; the rogue sniffs and shuts the door, declaring nothing to be found.",
+    "source_quote": "The first door the rogue opens reveals an old conference room chamber. He sniffs and shuts the door, 'Nothing to be found.'",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "domicile of the majordomo",
+    "fact": "The domicile of the majordomo is stripped of anything valuable.",
+    "source_quote": "The next door on the southern wall opens into the domicile of the majordomo of the castle. Zephyr sighs; it\u2019s stripped of anything valuable",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "domicile of the majordomo",
+    "fact": "Zephyr sighs; it\u2019s stripped of anything valuable.",
+    "source_quote": "The next door on the southern wall opens into the domicile of the majordomo of the castle. Zephyr sighs; it\u2019s stripped of anything valuable.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Elder Kenter\u2019s compound",
+    "fact": "Elder Kenter\u2019s compound has a large seating area with chairs, a divan, rugs, and a small table.",
+    "source_quote": "Past the central doorway, there is a large seating area with several comfortable chairs, a divan, several colorful rugs, and a small table.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Elder Kenter\u2019s compound",
+    "fact": "Elder Kenter\u2019s compound houses five families and servants.",
+    "source_quote": "Zinia quickly discovers that the compound has five families: the village elder and his wife, the four sons and their wives... There are also some servants here as well.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Elder Kenter\u2019s Compound",
+    "fact": "Elder Kenter\u2019s compound is a defensible residence with an eight-foot-high stone wall and heavy gate, housing five families, children, and servants, serving as the political heart of the village.",
+    "source_quote": "It is the residence of some well-to-do folk and easily defensible in times of trouble.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Elder Kenter\u2019s compound",
+    "fact": "The group visits the residence of Elder Kenter, which has an eight-foot-high stone wall and a heavy gate.",
+    "source_quote": "Zinia leads them to a place with an eight-foot-high stone wall and a heavy gate. It is the residence of some well-to-do folk and easily defensible in times of trouble.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Elder Kenter's residence",
+    "fact": "The residence has an eight-foot-high stone wall and a heavy gate.",
+    "source_quote": "They open the gate and step inside. Looking around, Zinia quickly discovers that the compound has five families... It is the residence of some well-to-do folk and easily defensible in times of trouble.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Elder Kenter\u2019s Residence",
+    "fact": "The residence of Elder Kenter is a well-defended compound with five families, servants, and a central seating area where the council is revealed and the group is instructed to report to him first.",
+    "source_quote": "They open the gate and step inside. Looking around, Zinia quickly discovers that the compound has five families: the village elder and his wife, the four sons and their wives. A gaggle of children of different ages is running around.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Emiry Meadows",
+    "fact": "Emiry Meadows contains a lost wizard laboratory.",
+    "source_quote": "I know the location of a lost wizard laboratory under Emiry Meadows.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Emiry Meadows",
+    "fact": "Emiry Meadows is the location of a lost wizard\u2019s laboratory, as revealed by Spugnoir, and is a potential future adventure site.",
+    "source_quote": "I know the location of a lost wizard laboratory under Emiry Meadows.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Emiry Meadows",
+    "fact": "Emiry Meadows is the rumored location of a lost wizard laboratory, as disclosed by Spugnoir, who offers to guide the trio there.",
+    "source_quote": "I know the location of a lost wizard laboratory under Emiry Meadows.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Emiry Meadows",
+    "fact": "Spugnoir knows the location of a lost wizard laboratory under Emiry Meadows.",
+    "source_quote": "I know the location of a lost wizard laboratory under Emiry Meadows.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "end chamber",
+    "fact": "The large chamber at the end of the hallway is empty of valuables but contains a giant poisonous snake that attempts to strike and fails; it is soon killed, like other nuisance monsters the group has faced.",
+    "source_quote": "Leaving the salon and reentering the hallway, he walks into the large chamber at the end of the hallway. Much like other parts of the moathouse, this room is empty of anything valuable. Unlike other rooms, this room has a giant poisonous snake that attempts to strike. It fails. Soon, like the other nuisance monsters the group has faced, it is dead.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Final Chamber",
+    "fact": "The final chamber is at the end of the southern passageway; it is empty except for a giant poisonous snake that attempts to strike and is killed.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Gnarley Forest",
+    "fact": "The Gnarley Forest is the rumored location of a monster, and Elmo volunteers to help the group find it.",
+    "source_quote": "There is a monster in the Gnarley forest, and we will need someone to help us find it.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Gnarley forest",
+    "fact": "Zephyr mentions a monster in the Gnarley forest that needs to be found.",
+    "source_quote": "Zephyr smiles, \u201cThere is a monster in the Gnarley forest, and we will need someone to help us find it.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Great Hall",
+    "fact": "The Great Hall of the moathouse is crossed by Sequoia as he enters the southern passageway with three doors.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Greenway Valley",
+    "fact": "Ostler says the fastest route to the Lotrimil mountains is south into the Greenway Valley.",
+    "source_quote": "The fastest way is to head south and turn north into the Greenway Valley.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Greenway Valley",
+    "fact": "The Greenway Valley is the destination reached by heading south and turning north, as the fastest route to the dragon's home.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Greenway Valley",
+    "fact": "The Greenway Valley is the fastest route to the dragon\u2019s home, passing gnomish mining towns, as described by Ostler.",
+    "source_quote": "The fastest way is to head south and turn north into the Greenway Valley. A reasonably well-traveled road passes small gnomish mining towns.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Hommlet",
+    "fact": "Hommlet is the town where the group stays at the Inn of the Welcome Wench before returning to the moathouse.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Hommlett",
+    "fact": "Hommlett is the destination the group returns to after a bandit\u2019s confession, and it is the central hub of village politics and intrigue.",
+    "source_quote": "the group decides to return to Hommlett",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Hommlett",
+    "fact": "The group decides to return to Hommlett after the bandit confession.",
+    "source_quote": "the group decides to return to Hommlett.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Inn of the Welcome Wench",
+    "fact": "Burne and Refus are drinking at the Inn of the Welcome Wench.",
+    "source_quote": "At the Inn, in the main hall, Burne and Refus are sitting at the table, drinking.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Inn of the Welcome Wench",
+    "fact": "Ostler greets the group at the door of the Inn of the Welcome Wench after they return from visiting Jaroo.",
+    "source_quote": "From there, the trio heads to the Inn of the Welcome Wench, where Ostler... greets the trio at the door.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Inn of the Welcome Wench",
+    "fact": "Ostler ushers the group into the kitchen to discuss Furnok\u2019s theft.",
+    "source_quote": "he ushers them into the kitchen, explaining that his job offer is to prove that Furnoc is a crook who steals from the Inn\u2019s guests.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Inn of the Welcome Wench",
+    "fact": "The Inn of the Welcome Wench is where Burne and Rufus are drinking and where the party receives their mission; it is a hub of local intelligence and social interaction.",
+    "source_quote": "Burne and Refus are sitting at the table, drinking.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Inn of the Welcome Wench",
+    "fact": "The Inn of the Welcome Wench is where Burne and Rufus are questioned, where Furnok is exposed, where Elmo is met, and where the group returns after multiple adventures.",
+    "source_quote": "At the Inn, in the main hall, Burne and Refus are sitting at the table, drinking.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Inn of the Welcome Wench",
+    "fact": "The Inn of the Welcome Wench is where Spugnoir and Calmer stare at the heroes, having expected to join an adventure the previous day.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Kron Hills",
+    "fact": "Ostler says the way to the Lotrimil mountains is west through the Kron Hills.",
+    "source_quote": "Ostler explains that that\u2019s to the west through the Kron Hills.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Kron Hills",
+    "fact": "The Kron Hills are the route to the west that leads to the Lotrimil mountains, as explained by Ostler.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Kron Hills",
+    "fact": "The Kron Hills are the route west to the Lotrimil mountains, as described by Ostler, and are part of the dragon\u2019s journey home.",
+    "source_quote": "Ostler explains that that\u2019s to the west through the Kron Hills.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "large chamber at end of hallway",
+    "fact": "Leaving the salon and reentering the hallway, he walks into the large chamber at the end of the hallway. Much like other parts of the moathouse, this room is empty of anything valuable. Unlike other rooms, this room has a giant poisonous snake that attempts to strike. It fails.",
+    "source_quote": "Leaving the salon and reentering the hallway, he walks into the large chamber at the end of the hallway. Much like other parts of the moathouse, this room is empty of anything valuable. Unlike other rooms, this room has a giant poisonous snake that attempts to strike. It fails.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "large chamber at the end of the hallway",
+    "fact": "The large chamber at the end of the hallway is empty of anything valuable, but has a giant poisonous snake that attempts to strike. It fails. Soon, like the other nuisance monsters the group has faced, it is dead.",
+    "source_quote": "Leaving the salon and reentering the hallway, he walks into the large chamber at the end of the hallway. Much like other parts of the moathouse, this room is empty of anything valuable. Unlike other rooms, this room has a giant poisonous snake that attempts to strike. It fails. Soon, like the other nuisance monsters the group has faced, it is dead.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Lotrimil mountains",
+    "fact": "Airgid the dragon\u2019s home is near the Lotrimil mountains.",
+    "source_quote": "The dragon explains that its home is near the Lotrimil mountains.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Lotrimil Mountains",
+    "fact": "The Lotrimil Mountains are the dragon Airgid\u2019s home, and the destination of the group\u2019s journey after completing village missions.",
+    "source_quote": "The dragon explains that its home is near the Lotrimil mountains.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Lotrimil mountains",
+    "fact": "The Lotrimil mountains are the location of the silver dragon Airgid's home, as explained by the dragon and confirmed by Ostler.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "majordomo's domicile",
+    "fact": "The domicile of the majordomo is stripped of anything valuable.",
+    "source_quote": "The next door on the southern wall opens into the domicile of the majordomo of the castle. Zephyr sighs; it\u2019s stripped of anything valuable.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Majordomo's Domicile",
+    "fact": "The majordomo's domicile is the next door on the southern wall; it is stripped of anything valuable.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Moathouse",
+    "fact": "The Moathouse is the origin of the bandit activity, the source of the stone, and the site of the group\u2019s next objective after multiple village missions.",
+    "source_quote": "You must go deeper into the moathouse and find more evidence",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Moathouse",
+    "fact": "The Moathouse is the site of prior investigations and remains the target for deeper evidence, as repeatedly demanded by town leaders including Jaroo and Ostler.",
+    "source_quote": "Ostler admonished, \"You must go deeper into the moathouse and find more evidence.\"",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Moathouse",
+    "fact": "The group enters the great hall and finds a passageway with two south doors and one north door.",
+    "source_quote": "Sequoia crosses the courtyard, enters the great hall, and turns west into a passageway with two doors on the south and one to the north.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Moathouse",
+    "fact": "The group finds a collapsed tower with a faint gleam of coins inside.",
+    "source_quote": "Zinia points to the tower that they ignored last time... Looking at the floor, Sequoia and Zephyr notice a faint gleam of coins.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Moathouse",
+    "fact": "The group is advised to go deeper into the moathouse for more evidence.",
+    "source_quote": "You must go deeper into the moathouse and find more evidence",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Moathouse",
+    "fact": "The group returns to the moathouse and enters the courtyard.",
+    "source_quote": "they are once again at the moathouse... Inside the courtyard, Calmer asks...",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "moat house",
+    "fact": "The moat house is a location passed during the journey to the dragon's home; it calls to the group but they have another job.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "moathouse",
+    "fact": "The moathouse is a ruined castle with multiple chambers, including a tower, trophy room, barracks, salon, and great hall, explored by the heroes.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Moathouse Courtyard",
+    "fact": "The Moathouse courtyard is where the group finds coins and the ivory box, and where the giant wolf spider attacks.",
+    "source_quote": "Looking at the floor, Sequoia and Zephyr notice a faint gleam of coins. ... As they reach for the coin, a giant wolf spider attempts to turn them into its next meal.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Moathouse Great Hall",
+    "fact": "The Moathouse great hall is the next destination after the courtyard, with a passageway ending at a door, indicating deeper exploration is imminent.",
+    "source_quote": "Sequoia crosses the courtyard, enters the great hall, and turns west into a passageway with two doors on the south and one to the north. The passageway ends at the door.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "north-south hallway",
+    "fact": "The hallway runs north-south.",
+    "source_quote": "The hallway runs north-south.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "old conference room",
+    "fact": "The first door the rogue opens reveals an old conference room chamber. He sniffs and shuts the door, \u201cNothing to be found.\u201d",
+    "source_quote": "The first door the rogue opens reveals an old conference room chamber. He sniffs and shuts the door, \u201cNothing to be found.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "old conference room chamber",
+    "fact": "The first door the rogue opens reveals an old conference room chamber. He sniffs and shuts the door, 'Nothing to be found.'",
+    "source_quote": "The first door the rogue opens reveals an old conference room chamber. He sniffs and shuts the door, \"Nothing to be found.\"",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "ruined boathouse",
+    "fact": "A farmer's daughter, Lysia, wants to explore the ruined boathouse.",
+    "source_quote": "a farmer's daughter, Lysia, is itching to explore the ruined boathouse",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Ruined Boathouse",
+    "fact": "The ruined boathouse is mentioned as a place Lysia, a farmer\u2019s daughter, wishes to explore with competent companions.",
+    "source_quote": "A farmer's daughter, Lysia, is itching to explore the ruined boathouse, but she needs some equipment and a few competent companions.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "salon",
+    "fact": "Across the hallway, the third door opens into a salon; though in shambles and missing items, what remains appears valuable \u2014 but the treasures turned out to be worthless. The room is speculated to have been a meeting salon.",
+    "source_quote": "Across the hallway, he sees another door and excitedly opens it. He looks inside, and although the room is in shambles and things are missing, whatever remains still appears valuable. He enters carefully, and as he picks up the treasures, he realizes they are worthless. He looks around and mutters, 'A salon for meetings?'",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Salon",
+    "fact": "The salon is the third door on the western wall of the southern passageway; it contains seemingly valuable items that turn out to be worthless.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "salon for meetings",
+    "fact": "Across the hallway, another door is opened, revealing a room in shambles with missing things, but whatever remains still appears valuable. He enters carefully, and as he picks up the treasures, he realizes they are worthless. He looks around and mutters, 'A salon for meetings?'",
+    "source_quote": "Across the hallway, he sees another door and excitedly opens it. He looks inside, and although the room is in shambles and things are missing, whatever remains still appears valuable. He enters carefully, and as he picks up the treasures, he realizes they are worthless. He looks around and mutters, \"A salon for meetings?\"",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "salon for meetings",
+    "fact": "He looks around and mutters, \u201cA salon for meetings?\u201d",
+    "source_quote": "He looks around and mutters, \u201cA salon for meetings?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "secret passage under the inn",
+    "fact": "A patron mentions a secret passage below the inn leading to four lost chambers of a dead wizard.",
+    "source_quote": "There is a secret passage below the inn that leads to an extensive set of four lost chambers of a long-dead wizard.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "southern passageway",
+    "fact": "The southern passageway is 70 feet long, runs north-south, and has three doors.",
+    "source_quote": "Sequoia agrees. They cross the wrecked great hall and head down the southern passageway, which is 70 feet long and has three doors. The hallway runs north-south.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Southern Passageway",
+    "fact": "The southern passageway is a 70-foot-long hallway with three doors, running north-south, leading to the final chambers of the moathouse.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "stairway room",
+    "fact": "Sequoia leads the group past the last door in the hallway and into a room with a stairway leading down.",
+    "source_quote": "Sequoia leads the group past the last door in the hallway and into a room with a stairway leading down.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "stairway room",
+    "fact": "The room beyond the last door in the hallway contains a stairway leading down.",
+    "source_quote": "Sequoia leads the group past the last door in the hallway and into a room with a stairway leading down.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Stairwell Room",
+    "fact": "The stairwell room is accessed after the barracks; it contains a swarm of rats that are quickly killed.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Temple of St. Cuthbert",
+    "fact": "Calmer explains the discovery to Prefect Terjon inside the Temple of St. Cuthbert.",
+    "source_quote": "Once inside the temple of St. Cuthbert, Calmer excitedly explains to Prefect Terjon the proof...",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Temple of St. Cuthbert",
+    "fact": "The Temple of St. Cuthbert is where Calmer explains the findings to Prefect Terjon, and where the stone is first presented and rejected.",
+    "source_quote": "Once inside the temple of St. Cuthbert, Calmer excitedly explains to Prefect Terjon the proof that he and his companions have found.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Temple of St. Cuthbert",
+    "fact": "The Temple of St. Cuthbert is where Prefect Terjon resides and where the painted rock was first evaluated; it is a center of civic authority and religious influence.",
+    "source_quote": "Once inside the temple of St. Cuthbert, Calmer excitedly explains to Prefect Terjon...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The brewery",
+    "fact": "Cloaked people have been seen lurking behind the brewery at midnight.",
+    "source_quote": "I've seen a couple of cloaked people lurking behind the brewery at around midnight.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Brewery",
+    "fact": "The Brewery is the site of suspicious activity reported by Mickey, where cloaked figures are seen at midnight, sparking the trio\u2019s investigation.",
+    "source_quote": "cloaked people lurking behind the brewery at around midnight.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Castle Construction Site",
+    "fact": "The Castle Construction Site is noted by Sequoia for its unusually loud noise during the quiet night, suggesting ongoing hidden activity or magical interference.",
+    "source_quote": "Sequoia notices how much noise the castle construction makes.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Gnarley Forest",
+    "fact": "The Gnarley Forest is rumored to contain a monster.",
+    "source_quote": "There is a monster in the Gnarley forest, and we will need someone to help us find it.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Gnarley Forest",
+    "fact": "The Gnarley Forest is the location of a rumored monster, which Elmo volunteers to help the trio find.",
+    "source_quote": "There is a monster in the Gnarley forest, and we will need someone to help us find it.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Inn of the Welcome Wench",
+    "fact": "The Inn of the Welcome Wench is where Ostler greets the trio, Furnok is accused, Elmo is encountered, and the secret passage beneath the inn is rumored to exist.",
+    "source_quote": "the Inn of the Welcome Wench... greets the trio at the door... the secret passage below the inn...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Inn of the Welcome Wench",
+    "fact": "The inn has a secret passage below it leading to four lost chambers of a long-dead wizard.",
+    "source_quote": "From another person, he hears, \u201cThere is a secret passage below the inn that leads to an extensive set of four lost chambers of a long-dead wizard.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Moathouse",
+    "fact": "The Moathouse is the location from which Hawthorne first observed the trio\u2019s arrival and began following them, suggesting it is a point of surveillance or transition.",
+    "source_quote": "Hawthorne, saw you come from the moathouse.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Moathouse",
+    "fact": "The moathouse contains a tower with collapsed upper portion and a courtyard with coins.",
+    "source_quote": "The upper portion of the tower has collapsed, and the interior is dark. Looking at the floor, Sequoia and Zephyr notice a faint gleam of coins.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Ruined Boathouse",
+    "fact": "The Ruined Boathouse is the destination desired by Lysia, the farmer\u2019s daughter, who needs equipment and companions to explore it.",
+    "source_quote": "a farmer's daughter, Lysia, is itching to explore the ruined boathouse...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The ruined boathouse",
+    "fact": "The ruined boathouse is a place Lysia wants to explore.",
+    "source_quote": "A farmer's daughter, Lysia, is itching to explore the ruined boathouse, but she needs some equipment and a few competent companions.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Tower",
+    "fact": "The Tower is visible in the distance and becomes a focal point of the group\u2019s investigation and the Prefect\u2019s frustration.",
+    "source_quote": "the heroes can see \u201cThe Tower\u201d in the distance",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Tower",
+    "fact": "The Tower is visible in the distance as the group approaches Hommlett.",
+    "source_quote": "A few hours later, the heroes can see \u201cThe Tower\u201d in the distance...",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "trophy room",
+    "fact": "Only a few mangy pelts, stuffed heads, and shattered antlers remain.",
+    "source_quote": "The first door to Sequoia\u2019s left opens into a trophy room. Only a few mangy pelts, stuffed heads, and shattered antlers remain.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "trophy room",
+    "fact": "The trophy room contains a few mangy pelts, stuffed heads, and shattered antlers, some of which are the heads of dwarves, humans, and elves.",
+    "source_quote": "Only a few mangy pelts, stuffed heads, and shattered antlers remain. Zinia, who enters the room, looks more carefully and realizes that some of the trophies are the heads of dwarves, humans, and elves",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "trophy room",
+    "fact": "The trophy room contains only mangy pelts, stuffed heads, and shattered antlers; some of the trophies are the heads of dwarves, humans, and elves, labeled 'Enemies of the temple.'",
+    "source_quote": "Zinia, who enters the room, looks more carefully and realizes that some of the trophies are the heads of dwarves, humans, and elves \u2014 'Enemies of the temple,' he mutters.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Trophy Room",
+    "fact": "The trophy room is accessed through the first door on the left in the passageway; it contains mangy pelts, stuffed heads, and shattered antlers, including those of dwarves, humans, and elves.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Tulvar",
+    "fact": "Tulvar is the destination reached after a day of hard traveling, where Airgid shouts 'HOME!' and departs.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Tulvar",
+    "fact": "Tulvar is the location near the Lotrimil mountains where Airgid the dragon recognizes her home and departs.",
+    "source_quote": "A little before they arrive at Tulvar, after a day of hard traveling, the dragon suddenly shouts, \u201cHOME!\u201d",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
+    "source_quote": "Drow outpost was 100' in the sky",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "westernmost hallway end",
+    "fact": "Much like the other parts of the castle, this room is partially collapsed.",
+    "source_quote": "From there, Zephyr opens the westernmost door, where the hallway ends. Much like the other parts of the castle, this room is partially collapsed.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "westernmost hallway end",
+    "fact": "The room at the westernmost end of the hallway is partially collapsed, and the remains of cots and plain wooden chests convince the rogue that this was once a barracks room for castle guards\u2014undoubtedly the human sort.",
+    "source_quote": "From there, Zephyr opens the westernmost door, where the hallway ends. Much like the other parts of the castle, this room is partially collapsed. The remains of cots and plain wooden chests convince the rogue that this was once a barracks room for castle guards\u2014undoubtedly the human sort",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "wrecked great hall",
+    "fact": "The great hall is wrecked and crossed by the group as they move toward the southern passageway.",
+    "source_quote": "Sequoia agrees. They cross the wrecked great hall and head down the southern passageway, which is 70 feet long and has three doors. The hallway runs north-south.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "wrecked great hall",
+    "fact": "They cross the wrecked great hall and head down the southern passageway, which is 70 feet long and has three doors.",
+    "source_quote": "They cross the wrecked great hall and head down the southern passageway, which is 70 feet long and has three doors.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Airgid the Silver Dragon",
+    "fact": "Airgid, a silver dragon, is transported by the group to her home near the Lotrimil mountains, and departs with promises of reward from her mother.",
+    "source_quote": "The dragon explains that its home is near the Lotrimil mountains. ... Airgid takes off and starts to fly west. As she leaves, she shouts, \u201cDon\u2019t worry, my mommy will reward you! I KNOW SHE WILL! THANK YOU!\u201d",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "bandits",
+    "fact": "Bandits were defeated and one confessed, yielding the painted rock; they are suspected of colluding with a saboteur among the encampment workers.",
+    "source_quote": "The stone's strange markings suggest elemental evil, and after a confession from one of the bandits...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
+    "source_quote": "four chasme and two vrock",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "giant lizard",
+    "fact": "The lizard was using the chest as a lure. This time, the poor creature died.",
+    "source_quote": "As he approaches it, he notices a giant lizard just in time. The lizard was using the chest as a lure. This time, the poor creature died.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "giant poisonous snake",
+    "fact": "Soon, like the other nuisance monsters the group has faced, it is dead.",
+    "source_quote": "Soon, like the other nuisance monsters the group has faced, it is dead.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "giant wolf spider",
+    "fact": "A giant wolf spider attacks the group as they reach for coins in the collapsed tower.",
+    "source_quote": "As they reach for the coin, a giant wolf spider attempts to turn them into its next meal.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Giant Wolf Spider",
+    "fact": "A giant wolf spider attacks the group in the collapsed tower of the Moathouse but is swiftly defeated by the rogues and monk.",
+    "source_quote": "As they reach for the coin, a giant wolf spider attempts to turn them into its next meal. But it is overmatched by the two rogues and the monk.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "giant wolf spider",
+    "fact": "The giant wolf spider is overmatched and defeated by the two rogues and the monk.",
+    "source_quote": "But it is overmatched by the two rogues and the monk.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "swarm of rats",
+    "fact": "A swarm of rats occupies the stairway room; they are quickly killed by the group.",
+    "source_quote": "It also has a swarm of rats. Rats that are quickly killed.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "swarm of rats",
+    "fact": "It also has a swarm of rats. Rats that are quickly killed.",
+    "source_quote": "It also has a swarm of rats. Rats that are quickly killed.",
+    "quote_verified": true,
+    "passes": [
+      "sweep",
+      "temporal"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "monster",
+    "subject": "The Monster in the Gnarley Forest",
+    "fact": "A mysterious monster is rumored to inhabit the Gnarley Forest, and Elmo claims he is the person to help the trio find it.",
+    "source_quote": "There is a monster in the Gnarley forest...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Airgid",
+    "fact": "Airgid is a silver dragon who has strained the budget, shouts 'HOME!' as she flies west, and promises her mother will reward the heroes.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Airgid",
+    "fact": "Airgid the silver dragon says her home is near the Lotrimil mountains.",
+    "source_quote": "The dragon explains that its home is near the Lotrimil mountains.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Airgid",
+    "fact": "Airgid the silver dragon says her mommy will reward the group.",
+    "source_quote": "As she leaves, she shouts, \u201cDon\u2019t worry, my mommy will reward you! I KNOW SHE WILL! THANK YOU!\u201d",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Airgid",
+    "fact": "Airgid the silver dragon shouts \u201cHOME!\u201d as she spots her home.",
+    "source_quote": "the dragon suddenly shouts, \u201cHOME!\u201d",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Burne",
+    "fact": "Burne and Rufus connected the painted rock to the missing blueprints, recognized sabotage, and commissioned the party to investigate the encampment workers.",
+    "source_quote": "Burne muttered, \"This is it?\"",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Burne",
+    "fact": "Burne examines the rock, dismisses it as insufficient, then becomes thoughtful after Zephyr\u2019s account and connects it to missing blueprints and charcoal dust.",
+    "source_quote": "Burne mutters, \u201cThis is it?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Burne",
+    "fact": "Burne mutters in disbelief upon seeing the painted rock.",
+    "source_quote": "Two scrutinize the rock, and finally, Burne mutters, \u201cThis is it?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Burne",
+    "fact": "Burne says they must keep the investigation quiet.",
+    "source_quote": "Burne stretches and says, \u201cAnd keep this quiet. We don\u2019t want to tell anyone.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer asks the group if they will meet again tomorrow at the same time.",
+    "source_quote": "Before he leaves, he asks, \u201cTomorrow at the same time?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer insists on informing the Prefect of what has happened and later presents the stone as proof, only to be shocked by the Prefect\u2019s reaction.",
+    "source_quote": "Calmer insists, \u201cWe must go to the Prefect and inform him of what has happened!\u201d",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer insists that the group must go to the Prefect to inform him of what has happened.",
+    "source_quote": "Calmer insists, \u201cWe must go to the Prefect and inform him of what has happened!\u201d",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a healer who is sought by Zephyr for the Moathouse mission; he gulps inside the courtyard and asks what to check out next.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer presented a painted rock to Prefect Terjon as evidence, was shocked by the rejection, and later bowed out to return to the temple for prayers.",
+    "source_quote": "Calmer asked, \"Tomorrow at the same time?\"",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer returns to the Temple of St. Cuthbert to complete prayers before meeting Burne and Refus.",
+    "source_quote": "For some reason, Calmer bows out and says he must return to the Temple to complete some prayers.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer suggests finishing the exploration of the ruins of the moathouse to avoid nasty surprises following the group.",
+    "source_quote": "Calmer turns to the group, 'I suggest we finish exploring the ruins of the moathouse. Don\u2019t want any nasty surprises to follow us.'",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer turns to the group, 'I suggest we finish exploring the ruins of the moathouse. Don\u2019t want any nasty surprises to follow us.'",
+    "source_quote": "Calmer turns to the group, \"I suggest we finish exploring the ruins of the moathouse. Don\u2019t want any nasty surprises to follow us.\"",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Captain Zeb Fletcher",
+    "fact": "Captain Zeb Fletcher is a council member and father of Elmo and Mytch the Miller, representing the village\u2019s military authority.",
+    "source_quote": "The council members are Jaroo, Rufus, Burne, and Ostler, whom you have already met, as well as Captain Zeb Fletcher, father of Elmo and Mytch the Miller.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Captain Zeb Fletcher",
+    "fact": "Captain Zeb Fletcher is a member of the village council and father of Elmo and Mytch the Miller.",
+    "source_quote": "The council members are Jaroo, Rufus, Burne, and Ostler, whom you have already met, as well as Captain Zeb Fletcher, father of Elmo and Mytch the Miller.",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "large"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Elder Kenter",
+    "fact": "Elder Kenter expects the group to come to him first going forward.",
+    "source_quote": "Therefore, going forward, I expect you all to come here first.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Elder Kenter",
+    "fact": "Elder Kenter names the council members: Jaroo, Rufus, Burne, Ostler, and Captain Zeb Fletcher.",
+    "source_quote": "The council members are Jaroo, Rufus, Burne, and Ostler, whom you have already met, as well as Captain Zeb Fletcher, father of Elmo and Mytch the Miller.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Elder Kenter",
+    "fact": "Elder Kenter says Burne and Rufus have shown remarkable leadership in responding to the bandit threat.",
+    "source_quote": "Burne and Rufus have shown remarkable leadership and strategic acumen. Their efforts in organizing defenses and training our militia have been crucial in our response to the bandit threat.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Elder Kenter",
+    "fact": "Elder Kenter says Hawthorne followed the group and saw them visit Jaroo, Terjon, Burne, and Refus.",
+    "source_quote": "My second son, Hawthorne, saw you come from the moathouse. He followed you and saw you visited Jaroo, Terjon, Burne, and Refus.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Elder Kenter",
+    "fact": "Elder Kenter toasts with wine, saying, \u201cThe Blessings of Beory.\u201d",
+    "source_quote": "When the Elder gets his glass, he coughs and toasts, \u201cThe Blessings of Beory.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Elder Kenter",
+    "fact": "Elder Kenter welcomed the party to his compound, acknowledged Beory\u2019s blessings, and presided over a household of five families and servants, representing the town\u2019s political core.",
+    "source_quote": "Kenter toasted, \"The Blessings of Beory.\"",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Elder Kenter",
+    "fact": "Elder Kenter welcomes the trio to his compound and invites them to sit.",
+    "source_quote": "Standing in the middle of the room is an older man... \u201cMy name is Kenter... Please sit.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Elmo",
+    "fact": "Elmo identifies himself as an adventurer and a ranger.",
+    "source_quote": "They quickly learn that Elmo is an adventurer and a ranger by profession.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Elmo",
+    "fact": "Elmo is a drunk adventurer and ranger by profession.",
+    "source_quote": "Sequoia realizes that this is Elmo. He also smells the stench of booze on him: \u201cA drunk.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Elmo",
+    "fact": "Elmo is a drunk but skilled ranger and son of Captain Zeb Fletcher, who volunteers to help the group find the monster in the Gnarley Forest.",
+    "source_quote": "Elmo mutters, \u201cI am your person!\u201d",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Elmo",
+    "fact": "Elmo is the son of Zeb Fletcher, a drunk adventurer and ranger who is sitting at the Inn, and who volunteers to help the trio find the monster in the Gnarley Forest.",
+    "source_quote": "Sequoia realizes that this is Elmo. He also smells the stench of booze on him: 'A drunk.'... Elmo is an adventurer and a ranger by profession.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Elmo",
+    "fact": "Elmo says he is the person to help find the monster in the Gnarley forest.",
+    "source_quote": "Elmo mutters, \u201cI am your person!\u201d",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Elmo",
+    "fact": "Elmo shouts at Furnok to leave or he\u2019ll call the Captain.",
+    "source_quote": "A burly, muscular man sitting at another table shouts, \u201cGet out of here, Furnok, or I\u2019ll have to call the Captain, and he won\u2019t be as kindly as Ostler is.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Elmo",
+    "fact": "Elmo, son of Captain Zeb Fletcher, is a drunk but skilled ranger who volunteers to help the group find the monster in the Gnarley Forest.",
+    "source_quote": "Elmo mutters, \u201cI am your person!\u201d",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Furnoc",
+    "fact": "Furnoc is accused of stealing from the Inn\u2019s guests.",
+    "source_quote": "Ostler explains that his job offer is to prove that Furnoc is a crook who steals from the Inn\u2019s guests.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Furnok",
+    "fact": "Furnok rejects the accusations of stealing from guests.",
+    "source_quote": "Ostler confronts Furnok, who rejects the accusations.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Furnok the Fabulous",
+    "fact": "Furnok the Fabulous is a target of Ostler\u2019s accusation of theft from Inn guests; his pickpocketing attempt fails, and he is later confronted by Ostler, who discovers loaded dice.",
+    "source_quote": "his attempt at pick-pocketing Furnok the Fabulous fails... he realizes they are loaded\u2014'The proof I needed!'",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Furnok the Fabulous",
+    "fact": "Furnok the Fabulous is an inn patron exposed as a cheat using loaded dice, and is confronted by Ostler and Elmo.",
+    "source_quote": "Ostler confronts Furnok, who rejects the accusations.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Hawthorne",
+    "fact": "Hawthorne followed the group and observed their visits to town leaders.",
+    "source_quote": "My second son, Hawthorne, saw you come from the moathouse. He followed you and saw you visited Jaroo, Terjon, Burne, and Refus.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Hawthorne",
+    "fact": "Hawthorne is Elder Kenter\u2019s second son with natural curiosity about unusual behavior.",
+    "source_quote": "My second son, Hawthorne, saw you come from the moathouse. He followed you and saw you visited Jaroo, Terjon, Burne, and Refus.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Hawthorne",
+    "fact": "Hawthorne is the second son of the Elder who observed the trio's movements from the moathouse and followed them to Jaroo, Terjon, Burne, and Refus, driven by natural curiosity.",
+    "source_quote": "My second son, Hawthorne, saw you come from the moathouse. He followed you and saw you visited Jaroo, Terjon, Burne, and Refus.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Hawthorne",
+    "fact": "Hawthorne, Elder Kenter\u2019s second son, is a natural observer who tracked the group\u2019s movements and reported them to his father.",
+    "source_quote": "My second son, Hawthorne, saw you come from the moathouse. He followed you and saw you visited Jaroo, Terjon, Burne, and Refus.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jakub",
+    "fact": "Jakub is a member of the Old Faith and father of Jira, who opposes her relationship with Marek due to religious differences.",
+    "source_quote": "Jakub is a member of the old faith and won\u2019t let Jira be with Marek",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jakub",
+    "fact": "Jakub is a member of the old faith and opposes Jira\u2019s relationship with Marek.",
+    "source_quote": "Jakub is a member of the old faith and won\u2019t let Jira be with Marek...",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jakub",
+    "fact": "Jakub is a member of the old faith who forbids Jira from being with Marek due to religious conflict.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jaroo",
+    "fact": "Jaroo admonishes the group to go deeper into the moathouse for more evidence.",
+    "source_quote": "Like all the other town leaders, he is disappointed when Jaroo is presented with the stone and confession. \u201cYou must go deeper into the moathouse and find more evidence,\u201d he admonishes.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jaroo",
+    "fact": "Jaroo asks the group who else they have spoken to.",
+    "source_quote": "Jaroo shouts, \u201cWho else have you spoken to?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jaroo",
+    "fact": "Jaroo offers the group the blessing of Beory and a healing potion.",
+    "source_quote": "Jaroo is pleased and offers them the blessing of Beory and a healing potion.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jaroo",
+    "fact": "Jaroo, the Druid, blesses the group with Beory\u2019s blessing and a healing potion after learning they\u2019ve spoken to all other village leaders.",
+    "source_quote": "Jaroo is pleased and offers them the blessing of Beory and a healing potion.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jaroo",
+    "fact": "Jaroo, the Druid, demanded deeper evidence from the moathouse, blessed the party with Beory\u2019s favor and a healing potion after learning they had spoken to Terjon, Burne, and Rufus.",
+    "source_quote": "Jaroo shouted, \"Who else have you spoken to?\"",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jira",
+    "fact": "Jira introduces herself as one of the two cloaked teenagers spotted at midnight.",
+    "source_quote": "The girl introduces herself as Jira...",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jira",
+    "fact": "Jira is a girl who introduces herself to Zephyr and pleads for help from Zinia, claiming her parents oppose her relationship with Marek due to religious differences.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jira",
+    "fact": "Jira is a teenage girl and daughter of Jakub of the Old Faith, who is in love with Marek, son of a St. Cuthbert follower.",
+    "source_quote": "The girl introduces herself as Jira, and the boy as Marek. They explain that Jakub is a member of the old faith and won\u2019t let Jira be with Marek",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jira",
+    "fact": "Jira is a teenager who wants to be with Marek despite religious conflict.",
+    "source_quote": "The girl introduces herself as Jira...",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jira",
+    "fact": "Jira pleads with Zinia to help her and Marek talk to their parents.",
+    "source_quote": "Jira pleads with Zinia to help them and talk to their parents \u2014 \u201cYou\u2019re heroes, and they\u2019ll listen!\u201d",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jira",
+    "fact": "Jira, a teenage girl, and Marek, a boy, are caught spying and reveal they are forbidden lovers due to religious divisions between the old faith and St. Cuthbert.",
+    "source_quote": "Jakub is a member of the old faith and won\u2019t let Jira be with Marek, whose father is Tomlyn, the tailor and a member of the Church of St. Cuthbert.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Kenter",
+    "fact": "Elder Kenter reveals the council members, criticizes the lack of unified reporting, and demands the group report to him first before approaching others.",
+    "source_quote": "The council members are Jaroo, Rufus, Burne, and Ostler, whom you have already met, as well as Captain Zeb Fletcher, father of Elmo and Mytch the Miller. ... Therefore, going forward, I expect you all to come here first.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Kenter",
+    "fact": "Kenter is the village elder with uncommon wisdom.",
+    "source_quote": "Standing in the middle of the room is an older man with white hair who looks reasonably fit and whose eyes show uncommon wisdom.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Lysia",
+    "fact": "Lysia is a farmer\u2019s daughter who wishes to explore the ruined boathouse but lacks equipment and competent companions.",
+    "source_quote": "A farmer's daughter, Lysia, is itching to explore the ruined boathouse, but she needs some equipment and a few competent companions.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Marek",
+    "fact": "Marek introduces himself as one of the two cloaked teenagers spotted at midnight.",
+    "source_quote": "...and the boy as Marek.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Marek",
+    "fact": "Marek is a boy who is in a relationship with Jira; his father, Tomlyn, is a tailor and member of the Church of St. Cuthbert, which opposes Jira's faith.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Marek",
+    "fact": "Marek is a teenage boy and son of Tomlyn the tailor, a member of the Church of St. Cuthbert, who is forbidden from dating Jira.",
+    "source_quote": "The girl introduces herself as Jira, and the boy as Marek. They explain that Jakub is a member of the old faith and won\u2019t let Jira be with Marek",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Marek",
+    "fact": "Marek is a teenager whose father is Tomlyn and who is forbidden from being with Jira.",
+    "source_quote": "The boy introduces himself as Marek.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Mickey",
+    "fact": "Mickey asks the group to investigate the cloaked people because he is worried about rumors of the temple being alive.",
+    "source_quote": "I'm worried, I mean, I, I, you know, I, the rumors around the village is going that the temple isn't as dead as everybody thought. And so maybe, those are, uh, spies.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Mickey",
+    "fact": "Mickey is the son of Virgil Tamen, the Braumeister, who reports seeing cloaked figures near the brewery at midnight and fears the temple may not be dead, prompting the trio to investigate.",
+    "source_quote": "I'm the son of Virgil Tamen, the Braumeister... I've seen a couple of cloaked people lurking behind the brewery at around midnight.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Mickey",
+    "fact": "Mickey says he is the son of Virgil Tamen, the Braumeister.",
+    "source_quote": "I am the son of Virgil Tamen, the Braumeister.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Mickey",
+    "fact": "Mickey whispers to the group that he saw cloaked people lurking behind the brewery at midnight.",
+    "source_quote": "My name\u2019s Mickey... I've seen a couple of cloaked people lurking behind the brewery at around midnight.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Mickey",
+    "fact": "Mickey, son of Virgil Tamen the Braumeister, reports seeing cloaked figures near the brewery at midnight and fears the temple is not dead.",
+    "source_quote": "I've seen a couple of cloaked people lurking behind the brewery at around midnight. ... the rumors around the village is going that the temple isn't as dead as everybody thought. And so maybe, those are, uh, spies.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Mytch the Miller",
+    "fact": "Mytch the Miller is the son of Captain Zeb Fletcher and a resident of Hommlet, mentioned as part of the council\u2019s familial ties.",
+    "source_quote": "The council members are Jaroo, Rufus, Burne, and Ostler, whom you have already met, as well as Captain Zeb Fletcher, father of Elmo and Mytch the Miller.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Ostler",
+    "fact": "Ostler explains that the dragon's home is to the west through the Kron Hills and confirms the journey is safe.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Ostler",
+    "fact": "Ostler greets the trio at the door after they return from visiting Jaroo.",
+    "source_quote": "From there, the trio heads to the Inn of the Welcome Wench, where Ostler, obviously informed of the visit to Jaroo and the blessing, greets the trio at the door.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Ostler",
+    "fact": "Ostler is a council member whom the trio has already met, and who has offered a job to prove Furnoc is a crook who steals from the Inn\u2019s guests, with free rooms as incentive.",
+    "source_quote": "The council members are Jaroo, Rufus, Burne, and Ostler, whom you have already met...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Ostler",
+    "fact": "Ostler is the innkeeper who enforces the three-night stay policy.",
+    "source_quote": "Ostler, the innkeeper, sits at the table \u2014 \u201cI see Burne and Rufus like you.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Ostler",
+    "fact": "Ostler offers free rooms for three nights if the group proves Furnoc steals from guests.",
+    "source_quote": "he explains that his job offer is to prove that Furnoc is a crook who steals from the Inn\u2019s guests. To sweeten the pot, he offers free rooms for three nights.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Ostler",
+    "fact": "Ostler tells the group that adventurers must stay at least three nights at the Inn.",
+    "source_quote": "Ostler grabs him by the arm, \u201cSo that you know; adventurers have a minimum three-night stay at the Inn.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Ostler",
+    "fact": "Ostler, the innkeeper, enforced a three-night minimum stay policy and noted that adventurers had not spoken to the Druid, hinting at unresolved tension.",
+    "source_quote": "Ostler said, \"I\u2019ll believe it when he says so.\"",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Ostler",
+    "fact": "Ostler, the innkeeper, informs the group of the three-night minimum stay policy and the sale of abandoned goods, then offers a job to expose Furnok\u2019s theft.",
+    "source_quote": "I also noticed that you didn\u2019t talk to the Druid. Does the Druid not like you? ... And as a matter of policy, any goods left behind are sold after three days.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Prefect Terjon",
+    "fact": "Prefect Terjon dismissed the rock as a painted trinket, refused to keep it initially, then changed his mind and retained it, later tossing it to Zephyr after being provoked.",
+    "source_quote": "Terjon muttered, \"You\u2019re right. It is worthless.\"",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Prefect Terjon",
+    "fact": "Prefect Terjon examines the painted rock and dismisses it as worthless.",
+    "source_quote": "The Prefect examines the stone... finally says in disgust, \u201cYou bring me a painted rock... all I have is your word.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Prefect Terjon",
+    "fact": "Prefect Terjon mutters that the rock is worthless as he tosses it to Zephyr.",
+    "source_quote": "Terjon mutters as it flies through the air, \u201cYou\u2019re right. It is worthless.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Prefect Terjon",
+    "fact": "Prefect Terjon says he would like to keep the painted rock.",
+    "source_quote": "Zinia asks for the rock, but Terjon surprisingly says, \u201cI would like to keep this worthless rock.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Refus",
+    "fact": "Refus asks the group to find the thief who copied the blueprints.",
+    "source_quote": "You must go and find the thief.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Refus",
+    "fact": "Refus whispers that he suspects a saboteur copied the keep\u2019s blueprints.",
+    "source_quote": "Rufus whispers, \u201cWe may have a job for you... I suspect that someone has copied our blueprints... I am convinced it is one of the workers in the encampments.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Rufus",
+    "fact": "Rufus discovered charcoal dust on returned blueprints, suspected a saboteur working with bandits, and concluded the thief was among the encampment workers.",
+    "source_quote": "Rufus whispered, \"We may have a job for you.\"",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Rufus",
+    "fact": "Rufus reveals he recently rechecked the blueprints for the keep and found traces of charcoal dust, suspecting a saboteur who worked with the bandits.",
+    "source_quote": "Rufus whispers, \u201cWe may have a job for you. I was recently examining the blueprints for the keep and found them missing. My architect had no idea where they went. When I rechecked them later, they had returned, but there were traces of charcoal dust on them. I suspect that someone has copied our blueprints.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia agrees. They cross the wrecked great hall and head down the southern passageway, which is 70 feet long and has three doors. The hallway runs north-south.",
+    "source_quote": "Sequoia agrees. They cross the wrecked great hall and head down the southern passageway, which is 70 feet long and has three doors. The hallway runs north-south",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia is a monk who notices a faint gleam of coins in the tower, enters the salon, identifies worthless treasures, and leads the group through the moathouse's passageways.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia laughs and agrees to let Spugnoir join the group.",
+    "source_quote": "Sequoia laughs, \u201cSomehow, you are very familiar.\u201d He then pauses, \u201cSure.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia leads the group into the final chamber with the giant poisonous snake and survives its attack.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia leads the group past the last door in the hallway and into a room with a stairway leading down.",
+    "source_quote": "Sequoia leads the group past the last door in the hallway and into a room with a stairway leading down",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia mutters that the room might be a salon for meetings.",
+    "source_quote": "He looks around and mutters, \u201cA salon for meetings?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia mutters, 'And for door number two,' as he opens the next door on the western wall.",
+    "source_quote": "Sequoia mutters, \"And for door number two,\" as he opens the next door on the western wall",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia notices two sons carefully grooming the horses at Elder Kenter\u2019s compound.",
+    "source_quote": "Sequoia notices how two sons carefully groom the horses.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia observed the two sons of Elder Kenter carefully grooming horses and inferred their pride in possessions.",
+    "source_quote": "Sequoia thought that they must be very proud of their possessions.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia struggles to sleep thinking about Zephyr\u2019s confusion and the teenagers squealing.",
+    "source_quote": "Sequoia struggles to sleep as he thinks about Zephyr looking confused and the two teenagers squealing.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "The southern passageway is 70 feet long and has three doors.",
+    "source_quote": "which is 70 feet long and has three doors.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Spugnoir",
+    "fact": "Spugnoir agrees to meet the group the next day.",
+    "source_quote": "\u201cTomorrow then, as it is quite late!\u201d",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Spugnoir",
+    "fact": "Spugnoir asks to join the group to complete their quartet.",
+    "source_quote": "I would like to go adventuring with you and complete your quartet. If you would have me?",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Spugnoir",
+    "fact": "Spugnoir is a character who had expected to go on an adventure and was left behind; he has a crushed look of being overlooked and smiles reluctantly when asked to assist.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Spugnoir",
+    "fact": "Spugnoir is a mysterious figure who claims knowledge of a lost wizard laboratory under Emiry Meadows and offers to join the trio as a fourth member in exchange for first pick of arcane scrolls.",
+    "source_quote": "I know the location of a lost wizard laboratory under Emiry Meadows... I would like to go adventuring with you and complete your quartet.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Spugnoir",
+    "fact": "Spugnoir is a mysterious figure who knows of a lost wizard\u2019s laboratory under Emiry Meadows and seeks to join the group as a fourth member.",
+    "source_quote": "I would like to go adventuring with you and complete your quartet. If you would have me?",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Spugnoir",
+    "fact": "Spugnoir offers to join the group and split treasures if he gets first crack at arcane scrolls.",
+    "source_quote": "I am offering to split the treasures as long as I get the first crack at any arcane scrolls we find.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Spugnoir",
+    "fact": "Spugnoir offers to join the group as a fourth member, reveals knowledge of a lost wizard\u2019s laboratory under Emiry Meadows, and demands first crack at arcane scrolls.",
+    "source_quote": "I know the location of a lost wizard laboratory under Emiry Meadows. I am offering to split the treasures as long as I get the first crack at any arcane scrolls we find.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Spugnoir",
+    "fact": "Spugnoir says he knows the location of a lost wizard laboratory under Emiry Meadows.",
+    "source_quote": "I know the location of a lost wizard laboratory under Emiry Meadows.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Terjon",
+    "fact": "Prefect Terjon examines the stone, dismisses it as a painted rock, refuses to keep it initially, then surprisingly changes his mind and keeps it.",
+    "source_quote": "Terjon surprisingly says, \u201cI would like to keep this worthless rock.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "The Duke",
+    "fact": "The Duke says he hopes to see the group again.",
+    "source_quote": "\u201cI hope I see you again.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "The Duke",
+    "fact": "The Duke sets up camp at the moathouse and expresses hope to see the heroes again; he is present as the group prepares for exploration.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "The Duke",
+    "fact": "The Duke sets up camp at the moathouse.",
+    "source_quote": "The Duke sets up camp.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "The Giant Lizard",
+    "fact": "A giant lizard uses a chest as a lure in the barracks room but is killed by the group.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "The Giant Poisonous Snake",
+    "fact": "A giant poisonous snake attempts to strike in the final chamber but fails and is killed.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "The Giant Wolf Spider",
+    "fact": "A giant wolf spider attempts to turn the rogues and monk into its next meal but is overmatched and killed.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "The Swarm of Rats",
+    "fact": "A swarm of rats is encountered in the stairwell room and is quickly killed.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Tomlyn",
+    "fact": "Tomlyn is a tailor and member of the Church of St. Cuthbert, and the father of Marek.",
+    "source_quote": "...Marek, whose father is Tomlyn, the tailor and a member of the Church of St. Cuthbert.",
+    "quote_verified": false,
+    "passes": [
+      "interiority",
+      "small"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Tomlyn",
+    "fact": "Tomlyn is the tailor and a member of the Church of St. Cuthbert, and father of Marek, who is forbidden from dating Jira.",
+    "source_quote": "Marek, whose father is Tomlyn, the tailor and a member of the Church of St. Cuthbert.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Valsenora",
+    "fact": "Valsenora brings treats to the table for the trio at Elder Kenter\u2019s compound.",
+    "source_quote": "They all nod and leave politely after sampling some of the treats that Kenter\u2019s wife, Valsenora, brings to the table.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Valsenora",
+    "fact": "Valsenora is Kenter\u2019s wife, who brings treats to the table during the Elder\u2019s gathering, symbolizing hospitality and community.",
+    "source_quote": "the treats that Kenter\u2019s wife, Valsenora, brings to the table.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Valsenora",
+    "fact": "Valsenora, Elder Kenter\u2019s wife, brings treats to the table after the group\u2019s meeting, demonstrating hospitality and familial structure.",
+    "source_quote": "They all nod and leave politely after sampling some of the treats that Kenter\u2019s wife, Valsenora, brings to the table.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Virgil Tamen",
+    "fact": "Virgil Tamen is the Braumeister and father of Mickey, who reports suspicious activity near the brewery.",
+    "source_quote": "I am the son of Virgil Tamen, the Braumeister.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zeb Fletcher",
+    "fact": "Zeb Fletcher is the father of Elmo and Mytch the Miller, and a council member whose influence is referenced by a patron threatening to call him.",
+    "source_quote": "Captain Zeb Fletcher, father of Elmo and Mytch the Miller... 'I\u2019ll have to call the Captain, and he won\u2019t be as kindly as Ostler is.'",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr challenges Terjon\u2019s decision to keep the rock, causes Terjon to toss it to him, and later hands it to Burne and Rufus, triggering their realization of a conspiracy.",
+    "source_quote": "Zephyr smiles sweetly, \u201cIf this rock is so worthless, why keep it?\u201d",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr falls on the table to create a distraction during his failed pickpocket attempt.",
+    "source_quote": "So he falls on the table that Furnok is sitting on, causing the table to tip over.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr hands the painted rock to Burne and Refus at the Inn.",
+    "source_quote": "Zephyr hands over the rock.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is a tiefling who uses his fierceness to silence teenagers and later appears confused while observing events at the moathouse.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is intrigued by Prefect Terjon wanting to keep the painted rock.",
+    "source_quote": "Zephyr is intrigued by Terjon wanting to hold onto a worthless rock.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr puts the blade to the throat of the smaller spy and forces the teenagers to be quiet.",
+    "source_quote": "Zephyr uses all his tiefling fierceness to force the two squealing teenagers to be quiet.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr receives the painted rock from Prefect Terjon after he tosses it.",
+    "source_quote": "Terjon winces... and then he tosses the rock to Zephyr.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr retrieved the painted rock from Prefect Terjon after questioning its worth, carried it to Burne and Rufus, and recognized the connection between the rock and the missing blueprints.",
+    "source_quote": "Zephyr said, \"If this rock is so worthless, why keep it?\"",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr smiles sweetly and asks Prefect Terjon why he wants to keep the worthless rock.",
+    "source_quote": "He smiles sweetly, \u201cIf this rock is so worthless, why keep it?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr sneaks up on the two cloaked figures at midnight with his sword drawn.",
+    "source_quote": "Zephyr plans to sneak up on the spies... Zephyr quickly advances on them, his sword in his right hand...",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr suggests they need someone to help find a monster in the Gnarley forest.",
+    "source_quote": "Zephyr smiles, \u201cThere is a monster in the Gnarley forest, and we will need someone to help us find it.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr thinks other than half the village, the secret is already out.",
+    "source_quote": "Zephyr thinks, \u201cOther than half the village.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia agrees with Calmer that the group should inform the Prefect.",
+    "source_quote": "Sequoia, Zinia, and Zephyr agree.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia grabs the loaded dice from the tipped table and declares them proof.",
+    "source_quote": "Zinia moves quickly and grabs the dice. As he picks them up, he realizes they are loaded\u2014\u201cThe proof I needed!\u201d",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia heads to the door after Ostler mentions the Druid.",
+    "source_quote": "Zinia gets the point and gets up, heading to the door.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia is a participant in the moathouse exploration and identifies enemy trophies as the heads of dwarves, humans, and elves \u2014 'Enemies of the temple.'",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia mutters that the heads are 'Enemies of the temple.'",
+    "source_quote": "\u2018Enemies of the temple,\u2019 he mutters.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia points to the tower ignored last time during the moathouse exploration and enters the trophy room where she identifies enemy trophies.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia realizes the town has no secrets after telling Jaroo who they spoke to.",
+    "source_quote": "Zinia realizes this town has no secrets, and he tells the truth.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia recognized the town\u2019s lack of secrets, truthfully disclosed their interactions to Jaroo, and led the group to Elder Kenter\u2019s compound to secure local political support.",
+    "source_quote": "Zinia muttered, \"We should go talk to the village elder.\"",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia snarls and tells Jira and Marek to go away.",
+    "source_quote": "Zinia snarls and tells them to go away.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia snarls at the teenagers and is later pleaded with by Jira to intervene with their parents; Zinia is also a participant in the moathouse exploration and identifies enemy trophies.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "blueprints",
+    "fact": "The blueprints for the keep are missing and later return with traces of charcoal dust.",
+    "source_quote": "I was recently examining the blueprints for the keep and found them missing... they had returned, but there were traces of charcoal dust on them.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "blueprints for the keep",
+    "fact": "The blueprints for the keep were reported missing, later returned with traces of charcoal dust, suggesting an internal copy operation by a saboteur among the encampment workers.",
+    "source_quote": "Rufus said, \"I found them missing... traces of charcoal dust on them.\"",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "chest",
+    "fact": "An intact chest is found at the south end of the barracks room; it is used as a lure by the giant lizard.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "coins",
+    "fact": "A faint gleam of coins is noticed on the floor of the collapsed tower; the group reaches for them, triggering the wolf spider attack.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "healing potion",
+    "fact": "Jaroo gives the group a healing potion as a blessing.",
+    "source_quote": "Jaroo is pleased and offers them the blessing of Beory and a healing potion.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "intact chest",
+    "fact": "An intact chest is located at the south end of the room, and a giant lizard was using it as a lure.",
+    "source_quote": "Zephyr notices an intact chest at the south end of the room. As he approaches it, he notices a giant lizard just in time. The lizard was using the chest as a lure",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "intact chest",
+    "fact": "An intact chest sits at the south end of the barracks room; it was used as a lure by a giant lizard, which died as a result.",
+    "source_quote": "Zephyr notices an intact chest at the south end of the room. As he approaches it, he notices a giant lizard just in time. The lizard was using the chest as a lure. This time, the poor creature died.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "intact chest",
+    "fact": "Zephyr notices an intact chest at the south end of the room.",
+    "source_quote": "Zephyr notices an intact chest at the south end of the room.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "ivory box",
+    "fact": "An ivory box about the size of a large book is found among the treasures in the moathouse.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "ivory box",
+    "fact": "The group finds an ivory box about the size of a large book among the treasures in the collapsed tower.",
+    "source_quote": "They find an ivory box about the size of a large book among the treasures.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Ivory Box",
+    "fact": "The ivory box, found among coins in the collapsed tower of the Moathouse, is the size of a large book and contains unknown treasures.",
+    "source_quote": "They find an ivory box about the size of a large book among the treasures.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Loaded Dice",
+    "fact": "The loaded dice are stolen from Furnok by Zinia after Zephyr\u2019s distraction, proving Furnok\u2019s fraud and satisfying Ostler\u2019s job request.",
+    "source_quote": "Zinia moves quickly and grabs the dice. As he picks them up, he realizes they are loaded\u2014\u201cThe proof I needed!\u201d",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "loaded dice",
+    "fact": "Zinia finds the dice are loaded after grabbing them from the tipped table.",
+    "source_quote": "Zinia moves quickly and grabs the dice. As he picks them up, he realizes they are loaded",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "painted rock",
+    "fact": "Prefect Terjon claims the painted rock is worthless.",
+    "source_quote": "You bring me a painted rock... this trinket and your words.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "painted rock",
+    "fact": "The painted rock was found on the body of a bandit.",
+    "source_quote": "Zephyr shares that the stone was found on the body of a bandit.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "painted rock",
+    "fact": "The painted rock, found on a bandit\u2019s body, was dismissed as worthless by Terjon, accepted by Zephyr, and later recognized by Burne and Rufus as a clue linked to charcoal dust on stolen blueprints.",
+    "source_quote": "Terjon said, \"You bring me a painted rock.\"",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "painted rock",
+    "fact": "Zephyr holds the painted rock after Terjon tosses it to him.",
+    "source_quote": "Zephyr, the stone in his fist, exits the temple.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "The Loaded Dice",
+    "fact": "The loaded dice found on Furnok are physical evidence of fraud or magical manipulation, and serve as the key proof Ostler seeks.",
+    "source_quote": "he realizes they are loaded\u2014'The proof I needed!'",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "The Secret Passage Beneath the Inn",
+    "fact": "A secret passage beneath the Inn of the Welcome Wench is rumored to lead to four lost chambers of a long-dead wizard, suggesting hidden history and potential treasure.",
+    "source_quote": "There is a secret passage below the inn that leads to an extensive set of four lost chambers of a long-dead wizard.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "The Stone",
+    "fact": "The stone is a small, painted rock found on a bandit\u2019s body, initially dismissed as worthless, but later becomes the key that unlocks the conspiracy of missing blueprints and charcoal dust.",
+    "source_quote": "Calmer has produced, rubs it between his fingers, weighs it, and finally says in disgust, \u201cYou bring me a painted rock.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "treasures",
+    "fact": "He enters carefully, and as he picks up the treasures, he realizes they are worthless.",
+    "source_quote": "He enters carefully, and as he picks up the treasures, he realizes they are worthless.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "cloaked figures at midnight",
+    "fact": "Cloaked figures are seen lurking behind the brewery at midnight, sparking rumors the temple is not dead.",
+    "source_quote": "I've seen a couple of cloaked people lurking behind the brewery at around midnight... the rumors around the village is going that the temple isn't as dead as everybody thought.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "dragon's mother",
+    "fact": "Airgid says her mommy will reward the group for returning her home.",
+    "source_quote": "Don\u2019t worry, my mommy will reward you! I KNOW SHE WILL! THANK YOU!",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "dragon's reward",
+    "fact": "Airgid promises her mother will reward the heroes, suggesting a future encounter or boon from a higher power.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Druid\u2019s hidden agenda",
+    "fact": "The Druid\u2019s apparent approval and delayed blessing suggest he knew of the party\u2019s prior dealings and is waiting for them to engage him directly before revealing deeper truths.",
+    "source_quote": "Ostler said, \"I\u2019ll believe it when he says so, which will happen after you talk to him about whatever you talked to Burne, Rufus, and Terjon about.\"",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "enemy trophies",
+    "fact": "The presence of dwarven, elven, and human heads in the trophy room suggests a deeper history of persecution or war tied to the temple, warranting further investigation.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "identity of the saboteur",
+    "fact": "The saboteur is suspected to be a worker in the encampment who collaborated with the bandits, but their identity remains unknown and must be uncovered.",
+    "source_quote": "Rufus said, \"I am convinced it is one of the workers in the encampments.\"",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Jakub's opposition",
+    "fact": "Jakub's religious opposition to Jira and Marek's relationship may have deeper ties to the moathouse's past or the temple's ideology.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "lost wizard laboratory",
+    "fact": "Spugnoir knows of a lost wizard laboratory under Emiry Meadows and wants to join the group to find it.",
+    "source_quote": "I know the location of a lost wizard laboratory under Emiry Meadows. I am offering to split the treasures as long as I get the first crack at any arcane scrolls we find.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Lysia\u2019s exploration of the ruined boathouse",
+    "fact": "Lysia, the farmer's daughter, wants to explore the ruined boathouse but needs equipment and competent companions.",
+    "source_quote": "a farmer's daughter, Lysia, is itching to explore the ruined boathouse, but she needs some equipment and a few competent companions.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Lysia\u2019s Quest to the Ruined Boathouse",
+    "fact": "The farmer\u2019s daughter Lysia\u2019s desire to explore the ruined boathouse introduces a potential side quest involving equipment, companions, and possible dangers.",
+    "source_quote": "a farmer's daughter, Lysia, is itching to explore the ruined boathouse, but she needs some equipment and a few competent companions.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "missing blueprints",
+    "fact": "The blueprints for the keep were stolen and copied, and the thief is suspected to be a worker in the encampments.",
+    "source_quote": "I suspect that someone has copied our blueprints... I am convinced it is one of the workers in the encampments.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Spugnoir's exclusion",
+    "fact": "Spugnoir's crushed look and repeated exclusion suggest a pattern of being overlooked, potentially leading to a personal arc or betrayal.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Spugnoir\u2019s Familiarity",
+    "fact": "Spugnoir\u2019s uncanny familiarity with the trio raises an unresolved question about his past connection to them, hinting at forgotten memories or hidden ties.",
+    "source_quote": "Somehow, you are very familiar.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The bandit-saboteur connection",
+    "fact": "Rufus suspects the thief worked with the bandits, but the exact identity and location of the saboteur remain hidden.",
+    "source_quote": "I am convinced it is one of the workers in the encampments.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The blueprints' true origin",
+    "fact": "The blueprints returned with charcoal dust, but their true origin and the identity of the copier remain unknown.",
+    "source_quote": "Rufus whispers, \u201cWe may have a job for you... I suspect that someone has copied our blueprints.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The cloaked figures' identity",
+    "fact": "The cloaked people behind the brewery are suspected to be spies, but their allegiance and purpose are unconfirmed.",
+    "source_quote": "I've seen a couple of cloaked people lurking behind the brewery at around midnight... maybe, those are, uh, spies.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The dragon's mommy",
+    "fact": "Airgid promises her mommy will reward the heroes, but her mommy's identity and whereabouts are unspecified.",
+    "source_quote": "Don\u2019t worry, my mommy will reward you! I KNOW SHE WILL! THANK YOU!",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Druid's opinion",
+    "fact": "Ostler questions whether the Druid likes the adventurers, but the Druid\u2019s actual feelings are never stated.",
+    "source_quote": "\u201cI also noticed that you didn\u2019t talk to the Druid. Does the Druid not like you?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The fate of the blueprints' original creator",
+    "fact": "The architect who lost the blueprints has no idea where they went, and their fate remains unknown.",
+    "source_quote": "My architect had no idea where they went.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Four Lost Chambers Beneath the Inn",
+    "fact": "The rumor of four lost chambers beneath the Inn introduces a potential dungeon crawl and historical mystery, awaiting discovery.",
+    "source_quote": "There is a secret passage below the inn that leads to an extensive set of four lost chambers of a long-dead wizard.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The identity of the cloaked figures",
+    "fact": "The two teenagers Jira and Marek were mistaken for spies, but their true identity as forbidden lovers was only revealed after confrontation.",
+    "source_quote": "The girl introduces herself as Jira, and the boy as Marek.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The lost wizard's identity",
+    "fact": "The wizard whose laboratory is under Emiry Meadows and whose chambers lie below the inn is unnamed and unknown.",
+    "source_quote": "an extensive set of four lost chambers of a long-dead wizard.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The secret of the ivory box",
+    "fact": "The ivory box found in the tower is recovered, but its contents and significance are not yet revealed.",
+    "source_quote": "They find an ivory box about the size of a large book among the treasures.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The stone's true nature",
+    "fact": "The stone found on the bandit's body was dismissed as worthless, but its origin and potential magical properties remain unexamined.",
+    "source_quote": "Terjon says, \u201cI would like to keep this worthless rock.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Temple\u2019s Possible Resurgence",
+    "fact": "Rumors suggest the temple may not be dead, and the cloaked figures at the brewery may be spies, creating an unresolved mystery the trio must investigate.",
+    "source_quote": "the rumors around the village is going that the temple isn't as dead as everybody thought. And so maybe, those are, uh, spies.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The temple's true state",
+    "fact": "Rumors suggest the temple isn't as dead as believed, but its current condition and activity are unverified.",
+    "source_quote": "the rumors around the village is going that the temple isn't as dead as everybody thought.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Wizard Laboratory Under Emiry Meadows",
+    "fact": "Spugnoir\u2019s claim of a lost wizard laboratory under Emiry Meadows introduces a new quest thread, pending verification and exploration.",
+    "source_quote": "I know the location of a lost wizard laboratory under Emiry Meadows.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "worthless salon",
+    "fact": "The salon filled with fake treasures suggests deliberate deception or a trap set by former occupants, hinting at hidden secrets or booby-trapped areas.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  }
+]

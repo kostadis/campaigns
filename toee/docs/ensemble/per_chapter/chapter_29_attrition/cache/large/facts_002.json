@@ -1,0 +1,156 @@
+[
+  {
+    "type": "npc",
+    "subject": "Hartsch",
+    "fact": "Hartsch is a nominal superior who made a unilateral decision to send the Blades to raid the Water Temple, falsely attributing the order to the Obsidian Edge, thereby risking the faction's reputation and the lives of its agents.",
+    "source_quote": "He'd told them the orders came from us.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is a pragmatic leader who responds to crises with decisive action, sacrifices strategic options to preserve lives, and recruits loyalty through presence rather than authority.",
+    "source_quote": "We are with you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia is an observer who rarely speaks but when she does, her words carry irreversible weight \u2014 she anchors fractured groups not with promises, but with the simple, unflinching truth of shared presence.",
+    "source_quote": "I don't know what your plans are. But whatever your plans are, you are with us. We are with you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a warrior of St. Cuthbert who wields divine radiance and the rite of turning, but carries a permanent wound from the Wraith's cold \u2014 he refuses to heal, choosing instead to stand broken and still fight.",
+    "source_quote": "I did not heal. I did not run.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia is a lethal tactician who reads situations with chilling clarity, executes decisive kills without hesitation, and uncovers hidden betrayals through attention to detail \u2014 he understands that loyalty is bought before the post, not after.",
+    "source_quote": "One does not simply take bribes to defect.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Obsidian Edge",
+    "fact": "The Obsidian Edge is the faction falsely blamed by Hartsch for the failed Water Temple raid, now at risk of being perceived as the architect of its agents' deaths \u2014 its reputation is being weaponized by internal betrayal.",
+    "source_quote": "So that when the Blades died in the water it would be the Obsidian Edge that sent them.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Air Temple",
+    "fact": "The Air Temple is a former ally or component of the Obsidian Edge, now abandoned after its association with Hartsch's reckless initiative rendered it politically toxic \u2014 its name is being used to mask true loyalties.",
+    "source_quote": "The Air Temple was off. You don't run a two-pronged raid when one prong is already pinned and bleeding under the wrong banner.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple is a contested stronghold within the Obsidian Edge's sphere, now infiltrated by traitors and secret doors \u2014 its defenders are being manipulated and murdered from within.",
+    "source_quote": "One of the bugbears who was supposed to be standing between us and the things that wanted us dead, and he was walking out with somebody else's money in his hands.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Water Temple",
+    "fact": "The Water Temple is the target of Hartsch\u2019s unauthorized raid and the site of the Broken Blades\u2019 massacre \u2014 it is now a death trap controlled by undead forces and possibly a hostile faction using the chaos as cover.",
+    "source_quote": "We're being fed to a meat grinder.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Wraith",
+    "fact": "The Wraith is a sentient undead entity that guards the choke point between levels, feeds on the dead, negotiates in exchange for intelligence, and holds a grudge against the Obsidian Edge \u2014 it remembers who paid in others' blood.",
+    "source_quote": "It remembers we came past. It remembers we paid in someone else's people.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Specters",
+    "fact": "The seven Specters are lesser undead extensions of the Wraith, bound to its will and vulnerable to Calmer\u2019s divine radiance \u2014 they are not merely slain, but unmade by his power.",
+    "source_quote": "They came apart in the radiance, all of them but one.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Bugbears",
+    "fact": "The bugbears are former Earth Temple defenders, now corrupted or bribed \u2014 one defected with Air Temple coins, revealing an internal conspiracy within the Obsidian Edge\u2019s own hierarchy.",
+    "source_quote": "The stamp wasn't Kelno's. Wasn't water at all. Air Temple insignia, pressed clean into every piece.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Gnolls",
+    "fact": "The gnolls are undead or hidden operatives emerging from a secret door in the Earth Temple, furious over the betrayal of their bribe payment \u2014 they are agents of a third, unknown faction manipulating the conflict.",
+    "source_quote": "We paid good money for that! Now we will get our money, and get food!",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Air Temple Coins",
+    "fact": "Twenty gold coins stamped with the Air Temple insignia were found on the defected bugbear \u2014 they are not Kelno\u2019s, proving the betrayal is internal and orchestrated by a higher power within the Obsidian Edge.",
+    "source_quote": "The stamp wasn't Kelno's. Wasn't water at all. Air Temple insignia, pressed clean into every piece.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple is a stronghold under siege from within \u2014 its walls have secret doors, its guards are being bribed or killed, and its loyalty is being systematically dismantled by an unseen enemy.",
+    "source_quote": "The gnolls came out of the wall to prove it, a secret door I hadn't found yet.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Water Temple",
+    "fact": "The Water Temple is a death chamber now \u2014 saturated with blood, haunted by undead, and the site of the Broken Blades' massacre \u2014 it is a trap laid by forces that benefit from the Obsidian Edge's internal collapse.",
+    "source_quote": "Behind him the survivors stood, hands slick to the wrist, staring at nothing.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Choke Point Corridor",
+    "fact": "The choke point corridor is a narrow passage between temple levels, guarded by the Wraith and Specters \u2014 it is a bottleneck of death that must be cleared to advance or retreat.",
+    "source_quote": "Seven specters in a line behind it.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Hidden Betrayal in the Obsidian Edge",
+    "fact": "A high-ranking member of the Obsidian Edge (likely Air Temple-aligned) is manipulating the faction\u2019s conflicts \u2014 using Hartsch\u2019s recklessness and false attribution to fracture loyalty and sow chaos from within.",
+    "source_quote": "The real hand was a different one entirely.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Calmer\u2019s Permanent Wound",
+    "fact": "Calmer carries an unhealable cold wound from the Wraith \u2014 it is not physical, but existential \u2014 and he has chosen to remain broken, making him both vulnerable and terrifyingly potent.",
+    "source_quote": "I was going to walk the rest of this with the door open.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Rite of Turning",
+    "fact": "Calmer has failed the rite of turning twice before \u2014 its success now is not just tactical, but spiritual, breaking a cycle of shame and proving his resolve in the face of irreversible loss.",
+    "source_quote": "The third time. I called it.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Zinnia\u2019s Unspoken Loyalty",
+    "fact": "Zinnia\u2019s rare act of rallying the Broken Blades with a single phrase suggests a deeper, unrecorded bond with the faction \u2014 she does not lead with words, but with presence, and this moment may be the foundation of a new covenant.",
+    "source_quote": "I'd showed up. That mattered more than anything I could say.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "after the Wraith's defeat",
+    "fact": "The defeat of the Wraith marks a turning point \u2014 the passage is now clear, but the faction\u2019s internal rot has been exposed, and the cost of victory is permanent.",
+    "source_quote": "Two roads to the second level now, and one of them open.",
+    "quote_verified": true
+  }
+]

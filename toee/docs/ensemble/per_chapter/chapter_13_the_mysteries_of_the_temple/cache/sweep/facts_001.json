@@ -1,0 +1,177 @@
+[
+  {
+    "type": "npc",
+    "subject": "Nicholas",
+    "fact": "Nicholas was knocked unconscious but was swiftly revived by Calmer's healing magic.",
+    "source_quote": "Nicholas was knocked unconscious but was swiftly revived by Calmer's healing magic",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer revived Nicholas with healing magic after he was knocked unconscious.",
+    "source_quote": "Calmer's healing magic revived Nicholas after he was knocked unconscious",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr successfully used intimidation to shatter the monastery's peaceful facade.",
+    "source_quote": "Zephyr successfully used intimidation to shatter the monastery's peaceful facade",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Ziinnia",
+    "fact": "Ziinnia ruthlessly interrogated a captive monk alongside Zephyr.",
+    "source_quote": "Zephyr and Ziinnia ruthlessly interrogated a captive monk",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Tharok Stevan",
+    "fact": "Tharok Stevan (Tharok Stonevein) orchestrated a catastrophic ritual to summon a Titan.",
+    "source_quote": "Tharok Stevan (Tharok Stonevein) orchestrated a catastrophic ritual to summon a Titan",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Brother Eldren",
+    "fact": "Brother Eldren forged a tactical alliance with the party and provided a distraction.",
+    "source_quote": "the party forged a tactical alliance with the defector Brother Eldren. Eldren providing a distraction",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Alina",
+    "fact": "Sister Alina was the supposed cult leader to be confronted by Ziinnia and the GM's character.",
+    "source_quote": "Ziinnia and the GM's character would confront the supposed cult leader Sister Alina",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr and Nicholas infiltrated the library.",
+    "source_quote": "Zephyr and Nicholas infiltrated the library",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Nicholas",
+    "fact": "Nicholas navigated the magical library with Zephyr.",
+    "source_quote": "Zephyr and Nicholas navigated a magical library filled with floating books, glowing runes, and earth magic",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "four stones and four passages",
+    "fact": "A clue regarding four stones and four passages was deciphered, revealing a hidden door.",
+    "source_quote": "they deciphered a clue regarding four stones and four passages, ultimately revealing a hidden door",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "specific bookshelf",
+    "fact": "A hidden door was revealed by knocking three times on a specific bookshelf.",
+    "source_quote": "revealing a hidden door by knocking three times on a specific bookshelf",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "four specific books",
+    "fact": "A puzzle required four specific books to be found.",
+    "source_quote": "a puzzle requiring four specific books",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "animated books",
+    "fact": "A violent swarm of animated books surrounded Zephyr and Nicholas, which they shredded in combat.",
+    "source_quote": "surrounding them in a violent swarm of animated books. Zephyr and Nicholas shredded the swarms in combat",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Temple of Elemental Evil",
+    "fact": "The overarching answer to the riddle was the Temple of Elemental Evil itself.",
+    "source_quote": "the overarching answer to the riddle was the Temple of Elemental Evil itself",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "magical library",
+    "fact": "The magical library was filled with floating books, glowing runes, and earth magic.",
+    "source_quote": "a magical library filled with floating books, glowing runes, and earth magic",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "hidden door",
+    "fact": "The hidden door was revealed by knocking three times on a specific bookshelf.",
+    "source_quote": "revealing a hidden door by knocking three times on a specific bookshelf",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "beyond the hidden door",
+    "fact": "Beyond the hidden door, a swarm of animated books was encountered.",
+    "source_quote": "Beyond the hidden door, they encountered a puzzle requiring four specific books. Searching the shelves for the missing fourth tome triggered the library's magical defenses, surrounding them in a violent swarm of animated books",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Cult",
+    "fact": "The monastery was not devoted to the nature goddess Beory, but to the Earth Cult.",
+    "source_quote": "the monastery was not devoted to the nature goddess Beory, but to the Earth Cult",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "High Templar",
+    "fact": "The High Templar Tharok Stevan (Tharok Stonevein) orchestrated the Titan-summoning ritual.",
+    "source_quote": "orchestrated by the High Templar Tharok Stevan (Tharok Stonevein)",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Titan-summoning ritual",
+    "fact": "A catastrophic ritual to summon a Titan was already underway.",
+    "source_quote": "a catastrophic ritual to summon a Titan was already underway",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "library's magical defenses",
+    "fact": "The library's magical defenses were triggered by searching for the missing fourth tome.",
+    "source_quote": "Searching the shelves for the missing fourth tome triggered the library's magical defenses",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "riddle of the four elements",
+    "fact": "The party deciphered a cryptic poem about the four elements and correctly deduced the answer.",
+    "source_quote": "deciphering a cryptic poem about the four elements, correctly deducing that the overarching answer to the riddle was the Temple of Elemental Evil itself",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "restricted library",
+    "fact": "The party needed to access the restricted library to stop the ritual.",
+    "source_quote": "needed to access the restricted library to stop the ritual",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "remaining books",
+    "fact": "The remaining books vanished after the animated book swarm was shredded.",
+    "source_quote": "causing the remaining books to vanish and revealing the path forward",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "GM's character",
+    "fact": "The GM's character confronted Sister Alina alongside Ziinnia.",
+    "source_quote": "Ziinnia and the GM's character would confront the supposed cult leader Sister Alina",
+    "quote_verified": true
+  }
+]

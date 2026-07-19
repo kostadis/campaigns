@@ -1,0 +1,142 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is a strategist who prefers waiting out the war, allowing factions to exhaust each other, and has assumed de facto leadership despite not holding formal authority.",
+    "source_quote": "We wait it out.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Hartsch",
+    "fact": "Hartsch is a commander overwhelmed by the war he inherited, unable to make decisive tactical choices, and ultimately abandons his post after impulsively sending the Broken Blades into battle.",
+    "source_quote": "I couldn't wait! I sent the Broken Blades to attack!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia is a reflective operative who recognizes patterns of self-deception and impulsive leadership in others, and sees his own past in Hartsch's note.",
+    "source_quote": "I know that man. I've redistributed treasure when nobody was looking.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Wraith",
+    "fact": "The Wraith is an ancient entity feeding on the dead of the temple war, now empowered with seven specters raised from bodies the party killed, and has shifted from menacing presence to a calculating, almost collegial observer.",
+    "source_quote": "I now have minions.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Seven Specters",
+    "fact": "Seven specters were raised by the Wraith from the corpses of Earth Temple soldiers and other fallen fighters the party directly or indirectly killed, now serving as his personal army.",
+    "source_quote": "One, two, three. Four, five. Mostly Earth Temple forces.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple has been weakened by prolonged conflict, lost key personnel, and now relies on the Obsidian Edge for direction after Hartsch's leadership collapsed.",
+    "source_quote": "The number was wrong... These were men who had started this war expecting to win it quickly.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Obsidian Edge",
+    "fact": "The Obsidian Edge is the hidden architect of the war, manipulating events from behind the scenes, now operating as the de facto power in the temple complex after Hartsch's authority faded.",
+    "source_quote": "We built this; he inherited it.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Broken Blades",
+    "fact": "The Broken Blades are a mercenary force recruited by the Obsidian Edge, now deployed without authorization by Hartsch in a reckless attack that may have doomed them.",
+    "source_quote": "The men we'd recruited. The men whose lives were now sitting in the hands of a panicking quartermaster.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Greater Temple",
+    "fact": "The Greater Temple is the sealed, central authority of the war, inhabited by the Wraith and the voice behind the door, representing the true power structure that waits for the battle to conclude before revealing itself.",
+    "source_quote": "The Greater Temple is the deep temple. It's the people who are really in charge.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Air Temple",
+    "fact": "The Air Temple is the weakest of the four temples, lightly guarded and already looted, now targeted as the first offensive objective by the Obsidian Edge.",
+    "source_quote": "The weakest is the Air Temple.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Water Temple",
+    "fact": "The Water Temple is the strongest faction, heavily defended and currently holding its ground, with minimal losses, making it a dangerous target for direct assault.",
+    "source_quote": "The strongest is the Water Temple.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Fire Temple",
+    "fact": "The Fire Temple attempted and failed to force entry into the Greater Temple, and now exists in a state of diminished strength, caught between the other factions.",
+    "source_quote": "The Fire Temple had tried to force an entry and failed, or stopped, or been stopped.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sealing of the Greater Temple",
+    "fact": "The Greater Temple sealed all lesser temples to isolate the war, trapping all combatants inside until the battle concludes, as dictated by the unseen authority behind the door.",
+    "source_quote": "The Greater Temple is sealed until the battle is over. No one gets in, no one gets out.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Hartsch's Impulsive Attack",
+    "fact": "Hartsch, unable to cope with leadership pressure, secretly ordered the Broken Blades to attack without consultation, abandoning his post and triggering potential catastrophe.",
+    "source_quote": "I couldn't wait! I sent the Broken Blades to attack!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Raising of the Specters",
+    "fact": "The Wraith used the corpses of fallen soldiers \u2014 many killed by the party \u2014 to raise seven specters, transforming himself from a passive feeder into an active force with minions.",
+    "source_quote": "I now have minions.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Identity of the Greater Temple's Authority",
+    "fact": "The true rulers of the Greater Temple remain hidden behind the door, offering only the condition of survival as a path to meeting them \u2014 suggesting a higher power controlling the war\u2019s outcome.",
+    "source_quote": "Survive the fight, and maybe you'll get a chance.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Fate of the Broken Blades",
+    "fact": "The fate of the Broken Blades is unknown after Hartsch\u2019s unauthorized attack \u2014 they may be dead, captured, or have turned the tide, but their loss will fracture trust in leadership.",
+    "source_quote": "The men whose lives were now sitting in the hands of a panicking quartermaster.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Sequoia's Moral Reflection",
+    "fact": "Sequoia recognizes his own past actions in Hartsch\u2019s note, forcing him to confront whether he is any different from the man who abandoned command.",
+    "source_quote": "I've decided, on my own, in the dark, that I knew better than the people standing next to me.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Wraith's Loyalty",
+    "fact": "The Wraith, though currently aligned with the party through gratitude, may turn against them once his power grows, or once he no longer needs their corpses to sustain his army.",
+    "source_quote": "I can't wait till you come back here! I will be waiting!",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "After the war began",
+    "fact": "The events described occurred after the war\u2019s initiation, during its prolonged stalemate, and before the Greater Temple\u2019s authority reveals itself.",
+    "source_quote": "The wraith had been alone in this corridor for weeks, feasting on whatever the war left behind.",
+    "quote_verified": false
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 22nd day of Planting, 579.",
+    "source_quote": "Planting 22, 579",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 23rd day of Planting, 579.",
+    "source_quote": "Planting 23, 579",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
+    "source_quote": "four chasme and two vrock",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "Sloobludop is approximately eight days away via the Darklake.",
+    "source_quote": "the town of Sloopdopblop is just eight days away",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
+    "source_quote": "Drow outpost was 100' in the sky",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "animated broccoli pursuit",
+    "fact": "A broccoli, animated and moving with unnatural speed, fled toward the apothecary with magical potions and stuff.",
+    "source_quote": "the broccoli was my best bet. It took off like a shot towards the apothecary, that place with all the magical potions and stuff.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "animated potato ambush",
+    "fact": "Three animated potatoes, one of which was stabbed and the others stunned, were captured and later consumed in a honey-glazed forest stew.",
+    "source_quote": "Bouncing potatoes,\u201d I shout to Seqoia and run after them. The potatoes stare at me as if taunting me. I grab one, and the other two pause as if angry. So I take my knife and stab the one in my hand. The other two potatoes are stunned.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Black Earth Cult encampment",
+    "fact": "A well-hidden encampment built into a shallow cave on a rocky outcrop in the Kron Hills, guarded by stone-studded leather armor and stone weapons, houses a temple and stolen honey barrels.",
+    "source_quote": "It\u2019s built into a shallow cave on a rocky outcrop in the Kron Hills. There is a guarded gate with makeshift stone barricades. The guardian are wearing stone-studded leather armor and carrying stone weapons. Inside the walls is a temple to some god, a weird stone statue, as well the barrels that we are looking for.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "battle site of the caravan ambush",
+    "fact": "A site littered with overturned wagons, broken barrels, and scattered honey jars, with churned ground and faintly glowing runes etched into the rocks, indicates magical combat by cultists, not bandits.",
+    "source_quote": "The site is littered with overturned wagons, broken barrels, and scattered honey jars. The ground is churned up. ... I point at faintly glowing runes etched into the rocks. Zinnia looks at me, and I nod, \u201cThis is not bandits. This must be the cultists we are looking for.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "stone golem summoning",
+    "fact": "Thalsor, a druid of the Black Earth Temple, summoned a stone golem resistant to non-magical attacks during combat, which stood despite holy damage.",
+    "source_quote": "He taps this stone thing and \u2013 bam \u2013 it comes alive. Stone Golem, they call it. Big, tough, and resistant to everything but magical attacks.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "mud men appearance",
+    "fact": "Two mud men appeared beside Calmer during combat, summoned by Thalsor\u2019s incantation, causing chaotic battlefield effects.",
+    "source_quote": "Suddenly two muddy creatures appear right beside Calmer. Mud men. Not something you see every day.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "stone storm conjuration",
+    "fact": "Thalsor conjured a hail of sharp stones during combat, forcing the party to dodge repeatedly while sustaining minor injuries.",
+    "source_quote": "He conjures up a storm of sharp stones. I manage to dodge most of it, but it still stings like hell.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Kron Hills trail",
+    "fact": "A trail leading into the Kron Hills, easily followed but nearly blocked by falling rocks suspected to be magically directed, ends at the hidden cult encampment.",
+    "source_quote": "The trail into the Kron Hills is easy to follow. Although along the way, we almost get crushed by falling rocks. I am worried that the stones were not an accident, but we find nothing.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thalsor\u2019s druidic rant",
+    "fact": "Thalsor, a druid of the Black Earth Temple, denounced the party as witless insects and proclaimed the honey as tribute to the Earth Mother, invoking sacred ground and stone wisdom.",
+    "source_quote": "You think yourselves heroes? \u2026 The very stones you trample upon are older, stronger, and far wiser than any of you could ever hope to be. \u2026 That honey now belongs to the Black Earth Temple, a tribute to her enduring might.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "cultist identification",
+    "fact": "Cultists wearing stone-studded leather armor and carrying stone weapons were identified as the perpetrators of the caravan ambush and guardians of the stolen honey.",
+    "source_quote": "The guardian are wearing stone-studded leather armor and carrying stone weapons. \u2026 I whisper, \u201cThese are the guys.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Black Earth chant revelation",
+    "fact": "Surviving guards reported that the attackers chanted \u2018Black Earth\u2019 and carried weapons of stone, linking the assault to the cult.",
+    "source_quote": "The guards who survived said that the attackers chanted \u2018Black Earth\u2019 and carried weapons of stone.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "honey theft motive",
+    "fact": "The stolen honey was claimed by the Black Earth Temple as tribute to the Earth Mother, not mere plunder.",
+    "source_quote": "That honey now belongs to the Black Earth Temple, a tribute to her enduring might.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "cultist negotiation attempt",
+    "fact": "Thalsor attempted to negotiate during combat, offering trade in exchange for the honey, but refused to surrender it.",
+    "source_quote": "Then, Thalsor he brings out something else. \u2026 Weird guy. Offers to trade, anything but giving up the honey.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "stone runes activation",
+    "fact": "Faintly glowing runes etched into the rocks at the caravan ambush site flared with ominous light during Thalsor\u2019s incantation, confirming magical cultist involvement.",
+    "source_quote": "I point at faintly glowing runes etched into the rocks. Zinnia looks at me, and I nod, \u201cThis is not bandits. This must be the cultists we are looking for.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "calmer\u2019s failed bluff",
+    "fact": "Calmer attempted to bluff the cultists by claiming to be lost, but the druid Thalsor immediately recognized them as intruders and denounced their presence.",
+    "source_quote": "Calmer tries to bluff these bandits\u2013or whatever they are\u2013about being lost, but it\u2019s backfiring something fierce. \u2026 He\u2019s not buying what Calmer\u2019s selling.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "rogue advantage in combat",
+    "fact": "The rogue gained advantage in combat due to training, allowing a flanking strike behind Sequoia during the assault on the cultists.",
+    "source_quote": "I get an advantage because of my rogue training, and I come in right behind Sequoia.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "mud man explosion effect",
+    "fact": "When the mud men were defeated, they exploded, creating area-denial effects that hindered movement and required evasion.",
+    "source_quote": "When these mud men go down, they kind of explode, make it so you can\u2019t move. I\u2019m quick enough to dodge the worst of it, but still, it\u2019s a nasty trick.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Black Earth Temple interior",
+    "fact": "The interior of the Black Earth Temple contains a weird stone statue and the stolen honey barrels, confirming its role as the cult\u2019s stronghold.",
+    "source_quote": "Inside the walls is a temple to some god, a weird stone statue, as well the barrels that we are looking for.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "cultist retreat confirmation",
+    "fact": "All surviving guards who witnessed the attack have since left the town, preventing direct interrogation.",
+    "source_quote": "they have all since left our town.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Lareth\u2019s target identification",
+    "fact": "The Black Earth Cult is identified as the target Lareth wants killed, likely due to their possession of a box he seeks.",
+    "source_quote": "This might be the clue and evidence we need. It certainly is who Lareth wants us to kill, and they might have this box that Lareth wants.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia\u2019s hidden pleasure",
+    "fact": "Zinnia, though inscrutable, revealed a momentary flash of pleasure upon learning of the cult\u2019s involvement in the honey theft.",
+    "source_quote": "I look at Zinnia, and although he is inscrutable, even his eyes reveal a momentary flash of pleasure.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Palsmarie Clee\u2019s silent presence",
+    "fact": "Palsmarie Clee, the beekeeper druid of Sheernobb, entered the Inn silently, her presence unnoticed until she coughed.",
+    "source_quote": "As I put the last bit of food in my mouth, Palsmarie Clee coughs. The beekeeper druid of Sheernobb is very quiet. Has she walked into the Inn, or was she always there?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "caravan ambush cause",
+    "fact": "The caravan ambush was not caused by bandits, but by magical cultists wielding stone weapons and chanting \u2018Black Earth,\u2019 as confirmed by surviving guards and magical residue.",
+    "source_quote": "The guards who survived said that the attackers chanted \u2018Black Earth\u2019 and carried weapons of stone. \u2026 Calmer shouts, \u201cMagic was used here, or something very big. This isn\u2019t just a bunch of brigands.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "broccoli as animated object",
+    "fact": "A broccoli, previously considered mundane, was revealed as an animated object capable of independent movement and direction toward the apothecary.",
+    "source_quote": "I figured the broccoli was my best bet. It took off like a shot towards the apothecary, that place with all the magical potions and stuff. Honestly, I wasn't quite sure what to do. Part of me thought, \"Let it go, it's just a broccoli.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "stone golem vulnerability",
+    "fact": "The stone golem summoned by Thalsor was resistant to all non-magical attacks, requiring holy or arcane damage to defeat.",
+    "source_quote": "Stone Golem, they call it. Big, tough, and resistant to everything but magical attacks.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thalsor\u2019s stone staff",
+    "fact": "Thalsor wielded a stone staff adorned with jagged crystals, which amplified his magic and caused runes on the walls to flare during his incantations.",
+    "source_quote": "his hands tightening around a stone staff adorned with jagged crystals. \u2026 the runes on the walls flare with an ominous light.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "cultist armor description",
+    "fact": "The cultists wore stone-studded leather armor and carried stone weapons, indicating ritualistic devotion to earth and stone.",
+    "source_quote": "The guardian are wearing stone-studded leather armor and carrying stone weapons.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "final battle outcome",
+    "fact": "The party engaged in a chaotic, multi-phase battle against Thalsor, his mud men, the stone golem, and cultist minions, ultimately surviving but not yet defeating the cultists.",
+    "source_quote": "Things are far from over.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "honey-glazed forest stew",
+    "fact": "A honey-glazed forest stew, consumed after the potato ambush, was described as a blessing and a satisfying meal.",
+    "source_quote": "And a few hours later, the potato is in my belly. And I feel blessed. The honey-glazed forest stew feels like a blessing indeed.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "potato consumption",
+    "fact": "One animated potato was killed, captured, and eaten in a stew, with the eater declaring it more filling than a captured rat.",
+    "source_quote": "And a few hours later, the potato is in my belly. \u2026 \u201cYou served me well, potato. And you were certainly more filling than that rat I caught in that prison.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "cultist retreat confirmation",
+    "fact": "All surviving guards who witnessed the attack have since left the town, preventing direct interrogation.",
+    "source_quote": "they have all since left our town.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Lareth\u2019s target identification",
+    "fact": "The Black Earth Cult is identified as the target Lareth wants killed, likely due to their possession of a box he seeks.",
+    "source_quote": "This might be the clue and evidence we need. It certainly is who Lareth wants us to kill, and they might have this box that Lareth wants.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia\u2019s hidden pleasure",
+    "fact": "Zinnia, though inscrutable, revealed a momentary flash of pleasure upon learning of the cult\u2019s involvement in the honey theft.",
+    "source_quote": "I look at Zinnia, and although he is inscrutable, even his eyes reveal a momentary flash of pleasure.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Palsmarie Clee\u2019s silent presence",
+    "fact": "Palsmarie Clee, the beekeeper druid of Sheernobb, entered the Inn silently, her presence unnoticed until she coughed.",
+    "source_quote": "As I put the last bit of food in my mouth, Palsmarie Clee coughs. The beekeeper druid of Sheernobb is very quiet. Has she walked into the Inn, or was she always there?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "caravan ambush cause",
+    "fact": "The caravan ambush was not caused by bandits, but by magical cultists wielding stone weapons and chanting \u2018Black Earth,\u2019 as confirmed by surviving guards and magical residue.",
+    "source_quote": "The guards who survived said that the attackers chanted \u2018Black Earth\u2019 and carried weapons of stone. \u2026 Calmer shouts, \u201cMagic was used here, or something very big. This isn\u2019t just a bunch of brigands.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "broccoli as animated object",
+    "fact": "A broccoli, previously considered mundane, was revealed as an animated object capable of independent movement and direction toward the apothecary.",
+    "source_quote": "I figured the broccoli was my best bet. It took off like a shot towards the apothecary, that place with all the magical potions and stuff. Honestly, I wasn't quite sure what to do. Part of me thought, \"Let it go, it's just a broccoli.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "stone golem vulnerability",
+    "fact": "The stone golem summoned by Thalsor was resistant to all non-magical attacks, requiring holy or arcane damage to defeat.",
+    "source_quote": "Stone Golem, they call it. Big, tough, and resistant to everything but magical attacks.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thalsor\u2019s stone staff",
+    "fact": "Thalsor wielded a stone staff adorned with jagged crystals, which amplified his magic and caused runes on the walls to flare during his incantations.",
+    "source_quote": "his hands tightening around a stone staff adorned with jagged crystals. \u2026 the runes on the walls flare with an ominous light.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "cultist armor description",
+    "fact": "The cultists wore stone-studded leather armor and carried stone weapons, indicating ritualistic devotion to earth and stone.",
+    "source_quote": "The guardian are wearing stone-studded leather armor and carrying stone weapons.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "final battle outcome",
+    "fact": "The party engaged in a chaotic, multi-phase battle against Thalsor, his mud men, the stone golem, and cultist minions, ultimately surviving but not yet defeating the cultists.",
+    "source_quote": "Things are far from over.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "honey-glazed forest stew",
+    "fact": "A honey-glazed forest stew, consumed after the potato ambush, was described as a blessing and a satisfying meal.",
+    "source_quote": "And a few hours later, the potato is in my belly. And I feel blessed. The honey-glazed forest stew feels like a blessing indeed.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "potato consumption",
+    "fact": "One animated potato was killed, captured, and eaten in a stew, with the eater declaring it more filling than a captured rat.",
+    "source_quote": "And a few hours later, the potato is in my belly. \u2026 \u201cYou served me well, potato. And you were certainly more filling than that rat I caught in that prison.\u201d",
+    "quote_verified": false
+  }
+]

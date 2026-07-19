@@ -1,0 +1,135 @@
+[
+  {
+    "type": "npc",
+    "subject": "Kelno",
+    "fact": "Kelno is a cunning, aged operative who has survived by aligning with shifting power structures. He acknowledges chaos and appetite over loyalty, and has been waiting two weeks for the player group to become the fourth temple \u2014 positioning himself as a viable partner. He controls informants, goblins, and a network of bribery, and has secretly set out a second chair in anticipation of their arrival.",
+    "source_quote": "He smiled and gave me nothing. Loyalty to the power of air, he said, the way a man swears loyalty to weather.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia is the de facto leader of the player group, known for terse communication and strategic patience. He recognizes the group\u2019s unclaimed dominance after the deaths of Hartsch and Romag, and has accepted Kelno\u2019s partnership \u2014 not out of trust, but because it serves their expanding operation. He is the one who initiates the deal and frames their rise as inevitable victory.",
+    "source_quote": "We are the victors,\" Sequoia said. And he was right, and that was the thing I'd been circling without letting myself touch.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia is perceptive and skeptical, the one who identifies the weak point in any arrangement \u2014 the place where something is already going to give. She challenges Kelno\u2019s motives and forces the group to confront the moral ambiguity of their rise, serving as the group\u2019s moral compass.",
+    "source_quote": "She was right. She has a way of finding the part of a thing that doesn't hold \u2014 the place where it was already going to give.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Four Temples",
+    "fact": "The Four Temples \u2014 Earth, Air, Water, and now the player group \u2014 are competing for dominance. The Earth Temple was the last winner of the previous competition. With Hartsch (Air) and Romag (Earth) dead, the player group has become the de facto fourth temple, claiming the chair at the top by default. Kelno, formerly aligned with Air, now seeks to transfer his allegiance to the group.",
+    "source_quote": "We let Hartsch get killed. We let Romag get killed. We had a cleric pretending to be an earth cultist, which made us the fourth group, which meant the chair at the top was already ours \u2014 we just hadn't sat down.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Kelno\u2019s Network",
+    "fact": "Kelno\u2019s network includes goblins, informants, bribery channels, and a ledger of payments to a dozen names. He controls access to the Water Temple and maintains a hidden surveillance apparatus. He has been preparing for the player group\u2019s arrival for two weeks, setting out a second chair and waiting for them to claim their place.",
+    "source_quote": "A ledger. Payments out to a dozen names. And a little note that said *set out the second chair* \u2014 two weeks old.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Assassination of Hartsch",
+    "fact": "Hartsch, head of the Air Temple, was assassinated by agents who entered through the north service hall. The attack was planned but not executed by Kelno \u2014 he received a warning note from the enemy instructing them to leave the player group alive. This event triggered the power vacuum the group now occupies.",
+    "source_quote": "Assassins had reached Hartsch's antechamber an hour ago. By tonight our puppet would be meat.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Death of Romag",
+    "fact": "Romag, the former head of the Earth Temple, was killed, likely by the player group\u2019s actions or inactions. His death, combined with Hartsch\u2019s, left the Earth Temple unclaimed \u2014 allowing the group to insert a cleric posing as an earth cultist and claim legitimacy as the fourth temple.",
+    "source_quote": "We let Romag get killed.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Civil War Initiation",
+    "fact": "The player group has unintentionally initiated a civil war among the temples by eliminating key leaders and inserting themselves as the fourth power. Kelno confirms they are now the victors by default. The group has no prior knowledge of the rules \u2014 but now understands that the winner of the conflict will lead the lesser temples.",
+    "source_quote": "He asked if anyone had explained what starting a civil war actually meant. They hadn't. I hadn't known there were rules.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Water Temple",
+    "fact": "The Water Temple is lightly guarded at present, making it the ideal target for the group\u2019s next move. Kelno has directed the group to strike there, and the group has agreed to secure it without killing him \u2014 using his knowledge and network to consolidate control.",
+    "source_quote": "He pointed us toward the Water Temple \u2014 lightly guarded now, he observed, as good a time as any to strike.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Upper Temple",
+    "fact": "The Upper Temple is the seat of ultimate authority among the four temples. Whoever stands atop it after a conflict becomes the new partner of the Greater Temple. The group now occupies this position by default, though they have not yet formally claimed it.",
+    "source_quote": "Whoever's on top leads the lesser temples.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "The Second Chair",
+    "fact": "A chair placed two weeks ago by Kelno, left empty and waiting. It symbolizes his anticipation of the player group\u2019s arrival as the fourth temple. Its presence confirms he has been planning for their rise since Romag\u2019s death. Now occupied by the group, it marks their formal entry into the power structure.",
+    "source_quote": "He'd put the chair out two weeks ago and sat across from it, waiting for us.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "The Obsidian Edge Note",
+    "fact": "A warning note left by the enemy of Kelno, instructing assassins to withdraw from the steam corridors and avoid engaging the player group. It confirms that even those trying to kill Kelno\u2019s puppet were ordered to spare the group \u2014 suggesting the group has become a feared, untouchable force.",
+    "source_quote": "*If the obsidian edge appear in your hall, withdraw to the steam corridors. Do not engage. They are not to be killed.*",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Nature of Power",
+    "fact": "The group has begun to realize that power here is not about loyalty or ideology \u2014 but appetite, timing, and the willingness to exploit chaos. Kelno\u2019s honesty \u2014 'I am for chaos, but I'm also for living' \u2014 becomes the new standard. The group now operates not as rebels, but as the inevitable victors.",
+    "source_quote": "*There it is.* That was the genuine article. Not loyalty \u2014 appetite, the clean honest hunger of a man who only wants to wake up tomorrow.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Unclaimed Throne",
+    "fact": "The group has occupied the position of the fourth temple without realizing it. The throne was theirs the moment Hartsch and Romag died. The realization that they are the victors \u2014 not because they won a battle, but because others died \u2014 changes their entire approach to governance and control.",
+    "source_quote": "We just hadn't sat down. *This is starting to be a very lucrative operation.*",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Two Weeks Ago",
+    "fact": "Two weeks ago, Kelno set out the second chair and began preparing for the player group\u2019s arrival. This marks the moment he recognized their potential as a wild card after Romag\u2019s death, and decided to align with them for survival.",
+    "source_quote": "A little note that said *set out the second chair* \u2014 two weeks old.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Kelno\u2019s Goblins",
+    "fact": "Kelno\u2019s goblins are his primary enforcers and scouts, part of his bribery and surveillance network. They are now being offered to the player group as part of the partnership \u2014 their loyalty shifting from Kelno to the group as the new power.",
+    "source_quote": "His goblins, mine. His informants, mine. The throne, mine.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "The Assassins",
+    "fact": "Assassins hired to kill Hartsch were instructed to avoid the player group, indicating the group has become a recognized, untouchable force even among enemies. Their presence confirms the scale of the power struggle and the group\u2019s unintended status as a wildcard.",
+    "source_quote": "Even the man trying to murder our puppet had given orders to leave us breathing.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Dren",
+    "fact": "Dren is a subordinate who has already completed the task the group requested \u2014 descending the corridor while they ascended, proving he understands their timing and authority. He views Kelno as a nuisance, reinforcing the group\u2019s rising dominance.",
+    "source_quote": "Oh my god,\" he said, \"that guy whines a lot.\" A pause. \"He won't shut up.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a figure of safety \u2014 possibly a prisoner, ally, or asset \u2014 who remains upstairs, unharmed. His presence suggests the group has secured key personnel, and his safety is a sign of their growing control over the environment.",
+    "source_quote": "Calmer was upstairs. Safe. Or as safe as anything in here.",
+    "quote_verified": true
+  }
+]

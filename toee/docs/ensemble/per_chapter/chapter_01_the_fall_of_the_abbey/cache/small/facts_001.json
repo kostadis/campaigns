@@ -1,0 +1,142 @@
+[
+  {
+    "type": "npc",
+    "subject": "Jijohn the Tinkerer",
+    "fact": "Jijohn the Tinkerer is an eccentric, wizened gnome who offered cryptic warnings about the organized forces backing the bandits, recounted the crushing of the Temple of Elemental Evil ten years prior, and advised the party to seek out Burne and Rufus upon reaching Hommlet.",
+    "source_quote": "The gnome offered cryptic warnings about the organized forces backing the bandits, recounted the crushing of the Temple of Elemental Evil ten years prior, and advised the party to seek out Burne and Rufus upon reaching Hommlet.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Urot the Orc Cook",
+    "fact": "Urot the Orc Cook is a terrified bandit who confessed that the bandit leader, Snej (referred to as 'Snige'), was no mere outlaw, but an operative receiving resources from a 'big shot' within the Temple of Evil: Canon Belsornig.",
+    "source_quote": "Amidst the carnage in the kitchen, the party cornered the orc cook, Urot. Terrified by the party's ruthless efficiency, she confessed that the bandit leader, Snej (referred to as 'Snige'), was no mere outlaw, but an operative receiving resources from a 'big shot' within the Temple of Evil: Canon Belsornig.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Airgid the Silver Dragon",
+    "fact": "Airgid is a captive baby silver dragon, chained to a statue in the ruined chapel, who explained her mother was in the Lortmil Mountains and agreed to be escorted to Hommlet to plan a reunion.",
+    "source_quote": "In the ruined chapel of the Abbey, amidst defaced frescos of the god Allitur, the party discovered a captive baby silver dragon named Airgid. Chained to a statue, the ravenous hatchling explained her mother was in the Lortmil Mountains. The party agreed to escort her to Hommlet to plan a reunion.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Snej (Snige)",
+    "fact": "Snej (referred to as 'Snige') is the bandit leader who is not a mere outlaw but an operative receiving resources from Canon Belsornig within the Temple of Evil.",
+    "source_quote": "Urot confessed that the bandit leader, Snej (referred to as 'Snige'), was no mere outlaw, but an operative receiving resources from a 'big shot' within the Temple of Evil: Canon Belsornig.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Canon Belsornig",
+    "fact": "Canon Belsornig is a high-ranking figure within the Temple of Evil who is providing resources to the bandit leader Snej.",
+    "source_quote": "Urot confessed that the bandit leader, Snej (referred to as 'Snige'), was no mere outlaw, but an operative receiving resources from a 'big shot' within the Temple of Evil: Canon Belsornig.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is one of the rogues who executed a flawless, stealth-based assault on the lower levels of the Abbey of Allitur alongside Sequoia and Zinia.",
+    "source_quote": "The rogues (Zephyr and Sequoia) and the masked monk (Zinia) executed a flawless, stealth-based assault on the lower levels, slaughtering the unsuspecting bandits in a flurry of sneak attacks before the alarm could be raised.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia is one of the rogues who executed a flawless, stealth-based assault on the lower levels of the Abbey of Allitur alongside Zephyr and Zinia.",
+    "source_quote": "The rogues (Zephyr and Sequoia) and the masked monk (Zinia) executed a flawless, stealth-based assault on the lower levels, slaughtering the unsuspecting bandits in a flurry of sneak attacks before the alarm could be raised.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia is the masked monk who executed a flawless, stealth-based assault on the lower levels of the Abbey of Allitur alongside Zephyr and Sequoia.",
+    "source_quote": "The rogues (Zephyr and Sequoia) and the masked monk (Zinia) executed a flawless, stealth-based assault on the lower levels, slaughtering the unsuspecting bandits in a flurry of sneak attacks before the alarm could be raised.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "giant spider",
+    "fact": "A giant spider lurked in the collapsed roof of a guest room and was dispatched by the party in mere seconds, securing the area for a brief rest.",
+    "source_quote": "The party dispatched a giant spider lurking in the collapsed roof of a guest room in mere seconds, securing the area for a brief rest.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "ogre",
+    "fact": "A massive ogre demanding payment for safe passage blocked the caravan's path; the party bypassed the 59-hit-point brute using copper bribes and intimidation without engaging in melee.",
+    "source_quote": "Deep in the forest, the caravan's path was blocked by a massive ogre demanding payment for safe passage. Rather than engaging the 59-hit-point brute in a draining melee, the party successfully bypassed the threat through a combination of copper bribes and intimidation.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Abbey of Allitur",
+    "fact": "The Abbey of Allitur is the ruined bandit stronghold located in the Gnarley Forest, where the party executed a stealth assault on its lower levels and uncovered key secrets.",
+    "source_quote": "Leaving the caravan to strike at the root of the threat, the party located the bandit stronghold\u2014the ruined Abbey of Allitur.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "ruined chapel",
+    "fact": "The ruined chapel of the Abbey of Allitur contains defaced frescos of the god Allitur and is where the captive baby silver dragon Airgid was discovered chained to a statue.",
+    "source_quote": "In the ruined chapel of the Abbey, amidst defaced frescos of the god Allitur, the party discovered a captive baby silver dragon named Airgid.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "dust of disappearance",
+    "fact": "The party liberated a vial of dust of disappearance from the bandits' hidden cache.",
+    "source_quote": "Raiding the bandits' hidden cache, the party liberated a substantial hoard of treasure, claiming 123 gold pieces, *dust of disappearance*, and a *bag of holding* to add to their growing arsenal.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "bag of holding",
+    "fact": "The party liberated a bag of holding from the bandits' hidden cache.",
+    "source_quote": "Raiding the bandits' hidden cache, the party liberated a substantial hoard of treasure, claiming 123 gold pieces, *dust of disappearance*, and a *bag of holding* to add to their growing arsenal.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Temple of Evil",
+    "fact": "The Temple of Evil is an organization that is supplying resources to the bandit leader Snej through its operative, Canon Belsornig.",
+    "source_quote": "Urot confessed that the bandit leader, Snej (referred to as 'Snige'), was no mere outlaw, but an operative receiving resources from a 'big shot' within the Temple of Evil: Canon Belsornig.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "stealth assault on Abbey of Allitur",
+    "fact": "The party executed a flawless, stealth-based assault on the lower levels of the Abbey of Allitur, slaughtering unsuspecting bandits in a flurry of sneak attacks before the alarm could be raised.",
+    "source_quote": "The rogues (Zephyr and Sequoia) and the masked monk (Zinia) executed a flawless, stealth-based assault on the lower levels, slaughtering the unsuspecting bandits in a flurry of sneak attacks before the alarm could be raised.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "liberation of bandit hoard",
+    "fact": "The party raided the bandits' hidden cache and liberated 123 gold pieces, dust of disappearance, and a bag of holding.",
+    "source_quote": "Raiding the bandits' hidden cache, the party liberated a substantial hoard of treasure, claiming 123 gold pieces, *dust of disappearance*, and a *bag of holding* to add to their growing arsenal.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "dispatch of giant spider",
+    "fact": "The party swiftly dispatched a giant spider lurking in the collapsed roof of a guest room, securing the area for a brief rest.",
+    "source_quote": "The party dispatched a giant spider lurking in the collapsed roof of a guest room in mere seconds, securing the area for a brief rest.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "reunion with silver dragon's mother",
+    "fact": "The party agreed to escort Airgid, the baby silver dragon, to Hommlet to plan a reunion with her mother, who is located in the Lortmil Mountains.",
+    "source_quote": "The party agreed to escort her to Hommlet to plan a reunion.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "ten years prior",
+    "fact": "The crushing of the Temple of Elemental Evil occurred ten years prior to the current events.",
+    "source_quote": "Jijohn recounted the crushing of the Temple of Elemental Evil ten years prior.",
+    "quote_verified": false
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a cleric and party member who wields a mace of smiting and uses Sacred Flame in battle, providing crucial healing during combat by restoring nineteen and twenty-three hit points to party members. He expresses discomfort and weariness with Zephyr's decisions and is deeply troubled by Romag's planned ritual involving prisoners.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "Romag is the leader of the Earth Temple who sits in his office looking very pleased with the party's territorial expansion. He delivers passionate tirades about the power of the earth crushing everything to dust. He operates on a system where the party brings treasure to the temple and pays him a portion rather than being paid directly. He proposes a loyalty ritual involving prisoners where bodies will be ripped apart, and instructs Harch to prepare for this ceremony.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Harch",
+    "fact": "Harch is an individual instructed by Romag to prepare prisoners for a loyalty ritual ceremony.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is a party member who uses a pistol treated as an improved crossbow (dealing 1d10 damage) and a dagger for close-quarters attacks. He shot the pistol into the air to scare a harpy, struck a fleeing harpy with a dagger for six points of damage, and suggests resuscitating Calmer if he dies during the ritual.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Ghasts",
+    "fact": "Two territorial undead creatures encountered in an antechamber with obscene paintings. They claim to have seized the territory from a human or elf, demonstrating this by crunching on a gnawed bone. They feign allegiance to the Earth Temple when confronted by the party, though an insight check reveals they are merely playing along for their own benefit.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Harpies",
+    "fact": "Winged creatures that use enchanting songs to charm adventurers. They position themselves thirty-four feet up in the air and attack with claws. When their plans are thwarted, they become furious and swoop down to attack party members.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Ghouls",
+    "fact": "Undead creatures that attack with claws and bites, possessing the ability to paralyze their targets with a DC 10 constitution save. They have an armor class of twelve. Three initially emerged from a southern door, and four more later entered from the north. One ghoul initially focused on eating a dead harpy before joining combat.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Harpy Hall",
+    "fact": "A large chamber with high ceilings and rafters thirty-four feet up, where the party fought harpies and ghouls. The harpies positioned themselves in the air to sing their charming songs.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Southern Room (Harpy Nesting Area)",
+    "fact": "A foul-smelling room reeking of carrion and filth, with bones littering the floor and heaps of old cloth along the walls indicating where harpies once nested. Old garments hang from pegs on the wall, and elven chain mail was discovered here.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Abandoned Room with Broken Chest",
+    "fact": "A noisome place littered with rags and bones, featuring a broken chest in the northwest corner that contained treasure. A door to the west is located near the west corner.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Antechamber of a Minor Functionary",
+    "fact": "An inner room with plastered walls covered in obscene paintings, containing the remains of upholstered furnishings including a couch and four chairs. Battered pewter dishes are heaped upon a small table. This is where the party encountered two ghasts who claimed the territory as their own.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Romag's Office",
+    "fact": "The place where Romag conducts his business for the Earth Temple. The party reports their progress here and discusses their future within the temple hierarchy.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Mace of Smiting",
+    "fact": "A powerful magical mace wielded by Calmer, used effectively to strike at flying harpies as they attempt to escape. Calmer landed a critical hit with it, dealing ten points of damage to a harpy, and also dealt nine points of damage on another strike.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Pistol",
+    "fact": "A ranged weapon used by Zephyr, treated as an improved crossbow that deals 1d10 worth of damage rather than 1d6 points of damage. Zephyr used it to attack ghouls and shot it into the air to scare a harpy.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Dagger",
+    "fact": "A melee weapon used by Zephyr for close-quarters attacks and as a reaction weapon. He used it to strike a fleeing harpy, dealing six points of damage.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Elven Chain Mail",
+    "fact": "Elven chain mail was discovered in the Southern Room (Harpy Nesting Area), hanging from pegs on the wall among old garments.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "contingency plan for prisoners",
+    "fact": "The DM reminds the party that they freed the prisoners earlier and asks if they made a contingency plan. The party confirms they planned to blame the Fire Temple for the missing prisoners.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "ritual preparation",
+    "fact": "Romag instructs Harch to prepare prisoners for a loyalty ritual ceremony, expects the party to be active participants, and postpones the ceremony until tomorrow, instructing the party to rest.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "territorial claim verification",
+    "fact": "Romag confirms that the party dealt with the ghasts, ghouls, and harpies that had refused to bow down to him, and that they have expanded their territory to the southwest, seeking an official stamp.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "payment structure clarification",
+    "fact": "Romag explains that the party is expected to bring treasure to the temple and pay him a portion, not the other way around, and that they must demonstrate loyalty before receiving titles or ranks.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "ritual description",
+    "fact": "Romag describes the ritual as an Earth Temple ceremony where they will rip the prisoners' bodies apart, and that prisoners will be used for the ritual instead of party members.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Calmer's moral dilemma",
+    "fact": "Calmer expresses discomfort to Zephyr, Sequioa, and Zinnia, looks at the other party members feeling nauseous, and asks if they are really going to go through with the ritual.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Zephyr and Calmer's conflict",
+    "fact": "Calmer pulls Zephyr aside and expresses that he is getting tired of the situation and reminds Zephyr that he also has an opinion. Zephyr suggests that if Calmer dies, they would resuscitate him.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Romag's intervention on violence",
+    "fact": "Romag overhears Zephyr and Calmer's exchange and clarifies that party members are too valuable to be killed, and that prisoners will be used for the ritual instead.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Earth Temple hierarchy advancement",
+    "fact": "The party expresses a desire for more power, official titles, and higher ranks within the Earth Temple. Romag considers the idea and agrees, but states they need to see an act of loyalty first.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "ceremony preparation",
+    "fact": "Romag instructs Harch to prepare a ceremony for the loyalty ritual and later instructs him to prepare the prisoners for the ritual.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "blame shift to Fire Temple",
+    "fact": "The party confirms they planned to blame the Fire Temple for the missing prisoners after freeing them.",
+    "quote_verified": false
+  }
+]

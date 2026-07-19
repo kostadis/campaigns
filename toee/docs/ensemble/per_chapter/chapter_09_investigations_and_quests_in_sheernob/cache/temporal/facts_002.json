@@ -1,0 +1,177 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 30th of this month.",
+    "source_quote": "on the 30th of this month",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "dining experience",
+    "fact": "You will dine the likes of which you have never dined.",
+    "source_quote": "Tomorrow, you will dine the likes of which you have never dined",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "barrels inquiry",
+    "fact": "Did you find my barrels?",
+    "source_quote": "Did you find my barrels?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "response to inquiry",
+    "fact": "No.",
+    "source_quote": "Zinnia looks at him and says, \"No.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "response to request",
+    "fact": "Yes.",
+    "source_quote": "Will you? Yes.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "barrels stolen location",
+    "fact": "Glennon shows Zinnia where the barrels were stolen.",
+    "source_quote": "Glennon shows Zinnia where the barrels were stolen.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "footprints observation",
+    "fact": "What appears to be footprints.",
+    "source_quote": "Zinnia looks at the footprints, or what appears to be footprints",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "trail assessment",
+    "fact": "Easy trail.",
+    "source_quote": "mutters, \"Easy trail.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "glade location",
+    "fact": "Zinnia is again in a glade in the forest an hour or so later.",
+    "source_quote": "Zinnia is again in a glade in the forest an hour or so later",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "dryad description",
+    "fact": "A solitary tree is in the middle of the tall grass. Near the tree is a strange creature. It is a humanoid, with branches extruding from its arms and leaves growing on its head.",
+    "source_quote": "a solitary tree is in the middle of the tall grass. Near the tree is a strange creature. It is a humanoid, with branches extruding from its arms and leaves growing on its head.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "dryad emotional state",
+    "fact": "The beast looks sad as it stares at a barrel.",
+    "source_quote": "The beast looks sad as it stares at a barrel.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "dryad realization",
+    "fact": "Zinnia approaches the creature and realizes it\u2019s crying.",
+    "source_quote": "Zinnia approaches the creature and realizes it\u2019s crying.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "dryad lament",
+    "fact": "She doesn\u2019t love me!",
+    "source_quote": "She doesn\u2019t love me!",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "directive to Zephyr",
+    "fact": "This is more your line of work.",
+    "source_quote": "He turns to Zephyr, \"This is more your line of work.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "dryad self-identification",
+    "fact": "The creature explains that it is a dryad, and its beloved doesn\u2019t think they are their beloved.",
+    "source_quote": "The creature explains that it is a dryad, and its beloved doesn\u2019t think they are their beloved.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "dryad sobbing",
+    "fact": "And then the creature sobs.",
+    "source_quote": "And then the creature sobs.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "weapon readiness",
+    "fact": "Zinnia readies his weapons, but Zephyr urges him to stop.",
+    "source_quote": "Zinnia readies his weapons, but Zephyr urges him to stop.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "tiefling identity question",
+    "fact": "You\u2019re a tiefling?",
+    "source_quote": "You\u2019re a tiefling?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "tiefling response",
+    "fact": "Yes.",
+    "source_quote": "Yes.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "abyss accusation",
+    "fact": "Come from the abyss to torment me? Or am I finally in the abyss of my despair?",
+    "source_quote": "Come from the abyss to torment me? Or am I finally in the abyss of my despair?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr's teeth gritting",
+    "fact": "Zinnia notices how Zephyr grits his teeth.",
+    "source_quote": "Zinnia notices how Zephyr grits his teeth",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "moral judgment on theft",
+    "fact": "No, but you really should not steal.",
+    "source_quote": "No, but you really should not steal.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "justification for theft",
+    "fact": "But I was told when humans are dumped, they drink.",
+    "source_quote": "But I was told when humans are dumped, they drink.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "barrel ownership clarification",
+    "fact": "Zephyr explains that the barrel wasn\u2019t his for the taking, that drinking the barrel requires opening it up and drinking from it, and that stealing is wrong.",
+    "source_quote": "Zephyr explains that the barrel wasn\u2019t his for the taking, that drinking the barrel requires opening it up and drinking from it, and that stealing is wrong.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "dryad moral realization",
+    "fact": "Well, I didn\u2019t want to steal. I was just so upset.",
+    "source_quote": "Zinnia watches as the Dryad contemplates what Zephyr said and declares, \"Well, I didn\u2019t want to steal. I was just so upset.\"",
+    "quote_verified": false
+  }
+]

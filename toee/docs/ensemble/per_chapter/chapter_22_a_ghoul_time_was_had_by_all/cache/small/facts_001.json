@@ -1,0 +1,116 @@
+[
+  {
+    "type": "npc",
+    "subject": "Sequioa",
+    "fact": "Sequioa is a member of the party who opened doors, engaged undead, and wielded weapons during battles in the Earth Temple. They wounded the giant snake and ghouls, and survived multiple attacks.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia is a member of the party who observed interactions with undead, deduced alliances, and delivered precise combat strikes. They killed the giant snake and multiple ghouls, and survived attacks.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is a member of the party trained as an assassin who engaged ghouls, charged into traps, and was overwhelmed and dragged unconscious by a swarm of ghouls before being healed by Calmer.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a member of the party who invoked dark and divine magic against the giant snake and ghouls. They summoned spectral guardians that destroyed multiple undead and healed Zephyr from unconsciousness.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple is a former stronghold of the traitor Lieutenant Krell, now fractured and contested. Its remaining forces include bloodstained remnants, ghouls, ghasts, and undead creatures with no unified allegiance.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "ghasts",
+    "fact": "Two ghasts were encountered west of the party\u2019s quarters. They were undead creatures with hollow eyes and an unsettling hunger, questioning the party\u2019s identity and intent. They were repelled when Sequioa closed the door.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "giant snake",
+    "fact": "A large giant snake erupted from the fireplace in the abandoned kitchen. It hissed with hunger and fury, lunged at Zephyr with venomous fangs, and was killed by Zinnia after sustained attacks from the party and Calmer's magic.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "ghouls",
+    "fact": "Multiple ghouls were encountered in the great hall and adjacent chamber. They were mindless undead with no allegiance, only insatiable hunger. They attacked the party, overwhelmed Zephyr, and were destroyed by Calmer\u2019s spectral guardians and Zinnia\u2019s strikes.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Earth Temple quarters",
+    "fact": "The party\u2019s newly granted quarters within the Earth Temple were the former chambers of Lieutenant Krell. Marked by blood and battle remnants, they contained a secret door and served as their base of operations.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "abandoned kitchen",
+    "fact": "An abandoned kitchen twenty feet by thirty feet, dominated by a massive fireplace with side ovens. Littered with broken containers, dishes, trash, and skeletons\u2014including an ogre\u2019s bones. The giant snake emerged from within.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "great hall",
+    "fact": "A vast hall over a hundred feet long and thirty feet wide, once used for grand revelries. Now littered with broken tables, benches, chairs, tattered tapestries, and bones. Evidence of a major battle for control of the temple.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "short sword",
+    "fact": "A short sword was discovered among the debris in the kitchen after the giant snake was slain.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "twenty gold pieces",
+    "fact": "Twenty gold pieces were found among the debris in the kitchen after the giant snake was killed.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "battle with giant snake",
+    "fact": "The party fought a giant snake that erupted from the fireplace. Zephyr struck first, wounding it; Zinnia and Sequioa delivered further blows; Calmer\u2019s magic initially resisted but later proved effective; Zinnia delivered the killing blow.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "battle with ghouls in great hall",
+    "fact": "The party engaged multiple ghouls in the great hall. Zinnia, Sequioa, and Zephyr killed several; one ghoul fled. Calmer summoned spectral guardians that destroyed the remaining ghouls.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "ghoul trap in adjacent chamber",
+    "fact": "Zephyr opened a door into a chamber containing seven ghouls. He killed the fleeing ghoul but was overwhelmed and dragged unconscious. The ghouls attacked Zinnia and Sequioa. Calmer healed Zephyr and used spectral guardians to destroy the remaining ghouls.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "fate of Lieutenant Krell",
+    "fact": "Lieutenant Krell, the traitor who once commanded the Earth Temple, is confirmed dead. The party\u2019s mission includes reporting his death to agents in Nulb, though they chose to explore the dungeon first.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "nature of the temple's factions",
+    "fact": "The Earth Temple\u2019s remaining forces are fractured. Ghasts and ghouls show no allegiance to any organized faction, suggesting internal collapse and a power vacuum.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occurred during the party\u2019s current expedition into the Earth Temple, following their awakening in newly granted quarters and preceding any return to Nulb.",
+    "quote_verified": false
+  }
+]

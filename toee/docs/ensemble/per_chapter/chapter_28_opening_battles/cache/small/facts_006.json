@@ -1,0 +1,65 @@
+[
+  {
+    "type": "npc",
+    "subject": "Hartsch",
+    "fact": "Hartsch is currently demanding the assembled Obsidian Edge be brought upstairs immediately, as per the urgent summons from the war council, and is regarded as useful enough to require maintenance.",
+    "source_quote": "Hartsch wanted his Obsidian Edge assembled, upstairs, immediately. War council. The summons had the texture of *now*.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is calmly receiving the runner\u2019s directions, filing them away with other planned obligations, and is choosing to act unhurriedly as a man who goes where he chooses, despite being entangled in obligations tied to Hartsch.",
+    "source_quote": "Zephyr looked at the runner, then at the corridor beyond him, then at nothing in particular. He filed the directions away... He let the runner see him receiving the message calmly. Unhurried.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "The Deep Temple",
+    "fact": "The Deep Temple is an enduring organization that is not going anywhere, and is referenced as a fixed point against which obligations and movements are measured.",
+    "source_quote": "The Deep Temple wasn't going anywhere. Presumably.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Alliance",
+    "fact": "The alliance with Hartsch is real and operational, maintained through mutual utility and a literal leash of control, with Hartsch's whistle triggering the Obsidian Edge\u2019s movement.",
+    "source_quote": "The alliance was real. The leash attached to it was also real. Because Hartsch whistled and the Obsidian Edge came running, because that was the arrangement they had made.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "The Obsidian Edge",
+    "fact": "The Obsidian Edge is a summoned or controlled artifact that responds to Hartsch\u2019s whistle, implying it is bound by an arrangement that makes it act as an extension of his will.",
+    "source_quote": "Because Hartsch whistled and the Obsidian Edge came running, because that was the arrangement they had made.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "The Rhennee debt",
+    "fact": "The Rhennee debt is a recorded obligation that Zephyr keeps mentally cataloged alongside other debts, favors, and schedules as part of his personal accounting.",
+    "source_quote": "He filed the directions away in the same place he kept everything he planned to collect later: the Rhennee debt, Captain Tolub's ship schedule, the exact weight of every favor he was owed.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Captain Tolub's ship schedule",
+    "fact": "Captain Tolub's ship schedule is a tracked logistical detail that Zephyr maintains in his mental ledger of obligations and future actions.",
+    "source_quote": "He filed the directions away in the same place he kept everything he planned to collect later: the Rhennee debt, Captain Tolub's ship schedule, the exact weight of every favor he was owed.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "This again",
+    "fact": "The recurring indignity of being treated as someone else\u2019s asset while trying to build personal autonomy is a persistent, unspoken emotional thread that haunts Zephyr\u2019s experience.",
+    "source_quote": "*This again.* Not prejudice this time. Something else. The particular indignity of being someone else's asset while you were trying to build your own balance sheet.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The door",
+    "fact": "The door\u2019s location is mentally anchored in Zephyr\u2019s awareness as a point of potential movement or transition, symbolizing unspent agency or future action.",
+    "source_quote": "The door's location sat behind his eyes like money he hadn't spent yet.",
+    "quote_verified": true
+  }
+]

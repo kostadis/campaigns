@@ -1,0 +1,254 @@
+[
+  {
+    "type": "npc",
+    "subject": "Gremag",
+    "fact": "Gremag is deceased, killed in battle; identified as an agent of the Deep Temple.",
+    "source_quote": "The Duke immediately identified Gremag and Rannos as agents of the Deep Temple.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia successfully stabilized after a death save, rolling a 16; currently recovering from wounds.",
+    "source_quote": "Zinnia successfully stabilized, rolling a 16 on her save, securing her survival.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Rannos",
+    "fact": "Rannos is deceased, killed by Calmer's Spiritual Weapon; identified as an agent of the Deep Temple.",
+    "source_quote": "Calmer ... struck the killing blow ... dispatching Rannos (who was down to 2 hit points).",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr attempted to finish off Rannos but did not land the killing blow; later exposed Elmo's deception.",
+    "source_quote": "Zephyr decided to expose Elmo's subterfuge.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer delivered the killing blow against Rannos using Spiritual Weapon; cast Cure Light Wounds on Zinnia for 24 points; involved in framing the scene.",
+    "source_quote": "Calmer ... struck the killing blow ... cast Cure Light Wounds, healing her for 24 points.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorne (the Duke)",
+    "fact": "Thorne, known as the Duke, is a captured mercenary who revealed his cleaning skills and offered services on retainer; confirmed his cynical, money-driven nature and lack of loyalty to the cult.",
+    "source_quote": "Thorne revealed his 'cleaning' skills and offered his services to the party on a retainer basis ... confirmed his cynical, money-driven nature and his lack of loyalty to the cult.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Elmo",
+    "fact": "Elmo is a town committee member feigning drunkenness; revealed as an agent of Verbobonc; tasked the party with investigating the Moathouse.",
+    "source_quote": "Zinnia's high Insight roll ... confirmed ... Elmo was feigning inebriation and working for Verbobonc.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Verbobonc",
+    "fact": "Verbobonc is a political authority figure who uses Elmo as an agent; cannot send troops without risking conflict with the gnomes of the Kron Hills.",
+    "source_quote": "Elmo confirmed he was an agent for Verbobonc ... Verbobonc could not send troops without risking conflict with the gnomes of the Kron Hills.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Ostler Goodingoat",
+    "fact": "Ostler Goodingoat is the tavern keeper at the Inn of the Welcome Wench; questioned the party about the merchants' departure and was successfully bluffed.",
+    "source_quote": "The tavern keeper, Ostler Goodingoat, questioned the party ... and they successfully bluffed him.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Lareth the Beautiful",
+    "fact": "Lareth the Beautiful is the leader of a cultist faction; suspected the party of treachery after they lied about the Deep Temple; triggered combat after being mocked.",
+    "source_quote": "Lareth ... saw through their deception, furious ... accused them of treachery ... triggered a call to arms and initiating combat.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Burne",
+    "fact": "Burne is a ranger who confirmed Elmo had sent rangers after the missing chest and urged the party to deal with the Moathouse.",
+    "source_quote": "Burne and Rufus approached the party, confirming Elmo ... had sent the rangers after the missing chest.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Rufus",
+    "fact": "Rufus is a ranger who corroborated Burne's account and urged the party to confront the Moathouse.",
+    "source_quote": "Burne and Rufus approached the party ... urged the party to deal with the Moathouse.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Deep Temple",
+    "fact": "Deep Temple is the overarching leadership of the Temple of Elemental Evil; agents Gremag and Rannos were working for it; suspected of possessing the magical chest.",
+    "source_quote": "The Duke immediately identified Gremag and Rannos as agents of the Deep Temple ... the chest had supposedly left with Rannos and Gremag.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Kron Hills gnomes",
+    "fact": "The gnomes of the Kron Hills are a political entity whose potential conflict with Verbobonc prevents him from deploying troops openly.",
+    "source_quote": "Verbobonc could not send troops without risking conflict with the gnomes of the Kron Hills.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "battle in Hommlet",
+    "fact": "A battle occurred in Hommlet resulting in the deaths of Gremag and Rannos, and the near-death of Zinnia, who stabilized.",
+    "source_quote": "The session began in the aftermath of the intense battle in Hommlet, with Gremag slain and Zinnia unconscious, requiring a death save.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "cleanup of bodies",
+    "fact": "The bodies of Gremag and Rannos were dismembered and tongues removed to prevent use of Speak with Dead; performed by Thorne.",
+    "source_quote": "He advised ... dismember the bodies and remove the tongues to prevent the use of Speak with Dead.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "framing the scene",
+    "fact": "The party fabricated a story that Rannos and Gremag left town after securing a magical chest; bloodied clothes were abandoned to simulate a struggle.",
+    "source_quote": "Zinnia and Calmer ... ride out of town to abandon them, simulating a struggle ... Zephyr and Sequoia ... spread the story that Rannos and Gremag had urgently left town after securing a magical chest.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "exposure of Elmo",
+    "fact": "Elmo's feigned drunkenness was exposed by Zinnia's Insight roll and confirmed by Zephyr; he then cooperated as an equal agent of Verbobonc.",
+    "source_quote": "Zinnia's high Insight roll ... confirmed ... Elmo was feigning ... Zephyr decided to expose ... Elmo immediately dropped the act.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Moathouse directive",
+    "fact": "Elmo instructed the party to return to the Moathouse to investigate and destroy an evil presence, fearing unknown rituals by cultists with the chest.",
+    "source_quote": "He gave the party an urgent task: return to the Moathouse immediately to 'investigate what's going on and destroy whatever evil presence is there.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "confrontation with Lareth",
+    "fact": "The party confronted Lareth the Beautiful, lied about the Deep Temple possessing the chest, were seen through, mocked, and triggered combat.",
+    "source_quote": "Lareth ... saw through their deception ... accused them of treachery ... Zephyr mocked him: 'The only person here that's backstabbing is you.' ... triggered a call to arms and initiating combat.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Hommlet",
+    "fact": "Hommlet is the location of a recent intense battle resulting in multiple deaths and the party's current mission.",
+    "source_quote": "The session began in the aftermath of the intense battle in Hommlet.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Moathouse",
+    "fact": "The Moathouse is a site of suspected evil presence; targeted for investigation and destruction by Elmo and Verbobonc.",
+    "source_quote": "Elmo ... instructed ... return to the Moathouse immediately to 'investigate what's going on and destroy whatever evil presence is there.'",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Inn of the Welcome Wench",
+    "fact": "The Inn of the Welcome Wench is the party's base of operations; where they bluffed Ostler and received the directive from Elmo.",
+    "source_quote": "The party returned to the Inn of the Welcome Wench ... Ostler Goodingoat questioned ... Zephyr and Sequoia were told to spread the story there.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple is the site where rumors of deaths reached Lareth the Beautiful.",
+    "source_quote": "Lareth ... having heard rumors of the deaths in the Earth Temple.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Kron Hills",
+    "fact": "The Kron Hills are the territory of the gnome population whose political sensitivity restricts Verbobonc\u2019s military actions.",
+    "source_quote": "Verbobonc could not send troops without risking conflict with the gnomes of the Kron Hills.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Amulet of Proof against Detection",
+    "fact": "An amulet found on the corpses; grants protection against magical detection.",
+    "source_quote": "An Amulet of Proof against Detection.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Ring of Protection +1",
+    "fact": "A ring found on the corpses; provides +1 bonus to Armor Class and saving throws.",
+    "source_quote": "A Ring of Protection +1.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Dagger of Venom",
+    "fact": "A dagger found on the corpses; likely coated with poison.",
+    "source_quote": "A Dagger of Venom.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Dust of Disappearance",
+    "fact": "Three doses of dust found on the corpses; causes the user to vanish from sight.",
+    "source_quote": "Three doses of Dust of Disappearance.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "small black scarab inscribed with TZGY",
+    "fact": "A scarab found on the corpses; inscribed with the glyphs TZGY; possibly a cult symbol or key.",
+    "source_quote": "A small black scarab inscribed with the glyphs TZGY.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "magical chest",
+    "fact": "A magical chest is rumored to have been taken by Rannos and Gremag; its contents are unknown and feared to enable dangerous rituals.",
+    "source_quote": "Elmo was dismayed that the chest had supposedly left with Rannos and Gremag ... might enact unknown rituals.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "missing chest",
+    "fact": "The magical chest's whereabouts are unknown; its potential use by cultists is a looming threat requiring investigation.",
+    "source_quote": "Elmo rushed off to contact the rangers to pursue the missing chest.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "evil presence in Moathouse",
+    "fact": "An unknown evil presence is suspected in the Moathouse; must be investigated and destroyed before rituals are completed.",
+    "source_quote": "Elmo ... instructed ... destroy whatever evil presence is there.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "infighting in Deep Temple",
+    "fact": "The party attempted to incite infighting between Lareth and the Deep Temple; outcome is unresolved and may escalate conflict.",
+    "source_quote": "The party attempted to lie ... claiming the Deep Temple had taken the chest ... strategic attempt to cause infighting.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Lareth's retaliation",
+    "fact": "Lareth has initiated combat against the party; the outcome of this confrontation is pending and may determine control of the region.",
+    "source_quote": "The session concluded just as the fight with Lareth and his guards was about to begin.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "following morning",
+    "fact": "The confrontation with Lareth occurred the morning after the events at the Inn and the Moathouse directive.",
+    "source_quote": "The following morning, Burne and Rufus approached the party.",
+    "quote_verified": false
+  }
+]

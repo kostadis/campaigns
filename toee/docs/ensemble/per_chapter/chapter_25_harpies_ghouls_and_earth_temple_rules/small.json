@@ -1,0 +1,568 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr launched attacks against a harpy that had charmed Sequioa, later fell under the harpies' charm, was struck by Zinnia to break the enchantment, was paralyzed by a ghoul, fired his pistol at a fleeing harpy, and ultimately helped kill the last harpy. He later reported the party's success to Romag and was unaware that Sequioa pocketed a larger share of the treasure.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia joined the fray against the first harpy and delivered the killing blow that freed Sequioa, remained immune to the harpies' songs, attacked her own allies to break their enchantment, fought through multiple ghouls, struck the escaping final harpy, and called upon divine flame to scorch it. She was unaware that Sequioa pocketed a larger share of the treasure.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer was charmed by the harpies' songs, was paralyzed by a ghoul but shook off the effect, struck a fleeing harpy with his mace of smiting, served as the party's primary healer, refused to open a broken chest, and later claimed the ghasts' territory as an Earth Temple holding. He was unaware that Sequioa pocketed a larger share of the treasure.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sequioa",
+    "fact": "Sequioa was charmed by the harpies' songs, fought with remarkable ferocity against ghouls, opened a broken chest to reveal treasure, distributed the coins while secretly pocketing a larger share, and delivered devastating blows that left enemies crumpled. She negotiated with the ghasts, claimed their territory under the Earth Temple, and successfully concealed her theft from Calmer, Zinnia, and Zephyr.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "Romag sat in his office pleased with the party's success, complained that undead refused to serve him since his predecessor joined the Deep Temple, delivered a passionate speech praising the Earth Temple's power, and explained that the party must bring treasure to the temple and pay him a portion \u2014 not receive payment themselves.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple claimed dominion over the harpies' lair and the ghasts' territory after the party falsely declared allegiance to it. The ghasts, though insincere, swore allegiance to the temple for survival, effectively making the area a subsidiary holding under its banner. The temple's leadership, represented by Romag, operates on a system where agents must deliver treasure and pay a portion, not receive payment.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Deep Temple",
+    "fact": "The Deep Temple is referenced as the former employer of Romag\u2019s predecessor, and its influence is blamed for the undead's refusal to serve Romag and the Earth Temple. It is implied to be a rival power structure with opposing ideological control over undead entities.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "harpy",
+    "fact": "Multiple harpies attacked the party, using enchanting songs to charm Sequioa, Calmer, and Zephyr. They swooped from rafters to attack Calmer and later fled during combat. One was killed by Zinnia, another by Calmer\u2019s mace of smiting, and the final one was brought down by Sequioa\u2019s ranged weapon after being struck by Zephyr, Zinnia, and divine flame.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "ghoul",
+    "fact": "Seven ghouls burst into the battlefield in two waves \u2014 three initially from the south, four more from the north. They attacked with claws and teeth, paralyzed Zephyr and Calmer with supernatural touch, and were systematically eliminated by the party. Sequioa delivered devastating blows, while Zinnia and Calmer cleared them with precision and healing.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "ghast",
+    "fact": "Two ghasts emerged from a newly opened door, claimed the territory as their own, and emphasized dominance by crunching a human bone. They proposed negotiation when threatened, feigned allegiance to the Earth Temple for survival, and were accepted as subordinate entities under the party's claim. Their loyalty was insincere but strategically useful.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "elven chain mail",
+    "fact": "Found hanging on the wall in the harpies' lair, the elven chain mail was valuable but left unclaimed by Calmer because he already wore superior armor. The party decided to save it for later sale.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "broken chest",
+    "fact": "Discovered in an abandoned room, the broken chest was carefully examined by Sequioa. Calmer refused to open it, but Sequioa agreed after being pressured by Zephyr. Inside lay a modest treasure of gold, platinum, silver, and copper coins, which Sequioa distributed while secretly keeping a larger share.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "harpy lair",
+    "fact": "The harpy lair consisted of multiple chambers: one reeking of death with scattered bones and old cloth, another housing a broken chest and elven chain mail, and an antechamber with obscene plaster paintings and ruined furnishings. The party explored it after the battle and claimed it as an Earth Temple holding.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "antechamber",
+    "fact": "The antechamber had plastered walls covered in obscene paintings and remnants of once-fine furnishings. It led to the door where two ghasts emerged, marking the transition from harpy territory to contested undead space.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Romag's office",
+    "fact": "Romag's office was the final destination where the party reported their success. It was here that Romag expressed satisfaction, criticized the influence of the Deep Temple, praised the Earth Temple\u2019s power, and established the payment system requiring agents to deliver treasure and pay a portion.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "battle against harpies and ghouls",
+    "fact": "The party engaged in a multi-phase battle against harpies and ghouls, marked by enchantments, paralysis, and lethal strikes. Zinnia broke charms by attacking allies, Calmer healed and smote, Sequioa delivered critical blows, and Zephyr provided ranged support. The battle ended with the last harpy killed and all ghouls eliminated.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "claiming territory under Earth Temple",
+    "fact": "The party falsely declared allegiance to the Earth Temple to the ghasts, who feigned loyalty for survival. The party accepted this arrangement, effectively claiming the ghasts' territory as a subsidiary holding under the Earth Temple's banner without bloodshed.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "treasure distribution",
+    "fact": "After opening the broken chest, Sequioa distributed the treasure among the party but secretly pocketed a larger share. Calmer, Zinnia, and Zephyr remained unaware of the theft, making it a successful act of rogue deception.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "payment system established",
+    "fact": "Romag revealed that the party would not receive payment for their services. Instead, they were required to bring treasure to the Earth Temple and pay him a portion \u2014 reversing traditional reward structures and establishing a taxing, extractive model of operation.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "ghasts' true allegiance",
+    "fact": "The ghasts' sudden allegiance to the Earth Temple was clearly insincere, suggesting they may betray the party later. Their feigned loyalty is a lingering threat and potential plot thread for future conflict.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Sequioa's hidden share",
+    "fact": "Sequioa stole a larger portion of the treasure and concealed it from the entire party. This act of deception is a potential source of future tension, especially if discovered by Calmer or Zinnia.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Deep Temple influence",
+    "fact": "Romag blames the Deep Temple for the undead's refusal to serve him. This rivalry is unexplored and may become a major narrative driver if the party encounters Deep Temple agents or artifacts in the future.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session end",
+    "fact": "The events concluded with the party returning to Romag's office after resting and recovering from battle. The timeline implies a single extended adventuring session ending in strategic territorial acquisition and financial restructuring.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "Romag agreed to advance the party within the Earth Temple hierarchy but required a demonstration of loyalty, and ultimately decided prisoners\u2014not party members\u2014would be used for the ritual, though he postponed the ceremony until the next day.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Harch",
+    "fact": "Harch was instructed by Romag to prepare a ceremony for the ritual involving the dismemberment of prisoners as an offering to the earthen god.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr nervously told Calmer to be ready to die, prompting the cleric to pull him aside out of discomfort, and later became paralyzed during combat after failing multiple Constitution saving throws against ghoul attacks.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer expressed discomfort when Zephyr told him to be ready to die, healed multiple allies during combat, used his reaction to strike fleeing harpies with his mace of smiting, and was temporarily paralyzed after a ghoul\u2019s claw attack.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sequioa",
+    "fact": "Sequioa became charmed by harpy song, was freed by Zinnia\u2019s attacks, dealt devastating damage to ghouls and harpies, and secretly pocketed extra treasure from a broken chest without Zephyr noticing.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia resisted harpy charm, attacked allies to break their enchantment, killed multiple harpies and ghouls, and delivered critical damage to turn the tide of battle despite being targeted by multiple ghouls.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple is portrayed as a hierarchy that grants titles and ranks in exchange for loyalty, and employs ritualistic sacrifices of prisoners to an earthen god, though its ghast followers appear to be performing hollow allegiance.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Fire Temple",
+    "fact": "The Fire Temple is implied to be the scapegoat for the disappearance of prisoners previously freed by the party, potentially triggering political conflict with the Earth Temple.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "harpy",
+    "fact": "Harpies charmed Sequioa, Calmer, and Zephyr with song from thirty-four feet in the air, attacked party members, and were killed or driven off by Zinnia and Calmer\u2019s mace of smiting.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "ghoul",
+    "fact": "Ghouls emerged from southern and northern doors, paralyzed Zephyr and Calmer with claw bites, dealt necrotic damage, and were systematically killed by Sequioa, Zinnia, and Calmer during escalating waves of combat.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "ritual preparation",
+    "fact": "Romag ordered the preparation of a ritual involving the dismemberment of prisoners as an offering to the earthen god, but postponed it until the next day after realizing the freed prisoners were missing.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "charming song",
+    "fact": "Two harpies sang from thirty-four feet in the air, charming Sequioa, Calmer, and Zephyr, while Zinnia resisted the effect and attacked allies to break the enchantment.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "treasure concealment",
+    "fact": "Sequioa rolled a twenty-six on Stealth to pocket extra treasure from a broken chest while Zephyr failed his Insight check, keeping a larger share for himself, Calmer, and Zinnia.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "paralysis cascade",
+    "fact": "Zephyr and Calmer were both paralyzed by ghoul attacks, disrupting party coordination until Calmer succeeded on a Constitution saving throw to recover.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "southern door",
+    "fact": "Three ghouls entered combat from the southern door, initiating the second wave of the ambush during the harpy encounter.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "northern door",
+    "fact": "Four additional ghouls entered combat from the northern door, escalating the battle and overwhelming the party with reinforcements.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "mace of smiting",
+    "fact": "Calmer used his mace of smiting to strike fleeing harpies with reactions, landing a critical hit for ten damage and dealing nine damage in another instance.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "pistol",
+    "fact": "Zephyr attempted to attack a ghoul with his pistol but missed, contributing to his vulnerability during the combat.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "missing prisoners",
+    "fact": "The prisoners previously freed by the party are now missing, likely to be blamed on the Fire Temple, potentially triggering a political crisis with the Earth Temple.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "ghast allegiance",
+    "fact": "The ghasts declared allegiance to the Earth Temple when the party claimed to serve it, but their enthusiasm suggests performative loyalty rather than genuine devotion.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "ceremony postponement",
+    "fact": "The ritual ceremony was postponed until the following day after Romag discovered the freed prisoners were missing.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "harpies",
+    "fact": "Multiple harpies were killed by the party during the confrontation; Sequioa killed three with ranged attacks, Zephyr killed one with a reaction attack, and Zinnia and Calmer contributed damage to the final harpy, which was killed by Sequioa's ranged weapon.",
+    "source_quote": "Sequioa attacks a harpy, hitting and dealing nineteen points of damage, killing it... Sequioa uses a ranged weapon to attack the harpy in the rafters, dealing ten points of damage and killing it.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "ghouls",
+    "fact": "Five ghouls were eliminated during the battle: Sequioa killed two (one with five damage, then ten), Zinnia killed one with ten damage, Zephyr killed one with two attacks totaling fourteen damage, and Calmer killed one with Sacred Flame.",
+    "source_quote": "Sequioa attacks another ghoul, hitting and dealing five points of damage... Sequioa attacks again, hitting and dealing ten points of damage, killing the ghoul... Zinnia attacks a ghoul, hitting and dealing ten points of damage, killing it... Zephyr makes a third attack, hitting and dealing seven damage, killing the ghoul... Calmer uses Sacred Flame on a ghoul, dealing nine points of damage.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sequioa",
+    "fact": "Sequioa delivered the majority of lethal damage in the battle, killing three harpies and two ghouls, and later successfully disarmed and looted a chest without detection, pocketing extra treasure and distributing it with a biased share.",
+    "source_quote": "Sequioa attacks a harpy... killing it instantly... Sequioa checks the chest for traps with a roll of twenty-eight and finds none... Sequioa opens the chest and attempts to use stealth to pocket extra treasure, rolling a twenty-six... Sequioa distributes the treasure, giving himself and Zinnia a slightly larger share than Zephyr.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr recovered from paralysis and contributed decisive damage against ghouls and harpies, using sneak attack, pistol, and reaction attacks; he failed to detect Sequioa's theft and used a pistol shot to intimidate a harpy.",
+    "source_quote": "Zephyr is no longer paralyzed and attacks a ghoul with sneak attack... Zephyr shoots his pistol into the air to scare the harpy... Zephyr uses his reaction to attack the fleeing harpy with his dagger... Zephyr fails to notice Sequioa's deception with his insight check.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia dealt consistent damage against ghouls and harpies, killing three ghouls and one harpy with attack of opportunity, and participated in the distribution of looted treasure with a slightly larger share.",
+    "source_quote": "Zinnia attacks a ghoul, hitting and dealing ten points of damage, killing it... Zinnia takes an attack of opportunity, dealing eleven points of damage... Sequioa distributes the treasure, giving himself and Zinnia a slightly larger share than Zephyr.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer used Sacred Flame to kill two ghouls and one harpy, refused to open the chest due to lack of rogue skills, and declined to wear the elven chain mail due to superior armor.",
+    "source_quote": "Calmer uses Sacred Flame on a ghoul, dealing nine points of damage... Calmer uses Sacred Flame on the harpy, dealing five points of damage... Calmer refuses to check the chest, stating he is not a rogue... The party decides to keep the elven chain mail... as Calmer already has superior armor.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "ghasts",
+    "fact": "Two ghasts were encountered in an antechamber and immediately pledged allegiance to the fictional Earth Temple after the party claimed affiliation, revealing prior territorial conquest from a human or elf.",
+    "source_quote": "The ghasts immediately declare allegiance to the Earth Temple, shouting 'Hail the Earth Temple!'... The ghasts reveal they seized the territory from a human or elf, picking up a gnawed bone to demonstrate.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Temple",
+    "fact": "The party fabricated affiliation with the Earth Temple to gain temporary control over the ghasts' territory, and the ghasts accepted the fiction without resistance, indicating willingness to cooperate under false pretenses.",
+    "source_quote": "The party claims to work for the Earth Temple... The ghasts immediately declare allegiance to the Earth Temple... An insight check reveals the ghasts are willing to go along with the fiction.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "elven chain mail",
+    "fact": "Elven chain mail was found hanging on pegs in a carrion-strewn room; it grants a bonus to armor class and allows the wearer to be considered trained with it, but was kept for potential sale rather than worn.",
+    "source_quote": "The party discovers elven chain mail hanging from pegs on the wall... The party discusses the properties of the elven chain mail, which provides a bonus to armor class and allows the wearer to be considered trained with it... The party decides to keep the elven chain mail in their inventory for potential sale.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "broken chest",
+    "fact": "A broken chest in the northwest corner of an abandoned room contained 37 gold, 7 platinum, 92 silver, and 108 copper pieces; it was opened by Sequioa after a successful trap check, and additional treasure was stealthily pocketed.",
+    "source_quote": "Sequioa checks the chest for traps with a roll of twenty-eight and finds none... Sequioa opens the chest and attempts to use stealth to pocket extra treasure, rolling a twenty-six... The chest contains thirty-seven gold pieces, seven platinum pieces, ninety-two silver pieces, and one hundred eight copper pieces.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "harpies' lair",
+    "fact": "The harpies' lair consisted of a central hall where battle occurred, followed by a carrion-strewn room with elven chain mail, and an abandoned room with a broken chest; all were explored after the confrontation.",
+    "source_quote": "The party decides to explore a door to the south of the Harpy Hall... They enter a room reeking of carrion and filth... The party proceeds to another abandoned room littered with rags and bones, containing a broken chest in the northwest corner.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "antechamber with obscene paintings",
+    "fact": "An antechamber with plastered walls covered in obscene paintings and remnants of upholstered furnishings was the site of negotiation with two ghasts, who claimed territorial ownership and were persuaded to pledge allegiance to the Earth Temple.",
+    "source_quote": "The party enters an antechamber with plastered walls covered in obscene paintings and remnants of upholstered furnishings... The party opens a door and encounters two ghasts who question their presence.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "treasure distribution",
+    "fact": "Sequioa distributed looted treasure from the broken chest, giving himself and Zinnia a slightly larger share than Zephyr, with no objection raised despite Zephyr's failed insight check.",
+    "source_quote": "Sequioa distributes the treasure, giving himself and Zinnia a slightly larger share than Zephyr.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "loyalty ritual",
+    "fact": "The party plans to report territorial gains to Romag and is expected to undergo a loyalty ritual as part of payment negotiations, though details remain unconfirmed.",
+    "source_quote": "The party returns to Romag to report their territorial gains, leading to discussions about payment and a planned loyalty ritual.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a cleric and party member who wields a mace of smiting and uses Sacred Flame in battle, providing crucial healing during combat by restoring nineteen and twenty-three hit points to party members. He expresses discomfort and weariness with Zephyr's decisions and is deeply troubled by Romag's planned ritual involving prisoners.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "Romag is the leader of the Earth Temple who sits in his office looking very pleased with the party's territorial expansion. He delivers passionate tirades about the power of the earth crushing everything to dust. He operates on a system where the party brings treasure to the temple and pays him a portion rather than being paid directly. He proposes a loyalty ritual involving prisoners where bodies will be ripped apart, and instructs Harch to prepare for this ceremony.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Harch",
+    "fact": "Harch is an individual instructed by Romag to prepare prisoners for a loyalty ritual ceremony.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is a party member who uses a pistol treated as an improved crossbow (dealing 1d10 damage) and a dagger for close-quarters attacks. He shot the pistol into the air to scare a harpy, struck a fleeing harpy with a dagger for six points of damage, and suggests resuscitating Calmer if he dies during the ritual.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Ghasts",
+    "fact": "Two territorial undead creatures encountered in an antechamber with obscene paintings. They claim to have seized the territory from a human or elf, demonstrating this by crunching on a gnawed bone. They feign allegiance to the Earth Temple when confronted by the party, though an insight check reveals they are merely playing along for their own benefit.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Harpies",
+    "fact": "Winged creatures that use enchanting songs to charm adventurers. They position themselves thirty-four feet up in the air and attack with claws. When their plans are thwarted, they become furious and swoop down to attack party members.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Ghouls",
+    "fact": "Undead creatures that attack with claws and bites, possessing the ability to paralyze their targets with a DC 10 constitution save. They have an armor class of twelve. Three initially emerged from a southern door, and four more later entered from the north. One ghoul initially focused on eating a dead harpy before joining combat.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Harpy Hall",
+    "fact": "A large chamber with high ceilings and rafters thirty-four feet up, where the party fought harpies and ghouls. The harpies positioned themselves in the air to sing their charming songs.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Southern Room (Harpy Nesting Area)",
+    "fact": "A foul-smelling room reeking of carrion and filth, with bones littering the floor and heaps of old cloth along the walls indicating where harpies once nested. Old garments hang from pegs on the wall, and elven chain mail was discovered here.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Abandoned Room with Broken Chest",
+    "fact": "A noisome place littered with rags and bones, featuring a broken chest in the northwest corner that contained treasure. A door to the west is located near the west corner.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Antechamber of a Minor Functionary",
+    "fact": "An inner room with plastered walls covered in obscene paintings, containing the remains of upholstered furnishings including a couch and four chairs. Battered pewter dishes are heaped upon a small table. This is where the party encountered two ghasts who claimed the territory as their own.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Romag's Office",
+    "fact": "The place where Romag conducts his business for the Earth Temple. The party reports their progress here and discusses their future within the temple hierarchy.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Mace of Smiting",
+    "fact": "A powerful magical mace wielded by Calmer, used effectively to strike at flying harpies as they attempt to escape. Calmer landed a critical hit with it, dealing ten points of damage to a harpy, and also dealt nine points of damage on another strike.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Pistol",
+    "fact": "A ranged weapon used by Zephyr, treated as an improved crossbow that deals 1d10 worth of damage rather than 1d6 points of damage. Zephyr used it to attack ghouls and shot it into the air to scare a harpy.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Dagger",
+    "fact": "A melee weapon used by Zephyr for close-quarters attacks and as a reaction weapon. He used it to strike a fleeing harpy, dealing six points of damage.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Elven Chain Mail",
+    "fact": "Elven chain mail was discovered in the Southern Room (Harpy Nesting Area), hanging from pegs on the wall among old garments.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "contingency plan for prisoners",
+    "fact": "The DM reminds the party that they freed the prisoners earlier and asks if they made a contingency plan. The party confirms they planned to blame the Fire Temple for the missing prisoners.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "ritual preparation",
+    "fact": "Romag instructs Harch to prepare prisoners for a loyalty ritual ceremony, expects the party to be active participants, and postpones the ceremony until tomorrow, instructing the party to rest.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "territorial claim verification",
+    "fact": "Romag confirms that the party dealt with the ghasts, ghouls, and harpies that had refused to bow down to him, and that they have expanded their territory to the southwest, seeking an official stamp.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "payment structure clarification",
+    "fact": "Romag explains that the party is expected to bring treasure to the temple and pay him a portion, not the other way around, and that they must demonstrate loyalty before receiving titles or ranks.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "ritual description",
+    "fact": "Romag describes the ritual as an Earth Temple ceremony where they will rip the prisoners' bodies apart, and that prisoners will be used for the ritual instead of party members.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Calmer's moral dilemma",
+    "fact": "Calmer expresses discomfort to Zephyr, Sequioa, and Zinnia, looks at the other party members feeling nauseous, and asks if they are really going to go through with the ritual.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Zephyr and Calmer's conflict",
+    "fact": "Calmer pulls Zephyr aside and expresses that he is getting tired of the situation and reminds Zephyr that he also has an opinion. Zephyr suggests that if Calmer dies, they would resuscitate him.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Romag's intervention on violence",
+    "fact": "Romag overhears Zephyr and Calmer's exchange and clarifies that party members are too valuable to be killed, and that prisoners will be used for the ritual instead.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Earth Temple hierarchy advancement",
+    "fact": "The party expresses a desire for more power, official titles, and higher ranks within the Earth Temple. Romag considers the idea and agrees, but states they need to see an act of loyalty first.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "ceremony preparation",
+    "fact": "Romag instructs Harch to prepare a ceremony for the loyalty ritual and later instructs him to prepare the prisoners for the ritual.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "blame shift to Fire Temple",
+    "fact": "The party confirms they planned to blame the Fire Temple for the missing prisoners after freeing them.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "magical armor",
+    "fact": "Magical armor provides a +1 bonus to armor class and allows the wearer to be considered trained with the armor even without proficiency in medium or heavy armor. It was discovered hanging from pegs in the harpy nesting area and is kept in the party's inventory for potential sale.",
+    "source_quote": "The armor was found hanging from pegs on the wall in the harpy nesting area.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "gold pieces",
+    "fact": "Thirty-seven gold pieces were discovered in a broken chest and distributed among the party, with some members receiving eight gold pieces and others receiving ten.",
+    "source_quote": "Thirty-seven gold pieces were discovered and distributed among the party.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "platinum pieces",
+    "fact": "Seven platinum pieces were discovered in a broken chest and distributed among the party, with most members receiving two platinum pieces and one member receiving three.",
+    "source_quote": "Seven platinum pieces were discovered and distributed among the party.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "silver pieces",
+    "fact": "Ninety-two silver pieces were discovered in a broken chest and distributed among the party.",
+    "source_quote": "Ninety-two silver pieces were discovered and distributed among the party.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "copper pieces",
+    "fact": "One hundred eight copper pieces were discovered in a broken chest and distributed among the party.",
+    "source_quote": "One hundred eight copper pieces were discovered and distributed among the party.",
+    "quote_verified": true
+  },
+  {
+    "type": "spell",
+    "subject": "Sacred Flame",
+    "fact": "Sacred Flame is a divine spell used by Calmer to deal radiant damage. He used it against a ghoul, dealing nine points of damage, and against a harpy, dealing five points of damage. Targets must make a Dexterity saving throw to avoid the damage.",
+    "source_quote": "Calmer used Sacred Flame against a ghoul and a harpy, dealing nine and five points of damage respectively.",
+    "quote_verified": false
+  }
+]

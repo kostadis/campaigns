@@ -1,0 +1,163 @@
+[
+  {
+    "type": "npc",
+    "subject": "Gurdy",
+    "fact": "Gurdy is a bard who runs the inn, seeks adventurers to solve bandit problems, and offers to inspire and fight alongside them. He is parched and asks Mari for mead. He wants to go to the moot hall to learn more.",
+    "source_quote": "We have had bandit attacks forever. But something is different now. They are more organized. Everyone wants to protect their town and farms, and no one wants to find the bandits and deal with them. But you folks seem to want to do just that.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is the pragmatic party member who is overwhelmed by the town\u2019s endless quests, rolls his eyes at bureaucratic demands, and reluctantly agrees to missions despite his skepticism.",
+    "source_quote": "Okay.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia is the eager quest-acceptor who immediately takes on every offer, from free lodging to boar hunts, often overriding Zephyr\u2019s hesitation.",
+    "source_quote": "Sequoia has already accepted the quest.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a cleric who is emotionally volatile, feels excluded from the team, drinks excessively, and is scolded by Zephyr for drinking too much mead.",
+    "source_quote": "I thought I was part of the team!",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Mari",
+    "fact": "Mari is the inn server who refills mead on request, takes coin from Zephyr, and is ordered by Captain Gnonsbim to give more mead to the adventurers.",
+    "source_quote": "Mari takes some more coin from Zephyr, who sighs, and Gurdy explains\u2026 Mari, give them some more mead. I\u2019ll pay for it.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Quinna Pool",
+    "fact": "Quinna Pool is a half-orc cook who needs a rare gnarled boar for the Harvest Festival and offers a powerful blessing meal as a reward to adventurers who succeed.",
+    "source_quote": "I\u2019ll make you a special meal that will bless you and make you stronger than ever!",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Captain Gnonsbim",
+    "fact": "Captain Gnonsbim is the gnome captain of the guard who cannot risk sending patrols due to political vulnerability. He hires adventurers to eliminate bandits, offers coin for evidence, and demands public credit for his leadership ahead of an election.",
+    "source_quote": "Find me this bandit. And I know you want to be paid, so here\u2019s the deal \u2014 I\u2019ll give you 25 for the camp location, 10 for every dead bandit, and 25 for the leader. When you bring back the evidence, you need to let me give a speech, nod, and agree that the success was because of my leadership.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Pasmarie Clee",
+    "fact": "Pasmarie Clee is a mysterious figure mentioned by Captain Gnonsbim as having been persistent in bringing up the bandit issue \u2014 likely a key informant or concerned citizen.",
+    "source_quote": "You should talk to Pasmarie Clee. She\u2019s been bugging me about this.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Bandits",
+    "fact": "A growing bandit threat that has become more organized than before, disrupting trade and endangering farms. They are the target of multiple quests from Gurdy, Captain Gnonsbim, and possibly others.",
+    "source_quote": "They are more organized. Everyone wants to protect their town and farms, and no one wants to find the bandits and deal with them.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Honey Haven Tavern",
+    "fact": "A tavern owned by an unnamed innkeeper who offers free lodging and a keg of enchanted mead as a reward for investigating stolen mead barrels and tracking them to the forest.",
+    "source_quote": "Someone stole some barrels of my mead. Some tracks led to the forest. Find out what happened, and you get free lodging at the Honey Haven Tavern for a week and a small keg of my enchanted meed.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Moot Hall",
+    "fact": "A gathering place referenced by Gurdy as where he intends to go to learn more about the bandits, suggesting it is a center of local governance or intelligence.",
+    "source_quote": "I would go to the moot hall and see what I could learn there.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Gnarly Forest",
+    "fact": "A dangerous, elusive forest where the rare gnarled boar roams and where bandit tracks lead \u2014 a key location for two separate quests.",
+    "source_quote": "I need the meat of a rare gnarled boar that roams the gnarly forest\u2026 Some tracks led to the forest.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Enchanted Mead",
+    "fact": "A magical beverage offered as a reward by the Honey Haven tavern owner and served at the inn. It is referenced multiple times as a symbol of hospitality and incentive.",
+    "source_quote": "a small keg of my enchanted meed",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Custom-Forged Magical Weaponry",
+    "fact": "A promised reward from Captain Gnonsbim for completing the bandit mission and giving him public credit. It is the only tangible magical item explicitly offered as payment.",
+    "source_quote": "I suppose I could get you a custom-forged bit of magical weaponry.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Gnarled Boar",
+    "fact": "A rare, elusive, and dangerous creature that roams the Gnarly Forest. It is the target of Quinna Pool\u2019s quest and described as notoriously hard to kill.",
+    "source_quote": "I need the meat of a rare gnarled boar that roams the gnarly forest. It's notoriously elusive and dangerous, and nobody has gotten it for me.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Harvest Festival",
+    "fact": "A local celebration that Quinna Pool is preparing for, requiring the rare boar\u2019s meat. The festival is a driving motivation for the quest and a symbol of community hope.",
+    "source_quote": "It turns out that I want to prepare a celebratory meal for the Harvest Festival.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Election",
+    "fact": "An upcoming political election that motivates Captain Gnonsbim to demand public credit for the bandit takedown, revealing his personal stakes beyond duty.",
+    "source_quote": "There\u2019s an election coming up.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Missing Mead Barrels",
+    "fact": "Barrels of mead have been stolen, with tracks leading to the forest \u2014 an unresolved mystery that triggers a quest from the Honey Haven tavern owner.",
+    "source_quote": "Someone stole some barrels of my mead. Some tracks led to the forest.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Team Dynamics Conflict",
+    "fact": "Ongoing tension between Calmer (feeling excluded) and Zephyr (prioritizing backup plans), with Calmer\u2019s drinking and emotional outbursts escalating the conflict.",
+    "source_quote": "You are part of the team, but we need a backup plan, and he\u2019s part of the backup team.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Harvest Festival Date",
+    "fact": "The Harvest Festival is an imminent event, creating urgency for Quinna\u2019s quest and the town\u2019s collective hope.",
+    "source_quote": "I hope to see you soon and help our small town have its festival.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Pasmarie Clee\u2019s Involvement",
+    "fact": "Pasmarie Clee has been persistently pressing Captain Gnonsbim about the bandits, suggesting she may hold key information or be a victim \u2014 her role is currently unknown.",
+    "source_quote": "You should talk to Pasmarie Clee. She\u2019s been bugging me about this.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Bandit Leader Identity",
+    "fact": "The bandit leader remains unidentified, though a reward is offered for their capture or death \u2014 their identity and motives are a mystery.",
+    "source_quote": "25 for the leader.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Zephyr\u2019s Reluctant Heroism",
+    "fact": "Zephyr is being dragged into a town-wide web of quests despite his skepticism \u2014 a narrative thread about being forced into heroism by others\u2019 expectations.",
+    "source_quote": "*Great, now everyone in this town will want us to run some fetch quest.*",
+    "quote_verified": true
+  }
+]

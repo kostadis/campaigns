@@ -1,0 +1,433 @@
+[
+  {
+    "type": "date",
+    "subject": "Planting 1 through 15, 579",
+    "fact": "The events begin on Planting 1 and conclude by Planting 15 in the year 579.",
+    "source_quote": "Date: Planting 1 through 15, 579",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "Planting 1 through 15, 579",
+    "fact": "The events occurred between Planting 1 and Planting 15 in the year 579.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occur during Planting 1 through 15, 579.",
+    "source_quote": "Date: Planting 1 through 15, 579",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "arrival in Hommlet",
+    "fact": "The group arrived in Hommlet after protecting a caravan from Narwell that passed through the Gnarley Forest.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "caravan journey",
+    "fact": "The caravan journeyed through the Gnarley Forest and was protected by the heroes, leading to the discovery of brigands.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "current location",
+    "fact": "The group is currently at the Inn of the Welcome Wench.",
+    "source_quote": "The group is currently at the Inn of the Welcome Wench.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "encounter with brigands",
+    "fact": "The caravan journey through the Gnarley Forest led to an encounter with brigands, one of whom worked for Canon Belsoring.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "protection of caravan",
+    "fact": "The heroes protected a caravan from Narwell that went through the Gnarley Forest.",
+    "source_quote": "They had protected a caravan from Narwell that went through the forest.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Temple of Water",
+    "fact": "The Temple of Water is led by Canon Belsoring and has ties to brigands operating in the Gnarley Forest.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Temple of Water",
+    "fact": "The Temple of Water is led by Canon Belsoring.",
+    "source_quote": "One of those Brigands worked for Canon Belsoring, a leader of the Temple of Water.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Church of St. Cuthbert",
+    "fact": "The Church of St. Cuthbert was visited by the group, where a cleric was offered to join them.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Church of St. Cuthbert",
+    "fact": "The group visited the Church of St. Cuthbert, where a cleric was offered to join the group.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "church of St. Cuthbert",
+    "fact": "The heroes visited the church of St. Cuthbert in Hommlet.",
+    "source_quote": "They visited the church of St. Cuthbert",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Gnarley Forest",
+    "fact": "The Gnarley Forest is a location through which the caravan journeyed and where brigands were discovered.",
+    "source_quote": "The journey through the forest leads them to discover brigands.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Gnarley Forest",
+    "fact": "The Gnarley Forest is the location through which the caravan journeyed, leading to the discovery of brigands.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "location",
+    "subject": "Hommlet",
+    "fact": "Hommlet is a small village at the edge of Verbobonc\u2019s territory near the Gnarley Forest, where the group has arrived.",
+    "source_quote": "The heroes arrived in Hommlet, a small village at the edge of Verbobonc\u2019s territory near the Gnarley Forest.",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "location",
+    "subject": "Inn of the Welcome Wench",
+    "fact": "The Inn of the Welcome Wench is the current location of the group, where they met Spugnoir Balkof, Furnok, and Osler Goodingoat.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Inn of the Welcome Wench",
+    "fact": "The group is currently at the Inn of the Welcome Wench.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Inn of the Welcome Wench",
+    "fact": "The heroes arrived at the Inn of the Welcome Wench upon reaching Hommlet.",
+    "source_quote": "Upon arrival, they visited the Inn of the Welcome Wench",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "leatherworker",
+    "fact": "The group visited a leatherworker who would sell all his goods through the traders Rannos and Gremag.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Narwell",
+    "fact": "Narwell is the origin or destination of the caravan protected by the heroes.",
+    "source_quote": "They had protected a caravan from Narwell that went through the forest.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Verbobonc",
+    "fact": "Verbobonc is a territory adjacent to the Gnarley Forest and near Hommlet.",
+    "source_quote": "The heroes arrived in Hommlet, a small village at the edge of Verbobonc\u2019s territory near the Gnarley Forest.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "brigands",
+    "fact": "Brigands were encountered during the caravan's journey through the Gnarley Forest.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "brigands",
+    "fact": "Brigands were encountered in the Gnarley Forest during the caravan journey and one worked for Canon Belsoring.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "brigands",
+    "fact": "Brigands were encountered in the Gnarley Forest during the caravan journey.",
+    "source_quote": "The journey through the forest leads them to discover brigands.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Canon Belsoring",
+    "fact": "Canon Belsoring is a leader of the Temple of Water and employed one of the brigands encountered in the Gnarley Forest.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Canon Belsoring",
+    "fact": "Canon Belsoring is a leader of the Temple of Water, and one of the brigands worked for him.",
+    "source_quote": "One of those Brigands worked for Canon Belsoring, a leader of the Temple of Water.",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "cleric",
+    "fact": "A cleric at the church of St. Cuthbert was offered to join the group.",
+    "source_quote": "where the cleric was offered to join the group.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Furnok",
+    "fact": "Furnok is a fabulous rogue met by the heroes at the Inn of the Welcome Wench.",
+    "source_quote": "met Spugnoir Balkof and Furnok, the fabulous rogue",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Gremag",
+    "fact": "Gremag is a trader who convinced the heroes to hire men-at-arms for protection.",
+    "source_quote": "They visited the traders Rannos and Gremag, who convinced them to hire men-at-arms for protection.",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "leatherworker",
+    "fact": "A leatherworker in Hommlet would sell all his goods through the traders Rannos and Gremag.",
+    "source_quote": "They visited the leatherworker who would sell all his goods through the traders.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Osler Goodingoat",
+    "fact": "Osler Goodingoat is the innkeeper of the Inn of the Welcome Wench.",
+    "source_quote": "and encountered the innkeeper Osler Goodingoat.",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Rannos",
+    "fact": "Rannos is a trader who convinced the heroes to hire men-at-arms for protection.",
+    "source_quote": "They visited the traders Rannos and Gremag, who convinced them to hire men-at-arms for protection.",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Spugnoir Balkof",
+    "fact": "Spugnoir Balkof is a fabulous rogue encountered at the Inn of the Welcome Wench.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Spugnoir Balkof",
+    "fact": "Spugnoir Balkof was met by the heroes at the Inn of the Welcome Wench.",
+    "source_quote": "met Spugnoir Balkof and Furnok, the fabulous rogue",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "leatherworker's goods",
+    "fact": "The leatherworker's goods are to be sold through the traders Rannos and Gremag.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "cleric's offer",
+    "fact": "A cleric at the Church of St. Cuthbert was offered to join the group, but their acceptance is unresolved.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "men-at-arms hiring",
+    "fact": "The group was convinced by Rannos and Gremag to hire men-at-arms for protection, but the hiring status is unresolved.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  }
+]

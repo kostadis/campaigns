@@ -1,0 +1,324 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occur on Planting 21, 579.",
+    "source_quote": "Planting 21, 579 Early Afternoon",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events continue on Planting 22, 579.",
+    "source_quote": "Planting 22, 579",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Sheernobb",
+    "fact": "Sheernobb is a small village with a central Moot Hall.",
+    "source_quote": "The village of Sheernobb is a small town. The dominant building is what the locals call the Moot Hall",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Moot Hall",
+    "fact": "The Moot Hall is located on the largest hill in Sheernobb.",
+    "source_quote": "The Moothall is in the center of Sheernobb on the largest hill.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Grindin Books",
+    "fact": "Grindin Books is a bookshop nestled in a small cottage on the northern branch of the road around the Moot Hall.",
+    "source_quote": "Nestled within a small cottage, Grindin Books is instantly recognizable by the cluttered display of books and maps in its windows",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Pasmarie\u2019s Beehives",
+    "fact": "Pasmarie\u2019s Beehives are located a quarter mile southeast of Sheernobb.",
+    "source_quote": "A quarter mile southeast of Sheernobb, Zephyr and his fellow travelers arrive at Pasmarie\u2019s Beehives.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Gnarley Forest",
+    "fact": "The Gnarley Forest straddles the borders of Verbobonc, Viscounty, Dyvers, the Domain of Greyhawk, the Wild Coast, Celene, and the Kron Hills.",
+    "source_quote": "The Gnarley Forest, a sprawling woodland straddling the borders of Verbobonc, Viscounty, Dyvers, the Domain of Greyhawk, the Wild Coast, Celene, and the Kron Hills",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Aunt Emma's gingerbread house",
+    "fact": "Aunt Emma's gingerbread house has walls and a roof made of gingerbread, window trim of frosting, and a sugared plum-decorated fascia.",
+    "source_quote": "The walls and roof are made of gingerbread. The window trim is made of white frosting. The roof fascia is decorated with white frosting and what appear to be sugared plums.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr had his pocket picked by Mari.",
+    "source_quote": "Well, that was expensive! After having his pocket cleanly picked by Mari, Zephyr was looking for an opportunity to get out.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr suggests exploring the village to learn information.",
+    "source_quote": "\u201cLet\u2019s go explore the village and see if we can learn anything!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer drinks the last of his mead and responds disrespectfully to Zephyr.",
+    "source_quote": "He watches as Calmer drinks the last of his mead and then tells him in as disrespectful a tone Calmer can muster: \u201cAs you wish, boss!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grindin Well-Read",
+    "fact": "Grindin Well-Read is a gnome who owns Grindin Books and reads books behind the counter.",
+    "source_quote": "behind the counter, a plush chair with a clever reclining mechanism lets them put their feet on an equally plush stool. And there are books beyond counting... sits the gnome Grindin Well-Read.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grindin Well-Read",
+    "fact": "Grindin Well-Read\u2019s invitation to a conference was stolen.",
+    "source_quote": "\u201cMy invitation to the conference was stolen! I didn\u2019t have the opportunity to reject the invitation!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grindin Well-Read",
+    "fact": "Grindin Well-Read suggests using enchanted wards and protective charms to deter bandit attacks.",
+    "source_quote": "The bookkeeper suggests that we employ more advanced security measures. Enchanted wards and protective charms could be distributed to caravans to deter bandit attacks.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grindin Well-Read",
+    "fact": "Grindin Well-Read confirms that Palsmarie Clee has information on the bandits.",
+    "source_quote": "Grindin finally confirms that Palsmarie Clee has information on the bandits.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Map of the local area",
+    "fact": "Zephyr purchases a map of the local area from Grindin Books.",
+    "source_quote": "Zinnia smiles when Zephyr finds a map of the local area.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Map of the Elemental Nexus",
+    "fact": "A book titled Map of the Elemental Nexus is visible in Grindin Books.",
+    "source_quote": "his eyes catch the title of a book - Map of the Elemental Nexus.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia reads the inscription on the statue of Keenleene, Founder of Sheernobb.",
+    "source_quote": "At the statue's base, he reads a sign - \u201cKeenleene, Founder of Sheernobb!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Keenleene",
+    "fact": "The statue of Keenleene comes to life and performs a joyful musical show.",
+    "source_quote": "Before his eyes, the stone figure of Keenleene transforms, coming to life with lifelike mischief... He picks up his pipes and starts playing a lively tune",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Glennddarc",
+    "fact": "Glennddarc is the Headgnome of Sheernobb and is seated in an elegantly engraved oak chair in the Moot Hall.",
+    "source_quote": "An elder gnome is seated in a large (by gnome standards) elegantly engraved oak chair... The wizened gnome seems to have nodded off... \u201cWelcome. I am Glennddarc, Headgnome of this village.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Glennddarc",
+    "fact": "Glennddarc is annoyed by the inquiry about bandits and dismisses it as a political stunt by Gnonsbim.",
+    "source_quote": "Glennddarc is annoyed. \u201cBandits? We have problems with giants, and you are interested in Bandits?\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glennddarc",
+    "fact": "Glennddarc suggests that Pasmarie Clee is the one making the most noise about the bandits.",
+    "source_quote": "You should go to Pasmarie\u2019s beehives if it's hunting bandits. She\u2019s been making the biggest ruckus.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glennddarc",
+    "fact": "Glennddarc implies that Gnonsbim is romantically interested in Pasmarie Clee.",
+    "source_quote": "If you want to help a young gnome looking for a wife, listen to Gnonsbim.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glennddarc",
+    "fact": "Glennddarc falls asleep again after speaking to the party.",
+    "source_quote": "Sequoia doesn\u2019t have a chance to protest, as the headgnome is sleeping again.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Pasmarie Clee",
+    "fact": "Pasmarie Clee is the keeper of Sheernobb\u2019s beehives and has had a honey shipment stolen.",
+    "source_quote": "I\u2019m Pasmarie Clee, keeper of Sheernobb\u2019s finest beehives\u2014or what\u2019s left of them. You see, a shipment of my honey, bound for the merchants of Verbobonc, has been stolen.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Pasmarie Clee",
+    "fact": "Pasmarie Clee says the attackers spoke of the \u2018Black Earth\u2019 and carried stone weapons.",
+    "source_quote": "The guards who survived said the attackers weren\u2019t bandits\u2014no, they spoke of the \u2018Black Earth\u2019 and carried weapons of stone.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Pasmarie Clee",
+    "fact": "Pasmarie Clee offers enchanted honey as a reward for recovering the stolen shipment.",
+    "source_quote": "I can\u2019t offer much gold, but you\u2019ll have my gratitude and a share of my finest enchanted honey\u2014a taste of Sheernobb\u2019s magic that might save your life in a pinch.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pasmarie marks the map",
+    "fact": "Pasmarie Clee marks the location of the last raid on Zephyr\u2019s map.",
+    "source_quote": "Zephyr shows her the map he purchased, and she marks it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Quinna Poul",
+    "fact": "Quinna Poul is a half-orc cook who tells Zephyr where to find the boar.",
+    "source_quote": "the half-orc cook, Quinna Poul points to a location on Zephyr\u2019s map where he might find the boar.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Gnarley Forest glade",
+    "fact": "The boar is found in a glade with bronze wood trees in the Gnarley Forest.",
+    "source_quote": "The trees around the glade are bronze wood trees. He remembers them from his childhood, with their slender trunks and reddish-brown, hard bark.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Aunt Emma",
+    "fact": "Aunt Emma is a hag who disguises herself as an old woman in a gingerbread house.",
+    "source_quote": "Aunt Emma looks at him and says, \u201cI am just an old lady who has a thing for making sweets and fattening up travelers!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Aunt Emma",
+    "fact": "Aunt Emma reveals her true form as a green hag with green skin, claws, and sharp teeth.",
+    "source_quote": "The illusion of her appearance disappears. She is now a green hag, her skin green, her eyes green, her hand's claws, and her mouth riddled with sharp teeth.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr kills the hag",
+    "fact": "Zephyr kills Aunt Emma after she reveals her true form and pleads for her life.",
+    "source_quote": "But Zephyr will have none of that and kills her.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Hat of Wizardry",
+    "fact": "Zinnia finds a Hat of Wizardry in the hag\u2019s gingerbread house.",
+    "source_quote": "He finds a hat of Wizardry, which he thinks can be sold or shared with Spugnoir.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "The Hag's Guide to 101 Recipes Of Children",
+    "fact": "Zinnia finds a book titled The Hag's Guide to 101 Recipes Of Children near the oven in the gingerbread house.",
+    "source_quote": "He notices a book on the floor near the oven\u2014\u201cThe Hag's Guide to 101 Recipes Of Children.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "poisoned plum pie",
+    "fact": "The plum pie in the gingerbread house is poisonous.",
+    "source_quote": "He takes a sniff of the pie and realizes it is poisonous.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "gingerbread house door frosting",
+    "fact": "Zinnia determines the frosting on the gingerbread house door frame is genuine.",
+    "source_quote": "But then he decides that the frosting on the door frame must not be counterfeit, and the gingerbread must be the genuine article.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia eats gingerbread",
+    "fact": "Zinnia breaks off and eats a piece of the gingerbread from the hag\u2019s house.",
+    "source_quote": "So he breaks off a piece, chews, and smiles.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "wild boar",
+    "fact": "A wild boar is found in a glade in the Gnarley Forest, matching Quinna Poul\u2019s description.",
+    "source_quote": "The boar is as magnificent as Quinna Poul said and is eating the grass of the glade.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia tricks the boar",
+    "fact": "Zinnia successfully tricks the wild boar using an illusion, while Zephyr\u2019s attempt fails.",
+    "source_quote": "Zephyr\u2019s attempt at an illusion doesn\u2019t trick the boar, but Zinnia\u2019s does.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia brings boar to Quinna",
+    "fact": "Zinnia stands with the captured boar next to Quinna Poul.",
+    "source_quote": "A few hours later, Zinnia stands with the boar next to Quinna.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Black Earth raiders",
+    "fact": "A group calling themselves the 'Black Earth' stole Pasmarie Clee's honey and used stone weapons.",
+    "source_quote": "The guards who survived said the attackers weren\u2019t bandits\u2014no, they spoke of the \u2018Black Earth\u2019 and carried weapons of stone.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "stolen conference invitation",
+    "fact": "Grindin Well-Read\u2019s invitation to a conference was stolen.",
+    "source_quote": "\u201cMy invitation to the conference was stolen! I didn\u2019t have the opportunity to reject the invitation!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Gnonsbim\u2019s re-election campaign",
+    "fact": "Gnonsbim is running for re-election and is using the bandit investigation to appear proactive.",
+    "source_quote": "Yes, Gnonsbim! He\u2019s running for re-election and wants to show he\u2019s a man of action.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "giants threatening Sheernobb",
+    "fact": "Glennddarc states that giants are a more pressing problem for Sheernobb than bandits.",
+    "source_quote": "Bandits? We have problems with giants, and you are interested in Bandits?",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "mystery of the Moot Hall runes",
+    "fact": "The runes on the Moot Hall doors translate to \u201cIf you see it, it\u2019s not the right it,\u201d hinting at illusion.",
+    "source_quote": "carved with runes over the door \u2014 Ni te pharkalu, quo lun verra lu, with a helpful translation in common: \u201cIf you see it, it\u2019s not the right it.\u201d",
+    "quote_verified": false
+  }
+]

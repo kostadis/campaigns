@@ -1,0 +1,247 @@
+[
+  {
+    "type": "npc",
+    "subject": "Tolub",
+    "fact": "Tolub betrayed the party by sending them into a trap at the fire temple instead of connecting them with Romag of the Earth Temple as promised.",
+    "source_quote": "They had been betrayed by Captain Tolub, who sent them into a trap at the fire temple instead of connecting them with Romag of the Earth Temple as promised.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Albreth",
+    "fact": "Albreth, a fire priest, unleashed devastating magical flames upon the party, nearly killing Calmer.",
+    "source_quote": "Fire priests Albreth and Ingulf had unleashed devastating magical flames upon them, nearly killing Calmer.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Ingulf",
+    "fact": "Ingulf, a fire priest, unleashed devastating magical flames upon the party, nearly killing Calmer.",
+    "source_quote": "Fire priests Albreth and Ingulf had unleashed devastating magical flames upon them, nearly killing Calmer.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer recovered from his brush with death and insisted the party change their approach, declaring he was done being the face of the party.",
+    "source_quote": "Calmer, recovered from his brush with death, insisted they needed to change their approach. He declared he was done being the face of the party, tired of looking like a fool and nearly getting killed.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr used magical dust to allow the party to vanish and flee into the darkness.",
+    "source_quote": "Zephyr\u2019s quick thinking with magical dust allowed them to vanish and flee into the darkness.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia\u2019s concern for Calmer\u2019s wellbeing brought a moment of levity, though Calmer claimed it was merely because reviving him was annoying.",
+    "source_quote": "Zinnia\u2019s concern for Calmer\u2019s wellbeing\u2014though he claimed it was merely because reviving him was annoying\u2014brought a moment of levity to their tense situation.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Nulb",
+    "fact": "Nulb is the destination where the party plans to confront Tolub and demand an audience with the temple leadership.",
+    "source_quote": "They agreed on a plan: return to Nulb and confront Tolub, proving they had survived whatever test he had thrown at them, and demand an audience with the temple leadership.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Boatman\u2019s Tavern",
+    "fact": "The Boatman\u2019s Tavern in Nulb is where Skole, the bartender, revealed Tolub had been lying about the party\u2019s death.",
+    "source_quote": "Upon reaching Nulb, the party made their way to the Boatman\u2019s Tavern. Skole, the bartender, was visibly shocked to see them alive.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Skole",
+    "fact": "Skole, the bartender of the Boatman\u2019s Tavern, despised both Tolub and Lodriss, the tavern\u2019s actual owner, and wished to be free of them both.",
+    "source_quote": "Taking them into his back room, Skole confided that he despised both Tolub and Lodriss, the tavern\u2019s actual owner, and wished to be free of them both.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Lodriss",
+    "fact": "Lodriss is the actual owner of the Boatman\u2019s Tavern, despised by Skole.",
+    "source_quote": "Taking them into his back room, Skole confided that he despised both Tolub and Lodriss, the tavern\u2019s actual owner, and wished to be free of them both.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Dick Rentsch",
+    "fact": "Dick Rentsch, proprietor of the Waterside Hostel, told the party they needed to speak with him to contact the Earth Temple, not Tolub.",
+    "source_quote": "He told them that if they wanted to contact the Earth Temple, they needed to speak with Dick Rentsch at the Waterside Hostel, not Tolub, who worked for the fire prophet.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Waterside Hostel",
+    "fact": "The Waterside Hostel is a dilapidated building with sagging timbers and lopsided walls where Dick Rentsch runs a tight operation.",
+    "source_quote": "At the Waterside Hostel, a dilapidated building with sagging timbers and lopsided walls, they met Dick Rentsch.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Gallows Table",
+    "fact": "Gallows Table is where Elfar Twell was executed on the orders of Madame Selentis and hung from the gallows.",
+    "source_quote": "They passed Gallows Table where they saw a dead man hanging from the gallows\u2014Elfar Twell, executed on the orders of the powerful Madame Selentis for the crime of crossing her.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Madame Selentis",
+    "fact": "Madame Selentis ordered the execution of Elfar Twell for crossing her.",
+    "source_quote": "They passed Gallows Table where they saw a dead man hanging from the gallows\u2014Elfar Twell, executed on the orders of the powerful Madame Selentis for the crime of crossing her.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Magda\u2019s Trove",
+    "fact": "Magda\u2019s Trove is a merchant stall selling strange magical curiosities like cursed ink.",
+    "source_quote": "They encountered various merchant stalls, including Magda\u2019s Trove with its strange magical curiosities like cursed ink,",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Garik\u2019s Armory",
+    "fact": "Garik\u2019s Armory is a merchant stall selling rusted weapons.",
+    "source_quote": "They encountered various merchant stalls, including Magda\u2019s Trove with its strange magical curiosities like cursed ink, and Garik\u2019s armory selling rusted weapons.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Wat",
+    "fact": "Wat, the bartender at the Waterside Hostel, attempted to extract information about the party\u2019s business and warned them not to drink the beer, serving gin instead.",
+    "source_quote": "While waiting for Dick Rentsch to return that evening, the party was approached by Wat, the bartender, who attempted to extract information about their business. The party deflected his questions, claiming it was a personal matter. Wat seemed relieved and mentioned someone named Dala before warning them not to drink the beer and serving them gin instead.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Dala",
+    "fact": "Dala is someone mentioned by Wat as a reference point during his warning to the party.",
+    "source_quote": "Wat seemed relieved and mentioned someone named Dala before warning them not to drink the beer and serving them gin instead.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sequioa",
+    "fact": "Sequioa noticed the gnolls seemed to be on patrol, possibly looking for the party or dealing with bandit factions.",
+    "source_quote": "Sequioa noticed the gnolls seemed to be on patrol, possibly looking for the party themselves or dealing with the various bandit factions that plagued the region.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bandit Chief",
+    "fact": "The bandit chief led a group of gnolls through the forest and was later killed by Sequioa and Zinnia during the ambush.",
+    "source_quote": "The party struck swiftly and decisively. Sequioa and Zinnia focused their attacks on the bandit chief, cutting him down before he could react.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Forest",
+    "fact": "The forest is where the party encountered gnolls in fire temple garb, a collapsed patch of ground revealing poisonous snakes, and later ambushed the bandit chief and his recruits.",
+    "source_quote": "As they drew closer to Nulb, the party observed a bandit chief leading another group of gnolls through the forest... The party returned to the forest and positioned themselves for the ambush.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Gnoll King",
+    "fact": "The gnoll king is the source from whom the fire temple recruits gnolls, according to the bandit chief\u2019s mutterings.",
+    "source_quote": "Sequioa\u2019s keen hearing picked up the chief muttering complaints about recruiting gnolls from the local gnoll king for the fire temple.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Temple of Elemental Evil",
+    "fact": "The Temple of Elemental Evil is actively growing and recruiting forces, with four cults led by prophets: Romag of Earth, Belsornig of Water, and two unnamed leaders of Fire and Air, all ruled by a mysterious deep temple.",
+    "source_quote": "The Temple of Elemental Evil wasn\u2019t just surviving, it was actively growing and recruiting forces... four cults led by prophets\u2014Romag of Earth, Belsornig of Water, and two unnamed leaders of Fire and Air\u2014all ruled by a mysterious deep temple.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Belsornig",
+    "fact": "Belsornig is the prophet of Water within the Temple of Elemental Evil.",
+    "source_quote": "four cults led by prophets\u2014Romag of Earth, Belsornig of Water, and two unnamed leaders of Fire and Air\u2014all ruled by a mysterious deep temple.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "Romag is the prophet of Earth within the Temple of Elemental Evil, whom Tolub was supposed to connect the party with.",
+    "source_quote": "They had been betrayed by Captain Tolub, who sent them into a trap at the fire temple instead of connecting them with Romag of the Earth Temple as promised.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Elfar Twell",
+    "fact": "Elfar Twell was executed and hanged at Gallows Table for crossing Madame Selentis.",
+    "source_quote": "They passed Gallows Table where they saw a dead man hanging from the gallows\u2014Elfar Twell, executed on the orders of the powerful Madame Selentis for the crime of crossing her.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Cave",
+    "fact": "The party rested in a well-hidden cave found by Zinnia, who carefully obscured their tracks.",
+    "source_quote": "Zinnia\u2019s expertise proved invaluable as he found them a well-hidden cave to rest in and carefully obscured their tracks.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia moved with deadly precision during the ambush, contributing to the efficient elimination of the gnolls.",
+    "source_quote": "Sequioa delivered a devastating strike that literally cut one gnoll in half, while Zinnia moved with deadly precision through the chaos.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sequioa",
+    "fact": "Sequioa delivered a devastating strike that literally cut one gnoll in half during the ambush.",
+    "source_quote": "Sequioa delivered a devastating strike that literally cut one gnoll in half, while Zinnia moved with deadly precision through the chaos.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr methodically eliminated the gnolls one by one during the ambush.",
+    "source_quote": "Zephyr methodically eliminated them one by one.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer created a terrifying booming voice that froze the gnolls in fear during the ambush.",
+    "source_quote": "Calmer created a terrifying booming voice that froze the gnolls in fear,",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Ambush on Gnoll Recruits",
+    "fact": "The party ambushed and killed a group of gnolls and their handler, the bandit chief, proving their capability to the Earth Temple.",
+    "source_quote": "The party returned to the forest and positioned themselves for the ambush... When the dust settled, the party stood victorious over the bodies of their enemies, having proven themselves capable of the ruthless work the Earth Temple required.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Completion of Dick Rentsch\u2019s Test",
+    "fact": "The party successfully completed Dick Rentsch\u2019s mission to kill the gnoll recruits and their handler, earning their entry into the Temple of Elemental Evil.",
+    "source_quote": "They had successfully completed Dick Rentsch\u2019s test and earned their entry into the Temple of Elemental Evil.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Nulb",
+    "fact": "Nulb is a desperate, dangerous place where power is everything, as shown by its merchant stalls, executions, and hidden factions.",
+    "source_quote": "These encounters painted a picture of Nulb as a desperate, dangerous place where power was everything.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Waterside Hostel",
+    "fact": "The Waterside Hostel is neutral ground where various factions, including the bandit chief, coexist uneasily.",
+    "source_quote": "they noticed the bandit chief from the forest was also present in the tavern, suggesting this was neutral ground where various factions coexisted uneasily.",
+    "quote_verified": true
+  }
+]

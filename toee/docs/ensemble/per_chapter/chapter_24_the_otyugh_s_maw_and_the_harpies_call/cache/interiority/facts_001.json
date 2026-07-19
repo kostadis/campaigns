@@ -1,0 +1,303 @@
+[
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia was poisoned by the Otyugh's bite, which sapped his strength and reduced his vitality.",
+    "source_quote": "The creature... bit down hard, injecting him with poison that sapped his strength and reduced his vitality.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr was grappled by the Otyugh's tentacles and remained constrained during the battle.",
+    "source_quote": "The Otyugh... grappled both Zinnia and Zephyr in its powerful grip.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer channeled healing energy into Zinnia, bringing him back from the brink of death.",
+    "source_quote": "Calmer... channeled healing energy into Zinnia, bringing him back from the brink of death.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Sequioa",
+    "fact": "Sequioa was stunned by the Otyugh's tentacle slam.",
+    "source_quote": "The Otyugh... slammed its tentacles against both Zephyr and Sequioa, stunning them both with the force of the impact.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia collapsed unconscious after being struck one more time by the Otyugh as she fled.",
+    "source_quote": "The creature struck him one more time as she fled, and she collapsed unconscious.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer cut Zephyr free from the dead Otyugh's tentacles.",
+    "source_quote": "Calmer... cut Zephyr free from the dead creature's tentacles.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Sequioa",
+    "fact": "Sequioa succumbed to the harpies' song, his mind clouded by their charm.",
+    "source_quote": "Sequioa, succumbs to the enchantment, his mind clouded by the harpies' charm.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr realized that only one of the harpies was singing, and the other two could still charm the party.",
+    "source_quote": "Zephyr realizes that this is the song of only one of the harpies. And that although immune to its song, the other two could charm him and the rest of the party.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "Romag used the Otyugh as a living disposal system for his enemies, feeding rivals to it.",
+    "source_quote": "The implication was clear and chilling\u2014Romag sometimes fed his rivals to this creature, using it as a living disposal system for his enemies.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "Romag left large chunks of the dungeon empty and unused, suggesting poor management or insufficient resources.",
+    "source_quote": "The party realized that Romag, for all his bluster and ambition, had left large chunks of the dungeon empty and unused\u2014a sign of either poor management or insufficient resources.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr insisted that the healer should go first when investigating the refuse pile.",
+    "source_quote": "Zephyr attempted to convince Calmer to investigate the trash pile, arguing that the cleric had more health and could better withstand any dangers.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer insisted they go together when investigating the refuse pile, fearing the loss of the party's healer.",
+    "source_quote": "Calmer, however, insisted they go together, pointing out that losing the party's healer would be far more catastrophic than Zephyr seemed to realize.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer was annoyed by Zephyr's earlier insistence that the healer should go first.",
+    "source_quote": "Calmer, clearly annoyed by the situation and Zephyr's earlier insistence that the healer should go first, nevertheless performed his duty...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia delivered a series of strikes that finally brought the Otyugh down.",
+    "source_quote": "Zinnia... delivered a series of strikes that finally brought the massive creature down.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Sequioa",
+    "fact": "Sequioa unleashed a devastating series of attacks against the Otyugh.",
+    "source_quote": "Sequioa unleashed a devastating series of attacks, his weapons finding purchase in the creature's flesh again and again.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia managed to wrench himself free from the Otyugh's grasp.",
+    "source_quote": "Despite being poisoned and weakened, Zinnia managed to wrench himself free from the Otyugh's grasp...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr discovered a stairway leading up to an escape route.",
+    "source_quote": "Zephyr... discovered a stairway leading up to an escape route.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Sequioa",
+    "fact": "Sequioa skillfully picked the lock on the prison chamber door.",
+    "source_quote": "Sequioa skillfully picked the lock, and the door swung open...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Sequioa",
+    "fact": "Sequioa unlocked the prisoners' chains.",
+    "source_quote": "Sequioa unlocked the prisoners' chains while the others kept watch.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Jorin Pike Kale",
+    "fact": "Jorin Pike Kale thanked the party profusely and shared valuable information about Captain Tolubb's pirate ship schedule.",
+    "source_quote": "Jorin Pike Kale thanked them profusely. In gratitude, he shared valuable information about Captain Tolubb's pirate ship schedule at the docks in Nulb...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Master Aldous Glimmerfield and Mistress Lenora Glimmerfield",
+    "fact": "The Glimmerfields promised a reward of one hundred silver pieces for their rescue.",
+    "source_quote": "The Glimmerfields promised a reward of one hundred silver pieces for their rescue.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia was struck by the Otyugh while retreating and collapsed unconscious.",
+    "source_quote": "The creature struck him one more time as she fled, and she collapsed unconscious.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer positioned himself away from immediate danger after healing Zinnia.",
+    "source_quote": "He then strategically positioned himself away from immediate danger.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr remained grappled by the Otyugh's tentacles while fighting.",
+    "source_quote": "Zephyr, still grappled by the tentacles, continued to fight from his constrained position.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia recovered from the brink of death after Calmer's healing.",
+    "source_quote": "Calmer... brought him back from the brink of death.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia was still suffering from poison coursing through his veins after recovering.",
+    "source_quote": "Zinnia, recovered but still suffering from the poison coursing through his veins...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia struck the Otyugh with a series of final blows that killed it.",
+    "source_quote": "Zinnia... delivered a series of strikes that finally brought the massive creature down.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer remarked pointedly about the importance of the healer not being in the front lines.",
+    "source_quote": "As it died, Calmer remarked pointedly about the importance of the healer not being in the front lines...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party discovered one hundred eighty silver pieces, fifteen gold pieces, and a potion of greater healing inside the Otyugh's body.",
+    "source_quote": "Their efforts were rewarded with the discovery of one hundred eighty silver pieces, fifteen gold pieces, and a glass vial containing a potion of greater healing that had somehow survived intact inside the creature's body...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party discovered a rusted, bent breastplate bearing the symbol of the Fire Temple among the refuse.",
+    "source_quote": "More disturbing was their discovery of a rusted, bent breastplate bearing the symbol of the Fire Temple.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party realized Romag might not be pleased they killed his pet Otyugh.",
+    "source_quote": "The party realized that Romag might not be pleased to discover they had killed his pet monster.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party was sealed in a chamber by a falling gate.",
+    "source_quote": "As they stepped inside, they heard an ominous click, and a gate suddenly dropped behind them, sealing them in the room.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party realized they were trapped under threat from the harpies' magical song.",
+    "source_quote": "The party realized desperate situation they now faced\u2014trapped in a sealed chamber under threat from the harpies' magical influence...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The mysterious door concealing an eldritch creature",
+    "fact": "The passage to the second level connects near the mysterious door that conceals an eldritch creature, but the party chose not to venture down.",
+    "source_quote": "They recognized that this passage connected somewhere near the mysterious door that concealed an eldritch creature, though they chose not to venture down at this time.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The purpose of the filth-filled chamber",
+    "fact": "The chamber reeking of filth was filled with trash, waste, and bones, but its former purpose was impossible to determine beneath the refuse.",
+    "source_quote": "The chamber was filled with trash, waste, and bones\u2014its former purpose impossible to determine beneath the accumulated refuse.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The identity of the harpies' victims",
+    "fact": "The harpies' song compels victims to follow them heedless of danger, but their previous victims are not named or described.",
+    "source_quote": "The creatures' notorious song filled the chamber, its magical compulsion washing over the party... that could compel them to follow the creatures heedless of any danger that might await their victims.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The fate of the four farm boys turned mercenaries",
+    "fact": "Kalen, Brask, Horgus, and Davine were farm boys turned mercenaries who surrendered almost immediately when captured, but their current status is unknown.",
+    "source_quote": "...four farm boys turned mercenaries\u2014Kalen, Brask, Horgus, and Davine\u2014who had surrendered almost immediately when captured.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The whereabouts of Dick Rentsch's men",
+    "fact": "Jorin Pike Kale was imprisoned by Dick Rentsch's men, but their location or current activity is not specified.",
+    "source_quote": "Jorin Pike Kale... had been imprisoned by Dick Rentsch's men as punishment for making a pass at a woman named Dalia.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The nature of the Fire Temple insignia and robes",
+    "fact": "The party collected insignia and robes from Larith the Beautiful to frame the Fire Temple for the prisoner escape, but their origin or authenticity is unverified.",
+    "source_quote": "They devised a clever plan to frame the Fire Temple for the escape, using insignia and robes they had previously collected from Larith the Beautiful.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The location of the Air Temple representatives",
+    "fact": "The party previously met with representatives of the Air Temple in the second level, but their current whereabouts are not mentioned.",
+    "source_quote": "Their exploration led them to a passageway that descended to the second level of the dungeon, an area they had previously visited when meeting with representatives of the Air Temple.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The identity of Dalia",
+    "fact": "Jorin Pike Kale was punished for making a pass at a woman named Dalia, but her identity or fate is not described.",
+    "source_quote": "Jorin Pike Kale... had been imprisoned by Dick Rentsch's men as punishment for making a pass at a woman named Dalia.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The source of the five magical arrows",
+    "fact": "Five magical arrows retaining their enchantment were found in an empty armory, but their origin or previous owner is unknown.",
+    "source_quote": "In one armory, they found five magical arrows that still retained their enchantment.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The identity of Larith the Beautiful",
+    "fact": "The party collected insignia and robes from Larith the Beautiful, but Larith's role or current status is not described.",
+    "source_quote": "They devised a clever plan to frame the Fire Temple for the escape, using insignia and robes they had previously collected from Larith the Beautiful.",
+    "quote_verified": true
+  }
+]

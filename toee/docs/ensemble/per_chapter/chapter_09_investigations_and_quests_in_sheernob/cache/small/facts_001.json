@@ -1,0 +1,198 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr had his pocket cleanly picked by Mari and is seeking an opportunity to leave, but decides to explore the village after being egged on by Calmer's disrespectful tone.",
+    "source_quote": "Let\u2019s go explore the village and see if we can learn anything!",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer drinks the last of his mead and responds to Zephyr with the most disrespectful tone he can muster, saying, \u201cAs you wish, boss!\u201d",
+    "source_quote": "As you wish, boss!",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Sheernobb",
+    "fact": "Sheernobb is a small town dominated by the Moot Hall, with roads splitting into two branches \u2014 one north and one south \u2014 that converge after the hall, forming a circular route around which most stores are located.",
+    "source_quote": "The village of Sheernobb is a small town. The dominant building is what the locals call the Moot Hall... The two branches converge after the moot hall on the road going out of town.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Moot Hall",
+    "fact": "The Moot Hall is the central building in Sheernobb, located on the largest hill, with wide stone steps leading to grand carved doors opening into the Feasting Hall, used for special gatherings.",
+    "source_quote": "The Moothall is in the center of Sheernobb on the largest hill. It boasts wide stone steps leading to grand stone doors carved with runes. These doors open into the Feasting Hall...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Grindin Books",
+    "fact": "Grindin Books is a dimly-lit bookshop housed in a small cottage, instantly recognizable by its cluttered display of books and maps in the windows and a studded oak door bearing the sign, \u201cWelcome to the Grindin Books.\u201d",
+    "source_quote": "Nestled within a small cottage, Grindin Books is instantly recognizable by the cluttered display of books and maps in its windows and a studded oak door bearing the welcoming sign, \u201cWelcome to the Grindin Books.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grindin Well-Read",
+    "fact": "Grindin Well-Read is a gnome bookkeeper who sits behind a counter in a plush reclining chair, with green-tinted candles positioned for comfortable reading. He is annoyed by intrusions and claims his invitation to a conference was stolen, not that he lacks merchandise.",
+    "source_quote": "My invitation to the conference was stolen! I didn\u2019t have the opportunity to reject the invitation!",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia, a spy, observes Grindin Well-Read and concludes that low-value merchants like booksellers are often the most well-connected. He is frustrated by Grindin\u2019s distraction but learns that Palsmarie Clee has information on the bandits.",
+    "source_quote": "Another ignorant fool.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Map of the Elemental Nexus",
+    "fact": "A book titled 'Map of the Elemental Nexus' is visible in Grindin Books. Zinnia recognizes its potential value for understanding the elemental planes.",
+    "source_quote": "His eyes catch the title of a book - Map of the Elemental Nexus.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Tavern",
+    "fact": "The Tavern is located on the southern branch of the road, just after the road into town ends.",
+    "source_quote": "The Tavern is on the south branch, just after the road coming into town ends.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Bookstore Branch",
+    "fact": "The northern branch of the road leads to the bookstore, Grindin Books, which is the destination Zephyr ultimately chooses after initially considering the southern route.",
+    "source_quote": "Zephyr remembers how a bookstore was on the northern branch.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Djinibac\u2019s Apothecary",
+    "fact": "Djinibac\u2019s Apothecary is one of the stores located along the southern branch of the road in Sheernobb.",
+    "source_quote": "He notes the stores: \u201cDjinibac\u2019s Apothecary, a Tabac Shop, Fiver Woodcarver, Peony\u2019s Mill, and would you look at that a pond, Henker\u2019s Shop, Naglo Crystal Divine Shop, and there is Grindin Books.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Tabac Shop",
+    "fact": "The Tabac Shop is one of the stores located along the southern branch of the road in Sheernobb.",
+    "source_quote": "He notes the stores: \u201cDjinibac\u2019s Apothecary, a Tabac Shop, Fiver Woodcarver, Peony\u2019s Mill, and would you look at that a pond, Henker\u2019s Shop, Naglo Crystal Divine Shop, and there is Grindin Books.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Fiver Woodcarver",
+    "fact": "Fiver Woodcarver is one of the stores located along the southern branch of the road in Sheernobb.",
+    "source_quote": "He notes the stores: \u201cDjinibac\u2019s Apothecary, a Tabac Shop, Fiver Woodcarver, Peony\u2019s Mill, and would you look at that a pond, Henker\u2019s Shop, Naglo Crystal Divine Shop, and there is Grindin Books.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Peony\u2019s Mill",
+    "fact": "Peony\u2019s Mill is one of the stores located along the southern branch of the road in Sheernobb.",
+    "source_quote": "He notes the stores: \u201cDjinibac\u2019s Apothecary, a Tabac Shop, Fiver Woodcarver, Peony\u2019s Mill, and would you look at that a pond, Henker\u2019s Shop, Naglo Crystal Divine Shop, and there is Grindin Books.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Henker\u2019s Shop",
+    "fact": "Henker\u2019s Shop is one of the stores located along the southern branch of the road in Sheernobb, near a pond.",
+    "source_quote": "He notes the stores: \u201cDjinibac\u2019s Apothecary, a Tabac Shop, Fiver Woodcarver, Peony\u2019s Mill, and would you look at that a pond, Henker\u2019s Shop, Naglo Crystal Divine Shop, and there is Grindin Books.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Naglo Crystal Divine Shop",
+    "fact": "Naglo Crystal Divine Shop is one of the stores located along the southern branch of the road in Sheernobb.",
+    "source_quote": "He notes the stores: \u201cDjinibac\u2019s Apothecary, a Tabac Shop, Fiver Woodcarver, Peony\u2019s Mill, and would you look at that a pond, Henker\u2019s Shop, Naglo Crystal Divine Shop, and there is Grindin Books.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Pond",
+    "fact": "A pond is located near Henker\u2019s Shop along the southern branch of the road in Sheernobb.",
+    "source_quote": "He notes the stores: \u201cDjinibac\u2019s Apothecary, a Tabac Shop, Fiver Woodcarver, Peony\u2019s Mill, and would you look at that a pond, Henker\u2019s Shop, Naglo Crystal Divine Shop, and there is Grindin Books.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Feasting Hall",
+    "fact": "The Feasting Hall is the largest building in Sheernobb, accessed through the Moot Hall\u2019s grand stone doors, and used for special gatherings.",
+    "source_quote": "These doors open into the Feasting Hall, the village\u2019s largest building, used for special gatherings.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Statue of Keenleene",
+    "fact": "A statue of Keenleene, Founder of Sheernobb, stands just before the entrance to the Moot Hall. It is made of ancient grey stone and comes to life with illusionary mischief.",
+    "source_quote": "Just before the entrance is a statue. Sequoia wants to look at it and approaches. At the statue's base, he reads a sign - \u201cKeenleene, Founder of Sheernobb!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Keenleene",
+    "fact": "Keenleene is an illusionary gnome spirit who manifests from his statue, laughing heartily, playing pipes, and winking at observers. He brings an undeniable sense of happiness and mirth.",
+    "source_quote": "Before his eyes, the stone figure of Keenleene transforms, coming to life with lifelike mischief... He picks up his pipes and starts playing a lively tune...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia, a halfling, observes Keenleene\u2019s illusion and concludes that gnomes are master illusionists who love putting on shows, prompting the group to proceed to the Moot Hall.",
+    "source_quote": "Gnomes are master illusionists. And they love to put on shows like this.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Moot Hall Doors",
+    "fact": "The grand stone doors of the Moot Hall are carved with runes reading 'Ni te pharkalu, quo lun verra lu,' which translates to 'If you see it, it\u2019s not the right it.'",
+    "source_quote": "These doors open into the Feasting Hall... with runes carved over the door \u2014 Ni te pharkalu, quo lun verra lu, with a helpful translation in common: \u201cIf you see it, it\u2019s not the right it.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Palsmarie Clee",
+    "fact": "Grindin Well-Read confirms that Palsmarie Clee has information on the bandits, providing a critical lead for Zinnia\u2019s investigation.",
+    "source_quote": "Grindin finally confirms that Palsmarie Clee has information on the bandits.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Stolen Conference Invitation",
+    "fact": "Grindin Well-Read claims his invitation to a conference was stolen, suggesting a possible link between high-profile disappearances and bandit activity in the region.",
+    "source_quote": "My invitation to the conference was stolen! I didn\u2019t have the opportunity to reject the invitation!",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Enchanted Wards for Caravans",
+    "fact": "Grindin Well-Read suggests employing enchanted wards and protective charms to deter bandit attacks, implying awareness of broader security failures in the region.",
+    "source_quote": "Enchanted wards and protective charms could be distributed to caravans to deter bandit attacks.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Keenleene\u2019s Illusion",
+    "fact": "The statue of Keenleene activates as an illusion, bringing laughter, music, and joy to all who witness it \u2014 an event that distracts but also reveals the town\u2019s deep ties to gnomish magic.",
+    "source_quote": "The enchantment brings an undeniable sense of happiness and amusement, captivating.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Gnomes of Sheernobb",
+    "fact": "Gnomes are recognized as master illusionists in Sheernobb, known for elaborate public performances and magical displays, as exemplified by Keenleene and Grindin Well-Read.",
+    "source_quote": "Gnomes are master illusionists. And they love to put on shows like this.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Planting 21, 579 Early Afternoon",
+    "fact": "All events occur on Planting 21, 579, in the early afternoon, marking a single day of investigation and discovery in Sheernobb.",
+    "source_quote": "Planting 21, 579 Early Afternoon",
+    "quote_verified": true
+  }
+]

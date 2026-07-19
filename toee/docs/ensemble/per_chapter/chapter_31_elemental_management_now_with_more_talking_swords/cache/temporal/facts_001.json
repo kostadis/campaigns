@@ -1,0 +1,163 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
+    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "An hour passes between two events in the session.",
+    "source_quote": "An hour later",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
+    "source_quote": "four chasme and two vrock",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "Sloobludop is approximately eight days away via the Darklake.",
+    "source_quote": "the town of Sloopdopblop is just eight days away",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
+    "source_quote": "Drow outpost was 100' in the sky",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "frostbrand sword",
+    "fact": "The cold magical sword named Frostbrand was found in a fire pit and is sentient, having been imprisoned since Emridy Meadows.",
+    "source_quote": "A magical sword in the box. Cold to the touch. ... It said yes. ... Frostbrand. ... Since Emridy Meadows.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "salamander surrender",
+    "fact": "The salamander knelt and set its flaming spear down, offering a contract in exchange for knowledge about the Greater Temple.",
+    "source_quote": "It stopped. It knelt. It set its flaming spear down on the stone. ... A contract. ... it knows things. About the Greater Temple.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "fire temple contract",
+    "fact": "The contract offered by the salamander contained clauses seeking soul ownership, which Zephyr struck out before signing with his blood.",
+    "source_quote": "The moment Zephyr touched it, the script rearranged itself ... The ones that buy a piece of the signer along with his signature. He struck them out. Soul, ownership ... He cut himself and signed.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "calmer's false prophet claim",
+    "fact": "Calmer demanded to be called 'the Prophet of the Earth Temple' despite not being a true cleric of that faith, revealing his identity crisis.",
+    "source_quote": "Calmer chose the moment before the lock to demand we start calling him the Prophet, the Prophet Calmer, the Prophet of the Earth Temple.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "zinnia exposes calmer's deception",
+    "fact": "Zinnia directly told Calmer he was not a real cleric of the Earth Temple, exposing the gap between his performance and his true self.",
+    "source_quote": "You're not a real cleric for the Earth Temple.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "fire temple throne room",
+    "fact": "The Fire Temple's throne room contained a red-and-gilt wooden throne with a gold skull on the back, occupied by the defeated former commander.",
+    "source_quote": "A huge wooden seat, red and gilt, with a gold skull leering off the back. A throne, in other words. ... The somebody was still in it. ... the former commander of the Fire Temple forces, sitting in the ruin of his own authority.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "fire resistance items",
+    "fact": "The chest contained two potions, a ring, and a sword \u2014 all granting resistance to fire, with the sword being unnaturally cold.",
+    "source_quote": "Inside: two potions that promised to turn flame aside. A ring that did the same. ... one more \u2014 a sword, cold to the touch, wrong in this room full of heat.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "frostbrand chooses sequoia",
+    "fact": "The sentient sword Frostbrand selected Sequoia as its wielder, declaring him 'exactly what I was looking for' despite his neutral alignment.",
+    "source_quote": "It looked at me. Also a possibility. And then it looked at Calmer ... and instead it came back to me. 'You, you are exactly what I was looking for.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "frostbrand names calmer as st. cuthbert's",
+    "fact": "Frostbrand aloud named Calmer as 'St. Cuthbert's,' a death sentence in the temple, forcing Zephyr and Zinnia to intervene.",
+    "source_quote": "Then it caught Calmer. Named him for St. Cuthbert's, out loud, in a temple where that name is a death sentence.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "zephyr shakes hand with salamander",
+    "fact": "Zephyr shook hands with the salamander despite knowing it would burn him, accepting the cost to seal the pact.",
+    "source_quote": "He took it anyway. 'I will die sooner,' he said, and closed his hand around the salamander's.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "salamander identifies vorkal as jailor",
+    "fact": "Frostbrand recognized the salamander Vorkal as its former jailor from Emridy Meadows and demanded satisfaction.",
+    "source_quote": "It saw the salamander. ... Old jailor, old prisoner. ... It had been the one trapped in the box, with Vorkal as its guard, the whole time.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "fire temple treasure chest",
+    "fact": "The chest contained fire-resistant items and Frostbrand, protected by a blade trap that missed Sequoia due to his speed.",
+    "source_quote": "Sequoia opened the box. A blade cut the air where his throat would have been and found nothing \u2014 his hands had already moved him clear.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "zephyr signs contract with blood",
+    "fact": "Zephyr signed the salamander's contract by cutting himself, sealing the agreement with his blood after removing soul-binding clauses.",
+    "source_quote": "Zephyr cut himself and signed. Then he put out his hand to shake \u2014 into a creature that would burn him for the contact.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "fire temple inner sanctum",
+    "fact": "The Fire Temple's inner sanctum was a chamber of reds, oranges, and yellows, decorated with tapestries celebrating elemental fire's triumph.",
+    "source_quote": "The chamber beyond was a hot, bright thing \u2014 reds and oranges and yellows, torchlight on lacquered wood, tapestries celebrating the triumph of elemental fire across every wall.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "calmer defers to zinnia",
+    "fact": "Calmer, after being challenged by Zinnia, deferred to her judgment on whether he was going too deep, acknowledging her as a professional spy.",
+    "source_quote": "He looked at me for a moment. Then he deferred \u2014 said I understood the art of spying, that if I told him he was going too deep, he would believe me.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "zephyr claims initiative",
+    "fact": "Zephyr volunteered to open the secret door north, which Calmer approved of as an example of taking initiative.",
+    "source_quote": "The secret door opened north, and Zephyr volunteered to do the opening, which I approved of. A man should take initiative.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "frostbrand demands vengeance",
+    "fact": "Frostbrand declared that it and Sequoia would defeat the evil of the Temple of Elemental Evil and have their vengeance.",
+    "source_quote": "It announced that the two of us would sneak around and kill creatures, that we would defeat the evil of the Temple of Elemental Evil and have our vengeance, on and on.",
+    "quote_verified": false
+  }
+]

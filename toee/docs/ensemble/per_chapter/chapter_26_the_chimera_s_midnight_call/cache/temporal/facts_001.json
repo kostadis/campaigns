@@ -1,0 +1,205 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 11th day of Mar 2026.",
+    "source_quote": "Date: Mar 11th, 2026",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
+    "source_quote": "the guttural roar of a lion twisted together with the frantic, deranged bleating of a giant goat",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "Sloobludop is approximately eight days away via the Darklake.",
+    "source_quote": "the town of Sloopdopblop is just eight days away",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
+    "source_quote": "Drow outpost was 100' in the sky",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "chimera chain",
+    "fact": "The heavy iron collar and dragging chains used to control the beast are stamped with the marks of Nulb's River Pirates, revealing that someone in Nulb was paid to deliver the monster to the temple.",
+    "source_quote": "The heavy iron collar and chains used to control the beast were stamped with the marks of Nulb's River Pirates",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "gold amulet value",
+    "fact": "A heavy gold amulet bearing the eight-pointed symbol of the Fire Temple was found on the warlock.",
+    "source_quote": "A heavy gold amulet depicting the eight-pointed symbol of the Fire Temple is found on the warlock.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "potion of fire resistance",
+    "fact": "A potion of fire resistance was recovered, which the warlock had apparently intended to use but never reached for in the chaos.",
+    "source_quote": "A potion of fire resistance is recovered, which the warlock had apparently intended to use but never reached for in the chaos.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "masterwork whip",
+    "fact": "A masterwork whip woven with alchemically treated red leather was found among the warlock's belongings.",
+    "source_quote": "A masterwork whip woven with alchemically treated red leather is found among the warlock's belongings.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "ledger of purchase",
+    "fact": "A wax-sealed ledger bearing the crest of a crimson ship \u2014 a bill of sale from Captain Varsik of the Crimson Trader \u2014 details the purchase of the Chimera paid in full by the Fire Temple.",
+    "source_quote": "A wax-sealed ledger bore the crest of a crimson ship \u2014 a bill of sale from Captain Varsik of the Crimson Trader, detailing the purchase of the Chimera paid in full by the Fire Temple.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Hartsch's ambition",
+    "fact": "Hartsch implies he would be willing to take command if a position were to 'suddenly open itself', signaling to the party that he wants them to remove Romag.",
+    "source_quote": "I would always, if a position were to suddenly have opened itself, I would absolutely like to think that my faith and my leadership qualities would be considered.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia's deception",
+    "fact": "Zinnia uses deception to suggest to Hartsch that he would be a superior leader to Romag.",
+    "source_quote": "Zinnia uses deception to suggest to Hartsch that he would be a superior leader to Romag.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "party's quarters",
+    "fact": "The room where the party attempted to take a long rest, featuring a southern door and a secret door. The Chimera smashed through the door here, leading to a desperate struggle, and the room later served as a private meeting place with Hartsch.",
+    "source_quote": "The room where the party attempted to take a long rest, featuring a southern door and a secret door.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "romag's chambers",
+    "fact": "The command center for the Earth Temple where Romag and Hartsch coordinate their forces. The party reported the chimera attack here and received orders to deal with Alrrem.",
+    "source_quote": "The command center for the Earth Temple where Romag and Hartsch coordinate their forces.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "fire temple warlock",
+    "fact": "A servant of Alrrem who led a Chimera on a chain to assassinate the party. He used magical blasts and commanded the beast until Zephyr disarmed him of the chain. He was ultimately slain by Zinnia.",
+    "source_quote": "A servant of Alrrem who led a Chimera on a chain to assassinate the party. He used magical blasts and commanded the beast until Zephyr disarmed him of the chain. He was ultimately slain by Zinnia.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "chimera",
+    "fact": "A horrific multi-headed monstrosity with the features of a lion, a goat, and a dragon, imported by the Fire Temple at great expense to destroy the party. It went on a mindless rampage after being freed from its chains and was ultimately slain by Calmer's necrotic magic.",
+    "source_quote": "A horrific multi-headed monstrosity with the features of a lion, a goat, and a dragon, imported by the Fire Temple at great expense to destroy the party. It went on a mindless rampage after being freed from its chains and was ultimately slain by Calmer's necrotic magic.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "bugbear",
+    "fact": "A guard or observer who attempted to intervene in the chaos by pointing a weapon at the Chimera, but was caught in the beast's devastating breath attack.",
+    "source_quote": "A bugbear attempts to distract the Chimera by pointing a weapon at it, but the beast unleashes a devastating breath attack on both the warlock and the bugbear.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "calmer",
+    "fact": "A cleric and party member who healed fallen companions and ultimately slew the Chimera. His companions grew concerned that he may be genuinely embracing his Earth Temple cover identity rather than simply acting.",
+    "source_quote": "A cleric and party member who healed fallen companions and ultimately slew the Chimera. His companions grew concerned that he may be genuinely embracing his Earth Temple cover identity rather than simply acting.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "romag",
+    "fact": "The leader of the Earth Temple who prefers to lead from behind, viewing himself as a chess king who sends others to fight his battles. He ordered the party to deal with Alrrem after hearing of the chimera attack.",
+    "source_quote": "The leader of the Earth Temple who prefers to lead from behind, viewing himself as a chess king who sends others to fight his battles. He ordered the party to deal with Alrrem after hearing of the chimera attack.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "hartsch",
+    "fact": "Romag's sub-general and speaker who provided the party with tactical information and maps. He revealed the political landscape of the temples and subtly signaled his desire for the party to remove Romag from power so he could take command.",
+    "source_quote": "Romag's sub-general and speaker who provided the party with tactical information and maps. He revealed the political landscape of the temples and subtly signaled his desire for the party to remove Romag from power so he could take command.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "alrrem",
+    "fact": "The leader of the Fire Temple, currently weakened after losing his werewolves and his expensive chimera asset. He was originally the leader of the temples in the great battle of Emridy Meadows and has been struggling to hold power since.",
+    "source_quote": "The leader of the Fire Temple, currently weakened after losing his werewolves and his expensive chimera asset. He was originally the leader of the temples in the great battle of Emridy Meadows and has been struggling to hold power since.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "belsornig",
+    "fact": "The Prophet and head of the Water Temple, suspected by Hartsch of being a cunning manipulator who arranged the chimera purchase through his ally Vesrek as a win-win scheme against both the Fire and Earth temples.",
+    "source_quote": "Vesrek, an ally of Belsornig the prophet of the Water Temple, was the one who arranged the chimera purchase \u2014 suggesting the Water Temple manipulated the situation as a win-win.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "kelno",
+    "fact": "The Prophet of the Air Temple, dismissed by Hartsch as a joke with very little remaining power or territory, reduced to a few rooms within the temple.",
+    "source_quote": "The Prophet of the Air Temple, dismissed by Hartsch as a joke with very little remaining power or territory, reduced to a few rooms within the temple.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "vesrek",
+    "fact": "An ally of Belsornig, the Water Temple prophet, who is identified in the ledger as the one who arranged the purchase of the chimera for the Fire Temple through Captain Varsik of the Crimson Trader.",
+    "source_quote": "Vesrek, an ally of Belsornig the prophet of the Water Temple, was the one who arranged the chimera purchase \u2014 suggesting the Water Temple manipulated the situation as a win-win.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "chimera's rampage",
+    "fact": "The Chimera unleashed a devastating breath of fire upon both the warlock and a nearby bugbear who had tried to intervene, scorching them badly.",
+    "source_quote": "The Chimera unleashed a devastating breath of fire upon both the warlock and a nearby bugbear who had tried to intervene, scorching them badly.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "zephyr's chain snatch",
+    "fact": "Zephyr slips past the rampaging Chimera and rips the control chain from the Fire Temple warlock's hands, sending the beast into an uncontrolled frenzy.",
+    "source_quote": "Zephyr slips past the rampaging Chimera and rips the control chain from the Fire Temple warlock's hands, sending the beast into an uncontrolled frenzy.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "calmer's final blow",
+    "fact": "Calmer invokes necrotic power, finally slaying the Chimera as it stands over the fallen party members.",
+    "source_quote": "Calmer invokes necrotic power, finally slaying the Chimera as it stands over the fallen party members.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "zinnia's final strike",
+    "fact": "Zinnia silenced him permanently with a flurry of devastating blows, leaving the Fire Temple's champion dead on the stone floor.",
+    "source_quote": "Zinnia silenced him permanently with a flurry of devastating blows, leaving the Fire Temple's champion dead on the stone floor.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "three-way war plan",
+    "fact": "The party quietly agreed that the time for subtlety was nearly over, planning to assassinate Romag, install Hartsch as the Earth Temple's new leader, and engineer a three-way war between the Earth, Fire, and Water temples to destroy all three factions from within.",
+    "source_quote": "The party quietly agreed that the time for subtlety was nearly over.",
+    "quote_verified": false
+  }
+]

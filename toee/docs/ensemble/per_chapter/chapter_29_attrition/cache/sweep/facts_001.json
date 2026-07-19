@@ -1,0 +1,233 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is referenced by the wraith as the authority who triggered the battle and supplied the bodies that became minions.",
+    "source_quote": "You provided me so much tasty food! Food!",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "The Wraith",
+    "fact": "The wraith is currently the only entity in the room willing to talk, having feasted on bodies we were responsible for and raised seven specters from them.",
+    "source_quote": "I now have minions.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Greater Temple",
+    "fact": "The Greater Temple is sealed until the battle is over, with something braced or barricaded on the other side preventing entry.",
+    "source_quote": "The Greater Temple is sealed until the battle is over. No one gets in, no one gets out.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Water Temple",
+    "fact": "The Water Temple door has burn marks on it, and it had tried to force an entry and failed, or stopped, or been stopped.",
+    "source_quote": "The Water Temple door had burn marks on it.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Fire Temple",
+    "fact": "The Fire Temple had tried to force an entry and failed, or stopped, or been stopped.",
+    "source_quote": "The Fire Temple had tried to force an entry and failed, or stopped, or been stopped.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Air Temple",
+    "fact": "The Air Temple was the weakest, with thin guard and thinner walls, and its treasure was targeted for looting.",
+    "source_quote": "Who's the strongest? The Water Temple. The weakest is the Air Temple.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple was the faction holding its own ground but had suffered disproportionate losses, with fewer soldiers than expected and a commander who had stopped pretending to be in charge.",
+    "source_quote": "The number was wrong. Not collapse-of-the-faction wrong, but wrong enough that I counted them twice.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Hartsch",
+    "fact": "Hartsch is the Earth Temple commander who inherited the war, lost confidence, and sent the Broken Blades to attack without consultation.",
+    "source_quote": "I couldn't wait! I sent the Broken Blades to attack!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Voice Behind the Door",
+    "fact": "The Voice Behind the Door claims to represent the Greater Temple, stating that it is the deep temple and the people who are really in charge.",
+    "source_quote": "The Greater Temple is the deep temple. It's the people who are really in charge.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Seven Specters",
+    "fact": "Seven specters were raised from bodies we were responsible for, mostly Earth Temple forces, with recognizable robes, insignia, and silhouettes.",
+    "source_quote": "Seven specters. Raised from bodies we were responsible for.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "The Note",
+    "fact": "The note left by Hartsch reads 'I couldn't wait! I sent the Broken Blades to attack!' and is written in his own hand.",
+    "source_quote": "I couldn't wait! I sent the Broken Blades to attack!",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Broken Blades",
+    "fact": "The Broken Blades are the men recruited by the Obsidian Edge whose lives are now in the hands of a panicking quartermaster who acted without consultation.",
+    "source_quote": "The men whose lives were now sitting in the hands of a panicking quartermaster who couldn't decide where to put a chair.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Romag's Room",
+    "fact": "Romag's Room is the special room in the Earth Temple where the Obsidian Edge slept, untouched by others, because it was the dead man's quarters.",
+    "source_quote": "Zephyr wanted the Romag room. The dead man's quarters, the one place in this building nobody would think to bother us.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia is referenced by the narrator as having said 'Lucky me' in response to the wraith's actions, and later observed Hartsch's psychological collapse.",
+    "source_quote": "Sequoia said, 'Lucky me.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The Sealing of the Greater Temple",
+    "fact": "The Greater Temple sealed the lesser temples and waited for the battle to end, trapping everyone inside.",
+    "source_quote": "The Greater Temple seals the lesser temples and waits for the battle to end.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Hartsch's Unauthorized Attack",
+    "fact": "Hartsch sent the Broken Blades to attack without consultation, abandoning his command post and leaving a note that read 'I couldn't wait!'",
+    "source_quote": "I couldn't wait! I sent the Broken Blades to attack!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The Wraith's Rise to Collegiality",
+    "fact": "The wraith shifted from menacing entity to peer-like conversationalist after being acknowledged by name and offered an audience.",
+    "source_quote": "I gave it that. I could feel the room tilt: the wraith no longer performing menace but something closer to collegial warmth.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The War Council at Earth Temple",
+    "fact": "The war council concluded that the Air Temple was weakest, the Water Temple strongest, and the Fire Temple next, leading to a plan to attack Air first.",
+    "source_quote": "Who's the strongest? The Water Temple. The weakest is the Air Temple. The next is the Fire Temple.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Obsidian Edge",
+    "fact": "The Obsidian Edge is the faction that engineered the war from beneath Hartsch and now holds the authority to decide its next moves.",
+    "source_quote": "The people who had engineered this situation from underneath him.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "Romag is the former leader whose passive strategy is invoked by Hartsch as a point of shame and borrowed authority.",
+    "source_quote": "But that\u2026 but that is Romarg's passive strategy!",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "The Door",
+    "fact": "The door to the Greater Temple is held from the other side by something braced, barricaded, or committed to not opening, and it responds with a voice that speaks for the Greater Temple.",
+    "source_quote": "Something held it from the other side: braced, or barricaded, or committed to not opening.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The Specters' Materialization",
+    "fact": "Seven specters materialized one by one, counted aloud by the wraith, mostly from Earth Temple forces with recognizable insignia and robes.",
+    "source_quote": "One, two, three. Four, five. Mostly Earth Temple forces. I recognized the remnants of robes, the insignia, the general silhouette...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is the individual who repeatedly declares 'I can kill him!' and attacks the door with hammering, achieving noise but no tactical elegance.",
+    "source_quote": "I can kill him! I can kill him, I can so totally kill him!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The Wraith's Laughter at Calmer's Hammering",
+    "fact": "The wraith found Calmer's hammering at the door very funny, reinforcing his perception of the group as 'poor little fools'.",
+    "source_quote": "The wraith found this very funny.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The Decision to Camp",
+    "fact": "The group decided not to camp, instead resolving to leave and return later, after realizing they were trapped and the wraith had already won.",
+    "source_quote": "Why don't we camp out next door?\" I said. Nobody moved toward camping.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Stairwell",
+    "fact": "The stairwell leading to the second level of the Earth Temple is where the group emerged to find six guards reading their return as a threat.",
+    "source_quote": "The arrowheads were the first thing I saw. Two positions, six guards, all of them reading our emergence from the stairwell as a threat.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The Transfer of Authority to Zephyr",
+    "fact": "Hartsch transferred authority to Zephyr by asking 'What do we do next?' after failing to maintain command during the war.",
+    "source_quote": "What do we do next?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Tiefling",
+    "fact": "The tiefling kept walking after the wraith's final declaration, accepting the terms of survival and the promise of entry to the Greater Temple.",
+    "source_quote": "The tiefling kept walking.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The Wraith's Final Declaration",
+    "fact": "The wraith declared his confidence in the outcome, saying 'I can't wait till you come back here! I will be waiting!' with absolute warmth.",
+    "source_quote": "I can't wait till you come back here! I will be waiting!",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The War Room",
+    "fact": "The war room smells like men who hadn't slept, and is where Hartsch asked what to do next like a man who'd never answered that question.",
+    "source_quote": "The war room smelled like men who hadn't slept.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "The Note",
+    "fact": "The note left by Hartsch is written in his own hand and reads 'I couldn't wait! I sent the Broken Blades to attack!'",
+    "source_quote": "I couldn't wait! I sent the Broken Blades to attack!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The Recognition of Hartsch's Psychological Collapse",
+    "fact": "The narrator recognized Hartsch's psychological collapse when he stopped pretending to be in charge and asked for guidance.",
+    "source_quote": "The moment when a man who has been pretending to be in charge finally stops pretending.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia is the narrator who counts soldiers, recognizes Hartsch's collapse, and identifies the note as something she has lived inside of.",
+    "source_quote": "I know that man. I've redistributed treasure when nobody was looking. I've taken quests without asking the others. I've decided, on my own, in the dark, that I knew better than the people standing next to me.",
+    "quote_verified": true
+  }
+]

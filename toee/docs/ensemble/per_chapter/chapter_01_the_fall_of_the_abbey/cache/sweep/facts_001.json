@@ -1,0 +1,219 @@
+[
+  {
+    "type": "faction",
+    "subject": "Narwell Caravan",
+    "fact": "The Narwell Caravan was hired by the merchants of Narwell to escort a small merchant caravan into the Gnarley Forest.",
+    "source_quote": "The Narwell Caravan: Hired by the merchants of Narwell, the party escorted a small merchant caravan into the Gnarley Forest",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Gnarley Forest",
+    "fact": "The Narwell Caravan traveled into the Gnarley Forest.",
+    "source_quote": "the party escorted a small merchant caravan into the Gnarley Forest",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "ogre",
+    "fact": "An ogre with 59 hit points blocked the caravan's path in the Gnarley Forest.",
+    "source_quote": "a massive ogre demanding payment for safe passage. Rather than engaging the 59-hit-point brute",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "bypassing the ogre",
+    "fact": "The party bypassed the ogre using copper bribes and intimidation.",
+    "source_quote": "the party successfully bypassed the threat through a combination of copper bribes and intimidation",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jijohn",
+    "fact": "Jijohn is an eccentric, wizened gnome tinkerer.",
+    "source_quote": "an eccentric, wizened gnome tinkerer named Jijohn",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jijohn",
+    "fact": "Jijohn is also called 'Gee John'.",
+    "source_quote": "named Jijohn (or \"Gee John\")",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jijohn",
+    "fact": "Jijohn warned the party about organized forces backing the bandits.",
+    "source_quote": "The gnome offered cryptic warnings about the organized forces backing the bandits",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "crushing of the Temple of Elemental Evil",
+    "fact": "Jijohn recounted the crushing of the Temple of Elemental Evil ten years prior.",
+    "source_quote": "recounted the crushing of the Temple of Elemental Evil ten years prior",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Burne",
+    "fact": "Jijohn advised the party to seek out Burne upon reaching Hommlet.",
+    "source_quote": "advised the party to seek out Burne and Rufus upon reaching Hommlet",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Rufus",
+    "fact": "Jijohn advised the party to seek out Rufus upon reaching Hommlet.",
+    "source_quote": "advised the party to seek out Burne and Rufus upon reaching Hommlet",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Abbey of Allitur",
+    "fact": "The bandit stronghold was the ruined Abbey of Allitur.",
+    "source_quote": "the bandit stronghold\u2014the ruined Abbey of Allitur",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is a rogue who participated in the stealth assault on the Abbey of Allitur.",
+    "source_quote": "the rogues (Zephyr and Sequoia) and the masked monk (Zinia) executed a flawless, stealth-based assault",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia is a rogue who participated in the stealth assault on the Abbey of Allitur.",
+    "source_quote": "the rogues (Zephyr and Sequoia) and the masked monk (Zinia) executed a flawless, stealth-based assault",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia is a masked monk who participated in the stealth assault on the Abbey of Allitur.",
+    "source_quote": "the rogues (Zephyr and Sequoia) and the masked monk (Zinia) executed a flawless, stealth-based assault",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "assault on the lower levels of the Abbey",
+    "fact": "Zephyr, Sequoia, and Zinia executed a stealth-based assault on the lower levels of the Abbey of Allitur.",
+    "source_quote": "executed a flawless, stealth-based assault on the lower levels",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "slaughter of bandits",
+    "fact": "The party slaughtered the unsuspecting bandits in a flurry of sneak attacks before the alarm could be raised.",
+    "source_quote": "slaughtering the unsuspecting bandits in a flurry of sneak attacks before the alarm could be raised",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Urot",
+    "fact": "Urot is an orc cook who was cornered by the party in the kitchen.",
+    "source_quote": "the party cornered the orc cook, Urot",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Urot",
+    "fact": "Urot confessed that the bandit leader Snej was an operative receiving resources from Canon Belsornig.",
+    "source_quote": "she confessed that the bandit leader, Snej (referred to as \"Snige\"), was no mere outlaw, but an operative receiving resources from a \"big shot\" within the Temple of Evil: Canon Belsornig",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Snej",
+    "fact": "Snej is the bandit leader, also referred to as \"Snige\".",
+    "source_quote": "the bandit leader, Snej (referred to as \"Snige\")",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Canon Belsornig",
+    "fact": "Canon Belsornig is a \"big shot\" within the Temple of Evil who provides resources to Snej.",
+    "source_quote": "an operative receiving resources from a \"big shot\" within the Temple of Evil: Canon Belsornig",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Temple of Evil",
+    "fact": "Canon Belsornig is a figure within the Temple of Evil.",
+    "source_quote": "within the Temple of Evil: Canon Belsornig",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "ruined chapel of the Abbey",
+    "fact": "The ruined chapel of the Abbey contained defaced frescos of the god Allitur.",
+    "source_quote": "In the ruined chapel of the Abbey, amidst defaced frescos of the god Allitur",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Airgid",
+    "fact": "Airgid is a captive baby silver dragon chained to a statue in the ruined chapel.",
+    "source_quote": "the party discovered a captive baby silver dragon named Airgid. Chained to a statue",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Airgid",
+    "fact": "Airgid explained her mother was in the Lortmil Mountains.",
+    "source_quote": "the ravenous hatchling explained her mother was in the Lortmil Mountains",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Lortmil Mountains",
+    "fact": "Airgid's mother is located in the Lortmil Mountains.",
+    "source_quote": "her mother was in the Lortmil Mountains",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "agreement to escort Airgid",
+    "fact": "The party agreed to escort Airgid to Hommlet to plan a reunion with her mother.",
+    "source_quote": "The party agreed to escort her to Hommlet to plan a reunion",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "giant spider",
+    "fact": "A giant spider lurked in the collapsed roof of a guest room in the Abbey.",
+    "source_quote": "a giant spider lurking in the collapsed roof of a guest room",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "dispatching the giant spider",
+    "fact": "The party dispatched the giant spider in mere seconds.",
+    "source_quote": "The party dispatched a giant spider lurking in the collapsed roof of a guest room in mere seconds",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "dust of disappearance",
+    "fact": "The party liberated a vial of dust of disappearance from the bandits' hidden cache.",
+    "source_quote": "claiming 123 gold pieces, *dust of disappearance*, and a *bag of holding*",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "bag of holding",
+    "fact": "The party liberated a bag of holding from the bandits' hidden cache.",
+    "source_quote": "claiming 123 gold pieces, *dust of disappearance*, and a *bag of holding*",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "raiding the bandit hoard",
+    "fact": "The party raided the bandits' hidden cache and claimed 123 gold pieces, dust of disappearance, and a bag of holding.",
+    "source_quote": "Raiding the bandits' hidden cache, the party liberated a substantial hoard of treasure, claiming 123 gold pieces, *dust of disappearance*, and a *bag of holding*",
+    "quote_verified": true
+  }
+]

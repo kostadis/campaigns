@@ -1,0 +1,93 @@
+[
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "Romag is the leader of the Earth Temple who recognized the party's wisdom, bestowed badges of the Earth Temple, and later discovered Lieutenant Krell was a spy under surveillance. He commanded the party to capture Krell alive for sacrifice.",
+    "source_quote": "Romag declared he had known the lieutenant was a spy and had kept him under watch.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Lieutenant Krell",
+    "fact": "Lieutenant Krell is a traitor who falsely delivered a mission to raid the Fire Temple, manipulated the party into killing an Earth Temple ogre, and was subsequently revealed as a spy. He is now the target of a hunt ordered by Romag.",
+    "source_quote": "The party realized the most likely culprit was Lieutenant Krell himself.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a former cleric of Saint Cuthbert who converted to the Earth Temple and swayed other guards with his declaration, establishing credibility for the Temple's righteousness.",
+    "source_quote": "Calmer boldly claimed to be a former cleric of Saint Cuthbert who had converted to the Earth Temple\u2019s cause.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple is a faction led by Romag that opposes the Fire Temple, recruits converts like Calmer and the party, and is currently embroiled in violent territorial conflict with the Fire Temple. Its members include gnolls and an ogre who was betrayed.",
+    "source_quote": "Earth Temple gnolls occupied one area while Fire Temple gnolls held another, and the rivals periodically clashed in brutal combat.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Fire Temple",
+    "fact": "The Fire Temple is a rival faction to the Earth Temple, having seized part of their level and holding territory occupied by Fire Temple gnolls. They are the stated target of the party's raid, but were manipulated into being blamed for the ogre's death.",
+    "source_quote": "The Fire Temple had seized a portion of their level, and the party was to raid them, killing as many as they could.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "ogre",
+    "fact": "The ogre was a member of the Earth Temple, mistakenly killed by the party during a raid meant for the Fire Temple. Its death exposed the betrayal and revealed the setup orchestrated by Lieutenant Krell.",
+    "source_quote": "a terrible realization dawned on them\u2014the ogre was a member of the Earth Temple, not the Fire Temple.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "bunk rooms",
+    "fact": "The bunk rooms are where the party rested alongside other guards, including Calmer, after receiving badges from Romag and before the mission to the Fire Temple.",
+    "source_quote": "That night, the party rested in the bunk rooms with the other guards.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "guest chamber",
+    "fact": "The guest chamber was once a plush room but had become dirty and cluttered, serving as the site where the party surprised and killed the Earth Temple ogre, triggering the revelation of betrayal.",
+    "source_quote": "They entered a chamber that had once been a plush guest chamber but was now dirty and cluttered.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "ogre's death",
+    "fact": "The ogre's death was a false flag operation designed to turn the party against the Fire Temple. It exposed the betrayal and led to the party's confrontation with Romag and the hunt for Krell.",
+    "source_quote": "Someone had set them up, and the most likely culprit was Lieutenant Krell himself.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Krell's exposure",
+    "fact": "Lieutenant Krell was exposed as a spy after the party discovered the ogre was Earth Temple-aligned and Romag confirmed he had been under surveillance. This led to a new mission to capture Krell alive.",
+    "source_quote": "Romag listened to their account, and his rage became palpable as he declared he had known the lieutenant was a spy.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "hunt for Krell",
+    "fact": "The party now faces a new mission: hunting down Lieutenant Krell alive to deliver him to Romag for sacrifice. His betrayal and the treacherous politics of the Temple of Elemental Evil make trust a dangerous commodity.",
+    "source_quote": "The party now faced a new mission: hunting down a cunning spy who had nearly gotten them killed, knowing that the treacherous politics of the Temple of Elemental Evil made trust a dangerous commodity.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "badges of the Earth Temple",
+    "fact": "Badges of the Earth Temple were bestowed upon the party by Romag as proof of their worth and as symbols of their acceptance among his followers.",
+    "source_quote": "He handed them badges of the Earth Temple, declaring they had proven their worth.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "next morning",
+    "fact": "The next morning marks the time when Lieutenant Krell appeared with the mission to raid the Fire Temple, initiating the chain of events leading to the ogre's death and the party's betrayal.",
+    "source_quote": "The next morning, Lieutenant Krell appeared with a mission from Romag.",
+    "quote_verified": true
+  }
+]

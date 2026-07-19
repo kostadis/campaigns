@@ -1,0 +1,639 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session takes place on Planting 18, 579.",
+    "source_quote": "## Date: Planting 18, 579",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session continues on Planting 19, 579.",
+    "source_quote": "## Date: Planting 19, 579",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "moathouse lower level",
+    "fact": "The lower level of the moathouse contains a staircase next to the great hall.",
+    "source_quote": "A staircase is next to the great hall, where we faced brigands who may or may not have been aligned with the Temple of Elemental Evil.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "moathouse lower level",
+    "fact": "The lower level of the moathouse has a storage area with torn sacks, broken barrels, and shattered weapons racks.",
+    "source_quote": "There are a few torn sacks, broken barrels, and shattered weapons racks. This was once a storage place and armory for the fortress.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "moathouse eastern storeroom",
+    "fact": "The eastern room of the lower level has greased door hinges and an ogre's nest.",
+    "source_quote": "The door hinges are greased... I look inside the Ogre\u2019s nest and discover a magical cloak of elvenkind.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "moathouse southern hallway",
+    "fact": "The southern hallway is 50 feet long with three pillars 20 feet apart and a passageway leading east.",
+    "source_quote": "The hallway is 50 feet long and runs north-south. Three pillars are 20 feet apart, and a passageway leads east.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "moathouse western prison doors",
+    "fact": "Five prison-like doors on the western wall of the southern hallway are rotten and no longer functional.",
+    "source_quote": "Five doors are on the western wall. They look like they haven\u2019t been opened in a long time. Something like prison doors designed to keep people in. Well, those doors are so rotten that they won\u2019t keep anyone in anymore.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Emiry Meadows",
+    "fact": "The tower near Emiry Meadows contains a summoning circle and mural on its floor.",
+    "source_quote": "Looking inside, I see permanent markings on the floor for a summoning circle and mural.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Druid's grove",
+    "fact": "The Druid meets the party in his grove to discuss the brigands and Temple of Elemental Evil.",
+    "source_quote": "The Druid meets us in his grove, his greybeard flowing, and listens to me...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Village Elder's house",
+    "fact": "The Village Elder's house is the location of the meeting with Burne, Rufus, Jaroo, and Ostler.",
+    "source_quote": "I will be in the Village Elder's house\u2014the same room where we met with him last time.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Inn of the Welcome Wench",
+    "fact": "The Inn of the Welcome Wench is where Zinia meets Spugnoir and Ostler.",
+    "source_quote": "So when we walk into the Inn of the Welcome Wench, the magic user Spugnoir seems particularly pleased that the cleric is not with us.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "cloak of elvenkind",
+    "fact": "A magical cloak of elvenkind is found in the ogre's nest.",
+    "source_quote": "I look inside the Ogre\u2019s nest and discover a magical cloak of elvenkind.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "ring",
+    "fact": "The gnome Jarran gives the party a ring before leaving the moathouse.",
+    "source_quote": "The gnome is still sitting there and hands us a ring.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "magic circle formula",
+    "fact": "The tower contains the formula for a magic circle inscribed on the floor.",
+    "source_quote": "Spugnoir, peaking over my shoulder, says, \u201cIt contains the formula for a magic circle.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "green slime",
+    "fact": "A blob of green slime hangs over the arch at the bottom of the stairwell in the moathouse.",
+    "source_quote": "I noticed, just in time, the blob of green slime hanging over the arch at the bottom of the stairwell.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "green slime",
+    "fact": "The green slime lands on Calmer and eats through his armor.",
+    "source_quote": "a blob of green slime lands on him. And he starts squealing... the slime ate through it.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "ogre",
+    "fact": "An ogre named Lubash attacks the party at the eastern door of the moathouse.",
+    "source_quote": "Standing at the now-open eastern door is an ogre. \u201cYou are not members of the temple! You are food!\u201d And it swings it\u2019s club.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "ogre",
+    "fact": "The ogre Lubash is killed by the party in the eastern room of the moathouse.",
+    "source_quote": "With the dead carcass lying in the doorway, I enter carefully into the room beyond.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "zombie",
+    "fact": "Zombies emerge from the rotten prison doors in the southern hallway of the moathouse.",
+    "source_quote": "\u201cZombies!\u201d... they aren\u2019t saying anything. But what happens is the sound that escapes from their decaying vocal cords sounds like \u201cnsazsa,\u201d and everyone thinks they are saying Brains!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "zombie",
+    "fact": "Zombies are present in all five prison cells along the western wall of the southern hallway.",
+    "source_quote": "\u201cThe other three doors also have zombies!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "smoke mephit",
+    "fact": "A smoke mephit inhabits the tower near Emiry Meadows and demands entertainment.",
+    "source_quote": "I notice everyone is staring at me and at another door. I stare back. Finally, Zephyr gets the point and mutters, \u201cI will open the door.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "smoke mephit",
+    "fact": "The smoke mephit is killed by the party after Zephyr sings a song that angers it.",
+    "source_quote": "Zephyr tries to entertain him with some song... that song is a song that immediately induces a blood-curdling rage in smoke and dust mephits... in a few moments, they are dead.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer insists on leading the group into the lower level of the moathouse.",
+    "source_quote": "I insist that I must lead. My experience and those innate attributes of wisdom and perception make me the right person to be in front.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is attacked by green slime and loses his armor.",
+    "source_quote": "a blob of green slime lands on him. And he starts squealing... the slime ate through it.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer whimpers after his armor is destroyed by the green slime.",
+    "source_quote": "Calmer is now whimpering at the fact that his beautiful, shiny armor has been destroyed.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer almost dies during the fight with the ogre.",
+    "source_quote": "Zephyr and Squoia\u2019s blades cut him to size, but not before Calmer almost dies again.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer attempts to help the merchant Derrick when he cries about his companions' deaths.",
+    "source_quote": "\u201cI can help?\u201d shouts Calmer.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer tries to derail the Village Elder meeting by demanding the Prefect's presence.",
+    "source_quote": "\u201cI would like to insist that the Prefect be present for these meetings.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr removes green slime from Calmer's armor using wood he was carrying.",
+    "source_quote": "Using some wood I happened to be carrying on me, I removed the slime from his armor.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr tells Calmer to grow up after the green slime attack.",
+    "source_quote": "\u201cGrow up,\u201d I tell him.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr opens the door to the tower near Emiry Meadows after the smoke mephit is killed.",
+    "source_quote": "Finally, Zephyr gets the point and mutters, \u201cI will open the door.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr sings a song that enrages the smoke mephit.",
+    "source_quote": "Zephyr tries to entertain him with some song. Unfortunately, as we learn later, that song is a song that immediately induces a blood-curdling rage in smoke and dust mephits.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia pummels the ogre with her fists during the fight.",
+    "source_quote": "My fists pummel the creature.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia discovers the magical cloak of elvenkind in the ogre's nest.",
+    "source_quote": "I look inside the Ogre\u2019s nest and discover a magical cloak of elvenkind.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia enters the tower near Emiry Meadows first after straws are drawn.",
+    "source_quote": "Straws are drawn, and I am going to enter first.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia tells Calmer to go talk to the cleric and declines to accompany him.",
+    "source_quote": "Calmer desperately wants to talk to the Cleric, so I tell him to go. He\u2019s disappointed I won\u2019t follow...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia tells Spugnoir they will go to the tower tomorrow.",
+    "source_quote": "\u201cTomorrow,\u201d I tell him.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia notices the greased hinges on the eastern door of the moathouse.",
+    "source_quote": "I then overhear a bang. I pull my swords, ready to strike, and realize it\u2019s the cleric. I want to kill him. If there is anything past the door to the east, it heard us.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia leads the group to investigate the southern hallway after the ogre is killed.",
+    "source_quote": "\u201cLet\u2019s check that hallway to the south we ignored last time, guys.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia recognizes the zombies' sounds as \u201cnsazsa,\u201d not \u201cBrains!\u201d",
+    "source_quote": "Everyone says they are saying \u201cBrains!\u201d but that\u2019s not true. They aren\u2019t saying anything. But what happens is the sound that escapes from their decaying vocal cords sounds like \u201cnsazsa,\u201d and everyone thinks they are saying Brains!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia urges the party to flee when more zombies emerge from the prison doors.",
+    "source_quote": "\u201cTime to get out of here,\u201d I shout.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia suggests visiting the Druid first after returning to Hommlet.",
+    "source_quote": "As I see the tower on the horizon, I turn to my friends, \u201cWe should go to the Druid first.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia interrupts Calmer to prevent him from derailing the Village Elder meeting.",
+    "source_quote": "\u201cI don\u2019t have time for this. Calmer, this is not the topic of the meeting. Perhaps you can do it some other time? If you have anything relevant to this topic, you can share it with him later.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia refuses to participate in the end-of-month festival planning and leaves the meeting.",
+    "source_quote": "Sequoia looks at me and Jaroo and says, \u201cGotta go!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jarran",
+    "fact": "Jarran is a gnome and a spy sent by the merchants of Lotrimil to investigate brigands.",
+    "source_quote": "He\u2019s a gnome and a spy. \u201cMy name is Jarran. I was sent out here by the merchants of Lotrimil to investigate the brigands attacking this area.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jarran",
+    "fact": "Jarran offers to join the party if promised continued exploration.",
+    "source_quote": "I have a mission. And I need to get back to it. Although, if you need another sword and promise to keep exploring, I could stick around.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jarran",
+    "fact": "Jarran gives the party a ring before leaving the moathouse.",
+    "source_quote": "The gnome is still sitting there and hands us a ring.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Derrick",
+    "fact": "Derrick is a merchant from Norwell who was captured by brigands and brought to the moathouse as food for the ogre.",
+    "source_quote": "My name is Derrick, and this is Florian. We\u2019re originally from Norwell. Brigands captured us along the road to Hommlet.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Derrick",
+    "fact": "Derrick cries while recounting the deaths of fellow prisoners Martin, Damien, and Eltograph the Elf.",
+    "source_quote": "First, there was Martin, Damien, Eltograph the Elf, and\u2026\u201d Damn it, he\u2019s crying.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Florian",
+    "fact": "Florian is a merchant from Norwell captured by brigands and imprisoned in the moathouse.",
+    "source_quote": "My name is Derrick, and this is Florian. We\u2019re originally from Norwell.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Lubash",
+    "fact": "Lubash is the ogre who eats prisoners in the moathouse.",
+    "source_quote": "\u201cI am Lubash!\u201d Standing at the now-open eastern door is an ogre. \u201cYou are not members of the temple! You are food!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "The Duke",
+    "fact": "The Duke mocks Calmer while he stretches before descending into the moathouse.",
+    "source_quote": "The Duke is, predictably, less than friendly. He is a bit full of himself and mocks me as I stretch.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Duke",
+    "fact": "The Duke offers to guard the rescued prisoners until the party returns.",
+    "source_quote": "\u201cDon\u2019t you worry, team. I\u2019ll make sure to guard them. When you come back, for good, we can all take them back to Hommlet.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jaroo",
+    "fact": "Jaroo is the Druid who meets the party in his grove to discuss the brigands and Temple of Elemental Evil.",
+    "source_quote": "The Druid meets us in his grove, his greybeard flowing, and listens to me...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jaroo",
+    "fact": "Jaroo agrees to present the evidence to the Village Elders the next day.",
+    "source_quote": "He agrees and seems flattered. \u201cTomorrow then. We will meet at the Village Elder,\u201d says Jaroo.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Spugnoir",
+    "fact": "Spugnoir is a magic user who asks the party about the tower near Emiry Meadows.",
+    "source_quote": "So, any interest in that tower?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Spugnoir",
+    "fact": "Spugnoir tells the party about the Circle of Eight and their involvement in the Battle of Emiry Meadows.",
+    "source_quote": "There was a great battle here some years ago. I must tell you one of the most intriguing elements of that battle. There are tales that the circle of eight appeared.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Spugnoir",
+    "fact": "Spugnoir identifies the magic circle formula in the tower.",
+    "source_quote": "Spugnoir, peaking over my shoulder, says, \u201cIt contains the formula for a magic circle.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ostler",
+    "fact": "Ostler pays for Zinia's room at the Inn of the Welcome Wench until the 19th.",
+    "source_quote": "And your room has been paid for until the 19th.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ostler",
+    "fact": "Ostler is pleased that Zinia went to Jaroo before speaking to outsiders.",
+    "source_quote": "And I am very pleased that you decided to go to Jaroo before going to those interloping outsiders.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Burne",
+    "fact": "Burne is a Village Elder who commends the party for their information.",
+    "source_quote": "Burne adds, \u201cI want to commend our heroes for their information. I am thrilled to see them working together and that our decision to deputize them has produced such excellent information.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Rufus",
+    "fact": "Rufus is the captain of the militia who dismisses the evidence as locally important but not nationally significant.",
+    "source_quote": "Rufus says, \u201cYou have brought strong evidence of Brigand's activity, and they must be dealt with. But we have no conclusive evidence of the re-emergence of the Temple of Elemental Evil.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Village Elder",
+    "fact": "The Village Elder calls the meeting to order and closes the topic after discussion.",
+    "source_quote": "the village elder finally calls the meeting to order... At that point, the Village Elder closes the topic and lets us go...",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Temple of Elemental Evil",
+    "fact": "Brigands may be aligned with the Temple of Elemental Evil.",
+    "source_quote": "brigands who may or may not have been aligned with the Temple of Elemental Evil.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Temple of Elemental Evil",
+    "fact": "Brigands are masquerading as members of the Temple of Elemental Evil.",
+    "source_quote": "Jaroo repeat what we told him. He pushes the narrative that brigands are masquerading as agents of the temple than they are agents of the temple.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Temple of Elemental Evil",
+    "fact": "The Temple of Elemental Evil is believed to have been the site of a powerful binding spell cast by the Circle of Eight.",
+    "source_quote": "They showed up at the battle at a crucial juncture when some artifact was being used. When the battle was over, they went to the Temple of Elemental Evil and cast powerful spells to bind some evil presence within.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Circle of Eight",
+    "fact": "The Circle of Eight consists of eight powerful mages: Moderkainenen, Bigby, Ottiluke, and Leomund.",
+    "source_quote": "The circle of eight consists of the eight most powerful mages in the world - Moderkainenen, Bigby, Ottiluke, and Leomund.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Circle of Eight",
+    "fact": "The Circle of Eight intervened at the Battle of Emiry Meadows to bind an evil presence.",
+    "source_quote": "They showed up at the battle at a crucial juncture when some artifact was being used. When the battle was over, they went to the Temple of Elemental Evil and cast powerful spells to bind some evil presence within.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Circle of Eight",
+    "fact": "The Circle of Eight cares only about balance, not good or evil.",
+    "source_quote": "The Circle of Eight is neither good nor evil. They only care about the balance.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Merchants of Lotrimil",
+    "fact": "The merchants of Lotrimil sent Jarran to investigate brigands in the area.",
+    "source_quote": "I was sent out here by the merchants of Lotrimil to investigate the brigands attacking this area.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Merchants of Norwell",
+    "fact": "Derrick and Florian are merchants from Norwell who were captured by brigands.",
+    "source_quote": "We\u2019re originally from Norwell. Brigands captured us along the road to Hommlet.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "rest before descending",
+    "fact": "The party takes a brief rest before descending into the lower level of the moathouse.",
+    "source_quote": "But first, a brief rest. It\u2019s essential to rest when facing monsters.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "green slime attack",
+    "fact": "A green slime drops from the arch and lands on Calmer.",
+    "source_quote": "a blob of green slime lands on him.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "armor destroyed by slime",
+    "fact": "The green slime eats through Calmer's armor.",
+    "source_quote": "the slime ate through it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "ogre attack",
+    "fact": "The ogre Lubash swings his club at the party upon encountering them.",
+    "source_quote": "And it swings it\u2019s club.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "ogre killed",
+    "fact": "The party kills the ogre Lubash in the eastern room of the moathouse.",
+    "source_quote": "With the dead carcass lying in the doorway, I enter carefully into the room beyond.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "zombies emerge",
+    "fact": "Zombies emerge from the rotten prison doors in the southern hallway of the moathouse.",
+    "source_quote": "\u201cZombies!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "zombies turned",
+    "fact": "Calmer turns the zombies with his clerical power.",
+    "source_quote": "I wonder if Calmer has any power over the undead! And yes, he does! They are turned.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "zombies flee",
+    "fact": "The party flees the southern hallway after more zombies emerge from the other prison doors.",
+    "source_quote": "\u201cTime to get out of here,\u201d I shout. Zephyr\u2019s like, \u201cWe can take them!\u201d ... runs for the archway and the stairs that go up.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "prisoners freed",
+    "fact": "The party frees the two merchants and the gnome spy from the eastern storeroom.",
+    "source_quote": "\u201cWho are you?\u201d says a tired and frightened voice. ... \u201cLet\u2019s get you all outside.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "smoke mephit killed",
+    "fact": "The party kills the smoke mephit in the tower near Emiry Meadows.",
+    "source_quote": "in a few moments, they are dead.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "meeting with Druid",
+    "fact": "The party meets with Jaroo the Druid in his grove to discuss the brigands and Temple of Elemental Evil.",
+    "source_quote": "The Druid meets us in his grove, his greybeard flowing, and listens to me...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "meeting with Village Elders",
+    "fact": "The party attends a meeting with the Village Elder, Burne, Rufus, Jaroo, and Ostler to present evidence.",
+    "source_quote": "I will be in the Village Elder's house\u2014the same room where we met with him last time.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Spugnoir joins party",
+    "fact": "Spugnoir joins the party as they leave the Village Elder's house and head to Emiry Meadows.",
+    "source_quote": "Calmer and I followed, but he was slightly disappointed when we told him we were taking Spugnoir with us.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "entering tower",
+    "fact": "Zinia enters the tower near Emiry Meadows first.",
+    "source_quote": "Straws are drawn, and I am going to enter first.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "mystery of the purple robe",
+    "fact": "The identity of the elf who lost the cloak of elvenkind is unknown.",
+    "source_quote": "Now that\u2019s even more interesting. Who is the elf that lost this?",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "purpose of barred southern door",
+    "fact": "The reason the door to the south is heavily barred is unexplained.",
+    "source_quote": "And why is that door to the south so heavily barred?",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "identity of the evil presence",
+    "fact": "The nature of the evil presence bound by the Circle of Eight at the Temple of Elemental Evil is unknown.",
+    "source_quote": "They went to the Temple of Elemental Evil and cast powerful spells to bind some evil presence within.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "fate of Eltograph the Elf",
+    "fact": "The fate of Eltograph the Elf, one of the prisoners eaten by the ogre, is unknown.",
+    "source_quote": "First, there was Martin, Damien, Eltograph the Elf, and\u2026\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "location of the artifact",
+    "fact": "The artifact used during the Battle of Emiry Meadows is unlocated.",
+    "source_quote": "They showed up at the battle at a crucial juncture when some artifact was being used.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "identity of the other prisoners",
+    "fact": "The identities of the other three prisoners who were eaten by the ogre are unknown.",
+    "source_quote": "There were six of us. Every day, the Ogre would come in and take one of us. First, there was Martin, Damien, Eltograph the Elf, and\u2026\u201d",
+    "quote_verified": true
+  }
+]

@@ -1,0 +1,140 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr launched attacks against a harpy that had charmed Sequioa, later fell under the harpies' charm, was struck by Zinnia to break the enchantment, was paralyzed by a ghoul, fired his pistol at a fleeing harpy, and ultimately helped kill the last harpy. He later reported the party's success to Romag and was unaware that Sequioa pocketed a larger share of the treasure.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia joined the fray against the first harpy and delivered the killing blow that freed Sequioa, remained immune to the harpies' songs, attacked her own allies to break their enchantment, fought through multiple ghouls, struck the escaping final harpy, and called upon divine flame to scorch it. She was unaware that Sequioa pocketed a larger share of the treasure.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer was charmed by the harpies' songs, was paralyzed by a ghoul but shook off the effect, struck a fleeing harpy with his mace of smiting, served as the party's primary healer, refused to open a broken chest, and later claimed the ghasts' territory as an Earth Temple holding. He was unaware that Sequioa pocketed a larger share of the treasure.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sequioa",
+    "fact": "Sequioa was charmed by the harpies' songs, fought with remarkable ferocity against ghouls, opened a broken chest to reveal treasure, distributed the coins while secretly pocketing a larger share, and delivered devastating blows that left enemies crumpled. She negotiated with the ghasts, claimed their territory under the Earth Temple, and successfully concealed her theft from Calmer, Zinnia, and Zephyr.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "Romag sat in his office pleased with the party's success, complained that undead refused to serve him since his predecessor joined the Deep Temple, delivered a passionate speech praising the Earth Temple's power, and explained that the party must bring treasure to the temple and pay him a portion \u2014 not receive payment themselves.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple claimed dominion over the harpies' lair and the ghasts' territory after the party falsely declared allegiance to it. The ghasts, though insincere, swore allegiance to the temple for survival, effectively making the area a subsidiary holding under its banner. The temple's leadership, represented by Romag, operates on a system where agents must deliver treasure and pay a portion, not receive payment.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Deep Temple",
+    "fact": "The Deep Temple is referenced as the former employer of Romag\u2019s predecessor, and its influence is blamed for the undead's refusal to serve Romag and the Earth Temple. It is implied to be a rival power structure with opposing ideological control over undead entities.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "harpy",
+    "fact": "Multiple harpies attacked the party, using enchanting songs to charm Sequioa, Calmer, and Zephyr. They swooped from rafters to attack Calmer and later fled during combat. One was killed by Zinnia, another by Calmer\u2019s mace of smiting, and the final one was brought down by Sequioa\u2019s ranged weapon after being struck by Zephyr, Zinnia, and divine flame.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "ghoul",
+    "fact": "Seven ghouls burst into the battlefield in two waves \u2014 three initially from the south, four more from the north. They attacked with claws and teeth, paralyzed Zephyr and Calmer with supernatural touch, and were systematically eliminated by the party. Sequioa delivered devastating blows, while Zinnia and Calmer cleared them with precision and healing.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "ghast",
+    "fact": "Two ghasts emerged from a newly opened door, claimed the territory as their own, and emphasized dominance by crunching a human bone. They proposed negotiation when threatened, feigned allegiance to the Earth Temple for survival, and were accepted as subordinate entities under the party's claim. Their loyalty was insincere but strategically useful.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "elven chain mail",
+    "fact": "Found hanging on the wall in the harpies' lair, the elven chain mail was valuable but left unclaimed by Calmer because he already wore superior armor. The party decided to save it for later sale.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "broken chest",
+    "fact": "Discovered in an abandoned room, the broken chest was carefully examined by Sequioa. Calmer refused to open it, but Sequioa agreed after being pressured by Zephyr. Inside lay a modest treasure of gold, platinum, silver, and copper coins, which Sequioa distributed while secretly keeping a larger share.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "harpy lair",
+    "fact": "The harpy lair consisted of multiple chambers: one reeking of death with scattered bones and old cloth, another housing a broken chest and elven chain mail, and an antechamber with obscene plaster paintings and ruined furnishings. The party explored it after the battle and claimed it as an Earth Temple holding.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "antechamber",
+    "fact": "The antechamber had plastered walls covered in obscene paintings and remnants of once-fine furnishings. It led to the door where two ghasts emerged, marking the transition from harpy territory to contested undead space.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Romag's office",
+    "fact": "Romag's office was the final destination where the party reported their success. It was here that Romag expressed satisfaction, criticized the influence of the Deep Temple, praised the Earth Temple\u2019s power, and established the payment system requiring agents to deliver treasure and pay a portion.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "battle against harpies and ghouls",
+    "fact": "The party engaged in a multi-phase battle against harpies and ghouls, marked by enchantments, paralysis, and lethal strikes. Zinnia broke charms by attacking allies, Calmer healed and smote, Sequioa delivered critical blows, and Zephyr provided ranged support. The battle ended with the last harpy killed and all ghouls eliminated.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "claiming territory under Earth Temple",
+    "fact": "The party falsely declared allegiance to the Earth Temple to the ghasts, who feigned loyalty for survival. The party accepted this arrangement, effectively claiming the ghasts' territory as a subsidiary holding under the Earth Temple's banner without bloodshed.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "treasure distribution",
+    "fact": "After opening the broken chest, Sequioa distributed the treasure among the party but secretly pocketed a larger share. Calmer, Zinnia, and Zephyr remained unaware of the theft, making it a successful act of rogue deception.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "payment system established",
+    "fact": "Romag revealed that the party would not receive payment for their services. Instead, they were required to bring treasure to the Earth Temple and pay him a portion \u2014 reversing traditional reward structures and establishing a taxing, extractive model of operation.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "ghasts' true allegiance",
+    "fact": "The ghasts' sudden allegiance to the Earth Temple was clearly insincere, suggesting they may betray the party later. Their feigned loyalty is a lingering threat and potential plot thread for future conflict.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Sequioa's hidden share",
+    "fact": "Sequioa stole a larger portion of the treasure and concealed it from the entire party. This act of deception is a potential source of future tension, especially if discovered by Calmer or Zinnia.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Deep Temple influence",
+    "fact": "Romag blames the Deep Temple for the undead's refusal to serve him. This rivalry is unexplored and may become a major narrative driver if the party encounters Deep Temple agents or artifacts in the future.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session end",
+    "fact": "The events concluded with the party returning to Romag's office after resting and recovering from battle. The timeline implies a single extended adventuring session ending in strategic territorial acquisition and financial restructuring.",
+    "quote_verified": false
+  }
+]

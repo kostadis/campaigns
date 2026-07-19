@@ -1,0 +1,114 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is an assassin who believes surprise is a sentence already finished before the target knows it started, and who chose the west door for its fewer rooms and lower risk of detection.",
+    "source_quote": "Zephyr wanted the west \u2014 fewer rooms to cross, less chance of stumbling into something.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia attempted to breach the west door with force, bounced back twice, and later provided false credentials as messengers for Kelno before revealing a forged letter of assassination as proof.",
+    "source_quote": "Zinnia hit the door and the door hit back... Zinnia produced the proof.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia supported Zinnia's failed breach, offered a clumsy cover story ('Housekeeping!'), and later killed the second cultist after Zinnia struck the first blow.",
+    "source_quote": "Sequoia, without missing a beat: 'Housekeeping!'... Sequoia opened him up. Sequoia stepped over the body and ended the rest of it.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Belsornig",
+    "fact": "Belsornig is the Prophet of Water, preoccupied with a scroll when infiltrators breached his temple, and was killed without ever fully registering the threat.",
+    "source_quote": "Belsornig, Prophet of Water, was preoccupied... He swayed. One more hit and there'd be nothing left to question.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Kelno",
+    "fact": "Kelno is a mysterious figure who gifted the Dagger of Venom to the infiltrator, requesting it be used to kill Belsornig, and is aligned with chaos but also with the value of living.",
+    "source_quote": "The Dagger of Venom. Kelno's gift... I'd taken his deal in seconds because his answer had been honest \u2014 for chaos, but also for living.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Obsidian Edge",
+    "fact": "The Obsidian Edge is a group despised by the Water Temple cultists as pompous asses, and is the target of internal sabotage and assassination.",
+    "source_quote": "All that remains is for us to defeat those pompous asses known as the Obsidian Edge.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Water Temple",
+    "fact": "The Water Temple is a cult in civil conflict, with internal factions, cult fanatics guarding doors, and a prophet who reads scrolls while his guards are killed.",
+    "source_quote": "A temple at war with itself... cult fanatics... a man who'd been reading a scroll.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Dagger of Venom",
+    "fact": "The Dagger of Venom is a poisoned blade gifted by Kelno, passed through the group, and intended to be used to kill Belsornig \u2014 now wielded by the infiltrator.",
+    "source_quote": "The Dagger of Venom. Kelno's gift... I've been saving this to kill Belsornig for some time... the dagger had gone around the circle, and now it was coming back.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "infiltration of the west door",
+    "fact": "The infiltration began with failed physical breaches, followed by false identities, then a successful deception using news of an assassination, leading to the door opening and the cultists being caught unawares.",
+    "source_quote": "Zinnia hit the door and the door hit back... We were messengers, then \u2014 bearing word of an assassination... the door opened. The bluff held so clean we didn't just get in \u2014 we caught them flat-footed.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "killing of Belsornig",
+    "fact": "Belsornig was killed without resistance after the infiltrators silently crossed the chamber and struck simultaneously \u2014 Sequoia opened him, Zinnia burned the water from him, and the infiltrator delivered the final blow.",
+    "source_quote": "Sequoia opened him up. Zinnia charged and burned the water out of him. I came in last, missed the first, found the second exactly where I wanted it.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "who is this?",
+    "fact": "The question 'You're not supposed to be here? Who is this?' was asked twice by cultists, signaling the collapse of the infiltration\u2019s secrecy \u2014 and became the moment the infiltrators had to improvise their cover.",
+    "source_quote": "You're not supposed to be here. Who is this?",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "keep him alive?",
+    "fact": "A moment of hesitation arose over whether to spare Belsornig for interrogation \u2014 but the group chose immediate execution, forfeiting potential leverage.",
+    "source_quote": "Maybe we should keep him alive? No?... 'No, let's just kill him,' Sequoia said.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Water Temple",
+    "fact": "The Water Temple is a place of damp stone, old water, bronze doors, and marble thresholds, where cultists guard inner chambers and prophets read scrolls in isolation.",
+    "source_quote": "smelling of damp stone and old water... bronze... brown marble... He'd been reading a scroll.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "west door",
+    "fact": "The west door is a heavy, stubborn barrier of bronze or wood, located at the far eastern end of the temple, and was the chosen point of entry due to its fewer rooms beyond.",
+    "source_quote": "The west door... the west door \u2014 fewer rooms, fewer surprises... the door held and threw me back.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "conjured force blades",
+    "fact": "Two cultists wielded blades of conjured force that hovered in the air, ready to strike \u2014 but were neutralized before they could activate.",
+    "source_quote": "blades of conjured force already hanging in the air, hovering, ready for trouble.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The infiltration occurred during a session where the group was actively engaged in a mission to assassinate Belsornig and infiltrate the Water Temple.",
+    "source_quote": "So we would smash the door... The plan died when Zinnia hit the door...",
+    "quote_verified": false
+  }
+]

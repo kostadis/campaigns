@@ -1,0 +1,537 @@
+[
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "An hour passes between two events in the session.",
+    "source_quote": "An hour later",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session conclusion",
+    "fact": "The session concluded with the trial of combat against the feral gnoll, marking the end of the party's infiltration and testing phase.",
+    "source_quote": "The session concluded with Sister Alina offering a trial of combat and cunning to prove the party's strength and loyalty, pitting them against a feral gnoll of demonic origin.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
+    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "This session's events occurred during the party's investigation into the Earth Cult, the missing chest, and the abandoned monastery near Gallows Corner.",
+    "source_quote": "The session concluded with Sister Alina offering a trial of combat and cunning to prove the party's strength and loyalty, pitting them against a feral gnoll of demonic origin.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Brother Eldren",
+    "fact": "Brother Eldren led the party through the Path of Righteousness to test their decision-making and worth.",
+    "source_quote": "Sister Alina and Brother Eldren, who led them through a series of moral and physical dilemmas known as the \"Path of Righteousness\" to test their decision-making and worth",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer attempted to deceive an elderly monk by pretending to be lost in the woods.",
+    "source_quote": "Calmer attempted to deceive an elderly monk by pretending to be lost in the woods",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sister Alina",
+    "fact": "Sister Alina led the party through the Path of Righteousness to test their decision-making and worth.",
+    "source_quote": "Sister Alina and Brother Eldren, who led them through a series of moral and physical dilemmas known as the \"Path of Righteousness\" to test their decision-making and worth",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sister Alina",
+    "fact": "Sister Alina offered a trial of combat and cunning to prove the party's strength and loyalty.",
+    "source_quote": "Sister Alina offering a trial of combat and cunning to prove the party's strength and loyalty",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "Sloobludop is approximately eight days away via the Darklake.",
+    "source_quote": "the town of Sloopdopblop is just eight days away",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr's intimidation revealed that Ranus Duval worked for a larger competing organization.",
+    "source_quote": "Zephyr's highly successful intimidation revealed that Ranus Duval (the \"Duke\") worked for a larger competing organization",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Ziinnia",
+    "fact": "Ziinnia eavesdropped on hushed conversations and uncovered suspicious activities involving a merchant named Tilly Bizpebble Whistle.",
+    "source_quote": "Ziinnia successfully eavesdropped on hushed conversations, uncovering suspicious activities involving a merchant named Tilly Bizpebble Whistle",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Cult",
+    "fact": "Locals attributed unusual shadows and tremors in the hills to Earth cult activity, prompting the party to bypass mining tunnels and take the public path to the monastery.",
+    "source_quote": "Hearing from locals that the unusual shadows and tremors in the hills were tied to Earth cult activity, the party decided to bypass the mining tunnels and take the public path straight to the monastery.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Cult",
+    "fact": "The Earth Cult is linked to unusual shadows and tremors in the hills, prompting the party to avoid mining tunnels and take the public path to the monastery.",
+    "source_quote": "Hearing from locals that the unusual shadows and tremors in the hills were tied to Earth cult activity, the party decided to bypass the mining tunnels and take the public path straight to the monastery.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "abandoned monastery",
+    "fact": "The missing chest meant for Romag was likely at an abandoned monastery near Gallows Corner.",
+    "source_quote": "Zephyr's highly successful intimidation revealed that Ranus Duval (the 'Duke') worked for a larger competing organization, and that the missing chest meant for Romag was likely at an abandoned monastery near Gallows Corner.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "abandoned monastery near Gallows Corner",
+    "fact": "The abandoned monastery near Gallows Corner is the suspected location of the missing chest meant for Romag, and is dedicated to the nature goddess Beory (referred to as 'Barry').",
+    "source_quote": "Zephyr's highly successful intimidation revealed that Ranus Duval (the 'Duke') worked for a larger competing organization, and that the missing chest meant for Romag was likely at an abandoned monastery near Gallows Corner. At the monastery\u2014which appeared partially abandoned but was dedicated to the nature goddess Beory (referred to as 'Barry')...",
+    "quote_verified": false,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "location",
+    "subject": "Gallows Corner",
+    "fact": "Gallows Corner is a rural settlement where the party gathered intelligence and learned of suspicious merchant activity involving Tilly Bizpebble Whistle.",
+    "source_quote": "The party traveled to the rural settlement of Gallows Corner to discreetly gather intelligence. Ziinnia successfully eavesdropped on hushed conversations, uncovering suspicious activities involving a merchant named Tilly Bizpebble Whistle...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Gallows Corner",
+    "fact": "Gallows Corner is a rural settlement where the party gathered intelligence, and where Ziinnia overheard rumors about merchant Tilly Bizpebble Whistle and a painted rock purchased by Nicholas.",
+    "source_quote": "The party traveled to the rural settlement of Gallows Corner to discreetly gather intelligence. Ziinnia successfully eavesdropped on hushed conversations, uncovering suspicious activities involving a merchant named Tilly Bizpebble Whistle, from whom Nicholas purchased a painted rock.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Gallows Corner",
+    "fact": "The party traveled to the rural settlement of Gallows Corner to discreetly gather intelligence.",
+    "source_quote": "The party traveled to the rural settlement of Gallows Corner to discreetly gather intelligence.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "mining tunnels",
+    "fact": "The party decided to bypass the mining tunnels and take the public path straight to the monastery.",
+    "source_quote": "he party decided to bypass the mining tunnels and take the public path straight to the monastery.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "monastery",
+    "fact": "The monastery appeared partially abandoned but was dedicated to the nature goddess Beory (referred to as 'Barry').",
+    "source_quote": "At the monastery\u2014which appeared partially abandoned but was dedicated to the nature goddess Beory (referred to as 'Barry')\u2014",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
+    "source_quote": "Drow outpost was 100' in the sky",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
+    "source_quote": "four chasme and two vrock",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "feral gnoll",
+    "fact": "A feral gnoll of demonic origin was pitted against the party in a trial of combat offered by Sister Alina to test their strength and loyalty.",
+    "source_quote": "The session concluded with Sister Alina offering a trial of combat and cunning to prove the party's strength and loyalty, pitting them against a feral gnoll of demonic origin.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "feral gnoll",
+    "fact": "A feral gnoll of demonic origin was the target of the trial of combat offered by Sister Alina.",
+    "source_quote": "Sister Alina offered a trial of combat and cunning to prove the party's strength and loyalty, pitting them against a feral gnoll of demonic origin.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "feral gnoll",
+    "fact": "The party was pitted against a feral gnoll of demonic origin in a trial of combat offered by Sister Alina to test their strength and loyalty.",
+    "source_quote": "The session concluded with Sister Alina offering a trial of combat and cunning to prove the party's strength and loyalty, pitting them against a feral gnoll of demonic origin.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Beory",
+    "fact": "Beory (referred to as 'Barry') was the nature goddess to whom the monastery was dedicated.",
+    "source_quote": "At the monastery\u2014which appeared partially abandoned but was dedicated to the nature goddess Beory (referred to as 'Barry')\u2014",
+    "quote_verified": false,
+    "passes": [
+      "interiority",
+      "sweep"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Brother Eldren",
+    "fact": "Brother Eldren led the party through a series of moral and physical dilemmas known as the 'Path of Righteousness' to test their decision-making and worth.",
+    "source_quote": "The party met Sister Alina and Brother Eldren, who led them through a series of moral and physical dilemmas known as the 'Path of Righteousness' to test their decision-making and worth.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Brother Eldren",
+    "fact": "Brother Eldren, alongside Sister Alina, guided the party through the 'Path of Righteousness' trials to assess their moral and physical worth.",
+    "source_quote": "The party met Sister Alina and Brother Eldren, who led them through a series of moral and physical dilemmas known as the 'Path of Righteousness' to test their decision-making and worth.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Brother Eldren",
+    "fact": "Brother Eldren, alongside Sister Alina, led the party through the 'Path of Righteousness' to test their decision-making and worth.",
+    "source_quote": "The party met Sister Alina and Brother Eldren, who led them through a series of moral and physical dilemmas known as the 'Path of Righteousness' to test their decision-making and worth.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer attempted to deceive an elderly monk at the monastery by pretending to be lost in the woods, as part of infiltrating the Old Faith.",
+    "source_quote": "At the monastery\u2014which appeared partially abandoned but was dedicated to the nature goddess Beory (referred to as 'Barry')\u2014Calmer attempted to deceive an elderly monk by pretending to be lost in the woods.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer attempted to deceive an elderly monk at the monastery by pretending to be lost in the woods, under the guise of the Old Faith's devotion to Beory ('Barry').",
+    "source_quote": "At the monastery\u2014which appeared partially abandoned but was dedicated to the nature goddess Beory (referred to as 'Barry')\u2014Calmer attempted to deceive an elderly monk by pretending to be lost in the woods.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer attempted to deceive an elderly monk by pretending to be lost in the woods.",
+    "source_quote": "Calmer attempted to deceive an elderly monk by pretending to be lost in the woods.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Ranus Duval",
+    "fact": "Ranus Duval (the 'Duke') worked for a larger competing organization.",
+    "source_quote": "Zephyr's highly successful intimidation revealed that Ranus Duval (the 'Duke') worked for a larger competing organization, and that the missing chest meant for Romag was likely at an abandoned monastery near Gallows Corner.",
+    "quote_verified": false,
+    "passes": [
+      "interiority",
+      "sweep"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Alina",
+    "fact": "Sister Alina led the party through the 'Path of Righteousness' moral and physical trials and later offered a trial of combat to prove their strength and loyalty.",
+    "source_quote": "The party met Sister Alina and Brother Eldren, who led them through a series of moral and physical dilemmas known as the 'Path of Righteousness' to test their decision-making and worth. The session concluded with Sister Alina offering a trial of combat and cunning to prove the party's strength and loyalty.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Alina",
+    "fact": "Sister Alina led the party through the 'Path of Righteousness'\u2014a series of moral and physical dilemmas\u2014to test their decision-making and worth, and later offered them a trial of combat to prove their strength and loyalty.",
+    "source_quote": "The party met Sister Alina and Brother Eldren, who led them through a series of moral and physical dilemmas known as the 'Path of Righteousness' to test their decision-making and worth. The session concluded with Sister Alina offering a trial of combat and cunning to prove the party's strength and loyalty.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Alina",
+    "fact": "Sister Alina offered a trial of combat and cunning to prove the party's strength and loyalty, pitting them against a feral gnoll of demonic origin.",
+    "source_quote": "Sister Alina offered a trial of combat and cunning to prove the party's strength and loyalty, pitting them against a feral gnoll of demonic origin.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Tilly Bizpebble Whistle",
+    "fact": "Tilly Bizpebble Whistle was a merchant involved in suspicious activities, from whom Nicholas purchased a painted rock.",
+    "source_quote": "Ziinnia successfully eavesdropped on hushed conversations, uncovering suspicious activities involving a merchant named Tilly Bizpebble Whistle, from whom Nicholas purchased a painted rock.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Tilly Bizpebble Whistle",
+    "fact": "Tilly Bizpebble Whistle was involved in suspicious activities.",
+    "source_quote": "suspicious activities involving a merchant named Tilly Bizpebble Whistle",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr employed a 'good cop, bad cop' strategy on a captured cultist, and his highly successful intimidation revealed that Ranus Duval (the 'Duke') worked for a larger competing organization, and that the missing chest meant for Romag was likely at an abandoned monastery near Gallows Corner.",
+    "source_quote": "Zephyr and Ziinnia employed a 'good cop, bad cop' strategy on a captured cultist. Zephyr's highly successful intimidation revealed that Ranus Duval (the 'Duke') worked for a larger competing organization, and that the missing chest meant for Romag was likely at an abandoned monastery near Gallows Corner.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr successfully intimidated a captured cultist using a 'good cop, bad cop' strategy, revealing that Ranus Duval worked for a larger organization and that the missing chest for Romag was likely at an abandoned monastery near Gallows Corner.",
+    "source_quote": "Zephyr's highly successful intimidation revealed that Ranus Duval (the 'Duke') worked for a larger competing organization, and that the missing chest meant for Romag was likely at an abandoned monastery near Gallows Corner.",
+    "quote_verified": false,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Ziinnia",
+    "fact": "Ziinnia eavesdropped on hushed conversations in Gallows Corner, uncovering suspicious activities involving a merchant named Tilly Bizpebble Whistle, from whom Nicholas purchased a painted rock.",
+    "source_quote": "Ziinnia successfully eavesdropped on hushed conversations, uncovering suspicious activities involving a merchant named Tilly Bizpebble Whistle, from whom Nicholas purchased a painted rock.",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "object",
+    "subject": "painted rock",
+    "fact": "A painted rock was purchased by Nicholas from merchant Tilly Bizpebble Whistle, whose activities were flagged as suspicious during intelligence gathering in Gallows Corner.",
+    "source_quote": "Ziinnia successfully eavesdropped on hushed conversations, uncovering suspicious activities involving a merchant named Tilly Bizpebble Whistle, from whom Nicholas purchased a painted rock.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "painted rock",
+    "fact": "A painted rock was purchased from the merchant Tilly Bizpebble Whistle by Nicholas, and is tied to suspicious activities in Gallows Corner.",
+    "source_quote": "Ziinnia successfully eavesdropped on hushed conversations, uncovering suspicious activities involving a merchant named Tilly Bizpebble Whistle, from whom Nicholas purchased a painted rock.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "missing chest for Romag",
+    "fact": "The missing chest meant for Romag is suspected to be located at the abandoned monastery near Gallows Corner, and its contents remain unaccounted for.",
+    "source_quote": "Zephyr's highly successful intimidation revealed that Ranus Duval (the 'Duke') worked for a larger competing organization, and that the missing chest meant for Romag was likely at an abandoned monastery near Gallows Corner.",
+    "quote_verified": false,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "thread",
+    "subject": "the Earth cult's shadows and tremors",
+    "fact": "The unusual shadows and tremors in the hills were tied to Earth cult activity, but no further evidence or resolution was provided.",
+    "source_quote": "the unusual shadows and tremors in the hills were tied to Earth cult activity",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "the missing chest",
+    "fact": "The missing chest meant for Romag was likely at an abandoned monastery near Gallows Corner, but its current location and contents are not confirmed.",
+    "source_quote": "the missing chest meant for Romag was likely at an abandoned monastery near Gallows Corner",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "the painted rock",
+    "fact": "Nicholas purchased a painted rock from Tilly Bizpebble Whistle, but its significance or origin is unexplained.",
+    "source_quote": "from whom Nicholas purchased a painted rock",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  }
+]

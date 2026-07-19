@@ -1,0 +1,114 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is a horned interrogator who extracts information through intimidation and bravado, later refining his approach with Calmer\u2019s presence. He has a sharp memory for spatial details and turns verbal directions into mental keys. He is driven by results, not elegance.",
+    "source_quote": "Zephyr leaned on the man harder than necessary, all bravado and borrowed threat, standing at the full height the horns gave him and hoping the prisoner would fill in the rest.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a priest who has survived death once, and carries an aura that shifts the atmosphere of a room when he steps forward. His presence lends gravity and credibility to persuasion, making previously ineffective approaches succeed.",
+    "source_quote": "There's something about a priest who's survived being killed once that reads differently than before. The prisoner felt it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Freed Prisoner",
+    "fact": "The freed prisoner is an Air Temple cultist, captured for faction politics. He is intelligent, observant, and strategically self-preserving. He traded information only after securing his freedom, and revealed a hidden passage to the Deep Temple sourced directly from Kelno \u2014 indicating insider knowledge.",
+    "source_quote": "He pointed it out on our map. Precise. A hidden passage inside the Air Temple itself, knowledge he'd gotten directly from Kelno \u2014 which meant it was the kind of information that doesn't circulate widely.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia is a perceptive observer skilled at reading micro-expressions and emotional truth. He noticed the freed prisoner\u2019s sincerity before any words were spoken and confirmed the man was telling the truth \u2014 a judgment that influenced the group\u2019s trust.",
+    "source_quote": "I saw him do that thing: the small stillness, the focused attention. He's good at reading people. Better than he lets on, and he already lets on plenty.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Air Temple",
+    "fact": "The Air Temple is a cult faction engaged in political conflict with the Deep Temple. Its members are targeted for imprisonment by the Deep Temple\u2019s enforcers, indicating a rivalry rooted in ideology and control of sacred knowledge.",
+    "source_quote": "Air Temple cultist, which made him a prisoner here for reasons of faction politics as much as anything else.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Deep Temple",
+    "fact": "The Deep Temple is a feared, secretive organization that imprisons dissidents and rival cultists. It is associated with terror, hidden passages, and lethal secrecy. Access to it is not sought \u2014 only avoided.",
+    "source_quote": "Because nobody wants to get to the Deep Temple. Everybody wants to not \u2014 not ever be near the Deep Temple, but...",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Hidden Passage to the Deep Temple",
+    "fact": "The hidden passage is concealed within the Air Temple itself, accessible via a specific corridor junction and landmarked by counted stones from a bracket. It is known only to insiders or those who overheard secrets \u2014 such as Kelno\u2019s confidant.",
+    "source_quote": "He pointed it out on our map. Precise. A hidden passage inside the Air Temple itself, knowledge he'd gotten directly from Kelno.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "The Prison Cell",
+    "fact": "The prison cell is a stone dungeon where captives are shackled by iron chains. It is under the control of the Deep Temple and used to break prisoners through isolation and fear. Four individuals remain chained here as the freed man gives his testimony.",
+    "source_quote": "The other four were still chained to the wall. I had more work to do.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Iron Shackles",
+    "fact": "The iron shackles are heavy, rusted restraints designed to immobilize and degrade. They opened cleanly under precise lockpicking, suggesting they were poorly maintained or intentionally weakened \u2014 perhaps by prior escape attempts.",
+    "source_quote": "The shackles came apart like they'd been waiting for me.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Map with Hidden Passage Marked",
+    "fact": "The map, annotated by the freed prisoner, contains a precise notation of the hidden passage into the Deep Temple. Its accuracy is confirmed by Zephyr\u2019s mental verification, making it a critical tactical asset.",
+    "source_quote": "He pointed it out on our map. Precise.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Horns of Zephyr",
+    "fact": "The horns are a physical augmentation that grants Zephyr height and intimidation, functioning as a psychological weapon. They are not magical, but their presence amplifies threat perception \u2014 a tool of coercion, not combat.",
+    "source_quote": "standing at the full height the horns gave him and hoping the prisoner would fill in the rest.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Interrogation of the Air Temple Cultist",
+    "fact": "The interrogation began with Zephyr\u2019s aggressive posturing, failed to yield trust, and succeeded only after Calmer\u2019s intervention. The prisoner\u2019s cooperation was conditional on freedom, and his information proved accurate and actionable.",
+    "source_quote": "Zephyr had tried persuasion first \u2014 I caught the flat delivery, saw it land badly. But with Calmer at his shoulder, he tried again, and the second attempt found its footing.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Lockpicking of the Shackles",
+    "fact": "The lockpicking of the prisoner\u2019s shackles was performed with surgical precision, resulting in clean, immediate release. It was an act of physical mastery that signaled competence and earned implicit trust from the captives.",
+    "source_quote": "The lock gave cleanly. The shackles came apart like they'd been waiting for me.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Fate of the Four Remaining Prisoners",
+    "fact": "Four captives remain chained in the dungeon. Their release is pending, and their potential knowledge or loyalty is unassessed. Their survival may hinge on whether the party has time, resources, or will to free them before moving on.",
+    "source_quote": "The other four were still chained to the wall. I had more work to do.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Kelno\u2019s Role and Knowledge",
+    "fact": "Kelno is an unnamed insider who possessed knowledge of the Deep Temple\u2019s hidden passage. His connection to the prisoner suggests he is a key figure in the Air Temple\u2019s resistance network \u2014 his whereabouts and current status are unknown.",
+    "source_quote": "knowledge he'd gotten directly from Kelno \u2014 which meant it was the kind of information that doesn't circulate widely, the kind you only know if you were close enough to matter or close enough to overhear.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Session Time \u2014 Before Morning",
+    "fact": "The events unfold under pressure of an impending deadline \u2014 'before morning' \u2014 which frames all decisions. Time is scarce, and the party must choose between completing tasks, freeing prisoners, and acquiring intelligence.",
+    "source_quote": "I thought about how many locks I still had to pick tonight, and what we still needed to do before morning.",
+    "quote_verified": false
+  }
+]

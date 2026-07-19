@@ -1,0 +1,618 @@
+[
+  {
+    "type": "location",
+    "subject": "Nulb",
+    "fact": "Nulb is a village notorious for its loose morals and unsavory reputation.",
+    "source_quote": "the village of Nulb, a place notorious for its loose morals and unsavory reputation",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Drowned Cottage",
+    "fact": "The party met with local guards at the Drowned Cottage.",
+    "source_quote": "After meeting with local guards at the Drowned Cottage",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Boatwright",
+    "fact": "The Boatwright is a landmark in Nulb.",
+    "source_quote": "passing landmarks like the boatwright",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Waterstead Hostel",
+    "fact": "The Waterstead Hostel is a landmark in Nulb.",
+    "source_quote": "passing landmarks like the boatwright, Waterstead Hostel",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Nulb Stables",
+    "fact": "The Nulb Stables is a landmark in Nulb.",
+    "source_quote": "passing landmarks like the boatwright, Waterstead Hostel, Nulb Stables",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Gallows Square",
+    "fact": "Gallows Square is a landmark in Nulb.",
+    "source_quote": "passing landmarks like the boatwright, Waterstead Hostel, Nulb Stables, and Gallows Square",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Constable Eldrin Malavar",
+    "fact": "Constable Eldrin Malavar posted signposts warning about a condemned temple south of town and declaring the Pilgrim\u2019s Trail off-limits.",
+    "source_quote": "signposts from Constable Eldrin Malavar warning citizens about a condemned temple south of town and declaring the Pilgrim\u2019s Trail off-limits to all",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Boatman\u2019s Tavern",
+    "fact": "The party met Skole and Ketta at the Boatman\u2019s Tavern.",
+    "source_quote": "At the Boatman\u2019s Tavern, they met Skole, the owner and bartender, along with Ketta, a serving wench",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Skole",
+    "fact": "Skole is the owner and bartender of the Boatman\u2019s Tavern.",
+    "source_quote": "they met Skole, the owner and bartender",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ketta",
+    "fact": "Ketta is a serving wench at the Boatman\u2019s Tavern.",
+    "source_quote": "they met Skole, the owner and bartender, along with Ketta, a serving wench",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Rhennee encampment",
+    "fact": "The party encountered Eryk Velkori at the Rhennee encampment.",
+    "source_quote": "their investigation led them to the Rhennee encampment, where they encountered Eryk Velkori",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Eryk Velkori",
+    "fact": "Eryk Velkori is the caravan leader of the Rhennee encampment.",
+    "source_quote": "Eryk Velkori, the caravan leader",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Eryk Velkori",
+    "fact": "Eryk Velkori is consumed by grief over his missing sister, Serena.",
+    "source_quote": "Eryk Velkori, the caravan leader, who was consumed by grief over his missing sister, Serena",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Eryk Velkori",
+    "fact": "Eryk Velkori clutches a bottle of rum and weeps openly.",
+    "source_quote": "Eryk clutched a bottle of rum and wept openly",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Serena's disappearance",
+    "fact": "Serena vanished after a night at the Boatman\u2019s Tavern.",
+    "source_quote": "Serena had vanished after a night at the Boatman\u2019s Tavern",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Zelrads",
+    "fact": "Eryk Velkori believes the Zelrads took Serena.",
+    "source_quote": "he believed she had been taken by the Zelrads, the Reapers, or Nisera\u2019s Talons",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "the Reapers",
+    "fact": "Eryk Velkori believes the Reapers took Serena.",
+    "source_quote": "he believed she had been taken by the Zelrads, the Reapers, or Nisera\u2019s Talons",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Nisera\u2019s Talons",
+    "fact": "Eryk Velkori believes Nisera\u2019s Talons took Serena.",
+    "source_quote": "he believed she had been taken by the Zelrads, the Reapers, or Nisera\u2019s Talons",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "the Iron Lash",
+    "fact": "Eryk Velkori said the Iron Lash is the name of the local brothel.",
+    "source_quote": "he laughed heartily and revealed it was simply the name of the local brothel",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Tala",
+    "fact": "Tala is Eryk Velkori\u2019s daughter.",
+    "source_quote": "Eryk\u2019s daughter Tala then approached the party",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Tala invites party to Vethra",
+    "fact": "Tala invited the party to meet her mother, Vethra Velkori, for a divination.",
+    "source_quote": "inviting them to meet with her mother, Vethra Velkori, for a divination",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Vethra Velkori",
+    "fact": "Vethra Velkori is an elderly Rhennee woman who performs divinations.",
+    "source_quote": "the elderly Rhennee woman sat cross-legged in the shadows of her wagon",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "bones",
+    "fact": "Vethra Velkori is surrounded by bones.",
+    "source_quote": "surrounded by bones",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "blackened cards",
+    "fact": "Vethra Velkori is surrounded by blackened cards.",
+    "source_quote": "surrounded by bones, blackened cards",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "copper bowl",
+    "fact": "Vethra Velkori uses a copper bowl that smells of clove and blood.",
+    "source_quote": "a copper bowl that smelled of clove and blood",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "smoke reading by Vethra",
+    "fact": "Vethra burned a lock of braided black hair for a smoke reading.",
+    "source_quote": "Vethra burned a lock of braided black hair",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "visions from smoke reading",
+    "fact": "The smoke reading revealed a crooked house with shifting shadows.",
+    "source_quote": "revealing visions of a crooked house with shifting shadows",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "visions from smoke reading",
+    "fact": "The smoke reading revealed a tavern with too many secrets called the Waterside.",
+    "source_quote": "revealing visions of ... a tavern with too many secrets called the Waterside",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "visions from smoke reading",
+    "fact": "The smoke reading revealed a man with a red sash who dealt in whispers and iron.",
+    "source_quote": "revealing visions of ... a man with a red sash who dealt in whispers and iron",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "bone reading by Vethra",
+    "fact": "Vethra tossed wolf knuckles and pigeon vertebrae into a shallow bowl for a bone reading.",
+    "source_quote": "Vethra tossed wolf knuckles and pigeon vertebrae into a shallow bowl",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "bone reading result",
+    "fact": "Vethra declared that Serena might be on her knees but was not broken, not with Rhennee blood in her veins.",
+    "source_quote": "she declared that Serena might be on her knees but was not broken, not with Rhennee blood in her veins",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Vethra draws Tarokka cards",
+    "fact": "Vethra drew cards from her faded Tarokka deck despite Eryk\u2019s protests.",
+    "source_quote": "Vethra insisted on drawing cards from her faded Tarokka deck",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Tarokka card: The Chain",
+    "fact": "Vethra drew The Chain from her Tarokka deck.",
+    "source_quote": "she revealed The Chain, The Betrayer, and The Flooded Gate",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Tarokka card: The Betrayer",
+    "fact": "Vethra drew The Betrayer from her Tarokka deck.",
+    "source_quote": "she revealed The Chain, The Betrayer, and The Flooded Gate",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Tarokka card: The Flooded Gate",
+    "fact": "Vethra drew The Flooded Gate from her Tarokka deck.",
+    "source_quote": "she revealed The Chain, The Betrayer, and The Flooded Gate",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Tarokka card: crimson barge",
+    "fact": "Vethra drew a fourth card: a crimson-painted barge sailing low on the Velverdyva, heavy with souls that no longer sang.",
+    "source_quote": "drew a fourth card with a hiss of breath\u2014a crimson-painted barge sailing low on the Velverdyva, heavy with souls that no longer sang",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Serena taken to crimson barge",
+    "fact": "Vethra\u2019s reading indicated Serena had been taken to the crimson barge.",
+    "source_quote": "Serena had been taken there, bound and traded like meat",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Vethra Velkori",
+    "fact": "Vethra Velkori collapsed after drawing the fourth Tarokka card.",
+    "source_quote": "Exhausted, Vethra collapsed back",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Eryk declares they found hell",
+    "fact": "Eryk declared that the party had indeed found their map to hell.",
+    "source_quote": "Eryk declared they had indeed found their map to hell",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Captain Tolub",
+    "fact": "Captain Tolub is a boisterous and intimidating ship captain with river pirates.",
+    "source_quote": "Captain Tolub, a boisterous and intimidating figure who made an awful joke that his crew laughed at with exaggerated enthusiasm",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ketta",
+    "fact": "Ketta nervously revealed there had been a fight involving Serena and the Rhennee.",
+    "source_quote": "Ketta, who nervously revealed there had been a fight involving Serena and the Rhennee",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Ketta points to Captain Tolub",
+    "fact": "Ketta pointed fearfully toward Captain Tolub, too terrified to say more.",
+    "source_quote": "she pointed fearfully toward the pirate captain, clearly too terrified to say more",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Tolub reveals Serena taken to Iron Lash",
+    "fact": "Captain Tolub revealed that Serena had been taken to the Iron Lash as payment for something.",
+    "source_quote": "he revealed that Serena had been taken to the Iron Lash as payment for something",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Iron Lash",
+    "fact": "The Iron Lash is located upstairs in the Boatman\u2019s Tavern.",
+    "source_quote": "he mockingly informed them it was upstairs in the very same building",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Elvanna",
+    "fact": "Elvanna is the boss of the Iron Lash brothel.",
+    "source_quote": "they met a gorgeous woman with orange-red hair who spoke with a posh accent. Elvanna confirmed she held Serena",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Elvanna demands ransom",
+    "fact": "Elvanna demanded five hundred gold pieces for Serena\u2019s release.",
+    "source_quote": "demanded five hundred gold pieces for her release",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "party pays ransom",
+    "fact": "The party paid five hundred gold pieces for Serena\u2019s release without negotiation.",
+    "source_quote": "The party paid the sum without negotiation",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Elvanna is surprised by payment",
+    "fact": "Elvanna remarked she might have asked for more if she had known they were that desperate.",
+    "source_quote": "Elvanna, who remarked that she might have asked for more if she had known they were that desperate",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Serena",
+    "fact": "Serena was brought from the pits, appearing dazed but defiant.",
+    "source_quote": "Serena was brought from the pits, appearing dazed but defiant",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Serena wishes Elvanna to hell",
+    "fact": "Serena retorted to Elvanna\u2019s wish to see her again by saying, 'go to hell.'",
+    "source_quote": "Elvanna mockingly wished to see her again, to which Serena retorted with a wish for Elvanna to go to hell",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Serena explains coercion",
+    "fact": "Serena explained she had been used as leverage for a debt she didn\u2019t know about.",
+    "source_quote": "she explained she had been used as leverage for a debt she didn\u2019t know about",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Serena says father coerced into ambushes",
+    "fact": "Serena said her father was being coerced into ambushes along the forest road.",
+    "source_quote": "that her father was being coerced into ambushes along the forest road",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Eryk rejoices at Serena\u2019s return",
+    "fact": "Eryk\u2019s eyes lit up with joy when Serena returned.",
+    "source_quote": "Eryk\u2019s eyes lit up with joy",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Rhennee camp celebrates",
+    "fact": "The entire Rhennee camp erupted in music and dancing after Serena\u2019s return.",
+    "source_quote": "the entire camp erupted in music and dancing",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Eryk declares party family",
+    "fact": "Eryk declared the party family.",
+    "source_quote": "Eryk declared the party family",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "party spends night celebrating",
+    "fact": "The party spent the night celebrating with the Rhennee.",
+    "source_quote": "invited them to spend the night celebrating with them",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "party\u2019s belongings intact",
+    "fact": "The party woke to find all their belongings intact.",
+    "source_quote": "they woke to find all their belongings intact",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Eryk welcomes party as Rhennee",
+    "fact": "Eryk formally welcomed the party as members of the Rhennee clan.",
+    "source_quote": "confirming Eryk\u2019s honesty and his formal welcome of them as members of the Rhennee clan",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Eryk offers protection",
+    "fact": "Eryk offered the party protection and friendship in Nulb.",
+    "source_quote": "He offered them protection and friendship in Nulb",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Eryk warns about trust",
+    "fact": "Eryk warned the party not to trust all their friends.",
+    "source_quote": "warning that in this town, friends were worth a lot, but they shouldn\u2019t trust all their friends",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "party credited with 500 gold",
+    "fact": "The party was credited with five hundred gold pieces for Serena\u2019s rescue.",
+    "source_quote": "the party also discovered they had been credited with five hundred gold pieces for Serena\u2019s rescue",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Hall of the Scarlet Moon",
+    "fact": "Captain Tolub directed the party to the Hall of the Scarlet Moon in the Kron Hills.",
+    "source_quote": "Tolub directed them to the Hall of the Scarlet Moon, a small encampment a day\u2019s hike northeast of Nulb in the Kron Hills",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Elazar",
+    "fact": "Elazar is a druid who teaches the rite of the wicker giant.",
+    "source_quote": "a druid named Elazar taught the rite of the wicker giant to restore nature\u2019s balance",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Hommlet",
+    "fact": "The party traveled south through Hommlet.",
+    "source_quote": "The party traveled south through Hommlet",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ostler Goodingoot",
+    "fact": "Ostler Goodingoot is the owner and council member of the tavern in Hommlet.",
+    "source_quote": "Ostler Goodingoot, the owner and council member",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jaroo",
+    "fact": "Jaroo is a local druid in Hommlet.",
+    "source_quote": "directed them to speak with Jaroo, a local druid",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Jaroo suspects Scarlet Moon",
+    "fact": "Jaroo expressed deep suspicion about the Circle of the Scarlet Moon, finding them too showy and flashy.",
+    "source_quote": "Jaroo expressed deep suspicion about the Circle of the Scarlet Moon, finding them too showy, flashy, and ecstatic for true druids",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Kron Hills",
+    "fact": "The party arrived at the Hall of the Scarlet Moon in the Kron Hills.",
+    "source_quote": "the party continued past Shernobb into the Kron Hills, where they arrived at the Hall of the Scarlet Moon",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Hall of the Scarlet Moon",
+    "fact": "The Hall of the Scarlet Moon has a square tower ringed by ruined walls.",
+    "source_quote": "a square tower ringed by ruined walls",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Hall of the Scarlet Moon",
+    "fact": "The Hall of the Scarlet Moon has a massive bonfire shaped like a fiery giant.",
+    "source_quote": "a massive bonfire shaped like a fiery giant",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Hall of the Scarlet Moon",
+    "fact": "The Hall of the Scarlet Moon has seven smaller bonfires with tents clustered around them.",
+    "source_quote": "and seven smaller bonfires with tents clustered around them",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Verigo",
+    "fact": "Verigo is a human druid in Camp Number One of the Hall of the Scarlet Moon.",
+    "source_quote": "they met four friendly human druids named Verigo, Mahoon, Iniri, and Faria",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Mahoon",
+    "fact": "Mahoon is a human druid in Camp Number One of the Hall of the Scarlet Moon.",
+    "source_quote": "they met four friendly human druids named Verigo, Mahoon, Iniri, and Faria",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Iniri",
+    "fact": "Iniri is a human druid in Camp Number One of the Hall of the Scarlet Moon.",
+    "source_quote": "they met four friendly human druids named Verigo, Mahoon, Iniri, and Faria",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Faria",
+    "fact": "Faria is a human druid in Camp Number One of the Hall of the Scarlet Moon.",
+    "source_quote": "they met four friendly human druids named Verigo, Mahoon, Iniri, and Faria",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "druids invite party to stay",
+    "fact": "The druids in Camp Number One invited the party to stay the night.",
+    "source_quote": "inviting them to stay the night",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Albrith",
+    "fact": "Albrith is a robed man in Camp Number Two of the Hall of the Scarlet Moon.",
+    "source_quote": "they encountered two robed men named Albrith and Ingulf",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ingulf",
+    "fact": "Ingulf is a robed man in Camp Number Two of the Hall of the Scarlet Moon.",
+    "source_quote": "they encountered two robed men named Albrith and Ingulf",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Albrith and Ingulf identify as circuits",
+    "fact": "Albrith and Ingulf identified themselves as circuits of the Scarlet Moon.",
+    "source_quote": "who identified themselves as circuits of the Scarlet Moon",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Albrith and Ingulf reveal elemental evil",
+    "fact": "Albrith and Ingulf revealed their allegiance by stating 'fire, water, earth, or air.'",
+    "source_quote": "revealed their allegiance by stating 'fire, water, earth, or air'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "party realizes deception",
+    "fact": "The party realized they had been set up by Captain Tolub.",
+    "source_quote": "The party immediately realized they had been set up by Captain Tolub",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "fire priests attack",
+    "fact": "The fire priests unleashed devastating magical attacks on the party.",
+    "source_quote": "the fire priests unleashed devastating magical attacks, hurling explosive bursts of flame",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Calmer knocked unconscious",
+    "fact": "The fire priests\u2019 attacks knocked Calmer unconscious.",
+    "source_quote": "severely wounded the party and knocked Calmer unconscious",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr uses magical dust",
+    "fact": "Zephyr used a magical dust to render the entire party invisible.",
+    "source_quote": "Zephyr quickly used a magical dust to render the entire party invisible",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequioa grabs Calmer",
+    "fact": "Sequioa grabbed the fallen Calmer.",
+    "source_quote": "Sequioa grabbed the fallen Calmer",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr cuts bear\u2019s rope",
+    "fact": "Zephyr cut the rope holding one of the leashed bears.",
+    "source_quote": "Zephyr cut the rope holding one of the leashed bears",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "leashed bear",
+    "fact": "A leashed bear was unleashed upon the fire priests.",
+    "source_quote": "unleashing the enraged animal upon the priests",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "party escapes into wilderness",
+    "fact": "The party escaped into the hazy wilderness after the bear distraction.",
+    "source_quote": "as the party escaped into the hazy wilderness",
+    "quote_verified": true
+  }
+]

@@ -1,0 +1,375 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia is a battle-hardened operative who assessed and exploited a choke point during the temple conflict, taking a critical hit that reoriented their perception of the fight, and is now prioritizing disengagement due to escalating environmental hazards and personal injury.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is a precise and efficient combatant who consistently acts with tactical clarity \u2014 landing arrows, pistol shots, and dagger strikes with lethal accuracy \u2014 and is now questioning the nature of Calmer\u2019s recent outbursts of divine power and their possible connection to deeper corruption or possession.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia is a reliable and decisive ally who executes finishing blows with surgical precision, sets traps under pressure, and remains grounded amid chaos, but is increasingly aware of the unsettling transformation in Calmer\u2019s behavior and the broader necromantic threat within the temple.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a cleric of St. Cuthbert who has suffered two catastrophic failures against a wraith, endured physical and spiritual trauma, and then unleashed a violent, uncontrolled surge of divine power against ghouls \u2014 an outburst so extreme it has raised suspicions among allies that his faith may be compromised or overtaken by something darker.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Wraith",
+    "fact": "A wraith that resisted two full divine interventions from Calmer, remained untouched by holy light, and then announced its intent to kill one of the party \u2014 later laughing hysterically as it pursued and wounded Calmer, demonstrating supernatural resilience and psychological malice beyond typical undead.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Bugbears",
+    "fact": "Bugbears formed a disciplined barricade at a choke point in the corridor, holding against an Earth Temple advance, and were only overcome after the barricade\u2019s hinge \u2014 a cultist \u2014 was eliminated, revealing tactical discipline but ultimately brittle positioning.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Ghouls",
+    "fact": "Four ghouls, identified as recently deceased Earth Temple members, ambushed the party in their own territory, exhibiting necromantic control and an unnerving familiarity with the party\u2019s identities \u2014 one killed instantly by Zephyr, the others scattered by Calmer\u2019s uncontrolled holy wrath.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple is engaged in a tactical stalemate with the Fire Temple, but its members\u2019 corpses are being necromantically harvested and deployed as ghouls within the temple complex, suggesting an internal betrayal or external necromantic interference undermining the conflict.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Fire Temple",
+    "fact": "The Fire Temple is locked in a heated stalemate with the Earth Temple, its forces advancing into corridors now choked with steam and debris, and its members\u2019 bodies being used as undead weapons \u2014 indicating the war is being manipulated by unseen necromantic forces.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Barricade Breach",
+    "fact": "The barricade at the choke point was breached not by force, but by eliminating its hinge \u2014 the frontline cultist \u2014 followed by Calmer\u2019s divine radiance that destroyed the double doors entirely, triggering the collapse of the Fire Temple\u2019s defensive line and the onset of factional chaos.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Divine Failure Against Wraith",
+    "fact": "Calmer\u2019s two consecutive, fully powered divine interventions against the wraith failed utterly \u2014 holy light dissolving into nothing \u2014 marking an unprecedented event in which a cleric of St. Cuthbert\u2019s power was rendered impotent by an undead entity, shattering theological expectations.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Necromantic Ghoul Deployment",
+    "fact": "Corpses of Earth Temple members were raised as ghouls and deployed in the party\u2019s own territory during the temple war, revealing an active necromantic operation with intimate knowledge of the party\u2019s movements and identities \u2014 a direct threat to operational security.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Air Temple Passage",
+    "fact": "The Air Temple passage is a dark, damp corridor where the wraith appeared and resisted divine power, and where Calmer was wounded and pursued \u2014 now marked by the lingering echo of its hysterical laughter and the scent of corrupted air.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Steam-Choked Corridor",
+    "fact": "A corridor transformed by elemental violence into a scalding sauna, filled with obscuring steam, cooling bodies, and a fortified barricade \u2014 now breached and abandoned, but still hazardous due to uncontrolled environmental magic that continues to intensify.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Ghoul Ambush Site",
+    "fact": "A corridor in the party\u2019s controlled territory where four ghouls emerged unexpectedly, triggering a violent confrontation \u2014 now littered with the corpse of a ghoul killed by Zephyr and the lingering stench of necromantic decay.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Calmer\u2019s Transformation",
+    "fact": "Calmer\u2019s two failed attempts against the wraith were followed by an explosive, almost ecstatic release of divine power against ghouls \u2014 raising concerns among allies that his faith may be corrupted, his psyche fractured, or his body inhabited by something that uses his voice and power.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Necromantic Interference",
+    "fact": "The resurrection and deployment of Earth Temple members as ghouls during the temple war suggests an unseen necromancer is manipulating both factions \u2014 possibly to exploit the chaos, harvest souls, or eliminate key players \u2014 with access to corpses and intimate knowledge of the party\u2019s operations.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Wraith\u2019s Intent",
+    "fact": "The wraith did not merely attack \u2014 it announced its intent to kill one of the party, laughed hysterically after wounding Calmer, and resisted divine power with calm superiority \u2014 suggesting it is not a random undead, but a deliberate agent with a personal stake in the party\u2019s destruction.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Blessed Plate Mail",
+    "fact": "Calmer\u2019s blessed plate mail, the finest protection available to a cleric of his station, was pierced by the wraith\u2019s touch and then compounded by a stray fire bolt \u2014 proving even superior magical armor cannot guarantee survival against supernatural malice.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Zephyr\u2019s Dagger",
+    "fact": "Zephyr\u2019s dagger was used to execute a flawless, pre-emptive kill on the first ghoul \u2014 a strike so precise it prevented the creature from even initiating its attack, embodying the assassin\u2019s principle of eliminating threats before they become threats.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Session Date",
+    "fact": "The events described occurred during the same operational window \u2014 the temple war\u2019s critical phase \u2014 immediately following the breach of the barricade and preceding the party\u2019s disengagement, with no time for rest or recovery.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Source of the Steam",
+    "fact": "The steam filling the corridor is not natural \u2014 it is intensifying, feeding on elemental violence, and appears to be generated by an unknown force that persists despite the battle\u2019s outcome \u2014 suggesting the temple\u2019s magical infrastructure is failing or being actively corrupted.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a priest who has survived being killed once, and his presence alters the emotional dynamic of interactions, inducing caution or submission in others.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is an information-driven operative with a blunt, confrontational style; he extracts knowledge through pressure and is unbothered by moral ambiguity, but his methods often lack finesse.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia is a hyper-observant professional who reads environments and people with clinical precision; she notices subtle cues \u2014 door movements, body language, environmental grammar \u2014 and files them without immediate judgment.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Kelno",
+    "fact": "Kelno is the Air Temple cleric who quietly orchestrated his faction's infiltration of the collapsing temple war; he let other factions destroy each other while his agents looted and secured resources, positioning himself as the ultimate beneficiary.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "The Freed Prisoner",
+    "fact": "The freed prisoner is a former Air Temple cultist, imprisoned for factional reasons; he is intelligent, pragmatic, and skilled at reading power dynamics \u2014 he traded knowledge of the Deep Temple\u2019s hidden passage for his freedom.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Hartsch",
+    "fact": "Hartsch is the leader of the Obsidian Edge, who summoned Zephyr and the party for an urgent war council, indicating centralized control over the faction\u2019s strategic response to the temple collapse.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Obsidian Edge",
+    "fact": "The Obsidian Edge is a covert faction that ignited the war between the four temples; they deliberately lit the match and stepped back, allowing others to fight while they prepared to claim the aftermath.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Air Temple",
+    "fact": "The Air Temple, under Kelno\u2019s quiet leadership, exploited the chaos of the temple war to infiltrate the prison levels and extract strategic knowledge, positioning its agents to control access to the Deep Temple.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple is represented by the runner who delivered Hartsch\u2019s summons; it appears to be a participant in the Obsidian Edge\u2019s broader strategy, though its internal dynamics remain opaque.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Fire Temple",
+    "fact": "The Fire Temple engaged in open elemental warfare with the Water Temple, contributing to the chaotic destruction that allowed Kelno\u2019s agents to move freely through the lower corridors.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Water Temple",
+    "fact": "The Water Temple fought the Fire Temple with gargoyle elementals, creating a persistent, obscuring battle that masked the movement of other factions through the Hall of Trophies.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Fire Snakes",
+    "fact": "Fire snakes are elemental combatants locked in violent conflict with water gargoyles; they are not sentient negotiators but forces of destruction that sustain chaos until exhausted.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Water Gargoyles",
+    "fact": "Water gargoyles are animated elemental defenders engaged in unyielding combat with fire snakes; they show no tactical retreat or negotiation, only relentless aggression.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Wounded Salamander",
+    "fact": "The wounded salamander is a persistent elemental combatant, still contributing to the battle despite injury; its presence indicates the conflict is not one-sided and may be escalating.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Goblins",
+    "fact": "Goblins are looting agents of Kelno\u2019s faction, moving through hidden passages with bags of coin; they operate with discipline and purpose, not as scavengers but as organized collectors of spoils.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Ghouls",
+    "fact": "Ghouls are Kelno\u2019s secondary looting force, dragging looted weapons with the same purposeful efficiency as the goblins; they are not frenzied undead but methodical agents of factional acquisition.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Second Level Corridors",
+    "fact": "The Second Level Corridors are a ruinous network of stone passages filled with signs of recent looting, blood trails, and abandoned armor; they are a battleground-turned-plunder zone, where factional agents operate unseen.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Hall of Trophies and Elemental Strife",
+    "fact": "The Hall of Trophies is a former celebration space now dominated by elemental warfare; its walls display mummified heads and broken weapons, and its silence is broken only by steam and violence.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Prisoner\u2019s Chamber",
+    "fact": "The Prisoner\u2019s Chamber is a dungeon space saturated with fear and iron; it holds chained captives used as bargaining chips, and its atmosphere reveals the temple\u2019s systematic cruelty toward factional dissidents.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Air Temple Hidden Passage",
+    "fact": "The hidden passage to the Deep Temple is a secret route known only to high-level Air Temple insiders; it was revealed by a prisoner who had direct contact with Kelno, making it a high-value intelligence asset.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "The Map",
+    "fact": "The map is a physical artifact used by the party to navigate the temple; it was annotated by the freed prisoner with the precise location of the hidden passage, turning it from a tool into a key.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Shackles",
+    "fact": "The shackles are iron restraints used to imprison temple dissidents; they were picked cleanly by Zinnia, demonstrating her mastery of mechanical systems and reinforcing her role as an enabler of freedom.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Bags of Coin",
+    "fact": "The bags of coin are looted wealth carried by Kelno\u2019s goblins; each bag weighs approximately sixty pounds and represents the tangible spoils of the temple war, now in the hands of a silent victor.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Temple War Initiation",
+    "fact": "The Obsidian Edge deliberately ignited war between the four temples, creating chaos to mask their own infiltration and resource acquisition; the event was not a collapse but a calculated strategy.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Prisoner Liberation",
+    "fact": "The liberation of the Air Temple cultist was a tactical decision that secured critical intelligence on the Deep Temple\u2019s hidden passage; it was not an act of mercy but a transaction of power.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Elemental Battle in the Hall",
+    "fact": "The sustained elemental conflict between fire snakes and water gargoyles created a self-sustaining veil of steam and noise, enabling the party to move unseen through the Hall of Trophies.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Summoning by Hartsch",
+    "fact": "Hartsch summoned the party for an urgent war council, indicating that the Obsidian Edge is consolidating control over the aftermath of the temple collapse and preparing for its next phase.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Moving Door",
+    "fact": "A door in the Hall of Trophies opened and closed on its own during the elemental battle; it was not a draft or mechanism but likely an observer \u2014 an unknown entity tracking the party\u2019s movements.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Kelno\u2019s True Intent",
+    "fact": "Kelno\u2019s quiet manipulation of the war suggests he is not merely a survivor but a master strategist; his next move \u2014 and whether he intends to ally with or betray the Obsidian Edge \u2014 remains unknown.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Deep Temple\u2019s Nature",
+    "fact": "The Deep Temple is not a destination but a threshold; it is feared, avoided, and shrouded in silence \u2014 its true purpose, occupants, and power remain hidden behind language, fear, and locked doors.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Runner\u2019s Urgency",
+    "fact": "The Earth Temple runner\u2019s immediate summons implies the Obsidian Edge is accelerating its plans; the party\u2019s delay in reaching the Deep Temple may now conflict with a larger, unfolding agenda.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occurred during a single, continuous descent through the temple levels \u2014 a session marked by escalating tension, silent victories, and the slow realization that the party was not the hunters, but the hunted.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Hartsch",
+    "fact": "Hartsch is useful and requires maintenance, and he whistles to summon the Obsidian Edge as part of a confirmed arrangement.",
+    "source_quote": "Hartsch whistled and the Obsidian Edge came running, because that was the arrangement they had made",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Obsidian Edge",
+    "fact": "The Obsidian Edge is a creature or entity that responds to Hartsch\u2019s whistle, and is bound to him through a formalized alliance.",
+    "source_quote": "Hartsch whistled and the Obsidian Edge came running",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "asset status",
+    "fact": "The individual is being treated as someone else\u2019s asset while attempting to build their own balance sheet, creating a particular indignity.",
+    "source_quote": "The particular indignity of being someone else's asset while you were trying to build your own balance sheet",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "door's location",
+    "fact": "The door's location is mentally held by the individual like unspent money, suggesting it is a future point of action or access.",
+    "source_quote": "The door's location sat behind his eyes like money he hadn't spent yet",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "message receipt",
+    "fact": "The individual received a message calmly and unhurriedly, signaling deliberate control over his actions and environment.",
+    "source_quote": "He let the runner see him receiving the message calmly. Unhurried.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "leash",
+    "fact": "The leash attached to the alliance is real, symbolizing control and dependency within the relationship between Hartsch and the Obsidian Edge.",
+    "source_quote": "The leash attached to it was also real",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "self-determination",
+    "fact": "The individual is choosing his path deliberately, asserting autonomy despite being part of a controlled alliance.",
+    "source_quote": "The kind of man who goes where he chooses, and who happens to be choosing this",
+    "quote_verified": true
+  }
+]

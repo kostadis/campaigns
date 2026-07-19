@@ -1,0 +1,100 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is a cautious observer who summoned Calmer and Thorne, and later led the group toward the Moathouse. He is present during the bridge collapse and kills the final frog with his hand.",
+    "source_quote": "Zephyr says, \u201cWell, since we are all here, let\u2019s go outside and wait for the rest of the crew.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a devout, over-eager cleric of St. Cuthbert, insecure about his first adventure. He insists on leading the party onto the drawbridge, which collapses, causing him to fall into the water and be injured. He survives after being patched up by Zinia.",
+    "source_quote": "Calmer shouts, \u201cI think it\u2019s time that I did what all great clerics of St. Cuthbert do, which is lead.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorne (Duke)",
+    "fact": "Thorne, who goes by Duke, is a rugged, scarred man in his late 30s with a weathered face and short brown hair. He is pragmatic, focused on utility, and comments on cooking frog legs. He sets up camp beyond the drawbridge and offers horses to Calmer.",
+    "source_quote": "Thurne shouts, \u201cI can cook something nice with those legs. Tastes like chicken.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia is a masked spy who has been observing the group. He is perceptive, quick to react, and survives the frog ambush unharmed. He rescues Calmer from the water, kills a frog, and witnesses the final frog die from an arrow. He is deeply unimpressed by the party\u2019s incompetence.",
+    "source_quote": "Zinia mutters to himself that this is not the kind of start that will ingratiate him with the clerics of St. Cuthbert.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia is injured during the bridge collapse and is dragged to camp by Thorne. He is pragmatic, takes charge after Calmer\u2019s failure, and leads the group toward the moathouse door. He observes the state of the entrance and notes signs of recent traffic.",
+    "source_quote": "Sequoia decides that he can lead, but Sequoia will observe.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "St. Cuthbert's Clerics",
+    "fact": "Clerics of St. Cuthbert are expected to lead in dangerous situations, as Calmer believes. Their traditions are rigid, and Calmer\u2019s failure to uphold them causes him shame.",
+    "source_quote": "Calmer shouts, \u201cI think it\u2019s time that I did what all great clerics of St. Cuthbert do, which is lead.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Giant Frogs",
+    "fact": "Four giant frogs ambush the party near the drawbridge, missing Zinia. Two more jump onto the bridge during its collapse. Four frogs are killed in combat; one is killed by Zinia, one by Zephyr, one by an arrow, and one by Sequoia. Two frogs are injured by the collapse. Their presence is tied to the moathouse\u2019s decay.",
+    "source_quote": "Four giant frogs jump out of the pool near the bridge and attack.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Moathouse",
+    "fact": "The Moathouse is a decaying ruin surrounded by a treacherous, overgrown path. The drawbridge is rotting and collapses under weight. The courtyard has a broken door, shattered stairs, and signs of recent human and animal traffic. The surrounding land is a boggy, unhealthy marsh with thick vegetation, strange sounds, and dangerous terrain.",
+    "source_quote": "The bogs stink. The vegetation appears dense and prolific, but somehow sickly and unhealthy, creepers and vines throwing their strangling loops over the skeletons of dead saplings and living bushes alike.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Track to the Moathouse",
+    "fact": "The path to the Moathouse is overgrown, washed out in places, and littered with fallen trees and mire. It is barely passable, requiring hours to traverse on foot or horseback. Game still uses the path, leaving faint traces. The land slopes downward into a swamp near the ruins.",
+    "source_quote": "The track here is only about 15 feet wide or so, with crumbling embankments making travel near the edge dangerous.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Bridge Collapse",
+    "fact": "The drawbridge collapses under the weight of Calmer and Zinia\u2019s advance, causing Calmer and Sequoia to fall into the water. Two frogs are injured by the collapse. Zinia survives, and Zephyr remains standing. The collapse triggers a second wave of frog attacks.",
+    "source_quote": "The frogs' and the party's weight causes the bridge to shatter.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Frog Ambush",
+    "fact": "A total of six giant frogs attack the party: four near the bridge, two on the collapsing drawbridge. All are killed. Zinia kills one, Zephyr kills one, an arrow kills one, and Sequoia kills one. The ambush is poorly coordinated but deadly due to the terrain.",
+    "source_quote": "The last ribbit,\" he thinks. A few seconds later, the ground is drenched in the blood of giant frogs.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Drawbridge",
+    "fact": "The drawbridge to the Moathouse is rotted and structurally unsound. It collapses under the weight of the party, killing no one directly but causing injuries and triggering a second wave of attacks. Its condition was unnoticed until too late.",
+    "source_quote": "At the last moment, the masked spy notices the bridge rotting.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Unexplained Traffic",
+    "fact": "Zephyr observes signs of recent human and pack animal traffic leading to the Moathouse, suggesting other parties have recently passed through. The origin and purpose of this traffic are unknown.",
+    "source_quote": "Zephyr shouts, \u201cHm, this is interesting. Some human and pack animal traffic comes this way.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Planting 16, 579",
+    "fact": "The events of the chapter occur on Planting 16, 579. This is the day the party assembles, travels to the Moathouse, and engages in the frog ambush and bridge collapse.",
+    "source_quote": "Date: Planting 16, 579",
+    "quote_verified": true
+  }
+]

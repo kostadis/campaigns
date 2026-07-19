@@ -1,0 +1,275 @@
+[
+  {
+    "type": "npc",
+    "subject": "Gremag",
+    "fact": "Gremag is slain and referenced as dead, requiring a death save.",
+    "source_quote": "Gremag slain",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia is unconscious and successfully stabilizes, rolling a 16 on her death save.",
+    "source_quote": "Zinnia unconscious, requiring a death save. Zinnia successfully stabilized, rolling a 16 on her save",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr opened the action, attempting to finish off Rannos, who was already severely wounded.",
+    "source_quote": "Zephyr opened the action, attempting to finish off Rannos, who was already severely wounded",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Rannos",
+    "fact": "Rannos is down to 2 hit points and killed by Calmer's Spiritual Weapon with a dramatic flourish.",
+    "source_quote": "Rannos, who was down to 2 hit points, with a dramatic flourish",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer struck the killing blow against Rannos for the second time this session using his Spiritual Weapon, then rushed to Zinnia and cast Cure Light Wounds, healing her for 24 points.",
+    "source_quote": "Calmer who, for the second time this session, struck the killing blow using his Spiritual Weapon, dispatching Rannos... Calmer then rushed to Zinnia and cast Cure Light Wounds, healing her for 24 points",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorne (the Duke)",
+    "fact": "Thorne (the Duke) is a captured mercenary who identifies Rannos and Gremag as agents of the Deep Temple and warns of severe retribution.",
+    "source_quote": "the captured mercenary, Thorne (the Duke)... The Duke immediately identified Rannos and Gremag as agents of the Deep Temple... warned of severe retribution",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Deep Temple",
+    "fact": "The Deep Temple is the overarching leadership of the Temple of Elemental Evil, referenced as the organization behind Rannos and Gremag.",
+    "source_quote": "agents of the Deep Temple (the overarching leadership of the Temple of Elemental Evil)",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Amulet of Proof against Detection",
+    "fact": "An Amulet of Proof against Detection is found among the treasure.",
+    "source_quote": "An Amulet of Proof against Detection",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Ring of Protection +1",
+    "fact": "A Ring of Protection +1 is found among the treasure.",
+    "source_quote": "A Ring of Protection +1",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Dagger of Venom",
+    "fact": "A Dagger of Venom is found among the treasure.",
+    "source_quote": "A Dagger of Venom",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Dust of Disappearance",
+    "fact": "Three doses of Dust of Disappearance are found among the treasure.",
+    "source_quote": "Three doses of Dust of Disappearance",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "scarab",
+    "fact": "A small black scarab inscribed with the glyphs TZGY is found among the treasure.",
+    "source_quote": "A small black scarab inscribed with the glyphs TZGY",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorne",
+    "fact": "Thorne reveals his 'cleaning' skills and offers his services on a retainer basis (20 gold pieces per month plus 100 gold pieces per incident).",
+    "source_quote": "Thorne revealed his 'cleaning' skills and offered his services to the party on a retainer basis (20 gold pieces per month plus 100 gold pieces per incident)",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorne",
+    "fact": "Thorne confirmed his cynical, money-driven nature and his lack of loyalty to the cult.",
+    "source_quote": "Thorne confirmed his cynical, money-driven nature and his lack of loyalty to the cult",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Ostler Goodingoat",
+    "fact": "Ostler Goodingoat is the tavern keeper who questions the party about the sudden departure of the merchants and is successfully bluffed with the story of the magical chest leaving town.",
+    "source_quote": "The tavern keeper, Ostler Goodingoat, questioned the party about the sudden departure of the merchants, and they successfully bluffed him with the story of the magical chest leaving town",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Elmo",
+    "fact": "Elmo is a member of the town committee who feigns inebriation and is revealed to be working for Verbobonc.",
+    "source_quote": "Elmo, a member of the town committee who often acted like a drunken buffoon... Zinnia's high Insight roll (a natural 20) confirmed the party's suspicions: Elmo was feigning inebriation and working for Verbobonc",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Verbobonc",
+    "fact": "Verbobonc is the authority Elmo works for, who cannot send troops without risking conflict with the gnomes of the Kron Hills.",
+    "source_quote": "working for Verbobonc... Verbobonc could not send troops without risking conflict with the gnomes of the Kron Hills",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Moathouse",
+    "fact": "Elmo instructs the party to return to the Moathouse immediately to investigate what's going on and destroy whatever evil presence is there.",
+    "source_quote": "return to the Moathouse immediately to 'investigate what's going on and destroy whatever evil presence is there'",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Kron Hills",
+    "fact": "The Kron Hills are the home of the gnomes whose conflict with Verbobonc prevents troop deployment.",
+    "source_quote": "gnomes of the Kron Hills",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Burne",
+    "fact": "Burne and Rufus confirm Elmo sent the rangers after the missing chest and urge the party to deal with the Moathouse.",
+    "source_quote": "Burne and Rufus approached the party, confirming Elmo... had sent the rangers after the missing chest. They, too, urged the party to deal with the Moathouse",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Rufus",
+    "fact": "Burne and Rufus confirm Elmo sent the rangers after the missing chest and urge the party to deal with the Moathouse.",
+    "source_quote": "Burne and Rufus approached the party, confirming Elmo... had sent the rangers after the missing chest. They, too, urged the party to deal with the Moathouse",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Lareth the Beautiful",
+    "fact": "Lareth the Beautiful is the headquarters figure who greets the party with predatory suspicion and accuses them of treachery after seeing through their deception.",
+    "source_quote": "go directly to Lareth the Beautiful's headquarters to confront him... Lareth greeted them with predatory suspicion... Lareth rolled a high check and saw through their deception, furious that they had failed his mission and were now attempting to backstab him. He accused them of treachery",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr escalated the situation by mocking Lareth the Beautiful: 'The only person here that's backstabbing is you.'",
+    "source_quote": "Zephyr escalated the situation further by mocking him: 'The only person here that's backstabbing is you.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "combat initiation with Lareth",
+    "fact": "Lareth triggers a call to arms and initiates combat as the session concludes.",
+    "source_quote": "triggering a call to arms and initiating combat. The session concluded just as the fight with Lareth and his guards was about to begin",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Earth Temple",
+    "fact": "Lareth has heard rumors of the deaths in the Earth Temple.",
+    "source_quote": "having heard rumors of the deaths in the Earth Temple",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Inn of the Welcome Wench",
+    "fact": "The party returns to the Inn of the Welcome Wench, where they are questioned by Ostler Goodingoat and joined by Elmo.",
+    "source_quote": "The party returned to the Inn of the Welcome Wench... The tavern keeper, Ostler Goodingoat... joined by Elmo",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Moathouse",
+    "fact": "The party is instructed to return to the Moathouse to investigate and destroy an evil presence.",
+    "source_quote": "return to the Moathouse immediately to 'investigate what's going on and destroy whatever evil presence is there'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia's stoic presence reassures Calmer despite his inward shaking from the bloodshed.",
+    "source_quote": "Calmer, despite being inwardly shaken by the bloodshed, was reassured by Zinnia\u2019s stoic presence",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Elmo",
+    "fact": "Elmo immediately drops his feigned inebriation and agrees to speak with the party as equals in a private room.",
+    "source_quote": "Elmo immediately dropped the act, agreeing to speak with the party as equals in a private room",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Elmo",
+    "fact": "Elmo is dismayed that the chest had supposedly left with Rannos and Gremag and rushes off to contact the rangers.",
+    "source_quote": "Elmo... was dismayed that the chest had supposedly left with Rannos and Gremag. He rushed off to contact the rangers",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr decides to expose Elmo's subterfuge.",
+    "source_quote": "Zephyr decided to expose Elmo's subterfuge",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is instructed by Thorne to take the victims' bloodied clothes and ride out of town to abandon them, simulating a struggle.",
+    "source_quote": "Thorne executed his cleanup, then instructed Zinnia and Calmer to take the victims' bloodied clothes and ride out of town to abandon them, simulating a struggle",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia is instructed by Thorne to take the victims' bloodied clothes and ride out of town to abandon them, simulating a struggle.",
+    "source_quote": "Thorne executed his cleanup, then instructed Zinnia and Calmer to take the victims' bloodied clothes and ride out of town to abandon them, simulating a struggle",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is told to return to the Inn of the Welcome Wench and spread the story that Rannos and Gremag had urgently left town after securing a magical chest.",
+    "source_quote": "Zephyr and Sequoia were told to return to the Inn of the Welcome Wench and spread the story that Rannos and Gremag had urgently left town after securing a magical chest",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia is told to return to the Inn of the Welcome Wench and spread the story that Rannos and Gremag had urgently left town after securing a magical chest.",
+    "source_quote": "Zephyr and Sequoia were told to return to the Inn of the Welcome Wench and spread the story that Rannos and Gremag had urgently left town after securing a magical chest",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "secret entrance",
+    "fact": "The party kills two gnoll guards at the secret entrance to Lareth the Beautiful's headquarters.",
+    "source_quote": "They killed two gnoll guards at the secret entrance with ease",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "delivery of severed heads",
+    "fact": "The party delivers the dramatic flourish of the severed heads to Lareth's guard.",
+    "source_quote": "and then delivered the dramatic flourish of the severed heads to Lareth's guard",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Lareth",
+    "fact": "Lareth accuses the party of treachery after seeing through their lie that Rannos and Gremag were acting on his behalf.",
+    "source_quote": "The party attempted to lie, claiming the Deep Temple had taken the chest and that Rannos and Gremag were acting on Lareth's behalf... Lareth... saw through their deception... accused them of treachery",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "group persuasion check success",
+    "fact": "The party succeeds on their group persuasion check, but Lareth still sees through their deception.",
+    "source_quote": "Despite the party succeeding on their group persuasion check, Lareth rolled a high check and saw through their deception",
+    "quote_verified": false
+  }
+]

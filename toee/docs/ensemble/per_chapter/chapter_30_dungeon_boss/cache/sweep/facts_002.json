@@ -1,0 +1,275 @@
+[
+  {
+    "type": "location",
+    "subject": "Water Temple",
+    "fact": "The Water Temple hall has a ceiling arched and lost in shadow high overhead, walls of polished blue-swirled-deep-green stone, and a soft cloudy luminosity bleeding from the stone.",
+    "source_quote": "We came up on the Water Temple and the corridor opened into a hall the size of a barracks, the ceiling arched and lost somewhere in the shadow high overhead. The walls were slabs of polished stone, blue swirled into deep green, and some old magic had been laid into them \u2014 a soft, cloudy luminosity that bled out of the stone and floated in the damp air",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Water Temple",
+    "fact": "The Water Temple hall contains a great sheet of bronze set into the west wall, covered in verdigris.",
+    "source_quote": "Bronze everywhere, all of it gone to verdigris, that green crust that says nobody has touched this in a long time, or nobody dares. A great sheet of bronze set into the west wall.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Water Temple",
+    "fact": "The Water Temple hall has an altar near the middle, round and squat, with a concave top holding a shallow basin of water.",
+    "source_quote": "An altar near the middle of the hall, round and squat, its concave top holding a shallow basin of water",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "basin of water",
+    "fact": "The basin on the altar contains a scatter of coins, gems, and seashells as offerings.",
+    "source_quote": "at the bottom of the basin \u2014 coins, a scatter of gems, seashells. An offering.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Water Temple",
+    "fact": "The Water Temple hall has an alcove south of the altar containing an idol of serpentine stone shaped as a knot of fish, eels, and octopi.",
+    "source_quote": "South of it, in the mouth of an alcove, an idol of serpentine stone: a writhing knot of fish and eels and octopi sculpted into one horrid mass",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Water Temple",
+    "fact": "The Water Temple hall has a seaweed drapery hung across the wall behind the idol.",
+    "source_quote": "with a seaweed drapery hung across the wall behind.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Water Temple",
+    "fact": "The Water Temple hall has four triangular plinths in the corners, each topped with a bronze gargoyle covered in verdigris.",
+    "source_quote": "In each corner a triangular plinth ran up toward the vaulted dark, and atop each one a bronze gargoyle squatted under its coat of green.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "bronze gargoyle",
+    "fact": "Four bronze gargoyles squat atop triangular plinths in the corners of the Water Temple hall and are observed as potential watchers.",
+    "source_quote": "In each corner a triangular plinth ran up toward the vaulted dark, and atop each one a bronze gargoyle squatted under its coat of green. Four watchers in the corners.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Dren",
+    "fact": "Dren says 'okay, boss' before the infiltration of the Water Temple begins.",
+    "source_quote": "Dren said \"okay, boss,\" and that was the last easy thing.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia attempts to break down the west door of the Water Temple by shoulder-ramming it twice.",
+    "source_quote": "I set myself, and I hit it. It didn't give. I bounced... I set again and hit it a second time, everything I had... and it threw me again.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr listens at the west door of the Water Temple before the infiltration attempt.",
+    "source_quote": "Zephyr put his ear to the door first, the way you do, listening for the thing on the other side before you give it a reason to listen back.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia responds to Zinnia's door failure with the word \"Yep\" to agree not to take treasure.",
+    "source_quote": "Sequoia agreed in a word \u2014 \"Yep\" \u2014 and that settled it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia shouts \"Housekeeping!\" as a bluff when the cultists behind the door question the intruders.",
+    "source_quote": "Sequoia, without missing a beat: \"Housekeeping!\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr claims to be a messenger for Kelno when the cultists behind the door demand identification.",
+    "source_quote": "I tried Kelno \u2014 \"We are messengers for Kelno\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr claims to be bearing news for Belsornig to deceive the cultists behind the door.",
+    "source_quote": "News for the big boss. News for Belsornig.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Belsornig",
+    "fact": "Belsornig is identified by the cultists as the Prophet of Water and the target of the intruders.",
+    "source_quote": "News for the big boss. News for Belsornig.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Belsornig",
+    "fact": "Belsornig is reading a scroll when the intruders enter the chamber.",
+    "source_quote": "He never turned... He'd been reading a scroll.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "cult fanatics",
+    "fact": "Two cult fanatics with blades of conjured force are present behind the west door of the Water Temple.",
+    "source_quote": "They were cult fanatics, and not entirely stupid: blades of conjured force already hanging in the air, hovering, ready for trouble.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Dagger of Venom",
+    "fact": "Zephyr carries the Dagger of Venom, a gift from Kelno, which he uses to kill Belsornig.",
+    "source_quote": "And waiting in my hand: the Dagger of Venom. Kelno's gift... I crossed the last step, found the soft place under the ribs, and drove Kelno's gift home.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Kelno",
+    "fact": "Kelno gave Zephyr the Dagger of Venom and requested he use it to kill Belsornig.",
+    "source_quote": "\"I've been saving this to kill Belsornig for some time. If you wouldn't mind doing me the honors?\"... I'd taken his deal... \"Well, I'll give it to you. Take it,\" I'd said",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Belsornig",
+    "fact": "Belsornig, the Prophet of Water, is killed by Zephyr using the Dagger of Venom.",
+    "source_quote": "I crossed the last step, found the soft place under the ribs, and drove Kelno's gift home. The Prophet of Water folded onto his own wet floor.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "gong sounding",
+    "fact": "A deep gong rings through the Water Temple after Belsornig's death, signaling a change of control.",
+    "source_quote": "And a gong rang. Deep, enormous, rolling out through the whole second level.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Air Temple",
+    "fact": "The Air Temple has stairs leading down to the Water Temple level.",
+    "source_quote": "We turned for the stairs in the Air Temple, meaning to go home, to wash the water-stink off and report.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Greater Temple",
+    "fact": "The Greater Temple sends bugbears clad in deeper black to summon the intruders after the Water Temple takeover.",
+    "source_quote": "Bugbears. A column of them, and the black they wore was not Earth Temple black \u2014 it was the deeper black, the black of the thing below the thing.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Barkinar",
+    "fact": "Barkinar is the leader of the Greater Temple who summons the intruders after they take the Water Temple.",
+    "source_quote": "One of them announced, gruff and flat, that Barkinar wished to speak to the new rulers of the Upper Temple.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Barkinar",
+    "fact": "Barkinar brings Calmer with him, half-carried, when meeting the intruders in the lower chamber.",
+    "source_quote": "Barkinar brought Calmer with him, half-carried, assuming \u2014 as everyone assumed \u2014 that the cleric was the chief of us.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is believed by the Greater Temple to be the cleric and chief of the intruders, though he is injured.",
+    "source_quote": "The cleric is in charge, of course.\" and \"He's hurt. He will be fine.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "hill giant",
+    "fact": "A hill giant is present in the lower chamber where Barkinar meets the intruders.",
+    "source_quote": "The room at the bottom was built to remove the question of whether we could fight our way out. A hill giant. Ogres at the walls.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "ogres",
+    "fact": "Ogres stand at the walls of the lower chamber where Barkinar meets the intruders.",
+    "source_quote": "The room at the bottom was built to remove the question of whether we could fight our way out. A hill giant. Ogres at the walls.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kelno",
+    "fact": "Kelno is held captive in the lower chamber beneath the Water Temple and is set beside Zinnia by Barkinar's orders.",
+    "source_quote": "Beside me they set Kelno, and Barkinar looked at him and smiled.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Barkinar",
+    "fact": "Barkinar lists Romag, Hartsch, Alrrem, and Belsornig as problems eliminated by the intruders.",
+    "source_quote": "\"Romag. Hartsch. Alrrem. Belsornig,\" Barkinar said. \"Problems I had on a list yesterday morning, and four problems gone by sundown.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Fire Temple",
+    "fact": "The Fire Temple is leaderless after the intruders' actions, according to Barkinar.",
+    "source_quote": "Leaderless cultists in the Fire Temple.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Water Temple",
+    "fact": "The Water Temple has trolls on contract, according to Barkinar.",
+    "source_quote": "Trolls on contract in the Water Temple.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "chest delivered to Romag",
+    "fact": "The Greater Temple has an interest in recovering a chest delivered to Romag.",
+    "source_quote": "The chest we had delivered to Romag, which the Greater Temple had an interest in recovering.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Senshock",
+    "fact": "Senshock is the Lord Wizard of the Greater Temple, described as ambitious and paranoid but useful.",
+    "source_quote": "Senshock \u2014 our Lord Wizard \u2014 has opinions about new arrivals. He is ambitious and paranoid. He is also useful.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Falrinth",
+    "fact": "Falrinth is a wizard hiding from the Greater Temple for reasons of his own.",
+    "source_quote": "A second name, set down lighter, for later: Falrinth, a wizard hiding from the Greater Temple for reasons of his own.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Barkinar's week-long deadline",
+    "fact": "Barkinar gives the intruders one week to organize the Upper Temple before he returns.",
+    "source_quote": "A week to organize the house. The house we came to burn.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Barkinar",
+    "fact": "Barkinar refers to Calmer as a 'puppet master' when speaking from the stairs.",
+    "source_quote": "\"That was efficient. Come down, bring your puppet master if he is alive. We should talk.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Barkinar",
+    "fact": "Barkinar smiles at Kelno when he sees him held captive in the lower chamber.",
+    "source_quote": "Beside me they set Kelno, and Barkinar looked at him and smiled.",
+    "quote_verified": true
+  }
+]

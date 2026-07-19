@@ -1,0 +1,2832 @@
+[
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "An hour passes between two events in the session.",
+    "source_quote": "An hour passes between two events in the session.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occurred during the party\u2019s descent into the Temple of Elemental Evil, following their arrival at the Earth Temple and subsequent journey through the dungeon levels.",
+    "source_quote": "The party descended once more, running quickly past the skeleton-filled corridor to avoid another encounter.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
+    "source_quote": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Animation of Gnoll Skeletons",
+    "fact": "Several gnoll skeletons suddenly animated and rose from the bone pile to attack the party as they moved eastward through the bone corridor.",
+    "source_quote": "several gnoll skeletons suddenly animated and rose from the bone pile to attack.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "arrival at Air Temple power source",
+    "fact": "The party descended into a hidden octagonal chamber fifteen feet below the dungeon floor, illuminated by milky radiance and filled with glowing mist, where they encountered a wraith\u2014confirming they had entered the Air Temple\u2019s sacred and hostile power core.",
+    "source_quote": "They arrived in a large octagonal room fifteen feet below the normal dungeon floor, illuminated by an eerie milky radiance emanating from the ceiling, walls, and floor.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "banter about Zephyr's horns",
+    "fact": "There was lighthearted banter about cutting off Zephyr\u2019s tiefling horns.",
+    "source_quote": "some lighthearted banter about cutting off Zephyr\u2019s tiefling horns",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Battle in the Bone Corridor",
+    "fact": "The party fought desperately against animated gnoll skeletons, with Sequioa striking down the first, Zinnia delivering a devastating blow to another, Zephyr retreating and striking back, and Calmer destroying one skeleton outright with divine radiance, before quickly finishing off the remaining undead.",
+    "source_quote": "Sequioa struck down the first skeleton with a powerful blow, while the remaining skeletons attacked, wounding both Sequioa and Zephyr. Zephyr retreated and struck back, while Zinnia delivered a devastating blow to another skeleton. Calmer raised his holy symbol and called upon the power of St. Cuthbert, destroying one skeleton outright and damaging others with divine radiance. The party quickly finished off the remaining undead...",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer asked if they could use rope for safety.",
+    "source_quote": "As the party prepared to descend, Calmer asked if they could use rope for safety.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer called upon St. Cuthbert\u2019s divine power, causing the wraith to recoil in fear and suffer holy damage.",
+    "source_quote": "Calmer called upon St. Cuthbert\u2019s divine power once more, causing the wraith to recoil in fear and suffer holy damage.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer grimly stated that he was beginning to think Dick hadn\u2019t told them everything about what awaited them here.",
+    "source_quote": "As the frightened wraith retreated, Calmer moved away, stating grimly that he was beginning to think Dick hadn\u2019t told them everything about what awaited them here.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer raised his holy symbol and destroyed one skeleton outright with divine radiance.",
+    "source_quote": "Calmer raised his holy symbol and called upon the power of St. Cuthbert, destroying one skeleton outright and damaging others with divine radiance.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer swiftly ended the gnoll\u2019s life, his hatred overriding diplomacy.",
+    "source_quote": "Calmer swiftly ended the gnoll\u2019s life, his hatred for these demonic beings overriding any further attempts at diplomacy.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer barricades door",
+    "fact": "Calmer moved a heavy chest to barricade the door at the Waterside Hostel.",
+    "source_quote": "He moved a heavy chest to barricade the door",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer damages wraith with divine power",
+    "fact": "Calmer called upon St. Cuthbert\u2019s divine power, causing the wraith to recoil in fear and suffer holy damage.",
+    "source_quote": "Calmer called upon St. Cuthbert\u2019s divine power once more, causing the wraith to recoil in fear and suffer holy damage",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer destroys skeleton with divine radiance",
+    "fact": "Calmer raised his holy symbol and called upon the power of St. Cuthbert, destroying one skeleton outright and damaging others with divine radiance.",
+    "source_quote": "Calmer raised his holy symbol and called upon the power of St. Cuthbert, destroying one skeleton outright and damaging others with divine radiance",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer kills gnoll",
+    "fact": "Calmer swiftly ended the gnoll\u2019s life.",
+    "source_quote": "Calmer swiftly ended the gnoll\u2019s life",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Descent into the Pit",
+    "fact": "Dick Rentsch led the party down into the pit, where a narrow ledge spiraled down the northern face to steep steps below, and where they were immediately confronted by a wraith.",
+    "source_quote": "Dick Rentsch led them down into the pit itself, where a narrow ledge spiraled down the northern face to steep steps below... The party dropped into the pit, and immediately a wraith materialized before them...",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Descent into the pit",
+    "fact": "The party descended into the twenty-foot-diameter pit using a spiral ledge and steep steps, after Calmer requested rope for safety and Dick Rentsch reluctantly allowed them to tie themselves together.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Dick Rentsch",
+    "fact": "Dick Rentsch avoided the glowing runes on the main entrance and led them to the side entrance.",
+    "source_quote": "Dick Rentsch carefully avoided these runes, leading them instead to a side entrance.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Dick Rentsch",
+    "fact": "Dick Rentsch knocked on a wall in a particular pattern to open a secret door.",
+    "source_quote": "Dick Rentsch knocked on a wall in a particular pattern, and a secret door opened.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Dick Rentsch",
+    "fact": "Dick Rentsch led them down into the pit, where a narrow ledge spiraled down the northern face.",
+    "source_quote": "He then led them down into the pit itself, where a narrow ledge spiraled down the northern face to steep steps below.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Dick Rentsch",
+    "fact": "Dick Rentsch provided the party with a map showing where the gnolls could be found.",
+    "source_quote": "Dick Rentsch provided them with a map showing where the gnolls could be found.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Dick Rentsch",
+    "fact": "Dick Rentsch warned the party to be careful not to disturb the dead as they passed through the bone corridor.",
+    "source_quote": "Dick Rentsch warned them to be careful not to disturb the dead as he picked his way through the grim remains.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Dick Rentsch asks about weapons",
+    "fact": "Dick Rentsch asked if he needed to confiscate the party's weapons or if they were smart enough not to try anything stupid.",
+    "source_quote": "Dick Rentsch asked if he needed to confiscate their weapons or if they were smart enough not to try anything stupid",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Dick Rentsch avoids runes",
+    "fact": "Dick Rentsch carefully avoided the glowing runes on the bronze doors.",
+    "source_quote": "Dick Rentsch carefully avoided these runes",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Dick Rentsch deposits party in enemy territory",
+    "fact": "Dick Rentsch had deposited the party directly into enemy territory belonging to a rival elemental faction.",
+    "source_quote": "Dick Rentsch had not simply sent them down a hallway\u2014he had deposited them directly into enemy territory belonging to a rival elemental faction",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Dick Rentsch explains temple's future",
+    "fact": "Dick Rentsch explained that once the Earth Temple destroyed the other false prophets, this place would be filled with supplicants who would kill, slaughter, and bury alive opponents.",
+    "source_quote": "once the Earth Temple destroyed the other false prophets, this place would be filled with supplicants who would kill and slaughter and bury alive all who opposed them",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Dick Rentsch leads party into pit",
+    "fact": "Dick Rentsch led the party down into the circular pit.",
+    "source_quote": "Dick Rentsch led them down into the pit itself",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Dick Rentsch urges quick movement",
+    "fact": "Dick Rentsch urged the party to move quickly before more skeletons could animate.",
+    "source_quote": "Dick Rentsch urged them to move quickly before more skeletons could animate",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Dick Rentsch warns not to disturb bones",
+    "fact": "Dick Rentsch warned the party to be careful not to disturb the dead in the bone corridor.",
+    "source_quote": "Dick Rentsch warned them to be careful not to disturb the dead",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Discovery of the Air Temple Power Source",
+    "fact": "The party realized they were standing in the Air Temple\u2019s power source after the wraith\u2019s appearance, understanding that Dick Rentsch had deposited them directly into enemy territory belonging to a rival elemental faction.",
+    "source_quote": "The party regrouped, realizing with growing concern that they were standing in what was clearly the Air Temple\u2019s power source. Dick Rentsch had not simply sent them down a hallway\u2014he had deposited them directly into enemy territory belonging to a rival elemental faction.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "guards mention Alremm",
+    "fact": "The guards boasted that once they killed enough gnolls, Alremm\u2014the head of the Fire Temple\u2014would be theirs.",
+    "source_quote": "once they killed enough gnolls, Alremm\u2014the head of the Fire Temple\u2014would be theirs",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Mission Assignment by Romag",
+    "fact": "Romag assigned the party the mission to destroy the other elemental temples so the Earth Temple could seize ultimate power, and promised them the badge of Earth upon success.",
+    "source_quote": "Romag\u2019s mission for them was clear: destroy the other temples so the Earth Temple could seize ultimate power. Romag promised that once they proved themselves capable of operating within the temple by completing this mission, they would earn the right to wear the badge of Earth.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Opening of the Secret Door",
+    "fact": "Dick Rentsch knocked on a wall in a particular pattern, and a secret door opened to reveal a bone-filled corridor at least one hundred feet long and twenty feet wide.",
+    "source_quote": "Dick Rentsch knocked on a wall in a particular pattern, and a secret door opened to reveal a corridor at least one hundred feet long and twenty feet wide.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Opening of the secret door",
+    "fact": "Dick Rentsch knocked on a wall in a specific pattern, triggering the opening of a secret door that revealed the Bone Corridor.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "party drops into pit",
+    "fact": "The party dropped into the circular shaft pit.",
+    "source_quote": "The party dropped into the pit",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "party finishes off skeletons",
+    "fact": "The party quickly finished off the remaining undead skeletons.",
+    "source_quote": "The party quickly finished off the remaining undead",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "party presents Chest of Rao",
+    "fact": "The party presented the Chest of Rao to Romag.",
+    "source_quote": "he asked for the Chest of Rao, and the party presented it to him",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "party runs past bone corridor",
+    "fact": "The party descended once more, running quickly past the skeleton-filled corridor to avoid another encounter.",
+    "source_quote": "The party descended once more, running quickly past the skeleton-filled corridor to avoid another encounter",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "party ties rope for descent",
+    "fact": "Calmer asked to use rope for safety, and Dick Rentsch allowed them to tie themselves together.",
+    "source_quote": "Calmer asked if they could use rope for safety. Dick Rentsch sighed in exasperation... but allowed them to tie themselves together",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Presentation of the Chest of Rao",
+    "fact": "The party presented the Chest of Rao to Romag after he asked for it, marking their formal entry into his service and mission.",
+    "source_quote": "Romag asked for the Chest of Rao, and the party presented it to him.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Promise of the Badge of Earth",
+    "fact": "Romag promised the party they would earn the right to wear the badge of Earth once they proved themselves capable of operating within the temple by completing their mission to destroy the other temples.",
+    "source_quote": "Romag promised that once they proved themselves capable of operating within the temple by completing this mission, they would earn the right to wear the badge of Earth.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Recognition of Hostile Territory",
+    "fact": "The party realized they had been deposited directly into the Air Temple\u2019s power source, understanding this was not a simple hallway but enemy territory belonging to a rival elemental faction.",
+    "source_quote": "The party regrouped, realizing with growing concern that they were standing in what was clearly the Air Temple\u2019s power source. Dick Rentsch had not simply sent them down a hallway\u2014he had deposited them directly into enemy territory belonging to a rival elemental faction.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Romag",
+    "fact": "Romag asked for the Chest of Rao and accepted it from the party.",
+    "source_quote": "He asked for the Chest of Rao, and the party presented it to him.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Romag",
+    "fact": "Romag assigned the party the mission to destroy the other temples so the Earth Temple could seize ultimate power.",
+    "source_quote": "Romag\u2019s mission for them was clear: destroy the other temples so the Earth Temple could seize ultimate power.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Romag describes elemental temple conflict",
+    "fact": "Romag said the first two levels were divided among the Earth, Fire, Water, and Air temples, all locked in constant conflict.",
+    "source_quote": "The first two levels were divided among the Earth, Fire, Water, and Air temples, all locked in constant conflict",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Romag explains temple structure",
+    "fact": "Romag explained that the surface temple was merely the beginning, and the true power lay in deeper levels descending into the pit of evil.",
+    "source_quote": "the surface temple was merely the beginning, and that the true power lay in the deeper levels descending into the very pit of evil itself",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Romag gives mission",
+    "fact": "Romag\u2019s mission for the party was to destroy the other temples so the Earth Temple could seize ultimate power.",
+    "source_quote": "Romag\u2019s mission for them was clear: destroy the other temples so the Earth Temple could seize ultimate power",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Romag promises badge of Earth",
+    "fact": "Romag promised that once the party proved themselves capable, they would earn the right to wear the badge of Earth.",
+    "source_quote": "Romag promised that once they proved themselves capable of operating within the temple by completing this mission, they would earn the right to wear the badge of Earth",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sealing of the Temple of Elemental Evil",
+    "fact": "The Circle of Eight performed mighty magic to seal the Temple of Elemental Evil, as recalled by the party from Spugnoir\u2019s tale in Hommlet.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequioa",
+    "fact": "Sequioa struck down the first animated gnoll skeleton with a powerful blow.",
+    "source_quote": "Sequioa struck down the first skeleton with a powerful blow.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequioa kills first skeleton",
+    "fact": "Sequioa struck down the first skeleton with a powerful blow.",
+    "source_quote": "Sequioa struck down the first skeleton with a powerful blow",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "signs of recent creature traffic",
+    "fact": "Signs showed many creatures of various sizes had recently traveled the road to the temple.",
+    "source_quote": "one of the party members noticed signs that many creatures of various sizes had recently traveled this way",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "skeletons wound Sequioa and Zephyr",
+    "fact": "The remaining skeletons attacked and wounded both Sequioa and Zephyr.",
+    "source_quote": "the remaining skeletons attacked, wounding both Sequioa and Zephyr",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party assured Dick Rentsch of their cooperation, though there was lighthearted banter about cutting off Zephyr\u2019s tiefling horns.",
+    "source_quote": "The party assured him of their cooperation, though there was some lighthearted banter about cutting off Zephyr\u2019s tiefling horns.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party dropped into the pit and were immediately confronted by a wraith.",
+    "source_quote": "The party dropped into the pit, and immediately a wraith materialized before them.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party entered an octagonal room illuminated by eerie milky radiance and surrounded by glowing mist.",
+    "source_quote": "They arrived in a large octagonal room fifteen feet below the normal dungeon floor, illuminated by an eerie milky radiance emanating from the ceiling, walls, and floor. The polished gray stone floor, shot through with glittering mica, was partially obscured by swirling, glowing mist.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party noticed a great pierced bronze square and a circular shaft above a pit in the octagonal room.",
+    "source_quote": "In the center stood a great pierced bronze square, and a circular shaft opened above a pit of the same diameter.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party observed crystal braziers suspended from silver chains emitting sickly sweet perfume smoke.",
+    "source_quote": "Crystal braziers suspended from silver chains emitted sickly sweet perfume smoke.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party ran through the skeleton corridor to avoid another encounter.",
+    "source_quote": "The party descended once more, running quickly past the skeleton-filled corridor to avoid another encounter.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party recalled a story from Spugnoir in Hommlet about the Circle of Eight sealing this place.",
+    "source_quote": "The party recalled a story from Spugnoir in Hommlet about the Circle of Eight\u2014powerful wizards including the legendary Mordenkainen and Bigby\u2014who had come here and performed mighty magic to seal this place.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party saw an alabaster block with two knives and a crystal bowl south of the pit.",
+    "source_quote": "South of the pit sat an alabaster block bearing two knives and a crystal bowl.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party saw bronze doors to the north sealed with iron chains and warning runes identical to those on the main entrance.",
+    "source_quote": "Bronze doors to the north were sealed with iron chains and warning runes identical to those on the main entrance above.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "Sloobludop is approximately eight days away via the Darklake.",
+    "source_quote": "Sloobludop is approximately eight days away via the Darklake.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "wraith drains Zephyr's vitality",
+    "fact": "The wraith\u2019s spectral touch drained Zephyr\u2019s life essence and reduced his maximum vitality.",
+    "source_quote": "Its spectral touch drained Zephyr\u2019s very life essence, not only wounding him but reducing his maximum vitality",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "wraith effect",
+    "fact": "Its spectral touch drained Zephyr\u2019s very life essence, not only wounding him but reducing his maximum vitality in a way that could only be restored through extended rest or powerful healing magic.",
+    "source_quote": "Its spectral touch drained Zephyr\u2019s very life essence, not only wounding him but reducing his maximum vitality in a way that could only be restored through extended rest or powerful healing magic.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Wraith Encounter",
+    "fact": "The wraith materialized and attacked, draining Zephyr\u2019s maximum vitality with its spectral touch, before being damaged by Calmer\u2019s divine radiance and retreating in fear.",
+    "source_quote": "Zephyr struck first, landing blows with her dagger, but the wraith retaliated with devastating force. Its spectral touch drained Zephyr\u2019s very life essence... Calmer called upon St. Cuthbert\u2019s divine power once more, causing the wraith to recoil in fear and suffer holy damage. As the frightened wraith retreated...",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Wraith Materialization",
+    "fact": "A wraith materialized before the party immediately after they dropped into the pit, its spectral touch draining Zephyr\u2019s life essence and reducing his maximum vitality in a way that could only be restored through extended rest or powerful healing magic.",
+    "source_quote": "immediately a wraith materialized before them\u2014a terrifying undead spirit of malevolent power... Its spectral touch drained Zephyr\u2019s very life essence, not only wounding him but reducing his maximum vitality in a way that could only be restored through extended rest or powerful healing magic.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "wraith retreat",
+    "fact": "The frightened wraith retreated.",
+    "source_quote": "As the frightened wraith retreated,",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "wraith retreats",
+    "fact": "The frightened wraith retreated after being damaged.",
+    "source_quote": "As the frightened wraith retreated",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr retreated and struck back at the animated skeletons.",
+    "source_quote": "Zephyr retreated and struck back.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr slapped the gnoll and demanded information.",
+    "source_quote": "Zephyr slapped the gnoll and demanded information, but the creature only hissed and threatened to rip them to shreds.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr struck the wraith with his dagger, but it drained his life essence and reduced his maximum vitality.",
+    "source_quote": "Zephyr struck first, landing blows with her dagger, but the wraith retaliated with devastating force. Its spectral touch drained Zephyr\u2019s very life essence, not only wounding him but reducing his maximum vitality.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr attacks wraith",
+    "fact": "Zephyr struck first at the wraith with her dagger.",
+    "source_quote": "Zephyr struck first, landing blows with her dagger",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr retreats and strikes back",
+    "fact": "Zephyr retreated and struck back at the skeletons.",
+    "source_quote": "Zephyr retreated and struck back",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr slaps gnoll",
+    "fact": "Zephyr slapped the gnoll and demanded information.",
+    "source_quote": "Zephyr slapped the gnoll and demanded information",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr watches window",
+    "fact": "Calmer positioned Zephyr to watch the window.",
+    "source_quote": "positioned Zephyr to watch the window",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia delivered a devastating blow to another skeleton.",
+    "source_quote": "Zinnia delivered a devastating blow to another skeleton.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia destroys skeleton",
+    "fact": "Zinnia delivered a devastating blow to another skeleton.",
+    "source_quote": "Zinnia delivered a devastating blow to another skeleton",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Air Temple",
+    "fact": "The Air Temple is a rival elemental faction whose power source is located in the octagonal chamber below the dungeon floor, marked by glowing mist, a bronze square, and crystal braziers. The party has inadvertently entered this enemy territory, unaware until confronted by the wraith.",
+    "source_quote": "The party regrouped, realizing with growing concern that they were standing in what was clearly the Air Temple\u2019s power source.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Air Temple",
+    "fact": "The Air Temple is one of the four elemental temples locked in constant conflict with the others, located in the deeper levels of the Temple of Elemental Evil, whose power source the party inadvertently entered, and which is now hostile to them after the wraith\u2019s appearance.",
+    "source_quote": "The first two levels were divided among the Earth, Fire, Water, and Air temples, all locked in constant conflict... The party regrouped, realizing with growing concern that they were standing in what was clearly the Air Temple\u2019s power source.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Circle of Eight",
+    "fact": "The Circle of Eight, including Mordenkainen and Bigby, once came to the Temple of Elemental Evil and performed mighty magic to seal it, as recalled by the party from Spugnoir\u2019s story in Hommlet.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple is a rival faction that plans to destroy false prophets and fill the Temple of Elemental Evil with devoted supplicants who will slaughter all who oppose them.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple is one of four elemental temples locked in constant conflict with Fire, Water, and Air temples. It seeks ultimate dominance by destroying the others, operates from deep subterranean levels, and grants the badge of Earth to those who prove their loyalty and capability.",
+    "source_quote": "Romag\u2019s mission for them was clear: destroy the other temples so the Earth Temple could seize ultimate power. Romag promised that once they proved themselves capable of operating within the temple by completing this mission, they would earn the right to wear the badge of Earth.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple is the dominant faction within the Temple of Elemental Evil, seeking ultimate power by destroying the other elemental temples, led by Romag, with Dick Rentsch as a recruiter and enforcer, and its guards expressing loyalty to it and hatred for the Fire Temple, planning to kill enough gnolls to claim Alremm as their own.",
+    "source_quote": "Romag, the High Priest of the Earth Temple... The guards expressed their loyalty to the Earth Temple and their hatred for the Fire Temple... once the Earth Temple destroyed the other false prophets... Romag\u2019s mission for them was clear: destroy the other temples so the Earth Temple could seize ultimate power.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Fire Temple",
+    "fact": "The Fire Temple is a rival elemental faction, hated by the Earth Temple. Its head, Alremm, is targeted for destruction by Earth Temple guards, and its influence extends into the deeper levels of the Temple of Elemental Evil.",
+    "source_quote": "The guards expressed their loyalty to the Earth Temple and their hatred for the Fire Temple, boasting that once they killed enough gnolls, Alremm\u2014the head of the Fire Temple\u2014would be theirs.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Fire Temple",
+    "fact": "The Fire Temple is a rival faction within the Temple of Elemental Evil, led by Alremm, whose servants are marked by the symbols the party found, and who is targeted for destruction by the Earth Temple as part of its campaign for supremacy.",
+    "source_quote": "symbols marking the dead as servants of the Temple of Fire... the guards... boasting that once they killed enough gnolls, Alremm\u2014the head of the Fire Temple\u2014would be theirs.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Gnolls",
+    "fact": "Gnolls are hostile creatures serving as adversaries in the Temple of Elemental Evil\u2019s lower levels, targeted for elimination by the Earth Temple, found in territories marked on Dick Rentsch\u2019s map, and whose skeletons animated to attack the party in the bone corridor.",
+    "source_quote": "Dick Rentsch provided them with a map showing where the gnolls could be found... several gnoll skeletons suddenly animated and rose from the bone pile to attack.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Temple of Elemental Evil",
+    "fact": "The Temple of Elemental Evil is a massive, leprous gray monument to darkness with ruined architecture, obscene carvings, and a pervasive aura of vileness; it is currently empty but intended to be filled with supplicants who will kill and bury alive opponents after the Earth Temple destroys false prophets.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Water Temple",
+    "fact": "The Water Temple is one of the four elemental temples locked in constant conflict with the others, located in the deeper levels of the Temple of Elemental Evil, mentioned by Romag as part of the divided hierarchy beneath the surface.",
+    "source_quote": "The first two levels were divided among the Earth, Fire, Water, and Air temples, all locked in constant conflict.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Air Temple power chamber",
+    "fact": "The Air Temple\u2019s power chamber is an octagonal room fifteen feet below the dungeon floor, lit by eerie milky radiance, with a polished gray stone floor shot through with mica, swirling glowing mist, a pierced bronze square, and a circular shaft over a pit. It is a sacred and hostile site of elemental power.",
+    "source_quote": "The polished gray stone floor, shot through with glittering mica, was partially obscured by swirling, glowing mist. In the center stood a great pierced bronze square, and a circular shaft opened above a pit of the same diameter.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Air Temple Power Source",
+    "fact": "The party realized they were standing in what was clearly the Air Temple\u2019s power source, with a wraith materializing before them\u2014a terrifying undead spirit of malevolent power, its spectral touch draining vitality and reducing maximum vitality in a way that could only be restored through extended rest or powerful healing magic.",
+    "source_quote": "The party regrouped, realizing with growing concern that they were standing in what was clearly the Air Temple\u2019s power source... immediately a wraith materialized before them\u2014a terrifying undead spirit of malevolent power... Its spectral touch drained Zephyr\u2019s very life essence, not only wounding him but reducing his maximum vitality in a way that could only be restored through extended rest or powerful healing magic.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "altar depression",
+    "fact": "A central altar of pinkish-white marble carved with a disturbing human-shaped depression stained dark with old blood.",
+    "source_quote": "A central altar of pinkish-white marble carved with a disturbing human-shaped depression stained dark with old blood.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Barracks and Lounge",
+    "fact": "The barracks area and lounge were decorated with scenes of drinking and debauchery.",
+    "source_quote": "The party passed through a barracks area and a lounge decorated with scenes of drinking and debauchery.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "barracks area",
+    "fact": "The party passed through a barracks area.",
+    "source_quote": "The party passed through a barracks area",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "bone corridor",
+    "fact": "A secret door opened to reveal a corridor at least one hundred feet long and twenty feet wide covered in bones.",
+    "source_quote": "a secret door opened to reveal a corridor at least one hundred feet long and twenty feet wide. The entire passage was covered in bones",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Bone Corridor",
+    "fact": "The Bone Corridor is at least one hundred feet long and twenty feet wide, entirely covered in a jumble of human and humanoid skeletons, many wearing sundered armor or clutching broken weapons, and inhabited by animated gnoll skeletons that rose to attack the party as they passed.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "bone corridor",
+    "fact": "The bone corridor contained human and humanoid skeletons, many wearing sundered armor or clutching broken weapons.",
+    "source_quote": "a terrible jumble of human and humanoid skeletons, many still wearing sundered armor or clutching broken weapons",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Bone Corridor",
+    "fact": "The corridor was at least one hundred feet long and twenty feet wide, entirely covered in bones\u2014a terrible jumble of human and humanoid skeletons, many still wearing sundered armor or clutching broken weapons, testifying to a great battle that had taken place here, with Dick Rentsch warning them to be careful not to disturb the dead.",
+    "source_quote": "a secret door opened to reveal a corridor at least one hundred feet long and twenty feet wide. The entire passage was covered in bones\u2014a terrible jumble of human and humanoid skeletons, many still wearing sundered armor or clutching broken weapons, testifying to a great battle that had taken place here. Dick Rentsch warned them to be careful not to disturb the dead.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "bronze doors to north",
+    "fact": "Bronze doors to the north were sealed with iron chains and warning runes identical to those on the main entrance.",
+    "source_quote": "Bronze doors to the north were sealed with iron chains and warning runes identical to those on the main entrance above",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "ceiling illumination",
+    "fact": "An eerie milky radiance emanating from the ceiling, walls, and floor.",
+    "source_quote": "An eerie milky radiance emanating from the ceiling, walls, and floor.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "central altar chamber",
+    "fact": "The central altar was made of pinkish-white marble carved with a human-shaped depression stained dark with old blood.",
+    "source_quote": "a central altar of pinkish-white marble carved with a disturbing human-shaped depression stained dark with old blood",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "chamber of Romag",
+    "fact": "The party arrived at a well-furnished chamber where two commanders stood guard.",
+    "source_quote": "finally arriving at a well-furnished chamber where two commanders stood guard",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Chamber of the Two Commanders",
+    "fact": "The well-furnished chamber contained two commanders standing guard, where Dick Rentsch asked if he needed to confiscate their weapons or if they were smart enough not to try anything stupid, and the party assured him of their cooperation, with lighthearted banter about cutting off Zephyr\u2019s tiefling horns.",
+    "source_quote": "finally arriving at a well-furnished chamber where two commanders stood guard. Dick Rentsch asked if he needed to confiscate their weapons or if they were smart enough not to try anything stupid. The party assured him of their cooperation, though there was some lighthearted banter about cutting off Zephyr\u2019s tiefling horns.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "chamber pit diameter",
+    "fact": "North of the altar yawned a circular pit twenty feet in diameter.",
+    "source_quote": "North of the altar yawned a circular pit twenty feet in diameter.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Chamber with Altar",
+    "fact": "The chamber contained a central altar of pinkish-white marble carved with a disturbing human-shaped depression stained dark with old blood, and north of the altar yawned a circular pit twenty feet in diameter, surrounded by shards of broken crystal vessels.",
+    "source_quote": "a chamber containing a central altar of pinkish-white marble carved with a disturbing human-shaped depression stained dark with old blood. North of the altar yawned a circular pit twenty feet in diameter, surrounded by shards of broken crystal vessels.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "circular pit",
+    "fact": "North of the altar yawned a circular pit twenty feet in diameter.",
+    "source_quote": "North of the altar yawned a circular pit twenty feet in diameter",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "circular pit",
+    "fact": "The circular pit was surrounded by shards of broken crystal vessels.",
+    "source_quote": "surrounded by shards of broken crystal vessels",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "circular shaft",
+    "fact": "A circular shaft opened above a pit of the same diameter in the octagonal room.",
+    "source_quote": "a circular shaft opened above a pit of the same diameter",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "corridor bone composition",
+    "fact": "The entire passage was covered in bones\u2014a terrible jumble of human and humanoid skeletons, many still wearing sundered armor or clutching broken weapons.",
+    "source_quote": "The entire passage was covered in bones\u2014a terrible jumble of human and humanoid skeletons, many still wearing sundered armor or clutching broken weapons.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "corridor bone testimony",
+    "fact": "Testifying to a great battle that had taken place here.",
+    "source_quote": "Testifying to a great battle that had taken place here.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "entrance rune pattern",
+    "fact": "Warning runes identical to those on the main entrance above.",
+    "source_quote": "Warning runes identical to those on the main entrance above.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "floor composition",
+    "fact": "The polished gray stone floor, shot through with glittering mica.",
+    "source_quote": "The polished gray stone floor, shot through with glittering mica.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Hommlet",
+    "fact": "Hommlet is the location where Spugnoir told the story of the Circle of Eight, recalled by the party.",
+    "source_quote": "The party recalled a story from Spugnoir in Hommlet about the Circle of Eight...",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "lounge",
+    "fact": "The party passed through a lounge decorated with scenes of drinking and debauchery.",
+    "source_quote": "a lounge decorated with scenes of drinking and debauchery",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "main entrance of Temple of Elemental Evil",
+    "fact": "The bronze doors were held fast by huge iron chains with all cracks sealed.",
+    "source_quote": "held fast by huge iron chains with all cracks sealed",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "main entrance of Temple of Elemental Evil",
+    "fact": "The main entrance had two pairs of massive bronze doors, twenty-three feet high and twenty feet wide.",
+    "source_quote": "The main entrance featured two pairs of massive bronze doors, twenty-three feet high and twenty feet wide",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Nulb",
+    "fact": "Nulb is a town where the party met Dick Rentsch at the Waterside Hostel, received instructions to proceed to the Temple of Elemental Evil, and took precautions before departure, including barricading a door and watching windows.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Nulb",
+    "fact": "The party returned to Nulb after killing the gnoll.",
+    "source_quote": "they made their way back to Nulb",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Nulb and the Waterside Hostel",
+    "fact": "Nulb and the Waterside Hostel is where Dick Rentsch awaited the party after their initial tasks, and where he later returned to confirm arrangements with Romag.",
+    "source_quote": "they made their way back to Nulb and the Waterside Hostel, where their contact Dick Rentsch awaited them.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "octagonal room",
+    "fact": "Swirling, glowing mist partially obscured the floor of the octagonal room.",
+    "source_quote": "partially obscured by swirling, glowing mist",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Octagonal Room",
+    "fact": "The octagonal room was fifteen feet below the normal dungeon floor, illuminated by an eerie milky radiance emanating from the ceiling, walls, and floor, with a polished gray stone floor shot through with glittering mica partially obscured by swirling, glowing mist, a great pierced bronze square in the center, a circular shaft opening above a pit of the same diameter, an alabaster block bearing two knives and a crystal bowl to the south, crystal braziers suspended from silver chains emitting sickly sweet perfume smoke, and bronze doors to the north sealed with iron chains and warning runes identical to those on the main entrance above.",
+    "source_quote": "a large octagonal room fifteen feet below the normal dungeon floor, illuminated by an eerie milky radiance emanating from the ceiling, walls, and floor. The polished gray stone floor, shot through with glittering mica, was partially obscured by swirling, glowing mist. In the center stood a great pierced bronze square, and a circular shaft opened above a pit of the same diameter. South of the pit sat an alabaster block bearing two knives and a crystal bowl, while crystal braziers suspended from silver chains emitted sickly sweet perfume smoke. Bronze doors to the north were sealed with iron chains and warning runes identical to those on the main entrance above.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "octagonal room",
+    "fact": "The octagonal room was illuminated by an eerie milky radiance emanating from the ceiling, walls, and floor.",
+    "source_quote": "illuminated by an eerie milky radiance emanating from the ceiling, walls, and floor",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "octagonal room",
+    "fact": "The party arrived in a large octagonal room fifteen feet below the normal dungeon floor.",
+    "source_quote": "They arrived in a large octagonal room fifteen feet below the normal dungeon floor",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "octagonal room",
+    "fact": "The party realized they were standing in the Air Temple\u2019s power source.",
+    "source_quote": "they were standing in what was clearly the Air Temple\u2019s power source",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "octagonal room",
+    "fact": "The polished gray stone floor was shot through with glittering mica.",
+    "source_quote": "The polished gray stone floor, shot through with glittering mica",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "octagonal room dimensions",
+    "fact": "They arrived in a large octagonal room fifteen feet below the normal dungeon floor.",
+    "source_quote": "They arrived in a large octagonal room fifteen feet below the normal dungeon floor.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "octagonal room illumination",
+    "fact": "Illuminated by an eerie milky radiance emanating from the ceiling, walls, and floor.",
+    "source_quote": "Illuminated by an eerie milky radiance emanating from the ceiling, walls, and floor.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "path vegetation",
+    "fact": "The path was spotted with rank vegetation\u2014thistles, burrs, thorns, and nettles.",
+    "source_quote": "The path was spotted with rank vegetation\u2014thistles, burrs, thorns, and nettles.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "pillar composition",
+    "fact": "Pinkish mineral pillars shot through with warm-colored veins supported arches decorated with vile reliefs.",
+    "source_quote": "Pinkish mineral pillars shot through with warm-colored veins supported arches decorated with vile reliefs.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Pit beneath the Temple of Elemental Evil",
+    "fact": "The pit is a twenty-foot-diameter circular shaft surrounded by broken crystal vessels, with a narrow spiral ledge descending its northern face to steep steps below, where a secret door opens into a bone-covered corridor after a specific knock pattern.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "pit composition",
+    "fact": "A pit of the same diameter.",
+    "source_quote": "A pit of the same diameter.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "pit diameter in air temple",
+    "fact": "A circular shaft opened above a pit of the same diameter.",
+    "source_quote": "A circular shaft opened above a pit of the same diameter.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Pit of the Earth Temple",
+    "fact": "The pit is a deep vertical shaft beneath the altar chamber, with a narrow ledge spiraling down the northern face to steep steps below, into which Dick Rentsch led the party, and where the Air Temple\u2019s power source lies.",
+    "source_quote": "Dick Rentsch led them down into the pit itself, where a narrow ledge spiraled down the northern face to steep steps below... The party dropped into the pit, and immediately a wraith materialized before them...",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "road to Temple of Elemental Evil",
+    "fact": "The road to the Temple of Elemental Evil was spotted with thistles, burrs, thorns, and nettles.",
+    "source_quote": "the path was spotted with rank vegetation\u2014thistles, burrs, thorns, and nettles",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "secret corridor dimensions",
+    "fact": "A secret door opened to reveal a corridor at least one hundred feet long and twenty feet wide.",
+    "source_quote": "A secret door opened to reveal a corridor at least one hundred feet long and twenty feet wide.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Secret Door Corridor",
+    "fact": "The secret door corridor is at least one hundred feet long and twenty feet wide, entirely covered in bones of human and humanoid skeletons, many still wearing sundered armor or clutching broken weapons, where animated gnoll skeletons rose to attack the party.",
+    "source_quote": "a secret door opened to reveal a corridor at least one hundred feet long and twenty feet wide. The entire passage was covered in bones\u2014a terrible jumble of human and humanoid skeletons, many still wearing sundered armor or clutching broken weapons... several gnoll skeletons suddenly animated and rose from the bone pile to attack.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "side entrance of Temple of Elemental Evil",
+    "fact": "Dick Rentsch led the party through a side entrance of the Temple of Elemental Evil.",
+    "source_quote": "leading them instead to a side entrance",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "temple architecture",
+    "fact": "Its arched buttresses were obscene, covered in climbing vegetation, and every surface was carved with leering faces and writhing forms depicting unspeakable obscenities.",
+    "source_quote": "Its arched buttresses were obscene, covered in climbing vegetation, and every surface was carved with leering faces and writhing forms depicting unspeakable obscenities.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "temple atmosphere",
+    "fact": "A pervading sense of fear hung over the entire area like a tangible cloud of vileness.",
+    "source_quote": "A pervading sense of fear hung over the entire area like a tangible cloud of vileness.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "temple atmosphere",
+    "fact": "Sounds seemed distorted, and movements flickered at the edges of their vision.",
+    "source_quote": "Sounds seemed distorted, and movements flickered at the edges of their vision.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "temple atmosphere",
+    "fact": "The wind moaned through hundreds of apertures in the temple walls, creating sounds like the wails of doomed souls.",
+    "source_quote": "The wind moaned through hundreds of apertures in the temple walls, creating sounds like the wails of doomed souls.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "temple depth structure",
+    "fact": "Below that lay the deeper temple and deeper secrets.",
+    "source_quote": "Below that lay the deeper temple and deeper secrets.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "temple entrance architecture",
+    "fact": "A ruined tower jutted from the northeast corner of shattered walls.",
+    "source_quote": "A ruined tower jutted from the northeast corner of shattered walls.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "temple entrance door material",
+    "fact": "Two pairs of massive bronze doors, twenty-three feet high and twenty feet wide.",
+    "source_quote": "Two pairs of massive bronze doors, twenty-three feet high and twenty feet wide.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "temple entrance material",
+    "fact": "Bronze doors to the north were sealed with iron chains and warning runes identical to those on the main entrance above.",
+    "source_quote": "Bronze doors to the north were sealed with iron chains and warning runes identical to those on the main entrance above.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "temple entrance material",
+    "fact": "Dick Rentsch carefully avoided these runes, leading them instead to a side entrance.",
+    "source_quote": "Dick Rentsch carefully avoided these runes, leading them instead to a side entrance.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "temple entrance material",
+    "fact": "Dick Rentsch carefully avoided these runes.",
+    "source_quote": "Dick Rentsch carefully avoided these runes.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "temple entrance material",
+    "fact": "Graven upon these doors were glowing runes that burned with silvery radiance, making their eyes water to look upon.",
+    "source_quote": "Graven upon these doors were glowing runes that burned with silvery radiance, making their eyes water to look upon.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "temple entrance material",
+    "fact": "Graven upon these doors were glowing runes that burned with silvery radiance.",
+    "source_quote": "Graven upon these doors were glowing runes that burned with silvery radiance.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "temple entrance material",
+    "fact": "Held fast by huge iron chains with all cracks sealed.",
+    "source_quote": "Held fast by huge iron chains with all cracks sealed.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "temple entrance material",
+    "fact": "The main entrance featured two pairs of massive bronze doors, twenty-three feet high and twenty feet wide, held fast by huge iron chains with all cracks sealed.",
+    "source_quote": "The main entrance featured two pairs of massive bronze doors, twenty-three feet high and twenty feet wide, held fast by huge iron chains with all cracks sealed.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "temple entrance material",
+    "fact": "Warning runes identical to those on the main entrance above.",
+    "source_quote": "Warning runes identical to those on the main entrance above.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "temple interior decoration",
+    "fact": "Every surface was carved with leering faces and writhing forms depicting unspeakable obscenities.",
+    "source_quote": "Every surface was carved with leering faces and writhing forms depicting unspeakable obscenities.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "temple interior decoration",
+    "fact": "The plastered walls were painted with horrifying scenes of killing, torture, enslavement, robbery, and unspeakable acts.",
+    "source_quote": "The plastered walls were painted with horrifying scenes of killing, torture, enslavement, robbery, and unspeakable acts.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "temple level structure",
+    "fact": "The first two levels were divided among the Earth, Fire, Water, and Air temples, all locked in constant conflict.",
+    "source_quote": "The first two levels were divided among the Earth, Fire, Water, and Air temples, all locked in constant conflict.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Temple of Elemental Evil",
+    "fact": "A pervading sense of fear hung over the Temple of Elemental Evil like a tangible cloud of vileness.",
+    "source_quote": "A pervading sense of fear hung over the entire area like a tangible cloud of vileness",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Temple of Elemental Evil",
+    "fact": "Ravens croaked and flapped among the ruins of the Temple of Elemental Evil.",
+    "source_quote": "ravens croaked and flapped among the ruins",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Temple of Elemental Evil",
+    "fact": "The Temple of Elemental Evil is a vast, multi-level subterranean complex divided among the Earth, Fire, Water, and Air temples, all locked in conflict. The deeper levels contain ancient evil, hidden secrets, and power sources guarded by undead and hostile factions.",
+    "source_quote": "They were now deep within the Temple of Elemental Evil, surrounded by ancient evil and warring factions, with only their wits and weapons to see them through the trials ahead.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Temple of Elemental Evil",
+    "fact": "The Temple of Elemental Evil is a vast, ruined structure with a northeast tower, obscene arched buttresses, carved leering faces, and a pervasive sense of fear; its main entrance has twenty-three-foot-high bronze doors sealed with iron chains and glowing runes, while a side entrance leads into a vestibule with horrifying murals, pinkish mineral pillars, and a central altar with a bloodstained human-shaped depression and a circular pit below.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Temple of Elemental Evil",
+    "fact": "The Temple of Elemental Evil loomed as a massive structure far larger than imagined, with a ruined tower jutting from the northeast corner of shattered walls, standing like a leprous gray monument to darkness, its arched buttresses obscene and covered in climbing vegetation, every surface carved with leering faces and writhing forms depicting unspeakable obscenities, with a pervading sense of fear hanging over it like a tangible cloud of vileness, sounds distorted, movements flickering at the edges of vision, the wind moaning through hundreds of apertures like the wails of doomed souls, ravens croaking among the ruins, and the main entrance featuring two pairs of massive bronze doors twenty-three feet high and twenty feet wide, held fast by huge iron chains with all cracks sealed, graven with glowing runes that burned with silvery radiance.",
+    "source_quote": "The Temple of Elemental Evil loomed before them, a massive structure far larger than they had imagined. A ruined tower jutted from the northeast corner of shattered walls, and the temple itself stood like a leprous gray monument to darkness. Its arched buttresses were obscene, covered in climbing vegetation, and every surface was carved with leering faces and writhing forms depicting unspeakable obscenities. A pervading sense of fear hung over the entire area like a tangible cloud of vileness. Sounds seemed distorted, and movements flickered at the edges of their vision. The wind moaned through hundreds of apertures in the temple walls, creating sounds like the wails of doomed souls, while ravens croaked and flapped among the ruins. The main entrance featured two pairs of massive bronze doors, twenty-three feet high and twenty feet wide, held fast by huge iron chains with all cracks sealed. Graven upon these doors were glowing runes that burned with silvery radiance, making their eyes water to look upon.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Temple of Elemental Evil",
+    "fact": "The Temple of Elemental Evil loomed as a massive structure with shattered walls and a ruined tower.",
+    "source_quote": "The Temple of Elemental Evil loomed before them, a massive structure far larger than they had imagined. A ruined tower jutted from the northeast corner of shattered walls",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Temple of Elemental Evil",
+    "fact": "The temple's surfaces were carved with leering faces and writhing forms depicting unspeakable obscenities.",
+    "source_quote": "every surface was carved with leering faces and writhing forms depicting unspeakable obscenities",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Temple of Elemental Evil",
+    "fact": "The wind moaned through hundreds of apertures in the temple walls, creating sounds like the wails of doomed souls.",
+    "source_quote": "The wind moaned through hundreds of apertures in the temple walls, creating sounds like the wails of doomed souls",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Temple of Elemental Evil size",
+    "fact": "The Temple of Elemental Evil is a massive structure far larger than they had imagined.",
+    "source_quote": "The Temple of Elemental Evil loomed before them, a massive structure far larger than they had imagined.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "temple power source",
+    "fact": "They were standing in what was clearly the Air Temple\u2019s power source.",
+    "source_quote": "They were standing in what was clearly the Air Temple\u2019s power source.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "temple ruin state",
+    "fact": "A leprous gray monument to darkness.",
+    "source_quote": "A leprous gray monument to darkness.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "temple structure",
+    "fact": "The temple itself stood like a leprous gray monument to darkness.",
+    "source_quote": "The temple itself stood like a leprous gray monument to darkness.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "torch-lit hall",
+    "fact": "Four guards stood in a torch-lit hall and questioned Dick Rentsch.",
+    "source_quote": "Four guards stationed in a torch-lit hall questioned Dick Rentsch",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Torch-lit Hall",
+    "fact": "The torch-lit hall was where four guards questioned Dick Rentsch, who explained the party were the new recruits he had promised to Romag, and the guards expressed their loyalty to the Earth Temple and their hatred for the Fire Temple, boasting that once they killed enough gnolls, Alremm\u2014the head of the Fire Temple\u2014would be theirs.",
+    "source_quote": "Four guards stationed in a torch-lit hall questioned Dick Rentsch, who explained that the party were the new recruits he had promised to Romag. The guards expressed their loyalty to the Earth Temple and their hatred for the Fire Temple, boasting that once they killed enough gnolls, Alremm\u2014the head of the Fire Temple\u2014would be theirs.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
+    "source_quote": "Velkynvelve sits 100 feet above the cavern floor.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Vestibule",
+    "fact": "The vestibule had a floor covered in reddish-brown slate-like tiles, plastered walls painted with horrifying scenes of killing, torture, enslavement, robbery, and unspeakable acts, dim light filtering through stained glass windows casting revolting colors across the floor, pinkish mineral pillars shot through with warm-colored veins supporting arches decorated with vile reliefs.",
+    "source_quote": "The floor was covered in reddish-brown slate-like tiles, and the plastered walls were painted with horrifying scenes of killing, torture, enslavement, robbery, and unspeakable acts. Dim light filtered through stained glass windows, casting revolting colors across the floor. Pinkish mineral pillars shot through with warm-colored veins supported arches decorated with vile reliefs.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "vestibule floor material",
+    "fact": "The floor was covered in reddish-brown slate-like tiles.",
+    "source_quote": "The floor was covered in reddish-brown slate-like tiles.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "vestibule of Temple of Elemental Evil",
+    "fact": "Dim light filtered through stained glass windows in the vestibule.",
+    "source_quote": "Dim light filtered through stained glass windows",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "vestibule of Temple of Elemental Evil",
+    "fact": "Pinkish mineral pillars with warm-colored veins supported arches in the vestibule.",
+    "source_quote": "Pinkish mineral pillars shot through with warm-colored veins supported arches",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "vestibule of Temple of Elemental Evil",
+    "fact": "The vestibule floor was covered in reddish-brown slate-like tiles.",
+    "source_quote": "The floor was covered in reddish-brown slate-like tiles",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "vestibule of Temple of Elemental Evil",
+    "fact": "The vestibule walls were painted with horrifying scenes of killing, torture, enslavement, robbery, and unspeakable acts.",
+    "source_quote": "the plastered walls were painted with horrifying scenes of killing, torture, enslavement, robbery, and unspeakable acts",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Waterside Hostel",
+    "fact": "The party went to the Waterside Hostel in Nulb.",
+    "source_quote": "the Waterside Hostel",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Animated gnoll skeletons",
+    "fact": "Several gnoll skeletons suddenly animated and rose from the bone pile in the corridor to attack the party as they followed Dick Rentsch eastward.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "animated gnoll skeletons",
+    "fact": "Several gnoll skeletons suddenly animated and rose from the bone pile to attack.",
+    "source_quote": "several gnoll skeletons suddenly animated and rose from the bone pile to attack",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
+    "source_quote": "Four chasme demons are present in the cavern above the prisoners' tower.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Gnoll",
+    "fact": "A captured gnoll, bound and snarling, was interrogated by Zephyr and killed by Calmer with righteous fury, identified as a spawn of demon powers born from hyenas.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "wraith",
+    "fact": "A wraith manifested in the Air Temple\u2019s power chamber, attacking the party with life-draining spectral touch that reduces maximum vitality. It was repelled by Calmer\u2019s divine power but remains a lethal threat capable of extended recovery.",
+    "source_quote": "Immediately a wraith materialized before them\u2014a terrifying undead spirit of malevolent power. Its spectral touch drained Zephyr\u2019s very life essence, not only wounding him but reducing his maximum vitality in a way that could only be restored through extended rest or powerful healing magic.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "wraith",
+    "fact": "A wraith materialized before the party as they dropped into the pit.",
+    "source_quote": "immediately a wraith materialized before them",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Alremm",
+    "fact": "Alremm is the head of the Fire Temple, targeted for destruction by the Earth Temple\u2019s guards, who boast that once they kill enough gnolls, Alremm will be theirs.",
+    "source_quote": "The guards expressed their loyalty to the Earth Temple and their hatred for the Fire Temple, boasting that once they killed enough gnolls, Alremm\u2014the head of the Fire Temple\u2014would be theirs.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Bigby",
+    "fact": "Bigby is one of the legendary wizards of the Circle of Eight who came to the Temple of Elemental Evil and performed mighty magic to seal it, as recalled by the party from Spugnoir\u2019s story.",
+    "source_quote": "The party recalled a story from Spugnoir in Hommlet about the Circle of Eight\u2014powerful wizards including the legendary Mordenkainen and Bigby\u2014who had come here and performed mighty magic to seal this place.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer burned with righteous fury at the sight of the captured gnoll.",
+    "source_quote": "Calmer, the cleric of St. Cuthbert, burned with righteous fury at the sight of the creature\u2014a spawn of demon powers born by bursting from the bodies of hyenas.",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "large"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a party member who repeatedly calls upon the power of St. Cuthbert to damage undead, including destroying skeletons and repelling the wraith. He is the first to voice suspicion about Dick Rentsch\u2019s omissions.",
+    "source_quote": "Calmer moved away, stating grimly that he was beginning to think Dick hadn\u2019t told them everything about what awaited them here.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is the cleric of St. Cuthbert who burned with righteous fury at the gnoll, killed it with hatred for demonic beings, and later insisted on precautions in Nulb, barricading a door and positioning Zephyr to watch the window while muttering about exhaustion from dealing with evil powers.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is the cleric of St. Cuthbert who burned with righteous fury at the sight of the gnoll spawn, suggested a more forceful approach, ended the gnoll\u2019s life with hatred for demonic beings, raised his holy symbol to destroy a skeleton with divine radiance, and later stated grimly that he was beginning to think Dick hadn\u2019t told them everything about what awaited them here.",
+    "source_quote": "Calmer, the cleric of St. Cuthbert, burned with righteous fury at the sight of the creature\u2014a spawn of demon powers born by bursting from the bodies of hyenas. When Zephyr attempted to politely question the prisoner, Calmer suggested a more forceful approach. Calmer swiftly ended the gnoll\u2019s life, his hatred for these demonic beings overriding any further attempts at diplomacy. Calmer raised his holy symbol and called upon the power of St. Cuthbert, destroying one skeleton outright and damaging others with divine radiance. Calmer moved away, stating grimly that he was beginning to think Dick hadn\u2019t told them everything about what awaited them here.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer stated grimly that he was beginning to think Dick hadn\u2019t told them everything about what awaited them.",
+    "source_quote": "Calmer moved away, stating grimly that he was beginning to think Dick hadn\u2019t told them everything about what awaited them here",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer suggested a more forceful approach to interrogating the gnoll.",
+    "source_quote": "Calmer suggested a more forceful approach",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Dick Rentsch",
+    "fact": "Dick Rentsch confirmed he arranged a meeting with Romag.",
+    "source_quote": "Dick Rentsch confirmed that he had arranged a meeting with Romag",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Dick Rentsch",
+    "fact": "Dick Rentsch confirmed he had arranged a meeting with Romag, led the party through the temple, moved a heavy chest to barricade the door, positioned Zephyr to watch the window, muttered about exhaustion with making deals with evil powers, led them down into a pit, knocked on a wall to open a secret door, warned them not to disturb the dead, explained the temple\u2019s emptiness and future plans, provided a map of gnoll territory, and deposited them directly into the Air Temple\u2019s power source without warning.",
+    "source_quote": "Dick Rentsch confirmed that he had arranged a meeting with Romag... Dick Rentsch pulled them inside through the side door... Dick Rentsch led them deeper into the temple... Dick Rentsch sighed in exasperation... Dick Rentsch laughed and explained that once the Earth Temple destroyed the other false prophets, this place would be filled with supplicants... Dick Rentsch provided them with a map showing where the gnolls could be found... Dick Rentsch had not simply sent them down a hallway\u2014he had deposited them directly into enemy territory belonging to a rival elemental faction.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Dick Rentsch",
+    "fact": "Dick Rentsch described the central altar chamber as his happy place.",
+    "source_quote": "Dick Rentsch seemed disturbingly at ease here, describing it as his happy place",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Dick Rentsch",
+    "fact": "Dick Rentsch is a loyal agent of the Earth Temple who arranged the party\u2019s introduction to Romag.",
+    "source_quote": "Dick Rentsch confirmed that he had arranged a meeting with Romag, a powerful figure within the temple they sought.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Dick Rentsch",
+    "fact": "Dick Rentsch is the contact in Nulb who arranged a meeting with Romag, led the party into the Temple of Elemental Evil through a side entrance, described the temple as his happy place, explained its future role in the Earth Temple\u2019s purge, led them down into the pit, opened a secret door with a knock pattern, and warned them not to disturb the bones in the corridor.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Dick Rentsch",
+    "fact": "Dick Rentsch is the party\u2019s liaison who brought them to Romag, provided them with a map of gnoll territories, and failed to disclose that they were being sent into enemy elemental territory. His actions suggest either incompetence or deliberate deception.",
+    "source_quote": "Dick Rentsch provided them with a map showing where the gnolls could be found, explaining that they would need to navigate through territory controlled by multiple hostile factions.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Dick Rentsch",
+    "fact": "Dick Rentsch is weary of making deals with evil powers that want them all dead.",
+    "source_quote": "muttering about his growing exhaustion with making deals with evil powers that wanted them all dead.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Dick Rentsch",
+    "fact": "Dick Rentsch led the party out of Nulb along a rutted, weed-choked road.",
+    "source_quote": "Dick Rentsch led them out of Nulb along a rutted, weed-choked road",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Dick Rentsch",
+    "fact": "Dick Rentsch seems disturbingly at ease in the temple, calling it his happy place.",
+    "source_quote": "Dick Rentsch seemed disturbingly at ease here, describing it as his happy place.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "gnoll",
+    "fact": "The gnoll hissed and threatened to rip the party to shreds.",
+    "source_quote": "the creature only hissed and threatened to rip them to shreds",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "guards",
+    "fact": "The guards expressed loyalty to the Earth Temple and hatred for the Fire Temple.",
+    "source_quote": "The guards expressed their loyalty to the Earth Temple and their hatred for the Fire Temple",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Mordenkainen",
+    "fact": "Mordenkainen is one of the legendary wizards of the Circle of Eight who came to the Temple of Elemental Evil and performed mighty magic to seal it, as recalled by the party from Spugnoir\u2019s story.",
+    "source_quote": "The party recalled a story from Spugnoir in Hommlet about the Circle of Eight\u2014powerful wizards including the legendary Mordenkainen and Bigby\u2014who had come here and performed mighty magic to seal this place.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "Romag is a powerful figure within the Temple of Elemental Evil whom Dick Rentsch arranged to meet, though the party has not yet encountered them directly.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "Romag is the High Priest of the Earth Temple who greeted the party warmly, asked for the Chest of Rao, laughed at their ignorance, explained that the surface temple was merely the beginning and the true power lay in deeper levels, declared that the first two levels were divided among the Earth, Fire, Water, and Air temples locked in constant conflict, below which lay deeper secrets, assigned them the mission to destroy the other temples so the Earth Temple could seize ultimate power, and promised they would earn the right to wear the badge of Earth upon proving themselves.",
+    "source_quote": "Romag greeted them warmly... Romag asked for the Chest of Rao... Romag laughed heartily at their ignorance... Romag explained that the surface temple was merely the beginning, and that the true power lay in the deeper levels descending into the very pit of evil itself... The first two levels were divided among the Earth, Fire, Water, and Air temples, all locked in constant conflict... Below that lay the deeper temple and deeper secrets... Romag\u2019s mission for them was clear: destroy the other temples so the Earth Temple could seize ultimate power... Romag promised that once they proved themselves capable of operating within the temple by completing this mission, they would earn the right to wear the badge of Earth.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "Romag is the High Priest of the Earth Temple, who welcomed the party, requested the Chest of Rao, and revealed that the Earth Temple\u2019s true power lies in the deeper levels beneath the elemental temples, all locked in conflict. His mission is for them to destroy the other temples so the Earth Temple may seize ultimate power.",
+    "source_quote": "Romag laughed heartily at their ignorance, explaining that the surface temple was merely the beginning, and that the true power lay in the deeper levels descending into the very pit of evil itself.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "Romag laughs heartily at the party's ignorance about the temple's true scope.",
+    "source_quote": "Romag laughed heartily at their ignorance.",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "large"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "Romag was pleased that Dick Rentsch had finally brought him something worthy of his time.",
+    "source_quote": "pleased that Dick Rentsch had finally brought him something worthy of his time",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "Romag, the High Priest of the Earth Temple, greeted the party warmly.",
+    "source_quote": "Romag greeted them warmly",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sequioa",
+    "fact": "Sequioa struck down the first animated gnoll skeleton with a powerful blow.",
+    "source_quote": "Sequioa struck down the first skeleton with a powerful blow.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Spugnoir",
+    "fact": "Spugnoir in Hommlet told a story about the Circle of Eight\u2014powerful wizards including the legendary Mordenkainen and Bigby\u2014who had come here and performed mighty magic to seal this place.",
+    "source_quote": "The party recalled a story from Spugnoir in Hommlet about the Circle of Eight\u2014powerful wizards including the legendary Mordenkainen and Bigby\u2014who had come here and performed mighty magic to seal this place.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "The guards",
+    "fact": "The guards express loyalty to the Earth Temple and hatred for the Fire Temple.",
+    "source_quote": "The guards expressed their loyalty to the Earth Temple and their hatred for the Fire Temple.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "The Temple of Elemental Evil",
+    "fact": "The Temple of Elemental Evil is a massive structure with ruined towers, obscene architecture, and leering carvings.",
+    "source_quote": "The Temple of Elemental Evil loomed before them, a massive structure far larger than they had imagined. A ruined tower jutted from the northeast corner of shattered walls, and the temple itself stood like a leprous gray monument to darkness. Its arched buttresses were obscene, covered in climbing vegetation, and every surface was carved with leering faces and writhing forms depicting unspeakable obscenities.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr attempted to politely question the gnoll, slapped it to demand information, was positioned by Calmer to watch the window in Nulb, and descended with the party into the pit beneath the Temple of Elemental Evil.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr attempted to politely question the prisoner, slapped the gnoll and demanded information, was wounded by animated gnoll skeletons, struck the wraith with her dagger, had her maximum vitality drained by the wraith\u2019s spectral touch, and retreated to strike back during the skeleton battle.",
+    "source_quote": "When Zephyr attempted to politely question the prisoner, Calmer suggested a more forceful approach. Zephyr slapped the gnoll and demanded information. Zephyr retreated and struck back, while Zinnia delivered a devastating blow to another skeleton. Zephyr struck first, landing blows with her dagger, but the wraith retaliated with devastating force. Its spectral touch drained Zephyr\u2019s very life essence, not only wounding him but reducing his maximum vitality in a way that could only be restored through extended rest or powerful healing magic.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is a party member who engaged in combat with undead and wraiths, suffered life-draining wounds from the wraith that reduced their maximum vitality, and was the target of lighthearted banter about their tiefling horns.",
+    "source_quote": "The wraith\u2019s spectral touch drained Zephyr\u2019s very life essence, not only wounding him but reducing his maximum vitality in a way that could only be restored through extended rest or powerful healing magic.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia delivered a devastating blow to another animated gnoll skeleton.",
+    "source_quote": "Zinnia delivered a devastating blow to another skeleton.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "alabaster block contents",
+    "fact": "An alabaster block bearing two knives and a crystal bowl.",
+    "source_quote": "An alabaster block bearing two knives and a crystal bowl.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "alabaster block with knives and crystal bowl",
+    "fact": "South of the pit sat an alabaster block bearing two knives and a crystal bowl.",
+    "source_quote": "South of the pit sat an alabaster block bearing two knives and a crystal bowl",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "alabaster block with two knives and a crystal bowl",
+    "fact": "An alabaster block bearing two knives and a crystal bowl is positioned south of the pit in the Air Temple\u2019s chamber, likely a ritual or symbolic artifact tied to its elemental power.",
+    "source_quote": "South of the pit sat an alabaster block bearing two knives and a crystal bowl, while crystal braziers suspended from silver chains emitted sickly sweet perfume smoke.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Badge of Earth",
+    "fact": "Romag promised that once the party proved themselves capable of operating within the temple by completing their mission, they would earn the right to wear the badge of Earth.",
+    "source_quote": "Romag promised that once they proved themselves capable of operating within the temple by completing this mission, they would earn the right to wear the badge of Earth.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Broken crystal vessels",
+    "fact": "Shards of broken crystal vessels surround the circular pit beneath the central altar, their purpose and origin unknown.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "bronze doors dimensions",
+    "fact": "The main entrance features two pairs of massive bronze doors, twenty-three feet high and twenty feet wide.",
+    "source_quote": "The main entrance featured two pairs of massive bronze doors, twenty-three feet high and twenty feet wide.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "bronze square dimensions",
+    "fact": "In the center stood a great pierced bronze square.",
+    "source_quote": "In the center stood a great pierced bronze square.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Central altar of pinkish-white marble",
+    "fact": "The central altar is carved with a disturbing human-shaped depression stained dark with old blood, located in a chamber beneath the temple\u2019s vestibule, and surrounded by a circular pit.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "chest description",
+    "fact": "The party presented the Chest of Rao to Romag.",
+    "source_quote": "The party presented the Chest of Rao to Romag.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Chest of Rao",
+    "fact": "The Chest of Rao is a sacred artifact presented to Romag by the party, confirming their compliance with his initial demand and serving as proof of their usefulness to the Earth Temple.",
+    "source_quote": "He asked for the Chest of Rao, and the party presented it to him.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Chest of Rao",
+    "fact": "The Chest of Rao was presented to Romag by the party after he asked for it.",
+    "source_quote": "Romag asked for the Chest of Rao, and the party presented it to him.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "crystal braziers",
+    "fact": "Crystal braziers suspended from silver chains emitted sickly sweet perfume smoke.",
+    "source_quote": "crystal braziers suspended from silver chains emitted sickly sweet perfume smoke",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "crystal braziers scent",
+    "fact": "Crystal braziers suspended from silver chains emitted sickly sweet perfume smoke.",
+    "source_quote": "Crystal braziers suspended from silver chains emitted sickly sweet perfume smoke.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "glowing runes on bronze doors",
+    "fact": "Glowing runes burned with silvery radiance upon the bronze doors of the temple.",
+    "source_quote": "Graven upon these doors were glowing runes that burned with silvery radiance",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Glowing runes on bronze doors",
+    "fact": "Glowing runes burned with silvery radiance upon the twenty-three-foot-high bronze doors of the Temple of Elemental Evil, causing the party\u2019s eyes to water when looked upon, and were deliberately avoided by Dick Rentsch.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "great pierced bronze square",
+    "fact": "In the center of the octagonal room stood a great pierced bronze square.",
+    "source_quote": "In the center stood a great pierced bronze square",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "map of gnoll locations",
+    "fact": "Dick Rentsch provided the party with a map showing where the gnolls could be found.",
+    "source_quote": "Dick Rentsch provided them with a map showing where the gnolls could be found",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "map of gnoll territories",
+    "fact": "Dick Rentsch provided the party with a map showing gnoll locations and hostile faction-controlled territory, but omitted that the path led directly into the Air Temple\u2019s domain.",
+    "source_quote": "Dick Rentsch provided them with a map showing where the gnolls could be found, explaining that they would need to navigate through territory controlled by multiple hostile factions.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Map of Gnoll Territory",
+    "fact": "Dick Rentsch provided the party with a map showing where the gnolls could be found, explaining they would need to navigate through territory controlled by multiple hostile factions.",
+    "source_quote": "Dick Rentsch provided them with a map showing where the gnolls could be found, explaining that they would need to navigate through territory controlled by multiple hostile factions.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "runes radiance",
+    "fact": "Graven upon these doors were glowing runes that burned with silvery radiance, making their eyes water to look upon.",
+    "source_quote": "Graven upon these doors were glowing runes that burned with silvery radiance, making their eyes water to look upon.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Scroll with ancient markings",
+    "fact": "A scroll bearing ancient markings was discovered on the bodies of the dead, though its contents and origin remain unexamined.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "scroll with ancient markings",
+    "fact": "The party discovered a scroll bearing ancient markings among the items of interest.",
+    "source_quote": "the party discovered several items of interest: a scroll bearing ancient markings...",
+    "quote_verified": false,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "symbols marking servants of the Temple of Fire",
+    "fact": "Symbols on the dead gnolls marked them as servants of the Temple of Fire.",
+    "source_quote": "symbols marking the dead as servants of the Temple of Fire",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Symbols Marking the Dead as Servants of the Temple of Fire",
+    "fact": "The party discovered symbols marking the dead as servants of the Temple of Fire among the items of interest.",
+    "source_quote": "the party discovered several items of interest: ... and symbols marking the dead as servants of the Temple of Fire.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Three Ornate Gold Buttons",
+    "fact": "The party discovered three ornate gold buttons among the items of interest.",
+    "source_quote": "the party discovered several items of interest: ... three ornate gold buttons...",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "three ornate gold buttons",
+    "fact": "The party discovered three ornate gold buttons on the dead gnolls.",
+    "source_quote": "three ornate gold buttons",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Three ornate gold buttons",
+    "fact": "Three ornate gold buttons were found on the bodies, marked as symbols of service to the Temple of Fire.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Dick Rentsch\u2019s deception",
+    "fact": "It remains unclear whether Dick Rentsch\u2019s failure to warn the party about the Air Temple\u2019s territory was due to negligence, ignorance, or deliberate sabotage. His actions have placed them in extreme danger and may be part of a larger test or betrayal.",
+    "source_quote": "Dick Rentsch had not simply sent them down a hallway\u2014he had deposited them directly into enemy territory belonging to a rival elemental faction. Whether this was a test of their abilities or something more sinister remained unclear.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Dick Rentsch's true intentions",
+    "fact": "Dick Rentsch's motives for depositing the party into enemy territory remain unclear.",
+    "source_quote": "Dick Rentsch had not simply sent them down a hallway\u2014he had deposited them directly into enemy territory belonging to a rival elemental faction.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Dick Rentsch's true motives",
+    "fact": "It remained unclear whether Dick Rentsch\u2019s actions were a test or something more sinister.",
+    "source_quote": "Whether this was a test of their abilities or something more sinister remained unclear",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Fate of the Temple of Fire symbols",
+    "fact": "Symbols marking the dead as servants of the Temple of Fire were found on the bodies, but their connection to the current Temple of Elemental Evil remains unexplained.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Identity of the mysterious fungus",
+    "fact": "Strange fungus, unlike any seen before, covered bones and vegetation in the temple grounds and pit, but its origin and properties are unknown.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Nature of Dick Rentsch\u2019s allegiance",
+    "fact": "Dick Rentsch is disturbingly at ease in the Temple of Elemental Evil and calls it his happy place; his true allegiance and role within the temple are unclear.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Origin of the great battle in the Bone Corridor",
+    "fact": "The Bone Corridor is filled with skeletons from a great battle, but the identity of the combatants and the cause of the conflict remain unknown.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "party's survival in Temple of Elemental Evil",
+    "fact": "The party was now deep within the Temple of Elemental Evil, surrounded by ancient evil and warring factions, with only their wits and weapons to see them through.",
+    "source_quote": "they were now deep within the Temple of Elemental Evil, surrounded by ancient evil and warring factions, with only their wits and weapons to see them through the trials ahead",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Purpose of the human-shaped depression",
+    "fact": "The human-shaped depression on the central altar is stained with old blood; its ritual or functional purpose remains unexplained.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "the deeper secrets of the Temple",
+    "fact": "Romag hinted that beyond the four elemental temples lie deeper levels containing unknown secrets and the true source of the Temple of Elemental Evil\u2019s power. The party\u2019s mission has only just begun.",
+    "source_quote": "Below that lay the deeper temple and deeper secrets.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The true nature of the Air Temple\u2019s presence",
+    "fact": "It is unclear whether the party\u2019s placement in the Air Temple is a test or a betrayal.",
+    "source_quote": "Whether this was a test of their abilities or something more sinister remained unclear.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  }
+]

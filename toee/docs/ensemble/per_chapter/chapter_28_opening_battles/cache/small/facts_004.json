@@ -1,0 +1,135 @@
+[
+  {
+    "type": "faction",
+    "subject": "Fire Temple",
+    "fact": "The Fire Temple is actively engaged in elemental conflict, represented by fire snakes and a wounded salamander, and has no intention of yielding to opposing forces.",
+    "source_quote": "Fire versus Water. Neither faction was going to yield.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Water Temple",
+    "fact": "The Water Temple is engaged in sustained elemental warfare, represented by four water gargoyles, showing no signs of fatigue or retreat.",
+    "source_quote": "The gargoyles showed no sign of flagging.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Obsidian Edge",
+    "fact": "The Obsidian Edge initiated the conflict by lighting the match and stepping back, allowing the elemental war to escalate without direct involvement.",
+    "source_quote": "The Obsidian Edge had lit the match and stepped back.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Kelno",
+    "fact": "Kelno has entered the conflict on its own terms, absorbing the consequences of the war and now stands in the smoke with altered burns and a full treasury.",
+    "source_quote": "Kelno was standing in the smoke with a different set of burns and a full treasury.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr attempted to use Goblin as a diplomatic language to communicate with elemental entities, but recognized the futility of the attempt and abandoned the plan.",
+    "source_quote": "Speak goblin,\" Zephyr offered anyway. ... \"Alright,\" Zephyr said. \"This plan is done.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "fire snakes",
+    "fact": "Fire snakes are active combatants in the elemental conflict, engaging in violent collisions with water gargoyles and generating scalding steam.",
+    "source_quote": "Fire snakes and a wounded salamander, locked in combat with four water gargoyles \u2014 the collisions between them threw eruptions of scalding steam.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "wounded salamander",
+    "fact": "The wounded salamander continues to contribute to the chaos despite its injuries, indicating resilience and persistent aggression.",
+    "source_quote": "The salamander was wounded but still moving, still contributing to the chaos.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "water gargoyles",
+    "fact": "Water gargoyles are relentless combatants in the elemental conflict, showing no signs of fatigue or retreat despite sustained battle.",
+    "source_quote": "The gargoyles showed no sign of flagging.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Hall of Trophies and Elemental Strife",
+    "fact": "The Hall of Trophies and Elemental Strife is a ruined chamber that once hosted conquest celebrations, now filled with the remnants of war and an ongoing elemental battle.",
+    "source_quote": "The hall had once hosted celebrations, if you could call them that. Great banquets of conquest, probably.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Prisoner's Bargain",
+    "fact": "The Prisoner's Bargain is a chamber saturated with the scent of fear and old stone, where chained captives have been left to await death without hope.",
+    "source_quote": "The chamber smelled like fear and old stone. ... They were huddled against the far wall, chained at the wrist.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "trophies on the walls",
+    "fact": "The trophies \u2014 mummified heads, torn battle standards, battered shields, and a broken broadsword \u2014 are relics of conquest, preserved as symbols of dominance.",
+    "source_quote": "mummified heads, their leather-dry mouths still twisted in the expressions of their dying moments. Torn battle standards. Battered shields. A broken broadsword that someone had kept as a trophy.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "tapestry",
+    "fact": "The tapestries depict raiding figures in the act of taking, burning, and dragging, reinforcing the hall's history of violent acquisition.",
+    "source_quote": "The tapestries showed raiding \u2014 figures in the act of taking, burning, dragging.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "black stone steps",
+    "fact": "The broad steps of dull black stone descend from the north wall into shadow, serving as a physical pathway toward deeper, unknown regions of the ruin.",
+    "source_quote": "Broad steps of dull black stone descended from the north wall into shadow.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "the door",
+    "fact": "The door in the Hall of Trophies and Elemental Strife opens and closes on its own without mechanical or environmental cause, suggesting autonomous observation or surveillance.",
+    "source_quote": "This one opened on its own. ... Then closed again. ... Someone, or something, was tracking our position.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "language barrier with elementals",
+    "fact": "The elemental combatants communicate in Primordial, a language none of the party speaks, creating an unbridgeable gap to potential intelligence about the deep temple.",
+    "source_quote": "They were not men. They were elemental things, and whatever they spoke was Primordial \u2014 a tongue none of us carried.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the door's surveillance",
+    "fact": "The self-moving door implies an unseen observer tracking the party\u2019s movements, with intent unknown \u2014 asset or threat, TBD.",
+    "source_quote": "Someone, or something, was tracking our position. ... Still watching us, or already forgotten? I didn't know.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "prisoners' fate",
+    "fact": "The chained prisoners in the Chamber of the Prisoner's Bargain plead for rescue, but their survival and the party's obligation toward them remain unresolved.",
+    "source_quote": "\"Please, please don't leave us to die!\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia is a professional observer who catalogs everything without sentiment, noting patterns in ruins, objects, and behavior with clinical precision.",
+    "source_quote": "I catalogued them the way I catalogue everything, automatically, without sentiment.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "exit strategy \u2014 southern corridor",
+    "fact": "The southern corridor serves as the planned escape route, made viable by the obscuring steam from the elemental battle, requiring only patience and timing.",
+    "source_quote": "The elementals were generating enough obscuring haze on their own that slipping away south was simply a matter of patience and timing.",
+    "quote_verified": false
+  }
+]

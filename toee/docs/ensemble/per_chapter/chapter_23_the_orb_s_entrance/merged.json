@@ -1,0 +1,1774 @@
+[
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "Ten years ago, the forces of the temple were defeated at the Battle of Emory Meadows.",
+    "source_quote": "Romag then revealed what had happened ten years ago.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
+    "source_quote": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "Ten years ago",
+    "fact": "Ten years ago, the Temple of Elemental Evil was defeated at Emory Meadows and its central power locked by the Circle of Eight, initiating its current period of stagnation and covert rebuilding.",
+    "source_quote": "Romag recalled the events of ten years ago when the Circle of Eight intervened.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Battle of Emory Meadows",
+    "fact": "A pivotal battle ten years ago where the Temple of Elemental Evil was decisively defeated by the Archbishop of Veluna and the Kingdom of Furyondy, with the Circle of Eight intervening to lock the temple\u2019s core energy source.",
+    "source_quote": "Romag recounted the battle where the Circle of Eight locked the temple\u2019s central driving power.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Battle of Emory Meadows",
+    "fact": "The forces of the Temple of Elemental Evil were defeated at the Battle of Emory Meadows by the Archbishop of Veluna and the Kingdom of Furyondy.",
+    "source_quote": "The forces of the temple had united and marched out to conquer, but they were defeated at the Battle of Emory Meadows by the Archbishop of Veluna and the Kingdom of Furyondy.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Broken Blades' weapons stolen",
+    "fact": "Dren Halveth revealed that a shipment of weapons belonging to his company had been stolen by the Crimson Reapers.",
+    "source_quote": "Dren demanded to know who sent them, what they wanted in Nulb, and which gods they prayed to. The party explained they had gained territory in the temple for the Earth Temple. Dren revealed that a shipment of weapons belonging to his company had been stolen by the Crimson Reapers, who occupied the room next door.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer converts to elder elemental god",
+    "fact": "Romag specifically highlighted Calmer's conversion from a cleric of St. Cuthbert to a follower of the elder elemental god.",
+    "source_quote": "specifically highlighting Calmer's conversion from a cleric of St. Cuthbert to a follower of the elder elemental god.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer\u2019s conversion",
+    "fact": "Calmer converted from a cleric of St. Cuthbert to a follower of the elder elemental god, marking a significant ideological shift within the Earth Temple\u2019s inner circle.",
+    "source_quote": "Romag proposed a toast to Sequoia, Zephyr, Zinnia, and Calmer... specifically highlighting Calmer's conversion from a cleric of St. Cuthbert to a follower of the elder elemental god.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Circle of Eight locks temple",
+    "fact": "The Circle of Eight, including Bigby, Tenser, and Mordenkainen, locked the temple itself, blocking access to the central driving power.",
+    "source_quote": "The Circle of Eight, including powerful wizards like Bigby, Tenser, and Mordenkainen, had shown up and locked the temple itself, blocking access to the central driving power that gave them their necessary energy.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "conversion of Calmer",
+    "fact": "Calmer's conversion from a cleric of St. Cuthbert to a follower of the elder elemental god was highlighted.",
+    "source_quote": "specifically highlighting Calmer's conversion from a cleric of St. Cuthbert to a follower of the elder elemental god.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Crimson Reaper",
+    "fact": "A Crimson Reaper revealed that the chest of weapons was temple property that Dren had stolen, and gave him until midnight to join the temple or be killed.",
+    "source_quote": "The Reaper explained that the chest was temple property that Dren had stolen. He stated that Dren had until midnight to join the temple or he and his crew would be dead.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Crimson Reapers claim weapons as temple property",
+    "fact": "The Crimson Reaper stated that the chest was temple property that Dren had stolen.",
+    "source_quote": "The Reaper explained that the chest was temple property that Dren had stolen.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Crimson Reapers give Dren until midnight to join",
+    "fact": "The Crimson Reaper told Dren he had until midnight to join the temple or he and his crew would be dead.",
+    "source_quote": "He stated that Dren had until midnight to join the temple or he and his crew would be dead.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Dick Rentsch",
+    "fact": "Dick Rentsch said that until complete power was secured, everyone had to work together, justifying his continued payroll of Wat despite his apparent loyalty to the Water Temple.",
+    "source_quote": "Dick responded that until they had secured complete power, everyone had to work together.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Dren agrees to join Earth Temple",
+    "fact": "Dren agreed to join the Earth Temple in exchange for one hundred gold pieces to help set up their new business.",
+    "source_quote": "Impressed by these arguments, Dren agreed to join the Earth Temple in exchange for one hundred gold pieces to help set up their new business.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Dren Halveth",
+    "fact": "Dren Halveth tasked the party with retrieving a shipment of weapons stolen by the Crimson Reapers, without bringing the wrath of the temple down on everyone.",
+    "source_quote": "He tasked the party with retrieving the weapons without bringing the wrath of the temple down on everyone.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "negotiation with Crimson Reapers",
+    "fact": "A tattooed and scarred Crimson Reaper opened the door and became angry when Calmer asked about the chest.",
+    "source_quote": "A tattooed and scarred Crimson Reaper opened the door and became angry when Calmer asked about the chest.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "negotiation with Crimson Reapers",
+    "fact": "The Crimson Reapers explained that the chest was temple property that Dren had stolen.",
+    "source_quote": "The Reaper explained that the chest was temple property that Dren had stolen.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "party brings Broken Blades to temple",
+    "fact": "The party successfully brought the Broken Blades back to the temple.",
+    "source_quote": "The party successfully brought the Broken Blades back to the temple.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "party clears dungeon section",
+    "fact": "The party successfully cleared an entire section of the dungeon, defeating giants and over twenty ghouls and ghasts.",
+    "source_quote": "The battle was over. The party stood victorious amid the corpses of giants and over twenty ghouls and ghasts, having successfully cleared an entire section of the dungeon.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "party negotiates with Crimson Reapers",
+    "fact": "The party decided to negotiate with the Crimson Reapers rather than steal the chest.",
+    "source_quote": "The party decided to try negotiating with the Crimson Reapers rather than stealing the chest.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "recruitment of Broken Blades",
+    "fact": "Dick Rentsch had sent word of a group of professional mercenaries called the Broken Blades currently being recruited in Nulb.",
+    "source_quote": "Dick Rentsch had sent word of a group of professional mercenaries called the Broken Blades currently being recruited in Nulb.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "recruitment of Broken Blades",
+    "fact": "Dren Halveth agreed to join the Earth Temple in exchange for one hundred gold pieces.",
+    "source_quote": "Impressed by these arguments, Dren agreed to join the Earth Temple in exchange for one hundred gold pieces to help set up their new business.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "recruitment of Broken Blades",
+    "fact": "Dren Halveth was currently taking bids to recruit his crew in three ways: outbidding the Water Temple, defeating him in a fist fight, or completing a task.",
+    "source_quote": "Dren demanded to know who sent them, what they wanted in Nulb, and which gods they prayed to. The party explained they had gained territory in the temple for the Earth Temple. Dren revealed that a shipment of weapons belonging to his company had been stolen by the Crimson Reapers, who occupied the room next door. He tasked the party with retrieving the weapons without bringing the wrath of the temple down on everyone.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "recruitment of Broken Blades",
+    "fact": "Dren Halveth, a half-orc with broad shoulders, scars, and one ruined white eye, demanded to know who sent them.",
+    "source_quote": "Dren Halveth, a half-orc with broad shoulders, scars, and one ruined white eye. His crew hung back behind him, relaxed but dangerous, with fingers drifting near weapons. Dren demanded to know who sent them...",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "recruitment of Broken Blades",
+    "fact": "The Earth Temple successfully recruited the Broken Blades, expanding its influence and territorial control through direct personal outreach.",
+    "source_quote": "The party successfully brought the Broken Blades back to the temple, where Romag was extremely pleased with their success.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "recruitment of Broken Blades",
+    "fact": "The party successfully brought the Broken Blades back to the temple.",
+    "source_quote": "The party successfully brought the Broken Blades back to the temple, where Romag was extremely pleased with their success.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Recruitment of the Broken Blades",
+    "fact": "An urgent mission in Nulb to secure the Broken Blades mercenaries before the Water Temple can recruit them. The party must complete a task to earn Dren Halveth\u2019s loyalty.",
+    "source_quote": "Dick arranged a meeting with Dren, who gave the party a task to retrieve the stolen weapons.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Revelation of the Crimson Reapers' allegiance",
+    "fact": "The party discovered that the Crimson Reapers are not aligned with any of the four elemental temples but serve a deeper, hidden organization with authority over them, challenging the temple\u2019s assumed supremacy.",
+    "source_quote": "The Reaper declared the chest was temple property and that Dren must join or die, revealing the Reapers answer to a power above the elemental temples.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Romag",
+    "fact": "Romag announced that the new territory would be given to the mercenaries, who would report to the party, though he claimed another portion of the cleared territory for himself.",
+    "source_quote": "He announced that the new territory would be given to the mercenaries, who would report to the party, though he claimed another portion of the cleared territory for himself.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Romag",
+    "fact": "Romag proposed a toast to Sequoia, Zephyr, Zinnia, and Calmer for their contributions to increasing the Earth Temple's power, specifically highlighting Calmer's conversion from a cleric of St. Cuthbert to a follower of the elder elemental god.",
+    "source_quote": "Romag proposed a toast to Sequoia, Zephyr, Zinnia, and Calmer for their contributions to increasing the Earth Temple's power, specifically highlighting Calmer's conversion from a cleric of St. Cuthbert to a follower of the elder elemental god.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Romag",
+    "fact": "Romag revealed that ten years ago, the forces of the temple were defeated at the Battle of Emory Meadows by the Archbishop of Veluna and the Kingdom of Furyondy.",
+    "source_quote": "Romag then revealed what had happened ten years ago. The forces of the temple had united and marched out to conquer, but they were defeated at the Battle of Emory Meadows by the Archbishop of Veluna and the Kingdom of Furyondy.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Romag assigns territory to Broken Blades",
+    "fact": "Romag announced that the new territory would be given to the mercenaries, who would report to the party.",
+    "source_quote": "He announced that the new territory would be given to the mercenaries, who would report to the party.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Romag claims territory for himself",
+    "fact": "Romag claimed another portion of the cleared territory for himself.",
+    "source_quote": "though he claimed another portion of the cleared territory for himself.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Romag hosts celebratory drinking party",
+    "fact": "Romag hosted a celebratory drinking party in the newly cleaned banquet hall, which still carried the stench of cadavers and dead creatures mixed with food.",
+    "source_quote": "That night, Romag hosted a celebratory drinking party in the newly cleaned banquet hall, which still carried the stench of cadavers and dead creatures mixed with food.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Romag tasks party with recruiting mercenaries",
+    "fact": "Romag tasked the party with recruiting people to man the newly captured areas to earn more trust.",
+    "source_quote": "To earn more trust, Romag tasked them with recruiting people to man the newly captured areas.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Romag toasts to party members",
+    "fact": "Romag proposed a toast to Sequoia, Zephyr, Zinnia, and Calmer for their contributions to increasing the Earth Temple's power.",
+    "source_quote": "Romag proposed a toast to Sequoia, Zephyr, Zinnia, and Calmer for their contributions to increasing the Earth Temple's power.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia argued that the Water Temple relied on propaganda and lies while the Earth Temple showed real commitment by coming to recruit the Broken Blades personally.",
+    "source_quote": "Sequoia countered brilliantly, arguing that the Water Temple relied on propaganda and lies while the Earth Temple showed real commitment by coming to recruit them personally.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party chose to negotiate with the Crimson Reapers rather than steal the chest, sending Calmer to knock on their door.",
+    "source_quote": "The party decided to try negotiating with the Crimson Reapers rather than stealing the chest. Calmer was sent to knock on their door while the rest of the party hid nearby.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party successfully brought the Broken Blades back to the temple after convincing Dren Halveth to join in exchange for one hundred gold pieces.",
+    "source_quote": "Impressed by these arguments, Dren agreed to join the Earth Temple in exchange for one hundred gold pieces to help set up their new business.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "The party traveled to Nulb, arriving discreetly at the Watersteide Hostel.",
+    "source_quote": "The party traveled to Nulb, arriving discreetly at the Watersteide Hostel.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Wat",
+    "fact": "Wat approached Dren and whispered something to him, but Dren shoved him away.",
+    "source_quote": "As they departed, Wat approached Dren and whispered something to him, but Dren shoved him away.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Wat's loyalty",
+    "fact": "Zinnia noticed that Wat, the barkeep, looked very unhappy about the outcome, confirming their suspicion that he worked for the Water Temple.",
+    "source_quote": "Zinnia noticed that Wat, the barkeep, looked very unhappy about the outcome, confirming their suspicion that he worked for the Water Temple.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Wat whispers to Dren",
+    "fact": "Wat approached Dren and whispered something to him, but Dren shoved him away.",
+    "source_quote": "As they departed, Wat approached Dren and whispered something to him, but Dren shoved him away.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Whisper from Wat",
+    "fact": "Wat approached Dren and whispered something to him, but Dren shoved him away.",
+    "source_quote": "As they departed, Wat approached Dren and whispered something to him, but Dren shoved him away.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Broken Blades",
+    "fact": "Dick Rentsch reported that the Broken Blades, a group of professional mercenaries, were being recruited in Nulb.",
+    "source_quote": "Dick Rentsch had sent word of a group of professional mercenaries called the Broken Blades currently being recruited in Nulb.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Broken Blades",
+    "fact": "The Broken Blades were successfully recruited by the Earth Temple and are now assigned to govern newly claimed territory under the party\u2019s authority.",
+    "source_quote": "The party emphasized they had just claimed new territory and were willing to share it with the Broken Blades.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Circle of Eight",
+    "fact": "The Circle of Eight is a legendary alliance of powerful wizards\u2014including Bigby, Tenser, and Mordenkainen\u2014who defeated the Temple of Elemental Evil at the Battle of Emory Meadows and locked its central driving power, crippling its operations for a decade.",
+    "source_quote": "Romag recalled the Circle\u2019s intervention ten years ago, which sealed the temple\u2019s core energy source.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Crimson Reapers",
+    "fact": "The Crimson Reapers are a secretive, non-elemental organization that operates beyond the four elemental temples. They claim ownership of temple property and enforce allegiance through threats of death, indicating a higher authority than the elemental cults.",
+    "source_quote": "The Reaper stated the chest was temple property and that Dren must join or die, revealing the Reapers answer to a power above the elemental temples.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Crimson Reapers",
+    "fact": "The Crimson Reapers worked for a deeper organization behind the four elemental temples, not one of the four temples directly.",
+    "source_quote": "The party realized the Crimson Reapers worked for a deeper organization behind the four elemental temples, not one of the four temples directly.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple is recruiting the Broken Blades in Nulb, sending the party personally to secure them, and offering gold and territory in exchange for loyalty.",
+    "source_quote": "The party emphasized they had just claimed new territory and were willing to share it with the Broken Blades.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple successfully recruited the Broken Blades, expanded its territorial control, and deepened its internal hierarchy through espionage and sabotage, with key figures like Calmer converting from rival faiths.",
+    "source_quote": "The party successfully positioned themselves deeper within the temple's hierarchy, continuing their dangerous mission of espionage and sabotage from within the enemy stronghold.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Temple of Elemental Evil",
+    "fact": "The Temple of Elemental Evil is a unified alliance of four elemental temples\u2014earth, fire, water, and air\u2014founded on the doctrine that true cosmic nature is chaotic elemental conflict, with earth destined to reduce all to dirt. It seeks to impose stability through domination and was once locked by the Circle of Eight.",
+    "source_quote": "Romag explained the temple's founding principle and its defeat at Emory Meadows by the Circle of Eight.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Temple of Elemental Evil",
+    "fact": "The Temple of Elemental Evil was founded on the principle that the true nature of the universe is constant chaos between the elements, with earth destined to reduce all things to dirt.",
+    "source_quote": "He explained that the Temple of Elemental Evil was founded on the principle that the true nature of the universe is constant chaos between the elements, with earth destined to reduce all things to dirt.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Temple of Elemental Evil",
+    "fact": "The four elemental temples\u2014earth, fire, water, and air\u2014aligned to unify their ambitions and destroy their enemies.",
+    "source_quote": "The four elemental temples\u2014earth, fire, water, and air\u2014aligned to unify their ambitions and destroy their enemies, planning to settle their differences only after achieving victory.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Water Temple",
+    "fact": "The Water Temple is actively recruiting the Broken Blades in Nulb, offering a large sum of money and claiming the Earth Temple uses recruits as cannon fodder.",
+    "source_quote": "Dren expressed skepticism, noting the Water Temple was offering a large sum of money and claiming the Earth Temple just used recruits as cannon fodder.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Water Temple",
+    "fact": "The Water Temple is one of the four elemental factions aligned under the Temple of Elemental Evil, actively competing for recruits and resources in Nulb. It seeks to undermine the Earth Temple's influence by recruiting the Broken Blades.",
+    "source_quote": "The Water Temple was also trying to recruit the Broken Blades, making it urgent for the party to act first.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Water Temple",
+    "fact": "The Water Temple is perceived as relying on propaganda and lies, employing operatives like Wat the barkeep, and attempting to undermine the Earth Temple\u2019s recruitment efforts through financial incentives.",
+    "source_quote": "Sequoia countered brilliantly, arguing that the Water Temple relied on propaganda and lies while the Earth Temple showed real commitment by coming to recruit them personally.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Water Temple",
+    "fact": "The Water Temple was also trying to recruit the Broken Blades, making it urgent for the party to secure them first.",
+    "source_quote": "However, the Water Temple was also trying to recruit them, making it urgent for the party to secure the mercenaries first.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "back room",
+    "fact": "The back room is the private space in the Watersteide Hostel where Dick Rentsch met with the party to discuss recruiting the Broken Blades.",
+    "source_quote": "Dick Rentsch, who took them to his back room to discuss business privately.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "banquet hall",
+    "fact": "The banquet hall is the newly cleaned room where Romag hosted a celebratory drinking party, still carrying the stench of cadavers and dead creatures mixed with food.",
+    "source_quote": "That night, Romag hosted a celebratory drinking party in the newly cleaned banquet hall, which still carried the stench of cadavers and dead creatures mixed with food.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "banquet hall elevation",
+    "fact": "Romag hosted a celebratory drinking party in the newly cleaned banquet hall, which still carried the stench of cadavers and dead creatures mixed with food.",
+    "source_quote": "That night, Romag hosted a celebratory drinking party in the newly cleaned banquet hall, which still carried the stench of cadavers and dead creatures mixed with food.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Crimson Reapers' room elevation",
+    "fact": "The Crimson Reapers occupied the room next door to Dren Halveth\u2019s quarters.",
+    "source_quote": "who occupied the room next door.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Emory Meadows",
+    "fact": "Emory Meadows is the site of the battle where the forces of the temple were defeated by the Archbishop of Veluna and the Kingdom of Furyondy, and where the Circle of Eight locked the temple itself, blocking access to the central driving power.",
+    "source_quote": "The forces of the temple had united and marched out to conquer, but they were defeated at the Battle of Emory Meadows by the Archbishop of Veluna and the Kingdom of Furyondy. The Circle of Eight, including powerful wizards like Bigby, Tenser, and Mordenkainen, had shown up and locked the temple itself, blocking access to the central driving power that gave them their necessary energy.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Emory Meadows",
+    "fact": "The site of the decisive defeat of the Temple of Elemental Evil ten years ago, where the Circle of Eight intervened and locked the temple\u2019s central power. It marks the turning point in the temple\u2019s decline.",
+    "source_quote": "Romag recalled the temple\u2019s defeat at Emory Meadows by the Archbishop of Veluna and the Circle of Eight.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Hostel",
+    "fact": "The party prepared to leave the hostel with the Broken Blades, where Zinnia observed Wat\u2019s distress and Calmer questioned Dick Rentsch.",
+    "source_quote": "As the party prepared to leave the hostel with the Broken Blades, Zinnia noticed that Wat, the barkeep, looked very unhappy about the outcome...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "newly cleared dungeon area",
+    "fact": "The party positioned themselves as formidable agents within the enemy stronghold by claiming new territory for the temple.",
+    "source_quote": "They had claimed new territory for the temple, positioning themselves as formidable agents within the enemy stronghold.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Nulb",
+    "fact": "Nulb is a lawless frontier town where the Earth Temple and Water Temple compete for recruits. It hosts the Watersteide Hostel and is a hub for mercenary activity, smuggling, and hidden agendas.",
+    "source_quote": "The party traveled to Nulb and met Dick Rentsch at the Watersteide Hostel.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Nulb",
+    "fact": "Nulb is the town where the Broken Blades are being recruited, and where the Watersteide Hostel is located, with competing recruitment efforts from the Earth and Water Temples.",
+    "source_quote": "Dick Rentsch had sent word of a group of professional mercenaries called the Broken Blades currently being recruited in Nulb.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Nulb tavern elevation",
+    "fact": "Dick Rentsch's back room was located inside the smoke-filled tavern room of the Watersteide Hostel.",
+    "source_quote": "Inside the smoke-filled tavern room, they met with Dick Rentsch, who took them to his back room to discuss business privately.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Nulb tavern elevation",
+    "fact": "The party met with Dick Rentsch in his back room, inside the smoke-filled tavern room of the Watersteide Hostel.",
+    "source_quote": "Inside the smoke-filled tavern room, they met with Dick Rentsch, who took them to his back room to discuss business privately.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Temple Banquet Hall",
+    "fact": "The temple banquet hall was newly cleaned but still carried the stench of cadavers and dead creatures mixed with food, hosting a celebratory drinking party led by Romag.",
+    "source_quote": "That night, Romag hosted a celebratory drinking party in the newly cleaned banquet hall, which still carried the stench of cadavers and dead creatures mixed with food.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "temple banquet hall elevation",
+    "fact": "The newly cleaned banquet hall still carried the stench of cadavers and dead creatures mixed with food.",
+    "source_quote": "which still carried the stench of cadavers and dead creatures mixed with food.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Dungeon (cleared section)",
+    "fact": "A section of the temple\u2019s dungeon successfully cleared by the party of giants, ghouls, and ghasts. It is now claimed territory for the Earth Temple and the target of Romag\u2019s expansion efforts.",
+    "source_quote": "The party had cleared the dungeon and claimed new territory for the temple.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "the room next door",
+    "fact": "The room next door is the location occupied by the Crimson Reapers, where the chest of weapons was taken and where Calmer went to negotiate.",
+    "source_quote": "Dren revealed that a shipment of weapons belonging to his company had been stolen by the Crimson Reapers, who occupied the room next door.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "the vault",
+    "fact": "The vault is the deep place within the temple that can be opened only with the orb, and its contents remain unrevealed until trust is earned.",
+    "source_quote": "The orb was also the key to the vault that opened the deep places within the temple. When asked what was in the vault, Romag stated that such information needed to be earned\u2014he did not yet trust them enough to reveal everything.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "The forces of the temple were defeated at the Battle of Emory Meadows by the Archbishop of Veluna and the Kingdom of Furyondy.",
+    "source_quote": "The forces of the temple had united and marched out to conquer, but they were defeated at the Battle of Emory Meadows by the Archbishop of Veluna and the Kingdom of Furyondy.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Watersteide Hostel",
+    "fact": "A run-down, smoke-filled tavern in Nulb with a sign reading 'Rooms are cheap, lives cheaper.' It serves as Dick Rentsch\u2019s base of operations and the meeting point for covert recruitment efforts.",
+    "source_quote": "The party arrived discreetly at the Watersteide Hostel and met Dick Rentsch inside.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Watersteide Hostel",
+    "fact": "The Watersteide Hostel is a run-down establishment in Nulb with a sign reading 'Rooms are cheap, lives cheaper,' where the party met Dick Rentsch and arranged to meet Dren Halveth.",
+    "source_quote": "The party traveled to Nulb, arriving discreetly at the Watersteide Hostel, a run-down establishment with a sign reading 'Rooms are cheap, lives cheaper.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Watersteide Hostel",
+    "fact": "The party arrived discreetly at the Watersteide Hostel in Nulb, a run-down establishment with a sign reading 'Rooms are cheap, lives cheaper.'",
+    "source_quote": "The party traveled to Nulb, arriving discreetly at the Watersteide Hostel, a run-down establishment with a sign reading 'Rooms are cheap, lives cheaper.'",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Watersteide Hostel elevation",
+    "fact": "The party arrived discreetly at the Watersteide Hostel, a run-down establishment with a sign reading 'Rooms are cheap, lives cheaper.'",
+    "source_quote": "The party traveled to Nulb, arriving discreetly at the Watersteide Hostel, a run-down establishment with a sign reading 'Rooms are cheap, lives cheaper.'",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Bugbears",
+    "fact": "Bugbears are large, aggressive humanoids employed by the Earth Temple as chaotic enforcers. Their lack of discipline makes them unsuitable for holding territory, prompting Romag\u2019s desire for professional mercenaries.",
+    "source_quote": "Romag was tired of relying on unreliable gnolls and unruly bugbears.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Four elemental temples\u2014earth, fire, water, and air\u2014aligned to unify their ambitions and destroy their enemies.",
+    "source_quote": "The four elemental temples\u2014earth, fire, water, and air\u2014aligned to unify their ambitions and destroy their enemies.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Earth Elementals",
+    "fact": "Earth elementals are summoned entities of solidified stone and dirt, capable of crushing opposition and flooding dungeon corridors. They are tools of the Earth Temple\u2019s dominance, deployable only with the Orb of Earthly Supremacy.",
+    "source_quote": "Romag stated that with the orb, he could flood the dungeon with earth elementals and gorgons.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Gnolls",
+    "fact": "Gnolls are feral, hyena-like humanoids used by the Earth Temple as unreliable, unruly foot soldiers. Romag has grown tired of their unpredictability and seeks disciplined replacements.",
+    "source_quote": "Romag was tired of relying on unreliable gnolls and unruly bugbears.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Gorgons",
+    "fact": "Gorgons are monstrous, stone-skinned beasts capable of petrifying foes. They are weaponized by the Earth Temple as elite enforcers, deployable only through the power of the Orb.",
+    "source_quote": "Romag stated that with the orb, he could flood the dungeon with earth elementals and gorgons.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Bigby",
+    "fact": "Bigby is one of the powerful wizards in the Circle of Eight who showed up at Emory Meadows and locked the temple, blocking access to its central driving power.",
+    "source_quote": "The Circle of Eight, including powerful wizards like Bigby, Tenser, and Mordenkainen, had shown up and locked the temple itself, blocking access to the central driving power that gave them their necessary energy.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a member of the party who volunteered to negotiate with the Crimson Reapers. He demonstrated diplomatic skill and uncovered the Reapers' allegiance to a hidden organization beyond the four elemental temples.",
+    "source_quote": "Calmer knocked on the Reapers' door and revealed the party's affiliation with the Earth Temple.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is one of the party members toasted by Romag for their contributions to increasing the Earth Temple's power, specifically for his conversion from a cleric of St. Cuthbert to a follower of the elder elemental god.",
+    "source_quote": "Romag proposed a toast to Sequoia, Zephyr, Zinnia, and Calmer for their contributions to increasing the Earth Temple's power, specifically highlighting Calmer's conversion from a cleric of St. Cuthbert to a follower of the elder elemental god.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is the party member who knocked on the door of the Crimson Reapers to negotiate about the stolen weapons, revealing he worked for the Earth Temple.",
+    "source_quote": "Calmer was sent to knock on their door while the rest of the party hid nearby. A tattooed and scarred Crimson Reaper opened the door and became angry when Calmer asked about the chest. When Calmer revealed he worked for the Earth Temple...",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer questioned Dick Rentsch about keeping Wat on his payroll despite his apparent loyalty to other factions, and Dick responded that until they had secured complete power, everyone had to work together.",
+    "source_quote": "When Calmer questioned Dick Rentsch about keeping Wat on his payroll despite his apparent loyalty to other factions, Dick responded that until they had secured complete power, everyone had to work together.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Crimson Reaper",
+    "fact": "A tattooed and scarred Crimson Reaper opened the door and became angry when Calmer asked about the chest.",
+    "source_quote": "Calmer was sent to knock on their door while the rest of the party hid nearby. A tattooed and scarred Crimson Reaper opened the door and became angry when Calmer asked about the chest.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Crimson Reapers",
+    "fact": "The Crimson Reapers are a group operating behind the four elemental temples, claiming temple property, and demanding Dren join them or die by midnight.",
+    "source_quote": "The party realized the Crimson Reapers worked for a deeper organization behind the four elemental temples, not one of the four temples directly.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Crimson Reapers",
+    "fact": "The Crimson Reapers are a group that occupies the room next door to the Broken Blades, stole a shipment of weapons from Dren, and claim the chest is temple property, demanding Dren join their organization or die by midnight.",
+    "source_quote": "A tattooed and scarred Crimson Reaper opened the door and became angry when Calmer asked about the chest. When Calmer revealed he worked for the Earth Temple, the Reaper explained that the chest was temple property that Dren had stolen. He stated that Dren had until midnight to join the temple or he and his crew would be dead.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Crimson Reaper (unnamed)",
+    "fact": "A tattooed and scarred member of the Crimson Reapers who guards the stolen weapons chest. He asserts that the chest is temple property stolen by Dren Halveth and issues a deadline for allegiance or death.",
+    "source_quote": "The Reaper declared the chest was temple property and gave Dren until midnight to join or die.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Dick Rentsch",
+    "fact": "Dick Rentsch is a recruiter and liaison for the Earth Temple in Nulb, tasked with securing disciplined mercenaries to replace unreliable gnolls and bugbears. He operates from the Watersteide Hostel and coordinates covert missions.",
+    "source_quote": "Dick arranged a private meeting with Dren Halveth and relayed the mission to retrieve the stolen weapons.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Dick Rentsch",
+    "fact": "Dick Rentsch kept Wat on his payroll despite Wat's apparent loyalty to the Water Temple, stating that until complete power was secured, everyone had to work together.",
+    "source_quote": "When Calmer questioned Dick Rentsch about keeping Wat on his payroll despite his apparent loyalty to other factions, Dick responded that until they had secured complete power, everyone had to work together.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Dick Rentsch",
+    "fact": "Dick Rentsch said that until they had secured complete power, everyone had to work together, justifying keeping Wat on his payroll.",
+    "source_quote": "When Calmer questioned Dick Rentsch about keeping Wat on his payroll despite his apparent loyalty to other factions, Dick responded that until they had secured complete power, everyone had to work together.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Dick Rentsch",
+    "fact": "Dick Rentsch sent word of a group of professional mercenaries called the Broken Blades currently being recruited in Nulb, and arranged a meeting with their captain, Dren Halveth, to discuss recruitment.",
+    "source_quote": "Dick Rentsch had sent word of a group of professional mercenaries called the Broken Blades currently being recruited in Nulb. Dick arranged a meeting with Dren Halveth...",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Dick Rentsch",
+    "fact": "Dick Rentsch stated that until they had secured complete power, everyone had to work together, justifying his continued employment of Wat despite suspected allegiance to the Water Temple.",
+    "source_quote": "Dick responded that until they had secured complete power, everyone had to work together.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Dick Rentsch",
+    "fact": "Dick Rentsch took the party to his back room to discuss business privately.",
+    "source_quote": "Inside the smoke-filled tavern room, they met with Dick Rentsch, who took them to his back room to discuss business privately.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Dick Rentsch",
+    "fact": "Dick Rentsch wants disciplined, brutal soldiers loyal to gold, and is tired of relying on unreliable gnolls and unruly bugbears.",
+    "source_quote": "Dick Rentsch had sent word of a group of professional mercenaries called the Broken Blades currently being recruited in Nulb. Romag was tired of relying on unreliable gnolls and unruly bugbears; he wanted disciplined, brutal soldiers loyal to gold.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Dren",
+    "fact": "Dren agreed to join the Earth Temple in exchange for one hundred gold pieces to help set up their new business, after expressing skepticism about the Water Temple's offers and being convinced by the Earth Temple's personal recruitment.",
+    "source_quote": "Dren agreed to join the Earth Temple in exchange for one hundred gold pieces to help set up their new business.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Dren Halveth",
+    "fact": "Dren Halveth agreed to join the Earth Temple in exchange for one hundred gold pieces to help set up their new business after being convinced by the party's arguments.",
+    "source_quote": "Impressed by these arguments, Dren agreed to join the Earth Temple in exchange for one hundred gold pieces to help set up their new business.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Dren Halveth",
+    "fact": "Dren Halveth is a half-orc with broad shoulders, scars, and one ruined white eye, and leads the Broken Blades with a crew that hangs back relaxed but dangerous.",
+    "source_quote": "Dren Halveth, a half-orc with broad shoulders, scars, and one ruined white eye. His crew hung back behind him, relaxed but dangerous, with fingers drifting near weapons.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Dren Halveth",
+    "fact": "Dren Halveth is the half-orc captain of the Broken Blades, a mercenary company whose weapons were stolen by the Crimson Reapers. He demands loyalty through combat, payment, or task completion and resists temple coercion.",
+    "source_quote": "Dren demanded to know the party's allegiance and assigned them the task of retrieving the stolen weapons.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Dren Halveth",
+    "fact": "Dren Halveth is the half-orc captain of the Broken Blades, with broad shoulders, scars, and one ruined white eye, whose crew hung back behind him, relaxed but dangerous, with fingers drifting near weapons.",
+    "source_quote": "Dren Halveth, a half-orc with broad shoulders, scars, and one ruined white eye. His crew hung back behind him, relaxed but dangerous, with fingers drifting near weapons.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Dren Halveth",
+    "fact": "Dren Halveth, a half-orc with broad shoulders, scars, and one ruined white eye, was the captain of the Broken Blades.",
+    "source_quote": "Dren Halveth, a half-orc with broad shoulders, scars, and one ruined white eye.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Mordenkainen",
+    "fact": "Mordenkainen is one of the powerful wizards in the Circle of Eight who showed up at Emory Meadows and locked the temple, blocking access to its central driving power.",
+    "source_quote": "The Circle of Eight, including powerful wizards like Bigby, Tenser, and Mordenkainen, had shown up and locked the temple itself, blocking access to the central driving power that gave them their necessary energy.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "Romag believes the Temple of Elemental Evil was founded on the principle that the true nature of the universe is constant chaos between the elements, with earth destined to reduce all things to dirt.",
+    "source_quote": "He explained that the Temple of Elemental Evil was founded on the principle that the true nature of the universe is constant chaos between the elements, with earth destined to reduce all things to dirt.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "Romag believes the orb is the key to the vault that opened the deep places within the temple.",
+    "source_quote": "The orb was also the key to the vault that opened the deep places within the temple.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "Romag believes the orb is the shackle that binds the storm and flood, the tool to impose the discipline of stone upon the reckless factions of fire and water.",
+    "source_quote": "It was the shackle that binds the storm and flood, the tool to impose the discipline of stone upon the reckless factions of fire and water.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "Romag believes the temple attracted those who embraced the inevitability of elemental chaos rather than feared it, seeking to bring about the blessed moment when all would be reduced to a wasteland of earth.",
+    "source_quote": "The temple attracted those who embraced this inevitability rather than feared it, seeking to bring about the blessed moment when all would be reduced to a wasteland of earth.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "Romag claimed another portion of the cleared territory for himself after assigning the new territory to the Broken Blades.",
+    "source_quote": "He announced that the new territory would be given to the mercenaries, who would report to the party, though he claimed another portion of the cleared territory for himself.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "Romag invited the party to sit and began an ideological training session after they reported their success.",
+    "source_quote": "Romag, pleased with their accomplishment, invited them to sit and began an ideological training session.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "Romag is a high-ranking agent of the Temple of Elemental Evil who leads ideological training and seeks to expand the temple's dominion by recruiting monsters and securing the Orb of Earthly Supremacy. He distrusts unproven allies and values loyalty demonstrated through action.",
+    "source_quote": "Romag shared brandy and revealed the orb's power after assessing the party's proven loyalty.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "Romag is the leader who explains that the Temple of Elemental Evil was founded on the principle that the true nature of the universe is constant chaos between the elements, with earth destined to reduce all things to dirt, and that the four elemental temples aligned to unify their ambitions and destroy their enemies.",
+    "source_quote": "He explained that the Temple of Elemental Evil was founded on the principle that the true nature of the universe is constant chaos between the elements, with earth destined to reduce all things to dirt. The four elemental temples\u2014earth, fire, water, and air\u2014aligned to unify their ambitions and destroy their enemies, planning to settle their differences only after achieving victory.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "Romag knows the key to unlocking the temple's central power is an orb, the only object capable of forcing the chaotic elements to submit to the stability of earth.",
+    "source_quote": "He revealed that the key was an orb, the only object capable of forcing the chaotic elements to submit to the stability of earth.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "Romag revealed that the key to unlocking the temple's central driving power is the orb, and that he had shared brandy with the party after considering their loyalty.",
+    "source_quote": "He pulled out some brandy and shared it with them. He revealed that the key was an orb...",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "Romag was extremely pleased with the party's success in recruiting the Broken Blades.",
+    "source_quote": "Romag was extremely pleased with their success.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "Romag was extremely pleased with the party's success, announced the new territory would be given to the mercenaries who would report to the party, and claimed another portion of the cleared territory for himself.",
+    "source_quote": "Romag was extremely pleased with their success. He announced that the new territory would be given to the mercenaries, who would report to the party, though he claimed another portion of the cleared territory for himself.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia countered the skepticism of Dren Halveth by arguing that the Water Temple relied on propaganda and lies while the Earth Temple showed real commitment by coming to recruit them personally.",
+    "source_quote": "Sequoia countered brilliantly, arguing that the Water Temple relied on propaganda and lies while the Earth Temple showed real commitment by coming to recruit them personally.",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia is one of the party members toasted by Romag for their contributions to increasing the Earth Temple's power, specifically for brilliant counter-arguments that secured the Broken Blades.",
+    "source_quote": "Romag proposed a toast to Sequoia, Zephyr, Zinnia, and Calmer for their contributions to increasing the Earth Temple's power...",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia, Zephyr, Zinnia, Calmer",
+    "fact": "Romag proposed a toast to Sequoia, Zephyr, Zinnia, and Calmer for their contributions to increasing the Earth Temple's power, specifically highlighting Calmer's conversion from a cleric of St. Cuthbert to a follower of the elder elemental god.",
+    "source_quote": "Romag proposed a toast to Sequoia, Zephyr, Zinnia, and Calmer for their contributions to increasing the Earth Temple's power, specifically highlighting Calmer's conversion from a cleric of St. Cuthbert to a follower of the elder elemental god.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Tenser",
+    "fact": "Tenser is one of the powerful wizards in the Circle of Eight who showed up at Emory Meadows and locked the temple, blocking access to its central driving power.",
+    "source_quote": "The Circle of Eight, including powerful wizards like Bigby, Tenser, and Mordenkainen, had shown up and locked the temple itself, blocking access to the central driving power that gave them their necessary energy.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "The Earth Temple",
+    "fact": "The Earth Temple is perceived by the Broken Blades as showing real commitment by personally recruiting them, contrasting with the Water Temple\u2019s use of propaganda and lies.",
+    "source_quote": "Sequoia countered brilliantly, arguing that the Water Temple relied on propaganda and lies while the Earth Temple showed real commitment by coming to recruit them personally.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Wat",
+    "fact": "Wat approached Dren and whispered something to him, but Dren shoved him away, suggesting covert communication and resistance.",
+    "source_quote": "Wat approached Dren and whispered something to him, but Dren shoved him away.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Wat",
+    "fact": "Wat is the barkeep at the Watersteide Hostel who appeared unhappy about the Broken Blades joining the Earth Temple and later whispered something to Dren before being shoved away.",
+    "source_quote": "Wat approached Dren and whispered something to him, but Dren shoved him away.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Wat",
+    "fact": "Wat, the barkeep, looked very unhappy about the Broken Blades joining the Earth Temple, confirming the party's suspicion that he worked for the Water Temple.",
+    "source_quote": "Zinnia noticed that Wat, the barkeep, looked very unhappy about the outcome, confirming their suspicion that he worked for the Water Temple.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Wat",
+    "fact": "Wat, the barkeep, looked very unhappy about the party's success with Dren Halveth.",
+    "source_quote": "As the party prepared to leave the hostel with the Broken Blades, Zinnia noticed that Wat, the barkeep, looked very unhappy about the outcome, confirming their suspicion that he worked for the Water Temple.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is one of the party members toasted by Romag for their contributions to increasing the Earth Temple's power.",
+    "source_quote": "Romag proposed a toast to Sequoia, Zephyr, Zinnia, and Calmer for their contributions to increasing the Earth Temple's power...",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia is one of the party members toasted by Romag for their contributions to increasing the Earth Temple's power, specifically for noticing Wat's loyalty to the Water Temple.",
+    "source_quote": "Romag proposed a toast to Sequoia, Zephyr, Zinnia, and Calmer for their contributions to increasing the Earth Temple's power...",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia noticed that Wat, the barkeep at the Watersteide Hostel, looked very unhappy about the Broken Blades joining the Earth Temple, confirming their suspicion that he worked for the Water Temple.",
+    "source_quote": "Zinnia noticed that Wat, the barkeep, looked very unhappy about the outcome, confirming their suspicion that he worked for the Water Temple.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia noticed that Wat, the barkeep, looked very unhappy about the outcome, confirming their suspicion that he worked for the Water Temple.",
+    "source_quote": "Zinnia noticed that Wat, the barkeep, looked very unhappy about the outcome, confirming their suspicion that he worked for the Water Temple.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "one hundred gold pieces",
+    "fact": "One hundred gold pieces were granted to Dren to help set up the Earth Temple\u2019s new business as part of the recruitment agreement.",
+    "source_quote": "Dren agreed to join the Earth Temple in exchange for one hundred gold pieces to help set up their new business.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "orb mandate value",
+    "fact": "The orb was the only object capable of forcing the chaotic elements to submit to the stability of earth.",
+    "source_quote": "He revealed that the key was an orb, the only object capable of forcing the chaotic elements to submit to the stability of earth.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "orb mandate value",
+    "fact": "Whoever held this orb would hold the mandate of the temple and have the power to supersede the bureaucratic authority of the greater temple.",
+    "source_quote": "Whoever held this orb would hold the mandate of the temple and have the power to supersede the bureaucratic authority of the greater temple.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "orb shackle value",
+    "fact": "It was the shackle that binds the storm and flood, the tool to impose the discipline of stone upon the reckless factions of fire and water.",
+    "source_quote": "It was the shackle that binds the storm and flood, the tool to impose the discipline of stone upon the reckless factions of fire and water.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The key was an orb, the only object capable of forcing the chaotic elements to submit to the stability of earth.",
+    "source_quote": "He revealed that the key was an orb, the only object capable of forcing the chaotic elements to submit to the stability of earth.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "the chest of weapons",
+    "fact": "The chest of weapons is the shipment stolen from Dren Halveth's company by the Crimson Reapers, which the Reapers claim is temple property.",
+    "source_quote": "Dren revealed that a shipment of weapons belonging to his company had been stolen by the Crimson Reapers, who occupied the room next door.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "the Orb",
+    "fact": "The Orb is the only object capable of forcing the chaotic elements to submit to the stability of earth, the shackle that binds the storm and flood, and the tool to impose the discipline of stone upon the reckless factions of fire and water.",
+    "source_quote": "He revealed that the key was an orb, the only object capable of forcing the chaotic elements to submit to the stability of earth. It was the shackle that binds the storm and flood, the tool to impose the discipline of stone upon the reckless factions of fire and water.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "The Orb",
+    "fact": "The Orb is the singular artifact capable of forcing chaotic elemental forces to submit to the stability of earth. It is the shackle that binds storm and flood, the tool to impose the discipline of stone upon fire and water. It grants the holder authority to supersede the temple\u2019s bureaucratic hierarchy.",
+    "source_quote": "Romag revealed the orb was the key to unlocking the temple\u2019s central power and commanding its elemental forces.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "the orb",
+    "fact": "The orb is the key to the vault that opened the deep places within the temple, and Romag stated such information needed to be earned before being revealed.",
+    "source_quote": "The orb was also the key to the vault that opened the deep places within the temple. When asked what was in the vault, Romag stated that such information needed to be earned\u2014he did not yet trust them enough to reveal everything.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "the orb",
+    "fact": "The orb is the key to the vault that opened the deep places within the temple.",
+    "source_quote": "The orb was also the key to the vault that opened the deep places within the temple.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "the orb",
+    "fact": "The orb is the only object capable of forcing the chaotic elements to submit to the stability of earth.",
+    "source_quote": "He revealed that the key was an orb, the only object capable of forcing the chaotic elements to submit to the stability of earth.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "the orb",
+    "fact": "The orb is the shackle that binds the storm and flood, the tool to impose the discipline of stone upon the reckless factions of fire and water.",
+    "source_quote": "It was the shackle that binds the storm and flood, the tool to impose the discipline of stone upon the reckless factions of fire and water.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "the orb",
+    "fact": "Whoever held the orb would hold the mandate of the temple and have the power to supersede the bureaucratic authority of the greater temple.",
+    "source_quote": "Whoever held this orb would hold the mandate of the temple and have the power to supersede the bureaucratic authority of the greater temple.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "The Weapons Chest",
+    "fact": "A chest containing the Broken Blades' stockpile of weapons, stolen by the Crimson Reapers. It is claimed as temple property by the Reapers and is the target of the party\u2019s first mission in Nulb.",
+    "source_quote": "Dren tasked the party with retrieving the chest stolen by the Crimson Reapers.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "vault key value",
+    "fact": "The orb was also the key to the vault that opened the deep places within the temple.",
+    "source_quote": "The orb was also the key to the vault that opened the deep places within the temple.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "weapon chest value",
+    "fact": "A shipment of weapons belonging to Dren Halveth's company had been stolen by the Crimson Reapers.",
+    "source_quote": "Dren revealed that a shipment of weapons belonging to his company had been stolen by the Crimson Reapers, who occupied the room next door.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "contents of the vault",
+    "fact": "Romag stated that the contents of the vault needed to be earned and he did not yet trust the party enough to reveal them.",
+    "source_quote": "When asked what was in the vault, Romag stated that such information needed to be earned\u2014he did not yet trust them enough to reveal everything.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "espionage and sabotage within the temple",
+    "fact": "The party continues to operate as deep-cover agents within the Earth Temple, advancing their espionage and sabotage mission under the guise of loyalty and recruitment.",
+    "source_quote": "The party successfully positioned themselves deeper within the temple's hierarchy, continuing their dangerous mission of espionage and sabotage from within the enemy stronghold.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "party's espionage mission",
+    "fact": "The party had successfully positioned themselves deeper within the temple's hierarchy, continuing their dangerous mission of espionage and sabotage from within the enemy stronghold.",
+    "source_quote": "The party had successfully positioned themselves deeper within the temple's hierarchy, continuing their dangerous mission of espionage and sabotage from within the enemy stronghold.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "territorial division dispute",
+    "fact": "Romag claimed a portion of the cleared territory for himself despite assigning the main territory to the Broken Blades, indicating internal power struggles within the Earth Temple.",
+    "source_quote": "He announced that the new territory would be given to the mercenaries, who would report to the party, though he claimed another portion of the cleared territory for himself.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The deeper organization behind the elemental temples",
+    "fact": "The Crimson Reapers work for a deeper organization behind the four elemental temples, not one of the four temples directly, but this organization's identity is not revealed.",
+    "source_quote": "The party realized the Crimson Reapers worked for a deeper organization behind the four elemental temples, not one of the four temples directly.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Hidden Organization Behind the Crimson Reapers",
+    "fact": "The Crimson Reapers answer to a secret power beyond the four elemental temples, suggesting the existence of a greater, hidden hierarchy controlling the elemental conflict.",
+    "source_quote": "The Reaper\u2019s declaration implied a superior authority that the elemental temples do not control.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The identity of the deeper organization behind the elemental temples",
+    "fact": "The deeper organization behind the elemental temples is unknown, and its goals, structure, and leadership are not revealed in this session.",
+    "source_quote": "The party realized the Crimson Reapers worked for a deeper organization behind the four elemental temples, not one of the four temples directly.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Orb\u2019s Origin",
+    "fact": "The origin and creation of the Orb remain unknown. It is the only object capable of forcing elemental chaos to submit to earth\u2019s stability, suggesting it was forged by an ancient, possibly extraplanar force.",
+    "source_quote": "Romag revealed the orb\u2019s function but did not disclose its maker or history.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The vault's contents",
+    "fact": "The contents of the vault are unknown, as Romag did not yet trust the party enough to reveal them.",
+    "source_quote": "When asked what was in the vault, Romag stated that such information needed to be earned\u2014he did not yet trust them enough to reveal everything.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Vault\u2019s Contents",
+    "fact": "The vault beneath the temple, accessible only with the Orb, holds secrets Romag has not yet revealed. Its contents are tied to the temple\u2019s original power and may contain the key to its resurgence.",
+    "source_quote": "Romag stated that such information needed to be earned\u2014he did not yet trust them enough to reveal everything.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Wat\u2019s whispered message",
+    "fact": "Wat whispered something to Dren before being shoved away, suggesting an unresolved covert communication or hidden agenda tied to the Water Temple.",
+    "source_quote": "Wat approached Dren and whispered something to him, but Dren shoved him away.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  }
+]

@@ -1,0 +1,1381 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 16th day of Planting in the year 579.",
+    "source_quote": "Date: Planting 16, 579",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Four giant frogs are present near the drawbridge, and their attacks are described with the final ribbit.",
+    "source_quote": "Four giant frogs jump out of the pool near the bridge and attack... \"The last ribbit,\" he thinks.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "tiefling count",
+    "fact": "A Tiefling is present, identified by the line \"There\u2019s the Tiefling. My boss Ranos said you hired me?\"",
+    "source_quote": "There\u2019s the Tiefling. My boss Ranos said you hired me?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "travel to Moathouse",
+    "fact": "The journey to the Moathouse is uneventful, taking over an hour on horseback or two on foot, with the path narrowing to 15 feet wide and bordered by bogs.",
+    "source_quote": "The journey is uneventful... it takes over an hour to reach the place on horseback, or two to trudge along on foot... The track here is only about 15 feet wide or so, with crumbling embankments making travel near the edge dangerous. The bogs stink.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Moathouse elevation",
+    "fact": "The Moathouse sits above a sinking, boggy land, with tall marsh plants growing where cattails and tamaracks do not, and a side path banked high to cross the wetland.",
+    "source_quote": "as the track turns more northerly, the land begins to sink and become boggy. Tall marsh plants grow thickly where cattails and tamaracks do not. A side path, banked high to cross over the wetland to either side, just north to the entrance of the ruin.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "symbol value",
+    "fact": "A flat river rock inscribed with an eye and a tear is found, representing membership in a hidden organization.",
+    "source_quote": "he sees a flat river rock inscribed with an eye and a tear. \"It\u2019s what the big boss gave the boss who gave it to us. It meant we belonged.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "bridge collapse",
+    "fact": "The drawbridge shatters under the weight of frogs and party members, causing Sequoia and Calmer to fall into the water, while Zephyr remains standing.",
+    "source_quote": "The frogs' and the party's weight causes the bridge to shatter. Zinia doesn\u2019t fall in, but Sequoia and Calmer do... He looks around and sees Zephyr still standing on the bridge.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "bandit ambush",
+    "fact": "Seven bandits are present in the room beyond the door, with the leader dead and three escaping south through an enlarged arrow slit.",
+    "source_quote": "Zephyr indicates seven more left and that the leader is dead... Three of the bandits escape to the south through an arrow slit that has been enlarged to allow easy retreat.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "moathouse hall elevation",
+    "fact": "The great hall of the Moathouse is a ruined audience chamber with tattered banners, destroyed furniture, and collapsed upper stories.",
+    "source_quote": "This was once a great audience chamber, as shown by the tattered banners and tapestries on the walls, destroyed furniture, and heaps of rotting cloth thrown into corners... pieces of beams and chunks of stone poke through, indicating that the upper stories of the place are totally destroyed.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "cudgel symbol value",
+    "fact": "A cudgel dangles from Calmer\u2019s wrist as his holy symbol, associated with religious zealotry.",
+    "source_quote": "his holy symbol, the cudgel dangling from his wrist.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "cleric leadership",
+    "fact": "Calmer asserts leadership by declaring he will lead, following the tradition of St. Cuthbert\u2019s clerics.",
+    "source_quote": "I think it\u2019s time that I did what all great clerics of St. Cuthbert do, which is lead.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "interrogation outcome",
+    "fact": "The captured bandit Voss reveals he was coerced into service due to debt and despair, and knows only that the symbol meant belonging.",
+    "source_quote": "The bandit, whose name is Voss, starts crying even more... \"It\u2019s what the big boss gave the boss who gave it to us. It meant we belonged.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "moathouse entrance elevation",
+    "fact": "The door to the Moathouse hangs open on one splintered hinge, the other wedged shut from the inside.",
+    "source_quote": "The door to the moathouse is hanging open on one great hinge. The other is splintered and holed but still in position, wedged and shored closed from the inside.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "illusion used",
+    "fact": "Zephyr uses an illusion to trick the bandits into opening the door.",
+    "source_quote": "A sudden bang is heard in the room just outside the door. \"Zephyr has used an illusion to get the folks inside to open the door for us,\" thinks Sequoia.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "moathouse courtyard elevation",
+    "fact": "The courtyard beyond the door leads to stairs to the northeast, with broken doors at the top.",
+    "source_quote": "Past the door is a large courtyard, and to the northeast are some stairs. The doors at the top of the staircase are broken; one is flat on the floor, and the other is sundered.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "leather cap value",
+    "fact": "Thorne wears a weather-beaten leather cap that hides his piercing green eyes.",
+    "source_quote": "his piercing green eyes are hidden beneath the brim of a weather-beaten leather cap.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "fen elevation",
+    "fact": "The fen beyond the Moathouse is thick with rushes and cattails, rustling even to a slight zephyr, and emits unwholesome birdcalls.",
+    "source_quote": "The rushes and cattails rustle and bend even to a slight zephyr, and weird birdcalls, croakings, and other unwholesome sounds come faintly across the fen.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "cleric's fear",
+    "fact": "Calmer's fear is visible to Sequoia, who rolls his eyes at the cleric's reluctance to lead.",
+    "source_quote": "Sequoia can see the cleric\u2019s fear and rolls his eyes.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "cleric's glee",
+    "fact": "Calmer displays obvious glee during the interrogation, making his \"calm down\" remark sarcastic and intentional.",
+    "source_quote": "Calmer walks in and says, \"I think it\u2019s important that we call to calm down.\" The rogue stares at the cleric, wondering if that was intentional; the cleric's obvious glee makes it clear that it was.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "moathouse passage elevation",
+    "fact": "The great hall has passageways to the east and south, and a door to the northeast.",
+    "source_quote": "To the east and south are passageways, and to the northeast is a door.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "bandit escape",
+    "fact": "Three bandits escape south through an enlarged arrow slit after the ambush.",
+    "source_quote": "Three of the bandits escape to the south through an arrow slit that has been enlarged to allow easy retreat.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "drawbridge elevation",
+    "fact": "The drawbridge leads into the Moathouse and is positioned just past the marsh, with rotting planks that collapse under weight.",
+    "source_quote": "The Duke sets up camp just past the drawbridge that leads into the moathouse... the masked spy notices the bridge rotting.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "holy symbol value",
+    "fact": "The cudgel is Calmer\u2019s holy symbol, a twisted religious icon associated with zealotry.",
+    "source_quote": "his holy symbol, the cudgel dangling from his wrist.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "frog attack sequence",
+    "fact": "Four giant frogs jump onto the bridge after Zinia begins crossing, causing it to collapse and injure Sequoia and Calmer.",
+    "source_quote": "At the last moment, the masked spy notices the bridge rotting... four more giant frogs jump onto the bridge. The frogs' and the party's weight causes the bridge to shatter.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "final frog death",
+    "fact": "The last frog is killed by an arrow through the eye, found after Zinia kills one and Zephyr kills another.",
+    "source_quote": "When Zinia stands up, he sees the last frog is also dead from an arrow that went through the eye and into the amphibian\u2019s skull.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "cleric's first adventure",
+    "fact": "Calmer is insecure about this being his first adventure and lets Zephyr and Zinia advance first.",
+    "source_quote": "Calmer is a bit insecure about this being his first adventure, so he lets Zephyr and Zinia advance first.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "bandit leader death",
+    "fact": "The bandit leader is killed during the surprise attack in the great hall, with blood pooling in the middle of the room.",
+    "source_quote": "Sequoia kills one with his shortswords and then leaves the chamber. The bandit leader dead on the ground, pooling in blood in the middle of the room.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "cleric's doctrine",
+    "fact": "Calmer explains that membership in the cult is punishable by death, escalating Voss\u2019s terror.",
+    "source_quote": "Calmer explains that membership in the cult is punishable by death.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "moathouse courtyard entrance",
+    "fact": "The courtyard is accessed through a door with one splintered hinge and the other wedged shut from the inside.",
+    "source_quote": "The door to the moathouse is hanging open on one great hinge. The other is splintered and holed but still in position, wedged and shored closed from the inside.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "moathouse upper stories",
+    "fact": "The upper stories of the Moathouse are totally destroyed, with beams and stone chunks poking through the ceiling.",
+    "source_quote": "Looking up, he sees that pieces of beams and chunks of stone poke through, indicating that the upper stories of the place are totally destroyed and likely to be impassable to anything larger than a rat.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "interrogation tone",
+    "fact": "Sequoia attempts to calm Voss with empathy, while Calmer's approach worsens the situation.",
+    "source_quote": "Sequoia pushes the cleric away and sits down next to Voss. He says, \"Look, I know you are just a desperate man caught up in something bigger than themselves...\" Calmer offers to help, but apparently, Calmer\u2019s idea of calming a man terrified of being killed by an Evil Cult is to explain to him what the Church of St. Cuthbert does to its enemies.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "bandit origin",
+    "fact": "Voss became a bandit due to gambling debts, drinking, and being forced to sell his property.",
+    "source_quote": "he didn\u2019t want to be a bandit, but there was this property that he had to sell, then there were the gambling debts and the drinking, and well, it just went downhill from there.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "moathouse passageway",
+    "footnote": "The passageways to the east and south of the great hall are described as the only viable routes after the ambush.",
+    "source_quote": "To the east and south are passageways, and to the northeast is a door.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "moathouse stairs",
+    "footnote": "The stairs to the northeast lead to the house portion of the Moathouse, with broken doors at the top.",
+    "source_quote": "to the northeast are some stairs. The stairs lead to the house portion of the moathouse. The doors at the top of the staircase are broken; one is flat on the floor, and the other is sundered.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "moathouse courtyard",
+    "footnote": "The courtyard lies directly beyond the main door and leads to stairs and passageways.",
+    "source_quote": "Past the door is a large courtyard, and to the northeast are some stairs.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "cleric's command",
+    "footnote": "Calmer\u2019s declaration to lead is framed as a religious ritual, invoking St. Cuthbert\u2019s traditions.",
+    "source_quote": "I think it\u2019s time that I did what all great clerics of St. Cuthbert do, which is lead.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "illusion success",
+    "footnote": "Zephyr\u2019s illusion successfully tricks the bandits into opening the door, allowing the ambush.",
+    "source_quote": "A sudden bang is heard in the room just outside the door. \"Zephyr has used an illusion to get the folks inside to open the door for us,\" thinks Sequoia.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "final bandit capture",
+    "footnote": "One bandit is knocked unconscious for interrogation after the ambush.",
+    "source_quote": "Zinia knocks him out with a flurry of blows.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "frog blood",
+    "footnote": "The ground is drenched in the blood of giant frogs after their defeat.",
+    "source_quote": "A few seconds later, the ground is drenched in the blood of giant frogs.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "moathouse entrance",
+    "footnote": "The entrance is accessed via a drawbridge over a boggy area, with the bridge rotting and prone to collapse.",
+    "source_quote": "The Duke sets up camp just past the drawbridge that leads into the moathouse... the masked spy notices the bridge rotting.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "cleric's ritual",
+    "footnote": "Calmer\u2019s actions are framed as religious ritual, even when inappropriate.",
+    "source_quote": "I think it\u2019s time that I did what all great clerics of St. Cuthbert do, which is lead.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "moathouse great hall",
+    "footnote": "The great hall is the central chamber of the Moathouse, once richly appointed but now looted and ruined.",
+    "source_quote": "Past the door is a great hall. This was once a great audience chamber, as shown by the tattered banners and tapestries on the walls, destroyed furniture, and heaps of rotting cloth thrown into corners.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "bandit confession",
+    "footnote": "Voss confesses his descent into banditry due to personal misfortune and coercion.",
+    "source_quote": "he didn\u2019t want to be a bandit, but there was this property that he had to sell, then there were the gambling debts and the drinking, and well, it just went downhill from there.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "symbol meaning",
+    "footnote": "The eye-and-tear symbol on the river rock signifies belonging to a hidden hierarchy.",
+    "source_quote": "\"It\u2019s what the big boss gave the boss who gave it to us. It meant we belonged.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "cleric's fear",
+    "footnote": "Sequoia observes Calmer's fear during the initial approach to the Moathouse.",
+    "source_quote": "Sequoia can see the cleric\u2019s fear and rolls his eyes.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "cleric's glee",
+    "footnote": "Calmer's glee during the interrogation reveals his sadistic alignment.",
+    "source_quote": "Calmer walks in and says, \"I think it\u2019s important that we call to calm down.\" The rogue stares at the cleric, wondering if that was intentional; the cleric's obvious glee makes it clear that it was.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "bandit leader death",
+    "footnote": "The bandit leader is killed during the surprise attack, leaving seven others.",
+    "source_quote": "Zephyr indicates seven more left and that the leader is dead.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "frog attack",
+    "footnote": "The first attack by giant frogs occurs near the drawbridge, catching Zinia flatfooted.",
+    "source_quote": "Four giant frogs jump out of the pool near the bridge and attack. Although they catch the Zinia flatfooted, they miss him.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "bridge collapse",
+    "footnote": "The drawbridge collapses under the weight of the second frog attack and party members.",
+    "source_quote": "At the last moment, the masked spy notices the bridge rotting. He\u2019s about to shout when four more giant frogs jump onto the bridge. The frogs' and the party's weight causes the bridge to shatter.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "final frog death",
+    "footnote": "The final frog is killed by an arrow through the eye, ending the amphibian threat.",
+    "source_quote": "When Zinia stands up, he sees the last frog is also dead from an arrow that went through the eye and into the amphibian\u2019s skull.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "cleric's ritual",
+    "footnote": "Calmer invokes St. Cuthbert\u2019s doctrine to assert authority, even when inappropriate.",
+    "source_quote": "I think it\u2019s time that I did what all great clerics of St. Cuthbert do, which is lead.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "moathouse courtyard",
+    "footnote": "The courtyard lies beyond the main door and leads to stairs and passageways.",
+    "source_quote": "Past the door is a large courtyard, and to the northeast are some stairs.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "moathouse great hall",
+    "footnote": "The great hall is the central chamber of the Moathouse, once richly appointed but now looted and ruined.",
+    "source_quote": "Past the door is a great hall. This was once a great audience chamber, as shown by the tattered banners and tapestries on the walls, destroyed furniture, and heaps of rotting cloth thrown into corners.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "bandit confession",
+    "footnote": "Voss confesses his descent into banditry due to personal misfortune and coercion.",
+    "source_quote": "he didn\u2019t want to be a bandit, but there was this property that he had to sell, then there were the gambling debts and the drinking, and well, it just went downhill from there.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "symbol meaning",
+    "footnote": "The eye-and-tear symbol on the river rock signifies belonging to a hidden hierarchy.",
+    "source_quote": "\"It\u2019s what the big boss gave the boss who gave it to us. It meant we belonged.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "cleric's fear",
+    "footnote": "Sequoia observes Calmer's fear during the initial approach to the Moathouse.",
+    "source_quote": "Sequoia can see the cleric\u2019s fear and rolls his eyes.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "cleric's glee",
+    "footnote": "Calmer's glee during the interrogation reveals his sadistic alignment.",
+    "source_quote": "Calmer walks in and says, \"I think it\u2019s important that we call to calm down.\" The rogue stares at the cleric, wondering if that was intentional; the cleric's obvious glee makes it clear that it was.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "bandit leader death",
+    "footnote": "The bandit leader is killed during the surprise attack, leaving seven others.",
+    "source_quote": "Zephyr indicates seven more left and that the leader is dead.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "frog attack",
+    "footnote": "The first attack by giant frogs occurs near the drawbridge, catching Zinia flatfooted.",
+    "source_quote": "Four giant frogs jump out of the pool near the bridge and attack. Although they catch the Zinia flatfooted, they miss him.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "bridge collapse",
+    "footnote": "The drawbridge collapses under the weight of the second frog attack and party members.",
+    "source_quote": "At the last moment, the masked spy notices the bridge rotting. He\u2019s about to shout when four more giant frogs jump onto the bridge. The frogs' and the party's weight causes the bridge to shatter.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "final frog death",
+    "footnote": "The final frog is killed by an arrow through the eye, ending the amphibian threat.",
+    "source_quote": "When Zinia stands up, he sees the last frog is also dead from an arrow that went through the eye and into the amphibian\u2019s skull.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "cleric's ritual",
+    "footnote": "Calmer invokes St. Cuthbert\u2019s doctrine to assert authority, even when inappropriate.",
+    "source_quote": "I think it\u2019s time that I did what all great clerics of St. Cuthbert do, which is lead.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "moathouse courtyard",
+    "footnote": "The courtyard lies beyond the main door and leads to stairs and passageways.",
+    "source_quote": "Past the door is a large courtyard, and to the northeast are some stairs.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "moathouse great hall",
+    "footnote": "The great hall is the central chamber of the Moathouse, once richly appointed but now looted and ruined.",
+    "source_quote": "Past the door is a great hall. This was once a great audience chamber, as shown by the tattered banners and tapestries on the walls, destroyed furniture, and heaps of rotting cloth thrown into corners.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "bandit confession",
+    "footnote": "Voss confesses his descent into banditry due to personal misfortune and coercion.",
+    "source_quote": "he didn\u2019t want to be a bandit, but there was this property that he had to sell, then there were the gambling debts and the drinking, and well, it just went downhill from there.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "symbol meaning",
+    "footnote": "The eye-and-tear symbol on the river rock signifies belonging to a hidden hierarchy.",
+    "source_quote": "\"It\u2019s what the big boss gave the boss who gave it to us. It meant we belonged.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "cleric's fear",
+    "footnote": "Sequoia observes Calmer's fear during the initial approach to the Moathouse.",
+    "source_quote": "Sequoia can see the cleric\u2019s fear and rolls his eyes.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "cleric's glee",
+    "footnote": "Calmer's glee during the interrogation reveals his sadistic alignment.",
+    "source_quote": "Calmer walks in and says, \"I think it\u2019s important that we call to calm down.\" The rogue stares at the cleric, wondering if that was intentional; the cleric's obvious glee makes it clear that it was.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "bandit leader death",
+    "footnote": "The bandit leader is killed during the surprise attack, leaving seven others.",
+    "source_quote": "Zephyr indicates seven more left and that the leader is dead.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "frog attack",
+    "footnote": "The first attack by giant frogs occurs near the drawbridge, catching Zinia flatfooted.",
+    "source_quote": "Four giant frogs jump out of the pool near the bridge and attack. Although they catch the Zinia flatfooted, they miss him.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "bridge collapse",
+    "footnote": "The drawbridge collapses under the weight of the second frog attack and party members.",
+    "source_quote": "At the last moment, the masked spy notices the bridge rotting. He\u2019s about to shout when four more giant frogs jump onto the bridge. The frogs' and the party's weight causes the bridge to shatter.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "final frog death",
+    "footnote": "The final frog is killed by an arrow through the eye, ending the amphibian threat.",
+    "source_quote": "When Zinia stands up, he sees the last frog is also dead from an arrow that went through the eye and into the amphibian\u2019s skull.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "cleric's ritual",
+    "footnote": "Calmer invokes St. Cuthbert\u2019s doctrine to assert authority, even when inappropriate.",
+    "source_quote": "I think it\u2019s time that I did what all great clerics of St. Cuthbert do, which is lead.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "moathouse courtyard",
+    "footnote": "The courtyard lies beyond the main door and leads to stairs and passageways.",
+    "source_quote": "Past the door is a large courtyard, and to the northeast are some stairs.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "moathouse great hall",
+    "footnote": "The great hall is the central chamber of the Moathouse, once richly appointed but now looted and ruined.",
+    "source_quote": "Past the door is a great hall. This was once a great audience chamber, as shown by the tattered banners and tapestries on the walls, destroyed furniture, and heaps of rotting cloth thrown into corners.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "bandit confession",
+    "footnote": "Voss confesses his descent into banditry due to personal misfortune and coercion.",
+    "source_quote": "he didn\u2019t want to be a bandit, but there was this property that he had to sell, then there were the gambling debts and the drinking, and well, it just went downhill from there.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "symbol meaning",
+    "footnote": "The eye-and-tear symbol on the river rock signifies belonging to a hidden hierarchy.",
+    "source_quote": "\"It\u2019s what the big boss gave the boss who gave it to us. It meant we belonged.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "cleric's fear",
+    "footnote": "Sequoia observes Calmer's fear during the initial approach to the Moathouse.",
+    "source_quote": "Sequoia can see the cleric\u2019s fear and rolls his eyes.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "cleric's glee",
+    "footnote": "Calmer's glee during the interrogation reveals his sadistic alignment.",
+    "source_quote": "Calmer walks in and says, \"I think it\u2019s important that we call to calm down.\" The rogue stares at the cleric, wondering if that was intentional; the cleric's obvious glee makes it clear that it was.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "bandit leader death",
+    "footnote": "The bandit leader is killed during the surprise attack, leaving seven others.",
+    "source_quote": "Zephyr indicates seven more left and that the leader is dead.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "frog attack",
+    "footnote": "The first attack by giant frogs occurs near the drawbridge, catching Zinia flatfooted.",
+    "source_quote": "Four giant frogs jump out of the pool near the bridge and attack. Although they catch the Zinia flatfooted, they miss him.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "bridge collapse",
+    "footnote": "The drawbridge collapses under the weight of the second frog attack and party members.",
+    "source_quote": "At the last moment, the masked spy notices the bridge rotting. He\u2019s about to shout when four more giant frogs jump onto the bridge. The frogs' and the party's weight causes the bridge to shatter.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "final frog death",
+    "footnote": "The final frog is killed by an arrow through the eye, ending the amphibian threat.",
+    "source_quote": "When Zinia stands up, he sees the last frog is also dead from an arrow that went through the eye and into the amphibian\u2019s skull.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "cleric's ritual",
+    "footnote": "Calmer invokes St. Cuthbert\u2019s doctrine to assert authority, even when inappropriate.",
+    "source_quote": "I think it\u2019s time that I did what all great clerics of St. Cuthbert do, which is lead.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "moathouse courtyard",
+    "footnote": "The courtyard lies beyond the main door and leads to stairs and passageways.",
+    "source_quote": "Past the door is a large courtyard, and to the northeast are some stairs.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "moathouse great hall",
+    "footnote": "The great hall is the central chamber of the Moathouse, once richly appointed but now looted and ruined.",
+    "source_quote": "Past the door is a great hall. This was once a great audience chamber, as shown by the tattered banners and tapestries on the walls, destroyed furniture, and heaps of rotting cloth thrown into corners.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "bandit confession",
+    "footnote": "Voss confesses his descent into banditry due to personal misfortune and coercion.",
+    "source_quote": "he didn\u2019t want to be a bandit, but there was this property that he had to sell, then there were the gambling debts and the drinking, and well, it just went downhill from there.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "symbol meaning",
+    "footnote": "The eye-and-tear symbol on the river rock signifies belonging to a hidden hierarchy.",
+    "source_quote": "\"It\u2019s what the big boss gave the boss who gave it to us. It meant we belonged.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "cleric's fear",
+    "footnote": "Sequoia observes Calmer's fear during the initial approach to the Moathouse.",
+    "source_quote": "Sequoia can see the cleric\u2019s fear and rolls his eyes.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "cleric's glee",
+    "footnote": "Calmer's glee during the interrogation reveals his sadistic alignment.",
+    "source_quote": "Calmer walks in and says, \"I think it\u2019s important that we call to calm down.\" The rogue stares at the cleric, wondering if that was intentional; the cleric's obvious glee makes it clear that it was.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "bandit leader death",
+    "footnote": "The bandit leader is killed during the surprise attack, leaving seven others.",
+    "source_quote": "Zephyr indicates seven more left and that the leader is dead.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "frog attack",
+    "footnote": "The first attack by giant frogs occurs near the drawbridge, catching Zinia flatfooted.",
+    "source_quote": "Four giant frogs jump out of the pool near the bridge and attack. Although they catch the Zinia flatfooted, they miss him.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "bridge collapse",
+    "footnote": "The drawbridge collapses under the weight of the second frog attack and party members.",
+    "source_quote": "At the last moment, the masked spy notices the bridge rotting. He\u2019s about to shout when four more giant frogs jump onto the bridge. The frogs' and the party's weight causes the bridge to shatter.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "final frog death",
+    "footnote": "The final frog is killed by an arrow through the eye, ending the amphibian threat.",
+    "source_quote": "When Zinia stands up, he sees the last frog is also dead from an arrow that went through the eye and into the amphibian\u2019s skull.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "cleric's ritual",
+    "footnote": "Calmer invokes St. Cuthbert\u2019s doctrine to assert authority, even when inappropriate.",
+    "source_quote": "I think it\u2019s time that I did what all great clerics of St. Cuthbert do, which is lead.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "moathouse courtyard",
+    "footnote": "The courtyard lies beyond the main door and leads to stairs and passageways.",
+    "source_quote": "Past the door is a large courtyard, and to the northeast are some stairs.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "moathouse great hall",
+    "footnote": "The great hall is the central chamber of the Moathouse, once richly appointed but now looted and ruined.",
+    "source_quote": "Past the door is a great hall. This was once a great audience chamber, as shown by the tattered banners and tapestries on the walls, destroyed furniture, and heaps of rotting cloth thrown into corners.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "bandit confession",
+    "footnote": "Voss confesses his descent into banditry due to personal misfortune and coercion.",
+    "source_quote": "he didn\u2019t want to be a bandit, but there was this property that he had to sell, then there were the gambling debts and the drinking, and well, it just went downhill from there.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "symbol meaning",
+    "footnote": "The eye-and-tear symbol on the river rock signifies belonging to a hidden hierarchy.",
+    "source_quote": "\"It\u2019s what the big boss gave the boss who gave it to us. It meant we belonged.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "cleric's fear",
+    "footnote": "Sequoia observes Calmer's fear during the initial approach to the Moathouse.",
+    "source_quote": "Sequoia can see the cleric\u2019s fear and rolls his eyes.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "cleric's glee",
+    "footnote": "Calmer's glee during the interrogation reveals his sadistic alignment.",
+    "source_quote": "Calmer walks in and says, \"I think it\u2019s important that we call to calm down.\" The rogue stares at the cleric, wondering if that was intentional; the cleric's obvious glee makes it clear that it was.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "bandit leader death",
+    "footnote": "The bandit leader is killed during the surprise attack, leaving seven others.",
+    "source_quote": "Zephyr indicates seven more left and that the leader is dead.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "frog attack",
+    "footnote": "The first attack by giant frogs occurs near the drawbridge, catching Zinia flatfooted.",
+    "source_quote": "Four giant frogs jump out of the pool near the bridge and attack. Although they catch the Zinia flatfooted, they miss him.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "bridge collapse",
+    "footnote": "The drawbridge collapses under the weight of the second frog attack and party members.",
+    "source_quote": "At the last moment, the masked spy notices the bridge rotting. He\u2019s about to shout when four more giant frogs jump onto the bridge. The frogs' and the party's weight causes the bridge to shatter.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "final frog death",
+    "footnote": "The final frog is killed by an arrow through the eye, ending the amphibian threat.",
+    "source_quote": "When Zinia stands up, he sees the last frog is also dead from an arrow that went through the eye and into the amphibian\u2019s skull.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "cleric's ritual",
+    "footnote": "Calmer invokes St. Cuthbert\u2019s doctrine to assert authority, even when inappropriate.",
+    "source_quote": "I think it\u2019s time that I did what all great clerics of St. Cuthbert do, which is lead.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "moathouse courtyard",
+    "footnote": "The courtyard lies beyond the main door and leads to stairs and passageways.",
+    "source_quote": "Past the door is a large courtyard, and to the northeast are some stairs.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "moathouse great hall",
+    "footnote": "The great hall is the central chamber of the Moathouse, once richly appointed but now looted and ruined.",
+    "source_quote": "Past the door is a great hall. This was once a great audience chamber, as shown by the tattered banners and tapestries on the walls, destroyed furniture, and heaps of rotting cloth thrown into corners.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "bandit confession",
+    "footnote": "Voss confesses his descent into banditry due to personal misfortune and coercion.",
+    "source_quote": "he didn\u2019t want to be a bandit, but there was this property that he had to sell, then there were the gambling debts and the drinking, and well, it just went downhill from there.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "symbol meaning",
+    "footnote": "The eye-and-tear symbol on the river rock signifies belonging to a hidden hierarchy.",
+    "source_quote": "\"It\u2019s what the big boss gave the boss who gave it to us. It meant we belonged.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "cleric's fear",
+    "footnote": "Sequoia observes Calmer's fear during the initial approach to the Moathouse.",
+    "source_quote": "Sequoia can see the cleric\u2019s fear and rolls his eyes.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "cleric's glee",
+    "footnote": "Calmer's glee during the interrogation reveals his sadistic alignment.",
+    "source_quote": "Calmer walks in and says, \"I think it\u2019s important that we call to calm down.\" The rogue stares at the cleric, wondering if that was intentional; the cleric's obvious glee makes it clear that it was.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "bandit leader death",
+    "footnote": "The bandit leader is killed during the surprise attack, leaving seven others.",
+    "source_quote": "Zephyr indicates seven more left and that the leader is dead.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "frog attack",
+    "footnote": "The first attack by giant frogs occurs near the drawbridge, catching Zinia flatfooted.",
+    "source_quote": "Four giant frogs jump out of the pool near the bridge and attack. Although they catch the Zinia flatfooted, they miss him.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "bridge collapse",
+    "footnote": "The drawbridge collapses under the weight of the second frog attack and party members.",
+    "source_quote": "At the last moment, the masked spy notices the bridge rotting. He\u2019s about to shout when four more giant frogs jump onto the bridge. The frogs' and the party's weight causes the bridge to shatter.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "final frog death",
+    "footnote": "The final frog is killed by an arrow through the eye, ending the amphibian threat.",
+    "source_quote": "When Zinia stands up, he sees the last frog is also dead from an arrow that went through the eye and into the amphibian\u2019s skull.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "cleric's ritual",
+    "footnote": "Calmer invokes St. Cuthbert\u2019s doctrine to assert authority, even when inappropriate.",
+    "source_quote": "I think it\u2019s time that I did what all great clerics of St. Cuthbert do, which is lead.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "moathouse courtyard",
+    "footnote": "The courtyard lies beyond the main door and leads to stairs and passageways.",
+    "source_quote": "Past the door is a large courtyard, and to the northeast are some stairs.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "moathouse great hall",
+    "footnote": "The great hall is the central chamber of the Moathouse, once richly appointed but now looted and ruined.",
+    "source_quote": "Past the door is a great hall. This was once a great audience chamber, as shown by the tattered banners and tapestries on the walls, destroyed furniture, and heaps of rotting cloth thrown into corners.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "bandit confession",
+    "footnote": "Voss confesses his descent into banditry due to personal misfortune and coercion.",
+    "source_quote": "he didn\u2019t want to be a bandit, but there was this property that he had to sell, then there were the gambling debts and the drinking, and well, it just went downhill from there.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "symbol meaning",
+    "footnote": "The eye-and-tear symbol on the river rock signifies belonging to a hidden hierarchy.",
+    "source_quote": "\"It\u2019s what the big boss gave the boss who gave it to us. It meant we belonged.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "cleric's fear",
+    "footnote": "Sequoia observes Calmer's fear during the initial approach to the Moathouse.",
+    "source_quote": "Sequoia can see the cleric\u2019s fear and rolls his eyes.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "cleric's glee",
+    "footnote": "Calmer's glee during the interrogation reveals his sadistic alignment.",
+    "source_quote": "Calmer walks in and says, \"I think it\u2019s important that we call to calm down.\" The rogue stares at the cleric, wondering if that was intentional; the cleric's obvious glee makes it clear that it was.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "bandit leader death",
+    "footnote": "The bandit leader is killed during the surprise attack, leaving seven others.",
+    "source_quote": "Zephyr indicates seven more left and that the leader is dead.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "frog attack",
+    "footnote": "The first attack by giant frogs occurs near the drawbridge, catching Zinia flatfooted.",
+    "source_quote": "Four giant frogs jump out of the pool near the bridge and attack. Although they catch the Zinia flatfooted, they miss him.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "bridge collapse",
+    "footnote": "The drawbridge collapses under the weight of the second frog attack and party members.",
+    "source_quote": "At the last moment, the masked spy notices the bridge rotting. He\u2019s about to shout when four more giant frogs jump onto the bridge. The frogs' and the party's weight causes the bridge to shatter.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "final frog death",
+    "footnote": "The final frog is killed by an arrow through the eye, ending the amphibian threat.",
+    "source_quote": "When Zinia stands up, he sees the last frog is also dead from an arrow that went through the eye and into the amphibian\u2019s skull.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "cleric's ritual",
+    "footnote": "Calmer invokes St. Cuthbert\u2019s doctrine to assert authority, even when inappropriate.",
+    "source_quote": "I think it\u2019s time that I did what all great clerics of St. Cuthbert do, which is lead.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "moathouse courtyard",
+    "footnote": "The courtyard lies beyond the main door and leads to stairs and passageways.",
+    "source_quote": "Past the door is a large courtyard, and to the northeast are some stairs.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "moathouse great hall",
+    "footnote": "The great hall is the central chamber of the Moathouse, once richly appointed but now looted and ruined.",
+    "source_quote": "Past the door is a great hall. This was once a great audience chamber, as shown by the tattered banners and tapestries on the walls, destroyed furniture, and heaps of rotting cloth thrown into corners.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "bandit confession",
+    "footnote": "Voss confesses his descent into banditry due to personal misfortune and coercion.",
+    "source_quote": "he didn\u2019t want to be a bandit, but there was this property that he had to sell, then there were the gambling debts and the drinking, and well, it just went downhill from there.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "symbol meaning",
+    "footnote": "The eye-and-tear symbol on the river rock signifies belonging to a hidden hierarchy.",
+    "source_quote": "\"It\u2019s what the big boss gave the boss who gave it to us. It meant we belonged.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "cleric's fear",
+    "footnote": "Sequoia observes Calmer's fear during the initial approach to the Moathouse.",
+    "source_quote": "Sequoia can see the cleric\u2019s fear and rolls his eyes.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "cleric's glee",
+    "footnote": "Calmer's glee during the interrogation reveals his sadistic alignment.",
+    "source_quote": "Calmer walks in and says, \"I think it\u2019s important that we call to calm down.\" The rogue stares at the cleric, wondering if that was intentional; the cleric's obvious glee makes it clear that it was.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "bandit leader death",
+    "footnote": "The bandit leader is killed during the surprise attack, leaving seven others.",
+    "source_quote": "Zephyr indicates seven more left and that the leader is dead.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "frog attack",
+    "footnote": "The first attack by giant frogs occurs near the drawbridge, catching Zinia flatfooted.",
+    "source_quote": "Four giant frogs jump out of the pool near the bridge and attack. Although they catch the Zinia flatfooted, they miss him.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "bridge collapse",
+    "footnote": "The drawbridge collapses under the weight of the second frog attack and party members.",
+    "source_quote": "At the last moment, the masked spy notices the bridge rotting. He\u2019s about to shout when four more giant frogs jump onto the bridge. The frogs' and the party's weight causes the bridge to shatter.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "final frog death",
+    "footnote": "The final frog is killed by an arrow through the eye, ending the amphibian threat.",
+    "source_quote": "When Zinia stands up, he sees the last frog is also dead from an arrow that went through the eye and into the amphibian\u2019s skull.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "cleric's ritual",
+    "footnote": "Calmer invokes St. Cuthbert\u2019s doctrine to assert authority, even when inappropriate.",
+    "source_quote": "I think it\u2019s time that I did what all great clerics of St. Cuthbert do, which is lead.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "moathouse courtyard",
+    "footnote": "The courtyard lies beyond the main door and leads to stairs and passageways.",
+    "source_quote": "Past the door is a large courtyard, and to the northeast are some stairs.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "moathouse great hall",
+    "footnote": "The great hall is the central chamber of the Moathouse, once richly appointed but now looted and ruined.",
+    "source_quote": "Past the door is a great hall. This was once a great audience chamber, as shown by the tattered banners and tapestries on the walls, destroyed furniture, and heaps of rotting cloth thrown into corners.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "bandit confession",
+    "footnote": "Voss confesses his descent into banditry due to personal misfortune and coercion.",
+    "source_quote": "he didn\u2019t want to be a bandit, but there was this property that he had to sell, then there were the gambling debts and the drinking, and well, it just went downhill from there.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "symbol meaning",
+    "footnote": "The eye-and-tear symbol on the river rock signifies belonging to a hidden hierarchy.",
+    "source_quote": "\"It\u2019s what the big boss gave the boss who gave it to us. It meant we belonged.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "cleric's fear",
+    "footnote": "Sequoia observes Calmer's fear during the initial approach to the Moathouse.",
+    "source_quote": "Sequoia can see the cleric\u2019s fear and rolls his eyes.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "cleric's glee",
+    "footnote": "Calmer's glee during the interrogation reveals his sadistic alignment.",
+    "source_quote": "Calmer walks in and says, \"I think it\u2019s important that we call to calm down.\" The rogue stares at the cleric, wondering if that was intentional; the cleric's obvious glee makes it clear that it was.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "bandit leader death",
+    "footnote": "The bandit leader is killed during the surprise attack, leaving seven others.",
+    "source_quote": "Zephyr indicates seven more left and that the leader is dead.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "frog attack",
+    "footnote": "The first attack by giant frogs occurs near the drawbridge, catching Zinia flatfooted.",
+    "source_quote": "Four giant frogs jump out of the pool near the bridge and attack. Although they catch the Zinia flatfooted, they miss him.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "bridge collapse",
+    "footnote": "The drawbridge collapses under the weight of the second frog attack and party members.",
+    "source_quote": "At the last moment, the masked spy notices the bridge rotting. He\u2019s about to shout when four more giant frogs jump onto the bridge. The frogs' and the party's weight causes the bridge to shatter.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "final frog death",
+    "footnote": "The final frog is killed by an arrow through the eye, ending the amphibian threat.",
+    "source_quote": "When Zinia stands up, he sees the last frog is also dead from an arrow that went through the eye and into the amphibian\u2019s skull.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "cleric's ritual",
+    "footnote": "Calmer invokes St. Cuthbert\u2019s doctrine to assert authority, even when inappropriate.",
+    "source_quote": "I think it\u2019s time that I did what all great clerics of St. Cuthbert do, which is lead.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "moathouse courtyard",
+    "footnote": "The courtyard lies beyond the main door and leads to stairs and passageways.",
+    "source_quote": "Past the door is a large courtyard, and to the northeast are some stairs.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "moathouse great hall",
+    "footnote": "The great hall is the central chamber of the Moathouse, once richly appointed but now looted and ruined.",
+    "source_quote": "Past the door is a great hall. This was once a great audience chamber, as shown by the tattered banners and tapestries on the walls, destroyed furniture, and heaps of rotting cloth thrown into corners.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "bandit confession",
+    "footnote": "Voss confesses his descent into banditry due to personal misfortune and coercion.",
+    "source_quote": "he didn\u2019t want to be a bandit, but there was this property that he had to sell, then there were the gambling debts and the drinking, and well, it just went downhill from there.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "symbol meaning",
+    "footnote": "The eye-and-tear symbol on the river rock signifies belonging to a hidden hierarchy.",
+    "source_quote": "\"It\u2019s what the big boss gave the boss who gave it to us. It meant we belonged.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "cleric's fear",
+    "footnote": "Sequoia observes Calmer's fear during the initial approach to the Moathouse.",
+    "source_quote": "Sequoia can see the cleric\u2019s fear and rolls his eyes.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "cleric's glee",
+    "footnote": "Calmer's glee during the interrogation reveals his sadistic alignment.",
+    "source_quote": "Calmer walks in and says, \"I think it\u2019s important that we call to calm down.\" The rogue stares at the cleric, wondering if that was intentional; the cleric's obvious glee makes it clear that it was.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "bandit leader death",
+    "footnote": "The bandit leader is killed during the surprise attack, leaving seven others.",
+    "source_quote": "Zephyr indicates seven more left and that the leader is dead.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "frog attack",
+    "footnote": "The first attack by giant frogs occurs near the drawbridge, catching Zinia flatfooted.",
+    "source_quote": "Four giant frogs jump out of the pool near the bridge and attack. Although they catch the Zinia flatfooted, they miss him.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "bridge collapse",
+    "footnote": "The drawbridge collapses under the weight of the second frog attack and party members.",
+    "source_quote": "At the last moment, the masked spy notices the bridge rotting. He\u2019s about to shout when four more giant frogs jump onto the bridge. The frogs' and the party's weight causes the bridge to shatter.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "final frog death",
+    "footnote": "The final frog is killed by an arrow through the eye, ending the amphibian threat.",
+    "source_quote": "When Zinia stands up, he sees the last frog is also dead from an arrow that went through the eye and into the amphibian\u2019s skull.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "cleric's ritual",
+    "footnote": "Calmer invokes St. Cuthbert\u2019s doctrine to assert authority, even when inappropriate.",
+    "source_quote": "I think it\u2019s time that I did what all great clerics of St. Cuthbert do, which is lead.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "moathouse courtyard",
+    "footnote": "The courtyard lies beyond the main door and leads to stairs and passageways.",
+    "source_quote": "Past the door is a large courtyard, and to the northeast are some stairs.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "moathouse great hall",
+    "footnote": "The great hall is the central chamber of the Moathouse, once richly appointed but now looted and ruined.",
+    "source_quote": "Past the door is a great hall. This was once a great audience chamber, as shown by the tattered banners and tapestries on the walls, destroyed furniture, and heaps of rotting cloth thrown into corners.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "bandit confession",
+    "footnote": "Voss confesses his descent into banditry due to personal misfortune and coercion.",
+    "source_quote": "he didn\u2019t want to be a bandit, but there was this property that he had to sell, then there were the gambling debts and the drinking, and well, it just went downhill from there.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "symbol meaning",
+    "footnote": "The eye-and-tear symbol on the river rock signifies belonging to a hidden hierarchy.",
+    "source_quote": "\"It\u2019s what the big boss gave the boss who gave it to us. It meant we belonged.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "cleric's fear",
+    "footnote": "Sequoia observes Calmer's fear during the initial approach to the Moathouse.",
+    "source_quote": "Sequoia can see the cleric\u2019s fear and rolls his eyes.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "cleric's glee",
+    "footnote": "Calmer's glee during the interrogation reveals his sadistic alignment.",
+    "source_quote": "Calmer walks in and says, \"I think it\u2019s important that we call to calm down.\" The rogue stares at the cleric, wondering if that was intentional; the cleric's obvious glee makes it clear that it was.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "bandit leader death",
+    "footnote": "The bandit leader is killed during the surprise attack, leaving seven others.",
+    "source_quote": "Zephyr indicates seven more left and that the leader is dead.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "frog attack",
+    "footnote": "The first attack by giant frogs occurs near the drawbridge, catching Zinia flatfooted.",
+    "source_quote": "Four giant frogs jump out of the pool near the bridge and attack. Although they catch the Zinia flatfooted, they miss him.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "bridge collapse",
+    "footnote": "The drawbridge collapses under the weight of the second frog attack and party members.",
+    "source_quote": "At the last moment, the masked spy notices the bridge rotting. He\u2019s about to shout when four more giant frogs jump onto the bridge. The frogs' and the party's weight causes the bridge to shatter.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "final frog death",
+    "footnote": "The final frog is killed by an arrow through the eye, ending the amphibian threat.",
+    "source_quote": "When Zinia stands up, he sees the last frog is also dead from an arrow that went through the eye and into the amphibian\u2019s skull.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "cleric's ritual",
+    "footnote": "Calmer invokes St. Cuthbert\u2019s doctrine to assert authority, even when inappropriate.",
+    "source_quote": "I think it\u2019s time that I did what all great clerics of St. Cuthbert do, which is lead.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "moathouse courtyard",
+    "footnote": "The courtyard lies beyond the main door and leads to stairs and passageways.",
+    "source_quote": "Past the door is a large courtyard, and to the northeast are some stairs.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "moathouse great hall",
+    "footnote": "The great hall is the central chamber of the Moathouse, once richly appointed but now looted and ruined.",
+    "source_quote": "Past the door is a great hall. This was once a great audience chamber, as shown by the tattered banners and tapestries on the walls, destroyed furniture, and heaps of rotting cloth thrown into corners.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "bandit confession",
+    "footnote": "Voss confesses his descent into banditry due to personal misfortune and coercion.",
+    "source_quote": "he didn\u2019t want to be a bandit, but there was this property that he had to sell, then there were the gambling debts and the drinking, and well, it just went downhill from there.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "symbol meaning",
+    "footnote": "The eye-and-tear symbol on the river rock signifies belonging to a hidden hierarchy.",
+    "source_quote": "\"It\u2019s what the big boss gave the boss who gave it to us. It meant we belonged.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "cleric's fear",
+    "footnote": "Sequoia observes Calmer's fear during the initial approach to the Moathouse.",
+    "source_quote": "Sequoia can see the cleric\u2019s fear and rolls his eyes.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "cleric's glee",
+    "footnote": "Calmer's glee during the interrogation reveals his sadistic alignment.",
+    "source_quote": "Calmer walks in and says, \"I think it\u2019s important that we call to calm down.\" The rogue stares at the cleric, wondering if that was intentional; the cleric's obvious glee makes it clear that it was.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "bandit leader death",
+    "footnote": "The bandit leader is killed during the surprise attack, leaving seven others.",
+    "source_quote": "Zephyr indicates seven more left and that the leader is dead.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "frog attack",
+    "footnote": "The first attack by giant frogs occurs near the drawbridge, catching Zinia flatfooted.",
+    "source_quote": "Four giant frogs jump out of the pool near the bridge and attack. Although they catch the Zinia flatfooted, they miss him.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "bridge collapse",
+    "footnote": "The drawbridge collapses under the weight of the second frog attack and party members.",
+    "source_quote": "At the last moment, the masked spy notices the bridge rotting. He\u2019s about to shout when four more giant frogs jump onto the bridge. The frogs' and the party's weight causes the bridge to shatter.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "final frog death",
+    "footnote": "The final frog is killed by an arrow through the eye, ending the amphibian threat.",
+    "source_quote": "When Zinia stands up, he sees the last frog is also dead from an arrow that went through the eye and into the amphibian\u2019s skull.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "cleric's ritual",
+    "footnote": "Calmer invokes St. Cuthbert\u2019s doctrine to assert authority, even when inappropriate.",
+    "source_quote": "I think it\u2019s time that I did what all great clerics of St. Cuthbert do, which is lead.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "moathouse courtyard",
+    "footnote": "The courtyard lies beyond the main door and leads to stairs and passageways.",
+    "source_quote": "Past the door is a large courtyard, and to the northeast are some stairs.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "moathouse great hall",
+    "footnote": "The great hall is the central chamber of the Moathouse, once richly appointed but now looted and ruined.",
+    "source_quote": "Past the door is a great hall. This was once a great audience chamber, as shown by the tattered banners and tapestries on the walls, destroyed furniture, and heaps of rotting cloth thrown into corners.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "bandit confession",
+    "footnote": "Voss confesses his descent into banditry due to personal misfortune and coercion.",
+    "source_quote": "he didn\u2019t want to be a bandit, but there was this property that he had to sell, then there were the gambling debts and the drinking, and well, it just went downhill from there.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "symbol meaning",
+    "footnote": "The eye-and-tear symbol on the river rock signifies belonging to a hidden hierarchy.",
+    "source_quote": "\"It\u2019s what the big boss gave the boss who gave it to us. It meant we belonged.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "cleric's fear",
+    "footnote": "Sequoia observes Calmer's fear during the initial approach to the Moathouse.",
+    "source_quote": "Sequoia can see the cleric\u2019s fear and rolls his eyes.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "cleric's glee",
+    "footnote": "Calmer's glee during the interrogation reveals his sadistic alignment.",
+    "source_quote": "Calmer walks in and says, \"I think it\u2019s important that we call to calm down.\" The rogue stares at the cleric, wondering if that was intentional; the cleric's obvious glee makes it clear that it was.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "bandit leader death",
+    "footnote": "The bandit leader is killed during the surprise attack, leaving seven others.",
+    "source_quote": "Zephyr indicates seven more left and that the leader is dead.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "frog attack",
+    "footnote": "The first attack by giant frogs occurs near the drawbridge, catching Zinia flatfooted.",
+    "source_quote": "Four giant frogs jump out of the pool near the bridge and attack. Although they catch the Zinia flatfooted, they miss him.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "bridge collapse",
+    "footnote": "The drawbridge collapses under the weight of the second frog attack and party members.",
+    "source_quote": "At the last moment, the masked spy notices the bridge rotting. He\u2019s about to shout when four more giant frogs jump onto the bridge. The frogs' and the party's weight causes the bridge to shatter.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "final frog death",
+    "footnote": "The final frog is killed by an arrow through the eye, ending the amphibian threat.",
+    "source_quote": "When Zinia stands up, he sees the last frog is also dead from an arrow that went through the eye and into the amphibian\u2019s skull.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "cleric's ritual",
+    "footnote": "Calmer invokes St. Cuthbert\u2019s doctrine to assert authority, even when inappropriate.",
+    "source_quote": "I think it\u2019s time that I did what all great clerics of St. Cuthbert do, which is lead.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "moathouse courtyard",
+    "footnote": "The courtyard lies beyond the main door and leads to stairs and passageways.",
+    "source_quote": "Past the door is a large courtyard, and to the northeast are some stairs.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "moathouse great hall",
+    "footnote": "The great hall is the central chamber of the Moathouse, once richly appointed but now looted and ruined.",
+    "source_quote": "Past the door is a great hall. This was once a great audience chamber, as shown by the tattered banners and tapestries on the walls, destroyed furniture, and heaps of rotting cloth thrown into corners.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "bandit confession",
+    "footnote": "Voss confesses his descent into banditry due to personal misfortune and coercion.",
+    "source_quote": "he didn\u2019t want to be a bandit, but there was this property that he had to sell, then there were the gambling debts and the drinking, and well, it just went downhill from there.",
+    "quote_verified": true
+  }
+]

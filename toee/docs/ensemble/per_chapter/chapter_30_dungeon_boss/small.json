@@ -1,0 +1,641 @@
+[
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is the boss, severely injured and being carried away from the battlefield by Dren's mercenaries, convinced he is being protected but is in fact being removed from the fight; he believes he is losing his relevance and is haunted by a cold presence in his chest that whispers doubt and detachment.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is the de facto leader of the party, pragmatic and ruthless, who orchestrated Calmer's removal from the front lines to ensure mission continuity; he leads the group into the Air Temple with Zinnia and Sequoia, and has no qualms about letting the starving prophets turn on each other to secure dominance.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia is one of Zephyr's trusted lieutenants, quiet and lethal, following him into the Air Temple with Sequoia; she is part of the core team that enters the active combat zone while Calmer is sidelined.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia is a silent, efficient operative aligned with Zephyr, moving with him and Zinnia into the Air Temple; she represents the disciplined force that executes the mission while Calmer is incapacitated and removed.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Dren",
+    "fact": "Dren is the leader of the mercenaries hired to protect Calmer; his people are tasked with keeping Calmer alive but are unaware that their actions are effectively sidelining the true leader of the mission.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Dren's mercenaries",
+    "fact": "Dren's mercenaries are a crude, loud, non-stealthy force hired to safeguard Calmer; they follow orders to remove him from danger but lack the tactical awareness to understand that their protection is undermining the mission's momentum.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "The Four Starving Prophets",
+    "fact": "The four starving prophets are chaotic, competing entities within the temple, each hungry for power; Zephyr views them as tools to be manipulated into self-destruction to clear the path to dominance.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Calmer's removal from the battlefield",
+    "fact": "Calmer was dragged out of the Earth Temple after defeating the wraith, incapacitated by injury and psychological collapse; his removal was ordered by Dren's mercenaries under the guise of protection, but it effectively exiled him from the decisive phase of the mission.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Entry into the Air Temple",
+    "fact": "Zephyr, Zinnia, and Sequoia entered the Air Temple through a hidden passage, leaving Calmer behind; the temple's lower levels are barricaded and hostile, and Zephyr intends to exploit the internal conflict among the starving prophets to seize control.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Defeat of the wraith",
+    "fact": "Calmer invoked holy radiance twice and destroyed a wraith in the Earth Temple, but the act left him physically and spiritually wounded, triggering a psychological unraveling that culminated in his removal from the fight.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Wraith",
+    "fact": "The wraith was a spectral entity of divine corruption that resisted holy power until Calmer's repeated invocation of radiance shattered it; it laughed at divine authority and was the first major supernatural threat overcome in the temple.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple is a section of the dungeon where the wraith was slain and the secret door was discovered weeks earlier by the party; it is now abandoned by the main group, with Calmer left behind in its aftermath.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Air Temple",
+    "fact": "The Air Temple is the next active zone of the dungeon, accessed via a northeast passage; it is currently occupied by four starving prophets and is the target of Zephyr's strategic assault to eliminate rivals and seize control.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Dren's holding area",
+    "fact": "A hidden space behind a curtain or curtain-like barrier where Calmer is being carried and tended to by Dren's mercenaries; it is warm, safe, and detached from the mission's violence, symbolizing his emotional and strategic exile.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Cold in Calmer's Chest",
+    "fact": "A persistent, whispering cold has taken root in Calmer\u2019s chest since the wraith\u2019s defeat; it speaks to him in voices that undermine his identity, questions his worth, and mirrors Zephyr\u2019s dismissive attitude \u2014 suggesting it may be a supernatural effect, a psychic wound, or a divine punishment.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Who is the Real Leader?",
+    "fact": "The party's leadership is in flux: Calmer believes he is the boss, but Zephyr is acting as commander; the conflict between their visions of authority is unresolved, and the temple's survival may depend on which man\u2019s will prevails \u2014 or if both are merely pawns of a deeper force.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Prophecy of Death",
+    "fact": "The wraith declared, 'One of you is going to die today,' and Zephyr echoed it; Calmer believes it won't be him, but the cold whispers otherwise \u2014 raising the question of whether the prophecy refers to physical death, spiritual death, or the death of leadership itself.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Calmer's mace",
+    "fact": "Calmer's mace, a symbol of his authority and faith, is knocked against mercenaries' shins as he is carried; it has not been used since the wraith's defeat, and its silence mirrors his own powerlessness.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Session timestamp",
+    "fact": "The events occur immediately after the defeat of the wraith in the Earth Temple and before the entry into the Air Temple; no calendar date is given, but the temporal sequence is continuous and urgent, with no rest between encounters.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Kelno",
+    "fact": "Kelno is a cunning, aged operative who has survived by aligning with shifting power structures. He acknowledges chaos and appetite over loyalty, and has been waiting two weeks for the player group to become the fourth temple \u2014 positioning himself as a viable partner. He controls informants, goblins, and a network of bribery, and has secretly set out a second chair in anticipation of their arrival.",
+    "source_quote": "He smiled and gave me nothing. Loyalty to the power of air, he said, the way a man swears loyalty to weather.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia is the de facto leader of the player group, known for terse communication and strategic patience. He recognizes the group\u2019s unclaimed dominance after the deaths of Hartsch and Romag, and has accepted Kelno\u2019s partnership \u2014 not out of trust, but because it serves their expanding operation. He is the one who initiates the deal and frames their rise as inevitable victory.",
+    "source_quote": "We are the victors,\" Sequoia said. And he was right, and that was the thing I'd been circling without letting myself touch.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia is perceptive and skeptical, the one who identifies the weak point in any arrangement \u2014 the place where something is already going to give. She challenges Kelno\u2019s motives and forces the group to confront the moral ambiguity of their rise, serving as the group\u2019s moral compass.",
+    "source_quote": "She was right. She has a way of finding the part of a thing that doesn't hold \u2014 the place where it was already going to give.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Four Temples",
+    "fact": "The Four Temples \u2014 Earth, Air, Water, and now the player group \u2014 are competing for dominance. The Earth Temple was the last winner of the previous competition. With Hartsch (Air) and Romag (Earth) dead, the player group has become the de facto fourth temple, claiming the chair at the top by default. Kelno, formerly aligned with Air, now seeks to transfer his allegiance to the group.",
+    "source_quote": "We let Hartsch get killed. We let Romag get killed. We had a cleric pretending to be an earth cultist, which made us the fourth group, which meant the chair at the top was already ours \u2014 we just hadn't sat down.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Kelno\u2019s Network",
+    "fact": "Kelno\u2019s network includes goblins, informants, bribery channels, and a ledger of payments to a dozen names. He controls access to the Water Temple and maintains a hidden surveillance apparatus. He has been preparing for the player group\u2019s arrival for two weeks, setting out a second chair and waiting for them to claim their place.",
+    "source_quote": "A ledger. Payments out to a dozen names. And a little note that said *set out the second chair* \u2014 two weeks old.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Assassination of Hartsch",
+    "fact": "Hartsch, head of the Air Temple, was assassinated by agents who entered through the north service hall. The attack was planned but not executed by Kelno \u2014 he received a warning note from the enemy instructing them to leave the player group alive. This event triggered the power vacuum the group now occupies.",
+    "source_quote": "Assassins had reached Hartsch's antechamber an hour ago. By tonight our puppet would be meat.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Death of Romag",
+    "fact": "Romag, the former head of the Earth Temple, was killed, likely by the player group\u2019s actions or inactions. His death, combined with Hartsch\u2019s, left the Earth Temple unclaimed \u2014 allowing the group to insert a cleric posing as an earth cultist and claim legitimacy as the fourth temple.",
+    "source_quote": "We let Romag get killed.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Civil War Initiation",
+    "fact": "The player group has unintentionally initiated a civil war among the temples by eliminating key leaders and inserting themselves as the fourth power. Kelno confirms they are now the victors by default. The group has no prior knowledge of the rules \u2014 but now understands that the winner of the conflict will lead the lesser temples.",
+    "source_quote": "He asked if anyone had explained what starting a civil war actually meant. They hadn't. I hadn't known there were rules.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Water Temple",
+    "fact": "The Water Temple is lightly guarded at present, making it the ideal target for the group\u2019s next move. Kelno has directed the group to strike there, and the group has agreed to secure it without killing him \u2014 using his knowledge and network to consolidate control.",
+    "source_quote": "He pointed us toward the Water Temple \u2014 lightly guarded now, he observed, as good a time as any to strike.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Upper Temple",
+    "fact": "The Upper Temple is the seat of ultimate authority among the four temples. Whoever stands atop it after a conflict becomes the new partner of the Greater Temple. The group now occupies this position by default, though they have not yet formally claimed it.",
+    "source_quote": "Whoever's on top leads the lesser temples.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "The Second Chair",
+    "fact": "A chair placed two weeks ago by Kelno, left empty and waiting. It symbolizes his anticipation of the player group\u2019s arrival as the fourth temple. Its presence confirms he has been planning for their rise since Romag\u2019s death. Now occupied by the group, it marks their formal entry into the power structure.",
+    "source_quote": "He'd put the chair out two weeks ago and sat across from it, waiting for us.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "The Obsidian Edge Note",
+    "fact": "A warning note left by the enemy of Kelno, instructing assassins to withdraw from the steam corridors and avoid engaging the player group. It confirms that even those trying to kill Kelno\u2019s puppet were ordered to spare the group \u2014 suggesting the group has become a feared, untouchable force.",
+    "source_quote": "*If the obsidian edge appear in your hall, withdraw to the steam corridors. Do not engage. They are not to be killed.*",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Nature of Power",
+    "fact": "The group has begun to realize that power here is not about loyalty or ideology \u2014 but appetite, timing, and the willingness to exploit chaos. Kelno\u2019s honesty \u2014 'I am for chaos, but I'm also for living' \u2014 becomes the new standard. The group now operates not as rebels, but as the inevitable victors.",
+    "source_quote": "*There it is.* That was the genuine article. Not loyalty \u2014 appetite, the clean honest hunger of a man who only wants to wake up tomorrow.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Unclaimed Throne",
+    "fact": "The group has occupied the position of the fourth temple without realizing it. The throne was theirs the moment Hartsch and Romag died. The realization that they are the victors \u2014 not because they won a battle, but because others died \u2014 changes their entire approach to governance and control.",
+    "source_quote": "We just hadn't sat down. *This is starting to be a very lucrative operation.*",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Two Weeks Ago",
+    "fact": "Two weeks ago, Kelno set out the second chair and began preparing for the player group\u2019s arrival. This marks the moment he recognized their potential as a wild card after Romag\u2019s death, and decided to align with them for survival.",
+    "source_quote": "A little note that said *set out the second chair* \u2014 two weeks old.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Kelno\u2019s Goblins",
+    "fact": "Kelno\u2019s goblins are his primary enforcers and scouts, part of his bribery and surveillance network. They are now being offered to the player group as part of the partnership \u2014 their loyalty shifting from Kelno to the group as the new power.",
+    "source_quote": "His goblins, mine. His informants, mine. The throne, mine.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "The Assassins",
+    "fact": "Assassins hired to kill Hartsch were instructed to avoid the player group, indicating the group has become a recognized, untouchable force even among enemies. Their presence confirms the scale of the power struggle and the group\u2019s unintended status as a wildcard.",
+    "source_quote": "Even the man trying to murder our puppet had given orders to leave us breathing.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Dren",
+    "fact": "Dren is a subordinate who has already completed the task the group requested \u2014 descending the corridor while they ascended, proving he understands their timing and authority. He views Kelno as a nuisance, reinforcing the group\u2019s rising dominance.",
+    "source_quote": "Oh my god,\" he said, \"that guy whines a lot.\" A pause. \"He won't shut up.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a figure of safety \u2014 possibly a prisoner, ally, or asset \u2014 who remains upstairs, unharmed. His presence suggests the group has secured key personnel, and his safety is a sign of their growing control over the environment.",
+    "source_quote": "Calmer was upstairs. Safe. Or as safe as anything in here.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Dren",
+    "fact": "Dren is the only loyal man in the temple \u2014 he follows only us, refuses mercenary deals, and acts on truth rather than coin. He is not a mercenary in the room\u2019s sense; he is the blade that points our direction and means it.",
+    "source_quote": "He didn't take orders, except from us, and that was the whole point of him.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is the injured cleric who cannot speak his god\u2019s name in this place \u2014 it comes out as complaint. He is helpless, unable to run, and the only man in the temple whose vulnerability is tied to sacred silence.",
+    "source_quote": "He just couldn't say his own god's name in here, so it came out sideways, as complaint.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is the strategist who calculates corpse value, route efficiency, and tactical risk with grim precision. He is not a leader \u2014 he is the math behind the decision, and he knows it.",
+    "source_quote": "He's better at the math when there's more than one prize in the room.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Fire Temple",
+    "fact": "The Fire Temple bribed us to defect, then burned inward \u2014 its leadership now on a pyre, its treasury looted by Belsornig\u2019s people.",
+    "source_quote": "We took bribes from the Fire Temple, sold a chimera, knifed Romag at his own table, and pointed three armies at each other until they marched.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Belsornig\u2019s People",
+    "fact": "Belsornig\u2019s faction has seized the Fire Temple\u2019s treasury, moved it southward, and now threatens the Water Temple\u2019s threshold. They are opportunists, not allies.",
+    "source_quote": "Belsornig pulling his treasury out the south route.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Water Temple",
+    "fact": "The Water Temple is active, ancient, and sacred \u2014 its halls submerged in salt-tinged air, its altar offering coins and shells, its idol a writhing mass of sea creatures. It is not passive; it is watching.",
+    "source_quote": "The whole chamber felt submerged. Like standing at the bottom of the sea.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Bronze Gargoyles",
+    "fact": "Four bronze gargoyles squat atop triangular plinths in each corner of the Water Temple hall, coated in verdigris. They are inert but ancient \u2014 their stillness is a warning, not a sign of weakness.",
+    "source_quote": "In each corner a triangular plinth ran up toward the vaulted dark, and atop each one a bronze gargoyle squatted under its coat of green.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Serpentine Idol",
+    "fact": "The idol in the alcove is a horrid knot of fish, eels, and octopi sculpted into one mass, taller than a man, draped in seaweed. It is not mere art \u2014 it is the temple\u2019s god, and it is aware.",
+    "source_quote": "An idol of serpentine stone: a writhing knot of fish and eels and octopi sculpted into one horrid mass... with a seaweed drapery hung across the wall behind.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Water Temple Hall",
+    "fact": "The Water Temple hall is a vast, submerged-feeling chamber with blue-green swirled stone walls, luminous mist, salt-tinged air, and a central altar holding an offering of coins and shells. It is ancient, sacred, and silent \u2014 and it remembers every step.",
+    "source_quote": "The ceiling arched and lost somewhere in the shadow high overhead... the whole chamber felt submerged.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Altar Basin",
+    "fact": "The altar basin holds a shallow pool of water, filled with scattered coins, gems, and seashells \u2014 an offering left by the faithful or the desperate. Touching it would be sacrilege.",
+    "source_quote": "Its concave top holding a shallow basin of water, and at the bottom of the basin \u2014 coins, a scatter of gems, seashells.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Infiltration of the Water Temple",
+    "fact": "Zephyr and the party moved silently through the Water Temple hall without triggering any defenses \u2014 the gargoyles, the idol, and the temple itself did not react. The infiltration was flawless.",
+    "source_quote": "We crossed the whole of it and nothing stirred. Clean. Gotcha.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Loyal Man\u2019s Burden",
+    "fact": "Dren\u2019s loyalty is a liability in a world of mercenaries. Protecting him means protecting Calmer. But if Calmer dies, Dren breaks. If Dren dies, the mission collapses. The temple\u2019s survival hinges on a man who cannot speak his god\u2019s name and the one who will not betray his captain.",
+    "source_quote": "Put Dren where the cleric was, and let the only loyal man in the temple guard the only man who couldn't run.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Session Anchor",
+    "fact": "The events occur immediately after the Fire Temple\u2019s collapse and the treasury\u2019s exodus. The Water Temple\u2019s infiltration is the next scheduled action \u2014 arriving on schedule, as predicted.",
+    "source_quote": "We did that. Not by accident. We took bribes... and pointed three armies at each other until they marched. One does not simply... end up the rightful lords of anything. We ended up here anyway.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Ceiling Leak",
+    "fact": "A new drip has begun somewhere above the Water Temple hall \u2014 a change from the previous hour. It is not natural. It is a sign the temple is waking, or something is coming down.",
+    "source_quote": "The dripping had started somewhere above us, in a ceiling that hadn't been dripping an hour ago. That's not good.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia is the silent observer who confirms decisions with minimal words. His 'Yep' ends debate. He is not a strategist \u2014 he is the anchor of consensus.",
+    "source_quote": "Sequoia agreed in a word \u2014 'Yep' \u2014 and that settled it.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "The Mercenary Corps",
+    "fact": "The temple is filled with mercenaries who would sell each other for a copper if the war tilted. Dren is the only exception \u2014 he does not negotiate, he does not defect, he does not change sides.",
+    "source_quote": "A temple full of mercenaries who would all sell us for a copper if the war tilted. He wouldn't.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Seaweed Drapery",
+    "fact": "The seaweed drapery behind the serpentine idol is not decorative \u2014 it is organic, damp, and possibly alive. It moves subtly in the salt air, like a breath.",
+    "source_quote": "with a seaweed drapery hung across the wall behind.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Dren\u2019s Departure",
+    "fact": "Dren left with his two men, returning to Calmer\u2019s side \u2014 not because he was ordered, but because he chose to. His loyalty is his command.",
+    "source_quote": "He gathered his two men off the wall, gave me one last look \u2014 the look that still thought I was the reasonable one \u2014 and they headed out, back toward the stairs, back toward Calmer.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Name That Cannot Be Spoken",
+    "fact": "Calmer\u2019s inability to speak his god\u2019s name is not a flaw \u2014 it is a sacred wound. The temple\u2019s magic may be tied to it. To force him to speak it may awaken something \u2014 or kill him.",
+    "source_quote": "He just couldn't say his own god's name in here...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is an assassin who believes surprise is a sentence already finished before the target knows it started, and who chose the west door for its fewer rooms and lower risk of detection.",
+    "source_quote": "Zephyr wanted the west \u2014 fewer rooms to cross, less chance of stumbling into something.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia attempted to breach the west door with force, bounced back twice, and later provided false credentials as messengers for Kelno before revealing a forged letter of assassination as proof.",
+    "source_quote": "Zinnia hit the door and the door hit back... Zinnia produced the proof.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia supported Zinnia's failed breach, offered a clumsy cover story ('Housekeeping!'), and later killed the second cultist after Zinnia struck the first blow.",
+    "source_quote": "Sequoia, without missing a beat: 'Housekeeping!'... Sequoia opened him up. Sequoia stepped over the body and ended the rest of it.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Belsornig",
+    "fact": "Belsornig is the Prophet of Water, preoccupied with a scroll when infiltrators breached his temple, and was killed without ever fully registering the threat.",
+    "source_quote": "Belsornig, Prophet of Water, was preoccupied... He swayed. One more hit and there'd be nothing left to question.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Kelno",
+    "fact": "Kelno is a mysterious figure who gifted the Dagger of Venom to the infiltrator, requesting it be used to kill Belsornig, and is aligned with chaos but also with the value of living.",
+    "source_quote": "The Dagger of Venom. Kelno's gift... I'd taken his deal in seconds because his answer had been honest \u2014 for chaos, but also for living.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Obsidian Edge",
+    "fact": "The Obsidian Edge is a group despised by the Water Temple cultists as pompous asses, and is the target of internal sabotage and assassination.",
+    "source_quote": "All that remains is for us to defeat those pompous asses known as the Obsidian Edge.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Water Temple",
+    "fact": "The Water Temple is a cult in civil conflict, with internal factions, cult fanatics guarding doors, and a prophet who reads scrolls while his guards are killed.",
+    "source_quote": "A temple at war with itself... cult fanatics... a man who'd been reading a scroll.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Dagger of Venom",
+    "fact": "The Dagger of Venom is a poisoned blade gifted by Kelno, passed through the group, and intended to be used to kill Belsornig \u2014 now wielded by the infiltrator.",
+    "source_quote": "The Dagger of Venom. Kelno's gift... I've been saving this to kill Belsornig for some time... the dagger had gone around the circle, and now it was coming back.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "infiltration of the west door",
+    "fact": "The infiltration began with failed physical breaches, followed by false identities, then a successful deception using news of an assassination, leading to the door opening and the cultists being caught unawares.",
+    "source_quote": "Zinnia hit the door and the door hit back... We were messengers, then \u2014 bearing word of an assassination... the door opened. The bluff held so clean we didn't just get in \u2014 we caught them flat-footed.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "killing of Belsornig",
+    "fact": "Belsornig was killed without resistance after the infiltrators silently crossed the chamber and struck simultaneously \u2014 Sequoia opened him, Zinnia burned the water from him, and the infiltrator delivered the final blow.",
+    "source_quote": "Sequoia opened him up. Zinnia charged and burned the water out of him. I came in last, missed the first, found the second exactly where I wanted it.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "who is this?",
+    "fact": "The question 'You're not supposed to be here? Who is this?' was asked twice by cultists, signaling the collapse of the infiltration\u2019s secrecy \u2014 and became the moment the infiltrators had to improvise their cover.",
+    "source_quote": "You're not supposed to be here. Who is this?",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "keep him alive?",
+    "fact": "A moment of hesitation arose over whether to spare Belsornig for interrogation \u2014 but the group chose immediate execution, forfeiting potential leverage.",
+    "source_quote": "Maybe we should keep him alive? No?... 'No, let's just kill him,' Sequoia said.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Water Temple",
+    "fact": "The Water Temple is a place of damp stone, old water, bronze doors, and marble thresholds, where cultists guard inner chambers and prophets read scrolls in isolation.",
+    "source_quote": "smelling of damp stone and old water... bronze... brown marble... He'd been reading a scroll.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "west door",
+    "fact": "The west door is a heavy, stubborn barrier of bronze or wood, located at the far eastern end of the temple, and was the chosen point of entry due to its fewer rooms beyond.",
+    "source_quote": "The west door... the west door \u2014 fewer rooms, fewer surprises... the door held and threw me back.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "conjured force blades",
+    "fact": "Two cultists wielded blades of conjured force that hovered in the air, ready to strike \u2014 but were neutralized before they could activate.",
+    "source_quote": "blades of conjured force already hanging in the air, hovering, ready for trouble.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The infiltration occurred during a session where the group was actively engaged in a mission to assassinate Belsornig and infiltrate the Water Temple.",
+    "source_quote": "So we would smash the door... The plan died when Zinnia hit the door...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Barkinar",
+    "fact": "Barkinar is the enforcer of the Greater Temple who has observed the party\u2019s actions from hidden passages for two weeks, knows more than he reveals, and has eliminated four named threats with precision. He demands organizational order in the Upper Temple within a week and holds leverage over the party through their assumed hierarchy and hidden knowledge.",
+    "source_quote": "Romag. Hartsch. Alrrem. Belsornig... four problems gone by sundown. You will forgive me if I'm impressed.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is the cleric who has been mistakenly perceived by the Greater Temple and its agents as the leader of the party, though he is injured and not in command. His perceived authority is a deliberate misreading exploited by the party as leverage.",
+    "source_quote": "The cleric is in charge, of course.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Senshock",
+    "fact": "Senshock is the Lord Wizard of the Greater Temple \u2014 ambitious, paranoid, and useful. Barkinar advises the party to be civil to him and let him underestimate them, indicating he is a dangerous but manipulable variable in the temple\u2019s power structure.",
+    "source_quote": "Senshock \u2014 our Lord Wizard \u2014 has opinions about new arrivals. He is ambitious and paranoid. He is also useful. Be civil, and let him underestimate you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Falrinth",
+    "fact": "Falrinth is a wizard in hiding from the Greater Temple for reasons of his own. Barkinar mentions him as a potential future point of discussion, suggesting he is a wildcard with undisclosed significance to the temple\u2019s internal politics.",
+    "source_quote": "We could talk about Falrinth later.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kelno",
+    "fact": "Kelno is a prisoner held by the Greater Temple, placed beside the party during their meeting with Barkinar. His presence and Barkinar\u2019s smile at him indicate Kelno has been under observation and possibly complicit or compromised, making him a key to hidden loyalties.",
+    "source_quote": "Barkinar looked at him and smiled. I filed that. A man who smiles at the prisoner he has been watching from hidden passages for two weeks is a man who already knows more than he is saying.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Greater Temple",
+    "fact": "The Greater Temple operates as a hidden power structure beneath all other temple factions, with forces stationed on every level, including those the party believed were unoccupied. It manipulates events from the shadows, observes the party\u2019s actions, and demands organizational control over the Upper Temple as a precondition for its continued non-violence.",
+    "source_quote": "The Greater Temple had not kept its forces below. They had forces on this level, in the parts of the map we had never walked, sitting quiet behind brown marble while we ran our little war for them floor by floor.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Upper Temple",
+    "fact": "The Upper Temple is the faction the party intended to dismantle but has instead inherited and been forced to reorganize under the Greater Temple\u2019s demands. It is now a shell of authority with leaderless cultists, unaccounted treasuries, and mercenary contracts requiring structure.",
+    "source_quote": "We came here to take this temple apart. We had become it instead.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Bugbears of the Greater Temple",
+    "fact": "The bugbears are the visible enforcers of the Greater Temple, wearing the deeper black of its authority. They operate with precision, speak in declarative truths, and use psychological misdirection \u2014 such as falsely assigning leadership to Calmer \u2014 to manipulate perceptions and extract compliance.",
+    "source_quote": "They came from the secret door we had left barred. They came from the eastern door. They came from the western door. Three approaches, converged at once, and the converging was the message: *we were always here, on every side of you, and you did not know.*",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "summons to the Greater Temple",
+    "fact": "The party was summoned by the Greater Temple under false assumptions of their hierarchy, forced into a meeting where their actions were already known and cataloged. They were presented with an inventory of holdings and given one week to organize the Upper Temple \u2014 transforming them from insurgents into administrators under a hidden regime.",
+    "source_quote": "Be careful of the people downstairs... Organize your house. We'll be in touch.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "recognition of hidden forces",
+    "fact": "The party realized that the Greater Temple had maintained permanent, unseen forces on every level of the temple complex \u2014 including areas they believed were empty \u2014 revealing that their entire campaign had been conducted within a house that was never truly theirs, nor ever truly unoccupied.",
+    "source_quote": "We had been operating inside a house that was never empty. We had simply never opened the right doors.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the cleric's true role",
+    "fact": "The party\u2019s assumption that Calmer is their leader is a misperception actively reinforced by the Greater Temple. Whether Calmer is truly incapacitated, complicit, or being used as a pawn remains unresolved \u2014 and his true role may determine whether the party can reclaim agency.",
+    "source_quote": "The cleric is in charge, of course.\" \"He's hurt. He will be fine.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Falrinth\u2019s hidden agenda",
+    "fact": "Falrinth, the wizard hiding from the Greater Temple, is mentioned as a potential future point of contact. His reasons for hiding and whether he is ally, enemy, or independent actor remain unknown \u2014 but his existence suggests a fracture within the Greater Temple\u2019s control.",
+    "source_quote": "We could talk about Falrinth later.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Kelno\u2019s betrayal or coercion",
+    "fact": "Kelno\u2019s presence as a prisoner, and Barkinar\u2019s knowing smile at him, suggest he is either a traitor, a double agent, or a victim of psychological manipulation. His role in the party\u2019s past actions and his current status are critical unknowns.",
+    "source_quote": "Barkinar looked at him and smiled. I filed that.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the hill giant and ogres",
+    "fact": "The presence of a hill giant and ogres in the meeting chamber confirms the Greater Temple\u2019s overwhelming force advantage and its intent to prevent escape. Their existence raises the question: how many other hidden enforcers remain undiscovered in the temple?",
+    "source_quote": "The room at the bottom was built to remove the question of whether we could fight our way out. A hill giant. Ogres at the walls.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Air Temple stairs",
+    "fact": "The stairs of the Air Temple are the point of entry where the Greater Temple\u2019s forces converged unexpectedly, revealing their omnipresence. The party had believed this area was secure \u2014 now it is marked as a site of deception and surveillance.",
+    "source_quote": "We were at the foot of the stairs in the Air Temple, ready to climb back to our quarters, when they came up out of the dark in black.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Lower Chamber of the Greater Temple",
+    "fact": "The lower chamber is a trap room designed to ensure no one escapes after confrontation. It contains a hill giant, ogres, and controlled access \u2014 a physical manifestation of the Greater Temple\u2019s absolute authority and its method of enforcing compliance through overwhelming force.",
+    "source_quote": "The room at the bottom was built to remove the question of whether we could fight our way out.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Hidden passages of the Greater Temple",
+    "fact": "The hidden passages allow the Greater Temple to observe, move, and strike without detection. The party\u2019s entire campaign has been conducted under their gaze, and these passages are the conduit through which they manipulate events, personnel, and perceptions.",
+    "source_quote": "He has been watching from hidden passages for two weeks.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "the chest delivered to Romag",
+    "fact": "The chest delivered to Romag is a key item of interest to the Greater Temple, implying it contains something of strategic or magical value. Its recovery is now a task assigned to the party, making them agents of the very power they sought to overthrow.",
+    "source_quote": "The chest we had delivered to Romag, which the Greater Temple had an interest in recovering.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "one week deadline",
+    "fact": "The Greater Temple has given the party exactly one week to organize the Upper Temple \u2014 a temporal anchor that transforms their insurgency into a bureaucratic obligation and sets the next phase of the story in motion.",
+    "source_quote": "The upper temple should look organized when he came back through these steps. A week.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "sundown of yesterday",
+    "fact": "The four named threats \u2014 Romag, Hartsch, Alrrem, and Belsornig \u2014 were eliminated by sundown the previous day, establishing the Greater Temple\u2019s operational speed and the party\u2019s own actions as already cataloged and absorbed into its larger plan.",
+    "source_quote": "Problems I had on a list yesterday morning, and four problems gone by sundown.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "house organization",
+    "fact": "A week was spent organizing the house that was originally intended to be burned.",
+    "source_quote": "The house we came to burn needed a week to organize.",
+    "quote_verified": false
+  }
+]

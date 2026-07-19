@@ -1,0 +1,107 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is now a leader who has accepted the chain of command, having taken the swords of subordinates hilt-first and restructured the Fire Temple under his authority.",
+    "source_quote": "I'm fairly certain I already have.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a rigid adherent of the Earth Temple\u2019s supremacy, refusing to participate in physical embraces and insisting on doctrinal purity even amid tactical victories.",
+    "source_quote": "I do not wrestle, members of the Earth Fire Temple.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Former Fire Cleric",
+    "fact": "The former Fire Cleric has surrendered her temple, acknowledged the supremacy of the Earth Temple, and been appointed head Cleric of the newly subjugated Fire Guard.",
+    "source_quote": "You know, I never really liked Alrrem.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Fire Temple",
+    "fact": "The Fire Temple has been dismantled as an independent force, its leadership eliminated, its remaining clerics absorbed, and its infrastructure repurposed under Earth Temple command.",
+    "source_quote": "We ran a three-way war that filled these corridors with bodies, and now I am explaining the chain of command inside a hug.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple has emerged as the dominant power, enforcing doctrinal supremacy over fire, absorbing its clerics, and imposing its hierarchy through psychological and physical coercion.",
+    "source_quote": "The Earth Temple was supreme. That fire bowed to earth.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Fire Temple Surrender",
+    "fact": "The Fire Temple\u2019s last cleric was subdued in a group embrace, coerced into submission, and formally appointed as head of the Fire Guard under Earth Temple authority.",
+    "source_quote": "Let's all go hug him together to surprise him.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Appointment of New Head Cleric",
+    "fact": "The former Fire Cleric was granted authority over the remnants of the Fire Guard after swearing allegiance to the Earth Temple and renouncing her former leader, Alrrem.",
+    "source_quote": "Go find the captain of the Fire Guard. Let's go find your troops, organize the place, make it clean.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Chimera",
+    "fact": "The chimera, once a symbol of the Fire Temple\u2019s power, has been killed, its death contributing to the cleric\u2019s psychological collapse and surrender.",
+    "source_quote": "We had, after all, killed everything that mattered to her \u2014 the temple, the warlock, the chimera, the whole burning enterprise.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Warlock",
+    "fact": "The warlock, tied to the Fire Temple\u2019s operations, was eliminated prior to the cleric\u2019s surrender, removing a key source of magical support and destabilizing the temple\u2019s hierarchy.",
+    "source_quote": "We had, after all, killed everything that mattered to her \u2014 the temple, the warlock, the chimera, the whole burning enterprise.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Fire Temple Chamber",
+    "fact": "The Fire Temple\u2019s chamber, once opulent and symbolically rich with fire-themed art and furnishings, has been transformed into a site of subjugation and administrative takeover.",
+    "source_quote": "Rugs over rugs, tapestries on every wall, candelabra throwing warm light over plush furniture and cushions piled like someone had been planning a very expensive nap.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Sea That Isn't a Sea",
+    "fact": "The subterranean water complex known as the 'sea that isn't a sea' has been identified as the next target after the Fire Temple\u2019s fall, signaling the expansion of Earth Temple influence.",
+    "source_quote": "So we went down into the sea that isn't a sea.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Scarlet Robe",
+    "fact": "The scarlet robe, once worn by the Fire Cleric as a symbol of her rank, now lies tucked under pillows \u2014 a relic of a defeated order, its color repurposed as a visual metaphor for the temple\u2019s bloodied legacy.",
+    "source_quote": "A scarlet robe tucked under the pillows.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Alrrem\u2019s Death",
+    "fact": "The death of Alrrem, former leader of the Fire Temple, was orchestrated by Zephyr and remains unspoken \u2014 a hidden act of vengeance that enabled the current power shift.",
+    "source_quote": "Neither did I, in the end. I just made certain he found that out the hard way.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Water Temple Ambush",
+    "fact": "The next target \u2014 the Water Temple \u2014 has been identified, and the party is preparing to move into its submerged domain, signaling the continuation of the Earth Temple\u2019s campaign of absorption.",
+    "source_quote": "So we went down into the sea that isn't a sea.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "after the Fire Temple surrender",
+    "fact": "The events following the Fire Temple\u2019s fall occurred in immediate succession, with no temporal gap between the surrender, appointment, and planning for the Water Temple.",
+    "source_quote": "Go find the captain of the Fire Guard. Let's go find your troops, organize the place, make it clean.",
+    "quote_verified": false
+  }
+]

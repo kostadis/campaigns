@@ -1,0 +1,158 @@
+[
+  {
+    "type": "npc",
+    "subject": "Fire Temple Warlock",
+    "fact": "A servant of Alrrem who led a Chimera on a chain to assassinate the party. He used magical blasts and commanded the beast until Zephyr disarmed him of the chain. He was ultimately slain by Zinnia.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Chimera",
+    "fact": "A horrific multi-headed monstrosity with the features of a lion, a goat, and a dragon, imported by the Fire Temple at great expense to destroy the party. It went on a mindless rampage after being freed from its chains and was ultimately slain by Calmer's necrotic magic.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Bugbear",
+    "fact": "A guard or observer who attempted to intervene in the chaos by pointing a weapon at the Chimera, but was caught in the beast's devastating breath attack.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "A cleric and party member who healed fallen companions and ultimately slew the Chimera. His companions grew concerned that he may be genuinely embracing his Earth Temple cover identity rather than simply acting.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "The leader of the Earth Temple who prefers to lead from behind, viewing himself as a chess king who sends others to fight his battles. He ordered the party to deal with Alrrem after hearing of the chimera attack.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Hartsch",
+    "fact": "Romag's sub-general and speaker who provided the party with tactical information and maps. He revealed the political landscape of the temples and subtly signaled his desire for the party to remove Romag from power so he could take command.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Alrrem",
+    "fact": "The leader of the Fire Temple, currently weakened after losing his werewolves and his expensive chimera asset. He was originally the leader of the temples in the great battle of Emridy Meadows and has been struggling to hold power since.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Belsornig",
+    "fact": "The Prophet and head of the Water Temple, suspected by Hartsch of being a cunning manipulator who arranged the chimera purchase through his ally Vesrek as a win-win scheme against both the Fire and Earth temples.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Kelno",
+    "fact": "The Prophet of the Air Temple, dismissed by Hartsch as a joke with very little remaining power or territory, reduced to a few rooms within the temple.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Vesrek",
+    "fact": "An ally of Belsornig, the Water Temple prophet, who is identified in the ledger as the one who arranged the purchase of the chimera for the Fire Temple through Captain Varsik of the Crimson Trader.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Party's Quarters",
+    "fact": "The room where the party attempted to take a long rest, featuring a southern door and a secret door. The Chimera smashed through the door here, leading to a desperate struggle, and the room later served as a private meeting place with Hartsch.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Romag's Chambers",
+    "fact": "The command center for the Earth Temple where Romag and Hartsch coordinate their forces. The party reported the chimera attack here and received orders to deal with Alrrem.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Chimera Chain",
+    "fact": "A heavy iron collar and dragging chains used by the Fire Temple warlock to control and goad the Chimera into battle. Zephyr managed to rip the chain from the warlock's hands during the fight. The chains were later found to be stamped with the marks of Nulb's River Pirates, revealing that someone in Nulb was paid to deliver the monster.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Warlock's Ledger",
+    "fact": "A document found on the Fire Temple warlock, containing a heavy wax-sealed receipt bearing the crest of a crimson ship. It is a bill of sale from Captain Varsik of the Crimson Trader detailing the purchase of the chimera, paid in full by the Fire Temple. It also revealed a connection to Vesrek, an ally of the Water Temple's prophet Belsornig.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Fire Temple Amulet",
+    "fact": "A heavy gold amulet and chain depicting the eight-pointed symbol of the Fire Temple, found on the warlock. Its craftsmanship and gold weight make it worth 100 gold pieces.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Potion of Fire Resistance",
+    "fact": "A magical elixir found on the warlock, intended to protect the user from heat and flames. The warlock had it on his person but panicked and never reached for it during the chaos of the chimera's rampage.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Masterwork Whip",
+    "fact": "A high-quality whip woven with alchemically treated red leather, found among the warlock's belongings. While not magical, it is of fine craftsmanship, features a ten-foot reach, and can slow an enemy's movement.",
+    "quote_verified": false
+  },
+  {
+    "type": "spell",
+    "subject": "Eldritch Blast",
+    "fact": "Beams of crackling energy fired by the Fire Temple warlock at Sequioa, dealing significant damage early in the fight.",
+    "quote_verified": false
+  },
+  {
+    "type": "spell",
+    "subject": "Healing Word",
+    "fact": "A quick divine incantation used by Calmer on two separate occasions during the battle \u2014 first to restore Sequioa to consciousness, and later to bring Zephyr back from the brink of death.",
+    "quote_verified": false
+  },
+  {
+    "type": "spell",
+    "subject": "Toll the Dead",
+    "fact": "A necrotic spell cast by Calmer that manifests as the sound of a melancholy tolling bell. It was used multiple times during the fight and ultimately delivered the final, fatal blow to the wounded Chimera.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Hartsch's ambition",
+    "fact": "Hartsch implies he would be willing to take command if a position were to 'suddenly open itself', signaling to the party that he wants them to remove Romag. The party decides to move forward with a plan to kill Romag and allow Hartsch to take over, believing he will be more aggressive in attacking the other temples.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Water Temple manipulation",
+    "fact": "Hartsch suggests the Water Temple, through Vesrek, manipulated the chimera purchase as a win-win scheme against the Fire and Earth temples, implying deeper political sabotage.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Calmer's true allegiance",
+    "fact": "Calmer's companions are concerned he may be genuinely embracing his Earth Temple cover identity rather than simply acting, raising questions about his loyalty and potential infiltration.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Nulb's River Pirates connection",
+    "fact": "The Chimera Chain bears the marks of Nulb's River Pirates, suggesting a hidden network of smugglers and mercenaries involved in delivering the monster \u2014 possibly tied to broader corruption.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Three-way temple war",
+    "fact": "The party proposes a plan to trigger a three-way war between the Earth, Fire, and Water temples to weaken all factions \u2014 a strategic gambit that could destabilize the entire temple hierarchy.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Hartsch's leadership philosophy",
+    "fact": "Hartsch expresses his belief in the 'vengeance power of the earth' and a preference for a destructive, earthquake-like leadership style over Romag's slow erosion approach, revealing his ideological divergence and violent vision for power.",
+    "quote_verified": false
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "type": "npc",
+    "subject": "Dren",
+    "fact": "Dren leads the Broken Blades mercenaries, who have claimed territory within the Earth Temple and are expanding under Romag's influence.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "Romag is the leader of the mercenary party, pleased with their successes, and is expanding his power base by controlling and exploiting the Earth Temple's resources, including using prisoners as food for gnolls or sacrifices.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sequioa",
+    "fact": "Sequioa is a skilled lockpick who opened the prison door and later unlocked the prisoners' chains, playing a key role in their liberation.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr explored hidden areas, discovered the escape stairway, and attempted to persuade Calmer to investigate the refuse pile alone, showing initiative and risk-taking.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is the party's healer who refused to let Zephyr investigate the refuse pile alone, prioritizing the group's survival and standing guard at the prison door during the escape.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jorin Pike Kale",
+    "fact": "Jorin Pike Kale is a river sailor imprisoned by Dick Rentsch's men after making a pass at Dalia; he was among the seven rescued prisoners and later shared vital intelligence about Captain Tolubb's pirate ship schedule.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Dick Rentsch",
+    "fact": "Dick Rentsch is a figure who imprisoned Jorin Pike Kale as punishment for making a pass at Dalia, and whose men were responsible for capturing several merchants.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Master Aldous Glimmerfield",
+    "fact": "Master Aldous Glimmerfield is a textile merchant from Divers, one of the seven prisoners held in the Earth Temple, who promised a reward of one hundred silver pieces for their rescue.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Mistress Lenora Glimmerfield",
+    "fact": "Mistress Lenora Glimmerfield is a textile merchant from Divers, one of the seven prisoners held in the Earth Temple, who promised a reward of one hundred silver pieces for their rescue.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Kalen",
+    "fact": "Kalen is one of four farm boys turned mercenaries who surrendered upon capture and were held as prisoners in the Earth Temple.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Brask",
+    "fact": "Brask is one of four farm boys turned mercenaries who surrendered upon capture and were held as prisoners in the Earth Temple.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Horgus",
+    "fact": "Horgus is one of four farm boys turned mercenaries who surrendered upon capture and were held as prisoners in the Earth Temple.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Davine",
+    "fact": "Davine is one of four farm boys turned mercenaries who surrendered upon capture and were held as prisoners in the Earth Temple.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Dalia",
+    "fact": "Dalia is a woman whom Jorin Pike Kale made a pass at, leading to his imprisonment by Dick Rentsch's men.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Larith the Beautiful",
+    "fact": "Larith the Beautiful is a figure from whom the party previously collected Fire Temple insignia and robes, later used to frame the Fire Temple for the prisoners' escape.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Captain Tolubb",
+    "fact": "Captain Tolubb is a pirate captain whose ship schedule was revealed by Jorin Pike Kale; he previously betrayed the party by directing them into a Fire Temple ambush.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple is a religious institution that Romag uses for sacrificial purposes and as part of his control over the dungeon; it is associated with the imprisonment and feeding of captives.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Fire Temple",
+    "fact": "The Fire Temple is being framed by the party for the prisoners' escape using stolen insignia and robes, suggesting it is a rival power within the temple hierarchy.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Air Temple",
+    "fact": "The Air Temple previously met with the party in the dungeon's second level, indicating it is an active faction with known contact points in the structure.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Otyugh",
+    "fact": "An Otyugh, a massive tentacled aberration, emerged from a refuse pile in the dungeon, sustained by Romag's waste, and now perceives the party as prey; it telepathically muttered 'fresh meat' and 'rot, good, do eat' as it prepared to attack.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple is a sprawling dungeon complex with multiple levels, including wine cellars, storage chambers, prison cells, armories, and refuse pits, now partially controlled and exploited by Romag.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "prison chamber",
+    "fact": "The prison chamber is a filthy, locked room secured with a lock and padlock, containing seven bound prisoners, chained males, and evidence of long-term captivity.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "storage chamber",
+    "fact": "An adjacent storage chamber filled with moldering grain, rotting flour, broken containers, and spilled contents, now systematically explored by the party.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "armories",
+    "fact": "Several empty armories contain wooden racks, broken weapons, sundered shields, ruined mail, and skeletons of humans and gnolls, with cobwebs indicating long disuse; five magical arrows were found here.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "refuse pile",
+    "fact": "A chamber reeking of filth, waste, and bones, where the Otyugh emerged; previously ignored and unexplored, it was the site of the party's encounter with the aberration.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "second level of the dungeon",
+    "fact": "The second level connects to a mysterious door concealing an eldritch creature; the party previously visited it when meeting Air Temple representatives but chose not to descend further.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "magical arrows",
+    "fact": "Five magical arrows were found in an abandoned armory; they retained their enchantment despite the surrounding decay and disuse.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Fire Temple insignia and robes",
+    "fact": "Insignia and robes collected from Larith the Beautiful were used by the party to frame the Fire Temple for the prisoners' escape.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "prisoner rescue",
+    "fact": "The party freed seven prisoners from a locked prison chamber, using a plan to frame the Fire Temple and avoid Romag's wrath; the escape was coordinated with Calmer guarding the door and Sequioa unlocking chains.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Otyugh encounter",
+    "fact": "The party encountered an Otyugh emerging from a refuse pile; the creature, previously sustained by Romag's waste, recognized the party as fresh prey and telepathically prepared to attack.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "discovery of escape stairway",
+    "fact": "Zephyr discovered a stairway leading upward from the prison chamber, providing a potential escape route for the freed prisoners.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "eldritch door",
+    "fact": "A mysterious door on the second level conceals an eldritch creature; the party recognized its connection to the passageway but chose not to investigate, leaving it as an unresolved threat.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Romag's mismanagement",
+    "fact": "The party realized Romag has left large portions of the dungeon empty, unused, and decaying\u2014suggesting poor leadership, insufficient resources, or intentional neglect as a strategic weakness.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "morning",
+    "fact": "The events of the chapter unfold on a morning following the party's settlement into their newly claimed territory within the Earth Temple.",
+    "quote_verified": false
+  }
+]

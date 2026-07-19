@@ -1,0 +1,142 @@
+[
+  {
+    "type": "npc",
+    "subject": "Hartsch",
+    "fact": "Hartsch is referenced as the nominal superior who sent the Blades to stage a raid on the Water Temple and falsely attributed the orders to the Obsidian Edge, making him a liability and a traitor to the faction's trust.",
+    "source_quote": "Hartsch confessed it in pieces: he'd sent the Blades down to stage a raid on the Water Temple, and heard nothing back, and now if we lost them we'd lose the guards too, and he'd told them the orders came from us.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr slapped Hartsch to dispel his panic and later ordered the retreat to the Earth Temple while recruiting the Broken Blades, demonstrating tactical pragmatism and leadership under crisis.",
+    "source_quote": "Zephyr slapped him. Walked up and slapped the panic right across his face. It didn't take. 'Okay, so we'll go straight to the Broken Blades,' Zephyr said. 'Use them as the distraction. Let Hartsch advance from the east, if Hartsch could find east. Go pull our men out of the water before the lie killed them.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia stepped into the slaughterhouse chamber and spoke the true thing \u2014 'I don't know what your plans are. But whatever your plans are, you are with us. We are with you.' \u2014 restoring the Broken Blades' will to fight through personal presence, not command.",
+    "source_quote": "I stepped in front of them. Gore-soaked, hollow-eyed, finished men. I'd showed up. That mattered more than anything I could say. I'd walked in personally, past the wraith, into the room nobody sane would enter. So I said the true thing. 'I don't know what your plans are. But whatever your plans are, you are with us. We are with you.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer, though wounded by the wraith\u2019s cold and near collapse, invoked the rite of turning for the third time, destroying the wraith and its specters with a blast of judgment, proving his faith in St. Cuthbert despite the cost.",
+    "source_quote": "I called it. The light went out of me in a single blast of judgment, and the room of dead things flinched as one. And they could not hold. The Wraith could not hold. Specter after specter could not hold. They came apart in the radiance, all of them but one. 'It worked! It worked!' The words came out of me without permission, without dignity... 'Who's the man? Who is the man?' 'That's you,' Zephyr said.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia executed a defecting bugbear who took bribes from the Air Temple under false pretenses, then discovered the coins bore the Air Temple insignia, revealing a hidden conspiracy manipulating the faction\u2019s internal loyalties.",
+    "source_quote": "I said the rest of it before anyone had moved, before he'd even understood it was happening. 'One does not simply take bribes to defect.' ... I went through the sack: twenty gold, and I turned a coin in the light because something was bugging me about the weight of it. The stamp wasn't Kelno's. Wasn't water at all. Air Temple insignia, pressed clean into every piece.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Water Temple",
+    "fact": "The Water Temple was the target of Hartsch\u2019s unauthorized raid, resulting in the massacre of the Broken Blades and the deployment of undead guardians, including a wraith and seven specters, blocking access to the second level.",
+    "source_quote": "Hartsch confessed it in pieces: he'd sent the Blades down to stage a raid on the Water Temple... Then the door, and behind the door, the slaughterhouse... The wraith blocked the only exit, seven specters at its side, a choke point that would keep killing them.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple was the original base of operations, abandoned after the failed raid, and later used as a fallback position to regroup the Broken Blades and contain the threat of the wraith and the Air Temple\u2019s infiltration.",
+    "source_quote": "We had abandoned the Air Temple assault to come back here... Fall back to the Earth Temple, rest there, but if they were true warriors, he told them, they could stay with us.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Air Temple",
+    "fact": "The Air Temple was the true source of the bribe coins found on the defecting bugbear, revealing a covert operation to destabilize the Obsidian Edge from within, using Kelno as a decoy.",
+    "source_quote": "The stamp wasn't Kelno's. Wasn't water at all. Air Temple insignia, pressed clean into every piece. ... 'We paid good money for that! Now we will get our money, and get food!'",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Twenty Gold Coins with Air Temple Insignia",
+    "fact": "The twenty gold coins, bearing the Air Temple insignia, were used to bribe a bugbear into defection, falsely implicating Kelno and exposing a deeper conspiracy within the Obsidian Edge\u2019s hierarchy.",
+    "source_quote": "I went through the sack: twenty gold, and I turned a coin in the light because something was bugging me about the weight of it. The stamp wasn't Kelno's. Wasn't water at all. Air Temple insignia, pressed clean into every piece.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "The Wraith",
+    "fact": "The wraith was a sentient undead entity that guarded the choke point to the second level, demanded live bodies or intelligence, and had previously laughed at Calmer\u2019s failed turning rites, making it a personal nemesis.",
+    "source_quote": "The wraith, the one that had laughed at me twice, that had stood between us and the way down for too long, turned its empty face and said, almost delighted, 'Oh, you're back!'",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Obsidian Edge",
+    "fact": "The Obsidian Edge was the faction whose authority Hartsch falsely invoked to send the Blades on a suicide raid, and whose internal loyalties were being manipulated by the Air Temple through bribes and deception.",
+    "source_quote": "he'd told them the orders came from us... so that when the Blades died in the water it would be the Obsidian Edge that sent them.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Air Temple",
+    "fact": "The Air Temple was the hidden manipulator behind the bugbear\u2019s defection, using forged coins to frame Kelno and infiltrate the Obsidian Edge\u2019s defenses from within.",
+    "source_quote": "The stamp wasn't Kelno's. Wasn't water at all. Air Temple insignia, pressed clean into every piece. ... 'We paid good money for that! Now we will get our money, and get food!'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The Failed Raid on the Water Temple",
+    "fact": "The failed raid on the Water Temple, orchestrated by Hartsch under false pretenses, resulted in the massacre of the Broken Blades, the emergence of a wraith and seven specters, and the exposure of an Air Temple conspiracy.",
+    "source_quote": "Hartsch confessed it in pieces: he'd sent the Blades down to stage a raid on the Water Temple, and heard nothing back... Then the door, and behind the door, the slaughterhouse... These were the Broken Blades. We had recruited them.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The Turning of the Wraith",
+    "fact": "Calmer, wounded and nearly broken, successfully invoked the rite of turning for the third time, destroying the wraith and all its specters in a single blast of divine judgment, ending the choke point\u2019s threat.",
+    "source_quote": "I called it. The light went out of me in a single blast of judgment, and the room of dead things flinched as one. And they could not hold. The Wraith could not hold. Specter after specter could not hold. They came apart in the radiance, all of them but one.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The Execution of the Defecting Bugbear",
+    "fact": "Sequoia executed a bugbear who accepted bribes from the Air Temple, then discovered the coins bore the Air Temple insignia, revealing that the Obsidian Edge was being manipulated by an internal enemy.",
+    "source_quote": "I said the rest of it before anyone had moved... 'One does not simply take bribes to defect.' ... I went through the sack: twenty gold... Air Temple insignia, pressed clean into every piece.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia\u2019s Rally of the Broken Blades",
+    "fact": "Zinnia broke protocol by speaking the true thing \u2014 personal presence and solidarity \u2014 to the Broken Blades, restoring their morale and binding them to the Obsidian Edge through loyalty to the person who showed up, not the order that abandoned them.",
+    "source_quote": "I stepped in front of them. Gore-soaked, hollow-eyed, finished men. I'd showed up. That mattered more than anything I could say... 'I don't know what your plans are. But whatever your plans are, you are with us. We are with you.'",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Seven Specters",
+    "fact": "The seven specters were undead entities bound to the wraith, guarding the choke point to the second level, and were destroyed when Calmer invoked the rite of turning.",
+    "source_quote": "The wraith blocked the only exit, seven specters at its side, a choke point that would keep killing them... Specter after specter could not hold. They came apart in the radiance, all of them but one.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Bugbear Defector",
+    "fact": "The bugbear defector was a traitor who accepted bribes from the Air Temple under false pretenses, was executed by Sequoia, and whose coins revealed the true manipulator behind the infiltration.",
+    "source_quote": "A bugbear stumbling toward us with a sack of coins... 'Where are you from?' The answer came out of the babbling. Earth Temple. ... 'One does not simply take bribes to defect.' He dies.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Conspiracy of the Air Temple",
+    "fact": "The Air Temple used forged coins and false narratives to manipulate the Obsidian Edge\u2019s internal loyalties, framing Kelno for bribery and exploiting the failed raid to destabilize the faction from within.",
+    "source_quote": "The stamp wasn't Kelno's. Wasn't water at all. Air Temple insignia, pressed clean into every piece. ... 'We paid good money for that! Now we will get our money, and get food!'",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "The Night of the Failed Raid",
+    "fact": "The night of the failed raid on the Water Temple was when Hartsch issued false orders, the Broken Blades were slaughtered, the wraith emerged, and the Air Temple\u2019s conspiracy began to unravel.",
+    "source_quote": "An attack in the night, and it had cost us more than we could spare... Hartsch confessed it in pieces: he'd sent the Blades down to stage a raid on the Water Temple...",
+    "quote_verified": false
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "type": "monster",
+    "subject": "zombie",
+    "fact": "Zombies emit a sound that resembles 'Brains!' but is actually 'nsazsa' from decaying vocal cords.",
+    "source_quote": "the sound that escapes from their decaying vocal cords sounds like \"nsazsa,\" and everyone thinks they are saying Brains!",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "zombie",
+    "fact": "Zombies are not contained by the doors in the cell, which fail to keep them inside.",
+    "source_quote": "Remember those doors that won't keep anyone inside? Well, they aren't keeping those zombies inside the cell.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "zombie",
+    "fact": "There are at least three zombies in the first cell.",
+    "source_quote": "There were more zombies in that cell.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "zombie",
+    "fact": "Zombies are behind all three other doors in the area.",
+    "source_quote": "The other three doors also have zombies!",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer has power over the undead.",
+    "source_quote": "And yes, he does!",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "zombie encounter",
+    "fact": "The party encounters multiple zombies and decides to retreat from the area.",
+    "source_quote": "Time to get out of here,",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr insists the party can fight the zombies.",
+    "source_quote": "We can take them!",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia is unable to determine whether Zephyr or Zinia shouted about the additional zombies.",
+    "source_quote": "I can't tell.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "ring",
+    "fact": "A gnome hands the party a ring after they speak with the Duke.",
+    "source_quote": "the gnome is still sitting there and hands us a ring.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Duke's location",
+    "fact": "The party stands before the Duke, who is giving out food and talking to merchants.",
+    "source_quote": "we're standing in front of the Duke, who is giving out food and talking to the merchants.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on Planting 18, 579.",
+    "source_quote": "## Date: Planting 18, 579",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The next day's events occur on Planting 19, 579.",
+    "source_quote": "## Date: Planting 19, 579",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Hommelet road",
+    "fact": "The road back to Hommlet is quiet.",
+    "source_quote": "The road back to Hommlet is quiet.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia suggests visiting the Druid first after returning to Hommlet.",
+    "source_quote": "We should go to the Druid first.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer believes the party has an obligation to the Terjon and his order.",
+    "source_quote": "But we have an obligation to the Terjon and my order!",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia believes only the Druid can be trusted because others are susceptible to corruption.",
+    "source_quote": "Because we can only trust the Druid. Everyone else is too susceptible to corruption.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jaroo",
+    "fact": "Jaroo, the Druid, agrees to meet with the Village Elder the next day.",
+    "source_quote": "Tomorrow then. We will meet at the Village Elder,",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia tells Calmer to speak with the Cleric, but declines to accompany him.",
+    "source_quote": "I tell him to go. He's disappointed I won't follow,",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Spugnoir",
+    "fact": "Spugnoir is pleased that Calmer is not with Zinia when she enters the Inn of the Welcome Wench.",
+    "source_quote": "Spugnoir seems particularly pleased that the cleric is not with us.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Spugnoir",
+    "fact": "Spugnoir asks Zinia if she is interested in the tower.",
+    "source_quote": "So, any interest in that tower?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ostler",
+    "fact": "Ostler tells Zinia her room has been paid for until the 19th.",
+    "source_quote": "And your room has been paid for until the 19th.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ostler",
+    "fact": "Ostler expresses approval that Zinia went to Jaroo before the outsiders.",
+    "source_quote": "I am very pleased that you decided to go to Jaroo before going to those interloping outsiders.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia interrupts Calmer's attempt to demand the Prefect's presence at the meeting.",
+    "source_quote": "I don't have time for this. Calmer, this is not the topic of the meeting.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jaroo",
+    "fact": "Jaroo presents the narrative that brigands are masquerading as temple agents, not that they are agents of the temple.",
+    "source_quote": "He pushes the narrative that brigands are masquerading as agents of the temple than they are agents of the temple.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Rufus",
+    "fact": "Rufus states there is no conclusive evidence of the Temple of Elemental Evil's re-emergence.",
+    "source_quote": "We have no conclusive evidence of the re-emergence of the Temple of Elemental Evil.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Rufus",
+    "fact": "Rufus says the evidence is of local importance, not national.",
+    "source_quote": "Your information is of local importance but not national importance",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Burne",
+    "fact": "Burne commends the party for their information and working together.",
+    "source_quote": "I want to commend our heroes for their information. I am thrilled to see them working together",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "village meeting",
+    "fact": "The Village Elder closes the meeting and invites the party to participate in end-of-month festival planning.",
+    "source_quote": "The Village Elder closes the topic and lets us go unless we want to participate in the end-of-month festival planning.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jaroo",
+    "fact": "Jaroo asks Sequoia and Zinia to help with decorating and the location committee for the festival.",
+    "source_quote": "Could you help with decorating? And could you participate in the location committee?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "festival invitation",
+    "fact": "The village celebrates an end-of-month festival with birthdays, newborns, and mourning the dead.",
+    "source_quote": "Every month, we celebrate another month as a community. We wish people a happy birthday, celebrate any newborn, and mourn any deaths.",
+    "quote_verified": true
+  }
+]

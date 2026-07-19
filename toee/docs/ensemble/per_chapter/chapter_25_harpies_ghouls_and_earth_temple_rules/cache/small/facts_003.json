@@ -1,0 +1,100 @@
+[
+  {
+    "type": "monster",
+    "subject": "harpies",
+    "fact": "Multiple harpies were killed by the party during the confrontation; Sequioa killed three with ranged attacks, Zephyr killed one with a reaction attack, and Zinnia and Calmer contributed damage to the final harpy, which was killed by Sequioa's ranged weapon.",
+    "source_quote": "Sequioa attacks a harpy, hitting and dealing nineteen points of damage, killing it... Sequioa uses a ranged weapon to attack the harpy in the rafters, dealing ten points of damage and killing it.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "ghouls",
+    "fact": "Five ghouls were eliminated during the battle: Sequioa killed two (one with five damage, then ten), Zinnia killed one with ten damage, Zephyr killed one with two attacks totaling fourteen damage, and Calmer killed one with Sacred Flame.",
+    "source_quote": "Sequioa attacks another ghoul, hitting and dealing five points of damage... Sequioa attacks again, hitting and dealing ten points of damage, killing the ghoul... Zinnia attacks a ghoul, hitting and dealing ten points of damage, killing it... Zephyr makes a third attack, hitting and dealing seven damage, killing the ghoul... Calmer uses Sacred Flame on a ghoul, dealing nine points of damage.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sequioa",
+    "fact": "Sequioa delivered the majority of lethal damage in the battle, killing three harpies and two ghouls, and later successfully disarmed and looted a chest without detection, pocketing extra treasure and distributing it with a biased share.",
+    "source_quote": "Sequioa attacks a harpy... killing it instantly... Sequioa checks the chest for traps with a roll of twenty-eight and finds none... Sequioa opens the chest and attempts to use stealth to pocket extra treasure, rolling a twenty-six... Sequioa distributes the treasure, giving himself and Zinnia a slightly larger share than Zephyr.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr recovered from paralysis and contributed decisive damage against ghouls and harpies, using sneak attack, pistol, and reaction attacks; he failed to detect Sequioa's theft and used a pistol shot to intimidate a harpy.",
+    "source_quote": "Zephyr is no longer paralyzed and attacks a ghoul with sneak attack... Zephyr shoots his pistol into the air to scare the harpy... Zephyr uses his reaction to attack the fleeing harpy with his dagger... Zephyr fails to notice Sequioa's deception with his insight check.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia dealt consistent damage against ghouls and harpies, killing three ghouls and one harpy with attack of opportunity, and participated in the distribution of looted treasure with a slightly larger share.",
+    "source_quote": "Zinnia attacks a ghoul, hitting and dealing ten points of damage, killing it... Zinnia takes an attack of opportunity, dealing eleven points of damage... Sequioa distributes the treasure, giving himself and Zinnia a slightly larger share than Zephyr.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer used Sacred Flame to kill two ghouls and one harpy, refused to open the chest due to lack of rogue skills, and declined to wear the elven chain mail due to superior armor.",
+    "source_quote": "Calmer uses Sacred Flame on a ghoul, dealing nine points of damage... Calmer uses Sacred Flame on the harpy, dealing five points of damage... Calmer refuses to check the chest, stating he is not a rogue... The party decides to keep the elven chain mail... as Calmer already has superior armor.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "ghasts",
+    "fact": "Two ghasts were encountered in an antechamber and immediately pledged allegiance to the fictional Earth Temple after the party claimed affiliation, revealing prior territorial conquest from a human or elf.",
+    "source_quote": "The ghasts immediately declare allegiance to the Earth Temple, shouting 'Hail the Earth Temple!'... The ghasts reveal they seized the territory from a human or elf, picking up a gnawed bone to demonstrate.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Temple",
+    "fact": "The party fabricated affiliation with the Earth Temple to gain temporary control over the ghasts' territory, and the ghasts accepted the fiction without resistance, indicating willingness to cooperate under false pretenses.",
+    "source_quote": "The party claims to work for the Earth Temple... The ghasts immediately declare allegiance to the Earth Temple... An insight check reveals the ghasts are willing to go along with the fiction.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "elven chain mail",
+    "fact": "Elven chain mail was found hanging on pegs in a carrion-strewn room; it grants a bonus to armor class and allows the wearer to be considered trained with it, but was kept for potential sale rather than worn.",
+    "source_quote": "The party discovers elven chain mail hanging from pegs on the wall... The party discusses the properties of the elven chain mail, which provides a bonus to armor class and allows the wearer to be considered trained with it... The party decides to keep the elven chain mail in their inventory for potential sale.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "broken chest",
+    "fact": "A broken chest in the northwest corner of an abandoned room contained 37 gold, 7 platinum, 92 silver, and 108 copper pieces; it was opened by Sequioa after a successful trap check, and additional treasure was stealthily pocketed.",
+    "source_quote": "Sequioa checks the chest for traps with a roll of twenty-eight and finds none... Sequioa opens the chest and attempts to use stealth to pocket extra treasure, rolling a twenty-six... The chest contains thirty-seven gold pieces, seven platinum pieces, ninety-two silver pieces, and one hundred eight copper pieces.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "harpies' lair",
+    "fact": "The harpies' lair consisted of a central hall where battle occurred, followed by a carrion-strewn room with elven chain mail, and an abandoned room with a broken chest; all were explored after the confrontation.",
+    "source_quote": "The party decides to explore a door to the south of the Harpy Hall... They enter a room reeking of carrion and filth... The party proceeds to another abandoned room littered with rags and bones, containing a broken chest in the northwest corner.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "antechamber with obscene paintings",
+    "fact": "An antechamber with plastered walls covered in obscene paintings and remnants of upholstered furnishings was the site of negotiation with two ghasts, who claimed territorial ownership and were persuaded to pledge allegiance to the Earth Temple.",
+    "source_quote": "The party enters an antechamber with plastered walls covered in obscene paintings and remnants of upholstered furnishings... The party opens a door and encounters two ghasts who question their presence.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "treasure distribution",
+    "fact": "Sequioa distributed looted treasure from the broken chest, giving himself and Zinnia a slightly larger share than Zephyr, with no objection raised despite Zephyr's failed insight check.",
+    "source_quote": "Sequioa distributes the treasure, giving himself and Zinnia a slightly larger share than Zephyr.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "loyalty ritual",
+    "fact": "The party plans to report territorial gains to Romag and is expected to undergo a loyalty ritual as part of payment negotiations, though details remain unconfirmed.",
+    "source_quote": "The party returns to Romag to report their territorial gains, leading to discussions about payment and a planned loyalty ritual.",
+    "quote_verified": true
+  }
+]

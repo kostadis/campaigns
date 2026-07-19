@@ -1,0 +1,194 @@
+[
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a priest who has survived being killed once, and his presence alters the emotional dynamic of interactions, inducing caution or submission in others.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is an information-driven operative with a blunt, confrontational style; he extracts knowledge through pressure and is unbothered by moral ambiguity, but his methods often lack finesse.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia is a hyper-observant professional who reads environments and people with clinical precision; she notices subtle cues \u2014 door movements, body language, environmental grammar \u2014 and files them without immediate judgment.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Kelno",
+    "fact": "Kelno is the Air Temple cleric who quietly orchestrated his faction's infiltration of the collapsing temple war; he let other factions destroy each other while his agents looted and secured resources, positioning himself as the ultimate beneficiary.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "The Freed Prisoner",
+    "fact": "The freed prisoner is a former Air Temple cultist, imprisoned for factional reasons; he is intelligent, pragmatic, and skilled at reading power dynamics \u2014 he traded knowledge of the Deep Temple\u2019s hidden passage for his freedom.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Hartsch",
+    "fact": "Hartsch is the leader of the Obsidian Edge, who summoned Zephyr and the party for an urgent war council, indicating centralized control over the faction\u2019s strategic response to the temple collapse.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Obsidian Edge",
+    "fact": "The Obsidian Edge is a covert faction that ignited the war between the four temples; they deliberately lit the match and stepped back, allowing others to fight while they prepared to claim the aftermath.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Air Temple",
+    "fact": "The Air Temple, under Kelno\u2019s quiet leadership, exploited the chaos of the temple war to infiltrate the prison levels and extract strategic knowledge, positioning its agents to control access to the Deep Temple.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple is represented by the runner who delivered Hartsch\u2019s summons; it appears to be a participant in the Obsidian Edge\u2019s broader strategy, though its internal dynamics remain opaque.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Fire Temple",
+    "fact": "The Fire Temple engaged in open elemental warfare with the Water Temple, contributing to the chaotic destruction that allowed Kelno\u2019s agents to move freely through the lower corridors.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Water Temple",
+    "fact": "The Water Temple fought the Fire Temple with gargoyle elementals, creating a persistent, obscuring battle that masked the movement of other factions through the Hall of Trophies.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Fire Snakes",
+    "fact": "Fire snakes are elemental combatants locked in violent conflict with water gargoyles; they are not sentient negotiators but forces of destruction that sustain chaos until exhausted.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Water Gargoyles",
+    "fact": "Water gargoyles are animated elemental defenders engaged in unyielding combat with fire snakes; they show no tactical retreat or negotiation, only relentless aggression.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Wounded Salamander",
+    "fact": "The wounded salamander is a persistent elemental combatant, still contributing to the battle despite injury; its presence indicates the conflict is not one-sided and may be escalating.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Goblins",
+    "fact": "Goblins are looting agents of Kelno\u2019s faction, moving through hidden passages with bags of coin; they operate with discipline and purpose, not as scavengers but as organized collectors of spoils.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Ghouls",
+    "fact": "Ghouls are Kelno\u2019s secondary looting force, dragging looted weapons with the same purposeful efficiency as the goblins; they are not frenzied undead but methodical agents of factional acquisition.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Second Level Corridors",
+    "fact": "The Second Level Corridors are a ruinous network of stone passages filled with signs of recent looting, blood trails, and abandoned armor; they are a battleground-turned-plunder zone, where factional agents operate unseen.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Hall of Trophies and Elemental Strife",
+    "fact": "The Hall of Trophies is a former celebration space now dominated by elemental warfare; its walls display mummified heads and broken weapons, and its silence is broken only by steam and violence.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Prisoner\u2019s Chamber",
+    "fact": "The Prisoner\u2019s Chamber is a dungeon space saturated with fear and iron; it holds chained captives used as bargaining chips, and its atmosphere reveals the temple\u2019s systematic cruelty toward factional dissidents.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Air Temple Hidden Passage",
+    "fact": "The hidden passage to the Deep Temple is a secret route known only to high-level Air Temple insiders; it was revealed by a prisoner who had direct contact with Kelno, making it a high-value intelligence asset.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "The Map",
+    "fact": "The map is a physical artifact used by the party to navigate the temple; it was annotated by the freed prisoner with the precise location of the hidden passage, turning it from a tool into a key.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Shackles",
+    "fact": "The shackles are iron restraints used to imprison temple dissidents; they were picked cleanly by Zinnia, demonstrating her mastery of mechanical systems and reinforcing her role as an enabler of freedom.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Bags of Coin",
+    "fact": "The bags of coin are looted wealth carried by Kelno\u2019s goblins; each bag weighs approximately sixty pounds and represents the tangible spoils of the temple war, now in the hands of a silent victor.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Temple War Initiation",
+    "fact": "The Obsidian Edge deliberately ignited war between the four temples, creating chaos to mask their own infiltration and resource acquisition; the event was not a collapse but a calculated strategy.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Prisoner Liberation",
+    "fact": "The liberation of the Air Temple cultist was a tactical decision that secured critical intelligence on the Deep Temple\u2019s hidden passage; it was not an act of mercy but a transaction of power.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Elemental Battle in the Hall",
+    "fact": "The sustained elemental conflict between fire snakes and water gargoyles created a self-sustaining veil of steam and noise, enabling the party to move unseen through the Hall of Trophies.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Summoning by Hartsch",
+    "fact": "Hartsch summoned the party for an urgent war council, indicating that the Obsidian Edge is consolidating control over the aftermath of the temple collapse and preparing for its next phase.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Moving Door",
+    "fact": "A door in the Hall of Trophies opened and closed on its own during the elemental battle; it was not a draft or mechanism but likely an observer \u2014 an unknown entity tracking the party\u2019s movements.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Kelno\u2019s True Intent",
+    "fact": "Kelno\u2019s quiet manipulation of the war suggests he is not merely a survivor but a master strategist; his next move \u2014 and whether he intends to ally with or betray the Obsidian Edge \u2014 remains unknown.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Deep Temple\u2019s Nature",
+    "fact": "The Deep Temple is not a destination but a threshold; it is feared, avoided, and shrouded in silence \u2014 its true purpose, occupants, and power remain hidden behind language, fear, and locked doors.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Runner\u2019s Urgency",
+    "fact": "The Earth Temple runner\u2019s immediate summons implies the Obsidian Edge is accelerating its plans; the party\u2019s delay in reaching the Deep Temple may now conflict with a larger, unfolding agenda.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occurred during a single, continuous descent through the temple levels \u2014 a session marked by escalating tension, silent victories, and the slow realization that the party was not the hunters, but the hunted.",
+    "quote_verified": false
+  }
+]

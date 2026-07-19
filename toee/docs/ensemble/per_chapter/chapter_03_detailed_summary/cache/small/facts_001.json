@@ -1,0 +1,110 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia is a master spy who seeks information by mingling with locals, interpreting their rumors as signs of deeper societal fears and allegiances, particularly regarding Verbobonc\u2019s theocratic ambitions and the Temple of Elemental Evil's legacy.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jaroo",
+    "fact": "Jaroo is the keeper of the blessed grove, a druid devoted to Beory, sent to observe post-Temple events. He distrusts Verbobonc\u2019s expansionist agenda, Burne and Rufus\u2019s motives, and Terjon\u2019s silence. He believes Tieflings are unnatural and warns against revealing findings to anyone but him, fearing Temple agents and Verbobonc\u2019s suppression.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia is the voice of the party when Jaroo displays hostility toward Tieflings. Sequoia engages Jaroo to extract intelligence about the Moathouse and the pattern of outposts, and later leads the group to Burne and Rufus to confront the political reality of Verbobonc\u2019s presence.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Burne",
+    "fact": "Burne is a representative of Verbobonc, overseeing the construction of a military tower in Hommlet under the name 'Burne\u2019s Folly.' He is perceived by locals as an agent of cultural assimilation, using the castle to extend the Archibishop\u2019s theocratic control over the region.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Rufus",
+    "fact": "Rufus is Burne\u2019s partner in Verbobonc\u2019s occupation of Hommlet. Together, they represent the political and military arm of the Verbobonc theocracy, with their tower serving as both a symbol of dominance and a potential base for suppressing dissent and monitoring local faiths.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Terjon",
+    "fact": "Terjon is the head cleric of Hommlet who has become closed-mouthed since the disappearance of the previous priest. Locals suspect his complicity in the disappearance, and Jaroo distrusts his alignment with Verbobonc\u2019s agenda, seeing him as a tool of religious absorption.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Verbobonc",
+    "fact": "Verbobonc is a theocratic kingdom committed to St. Cuthbert\u2019s doctrine of proselytization and elimination through conversion. It seeks to absorb Hommlet into its domain, using military infrastructure like the tower to extend ecclesiastical control, suppress local autonomy, and neutralize perceived heresies.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Temple of Elemental Evil",
+    "fact": "The Temple of Elemental Evil was a vast evil organization that once used the Moathouse as an advance base to raid, enslave, and expand its influence in concentric rings around Hommlet. Its defeat at Emiry Meadows ended its direct control, but its legacy persists in the pattern of outposts now being uncovered.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Blessed Grove",
+    "fact": "The Blessed Grove is a sacred site of Beory worship, maintained by Jaroo. It features carefully pruned trees, well-tended grass, a line of bluish stones marking the path, a rock cairn adorned with natural offerings, and a low-roofed wooden building beneath ancient oaks \u2014 all signs of reverence for the natural order.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Moathouse",
+    "fact": "The Moathouse was the original advance outpost of the Temple of Elemental Evil, used to launch raids, enslave villagers, and construct further fortresses westward to spread evil in expanding rings. It is now a ruin, but its pattern echoes in the newly discovered outposts, suggesting a resurgence or revival of the Temple\u2019s strategy.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Burne\u2019s Folly (Tower)",
+    "fact": "Burne\u2019s Folly is a 55-foot military tower under construction in Hommlet, with a 35-foot inner tower rising from the ground. It features machicolated battlements, arrow slits, a curved stone staircase, a lowering bridge-door, and splayed base defenses. Only the tower is complete, manned by two guards, and symbolizes Verbobonc\u2019s intent to dominate Hommlet militarily and theocratically.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Battle of Emiry Meadows",
+    "fact": "The Battle of Emiry Meadows marked the decisive defeat of the Temple of Elemental Evil, halting its expansion from the Moathouse and ending its direct enslavement and fortress-building campaign around Hommlet. Its legacy lives on in the pattern of outposts now being rediscovered.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Pattern of Outposts",
+    "fact": "The newly uncovered outposts mirror the concentric expansion pattern of the original Temple of Elemental Evil. Jaroo believes this is not coincidence \u2014 suggesting the Temple\u2019s influence is reemerging, and the party must investigate the Moathouse to uncover its revival.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Disappearance of the Previous Priest",
+    "fact": "The previous priest of Hommlet has vanished, and Terjon\u2019s silence raises suspicion. Locals and Jaroo suspect his involvement, linking his rise to power with Verbobonc\u2019s encroachment \u2014 implying the Temple\u2019s fall may have been followed by internal religious coup.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Tiefling Perception in Hommlet",
+    "fact": "Jaroo\u2019s visceral disgust toward Tieflings reveals a deep-seated belief among some druids that they are unnatural and outside the prime material plane\u2019s order. This prejudice may influence local attitudes and could be exploited by forces seeking to turn the populace against the party.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Collection Box",
+    "fact": "A collection box sits near the entrance of the Blessed Grove, used by Jaroo to solicit donations from visitors. It is a ritual object of the grove\u2019s economy, symbolizing the exchange of material support for spiritual protection and insight.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Bluish Stone Line",
+    "fact": "A carefully placed line of bluish stones marks the sacred path from the grove to the rock cairn, serving as a boundary between the profane and the sacred. These stones are part of Beory\u2019s naturalist symbolism, guiding pilgrims and defining ritual space.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Planting 15, 579",
+    "fact": "On Planting 15, 579, the party gathers intelligence in Hommlet, uncovering layered suspicions about Verbobonc, the Temple\u2019s resurgence, and the druidic distrust of outsiders \u2014 a day of revelation that sets the course for the Moathouse investigation.",
+    "quote_verified": false
+  }
+]

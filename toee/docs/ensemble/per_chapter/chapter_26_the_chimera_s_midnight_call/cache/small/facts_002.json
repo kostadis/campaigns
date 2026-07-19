@@ -1,0 +1,170 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia used carefully chosen words and a disarming manner to probe Hartsch's true feelings about Romag's passive leadership style, successfully drawing out his desire to seize power.",
+    "source_quote": "Hartsch made no effort to hide his belief in the destructive, earthquake-like power of the earth, nor his desire to wield it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Hartsch",
+    "fact": "Hartsch subtly signaled his ambition to replace Romag as leader of the Earth Temple, expressing that he would consider himself worthy if a position of leadership were to suddenly open.",
+    "source_quote": "I would always, if a position were to suddenly have opened itself, I would absolutely like to think that my faith and my leadership qualities would be considered.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "Romag is the current leader of the Earth Temple, targeted for removal by Hartsch and the party after the Fire Temple's failed assassination attempt with the Chimera.",
+    "source_quote": "Romag expresses outrage over the Fire Temple's audacity and the theft of prisoners.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a cleric of the Earth Temple who uses divine magic to heal allies and harm enemies, but his true allegiance is questioned by Zinnia as he may be acting under cover.",
+    "source_quote": "I have walking band-aids. That's what I have.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is a rogue who successfully disables the Fire Temple warlock by ripping away the control chain of the Chimera, turning the beast against its handler.",
+    "source_quote": "Zephyr slips past the rampaging Chimera and rips the control chain from the Fire Temple warlock's hands, sending the beast into an uncontrolled frenzy.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sequioa",
+    "fact": "Sequioa is a halfling who engages in precise ranged attacks during combat but is frequently overwhelmed by the Chimera\u2019s ferocity, leaving him unconscious multiple times.",
+    "source_quote": "Sequioa hides behind a chest and launches a precise ranged attack, leaving the Chimera on the brink of death.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Fire Temple",
+    "fact": "The Fire Temple attempted to assassinate the party using a Chimera purchased from Nulb's River Pirates, revealing financial overextension and a desire for retribution.",
+    "source_quote": "The party explains that the Fire Temple is financially overextended after purchasing the chimera.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple is currently led by Romag, but internal plotting by Hartsch and the party aims to overthrow him and install Hartsch as the new leader, potentially triggering a three-way war.",
+    "source_quote": "The party begins to consult with Hartsch about the layout of the temple and Alrrem's location.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Nulb's River Pirates",
+    "fact": "Nulb's River Pirates supplied the Chimera\u2019s iron collar and dragging chains, indicating they were paid to transport the monster to the Fire Temple.",
+    "source_quote": "The heavy iron collar and dragging chains... are stamped with the marks of Nulb's River Pirates.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Chimera",
+    "fact": "A Chimera controlled by a Fire Temple warlock was used in an assassination attempt against the party, later breaking free and attacking indiscriminately before being slain by Calmer\u2019s necrotic power.",
+    "source_quote": "A Chimera, controlled by a warlock from the Fire Temple, smashes through the door to attack the party.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Fire Temple Warlock",
+    "fact": "The Fire Temple warlock commanded the Chimera as retribution for the party\u2019s actions against the Fire Temple, but was killed by Zinnia after losing control of the beast.",
+    "source_quote": "The warlock commands the beast to tear the party apart as retribution for their actions against the Fire Temple.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Ledger with Wax-Sealed Receipt",
+    "fact": "A ledger bearing a wax-sealed receipt from Captain Varsik of the Crimson Trader details the purchase of the Chimera, linking the Fire Temple to external mercenary networks.",
+    "source_quote": "The party loots the fallen warlock, discovering a ledger bearing a wax-sealed receipt from Captain Varsik of the Crimson Trader detailing the purchase of the chimera.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Gold Amulet (Eight-Pointed Symbol)",
+    "fact": "A heavy gold amulet depicting the eight-pointed symbol of the Fire Temple was found on the warlock, indicating his high rank and devotion to the temple.",
+    "source_quote": "A heavy gold amulet depicting the eight-pointed symbol of the Fire Temple is found on the warlock.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Potion of Fire Resistance",
+    "fact": "A potion of fire resistance was recovered from the warlock\u2019s belongings, suggesting he intended to use it during combat but never reached for it in the chaos.",
+    "source_quote": "A potion of fire resistance is recovered, which the warlock had apparently intended to use but never reached for in the chaos.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Masterwork Whip (Red Leather)",
+    "fact": "A masterwork whip woven with alchemically treated red leather was found among the warlock\u2019s possessions, possibly used for controlling the Chimera or as a weapon.",
+    "source_quote": "A masterwork whip woven with alchemically treated red leather is found among the warlock's belongings.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Iron Collar and Dragging Chains",
+    "fact": "The iron collar and dragging chains used to control the Chimera are stamped with the marks of Nulb's River Pirates, revealing a covert supply chain for the Fire Temple\u2019s weapon.",
+    "source_quote": "The heavy iron collar and dragging chains used to control the beast are found to be stamped with the marks of Nulb's River Pirates.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Chimera Ambush",
+    "fact": "The Fire Temple launched a violent ambush using a Chimera to assassinate the party, resulting in a chaotic battle that ended with the beast\u2019s death and the warlock\u2019s elimination.",
+    "source_quote": "While the party attempts to take a long rest, Zinnia hears strange noises outside their door, leading to a sudden and violent ambush.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Romag\u2019s Order to Strike",
+    "fact": "After learning of the Fire Temple\u2019s failed assassination, Romag ordered the party to eliminate Alrrem, the Fire Temple\u2019s leader, declaring the moment to strike was now.",
+    "source_quote": "Romag orders the party to deal with Alrrem, the leader of the Fire Temple, declaring that the moment to strike is now.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Hartsch\u2019s Ambition Revealed",
+    "fact": "During a private meeting, Hartsch revealed his ambition to replace Romag as Earth Temple leader, subtly signaling the party to assassinate Romag and install him in his place.",
+    "source_quote": "The party meets privately with Hartsch to gauge his loyalty and ambition, and begins plotting to overthrow Romag.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Three-Way War Plot",
+    "fact": "The party is plotting to assassinate Romag, install Hartsch as leader of the Earth Temple, and engineer a three-way war between the Earth, Fire, and Water temples to destroy all three factions from within.",
+    "source_quote": "With a plan taking shape to assassinate Romag, install Hartsch as the Earth Temple's new leader, and ultimately engineer a three-way war between the Earth, Fire, and Water temples to destroy all three factions from within, the party quietly agreed that the time for subtlety was nearly over.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple is the current base of operations for Romag and Hartsch, and is the target of an internal coup by the party and Hartsch.",
+    "source_quote": "The party begins to consult with Hartsch about the layout of the temple and Alrrem's location.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Fire Temple",
+    "fact": "The Fire Temple is the origin of the Chimera attack and is now marked for destruction by Romag and the party after its failed assassination attempt.",
+    "source_quote": "Romag expresses outrage over the Fire Temple's audacity and the theft of prisoners.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Nulb",
+    "fact": "Nulb is the origin point of the Chimera\u2019s control equipment, indicating that the River Pirates were paid to transport the monster to the Fire Temple.",
+    "source_quote": "The heavy iron collar and dragging chains... are stamped with the marks of Nulb's River Pirates.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occurred during a single session of play, beginning with a long rest ambush and culminating in a private coup plot.",
+    "source_quote": "While the party attempts to take a long rest... The party meets privately with Hartsch...",
+    "quote_verified": false
+  }
+]

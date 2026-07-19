@@ -1,0 +1,198 @@
+[
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "Romag was the Supreme Prophet of the Earth Temple, advocating passive endurance through the 'slow, erosive power of dust,' until he was assassinated by the party and Hartsch in his private chambers.",
+    "source_quote": "Romag lectured Hartsch on the 'slow, erosive power of dust' while Hartsch barely concealed his disdain.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Hartsch",
+    "fact": "Hartsch was Romag's sub-general, secretly resentful of passive leadership, who seized power after Romag's assassination, declared himself Supreme Prophet, and rebranded the party as the Obsidian Edge.",
+    "source_quote": "Hartsch immediately recognized what was happening, surrendered his weapons, and stood down \u2014 then marked his hands with Romag's blood and declared a new era.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia led the fatal assault on Romag, delivering a series of devastating strikes that contributed to his death, and is now a core member of the Obsidian Edge.",
+    "source_quote": "Zinnia delivered a series of devastating strikes.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sequioa",
+    "fact": "Sequioa eavesdropped on Romag and Hartsch\u2019s conversation, noted the open southern door as a tactical threat, and joined the assassination with precise blows.",
+    "source_quote": "Sequioa sneaked behind a curtain to eavesdrop... noticed that the door to the south was open.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr orchestrated the assassination by using Thaumaturgy to slam the chamber doors shut, isolating Romag, and reasoned that killing the boss makes the killer the new boss.",
+    "source_quote": "Zephyr uses Thaumaturgy to slam the doors... Zephyr reasons that killing the boss in a cultist hierarchy means the killer is assumed to be the new boss.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer invoked a necrotic resonance like a tolling funeral bell during Romag\u2019s assassination, causing him to wither and die.",
+    "source_quote": "Calmer invokes a necrotic resonance like a tolling funeral bell, causing Romag to wither and die.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Dren",
+    "fact": "Dren is the leader of the Crimson Guard, who facilitated the morning meeting with Romag at the party\u2019s request and later rallied his men for war after being convinced by the party.",
+    "source_quote": "Dren, impressed by the party's victory over the Chimera, agrees to facilitate the meeting... Dren rallies his men with promises of plunder and blood.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Alrrem",
+    "fact": "Alrrem is the leader of the Fire Temple, who was deceived by the party into believing the Water Temple orchestrated the Chimera incident to bankrupt him, prompting him to launch a full-scale attack.",
+    "source_quote": "The party negotiates with Alrrem through the door... Enraged by the news of the betrayal, Alrrem orders his troops to immediately attack the Water Temple.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Belsornig",
+    "fact": "Belsornig is the prophet of the Water Temple, revealed by the warlock\u2019s ledger as the true orchestrator of the Chimera\u2019s purchase, and is now the target of the Fire Temple\u2019s wrath.",
+    "source_quote": "Revealing the Water Temple's prophet Belsornig as the orchestrator.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple, formerly led by Romag with a philosophy of passive endurance, is now under Hartsch\u2019s command as a militant force seeking total destruction, with the party serving as its elite vanguard, the Obsidian Edge.",
+    "source_quote": "Hartsch declares himself Supreme Prophet... The party adopts the moniker 'The Obsidian Edge' as Hartsch's personal agents of chaos.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Fire Temple",
+    "fact": "The Fire Temple, led by Alrrem, was manipulated by the party into attacking the Water Temple after being falsely informed that Belsornig orchestrated the Chimera incident to bankrupt him.",
+    "source_quote": "The party slips a note under the Fire Temple's door... Enraged by the news of the betrayal, Alrrem orders his troops to immediately attack the Water Temple.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Water Temple",
+    "fact": "The Water Temple, led by Belsornig, is the true rival of the Earth Temple and the target of the Fire Temple\u2019s assault, having been framed by the party as the architect of the Chimera incident.",
+    "source_quote": "Revealing the Water Temple's prophet Belsornig as the orchestrator.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Chimera",
+    "fact": "The Chimera was a controlled creature used as a weapon, bound by an iron collar stamped with the marks of Nulb's river pirates, and its purchase was linked to Captain Vesrek via the warlock\u2019s ledger.",
+    "source_quote": "The iron collar and chains used to control the Chimera are found to be stamped with the marks of Nulb's river pirates... linking the Chimera's purchase to Captain Vesrek.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Wax-sealed ledger",
+    "fact": "A wax-sealed ledger recovered from the warlock\u2019s charred remains linked the Chimera\u2019s purchase to Captain Vesrek of the Crimson Traitor and revealed Belsornig as the orchestrator.",
+    "source_quote": "Finding a wax-sealed ledger linking the Chimera's purchase to Captain Vesrek... revealing the Water Temple's prophet Belsornig as the orchestrator.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Heavy gold Fire Temple amulet",
+    "fact": "A heavy gold amulet from the Fire Temple, never reached for by the warlock, was recovered during the looting of his remains.",
+    "source_quote": "The party also discovers a heavy gold Fire Temple amulet, a potion of fire resistance the warlock never reached for.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Masterwork alchemically treated red leather whip",
+    "fact": "A masterwork, alchemically treated red leather whip was found among the warlock\u2019s belongings.",
+    "source_quote": "And a masterwork alchemically treated red leather whip.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Iron collar and chains",
+    "fact": "The iron collar and chains used to control the Chimera were stamped with the marks of Nulb's river pirates.",
+    "source_quote": "The iron collar and chains used to control the Chimera are found to be stamped with the marks of Nulb's river pirates.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Assassination of Romag",
+    "fact": "Romag was assassinated in his private chambers by the party, who used magic to isolate him, then overwhelmed him with physical and necrotic attacks, leading to Hartsch\u2019s ascension.",
+    "source_quote": "Zephyr uses Thaumaturgy to slam the doors... Zinnia delivered a series of devastating strikes... Calmer invokes a necrotic resonance... Romag withers and dies.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Rise of the Obsidian Edge",
+    "fact": "Following Romag\u2019s death, Hartsch formally installed the party as his elite vanguard, the Obsidian Edge, and declared a new era of destructive ambition for the Earth Temple.",
+    "source_quote": "The party adopts the moniker 'The Obsidian Edge' as Hartsch's personal agents of chaos.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Fire Temple\u2019s attack on Water Temple",
+    "fact": "The Fire Temple, deceived by a forged note from the party, launched an immediate assault on the Water Temple, believing Belsornig had orchestrated the Chimera incident to bankrupt Alrrem.",
+    "source_quote": "The party slips a note under the Fire Temple's door... Enraged by the news of the betrayal, Alrrem orders his troops to immediately attack the Water Temple.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Earth Temple\u2019s full-scale assault",
+    "fact": "After confirming the Fire Temple was distracted by its attack on the Water Temple, Hartsch ordered the Earth Temple to launch a full-scale invasion.",
+    "source_quote": "The party informs Hartsch that the Fire Temple is now distracted... prompting Hartsch to order a full-scale assault.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Bottleneck at the Barricade",
+    "fact": "The Earth Temple\u2019s advance was halted by a Fire Temple barricade, creating a tactical stalemate that requires the Obsidian Edge to break through.",
+    "source_quote": "As the three-way war erupts, the Earth Temple's advance is stalled by a Fire Temple barricade, and the party is called upon to break the stalemate.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "True allegiance of Hartsch",
+    "fact": "Hartsch\u2019s ambition and willingness to seize power suggest he may be manipulating the party as much as they are manipulating him \u2014 his true loyalties remain unresolved.",
+    "source_quote": "Hartsch makes clear he would consider himself worthy of leadership if a position were to open.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Fate of the Chimera\u2019s controllers",
+    "fact": "The identity and current status of Nulb's river pirates, who controlled the Chimera, remain unknown \u2014 they may be a hidden faction or mercenaries still active.",
+    "source_quote": "The iron collar and chains... stamped with the marks of Nulb's river pirates.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Crimson Traitor\u2019s involvement",
+    "fact": "Captain Vesrek of the Crimson Traitor is named in the ledger as the purchaser of the Chimera \u2014 their motives and current whereabouts are unknown.",
+    "source_quote": "Linking the Chimera's purchase to Captain Vesrek of the Crimson Traitor.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Earth Temple\u2019s inner sanctum",
+    "fact": "The Earth Temple\u2019s inner sanctum contains a sleeping chamber with earthen motifs, dirt-covered floors, a small altar, and personal notes \u2014 where Romag was assassinated and Hartsch ascended.",
+    "source_quote": "They enter a sleeping chamber decorated with earthen motifs, dirt-covered floors, a small local altar, and a desk with personal notes.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Second level corridor",
+    "fact": "A magically lit corridor with brass doors and a massive bronze portcullis leads to the Fire Temple \u2014 used by the party to deliver the betrayal note.",
+    "source_quote": "The party descends to the second level, passing through a magically lit corridor with brass doors and a massive bronze portcullis.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events of the coup, assassination, and temple war occurred during a single session of play, culminating in the bottleneck at the barricade.",
+    "source_quote": "The party formulates a bold plan... The party executes a surgical coup... The three-way war erupts... The Earth Temple's advance is stalled.",
+    "quote_verified": false
+  }
+]

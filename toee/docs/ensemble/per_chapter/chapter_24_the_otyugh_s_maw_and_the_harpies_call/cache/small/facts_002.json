@@ -1,0 +1,128 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia was poisoned and weakened by the Otyugh's bite, managed to break free, and later delivered the final strikes that killed the creature. He was revived by Calmer's healing energy and is now recovered but still suffering from lingering poison.",
+    "source_quote": "Zinnia wrenched himself free, collapsed unconscious, then rose to strike the Otyugh down as it died.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr was grappled by the Otyugh's tentacles, fought from a constrained position, and was later freed from the dead creature's remains. He is now trapped in a sealed chamber and vulnerable to the harpies' song despite being immune to it.",
+    "source_quote": "Zephyr continued to fight while grappled, was cut free from the corpse, and now hears the harpies' song while trapped.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sequioa",
+    "fact": "Sequioa unleashed repeated attacks against the Otyugh, struck it with fatal blows, and later succumbed to the harpies' song, his mind clouded by enchantment.",
+    "source_quote": "Sequioa's weapons found purchase again and again, then he succumbed as the harpies' song filled the chamber.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer channeled healing energy into Zinnia, revived him from death, and later cut Zephyr free from the Otyugh's tentacles. He remarked pointedly on the healer's role and suggested searching the refuse.",
+    "source_quote": "Calmer performed his duty, freed Zephyr, and cut down the healer's front-line folly with a sharp remark.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Fire Temple",
+    "fact": "The Fire Temple is implied to have been used as a source of victims for Romag\u2019s Otyugh, as evidenced by the discovery of a rusted, bent breastplate bearing its symbol.",
+    "source_quote": "The breastplate bore the symbol of the Fire Temple \u2014 a chilling implication of ritual disposal.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Romag",
+    "fact": "Romag is suspected of using the Otyugh as a living disposal system for his rivals, feeding them to the creature. The party believes he may be angered by their killing of his pet.",
+    "source_quote": "Romag sometimes fed his rivals to this creature, using it as a living disposal system for his enemies.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Otyugh",
+    "fact": "The Otyugh was a grotesque, tentacled predator that grappled Zinnia and Zephyr, bit them with poison, and was ultimately slain by Zinnia after sustained attacks. It stunned Sequioa and Zephyr with a final slam before dying.",
+    "source_quote": "It dragged Zinnia toward its maw, bit down hard, lashed out with tentacles, and slammed its limbs to stun its foes.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Harpies",
+    "fact": "Three harpies emerged from shadows, their song filling the chamber with magical compulsion. One has already charmed Sequioa; the other two threaten to charm the rest. Zephyr is immune but recognizes the danger to the party.",
+    "source_quote": "Harpies emerged, their haunting song washing over the party \u2014 Sequioa succumbed, Zephyr recognized the threat of the other two.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Otyugh's death",
+    "fact": "The Otyugh was killed after a prolonged battle, culminating in Zinnia\u2019s final strikes. Its death freed Zephyr and triggered the party\u2019s search of its refuse.",
+    "source_quote": "As it died, Calmer remarked on the healer\u2019s role and cut Zephyr free from the tentacles.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "chamber sealing",
+    "fact": "A gate dropped behind the party as they entered a new chamber, sealing them in and trapping them with the harpies.",
+    "source_quote": "An ominous click sounded, and a gate suddenly dropped behind them, sealing them in the room.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "harpies' song activation",
+    "fact": "The harpies' magical song has been activated, enchanting Sequioa and threatening to charm the entire party. Zephyr is immune but recognizes the danger.",
+    "source_quote": "They heard the sound of singing \u2014 beautiful, haunting, and utterly compelling. The song filled the chamber, its magical compulsion washing over the party.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "glass vial",
+    "fact": "A glass vial containing a potion of greater healing was found inside the Otyugh\u2019s body, sticky and foul-smelling but intact.",
+    "source_quote": "A glass vial containing a potion of greater healing had somehow survived intact inside the creature's body, though it was sticky and smelled terrible.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "rusted breastplate",
+    "fact": "A rusted, bent breastplate bearing the symbol of the Fire Temple was discovered among the Otyugh\u2019s refuse, implying ritual sacrifice by Romag.",
+    "source_quote": "More disturbing was their discovery of a rusted, bent breastplate bearing the symbol of the Fire Temple.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "silver and gold pieces",
+    "fact": "The party recovered one hundred eighty silver pieces and fifteen gold pieces from the Otyugh\u2019s refuse.",
+    "source_quote": "Their efforts were rewarded with the discovery of one hundred eighty silver pieces, fifteen gold pieces...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Romag's retaliation",
+    "fact": "The party believes Romag may be angered by their killing of his Otyugh, potentially triggering future retaliation.",
+    "source_quote": "The party realized that Romag might not be pleased to discover they had killed his pet monster.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "harpies' trap",
+    "fact": "The party is trapped in a sealed chamber with harpies whose song can compel them to follow the creatures heedlessly into danger, with one member already charmed.",
+    "source_quote": "Trapped in a sealed chamber under threat from the harpies' magical influence, that could compel them to follow the creatures heedless of any danger that might await their victims.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Zephyr's immunity",
+    "fact": "Zephyr is immune to the harpies' song but realizes the other two harpies can still charm the rest of the party, creating a critical vulnerability.",
+    "source_quote": "Zephyr realizes that this is the song of only one of the harpies. And that although immune to its song, the other two could charm him and the rest of the party.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "sealed chamber",
+    "fact": "The party is now trapped in a sealed chamber with harpies, having entered it after killing the Otyugh and discovering its hoard.",
+    "source_quote": "As they stepped inside, they heard an ominous click, and a gate suddenly dropped behind them, sealing them in the room.",
+    "quote_verified": true
+  }
+]

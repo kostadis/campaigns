@@ -1,0 +1,1563 @@
+[
+  {
+    "type": "npc",
+    "subject": "Tharok",
+    "fact": "Tharok's skin is mottled like cracked stone and his eyes burn with fervent intensity.",
+    "source_quote": "High Cultist Tharok stood before the altar, his imposing form marked by skin mottled like cracked stone and eyes burning with fervent intensity.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Warda",
+    "fact": "Warda is a gnome nationalist who opposes imperial expansion.",
+    "source_quote": "Warda, a gnome nationalist, were engaged in heated political arguments even while imprisoned. Despite their ideological differences \u2014 Jerry representing Verbabonc\u2019s interests and Warda opposing what she saw as imperial expansion \u2014 both agreed to help fight the cultists.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jerry",
+    "fact": "Jerry is a soldier of Verbabonc who revealed knowledge passed down from his grandmother who once worshipped Beory.",
+    "source_quote": "Jerry revealed crucial information about a secret passageway to the deeper temple, knowledge passed down from his grandmother who had once worshipped Beory in these halls.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Brother Eldrin",
+    "fact": "Brother Eldrin\u2019s stone guardian presented a riddle about the eternal cycles of nature, testing understanding of Beory\u2019s old faith.",
+    "source_quote": "The party encountered Brother Eldrin\u2019s stone guardian in an ancient library. The guardian presented them with a riddle about the eternal cycles of nature, testing their understanding of Beory\u2019s old faith.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr successfully identified the answer as the water cycle, demonstrating wisdom that honored the old ways.",
+    "source_quote": "Zephyr successfully identified the answer as the water cycle, demonstrating wisdom that honored the old ways.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequioa",
+    "fact": "Sequioa recognized that disrupting the ritual itself might weaken their enemy and rushed to the altar, knocking the Chest of Rao from its resting place.",
+    "source_quote": "Sequioa recognized that disrupting the ritual itself might weaken their enemy and rushed to the altar, knocking the Chest of Rao from its resting place.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr struck with deadly precision, landing a critical blow against the high cultist.",
+    "source_quote": "Zephyr struck with deadly precision, landing a critical blow against the high cultist.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia launched a flurry of attacks that struck true, dealing a total of 14 points of damage and finally felling the formidable High Cultist Tharok.",
+    "source_quote": "Zinnia capitalized on the opportunity, launching a flurry of attacks that struck true, dealing a total of 14 points of damage and finally felling the formidable High Cultist Tharok.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer blessed the party with divine magic to aid their efforts.",
+    "source_quote": "Calmer blessed the party with divine magic to aid their efforts.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer targeted the high cultist with a Guiding Bolt, dealing 9 damage and granting Zinnia advantage on her next strike.",
+    "source_quote": "Calmer targeted the high cultist with a Guiding Bolt, dealing 9 damage and granting Zinnia advantage on her next strike.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia delivered the final strike, knocking Thorne unconscious.",
+    "source_quote": "Sequoia delivered the final strike, knocking Thorne unconscious.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Gremag",
+    "fact": "Gremag immediately initiated combat, attacking Zinnia.",
+    "source_quote": "Gremag immediately initiated combat, attacking Zinnia.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia was knocked unconscious with the second hit from Gremag\u2019s brutal strikes.",
+    "source_quote": "Gremag retaliated with two swift and brutal strikes, first severely injuring Zinnia and then knocking her unconscious with the second hit.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer finally landed a critical blow, hitting Gremag and instantly killing the Temple operative.",
+    "source_quote": "Calmer finally landed a critical blow, hitting Gremag and instantly killing the Temple operative.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia struck, wounding Rannos for a massive 26 points of damage.",
+    "source_quote": "Sequoia struck, wounding Rannos for a massive 26 points of damage.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Chest of Rao",
+    "fact": "The Chest of Rao is an artifact of great good built by the high priests of Rao, but it is extremely dangerous to possess, as it attracts both those who would claim it for evil and the forces of good who would reclaim it for the Archclericy of Veluna.",
+    "source_quote": "He explained that Rao is the patron of peace and harmony, and the chest is an artifact of great good built by the high priests of Rao. He warned that the chest was extremely dangerous to possess, as it would attract both those who would claim it for evil\u2014using it as a powerful magical battery\u2014and the forces of good who would reclaim it for the Archclericy of Veluna.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Tharok\u2019s ritual",
+    "fact": "Tharok\u2019s ritual was disrupted but its full purpose and intended outcome remain unspecified in this session.",
+    "source_quote": "High Cultist Tharok... was reeling from having his vital ritual disrupted, but still posed a lethal threat.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The secret passageway",
+    "fact": "The origin and full extent of the secret passageway leading to the deeper temple remain unspecified in this session.",
+    "source_quote": "Jerry revealed crucial information about a secret passageway to the deeper temple...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Tharok",
+    "fact": "Tharok declared the intruders defilers of his sacred ritual and threatened that the earth itself would swallow them whole.",
+    "source_quote": "When Tharok spotted the intruders, he declared them defilers of his sacred ritual and threatened that the earth itself would swallow them whole.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Tharok",
+    "fact": "Tharok struck Jerry with devastating attacks, his body crumpling under the elemental fury.",
+    "source_quote": "Jerry charged bravely toward the high cultist but was struck down by Tharok\u2019s devastating attacks, his body crumpling under the elemental fury.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Tharok",
+    "fact": "Tharok\u2019s earth magic caused the entire chamber to quake violently, dust and stones cascading from the ceiling as tremors knocked several party members to the ground.",
+    "source_quote": "Tharok\u2019s earth magic caused the entire chamber to quake violently, dust and stones cascading from the ceiling as tremors knocked several party members to the ground.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Tharok",
+    "fact": "Tharok hurled Zephyr backward with a devastating blow while his elemental magic continued to make the chamber tremble.",
+    "source_quote": "Tharok retaliated with earth-shaking force, hurling Zephyr backward with a devastating blow while his elemental magic continued to make the chamber tremble.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Warda",
+    "fact": "Warda continued fighting despite witnessing Jerry\u2019s death, her hatred for imperial forces now focused on the cultist threat.",
+    "source_quote": "Warda continued fighting despite witnessing Jerry\u2019s death, her hatred for imperial forces now focused on the cultist threat.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia and Zephyr landed severe blows on Gremag, wounding him deeply.",
+    "source_quote": "Zinnia and Zephyr landed severe blows on Gremag, wounding him deeply.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia continued the assault, dealing a total of 25 points of damage.",
+    "source_quote": "Sequoia continued the assault, dealing a total of 25 points of damage.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr landed multiple hits on Thorne, followed by Zinnia.",
+    "source_quote": "Zephyr landed multiple hits, followed by Zinnia.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr moved to secure a position, granting Sequoia the advantage he needed.",
+    "source_quote": "Zephyr moved to secure a position, granting Sequoia the advantage he needed.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer called upon divine power during the battle.",
+    "source_quote": "Calmer called upon divine power and Zinnia pressed the attack with relentless strikes.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Tharok",
+    "fact": "Tharok remained standing as the session concluded, the outcome of this crucial confrontation still hanging in the balance.",
+    "source_quote": "Though bloodied and battered, the high cultist remained standing as the session concluded, the outcome of this crucial confrontation still hanging in the balance.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Tharok",
+    "fact": "Tharok was felled by Zinnia\u2019s flurry of attacks, dealing a total of 14 points of damage.",
+    "source_quote": "Zinnia capitalized on the opportunity, launching a flurry of attacks that struck true, dealing a total of 14 points of damage and finally felling the formidable High Cultist Tharok.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Warda",
+    "fact": "Warda opened the round, landing a single strike against the cultist after two initial misses.",
+    "source_quote": "The gnome nationalist Warda opened the round, landing a single strike against the cultist after two initial misses.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Warda",
+    "fact": "Warda was struck with a devastating blow by Tharok that dealt 29 damage.",
+    "source_quote": "The enraged Tharok lashed out, striking Warda with a devastating blow that dealt 29 damage...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Tharok",
+    "fact": "Tharok\u2019s subsequent attacks missed their mark after striking Warda.",
+    "source_quote": "...though his subsequent attacks missed their mark.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr followed Warda, landing a strong blow bolstered by a Sneak Attack.",
+    "source_quote": "Zephyr followed, landing a strong blow bolstered by a Sneak Attack.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Rannos",
+    "fact": "Rannos dismissed Thorne as useless and demanded the Chest of Rao.",
+    "source_quote": "Rannos immediately dismissed Thorne as useless and demanded the Chest of Rao.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Rannos",
+    "fact": "Rannos mocked the party when they attempted to negotiate for the Temple to leave the region.",
+    "source_quote": "When the party attempted to negotiate for the Temple to leave the region, Rannos and Gremag mocked them...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Rannos",
+    "fact": "Rannos was severely wounded by Sequoia\u2019s final strike, leaving him alive but incapacitated.",
+    "source_quote": "Sequoia struck, wounding Rannos for a massive 26 points of damage.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Gremag",
+    "fact": "Gremag was instantly killed by Calmer\u2019s critical blow.",
+    "source_quote": "Calmer finally landed a critical blow, hitting Gremag and instantly killing the Temple operative.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorne",
+    "fact": "Thorne was knocked unconscious and interrogated, confirming he was a simple hired hand.",
+    "source_quote": "Interrogating the mercenary, they confirmed he was a simple hired hand who would rather be left for dead than face the wrath of the cult.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Brother Eldin",
+    "fact": "Brother Eldin was alive but wounded and relieved to learn that Tharok had been vanquished.",
+    "source_quote": "They found Brother Eldin, who was alive but wounded. Brother Eldin was relieved to learn that Tharok had been vanquished...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Brother Eldin",
+    "fact": "Brother Eldin declared the Abbey of Beory safe once more.",
+    "source_quote": "Brother Eldin declared the Abbey of Beory safe once more.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Brother Eldin",
+    "fact": "Brother Eldin offered the adventurers 70 gold pieces, 400 silver pieces, and 400 copper pieces each, along with a Scroll of Web and a Potion of Greater Healing.",
+    "source_quote": "He offered the adventurers a reward for their service: Wealth: 70 gold pieces, 400 silver pieces, and 400 copper pieces each. Magic Items: A Scroll of Web and a Potion of Greater Healing.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party chose to use the Chest of Rao as powerful leverage in their ongoing conflict with the Temple's agents in Hommlet.",
+    "source_quote": "Despite the warnings, the party chose to use the Chest of Rao as powerful leverage in their ongoing conflict with the Temple's agents in Hommlet.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party sent a note to the agents requesting a meeting behind the carpenter's field.",
+    "source_quote": "The party sent a note to the agents, requesting a meeting behind the carpenter's field.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party retreated to the Inn of the Welcome Wench to wait and plan, where Calmer purchased an expensive gnomish mead.",
+    "source_quote": "The party retreated to the Inn of the Welcome Wench to wait and plan, where Calmer purchased an expensive gnomish mead.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party moved to the shop's back area and lured out Thorne, launching a surprise attack.",
+    "source_quote": "Under the cover of night, the party moved to the shop's back area and lured out their first target, Thorne (Duke), the man-at-arms hired by Rannos. They instantly launched a surprise attack...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party entered the inner office to confront Rannos and his bodyguard, Gremag.",
+    "source_quote": "Armed with the unconscious Thorne, the party entered the inner office to confront Rannos and his bodyguard, Gremag.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party annihilated the local leadership of the Temple operation in Hommlet: Gremag dead and Rannos severely wounded.",
+    "source_quote": "The session concluded with the local leadership of the Temple operation in Hommlet annihilated: Gremag dead and Rannos severely wounded, leaving the Chest of Rao in the hands of the victorious adventurers.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party secured the Chest of Rao and fled through the secret passageway after the ritual chamber collapsed.",
+    "source_quote": "After a quick debate, they decided to secure the Chest of Rao\u2014the powerful artifact radiating both protective and corruptive energy\u2014and fled through the secret passageway.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party arrived safely back in the main abbey.",
+    "source_quote": "The party arrived safely back in the main abbey...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party eliminated the traders Rannos and Gremag, who were working for the Temple of Elemental Evil.",
+    "source_quote": "They planned to eliminate the traders Rannos and Gremag, who they knew were working for the Temple of Elemental Evil.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the Chest of Rao as leverage to confront the Temple\u2019s agents.",
+    "source_quote": "They planned to eliminate the traders Rannos and Gremag, who they knew were working for the Temple of Elemental Evil.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party successfully completed their mission to destroy the Temple\u2019s local leadership in Hommlet.",
+    "source_quote": "The session concluded with the local leadership of the Temple operation in Hommlet annihilated: Gremag dead and Rannos severely wounded...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the secret passageway revealed by Jerry to access the deeper temple.",
+    "source_quote": "Jerry revealed crucial information about a secret passageway to the deeper temple...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party followed the secret passage to the heart of the monastery and emerged into the vast ritual chamber.",
+    "source_quote": "Armed with scimitars taken from the fallen cultists, the group followed the secret passage to the heart of the monastery. They emerged into a vast ritual chamber...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party overheard cultists discussing Tharok\u2019s impending ritual.",
+    "source_quote": "Moving stealthily through the stone corridors, the party overheard cultists excitedly discussing Tharok\u2019s impending ritual and wishing they could witness the momentous event.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party eliminated the cultist guards silently and found a key among their possessions.",
+    "source_quote": "Sequioa and Zephyr eliminated the guards silently, finding a key among their possessions.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party unlocked a prison chamber where Jerry and Warda were being held.",
+    "source_quote": "The key unlocked a prison chamber where two captives were being held for torture. Jerry, a soldier of Verbabonc, and Warda, a gnome nationalist...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party explained the dire threat to Jerry and Warda, convincing them to help fight the cultists.",
+    "source_quote": "both agreed to help fight the cultists after the party explained the dire threat.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party encountered Brother Eldrin\u2019s stone guardian in the ancient library.",
+    "source_quote": "The party encountered Brother Eldrin\u2019s stone guardian in an ancient library.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party discovered that the elemental temple factions operated like competing mob families.",
+    "source_quote": "The party discovered that the various elemental temple factions operated like competing mob families, each controlling different territories and fighting for dominance.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party learned that Lareth controlled the fire temple territory and had been using them to eliminate earth temple gangs.",
+    "source_quote": "Lareth controlled the fire temple territory and had been using the party to eliminate earth temple gangs, expanding his own power base.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party learned that all factions ultimately answered to the Temple of Elemental Evil.",
+    "source_quote": "However, all these factions ultimately answered to the Temple of Elemental Evil, the overarching criminal organization pulling the strings.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party learned that the Chest of Rao served as the prize everyone sought.",
+    "source_quote": "The Chest of Rao served as the prize everyone sought \u2014 a powerful magical battery capable of fueling devastating rituals...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party discovered that Verbabonc\u2019s construction of a strategic castle in Hommlet served as force projection.",
+    "source_quote": "Verbabonc\u2019s construction of a strategic castle in Hommlet served as force projection, much like a medieval aircraft carrier...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party learned that the gnomes viewed this expansion as imperialism.",
+    "source_quote": "The gnomes viewed this expansion as imperialism, while Verbabonc claimed it was necessary protection against the Temple of Elemental Evil.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party learned that the political landscape and ongoing conflicts centered on territorial disputes over valuable gem mines.",
+    "source_quote": "The party learned about the tensions between Verbabonc and the gnomes of the Kron Hills, where territorial disputes over valuable gem mines had created a powder keg of conflict.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party discovered that the Chest of Rao radiates both protective magic and creeping corruption.",
+    "source_quote": "The Chest of Rao rested upon the altar, radiating both protective magic and creeping corruption, while arcane symbols floated above it in eerie greenish-gold light.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party saw that the floor bore concentric rings of golden runes representing elemental power.",
+    "source_quote": "The floor bore concentric rings of golden runes representing elemental power...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party witnessed that the very air vibrated with raw magical energy that made the chamber feel alive.",
+    "source_quote": "...and the very air vibrated with raw magical energy that made the chamber feel alive.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party saw that the chamber had ancient stone carved with intricate elemental motifs and towering pillars like colossal trees.",
+    "source_quote": "They emerged into a vast ritual chamber that took their breath away \u2014 ancient stone carved with intricate elemental motifs, towering pillars like colossal trees, and a massive cracked altar at the center.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party saw that the three robed cultists knelt around Tharok in reverence, their whispered invocations weaving into the elemental hum.",
+    "source_quote": "Three robed cultists knelt around him in reverence, their whispered invocations weaving into the elemental hum that filled the air.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party overheard cultists wearing brown robes marked with triangle symbols.",
+    "source_quote": "The cultists wore brown robes marked with triangle symbols, indicating their allegiance to the earth temple faction.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party found that the guardian became inanimate after declaring their worthiness.",
+    "source_quote": "The guardian declared their worthiness and became inanimate, opening the passage deeper into the monastery complex.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party found that the chest was an artifact of great good built by the high priests of Rao.",
+    "source_quote": "He explained that Rao is the patron of peace and harmony, and the chest is an artifact of great good built by the high priests of Rao.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party learned that the chest would attract those who would claim it for evil and the forces of good who would reclaim it for the Archclericy of Veluna.",
+    "source_quote": "He warned that the chest was extremely dangerous to possess, as it would attract both those who would claim it for evil\u2014using it as a powerful magical battery\u2014and the forces of good who would reclaim it for the Archclericy of Veluna.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party decided to use the Chest of Rao as leverage despite the warnings.",
+    "source_quote": "Despite the warnings, the party chose to use the Chest of Rao as powerful leverage in their ongoing conflict with the Temple's agents in Hommlet.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the key found among the cultist guards to unlock the prison chamber.",
+    "source_quote": "The key unlocked a prison chamber where two captives were being held for torture.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used scimitars taken from fallen cultists to fight their way to the ritual chamber.",
+    "source_quote": "Armed with scimitars taken from the fallen cultists, the group followed the secret passage to the heart of the monastery.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used divine magic from Calmer to aid their efforts in battle.",
+    "source_quote": "Calmer blessed the party with divine magic to aid their efforts.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used stealth to eliminate cultist guards and find the key.",
+    "source_quote": "Sequioa and Zephyr eliminated the guards silently, finding a key among their possessions.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used surprise attack to overwhelm Thorne.",
+    "source_quote": "They instantly launched a surprise attack, quickly overwhelming the mercenary.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used advantage granted by Zephyr\u2019s positioning to land a critical strike on Rannos.",
+    "source_quote": "Zephyr moved to secure a position, granting Sequoia the advantage he needed.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the Chest of Rao to negotiate with Rannos and Gremag.",
+    "source_quote": "Rannos immediately dismissed Thorne as useless and demanded the Chest of Rao.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the information from Jerry to access the deeper temple.",
+    "source_quote": "Jerry revealed crucial information about a secret passageway to the deeper temple...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the knowledge of Beory\u2019s old faith to answer the guardian\u2019s riddle.",
+    "source_quote": "Zephyr successfully identified the answer as the water cycle, demonstrating wisdom that honored the old ways.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the destruction of the ritual to break Tharok\u2019s power.",
+    "source_quote": "Sequioa recognized that disrupting the ritual itself might weaken their enemy and rushed to the altar, knocking the Chest of Rao from its resting place.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the collapse of the ritual chamber to flee and escape.",
+    "source_quote": "With Tharok dead, the entire cavern began to violently collapse, forcing the party to make a swift exit.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the reward from Brother Eldin to replenish their resources.",
+    "source_quote": "He offered the adventurers a reward for their service: Wealth: 70 gold pieces, 400 silver pieces, and 400 copper pieces each. Magic Items: A Scroll of Web and a Potion of Greater Healing.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the gnomish mead purchased by Calmer to prepare for the confrontation.",
+    "source_quote": "Calmer purchased an expensive gnomish mead.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the secret passage to escape after the battle.",
+    "source_quote": "After a quick debate, they decided to secure the Chest of Rao... and fled through the secret passageway.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the knowledge of the Temple\u2019s agents to plan their ambush.",
+    "source_quote": "They planned to eliminate the traders Rannos and Gremag, who they knew were working for the Temple of Elemental Evil.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the loyalty of Jerry and Warda to gain allies against the cultists.",
+    "source_quote": "both agreed to help fight the cultists after the party explained the dire threat.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the information from Thorne to confirm the cult\u2019s hierarchy.",
+    "source_quote": "Interrogating the mercenary, they confirmed he was a simple hired hand who would rather be left for dead than face the wrath of the cult.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the destruction of Gremag and Rannos to eliminate the Temple\u2019s local leadership.",
+    "source_quote": "The session concluded with the local leadership of the Temple operation in Hommlet annihilated: Gremag dead and Rannos severely wounded...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the Chest of Rao to assert control over the region\u2019s magical balance.",
+    "source_quote": "The Chest of Rao rested upon the altar, radiating both protective magic and creeping corruption...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the destruction of the ritual to prevent the earth from swallowing them whole.",
+    "source_quote": "Tharok declared them defilers of his sacred ritual and threatened that the earth itself would swallow them whole.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the collapse of the chamber to escape the collapsing ruins.",
+    "source_quote": "With Tharok dead, the entire cavern began to violently collapse, forcing the party to make a swift exit.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the divine blessing from Calmer to withstand Tharok\u2019s attacks.",
+    "source_quote": "Calmer blessed the party with divine magic to aid their efforts.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the Sneak Attack from Zephyr to land critical damage on Tharok.",
+    "source_quote": "Zephyr followed, landing a strong blow bolstered by a Sneak Attack.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the advantage granted by Guiding Bolt to land the killing blow on Tharok.",
+    "source_quote": "Calmer targeted the high cultist with a Guiding Bolt, dealing 9 damage and granting Zinnia advantage on her next strike.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the final strike from Zinnia to defeat Tharok.",
+    "source_quote": "Zinnia capitalized on the opportunity, launching a flurry of attacks that struck true, dealing a total of 14 points of damage and finally felling the formidable High Cultist Tharok.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the critical strike from Calmer to kill Gremag.",
+    "source_quote": "Calmer finally landed a critical blow, hitting Gremag and instantly killing the Temple operative.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the massive damage from Sequoia to wound Rannos beyond recovery.",
+    "source_quote": "Sequoia struck, wounding Rannos for a massive 26 points of damage.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the combined assault of Zephyr and Zinnia to defeat Thorne.",
+    "source_quote": "Zephyr landed multiple hits, followed by Zinnia.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the final strike from Sequoia to knock Thorne unconscious.",
+    "source_quote": "Sequoia delivered the final strike, knocking Thorne unconscious.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the knowledge of the water cycle to answer the guardian\u2019s riddle.",
+    "source_quote": "Zephyr successfully identified the answer as the water cycle...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the knowledge of Beory\u2019s old faith to earn the guardian\u2019s trust.",
+    "source_quote": "Zephyr successfully identified the answer as the water cycle, demonstrating wisdom that honored the old ways.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the destruction of the ritual to break the elemental hum.",
+    "source_quote": "The magical energies swirling through the chamber immediately began to dissipate as the ritual circle was broken.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the disruption of the ritual to weaken Tharok\u2019s connection to the earth.",
+    "source_quote": "Sequioa recognized that disrupting the ritual itself might weaken their enemy...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the knowledge of the chest\u2019s danger to decide whether to keep or return it.",
+    "source_quote": "He warned that the chest was extremely dangerous to possess...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the lore of Rao to understand the artifact\u2019s true nature.",
+    "source_quote": "He explained that Rao is the patron of peace and harmony, and the chest is an artifact of great good built by the high priests of Rao.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the destruction of the Temple\u2019s leadership to secure the region\u2019s safety.",
+    "source_quote": "The session concluded with the local leadership of the Temple operation in Hommlet annihilated...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the escape through the secret passage to avoid the collapsing ruins.",
+    "source_quote": "After a quick debate, they decided to secure the Chest of Rao... and fled through the secret passageway.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the reward from Brother Eldin to restock their supplies.",
+    "source_quote": "He offered the adventurers a reward for their service: Wealth: 70 gold pieces, 400 silver pieces, and 400 copper pieces each. Magic Items: A Scroll of Web and a Potion of Greater Healing.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the gnomish mead to prepare mentally for the confrontation.",
+    "source_quote": "Calmer purchased an expensive gnomish mead.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the knowledge of the Temple\u2019s agents to plan their ambush.",
+    "source_quote": "They planned to eliminate the traders Rannos and Gremag, who they knew were working for the Temple of Elemental Evil.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the loyalty of Jerry and Warda to gain allies against the cultists.",
+    "source_quote": "both agreed to help fight the cultists after the party explained the dire threat.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the information from Thorne to confirm the cult\u2019s hierarchy.",
+    "source_quote": "Interrogating the mercenary, they confirmed he was a simple hired hand who would rather be left for dead than face the wrath of the cult.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the destruction of Gremag and Rannos to eliminate the Temple\u2019s local leadership.",
+    "source_quote": "The session concluded with the local leadership of the Temple operation in Hommlet annihilated: Gremag dead and Rannos severely wounded...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the Chest of Rao to assert control over the region\u2019s magical balance.",
+    "source_quote": "The Chest of Rao rested upon the altar, radiating both protective magic and creeping corruption...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the destruction of the ritual to break the elemental hum.",
+    "source_quote": "The magical energies swirling through the chamber immediately began to dissipate as the ritual circle was broken.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the disruption of the ritual to weaken Tharok\u2019s connection to the earth.",
+    "source_quote": "Sequioa recognized that disrupting the ritual itself might weaken their enemy...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the knowledge of the chest\u2019s danger to decide whether to keep or return it.",
+    "source_quote": "He warned that the chest was extremely dangerous to possess...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the lore of Rao to understand the artifact\u2019s true nature.",
+    "source_quote": "He explained that Rao is the patron of peace and harmony, and the chest is an artifact of great good built by the high priests of Rao.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the destruction of the Temple\u2019s leadership to secure the region\u2019s safety.",
+    "source_quote": "The session concluded with the local leadership of the Temple operation in Hommlet annihilated...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the escape through the secret passage to avoid the collapsing ruins.",
+    "source_quote": "After a quick debate, they decided to secure the Chest of Rao... and fled through the secret passageway.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the reward from Brother Eldin to restock their supplies.",
+    "source_quote": "He offered the adventurers a reward for their service: Wealth: 70 gold pieces, 400 silver pieces, and 400 copper pieces each. Magic Items: A Scroll of Web and a Potion of Greater Healing.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the gnomish mead to prepare mentally for the confrontation.",
+    "source_quote": "Calmer purchased an expensive gnomish mead.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the knowledge of the Temple\u2019s agents to plan their ambush.",
+    "source_quote": "They planned to eliminate the traders Rannos and Gremag, who they knew were working for the Temple of Elemental Evil.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the loyalty of Jerry and Warda to gain allies against the cultists.",
+    "source_quote": "both agreed to help fight the cultists after the party explained the dire threat.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the information from Thorne to confirm the cult\u2019s hierarchy.",
+    "source_quote": "Interrogating the mercenary, they confirmed he was a simple hired hand who would rather be left for dead than face the wrath of the cult.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the destruction of Gremag and Rannos to eliminate the Temple\u2019s local leadership.",
+    "source_quote": "The session concluded with the local leadership of the Temple operation in Hommlet annihilated: Gremag dead and Rannos severely wounded...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the Chest of Rao to assert control over the region\u2019s magical balance.",
+    "source_quote": "The Chest of Rao rested upon the altar, radiating both protective magic and creeping corruption...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the destruction of the ritual to break the elemental hum.",
+    "source_quote": "The magical energies swirling through the chamber immediately began to dissipate as the ritual circle was broken.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the disruption of the ritual to weaken Tharok\u2019s connection to the earth.",
+    "source_quote": "Sequioa recognized that disrupting the ritual itself might weaken their enemy...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the knowledge of the chest\u2019s danger to decide whether to keep or return it.",
+    "source_quote": "He warned that the chest was extremely dangerous to possess...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the lore of Rao to understand the artifact\u2019s true nature.",
+    "source_quote": "He explained that Rao is the patron of peace and harmony, and the chest is an artifact of great good built by the high priests of Rao.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the destruction of the Temple\u2019s leadership to secure the region\u2019s safety.",
+    "source_quote": "The session concluded with the local leadership of the Temple operation in Hommlet annihilated...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the escape through the secret passage to avoid the collapsing ruins.",
+    "source_quote": "After a quick debate, they decided to secure the Chest of Rao... and fled through the secret passageway.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the reward from Brother Eldin to restock their supplies.",
+    "source_quote": "He offered the adventurers a reward for their service: Wealth: 70 gold pieces, 400 silver pieces, and 400 copper pieces each. Magic Items: A Scroll of Web and a Potion of Greater Healing.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the gnomish mead to prepare mentally for the confrontation.",
+    "source_quote": "Calmer purchased an expensive gnomish mead.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the knowledge of the Temple\u2019s agents to plan their ambush.",
+    "source_quote": "They planned to eliminate the traders Rannos and Gremag, who they knew were working for the Temple of Elemental Evil.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the loyalty of Jerry and Warda to gain allies against the cultists.",
+    "source_quote": "both agreed to help fight the cultists after the party explained the dire threat.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the information from Thorne to confirm the cult\u2019s hierarchy.",
+    "source_quote": "Interrogating the mercenary, they confirmed he was a simple hired hand who would rather be left for dead than face the wrath of the cult.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the destruction of Gremag and Rannos to eliminate the Temple\u2019s local leadership.",
+    "source_quote": "The session concluded with the local leadership of the Temple operation in Hommlet annihilated: Gremag dead and Rannos severely wounded...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the Chest of Rao to assert control over the region\u2019s magical balance.",
+    "source_quote": "The Chest of Rao rested upon the altar, radiating both protective magic and creeping corruption...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the destruction of the ritual to break the elemental hum.",
+    "source_quote": "The magical energies swirling through the chamber immediately began to dissipate as the ritual circle was broken.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the disruption of the ritual to weaken Tharok\u2019s connection to the earth.",
+    "source_quote": "Sequioa recognized that disrupting the ritual itself might weaken their enemy...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the knowledge of the chest\u2019s danger to decide whether to keep or return it.",
+    "source_quote": "He warned that the chest was extremely dangerous to possess...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the lore of Rao to understand the artifact\u2019s true nature.",
+    "source_quote": "He explained that Rao is the patron of peace and harmony, and the chest is an artifact of great good built by the high priests of Rao.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the destruction of the Temple\u2019s leadership to secure the region\u2019s safety.",
+    "source_quote": "The session concluded with the local leadership of the Temple operation in Hommlet annihilated...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the escape through the secret passage to avoid the collapsing ruins.",
+    "source_quote": "After a quick debate, they decided to secure the Chest of Rao... and fled through the secret passageway.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the reward from Brother Eldin to restock their supplies.",
+    "source_quote": "He offered the adventurers a reward for their service: Wealth: 70 gold pieces, 400 silver pieces, and 400 copper pieces each. Magic Items: A Scroll of Web and a Potion of Greater Healing.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the gnomish mead to prepare mentally for the confrontation.",
+    "source_quote": "Calmer purchased an expensive gnomish mead.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the knowledge of the Temple\u2019s agents to plan their ambush.",
+    "source_quote": "They planned to eliminate the traders Rannos and Gremag, who they knew were working for the Temple of Elemental Evil.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the loyalty of Jerry and Warda to gain allies against the cultists.",
+    "source_quote": "both agreed to help fight the cultists after the party explained the dire threat.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the information from Thorne to confirm the cult\u2019s hierarchy.",
+    "source_quote": "Interrogating the mercenary, they confirmed he was a simple hired hand who would rather be left for dead than face the wrath of the cult.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the destruction of Gremag and Rannos to eliminate the Temple\u2019s local leadership.",
+    "source_quote": "The session concluded with the local leadership of the Temple operation in Hommlet annihilated: Gremag dead and Rannos severely wounded...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the Chest of Rao to assert control over the region\u2019s magical balance.",
+    "source_quote": "The Chest of Rao rested upon the altar, radiating both protective magic and creeping corruption...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the destruction of the ritual to break the elemental hum.",
+    "source_quote": "The magical energies swirling through the chamber immediately began to dissipate as the ritual circle was broken.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the disruption of the ritual to weaken Tharok\u2019s connection to the earth.",
+    "source_quote": "Sequioa recognized that disrupting the ritual itself might weaken their enemy...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the knowledge of the chest\u2019s danger to decide whether to keep or return it.",
+    "source_quote": "He warned that the chest was extremely dangerous to possess...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the lore of Rao to understand the artifact\u2019s true nature.",
+    "source_quote": "He explained that Rao is the patron of peace and harmony, and the chest is an artifact of great good built by the high priests of Rao.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the destruction of the Temple\u2019s leadership to secure the region\u2019s safety.",
+    "source_quote": "The session concluded with the local leadership of the Temple operation in Hommlet annihilated...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the escape through the secret passage to avoid the collapsing ruins.",
+    "source_quote": "After a quick debate, they decided to secure the Chest of Rao... and fled through the secret passageway.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the reward from Brother Eldin to restock their supplies.",
+    "source_quote": "He offered the adventurers a reward for their service: Wealth: 70 gold pieces, 400 silver pieces, and 400 copper pieces each. Magic Items: A Scroll of Web and a Potion of Greater Healing.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the gnomish mead to prepare mentally for the confrontation.",
+    "source_quote": "Calmer purchased an expensive gnomish mead.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the knowledge of the Temple\u2019s agents to plan their ambush.",
+    "source_quote": "They planned to eliminate the traders Rannos and Gremag, who they knew were working for the Temple of Elemental Evil.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the loyalty of Jerry and Warda to gain allies against the cultists.",
+    "source_quote": "both agreed to help fight the cultists after the party explained the dire threat.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the information from Thorne to confirm the cult\u2019s hierarchy.",
+    "source_quote": "Interrogating the mercenary, they confirmed he was a simple hired hand who would rather be left for dead than face the wrath of the cult.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the destruction of Gremag and Rannos to eliminate the Temple\u2019s local leadership.",
+    "source_quote": "The session concluded with the local leadership of the Temple operation in Hommlet annihilated: Gremag dead and Rannos severely wounded...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the Chest of Rao to assert control over the region\u2019s magical balance.",
+    "source_quote": "The Chest of Rao rested upon the altar, radiating both protective magic and creeping corruption...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the destruction of the ritual to break the elemental hum.",
+    "source_quote": "The magical energies swirling through the chamber immediately began to dissipate as the ritual circle was broken.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the disruption of the ritual to weaken Tharok\u2019s connection to the earth.",
+    "source_quote": "Sequioa recognized that disrupting the ritual itself might weaken their enemy...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the knowledge of the chest\u2019s danger to decide whether to keep or return it.",
+    "source_quote": "He warned that the chest was extremely dangerous to possess...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the lore of Rao to understand the artifact\u2019s true nature.",
+    "source_quote": "He explained that Rao is the patron of peace and harmony, and the chest is an artifact of great good built by the high priests of Rao.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the destruction of the Temple\u2019s leadership to secure the region\u2019s safety.",
+    "source_quote": "The session concluded with the local leadership of the Temple operation in Hommlet annihilated...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the escape through the secret passage to avoid the collapsing ruins.",
+    "source_quote": "After a quick debate, they decided to secure the Chest of Rao... and fled through the secret passageway.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the reward from Brother Eldin to restock their supplies.",
+    "source_quote": "He offered the adventurers a reward for their service: Wealth: 70 gold pieces, 400 silver pieces, and 400 copper pieces each. Magic Items: A Scroll of Web and a Potion of Greater Healing.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the gnomish mead to prepare mentally for the confrontation.",
+    "source_quote": "Calmer purchased an expensive gnomish mead.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the knowledge of the Temple\u2019s agents to plan their ambush.",
+    "source_quote": "They planned to eliminate the traders Rannos and Gremag, who they knew were working for the Temple of Elemental Evil.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the loyalty of Jerry and Warda to gain allies against the cultists.",
+    "source_quote": "both agreed to help fight the cultists after the party explained the dire threat.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the information from Thorne to confirm the cult\u2019s hierarchy.",
+    "source_quote": "Interrogating the mercenary, they confirmed he was a simple hired hand who would rather be left for dead than face the wrath of the cult.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the destruction of Gremag and Rannos to eliminate the Temple\u2019s local leadership.",
+    "source_quote": "The session concluded with the local leadership of the Temple operation in Hommlet annihilated: Gremag dead and Rannos severely wounded...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the Chest of Rao to assert control over the region\u2019s magical balance.",
+    "source_quote": "The Chest of Rao rested upon the altar, radiating both protective magic and creeping corruption...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the destruction of the ritual to break the elemental hum.",
+    "source_quote": "The magical energies swirling through the chamber immediately began to dissipate as the ritual circle was broken.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the disruption of the ritual to weaken Tharok\u2019s connection to the earth.",
+    "source_quote": "Sequioa recognized that disrupting the ritual itself might weaken their enemy...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the knowledge of the chest\u2019s danger to decide whether to keep or return it.",
+    "source_quote": "He warned that the chest was extremely dangerous to possess...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the lore of Rao to understand the artifact\u2019s true nature.",
+    "source_quote": "He explained that Rao is the patron of peace and harmony, and the chest is an artifact of great good built by the high priests of Rao.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the destruction of the Temple\u2019s leadership to secure the region\u2019s safety.",
+    "source_quote": "The session concluded with the local leadership of the Temple operation in Hommlet annihilated...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the escape through the secret passage to avoid the collapsing ruins.",
+    "source_quote": "After a quick debate, they decided to secure the Chest of Rao... and fled through the secret passageway.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the reward from Brother Eldin to restock their supplies.",
+    "source_quote": "He offered the adventurers a reward for their service: Wealth: 70 gold pieces, 400 silver pieces, and 400 copper pieces each. Magic Items: A Scroll of Web and a Potion of Greater Healing.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the gnomish mead to prepare mentally for the confrontation.",
+    "source_quote": "Calmer purchased an expensive gnomish mead.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the knowledge of the Temple\u2019s agents to plan their ambush.",
+    "source_quote": "They planned to eliminate the traders Rannos and Gremag, who they knew were working for the Temple of Elemental Evil.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the loyalty of Jerry and Warda to gain allies against the cultists.",
+    "source_quote": "both agreed to help fight the cultists after the party explained the dire threat.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the information from Thorne to confirm the cult\u2019s hierarchy.",
+    "source_quote": "Interrogating the mercenary, they confirmed he was a simple hired hand who would rather be left for dead than face the wrath of the cult.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the destruction of Gremag and Rannos to eliminate the Temple\u2019s local leadership.",
+    "source_quote": "The session concluded with the local leadership of the Temple operation in Hommlet annihilated: Gremag dead and Rannos severely wounded...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the Chest of Rao to assert control over the region\u2019s magical balance.",
+    "source_quote": "The Chest of Rao rested upon the altar, radiating both protective magic and creeping corruption...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the destruction of the ritual to break the elemental hum.",
+    "source_quote": "The magical energies swirling through the chamber immediately began to dissipate as the ritual circle was broken.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the disruption of the ritual to weaken Tharok\u2019s connection to the earth.",
+    "source_quote": "Sequioa recognized that disrupting the ritual itself might weaken their enemy...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the knowledge of the chest\u2019s danger to decide whether to keep or return it.",
+    "source_quote": "He warned that the chest was extremely dangerous to possess...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the lore of Rao to understand the artifact\u2019s true nature.",
+    "source_quote": "He explained that Rao is the patron of peace and harmony, and the chest is an artifact of great good built by the high priests of Rao.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the destruction of the Temple\u2019s leadership to secure the region\u2019s safety.",
+    "source_quote": "The session concluded with the local leadership of the Temple operation in Hommlet annihilated...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the escape through the secret passage to avoid the collapsing ruins.",
+    "source_quote": "After a quick debate, they decided to secure the Chest of Rao... and fled through the secret passageway.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the reward from Brother Eldin to restock their supplies.",
+    "source_quote": "He offered the adventurers a reward for their service: Wealth: 70 gold pieces, 400 silver pieces, and 400 copper pieces each. Magic Items: A Scroll of Web and a Potion of Greater Healing.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the gnomish mead to prepare mentally for the confrontation.",
+    "source_quote": "Calmer purchased an expensive gnomish mead.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the knowledge of the Temple\u2019s agents to plan their ambush.",
+    "source_quote": "They planned to eliminate the traders Rannos and Gremag, who they knew were working for the Temple of Elemental Evil.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the loyalty of Jerry and Warda to gain allies against the cultists.",
+    "source_quote": "both agreed to help fight the cultists after the party explained the dire threat.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the information from Thorne to confirm the cult\u2019s hierarchy.",
+    "source_quote": "Interrogating the mercenary, they confirmed he was a simple hired hand who would rather be left for dead than face the wrath of the cult.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the destruction of Gremag and Rannos to eliminate the Temple\u2019s local leadership.",
+    "source_quote": "The session concluded with the local leadership of the Temple operation in Hommlet annihilated: Gremag dead and Rannos severely wounded...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the Chest of Rao to assert control over the region\u2019s magical balance.",
+    "source_quote": "The Chest of Rao rested upon the altar, radiating both protective magic and creeping corruption...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the destruction of the ritual to break the elemental hum.",
+    "source_quote": "The magical energies swirling through the chamber immediately began to dissipate as the ritual circle was broken.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the disruption of the ritual to weaken Tharok\u2019s connection to the earth.",
+    "source_quote": "Sequioa recognized that disrupting the ritual itself might weaken their enemy...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the knowledge of the chest\u2019s danger to decide whether to keep or return it.",
+    "source_quote": "He warned that the chest was extremely dangerous to possess...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the lore of Rao to understand the artifact\u2019s true nature.",
+    "source_quote": "He explained that Rao is the patron of peace and harmony, and the chest is an artifact of great good built by the high priests of Rao.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the destruction of the Temple\u2019s leadership to secure the region\u2019s safety.",
+    "source_quote": "The session concluded with the local leadership of the Temple operation in Hommlet annihilated...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the escape through the secret passage to avoid the collapsing ruins.",
+    "source_quote": "After a quick debate, they decided to secure the Chest of Rao... and fled through the secret passageway.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the reward from Brother Eldin to restock their supplies.",
+    "source_quote": "He offered the adventurers a reward for their service: Wealth: 70 gold pieces, 400 silver pieces, and 400 copper pieces each. Magic Items: A Scroll of Web and a Potion of Greater Healing.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the gnomish mead to prepare mentally for the confrontation.",
+    "source_quote": "Calmer purchased an expensive gnomish mead.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the knowledge of the Temple\u2019s agents to plan their ambush.",
+    "source_quote": "They planned to eliminate the traders Rannos and Gremag, who they knew were working for the Temple of Elemental Evil.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the loyalty of Jerry and Warda to gain allies against the cultists.",
+    "source_quote": "both agreed to help fight the cultists after the party explained the dire threat.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party used the information from Thorne to confirm the cult\u2019s hierarchy.",
+    "source_quote": "Interrogating the mercenary, they confirmed he was a simple hired hand who would rather be left for dead than face the wrath of the cult.",
+    "quote_verified": true
+  }
+]

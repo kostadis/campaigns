@@ -1,0 +1,114 @@
+[
+  {
+    "type": "npc",
+    "subject": "Hartsch",
+    "fact": "Hartsch is a pliable leader who acts unilaterally, pins his decisions to others' authority, and abandoned his post after sending the Broken Blades to attack the Water Temple under the Obsidian Edge's name.",
+    "source_quote": "I couldn't wait! I sent the Broken Blades to attack!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is a pragmatic, decisive tactician who sacrifices information to the wraith to secure passage and physically confronts Hartsch\u2019s panic, but remains trapped in reactive leadership.",
+    "source_quote": "I don't have time for this one,\" \"What do you want me to do, what do you want me to do, what do you want me to do",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia is an observant strategist who uncovers Hartsch\u2019s deception by analyzing his map and body language, recognizing the lie beneath his initiative and the danger of misattributed authority.",
+    "source_quote": "I watched his face go still the way it does when the lie underneath finishes coming up.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Obsidian Edge",
+    "fact": "The Obsidian Edge is the organization Hartsch falsely implicated in the raid on the Water Temple, risking its reputation and cohesion by having the Broken Blades believe orders came from its command.",
+    "source_quote": "He'd told them the orders came from us.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Broken Blades",
+    "fact": "The Broken Blades are a recruited mercenary force now stranded in the Water Temple, misled into believing they acted under the Obsidian Edge\u2019s orders, and now the only viable asset left to extract before they are annihilated.",
+    "source_quote": "The men we'd recruited. The men whose lives were now sitting in the hands of a panicking quartermaster who couldn't decide where to put a chair.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Wraith at the Choke Point",
+    "fact": "The wraith is a necrotic entity with seven spectral followers that guards a critical corridor, trading passage for intelligence or live bodies, and has now learned the Obsidian Edge\u2019s next target is the Water Temple.",
+    "source_quote": "Tell me where the next attack is coming so I can feast on the dead.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Failed Raid on Water Temple",
+    "fact": "Hartsch launched an unauthorized raid on the Water Temple using the Broken Blades, falsely attributing the orders to the Obsidian Edge, resulting in the Blades being isolated, the temple\u2019s defenses alerted, and the Obsidian Edge\u2019s credibility compromised.",
+    "source_quote": "I sent the Broken Blades to attack!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Abandonment of Air Temple Assault",
+    "fact": "The planned assault on the Air Temple was canceled to rescue the Broken Blades after Hartsch\u2019s deception exposed them to lethal consequences, forcing a strategic pivot and abandoning tactical momentum.",
+    "source_quote": "So the Air Temple was off. You don't run a two-pronged raid when one prong is already pinned and bleeding under the wrong banner.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Hartsch\u2019s True Nature",
+    "fact": "Hartsch\u2019s actions reveal a pattern of self-deception and borrowed authority \u2014 he is not just reckless, but a mirror of the narrator\u2019s own hidden impulses, now amplified by consequence and leadership.",
+    "source_quote": "I couldn't wait is a sentence I have lived inside of.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Who Holds the Authority?",
+    "fact": "No one in the group truly claims leadership; authority is passed like a burden, each person refusing to hold the responsibility they\u2019re given, creating a vacuum exploited by Hartsch\u2019s deception.",
+    "source_quote": "Nobody in this room wants to hold the thing they're holding.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Are the Broken Blades Still Alive?",
+    "fact": "The fate of the Broken Blades is uncertain \u2014 they are isolated, misled, and surrounded by enemy forces, and their survival now depends entirely on the Obsidian Edge\u2019s ability to rescue them before the lie kills them.",
+    "source_quote": "Are we sure they're still alive? I meant the Broken Blades.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Romag\u2019s Quarters",
+    "fact": "Romag\u2019s Quarters is the abandoned, psychologically significant room chosen as the apostles\u2019 sleeping quarters \u2014 a place no one would think to disturb, symbolizing the group\u2019s avoidance of responsibility and reverence for dead authority.",
+    "source_quote": "The dead man's quarters, the one place in this building nobody would think to bother us.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Water Temple",
+    "fact": "The Water Temple is the target of Hartsch\u2019s unauthorized raid, now heavily fortified and aware of the Obsidian Edge\u2019s intent, turning it from a tactical objective into a death trap for the Broken Blades.",
+    "source_quote": "He'd sent them down to stage a raid on the Water Temple, and heard nothing back.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Choke Point with Wraith",
+    "fact": "The choke point is a necrotic corridor guarded by a wraith and seven specters, now a critical passage requiring sacrifice of intelligence to traverse, and a symbol of the cost of progress in this war.",
+    "source_quote": "The wraith was where it always was, at the choke point, seven specters in a line behind it.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Hartsch\u2019s Note",
+    "fact": "Hartsch\u2019s handwritten note \u2014 'I couldn't wait! I sent the Broken Blades to attack!' \u2014 is the physical proof of his betrayal, written in a voice the narrator recognizes as his own, revealing a shared moral rot.",
+    "source_quote": "I read it twice. Not because it was hard to read. Because I recognized it.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Night of Hartsch\u2019s Departure",
+    "fact": "The night Hartsch disappeared and sent the raid is the turning point of the campaign, marking the collapse of command cohesion and the beginning of the Obsidian Edge\u2019s descent into reactive survival.",
+    "source_quote": "In the morning he was gone.",
+    "quote_verified": true
+  }
+]
