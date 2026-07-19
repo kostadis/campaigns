@@ -21,6 +21,7 @@ Canonical spellings are verified against `docs/background/name_glossary.md` and 
 | Wrong | Right |
 |---|---|
 | Xenophon, Xenobon, Zenovon | **Zenvon** |
+| Zenoan | **Zenvon** (session 5: more ASR variant of the PC "Zenvon") |
 | Vera | **Veyra** |
 | Sister Mela, Mela | **Sister Maela** |
 
@@ -29,6 +30,7 @@ Canonical spellings are verified against `docs/background/name_glossary.md` and 
 | Wrong | Right |
 |---|---|
 | Clarg | **Klarg** |
+| Glastaff, Glass Staff, Glassdaff | **Glasstaff** (session 4: "Clarg"→Klarg; session 5: two-word "glass staff" / "Glassdaff" = Glasstaff, Iarno Albrek's alias) |
 | Toblin | **Toblen** |
 | Tobelin, Tublin | **Toblen** (session 4: more ASR variants of "Toblen Stonehill") |
 | Glastaff | **Glasstaff** |
@@ -39,6 +41,7 @@ Canonical spellings are verified against `docs/background/name_glossary.md` and 
 | Silar, Silvar | **Sildar** (session 4: ASR garbles of "Sildar" — verify vs. other names) |
 | Gundran, Gundrin, Gundrum, Gundrun, Gundrund | **Gundren** (session 4: ASR garbles of "Gundren Rockseeker") |
 | Goodrin, Dundrum | **Gundren** (session 4: more ASR variants of "Gundren") |
+| Gunther, Kissandar | **Gundren** (session 5: only these two are Gundren — "Gunther" = Sildar's old mentor; "Kissandar miner" = the Wave Echo Cave miner. All other Rondar/Rudar/Randar/Rondor/Rundar/Rondart/Brandar/Gundrid are the NPC Rondar, NOT Gundren) |
 | Thardin | **Tharden** (session 4: Rockseeker brother "Tharden") |
 | Barthin | **Barthen** (session 4: "Barthin's prov[isions]" = Elmina Barthen's shop) |
 | Linen Lanain | **Linene Graywind** (session 4: "Linen Lanain … Lionshield coster" = Linene Graywind; both tokens garbled) |
@@ -57,7 +60,7 @@ Canonical spellings are verified against `docs/background/name_glossary.md` and 
 | Tresender Manor, Tressander Manor | **Tresendar Manor** |
 | Eldermath Orchard | **Edermath Orchard** |
 | Nethrel | **Netheril** |
-| Tribor Trail | **Triboar Trail** |
+| Tribor Trail | **Triboar Trail** (also matches "Tribor Trails" plural) |
 | Fandelin, Fandalin, Fandele, Fendolin, Panelin, Phanalyn, Fandeliever | **Phandalin** (session 4: ASR garbles of "Phandalin") |
 | Nevermember, Nevermber, Neverwin | **Neverwinter** (session 4: ASR garbles of "Neverwinter") |
 | Weiwe Vekov Cave, wake of Evoko Cave | **Wave Echo Cave** (session 4: "Vekov"/"Evoko" in cave context = ASR garble of "Echo", NOT the Glasstaff character Iarno — semantic disambiguation) |
@@ -70,5 +73,8 @@ Canonical spellings are verified against `docs/background/name_glossary.md` and 
 | Wrong | Right |
 |---|---|
 | red brand, Red Brand, red brands, Red Brands | **Redbrand** (session 4: the Phandalin bandit gang; "Red Brand Ruffian" = "Redbrand Ruffian") |
+| Red Browns | **Redbrands** (session 5: "Red Browns" = Redbrands, 'w' ASR slip) |
+| Forward Giants | **Redbrands** (session 5: player garbled the gang name twice — "Forward Giants, Red Brands?") |
+| notar | **dwarf** (session 5: ASR garble of "dwarf", lower-case) |
 | Roxiga | **Rockseeker** (session 4: "Gundren Roxiga" = Gundren Rockseeker) |
 | frock-seeker, frock seeker | **Rockseeker** (session 4: "old frock-seeker" = old Rockseeker) |
