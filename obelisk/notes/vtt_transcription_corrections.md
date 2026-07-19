@@ -20,18 +20,18 @@ Canonical spellings are verified against `docs/background/name_glossary.md` and 
 
 | Wrong | Right |
 |---|---|
-| Xenophon, Xenobon, Zenovon | **Zenvon** |
+| Xenophon, Xenobon, Zenovon, Xenovon, Xenomon, Cinnamon, Zenomon, Zenon, Zenotic, Zenovan | **Zenvon** |
 | Zenoan | **Zenvon** (session 5: more ASR variant of the PC "Zenvon") |
 | Zanabon, Zenimon, Xenob | **Zenvon** (session 7: more ASR variants of the PC "Zenvon") |
-| Vera | **Veyra** |
-| Sister Mela, Mela, Mila, Myla, Mil | **Sister Maela** (session 7: "Mila"/"Myla"/"Mil" also = Maela, the Turn-Undead cleric) |
+| Vera, Azvera, Rivera, Maya | **Veyra** |
+| Sister Mela, Mela, Mila, Myla, Mil, Myra, Nela | **Sister Maela** (session 7: "Mila"/"Myla"/"Mil" also = Maela, the Turn-Undead cleric) |
 
 ## NPCs and creatures
 
 | Wrong | Right |
 |---|---|
 | Clarg | **Klarg** |
-| Glastaff, Glass Staff, Glassdaff, Glass Tap | **Glasstaff** (session 4: "Clarg"→Klarg; session 5/7: two-word "glass staff" / "Glassdaff" / "Glass Tap" = Glasstaff, Iarno Albrek's alias) |
+| Glastaff, Glass Staff, Glassdaff, Glass Tap, Glastap, Glassstaff, Blast Staff, Gastav | **Glasstaff** (session 4: "Clarg"→Klarg; session 5/7: two-word "glass staff" / "Glassdaff" / "Glass Tap" = Glasstaff, Iarno Albrek's alias) |
 | Toblin | **Toblen** |
 | Tobelin, Tublin | **Toblen** (session 4: more ASR variants of "Toblen Stonehill") |
 | Glastaff | **Glasstaff** |
@@ -40,7 +40,7 @@ Canonical spellings are verified against `docs/background/name_glossary.md` and 
 | Ruth exceeds | **Ruxithid** (garbled whispered name in "You're not what Ruxithid wants") |
 | Soldar, Siddhar | **Sildar** (session 4: ASR garbles of "Sildar Hallwinter") |
 | Silar, Silvar | **Sildar** (session 4: ASR garbles of "Sildar" — verify vs. other names) |
-| Gundran, Gundrin, Gundrum, Gundrun, Gundrund | **Gundren** (session 4: ASR garbles of "Gundren Rockseeker") |
+| Gundran, Gundrin, Gundrum, Gundrun, Gundrund, Wundren | **Gundren** (session 4: ASR garbles of "Gundren Rockseeker") |
 | Goodrin, Dundrum | **Gundren** (session 4: more ASR variants of "Gundren") |
 | Gunther, Kissandar | **Gundren** (session 5: only these two are Gundren — "Gunther" = Sildar's old mentor; "Kissandar miner" = the Wave Echo Cave miner. All other Rondar/Rudar/Randar/Rondor/Rundar/Rondart/Brandar/Gundrid are the NPC Rondar, NOT Gundren) |
 | Thardin | **Tharden** (session 4: Rockseeker brother "Tharden") |
@@ -54,29 +54,48 @@ Canonical spellings are verified against `docs/background/name_glossary.md` and 
 | Ruxothid, Ruxathid | **Ruxithid** (session 4: Veyra repeating the goblin's name) |
 | Melavera | **Veyra** (session 4: fused "Maela"+"Veyra" garble of the tiefling) |
 | Xinavan | **Zenvon** (session 4: more ASR variant of the PC "Zenvon") |
+| Dendars, The Ten Doves | **Dendrars** (session 7: variant of the Dendrar family, cf. session 1 "Dendar") |
+| Dessa | **Dosa Rook** (session 7: Redbrand-handled bandit, full name confirmed from retranscription) |
+| Black Sparta | **Black Spider** (Nezznar's known alias) |
+| Karimi, Redbrand Moravian, Redbrand Muffian, Redbrand muffin | **Redbrand Ruffian** |
+| Rhondar, Prandar, Rudar, Randar, Rondor, Brandar, Randa, Randor, Rhonda, Rondart, Rundar, Gundrid, Arnold, Brandor | **Rondar** |
+| Gnothic | **Nothic** |
+| Orman, Bormann | **Urmon** |
+| Dvarvish | **Dwarvish** |
+| Carbon Wester,Harbren Wester,Pardman Wester | **Harbin Wester** (session 5: ASR garbles of the townmaster's first name, correct surname retained) |
+| Iarno Ulbrecht,Larno Albrek,Giano Albrand | **Iarno Albrek** (session 5: ASR garbles of Glasstaff's real name) |
+| Harvin | **Harbin** (session 5: bare first-name garble, paired with the Harbin Wester row) |
+| Holly | **Halia** (session 5: DM pulling up Halia Thornton's notes, ASR garble) |
+| Red Brad Muffin Ruffians | **Redbrand Ruffians** (session 5: Halia's 'shocked, shocked' line, 4-word garble not caught by the 2-word 'Redbrand muffin' rule) |
 
 ## Locations
 
 | Wrong | Right |
 |---|---|
-| Tresender Manor, Tressander Manor | **Tresendar Manor** |
+| Tresender Manor, Tressander Manor, Tressender Manor, Tressendor Manor, Tressendur Manor, Tresander Manor, Trickndaw Manor | **Tresendar Manor** |
 | Eldermath Orchard | **Edermath Orchard** |
 | Nethrel | **Netheril** |
 | Tribor Trail | **Triboar Trail** (also matches "Tribor Trails" plural) |
-| Fandelin, Fandalin, Fandele, Fendolin, Panelin, Phanalyn, Fandeliever | **Phandalin** (session 4: ASR garbles of "Phandalin") |
-| Nevermember, Nevermber, Neverwin | **Neverwinter** (session 4: ASR garbles of "Neverwinter") |
+| Fandelin, Fandalin, Fandele, Fendolin, Panelin, Phanalyn, Fandeliever, Phandelin | **Phandalin** (session 4: ASR garbles of "Phandalin") |
+| Nevermember, Nevermber, Neverwin, Nightwinter | **Neverwinter** (session 4: ASR garbles of "Neverwinter") |
 | Weiwe Vekov Cave, wake of Evoko Cave | **Wave Echo Cave** (session 4: "Vekov"/"Evoko" in cave context = ASR garble of "Echo", NOT the Glasstaff character Iarno — semantic disambiguation) |
 | Fandele Verpakt, Phandalin Verpakt | **Phandelver Pact** (session 4: ASR garbles of "Phandelver Pact") |
 | Kragmaw | **Cragmaw** (session 4: "Kragmaw Hideout" = Cragmaw Hideout) |
 | Zentarim | **Zhentarim** (session 4: ASR garble of "Zhentarim") |
+| Tresander Crypts, Tresandar Crypts, Tresandar | **Tresendar Crypts** |
+| Phandelever | **Lost Mine of Phandelver** |
+| Town Master's Hall | **Townmaster's Hall** (session 5: spacing variant) |
+| Wyvern Tour, Raven Tower | **Wyvern Tor** (session 5: ASR garble of the Wyvern Tor quest location) |
 
 ## Module terms (lower-case / compound — semantic pass)
 
 | Wrong | Right |
 |---|---|
-| red brand, Red Brand, red brands, Red Brands | **Redbrand** (session 4: the Phandalin bandit gang; "Red Brand Ruffian" = "Redbrand Ruffian") |
+| red brand, red brands, Red Rand, Red Bran | **Redbrand** (session 4: the Phandalin bandit gang; "Red Brand Ruffian" = "Redbrand Ruffian"; session 5: "Red Bran" truncated ASR form) |
 | Red Browns | **Redbrands** (session 5: "Red Browns" = Redbrands, 'w' ASR slip) |
 | Forward Giants | **Redbrands** (session 5: player garbled the gang name twice — "Forward Giants, Red Brands?") |
 | notar | **dwarf** (session 5: ASR garble of "dwarf", lower-case) |
 | Roxiga | **Rockseeker** (session 4: "Gundren Roxiga" = Gundren Rockseeker) |
 | frock-seeker, frock seeker | **Rockseeker** (session 4: "old frock-seeker" = old Rockseeker) |
+| Shub | **shove** |
+| Thwax | **thwacks** |
