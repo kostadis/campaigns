@@ -1,7 +1,5 @@
-# Universal Basic Treasure
+# Chapter 45 Universal Basic Treasure
 
-
----
 
 ## Brewbarry — Return to Phandalin
 
