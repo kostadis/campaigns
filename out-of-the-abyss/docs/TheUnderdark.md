@@ -285,7 +285,7 @@ The group stares at him.
 “The Drow with the ugly scratch marks on his face, Jorlans is his name, used to be the number one squeeze, but now Shoor is the primary squeeze after Jorlan got injured. Jorlan used to have a wand of globs. Meanwhile, Ashar’s angling for the top job.”
 
 
-Sarith, seeing how Jimjar has become the center of attention, shouts, “I too have information.” He starts to speak and then begins to mutter. Thorinth then watches as Grygum reassures the Drow, who explains, “At the bottom of the cave is a gray ooze in the pools. If we escape that way, we have to be careful.” 
+Sarith, seeing how Jimjar has become the center of attention, shouts, “I too have information.” He starts to speak and then begins to mutter. Thorin then watches as Grygum reassures the Drow, who explains, “At the bottom of the cave is a gray ooze in the pools. If we escape that way, we have to be careful.” 
 # Chapter 02 Exploring the prison
 
 
@@ -4868,7 +4868,7 @@ Zalthir can see the feigned irritation in Daz’s eyes, “When I have it. To ke
 Zalthir is impressed and worried. Daz seems far too comfortable in this nest of scorpions. 
 
 
-She claps in her hands, “A fantastic idea. You must talk to Clan Ironhead or Clan Xardelva. Clan Ironhead is forbidden from taking weapons directly and may only take surplus orders from Clan Steelshadow. The Deepking has been sending all orders to his clan, Clan Steelshadow. Clan Ironhead is upset with the loss of business. As for Clan Xardelva, they are worried that their work will be seen as too similar to weaponsmithing, and Clan Steelshadow will take them over. Both of these clans are seen as opposing the Deepking. As the head of the Stone Guard, anyone who sees you talking to them will assume we cannot work together.”  
+She claps in her hands, “A fantastic idea. You must talk to Clan Ironhead or Clan Xardelvar. Clan Ironhead is forbidden from taking weapons directly and may only take surplus orders from Clan Steelshadow. The Deepking has been sending all orders to his clan, Clan Steelshadow. Clan Ironhead is upset with the loss of business. As for Clan Xardelvar, they are worried that their work will be seen as too similar to weaponsmithing, and Clan Steelshadow will take them over. Both of these clans are seen as opposing the Deepking. As the head of the Stone Guard, anyone who sees you talking to them will assume we cannot work together.”  
 
 
 Zalthir looks at Daz, Errde, and then walks through the door. A thousand times the darkness of his spells than the plots and fogs of the plots of the Drow and the Duergar. 
@@ -5978,7 +5978,7 @@ So I cast Toll the Dead, and the deadly chimes echo throughout the caves, but on
 I look at Ulnara, who realizes that I am Drow. And that the Drow do not mess around. 
 
 
-“Thank you for this new supply! I know you will tell Plinki that I Ulnar,a did much to help the Ember Vanguard!” 
+“Thank you for this new supply! I know you will tell Plinki that I Ulnara did much to help the Ember Vanguard!” 
 
 
 “We shall, certainly,” says Grygum in his preacher’s voice. 
@@ -8668,7 +8668,7 @@ And if a Myconid could sob, Basidia would be crying.
 Limp in my arms, I drag them to the safety of the Circle of Explorers, where their allies are. Rasharoo, Loobamub, and the circle of hunters and explorers have gathered near one of the exit holes that Rasharoo had identified. I can tell they are in a deep mind meld. 
 
 
-As we leave the Neverlight Grove and its madness, Basidia turns to us and hands some potions of greater healing and what little treasure the Mykonids had accumulated over the years from passersby.  
+As we leave the Neverlight Grove and its madness, Basidia turns to us and hands some potions of greater healing and what little treasure the Myconids had accumulated over the years from passersby.  
 
 
 As we head into the Underdark, Rasharoo tells us that he can provide us with a guide for half the distance to Blingdenstone, but after that, we are on our own.
@@ -8699,7 +8699,7 @@ Zalthir tries to ask about the insanity of it all, and I look at him; he stares 
 Today, Rasharoo bids us farewell. 
 
 
-Before all the Mykonids depart, Rump-a-dump approaches Zalthir. They look at them and say that they have a list of ways in which they could improve. Before Zalthir can tell them that he is not interested in any of them, Rump-a-dump enumerates fifty or so specific things Zalthir could do to be better. Things like - “Listen to Stool, he knows what he is doing. Don’t assume you know everything; other people’s points of view are important. Or my favorite, - Eat more Zurkhwood, it's good for your digestion.” 
+Before all the Myconids depart, Rump-a-dump approaches Zalthir. They look at them and say that they have a list of ways in which they could improve. Before Zalthir can tell them that he is not interested in any of them, Rump-a-dump enumerates fifty or so specific things Zalthir could do to be better. Things like - “Listen to Stool, he knows what he is doing. Don’t assume you know everything; other people’s points of view are important. Or my favorite, - Eat more Zurkhwood, it's good for your digestion.” 
 
 
 Stool and Rump-a-dump look at me, and they say - “Goodbye!” and I think there is a hint of sadness, but they are with their people now. 
@@ -13089,7 +13089,7 @@ And she walked off.
 # Chapter 54 The Candlekeep Murders
 
 
-## Daz — Reporting to Bookworm
+## Daz — Reporting to Bookwyrm
 
 Fembris Lancer practically vibrated. The adjutant had attached himself to us the way an acolyte attaches to anyone who might be doing something more interesting than copying manuscripts, and he was not going to let us forget the assignment. "I think it's important that we need to go," he said, "we need to go back to the great — the chapter house, and talk to a Bookwyrm, to give her a summary of what happens. After all, don't forget, that is exactly what she asked us to do, to provide a summary of the events."
 

@@ -5,6 +5,9 @@ entities:
   type: npc
   aliases:
   - Prince of Demons
+  - the Prince
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: Prince of Demons who rampaged through Menzoberranzan's Claw Rift
 - name: Fraz-Urb'luu
   type: npc
@@ -80,6 +83,8 @@ entities:
   - Ilvara
   - Mistress Ilvara
   - Elvara
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: senior drow priestess of Lolth, commander of Velkynvelve, House Mizzrym
 - name: Imbros
   type: npc
@@ -203,6 +208,8 @@ entities:
   type: npc
   aliases:
   - Xalith Masq'il'yr
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: female drow scout sent by Ilvara to recapture the party
 - name: Xinaya
   type: npc
@@ -235,11 +242,17 @@ entities:
   - Errde Captain Errde
   - Captain Errde
   - Captain Blackskull
+  - Captain Errde Blackskull
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: female duergar captain commanding the Stone Guard
 - name: Gartokkar Xundorn
   type: npc
   aliases:
   - Gartokkar
+  - Gartokkar Xundom
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: male duergar Keeper of the Flame, leader of the order
 - name: Ghuldur Flagonfist
   type: npc
@@ -248,6 +261,8 @@ entities:
   note: duergar in Mantol-Derith who may point party to Stonespeaker Hgraam
 - name: Gorglak
   type: npc
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: corrupt duergar Stone Guard at the gate, obsessed with rare weapons
 - name: Hargritt Hammerhome
   type: npc
@@ -257,12 +272,6 @@ entities:
   aliases:
   - Hemath
   note: duergar arms smuggler captured for sacrifice, willing to cooperate
-- name: Horgar Steelshadow V
-  type: npc
-  aliases:
-  - Deepking Horgar V
-  - King Horgar Steelshadow V
-  note: Deepking of Gracklstugh, touched by demon-lord madness
 - name: Krimgol Muzgardt
   type: npc
   note: duergar ale merchant who found Fraz-Urb'luu's gem
@@ -270,11 +279,15 @@ entities:
   type: npc
   aliases:
   - Lorthio Bukbukken
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: duergar alchemist of the Gray Ghosts in the Whorlstone Tunnels
 - name: The Pudding King
   type: npc
   aliases:
   - Pudding King
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: ooze-corrupted figure who retreats to Blingdenstone if alive
 - name: Traldak Xornbane
   type: npc
@@ -283,6 +296,8 @@ entities:
   type: npc
   aliases:
   - Werz
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: Gracklstugh contact whose gem errand is delivered to Kazook
 - name: Ylsa Henstak
   type: npc
@@ -292,21 +307,29 @@ entities:
   note: female shield dwarf captive from the Silver Marches
 - name: Aliinka
   type: npc
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: renegade derro savant twin sister, co-leader of the Gray Ghosts
 - name: Buppido
   type: npc
   aliases:
   - Bupido
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: derro prisoner who knows the route to Gracklstugh; secretly intends to murder
     companions as divine offerings
 - name: Uskvil
   type: npc
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: renegade derro savant, co-leader of the Gray Ghosts
 - name: Y
   type: npc
   note: derro savant, member of the Society of Brilliance
 - name: Zubriska
   type: npc
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: renegade derro savant twin sister, co-leader of the Gray Ghosts
 - name: Ariana
   type: npc
@@ -329,9 +352,13 @@ entities:
   - Chief Dorbo Diggermattock
   - Chief Diggermattock
   - Dorbo
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: chief and de facto co-ruler, leader of mining expeditions
 - name: Droki
   type: npc
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: scatterbrained derro courier for the Gray Ghosts and Council of Savants
 - name: Eldeth Feldrun
   type: npc
@@ -370,6 +397,10 @@ entities:
   note: deep gnome prisoner who can guide the party to Blingdenstone
 - name: Kazook Pickshine
   type: npc
+  aliases:
+  - Kazook
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: deep gnome alchemist and miner from Blingdenstone
 - name: Mev Flintknapper
   type: npc
@@ -381,12 +412,16 @@ entities:
   note: deranged svirfneblin surgeon serving Xazax the Eyemonger
 - name: Pelek
   type: npc
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: spirit whose severed hand from Gracklstugh can be laid to rest
 - name: Perigrog Scrapedust
   type: npc
   note: deep gnome who runs Whiteshell Mine
 - name: Sark Axebarrel
   type: npc
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: cynical guard leader who tasks party against the medusa
 - name: Senni Diggermattock
   type: npc
@@ -395,6 +430,8 @@ entities:
   - Sennai
   - Senni
   - Quartermaster Senni Diggermattock
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: quartermaster and de facto co-ruler, leader of settlers
 - name: Tappy Foamstrap
   type: npc
@@ -463,6 +500,8 @@ entities:
   note: myconid sovereign who poisons visitors at Neverlight Grove
 - name: Stool
   type: npc
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: myconid sprout from Neverlight Grove, former drow prisoner, guides party home
 - name: Voosbur
   type: npc
@@ -510,18 +549,24 @@ entities:
   note: kuo-toa archpriest member of the Society of Brilliance
 - name: Dorhun
   type: npc
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: stone giant apprentice to Stonespeaker Hgraam
 - name: Jaal
   type: npc
   note: stone giant guide who communes with rock to find the route
 - name: Rihuud
   type: npc
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: stone giant apprentice cursed to grow a second head and go mad
 - name: Stonespeaker Hgraam
   type: npc
   aliases:
   - Hgraam
   - Hargaam
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: stone giant leader in Gracklstugh who assigns a guide
 - name: Ulthar
   type: npc
@@ -599,12 +644,16 @@ entities:
   - Glabagool
   - Globagool
   - Globul
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: sentient ooze companion who prefers to remain in the Underdark
 - name: Grazilaxx
   type: npc
   note: mind flayer member of the Society of Brilliance who prefers telepathy
 - name: Grula-Munga
   type: npc
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: female ettin bodyguard of Narrak
 - name: Hourm
   type: npc
@@ -660,6 +709,13 @@ entities:
   - Thermbechaude
   - Wyrmsmith
   - Thembersham
+  - His Arrogance
+  - His Rotundity
+  - the Pampered
+  - the Portly
+  - the Scheming Red
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: red dragon Wyrmsmith of Gracklstugh, plots against the Keepers
 - name: Veldyskar
   type: npc
@@ -693,12 +749,16 @@ entities:
   note: fallen angel statue, head downcast, grants saving throw advantage
 - name: Narrak
   type: npc
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: derro savant leading a Demogorgon cult in the Whorlstone Tunnels
 - name: Nemevon
   type: npc
   note: fallen angel statue concealing face, repeats 'Kill me'
 - name: Shal
   type: npc
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: guise of a succubus posing as the Deepking's duergar consort, servant of Graz'zt
 - name: Silnia
   type: npc
@@ -853,6 +913,16 @@ entities:
   type: npc
   aliases:
   - Deepking
+  - Horgar Steelshadow V
+  - Deepking Horgar V
+  - King Horgar Steelshadow V
+  - Deepking Horgar Steelshadow V
+  - Deepking Horgar
+  - Horgar
+  - Steelshadow V
+  - the Deepking
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: grandfather of Horgar V who freed the derro slaves
 - name: Elminster
   type: npc
@@ -899,6 +969,8 @@ entities:
   note: derro god whom Buppido believes himself to incarnate
 - name: Diirinka
   type: deity
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: patron god of the derro, embodies cruelty, insanity, and cleverness
 - name: Elder Elemental Eye
   type: deity
@@ -919,6 +991,8 @@ entities:
   note: orc deity referenced via the orc Eye of Gruumsh
 - name: Laduguer
   type: deity
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: patron god of the duergar, god of self-reliance, defense, and survival
 - name: Laogzed
   type: deity
@@ -940,6 +1014,8 @@ entities:
   note: Prince of Evil Earth, linked to Ogrémoch's Bane
 - name: Orcus
   type: deity
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: Demon Lord of Undeath who reanimates the elder brain Cyrog
 - name: Segojan Earthcaller
   type: deity
@@ -990,42 +1066,102 @@ entities:
   type: location
 - name: Blade Bazaar
   type: location
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Darklake District marketplace selling weapons, armor, shields, and Darklake
+    Stout; hub for smithing-order clan politics and Droki sightings.
 - name: Cairngorm Cavern
   type: location
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Duergar clan compound named in this supplement's table of contents as part
+    of the Spoils of War appendix; no further description appears in this chunk.
 - name: Darklake Brewery
   type: location
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Location within the Darklake District named in this supplement's table of
+    contents; no further description appears in this chunk.
 - name: Darklake District
   type: location
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: A district of Gracklstugh beyond which the party's patron-issued badges grant
+    free roam; also the boundary beyond which Droki is not yet found.
 - name: Darklake Docks
   type: location
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Docks where Werz Saltbaron is attacked by the Empty-Scabbard Killers and rescued
+    by the party; garbage collectors and laborers gather here.
 - name: Dunglorrin Torune
   type: location
 - name: East Cleft District
   type: location
 - name: Flowstone District
   type: location
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: A district of Gracklstugh containing the Keepers of the Flame Headquarters
+    and Themberchaud's Lair, where the missing dragon egg's secret is known.
 - name: Halls of Sacred Spells
   type: location
+  aliases:
+  - Halls of Sacred Stones
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: A derro worship site accessed via magic or a hidden entrance tunnel in the
+    West Cleft District; hostile derro and neutral derro savants dwell within.
 - name: Hold of the Deepking
   type: location
 - name: Laduguer's Furrow
   type: location
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: District the party is sent or summoned into after their initial arrival, where
+    badges grant free reign to meet the major smithing clans.
 - name: Northfurrow District
   type: location
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: A district of Gracklstugh containing Clan Ironhead's Compound, where the party
+    can meet laird Thangus Ironhead and his granddaughter Grinta.
 - name: Overlake Hold
   type: location
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Large prison-and-guard-station, mistakenly described in the book as the Deepking's
+    temple home; Captain Errde Blackskull meets the party here.
 - name: Southfurrow District
   type: location
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: District named among Gracklstugh's places of interest in this supplement's
+    table of contents; no further description appears in this chunk.
 - name: The Ghohlbrorn's Lair
   type: location
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Location within the Darklake District named in this supplement's table of
+    contents; no further description appears in this chunk.
 - name: The Shattered Spire
   type: location
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Location where Werz Saltbaron later meets the party, thanks them, and opens
+    Kazook Pickshine's bag of holding to extract trade gems.
 - name: Themberchaud's Lair
   type: location
 - name: West Cleft District
   type: location
 - name: Whorlstone Tunnels
   type: location
+  aliases:
+  - Whorlstone
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Undercity tunnel system beneath Gracklstugh, split between Cult of Demogorgon
+    and Gray Ghost territory with hazardous unclaimed zones between the two hubs.
 - name: Buppido's Lair
   type: location
 - name: Cultist Hideout
@@ -1205,16 +1341,30 @@ entities:
   aliases:
   - Blinddenstone
   - Blindstone
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Deep gnome city sending the party as trade emissaries to Gracklstugh, preparing
+    for the Battle of Blingdenstone against the Pudding King.
 - name: Darklake
   type: location
 - name: Gauntlgrym
   type: location
 - name: Gracklstugh
   type: location
+  aliases:
+  - the city
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: City whose rumors include the Deepking's crackdowns, murders, rats, Stone
+    Guard corruption, and the Whorlstone Tunnels; home to the Gray Ghosts guild.
 - name: Gravenhollow
   type: location
 - name: Mantol-Derith
   type: location
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Trading post where Kazook Pickshine has been illicitly trading with the duergar
+    smuggler Werz Saltbaron.
 - name: Menzoberranzan
   type: location
   aliases:
@@ -1228,6 +1378,10 @@ entities:
   type: location
 - name: the Darklake
   type: location
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: The underground lake by which the party can enter Gracklstugh, an alternative
+    to entering the city by land.
 - name: The Labyrinth
   type: location
   aliases:
@@ -1242,10 +1396,18 @@ entities:
   type: location
   aliases:
   - Wormwrithings
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Region the party has no need of a route to, since Ylsa's task reward is changed
+    to Clan Henstak's favor.
 - name: Velkynvelve
   type: location
   aliases:
   - Valkenvylve
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Drow outpost the author's party escaped from, slaying Ilvara and others only
+    a few days before reaching Gracklstugh.
 - name: Entémoch's Boon
   type: location
   aliases:
@@ -1259,6 +1421,10 @@ entities:
   type: location
 - name: Pickshine Mines
   type: location
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Mines belonging to Kazook Pickshine, source of the spell gems entrusted to
+    the party's bag of holding.
 - name: Spine of the World
   type: location
 - name: Stoneheart Quarry
@@ -1270,6 +1436,10 @@ entities:
   note: vast subterranean realm of caverns and tunnels where the chapter takes place
 - name: Whiteshell Mine
   type: location
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Source of the Whiteshell Salt the party is transporting to trade in Gracklstugh,
+    prized as the Underdark's fancy sea salt.
 - name: Evermoors
   type: location
 - name: High Forest
@@ -1612,78 +1782,166 @@ entities:
   note: myconid breeding circle led by Yrberop
 - name: Clan Anvilthew
   type: faction
+  aliases:
+  - Clan Anvilthew (Toolmakers)
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: duergar toolmaker clan
 - name: Clan Blackskull
   type: faction
+  aliases:
+  - Clan Blackskull (Stonemasons)
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: duergar stonemason clan
 - name: Clan Bukbukken
   type: faction
+  aliases:
+  - Clan Bukbukken (Farming)
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: duergar farming clan
 - name: Clan Burakrinwurn
   type: faction
+  aliases:
+  - Clan Burakrinwurn (Dock Operators)
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: duergar dock-operator clan
 - name: Clan Cairngorm
   type: faction
   note: stone giant clan sworn to the Steelshadow line
 - name: Clan Coalhewer
   type: faction
+  aliases:
+  - Clan Coalhewer (Coal Miners)
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: duergar coal-miner clan
 - name: Clan Firehand
   type: faction
+  aliases:
+  - Clan Firehand (Smelters)
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: duergar smelter clan
 - name: Clan Goldwhisker
   type: faction
   note: svirfneblin wererat clan holding part of the ruins
 - name: Clan Hammercane
   type: faction
+  aliases:
+  - Clan Hammercane (Construction Engineers)
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: duergar construction-engineer clan
 - name: Clan Henstak
   type: faction
+  aliases:
+  - Clan Henstak (Food)
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: duergar food merchant clan
 - name: Clan Ironhead
   type: faction
+  aliases:
+  - Clan Ironhead (Weaponsmiths)
+  - Clan Ironhead's Compound
+  - Ironhead
+  - Ironheads
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: duergar weaponsmith clan
 - name: Clan Muzgardt
   type: faction
+  aliases:
+  - Clan Muzgardt (Brewers)
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: duergar brewer clan making Darklake Stout
 - name: Clan Parlynsurk
   type: faction
+  aliases:
+  - Clan Parlynsurk (Clothing Manufacturers)
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: duergar clothing-manufacturer clan
 - name: Clan Saltbaron
   type: faction
+  aliases:
+  - Clan Saltbaron (Salt Miners)
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: duergar salt-miner clan
 - name: Clan Steelshadow
   type: faction
   aliases:
   - Ironshadow
+  - Clan Steelshadow (Weaponsmiths)
+  - Steelshadow
+  - Steelshadows
+  - the Steelshadows
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: duergar weaponsmith and royal clan
 - name: Clan Thordensonn
   type: faction
+  aliases:
+  - Clan Thordensonn (Jewelers)
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: duergar jeweler clan
 - name: Clan Thrazgad
   type: faction
   aliases:
   - Tharzgad
+  - Clan Thrazgad (Armorsmiths)
+  - Clan Thrazgad's Compound
+  - Thrazgad
+  - Thrazgad Clan
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: duergar armorsmith clan
 - name: Clan Thuldark
   type: faction
+  aliases:
+  - Clan Thuldark (Metalworks and Jewels)
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: duergar metalworks and jewels clan
 - name: Clan Xardelvar
   type: faction
+  aliases:
+  - Clan Xardelvar (Gas Miners)
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: duergar gas-miner clan supplying flame lances
 - name: Clan Xornbane
   type: faction
+  aliases:
+  - Clan Xornbane (Scouts and Prospectors)
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: duergar scout and prospector clan
 - name: Clan Xundom
   type: faction
+  aliases:
+  - Clan Xundom (Steeder Breeders)
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: duergar steeder-breeder clan
 - name: Council of Lairds
   type: faction
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: advisory body of clan lairds under the Deepking
 - name: Council of Savants
   type: faction
   aliases:
   - Savants
+  - The Council
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: Gracklstugh faction plotting against Themberchaud
 - name: Council of Spiders
   type: faction
@@ -1703,6 +1961,8 @@ entities:
   note: Zhora Hallen's band of drow who steal purple worm eggs
 - name: Darkhafts
   type: faction
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: Deepking's secret corps of psionic agents and spies
 - name: Deepkingdom
   type: faction
@@ -1721,12 +1981,18 @@ entities:
   note: wilderness defenders of natural balance, faction represented by Morista Malkin
 - name: Empty-Scabbard Killers
   type: faction
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: order of psionic duergar soulblade assassins; Forak-Erach-Naek in Dwarvish
 - name: Feldrun clan
   type: faction
   note: clan of dwarves who joined the forces retaking Gauntlgrym
 - name: Gray Ghosts
   type: faction
+  aliases:
+  - The Gray Ghosts
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: the only thieves' guild in Gracklstugh, duergar and derro outcasts
 - name: Harpers
   type: faction
@@ -1772,6 +2038,10 @@ entities:
   note: recently formed council of sovereigns and circle leaders
 - name: Kavalrachni
   type: faction
+  aliases:
+  - Kavalrahcni
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: duergar steeder-riding cavalry, mostly from Clan Xundom
 - name: Keeper of the Future
   type: faction
@@ -1841,6 +2111,10 @@ entities:
   note: caste of duergar priests who officiate rituals and record lore
 - name: Xarrorn
   type: faction
+  aliases:
+  - Xarrorns
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: duergar specialists wielding flame lances, mostly from Clan Xardelvar
 - name: A Flight of Demons
   type: event
@@ -1853,6 +2127,8 @@ entities:
   note: the king's private hearing of the party's Underdark tale
 - name: Battle of Blingdenstone
   type: event
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: climactic assault to destroy the Pudding King and his oozes
 - name: Bruenor's Plan
   type: event
@@ -1870,6 +2146,8 @@ entities:
     Clawrift
 - name: Drow Pursuit
   type: event
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: Ilvara's hunting party tracks the escapees, measured by a pursuit level
 - name: Escape from Velkynvelve
   type: event
@@ -1883,6 +2161,8 @@ entities:
   note: negotiations to secure the five factions' support
 - name: grackle-lung
   type: event
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: exhaustion-inducing disease from Gracklstugh's constant smog
 - name: Great Modron March
   type: event
@@ -2348,6 +2628,10 @@ entities:
   type: concept
 - name: Nine Hells
   type: concept
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Plane where Brimtongue can hurl a struck foe for a minute; fiends may stay
+    indefinitely, others appear before Asmodeus if it completes.
 - name: Avernus
   type: concept
 - name: The Great Wheel
@@ -2459,6 +2743,8 @@ entities:
   type: npc
   aliases:
   - Pliinki
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
   note: mad derro savant guarding the obelisk
 - name: Brysis Of Khaem
   type: npc
@@ -2545,6 +2831,12 @@ entities:
   type: npc
 - name: Eldgrim
   type: npc
+  aliases:
+  - Eldgrim, Master Assassin
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Duergar soulblade, master assassin and second-in-command of the Empty-Scabbard
+    Killers under Qualux; distributes charity while scouting recruits for the illithid.
 - name: Elian
   type: npc
   aliases:
@@ -2562,6 +2854,12 @@ entities:
   type: npc
 - name: Grinta Ironhead
   type: npc
+  aliases:
+  - Grinta
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Hot-tempered granddaughter of Clan Ironhead's laird Thangus who strives for
+    change; might be pushed toward insurrection if shown the hit list.
 - name: Grogluk
   type: npc
 - name: Gru Manga
@@ -2583,6 +2881,10 @@ entities:
   type: npc
 - name: Lingrick Xardelvar
   type: npc
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Named sarcastically as Deepking Horgar's 'most gaseous ally' at the end of
+    his hit list of targets.
 - name: Milo Goodbarrel
   type: npc
   aliases:
@@ -2620,6 +2922,12 @@ entities:
   type: npc
 - name: Thangus Ironhead
   type: npc
+  aliases:
+  - Thangus
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Laird of Clan Ironhead in Northfurrow District; tells the party of the Deepking's
+    edict barring the Ironheads from accepting new work orders.
 - name: The Blind Monk (Candlekeep)
   type: npc
 - name: The Garden Shadow
@@ -2636,6 +2944,10 @@ entities:
   type: npc
 - name: Ulnara
   type: npc
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Derro savant occupying the Dumping Pit (Area 13) with an ogre zombie, zombies,
+    and a crawling claw; goes invisible to cast lightning bolt.
 - name: Valen
   type: npc
 - name: Valimor Brightgem
@@ -2720,9 +3032,9 @@ entities:
   aliases:
   - Ellen
   note: Silent child of Meredith of the Ford, near Daggerford; afflicted by the surface-bleeding
-    Underdark/chant madness, tenuously linked to Daz's headaches. Confirmed 'Elin' —
-    matches docs/campaign_state.md and 7x usage in docs/TheUnderdark.md; 'Ellen' was
-    the registry's error, now demoted to alias.
+    Underdark/chant madness, tenuously linked to Daz's headaches. Confirmed 'Elin'
+    — matches docs/campaign_state.md and 7x usage in docs/TheUnderdark.md; 'Ellen'
+    was the registry's error, now demoted to alias.
 - name: Maerith of the Ford
   type: npc
   aliases:
@@ -3007,6 +3319,698 @@ entities:
   - Circle of Masters
   note: newest circle of Zuggtmoy-touched myconids led by Yestabrod; takes carcasses
     the Circle of Hunters bring in, sends myconids outside the grove unannounced (ch31)
+- name: Adrik Blackskull
+  type: npc
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: 553-year-old male duergar leader of Clan Blackskull (Stonemasons); a blustering
+    blowhard who believes in claiming power through station.
+- name: Amber Thrazgad
+  type: npc
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Laird of Clan Thrazgad in Southfurrow District; reports stolen ore, suspects
+    the Gray Ghosts, and offers a 20% armorsmithing discount for its recovery.
+- name: Audhild Xornbane
+  type: npc
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: 308-year-old female duergar leader of Clan Xornbane (Scouts and Prospectors);
+    highly intelligent, flowery, believes in suffering to prove worth.
+- name: Baern Xundom
+  type: npc
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: 392-year-old male duergar leader of Clan Xundom (Steeder Breeders); stern,
+    believes in responsibility and obedience; Gartokkar's brother.
+- name: Bruenor Burakrinwurn
+  type: npc
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: 639-year-old male duergar leader of Clan Burakrinwurn (Dock Operators); blind
+    and nearly deaf, suspicious of everyone, values rooting out lies.
+- name: Dagnal Thordensonn
+  type: npc
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: 585-year-old male duergar leader of Clan Thordensonn (Jewelers); curious and
+    honorable.
+- name: Delg Coalhewer
+  type: npc
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: 262-year-old male duergar leader of Clan Coalhewer (Coal Miners); ponderous
+    and believes in charity where possible.
+- name: Einkil Anvilthew
+  type: npc
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: 329-year-old male duergar leader of Clan Anvilthew (Toolmakers); curious about
+    everyone he meets and believes strongly in redemption.
+- name: Flint Thuldark
+  type: npc
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: 257-year-old male duergar leader of Clan Thuldark (Metalworks and Jewels);
+    nervous and sullen, believes in respecting others' work.
+- name: Gunnloda Firehand
+  type: npc
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: 489-year-old female duergar leader of Clan Firehand (Smelters); irritable
+    and agitated, believes in speaking plainly and fairly.
+- name: Gurdis Bukbukken
+  type: npc
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: 484-year-old female duergar leader of Clan Bukbukken; argumentative about
+    fungi-farming practices and prone to whimsy after drinking.
+- name: Helja Henstak
+  type: npc
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: 354-year-old female duergar leader of Clan Henstak (Food); very anxious about
+    food stores, believes in moderation and rationing.
+- name: Kathra Muzgardt
+  type: npc
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: 574-year-old female duergar leader of Clan Muzgardt (Brewers); arrogant and
+    extremely greedy, believes money is key to power.
+- name: Mardred Parlynsurk
+  type: npc
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: 360-year-old female duergar leader of Clan Parlynsurk (Clothing Manufacturers);
+    friendly, believes in neutrality and focusing on her work.
+- name: Orsik Saltbaron
+  type: npc
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: 363-year-old male duergar leader of Clan Saltbaron (Salt Miners); honest,
+    believes in independence and letting others find their paths.
+- name: Riswynn Hammercane
+  type: npc
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: 451-year-old female duergar leader of Clan Hammercane (Construction Engineers);
+    friendly, believes logic is key to life's satisfaction.
+- name: Vondal Xardelvar
+  type: npc
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: 317-year-old male duergar leader of Clan Xardelvar (Gas Miners); hot-tempered
+    and believes in honor.
+- name: Olga
+  type: npc
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Horgar's daughter and heir to the Steelshadow throne; Themberchaud urges the
+    party to assassinate her as poetic justice for his stolen egg.
+- name: Ivar
+  type: npc
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: One of three soulblade guards (36 hit points) protecting Eldgrim at Area 7,
+    wielding a mind blade alongside Ulara and Shari.
+- name: Qualux
+  type: npc
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Mind flayer occupying Area 8, secretly directing Eldgrim and the Empty-Scabbard
+    Killers while cultivating a fledgling elder brain colony born from Lorthio.
+- name: Shari
+  type: npc
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: One of three soulblade guards (36 hit points) protecting Eldgrim at Area 7,
+    wielding a mind blade alongside Ulara and Ivar.
+- name: Ulara
+  type: npc
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: One of three soulblade guards (36 hit points) protecting Eldgrim at Area 7,
+    wielding a mind blade alongside Ivar and Shari.
+- name: Ylsa
+  type: npc
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Merchant whose task reward is changed to Clan Henstak's favor, usable for
+    advantage in one clan negotiation.
+- name: Asmodeus
+  type: deity
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Ruler of the Nine Hells; tortured a lesser devil into eternal servitude, binding
+    its spirit to Brimtongue, which urges wielders to contact him.
+- name: Assassins' Tunnel
+  type: location
+  aliases:
+  - Area 5b
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Tunnel used by Empty-Scabbard Killers soulblades to reach the Raucous Mesa.
+- name: Cranium Rat Den
+  type: location
+  aliases:
+  - Area 6c
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Chamber housing a swarm of cranium rats plus additional cranium rats within
+    the Assassins' Den.
+- name: Cultist Chasm
+  type: location
+  aliases:
+  - Area 5a
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Chasm used by Cult of Demogorgon derro to reach the Raucous Mesa.
+- name: Mindwitness Chamber
+  type: location
+  aliases:
+  - Area 6e
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Chamber housing two soulblades and a mindwitness created from a captured spectator,
+    Qualux's greatest triumph.
+- name: Northeast Barracks
+  type: location
+  aliases:
+  - Area 6b
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Chamber housing four soulblades and two intellect devourers within the Assassins'
+    Den.
+- name: Northwest Barracks
+  type: location
+  aliases:
+  - Area 6a
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Chamber housing five soulblades and 2d4 cranium rats within the Assassins'
+    Den.
+- name: Qualux's Quarters
+  type: location
+  aliases:
+  - Area 8
+  - Tunnel with Spikes
+  - Whorlstone Area 8
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Table of contents lists Area 8 as Qualux's Quarters; the Whorlstone quickref
+    instead describes it as a hazardous spiked tunnel reactivated by cultists.
+- name: Small Den
+  type: location
+  aliases:
+  - Area 6d
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Chamber housing two soulblades and an intellect devourer within the Assassins'
+    Den.
+- name: Whorlstone Area 1 (Entrance)
+  type: location
+  aliases:
+  - Area 1
+  - Entrance
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Entrance to the Whorlstone Tunnels named in this supplement's table of contents;
+    no further description appears in this chunk.
+- name: Whorlstone Area 10
+  type: location
+  aliases:
+  - Area 10
+  - Cultist Outpost
+  - Cultist Pens
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Table of contents lists Area 10 as Cultist Pens; the Whorlstone quickref describes
+    it as Narrak's forward Cultist Outpost with Demogorgon sigils and black ichor.
+- name: Whorlstone Area 11
+  type: location
+  aliases:
+  - Area 11
+  - Cultist Barracks
+  - Quasit Playground
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Table of contents lists Area 11 as Quasit Playground; the Whorlstone quickref
+    describes it as a Cultist Barracks hiding a letter from Zubriska to Uskvil.
+- name: Whorlstone Area 12
+  type: location
+  aliases:
+  - Area 12
+  - Narrak's Headquarters
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Table of contents lists Area 12 as Cultist Hideout; the Whorlstone quickref
+    describes it as Narrak's Headquarters, with a Demogorgon altar and severed heads.
+- name: Whorlstone Area 13 (Dumping Pit)
+  type: location
+  aliases:
+  - Area 13
+  - Dumping Pit
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Whorlstone chamber of reanimated multi-headed zombies made from Empty-Scabbard
+    Killer corpses, where Uskvil performs necromantic rituals.
+- name: Whorlstone Area 14 (The Obelisk)
+  type: location
+  aliases:
+  - Area 14
+  - Obelisk
+  - The Obelisk
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Gray Ghosts' Whorlstone headquarters holding the pulsating obelisk and the
+    chained red dragon egg Pliinki and Uskvil are trying to channel into it.
+- name: Whorlstone Area 14a (Doors)
+  type: location
+  aliases:
+  - Area 14a
+  - Doors
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Whorlstone corridor of magically sealed doors keyed to ritual components (egg,
+    ore, blood, shadow, mind); only the egg sigil is active.
+- name: Whorlstone Area 14b (Zubriska's Barracks / Hideout)
+  type: location
+  aliases:
+  - Area 14b
+  - Thieves' Hideout
+  - Whorlstone Area 14b (Zubriska's Barracks)
+  - Zubriska's Barracks
+  - Zubriska's Hideout
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Zubriska's Whorlstone hideout, holding thieves' tools, a scroll of teleport,
+    and her journal plotting to betray the cult and claim the obelisk.
+- name: Whorlstone Area 14c (Thief Barracks)
+  type: location
+  aliases:
+  - Area 14c
+  - Thief Barracks
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Gray Ghosts dormitory in Whorlstone holding sabotage target lists and a note
+    referencing the mysterious 'One Who Watches.'
+- name: Whorlstone Area 1a (Pool Bypass)
+  type: location
+  aliases:
+  - Area 1a
+  - Pool Bypass
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Whorlstone sub-area named in this supplement's table of contents; no further
+    description appears in this chunk.
+- name: Whorlstone Area 1b (Buppido's Lair)
+  type: location
+  aliases:
+  - Area 1b
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Chamber cursed by Orcus after Buppido's failed sacrifice, raising the dead
+    here as undead; Pelek's ghost appears here.
+- name: Whorlstone Area 2 (Diseased Pool)
+  type: location
+  aliases:
+  - Area 2
+  - Diseased Pool
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Whorlstone area named in this supplement's table of contents; no further description
+    appears in this chunk.
+- name: Whorlstone Area 3
+  type: location
+  aliases:
+  - Area 3
+  - Tunnel Junction
+  - Zombie Hall
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: This document's table of contents lists Area 3 as Zombie Hall; its Whorlstone
+    quickref instead describes Area 3 as Tunnel Junction, a transit point.
+- name: Whorlstone Area 4
+  type: location
+  aliases:
+  - Area 4
+  - Collapsed Passage
+  - Fungi Thicket
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Table of contents lists Area 4 as Fungi Thicket; the Whorlstone quickref describes
+    it as a Collapsed Passage the Gray Ghosts are trying to clear.
+- name: Whorlstone Area 5
+  type: location
+  aliases:
+  - Area 5
+  - Storage Cache
+  - The Raucous Mesa
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Table of contents lists Area 5 as Raucous Mesa; the Whorlstone quickref describes
+    it as a Storage Cache hiding a letter from Uskvil to Pliinki.
+- name: Whorlstone Area 6
+  type: location
+  aliases:
+  - Area 6
+  - Assassins' Den
+  - Assassins' Dens
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Table of contents lists Area 6 as Assassins' Den; the Whorlstone quickref
+    describes it as a Barracks occupied by derro savants running sleep experiments.
+- name: Whorlstone Area 7 (Assassins' Headquarters)
+  type: location
+  aliases:
+  - Area 7
+  - Assassins' Headquarters
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Eldgrim's Whorlstone lair holding Deepking Horgar's sealed hit list naming
+    local nobles, a drow priestess, and the derro savant Pliinki as targets.
+- name: Whorlstone Area 9
+  type: location
+  aliases:
+  - Area 9
+  - Hydra's Nest
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Table of contents lists Area 9 as Fountain of Evil; the Whorlstone quickref
+    describes it as the hydra's territory, littered with corpses from Area 13.
+- name: Derro Territory
+  type: location
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: A region referenced for background and encounter rules on derro hostility
+    toward non-derro visitors entering the Halls of Sacred Spells.
+- name: West Cleft and East Cleft Districts
+  type: location
+  aliases:
+  - East Cleft
+  - East Clefts
+  - West Cleft
+  - West Clefts
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Districts where Uskvil formerly resided and where Droki can be sought as a
+    lead into the Whorlstone Tunnels; also a target of Horgar's derro purge.
+- name: City Gates
+  type: location
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Gracklstugh's main land entrance, where the Stone Guard question and inspect
+    the goods of arriving traders.
+- name: Furrow Gates
+  type: location
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Location within the Darklake District named in this supplement's table of
+    contents; no further description appears in this chunk.
+- name: Keepers of the Flame Headquarters
+  type: location
+  aliases:
+  - Keepers of the Flame Barracks
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Base of the Keepers of the Flame faction in Flowstone District, where Gartokkar
+    Xundom and Themberchaud the Wyrmsmith can be met.
+- name: The Hold of the Deepking
+  type: location
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Location further within the city where the book alternately places the Deepking's
+    temple home, contradicting Overlake Hold's description.
+- name: The Royal Vault
+  type: location
+  aliases:
+  - Royal Vault
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Deepking's five-chambered vault beneath his throne, guarded by locks, symbol
+    spells, and mass suggestion compelling intruders to surrender.
+- name: Cyrog's Chamber
+  type: location
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Chamber where Orcus appeared, scattering the few surviving illithids who fled,
+    one of whom later became Qualux.
+- name: Brimtongue
+  type: item
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Sentient legendary warhammer loyal to Asmodeus; can hurl a struck creature
+    through the Nine Hells, wielded here by Deepking Horgar.
+- name: Council of Savants Letters
+  type: item
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Correspondence recovered in the Whorlstone Tunnels linking instructions from
+    Narrak and Pliinki to the theft of the dragon egg and other disruptions.
+- name: Darklake Stout
+  type: item
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Beer brewed at the Darklake Brewery; can be purchased at the Blade Bazaar.
+- name: Dwarven Thrower
+  type: item
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: A thrown warhammer Horgar wields, dealing bonus damage and extra damage against
+    giants, that flies back to his hand after a ranged attack.
+- name: Eldgrim's Shield of Far Sight
+  type: item
+  aliases:
+  - shield of far sight
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Magical shield gifted to Eldgrim by Qualux, bearing an embedded derro eyeball
+    through which Qualux can see and cast Mind Blast.
+- name: Empty-Scabbard Killers Hit List
+  type: item
+  aliases:
+  - Hit List
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Sealed parchment signed by Deepking Horgar found in Eldgrim's Whorlstone lair,
+    naming assassination targets and proving the Deepking's direct ties to the killers.
+- name: Horgar's Cape of the Mountebank
+  type: item
+  aliases:
+  - Cape of the Mountebank
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Enhanced cape of the mountebank that gains bonus charges to cast dimension
+    door when worn by a creature attuned to Brimtongue.
+- name: Horgar's Hit List
+  type: item
+  aliases:
+  - The Deepking's Hit List
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: List of assassination targets written and signed by Deepking Horgar, found
+    on Eldgrim's desk in Area 7.
+- name: Missing Red Dragon Egg
+  type: item
+  aliases:
+  - Missing Dragon Egg
+  - Red Dragon Egg
+  - Stolen Egg
+  - the egg
+  - the missing dragon egg
+  - the missing red dragon egg
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Red dragon egg stolen from the Keepers of the Flame by the Gray Ghosts, held
+    in Whorlstone Area 14 as insurance against Themberchaud's future replacement.
+- name: Potion of Dragon's Breath
+  type: item
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Potion from Themberchaud's treasure hoard, given to the party to help deliver
+    the killing blow against Horgar's daughter Olga.
+- name: The Binding of the Obelisk
+  type: item
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Open book in Narrak's Whorlstone lair detailing rituals to awaken the stolen
+    dragon egg using Clan Thrazgad's acid-resistant ore.
+- name: Thrazgad Clan's Missing Ore
+  type: item
+  aliases:
+  - the ore
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Acid-resistant ore stolen from Clan Thrazgad by the Gray Ghosts, found useless
+    for repairing the Whorlstone obelisk despite the cult's efforts.
+- name: Thrazgad Ore
+  type: item
+  aliases:
+  - Missing Ore
+  - Missing Thrazgad Ore
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Stolen acid-resistant ore of the Thrazgad Clan, found in crates near the Obelisk
+    where Pliinki failed to incorporate it.
+- name: Trident of the Lake
+  type: item
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: +2 trident found in Vault 2 of the Royal Vault, granting water breathing and
+    the ability to speak Aquan while attuned.
+- name: The Stone Guard
+  type: faction
+  aliases:
+  - Stone Guards
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Duergar military corps of 500 serving the Deepking, patrolling Gracklstugh
+    and guarding the Hold and Overlake Hold under Errde Blackskull.
+- name: Cult of Demogorgon
+  type: faction
+  aliases:
+  - Narrak's cult
+  - the cult
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Derro-led cult worshiping Demogorgon that has infiltrated the Council of Savants
+    and the Gray Ghosts, hoping to summon the demon prince to Gracklstugh.
+- name: Cult of Orcus
+  type: faction
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Necromantic cult foretold to arise from Whorlstone corpses stuffed there if
+    Horgar's derro purge succeeds, fueled by the fallen dead as fodder.
+- name: Cairngorm Clan
+  type: faction
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Clan led by Stonespeaker Hgraam, sworn to the Steelshadows; worried a derro
+    conflict could bring great losses given their territory's proximity.
+- name: The Keepers of the Flame
+  type: faction
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Order loyal to Clan Steelshadow and the Deepking that keeps Themberchaud placated;
+    at war with the Gray Ghosts over the stolen dragon egg.
+- name: Assassins Interrupted
+  type: event
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Encounter (OOTA 62) at the Darklake Docks, triggered when characters arrive
+    unescorted; begins as the party spots Werz.
+- name: Bar Fight
+  type: event
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Named encounter at the Shattered Spire, referenced only as "See 'Bar Fight'
+    (OOTA 63)."
+- name: Chapter 4 - Insurrection!(?)
+  type: event
+  aliases:
+  - Insurrection
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: A future chapter referenced as a forward pointer; the Keepers of the Flame's
+    and Gray Ghosts' reactions to the party's discoveries carry into it.
+- name: Deep Gnome Merchant
+  type: event
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Named encounter suggested to highlight Gracklstugh's booming trade and the
+    duergar's slaving practices.
+- name: Duergar Patrol
+  type: event
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Random patrol of 1d4+2 duergar, all but two invisible; badges of rank from
+    Gartokkar or Errde end encounters peaceably.
+- name: Merchant Madness
+  type: event
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Named encounter referenced from the original book (OOTA 61); no further detail
+    is given in this supplement.
+- name: Orc Mercenaries
+  type: event
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Named encounter suggested to highlight Gracklstugh's booming trade and the
+    duergar's slaving practices.
+- name: Pliinki's Experiments
+  type: event
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: 'Appendix A section detailing the stolen red dragon egg''s fate: if not destroyed
+    it hatches into Gorgthrax, a two-headed wyrmling drawn to Demogorgon.'
+- name: Rampaging Giant Encounter
+  type: event
+  aliases:
+  - Rampaging Giant
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Encounter with the mutated, rampaging Rihuud that draws Keeper-of-the-Flame
+    Gartokkar's attention to the party during their time in Gracklstugh.
+- name: Rumor Mill
+  type: event
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Named rumor-gathering encounter at the Ghohlbrorn's Lair referenced from the
+    original book (OOTA 64).
+- name: Slave Caravan
+  type: event
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Recurring named encounter suggested to highlight that Gracklstugh's duergar
+    are slavers.
+- name: The Downward Spiral
+  type: event
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Prior campaign-book chapter (OOTA 55) describing the madness and corruption
+    spreading through Gracklstugh, expanded here via the Council of Savants' cult
+    infiltration.
+- name: Gorgthrax
+  type: npc
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Name the stolen red dragon egg assumes on hatching; a demonically-influenced,
+    two-headed wyrmling drawn to serve Demogorgon as a mount.
+- name: Hydra
+  type: npc
+  aliases:
+  - Area 9 Hydra
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Multi-headed guardian of Whorlstone Area 9's travel routes, listed among the
+    tunnels' primary actors; hunts and attacks any group passing through, regardless
+    of faction.
+- name: Zombies with Multiple Heads
+  type: npc
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Multi-headed zombies reanimated from slain Empty-Scabbard Killers in Whorlstone
+    Area 13, product of cult experiments to create hybrid warriors; mindless but aggressive.
+- name: Appendix B
+  type: concept
+  aliases:
+  - Duergar Clans, Military, and Other Factions
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Book appendix with bare-bones details on each of the nineteen duergar clans,
+    their numbers, industries, and feelings toward key events.
+- name: Demogorgonic Abomination
+  type: concept
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: New creature race introduced in this supplement's Appendix E; only its title
+    appears in this front-matter chunk, with no further description given here.
+- name: One Who Watches
+  type: concept
+  provenance: supplement
+  source: Gracklstugh Revised - Turmoil in the City of Blades
+  note: Mysterious figure named in a Whorlstone note claiming the stolen dragon egg
+    is meant for it, not Narrak; identity unrevealed in this chunk.
 distinct:
 - - Topsy
   - Turvy
