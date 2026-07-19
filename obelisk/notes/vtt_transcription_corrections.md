@@ -22,15 +22,16 @@ Canonical spellings are verified against `docs/background/name_glossary.md` and 
 |---|---|
 | Xenophon, Xenobon, Zenovon | **Zenvon** |
 | Zenoan | **Zenvon** (session 5: more ASR variant of the PC "Zenvon") |
+| Zanabon, Zenimon, Xenob | **Zenvon** (session 7: more ASR variants of the PC "Zenvon") |
 | Vera | **Veyra** |
-| Sister Mela, Mela | **Sister Maela** |
+| Sister Mela, Mela, Mila, Myla, Mil | **Sister Maela** (session 7: "Mila"/"Myla"/"Mil" also = Maela, the Turn-Undead cleric) |
 
 ## NPCs and creatures
 
 | Wrong | Right |
 |---|---|
 | Clarg | **Klarg** |
-| Glastaff, Glass Staff, Glassdaff | **Glasstaff** (session 4: "Clarg"→Klarg; session 5: two-word "glass staff" / "Glassdaff" = Glasstaff, Iarno Albrek's alias) |
+| Glastaff, Glass Staff, Glassdaff, Glass Tap | **Glasstaff** (session 4: "Clarg"→Klarg; session 5/7: two-word "glass staff" / "Glassdaff" / "Glass Tap" = Glasstaff, Iarno Albrek's alias) |
 | Toblin | **Toblen** |
 | Tobelin, Tublin | **Toblen** (session 4: more ASR variants of "Toblen Stonehill") |
 | Glastaff | **Glasstaff** |
@@ -48,6 +49,7 @@ Canonical spellings are verified against `docs/background/name_glossary.md` and 
 | Linen, Lanain | **Linene** (session 4: single-token garbles of "Linene") |
 | Yarno, Yorno, Jano, Yano, Jarno, Vekov, Evoko | **Iarno** (session 4: ASR garbles of "Iarno Albrek"/Glasstaff) |
 | Quip | **Pip** (session 4: Nikhil's sidekick Pip, ASR garble) |
+| Pimp, Pippa, Pips | **Pip** (session 7: more ASR garbles of the sidekick "Pip") |
 | Albrecht | **Albrek** (session 4: "Jarno/Larno Albrecht" = Iarno Albrek) |
 | Ruxothid, Ruxathid | **Ruxithid** (session 4: Veyra repeating the goblin's name) |
 | Melavera | **Veyra** (session 4: fused "Maela"+"Veyra" garble of the tiefling) |
