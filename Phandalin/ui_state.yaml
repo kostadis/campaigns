@@ -110,7 +110,7 @@ ui:
     batch: false
     session_name: null
     context: []
-    backend: claude-code
+    backend: anthropic
     dgx_endpoint: null
     dgx_model: null
     scrub_enabled: false

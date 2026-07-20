@@ -27,9 +27,9 @@ I let her do the talking. She is better at it. I am better at carrying things. S
 
 The man laughed but did not agree. "As much as I would like to do this for free and gratis, it takes time and money. Any little money you can give would be helpful."
 
-Then came the numbers, and I am not the numbers man. Valphine read out the cost — sixteen hundred and seventy-five gold. Vukradin: "We don't have that." Valphine: "Well, we have seven hundred." Soma started in — "You're gonna spend" — and Vukradin finished it for her, "And all the money, you're gonna spend it all." Then, deciding, the way he does when he's talked himself into something: "Fun money to make money. Alright, I got it."
+Then came the reckoning of price, and I am not the one for sums. Valphine read out the cost — more gold than I'd ever held at once, a number that hung in the air. Vukradin: "We don't have that." Valphine: "Well, we've got less than half of it." Soma started in — "You're gonna spend" — and Vukradin finished it for her, "And all the money, you're gonna spend it all." Then, deciding, the way he does when he's talked himself into something: "Fun money to make money. Alright, I got it."
 
-But the man would not take it. "Valphine, that is too generous an award. Three hundred gold pieces for the chosen of Lathander."
+But the man would not take it. "Valphine, that is too generous an award. A fraction of that, for the chosen of Lathander."
 
 "Make sure there's an emblem of Lathander on the back of the armor," Valphine said. Then, plain as setting down a stone: "This will be for Brewbarry, though."
 
@@ -37,7 +37,7 @@ That turned the room toward me.
 
 I do not wear armor as a rule. It cages the arms. The scale mail from before sat wrong on my shoulders the whole time I wore it. And now this — a dead dragon's hide, with the sun-god burned into the back, right between my shoulder blades where I could not see it but every man behind me could.
 
-"Alright, we're giving this guy three hundred gold, wow," Vukradin said.
+"Alright, we're handing this man a small fortune, wow," Vukradin said.
 
 "So we get something in return," I said.
 
