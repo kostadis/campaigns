@@ -23,8 +23,8 @@ Canonical spellings are verified against `docs/background/name_glossary.md` and 
 | Xenophon, Xenobon, Zenovon, Xenovon, Xenomon, Cinnamon, Zenomon, Zenon, Zenotic, Zenovan | **Zenvon** |
 | Zenoan | **Zenvon** (session 5: more ASR variant of the PC "Zenvon") |
 | Zanabon, Zenimon, Xenob | **Zenvon** (session 7: more ASR variants of the PC "Zenvon") |
-| Vera, Azvera, Rivera, Maya | **Veyra** |
-| Sister Mela, Mela, Mila, Myla, Mil, Myra, Nela | **Sister Maela** (session 7: "Mila"/"Myla"/"Mil" also = Maela, the Turn-Undead cleric) |
+| Vera, Azvera, Rivera, Maya, Maia, Zerabira | **Veyra** |
+| Sister Mela, Mela, Mila, Myla, Mil, Myra, Nela, Mele, Sister Bela, Sister Meela, Sturmela, Sister Mele, Tell Sister Meila | **Sister Maela** (session 7: "Mila"/"Myla"/"Mil" also = Maela, the Turn-Undead cleric) |
 
 ## NPCs and creatures
 
@@ -60,7 +60,7 @@ Canonical spellings are verified against `docs/background/name_glossary.md` and 
 | Karimi, Redbrand Moravian, Redbrand Muffian, Redbrand muffin | **Redbrand Ruffian** |
 | Rhondar, Prandar, Rudar, Randar, Rondor, Brandar, Randa, Randor, Rhonda, Rondart, Rundar, Gundrid, Arnold, Brandor | **Rondar** |
 | Gnothic | **Nothic** |
-| Orman, Bormann | **Urmon** |
+| Orman, Bormann, Ormon | **Urmon** |
 | Dvarvish | **Dwarvish** |
 | Carbon Wester,Harbren Wester,Pardman Wester | **Harbin Wester** (session 5: ASR garbles of the townmaster's first name, correct surname retained) |
 | Iarno Ulbrecht,Larno Albrek,Giano Albrand | **Iarno Albrek** (session 5: ASR garbles of Glasstaff's real name) |
