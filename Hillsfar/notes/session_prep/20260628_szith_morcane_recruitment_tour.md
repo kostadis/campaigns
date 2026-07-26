@@ -173,8 +173,23 @@ The way in is **a fight:** the Scene-1 escapees lead the party to a **slave pen*
 - **The con:** promise Rilira her house restored (conflicts with Hamadh's throne!) while privately backing Korkan, or vice versa. Play the claimants against each other.
 - **The domination / the rebel special:** refuse to anoint either leader. Arm the slaves as a *leaderless* force loyal to the party directly — humiliating both would-be authorities. Messy, powerful, very on-brand.
 
+### Arriving complication — Sorn's tail
+
+**Sorn** (the drow warrior Felkur sent to clear the terrace) catches up with the party at the slave pen entrance. He didn't kill all the overseers. Two surviving duergar are right behind him — furious, armed, and **silent**: they can't call the giants without admitting they lost to one drow, so they want personal payback, not a report.
+
+This lands at the slave pen door as a quiet crisis. The party has to resolve two armed, cornered duergar *without* triggering a patrol — right before they need to make a good impression on Rilira and Korkan.
+
+**Rylzyn's position:** he will not intervene on Sorn's behalf. He'll watch.
+
+**The Grundar wild card:** if **Grundar Ashmantle** is in the slave dwellings (he runs inventory on the pens — he probably is), he recognizes his duergar crew the moment they storm in. He now has leverage over everyone: the two who didn't report are his to squeeze, and Rylzyn's history just walked in the door behind them. His price for cooperation just went up. See `notes/npcs/grundar_ashmantle.md` and `notes/npcs/sorn.md`.
+
+**Resolving the tail (options — let the table find it):**
+- Fight them quietly (knives, no noise — DC 15 group Stealth or the pen hears it)
+- Buy them off (Grundar can name a price; the two overseers want *out* more than revenge if offered a real exit)
+- Let Sorn handle it (he will; it won't be quiet; Rylzyn says nothing)
+
 ### Friction
-**Akritas** (Enclave — protects the innocent) is fully on board with liberation. **Bramgrim** too. This is the faction with the *least* NPC friction — let the players enjoy a clean heroic beat, then complicate it with the Rilira/Korkan succession knife-fight they now own.
+**Akritas** (Enclave — protects the innocent) is fully on board with liberation. **Bramgrim** too. This is the faction with the *least* NPC friction — let the players enjoy a clean heroic beat, then complicate it with the Rilira/Korkan succession knife-fight they now own. **Rylzyn's drow-only loyalty** is the quiet wedge: he visibly does not care about the non-drow slaves, and Rilira will notice.
 
 ### Success / Failure
 - **Win:** numbers — the uprising that turns the assault from a raid into a war the giants lose. Lowest combat value per head, highest total mass.
